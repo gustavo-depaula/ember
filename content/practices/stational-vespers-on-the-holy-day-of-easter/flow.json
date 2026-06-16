@@ -1,0 +1,520 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "From Breviarium Parisiense (1736)"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "On Easter Sunday, the second Vespers in the Parisian liturgy preserve an ancient Roman tradition. After the first part is sung in the choir, clergy and faithful process to the baptismal font, which is incensed, before returning and pausing before the crucifix. This ceremony, dating back to the 8th–11th centuries, was originally practiced in Rome and called triple vespers: the Pope began at St. John Lateran, continued to the Lateran baptistery, and concluded at the monastery of St. Andrew of the Cross."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "During the rite, numerous Alleluias were sung alternately in Greek and Latin. Testimonies suggest that it was introduced in Rome in the 4th century by St. Jerome, imitating the practice in Jerusalem at the Holy Sepulchre. There, newly baptized catechumens, dressed in white robes, joined the procession during Easter week, while the bishop gave daily catecheses—examples survive from St. Cyril of Jerusalem. This is the origin of the term in Albis (Easter Octave)."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "In Paris, this memory is preserved by having the cantors wear white albs instead of copes. Although the office disappeared from Rome after the papacy's exile to Avignon in the 14th century, many French and Rhenish dioceses continued the tradition, and it was included in diocesan liturgical books into the 19th and 20th centuries."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Part I - In Quire"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Pater. Ave."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\nGloria Patri, etc. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "We begin by singing the first three psalms under the following antiphon:"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Antiphon"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia. Alleluia. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 109"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Dixit Dominus Domino meo: sede a dextris meis.\nDonec ponam inimicos tuos scabellum pedum tuorum.\nVirgam virtutis tuae emittet Dominus ex Sion: dominare in medio inimicorum tuorum.\nTecum principium in die virtutis tuae in splendoribus sanctorum: ex utero ante luciferum genui te.\nIuravit Dominus, et non poenitebit eum: tu es sacerdos in aeternum secundum ordinem Melchisedech.\nDominus a dextris tuis confregit in die irae suae reges.\nIudicabit in nationibus, implebit ruinas: conquassabit capita in terra multorum.\nDe torrente in via bibet: propterea exaltabit caput.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 110"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Confitebor Domino in toto corde meo, in consilio iustorum, et congregatione.\nMagna opera Domini: exquisita in omnes voluntates eius.\nConfessio et magnificentia opus eius: et iustitia eius manet in saeculum saeculi.\nMemoriam fecit mirabilium suorum, misericors et miserator Dominus.\nEscam dedit timentibus se: memor erit in saeculum testamenti sui.\nVirtutem operum suorum annuntiabit populo suo:\nUt det illis hereditatem gentium.\nOpera manuum eius veritas et iudicium.\nFidelia omnia mandata eius:\nConfirmata in saeculum saeculi, facta in veritate et aequitate.\nRedemptionem misit populo suo: mandavit in aeternum testamentum suum.\nSanctum et terribile nomen eius.\nInitium sapientiae timor Domini.\nIntellectus bonus omnibus facientibus eum:\nLaus eius manet in saeculum saeculi.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 111"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Beatus vir qui timet Dominum: in mandatis eius volet nimis.\nPotens in terra erit semen eius: generatio rectorum benedicetur.\nGloria et divitiae in domo eius: et iustitia eius manet in saeculum saeculi.\nExortum est in tenebris lumen rectis: misericors, et miserator, et iustus.\nIucundus homo qui miseretur et commodat, disponet sermones suos in iudicio:\nquia in aeternum non commovebitur.\nIn memoria aeterna erit iustus: ab auditione mala non timebit.\nParatum cor eius sperare in Domino, confirmatum est cor eius:\nnon commovebitur donec despiciat inimicos suos.\nDispersit, dedit pauperibus: iustitia eius manet in saeculum saeculi,\ncornu eius exaltabitur in gloria.\nPeccator videbit, et irascetur, dentibus suis fremet et tabescet:\ndesiderium peccatorum peribit.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "After the first three psalms, the antiphon is repeated with the neume added at the end; and likewise for the other antiphons."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Antiphon"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia. Alleluia. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Responsorium"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Haec dies, quam fecit Dominus: exsultemus, et laetemur in ea.\n℣. Confitemini Domino, quoniam bonus: quoniam in saeculum misericodira ejus."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alleluia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia. Alleluia.\n℣. Pascha nostrum immolatus est Christus.\n℣. Epulemur in azymis sinceritatis et veritatis."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Sequentia"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Victimae paschali laudes immolent Christiani.\nAgnus redemit oves: Christus innocens Patri reconciliavit peccatores.\nMors et vita duello conflixere mirando: dux vitae mortuus, regnat vivus.\nDic nobis Maria, quid vidisti in via?\nSepulcrum Christi viventis, et gloriam vidi resurgentis:\nAngelicos testes, sudarium, et vestes.\nSurrexit Christus spes mea: praecedet suos in Galilaeam.\nScimus Christum surrexisse a mortuis vere: tu nobis, victor Rex, miserere.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Magnificat Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Jesum quem quaeritis non est hic, sed surrexit recordamini qualiter locutus est vobis dum adhuc in Galilaea esset, alleluia."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Magnificat anima mea Dominum.\nEt exsultavit spiritus meus in Deo salutari meo.\nQuia respexit humilitatem ancillae suae: ecce enim ex hoc beatam me dicent omnes generationes.\nQuia fecit mihi magna qui potens est: et sanctum nomen ejus.\nEt misericordia ejus a progenie in progenies timentibus eum.\nFecit potentiam in brachio suo: dispersit superbos mente cordis sui.\nDeposuit potentes de sede, et exaltavit humiles.\nEsurientes implevit bonis: et divites dimisit inanes.\nSuscepit Israel puerum suum, recordatus misericordiae suae.\nSicut locutus est ad patres nostros, Abraham et semini ejus in saecula.\nGloria Patri, etc."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Magnificat Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Jesum quem quaeritis non est hic, sed surrexit recordamini qualiter locutus est vobis dum adhuc in Galilaea esset, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oration"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus Vobiscum.\n℟. Et cum spiritu tuo.\nOremus,\nConcede quaesumus omnipotens Deus: ut qui resurrectionis Dominicae solemnia colimus, innovatione tui Spiritus a morte animae resurgamus. Per eumdem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate eodem Spiritus sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "First Conclusion of Vespers"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus Vobiscum.\n℟. Et cum spiritu tuo.\n℣. Benedicamus Domino, alleluia, alleluia.\n℟. Deo Gratias, alleluia, alleluia."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Part II - Procession to the Font"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "While the procession is being formed, the following antiphon is sung:"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Processional Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "In die resurrectionis meae, dicit Dominus, alleluia, congregabo gented et colligam regna, et effundam super vos aquam mundam, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "All go to the baptismal font with this antiphon, followed by Psalm 112. A cleric carries the Paschal candle at the head of the procession, walking before the cross. Psalm 112, sung during this procession, reminds us that we have received our new birth through our baptism. This psalm is not sung with an antiphon, but is inserted into the middle of the responsory Christus resurgens."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Responsorium"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Christus resurgens ex mortuis jam non moritur: mors illi ultra non dominabitur quod enim vivit, vivit Deo: Alleluia, alleuia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 112"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Laudate, pueri, Dominum: laudate nomen Domini.\nSit nomen Domini benedictum, ex hoc nunc, et usque in saeculum.\nA solis ortu usque ad occasum, laudabile nomen Domini.\nExcelsus super omnes gentes Dominus, et super caelos gloria eius.\nQuis sicut Dominus Deus noster, qui in altis habitat,\net humilia respicit in caelo et in terra?\nSuscitans a terra inopem, et de stercore erigens pauperem:\nut collocet eum cum principibus, cum principibus populi sui.\nQui habitare facit sterilem in domo, matrem filiorum laetantem.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Four from the first choir intone, and their choir alone continues:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Dicant nunc Judaei quomodo milites custodientes sepulcrum perdiederunt Regem? Ad lapidis positionem quare non servabant Petram justitiae? Aut sepultum reddant, aut resurgentem adorent, nobiscum dicentes:"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "The two choirs:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "quod enim vivit, vivit Deo: Alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "This verse is of Byzantine origin and also exists in the Ambrosian rite"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Magnificat Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Euntes in mundum docete omnes gentes, baptizantes eos, alleluia: in nomine Patris, et Filii, et Spiritus Sancti, alleluia."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Magnificat anima mea Dominum.\nEt exsultavit spiritus meus in Deo salutari meo.\nQuia respexit humilitatem ancillae suae: ecce enim ex hoc beatam me dicent omnes generationes.\nQuia fecit mihi magna qui potens est: et sanctum nomen ejus.\nEt misericordia ejus a progenie in progenies timentibus eum.\nFecit potentiam in brachio suo: dispersit superbos mente cordis sui.\nDeposuit potentes de sede, et exaltavit humiles.\nEsurientes implevit bonis: et divites dimisit inanes.\nSuscepit Israel puerum suum, recordatus misericordiae suae.\nSicut locutus est ad patres nostros, Abraham et semini ejus in saecula.\nGloria Patri, etc."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Magnificat Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Euntes in mundum docete omnes gentes, baptizantes eos, alleluia: in nomine Patris, et Filii, et Spiritus Sancti, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oration"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus Vobiscum.\n℟. Et cum spiritu tuo.\nOremus,\nPraesta quaesumus omnipotens Deus: ut qui resurrectionis Dominicae solemnia colimus, ereptionis nostrae suscipere laetitiam mereamur. Per eumdem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate eodem Spiritus sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Second Conclusion of Vespers"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus Vobiscum.\n℟. Et cum spiritu tuo.\n℣. Benedicamus Domino, alleluia, alleluia.\n℟. Deo Gratias, alleluia, alleluia."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Part III - Procession and Station at the Cross"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "While the procession is being formed, the following antiphon is sung:"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Processional Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Vidi aquam egredientem de templo, a latere dextro, alleluia: et omnes ad quos pervenit aqua ista salvi facti sunt, et dicent: alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "The procession moves through the church while Psalm 113, In exitu Israel de Aegypto, is sung. This reminds us that in baptism we pass with Christ through the waters of death, in order to reach the Promised Land of the Kingdom of Heaven."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Antiphon"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 113"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "In exitu Israel de Aegypto, domus Iacob de populo barbaro.\nFacta est Iudaea sanctificatio eius, Israel potestas eius. Alleluia.\nMare vidit, et fugit: Iordanis conversus est retrorsum.\nMontes exsultaverunt ut arietes, et colles sicut agni ovium. Alleluia.\nQuid est tibi, mare, quod fugisti? et tu, Iordanis, quia conversus es retrorsum?\nMontes, exsultastis sicut arietes, et colles, sicut agni ovium. Alleluia.\nA facie Domini mota est terra, a facie Dei Iacob.\nQui convertit petram in stagna aquarum, et rupem in fontes aquarum. Alleluia.\nNon nobis, Domine, non nobis: sed nomini tuo da gloriam.\nSuper misericordia tua, et veritate tua: nequando dicant gentes: ubi est Deus eorum? Alleluia.\nDeus autem noster in caelo: omnia quaecumque voluit, fecit.\nSimulacra gentium argentum et aurum, opera manuum hominum. Alleluia.\nOs habent, et non loquentur: oculos habent, et non videbunt.\nAures habent, et non audient: nares habent, et non odorabunt. Alleluia.\nManus habent, et non palpabunt: pedes habent, et non ambulabunt: non clamabunt in gutture suo.\nSimiles illis fiant qui faciunt ea: et omnes qui confidunt in eis. Alleluia.\nDomus Israel speravit in Domino: adiutor eorum et protector eorum est.\nDomus Aaron speravit in Domino: adiutor eorum et protector eorum est. Alleluia.\nQui timent Dominum, speraverunt in Domino: adiutor eorum et protector eorum est.\nDominus memor fuit nostri: et benedixit nobis. Alleluia.\nBenedixit domui Israel: benedixit domui Aaron.\nBenedixit omnibus qui timent Dominum, pusillis cum maioribus. Alleluia.\nAdjiciat Dominus super vos: super vos, et super filios vestros.\nBenedicti vos a Domino: qui fecit caelum et terram. Alleluia.\nCaelum caeli Domino: terram autem dedit filiis hominum.\nNon mortui laudabunt te, Domine: neque omnes qui descendunt in infernum. Alleluia.\nSed nos qui vivimus, benedicimus Domino: ex hoc nunc et usque in saeculum.\nGloria Patri, et Filio, et Spiritui Sancto. Alleluia.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Antiphon"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia, alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Station of the Cross"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Arriving in the middle of the nave before the Cross of the banc d'œuvre, the procession halts and sings the following responsory Quem Quaeritis.\nWhen the cantors intone the verse Crucifixus, the celebrant incenses the crucifix three times."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Quem quaeritis mortum, jam vivit, et vita hominum cum eo surrexit Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Four cantors from the 2nd choir:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Crucifixum in carne laudate, et sepultum propter vos glorificate resurgentemque de morte adorate. Alleluia"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "The procession sets out again and goes to the altar of the Blessed Virgin.\nMeanwhile the following Alleluia is sung,\nwhich the cantors intone and of which they sing the verse:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia. Alleluia. ℣. Surrexit Dominus, et occurrens mulieribus, ait: Avete. Tunc accesserunt, et tunerunt pedes ejus."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Magnificat Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Euntes in mundum docete omnes gentes, baptizantes eos, alleluia: in nomine Patris, et Filii, et Spiritus Sancti, alleluia."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Magnificat anima mea Dominum.\nEt exsultavit spiritus meus in Deo salutari meo.\nQuia respexit humilitatem ancillae suae: ecce enim ex hoc beatam me dicent omnes generationes.\nQuia fecit mihi magna qui potens est: et sanctum nomen ejus.\nEt misericordia ejus a progenie in progenies timentibus eum.\nFecit potentiam in brachio suo: dispersit superbos mente cordis sui.\nDeposuit potentes de sede, et exaltavit humiles.\nEsurientes implevit bonis: et divites dimisit inanes.\nSuscepit Israel puerum suum, recordatus misericordiae suae.\nSicut locutus est ad patres nostros, Abraham et semini ejus in saecula.\nGloria Patri, etc."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Magnificat Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Euntes in mundum docete omnes gentes, baptizantes eos, alleluia: in nomine Patris, et Filii, et Spiritus Sancti, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oration"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus Vobiscum.\n℟. Et cum spiritu tuo.\nOremus,\nPraesta quaesumus omnipotens Deus: ut qui gratiam Dominicae resurrectionis agnovimus, ipsi per amorem Spíritus a morte animae resurgamus. Per eumdem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate eodem Spiritus sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Third Conclusion of Vespers"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus Vobiscum.\n℟. Et cum spiritu tuo.\n℣. Benedicamus Domino, alleluia, alleluia.\n℟. Deo Gratias, alleluia, alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "The officiant says in recto tono, on a very low pitch:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+      }
+    }
+  ]
+}

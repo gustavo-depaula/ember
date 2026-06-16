@@ -1,0 +1,53 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Pater. Ave.",
+        "en-US": "Our Father. Hail Mary."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandam me festina",
+        "en-US": "℣. O God, come to my assistance.\n℟. O Lord, make haste to help me."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Gloria Patri, etc.\nSicut erat, etc.",
+        "en-US": "Glory be to the Father, etc.\nAs it was in the beginning, etc."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia (vel, Laus tibi Domine, Rex aeternae gloriae)",
+        "en-US": "Alleluia Or from Septuagesima to Easter, Praise to Thee, O Lord, King of everlasting Glory."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Psalmus 116",
+        "en-US": "Psalm 116"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Laudate Dominum omnes gentes: laudate eum omnes populi.\nQuoniam confirmata est super nos misericordia ejus: et veritas Domini manet in aeternum.\nGloria Patri, etc.\nSicut erat, etc.",
+        "en-US": "O praise the Lord, all ye nations: praise Him, all ye people.\nFor His mercy is confirmed upon us: and the truth of the Lord remaineth for ever.\nGlory be to the Father, etc.\nAs it was in the beginning, etc."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
+        "en-US": "℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful, through the mercy of God, rest in peace.\n℟. Amen."
+      }
+    }
+  ]
+}

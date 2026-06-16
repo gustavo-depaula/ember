@@ -157,14 +157,22 @@ export async function processInlineAlleluias(
   return text.replace(new RegExp(`\\(${regex.source}[\\s\\S]*?\\)`, 'gi'), '')
 }
 
-// Port of suppress_alleluia (non-gabc).
+// Port of suppress_alleluia (non-gabc). The Perl runs this after the renderer
+// has already wrapped the red abbreviation markers (Ant., V., R., …) in
+// markup, so the regex's optional leading `[,.]` can never swallow a marker's
+// terminating dot — `Ant. Allelúja, …` becomes `Ant., …`, not `Ant, …`. Our
+// pipeline keeps markers as plain text, so we guard the marker dot with a
+// negative lookbehind (anchored to line-start or whitespace so it can't fire
+// mid-word). The space before the alleluia is still consumed via `\s*`.
+const alleluiaMarkerGuard = '(?<!(?:^|\\s)(?:Ant|Ps|[AVRSOMCDP]|v|r))'
+
 export async function suppressAlleluia(
   state: HoursState,
   text: string,
   lang: string,
 ): Promise<string> {
   const regex = await alleluiaRegexp(state, lang)
-  return text.replace(new RegExp(`[,.]?\\s*${regex.source}`, 'gi'), '')
+  return text.replace(new RegExp(`${alleluiaMarkerGuard}[,.]?\\s*${regex.source}`, 'gim'), '')
 }
 
 // Port of alleluia_ant.

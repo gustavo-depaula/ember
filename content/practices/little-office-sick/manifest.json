@@ -1,0 +1,36 @@
+{
+  "id": "little-office-sick",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Office of the Sick According to the Mozarabic Rite"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of Sick According to the Mozarabic Rite."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 183,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Breviarium Gothicum secundum regulam\nBeatissimi Isidori Archiepiscopi Hispalensis (1775)."
+  }
+}

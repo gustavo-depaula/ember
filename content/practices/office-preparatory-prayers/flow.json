@@ -1,0 +1,48 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Prayer Before the Office",
+        "la": "Ante Officium"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Aperi, Domine, os meum ad benedicendum Nomen sanctum tuum; munda quoque cor meum ab omnibus vanis, perversis et alienis cogitationibus; intellectum illumina, affectum inflamma, ut digne, attente ac devote hoc Officium recitare valeam, et exaudiri merear ante conspectum divinae Maiestatis tuae. Per Christum Dominum nostrum.\n℟. Amen.\nDomine, in unione illius divinae intentionis, qua ipse in terris laudes Deo persolvisti, has tibi Horas (vel hanc tibi Horam) persolvo.",
+        "en-US": "O Lord, open Thou my mouth to bless Thy holy name; cleanse my heart also from all vain, evil and wandering thoughts; enlighten my understanding, kindle my affections, that I may be able to recite this Office worthily, attentively and devoutly, and may deserve to be heard in the presence of Thy divine Majesty. Through Christ our Lord.\n℟. Amen.\nLord, in union with that divine intention, wherewith Thou Thyself didst praise God whilst Thou wast on earth, I offer these Hours (or this Hour) unto Thee."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Prayer After the Office",
+        "la": "Post Officium"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pope Leo X granted to all under obligation to recite the Office, provided that, kneeling and with devotion, they say afterward this prayer (composed by St. Bonaventure) together with one Our Father and one Hail Mary, the remission of all faults committed through human frailty in reciting it."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sacrosanctae et individuae Trinitati, crucifixi Domini nostri Jesu Christi humanitati, beatissimae et gloriosissimae semperque Virginis Mariae foecundae integritati, et omnium Sanctorum universitati sit sempiterna laus, honor, virtus et gloria ab omni creatura, nobisque remissio omnium peccatorum, per infinita saecula saeculorum.\n℟. Amen.\n℣. Beata viscera Mariae Virginis, quae portaverunt aeterni Patris Filium.\n℟. Et beata ubera, quae lactaverunt Christum Dominum.",
+        "en-US": "To the Most Holy and undivided Trinity, to the Manhood of our Lord Jesus Christ Crucified, to the fruitful Virginity of the most blessed and most glorious Mary, always a Virgin, and to the holiness of all the Saints be ascribed everlasting praise, honour, and glory, by all creatures, and to us be granted the forgiveness of all our sins, world without end.\n℟. Amen.\n℣. Blessed be the womb of the Virgin Mary which bore the Son of the Eternal Father.\n℟. And blessed be the paps which gave suck to Christ our Lord."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Et dicitur secreto Pater noster et Ave Maria.",
+        "en-US": "Then an Our Father and a Hail Mary are said silently."
+      }
+    }
+  ]
+}

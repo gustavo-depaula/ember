@@ -3,7 +3,9 @@
 // mapped onto primitives. The user's content language is the primary text;
 // Latin rides as the secondary. The rubric version follows the doVersion
 // preference. Params: { hour: 'Prima' | 'Tertia' | 'Sexta' | 'Nona' |
-// 'Completorium' | 'Matutinum' | 'Laudes' | 'Vespera' }.
+// 'Completorium' | 'Matutinum' | 'Laudes' | 'Vespera', votive?: string }.
+// `votive` is a DO Commune code (e.g. 'C9' Office of the Dead, 'C12' Little
+// Office BVM, 'V4' St Joseph); defaults to 'Hodie' (today's office).
 
 import { assembleHour, doLangDir, officeVersion } from '@ember/divinum-officium'
 import type { Primitive } from '@/content/primitives'
@@ -34,6 +36,7 @@ export const doHourSource: ContentSource<Primitive[]> = {
     if (typeof hour !== 'string' || !hours.includes(hour as Hour)) {
       throw new Error(`producer/do-hour: unknown hour param '${String(hour)}'`)
     }
+    const votive = typeof ctx.params?.votive === 'string' ? ctx.params.votive : 'Hodie'
     const assembled = await assembleHour({
       loader: createCorpusDoLoader(),
       day: ctx.date.getDate(),
@@ -42,6 +45,7 @@ export const doHourSource: ContentSource<Primitive[]> = {
       version: officeVersion(ctx.prefs.doVersion),
       hora: hour as Hour,
       lang2: doLangDir(ctx.prefs.lang),
+      votive,
     })
     // Vernacular column is the user's primary; Latin is the secondary.
     return mapItemsToPrimitives(assembled.vernacular ?? assembled.latin, assembled.latin)

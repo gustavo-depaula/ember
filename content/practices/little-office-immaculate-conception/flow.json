@@ -1,0 +1,324 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria",
+        "en-US": "Ordinary"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Matutinum",
+        "en-US": "At Matins only"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Eia, mea labia, nunc annuntiate, laudes et praeconia Virginis beatae.",
+        "en-US": "Come, my lips, and wide proclaim the Blessed Virgin's spotless fame."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Completorium",
+        "en-US": "At Compline only"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Convertat nos, Domina, tuis precibus placatur Iesus Christus Filius tuus.\n℟. Et avertat iram suam a nobis.",
+        "en-US": "℣. May Jesus Christ, thy Son, reconciled by thy prayers, O Lady, convert our hearts.\n℟. And turn away His anger from us."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Horas Omnes",
+        "en-US": "At All the Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domina, in adiutorium meum intende.\n℟. Me de manu hostium potenter defende.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+        "en-US": "℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur: Laus tibi, Domine, Rex aeternae gloriae.",
+        "en-US": "During Lent until Easter, instead of the alleluia the following is said: Praise to Thee, O Lord, King of everlasting glory."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, mundi Domina,\ncaelorum Regina:\nSalve, Virgo virginum,\nstella matutina\n\nSalve, plena gratia,\nclara luce divina.\nMundi in auxilium,\nDomina, festina.\n\nAb aeterno Dominus\nte praeordinavit\nmatrem unigeniti\nVerbi, quo creavit.\n\nTerram, pontum, aethera,\nte pulchram ornavit\nsibi Sponsam, quae\nin Adam non peccavit.\nAmen.",
+                "en-US": "Hail, Queen of the Heavens!\nHail, Mistress of earth!\nHail, Virgin most pure\nof immaculate birth!\n\nClear star of the morning\nin beauty enshrined!\nO Lady make speed\nto the help of mankind.\n\nThee God in the depth\nof eternity chose;\nand formed thee all fair,\nas His glorious spouse;\n\nAnd called thee His Word's\nown Mother to be,\nby Whom He created\nthe earth, sky, and sea.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Elegit eam Deus, et praeelegit eam.\n℟. In tabernaculo suo habitare fecit eam.",
+                "en-US": "℣. God elected her, and pre-elected her.\n℟. He made her to dwell in His tabernacle."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, Virgo sapiens,\ndomus Deo dicata,\ncolumna septemplici\nmensaque exornata.\n\nAb omni contagio\nmundi praeservata.\nSemper sancta in utero\nmatris, ex qua nata.\n\nTu Mater viventium,\net porta es sanctorum.\nNova stella Iacob,\nDomina angelorum.\n\nZabulo terribilis\nacies castrorum.\nPorta et refugium\nsis Christianorum.\nAmen.",
+                "en-US": "Hail, Virgin, most wise!\nHail, Deity's shrine!\nwith seven fair pillars,\nand table divine!\n\nPreserved from the guilt\nwhich hath come upon us all!\nExempt, in the womb,\nfrom the taint of the fall!\n\nO new Star of Jacob,\nof angels the Queen!\nO Gate of the saints!\nO Mother of men!\n\nTo Zabulon fearful\nas the embattled array!\nBe thou of the faithful\nthe refuge and stay.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ipse creavit illam in Spiritu Sancto.\n℟. Et effundit illam super omnia opera sua.",
+                "en-US": "℣. The Lord Himself created her in the Holy Ghost.\n℟. And poured her out over all His works."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, arca foederis,\nthronus Salomonis,\narcus pulcher aetheris,\nrubus visionis.\n\nVirga frondens germinis,\nvellus Gedeonis,\nporta clausa numinis,\nfavusque Samsonis.\n\nDecebat tam nobilem\nnatum praecavere\nab originali\nlabe matris Evae.\n\nAlmam, quam elegerat,\nGenetricem vere,\nnulli prorsus sinens\nculpae subiacere.\nAmen.",
+                "en-US": "Hail, Solomon's Throne!\nPure Ark of the law\nfair Rainbow and Bush,\nwhich the patriarch saw!\n\nHail, Gedeon's Fleece!\nHail, blossoming Rod!\nSamson's sweet Honeycomb!\nPortal of God!\n\nWell-fitting it was\nthat a Son so divine\nshould preserve from all touch\nof original sin.\n\nNor suffer by smallest\ndefect to be stained\nthat Mother, whom He\nfor Himself had ordained.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ego in altissimis habito.\n℟. Et thronus meus in columna nubis.",
+                "en-US": "℣. I dwell in the highest.\n℟. And my throne is on the pillar of the clouds."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, Virgo puerpera,\ntemplum Trinitatis,\nangelorum gaudium,\ncella puritatis.\n\nSolamen moerentium,\nhortus voluptatis,\npalma patientiae\ncedrus castitatis.\n\nTerra es benedicta\net sacerdotalis,\nsancta et immunis\nculpae originalis.\n\nCivitas altissimi,\nporta orientalis:\nin te est omnis gratia,\nVirgo singularis.\nAmen.",
+                "en-US": "Hail, virginal Mother!\nHail, purity's Cell!\nFair Shrine, where the Trinity\nloveth to dwell!\n\nHail, Garden of pleasure!\nCelestial Balm!\nCedar of chastity!\nMartyrdom's Palm!\n\nThou Land set apart\nfrom uses profane!\nAnd free from the curse\nwhich in Adam began!\n\nThou City of God!\nThou Gate of the east\nin thee is all grace\no joy of the blest!\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sicut lilium inter spinas\n℟. Sic amica mea inter filias Adae.",
+                "en-US": "℣. As the lily among the thorns.\n℟. So is my beloved among the daughters of Adam."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, urbs refugii,\nturrisque munita\nDavid, propugnaculis\narmisque insignita.\n\nIn conceptione\ncaritate ignita\ndraconis potestas\nest a te contrita.\n\nO mulier fortis,\net invicta Iudith!\nPulchra Abisag virgo\nverum fovens David!\n\nRachel curatorem\nAegypti gestavit:\nSalvatorem mundi\nMaria portavit.\nAmen.",
+                "en-US": "Hail, City of refuge!\nHail, David's high tower,\nwith battlements crowned\nand girded with power!\n\nFilled at thy conception\nwith love and with light!\nThe dragon by thee\nwas shorn of his might.\n\nO Woman most valiant!\nO Judith thrice blest!\nAs David was nursed\nin fair Abisag's breast;\n\nAs the saviour of Egypt\nupon Rachel's knee:\nso the world's great Redeemer\nwas cherished by thee.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Tota pulchra es, amica mea.\n℟. Et macula originalis numquam fuit in te.",
+                "en-US": "℣. Thou art all fair, my beloved.\n℟. And the original stain was never in thee."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, horologium,\nquo, retrogradiatur\nsol in decem lineis;\nVerbum incarnatur.\n\nHomo ut ab inferis\nad summa attollatur,\nimmensus ab angelis\npaulo minoratur.\n\nSolis huius radiis\nMaria coruscat;\nconsurgens aurora\nin conceptu micat.\n\nLilium inter spinas\nquae serpentis conterat\ncaput: pulchra ut luna\nerrantes collustrat.\nAmen.",
+                "en-US": "Hail, Dial of Achaz!\nOn thee the true sun\ntold backward the course\nwhich from old he had run!\n\nAnd, that man might be raised,\nsubmitting to shame,\na little more low\nthan the angels became.\n\nThou, rapt in the blaze\nof His infinite light,\ndost shine as the morn\non the confines of night.\n\nAs the moon on the lost\nthrough obscurity dawns;\nthe serpent's destroyer!\nA lily 'mid thorns!\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ego feci in caelis ut oriretur lumen indeficiens.\n℟. Et quasi nebula texi omnem terram.",
+                "en-US": "℣. I made an unfailing light to arise in heaven.\n℟. And as a mist I overspread the whole earth."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, virgo florens,\nmater illibata,\nregina clementiae,\nstellis coronata.\n\nSuper omnes angelos\npura, immaculata,\natque ad regis dexteram\nstans veste deaurata.\n\nPer te, mater gratiae,\ndulcis spes reorum,\nfulgens stella maris,\nportus naufragorum.\n\nPatens caeli ianua\nsalus infirmorum\nvideamus regem\nin aula sanctorum.\nAmen.",
+                "en-US": "Hail, Mother most pure!\nHail, Virgin renowned!\nHail, Queen with the starts,\nas a diadem, crowned.\n\nAbove all the angels\nin glory untold,\nstanding next to the King\nin a vesture of gold.\n\nO Mother of mercy!\nO Star of the wave!\nO Hope of the guilty!\nO Light of the grave!\n\nThrough thee may we come\nto the haven of rest;\nand see heaven's King\nin the courts of the blest!\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Oleum effusum, Maria, nomen tuum.\n℟. Servi tui dilexerunt te nimis.",
+                "en-US": "℣. Thy name, O Mary, is an oil poured out.\n℟. Thy servants have loved thee exceedingly."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio Horae",
+        "en-US": "Conclusion of Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domina, protege orationem meam.\n℟. Et clamor meus ad te veniat.",
+        "en-US": "℣. O Lady, aid my prayer.\n℟. And let my cry come unto thee."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nSancta Maria, Regina caelorum, Mater Domini nostri Iesu Christi, et mundi Domina, quae nullum derelinquis, et nullum despicis: respice me, Domina, clementer oculo pietatis, et impetra mihi apud tuum dilectum Filium cunctorum veniam peccatorum: ut qui nunc tuam sanctam et immaculatam conceptionem devoto affectu recolo, aeternae in futurum beatitudinis, bravium capiam, ipso, quem virgo peperisti, donante Domino nostro Iesu Christo: qui cum Patre et Sancto Spiritu vivit et regnat, in Trinitate1 perfecta, Deus, in saecula saeculorum. Amen.",
+        "en-US": "Let us pray,\nHoly Mary, Queen of heaven, Mother of Our Lord Jesus Christ, and Mistress of the world, who forsakest no one and despisest no one, look upon me, O Lady, with an eye of pity and entreat for me, of thy beloved Son, the forgiveness of all my sins that, as I now celebrate, with devout affection, thy holy and immaculate conception, so here-after, I may receive the prize of eternal blessedness, by the grace of Him Whom thou, in virginity, didst bring forth, Jesus Christ our Lord: Who with the Father and the Holy Spirit, liveth and reigneth in perfect Trinity, God, forever. Amen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domina, protege orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
+        "en-US": "℣. O Lady, aid my prayer\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful, through the mercy of God, rest in peace.\n℟. Amen."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ad Commendationem",
+        "en-US": "At Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Supplices offerimus\ntibi, virgo pia,\nhaec laudum praeconia:\nFac nos ut in via\nDucas cursu prospero,\net in agonia\ntu nobis assiste,\nO dulcis Maria.",
+        "en-US": "These praises and prayers\nI lay at thy feet,\nO Virgin of virgins!\nO Mary most sweet!\nBe thou my true guide\nthrough this pilgrimage here:\nand stand by my side\nwhen death draweth near."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℟. Deo gratias.",
+        "en-US": "℟. Thanks be to God."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant.",
+        "en-US": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Haec est virga in qua nec nodus originalis, nec cortex actualis culpae fuit.",
+        "en-US": "This is the rod in which was neither knot of original sin, nor rind of actual guilt."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. In conceptione tua virgo immaculata fuisti.\n℟. Ora pro nobis Patrem, cuius Filium peperisti.",
+        "en-US": "℣. In thy conception, O Virgin, thou wast immaculate.\n℟. Pray for us to the Father, Whose Son thou didst bring forth."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDeus, qui per immaculatam Virginis conceptionem dignum Filio tuo habitaculum praeparasti: quaesumus, ut qui ex morte eiusdem Filii tui praevisa eam ab omni labe praeservasti, nos quoque mundos eius intercessione ad te pervenire concedas. Per eundem Christum Dominum nostrum. Amen.",
+        "en-US": "Let us pray,\nO God, Who by the immaculate conception of the Virgin, didst prepare a worthy habitation for Thy Son, we beseech Thee that, as in view of the death of that Son, Thou didst preserve her from all stain of sin, so Thou wouldst enable us, being made pure by her intercession, to come unto Thee. Through the same Christ our Lord. Amen."
+      }
+    }
+  ]
+}

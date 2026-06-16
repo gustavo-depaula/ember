@@ -1,0 +1,37 @@
+{
+  "id": "little-office-bvm-sarum",
+  "icon": "mary",
+  "name": {
+    "en-US": "Little Office of the Blessed Virgin Mary According to the Sarum Use"
+  },
+  "categories": [
+    "marian"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Blessed Virgin Mary According to the Sarum Use, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "marian",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 127,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Taken from a 15th Century Source.\n\nMatins and Lauds only."
+  }
+}

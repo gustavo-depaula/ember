@@ -1,0 +1,37 @@
+{
+  "id": "little-office-suffering-christ",
+  "icon": "cross",
+  "name": {
+    "en-US": "Little Office of the Suffering Christ, the Finding, and the Exaltation of the Holy Cross"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Suffering Christ, the Finding, and the Exaltation of the Holy Cross, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 115,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Devota Et Fructuosa Pietatis Exercitia Deum Triunum Adorandi (1751)."
+  }
+}

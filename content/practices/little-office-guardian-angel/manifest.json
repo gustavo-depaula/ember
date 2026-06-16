@@ -1,0 +1,37 @@
+{
+  "id": "little-office-guardian-angel",
+  "icon": "angel",
+  "name": {
+    "en-US": "Little Office of the Guardian Angel"
+  },
+  "categories": [
+    "saints"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Guardian Angel, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "saints",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 136,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Courtesy of Michael Martin, www.preces-latinae.org — transcription of the original text."
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria in excelsis Deo, et in terra pax hominibus bonae voluntatis.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O mi Jesu! quis hic status!\nDeus a Puella natus,\nPrinceps pro Regali aula\nVili recubas in caula\nIn Praesepre reclinatus,\nSummus compar infimo:\nCui condignum Deo Chorum\nGens sonabat Angelorum,\nNunc pro musica coelesti\nGaudes tibia agresti,\nAtque simplici Pastorum\nDelectaris lituo."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Regem Caeli, cui talia famulantur obsequia! stabulo ponitur, qui continet mundum: jacet in Praesepio, qui regnat in caelis.\n℣. Exultavit ut gigas ad currendam viam.\n℟. A summo caelo egressio ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO dulcis Jesule! O bonitas infinita! da obsecro, ut velut propter me hominem coelestis Patris reliquisti delicias: sic ego amore tui mundanis omnibus renunciem voluptatibus, nec alio tendam, nisi ad Te. Qui cum Patre et Spiritu Sancto vivis et regnas in saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria in excelsis Deo etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Raucos asini ruditus\nBovis inter et mugitus\nAlmi Proles dormi Patris!\nEt ad melos castae Matris\nSacros terminat vagitus;\nDormi dulcis Jesule!\nDormi gratiarum aedes,\nCharitum sacrata sedes,\nEt ignosce, dum praesumit,\nAmor tuus quem consumit\nSacros osculari pedes,\nDormi dulcis Pupule!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce tu pulcher es Dilecte mi et decorus. Lectulus noster floridus, tigna domorum cedrina, et laquearia nostra cypressina.\n℣. Da somnum oculis tuis.\n℟. Et palpebris tuis dormitationem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO dulcis Jesule! vera et unica requies amantis animae: da, ut sicut inter castissima Matris tuae brachia suavissime obdormisti: sic ego me, meaque omnia in manus tuas semper commendem, ac unice requiescam in te. Qui cum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria in excelsis Deo etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Belle Puer, Jesu chare,\nQuis non possit te amare;\nQuis, o Pusio formose,\nCujus genas pingunt rosae,\nQuis te nolit adorare,\nO dilecte Parvule!\nCujus oculi sagittae\nIn amantem expediatae,\nCujus residet in labris\nCum coraliò cinnabris,\nQuis, o Decor infinite?\nQuis te amet congrue?"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oculi ejus sicut columbae super rivulos aquarum, dentes illius, sicut arcole aromatum, labia ejus lilia distillantia myrrham primam.\n℣. Dilectus meus candidus et rubicundus.\n℟. Electus ex millibus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO dulcis Jesule! Pulchritudo excedens omnem pulchritudinem: da, amore tui ita me capi, ut creatas elegantias facilem spernens, nec pulchrum aestimem, neque decorum, nisi te, speciosae prae Filiis hominum. Qui cum Patre etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria in excelsis Deo etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Heu mi Jesu! quam ut rosa\nMembra tibi speciosa\nGelu rubent! quam horrendis\nBrumae poenis saevientis\nDei soboles formosa!\nJaces hic exposita?\nEn quam tibi superfusa,\nVelut conchis interclusa,\nLilicet per genarum,\nGlobulata lachrymarum\nSacris oculis protrusa,\nGemma fluit gemina!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quarumus Domino nostro Regi, qui stetit coram eo, et foveat eum, dormiatque in sinu suo, et calefaciat Dominum nostrum Regem.\n℣. Fasciculus myrrhae dilectus meus mihi.\n℟. Inter ubera mea commorabitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO dulcis Jesule! tenerrimum patientiae speculum! qui vix nasci, mox pati etiam voluisti: concede, quaeso, ut et ego exemplo tuo, tum vivere nolim nisi tibi, tum semper cupiam pati pro te. Qui cum Patre etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria in excelsis Deo etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecquid inter hos dolores,\nQuos mi Jesu digne plores!\nTamen blandule renides,\nDum me peccatorem vides,\nTibi, inter Pastores\nGenibus adrepere!\nNempè mei quod ardore\nPrimae mox ab ortu horae\nHaec sustines, atque plura\nAdhuc ferre petas dura,\nAtque tuo sic amore\nMeum tibi quaerere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ludens erat in Orbe terrarum, et deliciae ejus esse cum filiis hominum.\n℣. Dilexit Patres suos.\n℟. Et elegit semen eorum post eos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO dulcis Jesule! mirande amator hominum! da, ut dum sine causa meriti ab aeterno me praedilexisti; Ego quoque nec spe praemii nec metu poenae, sed solum redamem te Deus propter te. Qui cum Patre etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria in excelsis Deo etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O mi Jesu! qui sic amas,\nAbsit, quin et meas flammas\nTuis velim sociare,\nSicque tibi adornare,\nUt quod unice inclamas\nLectulum calidulum;\nSed o sacri vos Amores!\nVestros meum per ardores\nOcyus Cor inflammate\nEt frigenti praeparate\nSacros inter calores\nJesu meo Lectulum!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Si invenieritis dilectum meum, nuntiate Ei, quia amore langueo.\n℣. Concalvit cor meum intra me.\n℟. Et in meditatione mea exardescet ignis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO dulcis Jesule! Ignis qui semper ardes, et nunquam tepes: inflamma, obsecro cor meum, ne unquam tepeat, sed in omni opere suo, fervore dilectionis tuae succensus, jugiter ardescat ex te. Qui cum Patre etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria in excelsis Deo etc.\n℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sine Jesu! ut frigentem\nToto corpore trementem\nCorde meo te abscondam,\nEt amoris lecto condam.\nSubi Jesule! calentem,\nSubi, precor, lectulum!\nNil hic frigoris timendum,\nNihil turbinis verendum,\nEtsi levis aura flaret,\nQuam fors amor excitaret,\nSuavius est dormiendum;\nDormi Cordis Corculum!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Adjuro vos filiae Jerusalem, per capreas, cervosque camporum, ne suscitetis, neque evigilare faciatis dilectum meum, donec ipse velit.\n℣. Haec requies mea.\n℟. Hic habitabo, quoniam elegi eam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO dulcis Jesule! Mentis desideratissime Hospes! Ecce pando tibi ostium Cordis mei, ut, cui non erat locus in diversorio, tu solus illud inhabites, omnesque saeculi vanitates, magnifica tua praesentia, ab eo longe praecludas. Qui cum Patre etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Non Paternus vero Thronis,\nAt nec lecto Salomonis,\nSponsae thalamo electae\nNeque compar est, Dilecte Jesu! membra quo reponis,\nMeus iste lectulus:\nSed qui palam publicorum\nTecta quondam peccatorum\nVisitare jam decernis,\nScio: nec Cor meum spernis;\nTuis pie quod in thorum\nDetuli amoribus,"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Hodie in domo tua oportet me manere: Hodie huic domui salus facta est.\n℣. Inveni quem diligit anima mea.\n℟. Tenui eum, nec dimittam."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nO dulcis Jesule! o vera et unica Dilectio mea! largire, obsecro, ut quoties Cor meum superna gratiae inspiratione, vel Eucharistica praesentia tua visitare dignaris: non illud hodie tantum, aut una saltem vel altera die, sed in Charitate, statuque Gratiae tuae constanter perseverans, aeternum maneat in te, et tu Deus in eo. Qui cum Patre etc."
+      }
+    }
+  ]
+}

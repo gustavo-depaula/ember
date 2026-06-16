@@ -41,9 +41,6 @@ jobs:
       - name: Fetch CCC from upstream
         run: npx tsx scripts/fetch-ccc.ts
 
-      - name: Merge Mass fragments for producer/mass
-        run: node scripts/build-mass-fragments.mjs
-
       - name: Stage Hearth files
         run: |
           cp -r content _site_hearth

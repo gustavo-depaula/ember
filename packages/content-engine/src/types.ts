@@ -155,9 +155,11 @@ export type FlowSection = { lang?: string } & (
       label?: LocalizedText
       map?: Record<string, string>
       default?: string
+      pickerStyle?: PickerStyle
       options: {
         id: string
         label: LocalizedText
+        excerpt?: LocalizedText
         sections?: FlowSection[]
       }[]
     }
@@ -398,7 +400,13 @@ export type RenderedSection =
       label: BilingualText
       overrideKey: string
       selectedId: string
-      options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
+      pickerStyle?: PickerStyle
+      options: {
+        id: string
+        label: BilingualText
+        excerpt?: BilingualText
+        sections: RenderedSection[]
+      }[]
     }
   | { type: 'include'; ref: string; params?: Record<string, unknown>; trackId?: string }
   | { type: 'prose'; text: BilingualText }

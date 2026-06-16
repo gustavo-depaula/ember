@@ -1,0 +1,393 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu Lechiae victoriae\nEs auctor incurrentae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Propter servum meum Jacob et Israel electum meum.\n℟. Ego ante te ibo ;\net gloriosos terrae humiliabo ;\nportas aereas conteram,\net vectes ferreos confringam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per Angelicas manus Beatum Stanislaum Kostkam sacro Christi corpore satiasti:\nconcede propitius, ut a te in libro vitae descripti, semper in amore tui ejus intercessione crescamus.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, cui dum Tartara\nEmissa per latebras\nIlluderent, huc Barbara\nAbegit in tenebras,\nEt Angelicum ferculum,\nMissum, mente pia panem,\nIn pace Jesu corculum\nMox debit levamen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Cibavit eum ex adipe frumenti,\n℟. Et de Petra melle saturavit eum. (Ps. 80)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per Angelicas manus Beatum Stanislaum Kostkam sacro Christi corpore satiasti:\nconcede propitius, ut a te in libro vitae descripti, semper in amore tui ejus intercessione crescamus.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, cui dum clini\nAffixa membra lecto\nHaerent, resurgunt illico\nOmni malo retecto:\nCum nempe Kostkae Jesulum\nIn lectulo locavit,\nSuumque Virgo servulum\nA morte liberavit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. In lectulo meo per noctes quaesivi, quem diligit anima mea.\n℟. Tenebo illum, et non dimittam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per Angelicas manus Beatum Stanislaum Kostkam sacro Christi corpore satiasti:\nconcede propitius, ut a te in libro vitae descripti, semper in amore tui ejus intercessione crescamus.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, cui post redditam\nMaria sanitatem\nHaec verba fert, ut debitam\nSequar sanctitatem.\nVis Kostka Jesum sedibus\nCaelestibus videre?\nIgnatii fac aedibus,\nSignisque te tuere."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Euge dilecte mi, fuge super montes aromatum.\n℟. Et obliviscere populum tuum et domum Patris tui."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per Angelicas manus Beatum Stanislaum Kostkam sacro Christi corpore satiasti:\nconcede propitius, ut a te in libro vitae descripti, semper in amore tui ejus intercessione crescamus.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Audit fidelis servulus\nMatrem Dei docentem,\nAudit, nec ultra sedulus\nDiffert sequi monentem:\nSed purpuram pro vilibus\nPermutat inde pannis,\nSeseque vulgi risibus\nExponit atque sannis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Auditu auris audivi te,\n℟. Et egressus factus sum, cum essem dives."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per Angelicas manus Beatum Stanislaum Kostkam sacro Christi corpore satiasti:\nconcede propitius, ut a te in libro vitae descripti, semper in amore tui ejus intercessione crescamus.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve, cui nec lachrymae\nPatris fugam retardant,\nNec patriae spes maximae,\nAssumpta vota tardant ;\nNam Jesu stipenditis\nEt usque militasti.\nIgnatii compendiis\nDum sidera involasti."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Extraneus factus sum fratribus meis.\n℟. Et peregrinus filiis Matris meae. (Ps. 61)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per Angelicas manus Beatum Stanislaum Kostkam sacro Christi corpore satiasti:\nconcede propitius, ut a te in libro vitae descripti, semper in amore tui ejus intercessione crescamus.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salve supernae patriae\nTandem receptae civis:\nQui sempiternae gloriae\nFelicitate vivis.\nSalve, tuumque caelitus\nSic protegeis clientem:\nUt sortiar divinitus,\nQuam quaero, habere mentem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Trahe me post te.\n℟. Et currem in odorem unguentorum tuorum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per Angelicas manus Beatum Stanislaum Kostkam sacro Christi corpore satiasti:\nconcede propitius, ut a te in libro vitae descripti, semper in amore tui ejus intercessione crescamus.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Haec, haec tuis honoribus\nInscipta carpe vota,\nHis te meis dum floribus,\nEt mente laudo tota ;\nNec me prius praeoccupet\nAeternitatis hora,\nQuam corda panis recreet\nCaelestis, adlabora."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Hymnus ad S. Stanislaum Kostkam"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Salve, o caste Candor puritatis,\nIntemerate flos Virginitatis!\nTuum dum corpus purum conservatur,\nVultusque caeli luce illustratur,\nLumina ista monstrant radiorum,\nNon cinctam mente beato peccatorum.\nDecuit corpus ita illustrari,\nNescium noxa mortali gravari."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Quasi flos rosarum in diebus vernis.\n℟. Et quasi lilium, sic fuit in transitu aquae.\n℣. Ora pro nobis, beatissime Kostka.\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nJesu virgineae castitatis Amator et Auctor,\nqui B. Stanislaum Kostkam immaculatam in hoc saeculo custodisti ;\nconcede propitius,\nut qui ejus memoriam propter te et inter spiritualia lilia libenter pascere recolimus,\nejus precibus ac meritis intactam a mundi illecebris animam,\nac corpus pro tuo domicilio semper teneamus.\nQui vivis et regnas in saecula saeculorum.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio de B. Joanne Francisco Regis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Deus, qui ad plurimos pro salute animarum perferendos labores\nBeatum Joannem Franciscum, Confessorem tuum,\nmirabili charitate et invicta patientia decorasti ;\nconcede propitius,\nut ejus exemplo instructi,\net intercessionibus adjuti,\naeternam gloriam assequamur.\nPer Dominum nostrum Jesum Christum, etc."
+      }
+    }
+  ]
+}

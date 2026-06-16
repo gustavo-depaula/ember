@@ -1,0 +1,219 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria",
+        "en-US": "Ordinary"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Matutinum",
+        "en-US": "At Matins"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
+        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Horas Omnes",
+        "en-US": "At All the Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:\nLaus tibi, Domine, Rex aeternae gloriae.",
+        "en-US": "During Lent until Easter, instead of the alleluia the following is said:\nPraise to Thee, O Lord, King of everlasting glory."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Cor Iesu, flagrans amore nostri.\n℟. Inflamma cor nostrum amore tui.",
+        "en-US": "℣. Heart of Jesus, flaming with love of us.\n℟. Inflame our hearts with love of Thee."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Custodes hominum psallimus Angelos,\nnaturae fragili quos Pater addidit\ncaelestis comites, insidiantibus\nne succumberet hostibus.",
+                "en-US": "The Guardians of our race, our Angel Guides we hail;\nour Father sendeth forth to aid our nature frail\nthese heavenly friends, lest we should suffer overthrow\nthrough cunning of our subtle foe."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nam, quod corruerit proditor angelus,\nconcessis merito pulsus honoribus,\nardens invidia, pellere nititur\nquos caelo Deus advocat.",
+                "en-US": "For he, who justly lost the honour once his own,\nthe traitor angel, rues his lost and vacant throne,\nwith burning envy strives to make them fall away\nwhom God doth call to heavenly day."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Huc, custos, igitur pervigil advola,\navertens patria de tibi credita\ntam morbos animi, quam requiescere\nquidquid non sinit incolas.",
+                "en-US": "Then, watchful Guardian, spread thy wings and cleave the air,\nhaste hither to our home committed to thy care;\ndrive thence each noxious ill that might the soul infest,\nnor suffer danger here to rest."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Christe, sanctorum decus Angelorum\nRector humani generis et auctor,\nnobis aeternum tribue benigne\nscandere caelum.",
+                "en-US": "Christ, the fair glory of the holy Angels,\nThou who hast made us, Thou who o'er us rulest,\ngrant of Thy mercy unto us Thy servants\nsteps up to heaven."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Angelum pacis, Michael ad istam\ncaelitus mitte, rogitamus aulam:\nnobis ut crebro veniente crescant\nprospera cuncta.",
+                "en-US": "Send Thy Archangel, Michael, to our succor;\nPeacemaker blessed, may he banish from us\nstriving and hatred, so that for the peaceful all\nthings may prosper."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Angelus fortis Gabriel, ut hostem\npellat antiquum, volitet ab alto,\nsaepius templum veniat ad istud\nvisere nostrum.",
+                "en-US": "Send Thy Archangel, Gabriel, the mighty,\nherald of heaven; may he from us mortals\nspurn the old serpent, watching o'er the temples\nwhere Thou art worshiped."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Angelum nobis medicum salutis\nmitte de caelis Raphael, ut omnes\nsanet aegrotos, pariterque nostros\ndirigat actus.",
+                "en-US": "Send Thy Archangel, Raphael, the restorer\nof the misguided ways of men who wander,\nwho at Thy biding strengthens soul and body\nwith Thine anointing."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio Horae",
+        "en-US": "Conclusion of Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sancti Angeli, custodes nostri, defendite nos in proelio,\nut non pereamus in tremendo iudicio.\n℣. In conspectu Angelorum psallam tibi, Deus meus.\n℟. Adorabo ad templum sanctum tuum et confitebor nomini tuo.\nOremus,\nDeus, qui ineffabili providentia sanctos Angelos tuos\nad nostram custodiam mittere digneris,\nlargire supplicibus tuis, et eorum semper protectione defendi,\net aeterna sociate gaudere. Per Dominum nostrum Iesum Christum.",
+        "en-US": "O ye holy Angels, our guardians, defend us in battle\nthat we may not perish in the awful judgment.\n℣. In the sight of Angels I will sing to Thee, O God.\n℟. I will worship facing Thy holy temple and confess Thy name.\nLet us pray,\nO God, who in Thine ineffable providence hast deigned\nto send Thy holy Angels to watch over us,\ngrant to us, Thy supplicants, to be always defended\nby their protection and in eternity to share their joy.\nThrough our Lord Jesus Christ."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendatio",
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Has horas canonicas cum devotione\nDixi, custos Angele tui ratione:\nPrecor, me custodias mortis in agone,\nEt praesens me deducas in caeli regione.\n\nAngele Dei, qui custos es mei,\nMe tibi commissum pietate superna;\nHac nocte illumina, custodi, rege, et guberna.\nAmen.",
+        "en-US": "These hours Canonical with devotion\nto thy rule, O Guardian Angel, I didst say:\nI bid thee guard me at death's hour,\nand carry me to heaven to live alway.\n\nAngel of God, my guardian dear,\nto whom his love commits me here;\never this night be at my side,\nto light and guard, to rule and guide.\nAmen."
+      }
+    }
+  ]
+}

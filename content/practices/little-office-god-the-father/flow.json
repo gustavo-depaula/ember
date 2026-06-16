@@ -1,0 +1,375 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\nEt os meum annuntiabit laudem tuam.\n℣. Deus Pater in adjutorium meum intende.\n℟. Te Deum Patrem laudamus,\n℣. Te Conditorem coeli, et terrae confitemur.\n℟. Domine ad adjuvandum me festina.\nGloria Deo Patri:\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluja."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Lucis Creator optime,\nLucem dierum proferens,\nPrimordiis lucis novae,\nMundi paras originem.\nQui mane junctum vesperi,\nDiem vocari praecipis,\nFac, cedat omne noxium,\nPurgetur omne pessimum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Benedicamus Deum Patrem.\n℟. Laudemus, et superexaltemus eum in saecula."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictio, et claritas, et sapientia, et gratiarum actio, honor, virtus, et fortitudo, Deo Patri in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDa nobis, quaesumus Omnipotens et aeterne Deus, auxilium gratiosae tuae pietatis: ut Te Patrem ingenitum, Deum verum, Creatorem coeli et terrae, visibilium omnium et invisibilium, esse credimus; in exequendis quoque mandatis tuis voluntate, et actione, semper tibi placeamus: qui Deus es in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Immense Coeli Conditor,\nQui mixta ne confunderent,\nAquae fluenta dividens,\nCoelum dedisti limitem.\nInfunde nunc piissime\nDonum perennis gratiae,\nFraudis novae ne casibus\nNos error vetus afficiat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus Dominus Deus Israel: qui fecit mirabilia solus, et benedictum nomen Majestatis ejus in aeternum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Cum Orat. ut supra in Matut."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Telluris alma Conditor,\nMundi solum qui separans,\nPulsis aquae molestiis,\nTerram dedisti immobilem:\nUt germen aptum proferens,\nStaret decora floribus:\nMunda virore gratiae,\nMentis perusta vulnera."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus es Domine Deus Pater in firmamento coeli; et laudabilis, et gloriosus, et superexaltatus in saecula."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Cum Orat. ut supra in Matut."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Coeli Deus Sanctissime,\nQui lucidas mundi plagas,\nCandore pingis igneo,\nAugens decoro lumine.\nExpelle noctem cordium,\nAbsterge somnos mentium,\nResolve culpae vinculum,\nEverte moles criminum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria tibi, Domine, in saecula, nunc, et in perpetuum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Cum Orat. ut supra in Matut."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magne Deus potentiae,\nQui fertili natos aquae\nPartim relinquis gurgiti,\nPartim levas in aera:\nDa, culpa nullum deprimat,\nNullum efferat jactantia,\nElisa mens ne concidat,\nElata mens ne corruat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria laudis resonet in ore omnium, Deo Patri, et resultet laude perenni."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Cum Orat. ut supra in Matut."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hominis superne Conditor,\nQui cuncta solus ordinans,\nHumum jubes producere\nReptantis et ferae genus\nEt magna rerum corpora.\nDa gaudiorum praemia,\nDa gratiarum munera,\nTuaeque pacis foedera."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus sit Deus Pater, Creator, et Gubernator omnium, nunc, et semper, et per infinita saecula saeculorum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Cum Orat. ut supra in Matut."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Scrutator alme cordium,\nInfirma tu scis virium:\nAd te reversis exhibe\nRemissionis gratiam.\nMultum quidem peccavimus,\nSed parce confitentibus:\nConfer medelam languidis,\nInfunde laudem cordium.\nTe mane laudum carmine,\nTe deprecamur vesperi:\nDigneris, ut te supplices,\nLaudemus inter coelites.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Te Deum laudamus,\nTe Dominum confitemur.\nTe aeternum Patrem omnis terra veneratur."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Cum Orat. ut supra in Matut."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Oblatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Clementissime Pater, aeterne Deus, pro omnibus peccatis totius mundi, offero tibi Unigenitum tuum, in Cruce pendentem: omnem quoque passionem, dolorem, angustiam, praelium, sitim, famem, et mortem ejus: offero tibi in caritate, et virtute, qua illum semetipsum obtulit pro nobis in ara crucis. In ejusdem oblationis unione offero me ipsum tibi in laudem, gloriam, et beneplacitum tuum sempiternum.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Alia cum sui plena resignatione ad Deum patrem."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Tibi Domine sancte Pater, qui me, qualis, quantusque sum, ex nihilo ad imaginem tuam creatus, tibi Domine offero me ipsum, qualis, quantusque sum: sed cum totus tuus sim, nihil tibi offero, quod tuum non sit; corpus enim opus manuum tuarum est, anima spiraculum tuum est, spiritus tui inspiratio est, et quidquid boni facere valeo absque te non facio: si vero quid mali operor, hoc totum meum est: cum autem voluntatem meam mihi subjecero, hanc tibi offero Domine, ut, cum totus in te fuero, nihil in me ipso sim. Fac ergo quod tibi lubet, et dic me fiat voluntas tua; extra cujus terminus, nec ipse possem, vagari vellem. Tu enim vis salvos nos fieri, tu vis sanctificationem nostram, tu vis nos credentes in Filium tuum, non perire, sed vitam aeternam habere; dirige ergo gressus nostros in via mandatorum tuorum; et veni, ut nobiscum sis, nosque ad te trahas. Domine in flagella paratus sum; fiat ergo voluntas tua, et tolle peccata mea; castiga corpus meum, ad mihi crucem ferre, non qualem ego opto, sed qualem tu vis: omnia membra mea secundum tuam divinam voluntatis beneplacitum mortifica, meque sic corrige, ut te numquam offendere cupiam. Accipe, Domine sancte Pater, hanc oblationem meam, quam alacri corde tibi offero, et fac me semper in te esse, cum nihil tibi extra te placeat.\nAmen."
+      }
+    }
+  ]
+}

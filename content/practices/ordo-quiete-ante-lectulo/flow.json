@@ -1,0 +1,160 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Courtesy of Alan L., AlanL399.github.io"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Incipit"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Esto nobis domine in deum protectorem.\n℟. Esto nobis domine in deum protectorem.\n℣. Esto nobis domine in deum protectorem.\n℟. Gloria, et honor Patri, et Filio, et Spiritui Sancto.\n℣. Esto nobis domine in deum protectorem.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\n℣. Saluos nos fac ut confiteamur.\n℟. Benedictus dominus deus."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Lauda"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alleluia. Dignare domine noctem istam sine tribulatione et a peccato nos custodire.\n℣. Alleluia.\n℟. Fiat domine misericordia tua super nos sicut sperabimus in te.\n℣. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Nota, quod in tempore Quadragesimae non dicitur Alleluia in ista Lauda, sed dicitur Laus tibi domine, Rex eterne glorie."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Hymnus"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Tempus sopori congruum\nadest, quies sit corporum,\nstratum rigemus lacrimis,\nlectum lauemus fletibus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Preceliamus simbolum\nsuccedat hinc oratio;\nhinc osculantes inuicem\narmemur ipsi per crucem."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sic fessa membra lectulo\ndemus sub illo iudice,\nqui sic quiescentes excubat,\nut dormientes protegat."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Discede turba demonum,\nliquesce ars satellitum\nper nomen hoc crucis sacre,\natque tuosque dissice."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "At tu creator omnium\nprocul repelle inuidum,\naduersa cuncta dissices,\ntranquilla queque conferas."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Praesta, Pater Piissime,\nPatrique compar Unice,\nCum Spiritu Paraclito\nRegnans per omne saeculum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Credo, Versus, Kyrie, et Pater"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Credo in Deum Patrem omnipotentem. Et in Ihesum Christum filium eius, unicum Deum et Dominum nostrum. Qui natus est de Spiritu Sancto et Maria Virgine. Passus sub Pontio Pilato, crucifixus et sepultus. Descendit ad inferna. Tertia die resurrexit viuus a mortuis. Ascendit ad coelos, sedet ad dexteram Dei patris omnipotentis. Inde venturus iudicare viuos et mortuos. Credo in Sanctum Spiritum. Sanctam Ecclesiam Catholicam. Remissionem omnium peccatorum. Carnis huius resurrectionem et vitam aeternam.\nAmen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Custodi nos domine ut pupillam oculi sub umbra alarum tuarum protege nos."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Kyrie eleison\n℟. Kyrie eleison.\n℣. Kyrie eleison."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Pater noster, qui es in caelis.\n℟. Amen.\n℣. Sanctificetur nomen tuum.\n℟. Amen.\n℣. Adveniat regnum tuum.\n℟. Amen.\n℣. Fiat voluntas tua, sicut in caelo, et in terra.\n℟. Amen.\n℣. Panem nostrum quotidianum da nobis hodie.\n℟. Quia Deus es.\n℣. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris.\n℟. Amen.\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Clamores (Preces)"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\nMiserere nobis domine miserere nobis et kariatis dulcedine corde nostra perfunde. Quo pacis tue semper conexione firmati. antiqui hostis in cordibus nostris aditus non pateat introeundi. sed sic semper protectionis tuae uelamine tueamur. ut ubique angelorum tuorum excubiis muniarum. Ut si fessa membra quieberint. spiritus tibi uigilet semper. Vigilate tua custodia deus noster qui uiuis.\n℟. Amen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\n℣. In nomine Domini nostri Ihesu Christi eamus et requiescamus in pace.\n℟. Deo gratias."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Post hec date abinuicem veniam absoluit decanus et uadunt ad lectos et requiscunt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria",
+        "en-US": "Ordinary"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Salve Patriarcharum decus,\net Ecclesiae sanctae Dei Oeconome,\ncui panem vitae et frumentum\nElectorum conservasti.",
+        "en-US": "Hail, glory of the Patriarchs,\nsteward of God's holy Church,\nwho didst preserve the Bread of Life\nand the Wheat of the Elect."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Matutinum",
+        "en-US": "At Matins only"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
+        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Completorium",
+        "en-US": "At Compline only"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.",
+        "en-US": "℣. Convert us, O God our Saviour.\n℟. And turn away Thy wrath from us."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Horas Omnes",
+        "en-US": "At all the Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur\nLaus tibi, Domine, Rex aeternae gloriae.",
+        "en-US": "During Lent until Easter, instead of the alleluia the following is said\nPraise to Thee, O Lord, King of everlasting glory."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magne Ioseph, Fili David,\ncustos date Virginis,\nquem et Virgo nuncupavit\npatrem Christi Domini;\n\nQui fidelis Servus Dei\ndatus es familiae,\nprecor velis curam mei\ntamquam Pater gerere.",
+                "en-US": "Mighty Joseph, son of David!\nHigh and glorious is thy state-\nof our Lord the Foster-father,\nMary's spouse Immaculate.\n\nThe Almighty's faithful servant,\nof the Holy Family,\nhead and father. Oh! I pray thee\nbe a father unto me."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. (Psalmus 104)",
+                "en-US": "Ant. (Psalm 104)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Constituit eum Dominum Domus suae, et Principem omnis possessionis suae.",
+                "en-US": "He made him master of his house, and ruler over all his possessions."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cum ferentem castam Matrem,\nconspexisses uterum,\net nescires tamen Patrem,\ncor gerebas anxium;\n\nSed de caelo mox instructus,\nposuisti dubium.\nFac ut omnis meus luctus\nTranseat in Gaudium.",
+                "en-US": "Sorely was thy bosom troubled\ntill the mystery was revealed\nwhich the Lord had wrought in Mary,\nwho in patience all concealed.\n\nBut an angel soon from heaven\nbids thy loving doubts to cease.\nSo may every care and trial\nturn for me to joy and peace."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. (Mt 1:20)",
+                "en-US": "Ant. (Mt 1:20)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ioseph fili David, noli timere accipere Mariam coniugem tuam, quod enim in ea natum est, de Spiritu Sancto est.",
+                "en-US": "Joseph, son of David, fear not to take unto thee Mary as thy spouse, for what is conceived in her is of the Holy Spirit."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum in Bethlehem profecturus,\npergeres cum Virgine,\nDeus nobis par futurus,\nnatus est in tempore.\n\nQuem in faeno collocatum,\ncoluisti graviter:\nnunc in caelo elevatum:\nora pro me iugiter.",
+                "en-US": "With the Virgin, young and tender\nin the winter-time forlorn,\nthou to Bethlehem didst journey\nthat our Lord might there be born.\n\nAs thy God thou didst adore Him,\nwhile He in the manger lay,\nnow is He in heaven exalted-\nturn to Him for us and pray!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. (Lc 2:4)",
+                "en-US": "Ant. (Lk 2:4)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ascendit Ioseph a Galilaea de Nazareth, in Iudaeam in civitatem David, quae vocatur Bethlehem, cum Maria desponsata sibi uxore praegnante.",
+                "en-US": "Joseph went up out of Galilee from Nazareth into Judea, to the city of David, which is called Bethlehem, with Mary his espoused wife who was with child."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vim Herodis evasisti,\nmonitus ab Angelo,\nin Aegyptum cum duxisti\nVirginem cum parvulo.\n\nPer moerorem, quem tulisti,\nisto in exilio,\ncum gravabor hora tristis\nmihi sis auxilio.",
+                "en-US": "Fleeing at the angel's warning,\nfar from Herod's fury wild,\nlong in Egypt didst thou tarry\nwith the Virgin and the Child.\n\nBy thy toil, and pain, and sadness,\nIn that exile dark and drear,\nHelp me in the cares and sorrows\nWhich may be my portion here."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. (Mt 2:13)",
+                "en-US": "Ant. (Mt 2:13)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Surge, et accipe Puerum et Matrem eius, et fuge in Aegyptum, et esto ibi usque dum dicam tibi; futurum est enim, ut Herodes quaerat Puerum ad perdendum Eum.",
+                "en-US": "Rise and take the Child and his Mother, and fly into Egypt, and be there until I tell thee; for it will come to pass that Herod will seek the Child to destroy Him."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ex Aegypto cum defessus,\nGalilaeam peteres,\nes in Nazareth digressus,\nut securus degeres.\n\nIn florentis hortum mentis,\namas Iesum ducere:\nda, florescat et mitescat,\nhortus animae.",
+                "en-US": "Home from Egypt's land returning\nthou wouldst rest in Galilee,\nbut to Nazareth art bidden,\nthat the Child secure may be.\n\nSouls retiring, sweet, and humble,\nthou dost still for Jesus seek:\nthat my heart may be his garden,\nmake it humble, pure and meek."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. (Mt 2:23)",
+                "en-US": "Ant. (Mt 2:23)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et consurgens ex Aegypto, accepit Puerum et Matrem eius, et venit in terram Israel, et habitavit in civitate, quae vocatur Nazareth.",
+                "en-US": "And rising up out of Egypt, he took the Child and his Mother and came into the land of Israel, and he dwelt in a city which is called Nazareth."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quam dolebas, cum quaerebas,\ndoudennem Iesulum!\nSed inventus et retentus,\nauxit illi gaudium.\n\nIesum, Lumen oculorum,\nfac me nunquam perdere:\nsemper puritate morum,\nmenti adsit integrae.",
+                "en-US": "Thou didst search with loving anguish\nFor the little Jesus lost,\nBut, in finding Him, what rapture\nPurchased at that sorrow's cost!\n\nThee, my light, my life, my Jesus,\nMay I never lose by sin!\nMay my heart be pure and simple,\nSo that thou may'st rest therein."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. (Lc 2:48)",
+                "en-US": "Ant. (Lk 2:48)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fili, quid fecisti nobis sic? Ecce Pater tuus et ego dolentes quaerebamus Te.",
+                "en-US": "Son, why hast Thou done this to us? Behold, Thy father and I have sought Thee sorrowing."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Inter Iesu et Mariae\nmanus integerrimas,\nspiritum emittis pie,\nhinc ad sedes superas.\n\nEia Iesu et Maria,\nte coniunge tertium,\nquando me suprema die\nmors citabit anxium.",
+                "en-US": "Jesus, Mary, hung above thee,\non that sad, but happy day\nwhen, with their fond arms around thee,\npassed thy gentle soul away.\n\nOh! when death shall come to take me,\nall its terrors I'll defy,\nif, with Jesus and with Mary,\nthou, dear Joseph, wilt be nigh."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. (Psalmus 4:9)",
+                "en-US": "Ant. (Psalms 4:9)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In pace in idipsum dormiam et requiescam: quoniam Tu, Domine, singulariter in spe constituisti me.",
+                "en-US": "I will sleep in peace, and I will rest, for Thou, O Lord, singularly hast settled me in hope. (4:9)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio Horae",
+        "en-US": "Conclusion of the above Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis beatissime Ioseph.\n℟. Ut digni efficiamur promissionibus Christi.\n\nOremus,\nSanctissimae Genetricis tuae sponsi, quaesumus, Domine, meritis adiuvemur, ut quod possibilitas nostra non obtinet, eius nobis intercessione donetur. Qui vivis et regnas Deus per omnia saecula saeculorum.\n℟. Amen.\n\n℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n\n℣. Benedicamus Domino.\n℟. Deo gratias.\n\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
+        "en-US": "℣. Pray for us, most blessed Joseph.\n℟. That we may be made worthy of the promises of Christ.\n\nLet us pray,\nO Lord, we beseech Thee, may we be assisted by the merits of the Spouse of thy most holy Mother, that what of ourselves we cannot possibly obtain, may through his intercession be granted to us by Thee, who livest and reignest God for ever and ever.\n℟. Amen.\n\n℣. Lord, hear my prayer,\n℟. And let my cry come unto Thee.\n\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n\n℣. May the souls of the faithful, through the mercy of God, rest in peace.\n℟. Amen."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendatio",
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Cliens tibi dedicatus,\nsolvit hoc Officium,\neius votis tu vocatus,\nredde beneficium;\n\nUt post huius vitae metam,\ntuo patrocinio,\ntecum vivam vitam laetam\ncaeli in palatio.",
+        "en-US": "Thus, O glorious saint, my homage\nI thy grateful client pay.\nHear my prayer and smile upon me,\nGuide and guard me on my way.\n\nMay I 'neath thy kind protection\nSafely reach my journey's close,\nAnd with thee in heaven's bright palace\nThrough eternity repose.\nAmen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit Nomen tuum.\nUsquequo, Deus, improperavit inimicus? irritat adversarius Nomen tuum in finem?\nNescient quia tu ipse es Deus noster, qui conteris bella, et Dominus Nomen est tibi.\nImple facies eorum ignominia, et quaerent Nomen tuum, Domine.\nConfiteantur Nomini tuo magno, quoniam terribile et sanctum est.\nEt benedicant Nomini gloriae tuae excelsi, in omni laude et benedictione.\nGloria Patri.",
+                "en-US": "Our Father.\n℣. Lord, Thou wilt open my lips.\n℟. And my mouth shall extol Thy Name.\nHow long, O God, shall the enemy outrage Thee? Is the adversary to provoke Thy Name forever?\nThey know not that Thou art our God, who destroyest wars from the beginning, and that the Lord is Thy Name.\nFill their faces with shame, and they shall seek Thy Name, O Lord.\nLet them give praise to Thy great Name: because it is terrible and holy.\nAnd blessed be the great Name of Thy glory with all blessing and praise.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Expectemus a Domino misericordiam; forsitan enim indignationem suam abscondet, et dabit gloriam Nomini suo.",
+                "en-US": "Let us wait for mercy from the Lord; for perhaps he will put a stop to his indignation, and he will give glory to his own Name."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctificabo Nomen meum magnum, quod pollutum est inter gentes, dicit Dominus: et assumam zelum pro Nomine sancto meo, ut sciant gentes quia ego Dominus.\n℟. Deo gratias.\n℣. Quis non timebit te, Domine?\n℟. Et magnificabit Nomen tuum?\nOremus,\nDeus, cujus sanctum et terribile Nomen jugiter tota die blasphematur, illumina oculos improperantium tibi, ut majestatem tui Nominis agnoscentes, illud nobiscum et reveraentur et ament. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc, et usque in saeculum.\nAmen.",
+                "en-US": "I will sanctify my great Name, which was profaned among the Gentiles, saith the Lord; and I will become jealous for the honour of my holy Name in order that the nations may know that I am the Lord.\n℟. Let us give thanks to God.\n℣. Who shall not fear Thee, O Lord?\n℟. And who shall not magnify Thy Name?\nLet us pray,\nO God, whose holy and terrible Name is unceasingly profaned by blasphemers, lighten the eyes of those who outrage Thee, that confessing the majesty of Thy Name, they may, together with us, revere and love it. Through Jesus Christ our Lord.\n℣. May the Name of the Lord be blessed.\n℟. Now and for ever.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Ad Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit Nomen tuum.\nLaudate Dominum de caelis; laudate eum in excelsis.\nLaudate eum, omnes angeli ejus; laudate eum, omnes virtutes ejus.\nLaudate eum, sol et luna; laudate eum, omnes stellae et lumen.\nLaudate eum, caeli caelorum; et aquae omnes quae super caelos sunt laudent Nomen Domini.\nBestiae et universa pecora, serpentes et volucres pennatae;\nReges terrae et omnes populi, principes et omnes judices terrae;\nJuvenes et virgines, senes cum junioribus laudent Nomen Domini, quia exaltatum est Nomen ejus solius.\nGloria Patri.",
+                "en-US": "Our Father.\n℣. Lord, Thou wilt open my lips.\n℟. And my mouth shall extol Thy name.\nPraise ye the Lord from the heavens: praise ye him in the high places.\nPraise ye him, all his angels: praise ye him, all his hosts.\nPraise ye him, sun and moon: praise him, all ye stars and light.\nPraise him, ye heavens of heavens, and let all the waters that are above the heavens praise the name of the Lord.\nPraise him, beasts and all cattle, serpents and feathered fowl;\nKings of the earth and all people, princes and all judges of the earth;\nYoung men and maidens: let the old with the younger, praise the name of the Lord, for his name alone is exalted.\nGlory to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jubilate Deo, omnis terra; psalmum dicite Nomini ejus; date gloriam laudi ejus.",
+                "en-US": "Sing to the Lord with holy transports of joy, all ye inhabitants of the earth: sing canticles to the glory of his name: render to him, by your praises, the homage due to him."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus es, Domine Deus patrum nostrorum; et laudabilis, et gloriosus, et superexaltatus in saecula, et benedictum Nomen gloriae tuae sanctum, et laudabile, et superexaltatum in omnibus saeculis.\n℟. Deo gratias.\n℣. A solis ortu usque ad occasum.\n℟. Laudabile Nomen Domini.\nOremus,\nConcede nobis, omnipotens Deus, ita Nomen sanctum tuum in terra venerari, ut cum angelis et sanctis tuis in caelo ipsum laudare et exaltare mereamur. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\nAmen.",
+                "en-US": "Blessed art Thou, O Lord, God of our fathers; and worthy to be praised, and glorified, and exalted above all for ever; and blessed is the holy name of Thy glory: and worthy to be praised, and exalted above all from century to century.\n℟. Thanks be to God.\n℣. From the rising to the setting of the sun.\n℟. The name of the Lord shall be blessed.\nLet us pray,\nGrant to us, almighty God, grace so to venerate thy holy name on earth, that we may merit to praise and bless it with the angels and saints in heaven. Through our Lord Jesus Christ.\n℣. Blessed be the name of the Lord.\n℟. Now and evermore.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit Nomen tuum.\nDeus meus, aperi oculos, et vide desolationem nostram et civitatem super quam invocatum est Nomen tuum.\nExurge; quare obdormis, Domine? Exsurge, Domine, adjuva nos, et redime nos propter Nomen tuum.\nNoli meminisse iniquitatem patrum nostrorum, sed memento manus tuae et Nominis tui in tempore isto.\nPeccavimus cum patribus nostris; injuste egimus, et iniquitatem fecimus.\nSi iniquitates nostrae responderint nobis, Domine, fac propter Nomen tuum; quoniam multae sunt aversiones nostrae, et tibi peccavimus.\nAdjuva nos, Deus salutaris noster, et propter gloriam Nominis tui libera nos, et propitius esto peccatis nostris, propter Nomen tuum.\nGloria Patri.",
+                "en-US": "Our Father.\n℣. Lord, Thou wilt open my lips.\n℟. And my mouth shall extol Thy name.\nMy God, open Thine eyes, and consider our desolation, and the city upon which Thy name is invoked.\nArise, O Lord; why sleepest Thou? Arise, O Lord, help us and redeem us for Thy Name's sake.\nRemember not the iniquities of our fathers, but think at this time upon Thy power and upon Thy Name.\nWe confess that we have sinned with our fathers; that we have acted unjustly, and wrought iniquity.\nIf our iniquities cry out against us, O Lord, nevertheless be merciful to us for Thy Name's sake, for our rebellions are many, we have sinned against Thee.\nHelp us, O God our Saviour; deliver us for the glory of Thy Name, and forgive us our sins for Thy Name's sake.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exurge, Domine, adjuva nos, et redime nos propter Nomen tuum.",
+                "en-US": "Arise, O Lord, help us and redeem us for Thy Name's sake."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Si conversus autem populus meus, super quos invocatum est Nomen meum, deprecatus me fuerit, et exquisierit faciem meam, et egerit poenitentiam a viis suis pessimis, et ego exaudiam de caelo, et propitius ero peccatis eorum.\n℟. Deo gratias.\n℣. In eo laetabitur cor nostrum.\n℟. Et in Nomine sancto ejus speravimus.\nOremus,\nIneffabilem nobis, Domine, propter Nomen sanctum tuum, misericordiam tuam clementer ostende, ut simul nos, et a peccatis omnibus exuas et a poenis quas pro his mereamur eripias. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\nAmen.",
+                "en-US": "And my people, upon whom my Name is called being converted, shall make supplication to me, and seek out my Face; and do penance for their most wicked ways: then will I hear from heaven, and will pardon their sins.\n℟. Let us give thanks to God.\n℣. Our heart finds its joy in him.\n℟. And we hope in his holy Name.\nLet us pray,\nDeign, O Lord, for Thy Name's sake, to show to us thy mercy that we may be delivered, both from our sins and from the chastisements they have deserved. Through our Lord Jesus Christ.\n℣. Blessed be the Name of the Lord.\n℟. Now and for evermore.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aspice in me, et miserere mei, secundum judicium diligentium Nomen tuum.\nExultabit cor meum in salutare tuo; cantabo Domino qui bona tribuit mihi, et psallam Nomini Domini altissimi.\nGloria Patri.",
+                "en-US": "Look upon me, O Lord, and have mercy on me, according to the judgment of them that love Thy Name.\nMy heart will thrill with joy in Thy salvation: I will sing to the Lord, who giveth me good things: yea I will sing to the Name of the Lord the most High.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exaltabo te, Deus meus Rex, et benedicam Nomini tuo in saeculum, et in saeculum saeculi.",
+                "en-US": "I will praise Thee, O God my King, and I will bless Thy Name for ever and ever."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Turris fortissima Nomen Domini: ad ipsum currit justus, et exaltabitur.\n℟. Deo gratias.\n℣. Benedic, anima mea, Domino.\n℟. Et omnia quae intra me sunt, Nomini sancto ejus.\nOremus,\nDanobis, omnipotens et sempiterne Deus, Nomen sanctum tuum ita pura mente benedicere et fiducialiter invocare, ut quodcumque sic petierimus obtinere mereamur. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\nAmen.",
+                "en-US": "The Name of the Lord is a strong tower: the just runneth to it, and shall be exalted.\n℟. Thanks be to God.\n℣. Bless the Lord, O my soul.\n℟. And let all that is within me bless his Holy Name.\nLet us pray,\nGrant us, almighty and eternal God, grace to bless Thy Name with such pure heart and to invoke it with such confidence, that we may deserve to obtain all that we have asked of Thee. Through Jesus Christ.\n℣. Blessed be the Name of the Lord.\n℟. From this time forth, for evermore.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit Nomen tuum.\nExaltabo te, Deus meus Rex, et benedicam Nomen tuum in saeculum et in saeculum saeculi.\nEt in conspectu angelorum psallam tibi; adorabo ad templum sanctum tuum, et confitebor Nomini tuo.\nPer singulos dies benedicam tibi, et laudabo Nomen tuum, in saeculum et in saeculum saeculi.\nSic benedicam te in vita mea, et in Nomine tuo levabo manus meas.\nEt tu, Domine, fac mecum propter Nomen tuum, quia suavis est misericordia tua.\nAspice in me, et miserere mei, secundum judicium diligentium Nomen tuum.\nExultabit cor meum in salutare tuo; cantabo Domino qui bona tribuit mihi, et psallam Nomini Domini altissimi.\nGloria Patri.",
+                "en-US": "Our Father.\n℣. Lord, Thou wilt open my lips.\n℟. And my mouth shall extol Thy Name.\nI will extol Thee, O God my king: and I will bless Thy Name for ever, yea for ever and ever.\nI will sing praise to Thee in the sight of the angels: I will worship towards Thy holy temple, and I will give glory to Thy Name.\nEvery day I will bless Thee: and I will praise Thy Name for ever, yea for ever and ever.\nI will bless Thee as long as I live: and in Thy Name I will lift up my hands to heaven.\nAnd Thou, O Lord, defend me for Thy Name's sake: because Thy mercy is sweet.\nLook upon me, O Lord, and have mercy on me, according to the judgment of them that love Thy Name.\nMy heart will thrill with joy in Thy salvation: I will sing to the Lord, who giveth me good things: yea I will sing to the Name of the Lord the most High.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exaltabo te, Deus meus Rex, et benedicam Nomini tuo in saeculum, et in saeculum saeculi.",
+                "en-US": "I will praise Thee, O God my King, and I will bless Thy Name for ever and ever."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Turris fortissima Nomen Domini: ad ipsum currit justus, et exaltabitur.\n℟. Deo gratias.\n℣. Benedic, anima mea, Domino.\n℟. Et omnia quae intra me sunt, Nomini sancto ejus.\nOremus,\nDa nobis, omnipotens et sempiterne Deus, Nomen sanctum tuum ita pura mente benedicere et fiducialiter invocare, ut quodcumque sic petierimus obtinere mereamur. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\nAmen.",
+                "en-US": "The Name of the Lord is a strong tower: the just runneth to it, and shall be exalted.\n℟. Thanks be to God.\n℣. Bless the Lord, O my soul.\n℟. And let all that is within me bless his Holy Name.\nLet us pray,\nGrant us, almighty and eternal God, grace to bless Thy Name with such pure heart and to invoke it with such confidence, that we may deserve to obtain all that we have asked of Thee. Through Jesus Christ.\n℣. Blessed be the Name of the Lord.\n℟. From this time forth, for evermore.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit Nomen tuum.\nBeatus vir cujus est Nomen Domini spes ejus, et non respexit in vanitates et insania falsas.\nCircumdantes circumdederunt me; et in Nomine Domini quia ultus sum in eos.\nCircumdederunt me sicut apes, et exarserunt sicut ignis in spinis; et in Nomine Domini, quia ultus sum in eos.\nConfitebor Nomini tuo, Domine, quoniam adjutor et protector factus es mihi.\nEt liberasti me, secundum multitudinem misericordiae Nominis tui, de manibus quaerentium animam meam.\nSperent in te qui noverunt Nomen tuum, quoniam non dereliquisti quaerentes te, Domine.\nPropterea confitebor tibi in nationibus, Domine, et Nomini tuo psalmum dicam.\nGloria Patri.",
+                "en-US": "Our Father.\n℣. Lord, Thou wilt open my lips.\n℟. And my mouth shall extol Thy Name.\nBlessed is the man whose trust is in the Name of the Lord; and who hath not had regard to vanities, and lying follies.\nMy enemies have surrounded me and compassed me about: and in the Name of the Lord, I have been revenged on them.\nThey surrounded me like bees, and they burnt like fire among thorns: and in the Name of the Lord I was revenged on them.\nI will give glory to Thy Name, O Lord: for Thou hast been a helper and protector to me.\nAnd Thou hast delivered me, according to the multitude of the mercy of Thy Name from the hands of those who sought after my life.\nLet those who know Thy Name trust in Thee: for Thou hast not forsaken those who seek Thee, O Lord.\nTherefore, O Lord, I will confess Thee among the nations; and I will sing a psalm to the glory of Thy Name.\nGlory to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In Nomine tuo spernemus insurgentes in nobis.",
+                "en-US": "In Thy Name we will despise those who rise up against us."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui ambulaverit in tenebris et non est lumen ei, speret in Nomine Domini, et innitetur super Deum suum.\n℟. Deo gratias.\n℣. In te, Domine, inimicos nostros ventilabimus cornu.\n℟. Et in Nomine tuo spernemus insurgentes in nobis.\nOremus,\nDeus, qui in Nomine tuo sperantes nunquam deseris, concede fragilitati nostrae praesidium; ut sancti Nominis tui protectione muniti, omnia salutis nostrae adversantia superare valeamus. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\nAmen.",
+                "en-US": "Let him who hath walked in darkness and who hath no light, hope in the Name of the Lord, and lean upon his God.\n℟. Thanks be to God.\n℣. In Thee, O Lord, we shall have strength to fight against our enemies.\n℟. And in Thy Name we will despise those who rise up against us.\nLet us pray,\nO God, who never forsakest those who hope in Thy Name, grant us Thy help in our weakness, so that under the protection of Thy holy Name we may triumph over all the obstacles which we may encounter in the way of salvation. Through Jesus Christ our Lord.\n℣. May the Name of the Lord be blessed.\n℟. Now and for evermore.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit Nomen tuum.\nDomine Deus noster, quam admirabile est Nomen tuum in universa terra!\nNon est similis tui, Domine: magnus es tu, et magnum Nomen tuum in fortitudine.\nQuis non timebit te, et magnificabit Nomen tuum?\nSit auris tua attendens adorationem servorum tuorum qui volunt timere Nomen tuum.\nTu exaudies de caelo, in firmamento habitaculi tui, ut discant universi populi terrarum Nomen tuum timere, sicut populus tuus Israel.\nEt omnes gentes, quascumque fecisti, venient, et adorabunt coram te, et glorificabunt Nomen tuum.\nSecundum Nomen tuum, sic et laus tua in fines terrae.\nEt memores erunt Nominis tui in omni generatione et generationem.\nGloria Patri.",
+                "en-US": "Our Father.\n℣. Lord, Thou open wilt my lips.\n℟. And my mouth shall extol Thy Name.\nO Lord our God, how admirable is Thy Name throughout the whole earth!\nThere is none like to Thee, O Lord: Thou art great, and great is Thy Name in might.\nWho shall not fear Thee, O Lord, and magnify Thy Name?\nLet Thy ear, Lord, be attentive to the prayer of Thy servants who desire to fear Thy Name.\nThou wilt hear us from the firmament where Thou dwellest, in order that all people, throughout the whole earth, may learn to fear Thy Name, like Thy people Israel.\nAnd all the nations Thou hast made shall come and adore before Thee, O Lord: and they shall glorify Thy Name.\nAccording to Thy Name O God, so also is Thy praise unto the ends of the earth.\nAnd Thy Name shall be remembered from generation to generation.\nGlory to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quis non timebit te, Domine, et magnificabit Nomen tuum?",
+                "en-US": "Who shall not fear Thee, O Lord, and magnify Thy Name?"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ab ortu solis usque ad occasum magnum est Nomen meum in gentibus, et in omni loco sacrificatur et offertur Nomini meo oblatio munda, quia magnum est Nomen meum in gentibus, dicit Dominus exercituum.\n℟. Deo gratias.\n℣. Sanctum et terribile Nomen ejus.\n℟. Initium sapientiae timor Domini.\nOremus,\nSancti Nominis tui, Domine, timorem pariter et amorem fac nos habere perpetuum, quia nunquam tua gubernatione destituis, quos in soliditate tuae dilectionis instituis. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\nAmen.",
+                "en-US": "From the rising to the setting of the sun, my Name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my Name a clean oblation: for great is my Name, among the Gentiles, saith the Lord of hosts.\n℟. Thanks be to God.\n℣. Holy and terrible is His Name.\n℟. The fear of the Lord is the beginning of wisdom.\nLet us pray,\nMake us, O Lord, to have a perpetual fear and love of Thy holy Name, for Thou never ceasest to govern those whom Thou dost solidly establish in Thy love. Through Jesus Christ our Lord.\n℣. May the Name of the Lord be blessed.\n℟. Now and for evermore.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\nAve, Maria.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit Nomen tuum.\nMagnificate Dominum mecum, et exaltemus Nomen ejus in idipsum.\nIntroitte portas ejus in confessione, atria ejus in hymnis; confitemini ; laudate Nomen ejus.\nIlluc enim ascenderunt tribus, tribus Domini, testimonium Israel ad confitendum Nomini Domini.\nAfferte Domino gloriam et honorem, afferte Domino gloriam Nomini ejus; adorate Dominum in atrio sancto ejus.\nCantate Domino, et benedicite Nomini ejus; annuntiate de die in diem salutare ejus.\nCantate Deo, psalmum dicite Nomini ejus; iter facite ei qui ascendit super occasum: Dominus Nomen illi.\nModulamini illi psalmum novum; exaltate et invocate Nomen ejus.\nGloria Patri.",
+                "en-US": "Our Father.\nHail, Mary.\n℣. Lord, Thou wilt open my lips.\n℟. And my mouth shall extol Thy Name.\nMagnify the Lord with me, and let us extol his Name together.\nGo ye into his temple with praise, and into his courts with hymns: glorify him: and praise ye his Name.\nFor thither did the tribes go up, the tribes of the Lord: the testimony of Israel, to praise the Name of the Lord.\nBring to the Lord glory and honour: bring to the Lord glory to his Name: adore ye the Lord in his holy court.\nSing ye to the Lord and bless his Name: shew forth his salvation from day to day.\nSing ye to God, sing a psalm to his Name: make a way for him who ascendeth upon the west: the Lord is his Name.\nSing ye to him a new psalm, extol and call upon his Name.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Bonum est confiteri Domino et psallere Nomini tuo, Altissime.",
+                "en-US": "It is good to give praise to the Lord: and to sing Thy Name, O most High."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Elegi et sanctificavi locum istum, dicit Dominus, ut sit Nomen meum ibi in sempiternum, et permaneant oculi mei et cor meum ibi cunctis diebus.\n℟. Deo gratias.\n℣. Sanctum et terribile Nomen ejus.\n℟. Initium sapientiae timor Domini.",
+                "en-US": "I have chosen and I have sanctified this place, saith the Lord, that my Name may be there for ever, and that my eyes and my heart may remain there perpetually.\n℟. Thanks be to God.\n℣. Holy and terrible is His Name.\n℟. The fear of the Lord is the beginning of wisdom."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Beatae Mariae Virginis",
+                "en-US": "Canticle Of the Blessed Virgin"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magnificat anima mea Dominum,\nEt exultavit spiritus meus in Deo salutari meo.\nQuia respexit humilitatem ancillae suae; ecce enim ex hoc beatam me dicent omnes generationes.\nQuia fecit mihi magna qui potens est, et sanctum Nomen ejus.\nEt misericordia ejus a progenie in progenies timentibus eum.\nFecit potentiam in brachio suo: dispersit superbos mente cordis sui.\nDeposuit potentes de sede, et exaltavit humiles.\nEsurientes implevit bonis, et divites dimisit inanes.\nSuscepit Israel puerum suum, recordatus misericordiae suae.\nSicut locutus est ad patres nostros, Abraham et semini ejus in saecula.\nGloria Patri.",
+                "en-US": "My soul doth magnify the Lord,\nAnd my spirit hath rejoiced in God my Saviour.\nBecause he hath regarded the humility of his handmaid; for behold from henceforth all generations shall call me blessed.\nBecause he that is mighty, hath done great things to me; and holy is his Name.\nAnd his mercy is from generation unto generation, to them that fear him.\nHe hath showed might in his arm: he hath scattered the proud in the conceit of their heart.\nHe hath put down the mighty from their seat, and hath exalted the humble.\nHe hath filled the hungry with good things; and the rich he hath sent empty away.\nHe hath received Israel his servant, being mindful of his mercy.\nAs he spoke to our Fathers: to Abraham and to his seed for ever.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fecit mihi magna qui potens est, et sanctum Nomen ejus.\n℣. Adorabo ad templum sanctum tuum.\n℟. Et confitebor Nomini tuo, Domine.\nOremus,\nRespice, quaesumus, Domine, super famulos tuos in Nomine tuo congregatos, et concede illis ut operibus, et non tantum verbis, injurias sancto Nomini tuo illatas reparare valeant. Per Dominum.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\nAmen.",
+                "en-US": "For he that is mighty hath done great things to me; and holy is his Name.\n℣. I will worship Thee towards Thy holy temple.\n℟. And I will give glory to Thy Name, O Lord.\nLet us pray,\nLord, we beseech Thee, look upon Thy family which is gathered together in Thy Name and grant to them that, not only by their words, but by their actions, they may make reparation for the outrages committed against Thy holy Name. Through Jesus Christ our Lord.\n℣. May the Name of the Lord be blessed.\n℟. Now and for evermore.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster.\n℣. Domine, labia mea aperies.\n℟. Et os meum exaltabit nomen tuum.\nConfitebor tibi in saeculum, et exspectabo Nomen tuum, quoniam bonum est in conspectu sanctorum tuorum.\nGloriabuntur in te omnes qui diligunt Nomen tuum, quoniam tu benedices justo.\nQuoniam tu, Deus meus, exaudisti orationem meam; dedisti haereditatem timentibus Nomen tuum;\nUt annuntient in Sion Nomen Domini, et laudem ejus in Jerusalem.\nEt laudent Nomen ejus in choro; in tympano et psalterio psallant ei.\nVoluntarie sacrificabo tibi, et confitebor Nomini tuo, quoniam bonum est.\nSic psalmum dicam Nomini tuo in saeculum saeculi, ut reddam vota mea de die in diem.\nConfitebor tibi, Domine Deus meus, in toto corde meo; et glorificabo Nomen tuum in aeternum.\nSpiritus tuus bonus deducet me in terram rectam; propter Nomen tuum, Domine, vivificabis me in aequitate tua.\nEduce de custodia animam meam ad confitendum Nomini tuo: me exspectant justi donec retribuas mihi.\nGloria Patri.",
+                "en-US": "Our Father.\n℣. Lord, Thou wilt open my lips.\n℟. And my mouth shall extol Thy Name.\nI will praise Thee for ever, O Lord; and I will wait on Thy Name for it is good in the sight of Thy Saints.\nAll those who love Thy Name shall glory in Thee: for Thou wilt bless the just.\nBecause Thou hast heard the voice of my prayer, O Lord my God: Thou hast given a heritage to those who fear Thy Name.\nThat they may declare the Name of the Lord in Sion: and publish his praise in Jerusalem.\nLet them praise his Name in holy songs; Let them sing to him with instruments of music.\nThen I will freely sacrifice to Thee, and I will give praise to Thy Name: for it is good.\nI will sing a psalm to Thy Name for ever and ever: that I may pay my vows from day to day.\nI will praise Thee, O Lord my God, with my whole heart, and I will glorify Thy Name for ever.\nThy Good Spirit shall lead me into the right Land: for the sake of Thy Name, O Lord, Thou wilt quicken me in Thy justice.\nBring my soul out of prison, that I may praise Thy Name: the just wait for me until Thou reward me.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon",
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Non nobis, Domine, non nobis; sed Nomini tuo da gloriam.",
+                "en-US": "Not to us, O Lord, not to us, but to Thy Name give glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum",
+                "en-US": "Chapter"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce Agnus stabat super montem Sion, et cum eo centum quadraginta quatuor millia habentes Nomen ejus, et Nomen Patris ejus scriptum in frontibus suis.\n℟. Deo gratias.\n℣. Gloriabuntur in te omnes qui diligunt Nomen tuum.\n℟. Quoniam tu benedices justo.\nRepleatur os nostrum laude, omnipotens Deus, ut semper benedicentes te, dum peregrinamur exules, canticum aeternum cantare mereamur in coelis, habentes scriptum in frontibus nostris Nomen sanctum tuum et Nomen Filii tui. Qui tecum vivit et regnat in unitate Spiritus sancti Deus, per omnia saecula saeculorum.\nAmen.\n℣. Sit Nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum.\n℣. Erue nos in mirabilibus tuis.\n℟. Et da gloriam Nomini tuo, Domine.\nDei Patris omnipotentis Verbum, te, Domine Jesu Christe, deprecamur ut nos in Fide Nominis tui roborees per spem perseverantiam, et caritatis excellentiam. Qui vivis et regnas cum Deo Patre in unitate Spiritus sancti Deus, per omnia saecula saeculorum.\nAmen.",
+                "en-US": "Then I saw the Lamb standing upon mount Sion, and with him one hundred and forty-four thousand persons who had his Name, and the Name of his Father, written on their foreheads.\n℟. Thanks be to God.\n℣. Let all who love Thy Name, glorify themselves in Thee.\n℟. Because Thou wilt bless the just.\nGrant, O almighty God, that our mouths may not cease to celebrate Thy glory, and that having blessed Thee during our exile here on earth, we may deserve to praise Thee eternally in heaven, bearing written on our foreheads Thy holy Name, and the Name of Thy Son Jesus Christ; who liveth and reigneth with Thee, in the unity of the Holy Ghost for ever and ever.\nAmen.\n℣. May the Name of the Lord be blessed.\n℟. Now and for evermore.\n℣. Deliver us by Thy miraculous power.\n℟. And give glory to Thy Name, O Lord.\nO Word of the omnipotent God, our Lord Jesus Christ, we beg of Thee to fortify us in the faith of Thy Name by the hope of perseverance and by the excellence of charity, Thou who livest and reignest with God the Father in the unity of the Holy Ghost for ever and ever.\nAmen."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

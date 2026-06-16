@@ -1,0 +1,1022 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Invitatorium"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudemus Deum nostrum in commemoratione Sancti Thomae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ps. 94."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Venite, exultemus Domino,\njubilemus Deo salutari nostro,\npraeoccupemus faciem eius in confessione,\net in psalmis jubilemus ei.\nLaudemus etc.\nGloria Patri et Filio et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "(In commemoratione S. Thomae.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exultet mentis jubilo\nLaudans turba fidelium,\nErrorum pulso nubilo\nPer novi solis radium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Thomas in mundi vespere\nFundit thesauros gratiae,\nDonis plenus ex aethere\nMorum, et sapientiae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri sit ac Genito,\nSimulque Sancto Flamini,\nQui Sancti Thomae merito\nNos coeli jungat agmini.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 1"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus vir, qui non abiit in consilio impiorum,\net in via peccatorum non stetit,\net in conventu derisorum non sedit,\nsed in lege Domini voluntas eius,\net in lege eius meditatur die ac nocte.\nEt erit tamquam lignum plantatum secus decursus aquarum,\nquod fructum suum dabit in tempore suo;\net folium eius non defluet,\net omnia, quaecumque faciet, prosperabuntur.\nNon sic impii, non sic,\nsed tamquam pulvis, quem proicit ventus.\nIdeo non consurgent impii in iudicio,\nneque peccatores in concilio iustorum.\nQuoniam novit Dominus viam iustorum,\net iter impiorum peribit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Florem pudicitiae servans illibatum, attigit eximiae vitae caelibatum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Amavit eum Dominus et ornavit eum.\n℟. Stolam gloriae induit eum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Et ne nos etc.\nIube, Domine, benedicere.\nOret piis precibus pro nobis Doctor Angelicus.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio I"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus Doctor Thomas fuit typus et exemplar omnis virtutis. Omnia corporis membra erant in eo manifesta virtutum exempla: in oculis eius apparebat simplicitas, in facie benignitas, in auribus humilitas, in incessu gravitas, in gestu honestas, in visceribus pietas, in intellectu claritas, in affectu bonitas, in mente sanctitas, in corde caritas. Ad istud ergo perfectissimum omnis virtutis exemplar mentes nostras frequenter convertamus, quod non solum doctrinae lucem, sed etiam amorem sanctitatis in nos transfundat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu autem, Domine, miserere nostri.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. De excelsis fons sapientiae sancto Thomae infudit copiam, tamquam flumen clarae scientiae, qui susceptam refudit gratiam, dum fluentis summae peritiae. Rigat totam sanctam Ecclesiam.\n℣. Stylus brevis, grata facundia; celsa, clara, firma sententia. Rigat, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Iube, Domine, benedicere.\nIn omni periculo et angustia sit nobis pius Thomas custodia.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio II"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Perfecto vacans studio, intendebat Deo. Praemittebat divina ut roboraretur in schola: cum, singulis diebus, antequam lecturus ascenderet cathedram, vel distraheretur ad alia, missam unam celebraret, aliam audiret: in quibus, et alias in oratione, cum in illa foret assiduus, lacrimarum effusione mentis suae dulcedinem devotionemque Deo, cui nihil est absconditum, revelabat. Ita scholasticas, et non semel aridas, concertationes temperabat contemplationis dulcedine; ita nectebat studium et orationem, quae falso credunt nonnulli maxime dissidere, et minime valere coniungi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu autem, etc.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. O anima sanctissima, qua contemplante dulciter, corpus liquebat infirma, stans sursum mirabiliter.\n℣. Nullo prorsus fultus subsidio, levabatur in raptus gaudio. Stans, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Iube, Domine, benedicere.\nAd societatem civium supernorum perducat nos Doctor Angelicus.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio III"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nullus enarrare sufficeret, quot sanctissimus Thomas theologorum praeconiis celebretur, quantumque eius illibatae doctrinae a summis Pontificibus fuerit acclamatum. Leo autem decimus tertius, libentissime excipiens postulationes et vota omnium pene Sacrorum Antistitum Orbis catholici, ad tot praecipue philosophorum systematum a veritate aberrantium luem propulsandam, ad incrementa scientiarum, et communem generis humani utilitatem, eum, ex Sacrorum Rituum Congregationis consulto, per Apostolicas litteras, caelestem Patronum Scholarum omnium catholicarum declaravit et instituit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu autem, etc.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Sertum gestans cum torque duplici, cappa gemmis ornata cernitur, ex monili fulgoris caelici lux emissa mundo diffunditur. Augustinus fratri sic loquitur:\n℣. Thomas mihi par est in gloria: virginali praestans munditia. Augustinus, etc. Gloria Patri etc.\nAugustinus, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum SS. Ambrosii et Augustini"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te Deum laudamus, te Dominum confitemur.\nTe aeternum Patrem, omnis terra veneratur.\nTibi omnes Angeli, tibi coeli, et universae potestates.\nTibi Cherubim et Seraphim, incessabili voce proclamant:\nSanctus, Sanctus, Sanctus, Dominus Deus Sabaoth."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Thoma.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Si sine Laudibus dicatur, addatur sequens:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas, et sancta operatione foecundas: da nobis, quaesumus, et quae docuit, intellectu conspicere, et quae egit, imitatione complere. Per Christum, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 116"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum, omnes gentes;\ncollaudate eum, omnes populi.\nQuoniam confirmata est super nos misericordia eius,\net veritas Domini manet in aeternum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Collaudetur Christus Rex gloriae, qui per Thomam lumen Ecclesiae, mundum replet doctrina gratiae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum. Eccli. 45"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Elegit eum Dominus ex omni carne, et dedit illi coram praecepta et legem vitae et disciplinae, docere Iacob testamentum suum et iudicia sua Israel.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "De cuius fonte luminis\nVerbi coruscant faculae,\nScripturae sacrae numinis,\nEt veritatis regulae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fulgens doctrinae radiis\nClarus vitae munditia,\nSplendens miris prodigiis,\nDat toti mundo gaudia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sapientia requiescit in corde suo.\n℟. Et prudentia in sermone oris illius."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Zachariae"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus Dominus Deus Israel; quia visitavit et fecit redemptionem plebi suae,\net erexit cornu salutis nobis, in domo David pueri sui,\nsicut locutus est per os sanctorum, qui a saeculo sunt, prophetarum eius,\nsalutem ex inimicis nostris, et de manu omnium, qui oderunt nos;\nad faciendam misericordiam cum patribus nostris, et memorari testamenti sui sancti,\niusiurandum, quod iuravit ad Abraham patrem nostrum, daturum se nobis,\nut sine timore, de manu inimicorum liberati, serviamus illi\nin sanctitate et iustitia coram ipso omnibus diebus nostris.\nEt tu, puer, propheta Altissimi vocaberis: praeibis enim ante faciem Domini parare vias eius,\nad dandam scientiam salutis plebi eius in remissionem peccatorum eorum,\nper viscera misericordiae Dei nostri, in quibus visitabit nos oriens ex alto,\nilluminare his, qui in tenebris et in umbra mortis sedent,\nad dirigendos pedes nostros in viam pacis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vigor carnis flore munditiae, vigor vitae fructu iustitiae,\nsplendor verbi dono scientiae, te decorant stantem in acie,\nte coronant in statu gloriae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas, et sancta operatione foecundas:\nda nobis, quaesumus, et quae docuit, intellectu conspicere, et quae egit, imitatione complere. Per Christum Dominum nostrum.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Thomas insignis genere,\nClaram ducens originem,\nSubit aetatis tenerae\nPraedicatorum Ordinem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri, etc., ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 53"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in nomine tuo salvum me fac,\net in virtute tua iudica me.\nDeus, exaudi orationem meam,\nauribus percipe verba oris mei.\nQuoniam alieni insurrexerunt adversum me,\net fortes quaesierunt animam meam,\net non proposuerunt Deum ante conspectum suum.\nEcce enim Deus adiuvat me:\net Dominus susceptor est animae meae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Doctor Thomas, repletus gratia, praemonstratus sacris oraculis,\nmundi, carnis, hostisque vitia fugat, exemplar datum saeculis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulium. Iac. I"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus vir, qui suffert tentationem, quoniam, cum probatus fuerit, accipiet coronam vitae, quam repromisit Deus diligentibus se.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Iesu Christe, Fili Dei vivi,\nPrece Doctoris caelici. Iesu, etc.\n℣. Tibi praesta nos gratos effici.\nPrece, etc. Gloria Patri, etc. Iesu, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Exurge Domine, adiuva nos.\n℟. Et libera nos propter nomen tuum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas, et sancta operatione foecundas:\nda nobis, quaesumus, et quae docuit, intellectu conspicere, et quae egit, imitatione complere. Per Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Typum gessit luciferi\nSplendens in coetu nubium,\nPlusquam doctores caeteri\nPurgans dogma Gentilium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 14"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine, quis habitabit in tabernaculo tuo?\naut quis requiescet in monte sancto tuo?\nQui ingreditur sine macula,\net operatur iustitiam.\nQui loquitur veritatem in corde suo,\nqui non egit dolum in lingua sua."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mentis innocentia, flosque puritatis extiterunt praevia luci veritatis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Elegit eum Dominus ex omni carne, et dedit illi coram praecepta et legem vitae et disciplinae, docere Iacob testamentum suum et iudicia sua Israel.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Sancte Thoma, audi rogantes servulos. Sancte, etc.\n℣. Et impetratam nobis caelitus tu defer indulgentiam. Audi, etc.\nGloria Patri, etc. Sancte Thoma, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Pie scholarum Patrone, tuorum memor operum.\n℟. Sta coram summo iudice pro tuo coetu pauperum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas, et sancta operatione foecundas:\nda nobis, quaesumus, et quae docuit, intellectu conspicere, et quae egit, imitatione complere. Per Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Profunda scrutans fluminum\nIn lucem pandit abdita,\nDum supra sensus hominum\nObscura facit cognita."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri, etc., ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 130"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine, non est exaltatum cor meum\nneque elati sunt oculi mei,\nneque ambulavi in magnis,\nneque in mirabilibus super me.\nSi non humiliter sentiebam,\nsed exaltavi animam meam\nsicut ablactatus est super matre sua,\nita retributio in anima mea."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O munus Dei gratiae, vincens quodvis miraculum!\nPestiferae superbiae nunquam persensit stimulum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum. Eccli. 39"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ipse tanquam imbres mittet eloquia sapientiae suae,\net palam faciet disciplinam doctrinae eius,\ncollaudabunt multi sapientiam eius,\net usque in saeculo non delebitur.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Pie scholarum Patrone, tuorum memor operum. Pie, etc.\n℣. Sta coram summo iudice pro tuo coetu pauperum. Tuorum, etc.\nGloria Patri, etc. Pie, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Magne Pater, sancte Thoma, mortis hora nos tecum suscipe.\n℟. Et hic semper nos pie respice."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas,\net sancta operatione foecundas:\nda nobis, quaesumus, et quae docuit, intellectu conspicere,\net quae egit, imitatione complere.\nPer Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fit Paradisi fluvius\nQuadripartite pervius;\nFit Gedeonis gladius,\nTuba, lagena, radius."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri, etc., ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 126"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nisi Dominus aedificaverit domum,\nin vanum laboraverunt qui aedificant eam.\nNisi Dominus custodierit civitatem,\nfrustra vigilat qui custodit eam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Felix Doctor, cuius solatio Angelorum servit attentio:\nPetrus, Paulus favent obsequio, Dei Mater mulcet adloquio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum. Sap. 7"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laetatus sum, quoniam antecedebat me ista sapientia,\nquam sine fictione didici, et sine invidia communico,\net honestatem illius non abscondo.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Magne Pater, sancte Thoma, mortis hora nos tecum suscipe. Magne, etc.\n℣. Et hic semper nos pie respice. Mortis, etc.\nGloria Patri, etc. Magne, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Sancte Thoma, lumen Ecclesiae.\n℟. Intercede pro nobis ad Dominum Deum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas, et sancta operatione foecundas: da nobis, quaesumus, et quae docuit, intellectu conspicere, et quae egit, imitatione complere.\nPer Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 111"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus vir, qui timet Dominum,\nin mandatis eius volet nimis.\nPotens in terra erit semen eius,\ngeneratio rectorum benedicetur.\nGloria et divitiae in domo eius,\net iustitia eius manet in saeculum saeculi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui timet Dominum, in mandatis eius cupit nimis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Elegit eum, etc., ut supra ad Laudes."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Lauda, mater Ecclesia,\nThomae felicem exitum,\nQui pervenit ad gaudia,\nPer Verbi vitae meritum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fossa Nova tunc suscipit\nThecam thesauri gratiae,\nCum Christus Thomam efficit\nHaeredem regni gloriae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Thoma.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Beatae Virginis"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magnificat anima mea Dominum,\net exsultavit spiritus meus in Deo salutari meo,\nquia respexit humilitatem ancillae suae.\nEcce enim ex hoc beatam me dicent omnes generationes,\nquia fecit mihi magna qui potens est,\net sanctum nomen eius.\nEt misericordia eius a progenie in progenies\ntimentibus eum.\nFecit potentiam in brachio suo,\ndispersit superbos mente cordis sui.\nDeposuit potentes de sede,\net exaltavit humiles.\nEsurientes implevit bonis,\net divites dimisit inanes.\nSuscepit Israel puerum suum,\nrecordatus misericordiae suae,\nsicut locutus est ad patres nostros,\nAbraham et semini eius in saecula."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Thoma, laus et gloria Praedicatorum Ordinis,\nnos transfer ad caelestia, professor sacri Nominis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas,\net sancta operatione foecundas:\nda nobis, quaesumus, et quae docuit, intellectu conspicere,\net quae egit, imitatione complere.\nPer Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, in adiutorium meum intende.\n℟. Domine, ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 133"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce nunc benedicite Dominum,\nomnes servi Domini,\nQui statis in domo Domini,\nin atriis domus Dei nostri."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Liber carnis vinculo, coelum introivit,\nubi pleno poculo gustat quod sitivit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Eccli. 15)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In medio Ecclesiae aperuit os eius;\net implevit eum Dominus spiritu sapientiae et intellectus;\nstolam gloriae induit eum.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Manens doctrinae veritas,\nEt funeris integritas,\nMira fragrans suavitas,\nAegris collata sanitas.\nMonstrat hunc dignum laudibus\nTerrae, ponto, et superis:\nNos iuvet suis precibus,\nDeo commendet meritis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Patri, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Custodi nos, beate Thoma, ut pupillam oculi.\n℟. Sub umbra alarum tuarum protege nos."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Simeonis"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nunc dimittis servum tuum, Domine,\nsecundum verbum tuum in pace:\nQuia viderunt oculi mei salutare tuum,\nQuod parasti ante faciem omnium populorum,\nLumen ad revelationem gentium,\net gloriam plebis tuae Israel."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O speculum munditiae, carnis carens spurcitiis,\ntuae colentes hodie felicitatis gaudia,\ntransfer ad regnum gloriae, post huius vitae stadia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Ecclesiam tuam beati Thomae, confessoris tui atque doctoris, mira eruditione clarificas,\net sancta operatione foecundas:\nda nobis, quaesumus, et quae docuit, intellectu conspicere,\net quae egit, imitatione complere.\nPer Christum Dominum nostrum.\nAmen."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

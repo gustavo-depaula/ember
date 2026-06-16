@@ -1,0 +1,476 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sancto Francisco de Paula nascente lux miraculosa in domo resplenduit.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Paulae nascentis claritas\nNoctis illustrat nubila,\nCanoras fert laetitias\nQui docuit silentia,\n\nAdam etiam intemperans\nNoctem tulit nepotibus,\nReduxit lucem imperans\nCarnes caret carinibus;\n\nPulsis dapum vaporibus\nNam ut serenat cerebra,\nLucidor sic spiritus\nPer carnis fit jejunia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Videsne, quid faciat jejunium?\nDemonas fugat, pravas cogitationes expellit, cor mundum efficit, et mentem reddit oratorem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Francisce de Paula,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus humilium celsitudo, qui beatum Franciscum confessorem tuum sanctorum gloria sublimasti: tribue, quaesumus, ut ejus meritis et imitatione, promissa humilibus praemia feliciter consequamur. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctus Franciscus de Paula ab ineunte aetate assiduus orator et contemplator divinorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Preces fundit et cantica\nPios incurvans poplites\nTam grata Deo musices,\nIpsi gaudent coelites;\n\nOra veretur spiritu\nSublimis inter sydera,\nClaro virtutum ambitu\nJam forte dignus coelis.\n\nNam sub carnis pondere\nRecusat corpus deprimi,\nAstra volavit scandere\nMens valet haud difficili."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui secundum carnem sunt, quae carnis sunt sapiunt; qui vero secundum spiritum sunt, quae sunt spiritus sentiunt."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctus Franciscus de Paula perpetuus mundi contemnor et carnis domator."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Primo juventae tempore\nHaerere nugis renuit,\nVirili mentis robore\nCircen repulsam conspexit;\n\nVirgo notatus candido\nLapillo castimoniae\nJam tutus est a sordido\nCupidinis tentamine,\n\nBlandis rebellis motibus\nCarnis terit potentiam,\nCastis puelli moribus\nViri jungens prudentiam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et scivi, quia aliter non possem esse continens, nisi Deus det; adii Dominum, et deprecatus sum, ut mihi de sedium suarum afferretur sapientia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctus Franciscus de Paula decimo tertio aetatis anno, ducente Spiritu Sancto, in eremum secedit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Agenti cum triennio\nBilustrum nostro juveni\nFit sylva pro palatio\nSacri doctrix silentii,\n\nEremus, quaeque spernitur\nA vanis mundi affectibus,\nHuic coelum et creditur\nSupernis plenum gaudiis:\n\nNec tangitur molestia\nRemotus a sodalibus,\nDei dat suam praesentiam\nAbstrusus latens specubus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In terra deserta et invia et inaquosa: sic in sancto apparuit tibi, ut viderem virtutem tuam et gloriam tuam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctus Franciscus de Paula annum sexagesimum nonum relicta solitudine ordinem Minimorum instituit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sylvae relictens fructices,\nSub Charitatis exercitu\nAd bella Christi milites\nManu producit strenua,\n\nQuem manuevit Charitas,\nPraedignus hic et signifer,\nQuo conteratur vanitas,\nQuam fallax sufflat Lucifer.\n\nAmor tumorem dejicit,\nSuperbiam humilitas,\nTurgentes vidit ductiles\nCalore Phoebus nebulas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Charitas non exultatur, non inflatur, non est ambitiosa: sectamini charitatem, aemulamini spiritualia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctus Franciscus de Paula incomparabile miraculum caritatis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ignas domat, et aequora,\nTerras, flatusque aetheris,\nDat lingua mutis organa,\nEt caecis usum luminis;\n\nBinis amorum nexibus\nTum Numini, tum Proximi\nMiraclis claret pluribus\nAeterno plenus Principi;\n\nNec diligenti potuit\nUt Deus quidquam denegat,\nQuin, quo se plus abjicit,\nHoc gratia plus eminet."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quanto magnus es, humilia te in omnibus, et coram Deo invenies gratiam: quoniam magna potentia Dei, et ab humilibus honoratur."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctus Franciscus de Paula annum nonagesimum primum die Parasceves moritur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Die, qua fudit spiritum\nChristus in Crucis cathedra\nFranciscus hoc exilium\nPerennis intrat gloria,\n\nCrucem dum tenens, coelici\nAmoris ictus spiculis,\nPendens Jesu vertici\nJungi meretur oculis,\n\nAssuetus Christo vivere,\nDux vitae postquam mortuus,\nCum hoc et vitam cedere\nEadem die cupidus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Si enim mortui sumus cum Christo, credimus, quia simul etiam vivemus cum Christo; scientes, quod Christus resurgens ex mortuis jam non moritur."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancti Francisci de Paula corpus incorruptum unicum Cruce ab haereticis combustur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hunc, in quem tumba conditum\nFormidat marcor furere,\nAgmen audet haereticum\nIn cineres comburere,\n\nUt, qui tot vivus aspera\nAbs laurea martyrii\nTulit, athletae viscera\nJam concrementur mortui,\n\nQuo rosae, tectae antea\nSub castitatis frigore,\nAmoris tinctae purpura\nFlagrante furgant corpore."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui curavit gentem suam, quasi flos rosarum in diebus vernis, quasi ignis effulgens, et thus redolens in diebus aestivis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Francisce! laudes cordibus\nHas sume fusas intimis,\nNuncen orans, coelestibus\nUt nosque beet gaudiis.\n\nHumilitatem diligens\nSupernos inter satrapas\nPro Christo dura patiens\nJam sedes capis coelicas:\n\nComburus qui post funera\nLevem versus in pulverem,\nNon sentiens incendia\nEvehis in martyrem."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Omnia ossa mea dicent: Domine quis similis tibi? eripiens inopem de manu fortiorum, et pauperem a diripientibus eum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis sancte Francisce de Paula,\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nO sancte Francisce de Paula! mitissimi Jesu humilime imitator, in quo manifeste apparet, humilia Deum respicere, et esse mirabilem in sanctis suis, quique quem paternis intercessionibus beati Francisci Stephani consequum in filium, divina vero providentia in tenera adhuc aetate eduxit, ut humilitationis ac coarctationis solitudinem sponte ingressus, inter asperrimas corporis, animique mortificationes, sexenio ibidem delapseceres, donec adduce divino spiritu progressus faciam, plenamque humilitate Fratrum Minimorum originem fundas; etiam omnibus qua pluries, in summo ignis injectus, sicut nec pedem transgrediens mare, nec amnem innatans, incolumis evasisti, nec innumera illustratus prodigiis; quaesumus, benigne Pater, gloriosae coelorum laetitia! efficaciter apud Deum, ut et nos devoti clientes tui, ab infimo humilitatis gradu ad summum divini amoris culmen pertingere, unaque tecum atque omnibus sanctis, aeternis recreari gaudiis mereamur. Per Christum Dominum nostrum.\nAmen."
+      }
+    }
+  ]
+}

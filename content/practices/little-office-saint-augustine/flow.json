@@ -1,0 +1,405 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Invocatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Salve Pater Sanctissime\nSedes scientiarum,\nSectariorum malleus,\nLucerna scripturarum;\nEpiscoporum Gloria,\nDoctorque veritatis,\nTu supplicantes adjuva,\nExemplar pietatis,\nLaudare ut pro viribus\nQuem pie hic conamur,\nPatrono in coelestibus\nTe semper perfruamur!"
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu accendat praecordia nostra.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aurora veris tenera\nPrimo aetatis flore,\nUt et juventus valida,\nEbulliens calore,\n\nNon sat pudica fluxerat\nAddicta vanitati,\nSaclicque tunc scateurat\nErrore depravati;\nNam Manichaea haeresi\nMens erat illinita,\nUt gemma, quae sub sordidi\nEst luto coeni sita."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Invenit Augustinus se longe esse a Deo in Regione dissimilitudinis, et respexit eum Dominus, et misit in mentem ejus, et lucebat in eo gratia Dei: et invisibilia Dei per ea, quae facta sunt, intellectu conspexit, et non tardavit converti ad Dominum.\n℣. Elegit eum Dominus sacerdotem sibi,\n℟. Ad sacrificandum ei hostiam laudis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nAdesto supplicationibus nostris Omnipotens Deus, et quibus fiduciam sperandae pietatis indulges, intercedente beato Augustino confessae misericordiae tribue benignus effectum. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu accendat praecordia nostra.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sacro pregnans negotio\nSe sensit admoneri,\nFluctuque mentem vario\nDivinitus moveri;\nHinc ut vocanti cederet,\nCedit, dum provocatur,\nAc verius ut crederet,\nJam sectas detestatur.\n\nEt quidem hunc Ambrosius\nDecebat, ut doceret;\nAmbrosia quo dulcius\nSe melli commisceret."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vulneraverat charitas Christi cor ejus, et gestabat verba ejus in visceribus, quasi sagittas acutas. Tempore accepto exaudivit eum Dominus, et in die salutis adjuvit eum.\n℣. Tu es Sacerdos in aeternum,\n℟. Secundum ordinem Melchisedech."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus virtutum, cujus est totum, quod est optimum; infere per intercessionem S. Augustini pectoribus nostris amorem tuum, et praesta in nobis Religionis augmentum; ut quae sunt bona nutrias, ac pietatis studio, quae sunt nutrita, custodias. Per Dominum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu accendat praecordia nostra.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aquis perfusus lustricis\nMentem sortitur mundam,\nPatrinis gaudet Superis,\nCandore vincens undam,\n\nEt purus jam a sordibus\nCoelique Candidatus,\nPeccata tingit fletibus,\nEt abluit reatus;\n\nSic saepe poenitentia\nPlus habet sanctitatis,\nQuam signis innocentia\nIn pace puritatis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Conversus est ad Deum ex toto corde suo, in jejunio, in fletu et planctu. Et misertus est ejus ex alto Dominus, quoniam multus est ad ignoscendum.\n℣. Justum deduxit Dominus per vias rectas,\n℟. Et ostendit illi Regnum Dei."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nExaudi quaesumus Domine preces nostras, quas in Beati Augustini conversione deferimus, et qui tibi digne meruit famulari, ejus suffragantibus meritis, ab omnibus nos absolve peccatis. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu accendat praecordia nostra.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Divini totus conflagrant\nUt ignibus amoris,\nSupemis sic exuberat\nEt imbribus favoris,\n\nQuid eligat? hinc Vulnera\nCruore purpurata?\nNum casta Matris Ubera\nLacte inebriata?\n\nQuid praestat? eligere\nAmbiguo vix datur,\nDum hic laetatur ubere,\nHic sanguine potatur."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui vicerit, faciet illum Dominus columnam in templo suo, et scribet super eum nomen suum, et nomen Civitatis novae Jerusalem. Erit fidelis usque ad mortem, et dabit illi coronam vitae, quam promisit diligentibus se."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu accendat praecordia nostra.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Praesul mirato vertice\nSupremae Sanctitatis,\nDevinxit sectas strenue,\nHostesque veritatis,\n\nPelagiana somnia\nConvellit et revellit,\nFalsa perstringit dogmata,\nEt haereses repellit,\n\nDoctoris jure laurea\nEt mista sic ornatus,\nEcclesiae fert munia\nQuaternus Doctoratus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In medio Ecclesiae aperuit os ejus, et implevit eum Dominus Spiritu sapientiae et intellectus, jucunditatem et exultationem thesaurizavit super eum.\n℣. Lex Dei in corde ipsius.\n℟. Et non supplantabuntur gressus ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui per B. Augustinum Confessorem tuum atque Pontificem Ecclesiam tuam nova prole fecundasti, praesta quaesumus, ut ejus intercessione, quod ore simul et opere docuit, te adjuvante exercere valeamus. Per Dominum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu accendat praecordia nostra.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aetate tandem plurima,\nSed non labore lassus,\nFebri crematur ignea,\nPlus ab amore passus,\n\nSed nempe Phoeninx gratiae,\nPhoenix scientiarum,\nDierum finem clauderet\nSic decus istuarum;\n\nAmore totus conflagrans\nPetit aeternitatem,\nLucent calori socians,\nDoctrinae sanctitatem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Doctor optime, Ecclesiae sanctae lumen B. Augustine, divine legis amator, deprecare pro nobis Filium Dei.\n℣. Euge serve bone et fidelis.\n℟. Intra in gaudium Domini tui."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui per os servi tui Augustini dixisti: non potest male mori, qui bene vixit, ipsius intercessione praesta supplicibus tuis perseverantiae sanctae virtutem, ut mors temporalis sit nobis beatae immortalitatis principium. Per Dominum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu accendat praecordia nostra.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Phoenix ad astra transit,\nNon morte, sed sopore,\nQuin imo, adhuc suppetit\nNatorum in honore!\n\nFundator ingens inclyta\nSequela alumnorum,\nProbatam per miracula\nSacrorum normam morum\n\nPer Orbis spargit ambitum,\nTrans aequor et promulgat,\nUltraque solem cognitum\nPer socios divulgat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Praesul sanctissime Augustine, Canon vitae Canonicae, via morum, Doctor egregie, Lux Doctorum, roga Christum pro nobis, ut nostris adsit mentibus, et in aeterna requie suis jungat agminibus.\n℣. Beati servi ejus, qui stant coram eo.\n℟. Et audiunt sapientiam ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui nos per Evangelium Filii tui, et exhortationem B. Augustini ad salutiferae Crucis militiam congregasti: praesta quaesumus, ut ejusdem gloriosi Ducis muniti praesidiis, quod exemplo docuit, te adjuvante opere compleamus. Per Dominum etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Vale Praesul sanctissime,\nDoctore vale Dive!\nPheonix amoris cinere\nProcedens redivive!\n\nDivini fac et ignibus\nAmoros concremari,\nEt Christo nos cineribus\nEx his regenerari,\n\nCum quo, tecumque guadiis\nAeternis recreemur:\nTuis donante meritis,\nQuod nostris non meremur.\n\nAmen."
+      }
+    }
+  ]
+}

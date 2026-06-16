@@ -379,9 +379,11 @@ export function resolveSection(
             label: ec.localize(section.label),
             overrideKey: overrideKey ?? '',
             selectedId: selectedId ?? '',
+            pickerStyle: section.pickerStyle,
             options: section.options.map((opt) => ({
               id: opt.id,
               label: ec.localize(opt.label),
+              excerpt: opt.excerpt ? ec.localize(opt.excerpt) : undefined,
               sections: (opt.sections ?? []).flatMap((s) =>
                 resolveSection(s, contextFor(opt.id), ec),
               ),

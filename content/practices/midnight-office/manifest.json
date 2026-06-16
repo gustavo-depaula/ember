@@ -1,0 +1,36 @@
+{
+  "id": "midnight-office",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Midnight Office According to the Mozarabic Rite"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of Midnight Office According to the Mozarabic Rite."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 184,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Ordo Ad Médium Noctis."
+  }
+}

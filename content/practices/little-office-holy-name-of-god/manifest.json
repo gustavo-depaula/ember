@@ -1,0 +1,37 @@
+{
+  "id": "little-office-holy-name-of-god",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Little Office of the Holy Name of God"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Holy Name of God, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 102,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From The Manual of the Archconfraternity of the Holy Face (1887).\n\nThe Little Office of the Most Holy Name of God is largely attributed to the pen of Mr Dupont. It was originally discovered in a pamphlet entitled Association of Prayers Against Blasphemy, which went through several editions, the last known being published in 1867. Since then, it appears not to have been reissued. Given its devotional and historical significance, it seems fitting to preserve this portion. We therefore present it here as a supplement to our manual of the archconfraternity, from which it may easily be detached and issued as a separate tract.\nThis Office serves as an act of reparation and homage to the Most Holy and Adorable Name of God—a Name so often misunderstood and profaned in our times. It is known that many devout souls in the world have already adopted the practice of reciting this Little Office daily. Such a praiseworthy example deserves the highest commendation, and it is our earnest hope that many others will follow, so that a sacred chorus of praise may rise to counter the dreadful clamour which, in our day, is so grievously directed against God and His most awe-inspiring Name."
+  }
+}

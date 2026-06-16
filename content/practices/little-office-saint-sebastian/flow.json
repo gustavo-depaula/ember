@@ -1,0 +1,422 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Sebastiane Gemma!\nQuem et virtus, quem et stemma\nLuce ornant pariili,\nTe Caesarei favores,\nTe commendat formae flores,\nTe acumen animi,\nSed quod magis te honorat,\nEst, Cor tuum quod decorat\nAmor Christi flammeus:\nIs, ut corde hunc celiabis,\nQuo afflictos plus curabis,\nTandem fiet publicus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cibavit illum pane vitae et intellectus, et aqua sapientiae salutaris potavit illum Dominus.\n℣. Gloria et honore coronasti eum Domine.\n℟. Et constituisti eum super opera manuum tuarum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nBeati Sebastiani Martyris tui, quaesumus, Domine, intercessione nos adjuva, et ab omni peste mala tuam animam et corpus tuos praeserva, quo meritis ejus et precibus, tuam in praesentia gratiam et in futuro gloriam consequamur aeternam. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit etc.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecquid, inquis, ut confortem,\nJuvat, alios ad mortem\nDucam et ad lauream?\nNi et ipse hanc coronam\nTandem capiti imponam\nMeo Martyr auream;\nMarcus et Marcellianus\nHinc dum vincla tenent manus,\nPlorat dum familia,\nAdes Heros et mutantes,\nInter milites adstantes\nSuada firmas aenea."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Confortabo domum Juda, et domum Joseph, et convertam eos, et erunt quasi fortes Ephraim."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Haec dum agis, a splendore\nHeres spatium per horae\nTotus circumjiceris,\nSeptem Angelis stipatus,\nVeste nivea donatus,\nQuod sis, et praediceris,\nOmni aevo perstaturus,\nCumque Christo permansurus;\nQuae dum spectant, audiunt,\nEt Nicostratus miratur,\nJamque uxor muta fatur,\nAmbo Christum induunt!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Posuit in eis verba signorum suorum: et prodigiorum in terra Cham."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille quadringenti sacro\nPost mundati sunt Lavacro\nViri atque feminae:\nSed res ista haud celata,\nQuin ad aulam fuit delata,\nPotuit perstistere;\n\nHinc dum Caesar haec rescisit,\nEt quis Ductor sit, audivit,\nIra tumens rabida,\nHuc Sebastianum dari\nVinctum jubet, et raptari\nAnte tribunalai,"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Loquebar de testimoniis tuis in conspectu Regum, et non confundebar."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jamque ades macte heros!\nVultus Caesaris severos\nSustinens intrepide,\nSed et spernis blandimenta,\nQuae minantur, et tormenta\nDivo plenus Numine;\nChristum vocas, Christum doces;\nNihil curans, dum feroces\nMilites jam praeparant,\nJussu Caesaris damnatum\nUt ad palum religatum\nJaculis confodiant."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Posuit me quasi signum ad sagittam: misit in renibus meis filias pharetrae suae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nec infixit tibi tanta\nMiles atrox, Christo quanta\nTu fixisti spicula:\nSpicula, sed quae Authore\nTibi cusa sunt amore,\nFolle, Patientiae,\nJamque confixum sagittis\nUt te mortuum immitis\nGens opinans abiiit,\nEn! Irene, dum sacratum\nNostru corpus est humatum,\nVivum adhuc reperit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exaltavit me de portis mortis, ut annunciem omnes laudes ejus in portis filiae Sion."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ab Irene vix curatus\nMox Praetorium Senatus\nMetu procul repetis,\nEt Tyrannum obviantem\nMale diis immolantem\nGenerose corripis,\nHic stupore mox et ira,\nNovitate hac ex mira\nTotus ut excanduit,\nTe ad mortem virgis tergi,\nEt cnectum tunc immergi\nVolutabro praecipit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tradiderunt me in conciliis, et in synagogis suis flagellaverunt me."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra cum seqq."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sagittae tuae infixae sunt mihi, et confirmasti super me manum tuam.\n℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed Tyranne vah! infane,\nEn! Lucina summo mane\nDio docta Morpheo\nAdest, corpus est sacratus\nEx palude jam levatum,\nDivi parens monito,\nAd sanctorum Catacumbas\nGloriosas inter tumbas\nPia manu collocat,\nDehinc in honorem ibi\nO Sebastiane tibi\nTemplum et aedificat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Corpus ipsius in pace sepultum est, et nomen ejus vivet in generationem et generationem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Preces has, quas recitavi,\nMagnae Martyr dedicavi\nTuo supplex Nomini,\nUt misello, peccatorum\nContra lues et morborum\nDes medelam homini;\nFuga pestem, mentem quaeque\nCorpus vel corrumpit aeque,\nPlagas pelle noxias.\nSolo Jesu sauciatis\nUt amore, cum beatis\nPerpes detur sanitas!"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "In die illa, qui stat in signum populorum, ipsum Gentes deprecabuntur.\n℣. Ora pro nobis B. Martyr Sebastiane.\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDeus, qui B. Sebastianum Martyrem tuum in tua fide, et dilectione tam ardenter solidasti, ut nullis carnalibus blandimentis, nullis Tyrannorum minis, nullisque carnificum plagis aut sagittis a tua cultura potuerit revocari; da nobis miseris peccatoribus, dignis ejus meritis, et intercessionibus in tribulatione auxilium, in persecutione solatium, et in omni tempore contra morbum Epidimiae praesens remedium: quatenus contra omnes diabolicas insidias viriliter dimicare discamus, mundum et ea quae in mundo sunt, despicere, nullaque ejus adversa formidare, sed a te, quae te inspirante desideramus, dona et feliciter consequi mereamur. Per Dominum nostrum Jesum Christum etc."
+      }
+    }
+  ]
+}

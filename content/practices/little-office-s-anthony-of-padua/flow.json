@@ -1,0 +1,233 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria",
+        "en-US": "Ordinary"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Matutinum",
+        "en-US": "At Matins"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
+        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Completorium",
+        "en-US": "At Compline"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.",
+        "en-US": "℣. Convert us, O God our Saviour.\n℟. And turn away Thy wrath from us."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Horas Omnes",
+        "en-US": "At all the Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:\nLaus tibi, Domine, Rex aeternae gloriae.",
+        "en-US": "During Lent until Easter, instead of the alleluia the following is said:\nPraise to Thee, O Lord, King of everlasting glory."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum mundi in deliciis\nsolet ambulare\ninventus, capita vitiis\naspera vitare,\net sensualitatibus\npravis indulgere,\nse statuit Antonius\nDeo devovere.",
+                "en-US": "While in the world's delights\nhe was wont to stray,\nhe learned to shun the snare of vice\nand rougher paths obey;\nto passions and to pleasures false\nhe ceased to yield his heart,\nand Anthony resolved to God\nhis whole to set apart."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aurelianam primitus\nregulam professus,\nin arduis virtutibus\nmiros fecit gressus:\nvitam deinde pauperum\nelegit Minorum,\nquem movit constans Martyrum\nmors Marochiorum.",
+                "en-US": "Having first professed\nthe rule of Aurelian,\nhe made wondrous progress\nin the heights of virtue:\nthen chose the life of the poor\namong the Friars Minor,\nmoved by the constant deaths\nof the Martyrs of Morocco."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Antonii sub nomine\nzelo Dei ductus,\npraeclaros sanctimoniae\nmox produxit fructus:\nDiebus dum et noctibus\nprecibus vacabat,\nEt austeris operibus\ncarnem macerabat.",
+                "en-US": "Under the name of Anthony,\nled by zeal for God,\nhe soon bore noble fruits\nof sanctity:\nby day and night\nhe gave himself to prayer,\nand with austere works\nhe mortified the flesh."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Praeconio deinde inclytus\nVerbi Dei factus,\nid successive caelitus\nest talentum nactus;\nut doceret impios\nsemitam virtutis,\net revocaret devios\nin vitam salutis.",
+                "en-US": "Renowed then as a herald\nof God's holy Word,\nhe received successively\na talent from heaven;\nto teach the wicked\nthe path of virtue,\nand to call back the straying\nto the life of salvation."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In Scripturae codicibus\nita versabatur,\npraeripere quod omnibus\npalmam videbatur:\nsacrorum inde codicum\narca est vocatus,\nrecte Doctorum omnium\ngemma nuncupatus.",
+                "en-US": "In the books of Scripture\nhe was so versed\nthat he seemed to outstrip all\nand win the palm:\ntherefore he was called\nthe ark of sacred writings,\nrightly named the gem\nof all Doctors."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Impugnator acerrimus\nfit haereticorum,\nterror et pavor maximus\nturbae paganorum:\neliminator criminum\nmorumque corrector,\nsalus periclitantium,\nclientum protector.",
+                "en-US": "A Most ardent assailant\nof heretics he became,\ngreatest terror and dread\nof the pagan crowd:\nbanisher of crimes,\ncorrector of morals,\nsalvation of those in danger,\nprotector of his clients."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Multis tandem laboribus\nfractus aegrotabat,\nsuamque circumstantibus\nmortem nuntiabat:\nistam dum Fratres populo\nvolunt occultare,\ninventa mox in oppido\ncoepit divulgare.",
+                "en-US": "Worn at last by many labors\nhe fell ill,\nand foretold to those around him\nthat his death was near:\nwhile the Brethren wished\nto hide it from the people,\nnews of it quickly spread\nthroughout the town."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio Horae",
+        "en-US": "Conclusion of the Hour"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant.",
+        "en-US": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O Proles Hispaniae, pavor infidelium, nova lux Italiae, nobile depositum urbis Paduanae: fer, Antoni, gratiae Christi patrocinium, ne prolapsis veniae tempus breve creditum defluat inane.",
+        "en-US": "O Offspring of Spain, terror of the unbelievers, new light of Italy, noble treasure of the city of Padua: grant us, Anthony, the patronage of Christ's grace, that the brief time given for pardon may not slip by in vain."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis, beate Antoni.\n℟. Ut digni efficiamur promissionibus Christi.",
+        "en-US": "℣. Pray for us, blessed Anthony.\n℟. That we may be made worthy of the promises of Christ."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nEcclesiam tuam, Deus, Beati Antonii Confessoris tui deprecatio votiva laetificet, ut spiritualibus semper muniatur auxiliis, et gaudiis perfrui mereatur aeternis. Per Dominum Iesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti, Deus per omnia saecula saeculorum.\nAmen.",
+        "en-US": "Let us pray,\nMay Thy Church, O God, be gladdened by the devout prayers of Blessed Anthony, Thy Confessor, so that it may always be protected by spiritual help and deserve to enjoy eternal joys. Through our Lord Jesus Christ, Thy Son, who lives and reigns with Thee in the unity of the Holy Spirit, God forever and ever.\nAmen."
+      }
+    }
+  ]
+}

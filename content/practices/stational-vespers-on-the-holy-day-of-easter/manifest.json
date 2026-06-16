@@ -1,0 +1,36 @@
+{
+  "id": "stational-vespers-on-the-holy-day-of-easter",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Stational Vespers on the Holy Day of Easter according to the Parisian Rite followed by Baptismal Vespers"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of Stational Vespers on the Holy Day of Easter according to the Parisian Rite followed by Baptismal Vespers."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 186,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Breviarium Parisiense (1736)\nOn Easter Sunday, the second Vespers in the Parisian liturgy preserve an ancient Roman tradition. After the first part is sung in the choir, clergy and faithful process to the baptismal font, which is incensed, before returning and pausing before the crucifix. This ceremony, dating back to the 8th–11th centuries, was originally practiced in Rome and called triple vespers: the Pope began at St. John Lateran, continued to the Lateran baptistery, and concluded at the monastery of St. Andrew of the Cross.\nDuring the rite, numerous Alleluias were sung alternately in Greek and Latin. Testimonies suggest that it was introduced in Rome in the 4th century by St. Jerome, imitating the practice in Jerusalem at the Holy Sepulchre. There, newly baptized catechumens, dressed in white robes, joined the procession during Easter week, while the bishop gave daily catecheses—examples survive from St. Cyril of Jerusalem. This is the origin of the term in Albis (Easter Octave).\nIn Paris, this memory is preserved by having the cantors wear white albs instead of copes. Although the office disappeared from Rome after the papacy’s exile to Avignon in the 14th century, many French and Rhenish dioceses continued the tradition, and it was included in diocesan liturgical books into the 19th and 20th centuries."
+  }
+}

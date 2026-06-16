@@ -1,0 +1,483 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine Jesu Christe, Rex gloriae, libera animas omnium fidelium defunctorum de poenis inferni, et de profundo lacu: libera eas de ore leonis, ne absorbeat eas tartarus, ne cadant in obscurum; sed signifer sanctus Michael repraesentet eas in lucem sanctam, quam olim Abrahae promisisti, et semini ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O vos, fideles animae\nIn Christo defunctorum,\nSed merito prohibita\nAb aditu coelorum:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quam velim vobis dexteram,\nOpemque praesentare!\nUthine ad caeli gloriam\nPossitis evolare!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Illuminare his, qui in tenebris et in umbra mortis sedent, ad dirigendos pedes eorum in viam pacis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Si iniquitates observaveris, Domine,\n℟. Domine, quis sustinebit?"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fidelium Deus omnium Conditor et Redemptor, animabus famularum famulorumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper optaverunt, piis supplicationibus consequantur. Qui vivis et regnas in saecula saeculorum.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Requiem aeternam dona eis, Domine.\n℟. Et lux perpetua luceat eis.\n℣. Requiescant in pace.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Domine Jesu Christe, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O magne Pater, nomine\nMisericordiarum,\nFacturas tuas respice,\nSed timorem remorum:\nPoenas sunt quidem merita,\nTe tamen non negabam;\nHinc locus sit clementiae:\nIgnosce, quod peccaram."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Illuminare his, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "cum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Domine Jesu Christe, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Jesu clementissime,\nO optime Salvator,\nTuo redemptis sanguine\nSis mitis liberator."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Indulge te amantibus\nTuum benignitatem,\nPoenamque deprecantibus\nOstende bonitatem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Illuminare his, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "cum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Domine Jesu Christe, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O consolator optime,\nO dulcis Paraclete,\nHos tu deserto respice,\nEt indignos quaerite"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In aestu hoc temperiem,\nVeraeque pacis bona,\nEt post laborem requiem\nAeternam his dona."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Illuminare his, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "cum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Domine Jesu Christe, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O dulcis mater gratiae,\nSolatrix afflictorum,\nVim cohibe justitiae,\nRigorem tormentorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Flammam voracem tempera,\nEt mitiga dolores,\nIncendium refrigera,\nEt fini hos angores."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Illuminare his, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "cum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Domine Jesu Christe, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vos, tutelaris genii,\nQuorum sunt hi clientes,\nQuantum vestra subsidii\nSunt ipsis indigentes!"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Plorem desideria\nEt vestro excitatae:\nOptata refrigeria\nClientibus curate."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Illuminare his, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "cum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Domine Jesu Christe, etc., ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vos omnes quoque coelites,\nIn regno triumphante,\nSolamini hos milites,\nIn flamma hac purgante."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vestri in terris socii\nCum fuerint laborum,\nNunc et beati otii\nSors vocat et bonorum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Illuminare his, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "cum Oratione, ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Oblatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O fons misericordiae,\nSummeque bonitatis,\nProsint piorum lacrymae\nHoc igne cruciatis."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Locum tuae justitiae\nAgnoscimus infernum,\nLaudes tuae clementiae\nHi cantent in aeternum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Requiem aeternam dona eis, Domine.\n℟. Et lux perpetua luceat eis.\n℣. Requiescant in pace.\n℟. Amen."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Adhortatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Quot usquam estis Numini\nEt superis devoti,\nAudite quid rogemini,\nUt sitis Dei toti:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Haec charitatis viscera\nFraternae explicate:\nVices rependet misera\nHaec turba liberata.\nAmen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "little-office-holy-tear-of-our-lord-jesus-christ",
+  "icon": "cross",
+  "name": {
+    "en-US": "Little Office of the Holy Tear of Our Lord Jesus Christ"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Holy Tear of Our Lord Jesus Christ, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 110,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Histoire de la Sainte Larme (1708)."
+  }
+}

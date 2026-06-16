@@ -1,0 +1,417 @@
+{
+  "sections": [
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Invitatory"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Invit."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Noli timere, fili mi:\npauperem quidem vitam gerimus;\nsed bene nobis erit, si timuerimus Deum,\net recesserimus ab omni malo,\net fecerimus bene."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Alexi, gentis unica,\nIn ortu spes Quirina,\nEuphemiani gloria,\nEt urbium Reginae.\nSalve o miles nobilis,\nQui novo bellas astu\nFugiendo sponsam, redderis\nVictor de mundi fastu."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In te Domine speravi:\nnon confundar in aeternum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Mihi autem adhaerere Deo bonum est.\n℟. Et ponere in Jesu meo spem meam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum Sanctum Alexium\nmirabili modo docuisti mundum spernere,\nut relicta primum sponsa peregrinus,\npaternas etiam inter aedes ignotus omnibus\nseptendecim annos abjectus remaneret;\npraesta quaesumus:\nut, dum mirificam ejus constantiam veneramur in terris,\nejus etiam intercessione semper in te uno,\nmi Jesu, gaudeamus in caelis.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tum apparatur nuptiae,\nPlus caeli crescit amor\nHinc rapitur, et prope\nSolum consedit aequor.\nEgestas sponsa sumitur;\nComes amor latendi:\nBeata mens, quae tangitur\nHoc studio vivendi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dilectus meus mihi et ego illi,\nqui fascitur inter lilia,\ndonec aspiret dies, et inclinentur umbrae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Oculi Domini super fideles terrae.\n℟. Et super timentes eum gratia ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulos tuos, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Elapsus fuga, tegitur\nMendiculi lacerna\nNec amplius distinguitur\nper famulos a Verna.\nO alta mens Alexii!\nQuae siscitate quaesieris\npro Christo velle despici,\nQuam rara res in terris!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cum essem pauper, servum feci; mihi servivit Christus,\net mihi lumen creavit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Oculi Domini super fideles terrae.\n℟. Et super timentes eum gratia ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulos tuos, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Edesse tenet litora;\nPauper, mendicus, nudus:\nCujus non tangat viscera\nTam novus iste luctus?\nO nova res! ut senore\nVirtus pateat miro,\nDitissimus cum paupere\nMiseri gaudet in Iro."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ego interim videbo vos:\net gaudebit cor vestrum,\nnemo tollet a vobis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Justus quasi palma florebit:\n℟. Sicut cedrus Libani multiplicabitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed postquam omni patuit\nTam clara virtus luci,\nCiliciam constituit\nTentare, Ponto duci,\nJam fugerat: cum vertitur\nAdversa vi ventorum,\nPortu Quirino sistitur\nHaec cymba tot annorum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mihi autem absit gloriari, nisi in cruce Domini nostri Jesu Christi,\nper quem mihi mundus crucifixus est, et ego mundo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Laetatus sum in his, quae dicta sunt mihi:\n℟. In domum Domini ibimus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ingressus urbem, queruli\nIgnotos Domo Patris\nAdmittitur, sed pauperi\nCubile sit sub scalis.\nGementem Sponsam adspicit,\nTristésque Matris vultus:\nDolorem tamen supprimit:\nDeo patent singulatus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Euntes ibant, et flebant, mittentes semina sua:\nvenientes autem venient cum exsultatione, portantes manipulos suos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Pater meus, et mater mea dereliquerunt me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus Salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Septemdecim jam viderat\nHac egestate soles;\nQueis natum se celaverat\nToties quaesita proles.\nErgo, ut notescat Patria\nCalamo consignant vitam\nRecondit illam pectore,\nFideli loco fixam.\nHoc acto, Coelo spiritum\nCorpusque reddit terris!\nO verum Jesu Filium\nQui patriam sic quaesitis!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quam magna multitudo dulcedinis tuae, Domine;\nquam abscondisti timentibus te."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Quam bonus Deus Israel his.\n℟. Qui recto sunt corde."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Alexii, o spes unica\nSincere te amantis:\nDa sequi nos vestigia\nAeternum jam ovantis:\nHas demum preces suscipe,\nVota tui Clientis;\nMalisque cunctis eripe\nPericulisque mentis.\nDa vana cuncta spernere;\nNe sit nobis gaudere,\nJesu te diligere\nNec aliud aevum.\nAmen."
+      }
+    }
+  ]
+}

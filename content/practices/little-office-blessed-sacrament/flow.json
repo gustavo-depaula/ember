@@ -1,0 +1,233 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ordinaria",
+        "en-US": "Ordinary"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Panem Angelorum manducavit homo, et paratur ei mensa Domini.",
+        "en-US": "℣. Man hath eaten the bread of Angels, and the table of our Lord is prepared for him."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Matutinum",
+        "en-US": "At Matins only"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
+        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Completorium",
+        "en-US": "At Compline only"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.",
+        "en-US": "℣. Convert us, O God our Saviour.\n℟. And turn away Thy wrath from us."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ad Horas Omnes",
+        "en-US": "At all the Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:\nLaus tibi, Domine, Rex aeternae gloriae.",
+        "en-US": "During Lent until Easter, instead of the alleluia the following is said:\nPraise to Thee, O Lord, King of everlasting glory."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pange, lingua, gloriosi\nCorporis mysterium,\nSanguinisque pretiosi,\nquem in mundi pretium\nfructus ventris generosi\nRex effudit Gentium.",
+                "en-US": "Sing, my tongue, the Saviour's glory,\nof His flesh the mystery sing;\nof the Blood, all price exceeding,\nshed by our immortal King,\ndestined, for the world's redemption,\nfrom a noble womb to spring."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nobis datus, nobis natus\nex intacta Virgine,\net in mundo conversatus,\nsparso verbi semine,\nsui moras incolatus\nmiro clausit ordine.",
+                "en-US": "Of a pure and spotless Virgin\nborn for us on earth below,\nHe, as Man, with man conversing,\nstayed, the seeds of truth to sow;\nthen He closed in solemn order\nwondrously His life of woe."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In suprema nocte cenae\nrecumbens cum fratribus\nobservata lege plene\ncibis in legalibus,\ncibum turbae duodenae\nse dat suis manibus.",
+                "en-US": "On the night of that Last Supper,\nseated with His chosen band,\nHe the Pascal victim eating,\nfirst fulfills the Law's command;\nthen as Food to His Apostles\ngives Himself with His own hand."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Verbum caro, panem verum\nverbo carnem efficit:\nfitque sanguis Christi merum,\net si sensus deficit,\nad firmandum cor sincerum\nsola fides sufficit.",
+                "en-US": "Word made Flesh, the bread of nature\nby His word to Flesh He turns;\nwine into His Blood He changes;\nwhat though sense no change discerns?\nOnly be the heart in earnest,\nfaith her lesson quickly learns."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Panis angelicus\nfit panis hominum;\ndat panis caelicus\nfiguris terminum;\nO res mirabilis:\nmanducat Dominum\npauper, servus et humilis.",
+                "en-US": "Thus Angels' Bread is made\nthe Bread of man today:\nthe Living Bread from heaven\nwith figures dost away:\nO wondrous gift indeed!\nthe poor and lowly may\nupon their Lord and Master feed."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tantum ergo Sacramentum\nveneremur cernui:\net antiquum documentum\nnovo cedat ritui:\npraestet fides supplementum\nsensuum defectui.",
+                "en-US": "Down in adoration falling,\nLo! the sacred Host we hail;\nLo! o'er ancient forms departing,\nnewer rites of grace prevail;\nfaith for all defects supplying,\nwhere the feeble sense fail."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Genitori, Genitoque\nlaus et iubilatio,\nsalus, honor, virtus quoque\nsit et benedictio:\nprocedenti ab utroque\ncompar sit laudatio.",
+                "en-US": "To the everlasting Father,\nand the Son who reigns on high,\nwith the Holy Ghost proceeding\nforth from Each eternally,\nbe salvation, honour, blessing,\nmight and endless majesty."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio",
+        "en-US": "Conclusion of the Hours"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O quam suavis est Domine spiritus tuus, qui ut dulcedinem tuam in filios demonstrares, pane suavissimo de caelo praestito esurientes reples bonis, fastidiosos divites dimittens inanes.\n℣. Panem de caelo praestitisti eis.\n℟. Omne delectamentum in se habentem.",
+        "en-US": "O how sweet, O Lord, is Thy Spirit, who, that Thou mightest show Thy sweetness towards Thy children, by most sweet bread sent from Heaven fillest the hungry with good things, send the rich away empty.\n℣. Thou hast given us bread from Heaven.\n℟. Filled with all sweetness and delight."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus,",
+        "en-US": "Let us pray,"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Deus, qui nobis sub Sacramento mirabili Passionis tuae memoriam reliquisti; tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus: Qui vivis et regnas in saecula saeculorum.\nAmen.",
+        "en-US": "O God, who under a wonderful Sacrament hast left us a memorial of Thy Passion; grant us, we beseech Thee, so to reverence the sacred mysteries of Thy Body and Blood, that we may ever feel within ourselves the fruit of Thy Redemption: Thou who livest and reignest forever and ever.\nAmen."
+      }
+    }
+  ]
+}
