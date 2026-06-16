@@ -135,35 +135,11 @@ const targets = [
   { id: 'evangelist/john-2', slug: 'evangelist-john-2', q: 'Hieronymus Bosch Saint John Evangelist Patmos Berlin' },
   { id: 'evangelist/john-3', slug: 'evangelist-john-3', q: 'Velázquez Saint John Evangelist Patmos' },
 
-  // Daily Meditations row (/explore). Each practice gets its own dedicated PD
-  // masterpiece, chosen by the work's spirit and kept distinct from the
-  // collection paintings (alphonsus-liguori.jpg, carmelite.jpg) they sit near.
-  // Alphonsus → the Mater Dolorosa (his Passion/Marian devotion); Divine
-  // Intimacy → St John of the Cross (Carmelite union with God); Opus Dei
-  // meditation → Christ at prayer in Gethsemane (mental prayer).
-  {
-    id: 'practice/meditacoes-ligorio',
-    slug: 'meditation-alphonsus',
-    q: 'Carlo Dolci Mater Dolorosa',
-  },
-  {
-    id: 'practice/intimita-divina',
-    slug: 'meditation-intimita',
-    q: 'Saint John of the Cross painting',
-  },
-  {
-    id: 'practice/opus-dei-meditation',
-    slug: 'meditation-opus-dei',
-    q: 'Heinrich Hofmann Christ in Gethsemane',
-  },
-  // Patristic reading (LOTH Office of Readings second reading) → a Church
-  // Father at his desk. Saint Augustine (distinct from spiritual-classics.jpg's
-  // St Jerome).
-  {
-    id: 'practice/patristic-reading',
-    slug: 'meditation-patristic',
-    q: 'Philippe de Champaigne Saint Augustine',
-  },
+  // NOTE: The Daily Meditations row (/explore) cards — meditation-alphonsus.jpg,
+  // meditation-intimita.jpg, meditation-patristic.jpg, meditation-opus-dei.jpg —
+  // are AI-generated devotional paintings, not PD-sourced. They are managed by
+  // hand (see content/art/CREDITS.md for the generation prompts) and deliberately
+  // kept out of this target list so a re-run never overwrites them.
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'
