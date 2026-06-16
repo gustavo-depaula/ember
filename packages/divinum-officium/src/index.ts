@@ -48,6 +48,8 @@ export {
 export { type DoLineToken, tokenizeLine } from './parser/lines'
 export {
   type DoSection,
+  isPlainPath,
+  parseDoFile,
   parseSectionedFile,
   type SectionedDoFile,
   splitDoLines,

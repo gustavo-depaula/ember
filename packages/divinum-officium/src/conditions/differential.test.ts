@@ -8,7 +8,7 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { contentDo, hasFixtures, perlHarness, v1Versions } from '../node/testFixtures'
-import type { SectionedDoFile } from '../parser/sectioned'
+import { parseDoFile } from '../parser/sectioned'
 import { defaultContext } from './context'
 import { processConditionalLines } from './evaluate'
 
@@ -36,10 +36,11 @@ function collectVectors(): Vector[] {
     const dir = join(contentDo, root)
     if (!existsSync(dir)) continue
     for (const name of readdirSync(dir).sort()) {
-      if (!name.endsWith('.json')) continue
-      const parsed = JSON.parse(readFileSync(join(dir, name), 'utf8')) as
-        | SectionedDoFile
-        | { lines: string[] }
+      if (!name.endsWith('.txt')) continue
+      // content/do mirrors the upstream `.txt`; parse the same way the engine
+      // does at load time.
+      const enginePath = `${root}/${name.slice(0, -'.txt'.length)}`
+      const parsed = parseDoFile(enginePath, readFileSync(join(dir, name), 'utf8'))
       const sections =
         'sections' in parsed
           ? parsed.sections.map((s) => ({ lines: s.lines, label: `${root}/${name}#${s.name}` }))

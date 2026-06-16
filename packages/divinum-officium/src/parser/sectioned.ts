@@ -5,6 +5,7 @@
 // single parsed file serves every rubric version (evaluation happens in the
 // engine at runtime).
 
+import type { ParsedDoFile } from '../types'
 import { matchSectionHeader } from './conditions'
 
 export type DoSection = {
@@ -51,4 +52,26 @@ export function parseSectionedFile(text: string): SectionedDoFile {
     sections.shift()
   }
   return { sections }
+}
+
+// Which DO files the Perl reads with `do_read` (flat lines) rather than
+// `setupstring` (sections). Operates on the loader/import path — works on both
+// the import-time relPath (`…/Mobile.txt`) and the runtime engine path
+// (`…/Mobile`). Single source of truth for build-do-content, the corpus
+// loader, and the filesystem loader.
+export function isPlainPath(path: string): boolean {
+  return (
+    path.startsWith('Tabulae/') ||
+    path.startsWith('horas/Ordinarium/') ||
+    path.includes('/Psalterium/Psalmorum/') ||
+    path.includes('/Regula/') ||
+    (/\/Martyrologium[^/]*\//.test(path) && !/\/Mobile(\.txt)?$/.test(path))
+  )
+}
+
+// Parse a raw DO file into the engine's structured form, choosing the shape
+// from the path. This is what lets the corpus ship raw `.txt` and parse at
+// load time instead of baking JSON at build time.
+export function parseDoFile(path: string, text: string): ParsedDoFile {
+  return isPlainPath(path) ? { lines: splitDoLines(text) } : parseSectionedFile(text)
 }

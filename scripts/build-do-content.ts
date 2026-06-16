@@ -12,6 +12,7 @@
 import { mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from 'node:fs'
 import { dirname, join, relative, resolve } from 'node:path'
 import {
+  isPlainPath,
   parseSectionedFile,
   splitDoLines,
   tokenizeLine,
@@ -49,16 +50,9 @@ const tabulaeEntries = ['data.txt', 'Kalendaria', 'Transfer', 'Stransfer', 'Temp
 // psalms via do_read in &psalm, Ordinarium scripts via getordinarium,
 // Tabulae tables via Directorium.pm, Regula chapters via do_read in regula(),
 // Martyrologium day files via do_read in martyrologium() (Mobile.txt is the
-// one sectioned file in those dirs).
-function isPlain(relPath: string): boolean {
-  return (
-    relPath.startsWith('Tabulae/') ||
-    relPath.startsWith('horas/Ordinarium/') ||
-    relPath.includes('/Psalterium/Psalmorum/') ||
-    relPath.includes('/Regula/') ||
-    (/\/Martyrologium[^/]*\//.test(relPath) && !relPath.endsWith('/Mobile.txt'))
-  )
-}
+// one sectioned file in those dirs). The predicate lives in the engine
+// (`isPlainPath`) so build-do-content, the corpus loader, and the filesystem
+// loader all classify identically.
 
 function listTxtFiles(dir: string): string[] {
   if (!statSync(dir, { throwIfNoEntry: false })?.isDirectory()) return []
@@ -165,8 +159,10 @@ function main() {
       continue
     }
 
+    // Parse only to validate + inventory; the corpus ships the raw text and
+    // parses at load time (see parseDoFile). content/do is a verbatim mirror.
     let parsed: ParsedDoFile
-    if (isPlain(relPath)) {
+    if (isPlainPath(relPath)) {
       parsed = { lines: splitDoLines(text) }
       inv.plain++
       inventoryLines(parsed.lines, inv)
@@ -181,12 +177,9 @@ function main() {
     }
     inv.files++
 
-    const outPath = join(
-      outRoot,
-      relPath.endsWith('.txt') ? relPath.replace(/\.txt$/, '.json') : `${relPath}.json`,
-    )
+    const outPath = relPath.endsWith('.txt') ? join(outRoot, relPath) : join(outRoot, `${relPath}.txt`)
     mkdirSync(dirname(outPath), { recursive: true })
-    writeFileSync(outPath, `${JSON.stringify(parsed, null, 1)}\n`)
+    writeFileSync(outPath, text)
   }
 
   if (errors.length > 0) {
