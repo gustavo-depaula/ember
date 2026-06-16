@@ -1,6 +1,5 @@
-import type { LiturgicalEntry } from '@ember/liturgical'
+import { massVersion } from '@ember/divinum-officium'
 import {
-  buildYearCalendar,
   type DayCalendar,
   getCelebrationsForDate,
   type ResolvedCelebration,
@@ -10,28 +9,25 @@ import { useQuery } from '@tanstack/react-query'
 import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
 import { useToday } from '@/hooks/useToday'
-import { fetchHearth } from '@/lib/hearth'
 import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
+import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { buildDoYearCalendar } from './buildDoYearCalendar'
 
-// The OF display calendar (home card + month grid) is now resolved from the
-// *same* canonical MR authority the Mass uses — `resolveOfDay` over
-// `content/of/calendar/*`, via @ember/mass's buildOfYearCalendar — so the two can
-// never disagree (Sacred Heart, Corpus Christi, transferred Ascension all show).
-// The EF display calendar still uses the curated entries.json (its EF half).
-function fetchLiturgicalEntries(): Promise<LiturgicalEntry[]> {
-  return fetchHearth<LiturgicalEntry[]>('liturgical/entries.json')
-}
-
+// Both display calendars (home card + month grid) are now resolved from the
+// *same* canonical authority the Mass uses, so card and Mass can never disagree:
+// OF via @ember/mass's buildOfYearCalendar (resolveOfDay over the MR statics),
+// EF via buildDoYearCalendar (the Divinum Officium engine, the EF Mass/Office's
+// own day resolution — transfers, octaves, vigils, commemorations all match).
 export function useYearCalendar(year?: number) {
   const form = usePreferencesStore((s) => s.liturgicalCalendar)
-  const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const doVersion = usePreferencesStore((s) => s.doVersion)
   const today = useToday()
   const resolvedYear = year ?? today.getFullYear()
 
   return useQuery({
-    queryKey: ['calendar', resolvedYear, form, jurisdiction, contentLanguage],
+    queryKey: ['calendar', resolvedYear, form, contentLanguage, doVersion],
     queryFn: async () => {
       if (form === 'of') {
         const statics = await loadOfCalendar()
@@ -42,8 +38,11 @@ export function useYearCalendar(year?: number) {
           scope: scopeForContentLang(contentLanguage),
         })
       }
-      const entries = await fetchLiturgicalEntries()
-      return buildYearCalendar({ year: resolvedYear, form, entries, jurisdiction })
+      return buildDoYearCalendar({
+        year: resolvedYear,
+        loader: createCorpusDoLoader(),
+        version: massVersion(doVersion),
+      })
     },
     staleTime: Number.POSITIVE_INFINITY,
   })
