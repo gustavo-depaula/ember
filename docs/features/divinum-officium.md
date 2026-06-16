@@ -8,10 +8,10 @@ This replaces the previous EF implementation entirely (build-time-flattened Mass
 
 ## Principles
 
-- **The parser is dumb and lossless; the engine is smart and data-free.** Everything DO encodes as text ships as data (structured JSON in the corpus, nothing evaluated at build time). Everything DO encodes as Perl becomes TypeScript (`packages/divinum-officium/`).
+- **The parser is dumb and lossless; the engine is smart and data-free.** Everything DO encodes as text ships **verbatim** (the corpus blobs are the upstream `.txt`, parsed to structured form at load time by `parseDoFile`, nothing evaluated at build time). Everything DO encodes as Perl becomes TypeScript (`packages/divinum-officium/`).
 - **DO's own Perl is the spec.** Fidelity is enforced by golden tests against `Cofficium.pl` / `Cmissa.pl` run from a pinned clone — not by re-reading rubrics books.
 - **One corpus serves all versions.** Rubric-version conditionals are preserved as AST in the data; the engine evaluates them per user preference at render time.
-- **Re-sync is a data diff.** Upstream is pinned by commit; re-importing at a newer commit produces a reviewable JSON diff with 1:1 file identity.
+- **Re-sync is a data diff.** Upstream is pinned by commit; `content/do` is a verbatim `.txt` mirror, so re-importing at a newer commit produces a reviewable diff that is 1:1 with the upstream files.
 
 ## Scope
 
@@ -41,8 +41,8 @@ Kalendaria files are **diff-based on their base** (`XXXXX` = deletion); the engi
 ```
 .divinum-officium/            # shallow clone at repo root, gitignored, pinned commit
   → scripts/import-do.ts      # clone/update at pinned commit; writes content/do/meta.json
-  → scripts/build-do-content.ts  # parse → content/do/** (generated JSON, committed, NEVER hand-edited)
-  → scripts/build-corpus.py   # build_do(): do-data/* dataset items, per-file per-language blobs
+  → scripts/build-do-content.ts  # validate (parse + tokenize, hard-fail on drift) + mirror → content/do/** (verbatim .txt + meta/inventory JSON, committed, NEVER hand-edited)
+  → scripts/build-corpus.py   # build_do(): do-data/* dataset items, raw-.txt blobs per file per language
 ```
 
 ### Imported sources (v1)
@@ -51,23 +51,23 @@ Per language (`Latin`, `English`, `Portugues`): `web/www/horas/<L>/{Tempora,Sanc
 
 ### Parsed-file schema
 
-One JSON per DO text file per language, lossless. Two shapes, discriminated by directory (matching how the Perl engine reads each file):
+`content/do` is a **verbatim `.txt` mirror** of the imported files — no transformation, byte-for-byte upstream. The structured form is produced by `parseDoFile(path, text)` at **load time** (in the engine, shared by the corpus loader and the filesystem loader), choosing the shape from the path (`isPlainPath`):
 
-- **Sectioned** (`setupstring` files — Tempora/Sancti/Commune/missa/most of Psalterium): `{ sections: [{ name, condition?, lines: string[] }] }`. Sections stay in file order (duplicates with header conditions preserved — the engine replicates Perl's "last section whose condition holds wins"). `condition` is the raw expression from `[Name] (condition)` headers (Perl ignores decorative stopwords/scope at headers; so do we). Body lines are stored **raw** — beautiful upstream diffs, byte-exact round-trips.
-- **Plain** (`do_read` files — `Psalterium/Psalmorum/Psalm*.txt`, `horas/Ordinarium/*.txt` hour scripts, `Tabulae/**`): `{ lines: string[] }`.
+- **Sectioned** (`setupstring` files — Tempora/Sancti/Commune/missa/most of Psalterium): `{ sections: [{ name, condition?, lines: string[] }] }`. Sections stay in file order (duplicates with header conditions preserved — the engine replicates Perl's "last section whose condition holds wins"). `condition` is the raw expression from `[Name] (condition)` headers (Perl ignores decorative stopwords/scope at headers; so do we).
+- **Plain** (`do_read` files — `Psalterium/Psalmorum/Psalm*.txt`, `horas/Ordinarium/*.txt` hour scripts, `Tabulae/**`, `Regula/**`, `Martyrologium*` day files): `{ lines: string[] }`.
 
-Conditional evaluation is per-version at **runtime**, so the line tokenizer ships in the engine regardless (`tokenizeLine`: conditional / inclusion / macro / call / rubric / blank / text, mirroring SetupString.pl's grammar — stopwords `si/deinde/sed/vero/atque/attamen`, raw `vero()` expression, scope phrase, sequel). The importer runs that same tokenizer over **every line of every file** as a build-time validation/inventory gate (`content/do/inventory.json`: all `&`-calls, `$`-macros, condition expressions, section names), so format drift upstream is caught at import time, not on a user's phone. The importer also hard-fails on non-UTF-8 input.
+Conditional evaluation is per-version at **runtime**, so the parser + line tokenizer ship in the engine regardless (`tokenizeLine`: conditional / inclusion / macro / call / rubric / blank / text, mirroring SetupString.pl's grammar — stopwords `si/deinde/sed/vero/atque/attamen`, raw `vero()` expression, scope phrase, sequel). `build-do-content.ts` runs the parser + tokenizer over **every line of every file** as a build-time **validation/inventory gate** (`content/do/inventory.json`: all `&`-calls, `$`-macros, condition expressions, section names) and hard-fails on unknown tokens or non-UTF-8 — so format drift upstream is caught at import time, not on a user's phone — but it ships the raw text, not the parse.
 
 ### Corpus packaging (`do-data` kind)
 
-**One catalog item per dataset**, not per file (15 items): `do-data/{horas-tempora, horas-sancti, horas-commune, horas-tempora-m, horas-sancti-m, horas-commune-m, horas-psalterium, horas-appendix, ordinarium, tabulae, missa-tempora, missa-sancti, missa-commune, missa-ordo, meta}`. Each dataset manifest is a path index mapping DO file id → per-language blob refs (`localized: true`) or directly to blob refs for the language-independent ordinarium/tabulae datasets (`localized: false`); `do-data/meta` carries `{repo, commit, commitDate}`:
+**One catalog item per dataset**, not per file: `do-data/{horas-tempora, horas-sancti, horas-commune, horas-tempora-m, horas-sancti-m, horas-commune-m, horas-psalterium, horas-appendix, horas-regula, horas-martyrologium(+1570/1955r/1960), ordinarium, tabulae, dialog, missa-tempora, missa-sancti, missa-commune, missa-ordo, meta}`. Each dataset manifest is a path index mapping DO file id → per-language **raw-`.txt` blob** refs (`localized: true`) or directly to blob refs for the language-independent ordinarium/tabulae/dialog datasets (`localized: false`); `do-data/meta` carries `{repo, commit, commitDate}`:
 
 ```jsonc
 { "id": "do-data/horas-sancti", "doCommit": "b94d5f2…", "localized": true,
   "files": { "01-25": { "la": {"hash":"…","size":2891}, "en-US": {"hash":"…"}, "pt-BR": {"hash":"…"} } } }
 ```
 
-Measured at import (commit `b94d5f2`, 2026-06-10): 7,292 files / 215k lines → ~19.8MB of canonical blobs; the largest dataset index is `horas-sancti` at 152KB (well under the 300KB shard threshold); catalog grows by 15 entries.
+Measured at import (commit `b94d5f2`): 9,379 files / 237k lines → ~19.6MB of raw-`.txt` blobs (modestly smaller than the equivalent JSON — no per-line quoting — though the real win is the verbatim 1:1 re-sync); the largest dataset index is `horas-sancti` (well under the 300KB shard threshold).
 
 Each language file is its own blob — **no merged-language blobs**; the engine pairs Latin + vernacular at assembly time by section + line position (conditions/refs are evaluated once on Latin as structural truth; the vernacular follows the same decision stream — DO's two-column model). An hour fetches ~6–15 file blobs × 2 langs (~20–80KB/day steady state; Psalterium/Ordinarium/Prayers cached after first use). Pinning traverses `do-data` like other kinds.
 

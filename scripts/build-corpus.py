@@ -758,13 +758,18 @@ def build_do(b: Builder) -> None:
     localized: dict[str, dict[str, dict[str, dict]]] = {}  # dataset -> file id -> lang -> ref
     plain: dict[str, dict[str, dict]] = {}  # dataset -> file id -> ref
 
-    for f in sorted(src.rglob("*.json")):
+    for f in sorted(src.rglob("*")):
+        if not f.is_file():
+            continue
         rel = f.relative_to(src).as_posix()
         if rel in ("meta.json", "inventory.json"):
             continue
-        parts = rel[: -len(".json")].split("/")
-        data = json.loads(f.read_text(encoding="utf-8"))
-        ref = dict(zip(("hash", "size"), b.write_json_blob(data)))
+        # content/do mirrors the upstream files verbatim; the blob is the raw
+        # text and the engine parses it on read (parseDoFile). The file id is
+        # the path without the `.txt` mirror extension.
+        id_path = rel[: -len(".txt")] if rel.endswith(".txt") else rel
+        parts = id_path.split("/")
+        ref = dict(zip(("hash", "size"), b.write_blob(f.read_bytes())))
         if parts[0] == "Tabulae":
             plain.setdefault("tabulae", {})["/".join(parts[1:])] = ref
         elif parts[0] == "horas" and parts[1] == "Ordinarium":

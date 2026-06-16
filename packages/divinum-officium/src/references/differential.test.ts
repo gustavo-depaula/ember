@@ -28,11 +28,11 @@ function sampleFnames(area: DoArea, group: string, count: number): string[] {
   const dir = join(contentDo, area, 'Latin', group)
   if (!existsSync(dir)) return []
   const names = readdirSync(dir)
-    .filter((n) => n.endsWith('.json'))
+    .filter((n) => n.endsWith('.txt'))
     .sort()
   // Deterministic spread across the directory.
   const step = Math.max(1, Math.floor(names.length / count))
-  return names.filter((_, i) => i % step === 0).map((n) => `${group}/${n.replace(/\.json$/, '')}`)
+  return names.filter((_, i) => i % step === 0).map((n) => `${group}/${n.replace(/\.txt$/, '')}`)
 }
 
 describe.skipIf(!hasFixtures)('setupstring vs real Perl', () => {
