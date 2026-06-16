@@ -49,6 +49,7 @@ export const meditationRow: MeditationCard[] = [
   { id: 'practice/meditacoes-ligorio', subtitleKey: 'explore.meditation.alphonsus' },
   { id: 'practice/intimita-divina', subtitleKey: 'explore.meditation.intimita' },
   { id: 'practice/opus-dei-meditation', subtitleKey: 'explore.meditation.opusDei' },
+  { id: 'practice/patristic-reading', subtitleKey: 'explore.meditation.patristic' },
 ]
 
 /** Resolve a list of collection ids against the live catalog, dropping any that

@@ -72,6 +72,7 @@ const artFiles: Record<string, string> = {
   'practice/meditacoes-ligorio': 'meditation-alphonsus.jpg',
   'practice/intimita-divina': 'meditation-intimita.jpg',
   'practice/opus-dei-meditation': 'meditation-opus-dei.jpg',
+  'practice/patristic-reading': 'meditation-patristic.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches

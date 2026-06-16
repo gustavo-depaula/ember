@@ -156,6 +156,14 @@ const targets = [
     slug: 'meditation-opus-dei',
     q: 'Heinrich Hofmann Christ in Gethsemane',
   },
+  // Patristic reading (LOTH Office of Readings second reading) → a Church
+  // Father at his desk. Saint Augustine (distinct from spiritual-classics.jpg's
+  // St Jerome).
+  {
+    id: 'practice/patristic-reading',
+    slug: 'meditation-patristic',
+    q: 'Philippe de Champaigne Saint Augustine',
+  },
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'

@@ -1,0 +1,8 @@
+{
+  "sections": [
+    {
+      "type": "include",
+      "ref": "producer/office-of-readings-reading"
+    }
+  ]
+}

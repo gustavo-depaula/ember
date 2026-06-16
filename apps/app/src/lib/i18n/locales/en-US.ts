@@ -1229,6 +1229,7 @@ export default {
       alphonsus: 'A meditation for every day',
       intimita: 'Carmelite meditations · Fr. Gabriel, OCD',
       opusDei: 'From Opus Dei',
+      patristic: 'From today’s Office of Readings',
     },
     fromRome: 'From Rome',
     rome: {
