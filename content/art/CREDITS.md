@@ -49,3 +49,7 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **evangelist/john-1** → `evangelist-john-1.jpg` — Domenichino. *Zampieri St John Evangelist.jpg* (Public domain).
 - **evangelist/john-2** → `evangelist-john-2.jpg` — Hieronymus Bosch. *Johannes op Patmos Saint John on Patmos Berlin, Staatlichen Museen zu Berlin, Gemaldegalerie HR.jpg* (Public domain).
 - **evangelist/john-3** → `evangelist-john-3.jpg` — Diego Velázquez. *Diego Velázquez 018 (John the Evangelist from Patmos).jpg* (Public domain).
+- **practice/meditacoes-ligorio** → `meditation-alphonsus.jpg` — Carlo Dolci. *Carlo Dolci - Mater Dolorosa - Google Art Project.jpg* (Public domain).
+- **practice/opus-dei-meditation** → `meditation-opus-dei.jpg` — Heinrich Hofmann. *Christ in Gethsemane.jpg* (Public domain).
+- **practice/patristic-reading** → `meditation-patristic.jpg` — Philippe de Champaigne. *Saint Augustine by Philippe de Champaigne.jpg* (Public domain).
+- **practice/intimita-divina** → `meditation-intimita.jpg` — Diego de Sanabria – Painter Details on Google Art Project. *Diego de Sanabria - Saint John of the Cross - Google Art Project.jpg* (Public domain).

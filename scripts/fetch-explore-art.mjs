@@ -149,7 +149,7 @@ const targets = [
   {
     id: 'practice/intimita-divina',
     slug: 'meditation-intimita',
-    q: 'Saint John of the Cross painting Zurbarán',
+    q: 'Saint John of the Cross painting',
   },
   {
     id: 'practice/opus-dei-meditation',
