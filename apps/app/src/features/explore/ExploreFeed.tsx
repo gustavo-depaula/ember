@@ -22,9 +22,10 @@ import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
 import { evangelistArtFor } from './evangelistArt'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
+import { FeatureTile } from './FeatureTile'
 import { FromOpusDei } from './FromOpusDei'
 import { FromRome } from './FromRome'
-import { collectionRow, pickFeatured, weekdayDevotion } from './pickFeatured'
+import { collectionRow, pickFeatured, practiceRow, weekdayDevotion } from './pickFeatured'
 import { useOpusDeiMeditation } from './useOpusDeiMeditation'
 import { useSaintOfDay } from './useSaintOfDay'
 
@@ -74,10 +75,19 @@ export function ExploreFeed() {
     () => collectionRow(featured.traditionRow),
     [catalogVersion, featured.traditionRow],
   )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const meditations = useMemo(
+    () => practiceRow(featured.meditationRow),
+    [catalogVersion, featured.meditationRow],
+  )
 
   const bookHref = (id: string): Href => ({
     pathname: '/browse/book/[bookId]',
     params: { bookId: bareId(id) },
+  })
+  const prayHref = (id: string): Href => ({
+    pathname: '/pray/[practiceId]',
+    params: { practiceId: bareId(id) },
   })
   const goBook = (id: string) => router.push(bookHref(id))
   const goCollection = (id: string) => {
@@ -195,6 +205,21 @@ export function ExploreFeed() {
   return (
     <>
       <FeaturedCarousel blocks={blocks} />
+
+      {meditations.length > 0 && (
+        <ArtCarousel title={t('explore.dailyMeditations')}>
+          {meditations.map(([id, entry, subtitleKey]) => (
+            <FeatureTile
+              key={id}
+              title={localizeContent(entry.name ?? {})}
+              subtitle={t(subtitleKey)}
+              image={artFor(id)}
+              tone={toneForKey(id)}
+              href={prayHref(id)}
+            />
+          ))}
+        </ArtCarousel>
+      )}
 
       {books.length > 0 && (
         <ArtCarousel title={t('explore.theLibrary')}>

@@ -1224,6 +1224,12 @@ export default {
     },
     meditationOfDay: 'Meditation of the Day',
     meditationTagline: 'A daily meditation from Opus Dei.',
+    dailyMeditations: 'Daily Meditations',
+    meditation: {
+      alphonsus: 'A meditation for every day',
+      intimita: 'Carmelite meditations · Fr. Gabriel, OCD',
+      opusDei: 'From Opus Dei',
+    },
     fromRome: 'From Rome',
     rome: {
       videos: 'Videos',

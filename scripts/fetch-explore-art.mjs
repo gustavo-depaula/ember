@@ -134,6 +134,28 @@ const targets = [
   { id: 'evangelist/john-1', slug: 'evangelist-john-1', q: 'Domenichino Saint John Evangelist eagle' },
   { id: 'evangelist/john-2', slug: 'evangelist-john-2', q: 'Hieronymus Bosch Saint John Evangelist Patmos Berlin' },
   { id: 'evangelist/john-3', slug: 'evangelist-john-3', q: 'Velázquez Saint John Evangelist Patmos' },
+
+  // Daily Meditations row (/explore). Each practice gets its own dedicated PD
+  // masterpiece, chosen by the work's spirit and kept distinct from the
+  // collection paintings (alphonsus-liguori.jpg, carmelite.jpg) they sit near.
+  // Alphonsus → the Mater Dolorosa (his Passion/Marian devotion); Divine
+  // Intimacy → St John of the Cross (Carmelite union with God); Opus Dei
+  // meditation → Christ at prayer in Gethsemane (mental prayer).
+  {
+    id: 'practice/meditacoes-ligorio',
+    slug: 'meditation-alphonsus',
+    q: 'Carlo Dolci Mater Dolorosa',
+  },
+  {
+    id: 'practice/intimita-divina',
+    slug: 'meditation-intimita',
+    q: 'Saint John of the Cross painting Zurbarán',
+  },
+  {
+    id: 'practice/opus-dei-meditation',
+    slug: 'meditation-opus-dei',
+    q: 'Heinrich Hofmann Christ in Gethsemane',
+  },
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'

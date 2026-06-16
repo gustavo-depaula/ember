@@ -11,7 +11,14 @@ export type Featured = {
   /** Curated collection rows, rendered as cover-card carousels. */
   devotionRow: string[]
   traditionRow: string[]
+  /** Daily-meditation practices, rendered as medium text-on-image tiles. */
+  meditationRow: MeditationCard[]
 }
+
+/** A daily-meditation card: a practice id plus a curated subtitle i18n key
+ *  (manifest names alone are thin — e.g. Opus Dei's is the generic "Meditation
+ *  of the Day"). */
+export type MeditationCard = { id: string; subtitleKey: string }
 
 // The same curated rows feed both /explore and /practices — single source of
 // truth keeps the editorial heart of the app consistent. Ids are filtered
@@ -36,12 +43,28 @@ export const traditionRow = [
   'collection/litanies',
 ]
 
+// The daily-meditation row, shown directly under the hero on /explore. Practice
+// ids resolve against the live catalog at render, so a missing one drops out.
+export const meditationRow: MeditationCard[] = [
+  { id: 'practice/meditacoes-ligorio', subtitleKey: 'explore.meditation.alphonsus' },
+  { id: 'practice/intimita-divina', subtitleKey: 'explore.meditation.intimita' },
+  { id: 'practice/opus-dei-meditation', subtitleKey: 'explore.meditation.opusDei' },
+]
+
 /** Resolve a list of collection ids against the live catalog, dropping any that
  *  aren't present yet (or aren't collections). Pure — depends only on the catalog. */
 export function collectionRow(ids: string[]): [string, CatalogEntry][] {
   return ids
     .map((id) => [id, getEntry(id)] as const)
     .filter((pair): pair is [string, CatalogEntry] => !!pair[1] && pair[1].kind === 'collection')
+}
+
+/** Resolve meditation cards against the live catalog, dropping any practice that
+ *  isn't present yet. Returns the entry + its subtitle key alongside the id. */
+export function practiceRow(cards: MeditationCard[]): [string, CatalogEntry, string][] {
+  return cards
+    .map((c) => [c.id, getEntry(c.id), c.subtitleKey] as const)
+    .filter((t): t is [string, CatalogEntry, string] => !!t[1] && t[1].kind === 'practice')
 }
 
 // The traditional weekly devotional cycle (dies domini) — one curated
@@ -71,5 +94,6 @@ export function pickFeatured(season: LiturgicalSeason, date: Date): Featured {
     seasonTaglineKey: spotlight.taglineKey,
     devotionRow,
     traditionRow,
+    meditationRow,
   }
 }

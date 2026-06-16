@@ -1231,6 +1231,12 @@ export default {
     },
     meditationOfDay: 'Meditação do Dia',
     meditationTagline: 'Uma meditação diária do Opus Dei.',
+    dailyMeditations: 'Meditações Diárias',
+    meditation: {
+      alphonsus: 'Uma meditação para cada dia',
+      intimita: 'Meditações carmelitas · Pe. Gabriel, OCD',
+      opusDei: 'Do Opus Dei',
+    },
     fromRome: 'De Roma',
     rome: {
       videos: 'Vídeos',
