@@ -10,12 +10,15 @@ import { useMassFormulary } from '@/lib/mass-of/useMassFormulary'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 /**
- * A celebration's display name and description, with the Mass formulary as the
- * single source of truth. Sanctoral celebrations carry their title from the
- * calendar statics; temporal ones don't, so their name comes from the formulary
- * (falling back to `getLiturgicalDayName` while it loads or when none exists).
- * Descriptions come from the formulary too — EF celebrations keep the curated
- * `entries.json` text.
+ * A celebration's display name and description.
+ *
+ * OF sanctoral celebrations carry their title from the calendar statics; OF
+ * temporal ones don't, so their name (and "about this celebration" prose) comes
+ * from the Mass formulary, falling back to `getLiturgicalDayName`.
+ *
+ * EF celebrations come straight from the Divinum Officium engine: sanctoral days
+ * carry the DO Latin title, temporal days fall back to `getLiturgicalDayName`.
+ * DO has no descriptive prose, so EF cards show no description.
  */
 export function useCelebrationDisplay(celebration: ResolvedCelebration | undefined): {
   name: string

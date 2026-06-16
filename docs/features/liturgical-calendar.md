@@ -3,36 +3,51 @@
 How Ember decides *which celebration is today* and *which Mass is said*, for both
 the Ordinary Form (OF) and the Extraordinary Form (EF).
 
-## One OF authority; EF stays curated
+## Both forms resolve from their Mass authority
 
-The Ordinary Form now has a **single** calendar authority driving both the Mass
-*and* the display surfaces (home celebration card, month grid, day detail). They
-can no longer disagree — the bug where the Sacred Heart showed in the Mass but
-not on the card (curated `entries.json` resolved it to Easter+61 instead of the
-canonical Easter+68) is gone.
+Each form now has a **single** calendar authority driving both the Mass *and*
+the display surfaces (home celebration card, month grid, day detail). They can no
+longer disagree — the OF bug where the Sacred Heart showed in the Mass but not on
+the card (curated `entries.json` resolved it to Easter+61 instead of the canonical
+Easter+68) is gone, and the EF display now shows exactly what the EF Mass/Office
+celebrates (transfers, octaves, vigils, commemorations included), since both run
+the same Divinum Officium engine.
 
-| | OF (Mass **and** display) | EF (display) |
+| | OF (Mass **and** display) | EF (Mass **and** display) |
 |---|---|---|
-| Entry point | `resolveOfDay` (`@ember/mass`) — per day; `buildOfYearCalendar` (`@ember/mass`) loops it across a year for the display | `buildYearCalendar` (`@ember/liturgical`) |
-| Data | `content/of/calendar/{temporal,sanctoral}.json` (canonical MR statics) + computed temporal cycle | `content/liturgical/entries.json` (EF half) |
-| Names | sanctoral titles from the statics; temporal names from the **Mass formulary** title (`useCelebrationDisplay`, with `getLiturgicalDayName` fallback) — `temporal-notability.ts` only decides *which* temporal days show | curated names in entries.json |
-| HDO | `of/calendar/hdo.ts` (the single OF Holy-Day-of-Obligation source) | `holyDayOfObligation` flags in entries.json |
-| Descriptions | the Mass **formulary** `description` ("Sobre esta celebração"), loaded on demand by the card/detail; absent → no description shown (never falls back to non-liturgical sources) | curated `description` in entries.json |
+| Entry point | `resolveOfDay` (`@ember/mass`) — per day; `buildOfYearCalendar` (`@ember/mass`) loops it across a year for the display | `resolveDay` (`@ember/divinum-officium`) — per day; `buildDoYear` loops it across a year; `buildDoYearCalendar` (app) maps it to the display shape |
+| Data | `content/of/calendar/{temporal,sanctoral}.json` (canonical MR statics) + computed temporal cycle | the Divinum Officium corpus (`content/do/…`), via the corpus `DoLoader` |
+| Names | sanctoral titles from the statics; temporal names from the **Mass formulary** title (`useCelebrationDisplay`, with `getLiturgicalDayName` fallback) — `temporal-notability.ts` only decides *which* temporal days show | sanctoral titles are the **DO Latin** names (the Kalendarium has no vernacular — fitting for the EF); temporal names fall back to `getLiturgicalDayName` |
+| HDO | `of/calendar/hdo.ts` (the single OF Holy-Day-of-Obligation source) | `ef` HDO table in `kalendar/year.ts` (the universal 1962 Holy Days) |
+| Descriptions | the Mass **formulary** `description` ("Sobre esta celebração"), loaded on demand by the card/detail; absent → no description shown | none — DO carries no descriptive prose, so EF cards show title + rank only |
 
-`buildOfYearCalendar` emits the same `Map<string, DayCalendar>` shape as
-`buildYearCalendar` (each OF celebration is a `ResolvedCelebration` with a
-synthesized partial `LiturgicalEntry` whose `id` is the formulary/temporal ref),
-so every existing consumer (`getCelebrationsForDate`, `DayDetail`, the home card,
-obligations) works unchanged. Only **named** celebrations are surfaced — every
-sanctoral celebration plus the temporal solemnities/feasts of the Lord; ordinary
-Sundays and ferias are omitted (the season header conveys them), preserving the
-prior display semantics. The OF scope follows the **content language**
-(`scopeForContentLang`), exactly as the Mass does, so a pt-BR reader sees the
-Brazil sanctoral on both.
+`buildOfYearCalendar` and `buildDoYearCalendar` both emit the same
+`Map<string, DayCalendar>` shape (each celebration a `ResolvedCelebration` with a
+synthesized partial `LiturgicalEntry` whose `id` is a kind-prefixed ref —
+`mass/of/…` / `tempore.*` for OF, `ef/sancti/…` / `ef/tempora/…` for EF), so
+every existing consumer (`getCelebrationsForDate`, `DayDetail`, the home card,
+obligations) works unchanged. Only **named** celebrations are surfaced — for the
+EF: every sanctoral winner, plus a commemorated saint when an ordinary feria/Sunday
+wins (so the calendar still reads as a saints' calendar), plus privileged temporal
+days (DO rank ≥ 6: Sundays of Advent/Lent/Passiontide/Eastertide and the great
+feasts of the Lord). Ordinary green Sundays (rank 5) and ferias are dropped, just
+as the OF display drops Sundays in Ordinary Time.
 
 > The generated `content/liturgical/of-calendar.json` + `scripts/build-of-calendar.mjs`
 > (a `LiturgicalEntry[]` rebuild of the curated file) are **retired** — the display
-> reads the canonical statics directly via `resolveOfDay` now.
+> reads the canonical statics directly via `resolveOfDay` now. With the EF display
+> off it too, the curated `content/liturgical/entries.json` + `buildYearCalendar`
+> (`@ember/liturgical`) are no longer used by the calendar (the export remains for
+> now; the file can be retired in a later cleanup).
+
+### EF full-canonical naming — the trade-off
+
+The EF display is **full-canonical** (like the OF): names come straight from the
+DO engine, with no curated layer. The consequence is that EF celebration names are
+**Latin** (the DO Kalendarium has no vernacular titles) and cards carry **no
+description**. This was a deliberate choice for symmetry and zero curation; if the
+Latin-only titles ever read too rough, a hybrid (curated `entries.json` names
+layered over the DO precedence) remains possible without rearchitecting.
 
 ## OF day resolution — one precedence authority
 
@@ -130,12 +145,18 @@ Readings tab is populated before it's opened.
 
 ## EF path
 
-The EF side is already singly-authored (it never had the OF duplication): the EF
-display calendar is `buildYearCalendar(form: 'ef')` over `entries.json`'s EF half,
-and the EF Mass (`@ember/mass-propers`) maps date → Divinum Officium file-id
-(`do-file-id.ts`) → parsed propers in `content/propers/`.
+The EF display calendar now resolves from the **same Divinum Officium engine the
+EF Mass/Office uses**: `buildDoYear` (`@ember/divinum-officium`) loops `resolveDay`
+across the year in *calendar mode* (`sections: false` — precedence only, skipping
+the officestring text assembly) with a single shared `directorium`, and the app's
+`buildDoYearCalendar` maps the rows onto `DayCalendar`. The DO numeric rank is
+normalized to the display `RankEF` (Rubrics-1960 scale: I/II-class 6–7 / 5,
+III-class the doubles 3–4, IV-class the lesser feasts, simplices/commemorations
+below). `buildDoYear` keeps tests in-package via the filesystem `DoLoader`
+(`year.test.ts`), with no curated-data dependency.
 
-The EF Mass's **tempora-vs-sancti choice is data-driven from Divinum Officium's
+The EF Mass (`@ember/mass-propers` lineage) maps date → Divinum Officium file-id →
+parsed propers. Its **tempora-vs-sancti choice is data-driven from Divinum Officium's
 own occurrence values** (mirroring how the OF Mass now derives precedence from
 canonical data). `scripts/build-ef-ranks.mjs` extracts every Mass day's `[Rank]`
 number — the 1962/`rubrica 1960` value (Feria 1, Duplex 3, Sunday 6.9, Duplex I
@@ -152,7 +173,10 @@ without the index fall back to the category heuristic.) Rendered via `ProperSlot
 calendar. For the **OF** these flags are set by `buildOfYearCalendar` from
 `of/calendar/hdo.ts` — the single canonical OF HDO source (the eleven universal
 Holy Days; jurisdiction-specific transfers are a later refinement). For the
-**EF** they still come from the curated `entries.json`.
+**EF** `buildDoYear` sets them from the universal 1962 Holy Days (the sanctoral
+set keyed by month-day plus the two movable temporal HDO — Ascension, Corpus
+Christi — matched by Latin name); jurisdiction transfers are likewise a later
+refinement.
 
 ## Staged / not yet done
 
@@ -162,6 +186,9 @@ Done since the original design (see `docs/journal.md`, 2026-05-31):
   `of-calendar.json`; bifurcation bug fixed; full-year GIRM tests.
 - ✅ **EF precedence from canonical data** — `chooseProperSourceByRank` over the
   generated `ef-ranks.json` (Divinum Officium occurrence values).
+- ✅ **EF display calendar from the DO engine** — `buildDoYear` /
+  `buildDoYearCalendar` resolve the month grid + card from `resolveDay` (the same
+  authority as the EF Mass), retiring the curated `entries.json` for EF display.
 
 ### The code-built `producer/mass` (built, form-aware)
 

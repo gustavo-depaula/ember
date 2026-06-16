@@ -51,7 +51,7 @@ jobs:
           mv _site_hearth/index.html _site/index.html
 
           # Auxiliary content served alongside the corpus (Bible, CCC, EF propers, etc.)
-          for d in art bible catechism lectionary liturgical propers saints; do
+          for d in art bible catechism lectionary propers saints; do
             if [ -d "_site_hearth/$d" ]; then
               mv "_site_hearth/$d" "_site/hearth/v2/$d"
             fi
