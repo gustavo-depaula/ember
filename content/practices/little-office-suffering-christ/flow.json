@@ -1,0 +1,507 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Initio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi! qui hora sexta pro redemptione mundi crucis patibulum ascendisti, et sanguinem tuum pretiosum in remissionem peccatorum nostrorum fudisti: Te humiliter deprecamur, ut post obitum nostrum, Paradisi janua nos gaudenter introire concedas. Qui vivis, et regnas cum Deo Patre, etc."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDeus qui in praeclara salutiferae Crucis Inventione, Passionis tuae miracula suscitasti: concede, ut vitalis ligni pretio aeternae vitae suffragia consequamur. Qui vivis, et regnas, etc."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDeus qui nos hodierna die Exaltationis sanctae Crucis annua solemnitate laetificas: praesta, quaesumus, ut cujus mysterium in terra cognovimus, ejus redemptionis praemia in coelo mereamur. Per Dominum etc."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies, etc.\n℟. Et os meum annuntiabit, etc.\n℣. Deus in adjutorium, etc.\n℟. Domine ad, etc.\n℣. Gloria Patri, et Filio, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus (e Psalmo 21)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ego autem sum vermis, et non homo:\nopprobrium hominum,\net abjectio plebis.\nOmnes videntes me, deriserunt me:\nlocuti sunt labiis, et moverunt caput."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Pro Februario"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Contritum est cor meum in medio mei,\n℟. Contremuerunt omnia ossa mea. Jerem. 23. v. 9.\nOratio Domine Jesu Christe etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Pro Majo"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Hoc signum Crucis erit in Coelo, Alleluia.\n℟. Cum Dominus ad judicandum venerit, Alleluia.\nOratio Deus! qui praeclara etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Pro Septembri"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. O Crux splendidior cunctis astris!\n℟. Salva praesentem coetervam in tuis hodie laudibus congregatam.\nOratio Deus, qui nos etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus (e Psalmo 21)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tribulatio proxima est:\nquoniam non est, qui adjuvet.\nCircumdederunt me vituli multi:\ntauri pingues obsederunt me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Pater mi! si possibile est,\ntranseat a me calix iste.\n℟. Verumtamen, non sicut ego volo,\nsed sicut Tu."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio Domine Jesu Christe ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe,\net benedicimus tibi, Alleluia.\n℟. Quia per crucem tuam redemisti mundum, Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. O nobile lignum exaltatur,\nChristi fides rutilat.\n℟. Dum Crux ab omnibus veneratur."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus (e Psalmo 21)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aperuerunt super me os suum,\nsicut leo rapiens et rugiens.\nSicut aqua effusus sum,\net dispersa sunt ossa mea:\nfactum est cor meum tanquam cera\nliquescens in medio ventris mei."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. O vos omnes! qui transitis per viam, attendite:\n℟. Et videte, si est dolor, sicut dolor meus. Thren. I. v. 12."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio Domine Jesu Christe ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. O magnum pietatis opus! Alleluia.\n℟. Mors mortua tunc est, in ligno quando mortua vita fuit, Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Tuam Crucem adoramus Domine:\n℟. Et recolimus tuam gloriosam Passionem."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus (e Psalmo 21)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aruit tanquam testa virtus mea,\net lingua mea adhaesit faucibus meis:\net in pulverem mortis deduxisti me.\nQuoniam circumdederunt me\ncanes multi: consilium malignantium obsedit me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Dedit percutienti se maxillam:\n℟. Saturatus est opprobiis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio Domine Jesu Christe, ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Salva nos Christe Salvator, Alleluia.\n℟. Per virtutem S. Crucis, Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Hoc Signum Crucis erit in coelo:\n℟. Cum Dominus ad judicandum venerit."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus (e Psal. 21)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Foderunt manus meas, et pedes meos,\net dinumeraverunt omnia ossa mea,\nIpsi vero consideraverunt; et inspexerunt me:\ndiviserunt sibi vestimenta mea,\net super vestem meam miserunt sortem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sicut ovis ad occisionem ductus est:\n℟. Et quasi Agnus coram tondente se obmutuit. Isaiae 53. v. 7."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio Domine Jesu Christe, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ecce Crucem Domini, Alleluia.\n℟. Fugite partes adversae, Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. O Crux benedicta!\n℟. Quae sola digna fuisti portare Regem Coelorum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus (e Psal. 37)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui inquirebant mala mihi,\nlocuti sunt vanitates,\net dolos tota die meditabantur,\nEgo autem tanquam surdus non audiebam,\net sicut mutus non aperiens os suum,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Humiliavit semetipsum:\n℟. Factus obediens usque ad mortem, mortem autem Crucis. Philip. 2. v. 8."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio Domine Jesu Christe, ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Nos autem gloriari oportet, Alleluia.\n℟. In Cruce Domini nostri Jesu Christi. Alleluia. Gal. 6. v. 4."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per lignum servi facti sumus:\n℟. Et per sanctam Crucem liberati sumus."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus, etc.\n℣. Deus in adjutorium, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus (e Psal. 68)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Improperium exspectavit cor meum, et miseriam,\net sustinui, qui simul contristaretur, et non fuit,\net qui consoleretur, et non inveni,\nEt dederunt in escam meam fel,\net in siti mea potaverunt me aceto."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Tradidit in mortem animam suam.\n℟. Et cum sceleratis reputatus est. Isaiae 53. 12."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oratio Domine Jesu Christe, ut supra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum Crucis, Alleluia.\n℟. De inimicis nostris libera nos Deus noster, Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ad Crucis contactum resurgunt mortui:\n℟. Et Dei magnalia referantur."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Pro me care Jesu nate,\nInque truces poenas date,\nEt cruenta vulnera.\nDa, o Jesu! ne tam dura\nPoena mortis et tortura\nSit in nobis perdita."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Da, o Jesu! triste flere,\nDe peccatis da dolere,\nEt patrata plangere.\nPatris iram, ne me perdant,\nNec urendum orco tradant,\nTuo seda sanguine.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Commendatio"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Pro Majo, et Septembri."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ut Crux Christi contemnatur;\nSummi studet Tartarus;\nNam qui ipsam aspernatur,\nNon est Dei Filius.\nPer torturam Jesu trucem\nOro te, et vulnera,\nCordi meo fige Crucem,\nIlla muni pectora.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Suspiria ad Christum patientem."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O Domine Jesu Christe: adoro te, in cruce pendentem; coronam spineam in capite portantem: deprecor te, ut tua Crux liberet me ab Angelo percutiente.\nPater. Ave.\nO Domine Jesu Christe! adoro te in cruce vulneratum, felle et aceto potatum: deprecor Te, ut vulnera tua sint remedium animae meae.\nPater. Ave.\nO Domine Jesu Christe! rogo Te per illam amaritudinem passionis tuae, quam in hora mortis sustinuisti, maxime tunc, quando anima sanctissima de benedicto corpore tuo egressa est, miserere animae meae in egresso suo de corpore meo, et perduc eam in vitam aeternam.\nPater. Ave.\nO Domine Jesu Christe! adoro te in sepulchro positum, mirha, et aromatibus conditum: deprecor te, ut tua mors sit vita mea.\nPater. Ave.\nO Domine Jesu Christe! adoro te descendentem ad inferos, et tuos inde liberantem captivos: deprecor te, ut illuc nunquam me patiaris introire.\nPater. Ave.\nO Domine Jesu Christe! adoro te, a mortuis resurgentem, et in Coelum ascendentem, sedentemque ad dexteram Patris: deprecor te, ut illuc te sequi, et tibi praesentari merear.\nPater. Ave.\nO Domine Jesu Christe! Pastor bone! justos conserva, peccatores justifica, omnibus fidelibus miserere, et propitius etiam mihi misero et indigno peccatori.\nPater. Ave."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio ad Deum Spiritum Sanctum"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Cognovi te Deum verum, et unum Spiritum Sanctum Patris, et Filii, ab utroque pariter procedentem, consubstantialem, et coaeternum Patri, et Filio, Paraclitum et Advocatum nostrum, qui super eundem Deum, et Dominum nostrum Jesum Christum in columbae specie descendisti, et super Apostolos in linguis igneis apparuisti: qui et omnes SS. et electos Dei a principio tuae gratiae numere docuisti, et ora Prophetarum; ut enarrent mirabilia Regni Dei, aperuisti: qui ab omnibus Sanctis Dei cum Patre, et Filio simul adoraris, et conglorificaris."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Inter quos et ego servus tuus, et filius Ancillae tuae toto corde meo glorificabo nomen tuum, quoniam illuminasti me; Tu enim es vera Lux, et Lumen veridicum, ignis Dei, et Magister Spirituum, qui unctione tua, doces nos omnem veritatem, Spiritus veritatis, sine quo impossibile est placere Deo, quoniam tu ipse es Deus ex Deo, et Lux de luce, procedens a Patre Luminum ineffabiliter: et a suo Filio unico Domino nostro Jesu Christo: quibus consubstantialis, coaqualis, et coaeternus existens in unius Trinitatis essentia superessentialiter congloriaris, et conregnas."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Cognovi te unum Deum, vivum, et verum, Patrem, et Filium, et Spiritum Sanctum, trinum quidem in personis, sed unicum in essentia, quem confiteor, adoro, et glorifico toto corde meo: verum Deum solum, sanctum, immortalem, invisibilem, incommutabilem, inaccessibilem, imperscrutabilem, unum lumen, unum solem, et unum panem, unam vitam, unum bonum, unum principium, unum finem, unum Creatorem Coeli terrae, per quem omnia vivunt, per quem omnia subsistunt, per quem omnia gubernantur, reguntur, et vivificantur, quae in caelis sunt, et quae in terris, et quae sub terra, praeterquam non est Deus in Coelo, et in terra."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Cognitor mei, sic cognovi te; cognovi te per fidem tuam, quam inspirasti mihi lux mea, lumen oculorum meorum, Domine Deus meus, spes omnium finium terrae, gaudium laetificans juventutem meam, et bonum sustentans senectutem meam.\nAmen."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Omnipotens sempiterne Deus, qui dedisti famulis tuis in confessione verae fidei aeternae Trinitatis gloriam agnoscere; et in potentia Majestatis adorare Unitatem: quaesumus, ut ejusdem fidei firmitate ab omnibus semper muniamur adversis. Per Dominum nostrum Jesum Christum, etc."
+      }
+    }
+  ]
+}

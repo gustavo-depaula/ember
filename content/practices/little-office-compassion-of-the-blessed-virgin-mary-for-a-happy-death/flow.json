@@ -1,0 +1,405 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "From Rosetum Deiparae Virginis Mariae (1641)"
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Eia mea labia nunc annunciate.\n℟. Dolores et suspiria Virginis beatae.\n℣. Domina in adjutorium meum intende.\n℟. Et in hora mortis me potenter defende.\nGloria Patri, et Filio, et Spiritui Sancto, sicut erat in principio et nunc et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Virgo speciosa,\nVeni Mater dolorosa,\nFunde pias lacrymas.\nVidetum dulcem Natum,\nVide Jesum desolatum,\nCordis tui gladium.\nAmat meus amor flere,\nTibi Jesum condolere,\nTibi Virgo compati.\nJesu mi solamen esto,\nAdsis mihi, Virgo maesto,\nMortis in certamine. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quod est tibi cor Maria, quanta surgit Virgo pia, animo tristitia? Tibi Jesus valedixit, et cor tuum crucifixit, dum ad crucem properat.\n℣. O Virgo stans sub cruce, tristi corde,\n℟. Adsis mihi pia consolatrix in morte.\nDomina exaudi orationem meam.\nEt clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria Regina caelorum, Mater Domini nostri Jesu Christi, et mundi Domina, quae nullum derelinquis, et nullum despicis: respice me Domina, clementer oculis pietatis, et impetra mihi, a dilecto Filio tuo, cunctorum veniam peccatorum; ut qui nunc tuam dolorosam compassionem, devoto affectu recolo, in ultima vitae meae hora consolationem, et aeternae beatitudinis bravium capiam: Ipso, quem sub cruce flevisti, donante Domino nostro Jesu Christo, qui cum Patre et Spiritu Sancto vivit et regnat in Trinitate perfecta Deus, in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina exaudi, etc.\n℟. Et clamor meus, etc.\nBenedicamus Domino.\nDeo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina in adjutorium meum intende.\n℟. Et in hora mortis me potenter defende.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jesus orat, Jesus plorat,\nSanguis hinc, et inde torat,\nJesus sudat sanguinem.\nMoestus pallet in agone,\nMoestus in oratione,\nMetu mortis angitur.\nAmat meus amor flere, etc.\nJesu mi solamen esto, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Jesu te fatigat, amor mei captum ligat, amor tradit hostibus: hic se tibi colligare, hic amoris vicem dare, ardet, amat animus.\n℣. O Virgo stans sub cruce tristi corde,\n℟. Adsis mihi pia consolatrix in morte.\nDomina exaudi, etc.\nEt clamor meus, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria Regina caelorum, Mater Domini nostri Jesu Christi, etc. ut supra.\n℣. Domina exaudi, etc.\n℟. Et clamor meus, etc.\nBenedicamus Domino.\nDeo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina in adjutorium meum intende.\n℟. Et in hora mortis me potenter defende.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veste Jesus spoliatur,\nSubsannatur, flagellatur,\nManant rivii sanguinis.\nVide Virgo cor afflictum,\nJesum tuum derelictum,\nVide corpus lividum.\nAmat meus amor flere, etc. ut supra.\nJesu mi solamen esto, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Virgo pia quid sensisti, si vidisti, vel audisti, quas dedisti lacrymas? Virgae Christi te petebant, cor maternum absorbebant, Filii supplicia.\n℣. O Virgo stans sub cruce, tristi corde,\n℟. Adsis mihi pia consolatrix in morte.\nDomina exaudi, etc.\nEt clamor meus, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, Regina caelorum, Mater Domini nostri Jesu Christi, etc.\n℣. Domina exaudi, etc.\n℟. Et clamor meus, etc.\nBenedicamus Domino.\nDeo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina in adjutorium meum intende.\n℟. Et in hora mortis me potenter defende.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Irae spinae in hoc audent,\nSacrum caput, in quod gaudent,\nAngeli prospicere.\nEcce homo: jam non homo,\nEcce Adam hoc de pomo,\nPoenae monstrum generas.\nAmat meus amor flere, etc.\nJesu mi solamen esto, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Circum ferox miles ruit, vultus in divinos spuit: quid audes impietas? En Maria bellum vulrum, en in quo sic fuit vulnus, crimen nostri generis.\n℣. O Virgo stans sub cruce, tristi corde,\n℟. Adsis mihi pia consolatrix in morte.\nDomina exaudi, etc.\nEt clamor meus, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, Regina caelorum, Mater Domini nostri Jesu Christi, etc.\n℣. Domina exaudi, etc.\n℟. Et clamor meus, etc.\nBenedicamus Domino.\nDeo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina in adjutorium meum intende.\n℟. Et in hora mortis me potenter defende.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ple Jesu, Cruce pressus,\nPloras, cadis, gemis fessus,\nSub immensum pondere.\nSumis Pastor pedum crucis,\nAnte vadens oves ducis,\nAd aura pascua.\nAmat meus amor flere, etc.\nJesu mi solamen esto, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pastor bonus, lupum cernis, venientem cruce sternis, vitam das pro ovibus: Grex est iste tibi charus, sed est carus, est amarus, est ingentis pretii.\n℣. O Virgo stans sub cruce, tristi corde,\n℟. Adsis mihi pia consolatrix in morte.\nDomina exaudi, etc.\nEt clamor meus, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, Regina caelorum, Mater Domini nostri Jesu Christi, etc.\n℣. Domina exaudi, etc.\n℟. Et clamor meus, etc.\nBenedicamus Domino.\nDeo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina in adjutorium meum intende.\n℟. Et in hora mortis me potenter defende.\nGloria Patri, et Filio, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Stabas Mater dolorosa,\nJuxta crucem laerymosa,\nDum pendebat Filius.\nAstetisti scenae tristi,\nVidens latus mite Christi,\nPerforari lancea.\nAmat meus amor flere, etc.\nJesu mi solamen esto, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Expuasisti cum vidisti, vulnus datum tu sensisti, tuo Jesu mortuo: O doloris hora dura, quanta cor maternum cura, quanto scindis gladio!\n℣. O Virgo stans sub cruce tristi corde,\n℟. Adsis mihi pia consolatrix in morte.\nDomina exaudi, etc.\nEt clamor meus, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, Regina caelorum, Mater Domini nostri Jesu Christi, etc.\n℣. Domina exaudi, etc.\n℟. Et clamor meus, etc.\nBenedicamus Domino.\nDeo gratias."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Converte nos Virgo Maria,\nAverte a nobis Filii iram.\n℣. Domina in adjutorium meum intende.\n℟. Et in hora mortis me potenter defende.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quo vivebas Mater fato,\nDulci Nato tumulato,\nDulci Jesu Mortuo?\nTota Nato parentabas,\nQuem amabas, quem plorabas,\nCuris multis saucia.\nAmat meus amor flere, etc.\nJesu mi solamen esto, etc. ut supra."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fac me Virgo tecum flere, crucifixo condolere, donec ego vixero: Quando corpus morietur, fac ut animae donetur, paradisi gloria.\n℣. O Virgo stans sub cruce tristi corde,\n℟. Adsis mihi pia consolatrix in morte.\nDomina exaudi, etc.\nEt clamor meus, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, Regina caelorum, Mater Domini nostri Jesu Christi, et mundi Domina, etc. ut supra.\n℣. Domina exaudi, etc.\n℟. Et clamor meus, etc.\nBenedicamus Domino.\nDeo gratias."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

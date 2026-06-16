@@ -1,0 +1,399 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper,\net in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magni Patris magnae Proli,\nE Brunonis caelo Soli\nLingua laudes resonat,\nDulce melos intonat.\n\nNicolai Albergati,\nCaeli Civis ter Beati,\nCelebra memoriam,\nMeditare gloriam.\n\nCandicantem puritatem,\nPurpuratam sanctitatem,\nSacras decet Violas\nMagni Myrae recolat.\n\nPia tibi mens probetur\nDive, esto superetur\nLabii inopia\nLaudandorum copia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Ps. 21)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Apud Te laus mea in Ecclesia magna:\nVota mea reddam in conspectu timentium Eum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Benedicam Dominum in omni tempore.\n℟. Semper laus ejus in ore meo. (Ps. 33)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nExaudi quaesumus Domine preces nostras, quas in Beati Nicolai Confessoris tui atque Pontificis solemnitate deferimus:\net qui Tibi digne meruit famulari, ejus intercedentibus meritis, ab omnibus nos absolve peccatis.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vix illustri stirpe fatum,\nJam ad magna videt natum\nTanto cive patria\nCelebris Bononia.\n\nPrimum florem juventutis\n(ut, quam ferax est virtutis,\nesset et scientiae)\nDat juris prudentiae.\n\nSed ad summa destinatus,\nRes, spes mundi aversatus\nFugit fasces Curiae,\nSacrat se Carthusiae.\n\nO beata solitudo,\nSola es beatitudo!\nIstud Dive capiam,\nUt vel sero sapiam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Eccles. 2, 6)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vidi in omnibus vanitatem et afflictionem animi,\net nihil permanere sub sole."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Beatus est vir, cujus est nomen Domini spes ejus.\n℟. Et non respexit in vanitates et insanias falsas. (Ps. 39)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quanto quaerit plus latere,\nUrbi tanto resplendere\nCoeperit virtus rarior,\nLux ab umbra clarior.\n\nQuam ut Roma coronaret,\nQuo sic latius micaret,\nLinqui jubet cellulam,\nPatriae dat Insulam.\n\nTantum nacta Urbs Pastorem,\nNovum induit decorem,\nExul redit Sanctitas,\nExultat improbitas.\n\nMihi, Dive, fac viliscam,\nEt ignotus delitescam,\nSanctitate inclytus,\nSoli Deo cognitus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Agg. 2)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Assumam te Zorobabel serve meus, et ponam te quasi signaculum, quia te elegi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Caput in tribubus Israel factus es.\n℟. Cum parvulus esses in oculis tuis. (1 Reg. 15)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vix haec Viola florescit,\nJam in purpuram rubescit;\nUnius Bononiae\nCardo fit Ecclesiae.\n\nPurpuratus nil rigoris\nVitae minuit prioris,\nIn se inclementior,\nQuanto eminentior.\n\nSic spinosa Christi Ducis\nCardinalis Sanctae Crucis\nScandit per vestigia\nNominis fastigia.\n\nNicolae, non honores\nIncorruptos mutent mores,\nChristianus nomine,\nSim, et ipso omine."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Gal. 6)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mihi autem absit gloriari nisi in Cruce Domini nostri Jesu Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Dilectus meus candidus et rubicundus. (Cant. 5)\n℟. Qui pascitur inter Lilia. (Cant. 2)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sic in se pie crudelis\nCurat populi fidelis\nLeni manu vulnera,\nMatris gestans viscera.\n\nAdgemiscit ingementi,\nPronus solvit poenitenti\nPeccatorum vincula,\nAbolet piacula.\n\nHinc ut orbi mederetur\nAegrienti, Magnus detur\nPoenitentiarius,\nChristi vult Vicarius.\n\nPro me Deum deprecare,\nUt peccanti salutare\nDonum poenitentiae\nDet, et indulgentiae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Jerem. 1)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Constitui te hodie super gentes, et regna, ut evellas et destruas, et disperdas, et dissipas, et aedifices, et plantes."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Inveni Filium Jesse virum secundum cor meum.\n℟. Qui fecit omnes voluntates meas. (Act. 13)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Apostolicus Legatus\nTurbidos regnorum status\nIntegrat oraculis,\nRoborat miraculis.\n\nPacis studio Togatus,\nAulis Principum sagatus\nFert de Marte Lauream,\nPlantat Pacis Oleam.\n\nObstupescunt Orbis partes\nRem gerendi sacras artes,\nApprobant Concilia\nAngeli Consilia.\n\nNostros Dive, terge luctus,\nDulces Pacis posse fructus!\nCordaque discordia\nUniat Concordia!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Jerem. 28)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quaerite pacem Civitatis, ad quam transmigrare vos feci, et orate pro ea ad Deum: quia in pace illius erit Pax vobis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. In doctrina glorificate Dominum. (Jerem. 24)\n℟. Et docete eos servare omnia, quae praecepi vobis. (Matth. 28)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sic dum Deo militat,\nAd promissum evolavit\nPraemium militiae:\nLauream justitiae.\n\nIn amoris argumentum\nPietatis monumentum\nSacrae, vult, Exuviae\nCederent Carthusiae.\n\nSic cui cella est viventi,\nCaelum, decet, quiescenti.\nMollem sternat lectulum\nGloriae in cumulum.\n\nO si detur morte pari\nFungi, tibi sociari\nIn supernis aedibus,\nBeatorum sedibus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (2 Cor. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Scimus quoniam si terrestris domus nostra hujus habitationis dissolvatur, quod aedificationem ex Deo habemus, domum non manufactam in caelis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Pretiosa in conspectu Domini. (Ps. 115)\n℟. Mors Sanctorum ejus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Gloriose Coeli Civis!\nTuum sentiam ubivis!\nFave! Patrocinium,\nValidum Praesidium!\n\nRege linguam, aures, tactum,\nRege gustum, et olfactum,\nVagos Rege oculos,\nAnimorum scopulos.\n\nVincam carnis blandimenta,\nVana daemonis figmenta\nLudam, et fallacias;\nSpernam mundi gratias.\n\nAegrienti Archiaeter,\nPoenitenti esto Pater,\nDissidentem erige,\nPraesidentem corrige.\n\nDa virtutes imitari,\nPretiosa aemulari\nSanctitatis dogmata,\nGratiae Charismata."
+      }
+    }
+  ]
+}

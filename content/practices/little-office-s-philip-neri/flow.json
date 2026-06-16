@@ -1,0 +1,423 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te Philippe quam amavit\nDei providentia!\nQuam te Numen exornavit\nSingulari gratia!\nA juventae pietatis,\nMirae jam sanctitatis\nDederas specimina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Philippus piis, honestisque parentibus Florentiae natus, ab ipsa ineunte aetate non obscura dedit futurae sanctitatis indicia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO clementissime Deus, qui dilectum famulum tuum Philippum Nerium jam tenera in aetate multis sanctitatis tuae signis decorasti: oramus te igitur per insignia sancti tui merita, ut nos ad illum virtutis tramitem dirigere digneris, qui nos ad te, tanquam ad finem, unicamque animae nostrae metam perducat. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum etc.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Iter Romam subiit,\nCharam linquens patriam,\nRaram ubi ostendit\nIndolis praestantiam,\nTotum Christo te sacrando,\nLibertatem resignando,\nVitam et substantiam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ampla patrii haereditate dimissa Romam se contulit, ubi Philosophiae et Sacris Literis eruditus, atque sacerdos ex ordinatione factus, totum se Christo dicavit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO benignissime Deus, qui dilectum famulum tuum Philippum Nerium ad singularem tui notitiam eveheti; adeo, ut sanctissimae tuae totum sese voluntati transcriberit: dignare, o Deus, et nos per sancti tui merita, ad talem tui notitiam perducere, ut nihil, quam tui soli fovere cupiamus. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Totum Dei dum amore\nPectus suum aestuat,\nTota proximi ardore\nMensque incaluerat,\n\nDic! quot fervor animarum\nIste fontes lachrymarum\nTibi non extorserat?"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tanto Cor ejus aestuabat amore, ut cum inter fines suos contineri non posset, confractis duabus costis, Dominus illud mirabiliter ampliaverit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO amantissime Deus, qui famulum tuum Philippum Nerium tanto tui amoris incendio inflammasti, ut saepius igneae ex oculis erumperent scintillae viderentur, tantoque hic etiam proximi ardore flagraret, ut persaepe copiosissimos lachrymarum imbres effunderet: rogamus te igitur, o fons veri amoris, per merita famuli tui, ut tantum tui proximique amorem cordibus nostris infundas, quo nihil aliud quam te, et proximum diligere cogitemus. Per Dominum nostrum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu parabas afflictorum\nCordibus solatia,\nIndurata peccatorum\nMolliens praecordia;\nQuotquot ad te proflugebant,\nOpem inter pericula\nCuras et pericula."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Egenos et pauperes omni charitatis officio prosequebatur, absentibus inferendum apparatu, ipsis de periculantibus open cultu."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nMisericordissime Domine, qui sanctum Philippum Nerium tantis gratiarum cumulasti divitiis, ut omnes quibuscunque angustiarum afflictionibus pressi, solamen apud ipsum quaerentes, securissime illud invenerint: da igitur, o Pater misericordiarum, ut beati hujus famuli tui meritis, et nos a gravioribus animi anxietatibus atque periculis liberemur. Per Dominum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Illium Virginitatis\nCustodivit sedulo,\nUt in flore puritatis\nViveret perpetuo,\nTela Cypridis vicit,\nEt illius vim fregit\nForti precum gladio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Virginitatem perpetuo illibatam servavit id affectus, ut eos, qui puritatem colerent, ex odore, qui vero secus, ex foetore dignosceret."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO purissime Domine, et tenerime Virginis castitatis amator, qui sanctum Philippum Nerium speciali hoc gratiae dono exornasti, quod ejusdem corpus tam amabilem castitatis odorem reddidit, ut omnes, qui illud adstarent, mirabiliter suavi recrearet: oramus te igitur, per insignem hanc famuli tui castimoniam, ut nos ad candidam puritatis lilium donare digneris, et aliquando digni habeamur, te purissimum et divinissimum Sponsum a facie ad faciem intueri. Per Dominum nostrum Jesum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Diu postquam praeluxit\nMira patientia,\nEt virtutum coluit\nFerrea constantia,\nQua te per sanctam mortem\nChristus, o beatam sortem,\nVocat ad convivia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Octava Calendas Junias, in quem diem incidebat festum Corporis Christi, sacroque maxima Spiritus exultatione peracto, mediam noctem octogenarius obdormivit in Domino."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO patientissime Domine, et virtutis praemiator, qui miram beati famuli tui Philippi Neri in adversis patientiam, et eximiam virtutis constantiam aeterni in coelo gloria remunerasti: quaesumus Domine, ut nos quoque, per gloriosa sancti tui suffragia, fortes in rebus omnibus adversis patientiam, et heroicam in virtutis tramite constantiam usque ad vitae nostrae exitum mereamur servare. Per Dominum nostrum Jesum etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Philippe coeli lumen,\nClericorum gloria,\nPer quem maxima jam Numen\nExhibet miracula;\nEsto nobis semper pronus,\nDux fidelis et patronus,\nQuavis in miseria."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Innumeros pene filios Christo peperit, aegrotos plurimos, mortique proximos restituit sanitati, et mortuorum revocavit ad vitam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO patientissime Domine, qui insignem sancti Philippi Nerii sanctitatem plurimis illustrasti miraculis, adeo, ut gloriosum illius nomen omnium extollatur linguis, ac celebretur encomiis: oramus te igitur, ut nos beati hujus famuli tui meritorum facere digneris participes. Per Dominum nostrum Jesum Christum etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Hasce supplices, beate,\nPreces tibi suscipe,\nSint te hic dedicatae\nIntimo ex pectore:\nAdsis nobis o patrone,\nNunc et mortis in agone\nNos Philippe protege."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Verbo Dei, sacramentorum frequentia, orationis assiduitate, aliisque pietatis operibus omnes cupiens enutriri, Oratorii instituit congregationem."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nDeus, qui beatum Philippum confessorem tuum sanctorum gloria sublimasti: concede, propitius, ut ejus solemnitate laetamur, ejus virtutem prosequamur exemplis. Per Dominum nostrum Jesum Christum etc."
+      }
+    }
+  ]
+}

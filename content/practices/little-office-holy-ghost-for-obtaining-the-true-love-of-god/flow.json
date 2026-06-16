@@ -1,0 +1,410 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Praeparatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Qui procedis ab utroque,\nGenitore, Genitoque,\nSpiritus Paraclyte!\nRedde linguas eloquentes,\nSed accende primum mentes\nCharitatis fomine."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Fac, o dulcis coeli aura,\nCorque nostrum sic instaura,\nPietatis flammulis,\nUt quae fundimus haec vota,\nEx amore fluant tota,\nSacri plena pneumatis."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple tuorum corda fidelium, et tui amoris ignem in eis accende.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu procedens a duobus,\nCoaequalis es ambobus,\nNulla est disparitas;\nPar Majestas Personarum,\nPar Potestas singularum,\nEt communis Deitas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amor Patris, Filiique,\nPar amborum, et utrique\nGloria consimilis,\nCoelos imples, terras foves,\nMare domas, cuncta moves,\nPermanens immobilis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ure igne, Sancte Spiritus, renes nostros, et cor nostrum Domine.\n℟. Ut tibi casto corpore serviamus, et mundo corde placeamus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, cui omne cor patet, et omnis voluntas loquitur,\net quem nullum latet secretum: purifica per infusionem Sancti Spiritus\ncogitationes cordis nostri, ut te perfecte diligere et digne laudare mereamur.\nPer Dominum nostrum Jesum Christum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Et Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu commutas elementa,\nPer te sua sacramenta\nPraestant efficaciam.\nTu malignam vim repellis,\nTu subvertis et refellis\nHostium nequitiam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te docente nil obscurum,\nTe praesente nil impurum,\nCuncta sunt splendida;\nGloriatur mens jucunda,\nPer te sana, per te munda,\nGaudet conscientia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ure igne, etc. cum Oratione."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quando venis, corda lenis,\nQuando subis, atrae nubis\nPellitur obscuritas.\nSacer ignis pectus uris,\nNon comburis, sed a curis\nEruis, dum visitas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mentes prius imperitas,\nEt sopitas et oblitas\nInstrui et excitas,\nCor ad fidem facis pronum,\nOri muto reddis sonum,\nManans ex te claritas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ure igne, etc. cum Oratione."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O quam felix, quam festiva\nDies, in qua primitiva\nConditur Ecclesia,\nSunt primitias jam vivae,\nNeonatae Matris Divae\nTria plebis millia;"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Panes Legis primitivi,\nUna fiant adoptivi\nFide duo populi;\nNempes duos unum fecit,\nCum duobus se praefecit\nLapis caput anguli."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ure igne, etc. cum Oratione."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu perversos corde vitas,\nSed sinceros mente ditas\nDono sapientiae,\nVeritatem notam facis,\nEt ostendis viam pacis,\nSemitas justitiae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dat liquorem Helisaeus,\nLargum fundit rorem Deus,\nUbi vasa vacua,\nUtres novi non vetusti\nSunt capaces novi musti,\nSint et nostra pectora."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ure igne, etc. cum Oratione."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed nec musto vel liquore,\nNec hoc digni sumus rore,\nSi discordes moribus.\nIn obscuris vel divis,\nSancta nequit Paraclysis\nHabitare cordibus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Consolator ergo veni,\nLinguas rege, corda leni,\nPelle fel et toxica,\nNil salubre, nil serenum,\nNihil dulce, nihil plenum,\nSine tua gratia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ure igne, etc. cum Oratione."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O ter salubre unguentum!\nAquae ditans elementum\nSacro in baptismate!\nTe laudamus mente pura,\nPrius irae, ex natura,\nGratiae nunc filii!"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu quid dator es et donum,\nEx quo omne fluit bonum,\nCor perfunde gaudio,\nTange mentem, purga sordes,\nVinclo pacis fac concordes,\nJugi sis praesidio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ure igne, etc. cum Oratione."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Veni Sancte Spiritus, reple, etc.\n℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sicut post Ascensum Christi\nRudes linguis inbuisti\nVaris discipulos,\nSic nos vise, sic dignare,\nDissidentes congregare,\nUna fide populos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Demum mortis ab hac valle\nDuc ad vitam recto calle,\nLaetos de victoria,\nUbi Patris, ubi tui,\nEt aeterni Verbi frui\nMereamur gloria."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Ure igne, etc. cum Oratione."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Oblatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Has ut tela, ergo Horas,\nAd te sub Olympi oras\nSancte mitto Spiritus!\nTelis tu remitte tela,\nQuaeis petatur mens anhela\nTuis ab amoribus!"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ecce metam, punctum cordis!\nVibra, feri: nil hic mortis\nEst pavendum animae,\nCentrum peto, tu si petis,\nNam ambobus una laetis\nMeta est victoriae. Amen."
+      }
+    }
+  ]
+}

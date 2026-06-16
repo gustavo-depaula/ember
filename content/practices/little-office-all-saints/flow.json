@@ -1,0 +1,566 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:\nLaus tibi, Domine; Rex aeternae gloriae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus ad B. Virginem Reginam Sanctorum omnium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Mater! O senatus\nRegina coelicolae,\nThronusque praeparatus\nIn orbe Numini!\nTe nominat parentem\nCreator omnium;\nTe praedicat potentem\nCaterva supplicum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te, Mater, opto mille\nLaudare vocibus,\nEt mille, mille, mille\nAmore cordibus.\nCor millies renatum\nSi, Mater, imples,\nCor millies dicatum,\nO Mater, auferes."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Luc. 1, 48, 49."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatum te dicent omnes generationes: quia fecit tibi magna, qui potens est, et sanctum nomen ejus.\n℣. Benedicta tu in mulieribus.\n℟. Et benedictus fructus ventris tui."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens aeterne Deus, qui beatissimam Virginem Mariam innumeris donis et gratiis exornatam, in Matrem unigeniti Filii tui elegisti, et super omnes Angelos et electos in regno tuo exaltasti: concede propitius ut qui eam interitus colimus, ejusdem patrocinio aeternam gloriam consequamur. Per eundem Christum Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Amen.\n℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus ad SS. Angelos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O candidae cohortes\nStellantum aetheris!\nPrompte fertis sortes\nEt lata Numini:\nVos ore triplicato,\nTernoque carmine,\nTer Sanctum ordinato\nCantatis agmine."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ah! possit esse mima\nVox nostra coelitum,\nUt summa vox optima\nDet suave canticum!\nFovete mille corda,\nUt inde concinat\nFiat vel una chorda\nAptanda musica."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Ps. 137. 2."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In conspectu Angelorum psallam tibi, Deus meus: adorabo ad templum sanctum tuum, et confitebor Nomini tuo.\n℣. Angelis suis Deus mandavit de te.\n℟. Ut custodiant te in omnibus viis tuis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens aeterne Deus, qui et majestatem tuam in numero et sanctitate Angelorum ostendis; et nobis eosdem Custodes, et Magistros tribuisti: concede propitius, ut eorum exemplo tibi ita serviamus in terris, ut aeternum cum iisdem te laudare mereamur in coelis. Per Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi, supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus ad SS. Patriarchas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spectabilis senecta,\nSalvete, principes,\nQuos vita mensque recta\nFecere coelites.\nVos terra Patriarchas\nDuceque nuncupat;\nSed rectius monarchas\nVos aether praedicat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spes vera nascitur\nParente Virgine,\nCui firmiore muro\nEst visa surgere.\nEt nostra spes in isto\nSuspensa cardine,\nUniquae nixa Christo\nStat firma numine."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Ps. 21, 4, 5."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In te speraverunt Patres nostri: speraverunt et liberasti eos; ad te clamaverunt et salvi facti sunt.\n℣. Notas mihi fecisti vias vitae.\n℟. Adimplebis me laetitia cum vultu tuo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens aeterne Deus, qui sanctos Veteris Testamenti Patriarchas propter constantem mandatorum tuorum observationem, et fidem in promissum Unigeniti tui mundi Redemptoris venturi praemia beatitudinis aeternae tribuisti: praesta, quaesumus, ut illorum exemplo in tui participationem consortii mereamur concedi. Per eundem Christum Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus ad SS. Prophetas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O sancta turba Patrum,\nQuae mente provida\nProducis in theatrum\nVentura tempora,\nArcana multa pandens\nDe prole Numins,\nPer dura multa scandens\nAd limen aetheris!"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In orbe vos labores\nPressere feri:\nIn aevum nunc honores\nRedundant aurei.\nJuvate, sic fideli\nSequermur orbita,\nDomne superna caeli\nIntermus atria."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Matth. 23, 37."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jerusalem, Jerusalem, quae occidis Prophetas, et lapidas eos, qui ad te missi sunt! quoties volui congregare filios tuos, quemadmodum gallina congregat pullos sub alas, et noluisti!"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Da mercedem sustinentibus te.\n℟. Ut prophetae tui fideles inveniantur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nOmnipotens sempiterne Deus, qui Prophetas tuos sancti Spiritus gratia illuminatos et confortatos, per plurimas hujus vitae adversitates ad aeternam gloriam luce lumen perduxisti: concede propitius; ut nos eodem sancti Spiritus lumine illustrati, te Deum verum, et quem misisti, Dominum Jesum Christum, ita in terris agnoscamus et colamus, ut in coelis clare intueri, et perfecte possidere mereamur. Per eundem Christum Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus Ad SS. Apostolos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O ordo nuntiorum,\nO clara luminaria,\nEt orbis est polorum\nBis sena sidera!\nVobis ad astra clavis\nEst certa tradita,\nEcclesiaeque navis\nIn orbe credita."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quae sacra seminastis\nUbique semina,\nEt voces praedicastis\nFactisque dogmata.\nAh! imperate lumen,\nUt corde impleam;\nAh! invocate Numen,\nFactis ut exprimam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Matth. 19. 28."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen. dico vobis, quod vos, qui secuti estis me, in regeneratione, cum sederit Filius hominis in sede Majestatis suae, sedebitis et vos super sedes duodecim, judicantes duodecim tribus Israel."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Nimis honorificati sunt amici tui, Deus.\n℟. Nimis confortatus est principatus eorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, qui novam charitatis legem pectoribus nostris per beatos Apostolos tuos infudisti: horum nobis, quaesumus, intercessione concede; ut jugum Novae Legis ista jugum prompta voluntate amplectamur, et opere perfecto expleamus. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus Ad SS. Martyres."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O turba laureata,\nO agmen inclytum,\nChristique purpurata\nCaterva Martyrum!\nAthletico duella\nAgressa robore,\nEt gloriosa bella\nEdocta vincere."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Da bella sic capessam,\nQuae semper ingruunt,\nHostesque sic lacessam,\nQui semper impetunt,\nUt victor in superna\nTheatra transferar,\nLauroque sempiterna\nTecum revincier!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Apoc. 7. 14. 15."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hi sunt qui venerunt de tribulatione magna, et laverunt stolas suas, et dealbaverunt eas in sanguine Agni. Ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Exsultabunt Sancti in gloria.\n℟. Laetabuntur in cubilibus suis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, cujus acerbissima passio et justorum Martyrum constantia, martyres abundantem gratiam concessit sunt, ut pro confessione nominis tui sanguinem suum fuderiut: concede propitius; ut et nos eorum meritorum abundantia, et Martyrum tuorum intercessione, constantem fidem tuam profiteamur, et semper mortificationem tuam, Jesu, in corpore nostro circumferre valeamus. Qui vivis et regnas in saecula saeculorum.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus ad SS. Confessores."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O casibus probati\nHeroes arduis,\nAd multa dura nati\nIn rebus asperis!\nVos mille activitati\nSors dura fluctibus,\nOrbibus crebro probavit\nTentator ictibus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tullistis illa laeto\nFirmoque pectore,\nDum staret inquieto\nCarina litore.\nCor imperate forte,\nUt dura perferam,\nContentus esse sorte\nQuacumque queadam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Sap. 5. 1."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Stabant justi in magna constantia adversus eos, qui se angustiaverunt, et qui abstulerunt labores eorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ecce quomodo computati sunt inter filios Dei.\n℟. Et inter Sanctos sors illorum est."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, cujus doctrina et exemplo Confessores tui mites et humiles facit, et requiem animabus suis in hac et in altera vita consecuti sunt: da nobis gratiam eorumdem vestigiis devote ita hic investire; ut demum ad aeternae quietis locum pervenire feliciter mereamur. Qui vivis et regnas in saecula saeculorum.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in Sanctis ejus: laudate eum in firmamento virtutis ejus.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus ad SS. Virgines."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O digna lilietis\nCaterva coelicis!\nQuae vivis in viretis,\nSponsisque pascuis!\nNix cana liliorum\nAlberte vellere,\nEt lac eburneum florum\nTe vestit undique."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu carmen innocentii\nScis ore fundere,\nQuod colites silentii\nMirantur aethere.\nValete, vah! valete,\nImpura basia,\nMihi nec invidete\nHaec casta gaudia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Apoc. 14. 3. 4."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cantabant quasi canticum novum, et nemo poterat dicere canticum, nisi illa centum quadraginta quatuor millia, qui empti sunt de terra. Hi sunt qui cum mulieribus non sunt coinquinati; Virgines enim sunt; hi sequuntur Agnum quocumque ierit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Hi empti sunt ex hominibus primitiae Deo et Agno.\n℟. Et in ore eorum non est inventum mendacium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, sponse et singularis amator animarum, quas prae ceteris Sanctis in regno tuo peculiari laureola coronas, largire nobis gratiam ut eandem vestigiis insistentes, eadem quoque praemia consequamur. Qui vivis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi. ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Oblatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O coelici quirites\nTonantis aulici,\nPost bella postque lites\nIn axe fulgidi!\nClientuli precantis\nNe vota spernite,\nServique vos vocantis\nNe verba temnite."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Adeste quando vitae\nEst lapsa clepsydra,\nAd vota tunc venite,\nO viva sidera!\nTunc transitum parate\nAd celsa limina,\nTerrisque me vocate\nAd vestra gaudia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio S. Augustini ad Omnes Sanctos."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O felices Sancti Dei omnes, qui jam transistis hujus mortalitatis plagam, et pervenire meruistis ad portum perpetuae quietis, et aeternae pacis: securi constituti, semperque felicissimi, semperque gaudentes, et a nobis alieni. Obsecro vos per vestram charitatem, qui securi estis de vobis, solliciti estote de nobis; securi estis de vestra immarcescibili gloria, solliciti estote de nostra multiplici miseria. Per ipsum vos rogo, qui vos elegit, qui vos tales fecit, de cujus pulchritudine laetaminari, de cujus immortalitate jam immortales facti estis, de cujus beatissima visione semper gaudetis.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio ad S. Patronum, cujus quis nomen habet."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O sancte N., qui in sacro baptismatis fonte mihi in Patronum datus es, in te singularum auxilii spem colloco. Dirige, obsecro, pedes meos in viam virtutis; ut ad vitae tuae regulam digne conversatione mea ambulem. Doce, et guberna me in puritate animi, tum corporis; et intercessione tua contra mortis articulos et adversus diabolum, et cum omnibus Sanctis, pariter animae aeternam gloriam obtinere merear in caelis.\nPer Dominum."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "sections": [
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Omni die Dominica a Sororibus persolvendum."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In unitate Sancti Spiritus benedicat nos Pater et Filius."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sancti Spiritus adsit nobis gratia.\n℟. Qui corda nostra sibi faciat habitacula."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Quae Antiphona cum versiculo et responsorio sic dicitur in initio uniuscujusque horae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Cujus loco a Septuagesima usque ad Pascha dicitur:\nLaus tibi, Domine, Rex aeternae gloriae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus I"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus vir, qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit:\nSed in lege Domini voluntas ejus, et in lege ejus meditabitur die ac nocte.\nEt erit tamquam lignum, quod plantatum est secus decursus aquarum, quod fructum suum dabit in tempore suo.\nEt folium ejus non defluet: et omnia quaecumque faciet, prosperabuntur.\nNon sic impii non sic: sed tamquam pulvis, quem projicit ventus a facie terrae.\nIdeo non resurgent impii in judicio: neque peccatores in consilio justorum.\nQuoniam novit Dominus viam justorum: et iter impiorum peribit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus, reple tuorum corda fidelium, et tui amoris in eis ignem accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congregasti. Alleluia, alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "A Septuagesima usque ad Pascha, omittitur Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Rom. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti pectora."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui Paraclitus diceris,\nDonum Dei altissimi,\nFons vivus, ignis, caritas,\nEt spiritualis unctio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu septiformis munere,\nDextrae Dei tu digitus,\nTu rite promissum Patris,\nSermone ditans guttura."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Accende lumen sensibus,\nInfunde amorem cordibus,\nInfirma nostri corporis,\nVirtute firmans perpeti."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hostem repellas longius,\nPacemque dones protinus,\nDuctore sic te praevio,\nVitemus omne noxium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per te sciamus da Patrem,\nNoscamus atque Filium,\nTe utriusque Spiritum\nCredamus omni tempore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit laus Patri cum Filio,\nSancto simul Paraclito,\nNobis quoque mittat Filius\nCharisma Sancti Spiritus.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Quae Antiphona, capitulum et Hymnus per omnes horas in hoc Officio de Sancto Spiritu repetuntur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Spiritus Domini replevit orbem terrarum.\n℟. Et hoc quod continet omnia scientiam habet vocis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Accipite."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Zachariae (Luc. 1)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus Dominus Deus Israel, quia visitavit et fecit redemptionem plebis suae.\nEt erexit cornu salutis nobis, in domo David pueri sui.\nSicut locutus est per os sanctorum, qui a saeculo sunt, prophetarum ejus.\nSalutem ex inimicis nostris, et de manu omnium qui oderunt nos.\nAd faciendam misericordiam cum patribus nostris, et memorari testamenti sui sancti.\nJusjurandum, quod juravit ad Abraham patrem nostrum, daturum se nobis.\nUt sine timore, de manu inimicorum nostrorum liberati, serviamus illi.\nIn sanctitate et justitia coram ipso, omnibus diebus nostris.\nEt tu puer, Propheta Altissimi vocaberis: praeibis enim ante faciem Domini parare vias ejus.\nAd dandam scientiam salutis plebi ejus, in remissionem peccatorum eorum.\nPer viscera misericordiae Dei nostri, in quibus visitavit nos oriens ex alto.\nIlluminare his, qui in tenebris et in umbra mortis sedent, ad dirigendos pedes nostros in viam pacis.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Accipite Spiritum Sanctum, quorum remiseritis peccata, remittuntur eis. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "A Septuagesima ad Pascha omittitur Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus qui corda fidelium Sancti Spiritus illustratione docuisti: da nobis in eodem Spiritu recta sapere et de ejus semper consolatione gaudere. Per Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate ejusdem Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. In omnibus bonis operibus confortet nos Spiritus almus.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Sic terminatur omnis Hora in hoc Officio de Spiritu Sancto."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In unitate, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti pectora."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui Paraclitus diceris,\nDonum Dei altissimi,\nFons vivus, ignis, caritas,\nEt spiritualis unctio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per te sciamus da Patrem,\nNoscamus atque Filium,\nTe utriusque Spiritum\nCredimus omni tempore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit laus Patri cum Filio,\nSancto simul Paraclito,\nNobis quoque mittat Filius\nCharisma Sancti Spiritus.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 14"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine, quis habitabit in tabernaculo tuo? aut quis requiescet in monte sancto tuo?\nQui ingreditur sine macula, et operatur justitiam.\nQui loquitur veritatem in corde suo, qui non egit dolum in lingua sua.\nNec fecit proximo suo malum, et opprobrium non accepit adversus proximos suos.\nAd nihilum deductus est in conspectu ejus malignus: timentes autem Dominum glorificat.\nQui jurat proximo suo, et non decipit: qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit.\nQui facit haec, non movebitur in aeternum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus, reple tuorum corda fidelium, et tui amoris in eis ignem accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congregasti. Alleluia, alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Rom. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium Breve"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jesu Christe, Fili Dei vivi, Miserere nobis. Jesu Christe.\n℣. Qui misisti Spiritum Sanctum Apostolis. Miserere nobis. Gloria Patri. Jesu Christe."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Cor mundum crea in me Deus.\n℟. Et Spiritum rectum innova in visceribus meis.\n℣. Domine, exaudi.\n℟. Et clamor meus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nAdsit nobis, quaesumus, Domine, virtus Spiritus Sancti: quae et corda nostra clementer expurget, et ab omnibus tueatur adversis. Per Dominum etc. in unitate ejusdem Spiritus."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti pectora."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu septiformis munere,\nDextrae Dei tu digitus,\nTu rite promissum Patris,\nSermone ditans guttura."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per te sciamus da Patrem,\nNoscamus atque Filium,\nTe utriusque Spiritum\nCredamus omni tempore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit laus Patri cum Filio,\nSancto simul Paraclito,\nNobis quoque mittat Filius\nCharisma Sancti Spiritus.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 53"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus in nomine tuo salvum me fac: et in virtute tua judica me.\nDeus, exaudi orationem meam: auribus percipe verba oris mei.\nQuoniam alieni insurrexerunt adversum me, et fortes quaesierunt animam meam: et non proposuerunt Deum ante conspectum suum.\nEcce enim Deus adjuvat me: et Dominus susceptor est animae meae.\nAverte mala inimicis meis: et in veritate tua disperde illos.\nVoluntarie sacrificabo tibi: et confitebor nomini tuo, Domine, quoniam bonum est.\nQuoniam ex omni tribulatione eripuisti me: et super inimicos meos despexit oculus meus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus, reple tuorum corda fidelium et tui amoris in eis ignem accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congregasti. Alleluia, alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Rom. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium Breve"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Emitte Spiritum tuum, Et creabuntur. Emitte.\n℣. Et renovabis faciem terrae. Et creabuntur. Gloria Patri. Emitte."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ne projicias me a facie tua.\n℟. Et Spiritum Sanctum tuum ne auferas a me.\n℣. Domine, exaudi.\n℟. Et clamor meus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus qui Apostolis tuis Sanctum dedisti Spiritum: concede plebi tuae piae petitionis effectum; ut quibus dedisti fidem largiaris et pacem. Per Dominum etc. in unitate ejusdem Spiritus."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti pectora."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Accende lumen sensibus,\nInfunde amorem cordibus,\nInfirma nostri corporis,\nVirtute firmans perpeti."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per te sciamus da Patrem,\nNoscamus atque Filium,\nTe utriusque Spiritum\nCredamus omni tempore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit laus Patri cum Filio,\nSancto simul Paraclito,\nNobis quoque mittat Filius\nCharisma Sancti Spiritus.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 69"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus in adjutorium meum intende: Domine, ad adjuvandum me festina.\nConfundantur et revereantur, qui quaerunt animam meam.\nAvertantur retrorsum et erubescant, qui volunt mihi mala.\nAvertantur statim erubescentes qui dicunt mihi: Euge, euge.\nExsultent et laetentur in te omnes qui quaerunt te: et dicant semper: Magnificetur Dominus: qui diligunt salutare tuum.\nEgo vero egenus et pauper sum: Deus adjuva me.\nAdjutor meus et liberator meus es tu: Domine, ne moreris."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus, reple tuorum corda fidelium, et tui amoris in eis ignem accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congregasti."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Rom. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium Breve"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus, Paraclitus. Spiritus.\n℣. Docebit vos omnia. Paraclitus. Gloria Patri. Spiritus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Redde mihi laetitiam salutaris tui.\n℟. Et spiritu principali confirma me.\n℣. Domine, exaudi.\n℟. Et clamor meus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nVere igne Sancti Spiritus renes nostros et cor nostrum, Domine: ut tibi casto corpore serviamus et mundo corde placeamus. Per Dominum etc. in unitate ejusdem."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti pectora."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hostem repellas longius,\nPacemque dones protinus;\nDuctore sic te praevio\nVitemus omne noxium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per te sciamus da Patrem,\nNoscamus atque Filium,\nTe utriusque Spiritum\nCredamus omni tempore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit laus Patri cum Filio,\nSancto simul Paraclito,\nNobis quoque mittat Filius\nCharisma Sancti Spiritus.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 86"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fundamenta ejus in montibus sanctis: diligit Dominus portas Sion super omnia tabernacula Jacob.\nGloriosa dicta sunt de te, civitas Dei.\nMemor ero Rahab et Babylonis scientium me.\nEcce alienigenae et Tyrus, et populus Aethiopum, hi fuerunt illic.\nNumquid Sion dicet: Homo, et homo natus est in ea? et ipse fundavit eam Altissimus.\nDominus narrabit in scripturis populorum et principum: horum, qui fuerunt in ea.\nSicut lactantium omnium habitatio est in te."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus, reple tuorum corda fidelium, et tui amoris in eis ignem accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congregasti. Alleluia, alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Rom. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium Breve"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Loquebantur variis Linguis Apostoli. Loquebantur.\n℣. Magnalia Dei. Linguis Apostoli. Gloria Patri. Loquebantur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Spiritus Domini replevit orbem terrarum.\n℟. Et hoc quod continet omnia, scientiam habet vocis.\n℣. Domine, exaudi.\n℟. Et clamor meus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPresta, quaesumus, omnipotens Deus, ut Spiritus Sanctus adveniens templum nos gloriae suae digne inhabitando perficiat. Per Dominum etc. in unitate ejusdem."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 127"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beati omnes qui timent Dominum: qui ambulant in viis ejus.\nLabores manuum tuarum quia manducabis: beatus es, et bene tibi erit.\nUxor tua sicut vitis abundans, in lateribus domus tuae.\nFilii tui sicut novellae olivarum, in circuitu mensae tuae.\nEcce sic benedicetur homo, qui timet Dominum.\nBenedicat tibi Dominus ex Sion: et videas bona Jerusalem omnibus diebus vitae tuae.\nEt videas filios filiorum tuorum, pacem super Israel."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus, reple tuorum corda fidelium et tui amoris in eis ignem accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congregasti. Alleluia, alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "A Septuagesima usque ad Pascha omittitur Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Rom. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Creator Spiritus,\nMentes tuorum visita,\nImple superna gratia,\nQuae tu creasti pectora."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Qui Paraclitus diceris,\nDonum Dei Altissimi,\nFons vivus, ignis, caritas,\nEt spiritualis unctio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tu septiformis munere,\nDextrae Dei tu digitus,\nTu rite promissum Patris,\nSermone ditans guttura."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Accende lumen sensibus,\nInfunde amorem cordibus,\nInfirma nostri corporis,\nVirtute firmans perpeti."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hostem repellas longius,\nPacemque dones protinus,\nDuctore sic te praevio,\nVitemus omne noxium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per te sciamus da Patrem,\nNoscamus atque Filium,\nTe utriusque Spiritum\nCredamus omni tempore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sit laus Patri cum Filio,\nSancto simul Paraclito,\nNobis quoque mittat Filius\nCharisma Sancti Spiritus.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Emitte Spiritum tuum et creabuntur.\n℟. Et renovabis faciem terrae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus ubi vult spirat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Beatae Mariae Virginis (Luc. 1)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magnificat anima mea Dominum.\nEt exsultavit spiritus meus in Deo salutari meo.\nQuia respexit humilitatem ancillae suae: ecce enim ex hoc beatam me dicent omnes generationes.\nQuia fecit mihi magna qui potens est, et sanctum nomen eius.\nEt misericordia eius a progenie in progenies timentibus eum.\nFecit potentiam in brachio suo: dispersit superbos mente cordis sui.\nDeposuit potentes de sede et exaltavit humiles.\nEsurientes implevit bonis, et divites dimisit inanes.\nSuscepit Israel puerum suum, recordatus misericordiae suae.\nSicut locutus est ad patres nostros, Abraham et semini eius in saecula.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus ubi vult spirat et vocem ejus audis, et nescis unde veniat aut quo vadat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi.\n℟. Et clamor meus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus cui omne cor patet et omnis voluntas loquitur, et quem nullum latet secretum: purifica per infusionem Sancti Spiritus cogitationes cordis nostri, ut te perfecte diligere, et digne laudare mereamur. Per Dominum etc. in unitate ejusdem."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In unitate."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sancti Spiritus, etc. (as at the beginning)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus 128"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Saepe expugnaverunt me a juventute mea: dicat nunc Israel.\nSaepe expugnaverunt me a juventute mea: etenim non potuerunt mihi.\nSupra dorsum meum fabricaverunt peccatores: prolongaverunt iniquitatem suam.\nDominus justus concidit cervices peccatorum: confundantur, et convertantur retrorsum omnes qui oderunt Sion.\nFiant sicut foenum tectorum: quod priusquam evellatur, exaruit.\nDe quo non implevit manum suam qui metit, et sinum suum qui manipulos colligit.\nEt non dixerunt qui praeteribant: Benedictio Domini super vos: benediximus vobis in nomine Domini."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Sancte Spiritus, reple tuorum corda fidelium et tui amoris in eis ignem accende, qui per diversitatem linguarum cunctarum gentes in unitate fidei congregasti. Alleluia, alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Rom. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.\n℟. Deo gratias."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium Breve"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In manus tuas Domine Commendo spiritum meum. In manus.\n℣. Qui Spiritu Sancto replevisti omnem terram. Commendo. Gloria Patri. In manus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Veni Creator Spiritus ut supra in Vesperis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Cor mundum crea in me Deus.\n℟. Et spiritum rectum innova in visceribus meis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Simeonis (Luc. 2)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nunc dimittis servum tuum Domine, secundum verbum tuum in pace:\nQuia viderunt oculi mei salutare tuum.\nQuod parasti ante faciem omnium populorum:\nLumen ad revelationem Gentium, et gloriam plebis tuae Israel.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus Domini docebit vos omnia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi.\n℟. Et clamor meus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nSancti Spiritus, quaesumus Domine, corda nostra mundet infusio, et sui roris intima aspersione foecundet. Per Dominum etc. in unitate ejusdem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi.\n℟. Et clamor meus.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. In omnibus bonis operibus confortet nos Spiritus almus.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "De Beata Maria Virgine"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphon Prima"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, gratia plena, Dominus tecum: benedicta tu in mulieribus et benedictus fructus ventris tui Jesus Christus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona altera"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritus Sanctus in te descendet, Maria: ne timeas, habebis in utero Filium Dei."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ecce ancilla Domini.\n℟. Fiat mihi secundum verbum tuum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus qui de Beata Maria Virginis utero, Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut qui vere eam Dei Genitricem credimus, ejus apud te intercessionibus adjuvemur. Per eundem Jesum Christum Dominum nostrum.\n℟. Amen."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

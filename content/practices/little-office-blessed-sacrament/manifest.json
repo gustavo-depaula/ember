@@ -1,0 +1,37 @@
+{
+  "id": "little-office-blessed-sacrament",
+  "icon": "eucharist",
+  "name": {
+    "en-US": "Little Office of the Blessed Sacrament"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Blessed Sacrament, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 107,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Courtesy of Michael Martin, www.preces-latinae.org — transcription of the original text.\n\nAn office in honour of Blessed Sacrament, traditionally recited on Thursdays in commemoration of the Last Supper when Jesus gave the world the Sacrament of His Body and Blood. The Latin text below is taken from a 1741 edition of the Coeleste Palmetum."
+  }
+}

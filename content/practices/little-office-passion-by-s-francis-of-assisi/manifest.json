@@ -1,0 +1,37 @@
+{
+  "id": "little-office-passion-by-s-francis-of-assisi",
+  "icon": "cross",
+  "name": {
+    "en-US": "Little Office of the Passion by S. Francis of Assisi"
+  },
+  "categories": [
+    "divine-mysteries"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Passion by S. Francis of Assisi, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "divine-mysteries",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 112,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From The Writings of St. Francis of Assisi (1905), translated by Paschal Robinson, O.F.M.\n\nAlthough the early biographies of S. Francis are silent as to this opuscule, its authenticity is guaranteed by the Legend of S. Clare written by Thomas of Celano toward the end of his life. In reference to the holy abbess’ devotion to the Passion we are told by Celano that she \"learned and frequently recited with attachment the Office of the Cross which Francis, the lover of the Cross, had instituted.\" This passage was rightly understood by Wadding as referring to the Office of the Passion which many early manuscripts attribute to S. Francis, and the character of which altogether squares with the Saint's writings. Composed, as it is, of a simple and devout combination of Scriptural texts, this document is at once a witness to S. Francis’ ardent devotion to the Crucified and a precious example of his method of prayer. It comprises five parts:\nFor the three last days of Holy Week and for week-days throughout the year.\nFor the Paschal season.\nFor Sundays and feast-days throughout the year.\nFor Advent.\nFor Christmas and the days following, to the close of the Epiphany octave.\nThe text of the Office given in the Quaracchi edition is that of the Assisi MS. 338, only a few rubrical notes having been omitted."
+  }
+}

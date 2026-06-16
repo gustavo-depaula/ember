@@ -1,0 +1,36 @@
+{
+  "id": "ordo-quiete-ante-lectulo",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Ordo Quiete Ante Lectulo"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of Ordo Quiete Ante Lectulo."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 185,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "Ante Lectulo is properly the bedtime prayer, which is distinct from Compline, which in the Mozarabic rite is more concerned with the coming of the night, while the lectulo prayer is the prayer before sleep."
+  }
+}

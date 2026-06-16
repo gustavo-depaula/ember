@@ -1,0 +1,450 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Opening Prayer"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O my God, to sing praises worthy of thy greatness, open my mouth; grant me the holy fervor of the angels.\nThrough thy mercy, O Lord, draw near to me; come and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence; glory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O splendor of the King of angels,\ngrant that a holy and divine zeal\nmay inspire us to sing thy praises.\nO fair eyes that caused this innocent stream to flow,\nenkindle in our hearts a languishing zeal."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Jesus was troubled in spirit and, deeply moved, he asked Martha and Mary, \"Where have you laid Lazarus?\" They replied, \"Lord, come and see.\" And Jesus wept at these words."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Rare are the marvels of wonders,\n℟. To see water flow from a rock.\nBut what makes these wonders unparalleled\nis that this rock is God himself."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O almighty and merciful God, who willed that thine only Son should weep over Lazarus's death as a testimony of his love and raise him from the grave to reveal the miraculous power of his divinity, grant us the grace, through thy Holy Spirit, to think ceaselessly upon thee and to pray with the tears of holy devotion. May these salutary waters cleanse us of all our sins and raise us from the grave of iniquity. We ask this through Jesus Christ, our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Miracle of holy love!\nThis God who casts thunder\nand forms the joys of the day,\nweeps and groans upon the earth.\nSeeing Lazarus dead, his heart is moved,\nand he washes his sin with a stream of tears.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Lord, how sweet and tender is thy Spirit!\nTo deliver thy friend from death's grasp,\nthou didst pour tears of sweetness from thy loving heart."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. As waters flow from two fountains,\n℟. Let my eyes pour forth streams of tears.\nThe love they hold within\nshall become the drink of Heaven."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "May the outpouring of thy tears, O Lord, purify our hearts, and may the holy dew of thy weeping render our souls fertile. We ask this through Jesus Christ, our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Word, almighty and noble support of creation,\nwhy is thy heart faint under the blows of nature?\nNo, cruel death, halt thy fury.\nCease to be a spectacle of horror before his eyes.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Jesus, seeing Martha and Mary weeping, wept also.\nO holy tears of a chaste lover,\nfilled with compassion for two grieving sisters,\nwho weep for the loss of their brother\nand witness the resurrection of one whose death was known to all."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O divine source of life,\n℟. Abundant fountain of clarity,\ngrant that my soul, enslaved,\nmay find liberty in thee."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O most gracious and tender Jesus, who wept not only for Lazarus but also for all the world and for me, a miserable sinner, grant me the grace to honour thy holy tears with such tender devotion that they may enkindle in my heart the sacred fire of perfect love. Let my eyes shed the saving waters of true contrition so that, being purified by water and fire, my soul may be refreshed and find its eternal home in thy kingdom, where there shall be no more tears or sighs, but where thou livest and reignest gloriously forever.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O living star, divine sun,\nsplendor of the Father's glory,\ncast thy gaze upon the excess of our misery.\nThrough this overwhelming love that caused thee to weep,\ngrant us the blessings for which we sigh.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The King of men wept;\nthe joy of angels became sorrowful.\nIf God himself laments with such sadness,\nwho would not weep seeing him weep,\nwho would not groan seeing him groan?"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Let our eyes pour forth tears;\n℟. Let us flow with fountains of weeping.\nIn our deepest afflictions,\nno sweeter solace can we find."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "As at Prime."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O sun of eternity,\nthou who formest this chaste light,\nwhich restores our original innocence,\ndispel by thy tears this mournful night\nthat hides the joy thy love produces.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "They removed the stone that sealed the tomb,\nand Jesus wept.\nThe one who had been bound was immediately loosed\nand, though dead, rose to life."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O august and divine power,\n℟. That causeth waters and oil to flow in abundance\nfrom the mere touch of thy hand."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "As at Prime."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymnn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "No star is more charming\nthan this precious liquid.\nThe sun is adorned with less splendor\nthan its miraculous beauty.\nHoney pales in sweetness compared to its taste,\nwhich captivates both the heart and soul.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "We adore this precious tear,\nshed with sorrow and lamentation by the gentle Jesus.\nThe angel stored it in a small vessel with reverence,\nand Mary Magdalene left it as her legacy when she departed this world."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou who, with a mighty tear,\n℟. Cleanseth the sins of mortals,\nreceive the innocent ardor\nthat bows us at thy altars."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "May the labor of thy only Son relieve us in our struggles amid the perils of this life. Grant, O Lord, that the sweet dew of his tears, which we now honour, may quench the fire of our concupiscence and enkindle in us the flames of a holier and more divine love. We ask this through Jesus Christ, our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Sweet and delightful vessel,\nrare marvel of wonders,\nO tear, the virtue of thy water\nknows no equal.\nHaving despoiled death of its spoils,\nbreak for our sake its harsh strength.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The Lord Jesus satisfied our hunger with the bread of his tears\nand quenched our thirst with the water of his weeping."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Tears flow from my visage,\n℟. To intoxicate with their water.\nYet their intoxication brings wisdom\nto those who drink of this stream."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration as above"
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "By so precious a token,\nby this incomparable love,\ngrant, O Jesus, that our eyes may see\nthy venerable face,\nfrom which this sacred stream flowed on earth,\nconquering sin and subduing death.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "After Jesus wept, a banquet was prepared,\nand Lazarus sat at the table with him."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. With joy shall ye draw water\n℟. From the fountains of the Saviour.\nThe waters sent from Heaven\nflow from the opening of his heart."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "May the piercing of thy holy love wound our hearts, O gentle Jesus. May the stream of thy tears sanctify our spirits so that, having drunk the cup of penance and tears, we may one day be deemed worthy to sit with thee at thy heavenly table. We ask this through thee, O divine Word, who livest and reignest with the Father and the Holy Spirit in one divinity forever.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Oration for the healing of the eyes."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O good Jesus, delight of my heart,\nlight of my soul, thou who illuminatest the sun and enlightenest the blessed spirits,\nI bring my afflictions before thy mercy and my darkness before thy splendor.\nLet thy compassionate heart be moved as it was for the death of Lazarus.\nThou didst weep, O God of glory, not only for him but also for me.\nMay thy holy tears, which gave life to his body, now restore light to my eyes.\nI ask not this grace for vanity or misuse\nbut that I may serve thee joyfully all my life.\nTransform my physical pain into spiritual contrition,\nthat receiving health in body and holiness in soul,\nI may be pleasing in thy sight.\nAmen."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

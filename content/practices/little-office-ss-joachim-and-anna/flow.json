@@ -1,0 +1,417 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "A Septuagesima usque ad Pascha, loco Alleluia, dicitur:\nLaus tibi, Domine, Rex aeternae gloriae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O bina conjugalis\nExempla foederis!\nO Joachim, qualis\nMariae conjugis!\nO Anna, quem nepotem,\nQuam nacta filiam!\nO Joachim, dotem\nQuis optet alteram!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Sap. 4. 1."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O quam pulchra est casta generatio cum claritate! immortalis est enim memoria illius, quoniam et apud Deum nota est, et apud homines."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Orate pro nobis, sancti Joachim et Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui prae omnibus Sanctis tuis beatos Joachim et Annam genitrices Filii tui parentes esse voluisti: concede, quaesumus; ut quos devoto cultu veneramur in terris, eorum quoque patrocinia sentiamus in caelis. Per eundem Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Connubii quieta\nLevre tempora,\nDiems mansit usque laeta\nVel inter aspera.\nEst visa purpurae\nSed inde nidi remotum\nCor est ab aethere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Cant 8.7"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aquae multae non potuerunt extinguere charitatem, nec flumina obruent illam."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tandem serenoiori\nLux vexat phosphoro\nExplevit ampliiori\nUtrumque gaudio.\nConcepit Anna prolem\nStupente conjuge,\nCum vidit axe solem\nPlaudente surgere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Prov.31. 28"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Surrexerunt filii ejus, et beatissimam praedicaverunt."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mox numini sacratur\nVix facta trimula,\nAraque dedicatur\nTenella victima;\nEt praevolat parentum\nJam vota filia,\nEt multa se sequentum\nInvitat agmina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Ps. 65. 12."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Introibo in domum tuam in holocaustis: reddam tibi vota mea, quae distinxerunt labia mea."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exinde quo labore\nEducta Filia!\nQuo coelitum favore\nNutrita parvula!\nIndustriae parentum\nFit axis aemulus,\nVirginumque coaetum\nServit cohortibus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Rom 8. 28."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Scimus quoniam diligentibus Deum omnia cooperantur in bonum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Joachim, fidelis\nMinister aetheris!\nO Anna, nota coelis\nA Matre Numinis!\nUterque sanctitatis\nExemplar integrae:\nEt me beatitatis\nDonate lumine."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Prov. 4. 18."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Justorum semita, quasi lux splendens, procedit et crescit usque ad perfectam diem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Obtutibus sacratis\nJam nata cernitur,\nComplexibus beatis\nPerenne jungitur:\nReciproce tenentur,\nTenetque undique\nDuo parva pars daretur\nEx hocce gaudio!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant. Eccl. 44. 13. 14."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Semen eorum et gloria eorum non derelinquetur. Corpora ipsorum in pace sepulta sunt, et nomen eorum vivit in generationem et generationem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Oblatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Vectigal nocte amoris,\nO bina sidera,\nPensum precantis oris,\nO clara lumina,\nConsigno dedicatum\nVestris amoribus,\nOptoque consecratum\nVestris honoribus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Amabo vos, amabo,\nAmita haec permanent,\nMagisque tunc amabo,\nCum vestra me levabit\nIn astra dextera,\nEt mecum sociabit\nAetherea gloria.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio ad S. Joachim."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O sancte Joachim, cui nomen esse est inditum, quod praeparationem Domini significat. Tu enim ad vivum Dei templum praeparandum a Deo electus es, in quo Filio ejus Unigenito habitare placuit. O beatissime Pater, a quo suscepta est illa filia, quae in Dei Matrem, ac coeli terraeque Reginam est assumpta! O quanto illum amore et reverentia excepisti! qua cura et sollicitudine enutrivisti! quam praeclaro humilitatis, religionis ac pietatis exemplo, proli tuae clarissimae, cunctisque mortalibus prae luxisti! Tuis me precibus, o S. Joachim, adjuva, ut et ego gratum Deo domicilium in corde meo prae parem, constantiique pietatis affectu illud exornem.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio ad S. Matrem Annam."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O gratiosa Domina, o benedicta Mater Anna! bene Anna, hoc est gratia, tibi nomen obtigit; quia tibi coelum vivum, omnibus coelis majus, in benedicto utero tuo portare, et in hanc lucem edere a Deo concessum est! O quanta felicitas, quae coelum capere non potuerat, Filia tua immaculato gremio clausa fuit! O coelestis Mater, radix vitae illustris, flos pulcherrimus, fructusque vitae nostrae dulcissimus Christus Jesus ascendit. Laetare, o Anna sterilis! quoniam ex Filia tua Filius natus est nobis, cujus nomen vocatum est magni consilii, hoc est, salutis totius mundi, Angelus. Fac me, o Mater benedicta, gratia, quam ex gratiarum fonte abunde hausisti, participem, ut in amore dilectissimi Nepotis tui Jesu, et protectione dulcissimae Fili ae tuae Mariae vivam et moriar.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio ad Ambos SS. Joachim et Annam."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O castum ac beatum parturturum, Joachim et Anna, vobis omnis creatura obstricta est; per vos enim donum omnium donorum praestantissimum Creatori obtulit, nempe castam matrem, quae sola Creatore digna erat. Vestra dignitas ex meritu cognoscitur, quem Dei perpetuo obsequio prompte consecrastis; coniuro vos, obsecro, junctam huic sacrificio hostiam manibus vestris Deo omnipotenti offerte omnesque hujus in me miseris defectus vestra, quam apud Deum invenistis, gratia compensate."
+      }
+    }
+  ]
+}

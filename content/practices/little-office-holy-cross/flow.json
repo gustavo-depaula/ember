@@ -1,0 +1,543 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum Crucis de inimicis nostris:\n℟. Libera nos Deus noster.\nIta dicitur in principio horarum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Non dicitur Alleluia, nec Laus tibi Domine."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Patris sapientia, veritas divina:\nDeus homo captus est hora matutina.\nA notis discipulis cito derelictus:\nA Judaeis traditus, venditus, et afflictus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Crux venerabilis, quae salutem attulisti miseris: quibus te efferam praeconis, quoniam vitam nobis caelestem praeparasti?"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe, et benedicimus tibi.\n℟. Quia per sanctam Crucem tuam redemisti mundum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam et misericordiam: vivis et defunctis requiem et veniam: Ecclesiae tuae pacem et concordiam et nobis peccatoribus vitam et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum Crucis de inimicis nostris:\n℟. Libera nos Deus noster."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hora prima Dominum ducunt ad Pilatum,\nEt a falsis testibus multum accusatum:\nColaphis percutiunt, manibus ligatum:\nVultum Dei conspuunt, lumen caeli gratum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Crucis victoria, et admirabile signum: in caelesti curia fac nos captare triumphum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe, et benedicimus tibi.\n℟. Quia per sanctam Crucem tuam redemisti mundum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum Crucis de inimicis nostris:\n℟. Libera nos Deus noster."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Crucifige, crucifige, clamitat hora tertiam:\nIllusus induitur veste purpuram:\nCaput ejus pungitur corona spinarum:\nCrucem portat humeris ad locum poenarum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Funestae mortis damnatur supplicium, dum Christus in Cruce nostra destruxit vincula criminum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe, et benedicimus tibi.\n℟. Quia per sanctam Crucem tuam redemisti mundum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hora sexta Jesus est Cruci con­clavatus.\nEt cum latronibus pendens est deputatus:\nPrae tormentis sitiens felle saturatus:\nAgnus crimen diluens, sic est ludificatus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per lignum servi facti sumus, et per sanctam Crucem liberati sumus: fructus arboris seduxit nos: Filius Dei redemit nos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hora nona Dominus Jesus expiravit:\nEli clamans spiritum Patri commendavit:\nLatus ejus lancea miles perforavit:\nTerra tunc contremuit, et sol se obscuravit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O magnum pietatis opus! mors mortua tunc est, in ligno, quando mortua vita fuit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum, etc.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "De Cruce deponitur hora vespertina:\nFortitudo latuit in mente divina:\nTalem mortem subiit vitae medicina:\nHeu corona gloriae jacuit supina!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Crux benedicta, quae sola fuisti digna portare talentum mundi; dulce lignum, dulces clavos, dulcia ferens pondera: super omnia ligna cedrorum tu sola excelsior, in qua mundi salus pependit; in qua Christus triumphavit, et mors mortem superavit in aeternum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Per signum, etc.\n℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hora Completorii datur sepulturae\nCorpus Christi nobile, spes vitae futurae:\nConduntur aromate: complentur Scripturae.\nJugis sit memoria mortis suae dura."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiph."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Salvator mundi salva nos, qui per Crucem, et sanguinem tuum redemisti nos; auxiliare nobis, te deprecamur, Deus noster."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Adoramus te Christe, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, pone Passionem, Crucem, et mortem tuam inter judicium tuum, et animam meam, nunc, et in hora mortis meae: et mihi largiri digneris gratiam, et misericordiam: vivis, et defunctis requiem, et veniam: Ecclesiae tuae pacem, et concordiam; et nobis peccatoribus vitam, et gloriam sempiternam. Qui vivis et regnas in saecula saeculorum.\nAmen."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendatio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Has Horas canonicas cum devotione.\nTibi, Christe, recolo pia ratione:\nUt qui pro me passus es amoris ardore,\nSis mihi solatium mortis in agone.\nAmen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Hymnus"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Vexilla Regis prodeunt:\nFulget Crucis mysterium,\nQua vita mortem pertulit,\nEt morte vitam protulit."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Quae vulnerata lanceae\nMucrone diro, criminum\nUt nos lavaret sordibus,\nManavit unda, et sanguine."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Impleta sunt quae concinit\nDavid fideli carmine;\nDicendo nationibus:\nRegnavit a ligno Deus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Arbor decora, et fulgida,\nOrnata Regis purpura,\nElecta digno stipite\nTam sancta membra tangere."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Beata, cujus brachiis\nPretium pependit saeculi,\nStatera facta corporis\nTulitque praedam tartari."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O Crux ave spes unica,\nHoc passionis tempore,\nPiis adauge gratiam,\nReisque dele crimina."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Te, fons salutis, Trinitas:\nCollaudet omnis spiritus:\nQuibus Crucis victoriam\nLargiris, adde praemium."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Amen."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Temp. Pasch. dic. Paschale quae fers gaudium."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Per annum dic. In hac triumphii gloria."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nRespice, quaesumus Domine, super hanc familiam tuam, pro qua Dominus noster Jesus Christus non dubitavit manibus tradi nocentium, et crucis subire tormentum.\nQui tecum vivit, et regnat in saecula saeculorum.\nAmen."
+      }
+    }
+  ]
+}

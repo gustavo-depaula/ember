@@ -1,0 +1,315 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Mea o Domine labia pandas,\n℟. Tuas ad laudes digne cantandas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jesu puer dulcissime,\nter millies ave to:\ncor moerens tu suavissime\nunguento mulces lato:\nqui amat te, prosentitur\ndulcedinum in mare;\ntuus dum amor cernitur,\nquis nollet te amare?\nqui meum te fraterculum\nnasci fecit pauperculum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Qui Deus erat in principio,\n℟. Et factus par mancipio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nO Deus, cujus tam fortis amor est, ut te parvum fieri infantulum compulerit, tanti nobis tui amoris cognitionem concede, ut ad reciprocum amorem animati, te aeternum amare, laudare, et benedicere valeamus.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus ingens infantulum\ninduere volebat,\nparvum, tenellum, blandulum\nse terris exhibebat:\nut cunctis sic amabilis\nforet, praesertim reis,\nnon esset formidabilis,\nculpas indulgens eis:\nridens blande nos aspicit\nsuavi nos spe sic afficit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Infans, Deus peccator te\n℟. Ade funibus trahit ad se."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Puer in quo mirifice\ndivinitas se celat,\nformae tamen deificae\nvenustas te revelat:\nlucis divinae radius\nex oculis dimanat,\ncor meum velut gladius\namoris ictu tranat:\namore quis det moriari,\nhac morte caelis oriar!"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Natum amemus Dominum\n℟. Decorum pra natis hominum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fleo puer ac rideo,\nridens cogor plorare\ntuisdum stellas video\nin oculis micare:\ncandor ostrum eximitum\nrosarum genis nectit,\nac lux corusca nivium\nse artubus implectit:\nauro dant crispo splendicant\ncrines, cor sibi vindicant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Quia ergo tam suavis es,\n℟. Praecunctis charus favis es."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum lachrymis tam bellulos\naspicio natare\ntuos Jesu ocellulos,\nqueis culpas vis lavare:\nlatis cor meum gestibus\nexultans tenerescit,\net sic amoris aestibus\nut cera colliquescit:\namorem hunc perpendere,\ncor suum est accendere."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus, dum flet ut pusio,\n℟. Amoris est effusio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Saepe cor meum angitur,\nsua volvens delicta.\nVix non desperans frangitur,\nmens metu jacet icta:\nsed dum infantis cogito\nmei blandum amorem,\ndimitti culpas, rogito\nexutiens timorem.\nA se me non projiciet,\npropitius aspiciet."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Nolo mortem peccatoris,\n℟. Infans inquit, fons amoris."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos o puer chare,\n℟. Ut sic possimus te amare."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum frigore constringeris,\nqui ignis es divinus:\ntotus rigore cingeris,\nmeos veni in sinus.\nCor meum ardens flammulis\namoris te fovebit,\na tuis nunquam famulis\nme ullus dimovebit:\ntenebo, nec dimittam te,\ndonec mors advocabit me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Versans in terra finibus,\n℟. Est lubens cum hominibus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

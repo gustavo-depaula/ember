@@ -1,0 +1,464 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou, O Lord, wilt open my lips;\n℟. And my tongue shall announce Thy praise."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father and to the Son and to the Holy Spirit,\nAs it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - The Conversion of S. Norbert"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O blessed Saint! While yet unborn,\nA voice Divine decreed for thee;\n\"Thou'lt bear, through many a life-long storm,\nThe priest's and bishop's dignity\".\nYet worldly glory wooed thy heart,\nAnd thou, of noble race, didst turn\nAway from thine eternal part\nTo seek the fair, false lights that burn\nIn royal halls of earth. But lo!\nThese halls are trembling 'neath the power\nOf Him Who stoops to thee, to show\nThou shalt be His. Alas! That hour\nThou'rt faltering still. The voice of fame,\nIts flattery, in thine ear is sweet.\nAgain thy God thy heart must claim\nAnd sweetly stay thy wand'ring feet.\nMay we, like thee, shun worldly praise,\nIn worldly paths no longer roam,\nBut tread the peaceful, heavenward ways,\nTill angels come to lead us home."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Being found in the rugged paths of vice by the Guardian of the city,\nstayed by lightning stroke, he puts off the old man,\nand is clothed with the first robe of innocence.\nHe who was dead lives again; he who was lost is found."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O S. Norbert,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nAwake, O Lord, in Thy Church the Spirit by Whom S. Norbert,\nThy Confessor and Bishop, was guided, in order that,\nfilled with the same Spirit, we may love what he loved,\nand live as he taught us. Through Christ, Our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou, O Lord, wilt open my lips;\n℟. And my tongue shall announce Thy praise."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father and to the Son and to the Holy Spirit,\nAs it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Norbert's Penance"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "With deep affliction thou hast mourned\nThe failings of thy former life;\nThy robes of princely state are spurned;\nThe court, its pomps, its gilded strife,\nAre thine no more, for higher love\nHas fortified thy glowing heart,\nAnd, barefoot, through the snow thou'lt move\nAs one all heedless of the smart\nOf scorn and insult. Then with fasts,\nWith scourges, and with iron chain,\nThou'lt seek to expiate the past,\nAnd heal, with care, the former pain\nThy pride inflicted. May we now\nRich fruit of penance daily bear,\nAnd in the hour of death do thou\nObtain our pardon by thy prayer."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Having laid aside his store of earthly goods, and bestowed them upon the poor of Christ,\ndenying himself, and following Christ in a narrower path, he went barefoot,\nputting on a hair shirt – the garb of a penitent."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O S. Norbert,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nAwake, O Lord, in Thy Church the Spirit by Whom S. Norbert,\nThy Confessor and Bishop, was guided, in order that,\nfilled with the same Spirit, we may love what he loved,\nand live as he taught us. Through Christ, Our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou, O Lord, wilt open my lips;\n℟. And my tongue shall announce Thy praise."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father and to the Son and to the Holy Spirit,\nAs it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - The Foundation of Norbert's Order"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "In token of her constant love\nThe glorious Queen of Heaven above\nClothes thee in white, that thou may'st be\nA witness to her purity.\nS. Austin gives his hallowed Rule\nTo train thy followers in that school\nOf holy life. And robed in light,\nThe Saviour meets the raptured sight,\nTo show, by seven-fold rays, the place\nWhere Norbert's band – a chosen race,\nShall dwell, as oft by Heaven foretold,\nIn lone Prémontré's blessed fold.\nS. Norbert, who the world disdained,\nPray that we may, with hearts unstained,\nWalk in the light of purity,\nAnd thus the heavenly nuptials see."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "He sought a place wherein he might fitly live and walk in the path of God,\nwhere there are different ways that lead to Him.\nWhen, therefore, he had found the vale of Prémontré, he cried out:\n\"This is the spot which the Lord has chosen for us.\""
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O S. Norbert,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nAwake, O Lord, in Thy Church the Spirit by Whom S. Norbert,\nThy Confessor and Bishop, was guided, in order that,\nfilled with the same Spirit, we may love what he loved,\nand live as he taught us. Through Christ, Our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou, O Lord, wilt open my lips;\n℟. And my tongue shall announce Thy praise."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father and to the Son and to the Holy Spirit,\nAs it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Norbert's Preaching"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "In cloistered hearts thou didst awake\nThe love of Him, Who for our sake\nDwells on our altars, closely veiled.\nWhen Tanchelin's profane touch assailed\nThat sacred Mystery, thou didst raise\nThy trumpet voice. And with amaze\nThe Gallic nation stood to hear\nThy matchless accents, rich and clear;\nS. Bernard, too, proclaiming thee\nA lute of heavenly melody.\nAngels of peace, at thy command\nFierce discord vanished from the land,\nAnd hearts by thee to Jesus given\nBrought forth abundant fruit for Heaven.\nWhen comes, at last, the harvest hour,\nOh! garner us, with saintly power."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Like unto a trumpet did he raise his voice, upbraiding a people steeped in sin.\nWhat he preached in word he fulfilled in deed, confirming all by his miracles and wonderful actions."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O S. Norbert,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nAwake, O Lord, in Thy Church the Spirit by Whom S. Norbert,\nThy Confessor and Bishop, was guided, in order that,\nfilled with the same Spirit, we may love what he loved,\nand live as he taught us. Through Christ, Our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou, O Lord, wilt open my lips;\n℟. And my tongue shall announce Thy praise."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father and to the Son and to the Holy Spirit,\nAs it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Norbert's Miracles"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Filled with Faith's spirit, miracles were thine,\nAnd thy skilled lips interpreted each sign\nOf heavenly dealings. Thou didst banish far\nThe phantoms of hell's spiritual war.\nNor from the nauseous insect didst thou shrink\nBut calmly dared the chalice still to drink.\nDiseases fled thy touch; the famished came\nAnd all were soothed by thee in Jesus' name.\nMore wondrous still, a wolf thou didst compel\nTo guard the trembling sheep, and guard them well.\nThy prophecies resounded loudly. Then\nThe demon fled the tortured souls of men\nAt thy desire. And when the raging flood\nBore all away, at thy command they stood\nBeside thee, saved. Thou, too, didst call to life\nThree breathless forms that sank in mortal strife.\nTo us, thy clients, teach the heavenly art\nTo live and yet to die to evil's part."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "At home and abroad he overcame, by the name of Jesus, the power of devils;\non Easter Sunday, at Wurzburg, he gave sight to a blind woman by breathing on her eyes;\nhe discovered some of the bodies of the eleven thousand virgins,\nand those of the two Ewalds, martyrs, and placed his church at Prémontré under their protection."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O S. Norbert,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nAwake, O Lord, in Thy Church the Spirit by Whom S. Norbert,\nThy Confessor and Bishop, was guided, in order that,\nfilled with the same Spirit, we may love what he loved,\nand live as he taught us. Through Christ, Our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou, O Lord, wilt open my lips;\n℟. And my tongue shall announce Thy praise."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father and to the Son and to the Holy Spirit,\nAs it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Norbert's Persecution"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Great Pastor! Model of thy flock! Thy mind,\nFixed on eternal interests, entwined\nRound God's unchanging Church thy constant care;\nNor didst thou then her reckless plunderers spare.\nThey struck thee with the sword and with the tongue;\nThey exiled thee; vainly their darts were flung\nAround thy tranquil soul. Thy zeal untamed,\nNew merits and new recompenses claimed.\nPray for us now that trials ne'er may be,\nTriumphant o'er our faith and constancy;\nRather that heavenly pity, bending down,\nMay add new rays of glory to our crown."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Clothed in the garment of poverty, and barefoot, he entered Magdeburg, his episcopal city;\nunweariedly he preached the word of God, proving himself a faithful guardian of the household\nwith which he was entrusted, a strenuous defender and protector of the patrimony of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O S. Norbert,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nAwake, O Lord, in Thy Church the Spirit by Whom S. Norbert,\nThy Confessor and Bishop, was guided, in order that,\nfilled with the same Spirit, we may love what he loved,\nand live as he taught us. Through Christ, Our Lord.\nAmen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Convert us, O God, our Salvation\n℟. And turn away Thy anger from us."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God,\n℟. O Lord, make haste to help me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory be to the Father, and to the Son and to the Holy Spirit,\nas it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn - Norbert's Death and Translation"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Death summons thee, but do not fear,\nThe voice of Jesus soundeth near;\n\"Come, my beloved, take thy rest,\nCome, for thou shalt be crowned and blessed\".\nThy combat o'er, thy work is done.\nThe arms of Mary and her Son\nAre clasped around thee. Thou dost bear\nThe olive and the lily fair,\nAnd thus, beyond the distant star,\nThou'rt borne to heavenly courts afar,\nOh! may we win that peaceful rest,\nWe pray, who in thy joy are blest."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Having given his support to the Holy Church of Rome in her affliction,\nblessing his brethren, he happily fell asleep in Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Pray for us, O S. Norbert,\n℟. That we may be made worthy of the promises of Christ."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nAwake, O Lord, in Thy Church the Spirit by Whom S. Norbert,\nThy Confessor and Bishop, was guided, in order that,\nfilled with the same Spirit, we may love what he loved,\nand live as he taught us. Through Christ, Our Lord.\nAmen."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

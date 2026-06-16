@@ -1,0 +1,34 @@
+{
+  "id": "office-preparatory-prayers",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Prayers Before & After the Office",
+    "pt-BR": "Orações Antes e Depois do Ofício"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 3,
+  "description": {
+    "en-US": "The traditional Aperi, Domine and Sacrosanctae — said before and after praying any of the little offices."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 99,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

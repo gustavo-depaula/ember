@@ -1,0 +1,37 @@
+{
+  "id": "little-office-seven-dolours-of-the-blessed-virgin-mary",
+  "icon": "mary",
+  "name": {
+    "en-US": "Little Office of the Seven Dolours of the Blessed Virgin Mary"
+  },
+  "categories": [
+    "marian"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Seven Dolours of the Blessed Virgin Mary, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "marian",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 133,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From the Coeleste Palmetum (1879 edition).\n\nGemitus Matris tuae ne obliviscaris. — Eccli. 7, 29."
+  }
+}

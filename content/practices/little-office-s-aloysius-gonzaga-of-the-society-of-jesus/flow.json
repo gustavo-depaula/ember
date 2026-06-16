@@ -1,0 +1,315 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, labia mea aperies,\n℟. Et os meum annunciabit laudem tuam.\n℣. Deus in adjutorium meum intende.\nGloria Patri, et Filio; et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gonzaga, salve floscule\nFavore Virginali,\nPrognate flos tenellule\nDe stirpe Principali\nTe luna Martis edidit,\nTe Martiale sidus;\nOrbique te concredidit\nSol, cum teneret Idus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Dominus ab utero vocavit me.\n℟. Ergo judicium meum cum Domino, et opus meum cum Deo meo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum B. Aloysium ad majorem nominis tui gloriam in Societatem Filii tui vocare dignatus es: largiri quaesumus, ut, cujus angelicam puritatem veneramur in terris, ejus gloriae participes fieri mereamur in caelis. Per Dominum nostrum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quem te vocabo vernulam\nNum tulipam colore?\nViolamne, veris gemmula,\nCasto fragrantem odore?\nUterque flos est Virginis,\nFlos est uterque Flora\nGonzaga tu propaginis\nCujus flagras amore."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ecce tu pulcher es dilecte mi, et decorus.\n℟. Lectulus noster floridus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gonzaga vix hunc hortulum\nOrbis subis, tenellis\nMox sanctiorem flosculum\nFers Numini labellis:\nQuando Mariam, et Jesulum\nSic nominas biennis,\nUt orbis in miraculum\nOraveris triennis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Iste puer meus electus.\n℟. Posui super eum spiritum meum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jesu, et Mariae literas\nDe more tuliparum\nIn cor tuum transmisseras:\nUt quinque litterarum\nMox syllabas adnecteres,\nIllisque sanctiores;\nOrationes plecteres,\nVersusque castiores."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ex ore infantium et lactentium.\n℟. Perfecisti laudem tuam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Undene major paulum\nHortum tuum colebas,\nEt suaviorum flosculum\nCor ut daret, volebas?\nQuare supremo Numini\nAudes, sacraque Virgini\nOfferre puritatem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Cum adhuc esset puer, coepit quaerere Deum Patris sui David.\n℟. Et duodecimo anno mundavit Judam, et Jerusalem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In serta vix haec planctula,\nIn corde seminatur\nGonzaga, et ore blandula\nRosa inde procreatur\nQuae blandientis Cypridis\nNe fraudibus pateret,\nSpernit jocos Adonidis,\nUt castior lateret.\nHinc tauricis, hinc funibus,\nCalcaribus, catenis\nSe se induit, ceu vepribus,\nUt obviat venenis.\nNec sat: cruore proprio\nApud Patrem perorat?\nJesuque sub tentorio\nLatere flos hic orat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ex omnibus floribus orbis elegisti tibi lilium unum.\n℟. Lilium inter spinas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Transfertur ergo patria\nGonzaga flos ab urbe,\nRomanae in Urbis atria:\nSed saeviente sede\nIn urbe pestilentia,\nDum gnaviter ministrat\nAegris, febris constantia\nVictus sub astra migrat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Cum liber essem, omnium me servum feci.\n℟. Mihi vivere Christus, et mori lucrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Flos amice Numina\nO gemma Tuliparum!\nInfense flos cupidini\nSplendor, decus stolorum,\nO castitatis lilium\nGonzaga! digne caelos;\nDa, da tuorum insignium\nNos aestuare zelo:\nDa, da superna quaerere;\nRidere cuncta vana;\nTerrena da contemnere;\nVitare da profana."
+      }
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matins"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annunciabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\nAlleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "(Vel: Laus tibi Domine, etc.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Huc adeste Seraphini\nIgneique Cherubini,\nCorda sursum sublevate,\nTepidumque excitate,\nCorde totus ardeam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deum meum adorabo,\nEt in Sanctis praedicabo:\nAh quam vellem! aestuaret,\nEt amore cor flagraret;\nDum Ludgerum praedico."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Liasburga dum gerebat,\nEt Ludgerum continebat\nSinu, cadens fauciata,\nAtque dire vulnerata,\nServat hunc incolumem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Isai. 49)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Audite insulae, et attendite populi de longe:\nDominus ab utero vocavit me;\nDe ventre matris meae recordatus est nominis mei."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Lauds"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Puer mirae sanctitatis,\nAtque vitae probitatis,\nAdolescens expeditus,\nSub Gregorio nutritus\nUltrajecti Praesule."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cumque fama late plaudit,\nAlcuinus haec subaudit;\nQui deinde vitae forma\nStudiique sacri norma\nInstruct in Anglia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Literarum jam thesauro,\nEt amoris dives auro;\nQuae Ludgere quaesivisti,\nHoc Doctore consecrasti\nSanctitatis culmina."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Eccli. 50)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quasi oliva pullulans, et cypressus in altitudinem se extollens,\nin accipiendo ipsum stolam gloriae, et vestiri cum in consummatione virtutis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prime"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctitate jam maturus,\nPar Apostolis futurus,\nAd Idola confringenda,\nAtque Fana destruenda\nMitteris in Angliam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed cum turba concitata\nDesaeviret efferata,\nEt vastaret armis gentes\nWidikindus Dux credentes\nMysta Romam confugis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ter beata pergis fuga\nAd Cassini tendis juga;\nSub Abbate didicisti\nTheotmaro, quam legisti\nBenedicti Regulam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Matth. 5)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beati qui perfectionem patiuntur propter justitiam, quoniam ipsorum est Regnum Caelorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Terce"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Inde redux eras fortis,\nNulla pavens fata mortis;\nMente semper gaudiosus,\nOre blando gratiosus\nVerbum Dei praedicas."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Turba Stygis expavescit,\nFides vera dum clarescit;\nManu tenens signa Crucis\nPellis atra monstra lucis\nDaniae ex finibus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mitram virtus recusabat,\nSed invito virtus dabat.\nMimigarda bellicosas,\nEt in pugnas animosa\nTe quiescit Praesule."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Eccli. 44)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce Sacerdos magnus, qui in diebus suis placuit Deo, et inventus est justus; et in tempore iracundiae, factus est reconciliatio."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sext"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Depascentes hinc agrestes,\nPellis anseres sylvestres.\nNulla posthac damna pratis,\nInferenda neque satis\nSunt ab his anseribus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Abbatiam Werdenensem\nFundas, et Helmsladensem;\nSylva quamvis tenebrosa\nObstat, quae prodigiosa\nPrece noctu sternitur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ad Nortmannos subjugandos,\nChristo Jesu sociandos,\nTe accingens, morbo pressus\nPersequentum graves laesus\nNuntias Ecclesiae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Eccli. 50)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce Confessor magnus, qui quasi stella matutina in medio nebulae,\net quasi luna plena in diebus suis lucet, et quasi sol refulgens:\nsic ille effulsit in templo Dei."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "None"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Morbo licet premereris,\nEt dolore torquereris;\nChristum tamen praedicabas\nIndiesque consecrabas,\nGratam Deo victimam."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Postquam Missam auscultaras,\nPopuloque praedicaras;\nTe ad mortem praeparabas,\nAtque Deo commendabas\nEgressurum spiritum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Post haec clausa est suprema\nBillerbeccae vitae scena:\nMors per lucem demonstratur,\nEt Gerfrido nuntiatur\nPer hos lucis radios."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amavit eum Dominus, et ornavit eum, stolam gloriae induit eum,\net ad portas Paradisi coronavit eum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vespers"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri et Filio et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mox defunctum deferebant\nMimigardam, quo vovebant;\nPignus sacrum primo mense\nIn Mariae Transaquenſe\nPonitur Ecclesia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Hinc efferri nolunt vota\nQuae depromit plebs devota;\nAegre sinit transportari\nPraesulemque tumulari\nAlienis finibus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mimigarda reluctante,\nPopuloque reclamante,\nAquisgrani consignantur\nJussa, queis coercentur\nImperante Carolo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Eccli. 24)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ego quasi vitis fructificavi suavitatem odoris, et flores mei fructus honoris et honestatis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Compline"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "A Ludgero quod relatum,\nVaticinium probatum,\nExhalantes dum cruorem\nNares stillant velut rorem\nIn die trigesimo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Plebs hoc signo erudita\nFiat, clamat, fiat ita:\nIn Werdina tumuletur,\nIn Werdina honoretur,\nPraesul beatissimus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ergo te depraedicabo,\nTe Ludgere invocabo;\nMe defende, me guberna,\nEt post vitam in superna\nDuc me tabernacula."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mille Jesu perennanti,\nMille grates sint Tonanti,\nFlaminique tot honores,\nSempiternum quot amores\nFovet alma Trinitas."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona (Eccli. 46)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Memoria illorum in benedictione,\net ossa pullulent de loco suo,\net nomen eorum permaneat in aeternum;\npermanente ad filios illorum\nsanctorum virorum gloria."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis beate Ludgere.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui conspicis, quia nos undique mala nostra perturbant,\npraesta, quaesumus, ut beati Ludgeri Confessoris tui atque Pontificis\nintercessio gloriosa nos protegat.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sume Jesu quae devota\nMente tibi solvi vota.\nIn Ludgero adoravi,\nIn Ludgero praedicavi\nTe Supremam Triadem."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Fac in morte ut purgatus,\nEt amore inflammatus,\nCaelo phoenix moriturus,\nIn supernis oriturus,\nMoriar in gratia."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "His in votis Jesum spero,\nExtra Jesum nihil quaero:\nGloriosus cum Ludgero\nTanto surgam junctus Hero\nIn die judicii."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Ergo lux Episcoporum,\nSpes, asylum miserorum,\nTuta salus orphanorum,\nAc clientum devotorum\nDecus et praesidium."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "In suprema mortis hora\nPrecor adsis sine mora.\nFac, quod olim promisisti,\nDux sis mihi, ut dixisti,\nAd locum judicii."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Jesum si pro me orabis,\nScio, Judicem placabis:\nHoc confidens in te spero,\nExtra Jesum nihil quaero\nVivus atque mortuus."
+      }
+    }
+  ]
+}

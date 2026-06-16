@@ -1,0 +1,374 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Pope Pius IX., by Brief of March 31, 1876, granted to the faithful who recite devoutly and with a contrite heart, the Little Office of the Immaculate Conception an Indulgence of 300 Days each time."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins and Lauds",
+            "pt-BR": "Matinas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Come, Holy Ghost, fill the hearts of Thy faithful.\n℟. And enkindle in them the fire of Thy love.\n℣. Send forth Thy Spirit, and they shall be created.\n℟. And Thou shalt renew the face of the earth."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO God, Who by the light of the Holy Ghost, didst instruct the hearts of the faithful, grant us by that same Holy Ghost that we may be made truly wise, and ever to rejoice in His consolation. Through Christ our Lord. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Come, my lips and loud proclaim.\n℟. The Blessed Virgin's spotless fame.\n℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, forever, unto ages of ages. Amen. (Alleluia) From Septuagesima to Easter, Alleluia is replaced by: Praised be to Thee, O Lord, King of eternal glory."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hail, Queen of the Heavens, hail, Mistress of earth;\nHail, Virgin most pure of Immaculate Birth.\nClear Star of the morning, in beauty enshrined,\nO Lady, make speed to the help of mankind.\nThee God in the depth of eternity chose,\nAnd formed thee all fair as His glorious spouse.\nAnd called thee His Word's own Mother to be,\nBy Whom He created the earth, sky and sea. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. God elected her and pre-elected her.\n℟. He made her to dwell in His tabernacle.\n℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray\nO Holy Mary, Mother of our Lord Jesus Christ, Queen of Heaven and Mistress of the whole world, who never forsakest or despisest anyone, look upon us with an eye of pity, and beg of thy beloved Son the pardon of all our sins, that we who now devoutly celebrate thy Immaculate Conception may receive the reward of eternal joy, through the mercy of Jesus Christ our Lord, Whom thou, pure Virgin, didst bring into the world, and Who with the Father and the Holy Ghost, in perfect Trinity, liveth and reigneth one God, forever, unto ages of ages. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God and the intercession of Mary rest in peace.\n℟. Amen.\n℣. Jesus, Mary, and Joseph.\n℟. We love Thee, save souls."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, forever, unto ages of ages. Amen. (Alleluia) From Septuagesima to Easter: Praised be to Thee, O Lord, King of eternal glory."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hail, Virgin most wise, hail, Deity's shrine,\nWith seven fair pillars, and table Divine.\nPreserved from the guilt which hath come on us all;\nExempt in the womb from the taint of the Fall.\nO new Star of Jacob, of Angels the Queen,\nO Gate of the saints, O Mother of men,\nO Terrible as the embattled array,\nBe thou of the faithful the Refuge and Stay. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The Lord Himself created her in the Holy Ghost.\n℟. And poured her out among all His works.\n℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Holy Mary, Mother of our Lord Jesus Christ, Queen of Heaven and Mistress of the whole world, who never forsakest or despisest anyone, look upon us with an eye of pity, and beg of thy beloved Son the pardon of all our sins, that we who now devoutly celebrate thy Immaculate Conception may receive the reward of eternal joy, through the mercy of Jesus Christ our Lord, Whom thou, pure Virgin, didst bring into the world, and Who with the Father and the Holy Ghost, in perfect Trinity, liveth and reigneth one God, forever, unto ages of ages. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God and the intercession of Mary rest in peace.\n℟. Amen.\n℣. Jesus, Mary, and Joseph.\n℟. We love Thee, save souls."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, forever, unto ages of ages. Amen. (Alleluia)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hail, Solomon's throne, pure Ark of the law,\nFair Rainbow and Bush which the patriarch saw.\nHail, Gideon's Fleece, hail, Blossoming Rod;\nSamson's sweet Honeycomb, Portal of God.\nWell fitting it was that a Son so Divine\nShould preserve from all touch of original sin;\nNor suffer by smallest defect to be stained,\nThat Mother whom He for Himself had ordained. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. I dwell in the highest.\n℟. And my throne is on the pillar of the clouds.\n℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Holy Mary, Mother of our Lord Jesus Christ, Queen of Heaven and Mistress of the whole world, who never forsakest or despisest anyone, look upon us with an eye of pity, and beg of thy beloved Son the pardon of all our sins, that we who now devoutly celebrate thy Immaculate Conception may receive the reward of eternal joy, through the mercy of Jesus Christ our Lord, Whom thou, pure Virgin, didst bring into the world, and Who with the Father and the Holy Ghost, in perfect Trinity, liveth and reigneth one God, forever, unto ages of ages. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Or:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "With all my heart, I praise thee, most holy Virgin Mary, above all the Angels and Saints in Paradise; Beloved Daughter of the Eternal Father, I consecrate to thee my soul with all its faculties. Hail Mary"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God and the intercession of Mary rest in peace.\n℟. Amen.\n℣. Jesus, Mary, and Joseph.\n℟. We love Thee, save souls."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, forever, unto ages of ages. Amen. (Alleluia)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hail, Virginal Mother, hail, Purity's Cell;\nFair shrine where the Trinity loveth to dwell.\nHail, Garden of Pleasure, Celestial Balm,\nCedar of Chastity, martyrdom's palm.\nThou Land set apart from uses profane,\nAnd free from the curse which in Adam began.\nThou City of God, thou Gate of the East,\nIn thee is all grace, O Joy of the Blest. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. As the lily among the thorns.\n℟. So is my Beloved among the daughters of Adam.\n℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Holy Mary, Mother of our Lord Jesus Christ, Queen of Heaven and Mistress of the whole world, who never forsakest or despisest anyone, look upon us with an eye of pity, and beg of thy beloved Son the pardon of all our sins, that we who now devoutly celebrate thy Immaculate Conception may receive the reward of eternal joy, through the mercy of Jesus Christ our Lord, Whom thou, pure Virgin, didst bring into the world, and Who with the Father and the Holy Ghost, in perfect Trinity, liveth and reigneth one God, forever, unto ages of ages. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Or:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "With all my heart, I praise thee, most holy Virgin Mary, above all the Angels and Saints in Paradise; admirable Mother of the Son of God, I consecrate to thee my body with all its senses. Hail Mary"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God and the intercession of Mary rest in peace.\n℟. Amen.\n℣. Jesus, Mary, and Joseph.\n℟. We love Thee, save souls."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, forever, unto ages of ages. Amen. (Alleluia)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hail, City of Refuge, hail, David's High Tower,\nWith battlements crowned and girded with power.\nFilled at thy Conception with love and with light,\nThe dragon by thee was shorn of his might.\nO Woman most valiant, O Judith thrice blest,\nAs David was nursed in fair Abisag's breast;\nAs the Saviour of Egypt upon Rachel's knee,\nSo the world's great Redeemer was cherished by thee. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou art all fair, my Beloved.\n℟. And the original stain was never in thee.\n℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Holy Mary, Mother of our Lord Jesus Christ, Queen of Heaven and Mistress of the whole world, who never forsakest or despisest anyone, look upon us with an eye of pity, and beg of thy beloved Son the pardon of all our sins, that we who now devoutly celebrate thy Immaculate Conception may receive the reward of eternal joy, through the mercy of Jesus Christ our Lord, Whom thou, pure Virgin, didst bring into the world, and Who with the Father and the Holy Ghost, in perfect Trinity, liveth and reigneth one God, forever, unto ages of ages. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Or:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "With all my heart, I praise thee, most holy Virgin Mary, above all the Angels and Saints in Paradise; faithful Spouse of the Holy Ghost, I consecrate to thee my heart with all its affections and beseech thee to obtain for me from the most Holy Trinity all the graces necessary for salvation. Hail Mary"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God and the intercession of Mary rest in peace.\n℟. Amen.\n℣. Jesus, Mary, and Joseph.\n℟. We love Thee, save souls."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, forever, unto ages of ages. Amen. (Alleluia)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hail, dial of Achaz, on thee the true Sun\nTold backward the course which from old He had run.\nAnd that man might be raised, submitting to shame,\nA little more low than the Angels became.\nThou wrapt in the blaze of His Infinite Light,\nDoth shine as the morn on the confines of night.\nAs the moon on the lost through obscurity dawns,\nThe serpent's destroyer, a lily amid thorns. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. I made an unfailing light to arise in Heaven.\n℟. And as a mist I overspread the whole earth.\n℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Holy Mary, Mother of our Lord Jesus Christ, Queen of Heaven and Mistress of the whole world, who never forsakest or despisest anyone, look upon us with an eye of pity, and beg of thy beloved Son the pardon of all our sins, that we who now devoutly celebrate thy Immaculate Conception may receive the reward of eternal joy, through the mercy of Jesus Christ our Lord, Whom thou, pure Virgin, didst bring into the world, and Who with the Father and the Holy Ghost, in perfect Trinity, liveth and reigneth one God, forever, unto ages of ages. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God and the intercession of Mary rest in peace.\n℟. Amen.\n℣. Jesus, Mary, and Joseph.\n℟. We love Thee, save souls."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. May Jesus Christ thy Son, reconciled by thy prayers, O Lady, convert our hearts.\n℟. And turn away His anger from us.\n℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, forever, unto ages of ages. Amen. (Alleluia)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hail, Mother most pure, Hail Virgin renowned,\nHail, Queen with the stars as a diadem crowned.\nAbove all the Angels in glory untold,\nStanding next to the King in a vesture of gold.\nO Mother of Mercy, O Star of the Wave,\nO Hope of the guilty, O Light of the Grave,\nThrough thee may we come to the Haven of rest\nAnd see Heaven's King in the courts of the blest. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thy name, O Mary, is as oil poured out.\n℟. Thy servants have loved thee exceedingly.\n℣. O Lady, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "These praises and prayers I lay at thy feet,\nO Virgin of virgins, O Mary most sweet.\nBe thou my true Guide through this pilgrimage here,\nAnd stand by my side when death draweth near.\n℣. Deo Gratias."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Antiphon:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "There is a bough in which no blur of either kind, original or wrought, hath touched the Virgin rind."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "℣. In thy Conception, O Virgin, thou wast Immaculate.\n℟. Pray for us to the Father, Whose Son thou didst bear."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Let us pray,\nO God, Who by the Immaculate Conception of the Blessed Virgin Mary didst prepare a worthy habitation for Thy Son, we beseech Thee, that as by the foresight of His death Thou didst exempt her from all stain, so we, purified by her intercession, may come to Thee, through the same Jesus Christ, Thy Son, our Lord, Who liveth and reigneth with Thee and the Holy Ghost, forever, unto ages of ages. Amen."
+      }
+    }
+  ]
+}

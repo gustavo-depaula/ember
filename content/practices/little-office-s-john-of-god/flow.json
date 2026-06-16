@@ -1,0 +1,513 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laus Joanni sit, qui Patrum\nPosuit primordia,\nSacri Ordinis, et Fratrum\nde misericordia,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cujus ortu glorioso\nGaudet Lusitania\nFato sit hic ominoso\nMiles in Hispania,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Apparente sed mutavit\nDivae Deiparae,\nEt ad pia applicavit\nCharitatis opera."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fidelis servus, et prudens quem constituit Dominus super familiam suam pro cura infirmorum, pauperum, et afflictorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ut vitaret mundi viam,\nLubrica carnalia,\nAd agendam vitam piam\nFundat hospitalia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et infirmos derelictos\nExcipit hospitio,\nConsolatur et afflictos,\nPauperes servitio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Felix sanctus Joannes, cui Dominus ad exemplum Moysis erga proximos caritatem et fraternae salutis zelum inspiravit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aegros curat, fovet, sanat,\nEt dementes recipit,\nMoribundis viam planat\nEt defunctos sepelit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Spiritualem corporalem\nCaritatem habuit,\nEsse semper hospitalem\nOmnibus exhibuit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus sanctus Joannes, quem Deus ad exemplum Tobiae insigni patientia et erga proximos misericordia decoravit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Verus hinc Samaritanus,\nEt fundator Ordinis,\nPius fuit Lusitanus,\nClarus et miraculis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vitam duxit rigorosam\nFlagris et jejunio,\nVigilando gloriosam\nLuctam cum diabolo."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus sanctus Joannes, qui intellexit super egenum, pauperem et infirmum, et propter misericordiam Regnum Dei consecutus est."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sitam animam afflictam\nDedit patientiae,\nNullam voluit vindictam"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Patiens injuriae.\nHunc Maria coronavit\nSpinis in Ecclesia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus ille discipulus, qui dilexit proximum et legem implevit; beatus qui cum Samaritano misericordiam fecit proximo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jesum cum ignotum foris\nUt aegrotum suscipit,\nProximum ab hoc amoris\nNomen Dei recipit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ab Octavo est relatus\nAlexandro civibus,\nCoeli atque declaratus\nSanctus Dei famulus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus servus quem Dominus in caritate et misericordia vigilantem invenit, et ideo super multa constituit."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O Joannes, pro me ora,\nEt a Deo impetra,\nFaciam ut omni hora\nCaritatis opera."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ut ex orbis hospitali\nTecum ire merear,\nEt in vita aeterna\nTua sorte perfruar."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mirabilis Deus in sancto Joanne, quem propter caritatem et misericordiam continua miraculorum gloria et honore coronat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sancte Pater, hoc oblatum\nSuscipe officium.\nFac ut Deo fiat gratum\nMeum hoc servitium."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Cura, sana, me tuere,\nOmni purga vitio.\nTibi me fac congaudere\nCoeli in hospitio."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Antiphona"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O zelator fidei et amator pacis, lumen virtutum et speculum caritatis, Pater pauperum et spiritus humilitatis, qui incepisti ordinem super hospitalitatem:\nintercede pro nobis apud sanctam et individuam Trinitatem."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Oremus,\nOmnipotens sempiterne Deus, Pater pauperum, humilium celsitudo et caritatis amator:\nte humiliter deprecamur, ut sicut Ecclesia tua beati Joannis Dei paupertate, humilitate et caritate coruscata, ita et nos ejus meritis et exemplis eadem sectantes, cum ipso in aeterna gloria feliciter coronari mereamur.\nPer Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen."
+      }
+    }
+  ]
+}

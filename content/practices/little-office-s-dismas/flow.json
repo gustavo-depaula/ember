@@ -1,0 +1,518 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Ingressus"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Disma poenitens praeclare,\nRecolli non dedignare\nOda hac canonica,\nCui post seram poenitere\nPrimo tamen patuere\nParadisi ostia."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "In domo Patris mei multae sunt mansiones: erunt novissimi primi, et primi erunt novissimi."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. In quacunque die conversus fuerit ab impietate sua\n℟. Impietas impii non nocebit ei."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Non Aegyptus thura dabat\nTot Idolis: abundabat\nSaevis quot latronibus;\nInter quales et fuisse,\nDisma! datur, te legisse,\nHuc dum fugit Jesulus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dispendentur a facie ejus idola Aegypti: lappa et tribulus ascendet super aras eorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Lucernas accendit illis,\n℟. Ne a latronibus exspolientur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nMisericordissime Jesu, qui pendens in Cruce, ineffabile infinitae misericordiae tuae specimen in conversione sancti Dismas latronis ostendisti: per sanguinem tuum pretiosum in Cruce effusum, obsecro te, concede mihi ingratissimo peccatori efficacem tuam gratiam, ut peccata mea deplorare, te toto corde amare, et in hora mortis meae audire a te merear: Hodie mecum eris in Paradiso. Qui vivis et regnas cum Deo Patre etc."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum sub palma Joseph pater\nSedet, atque nato mater\nJesulo advigilat,\nTu cum assectis prorumpis,\nSupplex vero mox procumbis,\nPupus te dum advocat."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quare posuisti me contrarium tibi, et arbitratus es me inimicum tuum?"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ego cum exaltatus fuero de terra,\n℟. Omnia traham ad meipsum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quin jam sociis relictis,\nHospitem te das afflictis,\nDucem et itineris;\nAt non diu! nam reversus\nAd sodales, mox immersus\nPriscis es flagitiis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Odisti disciplinam, et projecisti sermones meos retrorsum: cum videbas furem, currebas cum eo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Cum electo electus eris,\n℟. Et cum perverso perverteris."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "En! jam Christus, instar Ducis,\nPer virtutes viam Crucis\nIntrat et miracula,\nNum et tu ad Crucem perges?\nImo certe! sed huc verges\nProbra per et scelera."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fecit oriri solem suum super bonos et malos, et pluit super justos et injustos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Justum autem deducet Dominus per vias rectas,\n℟. Et impii in circuitu ambulabunt."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "At, quam multum obliquabas\nIter Dismae, et distabas\nRecta Christi semita,\nTamen hi, per pares mortes,\nViae sancti sunt consortes\nRursum in Calvaria."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pro eo enim, quod tradidit in mortem animam suam, et peccata multorum tulit, cum sceleratis reputatus est."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ducebantur autem et alii duo nequam cum eo,\n℟. Ut interficerentur."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Disma, quae haec paradoxa?\nPar est poena, dispar noxa,\nTu sons, Christus innocens:\nPorro nec vercundaris,\nSons insolens, criminari,\nProbrum terrae, summum Ens."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Nequitiam et iniquitatem in excelso locuti sunt: posuerunt in coelum os suum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Si tu es Christus, salvum fac temetipsum et nos,\n℟. Alios salvos facis, te ipsum non potes salvum facere."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Unus Christi sed aspectus\nSic contudit tibi pectus\nAlta missus arbore,\nMox ut totus indoleres,\nCaedes, spolia defleres,\nNoxas et blasphemiae."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Exaudi me Domine, quoniam benigna est misericordia tua: secundum multitudinem miserationum tuarum respice in me."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Et nos quidem digna factis recipimus,\n℟. Hic vero nihil mali gessit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Sis Disma memor omnium\n℟. Cum morte confligantium.\n℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Venia sic impetrata,\nDismae Paradisi grata\nJam et regna exspectat;\nCui et Jesus prompto ore,\nHodie se adhuc fore\nIbi secum, innuit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Apud Dominum propitiatio est, et copiosa apud eum redemptio: et ipse redimet Israel ex omnibus iniquitatibus ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, memento mei, cum veneris in regnum tuum.\n℟. Amen. dico tibi: hodie mecum eris in Paradiso."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Commendation"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Disma, fac et nos sincero,\nSed dolore non tam sero\nPortum coeli tangere;\nQuodsi vero id sit sero,\nLuctu fac hoc plus severo\nCulpas nostras plangere."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Suavis Dominus universis, patiens et multum misericors: et miserationes ejus super omnia opera ejus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Sacrificium Deo spiritus contribulatus,\n℟. Cor contritum et humiliatum Deus non despicies."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis beate Disma,\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Sancte Disma, qui mira Dei providentia ex nefario latrone in eximium poenitentiae speculum evasisti, et paucas intra horas aeterna tibi gaudia comparasti: dignare de excelso gloriae tuae throno, sicut in te de Cruce aspexit Christus, super miseriam hanc lachrymarum vallem oculos tuos defigere; et quoniam tibi cognita est mentis humanae fragilitas, semper ad malum magis, quam ad bonum proclivis; igitur nobis, apud dulcissimum Redemptorem nostrum, precibus tuis impetra, ut sicut per gratiam suam efficacem ad poenitentiam et Paradisi coelestis gloriam te perduxit, ita et nos famulos suos eadem efficaci gratia ad dignos poenitentiae fructus impellat, quo commissis nostris corditus deploratis, pie quondam tibi commoremur, ac una tandem in Deo Salvatori nostro jugiter exultemus, qui vivit et regnat in saecula saeculorum.\nAmen."
+      }
+    }
+  ]
+}

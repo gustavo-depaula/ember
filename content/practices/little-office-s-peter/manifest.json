@@ -1,0 +1,37 @@
+{
+  "id": "little-office-s-peter",
+  "icon": "candle",
+  "name": {
+    "en-US": "Little Office of S. Peter, Prince of the Apostles"
+  },
+  "categories": [
+    "saints"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of S. Peter, Prince of the Apostles, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "saints",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 173,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From the Sulamittis Officiosa (1714)."
+  }
+}

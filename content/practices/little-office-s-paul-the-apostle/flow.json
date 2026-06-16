@@ -1,0 +1,500 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Praefatio."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Paule vas electionis,\nMagne Doctor gentium,\nArdens fax dilectionis,\nVera lux credentium!\nAccipe, quod pio corde\nMunuus hic deferimus,\nTuis licet quaque sorte\nMeritis inferius."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum."
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste, ut portet Nomen meum coram Gentibus, et Regibus, et Filiis Israel."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine labia mea aperies,\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Saulus adhuc dum vocaris,\nPaulus donec fueras,\nUnice delectabaris\nPerdere Christicolas;\nAdolescens impiorum\nCuram geris vestium,\nLapidat dum Judaeorum\nGens proterva Stephanum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Supra modum persequebar Ecclesiam Dei, et proficiebam in Judaismo, super multos coartancos meos."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis S. Paule Apostole.\n℟. Ut digni efficiamur promissionibus Christi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui multitudinem Gentium Beati\nPauli Apostoli praedicatione docuisti:\nDa nobis, quaesumus, ut cujus merita colimus,\nejus apud te patrocinia sentiamus.\nPer Dominum nostrum etc. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Ad Laudes."
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed Damascum ut tendenti\nChristus occlamaverat;\nSaule dic, me persequendi\nQuae te causa agitat?\nEquo lapsus mox respondes:\nDic, quid me vis facere!\nJugo Christi te despondes,\nSacro lotus flumine."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Abiit Ananias, et imponens ei manus, dixit: Misit me Jesus, ut videas; et surgens baptizatus est."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum in synagoga Christum\nPosthac palam praedicas,\nHunc convertis, jam et istum\nSanas, et resuscitas,\nStygem pellis, idolorum\nExcutis daemonia,\nPro mercede tot laborum,\nDura fers et aspera."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ter virgins caesus, semel lapidatus sum, ter naufragium feci, nocte et die in periculis fui, in labore, aerumna, vigiliis, fame et siti."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Isthoc tamen nil morante,\nScandis Jerosolymam,\nUt Jacobus velut ante\nIbi fudit animam,\nTuque Christo immoleris,\nNoctis sub concubium\nSed doceris, ut testes\nRomae quoque Dominum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sequenti autem nocte assistens ei Dominus ait: Constans esto, sicut enim testificatus es de me in Jerusalem, sic te oportet et Romae testificari."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Inter haec ad Dithalassium,\nLongum post circuitum,\nPaule te Melita passum\nSuscipit naufragium:\nAt, quam Insula humana,\nAtrox tam est vipera,\nMordet haec: sed ira vana,\nViru quasi vacua."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cum autem Paulus sarmentorium aliquantam multitudinem imposuisset super ignem, vipera invasit manum ejus: Et ille quidem excutiens bestiam in igne, nihil mali passus est."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jugitaliter labore\nDum desudas strenue,\nAtque Christi pro amore\nDira suffers undique,\nUsque tertium in coelum\nRaperis; nec protinus\nLiber tamen, quin anhelum\nCarnis turbet stimulus."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ne magnitudo revelationum extollat me, datus est mihi stimulus carnis meae, Angelus Sathanae, qui me colaphizet."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tandem Romam dum venisti,\nPublice de ritibus,\nDeque nova lege Christi,\nPraedicas Quiritibus,\nPars auscultat, pars irridet,\nSed Neronis Pellicem\nGens, ut Christianam videt,\nFertur res ad Caesarem."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Mansit autem biennio in suo conducto, docens, quae sunt de Domino Jesu Christo, cum omni fiducia, sine prohibitione."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vas electionis est mihi iste etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jamque Paulus per lictotes\nMancipatur vinculis:\nFlagellato per tortores\nSed mandato Caesaris\nPostquam caput detruncatur,\nLac cruorque profluit,\nFonsque salva dum levatur\nTertus terno profluit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aestimati sumus sicut oves occisionis, sed in his omnibus superamus, propter hunc, qui dilexit nos."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Vers. et Oratio ut supra."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Nostra tibi Dive Paule\nSume haec obsequia!\nQui coelestis inter aulae\nJam triumphas gaudia,\nFac nos serio conversos\nChristum sequi jugiter,\nFaustis, nec adversis merlos\nPlaudere perenniter."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Ant."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Non oculus vidit, nec auris audivit, nec in cor hominis ascendit, quae praeparaverit Deus iis, qui diligunt illum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "℣. Ora pro nobis S. Paule Apostole.\n℟. Ut digni efficiamur promissionibus Christi."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Omnipotens et mirabilis Deus, qui S. Paulum ex persecutore Ecclesiae tuae in Vas Electionis atque Doctorem Gentium constituisti, cumque tam indefesso animarum amore, zeloque inflammasti, ut omnibus omnia factus sit, Deprecor te, effice per copiosam gratiam tuam in anima mea, ut sacratissimis tuis inspirationibus illico obsequar, frigisque vitae anteacta insatiabili amoris fervore rependam. Praesta o Domine, per exemplum et intercessionem hujus Apostoli tui, ut posthac non ego, sed per ardentissimum imitationis studium Christus in me vivat, nec amem aliquid vel formidem, nisi quod separare me possit a charitate Christi; Cum quo et Spiritu S. aeternum vivis et regnas Deus in saecula saeculorum,\nAmen."
+      }
+    }
+  ]
+}

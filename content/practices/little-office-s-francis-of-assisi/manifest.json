@@ -1,0 +1,37 @@
+{
+  "id": "little-office-s-francis-of-assisi",
+  "icon": "candle",
+  "name": {
+    "en-US": "Little Office of S. Francis of Assisi"
+  },
+  "categories": [
+    "saints"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of S. Francis of Assisi, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "saints",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 152,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From Elenchus Vitae (1733)."
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "sections": [
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "From the Ruth Officiosa (1715)."
+      }
+    },
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "prime",
+        "6-9": "terce",
+        "10-12": "sext",
+        "13-16": "none",
+        "17-19": "vespers",
+        "20-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, etc.\nSicut laetantium omnium nostrum habitatio est in te, Sancta Dei Genitrix."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Eja mea labia nunc annunciate.\n℟. Sacra septem gaudia Mariae beatae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina in adjutorium meum intende.\n℟. A moerore animi clementer nos defende.\nGloria Patri, et Filio, et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gaude, Virgo Mater Christi,\nQuia Jesum concepisti\nGabriele nuntio,\nFac, o Mater, ut salvemur,\nNam quod Matrem te fatemur,\nResta poscit ratio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laetentur coeli et exsultet terra,\ngaudete campi et omnia quae in eis sunt."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Angelus Domini nunciavit Mariae, Alleluja.\n℟. Et concepit de Spiritu Sancto, Alleluja."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui de beatae Mariae Virginis utero verbum tuum,\nAngelo nunciante, carnem suscipere voluisti:\npraesta supplicibus tuis, ut qui vere eam Genitricem Dei credimus,\nejus apud te intercessionibus adjuvemur.\nPer Dominum nostrum Jesum Christum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, etc.\nSicut laetantium omnium, etc.\n℣. Domina in adjutorium meum intende.\n℟. A moerore animi, etc.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gaude, Mater Deo plena,\nNovo gignens sine poena\nFoetum puerperio!\nEja Virgo peramena,\nCasto natum mens serena\nStringat desiderio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Venite et videte opera Domini,\nquae posuit prodigia super terram."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Germinavit radix Jesse, Alleluja.\n℟. Virgo peperit Salvatorem, Alleluja."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui salutis aeternae beatae Mariae virginitate fecunda\nhumano generi praemia praestitisti:\ntribue, quaesumus, ut ipsam pro nobis intercedere sentiamus,\nper quam meruimus auctorem vitae suscipere,\nDominum nostrum Jesum Christum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Tertia"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, etc.\nSicut laetantium omnium, etc.\n℣. Domina in adjutorium meum intende.\n℟. A moerore animi, etc.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gaude, quod ab Oriente\nMagi stella prae lucente\nDona ferunt Filio,\nFac donerur pietate,\nFide, spe, ac charitate,\nEt pudoris lilio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tollite hostias et introite atria ejus;\nadorate Dominum in atrio sancto ejus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Et intrantes domum invenerunt Puerum cum Maria matre ejus, Alleluja.\n℟. Et adorantes eum, apertis thesauris suis, obtulerunt ei munera, Alleluja."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui unigenitum tuum gentibus stella duce revelasti:\nconcede propitius, ut qui jam te ex fide cognovimus,\nper intercessionem beatae Mariae Virginis,\nusque ad contemplandam speciem tuae celsitudinis perducamur.\nPer Dominum nostrum Jesum Christum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, etc.\nSicut laetantium omnium, etc.\n℣. Domina in adjutorium meum intende.\n℟. A moerore animi, etc.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gaude, quia dulcis nati,\nQuem vidisti mortem pati,\nFulget resurrectio.\nFac ab imo vitiorum\nSurgat mens, et supernorum\nGustum spiret actio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Attollite portas principes vestras,\net elevamini portae aeternales,\net introibit rex gloriae."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Gaude et laetare Virgo Maria, Alleluja.\n℟. Quia surrexit Dominus vere, Alleluja."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui per resurrectionem Filii tui Domini nostri Jesu Christi\nmundum laetificare dignatus es:\npraesta quaesumus, ut per ejus Genitricem Virginem Mariam\nperpetua capiamus gaudia vitae.\nPer eundem Dominum nostrum Jesum Christum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, etc.\nSicut laetantium omnium, etc.\n℣. Domina in adjutorium meum intende.\n℟. A moerore animi, etc.\nGloria Patri, et Filio, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gaude coelos ascendente\nNato, vides quem repente\nFerri motu proprio.\nVia vitae restituta,\nQuem post natum tu secuta,\nFac sequamur serio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum de coelis,\nlaudate eum in excelsis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Videntibus illis elevatus est, Alleluja.\n℟. Et nubes suscepit eum ab oculis eorum, Alleluja."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nConcede quaesumus, Omnipotens Deus,\nut qui unigenitum tuum redemptorem nostrum\ngloriose ascendisse in coelos credimus,\nintercedente beata Maria Virgine matre ejus,\nipsi quoque in coelestibus mereamur habitare.\nPer Dominum nostrum Jesum Christum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, etc.\nSicut laetantium omnium, etc.\n℣. Domina in adjutorium meum intende.\n℟. A moerore animi, etc.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gaude, quia Paraclitus\nMissus coelo novos foetus\nIgne format Entheo.\nIgne sacri nos amoris,\nFac accendi, ne laboris\nCapiamur taedio."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicite fulgura et nubes Domino,\nbenedicat terra Dominum, laudat et superexaltet eum in saecula."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Factus est repente de coelo sonus,\ntanquam advenientis Spiritus vehementis, Alleluja.\n℟. Et replevit totam domum, ubi erant sedentes. Alleluja."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui Genetrici Filii tui atque Apostolis tuis sanctum dedisti Spiritum,\nconcede plebi tuae piae petitionis effectum,\nut cui dedisti fidem, beatae Virginis intercessione eidem largiaris pacem.\nPer Dominum nostrum Jesum Christum."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave Maria, etc.\nSicut laetantium omnium, etc."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Convertat nos Domina, tuis precibus placatus, Jesus Christus Filius tuus.\n℟. Et avertat iram suam a nobis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domina in adjutorium meum intende.\n℟. A moerore animi, etc.\nGloria Patri, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gaude, quae post Christum scandis\nAstra coeli, nuncque pandis\nAditum ad aethera,\nO fac fructu ventris tui\nPer te nobis detur frui\nIn coelesti gloria."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicite Angeli Domini Domino:\nbenedicite coeli Domino."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Exaltata est, Sancta Dei Genitrix, Alleluja.\n℟. Super choros Angelorum ad coelestia regna, Alleluja."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beatam Mariam Virginem,\nmatrem Filii tui gloriosa assumptionis laetitia in coelos assumere dignatus es:\nconcede, ut cujus gaudia devote celebramus in terris,\neadem intercedente aeternum mereamur gaudere in coelis.\nPer Dominum nostrum Jesum Christum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine exaudi, etc. Benedicamus, etc.\n℟. Et Fidelium, etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Conclusio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Hosce sacros, o Maria!\nTibi plausus sume pia,\nFusos ex laetitia!\nFac et nos, post istud flere,\nTibi tandem congaudere\nIn coelesti gloria."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oratio"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "O Sanctissima Virgo, Dei Genitrix, has preces ad honorem septem tuorum gaudiorum,\nmeaque pro salute recitatas suscipe.\nO benedicta Mater misericordiae!\nObsecro te per copiosa gaudia quae in coelo et in terra habebas et in aeternum habebis:\nimpetra mihi peccatori a Domino Deo veram consolationem,\net gaudium mentis, remissionem omnium peccatorum,\ngratiam et auxilium sancte vivendi, et tandem feliciter moriendi.\nPer Jesum Christum dilectissimum Filium tuum,\nqui cum Patre et Spiritu Sancto vivit et regnat\nin Trinitate perfecta Deus in saecula saeculorum. Amen."
+      }
+    }
+  ]
+}

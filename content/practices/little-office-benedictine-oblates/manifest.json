@@ -1,0 +1,36 @@
+{
+  "id": "little-office-benedictine-oblates",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Little Office for Benedictine Oblates"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of Benedictine Oblates, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 181,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From A Manual of Devotions to Our Holy Father Saint Benedict (1861)."
+  }
+}

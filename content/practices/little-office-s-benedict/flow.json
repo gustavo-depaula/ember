@@ -1,0 +1,1084 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave. Credo. (secreto).\n℣. Deus in adiutorium, etc., ut supra ad vesperas.",
+                "en-US": "Our Father. Hail Mary. I believe. (silently).\n℣. Incline unto mine aid, etc., as above at vespers."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Coetus triumphant coelitum. Addatque terra jubilum,\nFruatur quod aethereis, en, Benedictus gaudiis.",
+                "en-US": "Let saints above and men below,\nTheir joy and triumph gladly show.\nThat Benedict, with glory crowned,\nEternal bliss in heaven has found."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Die 21a Martii, loco praecedentis strophae, dicitur sequens:",
+                "en-US": "On March 21st the following verse is substituted for that just given:"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Aurora surgit aurea festa restaurans annua\nCum Benedictus arduum coeli scandit palatium.\n\nQuanta in summis accipit, qui sic in imis claruit;\nCuius micant prodigia per ampla mundi climata!\n\nO sacrosancta trinitas, sit tibi laus et gloria!\nQua Benedictus fruitur per infinita saecula. Amen.",
+                "en-US": "The morn her golden hue displays\nAnd ushers in the day of days,\nWhen Benedict, his labours o'er,\nUp to the heavenly court did soar.\n\nWhen such on earth his honoured name,\nWhat glory bright, what dazzling fame\nIn heaven are his, whose deeds sublime\nFill the wide world through every clime!\n\nPraise, honour, glory, be to thee,\nMost sacred, holy Trinity!\nWhose love, in everlasting rest,\nOverflows our saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Monachorum patriarcham.",
+                "en-US": "Let us sing."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum Ieremiae xvij, 7, 8.",
+                "en-US": "Canticle of Jeremias xvij, 7 and 8."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus vir, qui confidit in Domino, et erit Dominus fiducia eius.\nEt erit quasi lignum quod transplantatur super aquas, quod ad humorem mittit radices suas: et non timebit cum venerit aestus.\nEt erit folium eius viride, et in tempore siccitatis non erit sollicitum, nec aliquando desinet facere fructum.\nGloria Patri.",
+                "en-US": "Blessed is the man that trusteth in the Lord: and the Lord shall be his confidence.\nAnd he shall be as a tree that is planted by the waters, that spreadeth out its roots towards the moisture; and it shall not fear when the heat cometh.\nAnd the leaf thereof shall be green, and in the time of drought it shall not be solicitous: neither shall it cease at any time to bring forth fruit.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Monachorum patriarcham collaudemus canticis, et patronum celebremus gloriosum miraculis. (T.P. Alleluia).",
+                "en-US": "Let us sing unto the patriarch of monks canticle of praise, and hymn our patron whom miracles have made renowned. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate pater Benedicte. (T.P. Alleluia).\n℟. Et impetra nobis spiritum tuum. (T.P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed father Benedict. (In P.T. Alleluia).\n℟. And obtain for us thy spirit. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater noster (secreto).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
+                "en-US": "Our Father (silently).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Absolutio.",
+                "en-US": "Prayer of conclusion."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Precibus et meritis beati patris nostri Benedicti et omnium sanctorum, perducat nos Dominus ad regna coelorum.\n℟. Amen. ℣.\nIube, Domine, benedicere.",
+                "en-US": "Through the prayers and merits of our holy father Benedict and of all the saints, may the Lord bring us safely to his heavenly kingdom.\n℟. Amen.\n℣. O Lord, give unto us thy blessing."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Benedictio",
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Cuius commemorationem facimus, ipse gloriosus pater noster intercedat pro nobis ad Dominum. ℟. Amen.",
+                "en-US": "May our father most renowned, whose memory we celebrate, himself intercede for us unto the Lord. ℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio.",
+                "en-US": "Lesson"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Incipit liber secundus dialogorum sancti Gregorii papae.\nFuit vir vitae venerabilis, gratia Benedictus et nomine, ab ipso pueritiae suae tempore cor gerens senile.\nAetatem quippe moribus transiens, nulli animum voluptati dedit: sed dum in hac terra adhuc esset, quo temporaliter libere uti potuisset, despexit iam quasi aridum mundum cum flore. Tu autem Domine, miserere nobis.\n℟. Deo gratias.",
+                "en-US": "The beginning of the second book of the dialogues of Pope St Gregory.\nThere was a man of venerable life, Benedict—that is, blessed—both by grace and by name, who even from his boyhood's days bore within his breast the wisdom of old age.\nFor, far outstripping his years by his behaviour, he gave himself up in no way to the pleasures of the senses;\nbut while still upon this earth, of whose passing bounty he might freely have made use, he chose rather to despise the world with its allurements as something already withered up. But do thou, O Lord, have mercy upon us.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium",
+                "en-US": "Responsorium"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Admonemus te, sancte pater, illius dignitatis, qua te Dominus tuus tam glorioso fine dignatus est honorare ac beatificare:Tu itaque nobis in hora mortis nostrae fideliter velis adesse. (T.P. Alleluia, alleluia).\n℣. Ut tua praesentia laqueos inimicorum evadamur, ac coeli gaudia petamus sine fine beati. Tu itaque, etc. (Gloria Patri, etc. Tu itaque).\n\nTempore passionis omittitur: ℣. Gloria Patri et Tu itaque et eorum loco repetitur integrum ℟. Admonemus usque ad velis adesse.",
+                "en-US": "℟. We remind thee, O holy father, of that dignity, with which thy Lord, by thy most glorious end, didst deign to honour thee and make thee blessed:\nDo thou, therefore, in thy turn, vouchsafe to stand by us faithfully at the hour of our death. (In P.T. Alleluia, alleluia).\n℣. That strengthened and protected by thy presence, we may escape from the toils of the enemy and reach the joys of heaven, to be therein for ever blessed.\n(Glory be to the Father, etc., Do thou, therefore, etc.)\n\nIn passiontide the ℣. Glory be to the Father and Do thou, therefore are omitted, and in their place is repeated the whole of the ℟. We remind thee down to hour of our death."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beatissimum patrem ac legislatorem nostrum Benedictum abstractum a mundi turbinibus tibi soli militare iussisti: tribue, quaesumus, nobis sub eius magisterio tibi servientibus, perseverandi constantiam et usque in finem victoriam. Per Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nO God, who didst command our most blessed father and lawgiver, Benedict, to leave the turmoil of the world and fight for thee alone:\nwe, who are serving thee under his tutelage, beseech thee to grant us an unshakable constancy and victory unto the end.\nThrough Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Ad Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave. (secreto).\n℣. Deus in adiutorium, etc., ut supra ad Vesperas.",
+                "en-US": "Our Father. Hail Mary (silently).\n℣. Incline unto mine aid, etc., as above at Vespers."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus vir Benedictus.",
+                "en-US": "The blessed man Benedict."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus CL",
+                "en-US": "Psalm CL"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Laudate Dominum in sanctis eius:\nlaudate eum in firmamento virtutis eius.\nLaudate eum in virtutibus eius:\nlaudate eum secundum multitudinem magnitudinis eius.\nLaudate eum in sonitu tubae:\nlaudate eum in psalterio et cithara.\nLaudate eum in tympano et choro:\nlaudate eum in chordis et organo.\nLaudate eum in cymbalis benesonantibus:\nlaudate eum in cymbalis iubilationis;\nomnis spiritus laudet Dominum.\nGloria Patri.",
+                "en-US": "Praise the Lord in His holy places:\npraise Him in the firmament of His power.\nPraise Him in His mighty acts:\npraise Him according to the multitude of His greatness.\nPraise Him with the sound of the trumpet:\npraise Him with psaltery and harp.\nPraise Him with timbrel and choir:\npraise Him with strings and organs.\nPraise Him upon the high-sounding cymbals:\npraise Him upon cymbals of joy;\nlet every spirit praise the Lord.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus vir Benedictus plus appetiit mala mundi perpeti quam laudes; pro Deo laboribus fatigari, quam vitae huius favoribus extolli. (T.P. Alleluia).",
+                "en-US": "The blessed man Benedict desired rather to endure the evils of the world than its praises; to be worn out with labours for God's sake, than to be exalted by this life's applause. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum (Ecclus. 1:10–11, 13–14)",
+                "en-US": "Little Chapter (Ecclus. 1:10–11, 13–14)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quasi vas auri solidum, ornatum omni lapide pretioso.\nQuasi oliva pullulans, et cypressus in altitudinem se extollens.\nEt circa illum corona fratrum:\nquasi plantatio cedri in monte Libano,\nsic circa illum steterunt quasi rami palmae,\net omnes filii Aaron in gloria sua.\n℟. Deo gratias.",
+                "en-US": "He was as a massy vessel of gold, adorned with every precious stone;\nas an olive tree budding forth, and a cypress tree rearing itself on high.\nAnd about him was the ring of his brethren:\nas the cedar planted on Mount Libanus, and as branches of palm trees,\nthey stood round about him, and all the sons of Aaron in their glory.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium Breve",
+                "en-US": "Short Responsory"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Sancte Pater Benedicte, intercede pro nobis.\nRep.: Sancte Pater, etc.\n℣. Et impetra nobis spiritum tuum. Intercede pro nobis.\n℣. Gloria Patri, etc.\n℟. Sancte Pater, etc.\n\nTempore Passionis omittitur ℣. Gloria Patri.\n\nTempore Paschali:\n℟. Sancte Pater Benedicte, intercede pro nobis, alleluia, alleluia.\nRep.: Sancte Pater, etc.\n℣. Et impetra nobis spiritum tuum. Alleluia, alleluia.\n℣. Gloria Patri, etc.\n℟. Sancte Pater, etc.",
+                "en-US": "℟. O holy Father Benedict, intercede for us.\nRepeat: O holy Father, etc.\n℣. And obtain for us thy spirit. Intercede for us.\n℣. Glory be to the Father, etc.\n℟. O holy Father, etc.\n\nIn Passiontide the ℣. Glory be to the Father is omitted.\n\nDuring Paschal Time:\n℟. O holy Father Benedict, intercede for us, alleluia, alleluia.\nRepeat: O holy Father, etc.\n℣. And obtain for us thy spirit. Alleluia, alleluia.\n℣. Glory be to the Father, etc.\n℟. O holy Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te, Pater alme, petimus\nUt sanctis tuis precibus\nA cunctis malis protegas,\nMentesque nostras dirigas.\n\nDum laudes Dei concinis,\nTerrenas omnes despicis:\nHoc nobis quoque obtine,\nHostisque a telo protege.\n\nO sacrosancta Trinitas,\nSit tibi laus et gloria!\nQua Benedictus fruitur\nPer infinita saecula. Amen.",
+                "en-US": "Father beloved, from day to day\nWith love untiring thee we pray\nFrom thoughts of sin and snare of hell\nTo keep our minds, and guard us well.\n\nWhilst thou dost e'er thy spirit sate\nWith praising God, teach us to hate,\nAs thou didst, all things here below,\nAnd shield us from our deadly foe.\n\nPraise, honour, glory, be to Thee,\nMost sacred, holy Trinity;\nWhose love, in everlasting rest,\nO'erflows our Saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Pater Benedicte. (T.P. Alleluia).\n℟. Ut digni efficiamur promissionibus Christi. (T.P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed Father Benedict. (In P.T. Alleluia).\n℟. That we may be made worthy of the promises of Christ. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctissime Confessor.",
+                "en-US": "Most holy Confessor."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum (Luc. 1:68–79)",
+                "en-US": "Canticle (Luke 1:68–79)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedictus Dominus, Deus Israel,\nquia visitavit, et fecit redemptionem plebis suae:\nEt erexit cornu salutis nobis\nin domo David, pueri sui.\nSicut locutus est per os sanctorum,\nqui a saeculo sunt, prophetarum eius:\nSalutem ex inimicis nostris,\net de manu omnium qui oderunt nos.\nAd faciendam misericordiam cum patribus nostris,\net memorari testamenti sui sancti.\nIusiurandum, quod iuravit ad Abraham, patrem nostrum,\ndaturum se nobis,\nUt sine timore, de manu inimicorum nostrorum liberati,\nserviamus illi,\nIn sanctitate et iustitia coram ipso,\nomnibus diebus nostris.\nEt tu, puer, Propheta Altissimi vocaberis:\npraeibis enim ante faciem Domini parare vias eius,\nAd dandam scientiam salutis plebi eius,\nin remissionem peccatorum eorum;\nPer viscera misericordiae Dei nostri:\nin quibus visitavit nos, Oriens ex alto,\nIlluminare his qui in tenebris et in umbra mortis sedent,\nad dirigendos pedes nostros in viam pacis.\nGloria Patri.",
+                "en-US": "Blessed be the Lord, God of Israel:\nbecause He hath visited, and wrought the redemption of His people;\nAnd hath raised up a Horn of Salvation to us:\nin the house of David His servant.\nAs He spake by the mouth of His holy prophets:\nwho are from the beginning:\nSalvation from our enemies:\nand from the hand of all that hate us;\nTo perform mercy to our fathers:\nand to remember His holy testament.\nThe oath which He swore to Abraham our father:\nthat He would grant to us,\nThat, being delivered from the hand of our enemies:\nwe may serve Him without fear,\nIn holiness and justice before Him:\nall our days.\nAnd thou, child, shalt be called the Prophet of the Highest;\nthou shalt go before the face of the Lord to prepare His ways;\nTo give knowledge of salvation to His people:\nunto the remission of their sins,\nThrough the bowels of the mercy of our God;\nin which the Orient, from on high, hath visited us.\nTo enlighten them that sit in darkness and in the shadow of death:\nto direct our feet into the way of peace.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Ant."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctissime Confessor Domini, monachorum Pater et Dux Benedicte, intercede pro nostra omniumque salute. (T.P. Alleluia).",
+                "en-US": "Most holy Confessor of the Lord, Benedict, Father and Leader of monks, intercede for our salvation and for that of all. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, qui beatum Patrem nostrum Benedictum Abbatem,\nde eius quae in mundo est concupiscentia corruptione ereptum,\nChristo fideliter adhaerere fecisti:\nquaesumus, ut contra saeculi huius illecebras tua virtute roborati,\nbravium supernae vocationis constanter persequi et feliciter assequi valeamus.\nPer eundem Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nO God, Who didst snatch our holy Father, the Abbot Benedict,\nfrom the corruption of that lust which pervadeth the world,\nand didst cause him to cleave faithfully unto Christ,\nwe beseech Thee to strengthen us also by Thy power\nagainst the allurements of this world,\nand to enable us both unflinchingly to pursue\nand successfully to lay hold on the reward of our heavenly calling.\nThrough the same Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima",
+            "la": "Ad Primam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave. Credo (secreto).\n℣. Deus in adiutorium, etc., ut supra ad Vesperas.",
+                "en-US": "Our Father. Hail Mary. I believe (silently).\n℣. Incline unto mine aid, etc., as above at Vespers."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Athleta invictissime\nSacraeque dux militiae;\nNos, Benedicte, valido\nPrecum defende brachio.\n\nHis armis exsecrabilem\nLeonis vince rabiem:\nQuibus olim teterrimam\nPellis ab ore meruam.\n\nO sacrosancta Trinitas,\nSit tibi laus et gloria!\nQua Benedictus fruitur\nPer infinita saecula. Amen.",
+                "en-US": "Unconquered soldier, great in might,\nOur leader in the sacred fight:\nIn prayer to heaven lift up thine arms\nAnd save us from hell's fierce alarms.\n\nAs erst thou didst by prayer defeat\nThe unclean bird's most foul deceit,\nSo now the lion foil, who prowls\nWith raging thirst, to seize our souls.\n\nPraise, honour, glory, be to Thee,\nMost sacred, holy Trinity!\nWhose love, in everlasting rest,\nO'erflows our Saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tantam gratiam.",
+                "en-US": "Such grace."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus I",
+                "en-US": "Psalm I"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beatus vir, qui non abiit in consilio impiorum,\net in via peccatorum non stetit,\net in cathedra pestilentiae non sedit:\nSed in lege Domini voluntas eius,\net in lege eius meditabitur die ac nocte.\nEt erit tamquam lignum, quod plantatum est secus decursus aquarum,\nquod fructum suum dabit in tempore suo.\nEt folium eius non defluet;\net omnia quaecumque faciet, prosperabuntur.\nNon sic impii, non sic;\nsed tamquam pulvis, quem proicit ventus a facie terrae.\nIdeo non resurgent impii in iudicio,\nneque peccatores in consilio iustorum.\nQuoniam novit Dominus viam iustorum:\net iter impiorum peribit.\nGloria Patri.",
+                "en-US": "Blessed is the man who hath not walked in the counsel of the ungodly,\nnor stood in the way of sinners:\nnor sat in the chair of pestilence.\nBut his will is in the law of the Lord:\nand on His law shall he meditate day and night.\nAnd he shall be like a tree which is planted by the running waters:\nwhich shall bring forth its fruit in due season.\nAnd his leaf shall not fall off:\nand all whatsoever he doeth, it shall prosper.\nNot so the wicked, not so:\nbut they are like the dust, which the wind driveth from the face of the earth.\nTherefore the wicked shall not rise again in judgment:\nnor sinners in the counsel of the just.\nFor the Lord knoweth the way of the just:\nand the way of the wicked shall perish.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Tantam gratiam beato Benedicto virtus Dominica contulerat,\nut sub uno solis radio totum mundum conspiceret. (T.P. Alleluia).",
+                "en-US": "Such grace had the power of the Lord bestowed on blessed Benedict,\nthat he could behold the whole world contained within a single ray of light. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Pater Benedicte. (T.P. Alleluia).\n℟. Et impetra nobis spiritum tuum. (T.P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed Father Benedict. (In P.T. Alleluia).\n℟. And obtain for us thy spirit. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nFac nos quaesumus Domine, beati Patris nostri Benedicti hic imitari labores:\nut illic eius gloriae participes esse mereamur.\nPer Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nMake us, we beseech Thee, O Lord, so to imitate the labours of our holy Father Benedict here on earth,\nthat we may, in heaven, deserve to become partakers of his glory.\nThrough Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.\nPater. Ave. (secreto).",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen.\nOur Father. Hail Mary. (silently)."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça",
+            "la": "Ad Tertiam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave. (secreto).\n℣. Deus in adiutorium, etc., ut supra ad Vesperas.",
+                "en-US": "Our Father. Hail Mary (silently).\n℣. Incline unto mine aid, etc., as above at Vespers."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Urticae iunctae vepribus,\nVulnus curant vulneribus,\nFlammata mens divinitus\nIgnem exstinguit ignibus.\n\nCrucem mittens, ut lapidem,\nVeneni frangit calicem:\nNon valet mortis vasculum\nVitae ferre signaculum.\n\nO sacrosancta Trinitas,\nSit tibi laus et gloria!\nQua Benedictus fruitur\nPer infinita saecula. Amen.",
+                "en-US": "Whilst briers' wounds and nettles' sting\nHis flesh into subjection bring,\nHis soul, with love divine on fire,\nItself feels carnal love expire.\n\nThe Cross's saving sign he makes\nAnd lo! the poisoned chalice breaks;\nThe fatal cup with death full rife\nCannot withstand the sign of life.\n\nPraise, honour, glory, be to Thee,\nMost sacred, holy Trinity!\nWhose love, in everlasting rest,\nO'erflows our Saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Erat vir Domini.",
+                "en-US": "The man of God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus CXIX",
+                "en-US": "Psalm CXIX"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ad Dominum cum tribularer clamavi:\net exaudivit me.\nDomine, libera animam meam a labiis iniquis,\net a lingua dolosa.\nQuid detur tibi, aut quid apponatur tibi,\nad linguam dolosam?\nSagittae potentis acutae,\ncum carbonibus desolatoriis.\nHeu mihi! quia incolatus meus prolongatus est:\nhabitavi cum habitantibus Cedar.\nMultum incola fuit anima mea.\nCum his qui oderunt pacem. Eram pacificus:\ncum loquebar illis, impugnabant me gratis.\nGloria Patri.",
+                "en-US": "When I was in trouble I cried unto the Lord:\nand He heard me.\nO Lord, deliver my soul from wicked lips:\nand from a deceitful tongue.\nWhat shall be given unto thee,\nor what shall be added unto thee:\nto a deceitful tongue?\nSharp arrows of the mighty One:\nwith destroying coals of fire.\nWoe is me, that my sojourn is prolonged:\nI have dwelt with the inhabitants of Cedar:\nmy soul hath long been a sojourner.\nWith them that hated peace I was peaceable:\nwhen I spake unto them they fought against me without cause.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Erat vir Domini Benedictus vultu placido, moribus decoratus angelicis; tantaque circa eum claritas excreverat, ut in terris positus, in caelestibus habitaret. (T.P. Alleluia).",
+                "en-US": "The man of God, Benedict, was of a mild and peaceful countenance,\nand adorned with an angelic manner;\nand such a lustre shone around him,\nthat, though abiding upon the earth, he dwelt in heaven. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Pater Benedicte. (T.P. Alleluia).\n℟. Et impetra nobis spiritum tuum. (T.P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed Father Benedict. (In P.T. Alleluia).\n℟. And obtain for us thy spirit. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nIntercessio nos, quaesumus Domine, beati Patris nostri Benedicti Abbatis commendet:\nut quod nostris meritis non valemus, eius patrocinio assequamur.\nPer Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nMay the intercession, we beseech Thee, O Lord, of our holy Father, the Abbot Benedict,\nrecommend us: that that whereof our own merits fall short,\nwe may gain through his patronage.\nThrough Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.\nPater. Ave. (secreto).",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen.\nOur Father. Hail Mary. (silently)."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta",
+            "la": "Ad Sextam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave (secreto).\n℣. Deus in adiutorium, etc., ut supra ad Vesperas.",
+                "en-US": "Our Father. Hail Mary (silently).\n℣. Incline unto mine aid, etc., as above at Vespers."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Frater quem tunc nequissimus\nVagum rapbat spiritus,\nDum tua virga caeditur\nStabilitati redditur.\n\nTua, carentum gratia\nTellus vomit cadavera,\nDevotis unda liquida\nSicca lambit vestigia.\n\nO sacrosancta Trinitas,\nSit tibi laus et gloria!\nQua Benedictus fruitur\nPer infinita saecula. Amen.",
+                "en-US": "When by the devil led astray\nA restless brother drifts away,\nReproved by thy chastising rod\nHe gains new strength to serve his God.\n\nWhoe'er reject thy friendship, those\nThe earth from her cold bosom throws;\nWhile they who faithful to thee prove\nO'er waters wild securely move.\n\nPraise, honour, glory, be to Thee,\nMost sacred, holy Trinity!\nWhose love, in everlasting rest,\nO'erflows our Saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloriosus confessor",
+                "en-US": "The glorious Confessor."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus CXXII",
+                "en-US": "Psalm CXXII"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ad te levavi oculos meos, qui habitas in coelis.\nEcce sicut oculi servorum in manibus dominorum suorum.\nSicut oculi ancillae in manibus dominae suae, ita oculi nostri ad Dominum Deum nostrum, donec misereatur nostri.\nMiserere nostri, Domine, miserere nostri: quia multum repleti sumus despectione;\nQuia multum repleta est anima nostra opprobrium abundantibus et despectio superbis.\nGloria Patri.",
+                "en-US": "Unto Thee have I lifted up mine eyes: O Thou that dwellest in the heavens.\nBehold, as the eyes of servants: are on the hands of their masters;\nAs the eyes of the maiden are on the hands of her mistress: so are our eyes unto the Lord our God, until He have mercy upon us.\nHave mercy upon us, O Lord, have mercy upon us: for we are greatly filled with contempt.\nYea, our soul is greatly filled: we are a reproach unto the rich, and a contempt unto the proud.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona",
+                "en-US": "Anthem"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloriosus confessor Domini Benedictus, vitam angelicam gerens in terris, speculum bonorum operum factus est mundo; et ideo sine fine gaudet in coelis. (T. P. Alleluia).",
+                "en-US": "The glorious Confessor of God, Benedict, by leading on earth the life of an angel, became to the world a mirror of good works; wherefore now he rejoiceth for ever in heaven. (T. P. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Pater Benedicte. (T. P. Alleluia).\n℟. Et impetra nobis spiritum tuum. (T. P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed Father Benedict. (T. P. Alleluia).\n℟. And obtain for us thy spirit. (T. P. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nDeus, in cuius virtute beatus Pater noster Benedictus exstincta fecit pueri membra reviviscere: praesta quaesumus eius meritis; per afflatum tui Spiritus a morte animae vivificari. Per Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nO God, by Whose power our holy Father Benedict brought back a dead boy to life again, grant, we beseech Thee, through his merits, that by the breath of Thy Spirit our souls may be quickened and preserved from death. Through Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.\nPater. Ave (secreto).",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen.\nOur Father. Hail Mary (silently)."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona",
+            "la": "Ad Nonam"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave (secreto).\n℣. Deus in adiutorium, etc., ut supra ad Vesperas.",
+                "en-US": "Our Father. Hail Mary (silently).\n℣. Incline unto mine aid, etc., as above at Vespers."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Totius orbis ambitum\nPer solis videt radium,\nMens in Auctore posita\nSubiecta cernit omnia.\n\nO virum vere coelicum!\nO rerum Dei conscium!\nGermani videt animam\nLaetam ire ad coelestia.\n\nO sacrosancta Trinitas,\nSit tibi laus et gloria!\nQua Benedictus fruitur\nPer infinita saecula. Amen.",
+                "en-US": "The whole extent of this our sphere,\nOne ray of light to him makes clear,\nWhose mind, raised up to God on high\nSees all things with a keener eye.\n\nO heaven-blest mortal,\nin whose breast\nThe Deity's dread secrets rest:\nHe sees in glory to the skies\nThe soul of Saint Germanus rise.\n\nPraise, honour, glory, be to Thee\nMost sacred, holy Trinity!\nWhose love, in everlasting rest,\nO'erflows our Saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vir Dei Benedictus",
+                "en-US": "The man of God, Benedict."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus CXXV",
+                "en-US": "Psalm CXXV"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In convertendo Dominus captivitatem Sion, facti sumus sicut consolati.\nTunc repletum est gaudio os nostrum, et lingua nostra exsultatione.\nTunc dicent inter gentes: magnificavit Dominus facere cum eis.\nMagnificavit Dominus facere nobiscum; facti sumus laetantes.\nConverte, Domine, captivitatem nostram, sicut torrens in Austro.\nQui seminant in lacrimis, in exsultatione metent.\nEuntes ibant et flebant, mittentes semina sua;\nVenientes autem venient cum exsultatione, portantes manipulos suos.\nGloria Patri.",
+                "en-US": "When the Lord turned again the captivity of Syon: we became like men consoled.\nThen was our mouth filled with gladness: and our tongue with joy.\nThen shall they say among the gentiles: the Lord hath done great things for them.\nThe Lord hath done great things for us: we are become joyful.\nTurn again our captivity, O Lord: as a river in the south.\nThey that sow in tears: shall reap in joy.\nThey went forth on their way and wept: scattering their seed.\nBut returning, they shall come with joy: carrying their sheaves with them.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona",
+                "en-US": "Anthem"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Vir Dei Benedictus omnium iustorum spiritu plenus fuit: ipse intercedat pro cunctis monasticae professionis. (T. P. Alleluia).",
+                "en-US": "The man of God, Benedict, was filled with the spirit of all the just; may he intercede for all of the monastic profession. (T. P. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Pater Benedicte. (T. P. Alleluia).\n℟. Et impetra nobis spiritum tuum. (T. P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed Father Benedict. (T. P. Alleluia).\n℟. And obtain for us thy spirit. (T. P. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nConcede nobis quaesumus Domine, alacris animis beati Patris nostri Benedicti commemorationem cotidie peragere: cuius diversis decorata miraculis tibi vita complacuit. Per Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nGrant, we beseech Thee O Lord, that we may celebrate with blithe and cheerful hearts the daily memory of our holy Father Benedict, whose life, adorned with miracles of every sort, was pleasing in Thy sight. Through Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.\nPater. Ave (secreto).",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen.\nOur Father. Hail Mary (silently)."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave. (secreto).\n℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia.",
+                "en-US": "Our Father. Hail Mary. (silently).\n℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Ghost.\n℟. As it was in the beginning, is now, and ever shall be, world without end.\nAmen. Alleluia."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "(Vel: Laus tibi, Domine, Rex aeternae gloriae.)",
+                "en-US": "(Or: Praise be to Thee, O Lord, King of eternal glory.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater sanctus.",
+                "en-US": "The holy Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus CIX",
+                "en-US": "Psalm CIX"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dixit Dominus Domino meo: sede a dextris meis:\nDonec ponam inimicos tuos scabellum pedum tuorum.\nVirgam virtutis tuae emittet Dominus: ex Sion dominare in medio inimicorum tuorum.\nTecum principium in die virtutis tuae, in splendoribus sanctorum: ex utero ante luciferum genui te.\nJuravit Dominus, et non poenitebit eum: tu es sacerdos in aeternum, secundum ordinem Melchisedech.\nDominus a dextris tuis, confregit in die irae suae reges.\nJudicabit in nationibus, implebit ruinas: conquassabit capita in terra multorum.\nDe torrente in via bibet: propterea exultabit caput.\nGloria Patri.",
+                "en-US": "The Lord said unto my Lord: Sit Thou at My right hand.\nUntil I make Thine enemies: Thy footstool.\nThe Lord will send forth the sceptre of Thy power out of Syon: rule Thou in the midst of Thine enemies.\nThine shall be dominion in the day of Thy power, amid the brightness of the Saints: from the womb before the day-star have I begotten Thee.\nThe Lord hath sworn, and He will not repent: Thou art a priest for ever after the order of Melchisedech.\nThe Lord upon Thy right hand: hath overthrown kings in the day of His wrath.\nHe shall judge among the nations; He shall fill them with ruins: He shall smite in sunder the heads in the land of many.\nHe shall drink of the brook in the way: therefore shall He lift up His head.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona",
+                "en-US": "Anthem"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater sanctus, dum intentam oculorum aciem in splendore coruscae lucis habere videbatur, vidit Germani animam Capuani episcopi in sphaera ignea in coelum ab angelis deferri. (Tempore paschali: Alleluia).",
+                "en-US": "The holy Father, while he was seen to have his gaze intently fixed upon the brightness of the glittering light, beheld the soul of Germanus, bishop of Capua, carried to heaven by angels in a ball of fire. (In Paschal Time, add: Alleluia)."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Capitulum. Ecclus. 1, 6, 7.",
+                "en-US": "Little Chapter Ecclus. 1, 6 and 7."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce Confessor magnus: qui quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis lucet; et quasi sol refulgens, sic ille effulsit in templo Dei.\n℟. Deo gratias.",
+                "en-US": "Behold a great Confessor: who shone in his days as the morning star in the midst of a cloud, and as the moon at the full; and as the sun when it shineth, so did he shine in the temple of God.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Responsorium Breve",
+                "en-US": "Short Responsory"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℟. Sancte Pater Benedicte intercede pro nobis.\nRep. Sancte Pater Benedicte, intercede pro nobis.\n℣. Ut digni efficiamur promissionibus Christi.\nIntercede pro nobis.\n(Vel: Gloria Patri, et Filio, et Spiritui Sancto.)\n℟. Sancte Pater, etc.\n\nTempore Passionis omittitur: Gloria Patri.\n\nTempore paschali:\n℟. Sancte Pater Benedicte, intercede pro nobis, Alleluia, alleluia.\nRep. Sancte Pater Benedicte, intercede pro nobis, Alleluia, alleluia.\n℣. Ut digni efficiamur promissionibus Christi. Alleluia, alleluia.\n℣. Gloria Patri, etc. ℟. Sancte Pater, etc.",
+                "en-US": "℟. O holy Father Benedict, intercede for us.\nRep. O holy Father Benedict, intercede for us.\n℣. That we may be made worthy of the promises of Christ. Intercede for us.\n(Vel: Glory be to the Father, and to the Son, and to the Holy Ghost.)\n℟. O holy Father, etc.\n\nIn Passiontide the ℣. Gloria Patri is omitted.\n\nDuring Paschal Time:\n℟. O holy Father Benedict, intercede for us, Alleluia, alleluia.\nRep. O holy Father Benedict, intercede for us, Alleluia, alleluia.\n℣. That we may be made worthy of the promises of Christ. Alleluia, alleluia.\n℣. Glory be to the Father,\netc. ℟. O holy Father, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctae sororis spiritum\nOmni labe purissimum,\nInstar columbae candidae,\nCoelum videt ascendere.\n\nBeata demum corpora\nUnum claudit sarcophagum;\nMens quibus una fuerat\nPar coelo servat gloria.\n\nO sacrosancta Trinitas,\nSit tibi laus et gloria!\nQua Benedictus fruitur\nPer infinita saecula. Amen.",
+                "en-US": "He sees his sainted sister's soul,\nAll pure, and free from sin's control,\nLike some fair, white, and spotless dove,\nTake wing, and mount to bliss above.\n\nAt last their bodily remains\nOne hallowed tomb in peace contains;\nTheir souls, which here were linked in love,\nIn glory now are joined above.\n\nPraise, honour, glory, be to Thee,\nMost sacred, holy Trinity!\nWhose love, in everlasting rest,\nO'erflows our Saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Pater Benedicte. (T. P. Alleluia).\n℟. Et impetra nobis spiritum tuum. (T. P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed Father Benedict. (In P.T. Alleluia).\n℟. And obtain for us Thy spirit. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ant.",
+                "en-US": "Anthem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O coelestis norma vitae.",
+                "en-US": "O pattern of the heavenly life."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Canticum (Luc. 1, 46–55)",
+                "en-US": "Canticle. S. Luke 1, 46 to 55."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Magnificat anima mea Dominum.\nEt exsultavit spiritus meus in Deo salutari meo.\nQuia respexit humilitatem ancillae suae: ecce enim ex hoc beatam me dicent omnes generationes.\nQuia fecit mihi magna qui potens est: et sanctum nomen eius.\nEt misericordia eius a progenie in progenies timentibus eum.\nFecit potentiam in brachio suo: dispersit superbos mente cordis sui.\nDeposuit potentes de sede, et exaltavit humiles.\nEsurientes implevit bonis, et divites dimisit inanes.\nSuscepit Israel puerum suum, recordatus misericordiae suae.\nSicut locutus est ad patres nostros, Abraham et semini eius in saecula.\nGloria Patri.",
+                "en-US": "My soul doth magnify the Lord.\nAnd my spirit hath rejoiced in God my Saviour.\nBecause He hath regarded the humility of His handmaid; for behold, from henceforth all generations shall call me blessed.\nBecause He that is mighty hath done great things to me; and holy is His name.\nAnd His mercy is from generation unto generation to them that fear Him.\nHe hath shewn might in His arm; He hath scattered the proud in the conceit of their heart.\nHe hath put down the mighty from their seat, and hath exalted the humble.\nHe hath filled the hungry with good things, and the rich He hath sent empty away.\nHe hath received Israel His servant, being mindful of His mercy.\nAs He spake unto our fathers, to Abraham and his seed for ever.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Antiphona",
+                "en-US": "Anthem"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O coelestis norma vitae, Doctor et Dux, Benedicte, cuius cum Christo spiritus exsultat in coelestibus: gregem pastor alme, serva, sancta prece corrobora, via coelos clarescente fac, te duce, penetrare. (T. P. Alleluia).",
+                "en-US": "O pattern of the heavenly life, Teacher and Leader, Benedict, whose spirit now rejoices with Christ in the heavenly places! O beloved Shepherd, protect thy flock, strengthen it with thy holy prayer, make it, under thine own guidance, by an ever-brightening path reach and enter heaven. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nExcita, Domine, in Ecclesia tua Spiritum, cui beatus Pater noster Benedictus Abbas secutus est, ut eodem nos repleti studeamus amare quod amavit, et opere exercere quod docuit. Per Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nStir up, O Lord, in Thy Church that Spirit, to Whose service our Holy Father the Abbot Benedict was wholly devoted, that we being filled with the Same may strive to love what he loved and to practise what he taught. Through Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.\nPater. Ave. (secreto).",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed through the mercy of God rest in peace.\n℟. Amen.\nOur Father. Hail Mary. (silently)."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas",
+            "la": "Ad Completorium"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Incipit, qui Officium dicit, absolute:\n℣. Iube, Domine, benedicere.",
+                "en-US": "The Office begins straightway as follows:\n℣. O Lord, give unto us Thy blessing."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Benedictio",
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Noctem quietam et finem perfectum concedat nobis Dominus omnipotens.\n℟. Amen.",
+                "en-US": "May the Lord Almighty grant us a quiet night and a perfect end.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Lectio Brevis",
+                "en-US": "Short Lesson"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Incipit Prologo sanctissimi Patris nostri Benedicti in Regulam suam.\nObsculta, o fili, praecepta magistri, et inclina aurem cordis tui; et admonitionem pii patris libenter excipe, et efficaciter comple.\nTu autem, Domine, miserere nobis.\n℟. Deo gratias.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adiutorium, etc., ut supra ad Vesperas.",
+                "en-US": "The beginning of the Prologue of our most holy Father Benedict to his Rule.\nAttend, O my son, to the precepts of thy master, and open the ear of thy heart; willingly receive the admonitions of thy loving father, and efficaciously fulfil them.\nBut do Thou, O Lord, have mercy upon us.\n℟. Thanks be to God.\n℣. Transform our hearts, O God our Saviour.\n℟. And turn away Thy wrath from us.\n℣. Incline unto mine aid, etc. as above at Vespers."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Psalmus CXXXIII",
+                "en-US": "Psalm CXXXIII."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ecce nunc benedicite Dominum, omnes servi Domini,\nQui statis in domo Domini, in atriis domus Dei nostri.\nIn noctibus extollite manus vestras in sancta, et benedicite Dominum.\nBenedicat te Dominus ex Sion, qui fecit coelum et terram.\nGloria Patri.",
+                "en-US": "Behold, now, bless ye the Lord: all ye servants of the Lord,\nYe that stand in the house of the Lord: in the courts of the house of our God.\nLift up your hands by night to the holy places: and bless ye the Lord.\nMay the Lord bless thee out of Syon: Who hath made heaven and earth.\nGlory be to the Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Hymnus",
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te, Pater alme, petimus,\nPronis mentis visceribus,\nUt coelum das ascendere\nQuos doces terram spernere.\n\nQuae sursum sunt da quaerere,\nSanctam servare regulam:\nChristi foveri gratia,\nDemumque frui gloria.\n\nO sacrosancta Trinitas,\nSit tibi laus et gloria!\nQua Benedictus fruitur\nPer infinita saecula. Amen.",
+                "en-US": "Blest Father, thee we humbly pray,\nWith lowly hearts, both night and day,\nThat, taught by thee earth's joys to spurn,\nWe may eternal glory earn.\n\nLet not our thoughts from heaven stray,\nMay we the Holy Rule obey;\nBe succoured here by Christ's sweet grace,\nIn heaven enjoy Him face to face.\n\nPraise, honour, glory, be to Thee,\nMost sacred, holy Trinity!\nWhose love, in everlasting rest,\nO'erflows our Saint's enraptured breast. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Ora pro nobis, beate Pater Benedicte. (T.P. Alleluia).\n℟. Ut digni efficiamur promissionibus Christi. (T.P. Alleluia).",
+                "en-US": "℣. Pray for us, O blessed Father Benedict. (In P.T. Alleluia).\n℟. That we may be made worthy of the promises of Christ. (In P.T. Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Oremus,\nPer intercessionem sanctissimi Patris nostri Benedicti custodi nos, Domine, ab omni diabolico incursu: et sanctorum Angelorum protectione defende; ut ad te pervenire feliciter valeamus. Per Christum Dominum nostrum.\n℟. Amen.",
+                "en-US": "Let us pray,\nThrough the intercession of our most holy Father Benedict defend us, O Lord, from all the onslaughts of the devil; and guard us with the protection of the holy angels; that we may at length happily come home to Thee. Through Christ our Lord.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.",
+                "en-US": "℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Non dicitur ℣. Fidelium animae, sed loco eius:",
+                "en-US": "The ℣. \"May the souls\" is not said, but in its place is recited:"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Benedictio",
+                "en-US": "The Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Intercessio sanctissimi Patris nostri Benedicti protegat nos: et praesidium beatae Mariae Virginis praeservet nos: et benedictio Dei omnipotentis, Patris, et Filii ✠ et Spiritus Sancti, descendat super nos et maneat semper.\n℟. Amen.",
+                "en-US": "May the intercession of our most holy Father Benedict defend us; and the protection of the Blessed Virgin Mary preserve us; and may the blessing of Almighty God, Father, Son ✠, and Holy Ghost, come down upon us and abide with us for ever.\n℟. Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Pater. Ave. Credo. (secreto).",
+                "en-US": "Our Father. Hail Mary. I believe. (silently)."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

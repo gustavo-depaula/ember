@@ -1,0 +1,37 @@
+{
+  "id": "akathist-hymn-to-the-theotokos-and-ever-vrgin-mary",
+  "icon": "mary",
+  "name": {
+    "en-US": "Akathist Hymn to the Theotokos and Ever-Vrgin Mary"
+  },
+  "categories": [
+    "marian"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of Akathist Hymn to the Theotokos and Ever-Vrgin Mary."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "marian",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 135,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From a publication by the Metropolitan Cantor Institute of the Archeparchy of Pittsburg Byzantine Catholic Seminary (2018)."
+  }
+}

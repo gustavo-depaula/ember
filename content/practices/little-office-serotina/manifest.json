@@ -1,0 +1,36 @@
+{
+  "id": "little-office-serotina",
+  "icon": "prayer",
+  "name": {
+    "en-US": "The Holy Office of the Serotina"
+  },
+  "categories": [
+    "office"
+  ],
+  "estimatedMinutes": 6,
+  "description": {
+    "en-US": "A traditional little office in honour of The Holy Office of the Serotina."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 187,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From The Manual of the Augustinian Secular Tertiaries (1927).\n\nThe “Serotina Prayers” for our Community and Benefactors.\nIt is the custom of the Servants of God to prayer specifically for living and deceased benefactors. The prayers which follow, called the “Serotina” (evening time prayers) are prayers traditionally said by Augustinian communities for their living and deceased benefactors. At some point in the day, the brother/sister takes time to pray for the good of his/her family and for his/her living and deceased benefactors. This “office” is particularly useful to begin or end common meetings."
+  }
+}

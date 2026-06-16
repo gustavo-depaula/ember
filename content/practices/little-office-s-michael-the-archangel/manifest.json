@@ -1,0 +1,37 @@
+{
+  "id": "little-office-s-michael-the-archangel",
+  "icon": "angel",
+  "name": {
+    "en-US": "Little Office of S. Michael the Archangel"
+  },
+  "categories": [
+    "saints"
+  ],
+  "estimatedMinutes": 12,
+  "description": {
+    "en-US": "A traditional little office in honour of S. Michael the Archangel, arranged in the canonical hours."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "saints",
+    "breviary"
+  ],
+  "defaults": {
+    "sortOrder": 137,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  },
+  "history": {
+    "en-US": "From a book of the same name published in 1632."
+  }
+}

@@ -1,0 +1,1182 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-2": "matins",
+        "3-5": "lauds",
+        "6-8": "prime",
+        "9-11": "terce",
+        "12-14": "sext",
+        "15-17": "none",
+        "18-20": "vespers",
+        "21-23": "compline"
+      },
+      "options": [
+        {
+          "id": "matins",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Thou shalt open my lips, O Lord.\n℟. And my mouth shall shew forth Thy praise.\n℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Invitatory"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Christ is captured and put to scorn, scourged and crucified. Oh, come, let us adore Him!\n℟. Christ is captured and put to scorn, scourged and crucified. Oh, come, let us adore Him!"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm XCIV"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Come, let us praise the Lord with joy; let us joyfully sing to God our Saviour.\nLet us come before His presence with thanksgiving, and make a joyful noise to Him with psalms.\nChrist is captured and put to scorn, scourged and crucified.\nOh, come, let us adore Him!\nFor the Lord is a great God, and a great King above all gods.\nFor in His hand are all the ends of the earth; and the heights of the mountains are His.\nOh, come, let us adore Him!\nFor the sea is His, and He made it: and His hands formed the dry land.\nCome, let us adore and fall down: and weep before the Lord that made us.\nFor He is the Lord our God; and we are the people of His pasture and the sheep of His hand.\nChrist is captured and put to scorn, scourged and crucified.\nOh, come, let us adore Him!\nToday, if you shall hear His voice, harden not your hearts: as in the provocation, according to the day of temptation in the wilderness:\nwhere your fathers tempted me, proved me, and saw my works.\nOh, come, let us adore Him!\nForty years long was I offended with that generation, and I said: These always err in their hearts.\nAnd these men have not known My ways: so I sware in My wrath that they shall not enter into My rest.\nChrist is captured and put to scorn, scourged and crucified.\nOh come, let us adore Him!\nGlory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now, and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Oh, come, let us adore Him!\n℣. Christ is captured and put to scorn, scourged and crucified.\n℟. Oh, come, let us adore Him."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Oh, may the Passion of the Lord, Whereby salvation is restored,\nThe mind with love for Him inspire, Our solace and our hearts' desire."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "In memory, let us ever hold, Christ's thorny crown, His pains untold,\nThe bitter cross whereon He died, The nails, the lance that pierced His Side."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "And may we constantly recall\nThe reed, the vinegar, the gall, The anguish of that last dread hour,\nThose Sacred Wounds whence graces shower."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O, may these thoughts our souls imbue With sweetness of celestial dew,\n'Til, fostered by His tender care, The glorious fruits of grace they bear."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O crucified, we worship Thee\nAnd beg with all our hearts that we May be united through Thy love With all the saints in Heav'n above."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free, Who suffered on the cruel tree, Be praise and honour endlessly."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Nocturn"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Men without mercy rose up against Me, and they spared not my life."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm II"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Why have the Gentiles raged, and the people devised vain things?\nThe kings of the earth stood up, and the princes met together against the Lord, and against His Christ.\nLet us break their bonds asunder, and let us cast away their yoke from us.\nHe that dwelleth in Heaven shall laugh at them: and the Lord shall deride them.\nThen shall He speak to them in His anger, and trouble them in His rage.\nBut I am appointed King by Him over Sion, His holy mountain, preaching His commandment.\nThe Lord hath said to Me: Thou art My Son. This day have I begotten Thee.\nAsk of Me and I will give Thee the Gentiles for Thine inheritance, and the utmost parts of the earth for Thy possession.\nThou shalt rule them with a rod of iron, and shall break them in pieces, like a potter's vessel.\nAnd now, O ye kings, understand: receive instruction, you that judge the earth.\nServe ye the Lord with fear: and rejoice unto Him with trembling. Embrace discipline, lest, at any time, the Lord be angry, and you perish from the just way.\nWhen His wrath shall be kindled in a short time, blessed are all they that trust in Him.\nGlory be to the Father and to the Son and to the Holy Ghost, as it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Men without mercy rose up against Me, and they spared not my life."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. I have forsaken my house; I have left mine inheritance.\n℟. I have given my dear soul into the hands of sinners."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Absolution"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. May the Passion of our Lord Jesus Christ bring us to the joys of Paradise.\n℟. Amen.\n(℟. Pray, Father, a blessing.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Through His holy Passion, may our Lord grant unto us His benediction.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "First Lesson (S. John 19. 1-3)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Pilate took Jesus, and scourged Him. And the soldiers, platting a crown of thorns, put it upon His head: and they put on Him a purple garment. And they came to Him and said: Hail, King of the Jews. And they buffeted Him and, spitting upon Him, they took the reed and struck His Head.\n℣. But Thou, O Lord, have mercy upon us.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The ancients consulted together, that, by subtlety, they might apprehend Jesus and put Him to death. They went out, as it were to a robber, with swords and clubs.\n(℟. Pray, Father, a blessing.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Through the might of His Holy Cross, may our Lord bring us to the joys of light and truth.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Second Lesson (S. John 19. 16-18; S. Luke 23. 34)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "But the soldiers took Jesus and led Him forth, and, bearing His own cross, He went forth to that place which is called Calvary but, in Hebrew, Golgotha, where they crucified Him and, with Him, two others, one on each side, and Jesus in the midst. And Jesus said: Father, forgive them, for they know not what they do.\n℣. But Thou, Lord, have mercy upon us.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. You are come out, as it were, to a robber, with swords and clubs, to apprehend Me.\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n℟. And when they had laid hands on Jesus and taken Him, He said to them:\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n(℟. Pray, Father, a blessing.)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. I have forsaken my house; I have left mine inheritance.\n℟. I have given my dear soul into the hands of sinners."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our Father."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Absolution"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. May the Passion of our Lord Jesus Christ bring us to the joys of Paradise.\n℟. Amen.\n(℟. Pray, Father, a blessing.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Through His holy Passion, may our Lord grant unto us His benediction.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "First Lesson (S. John 19. 1-3)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Pilate took Jesus, and scourged Him. And the soldiers, platting a crown of thorns, put it upon His head: and they put on Him a purple garment. And they came to Him and said: Hail, King of the Jews. And they buffeted Him and, spitting upon Him, they took the reed and struck His Head.\n℣. But Thou, O Lord, have mercy upon us.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The ancients consulted together, that, by subtlety, they might apprehend Jesus and put Him to death. They went out, as it were to a robber, with swords and clubs.\n(℟. Pray, Father, a blessing.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Through the might of His Holy Cross, may our Lord bring us to the joys of light and truth.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Second Lesson (S. John 19. 16-18; S. Luke 23. 34)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "But the soldiers took Jesus and led Him forth, and, bearing His own cross, He went forth to that place which is called Calvary but, in Hebrew, Golgotha, where they crucified Him and, with Him, two others, one on each side, and Jesus in the midst. And Jesus said: Father, forgive them, for they know not what they do.\n℣. But Thou, Lord, have mercy upon us.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. You are come out, as it were, to a robber, with swords and clubs, to apprehend Me.\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n℟. And when they had laid hands on Jesus and taken Him, He said to them:\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n(℟. Pray, Father, a blessing.)"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Blessing"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. May the sprinkling of Christ's Blood be our everlasting health and protection.\n℟. Amen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Third Lesson (S. John 19. 28-30)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Afterwards, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said: I thirst. Now there was a vessel set there full of vinegar. And they, putting a sponge full of vinegar about hyssop, put it to His mouth. Jesus, therefore, when He had taken the vinegar, said: It is consummated. And, bowing His head, He gave up the ghost.\n℣. But Thou, Lord, have mercy upon us.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Darkness covered the earth, whilst the Jews crucified Jesus. And about the ninth hour, Jesus cried out with a loud voice:\n℣. My God, My God, why hast Thou forsaken Me? And, bowing down His head, He gave up the ghost.\n℟. Jesus, crying out with a loud voice, said: Father, into Thy hands I commend My Spirit.\n℣. And, bowing down His head, He gave up the ghost.\n℟. Glory be to the Father and to the Son and to the Holy Ghost,\n℣. And, bowing down His head, He gave up the ghost."
+              }
+            }
+          ]
+        },
+        {
+          "id": "lauds",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Reproaches and terrors have I suffered at their hands; and the Lord is with me as a mighty warrior."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm XII"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "How long, O Lord, wilt Thou forget me unto the end?\nHow long dost Thou turn away Thy face from me?\nHow long shall I take counsels in my soul, sorrow in my heart all the day?\nHow long shall mine enemy be exalted over me?\nConsider, and hear me, O Lord my God.\nEnlighten mine eyes, that I never sleep in death, lest, at any time, mine enemy say: I have prevailed against him.\nThey that trouble me will rejoice when I am moved: but I have trusted in Thy mercy.\nMy heart shall rejoice in Thy salvation:\nI will sing to the Lord, Who giveth me good things: yea, I will sing to the name of the Lord, the Most High.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Reproaches and terrors have I suffered at their hands; and the Lord is with me as a mighty warrior."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter (Lamentations 4. 20)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The breath of our mouth, Christ the Lord, is taken in our sins, to Whom we said: Under Thy shadow, we shall live among the Gentiles."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Now let us all with one accord\nTo Christ our Captain anthems raise,\nWhose conquering cross our life restored,\nLet Heaven resound with songs of praise.\nO, may Thy dreadful agony With true contrition rend our breast,\nAnd make us ever seek for Thee, O Jesus, our Redeemer blest.\nThose blissful scars which Jesus bore,\nThe scourging, spitting, buffeting, To us have won for evermore\nTh'eternal gifts of Christ our King.\nLet not Thy Blood be shed in vain\nBut to our hearts its power apply.\nAnd wash them clean from every stain,\nCreator of the starry sky.\nThe gifts from which Thy Passion flow\nGrant us, O Saviour, of Thy grace.\nAnd, in Thy faithfulness bestow,\nThe Heavenly vision of Thy Face.\nTo Christ, the Lord of Majesty, Betrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. He gave His cheek to him that struck Him.\n℟. He was filled with reproaches."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "God spared not His own Son, but delivered Him up for all."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Canticle of Zachary (S. Luke 1. 68-80)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Blessed be the Lord God of Israel:\nbecause He hath visited and wrought the redemption of His people:\nAnd hath raised up a horn of salvation to us, in the house of His servant, David:\nAs He spoke by the mouth of His holy prophets, who are from the beginning:\nSalvation from our enemies, and from the hand of all that hate us:\nTo perform mercy to our fathers, and to remember His holy testament,\nThe oath which He swore to Abraham our father, that He would grant unto us.\nThat, being delivered from the hand of our enemies, we may serve Him without fear.\nIn holiness and justice before Him, all the days of our life.\nAnd thou, child, shalt be called the prophet of the Highest:\nfor thou shalt go before the face of the Lord to prepare His ways:\nTo give knowledge of salvation to His people, unto the remission of their sins:\nThrough the bowels of the mercy of our God,\nin which the Orient from on high hath visited us:\nTo enlighten them that sit in darkness, and in the shadow of death: to direct our feet into the way of peace.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "God spared not His own Son, but delivered Him up for all."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, at the hour of Matins, didst will to be betrayed, captured, bound, scourged, buffeted and spit upon for the salvation of mankind: make us, we beseech Thee, to receive reproaches and injuries with joy for the glory of Thy Name, and so to keep the memory of Thy most holy Passion ever in mind, that we may deserve to be made partakers in Thy Resurrection, Who livest and reignest, world without end.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "prime",
+          "label": {
+            "en-US": "Prime",
+            "pt-BR": "Prima"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Sun of Justice,\nThou Whose rays,\nBy sinful hands,\nwere veiled from gaze,\nO Thou Who,\nmocked on bended knee,\nWas scourged for us most piteously."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "With fervent love,\nO Lord, we pray, Have mercy on our souls today;\nAnd lead us from this dark world's night\nTo see in Heaven Thy glorious light."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree,\nBe praise and honour endlessly.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "I turned not away My face from them that rebuked Me and spat upon Me."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm XLII"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Judge me, O God, and distinguish my cause from the nation that is not holy:\ndeliver me from the unjust and deceitful man. For Thou art God my strength:\nwhy hast Thou cast me off? and why do I go sorrowful whilst the enemy afflicteth me?\nSend forth Thy light and Thy truth: they have conducted me, and brought me unto Thy holy hill, and into Thy tabernacles.\nAnd I will go in to the Altar of God: to God Who giveth joy to my youth.\nTo Thee, O God, my God, I will give praise upon the harp:\nWhy art thou sad, O my soul? And why dost Thou disquiet me?\nHope thou in God, for I will still give praise to Him: the salvation of my countenance, and my God.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "I turned not away My face from them that rebuked Me and spat upon Me."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter (Hebrews 12. 3)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Think diligently upon Him that endured such opposition from sinners against Himself, that you be not wearied, fainting in your minds.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. When He was reviled, He did not revile.\n℟. And when He suffered, He threatened not."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Lord Jesus Christ, Judge of all judges, Who, at the first hour of the day, wast brought before the governor Pilate for us sinners, and didst there receive a most severe sentence: we humbly beseech Thee to succour us when we shall be arraigned before Thee, that, in that Last Judgement, we may not be condemned to eternal punishment, but may be found worthy to have fellowship with Thy faithful in Heaven, Who livest and reignest, world without end.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "terce",
+          "label": {
+            "en-US": "Terce",
+            "pt-BR": "Terça"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Thou, Who, at this third hour, wast led\nFor guilty man, Thy Blood to shed,\nBearing the cross they laid on Thee,\nThe weight of this world's misery."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O fill our hearts with love, and bless\nOur life, with fruits of holiness.\nUntil, when strife is o'er, we stand\nBefore Thee in the Heavenly land."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The Lord was led as a sheep to the slaughter, and He opened not His mouth."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm LXIII"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Hear, O God, my prayer, when I make supplication to Thee: deliver my soul from the fear of the enemy.\nThou hast protected me from the assembly of the malignant, from the multitude of the workers of iniquity.\nFor they have whetted their tongues like a sword: they have bent their bow a bitter thing, to shoot in secret the undefiled.\nThey will shoot at him on a sudden, and will not fear: they are resolute in wickedness.\nThey have talked of hiding snares. They have said: Who shall see them?\nThey have searched after iniquities: they have failed in their search.\nMan shall come to a deep heart: and God shall be exalted.\nThe arrows of children are their wounds: and their tongues against them are made weak.\nAll that saw them were troubled: and every man was afraid.\nAnd they declared the works of God: and understood His doings.\nThe just shall rejoice in the Lord, and shall hope in Him: and all the upright in heart shall be praised.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "The Lord was led as a sheep to the slaughter, and He opened not His mouth."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter (I Peter 2. 21-22)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Christ suffered for us, leaving you an example that you should follow His steps, Who did no sin, neither was guile found in His mouth.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. He was offered because it was His own will.\n℟. And He Himself bore our iniquities."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Lord Jesus Christ, Son of the living God, Who, at the third hour of the day, wast led forth to the torment of the cross for the salvation of the whole world: we humbly beseech Thee that, by the power of Thy most holy Passion, Thou mayest blot out all our sins, and bring us, in Thy mercy, to the glory of Thine everlasting bliss, Who livest and reignest, world without end.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "sext",
+          "label": {
+            "en-US": "Sext",
+            "pt-BR": "Sexta"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Jesus was hanged upon the tree, And thirsted in His agony, In hands and feet He deigned to bear The cruel nails that held Him there."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Honour and blessing ever be, O Jesus crucified, to Thee, Who, by Thy death and bitter pain, Didst bring us exiles home again."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To Christ, the Lord of Majesty, Betrayed and sold to set us free, Who suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "They put over His Head His cause, written, Jesus of Nazareth, King of the Jews."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm CXV"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "I have believed: therefore, have I spoken; but I have been humbled exceedingly.\nI said in my excess: Every man is a liar. What shall I render to the Lord: for all the things that He hath rendered to me?\nI will take the chalice of salvation: and I will call upon the name of the Lord. I will pay my vows to the Lord before all His people: precious in the sight of the Lord is the death of His saints.\nO Lord, for I am Thy servant: I am Thy servant, and the son of Thy handmaid.\nThou hast broken my bonds: I will sacrifice to Thee the sacrifice of praise, and I will call upon the name of the Lord.\nI will pay my vows to the Lord in the sight of all His people: in the courts of the house of the Lord, in the midst of thee, O Jerusalem.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "They put over His Head His cause, written, Jesus of Nazareth, King of the Jews."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter (I Peter 2. 23-24)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "He delivered Himself to him that judged Him unjustly, Who His own Self bore our sins in His Body on the tree, that we, being dead to sins, should live to justice; by Whose stripes we were healed.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. He was offered because it was His own will.\n℟. And He Himself bore our iniquities."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, at the sixth hour of the day, didst mount upon the gibbet of the cross and, thirsting for our salvation, didst suffer gall and vinegar to be given Thee to drink: we humbly beseech Thee to enkindle Thy fire in our hearts, and make us to thirst for the chalice of Thy Passion, Who livest and reignest, world without end.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "none",
+          "label": {
+            "en-US": "None",
+            "pt-BR": "Nona"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen. Praise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "May Christ's most blessed Passion win\nDeliverance from death and sin,\nWhereby, to man, the hope is given Of everlasting joys in Heaven."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Glory to Christ, our Lord on high,\nWho, with one last trumpet\ncry, Gave up His soul upon the cross And saved the world from endless loss."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "When Jesus had taken the vinegar, He said: It is consummated. And bowing His Head, He gave up the ghost."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm CXLI"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "I cried to the Lord with my voice: with my voice, I made supplications to the Lord.\nIn His sight, I pour out my prayer; and before Him, I declare my trouble.\nWhen my spirit failed me, then Thou knewest my paths.\nIn this way wherein I walked, they have hidden a snare for me.\nI looked on my right hand, and beheld, and there was no one that would know me.\nFlight hath failed me: and there is no one that hath regard to my soul.\nI cried to Thee, O Lord. I said: Thou art my hope, my portion in the land of the living.\nAttend to my supplication: for I am brought very low. Deliver me from my persecutors: for they are stronger than I.\nBring my soul out of prison, that I may praise Thy name: the just wait for me until Thou rewardest me.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "When Jesus had taken the vinegar, He said: It is consummated. And bowing His Head, He gave up the ghost."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter (Hebrews 2. 10)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "It became Him for Whom are all things and by Whom are all things, Who had brought many children into glory, to perfect the Author of their salvation by His Passion.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. He hath delivered His Soul unto death.\n℟. And He was reputed with the wicked."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, with arms outstretched on the cross and head bowed down, didst, at the ninth hour of the day, yield up Thy Spirit to God Thy Father and, with the key of Thy death, didst vouchsafe to unlock the gates of Paradise, grant to us, Thy unworthy suppliants, that, in the hour of our death, our souls, through Thy mercy, may attain to Thee Who art the true Paradise, Who livest and reignest, world without end.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "vespers",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Thou art worthy, O Lord, to take the book and to open the seven seals thereof, because Thou wast slain, and hast redeemed us to God in Thy Blood."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm XXIX"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "I will extol Thee, O Lord, for Thou hast upheld me: and hast not made mine enemies to rejoice over me.\nO Lord, my God, I have cried to Thee: and Thou hast healed me.\nThou hast brought forth, O Lord, my soul from Hell: Thou hast saved me from them that go down into the pit:\nSing to the Lord, O ye His saints: and give praise to the memory of His holiness.\nFor wrath is in His indignation: and life, in His good will.\nIn the evening, weeping shall have place; and, in the morning, gladness.\nAnd, in mine abundance, I said: I shall never be moved.\nO Lord, in Thy favour, Thou gavest strength to my beauty. Thou turnest away Thy face from me, and I became troubled.\nTo Thee, O Lord, will I cry: and I will make supplication to my God.\nWhat profit is there in my blood, whilst I go down to corruption?\nShall dust confess to Thee, or declare Thy truth?\nThe Lord hath heard, and hath had mercy on me: the Lord became my helper.\nThou hast turned for me my mourning into joy: Thou hast cut my sackcloth, and hast compassed me with goodness:\nTo the end that my glory may sing to Thee, and I may not regret: O Lord my God, I will give praise to Thee forever.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Thou art worthy, O Lord, to take the book and to open the seven seals thereof, because Thou wast slain, and hast redeemed us to God in Thy Blood."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter (Hebrews 2. 9)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "We see Jesus, for the suffering of death, crowned with glory and honour; that, through the grace of God, He might taste death for all.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Thou Who, through death's agony,\nFor man, didst break sin's barrier down,\nBring us to find true peace in Thee,\nJesus, Who art the virgin's crown.\nA bitter potion Thou didst drain\n'Mid cruel scorn and suffering Thou spotless\nLamb, for sinners slain, O Lord most High, eternal King.\nTo all Thy faithful, who, this day,\nThy Sacred Passion bear in mind:\nGive saving health and grace to pray,\nJesus, Redeemer of mankind.\nUpon the altar of the tree Flowed forth, in streams,\nThy Blood divine: O Jesus,\nKing of clemency, In Whom the Father's light doth shine.\nO Blood of Christ, Whose glorious might\nDid strike the demon with despair:\nGrant we may come in robes of white\nThe Lamb's great marriage feast to share.\nTo Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree,\nBe praise and honour endlessly.\nAmen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. The chastisement of our sins was upon Him.\n℟. For, by His stripes, we were healed."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our Shepherd, the fountain of living water, is gone: for He laid down His life for His sheep, and vouchsafed to die for His flock."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "The Magnificat (S. Luke 1. 46-55)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "My soul doth magnify the Lord.\nAnd my spirit hath rejoiced in God my Saviour.\nBecause He hath regarded the humility of His handmaid.\nFor behold, from henceforth, all generations shall call me blessed.\nBecause He that is mighty hath done great things to me: and holy is His name.\nAnd His mercy is from generation unto generations, unto them that fear Him.\nHe hath shown might in His arm: He hath scattered the proud in the conceit of their heart.\nHe hath put down the mighty from their seat, and hath exalted the humble.\nHe hath filled the hungry with good things: and the rich He hath sent empty away.\nHe hath received Israel His servant, being mindful of His mercy:\nAs He spoke to our fathers, to Abraham and his seed forever.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Our Shepherd, the fountain of living water, is gone: for He laid down His life for His sheep, and vouchsafed to die for His flock."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, according to the pious belief of the faithful, didst, at the hour of Vespers, will to be taken down from the cross and laid dead in the arms of Thy mother: grant, we beseech Thee, that, laying aside the burden of our sins, we may be presented in the sight of Thy divine Majesty, Who livest and reignest, world without end.\n℟. Amen."
+              }
+            }
+          ]
+        },
+        {
+          "id": "compline",
+          "label": {
+            "en-US": "Compline",
+            "pt-BR": "Completas"
+          },
+          "sections": [
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Convert us, O God our Saviour.\n℟. And turn away Thine anger from us.\n℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "They shall mourn for Him as for an only son: because the innocent Lord is slain."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Psalm LXXXVII"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Lord, the God of my salvation: I have cried before Thee in the day, and also in the night.\nLet my prayer come in before Thee: incline Thine ear to my petition.\nFor my soul is filled with evils: and my life hath drawn nigh to Hell.\nI am counted among them that go down to the pit:\nI am become as a man without help, free among the dead.\nLike the slain sleeping in the sepulchres, whom Thou rememberest no more: and they are cast off from Thy land.\nThey have laid me in the lower pit: in the dark places, and in the shadow of death.\nThy wrath is strong over me: and all Thy waves Thou hast brought in upon me.\nThou hast put away Thine acquaintance far from me: they have set me an abomination to themselves.\nI was delivered up, and came not forth: mine eyes languished through poverty.\nAll the day I cried to Thee, O Lord: I stretched out my hands to Thee.\nWilt Thou show wonders to the dead: or shall physicians raise to life, and give praise to Thee?\nShall anyone in the sepulchre declare Thy mercy: and Thy truth, in destruction?\nShall Thy wonders be known in the dark: and Thy justice, in the land of forgetfulness?\nBut I, O Lord, have cried to Thee: and, in the morning, my prayer shall prevent Thee.\nLord, why castest off my prayer: why turnest Thou away Thy face from me?\nI am poor, and in labours from my youth: and, being exalted, have been humbled and troubled.\nThy wrath hath come upon me: and Thy terrors hath troubled me.\nThey have come round about me like water all the day: they have compassed me about together.\nFriend and neighbour Thou hast put far from me: and my acquaintance, because of misery.\nGlory be to the Father and to the Son and to the Holy Ghost, As it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "They shall mourn for Him as for an only son: because the innocent Lord is slain."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Hymn"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O sinless King, Who, at the close\nOf day, didst in the rock repose:\nDo Thou our restless passions still\nAnd win our hearts to do Thy will."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Lord, succour in the conflict dread\nThe soul for whom Thy Blood was shed;\nAnd bring us when life's trials cease To rest in Thine eternal peace."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Little Chapter (I Peter 4. 1)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Christ, having suffered in the flesh, be you also armed with the same thought.\n℟. Thanks be to God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. And His place is in peace.\n℟. And His abode in Sion."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Saviour of the world, save us, Thou Who didst redeem us by Thy Cross and Blood, succour us, we beseech Thee, O Lord our God."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "The Canticle of Simeon (S. Luke 2. 29-32)"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Now Thou dost dismiss Thy servant, O Lord,\naccording to Thy word, in peace:\nbecause mine eyes have seen Thy salvation,\nWhich Thou hast prepared before the face of all peoples:\na light to the revelation of the Gentiles,\nand the glory of Thy people Israel.\nGlory be to the Father and to the Son and to the Holy Ghost,\nAs it was in the beginning, is now and ever shall be, world without end.\nAmen."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Antiphon"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Saviour of the world, save us, Thou Who didst redeem us by Thy Cross and Blood, succour us, we beseech Thee, O Lord our God."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, at the last hour of the day, didst repose in the tomb, and wast lamented by Thy sorrowful mother and the other holy women: grant, we beseech Thee, that we may mourn for Thee with all the devotion of our hearts, and, abounding with tears of compunction, we may, with ardent desire, ever meditate upon Thy most glorious Passion, Who livest and reignest, world without end.\n℟. Amen."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
