@@ -51,6 +51,32 @@ export const RESIDENT_KINDS = [
 let catalog: Catalog = { version: 2, generated: '', items: {} }
 const manifestBodies = new Map<string, unknown>()
 
+/**
+ * Runtime-registered catalog entries that live *outside* Hearth (e.g. the
+ * external Escrivá books). Kept in a separate map so the Hearth catalog refresh
+ * — `setCatalog` replaces `catalog` wholesale on every launch and on the
+ * in-session background revalidation — never clobbers them. Read alongside
+ * `catalog.items` everywhere; Hearth wins on id collision.
+ */
+const localItems = new Map<string, CatalogEntry>()
+
+export function registerLocalEntries(entries: Record<string, CatalogEntry>): void {
+  for (const [id, entry] of Object.entries(entries)) localItems.set(id, entry)
+  invalidateEntryCaches()
+  bumpCatalogVersion()
+}
+
+/**
+ * Resolver for manifest bodies whose hash is synthetic (not a real Hearth blob).
+ * Lets `ensureManifestBody` build external manifests on demand — e.g. an Escrivá
+ * `BookEntry` assembled from the API — instead of fetching a non-existent blob.
+ */
+let manifestBodyResolver: ((hash: string) => Promise<unknown | undefined>) | undefined
+
+export function setManifestBodyResolver(fn: (hash: string) => Promise<unknown | undefined>): void {
+  manifestBodyResolver = fn
+}
+
 let mergedEntries: Map<string, CatalogEntry> | undefined
 let entriesByKind: Map<CatalogItemKind, Array<[string, CatalogEntry]>> | undefined
 let memberOfCache: Map<string, string[]> | undefined
@@ -119,6 +145,13 @@ export function getRememberedManifest<T>(hash: string): T | undefined {
 export async function ensureManifestBody<T>(hash: string): Promise<T> {
   const cached = manifestBodies.get(hash) as T | undefined
   if (cached !== undefined) return cached
+  if (manifestBodyResolver) {
+    const built = (await manifestBodyResolver(hash)) as T | undefined
+    if (built !== undefined) {
+      manifestBodies.set(hash, built)
+      return built
+    }
+  }
   const { getJson } = await import('./store')
   const fetched = await getJson<T>(hash)
   manifestBodies.set(hash, fetched)
@@ -128,20 +161,22 @@ export async function ensureManifestBody<T>(hash: string): Promise<T> {
 export function resetContentIndex(): void {
   catalog = { version: 2, generated: '', items: {} }
   manifestBodies.clear()
+  localItems.clear()
   invalidateEntryCaches()
 }
 
 export function getEntry(id: string): CatalogEntry | undefined {
-  return catalog.items[id]
+  return catalog.items[id] ?? localItems.get(id)
 }
 
 export function hasEntry(id: string): boolean {
-  return id in catalog.items
+  return id in catalog.items || localItems.has(id)
 }
 
 export function getAllEntries(): Map<string, CatalogEntry> {
   if (mergedEntries) return mergedEntries
   const out = new Map<string, CatalogEntry>()
+  for (const [id, entry] of localItems) out.set(id, entry)
   for (const [id, entry] of Object.entries(catalog.items)) out.set(id, entry)
   mergedEntries = out
   return out

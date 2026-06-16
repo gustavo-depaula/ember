@@ -1,9 +1,10 @@
 import { Marked } from 'marked'
 import markedFootnote from 'marked-footnote'
-import { getEntry, getRememberedManifest } from '@/content/contentIndex'
+import { ensureManifestBody, getEntry } from '@/content/contentIndex'
+import { loadEscrivaChapterHtml } from '@/content/escrivaCatalog'
 import type { BookEntry } from '@/content/manifestTypes'
 import type { TocNode } from '@/content/resolver'
-import { getBlob, getJson, getText } from '@/content/store'
+import { getBlob, getText } from '@/content/store'
 import { galleryExtension } from '@/features/books/markedGalleryExtension'
 
 const md = new Marked().use(markedFootnote()).use(galleryExtension())
@@ -67,6 +68,11 @@ function bytesToBase64(bytes: Uint8Array): string {
 function extractBody(html: string): string {
   const bodyMatch = html.match(/<body[^>]*>([\s\S]*)<\/body>/i)
   return bodyMatch ? bodyMatch[1].trim() : html
+}
+
+/** Bundled chapters are markdown unless flagged `html`; external bodies are HTML already. */
+async function renderBundledChapter(raw: string, format?: 'html'): Promise<string> {
+  return format === 'html' ? raw : md.parse(raw)
 }
 
 function collectImgSrcs(html: string): string[] {
@@ -228,8 +234,9 @@ export async function openBookSession(
   const entry = getEntry(corpusId)
   if (!entry) return undefined
 
-  const manifest: BookEntry =
-    getRememberedManifest<BookEntry>(entry.hash) ?? (await getJson<BookEntry>(entry.hash))
+  // ensureManifestBody resolves both Hearth books (by blob hash) and external
+  // Escrivá books (built on demand from the API via the manifest resolver).
+  const manifest = await ensureManifestBody<BookEntry>(entry.hash)
   const css = manifest.style ? await getText(manifest.style.hash).catch(() => '') : ''
   const imageRefs = buildImageRefs(manifest)
 
@@ -253,9 +260,13 @@ export async function openBookSession(
     const id = chapterIds[index]
     if (!id) return ''
     const ref = manifest.chapters?.[id]?.[lang]
-    if (!ref || !('hash' in ref)) return ''
-    const raw = await getText(ref.hash)
-    const html = ref.format === 'html' ? raw : await md.parse(raw)
+    if (!ref) return ''
+    // External books (Escrivá) fetch+cache their already-HTML chapter body from
+    // the producer; bundled books read the hashed markdown/HTML blob from Hearth.
+    const html =
+      'type' in ref
+        ? await loadEscrivaChapterHtml(manifest.id, id, lang, ref.url)
+        : await renderBundledChapter(await getText(ref.hash), ref.format)
     const body = extractBody(html)
     return inlineImages ? inlineChapterImages(body, imageRefs, imageCache) : body
   }
