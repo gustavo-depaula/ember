@@ -1,24 +1,24 @@
 import { Platform } from 'react-native'
-import type { Primitive, TextPrimitive } from '@/content/primitives'
+import type { LinkPrimitive, Primitive } from '@/content/primitives'
 import type { SourceFetchContext } from '../types'
 import { fetchPage } from './fetchPage'
 import { parseMeditation } from './parse'
 import { type Lang, meditationUrl, narrowLang } from './url'
 
-function attribution(lang: Lang, url: string): TextPrimitive {
+function attribution(lang: Lang, url: string): LinkPrimitive {
   const text =
     lang === 'pt-BR'
-      ? `Meditação do Opus Dei. Leia a íntegra em ${url}`
-      : `Meditation by Opus Dei. Read the full text at ${url}`
-  return { type: 'text', text: { primary: text }, style: 'italic' }
+      ? 'Meditação do Opus Dei — leia a íntegra'
+      : 'Meditation by Opus Dei — read the full text'
+  return { type: 'link', text: { primary: text }, href: url }
 }
 
-function unavailable(lang: Lang, url: string): TextPrimitive {
+function unavailable(lang: Lang, url: string): LinkPrimitive {
   const text =
     lang === 'pt-BR'
-      ? `A meditação de hoje está disponível em ${url}`
-      : `Today's meditation is available at ${url}`
-  return { type: 'text', text: { primary: text }, style: 'italic' }
+      ? 'Leia a meditação de hoje em opusdei.org'
+      : "Read today's meditation on opusdei.org"
+  return { type: 'link', text: { primary: text }, href: url }
 }
 
 // Today's meditation title + lead, for compact surfaces (the Explore featured
@@ -45,7 +45,7 @@ export const opusDeiMeditationSource = {
   version: '1',
   prefsDeps: ['lang' as const],
   dateScoped: true,
-  async fetch(ctx: SourceFetchContext): Promise<Primitive[] | TextPrimitive> {
+  async fetch(ctx: SourceFetchContext): Promise<Primitive | Primitive[]> {
     const lang = narrowLang(ctx.prefs.lang)
     const url = meditationUrl(lang, ctx.date)
     if (Platform.OS === 'web') return unavailable(lang, url)

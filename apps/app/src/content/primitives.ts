@@ -34,6 +34,14 @@ export type RubricPrimitive = {
   text: BilingualText
 }
 
+// A tappable external link (opens the in-app browser / a new tab). The renderer
+// owns the open behavior, so sources never embed raw URLs as prose.
+export type LinkPrimitive = {
+  type: 'link'
+  text: BilingualText
+  href: string
+}
+
 export type DividerPrimitive = {
   type: 'divider'
 }
@@ -282,6 +290,7 @@ export type Primitive =
   | TextPrimitive
   | HeadingPrimitive
   | RubricPrimitive
+  | LinkPrimitive
   | DividerPrimitive
   | VersesPrimitive
   | ImagePrimitive

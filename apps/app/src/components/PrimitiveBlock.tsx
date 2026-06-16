@@ -16,6 +16,7 @@ import { CollapsiblePrayer } from './prayer/CollapsiblePrayer'
 import { GalleryBlock } from './prayer/GalleryBlock'
 import { HolyCardBlock } from './prayer/HolyCardBlock'
 import { ImageBlock } from './prayer/ImageBlock'
+import { LinkBlock } from './prayer/LinkBlock'
 import { LiturgicalColorBlock } from './prayer/LiturgicalColorBlock'
 import { LiturgicalColorProvider } from './prayer/LiturgicalColorContext'
 import { LiturgicalPrayerBlock } from './prayer/LiturgicalPrayerBlock'
@@ -66,6 +67,9 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
 
     case 'rubric':
       return <Typography variant="rubric">{primitive.text.primary}</Typography>
+
+    case 'link':
+      return <LinkBlock text={primitive.text} href={primitive.href} />
 
     case 'divider':
       return (
