@@ -1,5 +1,11 @@
 # Fix Liguori Liturgical Map — Pentecost/PP Misalignment
 
+> **RESOLVED (2026-06-16).** Fixed by re-keying the temporal map (Pentecost week →
+> `easter/8/*`, post-Pentecost weeks shifted back one slot) and swapping the
+> resolver's reserve/fixed-date fallback order in `liturgical-day-resolver.ts`.
+> Year-sweep now shows 0 reserve fallbacks in 2024/2026/2027 (was 31). See the
+> 2026-06-16 entry in `docs/journal.md` for the full write-up. Kept here for history.
+
 ## Problem
 
 The `meditacoes-ligorio` liturgical map has two bugs around the Pentecost–Trinity transition that cause ~25 days/year to show the wrong meditation or fall back to reserves.
