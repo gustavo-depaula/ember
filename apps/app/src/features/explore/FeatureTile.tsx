@@ -93,7 +93,7 @@ export function FeatureTile({
             {title}
           </Typography>
           {subtitle && (
-            <Typography variant="whisper" color="rgba(245,239,226,0.82)" numberOfLines={2}>
+            <Typography variant="whisper" color="rgba(245,239,226,0.82)" numberOfLines={3}>
               {subtitle}
             </Typography>
           )}
