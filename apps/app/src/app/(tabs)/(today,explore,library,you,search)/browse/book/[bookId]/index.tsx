@@ -452,6 +452,11 @@ function TocNodeRow({
         >
           {title}
         </Typography>
+        {node.pointRange ? (
+          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.8}>
+            {`${node.pointRange.from}–${node.pointRange.to}`}
+          </Typography>
+        ) : null}
         {isCompleted ? (
           <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
         ) : null}

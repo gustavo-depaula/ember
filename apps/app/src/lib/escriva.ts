@@ -30,11 +30,19 @@ export type EscrivaBookGroup = 'base' | 'cartas' | 'one-level' | 'holy-rosary'
  * the shape at fetch time, so callers don't carry the group around.
  */
 export type EscrivaChapter = {
+  /** escriva.org chapter id (base/cartas only) — used to map points to chapters. */
+  apiId?: number
   name: string
   bodyUrl: string
 }
 
 type Paginated<T> = { count: number; next: string | null; results: T[] }
+
+/** Trailing numeric id of an escriva.org resource url (e.g. `…/chapters/3852/`). */
+function idFromUrl(url: string | undefined): number | undefined {
+  const m = url?.match(/\/(\d+)\/?$/)
+  return m ? Number(m[1]) : undefined
+}
 
 async function getJson<T>(url: string): Promise<T> {
   const res = await fetch(url)
@@ -86,9 +94,34 @@ export async function fetchChapterList(
   const items = await fetchAllPages<ChapterListItem>(chapterListUrl(siteId, bookId, group))
   const oneLevel = group === 'one-level' || group === 'holy-rosary'
   return items.map((it) => ({
+    apiId: idFromUrl(it.url),
     name: it.name || it.label || '',
     bodyUrl: oneLevel ? it.url : (it.point_list_url ?? ''),
   }))
+}
+
+/**
+ * Per-chapter range of point numbers for a book, keyed by escriva.org chapter id.
+ * Used to show e.g. "1–46" beside a chapter in the maxims books' table of
+ * contents. One book-wide pass over the points; numbers are language-agnostic.
+ */
+export async function fetchPointRanges(
+  siteId: number,
+  bookId: number,
+): Promise<Map<number, { from: number; to: number }>> {
+  type RangePoint = { number?: number; chapter?: { url: string } }
+  const points = await fetchAllPages<RangePoint>(
+    `${baseUrl}/points/?book_id=${bookId}&site_id=${siteId}&limit=100`,
+  )
+  const ranges = new Map<number, { from: number; to: number }>()
+  for (const p of points) {
+    const cid = idFromUrl(p.chapter?.url)
+    if (typeof p.number !== 'number' || cid === undefined) continue
+    const r = ranges.get(cid)
+    if (!r) ranges.set(cid, { from: p.number, to: p.number })
+    else ranges.set(cid, { from: Math.min(r.from, p.number), to: Math.max(r.to, p.number) })
+  }
+  return ranges
 }
 
 type EscrivaPoint = {
@@ -113,6 +146,18 @@ function renderPoint(p: EscrivaPoint): string {
   return `<div class="point">${num}${p.text}${renderFootnotes(p.footnotes)}</div>`
 }
 
+// Scoped styling for the numbered points, prepended to the chapter body so it
+// rides along with the cached HTML (the foliate reader has no per-book
+// stylesheet hook). The point number reads as a quiet, letter-spaced label
+// above each maxim rather than an orphaned digit; spacing separates the points.
+const pointStyles =
+  '<style>' +
+  '.point{margin:0 0 1.7em}' +
+  '.point-num{display:block;font-size:.72em;letter-spacing:.18em;opacity:.5;margin:0 0 .15em;font-variant-numeric:tabular-nums}' +
+  '.point>p{margin:0 0 .5em}.point>p:last-child{margin-bottom:0}' +
+  '.point .footnotes{margin-top:.6em;font-size:.82em;opacity:.65}' +
+  '</style>'
+
 /**
  * Assemble a chapter's body HTML from `bodyUrl`. Branches on the response shape:
  * a paginated points list (base/cartas) is rendered as numbered points; a single
@@ -128,5 +173,5 @@ export async function fetchChapterHtml(bodyUrl: string): Promise<string> {
     points.push(...page.results)
     next = page.next
   }
-  return points.map(renderPoint).join('')
+  return pointStyles + points.map(renderPoint).join('')
 }

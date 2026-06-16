@@ -17,7 +17,7 @@ import {
   putEscrivaBookEntry,
   putEscrivaChapterHtml,
 } from '@/db/repositories/escrivaContent'
-import { fetchChapterHtml, fetchChapterList } from '@/lib/escriva'
+import { fetchChapterHtml, fetchChapterList, fetchPointRanges } from '@/lib/escriva'
 import { registerLocalEntries, rememberManifestBody, setManifestBodyResolver } from './contentIndex'
 import {
   type EscrivaWork,
@@ -118,6 +118,21 @@ async function buildBookEntry(work: EscrivaWork): Promise<BookEntry> {
     }),
   )
 
+  // Maxims books (The Way / Furrow / The Forge) show each chapter's point-number
+  // range in the TOC. Numbers are language-agnostic, so one pass over the primary
+  // language's points suffices; best-effort — a failure must not break the book.
+  const primaryLang = langs[0]
+  const primary = work.sources[primaryLang as 'en-US' | 'pt-BR']
+  let ranges: Awaited<ReturnType<typeof fetchPointRanges>> | undefined
+  if (work.maxims && primary) {
+    try {
+      ranges = await fetchPointRanges(primary.siteId, primary.bookId)
+    } catch (err) {
+      console.warn(`[escriva] point ranges ${work.slug} failed:`, err)
+    }
+  }
+  const primaryChapters = perLang.find((p) => p.lang === primaryLang)?.chapters ?? []
+
   const maxLen = perLang.reduce((n, p) => Math.max(n, p.chapters.length), 0)
   const toc: TocNode[] = []
   const chapters: BookEntry['chapters'] = {}
@@ -132,7 +147,9 @@ async function buildBookEntry(work: EscrivaWork): Promise<BookEntry> {
       ;(title as Record<string, string>)[lang] = ch.name
       refs[lang] = { type: 'external', url: ch.bodyUrl }
     }
-    toc.push({ id: chapterId, title })
+    const apiId = primaryChapters[i]?.apiId
+    const pointRange = apiId !== undefined ? ranges?.get(apiId) : undefined
+    toc.push(pointRange ? { id: chapterId, title, pointRange } : { id: chapterId, title })
     chapters[chapterId] = refs
   }
 

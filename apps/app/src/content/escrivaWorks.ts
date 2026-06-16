@@ -43,6 +43,9 @@ export type EscrivaWork = {
   description?: LocalizedText
   /** Per app-language source on escriva.org. Determines which languages exist. */
   sources: Partial<Record<'en-US' | 'pt-BR', EscrivaLangSource>>
+  /** Books of numbered maxims (The Way / Furrow / The Forge): show each
+   *  chapter's point-number range in the table of contents. */
+  maxims?: boolean
 }
 
 const en = (bookId: number, group: EscrivaBookGroup): EscrivaLangSource => ({
@@ -67,6 +70,7 @@ export const escrivaWorks: EscrivaWork[] = [
         '999 pontos sobre a vida interior — a mais lida das obras de Escrivá, uma escola de oração, trabalho e filiação divina.',
     },
     sources: { 'en-US': en(12, 'base'), 'pt-BR': pt(15, 'base') },
+    maxims: true,
   },
   {
     slug: 'escriva-furrow',
@@ -77,6 +81,7 @@ export const escrivaWorks: EscrivaWork[] = [
         'Continuação de Caminho — 1.000 pontos que sulcam a alma para uma colheita apostólica.',
     },
     sources: { 'en-US': en(35, 'base'), 'pt-BR': pt(38, 'base') },
+    maxims: true,
   },
   {
     slug: 'escriva-the-forge',
@@ -86,6 +91,7 @@ export const escrivaWorks: EscrivaWork[] = [
       'pt-BR': 'O terceiro livro de pontos — a alma forjada no fogo do amor de Deus.',
     },
     sources: { 'en-US': en(56, 'base'), 'pt-BR': pt(61, 'base') },
+    maxims: true,
   },
   {
     slug: 'escriva-christ-is-passing-by',
