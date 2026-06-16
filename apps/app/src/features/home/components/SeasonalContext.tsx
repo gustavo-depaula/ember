@@ -51,7 +51,13 @@ export function SeasonalContext({ date }: { date: Date }) {
           {when}
         </Text>
         {description && (
-          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" maxWidth={520}>
+          <Text
+            fontFamily="$body"
+            fontSize="$2"
+            color="$colorSecondary"
+            maxWidth={520}
+            numberOfLines={3}
+          >
             <InlineMarkdown source={description} />
           </Text>
         )}
