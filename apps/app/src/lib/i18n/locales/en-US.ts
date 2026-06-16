@@ -897,6 +897,7 @@ export default {
     noBookmarks: 'No bookmarks yet. Tap the button above to mark this page.',
     expandAll: 'Expand all',
     collapseAll: 'Collapse all',
+    tableOfContents: 'Contents',
     tocSearchPlaceholder: 'Filter chapters…',
     pageOfTotal: '{{page}} / {{total}}',
     chapterCompleteLabel: 'Chapter complete',

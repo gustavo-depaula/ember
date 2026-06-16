@@ -905,6 +905,7 @@ export default {
     noBookmarks: 'Nenhum marcador ainda. Toque no bot\u00e3o acima para marcar esta p\u00e1gina.',
     expandAll: 'Expandir tudo',
     collapseAll: 'Recolher tudo',
+    tableOfContents: 'Sumário',
     tocSearchPlaceholder: 'Filtrar capítulos…',
     pageOfTotal: '{{page}} / {{total}}',
     chapterCompleteLabel: 'Capítulo concluído',

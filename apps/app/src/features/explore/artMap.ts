@@ -21,6 +21,8 @@ const artFiles: Record<string, string> = {
   'collection/divine-mercy': 'divine-mercy.jpg',
   'collection/carmelite': 'carmelite.jpg',
   'collection/spiritual-classics': 'spiritual-classics.jpg',
+  // CC BY-SA 2.0 (not PD) — a portrait of the saint; no PD likeness exists. See CREDITS.md.
+  'collection/josemaria-escriva': 'josemaria-escriva.jpg',
   'collection/mental-prayer': 'mental-prayer.jpg',
   'collection/alphonsus-liguori': 'alphonsus-liguori.jpg',
   'collection/thomas-aquinas': 'thomas-aquinas.jpg',
@@ -77,7 +79,7 @@ const artFiles: Record<string, string> = {
 
 // Bump when a painting is replaced at an existing filename — expo-image caches
 // by URL, so the `?v` query busts the stale disk-cached image.
-const artVersion = 3
+const artVersion = 4
 
 export function artFor(id: string | undefined): ImageSource | undefined {
   if (!id) return undefined

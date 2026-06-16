@@ -152,6 +152,9 @@ export type TocNode = {
   id: string
   title: LocalizedText
   children?: TocNode[]
+  /** Range of point numbers in this chapter, shown in the TOC for books of
+   *  numbered maxims (e.g. Escrivá's The Way → "1–46"). */
+  pointRange?: { from: number; to: number }
 }
 
 // Bundled chapters point at a content-addressed blob in Hearth; external-book

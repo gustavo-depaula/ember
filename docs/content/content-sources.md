@@ -11,8 +11,22 @@
 | EF Mass Propers | Divinum Officium (bundled) | MIT | Bundled JSON | Yes (bundled) |
 | OF Mass Propers | `ember-extra` (vendored) | See repo | Bundled JSON | Yes (bundled) |
 | Liturgical Calendar | Catholic Readings API (GitHub Pages) | MIT | REST JSON | Cached after fetch |
+| St. Josemaría Escrivá works | escriva.org API (`/api/v1`) | © Fundación Studium / Opus Dei | REST JSON | Cached after first fetch (never in Hearth) |
 
 ---
+
+## St. Josemaría Escrivá (escriva.org API)
+
+- **Source:** the official `https://escriva.org/api/v1` API (publisher: Fundación Studium / Opus Dei).
+- **License:** Escrivá's works are **in copyright**. We therefore **never persist them into Hearth** — the texts are fetched live from the publisher's own API and cached per-device only. This is the deliberate exception to "everything is in the corpus": the books are modeled as *external books* (`BookEntry.source = { type: 'external', producer: 'producer/escriva', homepage }` with external `ChapterRef`s).
+- **Languages:** the app's two languages map to escriva.org *site ids* — `en-US` → site `1`, `pt-BR` → site `6` (`GET /sites/`).
+- **Endpoint families** (selected by a book's `book_group`):
+  - `base` — `/chapters?book_id=` (thematic chapters) + `/points?chapter_id=` (numbered paragraphs, HTML).
+  - `cartas` — `/cartas-chapters` + `/cartas-points` (the pastoral letters).
+  - `one-level` / `holy-rosary` — `/one-level-texts?book_id=` (each text is a whole chapter; the Rosary and Way of the Cross).
+  - All list endpoints paginate with `limit`/`offset` and a `next` url.
+- **How it's wired:** `apps/app/src/lib/escriva.ts` (client) → `content/escrivaWorks.ts` (curated work list + collection, baked into the app) → `content/escrivaCatalog.ts` (runtime catalog registration + on-demand `BookEntry` build) → reader external-ref branch in `features/books/reader/bookContent.ts`. Chapter HTML is cached in the existing `external_content` SQLite table under `producer/escriva`.
+- **Offline:** on-demand + cache. A chapter is fetched once on first open and re-read offline thereafter; there is no bulk download and pinning does not prefetch external chapters.
 
 ## Bible Text
 
