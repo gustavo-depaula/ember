@@ -27,7 +27,9 @@ function unavailable(lang: Lang, url: string): LinkPrimitive {
 // degrading to a link-out on web or failure. `dateScoped` keys the cache per day.
 export const opusDeiGospelCommentarySource = {
   id: 'producer/opus-dei-gospel-commentary',
-  version: '1',
+  // v2: attribution/link-out now emit a `link` primitive — drop v1's cached
+  // payloads (which carried the raw URL as text).
+  version: '2',
   prefsDeps: ['lang' as const],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive | Primitive[]> {
