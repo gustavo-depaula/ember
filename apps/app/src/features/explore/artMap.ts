@@ -21,6 +21,8 @@ const artFiles: Record<string, string> = {
   'collection/divine-mercy': 'divine-mercy.jpg',
   'collection/carmelite': 'carmelite.jpg',
   'collection/spiritual-classics': 'spiritual-classics.jpg',
+  // CC BY-SA 4.0 (not PD) — a statue of the saint; no PD likeness exists. See CREDITS.md.
+  'collection/josemaria-escriva': 'josemaria-escriva.jpg',
   'collection/mental-prayer': 'mental-prayer.jpg',
   'collection/alphonsus-liguori': 'alphonsus-liguori.jpg',
   'collection/thomas-aquinas': 'thomas-aquinas.jpg',

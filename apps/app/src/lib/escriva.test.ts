@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import { fetchChapterHtml, fetchChapterList } from './escriva'
+import { fetchChapterHtml, fetchChapterList, fetchPointRanges } from './escriva'
 
 function mockFetch(routes: Record<string, unknown>) {
   return vi.fn(async (url: string) => {
@@ -111,5 +111,66 @@ describe('fetchChapterHtml', () => {
     )
     const html = await fetchChapterHtml(url)
     expect(html).toBe('<p>It is after ten.</p>')
+  })
+
+  it('prepends the point styles to a points list', async () => {
+    const url = 'PLU'
+    vi.stubGlobal(
+      'fetch',
+      mockFetch({ [url]: { count: 1, next: null, results: [{ number: 1, text: '<p>x</p>' }] } }),
+    )
+    const html = await fetchChapterHtml(url)
+    expect(html.startsWith('<style>')).toBe(true)
+    expect(html).toContain('.point-num{')
+  })
+})
+
+describe('fetchChapterList apiId', () => {
+  it('parses the chapter id from the chapter url', async () => {
+    const url = 'https://escriva.org/api/v1/chapters/?book_id=12&site_id=1&limit=100'
+    vi.stubGlobal(
+      'fetch',
+      mockFetch({
+        [url]: {
+          count: 1,
+          next: null,
+          results: [
+            {
+              url: 'https://escriva.org/api/v1/chapters/3852/',
+              name: 'Carácter',
+              point_list_url: 'https://escriva.org/api/v1/points/?chapter_id=3852',
+            },
+          ],
+        },
+      }),
+    )
+    const [chapter] = await fetchChapterList(1, 12, 'base')
+    expect(chapter.apiId).toBe(3852)
+  })
+})
+
+describe('fetchPointRanges', () => {
+  it('computes the min/max point number per chapter', async () => {
+    const url = 'https://escriva.org/api/v1/points/?book_id=12&site_id=1&limit=100'
+    const chA = { url: 'https://escriva.org/api/v1/chapters/3852/' }
+    const chB = { url: 'https://escriva.org/api/v1/chapters/3853/' }
+    vi.stubGlobal(
+      'fetch',
+      mockFetch({
+        [url]: {
+          count: 4,
+          next: null,
+          results: [
+            { number: 1, chapter: chA },
+            { number: 2, chapter: chA },
+            { number: 3, chapter: chA },
+            { number: 4, chapter: chB },
+          ],
+        },
+      }),
+    )
+    const ranges = await fetchPointRanges(1, 12)
+    expect(ranges.get(3852)).toEqual({ from: 1, to: 3 })
+    expect(ranges.get(3853)).toEqual({ from: 4, to: 4 })
   })
 })

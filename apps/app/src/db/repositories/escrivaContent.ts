@@ -11,7 +11,9 @@ import { escrivaProducerId } from '@/content/escrivaWorks'
 import type { BookEntry } from '@/content/manifestTypes'
 import { getDb } from '../client'
 
-const producerVersion = '1'
+// Bump to invalidate cached chapters + manifests: v2 added styled point markup
+// and per-chapter point ranges in the TOC.
+const producerVersion = '2'
 
 // A reserved chapter id under which the assembled BookEntry manifest (toc +
 // external chapter refs) is cached, so the chapter list isn't re-fetched from

@@ -232,6 +232,17 @@ export function ReaderTocSheet({
                     >
                       {title}
                     </Text>
+                    {node.pointRange ? (
+                      <Text
+                        fontFamily="$body"
+                        fontSize="$1"
+                        color="$colorSecondary"
+                        opacity={0.8}
+                        fontVariant={['tabular-nums']}
+                      >
+                        {`${node.pointRange.from}–${node.pointRange.to}`}
+                      </Text>
+                    ) : null}
                     {timing && timing.minutes > 0 ? (
                       <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                         {`${timing.minutes} min`}

@@ -49,3 +49,4 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **evangelist/john-1** → `evangelist-john-1.jpg` — Domenichino. *Zampieri St John Evangelist.jpg* (Public domain).
 - **evangelist/john-2** → `evangelist-john-2.jpg` — Hieronymus Bosch. *Johannes op Patmos Saint John on Patmos Berlin, Staatlichen Museen zu Berlin, Gemaldegalerie HR.jpg* (Public domain).
 - **evangelist/john-3** → `evangelist-john-3.jpg` — Diego Velázquez. *Diego Velázquez 018 (John the Evangelist from Patmos).jpg* (Public domain).
+- **collection/josemaria-escriva** → `josemaria-escriva.jpg` — Sheila1988. *Statue of Josemaría Escrivá.jpg*, via Wikimedia Commons (**CC BY-SA 4.0**). The only non-PD image in this tree: no public-domain likeness of the saint (d. 1975) exists, so a freely-licensed statue is used with attribution.
