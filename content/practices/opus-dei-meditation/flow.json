@@ -1,0 +1,8 @@
+{
+  "sections": [
+    {
+      "type": "include",
+      "ref": "producer/opus-dei-meditation"
+    }
+  ]
+}

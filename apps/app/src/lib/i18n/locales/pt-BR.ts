@@ -1229,6 +1229,8 @@ export default {
       fri: 'O Sagrado Coração',
       sat: 'Nossa Senhora',
     },
+    meditationOfDay: 'Meditação do Dia',
+    meditationTagline: 'Uma meditação diária do Opus Dei.',
     fromRome: 'De Roma',
     rome: {
       videos: 'Vídeos',
@@ -1236,6 +1238,11 @@ export default {
       holySee: 'A Santa Sé',
       media: 'Mídia do Vaticano',
       more: 'Mais do Vatican News',
+    },
+    fromOpusDei: 'Do Opus Dei',
+    opusDei: {
+      more: 'Mais do Opus Dei',
+      readOn: 'Ler em opusdei.org',
     },
     season: {
       advent: 'Advento',

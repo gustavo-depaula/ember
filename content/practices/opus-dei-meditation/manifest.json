@@ -1,0 +1,46 @@
+{
+	"id": "opus-dei-meditation",
+	"icon": "book",
+	"name": {
+		"en-US": "Meditation of the Day",
+		"pt-BR": "Meditação do Dia"
+	},
+	"categories": [
+		"meditation",
+		"daily"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "A daily meditation from Opus Dei — points for prayer drawn from the day's liturgy, to help you spend time with our Lord.",
+		"pt-BR": "Uma meditação diária do Opus Dei — pontos para a oração tirados da liturgia do dia, para ajudá-lo a estar com Nosso Senhor."
+	},
+	"history": {
+		"en-US": "Daily meditations have long been a pillar of the spirituality of Opus Dei, following St. Josemaría Escrivá's call to sanctify ordinary life. Each text offers a few points to nourish a period of mental prayer.",
+		"pt-BR": "As meditações diárias são há muito um pilar da espiritualidade do Opus Dei, seguindo o chamado de São Josemaria Escrivá a santificar a vida ordinária. Cada texto oferece alguns pontos para nutrir um tempo de oração mental."
+	},
+	"howToPray": {
+		"en-US": "Place yourself in God's presence. Read each point slowly, pausing to speak with our Lord about whatever moves your heart. Do not rush to finish — prayer is a conversation, not a reading.",
+		"pt-BR": "Coloque-se na presença de Deus. Leia cada ponto devagar, parando para conversar com Nosso Senhor sobre o que tocar o seu coração. Não tenha pressa de terminar — a oração é uma conversa, não uma leitura."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"meditation",
+		"daily",
+		"opus-dei",
+		"mental-prayer"
+	],
+	"defaults": {
+		"sortOrder": 50,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
