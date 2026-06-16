@@ -3,10 +3,43 @@ import { Text, YStack } from 'tamagui'
 
 import { ObligationBadges } from '@/components'
 import { ProseBlock } from '@/components/prayer'
-import { localizeContent } from '@/lib/i18n'
-import type { DayCalendar } from '@/lib/liturgical'
+import type { DayCalendar, ResolvedCelebration } from '@/lib/liturgical'
 import { useObligations } from '@/lib/liturgical'
+import { useCelebrationDisplay } from '../useCelebrationDisplay'
 import { RankBadge } from './RankBadge'
+
+function CelebrationDetail({
+  celebration,
+  isPrincipal,
+}: {
+  celebration: ResolvedCelebration
+  isPrincipal: boolean
+}) {
+  const { t } = useTranslation()
+  // Name + "about this celebration" prose both from the Mass formulary — the same
+  // canonical MR source the Mass renders (descriptions are mostly pt-BR).
+  const { name, description } = useCelebrationDisplay(celebration)
+
+  return (
+    <YStack
+      gap={4}
+      padding="$sm"
+      borderRadius={8}
+      backgroundColor={isPrincipal ? '$backgroundHover' : undefined}
+    >
+      <Text fontFamily="$heading" fontSize="$3" color="$color">
+        {name}
+      </Text>
+      <RankBadge rank={celebration.rank} />
+      {description ? <ProseBlock text={{ primary: description }} /> : null}
+      {celebration.entry.holyDayOfObligation && (
+        <Text fontFamily="$body" fontSize="$1" color="$accent">
+          {t('calendar.holyDay')}
+        </Text>
+      )}
+    </YStack>
+  )
+}
 
 export function DayDetail({ day }: { day: DayCalendar | undefined }) {
   const { t } = useTranslation()
@@ -34,32 +67,9 @@ export function DayDetail({ day }: { day: DayCalendar | undefined }) {
 
   return (
     <YStack gap="$sm" padding="$md">
-      {day.celebrations.map((c) => {
-        const isPrincipal = c === day.principal
-        return (
-          <YStack
-            key={c.entry.id}
-            gap={4}
-            padding="$sm"
-            borderRadius={8}
-            backgroundColor={isPrincipal ? '$backgroundHover' : undefined}
-          >
-            <Text fontFamily="$heading" fontSize="$3" color="$color">
-              {localizeContent(c.entry.name)}
-            </Text>
-            <RankBadge rank={c.rank} />
-            {(() => {
-              const description = localizeContent(c.entry.description)
-              return description ? <ProseBlock text={{ primary: description }} /> : null
-            })()}
-            {c.entry.holyDayOfObligation && (
-              <Text fontFamily="$body" fontSize="$1" color="$accent">
-                {t('calendar.holyDay')}
-              </Text>
-            )}
-          </YStack>
-        )
-      })}
+      {day.celebrations.map((c) => (
+        <CelebrationDetail key={c.entry.id} celebration={c} isPrincipal={c === day.principal} />
+      ))}
 
       {obligations && (
         <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />

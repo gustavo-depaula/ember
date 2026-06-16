@@ -6,8 +6,7 @@ import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { InlineMarkdown } from '@/components/prayer'
-import { useUpcomingCelebration } from '@/features/calendar'
-import { localizeContent } from '@/lib/i18n'
+import { useCelebrationDisplay, useUpcomingCelebration } from '@/features/calendar'
 import { normalizeDate } from '@/lib/liturgical'
 
 export function SeasonalContext({ date }: { date: Date }) {
@@ -22,8 +21,7 @@ export function SeasonalContext({ date }: { date: Date }) {
     return differenceInCalendarDays(normalizeDate(upcoming.date), normalizeDate(date))
   }, [upcoming, dateKey])
 
-  const feastName = upcoming ? localizeContent(upcoming.entry.name) : undefined
-  const description = upcoming ? localizeContent(upcoming.entry.description) : undefined
+  const { name: feastName, description } = useCelebrationDisplay(upcoming)
 
   if (!feastName || !daysUntil || daysUntil <= 0) return null
 

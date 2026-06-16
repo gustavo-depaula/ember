@@ -5,18 +5,20 @@ import {
   getCelebrationsForDate,
   type ResolvedCelebration,
 } from '@ember/liturgical'
+import { buildOfYearCalendar } from '@ember/mass'
 import { useQuery } from '@tanstack/react-query'
 import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
 import { useToday } from '@/hooks/useToday'
 import { fetchHearth } from '@/lib/hearth'
+import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-// entries.json is the curated *display* calendar for the home card and month
-// grid: it carries the temporal feasts (Christmas, Easter, Epiphany, …) and the
-// holy-day-of-obligation flags that ember-extra's data doesn't. The Mass uses a
-// different, propers-aligned source — the generated liturgical/of-calendar.json
-// via @ember/mass's resolveOfDay — so the two stay decoupled by purpose.
+// The OF display calendar (home card + month grid) is now resolved from the
+// *same* canonical MR authority the Mass uses — `resolveOfDay` over
+// `content/of/calendar/*`, via @ember/mass's buildOfYearCalendar — so the two can
+// never disagree (Sacred Heart, Corpus Christi, transferred Ascension all show).
+// The EF display calendar still uses the curated entries.json (its EF half).
 function fetchLiturgicalEntries(): Promise<LiturgicalEntry[]> {
   return fetchHearth<LiturgicalEntry[]>('liturgical/entries.json')
 }
@@ -24,12 +26,22 @@ function fetchLiturgicalEntries(): Promise<LiturgicalEntry[]> {
 export function useYearCalendar(year?: number) {
   const form = usePreferencesStore((s) => s.liturgicalCalendar)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const today = useToday()
   const resolvedYear = year ?? today.getFullYear()
 
   return useQuery({
-    queryKey: ['calendar', resolvedYear, form, jurisdiction],
+    queryKey: ['calendar', resolvedYear, form, jurisdiction, contentLanguage],
     queryFn: async () => {
+      if (form === 'of') {
+        const statics = await loadOfCalendar()
+        if (!statics) return new Map<string, DayCalendar>()
+        return buildOfYearCalendar({
+          year: resolvedYear,
+          statics,
+          scope: scopeForContentLang(contentLanguage),
+        })
+      }
       const entries = await fetchLiturgicalEntries()
       return buildYearCalendar({ year: resolvedYear, form, entries, jurisdiction })
     },

@@ -1,30 +1,28 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { useWindowDimensions } from 'react-native'
 import { Separator, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
-import { useYearCalendar } from '@/features/calendar'
+import { useCelebrationDisplay, useYearCalendar } from '@/features/calendar'
 import { useSaintOfDay } from '@/features/explore'
-import { SaintCard, saints } from '@/features/saints'
+import { useSaintOfDayReading } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate } from '@/lib/liturgical'
 
 // Celebration-of-the-Day "story" — the destination of the Explore featured
-// block. Shows the day's principal liturgical celebration (with holy-card art
-// when one is mapped) plus any other celebrations that share the date, each
-// with its name, rank, and liturgical description.
+// block. Shows the day's principal liturgical celebration plus any other
+// celebrations that share the date, each with its name, rank, and the Mass
+// formulary's liturgical description.
 export default function CelebrationOfDayScreen() {
   const { t } = useTranslation()
   const router = useRouter()
-  const { width } = useWindowDimensions()
   const today = useToday()
   const saint = useSaintOfDay()
   const { data: calendar } = useYearCalendar(today.getFullYear())
-
-  const cardWidth = Math.min(width - 48, 340)
+  const { name, description } = useCelebrationDisplay(saint?.celebration)
+  const reading = useSaintOfDayReading()
 
   const back = (
     <AnimatedPressable
@@ -48,9 +46,6 @@ export default function CelebrationOfDayScreen() {
   }
 
   const entry = saint.celebration.entry
-  const name = localizeContent(entry.name)
-  const description = localizeContent(entry.description)
-  const artSaint = saint.artId ? saints.find((s) => s.id === saint.artId) : undefined
 
   // Other celebrations sharing today's date (the principal is rendered above).
   const others = calendar
@@ -81,12 +76,6 @@ export default function CelebrationOfDayScreen() {
           </Typography>
         </YStack>
 
-        {artSaint && (
-          <YStack height={cardWidth * 1.5} alignItems="center" justifyContent="center">
-            <SaintCard saint={artSaint} />
-          </YStack>
-        )}
-
         {description && (
           <Typography
             variant="whisper"
@@ -99,6 +88,36 @@ export default function CelebrationOfDayScreen() {
           </Typography>
         )}
 
+        <YStack gap="$sm" alignSelf="center" alignItems="center">
+          <AnimatedPressable
+            onPress={() =>
+              router.push({ pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } })
+            }
+            accessibilityRole="link"
+            accessibilityLabel={t('explore.todaysMass', { defaultValue: "Today's Mass" })}
+          >
+            <Typography variant="reference" color="$accent" textTransform="uppercase">
+              {t('explore.todaysMass', { defaultValue: "Today's Mass" })} ›
+            </Typography>
+          </AnimatedPressable>
+          {reading && (
+            <AnimatedPressable
+              onPress={() =>
+                router.push({
+                  pathname: '/pray/[practiceId]',
+                  params: { practiceId: 'saint-of-the-day' },
+                })
+              }
+              accessibilityRole="link"
+              accessibilityLabel={t('explore.readFullLife', { defaultValue: 'Read the full life' })}
+            >
+              <Typography variant="reference" color="$accent" textTransform="uppercase">
+                {t('explore.readFullLife', { defaultValue: 'Read the full life' })} ›
+              </Typography>
+            </AnimatedPressable>
+          )}
+        </YStack>
+
         {others.length > 0 && (
           <YStack gap="$md" alignSelf="center" maxWidth={520} width="100%">
             <Separator />
@@ -110,25 +129,16 @@ export default function CelebrationOfDayScreen() {
             >
               {t('explore.alsoToday', { defaultValue: 'Also today' })}
             </Typography>
-            {others.map((c) => {
-              const otherName = localizeContent(c.entry.name)
-              const otherDescription = localizeContent(c.entry.description)
-              return (
-                <YStack key={c.entry.id} gap="$xs">
-                  <Typography variant="sacred-title" fontSize={22} lineHeight={28}>
-                    {otherName}
-                  </Typography>
-                  <Typography variant="reference" textTransform="uppercase">
-                    {t(`calendar.rank.${c.rank}`)}
-                  </Typography>
-                  {otherDescription && (
-                    <Typography variant="whisper" fontSize="$3">
-                      {otherDescription}
-                    </Typography>
-                  )}
-                </YStack>
-              )
-            })}
+            {others.map((c) => (
+              <YStack key={c.entry.id} gap="$xs">
+                <Typography variant="sacred-title" fontSize={22} lineHeight={28}>
+                  {localizeContent(c.entry.name)}
+                </Typography>
+                <Typography variant="reference" textTransform="uppercase">
+                  {t(`calendar.rank.${c.rank}`)}
+                </Typography>
+              </YStack>
+            ))}
           </YStack>
         )}
       </YStack>

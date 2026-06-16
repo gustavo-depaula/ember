@@ -3,26 +3,36 @@
 How Ember decides *which celebration is today* and *which Mass is said*, for both
 the Ordinary Form (OF) and the Extraordinary Form (EF).
 
-## Two calendars, by purpose
+## One OF authority; EF stays curated
 
-There are deliberately **two** calendar reads. They answer different questions and
-must not be conflated.
+The Ordinary Form now has a **single** calendar authority driving both the Mass
+*and* the display surfaces (home celebration card, month grid, day detail). They
+can no longer disagree — the bug where the Sacred Heart showed in the Mass but
+not on the card (curated `entries.json` resolved it to Easter+61 instead of the
+canonical Easter+68) is gone.
 
-| | Display calendar | Propers calendar (OF Mass) |
+| | OF (Mass **and** display) | EF (display) |
 |---|---|---|
-| Question | "What feast is today, for the home card / month grid?" | "Exactly which Mass formulary is said today?" |
-| Entry point | `buildYearCalendar` (`@ember/liturgical`) | `resolveOfDay` (`@ember/liturgical`) |
-| Data | `content/liturgical/entries.json` (curated) | `content/liturgical/of-calendar.json` (generated) + computed temporal |
-| Carries | temporal feasts (Christmas, Easter…), **holy-day-of-obligation** flags, curated names | the sanctoral calendar with canonical ember-extra ids |
+| Entry point | `resolveOfDay` (`@ember/mass`) — per day; `buildOfYearCalendar` (`@ember/mass`) loops it across a year for the display | `buildYearCalendar` (`@ember/liturgical`) |
+| Data | `content/of/calendar/{temporal,sanctoral}.json` (canonical MR statics) + computed temporal cycle | `content/liturgical/entries.json` (EF half) |
+| Names | sanctoral titles from the statics; temporal names from the **Mass formulary** title (`useCelebrationDisplay`, with `getLiturgicalDayName` fallback) — `temporal-notability.ts` only decides *which* temporal days show | curated names in entries.json |
+| HDO | `of/calendar/hdo.ts` (the single OF Holy-Day-of-Obligation source) | `holyDayOfObligation` flags in entries.json |
+| Descriptions | the Mass **formulary** `description` ("Sobre esta celebração"), loaded on demand by the card/detail; absent → no description shown (never falls back to non-liturgical sources) | curated `description` in entries.json |
 
-The display calendar needs the **temporal feasts** and **HDO** flags that the
-upstream propers data doesn't carry, so it stays hand-curated. The propers
-calendar needs the exact Mass-proper id, so it's generated from the same source
-as the propers (ember-extra) and the temporal cycle is *computed*, not stored.
+`buildOfYearCalendar` emits the same `Map<string, DayCalendar>` shape as
+`buildYearCalendar` (each OF celebration is a `ResolvedCelebration` with a
+synthesized partial `LiturgicalEntry` whose `id` is the formulary/temporal ref),
+so every existing consumer (`getCelebrationsForDate`, `DayDetail`, the home card,
+obligations) works unchanged. Only **named** celebrations are surfaced — every
+sanctoral celebration plus the temporal solemnities/feasts of the Lord; ordinary
+Sundays and ferias are omitted (the season header conveys them), preserving the
+prior display semantics. The OF scope follows the **content language**
+(`scopeForContentLang`), exactly as the Mass does, so a pt-BR reader sees the
+Brazil sanctoral on both.
 
-> A propers-aligned calendar can't drive the home (it has no Christmas/Easter and
-> no HDO badges); a curated display calendar can't drive the Mass (its ids aren't
-> proper ids). Keep them separate.
+> The generated `content/liturgical/of-calendar.json` + `scripts/build-of-calendar.mjs`
+> (a `LiturgicalEntry[]` rebuild of the curated file) are **retired** — the display
+> reads the canonical statics directly via `resolveOfDay` now.
 
 ## OF day resolution — one precedence authority
 
@@ -139,8 +149,10 @@ without the index fall back to the category heuristic.) Rendered via `ProperSlot
 ## Holy days of obligation
 
 `obligations.ts` reads `principal.entry.holyDayOfObligation` from the display
-calendar. These flags live only in `entries.json` (ember-extra doesn't carry
-them), which is one reason the display calendar stays curated.
+calendar. For the **OF** these flags are set by `buildOfYearCalendar` from
+`of/calendar/hdo.ts` — the single canonical OF HDO source (the eleven universal
+Holy Days; jurisdiction-specific transfers are a later refinement). For the
+**EF** they still come from the curated `entries.json`.
 
 ## Staged / not yet done
 

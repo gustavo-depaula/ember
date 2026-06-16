@@ -57,15 +57,16 @@ rule of life.)
 
 - The liturgical day comes from `useToday()` (4am cutoff; honors time-travel) +
   `getLiturgicalSeason(today, form)` + `getCelebrationsForDate(calendar, today)`.
-- **Saint of the Day** = the day's `principal` celebration (`useSaintOfDay`). Its art is
-  resolved by mapping the calendar `entry.id` (e.g. `st-therese-of-lisieux`) → a saint-art id
-  via `saintArtMap.ts`. Bio is a **stub** for now (label says so); real bios land later.
+- **Celebration of the Day** = the day's `principal` celebration (`useSaintOfDay`). It renders
+  typographic-on-tone (no holy-card art); the dedicated **Saint of the Day** card below it carries
+  the day's Pictorial Lives portrait. (The old `saintArtMap` curated-holy-card bridge was removed —
+  it only fired on ~12 feasts and duplicated the saint card's image.)
 - **For this Season / Featured Reading / collection rows** come from `pickFeatured(season,
   date)`, which extends the existing `seasonalSpotlight.pickSpotlight`.
 
 ## Imagery & fallback rules
 
-- Art is an **app-side map** (`artMap` / `saintArtMap`) from a content id → a
+- Art is an **app-side map** (`artMap`) from a content id → a
   `hearthAssetUrl('saints/…' | 'art/…')` path, so blocks render without a manifest fetch.
   Public-domain (PD-Art) paintings are sourced into `content/saints/` + `content/art/`.
 - When no art is mapped, a block/card falls back to a **solid liturgical-color background**
@@ -79,8 +80,7 @@ rule of life.)
 ## Key files
 
 - `apps/app/src/features/explore/` — `AlmanacMasthead`, `FeaturedCarousel`, `FeatureBlock`,
-  `ArtCarousel`, `ArtCoverCard`, `useSaintOfDay`, `pickFeatured`, `saintArtMap`, `artMap`,
-  `bgColor`.
+  `ArtCarousel`, `ArtCoverCard`, `useSaintOfDay`, `pickFeatured`, `artMap`, `bgColor`.
 - `apps/app/src/app/(tabs)/(today,explore,library,you)/explore.tsx` — composes the above.
 - Reuses: `Typography` (Ladder of Reverence), `ScreenLayout`, `useToday`, `@/lib/liturgical`,
   `getEntriesByKind`/`getEntry`/`getCollectionItems`, `useResolvedImageUri`, `hearthAssetUrl`,

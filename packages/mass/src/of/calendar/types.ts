@@ -21,6 +21,8 @@ export interface OfCelebration {
 export interface OfDay {
   date: Date
   season: Season | undefined
+  /** The day's named temporal day (`christmas`, `ascension`, …), when it has one. */
+  specialDay: string | undefined
   /** Sunday lectionary cycle for the liturgical year. */
   cycle: 'A' | 'B' | 'C'
   /** Weekday (ferial) lectionary cycle. */
