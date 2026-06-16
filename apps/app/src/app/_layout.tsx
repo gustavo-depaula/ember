@@ -42,6 +42,7 @@ import { flags } from '@/config/flags'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import { maybeRunCacheEviction } from '@/content/cacheMaintenance'
+import { registerEscrivaCatalog, warmEscrivaBooks } from '@/content/escrivaCatalog'
 import {
   hasCachedCatalog,
   loadCatalogFromHearth,
@@ -190,6 +191,10 @@ export default function RootLayout() {
         await loadCatalogFromHearth({ networkFirst: false }).catch((err) => {
           console.warn('[startup] catalog fetch failed; proceeding with cached catalog:', err)
         })
+        // Escrivá's works are external (escriva.org, never in Hearth); register
+        // their catalog entries + collection on top of the Hearth catalog so the
+        // tiles appear immediately. Survives the background catalog refresh.
+        registerEscrivaCatalog()
         mark('catalog loaded')
 
         setBootStatus(i18n.t('boot.preparingContent'))
@@ -204,6 +209,9 @@ export default function RootLayout() {
         mark('critical manifests warmed')
         warmDeferredManifests().catch((err) => {
           console.warn('[startup] warm deferred manifests failed:', err)
+        })
+        warmEscrivaBooks().catch((err) => {
+          console.warn('[startup] warm Escrivá books failed:', err)
         })
 
         setBootStatus(i18n.t('boot.almostReady'))

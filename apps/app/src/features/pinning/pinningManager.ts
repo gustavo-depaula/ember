@@ -90,7 +90,11 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
     const b = body as BookEntry
     if (b.style) add(b.style)
     if (b.chapters) {
-      for (const langs of Object.values(b.chapters)) Object.values(langs).forEach(add)
+      // External-book chapters (Escrivá) carry no blob hash — their bodies are
+      // fetched + cached on demand from the producer, never pinned as blobs.
+      for (const langs of Object.values(b.chapters)) {
+        for (const ref of Object.values(langs)) if (!('type' in ref)) add(ref)
+      }
     }
     b.images?.forEach(add)
     return []

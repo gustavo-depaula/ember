@@ -453,7 +453,12 @@ export async function loadBookChapterText(
   const { item } = residentItem<BookEntry>(bookId, 'book')
   if (!item) return undefined
   const ref = item.chapters[chapterId]?.[lang]
-  if (!ref || 'type' in ref) return undefined
+  if (!ref) return undefined
+  // External books (Escrivá) resolve their already-HTML body via the producer.
+  if ('type' in ref) {
+    const { loadEscrivaChapterHtml } = await import('./escrivaCatalog')
+    return loadEscrivaChapterHtml(item.id, chapterId, lang, ref.url)
+  }
   const text = await getText(ref.hash)
   const imageRefs = buildImageRefMap(item.images)
   return imageRefs ? rewriteMarkdownImagePaths(text, imageRefs) : text
