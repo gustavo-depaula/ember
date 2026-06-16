@@ -52,6 +52,7 @@ describe('mapItemsToPrimitives', () => {
     expect(out).toEqual([
       {
         type: 'text',
+        markup: 'do',
         text: { primary: 'One line only.', secondary: 'Linea una.\nLinea altera.' },
       },
     ])
@@ -61,7 +62,7 @@ describe('mapItemsToPrimitives', () => {
     const out = mapItemsToPrimitives(['#Canon', 'Te ígitur, clementíssime Pater.'])
     expect(out).toEqual([
       { type: 'heading', text: { primary: 'Canon' }, size: 'h1' },
-      { type: 'text', text: { primary: 'Te ígitur, clementíssime Pater.' } },
+      { type: 'text', markup: 'do', text: { primary: 'Te ígitur, clementíssime Pater.' } },
     ])
   })
 })

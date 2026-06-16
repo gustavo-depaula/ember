@@ -97,6 +97,9 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
     if (textBuffer.length === 0) return
     out.push({
       type: 'text',
+      // DO body text carries inline markup (verse numbers, mediant/pointing
+      // marks, small caps); the DO inline renderer styles it.
+      markup: 'do',
       text: {
         primary: textBuffer.map((t) => t.primary).join('\n'),
         ...(textBuffer.some((t) => t.secondary !== undefined)

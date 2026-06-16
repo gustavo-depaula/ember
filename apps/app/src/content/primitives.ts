@@ -21,6 +21,10 @@ export type TextPrimitive = {
   text: BilingualText
   voice?: 'priest' | 'people' | 'all'
   style?: 'normal' | 'italic'
+  // 'do' routes the text through the Divinum Officium inline renderer, which
+  // styles verse numbers, mediant/pointing marks and small caps. Default
+  // (undefined) uses the standard markdown inline renderer.
+  markup?: 'do'
 }
 
 export type HeadingPrimitive = {
