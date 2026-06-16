@@ -1,15 +1,8 @@
-import { readFileSync } from 'node:fs'
-import { resolve } from 'node:path'
-import { addDays } from 'date-fns'
+import { addDays, format } from 'date-fns'
 import { describe, expect, it } from 'vitest'
-import { buildYearCalendar } from './calendar-builder'
-import type { LiturgicalEntry } from './calendar-types'
+import type { DayCalendar, RankEF, RankOF, ResolvedCelebration } from './calendar-types'
 import { getDayObligations } from './obligations'
 import { computeEaster } from './season'
-
-const entries: LiturgicalEntry[] = JSON.parse(
-  readFileSync(resolve(__dirname, '../../../content/liturgical/entries.json'), 'utf8'),
-)
 
 // Use 2026 for all tests. Easter 2026 = April 5.
 const year = 2026
@@ -17,13 +10,38 @@ const easter = computeEaster(year)
 const ashWednesday = addDays(easter, -46) // Feb 18, 2026
 const goodFriday = addDays(easter, -2) // April 3, 2026
 
-function cal(form: 'of' | 'ef', jurisdiction?: string) {
-  return buildYearCalendar({ year, form, entries, jurisdiction })
+// `getDayObligations` only reads `principal.entry.holyDayOfObligation` and
+// `principal.rank` from the calendar (everything else — Lent, ember days,
+// vigils, Easter octave — is computed from the date), so a minimal fixture
+// covers it. Christmas 2026 falls on a Friday, exercising the solemnity +
+// holy-day exemptions.
+function cal(
+  form: 'of' | 'ef',
+  days: Array<{ date: Date; rank: RankOF | RankEF; holyDay?: boolean }> = [],
+): Map<string, DayCalendar> {
+  const map = new Map<string, DayCalendar>()
+  for (const { date, rank, holyDay } of days) {
+    const principal: ResolvedCelebration = {
+      entry: {
+        id: 'x',
+        name: {},
+        category: 'other',
+        description: {},
+        holyDayOfObligation: holyDay,
+      },
+      date,
+      rank,
+      form,
+    }
+    map.set(format(date, 'yyyy-MM-dd'), { date, celebrations: [principal], principal })
+  }
+  return map
 }
 
-const ofUS = cal('of', 'US')
-const ofBR = cal('of', 'BR')
-const ofUniversal = cal('of')
+const christmas = new Date(2026, 11, 25)
+const ofUS = cal('of', [{ date: christmas, rank: 'solemnity', holyDay: true }])
+const ofBR = cal('of', [{ date: christmas, rank: 'solemnity', holyDay: true }])
+const ofUniversal = cal('of', [{ date: christmas, rank: 'solemnity', holyDay: true }])
 const efCal = cal('ef')
 
 describe('getDayObligations', () => {
