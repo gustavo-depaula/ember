@@ -86,7 +86,14 @@ export function ChoiceRichTextBlock({
           {opt.introduction.primary}
         </PrayerText>
       )}
-      {precedingResponse && <PrayerText>{precedingResponse.primary}</PrayerText>}
+      {precedingResponse && (
+        <XStack gap={4} alignItems="baseline">
+          <ResponseMark value="℟" width={18} />
+          <PrayerText flex={1} fontWeight="600">
+            {precedingResponse.primary}
+          </PrayerText>
+        </XStack>
+      )}
       <RichTextBody body={opt.body} />
       {opt.conclusion && (
         <PrayerText color="$colorBurgundy" fontStyle="italic">
