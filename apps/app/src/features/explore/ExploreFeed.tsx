@@ -4,6 +4,7 @@ import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
 import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
+import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
@@ -25,6 +26,7 @@ import { FeaturedCarousel } from './FeaturedCarousel'
 import { FeatureTile } from './FeatureTile'
 import { FromOpusDei } from './FromOpusDei'
 import { FromRome } from './FromRome'
+import { useMeditationSubtitle } from './meditationSubtitle'
 import { collectionRow, pickFeatured, practiceRow, weekdayDevotion } from './pickFeatured'
 import { useSaintOfDay } from './useSaintOfDay'
 
@@ -82,10 +84,6 @@ export function ExploreFeed() {
   const bookHref = (id: string): Href => ({
     pathname: '/browse/book/[bookId]',
     params: { bookId: bareId(id) },
-  })
-  const prayHref = (id: string): Href => ({
-    pathname: '/pray/[practiceId]',
-    params: { practiceId: bareId(id) },
   })
   const goBook = (id: string) => router.push(bookHref(id))
   const goCollection = (id: string) => {
@@ -194,14 +192,7 @@ export function ExploreFeed() {
       {meditations.length > 0 && (
         <ArtCarousel title={t('explore.dailyMeditations')}>
           {meditations.map(([id, entry, subtitleKey]) => (
-            <FeatureTile
-              key={id}
-              title={localizeContent(entry.name ?? {})}
-              subtitle={t(subtitleKey)}
-              image={artFor(id)}
-              tone={toneForKey(id)}
-              href={prayHref(id)}
-            />
+            <MeditationTile key={id} id={id} entry={entry} subtitleKey={subtitleKey} />
           ))}
         </ArtCarousel>
       )}
@@ -266,5 +257,33 @@ export function ExploreFeed() {
 
       <FromOpusDei />
     </>
+  )
+}
+
+/**
+ * One Daily Meditations card. Lazily resolves today's meditation title/theme
+ * (Alphonsus/Divine Intimacy chapter heading, the Opus Dei title, the Patristic
+ * reading's source) and shows it as the subtitle, falling back to the card's
+ * fixed tagline while loading or on web/error.
+ */
+function MeditationTile({
+  id,
+  entry,
+  subtitleKey,
+}: {
+  id: string
+  entry: CatalogEntry
+  subtitleKey: string
+}) {
+  const { t } = useTranslation()
+  const dynamicSubtitle = useMeditationSubtitle(id)
+  return (
+    <FeatureTile
+      title={localizeContent(entry.name ?? {})}
+      subtitle={dynamicSubtitle ?? t(subtitleKey)}
+      image={artFor(id)}
+      tone={toneForKey(id)}
+      href={{ pathname: '/pray/[practiceId]', params: { practiceId: bareId(id) } }}
+    />
   )
 }
