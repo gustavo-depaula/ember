@@ -4,6 +4,7 @@ import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
 import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
+import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
@@ -22,10 +23,11 @@ import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
 import { evangelistArtFor } from './evangelistArt'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
+import { FeatureTile } from './FeatureTile'
 import { FromOpusDei } from './FromOpusDei'
 import { FromRome } from './FromRome'
-import { collectionRow, pickFeatured, weekdayDevotion } from './pickFeatured'
-import { useOpusDeiMeditation } from './useOpusDeiMeditation'
+import { useMeditationSubtitle } from './meditationSubtitle'
+import { collectionRow, pickFeatured, practiceRow, weekdayDevotion } from './pickFeatured'
 import { useSaintOfDay } from './useSaintOfDay'
 
 const dayMs = 86_400_000
@@ -48,7 +50,6 @@ export function ExploreFeed() {
   const saint = useSaintOfDay()
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
   const { data: gospel } = useGospelOfTheDay()
-  const meditation = useOpusDeiMeditation()
   const featured = pickFeatured(season, today)
   const dayIndex = Math.floor(today.getTime() / dayMs)
 
@@ -73,6 +74,11 @@ export function ExploreFeed() {
   const traditions = useMemo(
     () => collectionRow(featured.traditionRow),
     [catalogVersion, featured.traditionRow],
+  )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const meditations = useMemo(
+    () => practiceRow(featured.meditationRow),
+    [catalogVersion, featured.meditationRow],
   )
 
   const bookHref = (id: string): Href => ({
@@ -104,19 +110,6 @@ export function ExploreFeed() {
         }),
     })
   }
-
-  blocks.push({
-    key: 'meditation',
-    label: t('explore.meditationOfDay'),
-    title: meditation?.title ?? t('explore.meditationOfDay'),
-    subtitle: meditation?.lead ?? t('explore.meditationTagline'),
-    tone: toneForKey('opus-dei-meditation'),
-    onPress: () =>
-      router.push({
-        pathname: '/pray/[practiceId]',
-        params: { practiceId: 'opus-dei-meditation' },
-      }),
-  })
 
   if (saint) {
     blocks.push({
@@ -196,6 +189,14 @@ export function ExploreFeed() {
     <>
       <FeaturedCarousel blocks={blocks} />
 
+      {meditations.length > 0 && (
+        <ArtCarousel title={t('explore.dailyMeditations')}>
+          {meditations.map(([id, entry, subtitleKey]) => (
+            <MeditationTile key={id} id={id} entry={entry} subtitleKey={subtitleKey} />
+          ))}
+        </ArtCarousel>
+      )}
+
       {books.length > 0 && (
         <ArtCarousel title={t('explore.theLibrary')}>
           {books.slice(0, 18).map(([id, entry]) => (
@@ -256,5 +257,33 @@ export function ExploreFeed() {
 
       <FromOpusDei />
     </>
+  )
+}
+
+/**
+ * One Daily Meditations card. Lazily resolves today's meditation title/theme
+ * (Alphonsus/Divine Intimacy chapter heading, the Opus Dei title, the Patristic
+ * reading's source) and shows it as the subtitle, falling back to the card's
+ * fixed tagline while loading or on web/error.
+ */
+function MeditationTile({
+  id,
+  entry,
+  subtitleKey,
+}: {
+  id: string
+  entry: CatalogEntry
+  subtitleKey: string
+}) {
+  const { t } = useTranslation()
+  const dynamicSubtitle = useMeditationSubtitle(id)
+  return (
+    <FeatureTile
+      title={localizeContent(entry.name ?? {})}
+      subtitle={dynamicSubtitle ?? t(subtitleKey)}
+      image={artFor(id)}
+      tone={toneForKey(id)}
+      href={{ pathname: '/pray/[practiceId]', params: { practiceId: bareId(id) } }}
+    />
   )
 }

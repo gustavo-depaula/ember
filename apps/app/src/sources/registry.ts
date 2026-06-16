@@ -3,7 +3,7 @@ import { cccChapterSource } from './ccc-chapter'
 import { cccCompendiumSource } from './ccc-compendium'
 import { doHourSource } from './divinum-officium/do-hour'
 import { doMassSource } from './divinum-officium/do-mass'
-import { breviarySource } from './ibreviary'
+import { breviarySource, officeOfReadingsReadingSource } from './ibreviary'
 import { ofMassFlowSource } from './of-mass-flow'
 import { opusDeiGospelCommentarySource, opusDeiMeditationSource } from './opus-dei'
 import { psalmodySource } from './psalmody'
@@ -36,6 +36,9 @@ registerSource(ofMassFlowSource as ContentSource)
 registerSource(doMassSource as ContentSource)
 registerSource(doHourSource as ContentSource)
 registerSource(breviarySource as ContentSource)
+// Today's patristic / second reading lifted out of the iBreviary Office of
+// Readings — its own daily-meditation practice (practice/patristic-reading).
+registerSource(officeOfReadingsReadingSource as ContentSource)
 // Opus Dei daily Gospel commentary (a tab in the Gospel of the Day practice) and
 // the daily meditation (its own practice). Scraped from opusdei.org, native-only.
 registerSource(opusDeiGospelCommentarySource as ContentSource)
