@@ -195,6 +195,20 @@ These are well-known prayers that don't need an external source — just bundle 
 
 ---
 
+## Opus Dei (Daily Gospel Commentary & Meditation)
+
+opusdei.org publishes a daily Gospel reflection and a daily meditation per language, plus a "recent articles" Atom feed. These are scraped at runtime by the producers in `apps/app/src/sources/opus-dei/` and surfaced in three places:
+
+| Surface | Source page | Producer / module |
+|---------|-------------|-------------------|
+| "Reflection" tab in `practice/gospel-of-the-day` | `opusdei.org/{en-us\|pt-br}/gospel/YYYY-MM-DD/` | `producer/opus-dei-gospel-commentary` |
+| `practice/opus-dei-meditation` (its own practice) | `opusdei.org/{en-us\|pt-br}/meditation/YYYY-MM-DD/` | `producer/opus-dei-meditation` |
+| "From Opus Dei" row on Explore | `opusdei.org/{en-us\|pt-br}/lastarticles.xml` | `features/explore/opusDeiContent.ts` + `FromOpusDei.tsx` |
+
+- **Parsing.** The article pages scrape `<div class="imperavi-body">` with `htmlparser2` (shared DOM helpers in `sources/dom.ts`). The Gospel page divides scripture from reflection with a `<hr>` / a `Commentary`/`Comentário` label paragraph — we keep **only the reflection** (the scripture already lives in the practice's Gospel tab). Footnote-definition paragraphs (`<p><a id="_ftnN">…`) are dropped. The Atom feed is parsed with `fast-xml-parser`; it carries **no images**, so card art is resolved in a second step from each article page's `og:image`.
+- **Native-only, with web link-out.** The pages and feed are CORS-blocked, so the live fetch runs on iOS/Android only. On web (and on any fetch/parse failure) the producers return a graceful link-out to opusdei.org and the Explore row collapses to a single "Read on opusdei.org" link. `dateScoped: true` keys the producer cache per day.
+- **Parser regression test.** `sources/opus-dei/parse.test.ts` runs the real (trimmed) page markup in `__fixtures__/` through the parsers — guards against site markup drift, mashed spacing, and footnote leakage.
+
 ## Attribution Requirements
 
 The app should include an attribution/credits screen listing:
@@ -205,4 +219,5 @@ The app should include an attribution/credits screen listing:
 4. "Liturgical texts from Divinum Officium (MIT License)."
 5. "Traditional Mass propers parsed from Divinum Officium (MIT License)."
 6. "Liturgical calendar data from Catholic Readings API (MIT License)."
-7. Links to the GitHub repositories used.
+7. "Daily Gospel commentary and meditations courtesy of Opus Dei (opusdei.org)."
+8. Links to the GitHub repositories used.

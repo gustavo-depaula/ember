@@ -1222,6 +1222,8 @@ export default {
       fri: 'The Sacred Heart',
       sat: 'Our Lady',
     },
+    meditationOfDay: 'Meditation of the Day',
+    meditationTagline: 'A daily meditation from Opus Dei.',
     fromRome: 'From Rome',
     rome: {
       videos: 'Videos',
@@ -1229,6 +1231,11 @@ export default {
       holySee: 'The Holy See',
       media: 'Vatican Media',
       more: 'More from Vatican News',
+    },
+    fromOpusDei: 'From Opus Dei',
+    opusDei: {
+      more: 'More from Opus Dei',
+      readOn: 'Read on opusdei.org',
     },
     season: {
       advent: 'Advent',

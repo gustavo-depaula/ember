@@ -22,8 +22,10 @@ import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
 import { evangelistArtFor } from './evangelistArt'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
+import { FromOpusDei } from './FromOpusDei'
 import { FromRome } from './FromRome'
 import { collectionRow, pickFeatured, weekdayDevotion } from './pickFeatured'
+import { useOpusDeiMeditation } from './useOpusDeiMeditation'
 import { useSaintOfDay } from './useSaintOfDay'
 
 const dayMs = 86_400_000
@@ -46,6 +48,7 @@ export function ExploreFeed() {
   const saint = useSaintOfDay()
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
   const { data: gospel } = useGospelOfTheDay()
+  const meditation = useOpusDeiMeditation()
   const featured = pickFeatured(season, today)
   const dayIndex = Math.floor(today.getTime() / dayMs)
 
@@ -101,6 +104,19 @@ export function ExploreFeed() {
         }),
     })
   }
+
+  blocks.push({
+    key: 'meditation',
+    label: t('explore.meditationOfDay'),
+    title: meditation?.title ?? t('explore.meditationOfDay'),
+    subtitle: meditation?.lead ?? t('explore.meditationTagline'),
+    tone: toneForKey('opus-dei-meditation'),
+    onPress: () =>
+      router.push({
+        pathname: '/pray/[practiceId]',
+        params: { practiceId: 'opus-dei-meditation' },
+      }),
+  })
 
   if (saint) {
     blocks.push({
@@ -237,6 +253,8 @@ export function ExploreFeed() {
       )}
 
       <FromRome />
+
+      <FromOpusDei />
     </>
   )
 }

@@ -5,6 +5,7 @@ import { doHourSource } from './divinum-officium/do-hour'
 import { doMassSource } from './divinum-officium/do-mass'
 import { breviarySource } from './ibreviary'
 import { ofMassFlowSource } from './of-mass-flow'
+import { opusDeiGospelCommentarySource, opusDeiMeditationSource } from './opus-dei'
 import { psalmodySource } from './psalmody'
 import type { ContentSource } from './types'
 import { gospelOfTheDaySource, wordOfThePopeSource } from './vatican-news'
@@ -35,3 +36,7 @@ registerSource(ofMassFlowSource as ContentSource)
 registerSource(doMassSource as ContentSource)
 registerSource(doHourSource as ContentSource)
 registerSource(breviarySource as ContentSource)
+// Opus Dei daily Gospel commentary (a tab in the Gospel of the Day practice) and
+// the daily meditation (its own practice). Scraped from opusdei.org, native-only.
+registerSource(opusDeiGospelCommentarySource as ContentSource)
+registerSource(opusDeiMeditationSource as ContentSource)
