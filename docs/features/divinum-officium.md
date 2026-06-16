@@ -97,6 +97,19 @@ Contracts: `assembleHour(hora, date, version, lang, loader)`, `assembleMass(date
 - **Sources** (`apps/app/src/sources/divinum-officium/`): `loader.ts` (corpus-backed DoLoader + per-file lang fallback), `do-hour.ts` (`producer/do-hour`, `dateScoped`, params `{hour}`), `do-mass.ts` (`producer/do-mass` — emits the complete resolved Mass: ordinary + propers inline + Full/Propers/Readings view select). DoBlock → existing primitives only; no new renderer blocks. This removes the deferred `proper`-slot seam (`ProperSlot`, `useProperForSlot`).
 - **Practices:** one `practice/breviary` whose `flow.json` is a top-level hour `select` (auto-dispatched to the current hour via a clock `map`) with a ninth **Votive Office** tab; that tab holds a `pickerStyle: 'cards'` votive picker (no default), each card carrying its own hour picker that calls `producer/do-hour` with `{hour, votive}`. `practice/mass` EF branch becomes `{"type":"include","ref":"producer/do-mass"}`.
 
+## Rendering — inline DO markup
+
+The engine deliberately does **not** flatten DO's inline markup; it ships in the assembled text and the app interprets it at render time (the same split as markdown elsewhere — content carries the markup, the renderer styles it). The markers, all left intact by `cleanItemMarkers`:
+
+| Marker | Meaning | Style |
+|---|---|---|
+| `/:X:/` | small rubric-toned inline — psalm verse numbers (`24:1`), Ps 118 Hebrew-letter headings (`(He)`), inline directions (`(genuflectitur)`). DO renders `<FONT SIZE=1 COLOR=red>`. | `$colorBurgundy`, ~0.72× body size |
+| `*` | the mediant pause bisecting every psalm verse | `$colorSecondary` |
+| `†` `‡` | flexa / genuflection-cross pointing marks | `$colorBurgundy` |
+| `%…%` | small caps (divine names) | uppercase + tracking |
+
+`TextPrimitive` carries `markup?: 'do'`; the DO→primitive mapper (`blocks.ts`) sets it on the text it emits, and `PrayerLines` routes those lines through `DoInline.tsx` (`parseDoInline` → styled runs) instead of the markdown inline renderer. **All inline typography lives in one `runStyle` table in `DoInline.tsx`** — the single place to tune it. Scoped to `text` primitives for now (psalms/body); `rubric`/`heading`/`verses` can opt in with the same flag when they carry markup.
+
 ## Teardown (at Mass cutover)
 
 Deleted: `packages/mass/src/buildEFFlow.ts` + `packages/mass/src/ef/*`, EF branch of `apps/app/src/sources/mass-flow.ts`, `apps/app/src/lib/mass-propers/*`, `ProperSlot.tsx` + `proper` primitive handling (after grep for OF stragglers), `ef-*` fragments (after side-by-side parity review — they are the quality baseline), `apps/app/scripts/parse-do-propers.ts`, `scripts/build-ef-ranks.mjs`, `content/propers/`, the `propers` aux entry in `copy-hearth-aux.mjs` and the deploy workflow, the `parse-propers` root script.

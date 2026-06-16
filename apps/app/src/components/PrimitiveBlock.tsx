@@ -59,6 +59,7 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
         <PrayerTextBlock
           text={primitive.text}
           fontStyle={primitive.style === 'italic' ? 'italic' : undefined}
+          markup={primitive.markup}
         />
       )
 
