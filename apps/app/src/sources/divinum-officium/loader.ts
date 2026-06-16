@@ -3,10 +3,10 @@
 // indexes and fetches the per-file blobs. Dataset manifests are loaded once
 // and remembered; file blobs ride the content-addressed blob cache.
 
-import { type DoLoader, memoizedLoader, type ParsedDoFile } from '@ember/divinum-officium'
+import { type DoLoader, memoizedLoader, parseDoFile } from '@ember/divinum-officium'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { DoDataItemManifest } from '@/content/manifestTypes'
-import { getJson } from '@/content/store'
+import { getText } from '@/content/store'
 
 const horasDatasets: Record<string, string> = {
   Tempora: 'horas-tempora',
@@ -67,7 +67,7 @@ async function datasetIndex(dataset: string): Promise<DoDataItemManifest | undef
 
 export function createCorpusDoLoader(): DoLoader {
   return memoizedLoader({
-    async load(path): Promise<ParsedDoFile | undefined> {
+    async load(path) {
       const ref = refFor(path)
       if (!ref) return undefined
       const index = await datasetIndex(ref.dataset)
@@ -78,7 +78,9 @@ export function createCorpusDoLoader(): DoLoader {
         ? (fileEntry as Record<string, { hash: string }>)[ref.lang ?? '']
         : (fileEntry as { hash: string })
       if (!blobRef) return undefined
-      return getJson<ParsedDoFile>(blobRef.hash)
+      // Blobs are the raw upstream `.txt`; parse to the engine's structured
+      // form on read (the engine intentionally ships its files unflattened).
+      return parseDoFile(path, await getText(blobRef.hash))
     },
     async exists(path) {
       return (await this.load(path)) !== undefined

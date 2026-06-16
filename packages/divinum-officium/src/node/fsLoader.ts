@@ -4,17 +4,19 @@
 import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { type DoLoader, memoizedLoader } from '../loader'
-import type { ParsedDoFile } from '../types'
+import { parseDoFile } from '../parser/sectioned'
 
+// content/do mirrors the upstream files verbatim as `.txt`; parse on read,
+// exactly as the corpus loader does in the app.
 export function createFsLoader(contentDoRoot: string): DoLoader {
   return memoizedLoader({
     async load(path) {
-      const file = join(contentDoRoot, `${path}.json`)
+      const file = join(contentDoRoot, `${path}.txt`)
       if (!existsSync(file)) return undefined
-      return JSON.parse(readFileSync(file, 'utf8')) as ParsedDoFile
+      return parseDoFile(path, readFileSync(file, 'utf8'))
     },
     async exists(path) {
-      return existsSync(join(contentDoRoot, `${path}.json`))
+      return existsSync(join(contentDoRoot, `${path}.txt`))
     },
   })
 }

@@ -35,6 +35,7 @@ export {
 export { officestring } from './kalendar/officestring'
 export { type DayResolution, resolveDay } from './kalendar/precedence'
 export { createKalendarState, type KalendarState, num, subdirname } from './kalendar/state'
+export { buildDoYear, type DoCalendarDay, type DoYearOptions } from './kalendar/year'
 export { type DoLoader, memoizedLoader } from './loader'
 export { type AssembledMass, assembleMass } from './mass/assemble'
 export {
@@ -47,6 +48,8 @@ export {
 export { type DoLineToken, tokenizeLine } from './parser/lines'
 export {
   type DoSection,
+  isPlainPath,
+  parseDoFile,
   parseSectionedFile,
   type SectionedDoFile,
   splitDoLines,

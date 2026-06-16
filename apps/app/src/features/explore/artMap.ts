@@ -69,6 +69,12 @@ const artFiles: Record<string, string> = {
   'practice/thursday-eucharist': 'dies-thursday.jpg',
   'practice/friday-passion': 'dies-friday.jpg',
   'practice/saturday-mary': 'dies-saturday.jpg',
+
+  // Daily Meditations row — dedicated paintings (see scripts/fetch-explore-art.mjs).
+  'practice/meditacoes-ligorio': 'meditation-alphonsus.jpg',
+  'practice/intimita-divina': 'meditation-intimita.jpg',
+  'practice/opus-dei-meditation': 'meditation-opus-dei.jpg',
+  'practice/patristic-reading': 'meditation-patristic.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches

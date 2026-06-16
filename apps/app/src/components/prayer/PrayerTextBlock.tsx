@@ -7,14 +7,16 @@ import { BilingualBlock } from './BilingualBlock'
 export function PrayerTextBlock({
   text,
   fontStyle,
+  markup,
 }: {
   text: BilingualText
   fontStyle?: ComponentProps<typeof Text>['fontStyle']
+  markup?: 'do'
 }) {
   return (
     <BilingualBlock
       content={text}
-      renderText={(t) => <PrayerLines text={t} fontStyle={fontStyle} />}
+      renderText={(t) => <PrayerLines text={t} fontStyle={fontStyle} markup={markup} />}
     />
   )
 }

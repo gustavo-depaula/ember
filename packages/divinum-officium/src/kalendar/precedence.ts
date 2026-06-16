@@ -8,7 +8,7 @@ import type { DoLoader } from '../loader'
 import { createSession, type Sections } from '../references/resolve'
 import { concurrence } from './concurrence'
 import { dayOfWeek, getweek } from './date'
-import { createDirectorium } from './directorium'
+import { createDirectorium, type Directorium } from './directorium'
 import { emberday, occurrence } from './occurrence'
 import { officestring } from './officestring'
 import { createKalendarState, type KalendarState, num, subdirname } from './state'
@@ -57,6 +57,12 @@ export async function resolveDay(opts: {
   missa?: boolean
   caller?: number
   votive?: string
+  // Reuse a directorium across many resolutions (e.g. a whole year) instead of
+  // rebuilding the transfer/version tables on every call.
+  directorium?: Directorium
+  // Calendar mode: resolve precedence only (winner, rank, names, commemorations)
+  // and skip the officestring text assembly. Section trees come back empty.
+  sections?: boolean
 }): Promise<DayResolution> {
   const hora = opts.hora ?? 'Laudes'
   const lang1 = opts.lang1 ?? 'Latin'
@@ -81,7 +87,7 @@ export async function resolveDay(opts: {
     area: missa ? 'missa' : 'horas',
     lang: 'Latin',
   })
-  const directorium = await createDirectorium(opts.loader)
+  const directorium = opts.directorium ?? (await createDirectorium(opts.loader))
   const state = createKalendarState({ ctx, session, directorium, caller: opts.caller ?? 0 })
 
   state.C10 += /Adv/i.test(ctx.dayname[0])
@@ -111,6 +117,15 @@ export async function resolveDay(opts: {
   }
   state.rule = ''
   state.communerule = ''
+
+  // Calendar mode stops here: occurrence/concurrence have already fixed the
+  // winner, rank, day names, and commemorations — everything the display
+  // calendar needs — so skip the (expensive) officestring text assembly below.
+  if (opts.sections === false) {
+    ctx.winner = state.winner
+    ctx.winnerRule = state.rule
+    return toResolution(state, ctx)
+  }
 
   if (state.winner) {
     const flag = /tempora/i.test(state.winner) && state.vespera === 1
@@ -367,6 +382,10 @@ export async function resolveDay(opts: {
         : 1
   }
 
+  return toResolution(state, ctx)
+}
+
+function toResolution(state: KalendarState, ctx: RubricContext): DayResolution {
   return {
     winner: state.winner,
     rank: state.rank,

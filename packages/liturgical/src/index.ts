@@ -20,15 +20,12 @@ export {
   type OfSeason,
 } from './of-position'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
-export { buildYearCalendar, getCelebrationsForDate } from './calendar-builder'
+export { getCelebrationsForDate } from './calendar-builder'
 // Calendar
 export type {
-  CalendarOptions,
   DayCalendar,
-  DayOfWeek,
   LiturgicalAnchor,
   LiturgicalCategory,
-  LiturgicalDate,
   LiturgicalEntry,
   LocalizedText,
   RankEF,
@@ -37,10 +34,9 @@ export type {
 } from './calendar-types'
 export { type AbstinenceLevel, type DayObligations, getDayObligations } from './obligations'
 export { ofTemporeIds } from './of-tempore'
-export { applySundaySuppression, compareRank, sortByPrecedence } from './precedence'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'
 export { rankColors } from './rank-colors'
-export { computeAnchors, resolveDate } from './resolve-date'
+export { computeAnchors } from './resolve-date'
 export {
   computeEaster,
   dateBefore,

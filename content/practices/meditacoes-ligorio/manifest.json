@@ -1,8 +1,8 @@
 {
   "id": "meditacoes-ligorio",
   "name": {
-    "pt-BR": "Meditações de Ligório",
-    "en-US": "Liguori's Daily Meditations"
+    "pt-BR": "Meditações de Santo Afonso",
+    "en-US": "St Alphonsus' Daily Meditations"
   },
   "categories": ["daily", "meditation"],
   "estimatedMinutes": 15,

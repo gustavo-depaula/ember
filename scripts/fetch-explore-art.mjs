@@ -134,6 +134,12 @@ const targets = [
   { id: 'evangelist/john-1', slug: 'evangelist-john-1', q: 'Domenichino Saint John Evangelist eagle' },
   { id: 'evangelist/john-2', slug: 'evangelist-john-2', q: 'Hieronymus Bosch Saint John Evangelist Patmos Berlin' },
   { id: 'evangelist/john-3', slug: 'evangelist-john-3', q: 'Velázquez Saint John Evangelist Patmos' },
+
+  // NOTE: The Daily Meditations row (/explore) cards — meditation-alphonsus.jpg,
+  // meditation-intimita.jpg, meditation-patristic.jpg, meditation-opus-dei.jpg —
+  // are AI-generated devotional paintings, not PD-sourced. They are managed by
+  // hand (see content/art/CREDITS.md for the generation prompts) and deliberately
+  // kept out of this target list so a re-run never overwrites them.
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'

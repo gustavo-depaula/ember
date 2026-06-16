@@ -1,0 +1,37 @@
+{
+  "id": "patristic-reading",
+  "icon": "book",
+  "name": {
+    "en-US": "Patristic Reading",
+    "pt-BR": "Leitura Patrística",
+    "la": "Lectio Patristica"
+  },
+  "categories": ["daily", "meditation"],
+  "estimatedMinutes": 10,
+  "description": {
+    "en-US": "Today's second reading from the Office of Readings of the Liturgy of the Hours — a passage from the Church Fathers, councils, popes, or saints. Texts provided by iBreviary.",
+    "pt-BR": "A segunda leitura de hoje do Ofício das Leituras da Liturgia das Horas — uma passagem dos Padres da Igreja, concílios, papas ou santos. Textos fornecidos pelo iBreviary."
+  },
+  "history": {
+    "en-US": "The Office of Readings (Officium Lectionis) of the Liturgy of the Hours pairs a longer scriptural reading with a second, non-scriptural reading drawn from the Fathers and writers of the Church, the documents of councils and popes, or the lives and works of the saints. This reading carries the living voice of Tradition into daily prayer.",
+    "pt-BR": "O Ofício das Leituras (Officium Lectionis) da Liturgia das Horas une uma leitura bíblica mais longa a uma segunda leitura, não bíblica, tirada dos Padres e escritores da Igreja, dos documentos dos concílios e dos papas, ou da vida e das obras dos santos. Esta leitura traz a voz viva da Tradição para a oração diária."
+  },
+  "howToPray": {
+    "en-US": "Read slowly, as the Fathers wrote — to be prayed, not merely studied. Pause where a line strikes you and turn it back to God in your own words.",
+    "pt-BR": "Leia devagar, como escreveram os Padres — para ser rezado, não apenas estudado. Detenha-se onde uma frase o tocar e devolva-a a Deus com as suas próprias palavras."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": ["meditation", "daily", "patristic", "office-of-readings", "liturgy-of-the-hours"],
+  "defaults": {
+    "sortOrder": 50,
+    "slots": [
+      {
+        "schedule": { "type": "daily" },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

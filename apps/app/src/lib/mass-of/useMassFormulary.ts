@@ -6,7 +6,7 @@ import { loadMassFormulary } from './loaders'
  * The day's Mass formulary, the canonical source of a celebration's title and
  * "about this celebration" description. Keyed by the celebration's id (which is
  * its formulary ref). Returns undefined while warming or for non-OF refs (e.g.
- * EF celebrations, which carry their own title/description from `entries.json`).
+ * EF celebrations, which carry their title from the Divinum Officium engine).
  */
 export function useMassFormulary(ref: string | undefined) {
   return useQuery<MassFormulary | undefined>({
