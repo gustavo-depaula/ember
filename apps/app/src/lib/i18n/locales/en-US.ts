@@ -1996,7 +1996,7 @@ export default {
   },
   massTimes: {
     title: 'Mass Times',
-    cardTitle: 'Churches &\nMass Times',
+    cardTitle: 'Churches\n& Mass Times',
     exploreTagline: 'Find Mass & confession near you',
     near: 'Near you',
     nearDefault: 'Near São Paulo',

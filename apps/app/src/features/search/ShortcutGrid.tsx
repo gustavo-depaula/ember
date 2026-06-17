@@ -218,31 +218,43 @@ export function WideShortcutCard({
           <Rect width={width} height={height} fill={`url(#${gid})`} />
         </Svg>
 
-        <XStack flex={1} alignItems="center" padding="$lg" gap="$md">
-          {Icon && <Icon size={Math.round(height * 0.5)} color={blockInk} />}
-          <YStack flex={1} alignItems="flex-end" gap="$xs">
+        {/* Faded icon watermark, inset from the left edge (sits behind the right-aligned title). */}
+        {Icon && (
+          <XStack
+            position="absolute"
+            top={0}
+            bottom={0}
+            left={width * 0.13}
+            alignItems="center"
+            opacity={0.16}
+          >
+            <Icon size={Math.round(height * 0.62)} color={blockInk} />
+          </XStack>
+        )}
+
+        <YStack flex={1} justifyContent="center" alignItems="flex-end" paddingHorizontal="$lg">
+          <Text
+            fontFamily="$title"
+            color={blockInk}
+            fontSize={Math.round(height * 0.26)}
+            lineHeight={Math.round(height * 0.32)}
+            textAlign="right"
+          >
+            {title}
+          </Text>
+          {subtitle ? (
             <Text
-              fontFamily="$title"
+              fontFamily="$body"
               color={blockInk}
-              fontSize={Math.round(height * 0.2)}
-              lineHeight={Math.round(height * 0.21)}
+              opacity={0.85}
+              fontSize={Math.round(height * 0.105)}
               textAlign="right"
+              marginTop={2}
             >
-              {title}
+              {subtitle}
             </Text>
-            {subtitle ? (
-              <Text
-                fontFamily="$body"
-                color={blockInk}
-                opacity={0.85}
-                fontSize={Math.round(height * 0.1)}
-                textAlign="right"
-              >
-                {subtitle}
-              </Text>
-            ) : null}
-          </YStack>
-        </XStack>
+          ) : null}
+        </YStack>
       </YStack>
     </AnimatedPressable>
   )

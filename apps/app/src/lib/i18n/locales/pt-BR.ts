@@ -2004,7 +2004,7 @@ export default {
   },
   massTimes: {
     title: 'Horários de Missa',
-    cardTitle: 'Igrejas &\nHorários de Missa',
+    cardTitle: 'Igrejas\n& Horários de Missa',
     exploreTagline: 'Encontre missas e confissões perto de você',
     near: 'Perto de você',
     nearDefault: 'Perto de São Paulo',
