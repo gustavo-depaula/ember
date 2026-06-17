@@ -1,22 +1,30 @@
 import { AppleMaps, GoogleMaps } from 'expo-maps'
-import { useRouter } from 'expo-router'
 import { Platform } from 'react-native'
 import { useTheme } from 'tamagui'
+import type { NearbyChurch } from '@/lib/mass-times'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 
 // The actual native map. Kept in its own module and loaded lazily (see ChurchesMap) so importing the
 // Mass Times screen never pulls expo-maps' native view into the list path — only opening the map does.
-export default function NativeChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
-  const router = useRouter()
+// Marker taps bubble up via `onSelect` so the (non-native) bottom card lives in the wrapper.
+export default function NativeChurchesMap({
+  nearby,
+  onSelect,
+}: {
+  nearby: MassTimesNearby
+  onSelect: (church: NearbyChurch) => void
+}) {
   const theme = useTheme()
   const { location, churches } = nearby
+  const byId = new Map((churches ?? []).map((c) => [c.id, c]))
 
   const cameraPosition = {
     coordinates: { latitude: location.coords.lat, longitude: location.coords.lng },
     zoom: 12,
   }
-  const open = (id?: string) => {
-    if (id) router.push({ pathname: '/mass-times/[churchId]', params: { churchId: id } })
+  const select = (id?: string) => {
+    const church = id ? byId.get(id) : undefined
+    if (church) onSelect(church)
   }
   const markers = (churches ?? []).map((c) => ({
     id: c.id,
@@ -30,7 +38,9 @@ export default function NativeChurchesMap({ nearby }: { nearby: MassTimesNearby 
         style={{ flex: 1 }}
         cameraPosition={cameraPosition}
         markers={markers}
-        onMarkerClick={(m) => open(m.id)}
+        properties={{ isMyLocationEnabled: true }}
+        uiSettings={{ myLocationButtonEnabled: true }}
+        onMarkerClick={(m) => select(m.id)}
       />
     )
   }
@@ -44,7 +54,9 @@ export default function NativeChurchesMap({ nearby }: { nearby: MassTimesNearby 
         systemImage: 'cross.fill',
         tintColor: theme.accent?.val,
       }))}
-      onMarkerClick={(m) => open(m.id)}
+      properties={{ isMyLocationEnabled: true }}
+      uiSettings={{ myLocationButtonEnabled: true }}
+      onMarkerClick={(m) => select(m.id)}
     />
   )
 }
