@@ -60,6 +60,7 @@ import { reconcileAllEnforcement } from '@/features/custody/enforcement'
 import { setupCustodyNotifications } from '@/features/custody/notifications'
 import { drainShieldEvents } from '@/features/custody/shieldEvents'
 import { syncCommitmentSnapshots } from '@/features/custody/syncSnapshots'
+import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { useExpirySweep } from '@/features/movements'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
@@ -153,6 +154,7 @@ export default function RootLayout() {
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
   const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
   const hydrateFavorites = useFavoritesStore((s) => s.hydrate)
+  const hydrateCheckIns = useCheckInsStore((s) => s.hydrate)
 
   useEffect(() => {
     if (!dbReady) return
@@ -160,7 +162,8 @@ export default function RootLayout() {
     hydrateBible()
     hydrateCatechism()
     hydrateFavorites()
-  }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism, hydrateFavorites])
+    hydrateCheckIns()
+  }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism, hydrateFavorites, hydrateCheckIns])
 
   const [seeded, setSeeded] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)

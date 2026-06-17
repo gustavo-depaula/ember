@@ -5,6 +5,7 @@ import { Skeleton, Typography } from '@/components'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 import { ChurchListItem } from './ChurchListItem'
 import { LocationBar } from './LocationBar'
+import { MassLogCard } from './MassLogCard'
 import { QueryError } from './QueryError'
 import { SavedChurches } from './SavedChurches'
 
@@ -25,6 +26,7 @@ export function MassTimesList({ nearby }: { nearby: MassTimesNearby }) {
         renderItem={({ item }) => <ChurchListItem church={item} locale={i18n.language} />}
         ListHeaderComponent={
           <YStack gap="$sm">
+            <MassLogCard />
             <SavedChurches />
             {data.length > 0 ? (
               <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>

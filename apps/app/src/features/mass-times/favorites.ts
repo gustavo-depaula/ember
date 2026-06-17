@@ -1,7 +1,7 @@
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 import { useShallow } from 'zustand/react/shallow'
-import { getPreference, setPreference } from '@/db/repositories/preferences'
+import { loadJson, saveJson } from './persisted'
 
 // Saved churches (a home parish, places you visit). Persisted as one JSON blob in the generic
 // preferences KV store — no schema/migration. We keep a light snapshot per church (not just the id)
@@ -33,30 +33,18 @@ export const useFavoritesStore = create<FavoritesState>()(
         if (state.favorites[church.id]) delete state.favorites[church.id]
         else state.favorites[church.id] = church
       })
-      void persist(get().favorites)
+      void saveJson(storageKey, get().favorites)
     },
 
     hydrate: async () => {
-      const raw = await getPreference(storageKey)
+      const stored = await loadJson<Record<string, FavoriteChurch>>(storageKey, {})
       set((state) => {
-        if (raw) {
-          try {
-            state.favorites = JSON.parse(raw) as Record<string, FavoriteChurch>
-          } catch (err) {
-            console.warn('[mass-times] could not parse saved churches', err)
-          }
-        }
+        state.favorites = stored
         state.hydrated = true
       })
     },
   })),
 )
-
-function persist(favorites: Record<string, FavoriteChurch>) {
-  return setPreference(storageKey, JSON.stringify(favorites)).catch((err) =>
-    console.warn('[mass-times] could not save churches', err),
-  )
-}
 
 export function useIsFavorite(id: string): boolean {
   return useFavoritesStore((s) => Boolean(s.favorites[id]))

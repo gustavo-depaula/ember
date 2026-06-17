@@ -7,6 +7,7 @@ import { Card, Skeleton, Typography } from '@/components'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
 import { expandUpcoming, useChurch, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatTimeOfDay, kindLabel, serviceKindOrder } from '../format'
+import { CheckInButton } from './CheckInButton'
 import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
 import { OutlineChip } from './OutlineChip'
@@ -48,6 +49,8 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
       </YStack>
 
       <ContactActions church={data} />
+
+      <CheckInButton church={{ id: data.id, name: data.name }} locale={locale} />
 
       {serviceKindOrder.map((kind) => (
         <ScheduleSection key={kind} kind={kind} church={data} now={now} locale={locale} />

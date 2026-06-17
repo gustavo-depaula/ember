@@ -2031,6 +2031,13 @@ export default {
     submit: 'Submit',
     cancel: 'Cancel',
     correctionThanks: 'Thank you — we’ll review your suggestion.',
+    checkIn: 'I attended Mass here',
+    attendanceCount_one: 'Attended once',
+    attendanceCount_other: 'Attended {{count}} times',
+    lastAttended: 'last on {{date}}',
+    massLog: 'Mass log',
+    logEmpty: 'No Masses logged yet.',
+    logEmptyHint: 'Check in from a church to start your log.',
     mapWeb: 'The map is available in the Ember app.',
     mapUnavailable: 'Map unavailable. Showing the list instead.',
     kind: {

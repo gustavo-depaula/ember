@@ -2039,6 +2039,13 @@ export default {
     submit: 'Enviar',
     cancel: 'Cancelar',
     correctionThanks: 'Obrigado — vamos analisar sua sugestão.',
+    checkIn: 'Participei da Missa aqui',
+    attendanceCount_one: 'Você participou 1 vez',
+    attendanceCount_other: 'Você participou {{count}} vezes',
+    lastAttended: 'última em {{date}}',
+    massLog: 'Registro de Missas',
+    logEmpty: 'Nenhuma Missa registrada ainda.',
+    logEmptyHint: 'Faça check-in em uma igreja para começar seu registro.',
     mapWeb: 'O mapa está disponível no aplicativo Ember.',
     mapUnavailable: 'Mapa indisponível. Mostrando a lista.',
     kind: {
