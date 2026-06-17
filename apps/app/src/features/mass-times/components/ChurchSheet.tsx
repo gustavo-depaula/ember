@@ -21,6 +21,7 @@ import { ChurchDetail } from './ChurchDetail'
 import { ChurchesMap } from './ChurchesMap'
 import { ChurchListItem } from './ChurchListItem'
 import type { ChurchRowData } from './ChurchSearchRow'
+import { useGlassTile } from './glass'
 import { LocationBar } from './LocationBar'
 import { SavedChurches } from './SavedChurches'
 
@@ -109,6 +110,7 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const tile = useGlassTile()
   return (
     <View style={styles.fill}>
       <XStack paddingHorizontal="$md" paddingTop="$xs" paddingBottom="$sm">
@@ -119,7 +121,7 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
           accessibilityLabel={t('massTimes.back')}
         >
           <XStack
-            backgroundColor="$backgroundSurface"
+            backgroundColor={tile}
             borderRadius={18}
             height={36}
             paddingHorizontal="$sm"
@@ -163,6 +165,7 @@ function BrowseContent({
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const tile = useGlassTile()
   const churches = nearby.churches ?? []
 
   return (
@@ -177,6 +180,7 @@ function BrowseContent({
           locale={locale}
           kind={nearby.kind}
           onSelect={onSelectNearby}
+          onGlass
         />
       )}
       ItemSeparatorComponent={() => <YStack height="$sm" />}
@@ -188,7 +192,7 @@ function BrowseContent({
             <AnimatedPressable style={styles.fill} onPress={onSearch} accessibilityRole="search">
               <XStack
                 flex={1}
-                backgroundColor="$backgroundSurface"
+                backgroundColor={tile}
                 borderRadius="$lg"
                 paddingHorizontal="$md"
                 paddingVertical="$sm"
@@ -205,7 +209,7 @@ function BrowseContent({
               accessibilityLabel={t('massTimes.filters')}
             >
               <YStack
-                backgroundColor="$backgroundSurface"
+                backgroundColor={tile}
                 borderRadius="$lg"
                 alignItems="center"
                 justifyContent="center"
@@ -222,7 +226,7 @@ function BrowseContent({
 
           <LocationBar location={nearby.location} />
           <NextMassNearby churches={churches} locale={locale} />
-          <SavedChurches onSelect={onSelectSaved} />
+          <SavedChurches onSelect={onSelectSaved} onGlass />
           {churches.length > 0 ? (
             <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>
           ) : null}
@@ -250,6 +254,7 @@ function BrowseContent({
 function NextMassNearby({ churches, locale }: { churches: NearbyChurch[]; locale: string }) {
   const { t } = useTranslation()
   const theme = useTheme()
+  const tile = useGlassTile()
 
   const soonest = useMemo(() => {
     let best: { church: NearbyChurch; instant: Date; date: Date; startTime: string } | undefined
@@ -273,7 +278,7 @@ function NextMassNearby({ churches, locale }: { churches: NearbyChurch[]; locale
 
   return (
     <XStack
-      backgroundColor="$backgroundSurface"
+      backgroundColor={tile}
       borderRadius="$lg"
       borderLeftWidth={3}
       borderLeftColor="$accent"

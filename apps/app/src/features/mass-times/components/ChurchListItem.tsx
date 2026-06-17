@@ -13,11 +13,13 @@ export function ChurchListItem({
   locale,
   kind = 'mass',
   onSelect,
+  onGlass,
 }: {
   church: NearbyChurch
   locale: string
   kind?: ServiceKind
   onSelect?: (church: NearbyChurch) => void
+  onGlass?: boolean
 }) {
   const { t } = useTranslation()
   const now = wallClockNow(church.timezone)
@@ -30,6 +32,7 @@ export function ChurchListItem({
   return (
     <ChurchRow
       name={church.name}
+      onGlass={onGlass}
       onPress={onSelect ? () => onSelect(church) : undefined}
       href={
         onSelect

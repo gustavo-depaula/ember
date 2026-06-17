@@ -15,15 +15,18 @@ export type ChurchRowData = {
 export function ChurchSearchRow({
   church,
   onSelect,
+  onGlass,
 }: {
   church: ChurchRowData
   onSelect?: (church: ChurchRowData) => void
+  onGlass?: boolean
 }) {
   const where = [church.address, church.city, church.region].filter(Boolean).join(' · ')
 
   return (
     <ChurchRow
       name={church.name}
+      onGlass={onGlass}
       onPress={onSelect ? () => onSelect(church) : undefined}
       href={
         onSelect

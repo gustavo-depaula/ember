@@ -4,22 +4,27 @@ import { ChevronRight, Church } from 'lucide-react-native'
 import type { ReactNode } from 'react'
 import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
+import { useGlassTile } from './glass'
 
 // The shared church row — the polished list cell for the nearby/saved lists and search results. A
 // quiet warm surface, rounded $lg, gold mark, manuscript name, caller detail lines, trailing chevron.
 // Pass `onPress` to select in place (the sheet's place mode) or `href` to navigate (the search page).
+// `onGlass` swaps the opaque surface for a translucent tile so it blends on the sheet's glass.
 export function ChurchRow({
   href,
   onPress,
   name,
+  onGlass,
   children,
 }: {
   href?: Href
   onPress?: () => void
   name: string
+  onGlass?: boolean
   children?: ReactNode
 }) {
   const theme = useTheme()
+  const tile = useGlassTile()
   const row = (
     <AnimatedPressable
       onPress={onPress}
@@ -27,7 +32,7 @@ export function ChurchRow({
       accessibilityLabel={name}
     >
       <XStack
-        backgroundColor="$backgroundSurface"
+        backgroundColor={onGlass ? tile : '$backgroundSurface'}
         borderRadius="$lg"
         padding="$md"
         gap="$md"
