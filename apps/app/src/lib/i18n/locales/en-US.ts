@@ -802,6 +802,9 @@ export default {
     readingProgress: 'Reading Progress',
     bibleTranslation: 'Bible Translation',
     change: 'Change',
+    view: 'View',
+    tour: 'What is Ember?',
+    tourDescription: 'A short tour of what Ember can do',
     markBooks: 'Mark Books as Already Read',
     updatePosition: 'Update your starting position',
     theme: 'Theme',
@@ -1458,6 +1461,7 @@ export default {
     show: 'Show',
     hide: 'Hide',
     skip: 'Skip',
+    continue: 'Continue',
     done: 'Done',
     notNow: 'Not now',
     justNow: 'just now',
@@ -1469,6 +1473,115 @@ export default {
   error: {
     somethingWrong: 'Something went wrong.',
     tryAgainLater: 'Please try again.',
+  },
+
+  onboarding: {
+    intro: {
+      getStarted: 'Get started',
+      slides: [
+        {
+          title: 'Welcome to Ember',
+          body: 'A companion for the Catholic life of prayer — walking with you, one day at a time.',
+        },
+        {
+          title: 'Build your rule of life',
+          body: 'Shape a daily plan of prayer and devotion, and watch your fidelity grow over time.',
+        },
+        {
+          title: 'Pray, beautifully',
+          body: 'Guided prayers and devotions — from a single Hail Mary to the whole of the Mass.',
+        },
+        {
+          title: 'The whole tradition',
+          body: 'Scripture, the Catechism, the saints, and spiritual classics — in English, Portuguese, and Latin, fully offline.',
+        },
+      ],
+    },
+    language: {
+      title: 'Your languages',
+      subtitle: 'You can change any of this later in Settings.',
+      interface: 'App language',
+      known: 'Languages you read',
+      knownHint: 'Pick every language you can read — prayers can show side by side.',
+    },
+    profiler: {
+      title: 'Where are you?',
+      subtitle: 'A few gentle questions so we can suggest a good starting point. Nothing is fixed.',
+      prayer: {
+        question: 'How is your prayer life right now?',
+        new: 'New to prayer',
+        some: 'I have some habits',
+        experienced: 'Well established',
+      },
+      formation: {
+        question: 'How familiar are you with the faith?',
+        new: 'Just beginning',
+        some: 'I know the basics',
+        formed: 'Well formed',
+      },
+      time: {
+        question: 'How much time can you give each day?',
+        short: 'A few minutes',
+        medium: '10–30 minutes',
+        long: '30 minutes or more',
+      },
+    },
+    plan: {
+      title: 'A starting plan',
+      subtitle:
+        'Inherit a living tradition as a set of practices. You can add, edit, or remove anything later.',
+      recommended: 'Suggested for you',
+      preview: 'Preview & add this plan',
+    },
+    formation: {
+      title: 'A reading to grow by',
+      subtitle:
+        'A formation reading to learn the faith. We suggest one — choose whichever fits you.',
+      recommended: 'Suggested for you',
+      tag: {
+        program: 'Daily plan',
+        book: 'Read at your pace',
+        reader: 'Catechism reader',
+      },
+      options: {
+        'catechetical-formation': {
+          name: 'My Catholic Faith',
+          desc: 'Bishop Morrow’s illustrated catechism — one short lesson a day.',
+        },
+        compendium: {
+          name: 'Compendium of the Catechism',
+          desc: 'The Catechism in question-and-answer form — a hundred days.',
+        },
+        ccc: {
+          name: 'Catechism of the Catholic Church',
+          desc: 'The full Catechism, to read and search at your own pace.',
+        },
+        'pius-x-catechism': {
+          name: 'Catechism of St. Pius X',
+          desc: 'The classic short Q&A catechism.',
+        },
+        'pius-x-greater-catechism': {
+          name: 'Greater Catechism of St. Pius X',
+          desc: 'A fuller catechetical course in the same tradition.',
+        },
+        'trent-catechism': {
+          name: 'Roman Catechism (Trent)',
+          desc: 'The Catechism of the Council of Trent — deep and systematic.',
+        },
+      },
+    },
+    notifications: {
+      title: 'Gentle reminders',
+      subtitle: 'Let Ember nudge you at the times in your plan. No streaks to chase, no guilt.',
+      enable: 'Enable reminders',
+      timesLabel: 'We’ll remind you around',
+      noTimes: 'Your plan has no set times yet — you can add reminders any time later.',
+    },
+    done: {
+      title: 'You’re ready',
+      body: 'Your plan is set. Come back each day — the Lord meets us in the small, faithful things.',
+      begin: 'Begin',
+    },
   },
 
   reminders: {

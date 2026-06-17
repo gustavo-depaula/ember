@@ -810,6 +810,9 @@ export default {
     readingProgress: 'Progresso de Leitura',
     bibleTranslation: 'Tradu\u00e7\u00e3o da B\u00edblia',
     change: 'Alterar',
+    view: 'Ver',
+    tour: 'O que \u00e9 o Ember?',
+    tourDescription: 'Um breve tour pelo que o Ember faz',
     markBooks: 'Marcar Livros como J\u00e1 Lidos',
     updatePosition: 'Atualize sua posi\u00e7\u00e3o inicial',
     theme: 'Tema',
@@ -1465,6 +1468,7 @@ export default {
     show: 'Mostrar',
     hide: 'Esconder',
     skip: 'Pular',
+    continue: 'Continuar',
     done: 'Concluir',
     notNow: 'Agora não',
     justNow: 'agora mesmo',
@@ -1476,6 +1480,117 @@ export default {
   error: {
     somethingWrong: 'Algo deu errado.',
     tryAgainLater: 'Por favor, tente novamente.',
+  },
+
+  onboarding: {
+    intro: {
+      getStarted: 'Começar',
+      slides: [
+        {
+          title: 'Bem-vindo ao Ember',
+          body: 'Um companheiro para a vida católica de oração — caminhando com você, um dia de cada vez.',
+        },
+        {
+          title: 'Construa seu plano de vida',
+          body: 'Monte um plano diário de oração e devoção, e veja sua fidelidade crescer com o tempo.',
+        },
+        {
+          title: 'Reze com beleza',
+          body: 'Orações e devoções guiadas — de uma simples Ave-Maria à Santa Missa inteira.',
+        },
+        {
+          title: 'Toda a tradição',
+          body: 'Escritura, Catecismo, os santos e os clássicos espirituais — em português, inglês e latim, totalmente offline.',
+        },
+      ],
+    },
+    language: {
+      title: 'Seus idiomas',
+      subtitle: 'Você pode mudar tudo isso depois nas Configurações.',
+      interface: 'Idioma do app',
+      known: 'Idiomas que você lê',
+      knownHint: 'Escolha todos os idiomas que você lê — as orações podem aparecer lado a lado.',
+    },
+    profiler: {
+      title: 'Onde você está?',
+      subtitle:
+        'Algumas perguntas simples para sugerirmos um bom ponto de partida. Nada é definitivo.',
+      prayer: {
+        question: 'Como está sua vida de oração hoje?',
+        new: 'Começando a rezar',
+        some: 'Tenho alguns hábitos',
+        experienced: 'Bem estabelecida',
+      },
+      formation: {
+        question: 'Quão familiarizado você é com a fé?',
+        new: 'Apenas começando',
+        some: 'Conheço o básico',
+        formed: 'Bem formado',
+      },
+      time: {
+        question: 'Quanto tempo pode dedicar por dia?',
+        short: 'Alguns minutos',
+        medium: '10–30 minutos',
+        long: '30 minutos ou mais',
+      },
+    },
+    plan: {
+      title: 'Um plano inicial',
+      subtitle:
+        'Herde uma tradição viva como um conjunto de práticas. Você pode adicionar, editar ou remover qualquer coisa depois.',
+      recommended: 'Sugerido para você',
+      preview: 'Visualizar e adicionar este plano',
+    },
+    formation: {
+      title: 'Uma leitura para crescer',
+      subtitle:
+        'Uma leitura de formação para aprender a fé. Sugerimos uma — escolha a que combina com você.',
+      recommended: 'Sugerido para você',
+      tag: {
+        program: 'Plano diário',
+        book: 'Leia no seu ritmo',
+        reader: 'Leitor do Catecismo',
+      },
+      options: {
+        'catechetical-formation': {
+          name: 'Minha Fé Católica',
+          desc: 'O catecismo ilustrado de Dom Morrow — uma lição curta por dia.',
+        },
+        compendium: {
+          name: 'Compêndio do Catecismo',
+          desc: 'O Catecismo em forma de perguntas e respostas — cem dias.',
+        },
+        ccc: {
+          name: 'Catecismo da Igreja Católica',
+          desc: 'O Catecismo completo, para ler e pesquisar no seu ritmo.',
+        },
+        'pius-x-catechism': {
+          name: 'Catecismo de São Pio X',
+          desc: 'O clássico catecismo curto de perguntas e respostas.',
+        },
+        'pius-x-greater-catechism': {
+          name: 'Catecismo Maior de São Pio X',
+          desc: 'Um curso catequético mais completo na mesma tradição.',
+        },
+        'trent-catechism': {
+          name: 'Catecismo Romano (Trento)',
+          desc: 'O Catecismo do Concílio de Trento — profundo e sistemático.',
+        },
+      },
+    },
+    notifications: {
+      title: 'Lembretes suaves',
+      subtitle:
+        'Deixe o Ember chamá-lo nos horários do seu plano. Sem sequências para perseguir, sem culpa.',
+      enable: 'Ativar lembretes',
+      timesLabel: 'Vamos lembrá-lo por volta de',
+      noTimes: 'Seu plano ainda não tem horários definidos — você pode adicionar lembretes depois.',
+    },
+    done: {
+      title: 'Tudo pronto',
+      body: 'Seu plano está montado. Volte cada dia — o Senhor nos encontra nas pequenas coisas fiéis.',
+      begin: 'Começar',
+    },
   },
 
   reminders: {
