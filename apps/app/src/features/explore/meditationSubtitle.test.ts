@@ -1,26 +1,34 @@
 import { describe, expect, it } from 'vitest'
 
-import { firstMarkdownHeading } from './meditationSubtitle'
+import type { TocNode } from '@/content/manifestTypes'
+import { findTocNode } from './meditationSubtitle'
 
-describe('firstMarkdownHeading', () => {
-  it('returns the first ATX heading, stripped of marks', () => {
-    expect(firstMarkdownHeading('# Da temeridade do pecador\n\nCorpo da meditação…')).toBe(
-      'Da temeridade do pecador',
-    )
+const toc: TocNode[] = [
+  { id: 'tomo-1', title: { 'pt-BR': 'Tomo I' } },
+  {
+    id: 'advento',
+    title: { 'pt-BR': 'Advento' },
+    children: [
+      {
+        id: 'temeridade',
+        title: { 'pt-BR': 'A temeridade do pecador', 'en-US': "The sinner's rashness" },
+      },
+      { id: 'encarnacao', title: { 'pt-BR': 'O decreto da Encarnação' } },
+    ],
+  },
+]
+
+describe('findTocNode', () => {
+  it('finds a top-level node by id', () => {
+    expect(findTocNode(toc, 'tomo-1')?.title['pt-BR']).toBe('Tomo I')
   })
 
-  it('handles deeper heading levels and trailing hashes', () => {
-    expect(firstMarkdownHeading('### Meditazione II — L’amore di Dio ###')).toBe(
-      'Meditazione II — L’amore di Dio',
-    )
+  it('finds a nested node by id', () => {
+    expect(findTocNode(toc, 'temeridade')?.title['en-US']).toBe("The sinner's rashness")
   })
 
-  it('skips leading blank lines and front matter prose', () => {
-    expect(firstMarkdownHeading('\n\nSome intro line\n# The Title\nbody')).toBe('The Title')
-  })
-
-  it('returns undefined when there is no heading', () => {
-    expect(firstMarkdownHeading('just a paragraph with a # in the middle')).toBeUndefined()
-    expect(firstMarkdownHeading('')).toBeUndefined()
+  it('returns undefined for an unknown id or empty toc', () => {
+    expect(findTocNode(toc, 'missing')).toBeUndefined()
+    expect(findTocNode(undefined, 'temeridade')).toBeUndefined()
   })
 })

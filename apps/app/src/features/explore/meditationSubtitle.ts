@@ -2,10 +2,12 @@ import { type LiturgicalDayMap, resolveLiturgicalDay } from '@ember/liturgical'
 import { useQuery } from '@tanstack/react-query'
 import { Platform } from 'react-native'
 
+import type { TocNode } from '@/content/manifestTypes'
 import type { Primitive } from '@/content/primitives'
-import { getBookEntry, loadBookChapterText, loadPracticeData } from '@/content/resolver'
+import { getBookEntry, loadPracticeData } from '@/content/resolver'
+import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useToday } from '@/hooks/useToday'
-import i18n from '@/lib/i18n'
+import i18n, { localizeContent } from '@/lib/i18n'
 import { hourSections, ibLangFor } from '@/sources/ibreviary/config'
 import { extractSecondReading } from '@/sources/ibreviary/office-of-readings-reading'
 import { parseHourPage } from '@/sources/ibreviary/parse'
@@ -20,11 +22,12 @@ const meditationBooks: Record<string, string> = {
   'practice/intimita-divina': 'gabriel-stmm-intimita-divina',
 }
 
-/** First ATX heading of a markdown body — the meditation/chapter title. */
-export function firstMarkdownHeading(md: string): string | undefined {
-  for (const raw of md.split('\n')) {
-    const m = /^#{1,6}\s+(.+?)\s*#*$/.exec(raw.trim())
-    if (m) return m[1].trim()
+/** Depth-first search for the TOC node with this chapter id. */
+export function findTocNode(nodes: TocNode[] | undefined, id: string): TocNode | undefined {
+  for (const node of nodes ?? []) {
+    if (node.id === id) return node
+    const found = findTocNode(node.children, id)
+    if (found) return found
   }
   return undefined
 }
@@ -38,13 +41,15 @@ function primitiveFirstLine(p: Primitive | undefined): string | undefined {
 }
 
 // Today's title for a book-backed meditation: resolve the practice's own
-// liturgical-map to today's chapter, then read that chapter's first heading.
-// Pure content-store reads, so it works on web too. The book's own languages
-// back up the app language (Divine Intimacy is Italian-only).
+// liturgical-map to today's chapter, then read that chapter's TOC title. The
+// TOC carries a clean per-chapter title in every published language (Liguori's
+// chapter bodies open on a scripture epigraph, not a heading, so parsing the
+// markdown would miss them). `localizeContent` picks the app language and falls
+// back to the book's own (Liguori is pt-BR-only). Pure resident-manifest reads,
+// so it works on web too.
 async function bookMeditationTitle(
   practiceId: string,
   bookId: string,
-  appLang: string,
   date: Date,
 ): Promise<string | undefined> {
   const map = (await loadPracticeData(practiceId))?.['liturgical-map'] as
@@ -53,12 +58,8 @@ async function bookMeditationTitle(
   if (!map) return undefined
   const [entry] = resolveLiturgicalDay(date, map)
   if (!entry) return undefined
-  for (const lang of [appLang, ...(getBookEntry(bookId)?.languages ?? [])]) {
-    const text = await loadBookChapterText(bookId, entry.id, lang)
-    const title = text ? firstMarkdownHeading(text) : undefined
-    if (title) return title
-  }
-  return undefined
+  const node = findTocNode(getBookEntry(bookId)?.toc, entry.id)
+  return node ? localizeContent(node.title) || undefined : undefined
 }
 
 // Today's Office of Readings second-reading source line ("From a treatise of
@@ -86,18 +87,23 @@ export async function resolveMeditationSubtitle(
   }
   if (id === 'practice/patristic-reading') return patristicSourceLine(appLang, date)
   const bookId = meditationBooks[id]
-  return bookId ? bookMeditationTitle(id, bookId, appLang, date) : undefined
+  return bookId ? bookMeditationTitle(id, bookId, date) : undefined
 }
 
 /** Lazily resolve a Daily Meditations card's subtitle to today's title/theme.
  *  Returns undefined until loaded (or on web/error) so callers show the fixed
- *  tagline meanwhile. Cached per day + language. */
+ *  tagline meanwhile. Cached per day + language. Keyed on `useCatalogVersion`
+ *  so it re-runs once the (deferred-warmed) book manifest becomes resident —
+ *  otherwise the first run loses the race to warming and the card is stuck on
+ *  its fixed tagline. Resolves to `null` (never `undefined`) so React Query
+ *  doesn't reject the "no subtitle" result. */
 export function useMeditationSubtitle(id: string): string | undefined {
   const today = useToday()
   const lang = i18n.language
+  const catalogVersion = useCatalogVersion()
   const { data } = useQuery({
-    queryKey: ['meditation-subtitle', id, lang, dateSlug(today)],
-    queryFn: () => resolveMeditationSubtitle(id, lang, today),
+    queryKey: ['meditation-subtitle', id, lang, dateSlug(today), catalogVersion],
+    queryFn: async () => (await resolveMeditationSubtitle(id, lang, today)) ?? null,
     staleTime: 6 * 60 * 60 * 1000,
     gcTime: 12 * 60 * 60 * 1000,
     retry: 1,
