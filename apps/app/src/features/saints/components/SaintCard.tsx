@@ -2,14 +2,14 @@ import { StyleSheet, useWindowDimensions } from 'react-native'
 import { GestureDetector } from 'react-native-gesture-handler'
 import Animated, { useAnimatedStyle } from 'react-native-reanimated'
 import { View } from 'tamagui'
-import type { Saint } from '../data/saints'
+import type { SaintEntry } from '../data/catalog'
 import { CardBack } from './CardBack'
 import { CardFront } from './CardFront'
 import { useCardGestures } from './useCardGestures'
 
 const maxCardWidth = 340
 
-export function SaintCard({ saint }: { saint: Saint }) {
+export function SaintCard({ saint }: { saint: SaintEntry }) {
   const { width: screenWidth } = useWindowDimensions()
   const cardWidth = Math.min(screenWidth - 48, maxCardWidth)
   const cardHeight = cardWidth * 1.5

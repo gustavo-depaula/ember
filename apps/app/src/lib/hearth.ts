@@ -3,7 +3,7 @@ import { clearCache, getCached, setCache } from '@/db/repositories/cache'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 const remoteUrl = 'https://ember.dpgu.me/hearth/v2'
-const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://10.99.99.1:4100'
+const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://10.99.99.4:4100'
 
 let useLocal = __DEV__
 let initialized = false
@@ -35,13 +35,12 @@ export function hearthUrl(path: string): string {
   return `${getBaseUrl()}/${path}`
 }
 
-// Static published assets (e.g. saint card images) live in the deployed
-// corpus's static tree, which the local dev hearth does not serve — only the
-// catalog and hash-addressed blobs are built locally. Always resolve these
-// against the remote so they load in dev too (mirrors fetchHearth's
-// local→remote fallback, which plain <Image> URIs can't do on their own).
+// Static published assets (e.g. saint card images) under the corpus's static
+// tree. Resolves against whichever hearth is active — the local dev server when
+// it's serving the full tree (so freshly-added assets show before a deploy),
+// otherwise the remote CDN (and always remote in production builds).
 export function hearthAssetUrl(path: string): string {
-  return `${remoteUrl}/${path}`
+  return hearthUrl(path)
 }
 
 export async function fetchHearth<T>(

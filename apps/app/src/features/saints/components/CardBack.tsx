@@ -1,30 +1,17 @@
 import { Image } from 'expo-image'
-import { useTranslation } from 'react-i18next'
 import { Text, View, YStack } from 'tamagui'
-import type { Saint } from '../data/saints'
-
-const frame = require('../../../../assets/textures/card_back_frame.webp')
-
-// The illuminated frame is a fixed cream-and-gold raster, so the back stays
-// light in both themes and the text uses hand-picked ink colors that read on
-// parchment rather than theme tokens.
-const ink = {
-  name: '#6E521F',
-  meta: '#8A6A3B',
-  prayer: '#43361F',
-}
+import type { SaintEntry } from '../data/catalog'
+import { cardFrame, cardInk as ink } from './cardFrame'
 
 export function CardBack({
   saint,
   cardWidth,
   cardHeight,
 }: {
-  saint: Saint
+  saint: SaintEntry
   cardWidth: number
   cardHeight: number
 }) {
-  const { t } = useTranslation()
-
   return (
     <View
       position="absolute"
@@ -35,7 +22,11 @@ export function CardBack({
       borderRadius="$lg"
       overflow="hidden"
     >
-      <Image source={frame} style={{ width: cardWidth, height: cardHeight }} contentFit="fill" />
+      <Image
+        source={cardFrame}
+        style={{ width: cardWidth, height: cardHeight }}
+        contentFit="fill"
+      />
 
       {/* Text sits within the frame's inner panel, distributed between the
           arch (cross) and the bottom flourish (invocation). */}
@@ -56,34 +47,40 @@ export function CardBack({
             balanced and longer ones fill the space naturally. */}
         <YStack alignItems="center" gap="$lg" width="100%">
           <YStack alignItems="center" gap="$xs">
-            <Text fontFamily="$body" fontSize="$2" color={ink.meta} textAlign="center">
-              {t(saint.feastDayKey)}
-            </Text>
+            {saint.feastLabel && (
+              <Text fontFamily="$body" fontSize="$2" color={ink.meta} textAlign="center">
+                {saint.feastLabel}
+              </Text>
+            )}
 
             <Text fontFamily="$heading" fontSize="$5" color={ink.name} textAlign="center">
-              {t(saint.nameKey)}
+              {saint.name}
             </Text>
           </YStack>
 
-          <Text
-            fontFamily="$body"
-            fontSize="$2"
-            color={ink.meta}
-            textAlign="center"
-            fontStyle="italic"
-          >
-            {t(saint.patronOfKey)}
-          </Text>
+          {saint.patronOf && (
+            <Text
+              fontFamily="$body"
+              fontSize="$2"
+              color={ink.meta}
+              textAlign="center"
+              fontStyle="italic"
+            >
+              {saint.patronOf}
+            </Text>
+          )}
 
-          <Text
-            fontFamily="$body"
-            fontSize="$3"
-            color={ink.prayer}
-            textAlign="center"
-            fontStyle="italic"
-          >
-            &ldquo;{t(saint.prayerExcerptKey)}&rdquo;
-          </Text>
+          {saint.prayerExcerpt && (
+            <Text
+              fontFamily="$body"
+              fontSize="$3"
+              color={ink.prayer}
+              textAlign="center"
+              fontStyle="italic"
+            >
+              &ldquo;{saint.prayerExcerpt}&rdquo;
+            </Text>
+          )}
         </YStack>
 
         <Text

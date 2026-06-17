@@ -10,11 +10,16 @@ export default function SaintsLayout() {
         contentStyle: { backgroundColor: theme.background.val },
       }}
     >
-      {/* Full-cover card viewer; fullScreenModal lets the grid card zoom-morph
-          in (Link.AppleZoom) and keeps swipe-down-to-dismiss. */}
+      {/* Card viewer; a transparentModal keeps the gallery wall rendered behind
+          so the viewer's Glass surfaces frost it (instead of dead black). The
+          grid card still zoom-morphs in (Link.AppleZoom). */}
       <Stack.Screen
         name="[index]"
-        options={{ presentation: 'fullScreenModal', gestureEnabled: true }}
+        options={{
+          presentation: 'transparentModal',
+          gestureEnabled: true,
+          contentStyle: { backgroundColor: 'transparent' },
+        }}
       />
     </Stack>
   )
