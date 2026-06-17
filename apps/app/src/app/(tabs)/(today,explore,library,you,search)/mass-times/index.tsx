@@ -6,7 +6,6 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, useThemeName, YStack } from 'tamagui'
 import { AnimatedPressable, GlassSurface } from '@/components'
 import {
-  ChurchesMap,
   ChurchSheet,
   countActiveFilters,
   emptyFilter,
@@ -15,9 +14,9 @@ import {
   useMassTimesNearby,
 } from '@/features/mass-times'
 
-// Mass Times: one map-backed "places" surface (Apple Maps style). The full-bleed map is the canvas;
-// a native iOS sheet rides on top of it (browse → tap a church → detail), the global tab bar steps
-// aside, and a floating glass back button is the only top chrome.
+// Mass Times: one map-backed "places" surface (Apple Maps style). ChurchSheet owns the whole thing —
+// a SwiftUI Host with the live map as background content and the native sheet riding on top — so the
+// map stays interactive behind the sheet. The screen adds only the floating back button + filter sheet.
 export default function MassTimesScreen() {
   const { t, i18n } = useTranslation()
   const router = useRouter()
@@ -39,22 +38,18 @@ export default function MassTimesScreen() {
 
   return (
     <YStack flex={1} backgroundColor="$background">
-      <ChurchesMap
-        nearby={nearby}
-        onSelectChurch={(church) =>
-          router.push({ pathname: '/mass-times/[churchId]', params: { churchId: church.id } })
-        }
-      />
-
       <ChurchSheet
         nearby={nearby}
         locale={i18n.language}
         filterCount={countActiveFilters(filter)}
+        onSelectChurch={(church) =>
+          router.push({ pathname: '/mass-times/[churchId]', params: { churchId: church.id } })
+        }
         onSearch={() => router.push('/mass-times/search')}
         onOpenFilters={() => setFiltersOpen(true)}
       />
 
-      {/* Floating back button — the only top chrome, rendered last so it stays above the sheet host. */}
+      {/* Floating back button — the only top chrome, over the map. */}
       <YStack position="absolute" top={insets.top + 8} left="$md">
         <AnimatedPressable
           onPress={() => router.back()}
