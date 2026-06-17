@@ -16,7 +16,7 @@ import {
   Sun,
 } from 'lucide-react-native'
 import type { ReactNode } from 'react'
-import { useMemo, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
 
@@ -46,6 +46,38 @@ export default function SearchScreen() {
   const catalogVersion = useCatalogVersion()
 
   const isSearching = query.trim().length > 0
+
+  // The native search bar must be configured ONCE, not on every keystroke.
+  // `query` state lives in this component, so each character re-renders it; if
+  // the screen options (and `onChangeText` closure) are recreated inline they
+  // re-commit the search bar, and on iOS 26 repeated reconfiguration makes the
+  // field abandon its integrated bottom-bar slot and jump to the nav bar (top).
+  // A stable callback + memoized options keep it pinned to the bottom.
+  const onSearchChange = useCallback(
+    (e: { nativeEvent: { text: string } }) => setQuery(e.nativeEvent.text),
+    [],
+  )
+  const screenOptions = useMemo(
+    () => ({
+      // The shared group hides headers by default; the search portfolio is the
+      // one screen that needs the native header to host the iOS 26 search bar
+      // that morphs out of the search tab.
+      headerShown: true,
+      headerTransparent: true,
+      headerTitle: '',
+      // Search's nav-bar context triggers iOS 26's automatic top scroll-edge
+      // effect — a soft gradient over the notch atop the flourish. Hide it.
+      scrollEdgeEffects: { top: 'hidden' as const },
+      headerSearchBarOptions: {
+        // Pin to the iOS 26 integrated placement so the field stays in the
+        // bottom Liquid Glass bar instead of `automatic` drifting it to the top.
+        placement: 'integrated' as const,
+        placeholder: t('nav.searchPlaceholder'),
+        onChangeText: onSearchChange,
+      },
+    }),
+    [t, onSearchChange],
+  )
 
   const prayTiles: ShortcutTileData[] = [
     {
@@ -131,23 +163,7 @@ export default function SearchScreen() {
 
   return (
     <>
-      <Stack.Screen
-        options={{
-          // The shared group hides headers by default; the search portfolio is
-          // the one screen that needs the native header to host the iOS 26
-          // search bar that morphs out of the search tab.
-          headerShown: true,
-          headerTransparent: true,
-          headerTitle: '',
-          // Search's nav-bar context triggers iOS 26's automatic top scroll-edge
-          // effect — a soft gradient over the notch atop the flourish. Hide it.
-          scrollEdgeEffects: { top: 'hidden' },
-          headerSearchBarOptions: {
-            placeholder: t('nav.searchPlaceholder'),
-            onChangeText: (e: { nativeEvent: { text: string } }) => setQuery(e.nativeEvent.text),
-          },
-        }}
-      />
+      <Stack.Screen options={screenOptions} />
       <ScreenLayout>
         {!isSearching && (
           <PageFlourish
