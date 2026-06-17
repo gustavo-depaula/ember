@@ -13,8 +13,8 @@ export { FavoriteButton } from './components/FavoriteButton'
 export { LocationBar } from './components/LocationBar'
 export { MassFilterSheet } from './components/MassFilterSheet'
 export { MassLog } from './components/MassLog'
+export { MassTimesHeader, type ViewMode } from './components/MassTimesHeader'
 export { MassTimesList } from './components/MassTimesList'
-export { type ViewMode, ViewToggle } from './components/ViewToggle'
 export {
   type FavoriteChurch,
   useFavoriteChurches,

@@ -33,14 +33,14 @@ export function ChurchRow({
         >
           <Church size={26} color={theme.accent?.val} />
           <YStack flex={1} gap={2}>
-            {/* Keep the title's natural line-height (no clipping); the negative margin pulls the
-                detail lines up under it so the gap reads tight, not doubled. */}
+            {/* Natural line-height (no clipping); long names wrap to a second line rather than
+                truncating, and the negative margin keeps the detail lines tight beneath. */}
             <Typography
               variant="sacred-title"
               textAlign="left"
-              fontSize="$5"
-              numberOfLines={1}
-              marginBottom={-8}
+              fontSize="$4"
+              numberOfLines={2}
+              marginBottom={-6}
             >
               {name}
             </Typography>
