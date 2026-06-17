@@ -167,9 +167,9 @@ function useBannerWidth(): number {
 }
 
 /**
- * A wide, two-card-spanning banner in the same jewel language as the grid — but laid out
- * horizontally (title + subtitle on the left, a large icon watermark behind). For a marquee feature
- * that earns its own line above the grid.
+ * A wide, two-card-spanning banner in the same jewel language as the grid — same height as a single
+ * tile, but laid out horizontally: an icon on the left, the title + subtitle right-aligned on the
+ * right. For a marquee feature that earns its own line above the grid.
  */
 export function WideShortcutCard({
   title,
@@ -187,7 +187,7 @@ export function WideShortcutCard({
   icon?: ComponentType<{ size?: number; color?: string }>
 }) {
   const width = useBannerWidth()
-  const height = Math.round(width * 0.34)
+  const height = Math.round(useTileSize() * tileAspect) // match the grid tiles' height
   const [top, bottom] = softStops(tone)
   const gid = `g-wide-${tone.from.slice(1)}`
 
@@ -202,7 +202,6 @@ export function WideShortcutCard({
         height={height}
         borderRadius={16}
         overflow="hidden"
-        justifyContent="center"
         backgroundColor={bottom}
         shadowColor="#000"
         shadowOffset={{ width: 0, height: 4 }}
@@ -219,28 +218,31 @@ export function WideShortcutCard({
           <Rect width={width} height={height} fill={`url(#${gid})`} />
         </Svg>
 
-        {Icon && (
-          <XStack position="absolute" right={-height * 0.1} bottom={-height * 0.1} opacity={0.16}>
-            <Icon size={Math.round(height * 1.05)} color={blockInk} />
-          </XStack>
-        )}
-
-        <YStack padding="$lg" gap="$xs">
-          <Text fontFamily="$title" color={blockInk} fontSize={Math.round(height * 0.26)}>
-            {title}
-          </Text>
-          {subtitle ? (
+        <XStack flex={1} alignItems="center" padding="$lg" gap="$md">
+          {Icon && <Icon size={Math.round(height * 0.5)} color={blockInk} />}
+          <YStack flex={1} alignItems="flex-end" gap="$xs">
             <Text
-              fontFamily="$body"
+              fontFamily="$title"
               color={blockInk}
-              opacity={0.85}
-              fontSize={Math.round(height * 0.13)}
-              maxWidth="78%"
+              fontSize={Math.round(height * 0.2)}
+              lineHeight={Math.round(height * 0.21)}
+              textAlign="right"
             >
-              {subtitle}
+              {title}
             </Text>
-          ) : null}
-        </YStack>
+            {subtitle ? (
+              <Text
+                fontFamily="$body"
+                color={blockInk}
+                opacity={0.85}
+                fontSize={Math.round(height * 0.1)}
+                textAlign="right"
+              >
+                {subtitle}
+              </Text>
+            ) : null}
+          </YStack>
+        </XStack>
       </YStack>
     </AnimatedPressable>
   )

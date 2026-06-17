@@ -165,7 +165,7 @@ export default function SearchScreen() {
           <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
             <PageHeader title={t('nav.searchPlaceholder')} />
             <WideShortcutCard
-              title={t('massTimes.title')}
+              title={t('massTimes.cardTitle')}
               subtitle={t('massTimes.exploreTagline')}
               icon={Church}
               tone={toneForKey('mass-times')}
