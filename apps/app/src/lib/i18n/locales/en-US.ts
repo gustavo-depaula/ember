@@ -2014,6 +2014,9 @@ export default {
     lastVerified: 'Verified {{date}}',
     list: 'List',
     map: 'Map',
+    searchPlaceholder: 'Search churches by name',
+    searchHint: 'Type a church name to search.',
+    noResults: 'No churches match that name.',
     mapWeb: 'The map is available in the Ember app.',
     mapUnavailable: 'Map unavailable. Showing the list instead.',
     kind: {

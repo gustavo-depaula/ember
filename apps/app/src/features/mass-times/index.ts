@@ -1,5 +1,7 @@
+export { BackHeader } from './components/BackHeader'
 export { ChurchDetail } from './components/ChurchDetail'
 export { ChurchesMap } from './components/ChurchesMap'
+export { ChurchSearch } from './components/ChurchSearch'
 export { MassTimesList } from './components/MassTimesList'
 export { type ViewMode, ViewToggle } from './components/ViewToggle'
 export { type DeviceLocation, useDeviceLocation } from './useDeviceLocation'

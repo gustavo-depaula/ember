@@ -71,6 +71,14 @@ export function verificationsForChurch(
     .offset(page.offset)
 }
 
+// User text → a safe FTS5 prefix query. Each alphanumeric token (Unicode-aware, so accented names
+// work) becomes a quoted prefix term, e.g. `Sagra Fam` → `"sagra"* "fam"*` — enabling search-as-you-
+// type while neutralizing FTS operator characters the user might type.
+export function toPrefixMatchQuery(raw: string): string {
+  const tokens = raw.match(/[\p{L}\p{N}]+/gu) ?? []
+  return tokens.map((token) => `"${token}"*`).join(' ')
+}
+
 // FTS5 name search → church ids in rank order; the caller hydrates full rows. The virtual table
 // isn't in the Drizzle schema, so this drops to raw `sql`.
 export async function churchIdsMatchingText(
@@ -78,11 +86,13 @@ export async function churchIdsMatchingText(
   q: string,
   page: { limit: number; offset: number },
 ): Promise<string[]> {
+  const match = toPrefixMatchQuery(q)
+  if (!match) return []
   const rows = await db.all<{ id: string }>(sql`
     SELECT c.id AS id
     FROM church c
     JOIN church_fts ON church_fts.rowid = c.rowid
-    WHERE church_fts MATCH ${q}
+    WHERE church_fts MATCH ${match}
     ORDER BY rank
     LIMIT ${page.limit} OFFSET ${page.offset}
   `)

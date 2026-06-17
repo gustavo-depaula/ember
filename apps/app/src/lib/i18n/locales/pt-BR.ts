@@ -2022,6 +2022,9 @@ export default {
     lastVerified: 'Verificado em {{date}}',
     list: 'Lista',
     map: 'Mapa',
+    searchPlaceholder: 'Buscar igrejas por nome',
+    searchHint: 'Digite o nome de uma igreja para buscar.',
+    noResults: 'Nenhuma igreja com esse nome.',
     mapWeb: 'O mapa está disponível no aplicativo Ember.',
     mapUnavailable: 'Mapa indisponível. Mostrando a lista.',
     kind: {
