@@ -6,21 +6,22 @@ import {
   presentationDetents,
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
-import { ChevronLeft, Church, Search, SlidersHorizontal } from 'lucide-react-native'
+import { ChevronLeft, Church, Search, SlidersHorizontal, X } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, ScrollView, StyleSheet, View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { useTheme, XStack, YStack } from 'tamagui'
+import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Skeleton, Typography } from '@/components'
 import type { NearbyChurch } from '@/lib/mass-times'
-import { nextService, wallClockNow } from '@/lib/mass-times'
+import { nextService, useChurchSearch, wallClockNow } from '@/lib/mass-times'
+import { useDebounced } from '@/lib/useDebounced'
 import { dayLabel, formatDistanceKm, formatTimeOfDay } from '../format'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 import { ChurchDetail } from './ChurchDetail'
 import { ChurchesMap } from './ChurchesMap'
 import { ChurchListItem } from './ChurchListItem'
-import type { ChurchRowData } from './ChurchSearchRow'
+import { type ChurchRowData, ChurchSearchRow } from './ChurchSearchRow'
 import { useGlassTile } from './glass'
 import { LocationBar } from './LocationBar'
 import { SavedChurches } from './SavedChurches'
@@ -41,17 +42,16 @@ export function ChurchSheet({
   nearby,
   locale,
   filterCount,
-  onSearch,
   onOpenFilters,
 }: {
   nearby: MassTimesNearby
   locale: string
   filterCount: number
-  onSearch: () => void
   onOpenFilters: () => void
 }) {
   const [selected, setSelected] = useState<Selected | undefined>(undefined)
   const [detent, setDetent] = useState<PresentationDetent>(PEEK)
+  const [query, setQuery] = useState('')
 
   const select = (church: Selected) => {
     setSelected(church)
@@ -87,14 +87,16 @@ export function ChurchSheet({
               {selected ? (
                 <ChurchDetailPane churchId={selected.id} onBack={() => setSelected(undefined)} />
               ) : (
-                <BrowseContent
+                <BrowseSearch
                   nearby={nearby}
                   locale={locale}
                   filterCount={filterCount}
-                  onSearch={onSearch}
+                  query={query}
+                  onQuery={setQuery}
+                  onFocusSearch={() => setDetent(FULL)}
                   onOpenFilters={onOpenFilters}
                   onSelectNearby={(c) => select({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
-                  onSelectSaved={(c) => select({ id: c.id, name: c.name })}
+                  onSelectRow={(c) => select({ id: c.id, name: c.name })}
                 />
               )}
             </View>
@@ -147,22 +149,28 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
   )
 }
 
-function BrowseContent({
+// Browse + inline search in one list (Apple Maps style): typing in the search field swaps the nearby
+// list for full-text results, in place — no separate page.
+function BrowseSearch({
   nearby,
   locale,
   filterCount,
-  onSearch,
+  query,
+  onQuery,
+  onFocusSearch,
   onOpenFilters,
   onSelectNearby,
-  onSelectSaved,
+  onSelectRow,
 }: {
   nearby: MassTimesNearby
   locale: string
   filterCount: number
-  onSearch: () => void
+  query: string
+  onQuery: (q: string) => void
+  onFocusSearch: () => void
   onOpenFilters: () => void
   onSelectNearby: (church: NearbyChurch) => void
-  onSelectSaved: (church: ChurchRowData) => void
+  onSelectRow: (church: ChurchRowData) => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -170,41 +178,73 @@ function BrowseContent({
   const tile = useGlassTile()
   const churches = nearby.churches ?? []
 
+  const debounced = useDebounced(query.trim(), 250)
+  const searching = debounced.length >= 2
+  const search = useChurchSearch(debounced)
+  const results = search.data ?? []
+
   return (
     <FlatList
       style={styles.fill}
       nestedScrollEnabled
-      data={churches}
+      keyboardShouldPersistTaps="handled"
+      keyboardDismissMode="on-drag"
+      data={searching ? results : churches}
       keyExtractor={(c) => c.id}
-      renderItem={({ item }) => (
-        <ChurchListItem
-          church={item}
-          locale={locale}
-          kind={nearby.kind}
-          onSelect={onSelectNearby}
-          onGlass
-        />
-      )}
+      renderItem={({ item }) =>
+        searching ? (
+          <ChurchSearchRow church={item as ChurchRowData} onSelect={onSelectRow} onGlass />
+        ) : (
+          <ChurchListItem
+            church={item as NearbyChurch}
+            locale={locale}
+            kind={nearby.kind}
+            onSelect={onSelectNearby}
+            onGlass
+          />
+        )
+      }
       ItemSeparatorComponent={() => <YStack height="$sm" />}
       contentContainerStyle={{ paddingHorizontal: 16, paddingBottom: insets.bottom + 32 }}
       showsVerticalScrollIndicator={false}
       ListHeaderComponent={
         <YStack gap="$md" paddingTop="$xs" paddingBottom="$md">
           <XStack gap="$sm" alignItems="center">
-            <AnimatedPressable style={styles.fill} onPress={onSearch} accessibilityRole="search">
-              <XStack
+            <XStack
+              flex={1}
+              backgroundColor={tile}
+              borderRadius="$lg"
+              paddingHorizontal="$md"
+              alignItems="center"
+              gap="$sm"
+            >
+              <Search size={18} color={theme.colorSecondary?.val} />
+              <Input
                 flex={1}
-                backgroundColor={tile}
-                borderRadius="$lg"
-                paddingHorizontal="$md"
-                paddingVertical="$sm"
-                alignItems="center"
-                gap="$sm"
-              >
-                <Search size={18} color={theme.colorSecondary?.val} />
-                <Typography variant="annotation">{t('massTimes.searchPlaceholder')}</Typography>
-              </XStack>
-            </AnimatedPressable>
+                value={query}
+                onChangeText={onQuery}
+                onFocus={onFocusSearch}
+                placeholder={t('massTimes.searchPlaceholder')}
+                placeholderTextColor="$colorSecondary"
+                backgroundColor="transparent"
+                borderWidth={0}
+                paddingHorizontal={0}
+                height={44}
+                color="$color"
+                fontFamily="$body"
+                returnKeyType="search"
+                accessibilityLabel={t('massTimes.searchPlaceholder')}
+              />
+              {query.length > 0 ? (
+                <AnimatedPressable
+                  onPress={() => onQuery('')}
+                  hitSlop={8}
+                  accessibilityRole="button"
+                >
+                  <X size={16} color={theme.colorSecondary?.val} />
+                </AnimatedPressable>
+              ) : null}
+            </XStack>
             <AnimatedPressable
               onPress={onOpenFilters}
               accessibilityRole="button"
@@ -226,16 +266,32 @@ function BrowseContent({
             </AnimatedPressable>
           </XStack>
 
-          <LocationBar location={nearby.location} />
-          <NextMassNearby churches={churches} locale={locale} />
-          <SavedChurches onSelect={onSelectSaved} onGlass />
-          {churches.length > 0 ? (
-            <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>
-          ) : null}
+          {searching ? null : (
+            <>
+              <LocationBar location={nearby.location} />
+              <NextMassNearby churches={churches} locale={locale} />
+              <SavedChurches onSelect={onSelectRow} onGlass />
+              {churches.length > 0 ? (
+                <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>
+              ) : null}
+            </>
+          )}
         </YStack>
       }
       ListEmptyComponent={
-        nearby.isLoading ? (
+        searching ? (
+          search.isLoading ? (
+            <YStack gap="$sm">
+              {[0, 1, 2].map((i) => (
+                <Skeleton key={i} height={72} borderRadius={12} />
+              ))}
+            </YStack>
+          ) : (
+            <YStack paddingTop="$md" alignItems="center">
+              <Typography variant="annotation">{t('massTimes.noResults')}</Typography>
+            </YStack>
+          )
+        ) : nearby.isLoading ? (
           <YStack gap="$sm">
             {[0, 1, 2].map((i) => (
               <Skeleton key={i} height={88} borderRadius={12} />

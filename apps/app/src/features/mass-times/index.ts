@@ -7,7 +7,6 @@ export {
 } from './checkins'
 export { BackHeader } from './components/BackHeader'
 export { ChurchDetail } from './components/ChurchDetail'
-export { ChurchSearch } from './components/ChurchSearch'
 export { ChurchSheet } from './components/ChurchSheet'
 export { MassFilterSheet } from './components/MassFilterSheet'
 export { MassLog } from './components/MassLog'

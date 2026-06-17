@@ -42,7 +42,6 @@ export default function MassTimesScreen() {
         nearby={nearby}
         locale={i18n.language}
         filterCount={countActiveFilters(filter)}
-        onSearch={() => router.push('/mass-times/search')}
         onOpenFilters={() => setFiltersOpen(true)}
       />
 
