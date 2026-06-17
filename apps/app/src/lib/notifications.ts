@@ -141,6 +141,49 @@ export async function cancelPracticeReminder(practiceId: string): Promise<void> 
   }
 }
 
+// ── Mass reminders ───────────────────────────────────────────────────────────
+// Recurring weekly reminders before a church's Masses. `weekday` is expo's 1=Sunday..7=Saturday.
+
+export type MassReminderSlot = { weekday: number; hour: number; minute: number }
+
+export async function scheduleMassReminders(
+  churchId: string,
+  churchName: string,
+  slots: MassReminderSlot[],
+  leadMinutes: number,
+): Promise<void> {
+  if (!Notifications) return
+  await cancelMassReminders(churchId)
+  const androidChannel = Platform.OS === 'android' ? { channelId: 'practice-reminders' } : {}
+  const content = {
+    title: i18n.t('massTimes.reminderTitle', { name: churchName }),
+    body: i18n.t('massTimes.reminderBody', { count: leadMinutes }),
+    data: { massReminderChurchId: churchId },
+  }
+  for (const slot of slots) {
+    await Notifications.scheduleNotificationAsync({
+      content,
+      trigger: {
+        type: Notifications.SchedulableTriggerInputTypes.WEEKLY,
+        weekday: slot.weekday,
+        hour: slot.hour,
+        minute: slot.minute,
+        ...androidChannel,
+      },
+    })
+  }
+}
+
+export async function cancelMassReminders(churchId: string): Promise<void> {
+  if (!Notifications) return
+  const scheduled = await Notifications.getAllScheduledNotificationsAsync()
+  for (const notification of scheduled) {
+    if (notification.content.data?.massReminderChurchId === churchId) {
+      await Notifications.cancelScheduledNotificationAsync(notification.identifier)
+    }
+  }
+}
+
 export async function rescheduleAllReminders(): Promise<void> {
   if (!Notifications) return
   const slots = await getEnabledSlots()

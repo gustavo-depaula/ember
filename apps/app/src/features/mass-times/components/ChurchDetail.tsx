@@ -11,6 +11,7 @@ import { dayLabel, formatTimeOfDay, kindLabel, serviceKindOrder } from '../forma
 import { CheckInButton } from './CheckInButton'
 import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
+import { MassReminderToggle } from './MassReminderToggle'
 import { OutlineChip } from './OutlineChip'
 import { QueryError } from './QueryError'
 
@@ -52,6 +53,8 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
       <ContactActions church={data} />
 
       <CheckInButton church={{ id: data.id, name: data.name }} locale={locale} />
+
+      <MassReminderToggle church={{ id: data.id, name: data.name }} services={data.services} />
 
       {serviceKindOrder.map((kind) => (
         <ScheduleSection key={kind} kind={kind} church={data} now={now} locale={locale} />

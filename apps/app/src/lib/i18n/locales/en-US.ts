@@ -2045,6 +2045,11 @@ export default {
     massLog: 'Your check-ins',
     logEmpty: 'No check-ins yet.',
     logEmptyHint: 'Check in at a church to start your log.',
+    remindBeforeMass: 'Remind me before Mass',
+    reminderOn: 'Reminders on',
+    reminderDenied: 'Enable notifications to get reminders.',
+    reminderTitle: 'Mass at {{name}}',
+    reminderBody: 'Mass begins in {{count}} minutes.',
     mapWeb: 'The map is available in the Ember app.',
     mapUnavailable: 'Map unavailable. Showing the list instead.',
     kind: {

@@ -2053,6 +2053,11 @@ export default {
     massLog: 'Seus check-ins',
     logEmpty: 'Nenhum check-in ainda.',
     logEmptyHint: 'Faça check-in em uma igreja para começar seu registro.',
+    remindBeforeMass: 'Lembrar antes da Missa',
+    reminderOn: 'Lembretes ativados',
+    reminderDenied: 'Ative as notificações para receber lembretes.',
+    reminderTitle: 'Missa em {{name}}',
+    reminderBody: 'A Missa começa em {{count}} minutos.',
     mapWeb: 'O mapa está disponível no aplicativo Ember.',
     mapUnavailable: 'Mapa indisponível. Mostrando a lista.',
     kind: {
