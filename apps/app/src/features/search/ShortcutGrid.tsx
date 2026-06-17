@@ -237,7 +237,7 @@ export function WideShortcutCard({
             fontFamily="$title"
             color={blockInk}
             fontSize={Math.round(height * 0.26)}
-            lineHeight={Math.round(height * 0.32)}
+            lineHeight={Math.round(height * 0.275)}
             textAlign="right"
           >
             {title}
