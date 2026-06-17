@@ -40,6 +40,12 @@
       "typedRoutes": true
     },
     "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": { "deploymentTarget": "16.4" }
+        }
+      ],
       "expo-router",
       "expo-sqlite",
       "expo-font",
