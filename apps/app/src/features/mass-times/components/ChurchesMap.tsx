@@ -112,7 +112,7 @@ export function ChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
           elsewhere dismisses it (onMapClick → onDeselect) — slides both in and out, no close button. */}
       {selected ? (
         <Animated.View
-          entering={SlideInDown.springify().damping(20).stiffness(220)}
+          entering={SlideInDown.duration(220)}
           exiting={SlideOutDown.duration(180)}
           style={{
             position: 'absolute',
