@@ -1,5 +1,7 @@
+import type { MassFormulary } from '@ember/missal-schema'
 import { massFormularySchema } from '@ember/missal-schema'
 import { describe, expect, it } from 'vitest'
+import { buildCalendarStatics } from '../src/enrich/calendar'
 import { buildFormulary } from '../src/enrich/formulary'
 
 const emptyLib = new Map()
@@ -69,5 +71,29 @@ describe('buildFormulary', () => {
     expect(f!.season).toBe('ordinary-time')
     expect(f!.rank).toBe('solemnity')
     expect(f!.includeGloria).toBe(true)
+  })
+})
+
+describe('buildCalendarStatics', () => {
+  // Minimal fixture — buildCalendarStatics only reads id/kind/rank/scope/title/color/structure.
+  const sanctoral = (id: string, title = { 'pt-BR': id }): MassFormulary =>
+    ({ id, kind: 'sanctoral', scope: 'universal', rank: 'memorial', color: 'white', title } as unknown as MassFormulary)
+
+  it('dates the movable sanctoral memorials Easter-relative (keyed by their real ids)', () => {
+    // The two movable memorials carry no fixed date upstream and don't have an
+    // MM-DD their id-parse can recover — they rely solely on the easter-relative
+    // table. A stale/mis-keyed table silently drops them (the Immaculate Heart bug).
+    const { sanctoral: out } = buildCalendarStatics(
+      [sanctoral('sanctorale.movable.05-32'), sanctoral('sanctorale.movable.05-35')],
+      new Map(),
+    )
+    const byRef = new Map(out.map((e) => [e.formularyRef, e]))
+    expect(byRef.get('sanctorale.movable.05-32')?.dateRule).toEqual({ type: 'easter-relative', offsetDays: 69 })
+    expect(byRef.get('sanctorale.movable.05-35')?.dateRule).toEqual({ type: 'easter-relative', offsetDays: 50 })
+  })
+
+  it('keeps fixed sanctoral entries dated from their id MM-DD', () => {
+    const { sanctoral: out } = buildCalendarStatics([sanctoral('sanctorale.01-02')], new Map())
+    expect(out[0]?.dateRule).toEqual({ type: 'fixed', month: 1, day: 2 })
   })
 })

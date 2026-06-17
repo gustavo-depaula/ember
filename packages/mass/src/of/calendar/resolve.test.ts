@@ -48,6 +48,23 @@ describe('resolveOfDay', () => {
     expect(r.celebrations.length).toBeGreaterThan(1)
     expect(r.celebrations.every((c) => c.kind === 'temporal')).toBe(true)
   })
+
+  it('offers the movable Immaculate Heart memorial (Easter+69)', () => {
+    // 2026: Sacred Heart = Fri Jun 12; Immaculate Heart = Sat Jun 13. It also
+    // coincides with St Anthony of Padua (fixed memorial) — both being memorials,
+    // both are offered, so we assert presence rather than sole occupancy.
+    const r = day(2026, 6, 13)
+    const refs = r.celebrations.map((c) => c.ref)
+    expect(refs).toContain('sanctorale.movable.05-32')
+    // A memorial outranks the Ordinary Time Saturday → the principal is sanctoral.
+    expect(r.celebrations[0].kind).toBe('sanctoral')
+  })
+
+  it('offers Mary, Mother of the Church on the Monday after Pentecost (Easter+50)', () => {
+    // 2026: Pentecost = May 24 → Monday after = May 25.
+    const r = day(2026, 5, 25)
+    expect(r.celebrations.map((c) => c.ref)).toContain('sanctorale.movable.05-35')
+  })
 })
 
 describe('transferredDate (impeded solemnities)', () => {

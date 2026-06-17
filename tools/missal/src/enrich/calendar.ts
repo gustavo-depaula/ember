@@ -9,12 +9,14 @@ import type {
 
 const weekdays = new Set(['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'])
 
-/** Easter-relative sanctoral memorials the upstream stores by fixed slug. */
+// Movable sanctoral memorials carry no fixed date upstream; their dates are
+// Easter-relative. Keyed by the formulary id the pipeline actually produces
+// (the upstream's movable-section numbering, `sanctorale.movable.MM-NN`).
 const easterRelativeSanctoral: Record<string, number> = {
   // Immaculate Heart of Mary — Saturday after the Second Sunday after Pentecost
-  'sanctorale.immaculate-heart': 69,
+  'sanctorale.movable.05-32': 69,
   // Mary, Mother of the Church — Monday after Pentecost
-  'sanctorale.mary-mother-of-the-church': 50,
+  'sanctorale.movable.05-35': 50,
 }
 
 function parseTemporalId(id: string): { season: string; week?: number; weekday?: Weekday; slug?: string } | undefined {
