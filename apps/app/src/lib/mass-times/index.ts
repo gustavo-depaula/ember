@@ -13,6 +13,7 @@ export {
   useChurchSearch,
   useNearbyChurches,
   useSubmitCorrection,
+  useUploadAttachment,
   useVerifyChurch,
 } from './hooks'
 export {

@@ -80,3 +80,22 @@ export function submitCorrection(
 ): Promise<{ id: string }> {
   return postJson(`/churches/${id}/corrections`, body, clientId)
 }
+
+// Upload a (compressed) image as a correction attachment. The route stores the raw bytes and returns
+// a key to reference in the correction's `attachmentKeys`. Caller keeps it under the 1 MB cap.
+export async function uploadAttachment(
+  id: string,
+  fileUri: string,
+  contentType: string,
+  clientId: string,
+): Promise<string> {
+  const blob = await (await fetch(fileUri)).blob()
+  const res = await fetch(new URL(`/churches/${id}/corrections/attachments`, baseUrl), {
+    method: 'POST',
+    headers: { 'Content-Type': contentType, 'X-Client-Id': clientId },
+    body: blob,
+  })
+  if (!res.ok) throw new Error(`mass-times attachment → ${res.status}`)
+  const { key } = (await res.json()) as { key: string }
+  return key
+}

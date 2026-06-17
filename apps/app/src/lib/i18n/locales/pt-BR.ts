@@ -2040,6 +2040,8 @@ export default {
     submit: 'Enviar',
     cancel: 'Cancelar',
     correctionThanks: 'Obrigado — vamos analisar sua sugestão.',
+    addPhoto: 'Adicionar foto',
+    photoUploading: 'Enviando…',
     checkIn: 'Fazer check-in',
     checkedIn: 'Check-in feito',
     checkInPrompt: 'O que você veio fazer aqui?',

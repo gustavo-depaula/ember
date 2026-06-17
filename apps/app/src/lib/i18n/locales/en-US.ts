@@ -2032,6 +2032,8 @@ export default {
     submit: 'Submit',
     cancel: 'Cancel',
     correctionThanks: 'Thank you — we’ll review your suggestion.',
+    addPhoto: 'Add photo',
+    photoUploading: 'Uploading…',
     checkIn: 'Check in here',
     checkedIn: 'Checked in',
     checkInPrompt: 'What were you here for?',

@@ -54,6 +54,12 @@
         }
       ],
       "expo-maps",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Ember to attach a photo (e.g. a parish bulletin) to your correction."
+        }
+      ],
       "expo-status-bar",
       "expo-web-browser",
       "@react-native-community/datetimepicker",

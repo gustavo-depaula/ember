@@ -6,6 +6,7 @@ import {
   type NearbyParams,
   searchChurches,
   submitCorrection,
+  uploadAttachment,
   verifyChurch,
 } from './client'
 import { getClientId } from './clientId'
@@ -51,5 +52,12 @@ export function useVerifyChurch(id: string) {
 export function useSubmitCorrection(id: string) {
   return useMutation({
     mutationFn: async (body: CorrectionBody) => submitCorrection(id, body, await getClientId()),
+  })
+}
+
+export function useUploadAttachment(id: string) {
+  return useMutation({
+    mutationFn: async ({ uri, contentType }: { uri: string; contentType: string }) =>
+      uploadAttachment(id, uri, contentType, await getClientId()),
   })
 }
