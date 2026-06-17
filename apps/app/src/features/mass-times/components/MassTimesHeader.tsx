@@ -31,27 +31,9 @@ export function MassTimesHeader({
   const isDark = useThemeName().startsWith('dark')
   const glass = variant === 'glass'
 
-  const row = (
-    <XStack
-      alignItems="center"
-      gap="$xs"
-      paddingHorizontal={glass ? '$sm' : 0}
-      paddingVertical={glass ? '$xs' : 0}
-    >
-      <HeaderButton icon={ChevronLeft} label={t('massTimes.back')} onPress={onBack} />
-      {/* Same compact manuscript title on both variants, so the map bar and the list header read as
-          one control, not two. */}
-      <Typography
-        variant="sacred-title"
-        textAlign="left"
-        fontSize={30}
-        lineHeight={36}
-        numberOfLines={1}
-        flex={1}
-        marginLeft="$xs"
-      >
-        {t('massTimes.title')}
-      </Typography>
+  const back = <HeaderButton icon={ChevronLeft} label={t('massTimes.back')} onPress={onBack} />
+  const actions = (
+    <>
       {onSearch ? (
         <HeaderButton icon={Search} label={t('massTimes.searchPlaceholder')} onPress={onSearch} />
       ) : null}
@@ -70,17 +52,47 @@ export function MassTimesHeader({
           onToggleView()
         }}
       />
-    </XStack>
+    </>
   )
 
+  // Same compact manuscript title both ways (matching the church-card names), so the map bar and the
+  // list header read as one control. The map centers it as a nav bar; the list keeps the app's
+  // left-aligned screen-title convention.
   if (glass) {
     return (
       <GlassSurface isDark={isDark} style={{ borderRadius: 24 }}>
-        {row}
+        <XStack alignItems="center" paddingHorizontal="$xs" paddingVertical="$xs">
+          <XStack flex={1} alignItems="center" justifyContent="flex-start">
+            {back}
+          </XStack>
+          <Typography variant="sacred-title" fontSize={28} lineHeight={34} numberOfLines={1}>
+            {t('massTimes.title')}
+          </Typography>
+          <XStack flex={1} alignItems="center" justifyContent="flex-end">
+            {actions}
+          </XStack>
+        </XStack>
       </GlassSurface>
     )
   }
-  return row
+
+  return (
+    <XStack alignItems="center" gap="$xs">
+      {back}
+      <Typography
+        variant="sacred-title"
+        textAlign="left"
+        fontSize={30}
+        lineHeight={36}
+        numberOfLines={1}
+        flex={1}
+        marginLeft="$xs"
+      >
+        {t('massTimes.title')}
+      </Typography>
+      {actions}
+    </XStack>
+  )
 }
 
 function HeaderButton({
