@@ -1,107 +1,17 @@
 import { Image } from 'expo-image'
 import { useTranslation } from 'react-i18next'
-import { StyleSheet } from 'react-native'
-import Svg, { Line, Path } from 'react-native-svg'
 import { Text, View, YStack } from 'tamagui'
 import type { Saint } from '../data/saints'
 
-const corners = {
-  topLeft: require('../../../../assets/textures/corner_top_left.png'),
-  topRight: require('../../../../assets/textures/corner_top_right.png'),
-  bottomLeft: require('../../../../assets/textures/corner_bottom_left.png'),
-  bottomRight: require('../../../../assets/textures/corner_bottom_right.png'),
-}
+const frame = require('../../../../assets/textures/card_back_frame.webp')
 
-const cornerSize = 40
-
-function OrnamentCross({ size = 48, color = '#C9A84C' }: { size?: number; color?: string }) {
-  const half = size / 2
-  const arm = size * 0.15
-  return (
-    <Svg width={size} height={size} viewBox={`0 0 ${size} ${size}`}>
-      {/* Vertical beam */}
-      <Path
-        d={`M${half - arm} ${arm} L${half + arm} ${arm} L${half + arm} ${size - arm} L${half - arm} ${size - arm} Z`}
-        fill={color}
-        opacity={0.8}
-      />
-      {/* Horizontal beam */}
-      <Path
-        d={`M${arm} ${half - arm} L${size - arm} ${half - arm} L${size - arm} ${half + arm} L${arm} ${half + arm} Z`}
-        fill={color}
-        opacity={0.8}
-      />
-      {/* Decorative circle at center */}
-      <Path
-        d={`M${half} ${half - arm * 1.5} A${arm * 1.5} ${arm * 1.5} 0 1 1 ${half} ${half + arm * 1.5} A${arm * 1.5} ${arm * 1.5} 0 1 1 ${half} ${half - arm * 1.5}`}
-        fill={color}
-      />
-      {/* Top finial lines */}
-      <Line
-        x1={half}
-        y1={0}
-        x2={half}
-        y2={arm * 0.6}
-        stroke={color}
-        strokeWidth={1}
-        opacity={0.5}
-      />
-      <Line
-        x1={0}
-        y1={half}
-        x2={arm * 0.6}
-        y2={half}
-        stroke={color}
-        strokeWidth={1}
-        opacity={0.5}
-      />
-      <Line
-        x1={half}
-        y1={size}
-        x2={half}
-        y2={size - arm * 0.6}
-        stroke={color}
-        strokeWidth={1}
-        opacity={0.5}
-      />
-      <Line
-        x1={size}
-        y1={half}
-        x2={size - arm * 0.6}
-        y2={half}
-        stroke={color}
-        strokeWidth={1}
-        opacity={0.5}
-      />
-    </Svg>
-  )
-}
-
-function OrnamentalDivider({ width }: { width: number }) {
-  const lineWidth = width * 0.6
-  return (
-    <Svg width={lineWidth} height={6} viewBox={`0 0 ${lineWidth} 6`}>
-      <Line x1={0} y1={3} x2={lineWidth} y2={3} stroke="#C9A84C" strokeWidth={0.5} opacity={0.4} />
-      <Line
-        x1={lineWidth * 0.3}
-        y1={1}
-        x2={lineWidth * 0.7}
-        y2={1}
-        stroke="#C9A84C"
-        strokeWidth={0.5}
-        opacity={0.3}
-      />
-      <Line
-        x1={lineWidth * 0.3}
-        y1={5}
-        x2={lineWidth * 0.7}
-        y2={5}
-        stroke="#C9A84C"
-        strokeWidth={0.5}
-        opacity={0.3}
-      />
-    </Svg>
-  )
+// The illuminated frame is a fixed cream-and-gold raster, so the back stays
+// light in both themes and the text uses hand-picked ink colors that read on
+// parchment rather than theme tokens.
+const ink = {
+  name: '#6E521F',
+  meta: '#8A6A3B',
+  prayer: '#43361F',
 }
 
 export function CardBack({
@@ -124,90 +34,68 @@ export function CardBack({
       height={cardHeight}
       borderRadius="$lg"
       overflow="hidden"
-      borderWidth={2}
-      borderColor="$accent"
-      backgroundColor="$background"
     >
-      {/* Corner textures */}
-      <View position="absolute" top={-8} left={-8} zIndex={2}>
-        <Image source={corners.topLeft} style={styles.corner} contentFit="contain" />
-      </View>
-      <View position="absolute" top={-8} right={-8} zIndex={2}>
-        <Image source={corners.topRight} style={styles.corner} contentFit="contain" />
-      </View>
-      <View position="absolute" bottom={-8} left={-8} zIndex={2}>
-        <Image source={corners.bottomLeft} style={styles.corner} contentFit="contain" />
-      </View>
-      <View position="absolute" bottom={-8} right={-8} zIndex={2}>
-        <Image source={corners.bottomRight} style={styles.corner} contentFit="contain" />
-      </View>
+      <Image source={frame} style={{ width: cardWidth, height: cardHeight }} contentFit="fill" />
 
-      {/* Inner border */}
-      <View
+      {/* Text sits within the frame's inner panel, distributed between the
+          arch (cross) and the bottom flourish (invocation). */}
+      <YStack
         position="absolute"
-        top={12}
-        left={12}
-        right={12}
-        bottom={12}
-        borderWidth={0.5}
-        borderColor="$accentSubtle"
-        borderRadius="$md"
-      />
+        top={cardHeight * 0.1}
+        bottom={cardHeight * 0.2}
+        left={cardWidth * 0.15}
+        right={cardWidth * 0.15}
+        alignItems="center"
+        justifyContent="space-between"
+      >
+        <Text fontFamily="$heading" fontSize={26} color={ink.name} textAlign="center">
+          ✠
+        </Text>
 
-      {/* Content */}
-      <YStack flex={1} alignItems="center" justifyContent="center" padding="$xl" gap="$md">
-        <OrnamentCross size={56} />
+        {/* Centered between the cross and the invocation, so short cards stay
+            balanced and longer ones fill the space naturally. */}
+        <YStack alignItems="center" gap="$lg" width="100%">
+          <YStack alignItems="center" gap="$xs">
+            <Text fontFamily="$body" fontSize="$2" color={ink.meta} textAlign="center">
+              {t(saint.feastDayKey)}
+            </Text>
 
-        <View alignItems="center" marginTop="$sm">
-          <OrnamentalDivider width={cardWidth} />
-        </View>
+            <Text fontFamily="$heading" fontSize="$5" color={ink.name} textAlign="center">
+              {t(saint.nameKey)}
+            </Text>
+          </YStack>
+
+          <Text
+            fontFamily="$body"
+            fontSize="$2"
+            color={ink.meta}
+            textAlign="center"
+            fontStyle="italic"
+          >
+            {t(saint.patronOfKey)}
+          </Text>
+
+          <Text
+            fontFamily="$body"
+            fontSize="$3"
+            color={ink.prayer}
+            textAlign="center"
+            fontStyle="italic"
+          >
+            &ldquo;{t(saint.prayerExcerptKey)}&rdquo;
+          </Text>
+        </YStack>
 
         <Text
           fontFamily="$heading"
-          fontSize="$5"
-          color="$accent"
-          textAlign="center"
-          marginTop="$sm"
-        >
-          {t(saint.nameKey)}
-        </Text>
-
-        <Text fontFamily="$body" fontSize="$3" color="$colorMuted" textAlign="center">
-          {t(saint.feastDayKey)}
-        </Text>
-
-        <Text
-          fontFamily="$body"
           fontSize="$2"
-          color="$colorMuted"
+          color={ink.name}
           textAlign="center"
-          fontStyle="italic"
+          letterSpacing={2}
         >
-          {t(saint.patronOfKey)}
-        </Text>
-
-        <View alignItems="center" marginVertical="$sm">
-          <OrnamentalDivider width={cardWidth} />
-        </View>
-
-        <Text
-          fontFamily="$body"
-          fontSize="$3"
-          color="$color"
-          textAlign="center"
-          fontStyle="italic"
-          paddingHorizontal="$sm"
-        >
-          &ldquo;{t(saint.prayerExcerptKey)}&rdquo;
+          Ora pro nobis
         </Text>
       </YStack>
     </View>
   )
 }
-
-const styles = StyleSheet.create({
-  corner: {
-    width: cornerSize,
-    height: cornerSize * 0.6,
-  },
-})
