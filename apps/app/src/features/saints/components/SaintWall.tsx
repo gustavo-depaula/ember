@@ -142,7 +142,7 @@ export function SaintWall({
           </Typography>
           <YStack gap={gap}>
             {section.data.map((row, i) => (
-              <XStack key={`${section.key}-${row[0]?.id ?? i}`} gap={gap}>
+              <XStack key={`${section.key}-${row[0]?.id ?? i}`} gap={gap} alignItems="flex-start">
                 {row.map((saint) => (
                   <SaintTile
                     key={saint.id}
