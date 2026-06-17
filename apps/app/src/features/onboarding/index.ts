@@ -1,5 +1,6 @@
 export { IntroSlides } from './IntroSlides'
-export { OnboardingProgress } from './OnboardingProgress'
+export { PrimaryButton, SkipButton } from './OnboardingButtons'
+export { Dots, OnboardingProgress } from './OnboardingProgress'
 export { OnboardingScaffold } from './OnboardingScaffold'
 export {
   type FormationOption,

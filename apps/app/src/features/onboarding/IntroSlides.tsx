@@ -1,11 +1,12 @@
 import { useCallback, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, type LayoutChangeEvent } from 'react-native'
-import { View, XStack, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { ScreenLayout } from '@/components/ScreenLayout'
 import { Typography } from '@/components/typography'
+import { PrimaryButton, SkipButton } from './OnboardingButtons'
+import { Dots } from './OnboardingProgress'
 
 type Slide = { title: string; body: string }
 
@@ -95,43 +96,11 @@ export function IntroSlides({
           ) : null}
         </YStack>
 
-        <XStack gap="$xs" justifyContent="center" alignItems="center">
-          {slides.map((_, i) => (
-            <View
-              // biome-ignore lint/suspicious/noArrayIndexKey: fixed-length static dots
-              key={i}
-              width={i === active ? 18 : 6}
-              height={6}
-              borderRadius={3}
-              backgroundColor={i === active ? '$accent' : '$accentSubtle'}
-            />
-          ))}
-        </XStack>
+        <Dots count={slides.length} activeIndex={active} fill={false} />
 
         <YStack gap="$sm">
-          <AnimatedPressable
-            onPress={primary}
-            accessibilityRole="button"
-            accessibilityLabel={primaryLabel}
-          >
-            <YStack backgroundColor="$accent" borderRadius="$md" padding="$md" alignItems="center">
-              <Typography variant="label" fontSize="$3" color="$background">
-                {primaryLabel}
-              </Typography>
-            </YStack>
-          </AnimatedPressable>
-
-          {!revisit && onSkip ? (
-            <AnimatedPressable
-              onPress={onSkip}
-              accessibilityRole="button"
-              accessibilityLabel={t('common.skip')}
-            >
-              <YStack padding="$sm" alignItems="center">
-                <Typography variant="whisper">{t('common.skip')}</Typography>
-              </YStack>
-            </AnimatedPressable>
-          ) : null}
+          <PrimaryButton label={primaryLabel} onPress={primary} />
+          {!revisit && onSkip ? <SkipButton onPress={onSkip} /> : null}
         </YStack>
       </YStack>
     </ScreenLayout>

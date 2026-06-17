@@ -16,35 +16,27 @@ export const onboardingSteps = [
 
 export type OnboardingStep = (typeof onboardingSteps)[number]
 
-const isWeb = Platform.OS === 'web'
-
-function activeSteps(): OnboardingStep[] {
-  return onboardingSteps.filter((s) => !(isWeb && s === 'notifications'))
-}
-
-function routeFor(step: OnboardingStep): string {
-  return step === 'index' ? '/onboarding' : `/onboarding/${step}`
-}
+// Resolved once: web has no OS notifications, so that step drops out of the flow.
+const activeSteps = onboardingSteps.filter((s) => !(Platform.OS === 'web' && s === 'notifications'))
+// The dot-indicator steps — everything between the intro and the closing screen.
+const contentSteps: OnboardingStep[] = activeSteps.filter((s) => s !== 'index' && s !== 'done')
 
 /** The route to advance to after `current` (skips notifications on web). */
 export function nextRoute(current: OnboardingStep): string {
-  const steps = activeSteps()
-  const i = steps.indexOf(current)
-  const next = steps[i + 1] ?? 'done'
-  return routeFor(next)
+  const next = activeSteps[activeSteps.indexOf(current) + 1] ?? 'done'
+  return next === 'index' ? '/onboarding' : `/onboarding/${next}`
 }
 
 /**
- * Progress for the dot indicator. Shown on the input steps (language → the last
- * step before done); the intro and done screens return undefined (no dots).
+ * Progress for the dot indicator. Shown on the input steps; the intro and done
+ * screens have no dots (returns undefined).
  */
 export function stepProgress(
   current: OnboardingStep,
 ): { index: number; total: number } | undefined {
-  const content: OnboardingStep[] = activeSteps().filter((s) => s !== 'index' && s !== 'done')
-  const i = content.indexOf(current)
+  const i = contentSteps.indexOf(current)
   if (i === -1) return undefined
-  return { index: i + 1, total: content.length }
+  return { index: i + 1, total: contentSteps.length }
 }
 
 /** Marks onboarding complete; the Stack.Protected guard then reveals the tabs. */

@@ -15,10 +15,14 @@ type OnboardingState = {
   reset: () => void
 }
 
-export const useOnboardingState = create<OnboardingState>((set) => ({
+const initialAnswers = {
   prayerStage: undefined,
   formationStage: undefined,
   time: undefined,
+} satisfies Partial<OnboardingState>
+
+export const useOnboardingState = create<OnboardingState>((set) => ({
+  ...initialAnswers,
   setAnswers: (patch) => set(patch),
-  reset: () => set({ prayerStage: undefined, formationStage: undefined, time: undefined }),
+  reset: () => set(initialAnswers),
 }))

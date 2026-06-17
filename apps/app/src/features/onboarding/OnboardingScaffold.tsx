@@ -2,11 +2,10 @@ import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { PageHeader } from '@/components/PageHeader'
 import { ScreenLayout } from '@/components/ScreenLayout'
 import { Typography } from '@/components/typography'
-
+import { PrimaryButton, SkipButton } from './OnboardingButtons'
 import { OnboardingProgress } from './OnboardingProgress'
 
 /**
@@ -54,34 +53,12 @@ export function OnboardingScaffold({
         </ScrollView>
 
         <YStack gap="$sm">
-          <AnimatedPressable
-            onPress={continueDisabled ? undefined : onContinue}
-            accessibilityRole="button"
-            accessibilityState={{ disabled: !!continueDisabled }}
-            accessibilityLabel={continueLabel ?? t('common.continue')}
-          >
-            <YStack
-              backgroundColor="$accent"
-              borderRadius="$md"
-              padding="$md"
-              alignItems="center"
-              opacity={continueDisabled ? 0.45 : 1}
-            >
-              <Typography variant="label" fontSize="$3" color="$background">
-                {continueLabel ?? t('common.continue')}
-              </Typography>
-            </YStack>
-          </AnimatedPressable>
-
-          <AnimatedPressable
-            onPress={onSkip}
-            accessibilityRole="button"
-            accessibilityLabel={skipLabel ?? t('common.skip')}
-          >
-            <YStack padding="$sm" alignItems="center">
-              <Typography variant="whisper">{skipLabel ?? t('common.skip')}</Typography>
-            </YStack>
-          </AnimatedPressable>
+          <PrimaryButton
+            label={continueLabel ?? t('common.continue')}
+            onPress={onContinue}
+            disabled={continueDisabled}
+          />
+          <SkipButton label={skipLabel} onPress={onSkip} />
         </YStack>
       </YStack>
     </ScreenLayout>

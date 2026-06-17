@@ -1,10 +1,9 @@
 import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { ScreenLayout } from '@/components/ScreenLayout'
 import { Typography } from '@/components/typography'
-import { completeOnboarding } from '@/features/onboarding'
+import { completeOnboarding, PrimaryButton } from '@/features/onboarding'
 
 export default function OnboardingDoneScreen() {
   const { t } = useTranslation()
@@ -30,17 +29,7 @@ export default function OnboardingDoneScreen() {
           </Typography>
         </YStack>
 
-        <AnimatedPressable
-          onPress={completeOnboarding}
-          accessibilityRole="button"
-          accessibilityLabel={t('onboarding.done.begin')}
-        >
-          <YStack backgroundColor="$accent" borderRadius="$md" padding="$md" alignItems="center">
-            <Typography variant="label" fontSize="$3" color="$background">
-              {t('onboarding.done.begin')}
-            </Typography>
-          </YStack>
-        </AnimatedPressable>
+        <PrimaryButton label={t('onboarding.done.begin')} onPress={completeOnboarding} />
       </YStack>
     </ScreenLayout>
   )

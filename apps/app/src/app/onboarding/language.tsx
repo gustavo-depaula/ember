@@ -25,8 +25,6 @@ export default function OnboardingLanguageScreen() {
   const setLanguage = usePreferencesStore((s) => s.setLanguage)
   const storedKnown = usePreferencesStore((s) => s.knownLanguages)
   const setKnownLanguages = usePreferencesStore((s) => s.setKnownLanguages)
-  const setContentLanguage = usePreferencesStore((s) => s.setContentLanguage)
-  const setSecondaryLanguage = usePreferencesStore((s) => s.setSecondaryLanguage)
 
   // The interface language is always one you know; seed the pool with it.
   const interfaceContent = language as ContentLanguage
@@ -46,13 +44,9 @@ export default function OnboardingLanguageScreen() {
   }
 
   function persistAndAdvance() {
+    // setKnownLanguages also derives the primary + secondary display languages.
     const list = allContentLanguages.filter((l) => known.has(l) || l === interfaceContent)
     setKnownLanguages(list)
-    // The renderer shows two languages today: primary + one secondary, derived
-    // from the pool (interface language leads; first other known language pairs).
-    const primary = allContentLanguages.includes(interfaceContent) ? interfaceContent : list[0]
-    setContentLanguage(primary)
-    setSecondaryLanguage(list.find((l) => l !== primary))
     router.push(nextRoute('language'))
   }
 

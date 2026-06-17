@@ -263,8 +263,20 @@ export const usePreferencesStore = create<PreferencesState>()(
     setKnownLanguages: (langs) => {
       set((state) => {
         state.knownLanguages = langs
+        // Derive the two-language display from the pool: the interface language
+        // leads when it's a content language, else the first known; the
+        // secondary is the next known language, if any.
+        const primary = contentLanguages.includes(state.language as ContentLanguage)
+          ? (state.language as ContentLanguage)
+          : (langs[0] ?? state.contentLanguage)
+        state.contentLanguage = primary
+        state.secondaryLanguage = langs.find((l) => l !== primary)
       })
+      const { contentLanguage, secondaryLanguage } = usePreferencesStore.getState()
       setPreference('known-languages', JSON.stringify(langs))
+      setPreference('content-language', contentLanguage)
+      if (secondaryLanguage) setPreference('secondary-language', secondaryLanguage)
+      else removePreference('secondary-language')
     },
 
     setFontFamily: (id) => {
