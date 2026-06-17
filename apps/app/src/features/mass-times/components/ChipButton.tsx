@@ -2,10 +2,10 @@ import type { ReactNode } from 'react'
 import { AnimatedPressable, Typography } from '@/components'
 import { OutlineChip } from './OutlineChip'
 
-// The feature's one tappable chip: an outlined pill with an optional leading icon and a label, with
-// native press feedback. `selected` fills it with accent (or, with `soft`, a subtle surface highlight
-// for toggle states). Haptics stay at the call site. Used for filters, kind pickers, contact actions,
-// the reminder toggle, and the feedback buttons.
+// The feature's one tappable chip: a solid warm-surface pill with an optional leading icon and a
+// label, with native press feedback. `selected` fills it with accent (or, with `soft`, just tints the
+// label for toggle states). Haptics stay at the call site. Used for filters, kind pickers, contact
+// actions, the reminder toggle, and the feedback buttons.
 export function ChipButton({
   label,
   onPress,
@@ -13,7 +13,6 @@ export function ChipButton({
   selected,
   soft,
   disabled,
-  dense,
   hitSlop,
   accessibilityLabel,
 }: {
@@ -23,7 +22,6 @@ export function ChipButton({
   selected?: boolean
   soft?: boolean
   disabled?: boolean
-  dense?: boolean
   hitSlop?: number
   accessibilityLabel?: string
 }) {
@@ -41,9 +39,9 @@ export function ChipButton({
       <OutlineChip
         gap="$xs"
         paddingHorizontal="$md"
-        paddingVertical={dense ? '$xs' : '$sm'}
+        paddingVertical="$sm"
         opacity={disabled ? 0.5 : 1}
-        backgroundColor={fill ? '$accent' : softSelected ? '$backgroundSurface' : 'transparent'}
+        backgroundColor={fill ? '$accent' : '$backgroundSurface'}
       >
         {icon}
         <Typography

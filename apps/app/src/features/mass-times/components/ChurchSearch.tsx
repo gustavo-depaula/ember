@@ -1,8 +1,7 @@
-import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList } from 'react-native'
 import { YStack } from 'tamagui'
-import { SearchInput, Skeleton, Typography } from '@/components'
+import { Skeleton, Typography } from '@/components'
 import { useChurchSearch } from '@/lib/mass-times'
 import { useDebounced } from '@/lib/useDebounced'
 import { AnimatedRow } from './AnimatedRow'
@@ -11,57 +10,48 @@ import { QueryError } from './QueryError'
 
 const minLength = 2
 
-// Full-text search over church names. Debounced; below `minLength` we show a hint rather than query.
-export function ChurchSearch() {
+// Full-text search results. The query comes from the native header search bar (see the search route);
+// this just debounces it and renders the rows, filling the screen under the search bar.
+export function ChurchSearch({ query }: { query: string }) {
   const { t } = useTranslation()
-  const [text, setText] = useState('')
-  const query = useDebounced(text.trim(), 300)
-  const { data, isLoading, isError, refetch } = useChurchSearch(query)
-  const active = query.length >= minLength
+  const debounced = useDebounced(query.trim(), 300)
+  const { data, isLoading, isError, refetch } = useChurchSearch(debounced)
+  const active = debounced.length >= minLength
 
   return (
-    <YStack flex={1} gap="$md">
-      <SearchInput
-        value={text}
-        onChangeText={setText}
-        placeholder={t('massTimes.searchPlaceholder')}
-        autoFocus
+    <YStack flex={1} backgroundColor="$background">
+      <FlatList
+        data={active && !isLoading && !isError ? (data ?? []) : []}
+        keyExtractor={(c) => c.id}
+        renderItem={({ item, index }) => (
+          <AnimatedRow index={index}>
+            <ChurchSearchRow church={item} />
+          </AnimatedRow>
+        )}
+        ItemSeparatorComponent={() => <YStack height="$sm" />}
+        contentInsetAdjustmentBehavior="automatic"
+        keyboardShouldPersistTaps="handled"
+        keyboardDismissMode="on-drag"
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={{ paddingHorizontal: 24, paddingTop: 12, paddingBottom: 120 }}
+        ListEmptyComponent={
+          <YStack paddingTop="$xl" alignItems="center">
+            {!active ? (
+              <Typography variant="annotation">{t('massTimes.searchHint')}</Typography>
+            ) : isLoading ? (
+              <YStack gap="$sm" alignSelf="stretch">
+                {[0, 1, 2].map((i) => (
+                  <Skeleton key={i} height={72} borderRadius={12} />
+                ))}
+              </YStack>
+            ) : isError ? (
+              <QueryError onRetry={refetch} />
+            ) : (
+              <Typography variant="annotation">{t('massTimes.noResults')}</Typography>
+            )}
+          </YStack>
+        }
       />
-      {!active ? (
-        <Centered>{t('massTimes.searchHint')}</Centered>
-      ) : isLoading ? (
-        <YStack gap="$sm">
-          {[0, 1, 2].map((i) => (
-            <Skeleton key={i} height={72} borderRadius={12} />
-          ))}
-        </YStack>
-      ) : isError ? (
-        <QueryError onRetry={refetch} />
-      ) : !data || data.length === 0 ? (
-        <Centered>{t('massTimes.noResults')}</Centered>
-      ) : (
-        <FlatList
-          data={data}
-          keyExtractor={(c) => c.id}
-          renderItem={({ item, index }) => (
-            <AnimatedRow index={index}>
-              <ChurchSearchRow church={item} />
-            </AnimatedRow>
-          )}
-          ItemSeparatorComponent={() => <YStack height="$sm" />}
-          keyboardShouldPersistTaps="handled"
-          contentContainerStyle={{ paddingBottom: 32 }}
-          showsVerticalScrollIndicator={false}
-        />
-      )}
-    </YStack>
-  )
-}
-
-function Centered({ children }: { children: string }) {
-  return (
-    <YStack paddingTop="$lg" alignItems="center">
-      <Typography variant="annotation">{children}</Typography>
     </YStack>
   )
 }

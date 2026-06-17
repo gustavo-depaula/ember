@@ -23,6 +23,7 @@ export function MassTimesList({ nearby }: { nearby: MassTimesNearby }) {
     <YStack flex={1} gap="$md">
       <LocationBar location={location} />
       <FlatList
+        style={{ flex: 1 }}
         data={data}
         keyExtractor={(c) => c.id}
         renderItem={({ item, index }) => (

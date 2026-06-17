@@ -3,11 +3,12 @@ import { Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { FlatList } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, Card, Typography } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
 import { mediumTap } from '@/lib/haptics'
 import type { CheckIn } from '../checkins'
 import { useCheckInsStore, useRecentCheckIns } from '../checkins'
 import { AnimatedRow } from './AnimatedRow'
+import { Panel } from './Panel'
 
 // The personal Mass log: every recorded visit, newest first, each removable and tapping through to
 // the church.
@@ -61,7 +62,7 @@ function CheckInRow({
   })
 
   return (
-    <Card>
+    <Panel>
       <XStack alignItems="center" justifyContent="space-between" gap="$sm">
         <Link
           href={{ pathname: '/mass-times/[churchId]', params: { churchId: item.churchId } }}
@@ -94,6 +95,6 @@ function CheckInRow({
           <Trash2 size={18} color={theme.colorSecondary?.val} />
         </AnimatedPressable>
       </XStack>
-    </Card>
+    </Panel>
   )
 }

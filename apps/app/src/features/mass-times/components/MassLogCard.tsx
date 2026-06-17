@@ -2,8 +2,9 @@ import { Link } from 'expo-router'
 import { CalendarCheck, ChevronRight } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, Card, Typography } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
 import { useCheckInCount } from '../checkins'
+import { Panel } from './Panel'
 
 // A compact entry to the Mass log, shown above the nearby list once you've checked in at least once.
 export function MassLogCard() {
@@ -15,7 +16,7 @@ export function MassLogCard() {
   return (
     <Link href="/mass-times/log" asChild>
       <AnimatedPressable>
-        <Card>
+        <Panel>
           <XStack alignItems="center" justifyContent="space-between" gap="$sm">
             <XStack alignItems="center" gap="$sm" flexShrink={1}>
               <CalendarCheck size={20} color={theme.accent?.val} />
@@ -28,7 +29,7 @@ export function MassLogCard() {
             </XStack>
             <ChevronRight size={18} color={theme.colorSecondary?.val} />
           </XStack>
-        </Card>
+        </Panel>
       </AnimatedPressable>
     </Link>
   )

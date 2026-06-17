@@ -3,7 +3,7 @@ import { Globe, Mail, MapPin, Phone } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Linking, Platform } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { Card, Skeleton, Typography } from '@/components'
+import { Skeleton, Typography } from '@/components'
 import { lightTap } from '@/lib/haptics'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
 import { expandUpcoming, useChurch, wallClockNow } from '@/lib/mass-times'
@@ -13,6 +13,7 @@ import { ChipButton } from './ChipButton'
 import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
 import { MassReminderToggle } from './MassReminderToggle'
+import { Panel } from './Panel'
 import { QueryError } from './QueryError'
 
 type IconComponent = typeof Phone
@@ -108,7 +109,7 @@ function ScheduleSection({
   return (
     <YStack gap="$sm">
       <Typography variant="label">{kindLabel(kind, t)}</Typography>
-      <Card gap="$xs">
+      <Panel gap="$xs">
         {[...byDay.entries()].map(([day, times]) => (
           <XStack key={day} justifyContent="space-between" alignItems="baseline" gap="$md">
             <Typography variant="interface" fontSize="$3">
@@ -119,7 +120,7 @@ function ScheduleSection({
             </Typography>
           </XStack>
         ))}
-      </Card>
+      </Panel>
     </YStack>
   )
 }
@@ -138,7 +139,7 @@ function ParishTexts({ church }: { church: ChurchDetailData }) {
   return (
     <YStack gap="$sm">
       <Typography variant="label">{t('massTimes.asListed')}</Typography>
-      <Card gap="$md">
+      <Panel gap="$md">
         {texts.map((text) => (
           <YStack key={`${text.kind}-${(text.rawText ?? '').slice(0, 12)}`} gap="$xs">
             <Typography variant="reference" tone="muted">
@@ -149,7 +150,7 @@ function ParishTexts({ church }: { church: ChurchDetailData }) {
             </Typography>
           </YStack>
         ))}
-      </Card>
+      </Panel>
     </YStack>
   )
 }

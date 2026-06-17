@@ -102,7 +102,6 @@ export function CheckInButton({
             <ChipButton
               key={k}
               label={t(`massTimes.kind.${k}`)}
-              dense
               selected={kind === k}
               onPress={() => {
                 void selectionTick()

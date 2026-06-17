@@ -25,7 +25,6 @@ export function KindFilter({
         <ChipButton
           key={opt.key ?? 'all'}
           label={opt.label}
-          dense
           selected={value === opt.key}
           onPress={() => {
             void selectionTick()
