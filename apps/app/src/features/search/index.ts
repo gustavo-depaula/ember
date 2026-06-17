@@ -1,1 +1,1 @@
-export { ShortcutGrid, type ShortcutTileData } from './ShortcutGrid'
+export { ShortcutGrid, type ShortcutTileData, WideShortcutCard } from './ShortcutGrid'

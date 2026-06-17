@@ -18,6 +18,7 @@ export {
 } from './hooks'
 export {
   expandUpcoming,
+  hasServiceToday,
   nextService,
   occurrenceInstant,
   type UpcomingService,

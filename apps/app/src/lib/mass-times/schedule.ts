@@ -67,6 +67,24 @@ export function expandUpcoming(
   return out.sort((a, b) => a.instant.getTime() - b.instant.getTime())
 }
 
+// Whether the church offers a service (optionally of one kind) at any point *today* in its own wall
+// clock — including times earlier today that have already passed. Expanding from today's midnight (not
+// `now`) is what makes "has Mass today" true all day, not just before the last Mass.
+export function hasServiceToday(
+  services: Service[],
+  { timezone, kind }: { timezone: string; kind?: ServiceKind },
+): boolean {
+  const now = wallClockNow(timezone)
+  const midnight = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()))
+  const kinds = kind ? [kind] : undefined
+  return expandUpcoming(services, { from: midnight, kinds, perService: 2 }).some(
+    (u) =>
+      u.occurrence.date.getUTCFullYear() === now.getUTCFullYear() &&
+      u.occurrence.date.getUTCMonth() === now.getUTCMonth() &&
+      u.occurrence.date.getUTCDate() === now.getUTCDate(),
+  )
+}
+
 // The single next service at/after `now` (default: the church's own wall clock), optionally for one
 // kind. Expanding from `now` then filtering on the instant drops times already past earlier today.
 export function nextService(

@@ -159,3 +159,97 @@ export function ShortcutGrid({ items }: { items: ShortcutTileData[] }) {
     </XStack>
   )
 }
+
+// Full content width (one tile + gutter + one tile), so the banner spans exactly two cards.
+function useBannerWidth(): number {
+  const { width } = useWindowDimensions()
+  return Math.min(width, maxContentWidth) - pagePadding * 2
+}
+
+/**
+ * A wide, two-card-spanning banner in the same jewel language as the grid — but laid out
+ * horizontally (title + subtitle on the left, a large icon watermark behind). For a marquee feature
+ * that earns its own line above the grid.
+ */
+export function WideShortcutCard({
+  title,
+  subtitle,
+  tone,
+  href,
+  onPress,
+  icon: Icon,
+}: {
+  title: string
+  subtitle?: string
+  tone: BlockTone
+  href?: Href
+  onPress?: () => void
+  icon?: ComponentType<{ size?: number; color?: string }>
+}) {
+  const width = useBannerWidth()
+  const height = Math.round(width * 0.34)
+  const [top, bottom] = softStops(tone)
+  const gid = `g-wide-${tone.from.slice(1)}`
+
+  const card = (
+    <AnimatedPressable
+      onPress={href ? undefined : onPress}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <YStack
+        width={width}
+        height={height}
+        borderRadius={16}
+        overflow="hidden"
+        justifyContent="center"
+        backgroundColor={bottom}
+        shadowColor="#000"
+        shadowOffset={{ width: 0, height: 4 }}
+        shadowOpacity={0.16}
+        shadowRadius={10}
+      >
+        <Svg width={width} height={height} style={StyleSheet.absoluteFill}>
+          <Defs>
+            <LinearGradient id={gid} x1="0" y1="0" x2="0" y2="1">
+              <Stop offset="0" stopColor={top} />
+              <Stop offset="1" stopColor={bottom} />
+            </LinearGradient>
+          </Defs>
+          <Rect width={width} height={height} fill={`url(#${gid})`} />
+        </Svg>
+
+        {Icon && (
+          <XStack position="absolute" right={-height * 0.1} bottom={-height * 0.1} opacity={0.16}>
+            <Icon size={Math.round(height * 1.05)} color={blockInk} />
+          </XStack>
+        )}
+
+        <YStack padding="$lg" gap="$xs">
+          <Text fontFamily="$title" color={blockInk} fontSize={Math.round(height * 0.26)}>
+            {title}
+          </Text>
+          {subtitle ? (
+            <Text
+              fontFamily="$body"
+              color={blockInk}
+              opacity={0.85}
+              fontSize={Math.round(height * 0.13)}
+              maxWidth="78%"
+            >
+              {subtitle}
+            </Text>
+          ) : null}
+        </YStack>
+      </YStack>
+    </AnimatedPressable>
+  )
+
+  if (href)
+    return (
+      <ZoomLink href={href} onPress={onPress}>
+        {card}
+      </ZoomLink>
+    )
+  return card
+}

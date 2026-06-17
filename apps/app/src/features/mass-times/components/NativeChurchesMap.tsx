@@ -3,6 +3,7 @@ import { forwardRef, useImperativeHandle, useMemo, useRef } from 'react'
 import { Platform } from 'react-native'
 import { useTheme } from 'tamagui'
 import type { NearbyChurch } from '@/lib/mass-times'
+import { useFavoritesStore } from '../favorites'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 
 export type CameraPosition = {
@@ -27,7 +28,10 @@ const NativeChurchesMap = forwardRef<
 >(function NativeChurchesMap({ nearby, initialCamera, onSelect }, ref) {
   const theme = useTheme()
   const accent = theme.accent?.val
+  const favoriteTint = theme.colorBurgundy?.val ?? accent
   const { churches } = nearby
+  // Raw record is referentially stable; we derive the per-marker icon from it in the memo below.
+  const favorites = useFavoritesStore((s) => s.favorites)
 
   const appleRef = useRef<React.ElementRef<typeof AppleMaps.View>>(null)
   const googleRef = useRef<React.ElementRef<typeof GoogleMaps.View>>(null)
@@ -52,9 +56,19 @@ const NativeChurchesMap = forwardRef<
       })),
     [churches],
   )
+  // A church glyph for the directory, a heart for saved ones — mirroring the cards (the SF Symbol
+  // `church` matches our lucide Church icon; `heart.fill` the FavoriteButton).
   const appleMarkers = useMemo(
-    () => markers.map((m) => ({ ...m, systemImage: 'cross.fill', tintColor: accent })),
-    [markers, accent],
+    () =>
+      markers.map((m) => {
+        const isFavorite = Boolean(favorites[m.id])
+        return {
+          ...m,
+          systemImage: isFavorite ? 'heart.fill' : 'church',
+          tintColor: isFavorite ? favoriteTint : accent,
+        }
+      }),
+    [markers, favorites, accent, favoriteTint],
   )
 
   const select = (id?: string) => {
@@ -70,7 +84,12 @@ const NativeChurchesMap = forwardRef<
         cameraPosition={initialCamera}
         markers={markers}
         properties={{ isMyLocationEnabled: true }}
-        uiSettings={{ myLocationButtonEnabled: false }}
+        uiSettings={{
+          myLocationButtonEnabled: false,
+          compassEnabled: false,
+          mapToolbarEnabled: false,
+          zoomControlsEnabled: false,
+        }}
         onMarkerClick={(m) => select(m.id)}
       />
     )
@@ -83,6 +102,14 @@ const NativeChurchesMap = forwardRef<
       cameraPosition={initialCamera}
       markers={appleMarkers}
       properties={{ isMyLocationEnabled: true }}
+      // We supply our own glass search + recenter, so suppress all native MapKit chrome (the stray
+      // compass / pitch / scale controls that otherwise float on the right edge).
+      uiSettings={{
+        compassEnabled: false,
+        myLocationButtonEnabled: false,
+        scaleBarEnabled: false,
+        togglePitchEnabled: false,
+      }}
       onMarkerClick={(m) => select(m.id)}
     />
   )
