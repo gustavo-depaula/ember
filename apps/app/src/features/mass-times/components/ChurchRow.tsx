@@ -5,16 +5,19 @@ import type { ReactNode } from 'react'
 import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
 
-// The shared church row — the polished list cell for the nearby list and search results. Mirrors the
-// app's PlanCard / archived-row language: a quiet warm surface, rounded $lg, NO border, a gold mark
-// to the left, a manuscript name, then caller-provided detail lines, and a trailing chevron.
+// The shared church row — the polished list cell for the nearby list, search results, and the map's
+// tap card. Mirrors the app's PlanCard / archived-row language: a quiet warm surface, rounded $lg, NO
+// border, a gold mark to the left, a manuscript name, then caller-provided detail lines, and a
+// trailing chevron. `transparent` drops the surface so it can sit on a glass background (the map card).
 export function ChurchRow({
   href,
   name,
+  transparent,
   children,
 }: {
   href: Href
   name: string
+  transparent?: boolean
   children?: ReactNode
 }) {
   const theme = useTheme()
@@ -22,15 +25,21 @@ export function ChurchRow({
     <Link href={href} asChild>
       <AnimatedPressable accessibilityRole="link" accessibilityLabel={name}>
         <XStack
-          backgroundColor="$backgroundSurface"
+          backgroundColor={transparent ? 'transparent' : '$backgroundSurface'}
           borderRadius="$lg"
           padding="$md"
           gap="$md"
           alignItems="center"
         >
-          <Church size={24} color={theme.accent?.val} />
-          <YStack flex={1} gap="$xs">
-            <Typography variant="sacred-title" textAlign="left" fontSize="$5" numberOfLines={1}>
+          <Church size={26} color={theme.accent?.val} />
+          <YStack flex={1} gap={1}>
+            <Typography
+              variant="sacred-title"
+              textAlign="left"
+              fontSize="$5"
+              lineHeight={30}
+              numberOfLines={1}
+            >
               {name}
             </Typography>
             {children}

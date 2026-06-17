@@ -24,8 +24,9 @@ const NativeChurchesMap = forwardRef<
     nearby: MassTimesNearby
     initialCamera: CameraPosition
     onSelect: (church: NearbyChurch) => void
+    onDeselect: () => void
   }
->(function NativeChurchesMap({ nearby, initialCamera, onSelect }, ref) {
+>(function NativeChurchesMap({ nearby, initialCamera, onSelect, onDeselect }, ref) {
   const theme = useTheme()
   const accent = theme.accent?.val
   const favoriteTint = theme.colorBurgundy?.val ?? accent
@@ -91,6 +92,7 @@ const NativeChurchesMap = forwardRef<
           zoomControlsEnabled: false,
         }}
         onMarkerClick={(m) => select(m.id)}
+        onMapClick={onDeselect}
       />
     )
   }
@@ -111,6 +113,7 @@ const NativeChurchesMap = forwardRef<
         togglePitchEnabled: false,
       }}
       onMarkerClick={(m) => select(m.id)}
+      onMapClick={onDeselect}
     />
   )
 })

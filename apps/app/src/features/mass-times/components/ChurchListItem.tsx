@@ -6,16 +6,18 @@ import { nextService, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatDistanceKm, formatTimeOfDay, kindLabel } from '../format'
 import { ChurchRow } from './ChurchRow'
 
-// One church in the nearby list: name, its next upcoming service (Mass by default, or the filtered
-// kind) as a burgundy rubric line, then address · distance.
+// One church in the nearby list (and the map's tap card): name, its next upcoming service (Mass by
+// default, or the filtered kind) as a gold highlight line, then address · distance, muted.
 export function ChurchListItem({
   church,
   locale,
   kind = 'mass',
+  transparent,
 }: {
   church: NearbyChurch
   locale: string
   kind?: ServiceKind
+  transparent?: boolean
 }) {
   const { t } = useTranslation()
   const now = wallClockNow(church.timezone)
@@ -29,9 +31,10 @@ export function ChurchListItem({
     <ChurchRow
       href={{ pathname: '/mass-times/[churchId]', params: { churchId: church.id } }}
       name={church.name}
+      transparent={transparent}
     >
       {upcoming ? (
-        <Typography variant="rubric" fontSize="$2">
+        <Typography variant="interface" fontSize="$2" color="$accent" numberOfLines={1}>
           {nextLabel} · {dayLabel(upcoming.occurrence.date, now, t, locale)}{' '}
           {formatTimeOfDay(upcoming.occurrence.startTime, locale)}
         </Typography>
@@ -40,7 +43,7 @@ export function ChurchListItem({
           {church.services.length > 0 ? t('massTimes.noUpcoming') : t('massTimes.notListed')}
         </Typography>
       )}
-      <Typography variant="caption" tone="muted" numberOfLines={1}>
+      <Typography variant="annotation" numberOfLines={1}>
         {where}
       </Typography>
     </ChurchRow>

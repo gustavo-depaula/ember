@@ -1,8 +1,8 @@
-import { LocateFixed, X } from 'lucide-react-native'
+import { LocateFixed } from 'lucide-react-native'
 import { lazy, Suspense, useCallback, useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform } from 'react-native'
-import Animated, { FadeOut, SlideInDown } from 'react-native-reanimated'
+import Animated, { SlideInDown, SlideOutDown } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, useThemeName, YStack } from 'tamagui'
 import { AnimatedPressable, GlassSurface, Typography } from '@/components'
@@ -73,12 +73,17 @@ export function ChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
             nearby={nearby}
             initialCamera={initialCamera}
             onSelect={setSelected}
+            onDeselect={() => setSelected(undefined)}
           />
         </Suspense>
       </MapErrorBoundary>
 
       {/* My-location button, lifted above the bottom card when one is showing, otherwise the tab bar. */}
-      <YStack position="absolute" right="$lg" bottom={selected ? 188 : insets.bottom + 76}>
+      <YStack
+        position="absolute"
+        right="$lg"
+        bottom={selected ? insets.bottom + 132 : insets.bottom + 76}
+      >
         <AnimatedPressable
           onPress={recenter}
           accessibilityRole="button"
@@ -103,30 +108,28 @@ export function ChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
       </YStack>
 
       {/* Apple/Google-Maps-style bottom card on marker tap (iOS 18+ fires onMarkerClick; older iOS
-          still shows the native title callout). */}
+          still shows the native title callout). Tapping the card opens the church; tapping the map
+          elsewhere dismisses it (onMapClick → onDeselect) — slides both in and out, no close button. */}
       {selected ? (
         <Animated.View
-          entering={SlideInDown.duration(220)}
-          exiting={FadeOut.duration(150)}
+          entering={SlideInDown.springify().damping(20).stiffness(220)}
+          exiting={SlideOutDown.duration(180)}
           style={{
             position: 'absolute',
             left: 0,
             right: 0,
             bottom: insets.bottom + 8,
-            padding: 12,
+            paddingHorizontal: 12,
           }}
         >
-          <YStack>
-            <AnimatedPressable
-              onPress={() => setSelected(undefined)}
-              hitSlop={10}
-              accessibilityRole="button"
-              style={{ alignSelf: 'flex-end', padding: 4 }}
-            >
-              <X size={20} color={theme.colorSecondary?.val} />
-            </AnimatedPressable>
-            <ChurchListItem church={selected} locale={i18n.language} kind={nearby.kind} />
-          </YStack>
+          <GlassSurface isDark={isDark} style={{ borderRadius: 18, overflow: 'hidden' }}>
+            <ChurchListItem
+              church={selected}
+              locale={i18n.language}
+              kind={nearby.kind}
+              transparent
+            />
+          </GlassSurface>
         </Animated.View>
       ) : null}
     </YStack>
