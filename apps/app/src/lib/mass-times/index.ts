@@ -8,7 +8,13 @@ export {
   submitCorrection,
   verifyChurch,
 } from './client'
-export { useChurch, useChurchSearch, useNearbyChurches } from './hooks'
+export {
+  useChurch,
+  useChurchSearch,
+  useNearbyChurches,
+  useSubmitCorrection,
+  useVerifyChurch,
+} from './hooks'
 export {
   expandUpcoming,
   nextService,

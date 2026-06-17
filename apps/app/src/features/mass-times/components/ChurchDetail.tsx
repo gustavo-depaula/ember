@@ -7,6 +7,7 @@ import { Card, Skeleton, Typography } from '@/components'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
 import { expandUpcoming, useChurch, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatTimeOfDay, kindLabel, serviceKindOrder } from '../format'
+import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
 import { OutlineChip } from './OutlineChip'
 import { QueryError } from './QueryError'
@@ -53,6 +54,8 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
       ))}
 
       <ParishTexts church={data} />
+
+      <ChurchFeedback churchId={data.id} />
 
       {data.lastVerifiedAt ? (
         <Typography variant="reference" tone="muted">
