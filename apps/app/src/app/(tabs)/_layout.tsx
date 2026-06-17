@@ -31,7 +31,13 @@ export default function TabsLayout() {
   // touches as an invisible overlay if the tab bar stays mounted — taps go
   // dead app-wide after navigating away from the book. Hiding the tab bar
   // forces the screen to take the whole height and unmount cleanly.
-  const hideTabBar = pathname?.includes('/pray/') || pathname?.endsWith('/read') || false
+  // Mass Times is a map-backed "places" surface — its own draggable sheet owns the bottom edge, so
+  // the global tab bar steps aside (matching Apple Maps). Only the root map screen, not its sub-routes.
+  const hideTabBar =
+    pathname?.includes('/pray/') ||
+    pathname?.endsWith('/read') ||
+    pathname?.endsWith('/mass-times') ||
+    false
 
   return (
     <NativeTabs

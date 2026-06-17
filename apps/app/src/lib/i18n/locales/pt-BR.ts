@@ -2024,6 +2024,7 @@ export default {
     today: 'Hoje',
     tomorrow: 'Amanhã',
     nextMass: 'Próxima Missa',
+    nextMassNearby: 'Próxima Missa perto',
     noUpcoming: 'Sem horários futuros',
     notListed: 'Horários ainda não cadastrados',
     empty: 'Nenhuma igreja encontrada por perto.',

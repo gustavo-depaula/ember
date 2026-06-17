@@ -2016,6 +2016,7 @@ export default {
     today: 'Today',
     tomorrow: 'Tomorrow',
     nextMass: 'Next Mass',
+    nextMassNearby: 'Next Mass near you',
     noUpcoming: 'No upcoming times',
     notListed: 'Times not yet listed',
     empty: 'No churches found nearby.',

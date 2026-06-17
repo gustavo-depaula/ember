@@ -1,15 +1,12 @@
 import { LocateFixed } from 'lucide-react-native'
-import { lazy, Suspense, useCallback, useEffect, useRef, useState } from 'react'
+import { lazy, Suspense, useCallback, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform } from 'react-native'
-import Animated, { SlideInDown, SlideOutDown } from 'react-native-reanimated'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, useThemeName, YStack } from 'tamagui'
 import { AnimatedPressable, GlassSurface, Typography } from '@/components'
 import { lightTap } from '@/lib/haptics'
 import type { NearbyChurch } from '@/lib/mass-times'
 import type { MassTimesNearby } from '../useMassTimesNearby'
-import { ChurchListItem } from './ChurchListItem'
 import { MapErrorBoundary } from './MapErrorBoundary'
 import type { MapHandle } from './NativeChurchesMap'
 
@@ -19,15 +16,21 @@ const NativeChurchesMap = lazy(() => import('./NativeChurchesMap'))
 const overviewZoom = 12
 const userZoom = 14
 
-// The full-bleed map: it drives the camera through the native ref (so the recenter button and the
-// auto-center-on-GPS both work) and surfaces the bottom card on marker tap. Floating screen controls
-// (title, filter, view toggle) live in the screen above it — the map stretches edge to edge behind.
-export function ChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
-  const { t, i18n } = useTranslation()
+// The full-bleed map canvas behind the sheet: it drives the camera through the native ref (recenter +
+// auto-center-on-GPS) and bubbles marker taps up via `onSelectChurch`. The browse/detail surface is
+// the sheet on top; the recenter button floats above the sheet's peek (`bottomInset`).
+export function ChurchesMap({
+  nearby,
+  onSelectChurch,
+  bottomInset = 140,
+}: {
+  nearby: MassTimesNearby
+  onSelectChurch?: (church: NearbyChurch) => void
+  bottomInset?: number
+}) {
+  const { t } = useTranslation()
   const theme = useTheme()
   const isDark = useThemeName().startsWith('dark')
-  const insets = useSafeAreaInsets()
-  const [selected, setSelected] = useState<NearbyChurch | undefined>(undefined)
   const { location } = nearby
 
   const mapRef = useRef<MapHandle>(null)
@@ -59,7 +62,6 @@ export function ChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
 
   const recenter = () => {
     void lightTap()
-    // Already located → move now; otherwise ask, and the becameGranted effect swings over on success.
     if (location.status === 'granted') centerOnUser()
     else void location.request()
   }
@@ -72,18 +74,13 @@ export function ChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
             ref={mapRef}
             nearby={nearby}
             initialCamera={initialCamera}
-            onSelect={setSelected}
-            onDeselect={() => setSelected(undefined)}
+            onSelect={(church) => onSelectChurch?.(church)}
           />
         </Suspense>
       </MapErrorBoundary>
 
-      {/* My-location button, lifted above the bottom card when one is showing, otherwise the tab bar. */}
-      <YStack
-        position="absolute"
-        right="$lg"
-        bottom={selected ? insets.bottom + 132 : insets.bottom + 76}
-      >
+      {/* My-location button, floated above the sheet's peek edge. */}
+      <YStack position="absolute" right="$lg" bottom={bottomInset}>
         <AnimatedPressable
           onPress={recenter}
           accessibilityRole="button"
@@ -106,32 +103,6 @@ export function ChurchesMap({ nearby }: { nearby: MassTimesNearby }) {
           </GlassSurface>
         </AnimatedPressable>
       </YStack>
-
-      {/* Apple/Google-Maps-style bottom card on marker tap (iOS 18+ fires onMarkerClick; older iOS
-          still shows the native title callout). Tapping the card opens the church; tapping the map
-          elsewhere dismisses it (onMapClick → onDeselect) — slides both in and out, no close button. */}
-      {selected ? (
-        <Animated.View
-          entering={SlideInDown.duration(220)}
-          exiting={SlideOutDown.duration(180)}
-          style={{
-            position: 'absolute',
-            left: 0,
-            right: 0,
-            bottom: insets.bottom + 8,
-            paddingHorizontal: 12,
-          }}
-        >
-          <GlassSurface isDark={isDark} style={{ borderRadius: 18, overflow: 'hidden' }}>
-            <ChurchListItem
-              church={selected}
-              locale={i18n.language}
-              kind={nearby.kind}
-              transparent
-            />
-          </GlassSurface>
-        </Animated.View>
-      ) : null}
     </YStack>
   )
 }

@@ -24,7 +24,7 @@ const NativeChurchesMap = forwardRef<
     nearby: MassTimesNearby
     initialCamera: CameraPosition
     onSelect: (church: NearbyChurch) => void
-    onDeselect: () => void
+    onDeselect?: () => void
   }
 >(function NativeChurchesMap({ nearby, initialCamera, onSelect, onDeselect }, ref) {
   const theme = useTheme()
