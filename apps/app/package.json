@@ -13,7 +13,9 @@
     "test:e2e": "maestro test .maestro/config.yaml"
   },
   "dependencies": {
+    "@ember/api": "workspace:*",
     "@ember/content-engine": "workspace:*",
+    "@ember/divinum-officium": "workspace:*",
     "@ember/liturgical": "workspace:*",
     "@ember/mass": "workspace:*",
     "@ember/missal-schema": "workspace:*",
@@ -48,6 +50,7 @@
     "expo-keep-awake": "^56.0.3",
     "expo-linking": "~56.0.12",
     "expo-localization": "^56.0.6",
+    "expo-location": "~56.0.18",
     "expo-network": "^56.0.4",
     "expo-notifications": "~56.0.14",
     "expo-router": "~56.2.7",
@@ -83,8 +86,7 @@
     "react-native-zoom-toolkit": "^5.0.1",
     "snowball-stemmers": "^0.6.0",
     "tamagui": "2.0.0-rc.31",
-    "zustand": "^5.0.12",
-    "@ember/divinum-officium": "workspace:*"
+    "zustand": "^5.0.12"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",

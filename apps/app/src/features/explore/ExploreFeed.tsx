@@ -111,6 +111,14 @@ export function ExploreFeed() {
     })
   }
 
+  blocks.push({
+    key: 'mass-times',
+    label: t('massTimes.title'),
+    title: t('massTimes.exploreTagline'),
+    tone: toneForKey('mass-times'),
+    onPress: () => router.push('/mass-times'),
+  })
+
   if (saint) {
     blocks.push({
       key: 'celebration',
