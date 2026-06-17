@@ -15,10 +15,17 @@ All routes live under `app/(tabs)/(today,explore,library,you,search)/mass-times/
   (All / Mass / Confession / Adoration), then either the nearby **list** or the **map**. Both views
   share one location + query via `useMassTimesNearby(kind)`.
 - **`[churchId]`** — church detail: name + save heart, contact actions (directions/call/email/website),
-  a check-in button, the schedule grouped by kind (expanded upcoming times), the parish's raw text,
-  and the verify / suggest-an-edit form.
+  a **church check-in** (pick Mass/Confession/Adoration/Visit + note; a Mass check-in also completes
+  the `mass` practice via `useLogCompletion`), a **Mass-reminder** toggle (recurring native WEEKLY
+  notifications before each Mass), the schedule grouped by kind, the parish's raw text, and the verify /
+  suggest-an-edit form (free text, **photo attachments**, or flag-closed).
 - **`search`** — debounced full-text search by name (FTS); results tap through to detail.
-- **`log`** — the personal Mass check-in log.
+- **`log`** — the personal church check-in log (kind + note per visit).
+
+Native feel throughout: every touch point uses `AnimatedPressable` (spring) + a fitting haptic
+(`selectionTick`/`lightTap`/`successBuzz`/`mediumTap`); lists animate in (`FadeIn`+`LinearTransition`);
+the map shows the user-location dot + native recenter button and raises a bottom card on marker tap.
+The repeated chip is one `ChipButton`.
 
 ## Architecture
 
@@ -56,8 +63,10 @@ features/mass-times/   the feature
 
 ### Native modules
 
-`expo-location` and `expo-maps` were added — they need `pnpm ios` (a native rebuild) to take effect.
-List / detail / search work without it; the map and real GPS light up after a rebuild.
+`expo-location`, `expo-maps`, and `expo-image-picker` / `expo-image-manipulator` were added — they need
+`pnpm ios` (a native rebuild) to take effect. List / detail / search / check-in / reminders work without
+it; the map, real GPS, and photo attachments light up after a rebuild. Notifications (reminders) reuse
+the app's existing notification permission + scheduler.
 
 ## Data / import boundary
 
