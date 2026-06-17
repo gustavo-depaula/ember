@@ -12,12 +12,12 @@ export function ChurchListItem({
   church,
   locale,
   kind = 'mass',
-  transparent,
+  onSelect,
 }: {
   church: NearbyChurch
   locale: string
   kind?: ServiceKind
-  transparent?: boolean
+  onSelect?: (church: NearbyChurch) => void
 }) {
   const { t } = useTranslation()
   const now = wallClockNow(church.timezone)
@@ -29,9 +29,13 @@ export function ChurchListItem({
 
   return (
     <ChurchRow
-      href={{ pathname: '/mass-times/[churchId]', params: { churchId: church.id } }}
       name={church.name}
-      transparent={transparent}
+      onPress={onSelect ? () => onSelect(church) : undefined}
+      href={
+        onSelect
+          ? undefined
+          : { pathname: '/mass-times/[churchId]', params: { churchId: church.id } }
+      }
     >
       {upcoming ? (
         <Typography variant="interface" fontSize="$2" color="$accent" numberOfLines={1}>

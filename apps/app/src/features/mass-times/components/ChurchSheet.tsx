@@ -1,14 +1,15 @@
 import { BottomSheet, Group, Host, RNHostView } from '@expo/ui/swift-ui'
 import {
   interactiveDismissDisabled,
+  type PresentationDetent,
   presentationBackgroundInteraction,
   presentationDetents,
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
-import { Church, Search, SlidersHorizontal } from 'lucide-react-native'
-import { useMemo } from 'react'
+import { ChevronLeft, Church, Search, SlidersHorizontal } from 'lucide-react-native'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FlatList, StyleSheet, View } from 'react-native'
+import { FlatList, ScrollView, StyleSheet, View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Skeleton, Typography } from '@/components'
@@ -16,55 +17,83 @@ import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatDistanceKm, formatTimeOfDay } from '../format'
 import type { MassTimesNearby } from '../useMassTimesNearby'
+import { ChurchDetail } from './ChurchDetail'
 import { ChurchesMap } from './ChurchesMap'
 import { ChurchListItem } from './ChurchListItem'
+import type { ChurchRowData } from './ChurchSearchRow'
+import { LocationBar } from './LocationBar'
 import { SavedChurches } from './SavedChurches'
+
+type Selected = { id: string; name: string; lat?: number; lng?: number }
+
+// Stable detent identities (the native selection compares by value — keep them steady).
+const PEEK: PresentationDetent = { fraction: 0.16 }
+const HALF: PresentationDetent = { fraction: 0.55 }
+const FULL: PresentationDetent = 'large'
+const DETENTS = [PEEK, HALF, FULL]
 
 // The whole map + sheet surface, the Apple Maps way. Everything lives in ONE SwiftUI `Host`: the map
 // is the Host's background content (so `presentationBackgroundInteraction` keeps it LIVE behind the
-// sheet), and the native `BottomSheet` rides over it. Per Expo's own example, the RN list scrolls
-// inside the sheet via `RNHostView` + a `flex:1` view + `nestedScrollEnabled`.
+// sheet), and the native `BottomSheet` rides over it. Tapping a pin or row swaps the sheet to that
+// church's detail in place (and swings the map to it) — never a new page.
 export function ChurchSheet({
   nearby,
   locale,
   filterCount,
-  onSelectChurch,
   onSearch,
   onOpenFilters,
 }: {
   nearby: MassTimesNearby
   locale: string
   filterCount: number
-  onSelectChurch: (church: NearbyChurch) => void
   onSearch: () => void
   onOpenFilters: () => void
 }) {
+  const [selected, setSelected] = useState<Selected | undefined>(undefined)
+  const [detent, setDetent] = useState<PresentationDetent>(PEEK)
+
+  const select = (church: Selected) => {
+    setSelected(church)
+    setDetent(HALF) // lift the sheet so the detail is visible
+  }
+
   return (
     <Host style={StyleSheet.absoluteFill}>
       <RNHostView>
-        <View style={{ flex: 1 }}>
-          <ChurchesMap nearby={nearby} onSelectChurch={onSelectChurch} bottomInset={150} />
+        <View style={styles.fill}>
+          <ChurchesMap
+            nearby={nearby}
+            focused={selected}
+            bottomInset={150}
+            onSelectChurch={(c) => select({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
+          />
         </View>
       </RNHostView>
 
       <BottomSheet isPresented onIsPresentedChange={noop}>
         <Group
           modifiers={[
-            presentationDetents([{ fraction: 0.16 }, { fraction: 0.55 }, 'large']),
+            presentationDetents(DETENTS, { selection: detent, onSelectionChange: setDetent }),
             presentationBackgroundInteraction('enabled'),
             interactiveDismissDisabled(true),
             presentationDragIndicator('visible'),
           ]}
         >
           <RNHostView>
-            <View style={{ flex: 1 }}>
-              <SheetContent
-                nearby={nearby}
-                locale={locale}
-                filterCount={filterCount}
-                onSearch={onSearch}
-                onOpenFilters={onOpenFilters}
-              />
+            <View style={styles.fill}>
+              {selected ? (
+                <ChurchDetailPane churchId={selected.id} onBack={() => setSelected(undefined)} />
+              ) : (
+                <BrowseContent
+                  nearby={nearby}
+                  locale={locale}
+                  filterCount={filterCount}
+                  onSearch={onSearch}
+                  onOpenFilters={onOpenFilters}
+                  onSelectNearby={(c) => select({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
+                  onSelectSaved={(c) => select({ id: c.id, name: c.name })}
+                />
+              )}
             </View>
           </RNHostView>
         </Group>
@@ -75,18 +104,61 @@ export function ChurchSheet({
 
 function noop() {}
 
-function SheetContent({
+// Place mode: the full church detail in the sheet, with a back affordance to the browse list.
+function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () => void }) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const insets = useSafeAreaInsets()
+  return (
+    <View style={styles.fill}>
+      <XStack paddingHorizontal="$md" paddingTop="$xs" paddingBottom="$sm">
+        <AnimatedPressable
+          onPress={onBack}
+          hitSlop={8}
+          accessibilityRole="button"
+          accessibilityLabel={t('massTimes.back')}
+        >
+          <XStack
+            backgroundColor="$backgroundSurface"
+            borderRadius={18}
+            height={36}
+            paddingHorizontal="$sm"
+            alignItems="center"
+            gap="$xs"
+          >
+            <ChevronLeft size={18} color={theme.colorSecondary?.val} />
+            <Typography variant="annotation">{t('massTimes.nearbyHeading')}</Typography>
+          </XStack>
+        </AnimatedPressable>
+      </XStack>
+      <ScrollView
+        nestedScrollEnabled
+        style={styles.fill}
+        contentContainerStyle={{ paddingHorizontal: 16, paddingBottom: insets.bottom + 32 }}
+        showsVerticalScrollIndicator={false}
+      >
+        <ChurchDetail churchId={churchId} />
+      </ScrollView>
+    </View>
+  )
+}
+
+function BrowseContent({
   nearby,
   locale,
   filterCount,
   onSearch,
   onOpenFilters,
+  onSelectNearby,
+  onSelectSaved,
 }: {
   nearby: MassTimesNearby
   locale: string
   filterCount: number
   onSearch: () => void
   onOpenFilters: () => void
+  onSelectNearby: (church: NearbyChurch) => void
+  onSelectSaved: (church: ChurchRowData) => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -95,18 +167,25 @@ function SheetContent({
 
   return (
     <FlatList
-      style={styles.list}
+      style={styles.fill}
       nestedScrollEnabled
       data={churches}
       keyExtractor={(c) => c.id}
-      renderItem={({ item }) => <ChurchListItem church={item} locale={locale} kind={nearby.kind} />}
+      renderItem={({ item }) => (
+        <ChurchListItem
+          church={item}
+          locale={locale}
+          kind={nearby.kind}
+          onSelect={onSelectNearby}
+        />
+      )}
       ItemSeparatorComponent={() => <YStack height="$sm" />}
       contentContainerStyle={{ paddingHorizontal: 16, paddingBottom: insets.bottom + 32 }}
       showsVerticalScrollIndicator={false}
       ListHeaderComponent={
         <YStack gap="$md" paddingTop="$xs" paddingBottom="$md">
           <XStack gap="$sm" alignItems="center">
-            <AnimatedPressable style={{ flex: 1 }} onPress={onSearch} accessibilityRole="search">
+            <AnimatedPressable style={styles.fill} onPress={onSearch} accessibilityRole="search">
               <XStack
                 flex={1}
                 backgroundColor="$backgroundSurface"
@@ -141,8 +220,9 @@ function SheetContent({
             </AnimatedPressable>
           </XStack>
 
+          <LocationBar location={nearby.location} />
           <NextMassNearby churches={churches} locale={locale} />
-          <SavedChurches />
+          <SavedChurches onSelect={onSelectSaved} />
           {churches.length > 0 ? (
             <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>
           ) : null}
@@ -166,8 +246,7 @@ function SheetContent({
   )
 }
 
-// The devotional peek line: the soonest upcoming Mass among the nearby churches — "where can I pray
-// soon?" answered the instant the screen opens.
+// The devotional peek line: the soonest upcoming Mass among the nearby churches.
 function NextMassNearby({ churches, locale }: { churches: NearbyChurch[]; locale: string }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -221,5 +300,5 @@ function NextMassNearby({ churches, locale }: { churches: NearbyChurch[]; locale
 }
 
 const styles = StyleSheet.create({
-  list: { flex: 1 },
+  fill: { flex: 1 },
 })

@@ -22,10 +22,13 @@ const userZoom = 14
 export function ChurchesMap({
   nearby,
   onSelectChurch,
+  focused,
   bottomInset = 140,
 }: {
   nearby: MassTimesNearby
   onSelectChurch?: (church: NearbyChurch) => void
+  // When a church is selected (place mode), swing the camera to it — like Apple Maps centering a pin.
+  focused?: { lat?: number; lng?: number }
   bottomInset?: number
 }) {
   const { t } = useTranslation()
@@ -57,6 +60,17 @@ export function ChurchesMap({
     prevStatus.current = location.status
     if (becameGranted) centerOnUser()
   }, [location.status, centerOnUser])
+
+  // Swing to the focused church when place mode opens.
+  const fLat = focused?.lat
+  const fLng = focused?.lng
+  useEffect(() => {
+    if (fLat == null || fLng == null) return
+    mapRef.current?.setCameraPosition({
+      coordinates: { latitude: fLat, longitude: fLng },
+      zoom: userZoom,
+    })
+  }, [fLat, fLng])
 
   if (Platform.OS === 'web') return <MapUnavailable message={t('massTimes.mapWeb')} />
 

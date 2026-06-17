@@ -42,9 +42,6 @@ export default function MassTimesScreen() {
         nearby={nearby}
         locale={i18n.language}
         filterCount={countActiveFilters(filter)}
-        onSelectChurch={(church) =>
-          router.push({ pathname: '/mass-times/[churchId]', params: { churchId: church.id } })
-        }
         onSearch={() => router.push('/mass-times/search')}
         onOpenFilters={() => setFiltersOpen(true)}
       />
