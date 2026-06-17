@@ -6,6 +6,10 @@
 // name+city+region) and the `geohash` (from lat/lng), and assigns `service` ids. Provide identity
 // + content; the importer derives the rest.
 //
+// `sourceId` is an opaque stable id the dump producer may carry per church. The importer never
+// stores it and treats it as having no meaning — it only echoes `sourceId -> generated id` back as
+// a mapping sidecar, so the producer can line its own records up with the ids the importer slugged.
+//
 // Example line:
 //   {"name":"St. Patrick's Cathedral","city":"New York","region":"NY","lat":40.7585,"lng":-73.9759,
 //    "timezone":"America/New_York","canonicalStatus":"full_communion",
@@ -47,6 +51,7 @@ export type ChurchLinkKind = Open<
 >
 
 export type ChurchDump = {
+  sourceId?: string // opaque stable id from the producer; echoed back in the id mapping, never stored
   name: string
   longName?: string
   address?: string

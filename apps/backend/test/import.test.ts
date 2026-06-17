@@ -3,11 +3,12 @@ import type { ChurchDump } from '@ember/api'
 import { beforeEach, describe, expect, it } from 'vitest'
 import { createDb } from '../src/db'
 import { encodeGeohash } from '../src/lib/geo'
-import { buildRows, importRows, rowsToSql } from '../src/lib/import'
+import { buildRows, importRows, mappingToJsonl, rowsToSql } from '../src/lib/import'
 import { resetTables } from './helpers'
 
 const dump: ChurchDump[] = [
   {
+    sourceId: 'SRC-1',
     name: "St. Mary's",
     city: 'Springfield',
     region: 'IL',
@@ -17,7 +18,7 @@ const dump: ChurchDump[] = [
     services: [{ kind: 'mass', rrule: 'FREQ=WEEKLY;BYDAY=SU', startTime: '09:00' }],
     links: [{ kind: 'website', url: 'https://stmarys.example' }],
   },
-  // same name + city + region → slug collision, must disambiguate
+  // same name + city + region → slug collision, must disambiguate. No sourceId → omitted from the map.
   {
     name: "St. Mary's",
     city: 'Springfield',
@@ -44,6 +45,12 @@ describe('buildRows', () => {
     expect(rows.churches[0].geohash).toBe(encodeGeohash(39.8, -89.65))
     expect(rows.services[0].churchId).toBe('st-marys-springfield-il')
     expect(rows.links[0].churchId).toBe('st-marys-springfield-il')
+  })
+
+  it('maps sourceId → generated id, omitting records with no sourceId', () => {
+    const rows = buildRows(dump)
+    expect(rows.mapping).toEqual([{ sourceId: 'SRC-1', id: 'st-marys-springfield-il' }])
+    expect(mappingToJsonl(rows.mapping)).toBe('{"sourceId":"SRC-1","id":"st-marys-springfield-il"}')
   })
 })
 
