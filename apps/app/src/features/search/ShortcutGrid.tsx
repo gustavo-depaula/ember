@@ -233,15 +233,21 @@ export function WideShortcutCard({
         )}
 
         <YStack flex={1} justifyContent="center" alignItems="flex-end" paddingHorizontal="$lg">
-          <Text
-            fontFamily="$title"
-            color={blockInk}
-            fontSize={Math.round(height * 0.26)}
-            lineHeight={Math.round(height * 0.32)}
-            textAlign="right"
-          >
-            {title}
-          </Text>
+          {/* One Text per line: each keeps a roomy line-height so the caps never clip, while the
+              negative margin on later lines tightens the space *between* lines independently. */}
+          {title.split('\n').map((line, i) => (
+            <Text
+              key={line}
+              fontFamily="$title"
+              color={blockInk}
+              fontSize={Math.round(height * 0.26)}
+              lineHeight={Math.round(height * 0.32)}
+              textAlign="right"
+              marginTop={i === 0 ? 0 : -Math.round(height * 0.08)}
+            >
+              {line}
+            </Text>
+          ))}
           {subtitle ? (
             <Text
               fontFamily="$body"
