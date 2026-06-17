@@ -18,6 +18,7 @@ import {
   useOnboardingState,
 } from '@/features/onboarding'
 import { useCreatePractice, useEnableSlotsForPractice } from '@/features/plan-of-life'
+import { selectionTick } from '@/lib/haptics'
 
 const dailySchedule = JSON.stringify({ type: 'daily' })
 
@@ -75,7 +76,10 @@ export default function OnboardingFormationScreen() {
           return (
             <AnimatedPressable
               key={opt.id}
-              onPress={() => setSelected(opt.id)}
+              onPress={() => {
+                selectionTick()
+                setSelected(opt.id)
+              }}
               accessibilityRole="radio"
               accessibilityState={{ selected: isSelected }}
               accessibilityLabel={t(`onboarding.formation.options.${opt.id}.name`)}

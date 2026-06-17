@@ -29,7 +29,11 @@ export default function OnboardingDoneScreen() {
           </Typography>
         </YStack>
 
-        <PrimaryButton label={t('onboarding.done.begin')} onPress={completeOnboarding} />
+        <PrimaryButton
+          label={t('onboarding.done.begin')}
+          onPress={completeOnboarding}
+          haptic="success"
+        />
       </YStack>
     </ScreenLayout>
   )

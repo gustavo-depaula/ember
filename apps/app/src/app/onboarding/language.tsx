@@ -13,6 +13,7 @@ import {
   OnboardingScaffold,
   stepProgress,
 } from '@/features/onboarding'
+import { selectionTick } from '@/lib/haptics'
 import { supportedLanguages } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -35,6 +36,7 @@ export default function OnboardingLanguageScreen() {
   function toggle(lang: ContentLanguage) {
     // The interface language stays known — you can read what the app speaks to you.
     if (lang === interfaceContent) return
+    selectionTick()
     setKnown((prev) => {
       const next = new Set(prev)
       if (next.has(lang)) next.delete(lang)

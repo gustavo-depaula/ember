@@ -109,6 +109,18 @@ Reuses: `ScreenLayout`, `PageHeader`, `Typography`, `Card`, `AnimatedPressable`,
 `useUpdateSlot`; `requestNotificationPermission`; `detectLanguage`. i18n: `onboarding.*` keys in
 `apps/app/src/lib/i18n/locales/{en-US,pt-BR}.ts`.
 
+### Native feel
+
+The flow follows the app-wide tactile convention (`@/lib/haptics`): `selectionTick()` for every
+selection (pills, plan/formation cards, language checkboxes) and for carousel page turns;
+`lightTap()` for primary navigation (Continue, Preview) and the quiet Skip; `successBuzz()` for
+the final **Begin**. Haptics live in the shared `OnboardingButtons` (so every step inherits them)
+and in `PillSelector`. The carousel ticks only on a real swipe — a `buttonDriven` ref suppresses
+the tick when Continue drives the scroll, so it never double-fires with the button's tap. Progress
+and carousel dots (`OnboardingProgress.tsx`) spring their width and tween their fill via Reanimated
+rather than swapping props instantly. `PillSelector` also runs through `AnimatedPressable` for
+press-scale feedback consistent with the cards and CTAs.
+
 ## 7. Phasing
 
 - **MVP:** routing + `hasOnboarded`; steps 1, 2 (language incl. `knownLanguages` pool), 4

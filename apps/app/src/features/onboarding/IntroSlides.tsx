@@ -5,6 +5,7 @@ import { YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components/ScreenLayout'
 import { Typography } from '@/components/typography'
+import { selectionTick } from '@/lib/haptics'
 import { PrimaryButton, SkipButton } from './OnboardingButtons'
 import { Dots } from './OnboardingProgress'
 
@@ -32,6 +33,10 @@ export function IntroSlides({
   const [width, setWidth] = useState(0)
   const [active, setActive] = useState(0)
   const listRef = useRef<FlatList<Slide>>(null)
+  // Tracks the last index we reacted to, and whether the move was button-driven
+  // (so a page turn ticks only on a real swipe — the Continue button already taps).
+  const lastIndex = useRef(0)
+  const buttonDriven = useRef(false)
   const isLast = active >= slides.length - 1
 
   const onLayout = useCallback((e: LayoutChangeEvent) => {
@@ -41,14 +46,22 @@ export function IntroSlides({
   const onScroll = useCallback(
     (e: { nativeEvent: { contentOffset: { x: number } } }) => {
       if (width <= 0) return
-      const i = Math.round(e.nativeEvent.contentOffset.x / width)
-      setActive(Math.max(0, Math.min(i, slides.length - 1)))
+      const i = Math.max(
+        0,
+        Math.min(Math.round(e.nativeEvent.contentOffset.x / width), slides.length - 1),
+      )
+      if (i === lastIndex.current) return
+      lastIndex.current = i
+      setActive(i)
+      if (buttonDriven.current) buttonDriven.current = false
+      else selectionTick()
     },
     [width, slides.length],
   )
 
   const primary = () => {
     if (isLast) return onDone()
+    buttonDriven.current = true
     listRef.current?.scrollToOffset({ offset: (active + 1) * width, animated: true })
   }
 

@@ -16,6 +16,7 @@ import {
 } from '@/features/onboarding'
 import { AdoptSheet } from '@/features/templates/AdoptSheet'
 import { useTemplateList, useTemplateManifest } from '@/features/templates/hooks'
+import { lightTap, selectionTick } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 
 function bareTemplateId(id: string): string {
@@ -70,7 +71,10 @@ export default function OnboardingPlanScreen() {
           return (
             <AnimatedPressable
               key={id}
-              onPress={() => setSelected(id)}
+              onPress={() => {
+                selectionTick()
+                setSelected(id)
+              }}
               accessibilityRole="radio"
               accessibilityState={{ selected: isSelected }}
               accessibilityLabel={name}
@@ -97,7 +101,11 @@ export default function OnboardingPlanScreen() {
         })}
 
         <AnimatedPressable
-          onPress={() => manifest.data && setSheetOpen(true)}
+          onPress={() => {
+            if (!manifest.data) return
+            lightTap()
+            setSheetOpen(true)
+          }}
           accessibilityRole="button"
           accessibilityState={{ disabled: !manifest.data }}
           accessibilityLabel={t('onboarding.plan.preview')}

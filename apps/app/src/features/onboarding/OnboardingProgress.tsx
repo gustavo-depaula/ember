@@ -1,4 +1,44 @@
-import { View, XStack } from 'tamagui'
+import { useEffect } from 'react'
+import Animated, {
+  interpolateColor,
+  useAnimatedStyle,
+  useSharedValue,
+  withSpring,
+  withTiming,
+} from 'react-native-reanimated'
+import { useTheme, XStack } from 'tamagui'
+
+import { calmSpring } from '@/config/animation'
+
+/** A single dot that springs its width and tweens its fill as state changes. */
+function Dot({
+  active,
+  on,
+  onColor,
+  offColor,
+}: {
+  active: boolean
+  on: boolean
+  onColor: string
+  offColor: string
+}) {
+  const width = useSharedValue(active ? 18 : 6)
+  const progress = useSharedValue(on ? 1 : 0)
+
+  useEffect(() => {
+    width.value = withSpring(active ? 18 : 6, calmSpring)
+  }, [active, width])
+  useEffect(() => {
+    progress.value = withTiming(on ? 1 : 0, { duration: 200 })
+  }, [on, progress])
+
+  const style = useAnimatedStyle(() => ({
+    width: width.value,
+    backgroundColor: interpolateColor(progress.value, [0, 1], [offColor, onColor]),
+  }))
+
+  return <Animated.View style={[{ height: 6, borderRadius: 3 }, style]} />
+}
 
 /**
  * A row of dots. `fill` (default) lights every dot up to the active one — a
@@ -14,22 +54,22 @@ export function Dots({
   activeIndex: number
   fill?: boolean
 }) {
+  const theme = useTheme()
+  const onColor = theme.accent.val
+  const offColor = theme.accentSubtle.val
+
   return (
     <XStack gap="$xs" justifyContent="center" alignItems="center" accessibilityRole="progressbar">
-      {Array.from({ length: count }, (_, i) => {
-        const active = i === activeIndex
-        const on = fill ? i <= activeIndex : active
-        return (
-          <View
-            // biome-ignore lint/suspicious/noArrayIndexKey: fixed-length static dots
-            key={i}
-            width={active ? 18 : 6}
-            height={6}
-            borderRadius={3}
-            backgroundColor={on ? '$accent' : '$accentSubtle'}
-          />
-        )
-      })}
+      {Array.from({ length: count }, (_, i) => (
+        <Dot
+          // biome-ignore lint/suspicious/noArrayIndexKey: fixed-length static dots
+          key={i}
+          active={i === activeIndex}
+          on={fill ? i <= activeIndex : i === activeIndex}
+          onColor={onColor}
+          offColor={offColor}
+        />
+      ))}
     </XStack>
   )
 }
