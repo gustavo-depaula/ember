@@ -58,49 +58,90 @@ describe('resolveLiturgicalDay', () => {
     })
 
     it('resolves 1st Sunday of Post-Pentecost (Trinity) 2026', () => {
-      // 2026: Trinity = May 31
+      // 2026: Trinity = May 31. Trinity Sunday opens the post-Pentecost season
+      // (the engine puts Pentecost week itself in easter/8), so the meditation
+      // here is the Trinity one, not the Pentecost one.
       const result = resolveLiturgicalDay(d(2026, 5, 31), map)
+      const temporal = byCategory(result, 'temporal')
+      expect(temporal.length).toBeGreaterThan(0)
+      expect(temporal[0].id).toBe('festa-santissima-trindade')
+    })
+
+    it('resolves Pentecost Sunday 2026 to the Pentecost meditation', () => {
+      // 2026: Pentecost = May 24 (Easter+49), keyed easter/8/0.
+      const result = resolveLiturgicalDay(d(2026, 5, 24), map)
       const temporal = byCategory(result, 'temporal')
       expect(temporal.length).toBeGreaterThan(0)
       expect(temporal[0].id).toBe('amor-deus-com-homens-missao-espirito-santo')
     })
+
+    it('resolves Sacred Heart feast 2026 to its own meditation', () => {
+      // 2026: Sacred Heart = June 12 (Easter+68), keyed post-pentecost/2/5.
+      const result = resolveLiturgicalDay(d(2026, 6, 12), map)
+      const temporal = byCategory(result, 'temporal')
+      expect(temporal.length).toBeGreaterThan(0)
+      expect(temporal[0].id).toBe('festa-sagrado-coracao-jesus')
+    })
   })
 
-  // ── Fixed date additive entries ──
+  // ── Fixed-date meditations (Christmas season) ──
+  // On fixed-date-driven days (Dec 25–31, Jan 1–10) the temporal cycle has no
+  // entry, so the fixed-date content IS the day's meditation (not a reserve).
 
-  describe('fixed date additive entries', () => {
-    it('adds Christmas Day (Dec 25) as an additional entry', () => {
+  describe('fixed-date meditations (Christmas season)', () => {
+    it('uses Christmas Day (Dec 25) Nativity as the day meditation', () => {
       const result = resolveLiturgicalDay(d(2025, 12, 25), map)
-      expect(byCategory(result, 'temporal').length).toBeGreaterThan(0)
-      expect(ids(byCategory(result, 'additional'))).toEqual(
-        expect.arrayContaining(['natividade-nosso-senhor-jesus-cristo']),
-      )
+      const temporal = byCategory(result, 'temporal')
+      expect(temporal[0].id).toBe('natividade-nosso-senhor-jesus-cristo')
     })
 
-    it('adds Dec 26 fixed-date entry with secondary', () => {
+    it('uses Dec 26 fixed-date entry with secondary as the day meditation', () => {
       const result = resolveLiturgicalDay(d(2025, 12, 26), map)
-      expect(byCategory(result, 'temporal').length).toBeGreaterThan(0)
-      const additional = byCategory(result, 'additional')
-      expect(additional.length).toBeGreaterThanOrEqual(2)
-      expect(additional[0].id).toBe('festa-de-santo-estevao-protomartir')
-      expect(additional[1].id).toBe('visita-gruta-belem')
+      const temporal = byCategory(result, 'temporal')
+      expect(temporal.length).toBe(2)
+      expect(temporal[0].id).toBe('festa-de-santo-estevao-protomartir')
+      expect(temporal[1].id).toBe('visita-gruta-belem')
     })
 
-    it('adds Jan 1 (Circumcision) as an additional entry', () => {
+    it('uses Jan 1 (Circumcision) as the day meditation', () => {
       const result = resolveLiturgicalDay(d(2026, 1, 1), map)
-      expect(byCategory(result, 'temporal').length).toBeGreaterThan(0)
-      expect(ids(byCategory(result, 'additional'))).toEqual(
-        expect.arrayContaining(['circuncisao-jesus-sacramento-batismo']),
-      )
+      const temporal = byCategory(result, 'temporal')
+      expect(temporal[0].id).toBe('circuncisao-jesus-sacramento-batismo')
     })
 
-    it('adds Jan 6 (Epiphany) as an additional entry', () => {
+    it('uses Jan 6 (Epiphany) as the day meditation', () => {
       const result = resolveLiturgicalDay(d(2026, 1, 6), map)
-      expect(byCategory(result, 'temporal').length).toBeGreaterThan(0)
-      expect(ids(byCategory(result, 'additional'))).toEqual(
-        expect.arrayContaining(['epifania-nosso-senhor-jesus-cristo']),
-      )
+      const temporal = byCategory(result, 'temporal')
+      expect(temporal[0].id).toBe('epifania-nosso-senhor-jesus-cristo')
     })
+  })
+
+  // ── Sacred Heart octave week (regression: the reported "only additional
+  // meditations" bug — June 12–18 2026 used to fall through to reserves) ──
+
+  describe('Sacred Heart octave week resolves to real meditations (no reserves)', () => {
+    // The reserve pool is entirely santo-afonso-modelo-* (appendix) meditations;
+    // a correct day never resolves to one here.
+    const isReserve = (id: string) => id.startsWith('santo-afonso-modelo-')
+
+    const expected: Array<[number, string]> = [
+      [12, 'festa-sagrado-coracao-jesus'], // Sacred Heart feast (Easter+68)
+      [13, 'coracao-maria-imagem-fiel-coracao-jesus'],
+      [14, 'ovelha-perdida-pastor-divino'], // 3rd Sunday after Pentecost
+      [15, 'devemos-morrer'],
+      [16, 'da-pureza-intencao'],
+      [17, 'para-se-santificar-alma-deve-dar-se-toda-sem-reserva-deus'],
+      [18, 'santa-comunhao-nos-faz-perseverar-graca-divina'],
+    ]
+
+    for (const [day, id] of expected) {
+      it(`June ${day} 2026 → ${id}`, () => {
+        const temporal = byCategory(resolveLiturgicalDay(d(2026, 6, day), map), 'temporal')
+        expect(temporal.length).toBeGreaterThan(0)
+        expect(temporal[0].id).toBe(id)
+        expect(isReserve(temporal[0].id)).toBe(false)
+      })
+    }
   })
 
   // ── Feast day resolution ──
