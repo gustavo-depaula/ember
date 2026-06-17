@@ -2146,6 +2146,44 @@
     }
   },
   {
+    "formularyRef": "sanctorale.movable.05-32",
+    "dateRule": {
+      "type": "easter-relative",
+      "offsetDays": 69
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Sabbato post Dominicam secundam post Pentecosten Immaculati Cordis beatæ Maríæ Virginis",
+      "es": "Sábado tras el 2º domingo Pentecostés: El Inmaculado Corazón de la Virgen María",
+      "en-US": "Saturday after the Second Sunday after Pentecost The Immaculate Heart of the Blessed Virgin Mary",
+      "pt-BR": "Sábado após o 2º domingo depois de Pentecostes Imaculado Coração da Bem-aventurada Virgem Maria",
+      "it": "Sabato dopo la solennità del Sacratissimo Cuore di Gesù CUORE IMMACOLATO DELLA BEATA VERGINE MARIA",
+      "fr": "Samedi après le deuxième dimanche après la Pentecôte Cœur Immaculé de la bienheureuse Vierge Marie",
+      "de": "Samstag nach dem 2. Sonntag nach Pfingsten Unbeflecktes Herz Mariä"
+    }
+  },
+  {
+    "formularyRef": "sanctorale.movable.05-35",
+    "dateRule": {
+      "type": "easter-relative",
+      "offsetDays": 50
+    },
+    "rank": "memorial",
+    "color": "white",
+    "scope": "universal",
+    "title": {
+      "la": "Beatæ Mariæ Virginis Ecclésiæ Matris",
+      "es": "Bienaventurada Virgen María Madre de la Iglesia",
+      "en-US": "Blessed Virgin Mary Mother of the Church",
+      "pt-BR": "Segunda-feira depois de Pentecostes Bem-aventurada Virgem Maria, Mãe da Igreja",
+      "it": "Beata Vergine Maria Madre della Chiesa",
+      "fr": "Lundi de Pentecôte Bienheureuse Vierge Marie Mère de l’Église",
+      "de": "Selige Jungfrau Maria Mutter der Kirche"
+    }
+  },
+  {
     "formularyRef": "sanctorale.06-01",
     "dateRule": {
       "type": "fixed",
