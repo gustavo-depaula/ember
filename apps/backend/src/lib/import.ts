@@ -10,19 +10,25 @@ import { encodeGeohash } from './geo'
 // Reads `@ember/api` `ChurchDump` records, derives each church's slug id + geohash, then either
 // inserts via Drizzle (`importRows`) or emits a `.sql` dump (`rowsToSql`) for `wrangler d1 import`.
 
+// `sourceId -> generated id` for every dump church that carried a `sourceId`. Lets the (origin-blind)
+// producer line its own records up with the ids we slugged — the only thing flowing back out.
+export type IdMapping = { sourceId: string; id: string }
+
 export type BuiltRows = {
   churches: (typeof church.$inferInsert)[]
   services: (typeof service.$inferInsert)[]
   texts: (typeof churchText.$inferInsert)[]
   links: (typeof churchLink.$inferInsert)[]
+  mapping: IdMapping[]
 }
 
 export function buildRows(dump: ChurchDump[]): BuiltRows {
-  const rows: BuiltRows = { churches: [], services: [], texts: [], links: [] }
+  const rows: BuiltRows = { churches: [], services: [], texts: [], links: [], mapping: [] }
   const usedIds = new Set<string>()
 
   for (const d of dump) {
     const id = uniqueSlug([d.name, d.city, d.region], usedIds)
+    if (d.sourceId !== undefined) rows.mapping.push({ sourceId: d.sourceId, id })
     rows.churches.push({
       id,
       name: d.name,
@@ -94,6 +100,12 @@ export function rowsToSql(rows: BuiltRows): string {
   emit(churchText, rows.texts)
   emit(churchLink, rows.links)
   return out.join('\n')
+}
+
+// The `sourceId -> generated id` sidecar, one JSON object per line. The producer reads it back to
+// align its records with the slugged ids; the public side keeps no copy.
+export function mappingToJsonl(mapping: IdMapping[]): string {
+  return mapping.map((m) => JSON.stringify(m)).join('\n')
 }
 
 function inlineParams(sql: string, params: unknown[]): string {
