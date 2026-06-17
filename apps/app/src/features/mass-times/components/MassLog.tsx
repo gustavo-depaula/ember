@@ -54,6 +54,7 @@ function CheckInRow({
   locale: string
   onRemove: () => void
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
   const when = new Date(item.at).toLocaleString(locale, {
     weekday: 'short',
@@ -75,7 +76,14 @@ function CheckInRow({
               <Typography variant="interface" fontSize="$4" fontWeight="600">
                 {item.churchName}
               </Typography>
-              <Typography variant="annotation">{when}</Typography>
+              <Typography variant="annotation">
+                {t(`massTimes.kind.${item.kind}`)} · {when}
+              </Typography>
+              {item.note ? (
+                <Typography variant="annotation" tone="muted">
+                  {item.note}
+                </Typography>
+              ) : null}
             </YStack>
           </AnimatedPressable>
         </Link>
