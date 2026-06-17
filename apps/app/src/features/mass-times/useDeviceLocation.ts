@@ -1,4 +1,3 @@
-import * as Location from 'expo-location'
 import { useCallback, useEffect, useState } from 'react'
 
 // Catedral da Sé, São Paulo — the default vantage point until the user shares location. The current
@@ -20,6 +19,9 @@ export function useDeviceLocation(): DeviceLocation {
 
   const locate = useCallback(async (prompt: boolean) => {
     try {
+      // Dynamic import: expo-location binds its native module at import, so loading it here (not at
+      // file top) keeps the screen working before a native rebuild — the catch handles its absence.
+      const Location = await import('expo-location')
       const perm = prompt
         ? await Location.requestForegroundPermissionsAsync()
         : await Location.getForegroundPermissionsAsync()
