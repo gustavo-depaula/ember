@@ -1,13 +1,21 @@
-import type { Church } from '@ember/api'
 import { Link } from 'expo-router'
 import { ChevronRight } from 'lucide-react-native'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 import { Card, Typography } from '@/components'
 
-// A search result: name + where it is. Search has no schedule attached, so the row taps through to
-// the detail screen, which loads the full church.
-export function ChurchSearchRow({ church }: { church: Church }) {
+// Minimal church shape this row needs — satisfied by a full Church, a search hit, or a saved snapshot.
+export type ChurchRowData = {
+  id: string
+  name: string
+  address?: string | null
+  city?: string | null
+  region?: string | null
+}
+
+// A name + where-it-is row. Used for search hits and saved churches, which carry no schedule, so it
+// taps through to the detail screen that loads the full church.
+export function ChurchSearchRow({ church }: { church: ChurchRowData }) {
   const theme = useTheme()
   const where = [church.address, church.city, church.region].filter(Boolean).join(' · ')
 

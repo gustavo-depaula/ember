@@ -2017,6 +2017,10 @@ export default {
     searchPlaceholder: 'Search churches by name',
     searchHint: 'Type a church name to search.',
     noResults: 'No churches match that name.',
+    save: 'Save church',
+    saved: 'Saved',
+    savedSection: 'Saved',
+    nearbyHeading: 'Nearby',
     mapWeb: 'The map is available in the Ember app.',
     mapUnavailable: 'Map unavailable. Showing the list instead.',
     kind: {

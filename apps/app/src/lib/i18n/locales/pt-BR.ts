@@ -2025,6 +2025,10 @@ export default {
     searchPlaceholder: 'Buscar igrejas por nome',
     searchHint: 'Digite o nome de uma igreja para buscar.',
     noResults: 'Nenhuma igreja com esse nome.',
+    save: 'Salvar igreja',
+    saved: 'Salva',
+    savedSection: 'Salvas',
+    nearbyHeading: 'Por perto',
     mapWeb: 'O mapa está disponível no aplicativo Ember.',
     mapUnavailable: 'Mapa indisponível. Mostrando a lista.',
     kind: {

@@ -7,6 +7,7 @@ import { Card, Skeleton, Typography } from '@/components'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
 import { expandUpcoming, useChurch, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatTimeOfDay, kindLabel, serviceKindOrder } from '../format'
+import { FavoriteButton } from './FavoriteButton'
 import { OutlineChip } from './OutlineChip'
 import { QueryError } from './QueryError'
 
@@ -25,9 +26,19 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
   return (
     <YStack gap="$lg">
       <YStack gap="$xs">
-        <Typography variant="sacred-title" fontSize={26} textAlign="left">
-          {data.name}
-        </Typography>
+        <XStack justifyContent="space-between" alignItems="flex-start" gap="$md">
+          <Typography variant="sacred-title" fontSize={26} textAlign="left" flexShrink={1}>
+            {data.name}
+          </Typography>
+          <FavoriteButton
+            church={{
+              id: data.id,
+              name: data.name,
+              city: data.city ?? undefined,
+              region: data.region ?? undefined,
+            }}
+          />
+        </XStack>
         {data.address ? (
           <Typography variant="annotation">
             {[data.address, data.city, data.region].filter(Boolean).join(' · ')}
