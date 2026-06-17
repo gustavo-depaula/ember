@@ -1,8 +1,8 @@
 import { MapPin, Navigation } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { useTheme, XStack } from 'tamagui'
-import { Typography } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
+import { lightTap } from '@/lib/haptics'
 import type { DeviceLocation } from '../useDeviceLocation'
 
 // Whether we're showing the user's real position or the São Paulo default, plus a tap target to ask
@@ -18,7 +18,13 @@ export function LocationBar({ location }: { location: DeviceLocation }) {
         : 'massTimes.near'
 
   return (
-    <Pressable onPress={() => location.request()} disabled={location.status === 'locating'}>
+    <AnimatedPressable
+      onPress={() => {
+        void lightTap()
+        location.request()
+      }}
+      disabled={location.status === 'locating'}
+    >
       <XStack alignItems="center" gap="$xs">
         <MapPin size={14} color={theme.colorSecondary?.val} />
         <Typography variant="reference">{t(labelKey)}</Typography>
@@ -31,6 +37,6 @@ export function LocationBar({ location }: { location: DeviceLocation }) {
           </XStack>
         ) : null}
       </XStack>
-    </Pressable>
+    </AnimatedPressable>
   )
 }

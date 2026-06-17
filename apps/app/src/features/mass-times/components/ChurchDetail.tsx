@@ -1,9 +1,10 @@
 import type { ServiceKind } from '@ember/api'
 import { Globe, Mail, MapPin, Phone } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Linking, Platform, Pressable } from 'react-native'
+import { Linking, Platform } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { Card, Skeleton, Typography } from '@/components'
+import { AnimatedPressable, Card, Skeleton, Typography } from '@/components'
+import { lightTap } from '@/lib/haptics'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
 import { expandUpcoming, useChurch, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatTimeOfDay, kindLabel, serviceKindOrder } from '../format'
@@ -198,14 +199,19 @@ function ContactButton({
 }) {
   const theme = useTheme()
   return (
-    <Pressable onPress={() => void Linking.openURL(url)}>
+    <AnimatedPressable
+      onPress={() => {
+        void lightTap()
+        void Linking.openURL(url)
+      }}
+    >
       <OutlineChip gap="$xs" paddingHorizontal="$md" paddingVertical="$sm">
         <Icon size={15} color={theme.accent?.val} />
         <Typography variant="interface" fontSize="$3">
           {label}
         </Typography>
       </OutlineChip>
-    </Pressable>
+    </AnimatedPressable>
   )
 }
 

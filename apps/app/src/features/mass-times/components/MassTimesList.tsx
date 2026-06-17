@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { FlatList, RefreshControl } from 'react-native'
+import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
 import { useTheme, YStack } from 'tamagui'
 import { Skeleton, Typography } from '@/components'
 import type { MassTimesNearby } from '../useMassTimesNearby'
@@ -24,8 +25,13 @@ export function MassTimesList({ nearby }: { nearby: MassTimesNearby }) {
       <FlatList
         data={data}
         keyExtractor={(c) => c.id}
-        renderItem={({ item }) => (
-          <ChurchListItem church={item} locale={i18n.language} kind={kind} />
+        renderItem={({ item, index }) => (
+          <Animated.View
+            entering={FadeIn.duration(200).delay(Math.min(index, 8) * 40)}
+            layout={LinearTransition.duration(200)}
+          >
+            <ChurchListItem church={item} locale={i18n.language} kind={kind} />
+          </Animated.View>
         )}
         refreshControl={
           <RefreshControl

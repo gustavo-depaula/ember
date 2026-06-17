@@ -1,9 +1,8 @@
 import type { ServiceKind } from '@ember/api'
 import { Link } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { XStack } from 'tamagui'
-import { Card, Typography } from '@/components'
+import { AnimatedPressable, Card, Typography } from '@/components'
 import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatDistanceKm, formatTimeOfDay, kindLabel } from '../format'
@@ -28,7 +27,7 @@ export function ChurchListItem({
 
   return (
     <Link href={{ pathname: '/mass-times/[churchId]', params: { churchId: church.id } }} asChild>
-      <Pressable>
+      <AnimatedPressable>
         <Card gap="$sm">
           <XStack justifyContent="space-between" alignItems="flex-start" gap="$sm">
             <Typography variant="interface" fontSize="$4" fontWeight="600" flexShrink={1}>
@@ -61,7 +60,7 @@ export function ChurchListItem({
 
           <KindChips services={church.services} />
         </Card>
-      </Pressable>
+      </AnimatedPressable>
     </Link>
   )
 }

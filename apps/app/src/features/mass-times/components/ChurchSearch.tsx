@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList } from 'react-native'
+import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
 import { YStack } from 'tamagui'
 import { SearchInput, Skeleton, Typography } from '@/components'
 import { useChurchSearch } from '@/lib/mass-times'
@@ -42,7 +43,14 @@ export function ChurchSearch() {
         <FlatList
           data={data}
           keyExtractor={(c) => c.id}
-          renderItem={({ item }) => <ChurchSearchRow church={item} />}
+          renderItem={({ item, index }) => (
+            <Animated.View
+              entering={FadeIn.duration(180).delay(Math.min(index, 8) * 30)}
+              layout={LinearTransition.duration(180)}
+            >
+              <ChurchSearchRow church={item} />
+            </Animated.View>
+          )}
           ItemSeparatorComponent={() => <YStack height="$sm" />}
           keyboardShouldPersistTaps="handled"
           contentContainerStyle={{ paddingBottom: 32 }}

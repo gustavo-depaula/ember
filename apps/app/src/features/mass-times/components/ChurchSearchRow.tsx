@@ -1,8 +1,7 @@
 import { Link } from 'expo-router'
 import { ChevronRight } from 'lucide-react-native'
-import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { Card, Typography } from '@/components'
+import { AnimatedPressable, Card, Typography } from '@/components'
 
 // Minimal church shape this row needs — satisfied by a full Church, a search hit, or a saved snapshot.
 export type ChurchRowData = {
@@ -21,7 +20,7 @@ export function ChurchSearchRow({ church }: { church: ChurchRowData }) {
 
   return (
     <Link href={{ pathname: '/mass-times/[churchId]', params: { churchId: church.id } }} asChild>
-      <Pressable>
+      <AnimatedPressable>
         <Card>
           <XStack justifyContent="space-between" alignItems="center" gap="$sm">
             <YStack flexShrink={1} gap="$xs">
@@ -37,7 +36,7 @@ export function ChurchSearchRow({ church }: { church: ChurchRowData }) {
             <ChevronRight size={18} color={theme.colorSecondary?.val} />
           </XStack>
         </Card>
-      </Pressable>
+      </AnimatedPressable>
     </Link>
   )
 }

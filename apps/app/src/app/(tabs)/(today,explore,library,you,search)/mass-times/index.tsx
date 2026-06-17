@@ -3,9 +3,8 @@ import { useRouter } from 'expo-router'
 import { Search } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { PageHeader, ScreenLayout } from '@/components'
+import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
 import {
   ChurchesMap,
   KindFilter,
@@ -33,14 +32,14 @@ export default function MassTimesScreen() {
           title={t('massTimes.title')}
           action={
             <XStack alignItems="center" gap="$md">
-              <Pressable
+              <AnimatedPressable
                 onPress={() => router.push('/mass-times/search')}
                 hitSlop={8}
                 accessibilityRole="button"
                 accessibilityLabel={t('massTimes.searchPlaceholder')}
               >
                 <Search size={20} color={theme.colorSecondary?.val} />
-              </Pressable>
+              </AnimatedPressable>
               <ViewToggle value={mode} onChange={setMode} />
             </XStack>
           }

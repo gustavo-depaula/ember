@@ -1,9 +1,9 @@
 import type { CorrectionBody } from '@ember/api'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { Input, XStack, YStack } from 'tamagui'
-import { AnimatedCheckbox, Typography } from '@/components'
+import { AnimatedCheckbox, AnimatedPressable, Typography } from '@/components'
+import { selectionTick, successBuzz } from '@/lib/haptics'
 import { useSubmitCorrection, useVerifyChurch } from '@/lib/mass-times'
 import { OutlineChip } from './OutlineChip'
 
@@ -27,6 +27,7 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
       : { kind: 'note', comment: text }
     correction.mutate(body, {
       onSuccess: () => {
+        void successBuzz()
         setEditing(false)
         setComment('')
         setClosed(false)
@@ -55,7 +56,7 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
         ) : (
           <ChipButton
             label={t('massTimes.timesCorrect')}
-            onPress={() => verify.mutate()}
+            onPress={() => verify.mutate(undefined, { onSuccess: () => void successBuzz() })}
             disabled={verify.isPending}
           />
         )}
@@ -77,11 +78,19 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
             minHeight={80}
             verticalAlign="top"
           />
-          <Pressable onPress={() => setClosed((v) => !v)}>
+          <AnimatedPressable
+            onPress={() => {
+              void selectionTick()
+              setClosed((v) => !v)
+            }}
+          >
             <XStack alignItems="center" gap="$sm">
               <AnimatedCheckbox
                 checked={closed}
-                onToggle={() => setClosed((v) => !v)}
+                onToggle={() => {
+                  void selectionTick()
+                  setClosed((v) => !v)
+                }}
                 accessibilityLabel={t('massTimes.markClosed')}
                 size={22}
                 subtle
@@ -90,7 +99,7 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
                 {t('massTimes.markClosed')}
               </Typography>
             </XStack>
-          </Pressable>
+          </AnimatedPressable>
           <XStack gap="$sm">
             <ChipButton label={t('massTimes.submit')} onPress={submit} disabled={!canSubmit} />
             <ChipButton label={t('massTimes.cancel')} onPress={() => setEditing(false)} />
@@ -113,7 +122,7 @@ function ChipButton({
   active?: boolean
 }) {
   return (
-    <Pressable onPress={onPress} disabled={disabled} accessibilityRole="button">
+    <AnimatedPressable onPress={onPress} disabled={disabled} accessibilityRole="button">
       <OutlineChip
         paddingHorizontal="$md"
         paddingVertical="$sm"
@@ -124,6 +133,6 @@ function ChipButton({
           {label}
         </Typography>
       </OutlineChip>
-    </Pressable>
+    </AnimatedPressable>
   )
 }

@@ -1,9 +1,11 @@
 import { Link } from 'expo-router'
 import { Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { FlatList, Pressable } from 'react-native'
+import { FlatList } from 'react-native'
+import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { Card, Typography } from '@/components'
+import { AnimatedPressable, Card, Typography } from '@/components'
+import { mediumTap } from '@/lib/haptics'
 import type { CheckIn } from '../checkins'
 import { useCheckInsStore, useRecentCheckIns } from '../checkins'
 
@@ -28,7 +30,13 @@ export function MassLog() {
       data={checkins}
       keyExtractor={(c) => c.id}
       renderItem={({ item }) => (
-        <CheckInRow item={item} locale={i18n.language} onRemove={() => remove(item.id)} />
+        <Animated.View
+          entering={FadeIn.duration(200)}
+          exiting={FadeOut.duration(150)}
+          layout={LinearTransition.duration(200)}
+        >
+          <CheckInRow item={item} locale={i18n.language} onRemove={() => remove(item.id)} />
+        </Animated.View>
       )}
       ItemSeparatorComponent={() => <YStack height="$sm" />}
       contentContainerStyle={{ paddingBottom: 32 }}
@@ -62,18 +70,25 @@ function CheckInRow({
           href={{ pathname: '/mass-times/[churchId]', params: { churchId: item.churchId } }}
           asChild
         >
-          <Pressable style={{ flexShrink: 1 }}>
+          <AnimatedPressable style={{ flexShrink: 1 }}>
             <YStack flexShrink={1} gap="$xs">
               <Typography variant="interface" fontSize="$4" fontWeight="600">
                 {item.churchName}
               </Typography>
               <Typography variant="annotation">{when}</Typography>
             </YStack>
-          </Pressable>
+          </AnimatedPressable>
         </Link>
-        <Pressable onPress={onRemove} hitSlop={10} accessibilityRole="button">
+        <AnimatedPressable
+          onPress={() => {
+            void mediumTap()
+            onRemove()
+          }}
+          hitSlop={10}
+          accessibilityRole="button"
+        >
           <Trash2 size={18} color={theme.colorSecondary?.val} />
-        </Pressable>
+        </AnimatedPressable>
       </XStack>
     </Card>
   )

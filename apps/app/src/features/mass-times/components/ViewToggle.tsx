@@ -1,7 +1,8 @@
 import { List, MapIcon } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { useTheme, XStack } from 'tamagui'
+import { AnimatedPressable } from '@/components'
+import { selectionTick } from '@/lib/haptics'
 
 export type ViewMode = 'list' | 'map'
 
@@ -27,9 +28,12 @@ export function ViewToggle({
       {items.map(({ mode, Icon }) => {
         const active = value === mode
         return (
-          <Pressable
+          <AnimatedPressable
             key={mode}
-            onPress={() => onChange(mode)}
+            onPress={() => {
+              if (!active) void selectionTick()
+              onChange(mode)
+            }}
             accessibilityRole="button"
             accessibilityState={{ selected: active }}
             accessibilityLabel={t(`massTimes.${mode}`)}
@@ -42,7 +46,7 @@ export function ViewToggle({
             >
               <Icon size={16} color={active ? theme.background?.val : theme.colorSecondary?.val} />
             </XStack>
-          </Pressable>
+          </AnimatedPressable>
         )
       })}
     </XStack>

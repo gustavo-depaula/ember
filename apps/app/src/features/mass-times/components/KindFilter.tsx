@@ -1,8 +1,8 @@
 import type { ServiceKind } from '@ember/api'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { XStack } from 'tamagui'
-import { Typography } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
+import { selectionTick } from '@/lib/haptics'
 import { kindLabel, serviceKindOrder } from '../format'
 import { OutlineChip } from './OutlineChip'
 
@@ -25,9 +25,12 @@ export function KindFilter({
       {options.map((opt) => {
         const active = value === opt.key
         return (
-          <Pressable
+          <AnimatedPressable
             key={opt.key ?? 'all'}
-            onPress={() => onChange(opt.key)}
+            onPress={() => {
+              void selectionTick()
+              onChange(opt.key)
+            }}
             accessibilityRole="button"
             accessibilityState={{ selected: active }}
           >
@@ -44,7 +47,7 @@ export function KindFilter({
                 {opt.label}
               </Typography>
             </OutlineChip>
-          </Pressable>
+          </AnimatedPressable>
         )
       })}
     </XStack>

@@ -2041,6 +2041,7 @@ export default {
     cancel: 'Cancelar',
     correctionThanks: 'Obrigado — vamos analisar sua sugestão.',
     checkIn: 'Participei da Missa aqui',
+    checkedIn: 'Check-in feito',
     attendanceCount_one: 'Você participou 1 vez',
     attendanceCount_other: 'Você participou {{count}} vezes',
     lastAttended: 'última em {{date}}',

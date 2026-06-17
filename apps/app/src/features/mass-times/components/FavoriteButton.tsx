@@ -1,7 +1,8 @@
 import { Heart } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import { useTheme } from 'tamagui'
+import { AnimatedPressable } from '@/components'
+import { selectionTick } from '@/lib/haptics'
 import type { FavoriteChurch } from '../favorites'
 import { useFavoritesStore, useIsFavorite } from '../favorites'
 
@@ -13,8 +14,11 @@ export function FavoriteButton({ church, size = 22 }: { church: FavoriteChurch; 
   const toggle = useFavoritesStore((s) => s.toggle)
 
   return (
-    <Pressable
-      onPress={() => toggle(church)}
+    <AnimatedPressable
+      onPress={() => {
+        void selectionTick()
+        toggle(church)
+      }}
       hitSlop={10}
       accessibilityRole="button"
       accessibilityState={{ selected: saved }}
@@ -25,6 +29,6 @@ export function FavoriteButton({ church, size = 22 }: { church: FavoriteChurch; 
         color={theme.colorBurgundy?.val}
         fill={saved ? theme.colorBurgundy?.val : 'transparent'}
       />
-    </Pressable>
+    </AnimatedPressable>
   )
 }

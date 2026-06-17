@@ -2033,6 +2033,7 @@ export default {
     cancel: 'Cancel',
     correctionThanks: 'Thank you — we’ll review your suggestion.',
     checkIn: 'I attended Mass here',
+    checkedIn: 'Checked in',
     attendanceCount_one: 'Attended once',
     attendanceCount_other: 'Attended {{count}} times',
     lastAttended: 'last on {{date}}',
