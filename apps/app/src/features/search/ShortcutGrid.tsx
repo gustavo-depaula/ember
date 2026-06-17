@@ -159,3 +159,117 @@ export function ShortcutGrid({ items }: { items: ShortcutTileData[] }) {
     </XStack>
   )
 }
+
+// Full content width (one tile + gutter + one tile), so the banner spans exactly two cards.
+function useBannerWidth(): number {
+  const { width } = useWindowDimensions()
+  return Math.min(width, maxContentWidth) - pagePadding * 2
+}
+
+/**
+ * A wide, two-card-spanning banner in the same jewel language as the grid — same height as a single
+ * tile, but laid out horizontally: an icon on the left, the title + subtitle right-aligned on the
+ * right. For a marquee feature that earns its own line above the grid.
+ */
+export function WideShortcutCard({
+  title,
+  subtitle,
+  tone,
+  href,
+  onPress,
+  icon: Icon,
+}: {
+  title: string
+  subtitle?: string
+  tone: BlockTone
+  href?: Href
+  onPress?: () => void
+  icon?: ComponentType<{ size?: number; color?: string }>
+}) {
+  const width = useBannerWidth()
+  const height = Math.round(useTileSize() * tileAspect) // match the grid tiles' height
+  const [top, bottom] = softStops(tone)
+  const gid = `g-wide-${tone.from.slice(1)}`
+
+  const card = (
+    <AnimatedPressable
+      onPress={href ? undefined : onPress}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
+      <YStack
+        width={width}
+        height={height}
+        borderRadius={16}
+        overflow="hidden"
+        backgroundColor={bottom}
+        shadowColor="#000"
+        shadowOffset={{ width: 0, height: 4 }}
+        shadowOpacity={0.16}
+        shadowRadius={10}
+      >
+        <Svg width={width} height={height} style={StyleSheet.absoluteFill}>
+          <Defs>
+            <LinearGradient id={gid} x1="0" y1="0" x2="0" y2="1">
+              <Stop offset="0" stopColor={top} />
+              <Stop offset="1" stopColor={bottom} />
+            </LinearGradient>
+          </Defs>
+          <Rect width={width} height={height} fill={`url(#${gid})`} />
+        </Svg>
+
+        {/* Faded icon watermark, inset from the left edge (sits behind the right-aligned title). */}
+        {Icon && (
+          <XStack
+            position="absolute"
+            top={0}
+            bottom={0}
+            left={width * 0.09}
+            alignItems="center"
+            opacity={0.16}
+          >
+            <Icon size={Math.round(height * 0.62)} color={blockInk} />
+          </XStack>
+        )}
+
+        <YStack flex={1} justifyContent="center" alignItems="flex-end" paddingHorizontal="$lg">
+          {/* One Text per line: each keeps a roomy line-height so the caps never clip, while the
+              negative margin on later lines tightens the space *between* lines independently. */}
+          {title.split('\n').map((line, i) => (
+            <Text
+              key={line}
+              fontFamily="$title"
+              color={blockInk}
+              fontSize={Math.round(height * 0.26)}
+              lineHeight={Math.round(height * 0.32)}
+              textAlign="right"
+              marginTop={i === 0 ? 0 : -Math.round(height * 0.08)}
+            >
+              {line}
+            </Text>
+          ))}
+          {subtitle ? (
+            <Text
+              fontFamily="$body"
+              color={blockInk}
+              opacity={0.85}
+              fontSize={Math.round(height * 0.105)}
+              textAlign="right"
+              marginTop={-Math.round(height * 0.05)}
+            >
+              {subtitle}
+            </Text>
+          ) : null}
+        </YStack>
+      </YStack>
+    </AnimatedPressable>
+  )
+
+  if (href)
+    return (
+      <ZoomLink href={href} onPress={onPress}>
+        {card}
+      </ZoomLink>
+    )
+  return card
+}

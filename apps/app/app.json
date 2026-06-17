@@ -40,6 +40,12 @@
       "typedRoutes": true
     },
     "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": { "deploymentTarget": "16.4" }
+        }
+      ],
       "expo-router",
       "expo-sqlite",
       "expo-font",
@@ -47,6 +53,19 @@
       "expo-audio",
       "expo-image",
       "expo-localization",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Allow Ember to use your location to find Mass and confession times at nearby churches."
+        }
+      ],
+      "expo-maps",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Ember to attach a photo (e.g. a parish bulletin) to your correction."
+        }
+      ],
       "expo-status-bar",
       "expo-web-browser",
       "@react-native-community/datetimepicker",

@@ -1,0 +1,134 @@
+import { CalendarCheck, Check } from 'lucide-react-native'
+import { useState } from 'react'
+import { useTranslation } from 'react-i18next'
+import Animated, { FadeIn } from 'react-native-reanimated'
+import { Input, useTheme, XStack, YStack } from 'tamagui'
+import { Typography } from '@/components'
+import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
+import type { CheckInKind } from '../checkins'
+import { useCheckInsStore, useChurchAttendance } from '../checkins'
+import { ChipButton } from './ChipButton'
+import { OutlineChip } from './OutlineChip'
+
+const kinds: CheckInKind[] = ['mass', 'confession', 'adoration', 'visit']
+
+// Church check-in: record a visit and what you were there for. A Mass check-in also completes the
+// "mass" practice for today, so Mass attendance flows into the plan of life rather than being a
+// parallel tally. Inline disclosure (no modal), with a success haptic + brief confirmation.
+export function CheckInButton({
+  church,
+  locale,
+}: {
+  church: { id: string; name: string }
+  locale: string
+}) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const checkIn = useCheckInsStore((s) => s.checkIn)
+  const { count, last } = useChurchAttendance(church.id)
+
+  const [open, setOpen] = useState(false)
+  const [kind, setKind] = useState<CheckInKind>('mass')
+  const [note, setNote] = useState('')
+  const [justChecked, setJustChecked] = useState<CheckInKind | undefined>(undefined)
+
+  const confirm = () => {
+    void successBuzz()
+    checkIn(church, { kind, note }) // a Mass check-in completes the "mass" practice (store handles it)
+    setJustChecked(kind)
+    setOpen(false)
+    setNote('')
+    setKind('mass')
+    setTimeout(() => setJustChecked(undefined), 2200)
+  }
+
+  if (justChecked) {
+    return (
+      <Animated.View entering={FadeIn.duration(200)}>
+        <YStack gap="$xs" alignItems="flex-start">
+          <OutlineChip
+            gap="$xs"
+            paddingHorizontal="$md"
+            paddingVertical="$sm"
+            backgroundColor="$accent"
+          >
+            <Check size={16} color={theme.background?.val} />
+            <Typography variant="interface" fontSize="$3" color="$background">
+              {t('massTimes.checkedIn')}
+            </Typography>
+          </OutlineChip>
+          {justChecked === 'mass' ? (
+            <Typography variant="annotation">{t('massTimes.massCompleted')}</Typography>
+          ) : null}
+        </YStack>
+      </Animated.View>
+    )
+  }
+
+  if (!open) {
+    return (
+      <YStack gap="$xs" alignItems="flex-start">
+        <ChipButton
+          label={t('massTimes.checkIn')}
+          icon={<CalendarCheck size={16} color={theme.accent?.val} />}
+          onPress={() => {
+            void lightTap()
+            setOpen(true)
+          }}
+        />
+        {count > 0 ? (
+          <Typography variant="annotation">
+            {t('massTimes.attendanceCount', { count })}
+            {last
+              ? ` · ${t('massTimes.lastAttended', {
+                  date: new Date(last).toLocaleDateString(locale, {
+                    month: 'short',
+                    day: 'numeric',
+                  }),
+                })}`
+              : ''}
+          </Typography>
+        ) : null}
+      </YStack>
+    )
+  }
+
+  return (
+    <Animated.View entering={FadeIn.duration(180)}>
+      <YStack gap="$sm">
+        <Typography variant="label">{t('massTimes.checkInPrompt')}</Typography>
+        <XStack gap="$sm" flexWrap="wrap">
+          {kinds.map((k) => (
+            <ChipButton
+              key={k}
+              label={t(`massTimes.kind.${k}`)}
+              selected={kind === k}
+              onPress={() => {
+                void selectionTick()
+                setKind(k)
+              }}
+            />
+          ))}
+        </XStack>
+        <Input
+          value={note}
+          onChangeText={setNote}
+          placeholder={t('massTimes.checkInNotePlaceholder')}
+          multiline
+          numberOfLines={2}
+          minHeight={56}
+          verticalAlign="top"
+        />
+        {kind === 'mass' ? (
+          <Typography variant="reference" tone="muted">
+            {t('massTimes.checkInMassHint')}
+          </Typography>
+        ) : null}
+        <XStack gap="$sm">
+          <ChipButton label={t('massTimes.checkInConfirm')} selected onPress={confirm} />
+          <ChipButton label={t('massTimes.cancel')} onPress={() => setOpen(false)} />
+        </XStack>
+      </YStack>
+    </Animated.View>
+  )
+}

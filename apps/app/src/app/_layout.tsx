@@ -60,6 +60,9 @@ import { reconcileAllEnforcement } from '@/features/custody/enforcement'
 import { setupCustodyNotifications } from '@/features/custody/notifications'
 import { drainShieldEvents } from '@/features/custody/shieldEvents'
 import { syncCommitmentSnapshots } from '@/features/custody/syncSnapshots'
+import { useCheckInsStore } from '@/features/mass-times/checkins'
+import { useFavoritesStore } from '@/features/mass-times/favorites'
+import { useRemindersStore } from '@/features/mass-times/reminders'
 import { useExpirySweep } from '@/features/movements'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
@@ -151,13 +154,27 @@ export default function RootLayout() {
   } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
   const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
+  const hydrateFavorites = useFavoritesStore((s) => s.hydrate)
+  const hydrateCheckIns = useCheckInsStore((s) => s.hydrate)
+  const hydrateReminders = useRemindersStore((s) => s.hydrate)
 
   useEffect(() => {
     if (!dbReady) return
     hydratePrefs()
     hydrateBible()
     hydrateCatechism()
-  }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism])
+    hydrateFavorites()
+    hydrateCheckIns()
+    hydrateReminders()
+  }, [
+    dbReady,
+    hydratePrefs,
+    hydrateBible,
+    hydrateCatechism,
+    hydrateFavorites,
+    hydrateCheckIns,
+    hydrateReminders,
+  ])
 
   const [seeded, setSeeded] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)

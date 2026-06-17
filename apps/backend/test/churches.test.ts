@@ -93,6 +93,12 @@ describe('GET /churches (browse + FTS)', () => {
     expect(ids).toEqual(['st-joseph-b'])
   })
 
+  it('matches a partial token as a prefix (search-as-you-type)', async () => {
+    const res = await app.request('/churches?q=Jos', {}, env)
+    const ids = (await json(res)).churches.map((c) => c.id)
+    expect(ids).toEqual(['st-joseph-b'])
+  })
+
   it('applies kind/rite service-filter on the browse path too', async () => {
     const res = await app.request('/churches?rite=latin_tridentine', {}, env)
     const ids = (await json(res)).churches.map((c) => c.id)

@@ -28,7 +28,7 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
 import { SearchAutocomplete } from '@/features/practices/components'
-import { ShortcutGrid, type ShortcutTileData } from '@/features/search'
+import { ShortcutGrid, type ShortcutTileData, WideShortcutCard } from '@/features/search'
 import { localizeContent } from '@/lib/i18n'
 
 const flourishDark = require('../../../../assets/textures/notch_search_dark.png')
@@ -180,6 +180,13 @@ export default function SearchScreen() {
         ) : (
           <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
             <PageHeader title={t('nav.searchPlaceholder')} />
+            <WideShortcutCard
+              title={t('massTimes.cardTitle')}
+              subtitle={t('massTimes.exploreTagline')}
+              icon={Church}
+              tone={toneForKey('mass-times')}
+              href="/mass-times"
+            />
             <Section title={t('search.sectionPray')}>
               <ShortcutGrid items={withTones(prayTiles)} />
             </Section>
