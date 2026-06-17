@@ -224,7 +224,7 @@ export function WideShortcutCard({
             position="absolute"
             top={0}
             bottom={0}
-            left={width * 0.13}
+            left={width * 0.09}
             alignItems="center"
             opacity={0.16}
           >
