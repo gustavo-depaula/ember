@@ -53,6 +53,7 @@
           "locationWhenInUsePermission": "Allow Ember to use your location to find Mass and confession times at nearby churches."
         }
       ],
+      "expo-maps",
       "expo-status-bar",
       "expo-web-browser",
       "@react-native-community/datetimepicker",

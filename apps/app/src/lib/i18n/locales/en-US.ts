@@ -2012,6 +2012,10 @@ export default {
     error: 'Couldn’t load churches.',
     distanceAway: '{{distance}} away',
     lastVerified: 'Verified {{date}}',
+    list: 'List',
+    map: 'Map',
+    mapWeb: 'The map is available in the Ember app.',
+    mapUnavailable: 'Map unavailable. Showing the list instead.',
     kind: {
       mass: 'Mass',
       confession: 'Confession',

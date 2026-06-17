@@ -2020,6 +2020,10 @@ export default {
     error: 'Não foi possível carregar as igrejas.',
     distanceAway: 'a {{distance}}',
     lastVerified: 'Verificado em {{date}}',
+    list: 'Lista',
+    map: 'Mapa',
+    mapWeb: 'O mapa está disponível no aplicativo Ember.',
+    mapUnavailable: 'Mapa indisponível. Mostrando a lista.',
     kind: {
       mass: 'Missa',
       confession: 'Confissão',

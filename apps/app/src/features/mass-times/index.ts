@@ -1,3 +1,6 @@
 export { ChurchDetail } from './components/ChurchDetail'
-export { MassTimesNearby } from './components/MassTimesNearby'
+export { ChurchesMap } from './components/ChurchesMap'
+export { MassTimesList } from './components/MassTimesList'
+export { type ViewMode, ViewToggle } from './components/ViewToggle'
 export { type DeviceLocation, useDeviceLocation } from './useDeviceLocation'
+export { type MassTimesNearby, useMassTimesNearby } from './useMassTimesNearby'
