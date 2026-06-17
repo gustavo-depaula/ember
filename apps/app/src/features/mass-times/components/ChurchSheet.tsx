@@ -6,7 +6,15 @@ import {
   presentationDetents,
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
-import { ChevronLeft, Church, Search, SlidersHorizontal, X } from 'lucide-react-native'
+import {
+  CalendarCheck,
+  ChevronLeft,
+  ChevronRight,
+  Church,
+  Search,
+  SlidersHorizontal,
+  X,
+} from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, ScrollView, StyleSheet, View } from 'react-native'
@@ -16,6 +24,7 @@ import { AnimatedPressable, Skeleton, Typography } from '@/components'
 import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, useChurchSearch, wallClockNow } from '@/lib/mass-times'
 import { useDebounced } from '@/lib/useDebounced'
+import { useCheckInCount } from '../checkins'
 import { dayLabel, formatDistanceKm, formatTimeOfDay } from '../format'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 import { ChurchDetail } from './ChurchDetail'
@@ -24,6 +33,7 @@ import { ChurchListItem } from './ChurchListItem'
 import { type ChurchRowData, ChurchSearchRow } from './ChurchSearchRow'
 import { useGlassTile } from './glass'
 import { LocationBar } from './LocationBar'
+import { MassLog } from './MassLog'
 import { SavedChurches } from './SavedChurches'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
@@ -50,11 +60,13 @@ export function ChurchSheet({
   onOpenFilters: () => void
 }) {
   const [selected, setSelected] = useState<Selected | undefined>(undefined)
+  const [showLog, setShowLog] = useState(false)
   const [detent, setDetent] = useState<PresentationDetent>(PEEK)
   const [query, setQuery] = useState('')
 
   const select = (church: Selected) => {
     setSelected(church)
+    setShowLog(false)
     setDetent(HALF) // lift the sheet so the detail is visible
   }
 
@@ -86,6 +98,11 @@ export function ChurchSheet({
             <View style={styles.fill}>
               {selected ? (
                 <ChurchDetailPane churchId={selected.id} onBack={() => setSelected(undefined)} />
+              ) : showLog ? (
+                <LogPane
+                  onBack={() => setShowLog(false)}
+                  onSelectChurch={(c) => select({ id: c.id, name: c.name })}
+                />
               ) : (
                 <BrowseSearch
                   nearby={nearby}
@@ -95,6 +112,10 @@ export function ChurchSheet({
                   onQuery={setQuery}
                   onFocusSearch={() => setDetent(FULL)}
                   onOpenFilters={onOpenFilters}
+                  onOpenLog={() => {
+                    setShowLog(true)
+                    setDetent(HALF)
+                  }}
                   onSelectNearby={(c) => select({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
                   onSelectRow={(c) => select({ id: c.id, name: c.name })}
                 />
@@ -111,31 +132,11 @@ function noop() {}
 
 // Place mode: the full church detail in the sheet, with a back affordance to the browse list.
 function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () => void }) {
-  const { t } = useTranslation()
-  const theme = useTheme()
   const insets = useSafeAreaInsets()
-  const tile = useGlassTile()
   return (
     <View style={styles.fill}>
       <XStack paddingHorizontal="$md" paddingTop="$xs" paddingBottom="$sm">
-        <AnimatedPressable
-          onPress={onBack}
-          hitSlop={8}
-          accessibilityRole="button"
-          accessibilityLabel={t('massTimes.back')}
-        >
-          <XStack
-            backgroundColor={tile}
-            borderRadius={18}
-            height={36}
-            paddingHorizontal="$sm"
-            alignItems="center"
-            gap="$xs"
-          >
-            <ChevronLeft size={18} color={theme.colorSecondary?.val} />
-            <Typography variant="annotation">{t('massTimes.nearbyHeading')}</Typography>
-          </XStack>
-        </AnimatedPressable>
+        <SheetBackButton onPress={onBack} />
       </XStack>
       <ScrollView
         nestedScrollEnabled
@@ -149,6 +150,61 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
   )
 }
 
+// The check-in history as a sheet sub-view (like place mode), with a back to browse. Tapping an entry
+// opens that church in place.
+function LogPane({
+  onBack,
+  onSelectChurch,
+}: {
+  onBack: () => void
+  onSelectChurch: (church: { id: string; name: string }) => void
+}) {
+  const { t } = useTranslation()
+  return (
+    <View style={styles.fill}>
+      <XStack
+        paddingHorizontal="$md"
+        paddingTop="$xs"
+        paddingBottom="$sm"
+        alignItems="center"
+        gap="$sm"
+      >
+        <SheetBackButton onPress={onBack} />
+        <Typography variant="label">{t('massTimes.massLog')}</Typography>
+      </XStack>
+      <View style={{ flex: 1, paddingHorizontal: 16 }}>
+        <MassLog onSelectChurch={onSelectChurch} onGlass />
+      </View>
+    </View>
+  )
+}
+
+function SheetBackButton({ onPress }: { onPress: () => void }) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const tile = useGlassTile()
+  return (
+    <AnimatedPressable
+      onPress={onPress}
+      hitSlop={8}
+      accessibilityRole="button"
+      accessibilityLabel={t('massTimes.back')}
+    >
+      <XStack
+        backgroundColor={tile}
+        borderRadius={18}
+        height={36}
+        paddingHorizontal="$sm"
+        alignItems="center"
+        gap="$xs"
+      >
+        <ChevronLeft size={18} color={theme.colorSecondary?.val} />
+        <Typography variant="annotation">{t('massTimes.nearbyHeading')}</Typography>
+      </XStack>
+    </AnimatedPressable>
+  )
+}
+
 // Browse + inline search in one list (Apple Maps style): typing in the search field swaps the nearby
 // list for full-text results, in place — no separate page.
 function BrowseSearch({
@@ -159,6 +215,7 @@ function BrowseSearch({
   onQuery,
   onFocusSearch,
   onOpenFilters,
+  onOpenLog,
   onSelectNearby,
   onSelectRow,
 }: {
@@ -169,6 +226,7 @@ function BrowseSearch({
   onQuery: (q: string) => void
   onFocusSearch: () => void
   onOpenFilters: () => void
+  onOpenLog: () => void
   onSelectNearby: (church: NearbyChurch) => void
   onSelectRow: (church: ChurchRowData) => void
 }) {
@@ -176,6 +234,7 @@ function BrowseSearch({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const tile = useGlassTile()
+  const checkInCount = useCheckInCount()
   const churches = nearby.churches ?? []
 
   const debounced = useDebounced(query.trim(), 250)
@@ -271,6 +330,29 @@ function BrowseSearch({
               <LocationBar location={nearby.location} />
               <NextMassNearby churches={churches} locale={locale} />
               <SavedChurches onSelect={onSelectRow} onGlass />
+              {checkInCount > 0 ? (
+                <AnimatedPressable
+                  onPress={onOpenLog}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('massTimes.massLog')}
+                >
+                  <XStack
+                    backgroundColor={tile}
+                    borderRadius="$lg"
+                    paddingVertical="$sm"
+                    paddingHorizontal="$md"
+                    alignItems="center"
+                    gap="$md"
+                  >
+                    <CalendarCheck size={20} color={theme.accent?.val} />
+                    <Typography variant="interface" fontSize="$3" flex={1}>
+                      {t('massTimes.massLog')}
+                    </Typography>
+                    <Typography variant="annotation">{checkInCount}</Typography>
+                    <ChevronRight size={18} color={theme.colorSecondary?.val} />
+                  </XStack>
+                </AnimatedPressable>
+              ) : null}
               {churches.length > 0 ? (
                 <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>
               ) : null}

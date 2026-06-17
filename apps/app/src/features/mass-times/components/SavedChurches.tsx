@@ -10,7 +10,7 @@ export function SavedChurches({
   onSelect,
   onGlass,
 }: {
-  onSelect?: (church: ChurchRowData) => void
+  onSelect: (church: ChurchRowData) => void
   onGlass?: boolean
 }) {
   const { t } = useTranslation()

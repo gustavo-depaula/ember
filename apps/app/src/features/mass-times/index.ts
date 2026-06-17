@@ -5,11 +5,8 @@ export {
   useChurchAttendance,
   useRecentCheckIns,
 } from './checkins'
-export { BackHeader } from './components/BackHeader'
-export { ChurchDetail } from './components/ChurchDetail'
 export { ChurchSheet } from './components/ChurchSheet'
 export { MassFilterSheet } from './components/MassFilterSheet'
-export { MassLog } from './components/MassLog'
 export {
   type FavoriteChurch,
   useFavoriteChurches,
