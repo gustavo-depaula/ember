@@ -37,6 +37,7 @@ import { MassLog } from './MassLog'
 import { SavedChurches } from './SavedChurches'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
+type SheetView = { kind: 'browse' } | { kind: 'detail'; church: Selected } | { kind: 'log' }
 
 // Stable detent identities (the native selection compares by value — keep them steady).
 const PEEK: PresentationDetent = { fraction: 0.16 }
@@ -59,16 +60,17 @@ export function ChurchSheet({
   filterCount: number
   onOpenFilters: () => void
 }) {
-  const [selected, setSelected] = useState<Selected | undefined>(undefined)
-  const [showLog, setShowLog] = useState(false)
+  // One mode at a time: browse/search, a selected church's detail, or the check-in log. A discriminated
+  // union (not two booleans) keeps the three exclusive and carries the selected church with the detail.
+  const [view, setView] = useState<SheetView>({ kind: 'browse' })
   const [detent, setDetent] = useState<PresentationDetent>(PEEK)
   const [query, setQuery] = useState('')
 
-  const select = (church: Selected) => {
-    setSelected(church)
-    setShowLog(false)
+  const openDetail = (church: Selected) => {
+    setView({ kind: 'detail', church })
     setDetent(HALF) // lift the sheet so the detail is visible
   }
+  const browse = () => setView({ kind: 'browse' })
 
   return (
     // ignoreSafeArea="all" so the hosted map bleeds edge to edge (through the notch + home indicator)
@@ -78,9 +80,9 @@ export function ChurchSheet({
         <View style={styles.fill}>
           <ChurchesMap
             nearby={nearby}
-            focused={selected}
+            focused={view.kind === 'detail' ? view.church : undefined}
             bottomInset={150}
-            onSelectChurch={(c) => select({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
+            onSelectChurch={(c) => openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
           />
         </View>
       </RNHostView>
@@ -96,12 +98,12 @@ export function ChurchSheet({
         >
           <RNHostView>
             <View style={styles.fill}>
-              {selected ? (
-                <ChurchDetailPane churchId={selected.id} onBack={() => setSelected(undefined)} />
-              ) : showLog ? (
+              {view.kind === 'detail' ? (
+                <ChurchDetailPane churchId={view.church.id} onBack={browse} />
+              ) : view.kind === 'log' ? (
                 <LogPane
-                  onBack={() => setShowLog(false)}
-                  onSelectChurch={(c) => select({ id: c.id, name: c.name })}
+                  onBack={browse}
+                  onSelectChurch={(c) => openDetail({ id: c.id, name: c.name })}
                 />
               ) : (
                 <BrowseSearch
@@ -113,11 +115,13 @@ export function ChurchSheet({
                   onFocusSearch={() => setDetent(FULL)}
                   onOpenFilters={onOpenFilters}
                   onOpenLog={() => {
-                    setShowLog(true)
+                    setView({ kind: 'log' })
                     setDetent(HALF)
                   }}
-                  onSelectNearby={(c) => select({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
-                  onSelectRow={(c) => select({ id: c.id, name: c.name })}
+                  onSelectNearby={(c) =>
+                    openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })
+                  }
+                  onSelectRow={(c) => openDetail({ id: c.id, name: c.name })}
                 />
               )}
             </View>
@@ -135,9 +139,7 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
   const insets = useSafeAreaInsets()
   return (
     <View style={styles.fill}>
-      <XStack paddingHorizontal="$md" paddingTop="$xs" paddingBottom="$sm">
-        <SheetBackButton onPress={onBack} />
-      </XStack>
+      <SheetPaneHeader onBack={onBack} />
       <ScrollView
         nestedScrollEnabled
         style={styles.fill}
@@ -162,20 +164,27 @@ function LogPane({
   const { t } = useTranslation()
   return (
     <View style={styles.fill}>
-      <XStack
-        paddingHorizontal="$md"
-        paddingTop="$xs"
-        paddingBottom="$sm"
-        alignItems="center"
-        gap="$sm"
-      >
-        <SheetBackButton onPress={onBack} />
-        <Typography variant="label">{t('massTimes.massLog')}</Typography>
-      </XStack>
+      <SheetPaneHeader onBack={onBack} label={t('massTimes.massLog')} />
       <View style={{ flex: 1, paddingHorizontal: 16 }}>
-        <MassLog onSelectChurch={onSelectChurch} onGlass />
+        <MassLog onSelectChurch={onSelectChurch} />
       </View>
     </View>
+  )
+}
+
+// Shared sub-view header: a back-to-browse button + an optional section label.
+function SheetPaneHeader({ onBack, label }: { onBack: () => void; label?: string }) {
+  return (
+    <XStack
+      paddingHorizontal="$md"
+      paddingTop="$xs"
+      paddingBottom="$sm"
+      alignItems="center"
+      gap="$sm"
+    >
+      <SheetBackButton onPress={onBack} />
+      {label ? <Typography variant="label">{label}</Typography> : null}
+    </XStack>
   )
 }
 
@@ -252,14 +261,13 @@ function BrowseSearch({
       keyExtractor={(c) => c.id}
       renderItem={({ item }) =>
         searching ? (
-          <ChurchSearchRow church={item as ChurchRowData} onSelect={onSelectRow} onGlass />
+          <ChurchSearchRow church={item as ChurchRowData} onSelect={onSelectRow} />
         ) : (
           <ChurchListItem
             church={item as NearbyChurch}
             locale={locale}
             kind={nearby.kind}
             onSelect={onSelectNearby}
-            onGlass
           />
         )
       }
@@ -329,7 +337,7 @@ function BrowseSearch({
             <>
               <LocationBar location={nearby.location} />
               <NextMassNearby churches={churches} locale={locale} />
-              <SavedChurches onSelect={onSelectRow} onGlass />
+              <SavedChurches onSelect={onSelectRow} />
               {checkInCount > 0 ? (
                 <AnimatedPressable
                   onPress={onOpenLog}

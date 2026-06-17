@@ -6,13 +6,7 @@ import { type ChurchRowData, ChurchSearchRow } from './ChurchSearchRow'
 
 // Saved churches, shown above the nearby list. Renders nothing when empty. `onSelect` selects in
 // place (the sheet's place mode).
-export function SavedChurches({
-  onSelect,
-  onGlass,
-}: {
-  onSelect: (church: ChurchRowData) => void
-  onGlass?: boolean
-}) {
+export function SavedChurches({ onSelect }: { onSelect: (church: ChurchRowData) => void }) {
   const { t } = useTranslation()
   const saved = useFavoriteChurches()
   if (saved.length === 0) return null
@@ -22,7 +16,7 @@ export function SavedChurches({
       <Typography variant="label">{t('massTimes.savedSection')}</Typography>
       <YStack gap="$sm">
         {saved.map((church) => (
-          <ChurchSearchRow key={church.id} church={church} onSelect={onSelect} onGlass={onGlass} />
+          <ChurchSearchRow key={church.id} church={church} onSelect={onSelect} />
         ))}
       </YStack>
     </YStack>

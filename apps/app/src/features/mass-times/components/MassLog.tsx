@@ -10,13 +10,11 @@ import { AnimatedRow } from './AnimatedRow'
 import { useGlassTile } from './glass'
 
 // The personal Mass log: every recorded visit, newest first, each removable and tapping through to the
-// church (place mode in the sheet). `onGlass` blends the rows on the sheet's glass.
+// church (place mode in the sheet). Rows are glass tiles, blending on the sheet.
 export function MassLog({
   onSelectChurch,
-  onGlass,
 }: {
   onSelectChurch: (church: { id: string; name: string }) => void
-  onGlass?: boolean
 }) {
   const { t, i18n } = useTranslation()
   const checkins = useRecentCheckIns()
@@ -42,7 +40,6 @@ export function MassLog({
           <CheckInRow
             item={item}
             locale={i18n.language}
-            onGlass={onGlass}
             onPress={() => onSelectChurch({ id: item.churchId, name: item.churchName })}
             onRemove={() => remove(item.id)}
           />
@@ -60,13 +57,11 @@ function CheckInRow({
   locale,
   onPress,
   onRemove,
-  onGlass,
 }: {
   item: CheckIn
   locale: string
   onPress: () => void
   onRemove: () => void
-  onGlass?: boolean
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
@@ -81,7 +76,7 @@ function CheckInRow({
 
   return (
     <XStack
-      backgroundColor={onGlass ? tile : '$backgroundSurface'}
+      backgroundColor={tile}
       borderRadius="$lg"
       padding="$md"
       alignItems="center"

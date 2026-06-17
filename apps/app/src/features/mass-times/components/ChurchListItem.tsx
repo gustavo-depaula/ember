@@ -13,13 +13,11 @@ export function ChurchListItem({
   locale,
   kind = 'mass',
   onSelect,
-  onGlass,
 }: {
   church: NearbyChurch
   locale: string
   kind?: ServiceKind
   onSelect: (church: NearbyChurch) => void
-  onGlass?: boolean
 }) {
   const { t } = useTranslation()
   const now = wallClockNow(church.timezone)
@@ -30,7 +28,7 @@ export function ChurchListItem({
     .join(' · ')
 
   return (
-    <ChurchRow name={church.name} onGlass={onGlass} onPress={() => onSelect(church)}>
+    <ChurchRow name={church.name} onPress={() => onSelect(church)}>
       {upcoming ? (
         <Typography variant="interface" fontSize="$2" color="$accent" numberOfLines={1}>
           {nextLabel} · {dayLabel(upcoming.occurrence.date, now, t, locale)}{' '}
