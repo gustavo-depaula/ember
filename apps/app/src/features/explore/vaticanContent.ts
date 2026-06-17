@@ -89,6 +89,9 @@ function itemsInPanel(doc: Node, panelClasses: string[]): VnItem[] {
 export function parseVaticanWidget(html: string, lang: string): VaticanContent {
   const doc = parseDocument(html)
 
+  // The widget repeats some videos across its carousel and list blocks, so
+  // dedupe by id — the same id twice would collide as a React key downstream.
+  const seenVideo = new Set<string>()
   const videos: VnVideo[] = findAll(doc, (el) => !!attr(el, 'data-video-id'))
     .map((el) => ({
       id: attr(el, 'data-video-id') ?? '',
@@ -96,7 +99,11 @@ export function parseVaticanWidget(html: string, lang: string): VaticanContent {
       date: attr(el, 'data-date') ?? '',
       thumb: attr(el, 'data-thumbnail') ?? '',
     }))
-    .filter((v) => v.id && v.thumb)
+    .filter((v) => {
+      if (!v.id || !v.thumb || seenVideo.has(v.id)) return false
+      seenVideo.add(v.id)
+      return true
+    })
 
   const featuredEl = findAll(doc, (el) => hasClass(el, 'news-featured'))[0]
   const featured = featuredEl ? itemFrom(featuredEl) : undefined
