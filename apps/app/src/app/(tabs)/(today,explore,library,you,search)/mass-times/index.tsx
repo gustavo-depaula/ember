@@ -1,3 +1,4 @@
+import type { ServiceKind } from '@ember/api'
 import { useRouter } from 'expo-router'
 import { Search } from 'lucide-react-native'
 import { useState } from 'react'
@@ -7,6 +8,7 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { PageHeader, ScreenLayout } from '@/components'
 import {
   ChurchesMap,
+  KindFilter,
   MassTimesList,
   useMassTimesNearby,
   type ViewMode,
@@ -21,7 +23,8 @@ export default function MassTimesScreen() {
   const router = useRouter()
   const theme = useTheme()
   const [mode, setMode] = useState<ViewMode>('list')
-  const nearby = useMassTimesNearby()
+  const [kind, setKind] = useState<ServiceKind | undefined>(undefined)
+  const nearby = useMassTimesNearby(kind)
 
   return (
     <ScreenLayout scroll={false}>
@@ -42,6 +45,7 @@ export default function MassTimesScreen() {
             </XStack>
           }
         />
+        <KindFilter value={kind} onChange={setKind} />
         {mode === 'list' ? <MassTimesList nearby={nearby} /> : <ChurchesMap nearby={nearby} />}
       </YStack>
     </ScreenLayout>

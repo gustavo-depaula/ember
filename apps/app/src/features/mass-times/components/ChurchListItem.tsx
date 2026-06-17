@@ -1,3 +1,4 @@
+import type { ServiceKind } from '@ember/api'
 import { Link } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -5,15 +6,25 @@ import { XStack } from 'tamagui'
 import { Card, Typography } from '@/components'
 import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, wallClockNow } from '@/lib/mass-times'
-import { dayLabel, formatDistanceKm, formatTimeOfDay } from '../format'
+import { dayLabel, formatDistanceKm, formatTimeOfDay, kindLabel } from '../format'
 import { KindChips } from './KindChips'
 
-// One church in the nearby list: name + distance, address, the single next upcoming Mass, and chips
-// for which kinds it offers. Tapping pushes the detail route with a native slide.
-export function ChurchListItem({ church, locale }: { church: NearbyChurch; locale: string }) {
+// One church in the nearby list: name + distance, address, the single next upcoming service (Mass by
+// default, or whichever kind is filtered), and chips for which kinds it offers. Tapping pushes the
+// detail route with a native slide.
+export function ChurchListItem({
+  church,
+  locale,
+  kind = 'mass',
+}: {
+  church: NearbyChurch
+  locale: string
+  kind?: ServiceKind
+}) {
   const { t } = useTranslation()
   const now = wallClockNow(church.timezone)
-  const upcoming = nextService(church.services, { timezone: church.timezone, kind: 'mass', now })
+  const upcoming = nextService(church.services, { timezone: church.timezone, kind, now })
+  const nextLabel = kind === 'mass' ? t('massTimes.nextMass') : kindLabel(kind, t)
 
   return (
     <Link href={{ pathname: '/mass-times/[churchId]', params: { churchId: church.id } }} asChild>
@@ -35,7 +46,7 @@ export function ChurchListItem({ church, locale }: { church: NearbyChurch; local
           ) : null}
 
           <XStack gap="$xs" alignItems="baseline">
-            <Typography variant="label">{t('massTimes.nextMass')}</Typography>
+            <Typography variant="label">{nextLabel}</Typography>
             {upcoming ? (
               <Typography variant="interface" fontSize="$3">
                 {dayLabel(upcoming.occurrence.date, now, t, locale)} ·{' '}

@@ -2022,6 +2022,7 @@ export default {
     lastVerified: 'Verificado em {{date}}',
     list: 'Lista',
     map: 'Mapa',
+    all: 'Todas',
     searchPlaceholder: 'Buscar igrejas por nome',
     searchHint: 'Digite o nome de uma igreja para buscar.',
     noResults: 'Nenhuma igreja com esse nome.',

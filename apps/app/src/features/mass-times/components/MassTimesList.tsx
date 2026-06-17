@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
-import { FlatList } from 'react-native'
-import { YStack } from 'tamagui'
+import { FlatList, RefreshControl } from 'react-native'
+import { useTheme, YStack } from 'tamagui'
 import { Skeleton, Typography } from '@/components'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 import { ChurchListItem } from './ChurchListItem'
@@ -14,7 +14,8 @@ import { SavedChurches } from './SavedChurches'
 // sync. One FlatList carries it all so Saved + Nearby scroll together and Saved shows in every state.
 export function MassTimesList({ nearby }: { nearby: MassTimesNearby }) {
   const { t, i18n } = useTranslation()
-  const { location, churches, isLoading, isError, refetch } = nearby
+  const theme = useTheme()
+  const { location, churches, kind, isLoading, isFetching, isError, refetch } = nearby
   const data = isLoading || isError ? [] : (churches ?? [])
 
   return (
@@ -23,7 +24,16 @@ export function MassTimesList({ nearby }: { nearby: MassTimesNearby }) {
       <FlatList
         data={data}
         keyExtractor={(c) => c.id}
-        renderItem={({ item }) => <ChurchListItem church={item} locale={i18n.language} />}
+        renderItem={({ item }) => (
+          <ChurchListItem church={item} locale={i18n.language} kind={kind} />
+        )}
+        refreshControl={
+          <RefreshControl
+            refreshing={isFetching && !isLoading}
+            onRefresh={refetch}
+            tintColor={theme.colorSecondary?.val}
+          />
+        }
         ListHeaderComponent={
           <YStack gap="$sm">
             <MassLogCard />
