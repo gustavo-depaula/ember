@@ -237,7 +237,7 @@ export function WideShortcutCard({
             fontFamily="$title"
             color={blockInk}
             fontSize={Math.round(height * 0.26)}
-            lineHeight={Math.round(height * 0.275)}
+            lineHeight={Math.round(height * 0.32)}
             textAlign="right"
           >
             {title}
@@ -249,7 +249,7 @@ export function WideShortcutCard({
               opacity={0.85}
               fontSize={Math.round(height * 0.105)}
               textAlign="right"
-              marginTop={2}
+              marginTop={-Math.round(height * 0.05)}
             >
               {subtitle}
             </Text>
