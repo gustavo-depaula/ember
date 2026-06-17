@@ -1,0 +1,34 @@
+{
+  "name": "@ember/backend",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate:local": "wrangler d1 migrations apply ember-mass-times --local",
+    "db:migrate:remote": "wrangler d1 migrations apply ember-mass-times --remote",
+    "types": "wrangler types",
+    "test": "vitest run",
+    "import": "tsx scripts/import.ts"
+  },
+  "dependencies": {
+    "@ember/api": "workspace:*",
+    "@hono/zod-validator": "^0.8.0",
+    "drizzle-orm": "^0.45.2",
+    "hono": "^4.12.25",
+    "ngeohash": "^0.6.3",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.16.16",
+    "@cloudflare/workers-types": "^4.20260616.1",
+    "@types/ngeohash": "^0.6.8",
+    "@types/node": "^22.10.0",
+    "drizzle-kit": "^0.31.10",
+    "wrangler": "^4.101.0"
+  }
+}

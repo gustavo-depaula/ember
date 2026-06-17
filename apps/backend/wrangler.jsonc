@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ember-mass-times",
+  "main": "src/app.ts",
+  "compatibility_date": "2026-06-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ember-mass-times",
+      "database_id": "a7116073-ff15-4499-a18d-cef9cb4dbfb3",
+      "migrations_dir": "migrations"
+    }
+  ],
+  // R2 not enabled on the account yet — correction attachments are stored as base64 in D1 for now
+  // (see src/features/corrections/routes.ts). Add an "r2_buckets" binding here once R2 is on.
+  "ratelimits": [
+    {
+      "name": "WRITE_LIMITER",
+      "namespace_id": "1001",
+      "simple": { "limit": 20, "period": 60 }
+    }
+  ]
+  // no triggers/cron — on-device rrule expansion means nothing to schedule
+}
