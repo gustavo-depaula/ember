@@ -8,7 +8,7 @@ import { AnimatedCheckbox, AnimatedPressable, Typography } from '@/components'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { useSubmitCorrection, useUploadAttachment, useVerifyChurch } from '@/lib/mass-times'
 import { pickCorrectionPhoto } from '../attachments'
-import { OutlineChip } from './OutlineChip'
+import { ChipButton } from './ChipButton'
 
 const maxPhotos = 3
 
@@ -98,7 +98,8 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
         <ChipButton
           label={t('massTimes.suggestEdit')}
           onPress={() => setEditing((v) => !v)}
-          active={editing}
+          selected={editing}
+          soft
         />
       </XStack>
 
@@ -189,36 +190,5 @@ function RemoveBadge() {
     >
       <X size={12} color={theme.colorSecondary?.val} />
     </XStack>
-  )
-}
-
-function ChipButton({
-  label,
-  onPress,
-  disabled,
-  active,
-  icon,
-}: {
-  label: string
-  onPress: () => void
-  disabled?: boolean
-  active?: boolean
-  icon?: React.ReactNode
-}) {
-  return (
-    <AnimatedPressable onPress={onPress} disabled={disabled} accessibilityRole="button">
-      <OutlineChip
-        gap="$xs"
-        paddingHorizontal="$md"
-        paddingVertical="$sm"
-        opacity={disabled ? 0.5 : 1}
-        backgroundColor={active ? '$backgroundSurface' : 'transparent'}
-      >
-        {icon}
-        <Typography variant="interface" fontSize="$3" color={active ? '$accent' : '$color'}>
-          {label}
-        </Typography>
-      </OutlineChip>
-    </AnimatedPressable>
   )
 }

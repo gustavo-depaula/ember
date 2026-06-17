@@ -3,10 +3,10 @@ import { Bell, BellRing } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useTheme, YStack } from 'tamagui'
-import { AnimatedPressable, Typography } from '@/components'
+import { Typography } from '@/components'
 import { selectionTick, successBuzz } from '@/lib/haptics'
 import { useMassReminderOn, useRemindersStore } from '../reminders'
-import { OutlineChip } from './OutlineChip'
+import { ChipButton } from './ChipButton'
 
 // Opt-in toggle for recurring reminders before this church's Masses. Hidden when the church has no
 // structured Mass services to remind about.
@@ -48,24 +48,13 @@ export function MassReminderToggle({
   const Icon = on ? BellRing : Bell
   return (
     <YStack gap="$xs" alignItems="flex-start">
-      <AnimatedPressable
-        onPress={toggle}
+      <ChipButton
+        label={t(on ? 'massTimes.reminderOn' : 'massTimes.remindBeforeMass')}
+        icon={<Icon size={16} color={on ? theme.background?.val : theme.accent?.val} />}
+        selected={on}
         disabled={busy}
-        accessibilityRole="button"
-        accessibilityState={{ selected: on }}
-      >
-        <OutlineChip
-          gap="$xs"
-          paddingHorizontal="$md"
-          paddingVertical="$sm"
-          backgroundColor={on ? '$accent' : 'transparent'}
-        >
-          <Icon size={16} color={on ? theme.background?.val : theme.accent?.val} />
-          <Typography variant="interface" fontSize="$3" color={on ? '$background' : '$color'}>
-            {t(on ? 'massTimes.reminderOn' : 'massTimes.remindBeforeMass')}
-          </Typography>
-        </OutlineChip>
-      </AnimatedPressable>
+        onPress={toggle}
+      />
       {denied ? (
         <Typography variant="annotation">{t('massTimes.reminderDenied')}</Typography>
       ) : null}

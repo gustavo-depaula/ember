@@ -3,16 +3,16 @@ import { Globe, Mail, MapPin, Phone } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Linking, Platform } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, Card, Skeleton, Typography } from '@/components'
+import { Card, Skeleton, Typography } from '@/components'
 import { lightTap } from '@/lib/haptics'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
 import { expandUpcoming, useChurch, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatTimeOfDay, kindLabel, serviceKindOrder } from '../format'
 import { CheckInButton } from './CheckInButton'
+import { ChipButton } from './ChipButton'
 import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
 import { MassReminderToggle } from './MassReminderToggle'
-import { OutlineChip } from './OutlineChip'
 import { QueryError } from './QueryError'
 
 type IconComponent = typeof Phone
@@ -202,19 +202,14 @@ function ContactButton({
 }) {
   const theme = useTheme()
   return (
-    <AnimatedPressable
+    <ChipButton
+      label={label}
+      icon={<Icon size={15} color={theme.accent?.val} />}
       onPress={() => {
         void lightTap()
         void Linking.openURL(url)
       }}
-    >
-      <OutlineChip gap="$xs" paddingHorizontal="$md" paddingVertical="$sm">
-        <Icon size={15} color={theme.accent?.val} />
-        <Typography variant="interface" fontSize="$3">
-          {label}
-        </Typography>
-      </OutlineChip>
-    </AnimatedPressable>
+    />
   )
 }
 

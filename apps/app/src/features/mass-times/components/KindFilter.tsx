@@ -1,10 +1,9 @@
 import type { ServiceKind } from '@ember/api'
 import { useTranslation } from 'react-i18next'
 import { XStack } from 'tamagui'
-import { AnimatedPressable, Typography } from '@/components'
 import { selectionTick } from '@/lib/haptics'
 import { kindLabel, serviceKindOrder } from '../format'
-import { OutlineChip } from './OutlineChip'
+import { ChipButton } from './ChipButton'
 
 // Filter the nearby churches to those offering a given service: All / Mass / Confession / Adoration.
 export function KindFilter({
@@ -22,34 +21,18 @@ export function KindFilter({
 
   return (
     <XStack gap="$sm" flexWrap="wrap">
-      {options.map((opt) => {
-        const active = value === opt.key
-        return (
-          <AnimatedPressable
-            key={opt.key ?? 'all'}
-            onPress={() => {
-              void selectionTick()
-              onChange(opt.key)
-            }}
-            accessibilityRole="button"
-            accessibilityState={{ selected: active }}
-          >
-            <OutlineChip
-              paddingHorizontal="$md"
-              paddingVertical="$xs"
-              backgroundColor={active ? '$accent' : 'transparent'}
-            >
-              <Typography
-                variant="interface"
-                fontSize="$3"
-                color={active ? '$background' : '$color'}
-              >
-                {opt.label}
-              </Typography>
-            </OutlineChip>
-          </AnimatedPressable>
-        )
-      })}
+      {options.map((opt) => (
+        <ChipButton
+          key={opt.key ?? 'all'}
+          label={opt.label}
+          dense
+          selected={value === opt.key}
+          onPress={() => {
+            void selectionTick()
+            onChange(opt.key)
+          }}
+        />
+      ))}
     </XStack>
   )
 }

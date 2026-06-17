@@ -4,12 +4,13 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import Animated, { FadeIn } from 'react-native-reanimated'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, Typography } from '@/components'
+import { Typography } from '@/components'
 import { useLogCompletion } from '@/features/plan-of-life'
 import { getToday } from '@/hooks/useToday'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import type { CheckInKind } from '../checkins'
 import { useCheckInsStore, useChurchAttendance } from '../checkins'
+import { ChipButton } from './ChipButton'
 import { OutlineChip } from './OutlineChip'
 
 const kinds: CheckInKind[] = ['mass', 'confession', 'adoration', 'visit']
@@ -78,20 +79,14 @@ export function CheckInButton({
   if (!open) {
     return (
       <YStack gap="$xs" alignItems="flex-start">
-        <AnimatedPressable
+        <ChipButton
+          label={t('massTimes.checkIn')}
+          icon={<CalendarCheck size={16} color={theme.accent?.val} />}
           onPress={() => {
             void lightTap()
             setOpen(true)
           }}
-          accessibilityRole="button"
-        >
-          <OutlineChip gap="$xs" paddingHorizontal="$md" paddingVertical="$sm">
-            <CalendarCheck size={16} color={theme.accent?.val} />
-            <Typography variant="interface" fontSize="$3">
-              {t('massTimes.checkIn')}
-            </Typography>
-          </OutlineChip>
-        </AnimatedPressable>
+        />
         {count > 0 ? (
           <Typography variant="annotation">
             {t('massTimes.attendanceCount', { count })}
@@ -114,34 +109,18 @@ export function CheckInButton({
       <YStack gap="$sm">
         <Typography variant="label">{t('massTimes.checkInPrompt')}</Typography>
         <XStack gap="$sm" flexWrap="wrap">
-          {kinds.map((k) => {
-            const active = kind === k
-            return (
-              <AnimatedPressable
-                key={k}
-                onPress={() => {
-                  void selectionTick()
-                  setKind(k)
-                }}
-                accessibilityRole="button"
-                accessibilityState={{ selected: active }}
-              >
-                <OutlineChip
-                  paddingHorizontal="$md"
-                  paddingVertical="$xs"
-                  backgroundColor={active ? '$accent' : 'transparent'}
-                >
-                  <Typography
-                    variant="interface"
-                    fontSize="$3"
-                    color={active ? '$background' : '$color'}
-                  >
-                    {t(`massTimes.kind.${k}`)}
-                  </Typography>
-                </OutlineChip>
-              </AnimatedPressable>
-            )
-          })}
+          {kinds.map((k) => (
+            <ChipButton
+              key={k}
+              label={t(`massTimes.kind.${k}`)}
+              dense
+              selected={kind === k}
+              onPress={() => {
+                void selectionTick()
+                setKind(k)
+              }}
+            />
+          ))}
         </XStack>
         <Input
           value={note}
@@ -158,20 +137,8 @@ export function CheckInButton({
           </Typography>
         ) : null}
         <XStack gap="$sm">
-          <AnimatedPressable onPress={confirm} accessibilityRole="button">
-            <OutlineChip paddingHorizontal="$md" paddingVertical="$sm" backgroundColor="$accent">
-              <Typography variant="interface" fontSize="$3" color="$background">
-                {t('massTimes.checkInConfirm')}
-              </Typography>
-            </OutlineChip>
-          </AnimatedPressable>
-          <AnimatedPressable onPress={() => setOpen(false)} accessibilityRole="button">
-            <OutlineChip paddingHorizontal="$md" paddingVertical="$sm">
-              <Typography variant="interface" fontSize="$3">
-                {t('massTimes.cancel')}
-              </Typography>
-            </OutlineChip>
-          </AnimatedPressable>
+          <ChipButton label={t('massTimes.checkInConfirm')} selected onPress={confirm} />
+          <ChipButton label={t('massTimes.cancel')} onPress={() => setOpen(false)} />
         </XStack>
       </YStack>
     </Animated.View>
