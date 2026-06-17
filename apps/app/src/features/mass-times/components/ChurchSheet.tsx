@@ -59,7 +59,9 @@ export function ChurchSheet({
   }
 
   return (
-    <Host style={StyleSheet.absoluteFill}>
+    // ignoreSafeArea="all" so the hosted map bleeds edge to edge (through the notch + home indicator)
+    // instead of the SwiftUI host insetting it and leaving black bars.
+    <Host style={StyleSheet.absoluteFill} ignoreSafeArea="all">
       <RNHostView>
         <View style={styles.fill}>
           <ChurchesMap
