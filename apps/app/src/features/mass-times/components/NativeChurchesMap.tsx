@@ -1,4 +1,5 @@
 import { AppleMaps, GoogleMaps } from 'expo-maps'
+import { useMemo } from 'react'
 import { Platform } from 'react-native'
 import { useTheme } from 'tamagui'
 import type { NearbyChurch } from '@/lib/mass-times'
@@ -15,8 +16,23 @@ export default function NativeChurchesMap({
   onSelect: (church: NearbyChurch) => void
 }) {
   const theme = useTheme()
+  const accent = theme.accent?.val
   const { location, churches } = nearby
-  const byId = new Map((churches ?? []).map((c) => [c.id, c]))
+
+  const byId = useMemo(() => new Map((churches ?? []).map((c) => [c.id, c])), [churches])
+  const markers = useMemo(
+    () =>
+      (churches ?? []).map((c) => ({
+        id: c.id,
+        coordinates: { latitude: c.lat, longitude: c.lng },
+        title: c.name,
+      })),
+    [churches],
+  )
+  const appleMarkers = useMemo(
+    () => markers.map((m) => ({ ...m, systemImage: 'cross.fill', tintColor: accent })),
+    [markers, accent],
+  )
 
   const cameraPosition = {
     coordinates: { latitude: location.coords.lat, longitude: location.coords.lng },
@@ -26,11 +42,6 @@ export default function NativeChurchesMap({
     const church = id ? byId.get(id) : undefined
     if (church) onSelect(church)
   }
-  const markers = (churches ?? []).map((c) => ({
-    id: c.id,
-    coordinates: { latitude: c.lat, longitude: c.lng },
-    title: c.name,
-  }))
 
   if (Platform.OS === 'android') {
     return (
@@ -49,11 +60,7 @@ export default function NativeChurchesMap({
     <AppleMaps.View
       style={{ flex: 1 }}
       cameraPosition={cameraPosition}
-      markers={markers.map((m) => ({
-        ...m,
-        systemImage: 'cross.fill',
-        tintColor: theme.accent?.val,
-      }))}
+      markers={appleMarkers}
       properties={{ isMyLocationEnabled: true }}
       uiSettings={{ myLocationButtonEnabled: true }}
       onMarkerClick={(m) => select(m.id)}

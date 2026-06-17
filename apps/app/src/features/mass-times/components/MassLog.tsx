@@ -2,12 +2,12 @@ import { Link } from 'expo-router'
 import { Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { FlatList } from 'react-native'
-import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Card, Typography } from '@/components'
 import { mediumTap } from '@/lib/haptics'
 import type { CheckIn } from '../checkins'
 import { useCheckInsStore, useRecentCheckIns } from '../checkins'
+import { AnimatedRow } from './AnimatedRow'
 
 // The personal Mass log: every recorded visit, newest first, each removable and tapping through to
 // the church.
@@ -29,14 +29,10 @@ export function MassLog() {
     <FlatList
       data={checkins}
       keyExtractor={(c) => c.id}
-      renderItem={({ item }) => (
-        <Animated.View
-          entering={FadeIn.duration(200)}
-          exiting={FadeOut.duration(150)}
-          layout={LinearTransition.duration(200)}
-        >
+      renderItem={({ item, index }) => (
+        <AnimatedRow index={index} exiting>
           <CheckInRow item={item} locale={i18n.language} onRemove={() => remove(item.id)} />
-        </Animated.View>
+        </AnimatedRow>
       )}
       ItemSeparatorComponent={() => <YStack height="$sm" />}
       contentContainerStyle={{ paddingBottom: 32 }}

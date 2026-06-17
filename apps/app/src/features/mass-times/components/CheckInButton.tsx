@@ -1,12 +1,9 @@
-import { format } from 'date-fns'
 import { CalendarCheck, Check } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import Animated, { FadeIn } from 'react-native-reanimated'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { Typography } from '@/components'
-import { useLogCompletion } from '@/features/plan-of-life'
-import { getToday } from '@/hooks/useToday'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import type { CheckInKind } from '../checkins'
 import { useCheckInsStore, useChurchAttendance } from '../checkins'
@@ -28,7 +25,6 @@ export function CheckInButton({
   const { t } = useTranslation()
   const theme = useTheme()
   const checkIn = useCheckInsStore((s) => s.checkIn)
-  const logCompletion = useLogCompletion()
   const { count, last } = useChurchAttendance(church.id)
 
   const [open, setOpen] = useState(false)
@@ -38,14 +34,7 @@ export function CheckInButton({
 
   const confirm = () => {
     void successBuzz()
-    checkIn(church, { kind, note })
-    if (kind === 'mass') {
-      logCompletion.mutate({
-        practiceId: 'mass',
-        date: format(getToday(), 'yyyy-MM-dd'),
-        subId: 'default',
-      })
-    }
+    checkIn(church, { kind, note }) // a Mass check-in completes the "mass" practice (store handles it)
     setJustChecked(kind)
     setOpen(false)
     setNote('')

@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList } from 'react-native'
-import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
 import { YStack } from 'tamagui'
 import { SearchInput, Skeleton, Typography } from '@/components'
 import { useChurchSearch } from '@/lib/mass-times'
 import { useDebounced } from '@/lib/useDebounced'
+import { AnimatedRow } from './AnimatedRow'
 import { ChurchSearchRow } from './ChurchSearchRow'
 import { QueryError } from './QueryError'
 
@@ -44,12 +44,9 @@ export function ChurchSearch() {
           data={data}
           keyExtractor={(c) => c.id}
           renderItem={({ item, index }) => (
-            <Animated.View
-              entering={FadeIn.duration(180).delay(Math.min(index, 8) * 30)}
-              layout={LinearTransition.duration(180)}
-            >
+            <AnimatedRow index={index}>
               <ChurchSearchRow church={item} />
-            </Animated.View>
+            </AnimatedRow>
           )}
           ItemSeparatorComponent={() => <YStack height="$sm" />}
           keyboardShouldPersistTaps="handled"

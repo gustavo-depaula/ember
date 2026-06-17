@@ -25,12 +25,15 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
   const [comment, setComment] = useState('')
   const [closed, setClosed] = useState(false)
   const [photos, setPhotos] = useState<{ key: string; uri: string }[]>([])
-  const [uploading, setUploading] = useState(false)
 
   const canSubmit = (closed || comment.trim().length > 0) && !correction.isPending
+  const toggleClosed = () => {
+    void selectionTick()
+    setClosed((v) => !v)
+  }
 
   const addPhoto = async () => {
-    if (photos.length >= maxPhotos || uploading) return
+    if (photos.length >= maxPhotos || upload.isPending) return
     let picked: Awaited<ReturnType<typeof pickCorrectionPhoto>>
     try {
       picked = await pickCorrectionPhoto()
@@ -41,14 +44,12 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
     }
     if (!picked) return
     const { uri } = picked
-    setUploading(true)
     upload.mutate(picked, {
+      // errors surface via the global mutationCache dialog
       onSuccess: (key) => {
         void lightTap()
         setPhotos((p) => [...p, { key, uri }])
-        setUploading(false)
       },
-      onError: () => setUploading(false), // global mutationCache surfaces the error dialog
     })
   }
 
@@ -135,36 +136,28 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
             ))}
             {photos.length < maxPhotos ? (
               <ChipButton
-                label={uploading ? t('massTimes.photoUploading') : t('massTimes.addPhoto')}
+                label={upload.isPending ? t('massTimes.photoUploading') : t('massTimes.addPhoto')}
                 icon={<Camera size={15} color={theme.color?.val} />}
                 onPress={addPhoto}
-                disabled={uploading}
+                disabled={upload.isPending}
               />
             ) : null}
           </XStack>
 
-          <AnimatedPressable
-            onPress={() => {
-              void selectionTick()
-              setClosed((v) => !v)
-            }}
-          >
-            <XStack alignItems="center" gap="$sm">
-              <AnimatedCheckbox
-                checked={closed}
-                onToggle={() => {
-                  void selectionTick()
-                  setClosed((v) => !v)
-                }}
-                accessibilityLabel={t('massTimes.markClosed')}
-                size={22}
-                subtle
-              />
+          <XStack alignItems="center" gap="$sm">
+            <AnimatedCheckbox
+              checked={closed}
+              onToggle={toggleClosed}
+              accessibilityLabel={t('massTimes.markClosed')}
+              size={22}
+              subtle
+            />
+            <AnimatedPressable onPress={toggleClosed}>
               <Typography variant="interface" fontSize="$3">
                 {t('massTimes.markClosed')}
               </Typography>
-            </XStack>
-          </AnimatedPressable>
+            </AnimatedPressable>
+          </XStack>
           <XStack gap="$sm">
             <ChipButton label={t('massTimes.submit')} onPress={submit} disabled={!canSubmit} />
             <ChipButton label={t('massTimes.cancel')} onPress={() => setEditing(false)} />
