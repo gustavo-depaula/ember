@@ -48,6 +48,10 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# Cloudflare Workers local state (local D1/R2 under wrangler dev) + generated binding types
+.wrangler/
+apps/backend/worker-configuration.d.ts
+
 # generated native folders
 apps/app/ios
 apps/app/android

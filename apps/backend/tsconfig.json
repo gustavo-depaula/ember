@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "types": ["@cloudflare/workers-types"]
+  },
+  // scripts/ is a Node CLI run by tsx (uses node:fs); the worker build excludes it — its pure,
+  // typechecked logic lives in src/lib/import.ts.
+  "include": ["src/**/*.ts", "drizzle.config.ts"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@ember/api",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.2",
+    "rrule": "^2.8.1",
+    "zod": "^4.4.3"
+  }
+}
