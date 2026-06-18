@@ -1,7 +1,9 @@
-import type { CorrectionBody } from '@ember/api'
-import { useMutation, useQuery } from '@tanstack/react-query'
+import type { CorrectionBody, ServiceKind } from '@ember/api'
+import { keepPreviousData, useMutation, useQuery } from '@tanstack/react-query'
 import {
+  type Bbox,
   fetchChurch,
+  fetchChurchesInBbox,
   fetchNearbyChurches,
   type NearbyParams,
   searchChurches,
@@ -20,6 +22,20 @@ export function useNearbyChurches(params: NearbyParams | undefined) {
     queryFn: () => fetchNearbyChurches(params as NearbyParams),
     enabled: !!params,
     staleTime,
+    // Keep the current churches on screen while panning to a new area refetches — no flicker of the
+    // pins vanishing and re-appearing as the region changes.
+    placeholderData: keepPreviousData,
+  })
+}
+
+export function useChurchesInBbox(bbox: Bbox | undefined, kind?: ServiceKind, limit?: number) {
+  return useQuery({
+    queryKey: ['mass-times', 'bbox', bbox, kind, limit],
+    queryFn: () => fetchChurchesInBbox(bbox as Bbox, { kind, limit }),
+    enabled: !!bbox,
+    staleTime,
+    // Keep the current churches while panning/zooming to a new viewport refetches — no pin flicker.
+    placeholderData: keepPreviousData,
   })
 }
 
