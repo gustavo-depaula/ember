@@ -56,6 +56,13 @@ type PreferencesState = {
   // Reader UX
   bookReaderHintSeen: boolean
 
+  // Onboarding
+  hasOnboarded: boolean
+  // The languages the user reads — the pool that drives cross-language content.
+  // The renderer is capped at two languages today (primary + one secondary), so
+  // this is recorded for that derivation and for future N-language rendering.
+  knownLanguages: ContentLanguage[]
+
   // Reading config
   fontFamily: ReadingFontId
   fontSizeStep: number
@@ -87,6 +94,10 @@ type PreferencesState = {
   setReaderPalette: (palette: ReaderPaletteId) => void
   setBookReaderHintSeen: (seen: boolean) => void
 
+  // Onboarding setters
+  setHasOnboarded: (value: boolean) => void
+  setKnownLanguages: (langs: ContentLanguage[]) => void
+
   // Reading config setters
   setFontFamily: (id: ReadingFontId) => void
   setFontSizeStep: (step: number) => void
@@ -114,6 +125,8 @@ export const usePreferencesStore = create<PreferencesState>()(
     theme: 'system',
     readerPalette: 'auto',
     bookReaderHintSeen: false,
+    hasOnboarded: false,
+    knownLanguages: [],
     fontFamily: 'eb-garamond',
     fontSizeStep: 3,
     lineHeightStep: 5,
@@ -240,6 +253,32 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('book-reader-hint-seen', seen ? '1' : '0')
     },
 
+    setHasOnboarded: (value) => {
+      set((state) => {
+        state.hasOnboarded = value
+      })
+      setPreference('has-onboarded', value ? '1' : '0')
+    },
+
+    setKnownLanguages: (langs) => {
+      set((state) => {
+        state.knownLanguages = langs
+        // Derive the two-language display from the pool: the interface language
+        // leads when it's a content language, else the first known; the
+        // secondary is the next known language, if any.
+        const primary = contentLanguages.includes(state.language as ContentLanguage)
+          ? (state.language as ContentLanguage)
+          : (langs[0] ?? state.contentLanguage)
+        state.contentLanguage = primary
+        state.secondaryLanguage = langs.find((l) => l !== primary)
+      })
+      const { contentLanguage, secondaryLanguage } = usePreferencesStore.getState()
+      setPreference('known-languages', JSON.stringify(langs))
+      setPreference('content-language', contentLanguage)
+      if (secondaryLanguage) setPreference('secondary-language', secondaryLanguage)
+      else removePreference('secondary-language')
+    },
+
     setFontFamily: (id) => {
       set((state) => {
         state.fontFamily = id
@@ -335,6 +374,21 @@ export const usePreferencesStore = create<PreferencesState>()(
         }
 
         if (prefs['book-reader-hint-seen'] === '1') state.bookReaderHintSeen = true
+
+        if (prefs['has-onboarded'] === '1') state.hasOnboarded = true
+        const known = prefs['known-languages']
+        if (known) {
+          try {
+            const parsed = JSON.parse(known)
+            if (Array.isArray(parsed)) {
+              state.knownLanguages = parsed.filter((l): l is ContentLanguage =>
+                contentLanguages.includes(l as ContentLanguage),
+              )
+            }
+          } catch {
+            // Malformed value — leave the default empty pool.
+          }
+        }
 
         const fontFamily = prefs['reading-font-family']
         if (fontFamily && validFontIds.has(fontFamily as ReadingFontId)) {

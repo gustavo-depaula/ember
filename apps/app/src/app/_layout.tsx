@@ -151,6 +151,7 @@ export default function RootLayout() {
     theme: themePreference,
     hydrated: prefsHydrated,
     hydrate: hydratePrefs,
+    hasOnboarded,
   } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
   const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
@@ -392,7 +393,15 @@ export default function RootLayout() {
                   contentStyle: { backgroundColor: rootBg },
                 }}
               >
-                <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
+                {/* First run: route to onboarding until the user completes (or
+                    skips) it. The guard flips the moment `hasOnboarded` is set,
+                    revealing the tabs — no manual navigation, no flash. */}
+                <Stack.Protected guard={!hasOnboarded}>
+                  <Stack.Screen name="onboarding" />
+                </Stack.Protected>
+                <Stack.Protected guard={hasOnboarded}>
+                  <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
+                </Stack.Protected>
               </Stack>
             </ThemeProvider>
             <FloatingOfflineChip />
