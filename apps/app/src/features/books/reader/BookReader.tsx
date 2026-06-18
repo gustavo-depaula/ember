@@ -14,7 +14,7 @@ import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { buildTitleLookup, flattenReadingFlow, openBookSession } from './bookContent'
+import { buildTitleLookup, openBookSession } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
@@ -56,6 +56,7 @@ import { getReadingTimeMs, persistReadingTimeMs } from './readingTime'
 import { recordReadingSession } from './sessionToast'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
+import { useReadingFlow } from './useReadingFlow'
 
 type Props = {
   bookId: string
@@ -122,16 +123,7 @@ export function BookReader({ bookId, chapter }: Props) {
     return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
   }, [bookEntry, contentLanguage])
 
-  // The reading flow: every paginated page in DFS preorder — chapter leaves
-  // plus any Part/Section group node that carries a body for this language.
-  // Computed from the resident bookEntry (its `.chapters` is populated
-  // synchronously) so it's available before the async session resolves; the
-  // session rebuilds the identical flow so foliate indices stay aligned.
-  const leaves = useMemo(
-    () => (bookEntry?.toc ? flattenReadingFlow(bookEntry.toc, bookEntry, lang) : []),
-    [bookEntry, lang],
-  )
-  const readableIds = useMemo(() => new Set(leaves.map((n) => n.id)), [leaves])
+  const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
 
   const titleLookup = useMemo(
     () => (bookEntry?.toc ? buildTitleLookup(bookEntry.toc, lang) : new Map<string, string>()),
@@ -199,9 +191,10 @@ export function BookReader({ bookId, chapter }: Props) {
 
   // The first chapter needs to be in hand BEFORE we paint the WebView host
   // HTML (foliate has to open *something*). Subsequent chapters stream in
-  // via the requestChapter bridge.
+  // via the requestChapter bridge. The body already arrives with its title
+  // heading promoted by the session — no client-side title wrapping needed.
   const {
-    data: initialChapterRaw,
+    data: initialChapter,
     isLoading: initialChapterLoading,
     isError: initialChapterError,
   } = useQuery({
@@ -210,8 +203,6 @@ export function BookReader({ bookId, chapter }: Props) {
     enabled: !!session && cursor.initial.loaded && leaves.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  // Body already arrives with its title heading promoted by the session.
-  const initialChapter = initialChapterRaw
 
   const isLoading = sessionLoading || initialChapterLoading || !cursor.initial.loaded
   const isError = sessionError || initialChapterError

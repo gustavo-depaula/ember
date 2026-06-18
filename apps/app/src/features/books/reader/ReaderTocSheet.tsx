@@ -299,7 +299,6 @@ export function ReaderTocSheet({
                     fontSize="$2"
                     color={isCurrent ? '$accent' : '$colorSecondary'}
                     numberOfLines={2}
-                    flex={1}
                   >
                     {title}
                   </Text>

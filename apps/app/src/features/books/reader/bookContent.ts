@@ -275,8 +275,8 @@ export async function openBookSession(
   const imageRefs = buildImageRefs(manifest)
 
   // Reading flow drives both the index→id map and the per-index role used to
-  // style each chapter's promoted title. Must match BookReader's flow exactly
-  // (same function, same toc/chapters/lang) so foliate indices stay aligned.
+  // style each chapter's promoted title. Must match the reader's flow exactly
+  // (same flattenReadingFlow inputs; see useReadingFlow) so indices stay aligned.
   const readingFlow = manifest.toc ? flattenReadingFlow(manifest.toc, manifest, lang) : []
   const chapterIds = readingFlow.map((n) => n.id)
   // Navigation titles — only consulted by the defensive synthesized-body path.

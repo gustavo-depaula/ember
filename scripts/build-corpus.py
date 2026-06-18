@@ -589,7 +589,8 @@ def build_search_index_for_book(
     return indexes
 
 
-# Editorial scratch files that live in language dirs but are never chapters.
+# Editorial scratch that is never a chapter. Whole non-content *dirs* use a
+# leading `_` (e.g. `_review`); these are loose files sitting in language dirs.
 NON_CHAPTER_STEMS = {"translation-journal", "translator-notes-log", "findings", "needs-human-eyes"}
 
 
