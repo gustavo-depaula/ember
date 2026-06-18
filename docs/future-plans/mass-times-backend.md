@@ -257,13 +257,21 @@ up, so the API doesn't allow one.
 > requirement. **H3** is the worst fit here (best library, but multi-resolution-column DB awkwardness
 > + approximate containment).
 
-### Schedule grain — one row per slot
-**One `service` row = one (time, pattern) slot.** An `RRULE` is a single pattern at a single
+### Schedule grain — one slot per entry, **embedded** on the church
+**One service entry = one (time, pattern) slot.** An `RRULE` is a single pattern at a single
 time-of-day (per RFC 5545 all recurrence shares one `DTSTART`), so "9:00 on the 13th **and** 11:00
-on Mondays" is **two rows**, not one rule — and a church's schedule is the **union of its rows**
-(`expand.ts` expands each row and concatenates). Don't pack multiple positive patterns into one
-rule; combining `BYMONTHDAY`+`BYDAY` yields the *intersection*, not the union. Per-row **exceptions**
-(a cancelled Sunday, a one-off) use `exdate`/`rdate` via `RRuleSet` — the only place a set is needed.
+on Mondays" is **two entries**, not one rule — and a church's schedule is the **union of its
+entries** (`expand.ts` expands each and concatenates). Don't pack multiple positive patterns into one
+rule; combining `BYMONTHDAY`+`BYDAY` yields the *intersection*, not the union. Per-entry
+**exceptions** (a cancelled Sunday, a one-off) use `exdate`/`rdate` via `RRuleSet`.
+
+> **Embedded, not a child table.** `service` / `church_text` / `church_link` are **JSON columns on
+> `church`** (`services` / `texts` / `links`), not separate tables. The server never queries inside a
+> schedule (expansion is on-device), so a church is always read whole — embedding makes `/near` a
+> single geohash scan (no JOIN) and cuts rows written/read ~4× (no per-child rows + indexes). Each
+> embedded service carries a **deterministic id** (`churchId:hash(slot)`) so a `correction` can still
+> target one Mass and a re-import keeps a stable id for an unchanged slot. `correction` /
+> `verification_event` / `attachment` stay their own (append-only) tables; `church_fts` stays.
 
 ### Time = wall-clock, expanded on-device (no tz math on the core path)
 `service` stores an rrule + wall-clock `start_time`; there is **no materialized instance table**.

@@ -15,6 +15,13 @@
       "when": 1781664640698,
       "tag": "0002_attachment",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1781746267081,
+      "tag": "0003_embed_services",
+      "breakpoints": true
     }
   ]
 }

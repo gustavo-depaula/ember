@@ -1,5 +1,5 @@
 import { type InferSelectModel, sql } from 'drizzle-orm'
-import { index, integer, primaryKey, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
+import { index, integer, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
 
 // Source of truth for the Mass-Times directory. Domain types are inferred from these tables
 // (no hand-written `type`s) and migrations are generated from them via drizzle-kit.
@@ -8,6 +8,36 @@ import { index, integer, primaryKey, real, sqliteTable, text } from 'drizzle-orm
 // index below is binary-collated for free — the prefix-range geo filters are sargable as-is.
 // The FTS5 `church_fts` virtual table is intentionally NOT modelled here (drizzle-kit can't emit
 // virtual tables); it lives in a hand-written migration and is queried via raw `sql`.
+
+// A church owns its schedule + text + links. They are EMBEDDED as JSON columns on `church` (below),
+// not separate tables: the server never queries inside a schedule (rrule expansion is on-device), so
+// a church is always read whole. Embedding makes `/near` a single geohash scan and cuts row writes
+// ~4× (no per-child rows/indexes). `service.id` is deterministic (`churchId:hash(slot)`) so a
+// `correction` can still target one Mass.
+export type Service = {
+  id: string
+  kind: string // mass | confession | adoration
+  rite?: string // Mass only; latin_novus_ordo | latin_tridentine | byzantine | ...
+  language?: string // ISO 639
+  rrule: string // iCal RRULE: ONE pattern at ONE time
+  startTime: string // 'HH:MM' wall-clock; displayed as-is, expanded on-device
+  endTime?: string
+  exdate?: string // RRuleSet EXDATE (cancelled dates)
+  rdate?: string // RRuleSet RDATE (one-off added dates)
+  locationNote?: string
+  note?: string
+  source?: string // import | manual | user
+  confidence?: number
+}
+export type ChurchText = {
+  kind: string // mass_times | seasonal_mass_times | confession | adoration | info
+  rawText: string
+  sourceUpdatedAt?: string
+}
+export type ChurchLink = {
+  kind: string // website | instagram | facebook | whatsapp | youtube | livestream | donation
+  url: string
+}
 
 export const church = sqliteTable(
   'church',
@@ -38,59 +68,12 @@ export const church = sqliteTable(
     lastVerifiedAt: text('last_verified_at'), // ISO
     verifiedSource: text('verified_source'), // import | user | moderator
     updatedAt: text('updated_at'),
+    // embedded owned content (see the note above); shipped to the device, expanded there
+    services: text('services', { mode: 'json' }).$type<Service[]>(),
+    texts: text('texts', { mode: 'json' }).$type<ChurchText[]>(),
+    links: text('links', { mode: 'json' }).$type<ChurchLink[]>(),
   },
-  (t) => [
-    index('church_geohash_idx').on(t.geohash),
-    index('church_country_city_idx').on(t.countryCode, t.city),
-  ],
-)
-
-export const service = sqliteTable(
-  'service',
-  {
-    id: text('id').primaryKey(), // generated crypto.randomUUID()
-    churchId: text('church_id')
-      .notNull()
-      .references(() => church.id),
-    kind: text('kind').notNull(), // mass | confession | adoration
-    rite: text('rite'), // Mass only; extensible enum (latin_novus_ordo | latin_tridentine | byzantine | ...)
-    language: text('language'), // ISO 639, per-service
-    rrule: text('rrule').notNull(), // iCal RRULE: ONE pattern at ONE time; union = multiple rows
-    startTime: text('start_time').notNull(), // 'HH:MM' wall-clock; displayed as-is, expanded on-device
-    endTime: text('end_time'),
-    exdate: text('exdate'), // optional RRuleSet EXDATE (cancelled dates)
-    rdate: text('rdate'), // optional RRuleSet RDATE (one-off added dates)
-    locationNote: text('location_note'),
-    note: text('note'),
-    source: text('source'), // import | manual | user
-    confidence: real('confidence'),
-  },
-  (t) => [index('service_church_idx').on(t.churchId)],
-)
-
-export const churchText = sqliteTable(
-  'church_text',
-  {
-    churchId: text('church_id')
-      .notNull()
-      .references(() => church.id),
-    kind: text('kind').notNull(), // mass_times | seasonal_mass_times | confession | adoration | info
-    rawText: text('raw_text'),
-    sourceUpdatedAt: text('source_updated_at'),
-  },
-  (t) => [primaryKey({ columns: [t.churchId, t.kind] })],
-)
-
-export const churchLink = sqliteTable(
-  'church_link',
-  {
-    churchId: text('church_id')
-      .notNull()
-      .references(() => church.id),
-    kind: text('kind').notNull(), // website | instagram | facebook | whatsapp | youtube | livestream | donation
-    url: text('url').notNull(),
-  },
-  (t) => [primaryKey({ columns: [t.churchId, t.kind] })],
+  (t) => [index('church_geohash_idx').on(t.geohash)],
 )
 
 export const correction = sqliteTable(
@@ -141,9 +124,6 @@ export const attachment = sqliteTable(
 )
 
 export type Church = InferSelectModel<typeof church>
-export type Service = InferSelectModel<typeof service>
-export type ChurchText = InferSelectModel<typeof churchText>
-export type ChurchLink = InferSelectModel<typeof churchLink>
 export type Correction = InferSelectModel<typeof correction>
 export type VerificationEvent = InferSelectModel<typeof verificationEvent>
 export type Attachment = InferSelectModel<typeof attachment>
