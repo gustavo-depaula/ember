@@ -1,0 +1,1411 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "id": "therese",
+      "feast": {
+        "month": 10,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Thérèse of Lisieux",
+        "pt-BR": "Santa Teresinha do Menino Jesus"
+      },
+      "patronOf": {
+        "en-US": "Patron of missionaries",
+        "pt-BR": "Padroeira das missões"
+      },
+      "prayerExcerpt": {
+        "en-US": "My vocation is love! In the heart of the Church, I shall be love.",
+        "pt-BR": "Minha vocação é o amor! No coração da Igreja, serei o amor."
+      }
+    },
+    {
+      "id": "joseph",
+      "feast": {
+        "month": 3,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Joseph",
+        "pt-BR": "São José"
+      },
+      "patronOf": {
+        "en-US": "Patron of the Universal Church",
+        "pt-BR": "Padroeiro da Igreja Universal"
+      },
+      "prayerExcerpt": {
+        "en-US": "Go to Joseph. Whatever he tells you, do.",
+        "pt-BR": "Ide a José. Fazei tudo o que ele vos disser."
+      }
+    },
+    {
+      "id": "michael_archangel",
+      "feast": {
+        "month": 9,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Michael the Archangel",
+        "pt-BR": "São Miguel Arcanjo"
+      },
+      "patronOf": {
+        "en-US": "Patron of soldiers and the Church",
+        "pt-BR": "Padroeiro dos soldados e da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil.",
+        "pt-BR": "São Miguel Arcanjo, defendei-nos no combate. Sede nosso refúgio contra as maldades e ciladas do demônio."
+      }
+    },
+    {
+      "id": "gabriel_archangel",
+      "feast": {
+        "month": 9,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Gabriel the Archangel",
+        "pt-BR": "São Gabriel Arcanjo"
+      },
+      "patronOf": {
+        "en-US": "Patron of messengers and communications",
+        "pt-BR": "Padroeiro dos mensageiros e comunicações"
+      },
+      "prayerExcerpt": {
+        "en-US": "Hail, full of grace, the Lord is with thee.",
+        "pt-BR": "Ave, cheia de graça, o Senhor é convosco."
+      }
+    },
+    {
+      "id": "peter",
+      "feast": {
+        "month": 6,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Peter",
+        "pt-BR": "São Pedro"
+      },
+      "patronOf": {
+        "en-US": "Patron of fishermen and the papacy",
+        "pt-BR": "Padroeiro dos pescadores e do papado"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lord, you know all things; you know that I love you.",
+        "pt-BR": "Senhor, tu sabes tudo; tu sabes que eu te amo."
+      }
+    },
+    {
+      "id": "john_evangelist",
+      "feast": {
+        "month": 12,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. John the Evangelist",
+        "pt-BR": "São João Evangelista"
+      },
+      "patronOf": {
+        "en-US": "Patron of authors and theologians",
+        "pt-BR": "Padroeiro dos autores e teólogos"
+      },
+      "prayerExcerpt": {
+        "en-US": "God is love, and whoever abides in love abides in God, and God abides in him.",
+        "pt-BR": "Deus é amor, e quem permanece no amor permanece em Deus, e Deus nele."
+      }
+    },
+    {
+      "id": "john_of_the_cross",
+      "feast": {
+        "month": 12,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. John of the Cross",
+        "pt-BR": "São João da Cruz"
+      },
+      "patronOf": {
+        "en-US": "Patron of mystics and contemplatives",
+        "pt-BR": "Padroeiro dos místicos e contemplativos"
+      },
+      "prayerExcerpt": {
+        "en-US": "In the evening of life, we will be judged on love alone.",
+        "pt-BR": "No entardecer da vida, seremos julgados pelo amor."
+      }
+    },
+    {
+      "id": "teresa",
+      "feast": {
+        "month": 10,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Teresa of Ávila",
+        "pt-BR": "Santa Teresa de Ávila"
+      },
+      "patronOf": {
+        "en-US": "Patron of headache sufferers",
+        "pt-BR": "Padroeira dos que sofrem de dor de cabeça"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let nothing disturb you. Let nothing frighten you. All things are passing. God never changes.",
+        "pt-BR": "Nada te perturbe. Nada te espante. Tudo passa. Deus não muda."
+      }
+    },
+    {
+      "id": "philomena",
+      "feast": {
+        "month": 8,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Philomena",
+        "pt-BR": "Santa Filomena"
+      },
+      "patronOf": {
+        "en-US": "Patron of youth and desperate causes",
+        "pt-BR": "Padroeira da juventude e das causas desesperadas"
+      },
+      "prayerExcerpt": {
+        "en-US": "O faithful virgin and glorious martyr, St. Philomena, intercede for us.",
+        "pt-BR": "Ó virgem fiel e gloriosa mártir, Santa Filomena, intercedei por nós."
+      }
+    },
+    {
+      "id": "gianna",
+      "feast": {
+        "month": 4,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Gianna Beretta Molla",
+        "pt-BR": "Santa Gianna Beretta Molla"
+      },
+      "patronOf": {
+        "en-US": "Patron of mothers and physicians",
+        "pt-BR": "Padroeira das mães e médicos"
+      },
+      "prayerExcerpt": {
+        "en-US": "Love is the most beautiful sentiment the Lord has put into the soul of men and women.",
+        "pt-BR": "O amor é o sentimento mais belo que o Senhor colocou na alma dos homens e mulheres."
+      }
+    },
+    {
+      "id": "luke",
+      "feast": {
+        "month": 10,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Luke the Evangelist",
+        "pt-BR": "São Lucas Evangelista"
+      },
+      "patronOf": {
+        "en-US": "Patron of artists and physicians",
+        "pt-BR": "Padroeiro dos artistas e médicos"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Mighty One has done great things for me, and holy is his name.",
+        "pt-BR": "O Todo-Poderoso fez grandes coisas por mim, e santo é o seu nome."
+      }
+    },
+    {
+      "id": "fatima",
+      "feast": {
+        "month": 5,
+        "day": 13
+      },
+      "name": {
+        "en-US": "Our Lady of Fátima",
+        "pt-BR": "Nossa Senhora de Fátima"
+      },
+      "patronOf": {
+        "en-US": "Patroness of Portugal",
+        "pt-BR": "Padroeira de Portugal"
+      },
+      "prayerExcerpt": {
+        "en-US": "Pray the Rosary every day to obtain peace for the world.",
+        "pt-BR": "Rezai o Terço todos os dias para alcançar a paz no mundo."
+      }
+    },
+    {
+      "id": "moses_the_black",
+      "feast": {
+        "month": 8,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Moses the Black",
+        "pt-BR": "São Moisés, o Negro"
+      },
+      "patronOf": {
+        "en-US": "Patron of nonviolence",
+        "pt-BR": "Padroeiro da não violência"
+      },
+      "prayerExcerpt": {
+        "en-US": "Sit in your cell and your cell will teach you everything.",
+        "pt-BR": "Senta-te na tua cela e a tua cela te ensinará tudo."
+      }
+    },
+    {
+      "id": "holy_innocents",
+      "feast": {
+        "month": 12,
+        "day": 28
+      },
+      "name": {
+        "en-US": "The Holy Innocents",
+        "pt-BR": "Os Santos Inocentes"
+      },
+      "patronOf": {
+        "en-US": "Patrons of foundlings and babies",
+        "pt-BR": "Padroeiros dos enjeitados e bebês"
+      },
+      "prayerExcerpt": {
+        "en-US": "Out of the mouth of babes and infants you have established strength.",
+        "pt-BR": "Da boca dos pequeninos e crianças de peito tiraste o perfeito louvor."
+      }
+    },
+    {
+      "id": "paul",
+      "feast": {
+        "month": 6,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Paul the Apostle",
+        "pt-BR": "São Paulo Apóstolo"
+      },
+      "patronOf": {
+        "en-US": "Patron of missionaries and theologians",
+        "pt-BR": "Padroeiro dos missionários e teólogos"
+      },
+      "prayerExcerpt": {
+        "en-US": "I have fought the good fight, I have finished the race, I have kept the faith.",
+        "pt-BR": "Combati o bom combate, terminei a corrida, guardei a fé."
+      }
+    },
+    {
+      "id": "john_baptist",
+      "feast": {
+        "month": 6,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. John the Baptist",
+        "pt-BR": "São João Batista"
+      },
+      "patronOf": {
+        "en-US": "Patron of converts and baptism",
+        "pt-BR": "Padroeiro dos convertidos e do batismo"
+      },
+      "prayerExcerpt": {
+        "en-US": "He must increase, but I must decrease.",
+        "pt-BR": "É preciso que ele cresça e que eu diminua."
+      }
+    },
+    {
+      "id": "anne",
+      "feast": {
+        "month": 7,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Anne",
+        "pt-BR": "Sant’Ana"
+      },
+      "patronOf": {
+        "en-US": "Patron of mothers and grandmothers",
+        "pt-BR": "Padroeira das mães e avós"
+      },
+      "prayerExcerpt": {
+        "en-US": "Good St. Anne, mother of the Mother of God, pray for us.",
+        "pt-BR": "Boa Sant’Ana, mãe da Mãe de Deus, rogai por nós."
+      }
+    },
+    {
+      "id": "anthony_padua",
+      "feast": {
+        "month": 6,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Anthony of Padua",
+        "pt-BR": "Santo Antônio de Pádua"
+      },
+      "patronOf": {
+        "en-US": "Patron of lost things and the poor",
+        "pt-BR": "Padroeiro das coisas perdidas e dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Anthony, gentle and powerful in your help, restore to me what is lost.",
+        "pt-BR": "Santo Antônio, brando e poderoso em vosso auxílio, devolvei-me o que está perdido."
+      }
+    },
+    {
+      "id": "francis_assisi",
+      "feast": {
+        "month": 10,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Francis of Assisi",
+        "pt-BR": "São Francisco de Assis"
+      },
+      "patronOf": {
+        "en-US": "Patron of animals and ecology",
+        "pt-BR": "Padroeiro dos animais e da ecologia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lord, make me an instrument of your peace.",
+        "pt-BR": "Senhor, fazei-me instrumento de vossa paz."
+      }
+    },
+    {
+      "id": "thomas_aquinas",
+      "feast": {
+        "month": 1,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Thomas Aquinas",
+        "pt-BR": "São Tomás de Aquino"
+      },
+      "patronOf": {
+        "en-US": "Patron of students and theologians",
+        "pt-BR": "Padroeiro dos estudantes e teólogos"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant me, O Lord my God, a mind to know you, a heart to seek you.",
+        "pt-BR": "Concedei-me, ó Senhor meu Deus, uma mente que vos conheça, um coração que vos busque."
+      }
+    },
+    {
+      "id": "augustine",
+      "feast": {
+        "month": 8,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Augustine of Hippo",
+        "pt-BR": "Santo Agostinho de Hipona"
+      },
+      "patronOf": {
+        "en-US": "Patron of theologians and converts",
+        "pt-BR": "Padroeiro dos teólogos e convertidos"
+      },
+      "prayerExcerpt": {
+        "en-US": "You have made us for yourself, O Lord, and our heart is restless until it rests in you.",
+        "pt-BR": "Fizeste-nos para ti, Senhor, e o nosso coração está inquieto enquanto não repousa em ti."
+      }
+    },
+    {
+      "id": "jerome",
+      "feast": {
+        "month": 9,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Jerome",
+        "pt-BR": "São Jerônimo"
+      },
+      "patronOf": {
+        "en-US": "Patron of Scripture scholars and translators",
+        "pt-BR": "Padroeiro dos biblistas e tradutores"
+      },
+      "prayerExcerpt": {
+        "en-US": "Ignorance of Scripture is ignorance of Christ.",
+        "pt-BR": "A ignorância das Escrituras é a ignorância de Cristo."
+      }
+    },
+    {
+      "id": "ambrose",
+      "feast": {
+        "month": 12,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Ambrose",
+        "pt-BR": "Santo Ambrósio"
+      },
+      "patronOf": {
+        "en-US": "Patron of bishops and learning",
+        "pt-BR": "Padroeiro dos bispos e do estudo"
+      },
+      "prayerExcerpt": {
+        "en-US": "When in Rome, do as the Romans do.",
+        "pt-BR": "Quando em Roma, faze como os romanos."
+      }
+    },
+    {
+      "id": "gregory_great",
+      "feast": {
+        "month": 9,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Gregory the Great",
+        "pt-BR": "São Gregório Magno"
+      },
+      "patronOf": {
+        "en-US": "Patron of musicians and teachers",
+        "pt-BR": "Padroeiro dos músicos e mestres"
+      },
+      "prayerExcerpt": {
+        "en-US": "The proof of love is in the works.",
+        "pt-BR": "A prova do amor está nas obras."
+      }
+    },
+    {
+      "id": "john_chrysostom",
+      "feast": {
+        "month": 9,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. John Chrysostom",
+        "pt-BR": "São João Crisóstomo"
+      },
+      "patronOf": {
+        "en-US": "Patron of preachers and orators",
+        "pt-BR": "Padroeiro dos pregadores e oradores"
+      },
+      "prayerExcerpt": {
+        "en-US": "Glory be to God for all things.",
+        "pt-BR": "Glória a Deus por todas as coisas."
+      }
+    },
+    {
+      "id": "athanasius",
+      "feast": {
+        "month": 5,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Athanasius",
+        "pt-BR": "Santo Atanásio"
+      },
+      "patronOf": {
+        "en-US": "Patron of orthodox faith",
+        "pt-BR": "Padroeiro da fé ortodoxa"
+      },
+      "prayerExcerpt": {
+        "en-US": "God became man so that man might become God.",
+        "pt-BR": "Deus se fez homem para que o homem se tornasse Deus."
+      }
+    },
+    {
+      "id": "dominic",
+      "feast": {
+        "month": 8,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Dominic",
+        "pt-BR": "São Domingos"
+      },
+      "patronOf": {
+        "en-US": "Patron of preachers and astronomers",
+        "pt-BR": "Padroeiro dos pregadores e astrônomos"
+      },
+      "prayerExcerpt": {
+        "en-US": "Speak only of God, or with God.",
+        "pt-BR": "Falar somente de Deus, ou com Deus."
+      }
+    },
+    {
+      "id": "immaculate_conception",
+      "feast": {
+        "month": 12,
+        "day": 8
+      },
+      "name": {
+        "en-US": "The Immaculate Conception",
+        "pt-BR": "A Imaculada Conceição"
+      },
+      "patronOf": {
+        "en-US": "Mary conceived without sin",
+        "pt-BR": "Maria concebida sem pecado"
+      },
+      "prayerExcerpt": {
+        "en-US": "O Mary, conceived without sin, pray for us who have recourse to thee.",
+        "pt-BR": "Ó Maria, concebida sem pecado, rogai por nós que recorremos a vós."
+      }
+    },
+    {
+      "id": "assumption",
+      "feast": {
+        "month": 8,
+        "day": 15
+      },
+      "name": {
+        "en-US": "The Assumption of the Blessed Virgin Mary",
+        "pt-BR": "A Assunção da Bem-Aventurada Virgem Maria"
+      },
+      "patronOf": {
+        "en-US": "Mary taken body and soul into heaven",
+        "pt-BR": "Maria elevada em corpo e alma ao céu"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Almighty has done great things for me, and holy is his name.",
+        "pt-BR": "O Todo-Poderoso fez grandes coisas por mim, e santo é o seu nome."
+      }
+    },
+    {
+      "id": "annunciation",
+      "feast": {
+        "month": 3,
+        "day": 25
+      },
+      "name": {
+        "en-US": "The Annunciation",
+        "pt-BR": "A Anunciação do Senhor"
+      },
+      "patronOf": {
+        "en-US": "The Word made flesh in the Virgin",
+        "pt-BR": "O Verbo feito carne na Virgem"
+      },
+      "prayerExcerpt": {
+        "en-US": "Behold the handmaid of the Lord; be it done unto me according to thy word.",
+        "pt-BR": "Eis aqui a serva do Senhor; faça-se em mim segundo a vossa palavra."
+      }
+    },
+    {
+      "id": "nativity_bvm",
+      "feast": {
+        "month": 9,
+        "day": 8
+      },
+      "name": {
+        "en-US": "The Nativity of the Blessed Virgin Mary",
+        "pt-BR": "A Natividade da Bem-Aventurada Virgem Maria"
+      },
+      "patronOf": {
+        "en-US": "The birth of the Mother of God",
+        "pt-BR": "O nascimento da Mãe de Deus"
+      },
+      "prayerExcerpt": {
+        "en-US": "Your birth, O Virgin Mother of God, proclaimed joy to the whole world.",
+        "pt-BR": "Vosso nascimento, ó Virgem Mãe de Deus, anunciou alegria ao mundo inteiro."
+      }
+    },
+    {
+      "id": "visitation",
+      "feast": {
+        "month": 5,
+        "day": 31
+      },
+      "name": {
+        "en-US": "The Visitation",
+        "pt-BR": "A Visitação de Nossa Senhora"
+      },
+      "patronOf": {
+        "en-US": "Mary visiting Elizabeth",
+        "pt-BR": "Maria visitando Isabel"
+      },
+      "prayerExcerpt": {
+        "en-US": "Blessed are you among women, and blessed is the fruit of your womb.",
+        "pt-BR": "Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre."
+      }
+    },
+    {
+      "id": "presentation_bvm",
+      "feast": {
+        "month": 11,
+        "day": 21
+      },
+      "name": {
+        "en-US": "The Presentation of the Blessed Virgin Mary",
+        "pt-BR": "A Apresentação da Bem-Aventurada Virgem Maria"
+      },
+      "patronOf": {
+        "en-US": "Mary presented in the Temple",
+        "pt-BR": "Maria apresentada no Templo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Hail, holy Temple of the Lord, sacred dwelling of the Most High.",
+        "pt-BR": "Salve, santo Templo do Senhor, sagrada morada do Altíssimo."
+      }
+    },
+    {
+      "id": "nativity_christ",
+      "feast": {
+        "month": 12,
+        "day": 25
+      },
+      "name": {
+        "en-US": "The Nativity of Christ",
+        "pt-BR": "A Natividade do Senhor"
+      },
+      "patronOf": {
+        "en-US": "The Word made flesh",
+        "pt-BR": "O Verbo feito carne"
+      },
+      "prayerExcerpt": {
+        "en-US": "For unto us a child is born, unto us a son is given.",
+        "pt-BR": "Porque um menino nos nasceu, um filho nos foi dado."
+      }
+    },
+    {
+      "id": "epiphany",
+      "feast": {
+        "month": 1,
+        "day": 6
+      },
+      "name": {
+        "en-US": "The Epiphany of Our Lord",
+        "pt-BR": "A Epifania do Senhor"
+      },
+      "patronOf": {
+        "en-US": "Christ revealed to the nations",
+        "pt-BR": "Cristo revelado às nações"
+      },
+      "prayerExcerpt": {
+        "en-US": "We have seen his star in the east, and have come to adore him.",
+        "pt-BR": "Vimos a sua estrela no Oriente e viemos adorá-lo."
+      }
+    },
+    {
+      "id": "transfiguration",
+      "feast": {
+        "month": 8,
+        "day": 6
+      },
+      "name": {
+        "en-US": "The Transfiguration of Our Lord",
+        "pt-BR": "A Transfiguração do Senhor"
+      },
+      "patronOf": {
+        "en-US": "Christ revealed in glory",
+        "pt-BR": "Cristo revelado em glória"
+      },
+      "prayerExcerpt": {
+        "en-US": "This is my beloved Son, in whom I am well pleased; listen to him.",
+        "pt-BR": "Este é o meu Filho amado, no qual me comprazo; escutai-o."
+      }
+    },
+    {
+      "id": "exaltation_cross",
+      "feast": {
+        "month": 9,
+        "day": 14
+      },
+      "name": {
+        "en-US": "The Exaltation of the Holy Cross",
+        "pt-BR": "A Exaltação da Santa Cruz"
+      },
+      "patronOf": {
+        "en-US": "The triumph of the Cross",
+        "pt-BR": "O triunfo da Cruz"
+      },
+      "prayerExcerpt": {
+        "en-US": "We adore you, O Christ, and we bless you, for by your Cross you redeemed the world.",
+        "pt-BR": "Nós vos adoramos, ó Cristo, e vos bendizemos, porque pela vossa Cruz redimistes o mundo."
+      }
+    },
+    {
+      "id": "guardian_angels",
+      "feast": {
+        "month": 10,
+        "day": 2
+      },
+      "name": {
+        "en-US": "The Holy Guardian Angels",
+        "pt-BR": "Os Santos Anjos da Guarda"
+      },
+      "patronOf": {
+        "en-US": "Guardians of every soul",
+        "pt-BR": "Guardiões de cada alma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Angel of God, my guardian dear, to whom God’s love commits me here.",
+        "pt-BR": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina."
+      }
+    },
+    {
+      "id": "benedict",
+      "feast": {
+        "month": 7,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Benedict of Nursia",
+        "pt-BR": "São Bento de Núrsia"
+      },
+      "patronOf": {
+        "en-US": "Patron of Europe and monks",
+        "pt-BR": "Padroeiro da Europa e dos monges"
+      },
+      "prayerExcerpt": {
+        "en-US": "Listen, my son, and incline the ear of your heart.",
+        "pt-BR": "Escuta, meu filho, e inclina o ouvido do teu coração."
+      }
+    },
+    {
+      "id": "patrick",
+      "feast": {
+        "month": 3,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Patrick",
+        "pt-BR": "São Patrício"
+      },
+      "patronOf": {
+        "en-US": "Apostle of Ireland",
+        "pt-BR": "Apóstolo da Irlanda"
+      },
+      "prayerExcerpt": {
+        "en-US": "Christ before me, Christ behind me, Christ within me.",
+        "pt-BR": "Cristo diante de mim, Cristo atrás de mim, Cristo em mim."
+      }
+    },
+    {
+      "id": "nicholas",
+      "feast": {
+        "month": 12,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Nicholas of Bari",
+        "pt-BR": "São Nicolau de Bari"
+      },
+      "patronOf": {
+        "en-US": "Patron of children and sailors",
+        "pt-BR": "Padroeiro das crianças e dos marinheiros"
+      },
+      "prayerExcerpt": {
+        "en-US": "Holy Nicholas, who gave in secret, teach us the joy of hidden charity.",
+        "pt-BR": "São Nicolau, que destes em segredo, ensinai-nos a alegria da caridade oculta."
+      }
+    },
+    {
+      "id": "catherine_siena",
+      "feast": {
+        "month": 4,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Catherine of Siena",
+        "pt-BR": "Santa Catarina de Sena"
+      },
+      "patronOf": {
+        "en-US": "Doctor of the Church, patron of Italy",
+        "pt-BR": "Doutora da Igreja, padroeira da Itália"
+      },
+      "prayerExcerpt": {
+        "en-US": "If you are what you should be, you will set the whole world on fire.",
+        "pt-BR": "Se fordes o que deveis ser, poreis fogo ao mundo inteiro."
+      }
+    },
+    {
+      "id": "mary_magdalene",
+      "feast": {
+        "month": 7,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Mary Magdalene",
+        "pt-BR": "Santa Maria Madalena"
+      },
+      "patronOf": {
+        "en-US": "Apostle to the Apostles",
+        "pt-BR": "Apóstola dos Apóstolos"
+      },
+      "prayerExcerpt": {
+        "en-US": "I have seen the Lord!",
+        "pt-BR": "Eu vi o Senhor!"
+      }
+    },
+    {
+      "id": "monica",
+      "feast": {
+        "month": 8,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Monica",
+        "pt-BR": "Santa Mônica"
+      },
+      "patronOf": {
+        "en-US": "Patron of mothers",
+        "pt-BR": "Padroeira das mães"
+      },
+      "prayerExcerpt": {
+        "en-US": "Nothing is far from God.",
+        "pt-BR": "Nada está longe de Deus."
+      }
+    },
+    {
+      "id": "cecilia",
+      "feast": {
+        "month": 11,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Cecilia",
+        "pt-BR": "Santa Cecília"
+      },
+      "patronOf": {
+        "en-US": "Patron of musicians",
+        "pt-BR": "Padroeira dos músicos"
+      },
+      "prayerExcerpt": {
+        "en-US": "In her heart, Cecilia sang only to the Lord.",
+        "pt-BR": "Em seu coração, Cecília cantava somente ao Senhor."
+      }
+    },
+    {
+      "id": "agnes",
+      "feast": {
+        "month": 1,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Agnes",
+        "pt-BR": "Santa Inês"
+      },
+      "patronOf": {
+        "en-US": "Patron of purity and young girls",
+        "pt-BR": "Padroeira da pureza e das jovens"
+      },
+      "prayerExcerpt": {
+        "en-US": "I am betrothed to Him whom the Angels serve.",
+        "pt-BR": "Sou esposa Daquele a quem os Anjos servem."
+      }
+    },
+    {
+      "id": "ignatius_loyola",
+      "feast": {
+        "month": 7,
+        "day": 31
+      },
+      "name": {
+        "en-US": "St. Ignatius of Loyola",
+        "pt-BR": "Santo Inácio de Loyola"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Society of Jesus",
+        "pt-BR": "Fundador da Companhia de Jesus"
+      },
+      "prayerExcerpt": {
+        "en-US": "For the greater glory of God.",
+        "pt-BR": "Para a maior glória de Deus."
+      }
+    },
+    {
+      "id": "francis_xavier",
+      "feast": {
+        "month": 12,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Francis Xavier",
+        "pt-BR": "São Francisco Xavier"
+      },
+      "patronOf": {
+        "en-US": "Patron of missionaries",
+        "pt-BR": "Padroeiro das missões"
+      },
+      "prayerExcerpt": {
+        "en-US": "I love Thee, Lord, yet not because I hope for heaven thereby.",
+        "pt-BR": "Amo-Vos, Senhor, e não por esperar o céu em troca."
+      }
+    },
+    {
+      "id": "lucy",
+      "feast": {
+        "month": 12,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Lucy",
+        "pt-BR": "Santa Luzia"
+      },
+      "patronOf": {
+        "en-US": "Patron of the blind and of light",
+        "pt-BR": "Padroeira dos cegos e da luz"
+      },
+      "prayerExcerpt": {
+        "en-US": "Those who live chastely are temples of the Holy Spirit.",
+        "pt-BR": "Os que vivem com castidade são templos do Espírito Santo."
+      }
+    },
+    {
+      "id": "sebastian",
+      "feast": {
+        "month": 1,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Sebastian",
+        "pt-BR": "São Sebastião"
+      },
+      "patronOf": {
+        "en-US": "Patron of soldiers and athletes",
+        "pt-BR": "Padroeiro dos soldados e dos atletas"
+      },
+      "prayerExcerpt": {
+        "en-US": "I am a soldier of Christ.",
+        "pt-BR": "Sou um soldado de Cristo."
+      }
+    },
+    {
+      "id": "george",
+      "feast": {
+        "month": 4,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. George",
+        "pt-BR": "São Jorge"
+      },
+      "patronOf": {
+        "en-US": "Patron of soldiers",
+        "pt-BR": "Padroeiro dos soldados"
+      },
+      "prayerExcerpt": {
+        "en-US": "Stand firm in the faith, and fear no earthly sword.",
+        "pt-BR": "Permanecei firmes na fé e não temais espada alguma da terra."
+      }
+    },
+    {
+      "id": "vincent_de_paul",
+      "feast": {
+        "month": 9,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Vincent de Paul",
+        "pt-BR": "São Vicente de Paulo"
+      },
+      "patronOf": {
+        "en-US": "Patron of works of charity",
+        "pt-BR": "Padroeiro das obras de caridade"
+      },
+      "prayerExcerpt": {
+        "en-US": "The poor are our masters; we are their servants.",
+        "pt-BR": "Os pobres são nossos senhores; nós somos seus servos."
+      }
+    },
+    {
+      "id": "alphonsus_liguori",
+      "feast": {
+        "month": 8,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Alphonsus Liguori",
+        "pt-BR": "Santo Afonso de Ligório"
+      },
+      "patronOf": {
+        "en-US": "Doctor of the Church, patron of confessors",
+        "pt-BR": "Doutor da Igreja, padroeiro dos confessores"
+      },
+      "prayerExcerpt": {
+        "en-US": "He who prays is saved; he who does not pray is lost.",
+        "pt-BR": "Quem reza salva-se; quem não reza condena-se."
+      }
+    },
+    {
+      "id": "bernard_clairvaux",
+      "feast": {
+        "month": 8,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Bernard of Clairvaux",
+        "pt-BR": "São Bernardo de Claraval"
+      },
+      "patronOf": {
+        "en-US": "Doctor of the Church, the Mellifluous Doctor",
+        "pt-BR": "Doutor da Igreja, o Doutor Melífluo"
+      },
+      "prayerExcerpt": {
+        "en-US": "In dangers, in doubts, in difficulties, think of Mary, call upon Mary.",
+        "pt-BR": "Nos perigos, nas dúvidas, nas dificuldades, pensa em Maria, invoca Maria."
+      }
+    },
+    {
+      "id": "bonaventure",
+      "feast": {
+        "month": 7,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Bonaventure",
+        "pt-BR": "São Boaventura"
+      },
+      "patronOf": {
+        "en-US": "Doctor of the Church, the Seraphic Doctor",
+        "pt-BR": "Doutor da Igreja, o Doutor Seráfico"
+      },
+      "prayerExcerpt": {
+        "en-US": "Ask grace, not learning; longing, not the intellect.",
+        "pt-BR": "Pede a graça, não o saber; o desejo, não o intelecto."
+      }
+    },
+    {
+      "id": "charles_borromeo",
+      "feast": {
+        "month": 11,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Charles Borromeo",
+        "pt-BR": "São Carlos Borromeu"
+      },
+      "patronOf": {
+        "en-US": "Patron of bishops and catechists",
+        "pt-BR": "Padroeiro dos bispos e catequistas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Pray before, during, and after all that you do.",
+        "pt-BR": "Reza antes, durante e depois de tudo o que fizeres."
+      }
+    },
+    {
+      "id": "philip_neri",
+      "feast": {
+        "month": 5,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Philip Neri",
+        "pt-BR": "São Filipe Néri"
+      },
+      "patronOf": {
+        "en-US": "Apostle of Rome",
+        "pt-BR": "Apóstolo de Roma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Cast yourself with confidence into the arms of God.",
+        "pt-BR": "Lança-te com confiança nos braços de Deus."
+      }
+    },
+    {
+      "id": "aloysius_gonzaga",
+      "feast": {
+        "month": 6,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Aloysius Gonzaga",
+        "pt-BR": "São Luís Gonzaga"
+      },
+      "patronOf": {
+        "en-US": "Patron of youth",
+        "pt-BR": "Padroeiro da juventude"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is better to be a child of God than king of the whole world.",
+        "pt-BR": "É melhor ser filho de Deus do que rei do mundo inteiro."
+      }
+    },
+    {
+      "id": "rose_lima",
+      "feast": {
+        "month": 8,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Rose of Lima",
+        "pt-BR": "Santa Rosa de Lima"
+      },
+      "patronOf": {
+        "en-US": "Patron of the Americas",
+        "pt-BR": "Padroeira das Américas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Apart from the Cross there is no other ladder to heaven.",
+        "pt-BR": "Fora da Cruz não há outra escada para o céu."
+      }
+    },
+    {
+      "id": "elizabeth_hungary",
+      "feast": {
+        "month": 11,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Elizabeth of Hungary",
+        "pt-BR": "Santa Isabel da Hungria"
+      },
+      "patronOf": {
+        "en-US": "Patron of the Third Order and charity",
+        "pt-BR": "Padroeira da Ordem Terceira e da caridade"
+      },
+      "prayerExcerpt": {
+        "en-US": "How could I wear a crown of gold when the Lord wears a crown of thorns?",
+        "pt-BR": "Como poderia usar uma coroa de ouro, se o Senhor usou uma coroa de espinhos?"
+      }
+    },
+    {
+      "id": "clare_assisi",
+      "feast": {
+        "month": 8,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Clare of Assisi",
+        "pt-BR": "Santa Clara de Assis"
+      },
+      "patronOf": {
+        "en-US": "Foundress of the Poor Clares",
+        "pt-BR": "Fundadora das Clarissas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Gaze upon Him, consider Him, contemplate Him, and long to imitate Him.",
+        "pt-BR": "Olha-O, considera-O, contempla-O, e deseja imitá-Lo."
+      }
+    },
+    {
+      "id": "bridget_sweden",
+      "feast": {
+        "month": 7,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Bridget of Sweden",
+        "pt-BR": "Santa Brígida da Suécia"
+      },
+      "patronOf": {
+        "en-US": "Patron of Sweden and co-patron of Europe",
+        "pt-BR": "Padroeira da Suécia e copadroeira da Europa"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lord, show me Thy way and make me ready to follow it.",
+        "pt-BR": "Senhor, mostrai-me o vosso caminho e tornai-me pronto a segui-lo."
+      }
+    },
+    {
+      "id": "margaret_mary",
+      "feast": {
+        "month": 10,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Margaret Mary Alacoque",
+        "pt-BR": "Santa Margarida Maria Alacoque"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the Sacred Heart",
+        "pt-BR": "Apóstola do Sagrado Coração"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us love Him who has so loved us.",
+        "pt-BR": "Amemos Aquele que tanto nos amou."
+      }
+    },
+    {
+      "id": "stephen",
+      "feast": {
+        "month": 12,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Stephen",
+        "pt-BR": "Santo Estêvão"
+      },
+      "patronOf": {
+        "en-US": "The first martyr",
+        "pt-BR": "O primeiro mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lord, do not hold this sin against them.",
+        "pt-BR": "Senhor, não lhes leveis em conta este pecado."
+      }
+    },
+    {
+      "id": "mark",
+      "feast": {
+        "month": 4,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Mark the Evangelist",
+        "pt-BR": "São Marcos, Evangelista"
+      },
+      "patronOf": {
+        "en-US": "Evangelist, patron of Venice",
+        "pt-BR": "Evangelista, padroeiro de Veneza"
+      },
+      "prayerExcerpt": {
+        "en-US": "The beginning of the Gospel of Jesus Christ, the Son of God.",
+        "pt-BR": "Princípio do Evangelho de Jesus Cristo, Filho de Deus."
+      }
+    },
+    {
+      "id": "matthew",
+      "feast": {
+        "month": 9,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Matthew the Apostle",
+        "pt-BR": "São Mateus, Apóstolo"
+      },
+      "patronOf": {
+        "en-US": "Evangelist and apostle",
+        "pt-BR": "Evangelista e apóstolo"
+      },
+      "prayerExcerpt": {
+        "en-US": "“Follow me.” And he rose and followed Him.",
+        "pt-BR": "“Segue-me.” E ele se levantou e O seguiu."
+      }
+    },
+    {
+      "id": "andrew",
+      "feast": {
+        "month": 11,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Andrew the Apostle",
+        "pt-BR": "Santo André, Apóstolo"
+      },
+      "patronOf": {
+        "en-US": "The First-Called, patron of Scotland",
+        "pt-BR": "O Primeiro Chamado, padroeiro da Escócia"
+      },
+      "prayerExcerpt": {
+        "en-US": "We have found the Messiah.",
+        "pt-BR": "Encontramos o Messias."
+      }
+    },
+    {
+      "id": "james_greater",
+      "feast": {
+        "month": 7,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. James the Greater",
+        "pt-BR": "São Tiago Maior"
+      },
+      "patronOf": {
+        "en-US": "Patron of pilgrims and of Spain",
+        "pt-BR": "Padroeiro dos peregrinos e da Espanha"
+      },
+      "prayerExcerpt": {
+        "en-US": "We are able to drink the chalice.",
+        "pt-BR": "Podemos beber o cálice."
+      }
+    },
+    {
+      "id": "bartholomew",
+      "feast": {
+        "month": 8,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Bartholomew the Apostle",
+        "pt-BR": "São Bartolomeu, Apóstolo"
+      },
+      "patronOf": {
+        "en-US": "Apostle and martyr",
+        "pt-BR": "Apóstolo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Rabbi, You are the Son of God.",
+        "pt-BR": "Rabi, Tu és o Filho de Deus."
+      }
+    },
+    {
+      "id": "thomas_apostle",
+      "feast": {
+        "month": 7,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Thomas the Apostle",
+        "pt-BR": "São Tomé, Apóstolo"
+      },
+      "patronOf": {
+        "en-US": "Apostle, patron of India",
+        "pt-BR": "Apóstolo, padroeiro da Índia"
+      },
+      "prayerExcerpt": {
+        "en-US": "My Lord and my God!",
+        "pt-BR": "Meu Senhor e meu Deus!"
+      }
+    },
+    {
+      "id": "matthias",
+      "feast": {
+        "month": 5,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Matthias the Apostle",
+        "pt-BR": "São Matias, Apóstolo"
+      },
+      "patronOf": {
+        "en-US": "The apostle chosen by lot",
+        "pt-BR": "O apóstolo escolhido por sorteio"
+      },
+      "prayerExcerpt": {
+        "en-US": "And the lot fell upon Matthias.",
+        "pt-BR": "E a sorte caiu sobre Matias."
+      }
+    },
+    {
+      "id": "simon_jude",
+      "feast": {
+        "month": 10,
+        "day": 28
+      },
+      "name": {
+        "en-US": "Sts. Simon and Jude",
+        "pt-BR": "São Simão e São Judas Tadeu"
+      },
+      "patronOf": {
+        "en-US": "Apostles; St. Jude, patron of hopeless causes",
+        "pt-BR": "Apóstolos; São Judas, padroeiro das causas impossíveis"
+      },
+      "prayerExcerpt": {
+        "en-US": "Beloved, build yourselves up in your most holy faith.",
+        "pt-BR": "Caríssimos, edificai-vos sobre a vossa santíssima fé."
+      }
+    },
+    {
+      "id": "barnabas",
+      "feast": {
+        "month": 6,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Barnabas the Apostle",
+        "pt-BR": "São Barnabé, Apóstolo"
+      },
+      "patronOf": {
+        "en-US": "Apostle, the Son of Encouragement",
+        "pt-BR": "Apóstolo, o Filho da Consolação"
+      },
+      "prayerExcerpt": {
+        "en-US": "He was a good man, full of the Holy Spirit and of faith.",
+        "pt-BR": "Era um homem bom, cheio do Espírito Santo e de fé."
+      }
+    },
+    {
+      "id": "philip_james",
+      "feast": {
+        "month": 5,
+        "day": 3
+      },
+      "name": {
+        "en-US": "Sts. Philip and James",
+        "pt-BR": "São Filipe e São Tiago"
+      },
+      "patronOf": {
+        "en-US": "Apostles of the Lord",
+        "pt-BR": "Apóstolos do Senhor"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lord, show us the Father, and we shall be satisfied.",
+        "pt-BR": "Senhor, mostra-nos o Pai, e isso nos basta."
+      }
+    }
+  ]
+}

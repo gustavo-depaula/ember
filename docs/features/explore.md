@@ -84,6 +84,6 @@ rule of life.)
 - `apps/app/src/app/(tabs)/(today,explore,library,you)/explore.tsx` — composes the above.
 - Reuses: `Typography` (Ladder of Reverence), `ScreenLayout`, `useToday`, `@/lib/liturgical`,
   `getEntriesByKind`/`getEntry`/`getCollectionItems`, `useResolvedImageUri`, `hearthAssetUrl`,
-  `CreatorGridCard`, `saints` data + `SaintCard`.
+  `CreatorGridCard`, `useSaintsCatalog` (Hearth-served holy cards) + `SaintCard`.
 - Retired from Explore (kept for `/browse`): `DiscoverySections`, `HeroCard`, `SeasonCard`,
   `sectionLayout`, `LatestRow`.
