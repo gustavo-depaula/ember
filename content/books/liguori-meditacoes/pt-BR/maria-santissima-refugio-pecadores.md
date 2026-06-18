@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima é o refúgio dos pecadores
+
 > *Convenite et ingrediamur civitatem munitam; et sileamus ibi* – “Ajuntai-vos, e entremos na cidade fortificada, e guardemos aí silêncio” (Jer 8, 14)
 
 ***Sumário.** Nas cidades antigas de refúgio, não achavam abrigo todos os delinquentes, nem para toda a espécie de delitos. Mas debaixo do manto da proteção de Maria, todo o pecador acha refúgio, seja qual for o crime cometido; porquanto foi esta a vontade de Deus constituindo-a Refúgio dos pecadores. Não desanimemos, pois, meu irmão; mas, seja qual for o nosso estado, chamemos a divina Mãe em nosso auxílio e acha-la-emos sempre pronta a ajudar-nos em todas as necessidades. Invoquemo-la especialmente sob o título que ela preza tanto, de Mãe do Perpétuo Socorro.*

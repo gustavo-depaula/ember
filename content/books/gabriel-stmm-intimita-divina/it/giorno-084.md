@@ -1,4 +1,4 @@
-## 8 — IL SEME DIVINO
+# 8 — IL SEME DIVINO
 
 *domenica di Sessagesima*
 

@@ -1,4 +1,4 @@
-## 5 — HOLINESS AND THE WILL OF GOD
+# 5 — HOLINESS AND THE WILL OF GOD
 
 **Presence of God.** — *I place myself in the presence of Jesus in the Blessed Sacrament, asking Him for the grace to make His words penetrate my soul: «He who does the will of my Father… shall enter the kingdom of heaven» *(Mt.* 7, 21).*
 

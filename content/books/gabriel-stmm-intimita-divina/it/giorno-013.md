@@ -1,4 +1,4 @@
-## 13 — LA RICERCA DI DIO E I DOVERI QUOTIDIANI
+# 13 — LA RICERCA DI DIO E I DOVERI QUOTIDIANI
 
 **Presenza di Dio.** — *Anima mia, ritirati nel tuo interno e lì persevera nell'oblio di tutte le cose, cercando Dio con l'affetto del cuore.*
 

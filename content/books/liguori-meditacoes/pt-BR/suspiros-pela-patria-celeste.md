@@ -1,3 +1,5 @@
+# Outra meditação para a tarde do mesmo dia. Suspiros pela Pátria Celeste
+
 > Sitivit anima mea ad Deum fortem vivum: quando veniam, et apparebo ante faciem Dei — “A minha alma está ardendo de sede pelo Deus forte e vivo; quando virei e aparecerei diante da face de Deus?” (Sl 41, 3)
 
 **I.** Feliz daquele que se salva e, deixando este lugar de desterro, entra na Jerusalém celeste a gozar o dia que será sempre dia radiante; a ver-se livre de toda a angústia e de todo temor de não chegar àquela felicidade imensa! Jacó dizia:

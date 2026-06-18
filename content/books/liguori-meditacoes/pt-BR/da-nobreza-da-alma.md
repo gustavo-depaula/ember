@@ -1,3 +1,5 @@
+# Terça-feira. Da nobreza da alma
+
 A Modéstia é uma das formas de demonstrar a nobreza da alma
 
 > *Fili, in mansuetudine serva animam tuam, et da illi honorem secundum meritum suum – “Filho, guarda a tua alma na mansidão, e dá-lhe honra segundo o seu merecimento”* (Ecle 10, 31)

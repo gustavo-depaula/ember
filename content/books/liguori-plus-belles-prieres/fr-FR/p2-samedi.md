@@ -1,4 +1,4 @@
-## Le Samedi consacré à Notre-Dame du Perpétuel-Secours
+# Le Samedi consacré à Notre-Dame du Perpétuel-Secours
 
 Notice. — En 1866, Pie IX, de sainte mémoire, voulut replacer sur les autels l'antique Image miraculeuse de Notre-Dame du Perpétuel-Secours, cachée depuis la révolution française, et ce fut à l'église des Rédemptoristes de Rome, dédiée à saint Alphonse de Liguori, qu'il voulut confier ce précieux trésor. Depuis lors, des milliers de conversions et de guérisons merveilleuses ont été obtenues, non seulement dans ce sanctuaire privilégié, mais encore partout où les copies du tableau original sont vénérées. Âme fidèle, procurez-vous cette image ; elle sera pour vous un gage des faveurs du ciel. En toutes vos nécessités, invoquez la douce Vierge qu'elle représente, et qui se plaît à vérifier son titre si consolant de Mère du Perpétuel-Secours.[^1]
 

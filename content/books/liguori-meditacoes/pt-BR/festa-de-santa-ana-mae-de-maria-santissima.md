@@ -1,3 +1,5 @@
+# 26 de Julho. Festa de Santa Ana, Mãe de Maria Santíssima
+
 > *Laudemus viros gloriosos et parentes nostros in generatione sua* — “Louvemos aos varões gloriosos e aos nossos pais na sua geração” (Eclo 44, 1)
 
 ***Sumário**. A dignidade de Santa Ana e de São Joaquim é tão grande, que a inteligência humana não a pode compreender. São os pais de Maria Santíssima e portanto os avoengos de Jesus Cristo quanto à natureza humana. A sua santidade é proporcionada à sua dignidade, porquanto é fora de dúvida que Deus lhes comunicou graças proporcionadas ao ofício ao qual os quis destinar. Alegremo-nos com os santos esposos e vejamos se lhes temos uma devoção especial, pela imitação das suas virtudes, especialmente do seu espírito de sacrifício e do seu amor para com Deus e o próximo.*

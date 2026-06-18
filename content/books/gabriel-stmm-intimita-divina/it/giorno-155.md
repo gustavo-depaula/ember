@@ -1,4 +1,4 @@
-## XVI — ARIDITÀ E PROGRESSO
+# XVI — ARIDITÀ E PROGRESSO
 
 **Presenza di Dio.** — *O Signore, aiutami a cercarti e ad unirmi a te, anche attraverso le aridità e le impotenze dello spirito.*
 

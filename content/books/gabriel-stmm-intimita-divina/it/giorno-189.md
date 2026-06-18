@@ -1,4 +1,4 @@
-## XX — LA DISCESA DELLO SPIRITO SANTO
+# XX — LA DISCESA DELLO SPIRITO SANTO
 
 *Domenica di Pentecoste*
 

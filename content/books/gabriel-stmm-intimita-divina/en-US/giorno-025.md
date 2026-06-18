@@ -1,4 +1,4 @@
-## 25 — APOSTOLIC ACTION
+# 25 — APOSTOLIC ACTION
 
 **Presence of God.** — *I place myself in the presence of Jesus to learn from Him, the first and only Apostle, what qualities my action must have so that it may truly benefit souls.*
 

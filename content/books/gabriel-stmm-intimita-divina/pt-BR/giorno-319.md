@@ -1,4 +1,4 @@
-## XXVII — BEM-AVENTURADOS OS PUROS DE CORAÇÃO
+# XXVII — BEM-AVENTURADOS OS PUROS DE CORAÇÃO
 
 **Presença de Deus.** — *Aumenta, ó Senhor, a pureza do meu coração e da minha mente, para que eu possa conhecer-te sempre melhor.*
 

@@ -1,4 +1,4 @@
-## XXXI — FORTITUDE
+# XXXI — FORTITUDE
 **Presence of God.** — *Teach me, O Lord, to act manfully, trusting in You.*
 
 ### Meditation

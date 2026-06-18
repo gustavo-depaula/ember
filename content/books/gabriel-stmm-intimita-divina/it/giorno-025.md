@@ -1,4 +1,4 @@
-## 25 — L'AZIONE APOSTOLICA
+# 25 — L'AZIONE APOSTOLICA
 
 **Presenza di Dio.** — *Mi metto alla presenza di Gesù per imparare da lui, primo ed unico Apostolo, quali requisiti deve avere la mia azione perchè possa realmente giovare alle anime.*
 

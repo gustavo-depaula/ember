@@ -1,4 +1,4 @@
-## 58 — THE SUPPER AT BETHANY
+# 58 — THE SUPPER AT BETHANY
 
 *Monday of Holy Week*
 

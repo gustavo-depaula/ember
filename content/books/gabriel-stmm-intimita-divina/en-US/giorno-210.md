@@ -1,4 +1,4 @@
-## X — DEVOTION TO THE HEART OF JESUS
+# X — DEVOTION TO THE HEART OF JESUS
 
 **Presence of God.** — *O Sacred Heart of Jesus, teach me to know You, teach me to love You.*
 

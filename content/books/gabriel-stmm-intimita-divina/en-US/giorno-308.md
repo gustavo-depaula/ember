@@ -1,4 +1,4 @@
-## XVI — THE GIFT OF FORTITUDE
+# XVI — THE GIFT OF FORTITUDE
 
 **Presence of God.** — *O Holy Spirit, who know my weakness, make me strong with your divine strength.*
 

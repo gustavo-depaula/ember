@@ -1,4 +1,4 @@
-## 35 — L'UMILTÀ DEL CUORE
+# 35 — L'UMILTÀ DEL CUORE
 
 **Presenza di Dio.** — *O Gesù, dolce ed umile di cuore, rendi il mio cuore simile al tuo.*
 

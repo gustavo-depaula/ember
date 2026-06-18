@@ -1,4 +1,4 @@
-## III — Sposa dello Spirito Santo
+# III — Sposa dello Spirito Santo
 
 **Presenza di Dio.** — *O Maria, sposa dello Spirito Santo, rendimi docile alle sue divine mozioni.*
 

@@ -1,4 +1,4 @@
-## 57 — "EU SOU O CAMINHO"
+# 57 — "EU SOU O CAMINHO"
 
 **Presença de Deus.** — *Ó Jesus, meu doce Mestre, toma-me pela mão e guia-me ao Pai: só Tu és o caminho da salvação e da santidade.*
 

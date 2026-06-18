@@ -1,3 +1,5 @@
+# Quarta-feira. Qual será o gozo dos Bem-aventurados no paraíso
+
 A glória dos Santos (Corrado Giaquinto)
 
 > *Videmus nunc per speculum in aenigmale; tunc autem facie ad faciem* – “Vemos agora (a Deus) como por um espelho, em enigma; porém então face a face” (I Cor 13, 12)

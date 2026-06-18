@@ -1,3 +1,5 @@
+# Quarta-feira. Necessidade da perseverança
+
 > *Qui autem perseveraverit usque in finem, hic salvus erit* – “Quem perseverar até o fim, será salvo” (Mt 24, 13)
 
 ***Sumário.** Meu irmão, puseste agora mãos à obra; começaste a viver bem. Dá por isso graças ao Senhor. Lembra-te, porém, que ao que começa a recompensa é apenas prometida, mas é dada somente ao que persevera até ao fim. Quantos começarem bem, talvez melhor do que tu, mas depois acabaram mal e agora ardem no inferno! Para obteres a perseverança, deves em primeiro lugar pedi-la a Deus, e de teu lado deves empregar os meios mais apropriados.*

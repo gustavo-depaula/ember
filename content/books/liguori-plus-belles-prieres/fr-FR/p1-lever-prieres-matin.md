@@ -1,6 +1,4 @@
-# Première Partie — Exercices de chaque Jour
-
-## 1. Le lever
+# 1. Le lever
 
 Le matin, dès votre réveil, faites comme les enfants qui, en s'éveillant, cherchent aussitôt leur nourriture ; élevez votre cœur vers Dieu par un acte d'amour, offrez-lui les actions de la journée, et priez-le de vous aider.
 

@@ -1,4 +1,4 @@
-## 21 — LO SPIRITO DI MORTIFICAZIONE
+# 21 — LO SPIRITO DI MORTIFICAZIONE
 
 **Presenza di Dio.** — *Ritorno ai tuoi piedi, o Gesù crocifisso, col desiderio di comprendere più a fondo lo spirito di mortificazione.*
 

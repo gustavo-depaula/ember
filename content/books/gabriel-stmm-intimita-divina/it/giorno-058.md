@@ -1,4 +1,4 @@
-## 58 — «Io sono nel Padre»
+# 58 — «Io sono nel Padre»
 
 **Presenza di Dio.** — *Concedimi, o Gesù, di penetrare nelle intime disposizioni dell'Anima tua, in continua personale unione col Padre.*
 

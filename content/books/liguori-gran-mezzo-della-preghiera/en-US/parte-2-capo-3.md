@@ -1,6 +1,4 @@
-# Part Two
-
-## Chapter III — The System of Jansenius Concerning Relatively Victorious Delectation Is Set Forth and Refuted
+# Chapter III — The System of Jansenius Concerning Relatively Victorious Delectation Is Set Forth and Refuted
 
 In the following chapter, as we indicated above, we shall demonstrate that the grace of prayer is given to all. But this position does not please Jansenius; he goes so far as to call it a delusion: *It is a delusion to think that the grace to pray is always present to man.* For speaking according to his system, he says that even for praying there is needed the relatively victorious delectation, which is not granted to all; therefore he adds that not all have sufficient grace and the power to fulfill the precepts, since many lack the remote grace to pray as they ought, or to pray in any manner at all: *Since then very many either do not ask for the grace by which they can fulfill the precepts, or do not ask as is necessary, and God does not grant to all the grace either of praying fervently or of praying at all, it is most evident that many of the faithful lack that sufficient grace and that perpetual power of fulfilling the precepts which some preach.* Therefore, before proceeding to prove our position, it is necessary to refute his pernicious system, from which all his errors then derive, and to show that he, not others, has been the deluded one.
 

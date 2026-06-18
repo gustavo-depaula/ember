@@ -1,4 +1,4 @@
-## 59 — A ORAÇÃO DE JESUS
+# 59 — A ORAÇÃO DE JESUS
 
 **Presença de Deus.** — *Ó Jesus, concede-me penetrar no santuário da tua santíssima Alma e revela-me o segredo da tua oração.*
 

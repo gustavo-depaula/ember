@@ -1,4 +1,4 @@
-## 30 — THE WAY OF UNION
+# 30 — THE WAY OF UNION
 
 **Presence of God.** — *Give me light, O Lord, and give me strength to tear from myself all that prevents me from uniting with You.*
 

@@ -1,4 +1,4 @@
-## 32 — O AMOR PURIFICANTE
+# 32 — O AMOR PURIFICANTE
 
 **Presença de Deus.** — *Ó Senhor, ajuda-me a escancarar minha alma à invasão de teu amor purificante.*
 

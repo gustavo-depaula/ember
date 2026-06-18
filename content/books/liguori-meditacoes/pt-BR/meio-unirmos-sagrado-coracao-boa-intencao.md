@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Março. Meio de nos unirmos ao Sagrado Coração: a Boa Intenção
+
 > *Oculi eius sine intermissione inspicientes in viis eorum* – “Os seus olhos se aplicam sem intermissão a considerar os seus caminhos” (Eclo 17, 16)
 
 ***Sumário.** A boa intenção é tão agradável a Jesus Cristo, que tem o poder de nos introduzir no seu Coração. Feliz aquele que se serve dela para ir habitar nesta morada de amor! Todas as obras exteriores que não procedem do coração e não são acompanhadas de boa intenção, não têm valor algum diante de Deus. Toda a glória de uma alma consiste em ser inteiramente unida pelo Coração de Jesus.*

@@ -1,3 +1,5 @@
+# Segunda-feira. Incerteza da hora da morte
+
 > *Videte, vigilate et orate: nescitis enim quando tempus sit* – “Estai de sobreaviso, vigiai e orai ; porque não sabeis quando seja o tempo” (Mc 13, 33)
 
 ***Sumário.** Irmão meu, já está fixado o ano, o mês, o dia, a hora e o momento em que devemos deixar a terra e entrar na eternidade; esse tempo é-nos, porém, desconhecido. Jesus Cristo no-lo oculta a fim de estarmos sempre preparados para morrer. Ora, dize-me: se a morte te viesse colher neste instante, achar-se-ia a tua consciência em bom estado? Oh, quantos já morreram, e morrem cada dia subitamente!*

@@ -1,3 +1,5 @@
+# Sábado. Aparição de Jesus ressuscitado a sua Mãe Maria Santíssima
+
 > *Secundum multitudinem dolorum meorum in corde meo, consolationes tuae laetificaverunt animam meam* – “Segundo as muitas dores que provou o meu coração, as tuas consolações alegraram a minha alma” (Sl 93, 19)
 
 ***Sumário.** Era de justiça que Maria Santíssima, que mais do que qualquer outro tomou parte na Paixão de Jesus Cristo, fosse também a primeira a gozar da alegria da sua ressurreição. Imaginemos vê-la no momento em que lhe aparece o divino Redentor glorificado, acompanhado de grande multidão de Santos, entre os quais São José, São Joaquim e Santa Ana. Oh! Que ternos abraços! Que doces colóquios! Alegremo-nos com a nossa querida Mãe e digamos-lhe: *Regina coeli, laetare, alleluia — “Rainha dos céus, alegrai-vos, aleluia!”*.*

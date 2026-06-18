@@ -1,4 +1,4 @@
-## XXXI — MARIA MEDIATRIZ
+# XXXI — MARIA MEDIATRIZ
 
 **Presença de Deus.** — *Ó Maria, como Jesus quis vir a nós por meio de ti, faze que por teu meio eu possa ir a Ele.*
 

@@ -1,4 +1,4 @@
-## Preface
+# Preface
 
 Mental prayer is an indispensable means of interior life; indeed, normally it is its spontaneous breath. However, this is not usually achieved unless the soul applies itself to it for a certain time with its own effort: in other words, one must learn how to make prayer.
 

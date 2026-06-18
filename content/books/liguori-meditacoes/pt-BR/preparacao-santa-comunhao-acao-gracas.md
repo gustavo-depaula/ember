@@ -1,3 +1,5 @@
+# Quinta-feira. Da preparação para a Santa Comunhão e da ação de graças
+
 > *Praeparate corda vestra Domino, et servite ei soli* – “Preparai os vossos corações para o Senhor, e servi a Ele só” (1 Rs 7, 3)
 
 ***Sumário.** Três coisas são necessárias para a alma colher muito fruto da santa comunhão. Primeiro, o desapego das criaturas, banindo do coração tudo que não é de Deus ou para Deus. Segundo, o desejo de receber a Jesus Cristo com o único fim de mais o amar. Terceiro, a devida ação de graças depois da comunhão; imaginando que reside na alma como num trono de graças. Oh! Que tesouros de graças perde o cristão que pouco pensa em orar depois da comunhão!*

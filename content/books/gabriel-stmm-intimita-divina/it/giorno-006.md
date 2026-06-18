@@ -1,4 +1,4 @@
-## 6 — LA SANTITÀ E I PROPRI DOVERI
+# 6 — LA SANTITÀ E I PROPRI DOVERI
 
 **Presenza di Dio.** — *Mi metto alla presenza di Dio col vivo desiderio che mi aiuti a conoscere ed a compiere la sua santa volontà.*
 

@@ -1,3 +1,5 @@
+# 19 de Julho. Festa de São Vicente de Paulo
+
 > *Oculus fui caeco, et pes claudo; pater eram pauperum *— “Eu fui o olho do cego e o pé do coxo; eu era o pai dos pobres” (Jó 29, 15-16)
 
 ***Sumário.** O caráter distintivo deste santo é a sua caridade para com os pobres, de modo que não havia calamidade que ele não procurasse remediar. O que o animava e o sustentava no meio dos trabalhos do seu apostolado, era o seu amor para com Deus e a dignidade sublime dos pobres quando considerados à luz da fé. Ah! Se amássemos a Jesus Cristo e nos habituássemos a vê-lo na pessoa dos pobres, a nossa caridade também seria fecunda em santas ações!*

@@ -1,4 +1,4 @@
-## XIII — GENTLENESS
+# XIII — GENTLENESS
 **Presence of God.** — *O Lord, who are sweet and gentle, teach me gentleness of heart, the suavity of manner.*
 
 ### Meditation

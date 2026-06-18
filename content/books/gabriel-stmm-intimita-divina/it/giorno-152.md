@@ -1,4 +1,4 @@
-## XIII — ORAZIONE DI RACCOGLIMENTO
+# XIII — ORAZIONE DI RACCOGLIMENTO
 
 **Presenza di Dio.** — *O Dio mio, che io possa trovarti in me, nel piccolo cielo dell'anima mia.*
 

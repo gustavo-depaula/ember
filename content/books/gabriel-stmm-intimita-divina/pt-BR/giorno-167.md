@@ -1,4 +1,4 @@
-## XXVIII — PARTICIPAR NA S. MISSA
+# XXVIII — PARTICIPAR NA S. MISSA
 
 **Presença de Deus.** — *Ó Jesus, que em cada dia e em cada hora te imolas em nossos altares, digna-te associar-me ao teu Sacrifício.*
 

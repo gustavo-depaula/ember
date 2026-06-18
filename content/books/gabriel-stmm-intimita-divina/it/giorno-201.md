@@ -1,4 +1,4 @@
-## I — FESTA DEL «CORPUS DOMINI»
+# I — FESTA DEL «CORPUS DOMINI»
 
 *giovedì dopo la I Domenica dopo Pentecoste*
 

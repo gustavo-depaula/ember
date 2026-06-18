@@ -1,4 +1,4 @@
-## 64 — JESUS AND MEN
+# 64 — JESUS AND MEN
 
 **Presence of God.** — *O Jesus, teach me to love my brothers and sisters as You love them.*
 

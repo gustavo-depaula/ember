@@ -1,4 +1,4 @@
-## 15 — IL SIGNORE È VICINO
+# 15 — IL SIGNORE È VICINO
 
 *III domenica d'Avvento*
 

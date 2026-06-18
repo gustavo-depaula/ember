@@ -1,4 +1,4 @@
-## XVIII — CONFIANÇA INABALÁVEL
+# XVIII — CONFIANÇA INABALÁVEL
 
 *IV Domingo depois de Pentecostes*
 

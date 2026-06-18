@@ -1,4 +1,4 @@
-## 43 — HUMBLE AND REVERENT LOVE
+# 43 — HUMBLE AND REVERENT LOVE
 
 **Presence of God.** — *O God, who are so great, deign to raise up to You my soul so small and miserable.*
 

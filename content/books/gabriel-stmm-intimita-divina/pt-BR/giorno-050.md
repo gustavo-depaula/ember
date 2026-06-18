@@ -1,4 +1,4 @@
-## 50 — «EU SOU A VERDADE»
+# 50 — «EU SOU A VERDADE»
 
 **Presença de Deus.** — *Ó Jesus, Verbo Encarnado, esplendor e luz do Pai, instrui e ilumina a minha alma.*
 

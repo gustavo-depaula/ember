@@ -1,4 +1,4 @@
-## 11. Prières du soir
+# 11. Prières du soir
 
 *Mettons-nous en la présence de Dieu, et adorons-le.*
 

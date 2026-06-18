@@ -1,4 +1,4 @@
-## 50 — THE MUTUAL GIFT
+# 50 — THE MUTUAL GIFT
 
 **Presence of God.** — *O Lord, may I be all for You and You all for me!*
 

@@ -1,3 +1,5 @@
+# Terça-feira. Loucura dos pecadores
+
 > *Sapientia enin huius mundi stultitia est apud Deum* – “A sabedoria deste mundo é loucura diante de Deus” (1 Cor 3, 19)
 
 ***Sumário.** Quem crê na vida futura e apesar disso vive no pecado e longe de Deus, merece ser metido num hospício de doidos. Com efeito, que loucura, renunciar ao paraíso e merecer o inferno por um vil interesse, por um pouco de fumo, por um prazer vergonhoso! O pior porém, é que o número de semelhantes loucos é infinito, e no mesmo tempo que são tão loucos, eles se têm por homens sábios e prudentes. Irmão meu, serás tu por ventura do número desses infelizes?*

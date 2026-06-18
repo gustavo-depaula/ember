@@ -1,4 +1,4 @@
-## XXVII — FESTA DELLA SS.MA TRINITÀ
+# XXVII — FESTA DELLA SS.MA TRINITÀ
 
 *I Domenica dopo Pentecoste*
 

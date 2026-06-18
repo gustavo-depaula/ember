@@ -1,4 +1,4 @@
-## XXVII — FESTA DA SS.MA TRINDADE
+# XXVII — FESTA DA SS.MA TRINDADE
 
 *I Domingo depois de Pentecostes*
 

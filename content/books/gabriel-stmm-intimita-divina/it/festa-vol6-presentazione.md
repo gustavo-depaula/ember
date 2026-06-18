@@ -1,4 +1,4 @@
-## 21 novembre — PRESENTAZIONE DI MARIA AL TEMPIO
+# 21 novembre — PRESENTAZIONE DI MARIA AL TEMPIO
 
 **Presenza di Dio.** — *O Maria, presenta Tu la mia offerta e la mia vita al Signore.*
 

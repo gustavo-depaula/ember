@@ -1,4 +1,4 @@
-## 57 — "I AM THE WAY"
+# 57 — "I AM THE WAY"
 
 **Presence of God.** — *O Jesus, my sweet Master, take me by the hand and lead me to the Father: You alone are the way of salvation and holiness.*
 

@@ -1,3 +1,5 @@
+# Domingo. As promessas de Deus e a eficácia da oração
+
 ## Meditação para o 6º Domingo depois da Páscoa
 
 > *Amen, amen dico vobis: si quid petieritis Patrem in nomine meo, dabit vobis* – “Em verdade, em verdade vos digo: se pedirdes alguma coisa ao Pai em meu nome, Ele vo-la dará” (Jo 16, 23)

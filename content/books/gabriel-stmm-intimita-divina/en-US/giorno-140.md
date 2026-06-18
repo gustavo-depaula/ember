@@ -1,4 +1,4 @@
-## I — THE LORD'S PASSOVER
+# I — THE LORD'S PASSOVER
 *Easter Sunday*
 
 **Presence of God.** — *O risen Jesus, make me worthy to share in the joy of your Resurrection.*

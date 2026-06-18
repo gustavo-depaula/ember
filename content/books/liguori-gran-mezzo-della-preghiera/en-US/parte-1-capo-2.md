@@ -1,6 +1,4 @@
-# Part One
-
-## Chapter II — On the Power of Prayer
+# Chapter II — On the Power of Prayer
 
 So dear to God are our prayers that He has appointed the angels to present them to Him as soon as they are offered by us.
 

@@ -1,4 +1,4 @@
-## XVII — PRUDENCE
+# XVII — PRUDENCE
 **Presence of God.** — *Teach me, O Lord, the way of true prudence.*
 
 ### Meditation

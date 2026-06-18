@@ -1,4 +1,4 @@
-## IV — LA SEMPLICITÀ DIVINA
+# IV — LA SEMPLICITÀ DIVINA
 
 **Presenza di Dio.** — *O Signore, Essere semplicissimo, semplifica il mio sguardo ed il mio cuore affinché possa servirti con semplicità di spirito.*
 

@@ -1,3 +1,5 @@
+# Terça-feira. Pensamento da morte faz perder o apego dos bens do mundo
+
 > *Dives cum dormierit, nihil secum aufert; aperiet óculos suos, et nihil inveniet* – “O rico, quando dormir, nada levará consigo; abrirá os olhos e nada achará” (Jó 27, 19)
 
 ***Sumário.** Oh! Quão bem aprecia as coisas e dirige as suas ações, o que as aprecia e dirige tendo em vista a morte! Lembra-te, portanto, muitas vezes, meu irmão, de que todas as fortunas deste mundo acabam com um último suspiro, com um cortejo fúnebre. Em breve terás de ceder a outrem as tuas dignidades e riquezas. O túmulo será a morada do teu corpo até ao dia do juízo, e tua alma estará ou no céu, ou no inferno, para ali ficar eternamente. Então nada acharás senão o bem ou o mal que fizeste; tudo o mais terá acabado.*

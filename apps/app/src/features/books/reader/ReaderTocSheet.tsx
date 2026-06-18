@@ -16,6 +16,9 @@ type Props = {
   open: boolean
   onClose: () => void
   toc: TocNode[]
+  /** Ids in the reading flow — group nodes here carry a body and are tappable
+   *  (navigate) in addition to expandable. Absent → only leaves navigate. */
+  readableIds?: Set<string>
   currentChapterId?: string
   /** Leaf ids the reader has finished — checkmark in the row. */
   completedChapterIds?: Set<string>
@@ -94,6 +97,7 @@ export function ReaderTocSheet({
   open,
   onClose,
   toc,
+  readableIds,
   currentChapterId,
   completedChapterIds,
   chapterTimings,
@@ -255,36 +259,52 @@ export function ReaderTocSheet({
                 </Pressable>
               )
             }
+            // A group that carries a body is tappable (navigate to its page)
+            // while the caret stays separate for expand/collapse. A body-less
+            // group toggles on the whole row, as before.
+            const isReadableGroup = readableIds?.has(node.id) ?? false
             return (
-              <Pressable
-                onPress={() => toggleExpand(node.id)}
-                accessibilityRole="button"
-                accessibilityLabel={title}
-                accessibilityState={{ expanded: isExpanded }}
+              <XStack
+                height={itemHeight}
+                alignItems="center"
+                gap="$sm"
+                paddingHorizontal="$lg"
+                paddingLeft={16 + depth * 16}
+                backgroundColor={isCurrent ? '$accentSubtle' : 'transparent'}
               >
-                <XStack
-                  height={itemHeight}
-                  alignItems="center"
-                  gap="$sm"
-                  paddingHorizontal="$lg"
-                  paddingLeft={16 + depth * 16}
+                <Pressable
+                  onPress={() => toggleExpand(node.id)}
+                  hitSlop={8}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('books.toggleSection', { defaultValue: 'Toggle section' })}
+                  accessibilityState={{ expanded: isExpanded }}
                 >
                   {isExpanded ? (
                     <ChevronDown size={16} color={theme.colorSecondary?.val} />
                   ) : (
                     <ChevronRight size={16} color={theme.colorSecondary?.val} />
                   )}
+                </Pressable>
+                <Pressable
+                  style={{ flex: 1 }}
+                  onPress={() => (isReadableGroup ? onSelect(node.id) : toggleExpand(node.id))}
+                  accessibilityRole={isReadableGroup ? 'link' : 'button'}
+                  accessibilityLabel={title}
+                  accessibilityState={
+                    isReadableGroup ? { selected: isCurrent } : { expanded: isExpanded }
+                  }
+                >
                   <Text
                     fontFamily="$heading"
                     fontSize="$2"
-                    color="$colorSecondary"
+                    color={isCurrent ? '$accent' : '$colorSecondary'}
                     numberOfLines={2}
                     flex={1}
                   >
                     {title}
                   </Text>
-                </XStack>
-              </Pressable>
+                </Pressable>
+              </XStack>
             )
           }}
         />

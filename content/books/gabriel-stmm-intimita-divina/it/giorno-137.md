@@ -1,4 +1,4 @@
-## 61 — IL DONO DELL'AMORE
+# 61 — IL DONO DELL'AMORE
 *giovedì santo*
 
 **Presenza di Dio.** — *Concedimi, o Gesù, di penetrare l'immensità di quell'amore che ti ha condotto a donarci l'Eucaristia.*

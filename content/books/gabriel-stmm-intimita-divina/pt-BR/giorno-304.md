@@ -1,4 +1,4 @@
-## XII — A MANSIDÃO
+# XII — A MANSIDÃO
 
 **Presença de Deus.** — Ó Jesus, manso e humilde de coração, torna meu coração semelhante ao teu.
 

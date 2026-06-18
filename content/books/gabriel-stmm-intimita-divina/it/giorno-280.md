@@ -1,4 +1,4 @@
-## XIX — PRUDENZA E RETTITUDINE
+# XIX — PRUDENZA E RETTITUDINE
 
 **Presenza di Dio.** — *Insegnami, Dio mio, quella prudenza che conduce a te per la via retta del dovere e della verità.*
 

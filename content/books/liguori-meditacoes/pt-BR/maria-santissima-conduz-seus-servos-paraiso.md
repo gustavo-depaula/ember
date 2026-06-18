@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima conduz os seus servos ao paraíso
+
 > *Qui me invenerit, inveniet vitam, et hauriet salutem a Domino* – “Aquele que me achar, achará a vida, e haverá do Senhor a salvação” (Pv 8, 35)
 
 ***Sumário.** De que serve inquietarmo-nos com as sentenças das escolas sobre a predestinação para a glória? Quem é verdadeiramente servo de Maria está certo de que está escrito no livro da vida e se salvará; porque de todos aqueles que perseveram na sua devoção a esta bem-aventurada Mãe, ninguém se perdeu. Só se condena aquele que não recorre a ela ou deixa de ser seu servo. Procuremos, portanto, entrar sempre mais e permanecer nesta arca da salvação; e cada vez que nos for possível, procuremos, por palavras e exemplos, fazer que outros também ali entrem.*

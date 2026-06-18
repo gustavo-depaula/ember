@@ -1,3 +1,5 @@
+# Sexta-feira. A Paixão de Jesus Cristo, nossa Consolação
+
 > *Recogitate eum qui talem sustinuit a peccatoribus adversum semetipsum contradictionem, ut ne fatigemini, animis vestris deficientes* – “Não deixeis de pensar naquele que dos pecadores suportou contra si uma tal contradição; para que não vos fatigueis, desfalecendo em vossos ânimos” (Hb 12, 3)
 
 ***Sumário.** O Senhor chama com razão a si todos aqueles que sofrem e gemem sob o peso das tribulações; porque neste vale de lágrimas ninguém nos pode consolar tanto como Jesus crucificado. Em todas as perseguições, calúnias, desprezos, enfermidades, misérias, especialmente em vendo-nos opressos pelos sofrimentos e abandonados por todos, lancemos um olhar sobre a cruz de Jesus, lembremo-nos do muito que Ele sofreu por nós, unamos os nossos sofrimentos aos de Jesus e teremos achado o remédio mais eficaz para todos os nossos males.*

@@ -1,4 +1,4 @@
-## 62 — THE MYSTERY OF THE CROSS
+# 62 — THE MYSTERY OF THE CROSS
 
 *Good Friday*
 

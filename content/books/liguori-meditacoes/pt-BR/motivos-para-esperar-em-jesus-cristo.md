@@ -1,3 +1,5 @@
+# 25 de Fevereiro. Motivos para Esperar em Jesus Cristo
+
 > *Sic Deus dilexit mundum, ut Filium suum unigenitum daret* – “Tanto amou Deus o mundo, que lhe deu seu Filho unigênito” (Jo 3, 16)
 
 ***Sumário.** O Pai Eterno, dando-nos seu Filho por Redentor, vítima e preço de nosso resgate, não pôde dar-nos motivos mais poderosos de confiança e de amor. Aproveitemo-nos de tão grande dom e recorramos a Jesus em todas as necessidades, lembrando-nos de que Ele é nossa sabedoria, para trilharmos o caminho da salvação; nossa justiça, para aspirarmos ao paraíso; nossa santificação, para obtermos a santidade; finalmente, nossa redenção, para alcançarmos a liberdade dos filhos de Deus.*

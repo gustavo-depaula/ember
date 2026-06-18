@@ -1,3 +1,5 @@
+# Terça-feira. Da Misericórdia de Deus
+
 > *Misericordia domini plena est terra* – “Da misericórdia do Senhor é cheia a terra” (Sl 32, 5)
 
 ***Sumário.** A bondade é por sua natureza inclinada a comunicar seus bens a outros. Por isso é que Deus, a bondade essencial, tem um extremo desejo de comunicar a sua felicidade, e a sua natureza não o inclina a punir, mas a usar de misericórdia. Esta o fez descer do céu à terra, levar uma vida penosa e, afinal, morrer por nós sobre uma cruz. Não pensemos, pois, que Jesus Cristo nos faça esperar o perdão muito tempo, depois do pecado; contanto que estejamos resolvidos a não o tornarmos a ofender.*

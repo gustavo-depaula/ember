@@ -1,4 +1,4 @@
-## 55 — La potenza del Maestro divino
+# 55 — La potenza del Maestro divino
 
 **Presenza di Dio.** — *O Gesù, ti chiedo non solo d'istruirmi, ma di muovere l'anima mia ad accettare ed a mettere in pratica la tua parola.*
 

@@ -1,3 +1,5 @@
+# Quarta-feira. Dano que causa aos religiosos a tibieza
+
 > *Qui spernit modica, paulatim decidet* – “Quem despreza as coisas pequenas, pouco a pouco cairá” (Eclo 19, 1)
 
 ***Sumário.** São infelizes os religiosos que, sendo chamados à perfeição, fazem as pazes com as suas faltas. Nunca se santificarão e correm mesmo grande risco de se condenarem; porquanto o Senhor ameaça vomitá-los de sua boca e abandoná-los, permitindo que das faltas leves passem às faltas graves e à perda da graça divina e da vocação. Oh! Quantos destes infelizes estão agora queimando no inferno! Meu irmão, põe a mão na tua consciência. És tu porventura uma dessas almas tíbias e imperfeitas?*

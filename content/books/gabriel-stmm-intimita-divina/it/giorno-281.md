@@ -1,4 +1,4 @@
-## XX — LA DILIGENZA
+# XX — LA DILIGENZA
 
 **Presenza di Dio.** — *O Signore, rendimi diligente nel tuo servizio, sollecito e pronto ad ogni mio dovere.*
 

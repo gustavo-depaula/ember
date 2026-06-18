@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento, o melhor dos amigos
+
 > *Amicus fidelis medicamentum vitae et immortalitatis* – “O amigo fiel é um medicamento de vida e de imortalidade” (Eclo 6, 16)
 
 ***Sumário.** Bem suave é estar a gente na companhia de um amigo querido: e será possível que nós, neste vale de lágrimas, não achemos consolação perto do melhor de nossos amigos que nos pode encher de todos os bens? Eis que no Santíssimo Sacramento nos podemos entreter com Jesus à nossa vontade, abrir-Lhe o nosso coração, expor-Lhe as nossas necessidades, pedir-Lhe graças. Aproximemo-nos, pois, de Jesus com grande confiança e amor, unamo-nos a Ele, e peçamos-Lhe sobretudo a graça de O podermos amar sempre com todas as nossas forças.*.

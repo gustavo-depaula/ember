@@ -1,4 +1,4 @@
-## Table Alphabétique
+# Table Alphabétique
 
 Actes pour la journée, 32.
 Actes à faire tous les jours, 134.

@@ -1,4 +1,4 @@
-## XI — O AMOR MISERICORDIOSO
+# XI — O AMOR MISERICORDIOSO
 
 *Domingo dentro da oitava do S. Coração de Jesus*
 

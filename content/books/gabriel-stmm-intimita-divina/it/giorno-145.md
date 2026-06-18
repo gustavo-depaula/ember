@@ -1,4 +1,4 @@
-## VI — LA NOSTRA PREPARAZIONE
+# VI — LA NOSTRA PREPARAZIONE
 
 **Presenza di Dio.** — *O Signore, rendimi generoso e fedele al tuo servizio, affinchè non ponga mai ostacolo alla tua azione in me.*
 

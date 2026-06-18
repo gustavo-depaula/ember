@@ -1,3 +1,5 @@
+# Quarta-feira. Amor que o Filho de Deus nos mostrou na Redenção
+
 > *Dilexit nos et tradidit semetipsum pro nobis* – “Cristo nos amou e se entregou a si mesmo por nós” (Ef 5, 2)
 
 ***Sumário.** A salvação ou a condenação de todos os homens não aumenta nem diminui de nada a felicidade do Filho de Deus, que é a bem-aventurança mesma. Todavia Ele tem feito e padecido tanto por nós, que, se a sua beatitude fora dependente da nossa, não teria podido padecer e fazer mais. Quão grande não deve, pois, ser nosso amor para com Jesus Cristo e quão grande a nossa confiança de obtermos, pelos seus merecimentos, todas as graças que desejemos!*

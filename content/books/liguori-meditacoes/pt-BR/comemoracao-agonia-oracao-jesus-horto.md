@@ -1,3 +1,5 @@
+# Terça-feira. Comemoração da agonia e oração de Jesus no Horto
+
 > *Et factus in agonia prolixius orabat* – “E, posto em agonia, orava (Jesus) com maior instância” (Lc 22, 43)
 
 ***Sumário.** Imaginemos ver a Jesus, que, pela previsão dos tormentos e ignomínias que o esperavam, e muito mais da ingratidão com que os homens lhe haviam de pagar, cai em agonia no Horto e sua sangue; mas nem assim deixa de rogar a seu eterno Pai. É este o exemplo que devemos seguir, quando nos achamos em aflição e desolação. Unamos então as nossas penas às de Jesus; mas não deixemos de orar e de repetir com Ele: Pai, seja feita a vossa vontade.*

@@ -1,3 +1,5 @@
+# Domingo. A cura do paralítico e a causa das tribulações
+
 ## 18º Domingo depois de Pentecostes
 
 > *Confide, fili: remittuntur tibi peccata tua* – “Filho, tem confiança, perdoados te são os pecados” (Mt 9, 2)

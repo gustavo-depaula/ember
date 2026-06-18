@@ -1,4 +1,4 @@
-## VIII — LET US PREPARE FOR UNION
+# VIII — LET US PREPARE FOR UNION
 
 **Presence of God.** — *O Jesus, grant that I may make full profit from the grace of union with You, which each day You offer me in Holy Communion.*
 

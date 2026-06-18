@@ -1,4 +1,4 @@
-## XXVIII — Partecipare alla S. Messa
+# XXVIII — Partecipare alla S. Messa
 
 **Presenza di Dio.** — *O Gesù, che in ogni giorno ed in ogni ora t'immoli sui nostri altari, degnati di associarmi al tuo Sacrificio.*
 

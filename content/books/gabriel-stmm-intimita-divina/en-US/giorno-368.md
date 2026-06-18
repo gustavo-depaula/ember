@@ -1,4 +1,4 @@
-## 46 — UNION OF WILL
+# 46 — UNION OF WILL
 
 **Presence of God.** — *O Lord, take my whole will and transform it into Yours.*
 

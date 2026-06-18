@@ -1,4 +1,4 @@
-## 7 — LA NOTTE DEI SENSI
+# 7 — LA NOTTE DEI SENSI
 
 **Presenza di Dio.** — *O Signore, rafforza il mio desiderio di giungere a te, affinchè io abbia il coraggio di affrontare per amor tuo la totale purificazione della mia sensibilità.*
 

@@ -1,4 +1,4 @@
-## 38 — CONFIANÇA E ABANDONO
+# 38 — CONFIANÇA E ABANDONO
 
 **Presença de Deus.** — *Nas tuas mãos, ó Senhor, me abandono com confiança plena.*
 

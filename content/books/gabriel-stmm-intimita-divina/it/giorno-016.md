@@ -1,4 +1,4 @@
-## 16 — LA CUSTODIA DEI SENSI
+# 16 — LA CUSTODIA DEI SENSI
 
 **Presenza di Dio.** — *Alla tua presenza, mio Dio, raccolgo i miei sensi e le mie potenze, ritirandoli da ogni occupazione esteriore per fissarli in te.*
 

@@ -1,4 +1,4 @@
-## XXX — INCONTRO ALLO SPIRITO SANTO
+# XXX — INCONTRO ALLO SPIRITO SANTO
 
 **Presenza di Dio.** — *Vieni, Spirito Santo, investimi con la tua azione e conducimi a Dio.*
 

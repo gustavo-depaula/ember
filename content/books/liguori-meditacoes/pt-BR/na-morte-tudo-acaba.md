@@ -1,3 +1,5 @@
+# Terça-feira. Na morte tudo acaba
+
 José Moreno Carbonero, Conversão do Duque de Gandia (S. Francisco de Borja), 1884, Museo del Prado, Madrid
 
 > *Dies mei breviabuntur; et solum mihi superest sepulchrum* – “Os meus dias se abreviam, e só me resta o sepulcro” (Jó 17, 1)

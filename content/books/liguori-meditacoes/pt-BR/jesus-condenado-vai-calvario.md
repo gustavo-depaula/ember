@@ -1,3 +1,5 @@
+# Meditação para a tarde do mesmo dia. Jesus é condenado e vai ao Calvário
+
 ## Segunda Meditação para a Terça-feira Santa
 
 > *Tunc ergo tradidit eis illum ut crucifigerunt* – “Então entregou-lhes Jesus, para ser crucificado” (Jo 19, 16)

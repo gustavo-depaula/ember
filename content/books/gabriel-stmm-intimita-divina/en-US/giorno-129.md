@@ -1,4 +1,4 @@
-## 53 — THE DAILY CROSS
+# 53 — THE DAILY CROSS
 
 **Presence of God.** — *O crucified Jesus, for the merits of your Cross, teach me to carry my cross each day.*
 

@@ -215,7 +215,9 @@ Rules:
 
 ### TOC structure
 
-TOC nodes nest arbitrarily. One type, one rule: if a node has `children`, it's a group. If it doesn't, it's a leaf that maps to a chapter file.
+TOC nodes nest arbitrarily. A node with `children` is a **group** (Part / Section); a node without is a **leaf** (chapter). Both are navigable in the TOC sheet.
+
+A group node may also carry its **own body file** at `content/books/<id>/<lang>/<group-id>.md` — the same `id` as the group. When that file exists the group becomes a readable page too (reached by tapping the Part in the TOC), used for Part introductions or Section-level content. When it doesn't, the group is a pure structural grouping that only organizes the TOC. Reference-style books (e.g. the Catholic Encyclopedia) simply omit group bodies and stay leaf-only.
 
 | Example work | Structure |
 |-------------|-----------|
@@ -243,6 +245,20 @@ Example (2-level):
   ]
 }
 ```
+
+### Title rendering
+
+The **first `<h1>` of each chapter body is the canonical displayed title.** The reader rewrites it into a styled heading whose register is chosen by the node's role in the TOC tree:
+
+- top-level group with children → **part** (large centered divider)
+- nested group with children → **section**
+- any leaf → **chapter** (centered title with fleuron + drop cap)
+
+So every chapter `.md` should **lead with a single `# Title`**. Do not add a second title — the reader supplies the styling, not a separate string.
+
+`toc[].title` in `book.json` is the **navigation label** (TOC sheet, search results, completion toasts, scrubber). It and the body H1 should agree but need not be byte-identical — a TOC label can be shorter, or reorder the H1's words. To override the depth-inferred role on a specific node, set an explicit `"role": "part" | "section" | "chapter"`.
+
+`pnpm build:corpus` emits soft warnings when a chapter `.md` has no leading H1, when its H1 drifts meaningfully from the matching TOC label, or when a `.md` file's name matches no TOC node id (an orphan to wire in or remove).
 
 ### Manifest example
 

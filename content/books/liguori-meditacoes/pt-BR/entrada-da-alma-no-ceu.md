@@ -1,3 +1,5 @@
+# Quarta-feira. Entrada da alma no céu
+
 > *Laetatus sum in his, quae sunt mihi; in domum Domini ibimus* – “Eu me alegrei no que me foi dito: iremos à casa do Senhor” (Sl 121, 1)
 
 ***Sumário.** Imaginemos ver uma alma que faz a sua primeira entrada no céu. Ó Deus! Qual será a sua consolação ao entrar pela primeira vez nessa pátria bem-aventurada, ao ver os parentes e amigos, os Anjos e os Santos; ao beijar os pés de Maria Santíssima, ao receber os amplexos de Jesus Cristo; ao ser abençoada pelo Pai celestial. Pois bem, é um ponto de nossa fé que gozaremos igual consolação, contanto que vivamos bem, ao menos durante o tempo que ainda nos resta. Ó dulcíssima esperança, tu nos deves confortar no meio das nossas mais duras tribulações.*

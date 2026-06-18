@@ -1,3 +1,5 @@
+# Domingo. A parábola do banquete nupcial e a Igreja Católica
+
 ## 19º Domingo depois de Pentecostes
 
 > *Simile factum est regnum caelorum homini regi, qui fecit nuptias filio suo* – “O reino dos céus é semelhante a um rei que fez núpcias para seu filho” (Mt 22, 2)

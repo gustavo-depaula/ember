@@ -1,4 +1,4 @@
-## XVI — AMORE DEL PROSSIMO E AMORE DI DIO
+# XVI — AMORE DEL PROSSIMO E AMORE DI DIO
 
 **Presenza di Dio.** — *Fammi comprendere, o Signore, che il segno più sicuro del mio amore per te è un sincero amore del prossimo.*
 

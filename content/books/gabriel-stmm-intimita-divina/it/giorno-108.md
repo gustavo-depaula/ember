@@ -1,4 +1,4 @@
-## 32 — UMILTÀ E FIDUCIA
+# 32 — UMILTÀ E FIDUCIA
 
 **Presenza di Dio.** — *Dal profondo del mio nulla io grido a te, o Signore; Signore ascolta la mia voce... io confido in te.*
 

@@ -1,3 +1,5 @@
+# Quinta-feira. União da alma com Jesus na Santa Comunhão
+
 > *Qui manducat meam carnem et bibit meum sanguinem, in me manet et ego in illo – “Aquele que come a minha carne e bebe o meu sangue fica em mim e Eu nele”* (Jo 6, 57)
 
 ***Sumário.** Jesus tinha-se dado aos homens como mestre, como modelo e como vítima; restava-Lhe somente que se desse como alimento, a fim de fazer-se uma coisa conosco. É o que fez instituindo a santa Eucaristia. Ó dignação de um Deus para com os homens! Mas como é que há tantos homens que não O amam e Lhe respondem com ingratidão!… Se no passado nós também temos sido do número desses ingratos, esforcemo-nos para amá-Lo tanto mais para o futuro.*

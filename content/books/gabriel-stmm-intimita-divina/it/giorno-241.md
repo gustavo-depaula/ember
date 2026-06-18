@@ -1,4 +1,4 @@
-## XI — LA GIUSTIZIA INFINITA
+# XI — LA GIUSTIZIA INFINITA
 
 **Presenza di Dio.** — *O Signore, fammi conoscere le bellezze della tua giustizia, insegnami ad amarla con zelo e con fiducia.*
 

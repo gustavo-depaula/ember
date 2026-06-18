@@ -1,4 +1,4 @@
-## Last Sunday of October — FEAST OF CHRIST THE KING
+# Last Sunday of October — FEAST OF CHRIST THE KING
 
 **Presence of God.** — *O Jesus, Prince of the ages, King of the nations, be the only King of my mind and of my heart.*
 

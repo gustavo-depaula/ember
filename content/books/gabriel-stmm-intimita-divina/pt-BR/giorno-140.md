@@ -1,4 +1,4 @@
-## I — A PÁSCOA DO SENHOR
+# I — A PÁSCOA DO SENHOR
 
 *domingo da Ressurreição*
 

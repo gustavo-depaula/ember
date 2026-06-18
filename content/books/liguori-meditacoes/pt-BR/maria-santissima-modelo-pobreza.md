@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de pobreza
+
 > *Si vis perfectus esse, vade, vende quae habes, et da pauperibus; …et veni, sequere me* – “Se queres ser perfeito, vai, vende o que tens, e dá-o aos pobre; …depois vem, e segue-me” (Mt 19, 21)
 
 ***Sumário.** O divino Redentor, para nos ensinar a desprezar os bens do mundo, quis sempre ser pobre nesta terra. E a Santíssima Virgem seguiu-lhe o exemplo, mostrando-se a sua discípula mais perfeita, porque ela também nasceu, viveu e morreu na maior pobreza. Somos nós também amantes de tão bela virtude e dos incômodos que a acompanham?… Esforcemo-nos a todo custo por imitar a nossa querida Mãe, lembrando-nos de que o que ama as comodidades e as riquezas, nunca será santo.*

@@ -1,4 +1,4 @@
-## XVIII — LA POTENZA DELLA FEDE
+# XVIII — LA POTENZA DELLA FEDE
 
 **Presenza di Dio.** — *«Io credo, Signore, aiuta la mia incredulità, accresci la mia fede»* *(Mr.* 9, 23; cfr. *Lc.* 17, 5).
 

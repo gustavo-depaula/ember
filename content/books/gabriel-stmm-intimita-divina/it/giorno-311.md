@@ -1,4 +1,4 @@
-## XIX — IL DONO DELLA PIETÀ
+# XIX — IL DONO DELLA PIETÀ
 
 **Presenza di Dio.** — *O Spirito Santo, Spirito di pietà, rallegra e addolcisci il mio cuore.*
 

@@ -1,3 +1,5 @@
+# 13ª Meditação. Deus deve ser o nosso único fim
+
 > *Meus cibus est, ut faciam voluntatem eius qui misit me, ut perficiam opus eius* — “O meu alimento é fazer a vontade daquele que me enviou, para consumar a sua obra” (Jo 4, 34)
 
 ***Sumário.** Pobre da alma que conserva apego a qualquer bem terrestre com desagrado de Deus! Ela nunca terá paz na vida presente, com grande risco de nem na outra a conseguir. Bem-aventurado, ao contrário, aquele que só busca ao Senhor e pelo amor dele renuncia a todas as coisas! Alcançará a verdadeira liberdade dos filhos de Deus, e mesmo cá na terra terá um antegosto dos bens que lhe estão preparados no céu. Procuremos, pois, em todas as nossas ações, não ter outra coisa em mira, senão o agrado do Senhor, e digamos muitas vezes: Meu Jesus, só a Vós quero, e nada mais.*

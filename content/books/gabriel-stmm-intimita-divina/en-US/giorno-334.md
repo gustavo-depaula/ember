@@ -1,4 +1,4 @@
-## 12 — APOSTOLIC WORKS
+# 12 — APOSTOLIC WORKS
 
 **Presence of God.** — *O my God, make me worthy to collaborate in spread of your kingdom of love.*
 

@@ -1,3 +1,5 @@
+# 29 de Janeiro ou 24 de Janeiro. Festa de São Francisco de Sales
+
 > *Dilectus Deo et hominibus…, cuius memoria in benedictione est* – “Amado de Deus e dos homens, cuja memória está em bênção” (Ecle 45, 1)
 
 ***Sumário.** Foi tão grande a fé deste Santo, que não se cansava de agradecer ao Senhor o tê-lo feito filho da Igreja Católica. Grande foi também a sua esperança, e por isso estava sempre com semblante sereno, mesmo entre os maiores perigos. Mas, sobretudo foi ardentíssima a sua caridade, vivendo sempre desprendido de todas as criaturas, a fim de ser todo de Deus. Alegremo-nos com o santo Doutor, demos graças a Deus pelo haver enriquecido de tantas virtudes e esforcemo-nos por imitá-lo.*

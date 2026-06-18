@@ -1,3 +1,5 @@
+# Quarta-feira. A casa da eternidade
+
 Céu ou Inferno (pintura por Hannah Greer)
 
 > *Ibit homo in domum aeternitatis suae* – “O homem irá à casa de sua eternidade” (Ecl 12, 5)

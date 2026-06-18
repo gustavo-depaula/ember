@@ -1,4 +1,4 @@
-## 27 — O VERBO SE FEZ CARNE
+# 27 — O VERBO SE FEZ CARNE
 *23 dezembro*
 
 **Presença de Deus.** — *Ó Jesus, Verbo eterno, permite-me penetrar mais profundamente no sublime mistério da tua Encarnação, para que o meu coração seja cada vez mais tomado pelo teu amor infinito.*

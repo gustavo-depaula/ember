@@ -1,4 +1,4 @@
-## 3. L'Oraison Mentale
+# 3. L'Oraison Mentale
 
 Dans la journée, tâchez de faire, le plus tôt possible, une demi-heure d'oraison mentale.
 

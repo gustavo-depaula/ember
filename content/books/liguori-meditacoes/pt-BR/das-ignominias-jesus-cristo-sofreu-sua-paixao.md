@@ -1,3 +1,5 @@
+# Sexta-feira. Das ignomínias que Jesus Cristo sofreu na sua Paixão
+
 > *Dabit percutienti se maxillam, saturabitur opprobriis* – “Oferecerá a face ao que o ferir, fartar-se-á de opróbrios” (Lm 3, 30)
 
 ***Sumário.** Ah, a quantas ignomínias se submeteu o nosso pobre Jesus no tempo da sua Paixão! Foi traído por um dos seus discípulos, renegado por outro e abandonado por todos. Foi escarnecido como mentecapto, posposto a Barrabás, açoitado como um escravo, tratado como rei de teatro, condenado a morrer crucificado entre dois ladrões. E para que? Para nos provar o seu amor, e ensinar-nos pelo seu exemplo a sofrer com paciência os desprezos e injúrias. E todavia ficamos sempre orgulhosos e amamos tão pouco a Jesus Cristo!*

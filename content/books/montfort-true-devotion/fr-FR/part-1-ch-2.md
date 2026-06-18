@@ -1,4 +1,4 @@
-## Article II — Discernement de la vraie dévotion à la Sainte Vierge
+# Article II — Discernement de la vraie dévotion à la Sainte Vierge
 
 Ayant dit jusqu'ici quelque chose de la nécessité que nous avons de la dévotion à la très sainte Vierge, il faut dire en quoi consiste cette dévotion : ce que je ferai, Dieu aidant, après que j'aurai présupposé quelques vérités fondamentales, qui donneront jour à cette grande et solide dévotion que je veux découvrir.
 

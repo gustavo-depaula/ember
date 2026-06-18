@@ -1,3 +1,5 @@
+# Outra meditação para o mesmo Domingo. Estado miserável dos que recaem no pecado
+
 ## Segunda Meditação para o 3º Domingo da Quaresma
 
 > *Et fiunt novissima hominis illius peiora prioribus* – “E o último estado daquele homem virá a ser pior do que o primeiro” (Lc 11, 26)

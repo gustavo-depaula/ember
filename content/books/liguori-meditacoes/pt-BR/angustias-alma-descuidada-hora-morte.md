@@ -1,3 +1,5 @@
+# Terça-feira. Angústias da alma descuidada na hora da morte
+
 > *Cor durum male habebit in novissimo; et qui amat periculum, in illo peribit* – “O coração endurecido será oprimido de males no fim da vida; e quem ama o perigo perecerá nele” (Eclo 3, 27)
 
 ***Sumário.** Ai do que resiste durante a vida aos convites de Deus! Desgraçado do que cai no leito com a alma em pecado e dali passa à eternidade! O anúncio da morte já próxima, o pensamento de ter de deixar o mundo, as tentações do demônio, os remorsos da consciência, o tempo que já falta, o rigor da justiça divina e mil outras coisas produzirão uma perturbação tão horrível, que pela confusão do espírito a conversão será quase impossível. Meu irmão, para não morreres de morte tão triste, teme agora viver vida pecaminosa!*

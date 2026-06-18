@@ -1,4 +1,4 @@
-## XXX — VITA DI AMORE
+# XXX — VITA DI AMORE
 
 **Presenza di Dio.** — *Fa', o Signore, che fin da quaggiù cominci ad amarti come ti amerò un giorno in cielo.*
 

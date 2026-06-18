@@ -1,4 +1,4 @@
-## 39 — HIDING FROM ONESELF
+# 39 — HIDING FROM ONESELF
 
 **Presence of God.** — *O Jesus who, wholly forgetful of Yourself, consecrated Yourself to the Father's glory, teach me to forget myself.*
 

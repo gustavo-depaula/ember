@@ -1,4 +1,4 @@
-## II — A MAGNANIMIDADE
+# II — A MAGNANIMIDADE
 **Presença de Deus.** — Ó Senhor, dá-me um coração grande, capaz de empreender por ti coisas grandes.
 
 ### Meditação

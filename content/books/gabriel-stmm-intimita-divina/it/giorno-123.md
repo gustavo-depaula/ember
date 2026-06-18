@@ -1,4 +1,4 @@
-## 47 — OBBEDIENZA SOPRANNATURALE
+# 47 — OBBEDIENZA SOPRANNATURALE
 
 **Presenza di Dio.** — *O Gesù, insegnami a vedere soltanto te nei miei superiori.*
 

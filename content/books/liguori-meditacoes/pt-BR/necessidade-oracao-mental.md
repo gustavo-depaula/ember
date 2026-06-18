@@ -1,3 +1,5 @@
+# Segunda-feira. Necessidade da oração mental
+
 > *Desolatione desolata est omnis terra; quia nullus est qui rerogitet corde* – “Toda a terra está inteiramente desolada, porque não há nenhum que considere no seu coração” (Jer 12, 11)
 
 ***Sumário.** Afeiçoemo-nos à oração mental e nunca a deixemos de fazer. É ela necessária, para que tenhamos luz na viagem que estamos fazendo para a eternidade e também para que conheçamos os nossos defeitos e os emendemos. Assim como sem a oração mental, não faremos bem a vocal, à qual estão ligadas as graças, assim igualmente nos faltará a força para vencer as tentações e praticar as virtudes. Infeliz, portanto, da alma que não faz oração mental; ela não precisa de demônios para lançá-la no inferno, visto que de si mesma nele se precipita.*

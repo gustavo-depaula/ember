@@ -1,4 +1,4 @@
-## VIII — SIATE MISERICORDIOSI
+# VIII — SIATE MISERICORDIOSI
 
 **Presenza di Dio.** — *O Signore, dilata il mio cuore nella considerazione della tua misericordia infinita, affinché impari a trattare i miei fratelli con viscere di misericordia.*
 

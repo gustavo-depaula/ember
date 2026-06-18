@@ -1,4 +1,4 @@
-## XXXI — LA FORTEZZA
+# XXXI — LA FORTEZZA
 
 **Presenza di Dio.** — *Insegnami, o Signore, ad agire virilmente confidando in te.*
 

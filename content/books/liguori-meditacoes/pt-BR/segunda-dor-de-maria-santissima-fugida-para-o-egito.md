@@ -1,3 +1,5 @@
+# Sábado. Segunda dor de Maria Santíssima – Fugida para o Egito
+
 > *Accipe puerum et matrem eius, et fuge in Aegyptum* – “Toma o Menino e sua Mãe, e foge para o Egito” (Mt 2, 13)
 
 ***Sumário.** A profecia de São Simeão acerca da Paixão de Jesus e das dores de Maria começou desde logo a realizar-se na fugida que teve de fazer para o Egito, a fim de subtrair o Filho à perseguição de Herodes. Pobre Mãe! Quanto não devia ela sofrer tanto na viagem como durante a sua permanência naquele país entre os infiéis! Vendo a Sagrada Família na sua fugida, lembremo-nos que nós também somos peregrinos sobre a terra. Para sentirmos menos os sofrimentos do exílio, à imitação de São José tenhamos conosco no coração a Jesus e Maria.*

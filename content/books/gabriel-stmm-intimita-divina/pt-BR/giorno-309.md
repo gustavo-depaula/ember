@@ -1,4 +1,4 @@
-## XVII — BEM-AVENTURADOS OS QUE TÊM FOME
+# XVII — BEM-AVENTURADOS OS QUE TÊM FOME
 
 **Presença de Deus.** — *Sob o impulso do dom da fortaleza, torna-te em mim uma alma faminta e sedenta de justiça.*
 

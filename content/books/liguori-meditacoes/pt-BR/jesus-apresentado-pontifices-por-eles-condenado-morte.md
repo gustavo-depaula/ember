@@ -1,3 +1,5 @@
+# Sábado. Jesus é apresentado aos pontífices e por eles condenado à morte
+
 > *At illi, tenentes Iesum, duxerunt ad Caiphan principem sacerdotum – “Eles, prendendo a Jesus, O levaram a Caifás, príncipe dos sacerdotes”* (Mt 26, 57)
 
 ***Sumário.** Imaginemos ver a Jesus Cristo perante o tribunal de Caifás. Ali é esbofeteado, tratado de blasfemador, declarado réu de morte, e como tal, maltratado de mil modos. Jesus, porém, no meio de tantos opróbrios, nada perde de sua serenidade e doçura, e parece que com o seu silêncio nos diz: Se quiserdes desagravar-me das injúrias que me fazem, suportai por meu amor os desprezos, assim como eu os suporto por vosso amor.*

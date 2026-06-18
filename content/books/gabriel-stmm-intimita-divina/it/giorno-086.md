@@ -1,4 +1,4 @@
-## 10 — LA POVERTÀ VOLONTARIA
+# 10 — LA POVERTÀ VOLONTARIA
 
 **Presenza di Dio.** — *O Signore, degnati di mostrarmi i tesori nascosti nella povertà volontaria e i doveri che ne derivano.*
 

@@ -1,4 +1,4 @@
-## Art. 4. Le 25 de chaque mois consacré à l'Enfant Jésus
+# Art. 4. Le 25 de chaque mois consacré à l'Enfant Jésus
 
 Saint Alphonse eut toute sa vie animé de la plus tendre piété envers la sainte enfance de Jésus. Considérant cette dévotion comme un moyen efficace pour allumer dans les âmes le feu de l'amour divin, il chercha à la propager de tout son pouvoir. Il composa à cet effet des discours et des méditations d'une onction toute céleste. Non content d'attirer l'attention des fidèles sur Jésus-Enfant pendant l'Avent et l'octave de Noël, il désirait encore que ce doux mystère de la divine Enfance fût célébré le 25 de chaque mois. Nous entrons donc dans l'esprit du saint Docteur en plaçant ici des prières pour le 25 du mois ; nous avons cherché à les mettre en harmonie avec la vertu du mois.[^1]
 

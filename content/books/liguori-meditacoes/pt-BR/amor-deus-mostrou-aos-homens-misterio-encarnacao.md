@@ -1,3 +1,5 @@
+# Quinta-feira. Amor que Deus mostrou aos homens no mistério da Encarnação
+
 > *Apparuit gratia Dei Salvatoris nostri omnibus hominibus* – “A graça de Deus nosso Salvador apareceu a todos os homens” (Tt 2, 11)
 
 ***Sumário.** Embora a graça, isto é, o amor de Deus para com os homens, tenha sempre sido o mesmo, todavia não se manifestou sempre de igual maneira. Apareceu em toda a sua grandeza na obra da Encarnação, quando o Verbo Eterno se fez criança, gemendo e tremendo de frio, começando assim a satisfazer pelas penas que nós tínhamos merecido. Mas se este amor tão excessivo do Filho de Deus se manifestou a todos os homens, como é que nem todos o querem reconhecer e preferem as trevas do pecado à luz da graça celeste?*

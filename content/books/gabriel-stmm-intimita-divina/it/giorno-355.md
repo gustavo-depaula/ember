@@ -1,4 +1,4 @@
-## 33 — VERSO UNA COMPLETA PURIFICAZIONE
+# 33 — VERSO UNA COMPLETA PURIFICAZIONE
 
 **Presenza di Dio.** — *Aiutami, Signore, affinché abbia la forza di avviarmi di mia iniziativa ad una purificazione completa.*
 

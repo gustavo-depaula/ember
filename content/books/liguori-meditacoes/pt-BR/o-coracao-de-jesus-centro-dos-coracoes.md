@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Outubro. O Coração de Jesus, Centro dos Corações
+
 > *Multitudinis autem credentium erat cor unum et anima una* — “Da multidão dos que criam, o coração era um e a alma uma” (At 4, 32)
 
 ***Sumário.** O Coração de Jesus é todo caridade e quer que todos os cristãos se amem mutuamente. Amar o próximo é amar a Jesus, e fazer bem ao próximo é regozijar o Coração de Jesus. Os membros da Igreja devem, pois, ter um só coração em Jesus Cristo, que é o centro dos corações. Ó! Quanto é agradável ao Coração de Jesus uma alma verdadeiramente caridosa! Ao contrário, que espinho é para o Coração de Jesus a alma que lesa a caridade!*

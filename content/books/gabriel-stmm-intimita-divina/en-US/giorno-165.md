@@ -1,4 +1,4 @@
-## XXVI — LITURGICAL PRAYER
+# XXVI — LITURGICAL PRAYER
 
 **Presence of God.** — *O Jesus, Head of the Mystical Body, grant that by praying with the Church I may unite myself to your prayer.*
 

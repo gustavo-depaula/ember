@@ -1,4 +1,4 @@
-## XXI — CONDOTTA PRATICA
+# XXI — CONDOTTA PRATICA
 
 **Presenza di Dio.** — *O Signore, la tua luce mi guidi sempre affinchè io non sbagli nel mio cammino.*
 

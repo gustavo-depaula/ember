@@ -1,4 +1,4 @@
-## 49 — THE PERFECT YES
+# 49 — THE PERFECT YES
 
 **Presence of God.** — *Lord, grant that I may give You the free and perfect consent of my will.*
 

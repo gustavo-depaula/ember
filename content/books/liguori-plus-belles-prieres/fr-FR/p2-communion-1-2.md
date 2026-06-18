@@ -1,4 +1,4 @@
-## Art. 3. Exercices pour la sainte communion
+# Art. 3. Exercices pour la sainte communion
 
 ### PREMIER EXERCICE.
 

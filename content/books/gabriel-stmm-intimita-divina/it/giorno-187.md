@@ -1,4 +1,4 @@
-## XVIII — LO SPIRITO DI CRISTO
+# XVIII — LO SPIRITO DI CRISTO
 
 *Triduo di Pentecoste*
 

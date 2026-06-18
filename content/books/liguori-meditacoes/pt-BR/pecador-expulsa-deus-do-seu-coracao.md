@@ -1,3 +1,5 @@
+# Terça-feira. O pecador expulsa Deus do seu coração
+
 > *Qui dixerunt Deo: Recede a nobis, et scientiam viarum tuarum nolumus* – “Disseram a Deus: Retira-te de nós, pois não queremos conhecer os teus caminhos” (Jó 21, 14)
 
 ***Sumário.** O pecador sabe que Deus não pode ficar com o pecado; vê que pecando obriga a Deus a afastar-se. Diz-Lhe portanto, não com palavras, mas de fato: Senhor, já não podeis ficar junto com o meu pecado e quereis partir, podeis ir-Vos embora. Expulsando assim Deus de sua alma, deixa entrar imediatamente o demônio, que dela toma posse. Que baixeza! Irmão meu, dize-me: praticaste tu também tão grande vilania para com Jesus Cristo?… Terás a triste coragem de a tornares a praticar no futuro?*

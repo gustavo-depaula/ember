@@ -1,4 +1,4 @@
-## I — MARIA GUIA E MODELO
+# I — MARIA GUIA E MODELO
 
 **Presença de Deus.** — *Refugio-me sob teu patrocínio, ó Maria; sê Tu a guia e o modelo da minha vida interior.*
 

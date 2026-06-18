@@ -1,3 +1,5 @@
+# 6º Dia – Quarta-feira. O amor é uma virtude que fortifica
+
 ## 6º Dia da Novena do Espírito Santo
 
 > *Fortis est ut mors dilectio* – “O amor é forte como a morte” (Ct 8, 6)

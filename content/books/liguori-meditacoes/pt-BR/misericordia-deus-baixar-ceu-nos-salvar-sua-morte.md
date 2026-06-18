@@ -1,3 +1,5 @@
+# Dia 09 de Janeiro. Misericórdia de Deus em baixar do céu para nos salvar com a sua morte
+
 > *Benignitas et humanitas apparuit Salvatoris nostri Dei* – “Apareceu a benignidade e o amor de Deus nosso Salvador” (Tt 3, 4)
 
 ***Sumário.** Antes da vinda de Jesus Cristo, manifestou-se o poder de Deus na criação do mundo, a sabedoria divina manifestou-se na sua conservação; a misericórdia, porém, manifestou-se particularmente, quando Jesus tomou a natureza humana a fim de salvar, pelos seus padecimentos e morte, os homens perdidos. Com efeito, de que misericórdia maior podia o Filho de Deus usar para conosco do que tomando sobre si os castigos por nós merecidos? E, apesar disso, quantos pecadores há que não voltam a Deus por desconfiança da sua bondade!*

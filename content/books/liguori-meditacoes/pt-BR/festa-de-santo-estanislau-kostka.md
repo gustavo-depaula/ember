@@ -1,3 +1,5 @@
+# 08 de Novembro. Festa de Santo Estanislau Kostka
+
 > *Consummatus in brevi, explevit tempora multa *— “Tendo vivido pouco, encheu a carreira de uma larga vida” (Sb 4, 13)
 
 ***Sumário.** A bondade divina, que deu modelos de perfeição a todos os estados de vida, quis também propor um aos jovens noviços, na pessoa de Santo Estanislau. A virtude em que este santo mais se distinguiu, foi a sua ardente caridade para com Deus, acompanhada de uma terna devoção a Jesus sacramentado e a Maria Santíssima. Meu irmão, esforça-te por imitar o teu santo Protetor tanto nesta como nas demais virtudes, e lembra-te que um noviço dificilmente perseverará se não tiver devoção especial à Santa Virgem.*

@@ -1,3 +1,5 @@
+# 29 de Setembro. Festa do Arcanjo São Miguel
+
 > *Michael, unus de principibus primis, venit in adiutorium meum* — “Miguel, um dos primeiros príncipes, veio em meu socorro” (Dn 10, 13)
 
 ***Sumário.** Entre os anjos do paraíso não há um só que seja superior, nem quiçá igual a São Miguel, que foi escolhido por Deus para rebater o orgulho de Lúcifer e para o expulsar do céu. É, pois, com razão que ele foi colocado como protetor da Igreja católica e de todos os fiéis. Alegremo-nos com o gloriosíssimo Arcanjo, recomendemo-nos a ele e dediquemos-lhe particular devoção, porque tem o honroso ofício de, na hora da morte, defender as almas contra os assaltos dos demônios e apresentá-las ao tribunal divino.*

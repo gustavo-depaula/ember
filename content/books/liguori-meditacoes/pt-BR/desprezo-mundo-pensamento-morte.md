@@ -1,3 +1,5 @@
+# Segunda-feira. Desprezo do mundo com o pensamento da morte
+
 > *Qui utuntur hoc mundo, tamquam non utantur; praeterit enim figura huius mundi* – “Os que usam deste mundo, sejam como se não usassem; porque a figura deste mundo passa” (1 Cor 7, 31)
 
 ***Sumário.** A sombra sinistra da morte escurece o brilho de todos os cetros e coroas; faz-nos compreender que o que o mundo estima não é senão fumaça, lodo e miséria. Com efeito, para que servem as riquezas, as dignidades e as honras, já que depois da morte não nos restará nada senão um caixão, dentro do qual nosso corpo se corromperá? Para que serve a beleza e a saúde do corpo, já que afinal não restará nada senão um punhado de pó nojento e alguns ossos descarnados? Nossas obras somente acompanhar-nos-ão para a eternidade. Todavia quão poucos são os que procuram fazer provisão de boas obras?*

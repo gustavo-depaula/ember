@@ -1,4 +1,4 @@
-## XXIV — PRACTICE OF THE PRESENCE OF GOD
+# XXIV — PRACTICE OF THE PRESENCE OF GOD
 
 **Presence of God.** — *O Lord, may I always live in your presence, with my interior gaze fixed on you.*
 

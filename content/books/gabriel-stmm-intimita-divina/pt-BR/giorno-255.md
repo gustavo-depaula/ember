@@ -1,4 +1,4 @@
-## XXV — A CARIDADE
+# XXV — A CARIDADE
 
 **Presença de Deus.** — *Ó Senhor, faze que, mediante a caridade, eu possa realmente participar da tua vida de amor.*
 

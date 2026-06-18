@@ -1,4 +1,4 @@
-## 49 — IL SÌ PERFETTO
+# 49 — IL SÌ PERFETTO
 
 **Presenza di Dio.** — *Signore, fa' che io possa darti il consenso libero e perfetto della mia volontà.*
 

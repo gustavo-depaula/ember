@@ -1,4 +1,4 @@
-## 1 — O ZELO PELAS ALMAS
+# 1 — O ZELO PELAS ALMAS
 
 **Presença de Deus.** — *Ó Jesus, que te entregaste pela salvação do mundo, acende em meu coração um grande zelo pela salvação das almas.*
 

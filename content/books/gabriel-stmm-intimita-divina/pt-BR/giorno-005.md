@@ -1,4 +1,4 @@
-## 5 — SANTIDADE E VONTADE DE DEUS
+# 5 — SANTIDADE E VONTADE DE DEUS
 
 **Presença de Deus.** — *Ponho-me na presença de Jesus Sacramentado, pedindo-lhe a graça de fazer penetrar em minha alma as suas palavras: «Quem faz a vontade de meu Pai… entrará no reino dos céus» *(Mt.* 7, 21).*
 

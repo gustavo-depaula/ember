@@ -1,3 +1,5 @@
+# Quinta-feira. Triunfa o amor
+
 > *Cum dilexisset suos qui erant in mundo, in finem dilexit eos* – “Como tinha amado os seus que estavam no mundo, amou-os até ao fim” (Jo 13, 1)
 
 ***Sumário.** Posto que o Senhor é todo-poderoso, pode-se todavia dizer que foi vencido pelo amor. O amor levou-O a não só morrer por nós, pregado num patíbulo infame, como a instituir ainda o Santíssimo Sacramento, onde se dá a cada um sem reserva, sem interesse próprio e sempre. Mas se um Deus se dá a nós de tal modo, é de toda a justiça que nós também lhe façamos semelhante oferta; protestando que queremos servi-Lo em todas as coisas e sempre, sem aspirarmos à recompensa e unicamente para Lhe agradarmos e Lhe darmos gosto no tempo e na eternidade.*

@@ -1,4 +1,4 @@
-## IV — Mãe de Deus
+# IV — Mãe de Deus
 
 **Presença de Deus.** — *Santa Mãe do meu Deus, faze-me sentir os palpitares do teu coração que bateu em uníssono com o coração de Deus!*
 

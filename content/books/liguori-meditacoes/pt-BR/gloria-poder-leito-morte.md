@@ -1,3 +1,5 @@
+# Terça-feira. A glória e o poder no leito da morte
+
 “A morte não respeita riqueza, nem poder, nem a púrpura; tanto os súditos como os príncipes serão reduzidos à corrupção e à podridão.” – Teodoreto
 (Cemitério, pintura de Katherine Tucker)
 

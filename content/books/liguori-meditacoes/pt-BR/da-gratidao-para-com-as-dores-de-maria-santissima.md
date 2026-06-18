@@ -1,3 +1,5 @@
+# Sábado. Da gratidão para com as dores de Maria Santíssima
+
 > *Honora patrem tuum: et gemitus matris tuae ne obliviscaris* – “Honra a teu pai e não te esqueças dos gemidos de tua mãe” (Ecle 7, 29)
 
 ***Sumário.** Posto que a morte de Jesus Cristo fosse suficiente para remir uma infinidade de mundos, quis todavia a Santíssima Virgem, pelo amor que nos tem, cooperar para a nossa salvação, preferindo sofrer toda espécie de dores a ver nossas almas sem redenção e na antiga perdição. É nosso dever respondermos a tamanho amor da Rainha dos Mártires, ao menos pela compaixão de suas dores e pela imitação de seus exemplos.*

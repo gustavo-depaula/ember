@@ -1,4 +1,4 @@
-## 22 — A GRANDE LUTA
+# 22 — A GRANDE LUTA
 
 *I domingo de Quaresma*
 

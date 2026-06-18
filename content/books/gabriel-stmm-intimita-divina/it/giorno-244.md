@@ -1,4 +1,4 @@
-## XIV — LA FEDE
+# XIV — LA FEDE
 
 **Presenza di Dio.** — *O Signore, che io comprenda il grande valore della fede.*
 

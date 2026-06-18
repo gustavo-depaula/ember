@@ -1,3 +1,5 @@
+# Quarta-feira. Para a Salvação é necessário o sacrifício da vontade própria
+
 Sacrifício de Isaac (Caravaggio)
 
 > *Qui facit voluntatem Patris mei, qui in coelis est, ipse intrabit in regnum coelorum* – “O que faz a vontade de meu Pai que está nos céus, esse entrará no reino dos céus” (Mt 7, 10)

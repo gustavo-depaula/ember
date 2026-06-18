@@ -1,3 +1,5 @@
+# Dia 06 de Janeiro. Epifania de Nosso Senhor Jesus Cristo
+
 > *Vidimus enim stellam eius in oriente, et venimus adorare eum* – “Vimos a sua estrela no Oriente, e viemos adorá-Lo” (Mt 2, 2)
 
 ***Sumário.** Jesus, apenas nascido, quis começar a comunicar-nos as graças da Redenção. Por meio de uma estrela chama os Magos, e na pessoa destes a todos nós, a fim de O venerarem. Os santos Reis põem-se logo a caminho, entram na gruta, adoram o santo Menino e oferecem-Lhe as suas ofertas místicas. Adoremo-Lo nós também, em união com os santos Reis, e ofereçamos-Lhe pelas mãos de Maria os nossos corações arrependidos e amantes.*

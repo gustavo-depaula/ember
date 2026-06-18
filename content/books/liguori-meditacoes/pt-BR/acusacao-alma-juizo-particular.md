@@ -1,3 +1,5 @@
+# Terça-feira. Acusação da alma no juízo particular
+
 > *Quid faciam, cum surrexerit ad iudicandum Deus? Et cum quaesierit, quid respondebo illi?* – “Que farei quando Deus se levantar para me julgar? E quando me perguntar, que lhe responderei?” (Jó 31, 14)
 
 ***Sumário.** Logo que o homem expira, assentar-se-á contra ele o juízo. Virão depois os acusadores, particularmente o demônio, que o tentou durante a vida e o Anjo da guarda, cujas inspirações desprezou. Jesus Cristo mesmo, que a tudo esteve presente, será, ao mesmo tempo, testemunha e juiz. Dize-me: que responderemos a tais acusadores se tivermos a desgraça de morrer em pecado?… E se a morte nos colhesse nesta noite, qual seria a nossa sentença?*

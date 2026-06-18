@@ -1,3 +1,5 @@
+# Sexta-feira. Da vida penosa de Jesus Cristo
+
 > *Defecit in dolore vita mea, et anni mei in gemitibus* – “A minha vida tem desfalecido com a dor, e os meus anos com os gemidos” (Sl 30, 11)
 
 ***Sumário.** O nosso amável Redentor, desde o primeiro instante da sua vida, teve sempre presentes os ultrajes e as dores que o esperavam pela vista horrível de todos os males que o deviam afligir. Quando nos sentirmos oprimidos pelas cruzes que se nos afiguram longas ou pesadas demais, lancemos um olhar para Jesus Cristo e lembremo-nos da vida penosa que ele levou. Assim de certo não nos ousaremos queixar da mão paternal que nos fere para nosso bem.*

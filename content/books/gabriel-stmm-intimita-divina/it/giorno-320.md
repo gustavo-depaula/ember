@@ -1,4 +1,4 @@
-## XXVIII — IL DONO DELLA SAPIENZA
+# XXVIII — IL DONO DELLA SAPIENZA
 
 **Presenza di Dio.** — *Vieni, Spirito di Sapienza, attirami!*
 

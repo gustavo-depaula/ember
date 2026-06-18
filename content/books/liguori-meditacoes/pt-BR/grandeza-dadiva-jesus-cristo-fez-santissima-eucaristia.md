@@ -1,3 +1,5 @@
+# Quinta-feira. Grandeza da dádiva que Jesus Cristo nos fez na Santíssima Eucaristia
+
 > *In omnibus divites facti estis in illo* – “Em todas as coisas fostes enriquecidos n’Ele” (1Cor 1, 5)
 
 ***Sumário.** É tão grande a dádiva que Jesus Cristo nos fez na santíssima Eucaristia, que, apesar de ser poderosíssimo, sapientíssimo e riquíssimo, não pode, nem sabe, nem tem para dar-nos outra mais excelente. Como é, pois, possível que os homens, tão sensíveis a qualquer delicadeza, fiquem insensíveis a tão grande dom e paguem o seu benfeitor com ingratidão… se nós também fomos no passado tão ingratos, peçamos de todo o coração que Jesus nos perdoe.*

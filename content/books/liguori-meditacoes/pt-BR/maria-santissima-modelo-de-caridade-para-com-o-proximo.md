@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de caridade para com o próximo
+
 > *Hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum* – “Nós temos de Deus este mandamento, que o que ama a Deus, ame também a seu irmão” (1 jo 4, 21)
 
 ***Sumário.** O amor para com o próximo nasce do amor para com Deus. Ora, como nunca existiu, nem jamais existirá, quem mais que Maria Santíssima amasse a Deus, assim nem houve, nem haverá, quem mais que a Santíssima Virgem tenha amado e ame o próximo. Basta saber que esta sua caridade a levou a oferecer à morte, entre as dores mais acerbas, e pela nossa salvação, o seu Filho unigênito. Felizes de nós se soubermos imitar uma Mãe tão carinhosa. Ela usará para conosco da mesma caridade que tivermos para com o próximo.*.

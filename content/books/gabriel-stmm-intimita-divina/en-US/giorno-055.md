@@ -1,4 +1,4 @@
-## 55 — THE POWER OF THE DIVINE MASTER
+# 55 — THE POWER OF THE DIVINE MASTER
 
 **Presence of God.** — *O Jesus, I ask You not only to instruct me, but to move my soul to accept and put Your teachings into practice.*
 

@@ -1,4 +1,4 @@
-## 69 — THE SACRAMENTS
+# 69 — THE SACRAMENTS
 
 **Presence of God.** — *O Jesus, who with such abundance give me Your grace, grant that in me it may not be vain.*
 

@@ -1,3 +1,5 @@
+# Terça-feira. Temos de escolher entre uma eternidade feliz e outra infeliz
+
 > *Ante hominem vita et mors, bonum et malum; quod placuerit ei dabitur illi* – “Diante do homem estão a vida e a morte, o bem e o mal; o que lhe agradar, isso lhe será dado” (Ecle 15, 18)
 
 ***Sumário.** Deus quer certamente que todos os homens se salvem, mas não à força. Por isso Deus põe diante de nós dois caminhos a seguir, deixando a escolha a cada um. Mas, como poderá chegar ao céu quem quiser seguir o caminho do inferno? Avivemos a nossa fé; examinemos atentamente aonde nos leva o caminho trilhado até hoje, e tomemos desde já as providências para nos assegurar a salvação eterna. Deixemos, se for necessário, o mundo: São pequenas todas as cautelas, quando corre risco a eternidade.*

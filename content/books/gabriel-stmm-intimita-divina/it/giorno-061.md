@@ -1,4 +1,4 @@
-## 61 — Le opere di Gesù
+# 61 — Le opere di Gesù
 
 **Presenza di Dio.** — *Concedimi, dolcissimo Gesù, d'imparare ad agire come Tu agivi: unicamente per compiere la missione ricevuta dal Padre tuo, e facendoti in tutto dirigere da lui.*
 

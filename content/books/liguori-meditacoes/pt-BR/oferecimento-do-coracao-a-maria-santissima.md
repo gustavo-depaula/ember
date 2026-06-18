@@ -1,3 +1,5 @@
+# 31 de Maio. Oferecimento do Coração a Maria Santíssima
+
 > *Praebe, fili mi, cor tuum mihi, et oculi tui vias meas custodiant* — “Dá-me, filho meu, o teu coração, e os teus olhos guardem os meus caminhos” (Pv 23, 26)
 
 ***Sumário.** A mais bela homenagem que podemos tributar a Maria Santíssima no encerramento do mês de maio, é oferecer-lhe o nosso coração, isto é, desfazer-nos da nossa vontade própria para a consagrar inteiramente e sem reserva ao seu serviço. Tal oferecimento, porém, para ser agradável à Mãe de Deus e nos merecer a sua proteção especial, não deve ser só de palavras, mas ser efetivo pelos atos. Como se poderá dizer que pertence a Santíssima Virgem o coração que está na sonolência contínua da tibieza e talvez na morte do pecado?*

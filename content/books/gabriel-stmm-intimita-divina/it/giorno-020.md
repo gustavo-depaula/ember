@@ -1,4 +1,4 @@
-## 20 — CERCARE DIO NELLE CREATURE
+# 20 — CERCARE DIO NELLE CREATURE
 
 **Presenza di Dio.** — *Mi metto ai piedi di Gesù perché m'insegni come cercarlo e trovarlo nei miei fratelli.*
 

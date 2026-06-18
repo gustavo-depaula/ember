@@ -1,4 +1,4 @@
-## XXIX — FESTA DEI SS. PIETRO E PAOLO
+# XXIX — FESTA DEI SS. PIETRO E PAOLO
 
 **Presenza di Dio.** — *O Signore, che la festa dei tuoi Apostoli mi rinfranchi nella fede e rinsaldi la mia fedeltà alla Chiesa.*
 

@@ -1,4 +1,4 @@
-## Article 8. — Dévotion aux âmes du Purgatoire.
+# Article 8. — Dévotion aux âmes du Purgatoire.
 
 Pensons que probablement se trouvent dans ce lieu de souffrances des âmes qui attendent notre secours avec un droit spécial, comme celle de notre père, de notre mère, de nos frères, de nos autres parents et de nos amis. Ajoutons que ces saintes âmes ne peuvent se secourir elles-mêmes, puisque elles sont là pour expier leurs fautes ; cette considération surtout doit nous exciter vivement à leur venir en aide de tout notre pouvoir. En cela, non seulement nous serons très agréables à Dieu, mais nous acquerrons de grands mérites ; et ces âmes bénies ne manqueront pas de nous obtenir du Seigneur beaucoup de grâces, principalement le salut éternel.
 

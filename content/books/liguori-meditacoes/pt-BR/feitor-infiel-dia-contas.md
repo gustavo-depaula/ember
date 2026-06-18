@@ -1,3 +1,5 @@
+# Domingo. O feitor infiel e o dia das contas
+
 ## 8º Domingo depois de Pentecostes
 
 > *Redde rationem villicationis tuae; iam enim non poteris villicare* – “Dá conta da tua administração; já não poderás ser meu feitor” (Lc 16, 2)

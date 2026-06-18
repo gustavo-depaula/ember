@@ -1,4 +1,4 @@
-## 75 — LA VOCAZIONE
+# 75 — LA VOCAZIONE
 
 **Presenza di Dio.** — *Dio mio, fa' che al privilegio della tua chiamata io corrisponda con cuore profondamente umile e pienamente generoso.*
 

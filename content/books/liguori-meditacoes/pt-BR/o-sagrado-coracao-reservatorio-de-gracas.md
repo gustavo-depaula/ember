@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Abril. O Sagrado Coração, Reservatório de Graças
+
 > *Haurietis aquas in gaudio de fontibus Salvatoris* – “Tirareis com alegria águas das fontes do Salvador” (Is 12, 3)
 
 ***Sumário.** O Coração de Jesus é verdadeiramente o reservatório de todos os favores divinos. Podemos considerar quatro fontes no Coração de Jesus: a primeira de misericórdia; a segunda de paz e consolação; a terceira de devoção; e a quarta de amor. Aquele que vai haurir nestas felizes fontes que temos no Coração de Jesus terá sempre águas de alegria e de salvação. Se não recebeste, até agora, graças mais copiosas, é porque te descuidaste de vir tomá-las no Coração de Jesus.*

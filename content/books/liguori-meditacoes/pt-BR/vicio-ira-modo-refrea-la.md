@@ -1,3 +1,5 @@
+# Domingo. O vício da ira e o modo de refreá-la
+
 ## 5º Domingo depois de Pentecostes
 
 > *Omnis qui irascitur fratri suo, reus erit iudicio* – “Todo aquele que se irar contra seu irmão, será réu em seu juízo” (Mt 5, 22)

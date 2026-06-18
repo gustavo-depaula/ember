@@ -1,3 +1,5 @@
+# Quarta-feira. Necessidade da observança regular para um religioso
+
 > *Fili mi… custodi legem atque consilium, et erit vita animae tuae* – “Filho meu… guarda a lei e o conselho e terá vida a tua alma” (Pv 3, 21)
 
 ***Sumário.** Cumpre observar que a predestinação dos religiosos está ligada à observância da Regra. Quem a transgride habitualmente, muito embora em coisas pequenas, posto que faça muitas outras coisas boas, não progredirá nunca na perfeição e trabalhará sem fruto. Foi por estas transgressões que começou a ruína de tantos que agora vivem fora da Ordem e talvez estão ardendo no inferno. Façamos muito caso da Regra; imaginemos que somente nós a temos de guardar e se virmos outros faltar à observância, procuremos suprir os seus defeitos.*

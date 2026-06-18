@@ -1,4 +1,4 @@
-## 47 — LO SPIRITO DI GESÙ
+# 47 — LO SPIRITO DI GESÙ
 
 **Presenza di Dio.** — *Concedimi, o Gesù, di contemplare l'Anima tua, tempio preferito dello Spirito Santo, e fa' che a tua somiglianza possa anch'io essere un tempio degno di lui.*
 

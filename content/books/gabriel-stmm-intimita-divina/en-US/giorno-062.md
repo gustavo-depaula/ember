@@ -1,4 +1,4 @@
-## 62 — JESUS AND THE FATHER'S GLORY
+# 62 — JESUS AND THE FATHER'S GLORY
 
 **Presence of God.** — *O Jesus, infuse into me Your spirit and Your zeal for the Father's glory, and teach me to flee all personal glory.*
 

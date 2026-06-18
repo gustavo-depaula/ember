@@ -1,4 +1,4 @@
-## XXVI — IL DONO DELL'INTELLETTO
+# XXVI — IL DONO DELL'INTELLETTO
 
 **Presenza di Dio.** — *Vieni, Spirito d'intelletto, illuminami!*
 

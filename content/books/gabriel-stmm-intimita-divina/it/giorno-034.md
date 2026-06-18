@@ -1,4 +1,4 @@
-## 34 — SEGNO DI CONTRADDIZIONE
+# 34 — SEGNO DI CONTRADDIZIONE
 
 *domenica fra l'Ottava della Natività*
 

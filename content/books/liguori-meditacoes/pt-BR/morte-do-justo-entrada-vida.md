@@ -1,3 +1,5 @@
+# Quarta-feira. A morte do justo é a entrada na vida
+
 > *Haec porta Domini, iusti intrabunt in eam* – “Esta é a porta do Senhor, os justos entrarão por ela” (Sl 117, 20)
 
 ***Sumário.** A morte, considerada segundo os sentidos, causa pavor e temor, mas considerada segundo a fé, é consoladora e desejável; porque é a porta da vida, pela qual forçosamente deve passar quem quiser entrar no gozo de Deus. Tal é a graça que Jesus Cristo nos alcançou pela sua morte. Pelo que os santos, enquanto estavam na terra, não desejavam senão sair do cárcere do miserável corpo e entrar no reino celestial. Se nós temos tamanho horror à morte, é porque amamos pouco ao Senhor.*

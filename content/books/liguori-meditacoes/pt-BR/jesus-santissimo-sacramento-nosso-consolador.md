@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento, nosso Consolador
+
 > *Venite ad me omnes, qui laboratis et onerati estis, et ego reficiam vos* – “Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei” (Mt 11, 28)
 
 ***Sumário.** Enquanto vivermos sobre a terra, nunca nos faltarão angústias, tribulações e trabalhos; aliás ela não seria para nós um vale de lágrimas. Se, porém, quisermos sentir menos o peso das cruzes, amemos muito a Jesus, e habituemo-nos a recorrer frequentemente a Ele no seu Santíssimo Sacramento. Imaginemos vê-lo ali coroado de espinhos, coberto de chagas, aflito e chorando a ingratidão dos homens. Unamos as nossas lágrimas com as de Jesus. Oh, quanto é doce chorar com o nosso divino Consolador!*

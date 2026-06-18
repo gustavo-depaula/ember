@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Setembro. O Coração de Jesus, Amigo das Almas Castas
+
 > *Beati mundo corde, quoniam ipsi Deum videbunt *— “Bem-aventurados os limpos de coração, porque eles verão a Deus” (Mt 5, 8)
 
 ***Sumário.** O Coração de Jesus consagra afeto especial às virgens e às almas puras: elas lhe são tão caras como os anjos. Uma alma casta é a esposa predileta de Jesus. Esta virtude é que formou a união mais íntima entre Jesus e Maria, a Virgem das virgens, que mereceu a São José a glória incomparável de ser escolhido para pai nutrício de Jesus. Se queres também tornar-te caro ao Coração de Jesus, e merecer as suas ternas consolações, procura primar na castidade.*

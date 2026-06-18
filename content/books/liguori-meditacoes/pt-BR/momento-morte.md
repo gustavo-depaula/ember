@@ -1,3 +1,5 @@
+# Quarta-feira. Momento da morte
+
 > *Si ceciderit lignum ad austrum aut ad aquilonem, in quocumque loco ceciderit, ibi erit* – “Se a árvore cair para o sul ou para o norte, em qualquer lugar onde cair, aí ficará” (Ecle 11, 3)
 
 ***Sumário.** É uma verdade da fé que a morte é um momento de que depende a eternidade. Quem a errar então, tê-la-á errado para sempre, sem esperança de remédio. Se cremos nesta verdade, porque não tomamos a resolução de nos afastarmos de todo o perigo e de tomar todas as providências para nos assegurarmos uma boa morte? Nenhuma cautela será demasiada para nos assegurarmos a vida eterna! Lembremo-nos de que os dias da nossa vida são outras tantas graças que Deus nos concede para o ajuste das contas, antes que venha o momento terrível.*

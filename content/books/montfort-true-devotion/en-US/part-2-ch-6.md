@@ -1,4 +1,4 @@
-## Article VI — How to Practice This Devotion at Holy Communion
+# Article VI — How to Practice This Devotion at Holy Communion
 
 ### I. Before Communion
 

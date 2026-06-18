@@ -1,4 +1,4 @@
-## X — FRUTTI DI VITA
+# X — FRUTTI DI VITA
 
 *VII Domenica dopo Pentecoste*
 

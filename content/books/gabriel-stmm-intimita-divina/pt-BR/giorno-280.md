@@ -1,4 +1,4 @@
-## XIX — PRUDÊNCIA E RETIDÃO
+# XIX — PRUDÊNCIA E RETIDÃO
 **Presença de Deus.** — *Ensina-me, meu Deus, aquela prudência que conduz a ti pelo caminho reto do dever e da verdade.*
 
 ### Meditação

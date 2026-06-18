@@ -1,4 +1,4 @@
-## XIV — Maria e la carità fraterna
+# XIV — Maria e la carità fraterna
 
 **Presenza di Dio.** — *O Madre che tanto hai amato gli uomini, insegnami ad adempiere con perfezione il precetto della carità fraterna.*
 

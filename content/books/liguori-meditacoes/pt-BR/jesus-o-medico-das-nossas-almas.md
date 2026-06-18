@@ -1,3 +1,5 @@
+# 25 de Abril. Jesus o Médico das nossas Almas
+
 > *Et orietur vobis, timentibus nomen meum, sol iustitiae, et sanitas in pennis eius* – “Para vós, os que temeis o meu nome, nascerá o sol da justiça, e estará a salvação nas suas asas” (Ml 4, 2)
 
 ***Sumário.** Por muito que os médicos terrestres amem os doentes, nenhum tomará sobre si as doenças a fim de as curar. Somente Jesus Menino foi o médico tão caridoso, que tomou sobre si todas as nossas enfermidades, e para delas nos livrar tomou o remédio amargoso de uma vida de trabalhos contínuos e de uma morte dolorosíssima sobre um patíbulo infame. Admiremos a grande bondade do divino Redentor, agradeçamo-la e retribuamos-Lhe com o nosso amor.*

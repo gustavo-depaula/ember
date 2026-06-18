@@ -1,3 +1,5 @@
+# Sexta-feira. Comemoração das sete Dores de Maria Santíssima
+
 As 7 dores de Maria Santíssima
 
 > *O vos omnes qui transitis per viam, attendite et videte, si est dolor sicut dolor meus – “Ó vós todos os que passais pelo ca­minho, atendei e vede, se há dor semelhante à minha dor”* (Lm 1, 12)

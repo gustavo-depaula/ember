@@ -1,3 +1,5 @@
+# Sábado. Martírio de Maria Santíssima ao pé da Cruz
+
 > *Stabat autem iuxta crucem Iesu mater eius* – “Estava ao pé da cruz de Jesus, sua Mãe” (Jo 19, 25)
 
 ***Sumário.** Do martírio de Maria sobre o Calvário, não é necessário dizer outra coisa senão o que diz São João: contempla-a vizinha à cruz à vista de Jesus moribundo, e depois, vê se há dor semelhante a sua dor. O que mais atormentou a nossa Mãe dolorosa, foi o ver que ela mesma com sua presença aumentava as aflições do Filho e que para grande parte dos homens o sangue divino seria causa de maior condenação. Se Jesus e Maria, apesar de inocentes, sofreram tanto por nosso amor, a nós, que merecemos mil infernos, não desagrade sofrer alguma coisa por amor deles e em satisfação por nossos pecados.*

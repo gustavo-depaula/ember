@@ -1,4 +1,4 @@
-## XIII — CONSECRATION TO THE HEART OF JESUS
+# XIII — CONSECRATION TO THE HEART OF JESUS
 
 **Presence of God.** — *O Jesus, make me worthy to consecrate myself to your most sweet Heart and to truly live my consecration.*
 

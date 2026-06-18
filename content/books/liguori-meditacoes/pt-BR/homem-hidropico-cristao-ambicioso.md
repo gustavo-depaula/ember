@@ -1,3 +1,5 @@
+# Domingo. O homem hidrópico e o cristão ambicioso
+
 ## 16º Domingo depois de Pentecostes
 
 > *Ecce homo quidam hydropicus erat ante illum* – “Eis que diante dele estava um hidrópico” (Lc 7, 12)

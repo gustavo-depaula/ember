@@ -1,3 +1,5 @@
+# Terça-feira. Vaidade do mundo
+
 Antonio de Pereda, A Alegoria da Vida ou A Alegoria da Vaidade do Mundo, 1637
 
 > *Quid prodest homini, si mundum universum lucretur, animae vero suae detrimentum patiatur?* – “Que aproveita ao homem ganhar o mundo inteiro, se vier a perder a sua alma” (Mt 16, 26)

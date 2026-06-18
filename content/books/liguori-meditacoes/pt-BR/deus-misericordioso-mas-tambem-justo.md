@@ -1,3 +1,5 @@
+# Terça-feira. Deus é Misericordioso, mas também Justo
+
 > *Misericordia enim et ira ab illo cito proximant, et in peccatores respicit ira illius* – “A sua misericórdia e a usa ira chegam rapidamente, e em sua ira olha para os pecadores” (Eclo 5, 7)
 
 ***Sumário.** De dois modos o demônio engana os homens e arrasta muitos consigo ao inferno. Depois do pecado arrasta-os ao desespero, por meio da justiça divina; e antes do pecado excita-os a cometê-lo pela esperança da divina misericórdia. Se quisermos desfazer a arte do inimigo, façamos o contrário: depois do pecado, confiemos na misericórdia divina, mas, antes do pecado, temamos a sua justiça inexorável. Como poderia confiar na misericórdia de Deus quem abusa da mesma misericórdia para o ofender?*

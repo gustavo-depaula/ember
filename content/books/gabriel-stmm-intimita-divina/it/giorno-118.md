@@ -1,4 +1,4 @@
-## 42 — NON SCUSARSI
+# 42 — NON SCUSARSI
 
 **Presenza di Dio.** — *O Gesù, che hai voluto tacere di fronte a chi ti condannava a morte, insegnami l'arte di non scusarmi.*
 

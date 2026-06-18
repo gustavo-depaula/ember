@@ -1,4 +1,4 @@
-## 52 — PATIENCE
+# 52 — PATIENCE
 
 **Presence of God.** — *O Jesus, divine and most meek Patient, teach me the secret of true patience.*
 

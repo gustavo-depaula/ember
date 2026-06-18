@@ -1,3 +1,5 @@
+# 17ª Meditação. Quem ama a Deus, não deve temer a Morte
+
 > *Moriatur anima mea morte iustorum, et fiant novissima mea horum similia *— “Morra a minha alma de morte dos justos, e sejam os meus novíssimos semelhantes aos deles” (Nm 23, 10)
 
 ***Sumário.** É certo que, sem uma revelação especial, ninguém pode ter a certeza infalível acerca da sua salvação; mas pode ter dela uma certeza moral aquele que se deu deveras a Deus, detesta os pecados cometidos, persevera na vida devota, e está disposto a antes morrer do que perder a graça divina; e, sobretudo, aquele que tem um desejo ardente de amar a Jesus Cristo, deseja vê-lo amado dos outros, e sente tristeza de o ver ofendido. Longe de aborrecer a morte, deve amá-la, porque o porá em estado de ver Deus face a face, e de gozá-lo por toda a eternidade.*

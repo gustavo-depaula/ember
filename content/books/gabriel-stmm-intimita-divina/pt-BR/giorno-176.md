@@ -1,4 +1,4 @@
-## VII — Vida Mariana
+# VII — Vida Mariana
 
 **Presença de Deus.** — *Ó Maria, Mãe dulcíssima, por tua humildade e teu amor materno para com todas as criaturas, torna humilde meu coração.*
 

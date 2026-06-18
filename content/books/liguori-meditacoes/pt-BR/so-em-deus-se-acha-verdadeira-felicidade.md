@@ -1,3 +1,5 @@
+# Quarta-feira. Só em Deus se acha a verdadeira felicidade
+
 “Meu Deus, meu tudo” – São Francisco de Assis
 
 > *Delectare in Domino, et dabit tibi petitiones cordis tui* – “Deleita-te no Senhor, e Ele te outorgará as petições de teu coração” (Sl 36, 4)

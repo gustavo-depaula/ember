@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de Mortificação
+
 > *Manus meae stillaverunt myrrham, et digiti mei pleni myrrha probatissima* – “As minhas mãos destilaram mirra, e os meus dedos estavam cheios da mirra mais preciosa” (Ct 5, 5)
 
 ***Sumário.** Na Santíssima Virgem tudo estava em perfeita harmonia, porque estava isenta do pecado original e cheia de graça. A carne obedecia prontamente ao espírito; e o espírito a Deus. Contudo ela foi tão amante da mortificação que se tornou um modelo perfeito desta virtude. Quanto mais mortificados não devemos ser nós que temos tantas más paixões a exprimir e quiçá tantas culpas a expiar. E somos tão delicados e tão amantes de nossa comodidade. A continuarmos assim, como nos poderemos gloriar de ser filhos de Maria?*

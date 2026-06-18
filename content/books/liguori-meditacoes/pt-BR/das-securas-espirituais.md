@@ -1,3 +1,5 @@
+# Terça-feira. Das Securas Espirituais
+
 São João da Cruz
 
 > *Posuit me desolatam, toto die moerore confectam* – “Pôs-me em desolação, afogada em tristeza todo o dia” (Lm 1, 13)

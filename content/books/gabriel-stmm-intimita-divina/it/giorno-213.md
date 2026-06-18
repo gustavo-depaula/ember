@@ -1,4 +1,4 @@
-## XIII — LA CONSACRAZIONE AL CUORE DI GESÙ
+# XIII — LA CONSACRAZIONE AL CUORE DI GESÙ
 
 **Presenza di Dio.** — *O Gesù, fammi degno di consacrarmi al tuo dolcissimo Cuore e di vivere realmente la mia consacrazione.*
 

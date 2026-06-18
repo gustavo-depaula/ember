@@ -1,3 +1,5 @@
+# Sexta-feira. Comemoração das cinco Chagas de Nosso Senhor Jesus Cristo
+
 > *Haurietis aquas in gaudio de fontibus Salvatoris* – “Tirareis com alegria águas das fontes do Salvador” (Is 12, 3)
 
 ***Sumário.** As Chagas de Jesus são aquelas benditas fontes preditas por Isaías, das quais podemos tirar todas as graças, se as pedimos com fé. São fontes de misericórdia, fontes de esperança, e sobretudo fontes de amor; porquanto as suas águas, ao passo que purificam a alma das manchas da culpa, abrasam-na no santo amor. Avizinhemo-nos muitas vezes daquelas fontes do Salvador, para apagar a nossa sede das graças.*

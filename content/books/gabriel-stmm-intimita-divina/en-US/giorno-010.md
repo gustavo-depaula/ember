@@ -1,4 +1,4 @@
-## 10 — INVITATION TO DIVINE INTIMACY
+# 10 — INVITATION TO DIVINE INTIMACY
 
 **Presence of God.** — *I recollect myself in the presence of my God, living in me through grace, with a lively desire to come into contact with Him.*
 

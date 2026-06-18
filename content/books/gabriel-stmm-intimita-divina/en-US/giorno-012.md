@@ -1,4 +1,4 @@
-## 12 — SEEKING GOD IN PRAYER
+# 12 — SEEKING GOD IN PRAYER
 
 **Presence of God.** — *I leave every occupation and earthly care and recollect myself in the little heaven of my soul to place myself in intimate contact with God.*
 

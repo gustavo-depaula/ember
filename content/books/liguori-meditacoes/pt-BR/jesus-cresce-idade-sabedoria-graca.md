@@ -1,3 +1,5 @@
+# Sexta-feira. Jesus cresce em idade, em sabedoria, e em graça
+
 Menino Jesus com os Doutores no Templo
 
 > *Et Iesus proficiebat sapientia et aetate et gratia apud Deum et homines* – “E Jesus crescia em sabedoria, e em idade e em graça diante de Deus e dos homens” (Lc 2, 52)

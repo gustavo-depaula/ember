@@ -1,4 +1,4 @@
-## XXX — L'ESSENZA DIVINA
+# XXX — L'ESSENZA DIVINA
 
 **Presenza di Dio.** — *Dio mio, purifica ed illumina il mio sguardo perché possa contemplarti.*
 

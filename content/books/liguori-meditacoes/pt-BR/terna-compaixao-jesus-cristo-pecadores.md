@@ -1,3 +1,5 @@
+# Outra meditação para o mesmo Domingo. Terna compaixão de Jesus Cristo para com os pecadores
+
 ## Segunda Meditação para o 4º Domingo da Quaresma
 
 > *Misereor super turbam* – “Tenho pena deste povo” (Mc 8, 2)

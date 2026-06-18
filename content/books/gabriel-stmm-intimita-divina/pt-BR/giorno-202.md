@@ -1,4 +1,4 @@
-## II — A PRESENÇA REAL
+# II — A PRESENÇA REAL
 
 **Presença de Deus.** — *«Adoro-te devotamente, ó Deus escondido sob os véus eucarísticos. A ti o meu coração todo se abandona, porque contemplando-te vem a desfalecer» (cfr. Adoro te devote).*
 

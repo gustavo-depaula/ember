@@ -1,3 +1,5 @@
+# Sábado. Santo Afonso, modelo de devoção a Maria Santíssima
+
 Santo Afonso, grande devoto de Nossa Senhora
 
 > *Hanc amavi et exquisivi a iuventute mea, et quaesivi sponsam mihi eam assumere* – “A esta eu amei e requestei desde a minha mocidade, e procurei tomá-la para mim por esposa” (Sb 8, 2)

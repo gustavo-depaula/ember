@@ -1,4 +1,4 @@
-## XXIX — A SINCERIDADE
+# XXIX — A SINCERIDADE
 **Presença de Deus.** — *Dá-me, ó Senhor, um coração franco e sincero, amante da verdade, que busca e quer a verdade a qualquer custo.*
 
 ### Meditação

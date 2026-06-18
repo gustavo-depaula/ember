@@ -1,4 +1,4 @@
-## 7 — IL MONTE DELLA PERFEZIONE
+# 7 — IL MONTE DELLA PERFEZIONE
 
 **Presenza di Dio.** — *«Chi può salire al monte del Signore?» *(Sal.* 23, 3). Chiedo al mio Dio che mi permetta di accostarmi al santo monte dove Egli abita, dove regna solo il suo onore e la sua gloria.*
 

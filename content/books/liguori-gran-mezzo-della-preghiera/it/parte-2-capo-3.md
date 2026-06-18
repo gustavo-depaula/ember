@@ -1,6 +1,4 @@
-# Parte Seconda
-
-## Capo III - Si espone, e si confuta il sistema di Giansenio della dilettazione relativamente vittrice
+# Capo III - Si espone, e si confuta il sistema di Giansenio della dilettazione relativamente vittrice
 
 Nel Capo seguente, come di sovra accennammo, dimostreremo
 

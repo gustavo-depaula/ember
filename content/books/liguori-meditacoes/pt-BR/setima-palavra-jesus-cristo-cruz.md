@@ -1,3 +1,5 @@
+# Sexta-feira. Sétima palavra de Jesus Cristo na Cruz
+
 > *Clamans voce magna Jesus ait: Pater, in manus tuas commendo spiritum meum* – “Jesus, dando um grande brado, disse: Pai, nas tuas mãos encomendo o meu espírito” (Lc 23, 46)
 
 ***Sumário.** Antes de expirar, soltou Jesus um grande brado para nos dar a entender que morria, não pela malevolência de seus inimigos, mas por sua própria vontade. Entrega o espírito nas mãos de seu Pai e recomendando-Lhe a própria pessoa, recomendando-Lhe juntamente todos os fiéis, que pelos seus merecimentos deviam ser salvos. Se formos devotos da Paixão de Jesus Cristo, oh, que conforto nos darão na hora da morte estas suas palavras: Senhor, em vossas mãos encomendo a minha alma!*

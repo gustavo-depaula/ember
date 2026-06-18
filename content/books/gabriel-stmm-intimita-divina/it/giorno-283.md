@@ -1,4 +1,4 @@
-## XXII — LA GIUSTIZIA
+# XXII — LA GIUSTIZIA
 
 **Presenza di Dio.** — *Insegnami, o Signore, ad amare la giustizia e ad odiare tutto ciò che vi si oppone.*
 

@@ -1,3 +1,5 @@
+# Meditação para a tarde do mesmo dia: Felicidade de quem nasceu depois da Redenção e na Igreja Católica
+
 Plenitude dos Tempos: Nascimento de Cristo termina com o mundo Pagão (Jean-Léon Gérôme, The Age of Augustus and the Birth of Jesus Christ, 1855)
 
 > *Ubi venit plenitudo temporis, misit Deus Filium suum, ut eos, qui sub lege erant, redimeret* – Quando chegou a plenitude do tempo, enviou Deus a seu Filho, para que remisse aqueles que estavam debaixo da lei (Gl 4, 4)

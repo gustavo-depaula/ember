@@ -1,4 +1,4 @@
-## 14 — THE VIRGIN OF THE INCARNATION
+# 14 — THE VIRGIN OF THE INCARNATION
 
 **Presence of God.** — *I draw near to you, Virgin Mary, with the lively desire to penetrate the mystery of your interior life, so that you may be for me light and model.*
 

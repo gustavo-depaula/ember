@@ -1,4 +1,4 @@
-## 46 — O INFLUXO DE JESUS
+# 46 — O INFLUXO DE JESUS
 
 **Presença de Deus.** — *Ó Jesus, faze-me compreender como a minha alma se encontra sob o poderoso e santificante toque da tua SS.ma Humanidade.*
 

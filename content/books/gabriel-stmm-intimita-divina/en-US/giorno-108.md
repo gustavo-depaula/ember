@@ -1,4 +1,4 @@
-## 32 — HUMILITY AND TRUST
+# 32 — HUMILITY AND TRUST
 
 **Presence of God.** — *From the depth of my nothingness I cry to You, O Lord; Lord hear my voice... I trust in You.*
 

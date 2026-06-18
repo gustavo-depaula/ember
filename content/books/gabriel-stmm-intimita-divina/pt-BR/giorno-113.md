@@ -1,4 +1,4 @@
-## 37 — O ÚLTIMO LUGAR
+# 37 — O ÚLTIMO LUGAR
 
 **Presença de Deus.** — *Ó Jesus, que disseste: "Não vim para ser servido, mas para servir" (cf. Mt. 20, 28), ensina-me a amar o último lugar.*
 

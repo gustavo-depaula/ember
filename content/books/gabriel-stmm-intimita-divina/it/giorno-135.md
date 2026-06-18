@@ -1,4 +1,4 @@
-## 59 — L'AGNELLO MANSUETO
+# 59 — L'AGNELLO MANSUETO
 *martedì santo*
 
 **Presenza di Dio.** — *O Gesù, concedimi la grazia di penetrare l'abisso di dolore scavato dal peccato nel tuo Cuore mansuetissimo.*

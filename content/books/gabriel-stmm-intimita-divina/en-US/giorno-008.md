@@ -1,4 +1,4 @@
-## 8 — SOON THE LORD WILL COME
+# 8 — SOON THE LORD WILL COME
 *Second Sunday of Advent*
 
 **Presence of God.** — *I place myself before Jesus in the Blessed Sacrament to hear from Him the twofold invitation to trust and penance contained in today's liturgy.*

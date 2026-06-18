@@ -1,3 +1,5 @@
+# Domingo. Os falsos profetas e a necessidade das boas obras
+
 ## 7º Domingo depois de Pentecostes
 
 > *Omnis arbor, quae non facit fructum bonum, excidetur et in ignem mittetur* – “Toda a árvore que não dá bom fruto será cortada e metida no fogo” (Mc 7, 19)

@@ -1,4 +1,4 @@
-## 4 — CHARITY ESSENCE OF HOLINESS
+# 4 — CHARITY ESSENCE OF HOLINESS
 
 **Presence of God.** — *I place myself in the presence of God, considering that He is infinite charity: "Deus charitas est."*
 

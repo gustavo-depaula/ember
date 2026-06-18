@@ -1,3 +1,5 @@
+# Sexta-feira. É mister sofrer tudo para agradar a Deus
+
 > *Caritas patiens est… omnia suffert… omnia sustinet* – “A caridade é paciente… tudo sofre… tudo suporta” (1 Cor 13, 4)
 
 ***Sumário.** Para se tornarem agradáveis a Deus, os santos desapossaram-se de seus bens, renunciaram às mais altas dignidades da terra e acolheram como tesouros as enfermidades, as perseguições, e despojamento de tudo, e a morte mais dolorosa e triste. E que fazemos nós para um fim tão sublime? Ó miséria! Recusamo-nos até a sofrer com paciência um leve incômodo, uma pequena contrariedade, um desprezo, uma palavra mordaz. Quão diferentes dos santos somos nós!*.

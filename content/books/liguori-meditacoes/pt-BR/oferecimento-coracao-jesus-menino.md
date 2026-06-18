@@ -1,3 +1,5 @@
+# Meditação para a tarde do mesmo dia: Oferecimento do coração a Jesus Menino
+
 Jesus Menino
 
 > *Dilectus meus mihi et ego illi, qui pascitur inter lilia.* — “O meu amado é meu e eu sou dele, que se apascenta entre as açucenas” (Cant. 2, 16).

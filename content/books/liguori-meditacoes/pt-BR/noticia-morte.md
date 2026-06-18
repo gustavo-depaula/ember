@@ -1,3 +1,5 @@
+# Segunda-feira. A notícia da Morte
+
 > *De lectulo, super quem ascendisti, non descendes, sed morte morieris* – “Não te levantarás da cama em que jazes, mas certamente morrerás” (4 Reg. 1, 4)
 
 ***Sumário.** Imagina que estás com um doente a quem restam poucas horas de vida. Os parentes, vendo que o estado dele piora sempre, resolvem-se afinal, depois de uma funesta demora, a anunciar-lhe a aproximação da morte. Ah! Quais serão então os sentimentos do enfermo? Qual será a sua mágoa? Especialmente se tiver vivido com o coração apegado aos bens da terra, por cujo amor ofendeu a Jesus Cristo?… Meu irmão, se na hora da morte não quiseres ter as mesmas angústias, ajusta agora as contas da tua consciência, e na enfermidade chama o confessor antes do médico.*

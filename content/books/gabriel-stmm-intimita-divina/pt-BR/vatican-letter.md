@@ -1,4 +1,4 @@
-## Carta da Secretaria de Estado de Sua Santidade
+# Carta da Secretaria de Estado de Sua Santidade
 
 *Do Vaticano, 12 de fevereiro de 1957*
 

@@ -1,4 +1,4 @@
-## 7 de outubro — NOSSA SENHORA DO ROSÁRIO
+# 7 de outubro — NOSSA SENHORA DO ROSÁRIO
 
 **Presença de Deus.** — *O vosso Rosário bendito, ó Virgem santa, seja para mim arma de defesa e escola de virtude.*
 

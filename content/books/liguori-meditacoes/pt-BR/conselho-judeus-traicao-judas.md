@@ -1,3 +1,5 @@
+# Segunda-feira. Conselho dos Judeus e traição de Judas
+
 > *Expedit vobis, ut unus moriatur homo pro populo, et non tota gens pereat – “Convém que morra um homem pelo povo e que não pereça toda a nação”* (Jo 11, 50)
 
 ***Sumário.** Tendo os iníquos pontífices decretado a morte de Jesus Cristo, tiveram grande satisfação ao ver que Judas, um dos discípulos, se oferecia a traí-Lo e entregar-Lho nas mãos. O Senhor conhece perfeitamente a felonia de Judas e todavia não deixa de tratá-lo como amigo na mesma forma que d´antes; olha-o com benevolência, não recusa a sua companhia e chega a prostrar-se-lhe aos pés para os lavar. Ó inefável benignidade! Que belo exemplo para nós, se o quisermos aproveitar!*

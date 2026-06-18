@@ -1,3 +1,5 @@
+# Domingo. Jesus, o bom Pastor
+
 ## Meditação para o 3º Domingo depois da Páscoa
 
 > *Ego sum pastor bonus. Bonus pastor animam suam dat pro ovibus suis* – “Eu sou o bom pastor. O bom pastor dá a sua vida pelas suas ovelhas” (Jo 10, 11)

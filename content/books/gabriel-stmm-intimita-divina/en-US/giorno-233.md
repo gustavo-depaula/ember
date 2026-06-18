@@ -1,4 +1,4 @@
-## III — JESUS' COMPASSION
+# III — JESUS' COMPASSION
 *Sixth Sunday after Pentecost*
 
 **Presence of God.** — *O Jesus, my Lord and Father, have compassion on my poor soul and sustain it with your grace.*

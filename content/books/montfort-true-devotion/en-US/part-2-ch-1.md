@@ -1,4 +1,4 @@
-## Article I — What the Perfect Consecration to Jesus Christ Consists Of
+# Article I — What the Perfect Consecration to Jesus Christ Consists Of
 
 All our perfection consisting in being conformed, united, and consecrated to Jesus Christ, the most perfect of all devotions is, without question, that which most perfectly conforms, unites, and consecrates us to Jesus Christ. Now, Mary being of all creatures the most conformed to Jesus Christ, it follows that, of all devotions, the one that most consecrates and conforms a soul to Our Lord is devotion to the Blessed Virgin, his holy Mother; and that the more a soul is consecrated to Mary, the more it will be consecrated to Jesus Christ. This is why the perfect consecration to Jesus Christ is nothing other than a perfect and entire consecration of oneself to the Blessed Virgin, which is the devotion I teach — or, in other words, a perfect renewal of the vows and promises of holy Baptism.
 

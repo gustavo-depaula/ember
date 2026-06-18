@@ -1,3 +1,5 @@
+# Quarta-feira. Sentença dos escolhidos e dos réprobos no Juízo Universal
+
 Juízo Final (Peter Paul Rubens)
 
 > *Venite, benedicti Patris mei, possidete paratum vobis regnum… Discedite a me, maledicti, in ignem aeternum – “Vinde, benditos de meu Pai, possui o reino que vos está preparado… apartai-vos de mim, malditos, para o fogo eterno”* (Mt 25, 34-41)

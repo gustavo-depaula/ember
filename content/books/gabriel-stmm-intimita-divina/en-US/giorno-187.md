@@ -1,4 +1,4 @@
-## XVIII — THE SPIRIT OF CHRIST
+# XVIII — THE SPIRIT OF CHRIST
 
 **Presence of God.** — *O Holy Spirit, who worked with such fullness in the Most Holy Soul of Jesus, deign to take the direction of my poor soul.*
 

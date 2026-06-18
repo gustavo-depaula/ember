@@ -1,3 +1,5 @@
+# 15 de Março. Festa de São Clemente Maria Hofbauer
+
 > *Quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis lucet* – “Brilha como a estrela da manhã no meio da névoa, e como a lua cheia nos dias de sua maior claridade” (Eclo 50,7)
 
 ***Sumário.** Consideremos as virtudes sublimes deste filho predileto de Santo Afonso. Ele tinha sempre a fé católica por seu único tesouro; firmíssima foi a sua esperança, e ardente a sua caridade, fecunda em obras santas. A estas virtudes teologais uniu o Santo as virtudes morais, de maneira que pode ser considerado modelo perfeito da perfeição cristã. Alegremo-nos com o Santo e agradeçamos a Deus em seu nome. Vendo-nos tão longe da sua perfeição, roguemos-lhe que nos alcance do Senhor a força para o imitarmos de hoje em diante, particularmente no seu amor para com Deus.*

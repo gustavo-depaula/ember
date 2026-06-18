@@ -1,3 +1,5 @@
+# 01 de Maio. Festa dos Apóstolos São Filipe e São Tiago
+
 > *Dicit ei Philippus: Domine, ostende nobis Patrem, et sufficit nobis *— ”Disse-lhe Filipe: Senhor, mostra-nos a Pai, e isso nos basta” (Jo 14, 8)
 
 ***Sumário.** Se foi grande a graça que o Senhor deu a estes seus discípulos, sublimando-os ao ministério do apostolado, eles por sua vez corresponderam-lhe exatamente. Durante toda a sua vida trabalharam pela glória de Deus e salvação do próximo, e afinal selaram a sua pregação com o martírio. Regozijemo-nos com os santos apóstolos, demos graças a Deus em nome deles e vejamos se e como os temos imitado na correspondência aos favores divinos.*

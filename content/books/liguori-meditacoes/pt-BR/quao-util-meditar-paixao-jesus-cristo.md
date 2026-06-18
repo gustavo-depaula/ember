@@ -1,3 +1,5 @@
+# Sexta-feira. Quão útil é meditar na Paixão de Jesus Cristo
+
 Paixão de Cristo (por PauloDuqueFrade)
 
 > *Recogitate eum qui talem sustinuit a peccatoribus adversus semetipsum contradictionem, ut ne fatigemini, animis vestris deficientes* – “Não deixeis de pensar naquele que dos pecadores suportou contra si uma tal contradição; para que não vos fatigueis, desfalecendo em vossos ânimos” (Hb 12, 3)

@@ -1,4 +1,4 @@
-## 51 — THE DOCTRINE OF JESUS
+# 51 — THE DOCTRINE OF JESUS
 
 **Presence of God.** — *O Lord, I come to Your feet, eager to hear Your doctrine, which is the doctrine of eternal life.*
 

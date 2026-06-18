@@ -1,4 +1,4 @@
-## 24 — MATURITÀ APOSTOLICA
+# 24 — MATURITÀ APOSTOLICA
 
 **Presenza di Dio.** — *Il tuo amore, o Dio, maturi l'anima mia e la renda capace di darsi pienamente al servizio delle anime.*
 

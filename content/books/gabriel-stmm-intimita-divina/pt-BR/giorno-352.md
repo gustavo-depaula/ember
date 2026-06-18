@@ -1,4 +1,4 @@
-## 30 — O CAMINHO DA UNIÃO
+# 30 — O CAMINHO DA UNIÃO
 
 **Presença de Deus.** — *Dá-me luz, ó Senhor, e dá-me força para arrancar de mim tudo o que me impede de unir-me a ti.*
 

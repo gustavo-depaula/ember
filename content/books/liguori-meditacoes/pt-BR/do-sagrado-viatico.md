@@ -1,3 +1,5 @@
+# Quinta-feira. Do sagrado Viático
+
 > *Ambulavit in fortitudine cibi illius… usque ad montem Dei* – “Com o vigor daquela comida caminhou… até o monte de Deus” (3 Rs 9, 8)
 
 ***Sumário.** Considera, meu irmão, que mais cedo ou mais tarde te acharás nas angústias terríveis da morte. Feliz de ti se tiveres sido devoto a Jesus sacramentado! Acedendo a teu desejo, virá então a visitar-te em tua casa, e não somente para te assistir e defender, senão ainda para te alimentar com a sua carne, e servir-te de guia no caminho do céu. Para obteres tão preciosa graça, renova muitas vezes o protesto de querer receber os sacramentos na vida e na morte. Quando comungares, faze-o por modo de Viatico, e recomenda cada dia a Deus os pobres moribundos.*

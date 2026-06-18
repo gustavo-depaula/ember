@@ -1,4 +1,4 @@
-## II — MAGNANIMITY
+# II — MAGNANIMITY
 **Presence of God.** — *O Lord, give me a great heart, capable of undertaking great things for You.*
 
 ### Meditation

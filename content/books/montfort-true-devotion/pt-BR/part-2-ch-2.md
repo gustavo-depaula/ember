@@ -1,4 +1,4 @@
-## Artigo II — Motivos desta consagração
+# Artigo II — Motivos desta consagração
 
 ### Primeiro motivo
 

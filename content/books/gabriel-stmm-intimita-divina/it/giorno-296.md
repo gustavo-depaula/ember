@@ -1,4 +1,4 @@
-## IV — GESÙ VITA NOSTRA
+# IV — GESÙ VITA NOSTRA
 
 *XV Domenica dopo Pentecoste*
 

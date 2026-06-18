@@ -1,4 +1,4 @@
-## 40 — JESUS UNIVERSAL KING
+# 40 — JESUS UNIVERSAL KING
 *January 5*
 
 **Presence of God.** — *O Lord, Your greatnesses are inexhaustible; make me capable of adoring and loving You in a manner worthy of Your infinite majesty.*

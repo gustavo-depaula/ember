@@ -1,3 +1,5 @@
+# Quarta-feira. A pena que terá no inferno quem se condenar por ter perdido a vocação
+
 > *Pro eo quod abiecisti sermonem Domini, abiecit te Dominus, ne sis rex* – “Como tu rejeitaste a palavra do Senhor, o Senhor te rejeitou a ti, para que não sejas rei” (1 Rs 15, 23)
 
 ***Sumário.** O remorso de ter perdido por própria culpa qualquer grande bem, ou de ter sido causa de algum grande mal, é uma pena tão grande, que ainda nesta vida causa tormentos indizíveis. Qual não será, pois, no inferno o tormento de um religioso que se vir condenado àquele cárcere, por ter perdido a vocação, e sem esperança de poder remediar a sua eterna ruína? Desgraçado de mim! Exclamará desesperado; podia ser um príncipe no paraíso e tornei-me um dos réprobos mais infelizes!*.

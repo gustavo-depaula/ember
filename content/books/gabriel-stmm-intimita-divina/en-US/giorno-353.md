@@ -1,4 +1,4 @@
-## 31 — THE NIGHT OF THE SPIRIT
+# 31 — THE NIGHT OF THE SPIRIT
 
 **Presence of God.** — *O Lord, infuse in me greater love and greater courage, that I may wholeheartedly accept Your purifying action.*
 

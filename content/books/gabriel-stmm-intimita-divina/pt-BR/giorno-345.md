@@ -1,4 +1,4 @@
-## 23 — OS PROGRESSOS NO APOSTOLADO
+# 23 — OS PROGRESSOS NO APOSTOLADO
 
 **Presença de Deus.** — *Ó Senhor, une-me a ti e a força da tua caridade acenda no meu coração a verdadeira chama apostólica.*
 

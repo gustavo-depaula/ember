@@ -1,3 +1,5 @@
+# Quarta-feira. O dia da desilusão
+
 > *Dormierunt somnum suum, et nihil invenerunt omnes viri divitiarum in manibus suis* – “Dormiram o seu sono e nada acharam nas suas mãos todos estes homens de riquezas” (Sl 75, 6)
 
 ***Sumário.** O dia da morte é chamado dia de desilusão, porque nesse dia de verdade, à luz da vela mortuária, se vêem as coisas deste mundo bem diferentes do que agora nos aparecem. Se, pois, quisermos avaliar bem as honras, as dignidades, os prazeres, as riquezas, imaginemos estar no leito de morte; contemplemos dali os bens deste mundo e digamos: No fim da vida não se fará caso de tudo isso, mas somente daquilo que nos acompanha para a eternidade: De que serve ao homem ganhar o mundo inteiro?*

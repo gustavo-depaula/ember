@@ -1,4 +1,4 @@
-## XXIII — LA TRINITÀ E NOI
+# XXIII — LA TRINITÀ E NOI
 
 **Presenza di Dio.** — *O Santissima Trinità, che ti compiaci di abitare nell'anima mia, degnati di associarmi alla tua vita divina.*
 

@@ -1,4 +1,4 @@
-## 26 — MARTHA AND MARY
+# 26 — MARTHA AND MARY
 
 **Presence of God.** — *O Lord, may I love you with Mary's heart and at the same time serve you with Martha's dedication.*
 

@@ -1,4 +1,4 @@
-## XVIII — PATROCINIO DI S. GIUSEPPE
+# XVIII — PATROCINIO DI S. GIUSEPPE
 
 *Mercoledì della II settimana dopo Pasqua*
 

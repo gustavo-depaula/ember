@@ -1,3 +1,5 @@
+# 8º Dia – Sexta-feira. O amor é um vínculo
+
 ## 8º Dia da Novena do Espírito Santo
 
 > *Super omnia autem caritatem habete, quod est vinculum perfectionis* – “Acima de tudo, tende e caridade, que é o vínculo da perfeição” (Cl 3, 14)

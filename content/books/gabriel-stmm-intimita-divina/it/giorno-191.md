@@ -1,4 +1,4 @@
-## XXII — LE INIZIATIVE DELLO SPIRITO SANTO
+# XXII — LE INIZIATIVE DELLO SPIRITO SANTO
 
 **Presenza di Dio.** — *O Spirito Santo, vieni Tu a dirigere l'anima mia nel cammino della santità.*
 

@@ -1,3 +1,5 @@
+# Quarta-feira. Condições da oração
+
 > *Petitis et non accipitis, eo quod male petatis* – “Pedis e não recebeis, porque pedis mal” (Tg 4, 3)
 
 ***Sumário.** Muitas pessoas rezam e não obtém nada, porque não pedem como convém. Para bem rezar é preciso, primeiro a humildade, porque Deus resiste aos soberbos. Em segundo lugar é preciso a confiança, que nos faz esperar tudo pelos merecimentos de Jesus Cristo e pela intercessão de Maria Santíssima. Mas, sobretudo, é necessária a perseverança, pois que, para nosso bem, Deus alguma vez demora em atender e quer ser vencido pela nossa importunação. Têm as tuas orações sempre estes três requisitos?*

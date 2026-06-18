@@ -1,6 +1,4 @@
-# Parte Segunda
-
-## Capítulo III — Expõe-se e refuta-se o sistema de Jansênio da delectação relativamente vencedora
+# Capítulo III — Expõe-se e refuta-se o sistema de Jansênio da delectação relativamente vencedora
 
 No Capítulo seguinte, como acima acenamos, demonstraremos que a graça da oração é dada a todos. Mas esta sentença não agrada a Jansênio; ele chega a chamá-la uma alucinação: *Hallucinatio est, qua putant semper adesse homini gratiam ut petat*. Pois, falando segundo o seu sistema, diz que também para rezar é preciso a delectação relativamente vencedora, que não é concedida a todos; por isso acrescenta que nem todos têm a graça suficiente e a potência para cumprir os preceitos, porquanto a muitos falta a graça remota de rezar como se deve, ou de rezar de qualquer modo: *Cum ergo plurimi vel non petant gratiam illam qua possint praecepta implere vel non ita petant ut necessarium est, nec omnibus gratiam, vel ferventer petendi, vel omnino petendi Deus largiatur, apertissimum est Fidelibus multis deesse illam sufficientem gratiam, et consequentem illam perpetuam quam quidam praedicant, faciendi praecepti potestatem*. Por isso, antes de passar a provar a nossa sentença, é necessário refutar o seu pernicioso sistema, de onde depois derivam todos os seus erros, e fazer ver que ele, não os outros, foi o alucinado.
 

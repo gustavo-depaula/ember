@@ -1,4 +1,4 @@
-## XVIII — A UNIÃO FRATERNA
+# XVIII — A UNIÃO FRATERNA
 
 *XVII Domingo depois de Pentecostes*
 

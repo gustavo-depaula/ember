@@ -1,3 +1,5 @@
+# Meditação para a tarde do mesmo dia. Jesus é crucificado entre dois ladrões
+
 ## Segunda Meditação para a Quarta-feira Santa
 
 > *Crucifixerunt eum, et cum eo alios duos, hinc et hinc, medium autem Iesum* – “Crucificaram-No e com Ele outros dois, um de uma parte, e outro da outra, e no meio Jesus” (Jo 19, 18)

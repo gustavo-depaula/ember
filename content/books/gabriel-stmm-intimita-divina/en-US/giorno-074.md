@@ -1,4 +1,4 @@
-## 74 — EXTREME UNCTION
+# 74 — EXTREME UNCTION
 
 **Presence of God.** — *May Your grace, O Lord, purify me from every fault, so that I may present myself immaculate before Your countenance.*
 

@@ -1,3 +1,5 @@
+# Exercices pour la sainte communion (5e-6e)
+
 ### CINQUIÈME EXERCICE.
 
 #### Avant la Communion.

@@ -1,4 +1,4 @@
-## 67 — THE CHURCH
+# 67 — THE CHURCH
 
 **Presence of God.** — *O Jesus, who gave me the Church as mother, grant that I may love her with a true child's heart.*
 

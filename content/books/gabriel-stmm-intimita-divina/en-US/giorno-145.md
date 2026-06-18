@@ -1,4 +1,4 @@
-## VI — OUR PREPARATION
+# VI — OUR PREPARATION
 
 **Presence of God.** — *O Lord, make me generous and faithful in your service, so that I may never place an obstacle to your action in me.*
 

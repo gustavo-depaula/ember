@@ -1,4 +1,4 @@
-## 18 — LE CENERI
+# 18 — LE CENERI
 
 **Presenza di Dio.** — *Mi metto alla tua presenza, o Signore, affinché la tua luce m'illumini sulle verità eterne e desti in me sinceri desideri di conversione.*
 

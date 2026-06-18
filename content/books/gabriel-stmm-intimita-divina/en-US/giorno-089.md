@@ -1,4 +1,4 @@
-## 13 — MODESTY
+# 13 — MODESTY
 
 **Presence of God.** — *O Jesus, Spouse of virgins, show me how a soul consecrated to You must live.*
 

@@ -1,4 +1,4 @@
-## 39 — NASCONDERSI A SE STESSI
+# 39 — NASCONDERSI A SE STESSI
 
 **Presenza di Dio.** — *O Gesù che, interamente dimentico di te, ti sei consacrato alla gloria del Padre, insegnami a dimenticarmi.*
 

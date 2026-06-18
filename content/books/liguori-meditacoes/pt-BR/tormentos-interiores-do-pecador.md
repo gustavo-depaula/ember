@@ -1,3 +1,5 @@
+# 8ª Meditação. Tormentos interiores do Pecador
+
 > *Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt *— “Aflição e calamidade há nos caminhos deles; e não conheceram o caminho de paz” (Sl 13, 3)
 
 ***Sumário.** Pobres pecadores! Pretendem ser felizes por meio dos pecados, mas como assim servem ao demônio, que é um tirano, só encontram a amargura e remorsos. É só Deus quem dá a paz, e Deus a dá a seus amigos, mas não a seus inimigos. Quantos homens se tornariam grandes santos, se sofressem por Jesus Cristo o que sofrem para se condenarem. Por isso gritam desesperados no inferno: Cansamo-nos no caminho do pecado! Não sejamos nós tão insensatos e aprendamos à custa dos outros.*

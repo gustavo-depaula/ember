@@ -1,4 +1,4 @@
-## Article II — Motives for This Consecration
+# Article II — Motives for This Consecration
 
 ### First Motive
 

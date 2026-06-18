@@ -1,4 +1,4 @@
-## XV — IL CUORE DI GESÙ NOSTRO MODELLO
+# XV — IL CUORE DI GESÙ NOSTRO MODELLO
 
 **Presenza di Dio.** — *Sacro Cuore di Gesù, insegnami a modellare i movimenti del mio cuore su quelli del tuo.*
 

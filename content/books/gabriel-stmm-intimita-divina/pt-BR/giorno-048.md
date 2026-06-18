@@ -1,4 +1,4 @@
-## 48 — VIVER EM CRISTO
+# 48 — VIVER EM CRISTO
 
 **Presença de Deus.** — *Faze-me compreender, ó Senhor, a doçura e a responsabilidade do grande dever que me impões ao comunicar-me a tua vida: morrer para mim mesmo para viver unicamente em ti.*
 

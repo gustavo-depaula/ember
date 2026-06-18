@@ -1,4 +1,4 @@
-## VIII — L'AMORE INFINITO
+# VIII — L'AMORE INFINITO
 
 **Presenza di Dio.** — *O mio Dio, che sei tutto amore, accendi in me la fiamma della carità.*
 

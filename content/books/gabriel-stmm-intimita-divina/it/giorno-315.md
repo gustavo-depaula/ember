@@ -1,4 +1,4 @@
-## XXIII — IL DONO DELLA SCIENZA
+# XXIII — IL DONO DELLA SCIENZA
 
 **Presenza di Dio.** — *O Spirito Santo, istruiscimi a fondo sul nulla delle cose umane.*
 

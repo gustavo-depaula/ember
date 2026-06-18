@@ -1,3 +1,5 @@
+# Domingo da Paixão. Grande fruto que se tira da meditação da Paixão de Jesus Cristo
+
 ## Meditação para o 5º Domingo da Quaresma: Domingo da Paixão
 
 > *Abraham, pater vester, exultavit, ut videret diem meum: vidit et gavisus est* – “Abraão, vosso pai, desejou ansiosamente ver o meu dia: ele o viu e exultou de gozo” (Jo 8, 56)

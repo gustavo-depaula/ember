@@ -1,3 +1,5 @@
+# 16ª Meditação. Mágoas tardias da Alma negligente na hora da Morte
+
 > *Iuravit per viventem in saecula saeculorum… Quia tempus non erit amplius *— “Jurou por aquele que vive pelos séculos dos séculos… Não haverá mais tempo” (Ap 10, 6)
 
 ***Sumário.** Ai do moribundo que na vida se descuidou do bem da sua alma! À luz da vela bendita que então será acesa, verá as coisas do mundo bem diferentes do que agora se lhe afiguram. Dirá: Insensato que fui! Com tantos meios que Deus me proporcionou, podia santificar-me, e em vez disso, sou atormentado pelos mais acerbos remorsos. Dize-me, porém, meu irmão, de que servirá compreender esta verdade, quando já for tarde para remediar? Façamos agora o que na hora da morte desejaremos ter feito.*

@@ -9,6 +9,10 @@ import { galleryExtension } from '@/features/books/markedGalleryExtension'
 
 const md = new Marked().use(markedFootnote()).use(galleryExtension())
 
+/** Position of a readable node in the reading flow — its title is styled by role. */
+export type TocRole = 'part' | 'section' | 'chapter'
+export type ReadingNode = { id: string; index: number; role: TocRole }
+/** Subset consumed by sheets that only need id + reading-order index. */
 export type TocLeaf = { id: string; index: number }
 
 /** Per-chapter image lookup built once from manifest.images. */
@@ -25,8 +29,8 @@ export type BookSession = {
   manifest: BookEntry
   /** Reading-order leaf chapter ids (matches the TOC walk). */
   chapterIds: string[]
-  /** Resolve a chapter's body HTML — markdown parsed, images inlined as
-   *  data URIs. Title prepending is the caller's job (see withChapterTitle). */
+  /** Resolve a chapter's body HTML — markdown parsed, images inlined as data
+   *  URIs, and the leading H1 promoted to the role-styled title heading. */
   getChapter(index: number): Promise<string>
   /** Same as getChapter but returns plain text and skips image inlining;
    *  cheap path for search snippet anchoring. Result is NOT cached separately
@@ -38,10 +42,18 @@ export type BookSession = {
   getCachedChapter(index: number): string | undefined
 }
 
-/** Prepends the conventional chapter-title heading. Cheap; safe to call repeatedly. */
-export function withChapterTitle(body: string, title: string | undefined): string {
-  if (!title) return body
-  return `<h2 class="chapter-title">${title}</h2>${body}`
+/**
+ * Rewrite a chapter body's first `<h1>…</h1>` into the role-styled title
+ * heading the reader renders (`<h2 class="part-title|section-title|chapter-title">`).
+ * The H1 is the canonical displayed title; the TOC label is navigation-only.
+ * Markdown can't legally embed an H1 mid-paragraph, so a single string replace
+ * of the first H1 is robust. No-op when the body has no leading H1.
+ */
+export function promoteFirstHeading(body: string, role: TocRole): string {
+  return body.replace(
+    /<h1\b[^>]*>([\s\S]*?)<\/h1>/i,
+    (_m, inner) => `<h2 class="${role}-title">${inner}</h2>`,
+  )
 }
 
 const LRU_CAP = 32
@@ -87,19 +99,41 @@ function collectImgSrcs(html: string): string[] {
   return [...srcs]
 }
 
-export function flattenTocLeaves(toc: TocNode[]): TocLeaf[] {
-  const leaves: TocLeaf[] = []
-  function walk(nodes: TocNode[]) {
+function inferRole(node: TocNode, depth: number): TocRole {
+  if (node.role) return node.role
+  if (node.children?.length) return depth === 0 ? 'part' : 'section'
+  return 'chapter'
+}
+
+/**
+ * The reading flow: every node the reader paginates through, in DFS preorder.
+ * A leaf is always a page (a chapter). A group node (Part/Section) becomes a
+ * page only when it carries a body file for this language — otherwise it stays
+ * a pure structural grouping, visible in the TOC sheet but not in the flow.
+ * Each node is tagged with the role that styles its promoted title heading.
+ *
+ * Leaves are included unconditionally (matching the old leaf-only walk and
+ * external books whose chapter map populates lazily); group-body presence is
+ * what newly admits Parts/Sections.
+ */
+export function flattenReadingFlow(
+  toc: TocNode[],
+  manifest: Pick<BookEntry, 'chapters'>,
+  lang: string,
+): ReadingNode[] {
+  const flow: ReadingNode[] = []
+  function walk(nodes: TocNode[], depth: number) {
     for (const node of nodes) {
-      if (node.children?.length) {
-        walk(node.children)
-      } else {
-        leaves.push({ id: node.id, index: leaves.length })
+      const isGroup = !!node.children?.length
+      const hasBody = !!manifest.chapters?.[node.id]?.[lang]
+      if (!isGroup || hasBody) {
+        flow.push({ id: node.id, index: flow.length, role: inferRole(node, depth) })
       }
+      if (isGroup) walk(node.children as TocNode[], depth + 1)
     }
   }
-  walk(toc)
-  return leaves
+  walk(toc, 0)
+  return flow
 }
 
 function localizedTitle(title: TocNode['title'], lang: string): string | undefined {
@@ -240,7 +274,15 @@ export async function openBookSession(
   const css = manifest.style ? await getText(manifest.style.hash).catch(() => '') : ''
   const imageRefs = buildImageRefs(manifest)
 
-  const chapterIds = manifest.toc ? flattenTocLeaves(manifest.toc).map((l) => l.id) : []
+  // Reading flow drives both the index→id map and the per-index role used to
+  // style each chapter's promoted title. Must match BookReader's flow exactly
+  // (same function, same toc/chapters/lang) so foliate indices stay aligned.
+  const readingFlow = manifest.toc ? flattenReadingFlow(manifest.toc, manifest, lang) : []
+  const chapterIds = readingFlow.map((n) => n.id)
+  // Navigation titles — only consulted by the defensive synthesized-body path.
+  const titleLookup = manifest.toc
+    ? buildTitleLookup(manifest.toc, lang)
+    : new Map<string, string>()
 
   // Map insertion order = recency: delete + re-set on hit, evict head on overflow.
   const cache = new Map<number, string>()
@@ -257,18 +299,23 @@ export async function openBookSession(
   }
 
   async function fetchChapter(index: number, inlineImages: boolean): Promise<string> {
-    const id = chapterIds[index]
-    if (!id) return ''
-    const ref = manifest.chapters?.[id]?.[lang]
-    if (!ref) return ''
+    const node = readingFlow[index]
+    if (!node) return ''
+    const ref = manifest.chapters?.[node.id]?.[lang]
+    // Defensive: a node in the flow with no markdown (shouldn't happen) still
+    // gets its TOC title as a synthesized H1 so the page isn't blank.
+    if (!ref) {
+      const title = titleLookup.get(node.id)
+      return title ? promoteFirstHeading(`<h1>${title}</h1>`, node.role) : ''
+    }
     // External books (Escrivá) fetch+cache their already-HTML chapter body from
     // the producer; bundled books read the hashed markdown/HTML blob from Hearth.
     const html =
       'type' in ref
-        ? await loadEscrivaChapterHtml(manifest.id, id, lang, ref.url)
+        ? await loadEscrivaChapterHtml(manifest.id, node.id, lang, ref.url)
         : await renderBundledChapter(await getText(ref.hash), ref.format)
-    const body = extractBody(html)
-    return inlineImages ? inlineChapterImages(body, imageRefs, imageCache) : body
+    const promoted = promoteFirstHeading(extractBody(html), node.role)
+    return inlineImages ? inlineChapterImages(promoted, imageRefs, imageCache) : promoted
   }
 
   async function getChapter(index: number): Promise<string> {

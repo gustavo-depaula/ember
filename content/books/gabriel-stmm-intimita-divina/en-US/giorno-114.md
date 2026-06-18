@@ -1,4 +1,4 @@
-## 38 — THE HIDDEN LIFE
+# 38 — THE HIDDEN LIFE
 
 **Presence of God.** — *O Jesus, hidden God, teach me the secret of hiddenness.*
 

@@ -1,3 +1,5 @@
+# Terça-feira. Hei de morrer um dia
+
 São Jerônimo com a Cruz e a Caveira (Guido Reni)
 
 > *Statutum est hominibus semel mori; post hoc autem iudicium* – “Está decretado que os homens morram uma só vez, e que depois venha o juízo” (Hb 9, 27)

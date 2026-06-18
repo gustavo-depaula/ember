@@ -1,4 +1,4 @@
-## XIII — IL PROGRESSO SPIRITUALE
+# XIII — IL PROGRESSO SPIRITUALE
 
 **Presenza di Dio.** — *Aiutami, o Signore, a progredire rapidamente nel cammino della virtù.*
 

@@ -1,3 +1,5 @@
+# Sexta-feira. Comemoração do Sagrado Sudário de Nosso Senhor Jesus Cristo
+
 > *Et depositum (corpus) involvit sindone* – “Tendo descido (o corpo), amortalhou-o num lençol” (Lc 23, 53)
 
 ***Sumário.** Para que estivéssemos sempre lembrados de seu amor, quis Jesus Cristo deixar a sua sagrada efígie estampada no santo Sudário. Não faltam na vida de Jesus feitos gloriosos cuja imagem nos podia deixar. Sendo, porém, a cor rubra da Paixão a mais apropriada para representar o amor, deixou de parte todos os demais fatos da sua vida, e quis representar perante nós o Homem das dores, a fim de que nos fosse tanto mais amável, quanto mais desfigurado. Amemo-Lo, pois, de todo o coração e soframos de boa mente alguma coisa por seu amor.*

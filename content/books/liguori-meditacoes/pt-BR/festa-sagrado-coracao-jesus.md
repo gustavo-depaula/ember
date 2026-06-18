@@ -1,3 +1,5 @@
+# Sexta-feira. Festa do Sagrado Coração de Jesus
+
 > *Filios enutrivi et exaltavi; ipsi autem spreverunt me* – “Criei uns filhos e engrandeci-os; eles, porém, me desprezaram” (Is 1, 2)
 
 ***Sumário.** Os homens prometem facilmente, mas depois faltam muitas vezes à palavra, ou porque enganaram prometendo ou porque não a podem ou não a querem guardar. Não faz assim Jesus Cristo, que, sendo Deus todo poderoso, não pode enganar nem mudar. Quanto melhor é, pois, ter que tratar com este Coração divino do que com os homens! Ponhamos, porém, a mão na consciência: somos nós fiéis a Deus, assim como ele nos é fiel? Quantas vezes temos já prometido amá-Lo e depois o temos traído!*

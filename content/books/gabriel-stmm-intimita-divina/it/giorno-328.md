@@ -1,4 +1,4 @@
-## 6 — L'INVITO DIVINO
+# 6 — L'INVITO DIVINO
 
 *XIX Domenica dopo Pentecoste*
 

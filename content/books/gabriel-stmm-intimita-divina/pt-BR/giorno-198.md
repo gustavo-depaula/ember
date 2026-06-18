@@ -1,4 +1,4 @@
-## XXIX — O ESPÍRITO SANTO E A ORAÇÃO
+# XXIX — O ESPÍRITO SANTO E A ORAÇÃO
 
 **Presença de Deus.** — *Ó Espírito Santo, vem rezar em mim, vem regular as minhas relações de filho para com o Pai celeste.*
 

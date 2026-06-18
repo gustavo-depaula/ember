@@ -1,4 +1,4 @@
-## 23 — INVITO ALL'APOSTOLATO
+# 23 — INVITO ALL'APOSTOLATO
 
 **Presenza di Dio.** — *Mi metto alla presenza di Gesù, Capo del Corpo mistico della Chiesa, perchè m'insegni a collaborare con lui alla salvezza delle anime.*
 

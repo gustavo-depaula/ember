@@ -1,4 +1,4 @@
-## XIII — A CONSAGRAÇÃO AO CORAÇÃO DE JESUS
+# XIII — A CONSAGRAÇÃO AO CORAÇÃO DE JESUS
 
 **Presença de Deus.** — *Ó Jesus, torna-me digno de consagrar-me ao teu dulcíssimo Coração e de viver realmente a minha consagração.*
 

@@ -1,3 +1,5 @@
+# Sexta-feira. Suspiros de amor ao pé do Crucifixo
+
 > *Pro omnibus mortuus est Christus, ut et qui vivunt iam non sibi vivant, sed ei qui pro ipsis mortuus est et resurrexit* – “Cristo morreu por todos, para que também os que vivem já não vivam para si, mas para aquele que morreu por eles e ressuscitou” (2 Cor 5, 15)
 
 ***Sumário.** Levantemos os olhos e vejamos Jesus morto no patíbulo da cruz, o corpo coberto de chagas, das quais ainda dimana sangue. A fé ensina-nos que é Ele nosso Criador, nosso Salvador; aquele que nos ama mais do que qualquer outro e só nos pode fazer felizes. Expandamos diante d’Ele o nosso coração, fazendo atos de fé, de esperança, de arrependimento, de agradecimentos e de amor. Sobretudo façamos atos de oferecimento de nós mesmos, protestando que queremos empregar em amá-Lo toda a vida que ainda nos resta.*

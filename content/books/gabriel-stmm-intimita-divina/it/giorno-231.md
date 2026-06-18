@@ -1,4 +1,4 @@
-## I — IL PREZIOSISSIMO SANGUE
+# I — IL PREZIOSISSIMO SANGUE
 
 **Presenza di Dio.** — *O Gesù che mi hai redento col tuo Sangue, fa' che il tuo Sangue produca in me tutto il suo frutto.*
 

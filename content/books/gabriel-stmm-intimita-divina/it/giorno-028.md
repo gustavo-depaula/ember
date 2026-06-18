@@ -1,4 +1,4 @@
-## 28 — SI COMPIE IL GRAN MISTERO
+# 28 — SI COMPIE IL GRAN MISTERO
 
 *24 dicembre*
 

@@ -1,3 +1,5 @@
+# 26 de Abril. Festa de Nossa Senhora do Bom Conselho
+
 > *Ecce concipies in utero et paries filium, et vocabis nomen eius Iesum* — “Eis que conceberás e darás à luz um filho, e pôr-lhe-ás o nome de Jesus” (Lc 1, 31)
 
 ***Sumário.** Eis como Maria, enquanto na sua casa está suplicando a Deus pela vinda do Redentor, vê um anjo que a saúda e lhe anuncia ser ela mesma destinada para Mãe do Salvador. A humilde Virgenzinha, julgando-se nimiamente indigna de tamanha honra, fica toda perturbada; mas afinal dá o consentimento, e naquele mesmo instante o Verbo divino se tornou seu Filho. Ó grande Mãe de Deus, vós, tão privilegiada e tão humilde, nós, tão pecadores e tão orgulhosos, obtende-nos a santa humildade.*

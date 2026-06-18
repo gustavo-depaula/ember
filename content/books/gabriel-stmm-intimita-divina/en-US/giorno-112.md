@@ -1,4 +1,4 @@
-## 36 — THE STRENGTH OF JESUS
+# 36 — THE STRENGTH OF JESUS
 *Third Sunday of Lent*
 
 **Presence of God.** — *O Jesus, divine Strong One, I come to You to seek support for my weakness, my infirmity.*

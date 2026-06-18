@@ -1,4 +1,4 @@
-## V — IL COMANDAMENTO NUOVO
+# V — IL COMANDAMENTO NUOVO
 
 **Presenza di Dio.** — *Gesù, concedimi la grazia di comprendere a fondo il tuo comandamento nuovo, il comandamento della carità fraterna.*
 

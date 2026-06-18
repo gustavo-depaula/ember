@@ -1,3 +1,5 @@
+# Segunda-feira. Devemos morrer
+
 Morte (por Jonathan Herbert)
 
 > *Statutum est hominibus semel mori, post hoc autem iudicium* – “Está decretado aos homens que morram uma vez e que depois se siga o juízo” (Hb 9, 27)

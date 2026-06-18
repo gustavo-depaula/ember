@@ -1,4 +1,4 @@
-## 2 de novembro — COMEMORAÇÃO DOS FIÉIS DEFUNTOS
+# 2 de novembro — COMEMORAÇÃO DOS FIÉIS DEFUNTOS
 
 **Presença de Deus.** — *Ó Senhor, concedei o eterno repouso às almas dos defuntos e fazei que o pensamento da morte me impulse a maior generosidade.*
 

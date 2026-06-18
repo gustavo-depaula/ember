@@ -1,4 +1,4 @@
-## 53 — TRANSFORMING LOVE
+# 53 — TRANSFORMING LOVE
 
 **Presence of God.** — *My God, may Your love invade and penetrate me until it transforms me totally in You.*
 

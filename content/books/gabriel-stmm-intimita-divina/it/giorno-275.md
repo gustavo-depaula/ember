@@ -1,4 +1,4 @@
-## XIV — IL BUON SAMARITANO
+# XIV — IL BUON SAMARITANO
 
 *XII Domenica dopo Pentecoste*
 

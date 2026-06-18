@@ -1,3 +1,5 @@
+# Terça-feira. A pena dos sentidos no inferno
+
 The Last Judgement, Hell (Fra Angelico, 1431)
 
 > *Quantum glorificavit se et in deliciis fuit, tantum date illi tormentum et luctum* – “Quanto se glorificou e esteve em delícias, tanto lhe dai de tormento e pranto” (Ap 18, 7)

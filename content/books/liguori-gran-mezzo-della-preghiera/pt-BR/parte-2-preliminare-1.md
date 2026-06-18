@@ -1,6 +1,4 @@
-# Parte Segunda
-
-## Preliminar I
+# Preliminar I
 
 ### Deus quer todos salvos, e por isso Jesus Cristo morreu para salvar a todos
 

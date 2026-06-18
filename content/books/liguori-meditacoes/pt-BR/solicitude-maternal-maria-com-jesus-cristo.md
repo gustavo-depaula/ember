@@ -1,3 +1,5 @@
+# Sábado da oitava da Epifania. Solicitude maternal de Maria para com Jesus Cristo
+
 > *Numquid oblivisci potest mulier infantem suum, ut non misereatur filio uteri sui?* – “Pode acaso uma mulher esquecer-se de seu filhinho, de sorte que não tenha compaixão do filho de suas entranhas?” (Is 49, 15)
 
 ***Sumário.** Se em geral são indizíveis as solicitudes de uma mãe para com seus filhos, o que dizer das que a Santíssima Virgem teve para com Jesus Cristo, seu Filho e juntamente seu Criador? Se quisermos imitar a divina Mãe, nós também podemos ter as mesmas solicitudes para com nosso Senhor, não somente na pessoa do próximo que o represente, senão para com Ele mesmo, visto que está realmente presente no Santíssimo Sacramento da Eucaristia. Visitemo-Lo amiudadas vezes e recebamo-Lo em nossos corações.*

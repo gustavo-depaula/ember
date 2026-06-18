@@ -1,3 +1,5 @@
+# Sexta-feira. Jesus tratado como o último dos homens
+
 > *Vidimus eum… despectum et novissimum virorum* – “Vimo-Lo… feito um objeto de desprezo e o último dos homens” (Is 53, 3)
 
 ***Sumário.** Considera a grande maravilha que se viu um dia na terra: o Filho de Deus, feito homem por amor dos homens, foi desprezado por estes mesmos homens, como se fosse o mais vil de todos, e tratado como doido, bêbado, blasfemador e réu de mil mortes. Meu irmão, representemo-nos bem vivamente o nosso maltratado Senhor: demos-Lhe graças pelo muito que por nós sofreu, consolemo-Lo com nosso arrependimento das injúrias que Lhe fizemos, e digamos-Lhe que por seu amor queremos de hoje em diante suportar com resignação as dores, as humilhações e os desprezos.*

@@ -1,3 +1,5 @@
+# Quinta-feira. O que tenha de fazer a alma na presença de Jesus no Santíssimo Sacramento
+
 > *Delectare in Domino, et dabit tibi petitiones cordis tui* – “Deleita-te no Senhor, e te outorgará as petições do teu coração” (Sl 36, 4)
 
 ***Sumário.** Estas palavras ensinam-nos como temos de nos haver na presença de Jesus no Santíssimo Sacramento. Diante do tabernáculo, agradeçamos ao Senhor os muitos benefícios que nos fez, especialmente o querer Ele ficar conosco sobre o altar; amemo-Lo com todas as nossas forças e ofereçamo-nos a Ele sem reserva. Afinal supliquemos a Jesus Cristo as graças de que necessitamos, principalmente o aumento do amor e a união à sua vontade divina. Oh! Se nós soubéssemos aproveitar bem da companhia de nosso divino amante, em breve seríamos todos santos.*

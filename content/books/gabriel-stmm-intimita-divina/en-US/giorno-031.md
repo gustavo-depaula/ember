@@ -1,4 +1,4 @@
-## 31 — REPAY LOVE
+# 31 — REPAY LOVE
 *December 27*
 
 **Presence of God.** — *I gather myself at the feet of the poor manger: I contemplate the Child Jesus, desiring that He teach me to repay His love.*

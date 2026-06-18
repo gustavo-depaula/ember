@@ -1,4 +1,4 @@
-## XXIV — THE HOLY SPIRIT CONFORMS US TO CHRIST
+# XXIV — THE HOLY SPIRIT CONFORMS US TO CHRIST
 
 **Presence of God.** — *O Holy Spirit, make me conformed to Jesus; make of me an «alter Christus».*
 

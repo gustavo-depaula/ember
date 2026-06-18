@@ -1,3 +1,5 @@
+# Quinta-feira. Amor de Deus em fazer-se homem
+
 > *Verbum caro factum est, et habitavit in nobis* – “O Verbo se fez carne, e habitou entre nós” (Jo 1, 14)
 
 ***Sumário.** Que se havia de dizer, se um príncipe, por compaixão de um verme morto, quisesse tornar-se verme, e fazendo um banho de seu sangue, morresse para restituir o verme à vida? Mais porém do que isso fez por nós o Verbo Eterno, que, sendo Deus, quis fazer-se homem como nós e morrer por nós, a fim de nos merecer a vida da graça divina que tínhamos perdido. Apesar disso, quão poucos são os que se Lhe mostram gratos! Do número destes poucos sejamos também nós.*

@@ -1,3 +1,5 @@
+# Domingo. A filha de Jairo, a hemorroíssa, e a alma pecadora
+
 ## 23º Domingo depois de Pentecostes
 
 > *Domine, filia mea modo defuncta est: sed veni, impone manum tuam super em et vivet* – “Senhor, nesta hora acaba de expirar minha filha; mas vem, impõe sobre ela a tua mão, e viverá” (Mt 9, 18)

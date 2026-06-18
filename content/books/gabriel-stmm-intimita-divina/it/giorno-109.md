@@ -1,4 +1,4 @@
-## 33 — UMILTÀ NELLE CADUTE
+# 33 — UMILTÀ NELLE CADUTE
 
 **Presenza di Dio.** — *« Io sono misero e bisognoso, o Signore, accorri a me. All'ombra delle tue ali mi rifugio » (Sal. 39, 18; 56, 2).*
 

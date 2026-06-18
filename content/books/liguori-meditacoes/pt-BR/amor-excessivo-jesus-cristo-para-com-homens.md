@@ -1,3 +1,5 @@
+# Sexta-feira. Amor excessivo de Jesus Cristo para com os homens
+
 > *Nos praedicamus Chirstum crucifixum, Iudaeis quidem scandalum, gentibus autem stultitiam* – “Nos pregamos a Cristo crucificado, que é de fato para os judeus escândalo e para os gentios loucura” (1 Cor 1, 23)
 
 ***Sumário.** O mistério da Redenção é tão sublime, que os gentios o chamavam uma loucura. Julgavam impossível que um Deus onipotente e felicíssimo se tivesse feito homem e tivesse morrido numa cruz pela salvação dos homens. Como há, pois, cristão que sabem isso pela fé, e veem um Deus tornado, por assim dizer, louco por amor dos homens, e todavia vivem sem O amar, e mesmo O ofendem e injuriam?… Se no passado nos unimos àqueles ingratos para ofender Jesus, peçamos-Lhe humildemente perdão.*

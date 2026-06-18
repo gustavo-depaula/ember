@@ -1,4 +1,4 @@
-## VIII — SEDE MISERICORDIOSOS
+# VIII — SEDE MISERICORDIOSOS
 **Presença de Deus.** — *Ó Senhor, dilata meu coração na consideração da tua misericórdia infinita, para que eu aprenda a tratar meus irmãos com entranhas de misericórdia.*
 
 ### Meditação

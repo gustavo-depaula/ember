@@ -1,3 +1,5 @@
+# Segunda-feira. Para ser santo é preciso desejá-lo muito
+
 > *Beati qui esuriunt et sitiunt iustitiam; quoniam ipsi saturabuntur* – “Bem-aventurados os que têm fome e se de justiça; porque eles serão fartos” (Mt 5, 6)
 
 ***Sumário.** Quem quiser ser santo, deve desprender-se das criaturas, vencer as paixões, vencer-se a si próprio, amar as cruzes e sofrer muito. Ora, o santo desejo, ao passo que nos dá força para praticar tudo isso, torna-nos a pena mais leve. Pode-se dizer que já é quase vencedor quem possui um grande desejo de vencer. Irmão meu, lança um olhar sobre a tua alma, vê se tens grande desejo da perfeição, e roga a Jesus e Maria que o façam sempre mais crescer em ti.*

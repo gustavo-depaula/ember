@@ -1,4 +1,4 @@
-## Article VI — Manière de pratiquer cette dévotion dans la sainte communion
+# Article VI — Manière de pratiquer cette dévotion dans la sainte communion
 
 ### § I. Avant la communion
 

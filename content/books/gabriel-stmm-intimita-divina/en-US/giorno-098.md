@@ -1,4 +1,4 @@
-## 22 — THE GREAT BATTLE
+# 22 — THE GREAT BATTLE
 
 *First Sunday of Lent*
 

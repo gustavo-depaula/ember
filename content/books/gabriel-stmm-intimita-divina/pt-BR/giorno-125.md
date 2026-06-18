@@ -1,4 +1,4 @@
-## 49 — DIFICULDADES DA OBEDIÊNCIA
+# 49 — DIFICULDADES DA OBEDIÊNCIA
 
 **Presença de Deus.** — Ensina-me, ó Jesus, o segredo da obediência humilde que se submete a qualquer superior e a qualquer mando.
 

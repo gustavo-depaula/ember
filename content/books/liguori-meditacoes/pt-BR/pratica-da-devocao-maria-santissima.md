@@ -1,3 +1,5 @@
+# Sábado. Prática da Devoção à Maria Santíssima
+
 > *Venerunt mihi omnia bona pariter cum illa* – “Todos os bens me vieram juntamente com ela” (Sb 7, 11)
 
 ***Sumário.** Para que os nossos obséquios agradem à Mãe de Deus e nos façam dignos de seu patrocínio, duas coisas são necessárias: primeiro, devemos tributá-los com coração puro ou ao menos com o desejo de nos emendarmos; segundo, devemos ser constantes. Ah, quantos dos que estão agora no inferno, teriam sido santos, se tivessem perseverado nos seus obséquios à Santa Virgem! Lancemos um olhar sobre nós mesmos. Com que coração oferecemos a Maria as nossas homenagens? Qual é a nossa perseverança em oferecê-las?*

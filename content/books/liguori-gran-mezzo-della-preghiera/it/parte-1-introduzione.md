@@ -1,6 +1,4 @@
-# Parte Prima
-
-## Introduzione
+# Introduzione
 
 ### Necessaria a leggersi
 

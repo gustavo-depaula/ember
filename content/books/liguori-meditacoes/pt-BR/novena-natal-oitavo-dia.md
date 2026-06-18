@@ -1,3 +1,5 @@
+# 8º Dia – 23 de Dezembro. José e Maria peregrinos em Belém sem abrigo
+
 ## José e Maria peregrinos em Belém sem abrigo
 
 > *In propria venit, et sui eum non receperunt* – Veio para o que era seu, e os seus não o receberam (Jo 1, 11)

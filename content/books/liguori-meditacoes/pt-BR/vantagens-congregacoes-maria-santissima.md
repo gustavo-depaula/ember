@@ -1,3 +1,5 @@
+# Sábado. Vantagens das Congregações de Maria Santíssima
+
 > *Ingredere tu et omnis domus tua in arcam* – “Entra na arca tu e toda a tua casa” (Gn 7, 1)
 
 ***Sumário.** As Congregações Marianas são como outras tantas arcas de Noé, onde os seculares acham a salvação no naufrágio comum. Não somente por causa da proteção especial com que Maria cuida dos seus congregados, senão também por causa dos meios de salvação que nelas se encontram. Se quiseres, pois, o mais possível assegurar a salvação de tua alma, deixa-te alistar em alguma destas Congregações. Lembra-te, porém, que para seres congregado, não é bastante que dês teu nome, mister é que guardes também as regras.*

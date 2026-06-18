@@ -1,4 +1,4 @@
-## 76 — CORRISPONDENZA ALLA VOCAZIONE
+# 76 — CORRISPONDENZA ALLA VOCAZIONE
 
 **Presenza di Dio.** — *O Signore, che incessantemente mi chiami attirandomi a te, fa' che incessantemente io ti risponda con rinnovata generosità.*
 

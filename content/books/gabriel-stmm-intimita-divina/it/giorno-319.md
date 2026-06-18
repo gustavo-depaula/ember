@@ -1,4 +1,4 @@
-## XXVII — BEATI I PURI DI CUORE
+# XXVII — BEATI I PURI DI CUORE
 
 **Presenza di Dio.** — *Accresci, o Signore, la purezza del mio cuore e della mia mente affinché possa conoscerti sempre meglio.*
 

@@ -1,3 +1,5 @@
+# Quarta-feira. O que faz o réprobo no Inferno
+
 > *Peccator videbit et irascetur, dentibus suis fremet et tabescet; desiderium peccatorum peribit* – “Vê-lo-á o pecador e se indignará; rangerá os dentes e se consumirá; o desejo dos pecadores perecerá” (Sl 111, 10)
 
 ***Sumário.** O réprobo no inferno, vendo-se oprimido pelos seus tormentos inefáveis e desesperando de jamais remediar os seus males, será devorado por um ódio contínuo de Deus e amaldiçoará todos os benefícios que dele recebeu. Assim como amaldiçoa a Deus, amaldiçoará também todos os Anjos e Santos, e especialmente à divina Mãe, cuja intercessão não quis aproveitar. Ah, meu Jesus! Seja cortada antes a minha língua; protesto que nunca Vos quero amaldiçoar, mas sim louvar-Vos para sempre no paraíso.*

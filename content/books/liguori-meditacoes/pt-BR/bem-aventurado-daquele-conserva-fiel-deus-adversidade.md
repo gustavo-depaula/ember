@@ -1,3 +1,5 @@
+# Quarta-feira. Bem-aventurado daquele que se conserva fiel a Deus na adversidade
+
 > *Usque in tempus sustinebit patiens, et postea redditio iucunditatis* – “O homem paciente sofrerá até o tempo destinado, e depois tornar-se-lhe-á a dar a alegria” (Eclo 1, 29)
 
 ***Sumário.** A terra é um campo de batalha, no qual fomos postos todos para combater. Felizes de nós se formos vencedores! Se nos chegarmos a salvar, terminarão as adversidades, as tentações, as enfermidades e todas as misérias da vida presente; e Deus mesmo será a nossa recompensa eterna. Anime-nos a esperança deste galardão a combatermos até à morte, e a não nos deixarmos enquanto não estivermos na posse da pátria bem-aventurada. Para que não sintamos tanto o peso das tribulações, deitemos um olhar sobre Jesus crucificado e lembremo-nos do inferno que temos merecido.*

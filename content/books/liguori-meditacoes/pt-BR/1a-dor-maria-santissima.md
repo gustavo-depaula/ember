@@ -1,3 +1,5 @@
+# Sábado. Primeira dor de Maria Santíssima – Profecia de Simeão
+
 Nossa Senhora das Dores, Pietà (Bouguereau, 1876)
 
 > *Tuam ipsius animam pertransibit gladius* – “Uma espada transpassará a tua alma” (Lc 2, 35)

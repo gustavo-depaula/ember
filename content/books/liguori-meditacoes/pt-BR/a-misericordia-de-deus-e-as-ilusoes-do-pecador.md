@@ -1,3 +1,5 @@
+# 14ª Meditação. A Misericórdia de Deus e as Ilusões do Pecador
+
 > *Ne dixeris: Peccavi, et quid mihi accidit triste? Altissimus enim est patiens redditor* — “Não digas: Pequei, e que mal me veio daí porque o Altíssimo, ainda que sofrido, é justiceiro” (Eclo 5, 4)
 
 ***Sumário.** Eis aí uma ilusão comum aos pecadores, a qual fez e ainda faz com que muitos se condenem. Os miseráveis dizem: Deus é misericordioso, e assim como no passado tem sido tão indulgente para conosco, sê-lo-á também no futuro. Consideremos, porém, que o Senhor não é só misericordioso, mas também justo. Por isso, quando estiver cheia a medida dos pecados que ele quer perdoar, faz descer os mais formidáveis castigos. Ah! Quantos daqueles que sempre adiavam a sua conversão, confiados na bondade divina, estão agora queimando no inferno!*

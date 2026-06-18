@@ -1,4 +1,4 @@
-## 24 — IL PECCATO
+# 24 — IL PECCATO
 
 **Presenza di Dio.** — *O Gesù crocifisso, fammi comprendere la grande malizia del peccato.*
 

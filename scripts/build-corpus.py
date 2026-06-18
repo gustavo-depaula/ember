@@ -589,6 +589,77 @@ def build_search_index_for_book(
     return indexes
 
 
+# Editorial scratch files that live in language dirs but are never chapters.
+NON_CHAPTER_STEMS = {"translation-journal", "translator-notes-log", "findings", "needs-human-eyes"}
+
+
+def _first_h1(text: str) -> str | None:
+    """Return the text of a markdown body's leading H1, or None if the first
+    non-blank line isn't an H1. The first H1 is the canonical displayed title."""
+    for line in text.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if s.startswith("# "):
+            return s[2:].strip().rstrip("#").strip()
+        return None
+    return None
+
+
+def _title_tokens(s: str) -> set[str]:
+    """Word tokens of a title, ignoring markdown, punctuation, case, and order —
+    so a TOC label that merely reorders or shortens the H1 isn't flagged as drift
+    (e.g. 'A Purificação (2 fev)' vs '2 fev — A Purificação')."""
+    s = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", s)
+    s = re.sub(r"[^\w\s]", " ", s.lower())
+    return {w for w in s.split() if w}
+
+
+def _toc_index(meta: dict) -> tuple[set[str], dict[str, dict]]:
+    ids: set[str] = set()
+    titles: dict[str, dict] = {}
+    def walk(nodes: Iterable[dict]) -> None:
+        for n in nodes:
+            ids.add(n["id"])
+            if isinstance(n.get("title"), dict):
+                titles[n["id"]] = n["title"]
+            walk(n.get("children") or [])
+    walk(meta.get("toc") or [])
+    return ids, titles
+
+
+def _validate_book_titles(bid: str, meta: dict, chapter_sources: dict) -> None:
+    """Soft (non-fatal) checks: every chapter .md should lead with an H1 that
+    matches its TOC label, and every body file should map to a TOC node."""
+    if not meta.get("toc"):
+        return
+    toc_ids, toc_titles = _toc_index(meta)
+    for chap_id in sorted(chapter_sources):
+        if chap_id not in toc_ids:
+            langs = ",".join(sorted(chapter_sources[chap_id]))
+            print(f"  warn: book/{bid}: orphan file '{chap_id}' ({langs}) — no matching TOC node id")
+            continue
+        for lang, (raw, is_html) in sorted(chapter_sources[chap_id].items()):
+            if is_html:
+                continue
+            h1 = _first_h1(raw.decode("utf-8", "replace"))
+            if h1 is None:
+                print(f"  warn: book/{bid}: {chap_id} [{lang}] has no leading H1 — title won't render")
+                continue
+            toc_title = (toc_titles.get(chap_id) or {}).get(lang)
+            if toc_title:
+                # Drop pure-number tokens so numeric reformats ("41 — Epiphany" vs
+                # "Epiphany (January 6)") and short nav labels ("Chapter 1" vs
+                # "1 Chronicles 1") don't register. Warn only when both titles are
+                # multi-word and share NO words — i.e. genuinely different titles.
+                a = {t for t in _title_tokens(h1) if not t.isdigit()}
+                b = {t for t in _title_tokens(toc_title) if not t.isdigit()}
+                if len(a) >= 2 and len(b) >= 2 and not (a & b):
+                    print(f"  warn: book/{bid}: {chap_id} [{lang}] H1 drifts from TOC title")
+                    print(f"        H1:  {h1}")
+                    print(f"        TOC: {toc_title}")
+
+
 def build_books(b: Builder) -> None:
     src = CONTENT / "books"
     if not src.is_dir():
@@ -612,10 +683,19 @@ def build_books(b: Builder) -> None:
         chapters_by_lang: dict[str, dict[str, dict]] = {}
         chapter_sources: dict[str, dict[str, tuple[bytes, bool]]] = {}
         for sub in sorted(d.iterdir()):
-            if sub.is_dir() and sub.name not in {"images", "fonts"} and not (sub / "book.json").is_file():
+            # Skip non-language dirs: assets, editorial scratch (`_review`, etc.),
+            # and nested book roots. A leading `_` marks a non-content directory.
+            if (
+                sub.is_dir()
+                and sub.name not in {"images", "fonts", "sources"}
+                and not sub.name.startswith("_")
+                and not (sub / "book.json").is_file()
+            ):
                 lang = sub.name
                 for ff in sorted(sub.glob("*.md")):
                     chap_id = ff.stem
+                    if chap_id in NON_CHAPTER_STEMS:
+                        continue
                     raw = ff.read_bytes()
                     bh, bs = b.write_blob(raw)
                     chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs}
@@ -626,6 +706,8 @@ def build_books(b: Builder) -> None:
                     bh, bs = b.write_blob(raw)
                     chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs, "format": "html"}
                     chapter_sources.setdefault(chap_id, {})[lang] = (raw, True)
+
+        _validate_book_titles(bid, meta, chapter_sources)
 
         images = []
         img_dir = d / "images"

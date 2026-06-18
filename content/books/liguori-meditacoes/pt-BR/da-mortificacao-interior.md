@@ -1,3 +1,5 @@
+# Segunda-feira. Da Mortificação Interior
+
 > *Qui autem sunt Christi, carnem suam crucifixerunt cum vitiis et concupiscentiis* – “Os que são de Cristo, crucificaram a carne com os vícios e concupiscências” (Gl 5, 24)
 
 ***Sumário.** É certo que as paixões, dirigidas segundo a razão e a prudência, não somente não causam prejuízo, senão antes trazem proveito à alma. Ao contrário, não sendo bem dirigidas causam ruínas irreparáveis porque escurecem o espírito e não permitem ver nem o bem nem o mal. Eis porque os mestres da vida espiritual recomendam tanto a mortificação interior. Se não quisermos ser dominados pelas nossas paixões, indaguemos qual seja a nossa paixão dominante e esforcemo-nos para a subjugar, lembrando-nos, porém, de que o melhor meio para sermos bem sucedidos é a oração.*

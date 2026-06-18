@@ -1,3 +1,5 @@
+# Sexta-feira. Quanto agrada a Jesus a lembrança da sua Paixão
+
 > *Gratiam fideiussoris ne obliviscaris; dedit enim pro te animam suam* – “Não te esqueças da graça que te fez teu fiador, pois ele expos sua alma para te valer” (Eclo 29, 20)
 
 ***Sumário.** Quão agradável é a Jesus que nos lembremos da sua Paixão, conclui-se de que o Santíssimo Sacramento foi instituído exatamente para conservar em nós a memória dela. Eis porque todos os santos meditavam continuamente nos sofrimentos e desprezos que o Redentor padeceu em toda a sua vida e particularmente na morte. Procuremos dar esta satisfação ao Coração amabilíssimo de Jesus; contemplemo-lo muitas vezes, mormente na sexta-feira, moribundo por nós, lembrando-nos as penas que com tamanho amor sofreu por nós.*

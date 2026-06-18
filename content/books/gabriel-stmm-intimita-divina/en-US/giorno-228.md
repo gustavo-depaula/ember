@@ -1,4 +1,4 @@
-## XXVIII — THE DIVINE PERFECTIONS
+# XXVIII — THE DIVINE PERFECTIONS
 
 **Presence of God.** — *Grant me, O Lord, to understand something of your infinite perfection.*
 

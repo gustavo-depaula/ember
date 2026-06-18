@@ -1,4 +1,4 @@
-## 41 — O GRÃO DE MOSTARDA
+# 41 — O GRÃO DE MOSTARDA
 
 *XXIV Domingo depois de Pentecostes — VI depois da Epifania*
 

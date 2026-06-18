@@ -1,4 +1,4 @@
-## VII — LA GRAZIA DEL BATTESIMO
+# VII — LA GRAZIA DEL BATTESIMO
 
 *XI Domenica dopo Pentecoste*
 

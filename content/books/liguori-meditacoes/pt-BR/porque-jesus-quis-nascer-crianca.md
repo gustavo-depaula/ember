@@ -1,3 +1,5 @@
+# Dia 02 de Janeiro. Porque Jesus quis nascer criança
+
 > *Parvulus enim natus est nobis, et filius datus est nobis* – “Nasceu-nos uma criança; foi-nos dado um filho” (Is 6, 9)
 
 ***Sumário.** São vários os motivos pelos quais Jesus quis nascer criança. Primeiro, quis desta forma mostrar-nos a sua propensão e facilidade em dar-nos os seus bens. Quis, em segundo lugar, afastar de nós todo o temor ao vermo-Lo reduzido, por assim dizer, a um estado de impotência para nos castigar pelos nossos pecados. Mas sobretudo Jesus nasceu como criança para se fazer amar por nós, não somente de apreço, senão de ternura. Amemo-Lo, pois, de todo o coração, cheguemo-nos a Ele, e peçamos-Lhe toda a sorte de bens.*

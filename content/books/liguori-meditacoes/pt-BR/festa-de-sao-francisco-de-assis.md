@@ -1,3 +1,5 @@
+# 04 de Outubro. Festa de São Francisco de Assis
+
 > *Ego stigmata Domini Iesu in corpore meo porto* — “Eu trago em meu corpo os estigmas do Senhor Jesus” (Gl 6, 17)
 
 ***Sumário.** Posto que São Francisco fosse adornado de todas as virtudes cristãs, a sua virtude característica contudo foi o seu ardente e entranhado amor para com Jesus Cristo. Pelo que mereceu que Jesus Cristo lhe imprimisse os santos estigmas, e que tanto ele como a sua ordem fossem distinguidos pelo mundo todo com o título de Seráfico. Se quisermos que em nós também se acenda esta bela chama do amor, procuremos, à imitação do santo, viver desapegados dos bens terrestres e sobretudo estudar todos os dias no grande livro que é o Crucifixo.*

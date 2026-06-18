@@ -1,4 +1,4 @@
-## Art. 2. Exercices pieux pour la confession
+# Art. 2. Exercices pieux pour la confession
 
 ### Article 2. — Exercice pieux pour se disposer à faire une bonne Confession.
 

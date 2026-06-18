@@ -1,4 +1,4 @@
-## XVI — IL CUORE DI GESÙ NOSTRO RIFUGIO
+# XVI — IL CUORE DI GESÙ NOSTRO RIFUGIO
 
 **Presenza di Dio.** — *O Gesù, degnati d'introdurmi nel tuo Cuore sacratissimo e sia questo il luogo del mio raccoglimento, del mio rifugio, del mio riposo.*
 

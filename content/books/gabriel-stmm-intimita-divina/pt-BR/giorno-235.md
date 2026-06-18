@@ -1,4 +1,4 @@
-## V — A BONDADE INFINITA
+# V — A BONDADE INFINITA
 
 **Presença de Deus.** — *Ó meu Deus, Tu que és o único bom, digna-te revestir-me da tua bondade.*
 

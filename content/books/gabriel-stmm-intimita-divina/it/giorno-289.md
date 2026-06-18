@@ -1,4 +1,4 @@
-## XXVIII — I DUE REGNI
+# XXVIII — I DUE REGNI
 
 *XIV Domenica dopo Pentecoste*
 

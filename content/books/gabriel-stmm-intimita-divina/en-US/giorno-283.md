@@ -1,4 +1,4 @@
-## XXII — JUSTICE
+# XXII — JUSTICE
 **Presence of God.** — *Teach me, O Lord, to love justice and to hate all that opposes it.*
 
 ### Meditation

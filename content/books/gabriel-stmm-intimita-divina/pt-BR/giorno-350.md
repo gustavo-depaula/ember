@@ -1,4 +1,4 @@
-## 28 — O ESPÍRITO SANTO E O APOSTOLADO
+# 28 — O ESPÍRITO SANTO E O APOSTOLADO
 
 **Presença de Deus.** — *Ó Espírito Santo, invade a minha alma e transforma-me em instrumento eleito para a glória de Deus e a salvação das almas.*
 

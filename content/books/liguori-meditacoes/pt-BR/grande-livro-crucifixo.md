@@ -1,3 +1,5 @@
+# Sexta-feira. O grande livro que é o Crucifixo
+
 > *Non iudicavi me scire aliquid inter vos, nisi Iesum Christum, et hunc crucifixum* – “Não entendi saber entre vós coisa alguma, senão a Jesus Cristo, e este crucificado” (Jo 13, 1)
 
 ***Sumário.** O lenho da cruz serviu a Jesus Cristo, não só de patíbulo, para operar o nosso resgate; mas também de cátedra para nos ensinar as mais sublimes virtudes. À imitação dos santos, procuremos estudar amiúde o grande livro do Crucifixo e nós também nele aprenderemos como devemos praticar a obediência aos preceitos divinos, o amor para com o próximo, a paciência nas adversidades. Nele aprenderemos sobretudo como devemos odiar o pecado e amar a Deus, aceitando por seu amor trabalhos, tribulações e a própria morte.*

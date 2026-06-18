@@ -1,4 +1,4 @@
-## VII — INFINITE WISDOM
+# VII — INFINITE WISDOM
 
 **Presence of God.** — *My God, infinite wisdom, enlighten my mind and teach me the secret of true wisdom.*
 

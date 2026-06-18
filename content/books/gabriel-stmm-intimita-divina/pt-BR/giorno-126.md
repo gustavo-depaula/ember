@@ -1,4 +1,4 @@
-## 50 — JESUS PERSEGUIDO
+# 50 — JESUS PERSEGUIDO
 
 *domingo da Paixão*
 

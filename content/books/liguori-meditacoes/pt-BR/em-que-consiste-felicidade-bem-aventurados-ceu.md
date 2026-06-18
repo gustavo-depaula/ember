@@ -1,3 +1,5 @@
+# Terça-feira. Em que consiste a felicidade dos bem-aventurados no céu
+
 > *Intra in gaudium Domini tui* – “Entra no gozo de teu Senhor” (Mt 25, 21)
 
 ***Sumário.** Os bem-aventurados contemplando a Deus face a face e conhecendo as suas infinitas perfeições, amam-No imensamente mais que a si próprios e não desejam outra coisa senão verem-No feliz. Sabendo, além disso, que o seu Senhor goza e gozará eternamente uma felicidade infinita, acham nisto a sua complacência e o seu gozo e é este gozo de Deus que constitui o seu verdadeiro paraíso. Habituemo-nos a fazer muitas vezes atos de amor perfeito a Deus, alegremo-nos com o Senhor pela sua felicidade infinita, e assim começaremos a exercer na terra o ofício dos bem-aventurados no céu.*

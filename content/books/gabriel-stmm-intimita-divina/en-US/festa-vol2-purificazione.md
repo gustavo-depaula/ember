@@ -1,4 +1,4 @@
-## February 2 — THE PURIFICATION OF MARY
+# February 2 — THE PURIFICATION OF MARY
 
 **Presence of God.** — *O Lord, I come to You beseeching You, through the intercession of the Blessed Virgin Mary, to purify my soul.*
 

@@ -14,12 +14,7 @@ import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import {
-  buildTitleLookup,
-  flattenTocLeaves,
-  openBookSession,
-  withChapterTitle,
-} from './bookContent'
+import { buildTitleLookup, flattenReadingFlow, openBookSession } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
@@ -127,10 +122,16 @@ export function BookReader({ bookId, chapter }: Props) {
     return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
   }, [bookEntry, contentLanguage])
 
+  // The reading flow: every paginated page in DFS preorder — chapter leaves
+  // plus any Part/Section group node that carries a body for this language.
+  // Computed from the resident bookEntry (its `.chapters` is populated
+  // synchronously) so it's available before the async session resolves; the
+  // session rebuilds the identical flow so foliate indices stay aligned.
   const leaves = useMemo(
-    () => (bookEntry?.toc ? flattenTocLeaves(bookEntry.toc) : []),
-    [bookEntry?.toc],
+    () => (bookEntry?.toc ? flattenReadingFlow(bookEntry.toc, bookEntry, lang) : []),
+    [bookEntry, lang],
   )
+  const readableIds = useMemo(() => new Set(leaves.map((n) => n.id)), [leaves])
 
   const titleLookup = useMemo(
     () => (bookEntry?.toc ? buildTitleLookup(bookEntry.toc, lang) : new Map<string, string>()),
@@ -209,10 +210,8 @@ export function BookReader({ bookId, chapter }: Props) {
     enabled: !!session && cursor.initial.loaded && leaves.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const initialChapter =
-    initialChapterRaw === undefined
-      ? undefined
-      : withChapterTitle(initialChapterRaw, titleLookup.get(leaves[startIndex]?.id ?? ''))
+  // Body already arrives with its title heading promoted by the session.
+  const initialChapter = initialChapterRaw
 
   const isLoading = sessionLoading || initialChapterLoading || !cursor.initial.loaded
   const isError = sessionError || initialChapterError
@@ -449,10 +448,7 @@ export function BookReader({ bookId, chapter }: Props) {
             .getChapter(msg.index)
             .then((body) => {
               if (id) recordTiming(id, body)
-              foliateRef.current?.provideChapter(
-                msg.index,
-                withChapterTitle(body, id ? titleLookup.get(id) : undefined),
-              )
+              foliateRef.current?.provideChapter(msg.index, body)
             })
             .catch((err) => {
               console.warn(`[BookReader] requestChapter ${msg.index} failed:`, err)
@@ -880,6 +876,7 @@ export function BookReader({ bookId, chapter }: Props) {
           open={sheet === 'toc'}
           onClose={() => setSheet(null)}
           toc={bookEntry.toc}
+          readableIds={readableIds}
           currentChapterId={currentChapterId}
           completedChapterIds={completed}
           chapterTimings={chapterTimingsRef.current}

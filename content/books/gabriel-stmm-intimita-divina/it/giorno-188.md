@@ -1,4 +1,4 @@
-## XIX — DOLCE OSPITE DELL'ANIMA
+# XIX — DOLCE OSPITE DELL'ANIMA
 
 *Triduo di Pentecoste*
 

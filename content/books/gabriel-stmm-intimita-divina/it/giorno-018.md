@@ -1,4 +1,4 @@
-## 18 — CERCARE DIO IN FEDE
+# 18 — CERCARE DIO IN FEDE
 
 **Presenza di Dio.** — *Mi raccolgo alla presenza di Dio, vivente nell'anima mia, per imparare a cercarlo attraverso la luce della fede.*
 

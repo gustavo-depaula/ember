@@ -1,3 +1,5 @@
+# Quarta-feira. Remorso do condenado: podia salvar-me tão facilmente
+
 > *Transiit messis, finita est aestas, et nos salvati non sumus* – “O tempo da ceifa é passado, o estio findou-se, e nós não fomos salvos” (Jr 8, 20)
 
 ***Sumário.** O que mais que o fogo cruciará o réprobo no inferno é ter que dizer consigo: Se eu tivesse feito para Deus tanto quanto fiz para condenar-me, seria um grande santo; agora, ao contrário, hei de ser infeliz para sempre! – Meu irmão, quem sabe se este cruel remorso não virá a ser o teu lá no abismo infernal, se não mudares de vida? Apressa-te, pois, sem perda de tempo: remedeia o mal feito e resolve-te a empregar todos os meios para assegurar-te a salvação eterna.*

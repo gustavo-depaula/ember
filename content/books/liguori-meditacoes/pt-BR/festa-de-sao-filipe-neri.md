@@ -1,3 +1,5 @@
+# 26 de Maio. Festa de São Filipe Neri
+
 > *Suscitabo mihi sacerdotem fidelem, qui juxta cor meum et animam meam faciet *— “Eu suscitarei para mim um sacerdote fiel que fará tudo segundo o meu coração e a minha alma” (1 Sm 2, 35)
 
 ***Sumário.** São muitas as virtudes que adornaram a vida deste santo, mas a que mais o distinguiu e dele fez um sacerdote segundo o coração divino, foi o seu amor a Deus e ao próximo. Para o remunerar, também à vista dos homens, Deus o fez pai de uma família santa e numerosa, e o fez morrer vítima de amor, na festa do Corpo de Deus. Regozijemo-nos com São Filipe; agradeçamos por ele a Deus e, olhando em seguida para o estado da nossa alma, envergonhemo-nos da nossa tibieza.*

@@ -1,3 +1,5 @@
+# 30 de Abril. Motivos para celebrar o mês de Maria
+
 > *Mensis iste vobis principium mensium: primus erit in mensibus anni* —”Este mês será para vós o princípio dos meses: será o primeiro dos meses do ano” (Ex 12, 2)
 
 ***Sumário.** Seja qual for o estado da tua alma, sempre tens motivos especiais para celebrar bem o mês de Maria. Se és inocente, deves fazê-lo para que a divina Mãe te conserve sempre tal; se és pecador, para que te ajude a levantar-te; se és penitente, para que te obtenha a santa perseverança. Para praticares bem este santo exercício, imagina-te que terás de morrer no princípio de junho, e emprega todo o mês de maio em te preparar à morte, especialmente pelo cumprimento exato dos deveres do teu estado.*

@@ -1,4 +1,4 @@
-## 27 — OS NOSSOS DEVERES
+# 27 — OS NOSSOS DEVERES
 
 *XXII Domingo depois de Pentecostes*
 

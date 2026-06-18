@@ -1,4 +1,4 @@
-## XX — DALL'EUCARISTIA ALLA TRINITÀ
+# XX — DALL'EUCARISTIA ALLA TRINITÀ
 
 **Presenza di Dio.** — *O Gesù eucaristico, guidami alla Trinità, aiutami a vivere con la Trinità.*
 

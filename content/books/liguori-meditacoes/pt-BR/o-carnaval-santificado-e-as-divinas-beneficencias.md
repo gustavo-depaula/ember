@@ -1,3 +1,5 @@
+# Quinta-feira. O Carnaval Santificado e as Divinas Beneficências
+
 > *Fidem posside cum amico in paupertate illius, ut et in bonis illius laeteris* – “Guarda fé ao teu amigo na sua pobreza, para que também te alegres com ele nas suas riquezas” (Ecl 22, 28)
 
 ***Sumário.** Para desagravar o Senhor ao menos um pouco dos ultrajes que lhe são feitos, os Santos aplicavam-se nestes dias do carnaval, de modo especial, ao recolhimento, à oração, à penitência, e multiplicavam os atos de amor, de adoração e de louvor para com seu Bem-Amado. Procuremos imitar estes exemplos, e se mais não pudermos fazer, visitemos muitas vezes o Santíssimo Sacramento e fiquemos certos de que Jesus Cristo no-lo remunerará com as graças mais assinaladas.*

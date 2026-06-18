@@ -1,4 +1,4 @@
-## 5 — A ALMA DO APOSTOLADO
+# 5 — A ALMA DO APOSTOLADO
 
 **Presença de Deus.** — *Faze-me compreender, ó Senhor, que só a união contigo, que só o amor pode fecundar todo apostolado.*
 

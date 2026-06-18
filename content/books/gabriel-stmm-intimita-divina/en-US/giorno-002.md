@@ -1,4 +1,4 @@
-## 2 — INVITATION TO HOLINESS
+# 2 — INVITATION TO HOLINESS
 
 **Presence of God.** — *I place myself in the presence of Jesus in the Blessed Sacrament, considering him the Redeemer and Sanctifier of my soul.*
 

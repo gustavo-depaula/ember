@@ -1,4 +1,4 @@
-## 45 — AMORE UNITIVO
+# 45 — AMORE UNITIVO
 
 **Presenza di Dio.** — *Dio mio, che hai infuso in me l'amore, fa' che questo cresca sino a condurmi all'unione con te.*
 

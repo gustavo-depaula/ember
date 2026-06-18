@@ -1,4 +1,4 @@
-## XIII — L'ONNIPOTENZA
+# XIII — L'ONNIPOTENZA
 
 **Presenza di Dio.** — *O Dio onnipotente, metti in atto la tua onnipotenza infinita per convertirmi totalmente al tuo amore.*
 

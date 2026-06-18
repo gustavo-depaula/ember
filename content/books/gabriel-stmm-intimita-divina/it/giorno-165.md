@@ -1,4 +1,4 @@
-## XXVI — La preghiera liturgica
+# XXVI — La preghiera liturgica
 
 **Presenza di Dio.** — *O Gesù, Capo del Corpo Mistico, fa' che pregando con la Chiesa, possa unirmi alla tua preghiera.*
 

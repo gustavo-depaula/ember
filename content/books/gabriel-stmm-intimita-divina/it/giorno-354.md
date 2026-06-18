@@ -1,4 +1,4 @@
-## 32 — L'AMORE PURIFICANTE
+# 32 — L'AMORE PURIFICANTE
 
 **Presenza di Dio.** — *O Signore, aiutami a spalancare l'anima mia all'invasione del tuo amore purificante.*
 

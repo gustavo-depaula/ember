@@ -1,4 +1,4 @@
-## XXVI — PIEDADE E DEVOÇÃO
+# XXVI — PIEDADE E DEVOÇÃO
 **Presença de Deus.** — *Ó Deus, Pai nosso, infunde em mim o verdadeiro espírito de piedade e de devoção.*
 
 ### Meditação

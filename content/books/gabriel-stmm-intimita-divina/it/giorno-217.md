@@ -1,4 +1,4 @@
-## XVII — IL SACRO CUORE E L'EUCARISTIA
+# XVII — IL SACRO CUORE E L'EUCARISTIA
 
 **Presenza di Dio.** — *Sacro Cuore di Gesù, insegnami a vivere con te mediante il Sacramento del tuo amore.*
 

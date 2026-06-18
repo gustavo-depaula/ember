@@ -1,4 +1,4 @@
-## X — A TEMPERANÇA
+# X — A TEMPERANÇA
 
 **Presença de Deus.** — Ensina-me, ó Senhor, a mortificar minha carne para viver plenamente a vida do espírito.
 

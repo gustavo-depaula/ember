@@ -1,4 +1,4 @@
-## VII — A SABEDORIA INFINITA
+# VII — A SABEDORIA INFINITA
 
 **Presença de Deus.** — *Meu Deus, sabedoria infinita, ilumina a minha mente e ensina-me o segredo da verdadeira sabedoria.*
 

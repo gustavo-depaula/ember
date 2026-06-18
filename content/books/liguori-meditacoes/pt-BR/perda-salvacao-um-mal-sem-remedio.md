@@ -1,3 +1,5 @@
+# Quarta-feira. A perda da Salvação é um mal sem remédio
+
 > *Qui poenas dabunt in interitu aeternas a facie Domini* – “Os quais, longe da presença de Deus, sofrerão por castigo eterno a perdição” (2 Ts 1, 9)
 
 ***Sumário.** Para todos os males há remédio; só para o condenado não. Morre-se uma vez, e, perdida a alma uma vez, está perdida para sempre e só lhe resta lamentar eternamente a sua perdição eterna, causada pela sua própria culpa. Avivemos, pois, a nossa fé, e lembrando-nos que nos caberá por sorte o céu ou o inferno, tomemos as providências apropriadas para nos assegurarmos a salvação eterna. Sejamos especialmente devotos à Santíssima Virgem e examinemos frequentes vezes, se por ventura nos temos relaxado nesta devoção.*

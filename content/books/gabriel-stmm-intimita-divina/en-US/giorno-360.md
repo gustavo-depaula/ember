@@ -1,4 +1,4 @@
-## 38 — TRUST AND ABANDONMENT
+# 38 — TRUST AND ABANDONMENT
 
 **Presence of God.** — *Into Your hands, O Lord, I abandon myself with full trust.*
 

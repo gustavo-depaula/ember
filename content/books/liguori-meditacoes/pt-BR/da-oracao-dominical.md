@@ -1,3 +1,5 @@
+# 3ª Meditação. Da Oração Dominical
+
 > *Sic ergo vos orabitis : Pater noster, qui es in coelis, sanctificetur nomen tuum* — “Assim, pois, é que haveis de orar: Pai nosso que estais nos céus, santificado seja o vosso nome” (Mt 6, 9)
 
 ***Sumário.** Nós somos tão ignorantes e curtos de juízo, que nem sabemos quais as graças que devemos pedir a Deus para nossa salvação. Jesus Cristo, vendo a nossa insuficiência, compôs a súplica que havemos de dirigir a nosso Pai celestial. Rezemos, pois, com frequência a oração sublime qual é o Pai nosso,e, como bons filhos, peçamos principalmente ao Senhor, que faça seu nome conhecido em toda a parte, que reine em nós pela sua graça e nos faça cumprir perfeitamente a sua santíssima vontade.*

@@ -1,4 +1,4 @@
-## 48 — O FIM DO TEMPO
+# 48 — O FIM DO TEMPO
 
 *Último domingo depois de Pentecostes*
 

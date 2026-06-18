@@ -1,4 +1,4 @@
-## XXIV — AS EFUSÕES DA TRINDADE NA ALMA
+# XXIV — AS EFUSÕES DA TRINDADE NA ALMA
 
 **Presença de Deus.** — *Ó SS.ma Trindade, digna-te renovar a tua visita à minha alma.*
 

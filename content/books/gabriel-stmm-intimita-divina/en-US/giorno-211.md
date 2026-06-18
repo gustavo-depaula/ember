@@ -1,4 +1,4 @@
-## XI — MERCIFUL LOVE
+# XI — MERCIFUL LOVE
 *Sunday within the octave of the Sacred Heart of Jesus*
 
 **Presence of God.** — *O Jesus, deign to unveil for me the infinite treasures of mercy enclosed in your Heart.*

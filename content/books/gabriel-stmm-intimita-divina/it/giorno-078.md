@@ -1,4 +1,4 @@
-## 2 — NECESSITÀ DELLA PURIFICAZIONE INTERIORE
+# 2 — NECESSITÀ DELLA PURIFICAZIONE INTERIORE
 
 **Presenza di Dio.** — *Purifica, o Signore, l'anima mia perchè possa esser totalmente invasa dalla tua luce e dal tuo amore.*
 

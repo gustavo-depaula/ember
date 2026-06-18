@@ -1,4 +1,4 @@
-## XII — LA DIVINA PROVVIDENZA
+# XII — LA DIVINA PROVVIDENZA
 
 **Presenza di Dio.** — *O mio Dio, che tutto ordini e disponi per altissimi fini, insegnami ad affidarmi pienamente alla tua divina provvidenza.*
 

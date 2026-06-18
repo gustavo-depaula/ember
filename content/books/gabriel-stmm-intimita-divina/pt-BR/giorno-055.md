@@ -1,4 +1,4 @@
-## 55 — A POTÊNCIA DO MESTRE DIVINO
+# 55 — A POTÊNCIA DO MESTRE DIVINO
 
 **Presença de Deus.** — *Ó Jesus, peço-te não só que me instruas, mas que movas a minha alma a aceitar e pôr em prática os teus ensinamentos.*
 

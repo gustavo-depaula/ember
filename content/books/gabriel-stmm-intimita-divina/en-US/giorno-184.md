@@ -1,4 +1,4 @@
-## XV — MARY'S PRAYER
+# XV — MARY'S PRAYER
 
 **Presence of God.** — *O Mary, you who were God's faithful adorer, teach me to live in continual prayer.*
 

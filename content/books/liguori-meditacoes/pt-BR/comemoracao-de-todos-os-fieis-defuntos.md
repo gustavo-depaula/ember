@@ -1,3 +1,5 @@
+# 02 de Novembro. Comemoração de todos os Fiéis Defuntos
+
 > *Sancta et salubris est cogitado pro defunctis exorare, ut a peccatis solvantur *— “É um santo e salutar pensamento orar pelos mortos para que lhes sejam perdoados os seus pecados” (2 Mc 12, 46)
 
 ***Sumário.** A devoção às almas do purgatório é muito agradável ao Senhor, e utilíssima ao que a pratica. Jesus Cristo ama imensamente estas suas esposas e suspira pelo momento em que as possa estreitar contra o peito; e as santas prisioneiras mostrar-se-ão gratas para aquele que lhes obtém o livramento do seu cárcere ou ao menos algum alívio nas suas penas. Sufraguemos, pois, constantemente as almas do purgatório, particularmente neste mês e neste dia consagrados à sua memória.*

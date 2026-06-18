@@ -1,4 +1,4 @@
-## 51 — IL VALORE DELLA SOFFERENZA
+# 51 — IL VALORE DELLA SOFFERENZA
 
 **Presenza di Dio.** — *O Gesù crocifisso, insegnami la scienza della croce, insegnami il valore della sofferenza.*
 

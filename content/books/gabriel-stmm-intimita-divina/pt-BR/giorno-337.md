@@ -1,4 +1,4 @@
-## 15 — SANTIFICAR-SE NO APOSTOLADO
+# 15 — SANTIFICAR-SE NO APOSTOLADO
 
 **Presença de Deus.** — *Dá-me luz, ó Deus, para que eu reconheça as graças que preparaste no meu caminho para conduzir-me à santidade; torna-me capaz de corresponder a elas.*
 

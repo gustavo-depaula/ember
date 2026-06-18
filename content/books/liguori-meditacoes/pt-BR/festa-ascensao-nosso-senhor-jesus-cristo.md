@@ -1,3 +1,5 @@
+# Quinta-feira. Festa da Ascensão de Nosso Senhor Jesus Cristo
+
 > *Dominus Iesus, postquam locutus est eis, assumptus est in coelum, et sedet a dextris Dei* – “O Senhor Jesus, depois que lhes falou, foi assunto ao céu, e está sentado à direita de Deus” (Mc 16, 19)
 
 ***Sumário.** Como a águia ensina os filhos a voarem, assim, no mistério de hoje, Jesus Cristo nos exorta a elevarmos o nosso vôo e a acompanhá-Lo ao céu, se não com o corpo, ao menos com nosso afeto. Desprendamos os nossos corações desta terra e suspiremos pela pátria celestial, onde se acha a nossa felicidade: esperando, como diz o Apóstolo, a adoção de filhos de Deus, a redenção do nosso corpo. Entretanto tenhamos sempre diante dos olhos os exemplos da vida mortal do Redentor e imitemos as suas belas virtudes, em particular a sua humildade e doçura.*

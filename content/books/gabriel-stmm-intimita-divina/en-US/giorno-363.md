@@ -1,4 +1,4 @@
-## 41 — THE MUSTARD SEED
+# 41 — THE MUSTARD SEED
 
 *24th Sunday after Pentecost — 6th after Epiphany*
 

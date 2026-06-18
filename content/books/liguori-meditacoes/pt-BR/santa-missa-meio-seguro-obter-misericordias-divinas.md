@@ -1,3 +1,5 @@
+# Quinta-feira. A Santa Missa é um meio seguro para obter as misericórdias divinas
+
 > *Ipse (Iesus) est propitiatio pro peccatis nostris* – “Ele (Jesus) é a propiciação pelos nossos pecados” (1 Jo 2, 2)
 
 ***Sumário.** A Santa missa é por excelência a oração propiciatória e a reparadora; é ela que continuamente atrai sobre nós as divinas misericórdias e impede a divina justiça de tomar as vinganças merecidas pelos nossos pecados. Eis porque, depois da vinda de Jesus Cristo, não se vêem mais aqueles castigos tão frequentes e tão formidáveis que se observam na antiga Lei. Tomai, pois, a resolução de assistir cada dia e com a devida atenção ao santo sacrifício, mesmo à custa de algum incômodo ou de algum interesse temporal.*

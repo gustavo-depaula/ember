@@ -1,4 +1,4 @@
-## 72 — LA CRESIMA
+# 72 — LA CRESIMA
 
 **Presenza di Dio.** — *O Spirito Santo, conferma ancora una volta ciò che hai operato in me e rendimi capace di vivere da vero soldato di Cristo.*
 

@@ -1,3 +1,5 @@
+# Segunda-feira. O pecador aflige o Coração de Deus
+
 > *Exacerbavit Dominum peccator: secundum multitudinem irae suae non quaeret* – “O pecador irritou ao Senhor: não se importa da grandeza de sua indignação” (Sl 9, 24)
 
 ***Sumário.** Não há dissabor maior do que ver-se pago com ingratidão por uma pessoa amada e beneficiada. Daí infere quanto deve estar amargurado o Coração sensibilíssimo de Jesus, que, não obstante os imensos e contínuos benefícios concedidos aos homens, é tão vilmente ultrajado pela maior parte deles, especialmente neste tempo de carnaval. Jesus não pode morrer; mas, se o pudesse, havia de morrer só de tristeza. Procuremos nós ao menos desagravá-Lo um pouco com os nossos obséquios.*

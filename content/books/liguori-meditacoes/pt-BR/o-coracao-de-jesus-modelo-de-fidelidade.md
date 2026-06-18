@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Dezembro. O Coração de Jesus, modelo de Fidelidade
+
 > *Fidelis est, qui vocavit vos; qui etiam faciet *— “Fiel é o que vos chamou; o qual também o fará” (1 Ts 5, 24)
 
 ***Sumário.** Jesus tem um Coração tão fiel, que, quando é abandonado, traído, desprezado por uma criatura infiel, vai à sua procura, instando com ela para que torne à sua amizade. Estimulado por amor extremo, faz todos os esforços para reconquistar a alma que o deixou, a fim de que ela se digne ao menos responder a um Coração que nunca lhe faltou na fidelidade.*

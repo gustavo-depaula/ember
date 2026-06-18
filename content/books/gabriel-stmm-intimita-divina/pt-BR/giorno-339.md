@@ -1,4 +1,4 @@
-## 17 — ESQUECIMENTO E ABNEGAÇÃO DE SI
+# 17 — ESQUECIMENTO E ABNEGAÇÃO DE SI
 
 **Presença de Deus.** — *Ó Senhor, Tu que te dás a nós até fazer-te nosso alimento, ensina-me a dar-me às almas até esquecer-me totalmente de mim mesmo.*
 

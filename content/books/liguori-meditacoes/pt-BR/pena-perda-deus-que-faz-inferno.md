@@ -1,3 +1,5 @@
+# Quarta-feira. A pena da perda de Deus é o que faz o inferno
+
 > *Iniquitates vestrae diviserunt inter vos et Deum vestrum* – “As vossas iniquidades fizeram uma separação entre Vós e vosso Deus” (Is 59, 2)
 
 ***Sumário.** A malícia do pecado mortal consiste no desprezo da graça divina e na perda voluntária de Deus, o Bem supremo. Com toda a justiça, pois, a maior pena do pecador no inferno é tê-lo perdido, sem esperança de O tornar a achar. Se quisermos ter uma garantia de não incorrermos em tamanha desgraça, demo-nos inteiramente e sem reservas ao Senhor. O que não se dá inteiramente a Deus ou o serve com tibieza, corre grande risco de O perder para sempre.*

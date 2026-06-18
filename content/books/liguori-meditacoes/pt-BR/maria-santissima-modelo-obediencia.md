@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de obediência
+
 > *Ecce ancilla Domini: fiat mihi secundum verbum tuum* – “Eis aqui a escrava do Senhor: faça-se em mim segundo a tua palavra” (Lc 1, 38)
 
 ***Sumário.** A obediência de Maria foi incomparavelmente mais perfeita que a dos outros santos; porque, imune de todo labéo de culpa, ela era como que uma roda que pronta se movia a cada inspiração divina. Pelo mérito desta virtude Maria remediou o dano que causou Eva com sua desobediência. E tu como é que obedeces a teus superiores? Como é que observas as leis de Deus e da Igreja e os deveres próprios do teu estado? Lembra-te de que a virtude de obediência faz entrar os bem-aventurados na glória.*

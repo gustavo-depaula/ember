@@ -1,4 +1,4 @@
-## 39 — O DESENVOLVIMENTO DO AMOR
+# 39 — O DESENVOLVIMENTO DO AMOR
 
 **Presença de Deus.** — *Deus meu, que desde a eternidade me prevenistes com vosso infinito amor, aumentai em mim o amor para convosco.*
 

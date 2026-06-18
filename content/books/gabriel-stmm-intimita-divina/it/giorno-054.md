@@ -1,4 +1,4 @@
-## 54 — Le esigenze dell'insegnamento di Gesù
+# 54 — Le esigenze dell'insegnamento di Gesù
 
 **Presenza di Dio.** — *Gesù, fammi comprendere e poi dammi la forza di mettere in pratica i tuoi insegnamenti.*
 

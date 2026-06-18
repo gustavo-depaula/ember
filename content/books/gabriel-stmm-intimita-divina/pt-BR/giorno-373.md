@@ -1,4 +1,4 @@
-## 51 — A UNIÃO TOTAL
+# 51 — A UNIÃO TOTAL
 
 **Presença de Deus.** — *Suplico-Vos, ó Deus, fazei que nada perturbe a minha união Convosco.*
 

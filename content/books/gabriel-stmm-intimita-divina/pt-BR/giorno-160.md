@@ -1,4 +1,4 @@
-## XXI — CONDUTA PRÁTICA
+# XXI — CONDUTA PRÁTICA
 
 **Presença de Deus.** — *Ó Senhor, tua luz me guie sempre para que eu não me engane no meu caminho.*
 

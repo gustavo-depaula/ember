@@ -1,4 +1,4 @@
-## XXVII — GRATITUDE
+# XXVII — GRATITUDE
 **Presence of God.** — *My God, give me a grateful heart, capable of singing your mercies forever.*
 
 ### Meditation

@@ -1,4 +1,4 @@
-## 16 — GUARDING THE SENSES
+# 16 — GUARDING THE SENSES
 
 **Presence of God.** — *In Your presence, my God, I gather my senses and my faculties, withdrawing them from every exterior occupation in order to fix them on You.*
 

@@ -1,4 +1,4 @@
-## IV — O CONVITE AO BANQUETE
+# IV — O CONVITE AO BANQUETE
 
 *Domingo dentro da oitava de Corpus Domini*
 

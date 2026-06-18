@@ -1,4 +1,4 @@
-## 53 — JESUS, MESTRE DE SANTIDADE
+# 53 — JESUS, MESTRE DE SANTIDADE
 
 **Presença de Deus.** — *Sempre tenho necessidade de ti, divino Mestre, porque só Tu és santo e podes ensinar-me o verdadeiro caminho da santidade.*
 

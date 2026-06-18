@@ -1,4 +1,4 @@
-## 56 — Gesù accoglie tutti
+# 56 — Gesù accoglie tutti
 
 *III domenica dopo l'Epifania*
 

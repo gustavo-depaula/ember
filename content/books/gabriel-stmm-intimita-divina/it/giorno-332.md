@@ -1,4 +1,4 @@
-## 10 — L'IMMOLAZIONE APOSTOLICA
+# 10 — L'IMMOLAZIONE APOSTOLICA
 
 **Presenza di Dio.** — *O Gesù, immolato per la mia salvezza, fa' ch'io sia degno d'immolarmi con te per la salvezza dei miei fratelli.*
 

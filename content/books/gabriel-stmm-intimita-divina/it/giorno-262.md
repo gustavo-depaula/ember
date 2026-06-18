@@ -1,4 +1,4 @@
-## I — LA CARITÀ FRATERNA
+# I — LA CARITÀ FRATERNA
 
 **Presenza di Dio.** — *O Signore, concedimi di penetrare il profondo significato del precetto della carità fraterna.*
 

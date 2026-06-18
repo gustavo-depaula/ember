@@ -1,3 +1,5 @@
+# 25 de Novembro. Das ocupações do Menino Jesus na Gruta de Belém
+
 > *Advocatum habemus apud Patrem, Iesum Cristum iustum* — “Temos por advogado para com o Pai a Jesus Cristo, o Justo” (1 Jo 2, 1)
 
 ***Sumário.** São duas as ocupações principais de um solitário: orar e fazer penitência. Eis que Jesus Menino, na lapinha de Belém, nos dá disso um belo exemplo. Consideremos nesta meditação, como no presépio ora incessantemente e faz continuamente atos de amor e de adoração. Todas as graças que já temos recebido e ainda esperamos obter, foram-nos alcançadas por aquelas orações de Jesus Deus. Demos graças por isso ao divino Menino, e cada vez que fizermos oração, unamo-nos em espírito a tão excelente Mestre.*

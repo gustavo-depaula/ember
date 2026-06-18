@@ -1,4 +1,4 @@
-## 22 — EIS QUE VEM O SALVADOR
+# 22 — EIS QUE VEM O SALVADOR
 *IV domingo do Advento*
 
 **Presença de Deus.** — *Ponho-me aos pés de Jesus, meu Salvador, para pedir-lhe que ele mesmo prepare o meu coração para a sua iminente vinda.*

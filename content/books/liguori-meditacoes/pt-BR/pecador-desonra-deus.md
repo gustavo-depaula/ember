@@ -1,3 +1,5 @@
+# Segunda-feira. O pecador desonra a Deus
+
 > *Per praevaricationem legis Deum inhonoras* – “Pela transgressão da lei desonras a Deus” (Rm 2, 23)
 
 ***Sumário.** O pecador desonra a Deus, porque, por um vil interesse, por uma indigna satisfação, renuncia à amizade divina. Se ao menos não O desonrasse na sua presença. Mas não, desonra-O ante seus próprios olhos, pois que Deus está em todos os lugares; e, mais ainda, para desonrá-Lo serve-se do mesmo corpo que Deus lhe deu para o glorificar. Que negra ingratidão! Quão amargurado não deve sentir-se o Coração amabilíssimo de Jesus!*

@@ -1,3 +1,5 @@
+# 21 de Março. Festa de São Bento, Abade
+
 > *Omnis qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matrem… propter nomen meum, centuplum accipiet, et vitam aeternam possidebit* — “Todo aquele que deixar por amor de meu nome a casa, ou os irmãos, ou as irmãs, ou o pai, ou a mãe…receberá o cêntuplo, e possuirá a vida eterna” (Mt 19, 29)
 
 ***Sumário.** Ó, quão bem sabe Deus recompensar, nesta vida e na outra, os pequenos sacrifícios dos seus servos. Eis como São Bento, por haver deixado as comodidades da casa paterna, possui agora um reino imenso e eterno. Por haver deixado parentes e amigos, ei-lo feito Pai de uma família numerosa e gloriosa. Regozijemo-nos com o santo Patriarca, e para participarmos um dia de sua recompensa, correspondamos à nossa vocação. Vivamos sobretudo desapegados dos bens terrenos, e se o Senhor te chamar a deixar inteiramente o mundo, não hesites em fazê-lo, que nunca disso te arrependerás.*

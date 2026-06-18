@@ -1,3 +1,5 @@
+# Sexta-feira. Felicidade de quem se conforma com a vontade de Deus
+
 Santa Catarina de Sena recebendo a Coroa de Espinhos, por Cristo
 
 > *Acquiesce igitur ei, et habeto pacem, et per haec habebis fructus optimos* – “Submete-te, pois, a Ele, e terás paz; e assim colherás excelentes frutos” (Jó 22, 21)

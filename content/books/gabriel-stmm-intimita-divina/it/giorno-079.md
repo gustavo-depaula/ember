@@ -1,4 +1,4 @@
-## 3 — GLI ATTACCHI VOLONTARI
+# 3 — GLI ATTACCHI VOLONTARI
 
 **Presenza di Dio.** — *O Signore, mi metto alla tua presenza pregandoti d'illuminare la mia anima, affinchè io possa vedere quali sono gli ostacoli alla mia unione con te.*
 

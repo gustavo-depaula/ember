@@ -1,3 +1,5 @@
+# Sábado. O devoto de Maria Santíssima deve imitar-lhe as virtudes
+
 > *Nunc ergo, filii, audite me: Beati qui custodiunt vias meas* – “Agora pois, filhos, ouvi-me: bem-aventurados os que guardam os meus caminhos” (Pv 8, 32)
 
 ***Sumário.** A Santíssima Virgem, depois que tirou alguma alma das garras de Lúcifer, quer que ela se aplique à imitação das suas virtudes, pois que, de outro modo, não poderá enriquecê-la com as suas graças, vendo-a a si contrária nos costumes. Entremos, portanto, nas vistas de nossa boa Mãe; e estejamos certos de que é este o melhor obséquio que lhe podemos fazer. Se não nos sentirmos com força suficiente, roguemo-la à Bem-Aventurada Virgem que se chama e é a dispensadora de todas as graças.*

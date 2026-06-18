@@ -1,3 +1,5 @@
+# Segunda-feira. Da tibieza
+
 > *Quia tepidus es, et nec frigidus nec calidus, incipiam te evomere ex ore meo* – “Porque és morno, e nem frio nem quente, começarei a vomitar-te da minha boca” (Ap 3, 16)
 
 ***Sumário.** A verdadeira tibieza consiste em que a alma cai em pecados veniais plenamente voluntários, dos quais pouco se arrepende, e que menos ainda se esforça por evitar, dizendo que são coisas de pouca monta. Temamos cair nesta tibieza, porque é semelhante à febre héctica, que não inspira muito cuidado, mas é tão maligna que não deixa quase esperança de cura. Infeliz da alma que faz as pazes com os pecados, posto que leves; a desgraçada irá de mal a pior. Sendo ela tão avarenta para com Deus, como pode pretender que o Senhor seja liberal para com ela?*

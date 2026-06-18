@@ -1,3 +1,5 @@
+# 2ª Quarta-feira de Março. Fuga para o Egito
+
 > *Surge et accipe puerum et matrem eius, et fuge in Aegyptum* — “Levanta-te e toma o Menino e sua Mãe, e foge para o Egito” (Mt 2, 13)
 
 ***Sumário.** Consideremos a obediência pronta de São José. Apenas recebida a ordem do Anjo, apresta-se para a viagem ao Egito, posto que previsse os incômodos que semelhante viagem, bem como a sua permanência naquele lugar, devia causar tanto a ele mesmo como a sua Esposa e seu divino Filho. Como é que nós obedecemos aos mandamentos de Deus e às ordens dos nossos superiores? Ao menos, esforcemo-nos para o futuro por imitar o santo Patriarca, e unamo-nos a estes santos peregrinos na viagem que estamos fazendo para a eternidade.*
