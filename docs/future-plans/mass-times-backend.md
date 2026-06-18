@@ -330,12 +330,22 @@ On-device expansion removes the entire "keep a materialized window current" job:
 occurrence expansion (rules are stored as-is). Run with your Cloudflare creds; the dump's
 provenance is out of scope here.
 
+**Stable identity + idempotent re-imports.** The importer slugs each church a human-friendly id
+(`name + city + disambiguator`). A dump record may also carry an opaque `sourceId`; the importer
+never stores it but echoes a **`sourceId → generated id` mapping sidecar** (`*.mapping.jsonl`).
+Feeding that mapping back on the next run (`--prior`) makes a church **keep its id even if its name
+or city changed** — so app favorites / check-ins / reminders (all keyed on church id) never break,
+and a re-scrape diffs cleanly. With `--upsert`, the emitted SQL is idempotent: churches
+`ON CONFLICT(id) DO UPDATE` (last import wins), and each imported church's children
+(`service`/`church_text`/`church_link`) are deleted then reinserted. `correction` /
+`verification_event` are never touched, so crowd input survives a re-import.
+
 > **Initial bulk load — throughput, not cost.** The one-time load (~138k churches + ~650k services
 > + texts/links ≈ <1M rows) is well inside D1's free write allowance, so it costs nothing — but do
 > **not** push it as per-row INSERTs through a Worker (subrequest/CPU limits). Use
-> `wrangler d1 import --file=dump.sql` (server-side bulk path) for the initial load; use
-> `import.ts` (Drizzle `batch()`) for any later operator-run loads — idempotency across runs is the
-> operator's concern, not the backend's.
+> `wrangler d1 import --file=dump.sql` (server-side bulk path, plain INSERTs into an empty DB) for
+> the initial load; for later re-imports emit upsert SQL (`--upsert`) and apply it with
+> `wrangler d1 execute --file=dump.sql`.
 
 **Writes after launch are trivial** — occasional re-imports plus the tiny append-only
 `correction`/`verify` queues. There is no recurring per-day write cost, because nothing is
