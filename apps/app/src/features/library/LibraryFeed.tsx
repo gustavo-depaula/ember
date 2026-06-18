@@ -16,7 +16,7 @@ import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex, toneForKey } from '@/features/explore/bgColor'
 import { ShortcutRow } from '@/features/home'
-import { saints } from '@/features/saints'
+import { useSaintsCatalog } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
 
 import { ContinueRow } from './ContinueRow'
@@ -45,6 +45,7 @@ export function LibraryFeed() {
   const { data: follows } = useFollows()
   const { data: latest } = useLatestForFollowed()
   const { data: userCollections } = useUserCollections()
+  const { saints: holyCards } = useSaintsCatalog()
   const [creating, setCreating] = useState(false)
 
   // Re-derive only when the saved set or the catalog changes, not on every tick.
@@ -191,11 +192,11 @@ export function LibraryFeed() {
       )}
 
       <ArtCarousel title={t('library.holyCards')}>
-        {saints.map((s) => (
+        {holyCards.map((s) => (
           <ArtCoverCard
             key={s.id}
-            title={t(s.nameKey)}
-            image={s.image}
+            title={s.name}
+            image={s.cardImage}
             tone={toneForKey(s.id)}
             size={120}
             aspectRatio={1.5}
