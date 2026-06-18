@@ -73,10 +73,7 @@ export const church = sqliteTable(
     texts: text('texts', { mode: 'json' }).$type<ChurchText[]>(),
     links: text('links', { mode: 'json' }).$type<ChurchLink[]>(),
   },
-  (t) => [
-    index('church_geohash_idx').on(t.geohash),
-    index('church_country_city_idx').on(t.countryCode, t.city),
-  ],
+  (t) => [index('church_geohash_idx').on(t.geohash)],
 )
 
 export const correction = sqliteTable(

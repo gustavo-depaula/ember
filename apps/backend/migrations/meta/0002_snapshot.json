@@ -265,14 +265,6 @@
             "geohash"
           ],
           "isUnique": false
-        },
-        "church_country_city_idx": {
-          "name": "church_country_city_idx",
-          "columns": [
-            "country_code",
-            "city"
-          ],
-          "isUnique": false
         }
       },
       "foreignKeys": {},
