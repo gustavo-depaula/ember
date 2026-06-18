@@ -1,5 +1,6 @@
 import { BottomSheet, Group, Host, RNHostView } from '@expo/ui/swift-ui'
 import {
+  ignoreSafeArea,
   interactiveDismissDisabled,
   type PresentationDetent,
   presentationBackgroundInteraction,
@@ -22,7 +23,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Skeleton, Typography } from '@/components'
 import type { NearbyChurch } from '@/lib/mass-times'
-import { nextService, useChurchSearch, wallClockNow } from '@/lib/mass-times'
+import { nextService, useChurch, useChurchSearch, wallClockNow } from '@/lib/mass-times'
 import { useDebounced } from '@/lib/useDebounced'
 import { useCheckInCount } from '../checkins'
 import { dayLabel, formatDistanceKm, formatTimeOfDay } from '../format'
@@ -34,13 +35,16 @@ import { type ChurchRowData, ChurchSearchRow } from './ChurchSearchRow'
 import { useGlassTile } from './glass'
 import { LocationBar } from './LocationBar'
 import { MassLog } from './MassLog'
+import type { CameraIdle } from './NativeChurchesMap'
 import { SavedChurches } from './SavedChurches'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
 type SheetView = { kind: 'browse' } | { kind: 'detail'; church: Selected } | { kind: 'log' }
 
-// Stable detent identities (the native selection compares by value — keep them steady).
-const PEEK: PresentationDetent = { fraction: 0.16 }
+// Stable detent identities (the native selection compares by value — keep them steady). PEEK is a fixed
+// height sized to the search bar (grabber + search row + home-indicator inset), so minimized the sheet
+// shrinks to just the search field, Apple-Maps style — not a fraction that leaves content peeking.
+const PEEK: PresentationDetent = { height: 96 }
 const HALF: PresentationDetent = { fraction: 0.55 }
 const FULL: PresentationDetent = 'large'
 const DETENTS = [PEEK, HALF, FULL]
@@ -54,11 +58,13 @@ export function ChurchSheet({
   locale,
   filterCount,
   onOpenFilters,
+  onRegionChange,
 }: {
   nearby: MassTimesNearby
   locale: string
   filterCount: number
   onOpenFilters: () => void
+  onRegionChange?: (region: CameraIdle) => void
 }) {
   // One mode at a time: browse/search, a selected church's detail, or the check-in log. A discriminated
   // union (not two booleans) keeps the three exclusive and carries the selected church with the detail.
@@ -72,6 +78,20 @@ export function ChurchSheet({
   }
   const browse = () => setView({ kind: 'browse' })
 
+  // Authoritative coordinates for the map to focus, resolved from the detail query (shares the cache
+  // with the detail pane — no extra round-trip). This makes every selection source recenter the map,
+  // even saved/search rows whose tap payload carries no lat/lng.
+  const detailId = view.kind === 'detail' ? view.church.id : undefined
+  const { data: detailChurch } = useChurch(detailId)
+  const focused =
+    view.kind === 'detail'
+      ? {
+          id: view.church.id,
+          lat: detailChurch?.lat ?? view.church.lat,
+          lng: detailChurch?.lng ?? view.church.lng,
+        }
+      : undefined
+
   return (
     // ignoreSafeArea="all" so the hosted map bleeds edge to edge (through the notch + home indicator)
     // instead of the SwiftUI host insetting it and leaving black bars.
@@ -80,9 +100,10 @@ export function ChurchSheet({
         <View style={styles.fill}>
           <ChurchesMap
             nearby={nearby}
-            focused={view.kind === 'detail' ? view.church : undefined}
-            bottomInset={150}
+            focused={focused}
             onSelectChurch={(c) => openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
+            onDismiss={browse}
+            onRegionChange={onRegionChange}
           />
         </View>
       </RNHostView>
@@ -94,6 +115,9 @@ export function ChurchSheet({
             presentationBackgroundInteraction('enabled'),
             interactiveDismissDisabled(true),
             presentationDragIndicator('visible'),
+            // Let the content fill through the home-indicator safe area instead of stopping above it
+            // and leaving a bare strip of sheet material (the "footer" seam).
+            ignoreSafeArea({ edges: 'bottom' }),
           ]}
         >
           <RNHostView>
@@ -252,89 +276,93 @@ function BrowseSearch({
   const results = search.data ?? []
 
   return (
-    <FlatList
-      style={styles.fill}
-      nestedScrollEnabled
-      keyboardShouldPersistTaps="handled"
-      keyboardDismissMode="on-drag"
-      data={searching ? results : churches}
-      keyExtractor={(c) => c.id}
-      renderItem={({ item }) =>
-        searching ? (
-          <ChurchSearchRow church={item as ChurchRowData} onSelect={onSelectRow} />
-        ) : (
-          <ChurchListItem
-            church={item as NearbyChurch}
-            locale={locale}
-            kind={nearby.kind}
-            onSelect={onSelectNearby}
+    <View style={styles.fill}>
+      {/* Pinned search bar (Apple Maps style): stays put while the list scrolls beneath it, and is all
+          that shows at the peek detent. */}
+      <XStack
+        gap="$sm"
+        alignItems="center"
+        paddingHorizontal={16}
+        paddingTop={16}
+        paddingBottom={12}
+      >
+        <XStack
+          flex={1}
+          backgroundColor={tile}
+          borderRadius="$lg"
+          paddingHorizontal="$md"
+          alignItems="center"
+          gap="$sm"
+        >
+          <Search size={18} color={theme.colorSecondary?.val} />
+          <Input
+            flex={1}
+            value={query}
+            onChangeText={onQuery}
+            onFocus={onFocusSearch}
+            placeholder={t('massTimes.searchPlaceholder')}
+            placeholderTextColor="$colorSecondary"
+            backgroundColor="transparent"
+            borderWidth={0}
+            paddingHorizontal={0}
+            height={44}
+            color="$color"
+            fontFamily="$body"
+            returnKeyType="search"
+            accessibilityLabel={t('massTimes.searchPlaceholder')}
           />
-        )
-      }
-      ItemSeparatorComponent={() => <YStack height="$sm" />}
-      contentContainerStyle={{ paddingHorizontal: 16, paddingBottom: insets.bottom + 32 }}
-      showsVerticalScrollIndicator={false}
-      ListHeaderComponent={
-        <YStack gap="$md" paddingTop="$xs" paddingBottom="$md">
-          <XStack gap="$sm" alignItems="center">
-            <XStack
-              flex={1}
-              backgroundColor={tile}
-              borderRadius="$lg"
-              paddingHorizontal="$md"
-              alignItems="center"
-              gap="$sm"
-            >
-              <Search size={18} color={theme.colorSecondary?.val} />
-              <Input
-                flex={1}
-                value={query}
-                onChangeText={onQuery}
-                onFocus={onFocusSearch}
-                placeholder={t('massTimes.searchPlaceholder')}
-                placeholderTextColor="$colorSecondary"
-                backgroundColor="transparent"
-                borderWidth={0}
-                paddingHorizontal={0}
-                height={44}
-                color="$color"
-                fontFamily="$body"
-                returnKeyType="search"
-                accessibilityLabel={t('massTimes.searchPlaceholder')}
-              />
-              {query.length > 0 ? (
-                <AnimatedPressable
-                  onPress={() => onQuery('')}
-                  hitSlop={8}
-                  accessibilityRole="button"
-                >
-                  <X size={16} color={theme.colorSecondary?.val} />
-                </AnimatedPressable>
-              ) : null}
-            </XStack>
-            <AnimatedPressable
-              onPress={onOpenFilters}
-              accessibilityRole="button"
-              accessibilityLabel={t('massTimes.filters')}
-            >
-              <YStack
-                backgroundColor={tile}
-                borderRadius="$lg"
-                alignItems="center"
-                justifyContent="center"
-                width={42}
-                height={42}
-              >
-                <SlidersHorizontal
-                  size={18}
-                  color={filterCount > 0 ? theme.accent?.val : theme.colorSecondary?.val}
-                />
-              </YStack>
+          {query.length > 0 ? (
+            <AnimatedPressable onPress={() => onQuery('')} hitSlop={8} accessibilityRole="button">
+              <X size={16} color={theme.colorSecondary?.val} />
             </AnimatedPressable>
-          </XStack>
+          ) : null}
+        </XStack>
+        <AnimatedPressable
+          onPress={onOpenFilters}
+          accessibilityRole="button"
+          accessibilityLabel={t('massTimes.filters')}
+        >
+          <YStack
+            backgroundColor={tile}
+            borderRadius="$lg"
+            alignItems="center"
+            justifyContent="center"
+            width={42}
+            height={42}
+          >
+            <SlidersHorizontal
+              size={18}
+              color={filterCount > 0 ? theme.accent?.val : theme.colorSecondary?.val}
+            />
+          </YStack>
+        </AnimatedPressable>
+      </XStack>
 
-          {searching ? null : (
-            <>
+      <FlatList
+        style={styles.fill}
+        nestedScrollEnabled
+        keyboardShouldPersistTaps="handled"
+        keyboardDismissMode="on-drag"
+        data={searching ? results : churches}
+        keyExtractor={(c) => c.id}
+        renderItem={({ item }) =>
+          searching ? (
+            <ChurchSearchRow church={item as ChurchRowData} onSelect={onSelectRow} />
+          ) : (
+            <ChurchListItem
+              church={item as NearbyChurch}
+              locale={locale}
+              kind={nearby.kind}
+              onSelect={onSelectNearby}
+            />
+          )
+        }
+        ItemSeparatorComponent={() => <YStack height="$sm" />}
+        contentContainerStyle={{ paddingHorizontal: 16, paddingBottom: insets.bottom + 24 }}
+        showsVerticalScrollIndicator={false}
+        ListHeaderComponent={
+          searching ? null : (
+            <YStack gap="$sm" paddingBottom="$sm">
               <LocationBar location={nearby.location} />
               <NextMassNearby churches={churches} locale={locale} />
               <SavedChurches onSelect={onSelectRow} />
@@ -364,37 +392,37 @@ function BrowseSearch({
               {churches.length > 0 ? (
                 <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>
               ) : null}
-            </>
-          )}
-        </YStack>
-      }
-      ListEmptyComponent={
-        searching ? (
-          search.isLoading ? (
+            </YStack>
+          )
+        }
+        ListEmptyComponent={
+          searching ? (
+            search.isLoading ? (
+              <YStack gap="$sm">
+                {[0, 1, 2].map((i) => (
+                  <Skeleton key={i} height={72} borderRadius={12} />
+                ))}
+              </YStack>
+            ) : (
+              <YStack paddingTop="$md" alignItems="center">
+                <Typography variant="annotation">{t('massTimes.noResults')}</Typography>
+              </YStack>
+            )
+          ) : nearby.isLoading ? (
             <YStack gap="$sm">
               {[0, 1, 2].map((i) => (
-                <Skeleton key={i} height={72} borderRadius={12} />
+                <Skeleton key={i} height={88} borderRadius={12} />
               ))}
             </YStack>
           ) : (
-            <YStack paddingTop="$md" alignItems="center">
-              <Typography variant="annotation">{t('massTimes.noResults')}</Typography>
+            <YStack gap="$xs" paddingTop="$md" alignItems="center">
+              <Typography variant="interface">{t('massTimes.empty')}</Typography>
+              <Typography variant="annotation">{t('massTimes.emptyHint')}</Typography>
             </YStack>
           )
-        ) : nearby.isLoading ? (
-          <YStack gap="$sm">
-            {[0, 1, 2].map((i) => (
-              <Skeleton key={i} height={88} borderRadius={12} />
-            ))}
-          </YStack>
-        ) : (
-          <YStack gap="$xs" paddingTop="$md" alignItems="center">
-            <Typography variant="interface">{t('massTimes.empty')}</Typography>
-            <Typography variant="annotation">{t('massTimes.emptyHint')}</Typography>
-          </YStack>
-        )
-      }
-    />
+        }
+      />
+    </View>
   )
 }
 

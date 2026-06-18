@@ -33,7 +33,7 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
       <YStack gap="$xs">
         <XStack justifyContent="space-between" alignItems="flex-start" gap="$md">
           <Typography variant="sacred-title" fontSize={26} textAlign="left" flexShrink={1}>
-            {data.name}
+            {data.longName ?? data.name}
           </Typography>
           <FavoriteButton
             church={{

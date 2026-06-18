@@ -1,6 +1,8 @@
 export {
+  type Bbox,
   type ChurchDetail,
   fetchChurch,
+  fetchChurchesInBbox,
   fetchNearbyChurches,
   type NearbyChurch,
   type NearbyParams,
@@ -10,6 +12,7 @@ export {
 } from './client'
 export {
   useChurch,
+  useChurchesInBbox,
   useChurchSearch,
   useNearbyChurches,
   useSubmitCorrection,
