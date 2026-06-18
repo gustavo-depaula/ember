@@ -40,8 +40,8 @@ const prior = priorPath ? readJsonl<IdMapping>(priorPath) : []
 const rows = buildRows(dump, prior)
 writeFileSync(outputPath, rowsToSql(rows, { upsert }))
 
-const total = rows.churches.length + rows.services.length + rows.texts.length + rows.links.length
-process.stdout.write(`Wrote ${total} rows (${rows.churches.length} churches) → ${outputPath}\n`)
+// One row per church now — services/texts/links are embedded JSON columns on it.
+process.stdout.write(`Wrote ${rows.churches.length} church rows → ${outputPath}\n`)
 
 if (rows.mapping.length) {
   writeFileSync(mappingPath, mappingToJsonl(rows.mapping))
