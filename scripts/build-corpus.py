@@ -24,11 +24,13 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import re
 import shutil
 import sys
 import time
 from datetime import datetime, timezone
+from multiprocessing import Pool
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -550,6 +552,14 @@ def build_search_index_for_book(
         # stem -> { chapter_idx: count }
         postings: dict[str, dict[int, int]] = {}
 
+        # Surface form -> kept stem, or "" when the token is filtered out
+        # (min-length or stopword). The pure-Python Snowball stemmer runs at
+        # ~78K calls/sec, and the corpus has tens of millions of token
+        # occurrences but only a small unique vocabulary — memoizing collapses
+        # the per-occurrence cost to a dict lookup. "" is a safe skip marker
+        # because every kept stem is >= 2 chars.
+        stem_cache: dict[str, str] = {}
+
         for cid in chapter_ids:
             raw_bytes, is_html = chapter_sources[cid][lang]
             try:
@@ -560,8 +570,12 @@ def build_search_index_for_book(
             ci = chapter_idx_of[cid]
             for match in _TOKEN_RE.finditer(text):
                 surface = match.group(0).lower()
-                stem = stemmer.stemWord(surface) if stemmer else surface
-                if len(stem) < 2 or stem in stopwords:
+                stem = stem_cache.get(surface)
+                if stem is None:
+                    s = stemmer.stemWord(surface) if stemmer else surface
+                    stem = "" if (len(s) < 2 or s in stopwords) else s
+                    stem_cache[surface] = stem
+                if not stem:
                     continue
                 bucket = postings.setdefault(stem, {})
                 bucket[ci] = bucket.get(ci, 0) + 1
@@ -589,6 +603,24 @@ def build_search_index_for_book(
     return indexes
 
 
+def _build_book_index_worker(
+    job: tuple[str, dict[str, dict[str, dict]], dict[str, dict[str, tuple[str, bool]]]],
+) -> tuple[str, dict[str, dict]]:
+    """Pool worker: re-read a book's chapter files and build its search index.
+
+    Only file paths cross the process boundary (not the ~600MB of chapter
+    bytes), so each worker reads its own chapters from disk. The search index
+    is a pure function of the chapter text, so workers never touch the shared
+    Builder — index blobs are written back on the main process.
+    """
+    bid, chapters_by_lang, chapter_paths = job
+    chapter_sources: dict[str, dict[str, tuple[bytes, bool]]] = {}
+    for cid, per in chapter_paths.items():
+        for lang, (path_str, is_html) in per.items():
+            chapter_sources.setdefault(cid, {})[lang] = (Path(path_str).read_bytes(), is_html)
+    return bid, build_search_index_for_book(chapters_by_lang, chapter_sources)
+
+
 def build_books(b: Builder) -> None:
     src = CONTENT / "books"
     if not src.is_dir():
@@ -599,10 +631,15 @@ def build_books(b: Builder) -> None:
         sh, ss = b.write_blob(book_css.read_bytes())
         style_entry = {"hash": sh, "size": ss}
 
+    # First pass (sequential): read + hash every chapter/image blob into the
+    # shared Builder and collect per-book data. Search indexing is deferred so
+    # it can run across a process pool (it dominates build time).
+    #
     # book.json may live at any depth under content/books/ — a parent like
     # content/books/aquinas-opera-omnia/ has no book.json of its own, only its
     # leaf children do. Corpus id comes from meta["id"], so physical nesting
     # never changes catalog ids.
+    pending: list[dict] = []
     for book_meta_path in sorted(src.rglob("book.json")):
         d = book_meta_path.parent
         with book_meta_path.open(encoding="utf-8") as fh:
@@ -610,22 +647,20 @@ def build_books(b: Builder) -> None:
         bid = meta.get("id") or d.name
 
         chapters_by_lang: dict[str, dict[str, dict]] = {}
-        chapter_sources: dict[str, dict[str, tuple[bytes, bool]]] = {}
+        chapter_paths: dict[str, dict[str, tuple[str, bool]]] = {}
         for sub in sorted(d.iterdir()):
             if sub.is_dir() and sub.name not in {"images", "fonts"} and not (sub / "book.json").is_file():
                 lang = sub.name
                 for ff in sorted(sub.glob("*.md")):
                     chap_id = ff.stem
-                    raw = ff.read_bytes()
-                    bh, bs = b.write_blob(raw)
+                    bh, bs = b.write_blob(ff.read_bytes())
                     chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs}
-                    chapter_sources.setdefault(chap_id, {})[lang] = (raw, False)
+                    chapter_paths.setdefault(chap_id, {})[lang] = (str(ff), False)
                 for ff in sorted(sub.glob("*.html")):
                     chap_id = ff.stem
-                    raw = ff.read_bytes()
-                    bh, bs = b.write_blob(raw)
+                    bh, bs = b.write_blob(ff.read_bytes())
                     chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs, "format": "html"}
-                    chapter_sources.setdefault(chap_id, {})[lang] = (raw, True)
+                    chapter_paths.setdefault(chap_id, {})[lang] = (str(ff), True)
 
         images = []
         img_dir = d / "images"
@@ -636,18 +671,49 @@ def build_books(b: Builder) -> None:
                     ih, isize = b.write_blob(ff.read_bytes())
                     images.append({"rel": rel, "hash": ih, "size": isize, "mime": _mime_for(ff)})
 
-        search_index_refs: dict[str, dict] = {}
-        if chapters_by_lang:
-            indexes = build_search_index_for_book(chapters_by_lang, chapter_sources)
-            for lang, index in indexes.items():
-                sih, sis = b.write_json_blob(index)
-                search_index_refs[lang] = {"hash": sih, "size": sis}
+        pending.append({
+            "bid": bid,
+            "meta": meta,
+            "chapters_by_lang": chapters_by_lang,
+            "chapter_paths": chapter_paths,
+            "images": images,
+        })
 
-        item_manifest = {**meta, "id": f"book/{bid}", "chapters": chapters_by_lang}
+    # Build search indexes in parallel — each book is independent. Results are
+    # collected into a dict and consumed below in deterministic book order, so
+    # blob/catalog output is identical regardless of worker completion order.
+    jobs = [
+        (p["bid"], p["chapters_by_lang"], p["chapter_paths"])
+        for p in pending
+        if p["chapters_by_lang"]
+    ]
+    indexes_by_bid: dict[str, dict[str, dict]] = {}
+    if jobs:
+        workers = min(len(jobs), os.cpu_count() or 1)
+        if workers > 1:
+            with Pool(processes=workers) as pool:
+                for bid, indexes in pool.imap_unordered(_build_book_index_worker, jobs):
+                    indexes_by_bid[bid] = indexes
+        else:
+            for job in jobs:
+                bid, indexes = _build_book_index_worker(job)
+                indexes_by_bid[bid] = indexes
+
+    # Second pass (sequential): write index blobs + manifests + catalog entries.
+    for p in pending:
+        bid = p["bid"]
+        meta = p["meta"]
+
+        search_index_refs: dict[str, dict] = {}
+        for lang, index in indexes_by_bid.get(bid, {}).items():
+            sih, sis = b.write_json_blob(index)
+            search_index_refs[lang] = {"hash": sih, "size": sis}
+
+        item_manifest = {**meta, "id": f"book/{bid}", "chapters": p["chapters_by_lang"]}
         if style_entry:
             item_manifest["style"] = style_entry
-        if images:
-            item_manifest["images"] = images
+        if p["images"]:
+            item_manifest["images"] = p["images"]
         if search_index_refs:
             item_manifest["searchIndex"] = search_index_refs
 
