@@ -643,8 +643,8 @@
           "id": "giorno-071",
           "title": {
             "it": "Il battesimo",
-            "en-US": "The Precursor",
-            "pt-BR": "O Precursor"
+            "en-US": "Baptism",
+            "pt-BR": "O Batismo"
           }
         },
         {
@@ -829,64 +829,64 @@
           "id": "giorno-093",
           "title": {
             "it": "Con Gesù crocifisso",
-            "en-US": "Ashes",
-            "pt-BR": "As Cinzas"
+            "en-US": "With Jesus Crucified",
+            "pt-BR": "Com Jesus Crucificado"
           }
         },
         {
           "id": "giorno-094",
           "title": {
             "it": "Le Ceneri",
-            "en-US": "Death",
-            "pt-BR": "A Morte"
+            "en-US": "Ashes",
+            "pt-BR": "As Cinzas"
           }
         },
         {
           "id": "giorno-095",
           "title": {
             "it": "La morte",
-            "en-US": "Proof of Love",
-            "pt-BR": "Prova de Amor"
+            "en-US": "Death",
+            "pt-BR": "A Morte"
           }
         },
         {
           "id": "giorno-096",
           "title": {
             "it": "Prova di amore",
-            "en-US": "The Spirit of Mortification",
-            "pt-BR": "O Espírito de Mortificação"
+            "en-US": "Proof of Love",
+            "pt-BR": "Prova de Amor"
           }
         },
         {
           "id": "giorno-097",
           "title": {
             "it": "Lo spirito di mortificazione",
-            "en-US": "Conversion",
-            "pt-BR": "A Conversão"
+            "en-US": "The Spirit of Mortification",
+            "pt-BR": "O Espírito de Mortificação"
           }
         },
         {
           "id": "giorno-098",
           "title": {
             "it": "La grande lotta (I dom. di Quaresima)",
-            "en-US": "Sin",
-            "pt-BR": "O Pecado"
+            "en-US": "The Great Battle",
+            "pt-BR": "A Grande Luta"
           }
         },
         {
           "id": "giorno-099",
           "title": {
             "it": "La conversione",
-            "en-US": "Venial Sin",
-            "pt-BR": "O Pecado Venial"
+            "en-US": "Conversion",
+            "pt-BR": "A Conversão"
           }
         },
         {
           "id": "giorno-100",
           "title": {
             "it": "Il peccato",
-            "en-US": "Imperfection",
-            "pt-BR": "A Imperfeição"
+            "en-US": "Sin",
+            "pt-BR": "O Pecado"
           }
         },
         {
@@ -1053,7 +1053,7 @@
           "id": "giorno-121",
           "title": {
             "it": "Vieni e seguimi",
-            "en-US": "Venial Sin",
+            "en-US": "Come and Follow Me",
             "pt-BR": "Vem e Segue-me"
           }
         },
@@ -1061,7 +1061,7 @@
           "id": "giorno-122",
           "title": {
             "it": "Libera immolazione della libertà",
-            "en-US": "Imperfection",
+            "en-US": "Free Immolation of Liberty",
             "pt-BR": "Livre Imolação da Liberdade"
           }
         },
@@ -1069,136 +1069,136 @@
           "id": "giorno-123",
           "title": {
             "it": "Obbedienza soprannaturale",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "Supernatural Obedience",
+            "pt-BR": "Obediência Sobrenatural"
           }
         },
         {
           "id": "giorno-124",
           "title": {
             "it": "Obbedienza cieca",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "Blind Obedience",
+            "pt-BR": "Obediência Cega"
           }
         },
         {
           "id": "giorno-125",
           "title": {
             "it": "Difficoltà dell'obbedienza",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "Difficulties of Obedience",
+            "pt-BR": "Dificuldades da Obediência"
           }
         },
         {
           "id": "giorno-126",
           "title": {
             "it": "Gesù perseguitato (dom. di Passione)",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "Jesus Persecuted",
+            "pt-BR": "Jesus Perseguido"
           }
         },
         {
           "id": "giorno-127",
           "title": {
             "it": "Il valore della sofferenza",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "The Value of Suffering",
+            "pt-BR": "O Valor do Sofrimento"
           }
         },
         {
           "id": "giorno-128",
           "title": {
             "it": "La pazienza",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "Patience",
+            "pt-BR": "A Paciência"
           }
         },
         {
           "id": "giorno-129",
           "title": {
             "it": "La croce quotidiana",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "The Daily Cross",
+            "pt-BR": "A Cruz Cotidiana"
           }
         },
         {
           "id": "giorno-130",
           "title": {
             "it": "Sofferenza e abbandono",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "Suffering and Abandonment",
+            "pt-BR": "Sofrimento e Abandono"
           }
         },
         {
           "id": "giorno-131",
           "title": {
             "it": "I sette dolori di Maria (venerdì della sett. di Passione)",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "The Seven Sorrows of Mary",
+            "pt-BR": "As Sete Dores de Maria"
           }
         },
         {
           "id": "giorno-132",
           "title": {
             "it": "L'amore alla croce",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "Love for the Cross",
+            "pt-BR": "O Amor à Cruz"
           }
         },
         {
           "id": "giorno-133",
           "title": {
             "it": "Il trionfo di Gesù (domenica delle Palme)",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "The Triumph of Jesus",
+            "pt-BR": "O Triunfo de Jesus"
           }
         },
         {
           "id": "giorno-134",
           "title": {
             "it": "La cena di Betania (lunedì santo)",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "The Supper at Bethany",
+            "pt-BR": "A Ceia de Betânia"
           }
         },
         {
           "id": "giorno-135",
           "title": {
             "it": "L'Agnello mansueto (martedì santo)",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "The Meek Lamb",
+            "pt-BR": "O Cordeiro Manso"
           }
         },
         {
           "id": "giorno-136",
           "title": {
             "it": "L'Uomo dei dolori (mercoledì santo)",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "The Man of Sorrows",
+            "pt-BR": "O Homem das Dores"
           }
         },
         {
           "id": "giorno-137",
           "title": {
             "it": "Il dono dell'amore (giovedì santo)",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "The Gift of Love",
+            "pt-BR": "O Dom do Amor"
           }
         },
         {
           "id": "giorno-138",
           "title": {
             "it": "Il mistero della Croce (venerdì santo)",
-            "en-US": "Imperfection",
-            "pt-BR": "Livre Imolação da Liberdade"
+            "en-US": "The Mystery of the Cross",
+            "pt-BR": "O Mistério da Cruz"
           }
         },
         {
           "id": "giorno-139",
           "title": {
             "it": "La vittoria della Croce (sabato santo)",
-            "en-US": "Venial Sin",
-            "pt-BR": "Vem e Segue-me"
+            "en-US": "The Victory of the Cross",
+            "pt-BR": "A Vitória da Cruz"
           }
         }
       ]
@@ -1289,8 +1289,8 @@
           "id": "giorno-144",
           "title": {
             "it": "Dio invita tutti",
-            "en-US": "V — Whom Do You Seek? (Easter Tuesday)",
-            "pt-BR": "V — a Quem Procuras? (terça-feira de Páscoa)"
+            "en-US": "God Invites All",
+            "pt-BR": "Deus Convida a Todos"
           }
         },
         {
@@ -1321,8 +1321,8 @@
           "id": "giorno-148",
           "title": {
             "it": "La preghiera vocale",
-            "en-US": "Ix — Easter Fruits (Low Sunday)",
-            "pt-BR": "Ix — Frutos Pascais (domingo In Albis)"
+            "en-US": "Vocal Prayer",
+            "pt-BR": "A Oração Vocal"
           }
         },
         {
@@ -1345,8 +1345,8 @@
           "id": "giorno-151",
           "title": {
             "it": "Il tratto intimo con Dio",
-            "en-US": "Xii — Prayer of Recollection",
-            "pt-BR": "Xii — Oração de Recolhimento"
+            "en-US": "Intimate Intercourse with God",
+            "pt-BR": "O Trato Íntimo com Deus"
           }
         },
         {
@@ -1361,8 +1361,8 @@
           "id": "giorno-153",
           "title": {
             "it": "L'aridità",
-            "en-US": "Xiv — Resolute Determination",
-            "pt-BR": "Xiv — Decisão Resoluta"
+            "en-US": "Aridity",
+            "pt-BR": "A Aridez"
           }
         },
         {
@@ -1409,8 +1409,8 @@
           "id": "giorno-159",
           "title": {
             "it": "Attenzione amorosa a Dio",
-            "en-US": "Xx — Practice of the Presence of God",
-            "pt-BR": "Xx — Exercício da Presença de Deus"
+            "en-US": "Loving Attention to God",
+            "pt-BR": "Atenção Amorosa a Deus"
           }
         },
         {
@@ -1473,8 +1473,8 @@
           "id": "giorno-167",
           "title": {
             "it": "Partecipare alla S. Messa",
-            "en-US": "Xxviii — Mother of God",
-            "pt-BR": "Xxviii — Mãe de Deus"
+            "en-US": "Participating in Holy Mass",
+            "pt-BR": "Participar na S. Missa"
           }
         },
         {
@@ -1497,8 +1497,8 @@
           "id": "giorno-170",
           "title": {
             "it": "Maria guida e modello",
-            "en-US": "I — Marian Life",
-            "pt-BR": "I — Vida Mariana"
+            "en-US": "Mary as Guide and Model",
+            "pt-BR": "Maria Guia e Modelo"
           }
         },
         {
@@ -2277,144 +2277,144 @@
           "id": "giorno-265",
           "title": {
             "it": "La misura della carità fraterna",
-            "en-US": "The New Commandment",
-            "pt-BR": "O Mandamento Novo"
+            "en-US": "The Measure of Fraternal Charity",
+            "pt-BR": "A Medida da Caridade Fraterna"
           }
         },
         {
           "id": "giorno-266",
           "title": {
             "it": "Il comandamento nuovo",
-            "en-US": "Do Not Judge",
-            "pt-BR": "Não Julgueis"
+            "en-US": "The New Commandment",
+            "pt-BR": "O Mandamento Novo"
           }
         },
         {
           "id": "giorno-267",
           "title": {
             "it": "Non giudicate",
-            "en-US": "The Grace of Baptism (XI Sunday after Pentecost)",
-            "pt-BR": "A Graça do Batismo (XI Domingo Depois de Pentecostes)"
+            "en-US": "Do Not Judge",
+            "pt-BR": "Não Julgueis"
           }
         },
         {
           "id": "giorno-268",
           "title": {
             "it": "La grazia del Battesimo (XI Dom. dopo Pentecoste)",
-            "en-US": "Be Merciful",
-            "pt-BR": "Sede Misericordiosos"
+            "en-US": "The Grace of Baptism",
+            "pt-BR": "A Graça do Batismo"
           }
         },
         {
           "id": "giorno-269",
           "title": {
             "it": "Siate misericordiosi",
-            "en-US": "The Mantle of Charity",
-            "pt-BR": "O Manto da Caridade"
+            "en-US": "Be Merciful",
+            "pt-BR": "Sede Misericordiosos"
           }
         },
         {
           "id": "giorno-270",
           "title": {
             "it": "Il manto della carità",
-            "en-US": "Bear One Another's Burdens",
-            "pt-BR": "Levar uns os Fardos dos Outros"
+            "en-US": "The Mantle of Charity",
+            "pt-BR": "O Manto da Caridade"
           }
         },
         {
           "id": "giorno-271",
           "title": {
             "it": "Portare gli uni i pesi degli altri",
-            "en-US": "Charity Is Not Selfish",
-            "pt-BR": "A Caridade Não É Egoísta"
+            "en-US": "Bear One Another's Burdens",
+            "pt-BR": "Levar Uns os Fardos dos Outros"
           }
         },
         {
           "id": "giorno-272",
           "title": {
             "it": "La carità non è egoista",
-            "en-US": "Charity Adapts to Everything",
-            "pt-BR": "A Caridade Acomoda-se a Tudo"
+            "en-US": "Charity Is Not Selfish",
+            "pt-BR": "A Caridade Não É Egoísta"
           }
         },
         {
           "id": "giorno-273",
           "title": {
             "it": "La carità si accomoda a tutto",
-            "en-US": "Gentleness",
-            "pt-BR": "A Doçura"
+            "en-US": "Charity Adapts to Everything",
+            "pt-BR": "A Caridade Acomoda-se a Tudo"
           }
         },
         {
           "id": "giorno-274",
           "title": {
             "it": "La dolcezza",
-            "en-US": "The Good Samaritan (XII Sunday after Pentecost)",
-            "pt-BR": "O Bom Samaritano (XII Domingo Depois de Pentecostes)"
+            "en-US": "Gentleness",
+            "pt-BR": "A Doçura"
           }
         },
         {
           "id": "giorno-275",
           "title": {
             "it": "Il buon samaritano (XII Dom. dopo Pentecoste)",
-            "en-US": "The Assumption of Mary",
-            "pt-BR": "A Assunção de Maria"
+            "en-US": "The Good Samaritan",
+            "pt-BR": "O Bom Samaritano"
           }
         },
         {
           "id": "giorno-276",
           "title": {
             "it": "L'Assunzione di Maria",
-            "en-US": "Love of Neighbor and Love of God",
-            "pt-BR": "Amor do Próximo e Amor de Deus"
+            "en-US": "The Assumption of Mary",
+            "pt-BR": "A Assunção de Maria"
           }
         },
         {
           "id": "giorno-277",
           "title": {
             "it": "Amore del prossimo e amore di Dio",
-            "en-US": "Prudence",
-            "pt-BR": "A Prudência"
+            "en-US": "Love of Neighbor and Love of God",
+            "pt-BR": "Amor do Próximo e Amor de Deus"
           }
         },
         {
           "id": "giorno-278",
           "title": {
             "it": "La prudenza",
-            "en-US": "Prudent Judgment",
-            "pt-BR": "O Juízo Prudente"
+            "en-US": "Prudence",
+            "pt-BR": "A Prudência"
           }
         },
         {
           "id": "giorno-279",
           "title": {
             "it": "Il giudizio prudente",
-            "en-US": "Prudence and Rectitude",
-            "pt-BR": "Prudência e Retidão"
+            "en-US": "Prudent Judgment",
+            "pt-BR": "O Juízo Prudente"
           }
         },
         {
           "id": "giorno-280",
           "title": {
             "it": "Prudenza e rettitudine",
-            "en-US": "Diligence",
-            "pt-BR": "A Diligência"
+            "en-US": "Prudence and Rectitude",
+            "pt-BR": "Prudência e Retidão"
           }
         },
         {
           "id": "giorno-281",
           "title": {
             "it": "La diligenza",
-            "en-US": "The Ten Lepers (XII Sunday after Pentecost)",
-            "pt-BR": "Os Dez Leprosos (XII Domingo Depois de Pentecostes)"
+            "en-US": "Diligence",
+            "pt-BR": "A Diligência"
           }
         },
         {
           "id": "giorno-282",
           "title": {
             "it": "I dieci lebbrosi (XIII Dom. dopo Pentecoste)",
-            "en-US": "Justice",
-            "pt-BR": "A Justiça"
+            "en-US": "The Ten Lepers",
+            "pt-BR": "Os Dez Leprosos"
           }
         },
         {
@@ -2437,112 +2437,112 @@
           "id": "giorno-285",
           "title": {
             "it": "La giustizia perfetta",
-            "en-US": "Piety and Devotion",
-            "pt-BR": "Piedade e Devoção"
+            "en-US": "Perfect Justice",
+            "pt-BR": "A Justiça Perfeita"
           }
         },
         {
           "id": "giorno-286",
           "title": {
             "it": "Giustizia e religione",
-            "en-US": "Gratitude",
-            "pt-BR": "A Gratidão"
+            "en-US": "Justice and Religion",
+            "pt-BR": "Justiça e Religião"
           }
         },
         {
           "id": "giorno-287",
           "title": {
             "it": "Pietà e devozione",
-            "en-US": "The Two Kingdoms (XIV Sunday after Pentecost)",
-            "pt-BR": "Os Dois Reinos (XIV Domingo Depois de Pentecostes)"
+            "en-US": "Piety and Devotion",
+            "pt-BR": "Piedade e Devoção"
           }
         },
         {
           "id": "giorno-288",
           "title": {
             "it": "La gratitudine",
-            "en-US": "Sincerity",
-            "pt-BR": "A Sinceridade"
+            "en-US": "Gratitude",
+            "pt-BR": "A Gratidão"
           }
         },
         {
           "id": "giorno-289",
           "title": {
             "it": "I due regni (XIV Dom. dopo Pentecoste)",
-            "en-US": "Simplicity",
-            "pt-BR": "A Simplicidade"
+            "en-US": "The Two Kingdoms",
+            "pt-BR": "Os Dois Reinos"
           }
         },
         {
           "id": "giorno-290",
           "title": {
             "it": "La sincerità",
-            "en-US": "Fortitude",
-            "pt-BR": "A Fortaleza"
+            "en-US": "Sincerity",
+            "pt-BR": "A Sinceridade"
           }
         },
         {
           "id": "giorno-291",
           "title": {
             "it": "La semplicità",
-            "en-US": "Courage",
-            "pt-BR": "A Coragem"
+            "en-US": "Simplicity",
+            "pt-BR": "A Simplicidade"
           }
         },
         {
           "id": "giorno-292",
           "title": {
             "it": "La fortezza",
-            "en-US": "Magnanimity",
-            "pt-BR": "A Magnanimidade"
+            "en-US": "Fortitude",
+            "pt-BR": "A Fortaleza"
           }
         },
         {
           "id": "giorno-293",
           "title": {
             "it": "Il coraggio",
-            "en-US": "Generosity",
-            "pt-BR": "A Generosidade"
+            "en-US": "Courage",
+            "pt-BR": "A Coragem"
           }
         },
         {
           "id": "giorno-294",
           "title": {
             "it": "La magnanimità",
-            "en-US": "Jesus, Our Life (Fifteenth Sunday after Pentecost)",
-            "pt-BR": "Jesus, Nossa Vida (XV Domingo Depois de Pentecostes)"
+            "en-US": "Magnanimity",
+            "pt-BR": "A Magnanimidade"
           }
         },
         {
           "id": "giorno-295",
           "title": {
             "it": "La generosità",
-            "en-US": "Fortitude and Patience",
-            "pt-BR": "Fortaleza e Paciência"
+            "en-US": "Generosity",
+            "pt-BR": "A Generosidade"
           }
         },
         {
           "id": "giorno-296",
           "title": {
             "it": "Gesù vita nostra (XV Dom. dopo Pentecoste)",
-            "en-US": "The Exercise of Patience",
-            "pt-BR": "O Exercício da Paciência"
+            "en-US": "Jesus, Our Life",
+            "pt-BR": "Jesus, Nossa Vida"
           }
         },
         {
           "id": "giorno-297",
           "title": {
             "it": "Fortezza e pazienza",
-            "en-US": "Perseverance",
-            "pt-BR": "A Perseverança"
+            "en-US": "Fortitude and Patience",
+            "pt-BR": "Fortaleza e Paciência"
           }
         },
         {
           "id": "giorno-298",
           "title": {
             "it": "L'esercizio della pazienza",
-            "en-US": "The Nativity of the Blessed Virgin Mary",
-            "pt-BR": "A Natividade de Maria Santíssima"
+            "en-US": "The Exercise of Patience",
+            "pt-BR": "O Exercício da Paciência"
           }
         },
         {
@@ -2557,8 +2557,8 @@
           "id": "giorno-300",
           "title": {
             "it": "La Natività di Maria Santissima",
-            "en-US": "Temperance",
-            "pt-BR": "A Temperança"
+            "en-US": "The Nativity of the Blessed Virgin Mary",
+            "pt-BR": "A Natividade de Maria Santíssima"
           }
         },
         {
@@ -2975,136 +2975,136 @@
           "id": "giorno-351",
           "title": {
             "it": "L'unione con Dio",
-            "en-US": "The Savior Has Appeared (December 25)",
-            "pt-BR": "Apareceu o Salvador (25 Dezembro)"
+            "en-US": "Union with God",
+            "pt-BR": "A União com Deus"
           }
         },
         {
           "id": "giorno-352",
           "title": {
             "it": "La via dell'unione",
-            "en-US": "Believe in Love (December 26)",
-            "pt-BR": "Crer no Amor (26 Dezembro)"
+            "en-US": "The Way of Union",
+            "pt-BR": "O Caminho da União"
           }
         },
         {
           "id": "giorno-353",
           "title": {
             "it": "La notte dello spirito",
-            "en-US": "Repay Love (December 27)",
-            "pt-BR": "Retribuir o Amor (27 Dezembro)"
+            "en-US": "The Night of the Spirit",
+            "pt-BR": "A Noite do Espírito"
           }
         },
         {
           "id": "giorno-354",
           "title": {
             "it": "L'amore purificante",
-            "en-US": "Glory to God (December 28)",
-            "pt-BR": "Glória a Deus (28 Dezembro)"
+            "en-US": "Purifying Love",
+            "pt-BR": "O Amor Purificante"
           }
         },
         {
           "id": "giorno-355",
           "title": {
             "it": "Verso una completa purificazione",
-            "en-US": "Peace to Men (December 29)",
-            "pt-BR": "Paz Aos Homens (29 Dezembro)"
+            "en-US": "Toward a Complete Purification",
+            "pt-BR": "Rumo a Uma Purificação Completa"
           }
         },
         {
           "id": "giorno-356",
           "title": {
             "it": "Disegni di pace e di amore (XXIII dom. dopo Pentecoste)",
-            "en-US": "A Sign of Contradiction (Sunday within the octave of the Nativity)",
-            "pt-BR": "Sinal de Contradição (domingo entre a Oitava da Natividade)"
+            "en-US": "Designs of Peace and Love",
+            "pt-BR": "Desígnios de Paz e Amor"
           }
         },
         {
           "id": "giorno-357",
           "title": {
             "it": "Purificazione passiva",
-            "en-US": "Let Us Trade with Time (December 31)",
-            "pt-BR": "Negociemos o Tempo (31 Dezembro)"
+            "en-US": "Passive Purification",
+            "pt-BR": "Purificação Passiva"
           }
         },
         {
           "id": "giorno-358",
           "title": {
             "it": "Prove interiori",
-            "en-US": "The Circumcision of the Lord (January 1)",
-            "pt-BR": "A Circuncisão do Senhor (1 Janeiro)"
+            "en-US": "Interior Trials",
+            "pt-BR": "Provas Interiores"
           }
         },
         {
           "id": "giorno-359",
           "title": {
             "it": "Angosce e tenebre",
-            "en-US": "The Name of Jesus (January 2)",
-            "pt-BR": "O Nome de Jesus (2 Janeiro)"
+            "en-US": "Anguish and Darkness",
+            "pt-BR": "Angústias e Trevas"
           }
         },
         {
           "id": "giorno-360",
           "title": {
             "it": "Fiducia e abbandono",
-            "en-US": "Jesus Mediator (January 3)",
-            "pt-BR": "Jesus Mediador (3 Janeiro)"
+            "en-US": "Trust and Abandonment",
+            "pt-BR": "Confiança e Abandono"
           }
         },
         {
           "id": "giorno-361",
           "title": {
             "it": "Lo sviluppo dell'amore",
-            "en-US": "Jesus Firstborn of All Creatures (January 4)",
-            "pt-BR": "Jesus Primogênito de Todas as Criaturas (4 Janeiro)"
+            "en-US": "The Development of Love",
+            "pt-BR": "O Desenvolvimento do Amor"
           }
         },
         {
           "id": "giorno-362",
           "title": {
             "it": "Amore estimativo",
-            "en-US": "Jesus Universal King (January 5)",
-            "pt-BR": "Jesus Rei Universal (5 Janeiro)"
+            "en-US": "Estimative Love",
+            "pt-BR": "Amor Estimativo"
           }
         },
         {
           "id": "giorno-363",
           "title": {
             "it": "Il granello di senapa (XXIV dom. dopo Pentecoste – VI dopo l'Epifania)",
-            "en-US": "Epiphany (January 6)",
-            "pt-BR": "Epifania (6 Janeiro)"
+            "en-US": "The Mustard Seed",
+            "pt-BR": "O Grão de Mostarda"
           }
         },
         {
           "id": "giorno-364",
           "title": {
             "it": "Amore ardito ed impaziente",
-            "en-US": "The Holy Family (First Sunday after Epiphany)",
-            "pt-BR": "A Sagrada Família (i Domingo Depois da Epifania)"
+            "en-US": "Bold and Impatient Love",
+            "pt-BR": "Amor Audaz e Impaciente"
           }
         },
         {
           "id": "giorno-365",
           "title": {
             "it": "Amore umile e riverente",
-            "en-US": "Jesus True Vine",
-            "pt-BR": "Jesus Videira Verdadeira"
+            "en-US": "Humble and Reverent Love",
+            "pt-BR": "Amor Humilde e Reverente"
           }
         },
         {
           "id": "giorno-366",
           "title": {
             "it": "Amore operoso e forte",
-            "en-US": "The Mystical Body of Christ",
-            "pt-BR": "O Corpo Místico de Cristo"
+            "en-US": "Laborious and Strong Love",
+            "pt-BR": "Amor Ativo e Forte"
           }
         },
         {
           "id": "giorno-367",
           "title": {
             "it": "Amore unitivo",
-            "en-US": "\"i Am the Life\"",
-            "pt-BR": "\"eu Sou a Vida\""
+            "en-US": "Unitive Love",
+            "pt-BR": "Amor Unitivo"
           }
         },
         {
