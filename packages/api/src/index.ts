@@ -20,11 +20,8 @@ export {
   type ChurchText,
   type Correction,
   church,
-  churchLink,
-  churchText,
   correction,
   type Service,
-  service,
   type VerificationEvent,
   verificationEvent,
 } from './schema'

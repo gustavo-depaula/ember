@@ -6,7 +6,7 @@ import { resetTables } from './helpers'
 const churchId = 'st-mary-a'
 
 async function reset() {
-  await resetTables('service', 'verification_event', 'correction', 'attachment', 'church')
+  await resetTables('verification_event', 'correction', 'attachment', 'church')
   await env.DB.prepare(
     'INSERT INTO church (id, name, lat, lng, geohash, timezone) VALUES (?, ?, ?, ?, ?, ?)',
   )

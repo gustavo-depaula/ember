@@ -1,5 +1,5 @@
-import type { Church, Service } from '@ember/api'
-import { church, churchLink, churchText, service, verificationEvent } from '@ember/api'
+import type { Church } from '@ember/api'
+import { church, verificationEvent } from '@ember/api'
 import { and, desc, eq, inArray, sql } from 'drizzle-orm'
 import type { Db } from '../../db'
 import type { Bbox } from '../../lib/geo'
@@ -25,36 +25,9 @@ export function churchesInGeohashRanges(
     .where(and(...conds))
 }
 
-export function servicesForChurches(
-  db: Db,
-  churchIds: string[],
-  filters: { kind?: string; rite?: string },
-): Promise<Service[]> {
-  if (churchIds.length === 0) return Promise.resolve([])
-  const conds = [inArray(service.churchId, churchIds)]
-  if (filters.kind) conds.push(eq(service.kind, filters.kind))
-  if (filters.rite) conds.push(eq(service.rite, filters.rite))
-  return db
-    .select()
-    .from(service)
-    .where(and(...conds))
-}
-
 export async function churchById(db: Db, id: string): Promise<Church | undefined> {
   const rows = await db.select().from(church).where(eq(church.id, id)).limit(1)
   return rows[0]
-}
-
-export function servicesForChurch(db: Db, churchId: string): Promise<Service[]> {
-  return db.select().from(service).where(eq(service.churchId, churchId))
-}
-
-export function textsForChurch(db: Db, churchId: string) {
-  return db.select().from(churchText).where(eq(churchText.churchId, churchId))
-}
-
-export function linksForChurch(db: Db, churchId: string) {
-  return db.select().from(churchLink).where(eq(churchLink.churchId, churchId))
 }
 
 export function verificationsForChurch(

@@ -18,7 +18,11 @@ export type ExpandOptions = {
   count?: number // max occurrences to return; defaults to 10. Always bounded — never expand infinitely
 }
 
-type RRuleSource = Pick<Service, 'rrule' | 'startTime' | 'exdate' | 'rdate'>
+// exdate/rdate accept null too, so a row read straight from D1 (or a test) drops in unchanged.
+type RRuleSource = Pick<Service, 'rrule' | 'startTime'> & {
+  exdate?: string | null
+  rdate?: string | null
+}
 
 export function expandService(service: RRuleSource, options: ExpandOptions = {}): Occurrence[] {
   const { from = new Date(), count = 10 } = options
@@ -47,7 +51,7 @@ function buildRuleSet(service: RRuleSource, from: Date): RRuleSet {
 }
 
 // exdate/rdate are stored as a comma-separated list of 'YYYY-MM-DD' (or full ISO) dates.
-function parseDateList(value: string | null): Date[] {
+function parseDateList(value: string | null | undefined): Date[] {
   if (!value) return []
   return value
     .split(',')

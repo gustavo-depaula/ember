@@ -13,16 +13,17 @@ import {
   churchesByIds,
   churchesInGeohashRanges,
   churchIdsMatchingText,
-  linksForChurch,
-  servicesForChurch,
-  servicesForChurches,
-  textsForChurch,
 } from './queries'
 
 export type NearbyChurch = Church & { distanceKm: number; services: Service[] }
 
+const matchesFilter = (s: Service, f: { kind?: string; rite?: string }) =>
+  (!f.kind || s.kind === f.kind) && (!f.rite || s.rite === f.rite)
+
 // "Near me": geohash covering-set prunes to a small candidate set → haversine trims to the true
-// circle → attach service rules. The DB does pure geo; the device expands rules + sorts by soonest.
+// circle → the church carries its (embedded) service rules. The DB does pure geo; the device expands
+// rules + sorts by soonest. A kind/rite filter trims each church's services and drops churches left
+// with none — the same predicate `searchChurches` applies.
 export async function nearbyChurches(db: Db, q: NearQuery): Promise<NearbyChurch[]> {
   const bbox = boundingBox(q.lat, q.lng, q.radiusKm)
   const precision = geohashPrecisionForRadiusKm(q.radiusKm)
@@ -38,34 +39,21 @@ export async function nearbyChurches(db: Db, q: NearQuery): Promise<NearbyChurch
     .filter((c) => c.distanceKm <= q.radiusKm)
     .sort((a, b) => a.distanceKm - b.distanceKm)
     .slice(0, q.limit)
+    .map((c) => ({ ...c, services: (c.services ?? []).filter((s) => matchesFilter(s, q)) }))
 
-  const services = await servicesForChurches(
-    db,
-    within.map((c) => c.id),
-    { kind: q.kind, rite: q.rite },
-  )
-  const byChurch = groupBy(services, (s) => s.churchId)
-
-  const result = within.map((c) => ({ ...c, services: byChurch.get(c.id) ?? [] }))
-  // When kind/rite is filtered, only keep churches that actually have a matching service.
-  return q.kind || q.rite ? result.filter((c) => c.services.length > 0) : result
+  return q.kind || q.rite ? within.filter((c) => c.services.length > 0) : within
 }
 
 export type ChurchDetail = Church & {
   services: Service[]
-  texts: Awaited<ReturnType<typeof textsForChurch>>
-  links: Awaited<ReturnType<typeof linksForChurch>>
+  texts: NonNullable<Church['texts']>
+  links: NonNullable<Church['links']>
 }
 
 export async function churchDetail(db: Db, id: string): Promise<ChurchDetail | undefined> {
   const c = await churchById(db, id)
   if (!c) return undefined
-  const [services, texts, links] = await Promise.all([
-    servicesForChurch(db, id),
-    textsForChurch(db, id),
-    linksForChurch(db, id),
-  ])
-  return { ...c, services, texts, links }
+  return { ...c, services: c.services ?? [], texts: c.texts ?? [], links: c.links ?? [] }
 }
 
 // Browse / search. `q` → FTS5 (rank-ordered ids → hydrate); otherwise country/city/bbox + filters.
@@ -91,33 +79,6 @@ export async function searchChurches(db: Db, query: ChurchesQuery): Promise<Chur
       offset: query.offset,
     })
   }
-  return restrictByServiceFilters(db, base, { kind: query.kind, rite: query.rite })
-}
-
-// Restrict a church set to those with ≥1 service matching kind/rite. `near` applies the same
-// predicate inline (it already fetches the services to attach them).
-async function restrictByServiceFilters(
-  db: Db,
-  churches: Church[],
-  filters: { kind?: string; rite?: string },
-): Promise<Church[]> {
-  if (!filters.kind && !filters.rite) return churches
-  const matching = await servicesForChurches(
-    db,
-    churches.map((c) => c.id),
-    filters,
-  )
-  const matchedIds = new Set(matching.map((s) => s.churchId))
-  return churches.filter((c) => matchedIds.has(c.id))
-}
-
-function groupBy<T, K>(items: T[], key: (item: T) => K): Map<K, T[]> {
-  const map = new Map<K, T[]>()
-  for (const item of items) {
-    const k = key(item)
-    const bucket = map.get(k)
-    if (bucket) bucket.push(item)
-    else map.set(k, [item])
-  }
-  return map
+  if (!query.kind && !query.rite) return base
+  return base.filter((c) => (c.services ?? []).some((s) => matchesFilter(s, query)))
 }

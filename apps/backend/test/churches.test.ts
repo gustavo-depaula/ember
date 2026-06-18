@@ -15,27 +15,27 @@ const churches = [
 ]
 
 async function seed() {
-  await resetTables(
-    'service',
-    'church_text',
-    'church_link',
-    'verification_event',
-    'correction',
-    'church',
-  )
+  await resetTables('verification_event', 'correction', 'church')
   for (const c of churches) {
+    // Only Saint Mary has a TLM, embedded as JSON; used to prove kind/rite service-filtering.
+    const services =
+      c.id === 'st-mary-a'
+        ? JSON.stringify([
+            {
+              id: 'svc-mary',
+              kind: 'mass',
+              rite: 'latin_tridentine',
+              rrule: 'FREQ=WEEKLY;BYDAY=SU',
+              startTime: '09:00',
+            },
+          ])
+        : null
     await env.DB.prepare(
-      'INSERT INTO church (id, name, lat, lng, geohash, timezone) VALUES (?, ?, ?, ?, ?, ?)',
+      'INSERT INTO church (id, name, lat, lng, geohash, timezone, services) VALUES (?, ?, ?, ?, ?, ?, ?)',
     )
-      .bind(c.id, c.name, c.lat, c.lng, encodeGeohash(c.lat, c.lng), 'America/New_York')
+      .bind(c.id, c.name, c.lat, c.lng, encodeGeohash(c.lat, c.lng), 'America/New_York', services)
       .run()
   }
-  // Only Saint Mary has a TLM; used to prove kind/rite service-filtering.
-  await env.DB.prepare(
-    'INSERT INTO service (id, church_id, kind, rite, rrule, start_time) VALUES (?, ?, ?, ?, ?, ?)',
-  )
-    .bind('svc-mary', 'st-mary-a', 'mass', 'latin_tridentine', 'FREQ=WEEKLY;BYDAY=SU', '09:00')
-    .run()
 }
 
 const json = async (res: Response) => res.json() as Promise<{ churches: { id: string }[] }>
