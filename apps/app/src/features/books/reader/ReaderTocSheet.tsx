@@ -213,7 +213,10 @@ export function ReaderTocSheet({
               const timing = chapterTimings?.get(node.id)
               return (
                 <Pressable
-                  onPress={() => onSelect(node.id)}
+                  onPress={() => {
+                    onSelect(node.id)
+                    onClose()
+                  }}
                   accessibilityRole="link"
                   accessibilityLabel={title}
                   accessibilityState={{ selected: isCurrent, checked: isCompleted }}
@@ -287,7 +290,16 @@ export function ReaderTocSheet({
                 </Pressable>
                 <Pressable
                   style={{ flex: 1 }}
-                  onPress={() => (isReadableGroup ? onSelect(node.id) : toggleExpand(node.id))}
+                  onPress={() => {
+                    // Readable group → navigate + close the tray (like leaves);
+                    // a body-less group just expands and the tray stays open.
+                    if (isReadableGroup) {
+                      onSelect(node.id)
+                      onClose()
+                    } else {
+                      toggleExpand(node.id)
+                    }
+                  }}
                   accessibilityRole={isReadableGroup ? 'link' : 'button'}
                   accessibilityLabel={title}
                   accessibilityState={
