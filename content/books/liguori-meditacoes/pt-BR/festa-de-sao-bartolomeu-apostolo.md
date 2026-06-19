@@ -1,3 +1,5 @@
+# 24 de Agosto. Festa de São Bartolomeu, Apóstolo
+
 > *Maiorem hac dilectionem Demo habet, ut animam suam ponat quis pro amicis suis *—“Ninguém tem maior amor do que aquele que dá a própria vida por seus amigos” (Jo 15, 13)
 
 ***Sumário.** Consideremos como este grande santo, depois de haver sacrificado ao amor de Jesus Cristo todos os bens de fortuna, lhe sacrificou também o corpo e a vida, pelo seu generoso martírio. Ó! Que belo exemplo para nós, se o soubermos aproveitar. Não basta que tenhamos sacrificado ao Senhor os bens da terra, ao menos desligando deles o nosso afeto: mister é que lhe sacrifiquemos também o corpo, deixando-o, por assim dizer, esfolar vivo pelas enfermidades e humilhações, e mortificando-o pelas austeridades e penitências. Devemos, numa palavra, despojar-nos do homem velho e vestir-nos do novo, que é criado segundo o Coração divino.*

@@ -1,4 +1,4 @@
-## 28 — CUMPRE-SE O GRANDE MISTÉRIO
+# 28 — CUMPRE-SE O GRANDE MISTÉRIO
 *24 dezembro*
 
 **Presença de Deus.** — *Ó Verbo Encarnado, meu Salvador, mostra-me as sábias lições encerradas no mistério da tua Encarnação.*

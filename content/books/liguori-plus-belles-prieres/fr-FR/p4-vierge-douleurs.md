@@ -1,4 +1,4 @@
-## § 4. Dévotion a N.-D. de Douleurs.
+# § 4. Dévotion a N.-D. de Douleurs.
 
 ### Prière à Notre-Dame de douleurs.
 

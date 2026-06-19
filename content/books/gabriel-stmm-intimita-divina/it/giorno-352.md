@@ -1,4 +1,4 @@
-## 30 — LA VIA DELL'UNIONE
+# 30 — LA VIA DELL'UNIONE
 
 **Presenza di Dio.** — *Dammi luce, o Signore, e dammi forza per strappare da me tutto ciò che m'impedisce di unirmi a te.*
 

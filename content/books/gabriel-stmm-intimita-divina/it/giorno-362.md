@@ -1,4 +1,4 @@
-## 40 — AMORE ESTIMATIVO
+# 40 — AMORE ESTIMATIVO
 
 **Presenza di Dio.** — *Dio mio, Bene sommo ed infinito, fa' che nulla stimi più di te e nulla preferisca a te.*
 

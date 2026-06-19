@@ -1,4 +1,4 @@
-## 24 — APOSTOLADO INTERIOR
+# 24 — APOSTOLADO INTERIOR
 
 **Presença de Deus.** — *Ponho-me aos pés de Jesus, dulcíssimo Salvador e nosso Redentor, para que me ensine como colaborar com Ele na salvação das almas.*
 

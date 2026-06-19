@@ -1,3 +1,5 @@
+# 08 de Setembro. Festa da Natividade de Maria Santíssima
+
 > *Quae est ista, quae progreditur quase aurora consurgens?* — “Quem é esta que vai caminhando como a aurora quando se levanta?” (Ct 6, 9)
 
 ***Sumário.** A celeste Menina nasce destinada a ser Mãe de Deus; por isso nasce enriquecida de tamanha graça que excede a de todos os anjos e santos juntos. Façamos um ato de fé nesta grandeza inefável de Maria, e agradeçamo-la a Deus em seu nome. Mas alegremo-nos também por nossa causa, e aumentemos a nossa confiança, pois, ao mesmo tempo que a Santíssima Virgem foi destinada a ser Mãe do Redentor, foi destinada igualmente a ser Medianeira do gênero humano, e dispensadora de todas as graças.*

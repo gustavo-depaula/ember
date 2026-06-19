@@ -1,4 +1,4 @@
-## XVII — LO SPIRITO SANTO[^1]
+# XVII — LO SPIRITO SANTO[^1]
 
 *Triduo di Pentecoste*
 

@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima livra os seus devotos do inferno
+
 > *Qui audit me, non confundetur: et qui operantur in me, non peccabunt* – “Aquele que me ouve, não será confundido, e os que obram por mim, não pecarão” (Eclo 24, 30)
 
 ***Sumário.** Pela bondade divina achamo-nos no campo da Igreja Católica, e talvez até numa comunidade fervorosa, onde o Senhor semeou e ainda semeia o trigo das graças celestiais. Demos graças ao Senhor e aproveitemo-nos da sua misericórdia. Mas ao mesmo tempo examinemo-nos para ver se não somos porventura para o nosso próximo joio pernicioso ou, pior ainda, semeadores de joio. Jesus Cristo disse que no dia da colheita, isto é, do Juízo, o joio será jogado no fogo do inferno.*

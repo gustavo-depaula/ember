@@ -1,4 +1,4 @@
-## 30 — L'UMILTÀ
+# 30 — L'UMILTÀ
 
 **Presenza di Dio.** — *O Gesù, che tanto ti sei umiliato per noi, insegnami la pratica della vera umiltà.*
 

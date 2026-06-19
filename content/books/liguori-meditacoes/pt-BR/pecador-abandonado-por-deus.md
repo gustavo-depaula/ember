@@ -1,3 +1,5 @@
+# Quarta-feira. O pecador abandonado por Deus
+
 > *Curavimus Babylonem, et non est sanata; derelinquamus eam* – “Medicamos a Babilônia, e ela não sarou; deixemo-la” (Jr 51, 9)
 
 ***Sumário.** Não há maior castigo do que Deus fingir que não vê a iniquidade. Permite que os pecadores prosperem e amontoem pecados sobre pecados. É sinal de que Deus os reserva para os entregar à sua justiça na vida eterna, onde terão tantos infernos a padecer, quantos foram os pecados cometidos. Desgraçados dos pecadores que prosperam nesta vida. Tal misericórdia é mais terrível do que qualquer castigo.*

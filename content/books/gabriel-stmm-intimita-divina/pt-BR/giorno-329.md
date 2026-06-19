@@ -1,4 +1,4 @@
-## 7 — IDEAL APOSTÓLICO
+# 7 — IDEAL APOSTÓLICO
 
 **Presença de Deus.** — *Acende em mim, Senhor, a chama do apostolado e alimenta-a com teu amor.*
 

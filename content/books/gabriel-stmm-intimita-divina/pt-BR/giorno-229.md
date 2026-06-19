@@ -1,4 +1,4 @@
-## XXIX — FESTA DOS SS. PEDRO E PAULO
+# XXIX — FESTA DOS SS. PEDRO E PAULO
 
 **Presença de Deus.** — *Ó Senhor, que a festa dos teus Apóstolos me reanime na fé e consolide a minha fidelidade à Igreja.*
 

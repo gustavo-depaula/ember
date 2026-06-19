@@ -1,4 +1,4 @@
-## IX — FESTA DO SAGRADO CORAÇÃO DE JESUS
+# IX — FESTA DO SAGRADO CORAÇÃO DE JESUS
 
 *Sexta-feira depois da oitava de Corpus Domini*
 

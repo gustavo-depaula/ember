@@ -1,4 +1,4 @@
-## 66 — GESÙ NOSTRO TUTTO
+# 66 — GESÙ NOSTRO TUTTO
 
 **Presenza di Dio.** — *O Gesù, mio Dio e mio Redentore, fammi comprendere come Tu sei il mio tutto e come in te trovo tutto ciò di cui ha bisogno l'anima mia.*
 

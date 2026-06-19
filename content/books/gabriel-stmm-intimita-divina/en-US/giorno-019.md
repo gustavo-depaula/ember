@@ -1,4 +1,4 @@
-## 19 — SEEKING GOD IN LOVE
+# 19 — SEEKING GOD IN LOVE
 
 **Presence of God.** — *O Lord, help me to concentrate all my affections in You, so that my heart may always know how to seek You alone.*
 

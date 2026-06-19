@@ -1,3 +1,5 @@
+# Sexta-feira. Jesus, homem de dores
+
 > *Virum dolorum et scientem infirmitatem* – “Um homem de dores e experimentado nos trabalhos” (Is 53, 3)
 
 ***Sumário.** Se queres ver um homem de dores, olha para Jesus Cristo sobre a cruz. Ei-Lo apoiando-se com todo o peso do corpo sobre as chagas das mãos e dos pés trespassados; cada um dos membros sofre a sua dor particular sem alivio algum. Pois bem, se para a nossa Redenção bastava uma só lágrima e Jesus, porque é que ele quis sofrer tanto? É para agora temo-Lo amado tão pouco; temo-Lo mesmo ofendido tantas vezes! Permaneceremos sempre tão ingratos?*

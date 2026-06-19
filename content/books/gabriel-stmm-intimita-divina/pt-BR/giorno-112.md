@@ -1,4 +1,4 @@
-## 36 — A FORÇA DE JESUS
+# 36 — A FORÇA DE JESUS
 *III domingo da Quaresma*
 
 **Presença de Deus.** — *Ó Jesus, Forte divino, venho a ti buscar apoio para minha fraqueza, para minha enfermidade.*

@@ -1,3 +1,5 @@
+# Dia 30 de Dezembro. Vida de tribulações que Jesus Cristo começou a levar desde seu nascimento
+
 Jesus Cristo, o Homem das Dores
 
 > *Defecit in dolore vita mea, et anni mei in gemitibus* – “A minha vida tem desfalecido com a dor, e os meus anos com os gemidos” (Sl 30, 11)

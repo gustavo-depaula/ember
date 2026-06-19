@@ -1,3 +1,5 @@
+# Segunda-feira. Os bens do mundo não nos podem fazer felizes
+
 “Desejo para cada um a paz que só Deus, por meio de Jesus cristo, nos pode dar: a paz que é obra da justiça, da verdade, do amor, da solidariedade, da paz que os povos só atingem quando seguem os ditames da lei de Deus, a paz que faz que os homens e os povos se sintam irmãos uns dos outros.” (São João Paulo II)
 
 > *Vidi in omnibus vanitatem et afflictionem animi* – “Vi em tudo vaidade e aflição do ânimo” (Ecl 2, 11)

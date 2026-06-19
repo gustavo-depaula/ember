@@ -1,3 +1,5 @@
+# Quinta-feira. Quanto Jesus deseja unir-se conosco na santa Comunhão
+
 > *Desiderio desideravi hoc Pascha manducare vobiscum, antequam patiar* – “Tenho desejado ansiosamente comer convosco esta Páscoa, antes que padeça” (Lc 22, 15)
 
 ***Sumário.** Nenhuma abelha esvoaça com tanta avidez sobre as flores para lhes sorverem o mel, como Jesus vai morar nas almas que o desejam. Eis porque no Evangelho nos convida tantas vezes a que nos aproximemos dele na santa Comunhão. Faz tantas promessas e tantas ameaças, para manifestar o grande desejo que tem de unir-se conosco. Que ingratidão, pois, se não correspondemos a tão grande amor!*

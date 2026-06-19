@@ -1,4 +1,4 @@
-## 27 — I NOSTRI DOVERI
+# 27 — I NOSTRI DOVERI
 
 *XXII Domenica dopo Pentecoste*
 

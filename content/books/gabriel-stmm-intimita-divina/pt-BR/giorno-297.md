@@ -1,4 +1,4 @@
-## V — FORTALEZA E PACIÊNCIA
+# V — FORTALEZA E PACIÊNCIA
 **Presença de Deus.** — Ensina-me, ó Senhor, a suportar com firmeza e paciência aquilo que me faz sofrer.
 
 ### Meditação

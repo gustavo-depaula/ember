@@ -1,4 +1,4 @@
-## XX — DA EUCARISTIA À TRINDADE
+# XX — DA EUCARISTIA À TRINDADE
 
 **Presença de Deus.** — *Ó Jesus eucarístico, guia-me à Trindade, ajuda-me a viver com a Trindade.*
 

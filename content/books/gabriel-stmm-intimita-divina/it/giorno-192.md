@@ -1,4 +1,4 @@
-## XXIII — LA NOSTRA COLLABORAZIONE
+# XXIII — LA NOSTRA COLLABORAZIONE
 
 **Presenza di Dio.** — *O Spirito Santo, rendimi docile alla tua azione, sempre pronto a lasciarmi muovere e dirigere da te.*
 

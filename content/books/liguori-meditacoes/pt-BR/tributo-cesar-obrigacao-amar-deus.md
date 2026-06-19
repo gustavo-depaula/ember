@@ -1,3 +1,5 @@
+# Domingo. O tributo de Cesar e a obrigação de amar a Deus
+
 ## 22º Domingo depois de Pentecostes
 
 > *Reddite quae sunt Caesaris Caesari, et quae sunt Dei Deo* – “Dai a Cesar o que é de Cesar, e a Deus o que é de Deus” (Mt 22, 21)

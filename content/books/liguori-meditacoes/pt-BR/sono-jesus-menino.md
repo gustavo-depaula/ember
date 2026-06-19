@@ -1,3 +1,5 @@
+# Dia 05 de Janeiro. O sono de Jesus Menino
+
 > *Ego dormio, et cor meum vigilat* – “Eu durmo, e o meu coração vela” (Ct 5, 2)
 
 ***Sumário.** O sono do Menino Jesus era muito diferente do das outras crianças. Enquanto dormia, seu Corpo, a Alma, unida à Pessoa do Verbo, velava. Desde então pensava nas penas que devia depois sofrer por nosso amor. Roguemos ao Santo Menino, pelo merecimento daquele bendito sono, que nos livre do sono mortal dos pecadores e, em vez disso, nos conceda o sono dos justos, pelo qual a alma perde a lembrança de todas as coisas terrestres.*

@@ -1,4 +1,4 @@
-## VIII — DISPONIAMOCI ALL'UNIONE
+# VIII — DISPONIAMOCI ALL'UNIONE
 
 **Presenza di Dio.** — *O Gesù, fa' ch'io possa approfittare appieno della grazia di unione con te, che ogni giorno mi offri nella S. Comunione.*
 

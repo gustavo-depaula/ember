@@ -1,4 +1,4 @@
-## 44 — O VALOR DA OBEDIÊNCIA
+# 44 — O VALOR DA OBEDIÊNCIA
 
 **Presença de Deus.** — *Ó Jesus obedientíssimo, faze-me compreender o valor da obediência.*
 

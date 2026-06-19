@@ -1,3 +1,5 @@
+# Sexta-feira. Coração de Jesus, aflito pelo pecado de escândalo
+
 > *Videte ne contemnatis unum ex his pusillis* – “Vede, que não desprezeis um só destes pequeninos” (Mt 18, 10)
 
 ***Sumário.** O Filho de Deus baixou do céu à terra por amor das almas, levou durante trinta e três anos uma vida de privações, e de trabalhos, e afinal chegou a derramar por elas o seu preciosíssimo sangue. Julgai, por estas razões, quão amargo é o desgosto que os escandalosos causam a Jesus Cristo; por Lhe roubarem e mesmo matarem tantas filhas tão diletas. Para não amargurarmos mais esse Coração amabilíssimo, guardemo-nos de dar mau exemplo ao nosso próximo, ainda que seja em coisas leves.*

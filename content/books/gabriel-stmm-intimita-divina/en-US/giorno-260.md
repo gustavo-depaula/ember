@@ -1,4 +1,4 @@
-## XXX — LIFE OF LOVE
+# XXX — LIFE OF LOVE
 
 **Presence of God.** — *Grant, O Lord, that already here below I may begin to love You as I shall one day love You in heaven.*
 

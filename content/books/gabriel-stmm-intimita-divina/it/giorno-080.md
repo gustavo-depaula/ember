@@ -1,4 +1,4 @@
-## 4 — L'ESSENZA DEL DISTACCO
+# 4 — L'ESSENZA DEL DISTACCO
 
 **Presenza di Dio.** — *O Signore, fammi comprendere in che cosa consiste quel distacco totale che richiedi dall'anima che vuol giungere all'unione con te.*
 

@@ -1,4 +1,4 @@
-## 35 — PURIFICAZIONE PASSIVA
+# 35 — PURIFICAZIONE PASSIVA
 
 **Presenza di Dio.** — *Dio mio, illumina il mio cammino, affinché non mi smarrisca in mezzo alle tenebre delle tribolazioni.*
 

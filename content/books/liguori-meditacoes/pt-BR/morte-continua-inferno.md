@@ -1,3 +1,5 @@
+# Quarta-feira. Morte continua do inferno
+
 Inferno, por Giovanni da Modena. Pintura de 1410, presente na Basílica de São Petrônio
 
 > *Sicut oves in inferno positi sunt; mors depascet eos* – “Como ovelhas são postos no inferno; e eles serão pasto na morte” (Sl 48, 15)

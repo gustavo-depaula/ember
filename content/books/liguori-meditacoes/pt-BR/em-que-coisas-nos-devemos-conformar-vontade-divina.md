@@ -1,3 +1,5 @@
+# Segunda-feira. Em que coisas nos devemos conformar com a vontade divina
+
 Compaixão (William Bouguereau, 1825-1905)
 
 > *Si bona suscepimus de manu Dei, mala quare non suscipiamus?* – “Se temos recebido os bens da mão de Deus, porque não receberemos também os males?” (Jó 2, 10)

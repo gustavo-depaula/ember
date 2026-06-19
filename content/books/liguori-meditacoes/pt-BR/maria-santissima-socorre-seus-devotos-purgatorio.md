@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima socorre os seus devotos no purgatório
+
 > *Gyrum coeli circuivi sola, et profundum abyssi penetravi* – “Eu só rodeei o giro do céu, e penetrei a profundidade do abismo” (Eclo 24, 8)
 
 ***Sumário.** Felizes de nós se formos devotos da Santíssima Virgem! Ela não só nos socorrerá na nossa vida, mas também depois da morte, aliviando-nos e mesmo livrando-nos do purgatório. Oh, quantas almas subiram diretamente ao céu pela intercessão de Maria! Procuremos, pois, crescer sempre no amor desta querida Mãe, e aos outros obséquios que em sua honra praticamos, ajuntemos mais este: de orar pelas almas que penam no purgatório, porque, sendo elas esposas de Jesus Cristo, são também filhas de Maria.*

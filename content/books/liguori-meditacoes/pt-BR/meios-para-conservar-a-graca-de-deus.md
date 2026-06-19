@@ -1,3 +1,5 @@
+# 21ª Meditação. Meios para conservar a Graça de Deus
+
 > *Non omnis qui dicit mihi: Domine, Domine, intrabit in regnum coelorum; sed qui facit voluntatem Patris mei, qui in coelis est* — “Não todo o que me diz: Senhor, Senhor, entrará no Reino dos céus; mas sim o que faz a vontade de meu Pai que está nos céus” (Mt 7, 21)
 
 ***Sumário**. Para a salvação não basta a resolução de não mais ofendermos a Deus, é indispensável também empregar os meios para isso. Estes são: o evitar as ocasiões, a frequência dos sacramentos, a oração mental, a devoção à Santíssima Virgem. É sobretudo necessária a oração contínua, recorrendo sempre a Jesus e Maria e invocando os seus santos nomes, especialmente no tempo das tentações. Quem fizer assim, certamente se salvará; quem não o fizer, certamente se condenará. Ó, quantos estão agora a arder no inferno, apesar da boa vontade de se salvarem!*

@@ -1,3 +1,5 @@
+# Quinta-feira. Amor de Jesus Cristo em dar-se a nós como alimento
+
 > *In funiculis Adam traham eas, in vinculis caritatis… et declinavi ad eum ut vescerentur* – “Eu as atrairei com as cordas com que se atraem os homens, com as prisões da caridade… inclinei-me para ele, para que comesse” (Os 11, 4)
 
 ***Sumário.** Quanto se julgaria distinguido o súdito a quem o príncipe mandasse algumas iguarias da sua mesa? Jesus Cristo, porém, na santa comunhão, nos dá para sustento, não só uma parte da sua mesa, mas o seu próprio corpo, a sua alma e a sua divindade. Será porventura uma pretensão exagerada da parte do Senhor, se, em compensação de tão grande dom, nos pede o nosso pobre coração todo inteiro? Todavia quantos cristãos não há que Lho recusam completamente ou Lho querem dar, mas dividido entre Ele e as criaturas?*

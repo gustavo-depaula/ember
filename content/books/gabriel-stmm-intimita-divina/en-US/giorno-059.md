@@ -1,4 +1,4 @@
-## 59 — THE PRAYER OF JESUS
+# 59 — THE PRAYER OF JESUS
 
 **Presence of God.** — *O Jesus, grant me to enter into the sanctuary of Your most holy Soul and reveal to me the secret of Your prayer.*
 

@@ -1,4 +1,4 @@
-## XXII — PEREGRINOS DE DEUS
+# XXII — PEREGRINOS DE DEUS
 
 *III Domingo depois da Páscoa*
 

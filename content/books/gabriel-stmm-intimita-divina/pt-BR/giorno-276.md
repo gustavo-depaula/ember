@@ -1,4 +1,4 @@
-## XV — A ASSUNÇÃO DE MARIA
+# XV — A ASSUNÇÃO DE MARIA
 
 *15 de agosto*
 

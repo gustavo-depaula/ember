@@ -1,4 +1,4 @@
-## IX — LA PREGHIERA VOCALE
+# IX — LA PREGHIERA VOCALE
 
 **Presenza di Dio.** — *Signore, insegnami a pregare!*
 

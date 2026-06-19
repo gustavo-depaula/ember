@@ -1,4 +1,4 @@
-## I — Maria guida e modello
+# I — Maria guida e modello
 
 **Presenza di Dio.** — *Mi rifugio, sotto il tuo patrocinio o Maria, sii Tu la guida e il modello della mia vita interiore.*
 

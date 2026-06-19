@@ -1,4 +1,4 @@
-## XXI — A ação do Espírito Santo
+# XXI — A ação do Espírito Santo
 
 **Presença de Deus.** — *Ó Espírito Santo, revela-me a tua ação em minha alma, ensina-me a reconhecê-la e a segui-la.*
 

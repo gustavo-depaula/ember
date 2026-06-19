@@ -1,4 +1,4 @@
-## XXV — JUSTIÇA E RELIGIÃO
+# XXV — JUSTIÇA E RELIGIÃO
 **Presença de Deus.** — *Faze, ó Senhor, que toda a minha vida seja um contínuo ato de obséquio a ti.*
 
 ### Meditação

@@ -1,4 +1,4 @@
-## IX — MARY'S FAITH
+# IX — MARY'S FAITH
 
 **Presence of God.** — *O my Mother, teach me to believe with full firmness, teach me to trust totally in God.*
 

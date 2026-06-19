@@ -1,4 +1,4 @@
-## 4 — LA CARITÀ ESSENZA DELLA SANTITÀ
+# 4 — LA CARITÀ ESSENZA DELLA SANTITÀ
 
 **Presenza di Dio.** — *Mi metto alla presenza di Dio, considerando che Egli è la carità infinita: «Deus charitas est».*
 

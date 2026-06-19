@@ -1,3 +1,5 @@
+# Terceiro domingo de Julho. Solenidade do Santíssimo Redentor
+
 > *Apud Dominum misericordia: et copiosa apud eum redemptio* — “No Senhor está a misericórdia, e nele há copiosa redenção” (Pv 129, 7)
 
 ***Sumário.** Com muita razão compete a Jesus Cristo o título de Redentor dos homens, porque derramando o seu preciosíssimo Sangue, fez o que este nome significa. Quanto às almas, Ele as remiu da escravidão do demônio e santificando-as pela sua graça, fê-las filhas de Deus e herdeiras do céu. Quanto aos corpos, alimentando-os na presente vida com a santíssima Eucaristia, quer glorificá-los na outra, fazendo-os ressuscitar semelhantes ao seu próprio corpo. E, apesar disso, os homens pensam tão pouco em pagar a Jesus amor por amor! Ao contrário, retribuem-lhe o amor com a mais negra ingratidão!*

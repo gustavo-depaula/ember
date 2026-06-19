@@ -1,3 +1,5 @@
+# 25 de Janeiro. Necessidade da Fé para contemplar com fruto o Mistério da Encarnação
+
 > *Invenietis infantem pannis involutum, et positum in praesepio* – “Achareis um menino envolto em panos, e posto em uma manjedoura” (Lc 2, 12)
 
 ***Sumário.** Quem entra sem fé na Gruta de Belém, terá apenas sentimentos de piedade ao ver um menino tão tenro em tamanha pobreza; mas, quem entra com fé, não poderá deixar de amar a Jesus reduzido por nosso amor a tal estado. Avivemos, pois, a nossa fé e consideremos o excesso de amor de um Deus em se mostrar a nós feito criança, envolta em panos, tiritando de frio, necessitado de todas as coisas. E para que? Para ganhar o amor dos homens, suas criaturas.*

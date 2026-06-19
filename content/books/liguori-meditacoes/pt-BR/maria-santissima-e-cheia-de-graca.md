@@ -1,3 +1,5 @@
+# 12ª Meditação. Maria Santíssima é cheia de Graça
+
 > *Ave, gratia plena, Dominus tecum *— “Ave, cheia de graça, o Senhor é contigo” (Lc 1, 28)
 
 ***Sumário.** Querendo a Santíssima Trindade ostentar as suas grandezas, criou a Santíssima Virgem, destinou-a para Mãe do Verbo encarnado, e em vista desta dignidade imensa e incomparável, enriqueceu-lhe a alma bendita de toda a espécie de graças, superiores às repartidas entre todas as criaturas. Por isso a Santíssima Virgem está no céu assentada num trono de majestade, à direita de Jesus Cristo, forma uma hierarquia separada, e só ela dá mais brilho à pátria bem-aventurada do que tudo o mais que há no paraíso. Façamos ato de fé nesta grandeza inefável de nossa querida Mãe, rendamos graças a Deus e unamo-nos aos espíritos angélicos para a amar e bendizer.*

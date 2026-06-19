@@ -1,4 +1,4 @@
-## 16 — RETTITUDINE D'INTENZIONE
+# 16 — RETTITUDINE D'INTENZIONE
 
 **Presenza di Dio.** — *O Dio, strappa dal mio cuore tutte le intenzioni seconde, tutti i movimenti dell'amor proprio, affinché io miri solo alla tua gloria.*
 

@@ -1,4 +1,4 @@
-## 33 — RUMO A UMA PURIFICAÇÃO COMPLETA
+# 33 — RUMO A UMA PURIFICAÇÃO COMPLETA
 
 **Presença de Deus.** — *Ajuda-me, Senhor, para que tenha a força de encaminhar-me de minha iniciativa a uma purificação completa.*
 

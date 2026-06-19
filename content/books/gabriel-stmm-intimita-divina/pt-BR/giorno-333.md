@@ -1,4 +1,4 @@
-## 11 — O APOSTOLADO DO EXEMPLO
+# 11 — O APOSTOLADO DO EXEMPLO
 
 **Presença de Deus.** — *Ó Senhor, faze que minha conduta seja tal que te procure glória e atraia muitas almas ao teu amor.*
 

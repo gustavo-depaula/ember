@@ -1,4 +1,4 @@
-## XIV — A ARIDEZ
+# XIV — A ARIDEZ
 
 **Presença de Deus.** — *Ó Senhor, ajuda-me a ser-te fiel, para que o espírito de oração não se apague em mim por culpa minha.*
 

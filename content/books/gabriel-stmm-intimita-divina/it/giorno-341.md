@@ -1,4 +1,4 @@
-## 19 — UMANITÀ PERFETTA E CARITÀ APOSTOLICA
+# 19 — UMANITÀ PERFETTA E CARITÀ APOSTOLICA
 
 **Presenza di Dio.** — *Addolcisci, Signore, il mio cuore con la fiamma della tua carità.*
 

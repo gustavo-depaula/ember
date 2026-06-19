@@ -1,4 +1,4 @@
-## XIV — L'ARIDITÀ
+# XIV — L'ARIDITÀ
 
 **Presenza di Dio.** — *O Signore, aiutami ad esserti fedele, affinché lo spirito di orazione non si spenga in me per colpa mia.*
 

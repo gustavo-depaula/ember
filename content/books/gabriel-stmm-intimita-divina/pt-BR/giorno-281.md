@@ -1,4 +1,4 @@
-## XX — A DILIGÊNCIA
+# XX — A DILIGÊNCIA
 **Presença de Deus.** — *Ó Senhor, torna-me diligente no teu serviço, solícito e pronto para cada dever meu.*
 
 ### Meditação

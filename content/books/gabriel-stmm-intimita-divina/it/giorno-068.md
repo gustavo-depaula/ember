@@ -1,4 +1,4 @@
-## 68 — IL SACERDOZIO
+# 68 — IL SACERDOZIO
 
 **Presenza di Dio.** — *O Signore, concedi santi sacerdoti alla tua Chiesa.*
 

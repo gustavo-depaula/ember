@@ -1,3 +1,5 @@
+# Terça-feira. O nada dos bens do mundo
+
 > *In manu eius statera dolosa, calumniam dilexit* – “Na sua mão está uma balança enganosa; amou a calúnia” (Os 12, 7)
 
 ***Sumário.** É preciso pesar os bens na balança de Deus e não na do mundo enganador. Olhemos não somente os bens que possui tal Senhor, mas atentemos também no que leva consigo na morte. Perguntemos a todos esses ricos, sábios, príncipes e imperadores, que entraram na eternidade e estão queimando no inferno: Que vos restou das pompas, delícias e riquezas gozadas na terra? Todos respondem: “Nada! Os nossos gozos passaram qual sombra, e nada nos resta senão uma eterna desesperação.” Sirva a desgraça dos outros de exemplo para nós!*

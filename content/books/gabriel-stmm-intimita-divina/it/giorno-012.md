@@ -1,4 +1,4 @@
-## 12 — CERCARE DIO NELL'ORAZIONE
+# 12 — CERCARE DIO NELL'ORAZIONE
 
 **Presenza di Dio.** — *Lascio ogni occupazione e cura terrena e mi raccolgo nel piccolo cielo dell'anima mia per mettermi in intimo contatto con Dio.*
 

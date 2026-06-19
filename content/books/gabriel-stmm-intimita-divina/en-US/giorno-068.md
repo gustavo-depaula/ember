@@ -1,4 +1,4 @@
-## 68 — THE PRIESTHOOD
+# 68 — THE PRIESTHOOD
 
 **Presence of God.** — *O Lord, grant holy priests to Your Church.*
 

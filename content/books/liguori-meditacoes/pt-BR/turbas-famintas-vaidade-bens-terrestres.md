@@ -1,3 +1,5 @@
+# Domingo. As turbas famintas e a vaidade dos bens terrestres
+
 ## 6º Domingo depois de Pentecostes
 
 > *Misereor super turban: quia ecce iam triduo sustinent me, nec habent quod manducent* – “Tenho compaixão da multidão; porque desde três dias já me acompanham e não têm o que comer” (Mc 8, 2)

@@ -1,3 +1,5 @@
+# Sexta-feira. O abandono de Jesus sobre a Cruz e a pena de dano no inferno
+
 > *Sustinui qui simul contristaretur, et non fuit, et qui consolaretur, et non inveni* – “Esperei se algum se entristecia comigo, e não houve ninguém; esperei se alguém me consolava, e não achei” (Sl 68, 21)
 
 ***Sumário.** O que mais atormentou Jesus, pregado na cruz, foi o abandono completo em que se viu. Não achando na terra quem o console, levanta os olhos para o Pai Celestial. Este, porém, vendo-o carregado dos nossos pecados, recusa-se a dar-lhe alívio e deixa-o morrer sem consolo. O Senhor quis padecer um abandono tão cruel, para nos livrar de outro abandono mais cruel ainda, qual é a pena de dano no inferno. Contudo, quão poucos são os que cuidam em render-Lhe graças, e em retribuir-lhe o seu amor!*

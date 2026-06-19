@@ -1,3 +1,5 @@
+# 14 de Setembro. Festa da Exaltação da Santa Cruz de Nosso Senhor Jesus Cristo
+
 > *Mihi absit gloriari, nisi in cruce Domini nostri Iesu Cristi; per quem mihi mundus crucifixus est, et ego mundo* — “De mim esteja longe o gloriar-me, senão na cruz de Nosso Senhor Jesus Cristo; por quem o mundo está crucificado para mim, e eu para o mundo” (Gl 6, 14)
 
 ***Sumário.** Esta terra é um lugar de merecimentos e, portanto, também de sofrimentos. Para nos exortar à paciência, Jesus Cristo levou uma vida de sofrimentos contínuos, e é a exemplo de Jesus que todos os santos abraçaram as tribulações com alegria, de modo que nenhum deles chegou à glória senão por um caminho semeado de espinhos. Que vergonha para nós! Adoramos a santa Cruz, gloriamo-nos de combater sob este estandarte triunfante, de ser herdeiros dos santos, e somos-lhes tão dessemelhantes! Há de ser sempre assim ? Senhor, enviai-me as cruzes que as minhas culpas merecem, mas dai-me também força para carregá-las com paciência.*

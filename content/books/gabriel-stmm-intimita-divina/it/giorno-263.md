@@ -1,4 +1,4 @@
-## II — IL MOTIVO DELLA CARITÀ FRATERNA
+# II — IL MOTIVO DELLA CARITÀ FRATERNA
 
 **Presenza di Dio.** — *O Signore, insegnami ad amarti nel mio prossimo ed ad amare il mio prossimo in te e per te.*
 

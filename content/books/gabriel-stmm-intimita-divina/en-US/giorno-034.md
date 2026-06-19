@@ -1,4 +1,4 @@
-## 34 — A SIGN OF CONTRADICTION
+# 34 — A SIGN OF CONTRADICTION
 *Sunday within the octave of the Nativity*
 
 **Presence of God.** — *Before Jesus the world is divided: friends and enemies. O Lord, may I be among the first and among the most loving!*

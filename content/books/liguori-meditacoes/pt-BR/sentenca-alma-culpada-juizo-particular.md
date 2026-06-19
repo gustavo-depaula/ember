@@ -1,3 +1,5 @@
+# Terça-feira. A sentença da alma culpada no juízo particular
+
 > *Discedite a me, maledicti, in ignem aeternum, qui paratus est diabolô et angelis eius* – “Apartai-vos de mim, malditos para o fogo eterno, que está aparelhado para o diabo e os seus anjos” (Mt 25, 41)
 
 ***Sumário.** Desgraçada da alma cuja vida no juízo não for achada conforme à de Jesus Cristo! Sem demora, o divino Juiz pronunciará contra ela a sentença de condenação eterna – Aparta-te de mim, maldita, para ires arder eternamente no fogo. Meu irmão, agora vivemos em segurança e com indiferença ouvimos falar do juízo; mas quantos há que assim viveram e agora estão no inferno! E quem nos assegura que o mesmo não sucederá conosco? Se a morte nos surpreendesse na primeira noite, qual seria a nossa sentença?*

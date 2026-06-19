@@ -1,4 +1,4 @@
-## VII — Vita mariana
+# VII — Vita mariana
 
 **Presenza di Dio.** — *O Maria, Madre dolcissima, voglio vivere con te come un figlio vive con la mamma sua.*
 

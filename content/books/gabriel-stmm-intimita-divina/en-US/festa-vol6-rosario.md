@@ -1,4 +1,4 @@
-## October 7 — OUR LADY OF THE ROSARY
+# October 7 — OUR LADY OF THE ROSARY
 
 **Presence of God.** — *May your blessed Rosary, O holy Virgin, be a weapon of defense and a school of virtue for me.*
 

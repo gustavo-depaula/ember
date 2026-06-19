@@ -1,4 +1,4 @@
-## 67 — LA CHIESA
+# 67 — LA CHIESA
 
 **Presenza di Dio.** — *O Gesù, che mi hai donato la Chiesa per madre, fa' che io l'ami con vero cuore di figlio.*
 

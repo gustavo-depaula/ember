@@ -1,4 +1,4 @@
-## VII — LA PREGHIERA
+# VII — LA PREGHIERA
 
 **Presenza di Dio.** — *O Signore, mi accosto a te per chiederti il vero spirito di preghiera.*
 

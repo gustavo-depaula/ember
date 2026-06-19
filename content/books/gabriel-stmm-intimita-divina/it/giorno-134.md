@@ -1,4 +1,4 @@
-## 58 — LA CENA DI BETANIA
+# 58 — LA CENA DI BETANIA
 *lunedì santo*
 
 **Presenza di Dio.** — *O Signore, prima che il tuo corpo venga sfigurato dalla Passione, desidero, con Maria di Betania, prestargli i miei umili e devoti omaggi.*

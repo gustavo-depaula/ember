@@ -1,4 +1,4 @@
-## 36 — INTERIOR TRIALS
+# 36 — INTERIOR TRIALS
 
 **Presence of God.** — *O Lord, purify me like gold in the crucible; purify me and spare me not that I may arrive at You.*
 

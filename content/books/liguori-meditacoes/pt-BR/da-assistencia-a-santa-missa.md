@@ -1,3 +1,5 @@
+# Quinta-feira. Da assistência à Santa Missa
+
 > *Immolabit (agnum) universa multitudo filiorum Israel * – “Toda a multidão dos filhos de Israel imolará (um cordeiro)” (Ex 12, 6)
 
 ***Sumário.** Para ouvir a missa com devoção, devemos ter bem presente que o sacrifício do altar é o mesmo que foi um dia oferecido no Calvário, posto que se ofereça sem derramamento de sangue. Avivemos, pois, a nossa fé, e, quando assistirmos aos augustos mistérios, afiguremo-nos que em companhia de Maria Santíssima e de São João estamos ao pé da árvore da Cruz, para oferecer ao Pai Eterno a vida de seu Filho adorável. E, quando tivermos a ventura de comungar, façamos que bebemos o Sangue preciosíssimo do Coração amável de Jesus Cristo.*

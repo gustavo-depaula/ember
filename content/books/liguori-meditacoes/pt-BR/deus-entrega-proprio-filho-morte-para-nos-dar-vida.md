@@ -1,3 +1,5 @@
+# Segunda-feira. Deus entrega o próprio Filho à morte para nos dar a vida
+
 > *Deus autem, qui dives est in misericórdia, propter nimiam caritatem suam, qua dilexit nos, et cum essemus mortui peccatis, convivificavit nos Christo* – “Deus que é rico em misericórdia, por causa da extrema caridade com que nos amou, também quando mortos estávamos pelos pecados, nos convivificou em Cristo” (Ef 2, 4)
 
 ***Sumário.** Pelas nossas culpas nós, pobres pecadores, já estávamos todos mortos e condenados ao inferno. Deus, porém, por causa do imenso amor que tem às nossas almas, quis restituir-nos à vida, enviando à terra o seu Filho unigênito para morrer por nós. Pois dizei-me: Se Jesus Cristo morreu por nosso amor, não é mais do que justo que nós somente para Ele vivamos, e que Ele seja o único senhor dos nossos corações?*

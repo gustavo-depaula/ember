@@ -1,3 +1,5 @@
+# Terça-feira. Devemos recear que o primeiro novo pecado seja talvez o último
+
 “Não há ninguém tão louco”, diz Santo Agostinho, “que tome veneno e diga: pode ser que depois me cure com remédios”
 
 > *Fili, peccasti? Ne adicias iterum; sed et de pristinis deprecare, ut tibi dimittantur* – “Filho, pecaste? Não tornes a pecar, pelo contrário roga para que os pecados cometidos te sejam perdoados” (Eclo 21, 1)

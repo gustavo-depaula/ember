@@ -1,4 +1,4 @@
-## III — L'ESTENSIONE DELLA CARITÀ FRATERNA
+# III — L'ESTENSIONE DELLA CARITÀ FRATERNA
 
 **Presenza di Dio.** — *O Signore, fammi comprendere che la vera carità non ammette eccezioni, ma abbraccia con amore sincero qualsiasi prossimo.*
 

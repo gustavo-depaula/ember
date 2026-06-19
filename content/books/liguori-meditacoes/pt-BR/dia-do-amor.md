@@ -1,3 +1,5 @@
+# Quinta-feira. O dia do Amor
+
 ## Primeira Meditação para a Quinta-feira Santa
 
 > *Sciens Iesus quia venit hora eius, ut transeat ex hoc mundo ad Patrem, cum dilexisset suos, qui erant in mundo, in funem dilexit eos* – “Sabendo Jesus que era chegada a hora de passar deste mundo para o Pai, como tinha amado os seus que estavam no mundo, amou-os até o fim” (Jo 13, 1)

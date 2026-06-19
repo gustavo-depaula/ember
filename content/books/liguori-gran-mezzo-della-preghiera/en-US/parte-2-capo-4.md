@@ -1,6 +1,4 @@
-# Part Two
-
-## Chapter IV — God gives everyone the grace to pray
+# Chapter IV — God gives everyone the grace to pray
 
 Given, then, that God wills all to be saved, and that on His part He gives everyone the graces necessary to attain salvation, we say that to all there is given the grace to be able actually to pray (without need of another new grace), and by praying to obtain all the other helps for keeping the commandments and being saved. But note well: when we say “without need of another new grace,” we do not mean that common grace gives prayer without the help of aiding grace; for to perform any act of piety, beyond exciting grace, there is certainly also required aiding, or cooperating, grace. We mean that common grace gives each person the ability actually to pray without a new prevenient grace that physically or morally determines the human will to the act of prayer. Therefore we shall first set down the many eminent theologians who teach this position as certain, and then prove it by authorities and reasons.
 

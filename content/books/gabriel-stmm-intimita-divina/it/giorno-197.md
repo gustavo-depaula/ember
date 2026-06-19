@@ -1,4 +1,4 @@
-## XXVIII — LE VIRTÙ E I DONI
+# XXVIII — LE VIRTÙ E I DONI
 
 **Presenza di Dio.** — *Insegnami, o Spirito Santo, a mantenermi in atteggiamento di continuo ascolto delle tue ispirazioni, di continua dipendenza dai tuoi impulsi.*
 

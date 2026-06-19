@@ -1,4 +1,4 @@
-## 38 — A VIDA ESCONDIDA
+# 38 — A VIDA ESCONDIDA
 
 **Presença de Deus.** — *Ó Jesus, Deus escondido, ensina-me o segredo do escondimento.*
 

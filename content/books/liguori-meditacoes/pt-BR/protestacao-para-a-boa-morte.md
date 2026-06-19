@@ -1,3 +1,5 @@
+# 20ª Meditação. Protestação para a Boa Morte
+
 > *Haec dicit Dominus: Dispone domui tuae, quia morieris tu, et non vives* — “Eis aqui o que diz o Senhor: Dispõe da tua casa, porque morrerás e não viverás” (Is 38, 1)
 
 ***Sumário.** É na hora da morte que se acaba a coroa dos escolhidos, porque é então que se recolhem mais merecimentos. Então pode-se mesmo ser mártir, aceitando tudo com resignação e pelo amor de Deus. Mas por ser difícil que então tenha estes bons sentimentos aquele que não os tiver praticado na vida, convém que se renove cada mês a protestação para a boa morte. Imaginemos, pois, que estamos para morrer, e abraçando o Crucifixo, digamos de coração a Jesus o que lhe quiséramos dizer nesses derradeiros momentos.*

@@ -1,3 +1,5 @@
+# Terça-feira. A glória imensa que gozam no céu os religiosos
+
 São Benedito na glória do Céu (Zeiller 1748)
 
 > *Omnis qui reliquerit domum, vel fratres, aut sorores, aut patrem, aut matre… propter nomem meum, centuplum accipiet, et vitam aeternam possidebit* – “Todo o que deixar por amor de meu nome, ou os irmãos, ou as irmãs, ou o pai, ou a mãe… receberá o centuplo, e possuirá a vida eterna” (Mt 19, 20)

@@ -1,4 +1,4 @@
-## 42 — BOLD AND IMPATIENT LOVE
+# 42 — BOLD AND IMPATIENT LOVE
 
 **Presence of God.** — *My God, may Your love make me bold in seeking You and impatient to possess You.*
 

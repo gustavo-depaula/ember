@@ -1,4 +1,4 @@
-## XV — A oração de Maria
+# XV — A oração de Maria
 
 **Presença de Deus.** — *Ó Maria, que foste a fiel adoradora de Deus, ensina-me a viver em contínua oração.*
 

@@ -1,3 +1,5 @@
+# Terça-feira. No inferno sofre-se sempre
+
 ## TERÇA-FEIRA
 
 > *Cruciabuntur die ac nocte in saecula saeculorum* – Serão atormentados dia e noite pelos séculos dos séculos (Ap 20, 10)

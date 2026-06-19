@@ -1,4 +1,4 @@
-## XXVI — A ORAÇÃO LITÚRGICA
+# XXVI — A ORAÇÃO LITÚRGICA
 
 **Presença de Deus.** — *Ó Jesus, Cabeça do Corpo Místico, faze que, rezando com a Igreja, eu possa unir-me à tua oração.*
 

@@ -1,3 +1,5 @@
+# Domingo. O filho do régulo e a utilidade das doenças
+
 ## 20º Domingo depois de Pentecostes
 
 > *Credidit ipse et domus eius tota* – “Creu ele e toda a sua família” (Jo 4, 53)

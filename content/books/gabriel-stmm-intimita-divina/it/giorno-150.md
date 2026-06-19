@@ -1,4 +1,4 @@
-## XI — LA MEDITAZIONE
+# XI — LA MEDITAZIONE
 
 **Presenza di Dio.** — *Infondimi, o Signore, un vivo spirito di pietà, affinché impari a trattare con te con affetto di figlio.*
 

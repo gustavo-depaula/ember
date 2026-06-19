@@ -1,4 +1,4 @@
-## XII — Lo sviluppo della carità in Maria
+# XII — Lo sviluppo della carità in Maria
 
 **Presenza di Dio.** — *O Maria, Madre del bell'amore, insegnami il segreto per crescere continuamente nella carità.*
 

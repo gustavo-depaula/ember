@@ -1,3 +1,5 @@
+# Quinta-feira. Respeito devido à dignidade sacerdotal
+
 > *Ego dixi: Dii estis, et filii Excelsi omnes* – “Eu disse: Sois deuses, e todos filhos do Excelso” (Sl 81, 6)
 
 ***Sumário.** É com muita razão que os santos tinham os sacerdotes na mais alta estima. Quanto ao corpo místico de Jesus Cristo, que são todos os fiéis, os sacerdotes têm poder de livrar o pecador do inferno e fazê-lo herdeiro do paraíso. Quanto ao corpo real, é um ponto da fé que, quando o sacerdote consagra, o Verbo eterno desce do céu para esconder-se sob as espécies sacramentais. Oh dignidade sublime!… Procuremos sempre ter grande veneração para com os ministros de Deus, e, sendo sacerdotes, sejamos os primeiros a respeitar o nosso caráter sacerdotal, se desejamos ser respeitados pelos outros.*

@@ -1,4 +1,4 @@
-## X — LA DEVOZIONE AL CUORE DI GESÙ
+# X — LA DEVOZIONE AL CUORE DI GESÙ
 
 **Presenza di Dio.** — *O Sacro Cuore di Gesù, insegnami a conoscerti, insegnami ad amarti.*
 

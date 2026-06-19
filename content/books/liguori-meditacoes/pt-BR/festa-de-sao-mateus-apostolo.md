@@ -1,3 +1,5 @@
+# 21 de Setembro. Festa de São Mateus, Apóstolo
+
 > *Vidit hominem sedentem in telonio, Matthaeum nomine, et ait illi: Sequere me* — “Jesus viu sentado no telônio um homem, chamado Mateus, e disse-lhe: Segue-me” (Mt 9, 9)
 
 ***Sumário.** Consideremos como este santo respondeu admiravelmente ao convite divino; pois, mal o convidou Jesus Cristo para o seguir, logo se levantou do telônio e o foi seguindo. E quantas dificuldades teve que vencer! Somos nós igualmente solícitos em obedecer ao convite de Deus? Há quanto tempo nos convida ele para sairmos da nossa tibieza, e lhe resistimos obstinadamente? Ah! Cuidemos que a nossa demora não nos leve finalmente a um sofrimento longo no purgatório, e quiçá, à perdição eterna, como sucedeu a tantos outros.*

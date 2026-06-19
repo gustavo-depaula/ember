@@ -1,4 +1,4 @@
-## VII — A PERSEVERANÇA
+# VII — A PERSEVERANÇA
 **Presença de Deus.** — Que tua graça, ó Deus, me torne perseverante até o fim.
 
 ### Meditação

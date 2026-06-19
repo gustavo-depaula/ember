@@ -1,3 +1,5 @@
+# Quarta-feira. O grande segredo da morte
+
 > *O mors, bonum est iudicium tuum homini indigenti* – “Ó morte, é bom o teu juízo para o homem necessitado” (Eclo 41, 3)
 
 ***Sumário.** Durante a vida, as paixões fazem que os bens terrestres pareçam de modo muito diferente do que são; a morte, porém, mostra-os na sua verdade: fumaça, lodo e miséria. Meu Deus! Para que servirão as riquezas, quando não nos restar senão uma simples mortalha? Para que servirão honras e dignidades, quando não tivermos nada senão um cortejo fúnebre? Para que servirá a beleza do corpo, quando nada mais nos ficar senão vermes e podridão? Que grande segredo é o da morte! Como seria bem regrada a nossa vida se o soubéssemos aproveitar bem!*

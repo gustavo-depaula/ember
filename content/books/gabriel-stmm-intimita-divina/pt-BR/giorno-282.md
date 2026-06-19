@@ -1,4 +1,4 @@
-## XXI — OS DEZ LEPROSOS
+# XXI — OS DEZ LEPROSOS
 
 *XIII Domingo depois de Pentecostes*
 

@@ -1,4 +1,4 @@
-## 2 novembre — COMMEMORAZIONE DEI FEDELI DEFUNTI
+# 2 novembre — COMMEMORAZIONE DEI FEDELI DEFUNTI
 
 **Presenza di Dio.** — *O Signore, concedi l'eterno riposo alle anime dei defunti e fa' che il pensiero della morte mi spinga a maggiore generosità.*
 

@@ -1,4 +1,4 @@
-## 56 — O AMOR À CRUZ
+# 56 — O AMOR À CRUZ
 
 **Presença de Deus.** — *Venho ainda a ti, meu Deus crucificado, com o desejo de penetrar mais profundamente no mistério da Cruz.*
 

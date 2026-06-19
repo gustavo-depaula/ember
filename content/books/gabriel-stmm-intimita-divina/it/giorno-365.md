@@ -1,4 +1,4 @@
-## 43 — AMORE UMILE E RIVERENTE
+# 43 — AMORE UMILE E RIVERENTE
 
 **Presenza di Dio.** — *O Dio, che sei tanto grande, degnati d'inalzare fino a te l'anima mia tanto piccola e misera.*
 

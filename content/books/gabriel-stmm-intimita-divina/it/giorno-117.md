@@ -1,4 +1,4 @@
-## 41 — LA VERA GLORIA
+# 41 — LA VERA GLORIA
 
 **Presenza di Dio.** — *O Gesù, che per amor mio hai accettato il disonore della morte di croce, insegnami in che cosa consiste la vera gloria e fa' che per amor tuo io sappia vincere i miei punti d'onore.*
 

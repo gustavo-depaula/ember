@@ -1,4 +1,4 @@
-## XXVIII — THE GIFT OF WISDOM
+# XXVIII — THE GIFT OF WISDOM
 
 **Presence of God.** — *Come, Spirit of Wisdom, draw me!*
 

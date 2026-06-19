@@ -1,4 +1,4 @@
-## XXV — Spirito di fede
+# XXV — Spirito di fede
 
 **Presenza di Dio.** — *Dammi, o Signore, quello spirito di fede che mi permetta di mantenermi in contatto con te, in mezzo a qualsiasi occupazione e circostanza della mia giornata.*
 

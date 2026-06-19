@@ -1,4 +1,4 @@
-## XXVII — A GRATIDÃO
+# XXVII — A GRATIDÃO
 **Presença de Deus.** — *Meu Deus, dá-me um coração reconhecido, capaz de cantar eternamente as tuas misericórdias.*
 
 ### Meditação

@@ -1,3 +1,5 @@
+# Domingo. A parábola do fermento e os efeitos da graça santificante
+
 ## 6º Domingo depois da Epifania
 
 > *Simile est regnum coelorum fermento* – “O reino dos céus é semelhante ao fermento” (Mt 13, 33)

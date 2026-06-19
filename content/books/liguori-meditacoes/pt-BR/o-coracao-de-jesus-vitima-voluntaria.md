@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Maio. O Coração de Jesus, Vítima Voluntária
+
 > *Posuit Dominus in eo iniquitatem omnium nostrum* — “Pôs o Senhor sobre ele a iniquidade de nós todos” (Is 53, 6)
 
 ***Sumário.** Jesus Cristo sabia que todos os sacrifícios dos animais, oferecidos a Deus no passado, não tinham podido satisfazer pelos pecados dos homens. Eis que então o Coração de Jesus, a inocência, a pureza, a santidade mesma, é carregado de todos os crimes; ei-lo tornado, por nosso amor, objeto das maldições divinas, por causa dos nossos pecados. Ó caridade incomparável, ó caridade infinita e divina do Coração de Jesus!*

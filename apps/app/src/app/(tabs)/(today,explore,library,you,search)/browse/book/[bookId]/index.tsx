@@ -18,7 +18,6 @@ import {
   countLeavesUnder,
   countTocNodes,
   firstLeafId,
-  flattenTocLeaves,
 } from '@/features/books/reader/bookContent'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
@@ -26,6 +25,7 @@ import { ReaderTocSheet } from '@/features/books/reader/ReaderTocSheet'
 import { getReadingStreak } from '@/features/books/reader/readingStreak'
 import { getReadingTimeMs } from '@/features/books/reader/readingTime'
 import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
+import { useReadingFlow } from '@/features/books/reader/useReadingFlow'
 import { SessionToast } from '@/features/books/SessionToast'
 import { PrologueProse } from '@/features/collections'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
@@ -79,7 +79,7 @@ export default function BookDetailScreen() {
     return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
   }, [book?.languages, entry?.langs, contentLanguage])
 
-  const leaves = useMemo(() => (book?.toc ? flattenTocLeaves(book.toc) : []), [book?.toc])
+  const { flow: leaves, readableIds } = useReadingFlow(book, lang)
   const titleLookup = useMemo(
     () => (book?.toc ? buildTitleLookup(book.toc, lang) : new Map<string, string>()),
     [book?.toc, lang],
@@ -221,6 +221,7 @@ export default function BookDetailScreen() {
           open={browsingToc}
           onClose={() => setBrowsingToc(false)}
           toc={book.toc}
+          readableIds={readableIds}
           currentChapterId={resumeChapterId}
           completedChapterIds={completed}
           onSelect={(chapterId) => {

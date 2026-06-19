@@ -1,4 +1,4 @@
-## XVII — THE HOLY SPIRIT
+# XVII — THE HOLY SPIRIT
 
 *Triduo of Pentecost*
 

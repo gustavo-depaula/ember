@@ -1,3 +1,5 @@
+# 2º Dia – Sábado. O amor é uma luz que esclarece
+
 ## 2º Dia da Novena do Espírito Santo
 
 > *Ilumina oculos meos, me unquam obdormiam in morte* – “Ilumina os meus olhos, para que eu não durma jamais na morte” (Sl 12, 4)

@@ -1,4 +1,4 @@
-## 20 — SEEKING GOD IN CREATURES
+# 20 — SEEKING GOD IN CREATURES
 
 **Presence of God.** — *I place myself at Jesus' feet so that He may teach me how to seek Him and find Him in my brothers and sisters.*
 

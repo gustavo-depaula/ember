@@ -1,4 +1,4 @@
-## 44 — IL CORPO MISTICO DI CRISTO
+# 44 — IL CORPO MISTICO DI CRISTO
 
 **Presenza di Dio.** — *Spirito Santo, concedimi «l'abbondanza della piena intelligenza per conoscere il mistero di Cristo Gesù» *(Col.* 2, 2).*
 

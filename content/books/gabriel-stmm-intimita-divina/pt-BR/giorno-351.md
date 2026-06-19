@@ -1,4 +1,4 @@
-## 29 — A UNIÃO COM DEUS
+# 29 — A UNIÃO COM DEUS
 
 **Presença de Deus.** — *Meu Deus, que me criaste para ti, faze que eu possa levar-me a ti e a ti unir-me por amor.*
 

@@ -1,3 +1,5 @@
+# Segunda-feira. Da perfeita resignação com a vontade divina
+
 > *Meus cibus est ut faciam voluntatem eius qui misit me, ut perficiam opus eius* – “O meu alimento é fazer a vontade daquele que me enviou, para consumar a sua obra” (Mt 13, 31)
 
 ***Sumário.** É um ponto de fé que Deus não quer senão o que é melhor para nós; isto é, a nossa santificação. Se quisermos, pois, ser santos e achar mesmo na terra a paz verdadeira, procuremos ter a nossa vontade em repouso, unindo-a sempre à vontade amabilíssima de Deus. Remetamos ao Pai celestial toda a nossa solicitude, certos de que, afinal, tudo cede para o maior bem do justo. Em cada adversidade, seja qual for, repitamos a palavra habitual dos santos: Seja feita a vossa vontade!*

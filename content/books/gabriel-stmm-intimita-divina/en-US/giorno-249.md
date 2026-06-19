@@ -1,4 +1,4 @@
-## XIX — LIVED FAITH
+# XIX — LIVED FAITH
 
 **Presence of God.** — *O Lord, grant that faith may be the light that guides me in every circumstance of life.*
 

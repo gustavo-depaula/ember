@@ -1,4 +1,4 @@
-## 8 — PRESTO IL SIGNORE VERRÀ
+# 8 — PRESTO IL SIGNORE VERRÀ
 
 *II domenica d'Avvento*
 

@@ -1,4 +1,4 @@
-## XIII — LA DOLCEZZA
+# XIII — LA DOLCEZZA
 
 **Presenza di Dio.** — *O Signore, che sei dolce e soave, insegnami la dolcezza del cuore, la soavità del tratto.*
 

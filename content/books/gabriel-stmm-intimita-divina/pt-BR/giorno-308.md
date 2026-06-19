@@ -1,4 +1,4 @@
-## XVI — O DOM DA FORTALEZA
+# XVI — O DOM DA FORTALEZA
 
 **Presença de Deus.** — Ó Espírito Santo, que conheces minha fraqueza, torna-me forte da tua fortaleza divina.
 

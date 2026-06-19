@@ -1,3 +1,5 @@
+# Quarta-feira. Obrigação que temos de socorrer as almas do purgatório
+
 Rezemos pelas almas do Purgatório, especialmente em nossas orações pelo Santo Rosário
 
 > *Mortuo non prohibeas gratiam* – “Não impeças que a liberalidade se estenda aos mortos” (Eclo 7, 37)

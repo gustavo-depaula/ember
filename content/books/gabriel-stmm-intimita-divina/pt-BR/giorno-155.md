@@ -1,4 +1,4 @@
-## XVI — ARIDEZ E PROGRESSO
+# XVI — ARIDEZ E PROGRESSO
 
 **Presença de Deus.** — *Ó Senhor, ajuda-me a buscar-te e a unir-me a ti, mesmo através das arideces e das impotências do espírito.*
 

@@ -1,3 +1,5 @@
+# 25 de Julho. Jesus, modelo de Obediência
+
 > *Humiliavit semetipsum, factus oboediens usque ad mortem* — “Humilhou-se a si mesmo, feito obediente até a morte” (Fl 2, 8)
 
 ***Sumário.** A fim de nos ensinar a obediência, o Filho de Deus desce ao seio de uma virgem, sua criatura, e se faz servo não só de Maria e José, mas ainda de Pilatos, que o condena à morte, e dos algozes, que o açoitam, coroam de espinhos e crucificam. E, apesar de tal exemplo, quantos não há que, recusando obedecer a Jesus Cristo e aos seus representantes, se fazem escravos do demônio! Se, infelizmente, fomos tão loucos, reparemos depressa a nossa falta e roguemos ao Senhor que nos prenda nos seus doces laços.*

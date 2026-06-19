@@ -1,4 +1,4 @@
-## 12 — LA CASTITÀ
+# 12 — LA CASTITÀ
 
 **Presenza di Dio.** — *O Gesù, giglio purissimo, amatore dei vergini, fammi comprendere la bellezza della castità perfetta.*
 

@@ -1,3 +1,5 @@
+# Sexta-feira. As virtudes do Bom Ladrão e a Segunda palavra de Jesus na Cruz
+
 > *Amen dico tibi: Hodie mecum eris in paradiso* – “Em verdade te digo: Hoje estarás comigo no paraíso” (Lc 23, 43)
 
 ***Sumário.** Observam os santos Padres que o Bom Ladrão, reconhecendo em Jesus crucificado o seu verdadeiro Deus, confessando-O como tal na presença de seus inimigos e recomendando-se-Lhe, deu exemplos das mais sublimes virtudes. Pelo que o Senhor lhe fez com razão a bela promessa de que naquele mesmo dia havia de gozar das delícias do paraíso. Meu irmão, o Senhor não se mudou, e, portanto, se porventura tivéssemos imitado o ladrão em seus desvarios, imitemo-lo também na sua conversão sincera a Deus e também teremos a mesma sorte feliz.*

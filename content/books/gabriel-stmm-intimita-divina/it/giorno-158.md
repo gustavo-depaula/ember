@@ -1,4 +1,4 @@
-## XIX — ARIDITÀ E CONTEMPLAZIONE
+# XIX — ARIDITÀ E CONTEMPLAZIONE
 
 **Presenza di Dio.** — *O Signore, attirami a te per la via che Tu vuoi e come Tu vuoi; ti chiedo solo la grazia di saperTi seguire sempre.*
 

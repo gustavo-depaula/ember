@@ -1,4 +1,4 @@
-## 24 — APOSTOLIC MATURITY
+# 24 — APOSTOLIC MATURITY
 
 **Presence of God.** — *May your love, O God, mature my soul and make it capable of giving itself fully in service of souls.*
 

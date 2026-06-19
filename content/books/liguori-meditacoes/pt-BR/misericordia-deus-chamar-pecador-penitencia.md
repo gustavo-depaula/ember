@@ -1,3 +1,5 @@
+# Segunda-feira. Misericórdia de Deus em chamar o pecador à penitência
+
 > *Laboravi clamans; raucae factae sunt fauces meae* – “Cansei-me chamando; enrouqueceram-se as minhas fauces” (Sl 68, 4)
 
 ***Sumário.** Depois da queda de Adão, quão pasmados não deviam ficar os anjos ao ver que Deus o ia buscando e quase chorando o chamava! O mesmo tem Deus feito para conosco chamando-nos a si por meio de suas inspirações, dos remorsos da consciência, das práticas, das tribulações, da morte dos nossos amigos, ou de inúmeros outros modos. Parece que perdeu a voz a chamar-nos. E nós, como é que temos respondido?… Ah, meu irmão, lembramo-nos de que o Deus que agora nos chama, será um dia nosso juiz e juiz inexorável.*

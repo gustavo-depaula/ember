@@ -1,3 +1,5 @@
+# Quinta-feira. A Santíssima Eucaristia, nossa força contra os nossos inimigos
+
 > *Parasti in conspectu meo mensam adversus eos, qui tribulant me* – “Preparaste uma mesa diante de mim, contra aqueles que me angustiavam” (Sl 22, 5)
 
 ***Sumário.** Meu irmão, se te achas languido no bem, fraco no combate espiritual, põe a culpa sobre ti mesmo, porque não recebes a divina Eucaristia, ou a recebes sem as devidas disposições. Todos os Santos testemunham, e a experiência o confirma, que este divino Sacramento apaga o fogo das paixões, dá força e coragem para vencer o mundo com as suas vaidades, e debela todas as forças dos inimigos infernais. Numa palavra, os demônios, vendo uma alma incorporada no seu divino Chefe pela santa comunhão, ficam atemorizados e sem forças contra ela.*

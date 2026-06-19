@@ -1,4 +1,4 @@
-## 42 — AMOR AUDAZ E IMPACIENTE
+# 42 — AMOR AUDAZ E IMPACIENTE
 
 **Presença de Deus.** — *Deus meu, o Vosso amor me torne audaz no buscar-Vos e impaciente de possuir-Vos.*
 

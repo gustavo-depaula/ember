@@ -1,4 +1,4 @@
-## November 21 — PRESENTATION OF MARY IN THE TEMPLE
+# November 21 — PRESENTATION OF MARY IN THE TEMPLE
 
 **Presence of God.** — *O Mary, present You my offering and my life to the Lord.*
 

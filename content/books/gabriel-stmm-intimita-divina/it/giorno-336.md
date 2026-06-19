@@ -1,4 +1,4 @@
-## 14 — LA FORMAZIONE DEGLI APOSTOLI
+# 14 — LA FORMAZIONE DEGLI APOSTOLI
 
 **Presenza di Dio.** — *Gesù, Maestro divino, degnati di accogliermi alla tua scuola, affinché sotto la tua guida possa prepararmi all'apostolato.*
 

@@ -1,4 +1,4 @@
-## 48 — THE END OF TIME
+# 48 — THE END OF TIME
 
 *Last Sunday after Pentecost*
 

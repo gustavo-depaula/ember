@@ -1,3 +1,5 @@
+# Segunda-feira. Meios para alcançar o amor de Deus e a santidade
+
 > *Desideria occidunt pigrum… qui autem iustus est tribuet, et non cessabit* – “Os desejos matam o preguiçoso; porém, o que é justo dará e não cessará” (Pv 21, 25-26)
 
 ***Sumário.** Quem quiser ser santo não se deve contentar com o desejo, mas deve resolver-se a por depressa mãos à obra, porque o demônio não teme as almas irresolutas. Os meios para chegar a um fim tão sublime, são particularmente dois: a oração, que faz o amor divino entrar no coração, e a mortificação, que dele remove a terra e o torna apto a receber o fogo divino. Ganhemos ânimo; comecemos desde já a empregar estes meios e nós também chegaremos a ser santos.*

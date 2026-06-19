@@ -1,4 +1,4 @@
-## V — DEUS CONVIDA A TODOS
+# V — DEUS CONVIDA A TODOS
 
 **Presença de Deus.** — *Ó Senhor, corro ao teu convite, venho à tua fonte: dá-me de beber!*
 

@@ -1,4 +1,4 @@
-## Prefazione
+# Prefazione
 
 L'orazione mentale è un mezzo indispensabile di vita interiore; anzi, normalmente ne è il respiro spontaneo. Tuttavia, di solito ciò non si realizza se l'anima non vi si applica per un certo tempo col suo sforzo: bisogna, in altre parole, imparare a fare orazione.
 

@@ -1,4 +1,4 @@
-## 1 — NUOVO PROGRAMMA
+# 1 — NUOVO PROGRAMMA
 
 *domenica di Settuagesima*
 

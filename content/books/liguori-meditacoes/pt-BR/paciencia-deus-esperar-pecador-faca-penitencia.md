@@ -1,3 +1,5 @@
+# Terça-feira. Paciência de Deus em esperar que o pecador faça penitência
+
 > *Propterea, expectat Dominus, ut misereatur vestri* – “Por isso o Senhor espera, para ter misericórdia de vós” (Is 30, 18)
 
 ***Sumário.** A paciência de que o Senhor usa para com os pecadores, esperando que façam penitência, é tão grande, que, no dizer de Santo Agostinho, se não fosse Deus, pareceria que falta à justiça. A misericórdia de Deus impede continuamente as criaturas, que por natural instinto quiseram vingar as injúrias feitas ao Criador; e ao mesmo tempo dispensa-lhe toda sorte de graças, a fim de conduzi-los à resipiscência. Parece que teimosamente lutamos com Deus: nós provocando os seus castigos; Deus oferecendo-nos o perdão. Mas continuará sempre assim? A paciência irritada afinal torna-se furor!*

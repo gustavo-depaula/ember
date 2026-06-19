@@ -1,4 +1,4 @@
-## 51 — La dottrina di Gesù
+# 51 — La dottrina di Gesù
 
 **Presenza di Dio.** — *O Signore, vengo ai tuoi piedi desideroso di ascoltare la tua dottrina, che è dottrina di vita eterna.*
 

@@ -1,4 +1,4 @@
-## 26 — L'IMPERFEZIONE
+# 26 — L'IMPERFEZIONE
 
 **Presenza di Dio.** — *O mio Dio, fammi comprendere quanto è necessario che l'anima sia pura per unirsi a te, perfezione infinita!*
 

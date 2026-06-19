@@ -1,4 +1,4 @@
-## 16 — RIGHT INTENTION
+# 16 — RIGHT INTENTION
 
 **Presence of God.** — *O God, tear from my heart every secondary intention, every movement of self-love, so that I may seek only your glory.*
 

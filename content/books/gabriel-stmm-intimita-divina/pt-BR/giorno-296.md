@@ -1,4 +1,4 @@
-## IV — JESUS, NOSSA VIDA
+# IV — JESUS, NOSSA VIDA
 *XV Domingo depois de Pentecostes*
 
 **Presença de Deus.** — Ó Jesus, vida da minha alma, faze-me ressurgir cada dia para uma vida nova de caridade e de fervor.

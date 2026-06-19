@@ -1,4 +1,4 @@
-## XXIII — FOME E SEDE DE JUSTIÇA
+# XXIII — FOME E SEDE DE JUSTIÇA
 
 **Presença de Deus.** — *Dá-me, ó Senhor, um desejo profundo e eficaz de justiça, para que eu possa aproximar-me de ti, justiça infinita.*
 

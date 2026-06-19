@@ -1,6 +1,4 @@
-# First Part — On Devotion to the Blessed Virgin in General
-
-## Article I — Excellence and Necessity of Devotion to the Blessed Virgin
+# Article I — Excellence and Necessity of Devotion to the Blessed Virgin
 
 I confess with the whole Church that Mary, being a mere creature fashioned by the hands of the Most High, is, compared with his infinite majesty, less than an atom, or rather is nothing at all, since he alone is "He who is"; and that consequently this great Lord, always independent and self-sufficient, never had and still does not have any absolute need of the Blessed Virgin for the accomplishment of his will and the manifestation of his glory: he has only to will in order to do all things.
 

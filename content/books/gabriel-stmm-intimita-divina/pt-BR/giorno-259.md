@@ -1,4 +1,4 @@
-## XXIX — O ATO DE AMOR
+# XXIX — O ATO DE AMOR
 
 **Presença de Deus.** — *Ó Senhor, faze que eu te ame por ti mesmo e não pela minha consolação; faze que, amando-te, eu procure sempre a tua vontade e não a minha.*
 

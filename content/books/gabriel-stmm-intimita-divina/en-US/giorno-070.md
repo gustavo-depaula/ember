@@ -1,4 +1,4 @@
-## 70 — THE BOND OF PERFECTION
+# 70 — THE BOND OF PERFECTION
 *Fifth Sunday after Epiphany*
 
 **Presence of God.** — *My God, grant that before every other thing I may desire and seek the perfection of love.*

@@ -1,3 +1,5 @@
+# Terça-feira. Da vida retirada
+
 > *Venite seorsum in desertum locum, et requiescite pusillum* – “Vinde à parte a um lugar solitário e descansai um pouco” (Mc 6, 31)
 
 ***Sumário.** Todas as almas que amam o Senhor acham o seu paraíso na vida retirada. Ademais, sabemos que Jesus Cristo quis que, depois dos trabalhos do apostolado, seus discípulos se retirassem para um lugar solitário afim de conversarem só com Deus. Devemos portanto concluir que o retiro para a solidão, feito de tempos a tempos, é necessário a todos, mas em particular aos operários sagrados, afim de conservarem o recolhimento e refazerem as forças para novos trabalhos na conquista das almas. Sem esse retiro, serão poucos os frutos de seus trabalhos apostólicos.*

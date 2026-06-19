@@ -1,4 +1,4 @@
-## Article II — Motifs de cette consécration
+# Article II — Motifs de cette consécration
 
 ### Premier motif
 

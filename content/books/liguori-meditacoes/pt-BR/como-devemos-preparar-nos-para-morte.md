@@ -1,3 +1,5 @@
+# Segunda-feira. Como devemos preparar-nos para a morte
+
 Vida, Morte e Tempo – Memento Mori (Philippe de Champaigne’s Vanitas 1.671)
 
 > *Dispone domui tuae, quia morieris tu et non vives* – “Dispõe de tua casa, porque morrerás e não viverás” (Is 38, 1)

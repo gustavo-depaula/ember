@@ -1,4 +1,4 @@
-## XXIII — HOPING WITHOUT MEASURE
+# XXIII — HOPING WITHOUT MEASURE
 
 **Presence of God.** — *Sustain, O Lord, my hope, so that I may hope in You without measure.*
 

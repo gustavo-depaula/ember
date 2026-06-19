@@ -1,4 +1,4 @@
-## XXII — BEATI I MISERICORDIOSI
+# XXII — BEATI I MISERICORDIOSI
 
 **Presenza di Dio.** — *O Spirito Santo, rendi il mio cuore misericordioso a imitazione del Cuore di Gesù.*
 

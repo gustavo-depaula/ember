@@ -1,3 +1,5 @@
+# Modo de fazer Oração Mental, por Santo Afonso
+
 A meditação ou oração mental contém três partes:
 
 - A Preparação

@@ -1,4 +1,4 @@
-## 75 — VOCATION
+# 75 — VOCATION
 
 **Presence of God.** — *My God, grant that to the privilege of Your call I may correspond with a deeply humble and fully generous heart.*
 

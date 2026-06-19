@@ -1,3 +1,5 @@
+# Quarta-feira. Angustias do pecador moribundo
+
 Agonia (por Hatakeyondaime, Devian Art)
 
 > *Virum iniustum mala capient in interitu* – “Do varão injusto se apoderarão os males na morte” (Sl 139, 12)

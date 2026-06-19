@@ -1,4 +1,4 @@
-## 56 — L'AMORE ALLA CROCE
+# 56 — L'AMORE ALLA CROCE
 
 **Presenza di Dio.** — *Vengo ancora a te, mio Dio crocifisso, col desiderio di penetrare più profondamente nel mistero della Croce.*
 

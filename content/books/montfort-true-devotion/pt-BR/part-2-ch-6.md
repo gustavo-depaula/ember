@@ -1,4 +1,4 @@
-## Artigo VI — Maneira de praticar esta devoção na santa comunhão
+# Artigo VI — Maneira de praticar esta devoção na santa comunhão
 
 ### § I. Antes da comunhão
 

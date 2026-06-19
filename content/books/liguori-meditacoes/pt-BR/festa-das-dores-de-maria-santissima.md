@@ -1,3 +1,5 @@
+# 15 de Setembro. Festa das Dores de Maria Santíssima
+
 > *Compatimur ut et glorificemur* — “Padecemos com ela para sermos também com ela glorificados” (cf. Rm 8, 17)
 
 ***Sumário.** Ó! Como aprouve a Deus glorificar já nesta terra as dores da Santíssima Virgem! Primeiro deu-lhe assim ocasião para patentear as suas belas virtudes, e especialmente a sua caridade para com Deus e o próximo. Em segundo lugar fê-la merecer o título glorioso de Rainha dos Mártires. Finalmente, foi pelas suas dores que Maria se tornou Mãe de todos os fiéis e Co-redentora do gênero humano. Se nos quisermos mostrar seus dignos filhos, alegremo-nos com a nossa boa Mãe e esforcemo-nos por a imitarmos, carregando com paciência as nossas cruzes. Assim virá também para nós o dia em que seremos glorificados com ela no céu.*

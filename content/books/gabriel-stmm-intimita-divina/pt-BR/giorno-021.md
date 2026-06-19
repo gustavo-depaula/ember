@@ -1,4 +1,4 @@
-## 21 — BUSCAR DEUS NA ATIVIDADE
+# 21 — BUSCAR DEUS NA ATIVIDADE
 
 **Presença de Deus.** — *Deixo toda atividade externa, para recolher-me aos pés de Jesus e peço-lhe que me ensine a manter-me nesta posição interior também no meio das minhas ocupações.*
 

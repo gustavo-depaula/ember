@@ -1,4 +1,4 @@
-## IX — LA FEDE DI MARIA
+# IX — LA FEDE DI MARIA
 
 **Presenza di Dio.** — *O Madre mia, insegnami a credere con piena fermezza, insegnami a fidarmi totalmente di Dio.*
 

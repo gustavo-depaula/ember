@@ -1,4 +1,4 @@
-## 71 — O BATISMO
+# 71 — O BATISMO
 
 **Presença de Deus.** — *Ó Deus, que sem nenhum mérito meu me fizeste teu filho, concede-me viver de modo digno desta filiação divina.*
 

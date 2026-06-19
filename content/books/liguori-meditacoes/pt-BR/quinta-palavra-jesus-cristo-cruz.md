@@ -1,3 +1,5 @@
+# Sexta-feira. Quinta palavra de Jesus Cristo na Cruz
+
 > *Sciens Jesus quia omnia consummata sunt, ut consummaretur Scriptura, dixit: Sitio* – “Sabendo Jesus que tudo estava cumprido, para se cumprir ainda a escritura, disse: Tenho sede” (Jo 19, 28)
 
 ***Sumário.** É dupla a sede que sofre Jesus moribundo: a sede corporal, causada pelo cansaço das caminhadas, pela tristeza interior e pelo muito sangue derramado. Outra sede espiritual, isso é, o desejo da salvação eterna de todos os homens, que O faz anelar maiores tormentos, se for preciso. Ah! Se nos lembrássemos sempre desta dúplice sede do Senhor, não procuraríamos delicadezas supérfluas e esforçar-nos-íamos por reconduzir as almas a Deus. Longe de nos queixarmos das tribulações, desejá-las-íamos maiores por amor de Jesus Cristo.*

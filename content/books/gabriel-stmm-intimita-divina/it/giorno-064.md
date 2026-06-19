@@ -1,4 +1,4 @@
-## 64 — GESÙ E GLI UOMINI
+# 64 — GESÙ E GLI UOMINI
 
 **Presenza di Dio.** — *O Gesù, insegnami ad amare i miei fratelli, come li ami Tu.*
 

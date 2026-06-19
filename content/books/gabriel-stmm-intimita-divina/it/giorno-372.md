@@ -1,4 +1,4 @@
-## 50 — IL DONO SCAMBIEVOLE
+# 50 — IL DONO SCAMBIEVOLE
 
 **Presenza di Dio.** — *O Signore, che io sia tutto per te e Tu sia tutto per me!*
 

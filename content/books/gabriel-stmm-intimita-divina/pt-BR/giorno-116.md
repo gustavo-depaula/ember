@@ -1,4 +1,4 @@
-## 40 — ESCONDER-SE COM CRISTO EM DEUS
+# 40 — ESCONDER-SE COM CRISTO EM DEUS
 
 **Presença de Deus.** — *Ó Jesus, ajuda-me a esconder-me das criaturas para penetrar em tua intimidade divina.*
 

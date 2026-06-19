@@ -1,3 +1,5 @@
+# 25 de Agosto. Sublimidade do Mistério da Encarnação
+
 > *Et Verbum caro factum est, et habitavit in nobis * – “E o Verbo se fez carne, e habitou entre nós” (Jo 1, 14)
 
 ***Sumário.** A criação de mil mundos, cada qual maior e mais formoso, teria sido uma obra infinitamente inferior ao mistério da Encarnação do Verbo. Para realizar esta obra tão sublime, era precisa toda a onipotência, toda a sabedoria infinita de um Deus. Uma natureza humana devia unir-se a uma pessoa divina, e uma pessoa divina devia humilhar-se até tomar a natureza humana e tudo isto por que? Por amor a homens ingratos e rebeldes, por amor de nós, que nem sequer sabemos sofrer por amor de Jesus Cristo uma humilhação, um desprezo.*

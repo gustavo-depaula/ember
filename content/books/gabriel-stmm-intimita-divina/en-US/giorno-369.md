@@ -1,4 +1,4 @@
-## 47 — DIVINE HELP
+# 47 — DIVINE HELP
 
 **Presence of God.** — *O Lord, who go before me, accompany me, and sustain me with Your grace, grant that this grace in me may not be in vain.*
 

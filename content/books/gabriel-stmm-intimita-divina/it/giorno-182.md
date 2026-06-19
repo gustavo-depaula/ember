@@ -1,4 +1,4 @@
-## XIII — Nell'attesa
+# XIII — Nell'attesa
 
 *Domenica fra l'Ottava dell'Ascensione*
 

@@ -1,4 +1,4 @@
-## 52 — A PACIÊNCIA
+# 52 — A PACIÊNCIA
 
 **Presença de Deus.** — Ó Jesus, Paciente divino e mansuetíssimo, ensina-me o segredo da verdadeira paciência.
 

@@ -1,3 +1,5 @@
+# Terça-feira. A alma culpada diante do Juiz Divino
+
 > *Omnes nos manifestari oportet ante tribunal Christi* – “Todos nós devemos manifestar-nos diante do tribunal de Cristo” (2 Cor 5, 10)
 
 ***Sumário.** Têm-se visto criminosos banhados em suor frio, na presença de um juiz terrestre. Que maior terror não deve sentir o pecador diante do tribunal de Jesus Cristo? Ó céus! Verá acima de si o Juiz irritado, por baixo o inferno aberto, a um lado os pecados que o acusam, ao outro os demônios armados para o seu suplício. O Bem-aventurado Juvenal Ancina, impressionado por esta grande verdade, resolveu deixar o mundo e fez-se religioso. Meu irmão, o que farás? Continuarás a viver em teu estado de tibieza?*

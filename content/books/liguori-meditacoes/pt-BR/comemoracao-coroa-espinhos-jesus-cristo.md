@@ -1,3 +1,5 @@
+# Sexta-feira. Comemoração da Coroa de espinhos de Nosso Senhor Jesus Cristo
+
 Coroação de Espinhos (Stom Matthias)
 
 > *Et milites plectentes coronam de spinis, imposuerunt capiti eius* – “E os soldados tecendo de espinhos uma coroa, lha puseram sobre a cabeça” (Jo 19, 2)

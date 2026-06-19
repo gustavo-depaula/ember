@@ -1,3 +1,5 @@
+# 10ª Meditação. Do amor a Deus
+
 > *Diliges Dominum Deum tuum ex toto corde tuo* — “Amarás ao Senhor teu Deus de todo o teu coração” (Mt 22, 37)
 
 ***Sumário.** Entre todos os amigos do mundo, onde encontraremos um mais fiel, mais amante do que Deus? Amemo-lo, pois, conforme o seu desejo, de todo o coração, e agradeçamos-lhe muitas vezes o obséquio que nos fez chamando-nos a seu amor. Estejamos certos de que Jesus Cristo não se deixará vencer em amor, e recompensará, cem por um, o que fizermos por amor dele. Cada ato intensivamente perfeito de amor para com Deus, faz-nos adquirir um novo mérito igual a todos os méritos dantes adquiridos.*

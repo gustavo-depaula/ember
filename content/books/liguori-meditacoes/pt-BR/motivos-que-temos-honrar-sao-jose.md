@@ -1,3 +1,5 @@
+# Segunda-feira. Motivos que temos de honrar a São José
+
 > *Constituit eum dominum domus suae, et principem omnis possessionis suae* – “Constituiu-o senhor de sua casa, e príncipe de tudo que possuía” (Sl 104, 21)
 
 ***Sumário.** Tomemos a São José por nosso protetor especial e não nos esqueçamos de honrá-lo cada dia e de nos recomendar a ele. Honrando ao santo Patriarca, imitaremos os exemplos de Jesus e Maria, que foram os primeiros a honrarem-no sobre esta terra. Além disso, pelo intermédio do Santo obteremos os favores mais assinalados, porquanto a experiência demonstra que São José obtém de Deus para seus devotos tudo que quer e os socorre em suas necessidades.*.

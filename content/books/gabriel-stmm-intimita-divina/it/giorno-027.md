@@ -1,4 +1,4 @@
-## 27 — IL VERBO SI È FATTO CARNE
+# 27 — IL VERBO SI È FATTO CARNE
 
 *23 dicembre*
 

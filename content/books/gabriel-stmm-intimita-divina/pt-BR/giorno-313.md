@@ -1,4 +1,4 @@
-## XXI — O DOM DO CONSELHO
+# XXI — O DOM DO CONSELHO
 
 **Presença de Deus.** — *Vem, Espírito de conselho, e faze que meu coração escute teus ensinamentos!*
 

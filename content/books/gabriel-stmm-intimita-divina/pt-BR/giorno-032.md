@@ -1,4 +1,4 @@
-## 32 — GLÓRIA A DEUS
+# 32 — GLÓRIA A DEUS
 
 *28 dezembro*
 

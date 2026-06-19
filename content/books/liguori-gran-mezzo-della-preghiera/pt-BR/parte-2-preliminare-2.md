@@ -1,6 +1,4 @@
-# Parte Segunda
-
-## Preliminar II
+# Preliminar II
 
 ### Deus concede comumente a graça necessária a todos os justos para observar os preceitos, e a todos os pecadores para se converterem
 

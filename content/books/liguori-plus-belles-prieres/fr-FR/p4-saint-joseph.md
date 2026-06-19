@@ -1,4 +1,4 @@
-## Article 5. — Dévotion à saint Joseph.
+# Article 5. — Dévotion à saint Joseph.
 
 Visites a saint Joseph pour chaque jour du mois, page 308.
 

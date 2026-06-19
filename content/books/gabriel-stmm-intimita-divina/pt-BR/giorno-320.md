@@ -1,4 +1,4 @@
-## XXVIII — O DOM DA SABEDORIA
+# XXVIII — O DOM DA SABEDORIA
 
 **Presença de Deus.** — *Vem, Espírito de Sabedoria, atrai-me!*
 

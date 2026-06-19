@@ -1,4 +1,4 @@
-## VIII — MARY'S HUMILITY
+# VIII — MARY'S HUMILITY
 
 **Presence of God.** — *O Mary, most humble among all creatures, make my heart humble.*
 

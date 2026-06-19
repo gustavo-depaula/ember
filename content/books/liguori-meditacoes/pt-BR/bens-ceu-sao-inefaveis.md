@@ -1,3 +1,5 @@
+# Quarta-feira. Os bens do céu são inefáveis
+
 > *Et audivit arcana verba, quae non licet homini loqui* – “Ouviu palavras misteriosas, que não é permitido ao homem referir” (2 Cor 12, 4)
 
 ***Sumário.** As delícias do paraíso são de tal ordem que é preciso gozá-las para delas fazer alguma ideia. Basta considerarmos que nele reside um Deus onipotente, que se empenha em fazer felizes as almas que ama. Ali não há nada que desagrade; e há tudo quanto possa agradar. Felizes de nós, se tivermos a ventura de nele entrar; mas ao contrário, qual não seria a nossa aflição, se por desgraça nos viéssemos a perder, ao pensarmos que por um nada perdemos uma felicidade eterna.*

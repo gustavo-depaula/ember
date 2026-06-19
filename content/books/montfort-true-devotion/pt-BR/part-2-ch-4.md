@@ -1,4 +1,4 @@
-## Artigo IV — Efeitos maravilhosos desta devoção
+# Artigo IV — Efeitos maravilhosos desta devoção
 
 213 — Meu caro irmão, estai persuadido de que, se vos tornardes fiel às práticas interiores e exteriores desta devoção que vos indicarei adiante:
 

@@ -1,3 +1,5 @@
+# Quarta-feira. Morte feliz dos religiosos
+
 > *Beati mortui qui in Domino moriuntur. Amodo iam dicit Spiritus, ut requiescant a laboribus suis* – “Bem-aventurados os mortos que morrem no Senhor. Desde agora diz já o Espírito Santo que descansem dos seus trabalhos” (Ap 14, 13)
 
 ***Sumário.** Para te confirmares na tua vocação, imagina que estás a ponto de morrer e próximo a comparecer no tribunal de Jesus Cristo. Pensa o que então mais desejarás ter feito. Será talvez teres ajudado à casa e feito a vontade própria, com as honras de pároco, de cônego, de ministro? Ou antes, morrer na casa de Deus, assistido de teus bons confrades, depois de uma vida na Religião sob a obediência e desapegado de todas as coisas da terra?*

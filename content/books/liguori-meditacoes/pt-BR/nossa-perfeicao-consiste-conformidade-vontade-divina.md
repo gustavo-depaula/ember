@@ -1,3 +1,5 @@
+# Segunda-feira. A nossa perfeição consiste na conformidade com a vontade divina
+
 “Senhor, não permitais que Vos ofenda, fazei com que Vos ame sempre e depois disponde de mim segundo a vossa vontade.”
 
 > *Haec est enim voluntas Dei: sanctificatio vestra* – “Esta é a vontade de Deus: a vossa santificação” (1 Ts 4, 3)

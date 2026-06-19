@@ -1,4 +1,4 @@
-## XI — AS CARACTERÍSTICAS DA ALMA CRISTÃ
+# XI — AS CARACTERÍSTICAS DA ALMA CRISTÃ
 
 *XVI Domingo depois de Pentecostes*
 

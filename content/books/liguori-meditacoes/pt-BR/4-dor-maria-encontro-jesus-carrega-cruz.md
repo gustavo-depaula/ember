@@ -1,3 +1,5 @@
+# Quarta-feira. Quarta Dor de Maria Santíssima – Encontro com Jesus, que carrega a cruz
+
 ## Primeira Meditação para a Quarta-feira Santa
 
 > *Vidimus eum, et non erat aspectus, et desideravimus eum* – “Vimo-Lo, e não havia nele formosura, e por isso nós O estranhamos” (Is 53, 2)

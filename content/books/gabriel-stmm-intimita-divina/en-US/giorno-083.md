@@ -1,4 +1,4 @@
-## 7 — THE NIGHT OF THE SENSES
+# 7 — THE NIGHT OF THE SENSES
 
 **Presence of God.** — *O Lord, strengthen my desire to come to You, that I may have the courage to face for love of You the total purification of my sensibility.*
 

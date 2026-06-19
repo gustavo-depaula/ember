@@ -1,4 +1,4 @@
-## 30 — CRER NO AMOR
+# 30 — CRER NO AMOR
 *26 dezembro*
 
 **Presença de Deus.** — *Ó dulcíssimo Menino Jesus, faze-me penetrar no abismo do teu infinito amor, para que eu saiba crer nele com todas as minhas forças.*

@@ -1,3 +1,5 @@
+# 21 de Novembro. Festa da Apresentação de Maria Santíssima
+
 > *En dilectus meus loquitur mihi: Surge, propera, amica mea, columba mea, formosa mea, et veni* — “Eis aí o meu amado que me diz: Levanta-te, apressa-te, amiga minha, pomba minha, formosa minha, e vem” (Ct 2, 10),
 
 ***Sumário.** Afiguremo-nos ver a santa Menina que, acompanhada dos seus pais e de numerosos anjos, se põe a caminho de Jerusalém. Chegada que é aos degraus do templo, beija, de joelhos, as mãos de São Joaquim e de Santa Ana, pede-lhes a bênção, e, sem mais olhar para trá, despede-se do mundo e consagra-se irrevogavelmente ao seu Deus. Felizes de nós, se pudéssemos oferecer hoje ao Senhor os primeiros anos da nossa vida! Ofereçamos-lhe ao menos os poucos que ainda nos restam; pois, melhor é começar tarde do que nunca.*

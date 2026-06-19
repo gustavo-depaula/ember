@@ -100,6 +100,29 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       padding: 0;
     }
     h2.chapter-title + p { text-indent: 0; }
+
+    /* Part divider: a large centered display title with generous breathing
+       room above — reads as a section break, no fleuron or drop cap. */
+    h2.part-title {
+      font-size: 2em;
+      font-weight: 600;
+      text-align: center;
+      letter-spacing: 0.03em;
+      margin: 1.6em 0 1em;
+      line-height: 1.2;
+    }
+    h2.part-title + p { text-indent: 0; }
+
+    /* Section title: between chapter and part — centered, no fleuron. */
+    h2.section-title {
+      font-size: 1.55em;
+      font-weight: 600;
+      text-align: center;
+      letter-spacing: 0.02em;
+      margin: 0.8em 0 1.2em;
+      line-height: 1.25;
+    }
+    h2.section-title + p { text-indent: 0; }
   `;
 
   // foliate's iframe.src = blob:URL. Wrap each chapter HTML in a minimal

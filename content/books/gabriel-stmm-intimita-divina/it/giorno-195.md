@@ -1,4 +1,4 @@
-## XXVI — I DONI DELLO SPIRITO SANTO
+# XXVI — I DONI DELLO SPIRITO SANTO
 
 **Presenza di Dio.** — *O Spirito Santo, sviluppa in me i tuoi doni, affinché io possa ricevere le tue mozioni divine.*
 

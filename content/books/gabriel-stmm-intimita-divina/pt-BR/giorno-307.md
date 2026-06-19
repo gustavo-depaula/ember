@@ -1,4 +1,4 @@
-## XV — BEM-AVENTURADOS OS POBRES DE ESPÍRITO
+# XV — BEM-AVENTURADOS OS POBRES DE ESPÍRITO
 
 **Presença de Deus.** — Ó Espírito Santo, mostra-me o caminho que conduz à verdadeira pobreza de espírito e dá-me força para percorrê-lo até o fim.
 

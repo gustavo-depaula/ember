@@ -1,4 +1,4 @@
-## Le Mercredi consacré à saint Joseph
+# Le Mercredi consacré à saint Joseph
 
 ### Prières pendant la Messe
 

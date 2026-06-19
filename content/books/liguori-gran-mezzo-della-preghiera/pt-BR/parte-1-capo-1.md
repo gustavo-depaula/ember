@@ -1,6 +1,4 @@
-# Parte Primeira
-
-## Capítulo I — Da necessidade da oração
+# Capítulo I — Da necessidade da oração
 
 Foi outrora erro dos Pelagianos dizer que a oração não é necessária para alcançar a salvação. Dizia o ímpio mestre deles, Pelágio, que o homem somente se perde quando negligencia o conhecimento das verdades necessárias. Mas grande coisa dizia Santo Agostinho: *Omnia disputat, quam ut oret*. Pelágio de tudo queria tratar, menos da oração, que é o único meio (como sustentava e ensinava o Santo) para adquirir a ciência dos Santos, conforme o que já escreveu São Tiago: *Si quis indiget sapientia, postulet a Deo, qui dat omnibus affluenter, nec improperat*. Tg 1, 6.
 

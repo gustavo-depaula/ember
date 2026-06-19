@@ -1,3 +1,5 @@
+# Sábado. Necessidade que temos da intercessão de Maria Santíssima para nossa salvação
+
 > *Gens et regnum, quod non servierit tibi, peribit* – ““A gente e o reino que te não servir, perecerá” (Is 60, 12)
 
 ***Sumário.** Para a salvação, a graça divina é indispensável. Verdade é que esta graça nos foi merecida por Jesus Cristo, o Medianeiro de justiça; mas a dispensadora da graça é Maria Santíssima, por ser Mãe de Deus. É por isso que o demônio tanto esforço faz para arrancar da alma a devoção à Santa Virgem. O espírito maligno sabe que obstruído este canal de graças, tudo está perdido. Examinemo-nos, pois, se temos devoção verdadeira à divina Mãe e, descobrindo que nos temos relaxado, retomemos o nosso primeiro fervor.*

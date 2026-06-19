@@ -1,4 +1,4 @@
-## VII — A ORAÇÃO
+# VII — A ORAÇÃO
 
 **Presença de Deus.** — *Ó Senhor, aproximo-me de ti para pedir-te o verdadeiro espírito de oração.*
 

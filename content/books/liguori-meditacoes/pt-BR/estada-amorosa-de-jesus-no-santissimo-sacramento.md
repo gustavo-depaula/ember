@@ -1,3 +1,5 @@
+# 11ª Meditação. Estada amorosa de Jesus no Santíssimo Sacramento
+
 > *Ecce ego vobiscum sum omnibus diebus, usque ad consummationem saeculi *— “Eis que estou convosco todos os dias até a consumação dos séculos” (Mt 28, 20)
 
 ***Sumário.** O amantíssimo Jesus não quis pela morte ficar separado dos seus fiéis; e por isso instituiu o Santíssimo Sacramento. Já que o Senhor, para nos patentear o seu amor, quis ficar continuamente conosco sobre os altares, também nós, para lhe patentear o nosso amor, devemos visitá-lo frequentemente, e expor-lhe as nossas necessidades. Permaneçamos o mais tempo possível diante do Tabernáculo, e pelo nosso fervor procuremos reparar as muitas ingratidões que Jesus recebe da parte dos homens. Todos os santos acharam cá na terra o seu paraíso na presença de Jesus sacramentado.*

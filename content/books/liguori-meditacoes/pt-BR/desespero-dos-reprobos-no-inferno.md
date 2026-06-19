@@ -1,3 +1,5 @@
+# Quarta-feira. Desespero dos réprobos no Inferno
+
 > *Mortuo homine impio, nulla erit ultra spes* – “Morto o homem ímpio, não restará mais esperança alguma” (Pv 11, 7)
 
 ***Sumário.** Enquanto o pecador vive, há sempre esperança de conversão; mas quando a morte o arrebatou no estado de pecado, não lhe resta mais esperança alguma e verá sempre diante dos olhos a sentença de sua eterna condenação. Sim, porque o inferno tem uma porta de entrada, mas não de saída. O que o réprobo começa a sofrer no primeiro dia da sua entrada, terá de sofrê-lo sempre. Qual não seria, pois, o nosso desespero, se por desgraça nos viéssemos a condenar!… Ó Pai Eterno, pelo amor de Jesus Cristo, castigai-me como quiserdes, mas poupai-me na eternidade.*

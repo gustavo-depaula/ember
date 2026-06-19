@@ -1,3 +1,5 @@
+# Segunda-feira. Bem-aventurado o que não quer outra coisa senão a Deus
+
 > *Beati pauperes spiritu, quoniam ipsorum est regnum coelorum* – “Bem-aventurados os pobres de espírito, porque deles é o reino dos céus” (Mt 5, 3)
 
 ***Sumário.** Persuadamo-nos bem de que só Deus pode contentar-nos; mas não contenta senão àqueles que são pobres de espírito, isso é, de desejos terrestres, e nada querem fora dele. Se, portanto, nós também queremos achar a verdadeira felicidade, desfaçamo-nos de todo o afeto à terra, entreguemo-nos a Deus sem reserva e digamos frequentes vezes: **Senhor, disponde de mim, e de tudo que é meu, segundo o vosso agrado; eu não quero senão o que Vós quereis.***

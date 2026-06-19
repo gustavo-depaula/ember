@@ -1,4 +1,4 @@
-## 11 — THE SPIRIT OF POVERTY
+# 11 — THE SPIRIT OF POVERTY
 
 **Presence of God.** — *O Jesus, I contemplate You on the mountain while You instruct the crowds on the spirit of poverty. I too draw near, desirous of understanding more deeply the spirit of poverty.*
 

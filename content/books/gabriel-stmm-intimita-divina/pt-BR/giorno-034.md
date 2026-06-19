@@ -1,4 +1,4 @@
-## 34 — SINAL DE CONTRADIÇÃO
+# 34 — SINAL DE CONTRADIÇÃO
 
 *domingo entre a oitava da Natividade*
 

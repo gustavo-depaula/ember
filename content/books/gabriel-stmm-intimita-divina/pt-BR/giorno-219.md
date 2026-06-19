@@ -1,4 +1,4 @@
-## XIX — PERMANECER EM CRISTO
+# XIX — PERMANECER EM CRISTO
 
 **Presença de Deus.** — *Ó Jesus, ensina-me não só a viver contigo, mas a viver em ti, a permanecer em ti.*
 

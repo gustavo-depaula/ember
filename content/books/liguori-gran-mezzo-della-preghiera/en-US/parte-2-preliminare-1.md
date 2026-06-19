@@ -1,6 +1,4 @@
-# Part Two
-
-## Preliminary I
+# Preliminary I
 
 ### God Wills the Salvation of All, and Therefore Jesus Christ Died to Save All
 

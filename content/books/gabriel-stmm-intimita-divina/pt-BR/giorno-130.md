@@ -1,4 +1,4 @@
-## 54 — SOFRIMENTO E ABANDONO
+# 54 — SOFRIMENTO E ABANDONO
 
 **Presença de Deus.** — Ó Senhor, ensina-me a sofrer com simplicidade, sem inúteis retornos sobre mim mesmo, mas abandonando-me a teu querer divino.
 

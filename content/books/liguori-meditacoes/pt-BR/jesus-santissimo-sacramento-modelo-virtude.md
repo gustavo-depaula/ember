@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento, modelo de virtude
+
 > *Qui appropinquant pedibus eius, accipient de doctrina illius* – “Os que chegam a seus pés, receberão da sua doutrina” (Dt 33, 3)
 
 ***Sumário.** Para a nossa salvação, é mister que no dia do juízo a nossa vida se ache conforme à de Jesus Cristo. Esforcemo-nos, pois, por imitar os exemplos luminosos de virtude que Ele nos dá continuamente no Santíssimo Sacramento da Eucaristia: a sua humildade profunda, a sua mansidão inalterável, aceitando de boa vontade o que Deus manda. Para suprirmos ao que nos falta, ofereçamos a Deus muitas vezes, e particularmente na missa, os merecimentos do divino Redentor.*

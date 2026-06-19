@@ -1,4 +1,4 @@
-## XXV — CONCORDIA FRATERNA
+# XXV — CONCORDIA FRATERNA
 
 *V Domenica dopo Pentecoste*
 

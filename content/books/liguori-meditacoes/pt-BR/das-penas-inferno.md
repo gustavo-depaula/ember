@@ -1,3 +1,5 @@
+# Segunda-feira. Das penas do Inferno
+
 > *Omnis dolor irruet super eum* – “Toda a sorte de dores virá sobre ele” (Jó 20, 22)
 
 ***Sumário.** É artigo de fé que há um inferno, isto é, uma prisão miserabilíssima toda cheia de fogo, onde cada sentido e cada faculdade do réprobo sofrem uma pena particular. Enquanto fazemos esta meditação, tantos cristãos desgraçados, talvez da mesma idade que nós, talvez conhecidos nossos, estão ardendo nessa fornalha ardente, sem a mínima esperança de saírem de lá. Reflete agora, meu irmão: qual é o estado de tua consciência? Se o Senhor te deixasse morrer na primeira noite, para onde iria a tua alma?*

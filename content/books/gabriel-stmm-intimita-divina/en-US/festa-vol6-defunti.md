@@ -1,4 +1,4 @@
-## November 2 — COMMEMORATION OF THE FAITHFUL DEPARTED
+# November 2 — COMMEMORATION OF THE FAITHFUL DEPARTED
 
 **Presence of God.** — *O Lord, grant eternal rest to the souls of the departed and make the thought of death spur me to greater generosity.*
 

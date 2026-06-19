@@ -1,4 +1,4 @@
-## XXIX — BLESSED ARE THE PEACEMAKERS
+# XXIX — BLESSED ARE THE PEACEMAKERS
 
 **Presence of God.** — *O Holy Spirit, help me establish my heart in peace.*
 

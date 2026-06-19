@@ -1,3 +1,5 @@
+# Sábado. Poder de Maria Santíssima para nos defender nas tentações
+
 > *Inimicitias ponam inter te et mulierem … Ipasa conteret caput tuum* – “Porei inimizade entre ti e a mulher… Ela te esmagará a cabeça” (Gn 3, 15)
 
 ***Sumário.** Com muita razão a Santíssima Virgem é comparada a um posto em ordem de batalha, porque ela sabe ordenar o seu poder e a sua misericórdia para confusão dos inimigos infernais e benefício dos seus devotos. Felizes de nós, se nas tentações recorrermos sempre a esta divina Mãe, invocando o seu doce nome juntamente com o de Jesus. O obséquio mais agradável a Maria é: recomendarmo-nos muitas vezes a ela e metermo-nos debaixo da sua proteção: Sub tuum praesidium confugimos, sancta Dei Genitrix – “Sob tua proteção nos refugiamos, ó santa Mãe de Deus!”*

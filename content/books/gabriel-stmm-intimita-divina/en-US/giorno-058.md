@@ -1,4 +1,4 @@
-## 58 — "I AM IN THE FATHER"
+# 58 — "I AM IN THE FATHER"
 
 **Presence of God.** — *Grant me, O Jesus, to penetrate the intimate dispositions of Your Soul, in continual personal union with the Father.*
 

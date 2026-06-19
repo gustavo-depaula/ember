@@ -1,3 +1,5 @@
+# Segunda-feira. Valor do Tempo
+
 > *Fili, conserva tempus et devita a malo* – “Filho, guarda o tempo e evita o mal” (Eclo 4, 23)
 
 ***Sumário.** Um só momento de tempo vale tanto como Deus, porque o homem pode a cada instante, por um ato de contrição ou de amor, adquirir a graça de Deus e aumentar a glória eterna. E tu, meu irmão, em que empregas o tempo tão precioso? Porque adias sempre para amanhã o que podes fazer hoje?… Reflete que o tempo passado já não te pertence; que o futuro não está em tua mão. Só tens o tempo presente para fazeres o bem e este é brevíssimo! Mister é, pois, que o aproveites depressa, se não o quiseres chorar depois como perdido irremediavelmente.*

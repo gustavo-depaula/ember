@@ -1,3 +1,5 @@
+# Quarta-feira. Para nos prepararmos para a morte não devemos esperar pelo último momento
+
 > *Estote parati: quia qua nescitis hora Filius hominis venturus est* – “Estai preparados; porque não sabeis em que hora tem de vir o Filho do homem” (Mt 24, 44)
 
 ***Sumário.** Devemo-nos persuadir de que o tempo da morte não é o momento próprio para regular as contas. Que dirias de um homem que tendo de entrar em concurso para uma cadeira, quisesse instruir-se somente na hora da prova? Não seria tido por louco o comandante de uma praça que esperasse que o cercassem para fazer provisão de viveres e munições? Não seria loucura da parte de um piloto, se não se munisse de âncoras e cabos senão no momento da tempestade? Tal é todavia o procedimento de um cristão que espera que a morte chegue para por em ordem a sua consciência.*

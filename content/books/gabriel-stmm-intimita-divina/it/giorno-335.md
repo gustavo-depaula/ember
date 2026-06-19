@@ -1,4 +1,4 @@
-## 13 — VERSO LA PATRIA
+# 13 — VERSO LA PATRIA
 
 *XX Domenica dopo Pentecoste*
 

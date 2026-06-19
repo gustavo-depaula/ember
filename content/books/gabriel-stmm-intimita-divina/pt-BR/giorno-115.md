@@ -1,4 +1,4 @@
-## 39 — ESCONDER-SE DE SI MESMO
+# 39 — ESCONDER-SE DE SI MESMO
 
 **Presença de Deus.** — *Ó Jesus que, inteiramente esquecido de ti, te consagraste à glória do Pai, ensina-me a esquecer-me.*
 

@@ -1,3 +1,5 @@
+# Domingo. Os Dois senhores e as Almas Tíbias
+
 ## 14º Domingo depois de Pentecostes
 
 > *Nemo potest duobus dominis servire* – “Ninguém pode servir a dois senhores” (Mt 6, 24)

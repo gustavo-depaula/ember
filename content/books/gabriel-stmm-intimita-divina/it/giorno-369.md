@@ -1,4 +1,4 @@
-## 47 — L'AIUTO DIVINO
+# 47 — L'AIUTO DIVINO
 
 **Presenza di Dio.** — *O Signore, che mi previeni, accompagni e sostieni con la tua grazia, fa' che questa grazia in me non sia vana.*
 

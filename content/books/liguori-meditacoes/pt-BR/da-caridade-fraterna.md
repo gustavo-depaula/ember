@@ -1,3 +1,5 @@
+# Segunda-feira. Da caridade fraterna
+
 > *Diliges proximum tuum tamquam teipsum* – “Amarás ao teu próximo como a ti mesmo” (Mc 12 ,31)
 
 ***Sumário.** Ninguém pode amar a Deus sem que tenha amor ao próximo, porquanto o amor de Deus e o do próximo nascem da mesma caridade, e o mesmo preceito que nos obriga ao primeiro, obriga-nos também ao segundo. Examinemos em que estima tivemos até agora um preceito tão importante, e, se porventura tivermos de reconhecer faltas, façamos firme propósito de ser para o futuro mais exatos, lembrando-nos que da observância da caridade depende o sermos cristãos, não só de nome, mas de fato.*.

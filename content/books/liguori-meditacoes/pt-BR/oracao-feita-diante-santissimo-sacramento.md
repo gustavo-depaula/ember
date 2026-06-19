@@ -1,3 +1,5 @@
+# Quinta-feira. Da oração feita diante do Santíssimo Sacramento
+
 > *In conspectu angelorum psallam tibi, adorabo ad templum sanctum tuum* – “À vista dos anjos te cantarei salmos; eu te adorarei no teu santo templo” (Sl 137, 2)
 
 ***Sumário.** Depois da oração feita na comunhão, a que se faz na presença de Jesus sacramentado é a mais agradável a Deus e a mais proveitosa para nós. Sim, porque o Senhor está ali presente exatamente para consolar a todos que o vêm visitar e expor-lhe as suas necessidades, e, portanto, dispensa as suas graças com mais abundância. Procuremos, pois, visitar frequentemente o Santíssimo Sacramento e fazer na sua presença as orações que temos por hábito fazer durante o dia.*

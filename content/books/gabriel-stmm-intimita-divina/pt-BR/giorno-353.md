@@ -1,4 +1,4 @@
-## 31 — A NOITE DO ESPÍRITO
+# 31 — A NOITE DO ESPÍRITO
 
 **Presença de Deus.** — *Ó Senhor, infunde-me maior amor e maior coragem, para que saiba de bom coração aceitar tua ação purificadora.*
 

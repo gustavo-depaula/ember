@@ -1,3 +1,5 @@
+# Sábado. Da confiança que devemos ter em Maria, como nossa Mãe
+
 > *Deinde dicit discipulo: Ecce mater tua* – “Depois diz ao discípulo: Eis aí tua mãe” (Jo 19, 27)
 
 ***Sumário.** Se Jesus Cristo é o Pai de nossas almas, porque as regenerou à vida da graça, Maria, que é a Mãe verdadeira de Jesus, deve igualmente ser chamada nossa Mãe espiritual, porque pelas suas dores cooperou para nossa redenção. Ponhamos, pois, nela a nossa confiança e sejamos quais crianças que têm sempre o nome de mãe na boca e em qualquer perigo levantam a voz e chamam sua mãe em socorro. Para sermos, porém, facilmente atendidos, imitemos as suas virtudes, especialmente as que são próprias do nosso estado.*

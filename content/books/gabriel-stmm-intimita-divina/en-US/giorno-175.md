@@ -1,4 +1,4 @@
-## VI — EFFECTIVE PRAYER
+# VI — EFFECTIVE PRAYER
 *Fifth Sunday after Easter*
 
 **Presence of God.** — *O Jesus, make me understand that my prayer is nothing if it does not rest on you; that my faith is vain if I do not translate it into works.*

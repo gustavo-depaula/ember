@@ -1,4 +1,4 @@
-## III — A EXTENSÃO DA CARIDADE FRATERNA
+# III — A EXTENSÃO DA CARIDADE FRATERNA
 
 **Presença de Deus.** — *Ó Senhor, faze-me compreender que a verdadeira caridade não admite exceções, mas abraça com amor sincero qualquer próximo.*
 

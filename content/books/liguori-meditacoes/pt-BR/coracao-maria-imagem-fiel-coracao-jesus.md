@@ -1,3 +1,5 @@
+# Sábado. Coração de Maria, imagem fiel do Coração de Jesus
+
 > *Mater eius conservabat omnia verba haec in corde suo* – “Sua Mãe conservava todas estas palavras em seu coração” (Lc 2, 51)
 
 ***Sumário.** Todas as qualidades que nos dias anteriores contemplamos no Coração de Jesus acham-se, com as devidas proporções, também no Coração de Maria, sua Mãe. Durante os trinta anos que a Virgem Santíssima conviveu com Jesus, não fez senão estudar continuamente no livro do Coração do Filho. Se, pois, amamos deveras a Maria e queremos ser seus dignos filhos, estudemos igualmente o Coração de Jesus e aprendamos de Nossa Senhora a praticarmos a humildade e o amor para com Deus e para com o próximo.*

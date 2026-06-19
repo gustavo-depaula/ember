@@ -1,4 +1,4 @@
-## XXX — O ESPÍRITO SANTO E A ATIVIDADE
+# XXX — O ESPÍRITO SANTO E A ATIVIDADE
 
 **Presença de Deus.** — *Ó Espírito Santo, sê o inspirador das minhas ações, o regulador da minha atividade.*
 

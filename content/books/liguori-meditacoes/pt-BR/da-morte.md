@@ -1,3 +1,5 @@
+# Sexta-feira. Da morte
+
 Vida, Morte e Tempo – Memento Mori (Philippe de Champaigne’s Vanitas 1.671)
 
 > *Estole parati; quia qua nescitis hora Filius hominis venturus est* – “Estai preparados; porque, não sabeis a hora em que o Filho do homem há de vir” (Mt 24, 44)

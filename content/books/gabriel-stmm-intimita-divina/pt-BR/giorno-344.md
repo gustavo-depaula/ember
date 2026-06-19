@@ -1,4 +1,4 @@
-## 22 — A ESPERANÇA APOSTÓLICA
+# 22 — A ESPERANÇA APOSTÓLICA
 
 **Presença de Deus.** — *Ó Jesus, na tua potência, no teu amor infinito, na tua Paixão, deposito toda esperança pelas almas que me confiaste.*
 

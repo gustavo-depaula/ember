@@ -1,4 +1,4 @@
-## 53 — LA CROCE QUOTIDIANA
+# 53 — LA CROCE QUOTIDIANA
 
 **Presenza di Dio.** — *O Gesù crocifisso, per i meriti della tua Croce, insegnami a portare ogni giorno la mia croce.*
 

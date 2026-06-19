@@ -1,4 +1,4 @@
-## Le Jeudi consacré au Saint-Sacrement
+# Le Jeudi consacré au Saint-Sacrement
 
 ### Prières pendant la Messe
 

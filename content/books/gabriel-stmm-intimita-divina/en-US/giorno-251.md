@@ -1,4 +1,4 @@
-## XXI — THE MOTIVE OF HOPE
+# XXI — THE MOTIVE OF HOPE
 
 **Presence of God.** — *Grant me to understand well, O Lord, that my hope must have its foundation not in me, but in your infinite mercy.*
 

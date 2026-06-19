@@ -1,3 +1,5 @@
+# 28 de Outubro. Festa dos Apóstolos São Simão e São Tadeu
+
 > *Annuntiaverunt opera Dei, et facta eius intellexerunt* — “Anunciaram as obras de Deus, e entenderam os seus feitos” (Sl 63, 10)
 
 ***Sumário.** Posto que o Evangelho e a Tradição nos digam pouco acerca das virtudes de São Tadeu e nada acerca das de São Simão, temos todavia uma garantia da sua santidade, por terem eles sido dignos de se tornarem apóstolos e mártires de Jesus Cristo. De quantas graças não deviam ser enriquecidos, quantas virtudes não praticaram para conseguirem esta dúplice glória! Se, à imitação destes santos apóstolos, cooperarmos bem com a graça que Deus nos dá, poderemos ser também homens apostólicos e mártires de paciência. Por que então não fazê-lo?*

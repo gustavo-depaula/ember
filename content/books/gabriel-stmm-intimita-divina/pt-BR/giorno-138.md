@@ -1,4 +1,4 @@
-## 62 — O MISTÉRIO DA CRUZ
+# 62 — O MISTÉRIO DA CRUZ
 
 *sexta-feira santa*
 

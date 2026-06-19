@@ -1,4 +1,4 @@
-## XXVI — AMOR DE AMIZADE
+# XXVI — AMOR DE AMIZADE
 
 **Presença de Deus.** — *Ó Senhor, que eu possa viver plenamente na tua amizade divina.*
 

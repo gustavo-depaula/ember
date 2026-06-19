@@ -1,4 +1,4 @@
-## XXX — L'Ufficio divino
+# XXX — L'Ufficio divino
 
 **Presenza di Dio.** — *O Gesù, degnati di associare la mia povera preghiera alla grande preghiera della Chiesa.*
 

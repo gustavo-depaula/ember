@@ -1,3 +1,5 @@
+# Quarta-feira. Da dignidade de São José, Esposo da Virgem Maria
+
 > *Iacob autem genuit Ioseph, virum Mariae, de qua natus est Iesus* – “Jacob gerou a José, esposo de Maria, da qual nasceu Jesus” (Mt 1, 16)
 
 ***Sumário.** Para formarmos uma ideia da dignidade de São José, basta ponderarmos que, na qualidade de esposo de Maria e chefe da sagrada Família, tinha verdadeiros direitos sobre a Mãe de Deus e seu divino Filho, que assumiram a obrigação de lhe obedecer, e lhe obedeceram em tudo. Quanto devemos, pois, honrar àquele a quem Deus honrou tanto! Quanto devemos confiar na eficácia de sua proteção! ― E tu, és-lhe realmente devoto?… Recorres prontamente a ele em tuas necessidades?*

@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento faz as delícias das almas desprendidas
+
 > *Ubicumque fuerit corpus, illuc congregabuntur et aquilae* – “Por toda a parte onde se achar o corpo, aí se reunirão as águias” (Lc 17, 37)
 
 ***Sumário.** As almas desapegadas são aquelas águias magnânimas que se elevam acima de todas as coisas criadas e têm pelo afeto sua morada continua no céu. Ainda na terra elas acham o seu paraíso na presença de Jesus sacramentado e nunca se fartam de visitá-Lo e fazer-Lhe companhia. Se nós também quisermos achar nossas delícias no divino Sacramento, desapeguemos nosso coração de nós mesmos e de todos os bens terrestres; e quando cometermos alguma falta, refugiemo-nos logo em nosso divino Salvador, afim de que nos purifique.*

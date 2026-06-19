@@ -1,4 +1,4 @@
-## XXI — THE TRINITARIAN MYSTERY
+# XXI — THE TRINITARIAN MYSTERY
 
 **Presence of God.** — *O my God, Trinity whom I adore, teach me to know You and to love You.*
 

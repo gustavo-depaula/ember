@@ -1,4 +1,4 @@
-## 73 — A PENITÊNCIA
+# 73 — A PENITÊNCIA
 
 *(Nota: não tratamos aqui da Eucaristia, pois ela é amplamente tratada no volume IV. Quanto à penitência, o assunto é completado no volume II pela meditação "A confissão".)*
 

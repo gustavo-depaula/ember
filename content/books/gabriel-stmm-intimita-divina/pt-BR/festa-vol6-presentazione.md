@@ -1,4 +1,4 @@
-## 21 de novembro — APRESENTAÇÃO DE MARIA AO TEMPLO
+# 21 de novembro — APRESENTAÇÃO DE MARIA AO TEMPLO
 
 **Presença de Deus.** — *Ó Maria, apresentai Vós a minha oferta e a minha vida ao Senhor.*
 

@@ -1,3 +1,5 @@
+# 01 de Julho. Festa do Preciosíssimo Sangue de Nosso Senhor Jesus Cristo
+
 > *Redemisti nos Deo in sanguine tuo… et fecisti nos Deo nostro regnum *—“Remiste-nos para Deus com o teu sangue…e fizeste- nos para nosso Deus reino” (Ap 5, 9)
 
 ***Sumário.** O Senhor podia obter-nos a salvação sem sofrer; pois que uma só lágrima, uma só oração teria sido bastante para salvar uma infinidade de mundos. A fim de nos patentear, porém, o seu amor, quis derramar o seu Sangue até a última gota, no meio das mais atrozes dores. Como é que os homens respondem a um tão grande amor? Mostremo-nos ao menos nós gratos para com esse Coração amabilíssimo, e para reparar as ofensas que lhe tenhamos feito habituemo-nos a oferecer muitas vezes ao Eterno Pai este preço da nossa Redenção.*

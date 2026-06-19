@@ -1,3 +1,5 @@
+# Quarta-feira. Deus é o bem que faz o paraíso
+
 > *Ego ero merces tua magna nimis* – “Eu serei tua recompensa infinitamente grande” (Gn 15, 1)
 
 ***Sumário.** A formosura dos Santos, as harmonias celestiais e todas as outras delícias do céu, são os menores bens desse reino bem-aventurado. O bem que faz a alma plenamente feliz e faz propriamente o céu é o Bem supremo, é Deus, é vê-lo face a face e amá-lo. Ânimo, pois, meu irmão, visto que tão grande recompensa nos aguarda também. Mas, para o conseguirmos, mister é que abracemos de boa vontade as cruzes e tribulações da vida presente, mormente se no passado houvéssemos tido a desgraça de merecer o inferno.*

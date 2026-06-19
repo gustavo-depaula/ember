@@ -1,4 +1,4 @@
-## XXII — A PROVA DA ESPERANÇA
+# XXII — A PROVA DA ESPERANÇA
 
 **Presença de Deus.** — *Dá-me, ó Senhor, uma esperança invencível; ensina-me a esperar contra toda esperança, ensina-me a «superesperar».*
 

@@ -1,3 +1,5 @@
+# Quarta-feira. Da eternidade do Inferno
+
 > *Et ibunt hi in supplicium aeternum* – “Estes irão para o suplício eterno” (Mt 25, 46)
 
 ***Sumário.** A eternidade do inferno não é uma simples opinião, mas sim uma verdade de fé fundada no testemunho de Deus na Santa Escritura, na qual se diz repetidas vezes que os desgraçados pecadores, uma vez lançados naqueles abismos, serão atormentados de dia e de noite pelos séculos dos séculos. Se alguém por um dia de divertimento se deixasse condenar a trinta anos de prisão, tê-lo-íamos por louco. Que maior loucura não seria a nossa, se por um momento de vil prazer nos condenássemos a queimar no fogo para sempre? A ficar privados para sempre da posse do soberano bem, que é Deus?*

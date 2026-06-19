@@ -1,3 +1,5 @@
+# Terça-feira. Vantagens das tentações
+
 > *Fidelis Deus est, qui patietur vos tetari supra id quod potestis; sed faciet etiam cum tentatione proventum* – “Deus é fiel, e não permitirá sejais tentados mais do que podem as vossas forças; antes fará que tireis proveito da tentação” (1 Cor 10, 13)
 
 ***Sumário.** É sobretudo por três motivos que o Senhor permite que as suas mais queridas almas sejam mais frequente e fortemente tentadas: para as conservar na humildade, para as desapegar da terra, e para as enriquecer de merecimentos. Cada tentação vencida é uma pedra preciosa engastada em nossas coroa celestial. Nem por isso devemos desejar as tentações; mas quando o demônio nos assalta, sem que lhe tenhamos dado ocasião, entreguemo-nos a Deus e não temamos; pois, se ele nos lança ao combate, dar-nos-á também com a tentação a força para resistir.*

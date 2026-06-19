@@ -1,4 +1,4 @@
-## XXV — LA VIA DELLA CROCE
+# XXV — LA VIA DELLA CROCE
 
 **Presenza di Dio.** — *O Spirito Santo, istruiscimi sul valore della sofferenza, insegnami a stimarla e ad amarla come mezzo di santificazione.*
 

@@ -1,4 +1,4 @@
-## 34 — DESÍGNIOS DE PAZ E AMOR
+# 34 — DESÍGNIOS DE PAZ E AMOR
 
 *XXIII Domingo depois de Pentecostes*
 

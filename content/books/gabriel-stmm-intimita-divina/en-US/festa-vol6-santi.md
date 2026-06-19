@@ -1,4 +1,4 @@
-## November 1 — ALL SAINTS
+# November 1 — ALL SAINTS
 
 **Presence of God.** — *O Lord, through the intercession of Your Saints, may I too tread with courage the way of holiness.*
 

@@ -1,4 +1,4 @@
-## XV — IL CHIARO-OSCURO DELLA FEDE
+# XV — IL CHIARO-OSCURO DELLA FEDE
 
 **Presenza di Dio.** — *O Signore, insegnami a credere anche in mezzo all'oscurità, alle tenebre; insegnami a credere fidandomi unicamente della tua parola.*
 

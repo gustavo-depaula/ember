@@ -1,4 +1,4 @@
-## 72 — CONFIRMATION
+# 72 — CONFIRMATION
 
 **Presence of God.** — *O Holy Spirit, confirm once more what You have worked in me and make me capable of living as a true soldier of Christ.*
 

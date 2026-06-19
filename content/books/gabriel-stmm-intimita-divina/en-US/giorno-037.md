@@ -1,4 +1,4 @@
-## 37 — THE NAME OF JESUS
+# 37 — THE NAME OF JESUS
 *January 2*
 
 **Presence of God.** — *O Jesus, let me understand the mysteries and treasures enclosed in Your sweetest name.*

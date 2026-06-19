@@ -1,4 +1,4 @@
-## 12. Manière de converser continuellement avec Dieu
+# 12. Manière de converser continuellement avec Dieu
 
 ### § 1. Dieu veut qu'on lui parle avec confiance et avec familiarité
 

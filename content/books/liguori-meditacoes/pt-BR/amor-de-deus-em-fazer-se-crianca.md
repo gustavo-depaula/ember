@@ -1,3 +1,5 @@
+# Sexta-feira. Amor de Deus em fazer-se criança
+
 > *Parvulus natus est nobis, et filius datus est nobis* – “Nasceu-nos uma criança, e foi-nos dado um filho” (Is 9, 6)
 
 ***Sumário.** Querendo o Filho de Deus fazer-se homem, podia aparecer no mundo como homem perfeito, assim como foi criado Adão. Como, porém, as crianças atraem mais facilmente o amor dos que as veem, Jesus Cristo quis aparecer na terra como criança, e como a criança mais pobre e humilde que jamais tenha nascido. Como é então possível, ó meu Jesus, que sejam tão poucos os que Vos amam? Do número destes poucos eu também quero ser. Sim, ó Bondade infinita, amo-Vos de todo o coração e sobre todas as coisas.*

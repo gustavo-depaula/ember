@@ -1,4 +1,4 @@
-## Le Mardi consacré aux saints Anges
+# Le Mardi consacré aux saints Anges
 
 ### Excellente manière d'entendre la Messe[^1]
 

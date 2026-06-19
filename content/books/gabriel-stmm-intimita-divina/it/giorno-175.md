@@ -1,4 +1,4 @@
-## VI — La preghiera efficace
+# VI — La preghiera efficace
 
 *V Domenica dopo Pasqua*
 

@@ -1,6 +1,4 @@
-# Parte Segunda
-
-## Capítulo IV — Deus dá a todos a graça de rezar
+# Capítulo IV — Deus dá a todos a graça de rezar
 
 Posto, portanto, que Deus quer que todos se salvem, e que, da parte d’Ele, a todos concede as graças necessárias para alcançar a salvação, dizemos que a todos é dada a graça de poder rezar atualmente (sem necessidade de outra nova graça) e, rezando, obter depois todos os demais auxílios para observar os preceitos e salvar-se. Mas note-se bem: ao dizer “sem necessidade de outra nova graça”, não se entende que a graça comum dê a oração sem o auxílio da graça adjuvante; pois, para exercer qualquer ato de piedade, além da graça excitante, sem dúvida se requer também a graça adjuvante, ou cooperante. Entende-se, sim, que a graça comum dá a cada um o poder de rezar atualmente, sem nova graça preveniente que determine física ou moralmente a vontade do homem a pôr em ato a oração. Por isso, primeiro registraremos os muitos e insignes teólogos que ensinam como certa esta sentença, e depois a provaremos com autoridades e razões.
 

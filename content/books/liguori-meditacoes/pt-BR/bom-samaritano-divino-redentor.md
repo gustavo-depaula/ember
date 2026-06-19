@@ -1,3 +1,5 @@
+# Domingo. O bom samaritano e o divino Redentor
+
 ## 12º Domingo depois de Pentecostes
 
 > *Samaritanus quidam, iter faciens, venit secus eum; et videns eum, misericordia motus est* – “Um Samaritano, que ia seu caminho, chegou perto dele, e quando o viu, moveu-se à compaixão” (Lc 10, 33)

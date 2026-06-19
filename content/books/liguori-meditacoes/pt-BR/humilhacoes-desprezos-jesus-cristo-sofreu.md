@@ -1,3 +1,5 @@
+# Sexta-feira. Das humilhações e desprezos que Jesus Cristo sofreu
+
 Flagelação de Cristo, por Caravaggio
 
 > *Vidimus eum… despectum et novissimum virorum* – “Vimo-lo… feito um objeto de desprezo e o último dos homens” (Is 53, 3)

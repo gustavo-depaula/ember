@@ -1,4 +1,4 @@
-## 12 — LE OPERE APOSTOLICHE
+# 12 — LE OPERE APOSTOLICHE
 
 **Presenza di Dio.** — *O mio Dio, rendimi degno di collaborare alla diffusione del tuo regno di amore.*
 

@@ -1,4 +1,4 @@
-## I — CARIDADE FRATERNA
+# I — CARIDADE FRATERNA
 
 **Presença de Deus.** — *Ó Senhor, concede-me penetrar o profundo significado do preceito da caridade fraterna.*
 

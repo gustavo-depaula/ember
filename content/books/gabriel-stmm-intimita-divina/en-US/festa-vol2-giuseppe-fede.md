@@ -1,4 +1,4 @@
-## March 19 — LIFE OF FAITH IN ST. JOSEPH
+# March 19 — LIFE OF FAITH IN ST. JOSEPH
 
 **Presence of God.** — *At your school, O glorious St. Joseph, I desire to learn to live by faith, letting myself in all things be guided by divine Providence.*
 

@@ -1,4 +1,4 @@
-## 66 — JESUS OUR ALL
+# 66 — JESUS OUR ALL
 
 **Presence of God.** — *O Jesus, my God and my Redeemer, make me understand that You are my all and that in You I find all that my soul needs.*
 

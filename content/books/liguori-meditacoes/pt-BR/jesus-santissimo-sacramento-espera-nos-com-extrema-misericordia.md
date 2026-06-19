@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus, no Santíssimo Sacramento, espera-nos com extrema misericórdia
+
 > *Iesus ergo fatigatus ex itinere, sedebat sic supra fontem* – “Jesus, pois, fatigado do caminho, estava assim assentado sobre o poço” (Jo 4, 6)
 
 ***Sumário.** Assim como um dia o Senhor, todo bondade e amor, estava sentado à borda de um poço, esperando a Samaritana para a converter, assim agora, descido do céu sobre os nossos altares, que são outras tantas fontes de graças, permanece conosco, esperando as almas e convidando-as a lhe fazerem companhia. Animemo-nos, pois, a recorrer sempre a este divino Sacramento, abramos-lhe o coração, cheios de confiança, e peçamos-lhe tudo de que precisamos. Ao mesmo tempo entreguemo-nos com abandono filial à sua providência, certos de que disporá tudo para nosso bem.*

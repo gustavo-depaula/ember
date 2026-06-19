@@ -1,3 +1,5 @@
+# Quarta-feira. Contas que terá de dar a Jesus Cristo quem não segue a vocação
+
 > *Auferetur a vobis regnum Dei, et dabitur genti facienti fructus eius* – “Ser-vos-á tirado o reino de Deus, e será dado a um povo que faça os frutos dele” (Mt 21, 43)
 
 ***Sumário.**Avivemos a nossa fé. A graça que o Senhor nos concedeu chamando-nos a viver em sua casa é muito mais excelente do que se nos tivesse chamado a sermos rei do reino mais extenso da terra. Quanto maior, porém, a graça, tanto mais o Senhor se irritará contra nós, se não Lhe tivermos correspondido; tanto mais rigoroso será o vosso julgamento no dia das contas. Ai de nós, se não obedecermos à chamada divina, ou se por nossa culpa perdermos a vocação!*

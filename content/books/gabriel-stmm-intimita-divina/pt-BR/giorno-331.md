@@ -1,4 +1,4 @@
-## 9 — A ORAÇÃO APOSTÓLICA
+# 9 — A ORAÇÃO APOSTÓLICA
 
 **Presença de Deus.** — *Aceita, Senhor, minha pobre oração pelo advento do teu reino.*
 

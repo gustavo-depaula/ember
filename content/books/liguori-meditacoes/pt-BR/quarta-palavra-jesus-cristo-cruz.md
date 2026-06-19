@@ -1,3 +1,5 @@
+# Sexta-feira. Quarta palavra de Jesus Cristo na Cruz
+
 > *Et circa horam nonam clamavit Iesus voce magna dicens: Deus meus, Deus, meus, ut quid dereliquisti me?* – “E perto da hora nona deu Jesus um grande brado, dizendo: Deus meu, Deus meu, porque me desamparaste?” (Mt 27, 46)
 
 ***Sumário.** Em castigo de nossos pecados, tínhamos merecido que Deus nos abandonasse nos abismos infernais entregues à desesperação eterna. Mas, para nos livrar, quis Jesus tomar sobre si a pena que nos era devida e ser entregue pelo Pai a uma morte sem alívio. Demos graças à bondade divina e em nossas desconsolações espirituais unamos a nossa desolação à de Jesus agonizante; lembremo-nos do inferno merecido e digamos: Senhor, seja feita a vossa santa vontade!*

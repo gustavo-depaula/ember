@@ -1,6 +1,4 @@
-# Parte Seconda
-
-## Preliminare II
+# Preliminare II
 
 ### Dio dona comunemente la grazia necessaria a tutti i Giusti per osservare i precetti, ed a tutt'i peccatori per convertirsi
 

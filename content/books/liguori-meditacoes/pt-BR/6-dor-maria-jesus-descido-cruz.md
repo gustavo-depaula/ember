@@ -1,3 +1,5 @@
+# Meditação para a tarde do mesmo dia. Sexta Dor de Maria Santíssima – Jesus é descido da cruz
+
 ## Segunda Meditação para a Sexta-feira Santa
 
 > *Ioseph, deponens eum, involvit sindone* – “José, depondo-O da cruz, O amortalhou no sudário” (Mc 15, 46)

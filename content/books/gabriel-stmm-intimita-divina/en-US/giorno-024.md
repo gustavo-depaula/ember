@@ -1,4 +1,4 @@
-## 24 — INTERIOR APOSTOLATE
+# 24 — INTERIOR APOSTOLATE
 
 **Presence of God.** — *I place myself at the feet of Jesus, sweetest Savior and our Redeemer, so that He may teach me how to collaborate with Him in the salvation of souls.*
 

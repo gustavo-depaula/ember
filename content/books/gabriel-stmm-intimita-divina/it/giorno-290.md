@@ -1,4 +1,4 @@
-## XXIX — LA SINCERITÀ
+# XXIX — LA SINCERITÀ
 
 **Presenza di Dio.** — *Dammi, o Signore, un cuore schietto e sincero, amante della verità, che cerca e vuole la verità ad ogni costo.*
 

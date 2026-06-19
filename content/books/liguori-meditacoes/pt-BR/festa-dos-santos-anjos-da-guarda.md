@@ -1,3 +1,5 @@
+# 02 de Outubro. Festa dos Santos Anjos da Guarda
+
 > *Angelis suis mandavit de te, ut custodiant te in omnibus viis tuis* — “Mandou os seus anjos junto de ti, para que te guardem em todos os teus caminhos” (Sl 90, 11).
 
 ***Sumário.** Avivemos a nossa fé e lembremo-nos de que temos continuamente ao nosso lado um anjo, que nos ama sem sombra de interesse, e sempre está solícito por nós. Este príncipe celeste assiste-nos em todos os tempos, em todos os lugares, em todas as tribulações, e nem sequer nos abandona quando nos revoltamos contra Deus. É, pois, dever nosso honrarmo-lo pela nossa reverência, devoção e confiança. Mas, infelizmente, quantos há que vivem completamente esquecidos dele, e o obrigam pelos seus pecados infames a cobrir o rosto!*

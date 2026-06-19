@@ -1,4 +1,4 @@
-## XXII — LA PROVA DELLA SPERANZA
+# XXII — LA PROVA DELLA SPERANZA
 
 **Presenza di Dio.** — *Dammi, o Signore, una speranza invincibile; insegnami a sperare contro ogni speranza, insegnami a «soprasperare».*
 

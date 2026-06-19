@@ -1,4 +1,4 @@
-## 14 — LA VERGINE DELL'INCARNAZIONE
+# 14 — LA VERGINE DELL'INCARNAZIONE
 
 **Presenza di Dio.** — *Mi accosto a te, Vergine Maria, col vivo desiderio di penetrare nel segreto della tua vita interiore, perché Tu sia per me luce e modello.*
 

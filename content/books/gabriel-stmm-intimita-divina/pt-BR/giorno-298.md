@@ -1,4 +1,4 @@
-## VI — O EXERCÍCIO DA PACIÊNCIA
+# VI — O EXERCÍCIO DA PACIÊNCIA
 **Presença de Deus.** — Dá-me, ó Senhor, maior paciência para que eu possa sofrer mais por amor de ti.
 
 ### Meditação

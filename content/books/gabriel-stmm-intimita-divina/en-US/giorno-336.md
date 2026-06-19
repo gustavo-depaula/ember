@@ -1,4 +1,4 @@
-## 14 — THE FORMATION OF APOSTLES
+# 14 — THE FORMATION OF APOSTLES
 
 **Presence of God.** — *Jesus, divine Master, deign to receive me in Your school, so that under Your guidance I may prepare myself for the apostolate.*
 

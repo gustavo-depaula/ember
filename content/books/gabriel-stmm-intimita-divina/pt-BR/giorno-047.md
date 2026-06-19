@@ -1,4 +1,4 @@
-## 47 — O ESPÍRITO DE JESUS
+# 47 — O ESPÍRITO DE JESUS
 
 **Presença de Deus.** — *Concede-me, ó Jesus, contemplar a tua Alma cheia do Espírito Santo, para que também eu possa ser um templo digno dele.*
 

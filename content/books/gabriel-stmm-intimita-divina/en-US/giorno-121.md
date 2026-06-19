@@ -1,4 +1,4 @@
-## 45 — COME AND FOLLOW ME
+# 45 — COME AND FOLLOW ME
 
 **Presence of God.** — O Jesus, who for our sake became obedient unto death on the cross, teach me to follow your example.
 

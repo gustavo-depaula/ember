@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus, Homem de dores desde o seio de sua Mãe
+
 > *Virum dolorum, et scientem infirmitatem* – “O homem de dores e experimentado nos trabalhos” (Is 53, 3)
 
 ***Sumário.** O primeiro Adão gozou durante algum tempo as delícias do paraíso terreal; mas o segundo Adão, Jesus Cristo, não teve nem sequer um instante em sua vida que não fosse cheio de aflições e agonias, porquanto desde o berço afligiu-O a dolorosa previsão de todas as penas e ignomínias que deveria padecer, e particularmente a previsão da ingratidão de que os homens usariam para com Ele. Ó céus! Nós também temos contribuído para contristar esse amabilíssimo Coração.*

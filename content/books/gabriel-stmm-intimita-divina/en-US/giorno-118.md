@@ -1,4 +1,4 @@
-## 42 — NOT EXCUSING ONESELF
+# 42 — NOT EXCUSING ONESELF
 
 **Presence of God.** — *O Jesus, who willed to keep silence before those who condemned You to death, teach me the art of not excusing myself.*
 

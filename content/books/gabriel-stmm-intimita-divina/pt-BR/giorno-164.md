@@ -1,4 +1,4 @@
-## XXV — ESPÍRITO DE FÉ
+# XXV — ESPÍRITO DE FÉ
 
 **Presença de Deus.** — *Dá-me, ó Senhor, aquele espírito de fé que me permita manter-me em contato contigo, no meio de qualquer ocupação e circunstância do meu dia.*
 

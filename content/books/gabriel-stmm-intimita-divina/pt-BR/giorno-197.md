@@ -1,4 +1,4 @@
-## XXVIII — AS VIRTUDES E OS DONS
+# XXVIII — AS VIRTUDES E OS DONS
 
 **Presença de Deus.** — *Ensina-me, ó Espírito Santo, a manter-me em atitude de contínua escuta das tuas inspirações, de contínua dependência dos teus impulsos.*
 

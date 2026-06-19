@@ -1,3 +1,5 @@
+# Sexta-feira. A Meditação da Paixão de Jesus Cristo é uma escola do Divino Amor
+
 > *Ignem veni mittere in terram; et quid volo, nisi ut accendatur?* – “Eu vim trazer fogo à terra; e que quero se não que ele se acenda?” (Lc 12, 49)
 
 ***Sumário.** Jesus Cristo é amado de poucos, porque poucos são os que refletem nas dores que Ele padeceu por nós. O que as considera frequentemente, não pode viver sem amar a Jesus; porquanto ficará de tal modo preso pelo seu amor, que lhe será impossível não amar um Deus que chegou a morrer exausto de sangue para ganhar o nosso amor. Roguemos à divina Mãe, Maria, que nos obtenha do seu Filho a graça de entrarmos em suas chagas sagradas por meio de uma meditação contínua.*

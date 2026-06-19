@@ -1,3 +1,5 @@
+# Aprovação
+
 ## Aprovação.
 
 Em virtude dos poderes que me foram comunicados pelo Revmo. P. Patrício Murray, Superior Geral da Congregação do SSmo. Redentor, e visto o relatório favorável de dois teólogos da nossa Congregação, encarregados de examinar as *Meditações tiradas das Obras ascéticas de Santo Afonso Maria de Ligório, Bispo e Doutor da Santa Igreja, para todos os dias e festas do ano*, pelo *P. Tiago Maria Cristini*, da Congregação do SSmo. Redentor, — *Versão portuguesa do P. João de Jong*, da mesma Congregação, permitimos que sejam impressas, servatis de jure servandis.

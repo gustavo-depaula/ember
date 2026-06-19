@@ -1,3 +1,5 @@
+# Domingo. Só em Deus se acha a verdadeira paz
+
 ## Meditação para o 2º Domingo depois da Páscoa
 
 > *Venit Iesus, et stetit in medio, et dixit eis: Pax vobis* – “Veio Jesus, e pôs-se no meio e disse-lhes: A paz seja convosco” (Jo 20, 9)

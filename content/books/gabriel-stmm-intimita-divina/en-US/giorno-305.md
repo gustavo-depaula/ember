@@ -1,4 +1,4 @@
-## XIII — SPIRITUAL PROGRESS
+# XIII — SPIRITUAL PROGRESS
 
 **Presence of God.** — *Help me, O Lord, to advance rapidly on the path of virtue.*
 

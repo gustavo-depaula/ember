@@ -1,4 +1,4 @@
-## Lettera della Segreteria di Stato di Sua Santità
+# Lettera della Segreteria di Stato di Sua Santità
 
 *Dal Vaticano, lì 12 febbraio 1957*
 

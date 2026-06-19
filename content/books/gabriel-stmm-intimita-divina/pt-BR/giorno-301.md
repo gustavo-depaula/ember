@@ -1,4 +1,4 @@
-## IX — PERSEVERANÇA E CONFIANÇA
+# IX — PERSEVERANÇA E CONFIANÇA
 
 **Presença de Deus.** — Ó Senhor, aumenta minha confiança no teu socorro e faze que nessa confiança eu encontre sempre a coragem para recomeçar.
 

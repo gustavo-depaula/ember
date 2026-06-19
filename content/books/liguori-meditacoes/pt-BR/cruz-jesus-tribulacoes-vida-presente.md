@@ -1,3 +1,5 @@
+# Sexta-feira. A cruz de Jesus e as tribulações da vida presente
+
 > *Et baiulans sibi crucem, exivit in eum qui dicitur Calvariae locum* – “Carregando sua cruz, foi ao lugar chamado Calvário” (Jo 19, 17)
 
 ***Sumário.** Lida que foi a sentença de morte, Jesus não espera que os algozes lhe impusessem a cruz: Ele mesmo a abraça, beija-a e põe-na sobre os ombros chagados e vai ao Calvário. Quis o Senhor ensinar-nos o modo como também devemos abraçar as cruzes que nos envia, para remédio dos pecados cometidos e para penhor da felicidade eterna. Persuadamo-nos de que, para sermos glorificados com Jesus Cristo, é mister que primeiro padeçamos com Ele, e que, exceção feita as crianças, ninguém entrou no céu senão pelo caminho das tribulações.*

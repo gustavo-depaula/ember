@@ -1,4 +1,4 @@
-## III — MISTERO DI FEDE
+# III — MISTERO DI FEDE
 
 **Presenza di Dio.** — *O Gesù, ti credo e ti adoro presente nel Sacramento dell'altare: aumenta la mia fede.*
 

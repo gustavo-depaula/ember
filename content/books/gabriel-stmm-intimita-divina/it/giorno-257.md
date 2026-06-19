@@ -1,4 +1,4 @@
-## XXVII — IL PRECETTO DELLA CARITÀ
+# XXVII — IL PRECETTO DELLA CARITÀ
 
 **Presenza di Dio.** — *O Signore, insegnami ad amarti davvero con tutto il cuore, con tutta l'anima, con tutte le forze.*
 

@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento é prisioneiro de amor
+
 > *Descendit cum illo in foveam, et in vinculis non dereliquit eum* – “Desceu (Deus) com ele ao fosso, e não o deixou nas cadeiase” (Sb 10, 13)
 
 ***Sumário.** Considera que Jesus está noite e dia sobre os altares como em outras tantas prisões de amor. Bastava que ali ficasse só de dia; porém Ele quis ficar também durante a noite, afim de que de manhã o possa achar quem o venha buscar. Só esta fineza devia excitar todos os homens a ficar sempre na presença de Jesus sacramentado; mas é o contrário que se dá. Nós ao menos procuremos dar-Lhe alguma compensação, multiplicando o mais possível nossas visitas, e ao sairmos da Igreja, deixemos nossos corações com todos os seus afetos ao pé do altar, ou encerrados dentro do santo Tabernáculo.*

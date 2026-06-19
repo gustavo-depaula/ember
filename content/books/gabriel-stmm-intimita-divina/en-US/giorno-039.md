@@ -1,4 +1,4 @@
-## 39 — JESUS FIRSTBORN OF ALL CREATURES
+# 39 — JESUS FIRSTBORN OF ALL CREATURES
 *January 4*
 
 **Presence of God.** — *Give me light, O Lord Jesus, to discover Your ineffable greatnesses as Son of God through Your most humble appearance as Child.*

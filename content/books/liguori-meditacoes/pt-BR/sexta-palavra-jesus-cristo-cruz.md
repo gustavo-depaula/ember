@@ -1,3 +1,5 @@
+# Sexta-feira. Sexta palavra de Jesus Cristo na Cruz
+
 > *Cum ergo accepisset Jesus acetum, dixit: Consummatum est* – “Jesus, havendo tomado o vinagre, disse: Tudo está consumado” (Jo 9, 30)
 
 ***Sumário.** Consideremos como Jesus moribundo, antes de expirar, percorreu em espírito toda a sua vida. Viu todos os seus trabalhos penosos, as suas dores, as ignomínias suportadas e tudo isso ofereceu-o de novo a seu eterno Pai para a salvação do mundo. Em seguida, virando-se para nós, disse: Tudo está consumado. — Foi como se dissesse: “Ó homens, nada mais tenho a fazer para ser amado por vós; tempo é que afinal resolvais amar-me.” Amemos, portanto, a Jesus e provemos-Lhe nosso amor fazendo e sofrendo alguma coisa por seu amor, assim como Ele fez e sofreu tanto por nosso amor.*

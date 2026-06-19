@@ -1,3 +1,5 @@
+# Domingo. A ovelha perdida e o Pastor divino
+
 ## 3º Domingo depois de Pentecostes
 
 > *Congratulamini mibi, quia inveni ovem meam, quae perierat* – “Congratulai-vos comigo, porque achei a ovelha que se tinha perdido” (Lc 15, 6)

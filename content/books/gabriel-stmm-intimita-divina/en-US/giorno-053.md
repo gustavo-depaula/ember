@@ -1,4 +1,4 @@
-## 53 — JESUS, MASTER OF HOLINESS
+# 53 — JESUS, MASTER OF HOLINESS
 
 **Presence of God.** — *I always have need of You, divine Master, for You alone are holy and can teach me the true way of holiness.*
 

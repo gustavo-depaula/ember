@@ -1,6 +1,4 @@
-# Deuxième Partie — Exercices de chaque Semaine
-
-## Art. 1. — Pratiques de dévotion pour chaque jour de la Semaine
+# Art. 1. — Pratiques de dévotion pour chaque jour de la Semaine
 
 ### Le Dimanche consacré à la très sainte Trinité et à notre saint Patron [^1]
 

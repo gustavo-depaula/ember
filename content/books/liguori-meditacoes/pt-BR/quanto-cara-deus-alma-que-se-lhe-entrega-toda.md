@@ -1,3 +1,5 @@
+# Quarta-feira. Quanto é cara a Deus a alma que se lhe entrega toda
+
 Dilectus meus mihi et ego illi — “O meu amado é para mim e eu sou para Ele”
 
 > *Ego dilecto meo, et ad me conversio eius* – “Eu sou para o meu amado e Ele para mim se volta” (Ct 7, 10)

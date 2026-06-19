@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento, modelo de obediência
+
 > *Humiliavit semetipsum, factus oboediens usque ad mortem* – “(Jesus) se humilhou, feito obediente até à morte” (Fl 2, 8)
 
 ***Sumário.** São Paulo louva a obediência de Jesus Cristo, dizendo que obedeceu ao Pai Eterno até à morte. Mas no Santíssimo Sacramento vai mais longe, visto que quis fazer-se obediente até o fim do mundo e não somente ao Pai Eterno, senão a todos os sacerdotes da terra. Qualquer que seja o nosso estado, esforcemo-nos por imitar a obediência de Jesus, depositando em suas mãos a nossa vontade e pedindo-Lhe que disponha de nós conforme for do seu agrado. Animemo-nos à prática de tão bela virtude pela lembrança de que nunca uma pessoa obediente se condenou.*

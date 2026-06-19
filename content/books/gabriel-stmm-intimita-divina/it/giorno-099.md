@@ -1,4 +1,4 @@
-## 23 — LA CONVERSIONE
+# 23 — LA CONVERSIONE
 
 **Presenza di Dio.** — *O Signore, che mi hai creato per te, fa' che con tutte le mie forze io tenda a te, mio ultimo fine.*
 

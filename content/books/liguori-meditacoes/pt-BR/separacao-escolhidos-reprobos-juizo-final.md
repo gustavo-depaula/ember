@@ -1,3 +1,5 @@
+# Terça-feira. A separação dos escolhidos e dos réprobos no Juízo Final
+
 Juízo Final (Stefan Lochner 1435)
 
 > *Exibunt angeli, et separabunt malos de medio iustorum* – “Sairão os anjos e separarão os maus do meio dos justos” (Mt 13, 49)

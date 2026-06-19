@@ -1,4 +1,4 @@
-## 5 — L'ANIMA DELL'APOSTOLATO
+# 5 — L'ANIMA DELL'APOSTOLATO
 
 **Presenza di Dio.** — *Fammi comprendere, o Signore, che solo l'unione con te, che solo l'amore può fecondare ogni apostolato.*
 

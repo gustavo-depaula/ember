@@ -1,3 +1,5 @@
+# Terça-feira. Do fogo do inferno
+
 > *Quis poterit habitare de vobis cum igne devorante?… Cum ardoribus sempiternis?* – “Qual de vós poderá habitar com o fogo devorador?… Com os ardores sempiternos?” (Is 33, 14)
 
 ***Sumário.** Na terra a pena do fogo é a maior de todas; mas há tamanha diferença entre o nosso fogo e o do inferno, que o nosso parece apenas um fogo pintado, ou antes, frieza. Como então, irmão meu, poderás habitar com esses ardores sempiternos, se por desgraça tua te condenares? Tu que não podes caminhar pelo ardor do sol, nem ficar com um braseiro num quarto fechado, nem aturar uma fagulha que se desprende de uma vela?*

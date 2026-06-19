@@ -1,4 +1,4 @@
-## 35 — A HUMILDADE DO CORAÇÃO
+# 35 — A HUMILDADE DO CORAÇÃO
 
 **Presença de Deus.** — *Ó Jesus, doce e humilde de coração, torna meu coração semelhante ao teu.*
 

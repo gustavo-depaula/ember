@@ -1,4 +1,4 @@
-## 13 — TOWARD THE HOMELAND
+# 13 — TOWARD THE HOMELAND
 *XX Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, teach me the way to reach You.*

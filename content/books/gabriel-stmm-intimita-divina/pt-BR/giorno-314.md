@@ -1,4 +1,4 @@
-## XXII — BEM-AVENTURADOS OS MISERICORDIOSOS
+# XXII — BEM-AVENTURADOS OS MISERICORDIOSOS
 
 **Presença de Deus.** — *Ó Espírito Santo, torna meu coração misericordioso, à imitação do Coração de Jesus.*
 

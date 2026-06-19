@@ -1,4 +1,4 @@
-## 5. La Sainte Messe
+# 5. La Sainte Messe
 
 Ne manquez pas d'entendre la sainte messe tous les jours. Ceux qui y assistent, reçoivent une application particulière des mérites de la passion de Jésus-Christ. Il faut l'entendre en vue des fins pour lesquelles elle a été instituée, savoir : 1. pour honorer Dieu ; 2. pour le remercier de ses bienfaits ; 3. pour expier nos péchés ; 4. pour obtenir les grâces du salut.[^1]
 

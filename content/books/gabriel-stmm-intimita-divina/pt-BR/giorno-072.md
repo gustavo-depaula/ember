@@ -1,4 +1,4 @@
-## 72 — A CRISMA
+# 72 — A CRISMA
 
 **Presença de Deus.** — *Ó Espírito Santo, confirma mais uma vez aquilo que operaste em mim e torna-me capaz de viver como verdadeiro soldado de Cristo.*
 

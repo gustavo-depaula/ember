@@ -1,4 +1,4 @@
-## XXIV — LA GIUSTIZIA PERFETTA
+# XXIV — LA GIUSTIZIA PERFETTA
 
 **Presenza di Dio.** — *O Signore, che sei giusto ed ami le azioni giuste, insegnami la perfezione della giustizia.*
 

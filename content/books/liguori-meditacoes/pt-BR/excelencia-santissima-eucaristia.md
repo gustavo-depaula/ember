@@ -1,3 +1,5 @@
+# Quinta-feira. Excelência da Santíssima Eucaristia
+
 “Dize-me, meu irmão, que é que o Senhor podia fazer mais a fim de se fazer amar de nós?”
 
 > *Quid est bonum eius et quid pulchrum eius, nisi frumentum electorum et vinum germinans virgines* – “Qual é o bem dele e qual é a sua formosura senão o pão dos escolhidos e o vinho que gera virgens?” (Zc 9, 17)

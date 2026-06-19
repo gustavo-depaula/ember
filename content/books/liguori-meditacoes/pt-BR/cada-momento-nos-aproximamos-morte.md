@@ -1,3 +1,5 @@
+# Terça-feira. A cada momento nos aproximamos da Morte
+
 > *Omnes morimur, et quase aquae dilabimur in terram, quae non revertuntur* – “Nós morremos todos, e corremos pela terra como as águas que não tornam mais” (2 Rs 14, 14)
 
 ***Sumário.** É certo que fomos todos condenados à morte. Todos nascemos com a corda ao pescoço, e a cada passo que damos, aproximamo-nos mais do patíbulo. Que loucura, pois, a nossa, sabermos que havemos de morrer, crermos que do momento da morte depende uma eternidade de gozos ou de penas, e não pensarmos no ajuste das contas e nos meios para ter uma boa morte! Compadecemo-nos dos que morrem subitamente. Porque é, pois, que nos expomos ao risco de nos suceder a mesma desgraça? Quem sabe se este ano não é o último da nossa vida?… Quem sabe se ainda amanheceremos?*

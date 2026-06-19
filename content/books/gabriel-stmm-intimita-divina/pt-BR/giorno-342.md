@@ -1,4 +1,4 @@
-## 20 — O PERDÃO
+# 20 — O PERDÃO
 
 *XXI Domingo depois de Pentecostes*
 

@@ -1,3 +1,5 @@
+# Terça-feira. A paz que Deus faz gozar aos bons religiosos
+
 > *Sedebit populus meus in pulchritudine pacis, et in tabernaculis fiduciae, et in requie opulenta* – “Assentar-se-á meu povo na formosura de paz, e nos tabernáculos da confiança, e num descanso opulento” (Is 32, 18)
 
 ***Sumário.**  Por isso vemos que os bons religiosos, encerrados em suas celas, bem que mortificados, desprezados, pobres e enfermos, vivem mais contentes do que os grandes do mundo com todas as riquezas, pompas e prazeres que gozam. Se os homens refletissem bem nesta grande verdade, todo o mundo se tornaria um convento, todos se fariam religiosos.*

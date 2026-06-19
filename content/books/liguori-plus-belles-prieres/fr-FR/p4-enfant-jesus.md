@@ -1,4 +1,4 @@
-## Art. 2. Dévotion à Notre-Seigneur Jésus-Christ
+# Art. 2. Dévotion à Notre-Seigneur Jésus-Christ
 
 ### § 1. Dévotion à l'Enfant-Jésus
 

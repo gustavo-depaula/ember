@@ -1,3 +1,5 @@
+# Quarta-feira. Da glória de São José, Esposo da Virgem Maria
+
 > *Qui custos est Domini sui, glorificabitur* – “O que é o guarda do seu Senhor, será glorificado” (Pv 27, 18)
 
 ***Sumário.** Devemos ter por certo que a vida de São José, sob a vista e na companhia de Jesus e Maria, foi uma oração contínua, cheia de fé, de confiança, de amor, de resignação e de oferecimento. Visto que a recompensa é proporcionada aos merecimentos da vida, considera quão grande será no paraíso a glória do santo Patriarca. Com razão se admite que ele, depois da Bem-aventurada Virgem, leva vantagem a todos os demais Santos. Por isso, quando São José quer obter alguma graça para seus devotos, não tanto pede, como de certo modo manda a Jesus e Maria.*

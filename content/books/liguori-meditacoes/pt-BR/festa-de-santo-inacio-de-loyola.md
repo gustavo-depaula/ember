@@ -1,3 +1,5 @@
+# 31 de Julho. Festa de Santo Inácio de Loyola
+
 > *Quicumque glorificaverit me, glorificabo eum* — “Eu glorificarei a quem me glorificar” (1 Sm 2, 30)
 
 ***Sumário.** O que mais distinguiu Santo Inácio foi o seu zelo pela glória divina. Foi um zelo esclarecido, porque, tendo começado por glorificar a Deus em sua própria pessoa pelo conhecimento e pelo amor, passou em seguida a glorificá-lo no próximo, promovendo de todos os modos o conhecimento e amor de Deus. E Deus, que se não deixa vencer em generosidade, ó, quão bem soube remunerar o seu servo, tanto nesta vida como na outra! Rejubilemo-nos com o santo, e agradeçamos por ele ao Senhor; e, para termos parte na recompensa do santo, imitemos os seus exemplos.*

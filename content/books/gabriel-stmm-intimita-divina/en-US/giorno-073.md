@@ -1,4 +1,4 @@
-## 73 — PENANCE
+# 73 — PENANCE
 
 *(Note: the Eucharist is not treated here, being handled at length in Volume IV. As for penance, this subject is completed in Volume II by the meditation "Confession.")*
 

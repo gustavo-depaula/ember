@@ -1,4 +1,4 @@
-## 36 — A CIRCUNCISÃO DO SENHOR
+# 36 — A CIRCUNCISÃO DO SENHOR
 
 *1 janeiro*
 

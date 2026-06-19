@@ -1,4 +1,4 @@
-## XXVIII — OS DOIS REINOS
+# XXVIII — OS DOIS REINOS
 *XIV Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Sustenta, ó Senhor, a minha fraqueza para que eu possa chegar à posse do teu reino.*

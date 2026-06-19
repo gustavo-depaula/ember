@@ -1,4 +1,4 @@
-## IV — A MEDIDA DA CARIDADE FRATERNA
+# IV — A MEDIDA DA CARIDADE FRATERNA
 
 **Presença de Deus.** — *Ó Senhor, faz-me compreender todo o valor das tuas palavras: «Amarás o teu próximo como a ti mesmo» (Mt. 22, 39).*
 

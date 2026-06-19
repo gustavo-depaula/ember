@@ -1,3 +1,5 @@
+# 12 de Setembro. Festa do Santíssimo Nome de Maria
+
 > *Et Nomen Virginis Maria *— “E o Nome da Virgem era Maria” (Lc 1, 27)
 
 ***Sumário.** O santíssimo Nome de Maria é, depois do de Jesus, superior a todo outro nome, e, assim como o de Jesus, é para nós um nome de salvação, esperança e amor. Procuremos, portanto, tê-lo sempre no coração e nos lábios: em todos os perigos, em todas as angústias, em todas as dúvidas invoquemo-lo sempre juntamente com o do seu divino Filho, dizendo: Jesus e Maria, salvai-me! Lembremo-nos, porém, que para experimentarmos todos os efeitos do nome de Maria, é preciso que imitemos as virtudes daquela que o possui.*

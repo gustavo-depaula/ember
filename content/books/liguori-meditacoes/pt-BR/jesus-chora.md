@@ -1,3 +1,5 @@
+# Dia 07 de Janeiro. Jesus chora
+
 > *Et lacrymatus est Iesus* – “E Jesus chorou” (Jo 11, 35)
 
 ***Sumário.** O Menino Jesus chorava por duas razões. Em primeiro lugar chorava de compaixão para com os homens, que eram réus de morte eterna, e oferecia as suas lágrimas ao Eterno Pai, a fim de obter para eles o perdão. Chorava em segundo lugar de dor, vendo que, mesmo depois da Redenção tão grande número de pecadores continuariam a desprezar sua graça. Ah! Não agravemos mais as penas desse amabilíssimo Coração e consolemo-Lo, misturando as nossas lágrimas com as suas.*

@@ -1,3 +1,5 @@
+# Segunda-feira. A morte despoja-nos de tudo
+
 > *Divitias, quas devoravit, evomet, et de ventre illius extrahet eas Deus* – “Vomitará as riquezas que devorou, e Deus lh´as fará sair das entranhas” (Jó 20, 15)
 
 ***Sumário.** Os mundanos só consideram felizes os que podem gozar os bens deste mundo, os prazeres, as riquezas e as grandezas. Mas a morte põe fim a todos estes gozos terrestres, porque então tudo se há de deixar. Vê esse grande do mundo, cortejado hoje, temido e quase adorado; amanhã, quando estiver morto, será desprezado de todos, não se fará mais caso de suas ordens; será expulso de seu palácio e atirado a uma cova para apodrecer. Entretanto que será de sua alma?… Desgraçada, se vier a cair no inferno!*

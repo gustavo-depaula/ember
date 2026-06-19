@@ -1,4 +1,4 @@
-## XIV — O DOM DO TEMOR
+# XIV — O DOM DO TEMOR
 
 **Presença de Deus.** — Ó Senhor, faze que eu tema uma só coisa: desagradar-te e separar-me de ti.
 

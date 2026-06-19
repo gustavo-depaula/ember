@@ -1,4 +1,4 @@
-## 43 — JESUS VIDEIRA VERDADEIRA
+# 43 — JESUS VIDEIRA VERDADEIRA
 
 **Presença de Deus.** — *Faze-me compreender, ó Senhor, as íntimas relações existentes entre ti, Redentor, e nós, teus redimidos.*
 

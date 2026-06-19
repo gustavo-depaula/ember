@@ -1,4 +1,4 @@
-## 10 — A IMOLAÇÃO APOSTÓLICA
+# 10 — A IMOLAÇÃO APOSTÓLICA
 
 **Presença de Deus.** — *Ó Jesus, imolado por minha salvação, faze que eu seja digno de imolar-me contigo pela salvação dos meus irmãos.*
 

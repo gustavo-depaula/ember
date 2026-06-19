@@ -1,4 +1,4 @@
-## 20 — FORGIVENESS
+# 20 — FORGIVENESS
 
 *XXI Sunday after Pentecost*
 

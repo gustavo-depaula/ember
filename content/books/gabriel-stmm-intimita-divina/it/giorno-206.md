@@ -1,4 +1,4 @@
-## VI — MISTERO D'AMORE
+# VI — MISTERO D'AMORE
 
 **Presenza di Dio.** — *O Gesù, aiutami a penetrare il mistero del tuo amore infinito che ti ha spinto a farti nostro cibo e nostra bevanda.*
 

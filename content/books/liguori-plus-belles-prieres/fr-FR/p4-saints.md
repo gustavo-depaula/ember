@@ -1,4 +1,4 @@
-## Article 7. — Dévotion aux Saints.
+# Article 7. — Dévotion aux Saints.
 
 Le Seigneur veut que les saints, comme ses amis, intercèdent pour nous et nous obtiennent, par leurs mérites et par leurs prières, les grâces que nous ne méritons pas. Ce n'est pas que les mérites de Jésus-Christ ne soient surabondants pour nous enrichir de tout bien, mais Dieu veut par là honorer ses fidèles serviteurs en les admettant à coopérer à notre salut, et nous inspirer une plus grande confiance d'obtenir ses grâces lorsque nous les lui demandons par l'entremise des saints.[^1]
 

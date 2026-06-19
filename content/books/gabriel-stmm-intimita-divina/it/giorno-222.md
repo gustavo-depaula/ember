@@ -1,4 +1,4 @@
-## XXII — DI FRONTE ALLA TRINITÀ
+# XXII — DI FRONTE ALLA TRINITÀ
 
 **Presenza di Dio.** — *O SS.ma Trinità, la considerazione del tuo mistero generi in me una profonda umiltà, una fede cieca, un amore ardente.*
 

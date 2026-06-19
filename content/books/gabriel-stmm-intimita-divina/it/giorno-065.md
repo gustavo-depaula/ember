@@ -1,4 +1,4 @@
-## 65 — VIVERE CRISTO
+# 65 — VIVERE CRISTO
 
 **Presenza di Dio.** — *O Gesù, degnati d'imprimere nella povera anima mia i tratti della tua somiglianza, cosicchè la mia vita sia un riflesso della tua.*
 

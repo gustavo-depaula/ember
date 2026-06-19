@@ -1,6 +1,4 @@
-# Première Partie — De la dévotion générale à la Sainte Vierge
-
-## Article I — Excellence et nécessité de la dévotion à la Sainte Vierge
+# Article I — Excellence et nécessité de la dévotion à la Sainte Vierge
 
 J'avoue avec toute l'Église que Marie n'étant qu'une pure créature sortie des mains du Très-Haut, comparée à sa majesté infinie, est moindre qu'un atome ou plutôt n'est rien du tout, puisqu'il est seul celui qui est, et que par conséquent ce grand Seigneur, toujours indépendant et se suffisant à lui-même, n'a point eu ni n'a point encore absolument besoin de la sainte Vierge pour l'accomplissement de ses volontés et pour la manifestation de sa gloire : il n'a qu'à vouloir pour tout faire.
 

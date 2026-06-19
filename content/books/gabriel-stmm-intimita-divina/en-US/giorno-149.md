@@ -1,4 +1,4 @@
-## X — MEDITATIVE READING
+# X — MEDITATIVE READING
 
 **Presence of God.** — *O Lord, teach me to seek you even when the heart is arid and the mind distracted.*
 

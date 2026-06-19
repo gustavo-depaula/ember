@@ -1,3 +1,5 @@
+# Domingo. Virtudes praticadas pelo leproso e pelo centurião
+
 ## 3º Domingo que sobrou depois da Epifania¹
 
 > *Amen dico vobis: non inveni tantam fidem in Israel* – “Em verdade vos digo: não achei tamanha fé em Israel” (Mt 8, 10)

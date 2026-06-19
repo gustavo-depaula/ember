@@ -1,3 +1,5 @@
+# Terça-feira. O decreto da Encarnação do Verbo
+
 > *Et audivi vocem dicentís : Quem mittam? Et quis ibit nobis? Et dixi: Ecce ego, mitte me.* – “E ouvi a voz de quem dizia: Quem enviarei eu? E quem nos irá lá? Então disse eu: Aqui me tens a mim, envia-me” (Is 6, 8)
 
 ***Sumário.** Embora o Filho de Deus previsse a vida penosa que teria de levar, submeteu-se contudo de boa vontade ao decreto da Encarnação, ofereceu-se mesmo a fazer-se homem. E isso não só a fim de satisfazer plenamente à justiça divina, mas também para nos mostrar seu amor, e obrigar-nos a que O amemos sem reserva. Como é que até o dia de hoje temos respondido a tão grande beneficio?*

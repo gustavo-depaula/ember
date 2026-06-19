@@ -1,4 +1,4 @@
-## 46 — FREE IMMOLATION OF LIBERTY
+# 46 — FREE IMMOLATION OF LIBERTY
 
 **Presence of God.** — O Jesus, divine Lamb voluntarily immolated for the glory of the Father, make me understand the great value of voluntary immolation.
 

@@ -1,6 +1,4 @@
-# Part One
-
-## Chapter III — On the Conditions of Prayer
+# Chapter III — On the Conditions of Prayer
 
 *Amen, amen dico vobis, si quid petieritis Patrem in nomine meo, dabit vobis* (John 16:23). It is therefore a promise of Jesus Christ that whatever we ask the Father in His name, the Father will grant us; but this is always understood as meaning when we ask with the due conditions. Many (says St. James) ask and do not obtain, because they ask badly: *Petitis, et non accipitis, eo quod male petatis* (James 4). Hence St. Basil, following the Apostle's words, says: *Ideo quandoque petis, et non accipis, quia perperam postulasti, vel infideliter, vel leviter, vel non conferentia tibi, vel destitisti.* *Infideliter* — that is, with little faith or little confidence. *Leviter* — with little desire for the grace. *Non conferentia tibi* — seeking goods not beneficial for salvation. *Vel destitisti* — without perseverance. Therefore St. Thomas reduces to four the conditions required in prayer so that it may obtain its effect: namely, that a man ask *pro se, necessaria ad salutem, pie, et perseveranter* — for himself, things necessary for salvation, devoutly, and perseveringly.
 

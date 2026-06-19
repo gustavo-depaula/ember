@@ -1,4 +1,4 @@
-## XXIV — Esercizio della presenza di Dio
+# XXIV — Esercizio della presenza di Dio
 
 **Presenza di Dio.** — *O Signore, che io viva sempre alla tua presenza, con lo sguardo interiore fisso in te.*
 

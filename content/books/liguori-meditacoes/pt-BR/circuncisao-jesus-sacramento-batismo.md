@@ -1,3 +1,5 @@
+# Dia 01 de Janeiro. A Circuncisão de Jesus e o Sacramento do Batismo
+
 > *Consummati sunt dies octo, ut circuncideretur Puer* – “Foram cumpridos os oito dias para ser circuncidado o Menino” (Lc 2, 21)
 
 ***Sumário.** A cerimônia da circuncisão era figura do sacramento do batismo. Podemos, por tanto, imaginar que Jesus Cristo, quando foi circuncidado, pensou em cada um de nós, e que oferecendo a seu divino Pai as primícias do seu sangue, desde então nos mereceu a graça de sermos regenerados pelo batismo. Oh, que dom inestimável é o do santo batismo! Como, porém, temos respondido a tamanho favor? Temos, por ventura, manchado a vestimenta branca da inocência?*

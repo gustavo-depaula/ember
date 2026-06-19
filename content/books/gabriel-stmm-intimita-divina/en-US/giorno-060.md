@@ -1,4 +1,4 @@
-## 60 — JESUS AND THE FATHER'S WILL
+# 60 — JESUS AND THE FATHER'S WILL
 
 **Presence of God.** — *O Jesus, teach me to follow You in Your life of total, most perfect adhesion to the Father's will.*
 

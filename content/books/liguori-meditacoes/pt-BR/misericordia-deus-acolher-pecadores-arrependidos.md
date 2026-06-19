@@ -1,3 +1,5 @@
+# Segunda-feira. Misericórdia de Deus em acolher os pecadores arrependidos
+
 > *Non avertet faciem suam a vobis, si reversi fueritis ad eum* – “Não apartará (Deus) de vós o seu rosto, se vós voltardes para Ele” (2 Cr 30, 9)
 
 ***Sumário.** Quão grande seja a misericórdia de Deus para com os pecadores, e quão grande a ternura do amor com que acolhe o pecador arrependido, bem o revelam as parábolas da ovelha desgarrada e do filho pródigo. Se no passado nós também temos pelo pecado abandonado nosso bom Pai e Pastor, não tardemos em voltar para Ele, resolvidos a nunca mais d’Ele nos apartarmos, custe o que custar, certos de que nos tratará como se nunca jamais o tivéssemos ofendido.*

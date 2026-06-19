@@ -1,4 +1,4 @@
-## VIII — INFINITE LOVE
+# VIII — INFINITE LOVE
 
 **Presence of God.** — *O my God, who are all love, kindle in me the flame of charity.*
 

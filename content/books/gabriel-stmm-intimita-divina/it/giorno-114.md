@@ -1,4 +1,4 @@
-## 38 — LA VITA NASCOSTA
+# 38 — LA VITA NASCOSTA
 
 **Presenza di Dio.** — *O Gesù, Dio nascosto, insegnami il segreto del nascondimento.*
 

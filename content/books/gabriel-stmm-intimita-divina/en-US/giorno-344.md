@@ -1,4 +1,4 @@
-## 22 — APOSTOLIC HOPE
+# 22 — APOSTOLIC HOPE
 
 **Presence of God.** — *O Jesus, in your power, in your infinite love, in your Passion I place every hope for the souls you have entrusted to me.*
 

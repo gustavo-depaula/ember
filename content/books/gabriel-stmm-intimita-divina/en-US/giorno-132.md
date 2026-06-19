@@ -1,4 +1,4 @@
-## 56 — LOVE FOR THE CROSS
+# 56 — LOVE FOR THE CROSS
 
 **Presence of God.** — *I come again to you, my crucified God, with the desire to penetrate more deeply into the mystery of the Cross.*
 

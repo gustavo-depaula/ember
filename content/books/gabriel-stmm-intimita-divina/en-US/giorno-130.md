@@ -1,4 +1,4 @@
-## 54 — SUFFERING AND ABANDONMENT
+# 54 — SUFFERING AND ABANDONMENT
 
 **Presence of God.** — *O Lord, teach me to suffer with simplicity, without useless returns on myself, but abandoning myself to your divine will.*
 

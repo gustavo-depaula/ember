@@ -1,3 +1,5 @@
+# Prefácio
+
 ## Prefácio
 
 Apresentando este livro de meditações às pessoas devotas, julgo desnecessário justificar o trabalho por mim empreendido, com a sua tradução para o idioma português, coisa que aliás fez por obediência. A justificação acha-se no próprio título do livro; e ninguém dirá que são demais os livros de meditação escritos em português. Ao lado dos que existem, e cujos merecimentos não necessitamos encarecer, haverá lugar para mais um, visto que, também no tocante às meditações, a variedade deleita. A forma variada, sob a qual são propostas à meditação as verdades imutáveis da fé, excita novamente a atenção, infiltra no espírito um novo raio de luz, comove mais eficazmente a vontade.

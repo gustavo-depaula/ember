@@ -1,3 +1,5 @@
+# Domingo de Ramos. Jesus faz a sua entrada triunfal em Jerusalém
+
 ## Meditação para o Domingo de Ramos
 
 > *Ecce rex tuus venit tibi mansuetus, sedens super asinam et pullum filium subiugalis* – “Eis que o teu Rei aí vem a ti cheio de mansidão, montado sobre uma jumenta e um jumentinho, filho do que está sob o jugo” (Mt 21, 5)

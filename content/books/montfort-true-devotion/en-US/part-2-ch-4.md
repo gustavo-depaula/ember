@@ -1,4 +1,4 @@
-## Article IV — Marvelous Effects of This Devotion
+# Article IV — Marvelous Effects of This Devotion
 
 My dear brother, be persuaded that if you are faithful to the interior and exterior practices of this devotion, which I shall describe further on:
 

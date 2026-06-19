@@ -1,4 +1,4 @@
-## 29 — UNION WITH GOD
+# 29 — UNION WITH GOD
 
 **Presence of God.** — *My God, who created me for Yourself, grant that I may return to You and be united to You in love.*
 

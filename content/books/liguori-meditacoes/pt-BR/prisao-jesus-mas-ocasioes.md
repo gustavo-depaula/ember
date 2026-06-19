@@ -1,3 +1,5 @@
+# Sexta-feira. A prisão de Jesus e as más ocasiões
+
 > *Vincula illius afligatura salutaris* – “Os seus vínculos são uma ligadura salutar” (Ecl 6, 31)
 
 ***Sumário.** Judas entra no jardim das Oliveiras e com um beijo trai o seu Mestre. No mesmo instante os insolentes ministros se lançam sobre Jesus, encadeiam-no como um malfeitor e assim o levam pelas ruas de Jerusalém. O Redentor divino quis sujeitar-se a tão grande ignomínia para nos merecer a graça de sacudirmos as cadeias do pecado, que são as más ocasiões. Quantos cristãos, muito devotos talvez por algum tempo se precipitaram por causa delas num abismo de iniquidade e estão agora ardendo no inferno!*

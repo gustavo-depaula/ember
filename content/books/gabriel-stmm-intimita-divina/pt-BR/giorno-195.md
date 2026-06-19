@@ -1,4 +1,4 @@
-## XXVI — OS DONS DO ESPÍRITO SANTO
+# XXVI — OS DONS DO ESPÍRITO SANTO
 
 **Presença de Deus.** — *Ó Espírito Santo, abre a minha alma aos teus dons, para que eu possa receber as tuas moções divinas.*
 

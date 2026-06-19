@@ -1,4 +1,4 @@
-## XXX — VIDA DE AMOR
+# XXX — VIDA DE AMOR
 
 **Presença de Deus.** — *Faze, ó Senhor, que desde já eu comece a amar-te como um dia te amarei no céu.*
 

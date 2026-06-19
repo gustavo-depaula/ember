@@ -1,3 +1,5 @@
+# Terça-feira. A morte dos Santos é preciosa
+
 Corpo Incorruputo de Santa Teresa de Liseux
 
 > *Pretiosa in conspectu Domini mors sanctorum eius* – “Preciosa é aos olhos do Senhor a morte de seus Santos” (Sl 115, 5)

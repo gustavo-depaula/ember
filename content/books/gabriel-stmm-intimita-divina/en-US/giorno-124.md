@@ -1,4 +1,4 @@
-## 48 — BLIND OBEDIENCE
+# 48 — BLIND OBEDIENCE
 
 **Presence of God.** — O Jesus, who for love of us willed to submit yourself to your creatures, teach me to obey without wishing to know more.
 

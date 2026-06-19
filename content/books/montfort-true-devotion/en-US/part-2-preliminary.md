@@ -1,6 +1,4 @@
-# Second Part — On the Most Excellent Devotion to the Blessed Virgin
-
-## Preliminaries — Interior and Exterior Practices
+# Preliminaries — Interior and Exterior Practices
 
 There are several interior practices of true devotion to the Blessed Virgin, of which the following are the principal ones in brief: first, to honor her as the worthy Mother of God, with the cult of hyperdulia — that is, to esteem and honor her above all the other saints, as the masterpiece of grace and the first after Jesus Christ, true God and true man; second, to meditate on her virtues, her privileges, and her actions; third, to contemplate her grandeurs; fourth, to make acts of love, praise, and gratitude to her; fifth, to invoke her cordially; sixth, to offer and unite ourselves to her; seventh, to do all our actions with a view to pleasing her; eighth, to begin, continue, and finish all our actions through her, in her, with her, and for her, in order to do them through Jesus Christ, in Jesus Christ, with Jesus Christ, and for Jesus Christ, our last end. We shall explain this last practice further on.
 

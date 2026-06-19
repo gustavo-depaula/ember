@@ -1,4 +1,4 @@
-## IV — DIVINE SIMPLICITY
+# IV — DIVINE SIMPLICITY
 
 **Presence of God.** — *O Lord, most simple Being, simplify my gaze and my heart so that I may serve You with simplicity of spirit.*
 

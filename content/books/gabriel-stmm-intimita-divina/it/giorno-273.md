@@ -1,4 +1,4 @@
-## XII — LA CARITÀ SI ACCOMODA A TUTTO
+# XII — LA CARITÀ SI ACCOMODA A TUTTO
 
 **Presenza di Dio.** — *O Dio, che ti adatti alla mia miseria fino a farti uomo come me, insegnami ad adattarmi ai miei fratelli.*
 

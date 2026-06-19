@@ -1,6 +1,4 @@
-# Part One
-
-## Introduction
+# Introduction
 
 ### Necessary to Read
 

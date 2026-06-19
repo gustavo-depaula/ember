@@ -1,3 +1,5 @@
+# Terça-feira. Do grande mal que é o desafeto de Deus
+
 > *Similiter autem odio sunt Deo impius et impietas eius* – “O ímpio e a impiedade são igualmente odiosos a Deus” (Sb 14, 9)
 
 ***Sumário.** Considera quão grande é a ruína que traz consigo o pecado mortal. Faz-nos primeiro perder todos os merecimentos anteriormente adquiridos, por grandes e imensos que sejam. Além disso, de filho de Deus torna o homem escravo de Lúcifer; de amigo querido, inimigo sumamente odioso; de herdeiro do céu, um condenado ao inferno. Se os anjos pudessem chorar, chorariam de compaixão vendo a desgraça de uma alma que comete pecado mortal e perde a graça de Deus. E nós ficaremos indiferentes?*

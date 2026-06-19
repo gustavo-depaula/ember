@@ -1,4 +1,4 @@
-## 24 — APOSTOLATO INTERIORE
+# 24 — APOSTOLATO INTERIORE
 
 **Presenza di Dio.** — *Mi metto ai piedi di Gesù, dolcissimo Salvatore e Redentore nostro, perchè m'insegni come collaborare con lui alla salvezza delle anime.*
 

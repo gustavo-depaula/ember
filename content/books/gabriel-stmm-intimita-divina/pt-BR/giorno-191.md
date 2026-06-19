@@ -1,4 +1,4 @@
-## XXII — AS INICIATIVAS DO ESPÍRITO SANTO
+# XXII — AS INICIATIVAS DO ESPÍRITO SANTO
 
 **Presença de Deus.** — *Ó Espírito Santo, vinde Vós dirigir minha alma no caminho da santidade.*
 

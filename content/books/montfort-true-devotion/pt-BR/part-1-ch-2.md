@@ -1,4 +1,4 @@
-## Artigo II — Discernimento da verdadeira devoção à Santíssima Virgem
+# Artigo II — Discernimento da verdadeira devoção à Santíssima Virgem
 
 67 — Tendo dito até aqui algo da necessidade que temos da devoção à Santíssima Virgem, é preciso dizer em que consiste essa devoção: o que farei, com a ajuda de Deus, depois de ter pressuposto algumas verdades fundamentais, que darão luz a essa grande e sólida devoção que quero descobrir.
 

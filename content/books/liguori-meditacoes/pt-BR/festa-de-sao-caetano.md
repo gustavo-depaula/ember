@@ -1,3 +1,5 @@
+# 07 de Agosto. Festa de São Caetano
+
 > *Quaerite primum regnum Dei et iustitiam eius; et haec omnia adicientur vobis* — “Buscai primeiramente o reino de Deus e a sua justiça; e todas estas coisas se vos acrescentarão” (Mt 6, 33)
 
 ***Sumário.** Posto que este santo fosse heroico em todas as virtudes, a virtude nele característica foi a sua inalterável confiança em Deus, entregando a sua pessoa e a Ordem por ele fundada inteiramente à divina Providência. À imitação do santo, expulsemos de nosso coração a solicitude pelos bens temporais e busquemos primeiramente o Reino de Deus e a sua justiça; estejamos certos de que o Pai celestial proverá a todas a nossas necessidades. Quando jamais se ouviu dizer que alguém tivesse posto a sua confiança no Senhor e ficasse confundido?*

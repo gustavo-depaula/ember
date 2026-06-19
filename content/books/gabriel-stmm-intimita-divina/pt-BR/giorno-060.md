@@ -1,4 +1,4 @@
-## 60 — JESUS E A VONTADE DO PAI
+# 60 — JESUS E A VONTADE DO PAI
 
 **Presença de Deus.** — *Ó Jesus, ensina-me a seguir-te na tua vida de total, perfectíssima adesão à vontade do Pai.*
 

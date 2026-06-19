@@ -1,4 +1,4 @@
-## 2 — NECESSITY OF INTERIOR PURIFICATION
+# 2 — NECESSITY OF INTERIOR PURIFICATION
 
 **Presence of God.** — *Purify, O Lord, my soul, that it may be wholly invaded by Your light and Your love.*
 

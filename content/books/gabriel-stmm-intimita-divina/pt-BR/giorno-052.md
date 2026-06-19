@@ -1,4 +1,4 @@
-## 52 — JESUS NOS REVELA O PAI
+# 52 — JESUS NOS REVELA O PAI
 
 **Presença de Deus.** — *Ó Jesus, Tu és o Verbo revelador do Pai; só Tu, portanto, podes ensinar-me quem é o meu Deus. Fala, Senhor, teu servo te escuta!*
 

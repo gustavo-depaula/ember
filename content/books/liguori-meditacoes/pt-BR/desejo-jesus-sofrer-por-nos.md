@@ -1,3 +1,5 @@
+# Sexta-feira. Desejo de Jesus de sofrer por nós
+
 Sofrimento de Cristo (por Sergejbag, DevianArt)
 
 > *Baptismo habeo baptizari: et quomodo coarctor, usque dum perficiatur?* – “Tenho de ser batizado com um batismo: e quão grande não é a minha ansiedade até que ele se cumpra” (Lc 12, 50)

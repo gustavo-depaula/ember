@@ -1,3 +1,5 @@
+# 9º Dia – Sábado. O amor é um tesouro que encerra todos os bens
+
 ## 9º Dia da Novena do Espírito Santo
 
 > *Infinitus thesaurus est hominibus; quo qui usi sunt, participes facti sunt amicitiae Dei* – “Ela é um tesouro infinito para os homens; do qual os que usaram têm sido feitos participantes da amizade de Deus” (Sb 7, 14)

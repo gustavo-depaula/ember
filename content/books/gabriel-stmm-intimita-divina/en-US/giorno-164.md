@@ -1,4 +1,4 @@
-## XXV — SPIRIT OF FAITH
+# XXV — SPIRIT OF FAITH
 
 **Presence of God.** — *Grant me, O Lord, that spirit of faith which allows me to remain in contact with you, in the midst of every occupation and circumstance of my day.*
 

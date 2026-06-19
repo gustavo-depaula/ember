@@ -1,3 +1,5 @@
+# Quarta-feira. A eternidade do inferno é terrível, mas justa
+
 > *Non dabit Deo placationem suam… laborabit in aeternum* – “Não dará a Deus a sua propiciação… estará em trabalho eternamente” (Sl 48, 8)
 
 ***Sumário.** Digam os incrédulos o que quiserem: as penas do inferno durarão eternamente. E com razão. À ofensa de uma Majestade infinita é devido um castigo infinito. Sendo, porém, a criatura incapaz de sofrer um castigo infinito em intensão, é justo que o seja em duração. Quantos daqueles que não quiseram crer nesta terrível eternidade, experimentam-na agora em si mesmos! Ai daquele que cair no abismo infernal!*

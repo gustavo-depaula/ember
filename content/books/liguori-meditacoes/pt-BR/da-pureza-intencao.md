@@ -1,3 +1,5 @@
+# Terça-feira. Da pureza de intenção
+
 Pureza (por Jan lawnikanis)
 
 > *Omne, quodcumque facitis in verbo aut in opere, omnia in nomine Domini Iesu Christi, gratias agentes Deo et Patri per ipsum* – “Tudo quanto fizerdes por palavra ou por obra, tudo seja em nome do Senhor Jesus Cristo, rendendo graças por Ele a Deus Pai” (Cl 3, 17)

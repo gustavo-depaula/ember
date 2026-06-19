@@ -1,4 +1,4 @@
-## 11 — IN CERCA DI DIO
+# 11 — IN CERCA DI DIO
 
 **Presenza di Dio.** — *Mi raccolgo nell'intimo santuario dell'anima mia per cercarvi Dio, vivente in me per la grazia.*
 

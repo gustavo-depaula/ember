@@ -1,3 +1,5 @@
+# Segunda-feira. O amor vence tudo
+
 Cristo abraçando São Bernardo (Francisco Ribalta)
 
 > *Fortis est ut mors dilectio* – “O amor é forte como a morte” (Ct 8, 6)

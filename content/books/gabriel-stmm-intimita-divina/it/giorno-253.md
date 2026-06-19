@@ -1,4 +1,4 @@
-## XXIII — SPERARE SENZA MISURA
+# XXIII — SPERARE SENZA MISURA
 
 **Presenza di Dio.** — *Sostieni, o Signore, la mia speranza affinché io possa sperare in te senza misura.*
 

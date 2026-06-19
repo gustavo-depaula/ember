@@ -1,3 +1,5 @@
+# Quinta-feira. A Santa Missa é um meio eficaz para obtermos as graças de Deus
+
 > *In omnibus divites facti estis in illo* – “Em todas as coisas fostes enriquecidos nele” (1 Cor 1, 5)
 
 ***Sumário.** Posto que o Senhor esteja sempre disposto a nos conceder as suas graças, dispensa-as todavia com mais largueza no tempo da missa aos rogos do sacerdote, juntos aos de Jesus Cristo que é o oferente principal. Os mesmos anjos aproveitam o tempo da missa para intercederem mais eficazmente em nosso favor; e o que então se não obtém, obter-se-á dificilmente em outro tempo. Que tesouros podemos, pois, ajuntar pela celebração devota do divino sacrifício e pela sua devota assistência!*

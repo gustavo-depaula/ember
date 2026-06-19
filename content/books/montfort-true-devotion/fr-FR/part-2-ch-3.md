@@ -1,4 +1,4 @@
-## Article III — Figure de cette consécration dans l'histoire de Jacob et Rébecca
+# Article III — Figure de cette consécration dans l'histoire de Jacob et Rébecca
 
 De toutes les vérités que je viens de décrire par rapport à la très sainte Vierge et à ses enfants et serviteurs, le Saint-Esprit nous donne dans l'Écriture sainte une figure admirable : dans l'histoire de Jacob, qui reçut la bénédiction de son père Isaac par les soins et l'industrie de Rébecca sa mère. La voici comme le Saint-Esprit la rapporte ; ensuite j'y ajouterai son explication.
 

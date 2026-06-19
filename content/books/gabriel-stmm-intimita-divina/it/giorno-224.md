@@ -1,4 +1,4 @@
-## XXIV — LE EFFUSIONI DELLA TRINITÀ NELL'ANIMA
+# XXIV — LE EFFUSIONI DELLA TRINITÀ NELL'ANIMA
 
 **Presenza di Dio.** — *O SS.ma Trinità, degnati di rinnovare la tua visita all'anima mia.*
 

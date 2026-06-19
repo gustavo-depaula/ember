@@ -1,3 +1,5 @@
+# Sexta-feira. Fuga de Jesus para o Egito
+
 Viagem de Maria, José e Jesus para o Egito
 
 > *Surge, et accipe puerum et matrem eius, et fuge in Aegyptum* – “Levanta-te, e toma contigo o Menino e sua Mãe, e foge para o Egito” (Mt 2, 13)

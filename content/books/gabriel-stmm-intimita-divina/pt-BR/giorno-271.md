@@ -1,4 +1,4 @@
-## X — LEVAR UNS OS FARDOS DOS OUTROS
+# X — LEVAR UNS OS FARDOS DOS OUTROS
 **Presença de Deus.** — *Dai-me, ó Senhor, uma caridade atenta e pronta às necessidades alheias, uma caridade que por amor a ti saiba fazer-se tudo para todos.*
 
 ### Meditação

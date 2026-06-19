@@ -1,4 +1,4 @@
-## XIX — ARIDEZ E CONTEMPLAÇÃO
+# XIX — ARIDEZ E CONTEMPLAÇÃO
 
 **Presença de Deus.** — *Ó Senhor, atrai-me a ti pela via que Tu queres e como Tu queres; peço-te só a graça de seguir-te sempre.*
 

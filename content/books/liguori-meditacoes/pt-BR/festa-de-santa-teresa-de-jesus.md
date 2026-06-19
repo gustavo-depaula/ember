@@ -1,3 +1,5 @@
+# 15 de Outubro. Festa de Santa Teresa de Jesus
+
 > *Fulcite me floribus, stipate me malis; quia amore langueo *— “Acudi-me com confortativos de flores, trazei-me pomos que me alentem, porque desfaleço de amor” (Ct 2, 5)
 
 ***Sumário.** Consideremos o ardente amor que tinha a Deus esta seráfica santa. Parecia-lhe impossível que pudesse haver no mundo uma pessoa que não amasse a Deus, e chegou a dizer que não teria pena de ver outros no céu mais felizes do que ela, porém que não poderia consentir em ver alguém amar a Deus mais do que ela. Pondo os seus atos em harmonia com as suas palavras, esforçava-se por cumprir tudo que sabia ser agradável a Deus. Se, à imitação da santa, quisermos fazer progressos no amor, desapeguemos o nosso coração das criaturas, com a resolução de obrar e padecer por Jesus Cristo.*

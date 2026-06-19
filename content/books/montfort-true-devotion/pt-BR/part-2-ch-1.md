@@ -1,4 +1,4 @@
-## Artigo I — Em que consiste a perfeita consagração a Jesus Cristo
+# Artigo I — Em que consiste a perfeita consagração a Jesus Cristo
 
 120 — Consistindo toda a nossa perfeição em sermos conformados, unidos e consagrados a Jesus Cristo, a mais perfeita de todas as devoções é sem contestação aquela que nos conforma, une e consagra mais perfeitamente a Jesus Cristo. Ora, sendo Maria a mais conforme a Jesus Cristo de todas as criaturas, segue-se que, de todas as devoções, a que consagra e conforma mais uma alma a Nosso Senhor é a devoção à Santíssima Virgem, sua santa Mãe; e que quanto mais uma alma for consagrada a Maria, mais o será a Jesus Cristo; é por isso que a perfeita consagração a Jesus Cristo não é outra coisa senão uma perfeita e inteira consagração de si mesmo à Santíssima Virgem, que é a devoção que ensino, ou, em outras palavras, uma perfeita renovação dos votos e promessas do santo Batismo.
 

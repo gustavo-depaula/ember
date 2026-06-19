@@ -1,4 +1,4 @@
-## XVII — BEATI I FAMELICI
+# XVII — BEATI I FAMELICI
 
 **Presenza di Dio.** — *Sotto l'impulso del dono della fortezza, diventa in me un'anima affamata e assetata di giustizia.*
 

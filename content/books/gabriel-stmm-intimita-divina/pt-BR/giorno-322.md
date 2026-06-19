@@ -1,4 +1,4 @@
-## XXX — AO ENCONTRO DO ESPÍRITO SANTO
+# XXX — AO ENCONTRO DO ESPÍRITO SANTO
 
 **Presença de Deus.** — *Vem, Espírito Santo, investe-me com tua ação e conduz-me a Deus.*
 

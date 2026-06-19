@@ -1,4 +1,4 @@
-## Letter from the Secretariat of State of His Holiness
+# Letter from the Secretariat of State of His Holiness
 
 *From the Vatican, February 12, 1957*
 

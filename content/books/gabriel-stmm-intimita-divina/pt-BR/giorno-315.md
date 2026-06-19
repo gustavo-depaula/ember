@@ -1,4 +1,4 @@
-## XXIII — O DOM DA CIÊNCIA
+# XXIII — O DOM DA CIÊNCIA
 
 **Presença de Deus.** — *Ó Espírito Santo, instrui-me profundamente sobre o nada das coisas humanas.*
 

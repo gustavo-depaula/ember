@@ -1,4 +1,4 @@
-## 26 — MARTA E MARIA
+# 26 — MARTA E MARIA
 
 **Presença de Deus.** — *Ó Senhor, que eu te ame com o coração de Maria e ao mesmo tempo te sirva com a dedicação de Marta.*
 

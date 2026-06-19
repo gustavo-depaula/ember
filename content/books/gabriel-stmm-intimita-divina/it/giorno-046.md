@@ -1,4 +1,4 @@
-## 46 — L'INFLUSSO DI GESÙ
+# 46 — L'INFLUSSO DI GESÙ
 
 **Presenza di Dio.** — *O Gesù, fammi comprendere come l'anima mia si trova sotto il potente, santificante influsso della tua SS.ma Umanità.*
 

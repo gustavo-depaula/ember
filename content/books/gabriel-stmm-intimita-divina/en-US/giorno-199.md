@@ -1,4 +1,4 @@
-## XXX — THE HOLY SPIRIT AND ACTIVITY
+# XXX — THE HOLY SPIRIT AND ACTIVITY
 
 **Presence of God.** — *O Holy Spirit, be the inspirer of my actions, the regulator of my activity.*
 

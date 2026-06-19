@@ -1,4 +1,4 @@
-## VI — L'ESERCIZIO DELLA PAZIENZA
+# VI — L'ESERCIZIO DELLA PAZIENZA
 
 **Presenza di Dio.** — *Dammi, o Signore, maggior pazienza perché possa soffrire di più per amor tuo.*
 

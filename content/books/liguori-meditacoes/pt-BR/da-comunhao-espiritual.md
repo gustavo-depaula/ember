@@ -1,3 +1,5 @@
+# Quinta-feira. Da comunhão espiritual
+
 > *Os meum aperui, et attraxi spiritum* – “Abri a minha boca, e atraí o alento” (Sl 118, 131)
 
 ***Sumário.** A comunhão espiritual consiste num desejo ardente de receber Jesus sacramentalmente e num amoroso amplexo, como se fosse recebido realmente. Esta devoção é um meio eficacíssimo para chegar à perfeição e ao mesmo tempo é uma devoção facílima, porque pode ser praticada todos os dias, por todos, e quantas vezes se quiser, sem ser vista ou observada por pessoa alguma. Pratica-a, pois, com frequência, em particular, na oração mental, na visita ao Santíssimo Sacramento e na assistência à Missa à hora da comunhão do sacerdote.*

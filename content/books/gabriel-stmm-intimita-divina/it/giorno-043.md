@@ -1,4 +1,4 @@
-## 43 — GESÙ VITE VERA
+# 43 — GESÙ VITE VERA
 
 **Presenza di Dio.** — *Fammi comprendere, o Signore, gli intimi, profondi rapporti che hai voluto stabilire fra te, nostro Redentore, e noi, tuoi redenti.*
 

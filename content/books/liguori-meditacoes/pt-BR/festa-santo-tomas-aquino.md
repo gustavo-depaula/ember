@@ -1,3 +1,5 @@
+# 07 de Março ou 28 de Janeiro. Festa de Santo Tomás de Aquino
+
 > *Quasi sol refulgens, sic ille effulsit in templo Dei* – “Como o sol resplandecente, assim ele resplandeceu no templo de Deus” (Ecle 50, 7)
 
 ***Sumário.** É com justa razão que os fiéis dão a este Santo o nome de Sol; porquanto, assim como o sol material alumia e aquece a terra, Santo Tomás nos aquece com os seus exemplos e nos alumia com sua doutrina. Rendamos graças a Deus, por nos ter concedido este Astro benfazejo, e roguemos-lhe a graça de aproveitarmos o seu influxo salutar. Lembremo-nos, porém, de que a sabedoria celestial se adquire mais pela oração do que pelo estudo.*

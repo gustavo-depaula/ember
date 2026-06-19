@@ -1,4 +1,4 @@
-## XXIV — BEATI COLORO CHE PIANGONO
+# XXIV — BEATI COLORO CHE PIANGONO
 
 **Presenza di Dio.** — *Concedimi, o Signore, di versare solo lacrime che ti siano accette e mi aiutino a crescere nel tuo amore.*
 

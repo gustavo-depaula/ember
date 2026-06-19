@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Julho. Coração de Jesus, modelo de Humildade
+
 > *Discite a me, quia… sum humilis corde — “Aprendei de mim, porque sou humilde de coração” (Mt 11, 29)*
 
 ***Sumário.** Oh! Quanto é bela a alma ornada da virtude da humildade! O humilde de coração, diz São Paulino, torna-se o Coração de Jesus Cristo, porque a humildade nos une a este divino Coração. O Filho de Deus veio do céu para nos ensinar a humildade, não somente pelas Suas palavras, mas ainda pelo Seu exemplo. Santo Agostinho falando da humildade de Jesus, diz: Se tal remédio não nos cura do nosso orgulho, difícil será achar-se outro meio de nos livrarmos dele. Aprendamos, pois, de Jesus Cristo a ser humildes.*

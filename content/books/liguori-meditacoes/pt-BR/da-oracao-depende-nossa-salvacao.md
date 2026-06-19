@@ -1,3 +1,5 @@
+# Quinta-feira. Da oração depende a nossa salvação
+
 > *Si quis vestrum indiget sapientia, postulet a Deo, qui dat omnibus affluenter, et non improperat* – “Se alguém de vós necessita de sabedoria, suplique-a de Deus, que a todos dá liberalmente, e não impropera” (Tg 1, 5)
 
 ***Sumário.** A oração é não só útil à salvação, mas mesmo necessária, porque de um lado somos incapazes de fazer obras boas sem o auxílio de Deus, e do outro, o Senhor, ainda que nos queira dar este auxílio, de ordinário não o dá senão a quem ora. Se, pois, queremos salvar-nos, devemos orar até à morte, pois desde que cessemos de orar, estaremos perdidos. Devemos orar não só por nós mesmos, como também pelo próximo e especialmente pelos pecadores e pelas almas do purgatório.*.

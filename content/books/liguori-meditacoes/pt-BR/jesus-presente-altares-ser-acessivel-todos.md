@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus presente nos altares para ser acessível a todos
+
 Sacrário do altar de Siena Duomo (Século XVI)
 
 > *Venite ad me omnes, qui laboratis et onerati estis; et ego reficiam Vos* – “Vinde a mim todos os que estais cansados e carregados e eu vos aliviarei” (Mt 11, 28)

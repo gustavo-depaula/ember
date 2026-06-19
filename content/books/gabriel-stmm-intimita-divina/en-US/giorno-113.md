@@ -1,4 +1,4 @@
-## 37 — THE LAST PLACE
+# 37 — THE LAST PLACE
 
 **Presence of God.** — *O Jesus, who said: "I have not come to be served but to serve" (cfr. Mt. 20, 28), teach me to love the last place.*
 

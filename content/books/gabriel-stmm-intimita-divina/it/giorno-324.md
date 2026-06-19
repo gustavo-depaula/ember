@@ -1,4 +1,4 @@
-## 2 — IL DOVERE DELL'APOSTOLATO
+# 2 — IL DOVERE DELL'APOSTOLATO
 
 **Presenza di Dio.** — *O Gesù, che mi accogliesti come tuo membro, fa' che io non viva da estraneo nel tuo Corpo mistico, ma possa giovare al bene di tutti i fratelli.*
 

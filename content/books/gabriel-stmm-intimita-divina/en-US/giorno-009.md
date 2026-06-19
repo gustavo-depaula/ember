@@ -1,4 +1,4 @@
-## 9 — THE IMMACULATE CONCEPTION
+# 9 — THE IMMACULATE CONCEPTION
 
 **Presence of God.** — *I place myself in the presence of Mary Immaculate, my sweet Mother, listening to her invitation: "Come to me, all of you who love me, and I will tell you what God has done in my soul."*
 

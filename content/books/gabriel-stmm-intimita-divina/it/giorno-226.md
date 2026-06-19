@@ -1,4 +1,4 @@
-## XXVI — VIVERE CON LA TRINITÀ
+# XXVI — VIVERE CON LA TRINITÀ
 
 **Presenza di Dio.** — *O Padre, o Figlio, o Spirito Santo, ricevetemi nel vostro amplesso, degnatevi di ammettermi nella vostra intimità.*
 

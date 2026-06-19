@@ -1,3 +1,5 @@
+# 2ª Meditação. Da vida oculta de Jesus no Santíssimo Sacramento
+
 > *Vere tu es Deus absconditus, Deus Israel Salvator *—“Vós sois em verdade um Deus oculto, Deus de Israel, Salvador” (Is 45, 15)
 
 ***Sumário.** Encarnando-se, o Verbo divino ocultou sua divindade, e manifestou-se como homem na terra; mas morando entre nós na Eucaristia, esconde também a sua humanidade, e só deixa ver as aparências de pão, para mostrar o amor que tem aos homens. E, todavia, os homens se atrevem a ultrajá-lo, exatamente porque se ocultou assim! Se amamos deveras a Jesus, desagravemo-lo com as nossas homenagens, e esforcemo-nos por imitá-lo, ocultando à vista dos homens a nossa própria pessoa e as nossas ações.*

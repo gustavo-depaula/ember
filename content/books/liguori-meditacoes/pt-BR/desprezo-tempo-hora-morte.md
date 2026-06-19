@@ -1,3 +1,5 @@
+# Segunda-feira. O desprezo do tempo e a hora da morte
+
 > *Vocavit adversum me tempus* – “Chamou contra mim o tempo” (Lm 1, 15)
 
 ***Sumário.** Grande é a tristeza do viajante ao ver que errou o caminho quando já caiu a noite e não há tempo para reparar o engano. Incomparavelmente maior será, na hora da morte, a tua mágoa, meu irmão, se em via não tiveres aproveitado o tempo, ou, pior ainda, tivesses dele abusado para ofenderes ao Senhor. Como fui insensato! – dirias então chorando. – Ó vida perdida! Em tantos anos, com tão grandes graças podia santificar-me e não o fiz… De que servirão então estas lamentações, quando a cena já estiver no fim e se aproximar o grande momento de que depende a eternidade?*

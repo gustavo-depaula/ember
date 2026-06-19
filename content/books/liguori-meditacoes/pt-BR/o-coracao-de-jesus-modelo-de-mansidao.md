@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Agosto. O Coração de Jesus, modelo de Mansidão
+
 > *Discite a me, quia mitis… sum corde* — “Aprendei de mim, que sou manso… de coração” (Mt 11, 29)
 
 ***Sumário.** Um dos caracteres mais atrativos e especiais do Coração de Jesus é a virtude da mansidão. O nosso divino Redentor foi chamado Cordeiro, não somente por causa do sacrifício da cruz, em que devia ser imolado, mas ainda por causa da mansidão que mostrou durante toda a sua vida e particularmente no tempo da sua dolorosa Paixão. Ó! Quanto agrada ao Coração de Jesus um coração manso, que sabe suportar as afrontas I As suas orações são sempre agradáveis a Deus.*

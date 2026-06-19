@@ -1,4 +1,4 @@
-## XVII — BLESSED ARE THOSE WHO HUNGER
+# XVII — BLESSED ARE THOSE WHO HUNGER
 
 **Presence of God.** — *Under the impulse of the gift of fortitude, become within me a soul hungry and thirsty for justice.*
 

@@ -1,4 +1,4 @@
-## 49 — DIFFICULTIES OF OBEDIENCE
+# 49 — DIFFICULTIES OF OBEDIENCE
 
 **Presence of God.** — Teach me, O Jesus, the secret of humble obedience that submits to any superior and to any command.
 

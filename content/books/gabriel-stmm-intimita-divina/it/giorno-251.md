@@ -1,4 +1,4 @@
-## XXI — IL MOTIVO DELLA SPERANZA
+# XXI — IL MOTIVO DELLA SPERANZA
 
 **Presenza di Dio.** — *Fammi ben comprendere, o Signore, che la mia speranza deve trovare il suo fondamento in te, nel tuo amore, nella tua misericordia infinita.*
 

@@ -1,4 +1,4 @@
-## XIV — O BOM SAMARITANO
+# XIV — O BOM SAMARITANO
 *XII Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Senhor, imprime no meu coração o exemplo e o mandamento da tua caridade.*

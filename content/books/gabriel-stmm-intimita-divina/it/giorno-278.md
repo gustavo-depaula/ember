@@ -1,4 +1,4 @@
-## XVII — LA PRUDENZA
+# XVII — LA PRUDENZA
 
 **Presenza di Dio.** — *Insegnami, o Signore, la via della vera prudenza.*
 

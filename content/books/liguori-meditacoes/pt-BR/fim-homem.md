@@ -1,3 +1,5 @@
+# Segunda-feira. Fim do homem
+
 > *Deum time, et mandata eius observa: hoc est enim omnis homo* – “Teme a Deus e observa os seus mandamentos; porque isto é o tudo do homem” (Ecle 12, 13)
 
 ***Sumário.** Não temos nascido, nem devemos viver para gozarmos, para nos fazermos ricos e potentes, senão unicamente para amarmos a Deus e nos salvarmos para sempre. Todavia, este grande fim da nossa existência é o mais descuidado pelos homens, que em tudo pensam exceto na salvação da alma. Nós ao menos não sejamos tão insensatos e consideremos seriamente que tudo que se faz, se diz ou se pensa contra a vontade de Deus, é perdido e perdido para sempre.*

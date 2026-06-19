@@ -1,4 +1,4 @@
-## 17 — IL SILENZIO INTERIORE
+# 17 — IL SILENZIO INTERIORE
 
 **Presenza di Dio.** — *O Signore, fa' tacere in me ogni voce del mondo, delle creature, del mio io, perché possa ascoltare solo la voce tua.*
 

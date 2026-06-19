@@ -1,4 +1,4 @@
-## VI — MISTÉRIO DE AMOR
+# VI — MISTÉRIO DE AMOR
 
 **Presença de Deus.** — *Ó Jesus, concede-me reconhecer e corresponder ao teu amor infinito que te impeliu a fazer-te nosso alimento e nossa bebida.*
 

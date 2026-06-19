@@ -1,3 +1,5 @@
+# Quarta-feira. Do número dos pecados
+
 > *Omnia in mensura et numero et pondere disposuisti* – “Dispuseste tudo com medida e conta e peso” (Sb 11, 21)
 
 ***Sumário.** É sentimento de muitos Santos Padres, que Deus, assim como determinou para cada homem o número dos dias de vida que lhe quer dar, do mesmo modo fixou para cada um deles o número dos pecados que lhe quer perdoar e completado esse número não perdoa mais. Quem sabe, meu irmão, se depois dessa primeira satisfação indigna, depois do primeiro pensamento consentido, depois do primeiro pecado cometido, não quererá o Senhor castigar-te com uma morte repentina? O que então seria de ti por toda a eternidade?*

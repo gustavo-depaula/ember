@@ -1,4 +1,4 @@
-## XXIV — BEM-AVENTURADOS OS QUE CHORAM
+# XXIV — BEM-AVENTURADOS OS QUE CHORAM
 
 **Presença de Deus.** — *Concede-me, ó Senhor, derramar somente lágrimas que te sejam agradáveis e me ajudem a crescer no teu amor.*
 

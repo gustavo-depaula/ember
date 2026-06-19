@@ -1,4 +1,4 @@
-## Abbreviazioni
+# Abbreviazioni
 
 Per semplificare le numerose citazioni degli autori carmelitani abbiamo usato le sigle di cui diamo qui lo specchietto.
 

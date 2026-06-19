@@ -1,4 +1,4 @@
-## 25 — PATERNIDADE E MATERNIDADE ESPIRITUAL
+# 25 — PATERNIDADE E MATERNIDADE ESPIRITUAL
 
 **Presença de Deus.** — *Ó meu Deus, une-me a ti pelo vínculo de um amor intenso e, em força dessa união, faze que eu te possa gerar almas.*
 

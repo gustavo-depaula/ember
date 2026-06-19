@@ -1,4 +1,4 @@
-## 53 — A CRUZ COTIDIANA
+# 53 — A CRUZ COTIDIANA
 
 **Presença de Deus.** — Ó Jesus crucificado, pelos méritos de tua Cruz, ensina-me a levar cada dia minha cruz.
 

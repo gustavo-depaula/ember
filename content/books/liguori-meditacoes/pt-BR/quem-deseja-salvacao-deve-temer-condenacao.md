@@ -1,3 +1,5 @@
+# Segunda-feira. Quem deseja a salvação, deve temer a condenação
+
 > *Cum metu et tremore vestram salutem operamiui* – “Trabalhai em vossa salvação com medo e tremor” (Fl 2, 12)
 
 ***Sumário.** Avisa-nos São Paulo que devemos trabalhar em nossa salvação não só com medo, mas com tremor, visto que se trata da eternidade. Se na hora da morte estivermos na graça de Deus, tudo estará seguro: seremos felizes para sempre. Se, ao contrário, a morte nos achar em pecado mortal, com que desespero confessaremos: Desviei-me do caminho e já não há remédio em toda a eternidade! Meu irmão, aproveitemo-nos do aviso. Quem sabe se esta meditação não é para mim o último convite… Quem sabe se não morreremos repentinamente!*

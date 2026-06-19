@@ -1,3 +1,5 @@
+# Terça-feira. Infeliz de quem peca contando com o perdão
+
 > *Effugium peribit ab eis, et spes illorum abominatio animae* – “Não lhes ficará refúgio e a esperança deles será abominação de sua alma” (Jó 11, 20)
 
 ***Sumário.** Deus suporta, mas não suporta sempre. Quando se encheu a medida dos pecados que Deus quer perdoar, lança mão dos castigos mais formidáveis. Se Deus suportasse sempre, ninguém se condenaria, mas é opinião comum, que a maior parte dos adultos, incluindo os cristãos, se condenam. Infelizes de nós portanto, se pecarmos na esperança do perdão e abusarmos da misericórdia de Deus, para o ultrajar mais! Seremos irreparavelmente condenados para sempre, como se condenaram tantos outros nossos iguais.*

@@ -1,3 +1,5 @@
+# Sexta-feira. Quem ama Jesus Cristo deve odiar o mundo
+
 > *Mihi autem absit gloriari nisi in cruce Domini nostri Iesu Christi, per quem mihi mundus crucifixus est et ego mundo* – “Longe esteja de mim o gloriar-me senão na cruz de nosso Senhor Jesus Cristo, por quem o mundo está crucificado para mim e eu para o mundo” (Gl 6, 14)
 
 ***Sumário.** Jesus Cristo quis morrer crucificado para nos livrar do amor ao mundo perverso. Tendo-nos chamado ao seu amor, quer que nos coloquemos acima das promessas e ameaças do mundo. Quer que não façamos caso nem das censuras do mundo nem das suas aprovações, e nos alegremos por sermos odiados e perseguidos como o próprio Jesus. Para alcançarmos um fim tão elevado, habituemo-nos a prever já de manhã as contrariedades e os desprezos que nos possam vir do correr do dia, e preparemo-nos para os sofrer com paciência.*

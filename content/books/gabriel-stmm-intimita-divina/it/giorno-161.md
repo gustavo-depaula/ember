@@ -1,4 +1,4 @@
-## XXII — PELLEGRINI DI DIO
+# XXII — PELLEGRINI DI DIO
 
 *III Domenica dopo Pasqua*
 

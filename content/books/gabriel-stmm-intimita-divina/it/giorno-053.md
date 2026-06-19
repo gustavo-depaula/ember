@@ -1,4 +1,4 @@
-## 53 — Gesù Maestro di santità
+# 53 — Gesù Maestro di santità
 
 **Presenza di Dio.** — *Ho sempre bisogno di te, Maestro divino, perché Tu solo sei santo e mi puoi insegnare la vera via della santità.*
 

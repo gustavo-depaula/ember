@@ -1,4 +1,4 @@
-## III — A GENEROSIDADE
+# III — A GENEROSIDADE
 **Presença de Deus.** — Dilata, ó Senhor, meu coração na generosidade, para que eu saiba dar-me totalmente ao teu serviço.
 
 ### Meditação

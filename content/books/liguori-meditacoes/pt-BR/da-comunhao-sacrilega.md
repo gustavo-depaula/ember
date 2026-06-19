@@ -1,3 +1,5 @@
+# Quinta-feira. Da Comunhão Sacrílega
+
 > *Qui manducat et bibit indigne, iudicium sibi manducat et bibit, non diiudicans corpus Domini* – “O que come e bebe indignamente, come e bebe para si a condenação, não fazendo discernimento do corpo do Senhor” (1Cor 11, 29)
 
 ***Sumário.** Antes de te aproximares da Mesa eucarística, examina sempre a tua consciência, e se por desgraça tiveres remorso de alguma falta grave, purifica a tua alma pela confissão sacramental. Quanto às culpas veniais, esforça-te por tirá-las de tua alma, ao menos as que forem deliberadas, e afasta de ti tudo o que não seja Deus. Ai daquele que comunga indignamente! Torna-se réu do Corpo e do Sangue de Jesus Cristo, e portanto come-O e bebe-O para a sua própria condenação.*

@@ -1,4 +1,4 @@
-## 58 — "EU ESTOU NO PAI"
+# 58 — "EU ESTOU NO PAI"
 
 **Presença de Deus.** — *Concedei-me, ó Jesus, penetrar nas íntimas disposições da tua Alma, em contínua união pessoal com o Pai.*
 

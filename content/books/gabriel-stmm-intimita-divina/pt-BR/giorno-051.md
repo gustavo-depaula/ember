@@ -1,4 +1,4 @@
-## 51 — A DOUTRINA DE JESUS
+# 51 — A DOUTRINA DE JESUS
 
 **Presença de Deus.** — *Ó Senhor, venho aos teus pés desejoso de escutar a tua doutrina, que é doutrina de vida eterna.*
 

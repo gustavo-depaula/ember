@@ -1,3 +1,5 @@
+# Quarta-feira. Quem ama a Deus, suspira por vê-lo no céu
+
 > *Heu mihi, quia incolatus meus prolongatus est* – “Ai de mim, que o meu desterro se prolongou” (Sl 119, 5)
 
 ***Sumário.** As almas que amam a Deus, são como que outras tantas nobres peregrinas, destinadas a serem eternamente esposas do Rei do céu, mas ainda estão longe d’Ele sem O poderem ver. Estão, é verdade, contentes com a sua sorte, porque se conformam com a vontade de Deus que as quer deixar no exílio; sempre, porém, suspiram para irem ao céu, onde eles sabem que o Esposo as espera. Se não sentimos o mesmo desejo de nos unirmos a Deus é porque o amamos pouco. Mas querermos ficar sempre assim? – Ah, Senhor, de hoje em diante quero amar-Vos de todo o meu coração.*

@@ -1,3 +1,5 @@
+# Sexta-feira. Amor de Jesus em querer satisfazer por nós
+
 > *Dilexit nos, et tradidit semet ipsum pro nobis oblationem et hostiam Deo* – “(Jesus) amou-nos e se entregou a si mesmo por nós em oblação e como hóstia para Deus” (Ef 5, 2)
 
 ***Sumário.** Nunca se deu, nem se dará jamais, no mundo outro fato semelhante ao que está consignado nos Evangelhos. Estando o homem por sua própria culpa condenado à morte eterna, o Filho de Deus pediu e obteve de seu divino Pai, que o deixasse tomar a natureza humana e pagar com a própria morte as penas devidas ao homem. Que te parece, irmão meu, este amor do Filho e do Pai? Todavia, a maior parte dos homens, talvez tu também, não responderam a tamanho amor senão com ingratidão.*

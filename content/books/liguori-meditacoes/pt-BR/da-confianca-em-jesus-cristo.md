@@ -1,3 +1,5 @@
+# Segunda-feira. Da confiança em Jesus Cristo
+
 > *Nolite itaque amittere confidentiam vestram, quae magnam habet remunerationem* – “Não queirais perder a vossa confiança, que tem grande remuneração” (Hb 10, 35)
 
 ***Sumário.** A misericórdia de Deus é como que uma fonte inexaurível, donde tirará mais graças quem trouxer um vaso mais amplo de confiança. Se, pois, quisermos enriquecer espiritualmente, confiemos muito nos méritos de Jesus Cristo e na intercessão de Maria. Avivemos frequentemente esta nossa confiança, lembrando-nos de que Deus é bom e nos quer ajudar; que é poderoso e nos pode ajudar; que é fiel e prometeu ajudar-nos. Não busquemos, porém, uma confiança sensível, que redunda nos sentidos; basta que tenhamos a vontade de confiar.*

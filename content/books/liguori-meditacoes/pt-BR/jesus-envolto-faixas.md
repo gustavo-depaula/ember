@@ -1,3 +1,5 @@
+# Dia 03 de Janeiro. Jesus envolto em faixas
+
 > *Et pannis eum involvit* – “Envolveu-o em faixas” (Lc 2, 7)
 
 ***Sumário.** Imaginemos ver a Maria que toma com reverência seu divino Filho, o adora, o beija e em seguida o envolve nas faixas. O santo Menino oferece obediente as mãos e os pés, e sentindo que lhe apertam as faixas, pensa nas cordas com que um dia será amarrado no Horto. Se um Deus assim se deixa enfaixar, não será por ventura justo que nos deixemos ligar também com os laços de seu amor, e nos desfaçamos de qualquer afeto terreno?*

@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de castidade
+
 > *Sicut lilium inter spinas, sic amica mea inter filias* – “Como é a açucena entre os espinhos, assim é a minha amiga entre as filhas” (Ct 2, 2)
 
 ***Sumário.** A pureza da Santíssima Virgem foi tão grande, que o Verbo divino a elegeu para sua Mãe, afim de que servisse a todos de exemplo de castidade. Como recompensa da sua inefável virgindade, Maria tem o privilégio de preservar do pecado os seus devotos e de os levantar depois da queda. É necessário, porém, que da nossa parte ponhamos em prática os meios para vencer, especialmente o evitar as ocasiões, e praticar a oração, consagrando-nos à Virgem de manhã e à noite, e invocando o seu nome em cada assalto do inimigo infernal.*

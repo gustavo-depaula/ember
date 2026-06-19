@@ -1,4 +1,4 @@
-## VI — NON GIUDICATE
+# VI — NON GIUDICATE
 
 **Presenza di Dio.** — *O Signore, preserva la mia mente dal giudicare e criticare il prossimo e dammi per tutti pensieri di bontà e di amore.*
 

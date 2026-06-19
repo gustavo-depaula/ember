@@ -1,4 +1,4 @@
-## XVI — MARY'S APOSTOLATE
+# XVI — MARY'S APOSTOLATE
 
 **Presence of God.** — *O Mary, Queen of Apostles, create in me an apostle's heart.*
 

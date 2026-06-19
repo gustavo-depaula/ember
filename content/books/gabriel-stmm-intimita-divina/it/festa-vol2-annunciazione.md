@@ -1,4 +1,4 @@
-## 25 marzo — L'ANNUNCIAZIONE DI MARIA
+# 25 marzo — L'ANNUNCIAZIONE DI MARIA
 
 **Presenza di Dio.** — *Accanto a te, o Maria, voglio imparare a ripetere in ogni circostanza il tuo: «Ecce ancilla Domini!».*
 

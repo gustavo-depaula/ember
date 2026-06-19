@@ -1,4 +1,4 @@
-## 7. Exercice du Chemin de la Croix
+# 7. Exercice du Chemin de la Croix
 
 *Avant de commencer les visites des Stations, on se mettra à genoux devant le maître-autel, on fera un acte de contrition, et on formera l'intention de gagner les indulgences pour soi-même ou pour les âmes du purgatoire.*
 

@@ -1,4 +1,4 @@
-## XII — REAMAR O AMOR
+# XII — REAMAR O AMOR
 
 **Presença de Deus.** — *Ó Jesus, que tanto me amaste, torna-me capaz de corresponder ao teu amor.*
 

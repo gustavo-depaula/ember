@@ -1,4 +1,4 @@
-## 25 — SPIRITUAL FATHERHOOD AND MOTHERHOOD
+# 25 — SPIRITUAL FATHERHOOD AND MOTHERHOOD
 
 **Presence of God.** — *O my God, unite me to you with the bond of intense love, and by force of this union grant that I may generate souls for you.*
 

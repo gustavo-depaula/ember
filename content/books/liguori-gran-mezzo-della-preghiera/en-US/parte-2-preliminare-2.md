@@ -1,6 +1,4 @@
-# Part Two
-
-## Preliminary II
+# Preliminary II
 
 ### God Commonly Gives to All the Just the Grace Necessary to Observe the Precepts, and to All Sinners the Grace to Be Converted
 

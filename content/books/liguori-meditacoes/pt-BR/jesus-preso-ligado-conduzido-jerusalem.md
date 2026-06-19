@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus é preso, ligado e conduzido a Jerusalém
+
 Prisão de Jesus (Cavalier d’Arpino)
 
 > *Comprehenderunt Iesum et ligaverunt eum – “Eles prenderam a Jesus e o ligaram”* (Jo 18, 12)

@@ -1,3 +1,5 @@
+# Segunda-feira. Do amor que Deus nos mostrou
+
 > *Nos ergo diligamus Deum, quoniam Deus prior dilexit nos* – “Amemos portanto a Deus, porque Deus nos amou primeiro” (1 Jo 4, 19)
 
 ***Sumário.** São inúmeras as provas de amor que o Senhor nos deu. Amou-nos desde a eternidade, tirou-nos do nada com preferência a tantos outros, e, o que mais é, fez-nos nascer num país católico e no seio da Igreja verdadeira. Quantos milhões de homens vivem privados dos sacramentos, da pregação, dos bons exemplos e de tantos outros meios de salvação! A nós Deus quis dar todos estes meios de perfeição, sem mérito algum da nossa parte; prevendo mesmo todos os nossos deméritos. Porque então correspondemos tão mal ao amor de Deus? Porque não o amamos de todo o coração?*

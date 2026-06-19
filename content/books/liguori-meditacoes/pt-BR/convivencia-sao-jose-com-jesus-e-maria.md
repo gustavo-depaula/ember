@@ -1,3 +1,5 @@
+# Terça-feira. Convivência de São José com Jesus e Maria
+
 > *Descendit cum eis et venit Nazareth, et erat subditus illis* – “Desceu (Jesus) com eles e veio para Nazaré, e lhes estava sujeito” (Lc 2, 51)
 
 ***Sumário.** Que bela sorte foi a de São José por ter vivido tantos anos em companhia de Jesus e Maria! Naquela família, não se tratava senão da maior glória de Deus; não havia outros pensamentos ou desejos senão a vontade de Deus; não se falava senão sobre o amor que Deus tem aos homens e que os homens devem a Deus. Oh! Se nós também soubéssemos aproveitar-nos da oportunidade, teríamos igualmente a ventura de viver com Jesus, presente na Santíssima Eucaristia. Procuremos portanto visitá-Lo frequentemente e unamos os nossos afetos aos de Maria e José!*.

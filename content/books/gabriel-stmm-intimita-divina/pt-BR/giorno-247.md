@@ -1,4 +1,4 @@
-## XVII — NOSSAS RIQUEZAS
+# XVII — NOSSAS RIQUEZAS
 *VIII Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Ó Senhor, ensina-me a ser um administrador fiel e prudente dos teus bens.*

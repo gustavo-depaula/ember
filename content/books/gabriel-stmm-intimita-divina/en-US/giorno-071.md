@@ -1,4 +1,4 @@
-## 71 — BAPTISM
+# 71 — BAPTISM
 
 **Presence of God.** — *O God, who without any merit of mine didst make me Thy child, grant me to live in a manner worthy of this divine sonship.*
 

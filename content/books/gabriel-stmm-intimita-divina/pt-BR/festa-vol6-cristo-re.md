@@ -1,4 +1,4 @@
-## Último domingo de outubro — FESTA DE CRISTO REI
+# Último domingo de outubro — FESTA DE CRISTO REI
 
 **Presença de Deus.** — *Ó Jesus, Príncipe dos séculos, Rei das nações, sede o único Rei da minha mente e do meu coração.*
 

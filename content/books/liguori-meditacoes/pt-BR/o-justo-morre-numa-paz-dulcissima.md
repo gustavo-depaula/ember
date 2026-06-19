@@ -1,3 +1,5 @@
+# 18ª Meditação. O Justo morre numa Paz Dulcíssima
+
 > *Visi sunt oculis insipientium mori… illi autem sunt in pace* — “Aos olhos dos insensatos parece que morreram … eles, porém, estão em paz” (Sb 3, 2.3)
 
 ***Sumário.** Parece aos olhos dos insensatos que os servos de Deus morrem na aflição; mas enganam-se, porque o Senhor sabe como consolar os seus filhos no derradeiro momento. Assim como os que morrem em pecado, sentem antecipadamente no leito da morte certos tormentos do inferno, os remorsos e o desespero, assim os santos, pelos atos do amor de Deus, pelo desejo e esperança de brevemente o possuírem, já antes de morrer têm um antegozo daquela paz de que plenamente gozarão no céu. Felizes de nós, se por uma vida boa soubermos merecer uma morte tão suave!*

@@ -1,4 +1,4 @@
-## XXIII — VIDA DE ORAÇÃO
+# XXIII — VIDA DE ORAÇÃO
 
 **Presença de Deus.** — *Ó Senhor, que eu te busque não só em alguma hora ou momento do dia, mas em todos os momentos da minha vida.*
 

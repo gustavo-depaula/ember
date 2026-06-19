@@ -1,4 +1,4 @@
-## VII — LA SAPIENZA INFINITA
+# VII — LA SAPIENZA INFINITA
 
 **Presenza di Dio.** — *Mio Dio, sapienza infinita, illumina la mia mente e insegnami il segreto della vera sapienza.*
 

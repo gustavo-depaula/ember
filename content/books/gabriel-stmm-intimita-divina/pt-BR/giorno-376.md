@@ -1,4 +1,4 @@
-## 54 — INTIMIDADE DIVINA
+# 54 — INTIMIDADE DIVINA
 
 **Presença de Deus.** — *Concede-me, ó Senhor, plena e estável intimidade Convosco, para que possa amar-Vos sempre mais.*
 

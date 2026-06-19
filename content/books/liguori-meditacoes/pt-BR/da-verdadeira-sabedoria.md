@@ -1,3 +1,5 @@
+# Segunda-feira. Da verdadeira sabedoria
+
 > *Et dedit illi scientiam sanctorum* – “E deu-lhe a ciência dos santos” (Sb 10, 10)
 
 ***Sumário.** Oh, que bela ciência, a de saber amar a Deus e salvar a alma. É esta a ciência mais necessária de todas, porquanto, se soubéssemos tudo e não nos soubéssemos salvar, nada nos aproveitaria e seríamos eternamente infelizes; ao passo que seremos eternamente bem-aventurados se soubermos amar a Deus, ainda que no mais fôssemos completamente ignorantes. Quantos sábios estão no inferno! Quantos, que aqui foram ignorantes, gozam no paraíso! Que aproveitou àqueles a sua sabedoria?… Que prejuízo causou a estes a sua ignorância?*
