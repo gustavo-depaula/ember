@@ -13,16 +13,30 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domine, labia mea aperies."
+          },
+          "r": {
+            "la": "Et os meum annuntiabit laudem tuam."
+          }
+        }
+      ]
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus, in adjutorium meum intende."
+          },
+          "r": {
+            "la": "Domine, ad adjuvandum me festina."
+          }
+        }
+      ]
     },
     {
       "type": "prayer",
@@ -55,55 +69,32 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Jesu dulcis memoria;\nDans vera cordis gaudia,\nSed super mel et omnia;\nEjus dulcis praesentia."
+                "la": "Jesu dulcis memoria;\nDans vera cordis gaudia,\nSed super mel et omnia;\nEjus dulcis praesentia.\n\nNil canitur suavius;\nNil auditur jucundius,\nNil cogitatur dulcius;\nQuam Jesus, Dei Filius.\n\nJesu, spes poenitentibus;\nQuam pius es petentibus!\nQuam bonus te quaerentibus!\nSed quid Invenientibus?\n\nJesu, dulcedo cordium;\nFons vivus, lumen mentium,\nExcedens omne gaudium;\nEt omne desiderium.\n\nNec lingua valet dicere;\nNec littera exprimere,\nExpertus potest credere;\nQuid sit Jesum diligere.\n\nJesum quaeram in lectulo;\nClauso cordis cubiculo,\nPrivatim et in publico;\nQuaeram amore sedulo."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Nil canitur suavius;\nNil auditur jucundius,\nNil cogitatur dulcius;\nQuam Jesus, Dei Filius."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sit nomen Domini benedictum."
+                  },
+                  "r": {
+                    "la": "Ex hoc nunc et usque in saeculum."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesu, spes poenitentibus;\nQuam pius es petentibus!\nQuam bonus te quaerentibus!\nSed quid Invenientibus?"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesu, dulcedo cordium;\nFons vivus, lumen mentium,\nExcedens omne gaudium;\nEt omne desiderium."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Nec lingua valet dicere;\nNec littera exprimere,\nExpertus potest credere;\nQuid sit Jesum diligere."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesum quaeram in lectulo;\nClauso cordis cubiculo,\nPrivatim et in publico;\nQuaeram amore sedulo."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sit nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -115,15 +106,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\n℟. Amen."
+                "la": "Sancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             }
           ]
@@ -137,61 +147,32 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Cum Maria diluculo;\nJesum quaeram in tumulo,\nClamore cordis querulo;\nMente quaeram, non oculo."
+                "la": "Cum Maria diluculo;\nJesum quaeram in tumulo,\nClamore cordis querulo;\nMente quaeram, non oculo.\n\nTumbam perfundam fletibus;\nLocum replens gemitibus:\nJesu provolar pedibus;\nStrictis haerens amplexibus.\n\nJesu rex admirabilis;\nEt triumphator nobilis,\nDulcedo ineffabilis;\nTotus desiderabilis.\n\nMane nobiscum, Domine;\nEt nos illustra lumine,\nPulsa mentis caligne;\nMundum replens dulcedine.\n\nQuando cor nostrum visitas; Tunc lucet ei veritas,\nMundi vilescit vanitas,\nEt intus fervet caritas.\n\nAmor Jesu dulcissimus;\nEt vere suavissimus,\nPlus millies gratissimus;\nQuam dicere sufficimus.\n\nHoc probat ejus passio;\nHoc sanguinis effusio,\nPer quam nobis redemptio;\nDatur, et Dei visio."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Tumbam perfundam fletibus;\nLocum replens gemitibus:\nJesu provolar pedibus;\nStrictis haerens amplexibus."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sit nomen Domini benedictum."
+                  },
+                  "r": {
+                    "la": "Ex hoc nunc et usque in saeculum."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesu rex admirabilis;\nEt triumphator nobilis,\nDulcedo ineffabilis;\nTotus desiderabilis."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Mane nobiscum, Domine;\nEt nos illustra lumine,\nPulsa mentis caligne;\nMundum replens dulcedine."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quando cor nostrum visitas; Tunc lucet ei veritas,\nMundi vilescit vanitas,\nEt intus fervet caritas."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Amor Jesu dulcissimus;\nEt vere suavissimus,\nPlus millies gratissimus;\nQuam dicere sufficimus."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Hoc probat ejus passio;\nHoc sanguinis effusio,\nPer quam nobis redemptio;\nDatur, et Dei visio."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sit nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -203,15 +184,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\n℟. Amen."
+                "la": "Sancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             }
           ]
@@ -225,61 +225,32 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Jesum omnes agnoscite;\nAmorem ejus poscite,\nJesum ardenter quaerite;\nQuaerendo inardescite."
+                "la": "Jesum omnes agnoscite;\nAmorem ejus poscite,\nJesum ardenter quaerite;\nQuaerendo inardescite.\n\nSic amantem diligite;\nAmoris vicem reddite,\nIn hunc odorem currite;\nEt vota votis reddite.\n\nJesu auctor clementiae;\nTotius spes laetitiae:\nDulcoris fons et gratiae;\nVerae cordis deliciae.\n\nJesu mi bone, sentiam;\nAmoris tui copiam,\nDa mihi per praesentiam;\nTuam videre gloriam.\n\nCum digne loqui nequeam;\nDe Te tamen ne sileam,\nAmor facit, ut audeam;\nCum de Te solum gaudeam.\n\nTua, Jesu, dilectio;\nGrata mentis refectio,\nReplens sine fastidio;\nDans famem desiderio.\n\nQui Te gustant, esuriunt;\nQui bibunt, adhuc sitiunt,\nDesiderare nesciunt;\nNisi Jesum, quem diligunt."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sic amantem diligite;\nAmoris vicem reddite,\nIn hunc odorem currite;\nEt vota votis reddite."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sit nomen Domini benedictum."
+                  },
+                  "r": {
+                    "la": "Ex hoc nunc et usque in saeculum."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesu auctor clementiae;\nTotius spes laetitiae:\nDulcoris fons et gratiae;\nVerae cordis deliciae."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesu mi bone, sentiam;\nAmoris tui copiam,\nDa mihi per praesentiam;\nTuam videre gloriam."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Cum digne loqui nequeam;\nDe Te tamen ne sileam,\nAmor facit, ut audeam;\nCum de Te solum gaudeam."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Tua, Jesu, dilectio;\nGrata mentis refectio,\nReplens sine fastidio;\nDans famem desiderio."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Qui Te gustant, esuriunt;\nQui bibunt, adhuc sitiunt,\nDesiderare nesciunt;\nNisi Jesum, quem diligunt."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sit nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -291,15 +262,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\n℟. Amen."
+                "la": "Sancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             }
           ]
@@ -313,55 +303,32 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Quocumque loco fuero;\nMecum Jesum desidero:\nQuam laetus, cum invenero!\nQuam felix, cum tenuero!"
+                "la": "Quocumque loco fuero;\nMecum Jesum desidero:\nQuam laetus, cum invenero!\nQuam felix, cum tenuero!\n\nJam, quod quaesivi, video;\nQuod concupivi, teneo,\nAmore Jesu langueo;\nEt corde totus ardeo.\n\nJesus cum sic diligitur;\nHic amor non extinguitur;\nNon tepescit, nec moritur;\nPlus crescit, et accenditur.\n\nHic amor ardet jugiter;\nDulcescit mirabiliter,\nSapit delectabiliter;\nDelectat et feliciter.\n\nHic amor missus coelitus;\nHaeret mihi medullitus,\nMentem incendit penitus;\nHoc delectatur spiritus.\n\nO beatum incendium;\nEt ardens desiderium,\nO dulce refrigerium;\nAmare Dei Filium!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Jam, quod quaesivi, video;\nQuod concupivi, teneo,\nAmore Jesu langueo;\nEt corde totus ardeo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sit nomen Domini benedictum."
+                  },
+                  "r": {
+                    "la": "Ex hoc nunc et usque in saeculum."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesus cum sic diligitur;\nHic amor non extinguitur;\nNon tepescit, nec moritur;\nPlus crescit, et accenditur."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Hic amor ardet jugiter;\nDulcescit mirabiliter,\nSapit delectabiliter;\nDelectat et feliciter."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Hic amor missus coelitus;\nHaeret mihi medullitus,\nMentem incendit penitus;\nHoc delectatur spiritus."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "O beatum incendium;\nEt ardens desiderium,\nO dulce refrigerium;\nAmare Dei Filium!"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sit nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -373,15 +340,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\n℟. Amen."
+                "la": "Sancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             }
           ]
@@ -395,61 +381,32 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Jesu, flos matris virginis;\nAmor nostrae dulcedinis,\nTibi laus, honor numinis;\nRegnum beatitudinis!"
+                "la": "Jesu, flos matris virginis;\nAmor nostrae dulcedinis,\nTibi laus, honor numinis;\nRegnum beatitudinis!\n\nVeni, veni, rex optime;\nPater immensae gloriae,\nAffulge menti clarius;\nJam exspectatus saepius.\n\nJesu sole serenior;\nEt balsamo suavior,\nOmni dulcore dulcior;\nPrae cunctis amabilior.\n\nCujus gustus sic afficit;\nCujus odor sic reficit,\nIn quo mens mea deficit;\nSolus amanti sufficit.\n\nTu mentis delectatio;\nAmoris consummatio,\nTu mea gloriatio;\nJesu, mundi salvatio:\n\nDilecte mi, revertere;\nConsors paternae dexterae,\nHostem vicisti prospere;\nJam coeli regno fruere.\n\nSequar Te, quoquo ieris;\nMihi tolli non poteris,\nCum meum cor abstuleris;\nJesu, laus nostri generis."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Veni, veni, rex optime;\nPater immensae gloriae,\nAffulge menti clarius;\nJam exspectatus saepius."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sit nomen Domini benedictum."
+                  },
+                  "r": {
+                    "la": "Ex hoc nunc et usque in saeculum."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesu sole serenior;\nEt balsamo suavior,\nOmni dulcore dulcior;\nPrae cunctis amabilior."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Cujus gustus sic afficit;\nCujus odor sic reficit,\nIn quo mens mea deficit;\nSolus amanti sufficit."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Tu mentis delectatio;\nAmoris consummatio,\nTu mea gloriatio;\nJesu, mundi salvatio:"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Dilecte mi, revertere;\nConsors paternae dexterae,\nHostem vicisti prospere;\nJam coeli regno fruere."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sequar Te, quoquo ieris;\nMihi tolli non poteris,\nCum meum cor abstuleris;\nJesu, laus nostri generis."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sit nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -461,15 +418,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\n℟. Amen."
+                "la": "Sancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             }
           ]
@@ -483,61 +459,32 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Coeli cives, occurrite;\nPortas vestras attolite,\nTriumphatori dicite:\nAve Jesus, rex inclyte!"
+                "la": "Coeli cives, occurrite;\nPortas vestras attolite,\nTriumphatori dicite:\nAve Jesus, rex inclyte!\n\nRex virtutum, rex gloriae;\nRex insignis victoriae,\nJesu, largitor vaniae;\nHonor coelestis curiae.\n\nTu fons misericordiae;\nTu verae lumen patriae,\nPelle nubem tristitiae;\nDans nobis lucem gloriae.\n\nTe coeli chorus praedicat;\nEt tuas laudes replicat,\nJesus orbem laetificat;\nEt nos Deo pacificat.\n\nJesus in pace imperat;\nQuae omnem sensum superat:\nHanc mea mens desiderat;\nEt ea frui properat.\n\nJesus ad Patrem rediit;\nCoeleste regnum subiit,\nCor meum a me transiit;\nPost Jesum simul abiit.\n\nQuem prosequamur laudibus;\nVotis, hymnis et precibus,\nUt nos donet coelestibus;\nCum ipso frui sedibus."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Rex virtutum, rex gloriae;\nRex insignis victoriae,\nJesu, largitor vaniae;\nHonor coelestis curiae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sit nomen Domini benedictum."
+                  },
+                  "r": {
+                    "la": "Ex hoc nunc et usque in saeculum."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Tu fons misericordiae;\nTu verae lumen patriae,\nPelle nubem tristitiae;\nDans nobis lucem gloriae."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Te coeli chorus praedicat;\nEt tuas laudes replicat,\nJesus orbem laetificat;\nEt nos Deo pacificat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesus in pace imperat;\nQuae omnem sensum superat:\nHanc mea mens desiderat;\nEt ea frui properat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Jesus ad Patrem rediit;\nCoeleste regnum subiit,\nCor meum a me transiit;\nPost Jesum simul abiit."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quem prosequamur laudibus;\nVotis, hymnis et precibus,\nUt nos donet coelestibus;\nCum ipso frui sedibus."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sit nomen Domini benedictum.\n℟. Ex hoc nunc et usque in saeculum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -549,15 +496,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\n℟. Amen."
+                "la": "Sancti nominis tui, Domine,\ntimorem pariter et amorem fac nos habere perpetuum;\nquia nunquam tua gubernatione destituis,\nquos in soliditate tuae dilectionis instituis.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             }
           ]

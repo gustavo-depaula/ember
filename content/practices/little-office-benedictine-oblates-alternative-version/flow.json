@@ -8,11 +8,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandam me festina",
-        "en-US": "℣. O God, come to my assistance.\n℟. O Lord, make haste to help me."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus in adjutorium meum intende.",
+            "en-US": "O God, come to my assistance."
+          },
+          "r": {
+            "la": "Domine, ad adjuvandam me festina",
+            "en-US": "O Lord, make haste to help me."
+          }
+        }
+      ]
     },
     {
       "type": "prayer",
@@ -29,7 +37,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Psalmus 116",
         "en-US": "Psalm 116"
@@ -43,11 +51,34 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-        "en-US": "℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful, through the mercy of God, rest in peace.\n℟. Amen."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Benedicamus Domino.",
+            "en-US": "Let us bless the Lord."
+          },
+          "r": {
+            "la": "Deo gratias.",
+            "en-US": "Thanks be to God."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+            "en-US": "May the souls of the faithful, through the mercy of God, rest in peace."
+          },
+          "r": {
+            "la": "Amen.",
+            "en-US": "Amen."
+          }
+        }
+      ]
     }
   ]
 }

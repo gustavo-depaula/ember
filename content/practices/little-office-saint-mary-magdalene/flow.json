@@ -27,25 +27,64 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Dum Christo pedes lavera\nO pia Magdalena!\nJam abs reatu fueras\nFavore Jesu plena,\nTot ergo adhuc gemitus\nCur edis? Eequid vultus\nCum lachrymarum fluctibus\nTot exprimit singultus?"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiph."
               }
@@ -57,15 +96,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis S. M. Magdalena.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis S. M. Magdalena."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeatae Mariae Magdalenae quaesumus Domine, suffragiis adjuvemur, ut quam fides et dilectio sua salvam fecit, ejus quoque meritis ab omnibus malis salvemur in corpore, et a peccatis nostris per veram poenitentiam mundati in mente, aeternum tibi collaetemur in coelis; Qui vivis etc.\nAmen."
+                "la": "Beatae Mariae Magdalenae quaesumus Domine, suffragiis adjuvemur, ut quam fides et dilectio sua salvam fecit, ejus quoque meritis ab omnibus malis salvemur in corpore, et a peccatis nostris per veram poenitentiam mundati in mente, aeternum tibi collaetemur in coelis; Qui vivis etc.\nAmen."
               }
             }
           ]
@@ -79,25 +131,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Nonne in signum gratiae\nDum Christus mox passurus\nParabat valedicere\nMatri, non rediturus,\nIs tibi quoque dixerat\nVale! o Magdalena!\nCur ergo adhuc fluiaat,\nTurgetque fletu gena?"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -125,25 +203,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Quam suaviter respexerit\nIn te ex Cruce pendens,\nQuam Christus te dilexerit,\nEt brachia extendens\nVocaverit ad oscula?\nHoc Magdalena noscis!\nQuid ergo adhuc tristia,\nEt lachrymas exposcis?"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiph."
               }
@@ -171,25 +275,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tu inter primas nuntium\nLaetissimum audisti,\nResurrexisse Dominum,\nTu prima meruisti\nSub Hortulani specie\nJesum tuum videre,\nQuid ergo adhuc gemere,\nQuid movet adhuc flere?"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -217,25 +347,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Sed, inquis, pia Magdala\nHaud fletuum est satis;\nPlus sunt ploranda crimina\nQuo gratia ingratis\nA Deo major data est;\nQuo laeditur plus Deus,\nAcerbior, ut dignum est,\nHoc sit et dolor meus!"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -263,25 +419,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Hinc plorans solitaria\nSylvarum tesqua quaeris,\nHumana fugis otia,\nAssocians te feris;\nUt Christo, sine arbitro,\nMaria jam gaudere,\nEt planctu possis sedulo\nCommissa porro flere."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -309,25 +491,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Hic lympha, crudae herbululae\nDant vitae nutrimentum,\nQuies flagra, planctus, lacrymae\nAdsunt in condimentum;\nSed dura haec, et aspera\nAligerum beata\nFrequens dulcat praesentia\nEt Musica ter grata."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -355,25 +563,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per gemitus et lachrymas beatae Magdalenae."
+                  },
+                  "r": {
+                    "la": "Remittat nobis Dominus peccata nostra plene."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Per gemitus et lachrymas beatae Magdalenae.\n℟. Remittat nobis Dominus peccata nostra plene.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tandem terdenos Magdala\nCum annos hic egisti,\nAmore Jesu saucia,\nAmplexus inter Christi,\nLaeta in coelum evolas;\nHabens, quem diligebas,\nNobis relinquens lachrymas,\nQuas prius tu fundebas."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -407,7 +641,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Antiph."
       }
@@ -419,15 +653,28 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Ora pro nobis S. M. Magdalena.\n℟. Ut digni efficiamur etc."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis S. M. Magdalena."
+          },
+          "r": {
+            "la": "Ut digni efficiamur etc."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nO Benignissime Domine Jesu Christe! tutissimum poenitentium asylum, qui beatae Mariae Magdalenae Poenitentiam ita placitam tibi, gratamque habuisti, ut non solum peccata sua ei dimitteres, verum etiam Cor ejus tanta dulcedine perfunderes, ut pedes tuos ferventissimis irrigaret lachrymis, vitamque suam inter asperrima poenitentiae opera terminarer. Concede quaesumus, ut et nos peccatorum nostrorum multitudinem perfecte agnoscentes turpitudinem, tuaque offensa ingemiscere graviter tecum serio contemplemur, easque animi conversionis et spiritus contritionis actiones fideliter prosequamur illa dulcissima: Remittuntur tibi peccata tua, gratiam tuam plene consequamur, teque bonorum omnium complemento, in coelestibus quondam gaudiis aeternum perfrui mereamur. Qui vivis etc."
+        "la": "O Benignissime Domine Jesu Christe! tutissimum poenitentium asylum, qui beatae Mariae Magdalenae Poenitentiam ita placitam tibi, gratamque habuisti, ut non solum peccata sua ei dimitteres, verum etiam Cor ejus tanta dulcedine perfunderes, ut pedes tuos ferventissimis irrigaret lachrymis, vitamque suam inter asperrima poenitentiae opera terminarer. Concede quaesumus, ut et nos peccatorum nostrorum multitudinem perfecte agnoscentes turpitudinem, tuaque offensa ingemiscere graviter tecum serio contemplemur, easque animi conversionis et spiritus contritionis actiones fideliter prosequamur illa dulcissima: Remittuntur tibi peccata tua, gratiam tuam plene consequamur, teque bonorum omnium complemento, in coelestibus quondam gaudiis aeternum perfrui mereamur. Qui vivis etc."
       }
     }
   ]

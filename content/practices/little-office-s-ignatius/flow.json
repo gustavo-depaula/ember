@@ -38,9 +38,35 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri. Alleluia."
+                "la": "Gloria Patri. Alleluia."
               }
             },
             {
@@ -50,19 +76,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O Ignati, militantis\nClara fax Ecclesiae!\nO Xaveri, daventis\nSidus et lux Indiae!\nVos honorent, quotquot ambit\nPhoebus orbis climata,\nQuaqua pontum sero lambit,\nQuaqua tollit lumina."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -70,20 +96,72 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sapientiam ipsorum narrent populi, et laudem eorum nuntiet Ecclesia. Eccli. 44. 15.\n℣. In omnem terram exivit sonus eorum.\n℟. Et in fines orbis terrae verba eorum."
+                "la": "Sapientiam ipsorum narrent populi, et laudem eorum nuntiet Ecclesia. Eccli. 44. 15."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omnem terram exivit sonus eorum."
+                  },
+                  "r": {
+                    "la": "Et in fines orbis terrae verba eorum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui glorificantes te glorificas, et in Sanctorum tuorum honoribus honoraris: concede propitius, ut qui beatorum Ignatii et Xaverii Confessorum tuorum merita veneramur, eorum pia apud te patrocinia sentiamus. Per Dominum nostrum."
+                "la": "Deus, qui glorificantes te glorificas, et in Sanctorum tuorum honoribus honoraris: concede propitius, ut qui beatorum Ignatii et Xaverii Confessorum tuorum merita veneramur, eorum pia apud te patrocinia sentiamus. Per Dominum nostrum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -98,23 +176,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Vera virtus cum ruebat\nPressa pravo dogmate,\nHanc Loyola fulciebat\nNixus uno Numine.\nSic, Xaveri, te docente,\nCredit orbis Indicus:\nInde natum cum parente\nTollit aether laudibus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -122,7 +212,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sit memoria illorum in benedictione: et ossa eorum pullulent de loco suo, et nomen eorum permaneat in aeternum. Eccli. 46.\n℣. In omnem terram, etc."
+                "la": "Sit memoria illorum in benedictione: et ossa eorum pullulent de loco suo, et nomen eorum permaneat in aeternum. Eccli. 46."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In omnem terram, etc."
               }
             },
             {
@@ -144,23 +240,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Vos cubile solis orti\nEt cadentis respicit;\nVestra dura cura sorti\nQuot clientes eripit!\nNos fovete, nos tenete,\nNe cadamus noxii,\nTramitemque nos docete,\nQuem premamus integri."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -168,7 +276,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis lucet, et quasi sol refulgens: sic illi effulserunt in templo Dei. Eccli. 50. 6.\n℣. In omnem terram, etc."
+                "la": "Quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis lucet, et quasi sol refulgens: sic illi effulserunt in templo Dei. Eccli. 50. 6."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In omnem terram, etc."
               }
             },
             {
@@ -190,23 +304,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Sol nitente cum sorore\nJungat etsi lumina,\nAureoque clarus ore\nVibret axe spicula;\nCedit illi, quo sedetis\nInclyti subsellio,\nRegique, quem tenetis\nAxis in palatio."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -214,7 +340,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Qui docti fuerunt, fulgebunt quasi splendor firmamenti; et qui ad justitiam erudiunt multos, quasi stellae in perpetuas aeternitates. Dan. 12. 3.\n℣. In omnem terram, etc."
+                "la": "Qui docti fuerunt, fulgebunt quasi splendor firmamenti; et qui ad justitiam erudiunt multos, quasi stellae in perpetuas aeternitates. Dan. 12. 3."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In omnem terram, etc."
               }
             },
             {
@@ -236,23 +368,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Nulla dura tela sortis,\nNulla fati vulnera,\nIpsa nec pericula mortis,\nNulla mundi munera,\nVos amore separarunt\nProximi vel Numinis,\nVos beatis advocarunt\nCoelitum commerciis."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -260,7 +404,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "In pace vis vexati, in multis bene disponentur; quoniam Deus tentavit eos, et invenit illos dignos se. Sap. 3. 5.\n℣. In omnem terram, etc."
+                "la": "In pace vis vexati, in multis bene disponentur; quoniam Deus tentavit eos, et invenit illos dignos se. Sap. 3. 5."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In omnem terram, etc."
               }
             },
             {
@@ -282,23 +432,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Quot nefandis explicastis\nCriminum exemplibus!\nQuot beatis aligastis\nSanctitatis nexibus!\nTrado hostes me regendum,\nAd salutem ducite\nCorpus et corda tuendum,\nOro, me defende."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -306,7 +468,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Illi viri misericordiae sunt, quorum pietates non defuerunt: cum semine eorum permanent bona. Eccli. 44. 10. 11.\n℣. In omnem terram, etc."
+                "la": "Illi viri misericordiae sunt, quorum pietates non defuerunt: cum semine eorum permanent bona. Eccli. 44. 10. 11."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In omnem terram, etc."
               }
             },
             {
@@ -328,23 +496,48 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Laudemus viros gloriosos, et parentes nostros in generatione sua."
               }
             },
             {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Vos polique, vos solique\nBina luminaria,\nInfinique, maximique\nSicut exemplaria\nLutuentur obstruptentes:\nLumen, oro, spargite;\nNe premantur forte mentes\nCriminum caligine."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -352,7 +545,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Corpora eorum in pace sepulta sunt, et nomen eorum vivit in generationem et generationem. Eccli. 44. 14.\n℣. In omnem terram, etc."
+                "la": "Corpora eorum in pace sepulta sunt, et nomen eorum vivit in generationem et generationem. Eccli. 44. 14."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "In omnem terram, etc."
               }
             },
             {

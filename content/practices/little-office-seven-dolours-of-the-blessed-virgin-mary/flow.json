@@ -44,9 +44,35 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri. Alleluia."
+                "la": "Gloria Patri. Alleluia."
               }
             },
             {
@@ -56,25 +82,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, dulcis Mater Christi,\nQuae cur tuum gladio\nTransfingendum audis tristi\nSenis vaticinio."
+                "la": "Ave, dulcis Mater Christi,\nQuae cur tuum gladio\nTransfingendum audis tristi\nSenis vaticinio.\n\nTanti memor fac doloris,\nMihi sis praesidio,\nUt post vallem hanc meroris\nCoeli reddar gaudio."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Tanti memor fac doloris,\nMihi sis praesidio,\nUt post vallem hanc meroris\nCoeli reddar gaudio."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -82,13 +102,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Cui comparabo te vel cui assimilabo te, filia Jerusalem? cui exaequabo te, et consolabor te, Virgo, filia Sion? magna est enim velut mare contritio tua. (Thren. 2, 13.)\n℣. Tuam ipsius animam doloris gladius pertransibit.\n℟. Ut revelentur ex multis cordibus cogitationes. (Luc. 2, 35.)"
+                "la": "Cui comparabo te vel cui assimilabo te, filia Jerusalem? cui exaequabo te, et consolabor te, Virgo, filia Sion? magna est enim velut mare contritio tua. (Thren. 2, 13.)"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Tuam ipsius animam doloris gladius pertransibit."
+                  },
+                  "r": {
+                    "la": "Ut revelentur ex multis cordibus cogitationes. (Luc. 2, 35.)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInterveniat pro nobis, quaesumus, Domine Jesu Christe, nunc et in hora mortis nostrae apud tuam clementiam B. Virgo Maria, Mater tua, cujus sacratissimam animam in hora tuae passionis doloris gladius pertransivit. Per te, Jesu Christe, Salvator mundi, qui cum Patre et Spiritu Sancto vivis et regnas in saecula saeculorum. Amen."
+                "la": "Interveniat pro nobis, quaesumus, Domine Jesu Christe, nunc et in hora mortis nostrae apud tuam clementiam B. Virgo Maria, Mater tua, cujus sacratissimam animam in hora tuae passionis doloris gladius pertransivit. Per te, Jesu Christe, Salvator mundi, qui cum Patre et Spiritu Sancto vivis et regnas in saecula saeculorum. Amen."
               }
             }
           ]
@@ -102,7 +141,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "II. Dolor ex Fuga in Aegyptum"
               }
@@ -110,29 +149,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ave Maria.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Ave Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, dulcis Mater Christi,\nQuae prae regis furia\nSevente, corde tristi,\nFugis exul patria."
+                "la": "Ave, dulcis Mater Christi,\nQuae prae regis furia\nSevente, corde tristi,\nFugis exul patria.\n\nPro Regina beatorum,\nNostri spes exilii,\nFac, infractus vel malorum\nFiam consors Filii."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Pro Regina beatorum,\nNostri spes exilii,\nFac, infractus vel malorum\nFiam consors Filii."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -140,13 +185,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Vide, Domine, quoniam tribulor, conturbatus est venter meus; subversus est cor meum in moerentia, quoniam amaritudine plena sum: foris interfecit gladius, et domi mors similis est. (Thren. 2.)\n℣. Domine, ante te omne desiderium meum.\n℟. Et gemitus meus a te non est absconditus."
+                "la": "Vide, Domine, quoniam tribulor, conturbatus est venter meus; subversus est cor meum in moerentia, quoniam amaritudine plena sum: foris interfecit gladius, et domi mors similis est. (Thren. 2.)"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, ante te omne desiderium meum."
+                  },
+                  "r": {
+                    "la": "Et gemitus meus a te non est absconditus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInterveniat pro nobis, etc. ut supra."
+                "la": "Interveniat pro nobis, etc. ut supra."
               }
             }
           ]
@@ -160,7 +224,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "III. Dolor ex amisso Duodennem Filio"
               }
@@ -168,29 +232,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ave Maria.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Ave Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, dulcis Mater Christi,\nNatum lugens inclytum:\nO quam tristis quaesivisti\nTriduo jam perditum!"
+                "la": "Ave, dulcis Mater Christi,\nNatum lugens inclytum:\nO quam tristis quaesivisti\nTriduo jam perditum!\n\nHujus memor o doloris,\nChristum fac inveniam,\nEt inventum per amoris\nNexum semper teneam."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Hujus memor o doloris,\nChristum fac inveniam,\nEt inventum per amoris\nNexum semper teneam."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -198,13 +268,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Plorans ploravit in nocte, et lacrimae ejus in maxillis ejus: non est qui consoletur eam ex omnibus charis ejus. (Thren. 1, 2.)\n℣. Posuisti me desolatam.\n℟. Tota die merore confectam. (Thren. 1, 13.)"
+                "la": "Plorans ploravit in nocte, et lacrimae ejus in maxillis ejus: non est qui consoletur eam ex omnibus charis ejus. (Thren. 1, 2.)"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Posuisti me desolatam."
+                  },
+                  "r": {
+                    "la": "Tota die merore confectam. (Thren. 1, 13.)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInterveniat, etc."
+                "la": "Interveniat, etc."
               }
             }
           ]
@@ -218,7 +307,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "IV. Dolor ex Captivitate, Flagellatione, Coronatione et Bajulatione Crucis Christi"
               }
@@ -226,29 +315,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ave Maria.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Ave Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, dulcis Mater Christi,\nQuae dolorem Filium\nCapi, caedi, flens vidisti\nManibus crudeliùm:"
+                "la": "Ave, dulcis Mater Christi,\nQuae dolorem Filium\nCapi, caedi, flens vidisti\nManibus crudeliùm:\n\nO per poenas patientis,\nNobis sit impunitas!\nPer amorem condolentis\nMatris crescat charitas!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "O per poenas patientis,\nNobis sit impunitas!\nPer amorem condolentis\nMatris crescat charitas!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -256,13 +351,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Videte, Domine, et considerate quoniam facta sum vilis: erectus est inimicus. Manum suam misit hostis ad omnia desiderabilia mea. (Thren. 1, 9–10.)\n℣. Quia dedit capiti meo aquam, et oculis meis fontem lacrymarum.\n℟. Et plorabo die ac nocte."
+                "la": "Videte, Domine, et considerate quoniam facta sum vilis: erectus est inimicus. Manum suam misit hostis ad omnia desiderabilia mea. (Thren. 1, 9–10.)"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Quia dedit capiti meo aquam, et oculis meis fontem lacrymarum."
+                  },
+                  "r": {
+                    "la": "Et plorabo die ac nocte."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInterveniat, etc."
+                "la": "Interveniat, etc."
               }
             }
           ]
@@ -276,7 +390,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "V. Dolor ex Crucifixione"
               }
@@ -284,29 +398,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ave Maria.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Ave Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, dulcis Mater Christi,\nQuae sub Crucis arbore\nGemens, Natum morti tristi\nVides, heu! succumbere,"
+                "la": "Ave, dulcis Mater Christi,\nQuae sub Crucis arbore\nGemens, Natum morti tristi\nVides, heu! succumbere,\n\nO per enses hujus doloris,\nQui tunc scidit animam,\nFac me firmet vis amoris\nMortis ad victoriam."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "O per enses hujus doloris,\nQui tunc scidit animam,\nFac me firmet vis amoris\nMortis ad victoriam."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -314,13 +434,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "O vos omnes, qui transitis per viam, attendite et videte, si est dolor, sicut dolor meus. (Thren. 1, 12.)\n℣. Plauserunt super te manibus omnes transeuntes per viam.\n℟. Sibilaverunt et moverunt caput suum super filiam Jerusalem. (Thren. 2, 15.)"
+                "la": "O vos omnes, qui transitis per viam, attendite et videte, si est dolor, sicut dolor meus. (Thren. 1, 12.)"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Plauserunt super te manibus omnes transeuntes per viam."
+                  },
+                  "r": {
+                    "la": "Sibilaverunt et moverunt caput suum super filiam Jerusalem. (Thren. 2, 15.)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInterveniat, etc."
+                "la": "Interveniat, etc."
               }
             }
           ]
@@ -334,7 +473,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "VI. Dolor ex Corporis e Cruce Sublatione"
               }
@@ -342,29 +481,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ave Maria.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Ave Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, dulcis Mater Christi\nQuae de Cruce mortuum\nUnis Natum suscepisti,\nMadens unda fletuum."
+                "la": "Ave, dulcis Mater Christi\nQuae de Cruce mortuum\nUnis Natum suscepisti,\nMadens unda fletuum.\n\nO praetestis vir doloris,\nMater plena gratiae,\nUt supremis server horis\nGremio clementiae."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "O praetestis vir doloris,\nMater plena gratiae,\nUt supremis server horis\nGremio clementiae."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -372,13 +517,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ne vocetis me Noemi (id est pulchram), sed vocate me Mara (id est amaram), quia amaritudine valde me replevit Omnipotens. (Ruth. 1, 20.)\n℣. Fasciculus myrrhae dilectus meus mihi.\n℟. Inter ubera mea commorabitur. (Cant. 1, 12.)"
+                "la": "Ne vocetis me Noemi (id est pulchram), sed vocate me Mara (id est amaram), quia amaritudine valde me replevit Omnipotens. (Ruth. 1, 20.)"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fasciculus myrrhae dilectus meus mihi."
+                  },
+                  "r": {
+                    "la": "Inter ubera mea commorabitur. (Cant. 1, 12.)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInterveniat, etc."
+                "la": "Interveniat, etc."
               }
             }
           ]
@@ -392,7 +556,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "VII. Dolor ex Sepultura"
               }
@@ -400,35 +564,48 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ave Maria.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Ave Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, dulcis Mater Christi,\nQuae sepulchro conditum\nPlangis Natum, heu! quam tristi\nMente volvens obitum."
+                "la": "Ave, dulcis Mater Christi,\nQuae sepulchro conditum\nPlangis Natum, heu! quam tristi\nMente volvens obitum.\n\nIn virtute tot dolorum,\nQuos tulisti fortiter,\nOmnem contra vim malorum\nStare nos viriliter,\n\nDemum sorte beatorum\nFac gaudere jugiter."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "In virtute tot dolorum,\nQuos tulisti fortiter,\nOmnem contra vim malorum\nStare nos viriliter,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Demum sorte beatorum\nFac gaudere jugiter."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -436,13 +613,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Idcirco ego plorans, et oculus meus deducens aquas: quia longe factus est a me consolator, convertens animam meam. (Thren. 1, 16.)\n℣. Defecerunt prae lacrymis oculi mei.\n℟. Conturbata sunt viscera mea. (Thren. 2, 11.)"
+                "la": "Idcirco ego plorans, et oculus meus deducens aquas: quia longe factus est a me consolator, convertens animam meam. (Thren. 1, 16.)"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Defecerunt prae lacrymis oculi mei."
+                  },
+                  "r": {
+                    "la": "Conturbata sunt viscera mea. (Thren. 2, 11.)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInterveniat, etc."
+                "la": "Interveniat, etc."
               }
             }
           ]

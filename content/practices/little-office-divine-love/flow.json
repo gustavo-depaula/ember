@@ -32,25 +32,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adiutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adiuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\nGloria Patri, & Filio, & Spiritui sancto:\nSicut erat, &c."
+                "la": "Gloria Patri, & Filio, & Spiritui sancto:\nSicut erat, &c."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O Fidelis anima, tora spiritualis,\nLeva te magnanim a charitatis alis.\nSurge, surge, fervidos iaculans amores,\nSi non amas, rigidos senties dolores.\nO imago nobilis tui creatoris,\nAngelorum similis, sponsa salvatoris,\nTuo prototypo redde speciosam,\nDivino archetypo pulchram, et formosam.\nObonorum omnium pelagus profundum,\nAmoris hicium blandum, et sacundum:\nAmo te; quid extra te volo, vel requiro?\nAmplius mi extra te pote, nec suspirro.\nArdeo et insiliens meum creatorem,\nMilles, et millies, inem salvatoren amem.\nAbsque te pro nihilo, perituque fore sum,\nMeum quanto nihilu vendicas amorem.\nDeus meus amo te, plus quam mille mundos,\nPlus quam aurum amo te, plus quam mille mundos.\nSupra quamvis amo te sensus voluptatem,\nSupra caelum amo te, et beatitatem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -58,11 +84,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diligam te, Domine, fortitudo mea: Dominus firmamentum meum, et refugium meum, et liberator meus.\n℣. Diligite Dominum omnes sancti eius.\n℟. Quoniam nihil deest timentibus eum."
+                "la": "Diligam te, Domine, fortitudo mea: Dominus firmamentum meum, et refugium meum, et liberator meus."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Diligite Dominum omnes sancti eius."
+                  },
+                  "r": {
+                    "la": "Quoniam nihil deest timentibus eum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -84,25 +123,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adiutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adiuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\nGloria Patri, et Filio, et Spiritui sancto:\nSicut erat, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui sancto:\nSicut erat, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Cum Sol mane suibus se levat Eois,\nEt terram fulgoribus lustrat radiosis,\nMe divinis ignibus gelaidum exornans,\nEt noctis tenebris vespertinis expellens.\nMox dammata frigora procul exulantes,\nEt divinae flammulae pectora cremantis,\nAeus cael magnetica motibus assueta,\nNi se versis Arctici gyrans stet quieta.\nSic sum ego mobilis, vagus et inconstans,\nMille mille fluctibus hic et hinc inundans.\nAh! innovam fingere posim me figuram,\nEt meam me vertere versus cynosuram,\nAmans hic quiescerem, placidusqque starem,\nMeam raptus cenerem stellulam polarem.\nNolo nolo vivere absque charitate,\nStat Deum diligere cum alacritate.\nAltis surgat ignibus pura flamma mentis,\nEt horis, et singulis ardcat momentis.\nDeus meus amo te, plusquam mille mundos,\nPlus quam aurum amo te, plus quam mille mundos.\nSupra quamvis amo te sensus voluptatem,\nSupra caelum amo te, et beatitatem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -110,11 +162,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Scimus, quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti.\n℣. Fortis est, ut mors dilectio.\n℟. Lampades eius lampades ignis, atque flammarum."
+                "la": "Scimus, quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fortis est, ut mors dilectio."
+                  },
+                  "r": {
+                    "la": "Lampades eius lampades ignis, atque flammarum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -136,25 +201,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adiutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adiuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\nGloria Patri, c.et"
+                "la": "Gloria Patri, c.et"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Ah cor quid hic deperis, incubans desesum?\nQuid vagando reperis, hortum et itsorum?\nFumus, vapor, somnia, umbra, larva, hullae,\nFallis, haec omnia, verisqque ruina.\nVanitas, vanitas, quidquid hic amatur,\nFraudes, nugacitias, quibus inhabitur,\nPecorum beatitas, gaudia brutorum,\nMendax sunt felicitas mundi amatorum.\nDixi nunc, et saepius dicam: Creature,\nNon amo vos amplius, nec moriuntur.\nQui me sibi postulant, et meos amores,\nEgo nullus aliorum, spretus stansiores.\nIgnis mei pabula sintes inquirere,\nPost momenta pauca in mortem incidere.\nDeus fit materies, mea constans flammae,\nNon silex, ancodes, fragileqque scamnum.\nPosui cor et animum tibi consecratam,\nTotum in Basilicam sponte dedicavam.\nJure mei, cedere, sacri sunt amores,\nRes mortales cedite, fugiunt et vapores.\nDeus meus amo te, plus quam mille mundos,\nPlus quam aurum amo te, plus quam mille mundos.\nSupra quamvis amo te sensus voluptatem,\nSupra caelum amo te, et beatitatem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -162,11 +240,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Scimus, quoniam diligentibus Deum omnia cooperantur in bonum iis, qui secundum propositum vocati sunt sancti.\n℣. Filii hominum, usquequo gravi corde?\n℟. Ut quid diligitis vanitatem, et quaeritis mendacium?"
+                "la": "Scimus, quoniam diligentibus Deum omnia cooperantur in bonum iis, qui secundum propositum vocati sunt sancti."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Filii hominum, usquequo gravi corde?"
+                  },
+                  "r": {
+                    "la": "Ut quid diligitis vanitatem, et quaeritis mendacium?"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -188,25 +279,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adiutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adiuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\nGloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Amor doctor omnium maxime doctorum,\nDocce me coelitum regulas amorum.\nQuas satten notulas, praecipe syllabarum,\nNon est artis musica, dicitur parabum.\nTota virtus pectoris, mentis promptitudo,\nTotum robur corporis, animae vigor.\nAmor est concentricus, radius et ignis,\nCohibens affectibus, suavitas et laboris.\nAgam ex imperio Domini amoris,\nQuovis motu licet, magno vel pusillo,\nObsignabit aureo charitas sigillo.\nSed quid meus amor est? ad tuos amores?\nGlacies et algor est, febrium tremores.\nSi et mille cordibus unus adamantem,\nUna gutta, vel tribus, mare non aquarem.\nSi fratrum chorovium ignes calerem,\nAngelorum omnium flammulis arderem.\nAd vasta incendia tuorum amorum,\nBruma fisset facula horum et istorum.\nDeus meus amo te, plus quam mille mundos,\nPlus quam aurum amo te, plus quam mille fundos.\nSupra quamvis amo te sensus voluptatem,\nSupra caelum amo te, et beatitatem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -214,11 +318,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota mente tua, et ex omnibus viribus tuis, et proximum tuum sicut teipsum.\n℣. Gloriabuntur in te omnes, qui diligunt nomen tuum.\n℟. Quoniam tu benedices iusto."
+                "la": "Diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota mente tua, et ex omnibus viribus tuis, et proximum tuum sicut teipsum."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloriabuntur in te omnes, qui diligunt nomen tuum."
+                  },
+                  "r": {
+                    "la": "Quoniam tu benedices iusto."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -240,25 +357,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adiutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adiuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\nGloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Coronemus hodie charitatem sanctam,\nEia sursum tollite, solus Deus amandus.\nSolus ipse possidet, meritum amorem,\nSolus ipse distribuit gaudia perennes.\nGaudium sit maximum in Dei amore,\nIucundum sit carmen, dulce sit favorem.\nAmor est beatorum, spes et remedium,\nAmor est solatium in omni tedio.\nAmor tollit omnia, quae nocent amanti,\nAmor dat et omnia, quae decent amorem.\nAmor portat omnia, quae graviora videntur,\nAmor vincit omnia, nec timet labores.\nO Deus, qui charitas, charitas tua es ipsa,\nO Iesu amantissime, esto cor meum vita.\nDeus meus amo te, plus quam mille mundos,\nPlus quam aurum amo te, plus quam mille fundos.\nSupra quamvis amo te sensus voluptatem,\nSupra caelum amo te, et beatitatem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -266,11 +396,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Qui manet in caritate, in Deo manet, et Deus in eo: in hoc est caritas, non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos.\n℣. Vivit Dominus, et benedictus Deus meus.\n℟. Et exaltetur Deus salutis meae."
+                "la": "Qui manet in caritate, in Deo manet, et Deus in eo: in hoc est caritas, non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Vivit Dominus, et benedictus Deus meus."
+                  },
+                  "r": {
+                    "la": "Et exaltetur Deus salutis meae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -292,25 +435,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adiutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adiuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\nGloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Amor Iesu dulcissime, cor meum inflammavit,\nEt in sinu dulciter, quasi ignis ardebat.\nNihil aliud volo, nisi Deum amare,\nNihil aliud scio, nisi Deum quaerere.\nAmor est infinitus, amor est praecipuus,\nAmor est mirabilis, amor est pretiosus.\nQuis amat, ipse vivit, quis amat, ipse gaudet,\nQuis amat, regnat, triumphat, ipse coronatur.\nO amor suavissime, totus es amabilis,\nEt mihi amantissimo, totus es desiderabilis.\nDeus meus amo te, plus quam mille mundos,\nPlus quam aurum amo te, plus quam mille fundos.\nSupra quamvis amo te sensus voluptatem,\nSupra caelum amo te, et beatitatem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -318,11 +474,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diligamus nos invicem, quia caritas ex Deo est, et omnis qui diligit, ex Deo natus est, et cognoscit Deum.\n℣. Mane nobiscum Domine.\n℟. Quoniam advesperascit, et inclinata est iam dies."
+                "la": "Diligamus nos invicem, quia caritas ex Deo est, et omnis qui diligit, ex Deo natus est, et cognoscit Deum."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Mane nobiscum Domine."
+                  },
+                  "r": {
+                    "la": "Quoniam advesperascit, et inclinata est iam dies."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -344,25 +513,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adiutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adiuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\nGloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Amor meus dulcissime, Iesu spes amantissime,\nQuid aliud in corde meo desidero, nisi te?\nTu es vita dulcissima, tu es pax suavissima,\nTu es spes certissima, tu es lux clarissima.\nAmor meus, te sequar, amor meus, te quaerar,\nAmor meus, te teneam, amor meus, te videam.\nSine fine gaudere, sine fine laudare,\nSine fine possidere, sine fine amare.\nDeus meus amo te, plus quam mille mundos,\nPlus quam aurum amo te, plus quam mille fundos.\nSupra quamvis amo te sensus voluptatem,\nSupra caelum amo te, et beatitatem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -370,11 +565,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "In pace in idipsum dormiam, et requiescam: quoniam tu Domine singulariter in spe constituisti me.\n℣. Custodi nos Domine ut pupillam oculi.\n℟. Sub umbra alarum tuarum protege nos."
+                "la": "In pace in idipsum dormiam, et requiescam: quoniam tu Domine singulariter in spe constituisti me."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Custodi nos Domine ut pupillam oculi."
+                  },
+                  "r": {
+                    "la": "Sub umbra alarum tuarum protege nos."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }

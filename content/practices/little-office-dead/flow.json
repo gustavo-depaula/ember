@@ -32,31 +32,32 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O vos, fideles animae\nIn Christo defunctorum,\nSed merito prohibita\nAb aditu coelorum:"
+                "la": "O vos, fideles animae\nIn Christo defunctorum,\nSed merito prohibita\nAb aditu coelorum:\n\nQuam velim vobis dexteram,\nOpemque praesentare!\nUthine ad caeli gloriam\nPossitis evolare!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Quam velim vobis dexteram,\nOpemque praesentare!\nUthine ad caeli gloriam\nPossitis evolare!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -68,10 +69,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Si iniquitates observaveris, Domine,\n℟. Domine, quis sustinebit?"
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Si iniquitates observaveris, Domine,"
+                  },
+                  "r": {
+                    "la": "Domine, quis sustinebit?"
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -82,14 +90,40 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Fidelium Deus omnium Conditor et Redemptor, animabus famularum famulorumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper optaverunt, piis supplicationibus consequantur. Qui vivis et regnas in saecula saeculorum.\n℟. Amen."
+                "la": "Fidelium Deus omnium Conditor et Redemptor, animabus famularum famulorumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam quam semper optaverunt, piis supplicationibus consequantur. Qui vivis et regnas in saecula saeculorum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Requiem aeternam dona eis, Domine.\n℟. Et lux perpetua luceat eis.\n℣. Requiescant in pace.\n℟. Amen."
+                "la": "Amen."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Requiem aeternam dona eis, Domine."
+                  },
+                  "r": {
+                    "la": "Et lux perpetua luceat eis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -108,25 +142,32 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O magne Pater, nomine\nMisericordiarum,\nFacturas tuas respice,\nSed timorem remorum:\nPoenas sunt quidem merita,\nTe tamen non negabam;\nHinc locus sit clementiae:\nIgnosce, quod peccaram."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -160,31 +201,32 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O Jesu clementissime,\nO optime Salvator,\nTuo redemptis sanguine\nSis mitis liberator."
+                "la": "O Jesu clementissime,\nO optime Salvator,\nTuo redemptis sanguine\nSis mitis liberator.\n\nIndulge te amantibus\nTuum benignitatem,\nPoenamque deprecantibus\nOstende bonitatem."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Indulge te amantibus\nTuum benignitatem,\nPoenamque deprecantibus\nOstende bonitatem."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -218,31 +260,32 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O consolator optime,\nO dulcis Paraclete,\nHos tu deserto respice,\nEt indignos quaerite"
+                "la": "O consolator optime,\nO dulcis Paraclete,\nHos tu deserto respice,\nEt indignos quaerite\n\nIn aestu hoc temperiem,\nVeraeque pacis bona,\nEt post laborem requiem\nAeternam his dona."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "In aestu hoc temperiem,\nVeraeque pacis bona,\nEt post laborem requiem\nAeternam his dona."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -276,31 +319,32 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O dulcis mater gratiae,\nSolatrix afflictorum,\nVim cohibe justitiae,\nRigorem tormentorum."
+                "la": "O dulcis mater gratiae,\nSolatrix afflictorum,\nVim cohibe justitiae,\nRigorem tormentorum.\n\nFlammam voracem tempera,\nEt mitiga dolores,\nIncendium refrigera,\nEt fini hos angores."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Flammam voracem tempera,\nEt mitiga dolores,\nIncendium refrigera,\nEt fini hos angores."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -334,31 +378,32 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Vos, tutelaris genii,\nQuorum sunt hi clientes,\nQuantum vestra subsidii\nSunt ipsis indigentes!"
+                "la": "Vos, tutelaris genii,\nQuorum sunt hi clientes,\nQuantum vestra subsidii\nSunt ipsis indigentes!\n\nPlorem desideria\nEt vestro excitatae:\nOptata refrigeria\nClientibus curate."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Plorem desideria\nEt vestro excitatae:\nOptata refrigeria\nClientibus curate."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -392,31 +437,32 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Vos omnes quoque coelites,\nIn regno triumphante,\nSolamini hos milites,\nIn flamma hac purgante."
+                "la": "Vos omnes quoque coelites,\nIn regno triumphante,\nSolamini hos milites,\nIn flamma hac purgante.\n\nVestri in terris socii\nCum fuerint laborum,\nNunc et beati otii\nSors vocat et bonorum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vestri in terris socii\nCum fuerint laborum,\nNunc et beati otii\nSors vocat et bonorum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -456,10 +502,30 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Requiem aeternam dona eis, Domine.\n℟. Et lux perpetua luceat eis.\n℣. Requiescant in pace.\n℟. Amen."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Requiem aeternam dona eis, Domine."
+          },
+          "r": {
+            "la": "Et lux perpetua luceat eis."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Requiescant in pace."
+          },
+          "r": {
+            "la": "Amen."
+          }
+        }
+      ]
     },
     {
       "type": "subheading",

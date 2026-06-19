@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Incipit Officium unius infirmi sive plurimorum infirmorum."
       }
@@ -21,18 +21,49 @@
     {
       "type": "select",
       "on": "hour",
-      "label": { "en-US": "Hour", "pt-BR": "Hora" },
-      "map": { "0-3": "matins", "4-16": "vespers", "17-23": "vespers" },
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora"
+      },
+      "map": {
+        "0-3": "matins",
+        "4-16": "vespers",
+        "17-23": "vespers"
+      },
       "options": [
         {
           "id": "vespers",
-          "label": { "en-US": "Vespers", "pt-BR": "Vésperas", "la": "Ad Vesperos" },
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Ad Vesperos"
+          },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "In nomine Domini nostri Jesu Christi, lumen cum pace. ℟. Deo gratias.\n℣. Dominus sit semper vobiscum. ℟. Et cum spiritu tuo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In nomine Domini nostri Jesu Christi, lumen cum pace."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit semper vobiscum."
+                  },
+                  "r": {
+                    "la": "Et cum spiritu tuo."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -43,8 +74,21 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Dominus illuminatio mea, et salus mea, quem timebo?\n℣. Dominus sit. ℟. Et cum."
+                "la": "Dominus illuminatio mea, et salus mea, quem timebo?"
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit."
+                  },
+                  "r": {
+                    "la": "Et cum."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -55,11 +99,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sana, Domine, omnes languores nostros. Alleluia. ℣. Redime de interitu vitam nostram. Alleluia, alleluia."
+                "la": "Sana, Domine, omnes languores nostros. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Redime de interitu vitam nostram. Alleluia, alleluia."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphona."
               }
@@ -67,14 +117,33 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Christe Domine, qui es medicus salutaris, Tribue languidis subsidium medicinae coelestis. ℣. O Domine salvos nos fac, o Domine bona prosperare. Tribue languidis. ℣. Gloria et honor. Tribue."
+                "la": "Christe Domine, qui es medicus salutaris, Tribue languidis subsidium medicinae coelestis."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Dominus sit. ℟. Et cum."
+                "la": "O Domine salvos nos fac, o Domine bona prosperare. Tribue languidis."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria et honor. Tribue."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit."
+                  },
+                  "r": {
+                    "la": "Et cum."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -85,8 +154,33 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Salvos nos faciat dextera tua. Alleluia. Exaudi nos Domine Deus noster: Alleluia, alleluia. ℣. Ut confiteamur nomini sancto tuo, et gloriamur in laude tua. Exaudi. ℣. Gloria et honor. Exaudi.\n℣. Dominus sit. ℟. Et cum."
+                "la": "Salvos nos faciat dextera tua. Alleluia. Exaudi nos Domine Deus noster: Alleluia, alleluia."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ut confiteamur nomini sancto tuo, et gloriamur in laude tua. Exaudi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria et honor. Exaudi."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit."
+                  },
+                  "r": {
+                    "la": "Et cum."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -97,17 +191,49 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Salvos nos faciat dextera tua. Alleluia. Et congrega nos de nationibus. Alleluia, alleluia. ℣. Ut confiteamur nomini sancto tuo, et gloriamur in laude tua. Et congrega nos. ℣. Gloria et honor. ℟. Alleluia, alleluia.\n℣. Dominus sit. ℟. Et cum."
+                "la": "Salvos nos faciat dextera tua. Alleluia. Et congrega nos de nationibus. Alleluia, alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Ut confiteamur nomini sancto tuo, et gloriamur in laude tua. Et congrega nos."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Alleluia, alleluia."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit."
+                  },
+                  "r": {
+                    "la": "Et cum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus."
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Christe caelestis medicina Patris,\nVerus humanae medicus salutis\nProvidae plebis precibus potenter\nPande favorem.\n\nEn ob infirmos tibi supplicamus,\nQuos nocens pestis valitudo cassat;\nUt pius morbum releves jacentum,\nQuo quatiuntur.\n\nQui potestate manifestus extans,\nMox Petri socrum febribus jacentem,\nReguli prolem, puerumque salvans\nCenturionis.\n\nFerto languenti populo vigorem;\nEfflue largam populis salutem;\nPristinis more solito reformans\nViribus aegros.\n\nCorporum morbos animaeque sana;\nVulnerum causis adhibe medelam:\nNe sine fructu cruciatus urat\nCorpora nostra.\n\nOmnis impulsus penitus recedat;\nOmnis incursus crucians liquescat;\nViror optatae foveat salutis\nMembra dolentis.\n\nIam Deus nostri miserere fletus,\nPro quibus te nunc petimus mederi;\nUt tuam omnis recubans medelam\nSentiat aeger;\n\nQuo per illata mala dum teruntur,\nEruditorum numero decori\nCompotes intrent, sociante fructu,\nRegna polorum.\n\nGloriam psallat chorus, et resultet,\nGloriam dicat, canat, et revolvat;\nNomini Trino, Deitati soli\nSidera clament. Amen."
               }
@@ -121,7 +247,19 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus Redemptorem mundi, Dominum nostrum Jesum Christum, cum omni supplicatione rogemus; ut vulnera famulorum suorum, omnium fidelium infirmorum, propitius curare dignetur. ℟. Praesta aeterne omnipotens Deus. Kyrie eleison. ℟. Christe eleison. Kyrie eleison."
+                "la": "Oremus Redemptorem mundi, Dominum nostrum Jesum Christum, cum omni supplicatione rogemus; ut vulnera famulorum suorum, omnium fidelium infirmorum, propitius curare dignetur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Praesta aeterne omnipotens Deus. Kyrie eleison."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Christe eleison. Kyrie eleison."
               }
             },
             {
@@ -137,7 +275,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio Dominicalis."
               }
@@ -145,13 +283,97 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Pater noster, qui es in caelis. ℟. Amen.\nSanctificetur nomen tuum. ℟. Amen.\nAdveniat regnum tuum. ℟. Amen.\nFiat voluntas tua sicut in caelo et in terra. ℟. Amen.\nPanem nostrum quotidianum da nobis hodie. ℟. Quia Deus es.\nEt dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. ℟. Amen.\nEt ne nos inducas in tentationem. ℟. Sed libera nos a malo."
+                "la": "Pater noster, qui es in caelis."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "A malo nos libera, et in tuo timore opere bono nos confirma Trinitas, Deus noster, qui es benedictus, et vivis, et omnia regis in saecula saeculorum. ℟. Amen."
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctificetur nomen tuum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Adveniat regnum tuum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fiat voluntas tua sicut in caelo et in terra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Panem nostrum quotidianum da nobis hodie."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quia Deus es."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et ne nos inducas in tentationem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed libera nos a malo."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "A malo nos libera, et in tuo timore opere bono nos confirma Trinitas, Deus noster, qui es benedictus, et vivis, et omnia regis in saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
@@ -163,11 +385,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Humiliate vos ad benedictionem. Dominus sit semper vobiscum. ℟. Et cum spiritu tuo."
+                "la": "Humiliate vos ad benedictionem. Dominus sit semper vobiscum."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Et cum spiritu tuo."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Benedictio."
               }
@@ -175,7 +403,49 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Omnipotens Dominus, qui fidelissimos famulos suos omnes fideles infirmos corporali corripit vulnere, ipse illos, et nos a corporis mentisque aegritudinibus expiet. ℟. Amen.\nQuique nostram in se suscepit infirmitatem, ipse nobis, et illis tribuat tolerantiae sine fine mercedem. ℟. Amen.\nSic omnes in communi ejus pietas foveat; ut nec corrupta nostra salus desaeviat, nec desperationi infirmitas illata succumbat. ℟. Amen.\nPer misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Omnipotens Dominus, qui fidelissimos famulos suos omnes fideles infirmos corporali corripit vulnere, ipse illos, et nos a corporis mentisque aegritudinibus expiet."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quique nostram in se suscepit infirmitatem, ipse nobis, et illis tribuat tolerantiae sine fine mercedem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sic omnes in communi ejus pietas foveat; ut nec corrupta nostra salus desaeviat, nec desperationi infirmitas illata succumbat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
@@ -187,11 +457,43 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Salvos nos fac Domine Deus noster: Alleluia. Ut confiteamur nomini sancto tuo. Alleluia. ℣. Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo. Ut confiteamur. ℣. Gloria et honor. ℟. Ut confiteamur.\n℣. Dominus sit. ℟. Et cum."
+                "la": "Salvos nos fac Domine Deus noster: Alleluia. Ut confiteamur nomini sancto tuo. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo. Ut confiteamur."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Ut confiteamur."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit."
+                  },
+                  "r": {
+                    "la": "Et cum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio."
               }
@@ -199,11 +501,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Omnipotens sempiterne Deus, inclina aurem tuam supplicationibus nostris, et famulis tuis omnibus fidelibus infirmis adversa corporis valetudine laborantibus coelestis gratiae medicinam concede. ℟. Amen."
+                "la": "Omnipotens sempiterne Deus, inclina aurem tuam supplicationibus nostris, et famulis tuis omnibus fidelibus infirmis adversa corporis valetudine laborantibus coelestis gratiae medicinam concede."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Commemorationes ad libitum."
               }
@@ -221,7 +529,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio."
               }
@@ -229,8 +537,27 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Domine Deus omnipotens, qui vespere et mane et meridie unum diem vocari jussisti; et ut sol agnosceret occasum suum, imperasti; aperi, quaesumus, tenebras cordium nostrorum, ut, te radiante, cognoscamus te Deum verum et lumen aeternum. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Domine Deus omnipotens, qui vespere et mane et meridie unum diem vocari jussisti; et ut sol agnosceret occasum suum, imperasti; aperi, quaesumus, tenebras cordium nostrorum, ut, te radiante, cognoscamus te Deum verum et lumen aeternum."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -239,10 +566,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "In nomine Domini nostri Jesu Christi, perficiamus cum pace. ℟. Deo gratias."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In nomine Domini nostri Jesu Christi, perficiamus cum pace."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -260,13 +594,37 @@
         },
         {
           "id": "matins",
-          "label": { "en-US": "Matins", "pt-BR": "Matinas", "la": "Ad Matutinum" },
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Ad Matutinum"
+          },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "In nomine Domini nostri Jesu Christi, lumen cum pace. ℟. Deo gratias.\n℣. Dominus sit semper vobiscum. ℟. Et cum spiritu tuo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In nomine Domini nostri Jesu Christi, lumen cum pace."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit semper vobiscum."
+                  },
+                  "r": {
+                    "la": "Et cum spiritu tuo."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -281,7 +639,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona."
               }
@@ -299,7 +657,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona."
               }
@@ -311,7 +669,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio."
               }
@@ -319,11 +677,23 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ne projicias nos Domine a facie tua; nec auferas misericordiam tuam a nobis: ut quos reatus facinoris tenet obnoxios, miserationis tuae clementia faciat absolutos. ℟. Amen. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Ne projicias nos Domine a facie tua; nec auferas misericordiam tuam a nobis: ut quos reatus facinoris tenet obnoxios, miserationis tuae clementia faciat absolutos."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphona I."
               }
@@ -331,11 +701,30 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Salvator noster salva nos in dilectione tua, Et indulgentia tua libera nos. ℣. Ad te levamus oculos nostros, qui habitas in coelis. Et indulgentia. ℣. Gloria et honor. ℟. Et indulgentia."
+                "la": "Salvator noster salva nos in dilectione tua, Et indulgentia tua libera nos."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Ad te levamus oculos nostros, qui habitas in coelis. Et indulgentia."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Et indulgentia."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio."
               }
@@ -343,11 +732,30 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Omnipotens sempiterne Deus, inclina aurem tuam supplicationibus nostris, et famulis tuis omnibus fidelibus infirmis adversa corporis valetudine laborantibus coelestis gratiae medicinam concede. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Omnipotens sempiterne Deus, inclina aurem tuam supplicationibus nostris, et famulis tuis omnibus fidelibus infirmis adversa corporis valetudine laborantibus coelestis gratiae medicinam concede."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphona II."
               }
@@ -355,11 +763,30 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ostende nobis Domine misericordiam tuam: Et salutare tuum da nobis. ℣. Ut confiteamur nomini sancto tuo: et gloriamur in laude tua. Et salutare. ℣. Gloria et honor. ℟. Et salutare."
+                "la": "Ostende nobis Domine misericordiam tuam: Et salutare tuum da nobis."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Ut confiteamur nomini sancto tuo: et gloriamur in laude tua. Et salutare."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Et salutare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio."
               }
@@ -367,11 +794,30 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Deus, qui confitentium tibi corda purificas, et accusantem conscientiam ab omni vinculo iniquitatis absolvis: da indulgentiam famulis, et coelestis gratiae sinceram medicinam eorum tribue corporibus. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Deus, qui confitentium tibi corda purificas, et accusantem conscientiam ab omni vinculo iniquitatis absolvis: da indulgentiam famulis, et coelestis gratiae sinceram medicinam eorum tribue corporibus."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphona III."
               }
@@ -379,11 +825,30 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Convertere, Domine, et eripe animas nostras: Et salvos nos fac propter misericordiam tuam. ℣. Domine, ne in furore tuo arguas nos, neque in ira tua corripias nos. Et salvos. ℣. Gloria et honor. ℟. Et salvos."
+                "la": "Convertere, Domine, et eripe animas nostras: Et salvos nos fac propter misericordiam tuam."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Domine, ne in furore tuo arguas nos, neque in ira tua corripias nos. Et salvos."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Et salvos."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio."
               }
@@ -391,11 +856,30 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Adesto, quaesumus, Domine supplicibus nostris: et quibus austeritatem justae correctionis infligis, propitius adhibe auxilium misericordissimae consolationis. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Adesto, quaesumus, Domine supplicibus nostris: et quibus austeritatem justae correctionis infligis, propitius adhibe auxilium misericordissimae consolationis."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Responsorium."
               }
@@ -403,8 +887,27 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Virtus nostra, Domine, esto firmamentum infirmis. Esto refugium et liberator oppressis. ℣. Esto brachium nostrum in mane, et salus nostra in tempore tribulationis. Esto refugium. ℣. Gloria et honor. ℟. Virtus nostra."
+                "la": "Virtus nostra, Domine, esto firmamentum infirmis. Esto refugium et liberator oppressis."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Esto brachium nostrum in mane, et salus nostra in tempore tribulationis. Esto refugium."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Virtus nostra."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -413,13 +916,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Dominus sit semper vobiscum. ℟. Et cum spiritu tuo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit semper vobiscum."
+                  },
+                  "r": {
+                    "la": "Et cum spiritu tuo."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum Deuteronomij."
               }
@@ -431,7 +941,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona."
               }
@@ -449,7 +959,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona."
               }
@@ -469,8 +979,27 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Illumina, Domine, vultum tuum super nos, et miserere nobis. Ut cognoscamus in terra viam tuam. ℣. Deus misereatur nostri, et benedicat nos. Ut cognoscamus. ℣. Gloria et honor. ℟. Ut cognoscamus."
+                "la": "Illumina, Domine, vultum tuum super nos, et miserere nobis. Ut cognoscamus in terra viam tuam."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus misereatur nostri, et benedicat nos. Ut cognoscamus."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Ut cognoscamus."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -481,11 +1010,30 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudate Dominum omnes Gentes: Alleluia, alleluia. Et collaudate eum omnes populi. ℣. Quoniam confirmata est super nos misericordia ejus: et veritas Domini manet in aeternum. Et collaudate eum. ℣. Gloria et honor. ℟. Et collaudate eum."
+                "la": "Laudate Dominum omnes Gentes: Alleluia, alleluia. Et collaudate eum omnes populi."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Quoniam confirmata est super nos misericordia ejus: et veritas Domini manet in aeternum. Et collaudate eum."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Et collaudate eum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Psalmus CXLVIII. Alleluia Hymnus cum Dei dictione"
               }
@@ -494,11 +1042,10 @@
               "type": "prayer",
               "inline": {
                 "la": "Laudate Dominum de caelis laudate eum in excelsis.\nLaudate eum omnes angeli ejus laudate eum omnes virtutes ejus.\nLaudate eum sol et luna laudate eum omnes stellae et lumen.\nLaudate eum caeli caelorum et aquae quae super caelos sunt, laudent nomen Domini.\nQuia ipse dixit et facta sunt ipse mandavit et creata sunt.\nStatuit ea in aeternum et in saeculum saeculi praeceptum posuit et non praeteribit.\nLaudate Dominum a terra dracones et omnes abyssi.\nIgnis grando nix glacies spiritus tempestatis qui facitis verbum ejus.\nMontes et omnes colles ligna fructifera et omnes cedri.\nBestiae et universa pecora serpentes et volucres pinnatae.\nReges terrae et omnes populi principes et judices terrae.\nJuvenes et virgines seniores cum junioribus laudent nomen Domini.\nQuia exaltatum est nomen ejus solius confessio ejus super caelum et terram.\nEt exaltavit cornu populi sui hymnus omnibus sanctis ejus filiis populo appropinquanti sibi."
-
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus CXLIX. Alleluia"
               }
@@ -510,7 +1057,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus CL. Alleluia"
               }
@@ -522,7 +1069,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Lectio libri Hieremiae Prophetae."
               }
@@ -530,17 +1077,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Cap. 29.\n℟. Deo gratias.\nHaec dicit Dominus: Ecce ego visitabo vos: et suscitabo vos, et suscitabo super vos verbum meum bonum, et reducam vos ad locum istum. Ego enim scio cogitationes, quas cogito super vos, ait Dominus, cogitationes pacis, et non afflictionis, ut dem vobis fidem, salutem, et patientiam. Et invocabitis me, et timebitis: orabitis me, et ego exaudiam vos. Quaeretis me, et invenietis: cum quaesieritis me in toto corde vestro, inveniar a vobis, ait Dominus omnipotens. ℟. Amen."
+                "la": "Cap. 29."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Haec dicit Dominus: Ecce ego visitabo vos: et suscitabo vos, et suscitabo super vos verbum meum bonum, et reducam vos ad locum istum. Ego enim scio cogitationes, quas cogito super vos, ait Dominus, cogitationes pacis, et non afflictionis, ut dem vobis fidem, salutem, et patientiam. Et invocabitis me, et timebitis: orabitis me, et ego exaudiam vos. Quaeretis me, et invenietis: cum quaesieritis me in toto corde vestro, inveniar a vobis, ait Dominus omnipotens."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus."
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Christe caelestis medicina Patris,\nVerus humanae medicus salutis\nProvidae plebis precibus potenter\nPande favorem.\n\nEn ob infirmos tibi supplicamus,\nQuos nocens pestis valitudo cassat;\nUt pius morbum releves jacentum,\nQuo quatiuntur.\n\nQui potestate manifestus extans,\nMox Petri socrum febribus jacentem,\nReguli prolem, puerumque salvans\nCenturionis.\n\nFerto languenti populo vigorem;\nEfflue largam populis salutem;\nPristinis more solito reformans\nViribus aegros.\n\nCorporum morbos animaeque sana;\nVulnerum causis adhibe medelam:\nNe sine fructu cruciatus urat\nCorpora nostra.\n\nOmnis impulsus penitus recedat;\nOmnis incursus crucians liquescat;\nViror optatae foveat salutis\nMembra dolentis.\n\nIam Deus nostri miserere fletus,\nPro quibus te nunc petimus mederi;\nUt tuam omnis recubans medelam\nSentiat aeger;\n\nQuo per illata mala dum teruntur,\nEruditorum numero decori\nCompotes intrent, sociante fructu,\nRegna polorum.\n\nGloriam psallat chorus, et resultet,\nGloriam dicat, canat, et revolvat;\nNomini Trino, Deitati soli\nSidera clament. Amen."
               }
@@ -554,7 +1119,19 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus Redemptorem mundi, Dominum nostrum Jesum Christum, cum omni supplicatione rogemus; ut vulnera famulorum suorum, omnium fidelium infirmorum, propitius curare dignetur. ℟. Praesta aeterne omnipotens Deus. Kyrie eleison. ℟. Christe eleison. Kyrie eleison."
+                "la": "Oremus Redemptorem mundi, Dominum nostrum Jesum Christum, cum omni supplicatione rogemus; ut vulnera famulorum suorum, omnium fidelium infirmorum, propitius curare dignetur."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Praesta aeterne omnipotens Deus. Kyrie eleison."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Christe eleison. Kyrie eleison."
               }
             },
             {
@@ -570,7 +1147,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio Dominicalis"
               }
@@ -578,7 +1155,85 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Pater noster, qui es in caelis. ℟. Amen.\nSanctificetur nomen tuum. ℟. Amen.\nAdveniat regnum tuum. ℟. Amen.\nFiat voluntas tua sicut in caelo et in terra. ℟. Amen.\nPanem nostrum quotidianum da nobis hodie. ℟. Quia Deus es.\nEt dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. ℟. Amen.\nEt ne nos inducas in tentationem. ℟. Sed libera nos a malo."
+                "la": "Pater noster, qui es in caelis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sanctificetur nomen tuum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Adveniat regnum tuum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Fiat voluntas tua sicut in caelo et in terra."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Panem nostrum quotidianum da nobis hodie."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quia Deus es."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et ne nos inducas in tentationem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sed libera nos a malo."
               }
             },
             {
@@ -596,7 +1251,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Liberati a malo, confirmati semper in bono tibi servire mereamur Deo, ac Domino nostro. Pone, Domine, finem peccatis nostris: da gaudium tribulatis: praebe redemptionem captivis: sanitatem infirmis: requiemque defunctis. Concede pacem et securitatem in omnibus diebus nostris: frange audaciam inimicorum nostrorum: exaudi, Deus, orationem servorum tuorum omnium fidelium christianorum in hoc die, et in omni tempore. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit, et regnat in unitate Spiritus Sancti Deus per omnia semper saecula saeculorum.\n℟. Amen."
+                "la": "Liberati a malo, confirmati semper in bono tibi servire mereamur Deo, ac Domino nostro. Pone, Domine, finem peccatis nostris: da gaudium tribulatis: praebe redemptionem captivis: sanitatem infirmis: requiemque defunctis. Concede pacem et securitatem in omnibus diebus nostris: frange audaciam inimicorum nostrorum: exaudi, Deus, orationem servorum tuorum omnium fidelium christianorum in hoc die, et in omni tempore. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit, et regnat in unitate Spiritus Sancti Deus per omnia semper saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
@@ -608,8 +1269,21 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Humiliate vos ad benedictionem. ℣. Dominus sit semper vobiscum. ℟. Et cum spiritu tuo."
+                "la": "Humiliate vos ad benedictionem."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit semper vobiscum."
+                  },
+                  "r": {
+                    "la": "Et cum spiritu tuo."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -620,11 +1294,43 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Salvos nos fac Domine Deus noster: Alleluia. Ut confiteamur nomini sancto tuo. Alleluia. ℣. Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo. Ut confiteamur. ℣. Gloria et honor. ℟. Ut confiteamur.\n℣. Dominus sit. ℟. Et cum."
+                "la": "Salvos nos fac Domine Deus noster: Alleluia. Ut confiteamur nomini sancto tuo. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Memento nostri, Domine, in beneplacito populi tui: visita nos in salutari tuo. Ut confiteamur."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria et honor."
+                  },
+                  "r": {
+                    "la": "Ut confiteamur."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus sit."
+                  },
+                  "r": {
+                    "la": "Et cum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Benedictio"
               }
@@ -632,11 +1338,53 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Omnipotens Dominus, qui fidelissimos famulos suos omnes fideles infirmos corporali corripit vulnere, ipse illos, et nos a corporis mentisque aegritudinibus expiet. ℟. Amen.\nQuique nostram in se suscepit infirmitatem, ipse nobis, et illis tribuat tolerantiae sine fine mercedem. ℟. Amen.\nSic omnes in communi ejus pietas foveat; ut nec corrupta nostra salus desaeviat, nec desperationi infirmitas illata succumbat. ℟. Amen.\nPer misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Omnipotens Dominus, qui fidelissimos famulos suos omnes fideles infirmos corporali corripit vulnere, ipse illos, et nos a corporis mentisque aegritudinibus expiet."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quique nostram in se suscepit infirmitatem, ipse nobis, et illis tribuat tolerantiae sine fine mercedem."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sic omnes in communi ejus pietas foveat; ut nec corrupta nostra salus desaeviat, nec desperationi infirmitas illata succumbat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Commemorationes ad libitum"
               }
@@ -654,7 +1402,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio."
               }
@@ -662,13 +1410,38 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Mane, Domine, oratio nostra perveniat ad te. Quia suscepisti confractonem fragilitatis nostrae, concede nobis diem istum jocundum, pacificum sine scandalo, sine macula: sine ulla tentatione advenientes ad vesperam, te collaudamus regem aeternum. ℟. Amen. ℣. Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum. ℟. Amen."
+                "la": "Mane, Domine, oratio nostra perveniat ad te. Quia suscepisti confractonem fragilitatis nostrae, concede nobis diem istum jocundum, pacificum sine scandalo, sine macula: sine ulla tentatione advenientes ad vesperam, te collaudamus regem aeternum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Et fidelium animae omnium defunctorum requiescant in pace. ℟. Amen."
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per misericordiam tuam Deus noster, qui es benedictus et omnia regis, in saecula saeculorum."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et fidelium animae omnium defunctorum requiescant in pace."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
@@ -678,10 +1451,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "In nomine Domini nostri Jesu Christi, perficiamus cum pace. ℟. Deo gratias."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In nomine Domini nostri Jesu Christi, perficiamus cum pace."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",

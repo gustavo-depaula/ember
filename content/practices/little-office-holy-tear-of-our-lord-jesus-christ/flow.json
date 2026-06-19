@@ -38,19 +38,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "O splendor of the King of angels,\ngrant that a holy and divine zeal\nmay inspire us to sing thy praises.\nO fair eyes that caused this innocent stream to flow,\nenkindle in our hearts a languishing zeal."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -62,13 +62,26 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Rare are the marvels of wonders,"
+                  },
+                  "r": {
+                    "en-US": "To see water flow from a rock."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Rare are the marvels of wonders,\n℟. To see water flow from a rock.\nBut what makes these wonders unparalleled\nis that this rock is God himself."
+                "en-US": "But what makes these wonders unparalleled\nis that this rock is God himself."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration"
               }
@@ -89,19 +102,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "Miracle of holy love!\nThis God who casts thunder\nand forms the joys of the day,\nweeps and groans upon the earth.\nSeeing Lazarus dead, his heart is moved,\nand he washes his sin with a stream of tears.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -113,13 +126,26 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "As waters flow from two fountains,"
+                  },
+                  "r": {
+                    "en-US": "Let my eyes pour forth streams of tears."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. As waters flow from two fountains,\n℟. Let my eyes pour forth streams of tears.\nThe love they hold within\nshall become the drink of Heaven."
+                "en-US": "The love they hold within\nshall become the drink of Heaven."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration"
               }
@@ -140,19 +166,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "O Word, almighty and noble support of creation,\nwhy is thy heart faint under the blows of nature?\nNo, cruel death, halt thy fury.\nCease to be a spectacle of horror before his eyes.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -164,13 +190,26 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "O divine source of life,"
+                  },
+                  "r": {
+                    "en-US": "Abundant fountain of clarity,"
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. O divine source of life,\n℟. Abundant fountain of clarity,\ngrant that my soul, enslaved,\nmay find liberty in thee."
+                "en-US": "grant that my soul, enslaved,\nmay find liberty in thee."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration"
               }
@@ -191,19 +230,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "O living star, divine sun,\nsplendor of the Father's glory,\ncast thy gaze upon the excess of our misery.\nThrough this overwhelming love that caused thee to weep,\ngrant us the blessings for which we sigh.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -215,13 +254,26 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Let our eyes pour forth tears;"
+                  },
+                  "r": {
+                    "en-US": "Let us flow with fountains of weeping."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Let our eyes pour forth tears;\n℟. Let us flow with fountains of weeping.\nIn our deepest afflictions,\nno sweeter solace can we find."
+                "en-US": "In our deepest afflictions,\nno sweeter solace can we find."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration"
               }
@@ -242,19 +294,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "O sun of eternity,\nthou who formest this chaste light,\nwhich restores our original innocence,\ndispel by thy tears this mournful night\nthat hides the joy thy love produces.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -266,13 +318,26 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "O august and divine power,"
+                  },
+                  "r": {
+                    "en-US": "That causeth waters and oil to flow in abundance"
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. O august and divine power,\n℟. That causeth waters and oil to flow in abundance\nfrom the mere touch of thy hand."
+                "en-US": "from the mere touch of thy hand."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration"
               }
@@ -305,7 +370,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -317,13 +382,26 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Thou who, with a mighty tear,"
+                  },
+                  "r": {
+                    "en-US": "Cleanseth the sins of mortals,"
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Thou who, with a mighty tear,\n℟. Cleanseth the sins of mortals,\nreceive the innocent ardor\nthat bows us at thy altars."
+                "en-US": "receive the innocent ardor\nthat bows us at thy altars."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration"
               }
@@ -344,19 +422,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "Sweet and delightful vessel,\nrare marvel of wonders,\nO tear, the virtue of thy water\nknows no equal.\nHaving despoiled death of its spoils,\nbreak for our sake its harsh strength.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Ant."
               }
@@ -368,9 +446,22 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Tears flow from my visage,"
+                  },
+                  "r": {
+                    "en-US": "To intoxicate with their water."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Tears flow from my visage,\n℟. To intoxicate with their water.\nYet their intoxication brings wisdom\nto those who drink of this stream."
+                "en-US": "Yet their intoxication brings wisdom\nto those who drink of this stream."
               }
             },
             {
@@ -389,19 +480,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "By so precious a token,\nby this incomparable love,\ngrant, O Jesus, that our eyes may see\nthy venerable face,\nfrom which this sacred stream flowed on earth,\nconquering sin and subduing death.\n\nThrough thy mercy, O Lord, draw near to me;\ncome and subdue the insolence of those who oppose thy law.\nGlory be to thee, divine essence;\nglory to thee, adorable Trinity, who art the reward of immortality."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Ant."
               }
@@ -413,13 +504,26 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "With joy shall ye draw water"
+                  },
+                  "r": {
+                    "en-US": "From the fountains of the Saviour."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. With joy shall ye draw water\n℟. From the fountains of the Saviour.\nThe waters sent from Heaven\nflow from the opening of his heart."
+                "en-US": "The waters sent from Heaven\nflow from the opening of his heart."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration"
               }
@@ -431,7 +535,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Oration for the healing of the eyes."
               }

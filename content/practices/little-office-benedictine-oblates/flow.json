@@ -27,14 +27,44 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\nAlleluia.\n(Vel: Laus tibi Domine, Rex aeternae gloriae.)\n\n℣. Domine, labia mea aperies:\n℟. Et os meum annuntiabit laudem tuam.",
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n\nGlory be to the Father, and to the Son, and to the Holy Ghost.\nAs it was in the beginning, is now, and ever shall be, world without end.\n(Or: Praise be to thee, O Lord, King of eternal glory.)\n\n℣. O Lord, open thou my lips:\n℟. And my mouth shall declare thy praise."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\nAlleluia.\n(Vel: Laus tibi Domine, Rex aeternae gloriae.)",
+                "en-US": "Glory be to the Father, and to the Son, and to the Holy Ghost.\nAs it was in the beginning, is now, and ever shall be, world without end.\n(Or: Praise be to thee, O Lord, King of eternal glory.)"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies:",
+                    "en-US": "O Lord, open thou my lips:"
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam.",
+                    "en-US": "And my mouth shall declare thy praise."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Psalmus III",
                 "en-US": "Psalm 3"
@@ -48,21 +78,21 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Nocte surgentes vigilemus omnes,\nSemper in psalmis meditemur, atque\nViribus totis Domino canamus\nDulciter hymnos.\n\nUt pio Regi pariter canentes,\nCum suis Sanctis mereamur aulam\nIngredi coeli, simul et beatam\nDucere vitam.\n\nPraestet hoc nobis Deitas beata\nPatris, ac Nati, pariterque Sancti\nSpiritus, cujus reboat in omni\nGloria mundo. Amen. Amen.",
                 "en-US": "Now, from the slumbers of the night arising,\nChant we the holy psalmody of David,\nHymns to our Master, with a voice concordant,\nSweetly intoning.\n\nSo may our Monarch mercifully hear us,\nThat we may merit with His Saints to enter\nMansions eternal, therewithal possessing\nJoy beatific.\n\nThis be our portion, God forever blessed,\nFather eternal, Son, and Holy Spirit,\nWhose is the glory, which through all creation\nEver resoundeth. Amen. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -76,7 +106,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus VIII",
                 "en-US": "Psalm 8"
@@ -90,7 +120,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -104,7 +134,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Lectio (1 Cor. 16, 13–14)",
                 "en-US": "Lesson (1 Cor. 16, 13–14)"
@@ -113,22 +143,66 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Vigilate, state in fide; viriliter agite et confortamini.\nOmnia vestra in caritate fiant.\n℣. Tu autem Domine, miserere nobis.\n℟. Deo gratias.",
-                "en-US": "Watch ye, stand fast in the faith, do manfully, and be strengthened.\nLet all your things be done in charity.\nBut thou, O Lord, have mercy on us.\n℟. Thanks be to God."
+                "la": "Vigilate, state in fide; viriliter agite et confortamini.\nOmnia vestra in caritate fiant.",
+                "en-US": "Watch ye, stand fast in the faith, do manfully, and be strengthened.\nLet all your things be done in charity."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Tu autem Domine, miserere nobis.",
+                    "en-US": "But thou, O Lord, have mercy on us."
+                  },
+                  "r": {
+                    "la": "Deo gratias.",
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).",
+                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (silently)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).\n\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (silently).\n\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Sancti nominis tui, Domine, timorem pariter et amorem fac nos habere perpetuum:\nquia nunquam tua gubernatione destituis, quos in soliditate tuae dilectionis instituis.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "Make us, O Lord, to have a perpetual fear and love of thy holy Name,\nfor thou never failest to govern those whom thou dost solidly establish in thy love.\nThrough our Lord Jesus Christ, thy Son, who liveth and reigneth with thee,\nin the unity of the Holy Ghost, one God, world without end."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti nominis tui, Domine, timorem pariter et amorem fac nos habere perpetuum:\nquia nunquam tua gubernatione destituis, quos in soliditate tuae dilectionis instituis.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.",
-                "en-US": "Let us pray,\nMake us, O Lord, to have a perpetual fear and love of thy holy Name,\nfor thou never failest to govern those whom thou dost solidly establish in thy love.\nThrough our Lord Jesus Christ, thy Son, who liveth and reigneth with thee,\nin the unity of the Holy Ghost, one God, world without end.\n℟. Amen."
+                "la": "Amen.",
+                "en-US": "Amen."
               }
             },
             {
@@ -149,14 +223,29 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\nGloria Patri, etc.",
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\nGlory be to the Father, etc."
+                "la": "Gloria Patri, etc.",
+                "en-US": "Glory be to the Father, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -170,7 +259,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum David (1 Par. 29, 10–13)",
                 "en-US": "Canticle of David (1 Par. 29:10–13)"
@@ -184,7 +273,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -198,7 +287,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum (Rom. 13, 12–13)",
                 "en-US": "Little Chapter (Rom. 13:12–13)"
@@ -207,12 +296,19 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Nox praecessit, dies autem appropinquavit: abjiciamus ergo opera tenebrarum, et induamur arma lucis: sicut in die honeste ambulemus.\n℟. Deo gratias.",
-                "en-US": "The night has passed and the day is at hand. Let us therefore cast off the works of darkness and put on the armour of light: let us walk honestly as in the day.\n℟. Thanks be to God."
+                "la": "Nox praecessit, dies autem appropinquavit: abjiciamus ergo opera tenebrarum, et induamur arma lucis: sicut in die honeste ambulemus.",
+                "en-US": "The night has passed and the day is at hand. Let us therefore cast off the works of darkness and put on the armour of light: let us walk honestly as in the day."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Responsorium Breve",
                 "en-US": "Short Responsory"
@@ -221,33 +317,62 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Sana animam meam, quia peccavi tibi. Sana animam meam, quia peccavi tibi.\n℣. Ego dixi, Domine, miserere mei. Quia peccavi tibi.\nGloria Patri, et Filio, et Spiritui Sancto.\n℟. Sana animam meam, quia peccavi tibi.",
-                "en-US": "℟. Heal my soul, for I have sinned against thee. Heal my soul, for I have sinned against thee.\n℣. I said, Lord, be merciful to me. For I have sinned against thee.\nGlory be to the Father, and to the Son, and to the Holy Ghost.\n℟. Heal my soul, for I have sinned against thee."
+                "la": "Sana animam meam, quia peccavi tibi. Sana animam meam, quia peccavi tibi.",
+                "en-US": "Heal my soul, for I have sinned against thee. Heal my soul, for I have sinned against thee."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Ego dixi, Domine, miserere mei. Quia peccavi tibi.",
+                "en-US": "I said, Lord, be merciful to me. For I have sinned against thee."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.",
+                "en-US": "Glory be to the Father, and to the Son, and to the Holy Ghost."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sana animam meam, quia peccavi tibi.",
+                "en-US": "Heal my soul, for I have sinned against thee."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tu, Trinitatis Unitas,\nOrbem potenter quae regis,\nAttende laudis canticum,\nQuod excubantes psallimus.\n\nOrtus refulget lucifer,\nPraeitque solem nuntius:\nCaduunt tenebrae noctium:\nLux sancta nos illuminat.\n\nDeo Patri sit gloria,\nEjusque soli Filio,\nCum Spiritu Paraclito,\nNunc et per omne saeculum. Amen.",
                 "en-US": "O Thou, who dost all nature sway,\nDread Trinity in Unity,\nAccept the trembling praise we pay\nTo Thy eternal majesty.\n\nThe star that heralds in the dawn\nIs slowly fading in the skies;\nThe darkness melts: O Thou true Light,\nUpon our darkened souls arise.\n\nTo God the Father glory be,\nAnd to the sole begotten Son,\nAnd Holy Ghost coequally,\nWhile everlasting ages run. Amen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Repleti sumus mane misericordia tua.\n℟. Exsultavimus et delectati sumus.",
-                "en-US": "℣. We are filled in the morning with thy mercy.\n℟. We have rejoiced and are delighted."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Repleti sumus mane misericordia tua.",
+                    "en-US": "We are filled in the morning with thy mercy."
+                  },
+                  "r": {
+                    "la": "Exsultavimus et delectati sumus.",
+                    "en-US": "We have rejoiced and are delighted."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -261,7 +386,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum Zachariae (Luc. 1, 68–79)",
                 "en-US": "Canticle of Zachary (Luke 1:68–79)"
@@ -275,7 +400,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -291,19 +416,48 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\n\nPater noster (clara voce.)\n\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (aloud).\n\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\n\nPater noster (clara voce.)",
+                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (aloud)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui per Unigenitum tuum aeternitatis nobis aditum devicta morte reserasti:\nvota nostra, quae praeveniendo aspiras, etiam adjuvando prosequere.\nPer eumdem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.",
-                "en-US": "Let us pray,\nO God, who through thine only begotten Son hast overcome death and opened to us the gates of everlasting life; grant that our holy desires, which have been stirred within us by thy grace, may by thy further aid be happily fulfilled. Through the same Jesus Christ thy Son, our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, one God, world without end.\n℟. Amen."
+                "la": "Deus, qui per Unigenitum tuum aeternitatis nobis aditum devicta morte reserasti:\nvota nostra, quae praeveniendo aspiras, etiam adjuvando prosequere.\nPer eumdem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "O God, who through thine only begotten Son hast overcome death and opened to us the gates of everlasting life; grant that our holy desires, which have been stirred within us by thy grace, may by thy further aid be happily fulfilled. Through the same Jesus Christ thy Son, our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, one God, world without end."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -317,25 +471,82 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Justum deduxit Dominus per vias rectas.\n℟. Et ostendit illi regnum Dei.",
-                "en-US": "Let us pray,\nO beloved Shepherd, preserve thy flock, strengthen it with thy holy prayer, and under thy guidance lead it along the glorious path to heaven.\n\n℣. The Lord led the just through right ways.\n℟. And showed him the kingdom of God."
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nExcita Domine, in Ecclesia tua Spiritum, cui beatus Pater noster Benedictus Abbas servivit:\nut, eodem nos repleti, studeamus amare quod amavit, et opere exercere quod docuit.\nPer Christum Dominum nostrum.\n℟. Amen.",
-                "en-US": "Let us pray,\nRaise up, O Lord, in thy Church, the Spirit wherewith our holy Father, the Abbot Benedict, was animated:\nthat, filled with the same, we may strive to love what he loved, and to practice what he taught. Through Christ our Lord.\n℟. Amen."
+                "en-US": "O beloved Shepherd, preserve thy flock, strengthen it with thy holy prayer, and under thy guidance lead it along the glorious path to heaven."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Justum deduxit Dominus per vias rectas.",
+                    "en-US": "The Lord led the just through right ways."
+                  },
+                  "r": {
+                    "la": "Et ostendit illi regnum Dei.",
+                    "en-US": "And showed him the kingdom of God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Benedicamus Domino.\n℟. Deo gratias.\n\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-                "en-US": "℣. Let us bless the Lord.\n℟. Thanks be to God.\n\n℣. May the souls of the faithful departed, through the mercy of God, rest in peace.\n℟. Amen."
+                "la": "Excita Domine, in Ecclesia tua Spiritum, cui beatus Pater noster Benedictus Abbas servivit:\nut, eodem nos repleti, studeamus amare quod amavit, et opere exercere quod docuit.\nPer Christum Dominum nostrum.",
+                "en-US": "Raise up, O Lord, in thy Church, the Spirit wherewith our holy Father, the Abbot Benedict, was animated:\nthat, filled with the same, we may strive to love what he loved, and to practice what he taught. Through Christ our Lord."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino.",
+                    "en-US": "Let us bless the Lord."
+                  },
+                  "r": {
+                    "la": "Deo gratias.",
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+                    "en-US": "May the souls of the faithful departed, through the mercy of God, rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -348,28 +559,50 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "O God, come to my assistance."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\nGloria Patri, etc.",
-                "en-US": "℣. O God, come to my assistance.\n℟. O Lord, make haste to help me.\nGlory be to the Father, etc."
+                "la": "Gloria Patri, etc.",
+                "en-US": "Glory be to the Father, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
+              "lang": "la",
               "inline": {
-                "la": "Jam lucis orto sidere\nDeum precemur supplices,\nUt in diurnis actibus\nNos servet a nocentibus.\n\nLinguam refrenans temperet,\nNe litis horror insonet:\nVisum fovendo contegat,\nNe vanitates hauriat.\n\nSint puris cordis intima,\nAbsistat et vecordia:\nCarnis terat superbiam\nPotus ciboque parcitas.\n\nUt cum dies abscesserit,\nNoctemque sors reduxerit,\nMundi per abstinentiam\nIpsi canamus gloriam.\n\nDeo Patri sit gloria,\nEj'usque soli Filio,\nCum Spiritu Paraclito,\nNunc, et per omne saeculum. Amen.",
+                "la": "Jam lucis orto sidere\nDeum precemur supplices,\nUt in diurnis actibus\nNos servet a nocentibus.\n\nLinguam refrenans temperet,\nNe litis horror insonet:\nVisum fovendo contegat,\nNe vanitates hauriat.\n\nSint puris cordis intima,\nAbsistat et vecordia:\nCarnis terat superbiam\nPotus ciboque parcitas.\n\nUt cum dies abscesserit,\nNoctemque sors reduxerit,\nMundi per abstinentiam\nIpsi canamus gloriam.\n\nDeo Patri sit gloria,\nEj'usque soli Filio,\nCum Spiritu Paraclito,\nNunc, et per omne saeculum. Amen."
+              }
+            },
+            {
+              "type": "hymn",
+              "lang": "en-US",
+              "inline": {
                 "en-US": "Now that the daylight fills the sky,\nWe lift our hearts to God on high,\nThat He, in all we do or say,\nWould keep us free from harm today.\n\nWould guard our hearts and tongues from strife,\nFrom anger's din would shield our life;\nFrom evil sights would turn our eyes,\nAnd close our ears to vanities.\n\nSo we, when this new day is gone\nAnd night in turn is drawing on,\nWith conscience by the world unstained\nShall praise His name for victory gained.\n\nAll praise to God the Father be,\nAll praise, Eternal Son, to Thee,\nWhom with the Spirit we adore,\nForever and forevermore. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus XXII",
                 "en-US": "Psalm 22 (23)"
@@ -383,7 +616,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum (1 Tim. 1, 17)",
                 "en-US": "Chapter (1 Tim. 1:17)"
@@ -392,54 +625,230 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Regi saeculorum immortali et invisibili, soli Deo honor et gloria in saecula saeculorum. Amen.\n℟. Deo gratias.\n℣. Exsurge, Christe, adjuva nos.\n℟. Et libera nos propter nomen tuum.",
-                "en-US": "To the King of ages, immortal, invisible, the only God, be honour and glory forever and ever. Amen.\n℟. Thanks be to God.\n℣. Arise, O Christ, and help us.\n℟. And deliver us for thy name's sake."
+                "la": "Regi saeculorum immortali et invisibili, soli Deo honor et gloria in saecula saeculorum. Amen.",
+                "en-US": "To the King of ages, immortal, invisible, the only God, be honour and glory forever and ever. Amen."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy. Christ, have mercy. Lord, have mercy.\nOur Father (silently).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Exsurge, Christe, adjuva nos.",
+                    "en-US": "Arise, O Christ, and help us."
+                  },
+                  "r": {
+                    "la": "Et libera nos propter nomen tuum.",
+                    "en-US": "And deliver us for thy name's sake."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Deus omnipotens, qui ad principium hujus diei nos pervenire fecisti: tua nos hodie salva virtute; ut in hac die ad nullum declinemus peccatum, sed semper ad tuam justitiam faciendam nostra procedant eloquia, dirigantur cogitationes et opera.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.\n℣. Benedicamus Domino.\n℟. Deo gratias.",
-                "en-US": "Let us pray,\nO Lord God Almighty, who hast brought us to the beginning of this day, save us today by Thy strength, so that we may not fall into any sin this day, but that our words, thoughts, and deeds may all tend to the fulfilment of Thy righteousness.\nThrough our Lord Jesus Christ, Thy Son, who liveth and reigneth with Thee in the unity of the Holy Ghost, God, forever and ever.\n℟. Amen.\n℣. Let us bless the Lord.\n℟. Thanks be to God."
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).",
+                "en-US": "Lord, have mercy. Christ, have mercy. Lord, have mercy.\nOur Father (silently)."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Pretiosa in conspectu Domini.\n℟. Mors Sanctorum ejus.\n\nSancta Maria, et omnes Sancti intercedant pro nobis ad Dominum ut nos mereamur ab eo adjuvari et salvari, qui vivit et regnat in saecula saeculorum.\n\n℟. Amen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri x3\n\nKyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "℣. Precious in the sight of the Lord.\n℟. Is the death of His saints.\n\nHoly Mary and all the Saints intercede for us with the Lord, that we may merit to be helped and saved by Him who liveth and reigneth forever and ever.\n\n℟. Amen.\n℣. O God, come to my assistance.\n℟. O Lord, make haste to help me.\nGlory be to the Father x3\n\nLord, have mercy. Christ, have mercy. Lord, have mercy.\nOur Father (silently).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Respice in servos tuos Domine, et in opera tua, et dirige filios eorum.\n℟. Et sit splendor Domini Dei nostri super nos, et opera manuum nostrarum dirige super nos, et opus manuum nostrarum dirige.\n℣. Gloria Patri, etc.\n℟. Sicut erat, etc.",
-                "en-US": "℣. Look down, O Lord, upon Thy servants and upon Thy works, and direct their children.\n℟. And let the splendour of the Lord our God be upon us, and direct the works of our hands over us; yea, the work of our hands do Thou direct.\n℣. Glory be to the Father, etc.\n℟. As it was in the beginning, etc."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nDirigere et sanctificare, regere et gubernare dignare, Domine Deus Rex caeli et terrae, hodie corda et corpora nostra, sensus, sermones, et actus nostros in lege tua, et in operibus mandatorum tuorum: ut hic, et in aeternum, te auxiliant, salvi et liberi esse mereamur, Salvator mundi, qui vivis et regnas in saecula saeculorum.\n℟. Amen.",
-                "en-US": "Let us pray,\nDirect and sanctify, rule and govern our hearts and bodies, our thoughts, words, and actions, O Lord God, King of heaven and earth, this day; so that, with Thy help, we may be righteous and saved here and hereafter, O Saviour of the world, who livest and reignest forever and ever.\n℟. Amen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Jube, Domine, benedicere.\nDies et actus nostros in sua pace disponat Dominus omnipotens.\n℟. Amen.",
-                "en-US": "℣. Pray, Lord, give Thy blessing.\nMay the Almighty Lord order our days and our deeds in His peace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Domine Deus omnipotens, qui ad principium hujus diei nos pervenire fecisti: tua nos hodie salva virtute; ut in hac die ad nullum declinemus peccatum, sed semper ad tuam justitiam faciendam nostra procedant eloquia, dirigantur cogitationes et opera.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "O Lord God Almighty, who hast brought us to the beginning of this day, save us today by Thy strength, so that we may not fall into any sin this day, but that our words, thoughts, and deeds may all tend to the fulfilment of Thy righteousness.\nThrough our Lord Jesus Christ, Thy Son, who liveth and reigneth with Thee in the unity of the Holy Ghost, God, forever and ever."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino.",
+                    "en-US": "Let us bless the Lord."
+                  },
+                  "r": {
+                    "la": "Deo gratias.",
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Pretiosa in conspectu Domini.",
+                    "en-US": "Precious in the sight of the Lord."
+                  },
+                  "r": {
+                    "la": "Mors Sanctorum ejus.",
+                    "en-US": "Is the death of His saints."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Maria, et omnes Sancti intercedant pro nobis ad Dominum ut nos mereamur ab eo adjuvari et salvari, qui vivit et regnat in saecula saeculorum.",
+                "en-US": "Holy Mary and all the Saints intercede for us with the Lord, that we may merit to be helped and saved by Him who liveth and reigneth forever and ever."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "O God, come to my assistance."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri x3\n\nKyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).",
+                "en-US": "Glory be to the Father x3\n\nLord, have mercy. Christ, have mercy. Lord, have mercy.\nOur Father (silently)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Respice in servos tuos Domine, et in opera tua, et dirige filios eorum.",
+                    "en-US": "Look down, O Lord, upon Thy servants and upon Thy works, and direct their children."
+                  },
+                  "r": {
+                    "la": "Et sit splendor Domini Dei nostri super nos, et opera manuum nostrarum dirige super nos, et opus manuum nostrarum dirige.",
+                    "en-US": "And let the splendour of the Lord our God be upon us, and direct the works of our hands over us; yea, the work of our hands do Thou direct."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, etc.",
+                    "en-US": "Glory be to the Father, etc."
+                  },
+                  "r": {
+                    "la": "Sicut erat, etc.",
+                    "en-US": "As it was in the beginning, etc."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dirigere et sanctificare, regere et gubernare dignare, Domine Deus Rex caeli et terrae, hodie corda et corpora nostra, sensus, sermones, et actus nostros in lege tua, et in operibus mandatorum tuorum: ut hic, et in aeternum, te auxiliant, salvi et liberi esse mereamur, Salvator mundi, qui vivis et regnas in saecula saeculorum.",
+                "en-US": "Direct and sanctify, rule and govern our hearts and bodies, our thoughts, words, and actions, O Lord God, King of heaven and earth, this day; so that, with Thy help, we may be righteous and saved here and hereafter, O Saviour of the world, who livest and reignest forever and ever."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jube, Domine, benedicere.",
+                "en-US": "Pray, Lord, give Thy blessing."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dies et actus nostros in sua pace disponat Dominus omnipotens.",
+                "en-US": "May the Almighty Lord order our days and our deeds in His peace."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio brevis (Prol. Regulae S. Benedicti)",
                 "en-US": "Short reading (From the Prologue of the Rule of S. Benedict)"
@@ -447,34 +856,100 @@
             },
             {
               "type": "prayer",
+              "lang": "la",
               "inline": {
-                "la": "Ex Regula Sancti Patris nostri Benedicti: Passionibus Christi per patientiam participemus ut et regni ejus mereamur esse consortes. Tu autem Domine, miserere nobis.\n℟. Deo gratias.\n℣. Adjutorium nostrum in nomine Domini.\n℟. Qui fecit caelum et terram.\n℣. Benedicite.\n℟. Deus.",
-                "en-US": "From the Rule of our holy Father Benedict:\nLet us participate through patience in the sufferings of Christ, that we may deserve also to be partakers in His Kingdom. But thou, O Lord, have mercy on us.\n℟. Thanks be to God.\n℣. Our help is in the name of the Lord.\n℟. Who made heaven and earth.\n℣. Bless ye the Lord.\n℟. God."
+                "la": "Ex Regula Sancti Patris nostri Benedicti: Passionibus Christi per patientiam participemus ut et regni ejus mereamur esse consortes. Tu autem Domine, miserere nobis."
+              }
+            },
+            {
+              "type": "subheading",
+              "lang": "en-US",
+              "text": {
+                "en-US": "From the Rule of our holy Father Benedict:"
+              }
+            },
+            {
+              "type": "prayer",
+              "lang": "en-US",
+              "inline": {
+                "en-US": "Let us participate through patience in the sufferings of Christ, that we may deserve also to be partakers in His Kingdom. But thou, O Lord, have mercy on us."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Dominus nos benedicat, et ab omni malo defendat, et ad vitam perducat aeternam: et fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-                "en-US": "May the Lord bless us, and keep us from all evil, and bring us to life everlasting; and may the souls of the faithful departed, through the mercy of God, rest in peace.\n℟. Amen."
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Adjutorium nostrum in nomine Domini.",
+                    "en-US": "Our help is in the name of the Lord."
+                  },
+                  "r": {
+                    "la": "Qui fecit caelum et terram.",
+                    "en-US": "Who made heaven and earth."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicite.",
+                    "en-US": "Bless ye the Lord."
+                  },
+                  "r": {
+                    "la": "Deus.",
+                    "en-US": "God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dominus nos benedicat, et ab omni malo defendat, et ad vitam perducat aeternam: et fidelium animae per misericordiam Dei requiescant in pace.",
+                "en-US": "May the Lord bless us, and keep us from all evil, and bring us to life everlasting; and may the souls of the faithful departed, through the mercy of God, rest in peace."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Commemoratio omnium fratrum, familiarium Ordinis nostri, atque benefactorum nostrorum",
                 "en-US": "Commemoration of all brethren, relatives, and benefactors of our Order"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Requiescant in pace.\n℟. Amen.",
-                "en-US": "℣. May they rest in peace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Requiescant in pace.",
+                    "en-US": "May they rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 129",
                 "en-US": "Psalm 129 (130)"
@@ -483,16 +958,105 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "De profundis clamavi ad te Domine: Domine exaudi vocem meam.\nFiant aures tuae intendentes, in vocem deprecationis meae.\nSi iniquitates observaveris Domine: Domine quis sustinebit?\nQuia apud te propitiatio est: et propter legem tuam sustinui te Domine.\nSustinuit anima mea in verbo ejus: speravit anima mea in Domino.\nA custodia matutina usque ad noctem: speret Israel in Domino.\nQuia apud Dominum misericordia: et copiosa apud eum redemptio.\nEt ipse redimet Israel, ex omnibus iniquitatibus ejus.\nRequiem aeternam dona eis Domine.\nEt lux perpetua luceat eis.\n℣. A porta inferi.\n℟. Erue Domine animas eorum.\n℣. Requiescant in pace.\n℟. Amen.\n℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.",
-                "en-US": "Out of the depths I have cried to Thee, O Lord: Lord, hear my voice.\nLet Thine ears be attentive to the voice of my supplication.\nIf Thou, O Lord, wilt mark iniquities: Lord, who shall stand it?\nFor with Thee there is forgiveness: and by reason of Thy law I have waited for Thee, O Lord.\nMy soul hath relied on His word: my soul hath hoped in the Lord.\nFrom the morning watch even until night: let Israel hope in the Lord.\nBecause with the Lord there is mercy: and with Him plentiful redemption.\nAnd He shall redeem Israel from all his iniquities.\nEternal rest grant unto them, O Lord.\nAnd let perpetual light shine upon them.\n℣. From the gates of hell.\n℟. Deliver their souls, O Lord.\n℣. May they rest in peace.\n℟. Amen.\n℣. O Lord, hear my prayer.\n℟. And let my cry come unto Thee."
+                "la": "De profundis clamavi ad te Domine: Domine exaudi vocem meam.\nFiant aures tuae intendentes, in vocem deprecationis meae.\nSi iniquitates observaveris Domine: Domine quis sustinebit?\nQuia apud te propitiatio est: et propter legem tuam sustinui te Domine.\nSustinuit anima mea in verbo ejus: speravit anima mea in Domino.\nA custodia matutina usque ad noctem: speret Israel in Domino.\nQuia apud Dominum misericordia: et copiosa apud eum redemptio.\nEt ipse redimet Israel, ex omnibus iniquitatibus ejus.\nRequiem aeternam dona eis Domine.\nEt lux perpetua luceat eis.",
+                "en-US": "Out of the depths I have cried to Thee, O Lord: Lord, hear my voice.\nLet Thine ears be attentive to the voice of my supplication.\nIf Thou, O Lord, wilt mark iniquities: Lord, who shall stand it?\nFor with Thee there is forgiveness: and by reason of Thy law I have waited for Thee, O Lord.\nMy soul hath relied on His word: my soul hath hoped in the Lord.\nFrom the morning watch even until night: let Israel hope in the Lord.\nBecause with the Lord there is mercy: and with Him plentiful redemption.\nAnd He shall redeem Israel from all his iniquities.\nEternal rest grant unto them, O Lord.\nAnd let perpetual light shine upon them."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "A porta inferi.",
+                    "en-US": "From the gates of hell."
+                  },
+                  "r": {
+                    "la": "Erue Domine animas eorum.",
+                    "en-US": "Deliver their souls, O Lord."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Requiescant in pace.",
+                    "en-US": "May they rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam.",
+                    "en-US": "O Lord, hear my prayer."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat.",
+                    "en-US": "And let my cry come unto Thee."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, veniae largitor et humanae salutis amator: quaesumus clementiam tuam; ut nostrae congregationis fratres, propinquos, et benefactores, qui ex hoc saeculo transierunt, beata Maria semper Virgine intercedente cum omnibus Sanctis tuis, ad perpetuae beatitudinis consortium pervenire concedas.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.\n℣. Requiem aeternam dona eis Domine.\n℟. Et lux perpetua luceat eis.\n℣. Requiescant in pace.\n℟. Amen.",
-                "en-US": "Let us pray,\nO God, the giver of pardon and the lover of human salvation, we beseech Thy clemency; that, through the intercession of the Blessed Mary ever Virgin and of all Thy Saints, Thou wouldst grant to the brethren, kindred, and benefactors of our congregation who have passed out of this life, to come to the fellowship of everlasting blessedness.\nThrough our Lord Jesus Christ, Thy Son, who liveth and reigneth with Thee in the unity of the Holy Ghost, God, forever and ever.\n℟. Amen.\n℣. Eternal rest grant unto them, O Lord.\n℟. And let perpetual light shine upon them.\n℣. May they rest in peace.\n℟. Amen."
+                "la": "Deus, veniae largitor et humanae salutis amator: quaesumus clementiam tuam; ut nostrae congregationis fratres, propinquos, et benefactores, qui ex hoc saeculo transierunt, beata Maria semper Virgine intercedente cum omnibus Sanctis tuis, ad perpetuae beatitudinis consortium pervenire concedas.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "O God, the giver of pardon and the lover of human salvation, we beseech Thy clemency; that, through the intercession of the Blessed Mary ever Virgin and of all Thy Saints, Thou wouldst grant to the brethren, kindred, and benefactors of our congregation who have passed out of this life, to come to the fellowship of everlasting blessedness.\nThrough our Lord Jesus Christ, Thy Son, who liveth and reigneth with Thee in the unity of the Holy Ghost, God, forever and ever."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Requiem aeternam dona eis Domine.",
+                    "en-US": "Eternal rest grant unto them, O Lord."
+                  },
+                  "r": {
+                    "la": "Et lux perpetua luceat eis.",
+                    "en-US": "And let perpetual light shine upon them."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Requiescant in pace.",
+                    "en-US": "May they rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -505,28 +1069,43 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\nGloria Patri, etc.",
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\nGlory be to the Father (as at Matins)"
+                "la": "Gloria Patri, etc.",
+                "en-US": "Glory be to the Father (as at Matins)"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Nunc, Sancte nobis Spiritus,\nUnum Patri cum Filio,\nDignare promptus ingeri\nNostro refusus pectori.\n\nOs, lingua, mens, sensus, vigor,\nConfessionem personent,\nFlammescat igne caritas,\nAccendat ardor proximos.\n\nPraesta, Pater piissime,\nPatrique compar Unice,\nCum Spiritu Paraclito,\nRegnans per omne saeculum. Amen.",
                 "en-US": "Come, Holy Ghost, who ever one,\nReignest with Father and with Son,\nIt is the hour, our souls possess\nWith thy full flood of holiness.\n\nLet flesh, and heart, and lips, and mind,\nSound forth our witness to mankind;\nAnd love light up our mortal frame\nTill others catch the living flame.\n\nNow to the Father, to the Son,\nAnd to the Spirit, Three in One,\nBe praise, and thanks, and glory given,\nBy men on earth, by Saints in heaven. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 120",
                 "en-US": "Psalm 120"
@@ -540,7 +1119,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum (Jer. 17:14)",
                 "en-US": "Little Chapter (Jer. 17:14)"
@@ -549,23 +1128,104 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sana me, Domine, et sanabor: salvum me fac, et salvus ero: quoniam laus mea tu es.\n℟. Deo gratias.\n℣. Adjutor meus esto, ne derelinquas me.\n℟. Neque despicias me, Deus, salutaris meus.",
-                "en-US": "Heal me, O Lord, and I shall be healed: save me, and I shall be saved: for thou art my praise.\n℟. Thanks be to God.\n℣. Be thou my helper, forsake me not.\n℟. Nor despise me, O God, my Saviour."
+                "la": "Sana me, Domine, et sanabor: salvum me fac, et salvus ero: quoniam laus mea tu es.",
+                "en-US": "Heal me, O Lord, and I shall be healed: save me, and I shall be saved: for thou art my praise."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\n\nPater noster (secreto).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\n\nPater noster (silently).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Adjutor meus esto, ne derelinquas me.",
+                    "en-US": "Be thou my helper, forsake me not."
+                  },
+                  "r": {
+                    "la": "Neque despicias me, Deus, salutaris meus.",
+                    "en-US": "Nor despise me, O God, my Saviour."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\n\nPater noster (secreto).",
+                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\n\nPater noster (silently)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus qui corda fidelium Sancti Spiritus illustratione docuisti: da nobis in eodem Spiritu recta sapere, et de ejus semper consolatione gaudere.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate ejusdem Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-                "en-US": "Let us pray,\nO God, who didst instruct the hearts of the faithful by the light of the Holy Spirit; grant that by the light of the same Spirit we may be always truly wise and rejoice in his consolation.\nThrough our Lord Jesus Christ, thy Son, who liveth and reigneth with thee, in the unity of the same Holy Ghost, one God, world without end.\n℟. Amen.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed, through the mercy of God, rest in peace.\n℟. Amen."
+                "la": "Deus qui corda fidelium Sancti Spiritus illustratione docuisti: da nobis in eodem Spiritu recta sapere, et de ejus semper consolatione gaudere.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate ejusdem Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "O God, who didst instruct the hearts of the faithful by the light of the Holy Spirit; grant that by the light of the same Spirit we may be always truly wise and rejoice in his consolation.\nThrough our Lord Jesus Christ, thy Son, who liveth and reigneth with thee, in the unity of the same Holy Ghost, one God, world without end."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino.",
+                    "en-US": "Let us bless the Lord."
+                  },
+                  "r": {
+                    "la": "Deo gratias.",
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+                    "en-US": "May the souls of the faithful departed, through the mercy of God, rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -578,28 +1238,43 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc.",
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\nGlory be to the Father (as at Matins)."
+                "la": "Gloria Patri, etc.",
+                "en-US": "Glory be to the Father (as at Matins)."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Rector potens, verax Deus,\nQui temperas rerum vices,\nSplendore mane instruis,\nEt ignibus meridiem:",
                 "en-US": "O God, who canst not change nor fail,\nGuiding the hours, as they go by,\nBrightening with beams the morning pale,\nAnd burning in the mid-day sky:"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 123",
                 "en-US": "Psalm 123"
@@ -613,7 +1288,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum (Gal. 6, 2)",
                 "en-US": "Little Chapter (Gal. 6, 2)"
@@ -622,23 +1297,104 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Alter alterius onera portate, et sic adimplebitis legem Christi.\n℟. Deo gratias.\n℣. Dominus regit me, et nihil mihi deerit.\n℟. In loco pascuae ibi me collocavit.",
-                "en-US": "Bear ye one another's burdens: and so you shall fulfil the law of Christ.\n℟. Thanks be to God.\n℣. The Lord shall govern me and nothing shall be wanting unto me.\n℟. He hath set me in a place of pasture."
+                "la": "Alter alterius onera portate, et sic adimplebitis legem Christi.",
+                "en-US": "Bear ye one another's burdens: and so you shall fulfil the law of Christ."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (silently).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus regit me, et nihil mihi deerit.",
+                    "en-US": "The Lord shall govern me and nothing shall be wanting unto me."
+                  },
+                  "r": {
+                    "la": "In loco pascuae ibi me collocavit.",
+                    "en-US": "He hath set me in a place of pasture."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).",
+                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (silently)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDa, quaesumus, Domine, populo tuo diabolica vitare contagia:\net te solum Deum pura mente sectari.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-                "en-US": "Let us pray\nGrant to thy people, we beseech thee, O Lord, to avoid the defilements of the devil,\nand with a pure mind to follow thee, the only God.\nThrough our Lord Jesus Christ, thy Son, who liveth and reigneth with thee,\nin the unity of the Holy Ghost, one God, world without end.\n℟. Amen.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed, through the mercy of God, rest in peace.\n℟. Amen."
+                "la": "Da, quaesumus, Domine, populo tuo diabolica vitare contagia:\net te solum Deum pura mente sectari.\nPer Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat\nin unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "Grant to thy people, we beseech thee, O Lord, to avoid the defilements of the devil,\nand with a pure mind to follow thee, the only God.\nThrough our Lord Jesus Christ, thy Son, who liveth and reigneth with thee,\nin the unity of the Holy Ghost, one God, world without end."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino.",
+                    "en-US": "Let us bless the Lord."
+                  },
+                  "r": {
+                    "la": "Deo gratias.",
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+                    "en-US": "May the souls of the faithful departed, through the mercy of God, rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -651,28 +1407,43 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc.",
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\nGlory be to the Father (as at Matins)."
+                "la": "Gloria Patri, etc.",
+                "en-US": "Glory be to the Father (as at Matins)."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Rerum, Deus, tenax vigor,\nImmotus in te permanens,\nLucis diurnae tempora\nSuccessibus determinans.\n\nLargire lumen vespere,\nQuo vita nusquam decidat,\nSed praemium mortis sacrae,\nPerennis instet gloria.\n\nPraesta, Pater piissime,\nPatrique compar Unice,\nCum Spiritu Paraclito,\nRegnans per omne saeculum. Amen.",
                 "en-US": "O God, unchangeable and true,\nOf all the light and power,\nDispensing light in silence through\nEvery successive hour.\n\nLord, brighten our declining day,\nThat it may never wane,\nTill death, when all things round decay,\nBrings back the morn again.\n\nThis grace on thy redeemed confer,\nFather, coequal Son,\nAnd Holy Ghost the Comforter,\nEternal Three in One. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 127",
                 "en-US": "Psalm 127"
@@ -686,7 +1457,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum (1 Cor. 6, 20)",
                 "en-US": "Little Chapter (1 Cor. 6, 20)"
@@ -695,23 +1466,104 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Empti enim estis pretio magno. Glorificate et portate Deum in corpore vestro.\n℟. Deo gratias.\n℣. Ab occultis meis munda me, Domine.\n℟. Et ab alienis parce servo tuo.",
-                "en-US": "For you are bought with a great price. Glorify and bear God in your body.\n℟. Thanks be to God.\n℣. Cleanse thou me from my secret faults, O Lord.\n℟. Preserve thy servant also from the sins of others."
+                "la": "Empti enim estis pretio magno. Glorificate et portate Deum in corpore vestro.",
+                "en-US": "For you are bought with a great price. Glorify and bear God in your body."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\n\nPater Noster (secreto).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\n\nPater Noster (silently).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ab occultis meis munda me, Domine.",
+                    "en-US": "Cleanse thou me from my secret faults, O Lord."
+                  },
+                  "r": {
+                    "la": "Et ab alienis parce servo tuo.",
+                    "en-US": "Preserve thy servant also from the sins of others."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\n\nPater Noster (secreto).",
+                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\n\nPater Noster (silently)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui in Filii tui humilitate jacentem mundum erexisti: fidelibus tuis perpetuam concede laetitiam; ut, quos perpetuae mortis eripuisti casibus, gaudiis facias perfrui sempiternis.\nPer eumdem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-                "en-US": "Let us pray,\nO God, who by the self-abasement of thy Son hast raised up a fallen world, grant to thy faithful people perpetual joy; and as thou hast delivered them from the danger of eternal death, so do thou give unto them the joys of everlasting happiness.\nThrough the same Jesus Christ thy Son our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one God, world without end.\n℟. Amen.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed, through the mercy of God, rest in peace.\n℟. Amen."
+                "la": "Deus, qui in Filii tui humilitate jacentem mundum erexisti: fidelibus tuis perpetuam concede laetitiam; ut, quos perpetuae mortis eripuisti casibus, gaudiis facias perfrui sempiternis.\nPer eumdem Dominum nostrum Jesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "O God, who by the self-abasement of thy Son hast raised up a fallen world, grant to thy faithful people perpetual joy; and as thou hast delivered them from the danger of eternal death, so do thou give unto them the joys of everlasting happiness.\nThrough the same Jesus Christ thy Son our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one God, world without end."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino.",
+                    "en-US": "Let us bless the Lord."
+                  },
+                  "r": {
+                    "la": "Deo gratias.",
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+                    "en-US": "May the souls of the faithful departed, through the mercy of God, rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -724,14 +1576,29 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc.",
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\nGlory be to the Father (as at Matins)."
+                "la": "Gloria Patri, etc.",
+                "en-US": "Glory be to the Father (as at Matins)."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 116",
                 "en-US": "Psalm 116"
@@ -745,21 +1612,28 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O lux beata Trinitas,\nEt principalis Unitas,\nJam sol recedet igneus,\nInfunde lumen cordibus.\nTe mane laudum carmine,\nTe deprecemur vespere,\nTe nostra supplex gloria\nPer cuncta laudet saecula.\nDeo Patri sit gloria,\nEjusque soli Filio,\nCum Spiritu Paraclito,\nEt nunc et in perpetuum. Amen.\nVespertina oratio ascendit ad te, Domine.\n℟. Et descendat super nos misericordia tua.",
-                "en-US": "O Trinity of blessed light,\nO Unity of princely might,\nThe fiery sun now goes his way.\nShed Thou within our hearts Thy ray.\nTo Thee our morning song of praise,\nTo Thee our evening prayer we raise;\nThy glory suppliant we adore\nForever and forevermore.\nAll praise to God the Father be;\nAll thanks, Eternal Son, to Thee;\nAll glory, as is ever meet,\nTo God the Holy Paraclete. Amen.\nMay our evening prayer ascend to thee, O Lord.\n℟. And may thy mercy descend upon us."
+                "la": "O lux beata Trinitas,\nEt principalis Unitas,\nJam sol recedet igneus,\nInfunde lumen cordibus.\nTe mane laudum carmine,\nTe deprecemur vespere,\nTe nostra supplex gloria\nPer cuncta laudet saecula.\nDeo Patri sit gloria,\nEjusque soli Filio,\nCum Spiritu Paraclito,\nEt nunc et in perpetuum. Amen.\nVespertina oratio ascendit ad te, Domine.",
+                "en-US": "O Trinity of blessed light,\nO Unity of princely might,\nThe fiery sun now goes his way.\nShed Thou within our hearts Thy ray.\nTo Thee our morning song of praise,\nTo Thee our evening prayer we raise;\nThy glory suppliant we adore\nForever and forevermore.\nAll praise to God the Father be;\nAll thanks, Eternal Son, to Thee;\nAll glory, as is ever meet,\nTo God the Holy Paraclete. Amen.\nMay our evening prayer ascend to thee, O Lord."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Et descendat super nos misericordia tua.",
+                "en-US": "And may thy mercy descend upon us."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -773,7 +1647,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum B.V.M. (Luc. 1, 46–55)",
                 "en-US": "Canticle of the B.V.M. (Luke 1, 46–55)"
@@ -787,7 +1661,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -803,15 +1677,44 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (clara voce).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nPater noster (aloud).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (clara voce).",
+                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nPater noster (aloud)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nAurem tuam, quaesumus, Domine, precibus nostris accomoda, et mentis nostrae tenebras gratia tuae visitationis illustra.\nQui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen.",
-                "en-US": "Let us pray,\nIncline thine ear, O Lord, we beseech thee, to our prayers, and enlighten the darkness of our minds by the grace of thy visitation. Who livest and reignest with God the Father, in the unity of the Holy Ghost, one God, world without end.\n℟. Amen."
+                "la": "Aurem tuam, quaesumus, Domine, precibus nostris accomoda, et mentis nostrae tenebras gratia tuae visitationis illustra.\nQui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.",
+                "en-US": "Incline thine ear, O Lord, we beseech thee, to our prayers, and enlighten the darkness of our minds by the grace of thy visitation. Who livest and reignest with God the Father, in the unity of the Holy Ghost, one God, world without end."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
               }
             },
             {
@@ -824,16 +1727,75 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sanctissime Confessor Domini, monachorum Pater et Dux, Benedicte, intercede pro nostra omniumque salute.\n℣. Amavit eum Dominus et ornavit eum.\n℟. Stolam gloriae induit eum.",
-                "en-US": "Most holy Confessor of the Lord, Father and Guide of monks, Benedict, intercede for the salvation of ourselves, and of all.\n℣. The Lord hath loved and adorned him.\n℟. He hath invested him with the stole of glory."
+                "la": "Sanctissime Confessor Domini, monachorum Pater et Dux, Benedicte, intercede pro nostra omniumque salute.",
+                "en-US": "Most holy Confessor of the Lord, Father and Guide of monks, Benedict, intercede for the salvation of ourselves, and of all."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amavit eum Dominus et ornavit eum.",
+                    "en-US": "The Lord hath loved and adorned him."
+                  },
+                  "r": {
+                    "la": "Stolam gloriae induit eum.",
+                    "en-US": "He hath invested him with the stole of glory."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nExcita, Domine, in Ecclesia tua Spiritum, cui beatus Pater noster Benedictus Abbas servivit, ut eodem nos repleti, studeamus amare quod amavit, et opere exercere quod docuit.\nPer Christum Dominum nostrum.\n℟. Amen.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-                "en-US": "Let us pray,\nRaise up, O Lord, in thy Church, the Spirit wherewith our holy Father, the Abbot Benedict, was animated, that, filled with the same, we may strive to love what he loved, and to practice what he taught. Through Christ our Lord.\n℟. Amen.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful departed, through the mercy of God, rest in peace.\n℟. Amen."
+                "la": "Excita, Domine, in Ecclesia tua Spiritum, cui beatus Pater noster Benedictus Abbas servivit, ut eodem nos repleti, studeamus amare quod amavit, et opere exercere quod docuit.\nPer Christum Dominum nostrum.",
+                "en-US": "Raise up, O Lord, in thy Church, the Spirit wherewith our holy Father, the Abbot Benedict, was animated, that, filled with the same, we may strive to love what he loved, and to practice what he taught. Through Christ our Lord."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino.",
+                    "en-US": "Let us bless the Lord."
+                  },
+                  "r": {
+                    "la": "Deo gratias.",
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+                    "en-US": "May the souls of the faithful departed, through the mercy of God, rest in peace."
+                  },
+                  "r": {
+                    "la": "Amen.",
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -848,12 +1810,26 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Jube, Domne, benedicere.\nNoctem quietam, et finem perfectum concedat nobis Dominus omnipotens.\n℟. Amen.",
-                "en-US": "℣. Pray, O Lord, a blessing.\nThe Lord almighty grant us a peaceful night and a perfect end.\n℟. Amen."
+                "la": "Jube, Domne, benedicere.",
+                "en-US": "Pray, O Lord, a blessing."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Noctem quietam, et finem perfectum concedat nobis Dominus omnipotens.",
+                "en-US": "The Lord almighty grant us a peaceful night and a perfect end."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio brevis (I Pet. 5, 8–9)",
                 "en-US": "Short Lesson (I Pet. 5, 8–9)"
@@ -862,19 +1838,41 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Fratres: Sobrii estote, et vigilate: quia adversarius vester diabolus tamquam leo rugiens circuit, quaerens quem devoret: cui resistite fortes in fide. Tu autem Domine miserere nobis.\n℟. Deo gratias.",
-                "en-US": "Brethren: Be sober and watch: because your adversary the devil, as a roaring lion, goeth about, seeking whom he may devour: whom resist ye, strong in faith. But thou, O Lord, have mercy on us.\n℟. Thanks be to God."
+                "la": "Fratres: Sobrii estote, et vigilate: quia adversarius vester diabolus tamquam leo rugiens circuit, quaerens quem devoret: cui resistite fortes in fide. Tu autem Domine miserere nobis.",
+                "en-US": "Brethren: Be sober and watch: because your adversary the devil, as a roaring lion, goeth about, seeking whom he may devour: whom resist ye, strong in faith. But thou, O Lord, have mercy on us."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc.",
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\nGlory be to the Father (as at Matins)."
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende.",
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina.",
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, etc.",
+                "en-US": "Glory be to the Father (as at Matins)."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 133",
                 "en-US": "Psalm 133"
@@ -888,21 +1886,21 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus",
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Te lucis ante terminum,\nRerum Creator, poscimus,\nUt pro tua clementia\nSis praesul et custodia.\nProcul recedant somnia,\nEt noctium phantasmata;\nHostemque nostrum comprime,\nNe polluantur corpora.\nPraesta Pater piissime,\nPatri­que compar Unice,\nCum Spiritu Paraclito\nRegnans per omne saeculum. Amen.",
                 "en-US": "Before the ending of the day,\nCreator of the world, we pray\nThat with Thy wonted favor Thou\nWouldst be our Guard and Keeper now.\nFrom all ill dreams defend our eyes,\nFrom nightly fears and fantasies;\nTread under foot our ghostly foe;\nThat no pollution we may know.\nO Father, what we ask be done,\nThrough Jesus Christ, Thine only Son;\nWho, with the Holy Ghost and Thee,\nDoth live and reign eternally. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum (Jer. 14, 9)",
                 "en-US": "Little Chapter (Jer. 14, 9)"
@@ -911,29 +1909,87 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Tu autem in nobis es, Domine, et nomen sanctum tuum invocatum est super nos: ne derelinquas nos, Domine Deus noster.\n℟. Deo gratias.\n\n℣. Custodi nos, Domine, ut pupillam oculi.\n℟. Sub umbra alarum tuarum protege nos.",
-                "en-US": "But thou, O Lord, art among us, and thy holy Name is invoked upon us: forsake us not, O Lord our God.\n℟. Thanks be to God.\n\n℣. Keep us, O Lord, as the apple of thine eye.\n℟. Protect us under the shadow of thy wings."
+                "la": "Tu autem in nobis es, Domine, et nomen sanctum tuum invocatum est super nos: ne derelinquas nos, Domine Deus noster.",
+                "en-US": "But thou, O Lord, art among us, and thy holy Name is invoked upon us: forsake us not, O Lord our God."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
-                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (silently).\n℣. And lead us not into temptation.\n℟. But deliver us from evil."
+                "la": "Deo gratias.",
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Custodi nos, Domine, ut pupillam oculi.",
+                    "en-US": "Keep us, O Lord, as the apple of thine eye."
+                  },
+                  "r": {
+                    "la": "Sub umbra alarum tuarum protege nos.",
+                    "en-US": "Protect us under the shadow of thy wings."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Kyrie eleison. Christe eleison. Kyrie eleison.\nPater noster (secreto).",
+                "en-US": "Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us.\nOur Father (silently)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem.",
+                    "en-US": "And lead us not into temptation."
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo.",
+                    "en-US": "But deliver us from evil."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus.",
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nVisita, quaesumus, Domine, habitationem istam, et omnes insidias inimici ab ea longe repelle: Angeli tui sancti habitent in ea, qui nos in pace custodiant, et benedictio tua sit super nos semper.\nDefende, quaesumus, Domine, beata Maria semper Virgine intercedente, istam ab omni adversitate familiam, et toto corde tibi prostratam ab hostium propitius tuere clementer insidiis. Per Christum Dominum nostrum.\n℟. Amen.",
-                "en-US": "Let us pray,\nVisit, we beseech thee, O Lord, this house, and drive far from it all snares of the enemy; let thy holy Angels dwell therein, who may keep us in peace, and let thy blessing be always upon us.\nDo thou, we beseech thee, O Lord, by the intercession of blessed Mary ever Virgin, keep this family from all harm; and mercifully deign to protect from the snares of the enemy those who with their whole heart prostrate themselves before thee. Through Christ our Lord.\n℟. Amen."
+                "la": "Visita, quaesumus, Domine, habitationem istam, et omnes insidias inimici ab ea longe repelle: Angeli tui sancti habitent in ea, qui nos in pace custodiant, et benedictio tua sit super nos semper.\nDefende, quaesumus, Domine, beata Maria semper Virgine intercedente, istam ab omni adversitate familiam, et toto corde tibi prostratam ab hostium propitius tuere clementer insidiis. Per Christum Dominum nostrum.",
+                "en-US": "Visit, we beseech thee, O Lord, this house, and drive far from it all snares of the enemy; let thy holy Angels dwell therein, who may keep us in peace, and let thy blessing be always upon us.\nDo thou, we beseech thee, O Lord, by the intercession of blessed Mary ever Virgin, keep this family from all harm; and mercifully deign to protect from the snares of the enemy those who with their whole heart prostrate themselves before thee. Through Christ our Lord."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicat et custodiat nos omnipotens et misericors Dominus, Pater, et Filius, et Spiritus Sanctus.\n℟. Amen.",
-                "en-US": "May the almighty and merciful Lord, the Father, the Son, and the Holy Ghost, bless and protect us.\n℟. Amen."
+                "la": "Amen.",
+                "en-US": "Amen."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicat et custodiat nos omnipotens et misericors Dominus, Pater, et Filius, et Spiritus Sanctus.",
+                "en-US": "May the almighty and merciful Lord, the Father, the Son, and the Holy Ghost, bless and protect us."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen.",
+                "en-US": "Amen."
               }
             }
           ]

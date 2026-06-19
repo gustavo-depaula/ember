@@ -14,27 +14,48 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domine, labia mea aperies."
+          },
+          "r": {
+            "la": "Et os meum annuntiabit laudem tuam."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Converte nos, Deus salutaris noster."
+          },
+          "r": {
+            "la": "Et averte iram tuam a nobis."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus, in adjutorium meum intende."
+          },
+          "r": {
+            "la": "Domine, ad adjuvandum me festina."
+          }
+        }
+      ]
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Gloria Patri. Alleluia."
+        "la": "Gloria Patri. Alleluia."
       }
     },
     {
@@ -182,7 +203,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Ant."
       }
@@ -194,15 +215,28 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Emitte Spiritum tuum, et creabuntur.\n℟. Et renovabis faciem terrae."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Emitte Spiritum tuum, et creabuntur."
+          },
+          "r": {
+            "la": "Et renovabis faciem terrae."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nAdsit nobis, quaesumus,\nDomine, virtus Spiritus sancti,\nquae et corda nostra clementer expurget,\net ab omnibus tueatur adversis.\nPer Dominum."
+        "la": "Adsit nobis, quaesumus,\nDomine, virtus Spiritus sancti,\nquae et corda nostra clementer expurget,\net ab omnibus tueatur adversis.\nPer Dominum."
       }
     },
     {

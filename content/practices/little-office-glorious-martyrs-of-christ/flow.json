@@ -29,35 +29,55 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Regem Martyrum Dominum, venite adOremus,\n℣. Domine labia mea aperies:\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende:\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Regem Martyrum Dominum, venite adOremus,"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies:"
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende:"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Salvete Sancti Martyres,\nMarcelline et Petre:\nSalvete Christi pugiles,\nRomulides Athletae."
+                "la": "Salvete Sancti Martyres,\nMarcelline et Petre:\nSalvete Christi pugiles,\nRomulides Athletae.\n\nIlluminastis Ethnicos,\nChristi fidem serendo:\nRomae imbuistis barbaros,\nVerum Deum docendo.\n\nSit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Illuminastis Ethnicos,\nChristi fidem serendo:\nRomae imbuistis barbaros,\nVerum Deum docendo."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona (Eccles. 44)"
               }
@@ -65,26 +85,111 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sapientiam ipsorum narrent populi, et laudem eorum nuntiet Ecclesia.\n℣. In omnem terram exivit sonus eorum.\n℟. Et in fines orbis terrae verba eorum. (Psalm 18)"
+                "la": "Sapientiam ipsorum narrent populi, et laudem eorum nuntiet Ecclesia."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omnem terram exivit sonus eorum."
+                  },
+                  "r": {
+                    "la": "Et in fines orbis terrae verba eorum. (Psalm 18)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus vobiscum."
+                  },
+                  "r": {
+                    "la": "Et cum spiritu tuo."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Dominus vobiscum.\n℟. Et cum spiritu tuo."
+                "la": "Propitiare, quaesumus Domine,\nnobis famulis tuis,\nper Sanctorum Martyrum tuorum\nMarcellini et Petri\naliorumque Patronorum nostrorum merita gloriosa:\nut eorum pia intercessione,\nab omnibus protegamar adversis.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nPropitiare, quaesumus Domine,\nnobis famulis tuis,\nper Sanctorum Martyrum tuorum\nMarcellini et Petri\naliorumque Patronorum nostrorum merita gloriosa:\nut eorum pia intercessione,\nab omnibus protegamar adversis.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\nAmen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Dominus vobiscum.\n℟. Et cum spiritu tuo.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus vobiscum."
+                  },
+                  "r": {
+                    "la": "Et cum spiritu tuo."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -99,35 +204,42 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudemus viros gloriosos\net Patronos nostros in generatione sua. (Eccles. 44)\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Laudemus viros gloriosos\net Patronos nostros in generatione sua. (Eccles. 44)"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Familias vos integras\nBaptismate sacrastis:\nEt Daemonum vos copias\nSigno Crucis fugastis."
+                "la": "Familias vos integras\nBaptismate sacrastis:\nEt Daemonum vos copias\nSigno Crucis fugastis.\n\nVos ne malo consentiam,\nAh! impetrate lumen,\nAmore Dei ut ardeam,\nVos invocate Numen.\n\nSit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vos ne malo consentiam,\nAh! impetrate lumen,\nAmore Dei ut ardeam,\nVos invocate Numen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona Zach. 4"
               }
@@ -135,14 +247,60 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Hi sunt duo filii olei, qui assistunt Dominatori universae terrae.\n℣. Pretiosa in conspectu Domini. (Psalm 115)\n℟. Mors Sanctorum ejus."
+                "la": "Hi sunt duo filii olei, qui assistunt Dominatori universae terrae."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Pretiosa in conspectu Domini. (Psalm 115)"
+                  },
+                  "r": {
+                    "la": "Mors Sanctorum ejus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -157,35 +315,42 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudate Dominum in sanctis ejus:\nlaudate eum in firmamento virtutis ejus. (Psalm 150)\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Laudate Dominum in sanctis ejus:\nlaudate eum in firmamento virtutis ejus. (Psalm 150)"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Praeclara Luminaria,\nEstis poli solique:\nCeu viva exemplaria\nPlacetis vos cuique."
+                "la": "Praeclara Luminaria,\nEstis poli solique:\nCeu viva exemplaria\nPlacetis vos cuique.\n\nAh Lumen oro spargite!\nNe mens fess' opprimatur\nNe criminum caligine\nNe corpus obruatur.\n\nSit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Ah Lumen oro spargite!\nNe mens fess' opprimatur\nNe criminum caligine\nNe corpus obruatur."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona Eccles. 50"
               }
@@ -193,14 +358,60 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Quasi stella matutina in medio nebulae, et quasi sol refulgens: sic illuxerunt in templo Dei.\n℣. Qui ad justitiam erudiunt multos.\n℟. Fulgebunt quasi stellae in perpetuas aeternitates. (Dan. 2)"
+                "la": "Quasi stella matutina in medio nebulae, et quasi sol refulgens: sic illuxerunt in templo Dei."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Qui ad justitiam erudiunt multos."
+                  },
+                  "r": {
+                    "la": "Fulgebunt quasi stellae in perpetuas aeternitates. (Dan. 2)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -215,35 +426,42 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Isti viri misericordiae sunt, quorum pietates non defuerunt. (Eccles. 44)\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Isti viri misericordiae sunt, quorum pietates non defuerunt. (Eccles. 44)"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ut nocte caeli sidera\nIn axibus nitescunt,\nUt vere florum germina\nIn hortulis virescunt:"
+                "la": "Ut nocte caeli sidera\nIn axibus nitescunt,\nUt vere florum germina\nIn hortulis virescunt:\n\nSic estis ambo fulgidi,\nArdore caritatis:\nSic estis ambo lucidi,\nFulgore castitatis.\n\nSit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sic estis ambo fulgidi,\nArdore caritatis:\nSic estis ambo lucidi,\nFulgore castitatis."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona (Apoc. 7)"
               }
@@ -251,14 +469,60 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Hi sunt qui venerunt de tribulatione magna, et laverunt stolas suas in sanguine Agni: ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus.\n℣. Justorum animae in manu Dei sunt.\n℟. Et non tanget illos tormentum mortis. (Sap. 3)"
+                "la": "Hi sunt qui venerunt de tribulatione magna, et laverunt stolas suas in sanguine Agni: ideo sunt ante thronum Dei, et serviunt ei die ac nocte in templo ejus."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Justorum animae in manu Dei sunt."
+                  },
+                  "r": {
+                    "la": "Et non tanget illos tormentum mortis. (Sap. 3)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -273,35 +537,42 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Stabunt justi in magna constantia adversus eos, qui se angustiaverunt. (Sap. 5)\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Stabunt justi in magna constantia adversus eos, qui se angustiaverunt. (Sap. 5)"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Avete Christi milites,\nCaeliique Candidati:\nFuso cruore nobiles,\nAc asperis probati:"
+                "la": "Avete Christi milites,\nCaeliique Candidati:\nFuso cruore nobiles,\nAc asperis probati:\n\nRosas rubore vincitis,\nQuas Flora purpuravit;\nJudex rubore sanguinis\nSerenus vos notavit.\n\nSit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Rosas rubore vincitis,\nQuas Flora purpuravit;\nJudex rubore sanguinis\nSerenus vos notavit."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit Trinitati gloria,\nQuae Martyres coronat:\nSit laus huic per saecula,\nNam Martyres decorat.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -309,14 +580,60 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Visi sunt oculis insipientium mori, et aestimata est afflictio exitus illorum: illi autem sunt in pace. (Sap. 3)\n℣. Exultabunt sancti in gloria. (Psalm 149)\n℟. Laetabuntur in cubilibus suis."
+                "la": "Visi sunt oculis insipientium mori, et aestimata est afflictio exitus illorum: illi autem sunt in pace. (Sap. 3)"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Exultabunt sancti in gloria. (Psalm 149)"
+                  },
+                  "r": {
+                    "la": "Laetabuntur in cubilibus suis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -335,37 +652,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Vicistis enses, carceres,\nMinas, rotas, catenas,\nStramenta vitri, acinaces\nVirgasque flagris plenas:"
+                "la": "Vicistis enses, carceres,\nMinas, rotas, catenas,\nStramenta vitri, acinaces\nVirgasque flagris plenas:\n\nUt dura latus perferam,\nCor impetrate forte:\nBeatus ut sic gaudeam\nCum caelica cohorte.\n\nSit Trinitati gloria,\nEt honor et potestas,\nPer aeterna saecula,\nPer infinita vastas."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Ut dura latus perferam,\nCor impetrate forte:\nBeatus ut sic gaudeam\nCum caelica cohorte."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit Trinitati gloria,\nEt honor et potestas,\nPer aeterna saecula,\nPer infinita vastas."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona (Sap. 15)"
               }
@@ -373,14 +691,60 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "In paucis vexati in multis bene disponuntur, quoniam Deus tentavit eos, et invenit illos dignos se.\n℣. Euntes ibant et flebant mittentes semina sua. (Ps. 25)\n℟. Venientes autem venient cum exultatione."
+                "la": "In paucis vexati in multis bene disponuntur, quoniam Deus tentavit eos, et invenit illos dignos se."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Euntes ibant et flebant mittentes semina sua. (Ps. 25)"
+                  },
+                  "r": {
+                    "la": "Venientes autem venient cum exultatione."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -399,31 +763,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Vos purpuratos Pugiles,\nNunc ore praedicamus;\nEt Laureatos Martyres\nEx corde honoramus:"
+                "la": "Vos purpuratos Pugiles,\nNunc ore praedicamus;\nEt Laureatos Martyres\nEx corde honoramus:\n\nIn arduis laboribus\nAd sanguinem stetistis\nFame, siti, sudoribus,\nPericula quot subistis?"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "In arduis laboribus\nAd sanguinem stetistis\nFame, siti, sudoribus,\nPericula quot subistis?"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona (Eccles. 44)"
               }
@@ -431,14 +802,60 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Isti in generationibus gentis suae gloriam adepti sunt,\net in diebus suis habentur in laudibus.\n℣. Laetamini in Domino et exultate justi.\n℟. Et gloriamini omnes recti corde. (Ps. 31)"
+                "la": "Isti in generationibus gentis suae gloriam adepti sunt,\net in diebus suis habentur in laudibus."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Laetamini in Domino et exultate justi."
+                  },
+                  "r": {
+                    "la": "Et gloriamini omnes recti corde. (Ps. 31)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -457,37 +874,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Beata vere Civitas\nIn quam ossa portavit\nEinhardus: ejus incolas\nHis valde nam beavit."
+                "la": "Beata vere Civitas\nIn quam ossa portavit\nEinhardus: ejus incolas\nHis valde nam beavit.\n\nStupent Nepotum saecula\nMiracula, quae patrastis:\nEt gratiarum flumina\nQuaeis Patriam rigastis.\n\nSit Trinitati gloria,\nEt honor et potestas,\nPer aeterna saecula,\nPer infinita vastas."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Stupent Nepotum saecula\nMiracula, quae patrastis:\nEt gratiarum flumina\nQuaeis Patriam rigastis."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit Trinitati gloria,\nEt honor et potestas,\nPer aeterna saecula,\nPer infinita vastas."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona (Apoc. 21)"
               }
@@ -495,14 +913,60 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Vidi Civitatem sanctam, habentem claritatem Dei vivi:\net Civitas non eget Sole neque Luna;\net Reges terrae afferent gloriam suam et honorem in illam.\n℣. Dominus custodiat ossa eorum.\n℟. Unum ex his non conteretur. (Ps. 33)"
+                "la": "Vidi Civitatem sanctam, habentem claritatem Dei vivi:\net Civitas non eget Sole neque Luna;\net Reges terrae afferent gloriam suam et honorem in illam."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus custodiat ossa eorum."
+                  },
+                  "r": {
+                    "la": "Unum ex his non conteretur. (Ps. 33)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         }

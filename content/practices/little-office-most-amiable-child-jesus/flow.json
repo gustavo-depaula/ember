@@ -26,39 +26,66 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Mea o Domine labia pandas,\n℟. Tuas ad laudes digne cantandas."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Mea o Domine labia pandas,"
+                  },
+                  "r": {
+                    "la": "Tuas ad laudes digne cantandas."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Meas ad preces te Deus inclina,"
+                  },
+                  "r": {
+                    "la": "Et ope mihi succurre divina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Jesu puer dulcissime,\nter millies ave to:\ncor moerens tu suavissime\nunguento mulces lato:\nqui amat te, prosentitur\ndulcedinum in mare;\ntuus dum amor cernitur,\nquis nollet te amare?\nqui meum te fraterculum\nnasci fecit pauperculum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Qui Deus erat in principio,\n℟. Et factus par mancipio."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Qui Deus erat in principio,"
+                  },
+                  "r": {
+                    "la": "Et factus par mancipio."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nO Deus, cujus tam fortis amor est, ut te parvum fieri infantulum compulerit, tanti nobis tui amoris cognitionem concede, ut ad reciprocum amorem animati, te aeternum amare, laudare, et benedicere valeamus.\nAmen."
+                "la": "O Deus, cujus tam fortis amor est, ut te parvum fieri infantulum compulerit, tanti nobis tui amoris cognitionem concede, ut ad reciprocum amorem animati, te aeternum amare, laudare, et benedicere valeamus.\nAmen."
               }
             }
           ]
@@ -72,28 +99,42 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Meas ad preces te Deus inclina,"
+                  },
+                  "r": {
+                    "la": "Et ope mihi succurre divina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Deus ingens infantulum\ninduere volebat,\nparvum, tenellum, blandulum\nse terris exhibebat:\nut cunctis sic amabilis\nforet, praesertim reis,\nnon esset formidabilis,\nculpas indulgens eis:\nridens blande nos aspicit\nsuavi nos spe sic afficit."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Infans, Deus peccator te\n℟. Ade funibus trahit ad se."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Infans, Deus peccator te"
+                  },
+                  "r": {
+                    "la": "Ade funibus trahit ad se."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -112,28 +153,42 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Meas ad preces te Deus inclina,"
+                  },
+                  "r": {
+                    "la": "Et ope mihi succurre divina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Puer in quo mirifice\ndivinitas se celat,\nformae tamen deificae\nvenustas te revelat:\nlucis divinae radius\nex oculis dimanat,\ncor meum velut gladius\namoris ictu tranat:\namore quis det moriari,\nhac morte caelis oriar!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Natum amemus Dominum\n℟. Decorum pra natis hominum."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Natum amemus Dominum"
+                  },
+                  "r": {
+                    "la": "Decorum pra natis hominum."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -152,28 +207,42 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Meas ad preces te Deus inclina,"
+                  },
+                  "r": {
+                    "la": "Et ope mihi succurre divina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Fleo puer ac rideo,\nridens cogor plorare\ntuisdum stellas video\nin oculis micare:\ncandor ostrum eximitum\nrosarum genis nectit,\nac lux corusca nivium\nse artubus implectit:\nauro dant crispo splendicant\ncrines, cor sibi vindicant."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Quia ergo tam suavis es,\n℟. Praecunctis charus favis es."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Quia ergo tam suavis es,"
+                  },
+                  "r": {
+                    "la": "Praecunctis charus favis es."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -192,28 +261,42 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Meas ad preces te Deus inclina,"
+                  },
+                  "r": {
+                    "la": "Et ope mihi succurre divina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Dum lachrymis tam bellulos\naspicio natare\ntuos Jesu ocellulos,\nqueis culpas vis lavare:\nlatis cor meum gestibus\nexultans tenerescit,\net sic amoris aestibus\nut cera colliquescit:\namorem hunc perpendere,\ncor suum est accendere."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Deus, dum flet ut pusio,\n℟. Amoris est effusio."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, dum flet ut pusio,"
+                  },
+                  "r": {
+                    "la": "Amoris est effusio."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -232,28 +315,42 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Meas ad preces te Deus inclina,"
+                  },
+                  "r": {
+                    "la": "Et ope mihi succurre divina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Saepe cor meum angitur,\nsua volvens delicta.\nVix non desperans frangitur,\nmens metu jacet icta:\nsed dum infantis cogito\nmei blandum amorem,\ndimitti culpas, rogito\nexutiens timorem.\nA se me non projiciet,\npropitius aspiciet."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nolo mortem peccatoris,\n℟. Infans inquit, fons amoris."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nolo mortem peccatoris,"
+                  },
+                  "r": {
+                    "la": "Infans inquit, fons amoris."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -272,34 +369,55 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Converte nos o puer chare,\n℟. Ut sic possimus te amare."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos o puer chare,"
+                  },
+                  "r": {
+                    "la": "Ut sic possimus te amare."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Meas ad preces te Deus inclina,\n℟. Et ope mihi succurre divina."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Meas ad preces te Deus inclina,"
+                  },
+                  "r": {
+                    "la": "Et ope mihi succurre divina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Dum frigore constringeris,\nqui ignis es divinus:\ntotus rigore cingeris,\nmeos veni in sinus.\nCor meum ardens flammulis\namoris te fovebit,\na tuis nunquam famulis\nme ullus dimovebit:\ntenebo, nec dimittam te,\ndonec mors advocabit me."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Versans in terra finibus,\n℟. Est lubens cum hominibus."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Versans in terra finibus,"
+                  },
+                  "r": {
+                    "la": "Est lubens cum hominibus."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",

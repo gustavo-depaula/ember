@@ -19,21 +19,41 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. O Holy Banquet,\n℟. in which Christ is received, the memory of his passion is renewed, the soul is filled with grace, and there is given to us a pledge of future glory. (Alleluia)"
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Holy Banquet,"
+          },
+          "r": {
+            "en-US": "in which Christ is received, the memory of his passion is renewed, the soul is filled with grace, and there is given to us a pledge of future glory. (Alleluia)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "You have given them bread from heaven (Alleluia)"
+          },
+          "r": {
+            "en-US": "Having all sweetness within it (Alleluia)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "℣. You have given them bread from heaven (Alleluia)\n℟. Having all sweetness within it (Alleluia)"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Let us pray,\nO God, who in this wonderful sacrament left us a memorial of your passion, grant, we implore you, that we may so venerate the sacred mystery of your body and blood as always to experience the fruits of your redemption. You who live and reign forever and ever."
+        "en-US": "O God, who in this wonderful sacrament left us a memorial of your passion, grant, we implore you, that we may so venerate the sacred mystery of your body and blood as always to experience the fruits of your redemption. You who live and reign forever and ever."
       }
     },
     {
@@ -67,7 +87,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Prayer for the Good of our Community"
       }
@@ -115,13 +135,20 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. Let us pray for all the brothers, sisters, parents, relatives and benefactors of our community, living and deceased.\n℟. Grant, Lord God, the reward of eternal life, to all who have been good to us in your name."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Let us pray for all the brothers, sisters, parents, relatives and benefactors of our community, living and deceased."
+          },
+          "r": {
+            "en-US": "Grant, Lord God, the reward of eternal life, to all who have been good to us in your name."
+          }
+        }
+      ]
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm 123 – Our Trust is in the Lord"
       }
@@ -133,9 +160,22 @@
       }
     },
     {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Lord, have mercy"
+          },
+          "r": {
+            "en-US": "Christ, have mercy"
+          }
+        }
+      ]
+    },
+    {
       "type": "prayer",
       "inline": {
-        "en-US": "℣. Lord, have mercy\n℟. Christ, have mercy\n℣. Lord, have mercy"
+        "en-US": "Lord, have mercy"
       }
     },
     {
@@ -145,15 +185,100 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. O Lord, save Your servants,\n℟. O Lord, we trust in You.\n℣. O Lord, send us help from Your holy sanctuary,\n℟. And strengthen us out of Zion.\n℣. Be for us, O Lord, a tower of strength,\n℟. Protect us from all harm.\n℣. Do not let our enemies overcome us,\n℟. Nor the son of iniquity have power to harm us.\n℣. May the name of the Lord be praised\n℟. And may He guide us on the way of salvation.\n℣. Show us, O Lord, Your paths,\n℟. And direct our hearts to keep Your precepts.\n℣. O Lord hear my prayer\n℟. And let my cry come unto You."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Lord, save Your servants,"
+          },
+          "r": {
+            "en-US": "O Lord, we trust in You."
+          }
+        }
+      ]
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Let us pray,"
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Lord, send us help from Your holy sanctuary,"
+          },
+          "r": {
+            "en-US": "And strengthen us out of Zion."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Be for us, O Lord, a tower of strength,"
+          },
+          "r": {
+            "en-US": "Protect us from all harm."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Do not let our enemies overcome us,"
+          },
+          "r": {
+            "en-US": "Nor the son of iniquity have power to harm us."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "May the name of the Lord be praised"
+          },
+          "r": {
+            "en-US": "And may He guide us on the way of salvation."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Show us, O Lord, Your paths,"
+          },
+          "r": {
+            "en-US": "And direct our hearts to keep Your precepts."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Lord hear my prayer"
+          },
+          "r": {
+            "en-US": "And let my cry come unto You."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray."
       }
     },
     {
@@ -199,7 +324,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm 130 – A Cry from the Depths"
       }
@@ -217,9 +342,35 @@
       }
     },
     {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Eternal rest grant unto them, O Lord."
+          },
+          "r": {
+            "en-US": "And let perpetual light shine upon them."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Lord have mercy"
+          },
+          "r": {
+            "en-US": "Christ have mercy"
+          }
+        }
+      ]
+    },
+    {
       "type": "prayer",
       "inline": {
-        "en-US": "℣. Eternal rest grant unto them, O Lord.\n℟. And let perpetual light shine upon them.\n℣. Lord have mercy\n℟. Christ have mercy\n℣. Lord have mercy"
+        "en-US": "Lord have mercy"
       }
     },
     {
@@ -229,15 +380,67 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. And lead us not into temptation\n℟. But deliver us from evil.\n℣. From the gates of hell\n℟. Deliver their souls, O Lord.\n℣. May they rest in peace.\n℟. Amen.\n℣. O Lord hear my prayer\n℟. And let my cry come unto you."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "And lead us not into temptation"
+          },
+          "r": {
+            "en-US": "But deliver us from evil."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "From the gates of hell"
+          },
+          "r": {
+            "en-US": "Deliver their souls, O Lord."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "May they rest in peace."
+          },
+          "r": {
+            "en-US": "Amen."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Lord hear my prayer"
+          },
+          "r": {
+            "en-US": "And let my cry come unto you."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Let us pray,\nGod, our Father, you grant pardon from sin and will the salvation of everyone. We beg you to be merciful and grant that all the deceased priests, brothers, sisters, relatives and benefactors of our community may come to eternal happiness through the intercession of the Blessed Virgin Mary and all your saints."
+        "en-US": "God, our Father, you grant pardon from sin and will the salvation of everyone. We beg you to be merciful and grant that all the deceased priests, brothers, sisters, relatives and benefactors of our community may come to eternal happiness through the intercession of the Blessed Virgin Mary and all your saints."
       }
     },
     {
@@ -253,28 +456,49 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. We praise the Lord our God who has brought us together to rejoice in the Spirit.\n℟. May we always be humble of heart and place our joy in the Lord. Let us not be carried away by any material success, but rather acknowledge that true happiness will be ours only when the things of this life have passed away."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "We praise the Lord our God who has brought us together to rejoice in the Spirit."
+          },
+          "r": {
+            "en-US": "May we always be humble of heart and place our joy in the Lord. Let us not be carried away by any material success, but rather acknowledge that true happiness will be ours only when the things of this life have passed away."
+          }
+        }
+      ]
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Hail Queen of Heaven – A Prayer for Protection"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. Hail, Queen of Heaven\n℟. Mother of the King of Angels, O Mary, flower of virgins, Like a Rose or Lily, Pour out prayers to your Son, For the salvation of the faithful."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Hail, Queen of Heaven"
+          },
+          "r": {
+            "en-US": "Mother of the King of Angels, O Mary, flower of virgins, Like a Rose or Lily, Pour out prayers to your Son, For the salvation of the faithful."
+          }
+        }
+      ]
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. Pray for us O holy Virgin of virgins,\n℟. That we may be made worthy of the promises of Christ."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Pray for us O holy Virgin of virgins,"
+          },
+          "r": {
+            "en-US": "That we may be made worthy of the promises of Christ."
+          }
+        }
+      ]
     },
     {
       "type": "prayer",
@@ -283,7 +507,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Prayer in Honour of S. Joseph"
       }
@@ -295,7 +519,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Prayer in Honour of S. Augustine"
       }
@@ -313,10 +537,17 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "℣. We adore you O Christ and we praise you\n℟. Because by your Holy Cross you have redeemed the world."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "We adore you O Christ and we praise you"
+          },
+          "r": {
+            "en-US": "Because by your Holy Cross you have redeemed the world."
+          }
+        }
+      ]
     },
     {
       "type": "prayer",

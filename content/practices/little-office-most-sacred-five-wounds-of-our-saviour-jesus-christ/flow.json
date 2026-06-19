@@ -26,10 +26,43 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium, etc.\n℟. Domine ad adjuvandum, etc.\n℣. Gloria Patri, etc.\n℟. Sicut erat, etc. Alleluja."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum, etc."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, etc."
+                  },
+                  "r": {
+                    "la": "Sicut erat, etc. Alleluja."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -38,37 +71,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Avete sacra Vulnera,\nIn carne Christi fulgida,\nNostrae salutis inclita\nJam restitutae pignora."
+                "la": "Avete sacra Vulnera,\nIn carne Christi fulgida,\nNostrae salutis inclita\nJam restitutae pignora.\n\nManus ave te sauciae,\nPedesque tincti sanguine,\nDiro pendentes stipite,\nTransfixi clavi cuspide.\n\nAveto Latus roseum,\nTam late patens ostium\nAmanti Domicilium,\nErranti Diversorium.\n\nLaus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Pretia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Manus ave te sauciae,\nPedesque tincti sanguine,\nDiro pendentes stipite,\nTransfixi clavi cuspide."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Aveto Latus roseum,\nTam late patens ostium\nAmanti Domicilium,\nErranti Diversorium."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Laus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Pretia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -80,16 +95,42 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Foderunt manus meas et pedes meos:\n℟. Et unus militum lancea Latus meum aperuit."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Foderunt manus meas et pedes meos:"
+                  },
+                  "r": {
+                    "la": "Et unus militum lancea Latus meum aperuit."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi, qui ad aeterna redemptionis nostrae, et charitatis tuae monumenta, quinque Vulnerum Cicatrices in glorioso tuo Corpore retinere, easque post resurrectionem tuam discipulis tuis videndas et palpandas offerre voluisti: Concede, quaesumus, ut his fidei luminibus cum Thoma Apostolo illustrati, in divinae Benignitatis tuae oceano penitus absorbeamur, usque dum Majestatis tuae, et sacratissimorum Vulnerum tuorum Gloriam in coelo perenniter contemplaturi assumamur. Qui vivis et regnas cum Deo Patre, in unitate Spiritus sancti Deus, per, etc.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+                "la": "Domine Jesu Christe, Fili Dei vivi, qui ad aeterna redemptionis nostrae, et charitatis tuae monumenta, quinque Vulnerum Cicatrices in glorioso tuo Corpore retinere, easque post resurrectionem tuam discipulis tuis videndas et palpandas offerre voluisti: Concede, quaesumus, ut his fidei luminibus cum Thoma Apostolo illustrati, in divinae Benignitatis tuae oceano penitus absorbeamur, usque dum Majestatis tuae, et sacratissimorum Vulnerum tuorum Gloriam in coelo perenniter contemplaturi assumamur. Qui vivis et regnas cum Deo Patre, in unitate Spiritus sancti Deus, per, etc."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -102,37 +143,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine, etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine, etc.\n℣. Gloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Hic scatet fons viventibus,\nExuberans liquoribus,\nQuinque decurrens amnibus\nDe totidem canalibus."
+                "la": "Hic scatet fons viventibus,\nExuberans liquoribus,\nQuinque decurrens amnibus\nDe totidem canalibus.\n\nHuc sine nummis pauperes,\nHuc properate divites,\nHuc sitientes animae,\nQuas urit amor, bibite.\n\nLaus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta vulnera,\nMagnae salutis Pretia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Huc sine nummis pauperes,\nHuc properate divites,\nHuc sitientes animae,\nQuas urit amor, bibite."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Laus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta vulnera,\nMagnae salutis Pretia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -144,21 +186,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Haurietis aquas in gaudio de fontibus Salvatoris.\n℟. Qui factus est vobis in salutem."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Haurietis aquas in gaudio de fontibus Salvatoris."
+                  },
+                  "r": {
+                    "la": "Qui factus est vobis in salutem."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe Fili Dei vivi, qui in cruce aperuisti nobis quinque fontes gratiarum, sicut aquarum viventium, quae fluunt impetu de Libano: Concede, ut extincta siti carnalis concupiscentiae, aestuque mundanae delictionis, in te solo sitiat anima nostra, et desideret ad has nobilissimas misericordiae tuae Venas, sicut cervus ad fontes aquarum: ut hauriamus vitam et salutem a te Jesu Salvatore nostro. Qui vivis et regnas, etc."
+                "la": "Domine Jesu Christe Fili Dei vivi, qui in cruce aperuisti nobis quinque fontes gratiarum, sicut aquarum viventium, quae fluunt impetu de Libano: Concede, ut extincta siti carnalis concupiscentiae, aestuque mundanae delictionis, in te solo sitiat anima nostra, et desideret ad has nobilissimas misericordiae tuae Venas, sicut cervus ad fontes aquarum: ut hauriamus vitam et salutem a te Jesu Salvatore nostro. Qui vivis et regnas, etc."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Fidelium animae, etc."
+                "la": "Fidelium animae, etc."
               }
             }
           ]
@@ -172,37 +227,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine, etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine, etc.\n℣. Gloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Hic Botrus, haec orantia\nTerrae promissae munera,\nSub prelo crucis placida\nDesudat vini flumina."
+                "la": "Hic Botrus, haec orantia\nTerrae promissae munera,\nSub prelo crucis placida\nDesudat vini flumina.\n\nSapore quae dulcedinis,\nLaetificant cor hominis.\nCor levant ex angustiis,\nMirisque mulcent gaudiis.\n\nLaus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Pretia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sapore quae dulcedinis,\nLaetificant cor hominis.\nCor levant ex angustiis,\nMirisque mulcent gaudiis."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Laus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Pretia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -214,21 +270,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Leo de tribu Juda lavit in vino Stolam suam.\n℟. Et in sanguine uvae pallium suum."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Leo de tribu Juda lavit in vino Stolam suam."
+                  },
+                  "r": {
+                    "la": "Et in sanguine uvae pallium suum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe Fili Dei vivi, qui de corpore tuo quinque pretiosissimi sanguinis flumina in remissionem peccatorum effudisti, quando in cruce torcular solus calcasti: Te humiliter deprecamur, reconcilia nos Deo in sanguine tuo quos tam copiose redemisti, et pota nos torrente hujus dulcedinis, ut ardentissima tui charitate inebriati portemus semper in corde nostro tua sacratissima amoris stigmata, unde pietate, gratia et justitia repleamur. Qui vivis et regnas, etc."
+                "la": "Domine Jesu Christe Fili Dei vivi, qui de corpore tuo quinque pretiosissimi sanguinis flumina in remissionem peccatorum effudisti, quando in cruce torcular solus calcasti: Te humiliter deprecamur, reconcilia nos Deo in sanguine tuo quos tam copiose redemisti, et pota nos torrente hujus dulcedinis, ut ardentissima tui charitate inebriati portemus semper in corde nostro tua sacratissima amoris stigmata, unde pietate, gratia et justitia repleamur. Qui vivis et regnas, etc."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Fidelium animae, etc."
+                "la": "Fidelium animae, etc."
               }
             }
           ]
@@ -242,37 +311,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine, etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine, etc.\n℣. Gloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Hic castrum non vincibile,\nDavidis Turri simile,\nAc hostibus terribile,\nHuc fugiens te recipe."
+                "la": "Hic castrum non vincibile,\nDavidis Turri simile,\nAc hostibus terribile,\nHuc fugiens te recipe.\n\nSunt quinque propugnacula,\nFidelium refugia,\nSecura diversoria,\nTutissima Praesidia.\n\nLaus tibi sit et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Pretia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sunt quinque propugnacula,\nFidelium refugia,\nSecura diversoria,\nTutissima Praesidia."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Laus tibi sit et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Pretia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -284,21 +354,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Videte manus meas, et pedes meos,\n℟. Ego sum, nolite timere."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Videte manus meas, et pedes meos,"
+                  },
+                  "r": {
+                    "la": "Ego sum, nolite timere."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe Fili Dei vivi, qui nobis in sacratissimis tuis Vulneribus, in omni tribulatione et angustia tutum asylum, et singulare praesidium benignissime praeparasti: Libera nos, quaesumus, a vinculis iniquitatum, propter quas vulneratus es: et in omnibus mentis, corporis quae periculis abscondé nos intra tua Vulnera, ut non timeat cor nostrum, quoniam facta sunt illa nobis Turris fortitudinis a facie inimici. Qui vivis et regnas cum Deo Patre, etc."
+                "la": "Domine Jesu Christe Fili Dei vivi, qui nobis in sacratissimis tuis Vulneribus, in omni tribulatione et angustia tutum asylum, et singulare praesidium benignissime praeparasti: Libera nos, quaesumus, a vinculis iniquitatum, propter quas vulneratus es: et in omnibus mentis, corporis quae periculis abscondé nos intra tua Vulnera, ut non timeat cor nostrum, quoniam facta sunt illa nobis Turris fortitudinis a facie inimici. Qui vivis et regnas cum Deo Patre, etc."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Fidelium animae, etc."
+                "la": "Fidelium animae, etc."
               }
             }
           ]
@@ -312,37 +395,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine, etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine, etc.\n℣. Gloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Hic arbor vitae tenera\nDistendit quinque folia,\nEt umbrae suae suavia\nLargitur refrigeria."
+                "la": "Hic arbor vitae tenera\nDistendit quinque folia,\nEt umbrae suae suavia\nLargitur refrigeria.\n\nNon urit hic sol radiis,\nAut serpens mortis spiculis,\nTot tutus es umbraculis,\nQuot arbor haec stat foliis.\n\nLaus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Praetia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Non urit hic sol radiis,\nAut serpens mortis spiculis,\nTot tutus es umbraculis,\nQuot arbor haec stat foliis."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Laus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Praetia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -354,21 +438,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sub umbra alarum tuarum protege me, Domine.\n℟. A facie impiorum, qui me afflixerunt."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sub umbra alarum tuarum protege me, Domine."
+                  },
+                  "r": {
+                    "la": "A facie impiorum, qui me afflixerunt."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe Fili Dei vivi, qui afflictos, et ad sacra Vulnera tua confugientes umbra consolationis reficis, et in sinu dulcissimi cordis tui, ad quod per lanceam nobis aditus patefactus est, placide requiescere facis: Largire nobis, ut miseriarum et tentationum aestibus fatigati in sanctissimis Vulneribus tuis quietem ac refrigerium inveniamus, et sub hac umbra sedentes a nullo malorum incursu perturbemur, nec a te separari valeamus. Qui vivis, et regnas, etc."
+                "la": "Domine Jesu Christe Fili Dei vivi, qui afflictos, et ad sacra Vulnera tua confugientes umbra consolationis reficis, et in sinu dulcissimi cordis tui, ad quod per lanceam nobis aditus patefactus est, placide requiescere facis: Largire nobis, ut miseriarum et tentationum aestibus fatigati in sanctissimis Vulneribus tuis quietem ac refrigerium inveniamus, et sub hac umbra sedentes a nullo malorum incursu perturbemur, nec a te separari valeamus. Qui vivis, et regnas, etc."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Fidelium animae, etc."
+                "la": "Fidelium animae, etc."
               }
             }
           ]
@@ -382,37 +479,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine, etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine, etc.\n℣. Gloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Haec signa caelis intulit\nChristus, dum viam finivit.\nPatri suo proposuit,\nPaccémque mundo reddidit."
+                "la": "Haec signa caelis intulit\nChristus, dum viam finivit.\nPatri suo proposuit,\nPaccémque mundo reddidit.\n\nPer ista Victor Vulnera,\nMagna potitur gloria,\nHonoris sunt insignia,\nNobilitatis Symbola.\n\nLaus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Praetia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Per ista Victor Vulnera,\nMagna potitur gloria,\nHonoris sunt insignia,\nNobilitatis Symbola."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Laus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Praetia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -424,21 +522,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Praevenisti eos Domine in benedictionibus.\n℟. Qui humanae salutis signacula assidue venerantur."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Praevenisti eos Domine in benedictionibus."
+                  },
+                  "r": {
+                    "la": "Qui humanae salutis signacula assidue venerantur."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe Fili Dei vivi, qui per proprium sanguinem introivisti in sancta sanctorum, et sedes ad dexteram Dei Patris interpellans pro nobis: Pateant, obsecro, in ejus conspectu Vulnera tua, ut delitescant scelera nostra, et qui factus es Advocatus noster apud Patrem, non obliviscaris servorum in te sperantium, quorum memoriam manibus, pedibus, et lateri tuo tam pretiose insculptam geris. Qui vivis et regnas, etc."
+                "la": "Domine Jesu Christe Fili Dei vivi, qui per proprium sanguinem introivisti in sancta sanctorum, et sedes ad dexteram Dei Patris interpellans pro nobis: Pateant, obsecro, in ejus conspectu Vulnera tua, ut delitescant scelera nostra, et qui factus es Advocatus noster apud Patrem, non obliviscaris servorum in te sperantium, quorum memoriam manibus, pedibus, et lateri tuo tam pretiose insculptam geris. Qui vivis et regnas, etc."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Fidelium animae, etc."
+                "la": "Fidelium animae, etc."
               }
             }
           ]
@@ -452,37 +563,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum, etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium, etc.\n℟. Domine ad adjuvandum, etc.\n℣. Gloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O Sacra Jesu Stigmata\nFirmate nos in gratia,\nDum Judicis sententia\nPartitur justis praemia."
+                "la": "O Sacra Jesu Stigmata\nFirmate nos in gratia,\nDum Judicis sententia\nPartitur justis praemia.\n\nVestras tunc alas pandite,\nIn sinum nos recipite,\nEt nos indignos, gloriae\nCapaces vestrae reddite.\n\nLaus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Praetia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vestras tunc alas pandite,\nIn sinum nos recipite,\nEt nos indignos, gloriae\nCapaces vestrae reddite."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Laus tibi sit, et Gloria,\nRex Christe pro victoria,\nPer sacra parta Vulnera,\nMagnae salutis Praetia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -494,21 +619,34 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Signa Vulnerum suorum monstrabit Dominus.\n℟. Cum judicabit vivos et mortuos, et saeculum per ignem."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Signa Vulnerum suorum monstrabit Dominus."
+                  },
+                  "r": {
+                    "la": "Cum judicabit vivos et mortuos, et saeculum per ignem."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe Fili Dei vivi, qui venturus es in gloria et majestate tua, cum splendore magno quinque Vulnerum tuorum, et judicaturus orbem terrae in aequitate, et populos in justitia: Fac benigne Domine, ut nunc sperent in te, qui noverunt nomen tuum, et coluerunt haec sacrosancta stigmata tua, quorum meritis ad Dextram tuam audire mereantur, venite Benedicti. Qui vivis et regnas, etc."
+                "la": "Domine Jesu Christe Fili Dei vivi, qui venturus es in gloria et majestate tua, cum splendore magno quinque Vulnerum tuorum, et judicaturus orbem terrae in aequitate, et populos in justitia: Fac benigne Domine, ut nunc sperent in te, qui noverunt nomen tuum, et coluerunt haec sacrosancta stigmata tua, quorum meritis ad Dextram tuam audire mereantur, venite Benedicti. Qui vivis et regnas, etc."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Fidelium animae, etc."
+                "la": "Fidelium animae, etc."
               }
             }
           ]
@@ -528,13 +666,20 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Omnis terra adoret te, et psallat tibi.\n℟. Psalmum dicat sacris Vulneribus tuis, Domine."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Omnis terra adoret te, et psallat tibi."
+          },
+          "r": {
+            "la": "Psalmum dicat sacris Vulneribus tuis, Domine."
+          }
+        }
+      ]
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio S. Francisci Xaverii"
       }
