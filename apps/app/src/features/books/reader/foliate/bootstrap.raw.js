@@ -467,6 +467,15 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       // navigate + push a back-stack entry.
       const a = ev.target && ev.target.closest && ev.target.closest('a');
       if (a) {
+        // Cross-book references (e.g. the Compendium → full Catechism) carry a
+        // data-ref like "book/ccc#1-25" instead of an href.
+        const dataRef = a.getAttribute('data-ref');
+        if (dataRef) {
+          ev.preventDefault();
+          ev.stopImmediatePropagation();
+          post({ type: 'crossRefTap', ref: dataRef });
+          return;
+        }
         const href = a.getAttribute('href') || '';
         if (href.startsWith('#')) {
           const target = doc.getElementById(href.slice(1));

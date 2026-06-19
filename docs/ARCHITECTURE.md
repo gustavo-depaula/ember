@@ -17,7 +17,7 @@
 | Fonts | expo-font | Custom typefaces (UnifrakturMaguntia, Cinzel, EB Garamond, Pinyon Script) via @expo-google-fonts + bundled TTF |
 | Dates | date-fns | Lightweight, tree-shakeable, no Moment.js bloat |
 | Bible text | Bundled JSON + Bolls.life API | Douay-Rheims offline, NABRE/RSV online with caching |
-| Catechism | Fetched at deploy | From `nossbigg/catechism-ccc-json`, processed during Hearth build |
+| Catechism + Compendium | External books, scraped live | From vatican.va via `apps/app/src/sources/ccc/`; read with the book reader, cached per-device |
 | Liturgical texts | Bundled JSON | Parsed from `divinumofficium/divinum-officium` (MIT) |
 | Content engine | `@ember/content-engine` | Practice-agnostic flow resolution — turns declarative JSON into renderable sections |
 
@@ -107,7 +107,6 @@ https://ember.dpgu.me/hearth/v2/
 ├── catalog.json                          # ~500KB, every item with its manifest hash
 ├── blobs/{ab}/{cd}/{full-sha256}         # Immutable content-addressed blobs
 ├── bible/drb/                            # Douay-Rheims (74 JSON files, served as-is)
-├── catechism/ccc.json                    # CCC (fetched at build time)
 ├── propers/                              # EF Mass propers (DivOff source data)
 └── saints/                               # Saint images (PNG + WebP)
 ```
@@ -229,7 +228,6 @@ ember/
     book.css                          (base stylesheet for all book rendering)
     bible/drb/                        (Douay-Rheims JSON, 73 books + index)
     propers/                          (EF Mass propers — tempora + sancti)
-    catechism/                        (CCC JSON — generated at deploy, not committed)
     saints/                           (saint PNG images)
   apps/
     app/                              (Expo app — iOS/Android/web)
@@ -243,7 +241,6 @@ ember/
           calendar/                   (liturgical calendar views)
           saints/                     (saints cards + data)
           bible/                      (Bible reader)
-          catechism/                  (Catechism reader)
           divine-office/              (cursor management, psalm loading)
         components/                   (shared UI components)
         stores/                       (Zustand stores)
@@ -261,7 +258,7 @@ ember/
           mass-propers/               (re-exports @ember/mass-propers + hook + propers-data)
           i18n/
           hearth.ts                   (Hearth fetch + SQLite cache client)
-          bolls.ts, content.ts, catechism.ts, lectio.ts
+          bolls.ts, content.ts, lectio.ts
         config/                       (tamagui, tokens, themes, fonts)
       assets/                         (textures, fonts)
   packages/

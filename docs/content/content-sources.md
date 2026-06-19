@@ -6,7 +6,7 @@
 |---------|--------|---------|--------|----------|
 | Bible (Douay-Rheims) | `xxruyle/Bible-DouayRheims` (GitHub) | MIT / Public Domain | JSON | Yes (bundled) |
 | Bible (NABRE, RSV) | Bolls.life API | Free, no auth | REST API | Cached after first fetch |
-| Catechism (CCC) | `nossbigg/catechism-ccc-json` (GitHub) | Scraped from Vatican | JSON | Fetched at deploy time |
+| Catechism (CCC) + Compendium | vatican.va (scraped live) | © Libreria Editrice Vaticana | HTML → reader HTML | External books; cached per-device on first open |
 | Psalter & Hymns | `divinumofficium/divinum-officium` (GitHub) | MIT | Custom text -> JSON | Yes (bundled) |
 | EF Mass Propers | Divinum Officium (bundled) | MIT | Bundled JSON | Yes (bundled) |
 | OF Mass Propers | `ember-extra` (vendored) | See repo | Bundled JSON | Yes (bundled) |
@@ -92,16 +92,34 @@ GET /v2/find/{translation}?search={term}
 
 ## Catechism of the Catholic Church
 
-### Source: `nossbigg/catechism-ccc-json`
+### Source: vatican.va (scraped live, like the Compendium)
 
-- **GitHub:** `github.com/nossbigg/catechism-ccc-json`
-- **Format:** JSON, organized by paragraphs with section hierarchy
-- **Content:** Complete CCC (~2,865 paragraphs)
-- **Scraped from:** vatican.va/archive/ENG0015/_INDEX.HTM
+Both the full Catechism and its Compendium are **external books** (`book/ccc`,
+`book/compendium`) — registered in the catalog at runtime and read with the
+standard book reader, but scraped on demand from vatican.va rather than stored
+in Hearth (the same model as the Escrivá books). There is no `ccc.json`.
 
-**Alternative:** `aseemsavio/catholicism-in-json` — also includes Canon Law and GIRM, but flatter structure (array of `{id, text}` objects).
+- **Full CCC, English:** `vatican.va/archive/ENG0015/` — paginated IntraText
+  pages (`__P*.HTM`, ~374 pages, ~9 numbered paragraphs each), chained by "Next"
+  links. The page boundaries don't align to chapters, so paragraph→page mapping
+  is precomputed once into `apps/app/src/sources/ccc/en-pages.json` (regenerate
+  with `scripts/build-ccc-en-index.mjs`). The text is frozen (dated 2003).
+- **Full CCC, Portuguese:** `vatican.va/archive/cathechism_po/` — one clean page
+  per chapter, paragraph range encoded in the filename (`p1s1c1_26-49_po.html`).
+  No crawl needed.
+- **Compendium (598 Q&A), en + pt:** single page per language (see
+  `apps/app/src/sources/ccc-compendium/`). Cross-references in the answers link
+  to `book/ccc#<range>` and resolve via the book reader's `data-ref` handler.
 
-**Recommendation:** Use `nossbigg/catechism-ccc-json` for better structural organization (section/chapter hierarchy maps well to the office reading flow).
+The scraper modules live in `apps/app/src/sources/ccc/` (HTML → reader HTML, with
+all non-paragraph text preserved: headings, the Prologue, IN BRIEF summaries,
+scripture quotes; numbered paragraphs get `id="ccc-N"` anchors). The shared
+canonical TOC (4 parts → sections → 27 chapter leaves, §1–2865 contiguous) is in
+`structure.ts`. Chapter HTML is cached per-device in SQLite (`external_content`).
+
+The daily office / Bible-in-a-year readings still reference `producer/ccc-chapter`
+(unchanged), which now extracts paragraph ranges from the same scraper (bilingual)
+instead of `ccc.json` (which was English-only).
 
 **Reading pace:** 2,865 paragraphs / 365 days = ~7.8 paragraphs per Compline reading.
 

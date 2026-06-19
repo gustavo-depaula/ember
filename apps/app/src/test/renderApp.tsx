@@ -31,7 +31,6 @@ import { seedCursors, seedPractices } from '@/db/seed'
 import { resetForTests, type TestFixtures } from '@/db/test-fixtures'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useBibleStore } from '@/stores/bibleStore'
-import { useCatechismStore } from '@/stores/catechismStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { clearRoutes, RouterOutlet, registerRoute, resetRouter } from './router-fake'
 import { openDatabaseAsync, resetAllTestDbs } from './sqlite-better'
@@ -51,7 +50,6 @@ async function bootOnce() {
   await Promise.all([
     usePreferencesStore.getState().hydrate(),
     useBibleStore.getState().hydrate(),
-    useCatechismStore.getState().hydrate(),
   ])
 
   registerDataSources()

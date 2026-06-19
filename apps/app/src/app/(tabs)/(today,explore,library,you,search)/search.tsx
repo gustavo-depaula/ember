@@ -102,7 +102,12 @@ export default function SearchScreen() {
   ]
 
   const studyTiles: ShortcutTileData[] = [
-    { key: 'catechism', title: t('catechism.title'), icon: BookMarked, href: '/catechism' },
+    {
+      key: 'catechism',
+      title: t('catechism.title'),
+      icon: BookMarked,
+      href: { pathname: '/browse/book/[bookId]/read', params: { bookId: 'ccc' } },
+    },
     { key: 'saints', title: t('saints.title'), icon: Sparkle, href: '/saints' },
     { key: 'creators', title: t('creators.title'), icon: Mic2, href: '/creators' },
     { key: 'calendar', title: t('calendar.title'), icon: CalendarDays, href: '/calendar' },

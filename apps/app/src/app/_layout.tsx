@@ -42,6 +42,7 @@ import { flags } from '@/config/flags'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import { maybeRunCacheEviction } from '@/content/cacheMaintenance'
+import { registerCccCatalog, warmCccBooks } from '@/content/cccCatalog'
 import { registerEscrivaCatalog, warmEscrivaBooks } from '@/content/escrivaCatalog'
 import {
   hasCachedCatalog,
@@ -73,7 +74,6 @@ import i18n from '@/lib/i18n'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
 import { startStallMonitor } from '@/lib/stallMonitor'
 import { useBibleStore } from '@/stores/bibleStore'
-import { useCatechismStore } from '@/stores/catechismStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 SplashScreen.preventAutoHideAsync()
@@ -153,7 +153,6 @@ export default function RootLayout() {
     hydrate: hydratePrefs,
   } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
-  const { hydrated: catechismHydrated, hydrate: hydrateCatechism } = useCatechismStore()
   const hydrateFavorites = useFavoritesStore((s) => s.hydrate)
   const hydrateCheckIns = useCheckInsStore((s) => s.hydrate)
   const hydrateReminders = useRemindersStore((s) => s.hydrate)
@@ -162,7 +161,6 @@ export default function RootLayout() {
     if (!dbReady) return
     hydratePrefs()
     hydrateBible()
-    hydrateCatechism()
     hydrateFavorites()
     hydrateCheckIns()
     hydrateReminders()
@@ -170,7 +168,6 @@ export default function RootLayout() {
     dbReady,
     hydratePrefs,
     hydrateBible,
-    hydrateCatechism,
     hydrateFavorites,
     hydrateCheckIns,
     hydrateReminders,
@@ -212,6 +209,9 @@ export default function RootLayout() {
         // their catalog entries + collection on top of the Hearth catalog so the
         // tiles appear immediately. Survives the background catalog refresh.
         registerEscrivaCatalog()
+        // The Catechism + Compendium are external too (vatican.va). Their TOC is
+        // static, so the books appear (with full contents) instantly and offline.
+        registerCccCatalog()
         mark('catalog loaded')
 
         setBootStatus(i18n.t('boot.preparingContent'))
@@ -229,6 +229,9 @@ export default function RootLayout() {
         })
         warmEscrivaBooks().catch((err) => {
           console.warn('[startup] warm Escrivá books failed:', err)
+        })
+        warmCccBooks().catch((err) => {
+          console.warn('[startup] warm Catechism books failed:', err)
         })
 
         setBootStatus(i18n.t('boot.almostReady'))
@@ -321,7 +324,7 @@ export default function RootLayout() {
 
   // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can
   // show a custom loading screen while the corpus warms.
-  const coreReady = fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady
+  const coreReady = fontsLoaded && prefsHydrated && bibleHydrated && dbReady
   const ready = coreReady && seeded
   // First launch must download content (show the loader immediately); a
   // returning launch only reveals it if warming overruns the grace window.

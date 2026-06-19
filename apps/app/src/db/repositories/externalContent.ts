@@ -9,15 +9,15 @@ export type ExternalContentKey = {
   paramsKey: string
 }
 
-export type ExternalContentRow = {
-  payload: Primitive | Primitive[]
+export type ExternalContentRow<T = Primitive | Primitive[]> = {
+  payload: T
   fetchedAt: number
   pinned: boolean
 }
 
-export async function getExternalContent(
+export async function getExternalContent<T = Primitive | Primitive[]>(
   key: ExternalContentKey,
-): Promise<ExternalContentRow | undefined> {
+): Promise<ExternalContentRow<T> | undefined> {
   const row = await getDb().getFirstAsync<{
     payload_json: string
     fetched_at: number
@@ -30,15 +30,15 @@ export async function getExternalContent(
   )
   if (!row) return undefined
   return {
-    payload: JSON.parse(row.payload_json) as Primitive | Primitive[],
+    payload: JSON.parse(row.payload_json) as T,
     fetchedAt: row.fetched_at,
     pinned: row.pinned !== 0,
   }
 }
 
-export async function putExternalContent(
+export async function putExternalContent<T = Primitive | Primitive[]>(
   key: ExternalContentKey,
-  payload: Primitive | Primitive[],
+  payload: T,
   fetchedAt: number = Date.now(),
 ): Promise<void> {
   await getDb().runAsync(

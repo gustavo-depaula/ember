@@ -163,7 +163,12 @@ export function BookReader({ bookId, chapter }: Props) {
   const { startIndex, startFraction } = useMemo(() => {
     if (leaves.length === 0) return { startIndex: 0, startFraction: 0 }
     if (chapter) {
-      const idx = leaves.findIndex((l) => l.id === chapter)
+      // `chapter` may be a leaf id or an anchor (paragraph/question number) that
+      // resolves to a chapter via the book's anchor index.
+      const leafId = leaves.some((l) => l.id === chapter)
+        ? chapter
+        : bookEntry?.anchors?.[chapter]?.chapter
+      const idx = leaves.findIndex((l) => l.id === leafId)
       if (idx >= 0) return { startIndex: idx, startFraction: 0 }
     }
     const pos = cursor.initial.position
@@ -172,7 +177,7 @@ export function BookReader({ bookId, chapter }: Props) {
       if (idx >= 0) return { startIndex: idx, startFraction: pos.fraction }
     }
     return { startIndex: 0, startFraction: 0 }
-  }, [leaves, chapter, cursor.initial])
+  }, [leaves, chapter, cursor.initial, bookEntry])
 
   // Session = manifest + CSS + a lazy chapter fetcher backed by a 32-entry
   // LRU. Two HTTP round-trips on a cold cache (catalog + manifest) before
@@ -523,10 +528,40 @@ export function BookReader({ bookId, chapter }: Props) {
           setFoliateReady(true)
           return
         case 'crossRefTap': {
+          // Cross-book anchor refs ("book/ccc#1-25"): resolve the anchor to a
+          // chapter via the target book's anchor index, then jump (same book)
+          // or navigate (different book, e.g. Compendium → full Catechism).
+          if (msg.ref) {
+            const m = /^book\/([^#]+)#(.+)$/.exec(msg.ref)
+            if (!m) return
+            const [, targetSlug, anchor] = m
+            const firstNum = anchor.match(/\d+/)?.[0] ?? anchor
+            const sameBook = bookEntry?.id === targetSlug
+            const targetEntry = sameBook ? bookEntry : getBookEntry(targetSlug)
+            const targetChapter =
+              targetEntry?.anchors?.[firstNum]?.chapter ?? targetEntry?.anchors?.[anchor]?.chapter
+            if (!targetChapter) {
+              console.warn(`[BookReader] cross-ref anchor unresolved: ${msg.ref}`)
+              return
+            }
+            if (sameBook) {
+              const idx = leaves.findIndex((l) => l.id === targetChapter)
+              if (idx >= 0) {
+                setNavStack((s) => [...s, { index: chapterIndex, fraction }])
+                foliateRef.current?.goTo(idx, 0)
+              }
+              return
+            }
+            router.push({
+              pathname: '/browse/book/[bookId]/read',
+              params: { bookId: targetSlug, chapter: targetChapter },
+            })
+            return
+          }
           // Accept exact, suffix, and stripped-extension matches so the same
           // handler works whether authors write "summa-st-1-q1-a1" or
           // "ST.Iaq1a1.html" or "../ST.Iaq1a1".
-          const href = msg.href
+          const href = msg.href ?? ''
           const candidates = [
             href,
             href.replace(/\.x?html?$/, ''),
@@ -550,6 +585,8 @@ export function BookReader({ bookId, chapter }: Props) {
       chapterIndex,
       fraction,
       bookId,
+      bookEntry,
+      router,
       titleLookup,
       setEditingHighlightId,
       session,
