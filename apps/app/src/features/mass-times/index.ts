@@ -17,6 +17,7 @@ export { type DeviceLocation, useDeviceLocation } from './useDeviceLocation'
 export {
   countActiveFilters,
   emptyFilter,
+  type MapRegion,
   type MassFilter,
   type MassTimesNearby,
   useMassTimesNearby,

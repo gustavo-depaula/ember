@@ -29,6 +29,8 @@ export type NearbyParams = {
   limit?: number
 }
 
+export type Bbox = { minLng: number; minLat: number; maxLng: number; maxLat: number }
+
 async function getJson<T>(path: string, query?: Record<string, string | number | undefined>) {
   const url = new URL(path, baseUrl)
   for (const [key, value] of Object.entries(query ?? {})) {
@@ -56,6 +58,20 @@ export async function fetchNearbyChurches(params: NearbyParams): Promise<NearbyC
     radius_km: params.radiusKm,
     kind: params.kind,
     limit: params.limit,
+  })
+  return churches
+}
+
+// Churches within a map viewport (any zoom — no radius cap, unlike `/near`). Returns up to `limit`
+// churches in the box (the backend browse is capped at 100), with their embedded services.
+export async function fetchChurchesInBbox(
+  bbox: Bbox,
+  opts: { kind?: ServiceKind; limit?: number } = {},
+): Promise<Church[]> {
+  const { churches } = await getJson<{ churches: Church[] }>('/churches', {
+    bbox: `${bbox.minLng},${bbox.minLat},${bbox.maxLng},${bbox.maxLat}`,
+    kind: opts.kind,
+    limit: opts.limit,
   })
   return churches
 }

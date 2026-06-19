@@ -9,6 +9,7 @@ import {
   ChurchSheet,
   countActiveFilters,
   emptyFilter,
+  type MapRegion,
   type MassFilter,
   MassFilterSheet,
   useMassTimesNearby,
@@ -25,7 +26,9 @@ export default function MassTimesScreen() {
   const insets = useSafeAreaInsets()
   const [filter, setFilter] = useState<MassFilter>(emptyFilter)
   const [filtersOpen, setFiltersOpen] = useState(false)
-  const nearby = useMassTimesNearby(filter)
+  // The viewed map region (undefined until the user pans) — lets the nearby results follow the map.
+  const [region, setRegion] = useState<MapRegion>()
+  const nearby = useMassTimesNearby(filter, region)
 
   // Ask for location up front: lights the blue dot + pulls real nearby results. iOS shows the dialog
   // only once; later calls just read status, so a guarded single fire.
@@ -43,6 +46,7 @@ export default function MassTimesScreen() {
         locale={i18n.language}
         filterCount={countActiveFilters(filter)}
         onOpenFilters={() => setFiltersOpen(true)}
+        onRegionChange={setRegion}
       />
 
       {/* Floating back button — the only top chrome, over the map. */}
