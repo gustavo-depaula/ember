@@ -1,4 +1,4 @@
-## XV — O CLARO-ESCURO DA FÉ
+# XV — O CLARO-ESCURO DA FÉ
 
 **Presença de Deus.** — *Ó Senhor, ensina-me a crer também no meio da obscuridade e das trevas, ensina-me a crer confiando unicamente na tua palavra.*
 

@@ -1,3 +1,5 @@
+# Segunda-feira. Remorso do condenado por causa do bem que perdeu
+
 Desespero (pintura de Vitoria Duarte)
 
 > *Perditio tua, Israel; tantummodo in me auxilium tuum* – “A tua perdição, ó Israel, toda vem de ti; só em mim está o teu auxílio” (Os 13, 9)

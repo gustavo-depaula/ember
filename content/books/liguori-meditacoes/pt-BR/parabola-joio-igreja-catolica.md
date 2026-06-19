@@ -1,3 +1,5 @@
+# Domingo. A parábola do joio e a Igreja Católica
+
 ## 5º Domingo que sobrou depois da Epifania
 
 > *Simile factum est regnum coelorum homini, qui seminavit bonum semen in agro suo* – “O reino dos céus é semelhante a um homem que semeou boa semente no seu campo” (Mt 13, 24)

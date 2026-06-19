@@ -1,4 +1,4 @@
-## XXIX — THE HOLY SPIRIT AND PRAYER
+# XXIX — THE HOLY SPIRIT AND PRAYER
 
 **Presence of God.** — *O Holy Spirit, come pray in me; come regulate my filial relations with the heavenly Father.*
 

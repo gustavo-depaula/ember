@@ -1,4 +1,4 @@
-## 9 — LA POVERTÀ EVANGELICA
+# 9 — LA POVERTÀ EVANGELICA
 
 **Presenza di Dio.** — *O Gesù, che per amor mio hai voluto abbracciare una vita poverissima, fa' che io possa comprendere il grande valore della povertà.*
 

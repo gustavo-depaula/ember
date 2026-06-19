@@ -1,4 +1,4 @@
-## XX — BEATI I MITI
+# XX — BEATI I MITI
 
 **Presenza di Dio.** — *O Spirito Santo, infondi sempre più nel mio cuore l'olio della pietà e della dolcezza.*
 

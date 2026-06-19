@@ -1,4 +1,4 @@
-## 42 — NÃO DESCULPAR-SE
+# 42 — NÃO DESCULPAR-SE
 
 **Presença de Deus.** — *Ó Jesus, que quiseste calar diante de quem te condenava à morte, ensina-me a arte de não me desculpar.*
 

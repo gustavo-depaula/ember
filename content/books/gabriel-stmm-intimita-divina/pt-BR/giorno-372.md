@@ -1,4 +1,4 @@
-## 50 — O DOM MÚTUO
+# 50 — O DOM MÚTUO
 
 **Presença de Deus.** — *Ó Senhor, que eu seja todo para Vós e Vós todo para mim!*
 

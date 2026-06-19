@@ -1,4 +1,4 @@
-## 73 — LA PENITENZA[^1]
+# 73 — LA PENITENZA[^1]
 
 **Presenza di Dio.** — *O Gesù che vai in cerca del figliuol prodigo, non disprezzare il mio cuore pentito ed umiliato, ma purificalo nel bagno salutare del tuo preziosissimo Sangue.*
 

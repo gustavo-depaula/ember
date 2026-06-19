@@ -1,3 +1,5 @@
+# Segunda-feira. Jesus Menino toma sobre si todos os pecados dos homens
+
 ## SEGUNDA-FEIRA
 
 > *Justificabit ipse iustus servus meus multos, et iniquitates eorum ipse portabit* – O meu servo justo justificará muitos, e tomará sobre si as iniquidades deles (Is 53, 11)

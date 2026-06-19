@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de humildade
+
 > *Respexit humilitatem ancillae suae; ecce enim ex hoc beatam me dicent omnes generationes* – “(Deus) pôs os olhos na baixeza da sua escrava; eis que desde agora me chamarão bem-aventurada todas as gerações” (Lc 1, 48)
 
 ***Sumário.** Assim como Maria Santíssima foi a primeira e mais perfeita discípula de Jesus Cristo em todas as virtudes, assim o foi também na virtude da humildade. A Santíssima Virgem tinha sempre o conceito mais baixo de si mesma, ocultava os seus dons celestes e suportava com resignação todas as humilhações e desprezos. Que motivo de pejo para nós, que nos gloriamos de ser filhos de Maria e somos tão orgulhosos!… Ponderemos bem, que, a continuarmos assim, ficaremos sempre igualmente pobres de bens espirituais; porque a divina Mãe, imitando Jesus Cristo, resiste aos soberbos e comunica suas graças aos humildes.*

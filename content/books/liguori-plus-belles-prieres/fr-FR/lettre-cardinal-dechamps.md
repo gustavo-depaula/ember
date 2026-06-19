@@ -1,4 +1,4 @@
-## Lettre de S. E. le Cardinal Dechamps
+# Lettre de S. E. le Cardinal Dechamps
 
 *Archevêque de Malines*
 

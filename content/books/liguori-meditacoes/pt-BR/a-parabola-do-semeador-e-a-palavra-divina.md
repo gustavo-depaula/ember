@@ -1,3 +1,5 @@
+# Domingo. A parábola do semeador e a palavra divina
+
 ## Domingo da Sexagésima
 
 > *Exiit qui seminat seminare semen suum* – “Saiu o que semeia a semear a sua semente” (Lc 8, 5)

@@ -1,3 +1,5 @@
+# 01 de Novembro. Festa de Todos os Santos
+
 > *Vidi turbam magnam, quam dinumerare nemo poterat, ex omnibus gentibus, et tribubus et populis et linguis* — “Vi uma grande multidão, que ninguém poderia contar, de todas as nações, tribos, povos e línguas” (Ap 7, 9)
 
 ***Sumário.** São três os fins principais que a Igreja tem em mira mandando celebrar a solenidade de todos os santos. Quer em primeiro lugar que honremos os seus filhos que já triunfam no céu, e especialmente àqueles que no correr do ano não tiveram uma festa própria. Para que as nossas homenagens nos aproveitem, ela quer em segundo lugar, que nos excitemos à prática do bem, pela esperança do céu. Finalmente quer a nossa boa Mãe aumentar a nossa confiança, dando-nos a entender que esses nossos bem-aventurados irmãos se empenham para nos obter os favores divinos. Que fins tão nobres e consoladores!*

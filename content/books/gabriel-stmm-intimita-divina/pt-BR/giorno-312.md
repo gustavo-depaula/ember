@@ -1,4 +1,4 @@
-## XX — BEM-AVENTURADOS OS MANSOS
+# XX — BEM-AVENTURADOS OS MANSOS
 
 **Presença de Deus.** — *Ó Espírito Santo, infunde cada vez mais em meu coração o óleo da piedade e da doçura.*
 

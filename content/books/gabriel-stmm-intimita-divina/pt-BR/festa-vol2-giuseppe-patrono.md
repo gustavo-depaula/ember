@@ -1,4 +1,4 @@
-## 19 de março — S. JOSÉ PATRONO DA IGREJA
+# 19 de março — S. JOSÉ PATRONO DA IGREJA
 
 **Presença de Deus.** — *Ó glorioso S. José, faze que sob o teu patrocínio cresça e se desenvolva a minha vida interior.*
 

@@ -1,4 +1,4 @@
-## 53 — L'AMORE TRASFORMANTE
+# 53 — L'AMORE TRASFORMANTE
 
 **Presenza di Dio.** — *Dio mio, il tuo amore m'invada e mi penetri fino a trasformarmi totalmente in te.*
 

@@ -1,4 +1,4 @@
-## XXVII — A GLÓRIA DA SS.MA TRINDADE
+# XXVII — A GLÓRIA DA SS.MA TRINDADE
 
 **Presença de Deus.** — *Ó Santíssima Trindade, que me criaste para tua glória, faze que eu te dê toda a glória de que sou capaz.*
 

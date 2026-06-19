@@ -1,4 +1,4 @@
-## 57 — THE TRIUMPH OF JESUS
+# 57 — THE TRIUMPH OF JESUS
 
 *Palm Sunday*
 

@@ -1,4 +1,4 @@
-## 22 — LA SPERANZA APOSTOLICA
+# 22 — LA SPERANZA APOSTOLICA
 
 **Presenza di Dio.** — *O Gesù, nella tua potenza, nel tuo amore infinito, nella tua Passione ripongo ogni speranza per le anime che mi hai affidate.*
 

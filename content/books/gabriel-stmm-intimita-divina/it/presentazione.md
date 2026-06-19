@@ -1,4 +1,4 @@
-## Presentazione
+# Presentazione
 
 [*Nota: la pagina 9 del volume (inizio della Presentazione) non è stata acquisita nella scansione del PDF. Il testo riprende dalla pagina 10.*]
 

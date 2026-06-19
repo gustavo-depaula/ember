@@ -1,4 +1,4 @@
-## III — WHOM DO YOU SEEK?
+# III — WHOM DO YOU SEEK?
 *Easter Tuesday*
 
 **Presence of God.** — *O Lord, may I always seek you alone, and in seeking you may I be granted to find you.*

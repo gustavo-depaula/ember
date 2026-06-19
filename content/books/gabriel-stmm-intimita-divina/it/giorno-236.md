@@ -1,4 +1,4 @@
-## VI — LA BONTÀ INFINITA SI DIFFONDE
+# VI — LA BONTÀ INFINITA SI DIFFONDE
 
 **Presenza di Dio.** — *O Bontà infinita, che incessantemente ti comunichi alle tue creature, insegnami ad imitarti.*
 

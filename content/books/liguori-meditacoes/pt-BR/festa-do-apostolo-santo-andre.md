@@ -1,3 +1,5 @@
+# 30 de Novembro. Festa do Apóstolo Santo André
+
 > *Qui non accipit crucem suam et sequitur me, non est me dignus* — “Aquele que não toma a sua cruz e não me segue, não é digno de mim” (Mt 10, 38)
 
 ***Sumário.** Embora o apóstolo Santo André fosse insigne em todas as virtudes, todavia distinguiu-se particularmente em três: na pronta obediência ao convite de Jesus; no zelo incansável pela glória divina; e no seu grande amor à cruz. Regozijemo-nos com o santo e no seu nome agradeçamos a Deus. Depois, lançando um olhar sobre nós mesmos, vejamos como é que temos imitado os exemplos do santo. Há quanto tempo o Senhor nos chama a uma vida mais perfeita e lhe resistimos obstinadamente!*

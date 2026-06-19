@@ -1,4 +1,4 @@
-## XXVII — A S. MISSA
+# XXVII — A S. MISSA
 
 **Presença de Deus.** — *Ó Jesus, faze que teu Sacrifício do Altar seja fonte e modelo do meu sacrifício, para que toda a minha vida seja um holocausto de louvor a ti.*
 

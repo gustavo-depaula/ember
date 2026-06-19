@@ -1,4 +1,4 @@
-## Article 6. — Dévotion aux saints Anges.[^1]
+# Article 6. — Dévotion aux saints Anges.[^1]
 
 ### Prière à saint Michel, archange.
 

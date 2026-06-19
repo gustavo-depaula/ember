@@ -1,4 +1,4 @@
-## XXX — O OFÍCIO DIVINO
+# XXX — O OFÍCIO DIVINO
 
 **Presença de Deus.** — *Ó Jesus, digna-te associar minha pobre oração à grande oração da Igreja.*
 

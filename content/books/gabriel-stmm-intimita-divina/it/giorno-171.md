@@ -1,4 +1,4 @@
-## II — Ancella del Signore
+# II — Ancella del Signore
 
 **Presenza di Dio.** — *O Maria, che ti sei dichiarata l'ancella del Signore, insegnami a porre tutta la mia vita e le mie forze al suo servizio.*
 

@@ -1,4 +1,4 @@
-## XXVII — LA GRATITUDINE
+# XXVII — LA GRATITUDINE
 
 **Presenza di Dio.** — *Dio mio, dammi un cuore riconoscente, capace di cantare in eterno le tue misericordie.*
 

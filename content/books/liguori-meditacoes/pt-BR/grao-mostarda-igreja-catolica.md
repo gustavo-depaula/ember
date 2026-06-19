@@ -1,3 +1,5 @@
+# Domingo. O grão de Mostarda e a Igreja Católica
+
 ## 6º Domingo que sobrou depois da Epifania
 
 > *Simile est regnum coelorum grano sinapis, quod accipiens homo seminavit in agro suo* – “O reino dos céus é semelhante a um grão de mostarda que um homem tomou e semeou no seu campo” (Mt 13, 31)

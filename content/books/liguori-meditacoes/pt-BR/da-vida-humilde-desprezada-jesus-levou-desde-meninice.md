@@ -1,3 +1,5 @@
+# Dia 08 de Janeiro. Da vida humilde e desprezada que Jesus levou desde a meninice
+
 > *Et hoc vobis signum: invenietis infantem, pannis involutum, et positum in praesepio* – “E este é o sinal que vô-lo fará conhecer: achareis um menino envolto em panos e posto em uma manjedoura” (Lc 2, 12)
 
 ***Sumário.** Todos os sinais que o Anjo deu aos pastores para acharem o Messias nascido foram sinais de humildade. O sinal pelo qual o reconhecereis, disse-lhes, é que achareis um menino, envolto em pobres paninhos, numa estrebaria, e deitado sobre a palha numa manjedoura de animais. Assim quis nascer o Rei do céu, porque veio para destruir o orgulho, a causa da perdição do homem. E apesar disso o homem continua orgulhoso e ambicioso.*

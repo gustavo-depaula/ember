@@ -1,4 +1,4 @@
-## 56 — JESUS ACOLHE A TODOS
+# 56 — JESUS ACOLHE A TODOS
 *III domingo depois da Epifania*
 
 **Presença de Deus.** — *Ó divino Salvador, também eu sou um pobre leproso; acolhe-me: "se queres, podes purificar-me"!*

@@ -1,3 +1,5 @@
+# Quarta-feira. Pena de dano que os réprobos sofrem no inferno
+
 > *Derelinquam eum, et abscondam faciem meam ab eo… invenient eum omnia mala* – “Eu o deixarei, e esconderei dele meu rosto… todos os males virão sobre ele” (Dt 31, 17)
 
 ***Sumário.** Não são as trevas, a infecção, os gritos, o fogo, que constituem o inferno; o que faz o inferno é a dor de ter perdido a Deus e de não O poder amar. Aparta-te (dirá o Juiz à alma na sentença final), aparta-te de mim; não te quero mais ver. Tu não mais serás minha, nem eu serei nunca mais teu. Ó separação amarga!… Quem sabe, meu irmão, se esta pena tão terrível não nos está reservada também? Fascinados como estamos pelos bens terrestres, não a compreendemos agora, mas experimenta-la-íamos, se um dia tivéssemos a desgraça de nos perder.*

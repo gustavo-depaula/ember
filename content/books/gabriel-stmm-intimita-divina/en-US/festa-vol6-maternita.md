@@ -1,4 +1,4 @@
-## October 11 — THE MATERNITY OF MARY
+# October 11 — THE MATERNITY OF MARY
 
 **Presence of God.** — *Mary, Mother of God, accept my humble homage and grant that I too may enjoy the sweet fruits of your maternity.*
 

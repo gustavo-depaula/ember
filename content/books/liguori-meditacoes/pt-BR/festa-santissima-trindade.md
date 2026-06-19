@@ -1,3 +1,5 @@
+# Domingo. Festa da Santíssima Trindade
+
 ### Solenidade da Santíssima Trindade
 
 > *Tres sunt qui testimonium dant in coelo: Pater, Verbum et Spiritus Sanctus, et hi tres unum sunt* – “Três são os que dão testemunho no céu: o Pai, o Verbo e o Espírito Santo, e estes três são um” (1 Jo 5, 7)

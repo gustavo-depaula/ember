@@ -1,4 +1,4 @@
-## XII — IL TRATTO INTIMO CON DIO
+# XII — IL TRATTO INTIMO CON DIO
 
 **Presenza di Dio.** — *O Signore, benché io ne sia tanto in degno, non disdegnare di ammettermi alla tua intimità.*
 

@@ -1,4 +1,4 @@
-## 51 — TOTAL UNION
+# 51 — TOTAL UNION
 
 **Presence of God.** — *I beseech You, my God, let nothing disturb my union with You.*
 

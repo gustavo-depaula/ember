@@ -1,4 +1,4 @@
-## XXIX — LO SPIRITO SANTO E LA PREGHIERA
+# XXIX — LO SPIRITO SANTO E LA PREGHIERA
 
 **Presenza di Dio.** — *O Spirito Santo, spirito di pietà, vieni a pregare in me, vieni a regolare i miei rapporti di figlio verso il Padre celeste.*
 

@@ -1,4 +1,4 @@
-## 2 febbraio — LA PURIFICAZIONE DI MARIA
+# 2 febbraio — LA PURIFICAZIONE DI MARIA
 
 **Presenza di Dio.** — *O Signore, vengo a te supplicandoti, per intercessione di Maria SS.ma, di purificare l'anima mia.*
 

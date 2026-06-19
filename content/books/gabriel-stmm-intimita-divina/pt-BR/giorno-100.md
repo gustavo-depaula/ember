@@ -1,4 +1,4 @@
-## 24 — O PECADO
+# 24 — O PECADO
 
 **Presença de Deus.** — *Ó Jesus crucificado, faz-me compreender a grande malícia do pecado.*
 

@@ -1,4 +1,4 @@
-## 28 — THE HOLY SPIRIT AND THE APOSTOLATE
+# 28 — THE HOLY SPIRIT AND THE APOSTOLATE
 
 **Presence of God.** — *O Holy Spirit, invade my soul and transform me into a chosen instrument for God's glory and the salvation of souls.*
 

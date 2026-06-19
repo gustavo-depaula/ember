@@ -1,3 +1,5 @@
+# Quarta-feira. A vida dos religiosos é mais semelhante à de Jesus Cristo
+
 > *Quos praescivit, et praedestinavit conformes fieri imaginis Filii sui* – “Os que conheceu na sua presciência, também predestinou para se fazerem conformes à imagem de seu Filho” (Rm 8, 29)
 
 ***Sumário.** Compenetremo-nos bem de que os religiosos, contanto que guardem suas Regras, são os homens mais felizes do mundo; porque mais do que os outros são imitadores da vida de Jesus Cristo. Os mundanos têm-nos por loucos, mas no vale de Josafá conhecerão terem sido eles os loucos, porque deixaram o caminho da verdade e assim condenaram-se para sempre. Demos graças ao Senhor pela escolha que fez de nós e sejamos fiéis à nossa vocação. Ai de nós, se tivéssemos a desgraça de a perder.*

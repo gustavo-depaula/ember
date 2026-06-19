@@ -1,3 +1,5 @@
+# 02 de Agosto. Festa de Santo Afonso Maria de Ligório
+
 > *Timenti Dominum bene erit in extremis* – “Aquele que teme o Senhor será feliz no fim” (Eclo 1, 13)
 
 ***Sumário.** Afiguremo-nos que presenciamos a morte de Santo Afonso. Morre todo desapegado dos bens terrestres, com perfeita paz de consciência, com certeza da glória eterna, assistido por grande número dos seus filhos espirituais, e sobretudo, consolado pela doce presença da Santíssima Virgem. Ó morte preciosa! Se desejamos uma morte semelhante à do Santo, imitemos a sua vida. Sejamos devotos de Jesus Sacramentado e de Maria Santíssima, e, à imitação do Santo, procuremos promover estas devoções também nos outros.*

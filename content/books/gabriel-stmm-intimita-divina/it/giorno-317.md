@@ -1,4 +1,4 @@
-## XXV — LA POTENZA E L'AMORE DI GESÙ
+# XXV — LA POTENZA E L'AMORE DI GESÙ
 
 *XVIII Domenica dopo Pentecoste*
 

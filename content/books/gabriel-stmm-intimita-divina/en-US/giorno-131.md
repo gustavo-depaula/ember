@@ -1,4 +1,4 @@
-## 55 — THE SEVEN SORROWS OF MARY
+# 55 — THE SEVEN SORROWS OF MARY
 
 *Friday of Passion Week*
 

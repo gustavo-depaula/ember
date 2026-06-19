@@ -1,4 +1,4 @@
-## 23 — PROGRESS IN THE APOSTOLATE
+# 23 — PROGRESS IN THE APOSTOLATE
 
 **Presence of God.** — *O Lord, unite me to you and let the power of your charity kindle in my heart the true apostolic flame.*
 

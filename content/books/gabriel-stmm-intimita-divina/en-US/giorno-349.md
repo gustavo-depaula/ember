@@ -1,4 +1,4 @@
-## 27 — OUR DUTIES
+# 27 — OUR DUTIES
 
 *XXII Sunday after Pentecost*
 

@@ -1,4 +1,4 @@
-## 31 — IL NOSTRO POSTO
+# 31 — IL NOSTRO POSTO
 
 **Presenza di Dio.** — *O mio Dio, che io conosca te, che io conosca me! Conosca che Tu sei Colui che è, ed io colui che non è.*
 

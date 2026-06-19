@@ -1,4 +1,4 @@
-## 16 — LA MORTIFICAZIONE CORPORALE
+# 16 — LA MORTIFICAZIONE CORPORALE
 
 **Presenza di Dio.** — *O Gesù, fa' che il mio amore per te Crocifisso giunga fino a voler crocifiggere con te e per te la mia carne.*
 

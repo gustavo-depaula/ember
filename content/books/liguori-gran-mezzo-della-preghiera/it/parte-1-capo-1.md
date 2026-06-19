@@ -1,6 +1,4 @@
-# Parte Prima
-
-## Capo I - Della necessita della preghiera
+# Capo I - Della necessita della preghiera
 
 Fu gia errore de' Pelagiani il dire, che l'Orazione non e necessaria a conseguir la salute. Dicea l'empio lor Maestro Pelagio[^1], che l'Uomo in tanto solamente si perde, in quanto trascura di conoscere le verita necessarie a sapersi. Ma gran cosa dicea S. Agostino[^2]: *Omnia (Pelagius) disputat, quam ut oret*.[^3] Pelagio d'ogni altra cosa volea trattare fuorche dell'Orazione, ch'e l'unico mezzo (come teneva ed insegnava il Santo) per acquistare la Scienza de' Santi, secondo quel che scrisse gia S. Giacomo: *Si quis indiget sapientia, postulet a Deo, qui dat omnibus affluenter, nec improperat*. Jac. 1. 6.
 

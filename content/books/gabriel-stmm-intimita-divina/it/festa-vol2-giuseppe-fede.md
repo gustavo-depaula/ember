@@ -1,4 +1,4 @@
-## 19 marzo — VITA DI FEDE IN S. GIUSEPPE
+# 19 marzo — VITA DI FEDE IN S. GIUSEPPE
 
 **Presenza di Dio.** — *Alla tua scuola, o glorioso S. Giuseppe, desidero imparare a vivere di fede, lasciandomi in tutto guidare dalla divina Provvidenza.*
 

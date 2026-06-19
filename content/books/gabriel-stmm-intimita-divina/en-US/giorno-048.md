@@ -1,4 +1,4 @@
-## 48 — LIVING IN CHRIST
+# 48 — LIVING IN CHRIST
 
 **Presence of God.** — *Make me understand, O Lord, the sweetness and the responsibility of the great duty You impose on me by communicating Your life to me: to die to myself in order to live in You alone.*
 

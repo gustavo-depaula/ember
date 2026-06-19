@@ -1,3 +1,5 @@
+# Domingo. A parábola do joio e a conduta de Deus para com os pecadores
+
 > *Colligite primum zizania, et alligate ea in fasciculos ad comburendum* – “Colhei primeiro o joio, e atai-o em feixes para o queimar” (Mt 13, 30)
 
 ***Sumário.** O joio que cresce no meio do bom trigo é figura dos pecadores, que pela benignidade divina vivem juntamente com os justos no campo da Igreja Católica. Mais ai daqueles, se continuarem obstinados no pecado e deixarem passar o tempo de misericórdia! Chegará o dia da colheita, isso é, do juízo, e então os anjos separarão os maus dos bons, para levarem a estes ao paraíso e lançarem aqueles no fogo do inferno, onde serão atormentados por toda a eternidade.*

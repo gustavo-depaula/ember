@@ -1,6 +1,4 @@
-# Parte Seconda
-
-## Preliminare I
+# Preliminare I
 
 ### Dio vuol tutti salvi, e percio Gesu Cristo e morto, per salvar tutti
 

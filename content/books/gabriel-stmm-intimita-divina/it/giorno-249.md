@@ -1,4 +1,4 @@
-## XIX — FEDE VISSUTA
+# XIX — FEDE VISSUTA
 
 **Presenza di Dio.** — *O Signore, fa' che la fede sia la luce che mi guidi in ogni circostanza della vita.*
 

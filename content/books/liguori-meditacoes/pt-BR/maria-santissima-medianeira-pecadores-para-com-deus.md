@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima é a medianeira dos pecadores para com Deus
+
 > *Facta sum coram eo quasi pacem reperiens* – “Tenho-me tornado na sua presença como uma que acha a paz” (Ct 8, 10)
 
 ***Sumário.** É com razão que Maria Santíssima é comparada ao íris; porque é a medianeira e o penhor da paz entre Deus e os homens. Com efeito, quantos pecadores que agora são grandes Santos no céu, estariam talvez ardendo no inferno, se Maria não tivesse intercedido junto ao Filho para lhes obter perdão! Seja qual for o estado da nossa alma, recorramos com confiança a esta querida Mãe e seremos salvos. Lembremo-nos, porém, que para merecermos a sua proteção especial, é preciso que tenhamos ao menos a vontade de nos emendar.*

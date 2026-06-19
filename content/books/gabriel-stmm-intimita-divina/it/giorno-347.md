@@ -1,4 +1,4 @@
-## 25 — PATERNITÀ E MATERNITÀ SPIRITUALE
+# 25 — PATERNITÀ E MATERNITÀ SPIRITUALE
 
 **Presenza di Dio.** — *O mio Dio, uniscimi a te col vincolo di un amore intenso e in forza di quest'unione fa' che io possa generarti delle anime.*
 

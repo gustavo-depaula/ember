@@ -1,4 +1,4 @@
-## X — A DEVOÇÃO AO CORAÇÃO DE JESUS
+# X — A DEVOÇÃO AO CORAÇÃO DE JESUS
 
 **Presença de Deus.** — *Ó Sagrado Coração de Jesus, ensina-me a conhecer-te, ensina-me a amar-te.*
 

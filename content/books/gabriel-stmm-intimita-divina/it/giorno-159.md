@@ -1,4 +1,4 @@
-## XX — ATTENZIONE AMOROSA A DIO
+# XX — ATTENZIONE AMOROSA A DIO
 
 **Presenza di Dio.** — *O Signore, che la tua presenza sia luce e forza all'anima mia, sia sostegno ed appoggio alla mia orazione.*
 

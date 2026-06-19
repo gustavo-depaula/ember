@@ -1,4 +1,4 @@
-## III — LA COMPASSIONE DI GESÙ
+# III — LA COMPASSIONE DI GESÙ
 
 *VI Domenica dopo Pentecoste*
 

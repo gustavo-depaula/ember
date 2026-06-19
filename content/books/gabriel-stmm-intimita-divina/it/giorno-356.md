@@ -1,4 +1,4 @@
-## 34 — DISEGNI DI PACE E DI AMORE
+# 34 — DISEGNI DI PACE E DI AMORE
 
 *XXIII Domenica dopo Pentecoste*
 

@@ -1,4 +1,4 @@
-## III — SPOUSE OF THE HOLY SPIRIT
+# III — SPOUSE OF THE HOLY SPIRIT
 
 **Presence of God.** — *O Mary, spouse of the Holy Spirit, make me docile to his divine motions.*
 

@@ -1,4 +1,4 @@
-## 22 — LA GRANDE LOTTA
+# 22 — LA GRANDE LOTTA
 
 *I domenica di Quaresima*
 

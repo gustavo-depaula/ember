@@ -1,4 +1,4 @@
-## XXI — L'AZIONE DELLO SPIRITO SANTO
+# XXI — L'AZIONE DELLO SPIRITO SANTO
 
 **Presenza di Dio.** — *O Spirito Santo, rivelami la tua azione nell'anima mia, insegnami a riconoscerla ed a assecondarla.*
 

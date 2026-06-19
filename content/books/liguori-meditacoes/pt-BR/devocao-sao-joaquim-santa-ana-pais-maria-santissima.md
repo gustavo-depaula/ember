@@ -1,3 +1,5 @@
+# Sábado. Devoção a São Joaquim e Santa Ana, pais de Maria Santíssima
+
 > *Gloria filiorum patres eorum* – “A glória dos filhos são seus pais” (Pv 17, 6)
 
 ***Sumário.** São Joaquim e Santa Ana são as pessoas venturosas a quem, depois de Deus, Maria Santíssima é devedora de tudo quanto possui. Infiramos disso quanto lhe deve agradar o nosso amor e veneração para com eles. Se amas a divina Mãe, sê também devoto a seus santos pais. Agradece muitas vezes à Santíssima Trindade os dons, as graças e os privilégios que lhes concedeu, e invoca-os em tuas necessidades. Procura sobretudo imitar as suas virtudes, especialmente o amor que tinham a sua santíssima filha.*

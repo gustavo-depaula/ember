@@ -1,4 +1,4 @@
-## 55 — AS SETE DORES DE MARIA
+# 55 — AS SETE DORES DE MARIA
 
 *sexta-feira da semana da Paixão*
 

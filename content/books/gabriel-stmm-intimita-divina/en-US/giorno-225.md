@@ -1,4 +1,4 @@
-## XXV — FRATERNAL CONCORD
+# XXV — FRATERNAL CONCORD
 *Fifth Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, teach me to live in perfect concord with my neighbor, so that my prayers and offerings may be pleasing to You.*

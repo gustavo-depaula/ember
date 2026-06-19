@@ -1,4 +1,4 @@
-## XXXI — CARIDADE E HUMILDADE
+# XXXI — CARIDADE E HUMILDADE
 
 *X Domingo depois de Pentecostes*
 

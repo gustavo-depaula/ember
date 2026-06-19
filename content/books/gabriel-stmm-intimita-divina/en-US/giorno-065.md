@@ -1,4 +1,4 @@
-## 65 — LIVING CHRIST
+# 65 — LIVING CHRIST
 
 **Presence of God.** — *O Jesus, deign to imprint in my poor soul the traits of Your likeness, so that my life may be a reflection of Yours.*
 

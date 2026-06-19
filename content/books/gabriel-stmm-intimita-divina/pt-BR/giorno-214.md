@@ -1,4 +1,4 @@
-## XIV — A REPARAÇÃO
+# XIV — A REPARAÇÃO
 
 **Presença de Deus.** — *Coração de Jesus, ferido por nosso amor, torna-me digno de reparar as feridas que os nossos pecados te infligiram.*
 

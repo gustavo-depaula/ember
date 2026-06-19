@@ -1,4 +1,4 @@
-## 46 — LIVRE IMOLAÇÃO DA LIBERDADE
+# 46 — LIVRE IMOLAÇÃO DA LIBERDADE
 
 **Presença de Deus.** — Ó Jesus, Cordeiro divino voluntariamente imolado pela glória do Pai, faze-me compreender o grande valor da imolação voluntária.
 

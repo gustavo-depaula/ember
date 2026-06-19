@@ -1,4 +1,4 @@
-## 60 — Gesù e la volontà del Padre
+# 60 — Gesù e la volontà del Padre
 
 **Presenza di Dio.** — *O Gesù, insegnami a seguirti nella tua vita di totale, perfettissima adesione alla volontà del Padre.*
 

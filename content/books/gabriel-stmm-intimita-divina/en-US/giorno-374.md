@@ -1,4 +1,4 @@
-## 52 — THE TRIUMPH OF LOVE
+# 52 — THE TRIUMPH OF LOVE
 
 **Presence of God.** — *O my God, may there be only love in me, may everything come from love and everything go to love.*
 

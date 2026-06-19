@@ -1,3 +1,5 @@
+# Sexta-feira. Na Cruz acha-se a nossa salvação
+
 > *Lignum vitae est his, qui apprehenderint eam; et qui tenuerit eam, beatus* – “É árvore de vida para aqueles que lançarem mão dela; e é bem-aventurado quem a não largar” (Pv 3, 18)
 
 ***Sumário.** Se quisermos salvar-nos, é mister que nos resolvamos a carregar com paciência a cruz que Deus nos manda, e a morrer nela por amor de Jesus Cristo, assim como Ele morreu na cruz por nosso amor. É este também o meio para acharmos a paz nos sofrimentos. Quem recusa aceitar a cruz, de ordinário aumenta-lhe o peso; ao passo que quem a abraça e carrega com paciência, tira-lhe o peso e converte-a em consolação.*

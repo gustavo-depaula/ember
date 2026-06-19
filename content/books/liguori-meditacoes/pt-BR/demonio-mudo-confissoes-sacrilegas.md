@@ -1,3 +1,5 @@
+# Domingo. O demônio mudo e as confissões sacrílegas
+
 ## Primeira Meditação para o 3º Domingo da Quaresma
 
 > *Erat (Iesus) eiciens daemonium, et illud erat mutum* – “Estava (Jesus) expelindo um demônio, e ele era mudo” (Lc 11, 14)

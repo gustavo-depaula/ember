@@ -1,3 +1,5 @@
+# 22ª Meditação. Das Enfermidades
+
 > *Infirmitas gravis sobriam facit animam* — “A enfermidade grave faz a alma sóbria” (Eclo 31, 2)
 
 ***Sumário.** As enfermidades são a pedra de toque para se conhecer o espírito de uma pessoa. Meu irmão, quando o Senhor te visita com esta tribulação, sem dúvida te é lícito rogar-lhe que te restitua a saúde, a fim de a empregar ao seu serviço: podes também tomar os remédios prescritos; mas, afinal, resigna-te sempre à vontade divina, que dispõe tudo para o nosso bem. Para te animar à paciência, lembra-te do que sofreram os santos. Olha sobretudo para Jesus, que durante toda a sua vida foi Homem de dores, e sê devoto de Maria Santíssima, a Rainha dos mártires.*

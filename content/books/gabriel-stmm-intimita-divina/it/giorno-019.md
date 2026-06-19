@@ -1,4 +1,4 @@
-## 19 — CERCARE DIO IN AMORE
+# 19 — CERCARE DIO IN AMORE
 
 **Presenza di Dio.** — *O Signore, aiutami a concentrare in te tutti i miei affetti, perché il mio cuore sappia sempre cercare te solo.*
 

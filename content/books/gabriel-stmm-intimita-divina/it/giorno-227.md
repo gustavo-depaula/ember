@@ -1,4 +1,4 @@
-## XXVII — LA GLORIA DELLA SS.MA TRINITÀ
+# XXVII — LA GLORIA DELLA SS.MA TRINITÀ
 
 **Presenza di Dio.** — *O Santissima Trinità, che mi hai creato per la tua gloria, fa' che io ti dia tutta la gloria di cui sono capace.*
 

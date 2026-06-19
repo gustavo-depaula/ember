@@ -1,4 +1,4 @@
-## XXXI — MARIA MEDIATRICE
+# XXXI — MARIA MEDIATRICE
 
 **Presenza di Dio.** — *O Maria, come Gesù ha voluto venire a noi per mezzo tuo, fa' che per mezzo tuo io possa andare a Lui.*
 

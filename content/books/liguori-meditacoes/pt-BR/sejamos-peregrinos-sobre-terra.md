@@ -1,3 +1,5 @@
+# Segunda-feira. Sejamos peregrinos sobre a terra
+
 > *Dum sumus in corpore, peregrinamur a Domino* – “Enquanto estamos no corpo, vivemos ausentes do Senhor” (2 Cor 5, 6)
 
 ***Sumário.** Enquanto estivermos sobre esta terra, sejamos como uns peregrinos, que vão errando longe de sua pátria, o paraíso onde Deus nos espera para gozarmos eternamente de sua beleza divina. Se, pois, amamos a Deus e a nossa alma, devemos suspirar continuamente por sairmos deste nosso exílio e separarmo-nos do corpo, a fim de entrarmos na posse de Deus. Quando nos sentirmos oprimidos pelos trabalhos, levantemos os olhos ao céu e consolemo-nos com a lembrança do reino da bem-aventurança.*

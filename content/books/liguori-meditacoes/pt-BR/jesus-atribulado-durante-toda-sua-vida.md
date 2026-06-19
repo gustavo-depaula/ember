@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus atribulado durante toda a sua vida
+
 ## QUINTA-FEIRA
 
 > *Pauper sum ego, et in laboribus a iuventute mea – Eu sou pobre e vivo em trabalhos desde a minha mocidade (Sl 87, 16)*

@@ -1,4 +1,4 @@
-## March 25 — THE ANNUNCIATION OF MARY
+# March 25 — THE ANNUNCIATION OF MARY
 
 **Presence of God.** — *Beside you, O Mary, I want to learn to repeat in every circumstance your: "Ecce ancilla Domini!".*
 

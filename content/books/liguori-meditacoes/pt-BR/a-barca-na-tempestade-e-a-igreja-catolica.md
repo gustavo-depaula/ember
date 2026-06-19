@@ -1,3 +1,5 @@
+# Domingo. A barca na tempestade e a Igreja Católica
+
 Cristo na Tempestade de GalileeLudolf Backhuysen, 1695
 
 ## Meditação para o 4º Domingo do tempo comum

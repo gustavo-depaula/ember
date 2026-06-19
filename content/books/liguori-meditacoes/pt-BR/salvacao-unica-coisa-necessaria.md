@@ -1,3 +1,5 @@
+# Quarta-feira. A salvação é a única coisa necessária
+
 > *Porro unum est necessarium* – “Uma só coisa é necessária” (Lc 10, 42)
 
 ***Sumário.** Não é preciso que neste mundo sejamos cumulados de dignidades, que tenhamos riquezas, boa saúde, gozos terrestres; é necessário tão somente que nos salvemos. Não há meio termo: se não nos salvarmos, seremos condenados; estaremos ou sempre felizes no céu, ou sempre infelizes no inferno! Por isso avisa-nos o Senhor, que amontoemos tesouros, já não neste mundo, mas no céu, onde a ferrugem e os vermes não os consomem, nem os desenterram e roubam os ladrões.*

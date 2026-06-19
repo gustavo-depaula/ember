@@ -1,4 +1,4 @@
-## 57 — «Io sono la via»
+# 57 — «Io sono la via»
 
 **Presenza di Dio.** — *O Gesù, mio dolce Maestro, prendimi per mano e guidami al Padre: solo Tu sei la via della salvezza e della santità.*
 

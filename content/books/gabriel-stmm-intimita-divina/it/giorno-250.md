@@ -1,4 +1,4 @@
-## XX — LA SPERANZA
+# XX — LA SPERANZA
 
 **Presenza di Dio.** — *O Signore, rendi salda la mia speranza, perché chi spera in te non resterà mai confuso.*
 

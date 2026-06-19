@@ -1,3 +1,5 @@
+# 6ª Meditação. Do grande mal que fazem os que ocultam os Pecados na Confissão
+
 > *Pro anima tua ne confundaris dicere verum *—“Não te envergonhes de falar a verdade, quando se trata da tua alma” (Eclo 4, 24)
 
 ***Sumário.** O demônio, depois de obcecar tantas pobres ovelhas de Jesus Cristo, induzindo-as a pecar, faz como o lobo; apanha-as pelo pescoço, a fim de que não gritem por socorro, confessando-se sinceramente. E deste modo fazendo que cometam novo pecado, de ordinário mais grave que o primeiro, como é o sacrilégio, leva-as com segurança ao inferno. Oxalá que aquelas almas desgraçadas compreendessem o grande mal que causam a si mesmas, e o grande bem de que se privam pela maldita vergonha na confissão!*

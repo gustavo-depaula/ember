@@ -1,4 +1,4 @@
-## XXIII — FAME E SETE DI GIUSTIZIA
+# XXIII — FAME E SETE DI GIUSTIZIA
 
 **Presenza di Dio.** — *Dammi, o Gesù, un desiderio profondo ed efficace di giustizia, affinché possa avvicinarmi a te, giustizia infinita.*
 

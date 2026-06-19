@@ -1,3 +1,5 @@
+# Quarta-feira. O Verbo se faz homem na plenitude dos tempos
+
 > *Ubi venit plenitudo temporis, misit Deus Filium suum, factum ex muliere, factum sub lege* – “Quando veio a plenitude do tempo, enviou Deus o seu Filho, feito da mulher, feito sujeito à Lei” (Gl 4, 4)
 
 ***Sumário.** O divino Redentor demorou a sua vinda quatro mil anos, não somente para que fosse mais apreciada pelos homens, senão também para que melhor se conhecesse a malícia do pecado e a necessidade do remédio. Chegada que foi a plenitude dos tempos, enviou Deus um arcanjo à Santíssima Virgem e, obtido o consentimento desta, o Verbo se fez homem no seio puríssimo de Maria. Quanto não devemos agradecer ao Senhor o ter-nos feito nascer depois que se cumpriu tão grande mistério!*

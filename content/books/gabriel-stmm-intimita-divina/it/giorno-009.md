@@ -1,4 +1,4 @@
-## 9 — L'IMMACOLATA CONCEZIONE[^1]
+# 9 — L'IMMACOLATA CONCEZIONE[^1]
 
 **Presenza di Dio.** — *Mi metto alla presenza di Maria Immacolata, dolce Madre mia, ascoltando il suo invito: «Venite a me, voi tutti che mi amate, e vi racconterò quanto Dio ha fatto all'anima mia» (BR.).*
 

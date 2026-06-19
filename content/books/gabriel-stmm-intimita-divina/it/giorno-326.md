@@ -1,4 +1,4 @@
-## 4 — SENTIRE CON CRISTO
+# 4 — SENTIRE CON CRISTO
 
 **Presenza di Dio.** — *O Gesù, fa' che io possa nutrire per le anime sentimenti simili a quelli del tuo Cuore divino.*
 

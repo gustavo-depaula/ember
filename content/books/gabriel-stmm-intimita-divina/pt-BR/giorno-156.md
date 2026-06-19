@@ -1,4 +1,4 @@
-## XVII — DECISÃO RESOLUTA
+# XVII — DECISÃO RESOLUTA
 
 **Presença de Deus.** — *Ó Senhor, torna-me perseverante na oração, apesar das dificuldades que eu possa encontrar.*
 

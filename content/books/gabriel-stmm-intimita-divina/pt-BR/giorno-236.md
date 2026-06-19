@@ -1,4 +1,4 @@
-## VI — A BONDADE INFINITA SE DIFUNDE
+# VI — A BONDADE INFINITA SE DIFUNDE
 
 **Presença de Deus.** — *Ó Bondade infinita, que incessantemente te comunicas às tuas criaturas, ensina-me a imitar-te.*
 

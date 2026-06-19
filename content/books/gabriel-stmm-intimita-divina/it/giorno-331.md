@@ -1,4 +1,4 @@
-## 9 — LA PREGHIERA APOSTOLICA
+# 9 — LA PREGHIERA APOSTOLICA
 
 **Presenza di Dio.** — *Accetta, Signore, la mia povera preghiera per l'avvento del tuo regno.*
 

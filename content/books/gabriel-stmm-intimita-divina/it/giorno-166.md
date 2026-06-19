@@ -1,4 +1,4 @@
-## XXVII — La S. Messa
+# XXVII — La S. Messa
 
 **Presenza di Dio.** — *Concedimi, o Gesù, di comprendere sempre meglio il valore ed il significato del tuo Sacrificio eucaristico.*
 

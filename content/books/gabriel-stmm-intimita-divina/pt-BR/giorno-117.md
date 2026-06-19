@@ -1,4 +1,4 @@
-## 41 — A VERDADEIRA GLÓRIA
+# 41 — A VERDADEIRA GLÓRIA
 
 **Presença de Deus.** — *Ó Jesus, que por amor de mim aceitaste a desonra da morte de cruz, ensina-me em que consiste a verdadeira glória e faze que, por amor de ti, eu saiba vencer meus pontos de honra.*
 

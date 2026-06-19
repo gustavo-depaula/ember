@@ -1,3 +1,5 @@
+# 02 de Julho. Festa da Visitação de Nossa Senhora
+
 > *Exsurgens Maria, abiit in montana cum festinatione, in civitatem Iuda *—“Levantando-se Maria, foi apressadamente às montanhas, a uma cidade de Judá” (Lc 1, 39)
 
 ***Sumário.** Afiguremo-nos ver Maria Santíssima que, partindo de Nazaré, estuga o passo a fim de consolar Isabel, quanto antes, com a sua presença. Isabel, iluminada pelo Espírito Santo, exalta-a como Mãe de Deus. Mas a divina Mãe humilha-se profundamente, atribuindo a Deus os louvores que lhe são dirigidos. Enchendo toda aquela família dos favores mais assinalados, Maria começa desde então a ser a dispensadora das misericórdias divinas. Ó Virgem Santíssima, dignai-vos de visitar também a minha alma e de a enriquecer com a santa humildade e com um amor ardente para com Deus e o próximo.*

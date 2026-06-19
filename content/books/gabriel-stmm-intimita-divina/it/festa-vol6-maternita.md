@@ -1,4 +1,4 @@
-## 11 ottobre — LA MATERNITÀ DI MARIA
+# 11 ottobre — LA MATERNITÀ DI MARIA
 
 **Presenza di Dio.** — *Maria, Madre di Dio, accetta i miei umili ossequi e fa' che anch'io possa godere i dolci frutti della tua maternità.*
 

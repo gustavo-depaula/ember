@@ -1,6 +1,4 @@
-# Segunda Parte — Da mais excelente devoção à Santíssima Virgem
-
-## Preliminares — Práticas interiores e exteriores
+# Preliminares — Práticas interiores e exteriores
 
 124 — Há várias práticas interiores da verdadeira devoção à Santíssima Virgem, das quais eis as principais em resumo: 1.o — honrá-la como a digna Mãe de Deus, com o culto de hiperdulia, isto é, estimá-la e honrá-la acima de todos os outros santos, como a obra-prima da graça e a primeira depois de Jesus Cristo, verdadeiro Deus e verdadeiro homem; 2.o — meditar suas virtudes, seus privilégios e suas ações; 3.o — contemplar suas grandezas; 4.o — fazer-lhe atos de amor, de louvor e de reconhecimento; 5.o — invocá-la cordialmente; 6.o — oferecer-se e unir-se a ela; 7.o — fazer suas ações com o fim de agradar-lhe; 8.o — começar, continuar e terminar todas as suas ações por ela, nela e com ela, a fim de fazê-las por Jesus Cristo, em Jesus Cristo, com Jesus Cristo e para Jesus Cristo, nosso último fim; explicaremos esta última prática.
 

@@ -1,4 +1,4 @@
-## 17 — INTERIOR SILENCE
+# 17 — INTERIOR SILENCE
 
 **Presence of God.** — *O Lord, silence in me every voice of the world, of creatures, of my ego, so that I may hear only Your voice.*
 

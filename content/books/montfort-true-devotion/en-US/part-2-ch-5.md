@@ -1,4 +1,4 @@
-## Article V — Particular Practices of This Devotion
+# Article V — Particular Practices of This Devotion
 
 ### I. Exterior Practices
 

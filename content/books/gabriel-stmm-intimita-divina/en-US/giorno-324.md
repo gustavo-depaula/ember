@@ -1,4 +1,4 @@
-## 2 — DUTY OF APOSTOLATE
+# 2 — DUTY OF APOSTOLATE
 
 **Presence of God.** — *O Jesus, who welcomed me as your member, grant that I may not live as stranger in your Mystical Body, but may serve good of all brothers.*
 

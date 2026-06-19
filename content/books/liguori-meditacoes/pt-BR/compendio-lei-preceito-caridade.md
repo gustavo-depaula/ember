@@ -1,3 +1,5 @@
+# Domingo. O compêndio da lei é o preceito da caridade
+
 ## 17º Domingo depois de Pentecostes
 
 > *In his duobus mandatis universa lex pendet et prophetae* – “Nestes dois mandamentos está encerrada toda a lei e os profetas” (Mt 22, 40)

@@ -1,4 +1,4 @@
-## 46 — L'UNIONE DI VOLONTÀ
+# 46 — L'UNIONE DI VOLONTÀ
 
 **Presenza di Dio.** — *O Signore, prendi tutta la mia volontà e trasformala nella tua.*
 

@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus ilumina o mundo e glorifica a Deus
+
 > *Creavit Dominus novum super terram* – “O Senhor criou uma coisa nova sobre a terra” (Jr 31, 22)
 
 ***Sumário.** Antes da vinda do Messias, o mundo estava abismado na ignorância, e o Deus verdadeiro era apenas conhecido num cantinho da terra, na Judéia. De todas aquelas trevas livrou-nos Jesus Cristo, que desde o primeiro instante da sua conceição deu mais glória ao Pai Eterno do que lhe têm dado e darão todos os Anjos e Santos. Tomemos ânimo nós, os pobres pecadores, e ofereçamos a Deus Pai este Menino e ressarci-Lo-emos de todas as ofensas que Lhe temos feito.*

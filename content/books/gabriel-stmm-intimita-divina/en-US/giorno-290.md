@@ -1,4 +1,4 @@
-## XXIX — SINCERITY
+# XXIX — SINCERITY
 **Presence of God.** — *Give me, O Lord, a frank and sincere heart, lover of truth, that seeks and wills truth at any cost.*
 
 ### Meditation

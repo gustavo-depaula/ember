@@ -1,4 +1,4 @@
-## 20 — PROVA DI AMORE
+# 20 — PROVA DI AMORE
 
 **Presenza di Dio.** — *O Gesù crocifisso, degnati di farmi intendere come la Croce è la più grande prova di amore.*
 

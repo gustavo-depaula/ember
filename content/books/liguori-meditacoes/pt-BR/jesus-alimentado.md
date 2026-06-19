@@ -1,3 +1,5 @@
+# Dia 04 de Janeiro. Jesus é alimentado
+
 > *Quis mihi det te fratrem meum, sugentem ubera matris meae?* – “Quem te dará a mim por irmão, que tomara o leite da minha mãe?” (Ct 8, 1)
 
 ***Sumário.** Quando o Menino Jesus foi envolto em paninhos, suspirou pelo alimento da Virgem Maria, e tomando-o já pensava em como havia de mudá-lo naquele sangue com que deveria um dia resgatar as almas sobre a cruz e alimentar nelas a vida da graça pela Comunhão. Roguemos à divina Mãe que nos alimente com o leite de uma devoção terna e amorosa à Infância de Jesus.*

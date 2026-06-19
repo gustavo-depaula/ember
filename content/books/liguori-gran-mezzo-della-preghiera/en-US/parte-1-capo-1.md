@@ -1,6 +1,4 @@
-# Part One
-
-## Chapter I — On the Necessity of Prayer
+# Chapter I — On the Necessity of Prayer
 
 It was an error of the Pelagians to say that prayer is not necessary for attaining salvation. Their impious master Pelagius used to say that man is lost only insofar as he neglects to know the truths necessary for him to know. But St. Augustine remarked a great thing: *Omnia disputat, quam ut oret.* Pelagius wished to discuss every other matter except prayer, which is the only means (as the Saint held and taught) for acquiring the Science of the Saints, according to what St. James wrote: *Si quis indiget sapientia, postulet a Deo, qui dat omnibus affluenter, nec improperat* (James 1:6).
 

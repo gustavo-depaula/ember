@@ -1,4 +1,4 @@
-## 47 — O AUXÍLIO DIVINO
+# 47 — O AUXÍLIO DIVINO
 
 **Presença de Deus.** — *Ó Senhor, que me prevenis, acompanhais e sustentais com a vossa graça, fazei que esta graça em mim não seja vã.*
 

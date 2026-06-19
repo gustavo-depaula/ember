@@ -1,4 +1,4 @@
-## XII — RIAMARE L'AMORE
+# XII — RIAMARE L'AMORE
 
 **Presenza di Dio.** — *O Gesù, che tanto mi hai amato, rendimi capace di ricambiare il tuo amore.*
 

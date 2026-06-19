@@ -1,4 +1,4 @@
-## 25 — IL PECCATO VENIALE
+# 25 — IL PECCATO VENIALE
 
 **Presenza di Dio.** — *Infiammami, o Signore, col tuo santo zelo affinché non sappia tollerare in me la più piccola cosa che ti dispiaccia.*
 

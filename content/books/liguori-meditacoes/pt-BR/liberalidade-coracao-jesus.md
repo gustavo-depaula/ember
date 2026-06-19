@@ -1,3 +1,5 @@
+# 7º Dia – Terça-feira. Liberalidade do Coração de Jesus
+
 ## 7º Dia da Novena ao Sagrado Coração de Jesus
 
 > *Mecum sunt divitiae… ut ditem diligentes me, et thesauros eorum repleam* – “Comigo estão as riquezas… para enriquecer os que me amam e encher os seus tesouros” (Pv 8, 18 e 21)

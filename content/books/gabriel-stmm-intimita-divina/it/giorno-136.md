@@ -1,4 +1,4 @@
-## 60 — L'UOMO DEI DOLORI
+# 60 — L'UOMO DEI DOLORI
 *mercoledì santo*
 
 **Presenza di Dio.** — *O Gesù appassionato, fa' che nella tua Passione io possa leggere l'amor tuo per me.*

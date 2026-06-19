@@ -1,3 +1,5 @@
+# Sexta-feira. Conformidade com a vontade de Deus a exemplo de Jesus Cristo
+
 São Padre Pio de Pietrelcina, modelo e exemplo de fiel seguidor de Cristo
 
 > *Descendi de coelo, non ut faciam voluntatem meam, sed voluntatem eius qui misit me* – “Eu desci do céu, não para fazer a minha vontade, mas a vontade daquele que me enviou” (Jo 6, 38)

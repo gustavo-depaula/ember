@@ -1,4 +1,4 @@
-## XXIV — Lo Spirito Santo ci conforma a Cristo
+# XXIV — Lo Spirito Santo ci conforma a Cristo
 
 **Presenza di Dio.** — *O Spirito Santo, rendimi conforme a Gesù, fa' di me un «alter Christus».*
 

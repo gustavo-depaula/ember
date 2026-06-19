@@ -1,4 +1,4 @@
-## 52 — Gesù ci rivela il Padre
+# 52 — Gesù ci rivela il Padre
 
 **Presenza di Dio.** — *O Gesù, Tu sei il Verbo rivelatore del Padre, Tu solo dunque mi puoi insegnare chi sia il mio Dio. Parla, o Signore, il tuo servo ti ascolta!*
 

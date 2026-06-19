@@ -1,4 +1,4 @@
-## 3 — COLLABORATORI DI DIO
+# 3 — COLLABORATORI DI DIO
 
 **Presenza di Dio.** — *Signore, prendimi affinché sia degno di collaborare con te alla diffusione del tuo regno.*
 

@@ -1,4 +1,4 @@
-## XI — INFINITE JUSTICE
+# XI — INFINITE JUSTICE
 
 **Presence of God.** — *O Lord, let me know the beauties of your justice; teach me to love it with zeal and trust.*
 

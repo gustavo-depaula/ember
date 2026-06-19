@@ -1,3 +1,5 @@
+# Sexta-feira. Primeira palavra de Jesus Cristo na cruz
+
 > *Pater, dimitte illis: non enim sciunt quid faciunt* – “Pai, perdoai-lhes; pois não sabem o que fazem” (Sl 118, 131)
 
 ***Sumário.** Ó ternura do amor de Jesus! Os judeus, depois de O pregarem na cruz, injuriam-No e prorrompem em blasfêmias. Ao mesmo tempo, Jesus, movido pelo desejo de salvar a todos, volve-se ao Pai Eterno, roga-Lhe pelos que O crucificaram e procura desculpar o crime. Meu irmão, se pelos nossos pecados temos renovado a crucifixão do Senhor, não desanimemos; porque Jesus nos abrangeu também em sua oração. É, porém, necessário que Lhe imitemos o exemplo, perdoando a nossos inimigos e dando o bem pelo mal.

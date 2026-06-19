@@ -1,4 +1,4 @@
-## 34 — LE UMILIAZIONI
+# 34 — LE UMILIAZIONI
 
 **Presenza di Dio.** — *O Gesù, umiliato per me fino all'abbiezione, insegnami ad umiliarmi per amor tuo.*
 

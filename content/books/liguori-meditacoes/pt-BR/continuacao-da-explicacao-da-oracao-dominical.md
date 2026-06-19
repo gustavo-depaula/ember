@@ -1,3 +1,5 @@
+# 4ª Meditação. Continuação da explicação da Oração Dominical
+
 > *Panem nostrum quotidianum da nobis hodie* — “O pão nosso de cada dia nos dai hoje” (Lc 11, 3)
 
 ***Sumário.** O divino Redentor, depois de nos ter feito cumprir as obrigações de bons filhos para com nosso Pai celestial, pela petição do que se refere à sua glória, faz-nos em seguida pedir as graças que dizem respeito a nós mesmos. Quer que peçamos ao Senhor, que nos dê cada dia o sustento do corpo e da alma, força para não sucumbirmos às tentações, e nos livre de toda a sorte de males. Ó sublimidade da Oração Dominical! Rezemo-la frequente e devotamente.*

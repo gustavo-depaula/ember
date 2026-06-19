@@ -1,4 +1,4 @@
-## VII — IL SACRAMENTO DELL'UNIONE
+# VII — IL SACRAMENTO DELL'UNIONE
 
 **Presenza di Dio.** — *O Gesù, che mi nutri col tuo Corpo e col tuo Sangue, fa' che io viva di te, della tua vita.*
 

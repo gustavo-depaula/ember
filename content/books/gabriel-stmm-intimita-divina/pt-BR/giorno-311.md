@@ -1,4 +1,4 @@
-## XIX — O DOM DA PIEDADE
+# XIX — O DOM DA PIEDADE
 
 **Presença de Deus.** — *Ó Espírito Santo, Espírito de piedade, alegra e suaviza meu coração.*
 

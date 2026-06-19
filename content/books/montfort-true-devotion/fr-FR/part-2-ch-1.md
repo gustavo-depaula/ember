@@ -1,4 +1,4 @@
-## Article I — En quoi consiste la parfaite consécration à Jésus-Christ
+# Article I — En quoi consiste la parfaite consécration à Jésus-Christ
 
 Toute notre perfection consistant à être conformés, unis et consacrés à Jésus-Christ, la plus parfaite de toutes les dévotions est sans difficulté[^133] celle qui nous conforme, unit et consacre le plus parfaitement à Jésus-Christ. Or, Marie étant la plus conforme à Jésus-Christ de toutes les créatures, il s'ensuit que, de toutes les dévotions, celle qui consacre et conforme le plus une âme à Notre Seigneur est la dévotion à la très sainte Vierge sa sainte Mère ; et que plus une âme sera consacrée à Marie, plus elle le sera à Jésus-Christ ; c'est pourquoi la parfaite consécration à Jésus-Christ n'est autre chose qu'une parfaite et entière consécration de soi-même à la très sainte Vierge, qui est la dévotion que j'enseigne, ou autrement une parfaite rénovation des voeux et promesses du saint Baptême.
 

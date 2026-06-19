@@ -1,4 +1,4 @@
-## 18 — UMILTÀ NELL'APOSTOLATO
+# 18 — UMILTÀ NELL'APOSTOLATO
 
 **Presenza di Dio.** — *O Signore, imprimi in me un senso così profondo della mia indigenza, per cui tutto io attenda da te ed a te solo attribuisca ogni bene.*
 

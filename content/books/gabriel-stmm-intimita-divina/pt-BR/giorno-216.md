@@ -1,4 +1,4 @@
-## XVI — O CORAÇÃO DE JESUS NOSSO REFÚGIO
+# XVI — O CORAÇÃO DE JESUS NOSSO REFÚGIO
 
 **Presença de Deus.** — *Ó Jesus, digna-te introduzir-me no teu sacratíssimo Coração e seja este o lugar do meu recolhimento, do meu refúgio, do meu repouso.*
 

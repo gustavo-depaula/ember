@@ -1,3 +1,5 @@
+# 24 de Junho. Festa de São João Batista
+
 > *Non surrexit inter natos mulierum maior Ioanne Baptista* — “Entre os nascidos de mulheres outro não se levantou maior que João Batista” (Mt 11, 11)
 
 ***Sumário.** Grandes são os privilégios que Deus concedeu a seu Precursor, porque reuniu nele só as prerrogativas repartidas entre os outros santos; fazendo-o Patriarca, Profeta, Apóstolo, Evangelista, Mártir, Anacoreta, Virgem. E quão bem soube o santo corresponder à liberalidade divina. Nós também recebemos de Deus muitos favores; mas como é que lhes temos correspondido? Lembremo-nos, porém, que o melhor meio para receber novas graças é o bom uso das já recebidas.*

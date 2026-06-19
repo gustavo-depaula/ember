@@ -1,3 +1,5 @@
+# Domingo. A parábola dos operários e a recompensa divina
+
 ## Domingo da Septuagésima
 
 > *Voca operarios et redde illis mercedem, incipiens a novissimis usque ad primus* – “Chama os operários e paga-lhes o jornal, a começar dos últimos até os primeiros” (Mt 20, 8)

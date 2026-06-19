@@ -1,6 +1,4 @@
-# Troisième Partie — Exercices de chaque mois
-
-## Art. 1. Visites au Saint-Sacrement, à la sainte Vierge et à saint Joseph, pour chaque jour du mois
+# Art. 1. Visites au Saint-Sacrement, à la sainte Vierge et à saint Joseph, pour chaque jour du mois
 
 ### Manière de faire les Visites
 

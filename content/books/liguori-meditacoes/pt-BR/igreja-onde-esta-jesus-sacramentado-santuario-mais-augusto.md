@@ -1,3 +1,5 @@
+# Quinta-feira. A igreja onde está Jesus Sacramentado é o santuário mais augusto
+
 > *Elegi et sanctificavi locum istum, ut… permaneant oculi mei et cor meum ibi cunctis diebus* – “Escolhi e santifiquei este lugar… para nele estarem fixos os meus olhos, e o meu coração, em todo o tempo” (2 Cr 7, 16)
 
 ***Sumário.** Os peregrinos experimentam grande ternura em visitar a Casa Santa de Loreto, ou os lugares da Terra Santa onde Jesus nasceu, habitou, morreu e foi sepultado. Muito maior, porém, deve ser a nossa devoção quando estamos numa igreja em presença de Jesus Cristo mesmo, oculto no Santíssimo Sacramento. Com efeito, não há santuário mais devoto e consolador do que uma igreja a na qual está Jesus sacramentado. Todavia a maior parte dos homens o deixam quase sempre só e abandonado!*

@@ -1,3 +1,5 @@
+# Quinta-feira. Devemos esperar tudo pelos merecimentos de Jesus Cristo
+
 > *Proprio filio suo non pepercit, sed pro nobis omnibus tradidit illum* – “(Deus) não poupou a seu próprio Filho, mas entregou-O por nós todos” (Rm 8, 32)
 
 ***Sumário.** A satisfação que o Filho de Deus ofereceu ao Pai Eterno é infinitamente maior do que a dívida que com os nossos pecados tínhamos contraído. Por isso não seria justo que perecesse o pecador que se arrepende de seus pecados e oferece a Deus os merecimentos do Redentor. Por outro lado, Jesus Cristo lá no céu intercede continuamente por nós e o Pai divino não pode negar nada a um Filho tão querido. Agradeçamos, pois, ao Senhor, e imploremos com confiança qualquer graça, valendo-nos sempre desses merecimentos infinitos.*

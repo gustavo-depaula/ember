@@ -1,3 +1,5 @@
+# Domingo. O milagre do surdo-mudo e os espiritualmente mudos
+
 ## 11º Domingo depois de Pentecostes
 
 > *Adducunt ei surdum et mutum, et deprecabantur eum, ut imponat illi manum* – “Trazem-lhe um surdo-mudo, e lhe rogaram que pusesse a mão sobre ele” (Mc 7, 32)

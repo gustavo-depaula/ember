@@ -1,4 +1,4 @@
-## 13 — RUMO À PÁTRIA
+# 13 — RUMO À PÁTRIA
 *XX domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Ó Senhor, ensina-me o caminho para chegar até ti.*

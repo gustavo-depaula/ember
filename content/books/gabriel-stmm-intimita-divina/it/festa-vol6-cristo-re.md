@@ -1,4 +1,4 @@
-## Ultima domenica di ottobre — FESTA DI CRISTO RE
+# Ultima domenica di ottobre — FESTA DI CRISTO RE
 
 **Presenza di Dio.** — *O Gesù, Principe dei secoli, Re delle genti, sii l'unico Re della mia mente e del mio cuore.*
 

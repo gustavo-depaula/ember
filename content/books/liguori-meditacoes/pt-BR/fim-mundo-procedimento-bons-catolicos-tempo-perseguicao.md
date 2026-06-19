@@ -1,3 +1,5 @@
+# Domingo. O fim do mundo e o procedimento dos bons católicos em tempo de perseguição
+
 ## 25ª e Última Semana depois de Pentecostes
 
 > *Erit tunc tribulatio magna, qualis non fuit ab initio mundi usque modo* – “Será então a aflição tão grande, que, desde que há mundo até agora, não houve outra semelhante” (Mt 24, 21)

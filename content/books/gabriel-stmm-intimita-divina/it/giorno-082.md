@@ -1,4 +1,4 @@
-## 6 — REGOLE DI SPOGLIAMENTO
+# 6 — REGOLE DI SPOGLIAMENTO
 
 **Presenza di Dio.** — *O Signore, la mia cecità e la mia debolezza hanno ancora bisogno della tua luce e della tua forza per intraprendere con generosità la via del nulla.*
 

@@ -1,4 +1,4 @@
-## 2 — INVITO ALLA SANTITÀ
+# 2 — INVITO ALLA SANTITÀ
 
 **Presenza di Dio.** — *Mi metto alla presenza di Gesù Sacramentato, considerando in lui il Redentore e il Santificatore dell'anima mia.*
 

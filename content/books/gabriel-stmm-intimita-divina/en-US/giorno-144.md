@@ -1,4 +1,4 @@
-## V — GOD INVITES ALL
+# V — GOD INVITES ALL
 **Presence of God.** — *O Lord, I run at Thy invitation; I come to Thy fountain: give me to drink!*
 
 ### Meditation

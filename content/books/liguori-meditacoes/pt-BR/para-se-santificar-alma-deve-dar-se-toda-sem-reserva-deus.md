@@ -1,3 +1,5 @@
+# Quarta-feira. Para se santificar a alma deve dar-se toda e sem reserva a Deus
+
 São João da Cruz
 
 > *Dilectus meus mihi, et ego illi* – “Meu amado é para mim, e eu para ele” (Ct 2, 16)

@@ -1,3 +1,5 @@
+# Sábado. Grandeza da Misericórdia de Maria Santíssima
+
 > *Transite ad me omnes qui concupiscitis me, et a generationibus meis implemini* – “Passai-vos a mim todos os que me cobiçais, enchei-vos dos meus frutos” (Eclo 24, 26)
 
 ***Sumário.** Quando a Santíssima Virgem vivia ainda na terra, já não podia ver algum necessitado sem socorrê-lo. Quanto mais misericordiosa não será agora que está no céu, de onde melhor vê as nossas misérias e nos ama com coração de Mãe! Não nos descuidemos portanto de recorrer a uma Mãe tão boa em todas as nossas necessidades e de pôr nela toda a nossa esperança. Mas, ao mesmo tempo, deixemos de lhe amargurar o coração pela nossa tibieza e pelos nossos pecados.*

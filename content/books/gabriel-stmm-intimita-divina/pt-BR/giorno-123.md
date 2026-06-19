@@ -1,4 +1,4 @@
-## 47 — OBEDIÊNCIA SOBRENATURAL
+# 47 — OBEDIÊNCIA SOBRENATURAL
 
 **Presença de Deus.** — Ó Jesus, ensina-me a ver somente a ti em meus superiores.
 

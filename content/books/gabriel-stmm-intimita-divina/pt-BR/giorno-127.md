@@ -1,4 +1,4 @@
-## 51 — O VALOR DO SOFRIMENTO
+# 51 — O VALOR DO SOFRIMENTO
 
 **Presença de Deus.** — Ó Jesus crucificado, ensina-me a ciência da cruz, ensina-me o valor do sofrimento.
 

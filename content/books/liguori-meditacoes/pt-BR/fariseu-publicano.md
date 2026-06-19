@@ -1,3 +1,5 @@
+# Domingo. O Fariseu e o Publicano
+
 ## 10º Domingo depois de Pentecostes
 
 > *Duo homines ascenderunt in templum, ut orarent: unus pharisaeus et alter publicanus* – “Subiram dois homens ao templo a fazer oração; um fariseu e outro publicano” (Lc 18, 10)

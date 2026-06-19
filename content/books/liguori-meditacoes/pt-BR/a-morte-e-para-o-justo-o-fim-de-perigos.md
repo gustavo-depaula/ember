@@ -1,3 +1,5 @@
+# 9ª Meditação. A morte é para o Justo o fim de perigos
+
 > *Absterget Deus omnem lacrimam ab oculis eorum, et mors ultra non erit* — “Deus enxugará toda lágrima de seus olhos, e não haverá mais morte” (Ap 21, 4)
 
 ***Sumário.** Se alguém habitasse uma casa cujas paredes ameaçam ruína, cujas traves e telhado estremecem, quanto não desejaria sair dela? É este exatamente o nosso caso durante a vida terrestre; o mundo, o inferno e as paixões levam-nos ao pecado e nos ameaçam com ruína irreparável. Como, pois, a morte é desejável para o bom cristão! Que grande obséquio faz Deus a uma alma chamando-a a si, enquanto está na sua amizade!*

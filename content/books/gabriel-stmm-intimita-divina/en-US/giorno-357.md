@@ -1,4 +1,4 @@
-## 35 — PASSIVE PURIFICATION
+# 35 — PASSIVE PURIFICATION
 
 **Presence of God.** — *My God, illumine my path, that I may not lose myself amid the darkness of tribulations.*
 

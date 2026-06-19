@@ -1,3 +1,5 @@
+# Sábado. Inefável dignidade de Maria Santíssima
+
 > *De qua natus est Iesus, qui vocatur Christus* – “Da qual nasceu Jesus, que se chama o Cristo” (Mt 1, 16)
 
 ***Sumário.** É tão grande a dignidade de Maria como Mãe de Jesus Cristo, que só Deus com a sua sabedoria infinita a pode compreender; mas toda a sua onipotência não pode fazer outra maior. Façamos um ato de viva fé acerca desta divina maternidade; alegremo-nos com a Santíssima Virgem, e aumentemos a nossa confiança nela, porquanto de certo modo nos é devedora da sua altíssima dignidade.*

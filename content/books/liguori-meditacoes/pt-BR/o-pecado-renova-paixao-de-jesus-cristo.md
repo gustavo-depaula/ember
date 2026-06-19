@@ -1,3 +1,5 @@
+# Terça-feira. O pecado renova a Paixão de Jesus Cristo
+
 > *Rursum crucifigentes sibimet ipsis Filium Dei, et ostentui habentes* – “Eles outra vez crucificam o Filho de Deus para si próprios e o expõem à ignomínia” (Hb 6, 6)
 
 ***Sumário.** Quem comete o pecado, contraria todos os desígnios amorosos de Jesus Cristo, inutiliza para si os frutos da Redenção, e, como diz São Paulo, pisa o Filho de Deus aos pés, despreza e profana seu sangue e renova a sua paixão e morte. Portanto, especialmente neste tempo de carnaval o Senhor é cada dia crucificado milhares de vezes. Imagina que são tantos os Calvários quantos são os antros do pecado. Ai, meu pobre Senhor!*

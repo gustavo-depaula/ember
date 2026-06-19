@@ -1,3 +1,5 @@
+# Quarta-feira. O pecador não quer obedecer a Deus
+
 > *A saeculo confregisti iugum meum, rupisti vincula mea, et dixisti: non serviam* – “Quebraste desde o princípio o meu jugo, rompeste os meus laços, e disseste: não servirei” (Jr 2, 20)
 
 ***Sumário.** Grande Deus! Todas as criaturas obedecem a Deus, como a seu supremo Senhor; os céus, a terra, o mar, os elementos obedecem-lhe de pronto ao menor sinal. E o homem, mais amado e privilegiado de Deus do que todas essas criaturas, não quer obedecer-lhe, e cada vez que peca, diz por suas obras com inaudita temeridade a Deus: Senhor, não Vos quero servir ― Confregisti iugum meum, dixisti: non serviam. Irmão meu, é isso o que tu também fizeste, se tiveste a desgraça de pecar.*

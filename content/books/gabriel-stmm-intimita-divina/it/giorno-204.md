@@ -1,4 +1,4 @@
-## IV — L'INVITO AL BANCHETTO
+# IV — L'INVITO AL BANCHETTO
 
 *Domenica fra l'Ottava del Corpus Domini*
 

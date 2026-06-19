@@ -1,4 +1,4 @@
-## 39 — THE DEVELOPMENT OF LOVE
+# 39 — THE DEVELOPMENT OF LOVE
 
 **Presence of God.** — *My God, who from eternity has prevented me with your infinite love, increase my love for you.*
 

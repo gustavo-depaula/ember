@@ -1,3 +1,5 @@
+# Terça-feira. Efeitos que em nós produz a divina graça
+
 > *Infinitus thesaurus est hominibus; quo qui usi sunt, participes facti sunt amicitiae Dei* – “Ela é um tesouro infinito para os homens; do qual os que usaram têm sido feito participantes da amizade de Deus”
 
 ***Sumário.** Porque havemos de ter inveja dos grandes do mundo? Se estamos na graça de Deus, participamos da sua própria natureza; somos, por assim dizer, um com Ele e de momento a momento podemos adquirir tesouros imensos de merecimentos para a eternidade. A nossa alma é então tão bela aos olhos do Senhor, que põe nela a sua complacência. Tudo isto Jesus Cristo no-lo mereceu pela sua Paixão; e por isso devemos prestar-Lhe contínuas ações de graças.*

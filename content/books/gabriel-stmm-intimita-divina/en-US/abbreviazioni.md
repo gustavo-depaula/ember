@@ -1,4 +1,4 @@
-## Abbreviations
+# Abbreviations
 
 To simplify the many citations of Carmelite authors, the following abbreviations are used throughout this work.
 

@@ -1,3 +1,5 @@
+# 21 de Junho. Festa de São Luiz Gonzaga
+
 > *Inspice et fac secundum exemplar, quod tibi in monte monstratum est* – “Olha e faze segundo o modelo que te foi mostrado no monte” (Ex 25, 40)
 
 ***Sumário.** Felizes daqueles que estão ainda em tempo de poderem imitar São Luís na sua inocência! Se não somos deste número, procuremos ao menos imitá-lo na sua penitência. Depois de recuperada a graça divina pela confissão sacramental, conservemo-la pelos mesmos meios de que usou o jovem angélico para nunca a perder. Frequentemos sobretudo os sacramentos, sejamos devotos à Santíssima Virgem e recomendemo-nos cada dia a São Luís.*

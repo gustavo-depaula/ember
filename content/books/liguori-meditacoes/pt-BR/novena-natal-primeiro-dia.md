@@ -1,3 +1,5 @@
+# 1º Dia – 16 de Dezembro. Jesus Menino consente em ser nosso Redentor
+
 ## Jesus Menino consente em ser nosso Redentor
 
 > *Dedi te in lucem gentium, ut sis salus mea usqye ad extremum terrae* – Eu te estabeleci para luz das gentes, afim de levares a minha salvação até à última extremidade da terra (Is 49, 6)

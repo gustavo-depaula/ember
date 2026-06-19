@@ -1,4 +1,4 @@
-## 48 — OBEDIÊNCIA CEGA
+# 48 — OBEDIÊNCIA CEGA
 
 **Presença de Deus.** — Ó Jesus, que por amor meu quiseste submeter-te às tuas criaturas, ensina-me a obedecer sem querer saber mais nada.
 

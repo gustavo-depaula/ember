@@ -1,3 +1,5 @@
+# 02 de Fevereiro. Festa da Purificação de Maria e da Apresentação de Jesus
+
 > *Postquam impleti sunt dies purgationis eius… tulerunt illum in Ierusalem, ut sisterent eum Domino* – “Tendo-se preenchido os dias da purificação de Maria… levaram-no a Jerusalém, para o apresentarem ao Senhor” (Lc 2, 22)
 
 ***Sumário.** Imaginemos ver a Santíssima Virgem, que, chegado o tempo de sua purificação, leva consigo o santo Menino, e acompanhada de São José, vai ao templo para oferecê-Lo em nome de todo o gênero humano. Entre todos os sacrifícios que até então tinham sido oferecidos, foi este o que mais agradou a Deus. Mas se Jesus oferece sua vida ao Pai por nosso amor, é de justiça que nós nos consagremos a Ele. A fim de que a nossa oferta seja mais agradável a Deus, façamo-la pelas mãos de Maria.*

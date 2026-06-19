@@ -1,4 +1,4 @@
-## XIX — THE GIFT OF PIETY
+# XIX — THE GIFT OF PIETY
 
 **Presence of God.** — *O Holy Spirit, Spirit of piety, gladden and sweeten my heart.*
 

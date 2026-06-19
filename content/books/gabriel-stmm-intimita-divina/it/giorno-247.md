@@ -1,4 +1,4 @@
-## XVII — LE NOSTRE RICCHEZZE
+# XVII — LE NOSTRE RICCHEZZE
 
 *VIII Domenica dopo Pentecoste*
 

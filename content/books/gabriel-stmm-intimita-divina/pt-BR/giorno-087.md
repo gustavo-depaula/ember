@@ -1,4 +1,4 @@
-## 11 — O ESPÍRITO DE POBREZA
+# 11 — O ESPÍRITO DE POBREZA
 
 **Presença de Deus.** — *Ó Jesus, contemplo-te no monte enquanto instruis as turbas sobre o espírito de pobreza. Aproximo-me também eu, desejoso de compreender mais a fundo o espírito de pobreza.*
 

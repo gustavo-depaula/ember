@@ -1,4 +1,4 @@
-## 33 — TOWARD A COMPLETE PURIFICATION
+# 33 — TOWARD A COMPLETE PURIFICATION
 
 **Presence of God.** — *Help me, Lord, that I may have the strength to undertake of my own initiative a complete purification.*
 

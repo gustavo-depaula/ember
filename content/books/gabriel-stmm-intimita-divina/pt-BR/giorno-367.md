@@ -1,4 +1,4 @@
-## 45 — AMOR UNITIVO
+# 45 — AMOR UNITIVO
 
 **Presença de Deus.** — *Deus meu, que infundiste em mim o amor, faze que este cresça até conduzir-me à união contigo.*
 

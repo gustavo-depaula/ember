@@ -1,4 +1,4 @@
-## 29 — APARECEU O SALVADOR
+# 29 — APARECEU O SALVADOR
 *25 dezembro*
 
 **Presença de Deus.** — *Eis-me aos pés do meu Deus feito carne, feito criança por amor de mim! Adoro, agradeço, amo!*

@@ -1,3 +1,5 @@
+# 01 de Junho. Sobre a Devoção ao Sagrado Coração de Jesus
+
 > *Ignem veni mittere in terram: et quid volo, nisi ut accendatur?* — “Eu vim trazer fogo à terra, e que quero senão que ele se acenda?” (Lc 12, 49)
 
 ***Sumário.** A devoção entre todas as devoções a mais perfeita é o amor a Jesus Cristo, com a recordação frequente do amor que nos dedicou e ainda sempre dedica. Exatamente para se fazer amar, é que o Verbo Eterno quis que nestes últimos tempos se instituísse e propagasse a devoção ao seu Coração, com a promessa das graças mais assinaladas aos que a praticassem. Felizes se estivermos do número destes devotos. Podemos estar certos de que o divino Coração nos abençoará em tudo o que empreendermos, e em todas as ocorrências será o nosso seguro abrigo.*

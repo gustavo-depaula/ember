@@ -1,6 +1,4 @@
-# Quatrième Partie — Exercices pour divers temps de l'année
-
-## Art. 1. Dévotion à la très sainte Trinité
+# Art. 1. Dévotion à la très sainte Trinité
 
 ### Le signe de la Croix indulgencié
 

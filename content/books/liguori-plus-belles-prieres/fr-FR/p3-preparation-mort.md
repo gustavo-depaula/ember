@@ -1,4 +1,4 @@
-## Art. 5. Exercices pour le quatrième dimanche du mois, consacré à la préparation à la mort
+# Art. 5. Exercices pour le quatrième dimanche du mois, consacré à la préparation à la mort
 
 Par un rescrit de SS. Pie IX, du 23 mai 1852, une indulgence plénière est accordée à tous les fidèles qui, le quatrième dimanche de chaque mois, après avoir reçu les sacrements de confession et de communion, assisteront, dans une église des Révérends Pères Rédemptoristes, à l'exercice pieux pour obtenir une bonne mort, et y prieront à l'intention du Souverain Pontife.[^1]
 

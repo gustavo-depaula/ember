@@ -1,4 +1,4 @@
-## 44 — THE MYSTICAL BODY OF CHRIST
+# 44 — THE MYSTICAL BODY OF CHRIST
 
 **Presence of God.** — *Holy Spirit, grant me "the abundance of full understanding to know the mystery of Christ Jesus" (Col. 2, 2).*
 

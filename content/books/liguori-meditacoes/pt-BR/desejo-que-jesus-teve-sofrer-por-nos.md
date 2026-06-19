@@ -1,3 +1,5 @@
+# Domingo. Desejo que Jesus teve de sofrer por nós
+
 Como poderemos deixar de amá-Lo de todo o nosso coração, e recusar-nos a sofrer alguma coisa por seu amor?
 
 > *Baptismo habeo baptizari, et quomodo coarctor, usquedum perficiatur* – “Tenho de ser batizado com um batismo; e quão grande não é a minha ansiedade até que ele se cumpra” (Lc 12, 50)

@@ -1,3 +1,5 @@
+# 1ª Meditação. Jesus nasce Menino
+
 > *Invenietis infantem pannis involutum, et positum in praesepio* — “Achareis um menino envolto em panos e colocado numa manjedoura” (Lc 2, 12)
 
 ***Sumário.** A pequenez das crianças é um grande atrativo de amor, por causa da inocência. Mas atrativo muito mais poderoso nos deve ser a pequenez do Menino Jesus, que, sendo Deus imenso, se fez pequeno para atrair com mais força os nossos corações. Ah! Como será possível contemplar com fé um Deus feito Menino, chorando e gemendo numa gruta, sobre um pouco de palha, e não amá-lo e não convidar todos a seu amor, como fazia São Francisco de Assis? Amemus puerum de Bethlehem —“Amemos o Menino de Belém”.*

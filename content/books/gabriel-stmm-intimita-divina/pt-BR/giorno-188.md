@@ -1,4 +1,4 @@
-## XIX — Doce hóspede da alma
+# XIX — Doce hóspede da alma
 
 *Tríduo de Pentecostes*
 

@@ -1,4 +1,4 @@
-## XXIII — NOSSA COLABORAÇÃO
+# XXIII — NOSSA COLABORAÇÃO
 
 **Presença de Deus.** — *Ó Espírito Santo, torna-me dócil à tua ação, sempre pronto a deixar-me mover e dirigir por ti.*
 

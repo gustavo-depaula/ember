@@ -1,3 +1,5 @@
+# Domingo. A tristeza os Apóstolos e as desolações espirituais
+
 ## Meditação para o 5º Domingo depois da Páscoa
 
 > *Expedit vobis, ut ego vadam; si non abiero, Paraclitus non veniet ad vos* – “É conveniente a vós que eu vá, porque, se não for, não virá a vós o Paráclito” (Jo 16, 7)

@@ -1,3 +1,5 @@
+# 9º Dia – 24 de Dezembro. A Gruta de Belém
+
 ## A Gruta de Belém
 
 > *Reclinavit eum in praesepio; quia non era eis locus in diversorio* – Ela reclinou-o em uma manjedoura; porque não havia lugar para eles na estalagem (Lc 2, 7)

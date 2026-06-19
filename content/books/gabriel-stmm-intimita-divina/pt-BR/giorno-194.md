@@ -1,4 +1,4 @@
-## XXV — A VIA DA CRUZ
+# XXV — A VIA DA CRUZ
 
 **Presença de Deus.** — *Ó Espírito Santo, instrui-me sobre o valor do sofrimento, ensina-me a estimá-lo e a amá-lo como meio de santificação.*
 

@@ -1,3 +1,5 @@
+# 15 de Agosto. Festa da Assunção de Maria Santíssima
+
 > *Astitit regina a dextris tuis, in vestitu deaurato, circumdata varietate* — “Apresentou-se a rainha à tua direita com manto de ouro, cercada de variedade” (Pv 44, 10)
 
 ***Sumário.** Maria morre, e acompanhada de inúmeros espíritos celestiais e de seu próprio Filho, entra no céu em alma e corpo. Deus abraça-a, abençoa-a e fá-la Rainha do universo, elevando-a acima de todos os anjos e santos. Regozijemo-nos com a divina Mãe, que é também a nossa, e avivemos a nossa confiança nela, invocando-a em todas as nossas necessidades. Roguemos-lhe sobretudo que, assim como ela morreu de puro amor a Deus, possamos nós morrer ao menos com contrição dos nossos pecados.*

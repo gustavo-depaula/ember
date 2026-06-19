@@ -1,3 +1,5 @@
+# Terça-feira. É preciso estarmos sempre prontos para morrer
+
 São Francisco de Assis
 
 > *Et vos estote parati; quia, qua hora non putatis, Filius hominis veniet* – “Vós outros, pois, estai preparados; porque na hora em que menos cuideis, virá o Filho do homem” (Lc 12, 40)

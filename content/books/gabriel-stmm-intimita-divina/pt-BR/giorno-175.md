@@ -1,4 +1,4 @@
-## VI — A Oração Eficaz
+# VI — A Oração Eficaz
 *V Domingo depois da Páscoa*
 
 **Presença de Deus.** — *Ó Jesus, faze-me compreender que minha oração é um nada, se não se apoia em ti; que minha fé é vã, se não a traduzo em obras.*

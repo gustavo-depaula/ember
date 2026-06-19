@@ -1,4 +1,4 @@
-## 28 — THE GREAT MYSTERY IS FULFILLED
+# 28 — THE GREAT MYSTERY IS FULFILLED
 *December 24*
 
 **Presence of God.** — *O Incarnate Word, my Savior, show me the wise lessons contained in the mystery of Your Incarnation.*

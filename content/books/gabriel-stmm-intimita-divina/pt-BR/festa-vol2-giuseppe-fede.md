@@ -1,4 +1,4 @@
-## 19 de março — VIDA DE FÉ EM S. JOSÉ
+# 19 de março — VIDA DE FÉ EM S. JOSÉ
 
 **Presença de Deus.** — *Na tua escola, ó glorioso S. José, desejo aprender a viver de fé, deixando-me em tudo guiar pela divina Providência.*
 

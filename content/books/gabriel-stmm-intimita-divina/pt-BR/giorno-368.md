@@ -1,4 +1,4 @@
-## 46 — A UNIÃO DE VONTADE
+# 46 — A UNIÃO DE VONTADE
 
 **Presença de Deus.** — *Ó Senhor, tomai toda a minha vontade e transformai-a na vossa.*
 

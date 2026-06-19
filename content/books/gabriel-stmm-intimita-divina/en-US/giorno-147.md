@@ -1,4 +1,4 @@
-## VIII — EASTER FRUITS
+# VIII — EASTER FRUITS
 *Low Sunday*
 
 **Presence of God.** — *O Jesus, like Thomas I draw near to you; grant that I may not be unbelieving, but faithful.*

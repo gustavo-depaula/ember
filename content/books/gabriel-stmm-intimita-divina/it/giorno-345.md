@@ -1,4 +1,4 @@
-## 23 — I PROGRESSI NELL'APOSTOLATO
+# 23 — I PROGRESSI NELL'APOSTOLATO
 
 **Presenza di Dio.** — *O Signore, uniscimi a te e la forza della tua carità accenda nel mio cuore la vera fiamma apostolica.*
 

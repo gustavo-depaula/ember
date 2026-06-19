@@ -1,4 +1,4 @@
-## 45 — VEM E SEGUE-ME
+# 45 — VEM E SEGUE-ME
 
 **Presença de Deus.** — Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 

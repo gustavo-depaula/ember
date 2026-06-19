@@ -1,4 +1,4 @@
-## Prefácio
+# Prefácio
 
 A oração mental é um meio indispensável de vida interior; aliás, normalmente é o seu respiro espontâneo. Todavia, em geral isso não se realiza se a alma não se aplica a ela por certo tempo com o próprio esforço: é preciso, em outras palavras, aprender a fazer oração.
 

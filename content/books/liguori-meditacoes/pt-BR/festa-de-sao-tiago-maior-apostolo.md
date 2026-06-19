@@ -1,3 +1,5 @@
+# 25 de Julho. Festa de São Tiago Maior, Apóstolo
+
 > “*Illi autem statim, relictis retibus et patre, secuti sunt eum*” — “Eles, no mesmo ponto, deixando as redes e o pai, foram em seu seguimento” (Mt 4, 22)
 
 *Sumário. Grandes foram os obstáculos que se opunham a que Tiago seguisse a Jesus Cristo. Entre outros, devia deixar um pai já idoso e uma terna mãe, que muito precisava dele. O santo todavia rompeu estes laços. Para o recompensar, o Senhor não só o elevou ao apostolado, mas preferindo-o aos demais apóstolos, cumulou-o das mais assinaladas graças. Se quisermos que Deus nos comunique graças semelhantes imitemos a prontidão, a generosidade e o amor do santo Apóstolo.*

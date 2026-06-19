@@ -1,3 +1,5 @@
+# Sexta-feira. Grandes penas de Jesus sobre a cruz
+
 > *Despectum et novissimum virorum, virum dolorum et scientem infirmitatem* – “O mais desprezado e o último dos homens; homem de dores e experimentado nos trabalhos” (Is 53, 3)
 
 ***Sumário.** Contemplemos Jesus suspenso no madeiro infame, cheio de dores e tormentos. Por fora está dilacerado pelos açoites, pelos espinhos e cravos; cada um de seus membros tem seu sofrimento particular. Por dentro está aflito e triste, desolado e desamparado de todos, mesmo do seu divino Pai. O que, porém, o atormenta mais é a vista dos pecados a serem cometidos pelos homens, remidos ao preço de seu sangue. Ah! Meu Redentor, eu também sou um dos ingratos que então vistes. Quem me dera ter morrido e nunca mais Vos ter ofendido!*

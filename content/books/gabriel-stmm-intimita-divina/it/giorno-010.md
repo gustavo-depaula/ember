@@ -1,4 +1,4 @@
-## 10 — INVITO ALL'INTIMITÀ DIVINA
+# 10 — INVITO ALL'INTIMITÀ DIVINA
 
 **Presenza di Dio.** — *Mi raccolgo alla presenza del mio Dio, vivente in me per la grazia, col vivo desiderio di mettermi in contatto con lui.*
 

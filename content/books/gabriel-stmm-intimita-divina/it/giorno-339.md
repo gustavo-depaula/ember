@@ -1,4 +1,4 @@
-## 17 — DIMENTICANZA E ABNEGAZIONE DI SÉ
+# 17 — DIMENTICANZA E ABNEGAZIONE DI SÉ
 
 **Presenza di Dio.** — *O Signore, che ti dai a noi sino a farti nostro cibo, insegnami a darmi alle anime sino a dimenticare totalmente me stesso.*
 

@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima é a esperança de todos
+
 > *In me omnis spes vitae et virtutis* – “Em mim há toda a esperança da vida e da virtude” (eclo 24, 25)
 
 ***Sumário.** O Rei do céu deseja sumamente enriquecer-nos das suas graças; mas como da nossa parte é necessária a confiança, afim de aumentá-la em nós, nos deu por Mãe e Advogada a sua própria Mãe, a quem deu todo o poder para nos ajudar. Por isso quer o Senhor que nela ponhamos a esperança de nossa salvação e de todo o nosso bem. Qual não deve, pois, ser nossa gratidão para com a bondade divina! Qual a confiança que devemos ter em Maria!*

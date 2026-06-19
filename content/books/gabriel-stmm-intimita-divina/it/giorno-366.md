@@ -1,4 +1,4 @@
-## 44 — AMORE OPEROSO E FORTE
+# 44 — AMORE OPEROSO E FORTE
 
 **Presenza di Dio.** — *O Signore, fa' che il mio amore per te non si accontenti di parole, ma si dimostri con opere generose.*
 

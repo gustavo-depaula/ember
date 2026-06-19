@@ -1,4 +1,4 @@
-## 47 — THE SPIRIT OF JESUS
+# 47 — THE SPIRIT OF JESUS
 
 **Presence of God.** — *Grant me, O Jesus, to contemplate Your Soul full of the Holy Spirit, so that I too may be a temple worthy of Him.*
 

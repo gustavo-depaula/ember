@@ -1,4 +1,4 @@
-## 52 — JESUS REVEALS THE FATHER TO US
+# 52 — JESUS REVEALS THE FATHER TO US
 
 **Presence of God.** — *O Jesus, You are the Word who reveals the Father; therefore You alone can teach me who my God is. Speak, Lord, Your servant is listening!*
 

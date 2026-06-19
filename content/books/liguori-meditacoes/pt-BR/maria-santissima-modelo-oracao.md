@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de Oração
+
 > *Oportet semper orare et non deficere* – “Importa orar sempre e não cessar de o fazer” (Lc 18, 1)
 
 ***Sumário.** Desde o instante em que a Santíssima Virgem recebeu a vida, e com esta o uso perfeito da razão, começou também a orar e nunca mais deixou de orar até ao seu último suspiro. Se Maria, tão santa e imaculada, foi tão amante da oração, quanto mais nós a devemos amar, que estamos tão propensos ao mal e temos inimigos tão fortes que combater? À imitação de nossa querida Mãe, habitemos com os nossos afetos no céu, nunca percamos de vista a eternidade e seja a oração o nosso único ornato.*

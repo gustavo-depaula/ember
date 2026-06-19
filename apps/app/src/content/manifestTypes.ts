@@ -152,6 +152,10 @@ export type TocNode = {
   id: string
   title: LocalizedText
   children?: TocNode[]
+  /** Overrides the depth-inferred reading role (part for top-level groups,
+   *  section for nested groups, chapter for leaves). The role styles the body's
+   *  promoted title — see flattenReadingFlow / promoteFirstHeading. */
+  role?: 'part' | 'section' | 'chapter'
   /** Range of point numbers in this chapter, shown in the TOC for books of
    *  numbered maxims (e.g. Escrivá's The Way → "1–46"). */
   pointRange?: { from: number; to: number }

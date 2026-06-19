@@ -1,4 +1,4 @@
-## IX — FESTA DEL SACRO CUORE DI GESÙ
+# IX — FESTA DEL SACRO CUORE DI GESÙ
 
 *Venerdì dopo l'Ottava del Corpus Domini*
 

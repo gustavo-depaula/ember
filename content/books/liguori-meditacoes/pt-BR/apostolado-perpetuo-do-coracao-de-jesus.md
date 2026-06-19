@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Junho. Apostolado Perpétuo do Coração de Jesus
+
 > *Semper vivens ad interpelandum pro nobis* — “Vivendo sempre para interceder por nós” (Hb 7, 25)
 
 ***Sumário.** O grande apostolado do Coração de Jesus se exerceu sobre a cruz, quando ofereceu por nós, a seu Pai, o seu sangue, a sua vida e os seus merecimentos. Mas o Coração de Jesus o exerce ainda continuamente sobre os nossos altares por meio da missa. Este apostolado redentor podemos exercê-lo com Jesus, quer celebrando, quer ouvindo a missa, unindo então as nossas intenções às intenções do seu adorável Coração. Ofereçamo-la ao Pai Eterno para nossa própria salvação e para a do próximo.*

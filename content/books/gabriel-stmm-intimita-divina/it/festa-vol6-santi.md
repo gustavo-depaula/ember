@@ -1,4 +1,4 @@
-## 1 novembre — I SANTI
+# 1 novembre — I SANTI
 
 **Presenza di Dio.** — *O Signore, per intercessione dei tuoi Santi, possa anch'io battere con coraggio la via della santità.*
 

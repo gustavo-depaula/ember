@@ -1,4 +1,4 @@
-## 2 — O DEVER DO APOSTOLADO
+# 2 — O DEVER DO APOSTOLADO
 
 **Presença de Deus.** — *Ó Jesus, que me acolheste como teu membro, faze que eu não viva como estranho no teu Corpo místico, mas possa aproveitar ao bem de todos os irmãos.*
 

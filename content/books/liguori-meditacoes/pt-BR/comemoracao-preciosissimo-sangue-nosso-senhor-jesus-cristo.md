@@ -1,3 +1,5 @@
+# Sexta-feira. Comemoração do preciosíssimo Sangue de Nosso Senhor Jesus Cristo
+
 > *Redemisti nos, Domine, in sanguine tuo… et fecisti nos Deo nostro regnum – “Remiste-nos, Senhor, em teu sangue, e fizeste-nos reino para Deus”* (Ap 5, 9)
 
 ***Sumário.** O Senhor não se contentou com pagar pela sua morte a pena a nós devida e anular com o seu sangue a sentença da nossa condenação eterna; quis ainda, no sacramento da penitência, preparar-nos um banho salutar de seu sangue, no qual pudéssemos, à vontade, lavar-nos das manchas do pecado. E nós não O amaremos de todo o coração?… Tomemos o belo hábito de oferecer frequentemente este Sangue preciosíssimo ao Eterno Pai, para obtermos todas as graças de que precisamos.*

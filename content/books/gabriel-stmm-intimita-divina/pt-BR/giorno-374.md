@@ -1,4 +1,4 @@
-## 52 — O TRIUNFO DO AMOR
+# 52 — O TRIUNFO DO AMOR
 
 **Presença de Deus.** — *Ó meu Deus, que em mim haja só amor, que tudo venha do amor e tudo vá ao amor.*
 

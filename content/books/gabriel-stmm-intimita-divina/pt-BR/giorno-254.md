@@ -1,4 +1,4 @@
-## XXIV — CORRESPONDÊNCIA À GRAÇA
+# XXIV — CORRESPONDÊNCIA À GRAÇA
 *IX Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Ó Senhor, faze que em mim a tua graça não seja vã.*

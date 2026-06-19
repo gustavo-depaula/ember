@@ -1,4 +1,4 @@
-## 8 — LE VARIE FORME DI APOSTOLATO
+# 8 — LE VARIE FORME DI APOSTOLATO
 
 **Presenza di Dio.** — *O Gesù, insegnami a pregare, a soffrire, a lavorare con te per la salvezza delle anime.*
 

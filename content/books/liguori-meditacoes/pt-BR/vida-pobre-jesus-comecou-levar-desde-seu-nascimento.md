@@ -1,3 +1,5 @@
+# Dia 10 de Janeiro. Vida pobre que Jesus começou a levar desde o seu nascimento
+
 > *Propter vos egenus factus est, cum esset dives, ut illius inopia vos divites essetis* – “Sendo rico, se fez pobre por vosso amor, a fim de que vós fosseis ricos pela sua pobreza” (2 Cor 8, 9)
 
 ***Sumário.** Se Jesus tivesse nascido em Nazaré, teria nascido pobre, sim; mas ao menos num quarto asseado e sem umidade, com um pouco de lume, paninhos aquecidos e um bercinho mais cômodo. Mas não; Jesus quis nascer naquela gruta fria e sem lume; quis que uma manjedoura lhe servisse de berço e um pouco de palha Lhe fosse colchão, a fim de padecer mais e ensinar-nos a santa pobreza. Aproveitemo-nos da lição e lembremo-nos de que, quem ama as comodidades, nunca será santo.*

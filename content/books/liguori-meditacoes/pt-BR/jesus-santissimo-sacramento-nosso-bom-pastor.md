@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento, nosso bom Pastor
+
 > *Ego sum pastor bonus* – “Eu sou o bom pastor” (Jo 10, 14)
 
 ***Sumário.** O ofício de bom pastor é guiar as suas ovelhas, apascentá-las e defendê-las contra os lobos devoradores. Depois de ter cumprido este tríplice dever durante toda a sua vida terrestre, Jesus continua a cumpri-lo no Santíssimo Sacramento do Altar. Aí Ele nos guia pelos exemplos, defende-nos contra os inimigos espirituais, e alimenta-nos com o seu corpo imaculado. Se quisermos progredir na vida espiritual, nunca percamos de vista o nosso amante Pastor, visitemo-Lo frequentemente, e lembremo-nos que, se ficarmos perto d’Ele, receberemos os seus mais especiais favores.*

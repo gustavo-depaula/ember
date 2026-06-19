@@ -1,4 +1,4 @@
-## 7 — THE MOUNTAIN OF PERFECTION
+# 7 — THE MOUNTAIN OF PERFECTION
 
 **Presence of God.** — *"Who shall ascend the mountain of the Lord?" (Ps. 23, 3). I ask my God to allow me to approach the holy mountain where He dwells, where only His honor and glory reign.*
 

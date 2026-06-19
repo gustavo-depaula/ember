@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Novembro. O Coração de Jesus, modelo de Conformidade com a Vontade de Deus
+
 > *Sicut mandatum dedit mihi Pater, sic facio *— “Faço tudo o que meu Pai me ordenou” (Jo 14, 31)
 
 ***Sumário.** Ó! Em que chamas de amor para com seu Pai abrasou-se o Coração de Jesus! Um dos maiores sinais de amor que se pode dar a alguém, é fazer em tudo e sempre a sua vontade. Ora, tal foi a disposição contínua do Coração de Jesus: ele não buscou em toda a vida senão a vontade do seu eterno Pai. A conformidade com a vontade de Deus nos tornará semelhantes a Jesus Cristo e nos fará atingir o cimo da perfeição.*

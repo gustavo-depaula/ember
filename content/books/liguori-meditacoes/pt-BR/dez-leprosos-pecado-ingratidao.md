@@ -1,3 +1,5 @@
+# Domingo. Os dez leprosos e o pecado de ingratidão
+
 ## 13º Domingo depois de Pentecostes
 
 > *Non est inventus qui rediret, et daret gloriam Deo, nisi hic alienigena* – “Não se achou quem voltasse e viesse dar glória a Deus, senão só este estrangeiro” (Lc 17, 18)

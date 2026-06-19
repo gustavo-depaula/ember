@@ -1,4 +1,4 @@
-## Art. 2. Prière pour obtenir la vertu du mois
+# Art. 2. Prière pour obtenir la vertu du mois
 
 Les vertus désignées par S. Alphonse, pour les douze mois de l'année, sont amplement développées dans le livre intitulé : Pratique de la Perfection mise a la portée des fidèles de toute condition, d'après S. Alphonse. — Paris, à la Librairie internationale catholique, rue Bonaparte, 66. — Tournai, chez Casterman, éditeur.[^1]
 

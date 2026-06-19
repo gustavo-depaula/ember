@@ -1,3 +1,5 @@
+# Exercices pour la sainte communion (7e-8e)
+
 ### SEPTIÈME EXERCICE.[^1]
 
 #### Avant la Communion.

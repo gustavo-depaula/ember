@@ -1,4 +1,4 @@
-## 1 de novembro — OS SANTOS
+# 1 de novembro — OS SANTOS
 
 **Presença de Deus.** — *Ó Senhor, por intercessão dos vossos Santos, possa também eu trilhar com coragem a via da santidade.*
 

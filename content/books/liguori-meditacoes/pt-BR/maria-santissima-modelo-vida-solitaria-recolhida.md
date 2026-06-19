@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo da vida solitária e recolhida
+
 > *Quae est ista, quae ascendit de deserto… innixa super dilectum suum?* – “Quem é esta que sobe do deserto… firmada sobre o seu amado?” (Ct 8, 5)
 
 ***Sumário.** A Santíssima Virgem amava tanto a solidão, que, sendo ainda criança de três anos apenas, deixou seus pais e foi encerrar-se no templo. Imagina, pois, a que grau de recolhimento e de união com Deus deve ela ter chegado quando, feita Mãe de Deus, teve a sorte feliz de viver tantos anos com Jesus Cristo. Se aspiras a honra de ser filho de Maria, aplica-te com todo o cuidado a sua imitação, levando uma vida solitária e retirada. Por isso, ama o silêncio, conserva-te sempre na presença de Deus, e volve-te muitas vezes a Ele por meio de fervorosas orações jaculatórias.*

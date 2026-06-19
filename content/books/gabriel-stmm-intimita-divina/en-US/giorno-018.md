@@ -1,4 +1,4 @@
-## 18 — SEEKING GOD IN FAITH
+# 18 — SEEKING GOD IN FAITH
 
 **Presence of God.** — *I recollect myself in the presence of God, living in my soul, to learn to seek Him through the light of faith.*
 

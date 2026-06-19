@@ -1,4 +1,4 @@
-## Table des Matières
+# Table des Matières
 
 Priez... Priez... Priez... 5
 Calendrier . . . . . . . . . . . . . . . . . . 13

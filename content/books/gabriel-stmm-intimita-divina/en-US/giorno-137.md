@@ -1,4 +1,4 @@
-## 61 — THE GIFT OF LOVE
+# 61 — THE GIFT OF LOVE
 
 *Holy Thursday*
 

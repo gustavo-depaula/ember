@@ -1,3 +1,5 @@
+# Sexta-feira. A pena mais grave do Menino Jesus
+
 > *Quae utilitas in saguine meo, dum descendo in corruptionem?* – “Que proveito há no meu sangue, se desço à corrupção?” (Sl 29, 10)
 
 ***Sumário.** Quando Jesus estava ainda no seio de Maria Santíssima, já previa a dureza de coração dos homens, que pela maior parte havia de pisar o seu sangue aos pés e de desprezar a graça que com seu sangue lhes havia merecido. Foi esta a pena que mais O afligiu. Se nós também temos sido do número desses ingratos, não desesperemos, contanto que estejamos resolvidos a converter-nos; porque o divino Menino veio a oferecer a paz a todos os homens de boa vontade. Arrependamo-nos, pois, de nossos pecados e façamos o propósito de amar doravante o nosso bom Deus, e estejamos certos de que acharemos a paz, isso é, a amizade divina.*

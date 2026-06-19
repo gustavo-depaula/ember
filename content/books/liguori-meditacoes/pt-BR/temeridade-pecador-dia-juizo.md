@@ -1,3 +1,5 @@
+# Domingo. A temeridade do pecador e o dia do Juízo
+
 ## PRIMEIRO DOMINGO DO ADVENTO
 
 > *Videbunt Filium hominis venientem in nube cum potestate magna et maiestate* – Verão o Filho do homem que virá sobre uma nuvem com grande poder e majestade (Lc 21, 27)

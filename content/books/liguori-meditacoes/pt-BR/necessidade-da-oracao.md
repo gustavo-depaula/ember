@@ -1,3 +1,5 @@
+# Terça-feira. Necessidade da oração
+
 > *Oportet semper orare et non deficere* – “É preciso orar sempre e não deixar de o fazer” (Lc 18, 1)
 
 ***Sumário.** É certo que Deus, excetuando as primeiras graças, tais como a vocação para a fé ou penitência, nenhuma outra graça concede em regra geral (e menos ainda a perseverança) senão àquele que ora. Pelo que a oração é necessária aos adultos por necessidade de meio, de modo que o que ora, certamente se salva e o que não ora, certamente se condena. Este será o maior motivo de desespero para os réprobos, verem que tão facilmente se podiam salvar pela oração e que não há mais tempo para orar. Meu irmão, como usaste até hoje deste grande meio?*

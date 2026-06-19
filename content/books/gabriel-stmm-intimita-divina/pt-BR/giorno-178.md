@@ -1,4 +1,4 @@
-## IX — A Fé de Maria
+# IX — A Fé de Maria
 
 **Presença de Deus.** — *Ó minha Mãe, ensina-me a crer com plena firmeza, ensina-me a confiar totalmente em Deus.*
 

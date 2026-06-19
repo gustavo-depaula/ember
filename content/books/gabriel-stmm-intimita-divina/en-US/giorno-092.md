@@ -1,4 +1,4 @@
-## 16 — BODILY MORTIFICATION
+# 16 — BODILY MORTIFICATION
 
 **Presence of God.** — *O Jesus, grant that my love for You Crucified may go so far as to want to crucify with You and for You my flesh.*
 

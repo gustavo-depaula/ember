@@ -1,3 +1,5 @@
+# Sexta-feira. Vida desolada de Jesus Cristo
+
 > *Magna est velut mare contritio tua. Quis medebitur tui?* – “É grande como o mar o teu desfalecimento; quem te remediará?” (Lm 2, 13)
 
 ***Sumário.** A vida do Redentor foi destituída de qualquer consolação; porquanto os suplícios que devia sofrer até à morte eram-Lhe em todo tempo presentes. O que, porém, O afligia não era tanto esta previsão, como a vista dos pecados que os homens haviam de cometer e a eterna perdição que dali havia de provir. Quando nos acharmos em desolação, animemo-nos unindo a nossa desolação à de Jesus Cristo. Ao mesmo tempo, lembremo-nos de que pelos nossos pecados temos também concorrido para afligir e contristar o seu amabilíssimo Coração.*

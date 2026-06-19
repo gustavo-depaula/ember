@@ -1,4 +1,4 @@
-## Le Lundi consacré au Saint-Esprit et à la mémoire des défunts
+# Le Lundi consacré au Saint-Esprit et à la mémoire des défunts
 
 ### Prières pendant la Messe
 

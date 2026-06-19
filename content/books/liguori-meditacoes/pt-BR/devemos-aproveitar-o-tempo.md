@@ -1,3 +1,5 @@
+# Para o último dia do ano. Devemos aproveitar o tempo
+
 Aproveitemos o tempo que temos com Sabedoria!
 
 > *Ecce breves anni transeunt, et semitam per qyuam non revertar ambulo* – “Ve que passam os breves anos, e eu caminho por uma vereda pela qual não voltarei” (Jó 16, 23)

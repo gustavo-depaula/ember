@@ -1,4 +1,4 @@
-## 27 — THE WORD WAS MADE FLESH
+# 27 — THE WORD WAS MADE FLESH
 *December 23*
 
 **Presence of God.** — *O Jesus, eternal Word, allow me to penetrate more deeply into the sublime mystery of Your Incarnation, so that my heart may be ever more seized by Your infinite love.*

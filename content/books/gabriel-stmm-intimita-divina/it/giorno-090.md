@@ -1,4 +1,4 @@
-## 14 — LA CASTITÀ DEL CUORE
+# 14 — LA CASTITÀ DEL CUORE
 
 **Presenza di Dio.** — *O Signore, insegnami come deve essere puro il mio cuore per venire ammesso alla tua intimità.*
 

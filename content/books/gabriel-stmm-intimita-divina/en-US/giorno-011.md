@@ -1,4 +1,4 @@
-## 11 — IN SEARCH OF GOD
+# 11 — IN SEARCH OF GOD
 
 **Presence of God.** — *I recollect myself in the inner sanctuary of my soul to seek there God, living in me through grace.*
 

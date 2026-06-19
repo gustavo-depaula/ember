@@ -1,4 +1,4 @@
-## XI — LA CARITÀ NON È EGOISTA
+# XI — LA CARITÀ NON È EGOISTA
 
 **Presenza di Dio.** — *O Dio, che dall'eternità mi hai amato e che sempre mi ami senza nessun interesse, insegnami ad amare senza calcoli e misure.*
 

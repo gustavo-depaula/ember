@@ -1,4 +1,4 @@
-## XV — IL BUON PASTORE
+# XV — IL BUON PASTORE
 
 *II Domenica dopo Pasqua*
 

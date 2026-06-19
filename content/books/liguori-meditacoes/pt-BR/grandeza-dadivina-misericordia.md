@@ -1,3 +1,5 @@
+# Terça-feira. Grandeza da divina misericórdia
+
 > *Superexaltat autem misericordia iudicium* – “A misericórdia se eleva sobre o juízo” (Tg 2, 13)
 
 ***Sumário.** Toda a terra está cheia da misericórdia de Deus, que nos ama tanto e tão grande desejo tem de nos dispensar suas graças, que nós não o temos igual de as receber. Basta dizer que foi a misericórdia que levou o Senhor a enviar à terra o seu próprio Filho mesmo para se fazer homem, levar uma vida de trabalhos e fadigas e afinal morrer sobre uma cruz por nosso amor. Mas, ai daquele que deixa passar o tempo da divina misericórdia! De repente lhe virá o da justiça, e da justiça tanto mais inexorável, quanto maior tiver sido a misericórdia.

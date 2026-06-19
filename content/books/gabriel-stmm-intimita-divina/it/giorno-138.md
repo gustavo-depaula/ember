@@ -1,4 +1,4 @@
-## 62 — IL MISTERO DELLA CROCE
+# 62 — IL MISTERO DELLA CROCE
 *venerdì santo*
 
 **Presenza di Dio.** — *O Gesù, concedimi di addentrarmi con te nel folto del mistero della Croce.*

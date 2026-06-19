@@ -1,3 +1,5 @@
+# 07 de Outubro. Solenidade do Santíssimo Rosário
+
 > *Quasi rosa, plantata super rivos aquarum, fructificate* — “Frutificai como rosal plantado sobre as correntes das águas” (Eclo 39, 17)
 
 ***Sumário.** O santíssimo Rosário merece ser rezado com respeito e atenção, pois é uma devoção sublime e excelente sob todos os pontos de vista. Foi aprovada pela Igreja, enriquecida de indulgências pelos Sumos Pontífices, e glorificada por Deus com milagres estupendos. Por outro lado este saltério celeste, em razão das orações que o compõem, encerra tudo o que há de mais belo na Igreja católica. Em que estima tens tão precioso tesouro? Como é que costumas rezar o Rosário?*

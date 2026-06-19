@@ -1,4 +1,4 @@
-## 12 — A CASTIDADE
+# 12 — A CASTIDADE
 
 **Presença de Deus.** — *Ó Jesus, lírio puríssimo, amador dos virgens, faz-me compreender a beleza da castidade perfeita.*
 

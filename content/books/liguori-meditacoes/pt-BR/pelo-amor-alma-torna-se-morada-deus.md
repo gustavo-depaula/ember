@@ -1,3 +1,5 @@
+# 7º Dia – Quinta-feira. Pelo amor a alma torna-se morada de Deus
+
 ## 7º Dia da Novena do Espírito Santo
 
 > *Ego rogabo Patrem, et alium Paraclitum dabit vobis, ut maneat vobiscum in aeternum* – “Rogarei a meu Pai, e ele vos enviará outro Consolador, afim de que more sempre convosco” (Jo 14, 16)

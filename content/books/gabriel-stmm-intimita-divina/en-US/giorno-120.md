@@ -1,4 +1,4 @@
-## 44 — THE VALUE OF OBEDIENCE
+# 44 — THE VALUE OF OBEDIENCE
 
 **Presence of God.** — *O most obedient Jesus, make me understand the value of obedience.*
 

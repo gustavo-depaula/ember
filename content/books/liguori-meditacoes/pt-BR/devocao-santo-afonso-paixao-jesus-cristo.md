@@ -1,3 +1,5 @@
+# Sexta-feira. Devoção de Santo Afonso à Paixão de Jesus Cristo
+
 > *Mihi autem absit gloriari, nisi in cruce Domini nostri Iesu Christi* – “Quanto a mim, livre-me Deus de me gloriar, a não ser na cruz de nosso Senhor Jesus Cristo” (Gl 6, 14)
 
 ***Sumário.** Com muita razão a Igreja chama Santo Afonso contemplador assíduo e propagador admirável da devoção à paixão e morte de Jesus Cristo. Foi este o assunto quase contínuo de suas meditações, de seus colóquios públicos e particulares. Se queremos ser devotos verdadeiros e dignos filhos do santo Doutor, sejamos, à sua imitação, devotos da Paixão de Jesus, façamos dela em todas as circunstâncias o assunto habitual de nossas meditações.*

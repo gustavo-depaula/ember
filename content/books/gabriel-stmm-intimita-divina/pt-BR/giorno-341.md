@@ -1,4 +1,4 @@
-## 19 — HUMANIDADE PERFEITA E CARIDADE APOSTÓLICA
+# 19 — HUMANIDADE PERFEITA E CARIDADE APOSTÓLICA
 
 **Presença de Deus.** — *Adoça, Senhor, o meu coração com a chama da tua caridade.*
 

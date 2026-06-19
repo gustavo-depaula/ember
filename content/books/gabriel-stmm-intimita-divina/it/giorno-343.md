@@ -1,4 +1,4 @@
-## 21 — VALORI UMANI AL SERVIZIO DELL'APOSTOLATO
+# 21 — VALORI UMANI AL SERVIZIO DELL'APOSTOLATO
 
 **Presenza di Dio.** — *Insegnami, Signore, a mettere al servizio dell'apostolato tutti i talenti da te ricevuti.*
 

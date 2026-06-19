@@ -1,3 +1,5 @@
+# 19ª Meditação. Meios para se Preparar para a Morte
+
 > *Quodcumque facere potest manus tua, instanter operare; quia nec opus nec ratio… erunt apud inferos quo tu properas* — “Obra com presteza tudo quanto pode fazer a tua mão; porque, na sepultura, para onde te encaminhas, não haverá obra nem razão” (Ecl 9, 10)
 
 ***Sumário.** Meu irmão, já que é certo que deves morrer, coloca-te aos pés de Jesus crucificado, e prepara as contas para esse grande dia. Quanto ao passado, sendo preciso, faze uma boa confissão geral. Quanto ao futuro, emprega os meios apropriados para te sustentar na graça de Deus. Estes meios são: a missa todos os dias, a meditação das verdades eternas, o exame de consciência todas as noites, a frequência dos sacramentos e sobretudo alguma devoção especial a Maria Santíssima. Fazendo assim, terás um certo penhor da tua predestinação.*

@@ -1,4 +1,4 @@
-## Art. 4. — Dévotion à la très sainte Vierge.
+# Art. 4. — Dévotion à la très sainte Vierge.
 
 Neuvaine du Saint-Esprit
 pour se préparer à la fête de la Pentecôte.

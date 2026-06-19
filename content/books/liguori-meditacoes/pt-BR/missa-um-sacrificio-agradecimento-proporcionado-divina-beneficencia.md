@@ -1,3 +1,5 @@
+# Quinta-feira. A Missa é um sacrifício de agradecimento proporcionado à divina beneficência
+
 > *Quid retribuam Domino, pro omnibus quae retribuit mihi? Calicem salutaris accipiano, et nomen Domini invocabo* – “Que darei ao Senhor por todos os benefícios que me tem feito? Tomarei o cálice da salvação, e invocarei o nome do Senhor” (Sl 115, 12-13)
 
 ***Sumário.** A santa missa foi instituída particularmente para agradecer a Deus os benefícios que nos tem feito. Quando celebramos, e, também de certo modo, quando assistimos ao sacrifício divino, podemos dizer com verdade: Senhor, as vossas misericórdias são imensas; mas eis que vo-las retribuo por meio de uma oferenda que vale tanto como vossos dons, e infinitamente mais. Portanto, se és sacerdote, não deixes um dia de celebrar a missa com a devida preparação e ação de graças; se és simples leigo, procura ao menos assistir à missa, ainda à custa de algum proveito temporal.*

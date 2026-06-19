@@ -1,4 +1,4 @@
-## X — A LEITURA MEDITADA
+# X — A LEITURA MEDITADA
 
 **Presença de Deus.** — *Ó Senhor, ensina-me a buscar-te também quando o coração está árido e a mente distraída.*
 

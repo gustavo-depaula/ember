@@ -1,3 +1,5 @@
+# Quinta-feira. A Santíssima Eucaristia é uma fornalha de amor
+
 > *Introduxit me rex in cellam vinariam, ordinavit in me caritatem* – “O rei me introduziu na sua adega, ordenou em mim a caridade” (Ct 2, 4)
 
 ***Sumário.** É com razão que os santos sempre consideraram os santos altares como outros tantos tronos de amor, onde Jesus Cristo inflama e abrasa em santo amor as suas almas prediletas. Como será então possível que a alma, que se prepara com as devidas disposições para receber dentro de si esta fornalha de amor, não fique toda abrasada e ardente? Não tenhamos a insensatez de nos afastarmos do fogo, porque nos sentimos com frio; ao contrário, quanto mais frio sentirmos, com tanto mais frequência nos devemos chegar ao Santíssimo Sacramento, se ao menos desejamos amar a Deus.*

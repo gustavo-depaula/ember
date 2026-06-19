@@ -1,4 +1,4 @@
-## XXV — O PODER E O AMOR DE JESUS
+# XXV — O PODER E O AMOR DE JESUS
 *XVIII Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Ó Jesus, faze que eu saiba sempre corresponder aos dons do teu amor.*

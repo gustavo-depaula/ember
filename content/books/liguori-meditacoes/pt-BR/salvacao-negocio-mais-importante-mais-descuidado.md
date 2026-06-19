@@ -1,3 +1,5 @@
+# Segunda-feira. A salvação é o negócio mais importante e o mais descuidado
+
 > *Quam dabit homo commutationem pro anima sua?* – “Que dará o homem em troca da sua alma?” (Mt 16, 26)
 
 ***Sumário.** Coisa estranha! Ninguém quer passar por negligente nos negócios do mundo e muitos não tem pejo de descuidar o negócio da eternidade, o mais importante de todos. Muitos fazem até tudo para perderem a alma e a maior parte dos cristãos vivem como se as verdades eternas fossem outras tantas fábulas. Nós ao menos não sejamos tão insensatos e pensemos seriamente de que nada nos serviria ganharmos o mundo inteiro, se depois viéssemos a perder a nossa alma. Perdida alma, está tudo perdido, e para sempre!*

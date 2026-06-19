@@ -1,3 +1,5 @@
+# Sexta-feira. Quais sejam os que na verdade seguem a Jesus Cristo
+
 > *Si quis vult post me venire, abneget semetipsum, et tollat crucem suam quotidie, et sequatur me* – “Se alguém quer vir após mim, negue-se a si mesmo, tome a sua cruz cada dia, e siga-me” (Lc 6, 23)
 
 ***Sumário.** Devemo-nos persuadir de que Deus nos conserva no mundo para que suportemos com paciência as tribulações que Ele mesmo nos envia para o nosso bem. Resolvamo-nos, pois, a recusar a nós mesmos aquilo que um amor próprio desordenado nos pede; abracemos de boa vontade a nossa cruz de cada dia; e não nos cansemos de a carregar após Jesus Cristo até ao Calvário, isso é, até a morte.*

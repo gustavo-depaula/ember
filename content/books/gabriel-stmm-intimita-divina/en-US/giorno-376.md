@@ -1,4 +1,4 @@
-## 54 — DIVINE INTIMACY
+# 54 — DIVINE INTIMACY
 
 **Presence of God.** — *Grant me, O Lord, full and stable intimacy with You, that I may love You always more.*
 

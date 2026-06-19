@@ -1,3 +1,5 @@
+# Terça-feira. A vida presente é uma viagem para a eternidade
+
 > *Non enim habemus hic manentem civitatem, sed futuram inquirimus* – “Não temos aqui cidade permanente, mas procuramos a futura” (Hb 13, 14)
 
 ***Sumário.** Vendo tantos ímpios em prosperidade e tantos justos em tribulação, os próprios pagãos, guiados pela luz da razão, reconheceram que a terra não é nossa pátria, mas somente um lugar de passagem e de merecimento. Quão insensatos, pois, somos, se, sendo cristãos e crendo as verdades da fé, nos afeiçoamos aos bens deste mundo, do qual teremos de sair um dia e, entretanto, nos descuidamos de construir com as boas obras uma morada no outro mundo, onde ficaremos por toda a eternidade!*

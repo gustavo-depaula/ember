@@ -1,4 +1,4 @@
-## 34 — DESIGNS OF PEACE AND LOVE
+# 34 — DESIGNS OF PEACE AND LOVE
 
 *XXIII Sunday after Pentecost*
 

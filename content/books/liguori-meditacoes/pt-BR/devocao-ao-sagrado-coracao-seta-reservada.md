@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Janeiro. A Devoção ao Sagrado Coração, Seta Reservada
+
 Santa Teresinha do Menino Jesus: “Ó meu Deus, longe de me desencorajar à vista de minhas misérias, venho a vós com confiança…”
 
 ## Meditação para a 1ª Sexta-feira do Mês de Janeiro

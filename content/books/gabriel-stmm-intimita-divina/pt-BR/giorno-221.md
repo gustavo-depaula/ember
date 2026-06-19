@@ -1,4 +1,4 @@
-## XXI — O MISTÉRIO TRINITÁRIO
+# XXI — O MISTÉRIO TRINITÁRIO
 
 **Presença de Deus.** — *Ó meu Deus, Trindade que adoro, ensina-me a conhecer-te e a amar-te.*
 

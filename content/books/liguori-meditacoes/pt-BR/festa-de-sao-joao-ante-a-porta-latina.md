@@ -1,3 +1,5 @@
+# 06 de Maio. Festa de São João ante a Porta Latina
+
 > *Calicem quidem meum bibetis *— “Haveis de beber o meu cálice” (Mt 20, 23)
 
 ***Sumário.** Não bastou ao discípulo predileto o ter sofrido no Gólgota um martírio interior. Para plena realização da profecia de Jesus Cristo, que havia de beber o cálice da sua Paixão, foi necessário que padecesse também um martírio exterior, tal como de fato o sofreu quando foi lançado em uma caldeira cheia de azeite a ferver. Deus, porém, preservou-o milagrosamente, e deu a São João a glória do martírio, sem que se lhe abreviasse a vida. Regozijemo-nos com o santo e peçamos que nos alcance a graça de imitarmos as suas virtudes, especialmente o seu amor para com Deus e para com o próximo.*

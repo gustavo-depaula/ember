@@ -1,4 +1,4 @@
-## 24 — MATURIDADE APOSTÓLICA
+# 24 — MATURIDADE APOSTÓLICA
 
 **Presença de Deus.** — *Que o teu amor, ó Deus, amadureça a minha alma e a torne capaz de dar-se plenamente ao serviço das almas.*
 

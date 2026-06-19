@@ -1,4 +1,4 @@
-## XXXI — A FORTALEZA
+# XXXI — A FORTALEZA
 **Presença de Deus.** — *Ensina-me, ó Senhor, a agir varonilmente, confiando em ti.*
 
 ### Meditação

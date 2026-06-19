@@ -1,4 +1,4 @@
-## V — DIO INVITA TUTTI
+# V — DIO INVITA TUTTI
 
 **Presenza di Dio.** — *O Signore, corro al tuo invito, vengo alla tua sorgente: dammi da bere!*
 

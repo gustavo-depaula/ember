@@ -1,4 +1,4 @@
-## XVI — O apostolado de Maria
+# XVI — O apostolado de Maria
 
 **Presença de Deus.** — *Ó Maria, Rainha dos Apóstolos, cria em mim um coração de apóstolo.*
 

@@ -1,3 +1,5 @@
+# Quarta-feira. Solenidade de São José
+
 > *Ite ad Ioseph, et quidquid ipse vobis dixerit, facite – “Ide a José e fazei tudo que ele vos disser”* (Gn 41, 55)
 
 ***Sumário.** Aos outros Santos Deus concedeu o poderem proteger numa necessidade especial; mas a São José, como atesta a experiência, concedeu o ser protetor em todas as necessidades. O nosso Santo não somente tem vontade de auxiliar-nos, mas de certa maneira obrigação, pois que por nossa causa foi ele elevado a sua alta dignidade. Imaginemos portanto que o Senhor, vendo as nossas aflições, nos diz o que o Faraó disse ao povo do Egito no tempo da fome: Se quiserdes ser socorridos, ide a José!*

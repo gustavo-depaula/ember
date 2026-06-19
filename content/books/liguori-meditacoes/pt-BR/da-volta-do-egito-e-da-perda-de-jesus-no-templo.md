@@ -1,3 +1,5 @@
+# 3ª Quarta-feira de Março. Da volta do Egito e da perda de Jesus no Templo
+
 > Remansit puer Iesus in lerusalem, et non cognoverunt parentes eius — “O Menino Jesus ficou em Jerusalém, sem que seus pais se apercebessem” (Lc 2, 43)
 
 ***Sumário.** Consideremos a aflição e os incômodos que Jesus, Maria e José experimentaram na volta do Egito; consideremos em seguida a dor dos santos Esposos na perda do seu divino Filho, após a visita ao templo. Habituados como estavam a gozar a doce presença e companhia do Salvador, quantas lágrimas não devem ter derramado nos três dias à procura do objeto de seu amor? Tanto mais, porque na sua humildade receavam ter desagradado ao divino Menino, que por isso os quisesse privar da sua presença. Para a alma que pôs em Deus todo o seu amor, não há aflição maior do que a dúvida de o ter ofendido.*

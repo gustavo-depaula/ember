@@ -1,3 +1,5 @@
+# Terça-feira. Retrato de um homem que acaba de passar a outra vida
+
 > *Auferes spiritum eorum, et deficient, et in pulverem suum revertentur* – “Tirar-lhes-ás o espírito, e deixarão de ser, e tornar-se-ão no seu pó” (Sl 103, 29)
 
 ***Sumário.** Imaginemos que estamos vendo uma pessoa que acaba de expirar. Contemplemos nesse cadáver a cabeça pendida sobre o peito, o cabelo desgrenhado, os olhos encovados, as faces descarnadas, o rosto cinzento, a língua e os lábios cor de ferro, o corpo frio e pesado. Quantas pessoas, à vista de um parente ou de um amigo morto, não mudaram de vida e deixaram o mundo!*

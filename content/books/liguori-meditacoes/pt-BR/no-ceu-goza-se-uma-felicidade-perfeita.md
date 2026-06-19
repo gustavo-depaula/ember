@@ -1,3 +1,5 @@
+# Terça-feira. No céu goza-se uma felicidade perfeita
+
 > *Satiabor cum apparuerit gloria tua* – “Saciar-me-ei, quando aparecer a tua glória” (Sl 16, 15)
 
 ***Sumário.** Posto que no mundo se encontrem muitas coisas formosas, não são, todavia perfeitas, e sempre deixam alguma coisa para desejar. Se, porém, tivermos a ventura de entrar no céu, o nosso coração estará perfeitamente satisfeito nessa ditosa pátria. Ali nada haverá que possa desagradar, e haverá tudo aquilo que se possa desejar. Ah, meu Jesus! Peço-Vos o céu, não tanto para Vos gozar, como para Vos amar de todo o coração.*

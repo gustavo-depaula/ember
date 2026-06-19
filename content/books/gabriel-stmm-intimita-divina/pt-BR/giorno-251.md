@@ -1,4 +1,4 @@
-## XXI — O MOTIVO DA ESPERANÇA
+# XXI — O MOTIVO DA ESPERANÇA
 
 **Presença de Deus.** — *Faz-me compreender bem, ó Senhor, que a minha esperança deve ter seu fundamento não em mim, mas na tua misericórdia infinita.*
 

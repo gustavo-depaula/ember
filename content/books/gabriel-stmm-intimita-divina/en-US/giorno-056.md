@@ -1,4 +1,4 @@
-## 56 — JESUS WELCOMES ALL
+# 56 — JESUS WELCOMES ALL
 *Third Sunday after Epiphany*
 
 **Presence of God.** — *O divine Savior, I too am a poor leper; receive me: "if You will, You can cleanse me"!*

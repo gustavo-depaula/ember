@@ -1,3 +1,5 @@
+# 4º Dia – 19 de Dezembro. A Paixão de Jesus Cristo durou todo o tempo da sua vida
+
 ## A Paixão de Jesus Cristo durou todo o tempo da sua vida
 
 > *Dolor meus in cospectu meo semper – A minha dor está sempre diante de mim (Sl 37,18)*

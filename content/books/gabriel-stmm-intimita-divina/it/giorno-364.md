@@ -1,4 +1,4 @@
-## 42 — AMORE ARDITO ED IMPAZIENTE
+# 42 — AMORE ARDITO ED IMPAZIENTE
 
 **Presenza di Dio.** — *Dio mio, il tuo amore mi renda ardito nel cercarti ed impaziente di possederti.*
 

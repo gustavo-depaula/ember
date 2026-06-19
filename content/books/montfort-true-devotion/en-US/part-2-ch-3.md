@@ -1,4 +1,4 @@
-## Article III — Figure of This Consecration in the Story of Jacob and Rebecca
+# Article III — Figure of This Consecration in the Story of Jacob and Rebecca
 
 Of all the truths I have just set forth concerning the Blessed Virgin and her children and servants, the Holy Spirit gives us an admirable figure in Holy Scripture in the story of Jacob, who received the blessing of his father Isaac through the care and industry of his mother Rebecca. Here is the story as the Holy Spirit relates it; afterward I shall add its explanation.
 

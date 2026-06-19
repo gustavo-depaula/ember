@@ -1,4 +1,4 @@
-## 71 — IL BATTESIMO
+# 71 — IL BATTESIMO
 
 **Presenza di Dio.** — *O Dio, che senza alcun mio merito, mi facesti figlio tuo, concedimi di vivere in modo degno di questa figliolanza divina.*
 

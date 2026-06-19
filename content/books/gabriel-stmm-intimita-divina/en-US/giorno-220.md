@@ -1,4 +1,4 @@
-## XX — FROM THE EUCHARIST TO THE TRINITY
+# XX — FROM THE EUCHARIST TO THE TRINITY
 
 **Presence of God.** — *O Eucharistic Jesus, guide me to the Trinity; help me to live with the Trinity.*
 

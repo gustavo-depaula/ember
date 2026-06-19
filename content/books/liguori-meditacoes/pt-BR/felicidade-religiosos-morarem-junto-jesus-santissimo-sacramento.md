@@ -1,3 +1,5 @@
+# Quinta-feira. Felicidade dos religiosos em morarem junto com Jesus no Santíssimo Sacramento
+
 > *Beati qui habitant in domo tua, Domine; in saecula saeculorum laudabunt te* – “Bem-aventurados, Senhor, os que moram em tua casa; pelos séculos te louvarão” (Sl 83, 5)
 
 ***Sumário.** Se os mundanos estimam tanto serem chamados pelos reis para habitarem nos seus palácios, quanto mais os religiosos devem estimar o habitarem continuamente com o Rei do céu em sua casa? Meu irmão, já estás morando muito tempo com Jesus Cristo debaixo do mesmo teto; mas que fruto tiraste até agora de sua presença?… Procura ao menos aproveitá-la para o futuro, demorando-te o mais possível a seus pés, expandindo ali os teus afetos, as tuas aflições, os teus desejos de amá-Lo de todo o coração e de O contemplar um dia no céu.*

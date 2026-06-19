@@ -1,4 +1,4 @@
-## 21 — HUMAN VALUES AT THE SERVICE OF THE APOSTOLATE
+# 21 — HUMAN VALUES AT THE SERVICE OF THE APOSTOLATE
 
 **Presence of God.** — *Teach me, Lord, to place at the service of the apostolate all the talents I have received from you.*
 

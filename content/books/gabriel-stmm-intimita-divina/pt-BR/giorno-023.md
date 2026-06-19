@@ -1,4 +1,4 @@
-## 23 — CONVITE AO APOSTOLADO
+# 23 — CONVITE AO APOSTOLADO
 
 **Presença de Deus.** — *Ponho-me na presença de Jesus, Cabeça do Corpo místico da Igreja, para que me ensine a colaborar com Ele na salvação das almas.*
 

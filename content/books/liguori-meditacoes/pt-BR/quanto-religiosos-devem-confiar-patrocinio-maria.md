@@ -1,3 +1,5 @@
+# Sábado. Quanto os religiosos devem confiar no patrocínio de Maria
+
 > *Ego diligentes me diligo: et qui mane vigilante ad me, invenient me* – “Eu amo os que me amam: e os que vigiam desde a manhã por me buscarem, achar-me-ão” (Pr 8, 17)
 
 ***Sumário.** Se a divina Mãe ama todos os homens com tão grande afeto, que nenhum outro lhe seja superior, ou mesmo igual, quanto mais não amará os religiosos, que sacrificaram a liberdade, a vida e tudo ao amor de Jesus Cristo? Ponhamos, pois, toda a nossa confiança em tão boa Mãe. Provemos-lhe a nossa devoção, honrando-a fervorosamente e fazendo com que os outros também a honrem. Um religioso que não tem para com nossa Senhora uma devoção especial, perseverará dificilmente.*

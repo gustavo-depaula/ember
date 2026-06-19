@@ -1,3 +1,5 @@
+# 16 de Julho. Festa de Nossa Senhora do Carmo
+
 > *Gloria Libani data est ei, decor Carmeli et Saron *— “A glória do Libano lhe foi dada, a formosura do Carmelo e de Saron” (Is 35, 2)
 
 ***Sumário.** São muitas as prerrogativas concedidas àqueles que se fizeram alistar na Confraria do Carmo, mas entre todas têm a primazia a promessa feita pela Santa Virgem ao Bem-aventurado Simão Stock; a saber, que serão preservados da condenação eterna e que serão livrados do purgatório no primeiro sábado depois da sua morte. Para gozar destes privilégios não bastam trazer o santo escapulário, mas é preciso cumprir também as condições prescritas e ter ao menos a vontade de deixar o pecado.*

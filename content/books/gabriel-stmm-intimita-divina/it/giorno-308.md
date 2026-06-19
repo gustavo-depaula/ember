@@ -1,4 +1,4 @@
-## XVI — IL DONO DELLA FORTEZZA
+# XVI — IL DONO DELLA FORTEZZA
 
 **Presenza di Dio.** — *O Spirito Santo, che conosci la mia debolezza, rendimi forte della tua fortezza divina.*
 

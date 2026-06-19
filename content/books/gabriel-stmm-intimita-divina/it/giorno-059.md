@@ -1,4 +1,4 @@
-## 59 — La preghiera di Gesù
+# 59 — La preghiera di Gesù
 
 **Presenza di Dio.** — *O Gesù, concedimi di penetrare nel santuario della tua santissima Anima e svelami il segreto della tua preghiera.*
 

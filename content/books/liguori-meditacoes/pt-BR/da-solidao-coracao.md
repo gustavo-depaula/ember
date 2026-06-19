@@ -1,3 +1,5 @@
+# Segunda-feira. Da solidão do coração
+
 > *Ecce elongavi fugiens, et mansi in solitudine* – “Eis que me afastei fugindo e permaneci na solidão” (Sl 54, 8)
 
 ***Sumário.** A solidão do coração consiste em só a Deus consagrarmos o nosso amor. Vê-se, portanto, que para esta solidão não se precisa de desertos nem de grutas. Os que por obrigação têm de tratar com o mundo, desde que tenham o coração livre de apegos terrestres, podem gozá-la no meio das ruas e das praças. Numa palavra, nenhuma das ocupações que têm por fim o cumprimento da vontade divina impede a solidão do coração. Devemos, por isso, elevar muitas vezes o nosso espírito a Deus, para o que serve o uso frequente das orações jaculatórias.*

@@ -1,4 +1,4 @@
-## XXVII — O PRECEITO DA CARIDADE
+# XXVII — O PRECEITO DA CARIDADE
 
 **Presença de Deus.** — *Ó Senhor, ensina-me a amar-te de verdade com todo o coração, com toda a alma, com todas as forças.*
 

@@ -1,3 +1,5 @@
+# Quinta-feira. Santo Afonso, modelo de devoção a Jesus Sacramentado
+
 > *Ubi thesaurus vester est, ibi et cor vestrum erit* – “Onde está o vosso tesouro, aí estará também o vosso coração” (Lc 12, 34)
 
 ***Sumário.** Foi desde criança que o Santo Doutor começou a praticar a devoção a Jesus sacramentado, visitando-o todos os dias: com o crescer dos anos cresceu também a sua devoção, de forma que a sua vida foi como que uma estada contínua na presença da santíssima Eucaristia. Procuremos imitar Santo Afonso: em toda necessidade, em toda a tentação, em todo o negócio mais importante recorramos sempre ao Santíssimo Sacramento para auxílio e conselho. Estejamos convencidos de que esta devoção é a mais agradável a Deus e a mais proveitosa para nós.*

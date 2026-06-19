@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima suaviza a morte dos seus devotos
+
 “Maria, mãe da graça, mãe da misericórdia, do inimigo nos protegei, e na hora da morte nos recebei”. (São Gabriel de Nossa Senhora das Dores)
 
 > *Non tanget illos tormentum mortis* – “Não os tocará o tormento da morte” (Sb 3, 1)

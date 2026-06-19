@@ -1,4 +1,4 @@
-## 29 — THE SAVIOR HAS APPEARED
+# 29 — THE SAVIOR HAS APPEARED
 *December 25*
 
 **Presence of God.** — *Here I am at the feet of my God made flesh, made a child for love of me! I adore, I give thanks, I love!*

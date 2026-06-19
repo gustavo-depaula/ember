@@ -1,4 +1,4 @@
-## XIV — LA RIPARAZIONE
+# XIV — LA RIPARAZIONE
 
 **Presenza di Dio.** — *Cuore di Gesù, piagato per nostro amore, rendimi degno di riparare le ferite che i nostri peccati ti hanno inflitto.*
 

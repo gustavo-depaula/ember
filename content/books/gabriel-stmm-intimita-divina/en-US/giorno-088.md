@@ -1,4 +1,4 @@
-## 12 — CHASTITY
+# 12 — CHASTITY
 
 **Presence of God.** — *O Jesus, most pure lily, lover of virgins, make me understand the beauty of perfect chastity.*
 

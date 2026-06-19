@@ -1,4 +1,4 @@
-## XXVI — O DOM DA INTELIGÊNCIA
+# XXVI — O DOM DA INTELIGÊNCIA
 
 **Presença de Deus.** — *Vem, Espírito de inteligência, ilumina-me!*
 

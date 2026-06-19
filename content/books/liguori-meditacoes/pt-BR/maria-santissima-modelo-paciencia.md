@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de paciência
+
 > *Patientia vobis necessaria est: ut volutantem Dei facientes reportetis promissionem* – “A paciência vos é necessária, a fim de que fazendo a vontade de Deus alcanceis a promessa” (Hb 10, 36)
 
 ***Sumário.** Deu-nos Deus a Santíssima Virgem como exemplar de todas as virtudes, mas especialmente da paciência. Semelhante à rosa, ela cresceu e viveu sempre entre os espinhos da tribulação. Se, portanto, quisermos ser filhos desta Mãe, força é que procuremos imitá-la, abraçando com resignação as cruzes; e não somente as que nos vierem diretamente de Deus, mas também as que vierem da parte dos homens, tais como sejam as perseguições e os despresos.*

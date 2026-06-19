@@ -1,3 +1,5 @@
+# Quinta-feira. A santa Missa dá a Deus uma honra infinita
+
 > *Laudate eum secundum multitudinem magnitudinis eius* – “Louvai (a Deus) segundo a multidão da sua grandeza” (Sl 150, 2)
 
 ***Sumário.** Todas as honras que foram tributadas a Deus, e Lhe serão ainda tributadas por todas as criaturas, sem excetuar a divina Mãe, nunca poderão igualar a honra que Lhe é dado por uma única Missa, porquanto nesta é sacrificada a Deus uma vítima de valor infinito, que Lhe dá uma honra infinita. Que honra, pois, para nós, que se nos permite assistirmos cada dia e até mais de uma vez a este divino sacrifício! Ouçamos quantas Missas possamos, particularmente neste tempo do carnaval, para desagravar o Senhor dos ultrajes que recebe.*

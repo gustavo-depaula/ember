@@ -1,3 +1,5 @@
+# Quinta-feira. Amor de Jesus na instituição do Santíssimo Sacramento, antes de ir morrer
+
 > *Dominus Iesus, in qua nocte tradebatur, accepit panem … et dixit: Hoc est corpus meum* – “O Senhor Jesus, na noite em que foi entregue, tomou o pão… e disse: Isto é o meu corpo” (I Cor 11, 23)
 
 ***Sumário.** Porque os testemunhos de amor, dados pelos amigos no momento de morrer, se gravam mais fundo na memória e se conservam mais preciosamente, o Senhor quis instituir a santíssima Eucaristia na véspera de sua morte. Ó prodígio de amor! Os homens preparam para Jesus açoites, espinhos e uma cruz, e ele escolhe exatamente esse tempo para nos dar a prova mais preciosa de seu amor. Este amor de Jesus convida-nos a que lhe correspondamos pelo nosso afeto e façamos alguma coisa por seu amor.*

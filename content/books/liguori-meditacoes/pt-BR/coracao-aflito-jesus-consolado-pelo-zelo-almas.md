@@ -1,3 +1,5 @@
+# Sexta-feira. Coração aflito de Jesus, consolado pelo zelo das almas
+
 > *Dominus Deus consolabitur in servis suis* – “O Senhor Deus será consolado em seus servos” (2 Mc 7, 6)
 
 ***Sumário.** A causa única da aflição do Coração de Jesus é a perdição das almas que o ultrajam em vez de o amar: por conseguinte, a consolação que Ele requer, é que procuremos ganhar-Lhe as almas. Esforcemo-nos, pois, por consolar este Coração amabilíssimo; e se mais não pudermos fazer, roguemos-Lhe que envie à sua Igreja ministros zelosos. Roguemos-Lhe muitas vezes pelos pobres pecadores, em particular pelos que estão em agonia e têm de morrer hoje. Ensinemos tão salutar devoção também aos outros.*

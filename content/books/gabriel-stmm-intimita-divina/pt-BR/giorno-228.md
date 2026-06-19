@@ -1,4 +1,4 @@
-## XXVIII — AS PERFEIÇÕES DIVINAS
+# XXVIII — AS PERFEIÇÕES DIVINAS
 
 **Presença de Deus.** — *Concede-me, ó Senhor, compreender alguma coisa da tua perfeição infinita.*
 

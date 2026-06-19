@@ -1,4 +1,4 @@
-## 59 — THE MEEK LAMB
+# 59 — THE MEEK LAMB
 
 *Tuesday of Holy Week*
 

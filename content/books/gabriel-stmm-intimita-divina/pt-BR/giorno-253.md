@@ -1,4 +1,4 @@
-## XXIII — ESPERAR SEM MEDIDA
+# XXIII — ESPERAR SEM MEDIDA
 
 **Presença de Deus.** — *Sustenta, ó Senhor, a minha esperança para que eu possa esperar em ti sem medida.*
 

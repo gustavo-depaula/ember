@@ -1,6 +1,4 @@
-# Primeira Parte — Da devoção geral à Santíssima Virgem
-
-## Artigo I — Excelência e necessidade da devoção à Santíssima Virgem
+# Artigo I — Excelência e necessidade da devoção à Santíssima Virgem
 
 11 — Confesso com toda a Igreja que Maria, não sendo senão uma pura criatura saída das mãos do Altíssimo, comparada à sua majestade infinita, é menor que um átomo, ou antes, nada é, pois ele é o único que é; e que, por conseguinte, este grande Senhor, sempre independente e bastando-se a si mesmo, não teve nem tem ainda absolutamente necessidade da Santíssima Virgem para o cumprimento de suas vontades e para a manifestação de sua glória: basta-lhe querer para tudo fazer.
 

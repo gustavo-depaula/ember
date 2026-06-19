@@ -1,6 +1,4 @@
-# Parte Prima
-
-## Capo III - Delle condizioni della preghiera
+# Capo III - Delle condizioni della preghiera
 
 *Amen, amen dico vobis, si quid petieritis Patrem in nomine meo, dabit vobis*. Jo. 16. 23. E promessa dunque di Gesu Cristo, che quanto in nome suo domanderemo al Padre, tutto il Padre ci concedera; ma sempre s'intende, quando domanderemo colle dovute condizioni. Molti (dice S. Giacomo) cercano, e non ottengono perche malamente cercano: *Petitis, et non accipitis, eo quod male petatis*. Jac. 4. Onde S. Basilio seguendo il detto dell'Apostolo dice: *Ideo quandoque petis, et non accipis, quia perperam postulasti, vel infideliter, vel leviter, vel non conferentia tibi, vel destitisti*.[^1] *Infideliter*, cioe con poca fede, o sia poca confidenza. *Leviter*, con poco desiderio di aver la grazia. *Non conferentia tibi*, cercando beni non giovevoli alla salute. *Vel destitisti*, senza perseveranza. Pertanto S. Tommaso riduce a quattro le condizioni richieste nella Preghiera, acciocch'ella ottenga il suo effetto: cioe che l'Uomo domandi *Pro se, necessaria ad salutem, pie, et perseveranter*.[^2]
 

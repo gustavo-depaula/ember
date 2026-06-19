@@ -1,3 +1,5 @@
+# 25 de Setembro. O Menino Jesus, sobre as palhas, ensina-nos a Mortificação
+
 > *Et reclinavit eum in praesepio* – “E reclinou-o numa manjedoura” (Jo 2, 7)
 
 ***Sumário.** Visto que Maria não tinha nem plumas nem lã, para preparar um leito conveniente para o seu tenro Filhinho, estende um pouco de palha numa manjedoura e nela reclina o Menino recém-nascido. Quão duro não devia ser tal leito aos membros delicados de Jesus Cristo!… Mas Jesus quis sofrer isso afim de remediar assim os pecados, que causaram a perdição do mundo, e começar desde o berço a ensinar-nos o amor dos sofrimentos e a mortificação dos sentidos. E depois de tal exemplo continuaremos a acariciar esta carne rebelde ?*

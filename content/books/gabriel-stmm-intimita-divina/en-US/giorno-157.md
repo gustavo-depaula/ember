@@ -1,4 +1,4 @@
-## XVIII — PATRONAGE OF ST. JOSEPH
+# XVIII — PATRONAGE OF ST. JOSEPH
 *Wednesday of the II week after Easter*
 
 **Presence of God.** — *O glorious St. Joseph, grant that under your patronage my interior life may grow and develop.*

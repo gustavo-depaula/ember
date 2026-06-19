@@ -1,3 +1,5 @@
+# Sábado. Da devoção à Divina Mãe
+
 > *Beatus homo, qui audit me, et qui vigilat ad fores meas quotidie* – “Bem-aventurado o homem que me ouve e que vela todos os dias à entrada da minha casa” (Pv 8, 34)
 
 ***Sumário.** Sendo Maria Santíssima medianeira de graça, o Senhor fê-la de certo modo onipotente; e decretou que todas as graças que são dispensadas aos homens passem pelas mãos da Virgem. Por outro lado, Maria é tão misericordiosa que basta invocá-la para ser atendido. Felizes, pois, de nós, se tivermos devoção verdadeira a esta boa Mãe, recorrermos sempre a ela em nossas necessidades e procurarmos que os outros também a amem! Que pecador se perdeu alguma vez tendo perseverado em recorrer a Maria?*

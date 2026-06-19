@@ -1,4 +1,4 @@
-## 31 — OUR PLACE
+# 31 — OUR PLACE
 
 **Presence of God.** — *O my God, that I may know You, that I may know myself! Know that You are He who is, and I am he who is not.*
 

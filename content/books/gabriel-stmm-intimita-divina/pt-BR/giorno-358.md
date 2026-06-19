@@ -1,4 +1,4 @@
-## 36 — PROVAS INTERIORES
+# 36 — PROVAS INTERIORES
 
 **Presença de Deus.** — *Ó Senhor, purifica-me como o ouro no crisol; purifica-me e não me poupes para que eu possa chegar a ti.*
 

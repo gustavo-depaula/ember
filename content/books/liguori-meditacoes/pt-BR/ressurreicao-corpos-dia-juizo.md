@@ -1,3 +1,5 @@
+# Quarta-feira. A ressurreição dos corpos no dia do Juízo
+
 Cristo triunfando sobre a morte e o inferno
 
 > *Ecce mysterium vobis dico: Omnes quidem resurgemus, sed non omnes immutabimur* – “Eis que vos digo um mistério: todos certamente ressuscitaremos, mas nem todos seremos mudados” (1 Cor 15, 51)

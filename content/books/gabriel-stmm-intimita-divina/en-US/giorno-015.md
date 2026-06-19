@@ -1,4 +1,4 @@
-## 15 — THE LORD IS NEAR
+# 15 — THE LORD IS NEAR
 *Third Sunday of Advent*
 
 **Presence of God.** — *The Lord comes ever closer to my soul with the invitation of His grace; I too want to draw near to Him by rekindling my desires and my faith.*

@@ -1,3 +1,5 @@
+# 15ª Meditação. Do grande meio para vencer as Tentações
+
 > Vigilate et orate, ut non intretis in tentationem — “Vigiai e orai, para que não entreis em tentação” (Mc 14, 38)
 
 ***Sumário.** Meu irmão, começaste a servir a Deus, mas não penses que tenham acabado as tentações. Agora, mais do que nunca, deves preparar-te para o combate, porque o mundo, o demônio e a carne, mais do que nunca, se aprestarão para te combater, a fim de te fazer perder o que ganhaste. A arma principal que deves empregar para alcançar a vitória, deve ser um perpétuo recurso a Deus pela santa oração; e lembra-te sempre desta grande máxima: Quem reza, certamente se salva; quem não reza, certamente se condena.*

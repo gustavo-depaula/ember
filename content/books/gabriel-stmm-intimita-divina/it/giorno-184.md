@@ -1,4 +1,4 @@
-## XV — La preghiera di Maria
+# XV — La preghiera di Maria
 
 **Presenza di Dio.** — *O Maria, che sei stata la fedele adoratrice di Dio, insegnami a vivere in continua preghiera.*
 

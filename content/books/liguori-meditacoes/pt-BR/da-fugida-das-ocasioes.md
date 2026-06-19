@@ -1,3 +1,5 @@
+# 7ª Meditação. Da Fugida das Ocasiões
+
 > *Cor durum habebit male in novissimo; et qui amat periculum, in illo peribit *—“O coração endurecido se sentirá mal no fim; e quem ama o perigo, nele perecerá” (Eclo 3, 27)
 
 ***Sumário.** O demônio se ri de todos os propósitos e promessas de um pecador que se arrepende, se não evitar a ocasião. O espírito maligno sabe por experiência que, quem se expõe voluntariamente ao perigo, com certeza se perderá; porquanto a ocasião, especialmente em matéria de prazeres sensuais, é como que uma venda, que cobre a vista e não deixa ver nada. Quem, pois, quer salvar-se, deve absolutamente afastar-se da ocasião do pecado; seja um companheiro, certa casa, uma relação, um livro.*

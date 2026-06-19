@@ -1,4 +1,4 @@
-## 3 — HOLINESS FULLNESS OF GRACE
+# 3 — HOLINESS FULLNESS OF GRACE
 
 **Presence of God.** — *I approach Jesus, "source of life and holiness", with a lively desire to drink from this inexhaustible source.*
 

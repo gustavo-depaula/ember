@@ -1,4 +1,4 @@
-## XIII — Na expectativa
+# XIII — Na expectativa
 
 *Domingo na Oitava da Ascensão*
 

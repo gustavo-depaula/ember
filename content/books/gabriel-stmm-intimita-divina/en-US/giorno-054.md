@@ -1,4 +1,4 @@
-## 54 — THE DEMANDS OF JESUS' TEACHING
+# 54 — THE DEMANDS OF JESUS' TEACHING
 
 **Presence of God.** — *Jesus, make me understand and then give me strength to put Your teachings into practice.*
 

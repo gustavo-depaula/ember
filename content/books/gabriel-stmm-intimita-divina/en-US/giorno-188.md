@@ -1,4 +1,4 @@
-## XIX — SWEET GUEST OF THE SOUL
+# XIX — SWEET GUEST OF THE SOUL
 
 *Triduo of Pentecost*
 

@@ -1,4 +1,4 @@
-## I — LA PASQUA DEL SIGNORE
+# I — LA PASQUA DEL SIGNORE
 
 *Domenica di Risurrezione*
 

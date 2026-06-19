@@ -1,3 +1,5 @@
+# Segunda-feira. O corpo na tumba
+
 > *Subter te sternetur tinea, et operimentum tuum erunt vermes* – “Debaixo de ti se estenderá por cama a polila, e a tua coberta serão os bichos” (Is 14, 11)
 
 ***Sumário.** Meu irmão, para ver melhor o que és, aproxima-te de um túmulo. Eis como daquele cadáver sai uma matéria infecta, na qual se gera uma multidão de vermes que se nutrem da carne. Caem as faces, os lábios, os cabelos. E finalmente, daquele corpo nutrido com tanta delicadeza, causa talvez de tantas ofensas do Senhor, não resta nada senão um esqueleto fétido, um punhado de pó. Quantos têm, à vista de um cadáver, deixado o mundo e entrado numa ordem religiosa!*

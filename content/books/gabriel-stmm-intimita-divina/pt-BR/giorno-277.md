@@ -1,4 +1,4 @@
-## XVI — AMOR DO PRÓXIMO E AMOR DE DEUS
+# XVI — AMOR DO PRÓXIMO E AMOR DE DEUS
 **Presença de Deus.** — *Faz-me compreender, ó Senhor, que o sinal mais seguro do meu amor por ti é um sincero amor do próximo.*
 
 ### Meditação

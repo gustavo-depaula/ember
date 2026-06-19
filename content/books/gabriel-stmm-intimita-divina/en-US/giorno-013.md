@@ -1,4 +1,4 @@
-## 13 — THE SEARCH FOR GOD AND DAILY DUTIES
+# 13 — THE SEARCH FOR GOD AND DAILY DUTIES
 
 **Presence of God.** — *My soul, withdraw into your interior and there persevere in forgetfulness of all things, seeking God with the affection of your heart.*
 

@@ -1,4 +1,4 @@
-## 21 — CERCARE DIO NELL'ATTIVITÀ
+# 21 — CERCARE DIO NELL'ATTIVITÀ
 
 **Presenza di Dio.** — *Lascio ogni attività esterna, per raccogliermi ai piedi di Gesù e gli chiedo d'insegnarmi a mantenermi in questa posizione interiore anche in mezzo alle mie occupazioni.*
 

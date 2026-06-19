@@ -1,4 +1,4 @@
-## IX — LA MISERICORDIA INFINITA
+# IX — LA MISERICORDIA INFINITA
 
 **Presenza di Dio.** — *Fammi comprendere, o Signore, i segreti della tua misericordia affinché possa approfittarne appieno.*
 

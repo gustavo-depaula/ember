@@ -1,4 +1,4 @@
-## 51 — THE VALUE OF SUFFERING
+# 51 — THE VALUE OF SUFFERING
 
 **Presence of God.** — *O crucified Jesus, teach me the science of the cross, teach me the value of suffering.*
 

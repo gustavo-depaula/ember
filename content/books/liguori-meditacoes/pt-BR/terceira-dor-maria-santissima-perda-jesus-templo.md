@@ -1,3 +1,5 @@
+# Sábado. Terceira dor de Maria Santíssima – Perda de Jesus no templo
+
 > *Ecce pater tuus et ego dolentes quaerebamus te* – “Eis que teu pai e eu Te andávamos buscando cheios de aflição” (Lc 2, 48)
 
 ***Sumário.** A dor de Maria pela perda de Jesus foi sem dúvida uma das mais acerbas; porque ela então sofria longe de Jesus, e a humildade fazia-lhe crer que o Filho se tinha apartado dela por causa de alguma negligência sua. Sirva-nos esta dor de conforto nas desolações espirituais; e ensine-nos o modo de buscarmos a Deus, se jamais para nossa desgraça viermos a perdê-Lo por nossa culpa. Lembremo-nos, porém, de que quem quiser achar a Jesus, não O deve buscar entre os prazeres e delícias, mas no pranto, entre as cruzes e mortificações, assim como Maria o procurou.*

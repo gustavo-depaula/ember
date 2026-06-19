@@ -1,4 +1,4 @@
-## Artigo III — Figura desta consagração na história de Jacó e Rebeca
+# Artigo III — Figura desta consagração na história de Jacó e Rebeca
 
 188 — De todas as verdades que acabo de descrever a respeito da Santíssima Virgem e de seus filhos e servos, o Espírito Santo nos dá na Sagrada Escritura uma figura admirável: na história de Jacó, que recebeu a bênção de seu pai Isaac pelos cuidados e a indústria de Rebeca, sua mãe. Ei-la como o Espírito Santo a relata; depois acrescentarei sua explicação.
 

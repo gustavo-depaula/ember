@@ -1,4 +1,4 @@
-## § 2. Fêtes de Marie.[^1]
+# § 2. Fêtes de Marie.[^1]
 
 Les serviteurs de Marie sont pleins de ferveur pour célébrer les *Neuvaines* de ses fêtes ; et en retour la sainte Vierge se montre alors pleine de tendresse envers eux, en leur distribuant des grâces sans nombre.
 

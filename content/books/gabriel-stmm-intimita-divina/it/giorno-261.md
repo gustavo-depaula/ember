@@ -1,4 +1,4 @@
-## XXXI — CARITÀ E UMILTÀ
+# XXXI — CARITÀ E UMILTÀ
 
 *X Domenica dopo Pentecoste*
 

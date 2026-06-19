@@ -1,6 +1,4 @@
-# Parte Primeira
-
-## Capítulo III — Das condições da oração
+# Capítulo III — Das condições da oração
 
 *Amen, amen dico vobis, si quid petieritis Patrem in nomine meo, dabit vobis*. Jo 16, 23. É promessa, portanto, de Jesus Cristo, que tudo quanto em seu nome pedirmos ao Pai, tudo o Pai nos concederá; mas sempre se entende: quando pedirmos com as devidas condições. Muitos (diz São Tiago) pedem e não obtêm, porque pedem mal: *Petitis, et non accipitis, eo quod male petatis*. Tg 4. Donde São Basílio, seguindo o dito do Apóstolo, diz: *Ideo quandoque petis, et non accipis, quia perperam postulasti, vel infideliter, vel leviter, vel non conferentia tibi, vel destitisti*. *Infideliter*, isto é, com pouca fé ou pouca confiança. *Leviter*, com pouco desejo de ter a graça. *Non conferentia tibi*, pedindo bens não proveitosos para a salvação. *Vel destitisti*, sem perseverança. Por isso Santo Tomás reduz a quatro as condições requeridas na oração, para que ela obtenha o seu efeito: que o homem peça *pro se, necessaria ad salutem, pie, et perseveranter*.
 

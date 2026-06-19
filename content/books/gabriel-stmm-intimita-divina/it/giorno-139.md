@@ -1,4 +1,4 @@
-## 63 — LA VITTORIA DELLA CROCE
+# 63 — LA VITTORIA DELLA CROCE
 *sabato santo*
 
 **Presenza di Dio.** — *O Gesù, crocifisso per amor mio, svelami la vittoria riportata dalla tua morte.*

@@ -1,4 +1,4 @@
-## X — BEAR ONE ANOTHER'S BURDENS
+# X — BEAR ONE ANOTHER'S BURDENS
 **Presence of God.** — *Give me, O Lord, a charity attentive and prompt to others' needs, a charity that for love of You may know how to make itself all things to all.*
 
 ### Meditation

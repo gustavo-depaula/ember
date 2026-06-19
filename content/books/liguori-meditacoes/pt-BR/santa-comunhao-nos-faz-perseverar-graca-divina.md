@@ -1,3 +1,5 @@
+# Quinta-feira. A santa comunhão nos faz perseverar na graça divina
+
 Criança recebendo a Sagrada Comunhão das mãos do Papa Emérito Bento XVI
 
 > *Qui manducat meam carnem, et bibit meum sanguinem, habet vitam aeternam* – “Quem come minha carne e bebe meu sangue tem a vida eterna” (Jo 6, 55)

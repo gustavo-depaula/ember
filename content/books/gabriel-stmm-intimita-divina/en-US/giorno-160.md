@@ -1,4 +1,4 @@
-## XXI — PRACTICAL CONDUCT
+# XXI — PRACTICAL CONDUCT
 
 **Presence of God.** — *O Lord, may your light always guide me so that I do not go astray on my way.*
 

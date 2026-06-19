@@ -1,4 +1,4 @@
-## X — A Ascensão do Senhor
+# X — A Ascensão do Senhor
 
 **Presença de Deus.** — *Ó Jesus, que sobes ao céu, faze que eu também habite com o coração no céu.*
 

@@ -1,4 +1,4 @@
-## March 19 — ST. JOSEPH PATRON OF THE CHURCH
+# March 19 — ST. JOSEPH PATRON OF THE CHURCH
 
 **Presence of God.** — *O glorious St. Joseph, grant that under your patronage my interior life may grow and develop.*
 

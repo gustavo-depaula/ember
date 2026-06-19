@@ -1,4 +1,4 @@
-## 47 — SUPERNATURAL OBEDIENCE
+# 47 — SUPERNATURAL OBEDIENCE
 
 **Presence of God.** — O Jesus, teach me to see only you in my superiors.
 

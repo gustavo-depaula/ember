@@ -1,4 +1,4 @@
-## XXI — IL DONO DEL CONSIGLIO
+# XXI — IL DONO DEL CONSIGLIO
 
 **Presenza di Dio.** — *Vieni, Spirito di consiglio, e fa' che il mio cuore ascolti i tuoi suggerimenti!*
 

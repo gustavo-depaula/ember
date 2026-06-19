@@ -1,4 +1,4 @@
-## II — THE REAL PRESENCE
+# II — THE REAL PRESENCE
 
 **Presence of God.** — *«I devoutly adore You, O God hidden beneath the Eucharistic veils. To You my heart surrenders itself entirely, for in contemplating You it faints away» (cf. Adoro te devote).*
 

@@ -1,3 +1,5 @@
+# 19 de Março. Festa de São José, Esposo da Virgem Maria
+
 > *Pretiosa in conspectu Domini mors sanctorum eius* – “Preciosa é aos olhos do Senhor a morte de seus santos” (Sl 115, 15)
 
 ***Sumário.** Representemo-nos na casa de Nazaré para assistir à morte do Santo Patriarca. É opinião bem fundada que São José morreu por puro amor a Deus; porque teve a sorte ditosa de ser assistido por Jesus e Maria, que, com as palavras de vida eterna, que lhe dirigiam alternadamente naquelas extremas, inflamavam-lhe o amor. Se desejamos morrer devotos do grande Santo, imitemos-lhe as virtudes, particularmente o seu amor a Jesus e Maria.*

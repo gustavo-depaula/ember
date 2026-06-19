@@ -1,4 +1,4 @@
-## XVII — DECISIONE RISOLUTA
+# XVII — DECISIONE RISOLUTA
 
 **Presenza di Dio.** — *O Signore, rendimi perseverante nel cercarti e nel servirti malgrado tutte le difficoltà che posso incontrare.*
 

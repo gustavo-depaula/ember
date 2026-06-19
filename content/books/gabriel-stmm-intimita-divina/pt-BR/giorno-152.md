@@ -1,4 +1,4 @@
-## XIII — ORAÇÃO DE RECOLHIMENTO
+# XIII — ORAÇÃO DE RECOLHIMENTO
 
 **Presença de Deus.** — *Ó meu Deus, que eu possa encontrar-te em mim, no pequeno céu da minha alma.*
 

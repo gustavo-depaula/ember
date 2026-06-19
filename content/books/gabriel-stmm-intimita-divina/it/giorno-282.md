@@ -1,4 +1,4 @@
-## XXI — I DIECI LEBBROSI
+# XXI — I DIECI LEBBROSI
 
 *XIII Domenica dopo Pentecoste*
 

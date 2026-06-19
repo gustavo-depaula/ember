@@ -1,4 +1,4 @@
-## XXX — A SIMPLICIDADE
+# XXX — A SIMPLICIDADE
 **Presença de Deus.** — *Dá-me, ó Senhor, um coração simples, sem duplicidade, sem tortuosidades; um coração que se volte para ti com a simplicidade de uma criança.*
 
 ### Meditação

@@ -1,4 +1,4 @@
-## 6 — HOLINESS AND ONE'S DUTIES
+# 6 — HOLINESS AND ONE'S DUTIES
 
 **Presence of God.** — *I place myself in the presence of God with the lively desire that He help me know and fulfill His holy will.*
 

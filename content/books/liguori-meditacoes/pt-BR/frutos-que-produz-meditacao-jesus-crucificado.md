@@ -1,3 +1,5 @@
+# Sexta-feira. Frutos que produz a meditação de Jesus Crucificado
+
 Cristo Crucificado, pintura de Viktor Vasnetsov (1885-1896)
 
 > *Sub umbra illius quem desideraveram sedi; et fructus eius dulcis gutturi meo* – “Eu me sentei debaixo da sombra daquele a quem tanto tinha desejado; e o seu fruto é doce ao meu paladar” (Ct 2, 3)

@@ -1,3 +1,5 @@
+# Quarta-feira de Cinzas. A lembrança da morte e o jejum quaresmal
+
 “Lembra-te, ó homem, que és pó e em pó te hás de tornar”
 
 ## Meditação para Quarta-feira de Cinzas

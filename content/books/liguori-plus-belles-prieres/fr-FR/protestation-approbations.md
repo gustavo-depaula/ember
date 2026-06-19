@@ -1,4 +1,4 @@
-## Protestation de l'Auteur.
+# Protestation de l'Auteur.
 
 En insérant dans ce Manuel des Litanies non liturgiques, nous n'avons d'autre but que de satisfaire la dévotion *privée* ; et, en ce point *comme en tout autre*, nous protestons de notre soumission la plus parfaite et la plus respectueuse à la sainte Église romaine, notre Mère.
 

@@ -1,4 +1,4 @@
-## 62 — Gesù e la gloria del Padre
+# 62 — Gesù e la gloria del Padre
 
 **Presenza di Dio.** — *O Gesù, infondi in me il tuo amore ed il tuo zelo per la gloria del Padre, ed insegnami a disprezzare ed a fuggire ogni gloria personale.*
 

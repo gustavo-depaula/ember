@@ -1,4 +1,4 @@
-## XII — O TRATO ÍNTIMO COM DEUS
+# XII — O TRATO ÍNTIMO COM DEUS
 
 **Presença de Deus.** — *Ó Senhor, embora eu seja tão indigno disso, não desdenhes admitir-me à tua intimidade.*
 

@@ -1,4 +1,4 @@
-## XXVIII — A EXCELÊNCIA DA CARIDADE
+# XXVIII — A EXCELÊNCIA DA CARIDADE
 
 **Presença de Deus.** — *Faz-me compreender, ó Senhor, o primado da caridade, para que eu me empenhe nela com todo o coração.*
 

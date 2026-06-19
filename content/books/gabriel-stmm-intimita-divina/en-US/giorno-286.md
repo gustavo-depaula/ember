@@ -1,4 +1,4 @@
-## XXV — JUSTICE AND RELIGION
+# XXV — JUSTICE AND RELIGION
 **Presence of God.** — *Grant, O Lord, that my whole life may be a continual act of homage to You.*
 
 ### Meditation

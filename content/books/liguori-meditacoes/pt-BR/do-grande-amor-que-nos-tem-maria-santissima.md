@@ -1,3 +1,5 @@
+# Sábado. Do grande amor que nos tem Maria Santíssima
+
 > *Ego diligentes me diligo; et qui mane vigilant ad me, invenient me* – “Eu amo os que me amam, e os que vigiam desde a manhã por me buscarem, me acharão” (Pv 8, 17)
 
 ***Sumário.** Se uma mãe não pode deixar de amar seus filhos, quanto mais não nos amará a Santíssima Virgem, que no Calvário, juntamente com Jesus Cristo, nos gerou para a vida da graça, entre as mais acerbas dores? Ah! Se fosse reunido em um só o amor que todas as mães têm a seus filhos, não igualaria o amor que Maria tem a uma só alma. É justo portanto que ao amor da divina Mãe corresponda o nosso. Sim, minha santa Mãe, depois de Deus, amo-vos de todo o coração mais que a mim mesmo, e pronto estou a fazer tudo por vosso amor.*

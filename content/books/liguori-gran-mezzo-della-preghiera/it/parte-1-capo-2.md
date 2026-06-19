@@ -1,6 +1,4 @@
-# Parte Prima
-
-## Capo II - Del valore della preghiera
+# Capo II - Del valore della preghiera
 
 Sono si care a Dio le nostre Preghiere, ch'Egli ha destinati gli Angeli a presentargliele, subito che quelle da noi gli vengono fatte.
 

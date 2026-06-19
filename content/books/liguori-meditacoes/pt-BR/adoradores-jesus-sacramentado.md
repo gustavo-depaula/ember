@@ -1,3 +1,5 @@
+# Quinta-feira. Os adoradores de Jesus Sacramentado
+
 > *Gustate et videte, quoniam suavis est Dominus* – “Provai e vede quão suave é o Senhor” (Sl 33, 9)
 
 ***Sumário.** Entre todas as devoções, a devoção de Jesus sacramentado é, sem dúvida, depois da recepção dos sacramentos, a primeira, a mais agradável a Deus e a mais proveitosa para nós. Por isso é que todos os santos ardiam de amor a esta dulcíssima devoção. Não te pese, pois, meu irmão, abraçá-la também, e abreviando tuas conversações com os homens, vai frequentemente entreter-te com Jesus e comunicar-lhe as tuas necessidades. Ganharás talvez mais, num quarto de hora de oração diante do Santíssimo Sacramento, que em todos os mais exercícios devotos do dia.*

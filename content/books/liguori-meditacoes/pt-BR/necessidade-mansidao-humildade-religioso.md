@@ -1,3 +1,5 @@
+# Segunda-feira. Necessidade da mansidão e da humildade para o religioso
+
 > *Discite a me, quia mitis sum et humilis corde; et invenietis requiem animabus vestris* – “Aprendei de mim que sou manso e humildade de coração e achareis descanso para vossas almas” (Mt 11, 29)
 
 ***Sumário.** As virtudes que o Senhor exige particularmente dos religiosos que vivem em comunidade, são a humildade e a mansidão. Quem vive solitário nos desertos não precisa tanto delas; mas quem vive em comunidade, se não é manso e humilde, cairá cada dia em mil defeitos e passará uma vida inquieta, porque é impossível que não sofra ou repreensões do superior ou desgostos dos companheiros. Para que serve um religioso que não sabe suportar por Deus um desprezo, uma humilhação, uma contrariedade? Ele será sempre um soberbo ao qual a graça divina resistirá: Deus resiste aos soberbos.*

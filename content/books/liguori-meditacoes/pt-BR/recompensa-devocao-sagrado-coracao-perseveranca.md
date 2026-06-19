@@ -1,3 +1,5 @@
+# 1ª Sexta-feira de Fevereiro. Recompensa da devoção ao Sagrado Coração: a Perseverança
+
 > *Neque creatura alia poterit nos separare a caritate Dei* – “Nenhuma criatura nos poderá separar do amor de Deus” (Rm 8, 39)
 
 ***Sumário.** Pode-se dizer que a devoção ao Sagrado Coração de Jesus é um penhor e sinal de predestinação, porque este Coração é o coração mais amante, mais reconhecido, mais misericordioso, mais desejoso da nossa salvação. É um Coração divino, criado de propósito para nos amar e ser amado por nós. Se os corações que se amam, buscam unir-se para não se separarem mais, o Coração de Jesus deve desejar imensamente unir-se às almas de uma maneira inseparável no céu.*

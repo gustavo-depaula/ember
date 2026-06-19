@@ -14,12 +14,7 @@ import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import {
-  buildTitleLookup,
-  flattenTocLeaves,
-  openBookSession,
-  withChapterTitle,
-} from './bookContent'
+import { buildTitleLookup, openBookSession } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
@@ -61,6 +56,7 @@ import { getReadingTimeMs, persistReadingTimeMs } from './readingTime'
 import { recordReadingSession } from './sessionToast'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
+import { useReadingFlow } from './useReadingFlow'
 
 type Props = {
   bookId: string
@@ -127,10 +123,7 @@ export function BookReader({ bookId, chapter }: Props) {
     return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
   }, [bookEntry, contentLanguage])
 
-  const leaves = useMemo(
-    () => (bookEntry?.toc ? flattenTocLeaves(bookEntry.toc) : []),
-    [bookEntry?.toc],
-  )
+  const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
 
   const titleLookup = useMemo(
     () => (bookEntry?.toc ? buildTitleLookup(bookEntry.toc, lang) : new Map<string, string>()),
@@ -203,9 +196,10 @@ export function BookReader({ bookId, chapter }: Props) {
 
   // The first chapter needs to be in hand BEFORE we paint the WebView host
   // HTML (foliate has to open *something*). Subsequent chapters stream in
-  // via the requestChapter bridge.
+  // via the requestChapter bridge. The body already arrives with its title
+  // heading promoted by the session — no client-side title wrapping needed.
   const {
-    data: initialChapterRaw,
+    data: initialChapter,
     isLoading: initialChapterLoading,
     isError: initialChapterError,
   } = useQuery({
@@ -214,10 +208,6 @@ export function BookReader({ bookId, chapter }: Props) {
     enabled: !!session && cursor.initial.loaded && leaves.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const initialChapter =
-    initialChapterRaw === undefined
-      ? undefined
-      : withChapterTitle(initialChapterRaw, titleLookup.get(leaves[startIndex]?.id ?? ''))
 
   const isLoading = sessionLoading || initialChapterLoading || !cursor.initial.loaded
   const isError = sessionError || initialChapterError
@@ -454,10 +444,7 @@ export function BookReader({ bookId, chapter }: Props) {
             .getChapter(msg.index)
             .then((body) => {
               if (id) recordTiming(id, body)
-              foliateRef.current?.provideChapter(
-                msg.index,
-                withChapterTitle(body, id ? titleLookup.get(id) : undefined),
-              )
+              foliateRef.current?.provideChapter(msg.index, body)
             })
             .catch((err) => {
               console.warn(`[BookReader] requestChapter ${msg.index} failed:`, err)
@@ -917,6 +904,7 @@ export function BookReader({ bookId, chapter }: Props) {
           open={sheet === 'toc'}
           onClose={() => setSheet(null)}
           toc={bookEntry.toc}
+          readableIds={readableIds}
           currentChapterId={currentChapterId}
           completedChapterIds={completed}
           chapterTimings={chapterTimingsRef.current}

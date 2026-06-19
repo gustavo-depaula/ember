@@ -1,4 +1,4 @@
-## 18 — ASHES
+# 18 — ASHES
 **Presence of God.** — *I place myself in Your presence, O Lord, that Your light may enlighten me on eternal truths and awaken in me sincere desires of conversion.*
 
 ### Meditation

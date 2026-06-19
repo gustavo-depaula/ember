@@ -1,3 +1,5 @@
+# Sexta-feira. Comemoração da Lança e dos Cravos de Nosso Senhor Jesus Cristo
+
 > *Unus militum lancea latus eius aperuit, et continuo exivit sanguis et aqua* – “Um dos soldados abriu-Lhe o lado com uma lança, e imediatamente saiu sangue e água” (Jo 19, 34)
 
 ***Sumário.** Sendo o coração um dos primários órgãos da vida, claro está que tem parte principal nos afetos do homem, tanto nos bons como nos maus. Exatamente para sarar esta raiz viciada dos pecados, quis Jesus Cristo que seu Coração fosse traspassado pela lança, assim como pouco antes, para expiar a culpa de Adão em estender a mão ao fruto vedado, e para reparar os abusos da liberdade, quis que as mãos e os pés lhe fossem traspassados pelos cravos. Ó inventos admiráveis do amor de Deus! E nós não amaremos?*

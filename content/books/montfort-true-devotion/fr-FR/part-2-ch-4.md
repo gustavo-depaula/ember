@@ -1,4 +1,4 @@
-## Article IV — Effets merveilleux de cette dévotion
+# Article IV — Effets merveilleux de cette dévotion
 
 Mon cher frère, soyez persuadé que, si vous vous rendez fidèle aux pratiques intérieures et extérieures de cette dévotion que je vous marquerai ci-après :
 

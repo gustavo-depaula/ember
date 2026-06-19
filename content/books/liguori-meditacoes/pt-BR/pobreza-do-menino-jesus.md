@@ -1,3 +1,5 @@
+# 25 de Maio. Pobreza do Menino Jesus
+
 > *Propter vos egenus factus est, cum esset dives; ut illius inopia vos divites essetis* — “Sendo rico, se fez pobre por vosso amor, a fim de que vós fôsseis ricos pela sua pobreza” (2 Cor 8, 9)
 
 ***Sumário.** Ó Deus, quem não teria compaixão se visse um jovem príncipe, filho de um grande monarca, nascer em tão grande pobreza, que, necessitado de tudo, até se fazia mister deitá-lo numa manjedoura? Tal é exatamente o estado de Jesus-Menino, Filho de Senhor do céu e da terra. Os anjos, é verdade, estão ali para o adorar; não, porém, o socorrem. Mas como Jesus abraçou tão apertada pobreza unicamente para nos fazer ricos dos seus bens e nos obrigar a amá-lo, quanto mais pobre se fez, tanto mais amável se nos mostra.*

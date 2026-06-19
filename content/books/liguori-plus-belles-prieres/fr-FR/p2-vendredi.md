@@ -1,4 +1,4 @@
-## Le Vendredi consacré à la Passion et au Sacré-Cœur de Jésus
+# Le Vendredi consacré à la Passion et au Sacré-Cœur de Jésus
 
 ### Prières pendant la Messe
 

@@ -1,4 +1,4 @@
-## 32 — PURIFYING LOVE
+# 32 — PURIFYING LOVE
 
 **Presence of God.** — *O Lord, help me to throw wide open my soul to the invasion of Your purifying love.*
 

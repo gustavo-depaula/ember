@@ -1,3 +1,5 @@
+# Terça-feira. Jesus é coroado de espinhos e apresentado ao povo
+
 ## Primeira Meditação para a Terça-feira Santa
 
 > *Et plectentes coronam de spinis, posuerunt super caput eius* – “E entrançando uma coroa de espinhos Lha puseram na cabeça” (Jo 19, 1)

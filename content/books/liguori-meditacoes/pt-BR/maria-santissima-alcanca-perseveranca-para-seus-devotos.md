@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima alcança a perseverança para seus devotos
+
 Nossa Senhora e o Menino Jesus e São Bernardo
 
 > *Qui operantur in me non peccabunt* – “Os que trabalham por mim não pecarão” (Eclo 24, 30)

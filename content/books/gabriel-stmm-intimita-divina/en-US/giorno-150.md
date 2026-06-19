@@ -1,4 +1,4 @@
-## XI — MEDITATION
+# XI — MEDITATION
 
 **Presence of God.** — *Infuse into me, O Lord, a living spirit of piety, so that I may learn to converse with you with a child's affection.*
 

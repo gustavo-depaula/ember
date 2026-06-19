@@ -1,4 +1,4 @@
-## XVIII — O Espírito de Cristo
+# XVIII — O Espírito de Cristo
 
 **Presença de Deus.** — *Ó Espírito Santo, que com tanta plenitude operaste na Alma SS.ma de Jesus, digna-te tomar a direção da minha pobre alma.*
 

@@ -1,3 +1,5 @@
+# Sexta-feira. Jesus quis sofrer afim de ganhar os nossos corações
+
 Cristo padeceu na Cruz por amor a nós!
 
 > *Dilexit nos, et lavit nos a peccatis nostris in sanguine suo* – “(Jesus) nos amou e nos lavou de nossos pecados em seu sangue” (Ap 1, 5)

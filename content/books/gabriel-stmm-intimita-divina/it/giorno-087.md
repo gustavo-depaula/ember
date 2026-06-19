@@ -1,4 +1,4 @@
-## 11 — LO SPIRITO DI POVERTÀ
+# 11 — LO SPIRITO DI POVERTÀ
 
 **Presenza di Dio.** — *O Gesù, ti contemplo sul monte mentre ammaestri le turbe sullo spirito di povertà. Mi accosto anch'io desideroso di ascoltarti.*
 

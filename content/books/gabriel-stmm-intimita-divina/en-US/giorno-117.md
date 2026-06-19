@@ -1,4 +1,4 @@
-## 41 — TRUE GLORY
+# 41 — TRUE GLORY
 
 **Presence of God.** — *O Jesus, who for love of me accepted the dishonor of death on the cross, teach me wherein true glory consists, and grant that for love of You I may know how to conquer my points of honor.*
 

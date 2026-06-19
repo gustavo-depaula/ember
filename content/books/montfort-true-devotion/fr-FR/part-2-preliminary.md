@@ -1,6 +1,4 @@
-# Deuxième Partie — De la plus excellente dévotion à la Sainte Vierge
-
-## Préliminaires — Pratiques intérieures et extérieures
+# Préliminaires — Pratiques intérieures et extérieures
 
 Il y a plusieurs pratiques intérieures de la vraie dévotion à la très sainte Vierge, dont voici les principales en abrégé : 1° l'honorer comme la digne Mère de Dieu, du culte d'hyperdulie[^121], c'est-à-dire l'estimer et l'honorer par-dessus tous les autres saints, comme le chef-d'oeuvre de la grâce et la première après Jésus-Christ, vrai Dieu et vrai homme ; 2° méditer ses vertus, ses privilèges et ses actions ; 3° contempler ses grandeurs ; 4° lui faire des actes d'amour, de louanges et reconnaissance ; 5° l'invoquer cordialement ; 6° s'offrir et s'unir à elle ; 7° faire ses actions en vue de lui plaire ; 8° commencer, continuer et finir toutes ses actions par elle, en elle et avec elle, afin de les faire par Jésus-Christ, en Jésus-Christ, avec Jésus-Christ et pour Jésus-Christ notre dernière fin ; nous expliquerons cette dernière pratique.
 

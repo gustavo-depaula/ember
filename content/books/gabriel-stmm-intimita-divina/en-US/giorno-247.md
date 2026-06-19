@@ -1,4 +1,4 @@
-## XVII — OUR RICHES
+# XVII — OUR RICHES
 *Eighth Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, teach me to be a faithful and prudent administrator of your goods.*

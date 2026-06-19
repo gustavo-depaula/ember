@@ -1,4 +1,4 @@
-## VII — PRAYER
+# VII — PRAYER
 
 **Presence of God.** — *O Lord, I draw near to you to ask for the true spirit of prayer.*
 

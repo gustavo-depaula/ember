@@ -1,3 +1,5 @@
+# Terça-feira. Última ceia de Jesus Cristo com os seus discípulos
+
 > *Vespere autem facto, discumbebat (Iesus) cum discipulis suis – “Chegada, pois, a tarde, pôs-se (Jesus) à mesa com os seus discípulos”* (Mt 26, 20)
 
 ***Sumário.** Imaginemos ver Jesus Cristo que, sentado à mesa com os discípulos, come o Cordeiro Pascal, figura do sacrifício d’Ele mesmo, que no dia seguinte seria oferecido sobre o altar da Cruz. Imaginemos vê-Lo também no momento de prostrar-Se diante dos Apóstolos e de Judas para lhes lavar os pés. Vendo um Deus que Se humilha a tal ponto por nosso amor, ficaremos sempre tão orgulhosos, que não sabemos suportar uma palavra de desprezo, a mais leve falta de atenção?*

@@ -1,4 +1,4 @@
-## 5 — SANTITÀ E VOLONTÀ DI DIO
+# 5 — SANTITÀ E VOLONTÀ DI DIO
 
 **Presenza di Dio.** — *Mi metto alla presenza di Gesù Sacramentato chiedendogli la grazia di far penetrare nell'anima mia le sue parole: «Chi fa la volontà del Padre mio... entrerà nel regno dei cieli» *(Mt.* 7, 21).*
 

@@ -1,4 +1,4 @@
-## 42 — LA SACRA FAMIGLIA
+# 42 — LA SACRA FAMIGLIA
 
 *I domenica dopo l'Epifania*[^1]
 

@@ -1,3 +1,5 @@
+# 16 de Agosto. Festa de São Joaquim, pai de Maria Santíssima
+
 > *Constituit eum dominum domus suae, et principem omnis possessionis suae* —“Constituiu-o senhor da sua casa e por príncipe de tudo o que possuía” (Sl 104, 21)
 
 ***Sumário.** A glória que São Joaquim e Santa Ana gozam no céu é muito grande, porque é proporcionada aos seus merecimentos e à sua dignidade. Para formarmos uma ideia da eficácia do seu patrocínio, basta esta reflexão: São os pais de Maria, a tesoureira de todas as graças. Como, pois, poderá esta filha deixar de atender aos seus pais, quando estes rogam pelos seus devotos? Avivemos nossa devoção para com os santos cônjuges, e rendamos graças à Santíssima Trindade pelas prerrogativas a eles concedidas. Assim ao mesmo tempo honraremos a Santíssima Virgem.*

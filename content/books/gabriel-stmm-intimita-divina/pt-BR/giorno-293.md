@@ -1,4 +1,4 @@
-## I — A CORAGEM
+# I — A CORAGEM
 **Presença de Deus.** — Ó Senhor, faze-me tornar um soldado forte e corajoso no teu serviço.
 
 ### Meditação

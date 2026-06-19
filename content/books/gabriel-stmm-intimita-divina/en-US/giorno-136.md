@@ -1,4 +1,4 @@
-## 60 — THE MAN OF SORROWS
+# 60 — THE MAN OF SORROWS
 
 *Wednesday of Holy Week*
 

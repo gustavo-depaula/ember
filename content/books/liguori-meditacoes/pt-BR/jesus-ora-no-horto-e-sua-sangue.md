@@ -1,3 +1,5 @@
+# Quarta-feira. Jesus ora no Horto e sua sangue
+
 > *Tunc venit Iesus cum illis in villam, quae dicitur Gethsemani – “Então foi Jesus com eles a uma herdade, que é chamada Gethsemani”* (Mt 26, 36)
 
 ***Sumário.** O Filho de Deus, para nos ensinar o modo de orar, pede no horto a seu Pai divino, que O exima de beber o cálice de sua Paixão; com resignação, porém, acrescenta que se conforma em tudo à divina vontade. Prostra-se com a face na terra, e é tão grande o temor, o aborrecimento e a tristeza que Lhe sobrevém pela previsão dos seus padecimentos e da nossa ingratidão, que chega a suar sangue vivo. Ah, meu pobre Senhor, se eu menos houvera pecado, Vós menos teríeis sofrido.*

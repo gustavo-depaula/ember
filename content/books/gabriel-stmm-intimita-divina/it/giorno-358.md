@@ -1,4 +1,4 @@
-## 36 — PROVE INTERIORI
+# 36 — PROVE INTERIORI
 
 **Presenza di Dio.** — *O Signore, purificami come l'oro nel crogiuolo; purificami e non risparmiarmi affinché io possa giungere a te.*
 

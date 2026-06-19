@@ -1,3 +1,5 @@
+# Sábado. Maria Santíssima, modelo de esperança
+
 > *Mihi autem adhaerere Deo bonum est; ponere in Domino meo spem meam* – “Para mim é bom unir-me a Deus; pôr no Senhor Deus a minha esperança” (Sl 72, 28)
 
 ***Sumário.** Se da fé nasce a esperança, Maria Santíssima, que teve uma fé singular, possuiu também uma esperança exímia. Disso deu contínuas provas em todo o curso de sua vida moral, porquanto viveu sempre em desapego completo de qualquer criatura e em inteiro abandono à divina Providência, que dela dispunha à vontade. Se quisermos ser filhos dignos de tão excelsa Mãe, esforcemo-nos por imitá-la, esperando tudo da bondade divina. E, depois de Deus, ponhamos a nossa confiança em Maria, que é chamada Mãe da santa esperança.*

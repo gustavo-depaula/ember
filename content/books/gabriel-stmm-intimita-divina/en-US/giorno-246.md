@@ -1,4 +1,4 @@
-## XVI — OUR LADY OF CARMEL
+# XVI — OUR LADY OF CARMEL
 
 *July 16*
 

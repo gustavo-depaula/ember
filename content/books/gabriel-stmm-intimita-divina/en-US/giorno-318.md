@@ -1,4 +1,4 @@
-## XXVI — THE GIFT OF UNDERSTANDING
+# XXVI — THE GIFT OF UNDERSTANDING
 
 **Presence of God.** — *Come, Spirit of understanding, enlighten me!*
 

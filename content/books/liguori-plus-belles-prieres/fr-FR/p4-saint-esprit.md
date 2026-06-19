@@ -1,4 +1,4 @@
-## Art. 3. Dévotion au Saint-Esprit
+# Art. 3. Dévotion au Saint-Esprit
 
 ### Humble supplication au Saint-Esprit
 

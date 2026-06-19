@@ -1,4 +1,4 @@
-## 7 — L'IDEALE APOSTOLICO
+# 7 — L'IDEALE APOSTOLICO
 
 **Presenza di Dio.** — *Accendi in me, Signore, la fiamma dell'apostolato e alimentala col tuo amore.*
 

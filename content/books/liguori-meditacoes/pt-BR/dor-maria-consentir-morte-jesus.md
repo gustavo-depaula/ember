@@ -1,3 +1,5 @@
+# Sábado. Dor de Maria Santíssima em consentir na morte de Jesus
+
 > *Proprio Filio suo non pepercit, sed pro nobis omnibus tradidit illum – “Não poupou a seu próprio Filho, mas entregou-o por nós todos”* (Rm 8, 32)
 
 ***Sumário.** Embora Maria Santíssima já tivesse consentido na morte de Jesus Cristo, desde que aceitou a maternidade divina, quis todavia o Pai Eterno, que ela renovasse o consentimento no tempo da Paixão, afim de que, juntamente com a vida do Filho, fosse também sacrificado o coração da Mãe. Pelos merecimentos deste consentimento tão espontâneo como doloroso, a Santíssima Virgem foi feita Reparadora do gênero humano, e credora de toda a nossa gratidão. Quantos, porém, lhe pagam com a ingratidão mais monstruosa, renovando pelo pecado a paixão do Filho e as dores da Mãe!*

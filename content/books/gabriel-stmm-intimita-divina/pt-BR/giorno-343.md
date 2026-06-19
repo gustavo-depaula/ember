@@ -1,4 +1,4 @@
-## 21 — VALORES HUMANOS A SERVIÇO DO APOSTOLADO
+# 21 — VALORES HUMANOS A SERVIÇO DO APOSTOLADO
 
 **Presença de Deus.** — *Ensina-me, Senhor, a colocar a serviço do apostolado todos os talentos recebidos de ti.*
 

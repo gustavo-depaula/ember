@@ -1,4 +1,4 @@
-## XXIX — A GRANDE PROMESSA
+# XXIX — A GRANDE PROMESSA
 
 *IV Domingo depois da Páscoa*
 

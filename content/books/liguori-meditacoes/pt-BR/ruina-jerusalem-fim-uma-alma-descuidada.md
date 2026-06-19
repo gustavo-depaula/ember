@@ -1,3 +1,5 @@
+# Domingo. A ruína de Jerusalém e o fim de uma alma descuidada
+
 ## 9º Domingo depois de Pentecostes
 
 > *Ut appropinquavit (Iesus) videns civitatem, flevit super illam* – “Quando (Jesus) chegou perto, ao ver a cidade chorou sobre ela” (Lc 19, 41)

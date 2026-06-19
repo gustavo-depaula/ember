@@ -1,3 +1,5 @@
+# Segunda-feira. Loucura dos Pecadores
+
 > *Melior est puer pauper et sapiens rege sene et stulto, qui nescit praevidere in posterum* – “Melhor é um moço pobre e sábio, do que um rei velho e insensato, que não sabe prever nada para o futuro” (Ecl 4, 13)
 
 ***Sumário.** Pobres pecadores! Trabalham, afadigam-se para adquirir as ciências humanas ou a arte de granjearem os bens da vida presente, que em breve acaba, e não cuidam dos bens da outra vida, que nunca termina; ou, antes, renunciam a eles por uma satisfação passageira. Não sejamos tão loucos. Lembremo-nos que o Senhor nos pôs neste mundo tão somente para merecermos a vida eterna, e digamos muitas vezes conosco: Para que serve ao homem ganhar o mundo inteiro, se vier a perder a alma? Perdida a alma, tudo está perdido.*

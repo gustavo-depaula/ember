@@ -1,4 +1,4 @@
-## VIII — BE MERCIFUL
+# VIII — BE MERCIFUL
 **Presence of God.** — *O Lord, enlarge my heart in the consideration of your infinite mercy, so that I may learn to treat my brethren with bowels of mercy.*
 
 ### Meditation

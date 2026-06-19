@@ -1,4 +1,4 @@
-## 50 — "I AM THE TRUTH"
+# 50 — "I AM THE TRUTH"
 
 **Presence of God.** — *O Jesus, Incarnate Word, splendor and light of the Father, instruct and enlighten my soul.*
 

@@ -1,4 +1,4 @@
-## 60 — O HOMEM DAS DORES
+# 60 — O HOMEM DAS DORES
 
 *quarta-feira santa*
 

@@ -1,3 +1,5 @@
+# Segunda-feira. Do negócio da eterna salvação
+
 “De que serve ao homem ganhar o mundo inteiro, se vier a perder a sua alma?”
 
 > *Rogamos autem vos, fratres… ut vestrum negotium agatis* – “Nós vos rogamos, irmãos… que trateis de vosso negócio” (1 Ts 10-11)

@@ -1,4 +1,4 @@
-## X — PORTARE GLI UNI I PESI DEGLI ALTRI
+# X — PORTARE GLI UNI I PESI DEGLI ALTRI
 
 **Presenza di Dio.** — *Dammi, o Signore, una carità attenta e pronta ai bisogni altrui, una carità che per amor tuo sappia farsi tutto a tutti.*
 

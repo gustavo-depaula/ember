@@ -1,4 +1,4 @@
-## XX — A descida do Espírito Santo
+# XX — A descida do Espírito Santo
 
 *Domingo de Pentecostes*
 

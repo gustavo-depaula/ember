@@ -1,3 +1,5 @@
+# Sábado. Do amor que são José teve a Jesus e Maria
+
 > *Iacob autem genuit Ioseph, virum Mariae, de qua natus est Iesus* – “Jacó gerou a José, esposo de Maria, da qual nasceu Jesus” (Mt 1, 16)
 
 ***Sumário.** A longa familiaridade de pessoas amantes faz muitas vezes resfriar o amor, porque, quanto mais tratam uns com outros, tanto mais conhecem os defeitos mútuos. Mas não foi assim com São José. Quanto mais convivia com o divino Redentor e com a Santíssima Virgem, tanto mais chegou a conhecer-lhes a santidade. Concluamos disso quanto devia amar aqueles queridos penhores de seu coração, gozando tão longos anos a sua companhia. Roguemos ao santo Patriarca, que nos comunique uma parte de seu amor a Jesus e Maria; e ao mesmo tempo esforcemo-nos por imitá-lo, pela consideração de suas grandezas.*

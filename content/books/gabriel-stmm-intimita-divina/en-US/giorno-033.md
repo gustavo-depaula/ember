@@ -1,4 +1,4 @@
-## 33 — PEACE TO MEN
+# 33 — PEACE TO MEN
 *December 29*
 
 **Presence of God.** — *I place myself at the feet of the Child Jesus to consider in recollection the song of the angels: "Peace on earth to men of good will" (Lk. 2, 14).*

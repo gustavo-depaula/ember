@@ -1,4 +1,4 @@
-## 19 — PERFECT HUMANITY AND APOSTOLIC CHARITY
+# 19 — PERFECT HUMANITY AND APOSTOLIC CHARITY
 
 **Presence of God.** — *Soften, Lord, my heart with the flame of your charity.*
 

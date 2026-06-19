@@ -1,4 +1,4 @@
-## 22 — BEHOLD, THE SAVIOR IS COMING
+# 22 — BEHOLD, THE SAVIOR IS COMING
 *Fourth Sunday of Advent*
 
 **Presence of God.** — *I place myself at the feet of Jesus, my Savior, to beg Him to prepare my heart Himself for His imminent coming.*

@@ -1,4 +1,4 @@
-## V — LA BONTÀ INFINITA
+# V — LA BONTÀ INFINITA
 
 **Presenza di Dio.** — *O mio Dio, Tu che sei il solo buono, degnati di rivestirmi della tua bontà.*
 

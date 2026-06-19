@@ -1,4 +1,4 @@
-## 54 — AS EXIGÊNCIAS DO ENSINAMENTO DE JESUS
+# 54 — AS EXIGÊNCIAS DO ENSINAMENTO DE JESUS
 
 **Presença de Deus.** — *Jesus, faze-me compreender e depois dá-me a força de pôr em prática os teus ensinamentos.*
 

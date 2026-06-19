@@ -1,4 +1,4 @@
-## 43 — AMOR HUMILDE E REVERENTE
+# 43 — AMOR HUMILDE E REVERENTE
 
 **Presença de Deus.** — *Ó Deus, que sois tão grande, dignai-Vos elevar até Vós a minha alma tão pequena e mísera.*
 

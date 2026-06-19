@@ -1,3 +1,5 @@
+# 1ª Quarta-feira de Março. Da viagem de São José e Maria Santíssima a Belém, onde nasceu Jesus
+
 > *Ascendit autem et Ioseph … in civitatem David, quae vocatur Bethlehem*— “Subiu também José … à cidade de Davi, que se chama Belém” (Lc 2, 4)
 
 ***Sumário.** Consideremos os doces colóquios dos santos Esposos sobre o mistério da Encarnação, durante a viagem de Nazaré a Belém. Imaginemos a tristeza de São José vendo-se com Maria expulso de Belém e obrigado a refugiar-se numa gruta. Mas a tristeza se trocou em alegria, quando o Patriarca ouviu o doce canto dos anjos, viu o Filho de Deus feito menino, e os pastores e os magos prostrados em adoração. Unamos os nossos afetos ao de São José e admiremos como o Senhor alterna as alegrias com as tristezas na vida dos justos.*

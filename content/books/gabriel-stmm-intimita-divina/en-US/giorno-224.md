@@ -1,4 +1,4 @@
-## XXIV — THE TRINITY'S OUTPOURINGS IN THE SOUL
+# XXIV — THE TRINITY'S OUTPOURINGS IN THE SOUL
 
 **Presence of God.** — *O Most Holy Trinity, deign to renew your visit to my soul.*
 

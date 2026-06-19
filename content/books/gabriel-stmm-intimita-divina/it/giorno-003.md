@@ -1,4 +1,4 @@
-## 3 — SANTITÀ PIENEZZA DELLA GRAZIA
+# 3 — SANTITÀ PIENEZZA DELLA GRAZIA
 
 **Presenza di Dio.** — *Mi accosto a Gesù, «fonte di vita e di santità», con vivo desiderio di bere a questa sorgente inesauribile.*
 

@@ -1,4 +1,4 @@
-## 44 — LABORIOUS AND STRONG LOVE
+# 44 — LABORIOUS AND STRONG LOVE
 
 **Presence of God.** — *O Lord, grant that my love for You may not be content with words, but show itself in generous works.*
 

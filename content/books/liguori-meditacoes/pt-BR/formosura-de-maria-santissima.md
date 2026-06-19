@@ -1,3 +1,5 @@
+# 5ª Meditação. Formosura de Maria Santíssima
+
 > *Quam pulchra es, amica mea, quam pulchra es!* — “Ó, como és formosa, amiga minha, como és formosa” (Ct 4, 1)
 
 ***Sumário.** Quando a Santíssima Virgem estava ainda na terra, a graça imensa de sua alma comunicava a seu corpo uma formosura tão grande, que abrasava em amor todos aqueles que tinham a ventura de a contemplar, e inspirava-lhes no coração o desejo das coisas celestiais. Quanto mais formosa não deverá ser agora no céu, onde foi glorificada à mão direita de seu divino Filho! Regozijemo-nos com a nossa querida Mãe, recorramos a ela com confiança, e não tenhamos a loucura de renunciar ao gozo de a contemplarmos um dia no paraíso, para amarmos com amor pecaminoso umas vis criaturas feitas de lodo.*

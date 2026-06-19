@@ -1,4 +1,4 @@
-## Article II — Discernment of True Devotion to the Blessed Virgin
+# Article II — Discernment of True Devotion to the Blessed Virgin
 
 Having spoken until now of the necessity of devotion to the Blessed Virgin, I must now explain what this devotion consists of. This I shall do, God willing, after laying down some fundamental truths that will cast light upon this great and solid devotion which I wish to make known.
 

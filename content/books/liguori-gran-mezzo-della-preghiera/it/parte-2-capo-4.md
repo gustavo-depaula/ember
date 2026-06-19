@@ -1,6 +1,4 @@
-# Parte Seconda
-
-## Capo IV - Iddio dona a tutti la grazia di pregare
+# Capo IV - Iddio dona a tutti la grazia di pregare
 
 Posto dunque che Dio vuol salvi tutti, e che in quanto a Se a tutti da le grazie necessarie per conseguir la salute, diciamo che a tutti e data la grazia di poter attualmente pregare (senza bisogno d'altra nuova grazia), e col pregare di ottener poi tutti gli altri aiuti per osservare i precetti, e salvarsi. Ma s'avverta che dicendosi, senza bisogno d'altra nuova grazia, non s'intende che la grazia comune dia il pregare senza l'aiuto della grazia adiuvante, perche ad esercitare qualunque atto di pieta, oltre la grazia eccitante, senza dubbio richiedesi anche la grazia adiuvante, o sia cooperante; ma s'intende che la grazia comune da ad ognuno il poter pregare attualmente, senza nuova grazia preveniente, che fisicamente o moralmente determini la volonta dell'Uomo a porre in atto la preghiera. Per lo che qui prima registreremo i molti ed insigni Teologi, che insegnano per certa questa sentenza, e poi la proveremo colle autorita, e colle ragioni. Cosi tengono1 Isambertoa, il Cardinal du-Perronb, Alfonso le Moynec, ed altri2 che appresso si riferiranno, e piu a lungo e di proposito Onorato Tournelyd; tutti quest'Autori provano che ciascuno colla sola grazia ordinaria sufficiente puo attualmente pregare, senza bisogno d'altro aiuto, e colla preghiera impetrare tutte le altre grazie per osservare le cose piu difficili.
 

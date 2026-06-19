@@ -1,4 +1,4 @@
-## 15 — SANTIFICARSI NELL'APOSTOLATO
+# 15 — SANTIFICARSI NELL'APOSTOLATO
 
 **Presenza di Dio.** — *Dammi luce, o Dio, affinché riconosca le grazie che hai preparato sul mio cammino per condurmi alla santità; rendimi Tu capace di corrispondere ad esse.*
 

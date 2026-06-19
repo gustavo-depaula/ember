@@ -1,3 +1,5 @@
+# Terça-feira. Quanto é doce a morte do justo
+
 A morte do Justo e a morte do Pecador
 
 > *Iustorum animae in manu Dei sunt, et non tanget illos tormentum mortis* – “As almas dos justos estão na mão de Deus, e não os tocará o tormento da morte” (Sb 3, 1)

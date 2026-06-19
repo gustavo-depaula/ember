@@ -1,4 +1,4 @@
-## 17 — CON GESÙ CROCIFISSO
+# 17 — CON GESÙ CROCIFISSO
 
 **Presenza di Dio.** — *O Gesù, mi metto ai piedi della tua Croce, perché Tu mi faccia comprendere quanto è necessario patire per diventare simile a te.*
 

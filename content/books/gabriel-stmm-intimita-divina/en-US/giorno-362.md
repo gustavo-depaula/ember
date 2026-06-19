@@ -1,4 +1,4 @@
-## 40 — ESTIMATIVE LOVE
+# 40 — ESTIMATIVE LOVE
 
 **Presence of God.** — *My God, supreme and infinite Good, grant that I may esteem nothing more than You and prefer nothing to You.*
 

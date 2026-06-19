@@ -1,3 +1,5 @@
+# Sábado. Terceira palavra de Jesus Cristo na Cruz
+
 > *Dicit matri suae: Mulier, ecce filius tuus. Deinde dieit discipulo: ecce mater tua* – “Diz a sua mãe: Mulher, eis aí teu filho. Depois diz ao discípulo: Eis aí tua mãe” (Jo 19, 26-27)
 
 ***Sumário.** Consideremos como Jesus moribundo, volvendo-se para sua mãe, que estava ao pé da cruz, e indicando-lhe pelo olhar o discípulo predileto, lhe disse: Mulher, eis aí teu filho; e depois acrescentou dirigindo-se ao discípulo: Eis aí tua mãe. E assim Maria foi constituída mãe de todos os cristãos, e nós fomos feitos seus filhos. Ponhamos portanto na Santíssima Virgem toda a nossa confiança, e em todas as necessidades recorramos a ela por socorro. Mas ao mesmo tempo provemos pelas nossas obras que somos filhos dignos de seu amor.*

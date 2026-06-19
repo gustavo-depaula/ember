@@ -1,3 +1,5 @@
+# Terça-feira. Fins da oração mental
+
 “Quem reza se salva, quem não reza se condena” (Santo Afonso)
 
 > *In meditatione mea exardescet ignis* – “Na minha meditação se acenderá o fogo” (Sl 38, 4)

@@ -1,3 +1,5 @@
+# Meditação para a tarde do mesmo dia: Uma visita à Gruta de Belém
+
 Gruta de Belém: esta estrela que indica o lugar onde Jesus nasceu
 
 > *Transeamus usque Bethlehem, et videamus hoc verbum, quod factum est* – Cheguemos até Belém, e vejamos o que é isto que sucedeu (Lc 2, 15)

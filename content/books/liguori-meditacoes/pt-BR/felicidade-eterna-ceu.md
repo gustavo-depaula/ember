@@ -1,3 +1,5 @@
+# Quarta-feira. Felicidade eterna do céu
+
 > *Beati qui habitant in domo tua, Domine; in saecula saculorum laudabunt te* – “Bem-aventurados, Senhor, os que moram na tua casa; pelos séculos dos séculos te louvarão” (Sl 83, 5)
 
 ***Sumário.** No céu a alma verá Deus face a face, conhecerá todas as disposições admiráveis da divina Providência para sua salvação e verá que o Senhor a abraça e a abraça sempre como filha querida; pelo que a alma se embriagará de tal amor, que não pensará mais senão em amar seu Deus. Será esta a sua eterna ocupação: amar o bem infinito que possui, louvá-Lo e bendizê-Lo. Quando nos sentirmos oprimidos pelas cruzes, levantemos os olhos ao céu, e lembremo-nos de que nos está reservada sorte igual, se ficarmos fiéis a Deus.*

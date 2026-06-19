@@ -1,4 +1,4 @@
-## Article V — Pratiques particulières de cette dévotion
+# Article V — Pratiques particulières de cette dévotion
 
 ### § I. Pratiques extérieures
 

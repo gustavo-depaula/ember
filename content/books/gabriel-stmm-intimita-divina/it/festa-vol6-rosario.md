@@ -1,4 +1,4 @@
-## 7 ottobre — LA MADONNA DEL ROSARIO
+# 7 ottobre — LA MADONNA DEL ROSARIO
 
 **Presenza di Dio.** — *Il tuo Rosario benedetto, o Vergine santa, mi sia arma di difesa e scuola di virtù.*
 

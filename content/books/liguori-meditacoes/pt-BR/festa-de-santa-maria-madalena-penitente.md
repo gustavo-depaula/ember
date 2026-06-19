@@ -1,3 +1,5 @@
+# 22 de Julho. Festa de Santa Maria Madalena Penitente
+
 > *Remittuntur ei peccata multa, quoniam dilexit multum* — “Perdoados lhe são muitos pecados, porque muito amou” (Lc 7, 47)
 
 ***Sumário.** Que belo modelo de penitência nos propõe a Igreja na pessoa de Madalena! Ela obedece prontamente ao convite de Deus, e, triunfando de todo o respeito humano, vai logo prostrar-se aos pés de Jesus Cristo. Uma vez absolvida de seus pecados, não recai mais; e, correspondendo fielmente à graça, chega ao auge da perfeição. Não desanimemos, pois, seja qual for o nosso estado, contanto que, depois de termos imitado Madalena em seus desvarios, a imitemos também na sua penitência.*

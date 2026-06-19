@@ -1,4 +1,4 @@
-## XXIX — BEATI I PACIFICI
+# XXIX — BEATI I PACIFICI
 
 **Presenza di Dio.** — *O Spirito Santo, aiutami a stabilire il mio cuore nella pace.*
 

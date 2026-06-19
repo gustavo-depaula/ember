@@ -1,4 +1,4 @@
-## 35 — LET US TRADE WITH TIME
+# 35 — LET US TRADE WITH TIME
 *December 31*
 
 **Presence of God.** — *On this last day of the year I recollect myself at the feet of the Child Jesus to consider, in the light of eternity, the value of time.*

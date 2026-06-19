@@ -1,3 +1,5 @@
+# Quinta-feira. Jesus no Santíssimo Sacramento não deseja senão dispensar graças
+
 > *Mecum sunt divitiae… ut ditem diligentes me, et thesauros eorum repleam* – “Comigo estão as riquezas, para enriquecer os que me amam e encher os seus tesouros” (Pv 8, 18; 21)
 
 ***Sumário.** Porque Jesus Cristo é a bondade infinita, tem desejo extremo de nos comunicar seus bens, e está sempre pronto a fazer-nos bem. Ensina contudo a experiência que no Santíssimo Sacramento da Eucaristia Jesus dispensa as graças mais fácil e abundantemente. Felizes, portanto, de nós se, conforme no-lo permitir nosso estado, procurarmos frequentemente visitá-lo, entreter-nos com ele e recebê-lo em nosso peito! A graça que sobretudo lhe devemos pedir é que nos abrase mais e mais em seu santo amor.*

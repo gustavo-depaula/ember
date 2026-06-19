@@ -1,3 +1,5 @@
+# Segunda-feira. Não se perdoa a todos igual número de pecados
+
 > *Omnia in mensura et numero et pondere disposuisti* – “Dispuseste todas as coisas com medida e conto e peso” (Sb 2, 21)
 
 ***Sumário.** Apesar de ser infinita a misericórdia de Deus, não perdoa todavia a todos um número igual de pecados. A um perdoa cem pecados, a outro mil; aquele outro, porém, será condenado ao inferno depois do segundo pecado. E quantos não há a quem Deus condenou logo depois do primeiro pecado? Quando, pois, o demônio nos tenta a pecar mais uma vez, digamos: Quem sabe, se depois terei tempo para confessar bem?… Quem sabe se este novo pecado não completa o número, e então serei abandonado por Deus e perdido para sempre?*

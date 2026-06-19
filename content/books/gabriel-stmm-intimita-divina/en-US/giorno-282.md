@@ -1,4 +1,4 @@
-## XXI — THE TEN LEPERS
+# XXI — THE TEN LEPERS
 *XIII Sunday after Pentecost*
 
 **Presence of God.** — *O Jesus Savior, I need You: heal me, have mercy on me!*

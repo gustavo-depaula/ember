@@ -1,4 +1,4 @@
-## II — THE MOTIVE OF FRATERNAL CHARITY
+# II — THE MOTIVE OF FRATERNAL CHARITY
 
 **Presence of God.** — *O Lord, teach me to love You in my neighbor and to love my neighbor in You and for You.*
 

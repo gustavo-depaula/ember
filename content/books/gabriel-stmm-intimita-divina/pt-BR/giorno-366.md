@@ -1,4 +1,4 @@
-## 44 — AMOR ATIVO E FORTE
+# 44 — AMOR ATIVO E FORTE
 
 **Presença de Deus.** — *Ó Senhor, fazei que o meu amor por Vós não se contente de palavras, mas se demonstre com obras generosas.*
 

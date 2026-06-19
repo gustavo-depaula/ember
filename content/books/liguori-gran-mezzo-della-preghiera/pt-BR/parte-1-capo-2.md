@@ -1,6 +1,4 @@
-# Parte Primeira
-
-## Capítulo II — Do valor da oração
+# Capítulo II — Do valor da oração
 
 São tão caras a Deus as nossas orações, que Ele destinou os anjos a apresentar-lhas logo que por nós lhe são feitas.
 

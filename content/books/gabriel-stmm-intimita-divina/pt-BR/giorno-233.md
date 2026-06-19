@@ -1,4 +1,4 @@
-## III — A COMPAIXÃO DE JESUS
+# III — A COMPAIXÃO DE JESUS
 
 *VI Domingo depois de Pentecostes*
 

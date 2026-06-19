@@ -1,4 +1,4 @@
-## XVII — O Espírito Santo
+# XVII — O Espírito Santo
 
 *Tríduo de Pentecostes*
 

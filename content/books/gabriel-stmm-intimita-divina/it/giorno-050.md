@@ -1,4 +1,4 @@
-## 50 — «Io sono la verità»
+# 50 — «Io sono la verità»
 
 **Presenza di Dio.** — *O Gesù, Verbo Incarnato, splendore e luce del Padre, istruisci e illumina l'anima mia.*
 

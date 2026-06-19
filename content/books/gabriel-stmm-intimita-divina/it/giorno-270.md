@@ -1,4 +1,4 @@
-## IX — IL MANTO DELLA CARITÀ
+# IX — IL MANTO DELLA CARITÀ
 
 **Presenza di Dio.** — *O Signore, insegnami a ricoprire col manto della carità i difetti e gli errori altrui.*
 

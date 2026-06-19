@@ -1,4 +1,4 @@
-## 21 — SEEKING GOD IN ACTIVITY
+# 21 — SEEKING GOD IN ACTIVITY
 
 **Presence of God.** — *I leave every external activity, to recollect myself at Jesus' feet and ask Him to teach me to maintain this interior position even in the midst of my occupations.*
 

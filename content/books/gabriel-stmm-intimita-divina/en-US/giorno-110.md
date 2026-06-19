@@ -1,4 +1,4 @@
-## 34 — HUMILIATIONS
+# 34 — HUMILIATIONS
 
 **Presence of God.** — *O Jesus, humbled for me even unto abjection, teach me to humble myself for love of You.*
 

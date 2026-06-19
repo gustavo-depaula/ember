@@ -1,3 +1,5 @@
+# Terça-feira. Vinda do divino Juiz e exame no Juízo Final
+
 O Juízo Final (The Last Judgement de Jan II Provost)
 
 > *Videbunt Filium hominis venientem in nubibus coeli, cum virtute multa et maiestate* – “Eles verão o Filho do homem, que virá sobre as nuvens do céu com grande poder e majestade” (Mt 24, 30)

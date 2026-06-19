@@ -1,4 +1,4 @@
-## 28 — LA CONFESSIONE
+# 28 — LA CONFESSIONE
 
 **Presenza di Dio.** — *Ai piedi della tua Croce, o Gesù, confesso i miei peccati e invoco su di me l'effusione del tuo Sangue, affinché purifichi l'anima mia.*
 

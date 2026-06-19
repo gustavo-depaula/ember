@@ -1,4 +1,4 @@
-## 37 — L'ULTIMO POSTO
+# 37 — L'ULTIMO POSTO
 
 **Presenza di Dio.** — *O Gesù che hai detto: «Non son venuto per essere servito ma per servire» (cfr. Mt. 20, 28), insegnami ad amare l'ultimo posto.*
 

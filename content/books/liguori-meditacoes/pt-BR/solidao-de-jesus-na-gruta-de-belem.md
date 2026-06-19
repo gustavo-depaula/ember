@@ -1,3 +1,5 @@
+# 25 de Outubro. Solidão de Jesus na Gruta de Belém
+
 > *Ecce elongavi fugiens; et mansi in solitudine* — “Eis que me alonguei fugindo, e permaneci na soledade” (Sl 54, 8)
 
 ***Sumário.** A fim de nos sugerir o amor à solidão e ao silêncio, quis Jesus nascer fora da cidade e numa gruta solitária. Felizes de nós se, à imitação de José e Maria, nos entretivermos com ele nessa santa solidão. Aí o divino Menino nos falará, não ao ouvido, mas ao coração. Vendo a sua pobreza, ouvindo os seus vagidos, considerando que um Deus se reduziu a tal estado pelo nosso amor, ser-nos-emos atraídos suavemente a ele, e não poderemos deixar de o amar de todo o nosso coração, copiando em nós as suas virtudes.*

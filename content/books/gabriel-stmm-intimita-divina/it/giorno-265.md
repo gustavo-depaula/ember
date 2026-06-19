@@ -1,4 +1,4 @@
-## IV — LA MISURA DELLA CARITÀ FRATERNA
+# IV — LA MISURA DELLA CARITÀ FRATERNA
 
 **Presenza di Dio.** — *O Signore, fammi intendere tutto il valore delle tue parole: «Amerai il tuo prossimo come te stesso» (Mt. 22, 39).*
 

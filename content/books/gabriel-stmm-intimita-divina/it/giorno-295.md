@@ -1,4 +1,4 @@
-## III — LA GENEROSITÀ
+# III — LA GENEROSITÀ
 
 **Presenza di Dio.** — *Dilata, o Signore, il mio cuore nella generosità, affinché sappia darmi totalmente al tuo servizio.*
 

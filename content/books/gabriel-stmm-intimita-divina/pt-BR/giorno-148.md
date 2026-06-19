@@ -1,4 +1,4 @@
-## IX — A ORAÇÃO VOCAL
+# IX — A ORAÇÃO VOCAL
 
 **Presença de Deus.** — *Senhor, ensina-me a rezar!*
 

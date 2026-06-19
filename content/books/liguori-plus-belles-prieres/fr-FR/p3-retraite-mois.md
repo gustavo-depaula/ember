@@ -1,4 +1,4 @@
-## Art. 6. Exercices pour la retraite du mois
+# Art. 6. Exercices pour la retraite du mois
 
 Ayez soin, âme fidèle, de choisir, chaque mois, un jour destiné à vous recueillir. Ce jour-là, relisez votre Règlement de vie ; examinez-vous sur les Résolutions et les pratiques de piété que vous avez choisies, et nourrissez votre âme de quelque Aspiration affectueuse.
 

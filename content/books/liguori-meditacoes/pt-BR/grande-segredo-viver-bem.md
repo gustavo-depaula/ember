@@ -1,3 +1,5 @@
+# Segunda-feira. O grande segredo para viver bem
+
 > *In omnibus operibus tuis memorare novissima tua, et in aeternum non peccabis* – “Em todas as tuas obras lembra-te de teus novíssimos e nunca, jamais pecarás” (Eclo 7, 40)
 
 ***Sumário.** Meu irmão, se queres viver bem, procura pensar sempre na morte. Ao veres um túmulo, ao assistires às exéquias de um parente ou amigo, ao veres um cadáver sendo levado à sepultura, contempla nisso a tua própria imagem e dize: Dentro de breves anos, talvez meses ou dias, será tal a sorte de meu corpo e, estando então perdida a alma, estará perdida para sempre. Por terem pensado na morte, quantos deixaram a morte e subiram à mais alta perfeição.*

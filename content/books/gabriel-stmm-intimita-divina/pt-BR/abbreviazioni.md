@@ -1,4 +1,4 @@
-## Abreviações
+# Abreviações
 
 Para simplificar as numerosas citações dos autores carmelitas, usamos as siglas abaixo indicadas.
 

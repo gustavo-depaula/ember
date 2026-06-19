@@ -1,3 +1,5 @@
+# Terça-feira. Remorso do condenado: Eu me condenei por um nada
+
 > *Gustans gustavi paululum mellis, et ecce morior* – “Tomei um pouco de mel, e por isso morro” (1 Rs 14, 43)
 
 ***Sumário.** A consciência roerá o coração dos réprobos por muitos remorsos; mas um dos que mais o atormentarão, será a lembrança de que se perdeu por um nada. Oh! que rugidos soltará o condenado, pensando que por algumas satisfações momentâneas e envenenadas, renunciou a um reino de eterna felicidade, e está condenado a arder para sempre naqueles abismos!… Meu irmão, reflete bem que também hás de sentir um dia o mesmo desespero, se não te aproveitares agora da divina misericórdia, e lembra-te mais uma vez de que para te assegurar a eternidade nenhuma providência é demasiada.*

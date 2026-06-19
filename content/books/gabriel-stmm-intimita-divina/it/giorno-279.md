@@ -1,4 +1,4 @@
-## XVIII — IL GIUDIZIO PRUDENTE
+# XVIII — IL GIUDIZIO PRUDENTE
 
 **Presenza di Dio.** — *Aiutami, o Signore, a giudicare rettamente le cose, per poter poi agire rettamente.*
 

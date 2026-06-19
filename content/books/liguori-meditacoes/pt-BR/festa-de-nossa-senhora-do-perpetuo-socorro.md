@@ -1,3 +1,5 @@
+# Domingo antes do dia 24 de Junho. Festa de Nossa Senhora do Perpétuo Socorro
+
 > *In me omnis spes vitae et virtutis* — “Em mim há toda a esperança da vida e da virtude” (Eclo 24, 25)
 
 ***Sumário.** O título de Mãe do Perpétuo Socorro, que a própria Santíssima Virgem adotou, é como que o resumo de todas as suas mais belas prerrogativas e de todas as nossas mais doces esperanças. Alimentemos, pois, a devoção para com a divina Mãe sob este título. Estejamos persuadidos de que, se nós a honramos por um perpétuo recurso, ela nos responderá com um perpétuo socorro. Mais ainda, se junto a ela fizermos valer a intercessão de seu grande servo Santo Afonso. Lembremo-nos, porém, que para sermos servos verdadeiros de Maria, mister é que lhe imitemos as virtudes.*

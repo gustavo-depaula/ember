@@ -1,4 +1,4 @@
-## 41 — IL GRANELLO DI SENAPA
+# 41 — IL GRANELLO DI SENAPA
 
 *XXIV Domenica dopo Pentecoste — VI dopo l'Epifania*
 

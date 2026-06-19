@@ -1,4 +1,4 @@
-## 28 — LO SPIRITO SANTO E L'APOSTOLATO
+# 28 — LO SPIRITO SANTO E L'APOSTOLATO
 
 **Presenza di Dio.** — *O Spirito Santo, invadi l'anima mia e trasformami in strumento eletto per la gloria di Dio e per la salvezza delle anime.*
 

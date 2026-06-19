@@ -1,4 +1,4 @@
-## 27 — L'ESAME DI COSCIENZA
+# 27 — L'ESAME DI COSCIENZA
 
 **Presenza di Dio.** — *O Signore, proietta sull'anima mia un raggio della tua luce, affinché io possa vedermi come Tu stesso mi vedi e mi giudichi.*
 

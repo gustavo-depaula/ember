@@ -1,4 +1,4 @@
-## 70 — IL VINCOLO DELLA PERFEZIONE
+# 70 — IL VINCOLO DELLA PERFEZIONE
 
 *V domenica dopo l'Epifania*
 

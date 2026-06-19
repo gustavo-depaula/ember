@@ -1,3 +1,5 @@
+# 25 de Junho. O Filho de Deus tomou sobre si as nossas iniquidades
+
 > *Deus filium suum mittens in similitudinem carnis peccati, et de peccato damnavit peccatum in carne* — “Deus, enviando seu Filho em carne semelhante à do pecado, também por causa do pecado condenou o pecado na carne” (Rm 8, 3)
 
 ***Sumário.** Para a nossa salvação o divino Redentor ofereceu-se voluntariamente ao Pai, a satisfazer à justiça divina; e o Pai pôs sobre ele todos os nossos crimes. Eis, portanto, o Verbo divino, inocente, todo puro, santo; ei-lo desde Menino carregado de todas as blasfêmias, de todas as impurezas, de todos os sacrilégios e crimes dos homens; ei-lo, numa palavra, feito por nosso amor objeto das maldições divinas. E não nos resolveremos a amá-lo? Ó meu Jesus, amo-Vos de todo o coração, e por vosso amor quero conservar-me sempre puro de todo o pecado.*

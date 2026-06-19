@@ -1,4 +1,4 @@
-## XIX — FÉ VIVIDA
+# XIX — FÉ VIVIDA
 
 **Presença de Deus.** — *Ó Senhor, faze que a fé seja a luz que me guia em toda circunstância da vida.*
 
