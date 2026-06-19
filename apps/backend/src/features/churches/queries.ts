@@ -2,7 +2,6 @@ import type { Church } from '@ember/api'
 import { church, verificationEvent } from '@ember/api'
 import { and, desc, eq, inArray, sql } from 'drizzle-orm'
 import type { Db } from '../../db'
-import type { Bbox } from '../../lib/geo'
 
 // Geo prefilter: OR of half-open geohash prefix ranges. Built with the query builder (so rows map
 // to camelCase typed Church) plus a raw `sql` fragment for the ranges — which stays sargable on the
@@ -70,37 +69,6 @@ export async function churchIdsMatchingText(
     LIMIT ${page.limit} OFFSET ${page.offset}
   `)
   return rows.map((r) => r.id)
-}
-
-// Browse / filter (non-FTS path): country/city/bbox + church-level filters.
-export function browseChurches(
-  db: Db,
-  opts: {
-    country?: string
-    city?: string
-    bbox?: Bbox
-    institute?: string
-    status?: string
-    limit: number
-    offset: number
-  },
-): Promise<Church[]> {
-  const conds = []
-  if (opts.country) conds.push(eq(church.country, opts.country))
-  if (opts.city) conds.push(eq(church.city, opts.city))
-  if (opts.institute) conds.push(eq(church.institute, opts.institute))
-  if (opts.status) conds.push(eq(church.status, opts.status))
-  if (opts.bbox) {
-    conds.push(
-      sql`${church.lat} >= ${opts.bbox.minLat} AND ${church.lat} <= ${opts.bbox.maxLat} AND ${church.lng} >= ${opts.bbox.minLng} AND ${church.lng} <= ${opts.bbox.maxLng}`,
-    )
-  }
-  return db
-    .select()
-    .from(church)
-    .where(conds.length ? and(...conds) : undefined)
-    .limit(opts.limit)
-    .offset(opts.offset)
 }
 
 export function churchesByIds(db: Db, ids: string[]): Promise<Church[]> {
