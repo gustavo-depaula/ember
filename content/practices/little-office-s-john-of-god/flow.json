@@ -26,37 +26,64 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Amen. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Laus Joanni sit, qui Patrum\nPosuit primordia,\nSacri Ordinis, et Fratrum\nde misericordia,"
+                "la": "Laus Joanni sit, qui Patrum\nPosuit primordia,\nSacri Ordinis, et Fratrum\nde misericordia,\n\nCujus ortu glorioso\nGaudet Lusitania\nFato sit hic ominoso\nMiles in Hispania,\n\nApparente sed mutavit\nDivae Deiparae,\nEt ad pia applicavit\nCharitatis opera."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Cujus ortu glorioso\nGaudet Lusitania\nFato sit hic ominoso\nMiles in Hispania,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Apparente sed mutavit\nDivae Deiparae,\nEt ad pia applicavit\nCharitatis opera."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -68,15 +95,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancte Joannes Dei."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
+                "la": "Deus, qui per caritatem beati Joannis Dei infirmis, pauperibus, et afflictis clementer subvenisti:\nconcede propitius, ut ejus meritis et precibus ab omni semper infirmitate, periculo, et adversitate misericorditer protegamur et liberemur.\nPer Dominum nostrum Jesum Christum, etc."
               }
             }
           ]
@@ -90,31 +130,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ut vitaret mundi viam,\nLubrica carnalia,\nAd agendam vitam piam\nFundat hospitalia."
+                "la": "Ut vitaret mundi viam,\nLubrica carnalia,\nAd agendam vitam piam\nFundat hospitalia.\n\nEt infirmos derelictos\nExcipit hospitio,\nConsolatur et afflictos,\nPauperes servitio."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Et infirmos derelictos\nExcipit hospitio,\nConsolatur et afflictos,\nPauperes servitio."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -126,13 +173,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancte Joannes Dei."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -154,31 +208,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Aegros curat, fovet, sanat,\nEt dementes recipit,\nMoribundis viam planat\nEt defunctos sepelit."
+                "la": "Aegros curat, fovet, sanat,\nEt dementes recipit,\nMoribundis viam planat\nEt defunctos sepelit.\n\nSpiritualem corporalem\nCaritatem habuit,\nEsse semper hospitalem\nOmnibus exhibuit."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Spiritualem corporalem\nCaritatem habuit,\nEsse semper hospitalem\nOmnibus exhibuit."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -190,13 +251,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancte Joannes Dei."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -218,31 +286,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Verus hinc Samaritanus,\nEt fundator Ordinis,\nPius fuit Lusitanus,\nClarus et miraculis."
+                "la": "Verus hinc Samaritanus,\nEt fundator Ordinis,\nPius fuit Lusitanus,\nClarus et miraculis.\n\nVitam duxit rigorosam\nFlagris et jejunio,\nVigilando gloriosam\nLuctam cum diabolo."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vitam duxit rigorosam\nFlagris et jejunio,\nVigilando gloriosam\nLuctam cum diabolo."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -254,13 +329,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancte Joannes Dei."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -282,31 +364,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Sitam animam afflictam\nDedit patientiae,\nNullam voluit vindictam"
+                "la": "Sitam animam afflictam\nDedit patientiae,\nNullam voluit vindictam\n\nPatiens injuriae.\nHunc Maria coronavit\nSpinis in Ecclesia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Patiens injuriae.\nHunc Maria coronavit\nSpinis in Ecclesia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -318,13 +407,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancte Joannes Dei."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -346,31 +442,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Jesum cum ignotum foris\nUt aegrotum suscipit,\nProximum ab hoc amoris\nNomen Dei recipit."
+                "la": "Jesum cum ignotum foris\nUt aegrotum suscipit,\nProximum ab hoc amoris\nNomen Dei recipit.\n\nAb Octavo est relatus\nAlexandro civibus,\nCoeli atque declaratus\nSanctus Dei famulus."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Ab Octavo est relatus\nAlexandro civibus,\nCoeli atque declaratus\nSanctus Dei famulus."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -382,13 +485,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancte Joannes Dei."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -410,31 +520,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O Joannes, pro me ora,\nEt a Deo impetra,\nFaciam ut omni hora\nCaritatis opera."
+                "la": "O Joannes, pro me ora,\nEt a Deo impetra,\nFaciam ut omni hora\nCaritatis opera.\n\nUt ex orbis hospitali\nTecum ire merear,\nEt in vita aeterna\nTua sorte perfruar."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Ut ex orbis hospitali\nTecum ire merear,\nEt in vita aeterna\nTua sorte perfruar."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -446,13 +576,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancte Joannes Dei."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -486,7 +623,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Antiphona"
       }
@@ -498,15 +635,34 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Ora pro nobis, sancte Joannes Dei.\n℟. Ut digni efficiamur promissionibus Christi."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis, sancte Joannes Dei."
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nOmnipotens sempiterne Deus, Pater pauperum, humilium celsitudo et caritatis amator:\nte humiliter deprecamur, ut sicut Ecclesia tua beati Joannis Dei paupertate, humilitate et caritate coruscata, ita et nos ejus meritis et exemplis eadem sectantes, cum ipso in aeterna gloria feliciter coronari mereamur.\nPer Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\n℟. Amen."
+        "la": "Omnipotens sempiterne Deus, Pater pauperum, humilium celsitudo et caritatis amator:\nte humiliter deprecamur, ut sicut Ecclesia tua beati Joannis Dei paupertate, humilitate et caritate coruscata, ita et nos ejus meritis et exemplis eadem sectantes, cum ipso in aeterna gloria feliciter coronari mereamur.\nPer Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Amen."
       }
     }
   ]

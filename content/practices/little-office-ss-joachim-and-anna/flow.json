@@ -28,7 +28,39 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri. Alleluia."
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
               }
             },
             {
@@ -38,19 +70,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O bina conjugalis\nExempla foederis!\nO Joachim, qualis\nMariae conjugis!\nO Anna, quem nepotem,\nQuam nacta filiam!\nO Joachim, dotem\nQuis optet alteram!"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Sap. 4. 1."
               }
@@ -62,22 +94,68 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Orate pro nobis, sancti Joachim et Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Orate pro nobis, sancti Joachim et Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui prae omnibus Sanctis tuis beatos Joachim et Annam genitrices Filii tui parentes esse voluisti: concede, quaesumus; ut quos devoto cultu veneramur in terris, eorum quoque patrocinia sentiamus in caelis. Per eundem Dominum nostrum."
+                "la": "Deus, qui prae omnibus Sanctis tuis beatos Joachim et Annam genitrices Filii tui parentes esse voluisti: concede, quaesumus; ut quos devoto cultu veneramur in terris, eorum quoque patrocinia sentiamus in caelis. Per eundem Dominum nostrum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -92,23 +170,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Connubii quieta\nLevre tempora,\nDiems mansit usque laeta\nVel inter aspera.\nEst visa purpurae\nSed inde nidi remotum\nCor est ab aethere."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Cant 8.7"
               }
@@ -122,7 +212,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Orate pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -138,23 +228,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Tandem serenoiori\nLux vexat phosphoro\nExplevit ampliiori\nUtrumque gaudio.\nConcepit Anna prolem\nStupente conjuge,\nCum vidit axe solem\nPlaudente surgere."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Prov.31. 28"
               }
@@ -168,7 +270,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Orate pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -184,23 +286,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Mox numini sacratur\nVix facta trimula,\nAraque dedicatur\nTenella victima;\nEt praevolat parentum\nJam vota filia,\nEt multa se sequentum\nInvitat agmina."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Ps. 65. 12."
               }
@@ -214,7 +328,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Orate pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -230,23 +344,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Exinde quo labore\nEducta Filia!\nQuo coelitum favore\nNutrita parvula!\nIndustriae parentum\nFit axis aemulus,\nVirginumque coaetum\nServit cohortibus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Rom 8. 28."
               }
@@ -260,7 +386,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Orate pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -276,23 +402,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Deus in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "O Joachim, fidelis\nMinister aetheris!\nO Anna, nota coelis\nA Matre Numinis!\nUterque sanctitatis\nExemplar integrae:\nEt me beatitatis\nDonate lumine."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Prov. 4. 18."
               }
@@ -306,7 +444,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Orate pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -322,23 +460,49 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
+                "la": "Benedicti sint sancti Joachim et Anna, ex quibus benedicta Virgo Maria sine originali labe concepta et nata est."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Obtutibus sacratis\nJam nata cernitur,\nComplexibus beatis\nPerenne jungitur:\nReciproce tenentur,\nTenetque undique\nDuo parva pars daretur\nEx hocce gaudio!"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Eccl. 44. 13. 14."
               }
@@ -352,7 +516,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Orate pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Orate pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -378,7 +542,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio ad S. Joachim."
       }
@@ -390,7 +554,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio ad S. Matrem Annam."
       }
@@ -402,7 +566,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio ad Ambos SS. Joachim et Annam."
       }

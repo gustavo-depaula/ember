@@ -33,31 +33,51 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Mirum plane rerum thema!\nChristo negans diadema\nRex Herodes impius,\nRosas legit, serta nectit,\nIpseque coronas nectit\nPueris infantibus;"
+                "la": "Mirum plane rerum thema!\nChristo negans diadema\nRex Herodes impius,\nRosas legit, serta nectit,\nIpseque coronas nectit\nPueris infantibus;\n\nDum praeclaros Milites\nChristi Jesu exultantis,\nViam Crucis incohantis,\nPromovet in Martyres."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Dum praeclaros Milites\nChristi Jesu exultantis,\nViam Crucis incohantis,\nPromovet in Martyres."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -69,15 +89,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Agnelli debent immolari,\n℟. Quia Agnus debebit crucifigi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Agnelli debent immolari,"
+                  },
+                  "r": {
+                    "la": "Quia Agnus debebit crucifigi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, cujus praeconium Innocentes Martyres non loquendo, sed moriendo confessi sunt: Omnia in nobis vitiorum mala mortifica, ut fidem tuam, quam lingua nostra loquitur, moribus etiam vita fateatur. Per Dominum nostrum etc."
+                "la": "Deus, cujus praeconium Innocentes Martyres non loquendo, sed moriendo confessi sunt: Omnia in nobis vitiorum mala mortifica, ut fidem tuam, quam lingua nostra loquitur, moribus etiam vita fateatur. Per Dominum nostrum etc."
               }
             }
           ]
@@ -91,31 +124,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Sed et Mater Jesu chara,\nVirgo Virginum praeclara\nCampos per Aegyptios\nLilia jam nive tincta,\nLauro viridi distincta\nCongerit in calathos:"
+                "la": "Sed et Mater Jesu chara,\nVirgo Virginum praeclara\nCampos per Aegyptios\nLilia jam nive tincta,\nLauro viridi distincta\nCongerit in calathos:\n\nVobis, casti Martyres,\nUt coronas ex his formet,\nHisque vestros exornet\nVirgin ales vertices."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vobis, casti Martyres,\nUt coronas ex his formet,\nHisque vestros exornet\nVirgin ales vertices."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -127,10 +167,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Innocentes illi debentur victima,\n℟. Qui venit damnare mundi malitiam."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Innocentes illi debentur victima,"
+                  },
+                  "r": {
+                    "la": "Qui venit damnare mundi malitiam."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -149,31 +196,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "En jam invide Tyranne!\nArma tua tibi sannae\nFiunt et opprobrium,\nTu dum ipsemet coronas,\nUnum Regno ut seponas,\nTotum agmen prolium;"
+                "la": "En jam invide Tyranne!\nArma tua tibi sannae\nFiunt et opprobrium,\nTu dum ipsemet coronas,\nUnum Regno ut seponas,\nTotum agmen prolium;\n\nDic, quae haec dementia?\nPupos ferro sustulisti,\nPer quod ipse succidisti\nVitae tibi stamina."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Dic, quae haec dementia?\nPupos ferro sustulisti,\nPer quod ipse succidisti\nVitae tibi stamina."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -185,10 +239,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Jacebunt mali ante bonos,\n℟. Et impii ante portas justorum."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Jacebunt mali ante bonos,"
+                  },
+                  "r": {
+                    "la": "Et impii ante portas justorum."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -207,31 +268,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Saevit chalybs in infantes,\nMatres ingemunt balantes,\nProles lugent bimulas,\nJesulum quae jam sectantur,\nCumque Matre comitantur\nOras per Niliacas;"
+                "la": "Saevit chalybs in infantes,\nMatres ingemunt balantes,\nProles lugent bimulas,\nJesulum quae jam sectantur,\nCumque Matre comitantur\nOras per Niliacas;\n\nCaela rigent corpora,\nSed animulae dilectae\nJesu gratiae refectae\nNon sensere funera."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Caela rigent corpora,\nSed animulae dilectae\nJesu gratiae refectae\nNon sensere funera."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -243,10 +311,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Oves ululant Matres,\n℟. Quia Agnos perdunt sine voce balantes."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Oves ululant Matres,"
+                  },
+                  "r": {
+                    "la": "Quia Agnos perdunt sine voce balantes."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -265,31 +340,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Respirate lachrymosae\nMatres, Matris dolorosae\nJam sub Cruce symbola!\nNatis vestris una datum\nCaede mori: Sed hunc Natum\nMille iterent vulnera,"
+                "la": "Respirate lachrymosae\nMatres, Matris dolorosae\nJam sub Cruce symbola!\nNatis vestris una datum\nCaede mori: Sed hunc Natum\nMille iterent vulnera,\n\nCujus quondam rigidus\nAnimam et Matris flentem,\nContristantem ac dolentem\nPertransibit gladius."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Cujus quondam rigidus\nAnimam et Matris flentem,\nContristantem ac dolentem\nPertransibit gladius."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -301,10 +383,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Cum Tyrannus jactabat infantes,\n℟. Matres crines capitis dissipab"
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Cum Tyrannus jactabat infantes,"
+                  },
+                  "r": {
+                    "la": "Matres crines capitis dissipab"
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -323,25 +412,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Eja! moestae genitrices!\nPlausus date jam victrices\nParvulis Heroibus,\nHilares indutae vultus\nTristes ponite singultus,\nCernite, quam inclitus\nSanguis vester rosea\nMartyrum futuri Regis,\nNove Platis quondam Legis,\nJam micescat purpura."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -353,10 +455,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Effuderunt sanguinem Sanctorum,\n℟. Velut aquam in circuitu Jerusalem."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Effuderunt sanguinem Sanctorum,"
+                  },
+                  "r": {
+                    "la": "Velut aquam in circuitu Jerusalem."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -375,25 +484,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Cernite, quo vestimento\nVirginali ex argento\nInnocentis animi,\nJesu Mater, chare Matres!\nNatos vestros sui fratres\nExornarit Filii;\nParadyso gaudiis\nUna se jam delectantes,\nLaetos Christum exspectantes\nReducem a mortuis."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -405,10 +527,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Isti sunt, qui non inquinaverunt vestimenta sua,\n℟. Ambulabunt mecum in albis, quia digni sunt."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Isti sunt, qui non inquinaverunt vestimenta sua,"
+                  },
+                  "r": {
+                    "la": "Ambulabunt mecum in albis, quia digni sunt."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -427,25 +556,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Christo Crucem sed perpesso,\nEt a mortuis regressso\nQui coelorum Principi\nAnte thronum jam servitis,\nSplendidaque superbitiis\nPurpura Martyrii;\nVestro nos precamine\nPromptos, simul, atque fortes\nPer adversitatum sortes\nHic in terris reddite."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -457,10 +612,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Hi empti sunt ex hominibus,\n℟. Primitiae Deo et Agno."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Hi empti sunt ex hominibus,"
+                  },
+                  "r": {
+                    "la": "Primitiae Deo et Agno."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -485,7 +647,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Ant."
       }
@@ -497,13 +659,20 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Orate pro nobis SS. Innocentes,\n℟. Ut digni efficiamur promissionibus Christi."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Orate pro nobis SS. Innocentes,"
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio"
       }

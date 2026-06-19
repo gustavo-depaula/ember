@@ -29,23 +29,55 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Sancto Francisco de Paula nascente lux miraculosa in domo resplenduit.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Sancto Francisco de Paula nascente lux miraculosa in domo resplenduit."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri etc."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Paulae nascentis claritas\nNoctis illustrat nubila,\nCanoras fert laetitias\nQui docuit silentia,\n\nAdam etiam intemperans\nNoctem tulit nepotibus,\nReduxit lucem imperans\nCarnes caret carinibus;\n\nPulsis dapum vaporibus\nNam ut serenat cerebra,\nLucidor sic spiritus\nPer carnis fit jejunia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -57,15 +89,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Francisce de Paula,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Francisce de Paula,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus humilium celsitudo, qui beatum Franciscum confessorem tuum sanctorum gloria sublimasti: tribue, quaesumus, ut ejus meritis et imitatione, promissa humilibus praemia feliciter consequamur. Per Dominum nostrum etc."
+                "la": "Deus humilium celsitudo, qui beatum Franciscum confessorem tuum sanctorum gloria sublimasti: tribue, quaesumus, ut ejus meritis et imitatione, promissa humilibus praemia feliciter consequamur. Per Dominum nostrum etc."
               }
             }
           ]
@@ -85,25 +130,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Preces fundit et cantica\nPios incurvans poplites\nTam grata Deo musices,\nIpsi gaudent coelites;\n\nOra veretur spiritu\nSublimis inter sydera,\nClaro virtutum ambitu\nJam forte dignus coelis.\n\nNam sub carnis pondere\nRecusat corpus deprimi,\nAstra volavit scandere\nMens valet haud difficili."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -137,25 +195,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Primo juventae tempore\nHaerere nugis renuit,\nVirili mentis robore\nCircen repulsam conspexit;\n\nVirgo notatus candido\nLapillo castimoniae\nJam tutus est a sordido\nCupidinis tentamine,\n\nBlandis rebellis motibus\nCarnis terit potentiam,\nCastis puelli moribus\nViri jungens prudentiam."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -189,25 +260,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Agenti cum triennio\nBilustrum nostro juveni\nFit sylva pro palatio\nSacri doctrix silentii,\n\nEremus, quaeque spernitur\nA vanis mundi affectibus,\nHuic coelum et creditur\nSupernis plenum gaudiis:\n\nNec tangitur molestia\nRemotus a sodalibus,\nDei dat suam praesentiam\nAbstrusus latens specubus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -241,25 +325,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Sylvae relictens fructices,\nSub Charitatis exercitu\nAd bella Christi milites\nManu producit strenua,\n\nQuem manuevit Charitas,\nPraedignus hic et signifer,\nQuo conteratur vanitas,\nQuam fallax sufflat Lucifer.\n\nAmor tumorem dejicit,\nSuperbiam humilitas,\nTurgentes vidit ductiles\nCalore Phoebus nebulas."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -293,25 +390,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Ignas domat, et aequora,\nTerras, flatusque aetheris,\nDat lingua mutis organa,\nEt caecis usum luminis;\n\nBinis amorum nexibus\nTum Numini, tum Proximi\nMiraclis claret pluribus\nAeterno plenus Principi;\n\nNec diligenti potuit\nUt Deus quidquam denegat,\nQuin, quo se plus abjicit,\nHoc gratia plus eminet."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -345,25 +455,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Die, qua fudit spiritum\nChristus in Crucis cathedra\nFranciscus hoc exilium\nPerennis intrat gloria,\n\nCrucem dum tenens, coelici\nAmoris ictus spiculis,\nPendens Jesu vertici\nJungi meretur oculis,\n\nAssuetus Christo vivere,\nDux vitae postquam mortuus,\nCum hoc et vitam cedere\nEadem die cupidus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -397,25 +520,51 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Convertere nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Hunc, in quem tumba conditum\nFormidat marcor furere,\nAgmen audet haereticum\nIn cineres comburere,\n\nUt, qui tot vivus aspera\nAbs laurea martyrii\nTulit, athletae viscera\nJam concrementur mortui,\n\nQuo rosae, tectae antea\nSub castitatis frigore,\nAmoris tinctae purpura\nFlagrante furgant corpore."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -449,7 +598,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Ant."
       }
@@ -461,15 +610,28 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Ora pro nobis sancte Francisce de Paula,\n℟. Ut digni efficiamur promissionibus Christi."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis sancte Francisce de Paula,"
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nO sancte Francisce de Paula! mitissimi Jesu humilime imitator, in quo manifeste apparet, humilia Deum respicere, et esse mirabilem in sanctis suis, quique quem paternis intercessionibus beati Francisci Stephani consequum in filium, divina vero providentia in tenera adhuc aetate eduxit, ut humilitationis ac coarctationis solitudinem sponte ingressus, inter asperrimas corporis, animique mortificationes, sexenio ibidem delapseceres, donec adduce divino spiritu progressus faciam, plenamque humilitate Fratrum Minimorum originem fundas; etiam omnibus qua pluries, in summo ignis injectus, sicut nec pedem transgrediens mare, nec amnem innatans, incolumis evasisti, nec innumera illustratus prodigiis; quaesumus, benigne Pater, gloriosae coelorum laetitia! efficaciter apud Deum, ut et nos devoti clientes tui, ab infimo humilitatis gradu ad summum divini amoris culmen pertingere, unaque tecum atque omnibus sanctis, aeternis recreari gaudiis mereamur. Per Christum Dominum nostrum.\nAmen."
+        "la": "O sancte Francisce de Paula! mitissimi Jesu humilime imitator, in quo manifeste apparet, humilia Deum respicere, et esse mirabilem in sanctis suis, quique quem paternis intercessionibus beati Francisci Stephani consequum in filium, divina vero providentia in tenera adhuc aetate eduxit, ut humilitationis ac coarctationis solitudinem sponte ingressus, inter asperrimas corporis, animique mortificationes, sexenio ibidem delapseceres, donec adduce divino spiritu progressus faciam, plenamque humilitate Fratrum Minimorum originem fundas; etiam omnibus qua pluries, in summo ignis injectus, sicut nec pedem transgrediens mare, nec amnem innatans, incolumis evasisti, nec innumera illustratus prodigiis; quaesumus, benigne Pater, gloriosae coelorum laetitia! efficaciter apud Deum, ut et nos devoti clientes tui, ab infimo humilitatis gradu ad summum divini amoris culmen pertingere, unaque tecum atque omnibus sanctis, aeternis recreari gaudiis mereamur. Per Christum Dominum nostrum.\nAmen."
       }
     }
   ]

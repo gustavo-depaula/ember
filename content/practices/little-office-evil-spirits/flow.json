@@ -1,13 +1,26 @@
 {
   "sections": [
     {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus in adjutorium meum intende."
+          },
+          "r": {
+            "la": "Domine ad adjuvandum me festina."
+          }
+        }
+      ]
+    },
+    {
       "type": "prayer",
       "inline": {
-        "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+        "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Antiphona"
       }
@@ -19,7 +32,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Psalmus"
       }
@@ -31,7 +44,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Antiphona"
       }
@@ -43,13 +56,20 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Dignare me laudare te, o ✠ crux sancta.\n℟. Da mihi virtutem contra hostes tuos."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Dignare me laudare te, o ✠ crux sancta."
+          },
+          "r": {
+            "la": "Da mihi virtutem contra hostes tuos."
+          }
+        }
+      ]
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio"
       }

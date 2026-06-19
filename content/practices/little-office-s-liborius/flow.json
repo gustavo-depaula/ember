@@ -33,9 +33,35 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies,"
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies,\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
               }
             },
             {
@@ -45,25 +71,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O Libori! Praesul bone,\nAdvocate, et Patrone\nQuovis in discrimine:\nNostra spes in rebus duris,\nConsolator in pressuris\nCorporis et animae!"
+                "la": "O Libori! Praesul bone,\nAdvocate, et Patrone\nQuovis in discrimine:\nNostra spes in rebus duris,\nConsolator in pressuris\nCorporis et animae!\n\nDe caelorum celsa aede,\nBeatorum laeta sede,\nMe dicentem respice:\nGratiose preces audi,\nQuas dicabo tuae laudi;\nNec orantem despice!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "De caelorum celsa aede,\nBeatorum laeta sede,\nMe dicentem respice:\nGratiose preces audi,\nQuas dicabo tuae laudi;\nNec orantem despice!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona 2 Mach. 15:14."
               }
@@ -75,15 +95,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui Sanctum Liborium Pontificem tuum, aliis innumeris gloriosum miraculis, speciali in medendis arenarum et calculi passionibus privilegio decorasti: praesta, quaesumus, ut ipsius meritis et intercessione his aliis malis eruti, gaudiis perfrui mereamur aeternis. Per Dominum nostrum Jesum Christum Filium tuum: qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\nAmen."
+                "la": "Deus, qui Sanctum Liborium Pontificem tuum, aliis innumeris gloriosum miraculis, speciali in medendis arenarum et calculi passionibus privilegio decorasti: praesta, quaesumus, ut ipsius meritis et intercessione his aliis malis eruti, gaudiis perfrui mereamur aeternis. Per Dominum nostrum Jesum Christum Filium tuum: qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum.\nAmen."
               }
             }
           ]
@@ -97,31 +130,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ab ingressu juventutis\nCor et mentem ad virtutis\nContulisti studium:\nHaec deinceps in te crevit,\nEt constanter adolevit\nAd stuporem omnium."
+                "la": "Ab ingressu juventutis\nCor et mentem ad virtutis\nContulisti studium:\nHaec deinceps in te crevit,\nEt constanter adolevit\nAd stuporem omnium.\n\nFac, et ego sic intendam\nRebus sacris, et impendam\nMe virtutum cultui:\nFac, in fide, spe, amore,\nProbe crescam te Doctore,\nUti semper debui."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Fac, et ego sic intendam\nRebus sacris, et impendam\nMe virtutum cultui:\nFac, in fide, spe, amore,\nProbe crescam te Doctore,\nUti semper debui."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona Eccles. 51:18."
               }
@@ -133,14 +173,21 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oremus, Deus, qui S. Liborium, etc. ut supra."
               }
             }
@@ -155,31 +202,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "In doctrina mandatorum,\nOre Christi traditorum,\nPerstitisti gnaviter:\nNemo vidit te peccantem,\nVel a recto deviantem,\nAc prolapsum graviter."
+                "la": "In doctrina mandatorum,\nOre Christi traditorum,\nPerstitisti gnaviter:\nNemo vidit te peccantem,\nVel a recto deviantem,\nAc prolapsum graviter.\n\nOra Deum, ut et ego,\nDum in fluxa carne dego,\nSine lapsu maneam:\nUtque semper castam vitam,\nEt a noxis custoditam,\nHic in orbe peragam!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Ora Deum, ut et ego,\nDum in fluxa carne dego,\nSine lapsu maneam:\nUtque semper castam vitam,\nEt a noxis custoditam,\nHic in orbe peragam!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona Ps. 118:33."
               }
@@ -191,14 +245,21 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oremus, Deus, qui S. Liborium, etc. ut supra."
               }
             }
@@ -213,31 +274,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Tuae mentis lenitudo,\nHumilissima mansuetudo\nProbabatur omnibus.\nPlenus eras caritate,\nPlenus omni suavitate,\nPlacidissimis moribus."
+                "la": "Tuae mentis lenitudo,\nHumilissima mansuetudo\nProbabatur omnibus.\nPlenus eras caritate,\nPlenus omni suavitate,\nPlacidissimis moribus.\n\nFac, ut ego quoque vitem\nIras omnes, nec ad litem\nSim et rixas facilis:\nOra Jesum et Mariam,\nUt exemplo horum fiam\nMitis, blandus, humilis!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Fac, ut ego quoque vitem\nIras omnes, nec ad litem\nSim et rixas facilis:\nOra Jesum et Mariam,\nUt exemplo horum fiam\nMitis, blandus, humilis!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona 2 Reg. 6:21."
               }
@@ -249,14 +317,21 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra."
               }
             }
@@ -271,31 +346,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Omnem plausum et honorem\nMundi hujus, ut vaporem,\nDespexisti penitus:\nSoli Deo inhaesisti;\nIn hoc solo quievisti\nPrae creatis omnibus."
+                "la": "Omnem plausum et honorem\nMundi hujus, ut vaporem,\nDespexisti penitus:\nSoli Deo inhaesisti;\nIn hoc solo quievisti\nPrae creatis omnibus.\n\nSancte Praesul! pro me ora,\nUt et ego sine mora\nMundi pompas negligam:\nSoli Deo sim innixus,\nHuic mente sim infixus,\nEt hunc solum diligam!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sancte Praesul! pro me ora,\nUt et ego sine mora\nMundi pompas negligam:\nSoli Deo sim innixus,\nHuic mente sim infixus,\nEt hunc solum diligam!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona 1 Joan. 2:15."
               }
@@ -307,14 +389,21 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra."
               }
             }
@@ -329,31 +418,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Sanctus Praesul te Martinus,\nMorti esses cum vicinus,\nAegrotantem adiit.\nO! quam pios cordis motus,\nCum arderes Deo totus,\nTecum is eliciuit?"
+                "la": "Sanctus Praesul te Martinus,\nMorti esses cum vicinus,\nAegrotantem adiit.\nO! quam pios cordis motus,\nCum arderes Deo totus,\nTecum is eliciuit?\n\nAh! et mihi, o Libori,\nQuando fata jubent mori,\nSacerdotem advoca:\nDum supremus urget angor,\nAtque mortis falce tangor,\nAd solandum advola!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Ah! et mihi, o Libori,\nQuando fata jubent mori,\nSacerdotem advoca:\nDum supremus urget angor,\nAtque mortis falce tangor,\nAd solandum advola!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona Numb. 23:10."
               }
@@ -365,14 +461,21 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra."
               }
             }
@@ -387,31 +490,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Contra morbos oculorum,\nPedum quoque, et lumborum,\nTe fideles invocant:\nAt praesertim acriore\nCalculorum in dolore\nTe Patronum praedicant."
+                "la": "Contra morbos oculorum,\nPedum quoque, et lumborum,\nTe fideles invocant:\nAt praesertim acriore\nCalculorum in dolore\nTe Patronum praedicant.\n\nFac, me morbis expediri,\nNec urentis experiri\nCalculi saevitiem:\nAc, ne frustra istud orem,\nA me aufer graviorem\nPeccatorum silicem!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Fac, me morbis expediri,\nNec urentis experiri\nCalculi saevitiem:\nAc, ne frustra istud orem,\nA me aufer graviorem\nPeccatorum silicem!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona Eccli. 48:4."
               }
@@ -423,14 +533,21 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra."
               }
             }
@@ -445,31 +562,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster,"
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende,"
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster,\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende,\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Contra morbos oculorum,\nPedum quoque, et lumborum,\nTe fideles invocant:\nAt praesertim acriore\nCalculorum in dolore\nTe Patronum praedicant."
+                "la": "Contra morbos oculorum,\nPedum quoque, et lumborum,\nTe fideles invocant:\nAt praesertim acriore\nCalculorum in dolore\nTe Patronum praedicant.\n\nFac, me morbis expediri,\nNec urentis experiri\nCalculi saevitiem:\nAc, ne frustra istud orem,\nA me aufer graviorem\nPeccatorum silicem!"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Fac, me morbis expediri,\nNec urentis experiri\nCalculi saevitiem:\nAc, ne frustra istud orem,\nA me aufer graviorem\nPeccatorum silicem!"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona Eccli. 48:4."
               }
@@ -481,14 +618,21 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine exaudi orationem meam,\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam,"
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oremus, Deus, qui Sanctum Liborium, etc. ut supra."
               }
             }

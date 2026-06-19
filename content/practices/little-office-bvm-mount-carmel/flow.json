@@ -32,25 +32,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omni tribulatione nostra per sacratissimum scapulare,"
+                  },
+                  "r": {
+                    "la": "Succurrere nobis o virgo Maria, dignare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domina ad adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domina ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In omni tribulatione nostra per sacratissimum scapulare,\n℟. Succurrere nobis o virgo Maria, dignare.\n℣. Domina ad adjutorium meum intende.\n℟. Domina ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Styx dum instat, et minantur\nMundus, Caro praelia,\nVigilantes nunc conantur\nAgere per devia,\nNunc et tentant dormientes;\nNos Maria protege\nTurbas contra tam potentes\nScapularis agide!\nEt, o vere res miranda\nHostis jam repellitur,\nPicta clypeo dum tanta\nHeroina cernitur."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -58,11 +84,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Non timebis a timore nocturno, a sagitta volante in die, a negotio perambulante in tenebris.\n℣. Scapulis suis obumbrabit tibi,\n℟. Et sub pennis ejus sperabis."
+                "la": "Non timebis a timore nocturno, a sagitta volante in die, a negotio perambulante in tenebris."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Scapulis suis obumbrabit tibi,"
+                  },
+                  "r": {
+                    "la": "Et sub pennis ejus sperabis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -84,25 +123,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omni tribulatione nostra per sacratissimum scapulare,"
+                  },
+                  "r": {
+                    "la": "Succurrere nobis o virgo Maria dignare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domina ad adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domina ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In omni tribulatione nostra per sacratissimum scapulare,\n℟. Succurrere nobis o virgo Maria dignare.\n℣. Domina ad adjutorium meum intende.\n℟. Domina ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Coquit ira, pectus fodit\nRancor et ambitio,\nMetus, Moeror, Cura rodit,\nUrit et Suspicio,\nSed, Maria! hos ardores\nDic quis ferre poterit,\nFibras per interiores\nMens quos usque percipit,\nScapularis nisi scuto\nHis a tortoribus\nGrate colloces in tuto\nUmbras nos favoribus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -130,25 +195,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omni tribulatione nostra per sacratissimum scapulare,"
+                  },
+                  "r": {
+                    "la": "Succurrere nobis o virgo Maria dignare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domina ad adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domina ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In omni tribulatione nostra per sacratissimum scapulare,\n℟. Succurrere nobis o virgo Maria dignare.\n℣. Domina ad adjutorium meum intende.\n℟. Domina ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Taeda Martis innocenti\nTincta flagrat sanguine,\nCuncta ferox praeponenti\nMiles turbat chalybe;\nAt, ut milvus quando venit,\nPulli simul properant,\nMatris, quae pericula gemit,\nAlis ut deliteant,\nSic Maria! te precamur,\nScapularis explicas\nAlas nobis, quibus tegamur\nMartis a ferocia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -176,25 +267,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omni tribulatione nostra per sacratissimum scapulare,"
+                  },
+                  "r": {
+                    "la": "Succurrere nobis o virgo Maria dignare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domina ad adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domina ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In omni tribulatione nostra per sacratissimum scapulare,\n℟. Succurrere nobis o virgo Maria dignare.\n℣. Domina ad adjutorium meum intende.\n℟. Domina ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Si injuria nos rodit,\nNigrat aut infamia,\nVera quoque si explodit\nPlebs in nos dictoria;\nQuis haec tela venenata\nO Maria! abiget?\nScapularis nisi sacrata\nVirtus id efficiet,\nIgnis, Saga, Latro, Mare\nFurant sive Fulmina,\nSacrum nos per Scapulare\nPia Mater adjuva!"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -222,25 +339,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omni tribulatione nostra per sacratissimum scapulare,"
+                  },
+                  "r": {
+                    "la": "Succurrere nobis o virgo Maria dignare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domina ad adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domina ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In omni tribulatione nostra per sacratissimum scapulare,\n℟. Succurrere nobis o virgo Maria dignare.\n℣. Domina ad adjutorium meum intende.\n℟. Domina ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Morbi quando, et dolores\nTotum corpus cruciant,\nIpsam fere per languores\nMentem ut excruciant,\nSudor mortis quando premit\nGelu mixtus rigido,\nEn! Maria praesto venit\nScapularis pharmaco;\nCedunt febres, cessant morbi,\nReviviscit animus,\nNovos, spiritu jam orbi,\nAegri spirant Spiritus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -268,25 +411,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omni tribulatione nostra per sacratissimum scapulare,"
+                  },
+                  "r": {
+                    "la": "Succurrere nobis o virgo Maria dignare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domina ad adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domina ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In omni tribulatione nostra per sacratissimum scapulare,\n℟. Succurrere nobis o virgo Maria dignare.\n℣. Domina ad adjutorium meum intende.\n℟. Domina ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Jamque tandem diu inanis\nVitae fluit clepsydra,\nProh! quam furiis insanis\nMonstra frement Stygia!\nLongo mala jam commissa\nAccusabunt ordine,\nBona pandent nunc omissa;\nVirgo, sed benvole\nHaec tu debita cassabis\nScapularis spongia,\nSpectra pelles, et fugabis\nVana Stygis somnia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -314,25 +483,64 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In omni tribulatione nostra per sacratissimum scapulare,"
+                  },
+                  "r": {
+                    "la": "Succurrere nobis o virgo Maria dignare."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Convertat nos Domina, tuis precibus placatus Jesus Christus Filius tuus."
+                  },
+                  "r": {
+                    "la": "Et avertat iram suam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domina ad adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domina ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In omni tribulatione nostra per sacratissimum scapulare,\n℟. Succurrere nobis o virgo Maria dignare.\n℣. Convertat nos Domina, tuis precibus placatus Jesus Christus Filius tuus.\n℟. Et avertat iram suam a nobis.\n℣. Domina ad adjutorium meum intende.\n℟. Domina ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Mens mortali si excedat\nSuo quondam corpore,\nFac secura coelum petat\nTe, Maria, praeduce,\nNec deflectat ad purgantium\nAntra flammis horrida,\nUbi stridor est clamantium,\nFletus et miseria;\nSed nos, ac fideles cunctos\nScapulari vinculo\nTibi, Virgo, serva junctos\nTristii hoc ergastulo."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -360,21 +568,15 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Hymnus"
       }
     },
     {
-      "type": "prayer",
+      "type": "hymn",
       "inline": {
-        "la": "Scapularis o Regina!\nHoc sacrato tegmine\nQuae sub alis, ut Gallina\nTuos scis protegere;\nPreces tibi has dicamus\nFausta per et aspera,\nFac, ut pie hic degamus,\nDonec post haec tempora\nInsigniti nuptialis\nScapularis vestibus,\nAgni perpetim Pascualis\nRecreemur dapibus."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "Amen."
+        "la": "Scapularis o Regina!\nHoc sacrato tegmine\nQuae sub alis, ut Gallina\nTuos scis protegere;\nPreces tibi has dicamus\nFausta per et aspera,\nFac, ut pie hic degamus,\nDonec post haec tempora\nInsigniti nuptialis\nScapularis vestibus,\nAgni perpetim Pascualis\nRecreemur dapibus.\n\nAmen."
       }
     }
   ]

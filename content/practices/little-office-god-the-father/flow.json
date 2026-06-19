@@ -26,51 +26,116 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus Pater in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Te Deum Patrem laudamus,"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Te Conditorem coeli, et terrae confitemur."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\nEt os meum annuntiabit laudem tuam.\n℣. Deus Pater in adjutorium meum intende.\n℟. Te Deum Patrem laudamus,\n℣. Te Conditorem coeli, et terrae confitemur.\n℟. Domine ad adjuvandum me festina.\nGloria Deo Patri:\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluja."
+                "la": "Gloria Deo Patri:\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluja."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Lucis Creator optime,\nLucem dierum proferens,\nPrimordiis lucis novae,\nMundi paras originem.\nQui mane junctum vesperi,\nDiem vocari praecipis,\nFac, cedat omne noxium,\nPurgetur omne pessimum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Benedicamus Deum Patrem.\n℟. Laudemus, et superexaltemus eum in saecula."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Deum Patrem."
+                  },
+                  "r": {
+                    "la": "Laudemus, et superexaltemus eum in saecula."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Benedictio, et claritas, et sapientia, et gratiarum actio, honor, virtus, et fortitudo, Deo Patri in saecula saeculorum.\nAmen."
+              "type": "subheading",
+              "text": {
+                "la": "Benedictio, et claritas, et sapientia, et gratiarum actio, honor, virtus, et fortitudo, Deo Patri in saecula saeculorum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDa nobis, quaesumus Omnipotens et aeterne Deus, auxilium gratiosae tuae pietatis: ut Te Patrem ingenitum, Deum verum, Creatorem coeli et terrae, visibilium omnium et invisibilium, esse credimus; in exequendis quoque mandatis tuis voluntate, et actione, semper tibi placeamus: qui Deus es in saecula saeculorum.\nAmen."
+                "la": "Da nobis, quaesumus Omnipotens et aeterne Deus, auxilium gratiosae tuae pietatis: ut Te Patrem ingenitum, Deum verum, Creatorem coeli et terrae, visibilium omnium et invisibilium, esse credimus; in exequendis quoque mandatis tuis voluntate, et actione, semper tibi placeamus: qui Deus es in saecula saeculorum.\nAmen."
               }
             }
           ]
@@ -84,13 +149,13 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Immense Coeli Conditor,\nQui mixta ne confunderent,\nAquae fluenta dividens,\nCoelum dedisti limitem.\nInfunde nunc piissime\nDonum perennis gratiae,\nFraudis novae ne casibus\nNos error vetus afficiat."
               }
@@ -98,11 +163,11 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+                "la": "versus Benedicamus Deum Patrem, etc. ut supra."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -116,7 +181,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Cum Orat. ut supra in Matut."
+                "la": "versus Cum Orat. ut supra in Matut."
               }
             }
           ]
@@ -130,13 +195,13 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Telluris alma Conditor,\nMundi solum qui separans,\nPulsis aquae molestiis,\nTerram dedisti immobilem:\nUt germen aptum proferens,\nStaret decora floribus:\nMunda virore gratiae,\nMentis perusta vulnera."
               }
@@ -144,11 +209,11 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+                "la": "versus Benedicamus Deum Patrem, etc. ut supra."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -162,7 +227,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Cum Orat. ut supra in Matut."
+                "la": "versus Cum Orat. ut supra in Matut."
               }
             }
           ]
@@ -176,13 +241,13 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Coeli Deus Sanctissime,\nQui lucidas mundi plagas,\nCandore pingis igneo,\nAugens decoro lumine.\nExpelle noctem cordium,\nAbsterge somnos mentium,\nResolve culpae vinculum,\nEverte moles criminum."
               }
@@ -190,11 +255,11 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+                "la": "versus Benedicamus Deum Patrem, etc. ut supra."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -208,7 +273,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Cum Orat. ut supra in Matut."
+                "la": "versus Cum Orat. ut supra in Matut."
               }
             }
           ]
@@ -222,13 +287,13 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Magne Deus potentiae,\nQui fertili natos aquae\nPartim relinquis gurgiti,\nPartim levas in aera:\nDa, culpa nullum deprimat,\nNullum efferat jactantia,\nElisa mens ne concidat,\nElata mens ne corruat."
               }
@@ -236,11 +301,11 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+                "la": "versus Benedicamus Deum Patrem, etc. ut supra."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -254,7 +319,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Cum Orat. ut supra in Matut."
+                "la": "versus Cum Orat. ut supra in Matut."
               }
             }
           ]
@@ -268,13 +333,13 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Hominis superne Conditor,\nQui cuncta solus ordinans,\nHumum jubes producere\nReptantis et ferae genus\nEt magna rerum corpora.\nDa gaudiorum praemia,\nDa gratiarum munera,\nTuaeque pacis foedera."
               }
@@ -282,11 +347,11 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+                "la": "versus Benedicamus Deum Patrem, etc. ut supra."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -300,7 +365,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Cum Orat. ut supra in Matut."
+                "la": "versus Cum Orat. ut supra in Matut."
               }
             }
           ]
@@ -314,13 +379,13 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Scrutator alme cordium,\nInfirma tu scis virium:\nAd te reversis exhibe\nRemissionis gratiam.\nMultum quidem peccavimus,\nSed parce confitentibus:\nConfer medelam languidis,\nInfunde laudem cordium.\nTe mane laudum carmine,\nTe deprecamur vesperi:\nDigneris, ut te supplices,\nLaudemus inter coelites.\nAmen."
               }
@@ -328,19 +393,25 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Benedicamus Deum Patrem, etc. ut supra."
+                "la": "versus Benedicamus Deum Patrem, etc. ut supra."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Te Deum laudamus,\nTe Dominum confitemur.\nTe aeternum Patrem omnis terra veneratur."
+                "la": "Te Deum laudamus,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Te Dominum confitemur.\nTe aeternum Patrem omnis terra veneratur."
               }
             },
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Cum Orat. ut supra in Matut."
+                "la": "versus Cum Orat. ut supra in Matut."
               }
             }
           ]
@@ -360,7 +431,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Alia cum sui plena resignatione ad Deum patrem."
       }

@@ -26,9 +26,35 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\nAlleluia."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\nAlleluia."
               }
             },
             {
@@ -38,19 +64,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Ex stirpe nata Consulum,\nAmor, decusque siderum,\nFausta Parentis unicum,\nNostraque, salve, gaudium.\nTe Roma mundo protulit,\nTe Mater astris nutriit."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -62,22 +88,87 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Specie tua et pulchritudine tua.\n℟. Intende, prospere procede, et regna.\n℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Specie tua et pulchritudine tua."
+                  },
+                  "r": {
+                    "la": "Intende, prospere procede, et regna."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum.\n℟. Amen."
+                "la": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Et fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+                "la": "Amen."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -90,25 +181,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O quam te memorem, diva,\nDei tui,\nDum fervens teneris parvula flammulis,\nEt spernens generis Romulei decus,\nAd altiora provolas.\nSuccendit docilem discipulae facem\nArdor Chrysogoni. Mens, radiis sacris\nLeges docta pias Christianismum sequi,\nRidet deorum inanias."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -120,22 +224,87 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Adjuvabit eam Deus vultu suo.\n℟. Deus in medio ejus non commovebitur.\n℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Adjuvabit eam Deus vultu suo."
+                  },
+                  "r": {
+                    "la": "Deus in medio ejus non commovebitur."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum.\n℟. Amen."
+                "la": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.Per Christum Dominum nostrum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Et fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+                "la": "Amen."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -148,25 +317,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O diva, dives hortus es,\nTempesque gratarum,\nHic castitatis lilia,\nFlores benignitatis,\nLibertime progerminant,\nFidesque pesque intentae.\nSed una Christi caritas\nSpinae insita est merito."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -178,22 +360,87 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Flores apparuerunt in terra nostra.\n℟. Tempus putationis advenit.\n℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Flores apparuerunt in terra nostra."
+                  },
+                  "r": {
+                    "la": "Tempus putationis advenit."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum.\n℟. Amen."
+                "la": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae martyrii promuit palmam, intercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem. Per Christum Dominum nostrum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Et fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
+                "la": "Amen."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -206,25 +453,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine, etc."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine, etc."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Viro ligata conjugii\nLigata sacris artibus\nAstris adhaeres nexibus,\nViriquae amores respuis.\nHinc lora, carcer te manent,\nErgastulumque foetidum:\nSed altior mens libera\nQuiescit inter sidera."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -236,21 +490,59 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Cupio dissolvi."
+                  },
+                  "r": {
+                    "la": "Et esse cum Christo."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Cupio dissolvi.\n℟. Et esse cum Christo.\n℣. Domine exaudi, etc."
+                "la": "Domine exaudi, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum.\n℟. Amen."
+                "la": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi.\n℟.Benedicamus.\n℣. Et Fidelium, etc."
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi."
+                  },
+                  "r": {
+                    "la": "Benedicamus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et Fidelium, etc."
               }
             }
           ]
@@ -264,25 +556,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine. Gloria. ut supra."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine. Gloria. ut supra."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Non te deliciae, gaudia non trahunt,\nNon te divitiae, praemia non movent.\nNec triplex Veneris machina te rapit\nNec Ulpiani basia.\nCastis fixa Deo semper amoribus\nFulges aethereo lumine gratiae.\nSed perdit Cyprio cum Puero miser\nSua Ulpianus lumina."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -294,21 +593,59 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ancilla Christi nec terrore concutitur."
+                  },
+                  "r": {
+                    "la": "Nec blandimentis seducitur."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Ancilla Christi nec terrore concutitur.\n℟. Nec blandimentis seducitur.\n℣. Domine exaudi, etc."
+                "la": "Domine exaudi, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum.\n℟. Amen."
+                "la": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi.\n℟. Benedicamus.\n℣. Et Fidelium, etc."
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi."
+                  },
+                  "r": {
+                    "la": "Benedicamus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et Fidelium, etc."
               }
             }
           ]
@@ -322,25 +659,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Deus in adjutorium, etc.\n℟. Domine. Gloria. ut supra."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine. Gloria. ut supra."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Te, Diva, nullis casibus\nNullaque fraude victam\nFlorus perire naufraga\nPontus cupit furente,\nNavi sedes lacertimia\nCum Martyrum corona\nSed charitas susum trahit,\nNequitiae procul merita."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -352,21 +696,59 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "In charitate perpetua dilexi te."
+                  },
+                  "r": {
+                    "la": "Ideo attraxi te."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. In charitate perpetua dilexi te.\n℟. Ideo attraxi te.\n℣. Domine exaudi, etc."
+                "la": "Domine exaudi, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum.\n℟. Amen."
+                "la": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi.\n℟. Benedicamus.\n℣. Et Fidelium, etc."
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi."
+                  },
+                  "r": {
+                    "la": "Benedicamus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et Fidelium, etc."
               }
             }
           ]
@@ -380,25 +762,45 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium, etc.\n℟. Domine. Gloria. ut supra."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine. Gloria. ut supra."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Qui palma stoter largior\nPalmariam per Insulam,\nHic Coelites Victoriam\nTuum videre gestiunt.\nAssita lentis ignibus\nMoras pati jam nescia,\nConquesta flammis languida,\nAmoris igne concidis."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -410,21 +812,59 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Elegit eam Deus, et praelegit eam."
+                  },
+                  "r": {
+                    "la": "In tabernaculo suo habitare facit eam."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Elegit eam Deus, et praelegit eam.\n℟. In tabernaculo suo habitare facit eam.\n℣. Domine exaudi, etc."
+                "la": "Domine exaudi, etc."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum.\n℟. Amen."
+                "la": "Concede, quaesumus, omnipotens Deus, ut beata Anastasia, quae Martyrii promuit palmam,\nintercessionibus suis et praesentis vitae nobis remedia conferat, et aeternam salutem.\nPer Christum Dominum nostrum."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine exaudi.\n℟. Benedicamus.\n℣. Et Fidelium, etc."
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi."
+                  },
+                  "r": {
+                    "la": "Benedicamus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et Fidelium, etc."
               }
             }
           ]

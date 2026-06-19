@@ -44,43 +44,44 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit etc.\n℣. Deus in adjutorium etc.\nGloria etc. per annum Alleluia. a Sept. usque ad Pasch. Laus tibi Domine Rex aeternae gloriae."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria etc. per annum Alleluia. a Sept. usque ad Pasch. Laus tibi Domine Rex aeternae gloriae."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Mens incalesce laudibus\nEt blasi honores\nPange devotis plausibus:\nAttende quid perores."
+                "la": "Mens incalesce laudibus\nEt blasi honores\nPange devotis plausibus:\nAttende quid perores.\n\nPeroras virum nobilem,\nNatalibus magnatem;\nSed pietate supparem\nCoelestibus achatem.\n\nNon ergo diu latuit\nIn tenebris hoc lumen,\nCum praesulem mox statuit\nEum supremum numen.\n\nSit trinitati gloria,\nQuae blasi per ortum,\nEmenso vitae stadio,\nDucat ad caeli portum.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Peroras virum nobilem,\nNatalibus magnatem;\nSed pietate supparem\nCoelestibus achatem."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Non ergo diu latuit\nIn tenebris hoc lumen,\nCum praesulem mox statuit\nEum supremum numen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit trinitati gloria,\nQuae blasi per ortum,\nEmenso vitae stadio,\nDucat ad caeli portum.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -88,11 +89,24 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Domine Rex aeterne, qui es tuorum spes certa Sanctorum, per orationem servi tui blasi memento nostri.\n℣. Ora pro nobis s. blasi.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Domine Rex aeterne, qui es tuorum spes certa Sanctorum, per orationem servi tui blasi memento nostri."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis s. blasi."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Oratio"
               }
@@ -100,8 +114,21 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Domine Jesu Christe! qui s. blasium, gloriosum martyrem tuum, vita laudabili ac pontificali honore sublimasti, et ad palmam martyrii invitasti; concede propitius, ut qui ejus gloriosam passionem devote recolimus, ipsius meritis et precibus ab universis mentis et corporis periculis liberemur: per Dominum nostrum etc.\n℣. Domine exaudi etc.\n℟. Fidelium animae etc. Amen."
+                "la": "Domine Jesu Christe! qui s. blasium, gloriosum martyrem tuum, vita laudabili ac pontificali honore sublimasti, et ad palmam martyrii invitasti; concede propitius, ut qui ejus gloriosam passionem devote recolimus, ipsius meritis et precibus ab universis mentis et corporis periculis liberemur: per Dominum nostrum etc."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine exaudi etc."
+                  },
+                  "r": {
+                    "la": "Fidelium animae etc. Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -116,41 +143,29 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc.\nGloria etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria etc."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ne mundus ei subdolum\nObiceret glaucoma,\nAut caro triveneficum\nIngereret aroma;"
+                "la": "Ne mundus ei subdolum\nObiceret glaucoma,\nAut caro triveneficum\nIngereret aroma;\n\nSe montium in abdito\nRecondidit spelæo,\nContentus, eucharistico\nQui frueretur Deo.\n\nMirum! qui fugit homines,\nIn suos cucurrabat\nFeras silvarum, comites,\nQuas aegras per sanabat.\n\nSit trinitati gloria,\nQuae blasi recessit,\nAb omni nos in mundo hoc\nCustodiat excessit.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Se montium in abdito\nRecondidit spelæo,\nContentus, eucharistico\nQui frueretur Deo."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Mirum! qui fugit homines,\nIn suos cucurrabat\nFeras silvarum, comites,\nQuas aegras per sanabat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit trinitati gloria,\nQuae blasi recessit,\nAb omni nos in mundo hoc\nCustodiat excessit.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -158,7 +173,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ab omni nos Domine abstrahe tumultu saeculi, ut cum divo blasio soli vivamus tibi.\n℣. Ora pro nobis s. blasi etc. cum oratione ut supra."
+                "la": "Ab omni nos Domine abstrahe tumultu saeculi, ut cum divo blasio soli vivamus tibi."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ora pro nobis s. blasi etc. cum oratione ut supra."
               }
             }
           ]
@@ -174,23 +195,29 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc.\nGloria etc."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Deus in adjutorium etc."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Gloria etc."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Cum sic in silvis floruit\nUt palma, Dei servus;\nEt pietatis semitam\nCucurrit, quasi cervus,\nForte tyranni milites\nExierant venatum;\nUt inde sui Domini\nReficerent palatum.\nSed ecce qui vestigia\nBrutorum indaguarunt,\nAd blasi latibula\nErrore declinarunt.\nSit trinitati gloria,\nQuae blasi secreta\nVita, in nobis deleat\nAeternae mortis theta. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -198,7 +225,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Per s. blasi intercessionem omnes ferae in nobis manfuefiant passiones: ut cum illo sequamur agnum, quocumque ierit.\n℣. Ora pro nobis s. blasi etc. cum oratione ut supra."
+                "la": "Per s. blasi intercessionem omnes ferae in nobis manfuefiant passiones: ut cum illo sequamur agnum, quocumque ierit."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ora pro nobis s. blasi etc. cum oratione ut supra."
               }
             }
           ]
@@ -214,41 +247,29 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc.\nGloria etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria etc."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Hic jam non cervus timidus,\nSed fortis inclamatur;\nQui vinci nescit blasus,\nEt vinculis ligatur:"
+                "la": "Hic jam non cervus timidus,\nSed fortis inclamatur;\nQui vinci nescit blasus,\nEt vinculis ligatur:\n\nVinctus ex antro rapitur\nIn carcerem, multorum,\nIn quo est praesentissimus\nMachoan infirmorum,\n\nPraecipue sed gutturum\nDoloribus medetur.\nEum dictatis precibus\nQui pie reveretur.\n\nSit trinitati gloria,\nQuae blasi medela\nAvertat male noxia,\nMorbi, lethique tela.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vinctus ex antro rapitur\nIn carcerem, multorum,\nIn quo est praesentissimus\nMachoan infirmorum,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Praecipue sed gutturum\nDoloribus medetur.\nEum dictatis precibus\nQui pie reveretur."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit trinitati gloria,\nQuae blasi medela\nAvertat male noxia,\nMorbi, lethique tela.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -256,7 +277,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sancte blasi signo crucis guttur pueri medicate, opitulare, ne unquam in gutture nostro tuae praefocentur laudes.\n℣. Ora pro nobis s. blasi etc. cum oratione ut supra."
+                "la": "Sancte blasi signo crucis guttur pueri medicate, opitulare, ne unquam in gutture nostro tuae praefocentur laudes."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ora pro nobis s. blasi etc. cum oratione ut supra."
               }
             }
           ]
@@ -272,41 +299,29 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc.\nGloria etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria etc."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Urget tyrannus blassium,\nUt supplex adoraret Jovem,\ndeorum prodorum,\nEt Christum ejuraret:"
+                "la": "Urget tyrannus blassium,\nUt supplex adoraret Jovem,\ndeorum prodorum,\nEt Christum ejuraret:\n\nSed frustra; nam, ut caucasus,\nImmotus Christi cultum\nPropugnat, neque metuit\nMinis flagrantem vultum.\n\nVerbis succedunt verbera,\nEquuleus, tortura:\nNon tamen a proposito\nHeroem amotura.\n\nSit trinitati gloria,\nQuae blasi per fidem\nElanguidis impertiat\nOpem, et robur idem.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sed frustra; nam, ut caucasus,\nImmotus Christi cultum\nPropugnat, neque metuit\nMinis flagrantem vultum."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Verbis succedunt verbera,\nEquuleus, tortura:\nNon tamen a proposito\nHeroem amotura."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit trinitati gloria,\nQuae blasi per fidem\nElanguidis impertiat\nOpem, et robur idem.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -314,7 +329,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Domine Jesu Christe, qui gloriosum martyrem in suis tormentis insigni constantia decorasti; fac, ut nos nullae perfringant adversitates.\n℣. Ora pro nobis s. blasi etc. cum oratione ut supra."
+                "la": "Domine Jesu Christe, qui gloriosum martyrem in suis tormentis insigni constantia decorasti; fac, ut nos nullae perfringant adversitates."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ora pro nobis s. blasi etc. cum oratione ut supra."
               }
             }
           ]
@@ -330,41 +351,29 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc.\nGloria etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria etc."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Haec in tyranno rabidum\nExasperant furorem,\nIn martyre, martyrii\nExstimulant amorem."
+                "la": "Haec in tyranno rabidum\nExasperant furorem,\nIn martyre, martyrii\nExstimulant amorem.\n\nIlle proin, quo blasi\nSaevum restinguit aestum,\nImmergi jubet lacui;\nAt en tyranni quaestum!\n\nIn fluctibus nec fluctuat,\nNec undis submersatur\nVir Dei, sed ab angelo\nIncolumis servatur.\n\nSit trinitati gloria,\nQuam blasius exorat,\nSi quando quod periculum\nNos obruturum foret.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Ille proin, quo blasi\nSaevum restinguit aestum,\nImmergi jubet lacui;\nAt en tyranni quaestum!"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "In fluctibus nec fluctuat,\nNec undis submersatur\nVir Dei, sed ab angelo\nIncolumis servatur."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit trinitati gloria,\nQuam blasius exorat,\nSi quando quod periculum\nNos obruturum foret.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -372,7 +381,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Fortis Christi athleta, qui alter Petrus stetisti, et ambulasti in fluctibus, intercede, ne nos peccatorum tempestas demergat, nec inferni absorbeat profundum.\n℣. Ora pro nobis s. blasi etc. cum oratione ut supra."
+                "la": "Fortis Christi athleta, qui alter Petrus stetisti, et ambulasti in fluctibus, intercede, ne nos peccatorum tempestas demergat, nec inferni absorbeat profundum."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ora pro nobis s. blasi etc. cum oratione ut supra."
               }
             }
           ]
@@ -386,43 +401,44 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium etc.\nGloria etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria etc."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Aqua tyranno haeserat,\nNec furere cessabat,\nNum sanguis forte flueret\nAd vota, pertentabat."
+                "la": "Aqua tyranno haeserat,\nNec furere cessabat,\nNum sanguis forte flueret\nAd vota, pertentabat.\n\nFluxit: nam plexus capite,\nProfudit miles Christi\nVitam una cum sanguine:\nJam furor, jam vicisti!\n\nQuin victus es: cum lauream\nPlexerit plectendo,\nEt blasium in martyrium\nSic album evehendo.\n\nSit trinitati gloria,\nQuae blasium donavit,\nTam nobili victoria\nTyrannidem prostravit.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Fluxit: nam plexus capite,\nProfudit miles Christi\nVitam una cum sanguine:\nJam furor, jam vicisti!"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quin victus es: cum lauream\nPlexerit plectendo,\nEt blasium in martyrium\nSic album evehendo."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit trinitati gloria,\nQuae blasium donavit,\nTam nobili victoria\nTyrannidem prostravit.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -430,7 +446,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Dive blasi, cujus preces in ultimo agone exauditae sunt, potenti patrocinio tuo nobis assiste in hora mortis.\n℣. Ora pro nobis s. blasi etc. cum oratione ut supra."
+                "la": "Dive blasi, cujus preces in ultimo agone exauditae sunt, potenti patrocinio tuo nobis assiste in hora mortis."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Ora pro nobis s. blasi etc. cum oratione ut supra."
               }
             }
           ]

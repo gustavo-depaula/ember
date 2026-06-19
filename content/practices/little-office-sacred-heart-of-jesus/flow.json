@@ -15,11 +15,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
-        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domine labia mea aperies.",
+            "en-US": "O Lord, open my lips."
+          },
+          "r": {
+            "la": "Et os meum annuntiabit laudem tuam.",
+            "en-US": "And my mouth will announce Thy praise."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -29,11 +37,34 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
-        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus in adiutorium meum intende.",
+            "en-US": "O God, come to my aid."
+          },
+          "r": {
+            "la": "Domine ad adiuvandum me festina.",
+            "en-US": "O Lord, make haste to help me."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Gloria Patri, et Filio, et Spiritui Sancto.",
+            "en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit."
+          },
+          "r": {
+            "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+            "en-US": "As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -43,11 +74,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Cor Iesu, flagrans amore nostri.\n℟. Inflamma cor nostrum amore tui.",
-        "en-US": "℣. Heart of Jesus, flaming with love of us.\n℟. Inflame our hearts with love of Thee."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Cor Iesu, flagrans amore nostri.",
+            "en-US": "Heart of Jesus, flaming with love of us."
+          },
+          "r": {
+            "la": "Inflamma cor nostrum amore tui.",
+            "en-US": "Inflame our hearts with love of Thee."
+          }
+        }
+      ]
     },
     {
       "type": "select",
@@ -83,7 +122,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -114,7 +153,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -145,7 +184,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -176,7 +215,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -207,7 +246,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -238,7 +277,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -269,7 +308,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -300,7 +339,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant.",
                 "en-US": "Ant."
@@ -325,10 +364,32 @@
       }
     },
     {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Paratum cor meum, Deus cordis mei, ut faciam voluntatem tuam.",
+            "en-US": "My heart is ready, O God of my heart, that I may do Thy will."
+          },
+          "r": {
+            "la": "Deus meus, volui, et legem tuam in medio cordis mei.",
+            "en-US": "My God, I have desired Thy Law in the depths of my heart."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus.",
+        "en-US": "Let us pray."
+      }
+    },
+    {
       "type": "prayer",
       "inline": {
-        "la": "℣. Paratum cor meum, Deus cordis mei, ut faciam voluntatem tuam.\n℟. Deus meus, volui, et legem tuam in medio cordis mei.\nOremus,\nDomine Iesu, qui ineffabiles Cordis tui dulcedines ac divitias Ecclesiae, Sponsae tuae, singulari dilectione aperire dignatus es: concede nobis famulis tuis, ut gratiis caelestibus ex hoc dulcissimo fonte manantibus ditari et recreari mereamur. Qui vivis et regnas in saecula saeculorum.\nAmen.",
-        "en-US": "℣. My heart is ready, O God of my heart, that I may do Thy will.\n℟. My God, I have desired Thy Law in the depths of my heart.\nLet us pray,\nLord Jesus, Who hast deigned to open by Thy special love the unutterable goodness and riches of Thy Heart to Thy Bride, the Church: grant to us, Thy servants, that we may merit to be enriched and refreshed by Thy heavenly graces, flowing from this sweetest of fountains. Thou who livest and reignest forever and ever.\nAmen."
+        "la": "Domine Iesu, qui ineffabiles Cordis tui dulcedines ac divitias Ecclesiae, Sponsae tuae, singulari dilectione aperire dignatus es: concede nobis famulis tuis, ut gratiis caelestibus ex hoc dulcissimo fonte manantibus ditari et recreari mereamur. Qui vivis et regnas in saecula saeculorum.\nAmen.",
+        "en-US": "Lord Jesus, Who hast deigned to open by Thy special love the unutterable goodness and riches of Thy Heart to Thy Bride, the Church: grant to us, Thy servants, that we may merit to be enriched and refreshed by Thy heavenly graces, flowing from this sweetest of fountains. Thou who livest and reignest forever and ever.\nAmen."
       }
     }
   ]

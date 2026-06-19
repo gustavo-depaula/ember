@@ -32,31 +32,51 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Illustre sidus Principum,\nFrancisce salve maxime;\nQui foetido cadavere\nViso, horruisti saeculum."
+                "la": "Illustre sidus Principum,\nFrancisce salve maxime;\nQui foetido cadavere\nViso, horruisti saeculum.\n\nAverte nostra lumina,\nNe vanitates hauriant,\nSed in supernam caelitum\nSint fixa saeculum jugiter."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Averte nostra lumina,\nNe vanitates hauriant,\nSed in supernam caelitum\nSint fixa saeculum jugiter."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -68,15 +88,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Non aspiciam hominem ultra, et habitatorum quietis.\n℟. Haec requies mea in saeculum saeculi: quoniam elegi eam."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Non aspiciam hominem ultra, et habitatorum quietis."
+                  },
+                  "r": {
+                    "la": "Haec requies mea in saeculum saeculi: quoniam elegi eam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nOmnipotens, sempiterne Deus,\nqui spreta vanitate, beatum Franciscum Borgiam\net Societatem Filii tui vocare dignatus es:\npraesta, quaesumus, ut, quem eximia sanctimoniae exempla\npar habuimus in terris,\nejus coronae participes fieri mereamur in caelis.\nPer Christum Dominum nostrum. Amen."
+                "la": "Omnipotens, sempiterne Deus,\nqui spreta vanitate, beatum Franciscum Borgiam\net Societatem Filii tui vocare dignatus es:\npraesta, quaesumus, ut, quem eximia sanctimoniae exempla\npar habuimus in terris,\nejus coronae participes fieri mereamur in caelis.\nPer Christum Dominum nostrum. Amen."
               }
             }
           ]
@@ -90,31 +123,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Salve columna Gandiae,\nEt Religionis gloria:\nQui aula relicta Principis,\nAulam petisti Numinis."
+                "la": "Salve columna Gandiae,\nEt Religionis gloria:\nQui aula relicta Principis,\nAulam petisti Numinis.\n\nServos fideles caelitum\nServire fac nos Principi,\nUt tecum eodem praemio\nPerfruamur perpetuo."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Servos fideles caelitum\nServire fac nos Principi,\nUt tecum eodem praemio\nPerfruamur perpetuo."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -126,10 +166,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Beatus vir, qui timet Dominum:\n℟. Et non respexit in vanitates, et insanias falsas."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Beatus vir, qui timet Dominum:"
+                  },
+                  "r": {
+                    "la": "Et non respexit in vanitates, et insanias falsas."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -148,31 +195,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Salve, o speculum pauperum,\nOpumque spretor inclite,\nFelicitatem divitum\nQui vanitatem duxeras:"
+                "la": "Salve, o speculum pauperum,\nOpumque spretor inclite,\nFelicitatem divitum\nQui vanitatem duxeras:\n\nFac spiritu nos pauperes,\nVirtute vero divites,\nGazas caducas spernere,\nSolumque Christum quaerere."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Fac spiritu nos pauperes,\nVirtute vero divites,\nGazas caducas spernere,\nSolumque Christum quaerere."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -184,10 +238,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Beatus vir, cujus est nomen Domini spes ejus.\n℟. Et non respexit in vanitates, et insanias falsas."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Beatus vir, cujus est nomen Domini spes ejus."
+                  },
+                  "r": {
+                    "la": "Et non respexit in vanitates, et insanias falsas."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -206,31 +267,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Salve polaris flammula,\nCaeli voluptas, Borgia,\nDevotionis lachryma\nCui madebant lumina:"
+                "la": "Salve polaris flammula,\nCaeli voluptas, Borgia,\nDevotionis lachryma\nCui madebant lumina:\n\nRores supernos gratiae\nDevotionis depule,\nCor incalescat frigidum,\nFlammis amoris affluat."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Rores supernos gratiae\nDevotionis depule,\nCor incalescat frigidum,\nFlammis amoris affluat."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -242,10 +310,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Tanquam imbres mittet eloquia sapientiae tuae.\n℟. Et in oratione constituitur Domino."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Tanquam imbres mittet eloquia sapientiae tuae."
+                  },
+                  "r": {
+                    "la": "Et in oratione constituitur Domino."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -264,31 +339,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Salve pudicitiae rosa,\nEt castitatis lilium:\nHostis voluptae maxime,\nCarnisque victor hostium:"
+                "la": "Salve pudicitiae rosa,\nEt castitatis lilium:\nHostis voluptae maxime,\nCarnisque victor hostium:\n\nTu puritatem corporis,\nMentisque serves integram:\nCor munda ab omni crimine,\nDignus thorus sit Numine."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Tu puritatem corporis,\nMentisque serves integram:\nCor munda ab omni crimine,\nDignus thorus sit Numine."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -300,10 +382,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Retribuet mihi Dominus secundum justitiam meam.\n℟. Et secundum puritatem manuum mearum in conspectu oculorum ejus."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Retribuet mihi Dominus secundum justitiam meam."
+                  },
+                  "r": {
+                    "la": "Et secundum puritatem manuum mearum in conspectu oculorum ejus."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -322,31 +411,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Salve culmen humilium,\nExemplum obedientiae,\nCalcata honoris purpura,\nDemissionis gratia."
+                "la": "Salve culmen humilium,\nExemplum obedientiae,\nCalcata honoris purpura,\nDemissionis gratia.\n\nQui claruit maxima,\nMotus superbos comprime,\nMentes rebelles doma,\nHumilesque veros effice."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Qui claruit maxima,\nMotus superbos comprime,\nMentes rebelles doma,\nHumilesque veros effice."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -358,10 +454,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Memoriam superborum perdidit Deus.\n℟. Reliquit memoriam humilium sensu."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Memoriam superborum perdidit Deus."
+                  },
+                  "r": {
+                    "la": "Reliquit memoriam humilium sensu."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -380,31 +483,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Salve potestas daemonum,\nBellator invincibilis,\nQui nobilis victoriae\nPlaudens migrasti e corpore."
+                "la": "Salve potestas daemonum,\nBellator invincibilis,\nQui nobilis victoriae\nPlaudens migrasti e corpore.\n\nAdversus infernalium\nTentationes hostium,\nNobis adis fortissimum\nIn morte propugnaculum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Adversus infernalium\nTentationes hostium,\nNobis adis fortissimum\nIn morte propugnaculum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -416,10 +539,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Gloriosa in conspectu Domini.\n℟. Mors Sanctorum ejus."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloriosa in conspectu Domini."
+                  },
+                  "r": {
+                    "la": "Mors Sanctorum ejus."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",

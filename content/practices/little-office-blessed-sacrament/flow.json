@@ -10,8 +10,8 @@
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Panem Angelorum manducavit homo, et paratur ei mensa Domini.",
-        "en-US": "℣. Man hath eaten the bread of Angels, and the table of our Lord is prepared for him."
+        "la": "Panem Angelorum manducavit homo, et paratur ei mensa Domini.",
+        "en-US": "Man hath eaten the bread of Angels, and the table of our Lord is prepared for him."
       }
     },
     {
@@ -22,11 +22,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
-        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domine labia mea aperies.",
+            "en-US": "O Lord, open my lips."
+          },
+          "r": {
+            "la": "Et os meum annuntiabit laudem tuam.",
+            "en-US": "And my mouth will announce Thy praise."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -36,11 +44,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.",
-        "en-US": "℣. Convert us, O God our Saviour.\n℟. And turn away Thy wrath from us."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Converte nos, Deus salutaris noster.",
+            "en-US": "Convert us, O God our Saviour."
+          },
+          "r": {
+            "la": "Et averte iram tuam a nobis.",
+            "en-US": "And turn away Thy wrath from us."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -50,11 +66,34 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
-        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus in adiutorium meum intende.",
+            "en-US": "O God, come to my aid."
+          },
+          "r": {
+            "la": "Domine ad adiuvandum me festina.",
+            "en-US": "O Lord, make haste to help me."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Gloria Patri, et Filio, et Spiritui Sancto.",
+            "en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit."
+          },
+          "r": {
+            "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+            "en-US": "As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -211,9 +250,24 @@
     {
       "type": "prayer",
       "inline": {
-        "la": "O quam suavis est Domine spiritus tuus, qui ut dulcedinem tuam in filios demonstrares, pane suavissimo de caelo praestito esurientes reples bonis, fastidiosos divites dimittens inanes.\n℣. Panem de caelo praestitisti eis.\n℟. Omne delectamentum in se habentem.",
-        "en-US": "O how sweet, O Lord, is Thy Spirit, who, that Thou mightest show Thy sweetness towards Thy children, by most sweet bread sent from Heaven fillest the hungry with good things, send the rich away empty.\n℣. Thou hast given us bread from Heaven.\n℟. Filled with all sweetness and delight."
+        "la": "O quam suavis est Domine spiritus tuus, qui ut dulcedinem tuam in filios demonstrares, pane suavissimo de caelo praestito esurientes reples bonis, fastidiosos divites dimittens inanes.",
+        "en-US": "O how sweet, O Lord, is Thy Spirit, who, that Thou mightest show Thy sweetness towards Thy children, by most sweet bread sent from Heaven fillest the hungry with good things, send the rich away empty."
       }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Panem de caelo praestitisti eis.",
+            "en-US": "Thou hast given us bread from Heaven."
+          },
+          "r": {
+            "la": "Omne delectamentum in se habentem.",
+            "en-US": "Filled with all sweetness and delight."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",

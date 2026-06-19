@@ -29,11 +29,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Convertat nos, Domina, tuis precibus placatur Iesus Christus Filius tuus.\n℟. Et avertat iram suam a nobis.",
-        "en-US": "℣. May Jesus Christ, thy Son, reconciled by thy prayers, O Lady, convert our hearts.\n℟. And turn away His anger from us."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Convertat nos, Domina, tuis precibus placatur Iesus Christus Filius tuus.",
+            "en-US": "May Jesus Christ, thy Son, reconciled by thy prayers, O Lady, convert our hearts."
+          },
+          "r": {
+            "la": "Et avertat iram suam a nobis.",
+            "en-US": "And turn away His anger from us."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -43,11 +51,34 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domina, in adiutorium meum intende.\n℟. Me de manu hostium potenter defende.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
-        "en-US": "℣. O Lady, make speed to befriend me.\n℟. From the hands of the enemy mightily defend me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domina, in adiutorium meum intende.",
+            "en-US": "O Lady, make speed to befriend me."
+          },
+          "r": {
+            "la": "Me de manu hostium potenter defende.",
+            "en-US": "From the hands of the enemy mightily defend me."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Gloria Patri, et Filio, et Spiritui Sancto.",
+            "en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit."
+          },
+          "r": {
+            "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+            "en-US": "As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -89,11 +120,19 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Elegit eam Deus, et praeelegit eam.\n℟. In tabernaculo suo habitare fecit eam.",
-                "en-US": "℣. God elected her, and pre-elected her.\n℟. He made her to dwell in His tabernacle."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Elegit eam Deus, et praeelegit eam.",
+                    "en-US": "God elected her, and pre-elected her."
+                  },
+                  "r": {
+                    "la": "In tabernaculo suo habitare fecit eam.",
+                    "en-US": "He made her to dwell in His tabernacle."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -113,11 +152,19 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ipse creavit illam in Spiritu Sancto.\n℟. Et effundit illam super omnia opera sua.",
-                "en-US": "℣. The Lord Himself created her in the Holy Ghost.\n℟. And poured her out over all His works."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ipse creavit illam in Spiritu Sancto.",
+                    "en-US": "The Lord Himself created her in the Holy Ghost."
+                  },
+                  "r": {
+                    "la": "Et effundit illam super omnia opera sua.",
+                    "en-US": "And poured her out over all His works."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -137,11 +184,19 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ego in altissimis habito.\n℟. Et thronus meus in columna nubis.",
-                "en-US": "℣. I dwell in the highest.\n℟. And my throne is on the pillar of the clouds."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ego in altissimis habito.",
+                    "en-US": "I dwell in the highest."
+                  },
+                  "r": {
+                    "la": "Et thronus meus in columna nubis.",
+                    "en-US": "And my throne is on the pillar of the clouds."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -161,11 +216,19 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sicut lilium inter spinas\n℟. Sic amica mea inter filias Adae.",
-                "en-US": "℣. As the lily among the thorns.\n℟. So is my beloved among the daughters of Adam."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sicut lilium inter spinas",
+                    "en-US": "As the lily among the thorns."
+                  },
+                  "r": {
+                    "la": "Sic amica mea inter filias Adae.",
+                    "en-US": "So is my beloved among the daughters of Adam."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -185,11 +248,19 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Tota pulchra es, amica mea.\n℟. Et macula originalis numquam fuit in te.",
-                "en-US": "℣. Thou art all fair, my beloved.\n℟. And the original stain was never in thee."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Tota pulchra es, amica mea.",
+                    "en-US": "Thou art all fair, my beloved."
+                  },
+                  "r": {
+                    "la": "Et macula originalis numquam fuit in te.",
+                    "en-US": "And the original stain was never in thee."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -209,11 +280,19 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ego feci in caelis ut oriretur lumen indeficiens.\n℟. Et quasi nebula texi omnem terram.",
-                "en-US": "℣. I made an unfailing light to arise in heaven.\n℟. And as a mist I overspread the whole earth."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ego feci in caelis ut oriretur lumen indeficiens.",
+                    "en-US": "I made an unfailing light to arise in heaven."
+                  },
+                  "r": {
+                    "la": "Et quasi nebula texi omnem terram.",
+                    "en-US": "And as a mist I overspread the whole earth."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -233,11 +312,19 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Oleum effusum, Maria, nomen tuum.\n℟. Servi tui dilexerunt te nimis.",
-                "en-US": "℣. Thy name, O Mary, is an oil poured out.\n℟. Thy servants have loved thee exceedingly."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Oleum effusum, Maria, nomen tuum.",
+                    "en-US": "Thy name, O Mary, is an oil poured out."
+                  },
+                  "r": {
+                    "la": "Servi tui dilexerunt te nimis.",
+                    "en-US": "Thy servants have loved thee exceedingly."
+                  }
+                }
+              ]
             }
           ]
         }
@@ -251,25 +338,78 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domina, protege orationem meam.\n℟. Et clamor meus ad te veniat.",
-        "en-US": "℣. O Lady, aid my prayer.\n℟. And let my cry come unto thee."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domina, protege orationem meam.",
+            "en-US": "O Lady, aid my prayer."
+          },
+          "r": {
+            "la": "Et clamor meus ad te veniat.",
+            "en-US": "And let my cry come unto thee."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus.",
+        "en-US": "Let us pray."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nSancta Maria, Regina caelorum, Mater Domini nostri Iesu Christi, et mundi Domina, quae nullum derelinquis, et nullum despicis: respice me, Domina, clementer oculo pietatis, et impetra mihi apud tuum dilectum Filium cunctorum veniam peccatorum: ut qui nunc tuam sanctam et immaculatam conceptionem devoto affectu recolo, aeternae in futurum beatitudinis, bravium capiam, ipso, quem virgo peperisti, donante Domino nostro Iesu Christo: qui cum Patre et Sancto Spiritu vivit et regnat, in Trinitate1 perfecta, Deus, in saecula saeculorum. Amen.",
-        "en-US": "Let us pray,\nHoly Mary, Queen of heaven, Mother of Our Lord Jesus Christ, and Mistress of the world, who forsakest no one and despisest no one, look upon me, O Lady, with an eye of pity and entreat for me, of thy beloved Son, the forgiveness of all my sins that, as I now celebrate, with devout affection, thy holy and immaculate conception, so here-after, I may receive the prize of eternal blessedness, by the grace of Him Whom thou, in virginity, didst bring forth, Jesus Christ our Lord: Who with the Father and the Holy Spirit, liveth and reigneth in perfect Trinity, God, forever. Amen."
+        "la": "Sancta Maria, Regina caelorum, Mater Domini nostri Iesu Christi, et mundi Domina, quae nullum derelinquis, et nullum despicis: respice me, Domina, clementer oculo pietatis, et impetra mihi apud tuum dilectum Filium cunctorum veniam peccatorum: ut qui nunc tuam sanctam et immaculatam conceptionem devoto affectu recolo, aeternae in futurum beatitudinis, bravium capiam, ipso, quem virgo peperisti, donante Domino nostro Iesu Christo: qui cum Patre et Sancto Spiritu vivit et regnat, in Trinitate1 perfecta, Deus, in saecula saeculorum. Amen.",
+        "en-US": "Holy Mary, Queen of heaven, Mother of Our Lord Jesus Christ, and Mistress of the world, who forsakest no one and despisest no one, look upon me, O Lady, with an eye of pity and entreat for me, of thy beloved Son, the forgiveness of all my sins that, as I now celebrate, with devout affection, thy holy and immaculate conception, so here-after, I may receive the prize of eternal blessedness, by the grace of Him Whom thou, in virginity, didst bring forth, Jesus Christ our Lord: Who with the Father and the Holy Spirit, liveth and reigneth in perfect Trinity, God, forever. Amen."
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domina, protege orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-        "en-US": "℣. O Lady, aid my prayer\n℟. And let my cry come unto thee.\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n℣. May the souls of the faithful, through the mercy of God, rest in peace.\n℟. Amen."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domina, protege orationem meam.",
+            "en-US": "O Lady, aid my prayer"
+          },
+          "r": {
+            "la": "Et clamor meus ad te veniat.",
+            "en-US": "And let my cry come unto thee."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Benedicamus Domino.",
+            "en-US": "Let us bless the Lord."
+          },
+          "r": {
+            "la": "Deo gratias.",
+            "en-US": "Thanks be to God."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+            "en-US": "May the souls of the faithful, through the mercy of God, rest in peace."
+          },
+          "r": {
+            "la": "Amen.",
+            "en-US": "Amen."
+          }
+        }
+      ]
     },
     {
       "type": "subheading",
@@ -288,12 +428,12 @@
     {
       "type": "prayer",
       "inline": {
-        "la": "℟. Deo gratias.",
-        "en-US": "℟. Thanks be to God."
+        "la": "Deo gratias.",
+        "en-US": "Thanks be to God."
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Ant.",
         "en-US": "Ant."
@@ -307,17 +447,32 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. In conceptione tua virgo immaculata fuisti.\n℟. Ora pro nobis Patrem, cuius Filium peperisti.",
-        "en-US": "℣. In thy conception, O Virgin, thou wast immaculate.\n℟. Pray for us to the Father, Whose Son thou didst bring forth."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "In conceptione tua virgo immaculata fuisti.",
+            "en-US": "In thy conception, O Virgin, thou wast immaculate."
+          },
+          "r": {
+            "la": "Ora pro nobis Patrem, cuius Filium peperisti.",
+            "en-US": "Pray for us to the Father, Whose Son thou didst bring forth."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus.",
+        "en-US": "Let us pray."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nDeus, qui per immaculatam Virginis conceptionem dignum Filio tuo habitaculum praeparasti: quaesumus, ut qui ex morte eiusdem Filii tui praevisa eam ab omni labe praeservasti, nos quoque mundos eius intercessione ad te pervenire concedas. Per eundem Christum Dominum nostrum. Amen.",
-        "en-US": "Let us pray,\nO God, Who by the immaculate conception of the Virgin, didst prepare a worthy habitation for Thy Son, we beseech Thee that, as in view of the death of that Son, Thou didst preserve her from all stain of sin, so Thou wouldst enable us, being made pure by her intercession, to come unto Thee. Through the same Christ our Lord. Amen."
+        "la": "Deus, qui per immaculatam Virginis conceptionem dignum Filio tuo habitaculum praeparasti: quaesumus, ut qui ex morte eiusdem Filii tui praevisa eam ab omni labe praeservasti, nos quoque mundos eius intercessione ad te pervenire concedas. Per eundem Christum Dominum nostrum. Amen.",
+        "en-US": "O God, Who by the immaculate conception of the Virgin, didst prepare a worthy habitation for Thy Son, we beseech Thee that, as in view of the death of that Son, Thou didst preserve her from all stain of sin, so Thou wouldst enable us, being made pure by her intercession, to come unto Thee. Through the same Christ our Lord. Amen."
       }
     }
   ]

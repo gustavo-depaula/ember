@@ -26,25 +26,71 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Thou shalt open my lips, O Lord."
+                  },
+                  "r": {
+                    "en-US": "And my mouth shall shew forth Thy praise."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Thou shalt open my lips, O Lord.\n℟. And my mouth shall shew forth Thy praise.\n℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen.\nPraise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Invitatory"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Christ is captured and put to scorn, scourged and crucified. Oh, come, let us adore Him!\n℟. Christ is captured and put to scorn, scourged and crucified. Oh, come, let us adore Him!"
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Christ is captured and put to scorn, scourged and crucified. Oh, come, let us adore Him!"
+                  },
+                  "r": {
+                    "en-US": "Christ is captured and put to scorn, scourged and crucified. Oh, come, let us adore Him!"
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm XCIV"
               }
@@ -58,55 +104,32 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℟. Oh, come, let us adore Him!\n℣. Christ is captured and put to scorn, scourged and crucified.\n℟. Oh, come, let us adore Him."
+                "en-US": "Oh, come, let us adore Him!"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Christ is captured and put to scorn, scourged and crucified."
+                  },
+                  "r": {
+                    "en-US": "Oh, come, let us adore Him."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Oh, may the Passion of the Lord, Whereby salvation is restored,\nThe mind with love for Him inspire, Our solace and our hearts' desire."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "In memory, let us ever hold, Christ's thorny crown, His pains untold,\nThe bitter cross whereon He died, The nails, the lance that pierced His Side."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "And may we constantly recall\nThe reed, the vinegar, the gall, The anguish of that last dread hour,\nThose Sacred Wounds whence graces shower."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "O, may these thoughts our souls imbue With sweetness of celestial dew,\n'Til, fostered by His tender care, The glorious fruits of grace they bear."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "O crucified, we worship Thee\nAnd beg with all our hearts that we May be united through Thy love With all the saints in Heav'n above."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free, Who suffered on the cruel tree, Be praise and honour endlessly."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Amen."
+                "en-US": "Oh, may the Passion of the Lord, Whereby salvation is restored,\nThe mind with love for Him inspire, Our solace and our hearts' desire.\n\nIn memory, let us ever hold, Christ's thorny crown, His pains untold,\nThe bitter cross whereon He died, The nails, the lance that pierced His Side.\n\nAnd may we constantly recall\nThe reed, the vinegar, the gall, The anguish of that last dread hour,\nThose Sacred Wounds whence graces shower.\n\nO, may these thoughts our souls imbue With sweetness of celestial dew,\n'Til, fostered by His tender care, The glorious fruits of grace they bear.\n\nO crucified, we worship Thee\nAnd beg with all our hearts that we May be united through Thy love With all the saints in Heav'n above.\n\nTo Christ, the Lord of Majesty,\nBetrayed and sold to set us free, Who suffered on the cruel tree, Be praise and honour endlessly.\n\nAmen."
               }
             },
             {
@@ -116,7 +139,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -128,7 +151,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm II"
               }
@@ -140,7 +163,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -152,10 +175,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. I have forsaken my house; I have left mine inheritance.\n℟. I have given my dear soul into the hands of sinners."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "I have forsaken my house; I have left mine inheritance."
+                  },
+                  "r": {
+                    "en-US": "I have given my dear soul into the hands of sinners."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
@@ -164,31 +194,52 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Absolution"
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "May the Passion of our Lord Jesus Christ bring us to the joys of Paradise."
+                  },
+                  "r": {
+                    "en-US": "Amen."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
+              "speaker": "people",
               "inline": {
-                "en-US": "℣. May the Passion of our Lord Jesus Christ bring us to the joys of Paradise.\n℟. Amen.\n(℟. Pray, Father, a blessing.)"
+                "en-US": "Pray, Father, a blessing."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Blessing"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Through His holy Passion, may our Lord grant unto us His benediction.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Through His holy Passion, may our Lord grant unto us His benediction."
+                  },
+                  "r": {
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "First Lesson (S. John 19. 1-3)"
               }
@@ -196,29 +247,56 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Pilate took Jesus, and scourged Him. And the soldiers, platting a crown of thorns, put it upon His head: and they put on Him a purple garment. And they came to Him and said: Hail, King of the Jews. And they buffeted Him and, spitting upon Him, they took the reed and struck His Head.\n℣. But Thou, O Lord, have mercy upon us.\n℟. Thanks be to God."
+                "en-US": "Pilate took Jesus, and scourged Him. And the soldiers, platting a crown of thorns, put it upon His head: and they put on Him a purple garment. And they came to Him and said: Hail, King of the Jews. And they buffeted Him and, spitting upon Him, they took the reed and struck His Head."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "But Thou, O Lord, have mercy upon us."
+                  },
+                  "r": {
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. The ancients consulted together, that, by subtlety, they might apprehend Jesus and put Him to death. They went out, as it were to a robber, with swords and clubs.\n(℟. Pray, Father, a blessing.)"
+                "en-US": "The ancients consulted together, that, by subtlety, they might apprehend Jesus and put Him to death. They went out, as it were to a robber, with swords and clubs."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "speaker": "people",
+              "inline": {
+                "en-US": "Pray, Father, a blessing."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "en-US": "Blessing"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Through the might of His Holy Cross, may our Lord bring us to the joys of light and truth.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Through the might of His Holy Cross, may our Lord bring us to the joys of light and truth."
+                  },
+                  "r": {
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Second Lesson (S. John 19. 16-18; S. Luke 23. 34)"
               }
@@ -226,20 +304,66 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "But the soldiers took Jesus and led Him forth, and, bearing His own cross, He went forth to that place which is called Calvary but, in Hebrew, Golgotha, where they crucified Him and, with Him, two others, one on each side, and Jesus in the midst. And Jesus said: Father, forgive them, for they know not what they do.\n℣. But Thou, Lord, have mercy upon us.\n℟. Thanks be to God."
+                "en-US": "But the soldiers took Jesus and led Him forth, and, bearing His own cross, He went forth to that place which is called Calvary but, in Hebrew, Golgotha, where they crucified Him and, with Him, two others, one on each side, and Jesus in the midst. And Jesus said: Father, forgive them, for they know not what they do."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "But Thou, Lord, have mercy upon us."
+                  },
+                  "r": {
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. You are come out, as it were, to a robber, with swords and clubs, to apprehend Me.\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n℟. And when they had laid hands on Jesus and taken Him, He said to them:\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n(℟. Pray, Father, a blessing.)"
+                "en-US": "You are come out, as it were, to a robber, with swords and clubs, to apprehend Me."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified."
+                  },
+                  "r": {
+                    "en-US": "And when they had laid hands on Jesus and taken Him, He said to them:"
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. I have forsaken my house; I have left mine inheritance.\n℟. I have given my dear soul into the hands of sinners."
+                "en-US": "I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified."
               }
+            },
+            {
+              "type": "prayer",
+              "speaker": "people",
+              "inline": {
+                "en-US": "Pray, Father, a blessing."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "I have forsaken my house; I have left mine inheritance."
+                  },
+                  "r": {
+                    "en-US": "I have given my dear soul into the hands of sinners."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
@@ -248,31 +372,52 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Absolution"
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "May the Passion of our Lord Jesus Christ bring us to the joys of Paradise."
+                  },
+                  "r": {
+                    "en-US": "Amen."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
+              "speaker": "people",
               "inline": {
-                "en-US": "℣. May the Passion of our Lord Jesus Christ bring us to the joys of Paradise.\n℟. Amen.\n(℟. Pray, Father, a blessing.)"
+                "en-US": "Pray, Father, a blessing."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Blessing"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Through His holy Passion, may our Lord grant unto us His benediction.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Through His holy Passion, may our Lord grant unto us His benediction."
+                  },
+                  "r": {
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "First Lesson (S. John 19. 1-3)"
               }
@@ -280,29 +425,56 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Pilate took Jesus, and scourged Him. And the soldiers, platting a crown of thorns, put it upon His head: and they put on Him a purple garment. And they came to Him and said: Hail, King of the Jews. And they buffeted Him and, spitting upon Him, they took the reed and struck His Head.\n℣. But Thou, O Lord, have mercy upon us.\n℟. Thanks be to God."
+                "en-US": "Pilate took Jesus, and scourged Him. And the soldiers, platting a crown of thorns, put it upon His head: and they put on Him a purple garment. And they came to Him and said: Hail, King of the Jews. And they buffeted Him and, spitting upon Him, they took the reed and struck His Head."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "But Thou, O Lord, have mercy upon us."
+                  },
+                  "r": {
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. The ancients consulted together, that, by subtlety, they might apprehend Jesus and put Him to death. They went out, as it were to a robber, with swords and clubs.\n(℟. Pray, Father, a blessing.)"
+                "en-US": "The ancients consulted together, that, by subtlety, they might apprehend Jesus and put Him to death. They went out, as it were to a robber, with swords and clubs."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "speaker": "people",
+              "inline": {
+                "en-US": "Pray, Father, a blessing."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "en-US": "Blessing"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Through the might of His Holy Cross, may our Lord bring us to the joys of light and truth.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Through the might of His Holy Cross, may our Lord bring us to the joys of light and truth."
+                  },
+                  "r": {
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Second Lesson (S. John 19. 16-18; S. Luke 23. 34)"
               }
@@ -310,29 +482,75 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "But the soldiers took Jesus and led Him forth, and, bearing His own cross, He went forth to that place which is called Calvary but, in Hebrew, Golgotha, where they crucified Him and, with Him, two others, one on each side, and Jesus in the midst. And Jesus said: Father, forgive them, for they know not what they do.\n℣. But Thou, Lord, have mercy upon us.\n℟. Thanks be to God."
+                "en-US": "But the soldiers took Jesus and led Him forth, and, bearing His own cross, He went forth to that place which is called Calvary but, in Hebrew, Golgotha, where they crucified Him and, with Him, two others, one on each side, and Jesus in the midst. And Jesus said: Father, forgive them, for they know not what they do."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "But Thou, Lord, have mercy upon us."
+                  },
+                  "r": {
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. You are come out, as it were, to a robber, with swords and clubs, to apprehend Me.\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n℟. And when they had laid hands on Jesus and taken Him, He said to them:\n℣. I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified.\n(℟. Pray, Father, a blessing.)"
+                "en-US": "You are come out, as it were, to a robber, with swords and clubs, to apprehend Me."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified."
+                  },
+                  "r": {
+                    "en-US": "And when they had laid hands on Jesus and taken Him, He said to them:"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "I was daily with you in the temple teaching, and you laid not hands on Me, and lo!, you scourge Me and lead Me to be crucified."
+              }
+            },
+            {
+              "type": "prayer",
+              "speaker": "people",
+              "inline": {
+                "en-US": "Pray, Father, a blessing."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "en-US": "Blessing"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. May the sprinkling of Christ's Blood be our everlasting health and protection.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "May the sprinkling of Christ's Blood be our everlasting health and protection."
+                  },
+                  "r": {
+                    "en-US": "Amen."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Third Lesson (S. John 19. 28-30)"
               }
@@ -340,13 +558,58 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Afterwards, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said: I thirst. Now there was a vessel set there full of vinegar. And they, putting a sponge full of vinegar about hyssop, put it to His mouth. Jesus, therefore, when He had taken the vinegar, said: It is consummated. And, bowing His head, He gave up the ghost.\n℣. But Thou, Lord, have mercy upon us.\n℟. Thanks be to God."
+                "en-US": "Afterwards, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said: I thirst. Now there was a vessel set there full of vinegar. And they, putting a sponge full of vinegar about hyssop, put it to His mouth. Jesus, therefore, when He had taken the vinegar, said: It is consummated. And, bowing His head, He gave up the ghost."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "But Thou, Lord, have mercy upon us."
+                  },
+                  "r": {
+                    "en-US": "Thanks be to God."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Darkness covered the earth, whilst the Jews crucified Jesus. And about the ninth hour, Jesus cried out with a loud voice:\n℣. My God, My God, why hast Thou forsaken Me? And, bowing down His head, He gave up the ghost.\n℟. Jesus, crying out with a loud voice, said: Father, into Thy hands I commend My Spirit.\n℣. And, bowing down His head, He gave up the ghost.\n℟. Glory be to the Father and to the Son and to the Holy Ghost,\n℣. And, bowing down His head, He gave up the ghost."
+                "en-US": "Darkness covered the earth, whilst the Jews crucified Jesus. And about the ninth hour, Jesus cried out with a loud voice:"
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "My God, My God, why hast Thou forsaken Me? And, bowing down His head, He gave up the ghost."
+                  },
+                  "r": {
+                    "en-US": "Jesus, crying out with a loud voice, said: Father, into Thy hands I commend My Spirit."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "And, bowing down His head, He gave up the ghost."
+                  },
+                  "r": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "And, bowing down His head, He gave up the ghost."
               }
             }
           ]
@@ -359,13 +622,39 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen. Praise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen. Praise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -377,7 +666,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm XII"
               }
@@ -389,7 +678,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -401,7 +690,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Little Chapter (Lamentations 4. 20)"
               }
@@ -415,29 +704,36 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℟. Thanks be to God."
+                "en-US": "Thanks be to God."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "Now let us all with one accord\nTo Christ our Captain anthems raise,\nWhose conquering cross our life restored,\nLet Heaven resound with songs of praise.\nO, may Thy dreadful agony With true contrition rend our breast,\nAnd make us ever seek for Thee, O Jesus, our Redeemer blest.\nThose blissful scars which Jesus bore,\nThe scourging, spitting, buffeting, To us have won for evermore\nTh'eternal gifts of Christ our King.\nLet not Thy Blood be shed in vain\nBut to our hearts its power apply.\nAnd wash them clean from every stain,\nCreator of the starry sky.\nThe gifts from which Thy Passion flow\nGrant us, O Saviour, of Thy grace.\nAnd, in Thy faithfulness bestow,\nThe Heavenly vision of Thy Face.\nTo Christ, the Lord of Majesty, Betrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. He gave His cheek to him that struck Him.\n℟. He was filled with reproaches."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "He gave His cheek to him that struck Him."
+                  },
+                  "r": {
+                    "en-US": "He was filled with reproaches."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -449,7 +745,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Canticle of Zachary (S. Luke 1. 68-80)"
               }
@@ -461,7 +757,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -473,15 +769,40 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Lord, have mercy."
+                  },
+                  "r": {
+                    "en-US": "Christ, have mercy."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+                "en-US": "Lord, have mercy."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, at the hour of Matins, didst will to be betrayed, captured, bound, scourged, buffeted and spit upon for the salvation of mankind: make us, we beseech Thee, to receive reproaches and injuries with joy for the glory of Thy Name, and so to keep the memory of Thy most holy Passion ever in mind, that we may deserve to be made partakers in Thy Resurrection, Who livest and reignest, world without end.\n℟. Amen."
+                "en-US": "O Lord Jesus Christ, Who, at the hour of Matins, didst will to be betrayed, captured, bound, scourged, buffeted and spit upon for the salvation of mankind: make us, we beseech Thee, to receive reproaches and injuries with joy for the glory of Thy Name, and so to keep the memory of Thy most holy Passion ever in mind, that we may deserve to be made partakers in Thy Resurrection, Who livest and reignest, world without end."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Amen."
               }
             }
           ]
@@ -494,37 +815,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen.\nPraise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "O Sun of Justice,\nThou Whose rays,\nBy sinful hands,\nwere veiled from gaze,\nO Thou Who,\nmocked on bended knee,\nWas scourged for us most piteously."
+                "en-US": "O Sun of Justice,\nThou Whose rays,\nBy sinful hands,\nwere veiled from gaze,\nO Thou Who,\nmocked on bended knee,\nWas scourged for us most piteously.\n\nWith fervent love,\nO Lord, we pray, Have mercy on our souls today;\nAnd lead us from this dark world's night\nTo see in Heaven Thy glorious light.\n\nTo Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree,\nBe praise and honour endlessly.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "With fervent love,\nO Lord, we pray, Have mercy on our souls today;\nAnd lead us from this dark world's night\nTo see in Heaven Thy glorious light."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree,\nBe praise and honour endlessly.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -536,7 +871,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm XLII"
               }
@@ -548,7 +883,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -560,7 +895,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Little Chapter (Hebrews 12. 3)"
               }
@@ -568,25 +903,63 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Think diligently upon Him that endured such opposition from sinners against Himself, that you be not wearied, fainting in your minds.\n℟. Thanks be to God."
+                "en-US": "Think diligently upon Him that endured such opposition from sinners against Himself, that you be not wearied, fainting in your minds."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. When He was reviled, He did not revile.\n℟. And when He suffered, He threatened not."
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "When He was reviled, He did not revile."
+                  },
+                  "r": {
+                    "en-US": "And when He suffered, He threatened not."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Lord, have mercy."
+                  },
+                  "r": {
+                    "en-US": "Christ, have mercy."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Lord, have mercy."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+                "en-US": "O Lord Jesus Christ, Judge of all judges, Who, at the first hour of the day, wast brought before the governor Pilate for us sinners, and didst there receive a most severe sentence: we humbly beseech Thee to succour us when we shall be arraigned before Thee, that, in that Last Judgement, we may not be condemned to eternal punishment, but may be found worthy to have fellowship with Thy faithful in Heaven, Who livest and reignest, world without end."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Let us pray,\nO Lord Jesus Christ, Judge of all judges, Who, at the first hour of the day, wast brought before the governor Pilate for us sinners, and didst there receive a most severe sentence: we humbly beseech Thee to succour us when we shall be arraigned before Thee, that, in that Last Judgement, we may not be condemned to eternal punishment, but may be found worthy to have fellowship with Thy faithful in Heaven, Who livest and reignest, world without end.\n℟. Amen."
+                "en-US": "Amen."
               }
             }
           ]
@@ -599,37 +972,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen. Praise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen. Praise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Thou, Who, at this third hour, wast led\nFor guilty man, Thy Blood to shed,\nBearing the cross they laid on Thee,\nThe weight of this world's misery."
+                "en-US": "Thou, Who, at this third hour, wast led\nFor guilty man, Thy Blood to shed,\nBearing the cross they laid on Thee,\nThe weight of this world's misery.\n\nO fill our hearts with love, and bless\nOur life, with fruits of holiness.\nUntil, when strife is o'er, we stand\nBefore Thee in the Heavenly land.\n\nTo Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "O fill our hearts with love, and bless\nOur life, with fruits of holiness.\nUntil, when strife is o'er, we stand\nBefore Thee in the Heavenly land."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -641,7 +1028,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm LXIII"
               }
@@ -653,7 +1040,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -665,7 +1052,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Little Chapter (I Peter 2. 21-22)"
               }
@@ -673,25 +1060,63 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Christ suffered for us, leaving you an example that you should follow His steps, Who did no sin, neither was guile found in His mouth.\n℟. Thanks be to God."
+                "en-US": "Christ suffered for us, leaving you an example that you should follow His steps, Who did no sin, neither was guile found in His mouth."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. He was offered because it was His own will.\n℟. And He Himself bore our iniquities."
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "He was offered because it was His own will."
+                  },
+                  "r": {
+                    "en-US": "And He Himself bore our iniquities."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Lord, have mercy."
+                  },
+                  "r": {
+                    "en-US": "Christ, have mercy."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Lord, have mercy."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+                "en-US": "O Lord Jesus Christ, Son of the living God, Who, at the third hour of the day, wast led forth to the torment of the cross for the salvation of the whole world: we humbly beseech Thee that, by the power of Thy most holy Passion, Thou mayest blot out all our sins, and bring us, in Thy mercy, to the glory of Thine everlasting bliss, Who livest and reignest, world without end."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Let us pray,\nO Lord Jesus Christ, Son of the living God, Who, at the third hour of the day, wast led forth to the torment of the cross for the salvation of the whole world: we humbly beseech Thee that, by the power of Thy most holy Passion, Thou mayest blot out all our sins, and bring us, in Thy mercy, to the glory of Thine everlasting bliss, Who livest and reignest, world without end.\n℟. Amen."
+                "en-US": "Amen."
               }
             }
           ]
@@ -704,37 +1129,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen.\nPraise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Jesus was hanged upon the tree, And thirsted in His agony, In hands and feet He deigned to bear The cruel nails that held Him there."
+                "en-US": "Jesus was hanged upon the tree, And thirsted in His agony, In hands and feet He deigned to bear The cruel nails that held Him there.\n\nHonour and blessing ever be, O Jesus crucified, to Thee, Who, by Thy death and bitter pain, Didst bring us exiles home again.\n\nTo Christ, the Lord of Majesty, Betrayed and sold to set us free, Who suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Honour and blessing ever be, O Jesus crucified, to Thee, Who, by Thy death and bitter pain, Didst bring us exiles home again."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "To Christ, the Lord of Majesty, Betrayed and sold to set us free, Who suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -746,7 +1185,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm CXV"
               }
@@ -758,7 +1197,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -770,7 +1209,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Little Chapter (I Peter 2. 23-24)"
               }
@@ -778,25 +1217,63 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "He delivered Himself to him that judged Him unjustly, Who His own Self bore our sins in His Body on the tree, that we, being dead to sins, should live to justice; by Whose stripes we were healed.\n℟. Thanks be to God."
+                "en-US": "He delivered Himself to him that judged Him unjustly, Who His own Self bore our sins in His Body on the tree, that we, being dead to sins, should live to justice; by Whose stripes we were healed."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. He was offered because it was His own will.\n℟. And He Himself bore our iniquities."
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "He was offered because it was His own will."
+                  },
+                  "r": {
+                    "en-US": "And He Himself bore our iniquities."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Lord, have mercy."
+                  },
+                  "r": {
+                    "en-US": "Christ, have mercy."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Lord, have mercy."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+                "en-US": "O Lord Jesus Christ, Who, at the sixth hour of the day, didst mount upon the gibbet of the cross and, thirsting for our salvation, didst suffer gall and vinegar to be given Thee to drink: we humbly beseech Thee to enkindle Thy fire in our hearts, and make us to thirst for the chalice of Thy Passion, Who livest and reignest, world without end."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, at the sixth hour of the day, didst mount upon the gibbet of the cross and, thirsting for our salvation, didst suffer gall and vinegar to be given Thee to drink: we humbly beseech Thee to enkindle Thy fire in our hearts, and make us to thirst for the chalice of Thy Passion, Who livest and reignest, world without end.\n℟. Amen."
+                "en-US": "Amen."
               }
             }
           ]
@@ -809,37 +1286,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen. Praise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen. Praise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "May Christ's most blessed Passion win\nDeliverance from death and sin,\nWhereby, to man, the hope is given Of everlasting joys in Heaven."
+                "en-US": "May Christ's most blessed Passion win\nDeliverance from death and sin,\nWhereby, to man, the hope is given Of everlasting joys in Heaven.\n\nGlory to Christ, our Lord on high,\nWho, with one last trumpet\ncry, Gave up His soul upon the cross And saved the world from endless loss.\n\nTo Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Glory to Christ, our Lord on high,\nWho, with one last trumpet\ncry, Gave up His soul upon the cross And saved the world from endless loss."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -851,7 +1342,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm CXLI"
               }
@@ -863,7 +1354,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -875,7 +1366,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Little Chapter (Hebrews 2. 10)"
               }
@@ -883,25 +1374,63 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "It became Him for Whom are all things and by Whom are all things, Who had brought many children into glory, to perfect the Author of their salvation by His Passion.\n℟. Thanks be to God."
+                "en-US": "It became Him for Whom are all things and by Whom are all things, Who had brought many children into glory, to perfect the Author of their salvation by His Passion."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. He hath delivered His Soul unto death.\n℟. And He was reputed with the wicked."
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "He hath delivered His Soul unto death."
+                  },
+                  "r": {
+                    "en-US": "And He was reputed with the wicked."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Lord, have mercy."
+                  },
+                  "r": {
+                    "en-US": "Christ, have mercy."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Lord, have mercy."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+                "en-US": "O Lord Jesus Christ, Who, with arms outstretched on the cross and head bowed down, didst, at the ninth hour of the day, yield up Thy Spirit to God Thy Father and, with the key of Thy death, didst vouchsafe to unlock the gates of Paradise, grant to us, Thy unworthy suppliants, that, in the hour of our death, our souls, through Thy mercy, may attain to Thee Who art the true Paradise, Who livest and reignest, world without end."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, with arms outstretched on the cross and head bowed down, didst, at the ninth hour of the day, yield up Thy Spirit to God Thy Father and, with the key of Thy death, didst vouchsafe to unlock the gates of Paradise, grant to us, Thy unworthy suppliants, that, in the hour of our death, our souls, through Thy mercy, may attain to Thee Who art the true Paradise, Who livest and reignest, world without end.\n℟. Amen."
+                "en-US": "Amen."
               }
             }
           ]
@@ -914,13 +1443,39 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen.\nPraise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -932,7 +1487,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm XXIX"
               }
@@ -944,7 +1499,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -956,7 +1511,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Little Chapter (Hebrews 2. 9)"
               }
@@ -964,29 +1519,42 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "We see Jesus, for the suffering of death, crowned with glory and honour; that, through the grace of God, He might taste death for all.\n℟. Thanks be to God."
+                "en-US": "We see Jesus, for the suffering of death, crowned with glory and honour; that, through the grace of God, He might taste death for all."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "en-US": "Thanks be to God."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "en-US": "O Thou Who, through death's agony,\nFor man, didst break sin's barrier down,\nBring us to find true peace in Thee,\nJesus, Who art the virgin's crown.\nA bitter potion Thou didst drain\n'Mid cruel scorn and suffering Thou spotless\nLamb, for sinners slain, O Lord most High, eternal King.\nTo all Thy faithful, who, this day,\nThy Sacred Passion bear in mind:\nGive saving health and grace to pray,\nJesus, Redeemer of mankind.\nUpon the altar of the tree Flowed forth, in streams,\nThy Blood divine: O Jesus,\nKing of clemency, In Whom the Father's light doth shine.\nO Blood of Christ, Whose glorious might\nDid strike the demon with despair:\nGrant we may come in robes of white\nThe Lamb's great marriage feast to share.\nTo Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree,\nBe praise and honour endlessly.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. The chastisement of our sins was upon Him.\n℟. For, by His stripes, we were healed."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "The chastisement of our sins was upon Him."
+                  },
+                  "r": {
+                    "en-US": "For, by His stripes, we were healed."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -998,7 +1566,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "The Magnificat (S. Luke 1. 46-55)"
               }
@@ -1010,7 +1578,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -1022,15 +1590,40 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Lord, have mercy."
+                  },
+                  "r": {
+                    "en-US": "Christ, have mercy."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+                "en-US": "Lord, have mercy."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, according to the pious belief of the faithful, didst, at the hour of Vespers, will to be taken down from the cross and laid dead in the arms of Thy mother: grant, we beseech Thee, that, laying aside the burden of our sins, we may be presented in the sight of Thy divine Majesty, Who livest and reignest, world without end.\n℟. Amen."
+                "en-US": "O Lord Jesus Christ, Who, according to the pious belief of the faithful, didst, at the hour of Vespers, will to be taken down from the cross and laid dead in the arms of Thy mother: grant, we beseech Thee, that, laying aside the burden of our sins, we may be presented in the sight of Thy divine Majesty, Who livest and reignest, world without end."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Amen."
               }
             }
           ]
@@ -1043,13 +1636,52 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Convert us, O God our Saviour."
+                  },
+                  "r": {
+                    "en-US": "And turn away Thine anger from us."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto mine aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Glory be to the Father and to the Son and to the Holy Ghost,"
+                  },
+                  "r": {
+                    "en-US": "As it was in the beginning, is now and ever shall be, world without end."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Convert us, O God our Saviour.\n℟. And turn away Thine anger from us.\n℣. Incline unto mine aid, O God.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father and to the Son and to the Holy Ghost,\n℟. As it was in the beginning, is now and ever shall be, world without end.\nAmen.\nPraise be to Thee, O Lord, King of everlasting glory."
+                "en-US": "Amen.\nPraise be to Thee, O Lord, King of everlasting glory."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -1061,7 +1693,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm LXXXVII"
               }
@@ -1073,7 +1705,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -1085,31 +1717,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "O sinless King, Who, at the close\nOf day, didst in the rock repose:\nDo Thou our restless passions still\nAnd win our hearts to do Thy will."
+                "en-US": "O sinless King, Who, at the close\nOf day, didst in the rock repose:\nDo Thou our restless passions still\nAnd win our hearts to do Thy will.\n\nLord, succour in the conflict dread\nThe soul for whom Thy Blood was shed;\nAnd bring us when life's trials cease To rest in Thine eternal peace.\n\nTo Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Lord, succour in the conflict dread\nThe soul for whom Thy Blood was shed;\nAnd bring us when life's trials cease To rest in Thine eternal peace."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "To Christ, the Lord of Majesty,\nBetrayed and sold to set us free,\nWho suffered on the cruel tree, Be praise and honour endlessly.\nAmen."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Little Chapter (I Peter 4. 1)"
               }
@@ -1117,17 +1737,30 @@
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Christ, having suffered in the flesh, be you also armed with the same thought.\n℟. Thanks be to God."
+                "en-US": "Christ, having suffered in the flesh, be you also armed with the same thought."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. And His place is in peace.\n℟. And His abode in Sion."
+                "en-US": "Thanks be to God."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "And His place is in peace."
+                  },
+                  "r": {
+                    "en-US": "And His abode in Sion."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -1139,7 +1772,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "The Canticle of Simeon (S. Luke 2. 29-32)"
               }
@@ -1151,7 +1784,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -1163,15 +1796,40 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Lord, have mercy."
+                  },
+                  "r": {
+                    "en-US": "Christ, have mercy."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. Lord, have mercy.\n℟. Christ, have mercy.\n℣. Lord, have mercy."
+                "en-US": "Lord, have mercy."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Let us pray."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Let us pray,\nO Lord Jesus Christ, Who, at the last hour of the day, didst repose in the tomb, and wast lamented by Thy sorrowful mother and the other holy women: grant, we beseech Thee, that we may mourn for Thee with all the devotion of our hearts, and, abounding with tears of compunction, we may, with ardent desire, ever meditate upon Thy most glorious Passion, Who livest and reignest, world without end.\n℟. Amen."
+                "en-US": "O Lord Jesus Christ, Who, at the last hour of the day, didst repose in the tomb, and wast lamented by Thy sorrowful mother and the other holy women: grant, we beseech Thee, that we may mourn for Thee with all the devotion of our hearts, and, abounding with tears of compunction, we may, with ardent desire, ever meditate upon Thy most glorious Passion, Who livest and reignest, world without end."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "Amen."
               }
             }
           ]

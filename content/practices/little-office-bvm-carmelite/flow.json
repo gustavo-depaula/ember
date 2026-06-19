@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Praenotanda"
       }
@@ -75,19 +75,65 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣.Ave Maria, gratia plena; Dominus tecum.\n℟.Benedicta tu in mulieribus, et benedictus fructus ventris tui.\n℣. Domine, labia ✠ ea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ave Maria, gratia plena; Dominus tecum."
+                  },
+                  "r": {
+                    "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia ✠ ea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Invitatory"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -99,7 +145,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -111,7 +157,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 94"
               }
@@ -123,7 +169,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -135,7 +181,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -147,39 +193,15 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Quem terra, pontus, aethera\nColunt, adorant, praedicant,\nTrinam regentem machinam,\nClaustrum Mariae bajulat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Cui luna, sol et omnia\nDeserviunt per tempora,\nPerfusa caeli gratia,\nGestant puellae viscera."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Beata Mater munere,\nCujus, supernus Artifex\nMundum pugillo continens,\nVentris sub arca clausus est."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Beata caeli nuntio,\nFecunda Sancto Spiritu,\nDesideratus gentibus\nCujus per alvum fusus est."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Gloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
+                "la": "Quem terra, pontus, aethera\nColunt, adorant, praedicant,\nTrinam regentem machinam,\nClaustrum Mariae bajulat.\n\nCui luna, sol et omnia\nDeserviunt per tempora,\nPerfusa caeli gratia,\nGestant puellae viscera.\n\nBeata Mater munere,\nCujus, supernus Artifex\nMundum pugillo continens,\nVentris sub arca clausus est.\n\nBeata caeli nuntio,\nFecunda Sancto Spiritu,\nDesideratus gentibus\nCujus per alvum fusus est.\n\nGloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
               }
             },
             {
@@ -231,7 +253,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -243,7 +265,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 8"
               }
@@ -255,7 +277,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 18"
               }
@@ -267,7 +289,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 23"
               }
@@ -279,7 +301,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -291,10 +313,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sancta Dei Genitrix, Virgo Semper Maria.\n℟. Intercede pro nobis, ad Dominum, Deum nostrum. (Alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sancta Dei Genitrix, Virgo Semper Maria."
+                  },
+                  "r": {
+                    "la": "Intercede pro nobis, ad Dominum, Deum nostrum. (Alleluja)."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -303,7 +332,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -315,7 +344,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 44"
               }
@@ -327,7 +356,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 45"
               }
@@ -339,7 +368,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 86"
               }
@@ -351,7 +380,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -363,10 +392,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Post partum, Virgo, inviolata, permansisti.\n℟. Dei Genitrix, intercede pro nobis. (Alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Post partum, Virgo, inviolata, permansisti."
+                  },
+                  "r": {
+                    "la": "Dei Genitrix, intercede pro nobis. (Alleluja)."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -375,7 +411,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -387,7 +423,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 95"
               }
@@ -399,7 +435,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 96"
               }
@@ -411,7 +447,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 97"
               }
@@ -423,7 +459,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -435,10 +471,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Speciosa facta es et suavis.\n℟. In deliciis tuis, sancta Dei Genitrix. (Alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Speciosa facta es et suavis."
+                  },
+                  "r": {
+                    "la": "In deliciis tuis, sancta Dei Genitrix. (Alleluja)."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
@@ -447,13 +490,20 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Et ne nos inducas in tentationem:\n℟. Sed libera nos a malo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et ne nos inducas in tentationem:"
+                  },
+                  "r": {
+                    "la": "Sed libera nos a malo."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Bend."
               }
@@ -461,17 +511,23 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Alma Virgo virginum intercedat pro nobis ad Dominum.\n℟. Amen."
+                "la": "Alma Virgo virginum intercedat pro nobis ad Dominum."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio i"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Cant. 3, 6; 4, 7 et 12"
               }
@@ -479,17 +535,41 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Quae est ista, quae ascendit per desertum, sicut virgula fumi ex aromatibus myrrhae, et thuris, et universi pulveris pigmentarii? Tota pulchra es, amica mea, et macula non est in te. Hortus conclusus, soror mea sponsa, hortus conclusus, fons signatus.\nTu autem, Domine, miserere nostri.\n℟. Deo gratias."
+                "la": "Quae est ista, quae ascendit per desertum, sicut virgula fumi ex aromatibus myrrhae, et thuris, et universi pulveris pigmentarii? Tota pulchra es, amica mea, et macula non est in te. Hortus conclusus, soror mea sponsa, hortus conclusus, fons signatus.\nTu autem, Domine, miserere nostri."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Sancta et immaculata virginitas,\nquibus te laudibus efferam, nescio: Quia quem caeli capere non poterant, tuo gremio contulisti. (Alleluia).\n℣. Benedicta tu in mulieribus, et benedictus fructus ventris tui. Quia.\n℣. Jube, domne, benedicere."
+                "la": "Deo gratias."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta et immaculata virginitas,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "quibus te laudibus efferam, nescio: Quia quem caeli capere non poterant, tuo gremio contulisti. (Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui. Quia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jube, domne, benedicere."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Bened."
               }
@@ -497,11 +577,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Nos cum prole pia benedicat Virgo Maria.\n℟. Amen."
+                "la": "Nos cum prole pia benedicat Virgo Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio ii"
               }
@@ -515,11 +601,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ego quasi terebinthus extendi ramos meos: et rami mei honoris et gratiae. Ego quasi vitis fructificavi suavitatem odoris, et flores mei fructus honoris et honestatis. Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis.\nTu autem, Domine, miserere nostri.\n℟. Deo gratias.\n℣. Beata es, Virgo Maria, quae Dominum portasti, Creatorem mundi: Genusisti qui te fecit, et in aeternum permanes Virgo. (Alleluia).\n℣. Ave, Maria, gratia plena; Dominus tecum. Genusisti.\n℣. Jube, domne, benedicere."
+                "la": "Ego quasi terebinthus extendi ramos meos: et rami mei honoris et gratiae. Ego quasi vitis fructificavi suavitatem odoris, et flores mei fructus honoris et honestatis. Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis.\nTu autem, Domine, miserere nostri."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Beata es, Virgo Maria, quae Dominum portasti, Creatorem mundi: Genusisti qui te fecit, et in aeternum permanes Virgo. (Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ave, Maria, gratia plena; Dominus tecum. Genusisti."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jube, domne, benedicere."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Bened."
               }
@@ -527,11 +637,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sancta Dei Genetrix sit nobis auxiliatrix.\n℟. Amen."
+                "la": "Sancta Dei Genetrix sit nobis auxiliatrix."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio iii"
               }
@@ -545,29 +661,41 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Transite ad me, omnes, qui concupiscitis me; et a generationibus meis implemini. Spiritus enim meus super mel dulcis: et hereditas mea super mel et favum. Memoria mea in generationes saeculorum. Qui audit me, non confundetur; et qui operantur in me, non peccabunt. Qui elucidant me, vitam aeternam habebunt.\nTu autem, Domine, miserere nostri.\n℟. Deo gratias."
+                "la": "Transite ad me, omnes, qui concupiscitis me; et a generationibus meis implemini. Spiritus enim meus super mel dulcis: et hereditas mea super mel et favum. Memoria mea in generationes saeculorum. Qui audit me, non confundetur; et qui operantur in me, non peccabunt. Qui elucidant me, vitam aeternam habebunt.\nTu autem, Domine, miserere nostri."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Felix namque es, sacra Virgo Maria, et omni laude dignissima: Quia ex te ortus est sol justitiae, Christus, Deus noster. (Alleluia).\n℣. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem. Quia. Gloria Patri. Quia."
+                "la": "Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Felix namque es, sacra Virgo Maria, et omni laude dignissima: Quia ex te ortus est sol justitiae, Christus, Deus noster. (Alleluia)."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem. Quia. Gloria Patri. Quia."
               }
             },
             {
               "type": "rubric",
               "text": {
-                "la": "Sequens Hymnus Te Deum omittitur a Dominica Septuagesimae usque ad Sabbatum sanctum inclusive, praeter quam in Festis B. Mariae Virginis; quo omisso non repetitur ℣. Felix namque es."
+                "la": "Sequens Hymnus Te Deum omittitur a Dominica Septuagesimae usque ad Sabbatum sanctum inclusive, praeter quam in Festis B. Mariae Virginis; quo omisso non repetitur versus Felix namque es."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus Ambrosianus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Te Deum laudamus: te Dominum confitemur.\nTe aeternum Patrem omnis terra veneratur.\nTibi omnes angeli, tibi Caeli, et universae Potestates:\nTibi Cherubim et Seraphim incessabili voce proclamant:\nSanctus, Sanctus, Sanctus Dominus Deus Sabaoth.\nPleni sunt caeli et terra maiestatis gloriae tuae.\nTe gloriosus Apostolorum chorus,\nTe Prophetarum laudabilis numerus,\nTe Martyrum candidatus laudat exercitus.\nTe per orbem terrarum sancta confitetur Ecclesia,\nPatrem immensae maiestatis;\nVenerandum tuum verum et unicum Filium;\nSanctum quoque Paraclitum Spiritum.\nTu Rex gloriae, Christe.\nTu Patris sempiternus es Filius.\nTu, ad liberandum suscepturus hominem: non horruisti Virginis uterum.\nTu, devicto mortis aculeo, aperuisti credentibus regna caelorum.\nTu ad dexteram Dei sedes, in gloria Patris.\nJudex crederis esse venturus."
               }
@@ -585,21 +713,28 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Sacerd."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancta Dei Genitrix.\n℟. Ut digni efficiamur promissionibus Christi. (Alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Dei Genitrix."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi. (Alleluja)."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
               "text": {
-                "la": "Si Matutinum a Laudibus separetur, post Versum Sacerdotalem dicitur ℣. Domine, exaudi, Oratio Deus, qui et reliqua sicut in fine Laudum 28, et in principio Laudum dicitur ℣. Ave, Maria, ut in ceteris Horis."
+                "la": "Si Matutinum a Laudibus separetur, post Versum Sacerdotalem dicitur versus Domine, exaudi, Oratio Deus, qui et reliqua sicut in fine Laudum 28, et in principio Laudum dicitur versus Ave, Maria, ut in ceteris Horis."
               }
             },
             {
@@ -608,11 +743,23 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Jube, Domine, benedicere.\nBened. Alma Virgo virginum intercedat pro nobis ad Dominum.\n℟. Amen."
+                "la": "Jube, Domine, benedicere."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Bened. Alma Virgo virginum intercedat pro nobis ad Dominum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio i - Luc. 1, 26-38"
               }
@@ -620,23 +767,42 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Issus est Angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David, et nomen Virginis Maria. Et, ingressus Angelus ad eam, dixit: Ave, gratia plena; Dominus tecum: Benedicta tu in mulieribus. Tu autem, Domine, miserere nostri.\n℟. Deo gratias."
+                "la": "Issus est Angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David, et nomen Virginis Maria. Et, ingressus Angelus ad eam, dixit: Ave, gratia plena; Dominus tecum: Benedicta tu in mulieribus. Tu autem, Domine, miserere nostri."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Missus est Angelus Gabriel ad Mariam Virginem desponsatam Joseph, nuntians ei verbum; et expavescit Virgo de lumine: ne timeas, Maria; invenisti enim gratiam apud Deum:\n℣. Ecce, concipies et paries, et Filius Altissimi vocabitur.\n℟. Dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum. Ecce."
+                "la": "Deo gratias."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Jube, Domine, benedicere."
+                "la": "Missus est Angelus Gabriel ad Mariam Virginem desponsatam Joseph, nuntians ei verbum; et expavescit Virgo de lumine: ne timeas, Maria; invenisti enim gratiam apud Deum:"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ecce, concipies et paries, et Filius Altissimi vocabitur."
+                  },
+                  "r": {
+                    "la": "Dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum. Ecce."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jube, Domine, benedicere."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Bened."
               }
@@ -644,11 +810,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Nos cum prole pia benedicat Virgo Maria.\n℟. Amen."
+                "la": "Nos cum prole pia benedicat Virgo Maria."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio ij"
               }
@@ -656,23 +828,42 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Quae cum audisset, turbata est in sermone ejus, et cogitabat qualis esset ista salutatio. Et ait Angelus ei: Ne timeas, Maria; invenisti enim gratiam apud Deum: ecce, concipies in utero et paries filium, et vocabis nomen ejus Jesum. Hic erit magnus, et Filius Altissimi vocabitur; et dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum, et regni ejus non erit finis. Tu autem, Domine, miserere nostri.\n℟. Deo gratias."
+                "la": "Quae cum audisset, turbata est in sermone ejus, et cogitabat qualis esset ista salutatio. Et ait Angelus ei: Ne timeas, Maria; invenisti enim gratiam apud Deum: ecce, concipies in utero et paries filium, et vocabis nomen ejus Jesum. Hic erit magnus, et Filius Altissimi vocabitur; et dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum, et regni ejus non erit finis. Tu autem, Domine, miserere nostri."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Ave, Maria, gratia plena; Dominus tecum:\n℣. Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: ideoque et quod nascetur ex te Sanctum, vocabitur Filius Dei.\n℟. Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus, dixit ei: Spiritus Sanctus."
+                "la": "Deo gratias."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Jube, Domine, benedicere."
+                "la": "Ave, Maria, gratia plena; Dominus tecum:"
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: ideoque et quod nascetur ex te Sanctum, vocabitur Filius Dei."
+                  },
+                  "r": {
+                    "la": "Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus, dixit ei: Spiritus Sanctus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Jube, Domine, benedicere."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Bened."
               }
@@ -680,11 +871,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sancta Dei Genitrix sit nobis auxilatrix.\n℟. Amen."
+                "la": "Sancta Dei Genitrix sit nobis auxilatrix."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Lectio iij"
               }
@@ -692,7 +889,19 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Dixit autem Maria ad Angelum: Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus dixit ei: Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: ideoque et quod nascetur ex te Sanctum, vocabitur Filius Dei. Et ecce, Elisabeth, cognata tua, et ipsa concepit filium in senectute sua, et hic mensis sextus est illi, quae vocatur sterilis; quia non erit impossibile apud Deum omne verbum. Dixit autem Maria: Ecce ancilla Domini: fiat mihi secundum verbum tuum.\nTu autem, Domine, miserere nostri.\n℟. Deo gratias.\n℣. Suscipe verbum, Virgo Maria, quod tibi a Domino per Angelum transmissum est: con."
+                "la": "Dixit autem Maria ad Angelum: Quomodo fiet istud, quoniam virum non cognosco? Et respondens Angelus dixit ei: Spiritus Sanctus superveniet in te, et virtus Altissimi obumbrabit tibi: ideoque et quod nascetur ex te Sanctum, vocabitur Filius Dei. Et ecce, Elisabeth, cognata tua, et ipsa concepit filium in senectute sua, et hic mensis sextus est illi, quae vocatur sterilis; quia non erit impossibile apud Deum omne verbum. Dixit autem Maria: Ecce ancilla Domini: fiat mihi secundum verbum tuum.\nTu autem, Domine, miserere nostri."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Suscipe verbum, Virgo Maria, quod tibi a Domino per Angelum transmissum est: con."
               }
             },
             {
@@ -704,20 +913,27 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Suscipe verbum."
+                "la": "Suscipe verbum."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Sacerd."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancta Dei Genitrix.\n℟. Ut digni efficiamur promissionibus Christi. (Alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Dei Genitrix."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi. (Alleluja)."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -730,13 +946,33 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (Outside Lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (Outside Lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -748,7 +984,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 92"
               }
@@ -760,7 +996,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 99"
               }
@@ -772,7 +1008,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 62"
               }
@@ -784,7 +1020,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum Trium Puerorum"
               }
@@ -796,7 +1032,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 148"
               }
@@ -804,11 +1040,23 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Laudate Dominum de caelis: laudate eum in excelsis.\nLaudate eum, omnes angeli ejus: laudate eum, omnes virtutes ejus.\nLaudate eum, sol et luna: laudate eum, omnes stellae et lumen.\nLaudate eum, caeli caelorum: et aquae omnes, quae super caelos sunt, laudent nomen Domini.\nQuia ipse dixit, et facta sunt: ipse mandavit, et creata sunt.\nStatuit ea in aeternum, et in saeculum saeculi: praeceptum posuit, et non praeteribit.\nLaudate Dominum de terra, dracones, et omnes abyssi.\nIgnis, grando, nix, glacies, spiritus procellarum: quae faciunt verbum ejus:\nMontes, et omnes colles: ligna fructifera, et omnes cedri.\nBestiae, et universa pecora: serpentes, et volucres pennatae:\nReges terrae, et omnes populi: principes, et omnes judices terrae.\nJuvenes, et virgines: senes cum junioribus laudent nomen Domini: quia exaltatum est nomen ejus solius.\nConfessio ejus super caelum et terram: et exaltavit cornu populi sui.\nHymnus omnibus sanctis ejus: filiis Israel, populo appropinquanti sibi.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Laudate Dominum de caelis: laudate eum in excelsis.\nLaudate eum, omnes angeli ejus: laudate eum, omnes virtutes ejus.\nLaudate eum, sol et luna: laudate eum, omnes stellae et lumen.\nLaudate eum, caeli caelorum: et aquae omnes, quae super caelos sunt, laudent nomen Domini.\nQuia ipse dixit, et facta sunt: ipse mandavit, et creata sunt.\nStatuit ea in aeternum, et in saeculum saeculi: praeceptum posuit, et non praeteribit.\nLaudate Dominum de terra, dracones, et omnes abyssi.\nIgnis, grando, nix, glacies, spiritus procellarum: quae faciunt verbum ejus:\nMontes, et omnes colles: ligna fructifera, et omnes cedri.\nBestiae, et universa pecora: serpentes, et volucres pennatae:\nReges terrae, et omnes populi: principes, et omnes judices terrae.\nJuvenes, et virgines: senes cum junioribus laudent nomen Domini: quia exaltatum est nomen ejus solius.\nConfessio ejus super caelum et terram: et exaltavit cornu populi sui."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus omnibus sanctis ejus: filiis Israel, populo appropinquanti sibi."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -820,7 +1068,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Little Chapter - Cant vi"
               }
@@ -828,37 +1076,25 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.\n℟. Deo gratias."
+                "la": "Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O gloriosa Domina,\nExcelsa super sidera,\nQui te creavit, provide\nLactasti sacro ubere."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quod Heva tristis abstulit,\nTu reddis almo germine:\nIntrent ut astra flebiles,\nCaeli fenestra facta es."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Tu Regis alti janua\nEt porta lucis fulgida:\nVitam datam per Virginem,\nGentes redemptae, plaudite."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Gloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
+                "la": "O gloriosa Domina,\nExcelsa super sidera,\nQui te creavit, provide\nLactasti sacro ubere.\n\nQuod Heva tristis abstulit,\nTu reddis almo germine:\nIntrent ut astra flebiles,\nCaeli fenestra facta es.\n\nTu Regis alti janua\nEt porta lucis fulgida:\nVitam datam per Virginem,\nGentes redemptae, plaudite.\n\nGloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
               }
             },
             {
@@ -904,10 +1140,17 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Elegit eam Deus, et praelegit eam.\n℟. Et habitare eam facit in tabernaculo suo. (Alleluia)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Elegit eam Deus, et praelegit eam."
+                  },
+                  "r": {
+                    "la": "Et habitare eam facit in tabernaculo suo. (Alleluia)."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -928,7 +1171,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -946,7 +1189,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -964,7 +1207,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -976,31 +1219,64 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nDeus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, ejus apud te intercessionibus adjuvemur. Per eundem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Benedicamus Domino. (Alleluia, alleluia).\n℟. Deo gratias. (Alleluia, alleluia)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, ejus apud te intercessionibus adjuvemur. Per eundem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino. (Alleluia, alleluia)."
+                  },
+                  "r": {
+                    "la": "Deo gratias. (Alleluia, alleluia)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1008,20 +1284,45 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluia).\n℣. Dignare me laudare te, Virgo sacrata.\n℟. Da mihi virtutem contra hostes tuos. (Alleluia)."
+                "la": "Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluia)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dignare me laudare te, Virgo sacrata."
+                  },
+                  "r": {
+                    "la": "Da mihi virtutem contra hostes tuos. (Alleluia)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.\n℟. Amen."
+                "la": "Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1033,7 +1334,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Is. 11, 1-2"
               }
@@ -1041,7 +1342,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Egreditur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.\n℟. Deo gratias."
+                "la": "Egreditur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
               }
             },
             {
@@ -1057,9 +1364,21 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, ejus apud te intercessionibus adjuvemur.\nPer eumdem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
+                "la": "Deus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, ejus apud te intercessionibus adjuvemur.\nPer eumdem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
@@ -1072,7 +1391,7 @@
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1096,9 +1415,21 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui salutis aeternae, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
+                "la": "Deus, qui salutis aeternae, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
@@ -1118,33 +1449,54 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣.Ave Maria, gratia plena; Dominus tecum.\n℟.Benedicta tu in mulieribus, et benedictus fructus ventris tui.\n℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ave Maria, gratia plena; Dominus tecum."
+                  },
+                  "r": {
+                    "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine\nNascendo, formam sumpseris."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Maria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Gloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
+                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine\nNascendo, formam sumpseris.\n\nMaria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe.\n\nGloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
               }
             },
             {
@@ -1190,7 +1542,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1202,7 +1554,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 53"
               }
@@ -1214,7 +1566,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 116"
               }
@@ -1226,7 +1578,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 117"
               }
@@ -1238,7 +1590,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1250,7 +1602,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Cant. 6, 9"
               }
@@ -1258,20 +1610,66 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Quae est ista, quae progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?\n℟. Deo gratias."
+                "la": "Quae est ista, quae progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?"
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Sancta Maria, Mater Christi, Audi rogantes servulos.\n℟. Sancta.\n℣. Et impetratam nobis caelitus tu defer indulgentiam.\n℟. Audi.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sancta."
+                "la": "Deo gratias."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sancta Dei Genitrix, Virgo semper Maria.\n℟. Intercede pro nobis ad Dominum, Deum nostrum."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sancta Maria, Mater Christi, Audi rogantes servulos."
+                  },
+                  "r": {
+                    "la": "Sancta."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Et impetratam nobis caelitus tu defer indulgentiam."
+                  },
+                  "r": {
+                    "la": "Audi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sancta."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sancta Dei Genitrix, Virgo semper Maria."
+                  },
+                  "r": {
+                    "la": "Intercede pro nobis ad Dominum, Deum nostrum."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -1280,43 +1678,114 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sancta Maria, Mater Christi, audi rogantes servulos, Alleluja, alleluja."
+                  },
+                  "r": {
+                    "la": "Sancta."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Sancta Maria, Mater Christi, audi rogantes servulos, Alleluja, alleluja.\n℟. Sancta.\nEt impetratam nobis caelitus tu defer indulgentiam.\n℟. Alleluja, alleluja.\n℣. Gloria Patri.\n℟. Sancta.\n℣. Sancta Dei Genitrix, Virgo semper Maria."
+                "la": "Et impetratam nobis caelitus tu defer indulgentiam."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Intercede pro nobis ad Dominum, Deum nostrum, alleluja."
+                "la": "Alleluja, alleluja."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri."
+                  },
+                  "r": {
+                    "la": "Sancta."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Dei Genitrix, Virgo semper Maria."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+                "la": "Intercede pro nobis ad Dominum, Deum nostrum, alleluja."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nConcede, misericors Deus, fragilitati nostrae praesidium: ut, qui sanctae Dei Genitricis memoriam agimus: intercessionis ejus auxilio, a nostris iniquitatibus resurgamus. Per eundem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te véniat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Benedicamus Domino. (Alleluja, alleluja).\n℟. Deo gratias. (Alleluja, alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Concede, misericors Deus, fragilitati nostrae praesidium: ut, qui sanctae Dei Genitricis memoriam agimus: intercessionis ejus auxilio, a nostris iniquitatibus resurgamus. Per eundem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te véniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino. (Alleluja, alleluja)."
+                  },
+                  "r": {
+                    "la": "Deo gratias. (Alleluja, alleluja)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1328,22 +1797,41 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Dignare me laudare te, Virgo sacrata.\n℟. Da mihi virtutem contra hostes tuos. (Alleluja)."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dignare me laudare te, Virgo sacrata."
+                  },
+                  "r": {
+                    "la": "Da mihi virtutem contra hostes tuos. (Alleluja)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercéssio gloriosa nos protegat: et ad vitam perducat aetérnam. Per Christum, Dominum nostrum.\n℟. Amen."
+                "la": "Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercéssio gloriosa nos protegat: et ad vitam perducat aetérnam. Per Christum, Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1355,7 +1843,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Is. 45, 8"
               }
@@ -1363,14 +1851,20 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Orate, caeli, desuper, et nubes pluant justum: aperiat terra, et germinet Salvatorem: et justitia oriatum simul. Ego Dominus creavi eum.\n℟. Deo gratias."
+                "la": "Orate, caeli, desuper, et nubes pluant justum: aperiat terra, et germinet Salvatorem: et justitia oriatum simul. Ego Dominus creavi eum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1392,33 +1886,54 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣.Ave Maria, gratia plena; Dominus tecum.\n℟.Benedicta tu in mulieribus, et benedictus fructus ventris tui.\n℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ave Maria, gratia plena; Dominus tecum."
+                  },
+                  "r": {
+                    "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine Nascendo,\nformam sumpseris."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Maria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Gloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
+                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine Nascendo,\nformam sumpseris.\n\nMaria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe.\n\nGloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterna saecula.\nAmen."
               }
             },
             {
@@ -1464,7 +1979,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1476,7 +1991,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 119"
               }
@@ -1488,7 +2003,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 120"
               }
@@ -1500,7 +2015,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 121"
               }
@@ -1512,7 +2027,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1524,7 +2039,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Eccli. 24, 15"
               }
@@ -1532,14 +2047,39 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.\n℟. Deo gratias."
+                "la": "Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Sancta Dei Genitrix, Virgo semper Maria. Sancta.\n℣. Intercede pro nobis ad Dominum, Deum nostrum. Virgo. Gloria Patri, et Filio, et Spiritui Sancto. Sancta.\n℣. Post partum, Virgo, inviolata permansisti.\n℟. Dei Genitrix, intercede pro nobis."
+                "la": "Deo gratias."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Sancta Dei Genitrix, Virgo semper Maria. Sancta."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Intercede pro nobis ad Dominum, Deum nostrum. Virgo. Gloria Patri, et Filio, et Spiritui Sancto. Sancta."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Post partum, Virgo, inviolata permansisti."
+                  },
+                  "r": {
+                    "la": "Dei Genitrix, intercede pro nobis."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -1550,35 +2090,87 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Sancta Dei Genitrix, Virgo semper Maria, Alleluja, alleluja. Sancta.\n℣. Intercede pro nobis ad Dominum, Deum nostrum. Alleluja, alleluja. Gloria Patri. Sancta.\n℣. Post partum, Virgo, inviolata permansisti.\n℟. Dei Genitrix, intercede pro nobis, alleluja."
+                "la": "Sancta Dei Genitrix, Virgo semper Maria, Alleluja, alleluja. Sancta."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+                "la": "Intercede pro nobis ad Dominum, Deum nostrum. Alleluja, alleluja. Gloria Patri. Sancta."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nDeus, qui salutis aeternæ, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere, Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Post partum, Virgo, inviolata permansisti."
+                  },
+                  "r": {
+                    "la": "Dei Genitrix, intercede pro nobis, alleluja."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Benedicamus Domino. (Alleluja).\n℟. Deo gratias."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui salutis aeternæ, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere, Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino. (Alleluja)."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1590,22 +2182,41 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Dignare me laudare te, Virgo sacrata.\n℟. Da mihi virtutem contra hostes tuos. (Alleluja)."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dignare me laudare te, Virgo sacrata."
+                  },
+                  "r": {
+                    "la": "Da mihi virtutem contra hostes tuos. (Alleluja)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.\n℟. Amen."
+                "la": "Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1617,7 +2228,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Is. 7, 14-15"
               }
@@ -1625,14 +2236,20 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ecce, Virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.\n℟. Deo gratias."
+                "la": "Ecce, Virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1654,33 +2271,54 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣.Ave Maria, gratia plena; Dominus tecum.\n℟.Benedicta tu in mulieribus, et benedictus fructus ventris tui.\n℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ave Maria, gratia plena; Dominus tecum."
+                  },
+                  "r": {
+                    "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine\nNascendo, formam sumpseris."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Maria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Gloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterno saecula.\nAmen."
+                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine\nNascendo, formam sumpseris.\n\nMaria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe.\n\nGloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterno saecula.\nAmen."
               }
             },
             {
@@ -1732,7 +2370,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 122"
               }
@@ -1744,7 +2382,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 123"
               }
@@ -1756,7 +2394,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 124"
               }
@@ -1768,7 +2406,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1780,7 +2418,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum Eccli. 24, 16"
               }
@@ -1788,20 +2426,39 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.\n℟. Deo gratias."
+                "la": "Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Post partum, Virgo, Inviolata permansisti. Post.\n℟. Dei Genitrix, intercede pro nobis. Inviolata. Gloria Patri, et Filio, et Spiritui Sancto. Post."
+                "la": "Deo gratias."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Speciosa facta es et suavis.\n℟. In deliciis tuis, sancta Dei Genitrix."
+                "la": "Post partum, Virgo, Inviolata permansisti. Post."
               }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dei Genitrix, intercede pro nobis. Inviolata. Gloria Patri, et Filio, et Spiritui Sancto. Post."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Speciosa facta es et suavis."
+                  },
+                  "r": {
+                    "la": "In deliciis tuis, sancta Dei Genitrix."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -1812,29 +2469,87 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℟. Post partum, Virgo, inviolata permansisti, Alleluia, alleluia. Post.\n℣. Dei Genitrix, intercede pro nobis. Alleluia, alleluia. Gloria Patri. Post.\n℣. Speciosa facta es et suavis.\n℟. In deliciis tuis, sancta Dei Genitrix, alleluia."
+                "la": "Post partum, Virgo, inviolata permansisti, Alleluia, alleluia. Post."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
+                "la": "Dei Genitrix, intercede pro nobis. Alleluia, alleluia. Gloria Patri. Post."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nDeus, qui virginalem aulam beatae Mariae Virginis, in qua habitare, eligere dignatus es: da, quaesumus; ut sua nos defensione muniamus, jucundos suae facias interesse commemorationi: Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Speciosa facta es et suavis."
+                  },
+                  "r": {
+                    "la": "In deliciis tuis, sancta Dei Genitrix, alleluia."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino. (Alleluia).\n℟. Deo gratias. (Alleluia)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, qui virginalem aulam beatae Mariae Virginis, in qua habitare, eligere dignatus es: da, quaesumus; ut sua nos defensione muniamus, jucundos suae facias interesse commemorationi: Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino. (Alleluia)."
+                  },
+                  "r": {
+                    "la": "Deo gratias. (Alleluia)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1846,22 +2561,41 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Dignare me laudare te, Virgo sacrata.\n℟. Da mihi virtutem contra hostes tuos. (Alleluia)."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dignare me laudare te, Virgo sacrata."
+                  },
+                  "r": {
+                    "la": "Da mihi virtutem contra hostes tuos. (Alleluia)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeate et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.\n℟. Amen."
+                "la": "Beate et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1873,7 +2607,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Is. 11, 1-2"
               }
@@ -1881,14 +2615,20 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Egreditur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.\n℟. Deo gratias."
+                "la": "Egreditur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1910,33 +2650,54 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣.Ave Maria, gratia plena; Dominus tecum.\n℟.Benedicta tu in mulieribus, et benedictus fructus ventris tui.\n℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ave Maria, gratia plena; Dominus tecum."
+                  },
+                  "r": {
+                    "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine\nNascendo, formam sumpseris."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Maria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Gloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterno saecula.\nAmen."
+                "la": "Memento, salutis Auctor,\nQuod nostri quondam corporis,\nEx illibata Virgine\nNascendo, formam sumpseris.\n\nMaria, Mater gratiae,\nMater misericordiae,\nTu nos ab hoste protege\nEt hora mortis suscipe.\n\nGloria tibi, Domine,\nQui natus es de Virgine,\nCum Patre, et Sancto Spiritu,\nIn sempiterno saecula.\nAmen."
               }
             },
             {
@@ -1982,7 +2743,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -1994,7 +2755,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 125"
               }
@@ -2006,7 +2767,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 126"
               }
@@ -2018,7 +2779,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 127"
               }
@@ -2030,7 +2791,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2042,7 +2803,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Eccli. 24, 19-20"
               }
@@ -2050,14 +2811,40 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "In plateis sicut cinnamomum et balsamum aromatizans odorem dedi: quasi myrrha electa dedi suavitatem odoris.\n℟. Deo gratias."
+                "la": "In plateis sicut cinnamomum et balsamum aromatizans odorem dedi: quasi myrrha electa dedi suavitatem odoris."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Speciosa facta es et suavis.\n℟. In deliciis tuis, sancta Dei Genitrix.\n℣. Eligit eam Deus, et praelegit eam.\n℟. Et habitare eam facit in tabernaculo suo."
+                "la": "Deo gratias."
               }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Speciosa facta es et suavis."
+                  },
+                  "r": {
+                    "la": "In deliciis tuis, sancta Dei Genitrix."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Eligit eam Deus, et praelegit eam."
+                  },
+                  "r": {
+                    "la": "Et habitare eam facit in tabernaculo suo."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -2066,37 +2853,90 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Speciosa facta es et suavis, Alleluja, alleluja.\n℟. In deliciis tuis, sancta Dei Genitrix. Alleluja, alleluja. Gloria Patri. Speciosa.\n℣. Eligit eam Deus, et praelegit eam.\n℟. Et habitare eam facit in tabernaculo suo, alleluja."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Speciosa facta es et suavis, Alleluja, alleluja."
+                  },
+                  "r": {
+                    "la": "In deliciis tuis, sancta Dei Genitrix. Alleluja, alleluja. Gloria Patri. Speciosa."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Eligit eam Deus, et praelegit eam."
+                  },
+                  "r": {
+                    "la": "Et habitare eam facit in tabernaculo suo, alleluja."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nAmulorum tuorum, quaesumus, Domine, delictis ignosce: ut, qui placere de actibus nostris vellemus, Genitricis Filii tui intercessione salvemur. Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Benedicamus Domino. (Alleluja).\n℟. Deo gratias. (Alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amulorum tuorum, quaesumus, Domine, delictis ignosce: ut, qui placere de actibus nostris vellemus, Genitricis Filii tui intercessione salvemur. Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino. (Alleluja)."
+                  },
+                  "r": {
+                    "la": "Deo gratias. (Alleluja)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2104,20 +2944,45 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluja).\n℣. Dignare me laudare te, Virgo sacrata.\n℟. Da mihi virtutem contra hostes tuos. (Alleluja)."
+                "la": "Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluja)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dignare me laudare te, Virgo sacrata."
+                  },
+                  "r": {
+                    "la": "Da mihi virtutem contra hostes tuos. (Alleluja)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.\n℟. Amen."
+                "la": "Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2137,14 +3002,20 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum, et regni ejus non erit finis.\n℟. Deo gratias."
+                "la": "Dabit illi Dominus Deus sedem David, patris ejus; et regnabit in domo Jacob in aeternum, et regni ejus non erit finis."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2172,10 +3043,43 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣.Ave Maria, gratia plena; Dominus tecum.\n℟.Benedicta tu in mulieribus, et benedictus fructus ventris tui.\n℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ave Maria, gratia plena; Dominus tecum."
+                  },
+                  "r": {
+                    "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -2184,7 +3088,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 109"
               }
@@ -2196,7 +3100,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 112"
               }
@@ -2208,7 +3112,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 121"
               }
@@ -2220,7 +3124,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 126"
               }
@@ -2232,7 +3136,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 147"
               }
@@ -2244,7 +3148,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2256,7 +3160,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum Eccli. 24, 14"
               }
@@ -2264,62 +3168,39 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.\n℟. Deo gratias."
+                "la": "Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ave, maris stella,\nDei Mater alma,\nAtque semper Virgo,\nFelix caeli porta."
+                "la": "Ave, maris stella,\nDei Mater alma,\nAtque semper Virgo,\nFelix caeli porta.\n\nSumens illud Ave\nGabrielis ore,\nFunda nos in pace,\nMutans Evae nomen.\n\nSolve vincula reis,\nProfer lumen caecis,\nMala nostra pelle,\nBona cuncta posse.\n\nMonstra te esse matrem,\nSumat per te preces,\nQui pro nobis natus\nTulit esse tuus.\n\nVirgo singularis,\nInter omnes mitis,\nNos, culpis solutos,\nMites fac et castos.\n\nVitram praesta puram,\nIter para tutum,\nUt, videntes Jesum,\nSemper collaetemur.\n\nSit laus Deo Patri,\nSummo Christo decus,\nSpiritui Sancto,\nTribus honor unus.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sumens illud Ave\nGabrielis ore,\nFunda nos in pace,\nMutans Evae nomen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Solve vincula reis,\nProfer lumen caecis,\nMala nostra pelle,\nBona cuncta posse."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Monstra te esse matrem,\nSumat per te preces,\nQui pro nobis natus\nTulit esse tuus."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Virgo singularis,\nInter omnes mitis,\nNos, culpis solutos,\nMites fac et castos."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Vitram praesta puram,\nIter para tutum,\nUt, videntes Jesum,\nSemper collaetemur."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit laus Deo Patri,\nSummo Christo decus,\nSpiritui Sancto,\nTribus honor unus.\nAmen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis, sancta Dei Genitrix.\n℟. Ut digni efficiamur promissionibus Christi. (Alleluja)."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Dei Genitrix."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi. (Alleluja)."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
@@ -2346,7 +3227,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canricum B.M.V - Luc. 1, 46-55"
               }
@@ -2358,7 +3239,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2382,25 +3263,51 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nConcede nos famulos tuos, quaesumus, Domine Deus, perpetua mentis et corporis sanitate gaudere: et, gloriosa beatae Mariae semper Virginis intercessione, a praesentii liberari tristitia et aeterna perfrui laetitia. Per Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Concede nos famulos tuos, quaesumus, Domine Deus, perpetua mentis et corporis sanitate gaudere: et, gloriosa beatae Mariae semper Virginis intercessione, a praesentii liberari tristitia et aeterna perfrui laetitia. Per Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2412,22 +3319,47 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dignare me laudare te, Virgo sacrata."
+                  },
+                  "r": {
+                    "la": "Da mihi virtutem contra hostes tuos."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Dignare me laudare te, Virgo sacrata.\n℟. Da mihi virtutem contra hostes tuos.\n(Alleluja)."
+                "la": "(Alleluja)."
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.\n℟. Amen."
+                "la": "Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             },
             {
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2439,7 +3371,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum - Is. 7, 14-15"
               }
@@ -2447,7 +3379,13 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ecce, Virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.\n℟. Deo gratias."
+                "la": "Ecce, Virgo concipiet et pariet filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
               }
             },
             {
@@ -2466,7 +3404,7 @@
               "type": "divider"
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2500,13 +3438,59 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣.Ave Maria, gratia plena; Dominus tecum.\n℟.Benedicta tu in mulieribus, et benedictus fructus ventris tui.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus ✠ in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ave Maria, gratia plena; Dominus tecum."
+                  },
+                  "r": {
+                    "la": "Benedicta tu in mulieribus, et benedictus fructus ventris tui."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus ✠ in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+                  },
+                  "r": {
+                    "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen. (outside lent:) Alleluia. (from Septuagesima to Holy Saturday:) Laus tibi, Domine, Rex aeternae gloriae."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2518,7 +3502,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 12"
               }
@@ -2530,7 +3514,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 42"
               }
@@ -2542,7 +3526,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 128"
               }
@@ -2554,7 +3538,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalm 130"
               }
@@ -2566,7 +3550,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2578,7 +3562,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum- Eccli. 24, 24"
               }
@@ -2586,41 +3570,42 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.\n℟. Deo gratias."
+                "la": "Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deo gratias."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Virgo singularis,\nInter omnes mitis,\nNos, culpis solutos,\nMites fac et castos."
+                "la": "Virgo singularis,\nInter omnes mitis,\nNos, culpis solutos,\nMites fac et castos.\n\nVitam praesta puram,\nIter para tutum,\nUt, videntes Jesum,\nSemper collaetemur.\n\nSit laus Deo Patri,\nSummo Christo decus,\nSpiritui Sancto,\nTribus honor unus.\nAmen."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vitam praesta puram,\nIter para tutum,\nUt, videntes Jesum,\nSemper collaetemur."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ecce ancilla Domini."
+                  },
+                  "r": {
+                    "la": "Fiat mihi secundum verbum tuum. (Alleluja)."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sit laus Deo Patri,\nSummo Christo decus,\nSpiritui Sancto,\nTribus honor unus.\nAmen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ecce ancilla Domini.\n℟. Fiat mihi secundum verbum tuum. (Alleluja)."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2632,7 +3617,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum Simeonis - Luc, 2, 29-32"
               }
@@ -2644,7 +3629,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2656,25 +3641,51 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nGratiam tuam, quaesumus, Domine, mentibus nostris infunde: ut qui, Angelo nuntiantes, Christi Filii tui Incarnationem cognovimus; per passionem ejus et crucem, ad resurrectionis gloriam perducamur. Per eumdem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum.\n℟. Amen."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
             },
             {
               "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gratiam tuam, quaesumus, Domine, mentibus nostris infunde: ut qui, Angelo nuntiantes, Christi Filii tui Incarnationem cognovimus; per passionem ejus et crucem, ad resurrectionis gloriam perducamur. Per eumdem Dominum nostrum Jesum Christum, Filium tuum: Qui tecum vivit et regnat in unitate Spiritus Sancti Deus: per omnia saecula saeculorum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -2682,13 +3693,38 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluja).\n℣. Dignare me laudare te, Virgo sacrata.\n℟. Da mihi virtutem contra hostes tuos. (Alleluja)."
+                "la": "Virgo Maria, non est tibi similis orta in mundo inter mulieres: florens ut rosa, fragrans sicut lilium: ora pro nobis, sancta Dei Genitrix. (Alleluja)."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dignare me laudare te, Virgo sacrata."
+                  },
+                  "r": {
+                    "la": "Da mihi virtutem contra hostes tuos. (Alleluja)."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nBeatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum.\n℟. Amen."
+                "la": "Beatae et gloriosae semperque Virginis Mariae, quaesumus, Domine, intercessio gloriosa nos protegat: et ad vitam perducat aeternam. Per Christum, Dominum nostrum."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Amen."
               }
             }
           ]

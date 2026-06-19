@@ -32,31 +32,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Fortes avete milites,\nQuorum cruore Japonens,\nEt purpurascit inclytae\nAger ferax Ecclesiae."
+                "la": "Fortes avete milites,\nQuorum cruore Japonens,\nEt purpurascit inclytae\nAger ferax Ecclesiae.\n\nVestro hunc rigate sanguine,\nTerramque cordis aridam.\nFecunda fructus proferat,\nQuos horreis caeli inferat."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vestro hunc rigate sanguine,\nTerramque cordis aridam.\nFecunda fructus proferat,\nQuos horreis caeli inferat."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -68,15 +75,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem oportet gloriari in cruce Domini nostri Jesu Christi.\n℟. Per quem nobis mundus crucifixus est, et nos mundo."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem oportet gloriari in cruce Domini nostri Jesu Christi."
+                  },
+                  "r": {
+                    "la": "Per quem nobis mundus crucifixus est, et nos mundo."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui Beatos Martyres tuos Joannem, Paulum, et Jacobum Martyrio gloria decorasti:\nConcede, quaesumus, ut, quorum gloria coronam in caelis veneramur, eorum fortitudinis exemplum\net passionis constantiam imitemur in terris.\nPer Dominum nostrum, etc."
+                "la": "Deus, qui Beatos Martyres tuos Joannem, Paulum, et Jacobum Martyrio gloria decorasti:\nConcede, quaesumus, ut, quorum gloria coronam in caelis veneramur, eorum fortitudinis exemplum\net passionis constantiam imitemur in terris.\nPer Dominum nostrum, etc."
               }
             }
           ]
@@ -90,34 +110,48 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O lata animos viscera;\nO caritatis pectora!\nQuae non tyranni vincula\nStringere valent, aut verbera."
+                "la": "O lata animos viscera;\nO caritatis pectora!\nQuae non tyranni vincula\nStringere valent, aut verbera.\n\nPer vestra solvi vincula\nNexus rogamus criminum,\nMens ut beatis libera\nCaeli fruatur sedibus."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Per vestra solvi vincula\nNexus rogamus criminum,\nMens ut beatis libera\nCaeli fruatur sedibus."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem oportet gloriari in cruce Domini nostri Jesu Christi.\n℟. Per quem nobis mundus crucifixus est, et nos mundo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem oportet gloriari in cruce Domini nostri Jesu Christi."
+                  },
+                  "r": {
+                    "la": "Per quem nobis mundus crucifixus est, et nos mundo."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -130,34 +164,48 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto, etc."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ad carceres, ad judices\nLaeti trahuntur Martyres,\nIn vinculis, in carcere\nDeum fatentur jugiter."
+                "la": "Ad carceres, ad judices\nLaeti trahuntur Martyres,\nIn vinculis, in carcere\nDeum fatentur jugiter.\n\nConfessione supplices\nVestra precamur, Martyres,\nNumen, quod ore credimus,\nNostris feramus moribus."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Confessione supplices\nVestra precamur, Martyres,\nNumen, quod ore credimus,\nNostris feramus moribus."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem oportet gloriari in cruce Domini nostri Jesu Christi.\n℟. Per quem nobis mundus crucifixus est, et nos mundo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem oportet gloriari in cruce Domini nostri Jesu Christi."
+                  },
+                  "r": {
+                    "la": "Per quem nobis mundus crucifixus est, et nos mundo."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -170,34 +218,48 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Fame premuntur viscera,\nSitique fauces asperae,\nCaeli tamen mens gaudiis\nSolatiisque pascitur."
+                "la": "Fame premuntur viscera,\nSitique fauces asperae,\nCaeli tamen mens gaudiis\nSolatiisque pascitur.\n\nSitim, famemque pellite,\nManna supremum promite,\nVitae perennis rivulos\nDesideratos fundite."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sitim, famemque pellite,\nManna supremum promite,\nVitae perennis rivulos\nDesideratos fundite."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem oportet gloriari in cruce Domini nostri Jesu Christi.\n℟. Per quem nobis mundus crucifixus est, et nos mundo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem oportet gloriari in cruce Domini nostri Jesu Christi."
+                  },
+                  "r": {
+                    "la": "Per quem nobis mundus crucifixus est, et nos mundo."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -210,34 +272,48 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Nares et aures impie\nTibi Tyranne tollito,\nMens verba Sponsi percipiat,\nMelosque gratum personet."
+                "la": "Nares et aures impie\nTibi Tyranne tollito,\nMens verba Sponsi percipiat,\nMelosque gratum personet.\n\nVitae relictis gaudiis,\nChristo vocanti optemperat:\nMundus vilescit, desipit,\nChristusque solus perplacet."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Vitae relictis gaudiis,\nChristo vocanti optemperat:\nMundus vilescit, desipit,\nChristusque solus perplacet."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem oportet gloriari in cruce Domini nostri Jesu Christi.\n℟. Per quem nobis mundus crucifixus est, et nos mundo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem oportet gloriari in cruce Domini nostri Jesu Christi."
+                  },
+                  "r": {
+                    "la": "Per quem nobis mundus crucifixus est, et nos mundo."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -250,34 +326,48 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Gratam Deo se victimam\nIn stipite crucis consecrant,\nUt veriores asseclae\nChristi sui sint Principis."
+                "la": "Gratam Deo se victimam\nIn stipite crucis consecrant,\nUt veriores asseclae\nChristi sui sint Principis.\n\nNobis superno a Numine\nConstantiam depositae,\nCrucem ut feramus alacriter\nAd usque finem fortiter."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Nobis superno a Numine\nConstantiam depositae,\nCrucem ut feramus alacriter\nAd usque finem fortiter."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem oportet gloriari in cruce Domini nostri Jesu Christi.\n℟. Per quem nobis mundus crucifixus est, et nos mundo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem oportet gloriari in cruce Domini nostri Jesu Christi."
+                  },
+                  "r": {
+                    "la": "Per quem nobis mundus crucifixus est, et nos mundo."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -290,34 +380,61 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "O gloriosi Martyres!\nVestrum polorum Principi\nCruore fuso spiritum\nQui reddidistis ultimum,"
+                "la": "O gloriosi Martyres!\nVestrum polorum Principi\nCruore fuso spiritum\nQui reddidistis ultimum,\n\nCor nostrum amoris spiculo\nOfferte Christo saucium,\nIn spiritu vitae ultimo\nOpemque nobis mittite."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Cor nostrum amoris spiculo\nOfferte Christo saucium,\nIn spiritu vitae ultimo\nOpemque nobis mittite."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem oportet gloriari in cruce Domini nostri Jesu Christi.\n℟. Per quem nobis mundus crucifixus est, et nos mundo."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem oportet gloriari in cruce Domini nostri Jesu Christi."
+                  },
+                  "r": {
+                    "la": "Per quem nobis mundus crucifixus est, et nos mundo."
+                  }
+                }
+              ]
             }
           ]
         }
@@ -342,15 +459,28 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Orate pro nobis, beati Martyres.\n℟. Ut digni efficiamur promissionibus Christi."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Orate pro nobis, beati Martyres."
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nOmnipotens aeterne Deus,\nqui servis tuis Paulo, Joanni, et Jacobo\nin Societatem Filii tui vocatis,\nApostolicum studium in Gentium conversionem\net Haereticorum reductionem inspirasti;\nideoque Martyrii gloria decorasti:\nconcede propitius, ut ipsis,\net Passionis Sociis in hoc mundo\net consolationis deinde in aeterna beatitudine esse mereamur.\nPer Dominum nostrum Jesum Christum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum. Amen."
+        "la": "Omnipotens aeterne Deus,\nqui servis tuis Paulo, Joanni, et Jacobo\nin Societatem Filii tui vocatis,\nApostolicum studium in Gentium conversionem\net Haereticorum reductionem inspirasti;\nideoque Martyrii gloria decorasti:\nconcede propitius, ut ipsis,\net Passionis Sociis in hoc mundo\net consolationis deinde in aeterna beatitudine esse mereamur.\nPer Dominum nostrum Jesum Christum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum. Amen."
       }
     }
   ]

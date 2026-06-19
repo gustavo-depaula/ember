@@ -26,81 +26,85 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Petri laudes extollamus,\nNos romanae quotquot stamus\nCastris sub ecclesiae,"
+                "la": "Petri laudes extollamus,\nNos romanae quotquot stamus\nCastris sub ecclesiae,\n\nAlme claviger coelorum,\nRudem ne despexeris chorum\nRhytmo textum simplice!\n\nNam sic belle concordantes\nQui virtutes tam praestantes\nSat laudari valeant!\n\nAmor, timor, mens sincera,\nZelus, fides, spesque vera\nPari melo consonant;\n\nEst in Petro, quam addidicit\nPrinceps, quae in servo gliscat,\nAdest et humilitas,\n\nChristum sequi hic cunctator,\nAb hoc fundere peccator\nJustas discet lachrymas.\n\nIllic proximum juvare,\nDeum unice amare:\nEt, quos mundus detinet,\n\nFluxa quaevís aspernari,\nNudos Christum insectari\nPetrus nos erudit."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Simon Joannis, diligis me? etiam."
+                  },
+                  "r": {
+                    "la": "Domine, tu scis, quia amo te."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis s. Petre apostole,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Alme claviger coelorum,\nRudem ne despexeris chorum\nRhytmo textum simplice!"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Nam sic belle concordantes\nQui virtutes tam praestantes\nSat laudari valeant!"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Amor, timor, mens sincera,\nZelus, fides, spesque vera\nPari melo consonant;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Est in Petro, quam addidicit\nPrinceps, quae in servo gliscat,\nAdest et humilitas,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Christum sequi hic cunctator,\nAb hoc fundere peccator\nJustas discet lachrymas."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Illic proximum juvare,\nDeum unice amare:\nEt, quos mundus detinet,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Fluxa quaevís aspernari,\nNudos Christum insectari\nPetrus nos erudit."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Simon Joannis, diligis me? etiam.\n℟. Domine, tu scis, quia amo te."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis s. Petre apostole,\n℟. Ut digni efficiamur promissionibus Christi."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,\nDeus qui b. Petro apostolo tuo, collatis clavibus regni coelestis, ligandi atque solvendi pontificium tradidisti:\nconcede, ut intercessionis ejus auxilio a peccatorum nostrorum nexibus liberemur.\nQui vivis et regnas cum Deo Patre etc."
+                "la": "Deus qui b. Petro apostolo tuo, collatis clavibus regni coelestis, ligandi atque solvendi pontificium tradidisti:\nconcede, ut intercessionis ejus auxilio a peccatorum nostrorum nexibus liberemur.\nQui vivis et regnas cum Deo Patre etc."
               }
             }
           ]
@@ -120,67 +124,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Hunc piscantem, Piscatoris\nAd capturae dignioris\nOpus traxit Gratia;"
+                "la": "Hunc piscantem, Piscatoris\nAd capturae dignioris\nOpus traxit Gratia;\n\nNam qui iubet sic piscari,\nPisces vitae vult servari,\nQuos prehendant retia,\n\nUnde Petrus se vocantis\nNullum Christi tunc patrantis\nSignum vel prodigium,\n\nVoci cedit, verbo credit,\nSequi iussus, mox obedit,\nQuo vocaret servulum,\n\nVanis praefert veritatem,\nLinquit rete, linquit ratem,\nQuin relinquit omnia;\n\nEt, o felix Bar-Jona\nPro his Christus tibi bona,\nRegna spondet supera:\n\nDumque calcas undas maris,\nTe nutantem, ne mergaris,\nFida manu detinet,\n\nFidem quatit dum tempestas\nEjus alma vim potestas\nProcellarum cohibet."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Nam qui iubet sic piscari,\nPisces vitae vult servari,\nQuos prehendant retia,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Unde Petrus se vocantis\nNullum Christi tunc patrantis\nSignum vel prodigium,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Voci cedit, verbo credit,\nSequi iussus, mox obedit,\nQuo vocaret servulum,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Vanis praefert veritatem,\nLinquit rete, linquit ratem,\nQuin relinquit omnia;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Et, o felix Bar-Jona\nPro his Christus tibi bona,\nRegna spondet supera:"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Dumque calcas undas maris,\nTe nutantem, ne mergaris,\nFida manu detinet,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Fidem quatit dum tempestas\nEjus alma vim potestas\nProcellarum cohibet."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -214,67 +189,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Mota Christi quaestione,\nBrevi claudit sub sermone\nFidem necessariam;"
+                "la": "Mota Christi quaestione,\nBrevi claudit sub sermone\nFidem necessariam;\n\nHunc personam dicit unam,\nSed naturae opportunam\nSimul dat distantiam,\n\nCarni scire, quod negatum,\nSibi Cephas revelatum\nDia profert diphthera\n\nSuper quo, perennatura,\nPetra tanquam super dura\nConditur Ecclesia,\n\nQuin et sorte, ut miranda\nPetre liges, quae liganda,\nRata sint, quae solveris\n\nChristus claves tibi credit,\nQuibus Coeli porta cedit,\nPandas, vel occluseris,\n\nQuodque hic est implicatum,\nSummus Judex et ligatum\nSuper astra voluit;\n\nQuae haec dignitas dicenda?\nAlta plane et tremenda,\nQuam vix sensus percipit."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Hunc personam dicit unam,\nSed naturae opportunam\nSimul dat distantiam,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Carni scire, quod negatum,\nSibi Cephas revelatum\nDia profert diphthera"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Super quo, perennatura,\nPetra tanquam super dura\nConditur Ecclesia,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quin et sorte, ut miranda\nPetre liges, quae liganda,\nRata sint, quae solveris"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Christus claves tibi credit,\nQuibus Coeli porta cedit,\nPandas, vel occluseris,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quodque hic est implicatum,\nSummus Judex et ligatum\nSuper astra voluit;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quae haec dignitas dicenda?\nAlta plane et tremenda,\nQuam vix sensus percipit."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -308,67 +254,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Transformantis se Messiae,\nMoysis simul, et Eliae\nFrueris colloquio,"
+                "la": "Transformantis se Messiae,\nMoysis simul, et Eliae\nFrueris colloquio,\n\nCensens hic manere gratum,\nSemper hoc si foret datum\nEsse in consortio;\n\nAt, quid erit, Majestatem,\nQuid aeternis Deitatem\nContemplari gaudiis?\n\nUbi, junctis tot Beatis,\nUna dies claritatis\nMille praestat saeculis,\n\nPetrus posthac Salvatori\nFidus comes, optat mori\nPariter cum Domino;\n\nZelus calcar est amoris,\nSed et casus est timoris\nJugis admonitio,\n\nTibi Christus eventurum\nQuem praedixit, ne securum\nObruat fiducia,\n\nSed prostratum Patientis\nAnxiumque Resurgentis\nErigat memoria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Censens hic manere gratum,\nSemper hoc si foret datum\nEsse in consortio;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "At, quid erit, Majestatem,\nQuid aeternis Deitatem\nContemplari gaudiis?"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Ubi, junctis tot Beatis,\nUna dies claritatis\nMille praestat saeculis,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Petrus posthac Salvatori\nFidus comes, optat mori\nPariter cum Domino;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Zelus calcar est amoris,\nSed et casus est timoris\nJugis admonitio,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Tibi Christus eventurum\nQuem praedixit, ne securum\nObruat fiducia,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sed prostratum Patientis\nAnxiumque Resurgentis\nErigat memoria."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -402,67 +319,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Ter negavit quod peccavit,\nKursus Amor expiavit,\nTriplex et Confessio:"
+                "la": "Ter negavit quod peccavit,\nKursus Amor expiavit,\nTriplex et Confessio:\n\nHinc sequutos delinquentem\nIam et Petrum poenitentem\nSequi iubet ratio.\n\nSed quam Christus carum gregem\nDet pascendum, prius legem\nCharitatis ponderat,\n\nAmat Petrus, contestatur,\nAmat: Sed haec tremens satur,\nGalli dum meminerat,\n\nAuro carens et argento,\nPosthac claudum in momento\nMembris donat validis,\n\nDat Aeneae sanitatem,\nHinc et inde sospitatem\nAegis fert, et miseris,\n\nQuin ad funus dum Tabithae\nVenit, suis reddit vitae\nPrecibus officia.\n\nSola umbra decumbentes\nPorro sanat, et languentes\nOpe curat coelica."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Hinc sequutos delinquentem\nIam et Petrum poenitentem\nSequi iubet ratio."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sed quam Christus carum gregem\nDet pascendum, prius legem\nCharitatis ponderat,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Amat Petrus, contestatur,\nAmat: Sed haec tremens satur,\nGalli dum meminerat,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Auro carens et argento,\nPosthac claudum in momento\nMembris donat validis,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Dat Aeneae sanitatem,\nHinc et inde sospitatem\nAegis fert, et miseris,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quin ad funus dum Tabithae\nVenit, suis reddit vitae\nPrecibus officia."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sola umbra decumbentes\nPorro sanat, et languentes\nOpe curat coelica."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -496,67 +384,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, etc."
+                "la": "Gloria Patri, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Strictam gregis curam gerit,\nDefraudantes gravi ferit\nConiuges supplicio,"
+                "la": "Strictam gregis curam gerit,\nDefraudantes gravi ferit\nConiuges supplicio,\n\nFraudes damnant et fallaces,\nQuo Divina in mendaces\nMox descendit ultio.\n\nSed et capto dans custodes\nIners fallitur Herodes\nSuo cum satellite,\n\nQuippe vincis relaxatus,\nJam it Petrus liberatus,\nFido cinctus Comite,\n\nMagus utque Petrum odit,\nSic Simonem Petrus prodit\nTurpi de flagitio;\n\nNam volare hic dum quaerit,\nGravi palam lapsu perit\nAsfectante Populo;\n\nUnde Nero insfendescens,\nMagi lapsum miserescens\nPetro fert judicium,\n\nUt in Crucem sublevetur,\nQuo Magistrum imitetur\nPari trabe pendulum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Fraudes damnant et fallaces,\nQuo Divina in mendaces\nMox descendit ultio."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sed et capto dans custodes\nIners fallitur Herodes\nSuo cum satellite,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Quippe vincis relaxatus,\nJam it Petrus liberatus,\nFido cinctus Comite,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Magus utque Petrum odit,\nSic Simonem Petrus prodit\nTurpi de flagitio;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Nam volare hic dum quaerit,\nGravi palam lapsu perit\nAsfectante Populo;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Unde Nero insfendescens,\nMagi lapsum miserescens\nPetro fert judicium,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Ut in Crucem sublevetur,\nQuo Magistrum imitetur\nPari trabe pendulum."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -590,67 +449,51 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Dumque Petro Crux paratur,\nCrucifigi hic laetatur\nEquidem cum Domino,"
+                "la": "Dumque Petro Crux paratur,\nCrucifigi hic laetatur\nEquidem cum Domino,\n\nSed eodem situ lignum\nHaud subire censens dignum\nNisu rogat ultimo:\n\nPedibus ut elevatis,\nInque terram declinatis\nVertice et manibus\n\nCruci suae alligetur,\nNe Magistro par tractetur\nServus et Discipulus,\n\nSic mi Petre! versa cruce\nCoelum scandis; Isthac duce\nFac et nos id scandere,\n\nTuo gregi fores pande\nGnaro, clavium hoc grande\nTibi jus competere,\n\nOves, tuo quas ovili\nHic in terris haud exili\nCura enutviveras,\n\nChristo tandem Redemptori\nPrimo redditas Pastori,\nDuc ad Agni nuptias,"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sed eodem situ lignum\nHaud subire censens dignum\nNisu rogat ultimo:"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Pedibus ut elevatis,\nInque terram declinatis\nVertice et manibus"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Cruci suae alligetur,\nNe Magistro par tractetur\nServus et Discipulus,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sic mi Petre! versa cruce\nCoelum scandis; Isthac duce\nFac et nos id scandere,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Tuo gregi fores pande\nGnaro, clavium hoc grande\nTibi jus competere,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Oves, tuo quas ovili\nHic in terris haud exili\nCura enutviveras,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Christo tandem Redemptori\nPrimo redditas Pastori,\nDuc ad Agni nuptias,"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -662,15 +505,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis S. Petre Apostole.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis S. Petre Apostole."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nMitissime ac Clementissime Deus, qui S. Petrum ex pauperculo piscatore, tuum in terris Vicarium, atque Apostolorum Principem constitutisti, eumque post grave negationis peccatum propitiis tamen respexisti oculis, et ad amarissimam poenitentiam commovisti. Oro te per intimum ejus amorem, et ferventissimas lachrymas, concede mihi gratiam tuam exuberantem, ut voluntati tuae me totum subternens, vocationi meae semper satisfaciam, et in petra Catholicae fidei immote persistere, Te summum Bonum meum in prosperis et adversis, super omnia amem, atque peccata mea contra Divinam Majestatem tuam commissa, vero, et profundissimo dolore plangam, donec tandem in coelis gaudio petrui merear sempiterna; Qui vivis et regnas Deus in saecula saeculorum, Amen."
+                "la": "Mitissime ac Clementissime Deus, qui S. Petrum ex pauperculo piscatore, tuum in terris Vicarium, atque Apostolorum Principem constitutisti, eumque post grave negationis peccatum propitiis tamen respexisti oculis, et ad amarissimam poenitentiam commovisti. Oro te per intimum ejus amorem, et ferventissimas lachrymas, concede mihi gratiam tuam exuberantem, ut voluntati tuae me totum subternens, vocationi meae semper satisfaciam, et in petra Catholicae fidei immote persistere, Te summum Bonum meum in prosperis et adversis, super omnia amem, atque peccata mea contra Divinam Majestatem tuam commissa, vero, et profundissimo dolore plangam, donec tandem in coelis gaudio petrui merear sempiterna; Qui vivis et regnas Deus in saecula saeculorum, Amen."
               }
             }
           ]

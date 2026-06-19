@@ -28,7 +28,39 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina.\n℣. Gloria Patri. Alleluia."
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine, ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
               }
             },
             {
@@ -38,19 +70,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Fatalis o agonis\nPatrona Barbara,\nCoelestibus coronis,\nGemmisque fulgida!\nMoerentis in novissimo\nMors certa spiculo\nSed, Virgo, te favente,\nSum par periculo."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Osee. 2. 19."
               }
@@ -58,20 +90,72 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Sponsabo te mihi in sempiternum; et sponsabo te mihi in justitia et judicio, et in misericordia, et in miserationibus.\n℣. Ora pro nobis, sancta Virgo et Martyr Barbara.\n℟. Ut felix nobis sit mortis hora."
+                "la": "Sponsabo te mihi in sempiternum; et sponsabo te mihi in justitia et judicio, et in misericordia, et in miserationibus."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Virgo et Martyr Barbara."
+                  },
+                  "r": {
+                    "la": "Ut felix nobis sit mortis hora."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nIntercessio, quaesumus, Domine, sanctae virginis et martyris tuae Barbarae nos adjuvet: ut qui ejus patrocinio in angustiis et necessitatibus nostris imploramus, auxilium quoque in hora potissimum mortis experiarmur. Per Dominum nostrum."
+                "la": "Intercessio, quaesumus, Domine, sanctae virginis et martyris tuae Barbarae nos adjuvet: ut qui ejus patrocinio in angustiis et necessitatibus nostris imploramus, auxilium quoque in hora potissimum mortis experiarmur. Per Dominum nostrum."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n℣. Benedicamus Domino.\n℟. Deo gratias.\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi orationem meam."
+                  },
+                  "r": {
+                    "la": "Et clamor meus ad te veniat."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Benedicamus Domino."
+                  },
+                  "r": {
+                    "la": "Deo gratias."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Fidelium animae per misericordiam Dei requiescant in pace."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -86,23 +170,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium meum intende.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium meum intende."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Tu vincis innocenti\nCandore lilia,\nPer prata quae nitenti\nStant lacte turgida.\nDa candido nitore\nUt, Virgo, fulgeam,\nCastoque fac amore\nUt purus ardeam."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Cant. 8. 7."
               }
@@ -116,7 +212,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Ora pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -132,23 +228,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Dum proprio cruore\nAsperas pingeris,\nVincis rosas rubore,\nQuae stant in hortulis.\nO coelico vireto\nPlantatae flosculae!\nHoc orbis in vepreto,\nMe, quaeso, respice."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Sap. 3. 13."
               }
@@ -162,7 +270,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Ora pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -178,23 +286,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Ut axe sunt sereno\nNocturna sidera,\nUt vere sunt amoeno\nJucunda flumina;\nSic, Virgo, charitatis\nEs luce fulgida,\nSic, Virgo, puritatis\nEs rore limpida."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Sap. 4. 1."
               }
@@ -208,7 +328,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Ora pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -224,23 +344,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Te sentiunt patronam\nQuos morbus opprimit,\nTe sublevare pronam\nQuos cura deserit.\nAngore cum super me\nMe morbus opprimit;\nSuccurre, quando nemo\nLevamen adferet."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Eccli. 51. 4."
               }
@@ -254,7 +386,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Ora pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -270,23 +402,35 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Deus, in adjutorium."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Cum ferreo sopore\nMors membra vinciet,\nEt tartarus furore\nBacchante saeviet:\nDum Judicis severi\nTribunal horreo,\nTum, Virgo, me tuere\nNe differ, obsecro."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Matth. 25. 6."
               }
@@ -300,7 +444,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Ora pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]
@@ -316,23 +460,48 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum.\n℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus, in adjutorium.\n℣. Gloria Patri. Alleluia."
+                "la": "Diffusa est gratia in labiis tuis: propterea benedixit te Deus in aeternum."
               }
             },
             {
-              "type": "rubric",
-              "text": {
-                "la": "Hymnus"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Deus, in adjutorium."
               }
             },
             {
               "type": "prayer",
               "inline": {
+                "la": "Gloria Patri. Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Hymnus"
+              }
+            },
+            {
+              "type": "hymn",
+              "inline": {
                 "la": "Amabo te, sanabo,\nDum vita manserit,\nMagisque praedicabo,\nCum vita cessaverit:\nInterque liliata\nCum me receperis,\nQueis gaudiis repleta,\nO Virgo, pasceris."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. Cant. 2. 11, 13."
               }
@@ -346,7 +515,7 @@
             {
               "type": "rubric",
               "text": {
-                "la": "℣. Ora pro nobis, etc.\ncum Oratione, ut supra."
+                "la": "versus Ora pro nobis, etc.\ncum Oratione, ut supra."
               }
             }
           ]

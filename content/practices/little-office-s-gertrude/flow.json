@@ -26,37 +26,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "O Lord, open Thou my lips."
+                  },
+                  "r": {
+                    "en-US": "And my mouth shall declare Thy praise."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "en-US": "℣. O Lord, open Thou my lips.\n℟. And my mouth shall declare Thy praise.\n℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me.\nGlory be to the Father, etc."
+                "en-US": "Glory be to the Father, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Dear Spouse of Virgins, hear us sing\nWith joy a virgin's praise,\nWhom Thou didst in Thy love prepare\nTo join angelic lays."
+                "en-US": "Dear Spouse of Virgins, hear us sing\nWith joy a virgin's praise,\nWhom Thou didst in Thy love prepare\nTo join angelic lays.\n\nAnd hear us, too, O Gertrude, now,\nWhile we thy joys proclaim,\nChanting this office with sweet voice,\nIn honour of thy name.\n\nPraise be to Father, and to Son,\nAnd to the Paraclete,\nBy whom this spouse unto her Lord\nWas joined in union sweet."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "And hear us, too, O Gertrude, now,\nWhile we thy joys proclaim,\nChanting this office with sweet voice,\nIn honour of thy name."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Praise be to Father, and to Son,\nAnd to the Paraclete,\nBy whom this spouse unto her Lord\nWas joined in union sweet."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }
@@ -77,31 +91,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Before all ages thou wert chosen,\nO Gertrude, to obtain\nThe richest treasures which the love\nOf Christ thy Spouse can gain."
+                "en-US": "Before all ages thou wert chosen,\nO Gertrude, to obtain\nThe richest treasures which the love\nOf Christ thy Spouse can gain.\n\nFor this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "For this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }
@@ -122,31 +137,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Thy early dawn of life was filled\nWith equal love and light,\nWhich sweetly drew thy heart and soul\nTo realms of pure delight."
+                "en-US": "Thy early dawn of life was filled\nWith equal love and light,\nWhich sweetly drew thy heart and soul\nTo realms of pure delight.\n\nFor this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "For this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }
@@ -167,31 +183,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Thou hast no other spouse but Christ,\nTo Him thy pure soul turns;\nAnd every thought of other love\nFor love of Him is spurned."
+                "en-US": "Thou hast no other spouse but Christ,\nTo Him thy pure soul turns;\nAnd every thought of other love\nFor love of Him is spurned.\n\nFor this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "For this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }
@@ -212,31 +229,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Thy Spouse, within thy heart enthroned,\nKeeps regal state, and finds His rest;\nWhile others scorn His gentle rule,\nOr drive away the heavenly Guest."
+                "en-US": "Thy Spouse, within thy heart enthroned,\nKeeps regal state, and finds His rest;\nWhile others scorn His gentle rule,\nOr drive away the heavenly Guest.\n\nFor this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "For this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }
@@ -257,31 +275,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "Stronger than death is that strong love\nWhich burns within thy virgin breast,\nMourning thy Jesus slain for thee,\nIn whom alone thy heart can rest."
+                "en-US": "Stronger than death is that strong love\nWhich burns within thy virgin breast,\nMourning thy Jesus slain for thee,\nIn whom alone thy heart can rest.\n\nFor this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "For this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }
@@ -302,31 +321,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "With the right Hand of love He wounds,\nWith the right Hand He victory gains;\nFor love's own victim, who with Him,\nIn everlasting triumph reigns."
+                "en-US": "With the right Hand of love He wounds,\nWith the right Hand He victory gains;\nFor love's own victim, who with Him,\nIn everlasting triumph reigns.\n\nFor this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "For this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }
@@ -347,31 +367,32 @@
           },
           "sections": [
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "℣. Incline unto my aid, O God.\n℟. O Lord, make haste to help me."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "en-US": "Incline unto my aid, O God."
+                  },
+                  "r": {
+                    "en-US": "O Lord, make haste to help me."
+                  }
+                }
+              ]
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "en-US": "And now thy earthly race is o'er,\nThe conqueror's crown and palm is won,\nAnd thou wilt rest for evermore\nUpon the Heart of God's dear Son."
+                "en-US": "And now thy earthly race is o'er,\nThe conqueror's crown and palm is won,\nAnd thou wilt rest for evermore\nUpon the Heart of God's dear Son.\n\nFor this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "en-US": "For this be praise to God on high,\nAnd unto Christ thy love,\nWith holy and eternal laud\nTo the co-equal Dove."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Prayer"
               }

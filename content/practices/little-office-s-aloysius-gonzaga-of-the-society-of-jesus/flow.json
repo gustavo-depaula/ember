@@ -26,33 +26,65 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies,"
+                  },
+                  "r": {
+                    "la": "Et os meum annunciabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine, labia mea aperies,\n℟. Et os meum annunciabit laudem tuam.\n℣. Deus in adjutorium meum intende.\nGloria Patri, et Filio; et Spiritui Sancto."
+                "la": "Deus in adjutorium meum intende."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio; et Spiritui Sancto."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Gonzaga, salve floscule\nFavore Virginali,\nPrognate flos tenellule\nDe stirpe Principali\nTe luna Martis edidit,\nTe Martiale sidus;\nOrbique te concredidit\nSol, cum teneret Idus."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Dominus ab utero vocavit me.\n℟. Ergo judicium meum cum Domino, et opus meum cum Deo meo."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dominus ab utero vocavit me."
+                  },
+                  "r": {
+                    "la": "Ergo judicium meum cum Domino, et opus meum cum Deo meo."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui famulum tuum B. Aloysium ad majorem nominis tui gloriam in Societatem Filii tui vocare dignatus es: largiri quaesumus, ut, cujus angelicam puritatem veneramur in terris, ejus gloriae participes fieri mereamur in caelis. Per Dominum nostrum, etc."
+                "la": "Deus, qui famulum tuum B. Aloysium ad majorem nominis tui gloriam in Societatem Filii tui vocare dignatus es: largiri quaesumus, ut, cujus angelicam puritatem veneramur in terris, ejus gloriae participes fieri mereamur in caelis. Per Dominum nostrum, etc."
               }
             }
           ]
@@ -66,33 +98,59 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Quem te vocabo vernulam\nNum tulipam colore?\nViolamne, veris gemmula,\nCasto fragrantem odore?\nUterque flos est Virginis,\nFlos est uterque Flora\nGonzaga tu propaginis\nCujus flagras amore."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ecce tu pulcher es dilecte mi, et decorus.\n℟. Lectulus noster floridus."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ecce tu pulcher es dilecte mi, et decorus."
+                  },
+                  "r": {
+                    "la": "Lectulus noster floridus."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+                "la": "Deus, qui famulum tuum, etc. ut supra."
               }
             }
           ]
@@ -106,33 +164,59 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Gonzaga vix hunc hortulum\nOrbis subis, tenellis\nMox sanctiorem flosculum\nFers Numini labellis:\nQuando Mariam, et Jesulum\nSic nominas biennis,\nUt orbis in miraculum\nOraveris triennis."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Iste puer meus electus.\n℟. Posui super eum spiritum meum."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Iste puer meus electus."
+                  },
+                  "r": {
+                    "la": "Posui super eum spiritum meum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+                "la": "Deus, qui famulum tuum, etc. ut supra."
               }
             }
           ]
@@ -146,33 +230,59 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Jesu, et Mariae literas\nDe more tuliparum\nIn cor tuum transmisseras:\nUt quinque litterarum\nMox syllabas adnecteres,\nIllisque sanctiores;\nOrationes plecteres,\nVersusque castiores."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ex ore infantium et lactentium.\n℟. Perfecisti laudem tuam."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ex ore infantium et lactentium."
+                  },
+                  "r": {
+                    "la": "Perfecisti laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+                "la": "Deus, qui famulum tuum, etc. ut supra."
               }
             }
           ]
@@ -186,33 +296,59 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Undene major paulum\nHortum tuum colebas,\nEt suaviorum flosculum\nCor ut daret, volebas?\nQuare supremo Numini\nAudes, sacraque Virgini\nOfferre puritatem."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Cum adhuc esset puer, coepit quaerere Deum Patris sui David.\n℟. Et duodecimo anno mundavit Judam, et Jerusalem."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Cum adhuc esset puer, coepit quaerere Deum Patris sui David."
+                  },
+                  "r": {
+                    "la": "Et duodecimo anno mundavit Judam, et Jerusalem."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+                "la": "Deus, qui famulum tuum, etc. ut supra."
               }
             }
           ]
@@ -226,33 +362,59 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "In serta vix haec planctula,\nIn corde seminatur\nGonzaga, et ore blandula\nRosa inde procreatur\nQuae blandientis Cypridis\nNe fraudibus pateret,\nSpernit jocos Adonidis,\nUt castior lateret.\nHinc tauricis, hinc funibus,\nCalcaribus, catenis\nSe se induit, ceu vepribus,\nUt obviat venenis.\nNec sat: cruore proprio\nApud Patrem perorat?\nJesuque sub tentorio\nLatere flos hic orat."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ex omnibus floribus orbis elegisti tibi lilium unum.\n℟. Lilium inter spinas."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ex omnibus floribus orbis elegisti tibi lilium unum."
+                  },
+                  "r": {
+                    "la": "Lilium inter spinas."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+                "la": "Deus, qui famulum tuum, etc. ut supra."
               }
             }
           ]
@@ -266,33 +428,72 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Transfertur ergo patria\nGonzaga flos ab urbe,\nRomanae in Urbis atria:\nSed saeviente sede\nIn urbe pestilentia,\nDum gnaviter ministrat\nAegris, febris constantia\nVictus sub astra migrat."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Cum liber essem, omnium me servum feci.\n℟. Mihi vivere Christus, et mori lucrum."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Cum liber essem, omnium me servum feci."
+                  },
+                  "r": {
+                    "la": "Mihi vivere Christus, et mori lucrum."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui famulum tuum, etc. ut supra."
+                "la": "Deus, qui famulum tuum, etc. ut supra."
               }
             }
           ]

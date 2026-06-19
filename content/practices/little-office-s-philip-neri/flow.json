@@ -26,25 +26,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Te Philippe quam amavit\nDei providentia!\nQuam te Numen exornavit\nSingulari gratia!\nA juventae pietatis,\nMirae jam sanctitatis\nDederas specimina."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -56,15 +82,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Philippe Neri,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nO clementissime Deus, qui dilectum famulum tuum Philippum Nerium jam tenera in aetate multis sanctitatis tuae signis decorasti: oramus te igitur per insignia sancti tui merita, ut nos ad illum virtutis tramitem dirigere digneris, qui nos ad te, tanquam ad finem, unicamque animae nostrae metam perducat. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum etc.\nAmen."
+                "la": "O clementissime Deus, qui dilectum famulum tuum Philippum Nerium jam tenera in aetate multis sanctitatis tuae signis decorasti: oramus te igitur per insignia sancti tui merita, ut nos ad illum virtutis tramitem dirigere digneris, qui nos ad te, tanquam ad finem, unicamque animae nostrae metam perducat. Per Dominum nostrum Jesum Christum Filium tuum, qui tecum etc.\nAmen."
               }
             }
           ]
@@ -78,25 +117,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Iter Romam subiit,\nCharam linquens patriam,\nRaram ubi ostendit\nIndolis praestantiam,\nTotum Christo te sacrando,\nLibertatem resignando,\nVitam et substantiam."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -108,15 +160,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Philippe Neri,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nO benignissime Deus, qui dilectum famulum tuum Philippum Nerium ad singularem tui notitiam eveheti; adeo, ut sanctissimae tuae totum sese voluntati transcriberit: dignare, o Deus, et nos per sancti tui merita, ad talem tui notitiam perducere, ut nihil, quam tui soli fovere cupiamus. Per Dominum nostrum etc."
+                "la": "O benignissime Deus, qui dilectum famulum tuum Philippum Nerium ad singularem tui notitiam eveheti; adeo, ut sanctissimae tuae totum sese voluntati transcriberit: dignare, o Deus, et nos per sancti tui merita, ad talem tui notitiam perducere, ut nihil, quam tui soli fovere cupiamus. Per Dominum nostrum etc."
               }
             }
           ]
@@ -130,25 +195,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Totum Dei dum amore\nPectus suum aestuat,\nTota proximi ardore\nMensque incaluerat,\n\nDic! quot fervor animarum\nIste fontes lachrymarum\nTibi non extorserat?"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -160,15 +238,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Philippe Neri,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nO amantissime Deus, qui famulum tuum Philippum Nerium tanto tui amoris incendio inflammasti, ut saepius igneae ex oculis erumperent scintillae viderentur, tantoque hic etiam proximi ardore flagraret, ut persaepe copiosissimos lachrymarum imbres effunderet: rogamus te igitur, o fons veri amoris, per merita famuli tui, ut tantum tui proximique amorem cordibus nostris infundas, quo nihil aliud quam te, et proximum diligere cogitemus. Per Dominum nostrum etc."
+                "la": "O amantissime Deus, qui famulum tuum Philippum Nerium tanto tui amoris incendio inflammasti, ut saepius igneae ex oculis erumperent scintillae viderentur, tantoque hic etiam proximi ardore flagraret, ut persaepe copiosissimos lachrymarum imbres effunderet: rogamus te igitur, o fons veri amoris, per merita famuli tui, ut tantum tui proximique amorem cordibus nostris infundas, quo nihil aliud quam te, et proximum diligere cogitemus. Per Dominum nostrum etc."
               }
             }
           ]
@@ -182,25 +273,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tu parabas afflictorum\nCordibus solatia,\nIndurata peccatorum\nMolliens praecordia;\nQuotquot ad te proflugebant,\nOpem inter pericula\nCuras et pericula."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -212,15 +316,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Philippe Neri,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nMisericordissime Domine, qui sanctum Philippum Nerium tantis gratiarum cumulasti divitiis, ut omnes quibuscunque angustiarum afflictionibus pressi, solamen apud ipsum quaerentes, securissime illud invenerint: da igitur, o Pater misericordiarum, ut beati hujus famuli tui meritis, et nos a gravioribus animi anxietatibus atque periculis liberemur. Per Dominum etc."
+                "la": "Misericordissime Domine, qui sanctum Philippum Nerium tantis gratiarum cumulasti divitiis, ut omnes quibuscunque angustiarum afflictionibus pressi, solamen apud ipsum quaerentes, securissime illud invenerint: da igitur, o Pater misericordiarum, ut beati hujus famuli tui meritis, et nos a gravioribus animi anxietatibus atque periculis liberemur. Per Dominum etc."
               }
             }
           ]
@@ -234,25 +351,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Illium Virginitatis\nCustodivit sedulo,\nUt in flore puritatis\nViveret perpetuo,\nTela Cypridis vicit,\nEt illius vim fregit\nForti precum gladio."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -264,15 +394,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Philippe Neri,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nO purissime Domine, et tenerime Virginis castitatis amator, qui sanctum Philippum Nerium speciali hoc gratiae dono exornasti, quod ejusdem corpus tam amabilem castitatis odorem reddidit, ut omnes, qui illud adstarent, mirabiliter suavi recrearet: oramus te igitur, per insignem hanc famuli tui castimoniam, ut nos ad candidam puritatis lilium donare digneris, et aliquando digni habeamur, te purissimum et divinissimum Sponsum a facie ad faciem intueri. Per Dominum nostrum Jesum etc."
+                "la": "O purissime Domine, et tenerime Virginis castitatis amator, qui sanctum Philippum Nerium speciali hoc gratiae dono exornasti, quod ejusdem corpus tam amabilem castitatis odorem reddidit, ut omnes, qui illud adstarent, mirabiliter suavi recrearet: oramus te igitur, per insignem hanc famuli tui castimoniam, ut nos ad candidam puritatis lilium donare digneris, et aliquando digni habeamur, te purissimum et divinissimum Sponsum a facie ad faciem intueri. Per Dominum nostrum Jesum etc."
               }
             }
           ]
@@ -286,25 +429,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Diu postquam praeluxit\nMira patientia,\nEt virtutum coluit\nFerrea constantia,\nQua te per sanctam mortem\nChristus, o beatam sortem,\nVocat ad convivia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -316,15 +472,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Philippe Neri,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nO patientissime Domine, et virtutis praemiator, qui miram beati famuli tui Philippi Neri in adversis patientiam, et eximiam virtutis constantiam aeterni in coelo gloria remunerasti: quaesumus Domine, ut nos quoque, per gloriosa sancti tui suffragia, fortes in rebus omnibus adversis patientiam, et heroicam in virtutis tramite constantiam usque ad vitae nostrae exitum mereamur servare. Per Dominum nostrum Jesum etc."
+                "la": "O patientissime Domine, et virtutis praemiator, qui miram beati famuli tui Philippi Neri in adversis patientiam, et eximiam virtutis constantiam aeterni in coelo gloria remunerasti: quaesumus Domine, ut nos quoque, per gloriosa sancti tui suffragia, fortes in rebus omnibus adversis patientiam, et heroicam in virtutis tramite constantiam usque ad vitae nostrae exitum mereamur servare. Per Dominum nostrum Jesum etc."
               }
             }
           ]
@@ -338,25 +507,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Convertere nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O Philippe coeli lumen,\nClericorum gloria,\nPer quem maxima jam Numen\nExhibet miracula;\nEsto nobis semper pronus,\nDux fidelis et patronus,\nQuavis in miseria."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -368,15 +563,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Philippe Neri,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nO patientissime Domine, qui insignem sancti Philippi Nerii sanctitatem plurimis illustrasti miraculis, adeo, ut gloriosum illius nomen omnium extollatur linguis, ac celebretur encomiis: oramus te igitur, ut nos beati hujus famuli tui meritorum facere digneris participes. Per Dominum nostrum Jesum Christum etc."
+                "la": "O patientissime Domine, qui insignem sancti Philippi Nerii sanctitatem plurimis illustrasti miraculis, adeo, ut gloriosum illius nomen omnium extollatur linguis, ac celebretur encomiis: oramus te igitur, ut nos beati hujus famuli tui meritorum facere digneris participes. Per Dominum nostrum Jesum Christum etc."
               }
             }
           ]
@@ -396,7 +604,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Ant."
       }
@@ -408,15 +616,28 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Ora pro nobis sancte Philippe Neri,\n℟. Ut digni efficiamur promissionibus Christi."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis sancte Philippe Neri,"
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nDeus, qui beatum Philippum confessorem tuum sanctorum gloria sublimasti: concede, propitius, ut ejus solemnitate laetamur, ejus virtutem prosequamur exemplis. Per Dominum nostrum Jesum Christum etc."
+        "la": "Deus, qui beatum Philippum confessorem tuum sanctorum gloria sublimasti: concede, propitius, ut ejus solemnitate laetamur, ejus virtutem prosequamur exemplis. Per Dominum nostrum Jesum Christum etc."
       }
     }
   ]

@@ -22,11 +22,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.",
-        "en-US": "℣. O Lord, open my lips.\n℟. And my mouth will announce Thy praise."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domine labia mea aperies.",
+            "en-US": "O Lord, open my lips."
+          },
+          "r": {
+            "la": "Et os meum annuntiabit laudem tuam.",
+            "en-US": "And my mouth will announce Thy praise."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -36,11 +44,19 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis.",
-        "en-US": "℣. Convert us, O God our Saviour.\n℟. And turn away Thy wrath from us."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Converte nos, Deus salutaris noster.",
+            "en-US": "Convert us, O God our Saviour."
+          },
+          "r": {
+            "la": "Et averte iram tuam a nobis.",
+            "en-US": "And turn away Thy wrath from us."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -50,11 +66,34 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Deus in adiutorium meum intende.\n℟. Domine ad adiuvandum me festina.\n℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
-        "en-US": "℣. O God, come to my aid.\n℟. O Lord, make haste to help me.\n℣. Glory be to the Father, and to the Son, and to the Holy Spirit.\n℟. As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus in adiutorium meum intende.",
+            "en-US": "O God, come to my aid."
+          },
+          "r": {
+            "la": "Domine ad adiuvandum me festina.",
+            "en-US": "O Lord, make haste to help me."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Gloria Patri, et Filio, et Spiritui Sancto.",
+            "en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit."
+          },
+          "r": {
+            "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Alleluia.",
+            "en-US": "As it was in the beginning, is now, and ever shall be, world without end. Alleluia."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -96,7 +135,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. (Psalmus 104)",
                 "en-US": "Ant. (Psalm 104)"
@@ -127,7 +166,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. (Mt 1:20)",
                 "en-US": "Ant. (Mt 1:20)"
@@ -158,7 +197,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. (Lc 2:4)",
                 "en-US": "Ant. (Lk 2:4)"
@@ -189,7 +228,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. (Mt 2:13)",
                 "en-US": "Ant. (Mt 2:13)"
@@ -220,7 +259,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. (Mt 2:23)",
                 "en-US": "Ant. (Mt 2:23)"
@@ -251,7 +290,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. (Lc 2:48)",
                 "en-US": "Ant. (Lk 2:48)"
@@ -282,7 +321,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant. (Psalmus 4:9)",
                 "en-US": "Ant. (Psalms 4:9)"
@@ -307,11 +346,85 @@
       }
     },
     {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis beatissime Ioseph.",
+            "en-US": "Pray for us, most blessed Joseph."
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi.",
+            "en-US": "That we may be made worthy of the promises of Christ."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus.",
+        "en-US": "Let us pray."
+      }
+    },
+    {
       "type": "prayer",
       "inline": {
-        "la": "℣. Ora pro nobis beatissime Ioseph.\n℟. Ut digni efficiamur promissionibus Christi.\n\nOremus,\nSanctissimae Genetricis tuae sponsi, quaesumus, Domine, meritis adiuvemur, ut quod possibilitas nostra non obtinet, eius nobis intercessione donetur. Qui vivis et regnas Deus per omnia saecula saeculorum.\n℟. Amen.\n\n℣. Domine, exaudi orationem meam.\n℟. Et clamor meus ad te veniat.\n\n℣. Benedicamus Domino.\n℟. Deo gratias.\n\n℣. Fidelium animae per misericordiam Dei requiescant in pace.\n℟. Amen.",
-        "en-US": "℣. Pray for us, most blessed Joseph.\n℟. That we may be made worthy of the promises of Christ.\n\nLet us pray,\nO Lord, we beseech Thee, may we be assisted by the merits of the Spouse of thy most holy Mother, that what of ourselves we cannot possibly obtain, may through his intercession be granted to us by Thee, who livest and reignest God for ever and ever.\n℟. Amen.\n\n℣. Lord, hear my prayer,\n℟. And let my cry come unto Thee.\n\n℣. Let us bless the Lord.\n℟. Thanks be to God.\n\n℣. May the souls of the faithful, through the mercy of God, rest in peace.\n℟. Amen."
+        "la": "Sanctissimae Genetricis tuae sponsi, quaesumus, Domine, meritis adiuvemur, ut quod possibilitas nostra non obtinet, eius nobis intercessione donetur. Qui vivis et regnas Deus per omnia saecula saeculorum.",
+        "en-US": "O Lord, we beseech Thee, may we be assisted by the merits of the Spouse of thy most holy Mother, that what of ourselves we cannot possibly obtain, may through his intercession be granted to us by Thee, who livest and reignest God for ever and ever."
       }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Amen.",
+        "en-US": "Amen."
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domine, exaudi orationem meam.",
+            "en-US": "Lord, hear my prayer,"
+          },
+          "r": {
+            "la": "Et clamor meus ad te veniat.",
+            "en-US": "And let my cry come unto Thee."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Benedicamus Domino.",
+            "en-US": "Let us bless the Lord."
+          },
+          "r": {
+            "la": "Deo gratias.",
+            "en-US": "Thanks be to God."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
+            "en-US": "May the souls of the faithful, through the mercy of God, rest in peace."
+          },
+          "r": {
+            "la": "Amen.",
+            "en-US": "Amen."
+          }
+        }
+      ]
     },
     {
       "type": "subheading",

@@ -28,23 +28,55 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Jesus, Maria, Anna.\n℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus, in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Jesus, Maria, Anna."
               }
             },
             {
-              "type": "rubric",
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus, in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O gloriosa Domina,\nDe cujus Virgo genere\nCoeli Regem columen\nLaetavit sacro ubere.\n\nQuod Eva tristis abstulit,\nRedditur Patri Filiae,\nQuae sancta sanctis procreat,\nCoeli fenestra facta est.\n\nTu Regis alti gratiam\nDeposce, atque veniam,\nMemoriam colentibus\nTuae perennis gloriae.\n\nGloria tibi, Domine,\nEx Anna natae germine,\nCum Patre et Sancto Spiritu,\nIn saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -52,13 +84,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria.\n℣. Ora pro nobis, sancta Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui beatae Annae tantam gratiam conferre dignatus es, ut Genetricis unigeniti Filii tui mater effici mereretur:\nconcede propitius, ut cujus memoriam veneramur in terris, ejus apud te patrociniis adjuvemur in coelis.\nPer eundem Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\nAmen."
+                "la": "Deus, qui beatae Annae tantam gratiam conferre dignatus es, ut Genetricis unigeniti Filii tui mater effici mereretur:\nconcede propitius, ut cujus memoriam veneramur in terris, ejus apud te patrociniis adjuvemur in coelis.\nPer eundem Dominum nostrum Jesum Christum, Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum.\nAmen."
               }
             }
           ]
@@ -78,25 +129,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Clara diei gaudia\nModulizat Ecclesia,\nIn Annae Christi famula\nPandens caeli miracula.\n\nGloria tibi, Domine,\nEx Anna natae germine,\nCum Patre et Sancto Spiritu,\nIn saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -104,13 +168,26 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria.\n℣. Ora pro nobis, sancta Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
@@ -136,25 +213,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Alma Regum progenies,\nEt Sacerdotum soboles,\nStirpem illustrum Patribus\nSuis ornavit actibus.\n\nGloria tibi, Domine,\nEx Anna natae germine,\nCum Patre et Sancto Spiritu,\nIn saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -162,13 +252,26 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria.\n℣. Ora pro nobis, sancta Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
@@ -188,25 +291,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Nupta, Dei judicio,\nFideli matrimonio,\nJuxta verbum angelicum\nFructum concepit coelicum.\n\nGloria tibi, Domine,\nEx Anna natae germine,\nCum Patre et Sancto Spiritu,\nIn saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -214,13 +330,26 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria.\n℣. Ora pro nobis, sancta Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
@@ -246,25 +375,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "In saecula pro tempore,\nPrope marcescens corpore ;\nDecreto Patris luminum\nParit Reginam Virginum.\n\nGloria tibi, Domine,\nEx Anna natae germine,\nCum Patre et Sancto Spiritu,\nIn saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -272,13 +414,26 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria.\n℣. Ora pro nobis, sancta Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
@@ -304,25 +459,38 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Anna pia mater ave,\nCujus nomen est suave:\nAnna sonat gratiam.\n\nAve Jesse radix florens,\nQuae coelestes das odores,\nPerenem fragrantiam.\n\nAve patens stella maris,\nQuam tu nuptam contemplaris\nRegis regum Filio.\n\nTu, quae sola meruisti\nParens esse matris Christi ;\nPreces nostras suscipe:\n\nTu nos Matri, atque Patri,\nEt Reginae Poli\nCommendare non desine."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -330,13 +498,26 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria.\n℣. Ora pro nobis, sancta Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
@@ -362,31 +543,51 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos, Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto,\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Obtentu suae Filiae\nMariae plenae gratiae,\nNobis auctorem omnium\nReddat Anna propitium.\n\nGloria tibi, Domine,\nCum Patre et Sancto Spiritu,\nIn saecula saeculorum.\nAmen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -394,13 +595,26 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria.\n℣. Ora pro nobis, sancta Anna.\n℟. Ut digni efficiamur promissionibus Christi."
+                "la": "Coeleste beneficium introivit in Annam, ex qua nobis nata est B. V. Maria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Oremus,"
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis, sancta Anna."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {

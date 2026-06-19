@@ -7,21 +7,39 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "Oremus,\nDomine Jesu Christe, Fili Dei vivi! qui hora sexta pro redemptione mundi crucis patibulum ascendisti, et sanguinem tuum pretiosum in remissionem peccatorum nostrorum fudisti: Te humiliter deprecamur, ut post obitum nostrum, Paradisi janua nos gaudenter introire concedas. Qui vivis, et regnas cum Deo Patre, etc."
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nDeus qui in praeclara salutiferae Crucis Inventione, Passionis tuae miracula suscitasti: concede, ut vitalis ligni pretio aeternae vitae suffragia consequamur. Qui vivis, et regnas, etc."
+        "la": "Domine Jesu Christe, Fili Dei vivi! qui hora sexta pro redemptione mundi crucis patibulum ascendisti, et sanguinem tuum pretiosum in remissionem peccatorum nostrorum fudisti: Te humiliter deprecamur, ut post obitum nostrum, Paradisi janua nos gaudenter introire concedas. Qui vivis, et regnas cum Deo Patre, etc."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nDeus qui nos hodierna die Exaltationis sanctae Crucis annua solemnitate laetificas: praesta, quaesumus, ut cujus mysterium in terra cognovimus, ejus redemptionis praemia in coelo mereamur. Per Dominum etc."
+        "la": "Deus qui in praeclara salutiferae Crucis Inventione, Passionis tuae miracula suscitasti: concede, ut vitalis ligni pretio aeternae vitae suffragia consequamur. Qui vivis, et regnas, etc."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "la": "Deus qui nos hodierna die Exaltationis sanctae Crucis annua solemnitate laetificas: praesta, quaesumus, ut cujus mysterium in terra cognovimus, ejus redemptionis praemia in coelo mereamur. Per Dominum etc."
       }
     },
     {
@@ -50,19 +68,45 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies, etc."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit, etc."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium, etc."
+                  },
+                  "r": {
+                    "la": "Domine ad, etc."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies, etc.\n℟. Et os meum annuntiabit, etc.\n℣. Deus in adjutorium, etc.\n℟. Domine ad, etc.\n℣. Gloria Patri, et Filio, etc."
+                "la": "Gloria Patri, et Filio, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus (e Psalmo 21)"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Ego autem sum vermis, et non homo:\nopprobrium hominum,\net abjectio plebis.\nOmnes videntes me, deriserunt me:\nlocuti sunt labiis, et moverunt caput."
               }
@@ -74,9 +118,22 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Contritum est cor meum in medio mei,\n℟. Contremuerunt omnia ossa mea. Jerem. 23. v. 9.\nOratio Domine Jesu Christe etc. ut supra."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Contritum est cor meum in medio mei,"
+                  },
+                  "r": {
+                    "la": "Contremuerunt omnia ossa mea. Jerem. 23. v. 9."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio Domine Jesu Christe etc. ut supra."
               }
             },
             {
@@ -86,9 +143,22 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Hoc signum Crucis erit in Coelo, Alleluia.\n℟. Cum Dominus ad judicandum venerit, Alleluia.\nOratio Deus! qui praeclara etc. ut supra."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Hoc signum Crucis erit in Coelo, Alleluia."
+                  },
+                  "r": {
+                    "la": "Cum Dominus ad judicandum venerit, Alleluia."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio Deus! qui praeclara etc. ut supra."
               }
             },
             {
@@ -98,9 +168,22 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. O Crux splendidior cunctis astris!\n℟. Salva praesentem coetervam in tuis hodie laudibus congregatam.\nOratio Deus, qui nos etc. ut supra."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "O Crux splendidior cunctis astris!"
+                  },
+                  "r": {
+                    "la": "Salva praesentem coetervam in tuis hodie laudibus congregatam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oratio Deus, qui nos etc. ut supra."
               }
             }
           ]
@@ -116,17 +199,17 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus (e Psalmo 21)"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tribulatio proxima est:\nquoniam non est, qui adjuvet.\nCircumdederunt me vituli multi:\ntauri pingues obsederunt me."
               }
@@ -134,25 +217,61 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Pater mi! si possibile est,\ntranseat a me calix iste.\n℟. Verumtamen, non sicut ego volo,\nsed sicut Tu."
+                "la": "Pater mi! si possibile est,"
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oratio Domine Jesu Christe ut supra."
+                "la": "transeat a me calix iste."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Adoramus te Christe,\net benedicimus tibi, Alleluia.\n℟. Quia per crucem tuam redemisti mundum, Alleluia."
+                "la": "Verumtamen, non sicut ego volo,"
+              }
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "sed sicut Tu.\n\nOratio Domine Jesu Christe ut supra."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. O nobile lignum exaltatur,\nChristi fides rutilat.\n℟. Dum Crux ab omnibus veneratur."
+                "la": "Adoramus te Christe,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "et benedicimus tibi, Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quia per crucem tuam redemisti mundum, Alleluia."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "O nobile lignum exaltatur,"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Christi fides rutilat."
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Dum Crux ab omnibus veneratur."
               }
             }
           ]
@@ -168,44 +287,65 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus (e Psalmo 21)"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Aperuerunt super me os suum,\nsicut leo rapiens et rugiens.\nSicut aqua effusus sum,\net dispersa sunt ossa mea:\nfactum est cor meum tanquam cera\nliquescens in medio ventris mei."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. O vos omnes! qui transitis per viam, attendite:\n℟. Et videte, si est dolor, sicut dolor meus. Thren. I. v. 12."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "O vos omnes! qui transitis per viam, attendite:"
+                  },
+                  "r": {
+                    "la": "Et videte, si est dolor, sicut dolor meus. Thren. I. v. 12."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oratio Domine Jesu Christe ut supra."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. O magnum pietatis opus! Alleluia.\n℟. Mors mortua tunc est, in ligno quando mortua vita fuit, Alleluia."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "O magnum pietatis opus! Alleluia."
+                  },
+                  "r": {
+                    "la": "Mors mortua tunc est, in ligno quando mortua vita fuit, Alleluia."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Tuam Crucem adoramus Domine:\n℟. Et recolimus tuam gloriosam Passionem."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Tuam Crucem adoramus Domine:"
+                  },
+                  "r": {
+                    "la": "Et recolimus tuam gloriosam Passionem."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -220,44 +360,65 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus (e Psalmo 21)"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Aruit tanquam testa virtus mea,\net lingua mea adhaesit faucibus meis:\net in pulverem mortis deduxisti me.\nQuoniam circumdederunt me\ncanes multi: consilium malignantium obsedit me."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Dedit percutienti se maxillam:\n℟. Saturatus est opprobiis."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Dedit percutienti se maxillam:"
+                  },
+                  "r": {
+                    "la": "Saturatus est opprobiis."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oratio Domine Jesu Christe, ut supra."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Salva nos Christe Salvator, Alleluia.\n℟. Per virtutem S. Crucis, Alleluia."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Salva nos Christe Salvator, Alleluia."
+                  },
+                  "r": {
+                    "la": "Per virtutem S. Crucis, Alleluia."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Hoc Signum Crucis erit in coelo:\n℟. Cum Dominus ad judicandum venerit."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Hoc Signum Crucis erit in coelo:"
+                  },
+                  "r": {
+                    "la": "Cum Dominus ad judicandum venerit."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -272,44 +433,65 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium etc."
+                "la": "Deus in adjutorium etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus (e Psal. 21)"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Foderunt manus meas, et pedes meos,\net dinumeraverunt omnia ossa mea,\nIpsi vero consideraverunt; et inspexerunt me:\ndiviserunt sibi vestimenta mea,\net super vestem meam miserunt sortem."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Sicut ovis ad occisionem ductus est:\n℟. Et quasi Agnus coram tondente se obmutuit. Isaiae 53. v. 7."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Sicut ovis ad occisionem ductus est:"
+                  },
+                  "r": {
+                    "la": "Et quasi Agnus coram tondente se obmutuit. Isaiae 53. v. 7."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oratio Domine Jesu Christe, etc."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ecce Crucem Domini, Alleluia.\n℟. Fugite partes adversae, Alleluia."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ecce Crucem Domini, Alleluia."
+                  },
+                  "r": {
+                    "la": "Fugite partes adversae, Alleluia."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. O Crux benedicta!\n℟. Quae sola digna fuisti portare Regem Coelorum."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "O Crux benedicta!"
+                  },
+                  "r": {
+                    "la": "Quae sola digna fuisti portare Regem Coelorum."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -324,44 +506,65 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium, etc."
+                "la": "Deus in adjutorium, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus (e Psal. 37)"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Qui inquirebant mala mihi,\nlocuti sunt vanitates,\net dolos tota die meditabantur,\nEgo autem tanquam surdus non audiebam,\net sicut mutus non aperiens os suum,"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Humiliavit semetipsum:\n℟. Factus obediens usque ad mortem, mortem autem Crucis. Philip. 2. v. 8."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Humiliavit semetipsum:"
+                  },
+                  "r": {
+                    "la": "Factus obediens usque ad mortem, mortem autem Crucis. Philip. 2. v. 8."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oratio Domine Jesu Christe, ut supra."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Nos autem gloriari oportet, Alleluia.\n℟. In Cruce Domini nostri Jesu Christi. Alleluia. Gal. 6. v. 4."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Nos autem gloriari oportet, Alleluia."
+                  },
+                  "r": {
+                    "la": "In Cruce Domini nostri Jesu Christi. Alleluia. Gal. 6. v. 4."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Per lignum servi facti sumus:\n℟. Et per sanctam Crucem liberati sumus."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per lignum servi facti sumus:"
+                  },
+                  "r": {
+                    "la": "Et per sanctam Crucem liberati sumus."
+                  }
+                }
+              ]
             }
           ]
         },
@@ -376,44 +579,71 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus, etc.\n℣. Deus in adjutorium, etc."
+                "la": "Converte nos Deus, etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "prayer",
+              "inline": {
+                "la": "Deus in adjutorium, etc."
+              }
+            },
+            {
+              "type": "subheading",
               "text": {
                 "la": "Hymnus (e Psal. 68)"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Improperium exspectavit cor meum, et miseriam,\net sustinui, qui simul contristaretur, et non fuit,\net qui consoleretur, et non inveni,\nEt dederunt in escam meam fel,\net in siti mea potaverunt me aceto."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Tradidit in mortem animam suam.\n℟. Et cum sceleratis reputatus est. Isaiae 53. 12."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Tradidit in mortem animam suam."
+                  },
+                  "r": {
+                    "la": "Et cum sceleratis reputatus est. Isaiae 53. 12."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
+              "type": "rubric",
+              "text": {
                 "la": "Oratio Domine Jesu Christe, ut supra."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Per signum Crucis, Alleluia.\n℟. De inimicis nostris libera nos Deus noster, Alleluia."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per signum Crucis, Alleluia."
+                  },
+                  "r": {
+                    "la": "De inimicis nostris libera nos Deus noster, Alleluia."
+                  }
+                }
+              ]
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ad Crucis contactum resurgunt mortui:\n℟. Et Dei magnalia referantur."
-              }
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ad Crucis contactum resurgunt mortui:"
+                  },
+                  "r": {
+                    "la": "Et Dei magnalia referantur."
+                  }
+                }
+              ]
             }
           ]
         }
@@ -468,7 +698,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio ad Deum Spiritum Sanctum"
       }

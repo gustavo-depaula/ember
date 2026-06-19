@@ -25,43 +25,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Laureato per agonem\nLaudis gestit mens sermonem\nPromere Laurentio."
+                "la": "Laureato per agonem\nLaudis gestit mens sermonem\nPromere Laurentio.\n\nO si puras ex amore\nCorde laudes dem et ore\nMartyum Delitio!\n\nSixtus quidem jam ad mortem\nRapitur: sed faustam sortem\nPatri ne invideas;\n\nTe supplicia plus dura,\nEt adversa manent plura,\nMartyr quae sustineas."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "O si puras ex amore\nCorde laudes dem et ore\nMartyum Delitio!"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sixtus quidem jam ad mortem\nRapitur: sed faustam sortem\nPatri ne invideas;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Te supplicia plus dura,\nEt adversa manent plura,\nMartyr quae sustineas."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -69,13 +77,32 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Mundus gaudebit, vos autem contristabimini, sed tristitia vestra vertetur in gaudium.\n℣. Per S. Laurentii preces et merita\n℟. Libera nos Deus a flamma perpetua."
+                "la": "Mundus gaudebit, vos autem contristabimini, sed tristitia vestra vertetur in gaudium."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Per S. Laurentii preces et merita"
+                  },
+                  "r": {
+                    "la": "Libera nos Deus a flamma perpetua."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDa nobis quaesumus Omnipotens Deus vitiorum nostrorum flammas extinguere, qui Beato Laurentio tribuisti tormentorum suorum incendia superare. Per Dominum nostrum Jesum Christum etc."
+                "la": "Da nobis quaesumus Omnipotens Deus vitiorum nostrorum flammas extinguere, qui Beato Laurentio tribuisti tormentorum suorum incendia superare. Per Dominum nostrum Jesum Christum etc."
               }
             }
           ]
@@ -88,43 +115,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Jussus hinc dispensat aurum,\nEt Ecclesiae thesaurum\nIndigis Laurentius;"
+                "la": "Jussus hinc dispensat aurum,\nEt Ecclesiae thesaurum\nIndigis Laurentius;\n\nQua de re cum vocaretur\nAd Tribunal, nil movetur\nCaesaris insultibus,\n\nPyram licet hic minatur,\nGenerosus rem effatur\nFlammas spernens rabidas,\n\nEcquid, rogat, his turbari,\nVera magis num probari\nAuri potest puritas?"
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Qua de re cum vocaretur\nAd Tribunal, nil movetur\nCaesaris insultibus,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Pyram licet hic minatur,\nGenerosus rem effatur\nFlammas spernens rabidas,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Ecquid, rogat, his turbari,\nVera magis num probari\nAuri potest puritas?"
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -151,43 +173,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Sicut chorda musicorum\nTensa sonum dat canorum\nPlectri ministerio:"
+                "la": "Sicut chorda musicorum\nTensa sonum dat canorum\nPlectri ministerio:\n\nSic in cheli tormentorum\nChristi resonat servorum\nFidei confessio;\n\nInter ignium conflictus\nStat Laurentius invictus\nAssa versans latera,\n\nSpes interna consolatur,\nDum superna vis hortatur\nVirum de constantia."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sic in cheli tormentorum\nChristi resonat servorum\nFidei confessio;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Inter ignium conflictus\nStat Laurentius invictus\nAssa versans latera,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Spes interna consolatur,\nDum superna vis hortatur\nVirum de constantia."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -214,43 +231,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Post thesauros dum inquiris\nVane tortor, nil acquiris\nTibi; sed Laurentio"
+                "la": "Post thesauros dum inquiris\nVane tortor, nil acquiris\nTibi; sed Laurentio\n\nHosce Christo coacervat,\nQuos hic in coronam servat\nSuo Dux armigero.\n\nEt ut flamma cum calore\nJuncto unitat splendore,\nSic et iste promicat,\n\nFlammis undique obsessus,\nChristum jugiter confessus\nArdet et illuminat."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Hosce Christo coacervat,\nQuos hic in coronam servat\nSuo Dux armigero."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Et ut flamma cum calore\nJuncto unitat splendore,\nSic et iste promicat,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Flammis undique obsessus,\nChristum jugiter confessus\nArdet et illuminat."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -277,43 +289,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Non formidat prunis volvi,\nQui de carne cupit solvi,\nEt cum Christo vivere,"
+                "la": "Non formidat prunis volvi,\nQui de carne cupit solvi,\nEt cum Christo vivere,\n\nNeque corpus occidentes\nTimet, quia non valentes\nMentem scit perimere;\n\nAc ut vasa figulorum\nFornax firmat, et illorum\nSolidat substantiam.\n\nSic Laurentium assatum\nIgnis facit plus firmatum\nMentis per constantiam."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Neque corpus occidentes\nTimet, quia non valentes\nMentem scit perimere;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Ac ut vasa figulorum\nFornax firmat, et illorum\nSolidat substantiam."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Sic Laurentium assatum\nIgnis facit plus firmatum\nMentis per constantiam."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -340,43 +347,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Vetus homo cum vastatur,\nAlter novus solidatur\nVeteris exitio;"
+                "la": "Vetus homo cum vastatur,\nAlter novus solidatur\nVeteris exitio;\n\nUnde nimis confortatus\nEst Athletae principatus\nCoeli in palatio;\n\nUdos flammas credit rores,\nPrunas Amor putat flores,\nLecatulum Craticulum:\n\nUrit Amor: Vis favillae\nCorpus urit, mentem ille\nSalamandrae aemulam."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Unde nimis confortatus\nEst Athletae principatus\nCoeli in palatio;"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Udos flammas credit rores,\nPrunas Amor putat flores,\nLecatulum Craticulum:"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Urit Amor: Vis favillae\nCorpus urit, mentem ille\nSalamandrae aemulam."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -403,43 +405,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Convertere nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymn"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
-                "la": "Parum olet, parum fragrata,\nSi non ardet, si non flagrat\nThus injectum ignibus;"
+                "la": "Parum olet, parum fragrata,\nSi non ardet, si non flagrat\nThus injectum ignibus;\n\nSic per poenas, per ardorem\nPleniorem dat odorem\nMartyr de Virtutibus,\n\nEt quam odor iste nimis\nDulcis modoque et sublimis\nAlta petit sidera:\n\nThuris instar Cherubini\nSumma Principis divini\nPergens ad Altaria."
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "Sic per poenas, per ardorem\nPleniorem dat odorem\nMartyr de Virtutibus,"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Et quam odor iste nimis\nDulcis modoque et sublimis\nAlta petit sidera:"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "la": "Thuris instar Cherubini\nSumma Principis divini\nPergens ad Altaria."
-              }
-            },
-            {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphon"
               }
@@ -492,7 +502,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Antiphon"
       }
@@ -500,13 +510,32 @@
     {
       "type": "prayer",
       "inline": {
-        "la": "Ambulate in dilectione, sicut et Christus dilexit nos, et tradidit semetipsum pro nobis oblationem et hostiam Deo in odorem suavitatis.\n℣. Ora pro nobis B. Martyr Laurenti,\n℟. Ut digni efficiamur promissionibus Christi."
+        "la": "Ambulate in dilectione, sicut et Christus dilexit nos, et tradidit semetipsum pro nobis oblationem et hostiam Deo in odorem suavitatis."
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis B. Martyr Laurenti,"
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nDeus cujus charitatis ardore B. Laurentius edaces incendii flammas contempto persecutore devicit; Concede, ut omnes, qui Martyrii Ejus merita invocamus, protectionis tuae auxilio muniamur. Per Dominum nostrum etc."
+        "la": "Deus cujus charitatis ardore B. Laurentius edaces incendii flammas contempto persecutore devicit; Concede, ut omnes, qui Martyrii Ejus merita invocamus, protectionis tuae auxilio muniamur. Per Dominum nostrum etc."
       }
     }
   ]

@@ -19,10 +19,17 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Domine, labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Domine, labia mea aperies."
+          },
+          "r": {
+            "la": "Et os meum annuntiabit laudem tuam."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -31,10 +38,17 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Converte nos, Deus salutaris noster.\n℟. Et averte iram tuam a nobis."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Converte nos, Deus salutaris noster."
+          },
+          "r": {
+            "la": "Et averte iram tuam a nobis."
+          }
+        }
+      ]
     },
     {
       "type": "rubric",
@@ -43,15 +57,35 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Deus, in adjutorium meum intende.\n℟. Domine, ad adjuvandum me festina."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Deus, in adjutorium meum intende."
+          },
+          "r": {
+            "la": "Domine, ad adjuvandum me festina."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Gloria Patri, et Filio, et Spiritui Sancto."
+          },
+          "r": {
+            "la": "Sicut erat in principio, et nunc, et semper, et in saecula saeculorum."
+          }
+        }
+      ]
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Gloria Patri, et Filio, et Spiritui Sancto.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum.\nAmen. Alleluia."
+        "la": "Amen. Alleluia."
       }
     },
     {
@@ -92,19 +126,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O lux beata Trinitas,\nEt principalis unitas,\nJam sol recedit igneus;\nInfunde lumen cordibus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -126,19 +160,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Ortus refulget lucifer,\nSparsamque lucem nuntiat;\nCadunt tenebrae noctium,\nLux sancta nos illuminet."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -160,19 +194,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Summae Deus clementiae,\nMundi que factor machinae,\nUnus potentialiter,\nTrinusque personaliter."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -194,19 +228,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Da dexteram surgentibus,\nExurgat ut mens sobria,\nFlagrans et in laudem Dei\nGrates rependat debitas."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -228,19 +262,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tu, Trinitatis unitas,\nOrbem potenter quae regis,\nAttende laudis canticum\nQuod excubantes psallimus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -262,19 +296,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Te mane laudum carmine,\nTe deprecamur vespere,\nTe nostra supplex gloria\nPer cuncta laudet saecula."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -296,19 +330,19 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Gloria tibi, Trinitas,\nAequalis, una Deitas;\nEt ante omnia saecula,\nEt nunc, et in perpetuum."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -330,15 +364,28 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Benedicamus Patrem, et Filium, cum Sancto Spiritu.\n℟. Laudemus et superexaltemus eum in saecula."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Benedicamus Patrem, et Filium, cum Sancto Spiritu."
+          },
+          "r": {
+            "la": "Laudemus et superexaltemus eum in saecula."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nOmnipotens sempiterne Deus, qui dedisti famulis tuis in confessione verae fidei aeternae Trinitatis gloriam agnoscere, et in potentia Majestatis adorare Unitatem, quaesumus, ut ejusdem fidei firmitate ab omnibus semper muniamur adversis. Per Dominum."
+        "la": "Omnipotens sempiterne Deus, qui dedisti famulis tuis in confessione verae fidei aeternae Trinitatis gloriam agnoscere, et in potentia Majestatis adorare Unitatem, quaesumus, ut ejusdem fidei firmitate ab omnibus semper muniamur adversis. Per Dominum."
       }
     },
     {

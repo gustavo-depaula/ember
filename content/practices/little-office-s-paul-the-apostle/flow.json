@@ -39,31 +39,57 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste, ut portet Nomen meum coram Gentibus, et Regibus, et Filiis Israel."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies,"
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies,\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Saulus adhuc dum vocaris,\nPaulus donec fueras,\nUnice delectabaris\nPerdere Christicolas;\nAdolescens impiorum\nCuram geris vestium,\nLapidat dum Judaeorum\nGens proterva Stephanum."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -75,15 +101,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis S. Paule Apostole.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis S. Paule Apostole."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui multitudinem Gentium Beati\nPauli Apostoli praedicatione docuisti:\nDa nobis, quaesumus, ut cujus merita colimus,\nejus apud te patrocinia sentiamus.\nPer Dominum nostrum etc. Amen."
+                "la": "Deus, qui multitudinem Gentium Beati\nPauli Apostoli praedicatione docuisti:\nDa nobis, quaesumus, ut cujus merita colimus,\nejus apud te patrocinia sentiamus.\nPer Dominum nostrum etc. Amen."
               }
             }
           ]
@@ -97,31 +136,44 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste etc."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Sed Damascum ut tendenti\nChristus occlamaverat;\nSaule dic, me persequendi\nQuae te causa agitat?\nEquo lapsus mox respondes:\nDic, quid me vis facere!\nJugo Christi te despondes,\nSacro lotus flumine."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -149,31 +201,44 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste etc."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Dum in synagoga Christum\nPosthac palam praedicas,\nHunc convertis, jam et istum\nSanas, et resuscitas,\nStygem pellis, idolorum\nExcutis daemonia,\nPro mercede tot laborum,\nDura fers et aspera."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -201,31 +266,44 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste etc."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Isthoc tamen nil morante,\nScandis Jerosolymam,\nUt Jacobus velut ante\nIbi fudit animam,\nTuque Christo immoleris,\nNoctis sub concubium\nSed doceris, ut testes\nRomae quoque Dominum."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -253,31 +331,44 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste etc."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Inter haec ad Dithalassium,\nLongum post circuitum,\nPaule te Melita passum\nSuscipit naufragium:\nAt, quam Insula humana,\nAtrox tam est vipera,\nMordet haec: sed ira vana,\nViru quasi vacua."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -305,31 +396,44 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste etc."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Jugitaliter labore\nDum desudas strenue,\nAtque Christi pro amore\nDira suffers undique,\nUsque tertium in coelum\nRaperis; nec protinus\nLiber tamen, quin anhelum\nCarnis turbet stimulus."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -357,31 +461,44 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste etc."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tandem Romam dum venisti,\nPublice de ritibus,\nDeque nova lege Christi,\nPraedicas Quiritibus,\nPars auscultat, pars irridet,\nSed Neronis Pellicem\nGens, ut Christianam videt,\nFertur res ad Caesarem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -409,31 +526,57 @@
           },
           "sections": [
             {
-              "type": "rubric",
-              "text": {
+              "type": "prayer",
+              "inline": {
                 "la": "Vas electionis est mihi iste etc."
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Jamque Paulus per lictotes\nMancipatur vinculis:\nFlagellato per tortores\nSed mandato Caesaris\nPostquam caput detruncatur,\nLac cruorque profluit,\nFonsque salva dum levatur\nTertus terno profluit."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -467,7 +610,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Ant."
       }
@@ -479,13 +622,20 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Ora pro nobis S. Paule Apostole.\n℟. Ut digni efficiamur promissionibus Christi."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis S. Paule Apostole."
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Oratio"
       }

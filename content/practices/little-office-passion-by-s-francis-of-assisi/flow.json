@@ -44,7 +44,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -56,7 +56,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm"
               }
@@ -68,7 +68,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -102,7 +102,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -114,7 +114,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm"
               }
@@ -136,7 +136,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -148,7 +148,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm"
               }
@@ -170,7 +170,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -182,7 +182,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm"
               }
@@ -204,7 +204,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -216,7 +216,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm"
               }
@@ -238,7 +238,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -250,7 +250,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm"
               }
@@ -272,7 +272,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Antiphon"
               }
@@ -284,7 +284,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "en-US": "Psalm"
               }
@@ -330,7 +330,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -342,7 +342,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -366,7 +366,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -378,7 +378,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -414,7 +414,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -426,14 +426,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "Have mercy on me, etc.—as above."
       }
     },
@@ -444,14 +444,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "Sing ye to the Lord, etc.—as above."
       }
     },
@@ -462,14 +462,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "O clap your hands, etc.—as above."
       }
     },
@@ -486,7 +486,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -498,7 +498,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -516,7 +516,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -528,14 +528,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "Sing ye to the Lord, etc.,—as above."
       }
     },
@@ -546,7 +546,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -558,14 +558,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "Have mercy on me, etc.—as above."
       }
     },
@@ -576,7 +576,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -588,7 +588,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -606,7 +606,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -618,7 +618,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -636,7 +636,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -648,7 +648,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -666,7 +666,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -678,14 +678,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "O clap your hands. . . as above."
       }
     },
@@ -702,7 +702,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -714,7 +714,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -732,7 +732,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -744,7 +744,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
@@ -762,7 +762,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -774,14 +774,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "Have mercy on me, etc.—as above."
       }
     },
@@ -792,7 +792,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -804,14 +804,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "Shout with joy, etc.—as above."
       }
     },
@@ -822,7 +822,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -834,14 +834,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "May the Lord hear thee in the day, etc.—as above."
       }
     },
@@ -852,7 +852,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -864,14 +864,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "In Thee, O Lord, have I hoped—as above."
       }
     },
@@ -882,7 +882,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -894,14 +894,14 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }
     },
     {
-      "type": "prayer",
-      "inline": {
+      "type": "rubric",
+      "text": {
         "en-US": "O clap your hands, etc.—as above."
       }
     },
@@ -918,7 +918,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Antiphon"
       }
@@ -930,7 +930,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "en-US": "Psalm"
       }

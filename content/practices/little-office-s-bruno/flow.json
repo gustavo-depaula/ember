@@ -32,25 +32,51 @@
               }
             },
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Coloniae progenitus,\nQuam vocant Agrippinam,\nEx inclyt is Parentibus,\nSub juventutem primam\nInferiora studia\nBruno puellus adit,\nQuaeis omnibus industria\nJam potior evadit,\nSophiae post Parisius,\nNec non Theologiae,\nSet totum sacris literis\nImpedit Bruno pie;\nTanarquicidem studio,\nUt palam respondere,\nToroque in Palladio\nDoctrina emineret."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -62,15 +88,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis sancte Bruno,\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis sancte Bruno,"
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti Brunonis Confessoris tui, quaesumus, Domine, intercessionibus adjuvemur: ut qui majestatem tuam graviter delinquendo offendimus, ejus meritis et precibus nostrorum delictorum veniam consequamur. Per Dominum nostrum etc."
+                "la": "Sancti Brunonis Confessoris tui, quaesumus, Domine, intercessionibus adjuvemur: ut qui majestatem tuam graviter delinquendo offendimus, ejus meritis et precibus nostrorum delictorum veniam consequamur. Per Dominum nostrum etc."
               }
             }
           ]
@@ -84,25 +123,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Theosophiae scrupulos\nSolvens abstrusiores,\nDoctrinae modestissimos\nConsociat et mores,\nSacra et naturalia\nArte tractans aequali,\nSuprema tandem laurea,\nOrnatur doctorali;\nPosthac, et post epomidem,\nSacrum assumens statum,\nPinguen capit propediem\nRhemis Canonicatum;\nStatuì dies absitris\nSed antequam illuxit,\nHorrendum drama coelitus\nHunc saeculo subduxit."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -130,25 +182,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Doctorum Vir primarius\nTum temporis obibat:\nJustus (ut vulgi publicus\nTunc rumor circumibat)\nSed huic cum officio\nDum missa decantatur,\nTer corpore exserto\nSe erigens, sic fatur:\nJusto Dei judicio\nSum rite accusatus,\nEodem sum et merito,\nJusque judicatus,\nAequa Dei sententia\nSum condemnatus! quare\nScitote, piis suffragiis,\nNil sacra me juvare."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -176,25 +241,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Haec territus tragedia\nAttonitus discedit,\nDei pavens judicia\nDum Noster domum redit,\nCharos cohortans socios\nLanduinum et Hugonem,\nAndream, duos Stephanos,\nGuarinum, se Brunonem\nMox ut sequantur: Stygias\nVitentque ut Harpyas,\nPer antra, per et latebras\nScrutentur Coeli vias,\nStricte servent silentia,\nSemperque meditentur\nAlta Dei judicia,\nQuois olim judicentur?"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -222,25 +300,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Posthaec Gratianopolis\nAntistitem accedunt,\nSibi que Solitudinis\nSignari locum petunt,\nDilato quo in crastinum\nDumtentum exstirpari\nIs noctu videt solitum\nCarthusiam vocari,\nUt Domus ibi fieret\nSeptena micans luce;\nQuo somno dum exsurgere,\nMox Deo struit duce\nTemplum, cuius cellulas\nSuamque hic disponit,\nSilentioque Regulam\nRogantibus imponit."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -268,25 +359,38 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Hic orant, texunt, sepiunt,\nJejunant, meditantur,\nTentamina si ingerunt,\nPro ope se precantur;\nAt integro septennio\nDum sic continuatur,\nEn! Bruno Romam illico\nAd Papam evocatur,\nMox Archipraesul Rhegii\nAb Hoc denominatus:\nSed apex hic officii\nHaud nostro fuit gratus;\nLinqut is cito moenia,\nEt cum quibusdam denuo\nTurena petit nemora\nCalabriae Eremuum."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -314,25 +418,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Convertere nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Convertere nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri etc."
+                "la": "Gloria Patri etc."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Sed neque hic delituit\nDivi virtus Brunonis,\nDum canibus subvoluit\nRogeri Marchionis,\nQui virum ut conspexerat,\nPleno favoris igne\nSic mox in hunc exarserat\nAmoris ad insignae\nFestivam huc ecclesiam\nUt hic aedificaret,\nJesum et Familiam\nOppiare dotaret,\nLimosa prius casulas\nEx latere condendo,\nPiscinas, hortos, vinas,\nSylvasque largiendo."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Ant."
               }
@@ -366,7 +496,7 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Ant."
       }
@@ -378,15 +508,28 @@
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Ora pro nobis sancte Bruno,\n℟. Ut digni efficiamur promissionibus Christi."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis sancte Bruno,"
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nO praeclarum ac lucidissimum sydus Ecclesiae, beate Bruno! qui a prima infantia, admirabili morum gravitate haud obscura futurae sanctitatis indicia prodidisti, artibus et divinis studiis tam profunde imbutus, et reportato in praemium virtutis et scientiae tuo doctorali honore, et Rhemensi canonicatu, tandemque ad Rhegiensem Archiepiscopatum sponte oblato, speciali divinae providentiae ductu eremitici eremitam tamen vitae amans propositi, sacrum Chartusiensem ordinem adserto silentii, solitudinis et jejunii fundavisti instituto; tanta quidem effectu, ut tam ceteris omnibus, quam praesertim Ecclesiae rebus, per sanum hanc regulam, ac singularem Divini sermonis methodum plurimum accommodatam, atque spiritualis accelerim incrementi. Fac igitur venerande Pater! ut per tua merita et suffragia sua, jugemque novissimi morum emendationem, ab omnibus peccatis nos solidos caveamus, de peccatis doleamus maxime, atque per assidua increscentis mortis meditationem vitam aeternam securam nobis, et certis consequamur.\nAmen."
+        "la": "O praeclarum ac lucidissimum sydus Ecclesiae, beate Bruno! qui a prima infantia, admirabili morum gravitate haud obscura futurae sanctitatis indicia prodidisti, artibus et divinis studiis tam profunde imbutus, et reportato in praemium virtutis et scientiae tuo doctorali honore, et Rhemensi canonicatu, tandemque ad Rhegiensem Archiepiscopatum sponte oblato, speciali divinae providentiae ductu eremitici eremitam tamen vitae amans propositi, sacrum Chartusiensem ordinem adserto silentii, solitudinis et jejunii fundavisti instituto; tanta quidem effectu, ut tam ceteris omnibus, quam praesertim Ecclesiae rebus, per sanum hanc regulam, ac singularem Divini sermonis methodum plurimum accommodatam, atque spiritualis accelerim incrementi. Fac igitur venerande Pater! ut per tua merita et suffragia sua, jugemque novissimi morum emendationem, ab omnibus peccatis nos solidos caveamus, de peccatis doleamus maxime, atque per assidua increscentis mortis meditationem vitam aeternam securam nobis, et certis consequamur.\nAmen."
       }
     }
   ]

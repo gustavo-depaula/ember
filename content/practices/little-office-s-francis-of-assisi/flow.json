@@ -33,25 +33,64 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine labia mea aperies."
+                  },
+                  "r": {
+                    "la": "Et os meum annuntiabit laudem tuam."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Domine labia mea aperies.\n℟. Et os meum annuntiabit laudem tuam.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Venite omnes pie mentes,\nVenite sinceri clientes,\nFranciscum Filii laudemus,\nEique nunc honorem demus.\n\nQuem humilitas exaltavit,\nVeraque sanctitas beavit,\nQui in angeli altam sedem\nLectus per luciferi caedem.\n\nLucifer enim superbiit,\nFranciscus se exinanivit."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -63,15 +102,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis S. Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis S. Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui ad demonstrandam tuam potestatem servum tuum Franciscum,\nob profundam ejusdem humilitatem in thronum luciferi collocasti,\ndejectum vero angelum ob superbiam humiliasti:\nconcede propitius, ut ejusdem exemplo hic in terris semper humiles,\nin aeterna dein gloria exaltari mereamur.\nPer Christum Dominum nostrum. Amen."
+                "la": "Deus, qui ad demonstrandam tuam potestatem servum tuum Franciscum,\nob profundam ejusdem humilitatem in thronum luciferi collocasti,\ndejectum vero angelum ob superbiam humiliasti:\nconcede propitius, ut ejusdem exemplo hic in terris semper humiles,\nin aeterna dein gloria exaltari mereamur.\nPer Christum Dominum nostrum. Amen."
               }
             }
           ]
@@ -85,25 +137,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "A Deo eras confirmatus,\nTu ut Seraphim inflammatus;\nVotum insuper emisisti,\nUt qui petunt amore Christi,\n\nOmnia per Christum dabis,\nNihil illis denegabis.\nLicet petant vestimenta,\nCorporisque lenimenta,\n\nOpem nemini negabis,\nCuncta nobis impetrabis."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -115,15 +193,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis Sancte Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis Sancte Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui cor sinceri tui servi Francisci in tuo amore ita inflammasti,\nut se votis obstrinxerit nulli quidquam amore tui petenti denegandi:\nfac ut pariter in nomine Christi postulantibus nihil denegemus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
+                "la": "Deus, qui cor sinceri tui servi Francisci in tuo amore ita inflammasti,\nut se votis obstrinxerit nulli quidquam amore tui petenti denegandi:\nfac ut pariter in nomine Christi postulantibus nihil denegemus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
               }
             }
           ]
@@ -137,25 +228,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Patris e domo ejectus,\nDei filius adlectus,\nPatrem nostrum invocasti,\nEs expertus, quod optasti.\n\nDulci eundem amplexu,\nColuisti novo nexu;\nInquiebas: Pater mi!\nAudiebas: Fili mi!\n\nDeus meus, et omnia,\nCaetera mundi somnia."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -167,15 +284,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis S. Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis S. Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui desertum a parente Franciscum,\net teque sincere et filiali invocantem\nin patronum tuum praesidium recipere dignatus es:\nconcede nobis filiis tuis, tibi filiali confidentia semper adhaerere,\natque sub paterno tuo praesidio secure vivere.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
+                "la": "Deus, qui desertum a parente Franciscum,\net teque sincere et filiali invocantem\nin patronum tuum praesidium recipere dignatus es:\nconcede nobis filiis tuis, tibi filiali confidentia semper adhaerere,\natque sub paterno tuo praesidio secure vivere.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
               }
             }
           ]
@@ -189,25 +319,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Te Deo plene dedicasti,\nAnimam totam consecrasti,\nPostquam corpus cruciasti,\nSanguineque sauciasti.\n\nOrdinis novi fundator\nFactus es, et propagator,\nE coelis qui mundo natus,\nSeraphicus appellatus.\n\nTu quas leges praescripsisti,\nIpse ad unguem implevisti."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -219,15 +375,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis S. Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis S. Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede nobis Omnipotens ac Benigne Deus,\nper austeram vivendi normam et magnamque zelosi servi tui Francisci poenitentiam,\nauxilium ac gratiam,\nut hic in terris nostrae conformiter vocationi in mortificatione corporis constanter nos exerceamus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
+                "la": "Concede nobis Omnipotens ac Benigne Deus,\nper austeram vivendi normam et magnamque zelosi servi tui Francisci poenitentiam,\nauxilium ac gratiam,\nut hic in terris nostrae conformiter vocationi in mortificatione corporis constanter nos exerceamus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
               }
             }
           ]
@@ -241,25 +410,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Paupertati desponsatus,\nEt inopia dotatus,\nHanc reginam nominasti,\nFactis tuis decorasti.\n\nDei opes solas veras,\nPraeter illas nugas meras,\nAgnovisti, et dixisti,\nDives, pauper dum vixisti.\n\nTe virtutes adornarunt,\nCaeli cives honorarunt."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -271,15 +466,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis S. Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis S. Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui Sancto Francisco Seraphico\npauperi quidem in hoc mundo,\ndiviti vero in gratia tua thesaurum verae evangelicae paupertatis indicasti:\ntribue nobis veram heroicam spiritus paupertatem,\nut cujus terrena omnia despicamus,\net non aliam quam in coelis haereditatem devote suspiremus,\natque glorioso obtineamus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
+                "la": "Deus, qui Sancto Francisco Seraphico\npauperi quidem in hoc mundo,\ndiviti vero in gratia tua thesaurum verae evangelicae paupertatis indicasti:\ntribue nobis veram heroicam spiritus paupertatem,\nut cujus terrena omnia despicamus,\net non aliam quam in coelis haereditatem devote suspiremus,\natque glorioso obtineamus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
               }
             }
           ]
@@ -293,25 +501,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Orans noctes consumebas,\nOrto sole mox legebas,\nSacra Patrum volumina,\nDelapsa coelo lumina.\n\nDeo laudes decantabas,\nEt canendo plus amabas;\nExclamabas: O mi Deus!\nEt omnia totus meus.\n\nEn te cor meum diligit,\nTeque in patrem eligit."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -323,15 +557,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis Sancte Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis Sancte Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, immensum mare omnium gratiarum et perfectionum,\nqui electo tuo servo Francisco omnia in omnibus fuisti,\ndum amore succensus exclamaret:\nDeus meus, et omnia!\nconcede etiam servis tuis, ut in te unicum nostrum cordis lenimen reperiamus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
+                "la": "Deus, immensum mare omnium gratiarum et perfectionum,\nqui electo tuo servo Francisco omnia in omnibus fuisti,\ndum amore succensus exclamaret:\nDeus meus, et omnia!\nconcede etiam servis tuis, ut in te unicum nostrum cordis lenimen reperiamus.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
               }
             }
           ]
@@ -345,25 +592,51 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Seraphicae mentis ardor,\nPuritatis vitae candor,\nDeo semper eras gratus,\nEt ab angelis amatus.\n\nTe calefasti parvum mundum,\nAbjecisti in profundum;\nNosti quod sit caro coenum,\nQuo delectat, sit venenum.\n\nMundum ergo debellasti,\nFelix victor triumphasti."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -375,15 +648,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis Sancte Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis Sancte Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede nobis Domine per merita et intercessionem tui maxime\nin angelica puritate excellentis servi tui Francisci\nillibatam animae et corporis puritatem,\nut mundo corde Agnum Immaculatum aeternum aspicere mereamur.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
+                "la": "Concede nobis Domine per merita et intercessionem tui maxime\nin angelica puritate excellentis servi tui Francisci\nillibatam animae et corporis puritatem,\nut mundo corde Agnum Immaculatum aeternum aspicere mereamur.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
               }
             }
           ]
@@ -397,25 +683,64 @@
           },
           "sections": [
             {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Amor Seraphicus accendat sensus, et corda nostra."
+                  },
+                  "r": {
+                    "la": "Amen."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Converte nos Deus salutaris noster."
+                  },
+                  "r": {
+                    "la": "Et averte iram tuam a nobis."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Deus in adjutorium meum intende."
+                  },
+                  "r": {
+                    "la": "Domine ad adjuvandum me festina."
+                  }
+                }
+              ]
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "℣. Amor Seraphicus accendat sensus, et corda nostra.\n℟. Amen.\n℣. Converte nos Deus salutaris noster.\n℟. Et averte iram tuam a nobis.\n℣. Deus in adjutorium meum intende.\n℟. Domine ad adjuvandum me festina.\nGloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
+                "la": "Gloria Patri, et Filio, et Spiritui Sancto.\nSicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Tibi Jesus vult uniri,\nCor amore vult muniri,\nIn dulce amoris signum\nMiat tibi crucis lignum.\n\nSigna imprimit doloris,\nMutui testes amoris;\nUt capias coeli bona,\nPurpurea confert dona.\n\nTe sibi facit similem,\nQuem novit esse humilem."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -427,15 +752,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Ora pro nobis Sancte Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Ora pro nobis Sancte Francisce Seraphice."
+                  },
+                  "r": {
+                    "la": "Ut digni efficiamur promissionibus Christi."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDomine Jesu Christe, qui frigescente mundo\nad inflammandum corda nostra tui amoris igne,\nin carne Beatissimi Patris Francisci passionis tuae sacra stigmata renovasti:\nconcede propitius, ut ejus meritis et precibus crucem jugiter feramus,\net dignos fructus poenitentiae faciamus.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum. Amen."
+                "la": "Domine Jesu Christe, qui frigescente mundo\nad inflammandum corda nostra tui amoris igne,\nin carne Beatissimi Patris Francisci passionis tuae sacra stigmata renovasti:\nconcede propitius, ut ejus meritis et precibus crucem jugiter feramus,\net dignos fructus poenitentiae faciamus.\nQui vivis et regnas cum Deo Patre\nin unitate Spiritus Sancti Deus,\nper omnia saecula saeculorum. Amen."
               }
             }
           ]
@@ -455,27 +793,40 @@
       }
     },
     {
-      "type": "rubric",
+      "type": "subheading",
       "text": {
         "la": "Hymnus"
       }
     },
     {
-      "type": "prayer",
+      "type": "hymn",
       "inline": {
         "la": "Iste confessor Domini, relicto\nOrbe terrarum meruit beatos\nExinde laetus penetrare portus\nAtrium coeli.\n\nNam pius, prudens, humilis, pudicus,\nNobilem duxit sine labe vitam,\nEt Dei mansit pietate plenus\nSemper amicus.\n\nInter electos sine fine gaudet,\nOsculum sanctae recipitque pacis,\nSortis aeternae meruitque salutis\nExsultat in aevum.\n\nPropter ingentis meriti valorem,\nHactenus multi potitiuntur aegri\nViribus morbi domitis, salute\nSuppeditata.\n\nReddit hinc illi chorus iste noster\nOmne per vitae viridantis aevum\nMaximas laudes celebresque palmas\nExhilaratus.\n\nRector immensi Dominusque coeli,\nSpiritus Sanctus, Pater atque Natus,\nTrinus ac unus tibi sint honores,\nGloria, virtus."
       }
     },
     {
-      "type": "prayer",
-      "inline": {
-        "la": "℣. Ora pro nobis Sancte Francisce Seraphice.\n℟. Ut digni efficiamur promissionibus Christi."
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "la": "Ora pro nobis Sancte Francisce Seraphice."
+          },
+          "r": {
+            "la": "Ut digni efficiamur promissionibus Christi."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "Oremus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Oremus,\nDeus, qui Ecclesiam tuam\nBeati Francisci meritis foetu novae prolis amplificas:\ntribue nobis ex ejus imitatione terrena despicere,\net coelestium donorum semper participatione gaudere.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
+        "la": "Deus, qui Ecclesiam tuam\nBeati Francisci meritis foetu novae prolis amplificas:\ntribue nobis ex ejus imitatione terrena despicere,\net coelestium donorum semper participatione gaudere.\nPer Dominum nostrum Jesum Christum Filium tuum,\nqui tecum vivit et regnat in saecula saeculorum. Amen."
       }
     },
     {

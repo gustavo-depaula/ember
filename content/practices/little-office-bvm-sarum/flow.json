@@ -27,7 +27,7 @@
           },
           "sections": [
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Incipit officium beate Marie virginis secundum usum et consuetudinem Sarum."
               }
@@ -39,7 +39,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Invitatorium"
               }
@@ -51,7 +51,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 94"
               }
@@ -63,19 +63,19 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "Quem terra, pontus, aethera\ncolunt, adorant, praedicant,\ntrinam regentem machinam\nclaustrum Mariae baiulat.\n\nCui luna, sol, et omnia\ndeserviunt per tempora,\nperfusa caeli gratia\ngestant puellae viscera.\n\nBeata mater munere\ncuius supernus artifex,\nmundum pugillo continens,\nventris sub arca clausus est.\n\nBeata caeli nuntio,\nfecunda sancto Spiritu,\ndesideratus gentibus,\ncuius per alvum fusus est.\n\nGloria tibi, Domine,\nqui natus es de Virgine,\ncum Patre et Sancto Spiritu\nin sempiterna saecula. Amen."
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 8"
               }
@@ -87,7 +87,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 18"
               }
@@ -99,7 +99,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 23"
               }
@@ -111,7 +111,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -147,7 +147,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Benedictio"
               }
@@ -159,7 +159,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Lectio I"
               }
@@ -201,7 +201,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Benedictio"
               }
@@ -213,7 +213,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Lectio II"
               }
@@ -243,7 +243,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Benedictio"
               }
@@ -255,7 +255,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Lectio III"
               }
@@ -291,7 +291,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum"
               }
@@ -337,7 +337,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -349,7 +349,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 91"
               }
@@ -361,7 +361,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 99"
               }
@@ -373,7 +373,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 62"
               }
@@ -385,7 +385,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 66"
               }
@@ -397,7 +397,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum Danielis"
               }
@@ -409,7 +409,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 148"
               }
@@ -421,7 +421,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 149"
               }
@@ -433,7 +433,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Psalmus 150"
               }
@@ -445,7 +445,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -457,7 +457,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Capitulum"
               }
@@ -469,13 +469,13 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Hymnus"
               }
             },
             {
-              "type": "prayer",
+              "type": "hymn",
               "inline": {
                 "la": "O gloriosa domina\nexcelsa supra sydera,\nqui te creavit provide\nlactasti sacro ubere.\n\nQuod Eva tristis abstulit\ntu reddis almo germine,\nintrent ut astra flebiles,\ncaeli fenestra facta es.\n\nTu regis alti ianua et\nporta lucis fulgida,\nvitam datam per Virginem,\ngentes redemptae plaudite.\n\nGloria tibi, Domine,\nqui natus es de Virgine,\ncum Patre et Sancto Spiritu\nin sempiterna saecula. Amen."
               }
@@ -505,7 +505,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -517,13 +517,13 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum (Lc 1:68--79) Benedictus"
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Canticum Zachariae (Benedictus)"
               }
@@ -535,7 +535,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -547,15 +547,28 @@
               }
             },
             {
-              "type": "prayer",
-              "inline": {
-                "la": "℣. Domine, exaudi.\n℟. Et clamor."
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Domine, exaudi."
+                  },
+                  "r": {
+                    "la": "Et clamor."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nConcede nos famulos tuos, quaesumus, Domine Deus noster, perpetua mentis et corporis sanitate gaudere;\net gloriosa beatae Mariae semper Virginis intercessione a praesenti liberari tristitia,\net aeterna perfrui laetitia. Per Dominum, et cetera."
+                "la": "Concede nos famulos tuos, quaesumus, Domine Deus noster, perpetua mentis et corporis sanitate gaudere;\net gloriosa beatae Mariae semper Virginis intercessione a praesenti liberari tristitia,\net aeterna perfrui laetitia. Per Dominum, et cetera."
               }
             },
             {
@@ -577,7 +590,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -601,9 +614,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui corda fidelium Sancti Spiritus illustratione docuisti,\nda nobis in eodem Spiritu recta sapere, et de eius semper consolatione gaudere. Per."
+                "la": "Deus, qui corda fidelium Sancti Spiritus illustratione docuisti,\nda nobis in eodem Spiritu recta sapere, et de eius semper consolatione gaudere. Per."
               }
             },
             {
@@ -613,7 +632,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -637,9 +656,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nOmnipotens sempiterne Deus, qui dedisti nobis famulis tuis in confessione verae fidei\naeternae Trinitatis gloriam agnoscere, et in potentia maiestatis adorare Unitaten:\nquaesumus, ut eiusdem fidei firmitate ab omnibus semper muniamur adversis. Qui vivis."
+                "la": "Omnipotens sempiterne Deus, qui dedisti nobis famulis tuis in confessione verae fidei\naeternae Trinitatis gloriam agnoscere, et in potentia maiestatis adorare Unitaten:\nquaesumus, ut eiusdem fidei firmitate ab omnibus semper muniamur adversis. Qui vivis."
               }
             },
             {
@@ -667,9 +692,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui sanctam crucem tuam ascendisti et mundi tenebras illuminasti,\ntu corda et corpora nostra illuminare, visitare et confortare dignare. Qui cum Deo Patre."
+                "la": "Deus, qui sanctam crucem tuam ascendisti et mundi tenebras illuminasti,\ntu corda et corpora nostra illuminare, visitare et confortare dignare. Qui cum Deo Patre."
               }
             },
             {
@@ -709,9 +740,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui miro ordine Angelorum ministeria hominumque dispensas,\nconcede propitius, ut, quibus tibi ministrantibus in caelo semper assistitur,\nab his in terra vita nostra muniatur. Per Christum."
+                "la": "Deus, qui miro ordine Angelorum ministeria hominumque dispensas,\nconcede propitius, ut, quibus tibi ministrantibus in caelo semper assistitur,\nab his in terra vita nostra muniatur. Per Christum."
               }
             },
             {
@@ -721,7 +758,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -745,9 +782,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nPerpetuis nos, Domine, sancti Ioannis Baptistae tuere praesidiis,\net quanto fragiliores sumus, tanto magis necessariis attolle suffragiis. Per."
+                "la": "Perpetuis nos, Domine, sancti Ioannis Baptistae tuere praesidiis,\net quanto fragiliores sumus, tanto magis necessariis attolle suffragiis. Per."
               }
             },
             {
@@ -775,9 +818,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui beato Petro Apostolo tuo, collatis clavibus regni caelestis,\nanimas ligandi atque solvendi pontificium tradidisti, concede propitius;\nut intercessionis eius auxilio a cunctis peccatorum nostrorum nexibus liberemur. Per."
+                "la": "Deus, qui beato Petro Apostolo tuo, collatis clavibus regni caelestis,\nanimas ligandi atque solvendi pontificium tradidisti, concede propitius;\nut intercessionis eius auxilio a cunctis peccatorum nostrorum nexibus liberemur. Per."
               }
             },
             {
@@ -805,9 +854,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui universum mundum beati Pauli Apostoli praedicatione docuisti,\nda nobis, quaesumus, ut, qui commemorationem eius colimus,\nper eius exempla ad te gradiamur. Per."
+                "la": "Deus, qui universum mundum beati Pauli Apostoli praedicatione docuisti,\nda nobis, quaesumus, ut, qui commemorationem eius colimus,\nper eius exempla ad te gradiamur. Per."
               }
             },
             {
@@ -817,7 +872,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -853,9 +908,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nMaiestatem tuam, Domine, supplices deprecamur,\nut sicut Ecclesiae tuae beatus Andreas Apostolus extitit praedicator et rector,\nita apud te sit pro nobis pius et perpetuus intercessor. Per."
+                "la": "Maiestatem tuam, Domine, supplices deprecamur,\nut sicut Ecclesiae tuae beatus Andreas Apostolus extitit praedicator et rector,\nita apud te sit pro nobis pius et perpetuus intercessor. Per."
               }
             },
             {
@@ -883,9 +944,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nEcclesiam tuam, quaesumus, Domine, benigne illustra,\nut beati Ioannis Apostoli tui et Evangelistae illuminata doctrinis\nad dona sempiterna perveniat. Per."
+                "la": "Ecclesiam tuam, quaesumus, Domine, benigne illustra,\nut beati Ioannis Apostoli tui et Evangelistae illuminata doctrinis\nad dona sempiterna perveniat. Per."
               }
             },
             {
@@ -925,9 +992,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nEsto, Domine, plebi tuae sanctificator et custos,\nut beati Apostoli tui Iacobi munita praesidiis et conversatione tibi placeat et secura deserviat. Per."
+                "la": "Esto, Domine, plebi tuae sanctificator et custos,\nut beati Apostoli tui Iacobi munita praesidiis et conversatione tibi placeat et secura deserviat. Per."
               }
             },
             {
@@ -937,7 +1010,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -973,9 +1046,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nOmnipotens sempiterne Deus, qui huius diei venerandam laetitiam beati Apostoli tui Bartholomaei\ncommemoratione tribuisti: da Ecclesiae tuae, quaesumus, et amare quod credidit, et praedicare quod docuit. Per."
+                "la": "Omnipotens sempiterne Deus, qui huius diei venerandam laetitiam beati Apostoli tui Bartholomaei\ncommemoratione tribuisti: da Ecclesiae tuae, quaesumus, et amare quod credidit, et praedicare quod docuit. Per."
               }
             },
             {
@@ -1003,9 +1082,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nExaudi nos, Deus salutaris noster, et Apostolorum atque Evangelistarum tuorum nos tuere praesidiis,\nquorum donasti fideles esse doctrinis. Per."
+                "la": "Exaudi nos, Deus salutaris noster, et Apostolorum atque Evangelistarum tuorum nos tuere praesidiis,\nquorum donasti fideles esse doctrinis. Per."
               }
             },
             {
@@ -1015,7 +1100,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1039,9 +1124,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDa nobis, quaesumus, Domine, imitari quod colimus,\nut discamus et inimicos diligere, quia eius natalicia celebramus,\nqui novit etiam pro persecutoribus exorare. Per Dominum nostrum Iesum Christum."
+                "la": "Da nobis, quaesumus, Domine, imitari quod colimus,\nut discamus et inimicos diligere, quia eius natalicia celebramus,\nqui novit etiam pro persecutoribus exorare. Per Dominum nostrum Iesum Christum."
               }
             },
             {
@@ -1051,7 +1142,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1087,9 +1178,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDa nobis, quaesumus, Domine Deus, vitiorum nostrorum flammas extinguere,\nut cui beato Laurentio tribuisti tormentorum suorum incendia superare. Per."
+                "la": "Da nobis, quaesumus, Domine Deus, vitiorum nostrorum flammas extinguere,\nut cui beato Laurentio tribuisti tormentorum suorum incendia superare. Per."
               }
             },
             {
@@ -1117,9 +1214,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, pro cuius Ecclesia gloriosus Pontifex gladiis impiorum occubuit:\npraesta, quaesumus, ut omnes qui eius implorant auxilium petitionis suae salutarem consequantur effectum. Per."
+                "la": "Deus, pro cuius Ecclesia gloriosus Pontifex gladiis impiorum occubuit:\npraesta, quaesumus, ut omnes qui eius implorant auxilium petitionis suae salutarem consequantur effectum. Per."
               }
             },
             {
@@ -1147,9 +1250,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nOmnipotens sempiterne Deus, qui beatum Blasium, praesulem et martyrem tuum,\nin agone certaminis tuo amore roborasti: assis Ecclesiae tuae precibus,\net da, ut cuius triumphum recolimus in terris, eius precibus adiuvemur in caelis. Per Christum."
+                "la": "Omnipotens sempiterne Deus, qui beatum Blasium, praesulem et martyrem tuum,\nin agone certaminis tuo amore roborasti: assis Ecclesiae tuae precibus,\net da, ut cuius triumphum recolimus in terris, eius precibus adiuvemur in caelis. Per Christum."
               }
             },
             {
@@ -1159,7 +1268,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1195,9 +1304,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nSancti Christofori Martyris tui, Domine, confessio veneranda\nconferat in nobis piae devotionis augmentum;\nut qui in tuo nomine iugiter perseverans meruit honorari,\nin suo consortio in aeterna felicitate nos faciat perhenniter triumphare. Per."
+                "la": "Sancti Christofori Martyris tui, Domine, confessio veneranda\nconferat in nobis piae devotionis augmentum;\nut qui in tuo nomine iugiter perseverans meruit honorari,\nin suo consortio in aeterna felicitate nos faciat perhenniter triumphare. Per."
               }
             },
             {
@@ -1207,7 +1322,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1231,9 +1346,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus ineffabilis misericordiae, qui beatum Edmundum tribuisti pro tuo nomine inimicum moriendo vincere:\nconcede propitius familiae tuae, ut, eo interveniente,\nin se antiqui hostis incitamenta superando exstinguere mereatur. Per."
+                "la": "Deus ineffabilis misericordiae, qui beatum Edmundum tribuisti pro tuo nomine inimicum moriendo vincere:\nconcede propitius familiae tuae, ut, eo interveniente,\nin se antiqui hostis incitamenta superando exstinguere mereatur. Per."
               }
             },
             {
@@ -1243,7 +1364,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1267,9 +1388,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui nos beati Georgii Martyris tui meritis et intercessione laetificas,\nconcede propitius, ut cuius beneficia poscimus, dono tuae gratiae consequamur. Per Christum."
+                "la": "Deus, qui nos beati Georgii Martyris tui meritis et intercessione laetificas,\nconcede propitius, ut cuius beneficia poscimus, dono tuae gratiae consequamur. Per Christum."
               }
             },
             {
@@ -1279,7 +1406,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1303,9 +1430,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nPraesta, quaesumus, omnipotens Deus, ut qui gloriosos Martyres tuos fortes in sua confessione cognovimus,\nipsos pios apud te in nostra intercessione sentiamus. Per."
+                "la": "Praesta, quaesumus, omnipotens Deus, ut qui gloriosos Martyres tuos fortes in sua confessione cognovimus,\nipsos pios apud te in nostra intercessione sentiamus. Per."
               }
             },
             {
@@ -1315,7 +1448,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1339,9 +1472,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nPropiciare, quaesumus, Domine, nobis famulis tuis per sancti Germani Confessoris tui atque Pontificis\nqui in nostra veneratur Ecclesia merita gloriosa ut eius piaintercessione ab omnibus semper adversis protegamur. Per."
+                "la": "Propiciare, quaesumus, Domine, nobis famulis tuis per sancti Germani Confessoris tui atque Pontificis\nqui in nostra veneratur Ecclesia merita gloriosa ut eius piaintercessione ab omnibus semper adversis protegamur. Per."
               }
             },
             {
@@ -1369,9 +1508,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui beatum Nicholaum pium Pontificem tuum innumeris decorasti miraculis:\ntribue nobis, quaesumus, ut eius meritis et precibus a Gehennae incendiis liberemur. Per."
+                "la": "Deus, qui beatum Nicholaum pium Pontificem tuum innumeris decorasti miraculis:\ntribue nobis, quaesumus, ut eius meritis et precibus a Gehennae incendiis liberemur. Per."
               }
             },
             {
@@ -1381,7 +1526,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1405,9 +1550,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui conspicis quia ex nulla nostra virtute subsistimus,\nconcede propitius, ut intercessione beati Martini Confessoris tui atque Pontificis\ncontra omnia adversa muniamur. Per."
+                "la": "Deus, qui conspicis quia ex nulla nostra virtute subsistimus,\nconcede propitius, ut intercessione beati Martini Confessoris tui atque Pontificis\ncontra omnia adversa muniamur. Per."
               }
             },
             {
@@ -1417,7 +1568,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1441,9 +1592,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui Ecclesiam tuam meritis et intercessionibus beatissimi Confessoris tui atque Pontificis Ioannis\nmirifico splendore clarificas, concede propitius, ut qui memoriam illius veneramur in terris,\nintercessorem apud te mereamur habere in caelis. Per."
+                "la": "Deus, qui Ecclesiam tuam meritis et intercessionibus beatissimi Confessoris tui atque Pontificis Ioannis\nmirifico splendore clarificas, concede propitius, ut qui memoriam illius veneramur in terris,\nintercessorem apud te mereamur habere in caelis. Per."
               }
             },
             {
@@ -1453,7 +1610,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1477,9 +1634,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui nos beati Willelmi Confessoris tui atque Pontificis meritis et intercessione laetificas,\nconcede propitius, ut qui eius beneficia poscimus, dono tuae gratiae consequamur. Per."
+                "la": "Deus, qui nos beati Willelmi Confessoris tui atque Pontificis meritis et intercessione laetificas,\nconcede propitius, ut qui eius beneficia poscimus, dono tuae gratiae consequamur. Per."
               }
             },
             {
@@ -1489,7 +1652,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1513,9 +1676,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nMaiestati tuae, quaesumus Domine, sanctissimi Confessoris tui Leonardi nos\npia iugiter commendet oratio; ut quem devote veneramur officio,\nipsius suffragio sublevemur optato. Per."
+                "la": "Maiestati tuae, quaesumus Domine, sanctissimi Confessoris tui Leonardi nos\npia iugiter commendet oratio; ut quem devote veneramur officio,\nipsius suffragio sublevemur optato. Per."
               }
             },
             {
@@ -1543,9 +1712,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui nos Sanctorum Confessorum tuorum confessionibus gloriosis circumdas et protegis,\nda nobis et eorum imitatione proficere, et intercessione gaudere. Per."
+                "la": "Deus, qui nos Sanctorum Confessorum tuorum confessionibus gloriosis circumdas et protegis,\nda nobis et eorum imitatione proficere, et intercessione gaudere. Per."
               }
             },
             {
@@ -1555,7 +1730,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1579,9 +1754,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui beatam Annam diu sterilem prole gloriosa et humano generi salutifera fecundari voluisti,\nda ut omnes, qui ob amorem filiae matrem venerantur,\nin hora mortis utriusque praesentia gaudere mereantur. Per."
+                "la": "Deus, qui beatam Annam diu sterilem prole gloriosa et humano generi salutifera fecundari voluisti,\nda ut omnes, qui ob amorem filiae matrem venerantur,\nin hora mortis utriusque praesentia gaudere mereantur. Per."
               }
             },
             {
@@ -1591,7 +1772,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1615,9 +1796,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nLargire nobis, elementissime Pater,\nut sicut beata Maria Magdalena Unigenitum tuum Dominum nostrum Iesum Christum super omnia diligendo\nsuorum obtinuit veniam peccaminum, ita apud tuam misericordiam sempiternam nobis impetret beatitudinem. Per."
+                "la": "Largire nobis, elementissime Pater,\nut sicut beata Maria Magdalena Unigenitum tuum Dominum nostrum Iesum Christum super omnia diligendo\nsuorum obtinuit veniam peccaminum, ita apud tuam misericordiam sempiternam nobis impetret beatitudinem. Per."
               }
             },
             {
@@ -1627,7 +1814,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1663,9 +1850,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui dedisti legem Moysi in summitate montis Sinai ab Angelis deferri iussisti,\net in eodem loco corpus beatae Katherinae Virginis et Martyris tuae mirabiliter collocasti:\ntribue, quaesumus, ut eius meritis et intercessione ad montem qui Christus est valeamus pervenire. Per."
+                "la": "Deus, qui dedisti legem Moysi in summitate montis Sinai ab Angelis deferri iussisti,\net in eodem loco corpus beatae Katherinae Virginis et Martyris tuae mirabiliter collocasti:\ntribue, quaesumus, ut eius meritis et intercessione ad montem qui Christus est valeamus pervenire. Per."
               }
             },
             {
@@ -1675,7 +1868,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1711,9 +1904,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui beatam Virginem tuam Margaretam hodierno die ad caelos per martyrii palmam venire fecisti,\nconcede propitius, ut eius exempla sequentes ad te pervenire mereamur. Per."
+                "la": "Deus, qui beatam Virginem tuam Margaretam hodierno die ad caelos per martyrii palmam venire fecisti,\nconcede propitius, ut eius exempla sequentes ad te pervenire mereamur. Per."
               }
             },
             {
@@ -1723,7 +1922,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1747,9 +1946,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui eximiae castitatis privilegio beatissimam Virginem tuam Etheldredam mirabiliter decorasti,\nda nobis famulis tuis, ut sicut eius commemoratio a nobis agitur in terris,\nita per eius interventum nostri memoria apud te semper habeatur in caelis. Per."
+                "la": "Deus, qui eximiae castitatis privilegio beatissimam Virginem tuam Etheldredam mirabiliter decorasti,\nda nobis famulis tuis, ut sicut eius commemoratio a nobis agitur in terris,\nita per eius interventum nostri memoria apud te semper habeatur in caelis. Per."
               }
             },
             {
@@ -1759,7 +1964,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1783,9 +1988,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, qui ad celebrandum sanctae Fidis Virginis et Martyris triumphum venerabilem tuorum excitas corda fidelium:\nda, quaesumus, ut quam sollemni veneramur officio,\neius continuo foveamur auxilio. Per."
+                "la": "Deus, qui ad celebrandum sanctae Fidis Virginis et Martyris triumphum venerabilem tuorum excitas corda fidelium:\nda, quaesumus, ut quam sollemni veneramur officio,\neius continuo foveamur auxilio. Per."
               }
             },
             {
@@ -1795,7 +2006,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1819,9 +2030,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nExaudi nos, Deus salutaris noster, ut sicut de beatarum Virginum tuarum festivitate gaudemus,\nita piae devotionis erudiamur affectu. Per."
+                "la": "Exaudi nos, Deus salutaris noster, ut sicut de beatarum Virginum tuarum festivitate gaudemus,\nita piae devotionis erudiamur affectu. Per."
               }
             },
             {
@@ -1831,7 +2048,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1855,9 +2072,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nInfirmitatem nostram, quaesumus Domine Deus, propitius respice;\net mala omnia quae iuste meremur sanctissimae Virginis Mariae Matris tuae et omnium Sanctorum tuorum\npiissima intercessione averte. Per."
+                "la": "Infirmitatem nostram, quaesumus Domine Deus, propitius respice;\net mala omnia quae iuste meremur sanctissimae Virginis Mariae Matris tuae et omnium Sanctorum tuorum\npiissima intercessione averte. Per."
               }
             },
             {
@@ -1867,7 +2090,7 @@
               }
             },
             {
-              "type": "rubric",
+              "type": "subheading",
               "text": {
                 "la": "Antiphona"
               }
@@ -1891,9 +2114,15 @@
               }
             },
             {
+              "type": "rubric",
+              "text": {
+                "la": "Oremus."
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Oremus,\nDeus, a quo sancta desideria, recta consilia et iusta sunt opera:\nda servis tuis illam, quam mundus dare non potest, pacem;\nut et corda nostra mandatis tuis dedita, et hostium sublata formidine, tempora sint tua protectione tranquilla. Per Dominum nostrum Iesum Christum, et cetera."
+                "la": "Deus, a quo sancta desideria, recta consilia et iusta sunt opera:\nda servis tuis illam, quam mundus dare non potest, pacem;\nut et corda nostra mandatis tuis dedita, et hostium sublata formidine, tempora sint tua protectione tranquilla. Per Dominum nostrum Iesum Christum, et cetera."
               }
             }
           ]
