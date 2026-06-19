@@ -67,14 +67,16 @@ export function registerLocalEntries(entries: Record<string, CatalogEntry>): voi
 }
 
 /**
- * Resolver for manifest bodies whose hash is synthetic (not a real Hearth blob).
+ * Resolvers for manifest bodies whose hash is synthetic (not a real Hearth blob).
  * Lets `ensureManifestBody` build external manifests on demand — e.g. an Escrivá
- * `BookEntry` assembled from the API — instead of fetching a non-existent blob.
+ * or Catechism `BookEntry` assembled at runtime — instead of fetching a
+ * non-existent blob. Tried in registration order until one returns a value, so
+ * multiple external sources (each owning a hash prefix) coexist.
  */
-let manifestBodyResolver: ((hash: string) => Promise<unknown | undefined>) | undefined
+const manifestBodyResolvers: Array<(hash: string) => Promise<unknown | undefined>> = []
 
 export function setManifestBodyResolver(fn: (hash: string) => Promise<unknown | undefined>): void {
-  manifestBodyResolver = fn
+  manifestBodyResolvers.push(fn)
 }
 
 let mergedEntries: Map<string, CatalogEntry> | undefined
@@ -145,8 +147,8 @@ export function getRememberedManifest<T>(hash: string): T | undefined {
 export async function ensureManifestBody<T>(hash: string): Promise<T> {
   const cached = manifestBodies.get(hash) as T | undefined
   if (cached !== undefined) return cached
-  if (manifestBodyResolver) {
-    const built = (await manifestBodyResolver(hash)) as T | undefined
+  for (const resolve of manifestBodyResolvers) {
+    const built = (await resolve(hash)) as T | undefined
     if (built !== undefined) {
       manifestBodies.set(hash, built)
       return built

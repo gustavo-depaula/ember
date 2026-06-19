@@ -25,7 +25,7 @@ export type FoliateMessage =
   | { type: 'load'; index: number }
   | { type: 'centerTap' }
   | { type: 'footnoteTap'; html: string }
-  | { type: 'crossRefTap'; href: string }
+  | { type: 'crossRefTap'; href?: string; ref?: string }
   | {
       type: 'selectionChange'
       chapterIndex: number

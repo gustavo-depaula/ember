@@ -1,4 +1,3 @@
-export { type CccParagraph, getCccParagraphs } from '@/lib/catechism'
 export {
   ensurePracticeCursors,
   type PsalmSlot,

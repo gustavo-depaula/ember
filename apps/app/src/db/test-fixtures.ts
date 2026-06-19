@@ -2,7 +2,6 @@
 // — see apps/app/src/app/dev/reset.tsx. Do not import from production paths.
 
 import { useBibleStore } from '@/stores/bibleStore'
-import { useCatechismStore } from '@/stores/catechismStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useEventStore } from './events'
 import { emitBatch } from './events/store'
@@ -34,7 +33,7 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
   // Re-hydrate to defaults from the (now empty) preferences table — flipping
   // `hydrated: false` without re-running `hydrate()` strands the boot gate
   // since `_layout.tsx` waits on these flags before rendering.
-  await Promise.all([useBibleStore.getState().hydrate(), useCatechismStore.getState().hydrate()])
+  await useBibleStore.getState().hydrate()
 
   // Serial: each seed call ends up in `emitBatch` -> `withTransactionAsync`,
   // and a single expo-sqlite connection can't hold two transactions at once.

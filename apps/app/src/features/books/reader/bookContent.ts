@@ -1,8 +1,27 @@
 import { Marked } from 'marked'
 import markedFootnote from 'marked-footnote'
+import { cccBookProducerId, loadCccChapterHtml } from '@/content/cccCatalog'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import { loadEscrivaChapterHtml } from '@/content/escrivaCatalog'
+import { escrivaProducerId } from '@/content/escrivaWorks'
 import type { BookEntry } from '@/content/manifestTypes'
+
+/**
+ * Loader for an external book's already-HTML chapter body, keyed by the book's
+ * `source.producer`. Each fetches from its third-party site and caches locally.
+ */
+type ExternalChapterLoader = (
+  bookId: string,
+  chapterId: string,
+  lang: string,
+  url: string,
+) => Promise<string>
+
+const externalChapterLoaders: Record<string, ExternalChapterLoader> = {
+  [escrivaProducerId]: loadEscrivaChapterHtml,
+  [cccBookProducerId]: loadCccChapterHtml,
+}
+
 import type { TocNode } from '@/content/resolver'
 import { getBlob, getText } from '@/content/store'
 import { galleryExtension } from '@/features/books/markedGalleryExtension'
@@ -261,12 +280,21 @@ export async function openBookSession(
     if (!id) return ''
     const ref = manifest.chapters?.[id]?.[lang]
     if (!ref) return ''
-    // External books (Escrivá) fetch+cache their already-HTML chapter body from
-    // the producer; bundled books read the hashed markdown/HTML blob from Hearth.
-    const html =
-      'type' in ref
-        ? await loadEscrivaChapterHtml(manifest.id, id, lang, ref.url)
-        : await renderBundledChapter(await getText(ref.hash), ref.format)
+    // External books fetch+cache their already-HTML chapter body from the
+    // producer named by `source.producer`; bundled books read the hashed
+    // markdown/HTML blob from Hearth.
+    let html: string
+    if ('type' in ref) {
+      const loader = externalChapterLoaders[manifest.source?.producer ?? '']
+      if (!loader) {
+        throw new Error(
+          `No external chapter loader for producer "${manifest.source?.producer}" (book ${manifest.id})`,
+        )
+      }
+      html = await loader(manifest.id, id, lang, ref.url)
+    } else {
+      html = await renderBundledChapter(await getText(ref.hash), ref.format)
+    }
     const body = extractBody(html)
     return inlineImages ? inlineChapterImages(body, imageRefs, imageCache) : body
   }
