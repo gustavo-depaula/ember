@@ -41,6 +41,16 @@ export function geohashPrecisionForRadiusKm(radiusKm: number): number {
   return 3
 }
 
+// A viewport box's precision: take its larger span as the working diameter and reuse the radius
+// mapping (half the diameter). Keeps the covering set small for wide boxes, fine-grained for tight
+// ones — same indexed prefix-range path as "near", just bounded by a box instead of a circle.
+export function geohashPrecisionForBbox(bbox: Bbox): number {
+  const midLat = (bbox.minLat + bbox.maxLat) / 2
+  const latSpanKm = (bbox.maxLat - bbox.minLat) * 111
+  const lngSpanKm = Math.abs(bbox.maxLng - bbox.minLng) * 111 * Math.cos(toRad(midLat))
+  return geohashPrecisionForRadiusKm(Math.max(latSpanKm, lngSpanKm) / 2)
+}
+
 // Every geohash cell of the given length that intersects the box (more than "center + 8 neighbors"
 // whenever the box spans multiple cells). ngeohash.bboxes returns exactly this set.
 export function coveringPrefixes(bbox: Bbox, precision: number): string[] {

@@ -1,14 +1,15 @@
 import type { Church, ChurchesQuery, NearQuery, Service } from '@ember/api'
 import type { Db } from '../../db'
+import type { Bbox } from '../../lib/geo'
 import {
   boundingBox,
   coveringPrefixes,
+  geohashPrecisionForBbox,
   geohashPrecisionForRadiusKm,
   haversineKm,
   prefixRanges,
 } from '../../lib/geo'
 import {
-  browseChurches,
   churchById,
   churchesByIds,
   churchesInGeohashRanges,
@@ -56,8 +57,27 @@ export async function churchDetail(db: Db, id: string): Promise<ChurchDetail | u
   return { ...c, services: c.services ?? [], texts: c.texts ?? [], links: c.links ?? [] }
 }
 
-// Browse / search. `q` → FTS5 (rank-ordered ids → hydrate); otherwise country/city/bbox + filters.
-// Service-level filters (kind/rite) are applied uniformly afterwards — same mechanism as `near`.
+const inBbox = (c: { lat: number; lng: number }, b: Bbox) =>
+  c.lat >= b.minLat && c.lat <= b.maxLat && c.lng >= b.minLng && c.lng <= b.maxLng
+
+// Viewport browse: the same geohash covering-set → indexed prefix scan as `near`, bounded by a box
+// instead of a radius. Covering cells overshoot the box, so refine to true containment, then cap.
+export async function churchesInViewport(
+  db: Db,
+  q: { bbox: Bbox; status?: string; institute?: string; limit: number },
+): Promise<Church[]> {
+  const ranges = prefixRanges(coveringPrefixes(q.bbox, geohashPrecisionForBbox(q.bbox)))
+  const candidates = await churchesInGeohashRanges(db, ranges, {
+    status: q.status,
+    institute: q.institute,
+  })
+  return candidates.filter((c) => inBbox(c, q.bbox)).slice(0, q.limit)
+}
+
+// Search. `q` → FTS5 (rank-ordered ids → hydrate); else a viewport `bbox` → geohash-indexed scan.
+// Both paths are index-backed; an unbounded list (neither given) has no indexed answer and is
+// rejected by the validator (this returns []). Service-level filters (kind/rite) apply uniformly
+// afterwards — same mechanism as `near`.
 export async function searchChurches(db: Db, query: ChurchesQuery): Promise<Church[]> {
   let base: Church[]
   if (query.q) {
@@ -68,16 +88,15 @@ export async function searchChurches(db: Db, query: ChurchesQuery): Promise<Chur
     const rows = await churchesByIds(db, ids)
     const order = new Map(ids.map((id, i) => [id, i]))
     base = rows.sort((a, b) => (order.get(a.id) ?? 0) - (order.get(b.id) ?? 0))
-  } else {
-    base = await browseChurches(db, {
-      country: query.country,
-      city: query.city,
+  } else if (query.bbox) {
+    base = await churchesInViewport(db, {
       bbox: query.bbox,
-      institute: query.institute,
       status: query.status,
+      institute: query.institute,
       limit: query.limit,
-      offset: query.offset,
     })
+  } else {
+    return []
   }
   if (!query.kind && !query.rite) return base
   return base.filter((c) => (c.services ?? []).some((s) => matchesFilter(s, query)))

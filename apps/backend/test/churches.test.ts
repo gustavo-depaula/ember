@@ -86,7 +86,10 @@ describe('GET /churches/near', () => {
   })
 })
 
-describe('GET /churches (browse + FTS)', () => {
+describe('GET /churches (viewport + FTS)', () => {
+  // Box around the center: contains the 3 near churches, excludes the ~111 km one.
+  const nearBox = '-74.1,39.9,-73.9,40.1' // minLng,minLat,maxLng,maxLat
+
   it('finds a church by FTS5 name search', async () => {
     const res = await app.request('/churches?q=Joseph', {}, env)
     const ids = (await json(res)).churches.map((c) => c.id)
@@ -99,10 +102,23 @@ describe('GET /churches (browse + FTS)', () => {
     expect(ids).toEqual(['st-joseph-b'])
   })
 
-  it('applies kind/rite service-filter on the browse path too', async () => {
-    const res = await app.request('/churches?rite=latin_tridentine', {}, env)
+  it('returns churches inside the viewport box and excludes far ones', async () => {
+    const res = await app.request(`/churches?bbox=${nearBox}`, {}, env)
+    expect(res.status).toBe(200)
+    const ids = (await json(res)).churches.map((c) => c.id)
+    expect(ids).toEqual(expect.arrayContaining(['st-mary-a', 'st-joseph-b', 'st-peter-c']))
+    expect(ids).not.toContain('st-far-d')
+  })
+
+  it('applies kind/rite service-filter on the viewport path too', async () => {
+    const res = await app.request(`/churches?bbox=${nearBox}&rite=latin_tridentine`, {}, env)
     const ids = (await json(res)).churches.map((c) => c.id)
     expect(ids).toEqual(['st-mary-a'])
+  })
+
+  it('rejects an unbounded list with neither q nor bbox (Zod 400)', async () => {
+    const res = await app.request('/churches?rite=latin_tridentine', {}, env)
+    expect(res.status).toBe(400)
   })
 })
 

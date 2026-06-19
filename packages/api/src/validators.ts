@@ -29,18 +29,23 @@ const bbox = z.string().transform((s, ctx) => {
   return { minLng, minLat, maxLng, maxLat }
 })
 
-export const churchesQuerySchema = z.object({
-  country: z.string().optional(),
-  city: z.string().optional(),
-  q: z.string().optional(), // FTS5 name search
-  bbox: bbox.optional(), // map pins (zoomed in)
-  kind: z.string().optional(),
-  rite: z.string().optional(),
-  institute: z.string().optional(),
-  status: z.string().optional(),
-  limit,
-  offset,
-})
+// Every branch must be index-backed: `q` → FTS5, `bbox` → geohash. An unbounded list has no indexed
+// answer (the only church indexes are FTS, the PK, and geohash), so require one of the two — the
+// contract can't express a full table scan.
+export const churchesQuerySchema = z
+  .object({
+    q: z.string().optional(), // FTS5 name search
+    bbox: bbox.optional(), // map viewport → geohash covering-set
+    kind: z.string().optional(),
+    rite: z.string().optional(),
+    institute: z.string().optional(),
+    status: z.string().optional(),
+    limit,
+    offset,
+  })
+  .refine((v) => v.q !== undefined || v.bbox !== undefined, {
+    message: 'provide q (name search) or bbox (map viewport)',
+  })
 
 export const verificationsQuerySchema = z.object({ limit, offset })
 
