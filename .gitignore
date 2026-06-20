@@ -1,5 +1,10 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# Secrets — never commit (Cloudflare tokens, R2 keys, etc.)
+.cloudflare.env
+*.secret
+.secrets/
+
 # dependencies
 node_modules/
 
