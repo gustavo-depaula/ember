@@ -120,23 +120,19 @@ COMMUNION. MATT. 19. You who have followed Me shall sit on thrones judging the t
 
 POSTCOMMUNION. Having received Thy Sacraments, O Lord, we humbly entreat Thee, that through the intercession of Thy blessed Apostle Jude, what we do in honour of his martyrdom may avail us as a healing remedy. Through our Lord . . .
 
-
 ## Offering.
 
 O Eternal Father, I offer Thee this holy Sacrifice to Thy highest praise, with that same intention and for the same aim and end as Thy beloved Son, the eternal High Priest, Jesus Christ, Himself, offers it to Thee. I offer it especially for the greater glory and beatitude of St. Jude Thaddeus, in thanksgiving for all the graces and eternal bliss bestowed upon him, and for my spiritual and temporal needs, particularly for . . . Amen.
 
 Any of the following prayers may be used for a Novena, according to one's needs.
 
-
 ## 1. Prayer For Special Favour
 
 Glorious Apostle, St. Jude Thaddeus, true relative of Jesus and Mary, I greet thee through the Sacred Heart of Jesus. Through this Heart I praise and thank God for all the graces He has bestowed upon thee. Humbly prostrate before thee, I implore thee, through this Heart, to look down upon me with compassion. Despise not my poor prayer; let not my trust be confounded! To thee God has granted the privilege of aiding mankind in the most desperate cases. Oh, come to my aid, that I may praise the mercies of God! All my life I will be grateful to thee and will be thy faithful client until I can thank thee in heaven. Amen.
 
-
 ## 2. Prayer For Spiritual Help
 
 Glorious Apostle, martyr, and relative of Jesus, St. Jude Thaddeus, thou spreadest the true faith among the most barbarous and distant nations, and won to the obedience of Jesus Christ many tribes and peoples by the power of His holy word. Grant, I beseech thee, that from this day I may renounce every sinful habit, that I may be preserved from all evil thoughts, that I may always obtain thine assistance, particularly in every danger and difficulty, and that I may safely reach the heavenly country, with thee to adore the Most Holy Trinity the Father, Son and Holy Spirit, forever and ever. Amen.
-
 
 ## 3. Prayer For Help In Trials
 
@@ -146,18 +142,15 @@ Most holy Apostle, St. Jude faithful servant and friend of Jesus, the name of th
 
 I promise thee, O blessed St. Jude, to be ever mindful of this great favour, and I will never cease to honour thee as my special and powerful patron and to do all in my power to encourage devotion to thee: Amen.
 
-
 ## 4. Prayer In Grievous Affliction
 
 St. Jude Thaddeus, relative of Jesus and Mary, glorious Apostle and martyr, renowned for thy virtues and miracles, faithful and prompt intercessor for all who honour thee and trust in thee! Powerful patron and helper in grievous affliction, I come to thee and entreat thee with all my heart to come to my aid, for thou hast received from God the privilege of assisting with manifest help those who almost despair. Look down upon me; my life is a life of crosses, my days are full of tribulation, and my paths are strewn with thorns, and scarcely one moment passes but is witness of my tears and sighs. My soul is enveloped in darkness, disquietude, discouragement, mistrust; yes, sometimes even a kind of despair preys upon my soul. Divine Providence seems lost to my sight, and faith seems to falter in my heart. Overwhelmed by these thoughts, I see myself surrounded by a dark cloud. Thou cannot forsake me in this sad plight! I will not depart from thee until thou hast heard me. Oh! hasten to my aid. I will honour thee as my special patron. I will thank God for the graces bestowed upon thee, and will propagate thine honour according to my power. Amen.
 
 In great affliction one may promise the Apostle, in case he will help, to distribute a certain number of these booklets in thanksgiving. This means of spreading devotion to him is an effective way of obtaining his help.
 
-
 ## 5. Prayer For A Sick Person
 
 Almighty and Eternal God, the everlasting salvation of those who believe: hear us on behalf of Thy servant N . . . for whom we implore the aid of Thy tender mercy, that being restored to bodily health, he (she) may give thanks to Thee in Thy church, through Christ Our Lord. Amen.
-
 
 ## Praise And Thanksgiving
 
@@ -165,30 +158,20 @@ It was revealed to St. Gertrude that it is a source of great joy to the saints w
 
 O most sweet Lord Jesus Christ, in union with the unutterable praise with which the Most Holy Trinity extols Itself and which thence flows upon Thy Sacred Humanity, upon Mary, upon all the angels and saints, I praise, glorify and bless Thee for all the graces and privileges Thou hast bestowed upon Thy chosen Apostle and intimate friend, Jude Thaddeus. I pray Thee for the sake of his merits, grant me Thy grace, and through his intercession come to my aid in all my needs. Especially at the hour of my death deign to strengthen me against the rage of my enemies. Amen.
 
-Lord, have mercy on us.
+### Litany of St. Jude Helper in Great Need
 
-Christ, have mercy on us.
-
-Lord, have mercy on us.
-
-Christ, hear us.
-
-Christ, graciously hear us.
-
-God the Father of heaven, Have mercy on us
-
-God the Son, Redeemer of the world, etc
-
-God the Holy Spirit,
-
-Holy Trinity, one God,
-
-St. Jude, relative of Jesus and Mary, Pray for us
-
-St. Jude, while on earth deemed worthy to see Jesus and Mary, and to enjoy their company, etc.
-
-St. Jude, raised to the dignity of an Apostle,
-
+Lord, *have mercy on us.*  
+Christ, *have mercy on us.*  
+Lord, *have mercy on us.*  
+Christ, *hear us.*  
+Christ, *graciously hear us.*  
+God the Father of heaven, *Have mercy on us*  
+God the Son, Redeemer of the world, etc  
+God the Holy Spirit,  
+Holy Trinity, one God,  
+St. Jude, relative of Jesus and Mary, *Pray for us*  
+St. Jude, while on earth deemed worthy to see Jesus and Mary, and to enjoy their company, etc.  
+St. Jude, raised to the dignity of an Apostle,  
 St. Jude, honoured in beholding the Divine Master humble Himself to wash thy feet,
 
 St. Jude, who at the Last Supper received the Holy Eucharist from the hands of Jesus, Pray for us St. Jude, who after the profound grief which the death of thy beloved Master caused thee, had the consolation of
@@ -219,31 +202,22 @@ St. Jude, help of the hopeless, aid me in my distress! (Three times).
 
 That by thy intercession, both priests and people of the Church may obtain an ardent zeal for the Faith of Jesus Christ,
 
-We beseech thee, hear us.
-
-That thou wouldst defend our Sovereign Pontiff and obtain peace and unity for the Holy Church, etc. That all heathens and unbelievers may be converted to the true Faith,
-
-That faith, hope and charity may increase in our hearts,
-
+*We beseech thee, hear us.*  
+That thou wouldst defend our Sovereign Pontiff and obtain peace and unity for the Holy Church, etc. That all heathens and unbelievers may be converted to the true Faith,  
+That faith, hope and charity may increase in our hearts,  
 That we may be delivered from evil thoughts and from the snares of the devil,
 
 That thou wouldst deign to aid and protect all those who honour thee
 
 That thou wouldst preserve us from all sin and from all occasions of sin,
 
-That thou wouldst defend us at the hour of death against the fury of the devil and of all evil spirits, Pray for us, that before death we may expiate all our sins by sincere repentance and the worthy reception of the holy
-
-sacraments,
-
-Pray for us, that we may appease the Divine Justice and obtain a favourable judgement,
-
-Pray for us, that we may be admitted into the company of the blessed, to rejoice in the presence of our God forever. Lamb of God, who takest away the sins of the world,
-
-Lamb of God, who takest away the sins of the world,
-
-Lamb of God, who takest away the sins of the world,
-
-St. Jude, pray for us
+That thou wouldst defend us at the hour of death against the fury of the devil and of all evil spirits, *Pray for us, that before death we may expiate all our sins by sincere repentance and the worthy reception of the holy*  
+sacraments,  
+*Pray for us, that we may appease the Divine Justice and obtain a favourable judgement,*  
+Pray for us, that we may be admitted into the company of the blessed, to rejoice in the presence of our God forever. Lamb of God, who takest away the sins of the world,  
+Lamb of God, who takest away the sins of the world,  
+Lamb of God, who takest away the sins of the world,  
+St. Jude, *pray for us*
 
 And for all who invoke thine aid.
 

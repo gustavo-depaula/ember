@@ -56,79 +56,49 @@ Holy patroness of those in need, St Rita, so humble, pure and patient, whose ple
 
 Our Father, Hail Mary, Glory be to the Father . . . (three times).
 
-Lord, have mercy.
+### Litany of Saint Rita of Cascia
 
-Christ, have mercy.
-
-Lord, have mercy.
-
-Christ, hear us.
-
-Christ, graciously hear us. God the Father Almighty, have mercy on us.
-
-God the Son, Redeemer of the world, who said: Ask, and you shall receive, seek, and you shall find; knock, and it shall be opened unto you,' have mercy on us.
-
-God the Holy Ghost, Spirit of wisdom, understanding, counsel and knowledge, have mercy on us. Holy Trinity, one God, infinite in power, have mercy on us.
-
-Holy Mary, who never refuses a petition, pray for us.
-
-Immaculate virgin, Queen of heaven and earth, pray for us.
-
-Our Lady of the Sacred Heart, pray for us.
-
-Holy Angels, spirits of humility, pray for us.
-
-Holy Principalities, protectors of religious communities, pray for us.
-
-Holy Virtues, angels of fortitude, pray for us.
-
-Holy Cherubim, angels of light, pray for us.
-
-St Rita, advocate of the impossible, pray for us.
-
-St Rita, consecrated to God, pray for us.
-
-St Rita, bride of the suffering Saviour, pray for us.
-
-St Rita, filled with compassion for the sufferings of Christ, pray for us.
-
-St Rita, crowned by an angel with a crown of thorns, pray for us.
-
-St Rita, who bore the wounds of His mysterious crown on thy forehead, pray for us.
-
-St Rita, who firmly trusted in the loving mercy of Jesus, pray for us.
-
-St Rita, who importuned the dying Saviour with ardent supplications, pray for us.
-
-St Rita, who never doubted a gracious answer to thy prayer, pray for us.
-
-That we may renounce all self-love, pray for us, St Rita.
-
-That we may confidently trust in the promise of Jesus, pray for us, St Rita.
-
-That the enemies of our salvation may be put to confusion, pray for us, St Rita.
-
-That we may ever perfectly fulfil the will of God, pray for us, St Rita.
-
-That our inclinations to evil may be destroyed, pray for us, St Rita.
-
-That the Faith in all its purity may be spread over our land, pray for us, St Rita.
-
-That holy zeal may fill our hearts, pray for us, St Rita.
-
-That we may infuse a holy love for chastity into all who come in contact with us, pray for us, St Rita. That in all our actions and omissions we may endeavour to promote a tender charity, pray for us, St Rita. That we may be delivered from all avarice, vainglory and rash judgment, pray for us, St Rita.
-
-That great saints may rise in our land, who will edify the people and dispel the darkness of unbelief, pray for us, St Rita.
-
-That we may be delivered from all interior enemies, pray for us, St Rita.
-
-Lamb of God, Who takest away the sins of the world, spare us, O Lord.
-
-Lamb of God, Who takest away the sins of the world, graciously hear us, O Lord.
-
-Lamb of God, Who takest away the sins of the world, have mercy on us.
-
-V. Pray for us, St Rita.
+Lord, *have mercy.*  
+Christ, *have mercy.*  
+Lord, *have mercy.*  
+Christ, *hear us.*  
+Christ, *graciously hear us.*  
+God the Father Almighty, *have mercy on us.*  
+God the Son, Redeemer of the world, who said: Ask, and you shall receive, seek, and you shall find; knock, and it shall be opened unto you,' *have mercy on us.*  
+God the Holy Ghost, Spirit of wisdom, understanding, counsel and knowledge, *have mercy on us.*  
+Holy Trinity, one God, infinite in power, *have mercy on us.*  
+Holy Mary, who never refuses a petition, *pray for us.*  
+Immaculate virgin, Queen of heaven and earth, *pray for us.*  
+Our Lady of the Sacred Heart, *pray for us.*  
+Holy Angels, spirits of humility, *pray for us.*  
+Holy Principalities, protectors of religious communities, *pray for us.*  
+Holy Virtues, angels of fortitude, *pray for us.*  
+Holy Cherubim, angels of light, *pray for us.*  
+St Rita, advocate of the impossible, *pray for us.*  
+St Rita, consecrated to God, *pray for us.*  
+St Rita, bride of the suffering Saviour, *pray for us.*  
+St Rita, filled with compassion for the sufferings of Christ, *pray for us.*  
+St Rita, crowned by an angel with a crown of thorns, *pray for us.*  
+St Rita, who bore the wounds of His mysterious crown on thy forehead, *pray for us.*  
+St Rita, who firmly trusted in the loving mercy of Jesus, *pray for us.*  
+St Rita, who importuned the dying Saviour with ardent supplications, *pray for us.*  
+St Rita, who never doubted a gracious answer to thy prayer, *pray for us.*  
+That we may renounce all self-love, *pray for us, St Rita.*  
+That we may confidently trust in the promise of Jesus, *pray for us, St Rita.*  
+That the enemies of our salvation may be put to confusion, *pray for us, St Rita.*  
+That we may ever perfectly fulfil the will of God, *pray for us, St Rita.*  
+That our inclinations to evil may be destroyed, *pray for us, St Rita.*  
+That the Faith in all its purity may be spread over our land, *pray for us, St Rita.*  
+That holy zeal may fill our hearts, *pray for us, St Rita.*  
+That we may infuse a holy love for chastity into all who come in contact with us, *pray for us, St Rita.*  
+That in all our actions and omissions we may endeavour to promote a tender charity, *pray for us, St Rita.*  
+That we may be delivered from all avarice, vainglory and rash judgment, *pray for us, St Rita.*  
+That great saints may rise in our land, who will edify the people and dispel the darkness of unbelief, *pray for us, St Rita.*  
+That we may be delivered from all interior enemies, *pray for us, St Rita.*  
+Lamb of God, Who takest away the sins of the world, *spare us, O Lord.*  
+Lamb of God, Who takest away the sins of the world, *graciously hear us, O Lord.*  
+Lamb of God, Who takest away the sins of the world, *have mercy on us.*  
+V. *Pray for us, St Rita.*
 
 R. That we may be made worthy of the promises of Christ.
 

@@ -36,42 +36,25 @@ O God, Who gave St. Peregrine an angel for his companion, the Mother of God for 
 
 Say one Our Father, Hail Mary and Glory with the invocation:St. Peregrine, pray for us
 
-Litany in Honour of St. Peregrine
+### Litany in Honour of St. Peregrine
 
-Lord, have mercy on us.
-
-Christ, have mercy on us.
-
-Lord, have mercy on us. .
-
-Christ, hear us.
-
-Christ, graciously hear us.
-
-God, the Father of heaven, have mercy on us.
-
-God the Son, Redeemer of the world, have mercy on us.
-
-God, the Holy Spirit, have mercy on us.
-
-Holy Trinity, one God, have mercy on us.
-
-Holy Mary, Mother of God, pray for us.
-
-Mother of Sorrows, etc.
-
-Health of the sick,
-
-Comforter of the afflicted,
-
-Help of Christians,
-
-St. Peregrine,
-
-Converted by the prayers of St. Philip,
-
-Afflicted with a cancerous growth,
-
+Lord, *have mercy on us.*  
+Christ, *have mercy on us.*  
+Lord, *have mercy on us.*  
+Christ, *hear us.*  
+Christ, *graciously hear us.*  
+God, the Father of heaven, *have mercy on us.*  
+God the Son, Redeemer of the world, *have mercy on us.*  
+God, the Holy Spirit, *have mercy on us.*  
+Holy Trinity, one God, *have mercy on us.*  
+Holy Mary, Mother of God, *pray for us.*  
+Mother of Sorrows, etc.  
+Health of the sick,  
+Comforter of the afflicted,  
+Help of Christians,  
+St. Peregrine,  
+Converted by the prayers of St. Philip,  
+Afflicted with a cancerous growth,  
 Completely cured by the outstretched hand of Jesus Crucified, Who performed many miracles in your lifetime,
 
 Who multiplied food and drink
@@ -106,10 +89,9 @@ Beloved Patron of Spain,
 
 Glory of the Order of the Servants of Mary,
 
-Lamb of God, who takes away the sins of the world, spare us, O Lord. Lamb of God, who takes away the sins of the world, graciously hear us, O Lord.
-
-Lamb of God, who takes away the sins of the world, have mercy on us.
-
+Lamb of God, who takes away the sins of the world, *spare us, O Lord.*  
+Lamb of God, who takes away the sins of the world, *graciously hear us, O Lord.*  
+Lamb of God, who takes away the sins of the world, *have mercy on us.*  
 V. Pray for us, O glorious St. Peregrine,
 
 R. That we may be made worthy of the promises of Christ.

@@ -26,89 +26,58 @@ From this beginning Gheel developed to become a town world-famed for its care of
 
 Renowned psychiatrists testify that a surprisingly large number of patients could leave mental institutions if they could be assured of a sympathetic reception in the world, such as the people of Gheel take pride in showing. In fact, psychiatrists state that institutions can help certain cases only to a given extent; and when that point is reached, they must have help from persons outside if the progress made in the institution is to be permanently effective. Gheel is the living confirmation of this statement and an exemplar of the gospel teaching on charity.
 
-Christ, have mercy.
+### Litany of Saint Dymphna
 
-Lord, have mercy.
-
-Christ, have mercy.
-
-Christ, graciously hear us.
-
-God the Father of Heaven, have mercy on us.
-
-God the Son, Redeemer of the world, have mercy on us.
-
-God the Holy Spirit, have mercy on us.
-
-Holy Trinity, one God, have mercy on us.
-
-Holy Mary, virgin and mother of God, pray for us.
-
-Health of the sick, pray for us.
-
-Comfortress of the afflicted, pray for us.
-
-Help of Christians, pray for us.
-
-St Dymphna, virgin and martyr, pray for us.
-
-St Dymphna, daughter of royal parents, pray for us.
-
-St Dymphna, child of great beauty of soul and body, pray for us.
-
-St Dymphna, docile to the lessons of thy pious mother, pray for us.
-
-St Dymphna, obedient to your saintly confessor, pray for us.
-
-St Dymphna, who abandoned the court of thy father to escape the danger of impurity, pray for us. St Dymphna, who chose a life of poverty on earth so that thou might lay up treasures in heaven, pray for us. St Dymphna, who sought strength and consolation in Holy Mass, Holy Communion and prayer, pray for us. St Dymphna, ardent lover of the divine Bridegroom, pray for us.
-
-St Dymphna, devoted to the Mother of God, pray for us.
-
-St Dymphna, beheaded by thine own father, pray for us.
-
-St Dymphna, martyr of holy purity, pray for us.
-
-St Dymphna, brilliant example of christian youth, pray for us.
-
-St Dymphna, renowned for many miracles, pray for us.
-
-St Dymphna, glory of Ireland and Belgium, pray for us.
-
-St Dymphna, full of compassion for those in need, pray for us.
-
-St Dymphna, protector against all nervous and mental disorders, pray for us.
-
-St Dymphna, consoler of the afflicted, pray for us.
-
-St Dymphna, friend of the helpless, pray for us.
-
-St Dymphna, comforter of the despondent, pray for us.
-
-St Dymphna, light of those in mental darkness, pray for us.
-
-St Dymphna, patroness of those who suffer from nervous and mental diseases, pray for us. That we may love the Lord our God with all our hearts and above all things, we beseech thee, hear us. That we may hate sin and avoid all its occasions, we beseech thee, hear us.
-
-That we may carefully preserve the virtue of purity according to our state, we beseech thee, hear us. That we may receive the sacraments frequently, we beseech thee, hear us.
-
-That we may obtain the spirit of prayer, we beseech thee, hear us.
-
-That we may be humble and obedient, resigning ourselves to God's holy will, we beseech thee, hear us. That we may learn to have confidence in God during our affliction, we beseech thee, hear us. That we may obtain the grace of final perseverance, we beseech thee, hear us.
-
-In moments of temptation, we beseech thee, hear us.
-
-In times of sickness, diseases, war, and persecution, we beseech thee, hear us.
-
-In our last illness, we beseech thee, hear us.
-
-At the hour of death, we beseech thee, hear us.
-
-Lamb of God, Who takest away the sins of the world, spare us, O Lord.
-
-Lamb of God, Who takest away the sins of the world, graciously hear us, O Lord.
-
-Lamb of God, Who takest away the sins of the world, have mercy on us.
-
-V. Pray for us, St Dymphna.
+Christ, *have mercy.*  
+Lord, *have mercy.*  
+Christ, *have mercy.*  
+Christ, *graciously hear us.*  
+God the Father of Heaven, *have mercy on us.*  
+God the Son, Redeemer of the world, *have mercy on us.*  
+God the Holy Spirit, *have mercy on us.*  
+Holy Trinity, one God, *have mercy on us.*  
+Holy Mary, virgin and mother of God, *pray for us.*  
+Health of the sick, *pray for us.*  
+Comfortress of the afflicted, *pray for us.*  
+Help of Christians, *pray for us.*  
+St Dymphna, virgin and martyr, *pray for us.*  
+St Dymphna, daughter of royal parents, *pray for us.*  
+St Dymphna, child of great beauty of soul and body, *pray for us.*  
+St Dymphna, docile to the lessons of thy pious mother, *pray for us.*  
+St Dymphna, obedient to your saintly confessor, *pray for us.*  
+St Dymphna, who abandoned the court of thy father to escape the danger of impurity, *pray for us.*  
+St Dymphna, who chose a life of poverty on earth so that thou might lay up treasures in heaven, *pray for us.*  
+St Dymphna, who sought strength and consolation in Holy Mass, Holy Communion and prayer, *pray for us.*  
+St Dymphna, ardent lover of the divine Bridegroom, *pray for us.*  
+St Dymphna, devoted to the Mother of God, *pray for us.*  
+St Dymphna, beheaded by thine own father, *pray for us.*  
+St Dymphna, martyr of holy purity, *pray for us.*  
+St Dymphna, brilliant example of christian youth, *pray for us.*  
+St Dymphna, renowned for many miracles, *pray for us.*  
+St Dymphna, glory of Ireland and Belgium, *pray for us.*  
+St Dymphna, full of compassion for those in need, *pray for us.*  
+St Dymphna, protector against all nervous and mental disorders, *pray for us.*  
+St Dymphna, consoler of the afflicted, *pray for us.*  
+St Dymphna, friend of the helpless, *pray for us.*  
+St Dymphna, comforter of the despondent, *pray for us.*  
+St Dymphna, light of those in mental darkness, *pray for us.*  
+St Dymphna, patroness of those who suffer from nervous and mental diseases, *pray for us.*  
+That we may love the Lord our God with all our hearts and above all things, *we beseech thee, hear us.*  
+That we may hate sin and avoid all its occasions, *we beseech thee, hear us.*  
+That we may carefully preserve the virtue of purity according to our state, *we beseech thee, hear us.*  
+That we may receive the sacraments frequently, *we beseech thee, hear us.*  
+That we may obtain the spirit of prayer, *we beseech thee, hear us.*  
+That we may be humble and obedient, resigning ourselves to God's holy will, *we beseech thee, hear us.*  
+That we may learn to have confidence in God during our affliction, *we beseech thee, hear us.*  
+That we may obtain the grace of final perseverance, *we beseech thee, hear us.*  
+In moments of temptation, *we beseech thee, hear us.*  
+In times of sickness, diseases, war, and persecution, *we beseech thee, hear us.*  
+In our last illness, *we beseech thee, hear us.*  
+At the hour of death, *we beseech thee, hear us.*  
+Lamb of God, Who takest away the sins of the world, *spare us, O Lord.*  
+Lamb of God, Who takest away the sins of the world, *graciously hear us, O Lord.*  
+Lamb of God, Who takest away the sins of the world, *have mercy on us.*  
+V. *Pray for us, St Dymphna.*
 
 R. That we may be made worthy of the promises of Christ.
 

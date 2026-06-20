@@ -4,6 +4,7 @@ Curated: biographical lives only. Sermons, Marian doctrine, novenas, and
 thematic devotional reflections are excluded.
 """
 import json, re, pathlib
+from fmt_litanies import process as format_litanies
 
 ROOT = pathlib.Path("/home/gustavo/Documents/ember/.claude/worktrees/bridge-cse_01DShB2nEAXyLHVETpFuNf46")
 STAGE = ROOT / "content/_import/cts-saints"
@@ -69,6 +70,7 @@ for x in sorted(bios, key=lambda x: clean_name(x["link_title"]).replace("Saint "
     body = clean_body(strip_frontmatter(raw))
     # replace the leading "# OLD OCR TITLE" with a clean H1
     body = re.sub(r"\A#\s+[^\n]*\n", f"# {name}\n", body, count=1)
+    body = format_litanies(body)   # tight hard-break lines + italic responses
     (EN / f"{slug}.md").write_text(body, encoding="utf-8")
     chapters.append({"id": slug, "title": {"en-US": name}})
 
