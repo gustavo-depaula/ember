@@ -1,0 +1,475 @@
+{
+  "id": "cts-lives-of-the-saints",
+  "name": {
+    "en-US": "Lives of the Saints (CTS)"
+  },
+  "author": {
+    "en-US": "Catholic Truth Society"
+  },
+  "description": {
+    "en-US": "Short narrative lives of the saints from the Catholic Truth Society's devotional pamphlet series — each a single authored biography written to inspire rather than catalogue. Drawn from the CTS booklets digitized at ecatholic2000.com; sermons, Marian doctrine, and novena booklets from the same series are omitted."
+  },
+  "composed": "20th century",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.ecatholic2000.com/saints.shtml",
+      "description": "Catholic Truth Society pamphlets, digitized by Wildfire Fellowship (ecatholic2000.com). OCR — not yet proofed against the printed originals."
+    }
+  ],
+  "toc": [
+    {
+      "id": "saint-anthony-and-you",
+      "title": {
+        "en-US": "Saint Anthony and You"
+      }
+    },
+    {
+      "id": "saint-augustine-bishop-of-hippo",
+      "title": {
+        "en-US": "Saint Augustine, Bishop of Hippo"
+      }
+    },
+    {
+      "id": "saint-benedict-abbot",
+      "title": {
+        "en-US": "Saint Benedict, Abbot"
+      }
+    },
+    {
+      "id": "saint-bernadette",
+      "title": {
+        "en-US": "St. Bernadette"
+      }
+    },
+    {
+      "id": "saint-bernard-abbot-of-clairvaux",
+      "title": {
+        "en-US": "Saint Bernard, Abbot of Clairvaux"
+      }
+    },
+    {
+      "id": "saint-brigid",
+      "title": {
+        "en-US": "St. Brigid"
+      }
+    },
+    {
+      "id": "saint-cajetan-or-gaetano-confessor",
+      "title": {
+        "en-US": "Saint Cajetan or Gaetano, Conf."
+      }
+    },
+    {
+      "id": "saint-camillus-de-lellis",
+      "title": {
+        "en-US": "St. Camillus De Lellis"
+      }
+    },
+    {
+      "id": "saint-cataldus",
+      "title": {
+        "en-US": "Saint Cataldus"
+      }
+    },
+    {
+      "id": "saint-clare-of-assisi",
+      "title": {
+        "en-US": "Saint Clare of Assisi"
+      }
+    },
+    {
+      "id": "saint-clement-mary-hofbauer-c-ss-r",
+      "title": {
+        "en-US": "Saint Clement Mary Hofbauer, C.SS.R."
+      }
+    },
+    {
+      "id": "saint-dominic-savio",
+      "title": {
+        "en-US": "St. Dominic Savio"
+      }
+    },
+    {
+      "id": "saint-dominic-confessor",
+      "title": {
+        "en-US": "Saint Dominic, Confessor"
+      }
+    },
+    {
+      "id": "saint-dymphna",
+      "title": {
+        "en-US": "Saint Dymphna"
+      }
+    },
+    {
+      "id": "saint-edith-stein",
+      "title": {
+        "en-US": "Saint Edith Stein"
+      }
+    },
+    {
+      "id": "saint-edmund-campion",
+      "title": {
+        "en-US": "St. Edmund Campion"
+      }
+    },
+    {
+      "id": "saint-elizabeth-of-hungary",
+      "title": {
+        "en-US": "Saint Elizabeth of Hungary"
+      }
+    },
+    {
+      "id": "eugene-de-mazenod",
+      "title": {
+        "en-US": "Eugene de Mazenod"
+      }
+    },
+    {
+      "id": "saint-francis-de-sales",
+      "title": {
+        "en-US": "St. Francis de Sales"
+      }
+    },
+    {
+      "id": "saint-francis-of-assisi",
+      "title": {
+        "en-US": "Saint Francis of Assisi"
+      }
+    },
+    {
+      "id": "saint-francis-xavier-s-j",
+      "title": {
+        "en-US": "Saint Francis Xavier, S.J."
+      }
+    },
+    {
+      "id": "saint-gemma-galgani",
+      "title": {
+        "en-US": "St. Gemma Galgani"
+      }
+    },
+    {
+      "id": "saint-gertrude",
+      "title": {
+        "en-US": "Saint Gertrude"
+      }
+    },
+    {
+      "id": "saint-gregory-nazianzen-b-c",
+      "title": {
+        "en-US": "Saint Gregory Nazianzen, B.C."
+      }
+    },
+    {
+      "id": "saint-ignatius-of-loyola",
+      "title": {
+        "en-US": "St. Ignatius of Loyola"
+      }
+    },
+    {
+      "id": "saint-jean-b-m-vianney-cure-of-ars-1785-1859",
+      "title": {
+        "en-US": "St. Jean (John) Vianney Cure of Ars"
+      }
+    },
+    {
+      "id": "saint-john-bosco",
+      "title": {
+        "en-US": "Saint John Bosco"
+      }
+    },
+    {
+      "id": "saint-john-fisher",
+      "title": {
+        "en-US": "Saint John Fisher"
+      }
+    },
+    {
+      "id": "saint-john-francis-regis",
+      "title": {
+        "en-US": "Saint John Francis Regis"
+      }
+    },
+    {
+      "id": "saint-john-of-god",
+      "title": {
+        "en-US": "Saint John of God"
+      }
+    },
+    {
+      "id": "saint-john-the-baptist",
+      "title": {
+        "en-US": "Saint John the Baptist"
+      }
+    },
+    {
+      "id": "saint-joseph",
+      "title": {
+        "en-US": "St. Joseph"
+      }
+    },
+    {
+      "id": "saint-joseph-cafasso",
+      "title": {
+        "en-US": "Saint Joseph Cafasso"
+      }
+    },
+    {
+      "id": "saint-joseph-calasanctius",
+      "title": {
+        "en-US": "Saint Joseph Calasanctius"
+      }
+    },
+    {
+      "id": "saint-jude-helper-in-great-need",
+      "title": {
+        "en-US": "St. Jude Helper in Great Need"
+      }
+    },
+    {
+      "id": "saint-louis-ix-king-of-france-confessor",
+      "title": {
+        "en-US": "Saint Louis IX, King of France, Conf."
+      }
+    },
+    {
+      "id": "saint-louise-de-marillac",
+      "title": {
+        "en-US": "St. Louise de Marillac"
+      }
+    },
+    {
+      "id": "saint-lucy-of-syracuse",
+      "title": {
+        "en-US": "St. Lucy"
+      }
+    },
+    {
+      "id": "saint-margaret-clitherow",
+      "title": {
+        "en-US": "Saint Margaret Clitherow"
+      }
+    },
+    {
+      "id": "saint-margaret-mary-alacoque",
+      "title": {
+        "en-US": "Saint Margaret Mary Alacoque"
+      }
+    },
+    {
+      "id": "saint-margaret-of-cortona",
+      "title": {
+        "en-US": "Saint Margaret of Cortona"
+      }
+    },
+    {
+      "id": "saint-martin-of-tours",
+      "title": {
+        "en-US": "Saint Martin of Tours"
+      }
+    },
+    {
+      "id": "saint-mary-euphrasia-pelletier",
+      "title": {
+        "en-US": "Saint Mary Euphrasia Pelletier"
+      }
+    },
+    {
+      "id": "mary-mckillop",
+      "title": {
+        "en-US": "Saint Mary MacKillop"
+      }
+    },
+    {
+      "id": "saint-mary-magdalen",
+      "title": {
+        "en-US": "Saint Mary Magdalen"
+      }
+    },
+    {
+      "id": "saint-mary-mazzarello",
+      "title": {
+        "en-US": "Saint Mary Mazzarello"
+      }
+    },
+    {
+      "id": "saint-maximilian-kolbe",
+      "title": {
+        "en-US": "Saint Maximilian Kolbe"
+      }
+    },
+    {
+      "id": "padre-pio",
+      "title": {
+        "en-US": "Padre Pio"
+      }
+    },
+    {
+      "id": "saint-pascal-baylon",
+      "title": {
+        "en-US": "St. Pascal Baylon"
+      }
+    },
+    {
+      "id": "saint-patrick",
+      "title": {
+        "en-US": "Saint Patrick"
+      }
+    },
+    {
+      "id": "saint-peregrine-the-cancer-saint",
+      "title": {
+        "en-US": "Saint Peregrine, the Cancer Saint"
+      }
+    },
+    {
+      "id": "saint-peter-aloysius-mary-chanel",
+      "title": {
+        "en-US": "Saint Peter Aloysius Chanel"
+      }
+    },
+    {
+      "id": "saint-philip-benizi-confessor",
+      "title": {
+        "en-US": "Saint Philip Benizi, Conf."
+      }
+    },
+    {
+      "id": "saint-philip-neri",
+      "title": {
+        "en-US": "Saint Philip Neri"
+      }
+    },
+    {
+      "id": "saint-philomena",
+      "title": {
+        "en-US": "Saint Philomena"
+      }
+    },
+    {
+      "id": "saint-pius-v",
+      "title": {
+        "en-US": "Saint Pius V"
+      }
+    },
+    {
+      "id": "saint-pius-x-460",
+      "title": {
+        "en-US": "Saint Pius X Pope of the Eucharist"
+      }
+    },
+    {
+      "id": "saint-pius-x",
+      "title": {
+        "en-US": "Saint Pius X Scourge of Modernism"
+      }
+    },
+    {
+      "id": "poet-priest-martyr",
+      "title": {
+        "en-US": "Poet, Priest and Martyr"
+      }
+    },
+    {
+      "id": "saint-raymund-nonnatus",
+      "title": {
+        "en-US": "Saint Raymond Nonnatus"
+      }
+    },
+    {
+      "id": "saint-rita",
+      "title": {
+        "en-US": "Saint Rita"
+      }
+    },
+    {
+      "id": "saint-rita-of-cascia",
+      "title": {
+        "en-US": "Saint Rita of Cascia"
+      }
+    },
+    {
+      "id": "saint-rose-of-lima",
+      "title": {
+        "en-US": "Saint Rose of Lima"
+      }
+    },
+    {
+      "id": "saint-stanislaus-kostka",
+      "title": {
+        "en-US": "Saint Stanislaus Kostka"
+      }
+    },
+    {
+      "id": "saint-teresa-of-avila",
+      "title": {
+        "en-US": "Saint Teresa of Avila"
+      }
+    },
+    {
+      "id": "the-adventurous-nun",
+      "title": {
+        "en-US": "The Adventurous Nun"
+      }
+    },
+    {
+      "id": "the-dauntless-virgin-of-siena",
+      "title": {
+        "en-US": "The Dauntless Virgin of Siena"
+      }
+    },
+    {
+      "id": "the-life-of-saint-anthony",
+      "title": {
+        "en-US": "The Life of Saint Anthony"
+      }
+    },
+    {
+      "id": "the-life-of-saint-john-berchmans-s-j",
+      "title": {
+        "en-US": "The Life of Saint John Berchmans, S.J."
+      }
+    },
+    {
+      "id": "the-martyrdom-of-saint-perpetua-and-felicitas-with-their-companions",
+      "title": {
+        "en-US": "The Martyrdom of Saint Perpetua and Felicitas and Their Companions"
+      }
+    },
+    {
+      "id": "the-mothers-saint",
+      "title": {
+        "en-US": "The Mothers' Saint"
+      }
+    },
+    {
+      "id": "saint-thomas-more",
+      "title": {
+        "en-US": "Saint Thomas More"
+      }
+    },
+    {
+      "id": "saint-vincent-pallotti",
+      "title": {
+        "en-US": "Saint Vincent Pallotti"
+      }
+    },
+    {
+      "id": "saint-vincent-strambi-c-p",
+      "title": {
+        "en-US": "Saint Vincent Strambi, C.P."
+      }
+    },
+    {
+      "id": "saint-wenceslas",
+      "title": {
+        "en-US": "Saint Wenceslas"
+      }
+    }
+  ]
+}
