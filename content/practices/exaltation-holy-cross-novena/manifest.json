@@ -1,0 +1,56 @@
+{
+  "id": "exaltation-holy-cross-novena",
+  "icon": "cross",
+  "name": {
+    "en-US": "Novena for the Exaltation of the Holy Cross",
+    "pt-BR": "Novena da Exaltação da Santa Cruz"
+  },
+  "subtitle": {
+    "en-US": "Sep 5–13",
+    "pt-BR": "5–13 de setembro"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "exaltation-holy-cross-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena for the Exaltation of the Holy Cross, adoring the wood of our redemption and learning to glory in the Cross of Christ.",
+    "pt-BR": "Uma novena de nove dias pela Exaltação da Santa Cruz, adorando o lenho da nossa redenção e aprendendo a gloriar-nos na Cruz de Cristo."
+  },
+  "history": {
+    "en-US": "The Feast of the Exaltation of the Holy Cross, kept on September 14, honors the Cross by which Christ redeemed the world. Tradition holds that St. Helena, mother of Constantine, discovered the True Cross in Jerusalem around 326, and a basilica was built on Calvary. What was an instrument of shameful death became the throne of glory, the sign in which the Church finds her boast and her hope.",
+    "pt-BR": "A Festa da Exaltação da Santa Cruz, celebrada em 14 de setembro, honra a Cruz pela qual Cristo redimiu o mundo. A tradição diz que Santa Helena, mãe de Constantino, descobriu a Verdadeira Cruz em Jerusalém por volta de 326, e uma basílica foi erguida no Calvário. O que era instrumento de morte vergonhosa tornou-se o trono de glória, o sinal em que a Igreja encontra sua glória e sua esperança."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 238,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

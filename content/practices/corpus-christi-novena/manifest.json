@@ -1,0 +1,56 @@
+{
+  "id": "corpus-christi-novena",
+  "icon": "eucharist",
+  "name": {
+    "en-US": "Novena for Corpus Christi",
+    "pt-BR": "Novena de Corpus Christi"
+  },
+  "subtitle": {
+    "en-US": "before Corpus Christi",
+    "pt-BR": "antes de Corpus Christi"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "corpus-christi-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena in honor of the Most Blessed Sacrament — the true Body and Blood of Christ — in adoration, thanksgiving, reparation, and longing for Holy Communion.",
+    "pt-BR": "Uma novena de nove dias em honra do Santíssimo Sacramento — o verdadeiro Corpo e Sangue de Cristo — em adoração, ação de graças, reparação e desejo da Sagrada Comunhão."
+  },
+  "history": {
+    "en-US": "The feast of Corpus Christi was extended to the whole Church in 1264 to honor the Real Presence of Christ in the Eucharist. At the request of the pope, St. Thomas Aquinas composed its sublime hymns and office, including the Pange Lingua, the O Salutaris, the Tantum Ergo, and the sequence Lauda Sion. This novena draws on his profound theology of the Sacrament of the altar.",
+    "pt-BR": "A festa de Corpus Christi foi estendida a toda a Igreja em 1264 para honrar a presença real de Cristo na Eucaristia. A pedido do papa, São Tomás de Aquino compôs seus sublimes hinos e ofício, entre eles o Pange Lingua, o O Salutaris, o Tantum Ergo e a sequência Lauda Sion. Esta novena se inspira em sua profunda teologia do Sacramento do altar."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 268,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

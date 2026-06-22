@@ -1,0 +1,58 @@
+{
+  "id": "st-aloysius-gonzaga-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Aloysius Gonzaga",
+    "pt-BR": "Novena a São Luís Gonzaga"
+  },
+  "subtitle": {
+    "en-US": "Jun 12–20",
+    "pt-BR": "12–20 de junho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-aloysius-gonzaga-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Aloysius Gonzaga, the angelic Jesuit youth and patron of the young.",
+    "pt-BR": "Uma novena de nove dias a São Luís Gonzaga, o angélico jovem jesuíta e padroeiro da juventude."
+  },
+  "history": {
+    "en-US": "St. Aloysius Gonzaga (1568–1591) was born to a noble Italian family destined for the court, yet from boyhood he gave himself wholly to God in prayer and purity. Renouncing his inheritance, he entered the Society of Jesus over his father's resistance. While caring for the sick in a plague hospital in Rome, he contracted the disease and died at twenty-three; he is the patron of youth and students.",
+    "pt-BR": "São Luís Gonzaga (1568–1591) nasceu numa nobre família italiana destinada à corte, mas desde menino entregou-se inteiramente a Deus na oração e na pureza. Renunciando à herança, entrou na Companhia de Jesus apesar da resistência do pai. Cuidando dos doentes num hospital de peste em Roma, contraiu a doença e morreu aos vinte e três anos; é o padroeiro da juventude e dos estudantes."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 219,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

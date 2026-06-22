@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Faustina",
+        "pt-BR": "Novena a Santa Faustina"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Faustina, faithful secretary of Divine Mercy, who hid the splendor of God's love beneath a poor religious habit, draw near to me now. Teach me to trust Jesus as you did, holding nothing back, and obtain for me the grace I seek in this novena. Amen.",
+        "pt-BR": "Santa Faustina, fiel secretária da Divina Misericórdia, que escondestes o esplendor do amor de Deus sob um pobre hábito religioso, aproximai-vos de mim agora. Ensinai-me a confiar em Jesus como vós confiastes, sem nada reter, e alcançai-me a graça que peço nesta novena. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-faustina-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Faustina, apostle of the merciful Heart of Jesus, who promised that nothing is too great for the soul that trusts, intercede for me before the throne of mercy. May I, like you, repeat in every joy and every sorrow, 'Jesus, I trust in You,' until His mercy is my eternal home. Amen.",
+        "pt-BR": "Santa Faustina, apóstola do Coração misericordioso de Jesus, que prometestes que nada é grande demais para a alma que confia, intercedei por mim diante do trono da misericórdia. Que eu, como vós, repita em toda alegria e em toda dor: 'Jesus, eu confio em Vós', até que a Sua misericórdia seja a minha morada eterna. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

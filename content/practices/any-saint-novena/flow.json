@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for Any Saint",
+        "pt-BR": "Novena para Qualquer Santo"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, who are wonderful in your saints, I come to honor [Saint N.], your faithful servant whom you crowned with glory. Through the merits and intercession of this holy one, hear the prayers I offer over these nine days. Kindle in me the same love for you that burned in their heart. Amen.",
+        "pt-BR": "Ó Deus, que sois admirável em vossos santos, venho honrar [Santo N.], vosso fiel servo a quem coroastes de glória. Pelos méritos e pela intercessão deste santo, escutai as orações que ofereço ao longo destes nove dias. Acendei em mim o mesmo amor por vós que ardia no seu coração. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "any-saint-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O [Saint N.], I thank God for the grace He poured out in your life and for the example you left to guide me home. Take the petitions of this novena and lay them before the Lord, and obtain for me the one thing necessary: to become a saint as you are a saint. Pray for me now and at the hour of my death. Amen.",
+        "pt-BR": "Ó [Santo N.], agradeço a Deus pela graça que derramou em vossa vida e pelo exemplo que deixastes para me guiar à pátria celeste. Tomai os pedidos desta novena e apresentai-os ao Senhor, e alcançai-me a única coisa necessária: tornar-me santo como vós sois santo. Rogai por mim agora e na hora da minha morte. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

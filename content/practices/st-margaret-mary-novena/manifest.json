@@ -1,0 +1,58 @@
+{
+  "id": "st-margaret-mary-novena",
+  "icon": "sacred-heart",
+  "name": {
+    "en-US": "Novena to St. Margaret Mary Alacoque",
+    "pt-BR": "Novena a Santa Margarida Maria Alacoque"
+  },
+  "subtitle": {
+    "en-US": "Oct 7–15",
+    "pt-BR": "7–15 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-margaret-mary-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Margaret Mary Alacoque, the humble Visitation nun to whom Christ revealed the riches of His Sacred Heart. Through her example we learn to love His Heart, to make reparation, and to trust His twelve great promises.",
+    "pt-BR": "Uma novena de nove dias a Santa Margarida Maria Alacoque, a humilde religiosa da Visitação a quem Cristo revelou as riquezas de Seu Sagrado Coração. Por seu exemplo aprendemos a amar o Seu Coração, a fazer reparação e a confiar em Suas doze grandes promessas."
+  },
+  "history": {
+    "en-US": "Margaret Mary Alacoque was born in Burgundy, France, in 1647, and from childhood was drawn to suffering and to the presence of God. At twenty-four she entered the Order of the Visitation at Paray-le-Monial, where between 1673 and 1675 the Lord Jesus appeared to her and revealed His Sacred Heart, burning with love for humanity yet wounded by ingratitude. He entrusted to her the devotion of reparation, the Holy Hour, the Communion of the First Fridays, and the Twelve Promises for those who honor His Heart. Aided by her Jesuit director St. Claude de la Colombière, she spread this devotion despite ridicule and resistance, and died in 1690. She was canonized in 1920, and the feast of the Sacred Heart became one of the great devotions of the universal Church.",
+    "pt-BR": "Margarida Maria Alacoque nasceu na Borgonha, França, em 1647, e desde a infância sentiu-se atraída pelo sofrimento e pela presença de Deus. Aos vinte e quatro anos entrou na Ordem da Visitação em Paray-le-Monial, onde, entre 1673 e 1675, o Senhor Jesus lhe apareceu e revelou Seu Sagrado Coração, ardendo de amor pela humanidade, mas ferido pela ingratidão. Confiou-lhe a devoção da reparação, a Hora Santa, a Comunhão das Primeiras Sextas-feiras e as Doze Promessas para os que honram Seu Coração. Auxiliada por seu diretor jesuíta São Cláudio de la Colombière, propagou essa devoção apesar do escárnio e da resistência, e morreu em 1690. Foi canonizada em 1920, e a festa do Sagrado Coração tornou-se uma das grandes devoções da Igreja universal."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 249,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

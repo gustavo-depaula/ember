@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to the Holy Face of Jesus",
+        "pt-BR": "Novena à Santa Face"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O adorable Face of Jesus, marred by our sins yet radiant with love, I bow before You as I begin this novena. Receive my poor desire to console You and make reparation, and through Your suffering Face obtain for me the grace I now implore. Amen.",
+        "pt-BR": "Ó adorável Face de Jesus, desfigurada por nossos pecados e contudo radiante de amor, eu me inclino diante de Vós ao iniciar esta novena. Acolhei meu pobre desejo de Vos consolar e reparar e, por Vossa Face sofredora, alcançai-me a graça que agora imploro. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "holy-face-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Holy Face of Jesus, sweet and merciful, I offer You the homage of my whole heart in reparation for the blasphemies that wound You. May Your sacred countenance be my light in this life and my joy in eternity; imprint Your image upon my soul. Amen.",
+        "pt-BR": "Ó Santa Face de Jesus, doce e misericordiosa, eu Vos ofereço a homenagem de todo o meu coração em reparação pelas blasfêmias que Vos ferem. Que Vosso sagrado semblante seja minha luz nesta vida e minha alegria na eternidade; imprimi Vossa imagem em minha alma. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

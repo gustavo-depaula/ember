@@ -1,0 +1,58 @@
+{
+  "id": "st-francis-assisi-novena",
+  "icon": "tau-cross",
+  "name": {
+    "en-US": "Novena to St. Francis of Assisi",
+    "pt-BR": "Novena a São Francisco de Assis"
+  },
+  "subtitle": {
+    "en-US": "Sep 25–Oct 3",
+    "pt-BR": "25 de setembro–3 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-francis-assisi-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Francis of Assisi, the Poverello who embraced Lady Poverty, bore the wounds of Christ, and became God's instrument of peace.",
+    "pt-BR": "Uma novena de nove dias a São Francisco de Assis, o Poverello que abraçou a Senhora Pobreza, recebeu as chagas de Cristo e tornou-se instrumento da paz de Deus."
+  },
+  "history": {
+    "en-US": "Francis Bernardone (c. 1181–1226) of Assisi was a merchant's son who renounced his wealth to follow Christ in poverty, founding the Franciscan order. Before the crucifix of San Damiano he heard Christ say 'Rebuild My Church,' staged the first living Nativity at Greccio, sang the Canticle of the Creatures, and received the stigmata on Mount La Verna two years before his death. He is patron of Italy, of ecology, and of peacemakers.",
+    "pt-BR": "Francisco Bernardone (c. 1181–1226), de Assis, era filho de um comerciante que renunciou às suas riquezas para seguir Cristo na pobreza, fundando a ordem franciscana. Diante do crucifixo de São Damião ouviu Cristo dizer 'Reconstrói a minha Igreja', encenou o primeiro presépio vivo em Greccio, cantou o Cântico das Criaturas e recebeu os estigmas no monte Alverne dois anos antes de morrer. É padroeiro da Itália, da ecologia e dos pacificadores."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 245,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

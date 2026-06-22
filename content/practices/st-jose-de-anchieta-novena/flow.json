@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. José de Anchieta",
+        "pt-BR": "Novena a São José de Anchieta"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O holy José de Anchieta, missionary who carried Christ across the seas to a new land, look upon me as I begin this novena. Win for me your zeal for souls and your tender love for Our Lady, that I may labor for God wherever He sends me. Amen.",
+        "pt-BR": "Ó santo José de Anchieta, missionário que levastes Cristo além dos mares a uma terra nova, olhai para mim ao iniciar esta novena. Alcançai-me o vosso zelo pelas almas e o vosso terno amor a Nossa Senhora, para que eu trabalhe por Deus onde quer que Ele me envie. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-jose-de-anchieta-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O St. José de Anchieta, Apostle of Brazil, present my petitions to the Lord for whom you spent your whole life. Teach me to love those of every tongue and people, and to seek God's glory above my own comfort, until I praise Him with you forever. Amen.",
+        "pt-BR": "Ó São José de Anchieta, Apóstolo do Brasil, apresentai os meus pedidos ao Senhor por quem gastastes toda a vossa vida. Ensinai-me a amar os homens de toda língua e povo e a buscar a glória de Deus acima do meu conforto, até louvá-Lo convosco para sempre. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

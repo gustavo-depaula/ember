@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Mary Magdalene",
+        "pt-BR": "Novena a Santa Maria Madalena"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Mary Magdalene, faithful disciple who loved the Lord with an ardent and undivided heart, you sought Him in tears and found Him risen. As I begin this novena, kindle in me your love for Jesus and your longing to be near Him. Teach me to seek the Lord above all things. Amen.",
+        "pt-BR": "Santa Maria Madalena, discípula fiel que amastes o Senhor com coração ardente e indiviso, vós O buscastes em lágrimas e O encontrastes ressuscitado. Ao iniciar esta novena, acendei em mim o vosso amor por Jesus e o vosso anseio de estar junto d'Ele. Ensinai-me a buscar o Senhor acima de todas as coisas. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-mary-magdalene-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Mary Magdalene, first witness of the Resurrection and herald of the risen Christ, obtain for me a heart that loves much and clings to the Lord. May I, like you, seek Him faithfully in this life and rejoice to hear Him call my name. Lead me to the joy of Easter that never ends. Amen.",
+        "pt-BR": "Santa Maria Madalena, primeira testemunha da Ressurreição e arauto de Cristo ressuscitado, alcançai-me um coração que ame muito e se apegue ao Senhor. Que eu, como vós, O busque fielmente nesta vida e me alegre ao ouvi-Lo chamar o meu nome. Conduzi-me à alegria da Páscoa que não tem fim. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

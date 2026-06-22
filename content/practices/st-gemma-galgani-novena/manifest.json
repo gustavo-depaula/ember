@@ -1,0 +1,58 @@
+{
+  "id": "st-gemma-galgani-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Gemma Galgani",
+    "pt-BR": "Novena a Santa Gemma Galgani"
+  },
+  "subtitle": {
+    "en-US": "Apr 2–10",
+    "pt-BR": "2–10 de abril"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-gemma-galgani-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Gemma Galgani, the young mystic of the Passion who bore the stigmata.",
+    "pt-BR": "Uma novena de nove dias a Santa Gemma Galgani, a jovem mística da Paixão que recebeu os estigmas."
+  },
+  "history": {
+    "en-US": "St. Gemma Galgani (1878–1903), the 'Flower of Lucca,' was a poor and sickly young woman who burned with love for the crucified Christ. Refused entry to the Passionist convent because of her illness, she lived as a hidden victim of love, bearing the stigmata each week and conversing intimately with her guardian angel. She died of tuberculosis on Holy Saturday at twenty-five; this novena commends our needs to her, the patroness of the suffering and the tempted.",
+    "pt-BR": "Santa Gemma Galgani (1878–1903), a 'Flor de Lucca', foi uma jovem pobre e enferma que ardia de amor pelo Cristo crucificado. Impedida de entrar no convento das Passionistas por causa da doença, viveu como vítima oculta de amor, recebendo os estigmas a cada semana e conversando intimamente com seu anjo da guarda. Morreu de tuberculose num Sábado Santo, aos vinte e cinco anos; esta novena confia a ela, padroeira dos que sofrem e dos tentados, as nossas necessidades."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 210,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

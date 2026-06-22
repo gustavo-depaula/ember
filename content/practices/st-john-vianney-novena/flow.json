@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. John Vianney",
+        "pt-BR": "Novena a São João Maria Vianney"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious St. John Vianney, humble priest of Ars, who spent yourself wholly for the salvation of souls, obtain for me a like hunger for God. By your prayers, draw me away from sin and closer to the heart of Christ. Amen.",
+        "pt-BR": "Glorioso São João Maria Vianney, humilde sacerdote de Ars, que vos consumistes inteiramente pela salvação das almas, alcançai-me uma fome semelhante de Deus. Por vossas orações, afastai-me do pecado e aproximai-me do coração de Cristo. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-john-vianney-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Holy Curé of Ars, friend of sinners and lover of the Eucharist, intercede for all priests and for the conversion of poor sinners. Obtain for me the grace I now implore, and a heart that loves God as you loved Him. Amen.",
+        "pt-BR": "Santo Cura d'Ars, amigo dos pecadores e amante da Eucaristia, intercedei por todos os sacerdotes e pela conversão dos pobres pecadores. Alcançai-me a graça que agora vos imploro e um coração que ame a Deus como vós O amastes. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

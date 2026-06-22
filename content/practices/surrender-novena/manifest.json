@@ -1,0 +1,56 @@
+{
+  "id": "surrender-novena",
+  "icon": "flame",
+  "name": {
+    "en-US": "Surrender Novena (Fr. Dolindo Ruotolo)",
+    "pt-BR": "Novena do Abandono (Pe. Dolindo Ruotolo)"
+  },
+  "subtitle": {
+    "en-US": "any time of trial",
+    "pt-BR": "em tempo de provação"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "surrender-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "The beloved Surrender Novena given to the Servant of God Fr. Dolindo Ruotolo, in which Jesus invites the soul to lay down its anxieties and trust Him completely. Each day carries a portion of His message and closes with the surrendering refrain.",
+    "pt-BR": "A amada Novena do Abandono confiada ao Servo de Deus Pe. Dolindo Ruotolo, na qual Jesus convida a alma a depor as suas ansiedades e a confiar Nele completamente. Cada dia traz uma parte de sua mensagem e termina com o refrão da entrega."
+  },
+  "history": {
+    "en-US": "Fr. Dolindo Ruotolo (1882–1970) was a Neapolitan priest, friend of Padre Pio, and a Servant of God whose cause for beatification is open. In the words he received, Jesus teaches that true peace comes not from solving every worry but from a blind and total surrender that says, \"You take care of everything.\" This novena has spread across the world as a school of trust for anxious and burdened hearts.",
+    "pt-BR": "O Pe. Dolindo Ruotolo (1882–1970) foi um sacerdote napolitano, amigo do Padre Pio e Servo de Deus cuja causa de beatificação está aberta. Nas palavras que recebeu, Jesus ensina que a verdadeira paz não vem de resolver toda preocupação, mas de um abandono cego e total que diz: \"Cuidai de tudo.\" Esta novena espalhou-se pelo mundo como uma escola de confiança para os corações ansiosos e sobrecarregados."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 273,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

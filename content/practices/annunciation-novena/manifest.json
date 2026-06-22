@@ -1,0 +1,56 @@
+{
+  "id": "annunciation-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena for the Annunciation",
+    "pt-BR": "Novena da Anunciação"
+  },
+  "subtitle": {
+    "en-US": "Mar 16–24",
+    "pt-BR": "16–24 de março"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "annunciation-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena for the Annunciation, when the Word was made flesh in the womb of the Virgin.",
+    "pt-BR": "Uma novena de nove dias para a Anunciação, quando o Verbo se fez carne no seio da Virgem."
+  },
+  "history": {
+    "en-US": "At the Annunciation the angel Gabriel was sent to Nazareth to a virgin named Mary, announcing that she would conceive the Son of the Most High. By her humble 'Be it done unto me according to your word,' the eternal Word took flesh and dwelt among us. The Church recalls this mystery daily in the Angelus and in the ancient collect 'Pour forth, we beseech you'; this novena makes Mary's fiat our own.",
+    "pt-BR": "Na Anunciação, o anjo Gabriel foi enviado a Nazaré, a uma virgem chamada Maria, anunciando que ela conceberia o Filho do Altíssimo. Por seu humilde 'Faça-se em mim segundo a vossa palavra', o Verbo eterno se fez carne e habitou entre nós. A Igreja recorda este mistério a cada dia no Angelus e na antiga coleta 'Infundi em nossas almas'; esta novena torna nosso o fiat de Maria."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 209,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

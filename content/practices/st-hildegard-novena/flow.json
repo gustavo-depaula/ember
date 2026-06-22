@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Hildegard of Bingen",
+        "pt-BR": "Novena a Santa Hildegarda de Bingen"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, living Light who shone within Your servant Hildegard, kindle in me the wisdom and wonder she received. Through her intercession, open my eyes to behold Your glory in all creation and grant me the grace I now humbly seek. Amen.",
+        "pt-BR": "Ó Deus, Luz viva que resplandecestes em vossa serva Hildegarda, acendei em mim a sabedoria e o assombro que ela recebeu. Por sua intercessão, abri os meus olhos para contemplar a vossa glória em toda a criação e concedei-me a graça que agora humildemente busco. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-hildegard-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Hildegard, Sibyl of the Rhine and Doctor of the Church, who heard the music of heaven and saw the greening power of the Spirit, intercede for me. Make my soul green again with the freshness of grace, that I may bloom and bear fruit for God. Amen.",
+        "pt-BR": "Santa Hildegarda, Sibila do Reno e Doutora da Igreja, que ouvistes a música do céu e vistes a força reverdecedora do Espírito, intercedei por mim. Reverdecei a minha alma com o frescor da graça, para que eu floresça e dê fruto para Deus. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

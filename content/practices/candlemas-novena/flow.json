@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for Candlemas (Purification of Mary)",
+        "pt-BR": "Novena das Candeias (Purificação de Nossa Senhora)"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Lord Jesus Christ, presented in the Temple and received into the arms of just Simeon, you are the Light that no darkness can overcome. Enter the temple of my heart in these nine days and prepare me to welcome you. Amen.",
+        "pt-BR": "Ó Senhor Jesus Cristo, apresentado no Templo e recebido nos braços do justo Simeão, vós sois a Luz que treva alguma pode vencer. Entrai no templo do meu coração nestes nove dias e preparai-me para vos acolher. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "candlemas-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Christ, the Light of the world, as the blessed candle is consumed in giving light, so let my life be spent in your service. Through the prayers of the Virgin Mother who presented you in the Temple, grant me the grace I seek and a holy death in your peace. Amen.",
+        "pt-BR": "Ó Cristo, Luz do mundo, assim como a vela bendita se consome ao dar luz, que a minha vida se gaste no vosso serviço. Pelas orações da Virgem Mãe que vos apresentou no Templo, concedei-me a graça que busco e uma santa morte na vossa paz. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

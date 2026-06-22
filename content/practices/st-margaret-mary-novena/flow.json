@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Margaret Mary Alacoque",
+        "pt-BR": "Novena a Santa Margarida Maria Alacoque"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Margaret Mary, faithful confidante of the Sacred Heart, who beheld the furnace of love burning for sinners, draw me close to that wounded Heart. Teach me to console Him by my love, and obtain for me the grace I implore in this novena. Amen.",
+        "pt-BR": "Santa Margarida Maria, fiel confidente do Sagrado Coração, que contemplastes a fornalha de amor ardendo pelos pecadores, aproximai-me daquele Coração ferido. Ensinai-me a consolá-lo com o meu amor, e alcançai-me a graça que imploro nesta novena. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-margaret-mary-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Margaret Mary, apostle of the Sacred Heart and model of reparation, intercede that I may take refuge in the Heart of Jesus all the days of my life. May I love Him who has so loved us, and trust the promises He revealed through you for every faithful soul. Amen.",
+        "pt-BR": "Santa Margarida Maria, apóstola do Sagrado Coração e modelo de reparação, intercedei para que eu me refugie no Coração de Jesus todos os dias da minha vida. Que eu ame Aquele que tanto nos amou e confie nas promessas que Ele revelou por vós a toda alma fiel. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

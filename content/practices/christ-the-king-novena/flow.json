@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to Christ the King",
+        "pt-BR": "Novena a Cristo Rei"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Lord Jesus Christ, King of kings and Lord of lords, I acknowledge You as the sovereign of all creation and the rightful ruler of my soul. Reign in my heart, my home, and my whole life, and let nothing in me resist Your gentle and saving rule. Amen.",
+        "pt-BR": "Senhor Jesus Cristo, Rei dos reis e Senhor dos senhores, eu Vos reconheço como soberano de toda a criação e legítimo senhor da minha alma. Reinai em meu coração, em meu lar e em toda a minha vida, e que nada em mim resista ao Vosso domínio suave e salvador. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "christ-the-king-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Christ Jesus, King of all nations, may Your kingdom come and Your will be done on earth as it is in heaven. Subject all hearts to Your reign of truth and peace, that one day every knee may bend before You and every tongue confess that You are Lord. Amen.",
+        "pt-BR": "Cristo Jesus, Rei de todas as nações, venha a nós o Vosso reino e seja feita a Vossa vontade assim na terra como no céu. Submetei todos os corações ao Vosso reino de verdade e de paz, para que um dia todo joelho se dobre diante de Vós e toda língua confesse que sois o Senhor. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

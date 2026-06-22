@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for the Exaltation of the Holy Cross",
+        "pt-BR": "Novena da Exaltação da Santa Cruz"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "We adore You, O Christ, and we bless You, because by Your holy Cross You have redeemed the world. Through this sacred sign of our salvation, hear the prayers I bring before You, and let the Cross be my strength, my refuge, and my glory. Amen.",
+        "pt-BR": "Nós Vos adoramos, ó Cristo, e Vos bendizemos, porque pela vossa santa Cruz remistes o mundo. Por este sagrado sinal da nossa salvação, ouvi as orações que diante de Vós apresento, e fazei da Cruz a minha força, o meu refúgio e a minha glória. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "exaltation-holy-cross-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Lord Jesus, lifted high upon the Cross to draw all things to Yourself, grant that I may never be ashamed of Your Cross but carry my own with love. May the wood of suffering blossom for me into the tree of life. Amen.",
+        "pt-BR": "Ó Senhor Jesus, levantado bem alto na Cruz para atrair tudo a Vós, concedei que eu nunca me envergonhe da vossa Cruz, mas leve a minha com amor. Que o lenho do sofrimento floresça para mim na árvore da vida. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

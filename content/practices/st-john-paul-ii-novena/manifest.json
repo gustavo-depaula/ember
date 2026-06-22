@@ -1,0 +1,58 @@
+{
+  "id": "st-john-paul-ii-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. John Paul II",
+    "pt-BR": "Novena a São João Paulo II"
+  },
+  "subtitle": {
+    "en-US": "Oct 13–21",
+    "pt-BR": "13–21 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-john-paul-ii-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. John Paul II, the pope who told the world 'Be not afraid!' and gave himself wholly to Christ through Mary.",
+    "pt-BR": "Uma novena de nove dias a São João Paulo II, o papa que disse ao mundo 'Não tenhais medo!' e se entregou inteiramente a Cristo por meio de Maria."
+  },
+  "history": {
+    "en-US": "Karol Wojtyła (1920–2005) was born in Poland, survived Nazi occupation and Communist rule, and became Archbishop of Kraków before his election as Pope John Paul II in 1978. Over twenty-six years he traveled the world, defended the dignity of every human life, taught the Theology of the Body, entrusted himself to Mary with the motto 'Totus Tuus,' and bore his final illness in the sight of all. Canonized in 2014, he is remembered as a tireless herald of Christ and a father to the young.",
+    "pt-BR": "Karol Wojtyła (1920–2005) nasceu na Polônia, sobreviveu à ocupação nazista e ao regime comunista, e tornou-se arcebispo de Cracóvia antes de ser eleito Papa João Paulo II em 1978. Por vinte e seis anos percorreu o mundo, defendeu a dignidade de toda vida humana, ensinou a Teologia do Corpo, entregou-se a Maria com o lema 'Totus Tuus' e suportou sua enfermidade final à vista de todos. Canonizado em 2014, é recordado como incansável arauto de Cristo e pai dos jovens."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 253,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

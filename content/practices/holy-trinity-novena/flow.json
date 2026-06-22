@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to the Most Holy Trinity",
+        "pt-BR": "Novena à Santíssima Trindade"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Most Holy Trinity, one God in three Persons, we adore You with all the powers of our soul. Father who creates us, Son who redeems us, Spirit who sanctifies us, we bow before the abyss of Your love. Draw us into the communion that You are. Amen.",
+        "pt-BR": "Santíssima Trindade, um só Deus em três Pessoas, nós vos adoramos com todas as forças de nossa alma. Pai que nos cria, Filho que nos redime, Espírito que nos santifica, prostramo-nos diante do abismo do vosso amor. Atraí-nos para a comunhão que vós sois. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "holy-trinity-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be. Most Holy Trinity, abide in us as in a living temple, and let our whole life become an offering of praise. Make us at last partakers of Your eternal blessedness. Amen.",
+        "pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, como era no princípio, agora e sempre. Santíssima Trindade, permanecei em nós como em templo vivo, e fazei de toda a nossa vida uma oferta de louvor. Tornai-nos enfim participantes da vossa bem-aventurança eterna. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

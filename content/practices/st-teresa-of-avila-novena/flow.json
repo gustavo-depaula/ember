@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Teresa of Ávila",
+        "pt-BR": "Novena a Santa Teresa de Jesus"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Teresa of Jesus, valiant daughter of the Church and mistress of prayer, who found God dwelling within the castle of your soul, turn your gaze upon me. Teach me to converse with the Christ who loves me, and obtain for me the grace I ask in this novena. Amen.",
+        "pt-BR": "Santa Teresa de Jesus, filha valorosa da Igreja e mestra da oração, que encontrastes Deus habitando no castelo de vossa alma, voltai o vosso olhar para mim. Ensinai-me a conversar com o Cristo que me ama, e alcançai-me a graça que peço nesta novena. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-teresa-of-avila-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Teresa, whose heart was wounded by the fire of divine love, intercede that nothing may ever disturb the peace of my soul. Keep me steadfast in patience and trust, knowing that God alone suffices and that whoever has God wants for nothing. Amen.",
+        "pt-BR": "Santa Teresa, cujo coração foi ferido pelo fogo do amor divino, intercedei para que nada jamais perturbe a paz da minha alma. Conservai-me firme na paciência e na confiança, sabendo que só Deus basta e que quem tem a Deus de nada precisa. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

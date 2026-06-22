@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Christmas Novena",
+        "pt-BR": "Novena de Natal"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Lord Jesus, eternal Word of the Father, who for love of us willed to be born of the Virgin Mary, prepare my heart to receive You. As I keep these nine days of watching, kindle in me a holy longing, and come to be born anew in my soul. Amen.",
+        "pt-BR": "Ó Senhor Jesus, Verbo eterno do Pai, que por amor de nós quisestes nascer da Virgem Maria, preparai meu coração para Vos receber. Enquanto guardo estes nove dias de vigília, acendei em mim um santo anseio e vinde nascer de novo em minha alma. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "christmas-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Come, Lord Jesus, and do not delay; let the night of waiting give way to the dawn of Your coming. Make my heart a poor and lowly manger, swept clean and ready, that when You are born at Bethlehem You may find a home in me. Amen.",
+        "pt-BR": "Vinde, Senhor Jesus, e não tardeis; deixai que a noite da espera dê lugar à aurora da Vossa vinda. Fazei do meu coração uma manjedoura pobre e humilde, varrida e pronta, para que, ao nascerdes em Belém, encontreis morada em mim. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Gemma Galgani",
+        "pt-BR": "Novena a Santa Gemma Galgani"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O St. Gemma Galgani, who loved the crucified Jesus with a heart on fire and gave your whole life to His Passion, look kindly upon me from heaven. Take my petition into your wounded hands and lay it at the feet of your beloved Lord. Amen.",
+        "pt-BR": "Ó Santa Gemma Galgani, que amastes Jesus crucificado com o coração em chamas e destes toda a vida à sua Paixão, olhai por mim do céu com bondade. Tomai a minha súplica em vossas mãos chagadas e depositai-a aos pés de vosso amado Senhor. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-gemma-galgani-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Gemma, victim of love and friend of the suffering, obtain for me the grace I seek in this novena, if it serve God's glory and my salvation. Above all, teach me to love the Passion of Christ and to trust His will in every cross. Amen.",
+        "pt-BR": "Santa Gemma, vítima de amor e amiga dos que sofrem, alcançai-me a graça que busco nesta novena, se for para a glória de Deus e a minha salvação. Acima de tudo, ensinai-me a amar a Paixão de Cristo e a confiar em sua vontade em toda cruz. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

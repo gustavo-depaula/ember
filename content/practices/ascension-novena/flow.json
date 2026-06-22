@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for the Ascension",
+        "pt-BR": "Novena da Ascensão"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Lord Jesus, ascended in glory to the right hand of the Father, You did not leave us orphans but promised to send the Spirit of truth. Gather us with Your apostles and Your Mother in the Upper Room of our hearts, and teach us to wait in confident prayer. Prepare us to receive the gift You have promised. Amen.",
+        "pt-BR": "Senhor Jesus, que subistes glorioso à direita do Pai, não nos deixastes órfãos, mas prometestes enviar o Espírito da verdade. Reuni-nos com vossos apóstolos e vossa Mãe no Cenáculo de nossos corações, e ensinai-nos a esperar em oração confiante. Preparai-nos para receber o dom que prometestes. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "ascension-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Come, Holy Spirit, fill the hearts of Your faithful and kindle in us the fire of Your love. As You came upon the apostles who persevered with Mary, descend now upon us who have waited these nine days. Renew the face of the earth, and renew us. Amen.",
+        "pt-BR": "Vinde, Espírito Santo, enchei os corações de vossos fiéis e acendei neles o fogo do vosso amor. Como viestes sobre os apóstolos que perseveraram com Maria, descei agora sobre nós que esperamos estes nove dias. Renovai a face da terra, e renovai-nos. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "indexBy": "program-day",
+  "entries": {
+    "default": [
+      {
+        "dayTitle": {
+          "en-US": "Day 1: The Mother of God",
+          "pt-BR": "Dia 1: A Mãe de Deus"
+        },
+        "meditation": {
+          "en-US": "At Ephesus the Church confessed that the child Mary bore is true God, and so she is rightly called Theotokos, Mother of God. This title does not exalt her above God, but proclaims the wonder that God willed to be born of a creature.",
+          "pt-BR": "Em Éfeso, a Igreja confessou que o menino gerado por Maria é verdadeiro Deus, e por isso ela é justamente chamada Theotokos, Mãe de Deus. Esse título não a eleva acima de Deus, mas proclama a maravilha de que Deus quis nascer de uma criatura."
+        },
+        "intention": {
+          "en-US": "For a deeper faith in the mystery of the Incarnation.",
+          "pt-BR": "Por uma fé mais profunda no mistério da Encarnação."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 2: Her humble fiat",
+          "pt-BR": "Dia 2: O seu humilde fiat"
+        },
+        "meditation": {
+          "en-US": "When the angel announced God's will, Mary answered, 'Let it be done to me according to your word.' In that free consent she opened the door of salvation, teaching us to surrender our whole life to God.",
+          "pt-BR": "Quando o anjo anunciou a vontade de Deus, Maria respondeu: 'Faça-se em mim segundo a vossa palavra.' Nesse consentimento livre, ela abriu a porta da salvação, ensinando-nos a entregar toda a nossa vida a Deus."
+        },
+        "intention": {
+          "en-US": "For the grace to say yes to God's will without reserve.",
+          "pt-BR": "Pela graça de dizer sim à vontade de Deus sem reservas."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 3: Mother of our Redeemer",
+          "pt-BR": "Dia 3: Mãe do nosso Redentor"
+        },
+        "meditation": {
+          "en-US": "Mary gave human flesh to the One who would redeem the world by His Blood. By cooperating in His coming, she stands closest to the work of our salvation, after Christ Himself.",
+          "pt-BR": "Maria deu carne humana Àquele que redimiria o mundo pelo seu Sangue. Cooperando na sua vinda, ela está, depois de Cristo, mais próxima da obra da nossa salvação."
+        },
+        "intention": {
+          "en-US": "For gratitude for the redemption won by Christ.",
+          "pt-BR": "Pela gratidão pela redenção conquistada por Cristo."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 4: Beneath your protection",
+          "pt-BR": "Dia 4: Sob a vossa proteção"
+        },
+        "meditation": {
+          "en-US": "From the earliest centuries Christians fled to Mary's protection, praying the Sub Tuum Praesidium amid persecution. She is a sure refuge who shelters her children in every storm.",
+          "pt-BR": "Desde os primeiros séculos, os cristãos buscaram refúgio na proteção de Maria, rezando o Sub Tuum Praesidium em meio às perseguições. Ela é refúgio seguro que abriga os seus filhos em toda tempestade."
+        },
+        "intention": {
+          "en-US": "For protection in times of trial and danger.",
+          "pt-BR": "Pela proteção nos tempos de provação e perigo."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 5: The faithful heart",
+          "pt-BR": "Dia 5: O coração fiel"
+        },
+        "meditation": {
+          "en-US": "Saint Luke tells us that Mary kept all these things, pondering them in her heart. She is the model of contemplation, treasuring the word of God in silence and love.",
+          "pt-BR": "São Lucas nos diz que Maria guardava todas essas coisas, meditando-as em seu coração. Ela é o modelo da contemplação, guardando a palavra de Deus no silêncio e no amor."
+        },
+        "intention": {
+          "en-US": "For a recollected heart that treasures God's word.",
+          "pt-BR": "Por um coração recolhido que guarda a palavra de Deus."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 6: Mother at the Cross",
+          "pt-BR": "Dia 6: Mãe junto à Cruz"
+        },
+        "meditation": {
+          "en-US": "Mary stood faithfully beneath the Cross as her Son offered His life. There, in His words 'Behold your mother,' He gave her to the whole Church as our Mother.",
+          "pt-BR": "Maria permaneceu fiel ao pé da Cruz, enquanto o seu Filho oferecia a vida. Ali, nas palavras 'Eis a tua mãe', Ele a entregou a toda a Igreja como nossa Mãe."
+        },
+        "intention": {
+          "en-US": "For perseverance in faith amid suffering.",
+          "pt-BR": "Pela perseverança na fé em meio ao sofrimento."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 7: Our Mother",
+          "pt-BR": "Dia 7: Nossa Mãe"
+        },
+        "meditation": {
+          "en-US": "Because she is Mother of the Head, Mary is Mother of all His members. She watches over each of her children with a love that never wearies and never forgets.",
+          "pt-BR": "Porque é Mãe da Cabeça, Maria é Mãe de todos os seus membros. Ela vela por cada um de seus filhos com um amor que nunca se cansa e jamais esquece."
+        },
+        "intention": {
+          "en-US": "For trust in Mary's constant maternal care.",
+          "pt-BR": "Pela confiança no constante cuidado materno de Maria."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 8: Queen of peace",
+          "pt-BR": "Dia 8: Rainha da paz"
+        },
+        "meditation": {
+          "en-US": "She who gave us the Prince of Peace leads hearts and nations back to her Son. Mary intercedes that the peace of Christ may reign in our families and in the world.",
+          "pt-BR": "Aquela que nos deu o Príncipe da Paz reconduz os corações e as nações ao seu Filho. Maria intercede para que a paz de Cristo reine nas nossas famílias e no mundo."
+        },
+        "intention": {
+          "en-US": "For peace in our homes and among the nations.",
+          "pt-BR": "Pela paz nos nossos lares e entre as nações."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 9: Assumed into glory",
+          "pt-BR": "Dia 9: Assunta à glória"
+        },
+        "meditation": {
+          "en-US": "Taken body and soul into heaven, Mary now reigns beside her Son as the first fruit of His victory. She is the sure hope of all who long to follow her into glory.",
+          "pt-BR": "Elevada em corpo e alma ao céu, Maria reina agora ao lado do seu Filho como primícia da sua vitória. Ela é a esperança segura de todos os que anseiam por segui-la na glória."
+        },
+        "intention": {
+          "en-US": "For the grace of final perseverance and eternal life.",
+          "pt-BR": "Pela graça da perseverança final e da vida eterna."
+        }
+      }
+    ]
+  }
+}

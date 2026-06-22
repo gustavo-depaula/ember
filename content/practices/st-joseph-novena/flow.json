@@ -41,8 +41,8 @@
           }
         },
         {
-          "type": "rubric",
-          "text": "{{intention}}"
+          "type": "prayer",
+          "inline": "{{intention}}"
         }
       ]
     },

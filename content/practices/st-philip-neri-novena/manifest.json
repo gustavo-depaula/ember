@@ -1,0 +1,58 @@
+{
+  "id": "st-philip-neri-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Philip Neri",
+    "pt-BR": "Novena a São Filipe Néri"
+  },
+  "subtitle": {
+    "en-US": "May 17–25",
+    "pt-BR": "17–25 de maio"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-philip-neri-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Philip Neri, the joyful Apostle of Rome and founder of the Oratory.",
+    "pt-BR": "Uma novena de nove dias a São Filipe Néri, o alegre Apóstolo de Roma e fundador do Oratório."
+  },
+  "history": {
+    "en-US": "St. Philip Neri (1515–1595) left Florence for Rome, where he won souls in the streets with disarming joy and holy humor. On the eve of Pentecost his heart was so enflamed with the love of God that it visibly swelled, breaking two ribs. He founded the Congregation of the Oratory and loved the gentle words 'Cor ad cor loquitur' — heart speaks to heart.",
+    "pt-BR": "São Filipe Néri (1515–1595) deixou Florença por Roma, onde ganhou almas nas ruas com alegria cativante e santo bom humor. Na véspera de Pentecostes seu coração ardeu de tal modo no amor de Deus que dilatou visivelmente, quebrando duas costelas. Fundou a Congregação do Oratório e amava as doces palavras 'Cor ad cor loquitur' — coração fala ao coração."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 217,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

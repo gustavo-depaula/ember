@@ -1,0 +1,58 @@
+{
+  "id": "st-rita-novena",
+  "icon": "flower",
+  "name": {
+    "en-US": "Novena to St. Rita of Cascia",
+    "pt-BR": "Novena a Santa Rita de Cássia"
+  },
+  "subtitle": {
+    "en-US": "May 11–20",
+    "pt-BR": "11–20 de maio"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-rita-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Rita of Cascia, advocate of desperate and impossible causes.",
+    "pt-BR": "Uma novena de nove dias a Santa Rita de Cássia, advogada das causas desesperadas e impossíveis."
+  },
+  "history": {
+    "en-US": "St. Rita of Cascia (1381–1457) endured a difficult marriage to a violent husband, whom she won to peace before his murder, then forgave his killers. Widowed and bereft of her sons, she entered the Augustinian convent at Cascia, where she received a wound from the crown of thorns of the crucified Christ. Honored as the saint of the impossible, she is invoked by those whose hopes seem beyond all remedy.",
+    "pt-BR": "Santa Rita de Cássia (1381–1457) suportou um casamento difícil com um marido violento, a quem conduziu à paz antes de seu assassinato, e depois perdoou os assassinos. Viúva e privada dos filhos, entrou no convento agostiniano de Cássia, onde recebeu uma chaga da coroa de espinhos de Cristo crucificado. Venerada como a santa das causas impossíveis, é invocada por aqueles cujas esperanças parecem além de todo remédio."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 216,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

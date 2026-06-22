@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to SS. Louis and Zélie Martin",
+        "pt-BR": "Novena a São Luís e Santa Zélia Martin"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Holy spouses Louis and Zélie Martin, you made your home a school of faith and your marriage a path to heaven. As I begin this novena, obtain for me the grace to seek holiness in the duties of each ordinary day. Help me to love God in my family and my work. Amen.",
+        "pt-BR": "Santos esposos Luís e Zélia Martin, vós fizestes de vosso lar uma escola de fé e de vosso matrimônio um caminho para o céu. Ao iniciar esta novena, alcançai-me a graça de buscar a santidade nos deveres de cada dia comum. Ajudai-me a amar a Deus em minha família e em meu trabalho. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "ss-louis-zelie-martin-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Saints Louis and Zélie, who trusted God through joy and sorrow and gave Him your children, intercede for all families and for mine. Teach husbands and wives to sanctify one another, and parents to raise their children for heaven. Obtain for us the grace to say in all things, 'God's will be done.' Amen.",
+        "pt-BR": "Santos Luís e Zélia, que confiastes em Deus na alegria e na dor e Lhe entregastes os vossos filhos, intercedei por todas as famílias e pela minha. Ensinai aos esposos a santificarem-se mutuamente, e aos pais a criarem os filhos para o céu. Alcançai-nos a graça de dizer em tudo: 'Faça-se a vontade de Deus.' Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

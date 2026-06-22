@@ -1,0 +1,58 @@
+{
+  "id": "presentation-of-mary-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena for the Presentation of Mary",
+    "pt-BR": "Novena da Apresentação de Nossa Senhora"
+  },
+  "subtitle": {
+    "en-US": "Nov 12–20",
+    "pt-BR": "12–20 de novembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "marian"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "presentation-of-mary-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena honoring the Presentation of the Blessed Virgin Mary in the temple, contemplating her total consecration to God from her earliest years and learning from her hidden self-offering.",
+    "pt-BR": "Uma novena de nove dias em honra da Apresentação da Bem-Aventurada Virgem Maria no templo, contemplando sua total consagração a Deus desde os primeiros anos e aprendendo com sua oferenda oculta."
+  },
+  "history": {
+    "en-US": "An ancient tradition, recalled in the East from the sixth century and kept in the West on November 21, tells how the child Mary was brought by her parents Joachim and Anne to be presented in the temple of Jerusalem. The feast celebrates not so much a historical detail as a truth: that Mary belonged wholly to God from her first dawning, the living temple of the Holy Spirit.",
+    "pt-BR": "Uma antiga tradição, recordada no Oriente desde o século VI e guardada no Ocidente em 21 de novembro, narra como a menina Maria foi levada por seus pais Joaquim e Ana para ser apresentada no templo de Jerusalém. A festa celebra não tanto um detalhe histórico, mas uma verdade: que Maria pertenceu inteiramente a Deus desde sua primeira aurora, templo vivo do Espírito Santo."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "marian"
+  ],
+  "defaults": {
+    "sortOrder": 258,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

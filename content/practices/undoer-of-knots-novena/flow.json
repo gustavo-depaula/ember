@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to Our Lady, Undoer of Knots",
+        "pt-BR": "Novena a Nossa Senhora Desatadora dos Nós"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Mary, Undoer of Knots, with the same patient hands that untied the knot of our first parents' disobedience, take into your care the tangles of my life. There is no knot too tight for your maternal fingers, no situation beyond the reach of your Son's mercy. I come to you trusting, and I will not lose heart. Amen.",
+        "pt-BR": "Ó Maria, Desatadora dos Nós, com as mesmas mãos pacientes que desataram o nó da desobediência de nossos primeiros pais, tomai aos vossos cuidados os emaranhados da minha vida. Não há nó apertado demais para os vossos dedos maternais, nem situação fora do alcance da misericórdia de vosso Filho. Venho a vós confiante, e não desanimarei. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "undoer-of-knots-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Blessed Mother, I thank you for taking my knots into your gentle hands. Untie them in the order and the time that God knows is best, and where they cannot yet be loosed, grant me the patience to wait in peace. Lead me, freed and unburdened, ever closer to your Son. Amen.",
+        "pt-BR": "Ó Mãe Bendita, eu vos agradeço por terdes tomado os meus nós em vossas mãos suaves. Desatai-os na ordem e no tempo que Deus sabe ser o melhor, e ali onde ainda não puderem ser soltos, concedei-me a paciência de esperar em paz. Conduzi-me, livre e aliviado, cada vez mais perto de vosso Filho. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

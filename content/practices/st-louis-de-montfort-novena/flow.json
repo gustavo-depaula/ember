@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Louis de Montfort",
+        "pt-BR": "Novena a São Luís Maria de Montfort"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Louis Marie de Montfort, faithful slave of Jesus in Mary, you spent your life leading souls to Christ through His holy Mother. Take me by the hand as I begin this novena and teach me to belong entirely to Jesus through Mary. Obtain for me the grace I now ask, that I may love God with an undivided heart. Amen.",
+        "pt-BR": "São Luís Maria de Montfort, fiel escravo de Jesus em Maria, vós gastastes a vida conduzindo as almas a Cristo por meio de Sua santa Mãe. Tomai-me pela mão ao iniciar esta novena e ensinai-me a pertencer inteiramente a Jesus por Maria. Alcançai-me a graça que agora peço, para que eu ame a Deus com um coração indiviso. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-louis-de-montfort-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Louis Marie, who proclaimed that Mary is the surest, shortest, and most perfect way to Jesus, lead me along that royal road. Help me to consecrate myself wholly to Christ through her Immaculate Heart and to take up my Rosary each day. By your prayers, may I be among the apostles of the latter times whom you foretold. Amen.",
+        "pt-BR": "São Luís Maria, que proclamastes ser Maria o caminho mais seguro, mais curto e mais perfeito para Jesus, conduzi-me por essa estrada real. Ajudai-me a consagrar-me inteiramente a Cristo por meio de seu Coração Imaculado e a tomar o Rosário cada dia. Por vossas orações, possa eu estar entre os apóstolos dos últimos tempos que vós anunciastes. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

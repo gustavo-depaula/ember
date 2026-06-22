@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Ignatius of Loyola",
+        "pt-BR": "Novena a Santo Inácio de Loyola"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious St. Ignatius, who once sought the glory of earthly kings and then gave your whole life to the King of Heaven, obtain for me a generous heart. Teach me to desire nothing but the greater glory of God and the salvation of souls. Amen.",
+        "pt-BR": "Glorioso Santo Inácio, que buscastes outrora a glória dos reis da terra e depois destes toda a vossa vida ao Rei do Céu, alcançai-me um coração generoso. Ensinai-me a nada desejar senão a maior glória de Deus e a salvação das almas. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-ignatius-loyola-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Ignatius, faithful soldier of Christ, help me to set the world rightly in my heart, choosing always what leads me closer to God. With you I pray: take, Lord, all that I have, for You have given it; give me only Your love and Your grace, and that is enough for me. Amen.",
+        "pt-BR": "Santo Inácio, fiel soldado de Cristo, ajudai-me a ordenar retamente o mundo em meu coração, escolhendo sempre o que me conduz mais perto de Deus. Convosco rezo: tomai, Senhor, tudo o que tenho, pois Vós mo destes; dai-me somente o Vosso amor e a Vossa graça, e isto me basta. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

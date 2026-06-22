@@ -1,0 +1,58 @@
+{
+  "id": "st-thomas-more-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Thomas More",
+    "pt-BR": "Novena a São Tomás Moro"
+  },
+  "subtitle": {
+    "en-US": "Jun 13–21",
+    "pt-BR": "13–21 de junho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-thomas-more-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Thomas More, martyr for conscience and patron of statesmen and lawyers.",
+    "pt-BR": "Uma novena de nove dias a São Tomás Moro, mártir da consciência e padroeiro dos estadistas e advogados."
+  },
+  "history": {
+    "en-US": "St. Thomas More (1478–1535) was a brilliant lawyer, scholar, and devoted family man who rose to become Lord Chancellor of England under Henry VIII. When the king demanded he approve the royal supremacy over the Church, More refused, resigned his office, and was imprisoned in the Tower. He went to the scaffold with serene humor, declaring himself 'the King's good servant, but God's first,' and was beheaded for his fidelity to conscience and the Church.",
+    "pt-BR": "São Tomás Moro (1478–1535) foi um brilhante advogado, erudito e dedicado pai de família que chegou a Lorde Chanceler da Inglaterra sob Henrique VIII. Quando o rei exigiu que aprovasse a supremacia real sobre a Igreja, Moro recusou, renunciou ao cargo e foi preso na Torre. Subiu ao cadafalso com serenidade e bom humor, declarando-se 'o bom servo do rei, mas primeiro de Deus', e foi decapitado por sua fidelidade à consciência e à Igreja."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 220,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

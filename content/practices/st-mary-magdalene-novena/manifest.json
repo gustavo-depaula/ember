@@ -1,0 +1,58 @@
+{
+  "id": "st-mary-magdalene-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Mary Magdalene",
+    "pt-BR": "Novena a Santa Maria Madalena"
+  },
+  "subtitle": {
+    "en-US": "Jul 13–21",
+    "pt-BR": "13–21 de julho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-mary-magdalene-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "Nine days with the Apostle to the Apostles, who loved much, stood by the Cross, and first met the risen Lord.",
+    "pt-BR": "Nove dias com a Apóstola dos Apóstolos, que muito amou, permaneceu junto à Cruz e foi a primeira a encontrar o Senhor ressuscitado."
+  },
+  "history": {
+    "en-US": "St. Mary Magdalene, freed by Jesus from seven demons, followed Him faithfully and helped support His ministry. She stood near the Cross when others fled and went to the tomb at dawn, where the risen Lord called her by name and sent her to announce His resurrection. For this the Church honors her as the Apostle to the Apostles.",
+    "pt-BR": "Santa Maria Madalena, libertada por Jesus de sete demônios, seguiu-O fielmente e ajudou a sustentar o seu ministério. Permaneceu junto à Cruz quando os outros fugiram e foi ao sepulcro de madrugada, onde o Senhor ressuscitado a chamou pelo nome e a enviou a anunciar a sua ressurreição. Por isso a Igreja a honra como Apóstola dos Apóstolos."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 225,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

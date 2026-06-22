@@ -1,0 +1,56 @@
+{
+  "id": "holy-trinity-novena",
+  "icon": "trinity",
+  "name": {
+    "en-US": "Novena to the Most Holy Trinity",
+    "pt-BR": "Novena à Santíssima Trindade"
+  },
+  "subtitle": {
+    "en-US": "before Trinity Sunday",
+    "pt-BR": "antes do Domingo da Trindade"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "holy-trinity-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena of adoration to the Most Holy Trinity — Father, Son, and Holy Spirit — one God in three Persons, who dwells within the soul in a state of grace.",
+    "pt-BR": "Uma novena de nove dias de adoração à Santíssima Trindade — Pai, Filho e Espírito Santo — um só Deus em três Pessoas, que habita na alma em estado de graça."
+  },
+  "history": {
+    "en-US": "The mystery of the Trinity is the central mystery of the Christian faith, revealed by Christ and confessed by the Church in every Glory Be. Devotion to the three divine Persons flowered through the centuries and is honored each year on Trinity Sunday, the first Sunday after Pentecost. This novena gathers that adoration into nine days of praise.",
+    "pt-BR": "O mistério da Trindade é o mistério central da fé cristã, revelado por Cristo e confessado pela Igreja em cada Glória ao Pai. A devoção às três Pessoas divinas floresceu ao longo dos séculos e é honrada a cada ano no domingo da Santíssima Trindade, primeiro domingo depois de Pentecostes. Esta novena reúne essa adoração em nove dias de louvor."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 267,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

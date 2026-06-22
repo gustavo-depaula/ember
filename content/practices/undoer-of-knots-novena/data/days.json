@@ -1,0 +1,133 @@
+{
+  "indexBy": "program-day",
+  "entries": {
+    "default": [
+      {
+        "dayTitle": {
+          "en-US": "Day 1: The knot of disbelief",
+          "pt-BR": "Dia 1: O nó da descrença"
+        },
+        "meditation": {
+          "en-US": "The first knot is the secret doubt that God can or will help me. Mary, who believed when the angel spoke the impossible, gently loosens this knot and teaches my heart to trust again.",
+          "pt-BR": "O primeiro nó é a dúvida secreta de que Deus possa ou queira me ajudar. Maria, que creu quando o anjo anunciou o impossível, desata suavemente este nó e ensina o meu coração a confiar de novo."
+        },
+        "intention": {
+          "en-US": "I bring you the knot of my doubt; untie it and restore my faith.",
+          "pt-BR": "Trago-vos o nó da minha dúvida; desatai-o e restaurai a minha fé."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 2: The knot of broken relationships",
+          "pt-BR": "Dia 2: O nó das relações partidas"
+        },
+        "meditation": {
+          "en-US": "Some knots bind us to people in resentment, estrangement, or wounded love. Mary, who held the family together at Cana and beneath the cross, takes these tangled bonds and works to make them whole.",
+          "pt-BR": "Alguns nós nos prendem às pessoas em ressentimento, afastamento ou amor ferido. Maria, que manteve a família unida em Caná e ao pé da cruz, toma esses laços emaranhados e trabalha para torná-los inteiros."
+        },
+        "intention": {
+          "en-US": "I bring you the knot of a wounded relationship; untie it with your peace.",
+          "pt-BR": "Trago-vos o nó de uma relação ferida; desatai-o com a vossa paz."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 3: The knot of worry and fear",
+          "pt-BR": "Dia 3: O nó da preocupação e do medo"
+        },
+        "meditation": {
+          "en-US": "Anxiety knots the heart until it can no longer rest, magnifying every shadow. Mary takes these fears one strand at a time and reminds me that her Son holds the future I cannot see.",
+          "pt-BR": "A ansiedade aperta o coração até que ele não consiga mais descansar, ampliando toda sombra. Maria toma esses medos um fio de cada vez e me recorda que seu Filho sustenta o futuro que não consigo enxergar."
+        },
+        "intention": {
+          "en-US": "I bring you the knot of my fears; untie it and give me your peace.",
+          "pt-BR": "Trago-vos o nó dos meus medos; desatai-o e dai-me a vossa paz."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 4: The knot of sin and habit",
+          "pt-BR": "Dia 4: O nó do pecado e do hábito"
+        },
+        "meditation": {
+          "en-US": "Sin tightens into habits that we cannot loosen by willpower alone. Mary, refuge of sinners, draws these knots toward the mercy of her Son, where every chain is at last undone.",
+          "pt-BR": "O pecado se aperta em hábitos que não conseguimos soltar só pela força de vontade. Maria, refúgio dos pecadores, leva esses nós para a misericórdia de seu Filho, onde toda corrente é enfim desatada."
+        },
+        "intention": {
+          "en-US": "I bring you the knot of a sin I cannot break; untie it by grace.",
+          "pt-BR": "Trago-vos o nó de um pecado que não consigo romper; desatai-o pela graça."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 5: The knot of my particular intention",
+          "pt-BR": "Dia 5: O nó da minha intenção particular"
+        },
+        "meditation": {
+          "en-US": "There is a tangle in my life that I scarcely know how to name, the very burden that led me to this novena. Today I place it, just as it is, into Mary's patient hands and let her begin to loosen it.",
+          "pt-BR": "Há um emaranhado na minha vida que mal sei como nomear, o próprio fardo que me trouxe a esta novena. Hoje o coloco, tal como está, nas mãos pacientes de Maria e deixo que ela comece a desatá-lo."
+        },
+        "intention": {
+          "en-US": "I bring you the knot of my particular intention; untie it in God's wisdom.",
+          "pt-BR": "Trago-vos o nó da minha intenção particular; desatai-o segundo a sabedoria de Deus."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 6: The knot of impatience",
+          "pt-BR": "Dia 6: O nó da impaciência"
+        },
+        "meditation": {
+          "en-US": "I want every knot undone at once, but Mary works patiently, one careful turn after another. She teaches me that waiting on God is not idleness but trust, and that His timing is part of the answer.",
+          "pt-BR": "Quero todo nó desatado de uma vez, mas Maria trabalha pacientemente, uma volta cuidadosa após a outra. Ela me ensina que esperar em Deus não é ociosidade, mas confiança, e que o seu tempo faz parte da resposta."
+        },
+        "intention": {
+          "en-US": "I bring you the knot of my impatience; untie it and teach me to wait.",
+          "pt-BR": "Trago-vos o nó da minha impaciência; desatai-o e ensinai-me a esperar."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 7: The knot of discouragement",
+          "pt-BR": "Dia 7: O nó do desânimo"
+        },
+        "meditation": {
+          "en-US": "When knots resist for a long time, the heart grows weary and tempted to give up. Mary, who stood firm through the darkest hour, lifts my discouragement and steadies my hope in her Son.",
+          "pt-BR": "Quando os nós resistem por muito tempo, o coração cansa e é tentado a desistir. Maria, que permaneceu firme na hora mais escura, ergue o meu desânimo e firma a minha esperança em seu Filho."
+        },
+        "intention": {
+          "en-US": "I bring you the knot of my discouragement; untie it and renew my hope.",
+          "pt-BR": "Trago-vos o nó do meu desânimo; desatai-o e renovai a minha esperança."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 8: The knots of others",
+          "pt-BR": "Dia 8: Os nós dos outros"
+        },
+        "meditation": {
+          "en-US": "I am not the only one whose life is tangled; those I love carry knots of their own. Today I bring their burdens to Mary as well, trusting that her hands are wide enough for every heart.",
+          "pt-BR": "Não sou o único cuja vida está emaranhada; aqueles que amo carregam nós próprios. Hoje trago também os fardos deles a Maria, confiando que as suas mãos são amplas o bastante para todo coração."
+        },
+        "intention": {
+          "en-US": "I bring you the knots of those I love; untie them by your mercy.",
+          "pt-BR": "Trago-vos os nós daqueles que amo; desatai-os pela vossa misericórdia."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 9: Surrendered into her hands",
+          "pt-BR": "Dia 9: Entregue em suas mãos"
+        },
+        "meditation": {
+          "en-US": "On this last day I let go of my anxious grip and leave every knot, undone and still-tied alike, in Mary's care. Whatever she cannot yet loosen, she will hold; and whatever God permits to remain, she will help me carry in peace.",
+          "pt-BR": "Neste último dia solto o meu aperto ansioso e deixo todo nó, tanto o desatado quanto o que ainda permanece, aos cuidados de Maria. Aquilo que ela ainda não puder soltar, ela sustentará; e aquilo que Deus permitir que permaneça, ela me ajudará a carregar em paz."
+        },
+        "intention": {
+          "en-US": "I surrender all my knots into your hands; do with them as God wills.",
+          "pt-BR": "Entrego todos os meus nós em vossas mãos; fazei deles segundo a vontade de Deus."
+        }
+      }
+    ]
+  }
+}

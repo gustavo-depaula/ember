@@ -52,5 +52,9 @@
         "enabled": false
       }
     ]
+  },
+  "subtitle": {
+    "en-US": "Good Friday → Divine Mercy Sunday",
+    "pt-BR": "Sexta-feira Santa → Domingo da Misericórdia"
   }
 }

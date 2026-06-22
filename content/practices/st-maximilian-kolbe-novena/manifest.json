@@ -1,0 +1,58 @@
+{
+  "id": "st-maximilian-kolbe-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Maximilian Kolbe",
+    "pt-BR": "Novena a São Maximiliano Maria Kolbe"
+  },
+  "subtitle": {
+    "en-US": "Aug 5–13",
+    "pt-BR": "5–13 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-maximilian-kolbe-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Maximilian Maria Kolbe, the Franciscan friar and martyr of charity who gave his life for a stranger at Auschwitz, founded the Militia of the Immaculate, and lived a total consecration to Mary.",
+    "pt-BR": "Uma novena de nove dias a São Maximiliano Maria Kolbe, o frade franciscano e mártir da caridade que deu a vida por um estranho em Auschwitz, fundou a Milícia da Imaculada e viveu uma consagração total a Maria."
+  },
+  "history": {
+    "en-US": "Born Raymund Kolbe in Poland in 1894, as a boy he received a vision of the Virgin offering two crowns, white for purity and red for martyrdom, and he chose both. As a friar he founded the Militia Immaculatae and the great evangelizing centers of Niepokalanów and Nagasaki. Arrested by the Nazis, he volunteered to die in place of a married father in the starvation bunker of Auschwitz, and was put to death by lethal injection on August 14, 1941.",
+    "pt-BR": "Nascido Raimundo Kolbe na Polônia em 1894, ainda menino recebeu uma visão da Virgem oferecendo-lhe duas coroas, a branca da pureza e a vermelha do martírio, e escolheu ambas. Como frade fundou a Milícia da Imaculada e os grandes centros de evangelização de Niepokalanów e Nagasaki. Preso pelos nazistas, ofereceu-se para morrer no lugar de um pai de família no bunker da fome de Auschwitz, e foi morto por injeção letal em 14 de agosto de 1941."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 232,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

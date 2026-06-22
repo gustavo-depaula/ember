@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Thomas More",
+        "pt-BR": "Novena a São Tomás Moro"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O steadfast St. Thomas More, who held fast to God's law amid the favor and threats of kings, look upon me as I begin this novena. Win for me a clear conscience and the courage to keep it, whatever the cost. Amen.",
+        "pt-BR": "Ó firme São Tomás Moro, que vos mantivestes fiel à lei de Deus em meio ao favor e às ameaças dos reis, olhai para mim ao iniciar esta novena. Alcançai-me uma consciência reta e a coragem de mantê-la, custe o que custar. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-thomas-more-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O St. Thomas More, good servant of your king but first of God, present my petitions to the Lord for whom you laid down your life. Teach me to serve faithfully in the world without surrendering my soul, until I share your joy in heaven. Amen.",
+        "pt-BR": "Ó São Tomás Moro, bom servo do vosso rei, mas primeiro de Deus, apresentai os meus pedidos ao Senhor por quem destes a vida. Ensinai-me a servir fielmente no mundo sem entregar a minha alma, até partilhar convosco a alegria do céu. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

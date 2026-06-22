@@ -1,0 +1,58 @@
+{
+  "id": "st-louis-ix-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Louis IX, King of France",
+    "pt-BR": "Novena a São Luís IX, Rei de França"
+  },
+  "subtitle": {
+    "en-US": "Aug 16–24",
+    "pt-BR": "16–24 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-louis-ix-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Louis IX, King of France, the holy monarch who ruled with justice, loved the poor, led the Crusades, and enshrined the Crown of Thorns in the Sainte-Chapelle.",
+    "pt-BR": "Uma novena de nove dias a São Luís IX, Rei de França, o santo monarca que governou com justiça, amou os pobres, conduziu as Cruzadas e abrigou a Coroa de Espinhos na Sainte-Chapelle."
+  },
+  "history": {
+    "en-US": "Born in 1214 and raised by his devout mother Blanche of Castile, Louis became King of France at twelve and reigned for over forty years with rare integrity. He administered justice fairly, even beneath an oak at Vincennes, fed the poor at his own table, and built hospitals and abbeys. He ransomed the Crown of Thorns from Constantinople and raised the Sainte-Chapelle to house it, led two Crusades, and died of plague near Tunis in 1270; he is the only canonized king of France.",
+    "pt-BR": "Nascido em 1214 e criado por sua piedosa mãe Branca de Castela, Luís tornou-se Rei de França aos doze anos e reinou por mais de quarenta anos com rara integridade. Administrava a justiça com equidade, mesmo sob um carvalho em Vincennes, alimentava os pobres à sua própria mesa e construiu hospitais e abadias. Resgatou a Coroa de Espinhos de Constantinopla e ergueu a Sainte-Chapelle para abrigá-la, conduziu duas Cruzadas e morreu de peste perto de Túnis em 1270; é o único rei de França canonizado."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 235,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

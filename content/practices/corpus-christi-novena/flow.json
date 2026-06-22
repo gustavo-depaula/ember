@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for Corpus Christi",
+        "pt-BR": "Novena de Corpus Christi"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Jesus, truly present in the Most Blessed Sacrament, we kneel before You hidden under the veil of bread. Saving Victim who opens wide the gate of heaven, we adore You with all our heart. Increase in us faith, hope, and love for this gift of Your abiding presence. Amen.",
+        "pt-BR": "Ó Jesus, verdadeiramente presente no Santíssimo Sacramento, ajoelhamo-nos diante de vós, oculto sob o véu do pão. Vítima salvadora que abris de par em par a porta do céu, nós vos adoramos de todo o coração. Aumentai em nós a fé, a esperança e o amor por este dom da vossa presença permanente. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "corpus-christi-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O sacred banquet in which Christ is received, the memory of His Passion renewed, the soul filled with grace, and a pledge of future glory given to us. Down in adoration falling, we hail this Sacrament so great. Grant that we may one day pass from the veiled Host to the unveiled vision of Your face. Amen.",
+        "pt-BR": "Ó sagrado banquete em que Cristo é recebido, renova-se a memória de sua Paixão, a alma se enche de graça e nos é dado o penhor da glória futura. Prostrados em adoração, veneramos tão grande Sacramento. Concedei-nos passar um dia da Hóstia velada à visão desvelada do vosso rosto. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

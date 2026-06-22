@@ -1,0 +1,58 @@
+{
+  "id": "st-teresa-of-avila-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Teresa of Ávila",
+    "pt-BR": "Novena a Santa Teresa de Jesus"
+  },
+  "subtitle": {
+    "en-US": "Oct 6–14",
+    "pt-BR": "6–14 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-teresa-of-avila-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Teresa of Ávila, Doctor of the Church and reformer of Carmel, who taught that prayer is friendship with the Christ who loves us. Through her example we learn to seek God within the interior castle of the soul.",
+    "pt-BR": "Uma novena de nove dias a Santa Teresa de Jesus, Doutora da Igreja e reformadora do Carmelo, que ensinou que a oração é amizade com o Cristo que nos ama. Por seu exemplo aprendemos a buscar a Deus no castelo interior da alma."
+  },
+  "history": {
+    "en-US": "Teresa de Cepeda y Ahumada was born in Ávila, Spain, in 1515, and entered the Carmelite convent of the Incarnation as a young woman. After years of mediocrity she experienced a profound conversion before an image of the wounded Christ, and was drawn into a deep life of mystical prayer, including the famous transverberation in which an angel pierced her heart with a fiery dart. Despite poor health and fierce opposition, she founded seventeen reformed convents of the Discalced Carmelites, often aided by St. John of the Cross. Her writings, especially the Interior Castle and the Way of Perfection, became treasures of Christian mysticism; she died in 1582, was canonized in 1622, and was proclaimed the first woman Doctor of the Church by Pope St. Paul VI in 1970.",
+    "pt-BR": "Teresa de Cepeda y Ahumada nasceu em Ávila, Espanha, em 1515, e entrou ainda jovem no convento carmelita da Encarnação. Após anos de mediocridade, experimentou uma profunda conversão diante de uma imagem de Cristo chagado e foi introduzida numa vida intensa de oração mística, incluindo a célebre transverberação, em que um anjo lhe traspassou o coração com um dardo de fogo. Apesar da saúde frágil e da feroz oposição, fundou dezessete conventos reformados das Carmelitas Descalças, muitas vezes auxiliada por São João da Cruz. Seus escritos, sobretudo o Castelo Interior e o Caminho de Perfeição, tornaram-se tesouros da mística cristã; morreu em 1582, foi canonizada em 1622 e proclamada a primeira mulher Doutora da Igreja pelo Papa São Paulo VI em 1970."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 248,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

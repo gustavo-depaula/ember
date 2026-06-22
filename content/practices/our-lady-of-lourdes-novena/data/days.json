@@ -1,0 +1,133 @@
+{
+  "indexBy": "program-day",
+  "entries": {
+    "default": [
+      {
+        "dayTitle": {
+          "en-US": "Day 1: The Lady appears",
+          "pt-BR": "Dia 1: A aparição da Senhora"
+        },
+        "meditation": {
+          "en-US": "On a cold February day Bernadette saw a beautiful Lady in the rocky niche, holding a rosary, and instinctively reached for her own. Heaven chose a poor, asthmatic girl gathering firewood to be its messenger.",
+          "pt-BR": "Num frio dia de fevereiro, Bernadette viu uma bela Senhora no nicho rochoso, segurando um rosário, e instintivamente buscou o seu. O céu escolheu uma menina pobre e asmática, que recolhia lenha, para ser sua mensageira."
+        },
+        "intention": {
+          "en-US": "For the grace to recognize God's presence in the humble and unexpected.",
+          "pt-BR": "Pela graça de reconhecer a presença de Deus no humilde e no inesperado."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 2: 'I am the Immaculate Conception'",
+          "pt-BR": "Dia 2: 'Eu sou a Imaculada Conceição'"
+        },
+        "meditation": {
+          "en-US": "When asked her name, the Lady joined her hands, lifted her eyes, and said, 'I am the Immaculate Conception.' Bernadette did not understand the words, yet they confirmed the dogma the Church had defined only four years before.",
+          "pt-BR": "Ao ser perguntada por seu nome, a Senhora juntou as mãos, ergueu os olhos e disse: 'Eu sou a Imaculada Conceição'. Bernadette não entendeu as palavras, mas elas confirmavam o dogma que a Igreja definira apenas quatro anos antes."
+        },
+        "intention": {
+          "en-US": "In thanksgiving for Mary's Immaculate Conception and her sinless love.",
+          "pt-BR": "Em ação de graças pela Imaculada Conceição de Maria e por seu amor sem mancha."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 3: The hidden spring",
+          "pt-BR": "Dia 3: A fonte oculta"
+        },
+        "meditation": {
+          "en-US": "The Lady told Bernadette to drink and wash at a spring, and the child scratched the muddy ground until clear water welled up. From that small trickle has flowed a stream of healing for the world.",
+          "pt-BR": "A Senhora disse a Bernadette que bebesse e se lavasse numa fonte, e a menina escavou o chão lodoso até brotar água límpida. Daquele pequeno fio jorrou para o mundo uma corrente de cura."
+        },
+        "intention": {
+          "en-US": "For all the sick who seek healing of body and soul.",
+          "pt-BR": "Por todos os enfermos que buscam a cura do corpo e da alma."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 4: Penance, penance, penance",
+          "pt-BR": "Dia 4: Penitência, penitência, penitência"
+        },
+        "meditation": {
+          "en-US": "The Lady's message was simple and grave: penance for one's own sins and for the sins of others. She invited not despair but a humble turning back to God.",
+          "pt-BR": "A mensagem da Senhora foi simples e grave: penitência pelos próprios pecados e pelos pecados dos outros. Ela convidava não ao desespero, mas a uma humilde conversão a Deus."
+        },
+        "intention": {
+          "en-US": "For the grace of true penance and amendment of life.",
+          "pt-BR": "Pela graça da verdadeira penitência e da emenda de vida."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 5: Prayer for sinners",
+          "pt-BR": "Dia 5: Oração pelos pecadores"
+        },
+        "meditation": {
+          "en-US": "Again and again the Lady asked Bernadette to pray for the conversion of sinners. The Mother of Mercy weeps for her straying children and longs to bring them home.",
+          "pt-BR": "Repetidas vezes a Senhora pediu a Bernadette que rezasse pela conversão dos pecadores. A Mãe de Misericórdia chora por seus filhos desgarrados e anseia por reconduzi-los ao lar."
+        },
+        "intention": {
+          "en-US": "For the conversion of sinners and of those far from God.",
+          "pt-BR": "Pela conversão dos pecadores e dos que estão longe de Deus."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 6: Bernadette's faithfulness",
+          "pt-BR": "Dia 6: A fidelidade de Bernadette"
+        },
+        "meditation": {
+          "en-US": "Mocked, questioned, and pressured by authorities, Bernadette never altered her account or sought any reward. Her simple steadfastness made her a fitting witness to the Queen of Heaven.",
+          "pt-BR": "Zombada, interrogada e pressionada pelas autoridades, Bernadette jamais alterou seu relato nem buscou recompensa alguma. Sua firmeza simples fez dela uma digna testemunha da Rainha do Céu."
+        },
+        "intention": {
+          "en-US": "For courage to bear witness to the truth despite opposition.",
+          "pt-BR": "Por coragem para testemunhar a verdade apesar da oposição."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 7: Health of the sick",
+          "pt-BR": "Dia 7: Saúde dos enfermos"
+        },
+        "meditation": {
+          "en-US": "To Lourdes come the suffering of every land, carried to the grotto in hope. Many are healed in body; far more receive the deeper grace to bear their cross with Christ.",
+          "pt-BR": "A Lourdes acorrem os sofredores de toda terra, levados à gruta na esperança. Muitos são curados no corpo; mais ainda recebem a graça mais profunda de carregar sua cruz com Cristo."
+        },
+        "intention": {
+          "en-US": "For those who suffer, that they may find strength and consolation.",
+          "pt-BR": "Por aqueles que sofrem, para que encontrem força e consolação."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 8: The light of the candles",
+          "pt-BR": "Dia 8: A luz das velas"
+        },
+        "meditation": {
+          "en-US": "Each night the faithful process at Lourdes with lighted candles, singing the Ave to Mary. The flame in each hand is a prayer made visible, joining countless hearts as one.",
+          "pt-BR": "Cada noite os fiéis caminham em procissão em Lourdes com velas acesas, cantando a Ave a Maria. A chama em cada mão é uma oração tornada visível, unindo incontáveis corações em um só."
+        },
+        "intention": {
+          "en-US": "For perseverance in daily prayer to Our Lady.",
+          "pt-BR": "Pela perseverança na oração diária a Nossa Senhora."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 9: Our Lady's enduring care",
+          "pt-BR": "Dia 9: O cuidado perene de Nossa Senhora"
+        },
+        "meditation": {
+          "en-US": "What began at a poor grotto has drawn millions to conversion and trust for over a century and a half. Our Lady of Lourdes still bends down to her children with a Mother's tenderness.",
+          "pt-BR": "O que começou numa pobre gruta atraiu milhões à conversão e à confiança por mais de um século e meio. Nossa Senhora de Lourdes ainda se inclina sobre seus filhos com a ternura de uma Mãe."
+        },
+        "intention": {
+          "en-US": "That I may entrust my whole life to the care of Mary.",
+          "pt-BR": "Para que eu confie toda a minha vida ao cuidado de Maria."
+        }
+      }
+    ]
+  }
+}

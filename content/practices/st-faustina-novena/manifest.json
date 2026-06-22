@@ -1,0 +1,58 @@
+{
+  "id": "st-faustina-novena",
+  "icon": "divine-mercy",
+  "name": {
+    "en-US": "Novena to St. Faustina",
+    "pt-BR": "Novena a Santa Faustina"
+  },
+  "subtitle": {
+    "en-US": "Sep 26–Oct 4",
+    "pt-BR": "26 de setembro–4 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-faustina-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Faustina Kowalska, the humble Polish sister whom Christ chose as the Apostle of Divine Mercy. Through her example we learn to trust Jesus completely and to live and proclaim His mercy.",
+    "pt-BR": "Uma novena de nove dias a Santa Faustina Kowalska, a humilde irmã polonesa que Cristo escolheu como Apóstola da Divina Misericórdia. Por seu exemplo aprendemos a confiar inteiramente em Jesus e a viver e anunciar a Sua misericórdia."
+  },
+  "history": {
+    "en-US": "Helena Kowalska was born in 1905 in the Polish village of Głogowiec, the third of ten children in a poor and devout family. At twenty she entered the Congregation of the Sisters of Our Lady of Mercy, taking the name Maria Faustina, and lived hidden in convent kitchens, gardens, and gatehouses. Beginning in 1931, Jesus appeared to her and entrusted her with the message of His mercy, the Image with the rays of blood and water, the Chaplet, and the words 'Jesus, I trust in You.' At His command she recorded these graces in her Diary. She died of tuberculosis in 1938 at the age of thirty-three, and was canonized by Pope St. John Paul II in 2000, who also established the Feast of Divine Mercy from her revelations.",
+    "pt-BR": "Helena Kowalska nasceu em 1905 na aldeia polonesa de Głogowiec, a terceira de dez filhos de uma família pobre e devota. Aos vinte anos entrou na Congregação das Irmãs de Nossa Senhora da Misericórdia, recebendo o nome de Maria Faustina, e viveu escondida nas cozinhas, jardins e portarias do convento. A partir de 1931, Jesus apareceu-lhe e confiou-lhe a mensagem da Sua misericórdia, a Imagem com os raios de sangue e água, o Terço e as palavras 'Jesus, eu confio em Vós.' Por ordem d'Ele registrou essas graças em seu Diário. Morreu de tuberculose em 1938, aos trinta e três anos, e foi canonizada pelo Papa São João Paulo II em 2000, que também instituiu a Festa da Divina Misericórdia a partir de suas revelações."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 246,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

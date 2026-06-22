@@ -1,0 +1,58 @@
+{
+  "id": "st-john-bosco-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. John Bosco",
+    "pt-BR": "Novena a São João Bosco"
+  },
+  "subtitle": {
+    "en-US": "Jan 22–30",
+    "pt-BR": "22–30 de janeiro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-john-bosco-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. John Bosco, priest and tireless father of poor and abandoned youth.",
+    "pt-BR": "Uma novena de nove dias a São João Bosco, sacerdote e incansável pai dos jovens pobres e abandonados."
+  },
+  "history": {
+    "en-US": "St. John Bosco (1815–1888) gathered the street boys of Turin and raised them in faith and trade through what he called the Preventive System — reason, religion, and loving-kindness. Guided since childhood by prophetic dreams and entrusting all to Mary Help of Christians, he founded the Salesians and oratories that still shelter the young. This novena begs his fatherly intercession for the souls and needs entrusted to us.",
+    "pt-BR": "São João Bosco (1815–1888) recolheu os meninos de rua de Turim e os formou na fé e no trabalho por meio do que chamou Sistema Preventivo — razão, religião e amabilidade. Guiado desde a infância por sonhos proféticos e confiando tudo a Maria Auxiliadora, fundou os Salesianos e os oratórios que ainda hoje acolhem os jovens. Esta novena implora sua intercessão paterna pelas almas e necessidades a nós confiadas."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 206,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

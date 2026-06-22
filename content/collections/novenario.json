@@ -1,0 +1,506 @@
+{
+  "id": "collection/novenario",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "The Novenário",
+    "pt-BR": "O Novenário"
+  },
+  "description": {
+    "en-US": "A novena for every season — the saints and feasts of the whole year, one nine-day journey at a time.",
+    "pt-BR": "Uma novena para cada tempo — os santos e as festas do ano inteiro, uma jornada de nove dias por vez."
+  },
+  "icon": "candle",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "novena",
+    "novenas",
+    "liturgical-year",
+    "devotion",
+    "saints",
+    "marian"
+  ],
+  "defaults": {
+    "autoSeed": false
+  },
+  "prologue": {
+    "body": {
+      "en-US": "A novena is nine days of prayer held in a single intention — the Church's oldest way of waiting, after the Apostles and Mary prayed nine days for the Holy Spirit. This collection follows the year: a novena to prepare for each great feast and to keep company with the saints on their days. Begin one on the date suggested, or pray any of them whenever your heart has need.",
+      "pt-BR": "Uma novena são nove dias de oração mantidos em uma única intenção — o modo mais antigo de esperar da Igreja, desde que os Apóstolos e Maria rezaram nove dias pelo Espírito Santo. Esta coleção acompanha o ano: uma novena para preparar cada grande festa e para fazer companhia aos santos em seus dias. Comece uma na data sugerida, ou reze qualquer uma sempre que seu coração precisar."
+    }
+  },
+  "sections": [
+    {
+      "id": "janeiro",
+      "title": {
+        "en-US": "January",
+        "pt-BR": "Janeiro"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/mary-mother-of-god-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/epiphany-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-anthony-abbot-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-francis-de-sales-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-thomas-aquinas-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-john-bosco-novena"
+        }
+      ]
+    },
+    {
+      "id": "fevereiro",
+      "title": {
+        "en-US": "February",
+        "pt-BR": "Fevereiro"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/candlemas-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/our-lady-of-lourdes-novena"
+        }
+      ]
+    },
+    {
+      "id": "marco",
+      "title": {
+        "en-US": "March",
+        "pt-BR": "Março"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/st-joseph-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/annunciation-novena"
+        }
+      ]
+    },
+    {
+      "id": "abril",
+      "title": {
+        "en-US": "April",
+        "pt-BR": "Abril"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/st-gemma-galgani-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-gianna-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-louis-de-montfort-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-catherine-of-siena-novena"
+        }
+      ]
+    },
+    {
+      "id": "maio",
+      "title": {
+        "en-US": "May",
+        "pt-BR": "Maio"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/st-athanasius-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/our-lady-of-fatima-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-rita-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-philip-neri-novena"
+        }
+      ]
+    },
+    {
+      "id": "junho",
+      "title": {
+        "en-US": "June",
+        "pt-BR": "Junho"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/st-jose-de-anchieta-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-anthony-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-aloysius-gonzaga-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-thomas-more-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-john-baptist-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/perpetual-help-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/ss-peter-and-paul-novena"
+        }
+      ]
+    },
+    {
+      "id": "julho",
+      "title": {
+        "en-US": "July",
+        "pt-BR": "Julho"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/st-benedict-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/ss-louis-zelie-martin-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/mount-carmel-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-mary-magdalene-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/ss-anne-joachim-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-ignatius-loyola-novena"
+        }
+      ]
+    },
+    {
+      "id": "agosto",
+      "title": {
+        "en-US": "August",
+        "pt-BR": "Agosto"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/st-alphonsus-liguori-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-john-vianney-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-philomena-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-clare-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-maximilian-kolbe-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/assumption-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-bernard-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-louis-ix-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-monica-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-augustine-novena"
+        }
+      ]
+    },
+    {
+      "id": "setembro",
+      "title": {
+        "en-US": "September",
+        "pt-BR": "Setembro"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/exaltation-holy-cross-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/seven-sorrows-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-hildegard-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-padre-pio-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-vincent-de-paul-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/holy-archangels-novena"
+        }
+      ]
+    },
+    {
+      "id": "outubro",
+      "title": {
+        "en-US": "October",
+        "pt-BR": "Outubro"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/st-therese-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/guardian-angels-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-francis-assisi-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-faustina-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/our-lady-of-the-rosary-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/our-lady-aparecida-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-teresa-of-avila-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-margaret-mary-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-gerard-majella-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-ignatius-antioch-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-peter-of-alcantara-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-john-paul-ii-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-anthony-galvao-novena"
+        }
+      ]
+    },
+    {
+      "id": "novembro",
+      "title": {
+        "en-US": "November",
+        "pt-BR": "Novembro"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/all-saints-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/holy-souls-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/christ-the-king-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/presentation-of-mary-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-catherine-alexandria-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/miraculous-medal-novena"
+        }
+      ]
+    },
+    {
+      "id": "dezembro",
+      "title": {
+        "en-US": "December",
+        "pt-BR": "Dezembro"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/immaculate-conception-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/guadalupe-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-lucy-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-john-of-the-cross-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/christmas-novena"
+        }
+      ]
+    },
+    {
+      "id": "moveis",
+      "title": {
+        "en-US": "Movable & Free",
+        "pt-BR": "Móveis & Livres"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/holy-family-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/holy-face-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/ascension-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/novena-holy-spirit"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/holy-trinity-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/corpus-christi-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/novena-sacred-heart"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/immaculate-heart-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-josemaria-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/any-marian-feast-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/any-saint-novena"
+        }
+      ]
+    },
+    {
+      "id": "tesouros",
+      "title": {
+        "en-US": "Treasured Novenas",
+        "pt-BR": "Novenas Preciosas"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/surrender-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/undoer-of-knots-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/divine-mercy-novena"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/st-jude-novena"
+        }
+      ]
+    }
+  ]
+}

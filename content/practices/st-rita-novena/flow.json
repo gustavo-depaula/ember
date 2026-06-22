@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Rita of Cascia",
+        "pt-BR": "Novena a Santa Rita de Cássia"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O glorious St. Rita, faithful spouse, devoted mother, and patient widow, you embraced every cross with love for the crucified Lord. As I begin this novena, obtain for me a heart that trusts God in the darkest hour. Amen.",
+        "pt-BR": "Ó gloriosa Santa Rita, esposa fiel, mãe dedicada e viúva paciente, vós que abraçastes toda cruz com amor ao Senhor crucificado, ao iniciar esta novena alcançai-me um coração que confie em Deus na hora mais escura. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-rita-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O St. Rita, advocate of impossible causes, present my petitions before the throne of God. By the wound you bore from the crown of thorns, teach me to suffer with patience and to forgive without measure, until I rejoice with you in heaven. Amen.",
+        "pt-BR": "Ó Santa Rita, advogada das causas impossíveis, apresentai os meus pedidos diante do trono de Deus. Pela chaga que recebestes da coroa de espinhos, ensinai-me a sofrer com paciência e a perdoar sem medida, até me alegrar convosco no céu. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

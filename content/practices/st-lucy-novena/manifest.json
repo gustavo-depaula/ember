@@ -1,0 +1,58 @@
+{
+  "id": "st-lucy-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Lucy",
+    "pt-BR": "Novena a Santa Luzia"
+  },
+  "subtitle": {
+    "en-US": "Dec 4–12",
+    "pt-BR": "4–12 de dezembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-lucy-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Lucy of Syracuse, virgin and martyr, whose name means 'light.' Patroness of the blind and of all who suffer in their eyes, she shines amid the Advent darkness as a witness to the courage and purity born of faith.",
+    "pt-BR": "Uma novena de nove dias a Santa Luzia de Siracusa, virgem e mártir, cujo nome significa 'luz'. Padroeira dos cegos e de todos que sofrem dos olhos, ela resplandece em meio às trevas do Advento como testemunha da coragem e da pureza nascidas da fé."
+  },
+  "history": {
+    "en-US": "St. Lucy was a young noblewoman of Syracuse in Sicily who consecrated her virginity to Christ around the year 304, during the persecution of Diocletian. Denounced as a Christian by a suitor she refused, she endured torture and was martyred by the sword. Her feast on December 13 has long brought light into the heart of Advent, and her name (Lucia, 'light') made her the natural patroness of eyesight and the inner light of faith.",
+    "pt-BR": "Santa Luzia foi uma jovem nobre de Siracusa, na Sicília, que consagrou sua virgindade a Cristo por volta do ano 304, durante a perseguição de Diocleciano. Denunciada como cristã por um pretendente a quem recusara, suportou torturas e foi martirizada pela espada. Sua festa, em 13 de dezembro, há muito traz luz ao coração do Advento, e seu nome (Lúcia, 'luz') fez dela a padroeira natural da visão e da luz interior da fé."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 261,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

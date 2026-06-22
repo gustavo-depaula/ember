@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Catherine of Alexandria",
+        "pt-BR": "Novena a Santa Catarina de Alexandria"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O glorious St. Catherine, virgin and martyr, who confessed Christ before kings and confounded the wise of this world, intercede for me before the throne of God. Obtain for me a share in your wisdom, your purity, and your unshakable courage. Amen.",
+        "pt-BR": "Ó gloriosa Santa Catarina, virgem e mártir, que confessastes a Cristo diante dos reis e confundistes os sábios deste mundo, intercedei por mim diante do trono de Deus. Alcançai-me uma parte de vossa sabedoria, de vossa pureza e de vossa coragem inabalável. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-catherine-alexandria-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Catherine of Alexandria, faithful unto death and crowned with glory, lead me along the path of truth and keep me steadfast in the faith. By your powerful intercession, help me to love wisdom that comes from above and to remain Christ's to the end. Amen.",
+        "pt-BR": "Santa Catarina de Alexandria, fiel até a morte e coroada de glória, conduzi-me pelo caminho da verdade e conservai-me firme na fé. Por vossa poderosa intercessão, ajudai-me a amar a sabedoria que vem do alto e a permanecer de Cristo até o fim. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

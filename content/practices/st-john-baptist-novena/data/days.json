@@ -1,0 +1,133 @@
+{
+  "indexBy": "program-day",
+  "entries": {
+    "default": [
+      {
+        "dayTitle": {
+          "en-US": "Day 1: The voice in the wilderness",
+          "pt-BR": "Dia 1: A voz no deserto"
+        },
+        "meditation": {
+          "en-US": "St. John went out into the desert, eating locusts and wild honey, that nothing might dull his hearing of God. He teaches us that the soul must be emptied of noise before it can speak God's word.",
+          "pt-BR": "São João retirou-se para o deserto, alimentando-se de gafanhotos e mel silvestre, para que nada embotasse sua escuta de Deus. Ele nos ensina que a alma precisa esvaziar-se do ruído antes de poder anunciar a palavra de Deus."
+        },
+        "intention": {
+          "en-US": "For the grace of silence and solitude in which to hear God's voice.",
+          "pt-BR": "Pela graça do silêncio e da solidão em que se possa ouvir a voz de Deus."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 2: Preparing the way of the Lord",
+          "pt-BR": "Dia 2: Preparar o caminho do Senhor"
+        },
+        "meditation": {
+          "en-US": "He called the people to make straight the paths, leveling the high places of pride and filling the valleys of despair. His whole life was to clear the road by which the Savior would come.",
+          "pt-BR": "Ele chamava o povo a endireitar as veredas, abaixando os altos da soberba e enchendo os vales do desânimo. Sua vida inteira foi abrir o caminho por onde viria o Salvador."
+        },
+        "intention": {
+          "en-US": "That I may remove from my heart whatever blocks the coming of Christ.",
+          "pt-BR": "Para que eu remova de meu coração tudo o que impede a vinda de Cristo."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 3: A call to repentance",
+          "pt-BR": "Dia 3: O chamado à penitência"
+        },
+        "meditation": {
+          "en-US": "John baptized in the Jordan, urging hearts to turn from sin and bear worthy fruit. He reminds us that conversion is not a single moment but a daily turning back to God.",
+          "pt-BR": "João batizava no Jordão, exortando os corações a abandonarem o pecado e a darem frutos dignos. Ele nos recorda que a conversão não é um só instante, mas um retorno diário a Deus."
+        },
+        "intention": {
+          "en-US": "For true contrition and a steadfast purpose of amendment.",
+          "pt-BR": "Por uma contrição verdadeira e um firme propósito de emenda."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 4: Behold the Lamb of God",
+          "pt-BR": "Dia 4: Eis o Cordeiro de Deus"
+        },
+        "meditation": {
+          "en-US": "Seeing Jesus approach, John cried, 'Behold the Lamb of God, who takes away the sin of the world.' His joy was to disappear behind the One he announced.",
+          "pt-BR": "Vendo Jesus aproximar-se, João exclamou: 'Eis o Cordeiro de Deus, que tira o pecado do mundo.' Sua alegria era desaparecer atrás d'Aquele que anunciava."
+        },
+        "intention": {
+          "en-US": "That I may recognize Christ present in the Eucharist and in the poor.",
+          "pt-BR": "Para que eu reconheça Cristo presente na Eucaristia e nos pobres."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 5: He must increase, I must decrease",
+          "pt-BR": "Dia 5: Importa que Ele cresça e eu diminua"
+        },
+        "meditation": {
+          "en-US": "When his own disciples grew jealous of Jesus, John answered serenely, 'He must increase, but I must decrease.' He shows us the freedom of the soul that desires only God's glory.",
+          "pt-BR": "Quando seus próprios discípulos se inquietaram diante de Jesus, João respondeu sereno: 'Importa que Ele cresça e eu diminua.' Ele nos mostra a liberdade da alma que deseja apenas a glória de Deus."
+        },
+        "intention": {
+          "en-US": "For deliverance from vanity and the desire to be seen.",
+          "pt-BR": "Pela libertação da vaidade e do desejo de aparecer."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 6: Humility before Christ",
+          "pt-BR": "Dia 6: Humildade diante de Cristo"
+        },
+        "meditation": {
+          "en-US": "John confessed he was unworthy to loosen the strap of the Lord's sandal, though crowds came to him as a prophet. True greatness, he teaches, knows its place before God.",
+          "pt-BR": "João confessou-se indigno de desatar a correia da sandália do Senhor, ainda que as multidões viessem a ele como a um profeta. A verdadeira grandeza, ele ensina, conhece seu lugar diante de Deus."
+        },
+        "intention": {
+          "en-US": "For a humble heart that takes the lowest place gladly.",
+          "pt-BR": "Por um coração humilde que de bom grado tome o último lugar."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 7: Courage to speak the truth",
+          "pt-BR": "Dia 7: Coragem para dizer a verdade"
+        },
+        "meditation": {
+          "en-US": "John did not flatter the powerful, but told Herod plainly that it was unlawful to take his brother's wife. He teaches that charity sometimes requires the courage to wound in order to heal.",
+          "pt-BR": "João não adulou os poderosos, mas disse a Herodes claramente que não lhe era lícito tomar a mulher de seu irmão. Ele ensina que a caridade às vezes exige a coragem de ferir para curar."
+        },
+        "intention": {
+          "en-US": "For the courage to speak the truth with charity and without fear.",
+          "pt-BR": "Pela coragem de dizer a verdade com caridade e sem temor."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 8: Faithful in prison",
+          "pt-BR": "Dia 8: Fiel na prisão"
+        },
+        "meditation": {
+          "en-US": "Cast into Herod's dungeon, John sent his disciples to Jesus and waited in the darkness without bitterness. He teaches us to hold fast to faith even when God's purposes seem hidden.",
+          "pt-BR": "Lançado no cárcere de Herodes, João enviou seus discípulos a Jesus e esperou nas trevas sem amargura. Ele nos ensina a permanecer firmes na fé mesmo quando os desígnios de Deus parecem ocultos."
+        },
+        "intention": {
+          "en-US": "For perseverance in trials and trust when God seems distant.",
+          "pt-BR": "Pela perseverança nas provações e pela confiança quando Deus parece distante."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 9: Martyr for the truth",
+          "pt-BR": "Dia 9: Mártir da verdade"
+        },
+        "meditation": {
+          "en-US": "John was beheaded for the sake of righteousness, sealing his witness with his blood. The Forerunner who prepared the way in life now leads the way of the martyrs to the throne of God.",
+          "pt-BR": "João foi decapitado por causa da justiça, selando com o sangue o seu testemunho. O Precursor que preparou o caminho em vida agora conduz o caminho dos mártires até o trono de Deus."
+        },
+        "intention": {
+          "en-US": "For the grace of final perseverance and fidelity unto death.",
+          "pt-BR": "Pela graça da perseverança final e da fidelidade até a morte."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for All Saints",
+        "pt-BR": "Novena de Todos os Santos"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Almighty and eternal God, who gladden us by the merits and intercession of all Your saints, grant that we who honor them on earth may one day share their joy in heaven. Make us, by Your grace, members of that great multitude that praises You forever. Amen.",
+        "pt-BR": "Deus todo-poderoso e eterno, que nos alegrais com os méritos e a intercessão de todos os vossos santos, concedei que nós, que os honramos na terra, possamos um dia partilhar de sua alegria no céu. Fazei-nos, por vossa graça, membros daquela grande multidão que Vos louva eternamente. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "all-saints-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "All you holy men and women, citizens of heaven and our elder brothers and sisters in the faith, pray for us who still walk the pilgrim road. Obtain for us perseverance in grace, hunger for holiness, and the hope of one day joining your unending song before the throne of God. Amen.",
+        "pt-BR": "Ó todos os santos e santas, cidadãos do céu e nossos irmãos mais velhos na fé, rogai por nós que ainda caminhamos como peregrinos. Alcançai-nos a perseverança na graça, a fome de santidade e a esperança de um dia nos unirmos ao vosso canto sem fim diante do trono de Deus. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

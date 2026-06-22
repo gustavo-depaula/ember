@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Thomas Aquinas",
+        "pt-BR": "Novena a Santo Tomás de Aquino"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O ineffable Creator, who gave to St. Thomas Aquinas a burning love of truth, send forth Your light into our minds and Your love into our hearts. By his prayers grant us to seek, to find, and to rest in You, the Truth that never fails. Amen.",
+        "pt-BR": "Ó inefável Criador, que destes a Santo Tomás de Aquino um ardente amor à verdade, enviai a vossa luz às nossas mentes e o vosso amor aos nossos corações. Por suas preces, concedei-nos buscar, encontrar e repousar em Vós, a Verdade que jamais falha. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-thomas-aquinas-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Angelic Doctor, who adored the hidden God in the Blessed Sacrament and counted all learning as straw before His glory, obtain for us a humble and ardent faith. May we love truth for God's sake and adore Him with all our heart. Amen.",
+        "pt-BR": "Ó Doutor Angélico, que adorastes o Deus oculto no Santíssimo Sacramento e tivestes todo saber por palha diante da sua glória, alcançai-nos uma fé humilde e ardente. Possamos amar a verdade por amor de Deus e adorá-Lo de todo o coração. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

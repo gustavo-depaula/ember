@@ -1,0 +1,58 @@
+{
+  "id": "our-lady-of-the-rosary-novena",
+  "icon": "rosary",
+  "name": {
+    "en-US": "Novena to Our Lady of the Rosary",
+    "pt-BR": "Novena a Nossa Senhora do Rosário"
+  },
+  "subtitle": {
+    "en-US": "Sep 28–Oct 6",
+    "pt-BR": "28 de setembro–6 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "marian"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "our-lady-of-the-rosary-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to Our Lady of the Rosary, who through her beads leads us into the mysteries of Christ's life. In Mary's school of contemplation we learn to pray the Gospel and to entrust our battles to her victorious intercession.",
+    "pt-BR": "Uma novena de nove dias a Nossa Senhora do Rosário, que por suas contas nos conduz aos mistérios da vida de Cristo. Na escola de contemplação de Maria aprendemos a rezar o Evangelho e a confiar as nossas batalhas à sua intercessão vitoriosa."
+  },
+  "history": {
+    "en-US": "The Holy Rosary, woven through centuries of Christian devotion and long associated with St. Dominic and the Order of Preachers, is the Gospel itself prayed on beads, leading the soul through the joyful, sorrowful, and glorious mysteries of Christ. The feast of Our Lady of the Rosary commemorates the victory of the Christian fleet at Lepanto on October 7, 1571, which Pope St. Pius V attributed to the Rosary prayed by the faithful throughout Christendom. In gratitude the Pope honored Our Lady under the title of Victory, later renamed the Rosary by Pope Gregory XIII. Through countless apparitions, including Fatima, Our Lady has continued to call her children to this prayer as a remedy for the world's ills.",
+    "pt-BR": "O Santo Rosário, tecido ao longo de séculos de devoção cristã e há muito associado a São Domingos e à Ordem dos Pregadores, é o próprio Evangelho rezado em contas, conduzindo a alma pelos mistérios gozosos, dolorosos e gloriosos de Cristo. A festa de Nossa Senhora do Rosário comemora a vitória da frota cristã em Lepanto, em 7 de outubro de 1571, que o Papa São Pio V atribuiu ao Rosário rezado pelos fiéis em toda a cristandade. Em gratidão, o Papa honrou Nossa Senhora sob o título da Vitória, mais tarde renomeado como do Rosário pelo Papa Gregório XIII. Por inúmeras aparições, entre elas Fátima, Nossa Senhora continuou a chamar seus filhos a esta oração como remédio para os males do mundo."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "marian"
+  ],
+  "defaults": {
+    "sortOrder": 247,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

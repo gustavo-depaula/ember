@@ -1,0 +1,58 @@
+{
+  "id": "st-augustine-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Augustine",
+    "pt-BR": "Novena a Santo Agostinho"
+  },
+  "subtitle": {
+    "en-US": "Aug 19–27",
+    "pt-BR": "19–27 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-augustine-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Augustine of Hippo, Doctor of Grace, for all who seek God through restless hearts, intellectual struggle, and the long road of conversion.",
+    "pt-BR": "Uma novena de nove dias a Santo Agostinho de Hipona, Doutor da Graça, por todos os que buscam a Deus através de corações inquietos, da luta intelectual e do longo caminho da conversão."
+  },
+  "history": {
+    "en-US": "St. Augustine (354–430), bishop of Hippo in North Africa, was one of the most influential thinkers in the history of the Church. After years of worldly ambition, a son born out of wedlock, and adherence to the Manichaean heresy, he was converted in a Milan garden at the words 'Take up and read.' His Confessions and City of God shaped Western theology, and his cry, 'You have made us for Yourself, O Lord, and our heart is restless until it rests in You,' remains the prayer of every seeking soul.",
+    "pt-BR": "Santo Agostinho (354–430), bispo de Hipona, na África do Norte, foi um dos pensadores mais influentes da história da Igreja. Após anos de ambição mundana, um filho fora do matrimônio e adesão à heresia maniqueísta, converteu-se em um jardim de Milão ao ouvir as palavras 'Toma e lê'. Suas Confissões e A Cidade de Deus moldaram a teologia ocidental, e seu clamor, 'Fizestes-nos para Vós, Senhor, e inquieto está o nosso coração enquanto não repousa em Vós', permanece a oração de toda alma que busca."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 237,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}
