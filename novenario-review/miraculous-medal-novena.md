@@ -1,0 +1,35 @@
+# Our Lady of Grace (Miraculous Medal) — fidelity comparison
+
+## Ember (this app) — en-US
+**Opening prayer:** _(none — the flow opens with the Sign of the Cross and goes directly into the day's meditation.)_
+
+**Day 1 — Mary, Full of Grace:** O Immaculate Virgin Mary, from the first moment of your conception you were preserved from all stain of sin by a singular privilege of God. The angel greeted you as 'full of grace,' for you were chosen to be the spotless vessel of the Incarnation. Your purity shines as a beacon of hope for all who struggle against sin. Help us to imitate your openness to God's grace and to seek the holiness to which we are called. _(Intention: For the grace to grow in purity of heart, mind, and body.)_
+
+**Day 2 — Mary, Mother of God:** O Blessed Mother, the Council of Ephesus proclaimed you Theotokos — the God-Bearer — for in your womb the eternal Word took flesh. You held in your arms the One who holds all creation in being. Your 'yes' at the Annunciation made possible the salvation of the world. As you nurtured the infant Jesus with a mother's tender love, nurture in us a living faith and an ever-deeper love for your Divine Son. _(Intention: For a deeper devotion to Jesus Christ through his Blessed Mother.)_
+
+**Day 3 — Mary, Refuge of Sinners:** O merciful Mother, you never cease to intercede for those who have strayed from the path of grace. At the foot of the Cross, you received us all as your children, and your maternal heart yearns for the conversion of every sinner. No one who has sought your help has ever been left unaided. We entrust to you all who are far from God, that through your prayers they may find the way back to your Son's merciful Heart. _(Intention: For the conversion of sinners and those who have fallen away from the faith.)_
+
+**Day 4 — Mary, Comfort of the Afflicted:** O compassionate Mother, you know the depth of human suffering, for you stood beneath the Cross and watched your Son die. Your heart was pierced by a sword of sorrow, as Simeon foretold, and through that suffering you became the consolation of all who weep. Turn your gentle eyes upon those who are burdened with grief, loneliness, and despair. Wrap them in your mantle of comfort and lead them to the peace that only God can give. _(Intention: For all who suffer grief, depression, or any affliction of body or soul.)_
+
+**Day 5 — Mary, Health of the Sick:** O tender Mother, countless miracles of healing have been granted through your intercession and through the wearing of your Miraculous Medal. You who accompanied your Son during His earthly ministry of healing now continue that work of mercy from heaven. Look with compassion upon all who are ill, upon those who care for them, and upon all who work in the healing arts. Obtain for the sick the grace of patience and, if it be God's will, restoration of health. _(Intention: For the healing and comfort of all who are sick or suffering.)_
+
+**Day 6 — Mary, Queen of All Saints:** O glorious Queen, you stand above all the angels and saints in heaven, crowned with twelve stars, clothed with the sun. Yet your glory comes not from yourself but from the grace of God, who looked upon the lowliness of His handmaid and did great things for you. The saints throughout the ages have looked to you as their model and their Mother. Inspire us to follow their example and yours, that we may one day join the communion of saints in the presence of God. _(Intention: For the grace to pursue holiness and follow the example of the saints.)_
+
+**Day 7 — Mary, Help of Christians:** O powerful Virgin, throughout the centuries you have come to the aid of your children in times of peril and persecution. At Lepanto, at Vienna, and in countless hidden battles of the soul, your intercession has turned the tide against the forces of evil. You appeared to St. Catherine Labouré with rays of light streaming from your hands — graces poured out upon the world. Protect the Church, defend the faithful, and strengthen all who are persecuted for the name of Christ. _(Intention: For the protection of the Church and all persecuted Christians throughout the world.)_
+
+**Day 8 — Mary, Gate of Heaven:** O blessed Gate of Heaven, through you the eternal Word entered our world, and through your maternal guidance countless souls have found their way to paradise. You show us the path to your Son, for as you said at Cana, 'Do whatever He tells you.' On the Miraculous Medal you stand upon the globe, crushing the serpent beneath your feet, your hands open in blessing. Lead us safely through the trials of this life to the eternal joy that awaits us in your Son's kingdom. _(Intention: For the grace of a holy death and the salvation of souls.)_
+
+**Day 9 — Mary, Mediatrix of All Graces:** O most generous Mother, God has willed that every grace should pass through your hands, as the rays of light streaming from your fingers on the Miraculous Medal beautifully signify. You are the channel through which the treasures of heaven flow to earth, not because God needs you, but because He delights in honoring you. As this novena draws to a close, we place all our needs and intentions into your Immaculate Heart, confident that you will present them to your Son with a mother's loving intercession. _(Intention: For all the intentions held in my heart during this novena, and for the grace to trust always in Mary's intercession.)_
+
+**Closing prayer:** _(after three Hail Marys)_ O Mary, conceived without sin, pray for us who have recourse to thee. _(prayed three times)_
+
+_(A pt-BR version also exists in the app.)_
+
+## Source — FishEaters
+— not reliably retrievable. The FishEaters `#grace` anchor points to the "Novena of Grace" in honor of St. Francis Xavier, not a Miraculous Medal / Our Lady of Grace novena; the relevant text could not be extracted from the (truncated) page and no Miraculous Medal novena was found there. Treat as effectively not on FishEaters under this anchor.
+
+## Source — PrayMoreNovenas
+— not on PrayMoreNovenas (no `pmn` URL provided for this entry).
+
+## Fidelity note
+With no usable source on either site, this is best read as an original composition. Its one fixed, traditional element is fully faithful: the Miraculous Medal invocation "O Mary, conceived without sin, pray for us who have recourse to thee," prayed three times, exactly as struck on the 1830 medal revealed to St. Catherine Labouré. The nine daily meditations are freshly written around classic Litany-of-Loreto-style Marian titles (Full of Grace, Mother of God, Refuge of Sinners, Health of the Sick, Help of Christians, Gate of Heaven, Mediatrix of All Graces) and weave in authentic Miraculous Medal imagery — the rays of grace from Mary's hands, standing on the globe, crushing the serpent, and St. Catherine Labouré herself. Doctrinally careful and devotionally apt; not a transcription of any specific published Miraculous Medal novena. Note also the structural difference from the other novenas: no separate opening/closing prayer, with the day's intention printed inline.
