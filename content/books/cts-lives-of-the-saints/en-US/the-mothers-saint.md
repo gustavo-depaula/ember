@@ -4,9 +4,9 @@ Letters arrive daily at our monasteries in Australia, and overseas with these re
 
 There are letters of thanks, too. Plenty of them. Thanks to St. Gerard for a successful confinement; thanks for the recovery of a sick child; thanks from a childless couple that their prayers have been heard.
 
-Why this worldwide cho rus of prayer and thanks to St. Gerard Majella? Why so many children with the names Gerard and Majella?
+Why this worldwide chorus of prayer and thanks to St. Gerard Majella? Why so many children with the names Gerard and Majella?
 
-Because St. Gerard Majella, a Redemptorist Brother, is universally acclaimed as the Patron of Mothers, the Mothers' Saint: a title to which he has prove d his right thousands of times over.
+Because St. Gerard Majella, a Redemptorist Brother, is universally acclaimed as the Patron of Mothers, the Mothers' Saint: a title to which he has proved his right thousands of times over.
 
 How did this devotion originate? How is it that one who is a man and a religious should be the Patron of Mothers? How explain that so many of the favours granted are truly miraculous?
 
@@ -28,15 +28,15 @@ The boy was only eight. However, such was his longing to receive God into his he
 
 That this was no child's dream is evident from other incidents, all fitting into the same pattern.
 
-Gerard had now begun school. He was a general favourite, we are told, with both teachers and class-mates. Games do not seem to have appealed to him. His whole interest was in the church, in saying his prayers and in playing at priests. Such piety might well be put down to a child's fancy caught up by the sound and the stir of the sacred ritual. Not so his innumerable little sacrifices and acts of self-denial. Benedetta, fearing that he would undermine his already frail constitution, had to insist that he eat his meals. Yet, good mother that she was, she sensed his holiness. As she said herself in later years, 'he was born for heaven.' So, with many a heartfelt 'bless you my son,' she gladly co- operated with the Divine Artist in the moulding of a saint.
+Gerard had now begun school. He was a general favourite, we are told, with both teachers and class-mates. Games do not seem to have appealed to him. His whole interest was in the church, in saying his prayers and in playing at priests. Such piety might well be put down to a child's fancy caught up by the sound and the stir of the sacred ritual. Not so his innumerable little sacrifices and acts of self-denial. Benedetta, fearing that he would undermine his already frail constitution, had to insist that he eat his meals. Yet, good mother that she was, she sensed his holiness. As she said herself in later years, 'he was born for heaven.' So, with many a heartfelt 'bless you my son,' she gladly co-operated with the Divine Artist in the moulding of a saint.
 
 God, Who had so far lavished such favours on this child of grace, was now to give him a share of the Cross. As gold is purified by fire, so Gerard's true worth was to be put to the test in the crucible of suffering.
 
-Schooldays were brought to an abrupt end by the death of his father- a shattering blow to the Majella's as to any other family. Although only twelve Gerard had now to make his contribution to the upkeep of the home. So he followed his father's trade, becoming apprenticed to a tailor.
+Schooldays were brought to an abrupt end by the death of his father—a shattering blow to the Majella's as to any other family. Although only twelve Gerard had now to make his contribution to the upkeep of the home. So he followed his father's trade, becoming apprenticed to a tailor.
 
 That was hard on a boy of such tender years; and life was not as easy then as it is today. Hours, too, were long and conditions bad.
 
-To make matters worse the foreman took a dislike to the youngster. So much piety irritated him. He bullied and beat him unmercifully. During one of these thrashings Ge rard kept smiling. Unable to take the smile off the boy's face, the brutal man asked him what he had to smile about. 'I'm smiling,' replied Gerard, 'because in your hand I see the hand of God striking me.' Which, of course, only infuriated his assailant th e more.
+To make matters worse the foreman took a dislike to the youngster. So much piety irritated him. He bullied and beat him unmercifully. During one of these thrashings Gerard kept smiling. Unable to take the smile off the boy's face, the brutal man asked him what he had to smile about. 'I'm smiling,' replied Gerard, 'because in your hand I see the hand of God striking me.' Which, of course, only infuriated his assailant the more.
 
 This ill-treatment went on for a long time without the employer being aware of it. Chancing one day to come on such a scene he woke up to the situation and instantly dismissed the foreman.
 
@@ -58,13 +58,13 @@ He even tried becoming a hermit. When his companion in the adventure deserted af
 
 Yet, behind these set-backs the designs of God were slowly working out.
 
-The would-be hermit was twenty-three when the Redemptorists arrived in Muro to give a mission. They belonged to an Order recently founded by St. Alphonsus Liguori. With them was a Brother or two. Here was Gerard's chance. He asked to join the Brothers. Like the Capuchins before him, the superior of the mission, -Father Cafaro, needed only one glance at the pale, gaunt figure to reach a decision. His answer was: 'Definitely no! You are not strong enough for our kind of life.' This time Gerard was not going to take 'no' for an answer. . He kept up his pleas all through the mission.
+The would-be hermit was twenty-three when the Redemptorists arrived in Muro to give a mission. They belonged to an Order recently founded by St. Alphonsus Liguori. With them was a Brother or two. Here was Gerard's chance. He asked to join the Brothers. Like the Capuchins before him, the superior of the mission, -Father Cafaro, needed only one glance at the pale, gaunt figure to reach a decision. His answer was: 'Definitely no! You are not strong enough for our kind of life.' This time Gerard was not going to take 'no' for an answer. He kept up his pleas all through the mission.
 
-Strange that God should obviously be calling him into Religion, and yet place such obstacles in his w ay! A soul of weaker calibre would soon have given up the struggle. Not so Gerard.
+Strange that God should obviously be calling him into Religion, and yet place such obstacles in his way! A soul of weaker calibre would soon have given up the struggle. Not so Gerard.
 
-'If you won't accept me,' he said to Father Cafaro, 'then I'll follow you. I'll live on your doorstep and you'll have totake me in.'
+'If you won't accept me,' he said to Father Cafaro, 'then I'll follow you. I'll live on your doorstep and you'll have to take me in.'
 
-The priest took the hint. He told Benede tta what time the missioners would be leaving the town. 'Before then,' said he, 'lock him in his room.'
+The priest took the hint. He told Benedetta what time the missioners would be leaving the town. 'Before then,' said he, 'lock him in his room.'
 
 The anxious mother did not need to be told twice. Gerard foiled the ruse by making a rope out of the bedclothes and lowering himself from the upper-storey window. The brief note of farewell that he left on the table was prophetic. It read: 'I have gone to become a saint.'
 
@@ -78,11 +78,11 @@ The community looked askance at the new recruit. With many wise nods to one anot
 
 How wrong they were! Father Cafaro was the first to admit it. And Redemptorists had admitted it ever since. The 'useless Brother' whom they tried to bar from the Order became one of its greatest glories.
 
-Gerard spent only six-and-a-half years in Religion, What the Church says of such youthful saints as an Aloysius, a Stanislaus Kostka and a John Berchmanns- 'in a short time he fulfilled a long time'- was true also of Gerard Majella. His few years as a Redemptorist were crammed full of holiness and crowned by countless miracles.
+Gerard spent only six-and-a-half years in Religion. What the Church says of such youthful saints as an Aloysius, a Stanislaus Kostka and a John Berchmanns- 'in a short time he fulfilled a long time'- was true also of Gerard Majella. His few years as a Redemptorist were crammed full of holiness and crowned by countless miracles.
 
-However, it was not ecstasies and prophecies that made him a saint. It was the unremitting performance of his duties as a Brother, accompanied by the assiduous . practice of the Christian virtues, that led him to the goal of sanctity.
+However, it was not ecstasies and prophecies that made him a saint. It was the unremitting performance of his duties as a Brother, accompanied by the assiduous practice of the Christian virtues, that led him to the goal of sanctity.
 
-The vocation of Redemptorist Brothers is a lowly but sublime one. They perform the household tasks of the monastery- such as cooking, cleaning and sewing-thus leaving the priests free for the work of the ministry. Theirs is a vital contribution to the missions. By combining the labours of Martha with the prayers of Mary, they not only sanctify themselves but bring down countless graces on the souls of others.
+The vocation of Redemptorist Brothers is a lowly but sublime one. They perform the household tasks of the monastery—such as cooking, cleaning and sewing-thus leaving the priests free for the work of the ministry. Theirs is a vital contribution to the missions. By combining the labours of Martha with the prayers of Mary, they not only sanctify themselves but bring down countless graces on the souls of others.
 
 On being admitted to the monastery at Iliceto the obvious way for Gerard to prove his usefulness to the community was by tailoring, at which he was expert. Instead, he was assigned to the garden. The spade and the hoe were a far cry from the needle and the scissors. Nevertheless, he tackled the backbreaking job with superhuman energy. The same earnestness and thoroughness he displayed in all his occupations. For he knew that God is not so much interested in what we do, but in why we do it and how we do it. And Gerard certainly performed all his humdrum duties for the love and glory of His Divine Master.
 
@@ -102,13 +102,13 @@ Yet, for all his austerities Gerard was far from being a sour-faced ascetic. Ful
 
 God raised up Gerard Majella, called him into the cloister and made him a saint, not for his own sake only, but also for the benefit of others. As a Redemptorist he was pledged to work for the salvation of souls. However, it was not merely as an instrument of conversion and salvation that God used him. He sent him forth among the people, like the Redeemer Himself, performing the spiritual and corporal works of mercy. For this end he opened up to the saintly Brother a wide apostolate that had a tremendous impact because of all the striking miracles which accompanied it.
 
-We might say that his apostolate began at the monastery door because when answering the bell he came in contact with people of all kinds, especially the poor. The beggars that besieged the monastery were legion. There were the blind and the lame, the agedand infirm, the ragamuffin and ne'er-do-well. The Brother loved them all, even the imposters. In a bad season as many as two hundred would come daily begging for bread. He managed to feed them all though it often meant multiplying his meagre supplies, as Christ multiplied the loaves and fishes.
+We might say that his apostolate began at the monastery door because when answering the bell he came in contact with people of all kinds, especially the poor. The beggars that besieged the monastery were legion. There were the blind and the lame, the aged and infirm, the ragamuffin and ne'er-do-well. The Brother loved them all, even the imposters. In a bad season as many as two hundred would come daily begging for bread. He managed to feed them all though it often meant multiplying his meagre supplies, as Christ multiplied the loaves and fishes.
 
 However, it was in the world far beyond the monastery door that he carried on his real apostolate. Gerard often accompanied the priests on missions, as was the custom for Brothers in those days. Besides, he was also sent on collecting tours because the Order was practically destitute. In these ways he met vast numbers of people, amongst whom he went about doing good.
 
-On missions hardened sinners were his principal target. Good Shepherd that he was he went in search of these stray sheep. By his persuasiveness he usually succeeded in leading them back to the fold. One case was of a man who had led a notoriously bad life, and although he was dying obstinately refused to have the priest. On entering the room Gerard simplyknelt down and recited the 'Hail Mary' aloud. Before he finished the man was pleading to go to confession. The prayer of the saint won for him the grace of a happy death.
+On missions hardened sinners were his principal target. Good Shepherd that he was he went in search of these stray sheep. By his persuasiveness he usually succeeded in leading them back to the fold. One case was of a man who had led a notoriously bad life, and although he was dying obstinately refused to have the priest. On entering the room Gerard simply knelt down and recited the 'Hail Mary' aloud. Before he finished the man was pleading to go to confession. The prayer of the saint won for him the grace of a happy death.
 
-To one class of sinners he was particularly drawn: those who were in the habit of making bad confessions. Theirs is perhaps the saddest plight of all, because they turn what is meant to be a remedy for the soul into a deadly poison. Of a sacrament they make a sacrilege. Gerard had the gift of being able to read aperson's conscience. Thus, he could mention to the guilty ones sins that they had been concealing in confession for years: sins that were known only to themselves and Almighty God. Such a revelation of their innermost secrets usually had the desired effect. Many such cases are related. One must suffice.
+To one class of sinners he was particularly drawn: those who were in the habit of making bad confessions. Theirs is perhaps the saddest plight of all, because they turn what is meant to be a remedy for the soul into a deadly poison. Of a sacrament they make a sacrilege. Gerard had the gift of being able to read a person's conscience. Thus, he could mention to the guilty ones sins that they had been concealing in confession for years: sins that were known only to themselves and Almighty God. Such a revelation of their innermost secrets usually had the desired effect. Many such cases are related. One must suffice.
 
 Gerard and a priest went into a shop in Naples to buy some medals and rosary-beads. The shop-keeper, anxious to push his wares, indulged in a lot of pious prattle. Gerard could see behind the facade of hypocrisy. Calling the man aside, he confronted him with the sacrilegious state of his soul, because of such-and-such a sin he had been ashamed to tell. The poor fellow was so thunderstruck that when Gerard had stalked out of the shop he blurted out the whole story to the priest, and, we are told, lost no time in putting his conscience right.
 
@@ -116,7 +116,7 @@ The pious were also the object of his zeal. Many priests and nuns consulted him 
 
 The ills of the body struck a responsive chord in his heart, as they did in the heart of his Divine Master. On behalf of the sick he performed many of his most striking miracles.
 
-For instance: a youth lay dying in lliceto from advanced tuberculosis. Gerard was asked to visit him. The doctor happened to be there when he arrived. An argument ensued. 'I tell you,' declared the doctor bluntly, 'there is no hope for him unless he gets a new pair of lungs.' 'And can't God give him new ones?' was the rejoinder. Gerard took leave of the boy saying, ' I'll pray for you.' There and then the patient began to get better. The doctor was the first to admit that the boy's recovery was miraculous.
+For instance: a youth lay dying in Iliceto from advanced tuberculosis. Gerard was asked to visit him. The doctor happened to be there when he arrived. An argument ensued. 'I tell you,' declared the doctor bluntly, 'there is no hope for him unless he gets a new pair of lungs.' 'And can't God give him new ones?' was the rejoinder. Gerard took leave of the boy saying, ' I'll pray for you.' There and then the patient began to get better. The doctor was the first to admit that the boy's recovery was miraculous.
 
 Like his Divine Master, Gerard had a special affection for children. He could not bear to see them suffering. His powers of healing were often employed to restore them to health. Like the little girl in Auletta. She was a helpless cripple from birth. On going to see her Gerard simply said: 'Get out of bed and come here to me.' The child obeyed and the mother watched spell-bound as she took a few unsteady steps and then ran over to the Brother.
 
@@ -142,13 +142,13 @@ It might be thought that because Gerard's life was one long chain of miracles, h
 
 miracles did not make him a saint. They were God's seal of approval on his sanctity. We can become saints like him without the miracles. We may not be able to follow his way of life as a religious nor practise his austerities; but we can imitate his virtues. These are what made him a saint and will make saints of us.
 
-Gerard did, although to an heroic degree, what all of us are commanded to do:, he loved God with his whole heart and with his whole soul and with his whole mind and with all his strength. Look at his ardent love for Jesus in the Blessed Sacrament, his tender compassion for the sufferings of Christ and his childlike love for Mary. He had his trials- bitter ones they were, more so than ours. But he was never cast down, he never lost heart. Always and everywhere he had serene trust in Divine Providence and abandoned himself entirely to God's Will. We can all do that. Yes, Gerard's life preaches most eloquently to all of us- do as I have done and you will become saints.
+Gerard did, although to an heroic degree, what all of us are commanded to do:, he loved God with his whole heart and with his whole soul and with his whole mind and with all his strength. Look at his ardent love for Jesus in the Blessed Sacrament, his tender compassion for the sufferings of Christ and his childlike love for Mary. He had his trials—bitter ones they were, more so than ours. But he was never cast down, he never lost heart. Always and everywhere he had serene trust in Divine Providence and abandoned himself entirely to God's Will. We can all do that. Yes, Gerard's life preaches most eloquently to all of us—do as I have done and you will become saints.
 
 As an intercessor in heaven St. Gerard is all-powerful. We have seen how God favoured him even from his tenderest years. Then, too, the number and extraordinary nature of the miracles he worked, show what power he wielded over the heart of God. Now that he is in heaven, he is still God's favourite and his prayers for his clients are even more efficacious. Proof of this is the countless letters of thanksgiving that pour into our monasteries the world over. How often we meet people who say to us with heartfelt gratitude: 'St. Gerard has been a good friend to me'! And knowing from experience what a powerful intercessor he is they are fired with zeal to spread devotion to him amongst others.
 
 While St. Gerard is only too ready to help everybody who prays to him and to grant every kind of request, there are some more than others in whom he has a special interest. The reason for this is to be found partly in his own life and partly in the arrangements of Divine Providence, Which entrusts certain classes of people to particular saints.
 
-Because of the difficulties he had in following his own vocation, he is specially helpful to young people to know what theirs is and to follow it; hence, he is invoked as Patron of Vocations. Because by his gift of reading consciences he was able to induce many who had concealed sins to make a good confession, he is invoked as Patron of a Good Confession. Because he was so devoted to manual labour, giving the world an example of conscientious and painstaking toil, he has been hailed as the Patron Saint of Workingmen. Above all, because of his special help to mothers and their children, he has become widely known as the Patron Saint of M others- the Mothers' Saint.
+Because of the difficulties he had in following his own vocation, he is specially helpful to young people to know what theirs is and to follow it; hence, he is invoked as Patron of Vocations. Because by his gift of reading consciences he was able to induce many who had concealed sins to make a good confession, he is invoked as Patron of a Good Confession. Because he was so devoted to manual labour, giving the world an example of conscientious and painstaking toil, he has been hailed as the Patron Saint of Workingmen. Above all, because of his special help to mothers and their children, he has become widely known as the Patron Saint of M others—the Mothers' Saint.
 
 Who, we ask, have greater need of a Patron than mothers? Theirs is a noble vocation because they cooperate with God in giving existence to human beings, who are to live forever. It is a responsible vocation fo r mothers have to train their children to be good citizens in this world and future citizens of heaven. And it is a difficult vocation because mothers have problems, disappointments and sorrows unknown to most others.
 
@@ -162,23 +162,23 @@ One way of answering the question is simply to say that God has arranged it that
 
 When he learned in after years of the sad fact of his little brother's death and of the danger that he himself was in, his heart must have ached for the anxiety and sorrow experienced by his own mother. Perhaps that is why he is so compassionate towards other children and other mothers in similar danger. During life he showed a particular affection for children, and that together with his own childlike innocence makes him a fitting patron to watch over them. During life, too, as we have recorded, he worked several miracles in favour of expectant mothers who were in danger. Those miracles multiplied enormously after his death, so that he became known in Italy as 'The Saint of a Happy Delivery.'
 
-In fact, as one of the saint's biographers wrote in 1804, there was not an expectant mother in Foggia and the sur- rounding district who did not invoke Brother Gerard for a safe and successful confinement. That he has lived up to his reputation is amply proven by the extraordinary as sistance he still renders such cases, some of which we are about to relate. It will be noted, too, that as TheMothers' Saint, his intercession is also particularly efficacious for sick children and for those whose marriage has not been blessed with a child .
+In fact, as one of the saint's biographers wrote in 1804, there was not an expectant mother in Foggia and the surrounding district who did not invoke Brother Gerard for a safe and successful confinement. That he has lived up to his reputation is amply proven by the extraordinary as sistance he still renders such cases, some of which we are about to relate. It will be noted, too, that as The Mothers' Saint, his intercession is also particularly efficacious for sick children and for those whose marriage has not been blessed with a child .
 
 The following are a few of the favours granted by The Mothers' Saint.
 
-The, first three are recorded in biographies of the Saint. They occurred overseas and evidently before he was canonised.
+The first three are recorded in biographies of the Saint. They occurred overseas and evidently before he was canonised.
 
 The Bishop of Surinam, in South America, tells of the wife of a local doctor who collapsed ten days after the birth of her baby. Three of his colleagues were called in. They pronounced the case hopeless. When the woman was already in her agony a friend touched her with a relic of Brother Gerard. At once she opened her eyes and began to feel better. The doctors who verified the cure were all non-Catholics, and all agreed that it was beyond medical possibility.
 
 In a village some miles from Liege, Belgium, an infant died without baptism. The heart-broken mother called on Brother Gerard, promising that if he restored her child to life she would call it after him. To the amazement of the doctor the baby began to breathe. He was baptised and little Gerard lived to gladden his parents.
 
-There was a doctor in Luxembourg whose four-year-old son could neither walk nor talk. The father read the life of Brother Gerard. Impressed by the wonderful cures related in the book and at the same time saddened by the sight of the little cripple beside him on the floor, he murmured a prayer: 'Brother Gerard, show your power and cure my son.' Instantly the child jumped and threw himselfinto his father's arms exclaiming, 'Papa, papa.' From that moment he was as lively and as talkative as any other little boy of his age.
+There was a doctor in Luxembourg whose four-year-old son could neither walk nor talk. The father read the life of Brother Gerard. Impressed by the wonderful cures related in the book and at the same time saddened by the sight of the little cripple beside him on the floor, he murmured a prayer: 'Brother Gerard, show your power and cure my son.' Instantly the child jumped and threw himself into his father's arms exclaiming, 'Papa, papa.' From that moment he was as lively and as talkative as any other little boy of his age.
 
 The following are extracts from letters received from people here in Australia. They are reprinted from 'The Majellan.'
 
 Dear Rev. Father,
 
-I'm sure your prayers to St. Gerard were answered. I am so proud to be able to tell you that I am the mother of a little daughter after waiting fourteen years. The doctor expected to operate, but all was over before he was ready to start. He was very surpr ised.
+I'm sure your prayers to St. Gerard were answered. I am so proud to be able to tell you that I am the mother of a little daughter after waiting fourteen years. The doctor expected to operate, but all was over before he was ready to start. He was very surprised.
 
 Yours sincerely, W.J.
 
@@ -198,13 +198,13 @@ I have great reason to thank our Patron of Mothers, St. Gerard. Some time after 
 
 me that I would never safely deliver a child.
 
-In my distress I told a Redemptorist Father, and he told me to p ray to St. Gerard. Well, after thirty-six years of
+In my distress I told a Redemptorist Father, and he told me to pray to St. Gerard. Well, after thirty-six years of
 
-married life I'm proud to tell you that I had nine healthy children and boast twelve lovely grandchildren. My eldest son is named Gerard, and one of my little grandchildren is named Josephine Majella. Your s sincerely, H.E.McD.
+married life I'm proud to tell you that I had nine healthy children and boast twelve lovely grandchildren. My eldest son is named Gerard, and one of my little grandchildren is named Josephine Majella. Yours sincerely, H.E.McD.
 
 The Majellan,
 
-My sister was pregnant and a non-Catholic doctor told her that she could not have a child as her health could not stand it. A well known Catholic doctor was called in, and after many prayers and Masses she had twins-a boy and a girl-I forgot to state that the non-Catholic doctor said that he would give myself £10,000 if she had a child. He was so sure it was not possible. The Catholic doctor said she was every bit as bad as the first doctor said, but prayer could do it. T hanks to God and St. Gerard, it did.
+My sister was pregnant and a non-Catholic doctor told her that she could not have a child as her health could not stand it. A well known Catholic doctor was called in, and after many prayers and Masses she had twins—a boy and a girl-I forgot to state that the non-Catholic doctor said that he would give myself £10,000 if she had a child. He was so sure it was not possible. The Catholic doctor said she was every bit as bad as the first doctor said, but prayer could do it. T hanks to God and St. Gerard, it did.
 
 Yours faithfully J.M.
 
@@ -238,11 +238,11 @@ Your s sincerely, a Client of St. Gerard.
 
 The League of St. Gerard was founded in Canada. It was established in Australia in 1944. Its aim is to make St. Gerard Majella known, loved and invoked as TheMothers' Saint. By membership mothe rs obtain the saint's powerful help in their responsible task of bearing and rearing children.
 
-At the same time, the League is a crusade to defend the sanctity of marriage, the dignity of motherhood and the integrity of the family. Today these christian values are being assailed by the evil practice of birth prevention, which, by specious arguments and insidious propaganda, has established itself as a cult- the cult not of a golden idol but of gilded lust.
+At the same time, the League is a crusade to defend the sanctity of marriage, the dignity of motherhood and the integrity of the family. Today these Christian values are being assailed by the evil practice of birth prevention, which, by specious arguments and insidious propaganda, has established itself as a cult—the cult not of a golden idol but of gilded lust.
 
 Even Catholics can be led astray and try to excuse themselves for practising something which in the eyes of God can never be excused for any reason at all.
 
-Against these forces of antilife, St. Gerard Majella as the Mothers' Saint, is a God-given leader. By uniting under his banner, mothers are inspired t o uphold christian ideals and to become what they were meant to be-the saviours of Society.
+Against these forces of antilife, St. Gerard Majella as the Mothers' Saint, is a God-given leader. By uniting under his banner, mothers are inspired t o uphold Christian ideals and to become what they were meant to be—the saviours of Society.
 
 At each League Centre a Mass is said every month for the intentions of members, and local Directors give them a memento in their daily Mass. Moreover, the prayers of all members are shared by any member in time of special need.
 

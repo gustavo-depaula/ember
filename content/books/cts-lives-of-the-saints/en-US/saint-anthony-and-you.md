@@ -2,13 +2,13 @@
 
 We are notoriously a practical people. The antics and marriages of royalty do interest us, but our main interest is not so much who does what but what he or she does. What can it produce? What do we get out of it? It might be true that other people are interested in the 'who of a person or thing, but basically we are pragmatic, utilitarian.
 
-This drive to see results, to count productions, carries over into our spiritual life, and we are not too wrong. After all, Christ Himself said, 'By their fruits you shall know them. The deserved popularity of St. Anthony might be, in part, clue to his effects. Americans are Anthonian, devotees of St. Anthony, because he does answer prayers. There is an aspect of the practicality of devotion to St. Anthony that we should not neglect. Neglect it we dare not, because it would he such a waste, a potential unrealized.
+This drive to see results, to count productions, carries over into our spiritual life, and we are not too wrong. After all, Christ Himself said, 'By their fruits you shall know them. The deserved popularity of St. Anthony might be, in part, due to his effects. Americans are Anthonian, devotees of St. Anthony, because he does answer prayers. There is an aspect of the practicality of devotion to St. Anthony that we should not neglect. Neglect it we dare not, because it would be such a waste, a potential unrealized.
 
 St. Anthony is a mirror. These words are in his Litany. When we approach St. Anthony to ask for something, we should get a good look at him. He is a mirror because we go up to him and his reflection on us reassures us that our prayers will be heard. For God he did much extremely well. God just doesn't refuse to answer any prayer that has the stamp, the image of the Saint of Padua. St. Anthony makes up for many of our blemishes and his heavenly handsomeness supplies for our worldly ugliness. He is called a mirror because he intercedes for us even if we are not the beauties we should be.
 
 God has gentle ways and effective means of drawing us to Himself. All creatures participate in His goodness. The saints share in His love to a greater degree, and through them, He draws us to an even greater love of Himself. In this way also, devotion to St. Anthony is eminently practical. We approach the great saint and, facing him, we begin to show forth his virtues. We become more like him; we get better. Through our devotion to St. Anthony we learn about him, and what we learn is good; but the good by the very nature of things attracts us. We are attracted to the good, and going to St. Anthony, the mirror, makes us become more attractive-more God-like.
 
-The Litany calls St. Anthony a mirror in a particular way. 'Mirror of Abstinence is the title. Abstaining is a qual- ity of a God who is infinite, unlimited, yet practices limitation in His mercy and justice. The Infinite created the finite, according to various limited participations in His unlimited perfections. St. Anthony reflects this godly quality. He practiced that restraint which is abstinence-restraint even in legitimate pleasures. The abstinence involved in keeping of poverty, chastity, and obedience and the abstinence required for the tremendous work of preaching, teaching, and writing was Anthony's abstinence.
+The Litany calls St. Anthony a mirror in a particular way. 'Mirror of Abstinence is the title. Abstaining is a quality of a God who is infinite, unlimited, yet practices limitation in His mercy and justice. The Infinite created the finite, according to various limited participations in His unlimited perfections. St. Anthony reflects this godly quality. He practiced that restraint which is abstinence-restraint even in legitimate pleasures. The abstinence involved in keeping of poverty, chastity, and obedience and the abstinence required for the tremendous work of preaching, teaching, and writing was Anthony's abstinence.
 
 If we go to the life of St. Anthony we find that he is an example of abstinence, that lends itself to imitation. Anthony is not noted for unusual or frightening penances and mortifications. He lived up to his way of life as a priest and friar. In living up to this way, he became a mirror of true and imitable abstinence.
 
@@ -20,7 +20,7 @@ The Title, 'Vessel of Purity which is given to St. Anthony in his litany gives u
 
 A container can be empty, but if it is a vessel of something, the something is positive and not just an absence. St.
 
-An thony is a vessel filled with godly purity. By his will he disposes himself, with God's ever-loving help, to receive and hold and dispense this quality of good order, proper subordination, and wholesome harmony which is Godlikeness.
+Anthony is a vessel filled with godly purity. By his will he disposes himself, with God's ever-loving help, to receive and hold and dispense this quality of good order, proper subordination, and wholesome harmony which is Godlikeness.
 
 It is strange that when we speak of purity in relation to a person we usually refer to the sex life of that individual. There is something very revealing about our identification of purity and sex. We should know that a virgin can be pure or impure, that a married man can be pure or impure. What we really mean is that an individual is pure as long as he is not blemished by a misuse of sex.
 
@@ -50,7 +50,7 @@ Only those who are living according to God's way are obedient. They are the sain
 
 Obedience to any superior is obedience to God. That is the secret, the mystery, the reality. When we observe the ten commandments it is not merely because Moses obeyed them. It is not due to the looks or personality of the lawgiver. We obey them because they came from God.
 
-When we abstain from meat on Friday it is notbecause the Pope abstains; it is because we know God's will through the Popes.
+When we abstain from meat on Friday it is not because the Pope abstains; it is because we know God's will through the Popes.
 
 When we do our job at work it is not because of the boss or foreman; it is because we are following our conscience as directed by God.
 
@@ -66,7 +66,7 @@ If we realize the nature of obedience, we can see how each of us has the duty of
 
 St. Anthony in his sermon for the second Sunday of Advent mentions five qualities that the real virtue of obedience has. Obedience is humble, devout, prompt, cheerful, and persevering.
 
-Obedience is humble because it sees that God has subjected us to someone. Obedience is devout because it is an exercise of religion, for in obeying we render homage to God. Because commands come from God there will he no delay in executing them. Joyful and cheerful is obedience, because it is good for us to be what and how God has made us. Obedience is permanent because God does not change.
+Obedience is humble because it sees that God has subjected us to someone. Obedience is devout because it is an exercise of religion, for in obeying we render homage to God. Because commands come from God there will be no delay in executing them. Joyful and cheerful is obedience, because it is good for us to be what and how God has made us. Obedience is permanent because God does not change.
 
 There is power in obedience. There is superiority in being subjected. Anthony shows us the way of obedience in his earthly life, and the effects of obedience in his heavenly life. He had tremendous power over creatures because he was completely subject to the Creator. The Paduan friar who obeyed inferior superiors soared to the heights of sanctity. From those exalted heights, he exercises his power for our benefit.
 
@@ -78,9 +78,9 @@ Not everyone can be President. That is a fact, even if it might shatter the drea
 
 In the natural, political, and social orders, this difference is a fact. Just as star differs from star and each has a different role in the universe, so it is with different human beings. Although in a particular work one might and does substitute for another, we are all different. One individual is able to do several particular works or even go from one field to another; but in the overall picture each man has a distinctive role. It is determined most certainly by man's free will, but also by his natural talents and make-up, as well as by environment, training, and circumstances.
 
-This natural order gives us a hint about the supernatural order. Grace does not destroy, but perfects nature. The Franciscan theologians teach that the natural was made for the supernatural order, because what is higher and greater is willed by God more than what is lower and less great. It is true to say that the inferior is intended, willed for the superior. Thus it was and is that all inferior creatures are to be subject to man. Add to this the truth that all of creation is an imitation of the Creator according to degrees; since God is infinitely perfect it is fitting that there he all degrees of participation in being. According to the natural and supernatural orders, this diversity is fitting. That is the way God planned it.
+This natural order gives us a hint about the supernatural order. Grace does not destroy, but perfects nature. The Franciscan theologians teach that the natural was made for the supernatural order, because what is higher and greater is willed by God more than what is lower and less great. It is true to say that the inferior is intended, willed for the superior. Thus it was and is that all inferior creatures are to be subject to man. Add to this the truth that all of creation is an imitation of the Creator according to degrees; since God is infinitely perfect it is fitting that there be all degrees of participation in being. According to the natural and supernatural orders, this diversity is fitting. That is the way God planned it.
 
-In our Litany we say: 'St. Anthony, Star of Sanctity, pray for us. We know that St. Anthony is not the only saint in heaven, not the only star in the glorious heaven of the blessed. We do know that he is a great, beautiful, powerful and attractive star that is our inspiration, consolation, help, and guide while we navigate the choppy seas of this life. Sanctity is soundness, safety, and sanity; and as we flounder about we need a steady, shining star-a star that is our ideal, our hero.
+In our Litany we say: 'St. Anthony, Star of Sanctity, pray for us. We know that St. Anthony is not the only saint in heaven, not the only star in the glorious heaven of the blessed. We do know that he is a great, beautiful, powerful and attractive star that is our inspiration, consolation, help, and guide while we navigate the choppy seas of this life. Sanctity is soundness, safety, and sanity; and as we flounder about we need a steady, shining star—a star that is our ideal, our hero.
 
 Not everyone can or should be able to be president: but everyone can, should and must be a saint. Here St. Anthony. the star of sanctity, shines through as the next invocation of the litany calls him, a 'model of perfection.
 
@@ -114,7 +114,7 @@ The Ark of the Covenant has shown us how to keep the law, the whole law. Love of
 
 St. Anthony, Ark of the Covenant, Keeper of the Law, Treasury of the Pact of our Inheritance, Sent of God, pray for us! Pray that we keep the pledge of sonship, sanctifying grace. Pray that all men, especially the Jews, be brought into the family of Christ.
 
-In these days of the accepted big lie and the habitual little lie, we need to learn from a teacher of truth. We need to be able to distinguish truth from falsehood when we hear it. We need to he able to speak the truth if we are going to speak at all.
+In these days of the accepted big lie and the habitual little lie, we need to learn from a teacher of truth. We need to be able to distinguish truth from falsehood when we hear it. We need to be able to speak the truth if we are going to speak at all.
 
 St. Anthony was a popular preacher not because he told thousands who came to hear him what was nice for them to hear, but because he told them the truth. The truth he told them even when it was very difficult to understand and more difficult to live.
 
@@ -186,7 +186,7 @@ Sometimes, and we hope for the friends of St. Anthony this is most of the time, 
 
 St. Anthony by his life and teaching and prayers is a guide along the way to real fulfillment and happiness. St. Anthony was and is the guide, conductor, the regulator of the erring. He brings us back when we are lost in a sinful state of habitual mortal sin. He retrieves us also when we have jumped from the road by a single mortal sin.
 
-Anthony, Guide of the Erring, saw the way to heaven not so much as straight and narrow, but as a wonderful glorious road because Christ the GodMan said, 'I am the Way. Difficult, yes, but delightful! Straight, yes; but safe, sound, and sane. Narrow, but comfortable with the expanding joy of being a rational, social, and great creature of the loving Creator.
+Anthony, Guide of the Erring, saw the way to heaven not so much as straight and narrow, but as a wonderful glorious road because Christ the God-Man said, 'I am the Way. Difficult, yes, but delightful! Straight, yes; but safe, sound, and sane. Narrow, but comfortable with the expanding joy of being a rational, social, and great creature of the loving Creator.
 
 There are all kinds of mistakes and errors. They all entail turning your back to Christ. But to make them more apparent each of us should ask himself, 'What do I want most in life? In going along the path of life, what signs do I follow? The advertisers of our nation are great psychologists when it comes to observing what makes people desire products. They appeal through blunt or subtle sensuality, and to worldly success. They use false signs and values.
 
@@ -194,11 +194,11 @@ St. Anthony knew that there would be such signs and values, and he warned agains
 
 What are your values, your standards? What do you want most for yourself and your children?
 
-Some time ago a Catholic youngster wrote to 'Cordette (A literary magazine for young teenagers published by the Conventual Franciscans.), 'What right have you to criticize rock singers? I bet that they have more money than you have. You are just jealous because the girls like them better than they doyou. This young person is no doubt a good Catholic, and we mean in no way to insinuate that she is sinful. She is just a young spokesman of our age who needs the guiding of St. Anthony's teaching to be properly oriented.
+Some time ago a Catholic youngster wrote to 'Cordette (A literary magazine for young teenagers published by the Conventual Franciscans.), 'What right have you to criticize rock singers? I bet that they have more money than you have. You are just jealous because the girls like them better than they do you. This young person is no doubt a good Catholic, and we mean in no way to insinuate that she is sinful. She is just a young spokesman of our age who needs the guiding of St. Anthony's teaching to be properly oriented.
 
 If we are in the state of grace we are on the right road; yet we may be pretty far off centre. If we adults are unbalancing our civilization in favour of sensuality and materialism, it will be the youngsters who will fall off first.
 
-It maybe shocking to see our youth going wild, but if we look honestly at the overtones and undertones of our adult standards we shouldn't be surprised. If we follow the wrong signs, how can we expect our youth not to?
+It may be shocking to see our youth going wild, but if we look honestly at the overtones and undertones of our adult standards we shouldn't be surprised. If we follow the wrong signs, how can we expect our youth not to?
 
 We need the adult Christianity of St. Anthony's preaching and examples. Pray to the Guide of the Erring. He will help all of us, young and old.
 
@@ -216,7 +216,7 @@ Precious gift that grace is, we need it to have not only eternal happiness but a
 
 Anthony, a great theologian and truly human as he was, understands that man could and does lose grace through mortal sin. Mortal sin is the greatest and only true tragedy that can befall man. The supreme stupidity of sin is only topped by the useless, wasteful evil of remaining in sin once a person has fallen.
 
-St. Anthony pleaded, insisted, urged, and demanded that the sacrament of penance he used frequently to revive the life of grace. Pointing out how dreadful it was to live in sin, he also noted that there is waste involved. Everyone does good things, but they are of no supernatural value if the doer is not in the state of grace. The Christian in the state of sin can bear no fruit, since he doesn't have the necessary equipment.
+St. Anthony pleaded, insisted, urged, and demanded that the sacrament of penance be used frequently to revive the life of grace. Pointing out how dreadful it was to live in sin, he also noted that there is waste involved. Everyone does good things, but they are of no supernatural value if the doer is not in the state of grace. The Christian in the state of sin can bear no fruit, since he doesn't have the necessary equipment.
 
 Grace is a free gift of God which must be cooperated with, and it is the most important thing in this life. It is to be prayed for and guarded, regained immediately, if lost. This is the truth about grace taught by St. Anthony, the preacher of grace.
 

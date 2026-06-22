@@ -10,13 +10,13 @@ St. Peregrine, the Cancer Saint, is an example of just such trust.
 
 As a youth in Forli he took an active part in the anti-papalist politics of his town. Father Philip Benizi was sent to Forli by the Pope to act as a mediator, but he was insulted and mistreated by the townspeople. A group of young troublemakers, led by Peregrine, attacked Fr. Philip and drove him from the town. Peregrine himself struck the saintly priest on his face. Fr. Benizi's only reply was to offer the other cheek.
 
-Peregrine could not forget the look in the holy priest's eyes-a look of compassion, love and pardon. Peregrine's whole life changed and took on a new meaning. He begged Fr. Philip's forgiveness, left aside his former way of life, and dedicated himself to prayer and solitude.
+Peregrine could not forget the look in the holy priest's eyes—a look of compassion, love and pardon. Peregrine's whole life changed and took on a new meaning. He begged Fr. Philip's forgiveness, left aside his former way of life, and dedicated himself to prayer and solitude.
 
-During this time he developed a trusting and childlike confidence in the Blessed Mother. On one occasion Mary spoke to him and urged him to join 'her servants-the Servites. Fr. Philip Benizi received Peregrine into the order.
+During this time he developed a trusting and childlike confidence in the Blessed Mother. On one occasion Mary spoke to him and urged him to join 'her servants—the Servites. Fr. Philip Benizi received Peregrine into the order.
 
 After Peregrine had been ordained a priest, he asked to return to Forli to work among his own people. His favourite places were the hospitals, the prisons and the homes of the poor. He spent his days and nights visiting the sick and the dying, and comforting them by his presence, his words and his actions.
 
-A life of poverty and penance eventually left its mark on the aging Fr. Peregrine. A painful and repulsive cancerous sore developed on his leg. Yet, he bore this suffering without complaint. To save his life, however, the doctors decided to amputate. Surgery was a great risk in those days. Peregrine was afraid and spent the night before the operation in prayer. Suddenly the figure on the crucifix above him began to move! Jesus came down and touched the painful sore, then disappeared. Father Peregrine thought it had been a dream-but he was cured! The doctors themselves testified that they could no longer detect any trace of the cancerous sore.
+A life of poverty and penance eventually left its mark on the aging Fr. Peregrine. A painful and repulsive cancerous sore developed on his leg. Yet, he bore this suffering without complaint. To save his life, however, the doctors decided to amputate. Surgery was a great risk in those days. Peregrine was afraid and spent the night before the operation in prayer. Suddenly the figure on the crucifix above him began to move! Jesus came down and touched the painful sore, then disappeared. Father Peregrine thought it had been a dream—but he was cured! The doctors themselves testified that they could no longer detect any trace of the cancerous sore.
 
 For this reason St. Peregrine has been designated the patron of all who suffer from any type of cancer.
 
@@ -26,7 +26,7 @@ What we suffer in this life can never be compared to the glory, as yet unreveale
 
 Novena to St. Peregrine
 
-O glorious wonder-worker, St. Peregrine, you answered the divine call with a ready spirit, forsaking all the comforts of a life of ease and all the empty honours of the world, to dedicate yourself to God in the Order of his most Holy Mother. You laboured courageously for the salvation of souls, meriting the title of 'Apostle of Emilia. In union with Jesus Cruci- fied, you patiently endured the most painful sufferings and so deserved to be healed miraculously from an incurable wound in your leg with a touch of his divine hand. Obtain for us, we pray, the grace to answer every call from God. Enkindle in our hearts a consuming zeal for the salvation of souls. Deliver us from the infirmities that so often afflict our weakened bodies. And obtain for us the grace of perfect resignation to the sufferings which our merciful God allows us to endure. So may we, imitating your virtues and tenderly loving our crucified Lord and his sorrowful Mother, merit glory everlasting in paradise. Amen.
+O glorious wonder-worker, St. Peregrine, you answered the divine call with a ready spirit, forsaking all the comforts of a life of ease and all the empty honours of the world, to dedicate yourself to God in the Order of his most Holy Mother. You laboured courageously for the salvation of souls, meriting the title of 'Apostle of Emilia. In union with Jesus Crucified, you patiently endured the most painful sufferings and so deserved to be healed miraculously from an incurable wound in your leg with a touch of his divine hand. Obtain for us, we pray, the grace to answer every call from God. Enkindle in our hearts a consuming zeal for the salvation of souls. Deliver us from the infirmities that so often afflict our weakened bodies. And obtain for us the grace of perfect resignation to the sufferings which our merciful God allows us to endure. So may we, imitating your virtues and tenderly loving our crucified Lord and his sorrowful Mother, merit glory everlasting in paradise. Amen.
 
 Our Father Hail Mary, Glory
 
@@ -34,7 +34,7 @@ Prayer to St. Peregrine
 
 O God, Who gave St. Peregrine an angel for his companion, the Mother of God for his Teacher, and Jesus for the Physician of his infirmity. Grant, we beg Thee through his merits, that on earth we may intensely love our holy angel, the Blessed Virgin, and our Saviour, and in heaven bless them forever. Grant that we may receive the favour we now ask. . . . Through Christ our Lord. Amen.
 
-Say one Our Father, Hail Mary and Glory with the invocation:St. Peregrine, pray for us
+Say one Our Father, Hail Mary and Glory with the invocation: St. Peregrine, pray for us
 
 ### Litany in Honour of St. Peregrine
 

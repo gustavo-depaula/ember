@@ -1,6 +1,6 @@
 # St. Dominic Savio
 
-On March 5, of this Holy Year, 1950, crowds of youth from almost every country in the world stormed the great Basilica of St. Peter's Rome, to witness the beatification ceremony of an Italian Salesian school boy. Seventy thousand voices echoed through thatmighty edifice as Our Holy Father was borne on the Sedia Gestatoria into St. Peter's to venerate the Relic of this youthful Confessor. Twenty thousand more outside in the Square took up the cry of triumph and flung it along the piazza of Bernini out on to the timeless Tiber, across ancient Europe and over to the new lands of the Atlantic and the Pacific. So profoundly moving was this gigantic manifestation of youthful enthusiasm and joy that the Holy Father, Pius XII was heard to exclaim:
+On March 5, of this Holy Year, 1950, crowds of youth from almost every country in the world stormed the great Basilica of St. Peter's Rome, to witness the beatification ceremony of an Italian Salesian school boy. Seventy thousand voices echoed through that mighty edifice as Our Holy Father was borne on the Sedia Gestatoria into St. Peter's to venerate the Relic of this youthful Confessor. Twenty thousand more outside in the Square took up the cry of triumph and flung it along the piazza of Bernini out on to the timeless Tiber, across ancient Europe and over to the new lands of the Atlantic and the Pacific. So profoundly moving was this gigantic manifestation of youthful enthusiasm and joy that the Holy Father, Pius XII was heard to exclaim:
 
 'Never was such a sight seen in St. Peter's before.
 
@@ -9,7 +9,7 @@ It is worth while, then, to know something of this schoolboy, who has merited su
 
 ## Early Childhood
 
-Dominic Savio was born on April 2, 1842, in a village of Piedmont, North Italy, with the lovely name of Riva di Chieri. Here, his father, Charles Savio, worked as village blacksmith, carpenter and general handyman. Charles Savio and his wife, Brigid, were highly respected among their rural kinsfolk, and although they were never much ahead of poverty, they were rich in the strong, sturdy faith of the Piedmontese peasantry. The strong, muscular blacksmith looked fondly that April day on his new-born son. Like every other father, he looked ahead and wondered what the future would bring. Certainly the present had little to offer. His home was a humble cottage; his work in the fields and at the forge provided little more than the bare necessities of life. So, from a worldly point of view, his son 's future was very insecure, and none too bright. But the parents' trust in God was as deep as their faith and as a pledge of that confidence they decided at the baptism of their child on the morrow, he would be named Dominic, that is, 'of the Lord. How t ruly he was a child 'of the Lord they could scarcely realise then, but the strong Catholic spirit of the Savio home was the first and most enduring influence in the making of this saintly boy.
+Dominic Savio was born on April 2, 1842, in a village of Piedmont, North Italy, with the lovely name of Riva di Chieri. Here, his father, Charles Savio, worked as village blacksmith, carpenter and general handyman. Charles Savio and his wife, Brigid, were highly respected among their rural kinsfolk, and although they were never much ahead of poverty, they were rich in the strong, sturdy faith of the Piedmontese peasantry. The strong, muscular blacksmith looked fondly that April day on his new-born son. Like every other father, he looked ahead and wondered what the future would bring. Certainly the present had little to offer. His home was a humble cottage; his work in the fields and at the forge provided little more than the bare necessities of life. So, from a worldly point of view, his son 's future was very insecure, and none too bright. But the parents' trust in God was as deep as their faith and as a pledge of that confidence they decided at the baptism of their child on the morrow, he would be named Dominic, that is, 'of the Lord. How truly he was a child 'of the Lord they could scarcely realise then, but the strong Catholic spirit of the Savio home was the first and most enduring influence in the making of this saintly boy.
 
 Impressionable and precocious to an unusual degree, the child responded with rare docility to the early training of his pious mother, and gifted with a wonderful memory, he had learned his prayers at the early age of four years. When five years old he could serve Mass and the sight of the small boy standing tip-toed and with arms fully outstretched to lift the Missal from the altar, was often an amusing topic of conversation among the villagers. His devotion at this early age to Our Lord in the Blessed Sacrament was most remarkable. It attracted the notice of the parish priest, who was astonished at the workings of Divine Grace in one so young. Often the child was seen in the early hours of the morning before the church door was opened, kneeling in prayer on the doorstep. Rain, hail or snow, he would be there waiting to be admitted into the home of his Eucharistic Lord.
 
@@ -89,7 +89,7 @@ At twelve years old Dominic felt called to the priesthood. His parish priest acc
 
 'Splendid idea, Father. I'll be the cloth; you be the tailor. So take me with you and start the cutting out at once. 'I'm afraid your health will not stand the study ahead.
 
-'Never fear, Father. God has given me health enough so far. He will not let me do wn now.
+'Never fear, Father. God has given me health enough so far. He will not let me down now.
 
 'What are you going to be?
 
@@ -141,17 +141,17 @@ On another occasion he overheard a man utter a horrible blasphemy. He whispered 
 
 His gentle manner mollified the man's ruffled temper, and he became more affable: 'I'm sorry, lad, I can't help you. I've never heard of such a place.
 
-'Thanks just the same, Dominic replied; 'you might help m e some other way.
+'Thanks just the same, Dominic replied; 'you might help me some other way.
 
 'Certainly, my lad, I'll do all I can.
 
 Dominic came up closer to the big man and said in an undertone: 'I'd be very glad if you refrained from blaspheming when you're in a temper.
 
-The man was dumbfounded for an instant, but the boy's f rankness and courage refreshed him.
+The man was dumbfounded for an instant, but the boy's frankness and courage refreshed him.
 
 'You're right, my son. It's a bad habit of mine. I'll do my best to get rid of it.
 
-At times Dominic had to assume the role of peacemaker among his schoolmates and try to check the universal tendency of school boys to se ttle their disputes with their fists. On one such occasion two lads had a fierce tussle in which their respective family reputation was impugned most bitterly. There was murder in the air. A fight with fists was out of the question. Family honour could only be vindicated by more murderous methods. The supporters of the rivals contended that dishonour could only be effaced by the traditional duel. But neither sword nor pistol was to hand, so all that could be done was to have recourse to man's most primitive weapon, the stone. A duel with stones was then decided on with adventurous solemnityand the whole group of boys were sworn to secrecy. Dominic, who was in the 'know, tried to reconcile the enemies but they were beyond the appeal of reason. They had sworn revenge on each other and they would see the matter through without any show of cowardice.
+At times Dominic had to assume the role of peacemaker among his schoolmates and try to check the universal tendency of school boys to settle their disputes with their fists. On one such occasion two lads had a fierce tussle in which their respective family reputation was impugned most bitterly. There was murder in the air. A fight with fists was out of the question. Family honour could only be vindicated by more murderous methods. The supporters of the rivals contended that dishonour could only be effaced by the traditional duel. But neither sword nor pistol was to hand, so all that could be done was to have recourse to man's most primitive weapon, the stone. A duel with stones was then decided on with adventurous solemnity and the whole group of boys were sworn to secrecy. Dominic, who was in the 'know, tried to reconcile the enemies but they were beyond the appeal of reason. They had sworn revenge on each other and they would see the matter through without any show of cowardice.
 
 'Very well, said Dominic, 'if you mean to go on with this fight, will you promise me one thing?
 
@@ -167,21 +167,21 @@ Savio's standing with the whole school was too great to be brushed aside without
 
 ' I'm doing nothing of the kind. All I want is your promise to do what I ask. Now let us get along.
 
-The site chosen for the fight was an open stretch of waste land on the outskirts of the city. The duelists chose five stones each and took up their stand abo ut fifteen yards apart. As they stood face to face all their enmity and personal bitterness blazed forth anew, The violence of their hatred robbed them of the sense of danger there was in their deadly fight. They poised to take aim, but like a flash Dominic rushed into the fray and stood motionless and hatless midway between the enraged combatants.
+The site chosen for the fight was an open stretch of waste land on the outskirts of the city. The duelists chose five stones each and took up their stand about fifteen yards apart. As they stood face to face all their enmity and personal bitterness blazed forth anew, The violence of their hatred robbed them of the sense of danger there was in their deadly fight. They poised to take aim, but like a flash Dominic rushed into the fray and stood motionless and hatless midway between the enraged combatants.
 
-'Now friends, this is the moment of your promise. Look steadily at this. He held aloft a small crucifix. 'Now say aloud with me. 'My Lord died on the Cross forg iving His enemies. I now will offend Him by my wilful act of vengeance'.
+'Now friends, this is the moment of your promise. Look steadily at this. He held aloft a small crucifix. 'Now say aloud with me. 'My Lord died on the Cross forgiving His enemies. I now will offend Him by my wilful act of vengeance'.
 
 With this he pocketed his crucifix and turning to the one and the other he said:
 
 'Now begin your fight, but throw the first stone at me.
 
-The boys were completely taken by surprise a nd the sight of their mutual friend standing between them and their murderous intent shook them for the moment in their evil determination.
+The boys were completely taken by surprise and the sight of their mutual friend standing between them and their murderous intent shook them for the moment in their evil determination.
 
 Then the more infuriated of the two yelled out hoarsely:
 
 'Get out of the way, Savio, we don't want to hurt you.
 
-'No, you don't want to hurt me, yet you do not scruple to offend God by this sinful outburst of hate and revenge. Can't you see just how senseless the whole thing is? It's not a clean outright fight. It's sheer sense less murder.
+'No, you don't want to hurt me, yet you do not scruple to offend God by this sinful outburst of hate and revenge. Can't you see just how senseless the whole thing is? It's not a clean outright fight. It's sheer senseless murder.
 
 This last minute appeal made so unexpectedly by their friend blunted the edge of their fury. They lost their bravado and their better sense prevailed. One of them dropped his stones and shuffled over to his schoolbooks lying on the ground. He picked them up and made off in the direction of the city. In the distance the belfries pealed out across the evening stillness and the Angelus chimed over another triumph of grace as a boy knelt in sorrow outside the confessional of a city church.
 
@@ -194,7 +194,7 @@ It happened one morning that Dominic was missing from breakfast and at the midda
 
 'Oh, is the Mass over?
 
-'See, said Don Bosco, holding out his watch, 'it's nearly two oclock.
+'See, said Don Bosco, holding out his watch, 'it's nearly two o'clock.
 
 Dominic apologized for breaking the rule and went off about his ordinary duties. On another occasion Don Bosco heard a conversation going on in the Sanctuary. He went to investigate and there saw Dominic holding a conversation with someone invisible.
 
@@ -224,11 +224,11 @@ The man had just time to make his confession and his peace with God. On his retu
 
 On another occasion Dominic knocked at a door and asked if there were anyone in the house sick with the cholera. The man at the door affirmed that there was no one suffering from that dread disease in the house.
 
-'I 'm sure there must be someone sick here, persisted Dominic.
+'I'm sure there must be someone sick here, persisted Dominic.
 
 'I'm afraid you've mistaken the house. We are all safe and well in here. Are you sure you've come to the right house?
 
-The boy went across the street and took a good look at the house. He came ba ck and knocked again.
+The boy went across the street and took a good look at the house. He came back and knocked again.
 
 'I'm sorry to annoy you, he said politely to the exasperated man, 'but there must be a sick person here. This is the house, all right.
 
@@ -240,7 +240,7 @@ They went from room to room, floor to floor and no one sick was discovered. At l
 
 On July 9, 1933, when Pius XI declared Dominic the Venerable Servant of God, the Pontiff, in his panegyric on the holiness of life of this boy, said:
 
-'He possessed the purity of the lily, as angelic purity, inspired by his tender devotion to the Most Holy Virgin, the Mother of all Purity. This virtue was always carefully guarded, first by his parents, then by Don Bosco and his Salesians. The boy himself was ever on the offensive to protect this beautiful virtue. He marshalled all the energies of his great soul against anything that might have the remotest danger for this virtue. Purity- this indispensable, this forerunner of all other gifts of God, the gift of the greatest vocations. Purity! the love of Mary, of her Divine Son, this perfume to which the heart of God so readily responds! How great is the need to lift on high the standard of this resplendent virtue among our youth of today!
+'He possessed the purity of the lily, as angelic purity, inspired by his tender devotion to the Most Holy Virgin, the Mother of all Purity. This virtue was always carefully guarded, first by his parents, then by Don Bosco and his Salesians. The boy himself was ever on the offensive to protect this beautiful virtue. He marshalled all the energies of his great soul against anything that might have the remotest danger for this virtue. Purity—this indispensable, this forerunner of all other gifts of God, the gift of the greatest vocations. Purity! the love of Mary, of her Divine Son, this perfume to which the heart of God so readily responds! How great is the need to lift on high the standard of this resplendent virtue among our youth of today!
 
 Dominic's inviolable purity was the measure of his devotion to Our Lady. It proved how strong and unshakeable this devotion really was. St. John Bosco himself attests:
 
@@ -298,7 +298,7 @@ This was the inspiration of his school life, and the playground was his mission 
 
 'Savio catches more souls with his games and tricks than many a priest with his preaching.
 
-His ever happy mood and lively happy spirits made him a great favourite at playtime and the other boys readily joined him in what ever games he organized. By preference Dominic was frequently to be found with the troublesome and the wayward, but his playmate of predilection was the careless and indifferent boy in the practice of his religion. Here he would use all the skill of an angler until he had hooked his fish. Shouldering his bat he would come with a cheery invitation to a game, and then with tireless zest, as though nothing else mattered, throw him self into the play. Hot and flushed he would call for a breathing-space and as they cooled off, he would ask the lad quite unaffectedly: 'What about coming to Confession on Saturday?
+His ever happy mood and lively happy spirits made him a great favourite at playtime and the other boys readily joined him in what ever games he organized. By preference Dominic was frequently to be found with the troublesome and the wayward, but his playmate of predilection was the careless and indifferent boy in the practice of his religion. Here he would use all the skill of an angler until he had hooked his fish. Shouldering his bat he would come with a cheery invitation to a game, and then with tireless zest, as though nothing else mattered, throw himself into the play. Hot and flushed he would call for a breathing-space and as they cooled off, he would ask the lad quite unaffectedly: 'What about coming to Confession on Saturday?
 
 Invariably the trick worked.
 
@@ -317,7 +317,7 @@ The boys, obedient to the voice of a friend, whom they loved and respected, ran 
 
 ## Dominic'S Love Of England
 
-In the early months of 1857 Dominic's failing health again gave cause for anxiety and Don Bosco thought it prudent to send the boy to the country, hoping that the change of air might help to restore his strength. Accordingly, on M arch 1 of that year Dominic was leaving Don Bosco's school for his home in Mondonio and priest and pupil stood on the threshold to say a few words of good-bye.
+In the early months of 1857 Dominic's failing health again gave cause for anxiety and Don Bosco thought it prudent to send the boy to the country, hoping that the change of air might help to restore his strength. Accordingly, on March 1 of that year Dominic was leaving Don Bosco's school for his home in Mondonio and priest and pupil stood on the threshold to say a few words of good-bye.
 
 'Why, asked Don Bosco, 'are you unwilling to leave us? You should be glad you're going home to see your parents. 'I wanted, Father, to end my days here at the Oratory.
 
@@ -359,11 +359,11 @@ his solicitude for England because God is preparing a great triumph for Catholic
 
 morning after Holy Communion and I had a great distraction. I seemed to see a vast plain covered in darkness and filled
 
-with a multitude of peo ple groping about like travellers who had lost their way. A person standing beside me said: ''This country is England.'
+with a multitude of people groping about like travellers who had lost their way. A person standing beside me said: ''This country is England.'
 
 'I was on the point of asking for a further explanation when I saw our Holy Father, Pius IX, just as I have seen him in
 
-portraits. He wa s majestically dressed and held aloft a bright torch. As he advanced the darkness dispelled and the whole
+portraits. He was majestically dressed and held aloft a bright torch. As he advanced the darkness dispelled and the whole
 
 land was bright as if ablaze with the noon-day sun. The voice again said:
 

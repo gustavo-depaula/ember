@@ -1,13 +1,13 @@
 # The Life of Saint John Berchmans, S.J.
 
-THE BEAUTIFUL title of 'The Angel Saints' has been given to that triad of exquisite flowers of dazzling purity which bloomed in the garden of the Society of Jesus: St. Aloysius, St. Stanislaus, and St. John Berchmans. These very blossoms unfolded their stainless pe tals just sufficiently to let us dimly guess at the beauty which lay concealed within their hearts to be unfolded as these radiant blossoms developed into full flower. 'Angel' was the term applied to them by those amongst whom these holy youths lived and d ied. It was the highest expression of their wonder and admiration, and conveys to us, with marvellous force and accuracy, the impression the Saints produced on those around them. If one of the angelic spirits who surround the Throne of God was permitted to come down on earth in mortal guise, it seemed to men that he would look like these whose earthly forms reflected the beauty of their souls.
+THE BEAUTIFUL title of 'The Angel Saints' has been given to that triad of exquisite flowers of dazzling purity which bloomed in the garden of the Society of Jesus: St. Aloysius, St. Stanislaus, and St. John Berchmans. These very blossoms unfolded their stainless petals just sufficiently to let us dimly guess at the beauty which lay concealed within their hearts to be unfolded as these radiant blossoms developed into full flower. 'Angel' was the term applied to them by those amongst whom these holy youths lived and died. It was the highest expression of their wonder and admiration, and conveys to us, with marvellous force and accuracy, the impression the Saints produced on those around them. If one of the angelic spirits who surround the Throne of God was permitted to come down on earth in mortal guise, it seemed to men that he would look like these whose earthly forms reflected the beauty of their souls.
 
 Eminent sanctity is ever and always attractive, but especially is it so to the children of men when to it is allied the ineffable charm and grace of early youth united to the most stainless innocence. The hardest-hearted, the most worldly, are touched by this supernatural sight and, driven as they are to seek an explanation of the phenomenon in supernatural causes, they apply the term which so fittingly describes it-'Angel.'
 
 
 ## Birth Of St. John Berchmans
 
-MIDWAY BETWEEN Antwerp and Maestricht lies Diest, an ancient town with a fine market-place, narrow, medieval streets, and strange old houses, with curious pointed gables. A sleepy old Flemish town of the Middle Ages, there is nothing within its walls to arrest the attention of the ordinary tourist. . But to the Catholic it possesses the supreme interest of being the birthplace of a Saint-one of the 'Angel Saints.'
+MIDWAY BETWEEN Antwerp and Maestricht lies Diest, an ancient town with a fine market-place, narrow, medieval streets, and strange old houses, with curious pointed gables. A sleepy old Flemish town of the Middle Ages, there is nothing within its walls to arrest the attention of the ordinary tourist. But to the Catholic it possesses the supreme interest of being the birthplace of a Saint-one of the 'Angel Saints.'
 
 Leading from the market-town is a narrow street, on the left of which a house, three stories high, attracts the traveller's attention, not indeed, because of anything remarkable in its architecture. It is unassuming in style, and the front seems of recent construction. But in the centre of this house is a niche, and within this niche stands the statue of a youth, in the habit of a religious, holding in his hands, which are clasped, a book, a rosary, and a crucifix. Underneath an inscription tells us that this is 'The house of Blessed Berchmans.' Here our Saint was born, on Saturday, the 13 th of March 1599. The room in which he first opened his eyes upon those earthly scenes is still shown, but it is in a sadly dilapidated condition.
 
@@ -18,14 +18,14 @@ TOWARDS THE CLOSE Of the sixteenth century there dwelt in this house, then known
 
 The Berchmans were among the best families in the place, but, like all the Flemings, they did not disdain trade. Hence, Charles Berchmans followed the avocation of a cordwainer, or shoemaker, at the sign of 'The Great and the Little Moon.'
 
-Berchmans' wife, Elizabeth Vanden Hove, was a member of a very rich, influential family of Diest. Although not of older or gentler descent than the Berchmans, the Vanden Hoves, by means of their wealth, had attained to a far higher position in the social w orld. We are told that no cordial relations would seem to have existed between the two families. Hence, we may infer that the wealthy Vanden Hoves resented the marriage of a poor Berchmans with a daughter of their house.
+Berchmans' wife, Elizabeth Vanden Hove, was a member of a very rich, influential family of Diest. Although not of older or gentler descent than the Berchmans, the Vanden Hoves, by means of their wealth, had attained to a far higher position in the social world. We are told that no cordial relations would seem to have existed between the two families. Hence, we may infer that the wealthy Vanden Hoves resented the marriage of a poor Berchmans with a daughter of their house.
 
-Both Charles Berchmans and his wife were regarded by the people of Diest as models of piety and virtue, Their family consisted of four sons and one daughter, and the pious couple spared no effort to train these souls committed to their care, from their earliest years, to walk in the paths o f holiness and virtue.
+Both Charles Berchmans and his wife were regarded by the people of Diest as models of piety and virtue, Their family consisted of four sons and one daughter, and the pious couple spared no effort to train these souls committed to their care, from their earliest years, to walk in the paths of holiness and virtue.
 
 
 ## St. John Berchman'S Childhood
 
-OUR SAINT, as we have seen, was born on a Saturday, and on the following day he was .taken to the parish church of St. Sulpice, and there baptised, receiving his father's second name, John. The old churc h, much defaced by the storms of troublesome times through which it has passed, still stands in the market-place, and in the yellow pages of the ancient baptismal register may still be traced the entryof the saint's baptism.
+OUR SAINT, as we have seen, was born on a Saturday, and on the following day he was taken to the parish church of St. Sulpice, and there baptised, receiving his father's second name, John. The old church, much defaced by the storms of troublesome times through which it has passed, still stands in the market-place, and in the yellow pages of the ancient baptismal register may still be traced the entry of the saint's baptism.
 
 From his earliest years John manifested the most unalterable sweetness of disposition. Long afterwards, when he had passed away to heaven, those who had known him in his early years loved to recall how visibly God had set his seal upon him even from infancy.
 
@@ -36,9 +36,9 @@ He was sent, when very young, to a day-school. It sometimes happened on his retu
 
 ## His .Mother'S Illness
 
-JOHN HAD barely reached his ninth year when his mother was stricken with the mortal malady which for eight weary years confined her to a bed of suffering. Our Saint loved his mother tenderly, and he was ever at her side, ministering t o her, cheering her, consoling her with such words of saintly wisdom as filled those who heard him with amazement. In her moments of greatest suffering the presence of her angelic little son soothed and consoled the poor mother.
+JOHN HAD barely reached his ninth year when his mother was stricken with the mortal malady which for eight weary years confined her to a bed of suffering. Our Saint loved his mother tenderly, and he was ever at her side, ministering to her, cheering her, consoling her with such words of saintly wisdom as filled those who heard him with amazement. In her moments of greatest suffering the presence of her angelic little son soothed and consoled the poor mother.
 
-John was indeed the most wining and attractive of boys. Everyone loved him, but, child as he was, he shrank from observation and shunned society. He never left his home except to go to school or to the church. His master bears witness to his retiring, modest disposition. 'Nowhere,' he tells us, 'did he see him so often as in the church; nowhere so seldom as in the streets.'
+John was indeed the most winning and attractive of boys. Everyone loved him, but, child as he was, he shrank from observation and shunned society. He never left his home except to go to school or to the church. His master bears witness to his retiring, modest disposition. 'Nowhere,' he tells us, 'did he see him so often as in the church; nowhere so seldom as in the streets.'
 
 
 ## John'S Future Glory Predicted
@@ -54,7 +54,7 @@ OUR SAINT'S vocation was never for a moment uncertain. His pure, spotless heart 
 
 At that time the parish priest of the church of Our Lady in Diest was a Premonstratensian monk named Father Peter Emmerick. This religious had gathered round him at the presbytery a number of pious youths with vocations for the priesthood, this forming, as it were, a sort of seminary.
 
-Just at this time John's father found himself m very straitened cir cumstances; but, notwithstanding, he determined to send his son to Father Peter Emmerick. Charles Berchmans' lively faith and fervent piety caused him to shrink from no sacrifice-whereby his children's welfare, above all, their spiritual welfare, might be secured. And God richly re- warded those sacrifices.
+Just at this time John's father found himself m very straitened cir cumstances; but, notwithstanding, he determined to send his son to Father Peter Emmerick. Charles Berchmans' lively faith and fervent piety caused him to shrink from no sacrifice-whereby his children's welfare, above all, their spiritual welfare, might be secured. And God richly rewarded those sacrifices.
 
 
 ## John'S New Life
@@ -160,7 +160,7 @@ ST. JOHN BERCHMANS, from the very first day of his entrance into religion, began
 
 John constantly repeated 'that perfection does not consist in doing great things, but in doing well what obedie nce orders and advises.' Again, he used to say: 'Set great store on little things'; and another of his sayings was: 'Do great penance for small faults. Be a miser and a merchant in spiritual things.' All his companions looked on him as sent by God .amongstthem to be their model of perfection. One of them, soon after John's entrance, speaking of him, said:
 
-'Just at the very time when our Lady began to work miracles= at Montaigu, she wrought a still more extraordinary wonder at Diest, by making an angel comedown in the flesh.' Such was the universal testimony of all whoever knew him-his. friends in the world, his companions in religion, even strangers who only caught a glimpse of him as a noviceall called him 'the Angel.' No other words could express the impression made upon them by his beauty and the purity which exhaled from him like the fragrance of some rare flower. He was also called St. Hilarius or St. Laetus, so bright and sunny was his disposition. Gloom and sadness were dispelled by his mere presence. One of the Fathers, after his, death, declared: 'I lived two years with him in the Novitiate: Well, I am ready to declare, on oath, I never noticed in him the smallest movement of impatience or anger.'
+'Just at the very time when our Lady began to work miracles= at Montaigu, she wrought a still more extraordinary wonder at Diest, by making an angel comedown in the flesh.' Such was the universal testimony of all whoever knew him—his. friends in the world, his companions in religion, even strangers who only caught a glimpse of him as a noviceall called him 'the Angel.' No other words could express the impression made upon them by his beauty and the purity which exhaled from him like the fragrance of some rare flower. He was also called St. Hilarius or St. Laetus, so bright and sunny was his disposition. Gloom and sadness were dispelled by his mere presence. One of the Fathers, after his, death, declared: 'I lived two years with him in the Novitiate: Well, I am ready to declare, on oath, I never noticed in him the smallest movement of impatience or anger.'
 
 
 ## His Mortification
@@ -176,7 +176,7 @@ We are told that 'there was kept in the Novitiate of Mechlin, part of a rough an
 
 ## His Humility
 
-OUR SAINT, as we have already seen, regarded humility as the foundation of all perfection. Hence, he loved and sought .everything that could foster and strengthen the growth of this virtue in his soul-the lowest and most menial offices, the poorest clothes, reproofs, corrections. He repeatedly begged that his faults might be 'known publicly. At last his request was granted, and , Father Banters tells us: 'I told all the novices, then more than one hundred, to jot down and give me in writing any defects they had noticed in Berchmans ' conduct. I got these notes, and on opening them found that not one had been able to observe the smallest defect in him.' Truly, a marvellous testimony to John's holiness of life. John's confessor encouraged the Saint in his love for humiliations and his great desire to be looked upon both by God and man, as nothing. In this way he prepared himself for the close union with God which he continually enjoyed.
+OUR SAINT, as we have already seen, regarded humility as the foundation of all perfection. Hence, he loved and sought .everything that could foster and strengthen the growth of this virtue in his soul—the lowest and most menial offices, the poorest clothes, reproofs, corrections. He repeatedly begged that his faults might be 'known publicly. At last his request was granted, and , Father Banters tells us: 'I told all the novices, then more than one hundred, to jot down and give me in writing any defects they had noticed in Berchmans ' conduct. I got these notes, and on opening them found that not one had been able to observe the smallest defect in him.' Truly, a marvellous testimony to John's holiness of life. John's confessor encouraged the Saint in his love for humiliations and his great desire to be looked upon both by God and man, as nothing. In this way he prepared himself for the close union with God which he continually enjoyed.
 
 
 ## His Love Of The Blessed Sacrament
@@ -186,7 +186,7 @@ HOW CAN we describe the love of this pure heart for Jesus in the Adorable Sacram
 
 ## His Mother'S Death
 
-TWO MONTHS after the Saint's entrance into religion, his mother's long life of suffering came to an end. She died on 1st December, 1616. After her death Charles Berchmans resolved to devote the remainder of his life wholly to God. He seems at first to have had a great desire to enter the Society of Jesus; but, doubtless, his advanced age prevented the realisation of his wish. On the 14 th April, 1618, he was ordained priest and, as a mark of his fellowcitizens' esteem, was made Canon i n the church of St. Sulpice, where the Saint was baptised.
+TWO MONTHS after the Saint's entrance into religion, his mother's long life of suffering came to an end. She died on 1st December, 1616. After her death Charles Berchmans resolved to devote the remainder of his life wholly to God. He seems at first to have had a great desire to enter the Society of Jesus; but, doubtless, his advanced age prevented the realisation of his wish. On the 14 th April, 1618, he was ordained priest and, as a mark of his fellowcitizens' esteem, was made Canon I n the church of St. Sulpice, where the Saint was baptised.
 
 Charles, the Saint's youngest and favourite brother, entered the Society of Jesus four years after John's death, and lived to a ripe old age, dying in the odour of sanctity. Adrian, the second son, also became a religious of the Augustinian Order. He, too, died a saintly death, following John into eternal life nine years later.
 
@@ -268,7 +268,7 @@ O God, who didst bestow on St. John wonderful holiness, by the perfect observanc
 
 singular innocence of life, grant by his merits and prayers that, keeping faithfully all the Commandments of Thy law, we may secure for ourselves purity of soul and body; through Jesus Christ, Our Lord. Amen.
 
-THE SODALITY OF SAINT JOHN BERCHMANS FOR ALTAR SERVERS A TOWN may have several notable buildings, some distinguished by their architecture or by the treasures which they enshrine, others by their associations with the past and the memories they arouse. In every town or village, however, there is one building which stands apart on a plane by itself. Other buildings may be architecturally finer, may have involved a greater expenditure of money in their erection, but this building stands apart as one requiring esteem-and veneration all its own. This building is the church, the House of God.
+THE SODALITY OF SAINT JOHN BERCHMANS FOR ALTAR SERVERS A TOWN may have several notable buildings, some distinguished by their architecture or by the treasures which they enshrine, others by their associations with the past and the memories they arouse. In every town or village, however, there is one building which stands apart on a plane by itself. Other buildings may be architecturally finer, may have involved a greater expenditure of money in their erection, but this building stands apart as one requiring esteem—and veneration all its own. This building is the church, the House of God.
 
 What a wonderful place for a Catholic is his church or chapel. In it is the Font where he was baptised and became a child of God. At its Altar Rails he received the 'Bread of Life for the first time and continues to receive it constantly as the Spiritual Food of his soul
 

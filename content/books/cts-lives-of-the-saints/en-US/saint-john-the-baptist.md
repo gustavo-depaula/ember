@@ -6,9 +6,9 @@ As I grew into a college student, I found him recurring in the magnificent art o
 
 She was not likely to clothe her little boy in rough camel's hair. Anyhow I soon found out that there was no b asis for the pictures and the lovely groupings. John probably never saw his divine cousin until, a grown man, he welcomed Him on the banks of the Jordan.
 
-As a Catholic I discovered that John plays an enormous part in the liturgy. The Church is constantly referring to him, writing him into the Mass-though St. Joseph was never granted a place there. And I learned that whole nations, France notably, regarded him as precisely a patron needed for a race that loved the Saviour.
+As a Catholic I discovered that John plays an enormous part in the liturgy. The Church is constantly referring to him, writing him into the Mass—though St. Joseph was never granted a place there. And I learned that whole nations, France notably, regarded him as precisely a patron needed for a race that loved the Saviour.
 
-But my real introduction to St. John the Baptist came at the hands of a man to whom I owe much besides. Father Claude J. Pernin, who as a young Jesuit teacher had guided my way into the Society of Jesus, remained a friend through the years. Chiefly he was the spark which (or should we say who?) constantly enkindled in me new interests and new enthusiasms. To drop into his room at Loyola University in Chicago was to expose oneself to some electrical contact that invariably resulted in an intellectual or a mental explosion. He had no need for the famous log which is supposed to be the third ingredient-together with professor-and pupil-needed to make a university. All he required was a willing listener, or a university class and a kind of small, personalised retreat was in progress.
+But my real introduction to St. John the Baptist came at the hands of a man to whom I owe much besides. Father Claude J. Pernin, who as a young Jesuit teacher had guided my way into the Society of Jesus, remained a friend through the years. Chiefly he was the spark which (or should we say who?) constantly enkindled in me new interests and new enthusiasms. To drop into his room at Loyola University in Chicago was to expose oneself to some electrical contact that invariably resulted in an intellectual or a mental explosion. He had no need for the famous log which is supposed to be the third ingredient-together with professor—and pupil-needed to make a university. All he required was a willing listener, or a university class and a kind of small, personalised retreat was in progress.
 
 I remember knocking on his door on this historic day, wondering, as I did, what the enthusiasm of the moment might be: a new author he had discovered, a great classic from which he had recently blown the dust, a radio programme that had sharp significance, a new scientific invention that he felt would revolutionise the world, a new friend whom he found inspiring? What?
 
@@ -28,11 +28,11 @@ He smiled in that inimitably friendly fashion and waved the sheets in my directi
 
 Whether he ever wrote the conference and delivered it, I'm not absolutely sure. Even if he did, it lingers on only in the memories of those fortunate few who listened to his undoubted eloq uence. The notes he left after his premature death would be of little help. His jottings were cryptic, a succession of lead words that meant everything to him and nothing to anyone else; and often they were not words at all but scrawled shorthand characters in the system of shorthand invented by his father and taught these days almost in no place in the world.
 
-But when I left his room, I was fired with a desire to meet and know the Precursor of the Lord. I found shortly afterward thatThe Lion of St. Mark throughout the early chapters of the second Gospel was no lion at all, but the voice of John the Baptist roaring in the desert. I came to realise with amazement that the man we think of as having been old, mature, grey-haired, and lined of face was, when he was murdered, only a few months older than the Saviour-a youngster by the standards of years, perhaps not more than thirty-three years old, or less.
+But when I left his room, I was fired with a desire to meet and know the Precursor of the Lord. I found shortly afterward that The Lion of St. Mark throughout the early chapters of the second Gospel was no lion at all, but the voice of John the Baptist roaring in the desert. I came to realise with amazement that the man we think of as having been old, mature, grey-haired, and lined of face was, when he was murdered, only a few months older than the Saviour—a youngster by the standards of years, perhaps not more than thirty-three years old, or less.
 
 Each new picture that I saw of him I came to analyse carefully in the light of my growing knowledge of him: the strong man in whom were blended the elements of a hermit and of a violent crusader; a fierce orator who could tear the silken garments off a Pharisee's back and leave his naked, wizened soul trembling in the wind, yet a man who could turn to the poor on the riverbank and give them a most consoling, simple, reassuring code of conduct; the prophet who kindled the fires in the light of which the world's Saviour could walk upon the stage; a self-effacing man who, once his speech of introduction was made, would quietly disappear from the scene; a man who cried aloud for penance that would wash away the world's foul, defiling sins, yet who found for Christ the sweetest and gentlest of metaphors: 'Behold the Lamb of God.
 
-John the Baptist would have made, I often thought, with all respect, one of the greatest of radio orators. How he could flay the guilty- naming names and calling people by their characteristic sins! No wonder that he captured the fancy of an Oscar Wilde, and has been used as the central figure of a modern opera, 'Salome. But I feel sorry for Wilde and Strauss if they met the great saint in eternity. He probably flung at them the taunts he heaped upon the sinful Herod and the rotten Herodias, who lived with Herod in incest. I cannot fancy the Baptist's bearing with patience the writers who thrust him into the centre of a lustful story whose heroine is the vicious Salome of the seven veils.
+John the Baptist would have made, I often thought, with all respect, one of the greatest of radio orators. How he could flay the guilty—naming names and calling people by their characteristic sins! No wonder that he captured the fancy of an Oscar Wilde, and has been used as the central figure of a modern opera, 'Salome. But I feel sorry for Wilde and Strauss if they met the great saint in eternity. He probably flung at them the taunts he heaped upon the sinful Herod and the rotten Herodias, who lived with Herod in incest. I cannot fancy the Baptist's bearing with patience the writers who thrust him into the centre of a lustful story whose heroine is the vicious Salome of the seven veils.
 
 Because he was a man among men and a prophet surprisingly with honour among his own people, I thought he might bear reintroduction to men and women of the present age. He despised hypocrites. He had frank and savage names for those who sinned in the flesh. His reaction to the slovenly, quasi-concubinage of much of modern marriage would, were he living today, make him socially as unpopular as he was in the court of Herod; he would not bear our lax customs with patience or in silence. His crusading spirit would gather men and women for high adventure. Certainly today he would be sending his own followers, and all who would willingly listen to hear and accept and follow the Saviour of the world.
 
@@ -86,13 +86,13 @@ Mary entered her cousin's house, pulled back the heavy curtain of Elizabeth's ro
 
 And then Mary's lovely young voice rang out for the first time in one of literature's greatest poems. 'Magnificat! she intoned, for the sole audience of Elizabeth and the unborn baby who was to walk ahead of her advancing Son as He moved toward world conquest.
 
-Events flow swiftly. John is born, with Mary to serve him as nurse. The neighbours and relatives rush in to shower the aged mother withtheir congratulations. Then the question of a name comes up. 'He shall be called John, says Elizabeth. And the relatives-with an eye to family tradition, a possible rich uncle to be pleased, and a customary name to continue-cry out in sharp protest: 'There is none of thy kindred that is called by this name. Zachary, still dumb, reaches for a tablet and writes emphatically, 'John is his name. And immediately his tongue moves and he speaks another of our great poems: 'Blessed be the Lord God of Israel; because He hath visited and wrought the redemption of His people.
+Events flow swiftly. John is born, with Mary to serve him as nurse. The neighbours and relatives rush in to shower the aged mother withtheir congratulations. Then the question of a name comes up. 'He shall be called John, says Elizabeth. And the relatives—with an eye to family tradition, a possible rich uncle to be pleased, and a customary name to continue-cry out in sharp protest: 'There is none of thy kindred that is called by this name. Zachary, still dumb, reaches for a tablet and writes emphatically, 'John is his name. And immediately his tongue moves and he speaks another of our great poems: 'Blessed be the Lord God of Israel; because He hath visited and wrought the redemption of His people.
 
 Then, taking his little son in his arms, he turns prophet: 'And thou, c hild, shalt be called the prophet of the Highest. For thou shalt go before the face of the Lord to prepare His ways; to give knowledge of salvation to His people unto the remission of their sins . . . to enlighten them that sit in darkness and in the shadow of death; to direct our feet, into the way of peace.
 
 Never on the head of so small a babe had been laid so heavy a responsibility and so high a trust. Never was another mortal man to fulfill so high an office with finer zeal and more unselfish devotion.
 
-Mary hurries back to her own home, to her affianced bridegroom, and to the swift-moving events of the Nativity. Thereupon John simply disappears from the pages of the story. Not once during all the intervening years between his birthand Christ's baptism in the Jordan does he and the man whose cause he is to trumpet came into even passing contact. The cruel plot of the first Herod hurries the Infant away into Egypt. Early in his young manhood John goes out into the desert to take up that hermit life which is his preparation for his divinely-appointed office. When Jesus returns to Nazareth, it is to settle down to the quiet, uneventful years in a carpenter's house and shop. The young John is already beating his soul into the steel weapon he was to lay about him, earning through penance and prayer the right to be the first to speak to mankind of the God Who had come to save them.
+Mary hurries back to her own home, to her affianced bridegroom, and to the swift-moving events of the Nativity. Thereupon John simply disappears from the pages of the story. Not once during all the intervening years between his birth and Christ's baptism in the Jordan does he and the man whose cause he is to trumpet came into even passing contact. The cruel plot of the first Herod hurries the Infant away into Egypt. Early in his young manhood John goes out into the desert to take up that hermit life which is his preparation for his divinely-appointed office. When Jesus returns to Nazareth, it is to settle down to the quiet, uneventful years in a carpenter's house and shop. The young John is already beating his soul into the steel weapon he was to lay about him, earning through penance and prayer the right to be the first to speak to mankind of the God Who had come to save them.
 
 So the lovely Renaissance paintings that depict the Holy Family together, the little Jesus and the little John playing in youthful companionship, are delightful poetry and very bad history. John was later to confess that he would not have known Jesus when he first saw Him on the banks of the Jordan if God had not sent a vision to point out that this was the Man for Whom he was waiting.
 
@@ -122,7 +122,7 @@ He watched their curled lips. Why, they were saying, as they shifted to avoid th
 
 He turned back to the crowd. 'For now the axe is laid to the root of the trees. Every tree, therefore, t hat doth not yield good fruit shallbe cut down and cast into the fire. He pointed with the power of his ambassadorship to the Messias they expected: 'I indeed baptise you in water unto penance, but He that shall come after me is mightier than I, whose shoes I am not worthy to bear. He shall baptise you in the Holy Ghost and fire.
 
-He whirled again on the cynical sceptics. He knew that they dreaded the possibility of the coming of the Messias. They wanted no disturbing of their power over the people, their control of lush revenues, their influence with Rome. 'Whose fan is in His hand, and He will thoroughly cleanse His floor and gather His wheat into the barn. But the chaff-his voice stung them with its flat implications-He will burn with unquenchable fire.
+He whirled again on the cynical sceptics. He knew that they dreaded the possibility of the coming of the Messias. They wanted no disturbing of their power over the people, their control of lush revenues, their influence with Rome. 'Whose fan is in His hand, and He will thoroughly cleanse His floor and gather His wheat into the barn. But the chaff—his voice stung them with its flat implications-He will burn with unquenchable fire.
 
 The leaders of the people, who in so short a time were to be leaders only of the landless, turned away in contempt. But the people themselves pressed around the speaker. 'What, then, shall we do? they begged.
 
@@ -208,7 +208,7 @@ But John was not yet through with his swift retreat into oblivion. Christ, he le
 
 Willing as John was to give way before the rising power of Christ, he had friends who lacked his sense of proportion and humility. When they found him baptising in a subsidiary stream, they boiled over with indignation.
 
-'Rabbi, they cried out, saluting him with all the respect they felt for his undoubted power and holiness, 'He that was with thee beyond theJordan, to Whom thou gavest testimony, behold He baptiseth, and all men come to Him.
+'Rabbi, they cried out, saluting him with all the respect they felt for his undoubted power and holiness, 'He that was with thee beyond the Jordan, to Whom thou gavest testimony, behold He baptiseth, and all men come to Him.
 
 You can feel the indignation in their report. Possibly they expected to see John flare up in resentment. Why the fellow they are talking about had got His start from John. If John hadn't borne testimony to Him, would people have paid any attention to Him? Now, with all the consummate nerve He was trespassing in John's own river, taking over John's own work of baptising. And, to make things worse, the very crowds that once had flocked to John were now flocking in fickle fashion to the intruder.
 
@@ -220,7 +220,7 @@ Instead John answered with sweet reasonableness.
 
 Yes, he implied; He has received my disciples, my river, my work. But heaven gave these things to Him. They are
 
-His by right. 'You yourselves do bear me witness that I said I am not Christ, but that I am sent before Him. He turned, then, to a comparison that they could easily understand. 'He that hath the bride is the bridegroom; but the friend of the bridegroom, who standeth and hearethHim, rejoiceth with joy because of the bridegroom's voice. This my joy, therefore, is fulfilled. Christ is the bridegroom; I am the friend. The people are His bride, not mine. I am happy to stand aside and let His joy overflow my soul.
+His by right. 'You yourselves do bear me witness that I said I am not Christ, but that I am sent before Him. He turned, then, to a comparison that they could easily understand. 'He that hath the bride is the bridegroom; but the friend of the bridegroom, who standeth and heareth Him, rejoiceth with joy because of the bridegroom's voice. This my joy, therefore, is fulfilled. Christ is the bridegroom; I am the friend. The people are His bride, not mine. I am happy to stand aside and let His joy overflow my soul.
 
 Then he laid down quietly and simply his whole platform, the course which he had set for himself and meant to follow to the end.
 
@@ -232,7 +232,7 @@ But his is not to be a life of quiet retirement. His stepping aside is not to br
 
 'It is not lawful for thee to have thy brother's wife, he thundered.
 
-Herod had his moments when conscience awoke from its drunken stupor and spoke compellingly. First he heard that John had denounced him in the public streets. Then, to his amazement, but to his admiration-for Herod was still man enough to revere courage-John dared, camel's-skin garb and all, to stride into the palace, beat upon the throneroom door, stalk before the king, and without so much as a glance at the women, mother and daughter, who shrank back from his righteous wrath, demand that the king give up the woman to whom he had no right.
+Herod had his moments when conscience awoke from its drunken stupor and spoke compellingly. First he heard that John had denounced him in the public streets. Then, to his amazement, but to his admiration—for Herod was still man enough to revere courage-John dared, camel's-skin garb and all, to stride into the palace, beat upon the throneroom door, stalk before the king, and without so much as a glance at the women, mother and daughter, who shrank back from his righteous wrath, demand that the king give up the woman to whom he had no right.
 
 Oddly enough, Herod listened. He even seemed to be glad to hear the prophet. Was he himself sick of his sin? Was he tired of the slavery which passion had fastened upon him, and weary of the dictation of this woman, who, through her grip on his body, reached out to grip his kingdom, too? He let John go free. He respected his honesty and admired his fearlessness.
 
@@ -260,9 +260,9 @@ Jesus' a nswer was all that John had hoped it would be. First of all, they were 
 
 All this the disciples of John saw with amazement and delight. Sweeping these proofs together into a sentence, He said, 'Go and relate to John what you have heard and seen: The blind see, the lame walk, the lepers are made clean, the deaf hear, the dead rise again, to the poor the Gospel is preached.
 
-They ran back with the message. And when John saw their faces, he knew that he had lost still more of his disciples-and he was deeply glad.
+They ran back with the message. And when John saw their faces, he knew that he had lost still more of his disciples—and he was deeply glad.
 
-Yet, in our cheaper way of thinking, isn't it strange that never once did John send disciples to say to Christ, 'If miracles are so easy for You, why don't You work one that will deliver me from captivity? Never once does he sug- gest, 'You were loud in Your praise of those who visit the captive. Couldn't You turn aside for a few minutes to visit me, who spent a lifetime working for You?
+Yet, in our cheaper way of thinking, isn't it strange that never once did John send disciples to say to Christ, 'If miracles are so easy for You, why don't You work one that will deliver me from captivity? Never once does he suggest, 'You were loud in Your praise of those who visit the captive. Couldn't You turn aside for a few minutes to visit me, who spent a lifetime working for You?
 
 Not John. He knew that the miracles of Christ were never worked for Himself or His friends; they were for the confirmation of His mission and the bulwarks of His truth. When He was concentrating on His Father's business, He had not time to turn aside even to spend a night under His mother's roof. John asked no exception in his case. He had given Christ everything, down to his last disciple. He waited until Christ's own good time for whatever return He cared to make.
 
@@ -290,13 +290,13 @@ timidity.
 
 As if they had suddenly been doused with cold water, the men sat completely cold sober. They had expected her to
 
-ask for jewels, for a span of racing Arabians, for half a dozen slaves, perhaps for a holiday in Rome or in the Alps. She was, asking-for murder.
+ask for jewels, for a span of racing Arabians, for half a dozen slaves, perhaps for a holiday in Rome or in the Alps. She was, asking—for murder.
 
 'What? demanded Herod, rising sharply as if a blow had slapped him to his feet. 'The head of-?
 
 Then one of the nobles, relapsing into uncontrollable drunkenness, snickered. Someone else, perhaps a serving maid who in the kitchen below had had forewarning of the plot, giggled. Then suddenly there rose around the table a roar of laughter. It was a great joke. The girl was smart. They all knew Herodias was brilliant, but that her daughter, a mere dancing girl, should be brilliant, too.
 
-They looked at Herod's face; flushed, worried, distraught. He was cornered, the fox; cornered, and it did them good to see it. As for themselves, they and the other courtiers would be glad enough to be rid of John's solemn preach- ing, his constant spoilsport attitude, his ringing of the tiresome changes on their vices. It would clear the atmosphere to be rid of the fanatic fool. Bully for the girl! They were all for her.
+They looked at Herod's face; flushed, worried, distraught. He was cornered, the fox; cornered, and it did them good to see it. As for themselves, they and the other courtiers would be glad enough to be rid of John's solemn preaching, his constant spoilsport attitude, his ringing of the tiresome changes on their vices. It would clear the atmosphere to be rid of the fanatic fool. Bully for the girl! They were all for her.
 
 'But Salome . . . began Herod, lapsing into what was almost a stutter.
 
@@ -380,7 +380,7 @@ by the man who had prepared His way and made straight His paths.
 
 'Amongst those that are born of women there is not a greater prophet than John the Baptist. This was simple
 
-canonisation by Christ Himself. It was the lifting of a still living man-for when Christ said this, John had not yet
+canonisation by Christ Himself. It was the lifting of a still living man—for when Christ said this, John had not yet
 
 been martyred-to a place among the Doctors. The Saviour had laid the seal of His approval on one man beyond all
 

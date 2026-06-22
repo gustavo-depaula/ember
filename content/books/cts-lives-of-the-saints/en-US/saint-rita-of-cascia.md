@@ -6,13 +6,13 @@ On the day after Rita's baptism, as she lay in her cradle, a swarm of pure white
 
 Rita's parents gave her a good home training. At an early age she felt drawn to God, and spent many hours in the parish church. She did not care for the pastimes and sports of youth, and was free from vanity and love of fine clothes. Rita's obedience to her parents was remarkable. At a tender age Rita began to perform bodily penances, particularly fasting. She gave alms to the poor, for whom she always showed most loving compassion. When only ten years old, she felt drawn to retirement and to a cloistered life, but love for her aged parents prevented her from making known her desires.
 
-With her parents' permission Rita fitted up a small oratory where she prayed and meditated. In thi s solitude her love for Jesus Crucified and her compassion for his bitter sufferings daily became more ardent. But after a year her duty of assisting her parents forced her from her loved solitude.
+With her parents' permission Rita fitted up a small oratory where she prayed and meditated. In this solitude her love for Jesus Crucified and her compassion for his bitter sufferings daily became more ardent. But after a year her duty of assisting her parents forced her from her loved solitude.
 
-The desire to join a community of Augustinian nuns at Cascia was daily grow ing in Rita's mind. But, pious though they were, her parents were deeply grieved at the thought of this separation. Tearful pleadings and the weight of their parental authority prevailed; they even induced her to marry. Hitherto Rita had been a model of virginal purity, filial love, reverence and obedience. She had now to follow another path, to become a bright example of virtue to all who lived in the married state.
+The desire to join a community of Augustinian nuns at Cascia was daily growing in Rita's mind. But, pious though they were, her parents were deeply grieved at the thought of this separation. Tearful pleadings and the weight of their parental authority prevailed; they even induced her to marry. Hitherto Rita had been a model of virginal purity, filial love, reverence and obedience. She had now to follow another path, to become a bright example of virtue to all who lived in the married state.
 
 The young man selected as Rita's husband was passionate and quick-tempered, one well suited to try the patience and virtue of a saint. Just a few days after their marriage, he began to ill-treat her. It was only her love for the Crucified One that enabled her to bear this heavy cross. Sweetness of temper was the weapon she used to combat her husband's cruelty. After many years, her virtue and long-suffering at length won her husband's heart and brought unity and love into their home.
 
-Gradually, to her great anxiety, Rita noticed that her two sons had inher ited their father's quarrelsome disposition. She spared neither vigilance, words, nor punishments to curb their self-willed dispositions. She performed penances for their welfare, and was unwearying in acts of charity towards her neighbour.
+Gradually, to her great anxiety, Rita noticed that her two sons had inherited their father's quarrelsome disposition. She spared neither vigilance, words, nor punishments to curb their self-willed dispositions. She performed penances for their welfare, and was unwearying in acts of charity towards her neighbour.
 
 After eighteen years of married life, Rita's husband was barbarously slain a short distance from their home. Grief filled Rita's heart, particularly because of the uncertainty of his readiness to meet his Judge. But soon her trust in divine providence triumphed, and she bowed in resignation to God's design. She generously pardoned the murderers of her husband and sought pardon for them from divine mercy.
 
@@ -32,7 +32,7 @@ During the last five years of her life the saint was bedridden most of the time.
 
 Another time Rita bade a woman bring her two figs from the same garden. Actually finding two ripe figs on a leafless tree, the woman plucked them with awe and pleasure and carried them to the sick nun. The religious and the people of the vicinity, on hearing of this second wonder praised God and conceived a great veneration for the dying saint.
 
-Three days before Rita's death, Our Lord, accompanied by the Blessed Virgin, ap peared to her and promised her the joys of heaven. Rita died May 22, 1457, aged seventy-six years, forty-four of which had been spent in the religious life.
+Three days before Rita's death, Our Lord, accompanied by the Blessed Virgin, appeared to her and promised her the joys of heaven. Rita died May 22, 1457, aged seventy-six years, forty-four of which had been spent in the religious life.
 
 Crowds hastened to venerate Rita's body before its burial. The noxious wound in the forehead now shone like a brilliant jewel and exhaled a heavenly fragrance. A close relative of Rita's confidently leaned over the holy body and at once recovered the use of her arms which had been paralysed for many years! Many other astounding miracles were wrought before the remains were entombed. Rita was solemnly beatified on July 16, 1628.
 
@@ -40,7 +40,7 @@ In late years devotion to St Rita has increased, and she has won for herself the
 
 The universal devotion to St Rita and the many wonders wrought through her intercession enkindled in the hearts of the thousands of devotees of the humble Augustinian nun the ardent desire to see her elevated to the honours of the altar. Great was their joy when on May 24, 1990 the Decree of Canonisation was published. Her feast is celebrated on May 22.
 
-In conclusion, we quote these memor able words from the Decree: St Rita of Cascia as maiden, wife, mother and nun was so pleasing and so beloved by Jesus Christ that he deigned to signalise her not only with the seal of his love, but especially with the seal of his Passion. St Rita merited this great privilege on account of her singular humility, her complete detachment and her admirable penance. However, the virtues which made St Rita particularly pleasing to God were her love for her neighbour and her devotion to Jesus Crucified.'
+In conclusion, we quote these memorable words from the Decree: St Rita of Cascia as maiden, wife, mother and nun was so pleasing and so beloved by Jesus Christ that he deigned to signalise her not only with the seal of his love, but especially with the seal of his Passion. St Rita merited this great privilege on account of her singular humility, her complete detachment and her admirable penance. However, the virtues which made St Rita particularly pleasing to God were her love for her neighbour and her devotion to Jesus Crucified.'
 
 One or several of the following may be used as a novena.
 

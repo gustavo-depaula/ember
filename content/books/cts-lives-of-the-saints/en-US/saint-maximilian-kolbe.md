@@ -2,21 +2,21 @@
 
 'It was tea-time, and my son had not come home. Father sat sullenly at the table. His two brothers, Francis and Joseph, ate in silence, as always when they felt a storm was brewing. They had almost finished, when the door opened and Raymond entered; dishevelled and dirty, like a little gypsy. Father raised his head and the storm broke.
 
-''Is this the time to come home? Look at him! Filthy good for nothing. A wonderful consolation you are to your mother who works a ll day to send you out dressed as you shouldbe.'
+''Is this the time to come home? Look at him! Filthy good for nothing. A wonderful consolation you are to your mother who works all day to send you out dressed as you should be.'
 
 'Raymond listened to the rest of the storm with bowed head then sneaked into the bedroom. It was taken for granted that he went without tea that night.
 
 'Next day, as I was mending his torn jacket and I saw him standing dejectedly beside me, I sighed and asked: 'My child, what are we going to do with you?'.
 
-'Raymond burst into tears and ran to his room. I caught a glimpse of him a short time later. He was kneeling in front of the little altar of the Madonna. H e came out much later lost in thought. For some days he remained like that: long periods of silence, sometimes bursting into tears. This was not normal for him, and finally I took him aside and asked him firmly: 'What has happened? Are you still sulking because of your father's outburst?'
+'Raymond burst into tears and ran to his room. I caught a glimpse of him a short time later. He was kneeling in front of the little altar of the Madonna. He came out much later lost in thought. For some days he remained like that: long periods of silence, sometimes bursting into tears. This was not normal for him, and finally I took him aside and asked him firmly: 'What has happened? Are you still sulking because of your father's outburst?'
 
 'He shook his head.
 
 ''What then? What has happened? Why such a long face all the time?'.
 
-'Raymond hesitated as he answered me: 'Mummy, when you said, 'What are we going to do with you? I went to Our Lady and I said nearly the same words to her : 'What's going to happen to me? And the Madonna opened her hands and showed me two garlands: one of white flowers, and one of red flowers. She smiled at me and asked me which one I wanted. I don't know how, but I understood that the white garland meant purity, and the red one the sacrifice of my life. I did not know which one to take, and then I asked her for both. The Madonna smiled at me again, then I saw her again just as she is seen in the picture. This is all true, mummy, I have not made up one singl e word.'
+'Raymond hesitated as he answered me: 'Mummy, when you said, 'What are we going to do with you? I went to Our Lady and I said nearly the same words to her : 'What's going to happen to me? And the Madonna opened her hands and showed me two garlands: one of white flowers, and one of red flowers. She smiled at me and asked me which one I wanted. I don't know how, but I understood that the white garland meant purity, and the red one the sacrifice of my life. I did not know which one to take, and then I asked her for both. The Madonna smiled at me again, then I saw her again just as she is seen in the picture. This is all true, mummy, I have not made up one single word.'
 
-'After he had told me, all this, Raymond became happy and calm, as if he had got something off his chest. I have never told these words of my son to anyone, not even to his father. But now that I know how he died, I believe that I should tell you, his friends and confreres.
+'After he had told me all this, Raymond became happy and calm, as if he had got something off his chest. I have never told these words of my son to anyone, not even to his father. But now that I know how he died, I believe that I should tell you, his friends and confreres.
 
 The mother of Father Maximilian Kolbe wrote this letter when she heard that her son had been martyred by the Nazi tyrants in the concentration camp at Auschwitz.
 
@@ -46,17 +46,17 @@ The pharmacist got down from his stepladder and looked Raymond straight in the e
 
 'I am going to help my father.
 
-Mr. Kotowski shook his head. 'Listen, Raymond, tell your mother to let you come to me every morning. I still ha ve the books my son used when he studied. If you are willing to apply yourself, I'll teach you enough Latin and Mathematics so that next year you'll be able to join your brother in Second Year.
+Mr. Kotowski shook his head. 'Listen, Raymond, tell your mother to let you come to me every morning. I still have the books my son used when he studied. If you are willing to apply yourself, I'll teach you enough Latin and Mathematics so that next year you'll be able to join your brother in Second Year.
 
-'That day, Mrs. Kolbe said later, 'Raymond rushed straight h ome. Both father and mother agreed, and every morning the boy went to school in the back room of the pharmacy. Mr. Kotowski was indeed the hand of Providence, and the following year Francis and Raymond were both enrolled in Second Year at High School.
+'That day, Mrs. Kolbe said later, 'Raymond rushed straight home. Both father and mother agreed, and every morning the boy went to school in the back room of the pharmacy. Mr. Kotowski was indeed the hand of Providence, and the following year Francis and Raymond were both enrolled in Second Year at High School.
 
-Easter 1907. Father Pellegrino Haczela, a Franciscan, came to preach at Pabrianice. He saw so many boys with intelligent eyes who were destined to be farmers. He put forward an idea to their fathers and mothers; the Franciscans have opened a College at Leopoli. They don't intend to make friars of them all but to open their schools to the poor boys of the area. And if any of the students, drawn by the example of their teachers, wanted to don the habit of St. Francis, they would be delighted.
+Easter 1907. Father Pellegrino Haczela, a Franciscan, came to preach at Pabianice. He saw so many boys with intelligent eyes who were destined to be farmers. He put forward an idea to their fathers and mothers; the Franciscans have opened a College at Leopoli. They don't intend to make friars of them all but to open their schools to the poor boys of the area. And if any of the students, drawn by the example of their teachers, wanted to don the habit of St. Francis, they would be delighted.
 
 In October, Giulio Kolbe accompanied fifteen-year-old Francis and thirteen-year-old Raymond to Leopoli. They made the trip in a farm cart and, since Leopoli was in the part of Poland then ruled by Austria, they had to get a visa and have their documents stamped in order to cross the border. It was the first time that the two boys had been away from their family. Life was beginning to demand sacrifices of them.
 
 There followed four years of hard study and their younger brother, Joseph, later joined them at College. Raymond liked school. He was very good at science so much so that his mathematics teacher, a layman by the name of Gruchala, said to him one day: 'What a pity that you want to join the Franciscans; you are such a gifted boy . . .. Evidently he had his ideas of what a Franciscan is; Raymond's ideas were quite different.
 
-In October 1911, Raymond and Francis, with the permission of their parents, applied to enter the Franciscan Order. Raymond was 17 years of age. He put on the coarse habit and tied the white cincture around his waist'the same way that Francis of Assisi usedto dress from the day that he decided to marry 'Lady Poverty.
+In October 1911, Raymond and Francis, with the permission of their parents, applied to enter the Franciscan Order. Raymond was 17 years of age. He put on the coarse habit and tied the white cincture around his waist'the same way that Francis of Assisi used to dress from the day that he decided to marry 'Lady Poverty.
 
 On the evening of September 4, Raymond took Maximilian as his religious name; he would henceforth be known by this name to the day he died.
 
@@ -90,7 +90,7 @@ The tuberculosis meanwhile was making headway. Spitting of blood became more fre
 
 They fixed him up as best they could but in June he had to return and remain in hospital for the next year and a half. This going and coming back from hospital, like the swing of a pendulum, was a kind of Via Crucis which Father Kolbe had to undergo for the remainder of his life. When he was all set to do something they insisted that he take it easy. But even during his long periods of inactivity, the 'Army grew and it involved an ever increasing number of young people and adults.
 
-Father Kolbe spent much time in thought, during the periods of silence the doctors imposed on him. He thought of what he was doing, of what he could not do, of the results which come even when one has to be idle. And one day he wrote down a mysterious formula on a sheet of paper: 'w=W. It was his great catch-cry which, in the years to come, he was to write so many times on the blackboards of classrooms, before explaining it to the young students. He would say: 'w is what we want. W is the will of God. We can worry ourselves to death working, and tire ourselves out every day. But the result will always be very small, and tire ourselves out every day. But the result will always be very small, almost nothing, if God does not bless what we are doing. If on the other hand God helps us, he will add strength to our efforts and then our small amount of work will achieve great, unexpected and sensational results. Our greatest need, however, should be not to do a lot of things and to wear ourselves out with work, but to think, to sear ch, to discover what it is that God wants us to do. Then it will suffice for us to work as hard as we can, be it little or great, and the results will come and they will be sensational. This is the secret of success; to make our little 'w' and God's great 'W' coincide. And he illustrated what he meant with this example: 'Our capital (our labour) is only a small amount of money. We can do all the trading we like, but it will be very difficult for us to earn much with so little capital. But if we invest it i n the bank of God, if we write our little capital to his immeasurable capital then the amount of profit we can make will be astronomical.
+Father Kolbe spent much time in thought, during the periods of silence the doctors imposed on him. He thought of what he was doing, of what he could not do, of the results which come even when one has to be idle. And one day he wrote down a mysterious formula on a sheet of paper: 'w=W. It was his great catch-cry which, in the years to come, he was to write so many times on the blackboards of classrooms, before explaining it to the young students. He would say: 'w is what we want. W is the will of God. We can worry ourselves to death working, and tire ourselves out every day. But the result will always be very small, and tire ourselves out every day. But the result will always be very small, almost nothing, if God does not bless what we are doing. If on the other hand God helps us, he will add strength to our efforts and then our small amount of work will achieve great, unexpected and sensational results. Our greatest need, however, should be not to do a lot of things and to wear ourselves out with work, but to think, to search, to discover what it is that God wants us to do. Then it will suffice for us to work as hard as we can, be it little or great, and the results will come and they will be sensational. This is the secret of success; to make our little 'w' and God's great 'W' coincide. And he illustrated what he meant with this example: 'Our capital (our labour) is only a small amount of money. We can do all the trading we like, but it will be very difficult for us to earn much with so little capital. But if we invest it in the bank of God, if we write our little capital to his immeasurable capital then the amount of profit we can make will be astronomical.
 
 Father Kolbe spent a year and a half in the sanatorium at Zakopane, occupied during the long silent hours in prayer. But whenever he could he did not allow his small amount of capital to remain idle. He held talks, group meetings, conferences and discussions with the sick inmates. The authorities at the sanatorium had prohibited every kind of 'religious assistance, and they would not allow a chaplain for the sick. 'But Father Kolbe's position was different: he was a sick inmate, and as such no one could prevent him from speaking.
 
@@ -98,7 +98,7 @@ He even succeeded in invading the section for university students who had been s
 
 January 1922. The first number of a review entitled 'The Knight of Mary Immaculate appeared. The idea for this magazine had come to him during his moments of solitude in the sanatorium of Zakopane. He achieved his aim a month after he returned to Cracow.
 
-He was its founder, its editor, its director, its despatch clerk. His superiors did not contribute a cent towards the cost of the magazine; on the contrary they told him quite clearly that, if he could not pay all costs for the first issue, then they would not give him permission to print a second number. And so Father Kolbe, hat in hand, went around the city begging for help. He knocked at countless doors, and came home with about half of what he needed in his pocket. Then he went and knelt in front of OurLady's altar and, with the same confidence he had had as a ten-year-old, he asked for her help.
+He was its founder, its editor, its director, its despatch clerk. His superiors did not contribute a cent towards the cost of the magazine; on the contrary they told him quite clearly that, if he could not pay all costs for the first issue, then they would not give him permission to print a second number. And so Father Kolbe, hat in hand, went around the city begging for help. He knocked at countless doors, and came home with about half of what he needed in his pocket. Then he went and knelt in front of Our Lady's altar and, with the same confidence he had had as a ten-year-old, he asked for her help.
 
 When he rose from his knees (and only then) he noticed an envelope lying on the altar cloth. Inside there was an anonymous note, 'For a good work, and also the money to cover the debt with the printer and to pay for the second issue of 'The Knight.
 
@@ -114,9 +114,9 @@ He was to be away for fifteen months and his younger brother Joseph was sent to 
 
 His health improved in the spring of 1927 and Father Maximilian was able to go back to Grodno. He took back with him a new idea which had matured in silence and prayer: Grodno was no longer large enough, it was necessary to work on a bigger scale, to build a large printing press, to flood Poland with magazines, books and newspapers which would bring the message of Christ to every family.
 
-There were five hectares of swampy land 42 kilometresfrom Warsaw. Father Kolbe took possession of them 'in the name of Mary in the summer of 1927. Franciscan priests and brothers worked with him as labourers, brick layers, carpenters, plumbers. By November the first building was ready'the Chapel where Jesus in the Eucharist would come to sustain them in their work by His very presence.
+There were five hectares of swampy land 42 kilometres from Warsaw. Father Kolbe took possession of them 'in the name of Mary in the summer of 1927. Franciscan priests and brothers worked with him as labourers, brick layers, carpenters, plumbers. By November the first building was ready—the Chapel where Jesus in the Eucharist would come to sustain them in their work by His very presence.
 
-When the first snow of winter began to fall, the framework of the first buildings had already been erected. The friarworkers all slept in the temporary huts, which gave little protection from the winter cold. They took it in turns to fill the basins at the foot of each palliasse: by the morning the water had often turned to ice. They economised where they could, and watched every little expense, because building materials were very dear and soon they would have to buy costly machinery and large quantities of paper. Even their sandals were shared in common; as he went to work, each one put on the first pair he found. And when Father Kolbe had to go to Warsaw, he had to go from one friar to another to borrow a pair that was good enough.
+When the first snow of winter began to fall, the framework of the first buildings had already been erected. The friar-workers all slept in the temporary huts, which gave little protection from the winter cold. They took it in turns to fill the basins at the foot of each palliasse: by the morning the water had often turned to ice. They economised where they could, and watched every little expense, because building materials were very dear and soon they would have to buy costly machinery and large quantities of paper. Even their sandals were shared in common; as he went to work, each one put on the first pair he found. And when Father Kolbe had to go to Warsaw, he had to go from one friar to another to borrow a pair that was good enough.
 
 In the space of two years, the city-monastery, called Niepokalanow, that is, City of the Immaculate, became the foremost publishing centre in Poland with the latest machines and great production potential.
 
@@ -138,7 +138,7 @@ There was only one place where any privilege was given: in the little infirmary 
 
 Whilst the presses thundered on, the Blessed Eucharist was continuously exposed in the Chapel. The workers had no scruples about taking a break so as to kneel down and offer Him a prayer and their work. 'I demand that you be holy, Father Kolbe firmly told his helpers, 'Holiness is not a luxury, but a simple right. And it is not difficult.
 
-The results were almost unbelievable. 'The Knight reached a normal circulation of 750,000 copies; for extra-ordinary editions it touched the million mark. Then a small daily newspaper-the MALY DZIENNIK-saw the light of day; its circulation was 250,000. They also published seven specialised reviews, something really tremendous for the Poland of that time.
+The results were almost unbelievable. 'The Knight reached a normal circulation of 750,000 copies; for extra-ordinary editions it touched the million mark. Then a small daily newspaper—the MALY DZIENNIK—saw the light of day; its circulation was 250,000. They also published seven specialised reviews, something really tremendous for the Poland of that time.
 
 One day a gentleman approached Father Kolbe and asked whether he could be shown over the establishment. After he had carefully studied every corner and every activity he turned to Father Kolbe and said: 'I am a communist. I must confess that here, for the first time in my life, I have seen my ideas realised.
 
@@ -148,9 +148,9 @@ His Superiors thought the matter over. It seemed to be a project which was more 
 
 May 1930. Father Kolbe has left Niepokalanow in good hands and has arrived in Japan. Mary's statue and the Bishop, Mons. Hayasaka, welcomed him on the steps of the Cathedral in Nagasaki.
 
-Before leaving for the Far East, he visited Rome and Assisi. He knelt beside the graves of two of his former fellow students with whom he had founded the 'Army. God had called them first. Then he visited Lourdes to meet Our Lady where she had appeared to a very poor girl of the Pyrenees. He went to Turin and stopped to pray in the very places hallowed by Don Bosco, a giant of charity, who had begun a world-wide work on behalf of youth and who had worn himself out in ceaseless activity. He also went to Lisieux, too-the Silent Convent where a young girl, Therese on fire with the love of God, had been a missionary; she helped her brothers not with words and actions but by living out every day the three difficult words in her programme: love, suffer, smile. These were all people who had advanced the Kingdom of God in different ways and in different circumstances.
+Before leaving for the Far East, he visited Rome and Assisi. He knelt beside the graves of two of his former fellow students with whom he had founded the 'Army. God had called them first. Then he visited Lourdes to meet Our Lady where she had appeared to a very poor girl of the Pyrenees. He went to Turin and stopped to pray in the very places hallowed by Don Bosco, a giant of charity, who had begun a world-wide work on behalf of youth and who had worn himself out in ceaseless activity. He also went to Lisieux, too—the Silent Convent where a young girl, Therese on fire with the love of God, had been a missionary; she helped her brothers not with words and actions but by living out every day the three difficult words in her programme: love, suffer, smile. These were all people who had advanced the Kingdom of God in different ways and in different circumstances.
 
-When he landed in Japan, Father Kolbe had in his pocket a letter from the Superior General of his Order. It contained both a permission and a prohibition-these were to be the parameters of his work. He had permission to begin a new Citadel wherever he thought fit, possibly wherever there was a nucleus of Christians. He was prohibited from seeking money within the Order. He had to do the best he could with money collected on the spot. Father Kolbe did do his best. That very month of May a rich Catholic gave him a small modern press for printing in Japanese characters. Father Maximilian wrote his articles in Latin, a cleric and a seminary professor translated them into Japanese. On May 25 the first number of 'The Knight appeared; its Japanese name was 'Mugenzia No Seibo No Kiski. 10,000 copies were printed.
+When he landed in Japan, Father Kolbe had in his pocket a letter from the Superior General of his Order. It contained both a permission and a prohibition—these were to be the parameters of his work. He had permission to begin a new Citadel wherever he thought fit, possibly wherever there was a nucleus of Christians. He was prohibited from seeking money within the Order. He had to do the best he could with money collected on the spot. Father Kolbe did do his best. That very month of May a rich Catholic gave him a small modern press for printing in Japanese characters. Father Maximilian wrote his articles in Latin, a cleric and a seminary professor translated them into Japanese. On May 25 the first number of 'The Knight appeared; its Japanese name was 'Mugenzia No Seibo No Kiski. 10,000 copies were printed.
 
 With the approval of Mgr. Haysaka, Father Kolbe climbed the hills overlooking the city in search of 5 hectares of vacant land. He found them, he bought them and he began building a new Citadel. A year later the essential buildings of the Citadel had been completed. It was inaugurated during the feast of the cherry blossoms; those amazing Japanese cherries which flower splendidly for only one week and produce rare small fruit.
 
@@ -168,7 +168,7 @@ A high fever and spitting of blood once more. The old sickness had returned. The
 
 The doctors at Zakopane shook their heads when they saw him. They told him quite emphatically that he had only three months to live. Father Maximilian went to stay with his mother and in the calm atmosphere of her house he slowly recovered. Three months passed, thirty months. His health returned. 'The doctors know everything, smiled Father Kolbe, 'but someone up there knows much more.
 
-He recommenced work at Niepokalanow. His native air did him good. They reappointed him director of the Citadel, and he succeeded in raising the circulation of 'The Knight to a million copies. Then he had another grand idea'an apostolate by correspondence. He invited anyone with problems, difficulties or doubts to write to him. Soon he was getting 2,000 letters a day. In the first year there were more than half a million. They all received an answer.
+He recommenced work at Niepokalanow. His native air did him good. They reappointed him director of the Citadel, and he succeeded in raising the circulation of 'The Knight to a million copies. Then he had another grand idea—an apostolate by correspondence. He invited anyone with problems, difficulties or doubts to write to him. Soon he was getting 2,000 letters a day. In the first year there were more than half a million. They all received an answer.
 
 Meanwhile the Brown Shirts had been on the march for many years in Germany. The sad period of Nazism had begun. A frenzied man spoke into the microphones at German Radio stations: his name was Adolf Hitler. He looked at Poland with the practised eye of a violent thief and proclaimed to the world that this territory was vitally needed for the expansion which destiny had decreed for the 'privileged race, the German race.
 
@@ -190,17 +190,17 @@ In the meantime a Red Cross Hospital had been set up in the buildings of the Cit
 
 Some of Father Kolbe's helpers, believing that the worst had passed, returned a few at a time to the Citadel to resume their work.
 
-The Nazi invaders looked upon Niepokalanow with a certain amount of .sympathy. They hoped that this rather enterprising 'Father would collaborate with them. During the twelve months of relative calm, Father Maximilian restored some of the machines to working order and asked permission to resume printing 'The Knight. They granted him approval for one issue 'on trial. Furthermore they offered him the privilege of becoming a German citizen (Kolbe is a German name, and indicates perhaps that his family was originally of German origin). Father Maximilian accepted the permission to go ahead with the printing, but courteously declined the 'privilege.
+The Nazi invaders looked upon Niepokalanow with a certain amount of sympathy. They hoped that this rather enterprising 'Father would collaborate with them. During the twelve months of relative calm, Father Maximilian restored some of the machines to working order and asked permission to resume printing 'The Knight. They granted him approval for one issue 'on trial. Furthermore they offered him the privilege of becoming a German citizen (Kolbe is a German name, and indicates perhaps that his family was originally of German origin). Father Maximilian accepted the permission to go ahead with the printing, but courteously declined the 'privilege.
 
 The issue 'on trial was a great disappointment to the invaders; it contained nothing which pleased them. Permission to print a second issue never came.
 
-1941. The lull ceased suddenly. Hitler was about to begin OPERATION BARBAROSSA, the invasion of Russia. For this great military operation, his armies needed to dispose completely of Poland and all its resources. 'The Polish race, Hitler stated cynically,is one of slaves, destined by history to serve the great German race.
+1941. The lull ceased suddenly. Hitler was about to begin OPERATION BARBAROSSA, the invasion of Russia. For this great military operation, his armies needed to dispose completely of Poland and all its resources. 'The Polish race, Hitler stated cynically, is one of slaves, destined by history to serve the great German race.
 
 The first move, in the reduction of Poland to slavery, was the elimination of the intellectual class, of all leaders and influential people who could persuade the people to offer resistance.
 
 February 17, 1941. There was a cover of snow on the streets and on the dilapidated buildings at Niepokalanow, when two black automobiles braked sharply at the front door of the Citadel. Ivo Achtelick, the Franciscan brother in the porter's office, knew the number plates quite well: it was the Gestapo, the notorious State Police Force to which Hitler had entrusted the elimination of enemies of the Reich. He snatched the telephone and called Father Maximilian: 'It's the Gestapo. They're looking for you. 'I noted a quiver in his voice, Ivo Achtelick said later, 'as he replied: 'What did you say?' But he controlled himself straight away and said as calmly as ever: 'I'll be down immediately, brother'.
 
-Some minutes later, wearing his poor Franciscan habit, Father Kolbe got into one of the two automobiles. Five other Franciscans we re taken away with him.
+Some minutes later, wearing his poor Franciscan habit, Father Kolbe got into one of the two automobiles. Five other Franciscans were taken away with him.
 
 From February to May Father Maximilian was locked up in the prison at Pawiak, in cell 103. Pawiak was a clearing centre; from here prisoners were transferred to the various forced labour camps.
 
@@ -212,7 +212,7 @@ In cell 103, Father Kolbe had the company of a Jew and another Polish citizen. T
 
 The officer gave him a violent back-hander. Three times he repeated the question, and receiving the same answer, three times he struck the priest. Then, in typical Nazi fashion, he assaulted the priest with punches and kicks, until Father Maximilian fell to the floor. Only then did the officer go away.
 
-The Jew and the Pole helped the priest who was bleeding profusely and whose face was swollen. He made a gesture that it was nothing and forced a smile. A guard who had witnessed the brutality and who feared other inspections, hurried to get some prison garb and asked him to take off the habit. Father Kolbe hesitated. He did not want to discard the religious dress he had worn for so many years. He then decided that it was better to do so and. put on the striped jacket. He was never again to wear the habit of St. Francis.
+The Jew and the Pole helped the priest who was bleeding profusely and whose face was swollen. He made a gesture that it was nothing and forced a smile. A guard who had witnessed the brutality and who feared other inspections, hurried to get some prison garb and asked him to take off the habit. Father Kolbe hesitated. He did not want to discard the religious dress he had worn for so many years. He then decided that it was better to do so and put on the striped jacket. He was never again to wear the habit of St. Francis.
 
 The cell was very damp. Father Maximilian had delicate lungs and soon began to cough and to shiver with fever. They took him to the infirmary in the gaol. The infirmarians treated him with every care. When he recovered they arranged for him to be kept in the sick bay, where he was relatively well looked after. But one day the order came for Father Kolbe to be taken back to his cell in preparation for his departure.
 
@@ -222,9 +222,9 @@ The murderous journey took 24 hours; a searing thirst tortured the 320 Poles loc
 
 About ten S.S. men quickly appeared. They directed the group into two parties with a minimum of gestures and words. 'They decided whether each of us could do some useful work for the Reich or not, wrote one who lived to tell the tale. 'then suddenly our wives, our parents, our children were moved off. We saw them for a short time in the dim light at the other end of the platform; we did not see them again.
 
-Those judged 'fit to work had to run the two kilometres separating them from the camp at Auschwitz; the terrified Poles knew the place by the name of Oswiecim. As they ran, fierce dogs, sooled on by the S.S. , bit at their heels.
+Those judged 'fit to work had to run the two kilometres separating them from the camp at Auschwitz; the terrified Poles knew the place by the name of Oswiecim. As they ran, fierce dogs, sooled on by the S.S., bit at their heels.
 
-It should be noted that to staff their extermination camps (amongst which Auschwitz, Dachau, Belsen and Mauthausen were unfortunately wellknown') the Nazi hierarchy did not choose normal soldiers, but criminals released from prison, m en who had been condemned as abnormal sadists and felons. From May 28, 1941, these men were the 'Superiors of Father Kolbe and his unfortunate companions.
+It should be noted that to staff their extermination camps (amongst which Auschwitz, Dachau, Belsen and Mauthausen were unfortunately wellknown') the Nazi hierarchy did not choose normal soldiers, but criminals released from prison, men who had been condemned as abnormal sadists and felons. From May 28, 1941, these men were the 'Superiors of Father Kolbe and his unfortunate companions.
 
 On the main gate of the camp was a brightly illuminated inscription: 'ARBEIT MACHT FREI-Work makes one free.
 
@@ -236,7 +236,7 @@ Everything was taken away from these men: clothes, shoes, hair. They even took a
 
 Kolbe would be known as 16,670. For the remainder of his life he was to have this number tattooed on his left arm. At Auschwitz it was work, work with a devilish monotonous rhythm. Very early in the morning before dawn there was
 
-the call 'Wstawac-('Get up). Pandemonium followed. They had five minutes to get up, dress, and attend to their toilet
+the call 'Wstawac—('Get up). Pandemonium followed. They had five minutes to get up, dress, and attend to their toilet
 
 because then grey pieces of 'brot (bread) were distributed. Anyone who arrived late missed out and suffered the pangs of
 
@@ -248,7 +248,7 @@ those long columns of men dressed in prison stripes returning at the double in s
 
 up of other men in prison garb played brisk marches in the large square of the camp.
 
-Down below, beyond the barracks, the tall chimney of the crematorium ovens was always smoking. Any one who
+Down below, beyond the barracks, the tall chimney of the crematorium ovens was always smoking. Anyone who
 
 succumbed to fatigue, who did not fight for his rations, who was slow in running and fell by the wayside knew that he
 
@@ -266,7 +266,7 @@ a gaoler armed with a stick to beat them; they had to run past to avoid being hi
 
 When the boundary wall had been completed, Krott, the blunt, cruel Nazi commander of Block 17 gave the prisoners another job. They had to pull down trees, tear off the branches, bundle them together and transport them, all by hand. Father Kolbe, often bleeding as a result of the blows of the guards, staggered along the uneven path under the weight of an increasingly heavy load. But, despite all this, there was peace in the depth of his soul. He knew that his Citadel had been destroyed, he knew that his Army had been scattered by the tremendous whirlwind of war, that all his work had been burnt in the bombing. But he knew that God is stronger than evil, that after the darkness the light would shine again. He clung strongly to this certainty even although it seemed a forlorn hope. It did not matter if he would no longer be there. The Kingdom of God would reign on earth, in justice and peace. Others would walk before the face of the Lord, to prepare His way; others chosen by Him.
 
-One day when the tree trunk loaded on to his shoulders was far too heavy, Father Kolbe fell to the ground, like Christ under the weight of the Cross. And Nazi Krott, imitating the cruelty of the Roman guar ds to perfection, punched and kicked him. 'I'll teach you to work, you priest of the devil! He did not crucify him, but stretched him across the trunk and gave him fifty strokes of the lash. When Christ was scourged He received only 35 strokes from his ga olers, the maximum permitted by the law.
+One day when the tree trunk loaded on to his shoulders was far too heavy, Father Kolbe fell to the ground, like Christ under the weight of the Cross. And Nazi Krott, imitating the cruelty of the Roman guards to perfection, punched and kicked him. 'I'll teach you to work, you priest of the devil! He did not crucify him, but stretched him across the trunk and gave him fifty strokes of the lash. When Christ was scourged He received only 35 strokes from his gaolers, the maximum permitted by the law.
 
 The other priests passing by saw him lying motionless in a pool of blood and covered him with green branches. They thought he was dead.
 
@@ -290,9 +290,9 @@ They remained at attention, immovable, despite their tiredness after a hard day 
 
 When they were called next morning, the escapee had still not returned. All, without exception, were required to stand at attention from dawn until three in the afternoon under a burning July sun. Some fainted. They were taken away.
 
-Rations were brought out at three oclock. They were allowed half an hour to eat their meal. Then it was standing at attention again until evening.
+Rations were brought out at three o'clock. They were allowed half an hour to eat their meal. Then it was standing at attention again until evening.
 
-It was about seven oclock when Fritsch, the camp commandant, arrived with his usual train of hangers-on. He began to shout in German and his words were heard in deadly silence. 'The escapee, he ended angrily, 'has not been found. Ten of you will pay for it with your lives.
+It was about seven o'clock when Fritsch, the camp commandant, arrived with his usual train of hangers-on. He began to shout in German and his words were heard in deadly silence. 'The escapee, he ended angrily, 'has not been found. Ten of you will pay for it with your lives.
 
 He walked down the line of prisoners. He lifted his arm and pointed with his finger: 'This one. That one. An assistant followed him with a list of the prisoners and marked those to be deleted from the living. The tenth was a Polish sergeant Francis Gajowniczek. Overcome with desperation he cried out: 'My wife-my children.
 

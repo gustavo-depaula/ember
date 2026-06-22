@@ -4,7 +4,7 @@ ISLE OF SAINTS has long been a title popularly given to the island evangelised b
 
 Dymphna was born in the sixth century, when Ireland was almost entirely Catholic. Yet, strange to say, her father, a petty king of Oriel, was still a pagan. On the other hand, her mother, a descendant of a noble family, was a devout Christian, remarkable both for her piety and her great beauty. Dymphna, like her mother, was a paragon of beauty and a most sweet and winning child, the jewel' of her home. Every affection and attention was lavished upon her from birth.
 
-Heaven, too, favoured the child with special graces. Dymphna was early placed under the care and tutelage of a pious christian woman who prepared her for baptism, which was conferred by the saintly Father Gerebran. The latter, who seems to have been a member of the household, later taught little Dymphna her letters along with the truths of religion. Dymphna, a bright and eager pupil, advanced rapidly in wisdom and grace.
+Heaven, too, favoured the child with special graces. Dymphna was early placed under the care and tutelage of a pious Christian woman who prepared her for baptism, which was conferred by the saintly Father Gerebran. The latter, who seems to have been a member of the household, later taught little Dymphna her letters along with the truths of religion. Dymphna, a bright and eager pupil, advanced rapidly in wisdom and grace.
 
 When still very young, Dymphna, like so many other Irish maidens before and after her, being filled with fervour and love for Jesus Christ, chose him for her divine Spouse, and consecrated her virginity to him and to his blessed Mother by a vow of chastity.
 
@@ -52,7 +52,7 @@ St Dymphna, ardent lover of the divine Bridegroom, *pray for us.*
 St Dymphna, devoted to the Mother of God, *pray for us.*  
 St Dymphna, beheaded by thine own father, *pray for us.*  
 St Dymphna, martyr of holy purity, *pray for us.*  
-St Dymphna, brilliant example of christian youth, *pray for us.*  
+St Dymphna, brilliant example of Christian youth, *pray for us.*  
 St Dymphna, renowned for many miracles, *pray for us.*  
 St Dymphna, glory of Ireland and Belgium, *pray for us.*  
 St Dymphna, full of compassion for those in need, *pray for us.*  

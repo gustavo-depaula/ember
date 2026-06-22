@@ -8,7 +8,7 @@ Young people especially often search for heroes with whom they can identify. The
 
 The Church holds up to us, as concrete examples of how sanctity is possible, her own great heroes. We call them, the saints.
 
-A paradox of Christianity is that its heroes are chosen, not for learning, science, bravery or art, as the world chooses its heroes, but for one thing alone'holiness. The saints have had all the above mentioned attributes, but it was precisely because they practised heroic sanctity that they became saints.
+A paradox of Christianity is that its heroes are chosen, not for learning, science, bravery or art, as the world chooses its heroes, but for one thing alone—holiness. The saints have had all the above mentioned attributes, but it was precisely because they practised heroic sanctity that they became saints.
 
 St. John of God's life story merits special attention today when psychoanalysis can be used to discover and discuss the troubled depth of the human spirit. These days, mankind is seeking new heroes, men and women it can identify with. John of God is a man from the past, but his influence is as vital in the world today as it was four centuries ago. He was such a human man, so much like us in many ways, he suffered greatly and his sufferings were both mental and physical. John overcame his anguish and trials by bearing them manfully, not like a stoic, but in unison with the sufferings of Jesus Christ.
 
@@ -18,7 +18,7 @@ John of God did not live a life of mere humanism or naturalism, he was not just 
 
 Often the lives of saints devote much space to the circumstances of the birth and childhood of their subjects. St.
 
-John of God is a notable exception, for many simple questions remain unanswered when his origin is investigated. John was born in 1495 in the little Portuguese town of Montemor 0 Novo, to humble peasants, Andrew and Teresa
+John of God is a notable exception, for many simple questions remain unanswered when his origin is investigated. John was born in 1495 in the little Portuguese town of Montemor o Novo, to humble peasants, Andrew and Teresa
 
 Cidade. Apart from that, little more is known of his early childhood until the age of eight. Then an extraordinary event
 
@@ -82,11 +82,11 @@ The decisive battle which won victory for the Christian forces took place on 25t
 
 At Compostela, John made his confession and received Holy Communion. He had reached a stage when his religion began to assume a larger dimension in his life. No longer would he take his faith for granted for he was beginning to realise that Christianity meant far more than simply calling oneself a Christian: it meant the actual following of Jesus Christ. This spiritual awakening resulted in an awareness and concern for others. He was beginning to show traits of that characteristic generosity which will develop and become more evident later on.
 
-It was at Compostella that John decided to visit Montemor 0 Novo, the village of his birth. Leaving the shrine of Santiago, he followed the road through two-thirds of the Kingdom of Portugal and arrived at his destination in the middle of summer. During the journey he had plenty of time to contemplate what he had seen over the past year. He detested the horrors of war and the misery of the poor and sick people he encountered in the towns he had visited moved him as much as the victims of the war.
+It was at Compostella that John decided to visit Montemor o Novo, the village of his birth. Leaving the shrine of Santiago, he followed the road through two-thirds of the Kingdom of Portugal and arrived at his destination in the middle of summer. During the journey he had plenty of time to contemplate what he had seen over the past year. He detested the horrors of war and the misery of the poor and sick people he encountered in the towns he had visited moved him as much as the victims of the war.
 
 All these experiences were stirring his conscience and were enkindling that concern which would eventually become active when he would come to realise his vocation in life.
 
-At Montemor 0 Novo he enquired about his parents. The only surviving member of his family .was an old uncle, Alphonsus Duarte, brother of John's mother. The old man told John that soon after his disappearance from home as a child, his mother was overcome with a terrible depression and shortly died. After his wife's death, Andrew Cidade went to Lisbon in search of his small son. He finally entered the Order of St. Francis as a lay brother and died a holy death. His parents' tragedy haunted John for the rest of his days. In an agony of remorse he decided to spend his life doing penance for his sins.
+At Montemor o Novo he enquired about his parents. The only surviving member of his family was an old uncle, Alphonsus Duarte, brother of John's mother. The old man told John that soon after his disappearance from home as a child, his mother was overcome with a terrible depression and shortly died. After his wife's death, Andrew Cidade went to Lisbon in search of his small son. He finally entered the Order of St. Francis as a lay brother and died a holy death. His parents' tragedy haunted John for the rest of his days. In an agony of remorse he decided to spend his life doing penance for his sins.
 
 John Cidade was still very restless. He left Portugal and went to Gibraltar. On the way, he stayed some time to help at a hostel for sick travellers at Ayamonte. If John had already expressed some sentiments of sympathy and compassion for the poor and sick, as indeed he did at Compostella and Ayamonte, such manifestations were simply the expression of a tender heart open to compassion. It was a natural compassion, yet to be fired and charged with the supernatural love which will result in his eventual vocation. At this time Cidade was confused. He sensed the sufferings of the underprivileged, yet did not know what he could do for them. He had still a long way to go to resolve his own personal problems before he would be in any position to help others.
 
@@ -126,7 +126,7 @@ Nobody hated the poor bookseller, they could not understand his strange behaviou
 
 Discount any idea you may have of a hospital when you observe the type of institution that passed for that name in the 16th century. They were fearsome places with damp halls and dark cells, reeking institutions where the insane were herded to keep them away from society. They were usually endowed by kings, bishops, nobles or wealthy merchants and were regarded as charitable foundations for the destitute. The wealthy shunned them.
 
-Upon being locked away in the insane section of the hospital, John Cidade found himself introduced to a nightmare' world he had hitherto never imagined. During his many travels he had experienced the sight of the feeble minded and demented, even soldiers who had broken down in the face of battle; but this was nothing in comparison to the horrors he now experienced.
+Upon being locked away in the insane section of the hospital, John Cidade found himself introduced to a nightmare world he had hitherto never imagined. During his many travels he had experienced the sight of the feeble minded and demented, even soldiers who had broken down in the face of battle; but this was nothing in comparison to the horrors he now experienced.
 
 Here all sorts of mentally ill persons of both sexes were thrown together in utter squalor and neglect. Manic and violent cases were chained to rings set into the walls or to large stone blocks. Dank straw and fetid mattresses were the sleeping quarters for these unfortunates and the whole place reeked with the stench of putrefaction and excreta.
 
@@ -162,7 +162,7 @@ Another innovation in hospital care was the custom John introduced at Lucena, of
 
 John had that wonderful gift which brought out the best in people, a gift which four centuries later would become a recognised science. John Cidade was practising applied psychology. This washing exercise had yet another purpose. John used it to make his helpers recognise the importance of human dignity even in the most degrading cases. He explained that it was really the feet of Jesus Christ that they washed. So great was his personal belief in this, that he always sought to render this service himself where possible. 'Through the body to the soul became John's motto. This was a sound theological maxim and clearly showed this great Christian humanist had more than the mere physical welfare of his guests at heart.
 
-John's hospital was a real house of hospitality, where the poor helped the poor and the infirm aided those in greater need than themselves. His hospital received anyone who was sick or destitute, and it was especially the mentally disturbed who had the greatest cause to be grateful to John far his Christian love and understanding. At John's hospital there were no bleeding backs or tortured screams.
+John's hospital was a real house of hospitality, where the poor helped the poor and the infirm aided those in greater need than themselves. His hospital received anyone who was sick or destitute, and it was especially the mentally disturbed who had the greatest cause to be grateful to John for his Christian love and understanding. At John's hospital there were no bleeding backs or tortured screams.
 
 The impetus behind the enterprise of charity came from John, who personally saw to it that the fifty or more guests had enough to eat and ample bedding and clothing. From the beginning of his hospital in January 1540, the people of Granada became familiar with the sight of its founder going about the city each evening begging for his guests. John's catch-cry was 'Do well for yourselves brothers, do well for yourselves! John reasoned that whoever gave generously to the poor sick would receive spiritual benefits in return. 'I tell you solemnly, in so far as you did this to one of the least of these brothers of mine, you did it to me. (Matt. 25:40). John adopted this injunction of Christ's to remind the citizens of Granada of their duty as Christians to help the poor and needy.
 
@@ -170,7 +170,7 @@ Bishop Ramirez was so impressed with the work of Christian love being performed 
 
 John did not suggest the name to the prelate, nor did he ever think of appropriating it for himself. John of God! The name came quite spontaneously to the bishop. Certainly it was an inspired name and one he had no hesitation in bestowing upon John.
 
-Bishop Ramirez had given John a new name in keeping with his mode of life, a name that commanded dignity and respect. However, the bishop was disconcerted that John's attire did not distinguish him from the ragged guests at his hospital. Consequently he gave him a distinguishing habit. This was not a religious habit, but a suit of unbleached woollen trousers with a long tunic that came to the knees and was tied about the waist with a chord.
+Bishop Ramirez had given John a new name in keeping with his mode of life, a name that commanded dignity and respect. However, the bishop was disconcerted that John's attire did not distinguish him from the ragged guests at his hospital. Consequently he gave him a distinguishing habit. This was not a religious habit, but a suit of unbleached woollen trousers with a long tunic that came to the knees and was tied about the waist with a cord.
 
 It is important to note that this investiture and new name did not represent an initiation into any religious society, nor for that matter, the beginning of a new one. Neither the bishop nor John had the slightest intention of forming a new religious congregation. John took no vows and to the day he died remained a layman in the Church. Nevertheless, the Holy Spirit would soon inspire many generous men to follow John of God in his way of charity and these would soon form the religious family which would proudly bear the name of the Brothers of John of God.
 
@@ -204,7 +204,7 @@ The dying Brother was taken to the nearby home of a benefactress, dona Ana de lo
 
 Brother John of God came to Granada only twelve years prior to his death. He was then unknown, unloved. At his death the whole city mourned and his was one of the greatest funerals ever seen there. John once said, 'Granada is my Cross, but it also proved to be his glory. Today his remains are enshrined in the magnificent Basilica of St. John of God at Granada.
 
-John of God's life is an example of how a man can rise from mediocrity and sin to become a leader for Christ and a champion for the underprivileged. He overcame many difficulties, he suffered what we euphemistically call 'a nervous breakdown. He. underwent a genuine religious conversion, and from that day forward he discovered for the first time in his life, real happiness.
+John of God's life is an example of how a man can rise from mediocrity and sin to become a leader for Christ and a champion for the underprivileged. He overcame many difficulties, he suffered what we euphemistically call 'a nervous breakdown. He underwent a genuine religious conversion, and from that day forward he discovered for the first time in his life, real happiness.
 
 That happiness increased with his Christian maturity and communicated itself to those who became his followers. Looking back over the last twelve years of John of God's life and comparing them with the years preceding, it is not difficult to see why the Church declared him a saint.
 
