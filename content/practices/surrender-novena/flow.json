@@ -48,6 +48,10 @@
           "text": "{{meditation}}"
         },
         {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
           "type": "divider"
         },
         {

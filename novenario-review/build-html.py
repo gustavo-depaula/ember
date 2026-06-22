@@ -80,8 +80,10 @@ for idx, e in enumerate(sxs):
     ember = ['<div class="ember">']
     ember.append('<div class="field"><span class="lbl">Opening prayer</span>' + bil(opening) + '</div>')
     for i, d in enumerate(days, 1):
+        pr = ('<div class="dprayer"><span class="lbl">Prayer</span>' + bil(d["prayer"]) + '</div>') if d.get("prayer") else ''
         ember.append('<div class="day"><div class="dtitle">' + bil(d.get("dayTitle")) + '</div>'
                      + '<div class="med">' + bil(d.get("meditation")) + '</div>'
+                     + pr
                      + '<div class="intent"><span class="lbl">Intention</span>' + bil(d.get("intention")) + '</div></div>')
     ember.append('<div class="field"><span class="lbl">Closing prayer</span>' + bil(closing) + '</div>')
     ember.append('</div>')
