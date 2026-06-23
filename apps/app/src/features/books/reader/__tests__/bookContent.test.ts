@@ -1,6 +1,12 @@
 import { describe, expect, it } from 'vitest'
 import type { BookEntry, TocNode } from '@/content/manifestTypes'
-import { buildTitleLookup, flattenReadingFlow, promoteFirstHeading } from '../bookContent'
+import {
+  ancestorGroupIds,
+  buildTitleLookup,
+  flattenReadingFlow,
+  flattenToc,
+  promoteFirstHeading,
+} from '../bookContent'
 
 const sample: TocNode[] = [
   { id: 'preface', title: { 'en-US': 'Preface', 'pt-BR': 'Prefácio' } },
@@ -53,6 +59,54 @@ describe('flattenReadingFlow', () => {
   it('honors an explicit role override', () => {
     const toc: TocNode[] = [{ id: 'intro', title: { 'en-US': 'Intro' }, role: 'section' }]
     expect(flattenReadingFlow(toc, manifest([]), 'en-US')[0].role).toBe('section')
+  })
+})
+
+describe('flattenToc', () => {
+  it('hides children of collapsed groups, showing only top-level rows', () => {
+    const rows = flattenToc(sample, new Set())
+    expect(rows.map((r) => r.node.id)).toEqual(['preface', 'book-1', 'epilogue'])
+    expect(rows.map((r) => r.isLeaf)).toEqual([true, false, true])
+    expect(rows.find((r) => r.node.id === 'book-1')?.isExpanded).toBe(false)
+  })
+
+  it('reveals a group’s children only while it is expanded, with depth', () => {
+    const rows = flattenToc(sample, new Set(['book-1']))
+    expect(rows.map((r) => [r.node.id, r.depth])).toEqual([
+      ['preface', 0],
+      ['book-1', 0],
+      ['ch-1', 1],
+      ['ch-2', 1],
+      ['epilogue', 0],
+    ])
+    // ch-2 is itself a collapsed group → its children stay hidden.
+    expect(rows.some((r) => r.node.id === 'ch-2-a')).toBe(false)
+  })
+
+  it('expands nested groups when both ancestors are open', () => {
+    const rows = flattenToc(sample, new Set(['book-1', 'ch-2']))
+    expect(rows.map((r) => r.node.id)).toEqual([
+      'preface',
+      'book-1',
+      'ch-1',
+      'ch-2',
+      'ch-2-a',
+      'ch-2-b',
+      'epilogue',
+    ])
+    expect(rows.find((r) => r.node.id === 'ch-2-a')?.depth).toBe(2)
+  })
+})
+
+describe('ancestorGroupIds', () => {
+  it('returns the group path down to a deep leaf, excluding the leaf', () => {
+    expect([...ancestorGroupIds(sample, 'ch-2-a')]).toEqual(['book-1', 'ch-2'])
+  })
+
+  it('is empty for a top-level node or an unknown / missing target', () => {
+    expect(ancestorGroupIds(sample, 'preface').size).toBe(0)
+    expect(ancestorGroupIds(sample, 'nope').size).toBe(0)
+    expect(ancestorGroupIds(sample, undefined).size).toBe(0)
   })
 })
 

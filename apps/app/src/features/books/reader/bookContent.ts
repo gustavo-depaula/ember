@@ -154,7 +154,8 @@ export function flattenReadingFlow(
   return flow
 }
 
-function localizedTitle(title: TocNode['title'], lang: string): string | undefined {
+/** A node's title in `lang`, falling back to the first language present. */
+export function localizedTitle(title: TocNode['title'], lang: string): string | undefined {
   return (title as Record<string, string>)[lang] ?? Object.values(title)[0]
 }
 
@@ -196,6 +197,41 @@ export function countLeavesUnder(node: TocNode): number {
   return n
 }
 
+/**
+ * groupId → number of leaf chapters beneath it, for every group node, built in
+ * one bottom-up pass. Lets a TOC row read its leaf count by id instead of
+ * re-walking its subtree on each render.
+ */
+export function buildLeafCountIndex(toc: TocNode[]): Map<string, number> {
+  const counts = new Map<string, number>()
+  function walk(node: TocNode): number {
+    if (!node.children?.length) return 1
+    let n = 0
+    for (const child of node.children) n += walk(child)
+    counts.set(node.id, n)
+    return n
+  }
+  for (const node of toc) walk(node)
+  return counts
+}
+
+/** Same as buildLeafCountIndex, but counts only leaves present in `completed`. */
+export function buildCompletedLeafIndex(
+  toc: TocNode[],
+  completed: Set<string>,
+): Map<string, number> {
+  const counts = new Map<string, number>()
+  function walk(node: TocNode): number {
+    if (!node.children?.length) return completed.has(node.id) ? 1 : 0
+    let n = 0
+    for (const child of node.children) n += walk(child)
+    counts.set(node.id, n)
+    return n
+  }
+  for (const node of toc) walk(node)
+  return counts
+}
+
 export function collectAllSectionIds(toc: TocNode[]): Set<string> {
   const ids = new Set<string>()
   function walk(nodes: TocNode[]) {
@@ -219,6 +255,57 @@ export function hasNestedSections(toc: TocNode[]): boolean {
     return false
   }
   return walk(toc)
+}
+
+/** A TOC node placed in a flat, render-ready list (the collapsible-tree row). */
+export type FlatTocItem = {
+  node: TocNode
+  depth: number
+  isLeaf: boolean
+  isExpanded: boolean
+}
+
+/**
+ * Flatten the TOC tree into the rows currently visible given `expandedIds`:
+ * a group's children are emitted only while the group is expanded. Shared by
+ * the in-reader TOC sheet and the book-detail Sumário so both collapse alike.
+ */
+export function flattenToc(nodes: TocNode[], expandedIds: Set<string>, depth = 0): FlatTocItem[] {
+  const result: FlatTocItem[] = []
+  for (const node of nodes) {
+    const isLeaf = !node.children?.length
+    const isExpanded = !isLeaf && expandedIds.has(node.id)
+    result.push({ node, depth, isLeaf, isExpanded })
+    if (isExpanded && node.children) {
+      result.push(...flattenToc(node.children, expandedIds, depth + 1))
+    }
+  }
+  return result
+}
+
+/**
+ * The set of group ids on the path from the roots down to `targetId` (excluding
+ * the target itself). Expanding these reveals the target's row. Empty when the
+ * target is absent or undefined.
+ */
+export function ancestorGroupIds(toc: TocNode[], targetId?: string): Set<string> {
+  const ids = new Set<string>()
+  if (!targetId) return ids
+  function find(nodes: TocNode[], path: string[]): boolean {
+    for (const node of nodes) {
+      if (node.id === targetId) return true
+      if (node.children?.length) {
+        path.push(node.id)
+        if (find(node.children, path)) return true
+        path.pop()
+      }
+    }
+    return false
+  }
+  const path: string[] = []
+  find(toc, path)
+  for (const id of path) ids.add(id)
+  return ids
 }
 
 /**
