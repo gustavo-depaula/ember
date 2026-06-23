@@ -628,9 +628,10 @@ export function BookReader({ bookId, chapter }: Props) {
 
   const handleSelectChapter = useCallback(
     (id: string) => {
+      // The TOC sheet owns its own dismissal (closes before this fires); we
+      // only navigate. See ReaderTocSheet's close-first tap handler.
       const idx = leaves.findIndex((l) => l.id === id)
       if (idx >= 0) foliateRef.current?.goTo(idx, 0)
-      setSheet(null)
     },
     [leaves],
   )

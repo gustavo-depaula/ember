@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query'
 import { type Href, useLocalSearchParams, useRouter } from 'expo-router'
-import { Check, ChevronRight } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { Check, ChevronDown, ChevronRight, Search } from 'lucide-react-native'
+import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
@@ -14,10 +14,16 @@ import type { BookEntry, TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
 import {
+  ancestorGroupIds,
+  buildCompletedLeafIndex,
+  buildLeafCountIndex,
   buildTitleLookup,
-  countLeavesUnder,
+  collectAllSectionIds,
   countTocNodes,
-  firstLeafId,
+  type FlatTocItem,
+  flattenToc,
+  hasNestedSections,
+  localizedTitle,
 } from '@/features/books/reader/bookContent'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
@@ -111,6 +117,57 @@ export default function BookDetailScreen() {
     return total > 0 ? total : undefined
   }, [chapterMinutes, leaves, completed])
 
+  const cursor = getCursor(bookRef)
+  const position = cursor ? parseReaderPosition(cursor.position) : undefined
+  const resumeChapterId = position?.chapterId
+
+  // Collapsible-tree state for the inline Sumário. Seeded once the manifest
+  // loads: small trees open fully (the familiar outline); huge trees stay
+  // collapsed to the top level, with the resume chapter's ancestors opened so
+  // it's reachable.
+  const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
+  const seededExpand = useRef(false)
+  useEffect(() => {
+    if (seededExpand.current || !book?.toc) return
+    seededExpand.current = true
+    setExpandedIds(
+      tocTooLarge ? ancestorGroupIds(book.toc, resumeChapterId) : collectAllSectionIds(book.toc),
+    )
+  }, [book?.toc, tocTooLarge, resumeChapterId])
+
+  const flatToc = useMemo(
+    () => (book?.toc ? flattenToc(book.toc, expandedIds) : []),
+    [book?.toc, expandedIds],
+  )
+  const toggleTocExpand = useCallback((id: string) => {
+    setExpandedIds((prev) => {
+      const next = new Set(prev)
+      if (next.has(id)) next.delete(id)
+      else next.add(id)
+      return next
+    })
+  }, [])
+  const expandAllToc = useCallback(() => {
+    if (book?.toc) setExpandedIds(collectAllSectionIds(book.toc))
+  }, [book?.toc])
+  const collapseAllToc = useCallback(() => setExpandedIds(new Set()), [])
+  const showTocExpandControls = useMemo(
+    () => (book?.toc ? hasNestedSections(book.toc) || tocTooLarge : false),
+    [book?.toc, tocTooLarge],
+  )
+
+  // Leaf totals (and finished counts) for every group row, walked once instead
+  // of recursing per row on each scroll frame — the Encyclopedia's letters span
+  // ~1,300 chapters each.
+  const tocLeafCounts = useMemo(
+    () => (book?.toc ? buildLeafCountIndex(book.toc) : new Map<string, number>()),
+    [book?.toc],
+  )
+  const tocCompletedCounts = useMemo(
+    () => (book?.toc ? buildCompletedLeafIndex(book.toc, completed) : new Map<string, number>()),
+    [book?.toc, completed],
+  )
+
   if (!entry) {
     return (
       <YStack flex={1} backgroundColor="$background" alignItems="center" justifyContent="center">
@@ -126,9 +183,6 @@ export default function BookDetailScreen() {
   const author = authorSrc ? localizeContent(authorSrc as never) : undefined
   const description = book?.description ? localizeContent(book.description) : undefined
 
-  const cursor = getCursor(bookRef)
-  const position = cursor ? parseReaderPosition(cursor.position) : undefined
-  const resumeChapterId = position?.chapterId
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
 
   const currentLeafIndex = position ? leaves.findIndex((l) => l.id === position.chapterId) : -1
@@ -142,9 +196,29 @@ export default function BookDetailScreen() {
     params: chapter ? { bookId, chapter } : { bookId },
   })
 
+  const hasToc = !!book?.toc && book.toc.length > 0
+
   return (
     <>
-      <Animated.ScrollView
+      {/* One virtualized list for the whole screen: the hero + meta live in the
+          header so the collapsible Sumário can virtualize (a list can't nest in
+          a ScrollView). onScroll still feeds the hero's parallax. */}
+      <Animated.FlatList
+        data={flatToc}
+        keyExtractor={tocKeyExtractor}
+        getItemLayout={tocGetItemLayout}
+        renderItem={({ item }) => (
+          <TocTreeRow
+            item={item}
+            lang={lang}
+            currentChapterId={resumeChapterId}
+            completed={completed}
+            leafCounts={tocLeafCounts}
+            completedCounts={tocCompletedCounts}
+            buildHref={readerHref}
+            onToggle={toggleTocExpand}
+          />
+        )}
         onScroll={onScroll}
         scrollEventThrottle={16}
         style={{ flex: 1, backgroundColor: background }}
@@ -152,63 +226,65 @@ export default function BookDetailScreen() {
           paddingBottom: insets.bottom + nativeTabBarClearance + nowPlaying,
         }}
         contentInsetAdjustmentBehavior="never"
-      >
-        <BookHero
-          name={name}
-          author={author}
-          ctaLabel={ctaLabel}
-          tone={toneByIndex(toneIndexForId(bookRef))}
-          scrollY={scrollY}
-          readHref={readerHref()}
-        />
-
-        {/* Opaque column over the hero's lower bleed; paddingTop clears the
-            floating capsule that straddles the seam. */}
-        <YStack
-          width="100%"
-          maxWidth={640}
-          alignSelf="center"
-          paddingHorizontal="$lg"
-          paddingTop={40}
-          gap="$lg"
-          backgroundColor="$background"
-        >
-          <LibraryActionRow
-            itemId={bookRef}
-            kind="book"
-            onAddToCollection={() => setAddingToCollection(true)}
-          />
-
-          {progressFraction > 0 && (
-            <BookProgressLine
-              fraction={progressFraction}
-              currentLeafIndex={currentLeafIndex}
-              totalLeaves={leaves.length}
-              completedCount={completed.size}
-              minutesRemaining={minutesRemaining}
-              minutesRead={readingTimeMs > 60_000 ? Math.round(readingTimeMs / 60_000) : undefined}
-              streakDays={streakDays > 1 ? streakDays : undefined}
-              updatedAt={position?.updatedAt}
-              label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
+        ListHeaderComponent={
+          <>
+            <BookHero
+              name={name}
+              author={author}
+              ctaLabel={ctaLabel}
+              tone={toneByIndex(toneIndexForId(bookRef))}
+              scrollY={scrollY}
+              readHref={readerHref()}
             />
-          )}
 
-          {description && <PrologueProse text={description} />}
+            {/* Opaque column over the hero's lower bleed; paddingTop clears the
+                floating capsule that straddles the seam. */}
+            <YStack
+              width="100%"
+              maxWidth={640}
+              alignSelf="center"
+              paddingHorizontal="$lg"
+              paddingTop={40}
+              gap="$lg"
+              backgroundColor="$background"
+            >
+              <LibraryActionRow
+                itemId={bookRef}
+                kind="book"
+                onAddToCollection={() => setAddingToCollection(true)}
+              />
 
-          {book?.toc && book.toc.length > 0 && (
-            <Contents
-              toc={book.toc}
-              lang={lang}
-              compact={tocTooLarge}
-              currentChapterId={resumeChapterId}
-              completed={completed}
-              totalLeaves={leaves.length}
-              buildHref={readerHref}
-              onBrowseAll={() => setBrowsingToc(true)}
-            />
-          )}
-        </YStack>
-      </Animated.ScrollView>
+              {progressFraction > 0 && (
+                <BookProgressLine
+                  fraction={progressFraction}
+                  currentLeafIndex={currentLeafIndex}
+                  totalLeaves={leaves.length}
+                  completedCount={completed.size}
+                  minutesRemaining={minutesRemaining}
+                  minutesRead={
+                    readingTimeMs > 60_000 ? Math.round(readingTimeMs / 60_000) : undefined
+                  }
+                  streakDays={streakDays > 1 ? streakDays : undefined}
+                  updatedAt={position?.updatedAt}
+                  label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
+                />
+              )}
+
+              {description && <PrologueProse text={description} />}
+
+              {hasToc ? (
+                <SumarioHeading
+                  showExpandControls={showTocExpandControls}
+                  showSearch={tocTooLarge}
+                  onExpandAll={expandAllToc}
+                  onCollapseAll={collapseAllToc}
+                  onSearch={() => setBrowsingToc(true)}
+                />
+              ) : null}
+            </YStack>
+          </>
+        }
+      />
 
       <AddToCollectionSheet
         itemRef={bookRef}
@@ -236,187 +312,166 @@ export default function BookDetailScreen() {
   )
 }
 
-/** The table of contents — an illuminated marker + a tappable chapter list. */
-function Contents({
-  toc,
-  lang,
-  compact,
-  currentChapterId,
-  completed,
-  totalLeaves,
-  buildHref,
-  onBrowseAll,
+const tocRowHeight = 56
+
+function tocKeyExtractor(item: FlatTocItem) {
+  return item.node.id
+}
+
+function tocGetItemLayout(_: unknown, index: number) {
+  return { length: tocRowHeight, offset: tocRowHeight * index, index }
+}
+
+function tocTitle(node: TocNode, lang: string): string {
+  return localizedTitle(node.title, lang) ?? node.id
+}
+
+/** The ✦ Sumário marker, plus expand/collapse + search controls for big trees. */
+function SumarioHeading({
+  showExpandControls,
+  showSearch,
+  onExpandAll,
+  onCollapseAll,
+  onSearch,
 }: {
-  toc: TocNode[]
-  lang: string
-  /** True for huge TOCs: render only top-level sections + a "Browse all" button. */
-  compact: boolean
-  currentChapterId?: string
-  completed: Set<string>
-  totalLeaves: number
-  buildHref: (chapterId: string) => Href
-  onBrowseAll: () => void
+  showExpandControls: boolean
+  showSearch: boolean
+  onExpandAll: () => void
+  onCollapseAll: () => void
+  onSearch: () => void
 }) {
   const { t } = useTranslation()
+  const theme = useTheme()
   return (
-    <YStack gap="$md">
-      <XStack alignItems="center" gap="$sm" paddingTop="$sm">
+    <YStack gap="$sm" paddingTop="$sm">
+      <XStack alignItems="center" gap="$sm">
         <Typography fontSize="$1">✦</Typography>
         <Typography variant="screen-title" fontSize="$4" textAlign="left">
           {t('book.contents')}
         </Typography>
         <YStack flex={1} height={1} backgroundColor="$accentSubtle" />
       </XStack>
-      <YStack>
-        {compact
-          ? toc.map((node) => (
-              <CompactSectionRow
-                key={node.id}
-                node={node}
-                lang={lang}
-                completed={completed}
-                buildHref={buildHref}
-              />
-            ))
-          : toc.map((node) => (
-              <TocNodeRow
-                key={node.id}
-                node={node}
-                lang={lang}
-                depth={0}
-                currentChapterId={currentChapterId}
-                completed={completed}
-                buildHref={buildHref}
-              />
-            ))}
-      </YStack>
-      {compact ? (
-        <Pressable onPress={onBrowseAll} accessibilityRole="button">
-          <XStack
-            alignItems="center"
-            justifyContent="center"
-            paddingVertical="$md"
-            borderRadius="$md"
-            backgroundColor="$accentSubtle"
-          >
-            <Typography variant="interface" fontSize="$2" color="$accent">
-              {t('book.browseAllChapters', {
-                defaultValue: 'Browse all {{count}} chapters',
-                count: totalLeaves,
-              })}
-            </Typography>
-          </XStack>
-        </Pressable>
+      {showExpandControls || showSearch ? (
+        <XStack alignItems="center" gap="$md">
+          {showSearch ? (
+            <Pressable
+              onPress={onSearch}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={t('books.searchChapters', { defaultValue: 'Search chapters' })}
+            >
+              <XStack alignItems="center" gap="$xs">
+                <Search size={14} color={theme.accent?.val} />
+                <Typography variant="interface" fontSize="$1" color="$accent">
+                  {t('books.searchChapters', { defaultValue: 'Search chapters' })}
+                </Typography>
+              </XStack>
+            </Pressable>
+          ) : null}
+          {showExpandControls ? (
+            <XStack gap="$md" marginLeft="auto">
+              <Pressable onPress={onExpandAll} hitSlop={8} accessibilityRole="button">
+                <Typography variant="interface" fontSize="$1" color="$accent">
+                  {t('books.expandAll', { defaultValue: 'Expand all' })}
+                </Typography>
+              </Pressable>
+              <Pressable onPress={onCollapseAll} hitSlop={8} accessibilityRole="button">
+                <Typography variant="interface" fontSize="$1" color="$accent">
+                  {t('books.collapseAll', { defaultValue: 'Collapse all' })}
+                </Typography>
+              </Pressable>
+            </XStack>
+          ) : null}
+        </XStack>
       ) : null}
     </YStack>
   )
 }
 
-/**
- * Top-level section row for huge TOCs (Catholic Encyclopedia etc.). Renders
- * the section title + leaf count + completion fraction; tap opens the reader
- * at the section's first leaf.
- */
-function CompactSectionRow({
-  node,
-  lang,
-  completed,
-  buildHref,
-}: {
-  node: TocNode
-  lang: string
-  completed: Set<string>
-  buildHref: (chapterId: string) => Href
-}) {
-  const theme = useTheme()
-  const router = useRouter()
-  const title =
-    (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
-  const totalLeavesUnder = countLeavesUnder(node)
-  const completedUnder = useMemo(() => {
-    let n = 0
-    function walk(n2: TocNode) {
-      if (!n2.children?.length) {
-        if (completed.has(n2.id)) n++
-        return
-      }
-      for (const c of n2.children) walk(c)
-    }
-    walk(node)
-    return n
-  }, [node, completed])
-  const target = firstLeafId(node)
-
-  // Plain router.push (see TocNodeRow comment) — AppleZoom from inside a
-  // scrollable list left a ghost view that blocked taps on the frontispiece.
+/** Constrains a TOC row to the same centered column the header meta uses. */
+function TocRowFrame({ children }: { children: ReactNode }) {
   return (
-    <Pressable
-      onPress={() => router.push(buildHref(target))}
-      accessibilityRole="link"
-      accessibilityLabel={title}
-      style={{ width: '100%' }}
+    <YStack
+      width="100%"
+      maxWidth={640}
+      alignSelf="center"
+      paddingHorizontal="$lg"
+      backgroundColor="$background"
     >
-      <XStack
-        alignItems="center"
-        gap="$sm"
-        paddingVertical="$md"
-        borderBottomWidth={0.5}
-        borderColor="$accentSubtle"
-      >
-        <YStack flex={1} gap="$xs">
-          <Typography variant="interface" fontSize="$3" numberOfLines={2}>
-            {title}
-          </Typography>
-          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.75}>
-            {completedUnder > 0
-              ? `${completedUnder} / ${totalLeavesUnder}`
-              : `${totalLeavesUnder} chapters`}
-          </Typography>
-        </YStack>
-        <ChevronRight size={16} color={theme.colorSecondary?.val} />
-      </XStack>
-    </Pressable>
+      {children}
+    </YStack>
   )
 }
 
-function TocNodeRow({
-  node,
+/**
+ * One row of the collapsible Sumário. Group nodes (with children) toggle
+ * expand/collapse in place; leaf nodes open the reader. Fixed height so the
+ * list virtualizes via getItemLayout — the 12k-chapter Encyclopedia stays smooth.
+ */
+function TocTreeRow({
+  item,
   lang,
-  depth,
   currentChapterId,
   completed,
+  leafCounts,
+  completedCounts,
   buildHref,
+  onToggle,
 }: {
-  node: TocNode
+  item: FlatTocItem
   lang: string
-  depth: number
   currentChapterId?: string
   completed: Set<string>
+  leafCounts: Map<string, number>
+  completedCounts: Map<string, number>
   buildHref: (chapterId: string) => Href
+  onToggle: (id: string) => void
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
   const router = useRouter()
-  const title =
-    (node.title as Record<string, string>)[lang] ?? Object.values(node.title)[0] ?? node.id
+  const { node, depth, isLeaf, isExpanded } = item
+  const title = tocTitle(node, lang)
+  const indent = depth * 16
 
-  if (node.children?.length) {
+  if (!isLeaf) {
+    const total = leafCounts.get(node.id) ?? 0
+    const done = completedCounts.get(node.id) ?? 0
     return (
-      <YStack gap="$xs" paddingTop="$sm">
-        <Typography variant="label" fontSize="$1" paddingLeft={depth * 16}>
-          {title}
-        </Typography>
-        {node.children.map((child) => (
-          <TocNodeRow
-            key={child.id}
-            node={child}
-            lang={lang}
-            depth={depth + 1}
-            currentChapterId={currentChapterId}
-            completed={completed}
-            buildHref={buildHref}
-          />
-        ))}
-      </YStack>
+      <TocRowFrame>
+        <Pressable
+          onPress={() => onToggle(node.id)}
+          accessibilityRole="button"
+          accessibilityLabel={title}
+          accessibilityState={{ expanded: isExpanded }}
+          style={{ width: '100%' }}
+        >
+          <XStack
+            height={tocRowHeight}
+            alignItems="center"
+            gap="$sm"
+            paddingLeft={indent}
+            borderBottomWidth={0.5}
+            borderColor="$accentSubtle"
+          >
+            {isExpanded ? (
+              <ChevronDown size={16} color={theme.colorSecondary?.val} />
+            ) : (
+              <ChevronRight size={16} color={theme.colorSecondary?.val} />
+            )}
+            <YStack flex={1} gap="$xs">
+              <Typography variant="interface" fontSize="$3" numberOfLines={1}>
+                {title}
+              </Typography>
+              <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.75}>
+                {done > 0
+                  ? `${done} / ${total}`
+                  : t('book.sectionChapters', { defaultValue: '{{count}} chapters', count: total })}
+              </Typography>
+            </YStack>
+          </XStack>
+        </Pressable>
+      </TocRowFrame>
     )
   }
 
@@ -425,45 +480,49 @@ function TocNodeRow({
 
   // Plain router.push instead of ZoomLink. AppleZoom triggered from a row
   // inside a scrollable list appears to leave a snapshot view that blocks
-  // taps on the frontispiece after the modal dismisses (the bug doesn't
-  // recur when the user opens the reader from the BookHero CTA, which is
-  // outside the ScrollView). The Hero keeps its zoom morph.
+  // taps on the frontispiece after the modal dismisses. The Hero keeps its
+  // zoom morph.
   return (
-    <Pressable
-      onPress={() => router.push(buildHref(node.id))}
-      accessibilityRole="link"
-      accessibilityLabel={title}
-      style={{ width: '100%' }}
-    >
-      <XStack
-        alignItems="center"
-        gap="$sm"
-        paddingVertical="$sm"
-        paddingLeft={depth * 16}
-        borderBottomWidth={0.5}
-        borderColor="$accentSubtle"
+    <TocRowFrame>
+      <Pressable
+        onPress={() => router.push(buildHref(node.id))}
+        accessibilityRole="link"
+        accessibilityLabel={title}
+        style={{ width: '100%' }}
       >
-        <Typography
-          variant="interface"
-          fontSize="$3"
-          flex={1}
-          numberOfLines={2}
-          color={isCurrent ? '$accent' : '$color'}
-          opacity={isCompleted && !isCurrent ? 0.6 : 1}
+        <XStack
+          height={tocRowHeight}
+          alignItems="center"
+          gap="$sm"
+          paddingLeft={indent}
+          borderBottomWidth={0.5}
+          borderColor="$accentSubtle"
         >
-          {title}
-        </Typography>
-        {node.pointRange ? (
-          <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.8}>
-            {`${node.pointRange.from}–${node.pointRange.to}`}
+          <Typography
+            variant="interface"
+            fontSize="$3"
+            flex={1}
+            numberOfLines={2}
+            color={isCurrent ? '$accent' : '$color'}
+            opacity={isCompleted && !isCurrent ? 0.6 : 1}
+          >
+            {title}
           </Typography>
-        ) : null}
-        {isCompleted ? (
-          <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
-        ) : null}
-        <ChevronRight size={16} color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val} />
-      </XStack>
-    </Pressable>
+          {node.pointRange ? (
+            <Typography variant="label" fontSize="$1" color="$colorSecondary" opacity={0.8}>
+              {`${node.pointRange.from}–${node.pointRange.to}`}
+            </Typography>
+          ) : null}
+          {isCompleted ? (
+            <Check size={14} color={theme.accent?.val ?? theme.colorSecondary?.val} />
+          ) : null}
+          <ChevronRight
+            size={16}
+            color={isCurrent ? theme.accent?.val : theme.colorSecondary?.val}
+          />
+        </XStack>
+      </Pressable>
+    </TocRowFrame>
   )
 }
 

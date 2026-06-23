@@ -9,7 +9,13 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import type { TocNode } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import { useDebounced } from '@/lib/useDebounced'
-import { collectAllSectionIds, hasNestedSections } from './bookContent'
+import {
+  ancestorGroupIds,
+  collectAllSectionIds,
+  type FlatTocItem,
+  flattenToc,
+  hasNestedSections,
+} from './bookContent'
 import type { ChapterTiming } from './chapterTimings'
 
 type Props = {
@@ -27,51 +33,18 @@ type Props = {
   onSelect: (chapterId: string) => void
 }
 
-type FlatTocItem = {
-  node: TocNode
-  depth: number
-  isLeaf: boolean
-  isExpanded: boolean
-}
-
 const itemHeight = 48
 const sheetFraction = 0.85
 
-function flattenToc(nodes: TocNode[], expandedIds: Set<string>, depth = 0): FlatTocItem[] {
-  const result: FlatTocItem[] = []
-  for (const node of nodes) {
-    const isLeaf = !node.children?.length
-    const isExpanded = !isLeaf && expandedIds.has(node.id)
-    result.push({ node, depth, isLeaf, isExpanded })
-    if (isExpanded && node.children) {
-      result.push(...flattenToc(node.children, expandedIds, depth + 1))
-    }
-  }
-  return result
-}
-
-// Auto-expand the ancestor chain of the current chapter so the user opens the
-// TOC and immediately sees where they are.
+// Auto-expand the top-level groups plus the ancestor chain of the current
+// chapter so the user opens the TOC and immediately sees where they are. The
+// sheet is virtualized, so expanding every top-level group up front is cheap.
 function collectInitialExpanded(toc: TocNode[], currentChapterId?: string): Set<string> {
   const ids = new Set<string>()
   for (const node of toc) {
     if (node.children?.length) ids.add(node.id)
   }
-  if (!currentChapterId) return ids
-  function findAncestors(nodes: TocNode[], path: string[]): boolean {
-    for (const node of nodes) {
-      if (node.id === currentChapterId) return true
-      if (node.children?.length) {
-        path.push(node.id)
-        if (findAncestors(node.children, path)) return true
-        path.pop()
-      }
-    }
-    return false
-  }
-  const path: string[] = []
-  findAncestors(toc, path)
-  for (const id of path) ids.add(id)
+  for (const id of ancestorGroupIds(toc, currentChapterId)) ids.add(id)
   return ids
 }
 
@@ -214,8 +187,11 @@ export function ReaderTocSheet({
               return (
                 <Pressable
                   onPress={() => {
-                    onSelect(node.id)
+                    // Close first, then navigate on the next frame: a synchronous
+                    // foliate goTo (injectJavaScript) in the same tick interrupts
+                    // the native sheet's dismiss animation and leaves it open.
                     onClose()
+                    requestAnimationFrame(() => onSelect(node.id))
                   }}
                   accessibilityRole="link"
                   accessibilityLabel={title}
@@ -294,8 +270,8 @@ export function ReaderTocSheet({
                     // Readable group → navigate + close the tray (like leaves);
                     // a body-less group just expands and the tray stays open.
                     if (isReadableGroup) {
-                      onSelect(node.id)
                       onClose()
+                      requestAnimationFrame(() => onSelect(node.id))
                     } else {
                       toggleExpand(node.id)
                     }
