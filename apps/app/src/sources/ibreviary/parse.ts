@@ -53,12 +53,19 @@ function endBlock(c: Collector) {
   c.block = []
 }
 
+// iBreviary's rubric red. Rubrics normally carry class="rubrica", but a few
+// hand-edited days inline the colour on a bare <span> instead (no class) — e.g.
+// some "SEGUNDA LEITURA" labels. Treat that exact red as a rubric too, so the
+// label anchors second-reading extraction and renders red like every other day.
+const rubricRed = /color:\s*#dc2300/i
+
 // `rubrica` and `capolettera_piccolo` (EN section labels) both render red;
 // `citazione`/<em> are italic. `sezione` is the page title — the practice UI
 // already names the hour, so it's dropped.
 function spanStyle(el: Element, inherited: RunStyle): RunStyle | 'skip' {
   if (hasClass(el, 'sezione')) return 'skip'
   if (hasClass(el, 'rubrica') || hasClass(el, 'capolettera_piccolo')) return 'rubric'
+  if (rubricRed.test(el.attribs.style ?? '')) return 'rubric'
   if (hasClass(el, 'citazione')) return 'italic'
   return inherited
 }
