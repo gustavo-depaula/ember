@@ -5,15 +5,33 @@
 // while the app is foregrounded (see useReaderSync).
 
 import * as Network from 'expo-network'
+import { Platform } from 'react-native'
 import { buildRegistry, clearEpubCache, handleOpdsRequest } from '../opds/routes'
 import type { ServerHandle, SyncDocument } from '../types'
 
 const textEncoder = new TextEncoder()
 
+// iOS Personal Hotspot always puts the host phone at this fixed gateway. When the
+// phone itself is the hotspot, its Wi-Fi interface has no DHCP lease, so
+// getIpAddressAsync returns a useless self-assigned link-local 169.254.x.x — but
+// clients (the reader) reach us at 172.20.10.1. Advertise that instead so the
+// screen shows an address that actually works.
+const iosHotspotGateway = '172.20.10.1'
+
+async function resolveAdvertisedIp(): Promise<string> {
+  const ip = await Network.getIpAddressAsync()
+  const unusable = !ip || ip === '0.0.0.0' || ip.startsWith('169.254.')
+  if (unusable && Platform.OS === 'ios') return iosHotspotGateway
+  return ip
+}
+
 // Lazy-required inside startReaderSync so merely importing this module (e.g. when
 // Expo Router eagerly loads the route, or on web/tests) never touches the native
 // binding — it loads only when the user actually starts syncing.
 type TcpSocketApi = typeof import('react-native-tcp-socket').default
+// The connected-socket type, derived from createServer's listener so we don't
+// depend on the package's (unexported-from-root) Socket type. Erased at runtime.
+type Socket = Parameters<NonNullable<Parameters<TcpSocketApi['createServer']>[1]>>[0]
 
 const PORT = 8943
 
@@ -25,7 +43,7 @@ const statusText: Record<number, string> = {
 }
 
 function writeResponse(
-  socket: { write: (b: Uint8Array | string) => void; end: () => void },
+  socket: Socket,
   status: number,
   contentType: string,
   body: Uint8Array,
@@ -36,9 +54,17 @@ function writeResponse(
     `Content-Length: ${body.length}\r\n` +
     'Access-Control-Allow-Origin: *\r\n' +
     'Connection: close\r\n\r\n'
-  socket.write(head)
-  socket.write(body)
-  socket.end()
+  // Send the head and body as a single buffer and close ONLY after it has
+  // flushed. The previous fire-and-forget `write(head); write(body); end()`
+  // could close the socket before a large body (a multi-KB EPUB) finished
+  // sending, truncating the zip. The reader then opens the book from the early
+  // zip entries but fails on every chapter, since chapter XHTML and the central
+  // directory are written later in the file.
+  const headBytes = textEncoder.encode(head)
+  const response = new Uint8Array(headBytes.length + body.length)
+  response.set(headBytes, 0)
+  response.set(body, headBytes.length)
+  socket.write(response, undefined, () => socket.end())
 }
 
 export async function startReaderSync(opts: { documents: SyncDocument[] }): Promise<ServerHandle> {
@@ -48,7 +74,7 @@ export async function startReaderSync(opts: { documents: SyncDocument[] }): Prom
   // bounded to this session's documents.
   clearEpubCache()
   const registry = buildRegistry(opts.documents)
-  const ip = await Network.getIpAddressAsync()
+  const ip = await resolveAdvertisedIp()
 
   const server = TcpSocket.createServer((socket) => {
     let buffer = ''

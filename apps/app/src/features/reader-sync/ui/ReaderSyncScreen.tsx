@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
-import { Button, Text, YStack } from 'tamagui'
-import { Card, PageHeader, ScreenLayout, SectionDivider } from '@/components'
+import { Text, YStack } from 'tamagui'
+import { AnimatedPressable, Card, PageHeader, ScreenLayout, SectionDivider } from '@/components'
 import { Typography } from '@/components/typography'
 import { useReaderSync } from '../server/useReaderSync'
 
@@ -35,7 +35,7 @@ export function ReaderSyncScreen() {
             <Typography variant="annotation">
               {t(
                 'readerSync.addHint',
-                'On the reader: Settings → OPDS Servers → Add, and paste this URL. Then browse Today.',
+                'On the reader: Settings → OPDS Servers → Add, type this address, then browse Today. The trailing /opds is optional.',
               )}
             </Typography>
           </Card>
@@ -49,13 +49,30 @@ export function ReaderSyncScreen() {
           </Card>
         ) : undefined}
 
-        <Button disabled={status === 'starting'} onPress={() => (running ? stop() : start())}>
-          {running
-            ? t('readerSync.stop', 'Stop syncing')
-            : status === 'starting'
-              ? t('readerSync.starting', 'Starting…')
-              : t('readerSync.start', 'Start syncing')}
-        </Button>
+        <AnimatedPressable
+          disabled={status === 'starting'}
+          onPress={() => (running ? stop() : start())}
+          accessibilityRole="button"
+        >
+          <YStack
+            backgroundColor="$accent"
+            borderRadius="$md"
+            borderWidth={1}
+            borderColor="$accentSubtle"
+            paddingVertical="$sm"
+            paddingHorizontal="$md"
+            alignItems="center"
+            opacity={status === 'starting' ? 0.6 : 1}
+          >
+            <Text fontFamily="$heading" fontSize="$3" color="$background">
+              {running
+                ? t('readerSync.stop', 'Stop syncing')
+                : status === 'starting'
+                  ? t('readerSync.starting', 'Starting…')
+                  : t('readerSync.start', 'Start syncing')}
+            </Text>
+          </YStack>
+        </AnimatedPressable>
 
         {running ? (
           <Typography variant="annotation" textAlign="center">
