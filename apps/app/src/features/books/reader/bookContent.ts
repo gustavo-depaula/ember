@@ -184,28 +184,16 @@ export function countTocNodes(toc: TocNode[]): number {
   return n
 }
 
-export function firstLeafId(node: TocNode): string {
-  if (!node.children?.length) return node.id
-  for (const child of node.children) return firstLeafId(child)
-  return node.id
-}
-
-export function countLeavesUnder(node: TocNode): number {
-  if (!node.children?.length) return 1
-  let n = 0
-  for (const child of node.children) n += countLeavesUnder(child)
-  return n
-}
-
 /**
- * groupId → number of leaf chapters beneath it, for every group node, built in
- * one bottom-up pass. Lets a TOC row read its leaf count by id instead of
- * re-walking its subtree on each render.
+ * groupId → summed leaf value beneath it, for every group node, in one
+ * bottom-up pass — `leafValue` scores each leaf (1 to count all, 0/1 to count a
+ * subset). Lets a TOC row read its subtree total by id instead of re-walking on
+ * each render.
  */
-export function buildLeafCountIndex(toc: TocNode[]): Map<string, number> {
+function buildLeafIndex(toc: TocNode[], leafValue: (node: TocNode) => number): Map<string, number> {
   const counts = new Map<string, number>()
   function walk(node: TocNode): number {
-    if (!node.children?.length) return 1
+    if (!node.children?.length) return leafValue(node)
     let n = 0
     for (const child of node.children) n += walk(child)
     counts.set(node.id, n)
@@ -215,21 +203,17 @@ export function buildLeafCountIndex(toc: TocNode[]): Map<string, number> {
   return counts
 }
 
-/** Same as buildLeafCountIndex, but counts only leaves present in `completed`. */
+/** groupId → number of leaf chapters beneath it. */
+export function buildLeafCountIndex(toc: TocNode[]): Map<string, number> {
+  return buildLeafIndex(toc, () => 1)
+}
+
+/** groupId → number of leaves beneath it present in `completed`. */
 export function buildCompletedLeafIndex(
   toc: TocNode[],
   completed: Set<string>,
 ): Map<string, number> {
-  const counts = new Map<string, number>()
-  function walk(node: TocNode): number {
-    if (!node.children?.length) return completed.has(node.id) ? 1 : 0
-    let n = 0
-    for (const child of node.children) n += walk(child)
-    counts.set(node.id, n)
-    return n
-  }
-  for (const node of toc) walk(node)
-  return counts
+  return buildLeafIndex(toc, (node) => (completed.has(node.id) ? 1 : 0))
 }
 
 export function collectAllSectionIds(toc: TocNode[]): Set<string> {

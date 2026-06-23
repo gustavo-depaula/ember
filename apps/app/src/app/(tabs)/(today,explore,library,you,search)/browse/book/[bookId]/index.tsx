@@ -117,6 +117,10 @@ export default function BookDetailScreen() {
     return total > 0 ? total : undefined
   }, [chapterMinutes, leaves, completed])
 
+  const cursor = getCursor(bookRef)
+  const position = cursor ? parseReaderPosition(cursor.position) : undefined
+  const resumeChapterId = position?.chapterId
+
   // Collapsible-tree state for the inline Sumário. Seeded once the manifest
   // loads: small trees open fully (the familiar outline); huge trees stay
   // collapsed to the top level, with the resume chapter's ancestors opened so
@@ -126,14 +130,10 @@ export default function BookDetailScreen() {
   useEffect(() => {
     if (seededExpand.current || !book?.toc) return
     seededExpand.current = true
-    if (tocTooLarge) {
-      const cur = getCursor(bookRef)
-      const resume = cur ? parseReaderPosition(cur.position)?.chapterId : undefined
-      setExpandedIds(ancestorGroupIds(book.toc, resume))
-    } else {
-      setExpandedIds(collectAllSectionIds(book.toc))
-    }
-  }, [book?.toc, tocTooLarge, bookRef])
+    setExpandedIds(
+      tocTooLarge ? ancestorGroupIds(book.toc, resumeChapterId) : collectAllSectionIds(book.toc),
+    )
+  }, [book?.toc, tocTooLarge, resumeChapterId])
 
   const flatToc = useMemo(
     () => (book?.toc ? flattenToc(book.toc, expandedIds) : []),
@@ -183,9 +183,6 @@ export default function BookDetailScreen() {
   const author = authorSrc ? localizeContent(authorSrc as never) : undefined
   const description = book?.description ? localizeContent(book.description) : undefined
 
-  const cursor = getCursor(bookRef)
-  const position = cursor ? parseReaderPosition(cursor.position) : undefined
-  const resumeChapterId = position?.chapterId
   const ctaLabel = resumeChapterId ? t('book.continue') : t('book.startReading')
 
   const currentLeafIndex = position ? leaves.findIndex((l) => l.id === position.chapterId) : -1
@@ -371,9 +368,8 @@ function SumarioHeading({
               </XStack>
             </Pressable>
           ) : null}
-          <YStack flex={1} />
           {showExpandControls ? (
-            <XStack gap="$md">
+            <XStack gap="$md" marginLeft="auto">
               <Pressable onPress={onExpandAll} hitSlop={8} accessibilityRole="button">
                 <Typography variant="interface" fontSize="$1" color="$accent">
                   {t('books.expandAll', { defaultValue: 'Expand all' })}
