@@ -21,8 +21,8 @@
     {
       "type": "prayer",
       "inline": {
-        "en-US": "St. Therese, Little Flower of Jesus, teach me your Little Way of trust, humility, and love. Present my intentions to the Lord and help me offer each moment with generous charity. Amen.",
-        "pt-BR": "Santa Teresinha, Pequena Flor de Jesus, ensinai-me vossa Pequena Via de confiança, humildade e amor. Apresentai minhas intenções ao Senhor e ajudai-me a oferecer cada momento com caridade generosa. Amém."
+        "en-US": "Dearest St. Thérèse of Lisieux, you promised to spend your heaven doing good upon earth. Your trust in God was complete. Teach me your Little Way of confidence and love, present these petitions to the Lord, and obtain for me the grace to love Him more each day. Amen.",
+        "pt-BR": "Querida Santa Teresinha de Lisieux, vós prometestes passar vosso céu fazendo o bem na terra. Vossa confiança em Deus era total. Ensinai-me vossa Pequena Via de confiança e amor, apresentai estes pedidos ao Senhor e alcançai-me a graça de amá-Lo mais a cada dia. Amém."
       }
     },
     {
@@ -49,6 +49,17 @@
         },
         {
           "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Prayer for today:",
+            "pt-BR": "Oração de hoje:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
         },
         {
           "type": "rubric",
@@ -98,8 +109,8 @@
     {
       "type": "prayer",
       "inline": {
-        "en-US": "St. Therese of Lisieux, Little Flower, obtain for us the grace to do small things with great love, to trust Jesus in every trial, and to persevere in holiness. Pray for us now and at the hour of our death. Amen.",
-        "pt-BR": "Santa Teresinha de Lisieux, Pequena Flor, alcançai-nos a graça de fazer as pequenas coisas com grande amor, de confiar em Jesus em toda provação e de perseverar na santidade. Rogai por nós agora e na hora de nossa morte. Amém."
+        "en-US": "St. Thérèse of Lisieux, Little Flower and Doctor of the Church, obtain for us the grace to do small things with great love, to trust Jesus in every trial, and to make our whole life an offering to His Merciful Love. Let fall upon us your shower of roses, and pray for us now and at the hour of our death. Amen.",
+        "pt-BR": "Santa Teresinha de Lisieux, Pequena Flor e Doutora da Igreja, alcançai-nos a graça de fazer as pequenas coisas com grande amor, de confiar em Jesus em toda provação e de fazer de toda a nossa vida uma oferta ao Seu Amor Misericordioso. Fazei cair sobre nós a vossa chuva de rosas e rogai por nós agora e na hora de nossa morte. Amém."
       }
     },
     {

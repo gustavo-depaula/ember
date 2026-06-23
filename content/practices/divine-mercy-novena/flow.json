@@ -56,7 +56,7 @@
         },
         {
           "type": "prayer",
-          "inline": "{{petitionText}}"
+          "inline": "{{prayer}}"
         }
       ]
     },

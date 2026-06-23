@@ -21,8 +21,8 @@
     {
       "type": "prayer",
       "inline": {
-        "en-US": "St. Anthony of Padua, faithful disciple of Christ and servant of the poor, intercede for us before God. Teach us to love the Gospel, seek holiness in ordinary life, and trust in divine providence in every need. Amen.",
-        "pt-BR": "Santo Antônio de Pádua, fiel discípulo de Cristo e servo dos pobres, intercedei por nós diante de Deus. Ensinai-nos a amar o Evangelho, buscar a santidade na vida comum e confiar na providência divina em toda necessidade. Amém."
+        "en-US": "O God, You gave us St. Anthony of Padua as a tireless preacher of the Gospel and a friend of the poor, into whose arms You laid the Christ-Child Himself. Hear the prayers he brings before Your throne on our behalf. Through his intercession, kindle in us a living faith, a burning charity, and unshakable trust in Your providence, so that, seeking first Your Kingdom, we may one day rejoice with him in glory. Amen.",
+        "pt-BR": "Ó Deus, que nos destes Santo Antônio de Pádua como incansável pregador do Evangelho e amigo dos pobres, em cujos braços colocastes o próprio Menino Jesus, ouvi as orações que ele apresenta diante do vosso trono em nosso favor. Por sua intercessão, acendei em nós uma fé viva, uma caridade ardente e uma confiança inabalável na vossa providência, para que, buscando primeiro o vosso Reino, mereçamos um dia alegrar-nos com ele na glória. Amém."
       }
     },
     {
@@ -31,8 +31,8 @@
     {
       "type": "rubric",
       "text": {
-        "en-US": "Read the meditation and offer the intention of the day.",
-        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+        "en-US": "Read the meditation, pray the prayer of the day, and offer your intention.",
+        "pt-BR": "Leia a meditação, reze a oração do dia e ofereça a sua intenção."
       }
     },
     {
@@ -46,6 +46,10 @@
         {
           "type": "meditation",
           "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
         },
         {
           "type": "divider"
@@ -91,15 +95,15 @@
     {
       "type": "rubric",
       "text": {
-        "en-US": "Closing prayer:",
-        "pt-BR": "Oração final:"
+        "en-US": "Closing prayer — the Miraculous Responsory of St. Anthony (\"Si quaeris miracula\"):",
+        "pt-BR": "Oração final — o Responsório Milagroso de Santo Antônio (\"Si quaeris miracula\"):"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "St. Anthony, friend of Jesus and helper of all who call upon you, obtain for us steadfast faith, generous charity, and perseverance in prayer. May we seek first the Kingdom of God and give thanks for every grace received. Amen.",
-        "pt-BR": "Santo Antônio, amigo de Jesus e auxílio de todos os que vos invocam, alcançai-nos fé firme, caridade generosa e perseverança na oração. Que busquemos em primeiro lugar o Reino de Deus e demos graças por cada graça recebida. Amém."
+        "en-US": "If, then, you ask for miracles, death, error, all calamities, leprosy and demons fly, and health succeeds infirmities. The sea obeys, and fetters break, and lifeless limbs you do restore; while treasures lost are found again, when young and old your aid implore. All dangers vanish at your prayer, and direst need does quickly flee; let those who know your power proclaim — let Paduans say — these are of thee. Pray for us, O blessed Anthony, that we may be made worthy of the promises of Christ. Amen.",
+        "pt-BR": "Se buscais milagres, fogem a morte, o erro, as calamidades; a lepra e os demônios se afastam, e a saúde sucede às enfermidades. O mar se acalma, as cadeias se rompem, os membros sem vida são restaurados; os tesouros perdidos são reencontrados, quando jovens e idosos vos invocam. Os perigos se dissipam à vossa prece, e a maior necessidade logo cessa; que o proclamem os que conhecem o vosso poder — que o digam os paduanos — tudo isto vem de vós. Rogai por nós, ó bem-aventurado Antônio, para que sejamos dignos das promessas de Cristo. Amém."
       }
     },
     {

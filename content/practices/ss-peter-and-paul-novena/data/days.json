@@ -8,12 +8,12 @@
           "pt-BR": "Dia 1: Chamado das redes"
         },
         "meditation": {
-          "en-US": "Peter was casting his net into the sea of Galilee when Jesus said, 'Follow me, and I will make you a fisher of men.' At once he left his boat and his livelihood to follow a Master he had only begun to know. He teaches us to answer the Lord's call without delay or condition, trusting that the One who calls will also provide, and that obedience opens the door to a far greater work.",
-          "pt-BR": "Pedro lançava sua rede no mar da Galileia quando Jesus disse: 'Segue-me, e te farei pescador de homens.' De imediato deixou a barca e o seu sustento para seguir um Mestre que mal começava a conhecer. Ele nos ensina a responder ao chamado do Senhor sem demora nem condição, confiando que Aquele que chama também provê, e que a obediência abre a porta de uma obra muito maior."
+          "en-US": "Peter was washing his nets by the lake of Gennesaret when Jesus stepped into his boat, filled it with fish, and said, 'Do not be afraid; from now on you will catch men.' A simple fisherman left boat, catch, and trade to follow a Master he scarcely knew. He shows us that the Lord builds His greatest works from ordinary lives, and that the soul who answers at once, holding nothing back, is drawn into a labor far beyond its own.",
+          "pt-BR": "Pedro lavava as redes junto ao lago de Genesaré quando Jesus entrou em sua barca, encheu-a de peixes e disse: 'Não temas; de agora em diante serás pescador de homens.' Um simples pescador deixou barca, pesca e ofício para seguir um Mestre que mal conhecia. Ele nos mostra que o Senhor edifica as suas maiores obras a partir de vidas comuns, e que a alma que responde de imediato, nada retendo, é atraída a um trabalho muito maior que o seu."
         },
         "prayer": {
-          "en-US": "O glorious Saint Peter, who left your nets at once to follow the Lord, obtain for me the grace to answer Christ's call promptly and without reserve, abandoning whatever holds me back, that I too may become a fisher of souls for His kingdom. Amen.",
-          "pt-BR": "Ó glorioso São Pedro, que deixaste de imediato as tuas redes para seguir o Senhor, alcançai-me a graça de responder prontamente e sem reservas ao chamado de Cristo, abandonando tudo o que me prende, para que também eu me torne pescador de almas para o seu reino. Amém."
+          "en-US": "O glorious Saint Peter, who left your nets at once to follow the Lord, obtain for me the grace to answer Christ's call promptly and without reserve, casting aside whatever holds me back, that I too may become a fisher of souls for His kingdom. Amen.",
+          "pt-BR": "Ó glorioso São Pedro, que deixaste de imediato as tuas redes para seguir o Senhor, alcançai-me a graça de responder prontamente e sem reservas ao chamado de Cristo, lançando longe tudo o que me prende, para que também eu me torne pescador de almas para o seu reino. Amém."
         },
         "intention": {
           "en-US": "For the grace to follow Christ promptly wherever He leads.",
@@ -26,12 +26,12 @@
           "pt-BR": "Dia 2: Tu és a pedra"
         },
         "meditation": {
-          "en-US": "When Jesus asked who the disciples said He was, Peter confessed, 'You are the Christ, the Son of the living God.' Declaring that flesh and blood had not revealed this but the Father, the Lord named him the rock and gave him the keys of the kingdom, with power to bind and to loose. On this confession the unity of the Church still rests, and to Peter's successors that office is handed down.",
-          "pt-BR": "Quando Jesus perguntou quem os discípulos diziam que Ele era, Pedro confessou: 'Tu és o Cristo, o Filho de Deus vivo.' Declarando que não fora a carne nem o sangue a revelar isso, mas o Pai, o Senhor o chamou de pedra e lhe entregou as chaves do reino, com o poder de ligar e desligar. Sobre essa confissão repousa ainda a unidade da Igreja, e aos sucessores de Pedro esse múnus é transmitido."
+          "en-US": "At Caesarea Philippi Jesus asked who the disciples said He was, and Peter alone confessed, 'You are the Christ, the Son of the living God.' Flesh and blood had not taught him this, but the Father in heaven; so the Lord renamed him Rock, swore the gates of hell would never prevail against His Church, and placed in his hands the keys of the kingdom to bind and to loose. On this confession the Church still stands, and to Peter's successors the keys are handed down.",
+          "pt-BR": "Em Cesareia de Filipe, Jesus perguntou quem os discípulos diziam que Ele era, e só Pedro confessou: 'Tu és o Cristo, o Filho de Deus vivo.' Não fora a carne nem o sangue a ensinar-lhe isso, mas o Pai do céu; por isso o Senhor o chamou Pedra, jurou que as portas do inferno jamais prevaleceriam contra a sua Igreja e lhe pôs nas mãos as chaves do reino, para ligar e desligar. Sobre essa confissão a Igreja ainda se firma, e aos sucessores de Pedro as chaves são transmitidas."
         },
         "prayer": {
-          "en-US": "O glorious Saint Peter, rock on whom Christ built His Church and bearer of the keys of the kingdom, obtain for me a firm and living faith in Jesus, the Son of the living God, and preserve the Church in unity around your successor. Amen.",
-          "pt-BR": "Ó glorioso São Pedro, pedra sobre a qual Cristo edificou a sua Igreja e portador das chaves do reino, alcançai-me uma fé firme e viva em Jesus, o Filho de Deus vivo, e conservai a Igreja na unidade em torno do vosso sucessor. Amém."
+          "en-US": "O glorious Saint Peter, rock on whom Christ built His Church and keeper of the keys of the kingdom, obtain for me a firm and living faith in Jesus, the Son of the living God, and hold the Church together in unity around your successor against every gate of hell. Amen.",
+          "pt-BR": "Ó glorioso São Pedro, pedra sobre a qual Cristo edificou a sua Igreja e guarda das chaves do reino, alcançai-me uma fé firme e viva em Jesus, o Filho de Deus vivo, e mantende a Igreja unida em torno do vosso sucessor contra toda porta do inferno. Amém."
         },
         "intention": {
           "en-US": "For unity in the Church around the successor of Peter.",
@@ -40,34 +40,52 @@
       },
       {
         "dayTitle": {
-          "en-US": "Day 3: Peter's tears",
-          "pt-BR": "Dia 3: As lágrimas de Pedro"
+          "en-US": "Day 3: Denial and threefold love",
+          "pt-BR": "Dia 3: A negação e o tríplice amor"
         },
         "meditation": {
-          "en-US": "On the night of the Passion, Peter denied his Master three times, and when the cock crowed and the Lord turned to look at him, he went out and wept bitterly. Yet he was not cast off: by the Sea of Galilee the risen Lord asked him three times, 'Do you love me?', and entrusted His flock to him. He teaches us that no fall is final for the soul that loves and truly repents.",
-          "pt-BR": "Na noite da Paixão, Pedro negou três vezes o seu Mestre, e quando o galo cantou e o Senhor se voltou para olhá-lo, ele saiu e chorou amargamente. Mas não foi rejeitado: junto ao mar da Galileia o Senhor ressuscitado lhe perguntou três vezes: 'Tu me amas?', e lhe confiou o seu rebanho. Ele nos ensina que nenhuma queda é definitiva para a alma que ama e verdadeiramente se arrepende."
+          "en-US": "In the high priest's courtyard Peter swore three times that he did not know the Man; the cock crowed, the Lord turned and looked at him, and he went out and wept bitterly. Yet he was not cast off. By the Sea of Tiberias the risen Lord asked him three times, 'Simon, do you love me?', and to each answer entrusted His flock: 'Feed my sheep.' The threefold charge undid the threefold denial, teaching us that no fall is final for the heart that loves and repents.",
+          "pt-BR": "No pátio do sumo sacerdote, Pedro jurou três vezes que não conhecia aquele Homem; o galo cantou, o Senhor se voltou e olhou para ele, e ele saiu e chorou amargamente. Mas não foi rejeitado. Junto ao mar de Tiberíades o Senhor ressuscitado lhe perguntou três vezes: 'Simão, tu me amas?', e a cada resposta lhe confiou o seu rebanho: 'Apascenta as minhas ovelhas.' O tríplice encargo desfez a tríplice negação, ensinando-nos que nenhuma queda é definitiva para o coração que ama e se arrepende."
         },
         "prayer": {
-          "en-US": "O glorious Saint Peter, who wept bitterly for your denial and were restored by the Lord's mercy, obtain for me the grace of true contrition and tears for my own sins, and unshakable confidence in the mercy that lifts up every repentant heart. Amen.",
-          "pt-BR": "Ó glorioso São Pedro, que choraste amargamente a tua negação e foste reerguido pela misericórdia do Senhor, alcançai-me a graça de uma verdadeira contrição e de lágrimas por meus próprios pecados, e uma confiança inabalável na misericórdia que reergue todo coração arrependido. Amém."
+          "en-US": "O glorious Saint Peter, who wept for your denial and were raised up to feed Christ's flock, obtain for me the grace of true contrition and tears for my sins, and the love that answers, 'Lord, you know that I love you,' even after I have fallen. Amen.",
+          "pt-BR": "Ó glorioso São Pedro, que choraste a tua negação e foste reerguido para apascentar o rebanho de Cristo, alcançai-me a graça de uma verdadeira contrição e de lágrimas pelos meus pecados, e o amor que responde: 'Senhor, tu sabes que te amo', mesmo depois de eu ter caído. Amém."
         },
         "intention": {
-          "en-US": "For the grace of tears over my sins and confidence in God's mercy.",
-          "pt-BR": "Pela graça das lágrimas pelos meus pecados e pela confiança na misericórdia de Deus."
+          "en-US": "For the grace of contrition and a love that rises after every fall.",
+          "pt-BR": "Pela graça da contrição e de um amor que se reergue depois de cada queda."
         }
       },
       {
         "dayTitle": {
-          "en-US": "Day 4: Paul on the Damascus road",
-          "pt-BR": "Dia 4: Paulo no caminho de Damasco"
+          "en-US": "Day 4: Filled with the Spirit at Pentecost",
+          "pt-BR": "Dia 4: Cheio do Espírito em Pentecostes"
         },
         "meditation": {
-          "en-US": "Saul, breathing threats and murder against the disciples, was journeying to Damascus to arrest them when a light from heaven flashed about him and threw him to the ground. He heard the voice, 'Saul, Saul, why do you persecute me?' In an instant the fiercest persecutor became the chosen vessel and apostle, proof that no heart is beyond the reach of grace and that God can turn an enemy into His most ardent friend.",
-          "pt-BR": "Saulo, que respirava ameaças e morte contra os discípulos, ia a Damasco para prendê-los quando uma luz do céu o envolveu e o lançou por terra. Ouviu a voz: 'Saulo, Saulo, por que me persegues?' Num instante o mais feroz perseguidor tornou-se o vaso escolhido e apóstolo, prova de que nenhum coração está fora do alcance da graça e de que Deus pode transformar um inimigo em seu mais ardente amigo."
+          "en-US": "The fisherman who had cowered before a servant girl stood up before all Jerusalem on the day of Pentecost, filled with the Holy Spirit, and preached Christ crucified and risen. Cut to the heart, three thousand were baptized that day. The fire promised by the Lord had fallen, and fear was burned away into boldness. Peter teaches us that the same Spirit who made him a fearless herald is given to us, to loosen our tongues and steady our hearts for Christ.",
+          "pt-BR": "O pescador que tremera diante de uma criada levantou-se diante de toda Jerusalém no dia de Pentecostes, cheio do Espírito Santo, e pregou Cristo crucificado e ressuscitado. Tocados no coração, três mil foram batizados naquele dia. O fogo prometido pelo Senhor havia descido, e o medo foi consumido em ousadia. Pedro nos ensina que o mesmo Espírito que fez dele um arauto destemido é dado a nós, para desatar a nossa língua e firmar o nosso coração por Cristo."
         },
         "prayer": {
-          "en-US": "O glorious Saint Paul, struck down on the Damascus road and raised up an apostle, obtain by your prayers the conversion of hardened sinners and of all who oppose the faith, that the same grace which mastered your heart may break every resistance to the Lord. Amen.",
-          "pt-BR": "Ó glorioso São Paulo, prostrado no caminho de Damasco e reerguido como apóstolo, alcançai por vossas preces a conversão dos pecadores endurecidos e de todos os que se opõem à fé, para que a mesma graça que dominou o vosso coração quebre toda resistência ao Senhor. Amém."
+          "en-US": "O glorious Saint Peter, who on the day of Pentecost preached Christ with fearless tongue and won three thousand souls, obtain for me the fire of the Holy Spirit, that I may confess my faith with boldness and never again be silenced by human fear. Amen.",
+          "pt-BR": "Ó glorioso São Pedro, que no dia de Pentecostes pregaste a Cristo com língua destemida e ganhaste três mil almas, alcançai-me o fogo do Espírito Santo, para que eu confesse a minha fé com ousadia e nunca mais seja silenciado pelo medo dos homens. Amém."
+        },
+        "intention": {
+          "en-US": "For boldness to profess the faith without fear of others.",
+          "pt-BR": "Pela ousadia de professar a fé sem medo dos outros."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 5: Paul on the Damascus road",
+          "pt-BR": "Dia 5: Paulo no caminho de Damasco"
+        },
+        "meditation": {
+          "en-US": "Saul, breathing threats and slaughter against the disciples, was nearing Damascus to drag them off in chains when a light from heaven flashed about him and threw him to the ground. He heard the voice, 'Saul, Saul, why do you persecute me?'—for to strike the Church is to strike her Lord. In an instant the fiercest persecutor became the chosen vessel and apostle, proof that no heart is beyond grace, and that God can turn His enemy into His most ardent friend.",
+          "pt-BR": "Saulo, que respirava ameaças e morte contra os discípulos, aproximava-se de Damasco para arrastá-los acorrentados quando uma luz do céu o envolveu e o lançou por terra. Ouviu a voz: 'Saulo, Saulo, por que me persegues?' — pois ferir a Igreja é ferir o seu Senhor. Num instante o mais feroz perseguidor tornou-se o vaso escolhido e apóstolo, prova de que nenhum coração está fora do alcance da graça, e de que Deus pode transformar o seu inimigo em seu mais ardente amigo."
+        },
+        "prayer": {
+          "en-US": "O glorious Saint Paul, struck down on the Damascus road and raised up an apostle, obtain by your prayers the conversion of hardened sinners and of all who fight against the faith, that the same grace which mastered your heart may break down every resistance to the Lord. Amen.",
+          "pt-BR": "Ó glorioso São Paulo, prostrado no caminho de Damasco e reerguido como apóstolo, alcançai por vossas preces a conversão dos pecadores endurecidos e de todos os que combatem a fé, para que a mesma graça que dominou o vosso coração derrube toda resistência ao Senhor. Amém."
         },
         "intention": {
           "en-US": "For the conversion of sinners and of those who oppose the faith.",
@@ -76,12 +94,12 @@
       },
       {
         "dayTitle": {
-          "en-US": "Day 5: Apostle to the gentiles",
-          "pt-BR": "Dia 5: Apóstolo dos gentios"
+          "en-US": "Day 6: Apostle to the gentiles",
+          "pt-BR": "Dia 6: Apóstolo dos gentios"
         },
         "meditation": {
-          "en-US": "Paul carried the Gospel across sea and land, through shipwreck, hunger, and prison, becoming all things to all men that he might by all means save some. He preached in synagogues and marketplaces, founded churches throughout the empire, and never counted the cost. His tireless travels remind us that the faith is meant for every nation and that the love of Christ urges us to share it without ceasing.",
-          "pt-BR": "Paulo levou o Evangelho por mar e por terra, através de naufrágios, da fome e do cárcere, fazendo-se tudo para todos a fim de, por todos os meios, salvar alguns. Pregou nas sinagogas e nas praças, fundou igrejas por todo o império e nunca mediu o custo. Suas viagens incansáveis nos recordam que a fé é destinada a todas as nações e que o amor de Cristo nos impele a anunciá-la sem cessar."
+          "en-US": "Paul carried the Gospel across sea and land, through shipwreck, hunger, scourging, and prison, becoming all things to all men that he might by all means save some. He preached in synagogues and marketplaces, reasoned with philosophers at Athens, founded churches across the empire, and wrote the letters that still teach the Church. His tireless labors remind us that the faith is meant for every nation, and that the love of Christ urges us on to share it without ceasing.",
+          "pt-BR": "Paulo levou o Evangelho por mar e por terra, através de naufrágios, da fome, dos açoites e do cárcere, fazendo-se tudo para todos a fim de, por todos os meios, salvar alguns. Pregou nas sinagogas e nas praças, discutiu com os filósofos em Atenas, fundou igrejas por todo o império e escreveu as cartas que ainda ensinam a Igreja. Seus trabalhos incansáveis nos recordam que a fé é para toda nação, e que o amor de Cristo nos impele a anunciá-la sem cessar."
         },
         "prayer": {
           "en-US": "O glorious Saint Paul, tireless apostle to the gentiles who spared no labor to win souls for Christ, obtain for me a missionary heart and bless all who carry the Gospel today, that it may reach every nation and people on earth. Amen.",
@@ -94,12 +112,12 @@
       },
       {
         "dayTitle": {
-          "en-US": "Day 6: Strength in weakness",
-          "pt-BR": "Dia 6: Força na fraqueza"
+          "en-US": "Day 7: Strength made perfect in weakness",
+          "pt-BR": "Dia 7: A força aperfeiçoada na fraqueza"
         },
         "meditation": {
-          "en-US": "Paul carried a thorn in the flesh and three times begged the Lord to remove it, but he was told, 'My grace is sufficient for you; my power is made perfect in weakness.' So he learned to boast gladly of his weaknesses, that the power of Christ might rest upon him. He teaches that God works most powerfully when we rely least on ourselves, and that our very limitations become the channel of His strength.",
-          "pt-BR": "Paulo trazia um espinho na carne e três vezes suplicou ao Senhor que o tirasse, mas ouviu: 'Basta-te a minha graça; a força se aperfeiçoa na fraqueza.' Assim aprendeu a gloriar-se de bom grado de suas fraquezas, para que o poder de Cristo repousasse sobre ele. Ele ensina que Deus age com mais força quando menos confiamos em nós mesmos, e que nossas próprias limitações se tornam o canal de sua força."
+          "en-US": "Paul carried a thorn in the flesh and three times begged the Lord to remove it, but he was answered, 'My grace is sufficient for you; my power is made perfect in weakness.' So he learned to boast gladly of his weaknesses, that the power of Christ might rest upon him. He teaches that God works most mightily where we lean least on ourselves, and that our very frailty, surrendered to Him, becomes the open channel of His strength.",
+          "pt-BR": "Paulo trazia um espinho na carne e três vezes suplicou ao Senhor que o tirasse, mas ouviu como resposta: 'Basta-te a minha graça; a força se aperfeiçoa na fraqueza.' Assim aprendeu a gloriar-se de bom grado de suas fraquezas, para que o poder de Cristo repousasse sobre ele. Ele ensina que Deus age com mais força onde menos confiamos em nós mesmos, e que a nossa própria fragilidade, entregue a Ele, se torna o canal aberto da sua força."
         },
         "prayer": {
           "en-US": "O glorious Saint Paul, who gloried in your weakness that the power of Christ might rest upon you, obtain for me the grace to trust God's strength in my own frailty and trials, that where I am weak His grace may be made perfect in me. Amen.",
@@ -112,52 +130,34 @@
       },
       {
         "dayTitle": {
-          "en-US": "Day 7: The charity of Paul",
-          "pt-BR": "Dia 7: A caridade de Paulo"
+          "en-US": "Day 8: Delivered from prison",
+          "pt-BR": "Dia 8: Livrado da prisão"
         },
         "meditation": {
-          "en-US": "Paul wrote that though he spoke with the tongues of angels and possessed all knowledge, without love he would be nothing, for love is patient and kind, bears all things, and never fails. He places charity above every gift, every prophecy, and every act of sacrifice, naming it the greatest of the virtues that abide. He teaches us that all our striving is empty unless it is animated by genuine love.",
-          "pt-BR": "Paulo escreveu que, ainda que falasse as línguas dos anjos e possuísse todo o saber, sem amor nada seria, pois o amor é paciente e benigno, tudo suporta e jamais acaba. Ele coloca a caridade acima de todo dom, de toda profecia e de todo sacrifício, chamando-a a maior das virtudes que permanecem. Ele nos ensina que todo o nosso esforço é vazio se não for animado por um amor sincero."
+          "en-US": "Herod seized Peter and bound him with two chains between four squads of soldiers, but the Church prayed for him without ceasing. In the night an angel woke him, the chains fell from his hands, and the iron gate opened of itself; only outside did he grasp that the Lord had set him free. Both apostles knew chains for Christ's sake, yet neither power nor prison could silence them. They teach us to keep faith in the darkest hour and to trust the prayer of the Church.",
+          "pt-BR": "Herodes prendeu Pedro e o acorrentou com duas cadeias entre quatro grupos de soldados, mas a Igreja orava por ele sem cessar. Durante a noite um anjo o despertou, as cadeias caíram de suas mãos, e o portão de ferro se abriu por si mesmo; só do lado de fora ele compreendeu que o Senhor o havia libertado. Ambos os apóstolos conheceram as cadeias por amor de Cristo, mas nem o poder nem a prisão puderam silenciá-los. Eles nos ensinam a guardar a fé na hora mais escura e a confiar na oração da Igreja."
         },
         "prayer": {
-          "en-US": "O glorious Saint Paul, who taught that without love we are nothing, obtain for me the gift of genuine charity that is patient and kind and bears all things, that in every word and work and relationship the love of Christ may shine through me. Amen.",
-          "pt-BR": "Ó glorioso São Paulo, que ensinastes que sem amor nada somos, alcançai-me o dom de uma caridade sincera, que é paciente e benigna e tudo suporta, para que em cada palavra, obra e relação o amor de Cristo resplandeça em mim. Amém."
+          "en-US": "O glorious Saint Peter, whom the angel led from Herod's prison while the Church prayed for you, obtain freedom for all who are bound for the faith, comfort the persecuted, and break in me every chain of sin and fear that keeps me from the Lord. Amen.",
+          "pt-BR": "Ó glorioso São Pedro, a quem o anjo conduziu para fora do cárcere de Herodes enquanto a Igreja orava por ti, alcançai a liberdade para todos os que estão presos pela fé, consolai os perseguidos e quebrai em mim toda cadeia de pecado e de medo que me afasta do Senhor. Amém."
         },
         "intention": {
-          "en-US": "For the gift of genuine charity in all my relationships.",
-          "pt-BR": "Pelo dom da caridade sincera em todas as minhas relações."
+          "en-US": "For Christians persecuted and imprisoned for the faith.",
+          "pt-BR": "Pelos cristãos perseguidos e presos por causa da fé."
         }
       },
       {
         "dayTitle": {
-          "en-US": "Day 8: Feed my sheep",
-          "pt-BR": "Dia 8: Apascenta as minhas ovelhas"
+          "en-US": "Day 9: The good fight finished in Rome",
+          "pt-BR": "Dia 9: O bom combate consumado em Roma"
         },
         "meditation": {
-          "en-US": "By the Sea of Tiberias the risen Lord asked Peter three times whether he loved Him, and three times entrusted His flock, saying, 'Feed my lambs, feed my sheep.' The threefold charge undid the threefold denial and made the fisherman a shepherd. He teaches us that to love Christ is inseparable from caring for His people, and that every pastor must lead the flock not by power but by love.",
-          "pt-BR": "Junto ao mar de Tiberíades o Senhor ressuscitado perguntou três vezes a Pedro se o amava, e três vezes lhe confiou o seu rebanho, dizendo: 'Apascenta os meus cordeiros, apascenta as minhas ovelhas.' O tríplice encargo desfez a tríplice negação e fez do pescador um pastor. Ele nos ensina que amar a Cristo é inseparável de cuidar do seu povo, e que todo pastor deve guiar o rebanho não pelo poder, mas pelo amor."
+          "en-US": "Both apostles bore witness in Rome unto death and sealed the faith with their blood. Tradition holds that Peter, judging himself unworthy to die as his Master had, asked to be crucified head downward, while Paul, a Roman citizen, was led out and beheaded. Looking to his end, Paul could write, 'I have fought the good fight, I have finished the race, I have kept the faith.' Honored together on one day, they teach us to remain faithful to the very last.",
+          "pt-BR": "Ambos os apóstolos testemunharam em Roma até a morte e selaram a fé com o seu sangue. A tradição relata que Pedro, julgando-se indigno de morrer como o seu Mestre, pediu para ser crucificado de cabeça para baixo, enquanto Paulo, cidadão romano, foi levado e decapitado. Olhando para o seu fim, Paulo pôde escrever: 'Combati o bom combate, terminei a corrida, guardei a fé.' Honrados juntos num só dia, eles nos ensinam a permanecer fiéis até o último instante."
         },
         "prayer": {
-          "en-US": "O glorious Saint Peter, to whom the risen Lord entrusted His flock with the words 'Feed my sheep,' obtain for the Pope, the bishops, and all shepherds of souls a heart full of love, that they may guide the people of God with wisdom, courage, and tender care. Amen.",
-          "pt-BR": "Ó glorioso São Pedro, a quem o Senhor ressuscitado confiou o seu rebanho com as palavras 'Apascenta as minhas ovelhas', alcançai ao Papa, aos bispos e a todos os pastores de almas um coração cheio de amor, para que conduzam o povo de Deus com sabedoria, coragem e ternura. Amém."
-        },
-        "intention": {
-          "en-US": "For the Pope, bishops, and all shepherds of souls.",
-          "pt-BR": "Pelo Papa, pelos bispos e por todos os pastores de almas."
-        }
-      },
-      {
-        "dayTitle": {
-          "en-US": "Day 9: The good fight finished",
-          "pt-BR": "Dia 9: O bom combate consumado"
-        },
-        "meditation": {
-          "en-US": "Both apostles bore witness in Rome unto death, Peter crucified and Paul beheaded, sealing the faith they preached with their own blood. Tradition holds that Peter asked to be crucified head downward, unworthy to die as his Master had. Looking toward his end, Paul could write, 'I have fought the good fight, I have finished the race, I have kept the faith.' They teach us to remain faithful to the last.",
-          "pt-BR": "Ambos os apóstolos testemunharam em Roma até a morte, Pedro crucificado e Paulo decapitado, selando com o próprio sangue a fé que pregaram. A tradição relata que Pedro pediu para ser crucificado de cabeça para baixo, julgando-se indigno de morrer como o seu Mestre. Olhando para o seu fim, Paulo pôde escrever: 'Combati o bom combate, terminei a corrida, guardei a fé.' Eles nos ensinam a permanecer fiéis até o último instante."
-        },
-        "prayer": {
-          "en-US": "O glorious Apostles Peter and Paul, who fought the good fight and kept the faith unto a martyr's death, obtain for me the grace of perseverance to the end and a holy death, that having kept the faith on earth I may share your crown in heaven. Amen.",
-          "pt-BR": "Ó gloriosos Apóstolos Pedro e Paulo, que combatestes o bom combate e guardastes a fé até a morte de mártir, alcançai-me a graça da perseverança até o fim e de uma santa morte, para que, tendo guardado a fé na terra, eu participe de vossa coroa no céu. Amém."
+          "en-US": "O glorious Apostles Peter and Paul, who fought the good fight in Rome and kept the faith unto a martyr's death, obtain for me the grace of perseverance to the end and a holy death, that having kept the faith on earth I may share your crown in heaven. Amen.",
+          "pt-BR": "Ó gloriosos Apóstolos Pedro e Paulo, que combatestes o bom combate em Roma e guardastes a fé até a morte de mártir, alcançai-me a graça da perseverança até o fim e de uma santa morte, para que, tendo guardado a fé na terra, eu participe de vossa coroa no céu. Amém."
         },
         "intention": {
           "en-US": "For the grace of perseverance and a holy death.",

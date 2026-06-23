@@ -95,15 +95,22 @@
     {
       "type": "rubric",
       "text": {
-        "en-US": "Closing prayer:",
-        "pt-BR": "Oração final:"
+        "en-US": "Closing prayer — the Angel of God:",
+        "pt-BR": "Oração final — o Santo Anjo do Senhor:"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "My faithful Guardian Angel, carry my prayers before the throne of God and obtain for me the grace I now implore. Enlighten, guard, rule, and guide me, that one day I may praise God with you forever. Amen.",
-        "pt-BR": "Meu fiel Anjo da Guarda, levai as minhas orações diante do trono de Deus e alcançai-me a graça que agora imploro. Iluminai-me, guardai-me, regei-me e guiai-me, para que um dia eu louve a Deus convosco para sempre. Amém."
+        "en-US": "Angel of God, my guardian dear, to whom God's love commits me here, ever this day be at my side, to light and guard, to rule and guide. Amen.",
+        "pt-BR": "Santo Anjo do Senhor, meu zeloso guardador, se a mim confiou a piedade divina, sempre me rege, me guarda, me governa e me ilumina. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "My faithful Guardian Angel, carry the prayers of this novena before the throne of God and obtain for me the grace I now implore. Watch over me until that day when I may praise God with you forever in heaven. Amen.",
+        "pt-BR": "Meu fiel Anjo da Guarda, levai as orações desta novena diante do trono de Deus e alcançai-me a graça que agora imploro. Velai por mim até o dia em que eu possa louvar a Deus convosco para sempre no céu. Amém."
       }
     },
     {
