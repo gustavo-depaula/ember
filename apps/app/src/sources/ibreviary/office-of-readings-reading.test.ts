@@ -61,6 +61,25 @@ describe('extractSecondReading — all editions', () => {
   })
 })
 
+describe('extractSecondReading — markup variants', () => {
+  // Some hand-edited days inline the rubric red on a bare <span> instead of
+  // class="rubrica" (e.g. June 22 2026 pt: SEGUNDA LEITURA → São Gregório de
+  // Nissa). The parser must still treat that label as a rubric so the anchor is
+  // found. Regression for "ibreviary: Office of Readings second reading not found".
+  it('handles an inline-styled (no class="rubrica") SEGUNDA LEITURA label', () => {
+    const reading = extractSecondReading(
+      parseHour(load('pt-ufficio_delle_letture-inline-rubric.html')),
+      'pt-BR',
+    )
+    const text = allText(reading)
+    expect(text).toContain('São Gregório de Nissa')
+    expect(text).not.toContain('SEGUNDA LEITURA')
+    expect(text).not.toContain('PRIMEIRA LEITURA')
+    expect(text).not.toContain('Golias') // first reading (Samuel/David)
+    expect(text).not.toContain('RESPONSÓRIO')
+  })
+})
+
 describe('extractSecondReading — failure contract', () => {
   it('throws when the second reading is absent (so nothing junk caches)', () => {
     const stub: Primitive[] = [{ type: 'rubric', text: { primary: 'FIRST READING' } }]
