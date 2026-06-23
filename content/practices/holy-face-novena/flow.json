@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to the Holy Face of Jesus",
+        "pt-BR": "Novena à Santa Face"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Lord, I desire to seek Your Face; do not turn it from me because of my sins, nor take Your Holy Spirit from me. Let the light of Your Face shine upon me as I begin this novena. Receive my poor desire to console You and to make reparation, and through Your suffering Face obtain for me the grace I now implore. Amen.",
+        "pt-BR": "Senhor, desejo buscar a Vossa Face; não a desvieis de mim por causa dos meus pecados, nem retireis de mim o Vosso Espírito Santo. Que a luz da Vossa Face brilhe sobre mim ao iniciar esta novena. Acolhei meu pobre desejo de Vos consolar e reparar e, por Vossa Face sofredora, alcançai-me a graça que agora imploro. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "holy-face-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Almighty and merciful God, grant, we beseech You, that we who venerate the Face of Your Christ, disfigured in His Passion for our sins, may be found worthy to contemplate it eternally in the splendor of Your glory. May that sacred countenance be my light in this life, my reparation for the blasphemies that wound You, and my joy forever. Amen.",
+        "pt-BR": "Deus todo-poderoso e misericordioso, concedei-nos, nós Vos suplicamos, que, venerando a Face do Vosso Cristo, desfigurada na Paixão por nossos pecados, mereçamos contemplá-la eternamente no esplendor da Vossa glória. Que esse sagrado semblante seja minha luz nesta vida, minha reparação pelas blasfêmias que Vos ferem e minha alegria para sempre. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

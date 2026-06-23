@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Alphonsus Liguori",
+        "pt-BR": "Novena a Santo Afonso Maria de Ligório"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious St. Alphonsus, who left the honors of the world to serve the souls most forgotten, obtain for me a heart on fire with love of God. Teach me, by your tenderness toward sinners, never to despair of God's mercy. Amen.",
+        "pt-BR": "Glorioso Santo Afonso, que deixastes as honras do mundo para servir as almas mais esquecidas, alcançai-me um coração ardente de amor a Deus. Ensinai-me, por vossa ternura para com os pecadores, a nunca desesperar da misericórdia divina. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-alphonsus-liguori-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Alphonsus, doctor of prayer and herald of Mary, lead me ever closer to Jesus in the Blessed Sacrament and to His Mother, our hope. Obtain for me the grace I now ask, and above all the grace of final perseverance. Amen.",
+        "pt-BR": "Santo Afonso, doutor da oração e arauto de Maria, conduzi-me sempre mais perto de Jesus no Santíssimo Sacramento e de sua Mãe, nossa esperança. Alcançai-me a graça que agora vos peço e, acima de tudo, a graça da perseverança final. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

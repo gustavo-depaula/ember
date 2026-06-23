@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to Our Lady of the Rosary",
+        "pt-BR": "Novena a Nossa Senhora do Rosário"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Queen of the Holy Rosary, who delights to lead your children through the mysteries of your Son, gather me now beneath your mantle. Teach me to pray the Gospel with your own loving heart, and obtain for me the grace I implore in this novena. Amen.",
+        "pt-BR": "Ó Rainha do Santíssimo Rosário, que vos comprazeis em conduzir vossos filhos pelos mistérios de vosso Filho, recolhei-me agora sob o vosso manto. Ensinai-me a rezar o Evangelho com o vosso próprio coração amoroso, e alcançai-me a graça que imploro nesta novena. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "our-lady-of-the-rosary-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Queen of the Holy Rosary, terror of demons and help of Christians, who at Lepanto turned defeat into triumph, fight now for me in every spiritual battle. Bind me ever closer to your Son through your most holy beads, that I may share at last in the glory of His mysteries. Amen.",
+        "pt-BR": "Ó Rainha do Santíssimo Rosário, terror dos demônios e auxílio dos cristãos, que em Lepanto transformastes a derrota em triunfo, combatei agora por mim em toda batalha espiritual. Uni-me cada vez mais ao vosso Filho por vossas santíssimas contas, para que eu participe enfim da glória de Seus mistérios. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

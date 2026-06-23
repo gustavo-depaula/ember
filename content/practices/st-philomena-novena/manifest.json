@@ -1,0 +1,58 @@
+{
+  "id": "st-philomena-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Philomena",
+    "pt-BR": "Novena a Santa Filomena"
+  },
+  "subtitle": {
+    "en-US": "Aug 1–9",
+    "pt-BR": "1–9 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-philomena-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Philomena, the young virgin and martyr known as the Wonderworker, beloved patroness of the Curé of Ars, model of purity and courage, and powerful intercessor in difficult causes.",
+    "pt-BR": "Uma novena de nove dias a Santa Filomena, a jovem virgem e mártir conhecida como Taumaturga, amada padroeira do Cura d'Ars, modelo de pureza e coragem, e poderosa intercessora nas causas difíceis."
+  },
+  "history": {
+    "en-US": "In 1802 a tomb was found in the Catacomb of Priscilla in Rome bearing the name Filumena and the symbols of virginity and martyrdom, with a vial of dried blood beside the bones. Tradition holds she was a young girl who consecrated her virginity to Christ and died rather than betray it, around the early fourth century. After her relics were brought to Mugnano in Italy, many miracles followed, and St. John Vianney made her his celestial patroness.",
+    "pt-BR": "Em 1802, foi encontrado na Catacumba de Priscila, em Roma, um túmulo com o nome Filumena e os símbolos da virgindade e do martírio, com um frasco de sangue seco junto aos ossos. A tradição diz que era uma jovem que consagrou sua virgindade a Cristo e preferiu morrer a traí-la, por volta do início do século IV. Levadas suas relíquias a Mugnano, na Itália, sucederam-se muitos milagres, e São João Maria Vianney fez dela a sua padroeira celeste."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 230,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

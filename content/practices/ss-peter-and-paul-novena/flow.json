@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to SS. Peter and Paul",
+        "pt-BR": "Novena a São Pedro e São Paulo"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Holy Apostles Peter and Paul, chosen pillars of Christ's Church, you laid down your lives in Rome for the faith you proclaimed. As I begin this novena, obtain for me a faith as firm as Peter's and a zeal as burning as Paul's. Watch over the Church you founded with your blood. Amen.",
+        "pt-BR": "Santos Apóstolos Pedro e Paulo, colunas escolhidas da Igreja de Cristo, vós destes a vida em Roma pela fé que anunciastes. Ao iniciar esta novena, alcançai-me uma fé tão firme quanto a de Pedro e um zelo tão ardente quanto o de Paulo. Velai pela Igreja que fundastes com vosso sangue. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "ss-peter-and-paul-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious Apostles, Peter holding the keys and Paul wielding the sword of the Spirit, intercede for the Church and for the Holy Father who sits in Peter's chair. Keep me faithful to the apostolic faith you handed down. Lead me at last to the crown you now wear. Amen.",
+        "pt-BR": "Gloriosos Apóstolos, Pedro com as chaves e Paulo com a espada do Espírito, intercedei pela Igreja e pelo Santo Padre que se assenta na cátedra de Pedro. Conservai-me fiel à fé apostólica que nos transmitistes. Conduzi-me enfim à coroa que agora ostentais. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

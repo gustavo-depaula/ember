@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Gianna Beretta Molla",
+        "pt-BR": "Novena a Santa Gianna Beretta Molla"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Gianna, faithful physician and devoted mother, you served Christ in the sick, the young, and the unborn with tender and competent love. Draw near to me now as I begin this novena, and teach me to make a gift of my whole life. Obtain for me from God the grace I seek and a heart wholly His. Amen.",
+        "pt-BR": "Santa Gianna, médica fiel e mãe devotada, vós servistes a Cristo nos doentes, nas crianças e nos não nascidos com amor terno e competente. Aproximai-vos de mim agora, ao iniciar esta novena, e ensinai-me a fazer da minha vida inteira um dom. Alcançai-me de Deus a graça que peço e um coração todo Seu. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-gianna-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Gianna, who in your final hour repeated, \"If you must choose, save the baby,\" and offered your life without reserve, intercede for me before the throne of God. Help me to find Christ in the duties of each ordinary day and to love until the end. Through your prayers, may I one day join you in the joy of heaven. Amen.",
+        "pt-BR": "Santa Gianna, que em vossa hora derradeira repetistes: \"Se for preciso escolher, salvem a criança\", e oferecestes a vida sem reservas, intercedei por mim diante do trono de Deus. Ajudai-me a encontrar Cristo nos deveres de cada dia comum e a amar até o fim. Por vossas orações, possa eu um dia unir-me a vós na alegria do céu. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ss-louis-zelie-martin-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to SS. Louis and Zélie Martin",
+    "pt-BR": "Novena a São Luís e Santa Zélia Martin"
+  },
+  "subtitle": {
+    "en-US": "Jul 3–11",
+    "pt-BR": "3–11 de julho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "ss-louis-zelie-martin-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "Nine days with the first married couple canonized together, parents of St. Thérèse, who made holiness of an ordinary family life.",
+    "pt-BR": "Nove dias com o primeiro casal canonizado em conjunto, pais de Santa Teresinha, que fizeram da vida familiar comum um caminho de santidade."
+  },
+  "history": {
+    "en-US": "Louis Martin, a watchmaker, and Zélie Guérin, a skilled Alençon lacemaker, married in 1858 and raised their children in Normandy in deep faith. Of their nine children, five daughters survived, including St. Thérèse of Lisieux; four entered Carmel. Zélie died of breast cancer in 1877 and Louis after years of illness in 1894. Canonized together in 2015, they show that the path to holiness runs through marriage, work, and family.",
+    "pt-BR": "Luís Martin, relojoeiro, e Zélia Guérin, hábil rendeira de Alençon, casaram-se em 1858 e criaram os filhos na Normandia numa fé profunda. Dos seus nove filhos sobreviveram cinco filhas, entre elas Santa Teresinha de Lisieux; quatro entraram no Carmelo. Zélia morreu de câncer de mama em 1877 e Luís após anos de enfermidade em 1894. Canonizados juntos em 2015, mostram que o caminho da santidade passa pelo matrimônio, pelo trabalho e pela família."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 224,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

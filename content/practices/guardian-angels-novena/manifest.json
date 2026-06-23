@@ -1,0 +1,58 @@
+{
+  "id": "guardian-angels-novena",
+  "icon": "angel",
+  "name": {
+    "en-US": "Novena to the Guardian Angels",
+    "pt-BR": "Novena aos Santos Anjos da Guarda"
+  },
+  "subtitle": {
+    "en-US": "Sep 23–Oct 1",
+    "pt-BR": "23 de setembro–1 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "guardian-angels-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to the Holy Guardian Angels, the heavenly companions God gives to each soul to guard, guide, and bring us safely home.",
+    "pt-BR": "Uma novena de nove dias aos Santos Anjos da Guarda, os companheiros celestes que Deus dá a cada alma para guardá-la, guiá-la e conduzi-la com segurança à pátria."
+  },
+  "history": {
+    "en-US": "The Church teaches that 'from infancy to death human life is surrounded by their watchful care' (CCC 336), and Our Lord warned that the angels of the little ones 'always behold the face of My Father' (Matthew 18:10). From the Psalms — 'He has given His angels charge over you' — flows the cherished prayer 'Angel of God, my guardian dear.' The feast of the Guardian Angels is kept on October 2.",
+    "pt-BR": "A Igreja ensina que 'desde a infância até a morte, a vida humana está cercada por sua proteção vigilante' (CIC 336), e Nosso Senhor advertiu que os anjos dos pequeninos 'veem sempre a face de meu Pai' (Mateus 18,10). Dos Salmos — 'Ele dará ordens a seus anjos a teu respeito' — brota a querida oração 'Santo Anjo do Senhor, meu zeloso guardador'. A festa dos Santos Anjos da Guarda é celebrada em 2 de outubro."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 244,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Bernard of Clairvaux",
+        "pt-BR": "Novena a São Bernardo de Claraval"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O St. Bernard, mellifluous Doctor and faithful servant of Mary, your every word breathed love for Jesus Christ. Teach me to love God for his own sake, and to find in his Holy Name the sweetness that drew your heart heavenward. Amen.",
+        "pt-BR": "Ó São Bernardo, Doutor melífluo e fiel servo de Maria, cada palavra vossa respirava amor a Jesus Cristo. Ensinai-me a amar a Deus por Ele mesmo e a encontrar no seu Santo Nome a doçura que elevava o vosso coração ao céu. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-bernard-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Bernard, who taught us never to despair of Mary's help, present to her the petition I bring in this novena. Obtain for me a heart on fire with love of God, and lead me at last to contemplate forever the One whom you so longed to see. Amen.",
+        "pt-BR": "São Bernardo, que nos ensinastes a jamais desesperar do auxílio de Maria, apresentai a ela o pedido que trago nesta novena. Alcançai-me um coração ardente de amor a Deus e conduzi-me enfim a contemplar para sempre Aquele que tanto desejastes ver. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

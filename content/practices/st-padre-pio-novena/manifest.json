@@ -1,0 +1,58 @@
+{
+  "id": "st-padre-pio-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Padre Pio",
+    "pt-BR": "Novena a São Pio de Pietrelcina"
+  },
+  "subtitle": {
+    "en-US": "Sep 14–22",
+    "pt-BR": "14–22 de setembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-padre-pio-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Padre Pio of Pietrelcina, the Capuchin friar marked with the wounds of Christ, who spent his life in the confessional, at the altar, and in prayer for souls.",
+    "pt-BR": "Uma novena de nove dias a São Pio de Pietrelcina, o frade capuchinho marcado com as chagas de Cristo, que passou a vida no confessionário, no altar e em oração pelas almas."
+  },
+  "history": {
+    "en-US": "Francesco Forgione (1887–1968) was born in Pietrelcina, Italy, and entered the Capuchins as Brother Pio. In 1918 he received the visible stigmata, which he bore for fifty years, and through long hours hearing confessions he led countless souls back to God. Famous for his counsel 'Pray, hope, and don't worry,' he was canonized in 2002.",
+    "pt-BR": "Francesco Forgione (1887–1968) nasceu em Pietrelcina, na Itália, e entrou para os Capuchinhos como Frei Pio. Em 1918 recebeu os estigmas visíveis, que carregou por cinquenta anos, e em longas horas de confissões reconduziu inúmeras almas a Deus. Célebre por seu conselho 'Reza, espera e não te preocupes', foi canonizado em 2002."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 241,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

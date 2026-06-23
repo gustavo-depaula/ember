@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to the Immaculate Heart of Mary",
+        "pt-BR": "Novena ao Imaculado Coração de Maria"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Immaculate Heart of Mary, pure refuge of sinners and gentle Mother of mercy, we come to you in trust. You who kept the word of God and pondered it in your heart, draw us into the warmth of your love. Teach us to belong wholly to Jesus through you. Amen.",
+        "pt-BR": "Ó Imaculado Coração de Maria, puro refúgio dos pecadores e terna Mãe de misericórdia, a vós viemos cheios de confiança. Vós que guardastes a palavra de Deus e a meditastes no coração, atraí-nos ao calor do vosso amor. Ensinai-nos a pertencer inteiramente a Jesus por vós. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "immaculate-heart-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Immaculate Heart of Mary, to you we consecrate ourselves and all that we are. Keep us close to your Son, guard us in the hour of temptation, and bring us safely home to heaven. Be our refuge now, and let your Immaculate Heart at last triumph in our souls. Amen.",
+        "pt-BR": "Ó Imaculado Coração de Maria, a vós nos consagramos e tudo o que somos. Conservai-nos junto ao vosso Filho, guardai-nos na hora da tentação e conduzi-nos seguros à pátria do céu. Sede o nosso refúgio agora, e que o vosso Imaculado Coração enfim triunfe em nossas almas. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

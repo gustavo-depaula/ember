@@ -1,0 +1,58 @@
+{
+  "id": "st-benedict-novena",
+  "icon": "cross",
+  "name": {
+    "en-US": "Novena to St. Benedict",
+    "pt-BR": "Novena a São Bento"
+  },
+  "subtitle": {
+    "en-US": "Jul 2–10",
+    "pt-BR": "2–10 de julho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-benedict-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "Nine days with the father of Western monasticism, whose Rule and holy medal have guarded souls in peace for fifteen centuries.",
+    "pt-BR": "Nove dias com o pai do monaquismo ocidental, cuja Regra e medalha sagrada guardam as almas em paz há quinze séculos."
+  },
+  "history": {
+    "en-US": "St. Benedict of Nursia, born around 480, fled the corruption of Rome to live as a hermit before founding the great monastery of Monte Cassino. His Rule, balancing prayer and work under the motto Ora et Labora, shaped the monasticism and culture of the West. The Medal and Cross of St. Benedict bear his prayers against evil, and he is invoked for peace, protection, and a holy death.",
+    "pt-BR": "São Bento de Núrsia, nascido por volta de 480, fugiu da corrupção de Roma para viver como eremita antes de fundar o grande mosteiro de Monte Cassino. Sua Regra, equilibrando oração e trabalho sob o lema Ora et Labora, moldou o monaquismo e a cultura do Ocidente. A Medalha e a Cruz de São Bento trazem suas preces contra o mal, e ele é invocado pela paz, pela proteção e por uma santa morte."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 223,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

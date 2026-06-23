@@ -14,9 +14,19 @@
     {
       "type": "rubric",
       "text": {
-        "en-US": "Read the meditation and offer the intention of the day.",
-        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+        "en-US": "Begin each day with this opening prayer.",
+        "pt-BR": "Comece cada dia com esta oração inicial."
       }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Saint Joseph, faithful protector and intercessor of all who love you, after Jesus and Mary I come to you as a sure refuge. I have confidence in you, for you are close to God. To your care I commend myself, all who are dear to me, and all that I have. By your love for Jesus and Mary, do not abandon me in life, and assist me at the hour of my death. Amen.",
+        "pt-BR": "São José, fiel protetor e intercessor de todos os que vos amam, depois de Jesus e Maria venho a vós como refúgio seguro. Em vós deposito minha confiança, pois sois íntimo de Deus. A vossos cuidados confio a mim mesmo, todos os que me são caros e tudo o que possuo. Por vosso amor a Jesus e Maria, não me abandoneis na vida e assisti-me na hora da minha morte. Amém."
+      }
+    },
+    {
+      "type": "divider"
     },
     {
       "type": "cycle",
@@ -31,6 +41,10 @@
           "text": "{{meditation}}"
         },
         {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
           "type": "divider"
         },
         {
@@ -41,8 +55,8 @@
           }
         },
         {
-          "type": "rubric",
-          "text": "{{intention}}"
+          "type": "prayer",
+          "inline": "{{intention}}"
         }
       ]
     },
@@ -72,10 +86,17 @@
       "type": "divider"
     },
     {
+      "type": "rubric",
+      "text": {
+        "en-US": "Conclude with this ancient prayer to St. Joseph.",
+        "pt-BR": "Conclua com esta antiga oração a São José."
+      }
+    },
+    {
       "type": "prayer",
       "inline": {
-        "en-US": "St. Joseph, guardian of Jesus and spouse of Mary, obtain for us a faithful heart, perseverance in grace, and final union with Christ. Amen.",
-        "pt-BR": "São José, guardião de Jesus e esposo de Maria, alcançai-nos um coração fiel, perseverança na graça e união final com Cristo. Amém."
+        "en-US": "To you, O blessed Joseph, we have recourse in our affliction, and having implored the help of your most holy spouse, we confidently ask your patronage also. By that love which united you to the Immaculate Virgin Mary, and by the fatherly affection with which you embraced the Child Jesus, we beg you to look kindly upon the inheritance which Jesus Christ purchased by His blood, and to help us in our need by your power and strength. Most watchful guardian of the Holy Family, defend the chosen children of Jesus Christ. Most loving father, ward off every evil of body and soul. Most strong protector, be near us in our struggle, and lead us to final perseverance and union with Christ. Amen.",
+        "pt-BR": "A vós, ó bem-aventurado José, recorremos em nossa tribulação, e, tendo implorado o auxílio de vossa santíssima esposa, com confiança solicitamos também o vosso patrocínio. Por aquele amor que vos uniu à Virgem Imaculada Maria e pelo afeto paterno com que abraçastes o Menino Jesus, suplicamos-vos que olheis com bondade para a herança que Jesus Cristo adquiriu com Seu sangue e que nos socorrais em nossas necessidades com vosso poder e força. Vigilantíssimo guardião da Sagrada Família, defendei os filhos escolhidos de Jesus Cristo. Amorosíssimo pai, afastai de nós todo mal de corpo e alma. Fortíssimo protetor, estai junto a nós em nossa luta e conduzi-nos à perseverança final e à união com Cristo. Amém."
       }
     },
     {

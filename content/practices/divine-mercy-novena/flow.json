@@ -41,8 +41,8 @@
           }
         },
         {
-          "type": "rubric",
-          "text": "{{intention}}"
+          "type": "prayer",
+          "inline": "{{intention}}"
         },
         {
           "type": "divider"
@@ -56,7 +56,7 @@
         },
         {
           "type": "prayer",
-          "inline": "{{petitionText}}"
+          "inline": "{{prayer}}"
         }
       ]
     },

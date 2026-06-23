@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Surrender Novena (Fr. Dolindo Ruotolo)",
+        "pt-BR": "Novena do Abandono (Pe. Dolindo Ruotolo)"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Lord Jesus, you who said, \"Come to me, all you who are weary, and I will give you rest,\" I come now with my burdens and my fears. Teach me through these nine days the secret of true surrender, that I may stop struggling and let you act. I place my whole life in your hands. Amen.",
+        "pt-BR": "Senhor Jesus, vós que dissestes: \"Vinde a mim, todos vós que estais cansados, e eu vos darei descanso\", venho agora com os meus fardos e os meus medos. Ensinai-me ao longo destes nove dias o segredo do verdadeiro abandono, para que eu deixe de lutar e vos deixe agir. Coloco toda a minha vida em vossas mãos. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "surrender-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O most loving Jesus, I thank you for the peace you offer to every heart that trusts in you. Free me at last from the anxious need to control what only you can hold, and let your providence carry me. Mother Mary, help me to belong completely to your Son. Amen.",
+        "pt-BR": "Ó amorosíssimo Jesus, eu vos agradeço pela paz que ofereceis a todo coração que em vós confia. Libertai-me enfim da ansiosa necessidade de controlar aquilo que só vós podeis sustentar, e deixai que a vossa providência me carregue. Mãe Maria, ajudai-me a pertencer completamente a vosso Filho. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

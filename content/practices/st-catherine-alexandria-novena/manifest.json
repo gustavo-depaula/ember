@@ -1,0 +1,58 @@
+{
+  "id": "st-catherine-alexandria-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Catherine of Alexandria",
+    "pt-BR": "Novena a Santa Catarina de Alexandria"
+  },
+  "subtitle": {
+    "en-US": "Nov 16–24",
+    "pt-BR": "16–24 de novembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-catherine-alexandria-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Catherine of Alexandria, virgin and martyr, whose God-given wisdom confounded the pagan philosophers and whose courage broke even the wheel of torture — patroness of students, scholars, and all who seek the truth.",
+    "pt-BR": "Uma novena de nove dias a Santa Catarina de Alexandria, virgem e mártir, cuja sabedoria recebida de Deus confundiu os filósofos pagãos e cuja coragem quebrou até a roda do suplício — padroeira dos estudantes, dos sábios e de todos os que buscam a verdade."
+  },
+  "history": {
+    "en-US": "According to ancient tradition, Catherine was a noble and learned maiden of Alexandria in the early fourth century who confronted the emperor Maxentius for persecuting Christians. When fifty pagan philosophers were summoned to refute her, she instead converted them by her wisdom. Condemned to die on a spiked wheel, she touched it and it shattered; she was then beheaded, and is honored among the Fourteen Holy Helpers.",
+    "pt-BR": "Segundo a antiga tradição, Catarina era uma jovem nobre e instruída de Alexandria, no início do século IV, que enfrentou o imperador Maxêncio por perseguir os cristãos. Quando cinquenta filósofos pagãos foram convocados para refutá-la, ela ao contrário os converteu por sua sabedoria. Condenada a morrer numa roda cravejada, ela a tocou e a roda se despedaçou; foi então decapitada, e é honrada entre os Catorze Santos Auxiliadores."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 259,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

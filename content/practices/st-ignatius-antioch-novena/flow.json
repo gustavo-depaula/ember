@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Ignatius of Antioch",
+        "pt-BR": "Novena a Santo Inácio de Antioquia"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, who crowned the courage of St. Ignatius of Antioch with the palm of martyrdom, grant that we who honor his witness may share his ardent love for Your Son. Through his intercession, kindle in us the same longing to belong wholly to Christ. Amen.",
+        "pt-BR": "Ó Deus, que coroastes a coragem de Santo Inácio de Antioquia com a palma do martírio, concedei-nos, que honramos seu testemunho, partilhar de seu ardente amor por vosso Filho. Por sua intercessão, acendei em nós o mesmo desejo de pertencer inteiramente a Cristo. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-ignatius-antioch-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious St. Ignatius, you ran to martyrdom as to a wedding feast, that you might be united forever with the Lord you loved. Obtain for us hearts undivided, a love stronger than fear, and a Church bound together in charity and truth. Amen.",
+        "pt-BR": "Glorioso Santo Inácio, vós que correstes ao martírio como a um banquete nupcial, para serdes unido para sempre ao Senhor que amastes, alcançai-nos um coração sem divisão, um amor mais forte que o medo, e uma Igreja unida na caridade e na verdade. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

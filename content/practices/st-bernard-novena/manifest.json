@@ -1,0 +1,58 @@
+{
+  "id": "st-bernard-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Bernard of Clairvaux",
+    "pt-BR": "Novena a São Bernardo de Claraval"
+  },
+  "subtitle": {
+    "en-US": "Aug 11–19",
+    "pt-BR": "11–19 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-bernard-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Bernard of Clairvaux, the 'mellifluous Doctor' of the Church, Cistercian reformer, and tireless lover of Jesus and Mary, whose words on loving God still set hearts aflame.",
+    "pt-BR": "Uma novena de nove dias a São Bernardo de Claraval, o 'Doutor melífluo' da Igreja, reformador cisterciense e incansável amante de Jesus e de Maria, cujas palavras sobre o amor a Deus ainda incendeiam corações."
+  },
+  "history": {
+    "en-US": "Born near Dijon in 1090, Bernard entered the struggling monastery of Cîteaux at twenty-two, bringing thirty companions with him, and was soon sent to found Clairvaux. From his cloister he reformed monastic life, counseled popes and kings, and preached across Europe, earning the title 'Doctor Mellifluus,' the honey-sweet teacher. A burning lover of the Holy Name and of the Virgin Mary, he wrote 'On Loving God' and many sermons on the Song of Songs, and died at Clairvaux in 1153.",
+    "pt-BR": "Nascido perto de Dijon em 1090, Bernardo entrou no combalido mosteiro de Cister aos vinte e dois anos, levando consigo trinta companheiros, e logo foi enviado a fundar Claraval. De seu claustro reformou a vida monástica, aconselhou papas e reis e pregou por toda a Europa, merecendo o título de 'Doutor melífluo', o mestre doce como o mel. Ardente amante do Santo Nome e da Virgem Maria, escreveu 'O Amor de Deus' e muitos sermões sobre o Cântico dos Cânticos, e morreu em Claraval em 1153."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 234,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

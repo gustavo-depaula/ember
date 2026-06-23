@@ -1,0 +1,58 @@
+{
+  "id": "seven-sorrows-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Septenary of the Seven Sorrows of Mary",
+    "pt-BR": "Setenário das Dores de Nossa Senhora"
+  },
+  "subtitle": {
+    "en-US": "Sep 8–14",
+    "pt-BR": "8–14 de setembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "marian"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 7,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "seven-sorrows-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A seven-day septenary honoring the Seven Sorrows of the Blessed Virgin Mary, meditating on the sword that pierced her heart as she stood with her Son in His Passion.",
+    "pt-BR": "Um setenário de sete dias em honra às Sete Dores da Bem-Aventurada Virgem Maria, meditando sobre a espada que trespassou seu coração ao permanecer junto a seu Filho em Sua Paixão."
+  },
+  "history": {
+    "en-US": "Devotion to the Seven Sorrows of Mary, kept especially on September 15, contemplates seven moments in which the heart of Our Lady was pierced for love of her Son: from Simeon's prophecy of the sword to the burial of Jesus. Cherished by the Servite Order, this septenary unites the faithful to Mary's compassion, by which she shared most fully in the redemptive suffering of Christ.",
+    "pt-BR": "A devoção às Sete Dores de Maria, celebrada especialmente em 15 de setembro, contempla sete momentos em que o coração de Nossa Senhora foi trespassado por amor a seu Filho: desde a profecia da espada por Simeão até o sepultamento de Jesus. Cultivado pela Ordem dos Servitas, este setenário une os fiéis à compaixão de Maria, pela qual ela participou mais plenamente do sofrimento redentor de Cristo."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for seven consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante sete dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "7-days",
+    "marian"
+  ],
+  "defaults": {
+    "sortOrder": 239,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Maximilian Kolbe",
+        "pt-BR": "Novena a São Maximiliano Maria Kolbe"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O St. Maximilian Kolbe, knight of the Immaculate and martyr of love, you laid down your life so that a father might return to his family. Kindle in me your fearless charity and your boundless devotion to Mary, that I too may live and die for others. Amen.",
+        "pt-BR": "Ó São Maximiliano Kolbe, cavaleiro da Imaculada e mártir do amor, vós destes a vida para que um pai pudesse voltar à sua família. Acendei em mim a vossa caridade destemida e a vossa ilimitada devoção a Maria, para que eu também viva e morra pelos outros. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-maximilian-kolbe-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Maximilian, who turned a death camp into a place of song and hope, intercede for me before the Immaculate to whom you gave yourself wholly. Win for me the grace I now ask and a love so great that it counts no cost. Amen.",
+        "pt-BR": "São Maximiliano, que transformastes um campo de morte em lugar de cânticos e esperança, intercedei por mim junto à Imaculada a quem vos entregastes inteiramente. Alcançai-me a graça que agora vos peço e um amor tão grande que não conte os sacrifícios. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

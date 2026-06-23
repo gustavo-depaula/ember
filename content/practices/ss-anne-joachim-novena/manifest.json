@@ -1,0 +1,58 @@
+{
+  "id": "ss-anne-joachim-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to SS. Anne and Joachim",
+    "pt-BR": "Novena a Santa Ana e São Joaquim"
+  },
+  "subtitle": {
+    "en-US": "Jul 17–25",
+    "pt-BR": "17–25 de julho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "ss-anne-joachim-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to Saints Anne and Joachim, the parents of the Blessed Virgin Mary and grandparents of Our Lord, patrons of families, grandparents, and expectant mothers, who waited many years in faith for the child God promised.",
+    "pt-BR": "Uma novena de nove dias a Santa Ana e São Joaquim, pais da Bem-Aventurada Virgem Maria e avós de Nosso Senhor, padroeiros das famílias, dos avós e das gestantes, que esperaram longos anos, na fé, o filho que Deus lhes prometeu."
+  },
+  "history": {
+    "en-US": "Tradition, drawn from early Christian writings, names Anne and Joachim as the parents of the Virgin Mary. Long childless and aged, they begged God for a child and, in answer, were given the Mother of the Redeemer. Devotion to them spread widely in both East and West, and they are honored as the holy grandparents of Jesus and protectors of the family.",
+    "pt-BR": "A tradição, recolhida de antigos escritos cristãos, dá os nomes de Ana e Joaquim aos pais da Virgem Maria. Já idosos e por muito tempo sem filhos, suplicaram a Deus uma criança e receberam, em resposta, a Mãe do Redentor. A devoção a eles difundiu-se amplamente no Oriente e no Ocidente, e são honrados como os santos avós de Jesus e protetores da família."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 226,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "st-gerard-majella-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Gerard Majella",
+    "pt-BR": "Novena a São Geraldo Majela"
+  },
+  "subtitle": {
+    "en-US": "Oct 7–15",
+    "pt-BR": "7–15 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-gerard-majella-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Gerard Majella, the Redemptorist lay brother and wonderworker beloved as the patron of expectant mothers. Through his example we learn obedience, hidden holiness, and total abandonment to the will of God.",
+    "pt-BR": "Uma novena de nove dias a São Geraldo Majela, o irmão leigo redentorista e taumaturgo amado como patrono das gestantes. Por seu exemplo aprendemos a obediência, a santidade escondida e o total abandono à vontade de Deus."
+  },
+  "history": {
+    "en-US": "Gerard Majella was born in 1726 in Muro Lucano, Italy, the youngest child of a poor tailor's family, and worked as a tailor and servant before entering the Congregation of the Most Holy Redeemer as a lay brother. Though entrusted only with humble tasks as sacristan, porter, and infirmarian, he became renowned for extraordinary gifts: miracles, ecstasies, bilocation, and a profound discernment of souls. He is best known as the patron of expectant mothers from a beloved tradition in which he gave a handkerchief to a young woman, telling her she would one day need it, and years later, in danger during childbirth, she was delivered through it. Worn out by penance and tuberculosis, he died in 1755 at the age of twenty-nine; he was canonized by Pope St. Pius X in 1904, and his feast is kept on October 16.",
+    "pt-BR": "Geraldo Majela nasceu em 1726 em Muro Lucano, Itália, o filho mais novo de uma pobre família de alfaiate, e trabalhou como alfaiate e criado antes de entrar na Congregação do Santíssimo Redentor como irmão leigo. Embora lhe fossem confiadas apenas tarefas humildes de sacristão, porteiro e enfermeiro, tornou-se célebre por dons extraordinários: milagres, êxtases, bilocação e profundo discernimento das almas. É conhecido sobretudo como patrono das gestantes a partir de uma querida tradição, segundo a qual deu um lenço a uma jovem, dizendo-lhe que um dia precisaria dele, e anos mais tarde, em perigo durante o parto, ela foi salva por meio dele. Esgotado pela penitência e pela tuberculose, morreu em 1755, aos vinte e nove anos; foi canonizado pelo Papa São Pio X em 1904, e sua festa é celebrada em 16 de outubro."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 250,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Catherine of Siena",
+        "pt-BR": "Novena a Santa Catarina de Sena"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Catherine of Siena, bride of Christ and lover of His Precious Blood, you set the world on fire with the love that burned in your own heart. Be with me as I begin this novena and obtain for me a like ardor for God and His Church. Through your powerful intercession, grant me the grace I now humbly ask. Amen.",
+        "pt-BR": "Santa Catarina de Sena, esposa de Cristo e amante de Seu Preciosíssimo Sangue, vós incendiastes o mundo com o amor que ardia em vosso próprio coração. Estai comigo ao iniciar esta novena e alcançai-me semelhante ardor por Deus e por Sua Igreja. Por vossa poderosa intercessão, concedei-me a graça que agora humildemente peço. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-catherine-of-siena-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Catherine, who counseled, \"Be who God meant you to be and you will set the world on fire,\" kindle that flame in me. Help me to seek truth, to love the Church, and to spend myself for the souls Christ redeemed with His Blood. By your prayers, may I serve God boldly in my own time. Amen.",
+        "pt-BR": "Santa Catarina, que aconselhastes: \"Sede aquilo que Deus quis que fôsseis, e poreis fogo no mundo\", acendei em mim essa chama. Ajudai-me a buscar a verdade, a amar a Igreja e a gastar-me pelas almas que Cristo redimiu com Seu Sangue. Por vossas orações, possa eu servir a Deus com ousadia em meu próprio tempo. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

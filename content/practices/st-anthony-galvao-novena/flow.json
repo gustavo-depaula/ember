@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Anthony of Sant'Anna Galvão",
+        "pt-BR": "Novena a Santo Antônio de Sant'Ana Galvão"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, who raised up St. Anthony Galvão as a herald of Your peace among the people of Brazil, grant us through his intercession a humble and trusting heart. Through Our Lady, in whom he placed all his confidence, lead us closer to Your Son. Amen.",
+        "pt-BR": "Ó Deus, que suscitastes Santo Antônio Galvão como arauto de vossa paz entre o povo do Brasil, concedei-nos, por sua intercessão, um coração humilde e confiante. Por Nossa Senhora, em quem ele depositou toda a sua confiança, conduzi-nos para mais perto de vosso Filho. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-anthony-galvao-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Anthony Galvão, friend of the poor and instrument of healing, you spent yourself in serving the souls God placed before you. Obtain for us healing of body and spirit, peace in our trials, and an unshakable trust in the providence of God. Amen.",
+        "pt-BR": "Santo Antônio Galvão, amigo dos pobres e instrumento de cura, vós que vos consumistes a serviço das almas que Deus vos confiou, alcançai-nos a cura do corpo e do espírito, a paz nas provações e uma confiança inabalável na providência de Deus. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

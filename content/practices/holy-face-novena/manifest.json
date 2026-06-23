@@ -1,0 +1,56 @@
+{
+  "id": "holy-face-novena",
+  "icon": "cross",
+  "name": {
+    "en-US": "Novena to the Holy Face of Jesus",
+    "pt-BR": "Novena à Santa Face"
+  },
+  "subtitle": {
+    "en-US": "Shrove Tuesday → Lent",
+    "pt-BR": "Terça-feira de Carnaval → Quaresma"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "holy-face-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to the Holy Face of Jesus, a devotion of reparation for blasphemy and impiety. Contemplating the suffering, disfigured Face of our Redeemer, we offer Him consolation and pray with the Golden Arrow given to Sr. Marie of St. Peter.",
+    "pt-BR": "Uma novena de nove dias à Santa Face de Jesus, devoção de reparação pela blasfêmia e pela impiedade. Contemplando a Face sofredora e desfigurada do nosso Redentor, oferecemos-Lhe consolo e rezamos com a Flecha de Ouro dada à Irmã Maria de São Pedro."
+  },
+  "history": {
+    "en-US": "Devotion to the Holy Face was renewed in the nineteenth century through Sr. Marie of St. Peter, a Carmelite of Tours, to whom our Lord made known the prayer called the Golden Arrow as an act of reparation for blasphemy and the profanation of Sundays. The devotion was carried forward by the layman Leo Dupont, the 'Holy Man of Tours,' and later embraced by the family of St. Thérèse, whose religious name was Thérèse of the Child Jesus and of the Holy Face. It joins the disfigured face foretold by Isaiah to the image impressed upon the veil of Veronica on the way to Calvary.",
+    "pt-BR": "A devoção à Santa Face foi renovada no século XIX por meio da Irmã Maria de São Pedro, carmelita de Tours, a quem o Senhor revelou a oração chamada Flecha de Ouro como ato de reparação pela blasfêmia e pela profanação dos domingos. A devoção foi difundida pelo leigo Leão Dupont, o 'Santo Homem de Tours', e mais tarde abraçada pela família de Santa Teresinha, cujo nome religioso era Teresa do Menino Jesus e da Santa Face. Ela une a face desfigurada anunciada por Isaías à imagem impressa no véu de Verônica no caminho do Calvário."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 265,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

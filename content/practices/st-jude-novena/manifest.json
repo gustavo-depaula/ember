@@ -5,7 +5,12 @@
     "en-US": "Novena to St. Jude",
     "pt-BR": "Novena a São Judas Tadeu"
   },
-  "categories": ["program", "devotion", "saints", "hope"],
+  "categories": [
+    "program",
+    "devotion",
+    "saints",
+    "hope"
+  ],
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
@@ -30,7 +35,13 @@
     "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and opening prayer, meditate on the day, offer the intention, then pray an Our Father, Hail Mary, and Glory Be before the closing prayer to St. Jude.",
     "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, medite o tema do dia, ofereça a intenção e, em seguida, reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai antes da oração final a São Judas Tadeu."
   },
-  "tags": ["novena", "st-jude", "9-days", "saints", "hope"],
+  "tags": [
+    "novena",
+    "st-jude",
+    "9-days",
+    "saints",
+    "hope"
+  ],
   "defaults": {
     "sortOrder": 44,
     "slots": [
@@ -42,5 +53,9 @@
         "enabled": false
       }
     ]
+  },
+  "subtitle": {
+    "en-US": "desperate causes",
+    "pt-BR": "causas desesperadas"
   }
 }

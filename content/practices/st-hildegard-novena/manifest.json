@@ -1,0 +1,58 @@
+{
+  "id": "st-hildegard-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Hildegard of Bingen",
+    "pt-BR": "Novena a Santa Hildegarda de Bingen"
+  },
+  "subtitle": {
+    "en-US": "Sep 8–16",
+    "pt-BR": "8–16 de setembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-hildegard-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Hildegard of Bingen, Doctor of the Church, Benedictine abbess and mystic, for wisdom, creativity, and a soul made green again by the life-giving Spirit of God.",
+    "pt-BR": "Uma novena de nove dias a Santa Hildegarda de Bingen, Doutora da Igreja, abadessa beneditina e mística, por sabedoria, criatividade e por uma alma reverdecida pelo Espírito vivificante de Deus."
+  },
+  "history": {
+    "en-US": "St. Hildegard of Bingen (1098–1179) was a German Benedictine abbess, mystic, composer, healer, and polymath called the 'Sibyl of the Rhine.' Entrusted to the cloister as a girl, she received visions from childhood and at God's command recorded them in her work Scivias ('Know the Ways'). She founded monasteries, wrote on medicine and creation, composed luminous sacred music, and even rebuked popes and emperors. Pope Benedict XVI canonized her and named her a Doctor of the Church in 2012.",
+    "pt-BR": "Santa Hildegarda de Bingen (1098–1179) foi uma abadessa beneditina alemã, mística, compositora, curadora e erudita chamada de 'Sibila do Reno'. Confiada ao mosteiro ainda menina, recebeu visões desde a infância e, por ordem de Deus, registrou-as em sua obra Scivias ('Conhece os Caminhos'). Fundou mosteiros, escreveu sobre medicina e a criação, compôs música sacra luminosa e chegou a repreender papas e imperadores. O Papa Bento XVI a canonizou e a proclamou Doutora da Igreja em 2012."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 240,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

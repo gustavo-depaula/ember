@@ -1,0 +1,58 @@
+{
+  "id": "st-francis-de-sales-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Francis de Sales",
+    "pt-BR": "Novena a São Francisco de Sales"
+  },
+  "subtitle": {
+    "en-US": "Jan 15–23",
+    "pt-BR": "15–23 de janeiro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-francis-de-sales-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Francis de Sales, Doctor of gentleness, seeking the grace of a devout life lived in God's will.",
+    "pt-BR": "Uma novena de nove dias a São Francisco de Sales, Doutor da mansidão, pedindo a graça de uma vida devota vivida na vontade de Deus."
+  },
+  "history": {
+    "en-US": "St. Francis de Sales (1567–1622), Bishop of Geneva and Doctor of the Church, won countless souls back to the faith through patience, charity, and gentle persuasion rather than harshness. In his Introduction to the Devout Life he taught that holiness is for everyone in every state of life, lived through small daily acts of love. His counsel of conformity to God's will — to ask for nothing and refuse nothing — remains a sure path to peace of soul.",
+    "pt-BR": "São Francisco de Sales (1567–1622), bispo de Genebra e Doutor da Igreja, reconquistou inúmeras almas para a fé pela paciência, pela caridade e pela doce persuasão, em vez da dureza. Na sua Introdução à Vida Devota, ensinou que a santidade é para todos, em todo estado de vida, vivida em pequenos atos diários de amor. O seu conselho de conformidade à vontade de Deus — nada pedir e nada recusar — permanece caminho seguro para a paz da alma."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 204,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

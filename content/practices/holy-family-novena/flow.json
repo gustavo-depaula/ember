@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to the Holy Family",
+        "pt-BR": "Novena à Sagrada Família"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Holy Family of Nazareth, Jesus, Mary, and Joseph, in whose humble home heaven dwelt upon earth, I come before you as I begin this novena. Look with love upon my family, hear the petition I bring, and teach us to live united in faith, charity, and peace. Amen.",
+        "pt-BR": "Ó Sagrada Família de Nazaré, Jesus, Maria e José, em cujo humilde lar o céu habitou sobre a terra, eu me apresento diante de vós ao iniciar esta novena. Olhai com amor para a minha família, ouvi a súplica que vos trago e ensinai-nos a viver unidos na fé, na caridade e na paz. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "holy-family-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Jesus, Mary, and Joseph, I give you my heart and my home. Watch over all who dwell beneath my roof, keep us faithful to God and gentle with one another, and grant that we may one day be united forever in the family of heaven. Amen.",
+        "pt-BR": "Jesus, Maria e José, eu vos dou o meu coração e o meu lar. Velai por todos os que habitam sob o meu teto, conservai-nos fiéis a Deus e bondosos uns com os outros, e concedei que um dia estejamos unidos para sempre na família do céu. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

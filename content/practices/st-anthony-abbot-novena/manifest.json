@@ -1,0 +1,58 @@
+{
+  "id": "st-anthony-abbot-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Anthony the Abbot",
+    "pt-BR": "Novena a Santo Antão"
+  },
+  "subtitle": {
+    "en-US": "Jan 8–16",
+    "pt-BR": "8–16 de janeiro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-anthony-abbot-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Anthony the Abbot, father of monasticism, seeking his help in silence, prayer, and spiritual combat.",
+    "pt-BR": "Uma novena de nove dias a Santo Antão, pai do monaquismo, pedindo o seu auxílio no silêncio, na oração e no combate espiritual."
+  },
+  "history": {
+    "en-US": "St. Anthony the Abbot (c. 251–356) was a wealthy young Egyptian who, hearing the Gospel call 'sell what you have and follow Me,' gave away his goods and withdrew into the desert. There he battled fierce temptations and demons, persevering in prayer and penance, and became the father of Christian monasticism. His life, written by St. Athanasius, drew countless souls to the desert and still teaches us the way of inward combat.",
+    "pt-BR": "Santo Antão (c. 251–356) foi um jovem egípcio rico que, ao ouvir o chamado do Evangelho 'vende o que tens e segue-Me', distribuiu os seus bens e retirou-se para o deserto. Ali enfrentou tentações e demônios ferozes, perseverando na oração e na penitência, e tornou-se o pai do monaquismo cristão. A sua vida, escrita por Santo Atanásio, atraiu inúmeras almas ao deserto e ainda nos ensina o caminho do combate interior."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 203,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

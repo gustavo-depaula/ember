@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Athanasius",
+        "pt-BR": "Novena a Santo Atanásio"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Athanasius, intrepid bishop and pillar of the true faith, you confessed Christ as true God when nearly the whole world turned away. Strengthen me as I begin this novena, that I may hold fast to the truth without fear. Obtain for me from God the grace I now ask and a heart firmly fixed on Christ. Amen.",
+        "pt-BR": "Santo Atanásio, bispo intrépido e coluna da verdadeira fé, vós confessastes Cristo como verdadeiro Deus quando quase o mundo inteiro Lhe deu as costas. Fortalecei-me ao iniciar esta novena, para que eu me apegue à verdade sem temor. Alcançai-me de Deus a graça que agora peço e um coração firmemente fixo em Cristo. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-athanasius-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Athanasius, who endured exile and slander rather than betray the faith, teach me your steadfast love of the truth. Help me to adore the eternal Son, consubstantial with the Father, and to confess Him before the world. By your prayers, may I persevere in the faith of Nicaea until I see God face to face. Amen.",
+        "pt-BR": "Santo Atanásio, que suportastes o exílio e a calúnia antes de trair a fé, ensinai-me vosso amor constante à verdade. Ajudai-me a adorar o Filho eterno, consubstancial ao Pai, e a confessá-Lo diante do mundo. Por vossas orações, possa eu perseverar na fé de Niceia até ver a Deus face a face. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

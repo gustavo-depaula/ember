@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. John Bosco",
+        "pt-BR": "Novena a São João Bosco"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O glorious St. John Bosco, father and teacher of the young, you spent yourself wholly for souls and never turned away a child in need. Draw near to me now as you drew near to your boys, and present my prayer before the throne of God. Amen.",
+        "pt-BR": "Ó glorioso São João Bosco, pai e mestre da juventude, que vos consumistes inteiramente pelas almas e jamais afastastes um menino necessitado, aproximai-vos de mim como vos aproximáveis de vossos jovens e apresentai a minha súplica diante do trono de Deus. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-john-bosco-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. John Bosco, who taught that holiness is found in cheerfulness and daily duty, obtain for me the grace I ask in this novena, if it be for God's glory and my salvation. Make me, like your boys, a friend of God, devoted to Our Lady and faithful in small things. Amen.",
+        "pt-BR": "São João Bosco, que ensinastes que a santidade se encontra na alegria e no dever de cada dia, alcançai-me a graça que peço nesta novena, se for para a glória de Deus e a minha salvação. Fazei-me, como vossos meninos, amigo de Deus, devoto de Nossa Senhora e fiel nas pequenas coisas. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "st-john-baptist-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. John the Baptist",
+    "pt-BR": "Novena a São João Batista"
+  },
+  "subtitle": {
+    "en-US": "Jun 15–23",
+    "pt-BR": "15–23 de junho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-john-baptist-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "Nine days with the Forerunner of Christ, who pointed to the Lamb of God and gave his life for the truth.",
+    "pt-BR": "Nove dias com o Precursor de Cristo, que apontou para o Cordeiro de Deus e deu a vida pela verdade."
+  },
+  "history": {
+    "en-US": "St. John the Baptist was the cousin and forerunner of Jesus, leaping in his mother's womb at the Visitation and later preaching repentance along the Jordan. He baptized the Lord, declared 'Behold the Lamb of God,' and was beheaded by Herod for condemning an unlawful marriage. This novena draws on his courage, humility, and burning zeal for God.",
+    "pt-BR": "São João Batista foi primo e precursor de Jesus, exultando no ventre de sua mãe na Visitação e mais tarde pregando a penitência junto ao Jordão. Batizou o Senhor, proclamou 'Eis o Cordeiro de Deus' e foi decapitado por Herodes por condenar um casamento ilícito. Esta novena se inspira em sua coragem, humildade e ardente zelo por Deus."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 221,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

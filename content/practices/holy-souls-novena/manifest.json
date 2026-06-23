@@ -1,0 +1,56 @@
+{
+  "id": "holy-souls-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena for the Holy Souls",
+    "pt-BR": "Novena pelas Almas (Finados)"
+  },
+  "subtitle": {
+    "en-US": "Oct 25–Nov 2",
+    "pt-BR": "25 de outubro–2 de novembro"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "holy-souls-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena for the Holy Souls in purgatory — the Church Suffering — imploring God's mercy, the cleansing of their sins, and their swift entrance into eternal light.",
+    "pt-BR": "Uma novena de nove dias pelas Almas do Purgatório — a Igreja Padecente — implorando a misericórdia de Deus, a purificação de seus pecados e sua pronta entrada na luz eterna."
+  },
+  "history": {
+    "en-US": "From the earliest centuries the Church has prayed for her departed children, offering the Holy Sacrifice of the Mass for their relief. This devotion gathers the ancient cry of the De Profundis — 'Out of the depths I have cried to Thee, O Lord' — into nine days of intercession for the souls who are saved yet still being purified in love.",
+    "pt-BR": "Desde os primeiros séculos a Igreja reza por seus filhos defuntos, oferecendo o Santo Sacrifício da Missa para seu alívio. Esta devoção recolhe o antigo clamor do De Profundis — 'Das profundezas clamo a Vós, Senhor' — em nove dias de intercessão pelas almas que, já salvas, ainda são purificadas no amor."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 256,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

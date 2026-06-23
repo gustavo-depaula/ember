@@ -1,0 +1,58 @@
+{
+  "id": "st-athanasius-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Athanasius",
+    "pt-BR": "Novena a Santo Atanásio"
+  },
+  "subtitle": {
+    "en-US": "Apr 23–May 1",
+    "pt-BR": "23 de abril–1 de maio"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-athanasius-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Athanasius, Father and Doctor of the Church, fearless defender of the divinity of Christ against the Arian heresy.",
+    "pt-BR": "Uma novena de nove dias a Santo Atanásio, Padre e Doutor da Igreja, destemido defensor da divindade de Cristo contra a heresia ariana."
+  },
+  "history": {
+    "en-US": "St. Athanasius (c. 296–373) was Bishop of Alexandria and the great champion of the faith proclaimed at the Council of Nicaea. When much of the world embraced the Arian error that denied Christ's true divinity, he stood firm and was exiled five times for the truth. His phrase \"Athanasius against the world\" became a watchword of unshakable orthodoxy, and his treatise On the Incarnation remains a treasure of the faith. This novena begs his courage to confess Christ as true God.",
+    "pt-BR": "Santo Atanásio (c. 296–373) foi bispo de Alexandria e o grande defensor da fé proclamada no Concílio de Niceia. Quando boa parte do mundo abraçou o erro ariano que negava a verdadeira divindade de Cristo, ele se manteve firme e foi exilado cinco vezes pela verdade. A expressão \"Atanásio contra o mundo\" tornou-se símbolo de uma ortodoxia inabalável, e seu tratado Sobre a Encarnação permanece um tesouro da fé. Esta novena implora sua coragem para confessar Cristo como verdadeiro Deus."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 214,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

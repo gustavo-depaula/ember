@@ -1,0 +1,56 @@
+{
+  "id": "epiphany-novena",
+  "icon": "sunrise",
+  "name": {
+    "en-US": "Novena for the Epiphany",
+    "pt-BR": "Novena da Epifania"
+  },
+  "subtitle": {
+    "en-US": "Dec 28–Jan 5",
+    "pt-BR": "28 de dezembro–5 de janeiro"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "epiphany-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena celebrating the Epiphany, the manifestation of Christ to all nations in the coming of the Magi.",
+    "pt-BR": "Uma novena de nove dias celebrando a Epifania, a manifestação de Cristo a todas as nações na vinda dos Magos."
+  },
+  "history": {
+    "en-US": "The Epiphany — from a Greek word meaning 'manifestation' — celebrates the revealing of Christ to the world beyond Israel. Saint Matthew recounts how wise men from the East followed a star to Bethlehem and offered gold, frankincense, and myrrh to the newborn King. Their journey shows that Christ is the light of all peoples, and this novena prepares the heart to seek and adore Him.",
+    "pt-BR": "A Epifania — de uma palavra grega que significa 'manifestação' — celebra a revelação de Cristo ao mundo para além de Israel. São Mateus narra como sábios do Oriente seguiram uma estrela até Belém e ofereceram ouro, incenso e mirra ao Rei recém-nascido. A sua jornada mostra que Cristo é a luz de todos os povos, e esta novena prepara o coração para buscá-Lo e adorá-Lo."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 202,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

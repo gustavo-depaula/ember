@@ -1,0 +1,58 @@
+{
+  "id": "immaculate-conception-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena for the Immaculate Conception",
+    "pt-BR": "Novena da Imaculada Conceição"
+  },
+  "subtitle": {
+    "en-US": "Nov 29–Dec 7",
+    "pt-BR": "29 de novembro–7 de dezembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "marian"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "immaculate-conception-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena in honor of the Immaculate Conception of the Blessed Virgin Mary, conceived without sin and full of grace — the all-beautiful one, the dawn of our redemption.",
+    "pt-BR": "Uma novena de nove dias em honra da Imaculada Conceição da Bem-Aventurada Virgem Maria, concebida sem pecado e cheia de graça — a toda formosa, a aurora da nossa redenção."
+  },
+  "history": {
+    "en-US": "On December 8, 1854, Pope Pius IX defined the dogma that Mary, from the first instant of her conception, was preserved free from all stain of original sin by a singular grace and in view of the merits of Christ. Four years later, at Lourdes, the Lady confirmed it to St. Bernadette: 'I am the Immaculate Conception.' The Church sings to her in the words of the Tota Pulchra: 'You are all beautiful, O Mary, and the original stain is not in you.'",
+    "pt-BR": "Em 8 de dezembro de 1854, o Papa Pio IX definiu o dogma de que Maria, desde o primeiro instante de sua concepção, foi preservada livre de toda mancha do pecado original, por singular graça e em vista dos méritos de Cristo. Quatro anos depois, em Lourdes, a Senhora confirmou-o a Santa Bernadette: 'Eu sou a Imaculada Conceição.' A Igreja a ela canta nas palavras do Tota Pulchra: 'Sois toda formosa, ó Maria, e em vós não há a mancha original.'"
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "marian"
+  ],
+  "defaults": {
+    "sortOrder": 260,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

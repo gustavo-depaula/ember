@@ -1,0 +1,58 @@
+{
+  "id": "st-john-vianney-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. John Vianney",
+    "pt-BR": "Novena a São João Maria Vianney"
+  },
+  "subtitle": {
+    "en-US": "Jul 26–Aug 3",
+    "pt-BR": "26 de julho–3 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-john-vianney-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. John Vianney, the Curé of Ars, patron of parish priests, whose austerity, zeal for souls, and long hours in the confessional drew sinners from across France back to God.",
+    "pt-BR": "Uma novena de nove dias a São João Maria Vianney, o Cura d'Ars, padroeiro dos párocos, cuja austeridade, zelo pelas almas e longas horas no confessionário trouxeram de volta a Deus pecadores de toda a França."
+  },
+  "history": {
+    "en-US": "Born near Lyon in 1786, John Vianney struggled greatly with his studies and was ordained only with difficulty. Sent in 1818 to the small, indifferent village of Ars, he transformed it by prayer, penance, and tireless preaching. In his last years he heard confessions for up to sixteen hours a day; pilgrims came from everywhere to seek him, and he is honored as the patron of priests.",
+    "pt-BR": "Nascido perto de Lyon em 1786, João Maria Vianney teve grande dificuldade nos estudos e foi ordenado a custo. Enviado em 1818 ao pequeno e indiferente povoado de Ars, transformou-o pela oração, pela penitência e pela pregação incansável. Em seus últimos anos confessava até dezesseis horas por dia; peregrinos vinham de toda parte buscá-lo, e é honrado como padroeiro dos sacerdotes."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 229,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

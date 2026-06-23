@@ -5,7 +5,12 @@
     "en-US": "Novena to St. Therese",
     "pt-BR": "Novena a Santa Teresinha"
   },
-  "categories": ["program", "devotion", "saints", "carmelite"],
+  "categories": [
+    "program",
+    "devotion",
+    "saints",
+    "carmelite"
+  ],
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
@@ -30,7 +35,13 @@
     "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross and opening prayer, read the meditation and intention for the day, then conclude with an Our Father, Hail Mary, Glory Be, and the closing invocation to St. Therese.",
     "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia a meditação e a intenção do dia e conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a invocação final a Santa Teresinha."
   },
-  "tags": ["novena", "st-therese", "little-flower", "9-days", "little-way"],
+  "tags": [
+    "novena",
+    "st-therese",
+    "little-flower",
+    "9-days",
+    "little-way"
+  ],
   "defaults": {
     "sortOrder": 44,
     "slots": [
@@ -42,5 +53,9 @@
         "enabled": false
       }
     ]
+  },
+  "subtitle": {
+    "en-US": "Sep 22–30",
+    "pt-BR": "22–30 de setembro"
   }
 }

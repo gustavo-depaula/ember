@@ -1,0 +1,56 @@
+{
+  "id": "ascension-novena",
+  "icon": "sunrise",
+  "name": {
+    "en-US": "Novena for the Ascension",
+    "pt-BR": "Novena da Ascensão"
+  },
+  "subtitle": {
+    "en-US": "Friday after Ascension → Pentecost",
+    "pt-BR": "Sexta-feira após a Ascensão → Pentecostes"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "ascension-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena uniting us to the apostles and Our Lady in the Upper Room, awaiting the Holy Spirit after Christ ascended in glory — often called the very first novena.",
+    "pt-BR": "Uma novena de nove dias que nos une aos apóstolos e a Nossa Senhora no Cenáculo, à espera do Espírito Santo depois que Cristo subiu glorioso ao céu — a primeiríssima novena já rezada."
+  },
+  "history": {
+    "en-US": "After the Risen Lord ascended into heaven, He commanded the apostles to return to Jerusalem and wait for the promise of the Father. With Mary and the holy women they remained nine days in the Upper Room, persevering in prayer until the Spirit descended at Pentecost. This time of waiting gave the Church her enduring pattern of the novena — nine days of prayer in faith.",
+    "pt-BR": "Depois que o Senhor ressuscitado subiu ao céu, ordenou aos apóstolos que voltassem a Jerusalém e aguardassem a promessa do Pai. Com Maria e as santas mulheres, permaneceram nove dias no Cenáculo, perseverando na oração até que o Espírito descesse em Pentecostes. Esta espera deu à Igreja seu modelo perene da novena — nove dias de oração na fé."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 266,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

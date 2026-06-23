@@ -1,0 +1,56 @@
+{
+  "id": "christ-the-king-novena",
+  "icon": "cross",
+  "name": {
+    "en-US": "Novena to Christ the King",
+    "pt-BR": "Novena a Cristo Rei"
+  },
+  "subtitle": {
+    "en-US": "9 days before Christ the King",
+    "pt-BR": "9 dias antes de Cristo Rei"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "christ-the-king-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena acknowledging the universal kingship of Jesus Christ over every heart, family, and nation, and begging the coming of His reign of truth, life, holiness, justice, love, and peace.",
+    "pt-BR": "Uma novena de nove dias que reconhece a realeza universal de Jesus Cristo sobre todo coração, família e nação, e implora a vinda de Seu reino de verdade, vida, santidade, justiça, amor e paz."
+  },
+  "history": {
+    "en-US": "In 1925, amid the rise of secular powers that sought to banish God from public life, Pope Pius XI instituted the Feast of Christ the King in his encyclical Quas Primas. He proclaimed that Christ reigns not only over the faithful but over all creation, and that His kingdom is one 'of truth and life, of holiness and grace, of justice, love, and peace.'",
+    "pt-BR": "Em 1925, em meio à ascensão de poderes seculares que buscavam banir Deus da vida pública, o Papa Pio XI instituiu a Festa de Cristo Rei em sua encíclica Quas Primas. Ele proclamou que Cristo reina não só sobre os fiéis, mas sobre toda a criação, e que Seu reino é um reino 'de verdade e de vida, de santidade e de graça, de justiça, de amor e de paz.'"
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 257,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "christmas-novena",
+  "icon": "sunrise",
+  "name": {
+    "en-US": "Christmas Novena",
+    "pt-BR": "Novena de Natal"
+  },
+  "subtitle": {
+    "en-US": "Dec 16–24",
+    "pt-BR": "16–24 de dezembro"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "christmas-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day Christmas novena leading the soul through the longing of Advent to the night of the Nativity. In the spirit of the O Antiphons it cries 'Come, Lord Jesus,' and prepares a manger in the heart for the Word made flesh.",
+    "pt-BR": "Uma novena de Natal de nove dias que conduz a alma, através do anseio do Advento, até a noite da Natividade. No espírito das Antífonas do Ó, ela clama 'Vinde, Senhor Jesus' e prepara no coração uma manjedoura para o Verbo feito carne."
+  },
+  "history": {
+    "en-US": "The Christmas novena grows out of the Church's ancient Advent expectation, especially the seven great O Antiphons sung in the final days before Christmas, each hailing Christ under a title drawn from the prophets. The Fathers, above all St. Leo the Great in his nativity sermons, urged believers to recognize the dignity given them in the Incarnation. Prayed in the nine days before December 25, this novena unites the soul to the whole Church's watchful longing for the birth of the Savior.",
+    "pt-BR": "A novena de Natal nasce da antiga expectativa do Advento na Igreja, sobretudo das sete grandes Antífonas do Ó, cantadas nos últimos dias antes do Natal, cada uma saudando Cristo sob um título tirado dos profetas. Os Padres, acima de tudo São Leão Magno em seus sermões da Natividade, exortavam os fiéis a reconhecer a dignidade que lhes foi dada na Encarnação. Rezada nos nove dias antes de 25 de dezembro, esta novena une a alma à vigilante expectativa de toda a Igreja pelo nascimento do Salvador."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 263,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

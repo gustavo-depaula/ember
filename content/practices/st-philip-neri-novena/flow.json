@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Philip Neri",
+        "pt-BR": "Novena a São Filipe Néri"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O glad St. Philip Neri, my glorious patron, who didst set Rome on fire with the joy of the Gospel, look kindly upon me as I begin this novena. Thy heart was wide with love and light with holy mirth; win for me a cheerful and humble heart like thine own, that I may serve God with gladness all the days of my life. Amen.",
+        "pt-BR": "Ó alegre São Filipe Néri, meu glorioso patrono, que incendiastes Roma com a alegria do Evangelho, olhai com bondade para mim ao iniciar esta novena. O vosso coração era largo de amor e leve de santo bom humor; alcançai-me um coração jovial e humilde como o vosso, para que eu sirva a Deus com alegria todos os dias da minha vida. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-philip-neri-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O St. Philip, whose heart the Holy Spirit enlarged and set aflame, present my petitions to the Lord thou didst love so dearly. Teach me to delight in God, to think little of myself, and to lead others to Him by kindness rather than by harshness, until heart speaks to heart with thee in the joy of heaven. Amen.",
+        "pt-BR": "Ó São Filipe, cujo coração o Espírito Santo dilatou e incendiou, apresentai os meus pedidos ao Senhor que tanto amastes. Ensinai-me a deleitar-me em Deus, a ter-me em pouca conta e a conduzir os outros a Ele pela bondade e não pela dureza, até que, de coração para coração, eu me alegre convosco no céu. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

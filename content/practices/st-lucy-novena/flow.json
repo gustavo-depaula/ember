@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Lucy",
+        "pt-BR": "Novena a Santa Luzia"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O glorious St. Lucy, virgin and martyr, whose very name proclaims the light of Christ, look kindly upon me as I begin this novena. By the steadfast faith that carried you through fire and sword, obtain for me the grace I seek and a heart enlightened by God. Amen.",
+        "pt-BR": "Ó gloriosa Santa Luzia, virgem e mártir, cujo próprio nome proclama a luz de Cristo, olhai com bondade para mim ao iniciar esta novena. Pela fé constante que vos sustentou através do fogo e da espada, alcançai-me a graça que peço e um coração iluminado por Deus. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-lucy-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Lucy, bright lamp of the Lord, who preferred to lose your eyes rather than betray your Bridegroom, watch over my body and my soul. Keep the eyes of my faith clear and fixed on Christ, and lead me at last to the light that never fades. Amen.",
+        "pt-BR": "Santa Luzia, lâmpada resplandecente do Senhor, que preferistes perder os olhos a trair vosso Esposo, velai por meu corpo e por minha alma. Conservai límpidos os olhos da minha fé, fixos em Cristo, e conduzi-me enfim à luz que jamais se apaga. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

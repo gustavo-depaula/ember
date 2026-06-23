@@ -1,0 +1,121 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to the Guardian Angels",
+        "pt-BR": "Novena aos Santos Anjos da Guarda"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Holy Guardian Angel, given to me by God's tender love to be my companion and guide, I greet you with gratitude. Watch over me through this novena, keep me close to God, and never let me stray from His side. Amen.",
+        "pt-BR": "Santo Anjo da Guarda, dado a mim pelo terno amor de Deus para ser meu companheiro e guia, eu vos saúdo com gratidão. Velai por mim ao longo desta novena, mantende-me junto de Deus e nunca deixeis que eu me afaste do Seu lado. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "guardian-angels-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer — the Angel of God:",
+        "pt-BR": "Oração final — o Santo Anjo do Senhor:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Angel of God, my guardian dear, to whom God's love commits me here, ever this day be at my side, to light and guard, to rule and guide. Amen.",
+        "pt-BR": "Santo Anjo do Senhor, meu zeloso guardador, se a mim confiou a piedade divina, sempre me rege, me guarda, me governa e me ilumina. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "My faithful Guardian Angel, carry the prayers of this novena before the throne of God and obtain for me the grace I now implore. Watch over me until that day when I may praise God with you forever in heaven. Amen.",
+        "pt-BR": "Meu fiel Anjo da Guarda, levai as orações desta novena diante do trono de Deus e alcançai-me a graça que agora imploro. Velai por mim até o dia em que eu possa louvar a Deus convosco para sempre no céu. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}
