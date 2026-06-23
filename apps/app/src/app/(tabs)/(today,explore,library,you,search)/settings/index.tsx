@@ -2,6 +2,7 @@ import { type DoVersionId, doVersionOrder } from '@ember/divinum-officium'
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import Constants from 'expo-constants'
+import { Link } from 'expo-router'
 import * as Updates from 'expo-updates'
 import { useUpdates } from 'expo-updates'
 import { useState } from 'react'
@@ -67,6 +68,35 @@ export default function SettingsScreen() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={t('settings.title')} />
+
+        <Link href="/settings/reader-sync" asChild>
+          <Pressable
+            accessibilityRole="button"
+            accessibilityLabel={t('readerSync.title', 'Reader Sync')}
+          >
+            <XStack
+              backgroundColor="$backgroundSurface"
+              borderRadius="$lg"
+              padding="$md"
+              alignItems="center"
+              justifyContent="space-between"
+            >
+              <YStack>
+                <Text fontFamily="$body" fontSize="$2" color="$color">
+                  {t('readerSync.title', 'Reader Sync')}
+                </Text>
+                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                  {t('readerSync.settingsHint', 'Pray on your Xteink e-ink reader')}
+                </Text>
+              </YStack>
+              <Text fontFamily="$body" fontSize="$2" color="$accent">
+                {t('settings.open', 'Open')}
+              </Text>
+            </XStack>
+          </Pressable>
+        </Link>
+
+        <SectionDivider />
 
         <YStack gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">

@@ -1,8 +1,7 @@
-import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
+import type { FlowContext } from '@ember/content-engine'
 import { type UseQueryResult, useQuery, useQueryClient } from '@tanstack/react-query'
-import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
-import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'
+import { renderFlow } from '@/content/renderFlow'
 import type { RenderedSection } from '@/content/types'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
@@ -83,17 +82,13 @@ export function usePracticeContent(
         programDay,
         selectOverrides: {},
       }
-      const ec = withSpiritualThreads(
-        createEngineContext(undefined, { contentLanguage, secondaryLanguage }),
-      )
-      const renderedSections = await resolveFlowAsync(flow, context, ec)
-      const primitives = await preprocessFlow(renderedSections, {
+      return renderFlow(flow, context, {
+        contentLanguage,
+        secondaryLanguage,
+        translation,
+        doVersion,
         queryClient,
-        prefs: { lang: contentLanguage, translation, doVersion },
-        date: now,
-        programDay,
       })
-      return { renderedSections, primitives }
     },
     enabled: !!flow,
     staleTime: Number.POSITIVE_INFINITY,

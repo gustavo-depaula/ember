@@ -14,7 +14,8 @@
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
         "UIBackgroundModes": ["audio"],
-        "EMBER_CUSTODY_APP_GROUP": "group.me.dpgu.ember"
+        "EMBER_CUSTODY_APP_GROUP": "group.me.dpgu.ember",
+        "NSLocalNetworkUsageDescription": "Ember serves your prayers to a nearby e-ink reader over your local Wi-Fi network."
       },
       "entitlements": {
         "com.apple.developer.family-controls": true,

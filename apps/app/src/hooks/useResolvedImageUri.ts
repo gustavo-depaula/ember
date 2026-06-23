@@ -2,15 +2,7 @@ import { useEffect, useState } from 'react'
 import { Platform } from 'react-native'
 import { blobUri } from '@/content/store'
 import { idbReadBinary } from '@/lib/idb-fs'
-
-function mimeForPath(path: string): string {
-  const lowerPath = path.toLowerCase()
-  if (lowerPath.endsWith('.png')) return 'image/png'
-  if (lowerPath.endsWith('.gif')) return 'image/gif'
-  if (lowerPath.endsWith('.svg')) return 'image/svg+xml'
-  if (lowerPath.endsWith('.webp')) return 'image/webp'
-  return 'image/jpeg'
-}
+import { mimeForPath } from '@/lib/mime'
 
 function idbPathFromUri(uri: string): string {
   return uri.replace(/^idb:\/\//, '')
