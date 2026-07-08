@@ -4,9 +4,9 @@
  *
  *  - `registerEscrivaCatalog()` (sync, no network) seeds the catalog entries +
  *    the collection so tiles appear instantly, and installs the manifest
- *    resolver so an unwarmed book builds on demand.
- *  - `warmEscrivaBooks()` builds each `BookEntry` (toc + external chapter refs)
- *    from the API in the background, caching it in SQLite for instant relaunch.
+ *    resolver so a book's `BookEntry` (toc + external chapter refs) builds on
+ *    demand — the reader and details screen both resolve it via
+ *    `ensureManifestBody`, caching it in SQLite for instant relaunch.
  *  - `loadEscrivaChapterHtml()` is the on-demand chapter loader used by the
  *    reader's external-ref branch (cache-or-fetch).
  */
@@ -163,17 +163,6 @@ async function buildBookEntry(work: EscrivaWork): Promise<BookEntry> {
     chapters,
     source: { type: 'external', producer: escrivaProducerId, homepage: escrivaHomepage },
   }
-}
-
-/** Background warmer: build every book's manifest (cached after first run). */
-export async function warmEscrivaBooks(): Promise<void> {
-  await Promise.all(
-    escrivaWorks.map((work) =>
-      ensureEscrivaBookEntry(work.slug).catch((err) => {
-        console.warn(`[escriva] warm ${work.slug} failed:`, err)
-      }),
-    ),
-  )
 }
 
 /** Cache-or-fetch a chapter's body HTML for the reader's external-ref branch. */

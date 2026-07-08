@@ -49,38 +49,61 @@ export async function fetchHearth<T>(
 ): Promise<T> {
   const isLocal = __DEV__ && useLocal
   const key = `hearth:${path}`
+  // ETag lives under the same `hearth:` prefix so clearCache('hearth:') wipes
+  // it alongside the body — no separate cleanup on a hearth switch.
+  const etagKey = `${key}:etag`
 
   if (!isLocal && !networkFirst) {
     const cached = await getCached<T>(key)
     if (cached) return cached
   }
 
-  async function fetchFrom(baseUrl: string, timeoutMs: number): Promise<T> {
+  // `conditional` revalidates against the CDN's ETag: an unchanged file comes
+  // back 304 with no body, so we skip the download, the JSON.parse, and the
+  // SQLite re-write entirely. Only meaningful against the remote (production);
+  // dev always fetches fresh.
+  async function fetchFrom(baseUrl: string, timeoutMs: number, conditional: boolean): Promise<T> {
     const controller = new AbortController()
     const timeout = setTimeout(() => controller.abort(), timeoutMs)
+    const headers: Record<string, string> = {}
+    if (conditional) {
+      const etag = await getCached<string>(etagKey)
+      if (etag) headers['If-None-Match'] = etag
+    }
     let res: Response
     try {
-      res = await fetch(`${baseUrl}/${path}`, { signal: controller.signal })
+      res = await fetch(`${baseUrl}/${path}`, { signal: controller.signal, headers })
     } finally {
       clearTimeout(timeout)
     }
+    if (res.status === 304) {
+      const cached = await getCached<T>(key)
+      if (cached !== undefined) return cached
+      // The validator outlived the body (cache cleared but etag kept). Re-fetch
+      // unconditionally to recover a body.
+      return fetchFrom(baseUrl, timeoutMs, false)
+    }
     if (!res.ok) throw new Error(`Hearth ${path}: ${res.status}`)
-    return (await res.json()) as T
+    const data = (await res.json()) as T
+    if (!isLocal) {
+      await setCache(key, data)
+      const etag = res.headers.get('etag')
+      if (etag) await setCache(etagKey, etag)
+    }
+    return data
   }
 
   try {
     // Fail fast on local dev so the boot splash doesn't block 15s when the
     // dev hearth (e.g. on a LAN IP that may not be reachable) is offline.
-    const data = await fetchFrom(getBaseUrl(), isLocal ? 3_000 : 15_000)
-    if (!isLocal) await setCache(key, data)
-    return data
+    return await fetchFrom(getBaseUrl(), isLocal ? 3_000 : 15_000, !isLocal)
   } catch (err) {
     // Local-dev fallback: when the dev hearth is offline, transparently fall
     // back to the remote so the app stays functional. Only on network/timeout
     // errors — re-throw if the user's offline.
     if (isLocal) {
       try {
-        return await fetchFrom(remoteUrl, 15_000)
+        return await fetchFrom(remoteUrl, 15_000, false)
       } catch (remoteErr) {
         console.warn('[hearth] local + remote fetch failed for', path, remoteErr)
       }
