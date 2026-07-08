@@ -9,6 +9,7 @@ import { Text, View, YStack } from 'tamagui'
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookEntry } from '@/content/resolver'
+import { useBookManifest } from '@/features/books/hooks'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
@@ -115,7 +116,9 @@ export function BookReader({ bookId, chapter }: Props) {
   const setHintSeen = usePreferencesStore((s) => s.setBookReaderHintSeen)
   const [showHint, setShowHint] = useState(!hintSeen)
 
-  const bookEntry = useMemo(() => getBookEntry(bookId), [bookId])
+  // Resolve on demand rather than relying on a boot-time warm, so a deep link
+  // straight into the reader (no details screen first) still works.
+  const { data: bookEntry } = useBookManifest(bookId)
 
   const lang = useMemo(() => {
     if (!bookEntry) return 'en-US'

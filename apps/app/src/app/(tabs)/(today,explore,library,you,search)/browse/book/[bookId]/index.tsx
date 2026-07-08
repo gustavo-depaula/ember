@@ -1,4 +1,3 @@
-import { useQuery } from '@tanstack/react-query'
 import { type Href, useLocalSearchParams, useRouter } from 'expo-router'
 import { Check, ChevronDown, ChevronRight, Search } from 'lucide-react-native'
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
@@ -9,10 +8,10 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
-import { ensureManifestBody, getEntry } from '@/content/contentIndex'
-import type { BookEntry, TocNode } from '@/content/manifestTypes'
+import type { TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
+import { useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
   buildCompletedLeafIndex,
@@ -69,16 +68,9 @@ export default function BookDetailScreen() {
   })
 
   const bookRef = `book/${bookId}`
-  const entry = getEntry(bookRef)
-
-  // Eager-fetch the manifest (rather than waiting on the background warmer) so
-  // an unwarmed book resolves fast; the catalog hints carry the title meanwhile.
-  const { data: book } = useQuery({
-    queryKey: ['book-manifest', entry?.hash],
-    queryFn: () => ensureManifestBody<BookEntry>(entry?.hash ?? ''),
-    enabled: !!entry,
-    staleTime: Number.POSITIVE_INFINITY,
-  })
+  // Resolve the manifest on demand; the catalog hints (`entry`) carry the title
+  // and languages meanwhile.
+  const { data: book, entry } = useBookManifest(bookId)
 
   const lang = useMemo(() => {
     const langs = book?.languages ?? entry?.langs ?? []

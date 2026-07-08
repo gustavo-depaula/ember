@@ -4,12 +4,11 @@
  * standard book reader, but scraped live from vatican.va rather than stored in
  * Hearth. Mirrors the Escrivá integration (see escrivaCatalog.ts):
  *
- *  - `registerCccCatalog()` (sync, no network) seeds the catalog entries and
- *    installs the manifest resolver so a book builds on demand. The TOC is
- *    static, so both books appear (with full table of contents) instantly and
- *    offline; only chapter bodies need the network on first open.
- *  - `warmCccBooks()` remembers the assembled manifests so synchronous readers
- *    (cross-reference navigation) see them.
+ *  - `registerCccCatalog()` (sync, no network) seeds the catalog entries, makes
+ *    the static manifests resident (so synchronous cross-reference readers see
+ *    them), and installs the manifest resolver as a fallback. The TOC is static,
+ *    so both books appear (with full table of contents) instantly and offline;
+ *    only chapter bodies need the network on first open.
  *  - `loadCccChapterHtml()` is the on-demand chapter loader used by the reader's
  *    external-ref branch (cache-or-fetch), dispatching CCC vs Compendium.
  */
@@ -151,24 +150,26 @@ function entry(bookId: string, name: LocalizedText, description: LocalizedText):
   }
 }
 
-/** Seed catalog entries (sync) + install the on-demand manifest resolver. */
+/**
+ * Seed catalog entries + make the manifests resident, all synchronously. Both
+ * manifests are static (no network), so remembering them here — instead of via a
+ * separate boot-time warm — means synchronous readers (cross-reference anchors)
+ * see them the moment the catalog registers. The on-demand resolver stays as a
+ * fallback for any hash not already remembered.
+ */
 export function registerCccCatalog(): void {
   registerLocalEntries({
     'book/ccc': entry('ccc', cccName, cccDescription),
     'book/compendium': entry('compendium', compendiumName, compendiumDescription),
   })
-  setManifestBodyResolver(async (hash) => {
-    if (!hash.startsWith(cccBookHashPrefix)) return undefined
-    return buildBookEntry(hash.slice(cccBookHashPrefix.length))
-  })
-}
-
-/** Remember the assembled manifests so synchronous readers see them (anchors). */
-export async function warmCccBooks(): Promise<void> {
   for (const bookId of ['ccc', 'compendium']) {
     const built = buildBookEntry(bookId)
     if (built) rememberManifestBody(`${cccBookHashPrefix}${bookId}`, built)
   }
+  setManifestBodyResolver(async (hash) => {
+    if (!hash.startsWith(cccBookHashPrefix)) return undefined
+    return buildBookEntry(hash.slice(cccBookHashPrefix.length))
+  })
 }
 
 // Minimal styling for the scraped paragraph-number markers. External books carry

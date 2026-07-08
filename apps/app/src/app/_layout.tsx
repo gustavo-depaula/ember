@@ -42,8 +42,8 @@ import { flags } from '@/config/flags'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import { maybeRunCacheEviction } from '@/content/cacheMaintenance'
-import { registerCccCatalog, warmCccBooks } from '@/content/cccCatalog'
-import { registerEscrivaCatalog, warmEscrivaBooks } from '@/content/escrivaCatalog'
+import { registerCccCatalog } from '@/content/cccCatalog'
+import { registerEscrivaCatalog } from '@/content/escrivaCatalog'
 import {
   hasCachedCatalog,
   loadCatalogFromHearth,
@@ -164,14 +164,7 @@ export default function RootLayout() {
     hydrateFavorites()
     hydrateCheckIns()
     hydrateReminders()
-  }, [
-    dbReady,
-    hydratePrefs,
-    hydrateBible,
-    hydrateFavorites,
-    hydrateCheckIns,
-    hydrateReminders,
-  ])
+  }, [dbReady, hydratePrefs, hydrateBible, hydrateFavorites, hydrateCheckIns, hydrateReminders])
 
   const [seeded, setSeeded] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)
@@ -226,12 +219,6 @@ export default function RootLayout() {
         mark('critical manifests warmed')
         warmDeferredManifests().catch((err) => {
           console.warn('[startup] warm deferred manifests failed:', err)
-        })
-        warmEscrivaBooks().catch((err) => {
-          console.warn('[startup] warm Escrivá books failed:', err)
-        })
-        warmCccBooks().catch((err) => {
-          console.warn('[startup] warm Catechism books failed:', err)
         })
 
         setBootStatus(i18n.t('boot.almostReady'))
