@@ -1,0 +1,58 @@
+{
+  "id": "any-saint-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena for Any Saint",
+    "pt-BR": "Novena para Qualquer Santo"
+  },
+  "subtitle": {
+    "en-US": "any saint",
+    "pt-BR": "qualquer santo"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "any-saint-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A flexible nine-day novena that can be prayed to any saint. Fill in the bracketed name with the saint you wish to honor, and ask for their intercession and the grace to imitate their virtues.",
+    "pt-BR": "Uma novena flexível de nove dias que pode ser rezada a qualquer santo. Preencha o nome entre colchetes com o santo que deseja honrar e peça a sua intercessão e a graça de imitar as suas virtudes."
+  },
+  "history": {
+    "en-US": "The saints are the proven friends of God, men and women of every age who let grace make them holy and who now intercede for us before His throne. The Church has long invoked them in novenas of nine days, recalling the nine days the apostles and Mary spent in prayer awaiting the Holy Spirit. This novena may be offered to any saint, that the faithful might learn from their example and lean on their prayers.",
+    "pt-BR": "Os santos são os amigos comprovados de Deus, homens e mulheres de todas as épocas que deixaram a graça torná-los santos e que agora intercedem por nós diante de seu trono. Há muito a Igreja os invoca em novenas de nove dias, recordando os nove dias que os apóstolos e Maria passaram em oração aguardando o Espírito Santo. Esta novena pode ser oferecida a qualquer santo, para que os fiéis aprendam com o seu exemplo e se apoiem nas suas orações."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 272,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

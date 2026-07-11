@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Padre Pio",
+        "pt-BR": "Novena a São Pio de Pietrelcina"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Padre Pio, faithful servant of God and bearer of the wounds of Christ, you who spent yourself for sinners at the altar and in the confessional, draw near to me now. Obtain for me a deeper love of Jesus and confidence in His mercy. Amen.",
+        "pt-BR": "São Pio, servo fiel de Deus e portador das chagas de Cristo, vós que vos consumistes pelos pecadores no altar e no confessionário, aproximai-vos de mim agora. Alcançai-me um amor mais profundo a Jesus e confiança em Sua misericórdia. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-padre-pio-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Padre Pio, who taught us to pray, to hope, and not to worry, intercede for me before the throne of God. Win for me the grace I seek and, above all, the will to belong wholly to Christ. Amen.",
+        "pt-BR": "São Pio, que nos ensinastes a rezar, a esperar e a não nos preocuparmos, intercedei por mim diante do trono de Deus. Alcançai-me a graça que peço e, acima de tudo, a vontade de pertencer inteiramente a Cristo. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

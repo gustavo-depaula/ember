@@ -1,0 +1,58 @@
+{
+  "id": "st-jose-de-anchieta-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. José de Anchieta",
+    "pt-BR": "Novena a São José de Anchieta"
+  },
+  "subtitle": {
+    "en-US": "May 31–Jun 8",
+    "pt-BR": "31 de maio–8 de junho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-jose-de-anchieta-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. José de Anchieta, the Jesuit missionary known as the Apostle of Brazil.",
+    "pt-BR": "Uma novena de nove dias a São José de Anchieta, o missionário jesuíta conhecido como o Apóstolo do Brasil."
+  },
+  "history": {
+    "en-US": "St. José de Anchieta (1534–1597), born in Tenerife, entered the Society of Jesus and sailed to Brazil in 1553. With Manuel da Nóbrega he helped found the mission of São Paulo de Piratininga and later Rio de Janeiro, learning the Tupi language and writing its first grammar. A poet and tireless catechist of the indigenous peoples, he was canonized by Pope Francis in 2014.",
+    "pt-BR": "São José de Anchieta (1534–1597), nascido em Tenerife, entrou na Companhia de Jesus e partiu para o Brasil em 1553. Com Manuel da Nóbrega ajudou a fundar a missão de São Paulo de Piratininga e, mais tarde, o Rio de Janeiro, aprendendo a língua tupi e escrevendo sua primeira gramática. Poeta e incansável catequista dos povos indígenas, foi canonizado pelo Papa Francisco em 2014."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 218,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

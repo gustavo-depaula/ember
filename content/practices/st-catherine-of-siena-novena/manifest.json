@@ -1,0 +1,58 @@
+{
+  "id": "st-catherine-of-siena-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Catherine of Siena",
+    "pt-BR": "Novena a Santa Catarina de Sena"
+  },
+  "subtitle": {
+    "en-US": "Apr 20–28",
+    "pt-BR": "20–28 de abril"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-catherine-of-siena-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Catherine of Siena, Doctor of the Church, mystic of the Precious Blood, and fearless counselor of popes.",
+    "pt-BR": "Uma novena de nove dias a Santa Catarina de Sena, Doutora da Igreja, mística do Preciosíssimo Sangue e destemida conselheira dos papas."
+  },
+  "history": {
+    "en-US": "St. Catherine of Siena (1347–1380) was a Dominican tertiary, mystic, and one of the first women declared a Doctor of the Church. Granted the grace of mystical espousal to Christ, she devoted herself to the sick, the poor, and the reform of a Church then torn by division. With burning love she wrote letters to princes and pleaded with the Pope to return from Avignon to Rome. This novena seeks her ardent intercession, that we too may become who God meant us to be.",
+    "pt-BR": "Santa Catarina de Sena (1347–1380) foi terciária dominicana, mística e uma das primeiras mulheres declaradas Doutora da Igreja. Agraciada com o dom do desposório místico com Cristo, dedicou-se aos doentes, aos pobres e à reforma de uma Igreja então dilacerada por divisões. Com amor ardente escreveu a príncipes e suplicou ao Papa que voltasse de Avinhão para Roma. Esta novena busca sua intercessão ardente, para que também nós nos tornemos aquilo que Deus quis que fôssemos."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 213,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Septenary of the Seven Sorrows of Mary",
+        "pt-BR": "Setenário das Dores de Nossa Senhora"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O sorrowful Mother of God, who stood faithfully beside your Son through every wound of His Passion, turn your eyes of mercy upon me. By the seven swords that pierced your heart, obtain for me a true sorrow for sin and a share in your unfailing love. Amen.",
+        "pt-BR": "Ó dolorosa Mãe de Deus, que permanecestes fielmente junto a vosso Filho em cada chaga de Sua Paixão, voltai para mim os vossos olhos misericordiosos. Pelas sete espadas que trespassaram o vosso coração, alcançai-me uma verdadeira dor pelos pecados e uma parte do vosso amor que não falha. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "seven-sorrows-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Lady of Sorrows, who became Mother of us all at the foot of the Cross, keep me close to your wounded heart. Teach me to stand with you in the sufferings of this life, that I may also stand with you in the joy of the Resurrection. Amen.",
+        "pt-BR": "Nossa Senhora das Dores, que vos tornastes Mãe de todos nós ao pé da Cruz, mantende-me junto ao vosso coração ferido. Ensinai-me a permanecer convosco nos sofrimentos desta vida, para que eu também permaneça convosco na alegria da Ressurreição. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

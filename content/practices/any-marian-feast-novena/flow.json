@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for Any Feast of Our Lady",
+        "pt-BR": "Novena para Qualquer Festa de Nossa Senhora"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Mary, honored [under this title/feast], I come before you as a child before its mother. You who are full of grace and never turn away from those who run to you, look upon me with the same love with which you watched over your Son. Lead me by your hand to Jesus, and obtain for me the graces I most need. Amen.",
+        "pt-BR": "Ó Maria, honrada [sob este título/festa], venho diante de vós como uma criança diante de sua mãe. Vós que sois cheia de graça e jamais vos afastais dos que a vós recorrem, olhai-me com o mesmo amor com que velastes por vosso Filho. Conduzi-me pela mão até Jesus e alcançai-me as graças de que mais preciso. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "any-marian-feast-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Most holy Virgin Mary, I thank you for hearing the prayer of these nine days. Present my petitions to your Son, and if what I ask is for the good of my soul, obtain it for me; and if it is not, grant me instead the grace to want only what God wills. Keep me always near to your maternal heart. Amen.",
+        "pt-BR": "Santíssima Virgem Maria, eu vos agradeço por terdes escutado a oração destes nove dias. Apresentai a vosso Filho os meus pedidos e, se aquilo que peço for para o bem da minha alma, alcançai-mo; e, se não for, concedei-me antes a graça de querer somente o que Deus quer. Conservai-me sempre junto ao vosso coração maternal. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

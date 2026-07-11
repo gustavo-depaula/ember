@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Benedict",
+        "pt-BR": "Novena a São Bento"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious St. Benedict, father of monks and patron of a peaceful death, you sought God above all things in silence and labor. As I begin this novena, obtain for me a heart ordered to God and freed from the snares of the evil one. Teach me to seek nothing dearer than Christ. Amen.",
+        "pt-BR": "Glorioso São Bento, pai dos monges e patrono de uma morte feliz, vós buscastes a Deus acima de todas as coisas no silêncio e no trabalho. Ao iniciar esta novena, alcançai-me um coração ordenado a Deus e livre das ciladas do maligno. Ensinai-me a nada preferir ao amor de Cristo. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-benedict-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Benedict, whose cross puts the enemy to flight, defend me against every temptation and lead me in the way of peace. May the balance of prayer and work order all my days, and may I persevere in the school of the Lord's service. Bring me at last to the kingdom to which your Rule points. Amen.",
+        "pt-BR": "São Bento, cuja cruz põe em fuga o inimigo, defendei-me contra toda tentação e conduzi-me no caminho da paz. Que o equilíbrio entre a oração e o trabalho ordene todos os meus dias, e que eu persevere na escola do serviço do Senhor. Levai-me enfim ao reino para o qual a vossa Regra aponta. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

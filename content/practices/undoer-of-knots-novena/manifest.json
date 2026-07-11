@@ -1,0 +1,58 @@
+{
+  "id": "undoer-of-knots-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena to Our Lady, Undoer of Knots",
+    "pt-BR": "Novena a Nossa Senhora Desatadora dos Nós"
+  },
+  "subtitle": {
+    "en-US": "any time",
+    "pt-BR": "a qualquer tempo"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "marian"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "undoer-of-knots-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to Our Lady, Undoer of Knots, who with patient hands unties the tangled situations of our lives. Each day we name a kind of knot and place it in her care, learning trust, patience, and surrender.",
+    "pt-BR": "Uma novena de nove dias a Nossa Senhora Desatadora dos Nós, que com mãos pacientes desata as situações emaranhadas das nossas vidas. Cada dia nomeamos um tipo de nó e o colocamos aos seus cuidados, aprendendo confiança, paciência e abandono."
+  },
+  "history": {
+    "en-US": "This devotion springs from a Baroque painting in Augsburg, Germany, where Mary is shown patiently untying the knots of a long ribbon while she crushes the serpent underfoot. The image draws on St. Irenaeus, who taught that the knot of Eve's disobedience was untied by Mary's obedience. Popularized by Pope Francis, who encountered the image in Germany and spread the devotion from Argentina, the devotion has spread worldwide as a prayer for tangled and seemingly hopeless situations.",
+    "pt-BR": "Esta devoção nasce de uma pintura barroca em Augsburgo, na Alemanha, onde Maria aparece desatando pacientemente os nós de uma longa fita enquanto esmaga a serpente sob os pés. A imagem se inspira em Santo Irineu, que ensinava que o nó da desobediência de Eva foi desatado pela obediência de Maria. Difundida pelo Papa Francisco, que conheceu a imagem na Alemanha e propagou a devoção a partir da Argentina, a devoção espalhou-se pelo mundo como oração para situações emaranhadas e aparentemente sem saída."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "marian"
+  ],
+  "defaults": {
+    "sortOrder": 274,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

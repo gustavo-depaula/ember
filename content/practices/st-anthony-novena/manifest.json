@@ -5,7 +5,13 @@
     "en-US": "Novena to St. Anthony of Padua",
     "pt-BR": "Novena a Santo Antônio de Pádua"
   },
-  "categories": ["program", "devotion", "saints", "franciscan", "intercession"],
+  "categories": [
+    "program",
+    "devotion",
+    "saints",
+    "franciscan",
+    "intercession"
+  ],
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
@@ -30,7 +36,13 @@
     "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross and opening prayer, read the meditation and intention of the day, then conclude with one Our Father, one Hail Mary, one Glory Be, and the closing prayer to St. Anthony.",
     "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia a meditação e a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final a Santo Antônio."
   },
-  "tags": ["novena", "st-anthony", "padua", "9-days", "intercession"],
+  "tags": [
+    "novena",
+    "st-anthony",
+    "padua",
+    "9-days",
+    "intercession"
+  ],
   "defaults": {
     "sortOrder": 46,
     "slots": [
@@ -42,5 +54,9 @@
         "enabled": false
       }
     ]
+  },
+  "subtitle": {
+    "en-US": "May 31–Jun 12",
+    "pt-BR": "31 de maio–12 de junho"
   }
 }

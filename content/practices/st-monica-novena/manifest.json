@@ -1,0 +1,58 @@
+{
+  "id": "st-monica-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Monica",
+    "pt-BR": "Novena a Santa Mônica"
+  },
+  "subtitle": {
+    "en-US": "Aug 18–26",
+    "pt-BR": "18–26 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-monica-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Monica, mother of St. Augustine, patroness of mothers, wives, and all who pray with tears for the conversion of those they love.",
+    "pt-BR": "Uma novena de nove dias a Santa Mônica, mãe de Santo Agostinho, padroeira das mães, das esposas e de todos os que oram com lágrimas pela conversão dos que amam."
+  },
+  "history": {
+    "en-US": "St. Monica (331–387) was a Christian mother in Roman North Africa who wept and prayed for seventeen years over the dissolute life of her brilliant son Augustine and the harshness of her pagan husband Patricius. Her perseverance won both their souls: Augustine became one of the Church's greatest saints, and a bishop assured her that 'the child of so many tears could never be lost.' She is honored as the model of the praying mother.",
+    "pt-BR": "Santa Mônica (331–387) foi uma mãe cristã na África romana que chorou e orou por dezessete anos pela vida dissoluta de seu filho brilhante, Agostinho, e pela dureza de seu marido pagão, Patrício. Sua perseverança conquistou ambas as almas: Agostinho tornou-se um dos maiores santos da Igreja, e um bispo a confortou dizendo que 'o filho de tantas lágrimas não poderia se perder'. É venerada como o modelo da mãe que reza."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 236,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

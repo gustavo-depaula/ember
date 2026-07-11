@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for the Annunciation",
+        "pt-BR": "Novena da Anunciação"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Word of God, who at the angel's message became flesh in the most pure womb of the Virgin Mary, come and be born anew in my heart. As you found in her a willing dwelling, prepare in me a place to receive you. Amen.",
+        "pt-BR": "Ó Verbo de Deus, que ao anúncio do anjo vos fizestes carne no puríssimo seio da Virgem Maria, vinde e nascei de novo no meu coração. Como encontrastes nela uma morada disposta, preparai em mim um lugar para vos acolher. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "annunciation-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Pour forth, we beseech you, O Lord, your grace into my heart, that as I have known the Incarnation of your Son by the message of an angel, so by His Passion and Cross I may be brought to the glory of His resurrection. Through Mary's fiat, grant the grace I ask in this novena. Amen.",
+        "pt-BR": "Infundi, Senhor, nós vos pedimos, a vossa graça em meu coração, para que, tendo conhecido pela mensagem do anjo a Encarnação de vosso Filho, por sua Paixão e Cruz eu seja conduzido à glória da ressurreição. Pelo fiat de Maria, concedei-me a graça que peço nesta novena. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

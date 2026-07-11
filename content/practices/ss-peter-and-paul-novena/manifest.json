@@ -1,0 +1,58 @@
+{
+  "id": "ss-peter-and-paul-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to SS. Peter and Paul",
+    "pt-BR": "Novena a São Pedro e São Paulo"
+  },
+  "subtitle": {
+    "en-US": "Jun 20–28",
+    "pt-BR": "20–28 de junho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "ss-peter-and-paul-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "Nine days with the two great apostles, Peter the rock and Paul the teacher of the nations, pillars of the Church of Rome.",
+    "pt-BR": "Nove dias com os dois grandes apóstolos, Pedro a pedra e Paulo o doutor das nações, colunas da Igreja de Roma."
+  },
+  "history": {
+    "en-US": "St. Peter, a Galilean fisherman, was named by Christ the rock on which He would build His Church and given the keys of the kingdom. St. Paul, once a persecutor, was struck down on the road to Damascus and became the tireless apostle to the gentiles. Both crowned their labors with martyrdom in Rome and are honored together on June 29.",
+    "pt-BR": "São Pedro, pescador da Galileia, foi chamado por Cristo de pedra sobre a qual edificaria a sua Igreja, recebendo as chaves do reino. São Paulo, outrora perseguidor, foi prostrado no caminho de Damasco e tornou-se o incansável apóstolo dos gentios. Ambos coroaram seus trabalhos com o martírio em Roma e são honrados juntos no dia 29 de junho."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 222,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

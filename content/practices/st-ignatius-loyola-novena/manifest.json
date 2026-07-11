@@ -1,0 +1,58 @@
+{
+  "id": "st-ignatius-loyola-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Ignatius of Loyola",
+    "pt-BR": "Novena a Santo Inácio de Loyola"
+  },
+  "subtitle": {
+    "en-US": "Jul 22–30",
+    "pt-BR": "22–30 de julho"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-ignatius-loyola-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Ignatius of Loyola, soldier turned saint, founder of the Society of Jesus, author of the Spiritual Exercises, who taught the Church to seek the greater glory of God in all things.",
+    "pt-BR": "Uma novena de nove dias a Santo Inácio de Loyola, soldado convertido em santo, fundador da Companhia de Jesus, autor dos Exercícios Espirituais, que ensinou a Igreja a buscar em tudo a maior glória de Deus."
+  },
+  "history": {
+    "en-US": "Born in 1491 in the Basque country, Ignatius was a worldly soldier until a cannonball shattered his leg at Pamplona in 1521. During his recovery he read the life of Christ and the saints, and a deeper ambition was born in him. After a long conversion at Manresa he composed the Spiritual Exercises, founded the Jesuits in 1540, and sent his sons across the world for the salvation of souls.",
+    "pt-BR": "Nascido em 1491 no País Basco, Inácio foi um soldado mundano até que uma bala de canhão lhe estilhaçou a perna em Pamplona, em 1521. Durante a convalescença leu a vida de Cristo e dos santos, e nasceu nele uma ambição mais profunda. Após uma longa conversão em Manresa, compôs os Exercícios Espirituais, fundou os Jesuítas em 1540 e enviou seus filhos pelo mundo para a salvação das almas."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 227,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

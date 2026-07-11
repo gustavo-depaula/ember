@@ -1,0 +1,58 @@
+{
+  "id": "mary-mother-of-god-novena",
+  "icon": "mary",
+  "name": {
+    "en-US": "Novena to Mary, Mother of God",
+    "pt-BR": "Novena a Santa Maria, Mãe de Deus"
+  },
+  "subtitle": {
+    "en-US": "Dec 23–31",
+    "pt-BR": "23–31 de dezembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "marian"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "mary-mother-of-god-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena honoring the Blessed Virgin Mary under her highest title, Mother of God, imploring her maternal protection.",
+    "pt-BR": "Uma novena de nove dias em honra à Santíssima Virgem Maria sob o seu mais alto título, Mãe de Deus, implorando a sua proteção materna."
+  },
+  "history": {
+    "en-US": "At the Council of Ephesus in 431, the Church solemnly proclaimed Mary 'Theotokos' — God-bearer, Mother of God — defending the truth that her Son is one divine Person. Because she gave human flesh to the eternal Word, she is truly the Mother of God, and from the Cross her Son gave her to us as our Mother. This novena draws on the ancient prayer Sub Tuum Praesidium, the oldest known prayer to Our Lady.",
+    "pt-BR": "No Concílio de Éfeso, em 431, a Igreja proclamou solenemente Maria 'Theotokos' — aquela que gerou Deus, Mãe de Deus — defendendo a verdade de que o seu Filho é uma só Pessoa divina. Porque deu carne humana ao Verbo eterno, ela é verdadeiramente a Mãe de Deus, e do alto da Cruz o seu Filho a entregou a nós como nossa Mãe. Esta novena se inspira na antiga oração Sub Tuum Praesidium, a mais antiga súplica conhecida à Nossa Senhora."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "marian"
+  ],
+  "defaults": {
+    "sortOrder": 201,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

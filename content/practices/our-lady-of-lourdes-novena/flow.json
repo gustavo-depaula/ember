@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to Our Lady of Lourdes",
+        "pt-BR": "Novena a Nossa Senhora de Lourdes"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O Immaculate Virgin Mary, who at Lourdes opened heaven to a humble child, turn your merciful eyes upon me as you turned them upon Bernadette. Receive the petition I bring to your grotto and present it to your Son. Amen.",
+        "pt-BR": "Ó Virgem Imaculada Maria, que em Lourdes abristes o céu a uma humilde menina, voltai para mim vossos olhos misericordiosos como os voltastes para Bernadette. Recebei a súplica que trago à vossa gruta e apresentai-a a vosso Filho. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "our-lady-of-lourdes-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Lady of Lourdes, health of the sick and refuge of sinners, obtain for me the grace I ask in this novena, if it be God's will, and above all the conversion and healing of my soul. Help me to do penance and to pray, as you asked at the grotto. Amen.",
+        "pt-BR": "Nossa Senhora de Lourdes, saúde dos enfermos e refúgio dos pecadores, alcançai-me a graça que peço nesta novena, se for da vontade de Deus, e sobretudo a conversão e a cura da minha alma. Ajudai-me a fazer penitência e a rezar, como pedistes na gruta. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to Our Lady of Fatima",
+        "pt-BR": "Novena a Nossa Senhora de Fátima"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Lady of Fatima, tender Mother who came to call your children back to God, I begin this novena trusting in your maternal love. Teach me to pray, to do penance, and to console the Heart of Jesus. Through your Immaculate Heart, present my petitions to your Son and obtain for me the grace I now ask. Amen.",
+        "pt-BR": "Nossa Senhora de Fátima, terna Mãe que viestes chamar vossos filhos de volta a Deus, inicio esta novena confiando em vosso amor materno. Ensinai-me a rezar, a fazer penitência e a consolar o Coração de Jesus. Por vosso Imaculado Coração, apresentai minhas súplicas a vosso Filho e alcançai-me a graça que agora peço. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "our-lady-of-fatima-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Lady of Fatima, who promised that your Immaculate Heart would triumph, keep me faithful to your requests of prayer and penance. Help me to pray the Rosary each day and to offer my sufferings for the conversion of sinners. May I one day rejoice with you and the shepherd children in the glory of heaven. Amen.",
+        "pt-BR": "Nossa Senhora de Fátima, que prometestes o triunfo de vosso Imaculado Coração, guardai-me fiel aos vossos pedidos de oração e penitência. Ajudai-me a rezar o Rosário cada dia e a oferecer meus sofrimentos pela conversão dos pecadores. Possa eu um dia alegrar-me convosco e com os pastorinhos na glória do céu. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

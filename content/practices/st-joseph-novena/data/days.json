@@ -4,54 +4,88 @@
     "default": [
       {
         "dayTitle": {
-          "en-US": "Day 1: Trustful obedience to God",
-          "pt-BR": "Dia 1: Obediência confiante a Deus"
+          "en-US": "Day 1: The Just Man",
+          "pt-BR": "Dia 1: O Homem Justo"
         },
         "meditation": {
-          "en-US": "St. Joseph listened to God's voice with a humble and prompt heart. He teaches us to receive God's will in faith, even when the path is hidden.",
-          "pt-BR": "São José escutou a voz de Deus com coração humilde e pronto. Ele nos ensina a acolher a vontade divina com fé, mesmo quando o caminho permanece oculto."
+          "en-US": "Scripture gives Joseph one title above all: a just man. When the unexpected disrupted his plans, he sought not his own honor but God's will, choosing mercy and silence over suspicion. His justice was not cold rectitude but love rightly ordered toward God and neighbor. From him we learn that holiness begins in the quiet decisions no one sees.",
+          "pt-BR": "A Escritura dá a José um título acima de todos: homem justo. Quando o inesperado perturbou seus planos, ele não buscou a própria honra, mas a vontade de Deus, escolhendo a misericórdia e o silêncio em vez da suspeita. Sua justiça não era fria retidão, mas amor bem ordenado a Deus e ao próximo. Dele aprendemos que a santidade começa nas decisões silenciosas que ninguém vê."
+        },
+        "prayer": {
+          "en-US": "St. Joseph, most just, you placed God's will above your own understanding. Teach me to seek what is right when no one is watching, to choose mercy over judgment, and to trust God when His plans overturn mine. Make my heart upright and my conscience pure. Amen.",
+          "pt-BR": "São José, justíssimo, colocastes a vontade de Deus acima de vosso próprio entendimento. Ensinai-me a buscar o que é reto quando ninguém me observa, a escolher a misericórdia em vez do juízo e a confiar em Deus quando Seus planos derrubam os meus. Tornai meu coração íntegro e minha consciência pura. Amém."
         },
         "intention": {
-          "en-US": "For the grace to obey God promptly and trust His providence.",
-          "pt-BR": "Pela graça de obedecer prontamente a Deus e confiar em Sua providência."
+          "en-US": "For the grace of an upright heart that seeks God's will before its own.",
+          "pt-BR": "Pela graça de um coração íntegro que busca a vontade de Deus antes da própria."
         }
       },
       {
         "dayTitle": {
-          "en-US": "Day 2: Purity of heart and custody of chastity",
-          "pt-BR": "Dia 2: Pureza de coração e guarda da castidade"
+          "en-US": "Day 2: The Obedient Listener",
+          "pt-BR": "Dia 2: O Ouvinte Obediente"
         },
         "meditation": {
-          "en-US": "Joseph lived a pure love, entirely given to Jesus and Mary. His chaste heart reminds us that holiness flourishes in self-gift and integrity.",
-          "pt-BR": "José viveu um amor puro, totalmente entregue a Jesus e Maria. Seu coração casto nos recorda que a santidade floresce na doação e na integridade."
+          "en-US": "Four times an angel spoke to Joseph in dreams, and four times he rose at once to obey, without a single recorded word of his own. He took Mary into his home, fled to Egypt by night, and returned when called. His prompt obedience guarded the Child entrusted to him. Joseph shows us that faith is proven not in feelings but in action.",
+          "pt-BR": "Quatro vezes um anjo falou a José em sonhos, e quatro vezes ele se levantou imediatamente para obedecer, sem uma única palavra sua registrada. Acolheu Maria em sua casa, fugiu para o Egito de noite e voltou quando chamado. Sua pronta obediência guardou a Criança que lhe fora confiada. José nos mostra que a fé se prova não nos sentimentos, mas na ação."
+        },
+        "prayer": {
+          "en-US": "St. Joseph, most obedient, you rose without delay to follow God's word, even into the dark and the unknown. Win for me a listening heart and feet ready to obey, that I may answer God's call promptly and without complaint, trusting that His command carries His grace. Amen.",
+          "pt-BR": "São José, obedientíssimo, levantastes-vos sem demora para seguir a palavra de Deus, mesmo na escuridão e no desconhecido. Alcançai-me um coração que escuta e pés prontos para obedecer, para que eu responda ao chamado de Deus prontamente e sem reclamar, confiando que Sua ordem traz consigo Sua graça. Amém."
         },
         "intention": {
-          "en-US": "For purity of heart, right intentions, and fidelity to our vocation.",
-          "pt-BR": "Pela pureza de coração, retidão de intenção e fidelidade à nossa vocação."
+          "en-US": "For the grace to obey God promptly, even when the path is unclear.",
+          "pt-BR": "Pela graça de obedecer prontamente a Deus, mesmo quando o caminho é incerto."
         }
       },
       {
         "dayTitle": {
-          "en-US": "Day 3: Family life and domestic holiness",
-          "pt-BR": "Dia 3: Vida familiar e santidade no lar"
+          "en-US": "Day 3: Most Chaste Spouse of Mary",
+          "pt-BR": "Dia 3: Castíssimo Esposo de Maria"
         },
         "meditation": {
-          "en-US": "In Nazareth, Joseph sanctified ordinary life through quiet love and service. He shows that homes become holy when Christ is at the center.",
-          "pt-BR": "Em Nazaré, José santificou a vida comum por meio do amor e do serviço silenciosos. Ele mostra que os lares se tornam santos quando Cristo está no centro."
+          "en-US": "Joseph was the true husband of the Immaculate Virgin, joined to her in a love purer than the angels'. He guarded her honor, shared her hidden glory, and cherished her with a chaste and faithful heart. In an age that confuses love with possession, Joseph reveals love as reverence and self-gift. His marriage was the cradle that sheltered the Redeemer.",
+          "pt-BR": "José foi o verdadeiro esposo da Virgem Imaculada, unido a ela num amor mais puro que o dos anjos. Guardou sua honra, partilhou sua glória oculta e a amou com um coração casto e fiel. Numa época que confunde amor com posse, José revela o amor como reverência e doação. Seu matrimônio foi o berço que abrigou o Redentor."
+        },
+        "prayer": {
+          "en-US": "Glorious St. Joseph, spouse of the Immaculate Virgin, you loved Mary with a pure and faithful heart. Obtain for me chastity of body and soul, reverence for every person, and love that never seeks to possess but only to give. Guard my heart as you guarded hers. Amen.",
+          "pt-BR": "Glorioso São José, esposo da Virgem Imaculada, amastes Maria com um coração puro e fiel. Alcançai-me a castidade de corpo e alma, a reverência por cada pessoa e um amor que nunca busca possuir, mas somente dar. Guardai meu coração como guardastes o dela. Amém."
         },
         "intention": {
-          "en-US": "For peace in families and growth in patience, charity, and forgiveness at home.",
-          "pt-BR": "Pela paz nas famílias e crescimento na paciência, na caridade e no perdão no lar."
+          "en-US": "For purity of heart and love that honors rather than possesses.",
+          "pt-BR": "Pela pureza de coração e por um amor que honra em vez de possuir."
         }
       },
       {
         "dayTitle": {
-          "en-US": "Day 4: Work, provision, and justice",
-          "pt-BR": "Dia 4: Trabalho, sustento e justiça"
+          "en-US": "Day 4: Guardian of the Redeemer",
+          "pt-BR": "Dia 4: Guardião do Redentor"
         },
         "meditation": {
-          "en-US": "As a carpenter, Joseph served God through honest labor. He teaches us to work with diligence, justice, and trust that God provides what we need.",
-          "pt-BR": "Como carpinteiro, José serviu a Deus pelo trabalho honesto. Ele nos ensina a trabalhar com diligência, justiça e confiança de que Deus provê o necessário."
+          "en-US": "God entrusted His own Son to the hands of a carpenter. Joseph fed, clothed, taught, and defended the Word made flesh, asking nothing for himself. He named the Child Jesus and stood as His father before the world. To be a guardian of what is most precious, and to do it quietly, is among the highest of callings. Joseph fulfilled it perfectly.",
+          "pt-BR": "Deus confiou o próprio Filho às mãos de um carpinteiro. José alimentou, vestiu, ensinou e defendeu o Verbo feito carne, sem pedir nada para si. Deu à Criança o nome de Jesus e foi diante do mundo o seu pai. Ser guardião do que há de mais precioso, e fazê-lo em silêncio, está entre as mais altas vocações. José a cumpriu perfeitamente."
+        },
+        "prayer": {
+          "en-US": "Guardian of the Word Incarnate, you watched over Jesus with tireless and humble care. Teach me to guard what God has placed in my keeping, to serve without seeking reward, and to protect the weak entrusted to me. Let my hidden faithfulness be precious in God's eyes. Amen.",
+          "pt-BR": "Guardião do Verbo Encarnado, velastes sobre Jesus com cuidado incansável e humilde. Ensinai-me a guardar o que Deus pôs sob minha responsabilidade, a servir sem buscar recompensa e a proteger os fracos que me são confiados. Que minha fidelidade oculta seja preciosa aos olhos de Deus. Amém."
+        },
+        "intention": {
+          "en-US": "For all entrusted to our care, that we may guard them faithfully.",
+          "pt-BR": "Por todos os que nos são confiados, para que os guardemos com fidelidade."
+        }
+      },
+      {
+        "dayTitle": {
+          "en-US": "Day 5: Joseph the Worker",
+          "pt-BR": "Dia 5: José Operário"
+        },
+        "meditation": {
+          "en-US": "At Nazareth the Son of God learned a trade at Joseph's bench, and through honest labor Joseph provided for the Holy Family. He sanctified work by offering each ordinary task to God. The sweat of his brow became a prayer. Joseph teaches us that no honest work is too small to be holy, and that diligence done in love builds the Kingdom.",
+          "pt-BR": "Em Nazaré o Filho de Deus aprendeu um ofício na bancada de José, e pelo trabalho honesto José sustentou a Sagrada Família. Ele santificou o trabalho oferecendo a Deus cada tarefa comum. O suor de seu rosto tornou-se oração. José nos ensina que nenhum trabalho honesto é pequeno demais para ser santo, e que a diligência feita com amor edifica o Reino."
+        },
+        "prayer": {
+          "en-US": "St. Joseph the Worker, you turned a humble workshop into a place of holiness. Bless the work of my hands and make it an offering to God. Provide for those who lack employment, defend the dignity of every laborer, and teach me to find you in faithful daily toil. Amen.",
+          "pt-BR": "São José Operário, transformastes uma humilde oficina num lugar de santidade. Abençoai o trabalho de minhas mãos e fazei dele uma oferta a Deus. Provede aos que não têm emprego, defendei a dignidade de todo trabalhador e ensinai-me a vos encontrar na fiel labuta de cada dia. Amém."
         },
         "intention": {
           "en-US": "For workers, the unemployed, and all who seek dignified and just labor.",
@@ -60,26 +94,34 @@
       },
       {
         "dayTitle": {
-          "en-US": "Day 5: Fathers, spouses, and vocations",
-          "pt-BR": "Dia 5: Pais, esposos e vocações"
+          "en-US": "Day 6: Pillar of Families",
+          "pt-BR": "Dia 6: Esteio das Famílias"
         },
         "meditation": {
-          "en-US": "Joseph's fatherhood was strong, tender, and faithful. His example strengthens husbands, fathers, and all who are called to spiritual fatherhood and service.",
-          "pt-BR": "A paternidade de José foi forte, terna e fiel. Seu exemplo fortalece os esposos, os pais e todos os chamados à paternidade espiritual e ao serviço."
+          "en-US": "The home of Nazareth was holy because love, prayer, and obedience dwelt within its walls. Joseph headed that household with strength and tenderness, ruling not by force but by service. Fathers, husbands, and all who shape a home find in him their model. Where Christ is welcomed at the center and each member is loved, an ordinary house becomes a school of holiness.",
+          "pt-BR": "O lar de Nazaré era santo porque o amor, a oração e a obediência habitavam entre suas paredes. José governava aquela casa com força e ternura, não pela imposição, mas pelo serviço. Os pais, os esposos e todos os que formam um lar encontram nele o seu modelo. Onde Cristo é acolhido no centro e cada membro é amado, uma casa comum torna-se escola de santidade."
+        },
+        "prayer": {
+          "en-US": "St. Joseph, pillar of family life, you led the Holy Family in peace and love. Bless every household, heal what is broken between parents and children, and grant our homes patience, forgiveness, and joy. May Christ reign at the heart of every family as He reigned in yours. Amen.",
+          "pt-BR": "São José, esteio da vida familiar, conduzistes a Sagrada Família na paz e no amor. Abençoai cada lar, curai o que está partido entre pais e filhos e concedei às nossas casas paciência, perdão e alegria. Que Cristo reine no coração de cada família como reinou na vossa. Amém."
         },
         "intention": {
-          "en-US": "For fathers, spouses, seminarians, and all discerning their vocation.",
-          "pt-BR": "Pelos pais, esposos, seminaristas e por todos os que discernem sua vocação."
+          "en-US": "For peace in families and growth in patience, charity, and forgiveness at home.",
+          "pt-BR": "Pela paz nas famílias e crescimento na paciência, na caridade e no perdão no lar."
         }
       },
       {
         "dayTitle": {
-          "en-US": "Day 6: Patience in trials and hidden life",
-          "pt-BR": "Dia 6: Paciência nas provações e vida escondida"
+          "en-US": "Day 7: Steadfast in Trial",
+          "pt-BR": "Dia 7: Firme na Provação"
         },
         "meditation": {
-          "en-US": "Joseph endured uncertainty, exile, and silence with steadfast faith. He teaches us to persevere in difficult seasons and trust God's timing.",
-          "pt-BR": "José suportou a incerteza, o exílio e o silêncio com fé perseverante. Ele nos ensina a permanecer firmes nas provações e a confiar no tempo de Deus."
+          "en-US": "Joseph's life was marked by hardship: a journey to Bethlehem with no room, a birth in a stable, a midnight flight from a murderous king, years of exile in a foreign land, the anguish of a Child lost for three days. Through every trial he held fast in faith. He shows us that God is present even in poverty, fear, and uncertainty, and that the just man endures.",
+          "pt-BR": "A vida de José foi marcada pela dificuldade: uma viagem a Belém sem lugar, um nascimento num estábulo, uma fuga noturna de um rei assassino, anos de exílio em terra estrangeira, a angústia de um Menino perdido por três dias. Em cada provação ele se manteve firme na fé. Ele nos mostra que Deus está presente mesmo na pobreza, no medo e na incerteza, e que o homem justo persevera."
+        },
+        "prayer": {
+          "en-US": "St. Joseph, steadfast in every trial, you never wavered though hardship pressed upon you. Strengthen all who carry heavy burdens, comfort those in fear or exile, and give me a faith that holds firm when the way is dark. Let me trust, as you did, that God is near. Amen.",
+          "pt-BR": "São José, firme em toda provação, nunca vacilastes embora a adversidade vos oprimisse. Fortalecei todos os que carregam pesados fardos, consolai os que estão no medo ou no exílio e dai-me uma fé que se mantenha firme quando o caminho é escuro. Que eu confie, como vós, que Deus está perto. Amém."
         },
         "intention": {
           "en-US": "For those carrying heavy burdens, that they may receive strength and perseverance.",
@@ -88,26 +130,16 @@
       },
       {
         "dayTitle": {
-          "en-US": "Day 7: Service to the Church",
-          "pt-BR": "Dia 7: Serviço à Igreja"
+          "en-US": "Day 8: Patron of a Happy Death",
+          "pt-BR": "Dia 8: Patrono da Boa Morte"
         },
         "meditation": {
-          "en-US": "Entrusted with protecting Jesus and Mary, Joseph now protects the Church. Under his patronage we learn fidelity, humility, and courageous service.",
-          "pt-BR": "Confiado à proteção de Jesus e Maria, José agora protege a Igreja. Sob seu patrocínio aprendemos fidelidade, humildade e serviço corajoso."
+          "en-US": "Tradition holds that Joseph died at Nazareth in the arms of Jesus and Mary, comforted by the presence of God's Son and the Mother of God. No death could be more blessed. For this the Church invokes him as patron of the dying. He teaches us to prepare for that hour now, by living each day in friendship with Christ, so that death becomes a homecoming.",
+          "pt-BR": "A tradição sustenta que José morreu em Nazaré nos braços de Jesus e de Maria, confortado pela presença do Filho de Deus e da Mãe de Deus. Nenhuma morte poderia ser mais bem-aventurada. Por isso a Igreja o invoca como patrono dos agonizantes. Ele nos ensina a preparar essa hora desde já, vivendo cada dia em amizade com Cristo, para que a morte se torne um retorno ao lar."
         },
-        "intention": {
-          "en-US": "For the Holy Church, for the Pope, bishops, priests, and all the faithful.",
-          "pt-BR": "Pela Santa Igreja, pelo Papa, bispos, sacerdotes e todos os fiéis."
-        }
-      },
-      {
-        "dayTitle": {
-          "en-US": "Day 8: Grace of a happy death and prayer for the dying",
-          "pt-BR": "Dia 8: Graça de uma boa morte e oração pelos agonizantes"
-        },
-        "meditation": {
-          "en-US": "Joseph is invoked as patron of a happy death, having died in the presence of Jesus and Mary. He teaches us to prepare each day to meet the Lord in peace.",
-          "pt-BR": "José é invocado como patrono da boa morte, por ter morrido na presença de Jesus e Maria. Ele nos ensina a preparar cada dia para encontrar o Senhor em paz."
+        "prayer": {
+          "en-US": "St. Joseph, patron of a happy death, you breathed your last in the arms of Jesus and Mary. Be present to the dying, console the souls in purgatory, and obtain for me the grace to die in God's friendship. When my hour comes, stand beside me with Jesus and Mary, and lead me home. Amen.",
+          "pt-BR": "São José, patrono da boa morte, exalastes vosso último suspiro nos braços de Jesus e de Maria. Estai presente junto aos agonizantes, consolai as almas do purgatório e alcançai-me a graça de morrer na amizade de Deus. Quando chegar minha hora, ficai ao meu lado com Jesus e Maria e conduzi-me ao lar. Amém."
         },
         "intention": {
           "en-US": "For the dying, for the souls in purgatory, and for the grace of a holy death.",
@@ -116,16 +148,20 @@
       },
       {
         "dayTitle": {
-          "en-US": "Day 9: Final perseverance and union with Jesus and Mary",
-          "pt-BR": "Dia 9: Perseverança final e união com Jesus e Maria"
+          "en-US": "Day 9: Protector of the Universal Church",
+          "pt-BR": "Dia 9: Protetor da Igreja Universal"
         },
         "meditation": {
-          "en-US": "At Nazareth, Joseph lived in constant union with Jesus and Mary. We entrust our whole life to his care, asking to persevere faithfully until the end.",
-          "pt-BR": "Em Nazaré, José viveu em constante união com Jesus e Maria. Confiamos toda a nossa vida ao seu cuidado, pedindo a graça da perseverança fiel até o fim."
+          "en-US": "He who guarded the infant Christ now guards His Body, the Church. In 1870 the Church proclaimed Joseph her patron and protector, confident that the one who sheltered the Holy Family would shelter the household of faith. As we close this novena, we entrust to him the Church, the Pope, and our own perseverance, asking to remain faithful until we are united with Christ forever.",
+          "pt-BR": "Aquele que guardou o Cristo menino guarda agora o Seu Corpo, a Igreja. Em 1870 a Igreja proclamou José seu padroeiro e protetor, confiante de que aquele que abrigou a Sagrada Família abrigaria a família da fé. Ao encerrarmos esta novena, confiamos-lhe a Igreja, o Papa e nossa própria perseverança, pedindo permanecer fiéis até estarmos unidos a Cristo para sempre."
+        },
+        "prayer": {
+          "en-US": "St. Joseph, protector of the Universal Church, you guard the Body of Christ as once you guarded the Child. Defend the Church in her trials, sustain the Pope and all her ministers, and keep me faithful to the end. Having served you in this novena, may I one day rejoice with you in the presence of Jesus and Mary. Amen.",
+          "pt-BR": "São José, protetor da Igreja Universal, guardais o Corpo de Cristo como outrora guardastes o Menino. Defendei a Igreja em suas provações, sustentai o Papa e todos os seus ministros e conservai-me fiel até o fim. Tendo-vos servido nesta novena, possa eu um dia alegrar-me convosco na presença de Jesus e de Maria. Amém."
         },
         "intention": {
-          "en-US": "For final perseverance and lifelong fidelity to Christ in communion with Mary and Joseph.",
-          "pt-BR": "Pela perseverança final e fidelidade a Cristo por toda a vida, em comunhão com Maria e José."
+          "en-US": "For the Holy Church, the Pope, and the grace of final perseverance.",
+          "pt-BR": "Pela Santa Igreja, pelo Papa e pela graça da perseverança final."
         }
       }
     ]

@@ -1,0 +1,58 @@
+{
+  "id": "st-clare-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Clare of Assisi",
+    "pt-BR": "Novena a Santa Clara de Assis"
+  },
+  "subtitle": {
+    "en-US": "Aug 2–10",
+    "pt-BR": "2–10 de agosto"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-clare-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Clare of Assisi, the first Franciscan woman, who embraced Lady Poverty, founded the Poor Clares, and repelled invaders from San Damiano by holding aloft the Blessed Sacrament.",
+    "pt-BR": "Uma novena de nove dias a Santa Clara de Assis, a primeira mulher franciscana, que abraçou a Senhora Pobreza, fundou as Clarissas e repeliu os invasores de São Damião erguendo o Santíssimo Sacramento."
+  },
+  "history": {
+    "en-US": "Born to a noble family of Assisi in 1194, Clare heard St. Francis preach and fled her home on Palm Sunday night in 1212 to consecrate herself to Christ. At San Damiano she founded the Order of Poor Ladies, defending its radical poverty against popes who wished to soften her Rule. She is patroness of television, having seen a distant Mass upon her cell wall, and her body remains incorrupt in the basilica that bears her name.",
+    "pt-BR": "Nascida em família nobre de Assis em 1194, Clara ouviu São Francisco pregar e fugiu de casa na noite de Domingo de Ramos de 1212 para consagrar-se a Cristo. Em São Damião fundou a Ordem das Pobres Damas, defendendo sua pobreza radical contra papas que desejavam suavizar sua Regra. É padroeira da televisão, por ter visto uma Missa distante projetada na parede de sua cela, e seu corpo permanece incorrupto na basílica que leva seu nome."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 231,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

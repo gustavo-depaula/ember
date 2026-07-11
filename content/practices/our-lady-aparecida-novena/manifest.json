@@ -5,7 +5,11 @@
     "en-US": "Novena to Our Lady of Aparecida",
     "pt-BR": "Novena a Nossa Senhora Aparecida"
   },
-  "categories": ["program", "devotion", "marian"],
+  "categories": [
+    "program",
+    "devotion",
+    "marian"
+  ],
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
@@ -30,7 +34,13 @@
     "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, meditate on the day, offer the intention, then conclude with an Our Father, Hail Mary, Glory Be, and the closing prayer to Our Lady of Aparecida.",
     "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, medite o tema do dia, ofereça a intenção e conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a oração final a Nossa Senhora Aparecida."
   },
-  "tags": ["novena", "our-lady-aparecida", "marian", "9-days", "brazil"],
+  "tags": [
+    "novena",
+    "our-lady-aparecida",
+    "marian",
+    "9-days",
+    "brazil"
+  ],
   "defaults": {
     "sortOrder": 43,
     "slots": [
@@ -42,5 +52,9 @@
         "enabled": false
       }
     ]
+  },
+  "subtitle": {
+    "en-US": "Oct 3–11",
+    "pt-BR": "3–11 de outubro"
   }
 }

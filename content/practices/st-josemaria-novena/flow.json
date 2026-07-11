@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Josemaría Escrivá",
+        "pt-BR": "Novena a São Josemaria Escrivá"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Josemaría, faithful priest and tireless apostle of holiness in ordinary life, intercede for us before the throne of God. You who saw the divine pathways hidden in the streets and workshops of the world, teach us to walk them. Obtain for us the grace we seek in this novena, if it be for God's glory. Amen.",
+        "pt-BR": "São Josemaria, sacerdote fiel e incansável apóstolo da santidade na vida comum, intercedei por nós diante do trono de Deus. Vós que enxergastes os caminhos divinos ocultos nas ruas e oficinas do mundo, ensinai-nos a percorrê-los. Alcançai-nos a graça que nesta novena pedimos, se for para a glória de Deus. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-josemaria-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, who raised up St. Josemaría to proclaim the universal call to holiness and the apostolic value of ordinary work, grant that through his intercession we may make our daily labor a continual prayer. May we serve You faithfully in the small duties of each day. We ask this through Christ our Lord. Amen.",
+        "pt-BR": "Ó Deus, que suscitastes São Josemaria para proclamar o chamado universal à santidade e o valor apostólico do trabalho comum, concedei que, por sua intercessão, façamos do nosso labor diário uma oração contínua. Que vos sirvamos fielmente nos pequenos deveres de cada dia. Por Cristo, nosso Senhor. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

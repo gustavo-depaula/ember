@@ -1,0 +1,58 @@
+{
+  "id": "st-vincent-de-paul-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Vincent de Paul",
+    "pt-BR": "Novena a São Vicente de Paulo"
+  },
+  "subtitle": {
+    "en-US": "Sep 18–26",
+    "pt-BR": "18–26 de setembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-vincent-de-paul-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Vincent de Paul, the great apostle of charity, who saw the face of Christ in the poor and gave his life to their service.",
+    "pt-BR": "Uma novena de nove dias a São Vicente de Paulo, o grande apóstolo da caridade, que via o rosto de Cristo nos pobres e dedicou sua vida a servi-los."
+  },
+  "history": {
+    "en-US": "Vincent de Paul (1581–1660) was a French priest who, after a youth seeking comfort, was converted to a life poured out for the abandoned. He founded the Congregation of the Mission (Vincentians) and, with St. Louise de Marillac, the Daughters of Charity, organizing the care of the sick, the galley slaves, foundlings, and the destitute. He is honored as the patron of all works of charity.",
+    "pt-BR": "Vicente de Paulo (1581–1660) foi um sacerdote francês que, após uma juventude em busca de conforto, converteu-se a uma vida derramada pelos abandonados. Fundou a Congregação da Missão (Vicentinos) e, com Santa Luísa de Marillac, as Filhas da Caridade, organizando o cuidado dos enfermos, dos forçados das galés, dos enjeitados e dos miseráveis. É honrado como padroeiro de todas as obras de caridade."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 242,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

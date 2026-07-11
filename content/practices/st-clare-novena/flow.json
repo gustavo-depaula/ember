@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Clare of Assisi",
+        "pt-BR": "Novena a Santa Clara de Assis"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O glorious St. Clare, mirror of holy poverty and bride of Christ, you left all things to follow the poor and crucified Lord. Draw my heart away from the passing things that weigh it down, and teach me to gaze, as you did, upon the face of Jesus. Amen.",
+        "pt-BR": "Ó gloriosa Santa Clara, espelho da santa pobreza e esposa de Cristo, vós deixastes tudo para seguir o Senhor pobre e crucificado. Afastai o meu coração das coisas passageiras que o oprimem e ensinai-me a contemplar, como vós, o rosto de Jesus. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-clare-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Clare, who held the Blessed Sacrament before the enemy and saw your sisters delivered, hold me before your Lord and shield me in every danger of soul and body. Obtain for me the grace I now implore, and a heart wholly given to Christ as yours was. Amen.",
+        "pt-BR": "Santa Clara, que erguestes o Santíssimo Sacramento diante do inimigo e vistes vossas irmãs libertadas, erguei-me diante de vosso Senhor e protegei-me em todo perigo da alma e do corpo. Alcançai-me a graça que agora vos imploro e um coração inteiramente entregue a Cristo, como foi o vosso. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

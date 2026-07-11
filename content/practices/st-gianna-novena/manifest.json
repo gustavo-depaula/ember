@@ -1,0 +1,58 @@
+{
+  "id": "st-gianna-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Gianna Beretta Molla",
+    "pt-BR": "Novena a Santa Gianna Beretta Molla"
+  },
+  "subtitle": {
+    "en-US": "Apr 19–27",
+    "pt-BR": "19–27 de abril"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-gianna-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Gianna Beretta Molla, physician, wife, and mother who gave her life for her unborn child, patroness of mothers and the unborn.",
+    "pt-BR": "Uma novena de nove dias a Santa Gianna Beretta Molla, médica, esposa e mãe que deu a vida pelo filho que esperava, padroeira das mães e dos não nascidos."
+  },
+  "history": {
+    "en-US": "St. Gianna Beretta Molla (1922–1962) was an Italian pediatrician, wife of Pietro Molla, and mother of four. During her fourth pregnancy she developed a fibroma on her uterus and, refusing both an abortion and a hysterectomy, chose to have only the fibroma removed to save her unborn child, dying a week after the child's birth. Canonized in 2004 with her husband present, she is honored as a model of holiness lived out in marriage, motherhood, and medicine. This novena entrusts our families and our work to her loving intercession.",
+    "pt-BR": "Santa Gianna Beretta Molla (1922–1962) foi uma pediatra italiana, esposa de Pietro Molla e mãe de quatro filhos. Em sua quarta gravidez desenvolveu um fibroma no útero e, recusando tanto o aborto quanto a histerectomia, optou por remover apenas o fibroma para salvar o filho que esperava, vindo a falecer uma semana após o nascimento da menina. Canonizada em 2004 com seu esposo presente, é honrada como modelo de santidade vivida no matrimônio, na maternidade e na medicina. Esta novena confia nossas famílias e nosso trabalho à sua amorosa intercessão."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 211,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

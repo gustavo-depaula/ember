@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. John Paul II",
+        "pt-BR": "Novena a São João Paulo II"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Loving Father, who gave St. John Paul II to Your Church as a fearless witness to Christ, grant us through his intercession the courage to open wide the doors of our hearts to the Redeemer. Help us, like him, to belong entirely to Jesus through Mary. Amen.",
+        "pt-BR": "Pai amoroso, que destes São João Paulo II à vossa Igreja como destemido testemunho de Cristo, concedei-nos, por sua intercessão, a coragem de abrir de par em par as portas do nosso coração ao Redentor. Ajudai-nos, como ele, a pertencer inteiramente a Jesus por meio de Maria. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-john-paul-ii-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. John Paul II, friend of the young and defender of life, you taught us that man cannot live without love. Obtain for us a heart wholly given to Christ, unwavering hope in His mercy, and the strength to proclaim the Gospel without fear. Amen.",
+        "pt-BR": "São João Paulo II, amigo dos jovens e defensor da vida, vós que nos ensinastes que o homem não pode viver sem amor, alcançai-nos um coração inteiramente entregue a Cristo, esperança firme em Sua misericórdia e a força de anunciar o Evangelho sem medo. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

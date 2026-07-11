@@ -5,7 +5,12 @@
     "en-US": "Novena to St. Joseph",
     "pt-BR": "Novena a São José"
   },
-  "categories": ["program", "devotion", "saints", "family"],
+  "categories": [
+    "program",
+    "devotion",
+    "saints",
+    "family"
+  ],
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
@@ -27,10 +32,16 @@
     "pt-BR": "A devoção a São José cresceu na Igreja ao longo dos séculos, especialmente como padroeiro da Igreja Universal, das famílias, dos trabalhadores e da boa morte. A tradição da novena de nove dias segue o costume da Igreja de perseverar na oração, inspirado nos Apóstolos entre a Ascensão e Pentecostes."
   },
   "howToPray": {
-    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross, read the meditation and intention for the day, then conclude with an Our Father, Hail Mary, and Glory Be, entrusting your intentions to St. Joseph.",
-    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz, leia a meditação e a intenção do dia e conclua com um Pai-Nosso, Ave-Maria e Glória ao Pai, confiando suas intenções a São José."
+    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, then read the day's meditation, pray its prayer, and offer its intention. Conclude with an Our Father, Hail Mary, Glory Be, and the prayer 'To you, O blessed Joseph,' entrusting all to his fatherly intercession.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, depois leia a meditação do dia, reze sua oração e ofereça sua intenção. Conclua com um Pai-Nosso, Ave-Maria, Glória ao Pai e a oração 'A vós, ó bem-aventurado José', confiando tudo à sua intercessão paterna."
   },
-  "tags": ["novena", "st-joseph", "9-days", "family", "workers"],
+  "tags": [
+    "novena",
+    "st-joseph",
+    "9-days",
+    "family",
+    "workers"
+  ],
   "defaults": {
     "sortOrder": 42,
     "slots": [
@@ -42,5 +53,9 @@
         "enabled": false
       }
     ]
+  },
+  "subtitle": {
+    "en-US": "Mar 10–18",
+    "pt-BR": "10–18 de março"
   }
 }

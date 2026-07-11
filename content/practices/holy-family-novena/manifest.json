@@ -1,0 +1,56 @@
+{
+  "id": "holy-family-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to the Holy Family",
+    "pt-BR": "Novena à Sagrada Família"
+  },
+  "subtitle": {
+    "en-US": "Sunday in the Octave of Christmas",
+    "pt-BR": "Domingo na Oitava do Natal"
+  },
+  "categories": [
+    "program",
+    "devotion"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "holy-family-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to the Holy Family of Nazareth — Jesus, Mary, and Joseph. Gazing upon their hidden life of love, obedience, and work, we ask them to bless and sanctify our own homes and to make them schools of holiness.",
+    "pt-BR": "Uma novena de nove dias à Sagrada Família de Nazaré — Jesus, Maria e José. Contemplando sua vida oculta de amor, obediência e trabalho, pedimos-lhes que abençoem e santifiquem os nossos lares e os tornem escolas de santidade."
+  },
+  "history": {
+    "en-US": "The Holy Family of Nazareth is the household in which the Son of God grew in wisdom, age, and grace, sheltered by Mary's love and Joseph's care. The Church has long held them up as the perfect model of family life, and devotion to them flourished especially from the seventeenth century onward, gaining a feast in the universal calendar. In an age when the family is under strain, the home of Nazareth shines as the pattern of every Christian household.",
+    "pt-BR": "A Sagrada Família de Nazaré é o lar em que o Filho de Deus cresceu em sabedoria, idade e graça, abrigado pelo amor de Maria e pelo cuidado de José. A Igreja há muito a propõe como modelo perfeito da vida familiar, e a devoção a ela floresceu sobretudo a partir do século XVII, ganhando uma festa no calendário universal. Numa época em que a família vive sob tensão, o lar de Nazaré brilha como o modelo de toda casa cristã."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days"
+  ],
+  "defaults": {
+    "sortOrder": 264,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

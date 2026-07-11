@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to SS. Anne and Joachim",
+        "pt-BR": "Novena a Santa Ana e São Joaquim"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious Saints Anne and Joachim, blessed parents of the Mother of God, you raised in your home the one who would bear the Savior of the world. Look kindly upon my family and obtain for us the grace of a household rooted in faith, patience, and love. Amen.",
+        "pt-BR": "Gloriosos Santa Ana e São Joaquim, bem-aventurados pais da Mãe de Deus, em vosso lar criastes aquela que haveria de gerar o Salvador do mundo. Olhai com bondade para a minha família e alcançai-nos a graça de um lar enraizado na fé, na paciência e no amor. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "ss-anne-joachim-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Holy grandparents of Jesus, you who trusted God through long years of waiting, teach us to hope when His answer is slow in coming. Present my petitions to your daughter Mary, that through her they may reach the throne of God. Amen.",
+        "pt-BR": "Santos avós de Jesus, vós que confiastes em Deus durante longos anos de espera, ensinai-nos a esperar quando Sua resposta tarda a chegar. Apresentai os meus pedidos à vossa filha Maria, para que por ela cheguem ao trono de Deus. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

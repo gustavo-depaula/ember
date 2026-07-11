@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Peter of Alcantara",
+        "pt-BR": "Novena a São Pedro de Alcântara"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, who adorned St. Peter of Alcantara with the spirit of penance and the gift of deep prayer, grant us through his intercession to seek You above all things. Teach us to die to ourselves that we may live more fully in You. Amen.",
+        "pt-BR": "Ó Deus, que ornastes São Pedro de Alcântara com o espírito de penitência e o dom da oração profunda, concedei-nos, por sua intercessão, buscar-Vos acima de todas as coisas. Ensinai-nos a morrer para nós mesmos, a fim de vivermos mais plenamente em Vós. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-peter-of-alcantara-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious St. Peter of Alcantara, lover of poverty and silence, you found God in the cell of your own heart. Obtain for us a spirit of holy detachment, perseverance in prayer, and the courage to seek nothing but the will of God. Amen.",
+        "pt-BR": "Glorioso São Pedro de Alcântara, amante da pobreza e do silêncio, vós que encontrastes a Deus na cela do próprio coração, alcançai-nos um espírito de santo desapego, perseverança na oração e a coragem de buscar somente a vontade de Deus. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

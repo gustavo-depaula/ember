@@ -1,0 +1,58 @@
+{
+  "id": "st-john-of-the-cross-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. John of the Cross",
+    "pt-BR": "Novena a São João da Cruz"
+  },
+  "subtitle": {
+    "en-US": "Dec 5–13",
+    "pt-BR": "5–13 de dezembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-john-of-the-cross-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. John of the Cross, Carmelite priest, mystic, and Doctor of the Church. With St. Teresa of Ávila he reformed Carmel, and through the Dark Night and the Living Flame he teaches the soul to find God in love, even in darkness.",
+    "pt-BR": "Uma novena de nove dias a São João da Cruz, sacerdote carmelita, místico e Doutor da Igreja. Com Santa Teresa de Ávila reformou o Carmelo e, pela Noite Escura e pela Chama Viva, ensina a alma a encontrar Deus no amor, mesmo na escuridão."
+  },
+  "history": {
+    "en-US": "Born Juan de Yepes in 1542 in Spain, John joined the Carmelites and, inspired by St. Teresa of Ávila, undertook the reform of the order toward a stricter, contemplative life. For this he was imprisoned and harshly treated by his own brethren, and it was in that cell that he composed some of his greatest poetry. His writings — the Ascent of Mount Carmel, the Dark Night, the Spiritual Canticle, and the Living Flame of Love — earned him the title Mystical Doctor; he died in 1591.",
+    "pt-BR": "Nascido Juan de Yepes em 1542, na Espanha, João entrou para os carmelitas e, inspirado por Santa Teresa de Ávila, empreendeu a reforma da ordem rumo a uma vida mais austera e contemplativa. Por isso foi aprisionado e maltratado pelos próprios irmãos, e foi naquela cela que compôs alguns de seus maiores poemas. Seus escritos — a Subida do Monte Carmelo, a Noite Escura, o Cântico Espiritual e a Chama Viva de Amor — renderam-lhe o título de Doutor Místico; morreu em 1591."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 262,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

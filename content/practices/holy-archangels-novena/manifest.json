@@ -1,0 +1,58 @@
+{
+  "id": "holy-archangels-novena",
+  "icon": "angel",
+  "name": {
+    "en-US": "Novena to the Holy Archangels",
+    "pt-BR": "Novena aos Santos Arcanjos"
+  },
+  "subtitle": {
+    "en-US": "Sep 20–28",
+    "pt-BR": "20–28 de setembro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "holy-archangels-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to the three holy Archangels named in Scripture — Michael, Gabriel, and Raphael — invoking their protection, their message, and their healing guidance.",
+    "pt-BR": "Uma novena de nove dias aos três santos Arcanjos nomeados nas Escrituras — Miguel, Gabriel e Rafael — invocando sua proteção, sua mensagem e sua guia curadora."
+  },
+  "history": {
+    "en-US": "Sacred Scripture names three of the great spirits who stand before God: Michael, prince of the heavenly host who defends the Church (Daniel and Revelation); Gabriel, who announced the births of John the Baptist and of Christ (Luke 1); and Raphael, who healed Tobit and guided young Tobias (Tobit). The Church keeps their feast on September 29 and honors them as ministers of God's protection, word, and healing.",
+    "pt-BR": "A Sagrada Escritura nomeia três dos grandes espíritos que estão diante de Deus: Miguel, príncipe da milícia celeste que defende a Igreja (Daniel e Apocalipse); Gabriel, que anunciou os nascimentos de João Batista e de Cristo (Lucas 1); e Rafael, que curou Tobit e guiou o jovem Tobias (Tobias). A Igreja celebra sua festa em 29 de setembro e os honra como ministros da proteção, da palavra e da cura de Deus."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 243,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

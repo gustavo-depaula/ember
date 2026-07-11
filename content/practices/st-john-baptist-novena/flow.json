@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. John the Baptist",
+        "pt-BR": "Novena a São João Batista"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glorious St. John the Baptist, voice crying in the wilderness, you prepared the way of the Lord with fearless preaching and a pure heart. As I begin this novena, obtain for me a spirit of repentance and a love of the truth. Help me to point others always to Christ. Amen.",
+        "pt-BR": "Glorioso São João Batista, voz que clama no deserto, vós preparastes o caminho do Senhor com pregação destemida e coração puro. Ao iniciar esta novena, alcançai-me um espírito de penitência e o amor da verdade. Ajudai-me a apontar sempre os outros para Cristo. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-john-baptist-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. John the Baptist, who decreased that Christ might increase, teach me to seek not my own glory but His. Strengthen me to bear witness to the truth even at great cost, and to await the Lamb of God with a watchful heart. Intercede for me, that I may share one day in your joy. Amen.",
+        "pt-BR": "São João Batista, que diminuístes para que Cristo crescesse, ensinai-me a buscar não a minha glória, mas a d'Ele. Fortalecei-me para testemunhar a verdade ainda que a grande custo, e a esperar o Cordeiro de Deus com coração vigilante. Intercedei por mim, para que um dia eu partilhe de vossa alegria. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

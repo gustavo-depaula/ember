@@ -1,0 +1,58 @@
+{
+  "id": "st-peter-of-alcantara-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Peter of Alcantara",
+    "pt-BR": "Novena a São Pedro de Alcântara"
+  },
+  "subtitle": {
+    "en-US": "Oct 10–18",
+    "pt-BR": "10–18 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-peter-of-alcantara-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Peter of Alcantara, Franciscan reformer, mystic, and penitent, who guided St. Teresa of Ávila in the ways of prayer.",
+    "pt-BR": "Uma novena de nove dias a São Pedro de Alcântara, reformador franciscano, místico e penitente, que guiou Santa Teresa de Ávila nos caminhos da oração."
+  },
+  "history": {
+    "en-US": "St. Peter of Alcantara (1499–1562) was born in Extremadura, Spain, and entered the Franciscans as a young man. He launched a strict reform of the Order, leading his friars in extreme poverty, fasting, and contemplation. As confessor and friend of St. Teresa of Ávila, he encouraged her Carmelite reform and confirmed her interior life; the Church remembers him as a master of prayer and a man who treated his body with heroic severity for the love of God.",
+    "pt-BR": "São Pedro de Alcântara (1499–1562) nasceu na Estremadura, Espanha, e entrou para os franciscanos ainda jovem. Empreendeu uma reforma rigorosa da Ordem, conduzindo seus frades em extrema pobreza, jejum e contemplação. Como confessor e amigo de Santa Teresa de Ávila, encorajou sua reforma carmelita e confirmou sua vida interior; a Igreja o recorda como mestre de oração e como homem que tratou o próprio corpo com heroica severidade pelo amor de Deus."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 252,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

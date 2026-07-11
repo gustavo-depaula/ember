@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Gerard Majella",
+        "pt-BR": "Novena a São Geraldo Majela"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Gerard Majella, faithful servant of God who hid great holiness beneath the humblest of duties, look kindly upon me. Teach me to love the will of God as you did, with simple and joyful surrender, and obtain for me the grace I ask in this novena. Amen.",
+        "pt-BR": "São Geraldo Majela, fiel servo de Deus que escondestes grande santidade sob os mais humildes deveres, olhai com bondade para mim. Ensinai-me a amar a vontade de Deus como vós a amastes, com entrega simples e alegre, e alcançai-me a graça que peço nesta novena. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-gerard-majella-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Gerard, wonderworker and tender protector of mothers and the helpless, intercede for me before the throne of God. Obtain for me a heart obedient and abandoned to Providence, so that in all things I may say with you, 'Lord, let it be done as You will.' Amen.",
+        "pt-BR": "São Geraldo, taumaturgo e terno protetor das mães e dos desamparados, intercedei por mim diante do trono de Deus. Alcançai-me um coração obediente e abandonado à Providência, para que em tudo eu diga convosco: 'Senhor, faça-se como Vós quereis.' Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}

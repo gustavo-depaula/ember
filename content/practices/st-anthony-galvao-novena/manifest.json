@@ -1,0 +1,58 @@
+{
+  "id": "st-anthony-galvao-novena",
+  "icon": "candle",
+  "name": {
+    "en-US": "Novena to St. Anthony of Sant'Anna Galvão",
+    "pt-BR": "Novena a Santo Antônio de Sant'Ana Galvão"
+  },
+  "subtitle": {
+    "en-US": "Oct 16–24",
+    "pt-BR": "16–24 de outubro"
+  },
+  "categories": [
+    "program",
+    "devotion",
+    "saints"
+  ],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "continue",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "st-anthony-galvao-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Anthony of Sant'Anna Galvão, the first Brazilian-born saint, Franciscan friar of São Paulo and herald of Christ's peace.",
+    "pt-BR": "Uma novena de nove dias a Santo Antônio de Sant'Ana Galvão, o primeiro santo nascido no Brasil, frade franciscano de São Paulo e arauto da paz de Cristo."
+  },
+  "history": {
+    "en-US": "St. Anthony of Sant'Anna Galvão (1739–1822) was born in Guaratinguetá, São Paulo, and entered the Franciscan Order, being ordained a priest in 1762. In São Paulo he served as preacher, confessor, and porter, founded the Recolhimento de Nossa Senhora da Luz, and became famous for the little 'pílulas' — tiny paper pills bearing a Marian invocation — through which countless healings were reported. A man of peace, humility, and trust in Providence, he was canonized by Pope Benedict XVI in 2007, the first saint born in Brazil.",
+    "pt-BR": "Santo Antônio de Sant'Ana Galvão (1739–1822) nasceu em Guaratinguetá, São Paulo, e entrou para a Ordem Franciscana, sendo ordenado sacerdote em 1762. Em São Paulo serviu como pregador, confessor e porteiro, fundou o Recolhimento de Nossa Senhora da Luz e tornou-se célebre pelas 'pílulas' — pequenas pílulas de papel com uma invocação mariana — pelas quais se relatam inúmeras curas. Homem de paz, humildade e confiança na Providência, foi canonizado pelo Papa Bento XVI em 2007, o primeiro santo nascido no Brasil."
+  },
+  "howToPray": {
+    "en-US": "Pray once each day for nine consecutive days. Begin with the Sign of the Cross and the opening prayer, prayerfully read the meditation and offer the day's intention, then conclude with an Our Father, Hail Mary, and Glory Be, and the closing prayer.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz e a oração inicial, leia com atenção a meditação e ofereça a intenção do dia, e conclua com um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e a oração final."
+  },
+  "tags": [
+    "novena",
+    "9-days",
+    "saints"
+  ],
+  "defaults": {
+    "sortOrder": 254,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

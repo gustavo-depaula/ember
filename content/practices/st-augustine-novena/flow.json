@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena to St. Augustine",
+        "pt-BR": "Novena a Santo Agostinho"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Opening prayer:",
+        "pt-BR": "Oração inicial:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God who made the heart for Yourself, hear me through the intercession of St. Augustine, who sought You long and far before he found You within. Grant me the courage of his conversion and the fire of his love, that my restless heart may come to rest in You. Amen.",
+        "pt-BR": "Ó Deus que fizestes o coração para Vós, ouvi-me pela intercessão de Santo Agostinho, que Vos buscou longa e distantemente antes de Vos encontrar em si mesmo. Concedei-me a coragem de sua conversão e o fogo de seu amor, para que o meu coração inquieto venha a repousar em Vós. Amém."
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Read the meditation and offer the intention of the day.",
+        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "st-augustine-novena-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "prayer",
+          "inline": "{{prayer}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Today's intention:",
+            "pt-BR": "Intenção do dia:"
+          }
+        },
+        {
+          "type": "prayer",
+          "inline": "{{intention}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "glory-be"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing prayer:",
+        "pt-BR": "Oração final:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "St. Augustine, who turned from the love of the world to the love of God, obtain for me the grace I now implore and a heart wholly given to the Truth. Late may I have loved You, O Beauty ever ancient and ever new, but let me love You without end. Amen.",
+        "pt-BR": "Santo Agostinho, que vos voltastes do amor do mundo para o amor de Deus, alcançai-me a graça que agora imploro e um coração inteiramente entregue à Verdade. Tarde Vos amei, ó Beleza tão antiga e tão nova, mas concedei que Vos ame sem fim. Amém."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "sign-of-cross"
+    }
+  ]
+}
