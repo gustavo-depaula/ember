@@ -31,9 +31,17 @@ i18n.use(initReactI18next).init({
 export default i18n
 
 export function localizeContent(text: { 'en-US'?: string; 'pt-BR'?: string }): string {
-  if (i18n.language === 'pt-BR' && text['pt-BR']) return text['pt-BR']
-  if (text['en-US']) return text['en-US']
-  const first = Object.values(text).find(Boolean)
+  const dict = text as Record<string, string | undefined>
+  // Prefer the user's language, then the other app language, then Latin (the
+  // canonical liturgical fallback). Only after those do we accept any remaining
+  // language — otherwise a dict shipped with es/fr/it/de but no app language
+  // would surface whichever key sorts first (the corpus serializes with sorted
+  // keys, so that would always be German).
+  const preference = i18n.language === 'pt-BR' ? ['pt-BR', 'en-US', 'la'] : ['en-US', 'pt-BR', 'la']
+  for (const lang of preference) {
+    if (dict[lang]) return dict[lang] as string
+  }
+  const first = Object.values(dict).find(Boolean)
   return first ?? ''
 }
 
