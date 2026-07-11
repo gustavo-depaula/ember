@@ -66,12 +66,17 @@ export function ScreenLayout({
 
   return (
     <KeyboardAvoidingView style={{ flex: 1 }} behavior="padding">
+      {/* Keyboard handling belongs to the KeyboardAvoidingView alone. Do NOT
+          add `automaticallyAdjustKeyboardInsets` here: on the new architecture
+          RN's inset bookkeeping leaks — keyboard events from other surfaces
+          (the iOS 26 search tab's field, sheets) leave a phantom bottom
+          contentInset on every mounted tab ScrollView, letting users scroll
+          far past the content into a void they can't obviously escape. */}
       <ScrollView
         flex={1}
         backgroundColor="$background"
         contentContainerStyle={scrollContentStyle}
         keyboardShouldPersistTaps="handled"
-        automaticallyAdjustKeyboardInsets
         contentInsetAdjustmentBehavior="never"
         refreshControl={refreshControl}
       >
