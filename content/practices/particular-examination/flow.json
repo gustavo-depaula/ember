@@ -1,0 +1,154 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Two or three minutes at midday, customarily right after the Angelus. One single point — the defect you are uprooting or the virtue you are growing, settled with your spiritual director and kept for weeks. Not three points. One.",
+				"pt-BR": "Dois ou três minutos ao meio-dia, costumeiramente logo depois do Angelus. Um único ponto — o defeito que você está a arrancar ou a virtude que está a fazer crescer, assentado com o seu diretor espiritual e mantido por semanas. Não três pontos. Um."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Petition for Light",
+				"pt-BR": "Petição de Luz"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "St. Ignatius has you begin by asking God for what you want: grace to remember how many times you have fallen into this one fault since you rose.",
+				"pt-BR": "Santo Inácio manda começar pedindo a Deus o que se deseja: a graça de recordar quantas vezes se caiu nesta única falta desde que se levantou."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, give me light to see this one thing as You see it, and the honesty not to look away.",
+				"pt-BR": "Senhor, dai-me luz para ver esta única coisa como Vós a vedes, e a honestidade de não desviar o olhar."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "group",
+			"skipIfEmpty": true,
+			"sections": [
+				{
+					"type": "subheading",
+					"text": {
+						"en-US": "The point",
+						"pt-BR": "O ponto"
+					}
+				},
+				{
+					"type": "review-resolution",
+					"mode": "checkin",
+					"target": "active-daily",
+					"prompt": {
+						"en-US": "How has this gone so far today?",
+						"pt-BR": "Como tem corrido isto hoje, até agora?"
+					},
+					"skip_if_none": true
+				},
+				{
+					"type": "divider"
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "The morning, on this one point",
+				"pt-BR": "A manhã, sobre este único ponto"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "*Your particular examination should be directed towards the acquisition of a definite virtue or the rooting out of your predominant defect.* (The Way §241)\n\nGo back over the morning on that alone — hour by hour, from when you rose until now. How many times? Where, and with whom? What went before it each time?\n\nSt. Ignatius had the retreatant mark the count with dots on a line, and compare today's line with yesterday's. That is not scrupulosity; it is evidence. Vague good intentions cannot be measured, and what cannot be measured does not change.",
+				"pt-BR": "*O teu exame particular há de ir dirigido à aquisição de uma virtude determinada ou ao desenraizamento do defeito dominante.* (Caminho §241)\n\nPercorra a manhã só quanto a isso — hora a hora, desde que se levantou até agora. Quantas vezes? Onde, e com quem? O que precedeu cada uma delas?\n\nSanto Inácio mandava marcar a conta com pontos numa linha, e comparar a linha de hoje com a de ontem. Isso não é escrúpulo; é evidência. Bons propósitos vagos não se podem medir, e o que não se pode medir não muda."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "select",
+			"label": {
+				"en-US": "As it went",
+				"pt-BR": "Conforme correu"
+			},
+			"pickerStyle": "chips",
+			"default": "contrition",
+			"options": [
+				{
+					"id": "contrition",
+					"label": {
+						"en-US": "Contrition",
+						"pt-BR": "Contrição"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "My God, I am sorry for this, and I would rather not have done it. Not because it shames me, but because it is beneath what You made me for. Help me this afternoon, since I cannot do it alone.",
+								"pt-BR": "Meu Deus, tenho pena disto, e preferia não o ter feito. Não porque me envergonhe, mas porque fica aquém daquilo para que Vós me criastes. Ajudai-me esta tarde, pois sozinho não sou capaz."
+							}
+						}
+					]
+				},
+				{
+					"id": "thanksgiving",
+					"label": {
+						"en-US": "Thanksgiving",
+						"pt-BR": "Ação de graças"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Thank You, my God. Whatever went well here was Yours before it was mine. Keep me from taking it for my own, and hold me in it this afternoon.",
+								"pt-BR": "Obrigado, meu Deus. O que aqui correu bem era vosso antes de ser meu. Guardai-me de o tomar como meu e sustentai-me nele esta tarde."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Purpose for the afternoon",
+				"pt-BR": "Propósito para a tarde"
+			}
+		},
+		{
+			"type": "capture-resolution",
+			"level": "daily",
+			"for": "current",
+			"prompt": {
+				"en-US": "One concrete purpose for this afternoon, on the same point.",
+				"pt-BR": "Um propósito concreto para esta tarde, sobre o mesmo ponto."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

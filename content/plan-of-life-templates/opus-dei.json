@@ -29,6 +29,16 @@
       }
     },
     {
+      "ref": "prayer-pope-bishop",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "06:35",
+      "note": {
+        "en-US": "An Our Father, Hail Mary and Glory Be for the Holy Father's intentions, and the same for the bishop — fixed here so that the standing condition for a plenary indulgence is met before the day has a chance to crowd it out.",
+        "pt-BR": "Um Pai-Nosso, uma Ave-Maria e um Glória pelas intenções do Santo Padre, e o mesmo pelo bispo — fixado aqui para que a condição permanente da indulgência plenária esteja cumprida antes que o dia tenha ocasião de a atropelar."
+      }
+    },
+    {
       "ref": "mass",
       "tier": "essential",
       "schedule": { "type": "daily" },
@@ -59,12 +69,30 @@
       }
     },
     {
+      "ref": "new-testament-reading",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "A few minutes of the New Testament itself, taken in order — entering each scene as one more of the people present, so that the Gospel is inhabited and not merely read.",
+        "pt-BR": "Alguns minutos do próprio Novo Testamento, tomado por ordem — entrando em cada cena como mais uma das pessoas presentes, para que o Evangelho seja habitado e não apenas lido."
+      }
+    },
+    {
       "ref": "spiritual-reading",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "note": {
-        "en-US": "A few minutes of the New Testament and a spiritual book each day — steady formation that keeps the rule from hardening into routine.",
-        "pt-BR": "Alguns minutos do Novo Testamento e de um livro espiritual a cada dia — formação constante que impede a regra de endurecer em rotina."
+        "en-US": "Ten or fifteen minutes of a solid spiritual book, read slowly with a pen — steady formation that keeps the rule from hardening into routine.",
+        "pt-BR": "Dez ou quinze minutos de um livro espiritual sólido, lido devagar e de caneta na mão — formação constante que impede a regra de endurecer em rotina."
+      }
+    },
+    {
+      "ref": "opus-dei-meditation",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "The day's points for prayer, drawn from the liturgy — not a substitute for the two half-hours but the raw material many bring into them.",
+        "pt-BR": "Os pontos de oração do dia, tirados da liturgia — não um substituto das duas meias-horas, mas a matéria-prima que muitos levam para elas."
       }
     },
     {
@@ -75,6 +103,25 @@
       "note": {
         "en-US": "A pause at midday to recall the Incarnation, breaking the morning's work to remember whose child you are and for whom you labor.",
         "pt-BR": "Uma pausa ao meio-dia para recordar a Encarnação, interrompendo o trabalho da manhã para lembrar de quem você é filho e por quem trabalha."
+      }
+    },
+    {
+      "ref": "particular-examination",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "13:00",
+      "note": {
+        "en-US": "Two or three minutes at midday on one single point, settled with your director and kept for weeks — the norm that produces measurable change, as opposed to vague good intent.",
+        "pt-BR": "Dois ou três minutos ao meio-dia sobre um único ponto, assentado com o seu diretor e mantido por semanas — a norma que produz mudança mensurável, ao contrário do bom propósito vago."
+      }
+    },
+    {
+      "ref": "spiritual-communion-opus-dei",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "One sentence, made many times a day — the desire to receive Him with Our Lady's purity, humility and love, keeping the morning's Communion at work through the afternoon.",
+        "pt-BR": "Uma só frase, feita muitas vezes ao dia — o desejo de recebê-Lo com a pureza, a humildade e o amor de Nossa Senhora, mantendo a Comunhão da manhã a trabalhar pela tarde adiante."
       }
     },
     {
@@ -152,6 +199,15 @@
       }
     },
     {
+      "ref": "saturday-mary",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "note": {
+        "en-US": "The Saturday devotion to Our Lady — a Memorare, a Salve Regina, or another Marian prayer, marking her day within the week.",
+        "pt-BR": "A devoção sabatina a Nossa Senhora — uma Memorare, uma Salve Rainha ou outra oração mariana, assinalando o dia dela dentro da semana."
+      }
+    },
+    {
       "ref": "friday-mortification",
       "tier": "ideal",
       "schedule": { "type": "days-of-week", "days": [5] },
@@ -180,6 +236,23 @@
     {
       "placeholder": true,
       "name": {
+        "en-US": "Chat with your director",
+        "pt-BR": "Conversa com o diretor espiritual"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Monthly",
+        "pt-BR": "Mensal"
+      },
+      "icon": "prayer",
+      "note": {
+        "en-US": "The monthly conversation in which the point of the particular examination is set, the norms that keep slipping are named, and the rule is adjusted to your actual state and duties.",
+        "pt-BR": "A conversa mensal em que se fixa o ponto do exame particular, se nomeiam as normas que continuam a cair e se ajusta a regra ao seu estado e aos seus deveres reais."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
         "en-US": "Annual retreat",
         "pt-BR": "Retiro anual"
       },
@@ -193,6 +266,24 @@
         "en-US": "Several days of silence each year, closing with the renewal of one's plan of life before a spiritual director — the rule re-chosen, not merely inherited.",
         "pt-BR": "Alguns dias de silêncio a cada ano, encerrando com a renovação do plano de vida diante de um diretor espiritual — a regra reescolhida, não apenas herdada."
       }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Annual course",
+        "pt-BR": "Curso anual"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Yearly",
+        "pt-BR": "Anual"
+      },
+      "icon": "book",
+      "note": {
+        "en-US": "Some days of formation and rest taken together each year — doctrine, ascetical formation and genuine leisure, on the conviction that a soul is not formed by effort alone.",
+        "pt-BR": "Alguns dias de formação e descanso tomados em conjunto a cada ano — doutrina, formação ascética e verdadeiro repouso, na convicção de que uma alma não se forma só à custa de esforço."
+      }
     }
-  ]
+  ],
+  "collections": ["collection/opus-dei", "collection/mental-prayer"]
 }

@@ -47,6 +47,33 @@
 				"en-US": "Mother most pure, pray for us.",
 				"pt-BR": "Mãe puríssima, rogai por nós."
 			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Blessed be your purity",
+				"pt-BR": "Bendita seja a vossa pureza"
+			},
+			"defaultOpen": true,
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Blessed be your purity,\nmay it be blessed for ever,\nfor no less than God takes delight\nin such exalted beauty.\nTo you, heavenly Princess,\nHoly Virgin Mary,\nI offer on this day\nmy whole heart, life, and soul.\nLook upon me with compassion;\ndo not leave me, my Mother.",
+						"pt-BR": "Bendita seja a vossa pureza,\ne eternamente o seja,\npois todo um Deus se recreia\nem tão graciosa beleza.\nA vós, celestial Princesa,\nVirgem sagrada Maria,\nofereço neste dia\nalma, vida e coração.\nOlhai-me com compaixão,\nnão me deixeis, Mãe minha."
+					}
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "On going to bed, bless yourself with holy water — a sacramental at the day's close, under Our Lady's protection through the night.",
+				"pt-BR": "Ao deitar-se, benza-se com água benta — um sacramental no fecho do dia, sob a proteção de Nossa Senhora durante a noite."
+			}
 		}
 	]
 }
