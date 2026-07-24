@@ -10,8 +10,9 @@
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "Serviam!",
-				"pt-BR": "Serviam!"
+				"la": "Sérviam!",
+				"en-US": "I will serve!",
+				"pt-BR": "Servirei!"
 			}
 		},
 		{

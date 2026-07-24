@@ -30,11 +30,12 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The heroic minute and everything that follows from it. The day is really won the night before, by keeping a fixed hour for lights-out.",
-					"pt-BR": "O minuto heroico e tudo o que dele decorre. O dia ganha-se, na verdade, na véspera, guardando uma hora fixa para apagar a luz."
+					"en-US": "The heroic minute and everything that follows from it — beginning with the one word said as your feet hit the floor. The day is really won the night before, by keeping a fixed hour for lights-out.",
+					"pt-BR": "O minuto heroico e tudo o que dele decorre — a começar pela única palavra dita quando os pés tocam o chão. O dia ganha-se, na verdade, na véspera, guardando uma hora fixa para apagar a luz."
 				}
 			},
 			"blocks": [
+				{ "kind": "item", "ref": "practice/serviam" },
 				{ "kind": "item", "ref": "practice/morning-offering-opus-dei" },
 				{ "kind": "item", "ref": "practice/prayer-pope-bishop" },
 				{
