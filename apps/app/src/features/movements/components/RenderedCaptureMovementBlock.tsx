@@ -11,6 +11,7 @@ import { lightTap, successBuzz } from '@/lib/haptics'
 
 import { useOfferThanksgiving, useRaiseIntention } from '../hooks'
 
+import { BoundedUntilPicker, defaultBoundedUntil } from './BoundedUntilPicker'
 import { CadenceToggle } from './CadenceToggle'
 
 /**
@@ -36,6 +37,7 @@ export function RenderedCaptureMovementBlock({
 
   const [text, setText] = useState('')
   const [cadence, setCadence] = useState<Cadence>(defaultCadence ?? 'perpetual')
+  const [boundedUntil, setBoundedUntil] = useState<Date>(defaultBoundedUntil)
   const [captured, setCaptured] = useState<string[]>([])
   const [adding, setAdding] = useState(false)
 
@@ -49,15 +51,26 @@ export function RenderedCaptureMovementBlock({
     if (!trimmed || submitting) return
     lightTap()
     Keyboard.dismiss()
-    if (kind === 'intention') {
-      await raiseIntention.mutateAsync({ text: trimmed, cadence })
-    } else {
-      await offerThanksgiving.mutateAsync({ text: trimmed })
+    // A failed write already surfaces through the global mutation-error host;
+    // bail without clearing so the user's words survive the retry.
+    try {
+      if (kind === 'intention') {
+        await raiseIntention.mutateAsync({
+          text: trimmed,
+          cadence,
+          bounded_until: cadence === 'bounded' ? boundedUntil.getTime() : undefined,
+        })
+      } else {
+        await offerThanksgiving.mutateAsync({ text: trimmed })
+      }
+    } catch {
+      return
     }
     successBuzz()
     setCaptured((prev) => [...prev, trimmed])
     setText('')
     setCadence(defaultCadence ?? 'perpetual')
+    setBoundedUntil(defaultBoundedUntil())
     setAdding(false)
   }
 
@@ -65,6 +78,7 @@ export function RenderedCaptureMovementBlock({
     lightTap()
     setText('')
     setCadence(defaultCadence ?? 'perpetual')
+    setBoundedUntil(defaultBoundedUntil())
     setAdding(false)
   }
 
@@ -126,6 +140,10 @@ export function RenderedCaptureMovementBlock({
 
             {kind === 'intention' ? (
               <CadenceToggle value={cadence} onChange={setCadence} />
+            ) : undefined}
+
+            {kind === 'intention' && cadence === 'bounded' ? (
+              <BoundedUntilPicker value={boundedUntil} onChange={setBoundedUntil} />
             ) : undefined}
 
             <XStack gap="$sm">

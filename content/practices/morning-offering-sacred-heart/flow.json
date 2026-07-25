@@ -29,6 +29,19 @@
       "type": "divider"
     },
     {
+      "type": "offering",
+      "mode": "intercessory",
+      "default": "pinned",
+      "show": "list",
+      "label": {
+        "en-US": "Today's intentions",
+        "pt-BR": "Intenções de hoje"
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
       "type": "prayer",
       "inline": {
         "en-US": "Sacred Heart of Jesus, I trust in Thee. Amen.",

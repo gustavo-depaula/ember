@@ -349,6 +349,7 @@ export default {
       retire: 'Parar de levar',
       removeThanksgiving: 'Remover',
       pinToPractice: 'Rezar por isso em…',
+      edit: 'Corrigir',
     },
     pinPractice: {
       title: 'Rezar por isso em…',
@@ -358,18 +359,18 @@ export default {
     picker: {
       title: 'Leve à oração',
       subtitle: 'Escolha o que oferecer nesta oração.',
-      intentions: 'Intenções',
-      thanksgivings: 'Graças',
-      intentionsEmpty: 'Nenhuma intenção ativa.',
-      thanksgivingsEmpty: 'Nenhuma graça registrada ainda.',
+      allCarried: 'Tudo o que está no Altar já está sendo levado.',
       confirm: 'Continuar',
-      pin: 'Fixar nesta prática',
-      unpin: 'Desafixar desta prática',
+    },
+    edit: {
+      title: 'Corrigir',
     },
     offering: {
       empty:
         'Leve alguém ou algo a Deus esta manhã — uma pessoa que você ama, uma preocupação, uma esperança. Ou siga em frente, e ore com o que você tem.',
-      pickHint: 'Escolha o que levar nesta oração.',
+      emptyStanding:
+        'Nada permanente nesta oração ainda. Marque uma intenção com a estrela para levá-la sempre, ou traga uma só para hoje.',
+      carryMore: 'Levar mais hoje',
       summary_one: 'Oferecendo {{count}} intenção',
       summary_other: 'Oferecendo {{count}} intenções',
       summaryEmpty: 'Oferecendo esta oração.',
@@ -1578,6 +1579,10 @@ export default {
     },
   },
   a11y: {
+    makeStanding: 'Levar sempre “{{text}}” nesta oração',
+    unmakeStanding: 'Não levar mais sempre “{{text}}” nesta oração',
+    dropFromToday: 'Não levar “{{text}}” hoje',
+    carryToday: 'Levar “{{text}}” hoje',
     togglePractice: 'Marcar {{name}} como concluída',
     untogglePractice: 'Desmarcar {{name}}',
     expandBlock: 'Expandir {{name}}',

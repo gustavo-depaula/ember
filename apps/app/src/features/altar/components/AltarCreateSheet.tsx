@@ -1,24 +1,26 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import DateTimePicker from '@react-native-community/datetimepicker'
 import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Keyboard, Platform, Pressable } from 'react-native'
+import { Keyboard, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
 import type { Cadence } from '@/db/events'
 import { QuietInput } from '@/features/library/CreateCollectionSheet'
-import { CadenceToggle, useOfferThanksgiving, useRaiseIntention } from '@/features/movements'
+import {
+  BoundedUntilPicker,
+  CadenceToggle,
+  defaultBoundedUntil,
+  useOfferThanksgiving,
+  useRaiseIntention,
+} from '@/features/movements'
 import { useReviseResolution, useSetResolution } from '@/features/resolutions'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
 import { AltarTabs } from './AltarTabs'
 
 export type AltarCreateType = 'intention' | 'thanksgiving' | 'resolution'
-
-const DEFAULT_BOUNDED_DAYS = 30
 
 function todayWindow() {
   const start = new Date()
@@ -70,12 +72,7 @@ export function AltarCreateSheet({
   const [type, setType] = useState<AltarCreateType>(initialType)
   const [text, setText] = useState('')
   const [cadence, setCadence] = useState<Cadence>('perpetual')
-  const [boundedUntil, setBoundedUntil] = useState<Date>(() => {
-    const d = new Date()
-    d.setDate(d.getDate() + DEFAULT_BOUNDED_DAYS)
-    return d
-  })
-  const [showAndroidPicker, setShowAndroidPicker] = useState(false)
+  const [boundedUntil, setBoundedUntil] = useState<Date>(defaultBoundedUntil)
 
   const raiseIntention = useRaiseIntention()
   const offerThanksgiving = useOfferThanksgiving()
@@ -172,41 +169,7 @@ export function AltarCreateSheet({
         {type === 'intention' ? <CadenceToggle value={cadence} onChange={setCadence} /> : undefined}
 
         {type === 'intention' && cadence === 'bounded' ? (
-          <YStack gap="$xs">
-            <Text fontFamily="$heading" fontSize="$1" color="$colorSecondary" letterSpacing={1}>
-              {t('movements.capture.boundedUntil').toUpperCase()}
-            </Text>
-            {Platform.OS === 'ios' ? (
-              <DateTimePicker
-                value={boundedUntil}
-                mode="date"
-                display="compact"
-                onChange={(_, date) => date && setBoundedUntil(date)}
-              />
-            ) : (
-              <>
-                <AnimatedPressable
-                  onPress={() => setShowAndroidPicker(true)}
-                  accessibilityRole="button"
-                >
-                  <Text fontFamily="$body" fontSize="$3" color="$accent">
-                    {boundedUntil.toLocaleDateString()}
-                  </Text>
-                </AnimatedPressable>
-                {showAndroidPicker ? (
-                  <DateTimePicker
-                    value={boundedUntil}
-                    mode="date"
-                    display="default"
-                    onChange={(_, date) => {
-                      setShowAndroidPicker(false)
-                      if (date) setBoundedUntil(date)
-                    }}
-                  />
-                ) : undefined}
-              </>
-            )}
-          </YStack>
+          <BoundedUntilPicker value={boundedUntil} onChange={setBoundedUntil} />
         ) : undefined}
 
         <Pressable

@@ -1,5 +1,5 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { Check, Star, Trash2, X } from 'lucide-react-native'
+import { Check, Pencil, Star, Trash2, X } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -15,10 +15,11 @@ import {
   useRetireThanksgiving,
 } from '../hooks'
 
+import { MovementEditSheet } from './MovementEditSheet'
 import { PinPracticeSheet } from './PinPracticeSheet'
 
 type Action = {
-  key: 'answered' | 'pin' | 'retire'
+  key: 'answered' | 'edit' | 'pin' | 'retire'
   labelKey: string
   destructive?: boolean
   icon: typeof Check
@@ -42,6 +43,7 @@ export function MovementActionMenu({
   const retireThanksgiving = useRetireThanksgiving()
   const offerThanksgivingMutation = useOfferThanksgiving()
   const [pinSheetOpen, setPinSheetOpen] = useState(false)
+  const [editSheetOpen, setEditSheetOpen] = useState(false)
 
   if (!movement) return null
 
@@ -67,6 +69,10 @@ export function MovementActionMenu({
         })
       }
       onClose()
+      return
+    }
+    if (action.key === 'edit') {
+      setEditSheetOpen(true)
       return
     }
     if (action.key === 'pin') {
@@ -156,6 +162,14 @@ export function MovementActionMenu({
         visible={pinSheetOpen}
         onClose={() => setPinSheetOpen(false)}
       />
+      <MovementEditSheet
+        movement={editSheetOpen ? movement : undefined}
+        visible={editSheetOpen}
+        onClose={() => {
+          setEditSheetOpen(false)
+          onClose()
+        }}
+      />
     </>
   )
 }
@@ -168,6 +182,7 @@ function computeActions(movement: Movement): Action[] {
   if (isGoalOrBounded) {
     actions.push({ key: 'answered', labelKey: 'movements.actions.markAnswered', icon: Check })
   }
+  actions.push({ key: 'edit', labelKey: 'movements.actions.edit', icon: Pencil })
   actions.push({ key: 'pin', labelKey: 'movements.actions.pinToPractice', icon: Star })
   actions.push({
     key: 'retire',
