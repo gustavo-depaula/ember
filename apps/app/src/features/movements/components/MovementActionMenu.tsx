@@ -8,13 +8,9 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, confirm } from '@/components'
 import type { Movement } from '@/db/events'
 
-import {
-  useMarkIntentionAnswered,
-  useOfferThanksgiving,
-  useRetireIntention,
-  useRetireThanksgiving,
-} from '../hooks'
+import { useRetireIntention, useRetireThanksgiving } from '../hooks'
 
+import { MovementAnsweredSheet } from './MovementAnsweredSheet'
 import { MovementEditSheet } from './MovementEditSheet'
 import { PinPracticeSheet } from './PinPracticeSheet'
 
@@ -38,12 +34,11 @@ export function MovementActionMenu({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
 
-  const markAnswered = useMarkIntentionAnswered()
   const retireIntention = useRetireIntention()
   const retireThanksgiving = useRetireThanksgiving()
-  const offerThanksgivingMutation = useOfferThanksgiving()
   const [pinSheetOpen, setPinSheetOpen] = useState(false)
   const [editSheetOpen, setEditSheetOpen] = useState(false)
+  const [answeredSheetOpen, setAnsweredSheetOpen] = useState(false)
 
   if (!movement) return null
 
@@ -52,23 +47,7 @@ export function MovementActionMenu({
   async function handle(action: Action) {
     if (!movement) return
     if (action.key === 'answered') {
-      // Closure happens immediately. The bridge prompt is a follow-up — denying
-      // it does not undo the answered state.
-      markAnswered.mutate({ id: movement.id })
-      const bridge = await confirm({
-        title: t('movements.bridge.title'),
-        description: t('movements.bridge.description', { text: movement.text }),
-        confirmLabel: t('movements.bridge.confirm'),
-        cancelLabel: t('common.notNow'),
-      })
-      if (bridge) {
-        offerThanksgivingMutation.mutate({
-          text: t('movements.bridge.thanksgivingPrefill', { text: movement.text }),
-          subject: movement.subject,
-          from_intention: movement.id,
-        })
-      }
-      onClose()
+      setAnsweredSheetOpen(true)
       return
     }
     if (action.key === 'edit') {
@@ -170,6 +149,14 @@ export function MovementActionMenu({
           onClose()
         }}
       />
+      <MovementAnsweredSheet
+        movement={answeredSheetOpen ? movement : undefined}
+        visible={answeredSheetOpen}
+        onClose={() => {
+          setAnsweredSheetOpen(false)
+          onClose()
+        }}
+      />
     </>
   )
 }
@@ -177,10 +164,20 @@ export function MovementActionMenu({
 function computeActions(movement: Movement): Action[] {
   if (movement.state === 'closed') return []
   const actions: Action[] = []
-  const isGoalOrBounded =
-    movement.kind === 'intention' && (movement.cadence === 'goal' || movement.cadence === 'bounded')
-  if (isGoalOrBounded) {
-    actions.push({ key: 'answered', labelKey: 'movements.actions.markAnswered', icon: Check })
+  if (movement.kind === 'intention') {
+    // Every intention can be answered, perpetual ones included. Gating this on
+    // cadence left a granted lifelong petition — a conversion, a healing — with
+    // no exit but "Stop carrying", which files the grace as attrition and never
+    // reaches the thanksgiving bridge. Perpetual gets the gentler wording;
+    // nothing forces the verb on an intention that is simply carried forever.
+    actions.push({
+      key: 'answered',
+      labelKey:
+        movement.cadence === 'perpetual'
+          ? 'movements.actions.markAnsweredPerpetual'
+          : 'movements.actions.markAnswered',
+      icon: Check,
+    })
   }
   actions.push({ key: 'edit', labelKey: 'movements.actions.edit', icon: Pencil })
   actions.push({ key: 'pin', labelKey: 'movements.actions.pinToPractice', icon: Star })

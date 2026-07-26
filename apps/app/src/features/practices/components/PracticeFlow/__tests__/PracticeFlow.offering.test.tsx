@@ -73,6 +73,26 @@ describe('Morning Offering — standing intentions', () => {
     expect(useEventStore.getState().pins.get(practiceId)?.size ?? 0).toBe(0)
   }, 45_000)
 
+  it('carries standing intentions into the Rosary', async () => {
+    const rosaryId = 'practice/rosary'
+    const { screen } = await renderApp({
+      route: `/pray/${rosaryId}`,
+      fixtures: { now: '2026-05-13' },
+      routes: [morningOfferingRoute],
+      seed: async () => {
+        const id = await raiseIntention({ text: 'Peace in the family', cadence: 'perpetual' })
+        await raiseIntention({ text: 'Not this one', cadence: 'perpetual' })
+        await pinMovement(rosaryId, id)
+      },
+    })
+
+    expect(
+      (await screen.findAllByText(/Offered for/i, undefined, { timeout: 5000 }))[0],
+    ).toBeInTheDocument()
+    expect((await screen.findAllByText('Peace in the family'))[0]).toBeInTheDocument()
+    expect(screen.queryByText('Not this one')).toBeNull()
+  }, 45_000)
+
   it('makes an intention standing from inside the prayer', async () => {
     let id = ''
     const { screen, user } = await openMorningOffering(async () => {

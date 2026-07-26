@@ -302,17 +302,6 @@ export default {
     cccLabel: 'Catecismo da Igreja Cat\u00f3lica, {{start}}-{{end}}',
   },
 
-  intentions: {
-    title: 'Inten\u00e7\u00f5es',
-    subtitle: 'Apresente-as na ora\u00e7\u00e3o. Carregue-as ao longo do dia.',
-    homeTagline: 'Leve suas inten\u00e7\u00f5es \u00e0 ora\u00e7\u00e3o',
-    homeOpenCount_one: '{{count}} inten\u00e7\u00e3o ativa',
-    homeOpenCount_other: '{{count}} inten\u00e7\u00f5es ativas',
-    exploreTagline_zero: 'Eleve uma ao Senhor',
-    exploreTagline_one: '{{count}} inten\u00e7\u00e3o ativa',
-    exploreTagline_other: '{{count}} inten\u00e7\u00f5es ativas',
-  },
-
   movements: {
     cadence: {
       label: 'Por quanto tempo?',
@@ -345,6 +334,7 @@ export default {
     },
     actions: {
       markAnswered: 'Marcar atendida',
+      markAnsweredPerpetual: 'Deus atendeu',
       answered: 'Atendida',
       retire: 'Parar de levar',
       removeThanksgiving: 'Remover',
@@ -367,7 +357,7 @@ export default {
     },
     offering: {
       empty:
-        'Leve alguém ou algo a Deus esta manhã — uma pessoa que você ama, uma preocupação, uma esperança. Ou siga em frente, e ore com o que você tem.',
+        'Leve alguém ou algo a Deus — uma pessoa que você ama, uma preocupação, uma esperança. Ou siga em frente, e ore com o que você tem.',
       emptyStanding:
         'Nada permanente nesta oração ainda. Marque uma intenção com a estrela para levá-la sempre, ou traga uma só para hoje.',
       carryMore: 'Levar mais hoje',

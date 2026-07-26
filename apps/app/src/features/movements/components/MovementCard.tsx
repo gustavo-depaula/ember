@@ -57,6 +57,13 @@ export function MovementCard({
               </Typography>
             ) : undefined}
           </XStack>
+          {/* How the prayer was answered, in the user's own words — the reason
+              the register is worth keeping after the petition closes. */}
+          {closed && movement.notes ? (
+            <Typography variant="whisper" fontStyle="italic" fontSize="$2">
+              {movement.notes}
+            </Typography>
+          ) : undefined}
         </YStack>
         {primary ? (
           <AnimatedPressable
@@ -66,7 +73,10 @@ export function MovementCard({
             }}
             hitSlop={8}
             accessibilityRole="button"
-            accessibilityLabel={t('movements.actions.markAnswered')}
+            // Matches the visible text. It used to borrow the action menu's
+            // "Mark answered", so a screen reader announced two different
+            // controls — this one opens the menu, that one answers — identically.
+            accessibilityLabel={t('movements.actions.answered')}
           >
             <Typography variant="label" fontSize="$1" color="$accent">
               {t('movements.actions.answered')}

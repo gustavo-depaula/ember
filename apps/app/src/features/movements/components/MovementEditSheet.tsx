@@ -14,6 +14,7 @@ import { useUpdateIntention, useUpdateThanksgiving } from '../hooks'
 
 import { BoundedUntilPicker, defaultBoundedUntil } from './BoundedUntilPicker'
 import { CadenceToggle } from './CadenceToggle'
+import { SubjectField } from './SubjectField'
 
 /**
  * Amend something already on the Altar — fix the wording, change how long you
@@ -36,6 +37,7 @@ export function MovementEditSheet({
   const [text, setText] = useState('')
   const [cadence, setCadence] = useState<Cadence>('perpetual')
   const [boundedUntil, setBoundedUntil] = useState<Date>(defaultBoundedUntil)
+  const [subject, setSubject] = useState<string | undefined>(undefined)
 
   const updateIntention = useUpdateIntention()
   const updateThanksgiving = useUpdateThanksgiving()
@@ -50,6 +52,7 @@ export function MovementEditSheet({
     setBoundedUntil(
       movement.bounded_until ? new Date(movement.bounded_until) : defaultBoundedUntil(),
     )
+    setSubject(movement.subject)
   }, [visible, movement])
 
   if (!movement) return null
@@ -69,11 +72,16 @@ export function MovementEditSheet({
         await updateIntention.mutateAsync({
           id: movement.id,
           text: trimmed,
+          subject: subject ?? null,
           cadence,
           bounded_until: cadence === 'bounded' ? boundedUntil.getTime() : null,
         })
       } else {
-        await updateThanksgiving.mutateAsync({ id: movement.id, text: trimmed })
+        await updateThanksgiving.mutateAsync({
+          id: movement.id,
+          text: trimmed,
+          subject: subject ?? null,
+        })
       }
     } catch {
       return
@@ -110,6 +118,8 @@ export function MovementEditSheet({
         {isIntention && cadence === 'bounded' ? (
           <BoundedUntilPicker value={boundedUntil} onChange={setBoundedUntil} />
         ) : undefined}
+
+        <SubjectField value={subject} onChange={setSubject} />
 
         <AnimatedPressable
           onPress={save}

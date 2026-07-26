@@ -228,6 +228,17 @@ on unmount or on backing up through the flow. It looked like a spiritual act and
 - **Still missing:** no `IntentionOffered` event, so per-practice offering history and
   "how long have I prayed for this?" remain impossible. Option A is the next step if that matters.
 
+### 12. Where offering blocks live (added 2026-07-26)
+
+The Rosary now opens with `{ "type": "offering", "default": "pinned", "label": "Offered for" }` in
+each of its four mystery branches, before the opening prayers — a Rosary is announced before it is
+begun. Decision 5 named it as the model `pinned` consumer and it had shipped without one, which is
+why pinning had no content consumer at all until now.
+
+Current coverage: the twelve morning offerings (`Today's intentions`) and the Rosary
+(`Offered for`). The Mass's Prayers of the Faithful and the Te Deum remain uncovered; both are
+natural homes and neither needs code, only a block in the flow JSON.
+
 ## Data model
 
 ### Event types (additions to existing union)

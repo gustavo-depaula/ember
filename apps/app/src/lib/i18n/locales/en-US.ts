@@ -300,17 +300,6 @@ export default {
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
   },
 
-  intentions: {
-    title: 'Intentions',
-    subtitle: 'Present them in prayer. Carry them through the day.',
-    homeTagline: 'Bring your intentions to prayer',
-    homeOpenCount_one: '{{count}} active intention',
-    homeOpenCount_other: '{{count}} active intentions',
-    exploreTagline_zero: 'Lift one up to the Lord',
-    exploreTagline_one: '{{count}} active intention',
-    exploreTagline_other: '{{count}} active intentions',
-  },
-
   movements: {
     cadence: {
       label: 'How long?',
@@ -341,6 +330,7 @@ export default {
     },
     actions: {
       markAnswered: 'Mark answered',
+      markAnsweredPerpetual: 'God answered this',
       answered: 'Answered',
       retire: 'Stop carrying',
       removeThanksgiving: 'Remove',
@@ -363,7 +353,7 @@ export default {
     },
     offering: {
       empty:
-        'Bring someone or something to God this morning — a person you love, a worry, a hope. Or move on, and pray with what you have.',
+        'Bring someone or something to God — a person you love, a worry, a hope. Or move on, and pray with what you have.',
       emptyStanding:
         'Nothing standing in this prayer yet. Star an intention to carry it here every time, or bring one just for today.',
       carryMore: 'Carry more today',

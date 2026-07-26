@@ -1,5 +1,6 @@
 export { BoundedUntilPicker, defaultBoundedUntil } from './components/BoundedUntilPicker'
 export { CadenceToggle } from './components/CadenceToggle'
+export { MovementAnsweredSheet } from './components/MovementAnsweredSheet'
 export { MovementEditSheet } from './components/MovementEditSheet'
 export { MovementList } from './components/MovementList'
 export { OfferingPickerSheet } from './components/OfferingPickerSheet'
@@ -10,6 +11,7 @@ export {
   type OfferingMode,
   RenderedOfferingBlock,
 } from './components/RenderedOfferingBlock'
+export { SubjectField } from './components/SubjectField'
 export { useExpirySweep } from './expiry'
 export { findExpiredIntentionIds } from './findExpired'
 export {

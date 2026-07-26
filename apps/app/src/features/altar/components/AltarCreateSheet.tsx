@@ -12,6 +12,7 @@ import {
   BoundedUntilPicker,
   CadenceToggle,
   defaultBoundedUntil,
+  SubjectField,
   useOfferThanksgiving,
   useRaiseIntention,
 } from '@/features/movements'
@@ -73,6 +74,7 @@ export function AltarCreateSheet({
   const [text, setText] = useState('')
   const [cadence, setCadence] = useState<Cadence>('perpetual')
   const [boundedUntil, setBoundedUntil] = useState<Date>(defaultBoundedUntil)
+  const [subject, setSubject] = useState<string | undefined>(undefined)
 
   const raiseIntention = useRaiseIntention()
   const offerThanksgiving = useOfferThanksgiving()
@@ -94,6 +96,7 @@ export function AltarCreateSheet({
     setType(initialType)
     setText(seedText(initialType))
     setCadence('perpetual')
+    setSubject(undefined)
   }, [visible, initialType])
 
   function changeType(next: AltarCreateType) {
@@ -109,11 +112,12 @@ export function AltarCreateSheet({
     if (type === 'intention') {
       await raiseIntention.mutateAsync({
         text: trimmed,
+        subject,
         cadence,
         bounded_until: cadence === 'bounded' ? boundedUntil.getTime() : undefined,
       })
     } else if (type === 'thanksgiving') {
-      await offerThanksgiving.mutateAsync({ text: trimmed })
+      await offerThanksgiving.mutateAsync({ text: trimmed, subject })
     } else if (existingResolution) {
       await reviseResolution.mutateAsync({ id: existingResolution.id, text: trimmed })
     } else {
@@ -171,6 +175,8 @@ export function AltarCreateSheet({
         {type === 'intention' && cadence === 'bounded' ? (
           <BoundedUntilPicker value={boundedUntil} onChange={setBoundedUntil} />
         ) : undefined}
+
+        {type === 'resolution' ? undefined : <SubjectField value={subject} onChange={setSubject} />}
 
         <Pressable
           onPress={submit}
