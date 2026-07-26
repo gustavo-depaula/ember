@@ -3,949 +3,1408 @@
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Although the early biographies of S. Francis are silent as to this opuscule, its authenticity is guaranteed by the Legend of S. Clare written by Thomas of Celano toward the end of his life. In reference to the holy abbess' devotion to the Passion we are told by Celano that she \"learned and frequently recited with attachment the Office of the Cross which Francis, the lover of the Cross, had instituted.\" This passage was rightly understood by Wadding as referring to the Office of the Passion which many early manuscripts attribute to S. Francis, and the character of which altogether squares with the Saint's writings. Composed, as it is, of a simple and devout combination of Scriptural texts, this document is at once a witness to S. Francis' ardent devotion to the Crucified and a precious example of his method of prayer. It comprises five parts:\nFor the three last days of Holy Week and for week-days throughout the year.\nFor the Paschal season.\nFor Sundays and feast-days throughout the year.\nFor Advent.\nFor Christmas and the days following, to the close of the Epiphany octave."
+        "en-US": "Although the early biographies of S. Francis are silent as to this opuscule, its authenticity is guaranteed by the Legend of S. Clare written by Thomas of Celano toward the end of his life. In reference to the holy abbess' devotion to the Passion we are told by Celano that she \"learned and frequently recited with attachment the Office of the Cross which Francis, the lover of the Cross, had instituted.\" This passage was rightly understood by Wadding as referring to the Office of the Passion which many early manuscripts attribute to S. Francis, and the character of which altogether squares with the Saint's writings. Composed, as it is, of a simple and devout combination of Scriptural texts, this document is at once a witness to S. Francis' ardent devotion to the Crucified and a precious example of his method of prayer. It comprises five parts:\nFor the three last days of Holy Week and for week-days throughout the year.\nFor the Paschal season.\nFor Sundays and feast-days throughout the year.\nFor Advent.\nFor Christmas and the days following, to the close of the Epiphany octave.",
+        "pt-BR": "Embora as primeiras biografias de S. Francisco silenciem sobre este opúsculo, sua autenticidade é garantida pela Legenda de S. Clara, escrita por Tomás de Celano no fim de sua vida. A respeito da devoção da santa abadessa à Paixão, diz-nos Celano que ela \"aprendeu e recitava com frequência e afeto o Ofício da Cruz que Francisco, o amante da Cruz, havia instituído\". Esta passagem foi corretamente entendida por Wadding como referindo-se ao Ofício da Paixão que muitos manuscritos antigos atribuem a S. Francisco, e cujo caráter se ajusta inteiramente aos escritos do Santo. Composto, como é, de uma simples e devota combinação de textos da Escritura, este documento é ao mesmo tempo um testemunho da ardente devoção de S. Francisco ao Crucificado e um precioso exemplo de seu método de oração. Compreende cinco partes:\nPara os três últimos dias da Semana Santa e para os dias de semana ao longo do ano.\nPara o tempo pascal.\nPara os domingos e dias de festa ao longo do ano.\nPara o Advento.\nPara o Natal e os dias seguintes, até o fim da oitava da Epifania."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "The text of the Office given in the Quaracchi edition is that of the Assisi MS. 338, only a few rubrical notes having been omitted."
+        "en-US": "The text of the Office given in the Quaracchi edition is that of the Assisi MS. 338, only a few rubrical notes having been omitted.",
+        "pt-BR": "O texto do Ofício dado na edição de Quaracchi é o do manuscrito 338 de Assis, tendo sido omitidas apenas algumas notas rubricais."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "en-US": "Here begin the Psalms which our most blessed Father Francis arranged to reverence and recall and praise the Passion of the Lord. And they begin from Compline on Maundy Thursday because on that night our Lord Jesus Christ was betrayed and taken captive. And note that the Blessed Francis was wont to say this office thus: First he said the Prayer which the Lord and Master taught us: Our Father most holy, with the Praises, to wit, Holy, Holy, Holy. When he had finished the Praises with the Prayer he began this antiphon, namely: Holy Mary. First he said the Psalms of the holy Virgin; besides he said other Psalms which he had selected, and at the end of all the Psalms which he said, he said the Psalms of the Passion, the Psalm being finished he said the antiphon, namely, Holy Virgin Mary. When this antiphon was finished, the office was completed."
+        "en-US": "Here begin the Psalms which our most blessed Father Francis arranged to reverence and recall and praise the Passion of the Lord. And they begin from Compline on Maundy Thursday because on that night our Lord Jesus Christ was betrayed and taken captive. And note that the Blessed Francis was wont to say this office thus: First he said the Prayer which the Lord and Master taught us: Our Father most holy, with the Praises, to wit, Holy, Holy, Holy. When he had finished the Praises with the Prayer he began this antiphon, namely: Holy Mary. First he said the Psalms of the holy Virgin; besides he said other Psalms which he had selected, and at the end of all the Psalms which he said, he said the Psalms of the Passion, the Psalm being finished he said the antiphon, namely, Holy Virgin Mary. When this antiphon was finished, the office was completed.",
+        "pt-BR": "Aqui começam os Salmos que nosso beatíssimo Pai Francisco dispôs para venerar, recordar e louvar a Paixão do Senhor. E começam nas Completas da Quinta-feira Santa, porque naquela noite nosso Senhor Jesus Cristo foi traído e preso. E note-se que o bem-aventurado Francisco costumava rezar este ofício assim: primeiro dizia a Oração que o Senhor e Mestre nos ensinou, Pai nosso santíssimo, com os Louvores, a saber, Santo, Santo, Santo. Terminados os Louvores com a Oração, começava esta antífona, a saber: Santa Maria. Primeiro dizia os Salmos da santa Virgem; além destes, dizia outros Salmos que havia escolhido, e ao fim de todos os Salmos que dizia, rezava os Salmos da Paixão; acabado o Salmo, dizia a antífona, a saber, Santa Virgem Maria. Terminada esta antífona, estava completo o ofício."
       }
     },
     {
       "type": "select",
-      "on": "hour",
+      "on": [
+        "liturgicalSeason",
+        "dayOfWeek"
+      ],
       "label": {
-        "en-US": "Hour",
-        "pt-BR": "Hora"
+        "en-US": "Part",
+        "pt-BR": "Parte"
       },
       "map": {
-        "0-2": "matins",
-        "3-5": "prime",
-        "6-9": "terce",
-        "10-12": "sext",
-        "13-16": "none",
-        "17-19": "vespers",
-        "20-23": "compline"
+        "easter": "paschal",
+        "advent": "advent",
+        "christmas": "christmas",
+        "ordinary:0": "sundays",
+        "post-pentecost:0": "sundays",
+        "epiphany:0": "sundays",
+        "septuagesima:0": "sundays",
+        "lent:0": "sundays"
       },
+      "default": "passion",
       "options": [
         {
-          "id": "compline",
+          "id": "passion",
           "label": {
-            "en-US": "Compline",
-            "pt-BR": "Completas",
-            "la": "Ad Completorium"
+            "en-US": "Passion — Holy Week & weekdays",
+            "pt-BR": "Paixão — Semana Santa e dias de semana"
+          },
+          "sections": [
+            {
+              "type": "select",
+              "on": "hour",
+              "label": {
+                "en-US": "Hour",
+                "pt-BR": "Hora"
+              },
+              "map": {
+                "0-2": "matins",
+                "3-5": "prime",
+                "6-9": "terce",
+                "10-12": "sext",
+                "13-16": "none",
+                "17-19": "vespers",
+                "20-23": "compline"
+              },
+              "options": [
+                {
+                  "id": "compline",
+                  "label": {
+                    "en-US": "Compline",
+                    "pt-BR": "Completas",
+                    "la": "Ad Completorium"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Virgin Mary.",
+                        "pt-BR": "Santa Virgem Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 55: 9. O God, I have declared to Thee my life; Thou hast set my tears in Thy sight.\nPs. 40: 8. All my enemies devised evils against me.\nPs. 70: 10. They have consulted together.\nPs. 108: 5. And they have repaid me evil for good and hatred for my love.\nPs. 108: 4. Instead of making me a return of love they detracted me; but I gave myself to prayer.\nPs. 21: 12. My holy Father, King of heaven and earth, depart not from me; for tribulation is near and there is none to help.\nPs. 55: 10. When I cry unto Thee, then shall mine enemies be turned back; behold I know that Thou art my God.\nPs. 37: 12. My friends and my neighbors have drawn near and stood against me; and they that were near me stood afar off.\nPs. 87: 9. Thou hast put away my acquaintance far from me; they have set me an abomination to them; I was delivered up and came not forth.\nPs. 21: 20. Holy Father, remove not Thy help far from me: My God, look toward my help.\nPs. 37: 23. Attend unto my help, O Lord, the God of my salvation.—Glory be.",
+                        "pt-BR": "Sl 55, 9. Ó Deus, eu vos expus a minha vida; pusestes as minhas lágrimas diante de vós.\nSl 40, 8. Todos os meus inimigos maquinavam males contra mim.\nSl 70, 10. Consultaram-se juntos.\nSl 108, 5. E me retribuíram mal por bem, e ódio pelo meu amor.\nSl 108, 4. Em vez de me retribuírem amor, me difamavam; mas eu me entregava à oração.\nSl 21, 12. Meu Pai santo, Rei do céu e da terra, não vos afasteis de mim; porque a tribulação está próxima e não há quem me ajude.\nSl 55, 10. Quando eu clamar a vós, então meus inimigos retrocederão; eis que sei que sois o meu Deus.\nSl 37, 12. Meus amigos e meus próximos se aproximaram e se puseram contra mim; e os que estavam junto de mim conservaram-se ao longe.\nSl 87, 9. Afastastes de mim os meus conhecidos; fizeram de mim para eles uma abominação; fui entregue e não saí.\nSl 21, 20. Pai santo, não afasteis de mim o vosso auxílio; meu Deus, atendei em meu socorro.\nSl 37, 23. Vinde em meu auxílio, Senhor, Deus da minha salvação. — Glória ao Pai."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Virgin Mary, there is none like unto Thee born in the world among women, daughter and handmaid of the most high King, the heavenly Father! Mother of our most holy Lord Jesus Christ, Spouse of the Holy Ghost; pray for us, with St. Michael Archangel, and all the Virtues of heaven, and all the Saints, to Thy most holy, beloved Son, our Lord and Master.",
+                        "pt-BR": "Santa Virgem Maria, entre as mulheres não há nenhuma nascida no mundo semelhante a vós, filha e serva do altíssimo Rei, o Pai celeste! Mãe de nosso santíssimo Senhor Jesus Cristo, Esposa do Espírito Santo: rogai por nós, com São Miguel Arcanjo, e todas as Virtudes do céu, e todos os Santos, junto a vosso santíssimo e amado Filho, nosso Senhor e Mestre."
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Glory be to the Father and to the Son and to the Holy Ghost. As it was in the beginning is now and ever shall be world without end. Amen.",
+                        "pt-BR": "Glória ao Pai, e ao Filho, e ao Espírito Santo. Como era no princípio, agora e sempre, e por todos os séculos dos séculos. Amém."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Note that the foregoing antiphon is said at all the Hours and it is said for antiphon, chapter, hymn, versicle, and prayer, and at Matins and at all the Hours likewise. He said nothing else in them except this antiphon with its Psalms. At the completion of the office Blessed Francis always said: Let us bless the Lord God living and true; let us refer praise, glory, honor, blessing and all praise to Him, always. Amen. Amen. Fiat. Fiat.",
+                        "pt-BR": "Note-se que a antífona precedente é dita em todas as Horas, e serve de antífona, capítulo, hino, versículo e oração, tanto nas Matinas como em todas as Horas. Nelas nada mais dizia senão esta antífona com seus Salmos. Ao terminar o ofício, o bem-aventurado Francisco sempre dizia: Bendigamos o Senhor Deus vivo e verdadeiro; a Ele refiramos louvor, glória, honra, bênção e todo louvor, sempre. Amém. Amém. Fiat. Fiat."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "matins",
+                  "label": {
+                    "en-US": "Matins",
+                    "pt-BR": "Matinas",
+                    "la": "At Matins"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Virgin Mary.",
+                        "pt-BR": "Santa Virgem Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 87: 2. O Lord, the God of my salvation, I have cried in the day and night before Thee.\nPs. 87: 3. Let my prayer come in before Thee; incline Thy ear to my petition.\nPs. 68: 19. Attend to my soul and deliver it: save me because of my enemies.\nPs. 21: 10. For Thou art He that hast drawn me out of the womb; my hope from the breasts of my mother.\nPs. 21: 11. I was cast upon Thee from the womb. From my mother's womb Thou art my God.\nPs. 21: 12. Depart not from me.\nPs. 68: 20. Thou knowest my reproach and my confusion and my shame.\nPs. 68: 21. In Thy sight are all they that afflict me: my heart hath expected reproach and misery. And I looked for one that would grieve together with me, but there was none, and for one that would comfort me and I found none.\nPs. 85: 14. O God, the wicked are risen up against me and the assembly of the mighty have sought my soul; and they have not set Thee before their eyes.\nPs. 87: 5. I am counted among them that go down to the pit; I am become as a man without help.\nPs. 87: 6. Free among the dead. Thou art my Father, most holy, my king and my God.\nPs. 37: 23. Attend unto my help, O Lord God of my salvation.",
+                        "pt-BR": "Sl 87, 2. Senhor, Deus da minha salvação, clamei de dia e de noite diante de vós.\nSl 87, 3. Chegue à vossa presença a minha oração; inclinai vosso ouvido à minha súplica.\nSl 68, 19. Atendei à minha alma e libertai-a; salvai-me por causa dos meus inimigos.\nSl 21, 10. Pois sois vós que me tirastes do ventre; minha esperança desde os seios de minha mãe.\nSl 21, 11. A vós fui entregue desde o ventre. Desde o seio de minha mãe sois o meu Deus.\nSl 21, 12. Não vos afasteis de mim.\nSl 68, 20. Vós conheceis meu opróbrio, minha confusão e minha vergonha.\nSl 68, 21. Diante de vós estão todos os que me afligem; meu coração esperou opróbrio e miséria. E esperei quem se compadecesse comigo, e não houve; e quem me consolasse, e não o encontrei.\nSl 85, 14. Ó Deus, os iníquos se levantaram contra mim, e a assembleia dos poderosos buscou a minha alma; e não vos puseram diante de seus olhos.\nSl 87, 5. Sou contado entre os que descem à cova; tornei-me como homem sem auxílio.\nSl 87, 6. Livre entre os mortos. Vós sois meu Pai santíssimo, meu rei e meu Deus.\nSl 37, 23. Vinde em meu auxílio, Senhor Deus da minha salvação."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "prime",
+                  "label": {
+                    "en-US": "Prime",
+                    "pt-BR": "Prima",
+                    "la": "At Prime"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 56: 1. Have mercy on me, O God, have mercy on me; for my soul trusteth in Thee.\nPs. 56: 2. And in the shadow of Thy wings will I hope, until iniquity pass away.\nPs. 56: 3. I will cry to my most holy Father, the Most High: to God, who hath done good to me.\nPs. 56: 4. He hath sent from heaven and delivered me; He hath made them a reproach that trod upon me. God hath sent His power and His truth.\nPs. 17: 18. He delivered me from my strongest enemies and from them that hated me; for they were too strong for me.\nPs. 56: 7. They prepared a snare for my feet; and they bowed down my soul; they dug a pit before my face; and they are fallen into it.\nPs. 56: 8. My heart is ready, O God, my heart is ready; I will sing, and rehearse a psalm.\nPs. 56: 9. Arise, O my glory, arise psaltery and harp; I will arise early.\nPs. 56: 10. I will give praise to Thee, O Lord, among the people; I will sing a psalm to Thee among the nations.\nPs. 56: 11. For Thy mercy is magnified even to the heavens; and Thy truth unto the clouds.\nPs. 56: 12. Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.",
+                        "pt-BR": "Sl 56, 1. Tende piedade de mim, ó Deus, tende piedade de mim; porque em vós confia a minha alma.\nSl 56, 2. E à sombra de vossas asas esperarei, até que passe a iniquidade.\nSl 56, 3. Clamarei a meu Pai santíssimo, o Altíssimo; a Deus, que me fez o bem.\nSl 56, 4. Ele enviou do céu e me libertou; entregou ao opróbrio os que me pisavam. Deus enviou sua misericórdia e sua verdade.\nSl 17, 18. Livrou-me de meus inimigos mais fortes e daqueles que me odiavam; porque eram mais poderosos que eu.\nSl 56, 7. Prepararam um laço para meus pés, e abateram a minha alma; cavaram uma cova diante de mim, e nela caíram.\nSl 56, 8. Meu coração está pronto, ó Deus, meu coração está pronto; cantarei e entoarei um salmo.\nSl 56, 9. Levanta-te, ó minha glória; levantai-vos, saltério e harpa; levantar-me-ei de madrugada.\nSl 56, 10. Louvar-vos-ei, Senhor, entre os povos; a vós cantarei um salmo entre as nações.\nSl 56, 11. Porque vossa misericórdia se engrandeceu até os céus, e vossa verdade até as nuvens.\nSl 56, 12. Sede exaltado, ó Deus, acima dos céus, e vossa glória sobre toda a terra."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "terce",
+                  "label": {
+                    "en-US": "Terce",
+                    "pt-BR": "Terça",
+                    "la": "At Terce"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 55: 2. Have mercy on me, O God, for man hath trodden me under foot; all the day long he hath afflicted me, fighting against me.\nPs. 55: 3. My enemies have trodden on me all the day long; for they are many that make war against me.\nPs. 40: 8. All my enemies devised evil against me.\nPs. 70: 10. They have taken counsel together.\nPs. 40: 7. They went out and spoke to the same purpose.\nPs. 21: 8. All they that saw me have laughed me to scorn; they have spoken with the lips and wagged the head.\nPs. 21: 7. But I am a worm and no man, a reproach of men and outcast of the people.\nPs. 30: 12. I am become a reproach among all my enemies and very much to my neighbors; and a fear to my acquaintance.\nPs. 21: 20. Holy Father, remove not Thy help far from me; my God, look toward my defense.\nPs. 37: 23. Attend unto my help, O Lord God of my salvation. Glory be, etc.",
+                        "pt-BR": "Sl 55, 2. Tende piedade de mim, ó Deus, porque o homem me pisou; todo o dia me afligiu, combatendo contra mim.\nSl 55, 3. Meus inimigos me pisaram todo o dia; porque são muitos os que guerreiam contra mim.\nSl 40, 8. Todos os meus inimigos maquinavam o mal contra mim.\nSl 70, 10. Tomaram conselho juntos.\nSl 40, 7. Saíam e falavam no mesmo sentido.\nSl 21, 8. Todos os que me viam zombavam de mim; falaram com os lábios e meneavam a cabeça.\nSl 21, 7. Mas eu sou um verme e não um homem, opróbrio dos homens e desprezo do povo.\nSl 30, 12. Tornei-me opróbrio entre todos os meus inimigos, e muito mais para meus vizinhos; e espanto para meus conhecidos.\nSl 21, 20. Pai santo, não afasteis de mim o vosso auxílio; meu Deus, atendei à minha defesa.\nSl 37, 23. Vinde em meu auxílio, Senhor Deus da minha salvação. Glória ao Pai, etc."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "sext",
+                  "label": {
+                    "en-US": "Sext",
+                    "pt-BR": "Sexta",
+                    "la": "At Sext"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 141: 2. I cried to the Lord, with my voice; with my voice I made my supplication to the Lord.\nPs. 141: 3. I pour out my prayer in His sight; and before Him I declare my trouble.\nPs. 141: 4. When my spirit failed me, then Thou knewest my paths. In this way wherein I walked, they have hidden a snare for me.\nPs. 141: 5. I looked on my right-hand, and beheld, and there was no one that would know me. Flight hath failed me; and there is no one that hath regard to my soul.\nPs. 68: 8. Because for Thy sake I have borne reproach; shame hath covered my face.\nPs. 68: 9. I am become a stranger to my brethren; and an alien to the sons of my mother.\nPs. 68: 10. Holy Father, the zeal of Thy house hath eaten me up; and the reproaches of them that reproached Thee are fallen upon me.\nPs. 34: 15. And they rejoiced against me and gathered together; scourges were gathered together upon me and I knew not.\nPs. 68: 5. They are multiplied above the hairs of my head who hate me without cause; My enemies are grown strong who have wrongfully persecuted me; then did pay I that which I took not away.\nPs. 34: 11. Unjust witnesses rising up, have asked me things I knew not.\nPs. 34: 12. They repaid me evil for good and Ps. 37: 21. detracted me; because I followed goodness. Thou art my Father, most holy; my King and my God.\nPs. 37: 23. Attend unto my help, O Lord God of my salvation.",
+                        "pt-BR": "Sl 141, 2. Com minha voz clamei ao Senhor; com minha voz supliquei ao Senhor.\nSl 141, 3. Derramo minha oração diante dele, e ante ele exponho minha tribulação.\nSl 141, 4. Quando meu espírito desfalecia, vós conhecíeis minhas veredas. Neste caminho por onde eu andava, esconderam-me um laço.\nSl 141, 5. Olhava para a direita e via, e não havia quem me conhecesse. Faltou-me a fuga, e não há quem cuide da minha alma.\nSl 68, 8. Porque por vossa causa suportei o opróbrio; a vergonha cobriu meu rosto.\nSl 68, 9. Tornei-me estranho a meus irmãos, e um estrangeiro para os filhos de minha mãe.\nSl 68, 10. Pai santo, o zelo de vossa casa me devorou, e os insultos dos que vos ultrajavam caíram sobre mim.\nSl 34, 15. E alegraram-se contra mim e se reuniram; acumularam-se sobre mim os açoites, e eu não o sabia.\nSl 68, 5. Multiplicaram-se mais que os cabelos de minha cabeça os que me odeiam sem causa; fortaleceram-se meus inimigos que injustamente me perseguiram; então paguei o que não havia tomado.\nSl 34, 11. Levantando-se testemunhas iníquas, interrogavam-me sobre coisas que eu ignorava.\nSl 34, 12. Retribuíram-me mal por bem, e Sl 37, 21. me difamavam, porque eu seguia o bem. Vós sois meu Pai santíssimo, meu Rei e meu Deus.\nSl 37, 23. Vinde em meu auxílio, Senhor Deus da minha salvação."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "none",
+                  "label": {
+                    "en-US": "None",
+                    "pt-BR": "Nona",
+                    "la": "At None"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Lam. 1: 12. O all ye that pass by, attend and see if there be any sorrow like to my sorrow.\nPs. 21: 17. For many dogs have encompassed me; the council of the malignant hath besieged me.\nPs. 21: 18. They looked and stared upon me.\nPs. 21: 19. They parted my garments among them and upon my vesture cast lots.\nPs. 21: 17. They have dug my hands and my feet.\nPs. 21: 18. They numbered all my bones.\nPs. 21: 14. They have opened their mouth against me: as a lion ravening and roaring.\nPs. 21: 15. I am poured out like water and all my bones are scattered. And my heart is become like melting wax in the midst of my bowels.\nPs. 21: 16. My strength is dried up like a potsherd; and my tongue hath cleaved to my jaws.\nPs. 68: 22. And they gave me gall for my food: and in my thirst they gave me vinegar to drink.\nPs. 21: 16. And Thou hast brought me into the dust of death.\nPs. 68: 27. And they have added to the grief of my wounds. I slept and rose again; and my most holy Father received me with glory.\nPs. 72: 24. Holy Father, Thou hast held my right hand; and by Thy will Thou hast conducted me and hast received me with glory.\nPs. 72: 25. For what have I in heaven; and besides Thee what do I desire upon earth?\nPs. 45: 11. Be still and see that I am God, saith the Lord; I will be exalted among the nations and I will be exalted in the earth. Blessed is the Lord God of Israel.\nPs. 33: 23. Who has redeemed the souls of His servants with His own most holy Blood; and none of them that trust in Him shall offend.\nPs. 95: 13. And we know that He cometh; for He will come to judge justice.",
+                        "pt-BR": "Lm 1, 12. Ó vós todos que passais pelo caminho, atendei e vede se há dor semelhante à minha dor.\nSl 21, 17. Porque muitos cães me cercaram; o conselho dos malignos me sitiou.\nSl 21, 18. Olharam e me contemplaram fixamente.\nSl 21, 19. Repartiram entre si as minhas vestes, e sobre minha túnica lançaram sortes.\nSl 21, 17. Traspassaram minhas mãos e meus pés.\nSl 21, 18. Contaram todos os meus ossos.\nSl 21, 14. Abriram contra mim sua boca, como leão que arrebata e ruge.\nSl 21, 15. Sou derramado como água, e todos os meus ossos se desconjuntaram. E meu coração tornou-se como cera derretida no meio de minhas entranhas.\nSl 21, 16. Minha força secou como um caco de barro, e minha língua se pegou ao paladar.\nSl 68, 22. E deram-me fel por alimento, e em minha sede deram-me vinagre a beber.\nSl 21, 16. E me conduzistes até o pó da morte.\nSl 68, 27. E acrescentaram dor às minhas feridas. Adormeci e me levantei; e meu Pai santíssimo me recebeu com glória.\nSl 72, 24. Pai santo, seguraste minha mão direita; e por vossa vontade me conduzistes e me recebestes com glória.\nSl 72, 25. Pois que tenho eu no céu? E além de vós, que desejo eu sobre a terra?\nSl 45, 11. Aquietai-vos e vede que eu sou Deus, diz o Senhor; serei exaltado entre as nações e serei exaltado na terra. Bendito seja o Senhor Deus de Israel.\nSl 33, 23. Que remiu as almas de seus servos com seu santíssimo Sangue; e nenhum dos que nele confiam será castigado.\nSl 95, 13. E sabemos que ele vem, porque virá julgar com justiça."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "vespers",
+                  "label": {
+                    "en-US": "Vespers",
+                    "pt-BR": "Vésperas",
+                    "la": "At Vespers"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 46: 2. O clap your hands, all ye nations, shout unto God with the voice of joy.\nPs. 46: 3. For the Lord is high, terrible: He is a great king over all the earth. For the most holy Father of heaven, our King, before ages sent His beloved Son from on high.\nPs. 73: 12. And hath wrought salvation in the midst of the earth.\nPs. 95: 11. Let the heavens rejoice and let the earth be glad, let the sea be moved and the fulness thereof.\nPs. 95: 12. The fields and all that are in them shall be joyful.\nPs. 95: 1. Sing unto Him a new canticle; sing unto the Lord, all the earth.\nPs. 95: 4. For the Lord is great and exceedingly to be praised; He is to be feared above all gods.\nPs. 95: 7. Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.\nPs. 95: 8. Bring to the Lord glory unto His Name. Bring your own bodies and bear His holy cross; and follow His most holy precepts even unto the end.\nPs. 95: 9. Let all the earth be moved at His presence.\nPs. 95: 10. Say among the gentiles that the Lord hath reigned.",
+                        "pt-BR": "Sl 46, 2. Batei palmas, todas as nações; aclamai a Deus com voz de alegria.\nSl 46, 3. Porque o Senhor é excelso e temível; é grande rei sobre toda a terra. Pois o santíssimo Pai do céu, nosso Rei, antes dos séculos enviou do alto seu Filho amado.\nSl 73, 12. E operou a salvação no meio da terra.\nSl 95, 11. Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém.\nSl 95, 12. Alegrem-se os campos e tudo o que neles há.\nSl 95, 1. Cantai-lhe um cântico novo; cantai ao Senhor, toda a terra.\nSl 95, 4. Porque o Senhor é grande e digno de todo louvor; é temível acima de todos os deuses.\nSl 95, 7. Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra.\nSl 95, 8. Tributai ao Senhor a glória devida a seu Nome. Trazei vossos próprios corpos e levai sua santa cruz, e segui seus santíssimos preceitos até o fim.\nSl 95, 9. Estremeça toda a terra diante de sua presença.\nSl 95, 10. Dizei entre os gentios que o Senhor reinou."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "It is said up to this place daily from Good Friday until the feast of the Ascension. On the feast of the Ascension, however, these versicles are added over and above: And He ascended unto heaven; and sitteth on the right-hand of the most Holy Father in heaven.",
+                        "pt-BR": "Diz-se até aqui diariamente, desde a Sexta-feira Santa até a festa da Ascensão. Na festa da Ascensão, porém, acrescentam-se ainda estes versículos: E subiu ao céu, e está sentado à direita do santíssimo Pai nos céus."
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 56: 12. Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.\nPs. 95: 13. And we know that He cometh: for He will come to judge justice.",
+                        "pt-BR": "Sl 56, 12. Sede exaltado, ó Deus, acima dos céus, e vossa glória sobre toda a terra.\nSl 95, 13. E sabemos que ele vem, porque virá julgar com justiça."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Note that from the Ascension until the Advent of the Lord this Psalm is said daily in the same manner, namely: \"O clap your hands,\" with the foregoing versicles, \"Glory be to the Father\" being said where the Psalm ends, namely, \"for He will come to judge with justice.\"",
+                        "pt-BR": "Note-se que, desde a Ascensão até o Advento do Senhor, este Salmo é dito diariamente da mesma maneira, a saber: \"Batei palmas\", com os versículos precedentes, dizendo-se \"Glória ao Pai\" onde termina o Salmo, a saber: \"porque virá julgar com justiça\"."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Note that the foregoing Psalms are said from Good Friday until Easter Sunday: they are said in the same manner from the octave of Whitsunday until the Advent of the Lord and from the octave of the Epiphany until Maundy Thursday, except on Sundays, and the principal feasts, on which they are not said: on the other days however they are said daily.",
+                        "pt-BR": "Note-se que os Salmos precedentes são ditos desde a Sexta-feira Santa até o Domingo de Páscoa; são ditos da mesma maneira desde a oitava de Pentecostes até o Advento do Senhor, e desde a oitava da Epifania até a Quinta-feira Santa, exceto nos domingos e nas festas principais, em que não se dizem; nos demais dias, porém, dizem-se diariamente."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "paschal",
+          "label": {
+            "en-US": "Paschal season",
+            "pt-BR": "Tempo pascal"
+          },
+          "sections": [
+            {
+              "type": "select",
+              "on": "hour",
+              "label": {
+                "en-US": "Hour",
+                "pt-BR": "Hora"
+              },
+              "map": {
+                "0-2": "matins",
+                "3-5": "prime",
+                "6-9": "terce-sext-none",
+                "10-12": "terce-sext-none",
+                "13-16": "terce-sext-none",
+                "17-19": "vespers",
+                "20-23": "compline"
+              },
+              "options": [
+                {
+                  "id": "compline",
+                  "label": {
+                    "en-US": "Compline",
+                    "pt-BR": "Completas",
+                    "la": "Ad Completorium"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Holy Saturday at Compline",
+                        "pt-BR": "Sábado Santo, nas Completas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 69: 2. O God, etc. (Ps. 69), as in the Psalter.",
+                        "pt-BR": "Sl 69, 2. Ó Deus, etc. (Sl 69), como está no Saltério."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "It is said daily at Compline until the octave of Pentecost.",
+                        "pt-BR": "Diz-se diariamente nas Completas até a oitava de Pentecostes."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "matins",
+                  "label": {
+                    "en-US": "Matins",
+                    "pt-BR": "Matinas",
+                    "la": "Ad Matutinum"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Easter Sunday at Matins",
+                        "pt-BR": "Domingo de Páscoa, nas Matinas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 97: 1. Sing ye to the Lord a new canticle: for He hath done wonderful things. His right hand hath sanctified His Son; and His arm is holy.\nPs. 97: 2. The Lord hath made known His salvation; He hath revealed His justice in the sight of the gentiles.\nPs. 41: 9. In the day time the Lord hath commanded His mercy: and a canticle to Him in the night.\nPs. 117: 24. This is the day which the Lord hath made: let us rejoice and be glad in it.\nPs. 117: 26. Blessed be He that cometh in the name of the Lord.\nPs. 117: 27. The Lord is God and He hath shone upon us.\nPs. 95: 11. Let the heavens rejoice and let the earth be glad: let the sea be moved and the fulness thereof.\nPs. 95: 12. The fields shall rejoice and all that are in them.\nPs. 95: 7. Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.\nPs. 95: 8. Bring to the Lord glory unto His Name.",
+                        "pt-BR": "Sl 97, 1. Cantai ao Senhor um cântico novo, porque fez maravilhas. Sua destra santificou seu Filho, e seu braço é santo.\nSl 97, 2. O Senhor manifestou sua salvação; revelou sua justiça à vista dos gentios.\nSl 41, 9. De dia o Senhor mandou sua misericórdia, e de noite um cântico a ele.\nSl 117, 24. Este é o dia que o Senhor fez; alegremo-nos e exultemos nele.\nSl 117, 26. Bendito o que vem em nome do Senhor.\nSl 117, 27. O Senhor é Deus, e fez brilhar sobre nós sua luz.\nSl 95, 11. Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém.\nSl 95, 12. Alegrem-se os campos e tudo o que neles há.\nSl 95, 7. Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra.\nSl 95, 8. Tributai ao Senhor a glória devida a seu Nome."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "It is said up to this place daily from Easter Sunday to the feast of the Ascension at all the Hours except at Vespers and Compline and Prime. On the night of the Ascension these verses are added:—",
+                        "pt-BR": "Diz-se até aqui diariamente, do Domingo de Páscoa até a festa da Ascensão, em todas as Horas, exceto nas Vésperas, nas Completas e na Prima. Na noite da Ascensão acrescentam-se estes versículos:"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 67: 33. Sing ye to God, ye kingdoms of the earth: sing ye to the Lord: sing ye to God.\nPs. 67: 34. Who mounteth above the heaven of heavens to the east. Behold He will give to His voice the voice of power.\nPs. 67: 35. Give ye glory to God for Israel: His magnificence and His power is in the clouds.\nPs. 67: 36. God is wonderful in His saints: the God of Israel is He who will give power and strength to His people. Blessed be God.",
+                        "pt-BR": "Sl 67, 33. Cantai a Deus, ó reinos da terra; cantai ao Senhor; cantai a Deus.\nSl 67, 34. Que sobe acima do céu dos céus, para o oriente. Eis que dará à sua voz uma voz de poder.\nSl 67, 35. Dai glória a Deus por Israel; sua magnificência e seu poder estão nas nuvens.\nSl 67, 36. Deus é admirável em seus santos; o Deus de Israel é quem dará poder e força a seu povo. Bendito seja Deus."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "And note that this Psalm is said daily from the Ascension of the Lord until the octave of Whitsunday with the foregoing versicles at Matins and Tierce and Sext and Nones: \"Glory be to the Father,\" being said where \"Blessed be God\" is said, and not elsewhere. Also note that it is said in the same manner only at Matins on Sundays and the principal feasts, from the octave of Whitsunday until Maundy Thursday because on that day the Lord ate the Pasch with His disciples, or the other Psalm may be said at Matins or at Vespers when one wishes, to wit, \"I will extol Thee, O Lord,\" as it is in the Psalter, and this from Easter Sunday to the feast of the Ascension and not longer.",
+                        "pt-BR": "E note-se que este Salmo é dito diariamente, desde a Ascensão do Senhor até a oitava de Pentecostes, com os versículos precedentes, nas Matinas, na Terça, na Sexta e na Noa, dizendo-se \"Glória ao Pai\" onde se diz \"Bendito seja Deus\", e não em outro lugar. Note-se também que se diz da mesma maneira, somente nas Matinas, nos domingos e nas festas principais, desde a oitava de Pentecostes até a Quinta-feira Santa, porque naquele dia o Senhor comeu a Páscoa com seus discípulos; ou pode-se dizer o outro Salmo nas Matinas ou nas Vésperas, quando se quiser, a saber: \"Exaltar-vos-ei, Senhor\", como está no Saltério, e isto do Domingo de Páscoa até a festa da Ascensão, e não mais."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "prime",
+                  "label": {
+                    "en-US": "Prime",
+                    "pt-BR": "Prima",
+                    "la": "Ad Primam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Prime",
+                        "pt-BR": "Na Prima"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Have mercy on me, etc.—as above.",
+                        "pt-BR": "Tende piedade de mim, etc. — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "terce-sext-none",
+                  "label": {
+                    "en-US": "Terce, Sext & None",
+                    "pt-BR": "Terça, Sexta e Noa",
+                    "la": "Ad Tertiam, Sextam et Nonam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Tierce, Sext and Nones",
+                        "pt-BR": "Na Terça, Sexta e Noa"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Sing ye to the Lord, etc.—as above.",
+                        "pt-BR": "Cantai ao Senhor, etc. — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "vespers",
+                  "label": {
+                    "en-US": "Vespers",
+                    "pt-BR": "Vésperas",
+                    "la": "Ad Vesperas"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Vespers",
+                        "pt-BR": "Nas Vésperas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "O clap your hands, etc.—as above.",
+                        "pt-BR": "Batei palmas, etc. — como acima."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sundays",
+          "label": {
+            "en-US": "Sundays & principal feasts",
+            "pt-BR": "Domingos e festas principais"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Here begin the other psalms which our most blessed Father Francis likewise arranged which are to be said in place of the foregoing psalms of the Passion of the Lord on Sunday and the principal festivities from the octave of Whitsunday until Advent and from the octave of the Epiphany until Maundy Thursday.",
+                "pt-BR": "Aqui começam os outros salmos que nosso beatíssimo Pai Francisco igualmente dispôs, os quais se devem dizer em lugar dos precedentes salmos da Paixão do Senhor, nos domingos e nas festividades principais, desde a oitava de Pentecostes até o Advento, e desde a oitava da Epifania até a Quinta-feira Santa."
+              }
+            },
+            {
+              "type": "select",
+              "on": "hour",
+              "label": {
+                "en-US": "Hour",
+                "pt-BR": "Hora"
+              },
+              "map": {
+                "0-2": "matins",
+                "3-5": "prime",
+                "6-9": "terce",
+                "10-12": "sext",
+                "13-16": "none",
+                "17-19": "vespers",
+                "20-23": "compline"
+              },
+              "options": [
+                {
+                  "id": "compline",
+                  "label": {
+                    "en-US": "Compline",
+                    "pt-BR": "Completas",
+                    "la": "Ad Completorium"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Compline",
+                        "pt-BR": "Nas Completas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "O God, etc. (Ps. 69),—as it is in the Psalter.",
+                        "pt-BR": "Ó Deus, etc. (Sl 69), como está no Saltério."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "matins",
+                  "label": {
+                    "en-US": "Matins",
+                    "pt-BR": "Matinas",
+                    "la": "Ad Matutinum"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Matins",
+                        "pt-BR": "Nas Matinas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Sing ye to the Lord, etc.,—as above.",
+                        "pt-BR": "Cantai ao Senhor, etc. — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "prime",
+                  "label": {
+                    "en-US": "Prime",
+                    "pt-BR": "Prima",
+                    "la": "Ad Primam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Prime",
+                        "pt-BR": "Na Prima"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Have mercy on me, etc.—as above.",
+                        "pt-BR": "Tende piedade de mim, etc. — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "terce",
+                  "label": {
+                    "en-US": "Terce",
+                    "pt-BR": "Terça",
+                    "la": "Ad Tertiam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Tierce",
+                        "pt-BR": "Na Terça"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 65: 1. Shout with joy to God, all the earth.\nPs. 65: 2. Sing ye a Psalm to His name: give glory to His praise.\nPs. 65: 3. Say unto God, How terrible are Thy works, O Lord: in the multitude of Thy strength Thy enemies shall lie to Thee.\nPs. 65: 4. Let all the earth adore Thee and sing to Thee: let it sing a psalm to Thy Name.\nPs. 65: 16. Come and hear, all ye that fear God, and I will tell you what great things He hath done for my soul.\nPs. 65: 17. I cried to Him with my mouth: and I extolled Him with my tongue.\nPs. 17: 7. And He heard my voice from His holy temple: and my cry came before Him.\nPs. 65: 8. O bless our God, ye gentiles: and make the voice of His praise to be heard.\nPs. 71: 17. And in him shall all the tribes of the earth be blessed: all nations shall magnify Him.\nPs. 71: 18. Blessed be the Lord God of Israel, who only doth wonderful things.\nPs. 71: 19. And blessed be the Name of His majesty forever: and the whole earth shall be filled with His majesty. Amen. Amen.",
+                        "pt-BR": "Sl 65, 1. Aclamai a Deus com júbilo, toda a terra.\nSl 65, 2. Cantai um Salmo a seu nome; dai glória a seu louvor.\nSl 65, 3. Dizei a Deus: Quão temíveis são vossas obras, Senhor! Pela grandeza de vosso poder vossos inimigos vos lisonjearão.\nSl 65, 4. Adore-vos toda a terra e cante-vos; cante um salmo a vosso Nome.\nSl 65, 16. Vinde e ouvi, todos vós que temeis a Deus, e vos contarei quão grandes coisas ele fez à minha alma.\nSl 65, 17. A ele clamei com minha boca, e o exaltei com minha língua.\nSl 17, 7. E ele ouviu minha voz de seu santo templo, e meu clamor chegou à sua presença.\nSl 65, 8. Bendizei, ó gentios, o nosso Deus, e fazei ouvir a voz de seu louvor.\nSl 71, 17. E nele serão benditas todas as tribos da terra; todas as nações o exaltarão.\nSl 71, 18. Bendito seja o Senhor Deus de Israel, que só ele faz maravilhas.\nSl 71, 19. E bendito seja para sempre o Nome de sua majestade, e toda a terra se encherá de sua majestade. Amém. Amém."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "sext",
+                  "label": {
+                    "en-US": "Sext",
+                    "pt-BR": "Sexta",
+                    "la": "Ad Sextam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Sext",
+                        "pt-BR": "Na Sexta"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 19: 2. May the Lord hear thee in the day of tribulation: may the Name of the God of Jacob protect thee: may He.\nPs. 19: 3. Send thee help from the sanctuary and defend thee out of Sion.\nPs. 19: 4. Be mindful of all thy sacrifices, and may thy whole burnt-offering be made fat.\nPs. 19: 5. Give thee according to thy own heart, and confirm all thy counsels.\nPs. 19: 6. We will rejoice in thy salvation; and in the Name of our God we shall be exalted.\nPs. 19: 7. The Lord fulfil all thy petitions: now I know that the Lord hath sent Jesus Christ His Son.\nPs. 9: 9. And will judge the people with justice.\nPs. 9: 10. And the Lord is become a refuge for the poor: a helper in due time of tribulation.\nPs. 9: 11. And let them trust in Thee who know Thy Name.\nPs. 143: 1. Blessed be the Lord my God.\nPs. 58: 17. For Thou art become my support and refuge in the day of my trouble.\nPs. 58: 18. Unto Thee, O my helper, will I sing: for God is my defence, my God, my mercy.",
+                        "pt-BR": "Sl 19, 2. Ouça-te o Senhor no dia da tribulação; proteja-te o Nome do Deus de Jacó; que ele.\nSl 19, 3. Te envie auxílio do santuário e te defenda desde Sião.\nSl 19, 4. Se lembre de todos os teus sacrifícios, e seja pingue o teu holocausto.\nSl 19, 5. Te dê segundo o teu coração e confirme todos os teus desígnios.\nSl 19, 6. Alegrar-nos-emos em tua salvação, e no Nome de nosso Deus seremos exaltados.\nSl 19, 7. Cumpra o Senhor todas as tuas petições. Agora sei que o Senhor enviou Jesus Cristo, seu Filho.\nSl 9, 9. E julgará os povos com justiça.\nSl 9, 10. E o Senhor tornou-se refúgio do pobre, auxílio no tempo oportuno da tribulação.\nSl 9, 11. E confiem em vós os que conhecem vosso Nome.\nSl 143, 1. Bendito seja o Senhor meu Deus.\nSl 58, 17. Porque vos tornastes meu amparo e meu refúgio no dia da minha tribulação.\nSl 58, 18. A vós, ó meu auxílio, cantarei; porque Deus é minha defesa, meu Deus, minha misericórdia."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "none",
+                  "label": {
+                    "en-US": "None",
+                    "pt-BR": "Noa",
+                    "la": "Ad Nonam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Nones",
+                        "pt-BR": "Na Noa"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 70: 1. In Thee, O Lord, have I hoped, let me never be put to confusion.\nPs. 70: 2. Deliver me in Thy justice and rescue me: incline Thine ear unto and save me.\nPs. 70: 3. Be Thou unto me, O God, a protector and a place of strength: that Thou mayest make me safe.\nPs. 70: 5. For Thou art my patience, O Lord; my hope, O Lord, from my youth.\nPs. 70: 6. By Thee have I been confirmed from the womb, from my mother's womb Thou art my protector: of Thee I shall continually sing.\nPs. 70: 8. Let my mouth be filled with praise, that I may sing Thy glory; Thy greatness all the day long.\nPs. 68: 17. Hear me, O Lord, for Thy mercy is kind; look upon me according to the multitude of Thy tender mercies.\nPs. 68: 18. And turn not away Thy face from Thy servant; for I am in trouble, hear me speedily.\nPs. 143: 1. Blessed be the Lord my God.\nPs. 58: 17. For Thou art become my support and refuge in the day of my trouble.\nPs. 58: 18. Unto Thee, O my helper, will I sing; for God is my defence, my God, my mercy.",
+                        "pt-BR": "Sl 70, 1. Em vós, Senhor, esperei; não seja eu confundido para sempre.\nSl 70, 2. Livrai-me em vossa justiça e resgatai-me; inclinai a mim vosso ouvido e salvai-me.\nSl 70, 3. Sede para mim, ó Deus, protetor e lugar fortificado, para que me salveis.\nSl 70, 5. Porque vós sois minha paciência, Senhor; minha esperança, Senhor, desde a minha juventude.\nSl 70, 6. Em vós fui confirmado desde o ventre; desde o seio de minha mãe sois meu protetor; a vós cantarei continuamente.\nSl 70, 8. Encha-se minha boca de louvor, para que eu cante vossa glória e vossa grandeza todo o dia.\nSl 68, 17. Ouvi-me, Senhor, porque benigna é vossa misericórdia; olhai para mim segundo a multidão de vossas ternas compaixões.\nSl 68, 18. E não desvieis vosso rosto de vosso servo; porque estou atribulado, ouvi-me depressa.\nSl 143, 1. Bendito seja o Senhor meu Deus.\nSl 58, 17. Porque vos tornastes meu amparo e meu refúgio no dia da minha tribulação.\nSl 58, 18. A vós, ó meu auxílio, cantarei; porque Deus é minha defesa, meu Deus, minha misericórdia."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "vespers",
+                  "label": {
+                    "en-US": "Vespers",
+                    "pt-BR": "Vésperas",
+                    "la": "Ad Vesperas"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Vespers",
+                        "pt-BR": "Nas Vésperas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "O clap your hands. . . as above.",
+                        "pt-BR": "Batei palmas... como acima."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "advent",
+          "label": {
+            "en-US": "Advent",
+            "pt-BR": "Advento"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Here begin other Psalms which our most blessed Father Francis likewise arranged; which are to be said in place of the foregoing Psalms of the Passion of the Lord from the Advent of the Lord until Christmas eve and not longer.",
+                "pt-BR": "Aqui começam outros Salmos que nosso beatíssimo Pai Francisco igualmente dispôs, os quais se devem dizer em lugar dos precedentes Salmos da Paixão do Senhor, desde o Advento do Senhor até a véspera de Natal, e não mais."
+              }
+            },
+            {
+              "type": "select",
+              "on": "hour",
+              "label": {
+                "en-US": "Hour",
+                "pt-BR": "Hora"
+              },
+              "map": {
+                "0-2": "matins",
+                "3-5": "prime",
+                "6-9": "terce",
+                "10-12": "sext",
+                "13-16": "none",
+                "17-19": "vespers",
+                "20-23": "compline"
+              },
+              "options": [
+                {
+                  "id": "compline",
+                  "label": {
+                    "en-US": "Compline",
+                    "pt-BR": "Completas",
+                    "la": "Ad Completorium"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Compline",
+                        "pt-BR": "Nas Completas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "How long, O Lord (Ps. 12), as it is found in the Psalter.",
+                        "pt-BR": "Até quando, Senhor (Sl 12), como se encontra no Saltério."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "matins",
+                  "label": {
+                    "en-US": "Matins",
+                    "pt-BR": "Matinas",
+                    "la": "Ad Matutinum"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Matins",
+                        "pt-BR": "Nas Matinas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Ps. 85: 12. I will praise Thee, O Lord, most Holy Father, King of heaven and earth; because.\nPs. 85: 17. Thou hast comforted me.\nPs. 24: 5. Thou art God my Saviour.\nPs. 11: 6. I will deal confidently and will not fear.\nPs. 117: 14. The Lord is my strength and my praise; and is become my salvation.\nExod. 15: 6. Thy right hand, O Lord, is magnified in strength; Thy right hand, O Lord, hath slain the enemy.\nExod. 15: 7. And in the multitude of Thy glory Thou hast put down Thy adversaries.\nPs. 68: 33. Let the poor see and rejoice: seek ye God and your soul shall live.\nPs. 68: 35. Let the heavens and the earth praise Him: the sea and everything that creepeth therein.\nPs. 68: 36. For God will save Sion and the cities of Juda shall be built up. And they shall dwell there: and acquire it by inheritance.\nPs. 68: 37. And the seed of His servants shall possess it: and they that love His Name shall dwell therein.",
+                        "pt-BR": "Sl 85, 12. Louvar-vos-ei, Senhor, Pai santíssimo, Rei do céu e da terra, porque.\nSl 85, 17. Vós me consolastes.\nSl 24, 5. Vós sois o Deus meu Salvador.\nSl 11, 6. Agirei com confiança e não temerei.\nSl 117, 14. O Senhor é minha força e meu louvor, e tornou-se minha salvação.\nEx 15, 6. Vossa destra, Senhor, é magnificada em poder; vossa destra, Senhor, feriu o inimigo.\nEx 15, 7. E na grandeza de vossa glória derrubastes vossos adversários.\nSl 68, 33. Vejam os pobres e alegrem-se; buscai a Deus e vossa alma viverá.\nSl 68, 35. Louvem-no os céus e a terra, o mar e tudo o que nele se move.\nSl 68, 36. Porque Deus salvará Sião, e as cidades de Judá serão edificadas. E ali habitarão, e a possuirão por herança.\nSl 68, 37. E a descendência de seus servos a possuirá, e os que amam seu Nome nela habitarão."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "prime",
+                  "label": {
+                    "en-US": "Prime",
+                    "pt-BR": "Prima",
+                    "la": "Ad Primam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Prime",
+                        "pt-BR": "Na Prima"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Have mercy on me, etc.—as above.",
+                        "pt-BR": "Tende piedade de mim, etc. — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "terce",
+                  "label": {
+                    "en-US": "Terce",
+                    "pt-BR": "Terça",
+                    "la": "Ad Tertiam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Tierce",
+                        "pt-BR": "Na Terça"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Shout with joy, etc.—as above.",
+                        "pt-BR": "Aclamai a Deus com júbilo, etc. — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "sext",
+                  "label": {
+                    "en-US": "Sext",
+                    "pt-BR": "Sexta",
+                    "la": "Ad Sextam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Sext",
+                        "pt-BR": "Na Sexta"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "May the Lord hear thee in the day, etc.—as above.",
+                        "pt-BR": "Ouça-te o Senhor no dia, etc. — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "none",
+                  "label": {
+                    "en-US": "None",
+                    "pt-BR": "Noa",
+                    "la": "Ad Nonam"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Nones",
+                        "pt-BR": "Na Noa"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "In Thee, O Lord, have I hoped—as above.",
+                        "pt-BR": "Em vós, Senhor, esperei — como acima."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "vespers",
+                  "label": {
+                    "en-US": "Vespers",
+                    "pt-BR": "Vésperas",
+                    "la": "Ad Vesperas"
+                  },
+                  "sections": [
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "At Vespers",
+                        "pt-BR": "Nas Vésperas"
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Antiphon",
+                        "pt-BR": "Antífona"
+                      }
+                    },
+                    {
+                      "type": "prayer",
+                      "inline": {
+                        "en-US": "Holy Mary.",
+                        "pt-BR": "Santa Maria."
+                      }
+                    },
+                    {
+                      "type": "subheading",
+                      "text": {
+                        "en-US": "Psalm",
+                        "pt-BR": "Salmo"
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "O clap your hands, etc.—as above.",
+                        "pt-BR": "Batei palmas, etc. — como acima."
+                      }
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Also note that the whole Psalm is not said but up to the verse, \"Let all the earth be moved\"; understand however that the whole verse \"Bring your own bodies\" must be said. At the end of this verse \"Glory be to the Father\" is said. And thus it is said daily at Vespers from Advent until Christmas eve.",
+                        "pt-BR": "Note-se também que não se diz o Salmo inteiro, mas apenas até o versículo \"Estremeça toda a terra\"; entenda-se, porém, que se deve dizer inteiro o versículo \"Trazei vossos próprios corpos\". Ao fim deste versículo diz-se \"Glória ao Pai\". E assim se diz diariamente nas Vésperas, desde o Advento até a véspera de Natal."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "christmas",
+          "label": {
+            "en-US": "Christmas to the Epiphany octave",
+            "pt-BR": "Natal até a oitava da Epifania"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
-                "en-US": "Antiphon"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Holy Virgin Mary."
+                "en-US": "Christmas Day at Vespers",
+                "pt-BR": "Dia de Natal, nas Vésperas"
               }
             },
             {
               "type": "subheading",
               "text": {
-                "en-US": "Psalm"
+                "en-US": "Antiphon",
+                "pt-BR": "Antífona"
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Ps. 55: 9. O God, I have declared to Thee my life; Thou hast set my tears in Thy sight.\nPs. 40: 8. All my enemies devised evils against me.\nPs. 70: 10. They have consulted together.\nPs. 108: 5. And they have repaid me evil for good and hatred for my love.\nPs. 108: 4. Instead of making me a return of love they detracted me; but I gave myself to prayer.\nPs. 21: 12. My holy Father, King of heaven and earth, depart not from me; for tribulation is near and there is none to help.\nPs. 55: 10. When I cry unto Thee, then shall mine enemies be turned back; behold I know that Thou art my God.\nPs. 37: 12. My friends and my neighbors have drawn near and stood against me; and they that were near me stood afar off.\nPs. 87: 9. Thou hast put away my acquaintance far from me; they have set me an abomination to them; I was delivered up and came not forth.\nPs. 21: 20. Holy Father, remove not Thy help far from me: My God, look toward my help.\nPs. 37: 23. Attend unto my help, O Lord, the God of my salvation.—Glory be."
+                "en-US": "Holy Mary.",
+                "pt-BR": "Santa Maria."
               }
             },
             {
               "type": "subheading",
               "text": {
-                "en-US": "Antiphon"
+                "en-US": "Psalm",
+                "pt-BR": "Salmo"
               }
             },
             {
               "type": "prayer",
               "inline": {
-                "en-US": "Holy Virgin Mary, there is none like unto Thee born in the world among women, daughter and handmaid of the most high King, the heavenly Father! Mother of our most holy Lord Jesus Christ, Spouse of the Holy Ghost; pray for us, with St. Michael Archangel, and all the Virtues of heaven, and all the Saints, to Thy most holy, beloved Son, our Lord and Master."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Glory be to the Father and to the Son and to the Holy Ghost. As it was in the beginning is now and ever shall be world without end. Amen."
+                "en-US": "Ps. 80: 2. Rejoice to God our helper.\nPs. 46: 2. Shout unto God, living and true, with the voice of triumph.\nPs. 46: 3. For the Lord is high, terrible: a great king over all the earth. For the most holy Father of heaven, our king, before ages sent His Beloved Son from on high and He was born of the Blessed Virgin, holy Mary.\nPs. 88: 27. He shall cry out to me: Thou art my Father.\nPs. 88: 28. And I will make Him My Firstborn, high above the kings of the earth.\nPs. 41: 9. In the day time the Lord hath commanded His mercy: and a canticle to Him in the night.\nPs. 117: 24. This is the day which the Lord hath made: let us rejoice and be glad in it. For the beloved and most holy Child has been given to us and born for us by the wayside.\nLuke 2: 7. And laid in a manger because He had no room in the inn.\nLuke 2: 14. Glory to God in the highest; and on earth peace to men of good will.\nPs. 95: 11. Let the heavens rejoice and the earth be glad, and let the sea be moved and the fulness thereof.\nPs. 95: 12. The fields shall rejoice and all that are in them.\nPs. 95: 1. Sing to Him a new canticle; sing to the Lord, all the earth.\nPs. 95: 4. For the Lord is great and exceedingly to be praised: He is to be feared above all gods.\nPs. 95: 7. Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.\nPs. 95: 8. Bring to the Lord glory unto His Name. Bring your own bodies and bear His holy cross and follow His most holy precepts even unto the end.",
+                "pt-BR": "Sl 80, 2. Exultai em Deus, nosso auxílio.\nSl 46, 2. Aclamai a Deus, vivo e verdadeiro, com voz de triunfo.\nSl 46, 3. Porque o Senhor é excelso e temível, grande rei sobre toda a terra. Pois o santíssimo Pai do céu, nosso rei, antes dos séculos enviou do alto seu Filho amado, e ele nasceu da bem-aventurada Virgem, santa Maria.\nSl 88, 27. Ele clamará a mim: Vós sois meu Pai.\nSl 88, 28. E eu farei dele meu Primogênito, o mais alto entre os reis da terra.\nSl 41, 9. De dia o Senhor mandou sua misericórdia, e de noite um cântico a ele.\nSl 117, 24. Este é o dia que o Senhor fez; alegremo-nos e exultemos nele. Pois o Menino amado e santíssimo nos foi dado e nasceu para nós à beira do caminho.\nLc 2, 7. E foi reclinado numa manjedoura, porque não havia lugar para ele na hospedaria.\nLc 2, 14. Glória a Deus nas alturas, e paz na terra aos homens de boa vontade.\nSl 95, 11. Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém.\nSl 95, 12. Alegrem-se os campos e tudo o que neles há.\nSl 95, 1. Cantai-lhe um cântico novo; cantai ao Senhor, toda a terra.\nSl 95, 4. Porque o Senhor é grande e digno de todo louvor; é temível acima de todos os deuses.\nSl 95, 7. Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra.\nSl 95, 8. Tributai ao Senhor a glória devida a seu Nome. Trazei vossos próprios corpos e levai sua santa cruz, e segui seus santíssimos preceitos até o fim."
               }
             },
             {
               "type": "rubric",
               "text": {
-                "en-US": "Note that the foregoing antiphon is said at all the Hours and it is said for antiphon, chapter, hymn, versicle, and prayer, and at Matins and at all the Hours likewise. He said nothing else in them except this antiphon with its Psalms. At the completion of the office Blessed Francis always said: Let us bless the Lord God living and true; let us refer praise, glory, honor, blessing and all praise to Him, always. Amen. Amen. Fiat. Fiat."
-              }
-            }
-          ]
-        },
-        {
-          "id": "matins",
-          "label": {
-            "en-US": "Matins",
-            "pt-BR": "Matinas",
-            "la": "At Matins"
-          },
-          "sections": [
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Antiphon"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Holy Virgin Mary."
-              }
-            },
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Psalm"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Ps. 87: 2. O Lord, the God of my salvation, I have cried in the day and night before Thee.\nPs. 87: 3. Let my prayer come in before Thee; incline Thy ear to my petition.\nPs. 68: 19. Attend to my soul and deliver it: save me because of my enemies.\nPs. 21: 10. For Thou art He that hast drawn me out of the womb; my hope from the breasts of my mother.\nPs. 21: 11. I was cast upon Thee from the womb. From my mother's womb Thou art my God.\nPs. 21: 12. Depart not from me.\nPs. 68: 20. Thou knowest my reproach and my confusion and my shame.\nPs. 68: 21. In Thy sight are all they that afflict me: my heart hath expected reproach and misery. And I looked for one that would grieve together with me, but there was none, and for one that would comfort me and I found none.\nPs. 85: 14. O God, the wicked are risen up against me and the assembly of the mighty have sought my soul; and they have not set Thee before their eyes.\nPs. 87: 5. I am counted among them that go down to the pit; I am become as a man without help.\nPs. 87: 6. Free among the dead. Thou art my Father, most holy, my king and my God.\nPs. 37: 23. Attend unto my help, O Lord God of my salvation."
-              }
-            }
-          ]
-        },
-        {
-          "id": "prime",
-          "label": {
-            "en-US": "Prime",
-            "pt-BR": "Prima",
-            "la": "At Prime"
-          },
-          "sections": [
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Antiphon"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Holy Mary."
-              }
-            },
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Psalm"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Ps. 56: 1. Have mercy on me, O God, have mercy on me; for my soul trusteth in Thee.\nPs. 56: 2. And in the shadow of Thy wings will I hope, until iniquity pass away.\nPs. 56: 3. I will cry to my most holy Father, the Most High: to God, who hath done good to me.\nPs. 56: 4. He hath sent from heaven and delivered me; He hath made them a reproach that trod upon me. God hath sent His power and His truth.\nPs. 17: 18. He delivered me from my strongest enemies and from them that hated me; for they were too strong for me.\nPs. 56: 7. They prepared a snare for my feet; and they bowed down my soul; they dug a pit before my face; and they are fallen into it.\nPs. 56: 8. My heart is ready, O God, my heart is ready; I will sing, and rehearse a psalm.\nPs. 56: 9. Arise, O my glory, arise psaltery and harp; I will arise early.\nPs. 56: 10. I will give praise to Thee, O Lord, among the people; I will sing a psalm to Thee among the nations.\nPs. 56: 11. For Thy mercy is magnified even to the heavens; and Thy truth unto the clouds.\nPs. 56: 12. Be Thou exalted, O God, above the heavens; and Thy glory above all the earth."
-              }
-            }
-          ]
-        },
-        {
-          "id": "terce",
-          "label": {
-            "en-US": "Terce",
-            "pt-BR": "Terça",
-            "la": "At Terce"
-          },
-          "sections": [
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Antiphon"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Holy Mary."
-              }
-            },
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Psalm"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Ps. 55: 2. Have mercy on me, O God, for man hath trodden me under foot; all the day long he hath afflicted me, fighting against me.\nPs. 55: 3. My enemies have trodden on me all the day long; for they are many that make war against me.\nPs. 40: 8. All my enemies devised evil against me.\nPs. 70: 10. They have taken counsel together.\nPs. 40: 7. They went out and spoke to the same purpose.\nPs. 21: 8. All they that saw me have laughed me to scorn; they have spoken with the lips and wagged the head.\nPs. 21: 7. But I am a worm and no man, a reproach of men and outcast of the people.\nPs. 30: 12. I am become a reproach among all my enemies and very much to my neighbors; and a fear to my acquaintance.\nPs. 21: 20. Holy Father, remove not Thy help far from me; my God, look toward my defense.\nPs. 37: 23. Attend unto my help, O Lord God of my salvation. Glory be, etc."
-              }
-            }
-          ]
-        },
-        {
-          "id": "sext",
-          "label": {
-            "en-US": "Sext",
-            "pt-BR": "Sexta",
-            "la": "At Sext"
-          },
-          "sections": [
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Antiphon"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Holy Mary."
-              }
-            },
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Psalm"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Ps. 141: 2. I cried to the Lord, with my voice; with my voice I made my supplication to the Lord.\nPs. 141: 3. I pour out my prayer in His sight; and before Him I declare my trouble.\nPs. 141: 4. When my spirit failed me, then Thou knewest my paths. In this way wherein I walked, they have hidden a snare for me.\nPs. 141: 5. I looked on my right-hand, and beheld, and there was no one that would know me. Flight hath failed me; and there is no one that hath regard to my soul.\nPs. 68: 8. Because for Thy sake I have borne reproach; shame hath covered my face.\nPs. 68: 9. I am become a stranger to my brethren; and an alien to the sons of my mother.\nPs. 68: 10. Holy Father, the zeal of Thy house hath eaten me up; and the reproaches of them that reproached Thee are fallen upon me.\nPs. 34: 15. And they rejoiced against me and gathered together; scourges were gathered together upon me and I knew not.\nPs. 68: 5. They are multiplied above the hairs of my head who hate me without cause; My enemies are grown strong who have wrongfully persecuted me; then did pay I that which I took not away.\nPs. 34: 11. Unjust witnesses rising up, have asked me things I knew not.\nPs. 34: 12. They repaid me evil for good and Ps. 37: 21. detracted me; because I followed goodness. Thou art my Father, most holy; my King and my God.\nPs. 37: 23. Attend unto my help, O Lord God of my salvation."
-              }
-            }
-          ]
-        },
-        {
-          "id": "none",
-          "label": {
-            "en-US": "None",
-            "pt-BR": "Nona",
-            "la": "At None"
-          },
-          "sections": [
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Antiphon"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Holy Mary."
-              }
-            },
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Psalm"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Lam. 1: 12. O all ye that pass by, attend and see if there be any sorrow like to my sorrow.\nPs. 21: 17. For many dogs have encompassed me; the council of the malignant hath besieged me.\nPs. 21: 18. They looked and stared upon me.\nPs. 21: 19. They parted my garments among them and upon my vesture cast lots.\nPs. 21: 17. They have dug my hands and my feet.\nPs. 21: 18. They numbered all my bones.\nPs. 21: 14. They have opened their mouth against me: as a lion ravening and roaring.\nPs. 21: 15. I am poured out like water and all my bones are scattered. And my heart is become like melting wax in the midst of my bowels.\nPs. 21: 16. My strength is dried up like a potsherd; and my tongue hath cleaved to my jaws.\nPs. 68: 22. And they gave me gall for my food: and in my thirst they gave me vinegar to drink.\nPs. 21: 16. And Thou hast brought me into the dust of death.\nPs. 68: 27. And they have added to the grief of my wounds. I slept and rose again; and my most holy Father received me with glory.\nPs. 72: 24. Holy Father, Thou hast held my right hand; and by Thy will Thou hast conducted me and hast received me with glory.\nPs. 72: 25. For what have I in heaven; and besides Thee what do I desire upon earth?\nPs. 45: 11. Be still and see that I am God, saith the Lord; I will be exalted among the nations and I will be exalted in the earth. Blessed is the Lord God of Israel.\nPs. 33: 23. Who has redeemed the souls of His servants with His own most holy Blood; and none of them that trust in Him shall offend.\nPs. 95: 13. And we know that He cometh; for He will come to judge justice."
-              }
-            }
-          ]
-        },
-        {
-          "id": "vespers",
-          "label": {
-            "en-US": "Vespers",
-            "pt-BR": "Vésperas",
-            "la": "At Vespers"
-          },
-          "sections": [
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Antiphon"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Holy Mary."
-              }
-            },
-            {
-              "type": "subheading",
-              "text": {
-                "en-US": "Psalm"
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Ps. 46: 2. O clap your hands, all ye nations, shout unto God with the voice of joy.\nPs. 46: 3. For the Lord is high, terrible: He is a great king over all the earth. For the most holy Father of heaven, our King, before ages sent His beloved Son from on high.\nPs. 73: 12. And hath wrought salvation in the midst of the earth.\nPs. 95: 11. Let the heavens rejoice and let the earth be glad, let the sea be moved and the fulness thereof.\nPs. 95: 12. The fields and all that are in them shall be joyful.\nPs. 95: 1. Sing unto Him a new canticle; sing unto the Lord, all the earth.\nPs. 95: 4. For the Lord is great and exceedingly to be praised; He is to be feared above all gods.\nPs. 95: 7. Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.\nPs. 95: 8. Bring to the Lord glory unto His Name. Bring your own bodies and bear His holy cross; and follow His most holy precepts even unto the end.\nPs. 95: 9. Let all the earth be moved at His presence.\nPs. 95: 10. Say among the gentiles that the Lord hath reigned."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "en-US": "It is said up to this place daily from Good Friday until the feast of the Ascension. On the feast of the Ascension, however, these versicles are added over and above: And He ascended unto heaven; and sitteth on the right-hand of the most Holy Father in heaven."
-              }
-            },
-            {
-              "type": "prayer",
-              "inline": {
-                "en-US": "Ps. 56: 12. Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.\nPs. 95: 13. And we know that He cometh: for He will come to judge justice."
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "en-US": "Note that from the Ascension until the Advent of the Lord this Psalm is said daily in the same manner, namely: \"O clap your hands,\" with the foregoing versicles, \"Glory be to the Father\" being said where the Psalm ends, namely, \"for He will come to judge with justice.\""
-              }
-            },
-            {
-              "type": "rubric",
-              "text": {
-                "en-US": "Note that the foregoing Psalms are said from Good Friday until Easter Sunday: they are said in the same manner from the octave of Whitsunday until the Advent of the Lord and from the octave of the Epiphany until Maundy Thursday, except on Sundays, and the principal feasts, on which they are not said: on the other days however they are said daily."
+                "en-US": "And note that this Psalm is said from Christmas until the octave of the Epiphany at all the Hours.",
+                "pt-BR": "E note-se que este Salmo se diz desde o Natal até a oitava da Epifania, em todas as Horas."
               }
             }
           ]
         }
       ]
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Holy Saturday at Compline"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 69: 2. O God, etc. (Ps. 69), as in the Psalter."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "It is said daily at Compline until the octave of Pentecost."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Easter Sunday at Matins"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 97: 1. Sing ye to the Lord a new canticle: for He hath done wonderful things. His right hand hath sanctified His Son; and His arm is holy.\nPs. 97: 2. The Lord hath made known His salvation; He hath revealed His justice in the sight of the gentiles.\nPs. 41: 9. In the day time the Lord hath commanded His mercy: and a canticle to Him in the night.\nPs. 117: 24. This is the day which the Lord hath made: let us rejoice and be glad in it.\nPs. 117: 26. Blessed be He that cometh in the name of the Lord.\nPs. 117: 27. The Lord is God and He hath shone upon us.\nPs. 95: 11. Let the heavens rejoice and let the earth be glad: let the sea be moved and the fulness thereof.\nPs. 95: 12. The fields shall rejoice and all that are in them.\nPs. 95: 7. Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.\nPs. 95: 8. Bring to the Lord glory unto His Name."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "It is said up to this place daily from Easter Sunday to the feast of the Ascension at all the Hours except at Vespers and Compline and Prime. On the night of the Ascension these verses are added:—"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 67: 33. Sing ye to God, ye kingdoms of the earth: sing ye to the Lord: sing ye to God.\nPs. 67: 34. Who mounteth above the heaven of heavens to the east. Behold He will give to His voice the voice of power.\nPs. 67: 35. Give ye glory to God for Israel: His magnificence and His power is in the clouds.\nPs. 67: 36. God is wonderful in His saints: the God of Israel is He who will give power and strength to His people. Blessed be God."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "And note that this Psalm is said daily from the Ascension of the Lord until the octave of Whitsunday with the foregoing versicles at Matins and Tierce and Sext and Nones: \"Glory be to the Father,\" being said where \"Blessed be God\" is said, and not elsewhere. Also note that it is said in the same manner only at Matins on Sundays and the principal feasts, from the octave of Whitsunday until Maundy Thursday because on that day the Lord ate the Pasch with His disciples, or the other Psalm may be said at Matins or at Vespers when one wishes, to wit, \"I will extol Thee, O Lord,\" as it is in the Psalter, and this from Easter Sunday to the feast of the Ascension and not longer."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Prime"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Have mercy on me, etc.—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Tierce, Sext and Nones"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Sing ye to the Lord, etc.—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Vespers"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "O clap your hands, etc.—as above."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Here begin the other psalms which our most blessed Father Francis likewise arranged which are to be said in place of the foregoing psalms of the Passion of the Lord on Sunday and the principal festivities from the octave of Whitsunday until Advent and from the octave of the Epiphany until Maundy Thursday."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Compline"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "O God, etc. (Ps. 69),—as it is in the Psalter."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Matins"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Sing ye to the Lord, etc.,—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Prime"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Have mercy on me, etc.—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Tierce"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 65: 1. Shout with joy to God, all the earth.\nPs. 65: 2. Sing ye a Psalm to His name: give glory to His praise.\nPs. 65: 3. Say unto God, How terrible are Thy works, O Lord: in the multitude of Thy strength Thy enemies shall lie to Thee.\nPs. 65: 4. Let all the earth adore Thee and sing to Thee: let it sing a psalm to Thy Name.\nPs. 65: 16. Come and hear, all ye that fear God, and I will tell you what great things He hath done for my soul.\nPs. 65: 17. I cried to Him with my mouth: and I extolled Him with my tongue.\nPs. 17: 7. And He heard my voice from His holy temple: and my cry came before Him.\nPs. 65: 8. O bless our God, ye gentiles: and make the voice of His praise to be heard.\nPs. 71: 17. And in him shall all the tribes of the earth be blessed: all nations shall magnify Him.\nPs. 71: 18. Blessed be the Lord God of Israel, who only doth wonderful things.\nPs. 71: 19. And blessed be the Name of His majesty forever: and the whole earth shall be filled with His majesty. Amen. Amen."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Sext"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 19: 2. May the Lord hear thee in the day of tribulation: may the Name of the God of Jacob protect thee: may He.\nPs. 19: 3. Send thee help from the sanctuary and defend thee out of Sion.\nPs. 19: 4. Be mindful of all thy sacrifices, and may thy whole burnt-offering be made fat.\nPs. 19: 5. Give thee according to thy own heart, and confirm all thy counsels.\nPs. 19: 6. We will rejoice in thy salvation; and in the Name of our God we shall be exalted.\nPs. 19: 7. The Lord fulfil all thy petitions: now I know that the Lord hath sent Jesus Christ His Son.\nPs. 9: 9. And will judge the people with justice.\nPs. 9: 10. And the Lord is become a refuge for the poor: a helper in due time of tribulation.\nPs. 9: 11. And let them trust in Thee who know Thy Name.\nPs. 143: 1. Blessed be the Lord my God.\nPs. 58: 17. For Thou art become my support and refuge in the day of my trouble.\nPs. 58: 18. Unto Thee, O my helper, will I sing: for God is my defence, my God, my mercy."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Nones"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 70: 1. In Thee, O Lord, have I hoped, let me never be put to confusion.\nPs. 70: 2. Deliver me in Thy justice and rescue me: incline Thine ear unto and save me.\nPs. 70: 3. Be Thou unto me, O God, a protector and a place of strength: that Thou mayest make me safe.\nPs. 70: 5. For Thou art my patience, O Lord; my hope, O Lord, from my youth.\nPs. 70: 6. By Thee have I been confirmed from the womb, from my mother's womb Thou art my protector: of Thee I shall continually sing.\nPs. 70: 8. Let my mouth be filled with praise, that I may sing Thy glory; Thy greatness all the day long.\nPs. 68: 17. Hear me, O Lord, for Thy mercy is kind; look upon me according to the multitude of Thy tender mercies.\nPs. 68: 18. And turn not away Thy face from Thy servant; for I am in trouble, hear me speedily.\nPs. 143: 1. Blessed be the Lord my God.\nPs. 58: 17. For Thou art become my support and refuge in the day of my trouble.\nPs. 58: 18. Unto Thee, O my helper, will I sing; for God is my defence, my God, my mercy."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Vespers"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "O clap your hands. . . as above."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Here begin other Psalms which our most blessed Father Francis likewise arranged; which are to be said in place of the foregoing Psalms of the Passion of the Lord from the Advent of the Lord until Christmas eve and not longer."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Compline"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "How long, O Lord (Ps. 12), as it is found in the Psalter."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Matins"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 85: 12. I will praise Thee, O Lord, most Holy Father, King of heaven and earth; because.\nPs. 85: 17. Thou hast comforted me.\nPs. 24: 5. Thou art God my Saviour.\nPs. 11: 6. I will deal confidently and will not fear.\nPs. 117: 14. The Lord is my strength and my praise; and is become my salvation.\nExod. 15: 6. Thy right hand, O Lord, is magnified in strength; Thy right hand, O Lord, hath slain the enemy.\nExod. 15: 7. And in the multitude of Thy glory Thou hast put down Thy adversaries.\nPs. 68: 33. Let the poor see and rejoice: seek ye God and your soul shall live.\nPs. 68: 35. Let the heavens and the earth praise Him: the sea and everything that creepeth therein.\nPs. 68: 36. For God will save Sion and the cities of Juda shall be built up. And they shall dwell there: and acquire it by inheritance.\nPs. 68: 37. And the seed of His servants shall possess it: and they that love His Name shall dwell therein."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Prime"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Have mercy on me, etc.—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Tierce"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Shout with joy, etc.—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Sext"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "May the Lord hear thee in the day, etc.—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Nones"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "In Thee, O Lord, have I hoped—as above."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "At Vespers"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "O clap your hands, etc.—as above."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Also note that the whole Psalm is not said but up to the verse, \"Let all the earth be moved\"; understand however that the whole verse \"Bring your own bodies\" must be said. At the end of this verse \"Glory be to the Father\" is said. And thus it is said daily at Vespers from Advent until Christmas eve."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Christmas Day at Vespers"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Antiphon"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Holy Mary."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Ps. 80: 2. Rejoice to God our helper.\nPs. 46: 2. Shout unto God, living and true, with the voice of triumph.\nPs. 46: 3. For the Lord is high, terrible: a great king over all the earth. For the most holy Father of heaven, our king, before ages sent His Beloved Son from on high and He was born of the Blessed Virgin, holy Mary.\nPs. 88: 27. He shall cry out to me: Thou art my Father.\nPs. 88: 28. And I will make Him My Firstborn, high above the kings of the earth.\nPs. 41: 9. In the day time the Lord hath commanded His mercy: and a canticle to Him in the night.\nPs. 117: 24. This is the day which the Lord hath made: let us rejoice and be glad in it. For the beloved and most holy Child has been given to us and born for us by the wayside.\nLuke 2: 7. And laid in a manger because He had no room in the inn.\nLuke 2: 14. Glory to God in the highest; and on earth peace to men of good will.\nPs. 95: 11. Let the heavens rejoice and the earth be glad, and let the sea be moved and the fulness thereof.\nPs. 95: 12. The fields shall rejoice and all that are in them.\nPs. 95: 1. Sing to Him a new canticle; sing to the Lord, all the earth.\nPs. 95: 4. For the Lord is great and exceedingly to be praised: He is to be feared above all gods.\nPs. 95: 7. Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.\nPs. 95: 8. Bring to the Lord glory unto His Name. Bring your own bodies and bear His holy cross and follow His most holy precepts even unto the end."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "And note that this Psalm is said from Christmas until the octave of the Epiphany at all the Hours."
-      }
     }
   ]
 }
