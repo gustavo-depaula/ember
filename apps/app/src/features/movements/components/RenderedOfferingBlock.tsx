@@ -1,4 +1,4 @@
-import { Plus, Star, X } from 'lucide-react-native'
+import { Star, X } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Keyboard } from 'react-native'
@@ -6,6 +6,14 @@ import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanim
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayerTextInput, Typography } from '@/components'
+import {
+  FlowAction,
+  FlowActionSeparator,
+  FlowActions,
+  FlowInteraction,
+  FlowLine,
+  SectionHeading,
+} from '@/components/prayer'
 import type { Cadence, Movement } from '@/db/events'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
@@ -52,7 +60,6 @@ export function RenderedOfferingBlock({
   label?: string
 }) {
   const { t } = useTranslation()
-  const theme = useTheme()
 
   const wantsIntentions = mode !== 'thanksgiving'
   const wantsThanksgivings = mode !== 'intercessory'
@@ -109,14 +116,14 @@ export function RenderedOfferingBlock({
 
   if (show === 'count') {
     return (
-      <YStack gap="$xs">
-        {label ? <OfferingLabel>{label}</OfferingLabel> : undefined}
-        <Typography fontStyle="italic">
+      <FlowInteraction>
+        {label ? <SectionHeading>{label}</SectionHeading> : undefined}
+        <Typography variant="whisper" fontStyle="italic">
           {offered.length === 0
             ? t('movements.offering.summaryEmpty')
             : t('movements.offering.summary', { count: offered.length })}
         </Typography>
-      </YStack>
+      </FlowInteraction>
     )
   }
 
@@ -179,143 +186,113 @@ export function RenderedOfferingBlock({
   const grouped = groupBySubject(offered)
   const isEmpty = offered.length === 0
   const canCarryMore = active.length > offered.length
-  const placeholderKey =
-    captureKind === 'intention'
-      ? 'movements.capture.intentionPlaceholder'
-      : 'movements.capture.thanksgivingPlaceholder'
-  const submitKey =
-    captureKind === 'intention' ? 'movements.capture.raise' : 'movements.capture.offer'
 
   return (
-    <YStack gap="$sm">
-      {label ? <OfferingLabel>{label}</OfferingLabel> : undefined}
-      <YStack
-        gap="$sm"
-        padding="$md"
-        borderRadius="$md"
-        borderWidth={1}
-        borderColor="$borderColor"
-        backgroundColor="$backgroundSurface"
-      >
-        {isEmpty && !adding ? (
-          <Typography variant="caption">
-            {t(active.length > 0 ? 'movements.offering.emptyStanding' : 'movements.offering.empty')}
-          </Typography>
-        ) : undefined}
+    <FlowInteraction>
+      {label ? <SectionHeading>{label}</SectionHeading> : undefined}
 
-        {grouped.map(([subject, group]) => (
-          <YStack key={subject ?? '__none'} gap="$xs">
-            {subject ? <Typography variant="caption">{subject}</Typography> : undefined}
-            {group.map((m) => (
-              <Animated.View
-                key={m.id}
-                entering={FadeIn.duration(180)}
-                exiting={FadeOut.duration(120)}
-                layout={LinearTransition.duration(200)}
-              >
-                <OfferedRow
-                  movement={m}
-                  isStanding={standingIds.has(m.id)}
-                  canToggleStanding={practiceId !== undefined}
-                  onToggleStanding={() => toggleStanding(m)}
-                  onDrop={standingIds.has(m.id) ? undefined : () => dropFromToday(m)}
-                />
-              </Animated.View>
-            ))}
-          </YStack>
-        ))}
+      {isEmpty && !adding ? (
+        <Typography variant="whisper" fontStyle="italic">
+          {t(active.length > 0 ? 'movements.offering.emptyStanding' : 'movements.offering.empty')}
+        </Typography>
+      ) : undefined}
 
-        {adding ? (
-          <Animated.View
-            entering={FadeIn.duration(180)}
-            exiting={FadeOut.duration(120)}
-            layout={LinearTransition.duration(200)}
-          >
-            <YStack gap="$sm">
-              <PrayerTextInput
-                size="sm"
-                value={draft}
-                onChangeText={setDraft}
-                placeholder={t(placeholderKey)}
-                style={{ maxHeight: 140 }}
-                autoFocus
+      {grouped.map(([subject, group]) => (
+        <YStack key={subject ?? '__none'}>
+          {subject ? <Typography variant="caption">{subject}</Typography> : undefined}
+          {group.map((m) => (
+            <Animated.View
+              key={m.id}
+              entering={FadeIn.duration(180)}
+              exiting={FadeOut.duration(120)}
+              layout={LinearTransition.duration(200)}
+            >
+              <FlowLine text={m.text}>
+                {practiceId ? (
+                  <StandingStar
+                    movement={m}
+                    isStanding={standingIds.has(m.id)}
+                    onPress={() => toggleStanding(m)}
+                  />
+                ) : undefined}
+                {standingIds.has(m.id) ? undefined : (
+                  <DropFromToday movement={m} onPress={() => dropFromToday(m)} />
+                )}
+              </FlowLine>
+            </Animated.View>
+          ))}
+        </YStack>
+      ))}
+
+      {adding ? (
+        <Animated.View
+          entering={FadeIn.duration(180)}
+          exiting={FadeOut.duration(120)}
+          layout={LinearTransition.duration(200)}
+        >
+          <YStack gap="$sm" paddingTop="$xs">
+            <PrayerTextInput
+              size="sm"
+              value={draft}
+              onChangeText={setDraft}
+              placeholder={t(
+                captureKind === 'intention'
+                  ? 'movements.capture.intentionPlaceholder'
+                  : 'movements.capture.thanksgivingPlaceholder',
+              )}
+              style={{ maxHeight: 140 }}
+              autoFocus
+            />
+            {captureKind === 'intention' ? (
+              <CadenceToggle value={cadence} onChange={setCadence} />
+            ) : undefined}
+            {captureKind === 'intention' && cadence === 'bounded' ? (
+              <BoundedUntilPicker value={boundedUntil} onChange={setBoundedUntil} />
+            ) : undefined}
+            <FlowActions>
+              <FlowAction
+                label={t(
+                  captureKind === 'intention'
+                    ? 'movements.capture.raise'
+                    : 'movements.capture.offer',
+                )}
+                onPress={captureNew}
+                disabled={!draft.trim() || submitting}
               />
-              {captureKind === 'intention' ? (
-                <CadenceToggle value={cadence} onChange={setCadence} />
-              ) : undefined}
-              {captureKind === 'intention' && cadence === 'bounded' ? (
-                <BoundedUntilPicker value={boundedUntil} onChange={setBoundedUntil} />
-              ) : undefined}
-              <XStack gap="$sm">
-                <QuietButton
-                  label={t('common.cancel')}
-                  onPress={() => {
-                    setAdding(false)
-                    setDraft('')
-                  }}
-                />
-                <AnimatedPressable
-                  onPress={captureNew}
-                  disabled={!draft.trim() || submitting}
-                  style={{ flex: 1, opacity: draft.trim() ? 1 : 0.5 }}
-                  accessibilityRole="button"
-                  accessibilityLabel={t(submitKey)}
-                >
-                  <XStack
-                    alignItems="center"
-                    justifyContent="center"
-                    gap="$xs"
-                    paddingVertical="$sm"
-                    borderRadius="$md"
-                    backgroundColor="$accent"
-                  >
-                    <Plus size={14} color="white" />
-                    <Typography variant="label" fontSize="$2" color="white" letterSpacing={1}>
-                      {t(submitKey)}
-                    </Typography>
-                  </XStack>
-                </AnimatedPressable>
-              </XStack>
-            </YStack>
-          </Animated.View>
-        ) : (
-          <Animated.View entering={FadeIn.duration(180)} exiting={FadeOut.duration(120)}>
-            <XStack alignItems="center" gap="$lg" flexWrap="wrap">
-              <AnimatedPressable
+              <FlowActionSeparator />
+              <FlowAction
+                label={t('common.cancel')}
+                onPress={() => {
+                  setAdding(false)
+                  setDraft('')
+                }}
+              />
+            </FlowActions>
+          </YStack>
+        </Animated.View>
+      ) : (
+        <FlowActions>
+          <FlowAction
+            label={t(`movements.offering.add.${captureKind}`)}
+            onPress={() => {
+              lightTap()
+              setAdding(true)
+            }}
+          />
+          {canCarryMore ? (
+            <>
+              <FlowActionSeparator />
+              <FlowAction
+                label={t('movements.offering.carryMore')}
                 onPress={() => {
                   lightTap()
-                  setAdding(true)
+                  setPickerOpen(true)
                 }}
-                accessibilityRole="button"
-                accessibilityLabel={t(`movements.offering.add.${captureKind}`)}
-              >
-                <XStack alignItems="center" gap="$xs" paddingVertical="$xs">
-                  <Plus size={14} color={theme.accent?.val} />
-                  <Typography variant="label" fontSize="$2" color="$accent">
-                    {t(`movements.offering.add.${captureKind}`)}
-                  </Typography>
-                </XStack>
-              </AnimatedPressable>
-              {canCarryMore ? (
-                <AnimatedPressable
-                  onPress={() => {
-                    lightTap()
-                    setPickerOpen(true)
-                  }}
-                  accessibilityRole="button"
-                  accessibilityLabel={t('movements.offering.carryMore')}
-                >
-                  <XStack alignItems="center" paddingVertical="$xs">
-                    <Typography variant="label" fontSize="$2" color="$accent">
-                      {t('movements.offering.carryMore')}
-                    </Typography>
-                  </XStack>
-                </AnimatedPressable>
-              ) : undefined}
-            </XStack>
-          </Animated.View>
-        )}
-      </YStack>
+              />
+            </>
+          ) : undefined}
+        </FlowActions>
+      )}
 
       <OfferingPickerSheet
         visible={pickerOpen}
@@ -323,90 +300,51 @@ export function RenderedOfferingBlock({
         candidates={active.filter((m) => !offered.some((o) => o.id === m.id))}
         onCarry={(id) => setCarriedIds((prev) => new Set(prev).add(id))}
       />
-    </YStack>
+    </FlowInteraction>
   )
 }
 
-function OfferingLabel({ children }: { children: string }) {
-  return (
-    <Typography variant="label" fontSize="$2" color="$accent" letterSpacing={1}>
-      {children.toUpperCase()}
-    </Typography>
-  )
-}
-
-function OfferedRow({
+function StandingStar({
   movement,
   isStanding,
-  canToggleStanding,
-  onToggleStanding,
-  onDrop,
+  onPress,
 }: {
   movement: Movement
   isStanding: boolean
-  canToggleStanding: boolean
-  onToggleStanding: () => void
-  onDrop?: () => void
+  onPress: () => void
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-
-  return (
-    <XStack alignItems="baseline" gap="$sm" paddingVertical="$xs">
-      <Typography color="$accent">⟢</Typography>
-      <Typography flex={1} flexWrap="wrap">
-        {movement.text}
-      </Typography>
-      {canToggleStanding ? (
-        <AnimatedPressable
-          onPress={onToggleStanding}
-          hitSlop={8}
-          accessibilityRole="button"
-          accessibilityState={{ selected: isStanding }}
-          accessibilityLabel={t(isStanding ? 'a11y.unmakeStanding' : 'a11y.makeStanding', {
-            text: movement.text,
-          })}
-        >
-          <Star
-            size={14}
-            color={isStanding ? theme.accent?.val : theme.colorSecondary?.val}
-            fill={isStanding ? theme.accent?.val : 'none'}
-          />
-        </AnimatedPressable>
-      ) : undefined}
-      {onDrop ? (
-        <AnimatedPressable
-          onPress={onDrop}
-          hitSlop={8}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.dropFromToday', { text: movement.text })}
-        >
-          <X size={14} color={theme.colorSecondary?.val} />
-        </AnimatedPressable>
-      ) : undefined}
-    </XStack>
-  )
-}
-
-function QuietButton({ label, onPress }: { label: string; onPress: () => void }) {
   return (
     <AnimatedPressable
       onPress={onPress}
-      style={{ flex: 1 }}
+      hitSlop={10}
       accessibilityRole="button"
-      accessibilityLabel={label}
+      accessibilityState={{ selected: isStanding }}
+      accessibilityLabel={t(isStanding ? 'a11y.unmakeStanding' : 'a11y.makeStanding', {
+        text: movement.text,
+      })}
     >
-      <XStack
-        justifyContent="center"
-        paddingVertical="$sm"
-        borderRadius="$md"
-        borderWidth={1}
-        borderColor="$borderColor"
-      >
-        <Typography variant="label" fontSize="$2" letterSpacing={1}>
-          {label}
-        </Typography>
-      </XStack>
+      <Star
+        size={13}
+        color={isStanding ? theme.accent?.val : theme.colorSecondary?.val}
+        fill={isStanding ? theme.accent?.val : 'none'}
+      />
+    </AnimatedPressable>
+  )
+}
+
+function DropFromToday({ movement, onPress }: { movement: Movement; onPress: () => void }) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  return (
+    <AnimatedPressable
+      onPress={onPress}
+      hitSlop={10}
+      accessibilityRole="button"
+      accessibilityLabel={t('a11y.dropFromToday', { text: movement.text })}
+    >
+      <X size={13} color={theme.colorSecondary?.val} />
     </AnimatedPressable>
   )
 }

@@ -19,6 +19,11 @@ export const liquidGlassAvailable = Platform.OS === 'ios' && isLiquidGlassAvaila
 function useReduceTransparency() {
   const [reduce, setReduce] = useState(false)
   useEffect(() => {
+    // react-native-web implements neither the probe nor this event, and an
+    // unguarded call throws out of the effect and blanks the screen. Glass is
+    // an iOS material anyway, so "no reduction" is the right web answer.
+    if (typeof AccessibilityInfo.isReduceTransparencyEnabled !== 'function') return
+
     let mounted = true
     AccessibilityInfo.isReduceTransparencyEnabled().then((v) => {
       if (mounted) setReduce(v)

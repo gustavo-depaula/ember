@@ -1,11 +1,17 @@
-import { Check, Pencil, Plus } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Keyboard } from 'react-native'
 import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 
-import { AnimatedPressable, PrayerTextInput } from '@/components'
+import { PrayerTextInput, Typography } from '@/components'
+import {
+  FlowAction,
+  FlowActionSeparator,
+  FlowActions,
+  FlowInteraction,
+  FlowLine,
+} from '@/components/prayer'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
 import { useReviseResolution, useSetResolution } from '../hooks'
@@ -27,7 +33,6 @@ export function RenderedCaptureResolutionBlock({
   prefill?: { resolution_id: string; text: string }
 }) {
   const { t } = useTranslation()
-  const theme = useTheme()
   const [text, setText] = useState(prefill?.text ?? '')
   const [savedText, setSavedText] = useState(prefill?.text ?? '')
   const [resolutionId, setResolutionId] = useState<string | undefined>(prefill?.resolution_id)
@@ -73,17 +78,8 @@ export function RenderedCaptureResolutionBlock({
   }
 
   return (
-    <YStack
-      gap="$md"
-      padding="$md"
-      borderRadius="$md"
-      borderWidth={1}
-      borderColor="$borderColor"
-      backgroundColor="$backgroundSurface"
-    >
-      <Text fontFamily="$heading" fontSize="$3" color="$color">
-        {prompt}
-      </Text>
+    <FlowInteraction>
+      <Typography variant="rubric">{prompt}</Typography>
 
       {!editing && resolutionId ? (
         <Animated.View
@@ -91,29 +87,14 @@ export function RenderedCaptureResolutionBlock({
           exiting={FadeOut.duration(140)}
           layout={LinearTransition.duration(200)}
         >
-          <YStack gap="$sm">
-            <XStack alignItems="center" gap="$xs">
-              <Check size={14} color={theme.accent?.val} />
-              <Text fontFamily="$body" fontSize="$2" color="$accent" fontStyle="italic">
-                {t('resolutions.capture.recorded')}
-              </Text>
-            </XStack>
-            <Text selectable fontFamily="$body" fontSize="$3" color="$color">
-              {savedText}
-            </Text>
-            <AnimatedPressable
-              onPress={startEdit}
-              accessibilityRole="button"
-              accessibilityLabel={t('resolutions.capture.change')}
-              hitSlop={8}
-            >
-              <XStack alignItems="center" gap="$xs" paddingVertical="$xs">
-                <Pencil size={12} color={theme.accent?.val} />
-                <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={0.5}>
-                  {t('resolutions.capture.change').toUpperCase()}
-                </Text>
-              </XStack>
-            </AnimatedPressable>
+          <YStack>
+            <FlowLine text={savedText} />
+            <Typography variant="whisper" fontStyle="italic" color="$accent">
+              {t('resolutions.capture.recorded')}
+            </Typography>
+            <FlowActions>
+              <FlowAction label={t('resolutions.capture.change')} onPress={startEdit} />
+            </FlowActions>
           </YStack>
         </Animated.View>
       ) : (
@@ -122,56 +103,28 @@ export function RenderedCaptureResolutionBlock({
           exiting={FadeOut.duration(120)}
           layout={LinearTransition.duration(200)}
         >
-          <PrayerTextInput
-            value={text}
-            onChangeText={setText}
-            placeholder={t('resolutions.capture.placeholder')}
-          />
-          <XStack gap="$sm">
-            {resolutionId ? (
-              <AnimatedPressable
-                onPress={cancelEdit}
-                style={{ flex: 1 }}
-                accessibilityRole="button"
-                accessibilityLabel={t('common.cancel')}
-              >
-                <XStack
-                  justifyContent="center"
-                  paddingVertical="$sm"
-                  borderRadius="$md"
-                  borderWidth={1}
-                  borderColor="$borderColor"
-                >
-                  <Text fontFamily="$heading" fontSize="$2" color="$color" letterSpacing={1}>
-                    {t('common.cancel')}
-                  </Text>
-                </XStack>
-              </AnimatedPressable>
-            ) : undefined}
-            <AnimatedPressable
-              onPress={submit}
-              disabled={!text.trim() || submitting}
-              style={{ flex: 1, opacity: text.trim() ? 1 : 0.5 }}
-              accessibilityRole="button"
-              accessibilityLabel={resolutionId ? t('common.save') : t('resolutions.capture.save')}
-            >
-              <XStack
-                alignItems="center"
-                justifyContent="center"
-                gap="$xs"
-                paddingVertical="$sm"
-                borderRadius="$md"
-                backgroundColor="$accent"
-              >
-                <Plus size={14} color="white" />
-                <Text fontFamily="$heading" fontSize="$2" color="white" letterSpacing={1}>
-                  {resolutionId ? t('common.save') : t('resolutions.capture.save')}
-                </Text>
-              </XStack>
-            </AnimatedPressable>
-          </XStack>
+          <YStack gap="$sm" paddingTop="$xs">
+            <PrayerTextInput
+              value={text}
+              onChangeText={setText}
+              placeholder={t('resolutions.capture.placeholder')}
+            />
+            <FlowActions>
+              <FlowAction
+                label={resolutionId ? t('common.save') : t('resolutions.capture.save')}
+                onPress={submit}
+                disabled={!text.trim() || submitting}
+              />
+              {resolutionId ? (
+                <>
+                  <FlowActionSeparator />
+                  <FlowAction label={t('common.cancel')} onPress={cancelEdit} />
+                </>
+              ) : undefined}
+            </FlowActions>
+          </YStack>
         </Animated.View>
       )}
-    </YStack>
+    </FlowInteraction>
   )
 }

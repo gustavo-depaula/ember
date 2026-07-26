@@ -31,7 +31,14 @@ import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import * as SystemUI from 'expo-system-ui'
 import { useEffect, useState } from 'react'
-import { Appearance, AppState, InteractionManager, LogBox, useColorScheme } from 'react-native'
+import {
+  Appearance,
+  AppState,
+  InteractionManager,
+  LogBox,
+  Platform,
+  useColorScheme,
+} from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { KeyboardProvider } from 'react-native-keyboard-controller'
 import { TamaguiProvider } from 'tamagui'
@@ -342,7 +349,11 @@ export default function RootLayout() {
   // the override so 'system' keeps following the device (and useColorScheme stays true).
   useEffect(() => {
     SystemUI.setBackgroundColorAsync(rootBg)
-    Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
+    // Native-only: react-native-web has no `setColorScheme`, and calling it
+    // throws out of the effect and takes the whole app down on web.
+    if (Platform.OS !== 'web') {
+      Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
+    }
   }, [rootBg, themePreference])
 
   if (!coreReady) return undefined
