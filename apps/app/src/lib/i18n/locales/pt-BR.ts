@@ -361,6 +361,12 @@ export default {
       emptyStanding:
         'Nada permanente nesta oração ainda. Marque uma intenção com a estrela para levá-la sempre, ou traga uma só para hoje.',
       carryMore: 'Levar mais hoje',
+      line: {
+        invite: 'Ofereça esta oração por alguém',
+        one: 'Oferecida por {{text}}',
+        more_one: 'Oferecida por {{text}} e mais {{count}}',
+        more_other: 'Oferecida por {{text}} e mais {{count}}',
+      },
       summary_one: 'Oferecendo {{count}} intenção',
       summary_other: 'Oferecendo {{count}} intenções',
       summaryEmpty: 'Oferecendo esta oração.',

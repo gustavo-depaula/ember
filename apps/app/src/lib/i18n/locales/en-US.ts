@@ -357,6 +357,12 @@ export default {
       emptyStanding:
         'Nothing standing in this prayer yet. Star an intention to carry it here every time, or bring one just for today.',
       carryMore: 'Carry more today',
+      line: {
+        invite: 'Offer this prayer for someone',
+        one: 'Offered for {{text}}',
+        more_one: 'Offered for {{text}}, and {{count}} other',
+        more_other: 'Offered for {{text}}, and {{count}} others',
+      },
       summary_one: 'Offering {{count}} intention',
       summary_other: 'Offering {{count}} intentions',
       summaryEmpty: 'Offering this prayer.',

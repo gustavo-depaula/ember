@@ -20,6 +20,7 @@ import {
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
+import { hasOfferingBlock, OfferingLine } from '@/features/movements'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
@@ -126,6 +127,8 @@ function PracticeReady({
   // translation switch restarts the chunking.
   const visibleCount = useProgressiveCount(sections.length, sections)
 
+  const authorsOwnOffering = useMemo(() => hasOfferingBlock(sections), [sections])
+
   // Runtime for lazily preprocessing a select branch the user switches to.
   const queryClient = useQueryClient()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
@@ -160,6 +163,11 @@ function PracticeReady({
                   </Typography>
                 </YStack>
               </ManuscriptFrame>
+
+              {/* Whom this prayer is for, announced before it begins. Skipped
+                  where the flow authors its own offering block — that block is
+                  the offering, and two of them would be one too many. */}
+              {authorsOwnOffering ? undefined : <OfferingLine practiceId={practiceId} />}
 
               <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$xxl">
                 {sections.slice(0, visibleCount).map((primitive, index) => (

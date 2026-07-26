@@ -239,6 +239,33 @@ Current coverage: the twelve morning offerings (`Today's intentions`) and the Ro
 (`Offered for`). The Mass's Prayers of the Faithful and the Te Deum remain uncovered; both are
 natural homes and neither needs code, only a block in the flow JSON.
 
+### 13. The offering in every other prayer (added 2026-07-26)
+
+**Context.** Any prayer can be offered for someone, but an authored `offering` block in ~350 flows
+would rebuild the wall of text Decision 11 removed, and would make every new practice remember to
+include one.
+
+**Decision.** A chrome-level `OfferingLine`, rendered by the practice screen rather than the flow —
+one muted `variant="caption"` line under the header, tapping through to the offering sheet. Content
+authors do nothing; there is no manifest flag and no per-practice opt-in.
+
+Three rules bound it, and all three are covered by
+`PracticeFlow.offeringLine.test.tsx`:
+
+| Rule | Why |
+|---|---|
+| Renders nothing when the user has no active intentions | Cannot nag someone who never asked for the feature; a new user never sees it |
+| Never gold | Carrying an intention is not a call to action, and the Ladder rations gold to preciousness |
+| Suppressed when the resolved flow contains an `offering` block | Authored intent wins; nobody sees two offerings |
+
+**Implications.**
+- `hasOfferingBlock` walks resolved primitives *and* `rawSections` — a `select`'s unselected
+  branches are never preprocessed and still carry `rendered-offering`. The Rosary is the case
+  that proves it.
+- Per-sitting picks are session state, same as the block's. The durable form remains the pin.
+- If the line ever needs to be switched off for a class of practice, the condition lives in one
+  place (`PracticeFlowView`), not in 350 manifests.
+
 ## Data model
 
 ### Event types (additions to existing union)
