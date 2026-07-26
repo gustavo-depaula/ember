@@ -19,15 +19,6 @@
   "tags": ["opus-dei", "laity", "structured"],
   "practices": [
     {
-      "ref": "serviam",
-      "tier": "extra",
-      "schedule": { "type": "daily" },
-      "note": {
-        "en-US": "One word — I will serve — said aloud at the alarm and repeated silently through the day whenever the will drags. The heroic minute already carries it at rising; kept here it becomes an aspiration for the whole day.",
-        "pt-BR": "Uma palavra — servirei — dita em voz alta ao despertador e repetida em silêncio ao longo do dia sempre que a vontade se arrasta. O minuto heroico já a leva ao levantar; guardada aqui, torna-se jaculatória para o dia inteiro."
-      }
-    },
-    {
       "ref": "morning-offering-opus-dei",
       "tier": "essential",
       "schedule": { "type": "daily" },
