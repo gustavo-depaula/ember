@@ -37,6 +37,7 @@ export default function OnboardingProfilerScreen() {
 
   return (
     <OnboardingScaffold
+      marker={t('onboarding.profiler.marker')}
       title={t('onboarding.profiler.title')}
       subtitle={t('onboarding.profiler.subtitle')}
       progress={stepProgress('profiler')}

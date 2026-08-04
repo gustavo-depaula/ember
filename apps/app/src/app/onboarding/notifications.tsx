@@ -46,6 +46,7 @@ export default function OnboardingNotificationsScreen() {
 
   return (
     <OnboardingScaffold
+      marker={t('onboarding.notifications.marker')}
       title={t('onboarding.notifications.title')}
       subtitle={t('onboarding.notifications.subtitle')}
       progress={stepProgress('notifications')}

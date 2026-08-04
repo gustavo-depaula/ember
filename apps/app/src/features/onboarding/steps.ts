@@ -1,3 +1,4 @@
+import type { Href } from 'expo-router'
 import { Platform } from 'react-native'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useOnboardingState } from './useOnboardingState'
@@ -22,9 +23,9 @@ const activeSteps = onboardingSteps.filter((s) => !(Platform.OS === 'web' && s =
 const contentSteps: OnboardingStep[] = activeSteps.filter((s) => s !== 'index' && s !== 'done')
 
 /** The route to advance to after `current` (skips notifications on web). */
-export function nextRoute(current: OnboardingStep): string {
+export function nextRoute(current: OnboardingStep): Href {
   const next = activeSteps[activeSteps.indexOf(current) + 1] ?? 'done'
-  return next === 'index' ? '/onboarding' : `/onboarding/${next}`
+  return (next === 'index' ? '/onboarding' : `/onboarding/${next}`) as Href
 }
 
 /**

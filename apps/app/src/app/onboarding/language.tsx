@@ -54,6 +54,7 @@ export default function OnboardingLanguageScreen() {
 
   return (
     <OnboardingScaffold
+      marker={t('onboarding.language.marker')}
       title={t('onboarding.language.title')}
       subtitle={t('onboarding.language.subtitle')}
       progress={stepProgress('language')}

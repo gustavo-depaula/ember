@@ -68,8 +68,18 @@ export type FormationOption =
   // The Catechism reader — deep-link, no plan.
   | { id: FormationOptionId; kind: 'ccc' }
 
+// Enrolment addresses a practice by whatever id its slots actually carry, and
+// the two paths differ. A *seeded* practice was created by `seedPractices()`
+// from its corpus manifest, whose `id` the corpus build kind-prefixes
+// (`scripts/build-corpus.py` → `practice/<slug>`), so enabling its slot must use
+// the prefixed id. A practice we create here doesn't exist yet, so it takes the
+// bare id — matching `AdoptSheet` and the `/plan/[practiceId]` route.
 export const formationOptions: FormationOption[] = [
-  { id: 'catechetical-formation', kind: 'program-enroll', practiceId: 'catechetical-formation' },
+  {
+    id: 'catechetical-formation',
+    kind: 'program-enroll',
+    practiceId: 'practice/catechetical-formation',
+  },
   { id: 'compendium', kind: 'program-create', practiceId: 'compendium' },
   { id: 'ccc', kind: 'ccc' },
   { id: 'pius-x-catechism', kind: 'book', bookId: 'book/pius-x-catechism' },

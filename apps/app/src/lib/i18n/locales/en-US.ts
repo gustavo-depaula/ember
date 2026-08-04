@@ -1432,6 +1432,7 @@ export default {
       ],
     },
     language: {
+      marker: 'First',
       title: 'Your languages',
       subtitle: 'You can change any of this later in Settings.',
       interface: 'App language',
@@ -1439,6 +1440,7 @@ export default {
       knownHint: 'Pick every language you can read — prayers can show side by side.',
     },
     profiler: {
+      marker: 'Second',
       title: 'Where are you?',
       subtitle: 'A few gentle questions so we can suggest a good starting point. Nothing is fixed.',
       prayer: {
@@ -1461,13 +1463,16 @@ export default {
       },
     },
     plan: {
+      marker: 'Third',
       title: 'A starting plan',
       subtitle:
         'Inherit a living tradition as a set of practices. You can add, edit, or remove anything later.',
       recommended: 'Suggested for you',
-      preview: 'Preview & add this plan',
+      otherTraditions: 'Other traditions',
+      notNow: 'Not now — I\u2019ll build my own',
     },
     formation: {
+      marker: 'Fourth',
       title: 'A reading to grow by',
       subtitle:
         'A formation reading to learn the faith. We suggest one — choose whichever fits you.',
@@ -1505,6 +1510,7 @@ export default {
       },
     },
     notifications: {
+      marker: 'Last',
       title: 'Gentle reminders',
       subtitle: 'Let Ember nudge you at the times in your plan. No streaks to chase, no guilt.',
       enable: 'Enable reminders',

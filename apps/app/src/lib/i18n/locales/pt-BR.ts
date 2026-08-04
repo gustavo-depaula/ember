@@ -1441,6 +1441,7 @@ export default {
       ],
     },
     language: {
+      marker: 'Primeiro',
       title: 'Seus idiomas',
       subtitle: 'Você pode mudar tudo isso depois nas Configurações.',
       interface: 'Idioma do app',
@@ -1448,6 +1449,7 @@ export default {
       knownHint: 'Escolha todos os idiomas que você lê — as orações podem aparecer lado a lado.',
     },
     profiler: {
+      marker: 'Segundo',
       title: 'Onde você está?',
       subtitle:
         'Algumas perguntas simples para sugerirmos um bom ponto de partida. Nada é definitivo.',
@@ -1471,13 +1473,16 @@ export default {
       },
     },
     plan: {
+      marker: 'Terceiro',
       title: 'Um plano inicial',
       subtitle:
         'Herde uma tradição viva como um conjunto de práticas. Você pode adicionar, editar ou remover qualquer coisa depois.',
       recommended: 'Sugerido para você',
-      preview: 'Visualizar e adicionar este plano',
+      otherTraditions: 'Outras tradições',
+      notNow: 'Agora não — vou montar o meu',
     },
     formation: {
+      marker: 'Quarto',
       title: 'Uma leitura para crescer',
       subtitle:
         'Uma leitura de formação para aprender a fé. Sugerimos uma — escolha a que combina com você.',
@@ -1515,6 +1520,7 @@ export default {
       },
     },
     notifications: {
+      marker: 'Por fim',
       title: 'Lembretes suaves',
       subtitle:
         'Deixe o Ember chamá-lo nos horários do seu plano. Sem sequências para perseguir, sem culpa.',

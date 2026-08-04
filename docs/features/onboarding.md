@@ -32,13 +32,17 @@ Seven steps, one screen each, under the `onboarding/` route group. Progress dots
 1. **Intro / features overview** — a few swipeable slides giving an honest, concrete tour of
    what Ember does today: build & keep a Plan of Life with fidelity tracking; pray beautiful
    guided practices; a Catholic library + Catechism + saints; bilingual incl. Latin; fully
-   offline. (Not framed as the old "three pillars.") Revisitable later from Settings.
+   offline. (Not framed as the old "three pillars.") Each slide is a full-bleed masterpiece
+   from the corpus art tree under cream ink — the same frontispiece language as the tradition
+   and book heroes. Revisitable later from Settings.
 2. **Language** — confirm interface language (auto-detected via `detectLanguage()`) and choose
    a multi-select **"languages you know"** so the user can see cross-language content.
 3. **Profiler** — three light questions: prayer-life stage, formation stage, time available
    per day. Pure in-flow state; feeds the two recommendations below.
-4. **Starter plan** — default everyone toward the built `beginner-minimum` template; recommend
-   others for non-beginners; allow adding practices. Reuses the template + `AdoptSheet` system.
+4. **Starter plan** — the suggested tradition (default `beginner-minimum`) is held out as a
+   frontispiece — its masterpiece under a gold marker — with the rest offered as the same
+   two-column art grid the `/templates` browser uses. Reuses the template + `AdoptSheet`
+   system, via the shared `TemplateCard` / `TemplateFeatureCard`.
 5. **Formation reading** — nudge to Morrow's *My Catholic Faith* by default; a picker lets the
    user override (Compendium, CCC, Roman/Trent, Pius X short/larger).
 6. **Notifications** — opt-in; pre-fill reminder times from the seeded plan. Skipped on web.
@@ -73,8 +77,16 @@ Seven steps, one screen each, under the `onboarding/` route group. Progress dots
 ## 4. Formation picker mechanism (no new content/programs)
 
 - **Default — Morrow** (`practice/catechetical-formation`): pre-selected; enroll =
-  `useEnableSlotsForPractice()` on that practice id (enables its seeded daily slot). Programs
-  tolerate a null cursor and anchor on first completion — no cursor pre-seed needed.
+  `useEnableSlotsForPractice()` on that practice id (enables its seeded daily slot), **then**
+  `createProgramCursor()`. Both halves are required:
+  - **The id must be kind-prefixed.** `seedPractices()` creates practices from the corpus
+    manifest id, and the corpus build kind-prefixes it (`scripts/build-corpus.py` →
+    `practice/<slug>`). Enabling a seeded slot with the bare id matches nothing and no-ops
+    silently. A practice onboarding *creates* itself (the Compendium) takes the bare id
+    instead, matching `AdoptSheet` and the `/plan/[practiceId]` route.
+  - **A program with no cursor projects as invisible** (`program.ts` → `if (!cursor) return
+    empty`), so an enabled slot alone never reaches the day's plan. This mirrors what the
+    practice detail screen's enroll already does.
 - **Override — Compendium of the CCC** (`practice/compendium`): same enroll path (ready program).
 - **Book-only catechisms (Pius X short/larger, Trent) + full CCC**: presented as "read at your
   own pace" — pin the book / deep-link the CCC reader; choice recorded, marked "no day-by-day
@@ -108,6 +120,18 @@ Reuses: `ScreenLayout`, `PageHeader`, `Typography`, `Card`, `AnimatedPressable`,
 `useTemplateList`/`useTemplateManifest` + `AdoptSheet`; `useEnableSlotsForPractice`, `useSlots`,
 `useUpdateSlot`; `requestNotificationPermission`; `detectLanguage`. i18n: `onboarding.*` keys in
 `apps/app/src/lib/i18n/locales/{en-US,pt-BR}.ts`.
+
+### The vigil shell
+
+Onboarding runs in **Tenebrae regardless of the user's theme preference** — it picks up where
+the dark boot splash leaves off (same cathedral void `#0E0D0C`) and only opens into day at the
+end, when `Begin` reveals the tabs. `VigilShell` (a Tamagui `<Theme name="dark">`) wraps every
+onboarding surface, and `onboarding/_layout.tsx` paints the stack's own `contentStyle` too, so
+a light-theme user never sees parchment flash between step transitions.
+
+Each step wears the app-wide masthead — a gold tracked-caps `variant="label"` marker over an
+italic `variant="screen-title"` — matching the `/templates` and `/explore` mastheads rather
+than the utility-screen `PageHeader`.
 
 ### Native feel
 
@@ -158,4 +182,16 @@ separate from the linear flow so it never entangles with boot/redirect.
    a cleared *catalog cache* (boot loader shows) must NOT re-onboard.
 6. **Revisit**: Settings → "Tour / What is Ember" opens `IntroSlides` in revisit mode.
 7. **i18n**: switch to `pt-BR` mid-flow; all copy localizes.
-8. `pnpm test` + `pnpm biome check`.
+8. `pnpm test` + `pnpm biome check`. Unit coverage for the pure pieces lives in
+   `apps/app/src/features/onboarding/__tests__/` (`recommendations.test.ts`, `steps.test.ts`).
+
+## 9. Known upstream issue (not onboarding's to fix)
+
+A program practice on a **daily** schedule with `progressPolicy: 'continue'` can never become
+visible in the plan. `resolveCalendarDay` → `getOccurrenceBasedProgramDay` →
+`generateOccurrences`, which returns `[]` for every schedule type except `nth-weekday`
+(`apps/app/src/features/plan-of-life/schedule.ts`). `resolveCalendarDay` therefore returns
+`undefined` and `projectProgramAtDate` bails to `visible: false`. Morrow
+(`catechetical-formation`: daily, `continue`, 195 days) hits this, so it stays hidden on Today
+even once correctly enrolled — and the same is true of the existing enroll path from the
+practice detail screen. Needs its own fix in the scheduling layer.
