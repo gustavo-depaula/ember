@@ -14,11 +14,13 @@
         {
           "v": {
             "la": "Deus in adjutorium meum intende.",
-            "en-US": "O God, come to my assistance."
+            "en-US": "O God, come to my assistance.",
+            "pt-BR": "Ó Deus, vinde em meu auxílio."
           },
           "r": {
             "la": "Domine, ad adjuvandam me festina",
-            "en-US": "O Lord, make haste to help me."
+            "en-US": "O Lord, make haste to help me.",
+            "pt-BR": "Senhor, apressai-vos em socorrer-me."
           }
         }
       ]
@@ -61,11 +63,13 @@
         {
           "v": {
             "la": "Benedicamus Domino.",
-            "en-US": "Let us bless the Lord."
+            "en-US": "Let us bless the Lord.",
+            "pt-BR": "Bendigamos ao Senhor."
           },
           "r": {
             "la": "Deo gratias.",
-            "en-US": "Thanks be to God."
+            "en-US": "Thanks be to God.",
+            "pt-BR": "Graças a Deus."
           }
         }
       ]
@@ -76,11 +80,13 @@
         {
           "v": {
             "la": "Fidelium animae per misericordiam Dei requiescant in pace.",
-            "en-US": "May the souls of the faithful, through the mercy of God, rest in peace."
+            "en-US": "May the souls of the faithful, through the mercy of God, rest in peace.",
+            "pt-BR": "As almas dos fiéis, pela misericórdia de Deus, descansem em paz."
           },
           "r": {
             "la": "Amen.",
-            "en-US": "Amen."
+            "en-US": "Amen.",
+            "pt-BR": "Amém."
           }
         }
       ]

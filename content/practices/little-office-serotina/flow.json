@@ -19,10 +19,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "O Holy Banquet,"
+            "en-US": "O Holy Banquet,",
+            "pt-BR": "Ó sagrado banquete,"
           },
           "r": {
-            "en-US": "in which Christ is received, the memory of his passion is renewed, the soul is filled with grace, and there is given to us a pledge of future glory. (Alleluia)"
+            "en-US": "in which Christ is received, the memory of his passion is renewed, the soul is filled with grace, and there is given to us a pledge of future glory. (Alleluia)",
+            "pt-BR": "em que Cristo é recebido, renova-se a memória de sua paixão, a alma se enche de graça e nos é dado o penhor da glória futura. (Aleluia)"
           }
         }
       ]
@@ -32,10 +34,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "You have given them bread from heaven (Alleluia)"
+            "en-US": "You have given them bread from heaven (Alleluia)",
+            "pt-BR": "Destes-lhes o pão do céu (Aleluia)"
           },
           "r": {
-            "en-US": "Having all sweetness within it (Alleluia)"
+            "en-US": "Having all sweetness within it (Alleluia)",
+            "pt-BR": "Que encerra em si toda a doçura (Aleluia)"
           }
         }
       ]
@@ -51,7 +55,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "O God, who in this wonderful sacrament left us a memorial of your passion, grant, we implore you, that we may so venerate the sacred mystery of your body and blood as always to experience the fruits of your redemption. You who live and reign forever and ever.",
-        "pt-BR": "Ó Deus, que neste admirável sacramento nos deixastes o memorial da vossa paixão, concedei-nos, vos suplicamos, venerar de tal modo os sagrados mistérios do vosso corpo e do vosso sangue, que sintamos continuamente em nós os frutos da vossa redenção. Vós que viveis e reinais para sempre."
+        "pt-BR": "Ó Deus, que neste admirável sacramento nos deixastes o memorial da vossa paixão, concedei-nos, vos suplicamos, venerar de tal modo o sagrado mistério do vosso corpo e do vosso sangue, que sintamos continuamente em nós os frutos da vossa redenção. Vós que viveis e reinais pelos séculos dos séculos."
       }
     },
     {
@@ -150,10 +154,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Let us pray for all the brothers, sisters, parents, relatives and benefactors of our community, living and deceased."
+            "en-US": "Let us pray for all the brothers, sisters, parents, relatives and benefactors of our community, living and deceased.",
+            "pt-BR": "Oremos por todos os irmãos, irmãs, pais, parentes e benfeitores da nossa comunidade, vivos e falecidos."
           },
           "r": {
-            "en-US": "Grant, Lord God, the reward of eternal life, to all who have been good to us in your name."
+            "en-US": "Grant, Lord God, the reward of eternal life, to all who have been good to us in your name.",
+            "pt-BR": "Concedei, Senhor Deus, a recompensa da vida eterna a todos os que nos fizeram bem em vosso nome."
           }
         }
       ]
@@ -177,10 +183,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Lord, have mercy"
+            "en-US": "Lord, have mercy",
+            "pt-BR": "Senhor, tende piedade"
           },
           "r": {
-            "en-US": "Christ, have mercy"
+            "en-US": "Christ, have mercy",
+            "pt-BR": "Cristo, tende piedade"
           }
         }
       ]
@@ -204,10 +212,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "O Lord, save Your servants,"
+            "en-US": "O Lord, save Your servants,",
+            "pt-BR": "Salvai, Senhor, os vossos servos,"
           },
           "r": {
-            "en-US": "O Lord, we trust in You."
+            "en-US": "O Lord, we trust in You.",
+            "pt-BR": "Senhor, em vós confiamos."
           }
         }
       ]
@@ -217,10 +227,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "O Lord, send us help from Your holy sanctuary,"
+            "en-US": "O Lord, send us help from Your holy sanctuary,",
+            "pt-BR": "Enviai-nos, Senhor, auxílio do vosso santo santuário,"
           },
           "r": {
-            "en-US": "And strengthen us out of Zion."
+            "en-US": "And strengthen us out of Zion.",
+            "pt-BR": "E defendei-nos desde Sião."
           }
         }
       ]
@@ -230,10 +242,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Be for us, O Lord, a tower of strength,"
+            "en-US": "Be for us, O Lord, a tower of strength,",
+            "pt-BR": "Sede para nós, Senhor, uma torre fortificada,"
           },
           "r": {
-            "en-US": "Protect us from all harm."
+            "en-US": "Protect us from all harm.",
+            "pt-BR": "Protegei-nos de todo mal."
           }
         }
       ]
@@ -243,10 +257,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Do not let our enemies overcome us,"
+            "en-US": "Do not let our enemies overcome us,",
+            "pt-BR": "Não permitais que o inimigo prevaleça sobre nós,"
           },
           "r": {
-            "en-US": "Nor the son of iniquity have power to harm us."
+            "en-US": "Nor the son of iniquity have power to harm us.",
+            "pt-BR": "Nem que o filho da iniquidade tenha poder de nos fazer mal."
           }
         }
       ]
@@ -256,10 +272,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "May the name of the Lord be praised"
+            "en-US": "May the name of the Lord be praised",
+            "pt-BR": "Seja louvado o nome do Senhor"
           },
           "r": {
-            "en-US": "And may He guide us on the way of salvation."
+            "en-US": "And may He guide us on the way of salvation.",
+            "pt-BR": "E que ele nos conduza pelo caminho da salvação."
           }
         }
       ]
@@ -269,10 +287,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Show us, O Lord, Your paths,"
+            "en-US": "Show us, O Lord, Your paths,",
+            "pt-BR": "Mostrai-nos, Senhor, os vossos caminhos,"
           },
           "r": {
-            "en-US": "And direct our hearts to keep Your precepts."
+            "en-US": "And direct our hearts to keep Your precepts.",
+            "pt-BR": "E dirigi os nossos corações para guardar os vossos preceitos."
           }
         }
       ]
@@ -282,10 +302,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "O Lord hear my prayer"
+            "en-US": "O Lord hear my prayer",
+            "pt-BR": "Senhor, ouvi a minha oração"
           },
           "r": {
-            "en-US": "And let my cry come unto You."
+            "en-US": "And let my cry come unto You.",
+            "pt-BR": "E chegue até vós o meu clamor."
           }
         }
       ]
@@ -372,10 +394,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Eternal rest grant unto them, O Lord."
+            "en-US": "Eternal rest grant unto them, O Lord.",
+            "pt-BR": "Dai-lhes, Senhor, o descanso eterno."
           },
           "r": {
-            "en-US": "And let perpetual light shine upon them."
+            "en-US": "And let perpetual light shine upon them.",
+            "pt-BR": "E brilhe para eles a luz perpétua."
           }
         }
       ]
@@ -385,10 +409,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Lord have mercy"
+            "en-US": "Lord have mercy",
+            "pt-BR": "Senhor, tende piedade"
           },
           "r": {
-            "en-US": "Christ have mercy"
+            "en-US": "Christ have mercy",
+            "pt-BR": "Cristo, tende piedade"
           }
         }
       ]
@@ -412,10 +438,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "And lead us not into temptation"
+            "en-US": "And lead us not into temptation",
+            "pt-BR": "E não nos deixeis cair em tentação"
           },
           "r": {
-            "en-US": "But deliver us from evil."
+            "en-US": "But deliver us from evil.",
+            "pt-BR": "Mas livrai-nos do mal."
           }
         }
       ]
@@ -425,10 +453,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "From the gates of hell"
+            "en-US": "From the gates of hell",
+            "pt-BR": "Das portas do inferno"
           },
           "r": {
-            "en-US": "Deliver their souls, O Lord."
+            "en-US": "Deliver their souls, O Lord.",
+            "pt-BR": "Livrai as suas almas, Senhor."
           }
         }
       ]
@@ -438,10 +468,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "May they rest in peace."
+            "en-US": "May they rest in peace.",
+            "pt-BR": "Descansem em paz."
           },
           "r": {
-            "en-US": "Amen."
+            "en-US": "Amen.",
+            "pt-BR": "Amém."
           }
         }
       ]
@@ -451,10 +483,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "O Lord hear my prayer"
+            "en-US": "O Lord hear my prayer",
+            "pt-BR": "Senhor, ouvi a minha oração"
           },
           "r": {
-            "en-US": "And let my cry come unto you."
+            "en-US": "And let my cry come unto you.",
+            "pt-BR": "E chegue até vós o meu clamor."
           }
         }
       ]
@@ -492,10 +526,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "We praise the Lord our God who has brought us together to rejoice in the Spirit."
+            "en-US": "We praise the Lord our God who has brought us together to rejoice in the Spirit.",
+            "pt-BR": "Louvamos o Senhor nosso Deus, que nos reuniu para nos alegrarmos no Espírito."
           },
           "r": {
-            "en-US": "May we always be humble of heart and place our joy in the Lord. Let us not be carried away by any material success, but rather acknowledge that true happiness will be ours only when the things of this life have passed away."
+            "en-US": "May we always be humble of heart and place our joy in the Lord. Let us not be carried away by any material success, but rather acknowledge that true happiness will be ours only when the things of this life have passed away.",
+            "pt-BR": "Sejamos sempre humildes de coração e ponhamos a nossa alegria no Senhor. Não nos deixemos arrebatar por nenhum sucesso material, mas reconheçamos antes que a verdadeira felicidade só será nossa quando tiverem passado as coisas desta vida."
           }
         }
       ]
@@ -512,10 +548,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Hail, Queen of Heaven"
+            "en-US": "Hail, Queen of Heaven",
+            "pt-BR": "Salve, Rainha do Céu"
           },
           "r": {
-            "en-US": "Mother of the King of Angels, O Mary, flower of virgins, Like a Rose or Lily, Pour out prayers to your Son, For the salvation of the faithful."
+            "en-US": "Mother of the King of Angels, O Mary, flower of virgins, Like a Rose or Lily, Pour out prayers to your Son, For the salvation of the faithful.",
+            "pt-BR": "Mãe do Rei dos Anjos, ó Maria, flor das virgens, como a rosa ou o lírio, derramai preces a vosso Filho pela salvação dos fiéis."
           }
         }
       ]
@@ -525,10 +563,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Pray for us O holy Virgin of virgins,"
+            "en-US": "Pray for us O holy Virgin of virgins,",
+            "pt-BR": "Rogai por nós, ó santa Virgem das virgens,"
           },
           "r": {
-            "en-US": "That we may be made worthy of the promises of Christ."
+            "en-US": "That we may be made worthy of the promises of Christ.",
+            "pt-BR": "Para que sejamos dignos das promessas de Cristo."
           }
         }
       ]
@@ -580,10 +620,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "We adore you O Christ and we praise you"
+            "en-US": "We adore you O Christ and we praise you",
+            "pt-BR": "Nós vos adoramos, ó Cristo, e vos bendizemos"
           },
           "r": {
-            "en-US": "Because by your Holy Cross you have redeemed the world."
+            "en-US": "Because by your Holy Cross you have redeemed the world.",
+            "pt-BR": "Porque pela vossa santa Cruz remistes o mundo."
           }
         }
       ]
