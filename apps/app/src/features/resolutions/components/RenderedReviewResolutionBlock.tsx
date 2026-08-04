@@ -1,11 +1,17 @@
-import { Check, CircleSlash, Minus } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Keyboard } from 'react-native'
 import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, PrayerTextInput } from '@/components'
+import { PrayerTextInput, Typography } from '@/components'
+import {
+  FlowAction,
+  FlowActionSeparator,
+  FlowActions,
+  FlowInteraction,
+  FlowLine,
+} from '@/components/prayer'
 import type { ResolutionOutcome } from '@/db/events'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
@@ -13,12 +19,14 @@ import { useCheckinResolution, useReviewResolution } from '../hooks'
 
 type Mode = 'review' | 'checkin' | 'show'
 
-const outcomeIcons: Record<ResolutionOutcome, typeof Check> = {
-  kept: Check,
-  partial: Minus,
-  broken: CircleSlash,
-}
-
+/**
+ * Yesterday's resolution, brought back for an honest word.
+ *
+ * `show` simply carries it into today's prayer; `review` / `checkin` ask for an
+ * outcome. The prompt is a rubric — the instruction — and the resolution itself
+ * is a carried line, so it sits in the same manuscript register as an offered
+ * intention rather than inside a form card.
+ */
 export function RenderedReviewResolutionBlock({
   mode,
   resolution,
@@ -33,7 +41,6 @@ export function RenderedReviewResolutionBlock({
   allowNotes: boolean
 }) {
   const { t } = useTranslation()
-  const theme = useTheme()
   const [submittedOutcome, setSubmittedOutcome] = useState<ResolutionOutcome | undefined>()
   const [notes, setNotes] = useState('')
 
@@ -48,50 +55,33 @@ export function RenderedReviewResolutionBlock({
     if (!resolution || submittedOutcome) return
     lightTap()
     Keyboard.dismiss()
-    if (mode === 'review') {
-      await reviewMutation.mutateAsync({
-        resolutionId: resolution.id,
-        outcome,
-        notes: notes.trim() || undefined,
-      })
-    } else if (mode === 'checkin') {
-      await checkinMutation.mutateAsync({
-        resolutionId: resolution.id,
-        outcome,
-        notes: notes.trim() || undefined,
-      })
+    const args = { resolutionId: resolution.id, outcome, notes: notes.trim() || undefined }
+    // A failed write surfaces through the global mutation-error host; leave the
+    // outcome unrecorded so the user can answer again.
+    try {
+      if (mode === 'review') await reviewMutation.mutateAsync(args)
+      else if (mode === 'checkin') await checkinMutation.mutateAsync(args)
+    } catch {
+      return
     }
     successBuzz()
     setSubmittedOutcome(outcome)
   }
 
+  const answered = mode === 'show' || submittedOutcome
+
   return (
     <Animated.View layout={LinearTransition.duration(220)}>
-      <YStack
-        gap="$md"
-        padding="$md"
-        borderRadius="$md"
-        borderWidth={1}
-        borderColor="$borderColor"
-        backgroundColor="$backgroundSurface"
-      >
-        <YStack gap="$xs">
-          {mode === 'show' && prompt ? (
-            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-              {prompt}
-            </Text>
-          ) : undefined}
-          <Text selectable fontFamily="$body" fontSize="$3" color="$color">
-            {resolution.text}
-          </Text>
-        </YStack>
+      <FlowInteraction>
+        {prompt ? <Typography variant="rubric">{prompt}</Typography> : undefined}
+        <FlowLine text={resolution.text} />
 
-        {mode === 'show' || submittedOutcome ? (
+        {answered ? (
           submittedOutcome ? (
             <Animated.View entering={FadeIn.duration(260)}>
-              <Text fontFamily="$body" fontSize="$2" color="$accent" fontStyle="italic">
+              <Typography variant="whisper" fontStyle="italic" color="$accent">
                 {t(`resolutions.review.recorded.${submittedOutcome}`)}
-              </Text>
+              </Typography>
             </Animated.View>
           ) : null
         ) : (
@@ -100,46 +90,18 @@ export function RenderedReviewResolutionBlock({
             exiting={FadeOut.duration(140)}
             layout={LinearTransition.duration(200)}
           >
-            <YStack gap="$md">
-              {prompt ? (
-                <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                  {prompt}
-                </Text>
-              ) : undefined}
-              <XStack gap="$sm">
-                {outcomes.map((o) => {
-                  const Icon = outcomeIcons[o]
-                  return (
-                    <AnimatedPressable
-                      key={o}
+            <YStack gap="$sm">
+              <FlowActions>
+                {outcomes.map((o, i) => (
+                  <XStack key={o} alignItems="center" gap="$sm">
+                    {i > 0 ? <FlowActionSeparator /> : undefined}
+                    <FlowAction
+                      label={t(`resolutions.review.outcome.${o}`)}
                       onPress={() => submit(o)}
-                      style={{ flex: 1 }}
-                      accessibilityRole="button"
-                      accessibilityLabel={t(`resolutions.review.outcome.${o}`)}
-                    >
-                      <XStack
-                        alignItems="center"
-                        justifyContent="center"
-                        gap="$xs"
-                        paddingVertical="$sm"
-                        borderRadius="$md"
-                        borderWidth={1}
-                        borderColor="$accent"
-                      >
-                        <Icon size={14} color={theme.accent?.val} />
-                        <Text
-                          fontFamily="$heading"
-                          fontSize="$2"
-                          color="$accent"
-                          letterSpacing={0.5}
-                        >
-                          {t(`resolutions.review.outcome.${o}`)}
-                        </Text>
-                      </XStack>
-                    </AnimatedPressable>
-                  )
-                })}
-              </XStack>
+                    />
+                  </XStack>
+                ))}
+              </FlowActions>
               {allowNotes ? (
                 <PrayerTextInput
                   size="sm"
@@ -152,7 +114,7 @@ export function RenderedReviewResolutionBlock({
             </YStack>
           </Animated.View>
         )}
-      </YStack>
+      </FlowInteraction>
     </Animated.View>
   )
 }

@@ -33,9 +33,14 @@ describe('examination-of-conscience flow', () => {
 
     // The Verificatio review-resolution block has skip_if_none=true and
     // is not rendered on first run. The Hope & Resolution capture-resolution
-    // block always renders.
+    // block always renders. The explicit timeout covers the first flow
+    // resolution — the 1s default flakes when the suite runs files in parallel.
     expect(
-      (await screen.findAllByText(/One concrete resolution for tomorrow/i))[0],
+      (
+        await screen.findAllByText(/One concrete resolution for tomorrow/i, undefined, {
+          timeout: 5000,
+        })
+      )[0],
     ).toBeInTheDocument()
 
     // The previous-resolution review prompt should NOT appear when there's

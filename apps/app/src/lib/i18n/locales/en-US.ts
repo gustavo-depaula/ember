@@ -300,17 +300,6 @@ export default {
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
   },
 
-  intentions: {
-    title: 'Intentions',
-    subtitle: 'Present them in prayer. Carry them through the day.',
-    homeTagline: 'Bring your intentions to prayer',
-    homeOpenCount_one: '{{count}} active intention',
-    homeOpenCount_other: '{{count}} active intentions',
-    exploreTagline_zero: 'Lift one up to the Lord',
-    exploreTagline_one: '{{count}} active intention',
-    exploreTagline_other: '{{count}} active intentions',
-  },
-
   movements: {
     cadence: {
       label: 'How long?',
@@ -341,10 +330,12 @@ export default {
     },
     actions: {
       markAnswered: 'Mark answered',
+      markAnsweredPerpetual: 'God answered this',
       answered: 'Answered',
       retire: 'Stop carrying',
       removeThanksgiving: 'Remove',
       pinToPractice: 'Pray for this in…',
+      edit: 'Edit',
     },
     pinPractice: {
       title: 'Pray for this in…',
@@ -354,18 +345,24 @@ export default {
     picker: {
       title: 'Carry these in prayer',
       subtitle: 'Choose what to offer in this prayer.',
-      intentions: 'Intentions',
-      thanksgivings: 'Graces',
-      intentionsEmpty: 'No active intentions.',
-      thanksgivingsEmpty: 'No graces recorded yet.',
+      allCarried: 'Everything on the Altar is already being carried.',
       confirm: 'Continue',
-      pin: 'Pin to this practice',
-      unpin: 'Unpin from this practice',
+    },
+    edit: {
+      title: 'Amend this',
     },
     offering: {
       empty:
-        'Bring someone or something to God this morning — a person you love, a worry, a hope. Or move on, and pray with what you have.',
-      pickHint: 'Pick what to carry in this prayer.',
+        'Bring someone or something to God — a person you love, a worry, a hope. Or move on, and pray with what you have.',
+      emptyStanding:
+        'Nothing standing in this prayer yet. Star an intention to carry it here every time, or bring one just for today.',
+      carryMore: 'Carry more today',
+      line: {
+        invite: 'Offer this prayer for someone',
+        one: 'Offered for {{text}}',
+        more_one: 'Offered for {{text}}, and {{count}} other',
+        more_other: 'Offered for {{text}}, and {{count}} others',
+      },
       summary_one: 'Offering {{count}} intention',
       summary_other: 'Offering {{count}} intentions',
       summaryEmpty: 'Offering this prayer.',
@@ -1569,6 +1566,10 @@ export default {
     },
   },
   a11y: {
+    makeStanding: 'Always carry “{{text}}” in this prayer',
+    unmakeStanding: 'Stop always carrying “{{text}}” in this prayer',
+    dropFromToday: 'Do not carry “{{text}}” today',
+    carryToday: 'Carry “{{text}}” today',
     togglePractice: 'Mark {{name}} as complete',
     untogglePractice: 'Unmark {{name}}',
     expandBlock: 'Expand {{name}}',
