@@ -237,8 +237,9 @@ So a `white-space: normal` override on reading-text components is the whole unlo
 
 ## Part 5 — Recommended order of work
 
-1. **Vendor Justif into the foliate reader.** All platforms, biggest surface, verified safe against highlight anchors. Guard the footnote `innerHTML` path first, wire `rescan()` into the `setStyles` config path, measure on device. Ship stock defaults; add the liturgical-Latin hyphenator.
-2. **Justif on the web build's prayer flows**, via `white-space: normal` on reading-text components. Small change, and the bilingual columns are where it pays most.
+1. **Justif on the web build's prayer flows**, via `white-space: normal` on reading-text components. Prayer is the daily loop — this is the text people see every day, and the bilingual side-by-side columns are where justification is worst and Justif pays most. Web-only, so it lands for desktop and dev first; iOS/Android prayer flows are item 5.
+   - **Import it dynamically behind `Platform.OS === 'web'`.** Justif is ~233 KB raw; a static import would ship all of it into the native bundle to be dead code on the platform that can't use it.
+2. **Vendor Justif into the foliate reader.** All platforms, biggest surface, verified safe against highlight anchors. Guard the footnote `innerHTML` path first, wire `rescan()` into the `setStyles` config path, measure on device. Ship stock defaults; add the liturgical-Latin hyphenator. Different delivery from item 1: this one is inlined into the WebView bootstrap string alongside `bootstrap.raw.js`, not imported.
 3. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`. One line, no dependency; the only justification lever RN gives us and it's currently off.
 4. **Bible as continuous prose** rather than one `<Text>` per verse. Worth its own spec — it's the difference between "a verse list" and "a Bible", and it's also what makes the page worth justifying at all.
 5. **The open question: prayer flows on iOS/Android.** Justif cannot reach them without moving the flow renderer into a WebView, which would cost native selection, Tamagui theming, `ImageViewer`, accessibility and Reanimated layout. Until that's decided, the native options are the status quo or ragged-right — a preference call, and the bilingual side-by-side column at 170 px is the case that most deserves one.
