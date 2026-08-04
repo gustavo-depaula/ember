@@ -52,9 +52,26 @@ I ran Justif 0.7.1 against a mock of our actual reader: `buildStyle()`'s CSS cop
 | Cost, re-layout (`refresh()`) | ~110 ms |
 | Effect on pagination | 27 pages → 25 (fits ~7% more text) |
 
-![Native browser justification versus Justif](../assets/justification-comparison.webp)
+### Side by side
 
-*Left: native. Right: Justif. **Caveat:** headless Chromium ships no hyphenation dictionaries, so the left column is un-hyphenated and therefore worse than what iOS WebKit actually renders for us today (our CSS already sets `hyphens: auto`, and WebKit honors it). The real-device gap is narrower than this image — but the even spacing and absence of rivers on the right is the Knuth–Plass contribution, independent of hyphenation.*
+Four options, rendered at Ember's actual reader defaults — EB Garamond 400, 22 px / 33 px leading (`fontSizeStep 3`, `lineHeightStep 5`), `margin: normal` on a 390 px phone, light palette:
+
+![Four justification options compared at Ember's reader defaults](../assets/justification-options.webp)
+
+| | Lines for the same 8 paragraphs |
+|---|---|
+| A — native justify, no hyphenation | 77 |
+| B — native justify + hyphenation *(today on iOS)* | 76 |
+| C — Justif, defaults | **71** |
+| D — Justif, protrusion + hanging off | **71** |
+
+**A** is the worst case and it is not hypothetical: headless Chromium ships no hyphenation dictionaries, and if the Android WebView on a given device behaves the same, this is what Android users see. Rivers everywhere.
+
+**B** simulates `hyphens: auto` by pre-inserting soft hyphens with the same TeX patterns — this is the honest baseline, and what iOS WebKit renders for us today. Much better than A, but still visibly loose lines (*"to pattern his whole life on that of"*).
+
+**C** is Justif at defaults. Even color, no rivers, and it fits the same text in 8% fewer lines — which is where the page-count drop comes from.
+
+**D** isolates the micro-typography layer: same Knuth–Plass breaks as C, but with optical margin alignment and hanging punctuation switched off. The difference from C is subtle at a glance and shows up at the margin — C's edge *looks* straighter because periods and commas hang slightly past it. Worth having, not worth agonizing over.
 
 ### The finding that matters most
 
@@ -139,12 +156,24 @@ Two consequences:
 
 Neither is fixed by a better algorithm. Verse-shaped content should be ragged-right — that is the correct typographic answer, and it is the same answer a printed missal gives. This is the highest-value native change available, and it's cheap.
 
+![Bible and prayer rendering: today versus ragged versus continuous prose](../assets/justification-native-surface.webp)
+
+Same fonts and reader settings as above. Romans 8 (Douay-Rheims, from `content/bible/drb/`) and the hymn from `practice/little-office-holy-tear-of-our-lord-jesus-christ`:
+
+- **Bible — today.** All 14 verses wrap, so all 14 show the defect: stretched lines above, a stubby ragged remnant below (*"the flesh."*, *"peace."*, *"in the flesh,"*). Verse 1's first line is stretched hard across the measure.
+- **Bible — ragged verses.** Same 51 lines, no stretching. Strictly better, and it is a one-value change.
+- **Bible — continuous prose.** Verses flow into one justified paragraph with superscript numbers. This is what a printed Bible does, and it reads best of the three: justification finally has a full paragraph to work with, and there is one ragged last line per chapter instead of one per verse. Bigger change — it touches `ChapterContent`'s structure and anything that anchors to a per-verse node — but it is the right end state, and it is also the version that would benefit from Justif on the web build.
+- **Prayer — today vs ragged.** 5 of 13 lines wrap; every one of them stretches (*"O fair eyes that caused this innocent"*, *"come and subdue the insolence of those"*). Ragged is simply correct for verse.
+
+Note that even the continuous-prose column is still *greedily* justified — that's native RN, and no lever changes it. It is better because the paragraph is longer, not because the algorithm improved.
+
 ---
 
 ## Part 5 — Recommended order of work
 
-1. **Ragged-right for verse-shaped content.** Stop applying `justify` in `PrayerLines` and per-verse `ChapterContent`. Highest ratio of paper-cut-removed to lines-changed, and it needs no dependency. *(May want a real decision on whether Bible chapters render as continuous prose rather than per-verse `<Text>` — that's a bigger change with its own benefits.)*
+1. **Ragged-right for verse-shaped content.** Stop applying `justify` in `PrayerLines` and per-verse `ChapterContent`. Highest ratio of paper-cut-removed to lines-changed, and it needs no dependency.
 2. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`. One line; fixes the worst Android case.
+2b. **Bible as continuous prose** rather than one `<Text>` per verse. Bigger than 1 and 2, worth its own spec — it's the difference between "a verse list" and "a Bible".
 3. **Vendor Justif into the foliate reader.** Guard the footnote `innerHTML` path first, wire `rescan()` to the config path, measure on device.
 4. *(Later)* Consider Justif on the web build's native surfaces via the existing `Platform.OS === 'web'` branch in `useReadingStyle()` — react-native-web renders real DOM, so it's reachable. Low priority: web is not where the reading happens.
 
