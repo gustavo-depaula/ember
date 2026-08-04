@@ -1,0 +1,218 @@
+{
+	"id": "collection/opus-dei",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "The Norms of Piety",
+		"pt-BR": "As Normas de Piedade"
+	},
+	"description": {
+		"en-US": "The daily, weekly and yearly norms of Opus Dei's plan of life, gathered in the order they fall through the day — sanctity in ordinary work, built out of small things kept every day.",
+		"pt-BR": "As normas diárias, semanais e anuais do plano de vida do Opus Dei, reunidas na ordem em que ocorrem ao longo do dia — a santidade no trabalho comum, feita de pequenas coisas guardadas todos os dias."
+	},
+	"icon": "sunrise",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["opus-dei", "plan-of-life", "josemaria", "laity", "daily"],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "Opus Dei calls the practices of its plan of life *norms*: not a wish-list of devotions but a fixed rule, kept whether or not the day cooperates. Its foundation is divine filiation — you are a child of God, so there is no sacred hour and secular hour, only one life offered whole — and its method is smallness: the heroic minute at the alarm, two or three minutes of examination at noon, three Hail Marys before sleep.\n\nNothing here binds under sin. But the substance is meant to be defended: Mass and the two half-hours of mental prayer are the load-bearing walls, and a norm that drops out every day is a signal to take to your director, not an accident. The order below is the order of the day, from the first sound of the alarm to the holy water at the bedside.\n\nWhat is proper to each person — which point the particular examination fights, the shape of the weekly mortification, the form of morning offering customary where you are — is settled with your director, not by a list.",
+			"pt-BR": "O Opus Dei chama *normas* às práticas do seu plano de vida: não uma lista de devoções desejáveis, mas uma regra fixa, guardada coopere ou não o dia. O seu fundamento é a filiação divina — você é filho de Deus, e por isso não há hora sagrada e hora profana, mas uma só vida oferecida por inteiro — e o seu método é a pequenez: o minuto heroico ao despertador, dois ou três minutos de exame ao meio-dia, três Ave-Marias antes de dormir.\n\nNada aqui obriga sob pecado. Mas a substância deve ser defendida: a Missa e as duas meias-horas de oração mental são as paredes-mestras, e uma norma que cai todos os dias é um sinal a levar ao seu diretor, não um acaso. A ordem abaixo é a ordem do dia, do primeiro toque do despertador à água benta à cabeceira.\n\nO que é próprio de cada pessoa — que ponto combate o exame particular, a forma da mortificação semanal, o modo de oferecimento da manhã costumeiro no seu lugar — assenta-se com o diretor, e não por uma lista."
+		}
+	},
+	"sections": [
+		{
+			"id": "the-morning",
+			"title": {
+				"en-US": "The Morning",
+				"pt-BR": "A Manhã"
+			},
+			"description": {
+				"body": {
+					"en-US": "The heroic minute and everything that follows from it. The day is really won the night before, by keeping a fixed hour for lights-out.",
+					"pt-BR": "O minuto heroico e tudo o que dele decorre. O dia ganha-se, na verdade, na véspera, guardando uma hora fixa para apagar a luz."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/morning-offering-opus-dei" },
+				{ "kind": "item", "ref": "practice/prayer-pope-bishop" },
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer",
+					"seeAlso": ["collection/mental-prayer"]
+				},
+				{ "kind": "item", "ref": "practice/mass" },
+				{ "kind": "item", "ref": "practice/spiritual-communion-opus-dei" }
+			]
+		},
+		{
+			"id": "through-the-day",
+			"title": {
+				"en-US": "Through the Day",
+				"pt-BR": "Ao Longo do Dia"
+			},
+			"description": {
+				"body": {
+					"en-US": "The norms that break the working day open — a pause at noon, two minutes of accounting on one point, a brief stop before the tabernacle, and the vocal prayer proper to the Work.",
+					"pt-BR": "As normas que abrem uma brecha no dia de trabalho — uma pausa ao meio-dia, dois minutos de contas sobre um só ponto, uma breve paragem diante do sacrário e a oração vocal própria da Obra."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/angelus" },
+				{ "kind": "item", "ref": "practice/particular-examination" },
+				{ "kind": "item", "ref": "practice/visit-blessed-sacrament" },
+				{ "kind": "item", "ref": "practice/preces-opus-dei" }
+			]
+		},
+		{
+			"id": "reading-and-formation",
+			"title": {
+				"en-US": "Reading & Formation",
+				"pt-BR": "Leitura e Formação"
+			},
+			"description": {
+				"body": {
+					"en-US": "Two distinct norms, not one: a few minutes of the New Testament itself, and ten or fifteen of a solid spiritual book. Nourishment, not volume.",
+					"pt-BR": "Duas normas distintas, e não uma: alguns minutos do próprio Novo Testamento e dez ou quinze de um livro espiritual sólido. Alimento, não quantidade."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/new-testament-reading" },
+				{ "kind": "item", "ref": "practice/spiritual-reading" },
+				{ "kind": "item", "ref": "practice/opus-dei-meditation" }
+			]
+		},
+		{
+			"id": "marian-norms",
+			"title": {
+				"en-US": "The Marian Norms",
+				"pt-BR": "As Normas Marianas"
+			},
+			"description": {
+				"body": {
+					"en-US": "Five decades vocally each day and the mysteries contemplated — plus the Saturday devotion to Our Lady and the three Hail Marys that close the night.",
+					"pt-BR": "Cinco dezenas rezadas vocalmente cada dia e os mistérios contemplados — mais a devoção sabatina a Nossa Senhora e as três Ave-Marias que encerram a noite."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/rosary",
+					"seeAlso": ["collection/marian"]
+				},
+				{ "kind": "item", "ref": "practice/saturday-mary" },
+				{ "kind": "item", "ref": "practice/three-hail-marys-opus-dei" }
+			]
+		},
+		{
+			"id": "the-night",
+			"title": {
+				"en-US": "The Night",
+				"pt-BR": "A Noite"
+			},
+			"description": {
+				"body": {
+					"en-US": "The general examination, wider than the midday one: thanksgiving, light, the day reviewed, contrition, and one concrete resolution for tomorrow.",
+					"pt-BR": "O exame geral, mais amplo que o do meio-dia: ação de graças, luz, o dia revisto, contrição e uma resolução concreta para amanhã."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/examination-of-conscience" },
+				{ "kind": "item", "ref": "practice/act-contrition" }
+			]
+		},
+		{
+			"id": "weekly-monthly-yearly",
+			"title": {
+				"en-US": "Weekly, Monthly, Yearly",
+				"pt-BR": "Semanal, Mensal, Anual"
+			},
+			"description": {
+				"body": {
+					"en-US": "Beyond the daily norms: the sacrament of confession even without grave matter, a day of greater mortification, and the longer rhythms of recollection and retreat.",
+					"pt-BR": "Para além das normas diárias: o sacramento da confissão mesmo sem matéria grave, um dia de maior mortificação e os ritmos mais longos do recolhimento e do retiro."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/confession",
+					"seeAlso": ["collection/confession-and-conversion"]
+				},
+				{ "kind": "item", "ref": "practice/friday-mortification" },
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Day of recollection",
+						"pt-BR": "Dia de recolhimento"
+					},
+					"notes": {
+						"en-US": "A monthly half-day of silence — meditation, spiritual reading, and the Blessed Sacrament. Needs a guided flow rather than a text.",
+						"pt-BR": "Meia jornada mensal de silêncio — meditação, leitura espiritual e o Santíssimo Sacramento. Precisa de um roteiro guiado, e não de um texto."
+					},
+					"proposedKind": "practice"
+				}
+			]
+		},
+		{
+			"id": "in-the-school-of-st-josemaria",
+			"title": {
+				"en-US": "In the School of St. Josemaría",
+				"pt-BR": "Na Escola de São Josemaria"
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "chapter/plan-of-life" },
+				{ "kind": "item", "ref": "chapter/predominant-fault" },
+				{ "kind": "item", "ref": "chapter/mental-prayer" },
+				{ "kind": "item", "ref": "practice/st-josemaria-novena" },
+				{ "kind": "item", "ref": "practice/novena-for-the-sick-escriva" }
+			]
+		},
+		{
+			"id": "to-source",
+			"title": {
+				"en-US": "Coming Soon",
+				"pt-BR": "Em Breve"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Aspirations & the presence of God",
+						"pt-BR": "Jaculatórias e a presença de Deus"
+					},
+					"notes": {
+						"en-US": "The customary darts of prayer — Serviam!, Omnia in bonum!, Cor Mariae dulcissimum iter para tutum!, Abba Pater! — with divine filiation as the thread. Latin, English and Portuguese in separate keys.",
+						"pt-BR": "As jaculatórias costumeiras — Serviam!, Omnia in bonum!, Cor Mariae dulcissimum iter para tutum!, Abba Pater! — tendo a filiação divina por fio condutor. Latim, inglês e português em chaves separadas."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Mental prayer — Opus Dei preparation & thanksgiving",
+						"pt-BR": "Oração mental — preparação e ação de graças do Opus Dei"
+					},
+					"notes": {
+						"en-US": "A variant of practice/mental-prayer using St. Josemaría's fixed opening (*My Lord and my God, I firmly believe that You are here…*) and closing (*I thank You, my God, for the good resolutions…*) in place of the St. Alphonsus acts the current flow uses.",
+						"pt-BR": "Uma variante de practice/mental-prayer com a abertura fixa de São Josemaria (*Meu Senhor e meu Deus, creio firmemente que estais aqui…*) e o encerramento (*Graças Vos dou, meu Deus, pelos bons propósitos…*) em lugar dos atos de Santo Afonso que o roteiro atual usa."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Daily mortification",
+						"pt-BR": "Mortificação diária"
+					},
+					"notes": {
+						"en-US": "The daily counterpart to practice/friday-mortification — custody of the senses, the second helping declined, the comment left unsaid. St. Josemaría's rule of thumb: the mortification that does not mortify anyone else.",
+						"pt-BR": "O correspondente diário de practice/friday-mortification — a custódia dos sentidos, a segunda porção recusada, o comentário não dito. A regra prática de São Josemaria: a mortificação que não mortifica mais ninguém."
+					},
+					"proposedKind": "practice"
+				}
+			]
+		}
+	]
+}

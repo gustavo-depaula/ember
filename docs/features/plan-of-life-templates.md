@@ -16,10 +16,12 @@ The most explicit, codified, and widely imitated modern plan of life. Designed f
 
 | Cadence | Practices |
 |---|---|
-| Daily | Morning offering · Holy Mass + Communion (`mass`) · two periods of mental prayer (~30 min each, morning + evening) (`mental-prayer`) · Spiritual reading (NT 5 min + spiritual book 10 min) · Angelus / Regina Cæli (`angelus`) · Holy Rosary (`rosary`) · Brief visit to the Blessed Sacrament · Examination of conscience at night (`examination-of-conscience`) · Three Hail Marys before sleep for purity · Aspirations / ejaculatory prayers throughout · Small mortifications |
-| Weekly | Sacramental confession (`confession`) · One day of corporal mortification (typically Friday) |
-| Monthly | Day of recollection (a half-day silent retreat) |
-| Annually | Multi-day silent retreat (3–5 days) · Renewal of one's plan with a spiritual director |
+| Daily | Morning offering + heroic minute (`morning-offering-opus-dei`) · Prayer for the Pope and the bishop (`prayer-pope-bishop`) · Holy Mass + Communion (`mass`) · two periods of mental prayer (~30 min each, morning + evening) (`mental-prayer`) · New Testament reading (`new-testament-reading`) · Spiritual reading (`spiritual-reading`) · Meditation of the day (`opus-dei-meditation`) · Angelus / Regina Cæli (`angelus`) · Particular examination at midday (`particular-examination`) · Spiritual communion (`spiritual-communion-opus-dei`) · Holy Rosary (`rosary`) · Brief visit to the Blessed Sacrament, Opus Dei form (`visit-blessed-sacrament`) · The Preces (`preces-opus-dei`) · Examination of conscience at night (`examination-of-conscience`) · Three Hail Marys before sleep for purity (`three-hail-marys-opus-dei`) · Aspirations / ejaculatory prayers throughout **[todo]** · Small mortifications **[todo]** |
+| Weekly | Sacramental confession (`confession`) · One day of corporal mortification, typically Friday (`friday-mortification`) · Saturday Marian devotion (`saturday-mary`) · The circle **[placeholder]** |
+| Monthly | Day of recollection (a half-day silent retreat) **[placeholder]** · Chat with one's director **[placeholder]** |
+| Annually | Multi-day silent retreat (3–5 days) **[placeholder]** · Annual course **[placeholder]** |
+
+Browsable as `collection/opus-dei` ("The Norms of Piety"), which the template pre-pins. Three norms remain unauthored and are carried as `todo` blocks in that collection: **aspirations / presence of God**; an Opus Dei variant of `mental-prayer` using St. Josemaría's fixed preparation and thanksgiving in place of the St. Alphonsus acts the current flow uses; and a **daily** mortification alongside the weekly Friday one.
 
 **Distinctive emphasis.** *Sanctification of work*, *unity of life* (no sacred/secular split), *divine filiation* as the foundation. The norms are non-negotiable; failures are confessed.
 

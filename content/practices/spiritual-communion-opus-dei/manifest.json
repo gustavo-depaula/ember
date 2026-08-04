@@ -1,0 +1,67 @@
+{
+	"id": "spiritual-communion-opus-dei",
+	"icon": "eucharist",
+	"alternativeTo": {
+		"id": "spiritual-communion",
+		"label": {
+			"en-US": "Opus Dei",
+			"pt-BR": "Opus Dei"
+		},
+		"description": {
+			"en-US": "The one-sentence spiritual communion of the *Pocket Prayer Book* — asking to receive Him with Our Lady's purity, humility and love.",
+			"pt-BR": "A comunhão espiritual de uma só frase do *Devocionário* — pedir recebê-Lo com a pureza, a humildade e o amor de Nossa Senhora."
+		}
+	},
+	"source": {
+		"en-US": "Opus Dei *Pocket Prayer Book*, section on Eucharistic adoration. Spanish original: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.*",
+		"pt-BR": "*Devocionário* do Opus Dei, secção da adoração eucarística. Original espanhol: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.*"
+	},
+	"name": {
+		"en-US": "Spiritual Communion (Opus Dei)",
+		"pt-BR": "Comunhão Espiritual (Opus Dei)"
+	},
+	"categories": ["eucharistic", "devotion"],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"description": {
+		"en-US": "A single sentence, made many times a day: the desire to receive Christ with the purity, humility and love of His Mother, and with the spirit and fervour of the saints.",
+		"pt-BR": "Uma só frase, feita muitas vezes ao dia: o desejo de receber Cristo com a pureza, a humildade e o amor de Sua Mãe, e com o espírito e o fervor dos santos."
+	},
+	"history": {
+		"en-US": "Spiritual communion is old — St. Thomas Aquinas treats it as the *votum*, the desire, that already reaches the sacrament's grace, and St. Teresa and St. Alphonsus both urged it constantly. What is proper to the Work is the form: one sentence, short enough to be prayed walking, at a desk, in a queue.\n\nIt is used in two ways. When sacramental Communion is impossible — travel, illness, a day that gives no Mass — it stands in for it. And through an ordinary day it is one of the standard aspirations, a repeated act of desire that keeps the morning's Communion working through the afternoon. St. Josemaría made it the closing prayer of the customary visit to the Blessed Sacrament.",
+		"pt-BR": "A comunhão espiritual é antiga — Santo Tomás de Aquino trata-a como o *votum*, o desejo que já alcança a graça do sacramento, e Santa Teresa e Santo Afonso instavam constantemente a ela. O que é próprio da Obra é a forma: uma frase, curta o bastante para se rezar a caminhar, a uma secretária, numa fila.\n\nUsa-se de dois modos. Quando a Comunhão sacramental é impossível — viagem, doença, um dia que não dá Missa — faz as suas vezes. E ao longo de um dia comum é uma das jaculatórias habituais, um ato repetido de desejo que mantém a Comunhão da manhã a trabalhar pela tarde adiante. São Josemaria fez dela a oração final da visita costumeira ao Santíssimo Sacramento."
+	},
+	"howToPray": {
+		"en-US": "Pray it slowly, meaning the comparison rather than reciting it: with *her* purity, *her* humility, *her* love — because yours will not do, and you are asking to borrow.\n\nMake it several times a day: passing a church, at the start of a difficult task, when you remember that this morning you received Him and have half-forgotten it since. It closes the visit to the Blessed Sacrament, and it is the natural prayer on any day you cannot get to Mass.",
+		"pt-BR": "Reze-a pausadamente, querendo dizer a comparação e não apenas recitá-la: com a pureza *dela*, a humildade *dela*, o amor *dela* — porque os seus não bastam, e você está a pedir emprestado.\n\nFaça-a várias vezes ao dia: ao passar por uma igreja, ao começar uma tarefa difícil, quando se lembrar de que esta manhã O recebeu e desde então quase O esqueceu. Encerra a visita ao Santíssimo Sacramento e é a oração natural em qualquer dia em que não consiga ir à Missa."
+	},
+	"tags": [
+		"opus-dei",
+		"eucharistic",
+		"communion",
+		"aspiration",
+		"josemaria",
+		"daily"
+	],
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "I wish, my Lord and my God, to receive You with the purity, humility and love with which your Most Holy Mother received You, and with the spirit and fervour of the Saints.",
+					"pt-BR": "Quisera, Senhor, receber-Vos com aquela pureza, humildade e devoção com que Vos recebeu a vossa Santíssima Mãe, com o espírito e o fervor dos santos."
+				}
+			}
+		]
+	},
+	"defaults": {
+		"sortOrder": 10,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "ideal"
+			}
+		]
+	}
+}
