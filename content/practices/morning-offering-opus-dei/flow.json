@@ -10,16 +10,17 @@
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "Serviam!",
-				"pt-BR": "Serviam!"
+				"la": "Sérviam!",
+				"en-US": "I will serve!",
+				"pt-BR": "Servirei!"
 			}
-		},
-		{
-			"type": "divider"
 		},
 		{
 			"type": "prayer",
 			"ref": "sign-of-cross"
+		},
+		{
+			"type": "divider"
 		},
 		{
 			"type": "heading",
@@ -36,11 +37,9 @@
 			}
 		},
 		{
-			"type": "divider"
-		},
-		{
 			"type": "prayer",
-			"ref": "offering-to-sacred-heart"
+			"ref": "offering-to-sacred-heart",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
@@ -65,9 +64,13 @@
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "All for the glory of God. *Deo omnis gloria!*",
-				"pt-BR": "Tudo para a glória de Deus. *Deo omnis gloria!*"
+				"la": "Deo omnis glória!",
+				"en-US": "All for the glory of God!",
+				"pt-BR": "Tudo para a glória de Deus!"
 			}
+		},
+		{
+			"type": "divider"
 		},
 		{
 			"type": "prayer",

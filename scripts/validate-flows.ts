@@ -95,6 +95,11 @@ const KNOWN_SECTION_TYPES = new Set([
   'celebration-banner',
   'collapsible',
   'section-marker',
+  'group',
+  'offering',
+  'capture-movement',
+  'capture-resolution',
+  'review-resolution',
 ])
 
 function visit(node: unknown, path: string, ctx: WalkCtx): void {

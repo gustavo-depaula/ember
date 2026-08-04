@@ -1,0 +1,51 @@
+{
+	"id": "new-testament-reading",
+	"icon": "book",
+	"source": {
+		"en-US": "St. Josemaría Escrivá, *Furrow* §672. The reading plan is the continuous New Testament track used by *Bible + Catechism in a Year* — 365 short pericopes, Matthew through Revelation.",
+		"pt-BR": "São Josemaria Escrivá, *Sulco* §672. O plano de leitura é o percurso contínuo do Novo Testamento usado em *Bíblia + Catecismo em um Ano* — 365 perícopes breves, de Mateus ao Apocalipse."
+	},
+	"name": {
+		"en-US": "New Testament Reading",
+		"pt-BR": "Leitura do Novo Testamento"
+	},
+	"categories": ["daily", "formation"],
+	"estimatedMinutes": 5,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tracks": {
+		"nt-reading": "tracks/nt-reading.json"
+	},
+	"description": {
+		"en-US": "A few minutes of the New Testament itself, taken in order, day after day — distinct from the spiritual book. Read a short passage and place yourself inside the scene as one more of the people present.",
+		"pt-BR": "Alguns minutos do próprio Novo Testamento, tomado por ordem, dia após dia — distinto do livro espiritual. Leia uma passagem breve e coloque-se dentro da cena, como mais uma das pessoas presentes."
+	},
+	"history": {
+		"en-US": "In the plan of life the New Testament is read as its own norm, not folded into spiritual reading. The spiritual book forms the mind; this puts you in front of Christ Himself, in the text the Church has always read aloud at her altars.\n\nSt. Josemaría's counsel was concrete about *how*: *I advised you to read the New Testament for some minutes every day, and to enter into each scene and take part in it, as one more of the characters* (*Furrow* §672). The reading is short on purpose — a few verses, taken in order, so that over a year the whole is covered without any day becoming a study session. It is the raw material the morning's mental prayer keeps returning to.",
+		"pt-BR": "No plano de vida, o Novo Testamento lê-se como norma própria, e não dissolvido na leitura espiritual. O livro espiritual forma a inteligência; isto coloca-o diante do próprio Cristo, no texto que a Igreja sempre leu em voz alta nos seus altares.\n\nO conselho de São Josemaria era concreto quanto ao *como*: *Aconselhei-te que lesses todos os dias, durante alguns minutos, o Novo Testamento, e que entrasses em cada cena e nela tomasses parte, como mais um personagem* (*Sulco* §672). A leitura é breve de propósito — alguns versículos, por ordem, de modo que ao longo de um ano se percorra o todo sem que nenhum dia se torne uma sessão de estudo. É a matéria-prima a que a oração mental da manhã volta sempre."
+	},
+	"howToPray": {
+		"en-US": "Five minutes, at a fixed hour. Read today's passage slowly, once.\n\nThen read it again and put yourself in it. Not as a reader — as one of the people standing there. Where are you in the room? What can you see of His face? What would you have said, and what stops you saying it?\n\nDon't study. Don't look for three applications. Take one thing out of it and carry it into the day; if it is worth more, bring it back to the morning's mental prayer tomorrow.\n\nThe track advances one passage a day and covers the whole New Testament in a year. If you miss days, pick up where you left off — the point is continuity, not the calendar.",
+		"pt-BR": "Cinco minutos, a uma hora fixa. Leia a passagem de hoje pausadamente, uma vez.\n\nDepois leia-a de novo e coloque-se dentro dela. Não como leitor — como uma das pessoas ali presentes. Onde está você na sala? O que consegue ver do rosto d'Ele? O que teria dito, e o que o impede de o dizer?\n\nNão estude. Não procure três aplicações. Tire uma só coisa e leve-a consigo pelo dia; se valer mais do que isso, traga-a de volta amanhã à oração mental da manhã.\n\nO percurso avança uma passagem por dia e cobre todo o Novo Testamento num ano. Se faltarem dias, retome onde parou — o que importa é a continuidade, não o calendário."
+	},
+	"tags": [
+		"opus-dei",
+		"scripture",
+		"new-testament",
+		"gospel",
+		"reading",
+		"formation",
+		"daily",
+		"josemaria"
+	],
+	"defaults": {
+		"sortOrder": 11,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"tier": "essential"
+			}
+		]
+	}
+}

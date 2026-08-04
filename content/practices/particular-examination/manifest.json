@@ -1,0 +1,49 @@
+{
+	"id": "particular-examination",
+	"icon": "candle",
+	"source": {
+		"en-US": "Method from St. Ignatius of Loyola, *Spiritual Exercises* nn. 24-31 (*Particular and Daily Examen*). Object of the examination from St. Josemaría Escrivá, *The Way* §241; cf. §235. Placement at midday, after the Angelus, is the custom of Opus Dei's plan of life.",
+		"pt-BR": "Método de Santo Inácio de Loyola, *Exercícios Espirituais* nn. 24-31 (*Exame particular e diário*). Objeto do exame em São Josemaria Escrivá, *Caminho* §241; cf. §235. A colocação ao meio-dia, depois do Angelus, é costume do plano de vida do Opus Dei."
+	},
+	"name": {
+		"en-US": "Particular Examination",
+		"pt-BR": "Exame Particular"
+	},
+	"categories": ["daily", "contemplative"],
+	"estimatedMinutes": 3,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "Two or three minutes at midday on one single point — a defect to uproot or a virtue to grow, chosen with your director and kept for weeks. Distinct from the general examination at night: this one asks about one thing only.",
+		"pt-BR": "Dois ou três minutos ao meio-dia sobre um único ponto — um defeito a arrancar ou uma virtude a crescer, escolhido com o seu diretor espiritual e mantido por semanas. Distinto do exame geral da noite: este pergunta por uma só coisa."
+	},
+	"history": {
+		"en-US": "The particular examen is St. Ignatius's invention, set out at the very start of the *Spiritual Exercises* (nn. 24-31). His structure is three moments and two examinations: on rising, resolve to guard against the one fault; after the midday meal, ask God for light and count how many times you fell, hour by hour; after supper, count again — and at night compare the two counts, and one day against the next. Ignatius even had the retreatant mark the tally with dots on a line, so that amendment could be *seen*.\n\nWhat makes it work is its narrowness. The general examination sweeps the whole day; the particular one asks a single question and can therefore be answered honestly in two minutes. St. Josemaría kept it as a daily norm and fixed its object: *Your particular examination should be directed towards the acquisition of a definite virtue or the rooting out of your predominant defect* (*The Way* §241). The point is not chosen freshly each day — it is settled with your spiritual director and held for weeks or months, until it gives way.",
+		"pt-BR": "O exame particular é invenção de Santo Inácio, exposta logo no início dos *Exercícios Espirituais* (nn. 24-31). A sua estrutura são três momentos e dois exames: ao levantar, propor guardar-se daquela única falta; depois da refeição do meio-dia, pedir luz a Deus e contar quantas vezes se caiu, hora a hora; depois da ceia, contar de novo — e à noite comparar as duas contagens, e um dia com o seguinte. Inácio mandava até marcar a conta com pontos numa linha, para que a emenda se pudesse *ver*.\n\nO que o faz funcionar é a sua estreiteza. O exame geral percorre o dia inteiro; o particular faz uma só pergunta e pode, por isso, ser respondido com honestidade em dois minutos. São Josemaria conservou-o como norma diária e fixou-lhe o objeto: *O teu exame particular há de ir dirigido à aquisição de uma virtude determinada ou ao desenraizamento do defeito dominante* (*Caminho* §241). O ponto não se escolhe de novo a cada dia — assenta-se com o diretor espiritual e mantém-se por semanas ou meses, até ceder."
+	},
+	"howToPray": {
+		"en-US": "Pray it at midday, right after the Angelus, standing or seated wherever you are — it needs two or three minutes, not a chapel.\n\nOne point only. If you find yourself examining three things, you are making the general examination early, not the particular one.\n\n1. Place yourself in God's presence and ask for light on that one point.\n2. Go back over the morning on it alone — not the whole morning, only that. How many times? In what circumstances? Ignatius's counting is not scrupulosity; it is evidence, and evidence is what makes amendment measurable.\n3. Make a brief act of contrition if it went badly, or of thanksgiving if it went well. Both are short.\n4. Set one concrete purpose for the afternoon on the same point.\n\nAt night, the general examination will ask the wider questions. Leave them for then.",
+		"pt-BR": "Reze-o ao meio-dia, logo depois do Angelus, de pé ou sentado onde estiver — precisa de dois ou três minutos, não de uma capela.\n\nUm só ponto. Se você se vir a examinar três coisas, está a fazer cedo o exame geral, e não o particular.\n\n1. Coloque-se na presença de Deus e peça luz sobre aquele único ponto.\n2. Percorra a manhã só quanto a ele — não a manhã inteira, apenas isso. Quantas vezes? Em que circunstâncias? A contagem de Inácio não é escrúpulo; é evidência, e é a evidência que torna a emenda mensurável.\n3. Faça um breve ato de contrição, se correu mal, ou de ação de graças, se correu bem. Ambos são curtos.\n4. Estabeleça um propósito concreto para a tarde sobre o mesmo ponto.\n\nÀ noite, o exame geral fará as perguntas mais amplas. Deixe-as para então."
+	},
+	"tags": [
+		"opus-dei",
+		"examen",
+		"conscience",
+		"ignatian",
+		"josemaria",
+		"midday",
+		"daily",
+		"predominant-fault"
+	],
+	"defaults": {
+		"sortOrder": 8,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"time": "13:00",
+				"tier": "essential"
+			}
+		]
+	}
+}
