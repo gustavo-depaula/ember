@@ -13,7 +13,7 @@ Companion to `docs/design/design-system.md` § Typography (which covers the Ladd
 | Surface | Engine | Prospects |
 |---|---|---|
 | **Book reader** (`features/books/reader/foliate/`) | Real WebKit/Blink DOM inside a WebView (iframe on web) | Excellent — [Justif](https://github.com/lyallcooper/justif) drops in, verified working |
-| **Prayer / practice / Bible** (`PrimitiveBlock`, `PrayerText`, `ChapterContent`) | Native `Text` (UIKit / Android `Layout`) | Closed to Justif. Real wins available, but different ones |
+| **Prayer / practice / Bible** (`PrimitiveBlock`, `PrayerText`, `ChapterContent`) | Native `Text` (UIKit / Android `Layout`) | Closed to Justif — and testing shows it wouldn't want it anyway. The fix is ragged-right |
 
 The good news is that the surface where justification matters most — long-form prose in the Catholic library — is *already* a web renderer. Justif needs no WebView bridge, no "web components on mobile" trick, and no architectural change. It is a script tag in a document we already control.
 
@@ -167,11 +167,62 @@ Same fonts and reader settings as above. Romans 8 (Douay-Rheims, from `content/b
 
 Note that even the continuous-prose column is still *greedily* justified — that's native RN, and no lever changes it. It is better because the paragraph is longer, not because the algorithm improved.
 
+### Prayer flows, and why Justif is the wrong answer here
+
+The reader results made Justif look like the answer everywhere. Tested against prayer flows, it isn't.
+
+Rendered through the real `PracticeFlowView` geometry (`paddingHorizontal: $md` = 16), with the *Aperi Domine* prose prayer and Psalm 3 from `practice/office-preparatory-prayers` and `practice/little-office-benedictine-oblates`:
+
+![Prayer flow: today versus ragged versus Justif](../assets/justification-prayer-flow.webp)
+
+| | Rendered lines |
+|---|---|
+| Today (`justify`) | 35 |
+| Ragged | 35 |
+| Justif | 32 |
+
+Justif does what it promises on the **prose** prayer at the top — even color, three lines saved. But look at the psalm below it. Justif faithfully justifies each verse line, because that's what it was asked to do, and it hyphenates across them: *"I will not fear thousands of the people **sur-** / **rounding** me:"*. A psalm verse hyphenated mid-word is not a refinement; in a breviary it reads as a defect. The ragged column is the one that looks right.
+
+So the rule is about content shape, not algorithm quality: **prose wants Justif, verse wants ragged.** Prayer flows are mostly verse.
+
+### Bilingual side-by-side: the worst typography in the app
+
+`BilingualBlock` in `side-by-side` mode is an `XStack` with `gap="$sm"` (8), two `flex={1}` columns and a 1 px divider. On a 390 px phone inside the flow's 16 px padding, that leaves **each column ~170 px wide** — about 17 characters at the default 22 px EB Garamond. This is the default display mode once a secondary language is set.
+
+![Bilingual side-by-side: today versus ragged versus Justif](../assets/justification-prayer-bilingual.webp)
+
+| | Rendered lines | Units that wrap |
+|---|---|---|
+| Today (`justify`) | 138 | 25 of 28 |
+| Ragged | 138 | 25 of 28 |
+| Justif | 128 | 25 of 28 |
+
+The left column is not a subtle paper cut. At 170 px, justify puts two words on a line with a chasm between them — `mevm········ad`, `Nomen····sanctvm`, `hoc·······Officivm`, `that······divine` — and `intellectvm` sits alone on its own line. 25 of 28 units wrap, so nearly every line in the prayer is affected. This is the single worst-looking text in the app, and it is reachable by anyone who turns on a second language.
+
+Ragged fixes it completely, for free, on every platform.
+
+Justif also improves it a lot — it hyphenates (*benedi-cendvm*, *alie-nis*, *inten-tionis*) and saves 10 lines — but it is **not available on this surface at all**, because prayer flows are native `Text`. And even if it were, it would still be justifying verse and hyphenating psalm lines.
+
+**Conclusion: prayer flows do not want Justif. They want ragged-right.** That is the opposite of the reader conclusion, and it is why the two surfaces need separate decisions rather than one global `textAlign` preference.
+
+### Latin hyphenation is solvable, if we ever need it
+
+Justif bundles 24 languages and **Latin is not one of them** — a real gap for us, since Latin is first-class in the corpus. But it exports the generic Liang hyphenator (`justif/hyphenate/liang`), which takes raw TeX patterns:
+
+```js
+import { createHyphenator } from 'justif/hyphenate/liang'
+const hyphenateLa = createHyphenator({ patterns, leftmin: 2, rightmin: 2 })
+```
+
+Fed [`hyph-la-x-liturgic`](https://github.com/hyphenation/tex-hyphen) (1,955 patterns, 17 KB, **MIT**, by Claudio Beccari and the Monastery of Solesmes — the authority for liturgical Latin), it syllabifies correctly: `be-ne-di-cen-dum`, `co-gi-ta-ti-o-ni-bus`, `mi-se-ri-cor-dia`, `sem-pi-ter-na`, `ex-al-tans`.
+
+Worth knowing for the **book reader**, where we do have Latin prose and Justif does apply. Not worth wiring into prayer flows, which should be ragged anyway.
+
 ---
 
 ## Part 5 — Recommended order of work
 
-1. **Ragged-right for verse-shaped content.** Stop applying `justify` in `PrayerLines` and per-verse `ChapterContent`. Highest ratio of paper-cut-removed to lines-changed, and it needs no dependency.
+1. **Ragged-right for verse-shaped content, and for bilingual side-by-side unconditionally.** Stop applying `justify` in `PrayerLines`, per-verse `ChapterContent`, and every column inside `BilingualBlock`'s side-by-side mode. Highest ratio of paper-cut-removed to lines-changed, needs no dependency, and the 170 px bilingual column is the most visibly broken text in the app.
 2. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`. One line; fixes the worst Android case.
 2b. **Bible as continuous prose** rather than one `<Text>` per verse. Bigger than 1 and 2, worth its own spec — it's the difference between "a verse list" and "a Bible".
 3. **Vendor Justif into the foliate reader.** Guard the footnote `innerHTML` path first, wire `rescan()` to the config path, measure on device.
