@@ -1,5 +1,7 @@
-import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
+
+import { AnimatedPressable } from '@/components/AnimatedPressable'
+import { selectionTick } from '@/lib/haptics'
 
 export function PillSelector<T extends string>({
   label,
@@ -21,9 +23,12 @@ export function PillSelector<T extends string>({
         {options.map((opt) => {
           const selected = value === opt.value
           return (
-            <Pressable
+            <AnimatedPressable
               key={opt.value}
-              onPress={() => onChange(opt.value)}
+              onPress={() => {
+                selectionTick()
+                onChange(opt.value)
+              }}
               accessibilityRole="radio"
               accessibilityLabel={opt.label}
               accessibilityState={{ selected }}
@@ -39,7 +44,7 @@ export function PillSelector<T extends string>({
                   {opt.label}
                 </Text>
               </YStack>
-            </Pressable>
+            </AnimatedPressable>
           )
         })}
       </XStack>
