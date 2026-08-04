@@ -2,14 +2,16 @@
   "id": "little-office-serotina",
   "icon": "prayer",
   "name": {
-    "en-US": "The Holy Office of the Serotina"
+    "en-US": "The Holy Office of the Serotina",
+    "pt-BR": "O Santo Ofício da Serotina"
   },
   "categories": [
     "office"
   ],
   "estimatedMinutes": 6,
   "description": {
-    "en-US": "A traditional little office in honour of The Holy Office of the Serotina."
+    "en-US": "A traditional little office in honour of The Holy Office of the Serotina.",
+    "pt-BR": "As orações vespertinas agostinianas pela comunidade e pelos benfeitores, vivos e falecidos."
   },
   "flowMode": "scroll",
   "completion": "flow-end",
