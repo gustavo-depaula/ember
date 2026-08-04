@@ -12,7 +12,7 @@ import { configure as configureTestingLibrary } from '@testing-library/react'
 // resolve a flow) routinely need longer than that once the full suite is
 // competing for CPU — which showed up as one test failing per run, but a
 // different one each time. Raise the async-util ceiling; genuinely stuck tests
-// still fail on their own (30s) timeout.
+// still fail on the 20s testTimeout in vitest.config.ts.
 configureTestingLibrary({ asyncUtilTimeout: 10_000 })
 import 'fake-indexeddb/auto'
 import { afterEach, beforeAll, vi } from 'vitest'
@@ -439,7 +439,10 @@ vi.mock('@expo/ui/community/bottom-sheet', async () => {
   const React = await import('react')
   return {
     BottomSheet: (props: Record<string, unknown>) =>
-      props.isOpened
+      // Call sites pass `index` (-1 = closed), not `isOpened`; gating on the
+      // latter made every sheet render null, so their content was never
+      // asserted. Accept both.
+      (typeof props.index === 'number' ? (props.index as number) >= 0 : props.isOpened)
         ? React.createElement(
             'div',
             { 'data-testid': 'mock-bottom-sheet' },

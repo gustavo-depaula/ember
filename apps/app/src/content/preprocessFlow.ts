@@ -125,7 +125,7 @@ async function preprocessSection(
         type: 'verses',
         style: 'cento',
         items: section.verses.map((verse) => ({
-          ...(verse.ref ? { num: verse.ref.primary } : {}),
+          ...(verse.ref ? { ref: verse.ref } : {}),
           text: verse.text,
         })),
       }

@@ -233,8 +233,8 @@ function validateFlow(file: string): void {
 /**
  * Validate a flow definition wherever it lives — a standalone flow.json, or
  * inlined under a manifest's `flow` key. `pathPrefix` roots the reported JSON
- * paths, and `dir` is the directory relative paths (fragmentSources) resolve
- * against.
+ * paths; relative paths (fragmentSources) resolve against `file`'s directory,
+ * which is the same practice directory either way.
  */
 function validateFlowBody(
   parsed: Record<string, unknown>,

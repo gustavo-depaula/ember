@@ -19,13 +19,18 @@ type Children = { children?: ReactNode }
 
 const styles = StyleSheet.create({
   backdrop: {
-    ...StyleSheet.absoluteFillObject,
+    // react-native-web's StyleSheet type exposes `absoluteFill` but not
+    // `absoluteFillObject`, so spell the inset out.
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    bottom: 0,
+    left: 0,
     backgroundColor: 'rgba(0,0,0,0.35)',
     justifyContent: 'flex-end',
     zIndex: 1000,
   },
   sheet: {
-    backgroundColor: 'white',
     maxHeight: '90%',
     borderTopLeftRadius: 16,
     borderTopRightRadius: 16,
@@ -51,18 +56,22 @@ export function BottomSheet({
   isOpened,
   isPresented,
   onClose,
+  backgroundStyle,
 }: Children & {
   index?: number
   isOpened?: boolean
   isPresented?: boolean
   onClose?: () => void
+  backgroundStyle?: object
 }) {
   const open = index !== undefined ? index >= 0 : (isOpened ?? isPresented ?? false)
   if (!open) return null
   return (
     <View style={styles.backdrop}>
       <Pressable style={StyleSheet.absoluteFill} onPress={onClose} />
-      <View style={styles.sheet}>
+      {/* Call sites pass the themed surface colour; without it every
+          sheet renders white in dark mode. */}
+      <View style={[styles.sheet, { backgroundColor: 'white' }, backgroundStyle]}>
         <ScrollView>{children}</ScrollView>
       </View>
     </View>

@@ -1837,6 +1837,65 @@
                           }
                         }
                       ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "It is said up to this place daily from Easter Sunday to the feast of the Ascension at all the Hours except at Vespers and Compline and Prime. On the night of the Ascension these verses are added:—",
+                        "pt-BR": "Diz-se até aqui diariamente, do Domingo de Páscoa até a festa da Ascensão, em todas as Horas, exceto nas Vésperas, nas Completas e na Prima. Na noite da Ascensão acrescentam-se estes versículos:"
+                      }
+                    },
+                    {
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:33",
+                            "pt-BR": "Sl 67,33"
+                          },
+                          "text": {
+                            "en-US": "Sing ye to God, ye kingdoms of the earth: sing ye to the Lord: sing ye to God.",
+                            "pt-BR": "Cantai a Deus, ó reinos da terra; cantai ao Senhor; cantai a Deus."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:34",
+                            "pt-BR": "Sl 67,34"
+                          },
+                          "text": {
+                            "en-US": "Who mounteth above the heaven of heavens to the east. Behold He will give to His voice the voice of power.",
+                            "pt-BR": "Que sobe acima do céu dos céus, para o oriente. Eis que dará à sua voz uma voz de poder."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:35",
+                            "pt-BR": "Sl 67,35"
+                          },
+                          "text": {
+                            "en-US": "Give ye glory to God for Israel: His magnificence and His power is in the clouds.",
+                            "pt-BR": "Dai glória a Deus por Israel; sua magnificência e seu poder estão nas nuvens."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:36",
+                            "pt-BR": "Sl 67,36"
+                          },
+                          "text": {
+                            "en-US": "God is wonderful in His saints: the God of Israel is He who will give power and strength to His people. Blessed be God.",
+                            "pt-BR": "Deus é admirável em seus santos; o Deus de Israel é quem dará poder e força a seu povo. Bendito seja Deus."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "And note that this Psalm is said daily from the Ascension of the Lord until the octave of Whitsunday with the foregoing versicles at Matins and Tierce and Sext and Nones: \"Glory be to the Father,\" being said where \"Blessed be God\" is said, and not elsewhere. Also note that it is said in the same manner only at Matins on Sundays and the principal feasts, from the octave of Whitsunday until Maundy Thursday because on that day the Lord ate the Pasch with His disciples, or the other Psalm may be said at Matins or at Vespers when one wishes, to wit, \"I will extol Thee, O Lord,\" as it is in the Psalter, and this from Easter Sunday to the feast of the Ascension and not longer.",
+                        "pt-BR": "E note-se que este Salmo é dito diariamente, desde a Ascensão do Senhor até a oitava de Pentecostes, com os versículos precedentes, nas Matinas, na Terça, na Sexta e na Noa, dizendo-se \"Glória ao Pai\" onde se diz \"Bendito seja Deus\", e não em outro lugar. Note-se também que se diz da mesma maneira, somente nas Matinas, nos domingos e nas festas principais, desde a oitava de Pentecostes até a Quinta-feira Santa, porque naquele dia o Senhor comeu a Páscoa com seus discípulos; ou pode-se dizer o outro Salmo nas Matinas ou nas Vésperas, quando se quiser, a saber: \"Exaltar-vos-ei, Senhor\", como está no Saltério, e isto do Domingo de Páscoa até a festa da Ascensão, e não mais."
+                      }
                     }
                   ]
                 },
@@ -1976,6 +2035,45 @@
                           }
                         }
                       ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "It is said up to this place daily from Good Friday until the feast of the Ascension. On the feast of the Ascension, however, these versicles are added over and above: And He ascended unto heaven; and sitteth on the right-hand of the most Holy Father in heaven.",
+                        "pt-BR": "Diz-se até aqui diariamente, desde a Sexta-feira Santa até a festa da Ascensão. Na festa da Ascensão, porém, acrescentam-se ainda estes versículos: E subiu ao céu, e está sentado à direita do santíssimo Pai nos céus."
+                      }
+                    },
+                    {
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:12",
+                            "pt-BR": "Sl 56,12"
+                          },
+                          "text": {
+                            "en-US": "Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.",
+                            "pt-BR": "Sede exaltado, ó Deus, acima dos céus, e vossa glória sobre toda a terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:13",
+                            "pt-BR": "Sl 95,13"
+                          },
+                          "text": {
+                            "en-US": "And we know that He cometh: for He will come to judge justice.",
+                            "pt-BR": "E sabemos que ele vem, porque virá julgar com justiça."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Note that from the Ascension until the Advent of the Lord this Psalm is said daily in the same manner, namely: \"O clap your hands,\" with the foregoing versicles, \"Glory be to the Father\" being said where the Psalm ends, namely, \"for He will come to judge with justice.\"",
+                        "pt-BR": "Note-se que, desde a Ascensão até o Advento do Senhor, este Salmo é dito diariamente da mesma maneira, a saber: \"Batei palmas\", com os versículos precedentes, dizendo-se \"Glória ao Pai\" onde termina o Salmo, a saber: \"porque virá julgar com justiça\"."
+                      }
                     }
                   ]
                 }
@@ -2247,6 +2345,65 @@
                           }
                         }
                       ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "It is said up to this place daily from Easter Sunday to the feast of the Ascension at all the Hours except at Vespers and Compline and Prime. On the night of the Ascension these verses are added:—",
+                        "pt-BR": "Diz-se até aqui diariamente, do Domingo de Páscoa até a festa da Ascensão, em todas as Horas, exceto nas Vésperas, nas Completas e na Prima. Na noite da Ascensão acrescentam-se estes versículos:"
+                      }
+                    },
+                    {
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:33",
+                            "pt-BR": "Sl 67,33"
+                          },
+                          "text": {
+                            "en-US": "Sing ye to God, ye kingdoms of the earth: sing ye to the Lord: sing ye to God.",
+                            "pt-BR": "Cantai a Deus, ó reinos da terra; cantai ao Senhor; cantai a Deus."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:34",
+                            "pt-BR": "Sl 67,34"
+                          },
+                          "text": {
+                            "en-US": "Who mounteth above the heaven of heavens to the east. Behold He will give to His voice the voice of power.",
+                            "pt-BR": "Que sobe acima do céu dos céus, para o oriente. Eis que dará à sua voz uma voz de poder."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:35",
+                            "pt-BR": "Sl 67,35"
+                          },
+                          "text": {
+                            "en-US": "Give ye glory to God for Israel: His magnificence and His power is in the clouds.",
+                            "pt-BR": "Dai glória a Deus por Israel; sua magnificência e seu poder estão nas nuvens."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 67:36",
+                            "pt-BR": "Sl 67,36"
+                          },
+                          "text": {
+                            "en-US": "God is wonderful in His saints: the God of Israel is He who will give power and strength to His people. Blessed be God.",
+                            "pt-BR": "Deus é admirável em seus santos; o Deus de Israel é quem dará poder e força a seu povo. Bendito seja Deus."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "And note that this Psalm is said daily from the Ascension of the Lord until the octave of Whitsunday with the foregoing versicles at Matins and Tierce and Sext and Nones: \"Glory be to the Father,\" being said where \"Blessed be God\" is said, and not elsewhere. Also note that it is said in the same manner only at Matins on Sundays and the principal feasts, from the octave of Whitsunday until Maundy Thursday because on that day the Lord ate the Pasch with His disciples, or the other Psalm may be said at Matins or at Vespers when one wishes, to wit, \"I will extol Thee, O Lord,\" as it is in the Psalter, and this from Easter Sunday to the feast of the Ascension and not longer.",
+                        "pt-BR": "E note-se que este Salmo é dito diariamente, desde a Ascensão do Senhor até a oitava de Pentecostes, com os versículos precedentes, nas Matinas, na Terça, na Sexta e na Noa, dizendo-se \"Glória ao Pai\" onde se diz \"Bendito seja Deus\", e não em outro lugar. Note-se também que se diz da mesma maneira, somente nas Matinas, nos domingos e nas festas principais, desde a oitava de Pentecostes até a Quinta-feira Santa, porque naquele dia o Senhor comeu a Páscoa com seus discípulos; ou pode-se dizer o outro Salmo nas Matinas ou nas Vésperas, quando se quiser, a saber: \"Exaltar-vos-ei, Senhor\", como está no Saltério, e isto do Domingo de Páscoa até a festa da Ascensão, e não mais."
+                      }
                     }
                   ]
                 },
@@ -3022,6 +3179,45 @@
                           }
                         }
                       ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "It is said up to this place daily from Good Friday until the feast of the Ascension. On the feast of the Ascension, however, these versicles are added over and above: And He ascended unto heaven; and sitteth on the right-hand of the most Holy Father in heaven.",
+                        "pt-BR": "Diz-se até aqui diariamente, desde a Sexta-feira Santa até a festa da Ascensão. Na festa da Ascensão, porém, acrescentam-se ainda estes versículos: E subiu ao céu, e está sentado à direita do santíssimo Pai nos céus."
+                      }
+                    },
+                    {
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:12",
+                            "pt-BR": "Sl 56,12"
+                          },
+                          "text": {
+                            "en-US": "Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.",
+                            "pt-BR": "Sede exaltado, ó Deus, acima dos céus, e vossa glória sobre toda a terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:13",
+                            "pt-BR": "Sl 95,13"
+                          },
+                          "text": {
+                            "en-US": "And we know that He cometh: for He will come to judge justice.",
+                            "pt-BR": "E sabemos que ele vem, porque virá julgar com justiça."
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rubric",
+                      "text": {
+                        "en-US": "Note that from the Ascension until the Advent of the Lord this Psalm is said daily in the same manner, namely: \"O clap your hands,\" with the foregoing versicles, \"Glory be to the Father\" being said where the Psalm ends, namely, \"for He will come to judge with justice.\"",
+                        "pt-BR": "Note-se que, desde a Ascensão até o Advento do Senhor, este Salmo é dito diariamente da mesma maneira, a saber: \"Batei palmas\", com os versículos precedentes, dizendo-se \"Glória ao Pai\" onde termina o Salmo, a saber: \"porque virá julgar com justiça\"."
+                      }
                     }
                   ]
                 }

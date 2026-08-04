@@ -52,9 +52,16 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
           <BilingualBlock
             key={`c-${i}`}
             content={item.text}
-            renderText={(text) => (
+            renderText={(text, side) => (
               <PrayerText>
-                {item.num !== undefined && <VerseRef value={String(item.num)} />}
+                {item.ref && (
+                  <VerseRef
+                    value={
+                      (side === 'secondary' ? item.ref.secondary : item.ref.primary) ??
+                      item.ref.primary
+                    }
+                  />
+                )}
                 {text}
               </PrayerText>
             )}
