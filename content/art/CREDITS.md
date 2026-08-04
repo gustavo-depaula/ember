@@ -62,3 +62,18 @@ the generation prompt is recorded for provenance.
 - **practice/intimita-divina** → `meditation-intimita.jpg` — AI-generated (no PD source). Prompt: "Christ, just taken from the cross, leaning down to tenderly embrace a kneeling Carmelite friar in brown habit and white mantle, the saint's face pressed to Christ's shoulder in loving union, deep darkness behind, a faint cross above, tender mystical intimacy — classical European devotional oil painting, late Baroque (c. 1650-1720), warm chiaroscuro, single soft light source, deep shadowed background, restrained gilded highlights, fine canvas texture and craquelure, museum altarpiece quality, reverent contemplative mood, vertical 3:4 composition. No text, no lettering, no caption, no signature, no watermark, no frame, no modern objects."
 - **practice/patristic-reading** → `meditation-patristic.jpg` — AI-generated (no PD source). Prompt: "Four venerable early Church Fathers in rich ecclesiastical robes gathered around a lectern with great open books, gesturing in solemn theological discourse, golden light from above, clouds and faint cherubim at the upper margin, sacred scholarly grandeur in the spirit of a Renaissance fresco — classical European devotional oil painting, late Baroque (c. 1650-1720), warm chiaroscuro, single soft light source, deep shadowed background, restrained gilded highlights, fine canvas texture and craquelure, museum altarpiece quality, reverent contemplative mood, vertical 3:4 composition. No text, no lettering, no caption, no signature, no watermark, no frame, no modern objects."
 - **practice/opus-dei-meditation** → `meditation-opus-dei.jpg` — AI-generated (no PD source). Prompt: "Christ kneeling alone in fervent mental prayer in the garden of Gethsemane at first light, hands clasped and face raised toward a faint heavenly glow, an olive grove and a sleeping disciple dim in the background, a chalice barely visible on the rock, profound contemplative surrender — classical European devotional oil painting, late Baroque (c. 1650-1720), warm chiaroscuro, single soft light source, deep shadowed background, restrained gilded highlights, fine canvas texture and craquelure, museum altarpiece quality, reverent contemplative mood, vertical 3:4 composition. No text, no lettering, no caption, no signature, no watermark, no frame, no modern objects."
+
+## Formation readings (onboarding)
+
+Plates from the *Catéchisme en Images* (Maison de la Bonne Presse, Paris), composed
+under the pontificate of St Pius X and already carried in the corpus as
+`book/bonne-presse-catechism-in-pictures`. Public domain. Copied here so the reading
+choices can be offered with art the same way the traditions are, without a book-manifest
+fetch. Rendered `contain` — each is a whole page, and cropping one leaves a fragment.
+
+- **reading/catechetical-formation** → `catechism-plate-01.jpg` — Plate 1, *Introduction* (Public domain).
+- **reading/compendium** → `catechism-plate-02.jpg` — Plate 2, *The Trinity* (Public domain).
+- **reading/ccc** → `catechism-plate-26.jpg` — Plate 26, *The Decalogue* (Public domain).
+- **reading/pius-x-catechism** → `catechism-plate-52.jpg` — Plate 52, *Prayer* (Public domain).
+- **reading/pius-x-greater-catechism** → `catechism-plate-20.jpg` — Plate 20, *The Eucharist* (Public domain).
+- **reading/trent-catechism** → `catechism-plate-05.jpg` — Plate 5, *The Redemption* (Public domain).

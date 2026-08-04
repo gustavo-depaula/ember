@@ -1,15 +1,13 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { YStack } from 'tamagui'
 
-import { PillSelector } from '@/components/PillSelector'
 import {
+  ArtQuestionDeck,
   completeOnboarding,
+  type DeckQuestion,
   type FormationStage,
   nextRoute,
-  OnboardingScaffold,
   type PrayerStage,
-  stepProgress,
   type TimeAvailable,
   useOnboardingState,
 } from '@/features/onboarding'
@@ -19,51 +17,52 @@ export default function OnboardingProfilerScreen() {
   const router = useRouter()
   const { prayerStage, formationStage, time, setAnswers } = useOnboardingState()
 
-  const prayerOptions: { value: PrayerStage; label: string }[] = [
-    { value: 'new', label: t('onboarding.profiler.prayer.new') },
-    { value: 'some', label: t('onboarding.profiler.prayer.some') },
-    { value: 'experienced', label: t('onboarding.profiler.prayer.experienced') },
-  ]
-  const formationOptions: { value: FormationStage; label: string }[] = [
-    { value: 'new', label: t('onboarding.profiler.formation.new') },
-    { value: 'some', label: t('onboarding.profiler.formation.some') },
-    { value: 'formed', label: t('onboarding.profiler.formation.formed') },
-  ]
-  const timeOptions: { value: TimeAvailable; label: string }[] = [
-    { value: 'short', label: t('onboarding.profiler.time.short') },
-    { value: 'medium', label: t('onboarding.profiler.time.medium') },
-    { value: 'long', label: t('onboarding.profiler.time.long') },
+  // One painting per question — a soul at prayer, the teaching doctor, the
+  // day's own light.
+  const questions: DeckQuestion<PrayerStage | FormationStage | TimeAvailable>[] = [
+    {
+      artId: 'collection/carmelite',
+      marker: t('onboarding.profiler.marker'),
+      question: t('onboarding.profiler.prayer.question'),
+      value: prayerStage,
+      onAnswer: (v) => setAnswers({ prayerStage: v as PrayerStage }),
+      answers: [
+        { value: 'new', label: t('onboarding.profiler.prayer.new') },
+        { value: 'some', label: t('onboarding.profiler.prayer.some') },
+        { value: 'experienced', label: t('onboarding.profiler.prayer.experienced') },
+      ],
+    },
+    {
+      artId: 'collection/thomas-aquinas',
+      marker: t('onboarding.profiler.marker'),
+      question: t('onboarding.profiler.formation.question'),
+      value: formationStage,
+      onAnswer: (v) => setAnswers({ formationStage: v as FormationStage }),
+      answers: [
+        { value: 'new', label: t('onboarding.profiler.formation.new') },
+        { value: 'some', label: t('onboarding.profiler.formation.some') },
+        { value: 'formed', label: t('onboarding.profiler.formation.formed') },
+      ],
+    },
+    {
+      artId: 'collection/dies-sunday',
+      marker: t('onboarding.profiler.marker'),
+      question: t('onboarding.profiler.time.question'),
+      value: time,
+      onAnswer: (v) => setAnswers({ time: v as TimeAvailable }),
+      answers: [
+        { value: 'short', label: t('onboarding.profiler.time.short') },
+        { value: 'medium', label: t('onboarding.profiler.time.medium') },
+        { value: 'long', label: t('onboarding.profiler.time.long') },
+      ],
+    },
   ]
 
   return (
-    <OnboardingScaffold
-      marker={t('onboarding.profiler.marker')}
-      title={t('onboarding.profiler.title')}
-      subtitle={t('onboarding.profiler.subtitle')}
-      progress={stepProgress('profiler')}
-      onContinue={() => router.push(nextRoute('profiler'))}
+    <ArtQuestionDeck
+      questions={questions}
+      onDone={() => router.push(nextRoute('profiler'))}
       onSkip={completeOnboarding}
-    >
-      <YStack gap="$lg">
-        <PillSelector
-          label={t('onboarding.profiler.prayer.question')}
-          options={prayerOptions}
-          value={prayerStage ?? ('' as PrayerStage)}
-          onChange={(v) => setAnswers({ prayerStage: v })}
-        />
-        <PillSelector
-          label={t('onboarding.profiler.formation.question')}
-          options={formationOptions}
-          value={formationStage ?? ('' as FormationStage)}
-          onChange={(v) => setAnswers({ formationStage: v })}
-        />
-        <PillSelector
-          label={t('onboarding.profiler.time.question')}
-          options={timeOptions}
-          value={time ?? ('' as TimeAvailable)}
-          onChange={(v) => setAnswers({ time: v })}
-        />
-      </YStack>
-    </OnboardingScaffold>
+    />
   )
 }

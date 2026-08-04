@@ -2,10 +2,10 @@ import type { ContentLanguage } from '@ember/content-engine'
 import { useRouter } from 'expo-router'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { StyleSheet } from 'react-native'
 import { XStack, YStack } from 'tamagui'
 
-import { AnimatedCheckbox } from '@/components/AnimatedCheckbox'
-import { PillSelector } from '@/components/PillSelector'
+import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { Typography } from '@/components/typography'
 import {
   completeOnboarding,
@@ -18,6 +18,13 @@ import { supportedLanguages } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const allContentLanguages: ContentLanguage[] = ['en-US', 'pt-BR', 'la']
+
+// Each tongue names itself — the way a missal's own title page would.
+const endonyms: Record<ContentLanguage, string> = {
+  'en-US': 'English',
+  'pt-BR': 'Português',
+  la: 'Latina',
+}
 
 export default function OnboardingLanguageScreen() {
   const { t } = useTranslation()
@@ -52,6 +59,8 @@ export default function OnboardingLanguageScreen() {
     router.push(nextRoute('language'))
   }
 
+  const speaksIn = supportedLanguages.find((l) => l.code === language)
+
   return (
     <OnboardingScaffold
       marker={t('onboarding.language.marker')}
@@ -61,43 +70,112 @@ export default function OnboardingLanguageScreen() {
       onContinue={persistAndAdvance}
       onSkip={completeOnboarding}
     >
-      <YStack gap="$lg">
-        <PillSelector
-          label={t('onboarding.language.interface')}
-          options={supportedLanguages.map((l) => ({ value: l.code, label: l.label }))}
-          value={language}
-          onChange={setLanguage}
-        />
+      <YStack gap="$xl">
+        <Section label={t('onboarding.language.interface')}>
+          {supportedLanguages.map((l) => (
+            <ChoiceLine
+              key={l.code}
+              label={endonyms[l.code as ContentLanguage] ?? l.label}
+              chosen={l.code === language}
+              onPress={() => {
+                selectionTick()
+                setLanguage(l.code)
+              }}
+            />
+          ))}
+        </Section>
 
-        <YStack gap="$sm">
-          <Typography variant="interface" fontSize="$2">
-            {t('onboarding.language.known')}
-          </Typography>
-          <Typography variant="whisper">{t('onboarding.language.knownHint')}</Typography>
-          <YStack gap="$xs" paddingTop="$xs">
-            {allContentLanguages.map((lang) => {
-              const checked = known.has(lang) || lang === interfaceContent
-              const locked = lang === interfaceContent
-              return (
-                <XStack
-                  key={lang}
-                  alignItems="center"
-                  gap="$md"
-                  paddingVertical="$sm"
-                  opacity={locked ? 0.7 : 1}
-                >
-                  <AnimatedCheckbox
-                    checked={checked}
-                    onToggle={() => toggle(lang)}
-                    accessibilityLabel={t(`languages.${lang}`)}
-                  />
-                  <Typography variant="interface">{t(`languages.${lang}`)}</Typography>
-                </XStack>
-              )
-            })}
-          </YStack>
-        </YStack>
+        <Section
+          label={t('onboarding.language.known')}
+          hint={t('onboarding.language.knownHint', { language: speaksIn?.label ?? '' })}
+        >
+          {allContentLanguages.map((lang) => (
+            <ChoiceLine
+              key={lang}
+              label={endonyms[lang]}
+              chosen={known.has(lang) || lang === interfaceContent}
+              locked={lang === interfaceContent}
+              onPress={() => toggle(lang)}
+            />
+          ))}
+        </Section>
       </YStack>
     </OnboardingScaffold>
+  )
+}
+
+function Section({
+  label,
+  hint,
+  children,
+}: {
+  label: string
+  hint?: string
+  children: React.ReactNode
+}) {
+  return (
+    <YStack gap="$sm">
+      <Typography
+        variant="label"
+        tone="muted"
+        textTransform="uppercase"
+        letterSpacing={1.5}
+        fontSize="$1"
+      >
+        {label}
+      </Typography>
+      {hint ? <Typography variant="whisper">{hint}</Typography> : null}
+      <YStack paddingTop="$xs">{children}</YStack>
+    </YStack>
+  )
+}
+
+/** A tongue as a line to tap, marked with a fleuron when it's yours. */
+function ChoiceLine({
+  label,
+  chosen,
+  locked = false,
+  onPress,
+}: {
+  label: string
+  chosen: boolean
+  locked?: boolean
+  onPress: () => void
+}) {
+  return (
+    <AnimatedPressable
+      onPress={locked ? undefined : onPress}
+      accessibilityRole="radio"
+      accessibilityState={{ selected: chosen, disabled: locked }}
+      accessibilityLabel={label}
+    >
+      <XStack
+        alignItems="center"
+        gap="$sm"
+        paddingVertical="$sm"
+        borderBottomWidth={StyleSheet.hairlineWidth}
+        borderBottomColor="$borderColor"
+        opacity={locked ? 0.75 : 1}
+      >
+        <Typography
+          variant="ceremonial"
+          fontSize={16}
+          lineHeight={26}
+          width={22}
+          opacity={chosen ? 1 : 0}
+        >
+          ✦
+        </Typography>
+        <Typography
+          variant="section-title"
+          fontSize={24}
+          lineHeight={32}
+          color={chosen ? '$accent' : undefined}
+          opacity={chosen ? 1 : 0.7}
+        >
+          {label}
+        </Typography>
+      </XStack>
+    </AnimatedPressable>
   )
 }

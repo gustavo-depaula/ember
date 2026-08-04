@@ -1,17 +1,23 @@
 import { useRouter } from 'expo-router'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Text, XStack, YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components/AnimatedPressable'
-import { Card } from '@/components/Card'
 import { Typography } from '@/components/typography'
 import { createProgramCursor } from '@/db/repositories/cursors'
 import { saveItem } from '@/db/repositories/savedItems'
-import { blockInk, toneByIndex } from '@/features/explore/bgColor'
+import {
+  type ArtChoice,
+  ArtChoiceCard,
+  ArtChoiceFeatureCard,
+} from '@/features/explore/ArtChoiceCard'
+import { artFor } from '@/features/explore/artMap'
+import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import {
   completeOnboarding,
   type FormationOption,
+  type FormationOptionId,
   formationOptions,
   nextRoute,
   OnboardingScaffold,
@@ -30,26 +36,20 @@ function tagKey(opt: FormationOption): string {
   return 'onboarding.formation.tag.program'
 }
 
-/** A spine — the jewel-tone ground and versal the app falls back to when a work has no painting. */
-function Spine({ index, label }: { index: number; label: string }) {
-  // Keyed on position, not the id: these ids are short and similar enough that
-  // the id hash lands them all on the same tone.
-  const tone = toneByIndex(index)
-  return (
-    <YStack
-      width={56}
-      height={78}
-      borderRadius="$sm"
-      overflow="hidden"
-      backgroundColor={tone.from}
-      alignItems="center"
-      justifyContent="center"
-    >
-      <Text fontFamily="$title" fontSize={40} lineHeight={46} color={blockInk} opacity={0.4}>
-        {label.trim().charAt(0).toUpperCase() || '✠'}
-      </Text>
-    </YStack>
-  )
+/**
+ * A reading offered exactly as a tradition is. The art is a *Catéchisme en
+ * Images* plate — a whole page, so it sits framed on its jewel tone rather than
+ * cropped to the card.
+ */
+function useReadingChoice(id: FormationOptionId): ArtChoice {
+  const { t } = useTranslation()
+  return {
+    title: t(`onboarding.formation.options.${id}.name`),
+    description: t(`onboarding.formation.options.${id}.desc`),
+    image: artFor(`reading/${id}`),
+    tone: toneByIndex(toneIndexForId(id)),
+    fit: 'cover',
+  }
 }
 
 export default function OnboardingFormationScreen() {
@@ -60,8 +60,11 @@ export default function OnboardingFormationScreen() {
   const createPractice = useCreatePractice()
 
   const recommended = recommendFormation({ prayerStage, formationStage, time })
-  const [selected, setSelected] = useState(recommended)
+  const [selected, setSelected] = useState<FormationOptionId>(recommended)
   const busy = enableSlots.isPending || createPractice.isPending
+
+  const featured = formationOptions.find((o) => o.id === recommended)
+  const others = formationOptions.filter((o) => o.id !== recommended)
 
   async function enroll(opt: FormationOption) {
     if (opt.kind === 'program-enroll') {
@@ -102,57 +105,87 @@ export default function OnboardingFormationScreen() {
       continueDisabled={busy}
       onSkip={completeOnboarding}
     >
-      <YStack gap="$md">
-        {formationOptions.map((opt, index) => {
-          const isSelected = opt.id === selected
-          const name = t(`onboarding.formation.options.${opt.id}.name`)
-          return (
-            <AnimatedPressable
-              key={opt.id}
-              onPress={() => {
-                selectionTick()
-                setSelected(opt.id)
-              }}
-              accessibilityRole="radio"
-              accessibilityState={{ selected: isSelected }}
-              accessibilityLabel={name}
-            >
-              <Card ornate={isSelected}>
-                <XStack gap="$md" alignItems="center">
-                  <Spine index={index} label={name} />
-                  <YStack flex={1} gap="$xs">
-                    <Typography
-                      variant="label"
-                      fontSize="$3"
-                      color={isSelected ? '$accent' : undefined}
-                    >
-                      {name}
-                    </Typography>
-                    <Typography variant="whisper" fontSize="$1">
-                      {t(`onboarding.formation.options.${opt.id}.desc`)}
-                    </Typography>
-                    <XStack gap="$sm" alignItems="center" paddingTop={2}>
-                      <Typography
-                        variant="reference"
-                        textTransform="uppercase"
-                        letterSpacing={1.2}
-                        color={isSelected ? '$accent' : undefined}
-                      >
-                        {t(tagKey(opt))}
-                      </Typography>
-                      {opt.id === recommended ? (
-                        <Typography variant="reference" color="$accent">
-                          · {t('onboarding.formation.recommended')}
-                        </Typography>
-                      ) : null}
-                    </XStack>
-                  </YStack>
-                </XStack>
-              </Card>
-            </AnimatedPressable>
-          )
-        })}
+      <YStack gap="$xl">
+        {featured ? (
+          <Reading
+            opt={featured}
+            featured
+            selected={selected === featured.id}
+            onSelect={setSelected}
+          />
+        ) : null}
+
+        <YStack gap="$md">
+          <Typography
+            variant="label"
+            tone="muted"
+            textTransform="uppercase"
+            letterSpacing={1.5}
+            fontSize="$1"
+          >
+            {t('onboarding.formation.otherReadings')}
+          </Typography>
+          <XStack flexWrap="wrap" justifyContent="space-between" rowGap="$lg">
+            {others.map((opt) => (
+              <YStack key={opt.id} width="48%">
+                <Reading opt={opt} selected={selected === opt.id} onSelect={setSelected} />
+              </YStack>
+            ))}
+          </XStack>
+        </YStack>
       </YStack>
     </OnboardingScaffold>
+  )
+}
+
+function Reading({
+  opt,
+  featured = false,
+  selected,
+  onSelect,
+}: {
+  opt: FormationOption
+  featured?: boolean
+  selected: boolean
+  onSelect: (id: FormationOptionId) => void
+}) {
+  const { t } = useTranslation()
+  const choice = useReadingChoice(opt.id)
+
+  return (
+    <AnimatedPressable
+      onPress={() => {
+        selectionTick()
+        onSelect(opt.id)
+      }}
+      accessibilityRole="radio"
+      accessibilityState={{ selected }}
+      accessibilityLabel={choice.title}
+    >
+      {featured ? (
+        <ArtChoiceFeatureCard
+          choice={choice}
+          selected={selected}
+          // A plate is a whole page on a light ground — its name belongs beneath
+          // it, not set over it in cream.
+          overlay={false}
+          aspectRatio={1.15}
+          marker={`${t(tagKey(opt))} · ${
+            selected ? t('onboarding.formation.chosen') : t('onboarding.formation.recommended')
+          }`}
+        />
+      ) : (
+        <ArtChoiceCard
+          choice={choice}
+          selected={selected}
+          aspectRatio={1.35}
+          marker={t(tagKey(opt))}
+          // A catechism's full title is long — hero size breaks it mid-word in
+          // a two-up tile.
+          titleSize={20}
+          titleLineHeight={26}
+        />
+      )}
+    </AnimatedPressable>
   )
 }

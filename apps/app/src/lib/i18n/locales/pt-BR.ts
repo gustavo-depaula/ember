@@ -1446,10 +1446,11 @@ export default {
       subtitle: 'Você pode mudar tudo isso depois nas Configurações.',
       interface: 'Idioma do app',
       known: 'Idiomas que você lê',
-      knownHint: 'Escolha todos os idiomas que você lê — as orações podem aparecer lado a lado.',
+      knownHint: 'As orações podem aparecer lado a lado em qualquer língua que você leia.',
     },
     profiler: {
       marker: 'Segundo',
+      next: 'Próxima',
       title: 'Onde você está?',
       subtitle:
         'Algumas perguntas simples para sugerirmos um bom ponto de partida. Nada é definitivo.',
@@ -1487,6 +1488,8 @@ export default {
       subtitle:
         'Uma leitura de formação para aprender a fé. Sugerimos uma — escolha a que combina com você.',
       recommended: 'Sugerido para você',
+      chosen: 'Sua leitura',
+      otherReadings: 'Outras leituras',
       tag: {
         program: 'Plano diário',
         book: 'Leia no seu ritmo',

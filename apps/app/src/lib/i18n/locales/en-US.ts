@@ -1437,10 +1437,11 @@ export default {
       subtitle: 'You can change any of this later in Settings.',
       interface: 'App language',
       known: 'Languages you read',
-      knownHint: 'Pick every language you can read — prayers can show side by side.',
+      knownHint: 'Prayers can show side by side in any tongue you read.',
     },
     profiler: {
       marker: 'Second',
+      next: 'Next',
       title: 'Where are you?',
       subtitle: 'A few gentle questions so we can suggest a good starting point. Nothing is fixed.',
       prayer: {
@@ -1477,6 +1478,8 @@ export default {
       subtitle:
         'A formation reading to learn the faith. We suggest one — choose whichever fits you.',
       recommended: 'Suggested for you',
+      chosen: 'Your reading',
+      otherReadings: 'Other readings',
       tag: {
         program: 'Daily plan',
         book: 'Read at your pace',

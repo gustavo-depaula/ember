@@ -75,11 +75,21 @@ const artFiles: Record<string, string> = {
   'practice/intimita-divina': 'meditation-intimita.jpg',
   'practice/opus-dei-meditation': 'meditation-opus-dei.jpg',
   'practice/patristic-reading': 'meditation-patristic.jpg',
+  // Formation readings (onboarding). The Bonne Presse *Catéchisme en Images*
+  // plates — a catechism taught in pictures, composed under St Pius X — stand in
+  // for the catechisms themselves, which have no painting of their own. Whole
+  // pages, so they're rendered `contain` rather than cropped.
+  'reading/catechetical-formation': 'catechism-plate-01.jpg',
+  'reading/compendium': 'catechism-plate-02.jpg',
+  'reading/ccc': 'catechism-plate-26.jpg',
+  'reading/pius-x-catechism': 'catechism-plate-52.jpg',
+  'reading/pius-x-greater-catechism': 'catechism-plate-20.jpg',
+  'reading/trent-catechism': 'catechism-plate-05.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches
 // by URL, so the `?v` query busts the stale disk-cached image.
-const artVersion = 4
+const artVersion = 5
 
 export function artFor(id: string | undefined): ImageSource | undefined {
   if (!id) return undefined
