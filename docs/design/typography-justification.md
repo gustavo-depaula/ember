@@ -13,7 +13,7 @@ Companion to `docs/design/design-system.md` § Typography (which covers the Ladd
 | Surface | Engine | Prospects |
 |---|---|---|
 | **Book reader** (`features/books/reader/foliate/`) | Real WebKit/Blink DOM inside a WebView (iframe on web) | Excellent — [Justif](https://github.com/lyallcooper/justif) drops in, verified working |
-| **Prayer / practice / Bible** (`PrimitiveBlock`, `PrayerText`, `ChapterContent`) | Native `Text` (UIKit / Android `Layout`) | Closed to Justif — and testing shows it wouldn't want it anyway. The fix is ragged-right |
+| **Prayer / practice / Bible** (`PrimitiveBlock`, `PrayerText`, `ChapterContent`) | Native `Text` (UIKit / Android `Layout`) on iOS/Android; `<div>` via `react-native-web` on web | Justif works on **web** (one CSS override). Closed to it on **iOS/Android** — the constraint is availability, not quality |
 
 The good news is that the surface where justification matters most — long-form prose in the Catholic library — is *already* a web renderer. Justif needs no WebView bridge, no "web components on mobile" trick, and no architectural change. It is a script tag in a document we already control.
 
@@ -181,9 +181,11 @@ Rendered through the real `PracticeFlowView` geometry (`paddingHorizontal: $md` 
 | Ragged | 35 |
 | Justif | 32 |
 
-Justif does what it promises on the **prose** prayer at the top — even color, three lines saved. But look at the psalm below it. Justif faithfully justifies each verse line, because that's what it was asked to do, and it hyphenates across them: *"I will not fear thousands of the people **sur-** / **rounding** me:"*. A psalm verse hyphenated mid-word is not a refinement; in a breviary it reads as a defect. The ragged column is the one that looks right.
+Justif wins here, clearly — even color on the prose prayer, three lines saved, and the psalm verses tighter and more even than what ships.
 
-So the rule is about content shape, not algorithm quality: **prose wants Justif, verse wants ragged.** Prayer flows are mostly verse.
+One detail to be aware of rather than alarmed by: Justif hyphenates across verse lines (*"I will not fear thousands of the people **sur-** / **rounding** me:"*). Traditional breviary setting avoids that. The lever is `hyphenPenalty` — raise it to discourage hyphenation without forbidding it. **Turning hyphenation off entirely is not the fix:** measured on the bilingual columns below, dropping the hyphenator costs more than it saves (132 lines and a 63 px worst-case word gap, versus 128 lines and 49 px with hyphenation). At narrow measures hyphenation is load-bearing.
+
+Ragged-right also removes the defect, and for verse it is the traditional setting — but it gives up Justif's evenness everywhere else in the flow, and it is a preference call, not a correctness one.
 
 ### Bilingual side-by-side: the worst typography in the app
 
@@ -199,11 +201,13 @@ So the rule is about content shape, not algorithm quality: **prose wants Justif,
 
 The left column is not a subtle paper cut. At 170 px, justify puts two words on a line with a chasm between them — `mevm········ad`, `Nomen····sanctvm`, `hoc·······Officivm`, `that······divine` — and `intellectvm` sits alone on its own line. 25 of 28 units wrap, so nearly every line in the prayer is affected. This is the single worst-looking text in the app, and it is reachable by anyone who turns on a second language.
 
-Ragged fixes it completely, for free, on every platform.
+Justif transforms it. It hyphenates (*benedi-cendvm*, *alie-nis*, *inten-tionis*, *mvlti-plicati*), saves 10 lines, and turns those chasms into ordinary word spaces. Ragged-right also removes the defect and costs nothing.
 
-Justif also improves it a lot — it hyphenates (*benedi-cendvm*, *alie-nis*, *inten-tionis*) and saves 10 lines — but it is **not available on this surface at all**, because prayer flows are native `Text`. And even if it were, it would still be justifying verse and hyphenating psalm lines.
+![Bilingual side-by-side: today, Justif defaults, Justif tuned for narrow measures](../assets/justification-prayer-tuned.webp)
 
-**Conclusion: prayer flows do not want Justif. They want ragged-right.** That is the opposite of the reader conclusion, and it is why the two surfaces need separate decisions rather than one global `textAlign` preference.
+**Tuning is not needed.** A config pushed hard for narrow measures (`hyphenPenalty: 20`, tighter glue, `tracking` to 4.5%, `lastLineMinWidth: 0`, `tolerance: 400`) landed at 127 lines against 128 for stock defaults, with the worst word gap at 44 px against 49 px. Visually indistinguishable. Ship the defaults.
+
+The catch on this surface is availability, not quality: prayer flows are native `Text` on iOS and Android, so Justif cannot run there at all. See below for the web build, where it can.
 
 ### Latin hyphenation is solvable, if we ever need it
 
@@ -216,19 +220,30 @@ const hyphenateLa = createHyphenator({ patterns, leftmin: 2, rightmin: 2 })
 
 Fed [`hyph-la-x-liturgic`](https://github.com/hyphenation/tex-hyphen) (1,955 patterns, 17 KB, **MIT**, by Claudio Beccari and the Monastery of Solesmes — the authority for liturgical Latin), it syllabifies correctly: `be-ne-di-cen-dum`, `co-gi-ta-ti-o-ni-bus`, `mi-se-ri-cor-dia`, `sem-pi-ter-na`, `ex-al-tans`.
 
-Worth knowing for the **book reader**, where we do have Latin prose and Justif does apply. Not worth wiring into prayer flows, which should be ragged anyway.
+Worth wiring in wherever Justif runs — the book reader has Latin prose, and so does every bilingual prayer flow on the web build.
+
+### Justif *does* run on the web build's prayer flows
+
+`react-native-web` renders `<Text>` as a `<div>`, not a `<p>` — which turns out not to matter. What does matter is that it sets `white-space: pre-wrap`, and Justif declines any paragraph with a preserved-whitespace value. Measured directly:
+
+| Element shape | Enhanced | Reason |
+|---|---|---|
+| `<div>` with `white-space: pre-wrap` *(what RNW emits)* | **0 of 3** | `"white-space: pre-wrap on the paragraph"` |
+| `<div>` with `white-space: normal` | **3 of 3** | — |
+
+So a `white-space: normal` override on reading-text components is the whole unlock on web. Worth checking what RNW relies on `pre-wrap` for before flipping it — prayer text with meaningful runs of consecutive spaces would render differently — but for the corpus's prose and verse it should be inert.
 
 ---
 
 ## Part 5 — Recommended order of work
 
-1. **Ragged-right for verse-shaped content, and for bilingual side-by-side unconditionally.** Stop applying `justify` in `PrayerLines`, per-verse `ChapterContent`, and every column inside `BilingualBlock`'s side-by-side mode. Highest ratio of paper-cut-removed to lines-changed, needs no dependency, and the 170 px bilingual column is the most visibly broken text in the app.
-2. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`. One line; fixes the worst Android case.
-2b. **Bible as continuous prose** rather than one `<Text>` per verse. Bigger than 1 and 2, worth its own spec — it's the difference between "a verse list" and "a Bible".
-3. **Vendor Justif into the foliate reader.** Guard the footnote `innerHTML` path first, wire `rescan()` to the config path, measure on device.
-4. *(Later)* Consider Justif on the web build's native surfaces via the existing `Platform.OS === 'web'` branch in `useReadingStyle()` — react-native-web renders real DOM, so it's reachable. Low priority: web is not where the reading happens.
+1. **Vendor Justif into the foliate reader.** All platforms, biggest surface, verified safe against highlight anchors. Guard the footnote `innerHTML` path first, wire `rescan()` into the `setStyles` config path, measure on device. Ship stock defaults; add the liturgical-Latin hyphenator.
+2. **Justif on the web build's prayer flows**, via `white-space: normal` on reading-text components. Small change, and the bilingual columns are where it pays most.
+3. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`. One line, no dependency; the only justification lever RN gives us and it's currently off.
+4. **Bible as continuous prose** rather than one `<Text>` per verse. Worth its own spec — it's the difference between "a verse list" and "a Bible", and it's also what makes the page worth justifying at all.
+5. **The open question: prayer flows on iOS/Android.** Justif cannot reach them without moving the flow renderer into a WebView, which would cost native selection, Tamagui theming, `ImageViewer`, accessibility and Reanimated layout. Until that's decided, the native options are the status quo or ragged-right — a preference call, and the bilingual side-by-side column at 170 px is the case that most deserves one.
 
-Items 1 and 2 are independent of Justif entirely and should not wait on it.
+Item 3 is independent of Justif and shouldn't wait on it.
 
 ---
 
