@@ -1,25 +1,20 @@
 {
   "sections": [
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Although the early biographies of S. Francis are silent as to this opuscule, its authenticity is guaranteed by the Legend of S. Clare written by Thomas of Celano toward the end of his life. In reference to the holy abbess' devotion to the Passion we are told by Celano that she \"learned and frequently recited with attachment the Office of the Cross which Francis, the lover of the Cross, had instituted.\" This passage was rightly understood by Wadding as referring to the Office of the Passion which many early manuscripts attribute to S. Francis, and the character of which altogether squares with the Saint's writings. Composed, as it is, of a simple and devout combination of Scriptural texts, this document is at once a witness to S. Francis' ardent devotion to the Crucified and a precious example of his method of prayer. It comprises five parts:\nFor the three last days of Holy Week and for week-days throughout the year.\nFor the Paschal season.\nFor Sundays and feast-days throughout the year.\nFor Advent.\nFor Christmas and the days following, to the close of the Epiphany octave.",
-        "pt-BR": "Embora as primeiras biografias de S. Francisco silenciem sobre este opúsculo, sua autenticidade é garantida pela Legenda de S. Clara, escrita por Tomás de Celano no fim de sua vida. A respeito da devoção da santa abadessa à Paixão, diz-nos Celano que ela \"aprendeu e recitava com frequência e afeto o Ofício da Cruz que Francisco, o amante da Cruz, havia instituído\". Esta passagem foi corretamente entendida por Wadding como referindo-se ao Ofício da Paixão que muitos manuscritos antigos atribuem a S. Francisco, e cujo caráter se ajusta inteiramente aos escritos do Santo. Composto, como é, de uma simples e devota combinação de textos da Escritura, este documento é ao mesmo tempo um testemunho da ardente devoção de S. Francisco ao Crucificado e um precioso exemplo de seu método de oração. Compreende cinco partes:\nPara os três últimos dias da Semana Santa e para os dias de semana ao longo do ano.\nPara o tempo pascal.\nPara os domingos e dias de festa ao longo do ano.\nPara o Advento.\nPara o Natal e os dias seguintes, até o fim da oitava da Epifania."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "The text of the Office given in the Quaracchi edition is that of the Assisi MS. 338, only a few rubrical notes having been omitted.",
-        "pt-BR": "O texto do Ofício dado na edição de Quaracchi é o do manuscrito 338 de Assis, tendo sido omitidas apenas algumas notas rubricais."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Here begin the Psalms which our most blessed Father Francis arranged to reverence and recall and praise the Passion of the Lord. And they begin from Compline on Maundy Thursday because on that night our Lord Jesus Christ was betrayed and taken captive. And note that the Blessed Francis was wont to say this office thus: First he said the Prayer which the Lord and Master taught us: Our Father most holy, with the Praises, to wit, Holy, Holy, Holy. When he had finished the Praises with the Prayer he began this antiphon, namely: Holy Mary. First he said the Psalms of the holy Virgin; besides he said other Psalms which he had selected, and at the end of all the Psalms which he said, he said the Psalms of the Passion, the Psalm being finished he said the antiphon, namely, Holy Virgin Mary. When this antiphon was finished, the office was completed.",
-        "pt-BR": "Aqui começam os Salmos que nosso beatíssimo Pai Francisco dispôs para venerar, recordar e louvar a Paixão do Senhor. E começam nas Completas da Quinta-feira Santa, porque naquela noite nosso Senhor Jesus Cristo foi traído e preso. E note-se que o bem-aventurado Francisco costumava rezar este ofício assim: primeiro dizia a Oração que o Senhor e Mestre nos ensinou, Pai nosso santíssimo, com os Louvores, a saber, Santo, Santo, Santo. Terminados os Louvores com a Oração, começava esta antífona, a saber: Santa Maria. Primeiro dizia os Salmos da santa Virgem; além destes, dizia outros Salmos que havia escolhido, e ao fim de todos os Salmos que dizia, rezava os Salmos da Paixão; acabado o Salmo, dizia a antífona, a saber, Santa Virgem Maria. Terminada esta antífona, estava completo o ofício."
-      }
+      "type": "collapsible",
+      "title": {
+        "en-US": "How St Francis prayed this office",
+        "pt-BR": "Como S. Francisco rezava este ofício"
+      },
+      "sections": [
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "Here begin the Psalms which our most blessed Father Francis arranged to reverence and recall and praise the Passion of the Lord. And they begin from Compline on Maundy Thursday because on that night our Lord Jesus Christ was betrayed and taken captive. And note that the Blessed Francis was wont to say this office thus: First he said the Prayer which the Lord and Master taught us: Our Father most holy, with the Praises, to wit, Holy, Holy, Holy. When he had finished the Praises with the Prayer he began this antiphon, namely: Holy Mary. First he said the Psalms of the holy Virgin; besides he said other Psalms which he had selected, and at the end of all the Psalms which he said, he said the Psalms of the Passion, the Psalm being finished he said the antiphon, namely, Holy Virgin Mary. When this antiphon was finished, the office was completed.",
+            "pt-BR": "Aqui começam os Salmos que nosso beatíssimo Pai Francisco dispôs para venerar, recordar e louvar a Paixão do Senhor. E começam nas Completas da Quinta-feira Santa, porque naquela noite nosso Senhor Jesus Cristo foi traído e preso. E note-se que o bem-aventurado Francisco costumava rezar este ofício assim: primeiro dizia a Oração que o Senhor e Mestre nos ensinou, Pai nosso santíssimo, com os Louvores, a saber, Santo, Santo, Santo. Terminados os Louvores com a Oração, começava esta antífona, a saber: Santa Maria. Primeiro dizia os Salmos da santa Virgem; além destes, dizia outros Salmos que havia escolhido, e ao fim de todos os Salmos que dizia, rezava os Salmos da Paixão; acabado o Salmo, dizia a antífona, a saber, Santa Virgem Maria. Terminada esta antífona, estava completo o ofício."
+          }
+        }
+      ]
     },
     {
       "type": "select",
@@ -1306,8 +1301,48 @@
                             "pt-BR": "Sl 69,2"
                           },
                           "text": {
-                            "en-US": "O God, etc. (Ps. 69), as in the Psalter.",
-                            "pt-BR": "Ó Deus, etc. (Sl 69), como está no Saltério."
+                            "en-US": "O God, come to my assistance; O Lord, make haste to help me.",
+                            "pt-BR": "Ó Deus, vinde em meu auxílio; Senhor, apressai-vos em socorrer-me."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:3",
+                            "pt-BR": "Sl 69,3"
+                          },
+                          "text": {
+                            "en-US": "Let them be confounded and ashamed that seek my soul:",
+                            "pt-BR": "Sejam confundidos e envergonhados os que buscam a minha alma."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:4",
+                            "pt-BR": "Sl 69,4"
+                          },
+                          "text": {
+                            "en-US": "Let them be turned backward, and blush for shame that desire evils to me: Let them be presently turned away, blushing for shame, that say to me: 'Tis well, 'tis well.",
+                            "pt-BR": "Retrocedam e corem de vergonha os que me desejam males. Voltem atrás imediatamente, cobertos de vergonha, os que me dizem: Bem feito, bem feito."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:5",
+                            "pt-BR": "Sl 69,5"
+                          },
+                          "text": {
+                            "en-US": "Let all that seek thee rejoice and be glad in thee; and let such as love thy salvation, say always: The Lord be magnified.",
+                            "pt-BR": "Exultem e alegrem-se em vós todos os que vos buscam; e digam sempre os que amam a vossa salvação: Seja glorificado o Senhor."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:6",
+                            "pt-BR": "Sl 69,6"
+                          },
+                          "text": {
+                            "en-US": "But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O Lord, make no delay.",
+                            "pt-BR": "Eu, porém, sou necessitado e pobre; ó Deus, ajudai-me. Vós sois meu auxílio e meu libertador; Senhor, não tardeis."
                           }
                         }
                       ]
@@ -1560,11 +1595,119 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "Have mercy on me, etc.—as above.",
-                        "pt-BR": "Tende piedade de mim, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:1",
+                            "pt-BR": "Sl 56,1"
+                          },
+                          "text": {
+                            "en-US": "Have mercy on me, O God, have mercy on me; for my soul trusteth in Thee.",
+                            "pt-BR": "Tende piedade de mim, ó Deus, tende piedade de mim; porque em vós confia a minha alma."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:2",
+                            "pt-BR": "Sl 56,2"
+                          },
+                          "text": {
+                            "en-US": "And in the shadow of Thy wings will I hope, until iniquity pass away.",
+                            "pt-BR": "E à sombra de vossas asas esperarei, até que passe a iniquidade."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:3",
+                            "pt-BR": "Sl 56,3"
+                          },
+                          "text": {
+                            "en-US": "I will cry to my most holy Father, the Most High: to God, who hath done good to me.",
+                            "pt-BR": "Clamarei a meu Pai santíssimo, o Altíssimo; a Deus, que me fez o bem."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:4",
+                            "pt-BR": "Sl 56,4"
+                          },
+                          "text": {
+                            "en-US": "He hath sent from heaven and delivered me; He hath made them a reproach that trod upon me. God hath sent His power and His truth.",
+                            "pt-BR": "Ele enviou do céu e me libertou; entregou ao opróbrio os que me pisavam. Deus enviou sua misericórdia e sua verdade."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 17:18",
+                            "pt-BR": "Sl 17,18"
+                          },
+                          "text": {
+                            "en-US": "He delivered me from my strongest enemies and from them that hated me; for they were too strong for me.",
+                            "pt-BR": "Livrou-me de meus inimigos mais fortes e daqueles que me odiavam; porque eram mais poderosos que eu."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:7",
+                            "pt-BR": "Sl 56,7"
+                          },
+                          "text": {
+                            "en-US": "They prepared a snare for my feet; and they bowed down my soul; they dug a pit before my face; and they are fallen into it.",
+                            "pt-BR": "Prepararam um laço para meus pés, e abateram a minha alma; cavaram uma cova diante de mim, e nela caíram."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:8",
+                            "pt-BR": "Sl 56,8"
+                          },
+                          "text": {
+                            "en-US": "My heart is ready, O God, my heart is ready; I will sing, and rehearse a psalm.",
+                            "pt-BR": "Meu coração está pronto, ó Deus, meu coração está pronto; cantarei e entoarei um salmo."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:9",
+                            "pt-BR": "Sl 56,9"
+                          },
+                          "text": {
+                            "en-US": "Arise, O my glory, arise psaltery and harp; I will arise early.",
+                            "pt-BR": "Levanta-te, ó minha glória; levantai-vos, saltério e harpa; levantar-me-ei de madrugada."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:10",
+                            "pt-BR": "Sl 56,10"
+                          },
+                          "text": {
+                            "en-US": "I will give praise to Thee, O Lord, among the people; I will sing a psalm to Thee among the nations.",
+                            "pt-BR": "Louvar-vos-ei, Senhor, entre os povos; a vós cantarei um salmo entre as nações."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:11",
+                            "pt-BR": "Sl 56,11"
+                          },
+                          "text": {
+                            "en-US": "For Thy mercy is magnified even to the heavens; and Thy truth unto the clouds.",
+                            "pt-BR": "Porque vossa misericórdia se engrandeceu até os céus, e vossa verdade até as nuvens."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:12",
+                            "pt-BR": "Sl 56,12"
+                          },
+                          "text": {
+                            "en-US": "Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.",
+                            "pt-BR": "Sede exaltado, ó Deus, acima dos céus, e vossa glória sobre toda a terra."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1591,11 +1734,109 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "Sing ye to the Lord, etc.—as above.",
-                        "pt-BR": "Cantai ao Senhor, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 97:1",
+                            "pt-BR": "Sl 97,1"
+                          },
+                          "text": {
+                            "en-US": "Sing ye to the Lord a new canticle: for He hath done wonderful things. His right hand hath sanctified His Son; and His arm is holy.",
+                            "pt-BR": "Cantai ao Senhor um cântico novo, porque fez maravilhas. Sua destra santificou seu Filho, e seu braço é santo."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 97:2",
+                            "pt-BR": "Sl 97,2"
+                          },
+                          "text": {
+                            "en-US": "The Lord hath made known His salvation; He hath revealed His justice in the sight of the gentiles.",
+                            "pt-BR": "O Senhor manifestou sua salvação; revelou sua justiça à vista dos gentios."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 41:9",
+                            "pt-BR": "Sl 41,9"
+                          },
+                          "text": {
+                            "en-US": "In the day time the Lord hath commanded His mercy: and a canticle to Him in the night.",
+                            "pt-BR": "De dia o Senhor mandou sua misericórdia, e de noite um cântico a ele."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 117:24",
+                            "pt-BR": "Sl 117,24"
+                          },
+                          "text": {
+                            "en-US": "This is the day which the Lord hath made: let us rejoice and be glad in it.",
+                            "pt-BR": "Este é o dia que o Senhor fez; alegremo-nos e exultemos nele."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 117:26",
+                            "pt-BR": "Sl 117,26"
+                          },
+                          "text": {
+                            "en-US": "Blessed be He that cometh in the name of the Lord.",
+                            "pt-BR": "Bendito o que vem em nome do Senhor."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 117:27",
+                            "pt-BR": "Sl 117,27"
+                          },
+                          "text": {
+                            "en-US": "The Lord is God and He hath shone upon us.",
+                            "pt-BR": "O Senhor é Deus, e fez brilhar sobre nós sua luz."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:11",
+                            "pt-BR": "Sl 95,11"
+                          },
+                          "text": {
+                            "en-US": "Let the heavens rejoice and let the earth be glad: let the sea be moved and the fulness thereof.",
+                            "pt-BR": "Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:12",
+                            "pt-BR": "Sl 95,12"
+                          },
+                          "text": {
+                            "en-US": "The fields shall rejoice and all that are in them.",
+                            "pt-BR": "Alegrem-se os campos e tudo o que neles há."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:7",
+                            "pt-BR": "Sl 95,7"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.",
+                            "pt-BR": "Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:8",
+                            "pt-BR": "Sl 95,8"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord glory unto His Name.",
+                            "pt-BR": "Tributai ao Senhor a glória devida a seu Nome."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1622,11 +1863,119 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "O clap your hands, etc.—as above.",
-                        "pt-BR": "Batei palmas, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 46:2",
+                            "pt-BR": "Sl 46,2"
+                          },
+                          "text": {
+                            "en-US": "O clap your hands, all ye nations, shout unto God with the voice of joy.",
+                            "pt-BR": "Batei palmas, todas as nações; aclamai a Deus com voz de alegria."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 46:3",
+                            "pt-BR": "Sl 46,3"
+                          },
+                          "text": {
+                            "en-US": "For the Lord is high, terrible: He is a great king over all the earth. For the most holy Father of heaven, our King, before ages sent His beloved Son from on high.",
+                            "pt-BR": "Porque o Senhor é excelso e temível; é grande rei sobre toda a terra. Pois o santíssimo Pai do céu, nosso Rei, antes dos séculos enviou do alto seu Filho amado."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 73:12",
+                            "pt-BR": "Sl 73,12"
+                          },
+                          "text": {
+                            "en-US": "And hath wrought salvation in the midst of the earth.",
+                            "pt-BR": "E operou a salvação no meio da terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:11",
+                            "pt-BR": "Sl 95,11"
+                          },
+                          "text": {
+                            "en-US": "Let the heavens rejoice and let the earth be glad, let the sea be moved and the fulness thereof.",
+                            "pt-BR": "Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:12",
+                            "pt-BR": "Sl 95,12"
+                          },
+                          "text": {
+                            "en-US": "The fields and all that are in them shall be joyful.",
+                            "pt-BR": "Alegrem-se os campos e tudo o que neles há."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:1",
+                            "pt-BR": "Sl 95,1"
+                          },
+                          "text": {
+                            "en-US": "Sing unto Him a new canticle; sing unto the Lord, all the earth.",
+                            "pt-BR": "Cantai-lhe um cântico novo; cantai ao Senhor, toda a terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:4",
+                            "pt-BR": "Sl 95,4"
+                          },
+                          "text": {
+                            "en-US": "For the Lord is great and exceedingly to be praised; He is to be feared above all gods.",
+                            "pt-BR": "Porque o Senhor é grande e digno de todo louvor; é temível acima de todos os deuses."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:7",
+                            "pt-BR": "Sl 95,7"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.",
+                            "pt-BR": "Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:8",
+                            "pt-BR": "Sl 95,8"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord glory unto His Name. Bring your own bodies and bear His holy cross; and follow His most holy precepts even unto the end.",
+                            "pt-BR": "Tributai ao Senhor a glória devida a seu Nome. Trazei vossos próprios corpos e levai sua santa cruz, e segui seus santíssimos preceitos até o fim."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:9",
+                            "pt-BR": "Sl 95,9"
+                          },
+                          "text": {
+                            "en-US": "Let all the earth be moved at His presence.",
+                            "pt-BR": "Estremeça toda a terra diante de sua presença."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:10",
+                            "pt-BR": "Sl 95,10"
+                          },
+                          "text": {
+                            "en-US": "Say among the gentiles that the Lord hath reigned.",
+                            "pt-BR": "Dizei entre os gentios que o Senhor reinou."
+                          }
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1702,11 +2051,59 @@
                       }
                     },
                     {
-                      "type": "prayer",
-                      "inline": {
-                        "en-US": "O God, etc. (Ps. 69),—as it is in the Psalter.",
-                        "pt-BR": "Ó Deus, etc. (Sl 69), como está no Saltério."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:2",
+                            "pt-BR": "Sl 69,2"
+                          },
+                          "text": {
+                            "en-US": "O God, come to my assistance; O Lord, make haste to help me.",
+                            "pt-BR": "Ó Deus, vinde em meu auxílio; Senhor, apressai-vos em socorrer-me."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:3",
+                            "pt-BR": "Sl 69,3"
+                          },
+                          "text": {
+                            "en-US": "Let them be confounded and ashamed that seek my soul:",
+                            "pt-BR": "Sejam confundidos e envergonhados os que buscam a minha alma."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:4",
+                            "pt-BR": "Sl 69,4"
+                          },
+                          "text": {
+                            "en-US": "Let them be turned backward, and blush for shame that desire evils to me: Let them be presently turned away, blushing for shame, that say to me: 'Tis well, 'tis well.",
+                            "pt-BR": "Retrocedam e corem de vergonha os que me desejam males. Voltem atrás imediatamente, cobertos de vergonha, os que me dizem: Bem feito, bem feito."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:5",
+                            "pt-BR": "Sl 69,5"
+                          },
+                          "text": {
+                            "en-US": "Let all that seek thee rejoice and be glad in thee; and let such as love thy salvation, say always: The Lord be magnified.",
+                            "pt-BR": "Exultem e alegrem-se em vós todos os que vos buscam; e digam sempre os que amam a vossa salvação: Seja glorificado o Senhor."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 69:6",
+                            "pt-BR": "Sl 69,6"
+                          },
+                          "text": {
+                            "en-US": "But I am needy and poor; O God, help me. Thou art my helper and my deliverer: O Lord, make no delay.",
+                            "pt-BR": "Eu, porém, sou necessitado e pobre; ó Deus, ajudai-me. Vós sois meu auxílio e meu libertador; Senhor, não tardeis."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1747,11 +2144,109 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "Sing ye to the Lord, etc.,—as above.",
-                        "pt-BR": "Cantai ao Senhor, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 97:1",
+                            "pt-BR": "Sl 97,1"
+                          },
+                          "text": {
+                            "en-US": "Sing ye to the Lord a new canticle: for He hath done wonderful things. His right hand hath sanctified His Son; and His arm is holy.",
+                            "pt-BR": "Cantai ao Senhor um cântico novo, porque fez maravilhas. Sua destra santificou seu Filho, e seu braço é santo."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 97:2",
+                            "pt-BR": "Sl 97,2"
+                          },
+                          "text": {
+                            "en-US": "The Lord hath made known His salvation; He hath revealed His justice in the sight of the gentiles.",
+                            "pt-BR": "O Senhor manifestou sua salvação; revelou sua justiça à vista dos gentios."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 41:9",
+                            "pt-BR": "Sl 41,9"
+                          },
+                          "text": {
+                            "en-US": "In the day time the Lord hath commanded His mercy: and a canticle to Him in the night.",
+                            "pt-BR": "De dia o Senhor mandou sua misericórdia, e de noite um cântico a ele."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 117:24",
+                            "pt-BR": "Sl 117,24"
+                          },
+                          "text": {
+                            "en-US": "This is the day which the Lord hath made: let us rejoice and be glad in it.",
+                            "pt-BR": "Este é o dia que o Senhor fez; alegremo-nos e exultemos nele."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 117:26",
+                            "pt-BR": "Sl 117,26"
+                          },
+                          "text": {
+                            "en-US": "Blessed be He that cometh in the name of the Lord.",
+                            "pt-BR": "Bendito o que vem em nome do Senhor."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 117:27",
+                            "pt-BR": "Sl 117,27"
+                          },
+                          "text": {
+                            "en-US": "The Lord is God and He hath shone upon us.",
+                            "pt-BR": "O Senhor é Deus, e fez brilhar sobre nós sua luz."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:11",
+                            "pt-BR": "Sl 95,11"
+                          },
+                          "text": {
+                            "en-US": "Let the heavens rejoice and let the earth be glad: let the sea be moved and the fulness thereof.",
+                            "pt-BR": "Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:12",
+                            "pt-BR": "Sl 95,12"
+                          },
+                          "text": {
+                            "en-US": "The fields shall rejoice and all that are in them.",
+                            "pt-BR": "Alegrem-se os campos e tudo o que neles há."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:7",
+                            "pt-BR": "Sl 95,7"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.",
+                            "pt-BR": "Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:8",
+                            "pt-BR": "Sl 95,8"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord glory unto His Name.",
+                            "pt-BR": "Tributai ao Senhor a glória devida a seu Nome."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1792,11 +2287,119 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "Have mercy on me, etc.—as above.",
-                        "pt-BR": "Tende piedade de mim, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:1",
+                            "pt-BR": "Sl 56,1"
+                          },
+                          "text": {
+                            "en-US": "Have mercy on me, O God, have mercy on me; for my soul trusteth in Thee.",
+                            "pt-BR": "Tende piedade de mim, ó Deus, tende piedade de mim; porque em vós confia a minha alma."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:2",
+                            "pt-BR": "Sl 56,2"
+                          },
+                          "text": {
+                            "en-US": "And in the shadow of Thy wings will I hope, until iniquity pass away.",
+                            "pt-BR": "E à sombra de vossas asas esperarei, até que passe a iniquidade."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:3",
+                            "pt-BR": "Sl 56,3"
+                          },
+                          "text": {
+                            "en-US": "I will cry to my most holy Father, the Most High: to God, who hath done good to me.",
+                            "pt-BR": "Clamarei a meu Pai santíssimo, o Altíssimo; a Deus, que me fez o bem."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:4",
+                            "pt-BR": "Sl 56,4"
+                          },
+                          "text": {
+                            "en-US": "He hath sent from heaven and delivered me; He hath made them a reproach that trod upon me. God hath sent His power and His truth.",
+                            "pt-BR": "Ele enviou do céu e me libertou; entregou ao opróbrio os que me pisavam. Deus enviou sua misericórdia e sua verdade."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 17:18",
+                            "pt-BR": "Sl 17,18"
+                          },
+                          "text": {
+                            "en-US": "He delivered me from my strongest enemies and from them that hated me; for they were too strong for me.",
+                            "pt-BR": "Livrou-me de meus inimigos mais fortes e daqueles que me odiavam; porque eram mais poderosos que eu."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:7",
+                            "pt-BR": "Sl 56,7"
+                          },
+                          "text": {
+                            "en-US": "They prepared a snare for my feet; and they bowed down my soul; they dug a pit before my face; and they are fallen into it.",
+                            "pt-BR": "Prepararam um laço para meus pés, e abateram a minha alma; cavaram uma cova diante de mim, e nela caíram."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:8",
+                            "pt-BR": "Sl 56,8"
+                          },
+                          "text": {
+                            "en-US": "My heart is ready, O God, my heart is ready; I will sing, and rehearse a psalm.",
+                            "pt-BR": "Meu coração está pronto, ó Deus, meu coração está pronto; cantarei e entoarei um salmo."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:9",
+                            "pt-BR": "Sl 56,9"
+                          },
+                          "text": {
+                            "en-US": "Arise, O my glory, arise psaltery and harp; I will arise early.",
+                            "pt-BR": "Levanta-te, ó minha glória; levantai-vos, saltério e harpa; levantar-me-ei de madrugada."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:10",
+                            "pt-BR": "Sl 56,10"
+                          },
+                          "text": {
+                            "en-US": "I will give praise to Thee, O Lord, among the people; I will sing a psalm to Thee among the nations.",
+                            "pt-BR": "Louvar-vos-ei, Senhor, entre os povos; a vós cantarei um salmo entre as nações."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:11",
+                            "pt-BR": "Sl 56,11"
+                          },
+                          "text": {
+                            "en-US": "For Thy mercy is magnified even to the heavens; and Thy truth unto the clouds.",
+                            "pt-BR": "Porque vossa misericórdia se engrandeceu até os céus, e vossa verdade até as nuvens."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:12",
+                            "pt-BR": "Sl 56,12"
+                          },
+                          "text": {
+                            "en-US": "Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.",
+                            "pt-BR": "Sede exaltado, ó Deus, acima dos céus, e vossa glória sobre toda a terra."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2306,11 +2909,119 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "O clap your hands. . . as above.",
-                        "pt-BR": "Batei palmas... como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 46:2",
+                            "pt-BR": "Sl 46,2"
+                          },
+                          "text": {
+                            "en-US": "O clap your hands, all ye nations, shout unto God with the voice of joy.",
+                            "pt-BR": "Batei palmas, todas as nações; aclamai a Deus com voz de alegria."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 46:3",
+                            "pt-BR": "Sl 46,3"
+                          },
+                          "text": {
+                            "en-US": "For the Lord is high, terrible: He is a great king over all the earth. For the most holy Father of heaven, our King, before ages sent His beloved Son from on high.",
+                            "pt-BR": "Porque o Senhor é excelso e temível; é grande rei sobre toda a terra. Pois o santíssimo Pai do céu, nosso Rei, antes dos séculos enviou do alto seu Filho amado."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 73:12",
+                            "pt-BR": "Sl 73,12"
+                          },
+                          "text": {
+                            "en-US": "And hath wrought salvation in the midst of the earth.",
+                            "pt-BR": "E operou a salvação no meio da terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:11",
+                            "pt-BR": "Sl 95,11"
+                          },
+                          "text": {
+                            "en-US": "Let the heavens rejoice and let the earth be glad, let the sea be moved and the fulness thereof.",
+                            "pt-BR": "Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:12",
+                            "pt-BR": "Sl 95,12"
+                          },
+                          "text": {
+                            "en-US": "The fields and all that are in them shall be joyful.",
+                            "pt-BR": "Alegrem-se os campos e tudo o que neles há."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:1",
+                            "pt-BR": "Sl 95,1"
+                          },
+                          "text": {
+                            "en-US": "Sing unto Him a new canticle; sing unto the Lord, all the earth.",
+                            "pt-BR": "Cantai-lhe um cântico novo; cantai ao Senhor, toda a terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:4",
+                            "pt-BR": "Sl 95,4"
+                          },
+                          "text": {
+                            "en-US": "For the Lord is great and exceedingly to be praised; He is to be feared above all gods.",
+                            "pt-BR": "Porque o Senhor é grande e digno de todo louvor; é temível acima de todos os deuses."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:7",
+                            "pt-BR": "Sl 95,7"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.",
+                            "pt-BR": "Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:8",
+                            "pt-BR": "Sl 95,8"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord glory unto His Name. Bring your own bodies and bear His holy cross; and follow His most holy precepts even unto the end.",
+                            "pt-BR": "Tributai ao Senhor a glória devida a seu Nome. Trazei vossos próprios corpos e levai sua santa cruz, e segui seus santíssimos preceitos até o fim."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:9",
+                            "pt-BR": "Sl 95,9"
+                          },
+                          "text": {
+                            "en-US": "Let all the earth be moved at His presence.",
+                            "pt-BR": "Estremeça toda a terra diante de sua presença."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:10",
+                            "pt-BR": "Sl 95,10"
+                          },
+                          "text": {
+                            "en-US": "Say among the gentiles that the Lord hath reigned.",
+                            "pt-BR": "Dizei entre os gentios que o Senhor reinou."
+                          }
+                        }
+                      ]
                     }
                   ]
                 }
@@ -2386,11 +3097,69 @@
                       }
                     },
                     {
-                      "type": "prayer",
-                      "inline": {
-                        "en-US": "How long, O Lord (Ps. 12), as it is found in the Psalter.",
-                        "pt-BR": "Até quando, Senhor (Sl 12), como se encontra no Saltério."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 12:1",
+                            "pt-BR": "Sl 12,1"
+                          },
+                          "text": {
+                            "en-US": "How long, O Lord, wilt thou forget me unto the end? how long dost thou turn away thy face from me?",
+                            "pt-BR": "Até quando, Senhor, vos esquecereis de mim para sempre? Até quando desviareis de mim o vosso rosto?"
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 12:2",
+                            "pt-BR": "Sl 12,2"
+                          },
+                          "text": {
+                            "en-US": "How long shall I take counsels in my soul, sorrow in my heart all the day?",
+                            "pt-BR": "Até quando terei de revolver planos em minha alma, e a tristeza em meu coração todo o dia?"
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 12:3",
+                            "pt-BR": "Sl 12,3"
+                          },
+                          "text": {
+                            "en-US": "How long shall my enemy be exalted over me?",
+                            "pt-BR": "Até quando meu inimigo se exaltará sobre mim?"
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 12:4",
+                            "pt-BR": "Sl 12,4"
+                          },
+                          "text": {
+                            "en-US": "Consider, and hear me, O Lord, my God. Enlighten my eyes, that I never sleep in death:",
+                            "pt-BR": "Olhai e ouvi-me, Senhor meu Deus. Iluminai meus olhos, para que eu jamais adormeça na morte;"
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 12:5",
+                            "pt-BR": "Sl 12,5"
+                          },
+                          "text": {
+                            "en-US": "Lest at any time my enemy say: I have prevailed against him. They that trouble me, will rejoice when I am moved:",
+                            "pt-BR": "para que nunca diga o meu inimigo: Prevaleci contra ele. Os que me atribulam exultarão se eu for abalado."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 12:6",
+                            "pt-BR": "Sl 12,6"
+                          },
+                          "text": {
+                            "en-US": "But I have trusted in thy mercy. My heart shall rejoice in thy salvation: I will sing to the Lord, who giveth me good things: yea, I will sing to the name of the Lord, the most high.",
+                            "pt-BR": "Eu, porém, confiei em vossa misericórdia. Meu coração exultará em vossa salvação; cantarei ao Senhor, que me deu bens; sim, cantarei ao nome do Senhor altíssimo."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2584,11 +3353,119 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "Have mercy on me, etc.—as above.",
-                        "pt-BR": "Tende piedade de mim, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:1",
+                            "pt-BR": "Sl 56,1"
+                          },
+                          "text": {
+                            "en-US": "Have mercy on me, O God, have mercy on me; for my soul trusteth in Thee.",
+                            "pt-BR": "Tende piedade de mim, ó Deus, tende piedade de mim; porque em vós confia a minha alma."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:2",
+                            "pt-BR": "Sl 56,2"
+                          },
+                          "text": {
+                            "en-US": "And in the shadow of Thy wings will I hope, until iniquity pass away.",
+                            "pt-BR": "E à sombra de vossas asas esperarei, até que passe a iniquidade."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:3",
+                            "pt-BR": "Sl 56,3"
+                          },
+                          "text": {
+                            "en-US": "I will cry to my most holy Father, the Most High: to God, who hath done good to me.",
+                            "pt-BR": "Clamarei a meu Pai santíssimo, o Altíssimo; a Deus, que me fez o bem."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:4",
+                            "pt-BR": "Sl 56,4"
+                          },
+                          "text": {
+                            "en-US": "He hath sent from heaven and delivered me; He hath made them a reproach that trod upon me. God hath sent His power and His truth.",
+                            "pt-BR": "Ele enviou do céu e me libertou; entregou ao opróbrio os que me pisavam. Deus enviou sua misericórdia e sua verdade."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 17:18",
+                            "pt-BR": "Sl 17,18"
+                          },
+                          "text": {
+                            "en-US": "He delivered me from my strongest enemies and from them that hated me; for they were too strong for me.",
+                            "pt-BR": "Livrou-me de meus inimigos mais fortes e daqueles que me odiavam; porque eram mais poderosos que eu."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:7",
+                            "pt-BR": "Sl 56,7"
+                          },
+                          "text": {
+                            "en-US": "They prepared a snare for my feet; and they bowed down my soul; they dug a pit before my face; and they are fallen into it.",
+                            "pt-BR": "Prepararam um laço para meus pés, e abateram a minha alma; cavaram uma cova diante de mim, e nela caíram."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:8",
+                            "pt-BR": "Sl 56,8"
+                          },
+                          "text": {
+                            "en-US": "My heart is ready, O God, my heart is ready; I will sing, and rehearse a psalm.",
+                            "pt-BR": "Meu coração está pronto, ó Deus, meu coração está pronto; cantarei e entoarei um salmo."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:9",
+                            "pt-BR": "Sl 56,9"
+                          },
+                          "text": {
+                            "en-US": "Arise, O my glory, arise psaltery and harp; I will arise early.",
+                            "pt-BR": "Levanta-te, ó minha glória; levantai-vos, saltério e harpa; levantar-me-ei de madrugada."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:10",
+                            "pt-BR": "Sl 56,10"
+                          },
+                          "text": {
+                            "en-US": "I will give praise to Thee, O Lord, among the people; I will sing a psalm to Thee among the nations.",
+                            "pt-BR": "Louvar-vos-ei, Senhor, entre os povos; a vós cantarei um salmo entre as nações."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:11",
+                            "pt-BR": "Sl 56,11"
+                          },
+                          "text": {
+                            "en-US": "For Thy mercy is magnified even to the heavens; and Thy truth unto the clouds.",
+                            "pt-BR": "Porque vossa misericórdia se engrandeceu até os céus, e vossa verdade até as nuvens."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 56:12",
+                            "pt-BR": "Sl 56,12"
+                          },
+                          "text": {
+                            "en-US": "Be Thou exalted, O God, above the heavens; and Thy glory above all the earth.",
+                            "pt-BR": "Sede exaltado, ó Deus, acima dos céus, e vossa glória sobre toda a terra."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2629,11 +3506,119 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "Shout with joy, etc.—as above.",
-                        "pt-BR": "Aclamai a Deus com júbilo, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 65:1",
+                            "pt-BR": "Sl 65,1"
+                          },
+                          "text": {
+                            "en-US": "Shout with joy to God, all the earth.",
+                            "pt-BR": "Aclamai a Deus com júbilo, toda a terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 65:2",
+                            "pt-BR": "Sl 65,2"
+                          },
+                          "text": {
+                            "en-US": "Sing ye a Psalm to His name: give glory to His praise.",
+                            "pt-BR": "Cantai um Salmo a seu nome; dai glória a seu louvor."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 65:3",
+                            "pt-BR": "Sl 65,3"
+                          },
+                          "text": {
+                            "en-US": "Say unto God, How terrible are Thy works, O Lord: in the multitude of Thy strength Thy enemies shall lie to Thee.",
+                            "pt-BR": "Dizei a Deus: Quão temíveis são vossas obras, Senhor! Pela grandeza de vosso poder vossos inimigos vos lisonjearão."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 65:4",
+                            "pt-BR": "Sl 65,4"
+                          },
+                          "text": {
+                            "en-US": "Let all the earth adore Thee and sing to Thee: let it sing a psalm to Thy Name.",
+                            "pt-BR": "Adore-vos toda a terra e cante-vos; cante um salmo a vosso Nome."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 65:16",
+                            "pt-BR": "Sl 65,16"
+                          },
+                          "text": {
+                            "en-US": "Come and hear, all ye that fear God, and I will tell you what great things He hath done for my soul.",
+                            "pt-BR": "Vinde e ouvi, todos vós que temeis a Deus, e vos contarei quão grandes coisas ele fez à minha alma."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 65:17",
+                            "pt-BR": "Sl 65,17"
+                          },
+                          "text": {
+                            "en-US": "I cried to Him with my mouth: and I extolled Him with my tongue.",
+                            "pt-BR": "A ele clamei com minha boca, e o exaltei com minha língua."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 17:7",
+                            "pt-BR": "Sl 17,7"
+                          },
+                          "text": {
+                            "en-US": "And He heard my voice from His holy temple: and my cry came before Him.",
+                            "pt-BR": "E ele ouviu minha voz de seu santo templo, e meu clamor chegou à sua presença."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 65:8",
+                            "pt-BR": "Sl 65,8"
+                          },
+                          "text": {
+                            "en-US": "O bless our God, ye gentiles: and make the voice of His praise to be heard.",
+                            "pt-BR": "Bendizei, ó gentios, o nosso Deus, e fazei ouvir a voz de seu louvor."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 71:17",
+                            "pt-BR": "Sl 71,17"
+                          },
+                          "text": {
+                            "en-US": "And in him shall all the tribes of the earth be blessed: all nations shall magnify Him.",
+                            "pt-BR": "E nele serão benditas todas as tribos da terra; todas as nações o exaltarão."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 71:18",
+                            "pt-BR": "Sl 71,18"
+                          },
+                          "text": {
+                            "en-US": "Blessed be the Lord God of Israel, who only doth wonderful things.",
+                            "pt-BR": "Bendito seja o Senhor Deus de Israel, que só ele faz maravilhas."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 71:19",
+                            "pt-BR": "Sl 71,19"
+                          },
+                          "text": {
+                            "en-US": "And blessed be the Name of His majesty forever: and the whole earth shall be filled with His majesty. Amen. Amen.",
+                            "pt-BR": "E bendito seja para sempre o Nome de sua majestade, e toda a terra se encherá de sua majestade. Amém. Amém."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2674,11 +3659,129 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "May the Lord hear thee in the day, etc.—as above.",
-                        "pt-BR": "Ouça-te o Senhor no dia, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 19:2",
+                            "pt-BR": "Sl 19,2"
+                          },
+                          "text": {
+                            "en-US": "May the Lord hear thee in the day of tribulation: may the Name of the God of Jacob protect thee: may He.",
+                            "pt-BR": "Ouça-te o Senhor no dia da tribulação; proteja-te o Nome do Deus de Jacó; que ele."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 19:3",
+                            "pt-BR": "Sl 19,3"
+                          },
+                          "text": {
+                            "en-US": "Send thee help from the sanctuary and defend thee out of Sion.",
+                            "pt-BR": "Te envie auxílio do santuário e te defenda desde Sião."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 19:4",
+                            "pt-BR": "Sl 19,4"
+                          },
+                          "text": {
+                            "en-US": "Be mindful of all thy sacrifices, and may thy whole burnt-offering be made fat.",
+                            "pt-BR": "Se lembre de todos os teus sacrifícios, e seja pingue o teu holocausto."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 19:5",
+                            "pt-BR": "Sl 19,5"
+                          },
+                          "text": {
+                            "en-US": "Give thee according to thy own heart, and confirm all thy counsels.",
+                            "pt-BR": "Te dê segundo o teu coração e confirme todos os teus desígnios."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 19:6",
+                            "pt-BR": "Sl 19,6"
+                          },
+                          "text": {
+                            "en-US": "We will rejoice in thy salvation; and in the Name of our God we shall be exalted.",
+                            "pt-BR": "Alegrar-nos-emos em tua salvação, e no Nome de nosso Deus seremos exaltados."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 19:7",
+                            "pt-BR": "Sl 19,7"
+                          },
+                          "text": {
+                            "en-US": "The Lord fulfil all thy petitions: now I know that the Lord hath sent Jesus Christ His Son.",
+                            "pt-BR": "Cumpra o Senhor todas as tuas petições. Agora sei que o Senhor enviou Jesus Cristo, seu Filho."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 9:9",
+                            "pt-BR": "Sl 9,9"
+                          },
+                          "text": {
+                            "en-US": "And will judge the people with justice.",
+                            "pt-BR": "E julgará os povos com justiça."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 9:10",
+                            "pt-BR": "Sl 9,10"
+                          },
+                          "text": {
+                            "en-US": "And the Lord is become a refuge for the poor: a helper in due time of tribulation.",
+                            "pt-BR": "E o Senhor tornou-se refúgio do pobre, auxílio no tempo oportuno da tribulação."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 9:11",
+                            "pt-BR": "Sl 9,11"
+                          },
+                          "text": {
+                            "en-US": "And let them trust in Thee who know Thy Name.",
+                            "pt-BR": "E confiem em vós os que conhecem vosso Nome."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 143:1",
+                            "pt-BR": "Sl 143,1"
+                          },
+                          "text": {
+                            "en-US": "Blessed be the Lord my God.",
+                            "pt-BR": "Bendito seja o Senhor meu Deus."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 58:17",
+                            "pt-BR": "Sl 58,17"
+                          },
+                          "text": {
+                            "en-US": "For Thou art become my support and refuge in the day of my trouble.",
+                            "pt-BR": "Porque vos tornastes meu amparo e meu refúgio no dia da minha tribulação."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 58:18",
+                            "pt-BR": "Sl 58,18"
+                          },
+                          "text": {
+                            "en-US": "Unto Thee, O my helper, will I sing: for God is my defence, my God, my mercy.",
+                            "pt-BR": "A vós, ó meu auxílio, cantarei; porque Deus é minha defesa, meu Deus, minha misericórdia."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2719,11 +3822,119 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "In Thee, O Lord, have I hoped—as above.",
-                        "pt-BR": "Em vós, Senhor, esperei — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 70:1",
+                            "pt-BR": "Sl 70,1"
+                          },
+                          "text": {
+                            "en-US": "In Thee, O Lord, have I hoped, let me never be put to confusion.",
+                            "pt-BR": "Em vós, Senhor, esperei; não seja eu confundido para sempre."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 70:2",
+                            "pt-BR": "Sl 70,2"
+                          },
+                          "text": {
+                            "en-US": "Deliver me in Thy justice and rescue me: incline Thine ear unto and save me.",
+                            "pt-BR": "Livrai-me em vossa justiça e resgatai-me; inclinai a mim vosso ouvido e salvai-me."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 70:3",
+                            "pt-BR": "Sl 70,3"
+                          },
+                          "text": {
+                            "en-US": "Be Thou unto me, O God, a protector and a place of strength: that Thou mayest make me safe.",
+                            "pt-BR": "Sede para mim, ó Deus, protetor e lugar fortificado, para que me salveis."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 70:5",
+                            "pt-BR": "Sl 70,5"
+                          },
+                          "text": {
+                            "en-US": "For Thou art my patience, O Lord; my hope, O Lord, from my youth.",
+                            "pt-BR": "Porque vós sois minha paciência, Senhor; minha esperança, Senhor, desde a minha juventude."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 70:6",
+                            "pt-BR": "Sl 70,6"
+                          },
+                          "text": {
+                            "en-US": "By Thee have I been confirmed from the womb, from my mother's womb Thou art my protector: of Thee I shall continually sing.",
+                            "pt-BR": "Em vós fui confirmado desde o ventre; desde o seio de minha mãe sois meu protetor; a vós cantarei continuamente."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 70:8",
+                            "pt-BR": "Sl 70,8"
+                          },
+                          "text": {
+                            "en-US": "Let my mouth be filled with praise, that I may sing Thy glory; Thy greatness all the day long.",
+                            "pt-BR": "Encha-se minha boca de louvor, para que eu cante vossa glória e vossa grandeza todo o dia."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 68:17",
+                            "pt-BR": "Sl 68,17"
+                          },
+                          "text": {
+                            "en-US": "Hear me, O Lord, for Thy mercy is kind; look upon me according to the multitude of Thy tender mercies.",
+                            "pt-BR": "Ouvi-me, Senhor, porque benigna é vossa misericórdia; olhai para mim segundo a multidão de vossas ternas compaixões."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 68:18",
+                            "pt-BR": "Sl 68,18"
+                          },
+                          "text": {
+                            "en-US": "And turn not away Thy face from Thy servant; for I am in trouble, hear me speedily.",
+                            "pt-BR": "E não desvieis vosso rosto de vosso servo; porque estou atribulado, ouvi-me depressa."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 143:1",
+                            "pt-BR": "Sl 143,1"
+                          },
+                          "text": {
+                            "en-US": "Blessed be the Lord my God.",
+                            "pt-BR": "Bendito seja o Senhor meu Deus."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 58:17",
+                            "pt-BR": "Sl 58,17"
+                          },
+                          "text": {
+                            "en-US": "For Thou art become my support and refuge in the day of my trouble.",
+                            "pt-BR": "Porque vos tornastes meu amparo e meu refúgio no dia da minha tribulação."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 58:18",
+                            "pt-BR": "Sl 58,18"
+                          },
+                          "text": {
+                            "en-US": "Unto Thee, O my helper, will I sing; for God is my defence, my God, my mercy.",
+                            "pt-BR": "A vós, ó meu auxílio, cantarei; porque Deus é minha defesa, meu Deus, minha misericórdia."
+                          }
+                        }
+                      ]
                     }
                   ]
                 },
@@ -2764,17 +3975,105 @@
                       }
                     },
                     {
-                      "type": "rubric",
-                      "text": {
-                        "en-US": "O clap your hands, etc.—as above.",
-                        "pt-BR": "Batei palmas, etc. — como acima."
-                      }
+                      "type": "psalm",
+                      "verses": [
+                        {
+                          "ref": {
+                            "en-US": "Ps. 46:2",
+                            "pt-BR": "Sl 46,2"
+                          },
+                          "text": {
+                            "en-US": "O clap your hands, all ye nations, shout unto God with the voice of joy.",
+                            "pt-BR": "Batei palmas, todas as nações; aclamai a Deus com voz de alegria."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 46:3",
+                            "pt-BR": "Sl 46,3"
+                          },
+                          "text": {
+                            "en-US": "For the Lord is high, terrible: He is a great king over all the earth. For the most holy Father of heaven, our King, before ages sent His beloved Son from on high.",
+                            "pt-BR": "Porque o Senhor é excelso e temível; é grande rei sobre toda a terra. Pois o santíssimo Pai do céu, nosso Rei, antes dos séculos enviou do alto seu Filho amado."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 73:12",
+                            "pt-BR": "Sl 73,12"
+                          },
+                          "text": {
+                            "en-US": "And hath wrought salvation in the midst of the earth.",
+                            "pt-BR": "E operou a salvação no meio da terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:11",
+                            "pt-BR": "Sl 95,11"
+                          },
+                          "text": {
+                            "en-US": "Let the heavens rejoice and let the earth be glad, let the sea be moved and the fulness thereof.",
+                            "pt-BR": "Alegrem-se os céus e exulte a terra; mova-se o mar e tudo o que ele contém."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:12",
+                            "pt-BR": "Sl 95,12"
+                          },
+                          "text": {
+                            "en-US": "The fields and all that are in them shall be joyful.",
+                            "pt-BR": "Alegrem-se os campos e tudo o que neles há."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:1",
+                            "pt-BR": "Sl 95,1"
+                          },
+                          "text": {
+                            "en-US": "Sing unto Him a new canticle; sing unto the Lord, all the earth.",
+                            "pt-BR": "Cantai-lhe um cântico novo; cantai ao Senhor, toda a terra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:4",
+                            "pt-BR": "Sl 95,4"
+                          },
+                          "text": {
+                            "en-US": "For the Lord is great and exceedingly to be praised; He is to be feared above all gods.",
+                            "pt-BR": "Porque o Senhor é grande e digno de todo louvor; é temível acima de todos os deuses."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:7",
+                            "pt-BR": "Sl 95,7"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord, O ye kindreds of the gentiles, bring to the Lord glory and honor.",
+                            "pt-BR": "Tributai ao Senhor, ó famílias dos gentios, tributai ao Senhor glória e honra."
+                          }
+                        },
+                        {
+                          "ref": {
+                            "en-US": "Ps. 95:8",
+                            "pt-BR": "Sl 95,8"
+                          },
+                          "text": {
+                            "en-US": "Bring to the Lord glory unto His Name. Bring your own bodies and bear His holy cross; and follow His most holy precepts even unto the end.",
+                            "pt-BR": "Tributai ao Senhor a glória devida a seu Nome. Trazei vossos próprios corpos e levai sua santa cruz, e segui seus santíssimos preceitos até o fim."
+                          }
+                        }
+                      ]
                     },
                     {
                       "type": "rubric",
                       "text": {
-                        "en-US": "Also note that the whole Psalm is not said but up to the verse, \"Let all the earth be moved\"; understand however that the whole verse \"Bring your own bodies\" must be said. At the end of this verse \"Glory be to the Father\" is said. And thus it is said daily at Vespers from Advent until Christmas eve.",
-                        "pt-BR": "Note-se também que não se diz o Salmo inteiro, mas apenas até o versículo \"Estremeça toda a terra\"; entenda-se, porém, que se deve dizer inteiro o versículo \"Trazei vossos próprios corpos\". Ao fim deste versículo diz-se \"Glória ao Pai\". E assim se diz diariamente nas Vésperas, desde o Advento até a véspera de Natal."
+                        "en-US": "At the end of this Psalm \"Glory be to the Father\" is said. And thus it is said daily at Vespers from Advent until Christmas eve.",
+                        "pt-BR": "Ao fim deste Salmo diz-se \"Glória ao Pai\". E assim se diz diariamente nas Vésperas, desde o Advento até a véspera de Natal."
                       }
                     }
                   ]

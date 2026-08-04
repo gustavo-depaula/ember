@@ -107,4 +107,35 @@ describe('Little Office of the Passion — seasonal dispatch', () => {
       'christmas',
     ])
   })
+
+  it('gives every hour of every part real prayed text, never a cross-reference', () => {
+    const resolved = resolveFlow(flow, makeContext(), makeEngineContext())
+    const outer = resolved.find((s) => s.type === 'select')
+    if (outer?.type !== 'select') throw new Error('no select at top level')
+
+    const prayedChars = (sections: (typeof outer.options)[number]['sections']) =>
+      sections.reduce((total, s) => {
+        if (s.type === 'psalm') {
+          return total + s.verses.reduce((n, v) => n + v.text.primary.length, 0)
+        }
+        if (s.type === 'prayer' && s.text) return total + s.text.primary.length
+        return total
+      }, 0)
+
+    // Francis abbreviates repeated psalms as "…etc., as above" — fine in a book
+    // you can page back through, useless once the parts are separate branches.
+    // Every branch must stand alone.
+    const thin: string[] = []
+    for (const part of outer.options) {
+      const hourSelect = part.sections.find((s) => s.type === 'select')
+      const branches =
+        hourSelect?.type === 'select'
+          ? hourSelect.options.map((h) => [`${part.id}/${h.id}`, h.sections] as const)
+          : [[part.id, part.sections] as const]
+      for (const [label, sections] of branches) {
+        if (prayedChars(sections) < 200) thin.push(label)
+      }
+    }
+    expect(thin).toEqual([])
+  })
 })
