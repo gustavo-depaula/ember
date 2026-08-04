@@ -3,6 +3,7 @@ import { type UseQueryResult, useQuery, useQueryClient } from '@tanstack/react-q
 import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'
+import { ensureBookEntry } from '@/content/resolver'
 import type { RenderedSection } from '@/content/types'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
@@ -86,6 +87,11 @@ export function usePracticeContent(
       const ec = withSpiritualThreads(
         createEngineContext(undefined, { contentLanguage, secondaryLanguage }),
       )
+      // Resolve steps read book chapter titles synchronously (entry labels,
+      // meditationTitle), so referenced book manifests must be resident
+      // before the engine runs — they are no longer warmed at boot.
+      const dynamicBooks = [...new Set((flow.resolve ?? []).map((s) => s.book).filter(Boolean))]
+      await Promise.all(dynamicBooks.map((book) => ensureBookEntry(book as string)))
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,

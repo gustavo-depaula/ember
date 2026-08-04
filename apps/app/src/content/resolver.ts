@@ -436,6 +436,20 @@ export function getBookEntry(bookId: string): BookEntry | undefined {
   return residentItem<BookEntry>(bookId, 'book').item
 }
 
+/**
+ * Resolve a book manifest on demand, remembering it for subsequent sync reads
+ * (getBookEntry, chapter titles). Book manifests are no longer warmed at boot,
+ * so practice flows that reference book chapters (Divine Intimacy, Lectio)
+ * must ensure the manifest instead of relying on a resident read.
+ */
+export async function ensureBookEntry(bookId: string): Promise<BookEntry | undefined> {
+  const canonical = canonicalize(bookId, 'book')
+  if (!canonical) return undefined
+  const entry = getEntry(canonical)
+  if (entry?.kind !== 'book') return undefined
+  return ensureManifestBody<BookEntry>(entry.hash)
+}
+
 export function getAllBookEntries(): BookEntry[] {
   const out: BookEntry[] = []
   for (const [, entry] of getEntriesByKind('book')) {
@@ -450,7 +464,7 @@ export async function loadBookChapterText(
   chapterId: string,
   lang: string,
 ): Promise<string | undefined> {
-  const { item } = residentItem<BookEntry>(bookId, 'book')
+  const item = await ensureBookEntry(bookId)
   if (!item) return undefined
   const ref = item.chapters[chapterId]?.[lang]
   if (!ref) return undefined

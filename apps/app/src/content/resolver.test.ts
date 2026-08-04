@@ -10,8 +10,14 @@
 import { beforeEach, describe, expect, it } from 'vitest'
 
 import { rememberManifestBody, resetContentIndex, setCatalog } from './contentIndex'
-import type { Catalog, PracticeManifest } from './manifestTypes'
-import { loadFlow, resolveCanticle, resolvePrayer } from './resolver'
+import type { BookEntry, Catalog, PracticeManifest } from './manifestTypes'
+import {
+  getBookEntry,
+  loadBookChapterText,
+  loadFlow,
+  resolveCanticle,
+  resolvePrayer,
+} from './resolver'
 import * as store from './store'
 
 const ourFather: PracticeManifest = {
@@ -188,5 +194,72 @@ describe('loadFlow — inline flow vs flowHash', () => {
 
   it('returns undefined for an unknown practice', async () => {
     expect(await loadFlow('does-not-exist')).toBeUndefined()
+  })
+})
+
+describe('loadBookChapterText — on-demand book manifest', () => {
+  const bookManifest: BookEntry = {
+    id: 'book/test-book',
+    name: { 'en-US': 'Test Book' },
+    chapters: {
+      'ch-1': { 'pt-BR': { hash: 'h-ch-1-pt', size: 10 } },
+    },
+  }
+
+  function seedBookCatalog(): void {
+    setCatalog({
+      version: 2,
+      generated: '2026-07-27T00:00:00Z',
+      items: {
+        'book/test-book': { kind: 'book', hash: 'h-book', size: 100, name: bookManifest.name },
+      },
+    })
+  }
+
+  function withStoreStubs(fn: () => Promise<void>): Promise<void> {
+    const originalGetJson = store.getJson
+    const originalGetText = store.getText
+    Object.defineProperty(store, 'getJson', {
+      configurable: true,
+      value: async (hash: string) => {
+        if (hash === 'h-book') return bookManifest
+        throw new Error(`unexpected getJson(${hash})`)
+      },
+    })
+    Object.defineProperty(store, 'getText', {
+      configurable: true,
+      value: async (hash: string) => {
+        if (hash === 'h-ch-1-pt') return 'Meditação do dia.'
+        throw new Error(`unexpected getText(${hash})`)
+      },
+    })
+    return fn().finally(() => {
+      Object.defineProperty(store, 'getJson', { configurable: true, value: originalGetJson })
+      Object.defineProperty(store, 'getText', { configurable: true, value: originalGetText })
+    })
+  }
+
+  it('loads chapter text even when the book manifest was never warmed', async () => {
+    // Regression: book manifests are warmed in the background after first
+    // paint, so a practice flow (Divine Intimacy) resolving before the warm
+    // completes must fetch the manifest itself instead of silently rendering
+    // an empty meditation.
+    seedBookCatalog()
+    await withStoreStubs(async () => {
+      expect(getBookEntry('test-book')).toBeUndefined() // not resident yet
+      const text = await loadBookChapterText('test-book', 'ch-1', 'pt-BR')
+      expect(text).toBe('Meditação do dia.')
+      // The fetched manifest is now remembered for sync readers (chapter titles).
+      expect(getBookEntry('test-book')).toBeDefined()
+    })
+  })
+
+  it('still returns undefined for an unknown book or chapter', async () => {
+    seedBookCatalog()
+    await withStoreStubs(async () => {
+      expect(await loadBookChapterText('nope', 'ch-1', 'pt-BR')).toBeUndefined()
+      expect(await loadBookChapterText('test-book', 'missing', 'pt-BR')).toBeUndefined()
+      expect(await loadBookChapterText('test-book', 'ch-1', 'it')).toBeUndefined()
+    })
   })
 })

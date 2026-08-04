@@ -4,7 +4,7 @@ import { Platform } from 'react-native'
 
 import type { TocNode } from '@/content/manifestTypes'
 import type { Primitive } from '@/content/primitives'
-import { getBookEntry, loadPracticeData } from '@/content/resolver'
+import { ensureBookEntry, loadPracticeData } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useToday } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
@@ -45,8 +45,8 @@ function primitiveFirstLine(p: Primitive | undefined): string | undefined {
 // TOC carries a clean per-chapter title in every published language (Liguori's
 // chapter bodies open on a scripture epigraph, not a heading, so parsing the
 // markdown would miss them). `localizeContent` picks the app language and falls
-// back to the book's own (Liguori is pt-BR-only). Pure resident-manifest reads,
-// so it works on web too.
+// back to the book's own (Liguori is pt-BR-only). The book manifest is resolved
+// on demand — it is not warmed at boot.
 async function bookMeditationTitle(
   practiceId: string,
   bookId: string,
@@ -58,7 +58,7 @@ async function bookMeditationTitle(
   if (!map) return undefined
   const [entry] = resolveLiturgicalDay(date, map)
   if (!entry) return undefined
-  const node = findTocNode(getBookEntry(bookId)?.toc, entry.id)
+  const node = findTocNode((await ensureBookEntry(bookId))?.toc, entry.id)
   return node ? localizeContent(node.title) || undefined : undefined
 }
 
