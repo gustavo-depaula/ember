@@ -74,6 +74,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'hymn',
   'canticle',
   'meditation',
+  'psalm',
   'response',
   'subheading',
   'proper',

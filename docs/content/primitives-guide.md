@@ -103,6 +103,27 @@ For text meant to be read and contemplated, not recited:
 
 Renders as italic prayer text. Use for rosary mystery meditations, novena reflections, daily mystery introductions. Don't reach for `meditation` just because you want italic styling on a *prayer* line — the right tool there is an inline prayer; if you specifically want italic, the engine will not give it to you for `prayer`. Pick by intent.
 
+### `psalm` — a cento, one reference per verse
+
+For a psalm stitched together from verses drawn out of many places in Scripture. St Francis' offices are built this way: every line comes from somewhere different, so every line carries its own citation.
+
+```json
+{ "type": "psalm", "verses": [
+  { "ref": { "en-US": "Ps. 55:9", "pt-BR": "Sl 55,9" },
+    "text": { "en-US": "O God, I have declared to Thee my life…",
+              "pt-BR": "Ó Deus, eu vos expus a minha vida…" } },
+  { "ref": { "en-US": "Ps. 40:8", "pt-BR": "Sl 40,8" },
+    "text": { "en-US": "All my enemies devised evils against me.",
+              "pt-BR": "Todos os meus inimigos maquinavam males contra mim." } }
+]}
+```
+
+**Never bake the citation into the prayed text.** `"Ps. 55:9. O God, I have declared…"` inside a `prayer` block renders the reference at the same size, weight, and colour as the words being prayed — a wall of numbers competing with the psalm. The `ref` field renders as a muted, smaller lead-in instead, and a screen reader skips it.
+
+`ref` is localized because the book abbreviation differs by language (`Ps.` / `Sl`) — and note the per-language convention: English `Ps. 55:9`, Portuguese `Sl 55,9`. `ref` is optional; a verse without one renders as plain prayed text, which is what you want for a doxology or a closing line that isn't a quotation.
+
+Use `psalm` only for centos. A psalm recited whole belongs in `psalmody` (which resolves it from the psalter by reference) or, if it's short and fixed, an inline `prayer`.
+
 ---
 
 ## Bilingual pairing — one block per translation pair

@@ -120,6 +120,16 @@ async function preprocessSection(
         },
       ]
 
+    case 'psalm':
+      return {
+        type: 'verses',
+        style: 'cento',
+        items: section.verses.map((verse) => ({
+          ...(verse.ref ? { num: verse.ref.primary } : {}),
+          text: verse.text,
+        })),
+      }
+
     case 'response':
       return {
         type: 'verses',

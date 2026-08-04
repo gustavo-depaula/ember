@@ -68,6 +68,33 @@ describe('Little Office of the Passion — seasonal dispatch', () => {
     expect(inner.selectedId).toBe('terce')
   })
 
+  it('carries each cento verse reference as data, not baked into the prayed text', () => {
+    const resolved = resolveFlow(
+      flow,
+      makeContext({ date: new Date('2026-07-14T12:00:00'), liturgicalCalendar: 'of' }),
+      makeEngineContext(),
+    )
+    const outer = resolved.find((s) => s.type === 'select')
+    if (outer?.type !== 'select') throw new Error('no select at top level')
+    const hours = outer.options[0]?.sections.find((s) => s.type === 'select')
+    if (hours?.type !== 'select') throw new Error('no hour select')
+    const compline = hours.options.find((o) => o.id === 'compline')
+    const psalm = compline?.sections.find((s) => s.type === 'psalm')
+    if (psalm?.type !== 'psalm') throw new Error('no psalm section at Compline')
+
+    expect(psalm.verses[0]).toMatchObject({
+      ref: { primary: 'Sl 55,9' },
+      text: {
+        primary: 'Ó Deus, eu vos expus a minha vida; pusestes as minhas lágrimas diante de vós.',
+      },
+    })
+    // Every verse's prayed text must be free of its own leading citation —
+    // that's the whole point of splitting `ref` out.
+    for (const verse of psalm.verses) {
+      expect(verse.text.primary).not.toMatch(/^(Sl|Ps\.|Lm|Ex|Lc)\s?\d+[,:]/)
+    }
+  })
+
   it('offers every part in the picker so the user can override the guess', () => {
     const resolved = resolveFlow(flow, makeContext(), makeEngineContext())
     const select = resolved.find((s) => s.type === 'select')

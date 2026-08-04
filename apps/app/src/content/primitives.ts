@@ -60,7 +60,10 @@ export type VersesPrimitive = {
     // shouldn't have to sniff at the num field to figure it out.
     role?: 'v' | 'r'
   }[]
-  style?: 'numbered' | 'vr'
+  // 'cento' sets `num` as a muted lead-in on the same line as the verse, for
+  // psalms stitched from many references where a full citation ("Ps. 56:1")
+  // would be too wide for the numbered style's gutter.
+  style?: 'numbered' | 'vr' | 'cento'
   fallback?: boolean
 }
 
