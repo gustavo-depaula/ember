@@ -142,7 +142,7 @@ Verified against RN 0.85 docs (`react-native-website` source):
 
 Two consequences:
 
-**A full Knuth–Plass native renderer is not worth building.** Justif ships its DOM-free engine as `justif/core` (~66 KB), so we *could* compute optimal breaks in JS. But without `wordSpacing` we could only apply the result by rendering each line as its own `<Text>` with a computed `letterSpacing` — which would break text selection across lines, copy/paste, and accessibility, and would still be justifying by tracking alone (the thing typographers do *last*). Not recommended.
+The missing `wordSpacing` looks fatal for a native Knuth–Plass renderer. It isn't — see Part 6, where the pipeline is built and verified.
 
 **But there is a free Android win.** `android_hyphenationFrequency` defaults to `'none'`, which means our justified Android text is justified *without hyphenation* — the worst possible combination, and the direct cause of gappy lines. Setting it to `'normal'` on the reading-text components is a one-line change in `useReadingStyle()`. Android also already runs `highQuality` break strategy (a whole-paragraph optimizing breaker), so with hyphenation enabled Android text gets close to good. iOS has no equivalent lever, so iOS remains greedy and un-hyphenated.
 
@@ -235,6 +235,66 @@ So a `white-space: normal` override on reading-text components is the whole unlo
 
 ---
 
+## Part 6 — Justif on iOS/Android natively: proven feasible
+
+The goal is Justif in the **native builds**, not just web. React Native has no `wordSpacing`, so Justif's DOM output can't be applied directly. But Justif ships `justif/core` — a DOM-free layout engine (~66 KB) whose README explicitly offers it "for custom renderers" — and `buildItems(texts, runs, opts, measure)` takes an **injectable `Measure`**. That's the seam.
+
+Three problems had to be solved. All three are solved, and the pipeline was built end to end.
+
+### 1. Text measurement without a measurement API
+
+RN exposes no synchronous way to measure a string. So measure it ourselves: the reading fonts are already bundled as TTFs, and advance widths come straight out of `head` / `hhea` / `hmtx` / `cmap`. That's ~90 lines of pure JS, no font library.
+
+Validated against a real text engine (Chromium `measureText`, kerning off) over 276 words of the actual Latin and English prayer corpus at 22 px:
+
+| Width model | Mean abs error | Max abs error |
+|---|---|---|
+| Plain advances | 0.045 px | **2.53 px** (`afflict`) |
+| **+ f-ligature substitution** | **0.0002 px** | **0.0004 px** |
+
+The 2.53 px outlier is the `ffl` ligature — EB Garamond substitutes a single narrower glyph. Modelling the five standard f-ligatures (`ffl ffi ff fi fl`, all mapped at U+FB00–FB04) takes the error to effectively zero. **Skipping ligatures is not optional**; 2.5 px is enough to push a line over and cascade a re-wrap.
+
+### 2. Applying per-line word spacing without `wordSpacing`
+
+`Line` from `layoutLines` gives `glueRatio` (per-space px), `trackRatio` (letterfit), `hyphenated`, and `leftHang`/`rightHang`. Every one of those maps onto something RN can express:
+
+| Justif output | React Native |
+|---|---|
+| per-space width | nested `<Text style={{letterSpacing: extra}}>{' '}</Text>` — a lone space glyph widened by `letterSpacing` |
+| `trackRatio` | `letterSpacing` on the word runs |
+| line breaks | explicit `\n` (the breaker already decided them) |
+| `leftHang` / `rightHang` | negative margins on the line container |
+| `hyphenated` | append `-` |
+
+The word-space trick is the key: `letterSpacing` adds space *after each character*, so a `<Text>` containing a single space renders at `spaceAdvance + letterSpacing`. That is per-space control, built out of the one lever RN does expose. Keeping everything nested inside a single parent `<Text>` preserves it as one selectable, copyable run.
+
+### 3. Does it actually reproduce Justif?
+
+Built the whole chain — TTF metrics → `buildItems` → `breakParagraph` → `layoutLines` → RN-primitive rendering — and rendered the output using **only** primitives RN has (no `word-spacing`, no `text-align: justify`), against Justif's own DOM renderer on the same text at the same 170.5 px bilingual column:
+
+![Justif's DOM renderer beside the same paragraph rendered through React Native primitives](../assets/justification-rn-renderer.webp)
+
+| | Result |
+|---|---|
+| Lines, Justif DOM | 18 (la) / 18 (en) |
+| Lines, RN primitives | **18 / 18 — identical** |
+| Rendered line width | **exactly 170.5 px on every line**, min = max = target |
+| Lines overflowing the column | **0** |
+
+Line for line, pixel for pixel. A first attempt came out at 19 lines because the breaker was allowed 3% letterfit tracking that the renderer never emitted — worth recording, because it shows the failure mode: **any flex the breaker is given must actually be rendered, or lines silently re-wrap.**
+
+### What is still unverified
+
+One link cannot be tested from a Linux container: **whether iOS renders `letterSpacing` on a lone space the way CSS does.** RN maps `letterSpacing` to `NSKernAttributeName` on iOS and `TextPaint.setLetterSpacing` on Android, both of which add space after each character, so it should hold — but it needs a simulator check before committing to the build. That single test decides the whole approach; run it first.
+
+Also to settle on device: that selection and copy still behave across the nested runs, and what happens under Dynamic Type (either `allowFontScaling={false}` or recompute on scale change — the pipeline is pure JS and fast, so recomputing is fine).
+
+### Cost
+
+Real, but bounded: a font-metrics module (~90 lines + a ligature table), a `Measure` adapter, a line renderer, and re-layout on width/font/size change. `justif/core` is 66 KB and does the hard part. Compare against the alternative — moving prayer flows into a WebView, which buys full Justif including protrusion but costs native selection, Tamagui theming, `ImageViewer`, accessibility, and Reanimated layout.
+
+---
+
 ## Part 5 — Recommended order of work
 
 1. **Justif on the web build's prayer flows**, via `white-space: normal` on reading-text components. Prayer is the daily loop — this is the text people see every day, and the bilingual side-by-side columns are where justification is worst and Justif pays most. Web-only, so it lands for desktop and dev first; iOS/Android prayer flows are item 5.
@@ -242,9 +302,17 @@ So a `white-space: normal` override on reading-text components is the whole unlo
 2. **Vendor Justif into the foliate reader.** All platforms, biggest surface, verified safe against highlight anchors. Guard the footnote `innerHTML` path first, wire `rescan()` into the `setStyles` config path, measure on device. Ship stock defaults; add the liturgical-Latin hyphenator. Different delivery from item 1: this one is inlined into the WebView bootstrap string alongside `bootstrap.raw.js`, not imported.
 3. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`. One line, no dependency; the only justification lever RN gives us and it's currently off.
 4. **Bible as continuous prose** rather than one `<Text>` per verse. Worth its own spec — it's the difference between "a verse list" and "a Bible", and it's also what makes the page worth justifying at all.
-5. **The open question: prayer flows on iOS/Android.** Justif cannot reach them without moving the flow renderer into a WebView, which would cost native selection, Tamagui theming, `ImageViewer`, accessibility and Reanimated layout. Until that's decided, the native options are the status quo or ragged-right — a preference call, and the bilingual side-by-side column at 170 px is the case that most deserves one.
+5. **Justif natively on iOS/Android** via the `justif/core` pipeline in Part 6. Verified to reproduce Justif's DOM output line for line. **Gate it on one simulator test first:** does `letterSpacing` on a lone space widen it in UIKit? If yes, build it; if no, the fallback is the WebView route.
 
-Item 3 is independent of Justif and shouldn't wait on it.
+Item 3 is independent of Justif and shouldn't wait on it. Items 1 and 5 share the hyphenators and the tuning, so doing 1 first makes 5 cheaper.
+
+---
+
+## Unrelated bug found while testing
+
+**`lang="la"` silently rewrites Latin orthography in EB Garamond.** The font carries a `locl` substitution for the Latin language system that maps the text to classical epigraphic forms: `meum → mevm`, `quoque → qvoqve`, `tuum → tvvm`. Advance widths are unchanged (684 px either way), so it is purely a glyph substitution — but the corpus says *meum* and the reader sees *mevm*.
+
+This is live wherever Latin gets a language tag, including the book reader, which sets `<html lang="${cfg.lang}">` in `blobUrl()`. For a liturgical Latin app that is almost certainly not wanted. Fix is to suppress the language-specific substitution (`font-variant-alternates`/`font-feature-settings`) or not tag Latin runs with `lang` — but note that the hyphenator selection in the drop-in script keys off `lang`, so if we go the second route the hyphenator has to be passed explicitly.
 
 ---
 
