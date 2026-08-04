@@ -2281,8 +2281,22 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ecce Maria genuit nobis Salvatorem, quem Ioannes videns, exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.\nLittle Chapter From Christmas to Advent - Cant vi\nViderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.",
-                "en-US": "Behold, Mary, hath brought us forth a Saviour, Whom when John saw, he cried aloud, saying: Behold the Lamb of God! Behold Him Who taketh away the sins of the world, Alleluia.\nLittle Chapter from Christmas until Advent - Cant vi\nThe daughters of Sion saw her, and declared her most blessed; and queens praised her."
+                "la": "Ecce Maria genuit nobis Salvatorem, quem Ioannes videns, exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.",
+                "en-US": "Behold, Mary, hath brought us forth a Saviour, Whom when John saw, he cried aloud, saying: Behold the Lamb of God! Behold Him Who taketh away the sins of the world, Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter From Christmas to Advent - Cant vi",
+                "en-US": "Little Chapter from Christmas until Advent - Cant vi"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.",
+                "en-US": "The daughters of Sion saw her, and declared her most blessed; and queens praised her."
               }
             },
             {
@@ -2293,10 +2307,17 @@
               }
             },
             {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter in Advent - Is 11:1-2",
+                "en-US": "Little Chapter in Advent - Is 11:1-2"
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Little Chapter in Advent - Is 11:1-2\nEgredietur virga de radice Iesse, et flos de radice eius ascendet. Et requiescet super eum Spiritus Domini.",
-                "en-US": "Little Chapter in Advent - Is 11:1-2\nThere shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root, and the Spirit of the Lord shall rest upon Him."
+                "la": "Egredietur virga de radice Iesse, et flos de radice eius ascendet. Et requiescet super eum Spiritus Domini.",
+                "en-US": "There shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root, and the Spirit of the Lord shall rest upon Him."
               }
             },
             {
@@ -3575,8 +3596,22 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "O admirabile commercium! Creator generis humani, animatum corpus sumens, de Virgine nasci dignatus est; et procedens homo sine semine, largitus est nobis suam Deitatem.\nLittle Chapter Outside Advent - Song of Songs 6:9\nQuae est ista, quae progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?",
-                "en-US": "O wondrous union! the Creator of mankind, taking a body with a living soul, vouchsafed to be born of a virgin; and becoming man without man's concurrence, bestowed upon us His Godhead.\nLittle Chapter Outside Advent - Song of Songs 6:9\nWho is she that cometh forth as the morning rising, fair as the moon, bright as the sun, terrible as an army set in array?"
+                "la": "O admirabile commercium! Creator generis humani, animatum corpus sumens, de Virgine nasci dignatus est; et procedens homo sine semine, largitus est nobis suam Deitatem.",
+                "en-US": "O wondrous union! the Creator of mankind, taking a body with a living soul, vouchsafed to be born of a virgin; and becoming man without man's concurrence, bestowed upon us His Godhead."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter Outside Advent - Song of Songs 6:9",
+                "en-US": "Little Chapter Outside Advent - Song of Songs 6:9"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Quae est ista, quae progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?",
+                "en-US": "Who is she that cometh forth as the morning rising, fair as the moon, bright as the sun, terrible as an army set in array?"
               }
             },
             {
@@ -3587,10 +3622,17 @@
               }
             },
             {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter During Advent - Isaiah 7:14-15",
+                "en-US": "Little Chapter During Advent - Isaiah 7:14-15"
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Little Chapter During Advent - Isaiah 7:14-15\nEcce virgo concipiet, et pariet filium, et vocabitur nomen eius Emmanuel. Butýrum et mel comedet, ut sciat reprobare malum, et eligere bonum.",
-                "en-US": "Little Chapter During Advent - Isaiah 7:14-15\nBehold, a Virgin shall conceive and shall bear a Son, and His name shall be called Emmanuel: butter and honey shall He eat, that He may know to refuse the evil and choose the good."
+                "la": "Ecce virgo concipiet, et pariet filium, et vocabitur nomen eius Emmanuel. Butýrum et mel comedet, ut sciat reprobare malum, et eligere bonum.",
+                "en-US": "Behold, a Virgin shall conceive and shall bear a Son, and His name shall be called Emmanuel: butter and honey shall He eat, that He may know to refuse the evil and choose the good."
               }
             },
             {
@@ -3947,8 +3989,22 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Quando natus es ineffabiliter ex Virgine, tunc impletae sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus, Deus noster.\nLittle Chapter Outside Advent - Sirach 24:15\nEt sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Ierusalem potestas mea.",
-                "en-US": "When Thou wert wondrously born of a virgin, then were the Scriptures fulfilled: Thou earnest down like the rain upon the fleece, that Thou mightest save mankind. We praise Thee, our God.\nLittle Chapter Outside Advent - Sirach 24:15\nAnd so was I established in Sion, and in the holy city likewise I rested; and my power was in Jerusalem."
+                "la": "Quando natus es ineffabiliter ex Virgine, tunc impletae sunt Scripturae: sicut pluvia in vellus descendisti, ut salvum faceres genus humanum: te laudamus, Deus noster.",
+                "en-US": "When Thou wert wondrously born of a virgin, then were the Scriptures fulfilled: Thou earnest down like the rain upon the fleece, that Thou mightest save mankind. We praise Thee, our God."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter Outside Advent - Sirach 24:15",
+                "en-US": "Little Chapter Outside Advent - Sirach 24:15"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Ierusalem potestas mea.",
+                "en-US": "And so was I established in Sion, and in the holy city likewise I rested; and my power was in Jerusalem."
               }
             },
             {
@@ -3959,10 +4015,17 @@
               }
             },
             {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter During Advent - Isaiah 11:1-2",
+                "en-US": "Little Chapter During Advent - Isaiah 11:1-2"
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Little Chapter During Advent - Isaiah 11:1-2\nEgredietur virga de radice Iesse, et flos de radice eius ascendet. Et requiescet super eum Spiritus Domini.",
-                "en-US": "Little Chapter During Advent - Isaiah 11:1-2\nThere shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root. And the Spirit of the Lord shall rest upon Him."
+                "la": "Egredietur virga de radice Iesse, et flos de radice eius ascendet. Et requiescet super eum Spiritus Domini.",
+                "en-US": "There shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root. And the Spirit of the Lord shall rest upon Him."
               }
             },
             {
@@ -5501,8 +5564,22 @@
             {
               "type": "prayer",
               "inline": {
-                "la": "Ecce Maria genuit nobis Salvatorem, quem Ioannes videns, exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.\nLittle Chapter Outside Advent - Sir 24:24\nAb initio et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.",
-                "en-US": "Behold, Mary, hath brought us forth a Saviour, Whom when John saw, he cried aloud, saying: Behold the Lamb of God! Behold Him Who taketh away the sins of the world, Alleluia.\nLittle Chapter Outside Advent - Sir 24:24\nFrom the beginning, and before the world was I created, and unto the world to come I shall not cease to be, and in the holy dwelling-place have I ministered before Him."
+                "la": "Ecce Maria genuit nobis Salvatorem, quem Ioannes videns, exclamavit, dicens: Ecce Agnus Dei, ecce qui tollit peccata mundi, alleluia.",
+                "en-US": "Behold, Mary, hath brought us forth a Saviour, Whom when John saw, he cried aloud, saying: Behold the Lamb of God! Behold Him Who taketh away the sins of the world, Alleluia."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter Outside Advent - Sir 24:24",
+                "en-US": "Little Chapter Outside Advent - Sir 24:24"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam, et in habitatione sancta coram ipso ministravi.",
+                "en-US": "From the beginning, and before the world was I created, and unto the world to come I shall not cease to be, and in the holy dwelling-place have I ministered before Him."
               }
             },
             {
@@ -5513,10 +5590,17 @@
               }
             },
             {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter During Advent. - Is 11:1-2",
+                "en-US": "Little Chapter During Advent - Is 11:1-2"
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Little Chapter During Advent. - Is 11:1-2\nEgredietur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.",
-                "en-US": "Little Chapter During Advent - Is 11:1-2\nThere shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root, and the Spirit of the Lord shall rest upon Him."
+                "la": "Egredietur virga de radice Jesse, et flos de radice ejus ascendet. Et requiescet super eum Spiritus Domini.",
+                "en-US": "There shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root, and the Spirit of the Lord shall rest upon Him."
               }
             },
             {
@@ -6116,8 +6200,22 @@
             {
               "type": "hymn",
               "inline": {
-                "la": "Memento, rerum Conditor,\nNostri quod olim corporis,\nSacrata ab alvo Virginis\nNascendo formam sumpseris.\nMaria Mater gratiae,\nDulcis Parens clementiae,\nTu nos ab hoste protege,\nEt mortis hora suscipe.\nJesu, tibi sit gloria,\nQui natus es de Virgine,\nCum Patre, et almo Spiritu,\nIn sempiterna saecula.\nAmen.\nLittle Chapter Outside Advent - Sir 24:24\nEgo mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.",
-                "en-US": "Remember, O creator Lord,\nThat in the Virgin's sacred womb\nThou wast conceived, and of her flesh\nDidst our mortality assume.\nMother of grace! O Mary blest!\nTo thee, sweet fount of love, we fly;\nShield us through life, and take us hence\nTo thy dear bosom, when we die.\nO Jesu! born of Virgin bright,\nImmortal glory be to Thee;\nPraise to the Father infinite,\nAnd Holy Ghost eternally.\nAmen.\nLittle Chapter Outside Advent - Sir 24:24\nI am the Mother of fair love, and of fear, and of knowledge, and of holy hope."
+                "la": "Memento, rerum Conditor,\nNostri quod olim corporis,\nSacrata ab alvo Virginis\nNascendo formam sumpseris.\nMaria Mater gratiae,\nDulcis Parens clementiae,\nTu nos ab hoste protege,\nEt mortis hora suscipe.\nJesu, tibi sit gloria,\nQui natus es de Virgine,\nCum Patre, et almo Spiritu,\nIn sempiterna saecula.\nAmen.",
+                "en-US": "Remember, O creator Lord,\nThat in the Virgin's sacred womb\nThou wast conceived, and of her flesh\nDidst our mortality assume.\nMother of grace! O Mary blest!\nTo thee, sweet fount of love, we fly;\nShield us through life, and take us hence\nTo thy dear bosom, when we die.\nO Jesu! born of Virgin bright,\nImmortal glory be to Thee;\nPraise to the Father infinite,\nAnd Holy Ghost eternally.\nAmen."
+              }
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter Outside Advent - Sir 24:24",
+                "en-US": "Little Chapter Outside Advent - Sir 24:24"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "la": "Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.",
+                "en-US": "I am the Mother of fair love, and of fear, and of knowledge, and of holy hope."
               }
             },
             {
@@ -6143,10 +6241,17 @@
               ]
             },
             {
+              "type": "subheading",
+              "text": {
+                "la": "Little Chapter During Advent - Is 7:14-15",
+                "en-US": "Little Chapter During Advent - Is 7:14-15"
+              }
+            },
+            {
               "type": "prayer",
               "inline": {
-                "la": "Little Chapter During Advent - Is 7:14-15\nEcce virgo concipiet, et pariet Filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.",
-                "en-US": "Little Chapter During Advent - Is 7:14-15\nBehold, a virgin shall conceive, and bear a Son, and His name will be called Emmanuel: Butter and honey shall He eat, that he may know to refuse evil and to choose good."
+                "la": "Ecce virgo concipiet, et pariet Filium, et vocabitur nomen ejus Emmanuel. Butyrum et mel comedet, ut sciat reprobare malum, et eligere bonum.",
+                "en-US": "Behold, a virgin shall conceive, and bear a Son, and His name will be called Emmanuel: Butter and honey shall He eat, that he may know to refuse evil and to choose good."
               }
             },
             {
