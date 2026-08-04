@@ -96,6 +96,11 @@ const KNOWN_SECTION_TYPES = new Set([
   'celebration-banner',
   'collapsible',
   'section-marker',
+  'group',
+  'offering',
+  'capture-movement',
+  'capture-resolution',
+  'review-resolution',
 ])
 
 function visit(node: unknown, path: string, ctx: WalkCtx): void {
@@ -222,7 +227,20 @@ function validateFlow(file: string): void {
     })
     return
   }
+  validateFlowBody(parsed, file, '$')
+}
 
+/**
+ * Validate a flow definition wherever it lives — a standalone flow.json, or
+ * inlined under a manifest's `flow` key. `pathPrefix` roots the reported JSON
+ * paths, and `dir` is the directory relative paths (fragmentSources) resolve
+ * against.
+ */
+function validateFlowBody(
+  parsed: Record<string, unknown>,
+  file: string,
+  pathPrefix: string,
+): void {
   const fragments = (parsed.fragments ?? {}) as Record<string, unknown>
   const fragmentRefs = new Set(Object.keys(fragments))
 
@@ -236,7 +254,7 @@ function validateFlow(file: string): void {
       if (typeof src !== 'string') {
         issues.push({
           file,
-          path: `$.fragmentSources[${i}]`,
+          path: `${pathPrefix}.fragmentSources[${i}]`,
           message: 'fragmentSources entry must be a string path',
         })
         continue
@@ -245,7 +263,7 @@ function validateFlow(file: string): void {
       if (!existsSync(sourcePath)) {
         issues.push({
           file,
-          path: `$.fragmentSources[${i}]`,
+          path: `${pathPrefix}.fragmentSources[${i}]`,
           message: `fragmentSources["${src}"] — file not found at ${sourcePath}`,
         })
         continue
@@ -266,9 +284,9 @@ function validateFlow(file: string): void {
 
   const ctx: WalkCtx = { file, fragmentRefs, practiceIds }
 
-  if (Array.isArray(parsed.sections)) visit(parsed.sections, '$.sections', ctx)
-  if (parsed.fragments) visit(parsed.fragments, '$.fragments', ctx)
-  if (parsed.load) visit(parsed.load, '$.load', ctx)
+  if (Array.isArray(parsed.sections)) visit(parsed.sections, `${pathPrefix}.sections`, ctx)
+  if (parsed.fragments) visit(parsed.fragments, `${pathPrefix}.fragments`, ctx)
+  if (parsed.load) visit(parsed.load, `${pathPrefix}.load`, ctx)
 }
 
 function validateManifest(file: string): void {
@@ -284,8 +302,17 @@ function validateManifest(file: string): void {
   if (typeof m.id !== 'string') {
     issues.push({ file, path: '$.id', message: 'manifest.id must be a string' })
   }
-  if (m.flow && typeof m.flow !== 'string') {
-    issues.push({ file, path: '$.flow', message: 'manifest.flow must be a string path' })
+  // `flow` is either a path to a sibling flow.json or the flow inline (which
+  // build-corpus.py treats as the preferred shape — 93 manifests use it). An
+  // inline flow gets the same section validation a flow.json would.
+  if (m.flow && typeof m.flow === 'object' && !Array.isArray(m.flow)) {
+    validateFlowBody(m.flow as Record<string, unknown>, file, '$.flow')
+  } else if (m.flow && typeof m.flow !== 'string') {
+    issues.push({
+      file,
+      path: '$.flow',
+      message: 'manifest.flow must be a string path or an inline flow object',
+    })
   }
   if (m.flow && typeof m.flow === 'string') {
     const flowPath = join(file, '..', m.flow)

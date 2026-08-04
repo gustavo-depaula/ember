@@ -20,13 +20,16 @@ function useReduceTransparency() {
   const [reduce, setReduce] = useState(false)
   useEffect(() => {
     let mounted = true
-    AccessibilityInfo.isReduceTransparencyEnabled().then((v) => {
+    // Reduce-transparency is an iOS accessibility setting; react-native-web
+    // ships neither the query nor the event, so web keeps the default (false)
+    // and renders the glass material.
+    AccessibilityInfo.isReduceTransparencyEnabled?.().then((v) => {
       if (mounted) setReduce(v)
     })
-    const sub = AccessibilityInfo.addEventListener('reduceTransparencyChanged', setReduce)
+    const sub = AccessibilityInfo.addEventListener?.('reduceTransparencyChanged', setReduce)
     return () => {
       mounted = false
-      sub.remove()
+      sub?.remove()
     }
   }, [])
   return reduce

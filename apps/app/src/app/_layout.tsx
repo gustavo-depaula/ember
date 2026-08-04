@@ -342,7 +342,9 @@ export default function RootLayout() {
   // the override so 'system' keeps following the device (and useColorScheme stays true).
   useEffect(() => {
     SystemUI.setBackgroundColorAsync(rootBg)
-    Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
+    // react-native-web has no setColorScheme — the CSS media query already
+    // follows the device, so there's nothing to override there.
+    Appearance.setColorScheme?.(themePreference === 'system' ? 'unspecified' : themePreference)
   }, [rootBg, themePreference])
 
   if (!coreReady) return undefined

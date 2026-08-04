@@ -2,14 +2,16 @@
   "id": "little-office-benedictine-oblates-alternative-version",
   "icon": "prayer",
   "name": {
-    "en-US": "Little Office for Benedictine Oblates (Alternative Version)"
+    "en-US": "Little Office for Benedictine Oblates (Alternative Version)",
+    "pt-BR": "Pequeno Ofício dos Oblatos Beneditinos (versão alternativa)"
   },
   "categories": [
     "office"
   ],
   "estimatedMinutes": 6,
   "description": {
-    "en-US": "A traditional little office in honour of Benedictine Oblates (Alternative Version)."
+    "en-US": "A traditional little office in honour of Benedictine Oblates (Alternative Version).",
+    "pt-BR": "Um pequeno ofício tradicional para os oblatos beneditinos, em versão alternativa."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

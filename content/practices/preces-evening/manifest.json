@@ -1,46 +1,88 @@
 {
-	"id": "preces-evening",
-	"name": {
-		"en-US": "Evening Preces"
-	},
-	"flow": {
-		"sections": [
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "O Lord, shew thy mercy upon us.\nAnd grant us thy salvation."
-				}
-			},
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "O Lord, save the State.\nAnd mercifully hear us when we call upon thee."
-				}
-			},
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "Endue thy Ministers with righteousness.\nAnd make thy chosen people joyful."
-				}
-			},
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "O Lord, save thy people.\nAnd bless thine inheritance."
-				}
-			},
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "Give peace in our time, O Lord.\nBecause there is none other that fighteth for us, but only thou, O God."
-				}
-			},
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "O God, make clean our hearts within us.\nAnd take not thy Holy Spirit from us."
-				}
-			}
-		]
-	}
+  "id": "preces-evening",
+  "name": {
+    "en-US": "Evening Preces"
+  },
+  "flow": {
+    "sections": [
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "O Lord, shew thy mercy upon us."
+            },
+            "r": {
+              "en-US": "And grant us thy salvation."
+            }
+          }
+        ]
+      },
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "O Lord, save the State."
+            },
+            "r": {
+              "en-US": "And mercifully hear us when we call upon thee."
+            }
+          }
+        ]
+      },
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "Endue thy Ministers with righteousness."
+            },
+            "r": {
+              "en-US": "And make thy chosen people joyful."
+            }
+          }
+        ]
+      },
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "O Lord, save thy people."
+            },
+            "r": {
+              "en-US": "And bless thine inheritance."
+            }
+          }
+        ]
+      },
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "Give peace in our time, O Lord."
+            },
+            "r": {
+              "en-US": "Because there is none other that fighteth for us, but only thou, O God."
+            }
+          }
+        ]
+      },
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "O God, make clean our hearts within us."
+            },
+            "r": {
+              "en-US": "And take not thy Holy Spirit from us."
+            }
+          }
+        ]
+      }
+    ]
+  }
 }

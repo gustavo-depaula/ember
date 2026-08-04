@@ -27,4 +27,16 @@ config.server = {
 	},
 }
 
+// `@expo/ui` calls `requireNativeView(...)` at module scope, which throws on
+// web — and because it runs on import, one @expo/ui import anywhere takes the
+// whole web bundle down at boot. Point web builds at a web implementation.
+const expoUiWebShim = path.resolve(__dirname, 'src/lib/expo-ui-web.tsx')
+const upstreamResolveRequest = config.resolver.resolveRequest
+config.resolver.resolveRequest = (context, moduleName, platform) => {
+  if (platform === 'web' && /^@expo\/ui(\/|$)/.test(moduleName)) {
+    return { type: 'sourceFile', filePath: expoUiWebShim }
+  }
+  return (upstreamResolveRequest ?? context.resolveRequest)(context, moduleName, platform)
+}
+
 module.exports = config
