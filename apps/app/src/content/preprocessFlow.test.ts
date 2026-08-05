@@ -139,6 +139,38 @@ describe('preprocessFlow — primitive mapping', () => {
     expect(optA.rawSections).toEqual([{ type: 'divider' }])
   })
 
+  // A cento citation differs by language ("Ps. 55:9" / "Sl 55,9"). It used to be
+  // collapsed onto `num`, a single value shared by both columns, so every
+  // pt-BR citation was computed and then discarded before it reached the screen.
+  it('carries the psalm citation for both languages, not just the primary', async () => {
+    const sections: RenderedSection[] = [
+      {
+        type: 'psalm',
+        verses: [
+          {
+            ref: { primary: 'Ps. 55:9', secondary: 'Sl 55,9' },
+            text: { primary: 'O God, I have declared to Thee my life', secondary: 'Ó Deus' },
+          },
+          { text: { primary: 'Glory be.' } },
+        ],
+      },
+    ]
+    const [verses] = await preprocessFlow(sections, ctx())
+    expect(verses).toMatchObject({
+      type: 'verses',
+      style: 'cento',
+      items: [
+        {
+          ref: { primary: 'Ps. 55:9', secondary: 'Sl 55,9' },
+          text: { primary: 'O God, I have declared to Thee my life', secondary: 'Ó Deus' },
+        },
+        { text: { primary: 'Glory be.' } },
+      ],
+    })
+    // A verse with no citation must not gain an empty one.
+    expect(verses && 'items' in verses ? verses.items[1] : undefined).not.toHaveProperty('ref')
+  })
+
   describe('gallery', () => {
     it('emits a single gallery primitive (no flattening)', async () => {
       const sections: RenderedSection[] = [

@@ -20,6 +20,7 @@ const allTypes = [
   'psalmody',
   'hymn',
   'canticle',
+  'psalm',
   'response',
   'fragment',
   'gallery',
@@ -69,6 +70,8 @@ function defaultSection(type: string): FlowSection {
       return { type: 'hymn', ref: '' }
     case 'canticle':
       return { type: 'canticle', ref: '' }
+    case 'psalm':
+      return { type: 'psalm', verses: [{ ref: { 'en-US': '' }, text: { 'en-US': '' } }] }
     case 'response':
       return { type: 'response', verses: [{ v: { 'en-US': '' }, r: { 'en-US': '' } }] }
     case 'fragment':
@@ -184,6 +187,9 @@ function NodeFields({
 
     case 'response':
       return <ResponseFields section={section} onChange={onChange} />
+
+    case 'psalm':
+      return <PsalmFields section={section} onChange={onChange} />
 
     case 'fragment':
       return (
@@ -889,6 +895,68 @@ function PsalmodyFields({
         placeholder="e.g. 23, 51, 150"
       />
     </Field>
+  )
+}
+
+// A cento verse: a Scripture citation plus the line it labels. `ref` is
+// optional — a doxology or closing line isn't a quotation and carries none.
+function PsalmFields({
+  section,
+  onChange,
+}: {
+  section: Extract<FlowSection, { type: 'psalm' }>
+  onChange: (s: FlowSection) => void
+}) {
+  function updateVerse(idx: number, field: 'ref' | 'text', value: LocalizedText) {
+    const next = [...section.verses]
+    const current = next[idx]
+    if (!current) return
+    next[idx] = { ...current, [field]: value }
+    onChange({ ...section, verses: next })
+  }
+
+  return (
+    <>
+      {section.verses.map((verse, idx) => (
+        // biome-ignore lint/suspicious/noArrayIndexKey: read-only rendered list
+        <div key={idx} className={styles.verseCard}>
+          <div className={styles.verseHeader}>
+            <span className={styles.verseLabel}>Verse {idx + 1}</span>
+            <button
+              type="button"
+              className={styles.removeSmall}
+              onClick={() =>
+                onChange({ ...section, verses: section.verses.filter((_, i) => i !== idx) })
+              }
+            >
+              ×
+            </button>
+          </div>
+          <LocalizedInput
+            label="Ref."
+            value={verse.ref ?? {}}
+            onChange={(ref) => updateVerse(idx, 'ref', ref)}
+          />
+          <LocalizedInput
+            label="Text"
+            value={verse.text}
+            onChange={(text) => updateVerse(idx, 'text', text)}
+          />
+        </div>
+      ))}
+      <button
+        type="button"
+        className={styles.smallAdd}
+        onClick={() =>
+          onChange({
+            ...section,
+            verses: [...section.verses, { ref: { 'en-US': '' }, text: { 'en-US': '' } }],
+          })
+        }
+      >
+        + Verse
+      </button>
+    </>
   )
 }
 

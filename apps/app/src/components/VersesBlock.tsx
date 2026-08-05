@@ -53,7 +53,12 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
             key={`c-${i}`}
             content={item.text}
             renderText={(text, side) => (
-              <PrayerText>
+              // `aria-hidden` on the nested VerseRef only takes on web — RN
+              // flattens a nested <Text> into its parent's accessibility label,
+              // so on iOS/Android a screen reader would spell the citation
+              // before every verse. Setting the label on the parent to the
+              // prayed text alone suppresses it on both platforms.
+              <PrayerText accessibilityLabel={text}>
                 {item.ref && (
                   <VerseRef
                     value={
