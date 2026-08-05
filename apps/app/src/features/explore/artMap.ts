@@ -75,24 +75,38 @@ const artFiles: Record<string, string> = {
   'practice/intimita-divina': 'meditation-intimita.jpg',
   'practice/opus-dei-meditation': 'meditation-opus-dei.jpg',
   'practice/patristic-reading': 'meditation-patristic.jpg',
-  // Formation readings (onboarding). The Bonne Presse *Catéchisme en Images*
-  // plates — a catechism taught in pictures, composed under St Pius X — stand in
-  // for the catechisms themselves, which have no painting of their own. Whole
-  // pages, so they're rendered `contain` rather than cropped.
-  'reading/catechetical-formation': 'catechism-plate-01.jpg',
-  'reading/compendium': 'catechism-plate-02.jpg',
-  'reading/ccc': 'catechism-plate-26.jpg',
-  'reading/pius-x-catechism': 'catechism-plate-52.jpg',
-  'reading/pius-x-greater-catechism': 'catechism-plate-20.jpg',
-  'reading/trent-catechism': 'catechism-plate-05.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches
 // by URL, so the `?v` query busts the stale disk-cached image.
 const artVersion = 5
 
+/**
+ * Ids whose art is one of the corpus's illuminated saint cards, which live under
+ * the hearth's own `saints/` tree rather than `art/`. Used for the onboarding
+ * formation readings: a catechism has no painting of its own, so each is shown
+ * under the doctor or catechist it belongs to.
+ */
+const saintCards: Record<string, string> = {
+  // St Augustine wrote *De catechizandis rudibus* — on teaching the faith to
+  // beginners, which is what Morrow's pictorial catechism is for.
+  'reading/catechetical-formation': 'augustine.png',
+  // The Church's doctor of systematic doctrine, shown with the Summa.
+  'reading/compendium': 'thomas_aquinas.png',
+  // The full Catechism is promulgated by the Petrine office.
+  'reading/ccc': 'peter.png',
+  // Rome's great catechist of the simple and the young — a short Q&A catechism.
+  'reading/pius-x-catechism': 'philip_neri.png',
+  // The golden-mouthed teacher, for the fuller catechetical course.
+  'reading/pius-x-greater-catechism': 'john_chrysostom.png',
+  // Borromeo drove the Roman Catechism's production and diffusion after Trent.
+  'reading/trent-catechism': 'charles_borromeo.png',
+}
+
 export function artFor(id: string | undefined): ImageSource | undefined {
   if (!id) return undefined
+  const saint = saintCards[id]
+  if (saint) return { uri: `${hearthUrl(`saints/${saint}`)}?v=${artVersion}` }
   const file = artFiles[id]
   return file ? { uri: `${hearthUrl(`art/${file}`)}?v=${artVersion}` } : undefined
 }

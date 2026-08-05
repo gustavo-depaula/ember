@@ -37,9 +37,9 @@ function tagKey(opt: FormationOption): string {
 }
 
 /**
- * A reading offered exactly as a tradition is. The art is a *Catéchisme en
- * Images* plate — a whole page, so it sits framed on its jewel tone rather than
- * cropped to the card.
+ * A reading offered exactly as a tradition is. A catechism has no painting of
+ * its own, so each is shown under the doctor or catechist it belongs to, using
+ * the corpus's own illuminated saint cards.
  */
 function useReadingChoice(id: FormationOptionId): ArtChoice {
   const { t } = useTranslation()
@@ -166,10 +166,10 @@ function Reading({
         <ArtChoiceFeatureCard
           choice={choice}
           selected={selected}
-          // A plate is a whole page on a light ground — its name belongs beneath
-          // it, not set over it in cream.
+          // A saint card is a whole illuminated page on a cream ground — its
+          // name belongs beneath it, not set over it in cream.
           overlay={false}
-          aspectRatio={1.15}
+          aspectRatio={1.3}
           marker={`${t(tagKey(opt))} · ${
             selected ? t('onboarding.formation.chosen') : t('onboarding.formation.recommended')
           }`}
