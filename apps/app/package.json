@@ -69,6 +69,7 @@
     "hyphen": "^1.14.1",
     "i18next": "^25.10.10",
     "immer": "^11.1.4",
+    "justif": "^0.7.1",
     "lucide-react-native": "^1.6.0",
     "marked": "^18.0.0",
     "marked-footnote": "^1.4.0",
