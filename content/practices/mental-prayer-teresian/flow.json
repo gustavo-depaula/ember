@@ -1,7 +1,7 @@
 {
 	"sections": [
 		{
-			"type": "rubric",
+			"type": "meditation",
 			"text": {
 				"en-US": "In mental prayer there is the exercise of the intelligence and that of the will: the intelligence seeks to realise that God loves His creature and wishes to be loved by her; the will, answering the divine invitation, loves. That is all. In short, it is a matter of speaking affectionately with the Lord after having understood that He loves us.",
 				"pt-BR": "Na oração mental há o exercício da inteligência e o da vontade: a inteligência procura dar-se conta de que Deus ama a sua criatura e quer ser amado por ela; a vontade, respondendo ao convite divino, ama. Eis tudo. Em suma, trata-se de falar afetuosamente com o Senhor depois de ter entendido que Ele nos quer bem."
@@ -31,8 +31,8 @@
 		{
 			"type": "meditation",
 			"text": {
-				"en-US": "Mental prayer is nothing else than an intimate sharing of friendship; it means taking time frequently to be alone with Him who we know loves us. — St. Teresa of Jesus, *Life* 8, 5",
-				"pt-BR": "A oração mental nada mais é que um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama. — Santa Teresa de Jesus, *Vida* 8, 5"
+				"en-US": "Mental prayer is nothing else than an intimate sharing of friendship; it means taking time frequently to be alone with Him who we know loves us.\n— St. Teresa of Jesus, Life 8, 5",
+				"pt-BR": "A oração mental nada mais é que um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.\n— Santa Teresa de Jesus, Vida 8, 5"
 			}
 		},
 		{
@@ -52,8 +52,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The day's meditation in *Divine Intimacy* is written for exactly this. It offers two points, since many souls of interior life give themselves to meditation twice a day — one point for each prayer.",
-				"pt-BR": "A meditação do dia da *Intimidade Divina* foi escrita exatamente para isto. Ela oferece dois pontos, pois muitas almas de vida interior se aplicam à meditação duas vezes por dia — um ponto para cada oração."
+				"en-US": "The day's meditation in Divine Intimacy is written for exactly this. It offers two points, since many souls of interior life give themselves to meditation twice a day — one point for each prayer.",
+				"pt-BR": "A meditação do dia da Intimidade Divina foi escrita exatamente para isto. Ela oferece dois pontos, pois muitas almas de vida interior se aplicam à meditação duas vezes por dia — um ponto para cada oração."
 			}
 		},
 		{
@@ -101,8 +101,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The colloquies printed with each meditation in *Divine Intimacy* are written in the ardent words of the saints, and given at some length. Use them very freely, taking only what answers your present need.",
-				"pt-BR": "Os colóquios impressos com cada meditação da *Intimidade Divina* são compostos com as expressões inflamadas dos santos, e dados com certa amplitude. Sirva-se deles com muita liberdade, tomando apenas o que corresponde à sua necessidade atual."
+				"en-US": "The colloquies printed with each meditation in Divine Intimacy are written in the ardent words of the saints, and given at some length. Use them very freely, taking only what answers your present need.",
+				"pt-BR": "Os colóquios impressos com cada meditação da Intimidade Divina são compostos com as expressões inflamadas dos santos, e dados com certa amplitude. Sirva-se deles com muita liberdade, tomando apenas o que corresponde à sua necessidade atual."
 			}
 		},
 		{

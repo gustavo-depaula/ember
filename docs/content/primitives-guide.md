@@ -28,6 +28,8 @@ When something between two prayers needs to be expressed, ask one question:
 
 A rubric is liturgical *instruction*. It explains what to do, when, or who speaks. The renderer paints it burgundy italic so the eye skips over it during prayer.
 
+> **Rubrics do not parse markdown.** `PrimitiveBlock.tsx` renders them as `<Typography variant="rubric">{text}</Typography>` — raw. `*Divine Intimacy*` shows the asterisks on screen. Prayer/meditation/`text` bodies *do* parse inline markdown (they go through `PrayerLines` → `InlineMarkdownLine`), so the two look alike in JSON and differ on screen. Since a rubric is already fully italic, emphasis has nowhere to land anyway: write titles and emphasis in a rubric as plain text.
+
 **Good rubrics** (lifted from the corpus):
 
 ```json
@@ -270,6 +272,8 @@ One paragraph each. See `types.ts` for the full schema.
 Before you commit practice JSON, run through this list:
 
 - [ ] Every `rubric` is a genuine direction to the user, not text said aloud. (Test: "would the praying person say these words?" — if yes, it's not a rubric.)
+- [ ] No `*emphasis*` or `**bold**` inside a `rubric` — rubrics render raw and the asterisks show.
+- [ ] No `subheading` or `heading` longer than a short label — both render at display size, so a descriptive clause becomes four lines of italic display type. Put the description in the block below it.
 - [ ] Latin and vernacular lines of the **same utterance** live in separate language keys (`la`, `en-US`, `pt-BR`) — never stacked in one string.
 - [ ] `\n` inside a language key is for line breaks within that language only.
 - [ ] Litanies use `response` + `{ v, r }`, not numbered `verses`.
