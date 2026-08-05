@@ -195,6 +195,26 @@ None block today's work; logged here so the cleanup isn't rediscovered from scra
 - **Raw `fontFamily=` instead of a `Typography` variant** in a few blocks: `VersesBlock`,
   `ProducerHtmlBlock`, `LiturgicalColorBlock`, `ChoiceRichTextBlock`. Fold into variants
   (possibly new micro-variants) to keep the "always reach for a variant" discipline.
+  *(The four in-prayer interaction blocks — offering, capture-movement, capture-resolution,
+  review-resolution — were cleared in 2026-07; they now compose `FlowInteraction`.)*
+
+### In-prayer interaction blocks
+
+The interactive blocks inside a practice (`offering`, `capture-movement`, `capture-resolution`,
+`review-resolution`) compose `components/prayer/FlowInteraction.tsx` and **draw no box** — no
+border, no surface fill, no radius. A bordered card is the one thing that cannot sit on a page of
+rubrics and line-set prayer without reading as a web form.
+
+| Part | Treatment |
+|------|-----------|
+| Block label ("Today's intentions") | `SectionHeading` — same rung as any named section of the rite |
+| Prompt ("Anything new this morning?") | `variant="rubric"` — an instruction, so burgundy italic |
+| A carried line (intention, resolution) | `FlowLine` — gold `⟢` fleuron + reading serif, matching `MovementCard` |
+| Empty state | `variant="whisper"` italic, muted — a quiet line, never a panel |
+| Actions | `FlowAction` — mixed-case body serif in gold, like the home screen's "Add practices →" |
+
+Reach for these rather than re-deriving a block's chrome; the point is that all four read as one
+system, and that the prayer stays the page.
 
 ---
 

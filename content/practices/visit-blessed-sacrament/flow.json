@@ -201,6 +201,98 @@
               "ref": "sign-of-cross"
             }
           ]
+        },
+        {
+          "id": "opus-dei",
+          "label": {
+            "en-US": "Opus Dei",
+            "pt-BR": "Opus Dei"
+          },
+          "sections": [
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "The customary form of the Work — a brief visit, preferably after lunch and at a different hour from the mental prayer. Its point is another moment of contact in the day, not a second period of formal prayer.",
+                "pt-BR": "A forma costumeira da Obra — uma visita breve, de preferência depois do almoço e a uma hora diferente da oração mental. O seu sentido é ser mais um momento de contacto no dia, e não um segundo tempo de oração formal."
+              }
+            },
+            {
+              "type": "response",
+              "verses": [
+                {
+                  "v": {
+                    "la": "Adorémus in ætérnum sanctíssimum Sacraméntum.",
+                    "en-US": "Let us for ever adore the most Holy Sacrament.",
+                    "pt-BR": "Adoremos para sempre o santíssimo Sacramento."
+                  },
+                  "r": {
+                    "la": "Adorémus in ætérnum sanctíssimum Sacraméntum.",
+                    "en-US": "Let us for ever adore the most Holy Sacrament.",
+                    "pt-BR": "Adoremos para sempre o santíssimo Sacramento."
+                  }
+                }
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "rubric",
+              "text": {
+                "en-US": "Three times: Our Father, Hail Mary, Glory Be.",
+                "pt-BR": "Três vezes: Pai-Nosso, Ave-Maria, Glória."
+              }
+            },
+            {
+              "type": "repeat",
+              "count": 3,
+              "sections": [
+                {
+                  "type": "prayer",
+                  "ref": "our-father"
+                },
+                {
+                  "type": "prayer",
+                  "ref": "hail-mary"
+                },
+                {
+                  "type": "prayer",
+                  "ref": "glory-be"
+                }
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "O Sacrament most holy, O Sacrament divine,\nall praise and all thanksgiving be every moment thine.",
+                "pt-BR": "Ó Sacramento santíssimo, ó Sacramento divino,\ntodo louvor e toda ação de graças sejam sempre Vossos."
+              }
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "subheading",
+              "text": {
+                "en-US": "Spiritual Communion",
+                "pt-BR": "Comunhão Espiritual"
+              }
+            },
+            {
+              "type": "prayer",
+              "inline": {
+                "en-US": "I wish, my Lord and my God, to receive You with the purity, humility and love with which your Most Holy Mother received You, and with the spirit and fervour of the Saints.",
+                "pt-BR": "Quisera, Senhor, receber-Vos com aquela pureza, humildade e devoção com que Vos recebeu a vossa Santíssima Mãe, com o espírito e o fervor dos santos."
+              }
+            },
+            {
+              "type": "prayer",
+              "ref": "sign-of-cross"
+            }
+          ]
         }
       ]
     }

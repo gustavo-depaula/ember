@@ -1,0 +1,36 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "A few minutes of the New Testament, taken in order. Read the passage once for what it says; then read it again from inside — you are one more of the people standing there.",
+				"pt-BR": "Alguns minutos do Novo Testamento, por ordem. Leia a passagem uma vez pelo que ela diz; depois leia-a de novo por dentro — você é mais uma das pessoas ali presentes."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Speak, Lord, for your servant is listening.",
+				"pt-BR": "Falai, Senhor, que o vosso servo escuta.",
+				"la": "Lóquere, Dómine, quia audit servus tuus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "lectio",
+			"track": "nt-reading"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "*I advised you to read the New Testament for some minutes every day, and to enter into each scene and take part in it, as one more of the characters.* (Furrow §672)\n\nStay in the scene a moment longer. Where are you standing? What do you see of His face? What would you have said to Him — and what keeps you from saying it now?\n\nTake one thing out of it. Only one.",
+				"pt-BR": "*Aconselhei-te que lesses todos os dias, durante alguns minutos, o Novo Testamento, e que entrasses em cada cena e nela tomasses parte, como mais um personagem.* (Sulco §672)\n\nDemore-se mais um instante na cena. Onde está de pé? O que vê do rosto d'Ele? O que Lhe teria dito — e o que o impede de o dizer agora?\n\nTire uma só coisa daqui. Uma apenas."
+			}
+		}
+	]
+}

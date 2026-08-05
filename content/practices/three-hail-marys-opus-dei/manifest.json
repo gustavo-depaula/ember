@@ -13,8 +13,8 @@
 		}
 	},
 	"source": {
-		"en-US": "St. Josemaría Escrivá, *The Way* (Camino) §514 — *My son, every day pray three Hail Marys to Our Lady for your purity*; cf. §§ 174, 282. Closing aspiration *Mater purissima* from the Litany of Loreto.",
-		"pt-BR": "São Josemaria Escrivá, *Caminho* §514 — *Filhinho meu, reza todos os dias três Ave-Marias a Nossa Senhora pela tua pureza*; cf. §§ 174, 282. Jaculatória final *Mãe puríssima* da Ladainha de Loreto."
+		"en-US": "St. Josemaría Escrivá, *The Way* (Camino) §514 — *My son, every day pray three Hail Marys to Our Lady for your purity*; cf. §§ 174, 282. Closing aspiration *Mater purissima* from the Litany of Loreto. *Blessed be your purity* is the décima *Bendita sea tu pureza*, attributed to Fray Antonio Panes OFM (1621-1676) and carried in the *Pocket Prayer Book*; the vernacular texts here render the Spanish original.",
+		"pt-BR": "São Josemaria Escrivá, *Caminho* §514 — *Filhinho meu, reza todos os dias três Ave-Marias a Nossa Senhora pela tua pureza*; cf. §§ 174, 282. Jaculatória final *Mãe puríssima* da Ladainha de Loreto. *Bendita seja a vossa pureza* é a décima *Bendita sea tu pureza*, atribuída a Frei Antonio Panes OFM (1621-1676) e recolhida no *Devocionário*; os textos vernáculos aqui vertem o original espanhol."
 	},
 	"name": {
 		"en-US": "Three Hail Marys (Opus Dei)",
@@ -34,8 +34,8 @@
 		"pt-BR": "Entre os conselhos que São Josemaria repetia com mais insistência aos seus filhos espirituais estava a oração noturna de três Ave-Marias pela santa pureza. *Caminho* §514 o diz com simplicidade: *Filhinho meu, reza todos os dias três Ave-Marias a Nossa Senhora pela tua pureza, para que feches a noite limpo e te levantes sem mancha.* A prática é anterior ao Opus Dei na devoção popular espanhola, mas Escrivá fez dela o pequeno selo mariano do dia de cada membro — breve, oculto e nunca a ser omitido."
 	},
 	"howToPray": {
-		"en-US": "At the end of the day, before sleep, recall briefly that you are a child of God and that Our Lady guards your purity. Pray three Hail Marys slowly, asking her for purity of body, of mind, and of heart. Close with the aspiration *Mater purissima, ora pro nobis.*",
-		"pt-BR": "Ao final do dia, antes de dormir, recorde brevemente que você é filho de Deus e que Nossa Senhora guarda a sua pureza. Reze três Ave-Marias pausadamente, pedindo-lhe pureza de corpo, de mente e de coração. Encerre com a jaculatória *Mãe puríssima, rogai por nós.*"
+		"en-US": "At the end of the day, before sleep, recall briefly that you are a child of God and that Our Lady guards your purity. Pray three Hail Marys slowly, asking her for purity of body, of mind, and of heart. Close with the aspiration *Mater purissima, ora pro nobis*, and — if it is your custom — the old décima *Blessed be your purity*, which St. Josemaría loved. Then bless yourself with holy water as you get into bed.",
+		"pt-BR": "Ao final do dia, antes de dormir, recorde brevemente que você é filho de Deus e que Nossa Senhora guarda a sua pureza. Reze três Ave-Marias pausadamente, pedindo-lhe pureza de corpo, de mente e de coração. Encerre com a jaculatória *Mãe puríssima, rogai por nós* e — se for o seu costume — com a antiga décima *Bendita seja a vossa pureza*, que São Josemaria tanto amava. Depois, benza-se com água benta ao deitar-se."
 	},
 	"tags": ["opus-dei", "marian", "night", "purity", "josemaria"],
 	"defaults": {

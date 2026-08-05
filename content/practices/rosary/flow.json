@@ -296,6 +296,19 @@
 					},
 					"sections": [
 						{
+							"type": "offering",
+							"mode": "intercessory",
+							"default": "pinned",
+							"show": "list",
+							"label": {
+								"en-US": "Offered for",
+								"pt-BR": "Oferecido por"
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
 							"type": "subheading",
 							"text": {
 								"en-US": "Opening Prayers",
@@ -410,6 +423,19 @@
 						"pt-BR": "Mistérios Dolorosos"
 					},
 					"sections": [
+						{
+							"type": "offering",
+							"mode": "intercessory",
+							"default": "pinned",
+							"show": "list",
+							"label": {
+								"en-US": "Offered for",
+								"pt-BR": "Oferecido por"
+							}
+						},
+						{
+							"type": "divider"
+						},
 						{
 							"type": "subheading",
 							"text": {
@@ -526,6 +552,19 @@
 					},
 					"sections": [
 						{
+							"type": "offering",
+							"mode": "intercessory",
+							"default": "pinned",
+							"show": "list",
+							"label": {
+								"en-US": "Offered for",
+								"pt-BR": "Oferecido por"
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
 							"type": "subheading",
 							"text": {
 								"en-US": "Opening Prayers",
@@ -640,6 +679,19 @@
 						"pt-BR": "Mistérios Luminosos"
 					},
 					"sections": [
+						{
+							"type": "offering",
+							"mode": "intercessory",
+							"default": "pinned",
+							"show": "list",
+							"label": {
+								"en-US": "Offered for",
+								"pt-BR": "Oferecido por"
+							}
+						},
+						{
+							"type": "divider"
+						},
 						{
 							"type": "subheading",
 							"text": {

@@ -302,17 +302,6 @@ export default {
     cccLabel: 'Catecismo da Igreja Cat\u00f3lica, {{start}}-{{end}}',
   },
 
-  intentions: {
-    title: 'Inten\u00e7\u00f5es',
-    subtitle: 'Apresente-as na ora\u00e7\u00e3o. Carregue-as ao longo do dia.',
-    homeTagline: 'Leve suas inten\u00e7\u00f5es \u00e0 ora\u00e7\u00e3o',
-    homeOpenCount_one: '{{count}} inten\u00e7\u00e3o ativa',
-    homeOpenCount_other: '{{count}} inten\u00e7\u00f5es ativas',
-    exploreTagline_zero: 'Eleve uma ao Senhor',
-    exploreTagline_one: '{{count}} inten\u00e7\u00e3o ativa',
-    exploreTagline_other: '{{count}} inten\u00e7\u00f5es ativas',
-  },
-
   movements: {
     cadence: {
       label: 'Por quanto tempo?',
@@ -345,10 +334,12 @@ export default {
     },
     actions: {
       markAnswered: 'Marcar atendida',
+      markAnsweredPerpetual: 'Deus atendeu',
       answered: 'Atendida',
       retire: 'Parar de levar',
       removeThanksgiving: 'Remover',
       pinToPractice: 'Rezar por isso em…',
+      edit: 'Corrigir',
     },
     pinPractice: {
       title: 'Rezar por isso em…',
@@ -358,18 +349,24 @@ export default {
     picker: {
       title: 'Leve à oração',
       subtitle: 'Escolha o que oferecer nesta oração.',
-      intentions: 'Intenções',
-      thanksgivings: 'Graças',
-      intentionsEmpty: 'Nenhuma intenção ativa.',
-      thanksgivingsEmpty: 'Nenhuma graça registrada ainda.',
+      allCarried: 'Tudo o que está no Altar já está sendo levado.',
       confirm: 'Continuar',
-      pin: 'Fixar nesta prática',
-      unpin: 'Desafixar desta prática',
+    },
+    edit: {
+      title: 'Corrigir',
     },
     offering: {
       empty:
-        'Leve alguém ou algo a Deus esta manhã — uma pessoa que você ama, uma preocupação, uma esperança. Ou siga em frente, e ore com o que você tem.',
-      pickHint: 'Escolha o que levar nesta oração.',
+        'Leve alguém ou algo a Deus — uma pessoa que você ama, uma preocupação, uma esperança. Ou siga em frente, e ore com o que você tem.',
+      emptyStanding:
+        'Nada permanente nesta oração ainda. Marque uma intenção com a estrela para levá-la sempre, ou traga uma só para hoje.',
+      carryMore: 'Levar mais hoje',
+      line: {
+        invite: 'Ofereça esta oração por alguém',
+        one: 'Oferecida por {{text}}',
+        more_one: 'Oferecida por {{text}} e mais {{count}}',
+        more_other: 'Oferecida por {{text}} e mais {{count}}',
+      },
       summary_one: 'Oferecendo {{count}} intenção',
       summary_other: 'Oferecendo {{count}} intenções',
       summaryEmpty: 'Oferecendo esta oração.',
@@ -1578,6 +1575,10 @@ export default {
     },
   },
   a11y: {
+    makeStanding: 'Levar sempre “{{text}}” nesta oração',
+    unmakeStanding: 'Não levar mais sempre “{{text}}” nesta oração',
+    dropFromToday: 'Não levar “{{text}}” hoje',
+    carryToday: 'Levar “{{text}}” hoje',
     togglePractice: 'Marcar {{name}} como concluída',
     untogglePractice: 'Desmarcar {{name}}',
     expandBlock: 'Expandir {{name}}',

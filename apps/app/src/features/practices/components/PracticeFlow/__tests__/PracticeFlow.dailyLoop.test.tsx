@@ -30,9 +30,15 @@ describe('daily resolution loop — Examen → next-day Morning Offering', () =>
       ],
     })
 
-    // 1. Examen mounts with the capture-resolution block visible.
+    // 1. Examen mounts with the capture-resolution block visible. The explicit
+    //    timeout covers the first flow resolution — the 1s default flakes when
+    //    the suite runs files in parallel.
     expect(
-      (await screen.findAllByText(/One concrete resolution for tomorrow/i))[0],
+      (
+        await screen.findAllByText(/One concrete resolution for tomorrow/i, undefined, {
+          timeout: 5000,
+        })
+      )[0],
     ).toBeInTheDocument()
 
     // 2. Type a resolution into the inline textarea. The capture-resolution

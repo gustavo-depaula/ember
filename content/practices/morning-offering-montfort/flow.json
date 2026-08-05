@@ -41,7 +41,7 @@
 		{
 			"type": "offering",
 			"mode": "intercessory",
-			"default": "all-active",
+			"default": "pinned",
 			"show": "list",
 			"label": {
 				"en-US": "Today's intentions",

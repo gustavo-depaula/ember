@@ -390,6 +390,12 @@ vi.mock('expo-linking', () => ({
   addEventListener: () => ({ remove: () => {} }),
 }))
 
+vi.mock('expo-web-browser', () => ({
+  openBrowserAsync: async () => ({ type: 'opened' }),
+  dismissBrowser: async () => {},
+  WebBrowserPresentationStyle: { AUTOMATIC: 'automatic', FORM_SHEET: 'formSheet' },
+}))
+
 vi.mock('expo-file-system', () => ({
   Directory: class {
     exists = false
@@ -437,12 +443,13 @@ vi.mock('react-native-keyboard-controller', async () => {
 
 vi.mock('@expo/ui/community/bottom-sheet', async () => {
   const React = await import('react')
+  // Call sites drive the sheet with `index` (0 = open, -1 = closed), not
+  // `isOpened` — keying only on the latter left every sheet unrendered in tests.
+  const isOpen = (props: Record<string, unknown>) =>
+    props.isOpened === true || (typeof props.index === 'number' && props.index >= 0)
   return {
     BottomSheet: (props: Record<string, unknown>) =>
-      // Call sites pass `index` (-1 = closed), not `isOpened`; gating on the
-      // latter made every sheet render null, so their content was never
-      // asserted. Accept both.
-      (typeof props.index === 'number' ? (props.index as number) >= 0 : props.isOpened)
+      isOpen(props)
         ? React.createElement(
             'div',
             { 'data-testid': 'mock-bottom-sheet' },

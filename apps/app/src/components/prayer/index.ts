@@ -3,6 +3,13 @@ export { CelebrationBanner } from './CelebrationBanner'
 export { ChoiceRichTextBlock } from './ChoiceRichTextBlock'
 export { CollapsibleBlock } from './CollapsibleBlock'
 export { CollapsiblePrayer } from './CollapsiblePrayer'
+export {
+  FlowAction,
+  FlowActionSeparator,
+  FlowActions,
+  FlowInteraction,
+  FlowLine,
+} from './FlowInteraction'
 export { GalleryBlock } from './GalleryBlock'
 export { HolyCardBlock } from './HolyCardBlock'
 export { ImageBlock } from './ImageBlock'

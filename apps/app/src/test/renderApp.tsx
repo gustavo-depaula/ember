@@ -47,10 +47,7 @@ async function bootOnce() {
 
   // Hydrate stores from the (empty) DB so any code paths checking `hydrated`
   // see the expected state.
-  await Promise.all([
-    usePreferencesStore.getState().hydrate(),
-    useBibleStore.getState().hydrate(),
-  ])
+  await Promise.all([usePreferencesStore.getState().hydrate(), useBibleStore.getState().hydrate()])
 
   registerDataSources()
 
@@ -88,13 +85,23 @@ export type RenderOptions = {
   route?: string
   fixtures?: TestFixtures
   routes?: RouteRegistration[]
+  // Emit user state the screen should open *with* — standing intentions, past
+  // completions. Runs after `resetForTests` (which wipes events) and before the
+  // first render, so repository calls here are safe and survive into the screen.
+  seed?: () => Promise<void>
 }
 
-export async function renderApp({ route = '/', fixtures = {}, routes = [] }: RenderOptions = {}) {
+export async function renderApp({
+  route = '/',
+  fixtures = {},
+  routes = [],
+  seed,
+}: RenderOptions = {}) {
   bootCount++
   await bootOnce()
   await loadRoutes(routes)
   await resetForTests(fixtures)
+  await seed?.()
   resetRouter(route)
 
   const queryClient = new QueryClient({

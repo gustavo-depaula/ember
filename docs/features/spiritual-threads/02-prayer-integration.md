@@ -113,6 +113,12 @@ This means the engine's `resolveOffering` resolves to a `RenderedOffering` place
 - Morning Offering uses `default: 'all-active'` (every intention the user carries is offered into the day).
 - A novena could use `default: 'user-pick'` to force conscious choice.
 
+> **Superseded 2026-07-25 — Morning Offering uses `default: 'pinned'`.** `all-active` was
+> reasonable for the pre-flow picker of Decision 4 ("pre-select everything, user unchecks"),
+> but that picker was never built. Inlined into the flow, `all-active` prints the user's entire
+> perpetual register into the prayer every single morning. All 12 authored offering blocks now
+> use `pinned`; anything else joins for one sitting via "Carry more today". See Decision 11.
+
 **Implications.**
 - `OfferingPickerSheet` initial state derives from `default` × pin/active queries.
 - If `default: 'all-active'` and there are zero active movements, the picker still shows (empty state with "you have no intentions — capture one?") so the user knows the offering block is a no-op.
@@ -159,6 +165,10 @@ This means the engine's `resolveOffering` resolves to a `RenderedOffering` place
 - `MovementActionMenu` (Phase 1 component) gains "Pin to practice…" action that opens `<PinPracticeSheet movementId>`.
 - `OfferingPickerSheet` rows include a star toggle that calls `pinMovement(practiceId, movementId)` / `unpinMovement(...)`.
 
+> **Amended 2026-07-25.** The star shipped in 2026-07 — not on the pre-flow picker (never built)
+> but on the offering block's own rows. Until then the long-press menu was the *only* pinning
+> entry point, which mattered once `default: 'pinned'` became the shipped default. See Decision 11.
+
 ### 9. Morning Offering integration shape
 
 **Context.** The Morning Offering flow needs to surface active intentions and optionally let the user capture new ones.
@@ -187,6 +197,74 @@ The exact placement (which section, before/after which existing block) is a cont
 - **Picker dismissed empty.** Same as above.
 - **Stale pin.** Filtered at read time (`listPinnedFor` returns only `state === 'active'` movements). The pin still exists in the projection; `useUnpin` is called only on user action.
 - **Missing deps.** If `EngineContext.movements` is `undefined`, the engine skips `offering` blocks (returns nothing) and renders `capture-movement` as a no-op text ("This block requires app context"). Useful for prerender/test.
+
+### 11. Shaping the offered list without persisting a selection (added 2026-07-25)
+
+**Context.** The block shipped with a checkbox per row whose state lived in component-local
+`useState`. Nothing read it but the `show: 'count'` label, nothing persisted it, and it was lost
+on unmount or on backing up through the flow. It looked like a spiritual act and was a no-op.
+
+**Options.**
+- **A. Persist the selection.** Add an `IntentionOffered` event per practice run. Unlocks
+  offering history ("prayed 34 times since March") and "same as yesterday" defaults.
+- **B. Remove the checkboxes; shape the list with gestures that already persist.**
+- **C. Leave it.** Keep a control that costs attention and means nothing.
+
+**Decision.** **B**, with **A** explicitly deferred. Two gestures replace the checkbox:
+
+- **Star** on each row toggles the pin for this practice — *standing*, so it returns tomorrow.
+  This is Decision 8's "in-picker star", which was never built; the offering block is now its home,
+  and it makes `default: 'pinned'` discoverable without a trip to the Altar's long-press menu.
+- **"Carry more today"** opens `OfferingPickerSheet` over the active movements not already
+  listed. Additions are session-scoped by construction, and the sheet reuses the orphaned
+  `movements.picker.*` copy left behind by the deleted pre-flow picker.
+
+**Implications.**
+- Everything rendered in the block is being offered. There is no state that can lie.
+- Unstarring mid-prayer moves the id into the session-carried set rather than removing the row —
+  pulling text out from under someone praying is worse than one stale line.
+- `show: 'count'` counts the offered list. `default: 'all-active'` and `'user-pick'` still resolve
+  (all-active → everything; user-pick → carried-only), they are just unused by shipped content.
+- **Still missing:** no `IntentionOffered` event, so per-practice offering history and
+  "how long have I prayed for this?" remain impossible. Option A is the next step if that matters.
+
+### 12. Where offering blocks live (added 2026-07-26)
+
+The Rosary now opens with `{ "type": "offering", "default": "pinned", "label": "Offered for" }` in
+each of its four mystery branches, before the opening prayers — a Rosary is announced before it is
+begun. Decision 5 named it as the model `pinned` consumer and it had shipped without one, which is
+why pinning had no content consumer at all until now.
+
+Current coverage: the twelve morning offerings (`Today's intentions`) and the Rosary
+(`Offered for`). The Mass's Prayers of the Faithful and the Te Deum remain uncovered; both are
+natural homes and neither needs code, only a block in the flow JSON.
+
+### 13. The offering in every other prayer (added 2026-07-26)
+
+**Context.** Any prayer can be offered for someone, but an authored `offering` block in ~350 flows
+would rebuild the wall of text Decision 11 removed, and would make every new practice remember to
+include one.
+
+**Decision.** A chrome-level `OfferingLine`, rendered by the practice screen rather than the flow —
+one muted `variant="caption"` line under the header, tapping through to the offering sheet. Content
+authors do nothing; there is no manifest flag and no per-practice opt-in.
+
+Three rules bound it, and all three are covered by
+`PracticeFlow.offeringLine.test.tsx`:
+
+| Rule | Why |
+|---|---|
+| Renders nothing when the user has no active intentions | Cannot nag someone who never asked for the feature; a new user never sees it |
+| Never gold | Carrying an intention is not a call to action, and the Ladder rations gold to preciousness |
+| Suppressed when the resolved flow contains an `offering` block | Authored intent wins; nobody sees two offerings |
+
+**Implications.**
+- `hasOfferingBlock` walks resolved primitives *and* `rawSections` — a `select`'s unselected
+  branches are never preprocessed and still carry `rendered-offering`. The Rosary is the case
+  that proves it.
+- Per-sitting picks are session state, same as the block's. The durable form remains the pin.
+- If the line ever needs to be switched off for a class of practice, the condition lives in one
+  place (`PracticeFlowView`), not in 350 manifests.
 
 ## Data model
 
