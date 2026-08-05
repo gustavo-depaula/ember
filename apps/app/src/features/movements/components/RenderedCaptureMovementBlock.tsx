@@ -11,6 +11,7 @@ import {
   FlowActions,
   FlowInteraction,
   FlowLine,
+  InlineMarkdownRubric,
 } from '@/components/prayer'
 import type { Cadence, MovementKind } from '@/db/events'
 import { lightTap, successBuzz } from '@/lib/haptics'
@@ -93,7 +94,9 @@ export function RenderedCaptureMovementBlock({
 
   return (
     <FlowInteraction>
-      <Typography variant="rubric">{prompt}</Typography>
+      <Typography variant="rubric">
+        <InlineMarkdownRubric source={prompt} />
+      </Typography>
 
       {captured.map((c) => (
         <Animated.View

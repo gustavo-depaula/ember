@@ -52,8 +52,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The day's meditation in Divine Intimacy is written for exactly this. It offers two points, since many souls of interior life give themselves to meditation twice a day — one point for each prayer.",
-				"pt-BR": "A meditação do dia da Intimidade Divina foi escrita exatamente para isto. Ela oferece dois pontos, pois muitas almas de vida interior se aplicam à meditação duas vezes por dia — um ponto para cada oração."
+				"en-US": "The day's meditation in *Divine Intimacy* is written for exactly this. It offers two points, since many souls of interior life give themselves to meditation twice a day — one point for each prayer.",
+				"pt-BR": "A meditação do dia da *Intimidade Divina* foi escrita exatamente para isto. Ela oferece dois pontos, pois muitas almas de vida interior se aplicam à meditação duas vezes por dia — um ponto para cada oração."
 			}
 		},
 		{
@@ -101,8 +101,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The colloquies printed with each meditation in Divine Intimacy are written in the ardent words of the saints, and given at some length. Use them very freely, taking only what answers your present need.",
-				"pt-BR": "Os colóquios impressos com cada meditação da Intimidade Divina são compostos com as expressões inflamadas dos santos, e dados com certa amplitude. Sirva-se deles com muita liberdade, tomando apenas o que corresponde à sua necessidade atual."
+				"en-US": "The colloquies printed with each meditation in *Divine Intimacy* are written in the ardent words of the saints, and given at some length. Use them very freely, taking only what answers your present need.",
+				"pt-BR": "Os colóquios impressos com cada meditação da *Intimidade Divina* são compostos com as expressões inflamadas dos santos, e dados com certa amplitude. Sirva-se deles com muita liberdade, tomando apenas o que corresponde à sua necessidade atual."
 			}
 		},
 		{
@@ -122,8 +122,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "These three parts are optional. They exist for those who like greater variety, and for whom they make it much easier to prolong the conversation with God.",
-				"pt-BR": "Estas três partes são facultativas. Existem para quem goste de maior variedade, e para quem elas facilitam muito o prolongamento do colóquio com Deus."
+				"en-US": "These three parts are *optional*. They exist for those who like greater variety, and for whom they make it much easier to prolong the conversation with God.",
+				"pt-BR": "Estas três partes são *facultativas*. Existem para quem goste de maior variedade, e para quem elas facilitam muito o prolongamento do colóquio com Deus."
 			}
 		},
 		{
@@ -150,8 +150,17 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "Convinced that you have received so much, seek to repay as far as you can by presenting the Lord with some good resolution — something which, in concluding prayer, is always useful to do.",
-				"pt-BR": "Convencido de ter recebido tanto, procure retribuir quanto possível apresentando ao Senhor algum bom propósito — coisa que, aliás, ao concluir a oração, é sempre útil fazer."
+				"en-US": "Convinced that you have received so much, seek to repay as far as you can by presenting the Lord with some good resolution — something which, in concluding prayer, is *always* useful to do.",
+				"pt-BR": "Convencido de ter recebido tanto, procure retribuir quanto possível apresentando ao Senhor algum bom propósito — coisa que, aliás, ao concluir a oração, é *sempre* útil fazer."
+			}
+		},
+		{
+			"type": "capture-resolution",
+			"level": "daily",
+			"for": "current",
+			"prompt": {
+				"en-US": "The good resolution you present to the Lord today.",
+				"pt-BR": "O bom propósito que apresenta hoje ao Senhor."
 			}
 		},
 		{

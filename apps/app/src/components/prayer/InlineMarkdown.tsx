@@ -80,3 +80,43 @@ export function InlineMarkdown({ source }: { source: string }) {
   const nodes = parseInline(source)
   return <InlineText nodes={nodes} baseFamily={bodyFont.family ?? ''} />
 }
+
+// Emphasis inside a run that is *already* italic. `*x*` cannot be more italic,
+// so it flips to roman — the classic typographic answer, and the only one that
+// reads at rubric size. Bold keeps the slant and adds weight; `***x***` is bold
+// flipped, for the same reason `*x*` is.
+//
+// Every face is named outright and every node states `fontStyle: 'normal'`: the
+// chosen EB Garamond face already carries the slant it needs, so leaving the
+// parent's italic in play would slant a true italic a second time (web inherits
+// it as CSS) or be dropped entirely (React Native ignores an inherited style
+// once `fontFamily` is set).
+const italicRunFaces = {
+  italic: bodyFont.face?.[400]?.normal,
+  bold: bodyFont.face?.[700]?.italic,
+  bolditalic: bodyFont.face?.[700]?.normal,
+} as const
+
+/**
+ * Inline markdown for the rubric register — burgundy italic instruction text.
+ * Same `*italic*` / `**bold**` / `***both***` vocabulary authors already use in
+ * prayer bodies, resolved against an italic baseline instead of an upright one.
+ *
+ * Lives here rather than in `Typography` because a styled component can't map a
+ * string to spans; call it as the child of `<Typography variant="rubric">`.
+ */
+export function InlineMarkdownRubric({ source }: { source: string }) {
+  return (
+    <>
+      {parseInline(source).map((node, i) => {
+        const face = node.type === 'text' ? undefined : italicRunFaces[node.type]
+        if (!face) return <Fragment key={i}>{node.text}</Fragment>
+        return (
+          <RNText key={i} style={{ fontFamily: face, fontStyle: 'normal' }}>
+            {node.text}
+          </RNText>
+        )
+      })}
+    </>
+  )
+}

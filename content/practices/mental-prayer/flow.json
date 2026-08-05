@@ -95,8 +95,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The day's meditation from St. Alphonsus or from Divine Intimacy, the Gospel of the day, or any spiritual reading will serve.",
-				"pt-BR": "A meditação do dia de Santo Afonso ou da Intimidade Divina, o Evangelho do dia, ou qualquer leitura espiritual servirá."
+				"en-US": "The day's meditation from *St. Alphonsus* or *Divine Intimacy*, the Gospel of the day, or any spiritual reading will serve.",
+				"pt-BR": "A meditação do dia de *Santo Afonso* ou da *Intimidade Divina*, o Evangelho do dia, ou qualquer leitura espiritual servirá."
 			}
 		},
 		{
@@ -179,15 +179,24 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "Before ending the prayer, take some resolution — not a general one, such as avoiding every deliberate fault or giving yourself entirely to God, but a particular one: to guard more carefully against the fault you fall into most often, or to practise better the virtue you most need — to bear with the temper of such a person, to obey a superior or a rule more exactly, to mortify yourself more often on such a point.",
-				"pt-BR": "Antes de terminar a oração, tome alguma resolução — não geral, como por exemplo evitar toda falta deliberada ou dar-se todo a Deus, mas particular: evitar com mais cuidado o defeito em que cai mais vezes, ou praticar melhor a virtude de que mais precisa — aturar o gênio de tal pessoa, obedecer mais exatamente a tal superior ou à regra, mortificar-se mais frequentemente em tal ponto."
+				"en-US": "Before ending the prayer, take some resolution — *not a general one*, such as avoiding every deliberate fault or giving yourself entirely to God, but *a particular one*: to guard more carefully against the fault you fall into most often, or to practise better the virtue you most need — to bear with the temper of such a person, to obey a superior or a rule more exactly, to mortify yourself more often on such a point.",
+				"pt-BR": "Antes de terminar a oração, tome alguma resolução — *não geral*, como por exemplo evitar toda falta deliberada ou dar-se todo a Deus, mas *particular*: evitar com mais cuidado o defeito em que cai mais vezes, ou praticar melhor a virtude de que mais precisa — aturar o gênio de tal pessoa, obedecer mais exatamente a tal superior ou à regra, mortificar-se mais frequentemente em tal ponto."
 			}
 		},
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "Never end your prayer without having formed a particular resolution.",
-				"pt-BR": "Nunca termine a sua oração sem haver formado uma resolução particular."
+				"en-US": "***Never*** end your prayer without having formed a particular resolution.",
+				"pt-BR": "***Nunca*** termine a sua oração sem haver formado uma resolução particular."
+			}
+		},
+		{
+			"type": "capture-resolution",
+			"level": "daily",
+			"for": "current",
+			"prompt": {
+				"en-US": "One particular resolution for today.",
+				"pt-BR": "Uma resolução particular para hoje."
 			}
 		},
 		{
@@ -278,22 +287,22 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "1. Following the counsel of St. Francis de Sales, make a bouquet of flowers to smell throughout the day — that is, fix well in memory one or two thoughts that impressed you most, to recall them and be strengthened by them during the day.",
-				"pt-BR": "1º Conforme o conselho de São Francisco de Sales, faça um ramalhete de flores a fim de cheirá-lo durante o dia, quer dizer, imprima bem na memória um ou dois pensamentos que mais impressão lhe fizeram, para os recordar e se revigorar durante o dia."
+				"en-US": "1. Following the counsel of St. Francis de Sales, make a bouquet of flowers to smell throughout the day — that is, **fix well in memory one or two thoughts that impressed you most**, to recall them and be strengthened by them during the day.",
+				"pt-BR": "1º Conforme o conselho de São Francisco de Sales, faça um ramalhete de flores a fim de cheirá-lo durante o dia, quer dizer, **imprima bem na memória um ou dois pensamentos que mais impressão lhe fizeram**, para os recordar e se revigorar durante o dia."
 			}
 		},
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "2. Put the resolutions taken into practice at once, in small occasions as well as great ones: bearing patiently with a person angry at you, mortifying yourself in what you look at, in what you listen to, in conversation.",
-				"pt-BR": "2º Ponha logo em prática as resoluções tomadas, tanto nas ocasiões pequenas como nas grandes: suportar com paciência uma pessoa irada contra nós, mortificar-se na vista, no ouvido, na conversa."
+				"en-US": "2. **Put the resolutions taken into practice at once, in small occasions as well as great ones**: bearing patiently with a person angry at you, mortifying yourself in what you look at, in what you listen to, in conversation.",
+				"pt-BR": "2º **Ponha logo em prática as resoluções tomadas, tanto nas ocasiões pequenas como nas grandes**: suportar com paciência uma pessoa irada contra nós, mortificar-se na vista, no ouvido, na conversa."
 			}
 		},
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "3. By silence and recollection, keep the affections stirred up in prayer alive as long as possible; without this, the fervour conceived in prayer soon fades through dissipation of conduct or useless conversation.",
-				"pt-BR": "3º Por meio do silêncio e recolhimento, conserve o mais tempo possível os afetos excitados na oração; sem isso, o fervor concebido na oração esvaece-se logo pela dissipação no proceder ou pelas conversas inúteis."
+				"en-US": "3. **By silence and recollection, keep the affections stirred up in prayer alive as long as possible**; without this, the fervour conceived in prayer soon fades through dissipation of conduct or useless conversation.",
+				"pt-BR": "3º **Por meio do silêncio e recolhimento, conserve o mais tempo possível os afetos excitados na oração**; sem isso, o fervor concebido na oração esvaece-se logo pela dissipação no proceder ou pelas conversas inúteis."
 			}
 		}
 	]

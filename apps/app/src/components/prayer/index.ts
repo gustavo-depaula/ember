@@ -13,7 +13,7 @@ export {
 export { GalleryBlock } from './GalleryBlock'
 export { HolyCardBlock } from './HolyCardBlock'
 export { ImageBlock } from './ImageBlock'
-export { InlineMarkdown } from './InlineMarkdown'
+export { InlineMarkdown, InlineMarkdownRubric } from './InlineMarkdown'
 export { LiturgicalColorBlock } from './LiturgicalColorBlock'
 export {
   LiturgicalColorProvider,

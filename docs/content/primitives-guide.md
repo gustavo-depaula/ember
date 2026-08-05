@@ -28,7 +28,15 @@ When something between two prayers needs to be expressed, ask one question:
 
 A rubric is liturgical *instruction*. It explains what to do, when, or who speaks. The renderer paints it burgundy italic so the eye skips over it during prayer.
 
-> **Rubrics do not parse markdown.** `PrimitiveBlock.tsx` renders them as `<Typography variant="rubric">{text}</Typography>` — raw. `*Divine Intimacy*` shows the asterisks on screen. Prayer/meditation/`text` bodies *do* parse inline markdown (they go through `PrayerLines` → `InlineMarkdownLine`), so the two look alike in JSON and differ on screen. Since a rubric is already fully italic, emphasis has nowhere to land anyway: write titles and emphasis in a rubric as plain text.
+Rubrics take the same `*italic*` / `**bold**` / `***both***` inline markdown as prayer bodies, resolved against an italic baseline. Because the rubric register is *already* italic, `*x*` flips to **roman** rather than adding a slant that isn't there to add — the classic typographic convention for emphasis inside italics, and the only one that reads at rubric size. `**x**` keeps the slant and adds weight; `***x***` is bold roman.
+
+| You write | It renders |
+|---|---|
+| `the encyclical *Quamquam Pluries*` | title upright inside the red italic |
+| `**Put the resolutions into practice at once**` | bold italic |
+| `***Never*** end without one` | bold upright |
+
+Use it the way you'd use italics in a printed missal's rubrics: titles of works, foreign terms, quoted prayer text, and the one clause the eye must not skip. Don't emphasize half a sentence — the flip is a spotlight, and a spotlight on everything lights nothing.
 
 **Good rubrics** (lifted from the corpus):
 
@@ -272,7 +280,7 @@ One paragraph each. See `types.ts` for the full schema.
 Before you commit practice JSON, run through this list:
 
 - [ ] Every `rubric` is a genuine direction to the user, not text said aloud. (Test: "would the praying person say these words?" — if yes, it's not a rubric.)
-- [ ] No `*emphasis*` or `**bold**` inside a `rubric` — rubrics render raw and the asterisks show.
+- [ ] Emphasis in a `rubric` is deliberate — `*x*` flips to roman against the italic baseline, so it must be a span worth spotlighting (a title, a foreign term, quoted prayer text, the clause that carries the rule).
 - [ ] No `subheading` or `heading` longer than a short label — both render at display size, so a descriptive clause becomes four lines of italic display type. Put the description in the block below it.
 - [ ] Latin and vernacular lines of the **same utterance** live in separate language keys (`la`, `en-US`, `pt-BR`) — never stacked in one string.
 - [ ] `\n` inside a language key is for line breaks within that language only.
