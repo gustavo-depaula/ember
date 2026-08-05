@@ -295,16 +295,58 @@ Real, but bounded: a font-metrics module (~90 lines + a ligature table), a `Meas
 
 ---
 
-## Part 5 — Recommended order of work
+## Part 7 — What shipped
 
-1. **Justif on the web build's prayer flows**, via `white-space: normal` on reading-text components. Prayer is the daily loop — this is the text people see every day, and the bilingual side-by-side columns are where justification is worst and Justif pays most. Web-only, so it lands for desktop and dev first; iOS/Android prayer flows are item 5.
-   - **Import it dynamically behind `Platform.OS === 'web'`.** Justif is ~233 KB raw; a static import would ship all of it into the native bundle to be dead code on the platform that can't use it.
-2. **Vendor Justif into the foliate reader.** All platforms, biggest surface, verified safe against highlight anchors. Guard the footnote `innerHTML` path first, wire `rescan()` into the `setStyles` config path, measure on device. Ship stock defaults; add the liturgical-Latin hyphenator. Different delivery from item 1: this one is inlined into the WebView bootstrap string alongside `bootstrap.raw.js`, not imported.
-3. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`. One line, no dependency; the only justification lever RN gives us and it's currently off.
-4. **Bible as continuous prose** rather than one `<Text>` per verse. Worth its own spec — it's the difference between "a verse list" and "a Bible", and it's also what makes the page worth justifying at all.
-5. **Justif natively on iOS/Android** via the `justif/core` pipeline in Part 6. Verified to reproduce Justif's DOM output line for line. **Gate it on one simulator test first:** does `letterSpacing` on a lone space widen it in UIKit? If yes, build it; if no, the fallback is the WebView route.
+Both surfaces now use Justif.
 
-Item 3 is independent of Justif and shouldn't wait on it. Items 1 and 5 share the hyphenators and the tuning, so doing 1 first makes 5 cheaper.
+### The reading experience — `features/books/reader/foliate/`
+
+`justif.raw.js` is the vendored bundle: justif 0.7.1 built as a single classic-script IIFE (module scripts fail in the WebView's `about:blank` context — the same constraint that shaped `paginator.raw.js`), carrying the en-US, pt and liturgical-Latin hyphenators on `window.__justif`. `bundle.mjs` splices it into `bootstrapScript.ts`, and `blobUrl()` injects it per chapter, because every chapter is its own document.
+
+Two things the wiring has to get right, both learned the hard way:
+
+- **Timing.** At parse time foliate has not sized the iframe, so the body is zero-width and justif declines every paragraph (`"zero content width"`). Neither `rescan()` nor `refresh()` rescues that — `rescan()` only re-lays out paragraphs whose *styling* changed, and a container-width change is not a style change. So the `justify()` call itself waits for a real measure: driven from the paginator's `load` handler, backed by a ResizeObserver inside the chapter document.
+- **Footnotes.** The anchor-click handler posts a footnote's `innerHTML` to `FootnoteSheet`, so `[data-footnotes]` is excluded from the scan.
+
+Verified by booting the real reader headlessly: **81/81 paragraphs managed, zero skips**, footnote markup untouched, and the character stream anchors are expressed in **byte-identical at 25,347 chars**.
+
+![The book reader rendering justified, hyphenated text](../assets/justification-reader-shipped.webp)
+
+### The prayer experience — `lib/typography/` + `components/JustifiedText.tsx`
+
+`justif/core` is DOM-free and takes an injectable `Measure`, so the only real gap was RN's missing measurement API — closed by `scripts/build-font-metrics.mjs`, which reads advance widths out of each reading font's TTF at build time (**12 KB for all seven fonts**). `JustifiedText` renders the line model with nested `<Text>` runs, widening each space via `letterSpacing`.
+
+Three things that were wrong in the first cut and are now handled:
+
+| Trap | Consequence | Fix |
+|---|---|---|
+| f-ligatures | `afflict` measured 2.53 px wide → line overflows, paragraph re-wraps | substitute U+FB00–FB04 before summing |
+| letterfit tracking | tracking is a fraction of the line's *set width*, not per character; the first model over-counted by ~26 px/line | `tracking: false` — word spaces are the only flex, and RN hits those to the pixel. Costs one line in nineteen |
+| soft hyphens | `lib/hyphenate.ts` already inserts them; measured as real characters they inflate every hyphenated word | zero-width by codepoint |
+
+Rendered through RN-expressible primitives only, the shipped module puts all 38 bilingual lines inside a 170.5 px column (max 170.58, none over 171), hyphenating *benedi-cendum*, *cogitatio-nibus*, *affec-tions*.
+
+![The bilingual prayer column today versus through the shipped native justifier](../assets/justification-native-shipped.webp)
+
+`PrayerLines` routes plain lines through it and leaves markup, Divinum Officium lines and response marks on the existing renderer — justification owns a line's whole spacing, so it can only take lines it renders end to end.
+
+### Still to verify on device
+
+**The one link that cannot be tested off-device:** whether UIKit widens a lone space under `letterSpacing` the way CSS does. RN maps it to `NSKernAttributeName` on iOS and `TextPaint.setLetterSpacing` on Android, both of which add after each character, so it should hold — but check it before trusting the prayer surface. If it does not, `JustifiedText` already falls back to ordinary wrapped text, so the failure mode is "no justification", not broken text.
+
+Also worth confirming on device: selection and copy across the nested runs, and that `allowFontScaling={false}` is the behaviour we want under Dynamic Type (the alternative is recomputing on scale change — the pipeline is pure JS and fast).
+
+---
+
+## Part 5 — What's left
+
+Done: the book reader and the native prayer flows (Part 7).
+
+1. **Verify the `letterSpacing`-on-a-space behaviour on an iOS device.** Everything else in the prayer pipeline is verified; this one link isn't, and it's the one that decides whether the native justification actually renders.
+2. **Bible as continuous prose** rather than one `<Text>` per verse. Its own spec — the difference between "a verse list" and "a Bible", and what makes the page worth justifying at all. `ChapterContent` can then use `JustifiedText` directly.
+3. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()`, for the text that still goes through the plain renderer (markup lines, Divinum Officium lines).
+4. **Protrusion and hanging punctuation on native.** `justif/core` reports `leftHang`/`rightHang`; rendering them means negative margins per line. Pure refinement on top of working breaks.
+5. **The web build's prayer flows.** `react-native-web` renders `<Text>` as a `<div>` that justif accepts, blocked only by its `white-space: pre-wrap` (measured: 0 of 3 paragraphs enhanced with it, 3 of 3 without). Now lower priority — the native path covers the same surface on the platforms that matter most, and web inherits it only if we route through the DOM renderer instead.
 
 ---
 
