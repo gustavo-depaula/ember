@@ -27,7 +27,9 @@ later effort.
 ## 1. Flow
 
 Seven steps, one screen each, under the `onboarding/` route group. Progress dots at top;
-**Skip** available on every step (persists whatever was set so far, then completes).
+**Skip** skips the *step*, not the flow — mid-flow it reads "Not now" and advances,
+which is what a user tapping it on the reading step actually means. Only the intro,
+before anything has been set, offers to leave setup entirely.
 
 1. **Intro / features overview** — a few swipeable slides giving an honest, concrete tour of
    what Ember does today: build & keep a Plan of Life with fidelity tracking; pray beautiful
@@ -120,6 +122,19 @@ Reuses: `ScreenLayout`, `PageHeader`, `Typography`, `Card`, `AnimatedPressable`,
 `useTemplateList`/`useTemplateManifest` + `AdoptSheet`; `useEnableSlotsForPractice`, `useSlots`,
 `useUpdateSlot`; `requestNotificationPermission`; `detectLanguage`. i18n: `onboarding.*` keys in
 `apps/app/src/lib/i18n/locales/{en-US,pt-BR}.ts`.
+
+### Gold is rationed
+
+`PrimaryButton` is **outlined** everywhere and fills only for the closing **Begin**.
+Gold is the app's preciousness channel (`design-system.md`, discipline 3); a solid
+gold slab on all nine steps spends it on "Continue" nine times, outshouts the
+paintings it sits on, and leaves the flow with no peak but a form control. One fill,
+at the one moment that matters.
+
+Card art is sized by **width ÷ height**, as React Native defines `aspectRatio` —
+below 1 is a portrait page. The saint cards are 1024×1535 (0.667); the readings use
+0.72, which trims only the printed border. Getting this backwards silently crops half
+of every card.
 
 ### The vigil shell
 

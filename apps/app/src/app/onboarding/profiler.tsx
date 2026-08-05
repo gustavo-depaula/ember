@@ -22,7 +22,7 @@ export default function OnboardingProfilerScreen() {
   const questions: DeckQuestion<PrayerStage | FormationStage | TimeAvailable>[] = [
     {
       artId: 'collection/carmelite',
-      marker: t('onboarding.profiler.marker'),
+      marker: t('onboarding.profiler.prayer.marker'),
       question: t('onboarding.profiler.prayer.question'),
       value: prayerStage,
       onAnswer: (v) => setAnswers({ prayerStage: v as PrayerStage }),
@@ -34,7 +34,7 @@ export default function OnboardingProfilerScreen() {
     },
     {
       artId: 'collection/thomas-aquinas',
-      marker: t('onboarding.profiler.marker'),
+      marker: t('onboarding.profiler.formation.marker'),
       question: t('onboarding.profiler.formation.question'),
       value: formationStage,
       onAnswer: (v) => setAnswers({ formationStage: v as FormationStage }),
@@ -46,7 +46,7 @@ export default function OnboardingProfilerScreen() {
     },
     {
       artId: 'collection/dies-sunday',
-      marker: t('onboarding.profiler.marker'),
+      marker: t('onboarding.profiler.time.marker'),
       question: t('onboarding.profiler.time.question'),
       value: time,
       onAnswer: (v) => setAnswers({ time: v as TimeAvailable }),

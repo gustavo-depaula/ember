@@ -6,19 +6,25 @@ import { Typography } from '@/components/typography'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 
 /**
- * The gold primary CTA shared across every onboarding step. Fires a light tap on
- * press; the final "Begin" step passes `haptic="success"` for a heavier flourish.
+ * The primary CTA shared across every onboarding step. Outlined by default: gold
+ * is the app's preciousness channel, and a solid gold slab on every step would
+ * spend it on "Continue" nine times over and outshout the paintings behind it.
+ * Only the closing **Begin** fills — so the one moment that matters is also the
+ * only one that gleams. Fires a light tap on press; `haptic="success"` gives the
+ * final step a heavier flourish.
  */
 export function PrimaryButton({
   label,
   onPress,
   disabled,
   haptic = 'tap',
+  filled = false,
 }: {
   label: string
   onPress: () => void
   disabled?: boolean
   haptic?: 'tap' | 'success'
+  filled?: boolean
 }) {
   return (
     <AnimatedPressable
@@ -36,13 +42,15 @@ export function PrimaryButton({
       accessibilityLabel={label}
     >
       <YStack
-        backgroundColor="$accent"
+        backgroundColor={filled ? '$accent' : 'transparent'}
+        borderWidth={filled ? 0 : 1}
+        borderColor="$accent"
         borderRadius="$md"
         padding="$md"
         alignItems="center"
         opacity={disabled ? 0.45 : 1}
       >
-        <Typography variant="label" fontSize="$3" color="$background">
+        <Typography variant="label" fontSize="$3" color={filled ? '$background' : '$accent'}>
           {label}
         </Typography>
       </YStack>

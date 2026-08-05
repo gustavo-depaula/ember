@@ -90,7 +90,10 @@ export function ArtChoiceCard({
   choice: ArtChoice
   selected?: boolean
   marker?: string
-  /** Height = width × ratio. 1 = square (paintings); ~1.35 = a plate or page. */
+  /**
+   * Width ÷ height, as React Native defines it. 1 is square (the traditions'
+   * paintings); **below** 1 is a portrait page — the saint cards are 0.667.
+   */
   aspectRatio?: number
   /** Drop this for long names — a work's full title breaks mid-word at hero size. */
   titleSize?: number
@@ -164,6 +167,7 @@ export function ArtChoiceFeatureCard({
    * a light plate or a whole page needs its name below it instead.
    */
   overlay?: boolean
+  /** Width ÷ height. Below 1 is portrait — see `ArtChoiceCard`. */
   aspectRatio?: number
   selected?: boolean
 }) {

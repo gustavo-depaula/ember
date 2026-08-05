@@ -1,14 +1,14 @@
 import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
 
-import { CandleFlame } from '@/components/CandleFlame'
 import { ScreenLayout } from '@/components/ScreenLayout'
 import { Typography } from '@/components/typography'
 import { completeOnboarding, PrimaryButton, VigilShell } from '@/features/onboarding'
 
 /**
- * The closing screen: a lit candle in the dark, then the vigil opens into the
- * day. `Begin` flips `hasOnboarded`, and the root guard reveals the tabs.
+ * The closing screen: a gold cross in the dark, then the vigil opens into the
+ * day. This is the one place the CTA fills — gold spent on the single moment
+ * that matters. `Begin` flips `hasOnboarded`, and the root guard reveals the tabs.
  */
 export default function OnboardingDoneScreen() {
   const { t } = useTranslation()
@@ -24,7 +24,12 @@ export default function OnboardingDoneScreen() {
             gap="$lg"
             paddingHorizontal="$md"
           >
-            <CandleFlame size={72} />
+            {/* The flow's one ceremonial peak. `CandleFlame` was tried here and
+                reads as clip-art at rest — flat lozenges in an orange that isn't
+                in the palette. */}
+            <Typography variant="ceremonial" fontSize={56} lineHeight={64}>
+              ✠
+            </Typography>
             <Typography variant="screen-title" fontSize={38} lineHeight={46} textAlign="center">
               {t('onboarding.done.title')}
             </Typography>
@@ -37,6 +42,7 @@ export default function OnboardingDoneScreen() {
             label={t('onboarding.done.begin')}
             onPress={completeOnboarding}
             haptic="success"
+            filled
           />
         </YStack>
       </ScreenLayout>

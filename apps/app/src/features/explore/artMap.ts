@@ -48,7 +48,7 @@ const artFiles: Record<string, string> = {
   'plan-of-life-template/benedictine': 'tpl-benedictine.jpg',
   'plan-of-life-template/cursillo': 'tpl-cursillo.jpg',
   'plan-of-life-template/legion-of-mary': 'marian.jpg',
-  'plan-of-life-template/sulpician': 'tpl-sulpician.png',
+  'plan-of-life-template/sulpician': 'tpl-sulpician.webp',
   'plan-of-life-template/byzantine': 'tpl-byzantine.jpg',
 
   'collection/dies-sunday': 'dies-sunday.jpg',
@@ -79,7 +79,7 @@ const artFiles: Record<string, string> = {
 
 // Bump when a painting is replaced at an existing filename — expo-image caches
 // by URL, so the `?v` query busts the stale disk-cached image.
-const artVersion = 5
+const artVersion = 4
 
 /**
  * Ids whose art is one of the corpus's illuminated saint cards, which live under
@@ -90,17 +90,17 @@ const artVersion = 5
 const saintCards: Record<string, string> = {
   // St Augustine wrote *De catechizandis rudibus* — on teaching the faith to
   // beginners, which is what Morrow's pictorial catechism is for.
-  'reading/catechetical-formation': 'augustine.png',
+  'reading/catechetical-formation': 'augustine.webp',
   // The Church's doctor of systematic doctrine, shown with the Summa.
-  'reading/compendium': 'thomas_aquinas.png',
+  'reading/compendium': 'thomas_aquinas.webp',
   // The full Catechism is promulgated by the Petrine office.
-  'reading/ccc': 'peter.png',
+  'reading/ccc': 'peter.webp',
   // Rome's great catechist of the simple and the young — a short Q&A catechism.
-  'reading/pius-x-catechism': 'philip_neri.png',
+  'reading/pius-x-catechism': 'philip_neri.webp',
   // The golden-mouthed teacher, for the fuller catechetical course.
-  'reading/pius-x-greater-catechism': 'john_chrysostom.png',
+  'reading/pius-x-greater-catechism': 'john_chrysostom.webp',
   // Borromeo drove the Roman Catechism's production and diffusion after Trent.
-  'reading/trent-catechism': 'charles_borromeo.png',
+  'reading/trent-catechism': 'charles_borromeo.webp',
 }
 
 export function artFor(id: string | undefined): ImageSource | undefined {

@@ -57,7 +57,8 @@ export function OnboardingScaffold({
           {progress ? <OnboardingProgress index={progress.index} total={progress.total} /> : null}
 
           <ScrollView flex={1} showsVerticalScrollIndicator={false}>
-            <YStack gap="$lg" paddingBottom="$lg">
+            {/* Clears the pinned footer so the last row isn't sliced by it. */}
+            <YStack gap="$lg" paddingBottom="$xl">
               <YStack gap="$xs">
                 {marker ? (
                   <Typography

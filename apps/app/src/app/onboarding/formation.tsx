@@ -15,7 +15,6 @@ import {
 import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import {
-  completeOnboarding,
   type FormationOption,
   type FormationOptionId,
   formationOptions,
@@ -103,7 +102,8 @@ export default function OnboardingFormationScreen() {
       progress={stepProgress('formation')}
       onContinue={onContinue}
       continueDisabled={busy}
-      onSkip={completeOnboarding}
+      onSkip={() => router.push(nextRoute('formation'))}
+      skipLabel={t('common.notNow')}
     >
       <YStack gap="$xl">
         {featured ? (
@@ -167,9 +167,10 @@ function Reading({
           choice={choice}
           selected={selected}
           // A saint card is a whole illuminated page on a cream ground — its
-          // name belongs beneath it, not set over it in cream.
+          // name belongs beneath it, not set over it in cream. The art is
+          // 1024×1535 (0.667); a hair wider only trims the printed border.
           overlay={false}
-          aspectRatio={1.3}
+          aspectRatio={0.72}
           marker={`${t(tagKey(opt))} · ${
             selected ? t('onboarding.formation.chosen') : t('onboarding.formation.recommended')
           }`}
@@ -178,7 +179,7 @@ function Reading({
         <ArtChoiceCard
           choice={choice}
           selected={selected}
-          aspectRatio={1.35}
+          aspectRatio={0.72}
           marker={t(tagKey(opt))}
           // A catechism's full title is long — hero size breaks it mid-word in
           // a two-up tile.

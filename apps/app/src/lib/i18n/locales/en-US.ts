@@ -1445,18 +1445,21 @@ export default {
       title: 'Where are you?',
       subtitle: 'A few gentle questions so we can suggest a good starting point. Nothing is fixed.',
       prayer: {
+        marker: 'Your prayer',
         question: 'How is your prayer life right now?',
         new: 'New to prayer',
         some: 'I have some habits',
         experienced: 'Well established',
       },
       formation: {
+        marker: 'Your formation',
         question: 'How familiar are you with the faith?',
         new: 'Just beginning',
         some: 'I know the basics',
         formed: 'Well formed',
       },
       time: {
+        marker: 'Your day',
         question: 'How much time can you give each day?',
         short: 'A few minutes',
         medium: '10–30 minutes',

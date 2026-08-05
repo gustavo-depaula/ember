@@ -7,12 +7,7 @@ import { XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { Typography } from '@/components/typography'
-import {
-  completeOnboarding,
-  nextRoute,
-  OnboardingScaffold,
-  stepProgress,
-} from '@/features/onboarding'
+import { nextRoute, OnboardingScaffold, stepProgress } from '@/features/onboarding'
 import { selectionTick } from '@/lib/haptics'
 import { supportedLanguages } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -68,7 +63,8 @@ export default function OnboardingLanguageScreen() {
       subtitle={t('onboarding.language.subtitle')}
       progress={stepProgress('language')}
       onContinue={persistAndAdvance}
-      onSkip={completeOnboarding}
+      onSkip={() => router.push(nextRoute('language'))}
+      skipLabel={t('common.notNow')}
     >
       <YStack gap="$xl">
         <Section label={t('onboarding.language.interface')}>

@@ -33,12 +33,12 @@ export type DeckQuestion<T extends string> = {
  * lines — no pills, no form chrome. Answering turns the page, so the deck reads
  * as a short conversation rather than a survey.
  */
-// biome-ignore lint/suspicious/noExplicitAny: each question carries its own answer union
 export function ArtQuestionDeck({
   questions,
   onDone,
   onSkip,
 }: {
+  // biome-ignore lint/suspicious/noExplicitAny: each question carries its own answer union
   questions: DeckQuestion<any>[]
   onDone: () => void
   onSkip: () => void

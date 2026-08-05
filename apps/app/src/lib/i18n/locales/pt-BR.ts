@@ -1455,18 +1455,21 @@ export default {
       subtitle:
         'Algumas perguntas simples para sugerirmos um bom ponto de partida. Nada é definitivo.',
       prayer: {
+        marker: 'Sua oração',
         question: 'Como está sua vida de oração hoje?',
         new: 'Começando a rezar',
         some: 'Tenho alguns hábitos',
         experienced: 'Bem estabelecida',
       },
       formation: {
+        marker: 'Sua formação',
         question: 'Quão familiarizado você é com a fé?',
         new: 'Apenas começando',
         some: 'Conheço o básico',
         formed: 'Bem formado',
       },
       time: {
+        marker: 'Seu dia',
         question: 'Quanto tempo pode dedicar por dia?',
         short: 'Alguns minutos',
         medium: '10–30 minutos',
