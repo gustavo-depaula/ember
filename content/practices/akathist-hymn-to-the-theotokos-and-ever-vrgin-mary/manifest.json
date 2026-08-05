@@ -2,14 +2,16 @@
   "id": "akathist-hymn-to-the-theotokos-and-ever-vrgin-mary",
   "icon": "mary",
   "name": {
-    "en-US": "Akathist Hymn to the Theotokos and Ever-Vrgin Mary"
+    "en-US": "Akathist Hymn to the Theotokos and Ever-Vrgin Mary",
+    "pt-BR": "Hino Akathistos à Theotókos e sempre Virgem Maria"
   },
   "categories": [
     "marian"
   ],
   "estimatedMinutes": 6,
   "description": {
-    "en-US": "A traditional little office in honour of Akathist Hymn to the Theotokos and Ever-Vrgin Mary."
+    "en-US": "A traditional little office in honour of Akathist Hymn to the Theotokos and Ever-Vrgin Mary.",
+    "pt-BR": "O hino bizantino de louvor à Mãe de Deus, contendo os kontákia e íkos ímpares."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

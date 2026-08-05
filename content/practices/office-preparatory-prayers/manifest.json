@@ -10,7 +10,8 @@
   ],
   "estimatedMinutes": 3,
   "description": {
-    "en-US": "The traditional Aperi, Domine and Sacrosanctae — said before and after praying any of the little offices."
+    "en-US": "The traditional Aperi, Domine and Sacrosanctae — said before and after praying any of the little offices.",
+    "pt-BR": "As orações tradicionais que se dizem antes e depois do Ofício Divino."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

@@ -2,14 +2,16 @@
   "id": "ordo-quiete-ante-lectulo",
   "icon": "prayer",
   "name": {
-    "en-US": "Ordo Quiete Ante Lectulo"
+    "en-US": "Ordo Quiete Ante Lectulo",
+    "pt-BR": "Ordo quiete ante lectulo"
   },
   "categories": [
     "office"
   ],
   "estimatedMinutes": 6,
   "description": {
-    "en-US": "A traditional little office in honour of Ordo Quiete Ante Lectulo."
+    "en-US": "A traditional little office in honour of Ordo Quiete Ante Lectulo.",
+    "pt-BR": "A oração hispano-moçárabe do repouso, dita antes de recolher-se ao leito."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

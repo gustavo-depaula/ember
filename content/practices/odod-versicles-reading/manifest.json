@@ -1,16 +1,23 @@
 {
-	"id": "odod-versicles-reading",
-	"name": {
-		"en-US": "Versicle"
-	},
-	"flow": {
-		"sections": [
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "℣ I heard a voice from heaven saying unto me.\n℟ Blessed are the dead which die in the Lord."
-				}
-			}
-		]
-	}
+  "id": "odod-versicles-reading",
+  "name": {
+    "en-US": "Versicle"
+  },
+  "flow": {
+    "sections": [
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "I heard a voice from heaven saying unto me."
+            },
+            "r": {
+              "en-US": "Blessed are the dead which die in the Lord."
+            }
+          }
+        ]
+      }
+    ]
+  }
 }

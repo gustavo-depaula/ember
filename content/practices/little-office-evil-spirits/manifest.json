@@ -2,14 +2,16 @@
   "id": "little-office-evil-spirits",
   "icon": "cross",
   "name": {
-    "en-US": "Little Office Against Evil Spirits"
+    "en-US": "Little Office Against Evil Spirits",
+    "pt-BR": "Pequeno Ofício contra os Espíritos Malignos"
   },
   "categories": [
     "office"
   ],
   "estimatedMinutes": 6,
   "description": {
-    "en-US": "A traditional little office in honour of Little Office Against Evil Spirits."
+    "en-US": "A traditional little office in honour of Little Office Against Evil Spirits.",
+    "pt-BR": "Um pequeno ofício tradicional da santa Cruz, contra os espíritos malignos."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

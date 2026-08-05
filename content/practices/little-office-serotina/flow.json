@@ -1,21 +1,17 @@
 {
   "sections": [
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "The “Serotina Prayers” for our Community and Benefactors.\nIt is the custom of the Servants of God to prayer specifically for living and deceased benefactors. The prayers which follow, called the “Serotina” (evening time prayers) are prayers traditionally said by Augustinian communities for their living and deceased benefactors. At some point in the day, the brother/sister takes time to pray for the good of his/her family and for his/her living and deceased benefactors. This “office” is particularly useful to begin or end common meetings."
-      }
-    },
-    {
       "type": "rubric",
       "text": {
-        "en-US": "Kneeling"
+        "en-US": "Kneeling",
+        "pt-BR": "De joelhos"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "In the Name of the Father and of the Son, and of the Holy Spirit.\nAmen."
+        "en-US": "In the Name of the Father and of the Son, and of the Holy Spirit.\nAmen.",
+        "pt-BR": "Em nome do Pai, e do Filho, e do Espírito Santo.\nAmém."
       }
     },
     {
@@ -23,10 +19,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "O Holy Banquet,"
+            "en-US": "O Holy Banquet,",
+            "pt-BR": "Ó sagrado banquete,"
           },
           "r": {
-            "en-US": "in which Christ is received, the memory of his passion is renewed, the soul is filled with grace, and there is given to us a pledge of future glory. (Alleluia)"
+            "en-US": "in which Christ is received, the memory of his passion is renewed, the soul is filled with grace, and there is given to us a pledge of future glory. (Alleluia)",
+            "pt-BR": "em que Cristo é recebido, renova-se a memória de sua paixão, a alma se enche de graça e nos é dado o penhor da glória futura. (Aleluia)"
           }
         }
       ]
@@ -36,10 +34,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "You have given them bread from heaven (Alleluia)"
+            "en-US": "You have given them bread from heaven (Alleluia)",
+            "pt-BR": "Destes-lhes o pão do céu (Aleluia)"
           },
           "r": {
-            "en-US": "Having all sweetness within it (Alleluia)"
+            "en-US": "Having all sweetness within it (Alleluia)",
+            "pt-BR": "Que encerra em si toda a doçura (Aleluia)"
           }
         }
       ]
@@ -47,91 +47,106 @@
     {
       "type": "rubric",
       "text": {
-        "en-US": "Let us pray."
+        "en-US": "Let us pray.",
+        "pt-BR": "Oremos."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "O God, who in this wonderful sacrament left us a memorial of your passion, grant, we implore you, that we may so venerate the sacred mystery of your body and blood as always to experience the fruits of your redemption. You who live and reign forever and ever."
+        "en-US": "O God, who in this wonderful sacrament left us a memorial of your passion, grant, we implore you, that we may so venerate the sacred mystery of your body and blood as always to experience the fruits of your redemption. You who live and reign forever and ever.",
+        "pt-BR": "Ó Deus, que neste admirável sacramento nos deixastes o memorial da vossa paixão, concedei-nos, vos suplicamos, venerar de tal modo o sagrado mistério do vosso corpo e do vosso sangue, que sintamos continuamente em nós os frutos da vossa redenção. Vós que viveis e reinais pelos séculos dos séculos."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "en-US": "Then follows:"
+        "en-US": "Then follows:",
+        "pt-BR": "Segue-se:"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Our Father etc.\nHail Mary etc."
+        "en-US": "Our Father etc.\nHail Mary etc.",
+        "pt-BR": "Pai-Nosso, etc.\nAve-Maria, etc."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "I confess to Almighty God, to Blessed Mary ever Virgin, to Blessed Michael the Archangel, to Blessed John the Baptist, to the Holy Apostles Peter and Paul (to our Holy Father Saint Augustine) and to all the saints, that I have sinned exceedingly in thought, word and deed. Through my fault, through my fault, through my most grievous fault. Therefore I beseech Blessed Mary ever Virgin, Blessed Michael the Archangel, Blessed John the Baptist, the Holy Apostles Peter and Paul (our Holy Father Saint Augustine) and all the saints, to pray to the Lord our God for me."
+        "en-US": "I confess to Almighty God, to Blessed Mary ever Virgin, to Blessed Michael the Archangel, to Blessed John the Baptist, to the Holy Apostles Peter and Paul (to our Holy Father Saint Augustine) and to all the saints, that I have sinned exceedingly in thought, word and deed. Through my fault, through my fault, through my most grievous fault. Therefore I beseech Blessed Mary ever Virgin, Blessed Michael the Archangel, Blessed John the Baptist, the Holy Apostles Peter and Paul (our Holy Father Saint Augustine) and all the saints, to pray to the Lord our God for me.",
+        "pt-BR": "Confesso a Deus todo-poderoso, à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo (a nosso Santo Padre Agostinho) e a todos os santos, que pequei muitas vezes por pensamentos, palavras e obras. Por minha culpa, minha culpa, minha máxima culpa. Portanto, rogo à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo (a nosso Santo Padre Agostinho) e a todos os santos, que roguem por mim ao Senhor nosso Deus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "May almighty God have mercy on us, forgive us our sins and bring us to life everlasting.\nAmen."
+        "en-US": "May almighty God have mercy on us, forgive us our sins and bring us to life everlasting.\nAmen.",
+        "pt-BR": "Deus todo-poderoso tenha compaixão de nós, perdoe os nossos pecados e nos conduza à vida eterna.\nAmém."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "May the almighty and merciful Lord grant us pardon, absolution and the remission of our sins.\nAmen."
+        "en-US": "May the almighty and merciful Lord grant us pardon, absolution and the remission of our sins.\nAmen.",
+        "pt-BR": "O Senhor todo-poderoso e misericordioso nos conceda o perdão, a absolvição e a remissão dos nossos pecados.\nAmém."
       }
     },
     {
       "type": "subheading",
       "text": {
-        "en-US": "Prayer for the Good of our Community"
+        "en-US": "Prayer for the Good of our Community",
+        "pt-BR": "Oração pelo Bem de nossa Comunidade"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Father in heaven, in your all embracing love you have brought us together as the Servants of God that we might serve the Church of your Son in the spirit of our vows and the true love of our founder."
+        "en-US": "Father in heaven, in your all embracing love you have brought us together as the Servants of God that we might serve the Church of your Son in the spirit of our vows and the true love of our founder.",
+        "pt-BR": "Pai celeste, em vosso amor que a tudo abraça, reunistes-nos como Servos de Deus, para que sirvamos a Igreja de vosso Filho no espírito dos nossos votos e no verdadeiro amor do nosso fundador."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Strengthen our commitment to the demands of our vocation. Send our community many young men and women who with whole heart and in true harmony will serve your kingdom."
+        "en-US": "Strengthen our commitment to the demands of our vocation. Send our community many young men and women who with whole heart and in true harmony will serve your kingdom.",
+        "pt-BR": "Fortalecei o nosso compromisso com as exigências da nossa vocação. Enviai à nossa comunidade muitos jovens que, de todo o coração e em verdadeira harmonia, sirvam ao vosso reino."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Grant our sick patience and hope and make their sacrifices fruitful for the Church and the entire Augustinian family. Increase our devotion to those for whose beatification we confidently pray. Strengthen our brothers and sisters in the missions, bless their efforts, and may your good news find a hearing by all nations."
+        "en-US": "Grant our sick patience and hope and make their sacrifices fruitful for the Church and the entire Augustinian family. Increase our devotion to those for whose beatification we confidently pray. Strengthen our brothers and sisters in the missions, bless their efforts, and may your good news find a hearing by all nations.",
+        "pt-BR": "Concedei aos nossos enfermos paciência e esperança, e tornai os seus sacrifícios fecundos para a Igreja e para toda a família agostiniana. Aumentai a nossa devoção àqueles por cuja beatificação oramos com confiança. Fortalecei os nossos irmãos e irmãs nas missões, abençoai os seus esforços, e que a vossa boa-nova seja acolhida por todas as nações."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Heal the wounds of disunity among those upon whom your name has been called. In your loving care receive the petitions of the faithful and our friends who ask for our prayers. Graciously grant the requests of our house, this chapter and the entire Augustinian family."
+        "en-US": "Heal the wounds of disunity among those upon whom your name has been called. In your loving care receive the petitions of the faithful and our friends who ask for our prayers. Graciously grant the requests of our house, this chapter and the entire Augustinian family.",
+        "pt-BR": "Curai as feridas da desunião entre aqueles sobre os quais foi invocado o vosso nome. Em vosso amoroso cuidado, acolhei as súplicas dos fiéis e dos nossos amigos que nos pedem orações. Concedei benignamente os pedidos da nossa casa, deste capítulo e de toda a família agostiniana."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "All-good and merciful God, we place all our trust in you. In the love of the Holy Spirit, we pray the prayer that your Son himself taught us:"
+        "en-US": "All-good and merciful God, we place all our trust in you. In the love of the Holy Spirit, we pray the prayer that your Son himself taught us:",
+        "pt-BR": "Ó Deus todo bom e misericordioso, em vós depositamos toda a nossa confiança. No amor do Espírito Santo, rezamos a oração que o vosso próprio Filho nos ensinou:"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "Our Father etc."
+        "en-US": "Our Father etc.",
+        "pt-BR": "Pai-Nosso, etc."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "en-US": "For the Living Benefactors"
+        "en-US": "For the Living Benefactors",
+        "pt-BR": "Pelos Benfeitores Vivos"
       }
     },
     {
@@ -139,331 +154,12 @@
       "verses": [
         {
           "v": {
-            "en-US": "Let us pray for all the brothers, sisters, parents, relatives and benefactors of our community, living and deceased."
+            "en-US": "Let us pray for all the brothers, sisters, parents, relatives and benefactors of our community, living and deceased.",
+            "pt-BR": "Oremos por todos os irmãos, irmãs, pais, parentes e benfeitores da nossa comunidade, vivos e falecidos."
           },
           "r": {
-            "en-US": "Grant, Lord God, the reward of eternal life, to all who have been good to us in your name."
-          }
-        }
-      ]
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm 123 – Our Trust is in the Lord"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "To you I have lifted up my eyes: You who dwell in the heavens. My eyes like the eyes of slaves, On the hands of their Lords.\nLike the eyes of a servant, On the hand of her mistress, So our eyes are on the Lord our God, Till he shows us his mercy.\nHave mercy on us, Lord, have mercy, We are filled with contempt. Indeed all too full is our soul with the scorn of the rich, with the proud man's disdain.\nGlory to the Father etc."
-      }
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "Lord, have mercy"
-          },
-          "r": {
-            "en-US": "Christ, have mercy"
-          }
-        }
-      ]
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Lord, have mercy"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Our Father etc."
-      }
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "O Lord, save Your servants,"
-          },
-          "r": {
-            "en-US": "O Lord, we trust in You."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "O Lord, send us help from Your holy sanctuary,"
-          },
-          "r": {
-            "en-US": "And strengthen us out of Zion."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "Be for us, O Lord, a tower of strength,"
-          },
-          "r": {
-            "en-US": "Protect us from all harm."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "Do not let our enemies overcome us,"
-          },
-          "r": {
-            "en-US": "Nor the son of iniquity have power to harm us."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "May the name of the Lord be praised"
-          },
-          "r": {
-            "en-US": "And may He guide us on the way of salvation."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "Show us, O Lord, Your paths,"
-          },
-          "r": {
-            "en-US": "And direct our hearts to keep Your precepts."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "O Lord hear my prayer"
-          },
-          "r": {
-            "en-US": "And let my cry come unto You."
-          }
-        }
-      ]
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Let us pray."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "For the Pope"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Heavenly Father, through the intercession of Blessed Mary ever Virgin, S. Joseph, Our Holy Father Saint Augustine and all Your saints in heaven, grant the help of your heavenly grace to your son: Pope N., the pastor of your Church. May his word and example inspire and guide the Church. Protect him from all harm, do not allow his enemies to triumph and may he, and all those entrusted to his care, come to the joy of everlasting life."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "For the Bishop"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Almighty God, our Father, eternal Shepherd and guide, look with love on N., our bishop, chief shepherd of your church in the diocese of N. Give him the grace and power of your Holy Spirit that he may guide and govern his people with love. Protect him from all harm and help him to be a faithful teacher, wise administrator and a holy priest."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "la": "For Members, Benefactors & Friends"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Father, you have renewed all creation in your beloved Son, Jesus Christ, the King of the whole universe. May all the members, friends and benefactors of our community seek you with their whole heart and become subject to the gentle rule of your only begotten Son so that they may merit to obtain what they rightly ask. Grant this through Christ our Lord.\nAmen."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "For the Deceased Benefactors"
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "en-US": "Psalm 130 – A Cry from the Depths"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Out of the depths I cry to you, O Lord, Lord, hear my voice! Let your ears be attentive to the voice of my pleading.\nIf you, O Lord, should mark our guilt, Lord, who would survive? But with you is found forgiveness; for this we revere you.\nMy soul is waiting for the Lord, I count on his word. My soul is longing for the Lord more than watchmen for daybreak let the watchman count on daybreak and Israel on the Lord.\nBecause with the Lord there is mercy and fullness of redemption, Israel indeed he will redeem from all its iniquity."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Glory to the Father etc.\nAs it was in the beginning etc."
-      }
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "Eternal rest grant unto them, O Lord."
-          },
-          "r": {
-            "en-US": "And let perpetual light shine upon them."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "Lord have mercy"
-          },
-          "r": {
-            "en-US": "Christ have mercy"
-          }
-        }
-      ]
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Lord have mercy"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Our Father etc. Until:"
-      }
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "And lead us not into temptation"
-          },
-          "r": {
-            "en-US": "But deliver us from evil."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "From the gates of hell"
-          },
-          "r": {
-            "en-US": "Deliver their souls, O Lord."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "May they rest in peace."
-          },
-          "r": {
-            "en-US": "Amen."
-          }
-        }
-      ]
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "O Lord hear my prayer"
-          },
-          "r": {
-            "en-US": "And let my cry come unto you."
-          }
-        }
-      ]
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Let us pray."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "God, our Father, you grant pardon from sin and will the salvation of everyone. We beg you to be merciful and grant that all the deceased priests, brothers, sisters, relatives and benefactors of our community may come to eternal happiness through the intercession of the Blessed Virgin Mary and all your saints."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "O God, the creator and redeemer of all the faithful grant to all your deceased servants the remission of all their sins, that they may obtain the pardon which they have ever wished for. We ask this through Christ our Lord.\nAmen."
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "Additional Collects for particular needs may be added here. After which continue here with the following:"
-      }
-    },
-    {
-      "type": "response",
-      "verses": [
-        {
-          "v": {
-            "en-US": "We praise the Lord our God who has brought us together to rejoice in the Spirit."
-          },
-          "r": {
-            "en-US": "May we always be humble of heart and place our joy in the Lord. Let us not be carried away by any material success, but rather acknowledge that true happiness will be ours only when the things of this life have passed away."
+            "en-US": "Grant, Lord God, the reward of eternal life, to all who have been good to us in your name.",
+            "pt-BR": "Concedei, Senhor Deus, a recompensa da vida eterna a todos os que nos fizeram bem em vosso nome."
           }
         }
       ]
@@ -471,7 +167,15 @@
     {
       "type": "subheading",
       "text": {
-        "en-US": "Hail Queen of Heaven – A Prayer for Protection"
+        "en-US": "Psalm 123 – Our Trust is in the Lord",
+        "pt-BR": "Salmo 123 — Nossa confiança está no Senhor"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "To you I have lifted up my eyes: You who dwell in the heavens. My eyes like the eyes of slaves, On the hands of their Lords.\nLike the eyes of a servant, On the hand of her mistress, So our eyes are on the Lord our God, Till he shows us his mercy.\nHave mercy on us, Lord, have mercy, We are filled with contempt. Indeed all too full is our soul with the scorn of the rich, with the proud man's disdain.\nGlory to the Father etc.",
+        "pt-BR": "A vós levantei os meus olhos, vós que habitais nos céus. Como os olhos dos servos nas mãos de seus senhores,\ncomo os olhos da serva na mão de sua senhora, assim os nossos olhos estão no Senhor nosso Deus, até que se compadeça de nós.\nTende piedade de nós, Senhor, tende piedade, porque estamos saturados de desprezo. Por demais está saturada a nossa alma com o escárnio dos ricos e o desdém dos soberbos.\nGlória ao Pai, etc."
       }
     },
     {
@@ -479,10 +183,41 @@
       "verses": [
         {
           "v": {
-            "en-US": "Hail, Queen of Heaven"
+            "en-US": "Lord, have mercy",
+            "pt-BR": "Senhor, tende piedade"
           },
           "r": {
-            "en-US": "Mother of the King of Angels, O Mary, flower of virgins, Like a Rose or Lily, Pour out prayers to your Son, For the salvation of the faithful."
+            "en-US": "Christ, have mercy",
+            "pt-BR": "Cristo, tende piedade"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Lord, have mercy",
+        "pt-BR": "Senhor, tende piedade"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Our Father etc.",
+        "pt-BR": "Pai-Nosso, etc."
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Lord, save Your servants,",
+            "pt-BR": "Salvai, Senhor, os vossos servos,"
+          },
+          "r": {
+            "en-US": "O Lord, we trust in You.",
+            "pt-BR": "Senhor, em vós confiamos."
           }
         }
       ]
@@ -492,48 +227,166 @@
       "verses": [
         {
           "v": {
-            "en-US": "Pray for us O holy Virgin of virgins,"
+            "en-US": "O Lord, send us help from Your holy sanctuary,",
+            "pt-BR": "Enviai-nos, Senhor, auxílio do vosso santo santuário,"
           },
           "r": {
-            "en-US": "That we may be made worthy of the promises of Christ."
+            "en-US": "And strengthen us out of Zion.",
+            "pt-BR": "E defendei-nos desde Sião."
           }
         }
       ]
     },
     {
-      "type": "prayer",
-      "inline": {
-        "en-US": "Let us pray:\nProtect, O Lord, we pray, upon the intercession of Blessed Mary ever Virgin, this community of the servants of God from all misfortune: and graciously shield from the enemy all those who implore you from their heart. Through Christ our Lord.\nAmen."
-      }
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Be for us, O Lord, a tower of strength,",
+            "pt-BR": "Sede para nós, Senhor, uma torre fortificada,"
+          },
+          "r": {
+            "en-US": "Protect us from all harm.",
+            "pt-BR": "Protegei-nos de todo mal."
+          }
+        }
+      ]
     },
     {
-      "type": "subheading",
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Do not let our enemies overcome us,",
+            "pt-BR": "Não permitais que o inimigo prevaleça sobre nós,"
+          },
+          "r": {
+            "en-US": "Nor the son of iniquity have power to harm us.",
+            "pt-BR": "Nem que o filho da iniquidade tenha poder de nos fazer mal."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "May the name of the Lord be praised",
+            "pt-BR": "Seja louvado o nome do Senhor"
+          },
+          "r": {
+            "en-US": "And may He guide us on the way of salvation.",
+            "pt-BR": "E que ele nos conduza pelo caminho da salvação."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Show us, O Lord, Your paths,",
+            "pt-BR": "Mostrai-nos, Senhor, os vossos caminhos,"
+          },
+          "r": {
+            "en-US": "And direct our hearts to keep Your precepts.",
+            "pt-BR": "E dirigi os nossos corações para guardar os vossos preceitos."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Lord hear my prayer",
+            "pt-BR": "Senhor, ouvi a minha oração"
+          },
+          "r": {
+            "en-US": "And let my cry come unto You.",
+            "pt-BR": "E chegue até vós o meu clamor."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
       "text": {
-        "la": "Prayer in Honour of S. Joseph"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "O God, who in your ineffable providence have chosen S. Joseph as the spouse of your most holy mother, grant, we pray, that we may have him in heaven interceding for us whom we venerate as our Protector on earth. Through Christ our Lord."
-      }
-    },
-    {
-      "type": "subheading",
-      "text": {
-        "la": "Prayer in Honour of S. Augustine"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "O God, by revealing to our Holy Father, S. Augustine the secrets of your eternal wisdom, and by kindling in his heart the flames of divine love, you renewed in your Church the miracle of the cloud and fire; grant that under his guidance we may safely pass through the dangers of this world and be worthy to reach the eternal land of promise. Through Christ our Lord."
+        "en-US": "Let us pray.",
+        "pt-BR": "Oremos."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "en-US": "Closing Prayer"
+        "en-US": "For the Pope",
+        "pt-BR": "Pelo Papa"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Heavenly Father, through the intercession of Blessed Mary ever Virgin, S. Joseph, Our Holy Father Saint Augustine and all Your saints in heaven, grant the help of your heavenly grace to your son: Pope N., the pastor of your Church. May his word and example inspire and guide the Church. Protect him from all harm, do not allow his enemies to triumph and may he, and all those entrusted to his care, come to the joy of everlasting life.",
+        "pt-BR": "Pai celeste, pela intercessão da bem-aventurada sempre Virgem Maria, de S. José, de nosso Santo Padre Agostinho e de todos os vossos santos no céu, concedei o auxílio da vossa graça celeste ao vosso filho, o Papa N., pastor da vossa Igreja. Que a sua palavra e o seu exemplo inspirem e guiem a Igreja. Protegei-o de todo mal, não permitais que os seus inimigos triunfem, e que ele, e todos os que lhe foram confiados, cheguem à alegria da vida eterna."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "For the Bishop",
+        "pt-BR": "Pelo Bispo"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Almighty God, our Father, eternal Shepherd and guide, look with love on N., our bishop, chief shepherd of your church in the diocese of N. Give him the grace and power of your Holy Spirit that he may guide and govern his people with love. Protect him from all harm and help him to be a faithful teacher, wise administrator and a holy priest.",
+        "pt-BR": "Deus todo-poderoso, nosso Pai, eterno Pastor e guia, olhai com amor para N., nosso bispo, pastor principal da vossa igreja na diocese de N. Dai-lhe a graça e a força do vosso Espírito Santo, para que guie e governe o seu povo com amor. Protegei-o de todo mal e ajudai-o a ser mestre fiel, administrador sábio e sacerdote santo."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "la": "For Members, Benefactors & Friends",
+        "pt-BR": "Pelos Membros, Benfeitores e Amigos"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Father, you have renewed all creation in your beloved Son, Jesus Christ, the King of the whole universe. May all the members, friends and benefactors of our community seek you with their whole heart and become subject to the gentle rule of your only begotten Son so that they may merit to obtain what they rightly ask. Grant this through Christ our Lord.\nAmen.",
+        "pt-BR": "Ó Pai, que renovastes toda a criação em vosso amado Filho, Jesus Cristo, Rei de todo o universo: que todos os membros, amigos e benfeitores da nossa comunidade vos busquem de todo o coração e se submetam ao suave governo do vosso Filho unigênito, para que mereçam alcançar o que retamente pedem. Por Cristo, Senhor nosso.\nAmém."
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "For the Deceased Benefactors",
+        "pt-BR": "Pelos Benfeitores Falecidos"
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Psalm 130 – A Cry from the Depths",
+        "pt-BR": "Salmo 130 — Um clamor das profundezas"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Out of the depths I cry to you, O Lord, Lord, hear my voice! Let your ears be attentive to the voice of my pleading.\nIf you, O Lord, should mark our guilt, Lord, who would survive? But with you is found forgiveness; for this we revere you.\nMy soul is waiting for the Lord, I count on his word. My soul is longing for the Lord more than watchmen for daybreak let the watchman count on daybreak and Israel on the Lord.\nBecause with the Lord there is mercy and fullness of redemption, Israel indeed he will redeem from all its iniquity.",
+        "pt-BR": "Das profundezas clamo a vós, Senhor; Senhor, escutai a minha voz! Estejam atentos os vossos ouvidos à voz da minha súplica.\nSe observardes as nossas culpas, Senhor, Senhor, quem subsistirá? Mas em vós se encontra o perdão; por isso vos reverenciamos.\nMinha alma espera no Senhor, eu conto com a sua palavra. Minha alma anseia pelo Senhor mais que as sentinelas pela aurora; conte a sentinela com a aurora, e Israel com o Senhor.\nPorque no Senhor há misericórdia e plenitude de redenção; ele mesmo redimirá Israel de todas as suas iniquidades."
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "Glory to the Father etc.\nAs it was in the beginning etc.",
+        "pt-BR": "Glória ao Pai, etc.\nAssim como era no princípio, etc."
       }
     },
     {
@@ -541,10 +394,27 @@
       "verses": [
         {
           "v": {
-            "en-US": "We adore you O Christ and we praise you"
+            "en-US": "Eternal rest grant unto them, O Lord.",
+            "pt-BR": "Dai-lhes, Senhor, o descanso eterno."
           },
           "r": {
-            "en-US": "Because by your Holy Cross you have redeemed the world."
+            "en-US": "And let perpetual light shine upon them.",
+            "pt-BR": "E brilhe para eles a luz perpétua."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Lord have mercy",
+            "pt-BR": "Senhor, tende piedade"
+          },
+          "r": {
+            "en-US": "Christ have mercy",
+            "pt-BR": "Cristo, tende piedade"
           }
         }
       ]
@@ -552,261 +422,213 @@
     {
       "type": "prayer",
       "inline": {
-        "en-US": "akathisthymn\nThe Akathist Hymn to the Theotokos and Ever-Virgin Mary: containing only the odd numbered kontakia & ikoi. Metropolitan Cantor Institute of the Archeparchy of Pittsburgh, Byzantine Catholic Seminary. 2nd ed., June 2018; edited by Rev. John R.P. Russell, January 2020."
+        "en-US": "Lord have mercy",
+        "pt-BR": "Senhor, tende piedade"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "albergati\nAlbergati, Nicolaus. Compendium Vitae Beati Nicolai Albergati S.R.E. Cardinalis et Episcopi Bononiensis ex S. Ordine Carthusiano Bononiae Professo cum Officio Parvo ad Eundem Beatum. Olemucii: Typis Francisci Antonii Hirnle, 1746."
+        "en-US": "Our Father etc. Until:",
+        "pt-BR": "Pai-Nosso, etc. Até:"
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "And lead us not into temptation",
+            "pt-BR": "E não nos deixeis cair em tentação"
+          },
+          "r": {
+            "en-US": "But deliver us from evil.",
+            "pt-BR": "Mas livrai-nos do mal."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "From the gates of hell",
+            "pt-BR": "Das portas do inferno"
+          },
+          "r": {
+            "en-US": "Deliver their souls, O Lord.",
+            "pt-BR": "Livrai as suas almas, Senhor."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "May they rest in peace.",
+            "pt-BR": "Descansem em paz."
+          },
+          "r": {
+            "en-US": "Amen.",
+            "pt-BR": "Amém."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "O Lord hear my prayer",
+            "pt-BR": "Senhor, ouvi a minha oração"
+          },
+          "r": {
+            "en-US": "And let my cry come unto you.",
+            "pt-BR": "E chegue até vós o meu clamor."
+          }
+        }
+      ]
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Let us pray.",
+        "pt-BR": "Oremos."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "breviariumcisterciense\nBreviarium Cisterciense, auctoritate Reverendissimi DD. Abbatis Cisterciensis Generalis editum. Pars Hyemalis. Parisiis: Sumptibus Michaelis-Antonii David, Ordinis Cisterciensis Mono-Bibliopolae, via San-Jacobæ, ad insigne Calami aurei, 1752."
+        "en-US": "God, our Father, you grant pardon from sin and will the salvation of everyone. We beg you to be merciful and grant that all the deceased priests, brothers, sisters, relatives and benefactors of our community may come to eternal happiness through the intercession of the Blessed Virgin Mary and all your saints.",
+        "pt-BR": "Ó Deus, nosso Pai, que concedeis o perdão dos pecados e quereis a salvação de todos: nós vos pedimos que, misericordioso, concedais que todos os sacerdotes, irmãos, irmãs, parentes e benfeitores falecidos da nossa comunidade cheguem à felicidade eterna, pela intercessão da bem-aventurada Virgem Maria e de todos os vossos santos."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "breviariumgothicum\nBreviarium Gothicum secundum regulam Beatissimi Isidori Archiepiscopi Hispalensis Matriti: Apud Joachimum Ibarra, 1752."
+        "en-US": "O God, the creator and redeemer of all the faithful grant to all your deceased servants the remission of all their sins, that they may obtain the pardon which they have ever wished for. We ask this through Christ our Lord.\nAmen.",
+        "pt-BR": "Ó Deus, criador e redentor de todos os fiéis, concedei a todos os vossos servos falecidos a remissão de todos os seus pecados, para que alcancem o perdão que sempre desejaram. Por Cristo, Senhor nosso.\nAmém."
       }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Additional Collects for particular needs may be added here. After which continue here with the following:",
+        "pt-BR": "Podem-se acrescentar aqui outras coletas para necessidades particulares. Em seguida, continua-se assim:"
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "We praise the Lord our God who has brought us together to rejoice in the Spirit.",
+            "pt-BR": "Louvamos o Senhor nosso Deus, que nos reuniu para nos alegrarmos no Espírito."
+          },
+          "r": {
+            "en-US": "May we always be humble of heart and place our joy in the Lord. Let us not be carried away by any material success, but rather acknowledge that true happiness will be ours only when the things of this life have passed away.",
+            "pt-BR": "Sejamos sempre humildes de coração e ponhamos a nossa alegria no Senhor. Não nos deixemos arrebatar por nenhum sucesso material, mas reconheçamos antes que a verdadeira felicidade só será nossa quando tiverem passado as coisas desta vida."
+          }
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "en-US": "Hail Queen of Heaven – A Prayer for Protection",
+        "pt-BR": "Salve, Rainha do Céu — Oração de Proteção"
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Hail, Queen of Heaven",
+            "pt-BR": "Salve, Rainha do Céu"
+          },
+          "r": {
+            "en-US": "Mother of the King of Angels, O Mary, flower of virgins, Like a Rose or Lily, Pour out prayers to your Son, For the salvation of the faithful.",
+            "pt-BR": "Mãe do Rei dos Anjos, ó Maria, flor das virgens, como a rosa ou o lírio, derramai preces a vosso Filho pela salvação dos fiéis."
+          }
+        }
+      ]
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "Pray for us O holy Virgin of virgins,",
+            "pt-BR": "Rogai por nós, ó santa Virgem das virgens,"
+          },
+          "r": {
+            "en-US": "That we may be made worthy of the promises of Christ.",
+            "pt-BR": "Para que sejamos dignos das promessas de Cristo."
+          }
+        }
+      ]
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "breviariumlugdunensis\nBreviarium Sanctae Lugdunensis Ecclesiae, Primae Galliarum Sedis. Pars Autumnalis. Lugduni: Typis Amati de La Roche, Illustrissimi ac Reverendissimi D. D. Archiepiscopi et Cleri Typographi, 1775."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "breviariummonasticum\nBreviarium Monasticum: Pauli V jussu editum, Urbani VIII et Leonis XIII cura recognitum, Pii X et Benedicti XV auctoritate reformatum. Pro omnibus sub Regula S. Patris Benedicti militantibus. Pars Altera. Editio Altera. Brugis: Sumptibus et Typis Societatis S. Augustini, Desclée De Brouwer et Soc., 1922."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "breviariumparisiense\nBreviarium Parisiense. Paris: Sumptibus suis cidedrunt Bibliopolae Usuum Parisiensium, 1736."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "breviariumpraemonstratense\nBreviarium ad Usum Sacri et Canonici Ordinis Praemonstratensis, Rmi. in Christo Patris ac D.D. Claudii Honorati Lucas, Abbatis Praemonstratensis, totius Ordinis Generalis, ejusdemque Capituli Generalis authoritate, novissime correctum ac emendatum. Pars Verna. Viriduni: Apud Claudium Muguet, Praemonstratensis Ordinis Typographum, 1710."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "burnetpsalter\nThe Burnet Psalter (AUL MS 25). Fifteenth-century illuminated manuscript. Digitized and published by Aberdeen University Library, Department of Special Collections and Archives. Accessed August 23, 2025. https://www.abdn.ac.uk/library/."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "devota\nDevota et Fructuosa Pietatis Exercitia Deum Triunum Adorandi, Dei Matrem Virginem Sine Labe Conceptam Venerandi, Sanctosque Invocandi. Viennae: Joannis Thomae Trattner, 1751."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "elenchusvitae\nElenchus vitæ sive præcipuarum Virtutum & Prærogativarum Sancti Patris Francisci Seraphici Patriarchæ & Fundatoris Ordinis Minorum notis etiam quibusdam Moralibus illustratus, Accedit, De Eodem Parvum Officium, cum Quibusdam devotis Orationibus, Opusculum, a quodam hujus Sancti Cliente ad jus cultum augendum propositum. Pragae: Typis Leopoldi Kamenicki, 1733."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "esteban\nEsteban, Eustasius. Manual of the Augustinian Secular Tertiaries and Archconfraternity of the Cincture of the Blessed Virgin Mary, Mother of Consolation of S. Augustine and S. Monica: With New Summaries of Indulgences. Philadelphia: Good Counsel Press, 1927."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "itzstein\nItzstein, Johann Christian. Rosetum Deiparae Virginis Mariae. Herbipoli: Typis Eliae Michaelis Zinck, 1641."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "janvier\nJanvier, Rev. Abbé. Manual of the Archconfraternity of the Holy Face: Followed by the Little Office of the Holy Name of God. Trans. Mrs. A. R. Bennett. Tours: The Oratory of the Holy Face, 1887."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "kellerbooks\nVarious Little Offices and Devotions. Gregorian Books. Accessed July 19, 2025. https://www.gregorianbooks.com/gregorian/www/www.kellerbook.com/ss2.htm."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "lamanual\nA Manual of Devotions to Our Holy Father Saint Benedict, Abbot and Patriarch of the Western Monks; to His Sister Saint Scholastica, Virgin and Abbess; and to All Saints of His Holy Order. London: Catholic Publishing and Bookselling Company, 1861."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "lemercier\nLe Mercier, Jacques. Histoire de la Larme Sainte de N. S. Jesus-Christ, Reverée dans l’Abbaye de Saint Pierre lés Selincourt, Ordre de Premontré, au Diocèse d’Amiens. Amiens: De l’Imprimerie de Charles Caron-Hubault, 1707."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "libellusprecum\nLibellus Precum ad Usum Fratrum S. Ordinis Praedicatorum, Reverendissimi Patris Fr. Emmanuelis Suarez, Ejusdem Ordinis Generalis Magistri, Jussu Editus. Romae: Ad S. Sabinam, 1952. Printed in Italy."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "lobvm\n“Little Office of the Blessed Virgin Mary.” LOBVM.com. Accessed July 19, 2025. https://www.lobvm.com/."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "ludger\nLudgerus Monasteriensis. Officium Parvum de S. Ludgero Frisonum, Saxonum, et Westphthalorum Apostolo, In Imperiali, Libero, et Exempto Monasterio Werdinensi. [Place of publication not identified], 1712."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "modofacile\nModo facile, e divoto per acquistare la continua presenza di Dio, non solo quando l'anima vorrà far l'orazione, ma sempre, in tutti i tempi, & in ogni luogo. Contiene brevißime regole Opera a tutti utile, e profittovole. Dedicata al divotissimo, e gloriosissimo santo Filippo Neri. Parte prima. Che insegna la vera disposizione del tempo. In Venetia: Per Giacomo Didini, 1682."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "nakateni\nNakateni, Wilhelmi, S.J. Coeleste Palmetum ad Ubertatem et Sacras Delicias Excultum, Ornatum, Munium. 7th ed. Mechliniae: H. Dessain, 1879."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "newraccolta\nThe New Raccolta: Or, Collection of Prayers and Good Works, to Which the Sovereign Pontiffs Have Attached Holy Indulgences. From the 3rd Italian ed. Philadelphia: Peter F. Cunningham and Son, 1903."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offcarmel\nOfficium Parvum Beatae Mariae Virginis juxta Ritum Carmelitanuм. Romae, Tornaci, Parisiis: Typis Societatis S. Joannis Evangelistae, Desclée et Socii, 1939."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offcrucis\nOfficium Parvum S. Crucis. 1800. Accessed July 19, 2025.https://archive.org/details/bub_gb_PZ0tt9D7UEwC/page/n1/mode/2up."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offanastasia\nOfficium Parvum et Litaniae Sanctae Anastasiae Martyris, Exempti, Antiquissimi et Celeberrimi Monasterii Benedicto-Burani Patronae Thaumaturgae. Monachii: Typis Joannis Lucae Straubii, 1702."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "officiumblasii\nOfficium Parvum S. Blasii, Ep. et Martyris, SS. Auxiliatorum Primatis, Patroni et Tutelaris Thaumaturgi cognominis Monasterii Imperialis et Principalis in Silva Nigra: cum Litanis, Precibus et Benedictionibus. Friburgi Brisgoniae: Typis Felnerianis, Universitatis Typographorum, 1754."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "officiumdivini\nOfficium Parvum Divini Amoris. Pragae: Typis Universitatis Carolo-Ferdinandeae in Collegio Soc. Jesu ad S. Clementem, 1706."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offgloriosi\nOfficium Parvum de gloriosis Christi Martyribus Marcellino et Petro. [Place of publication not identified], 1697."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offjesu\nOfficium Parvum de Amabilissimo Puero Jesu. Ratisbonae: Typis Joannis Baptistae Lang, Episc. Typogr., 1719."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offjoanne\nOfficium Parvum de S. Joanne Nepomuceno Martyre. Wirceburgi: Apud Philippum Wilhelmum Wickert, Bibliop. Aul. Acad., 1741."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offmichael\nOfficium Parvum cum Litanis Sancti Michaelis Archangeli. Bruntruti: A Guilielmo Darbellay, 1632."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "offpassion\nS. Bonaventure. Little Office of the Passion. Chicago: Franciscan Herald Press, 1920."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offquinque\nOfficium Parvum Sacratissimorum Quinque Vulnerum Salvatoris Nostri Jesu Christi. Constantiae: Typis Joannis Jacobi Labhart, 1688."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "offrakoczianum\nOfficium Rakoczianum, sive Varia Pietatis Exercitia Cultui Divino, Magnae Matris Mariae, Sanctorumque Patronorum Honori Debita. Editio novissima. Budae: Typis Regiae Universitatis, 1783."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "ordoadmediumnoctis\n“Ordo Ad Médium Noctis.” *Gothicum Mockup – Per Totum Annum*, Alan L., accessed August 23, 2025. https://alanl399.github.io/Gothicum/trad_a/ad_medium_noctis.html.\nordoantelectulo\n\"Ordo Quiete Ante Lectulo.\" *Gothicum Mockup - Per Totum Annum*, Alan L., accessed August 23, 2025. https://alanl399.github.io/Gothicum/trad_a/ante_lectulo.html"
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "ruth\nRuth Officiosa, sive Spicilegium Diversorum Officiorum Parvorum. Augustae Vindelicorum: Joan. Adamum Riblinger, 1715."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "en-US": "robinson\nRobinson, Paschal, O.F.M., trans. The Writings of St. Francis of Assisi. Newly Translated into English with an Introduction and Notes. Philadelphia: The Dolphin Press, 1905."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "strunck\nStrunck, Michaele. Epitome Historica de Vita, Reliquiis, et Beneficiis Admirabilibus S. Liborii Episcopi, Padernae Urbis ac Dioecesis Patroni Tutelaris. Paderborn: Joannis Theodori Todt, 1736."
-      }
-    },
-    {
-      "type": "prayer",
-      "inline": {
-        "la": "sulamitis\nSulamitis Officiosa, sive Penus Pomaria Diversis Instructa Parvis Officiis. Augustae Vindelicorum: Joan Adamum Riblinger, 1714."
+        "en-US": "Let us pray:\nProtect, O Lord, we pray, upon the intercession of Blessed Mary ever Virgin, this community of the servants of God from all misfortune: and graciously shield from the enemy all those who implore you from their heart. Through Christ our Lord.\nAmen.",
+        "pt-BR": "Oremos:\nProtegei, Senhor, nós vos pedimos, pela intercessão da bem-aventurada sempre Virgem Maria, esta comunidade dos servos de Deus de toda desventura; e defendei benignamente do inimigo todos os que vos imploram de coração. Por Cristo, Senhor nosso.\nAmém."
       }
     },
     {
       "type": "subheading",
       "text": {
-        "en-US": "Finis",
-        "la": "Finis"
+        "la": "Prayer in Honour of S. Joseph",
+        "pt-BR": "Oração em Honra de S. José"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "*\nSIC TRANSIT GLORIA MVNDI"
+        "en-US": "O God, who in your ineffable providence have chosen S. Joseph as the spouse of your most holy mother, grant, we pray, that we may have him in heaven interceding for us whom we venerate as our Protector on earth. Through Christ our Lord.",
+        "pt-BR": "Ó Deus, que em vossa inefável providência escolhestes S. José como esposo de vossa santíssima Mãe, concedei-nos, vos pedimos, ter no céu como intercessor aquele que veneramos na terra como nosso Protetor. Por Cristo, Senhor nosso."
+      }
+    },
+    {
+      "type": "subheading",
+      "text": {
+        "la": "Prayer in Honour of S. Augustine",
+        "pt-BR": "Oração em Honra de S. Agostinho"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "*"
+        "en-US": "O God, by revealing to our Holy Father, S. Augustine the secrets of your eternal wisdom, and by kindling in his heart the flames of divine love, you renewed in your Church the miracle of the cloud and fire; grant that under his guidance we may safely pass through the dangers of this world and be worthy to reach the eternal land of promise. Through Christ our Lord.",
+        "pt-BR": "Ó Deus, que, revelando a nosso Santo Padre Agostinho os segredos da vossa eterna sabedoria e acendendo em seu coração as chamas do amor divino, renovastes em vossa Igreja o prodígio da nuvem e do fogo: concedei que, sob a sua guia, atravessemos seguros os perigos deste mundo e mereçamos alcançar a eterna terra da promessa. Por Cristo, Senhor nosso."
       }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Closing Prayer",
+        "pt-BR": "Oração Final"
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": {
+            "en-US": "We adore you O Christ and we praise you",
+            "pt-BR": "Nós vos adoramos, ó Cristo, e vos bendizemos"
+          },
+          "r": {
+            "en-US": "Because by your Holy Cross you have redeemed the world.",
+            "pt-BR": "Porque pela vossa santa Cruz remistes o mundo."
+          }
+        }
+      ]
     }
   ]
 }

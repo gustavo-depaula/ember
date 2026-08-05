@@ -163,6 +163,17 @@ export function resolveSection(
       }
       return []
 
+    case 'psalm':
+      return [
+        {
+          type: 'psalm',
+          verses: section.verses.map((verse) => ({
+            ...(verse.ref ? { ref: ec.localize(verse.ref) } : {}),
+            text: ec.localize(verse.text),
+          })),
+        },
+      ]
+
     case 'canticle':
       if ('ref' in section) return resolveCanticleRef(section.ref, context, ec, resolveSection)
       if ('inline' in section) {

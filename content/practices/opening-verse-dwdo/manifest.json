@@ -1,28 +1,50 @@
 {
-	"id": "opening-verse-dwdo",
-	"name": {
-		"en-US": "Introduction"
-	},
-	"flow": {
-		"sections": [
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "℣ ✠ O Lord, open thou our lips.\n℟ And our mouth shall shew forth thy praise.\n℣ ✠ O God, make speed to save us.\n℟ O Lord, make haste to help us."
-				}
-			},
-			{
-				"type": "prayer",
-				"inline": {
-					"en-US": "Glory be to the Father, and to the Son, and to the Holy Ghost;\nAs it was in the beginning, is now, and ever shall be, world without end. Amen."
-				}
-			},
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "℣ Praise ye the Lord.\n℟ The Lord's Name be praised."
-				}
-			}
-		]
-	}
+  "id": "opening-verse-dwdo",
+  "name": {
+    "en-US": "Introduction"
+  },
+  "flow": {
+    "sections": [
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "✠ O Lord, open thou our lips."
+            },
+            "r": {
+              "en-US": "And our mouth shall shew forth thy praise."
+            }
+          },
+          {
+            "v": {
+              "en-US": "✠ O God, make speed to save us."
+            },
+            "r": {
+              "en-US": "O Lord, make haste to help us."
+            }
+          }
+        ]
+      },
+      {
+        "type": "prayer",
+        "inline": {
+          "en-US": "Glory be to the Father, and to the Son, and to the Holy Ghost;\nAs it was in the beginning, is now, and ever shall be, world without end. Amen."
+        }
+      },
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "Praise ye the Lord."
+            },
+            "r": {
+              "en-US": "The Lord's Name be praised."
+            }
+          }
+        ]
+      }
+    ]
+  }
 }

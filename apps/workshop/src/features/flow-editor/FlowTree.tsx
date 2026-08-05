@@ -45,6 +45,8 @@ function sectionSummary(sec: FlowSection): string {
     case 'canticle':
       if ('ref' in sec) return sec.ref
       return 'inline'
+    case 'psalm':
+      return `${sec.verses.length} verses`
     case 'response':
       return `${sec.verses.length} verses`
     case 'fragment':
@@ -79,6 +81,7 @@ const typeBadgeColor: Record<string, string> = {
   psalmody: '#c9a84c',
   hymn: '#2d6a4f',
   canticle: '#2d6a4f',
+  psalm: '#2d6a4f',
   response: '#2d6a4f',
   fragment: '#d4883a',
   image: '#3d5a80',
