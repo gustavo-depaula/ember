@@ -1,9 +1,24 @@
 {
 	"id": "mental-prayer",
 	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "St. Alphonsus Liguori",
+			"pt-BR": "Santo Afonso de Ligório"
+		},
+		"description": {
+			"en-US": "Three parts — preparation, meditation, conclusion — with short fixed acts and three fruits: affections, petitions, resolutions.",
+			"pt-BR": "Três partes — preparação, meditação, conclusão — com atos breves fixos e três frutos: afetos, súplicas e resoluções."
+		}
+	},
 	"name": {
 		"en-US": "Mental Prayer",
 		"pt-BR": "Oração Mental"
+	},
+	"source": {
+		"en-US": "St. Alphonsus Liguori, *The Manner of Making Mental Prayer*, prefaced to his *Meditations for Every Day and Feast of the Year* (1760)",
+		"pt-BR": "Santo Afonso Maria de Ligório, *Modo de fazer Oração Mental*, prefácio às suas *Meditações para todos os Dias e Festas do Ano* (1760)"
 	},
 	"categories": [
 		"daily",
@@ -11,16 +26,16 @@
 	],
 	"estimatedMinutes": 15,
 	"description": {
-		"en-US": "A conversation with the Friend who already loves you. St. Teresa called prayer 'an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us.' Four simple movements — coming before Him, listening, heart to heart, going forth — draw on the great schools: Teresian friendship, Josemaría's conversational voice, Francis de Sales' gentle patience, Alphonsian simplicity.",
-		"pt-BR": "Uma conversa com o Amigo que já o ama. Santa Teresa dizia que a oração é 'um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.' Quatro movimentos simples — vir diante d'Ele, escutar, de coração a coração, partir — bebem das grandes escolas: a amizade teresiana, a voz conversacional de Josemaria, a paciência suave de Francisco de Sales, a simplicidade alfonsiana."
+		"en-US": "The method St. Alphonsus placed at the head of his daily meditations. Three parts — preparation, meditation, conclusion — and three fruits: affections, petitions, resolutions. Short fixed acts open and close the prayer; everything between them is yours.",
+		"pt-BR": "O método que Santo Afonso pôs à frente das suas meditações diárias. Três partes — preparação, meditação, conclusão — e três frutos: afetos, súplicas e resoluções. Atos breves e fixos abrem e fecham a oração; tudo o que está entre eles é seu."
 	},
 	"history": {
-		"en-US": "Mental prayer has been the heart of Catholic spirituality since the desert fathers. The Church has given us many methods — Ignatian, Sulpician, Carmelite, Salesian, Alphonsian — and all of them are forms of *lectio divina*, the ancient monastic way of praying over the Scriptures. This practice is a simple synthesis of those voices, shaped especially by St. Teresa of Ávila (prayer as friendship), St. Josemaría Escrivá (prayer as conversation), St. Alphonsus Liguori (three simple parts with three organic fruits), and St. Francis de Sales (the bee on the flower, the spiritual bouquet).",
-		"pt-BR": "A oração mental é o coração da espiritualidade católica desde os Padres do Deserto. A Igreja nos legou muitos métodos — inaciano, sulpiciano, carmelita, salesiano, alfonsiano — e todos eles são formas da *lectio divina*, o antigo modo monástico de rezar sobre as Escrituras. Esta prática é uma síntese simples dessas vozes, moldada especialmente por Santa Teresa de Ávila (oração como amizade), São Josemaria Escrivá (oração como conversa), Santo Afonso de Ligório (três partes simples com três frutos orgânicos) e São Francisco de Sales (a abelha na flor, o buquê espiritual)."
+		"en-US": "St. Alphonsus Maria de Liguori (1696–1787), Doctor of the Church and founder of the Redemptorists, wrote this method as the preface to his *Meditations for Every Day and Feast of the Year*, published in 1760. He wrote it for ordinary people — merchants, mothers, working men — and its whole strength is that nothing in it is hard: nine short acts, a book, and a quarter of an hour. Behind it stands the conviction he defended at length in *The Great Means of Prayer* — that he who prays will be saved, and he who does not meditate will hardly save his soul.",
+		"pt-BR": "Santo Afonso Maria de Ligório (1696–1787), Doutor da Igreja e fundador dos Redentoristas, escreveu este método como prefácio das suas *Meditações para todos os Dias e Festas do Ano*, publicadas em 1760. Escreveu-o para gente comum — comerciantes, mães de família, trabalhadores — e toda a sua força está em que nada nele é difícil: nove atos breves, um livro e um quarto de hora. Por trás dele está a convicção que defendeu longamente n'*O Grande Meio da Oração* — quem reza salva-se, e quem não medita dificilmente salvará a sua alma."
 	},
 	"howToPray": {
-		"en-US": "Choose a quiet time and a short reading — the Gospel of the day, a psalm, a paragraph from *Divine Intimacy*, or a line from a spiritual book. Come before Him honestly: tell Him where you are today. Listen for a word. Then speak from the heart — let affections, petitions, and resolutions arise as the Spirit moves. When words give out, rest. Carry one phrase into your day as a spiritual bouquet. Fifteen minutes is a solid floor; growth comes naturally. The movements are a circle, not a line — return to the reading whenever the heart runs dry.",
-		"pt-BR": "Escolha um momento tranquilo e uma leitura breve — o Evangelho do dia, um salmo, um parágrafo de *Intimidade Divina*, ou uma linha de um livro espiritual. Venha diante d'Ele com honestidade: diga-Lhe onde você está hoje. Escute uma palavra. Depois fale do coração — deixe afetos, súplicas e resoluções surgirem conforme o Espírito o mover. Quando as palavras acabarem, repouse. Leve uma frase ao longo do dia como buquê espiritual. Quinze minutos são um bom piso; o crescimento vem naturalmente. Os movimentos são um círculo, não uma linha — volte à leitura sempre que o coração secar."
+		"en-US": "Take a book — the day's meditation, the Gospel, a spiritual reading — and fifteen minutes in a quiet place. Make the three preparatory acts attentively but briefly. Then read, stopping wherever the text strikes you, and speak to God out of what you have read: affections first, then petitions, then one particular resolution before you finish. Close with the three concluding acts. Never end the prayer without a resolution, and never let that resolution be a general one.",
+		"pt-BR": "Tome um livro — a meditação do dia, o Evangelho, uma leitura espiritual — e quinze minutos num lugar tranquilo. Faça os três atos preparatórios com atenção, mas brevemente. Depois leia, parando onde o texto o impressionar, e fale a Deus a partir do que leu: primeiro os afetos, depois as súplicas, e uma resolução particular antes de terminar. Encerre com os três atos da conclusão. Nunca termine a oração sem uma resolução, e nunca deixe que essa resolução seja geral."
 	},
 	"flowMode": "step",
 	"completion": "flow-end",
@@ -28,18 +43,12 @@
 	"tags": [
 		"prayer",
 		"meditation",
-		"contemplation",
 		"mental",
-		"lectio-divina",
-		"scripture",
-		"affective",
-		"conversation",
-		"carmelite",
-		"teresa",
-		"josemaria",
-		"francis-de-sales",
 		"alphonsus",
-		"divine-intimacy",
+		"liguori",
+		"redemptorist",
+		"affective",
+		"resolutions",
 		"daily",
 		"morning"
 	],
