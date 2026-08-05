@@ -48,7 +48,9 @@ before anything has been set, offers to leave setup entirely.
 5. **Formation reading** — nudge to Morrow's *My Catholic Faith* by default; a picker lets the
    user override (Compendium, CCC, Roman/Trent, Pius X short/larger).
 6. **Notifications** — opt-in; pre-fill reminder times from the seeded plan. Skipped on web.
-7. **Done** — closing screen; marks onboarding complete and routes to `/today`.
+7. **Done** — El Greco's Pentecost full-bleed, the Church sent out to begin: the vigil
+   closes on the same treatment and the same hand it opened with. Marks onboarding
+   complete, and the root guard reveals the tabs.
 
 ## 2. Routing & gating
 
@@ -122,6 +124,18 @@ Reuses: `ScreenLayout`, `PageHeader`, `Typography`, `Card`, `AnimatedPressable`,
 `useTemplateList`/`useTemplateManifest` + `AdoptSheet`; `useEnableSlotsForPractice`, `useSlots`,
 `useUpdateSlot`; `requestNotificationPermission`; `detectLanguage`. i18n: `onboarding.*` keys in
 `apps/app/src/lib/i18n/locales/{en-US,pt-BR}.ts`.
+
+### One gesture, three screens
+
+The intro slides, the profiler's questions, and the closing screen all wear the same
+`ArtFace` — a full-bleed painting under an SVG gradient scrim, with the ink on its
+darkened foot. The ramp is a gradient rather than stacked opacity blocks, which leave
+a visible seam across the picture, and the face takes explicit width/height because
+two of the three callers are rows in a horizontal FlatList, which don't inherit the
+list's height.
+
+Vector ornament was tried at the close (`CandleFlame`, then a bare ✠) and read as
+computer-made against a flow built from paintings. Use the art.
 
 ### Gold is rationed
 

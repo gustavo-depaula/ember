@@ -1524,8 +1524,9 @@ export default {
       noTimes: 'Your plan has no set times yet — you can add reminders any time later.',
     },
     done: {
-      title: 'You’re ready',
-      body: 'Your plan is set. Come back each day — the Lord meets us in the small, faithful things.',
+      marker: 'Go now',
+      title: 'Ite, missa est',
+      body: 'Your rule is written. Keep it gently — the Lord meets us in the small, faithful things.',
       begin: 'Begin',
     },
   },

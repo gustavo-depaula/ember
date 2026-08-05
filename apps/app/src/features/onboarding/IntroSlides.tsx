@@ -1,17 +1,15 @@
-import { Image } from 'expo-image'
 import { useCallback, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FlatList, type LayoutChangeEvent, StyleSheet } from 'react-native'
+import { FlatList, type LayoutChangeEvent } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import Svg, { Defs, LinearGradient, Rect, Stop } from 'react-native-svg'
 import { YStack } from 'tamagui'
 
 import { textShadow } from '@/components/ornaments'
 import { Typography } from '@/components/typography'
-import { artFor } from '@/features/explore/artMap'
-import { blockInk, blockLabelInk, toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
+import { blockInk, blockLabelInk } from '@/features/explore/bgColor'
 import { selectionTick } from '@/lib/haptics'
 
+import { ArtFace } from './ArtFace'
 import { PrimaryButton, SkipButton } from './OnboardingButtons'
 import { Dots } from './OnboardingProgress'
 import { VigilShell } from './OnboardingScaffold'
@@ -148,46 +146,15 @@ function SlideFace({
   insetTop: number
 }) {
   const artId = slideArtIds[index % slideArtIds.length]
-  const art = artFor(artId)
-  const tone = toneByIndex(toneIndexForId(artId))
 
   return (
-    // Explicit height, not flex — a horizontal FlatList row doesn't inherit the
-    // list's height, which silently top-aligns the slide.
-    <YStack width={width} height={height} backgroundColor={tone.from} justifyContent="flex-end">
-      {art ? (
-        <Image
-          source={art}
-          style={StyleSheet.absoluteFill}
-          contentFit="cover"
-          transition={280}
-          cachePolicy="memory-disk"
-          accessibilityLabel={slide.title}
-        />
-      ) : null}
-      {/* Deep at the foot so cream ink and the controls stay legible over a
-          bright painting; the top stays clear so the art reads. Same SVG scrim
-          idiom as the search shortcut covers. */}
-      <Svg width={width} height={height} style={StyleSheet.absoluteFill} pointerEvents="none">
-        <Defs>
-          <LinearGradient id="onboarding-slide-scrim" x1="0" y1="0" x2="0" y2="1">
-            <Stop offset="0.3" stopColor="#0E0D0C" stopOpacity="0" />
-            <Stop offset="0.7" stopColor="#0E0D0C" stopOpacity="0.8" />
-            <Stop offset="1" stopColor="#0E0D0C" stopOpacity="0.96" />
-          </LinearGradient>
-        </Defs>
-        <Rect width={width} height={height} fill="url(#onboarding-slide-scrim)" />
-      </Svg>
-
+    <ArtFace artId={artId} label={slide.title} width={width} height={height}>
       <YStack
         paddingTop={insetTop}
         paddingHorizontal="$lg"
         // Clear the dots + buttons pinned to the screen's foot.
         paddingBottom={200}
         gap="$sm"
-        // The scrim is absolutely positioned, so in-flow text would paint under
-        // it on web (positioned boxes paint above non-positioned siblings).
-        zIndex={1}
       >
         <Typography
           variant="label"
@@ -213,6 +180,6 @@ function SlideFace({
           {slide.body}
         </Typography>
       </YStack>
-    </YStack>
+    </ArtFace>
   )
 }

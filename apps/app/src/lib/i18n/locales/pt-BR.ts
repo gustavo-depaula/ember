@@ -1535,8 +1535,9 @@ export default {
       noTimes: 'Seu plano ainda não tem horários definidos — você pode adicionar lembretes depois.',
     },
     done: {
-      title: 'Tudo pronto',
-      body: 'Seu plano está montado. Volte cada dia — o Senhor nos encontra nas pequenas coisas fiéis.',
+      marker: 'Ide agora',
+      title: 'Ite, missa est',
+      body: 'Sua regra está escrita. Guarde-a com doçura — o Senhor nos encontra nas pequenas coisas fiéis.',
       begin: 'Começar',
     },
   },

@@ -1,51 +1,70 @@
 import { useTranslation } from 'react-i18next'
+import { useWindowDimensions } from 'react-native'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components/ScreenLayout'
+import { textShadow } from '@/components/ornaments'
 import { Typography } from '@/components/typography'
-import { completeOnboarding, PrimaryButton, VigilShell } from '@/features/onboarding'
+import { blockInk, blockLabelInk } from '@/features/explore/bgColor'
+import { ArtFace, completeOnboarding, PrimaryButton, VigilShell } from '@/features/onboarding'
 
 /**
- * The closing screen: a gold cross in the dark, then the vigil opens into the
- * day. This is the one place the CTA fills — gold spent on the single moment
- * that matters. `Begin` flips `hasOnboarded`, and the root guard reveals the tabs.
+ * The closing screen — El Greco's Pentecost, the Church sent out to begin. It
+ * wears the same full-bleed treatment as the opening slide, and is by the same
+ * hand, so the vigil closes where it opened before day breaks over the tabs.
+ * This is the one place the CTA fills: gold spent on the single moment that
+ * matters. `Begin` flips `hasOnboarded`, and the root guard reveals the tabs.
  */
 export default function OnboardingDoneScreen() {
   const { t } = useTranslation()
+  const insets = useSafeAreaInsets()
+  const { width, height } = useWindowDimensions()
 
   return (
     <VigilShell>
-      <ScreenLayout scroll={false} modal>
-        <YStack flex={1} paddingVertical="$lg" gap="$lg">
-          <YStack
-            flex={1}
-            alignItems="center"
-            justifyContent="center"
-            gap="$lg"
-            paddingHorizontal="$md"
-          >
-            {/* The flow's one ceremonial peak. `CandleFlame` was tried here and
-                reads as clip-art at rest — flat lozenges in an orange that isn't
-                in the palette. */}
-            <Typography variant="ceremonial" fontSize={56} lineHeight={64}>
-              ✠
-            </Typography>
-            <Typography variant="screen-title" fontSize={38} lineHeight={46} textAlign="center">
-              {t('onboarding.done.title')}
-            </Typography>
-            <Typography variant="whisper" textAlign="center" fontSize="$3" maxWidth={360}>
-              {t('onboarding.done.body')}
-            </Typography>
-          </YStack>
+      <YStack flex={1} backgroundColor="$background">
+        <ArtFace
+          artId="collection/holy-spirit"
+          label={t('onboarding.done.title')}
+          width={width}
+          height={height}
+        >
+          <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 24} gap="$md">
+            <YStack gap="$xs">
+              <Typography
+                variant="label"
+                textTransform="uppercase"
+                letterSpacing={2}
+                fontSize="$1"
+                color={blockLabelInk}
+                style={textShadow}
+              >
+                {t('onboarding.done.marker')}
+              </Typography>
+              <Typography
+                variant="screen-title"
+                textAlign="left"
+                fontSize={40}
+                lineHeight={48}
+                color={blockInk}
+                style={textShadow}
+              >
+                {t('onboarding.done.title')}
+              </Typography>
+              <Typography fontSize="$3" color={blockInk} opacity={0.86} maxWidth={420}>
+                {t('onboarding.done.body')}
+              </Typography>
+            </YStack>
 
-          <PrimaryButton
-            label={t('onboarding.done.begin')}
-            onPress={completeOnboarding}
-            haptic="success"
-            filled
-          />
-        </YStack>
-      </ScreenLayout>
+            <PrimaryButton
+              label={t('onboarding.done.begin')}
+              onPress={completeOnboarding}
+              haptic="success"
+              filled
+            />
+          </YStack>
+        </ArtFace>
+      </YStack>
     </VigilShell>
   )
 }

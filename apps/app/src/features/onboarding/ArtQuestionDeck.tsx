@@ -1,18 +1,16 @@
-import { Image } from 'expo-image'
 import { useCallback, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, type LayoutChangeEvent, StyleSheet } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import Svg, { Defs, LinearGradient, Rect, Stop } from 'react-native-svg'
 import { YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { textShadow } from '@/components/ornaments'
 import { Typography } from '@/components/typography'
-import { artFor } from '@/features/explore/artMap'
-import { blockInk, blockLabelInk, toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
+import { blockInk, blockLabelInk } from '@/features/explore/bgColor'
 import { selectionTick } from '@/lib/haptics'
 
+import { ArtFace } from './ArtFace'
 import { PrimaryButton, SkipButton } from './OnboardingButtons'
 import { Dots } from './OnboardingProgress'
 import { VigilShell } from './OnboardingScaffold'
@@ -144,41 +142,14 @@ function QuestionFace({
   insetTop: number
   onAnswer: (value: string) => void
 }) {
-  const art = artFor(question.artId)
-  const tone = toneByIndex(toneIndexForId(question.artId))
-
   return (
-    // Explicit height, not flex — a horizontal FlatList row doesn't inherit the
-    // list's height, which silently top-aligns the face.
-    <YStack width={width} height={height} backgroundColor={tone.from} justifyContent="flex-end">
-      {art ? (
-        <Image
-          source={art}
-          style={StyleSheet.absoluteFill}
-          contentFit="cover"
-          transition={280}
-          cachePolicy="memory-disk"
-          accessibilityLabel={question.question}
-        />
-      ) : null}
-      <Svg width={width} height={height} style={StyleSheet.absoluteFill} pointerEvents="none">
-        <Defs>
-          <LinearGradient id={`deck-scrim-${question.artId}`} x1="0" y1="0" x2="0" y2="1">
-            <Stop offset="0.18" stopColor="#0E0D0C" stopOpacity="0" />
-            <Stop offset="0.55" stopColor="#0E0D0C" stopOpacity="0.82" />
-            <Stop offset="1" stopColor="#0E0D0C" stopOpacity="0.97" />
-          </LinearGradient>
-        </Defs>
-        <Rect width={width} height={height} fill={`url(#deck-scrim-${question.artId})`} />
-      </Svg>
-
+    <ArtFace artId={question.artId} label={question.question} width={width} height={height}>
       <YStack
         paddingTop={insetTop}
         paddingHorizontal="$lg"
         // Clear the dots + buttons pinned to the screen's foot.
         paddingBottom={200}
         gap="$md"
-        zIndex={1}
       >
         <YStack gap="$xs">
           <Typography
@@ -238,6 +209,6 @@ function QuestionFace({
           })}
         </YStack>
       </YStack>
-    </YStack>
+    </ArtFace>
   )
 }
