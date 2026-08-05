@@ -1,11 +1,19 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: parsed inline nodes never reorder
 import { Fragment } from 'react'
-import { Text as RNText, type TextStyle } from 'react-native'
+import { Platform, Text as RNText, type TextStyle } from 'react-native'
 
 import { bodyFont } from '@/config/fonts'
 import { hyphenate } from '@/lib/hyphenate'
 
 import { type InlineNode, parseInline } from './parseMarkdown'
+
+// React Native Web's Text base class hard-sets `color: rgb(0,0,0)`, so an
+// emphasis span that names only a font face silently drops the ink it should
+// have inherited — prayer-body brown, a rubric's burgundy — and renders pure
+// black. Nested <Text> on native inherits colour correctly, so the override is
+// web-only, and `inherit` is the one value that keeps the span honest wherever
+// it lands: emphasis never picks its own colour.
+const inheritColor: TextStyle = Platform.OS === 'web' ? { color: 'inherit' } : {}
 
 // React Native's Text ignores inherited fontWeight/fontStyle when fontFamily is
 // set, so nested emphasis must resolve a concrete font face. EB Garamond ships
@@ -14,9 +22,13 @@ import { type InlineNode, parseInline } from './parseMarkdown'
 export function emphasisStyle(baseFamily: string, weight: 400 | 700, italic: boolean): TextStyle {
   if (baseFamily.startsWith('EBGaramond')) {
     const variants = bodyFont.face?.[weight]
-    return { fontFamily: (italic ? variants?.italic : variants?.normal) ?? baseFamily }
+    return {
+      ...inheritColor,
+      fontFamily: (italic ? variants?.italic : variants?.normal) ?? baseFamily,
+    }
   }
   return {
+    ...inheritColor,
     fontFamily: baseFamily,
     ...(weight === 700 ? { fontWeight: '700' } : {}),
     ...(italic ? { fontStyle: 'italic' } : {}),
@@ -112,7 +124,7 @@ export function InlineMarkdownRubric({ source }: { source: string }) {
         const face = node.type === 'text' ? undefined : italicRunFaces[node.type]
         if (!face) return <Fragment key={i}>{node.text}</Fragment>
         return (
-          <RNText key={i} style={{ fontFamily: face, fontStyle: 'normal' }}>
+          <RNText key={i} style={{ ...inheritColor, fontFamily: face, fontStyle: 'normal' }}>
             {node.text}
           </RNText>
         )

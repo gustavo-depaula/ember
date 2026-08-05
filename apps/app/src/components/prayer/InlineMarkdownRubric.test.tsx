@@ -3,7 +3,7 @@ import { TamaguiProvider } from 'tamagui'
 import { afterEach, describe, expect, it } from 'vitest'
 import { config } from '@/config/tamagui.config'
 import { Typography } from '../typography'
-import { InlineMarkdownRubric } from './InlineMarkdown'
+import { emphasisStyle, InlineMarkdownRubric } from './InlineMarkdown'
 
 afterEach(cleanup)
 
@@ -32,6 +32,13 @@ describe('InlineMarkdownRubric', () => {
     expect(span).toHaveStyle({ fontFamily: 'EBGaramond_400Regular', fontStyle: 'normal' })
   })
 
+  // React Native Web's Text base class hard-sets black; without an explicit
+  // `inherit` an emphasis span drops the rubric's burgundy on the floor.
+  it('keeps the surrounding ink instead of falling back to black', () => {
+    renderRubric('the encyclical *Quamquam Pluries*')
+    expect(screen.getByText('Quamquam Pluries')).toHaveStyle({ color: 'inherit' })
+  })
+
   it('keeps the slant on **bold** and adds weight', () => {
     renderRubric('**Chew the word.** Repeat it.')
     const span = screen.getByText('Chew the word.')
@@ -50,5 +57,25 @@ describe('InlineMarkdownRubric', () => {
     // The surrounding runs keep their own spacing, so match loosely.
     expect(screen.getByText(/from the encyclical/)).toBeTruthy()
     expect(screen.getByText(/\(1889\)\./)).toBeTruthy()
+  })
+})
+
+// The same colour trap on the shared path — prayer bodies, annotation rows,
+// todo notes. Emphasis names a face; it must never name an ink.
+describe('emphasisStyle', () => {
+  it('inherits colour for the EB Garamond faces', () => {
+    expect(emphasisStyle('EBGaramond_400Regular', 700, true)).toEqual({
+      color: 'inherit',
+      fontFamily: 'EBGaramond_700Bold_Italic',
+    })
+  })
+
+  it('inherits colour on the synthetic fallback for fonts without italic faces', () => {
+    expect(emphasisStyle('Lora', 700, true)).toEqual({
+      color: 'inherit',
+      fontFamily: 'Lora',
+      fontWeight: '700',
+      fontStyle: 'italic',
+    })
   })
 })
