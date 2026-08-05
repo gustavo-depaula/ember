@@ -1,8 +1,10 @@
 import {
+  addDays,
   differenceInCalendarDays,
   endOfMonth,
   endOfWeek,
   parseISO,
+  startOfDay,
   startOfMonth,
   startOfWeek,
 } from 'date-fns'
@@ -147,9 +149,26 @@ function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekda
 
 // --- Occurrence-based program helpers ---
 
-function generateOccurrences(schedule: Schedule, start: Date, count: number): Date[] {
-  if (schedule.type !== 'nth-weekday') return []
+/**
+ * Whether a rule's occurrences can be laid out from a start date alone. The rest
+ * need the liturgical calendar (`holy-days-of-obligation`, and any rule limited
+ * to seasons) or don't fall on determinate days at all (`times-per`), so a
+ * program running on one of those has no calendar day — the caller falls back to
+ * counting completions.
+ */
+function isEnumerable(schedule: Schedule): boolean {
+  if (schedule.seasons?.length) return false
+  const { type } = schedule
+  return (
+    type === 'daily' || type === 'days-of-week' || type === 'day-of-month' || type === 'nth-weekday'
+  )
+}
 
+function generateNthWeekdayOccurrences(
+  schedule: Extract<ScheduleRule, { type: 'nth-weekday' }>,
+  start: Date,
+  count: number,
+): Date[] {
   const occurrences: Date[] = []
   let year = start.getFullYear()
   let month = start.getMonth()
@@ -165,6 +184,25 @@ function generateOccurrences(schedule: Schedule, start: Date, count: number): Da
       month = 0
       year++
     }
+  }
+
+  return occurrences
+}
+
+function generateOccurrences(schedule: Schedule, start: Date, count: number): Date[] {
+  if (!isEnumerable(schedule)) return []
+  // Month-stepping is much cheaper than walking every day for a monthly rule.
+  if (schedule.type === 'nth-weekday') return generateNthWeekdayOccurrences(schedule, start, count)
+
+  // Walk forward from the start, keeping the days the rule falls on. The bound
+  // stops a rule that matches rarely — or never, e.g. `day-of-month: [31]` — from
+  // spinning: no month-based rule needs more than ~31 days per occurrence.
+  const occurrences: Date[] = []
+  const from = startOfDay(start)
+  const maxDays = count * 31 + 366
+  for (let i = 0; i < maxDays && occurrences.length < count; i++) {
+    const day = addDays(from, i)
+    if (isApplicableOn(schedule, day)) occurrences.push(day)
   }
 
   return occurrences

@@ -64,9 +64,28 @@ describe('getOccurrenceBasedProgramDay', () => {
     expect(getOccurrenceBasedProgramDay(firstSaturday, '2026-01-01', date(2026, 1, 4), 5)).toBe(1)
   })
 
-  it('returns undefined for unsupported schedule types', () => {
+  it('lays out plain date-based rules', () => {
     const daily: Schedule = { type: 'daily' }
-    expect(getOccurrenceBasedProgramDay(daily, '2026-01-01', date(2026, 1, 5), 9)).toBe(undefined)
+    expect(getOccurrenceBasedProgramDay(daily, '2026-01-01', date(2026, 1, 5), 9)).toBe(4)
+    const fifteenth: Schedule = { type: 'day-of-month', days: [15] }
+    expect(getOccurrenceBasedProgramDay(fifteenth, '2026-01-01', date(2026, 1, 15), 6)).toBe(0)
+    expect(getOccurrenceBasedProgramDay(fifteenth, '2026-01-01', date(2026, 3, 15), 6)).toBe(2)
+  })
+
+  it('returns undefined when occurrences cannot be known from the start date alone', () => {
+    // These need the liturgical calendar, or fall on no determinate day.
+    const holyDays: Schedule = { type: 'holy-days-of-obligation' }
+    const timesPer: Schedule = { type: 'times-per', count: 3, period: 'week' }
+    const seasonal: Schedule = { type: 'daily', seasons: ['lent'] }
+    expect(getOccurrenceBasedProgramDay(holyDays, '2026-01-01', date(2026, 1, 5), 9)).toBe(
+      undefined,
+    )
+    expect(getOccurrenceBasedProgramDay(timesPer, '2026-01-01', date(2026, 1, 5), 9)).toBe(
+      undefined,
+    )
+    expect(getOccurrenceBasedProgramDay(seasonal, '2026-01-01', date(2026, 1, 5), 9)).toBe(
+      undefined,
+    )
   })
 
   it('stays within bounds between occurrences', () => {

@@ -185,13 +185,30 @@ separate from the linear flow so it never entangles with boot/redirect.
 8. `pnpm test` + `pnpm biome check`. Unit coverage for the pure pieces lives in
    `apps/app/src/features/onboarding/__tests__/` (`recommendations.test.ts`, `steps.test.ts`).
 
-## 9. Known upstream issue (not onboarding's to fix)
+## 9. Making the chosen reading actually land
 
-A program practice on a **daily** schedule with `progressPolicy: 'continue'` can never become
-visible in the plan. `resolveCalendarDay` → `getOccurrenceBasedProgramDay` →
-`generateOccurrences`, which returns `[]` for every schedule type except `nth-weekday`
-(`apps/app/src/features/plan-of-life/schedule.ts`). `resolveCalendarDay` therefore returns
-`undefined` and `projectProgramAtDate` bails to `visible: false`. Morrow
-(`catechetical-formation`: daily, `continue`, 195 days) hits this, so it stays hidden on Today
-even once correctly enrolled — and the same is true of the existing enroll path from the
-practice detail screen. Needs its own fix in the scheduling layer.
+Enrolling a reading was, at first, a no-op three times over. All three are fixed;
+they are recorded because each was invisible — the enrolment reported success every
+time.
+
+1. **The practice id must be kind-prefixed.** `seedPractices()` creates practices from
+   the corpus manifest id, which the corpus build prefixes (`scripts/build-corpus.py`
+   → `practice/<slug>`). `enableSlotsForPractice` with the bare id matches no slot and
+   returns cleanly.
+2. **A program needs a cursor.** `projectProgramAtDate` bails to `visible: false` on a
+   null cursor, so an enabled slot alone never reaches the day's plan. Enrolment pairs
+   the slot with `createProgramCursor`, as the practice detail screen already did.
+3. **A daily program had no calendar day.** `generateOccurrences`
+   (`plan-of-life/schedule.ts`) enumerated only `nth-weekday` and returned `[]` for
+   everything else, so `resolveCalendarDay` → `undefined` → `visible: false`. Any
+   program on a `daily` schedule under a `continue`/`restart` policy was therefore
+   permanently invisible — including Morrow, the default suggestion, and equally via
+   the practice detail screen's own enrolment.
+
+   `generateOccurrences` now lays out any rule whose occurrences follow from a start
+   date alone (`daily`, `days-of-week`, `day-of-month`, plus the existing month-stepped
+   `nth-weekday`) by walking forward and keeping the days `isApplicableOn` accepts.
+   Rules that need the liturgical calendar (`holy-days-of-obligation`, anything limited
+   to `seasons`) or that fall on no determinate day (`times-per`) still return `[]`, and
+   the caller falls back to counting completions. Two tests asserted the old
+   `undefined` and were updated — they had frozen the bug, not a decision.

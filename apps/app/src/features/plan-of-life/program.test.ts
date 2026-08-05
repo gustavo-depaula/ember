@@ -90,9 +90,44 @@ describe('resolveCalendarDay', () => {
     expect(resolveCalendarDay(firstFriday, null, date(2026, 1, 3), 9)).toBe(undefined)
   })
 
-  it('returns undefined for daily schedule', () => {
+  // A daily program's calendar day is simply the days elapsed since it started.
+  // This used to return undefined, which made every daily continue/restart
+  // program permanently invisible in the plan.
+  it('counts elapsed days for a daily schedule', () => {
     const daily: Schedule = { type: 'daily' }
-    expect(resolveCalendarDay(daily, { started_at: '2026-01-01' }, date(2026, 1, 5), 9)).toBe(
+    expect(resolveCalendarDay(daily, { started_at: '2026-01-01' }, date(2026, 1, 1), 9)).toBe(0)
+    expect(resolveCalendarDay(daily, { started_at: '2026-01-01' }, date(2026, 1, 5), 9)).toBe(4)
+  })
+
+  it('counts only matching days for a days-of-week schedule', () => {
+    // Jan 1 2026 is a Thursday; Mondays and Thursdays only.
+    const monThu: Schedule = { type: 'days-of-week', days: [1, 4] }
+    const cursor = { started_at: '2026-01-01' }
+    expect(resolveCalendarDay(monThu, cursor, date(2026, 1, 1), 9)).toBe(0)
+    // Fri 2nd and Sun 4th aren't occurrences, so Mon 5th is the second.
+    expect(resolveCalendarDay(monThu, cursor, date(2026, 1, 5), 9)).toBe(1)
+    expect(resolveCalendarDay(monThu, cursor, date(2026, 1, 8), 9)).toBe(2)
+  })
+
+  it('has no calendar day for a schedule that needs the liturgical calendar', () => {
+    const holyDays: Schedule = { type: 'holy-days-of-obligation' }
+    const seasonal: Schedule = { type: 'daily', seasons: ['lent'] }
+    const cursor = { started_at: '2026-01-01' }
+    expect(resolveCalendarDay(holyDays, cursor, date(2026, 1, 5), 9)).toBe(undefined)
+    expect(resolveCalendarDay(seasonal, cursor, date(2026, 1, 5), 9)).toBe(undefined)
+  })
+
+  it('ends the window once the programme has run its course', () => {
+    const daily: Schedule = { type: 'daily' }
+    const cursor = { started_at: '2026-01-01' }
+    // 9 days: the last is Jan 9. Jan 10 is past the end.
+    expect(resolveCalendarDay(daily, cursor, date(2026, 1, 9), 9)).toBe(8)
+    expect(resolveCalendarDay(daily, cursor, date(2026, 1, 10), 9)).toBe(undefined)
+  })
+
+  it('has no calendar day before the programme starts', () => {
+    const daily: Schedule = { type: 'daily' }
+    expect(resolveCalendarDay(daily, { started_at: '2026-01-05' }, date(2026, 1, 1), 9)).toBe(
       undefined,
     )
   })
