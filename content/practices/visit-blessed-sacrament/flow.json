@@ -27,10 +27,12 @@
 					"verses": [
 						{
 							"v": {
+								"la": "Laudétur et grátiæ agántur omni moménto",
 								"en-US": "O Sacrament most holy, O Sacrament divine,",
 								"pt-BR": "Graças e louvores sejam dados a todo momento"
 							},
 							"r": {
+								"la": "sanctíssimo et diviníssimo Sacraménto.",
 								"en-US": "all praise and all thanksgiving be every moment thine.",
 								"pt-BR": "ao Santíssimo e Diviníssimo Sacramento."
 							}
