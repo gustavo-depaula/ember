@@ -11,7 +11,7 @@ import { createHyphenator } from 'justif/hyphenate/liang'
 import { hyphenatePt } from 'justif/hyphenate/pt'
 
 import type { ReadingFontId } from '@/config/readingFonts'
-import { getFontMetrics } from './fontMetrics'
+import { type FontMetrics, getFontMetrics, type TextStyleName } from './fontMetrics'
 import { laLiturgicPatterns } from './hyphenLaLiturgic.generated'
 
 /**
@@ -20,16 +20,36 @@ import { laLiturgicPatterns } from './hyphenLaLiturgic.generated'
  * RN has no `wordSpacing`, so justif's DOM renderer can't be used — but
  * `justif/core` is DOM-free and takes an injectable `Measure`, which we
  * satisfy from the generated font tables. What comes back is a per-line
- * recipe a `<Text>` tree can express: the words, the exact width of each
- * space, and any letterfit tracking.
+ * recipe a `<Text>` tree can express: styled pieces, and the exact width of
+ * the space that follows each.
  *
  * See `docs/design/typography-justification.md` § Part 6.
  */
 
+/** A run of text in one inline style — the output of `parseInline`. */
+export type StyledSegment = { text: string; style: TextStyleName }
+
+/**
+ * A stretch of same-styled text on a line.
+ *
+ * Pieces are not words: `*Mater Dei*,` renders the comma in regular while the
+ * rest is italic, so a single word can span two pieces. When `spaceAfter` is
+ * absent mid-line, the next piece continues the same word.
+ */
+export type JustifiedPiece = {
+  text: string
+  style: TextStyleName
+  /**
+   * The space that follows, when one does. `extraPx` is added on top of the
+   * space glyph's natural advance, and `style` says which face draws it — a
+   * space inside an italic run is naturally a different width from a regular
+   * one, so the renderer has to match both.
+   */
+  spaceAfter?: { extraPx: number; style: TextStyleName }
+}
+
 export type JustifiedLine = {
-  words: string[]
-  /** Extra px per inter-word space, on top of the font's natural space. */
-  extraSpacePx: number
+  pieces: JustifiedPiece[]
   /** A hyphen glyph must be drawn at the end of this line. */
   hyphenated: boolean
   /** The line could not be fit within shrink limits; render it ragged. */
@@ -56,7 +76,8 @@ function getHyphenator(language: string | undefined) {
 }
 
 export type JustifyOptions = {
-  text: string
+  /** Plain text, or styled segments when the line carries inline emphasis. */
+  source: string | StyledSegment[]
   widthPx: number
   fontSizePx: number
   fontFamilyId: ReadingFontId
@@ -64,39 +85,69 @@ export type JustifyOptions = {
 }
 
 /**
- * Break one paragraph into justified lines. Returns `undefined` when the text
- * can't be justified reliably (no metrics for the font, a nonsense measure, or
- * the breaker gave up) — callers render ordinary wrapped text in that case.
+ * Break one paragraph into justified lines, across mixed inline styles.
+ *
+ * Emphasis is not a special case: `buildItems` takes an array of runs precisely
+ * so a paragraph can mix faces, and each style contributes its own metrics and
+ * its own word-space width. Returns `undefined` when the result can't be
+ * trusted (a face whose rendered width is unknowable, a nonsense measure, or
+ * the breaker giving up) — callers render ordinary wrapped text in that case.
  */
 export function justifyText({
-  text,
+  source,
   widthPx,
   fontSizePx,
   fontFamilyId,
   language,
 }: JustifyOptions): JustifiedLine[] | undefined {
-  if (!text.trim() || !(widthPx > 0) || !(fontSizePx > 0)) return undefined
+  const segments: StyledSegment[] = (
+    typeof source === 'string' ? [{ text: source, style: 'regular' as const }] : source
+  ).filter((s) => s.text.length > 0)
 
-  const metrics = getFontMetrics(fontFamilyId)
-  if (!metrics) return undefined
+  if (!segments.some((s) => s.text.trim())) return undefined
+  if (!(widthPx > 0) || !(fontSizePx > 0)) return undefined
 
-  const measure = {
-    width: (t: string) => metrics.width(t, fontSizePx),
-    charAdvance: (ch: string) => metrics.charAdvance(ch, fontSizePx),
+  // One justif run per distinct style present, each with its own face metrics.
+  // A missing face means the platform would synthesize a width we can't
+  // predict, so the whole line declines rather than drifting — resolved up
+  // front so an unjustifiable line costs one map lookup, not a run build.
+  const styles = [...new Set(segments.map((s) => s.style))]
+  const faces = styles.map((style) => getFontMetrics(fontFamilyId, style))
+  if (faces.some((m) => !m)) return undefined
+
+  const runs = []
+  for (const [i, style] of styles.entries()) {
+    const metrics = faces[i] as FontMetrics
+    const spaceWidth = metrics.width(' ', fontSizePx)
+    if (!(spaceWidth > 0)) return undefined
+
+    runs.push({
+      fontKey: `${fontFamilyId}-${style}-${fontSizePx}`,
+      // TeX's interword glue: a space may stretch by half and shrink by a third.
+      space: { width: spaceWidth, stretch: spaceWidth * 0.5, shrink: spaceWidth / 3 },
+      hyphenWidth: metrics.width('-', fontSizePx),
+      // Static faces — no `wdth` axis to expand along.
+      ratioAtMax: 1,
+      ratioAtMin: 1,
+      // Same family throughout, so spaces at a regular/italic boundary keep
+      // their shrink — justif only protects boundaries between font families.
+      familyKey: fontFamilyId,
+      metrics,
+    })
   }
 
-  const spaceWidth = measure.width(' ')
-  if (!(spaceWidth > 0)) return undefined
-
-  const run = {
-    fontKey: `${fontFamilyId}-${fontSizePx}`,
-    // TeX's interword glue: a space may stretch by half and shrink by a third.
-    space: { width: spaceWidth, stretch: spaceWidth * 0.5, shrink: spaceWidth / 3 },
-    hyphenWidth: measure.width('-'),
-    // Static fonts — no `wdth` axis to expand along.
-    ratioAtMax: 1,
-    ratioAtMin: 1,
-    familyKey: fontFamilyId,
+  // justif measures a run's text through the paragraph-wide `Measure`, handing
+  // back the run so we can route to that face's table. Method shorthand rather
+  // than arrow properties: methods are bivariant, so this satisfies justif's
+  // `Measure` without widening its type at the call site.
+  type Run = (typeof runs)[number]
+  const measure = {
+    width(t: string, run: Run) {
+      return run.metrics.width(t, fontSizePx)
+    },
+    charAdvance(ch: string, run: Run) {
+      return run.metrics.charAdvance(ch, fontSizePx)
+    },
   }
 
   const buildOptions = {
@@ -116,29 +167,42 @@ export function justifyText({
   }
 
   try {
-    const para = buildItems([{ text, run: 0 }], [run], buildOptions, measure)
+    const texts = segments.map((s) => ({ text: s.text, run: styles.indexOf(s.style) }))
+    const para = buildItems(texts, runs, buildOptions, measure)
     const breaks = breakParagraph(para, widthPx, { ...defaultBreakOptions })
     const lines = layoutLines(para, breaks, widthPx, buildOptions)
     if (!lines?.length) return undefined
 
     return lines.map((line) => {
-      const words: string[] = []
-      let current = ''
+      const pieces: JustifiedPiece[] = []
+      const ratio = line.glueRatio ?? 0
+
       for (let i = line.start; i < line.end; i++) {
         const item = para.items[i]
-        if (item.type === ItemType.Box) current += item.text ?? ''
-        else if (item.type === ItemType.Glue) {
-          if (current) words.push(current)
-          current = ''
+        if (item.type === ItemType.Box) {
+          const style = styles[item.run]
+          const last = pieces.at(-1)
+          // Merge only across a style-preserving boundary that has no space,
+          // so hyphenation fragments and mid-word style changes stay intact.
+          if (last && last.style === style && last.spaceAfter === undefined) {
+            last.text += item.text ?? ''
+          } else {
+            pieces.push({ text: item.text ?? '', style })
+          }
+        } else if (item.type === ItemType.Glue) {
+          const last = pieces.at(-1)
+          if (!last) continue
+          // Each glue carries its own spec, so a space in an italic run flexes
+          // against italic's space width — not a line-wide average.
+          last.spaceAfter = {
+            extraPx: ratio * (ratio >= 0 ? item.stretch : item.shrink),
+            style: styles[item.run],
+          }
         }
       }
-      if (current) words.push(current)
 
-      const ratio = line.glueRatio ?? 0
-      const flex = ratio >= 0 ? run.space.stretch : run.space.shrink
       return {
-        words,
-        extraSpacePx: ratio * flex,
+        pieces,
         hyphenated: !!line.hyphenated,
         overfull: !!line.overfull,
       }

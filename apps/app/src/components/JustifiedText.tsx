@@ -1,8 +1,18 @@
-import { type ComponentProps, Fragment, useMemo, useState } from 'react'
+import {
+  type ComponentProps,
+  Fragment,
+  type ReactNode,
+  useCallback,
+  useMemo,
+  useState,
+} from 'react'
 import { Text } from 'tamagui'
 
-import type { ReadingFontId } from '@/config/readingFonts'
+import { getFontFamily, type ReadingFontId } from '@/config/readingFonts'
+import type { TextStyleName } from '@/lib/typography/fontMetrics'
+import type { StyledSegment } from '@/lib/typography/justifyText'
 import { justifyText } from '@/lib/typography/justifyText'
+import { emphasisStyle } from './prayer/InlineMarkdown'
 
 /**
  * Knuth–Plass justified text on native.
@@ -13,55 +23,63 @@ import { justifyText } from '@/lib/typography/justifyText'
  * letterSpacing`. Everything stays inside one parent `<Text>`, which keeps it
  * a single selectable, copyable run.
  *
- * Falls back to ordinary wrapped text whenever the line model isn't available
- * — an unmeasured container, a font without metrics, or a paragraph the
- * breaker declined. Justification is a refinement; the words always render.
+ * Whenever the line model isn't available — the first frame before `onLayout`
+ * measures, a face whose width can't be known, a paragraph the breaker
+ * declined — it renders `fallback` instead. That has to be a real rendering of
+ * the same text rather than a flattened string, or emphasis would disappear
+ * exactly where justification gives up.
  *
- * See `docs/design/typography-justification.md` § Part 6.
+ * See `docs/design/typography-justification.md`.
  */
 export function JustifiedText({
-  text,
+  source,
   fontFamilyId,
   fontSizePx,
   language,
-  enabled = true,
+  fallback,
   ...textProps
 }: {
-  text: string
+  source: StyledSegment[]
   fontFamilyId: ReadingFontId
   fontSizePx: number
   language?: string
-  /** When false, renders plain wrapped text (e.g. the reader's "left" mode). */
-  enabled?: boolean
+  /** Rendered whenever the text can't be justified. */
+  fallback: ReactNode
 } & ComponentProps<typeof Text>) {
   const [width, setWidth] = useState(0)
 
   const lines = useMemo(() => {
-    if (!enabled || !width) return undefined
-    // A pixel of headroom. Our widths are exact against the font tables, but
-    // the platform rounds when it rasterizes — and a line that ends up one
-    // sub-pixel too wide does not just look wrong, it wraps, pushing a word
-    // onto a line the breaker never planned.
-    return justifyText({
-      text,
-      widthPx: width - 1,
-      fontSizePx,
-      fontFamilyId,
-      language,
-    })
-  }, [enabled, width, text, fontSizePx, fontFamilyId, language])
+    if (!width) return undefined
+    // A pixel of headroom, because a line that ends up even a sub-pixel too
+    // wide does not merely look wrong — it wraps, pushing a word onto a line
+    // the breaker never planned.
+    return justifyText({ source, widthPx: width - 1, fontSizePx, fontFamilyId, language })
+  }, [width, source, fontSizePx, fontFamilyId, language])
 
-  // onLayout gives us the measure the breaker needs; until it fires (and if
-  // justification declines) this is just a normal Text.
-  const onLayout = (e: { nativeEvent: { layout: { width: number } } }) => {
+  // Emphasis resolves to a concrete font face, because React Native ignores
+  // inherited fontWeight/fontStyle once fontFamily is set. Built once per
+  // family so pieces share style identities instead of minting one apiece.
+  const faces = useMemo(() => {
+    const family = getFontFamily(fontFamilyId)
+    return {
+      regular: undefined,
+      bold: emphasisStyle(family, 700, false),
+      italic: emphasisStyle(family, 400, true),
+      boldItalic: emphasisStyle(family, 700, true),
+    } satisfies Record<TextStyleName, object | undefined>
+  }, [fontFamilyId])
+
+  // onLayout gives us the measure the breaker needs. Functional update so the
+  // callback doesn't close over `width` and change identity every render.
+  const onLayout = useCallback((e: { nativeEvent: { layout: { width: number } } }) => {
     const w = e.nativeEvent.layout.width
-    if (w && Math.abs(w - width) > 0.5) setWidth(w)
-  }
+    if (w) setWidth((prev) => (Math.abs(w - prev) > 0.5 ? w : prev))
+  }, [])
 
   if (!lines?.length) {
     return (
       <Text {...textProps} onLayout={onLayout}>
-        {text}
+        {fallback}
       </Text>
     )
   }
@@ -73,18 +91,27 @@ export function JustifiedText({
       {lines.map((line, i) => (
         // biome-ignore lint/suspicious/noArrayIndexKey: line list is positional and regenerated wholesale
         <Fragment key={i}>
-          {line.words.map((word, w) => (
+          {line.pieces.map((piece, p) => (
             // biome-ignore lint/suspicious/noArrayIndexKey: same
-            <Fragment key={w}>
-              <Text>{word}</Text>
-              {w < line.words.length - 1 && (
-                // The whole trick: a lone space widened to the width the
-                // breaker chose for this line.
-                <Text style={{ letterSpacing: line.extraSpacePx }}> </Text>
+            <Fragment key={p}>
+              <Text style={faces[piece.style]}>{piece.text}</Text>
+              {piece.spaceAfter && (
+                // The whole trick: a lone space, drawn in its own run's face,
+                // widened by exactly what the breaker allotted this gap.
+                <Text
+                  style={{
+                    ...faces[piece.spaceAfter.style],
+                    letterSpacing: piece.spaceAfter.extraPx,
+                  }}
+                >
+                  {' '}
+                </Text>
               )}
             </Fragment>
           ))}
-          {line.hyphenated && <Text>-</Text>}
+          {line.hyphenated && (
+            <Text style={faces[line.pieces[line.pieces.length - 1].style]}>-</Text>
+          )}
           {i < lines.length - 1 && <Text>{'\n'}</Text>}
         </Fragment>
       ))}

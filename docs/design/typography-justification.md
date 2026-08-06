@@ -51,7 +51,11 @@ React Native exposes no `wordSpacing` (confirmed in Fabric's `TextAttributes.h`)
 
 **`components/JustifiedText.tsx`** renders that recipe with the one lever RN does expose: `letterSpacing` adds space *after* each character, so a nested `<Text>` holding a single space renders at `spaceAdvance + letterSpacing`. Everything stays inside one parent `<Text>`, keeping it a single selectable, copyable run. It falls back to ordinary wrapped text whenever the line model is unavailable.
 
-`PrayerLines` routes plain lines through it and leaves markup, Divinum Officium lines and response marks on the existing renderer — justification owns a line's whole spacing, so it can only take lines it renders end to end.
+**Inline emphasis is justified, not excluded.** `buildItems` takes an array of runs precisely so a paragraph can mix faces, so `*Mater Dei*` is measured in the real italic face and broken along with everything else. Each style contributes its own metrics and its own word-space width, and the output is *pieces* rather than words — `*Mater Dei*,` puts the comma back in regular, so one word can span two pieces.
+
+This is why the generator emits per-face tables and why it only lists faces the app actually **loads**: metrics have to describe what gets rendered. EB Garamond loads real `400Regular`, `400Regular_Italic`, `700Bold` and `700Bold_Italic`, so all four styles are exact. The other six families load Regular only, and the platform synthesizes emphasis — where synthetic *italic* is an oblique shear that preserves advances (so regular metrics stay exact), but synthetic *bold* is an emboldening smear whose advance growth is platform-specific and can't be predicted, so bold on those families declines rather than guessing.
+
+`PrayerLines` leaves only two things on the existing renderer: Divinum Officium lines (verse numbers, pointing marks, small caps that `DoInlineLine` owns) and response marks. Both are decided per block, so a prayer never mixes the two renderers mid-way.
 
 Bilingual side-by-side is where it pays most; that ~170 px column is the narrowest measure in the app.
 
