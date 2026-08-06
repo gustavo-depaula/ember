@@ -20,8 +20,8 @@ import { laLiturgicPatterns } from './hyphenLaLiturgic.generated'
  * RN has no `wordSpacing`, so justif's DOM renderer can't be used — but
  * `justif/core` is DOM-free and takes an injectable `Measure`, which we
  * satisfy from the generated font tables. What comes back is a per-line
- * recipe a `<Text>` tree can express: the words, the exact width of each
- * space, and any letterfit tracking.
+ * recipe a `<Text>` tree can express: styled pieces, and the exact width of
+ * the space that follows each.
  *
  * See `docs/design/typography-justification.md` § Part 6.
  */
@@ -33,9 +33,8 @@ export type StyledSegment = { text: string; style: TextStyleName }
  * A stretch of same-styled text on a line.
  *
  * Pieces are not words: `*Mater Dei*,` renders the comma in regular while the
- * rest is italic, so a single word can span two pieces. `spaceAfterPx` is
- * `undefined` exactly when no space follows — i.e. the next piece continues
- * the same word.
+ * rest is italic, so a single word can span two pieces. When `spaceAfter` is
+ * absent mid-line, the next piece continues the same word.
  */
 export type JustifiedPiece = {
   text: string
@@ -105,23 +104,23 @@ export function justifyText({
     typeof source === 'string' ? [{ text: source, style: 'regular' as const }] : source
   ).filter((s) => s.text.length > 0)
 
-  if (!segments.length || !segments.some((s) => s.text.trim())) return undefined
+  if (!segments.some((s) => s.text.trim())) return undefined
   if (!(widthPx > 0) || !(fontSizePx > 0)) return undefined
 
   // One justif run per distinct style present, each with its own face metrics.
   // A missing face means the platform would synthesize a width we can't
-  // predict, so the whole line declines rather than drifting.
+  // predict, so the whole line declines rather than drifting — resolved up
+  // front so an unjustifiable line costs one map lookup, not a run build.
   const styles = [...new Set(segments.map((s) => s.style))]
-  const runIndex = new Map<TextStyleName, number>()
-  const runStyles: TextStyleName[] = styles
+  const faces = styles.map((style) => getFontMetrics(fontFamilyId, style))
+  if (faces.some((m) => !m)) return undefined
+
   const runs = []
-  for (const style of styles) {
-    const metrics = getFontMetrics(fontFamilyId, style)
-    if (!metrics) return undefined
+  for (const [i, style] of styles.entries()) {
+    const metrics = faces[i] as FontMetrics
     const spaceWidth = metrics.width(' ', fontSizePx)
     if (!(spaceWidth > 0)) return undefined
 
-    runIndex.set(style, runs.length)
     runs.push({
       fontKey: `${fontFamilyId}-${style}-${fontSizePx}`,
       // TeX's interword glue: a space may stretch by half and shrink by a third.
@@ -138,11 +137,17 @@ export function justifyText({
   }
 
   // justif measures a run's text through the paragraph-wide `Measure`, handing
-  // back the run so we can route to that face's table.
+  // back the run so we can route to that face's table. Method shorthand rather
+  // than arrow properties: methods are bivariant, so this satisfies justif's
+  // `Measure` without widening its type at the call site.
   type Run = (typeof runs)[number]
   const measure = {
-    width: (t: string, run: Run) => run.metrics.width(t, fontSizePx),
-    charAdvance: (ch: string, run: Run) => run.metrics.charAdvance(ch, fontSizePx),
+    width(t: string, run: Run) {
+      return run.metrics.width(t, fontSizePx)
+    },
+    charAdvance(ch: string, run: Run) {
+      return run.metrics.charAdvance(ch, fontSizePx)
+    },
   }
 
   const buildOptions = {
@@ -162,8 +167,8 @@ export function justifyText({
   }
 
   try {
-    const texts = segments.map((s) => ({ text: s.text, run: runIndex.get(s.style) as number }))
-    const para = buildItems(texts, runs, buildOptions, measure as Parameters<typeof buildItems>[3])
+    const texts = segments.map((s) => ({ text: s.text, run: styles.indexOf(s.style) }))
+    const para = buildItems(texts, runs, buildOptions, measure)
     const breaks = breakParagraph(para, widthPx, { ...defaultBreakOptions })
     const lines = layoutLines(para, breaks, widthPx, buildOptions)
     if (!lines?.length) return undefined
@@ -175,7 +180,7 @@ export function justifyText({
       for (let i = line.start; i < line.end; i++) {
         const item = para.items[i]
         if (item.type === ItemType.Box) {
-          const style = runStyles[item.run] ?? 'regular'
+          const style = styles[item.run]
           const last = pieces.at(-1)
           // Merge only across a style-preserving boundary that has no space,
           // so hyphenation fragments and mid-word style changes stay intact.
@@ -191,7 +196,7 @@ export function justifyText({
           // against italic's space width — not a line-wide average.
           last.spaceAfter = {
             extraPx: ratio * (ratio >= 0 ? item.stretch : item.shrink),
-            style: runStyles[item.run] ?? 'regular',
+            style: styles[item.run],
           }
         }
       }

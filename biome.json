@@ -34,7 +34,9 @@
       "!apps/app/expo-env.d.ts",
       "!apps/app/ios/Pods",
       "!apps/app/src/features/books/reader/foliate/paginatorScript.ts",
-      "!apps/app/src/features/books/reader/foliate/bootstrapScript.ts"
+      "!apps/app/src/features/books/reader/foliate/bootstrapScript.ts",
+      "!apps/app/src/lib/typography/fontMetrics.generated.ts",
+      "!apps/app/src/lib/typography/hyphenLaLiturgic.generated.ts"
     ]
   }
 }

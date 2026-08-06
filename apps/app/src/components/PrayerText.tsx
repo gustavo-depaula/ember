@@ -16,18 +16,19 @@ import { ResponseMark } from './prayer/ResponseMark'
 
 // Emphasis is not an obstacle to justification — justif breaks across mixed
 // runs natively, so `*Mater Dei*` is measured in the italic face and justified
-// with everything else. The parser's node types map straight onto the faces.
-const styleOf = (type: InlineNode['type']): TextStyleName =>
-  type === 'bold'
-    ? 'bold'
-    : type === 'italic'
-      ? 'italic'
-      : type === 'bolditalic'
-        ? 'boldItalic'
-        : 'regular'
+// with everything else. The parser's node types map straight onto the faces;
+// only the casing differs.
+const styleByNode: Partial<Record<InlineNode['type'], TextStyleName>> = {
+  bold: 'bold',
+  italic: 'italic',
+  bolditalic: 'boldItalic',
+}
 
 const toSegments = (line: string): StyledSegment[] =>
-  parseInline(line).map((node) => ({ text: node.text, style: styleOf(node.type) }))
+  parseInline(line).map((node) => ({
+    text: node.text,
+    style: styleByNode[node.type] ?? 'regular',
+  }))
 
 export function PrayerText(props: ComponentProps<typeof Text>) {
   const style = useReadingStyle()
@@ -72,32 +73,41 @@ export function PrayerLines({
     [canJustify, lines],
   )
 
+  if (segments) {
+    return (
+      <YStack gap="$xs">
+        {segments.map((source, i) => (
+          <JustifiedText
+            // biome-ignore lint/suspicious/noArrayIndexKey: prayer lines are positional and never reorder
+            key={`${i}`}
+            source={source}
+            fontFamilyId={fontFamilyId}
+            fontSizePx={reading.fontSize}
+            language={language ?? contentLanguage}
+            // Where justification gives up — the first frame, or a face whose
+            // width can't be known — the same line still has to render with its
+            // emphasis intact, so hand it the ordinary inline renderer.
+            fallback={
+              <InlineMarkdownLine text={lines[i]} baseFamily={baseFamily} language={language} />
+            }
+            selectable
+            userSelect="text"
+            color="$color"
+            {...reading}
+            // The line model already places every break, so the enclosing
+            // Text must not add its own justification on top.
+            textAlign="left"
+            fontWeight={fontWeight}
+            fontStyle={fontStyle}
+          />
+        ))}
+      </YStack>
+    )
+  }
+
   return (
     <YStack gap="$xs">
       {lines.map((line, i) => {
-        if (segments) {
-          return (
-            <JustifiedText
-              // biome-ignore lint/suspicious/noArrayIndexKey: prayer lines are positional and never reorder
-              key={`${i}`}
-              source={segments[i]}
-              baseFamily={baseFamily}
-              fontFamilyId={fontFamilyId}
-              fontSizePx={reading.fontSize}
-              language={language ?? contentLanguage}
-              selectable
-              userSelect="text"
-              color="$color"
-              {...reading}
-              // The line model already places every break, so the enclosing
-              // Text must not add its own justification on top.
-              textAlign="left"
-              fontWeight={fontWeight}
-              fontStyle={fontStyle}
-            />
-          )
-        }
-
         return (
           <PrayerText key={`${i}`} fontWeight={fontWeight} fontStyle={fontStyle}>
             {i === 0 && prefix && <ResponseMark value={prefix} />}

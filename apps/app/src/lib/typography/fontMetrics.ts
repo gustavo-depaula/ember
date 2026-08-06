@@ -7,14 +7,17 @@ export type TextStyleName = 'regular' | 'bold' | 'italic' | 'boldItalic'
 // Standard Latin f-ligatures. A font renders `ffl` as ONE narrower glyph, so
 // summing the individual advances overstates the word — by 2.5px on "afflict"
 // in EB Garamond at 22px, which is enough to overflow a line and cascade a
-// re-wrap. Longest first so `ffl` wins over `ff`.
-const ligatures: readonly (readonly [string, string])[] = [
-  ['ffl', 'ﬄ'],
-  ['ffi', 'ﬃ'],
-  ['ff', 'ﬀ'],
-  ['fi', 'ﬁ'],
-  ['fl', 'ﬂ'],
-]
+// re-wrap through the rest of the paragraph.
+const ligatures: Record<string, string> = {
+  ffl: 'ﬄ',
+  ffi: 'ﬃ',
+  ff: 'ﬀ',
+  fi: 'ﬁ',
+  fl: 'ﬂ',
+}
+// Longest alternative first, so `ffl` wins over `ff`. One pass over the word
+// rather than five `split().join()` rounds.
+const ligatureRe = /ffl|ffi|ff|fi|fl/g
 
 export type FontMetrics = {
   /** Advance of `text` at `fontSizePx`, ligatures accounted for. */
@@ -23,7 +26,8 @@ export type FontMetrics = {
   charAdvance: (ch: string, fontSizePx: number) => number
 }
 
-const cache = new Map<string, FontMetrics | undefined>()
+// Nested so a lookup costs no key-string allocation on the hot path.
+const cache = new Map<ReadingFontId, Map<TextStyleName, FontMetrics | undefined>>()
 
 function build(table: FaceMetrics): FontMetrics {
   // Codepoint → advance, built once per face. The generated form is two
@@ -37,10 +41,14 @@ function build(table: FaceMetrics): FontMetrics {
   // character can only make a line slightly loose, never silently overflow.
   const fallback = byCodepoint.get(32) ?? perEm / 4
 
+  // The innermost loop of the justifier: justif measures every cumulative
+  // prefix of a word to price its hyphenation breaks, so this runs many times
+  // per word per layout. Indexed `charCodeAt` rather than `for...of`, which
+  // would allocate an iterator and a one-character string per character.
   const units = (text: string) => {
     let total = 0
-    for (const ch of text) {
-      const cp = ch.codePointAt(0) ?? 0
+    for (let i = 0; i < text.length; i++) {
+      const cp = text.charCodeAt(i)
       // A soft hyphen occupies no space unless the line actually breaks there,
       // and justif accounts for the hyphen glyph itself when it does. The app
       // pre-hyphenates prayer text (`lib/hyphenate.ts`), so these arrive
@@ -52,14 +60,8 @@ function build(table: FaceMetrics): FontMetrics {
     return total
   }
 
-  const substitute = (text: string) => {
-    if (!text.includes('f')) return text
-    let out = text
-    for (const [seq, glyph] of ligatures) {
-      if (out.includes(seq)) out = out.split(seq).join(glyph)
-    }
-    return out
-  }
+  const substitute = (text: string) =>
+    text.includes('f') ? text.replace(ligatureRe, (m) => ligatures[m]) : text
 
   return {
     width: (text, fontSizePx) => (units(substitute(text)) * fontSizePx) / perEm,
@@ -87,15 +89,22 @@ export function getFontMetrics(
   id: ReadingFontId,
   style: TextStyleName = 'regular',
 ): FontMetrics | undefined {
-  const key = `${id}:${style}`
-  if (cache.has(key)) return cache.get(key)
+  let byStyle = cache.get(id)
+  if (!byStyle) {
+    byStyle = new Map()
+    cache.set(id, byStyle)
+  }
+  if (byStyle.has(style)) return byStyle.get(style)
 
   const faces = fontMetrics[id]
   const real = faces?.[style]
-  const syntheticItalicOk = style === 'italic' && faces?.regular
-
-  const table = real ?? (syntheticItalicOk ? faces.regular : undefined)
-  const metrics = table ? build(table) : undefined
-  cache.set(key, metrics)
+  // Synthetic italic falls back to the regular table — and to the lookup
+  // already built from it, rather than a second copy of the same ~200 entries.
+  const metrics = real
+    ? build(real)
+    : style === 'italic'
+      ? getFontMetrics(id, 'regular')
+      : undefined
+  byStyle.set(style, metrics)
   return metrics
 }

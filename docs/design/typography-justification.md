@@ -71,12 +71,6 @@ Bilingual side-by-side is where it pays most; that ~170 px column is the narrowe
 
 The general rule behind the second one: **any flex the breaker is allowed must actually be rendered, or lines silently re-wrap.**
 
-### Kerning is deliberately not modelled
-
-These fonts carry pair adjustments in GPOS with no legacy `kern` table, and extracting them expands the class matrices to ~3,000 pairs per face — about **1 MB** of generated tables across seven families. Measured cost of ignoring it, on 36 real justified lines at a 170 px measure: **0.72 px mean, 2.03 px worst**, almost always in the direction of a line sitting slightly *short* of the right margin rather than overflowing.
-
-That's the wrong trade for a mobile bundle, so the tables stay kern-free and `JustifiedText` reserves 1.5 px of headroom to absorb the drift (plus the platform's own rasterization rounding). If it ever needs revisiting, storing GPOS in its native class form instead of expanded pairs would cost a fraction of the expansion.
-
 ### Not verified — gates this surface
 
 Whether **UIKit widens a lone space under `letterSpacing`** the way CSS does. RN maps it to `NSKernAttributeName` on iOS and `TextPaint.setLetterSpacing` on Android, both of which add after each character, so it should hold — but it needs a simulator check. If it fails, `JustifiedText` falls back to plain wrapped text, so the failure mode is "no justification", not broken text.

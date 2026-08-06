@@ -146,15 +146,9 @@ function readMetrics(path) {
     widths[cp] = advances[Math.min(g, advances.length - 1)] ?? 0
   }
 
-  // Kerning is deliberately NOT modelled. These fonts carry pair adjustments
-  // in GPOS (no legacy `kern` table), and extracting them expands the class
-  // matrices into ~3,000 pairs per face — about 1 MB of generated tables
-  // across the seven families. Measured cost of ignoring it, on 36 real
-  // justified lines at a 170px measure: 0.72 px mean, 2.03 px worst. A line
-  // can therefore sit up to ~2 px short of the right margin. That is a worse
-  // trade than the bundle, but the numbers are here so it can be revisited —
-  // storing GPOS in its native class form rather than expanded pairs would
-  // cost far less than the expansion did.
+  // Kerning is deliberately NOT modelled — these fonts carry pair adjustments
+  // in GPOS only, and expanding the class matrices costs about 1 MB of tables
+  // to remove a sub-pixel error. See `docs/journal.md` for the measurements.
   return { unitsPerEm, widths }
 }
 
@@ -175,7 +169,8 @@ for (const [id, faces] of Object.entries(fonts)) {
       missing.push(`${id}/${face} (${pkg})`)
       continue
     }
-    ;(out[id] ??= {})[face] = readMetrics(path)
+    out[id] ??= {}
+    out[id][face] = readMetrics(path)
   }
 }
 if (!Object.keys(out).length) {
@@ -185,7 +180,7 @@ if (missing.length) console.warn(`build-font-metrics: skipped ${missing.join(', 
 
 // Emit compactly: a codepoint-sorted advance list rather than an object, so
 // the generated file stays small and diffs stay readable.
-const face = (m) => {
+const emitFace = (m) => {
   const cps = Object.keys(m.widths).map(Number).sort((a, b) => a - b)
   return `{ unitsPerEm: ${m.unitsPerEm}, codepoints: [${cps.join(',')}], advances: [${cps.map((c) => m.widths[c]).join(',')}] }`
 }
@@ -193,7 +188,7 @@ const body = Object.entries(out)
   .map(
     ([id, faces]) =>
       `  '${id}': {\n${Object.entries(faces)
-        .map(([name, m]) => `    ${name}: ${face(m)},`)
+        .map(([name, m]) => `    ${name}: ${emitFace(m)},`)
         .join('\n')}\n  },`,
   )
   .join('\n')
