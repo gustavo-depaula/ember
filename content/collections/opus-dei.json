@@ -36,7 +36,6 @@
 			},
 			"blocks": [
 				{ "kind": "item", "ref": "practice/morning-offering-opus-dei" },
-				{ "kind": "item", "ref": "practice/prayer-pope-bishop" },
 				{
 					"kind": "item",
 					"ref": "practice/mental-prayer",
