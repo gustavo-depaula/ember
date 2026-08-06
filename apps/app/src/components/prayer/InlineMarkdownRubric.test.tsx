@@ -32,11 +32,17 @@ describe('InlineMarkdownRubric', () => {
     expect(span).toHaveStyle({ fontFamily: 'EBGaramond_400Regular', fontStyle: 'normal' })
   })
 
-  // React Native Web's Text base class hard-sets black; without an explicit
-  // `inherit` an emphasis span drops the rubric's burgundy on the floor.
-  it('keeps the surrounding ink instead of falling back to black', () => {
+  // React Native Web's Text base class carries `font: 14px …` — a shorthand that
+  // resets size, leading and ink. Without an explicit `inherit` an emphasis span
+  // drops the rubric's burgundy and its 16px, and renders 14px black.
+  // Asserted on the inline style rather than the computed one: jsdom resolves an
+  // inherited length back to a px value, which would hide the very thing at issue.
+  it('keeps the surrounding ink, size and leading', () => {
     renderRubric('the encyclical *Quamquam Pluries*')
-    expect(screen.getByText('Quamquam Pluries')).toHaveStyle({ color: 'inherit' })
+    const style = screen.getByText('Quamquam Pluries').getAttribute('style') ?? ''
+    expect(style).toContain('color: inherit')
+    expect(style).toContain('font-size: inherit')
+    expect(style).toContain('line-height: inherit')
   })
 
   it('keeps the slant on **bold** and adds weight', () => {
@@ -60,19 +66,21 @@ describe('InlineMarkdownRubric', () => {
   })
 })
 
-// The same colour trap on the shared path — prayer bodies, annotation rows,
-// todo notes. Emphasis names a face; it must never name an ink.
+// The same trap on the shared path — prayer bodies, annotation rows, todo notes.
+// Emphasis names a face; it must never name an ink, a size or a leading.
 describe('emphasisStyle', () => {
-  it('inherits colour for the EB Garamond faces', () => {
+  const inherited = { color: 'inherit', fontSize: 'inherit', lineHeight: 'inherit' }
+
+  it('inherits ink, size and leading for the EB Garamond faces', () => {
     expect(emphasisStyle('EBGaramond_400Regular', 700, true)).toEqual({
-      color: 'inherit',
+      ...inherited,
       fontFamily: 'EBGaramond_700Bold_Italic',
     })
   })
 
-  it('inherits colour on the synthetic fallback for fonts without italic faces', () => {
+  it('inherits them on the synthetic fallback for fonts without italic faces', () => {
     expect(emphasisStyle('Lora', 700, true)).toEqual({
-      color: 'inherit',
+      ...inherited,
       fontFamily: 'Lora',
       fontWeight: '700',
       fontStyle: 'italic',

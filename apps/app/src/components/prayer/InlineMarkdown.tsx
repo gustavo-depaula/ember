@@ -7,13 +7,19 @@ import { hyphenate } from '@/lib/hyphenate'
 
 import { type InlineNode, parseInline } from './parseMarkdown'
 
-// React Native Web's Text base class hard-sets `color: rgb(0,0,0)`, so an
-// emphasis span that names only a font face silently drops the ink it should
-// have inherited — prayer-body brown, a rubric's burgundy — and renders pure
-// black. Nested <Text> on native inherits colour correctly, so the override is
-// web-only, and `inherit` is the one value that keeps the span honest wherever
-// it lands: emphasis never picks its own colour.
-const inheritColor: TextStyle = Platform.OS === 'web' ? { color: 'inherit' } : {}
+// React Native Web's Text base class is `{ color: rgb(0,0,0); font: 14px
+// -apple-system, … }` — and the `font` *shorthand* resets every font property
+// it doesn't name. So a span that sets only `fontFamily` keeps the reset: 14px,
+// `line-height: normal`, black, whatever size and ink and leading it was nested
+// in. Emphasis inside 19px prayer text rendered at 14px; inside a burgundy
+// rubric it rendered black.
+//
+// Re-inherit everything the span is not deliberately overriding. Native nested
+// <Text> inherits correctly, so this is web-only, and the CSS keyword is not in
+// React Native's style types — hence the cast.
+const inheritFromParent = (
+  Platform.OS === 'web' ? { color: 'inherit', fontSize: 'inherit', lineHeight: 'inherit' } : {}
+) as TextStyle
 
 // React Native's Text ignores inherited fontWeight/fontStyle when fontFamily is
 // set, so nested emphasis must resolve a concrete font face. EB Garamond ships
@@ -23,12 +29,12 @@ export function emphasisStyle(baseFamily: string, weight: 400 | 700, italic: boo
   if (baseFamily.startsWith('EBGaramond')) {
     const variants = bodyFont.face?.[weight]
     return {
-      ...inheritColor,
+      ...inheritFromParent,
       fontFamily: (italic ? variants?.italic : variants?.normal) ?? baseFamily,
     }
   }
   return {
-    ...inheritColor,
+    ...inheritFromParent,
     fontFamily: baseFamily,
     ...(weight === 700 ? { fontWeight: '700' } : {}),
     ...(italic ? { fontStyle: 'italic' } : {}),
@@ -124,7 +130,7 @@ export function InlineMarkdownRubric({ source }: { source: string }) {
         const face = node.type === 'text' ? undefined : italicRunFaces[node.type]
         if (!face) return <Fragment key={i}>{node.text}</Fragment>
         return (
-          <RNText key={i} style={{ ...inheritColor, fontFamily: face, fontStyle: 'normal' }}>
+          <RNText key={i} style={{ ...inheritFromParent, fontFamily: face, fontStyle: 'normal' }}>
             {node.text}
           </RNText>
         )
