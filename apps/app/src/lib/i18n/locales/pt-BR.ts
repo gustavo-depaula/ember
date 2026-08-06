@@ -298,7 +298,7 @@ export default {
     amen: 'Am\u00e9m',
     completing: 'Concluindo...',
     fallbackNotice:
-      'Mostrando Douay-Rheims (offline) \u2014 tradu\u00e7\u00e3o selecionada indispon\u00edvel',
+      'Mostrando Douay-Rheims \u2014 tradu\u00e7\u00e3o selecionada indispon\u00edvel aqui',
     cccLabel: 'Catecismo da Igreja Cat\u00f3lica, {{start}}-{{end}}',
   },
 
@@ -957,7 +957,7 @@ export default {
   },
 
   bible: {
-    showingFallback: 'Mostrando Douay-Rheims (offline)',
+    showingFallback: 'Mostrando Douay-Rheims',
     chapterAbbr: 'Cap. {{n}}',
     discovery: {
       title: 'Sagrada Escritura',

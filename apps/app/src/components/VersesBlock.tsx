@@ -103,10 +103,17 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
               {item.num}
             </Typography>
           )}
-          <BilingualBlock
-            content={item.text}
-            renderText={(text) => <PrayerText flex={1}>{text}</PrayerText>}
-          />
+          {/* The flex has to sit on a wrapper, not on the PrayerText inside:
+              BilingualBlock puts its own stack in between, and a stack that
+              neither grows nor shrinks takes its intrinsic width — which the
+              text measures at the FULL row width, ignoring the number gutter.
+              Every verse then hangs one gutter past the right margin. */}
+          <YStack flex={1}>
+            <BilingualBlock
+              content={item.text}
+              renderText={(text) => <PrayerText>{text}</PrayerText>}
+            />
+          </YStack>
         </XStack>
       ))}
     </YStack>
