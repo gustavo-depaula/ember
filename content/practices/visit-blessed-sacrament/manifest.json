@@ -2,18 +2,25 @@
 	"id": "visit-blessed-sacrament",
 	"icon": "eucharist",
 	"source": {
-		"en-US": "The customary form of the Work, as carried in the Opus Dei *Pocket Prayer Book*; cf. [Visit to the Blessed Sacrament](https://opusdei.org/en/article/visit-to-the-blessed-sacrament-eucharistic-devotion/). The acclamation is the traditional *Sia lodato e ringraziato ogni momento il Santissimo e Divinissimo Sacramento*, rendered in Portuguese as *Graças e louvores sejam dados a todo momento ao Santíssimo e Diviníssimo Sacramento* and in English as the couplet *O Sacrament most holy, O Sacrament divine*. Spiritual communion, Spanish original: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.*",
-		"pt-BR": "A forma costumeira da Obra, recolhida no *Devocionário* do Opus Dei; cf. [Visita ao Santíssimo Sacramento](https://opusdei.org/en/article/visit-to-the-blessed-sacrament-eucharistic-devotion/). A aclamação é a tradicional *Sia lodato e ringraziato ogni momento il Santissimo e Divinissimo Sacramento*, em português *Graças e louvores sejam dados a todo momento ao Santíssimo e Diviníssimo Sacramento* e em inglês o dístico *O Sacrament most holy, O Sacrament divine*. Comunhão espiritual, original espanhol: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.*"
+		"en-US": "The customary form of the Work, as carried in the Opus Dei *Pocket Prayer Book*; cf. [Visit to the Blessed Sacrament](https://opusdei.org/en/article/visit-to-the-blessed-sacrament-eucharistic-devotion/). The acclamation is the traditional *Sia lodato e ringraziato ogni momento il Santissimo e Divinissimo Sacramento*, rendered in Portuguese as *Graças e louvores sejam dados a todo momento ao Santíssimo e Diviníssimo Sacramento* and in English as the couplet *O Sacrament most holy, O Sacrament divine*. Spiritual communion, Spanish original: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.* The optional daily visit is St. Alphonsus Maria de Liguori, *Visite al SS. Sacramento ed a Maria Santissima* (1745), `book/liguori-visite-al-ss-sacramento`, cycled by day of the month across its thirty-one visits.",
+		"pt-BR": "A forma costumeira da Obra, recolhida no *Devocionário* do Opus Dei; cf. [Visita ao Santíssimo Sacramento](https://opusdei.org/en/article/visit-to-the-blessed-sacrament-eucharistic-devotion/). A aclamação é a tradicional *Sia lodato e ringraziato ogni momento il Santissimo e Divinissimo Sacramento*, em português *Graças e louvores sejam dados a todo momento ao Santíssimo e Diviníssimo Sacramento* e em inglês o dístico *O Sacrament most holy, O Sacrament divine*. Comunhão espiritual, original espanhol: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.* A visita diária opcional é de Santo Afonso Maria de Ligório, *Visite al SS. Sacramento ed a Maria Santissima* (1745), `book/liguori-visite-al-ss-sacramento`, ciclada pelo dia do mês ao longo das suas trinta e uma visitas."
 	},
 	"name": {
 		"en-US": "Visit to the Blessed Sacrament",
 		"pt-BR": "Visita ao Santíssimo Sacramento"
 	},
-	"categories": ["eucharistic", "devotion", "daily"],
+	"categories": [
+		"eucharistic",
+		"devotion",
+		"daily"
+	],
 	"estimatedMinutes": 3,
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"flow": "flow.json",
+	"data": {
+		"visits": "data/visits.json"
+	},
 	"description": {
 		"en-US": "A brief daily stop before the tabernacle, preferably at midday after lunch — and at a different hour from the mental prayer, since this is one more moment of contact in the day and not a second period of formal prayer. The acclamation, said and answered, opens each of three sets of Our Father, Hail Mary and Glory Be; a spiritual communion closes it.",
 		"pt-BR": "Uma breve paragem diária diante do sacrário, de preferência ao meio-dia depois do almoço — e a uma hora diferente da oração mental, pois é mais um momento de contacto no dia e não um segundo tempo de oração formal. A aclamação, dita e respondida, abre cada uma das três séries de Pai-Nosso, Ave-Maria e Glória; uma comunhão espiritual encerra-a."
@@ -23,8 +30,8 @@
 		"pt-BR": "Visitar a Eucaristia reservada é um costume antigo — nasceu da prática de guardar o Santíssimo para os enfermos e, já na Idade Média, os fiéis paravam diante do sacrário com naturalidade. Santo Afonso de Ligório chamou à visita a mais necessária e a mais frutuosa das devoções.\n\nNo Opus Dei esse costume antigo concretiza-se numa forma diária fixa e muito breve. Não é, deliberadamente, um segundo tempo de oração mental: cai a uma hora diferente, ordinariamente ao meio-dia depois do almoço, e é curta o bastante para que um dia de trabalho comum não a possa esmagar. O que lhe dá forma é a aclamação, feita antes de cada série de orações vocais como ato de fé e de reparação — reparação pela frieza e pela negligência que Nosso Senhor recebe no sacramento onde espera. Quem dirige diz a primeira parte, e todos respondem com a segunda.\n\nA forma não esgota o costume. Os fiéis da Obra procuram também visitar o Senhor noutros momentos do dia, ainda que por um instante — ao entrar ou sair de um centro, ao passar por uma igreja, ao atravessar uma praça onde haja um sacrário perto."
 	},
 	"howToPray": {
-		"en-US": "Make it before the tabernacle if you can — after lunch, on the way back to work, is the ordinary moment. If no church is open to you, make it where you are, turning towards Him wherever He is reserved nearest to you. Genuflect on entering and make the sign of the cross.\n\nThen, three times: the acclamation, and an Our Father, Hail Mary and Glory Be. Prayed in common, the one leading says the first half of the acclamation and all answer with the second, and the vocal prayers go in dialogue — one side begins each prayer, the other completes it. Alone, say it all yourself; the repetition is the point.\n\nClose with the spiritual communion. Keep it short. This is a visit, not a Holy Hour — if you want the longer form before the tabernacle, that is a practice of its own.",
-		"pt-BR": "Faça-a diante do sacrário, se puder — depois do almoço, a caminho do trabalho, é o momento ordinário. Se não tiver nenhuma igreja aberta, faça-a onde estiver, voltando-se para Ele onde estiver reservado mais perto de si. Genuflita ao entrar e faça o sinal da cruz.\n\nDepois, três vezes: a aclamação e um Pai-Nosso, uma Ave-Maria e um Glória. Rezada em comum, quem dirige diz a primeira parte da aclamação e todos respondem com a segunda, e as orações vocais vão em diálogo — um lado começa cada oração, o outro completa-a. Sozinho, diga tudo você mesmo; a repetição é que importa.\n\nEncerre com a comunhão espiritual. Mantenha-a breve. Isto é uma visita, não uma Hora Santa — se quiser a forma longa diante do sacrário, essa é uma prática à parte."
+		"en-US": "Make it before the tabernacle if you can — after lunch, on the way back to work, is the ordinary moment. If no church is open to you, make it where you are, turning towards Him wherever He is reserved nearest to you. Genuflect on entering and make the sign of the cross.\n\nThen, three times: the acclamation, and an Our Father, Hail Mary and Glory Be. Prayed in common, the one leading says the first half of the acclamation and all answer with the second, and the vocal prayers go in dialogue — one side begins each prayer, the other completes it. Alone, say it all yourself; the repetition is the point.\n\nClose with the spiritual communion. That is the whole norm, and on an ordinary day it is enough — keep it short.\n\nBelow it, folded away, is the visit St. Alphonsus assigned to today's day of the month, from his *Visits to the Blessed Sacrament and to the Blessed Virgin Mary*: the acts he made at the beginning of every visit, the day's visit with its companion visit to Our Lady, and his act of spiritual communion. Open it when you have the time to stay — on a Sunday, on a Thursday, on a day when the church is quiet and you are not due anywhere.",
+		"pt-BR": "Faça-a diante do sacrário, se puder — depois do almoço, a caminho do trabalho, é o momento ordinário. Se não tiver nenhuma igreja aberta, faça-a onde estiver, voltando-se para Ele onde estiver reservado mais perto de si. Genuflita ao entrar e faça o sinal da cruz.\n\nDepois, três vezes: a aclamação e um Pai-Nosso, uma Ave-Maria e um Glória. Rezada em comum, quem dirige diz a primeira parte da aclamação e todos respondem com a segunda, e as orações vocais vão em diálogo — um lado começa cada oração, o outro completa-a. Sozinho, diga tudo você mesmo; a repetição é que importa.\n\nEncerre com a comunhão espiritual. Essa é a norma inteira e, num dia comum, basta — mantenha-a breve.\n\nPor baixo, recolhida, está a visita que Santo Afonso destinou ao dia do mês de hoje, das suas *Visitas ao Santíssimo Sacramento e a Maria Santíssima*: os atos que ele fazia no princípio de toda visita, a visita do dia com a sua visita companheira a Nossa Senhora, e o seu ato de comunhão espiritual. Abra-a quando tiver tempo para ficar — num domingo, numa quinta-feira, num dia em que a igreja esteja silenciosa e você não tenha hora marcada."
 	},
 	"tags": [
 		"opus-dei",
@@ -33,13 +40,17 @@
 		"tabernacle",
 		"blessed-sacrament",
 		"josemaria",
-		"daily"
+		"daily",
+		"liguori",
+		"alphonsus"
 	],
 	"defaults": {
 		"sortOrder": 13,
 		"slots": [
 			{
-				"schedule": { "type": "daily" },
+				"schedule": {
+					"type": "daily"
+				},
 				"time": "13:00",
 				"tier": "ideal",
 				"enabled": false

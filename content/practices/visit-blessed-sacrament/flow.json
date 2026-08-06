@@ -61,6 +61,46 @@
 				"en-US": "I wish, my Lord and my God, to receive Thee with the purity, humility and devotion with which Thy most holy Mother received Thee, with the spirit and fervour of the saints.",
 				"pt-BR": "Quisera, Senhor, receber-Vos com aquela pureza, humildade e devoção com que Vos recebeu a vossa Santíssima Mãe, com o espírito e o fervor dos santos."
 			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Visit for today — St. Alphonsus Liguori",
+				"pt-BR": "Visita de hoje — Santo Afonso de Ligório"
+			},
+			"defaultOpen": false,
+			"sections": [
+				{
+					"type": "prose",
+					"book": "liguori-visite-al-ss-sacramento",
+					"chapter": "atti-principio-visita"
+				},
+				{
+					"type": "divider"
+				},
+				{
+					"type": "cycle",
+					"data": "visits",
+					"sections": [
+						{
+							"type": "prose",
+							"book": "liguori-visite-al-ss-sacramento",
+							"chapter": "{{chapterId}}"
+						}
+					]
+				},
+				{
+					"type": "divider"
+				},
+				{
+					"type": "prose",
+					"book": "liguori-visite-al-ss-sacramento",
+					"chapter": "atto-comunione-spirituale"
+				}
+			]
 		}
 	]
 }
