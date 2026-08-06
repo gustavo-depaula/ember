@@ -12,7 +12,7 @@ import { getFontFamily, type ReadingFontId } from '@/config/readingFonts'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { justifyText } from '@/lib/typography/justifyText'
-import { emphasisStyle } from './prayer/InlineMarkdown'
+import { styleToFace } from './prayer/InlineMarkdown'
 
 /**
  * Knuth–Plass justified text on native.
@@ -36,6 +36,7 @@ export function JustifiedText({
   fontFamilyId,
   fontSizePx,
   language,
+  baseStyle = 'regular',
   fallback,
   ...textProps
 }: {
@@ -43,6 +44,8 @@ export function JustifiedText({
   fontFamilyId: ReadingFontId
   fontSizePx: number
   language?: string
+  /** The face the block is set in; the parent `<Text>` already draws it. */
+  baseStyle?: TextStyleName
   /** Rendered whenever the text can't be justified. */
   fallback: ReactNode
 } & ComponentProps<typeof Text>) {
@@ -59,15 +62,21 @@ export function JustifiedText({
   // Emphasis resolves to a concrete font face, because React Native ignores
   // inherited fontWeight/fontStyle once fontFamily is set. Built once per
   // family so pieces share style identities instead of minting one apiece.
+  //
+  // Only the block's own face is left to the parent. Every other style names
+  // its face outright — including `regular`, which inside an italic block is a
+  // deliberate flip back to roman and cannot be had by inheriting.
   const faces = useMemo(() => {
     const family = getFontFamily(fontFamilyId)
+    const resolved = (style: TextStyleName) =>
+      style === baseStyle ? undefined : styleToFace(family, style)
     return {
-      regular: undefined,
-      bold: emphasisStyle(family, 700, false),
-      italic: emphasisStyle(family, 400, true),
-      boldItalic: emphasisStyle(family, 700, true),
+      regular: resolved('regular'),
+      bold: resolved('bold'),
+      italic: resolved('italic'),
+      boldItalic: resolved('boldItalic'),
     } satisfies Record<TextStyleName, object | undefined>
-  }, [fontFamilyId])
+  }, [fontFamilyId, baseStyle])
 
   // onLayout gives us the measure the breaker needs. Functional update so the
   // callback doesn't close over `width` and change identity every render.
