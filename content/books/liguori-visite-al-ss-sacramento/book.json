@@ -78,6 +78,14 @@
       }
     },
     {
+      "id": "preghiere-fine-visita",
+      "title": {
+        "it": "Preghiere da farsi in fine d'ogni visita",
+        "en-US": "Prayers to Be Made at the End of Every Visit",
+        "pt-BR": "Orações a Serem Feitas no Fim de Cada Visita"
+      }
+    },
+    {
       "id": "visita-01",
       "title": {
         "it": "Visita I",
