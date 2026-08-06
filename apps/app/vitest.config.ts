@@ -30,6 +30,10 @@ export default defineConfig({
   },
   test: {
     include: ['src/**/*.test.{ts,tsx}'],
+    // Above the 10s asyncUtilTimeout in src/test/setup.ts, so a stuck
+    // `findBy*` reports testing-library's element-not-found (with a DOM
+    // dump) rather than being killed first by vitest's generic timeout.
+    testTimeout: 20_000,
     environment: 'jsdom',
     setupFiles: ['./src/test/setup.ts'],
     server: {

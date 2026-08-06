@@ -100,6 +100,12 @@ export type FlowSection = { lang?: string } & (
       inline: { title: LocalizedText; subtitle?: LocalizedText; text: LocalizedContent }
     }
   | { type: 'meditation'; text: LocalizedText }
+  // A psalm stitched from verses drawn out of many places in Scripture (a
+  // cento) — St Francis' offices are built this way, so every line carries its
+  // own reference. `ref` is localized because the book abbreviation differs by
+  // language (Ps. / Sl), and it renders subordinate to the prayed text rather
+  // than sharing its weight.
+  | { type: 'psalm'; verses: { ref?: LocalizedText; text: LocalizedContent }[] }
   | { type: 'response'; verses: { v: LocalizedText; r: LocalizedText }[] }
   | { type: 'subheading'; text: LocalizedText }
   | {
@@ -353,6 +359,7 @@ export type RenderedSection =
       text: BilingualText
     }
   | { type: 'meditation'; text: BilingualText }
+  | { type: 'psalm'; verses: { ref?: BilingualText; text: BilingualText }[] }
   | {
       type: 'section-marker'
       title: BilingualText

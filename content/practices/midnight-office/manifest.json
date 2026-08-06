@@ -2,14 +2,16 @@
   "id": "midnight-office",
   "icon": "prayer",
   "name": {
-    "en-US": "Midnight Office According to the Mozarabic Rite"
+    "en-US": "Midnight Office According to the Mozarabic Rite",
+    "pt-BR": "Ofício da Meia-Noite"
   },
   "categories": [
     "office"
   ],
   "estimatedMinutes": 6,
   "description": {
-    "en-US": "A traditional little office in honour of Midnight Office According to the Mozarabic Rite."
+    "en-US": "A traditional little office in honour of Midnight Office According to the Mozarabic Rite.",
+    "pt-BR": "O ofício noturno hispano-moçárabe, com os salmos, cânticos, responsórios e clamores das vigílias."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

@@ -55,12 +55,18 @@ export type VersesPrimitive = {
   header?: BilingualText
   items: {
     num?: string | number
+    // Cento citations differ by language ("Ps. 55:9" / "Sl 55,9"), so they
+    // can't ride on `num`, which is a single value shared by both columns.
+    ref?: BilingualText
     text: BilingualText
     // 'v'/'r' tag explicit role for versicle/response pairs — the renderer
     // shouldn't have to sniff at the num field to figure it out.
     role?: 'v' | 'r'
   }[]
-  style?: 'numbered' | 'vr'
+  // 'cento' sets `ref` as a muted lead-in on the same line as the verse, for
+  // psalms stitched from many references where a full citation ("Ps. 56:1")
+  // would be too wide for the numbered style's gutter.
+  style?: 'numbered' | 'vr' | 'cento'
   fallback?: boolean
 }
 

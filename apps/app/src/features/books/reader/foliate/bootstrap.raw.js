@@ -125,6 +125,75 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     h2.section-title + p { text-indent: 0; }
   `;
 
+  // Vendored justif bundle (justif.raw.js), spliced in by bundle.mjs. Each
+  // chapter is its own document, so it is injected per blob rather than once
+  // on the host.
+  const justifSrc = '__JUSTIF_SRC__';
+
+  // Runs inside the chapter document, at the end of <body>.
+  //
+  // TIMING, the whole reason this is not a one-liner: at parse time foliate
+  // has not sized the iframe yet, so the body is zero-width and justif
+  // (correctly) declines every paragraph with "zero content width". Neither
+  // rescan() nor refresh() rescues that — rescan only re-lays out paragraphs
+  // whose STYLING changed, and a container-width change is not a style
+  // change. So the justify() call itself has to wait for a real measure:
+  // try immediately, and otherwise let a ResizeObserver fire it the moment
+  // the iframe gets a width. `__justifRun` is idempotent so the host can
+  // also drive it from the paginator's `load` handler.
+  const justifInit = (lang) => `(function(){try{
+    var J = window.__justif; if (!J) return;
+    var l = ${JSON.stringify(String(lang || 'en').toLowerCase())};
+    var hy = l.indexOf('pt') === 0 ? J.hyphenatePt
+           : l.indexOf('la') === 0 ? J.hyphenateLa
+           : J.hyphenateEnUS;
+    var all = document.querySelectorAll('p, li, blockquote, dd, figcaption');
+    var els = [];
+    for (var i = 0; i < all.length; i++) {
+      // Footnote destinations are read back as innerHTML and posted to the
+      // FootnoteSheet (see the anchor-click handler); justified segs would
+      // arrive there as span soup with inline word-spacing.
+      if (all[i].closest('[data-footnotes], .footnotes')) continue;
+      els.push(all[i]);
+    }
+    if (!els.length) return;
+    // Why a paragraph kept native layout, for field diagnosis — justif's own
+    // debug channel, kept because the chapter document is otherwise
+    // unreachable from the host (foliate's shadow root is closed).
+    window.__justifSkips = [];
+    window.__justifRun = function () {
+      if (window.__justifCtl) return true;
+      if (!document.body || !document.body.clientWidth) return false;
+      // Only elements computing to text-align: justify are enhanced, so the
+      // reader's "left" setting turns this into a no-op on its own.
+      window.__justifCtl = J.justify(els, {
+        hyphenate: hy,
+        hangingPunctuation: 'first-line-and-line-ends',
+        onSkip: function (el, why) { window.__justifSkips.push(String(why)); },
+      });
+      return true;
+    };
+    if (!window.__justifRun() && window.ResizeObserver) {
+      var ro = new ResizeObserver(function () {
+        if (window.__justifRun()) {
+          ro.disconnect();
+          if (window.__onJustified) window.__onJustified();
+        }
+      });
+      ro.observe(document.body);
+    }
+  }catch(e){}})();`;
+
+  // A literal closing script tag inside an injected script would end the tag
+  // early and dump the rest of the bundle into the DOM as text.
+  //
+  // NOTE: this whole file is embedded by the host inside a script element, and
+  // JSON.stringify does NOT escape `/`. So the closing-tag character sequence
+  // must never appear literally ANYWHERE in this file — comments included, or
+  // the host script terminates there ("Unexpected end of input"). Write it
+  // split, as below, if you ever need it.
+  const inlineScript = (src) => '<scr' + 'ipt>' + src.replace(/<\/script/gi, '<\\/script') + '</scr' + 'ipt>';
+
   // foliate's iframe.src = blob:URL. Wrap each chapter HTML in a minimal
   // document so the paginator can read computed background / direction.
   const blobUrl = (body) =>
@@ -136,8 +205,11 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
           '"><head><meta charset="utf-8">',
           '<style>',
           buildStyle(cfg),
-          '</style></head><body>',
+          '</style>',
+          inlineScript(justifSrc),
+          '</head><body>',
           body,
+          inlineScript(justifInit(cfg.lang)),
           '</body></html>',
         ],
         { type: 'text/html' },
@@ -145,13 +217,19 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     );
 
   // --- Plain-text anchor scheme (mirrors highlightAnchor.ts on the RN side).
+  // SCRIPT/STYLE text is skipped: the justif bundle and its init are injected
+  // into the chapter document, and their source would otherwise count toward
+  // the character offsets that anchors are expressed in — diverging from the
+  // RN side, which walks the same chapter HTML without them. They currently
+  // sit last in <body> so offsets happen to line up, but that is luck, not a
+  // guarantee.
   const walkText = (root, visit) => {
     let n = root.firstChild;
     while (n) {
       if (n.nodeType === 3) {
         const out = visit(n);
         if (out !== undefined) return out;
-      } else if (n.firstChild) {
+      } else if (n.firstChild && n.nodeName !== 'SCRIPT' && n.nodeName !== 'STYLE') {
         const out = walkText(n, visit);
         if (out !== undefined) return out;
       }
@@ -605,8 +683,41 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       wireSelectionListener(doc, e.detail.index);
       wireTapZones(doc);
       wireOverscroll(doc);
+      settleJustif(doc);
     });
     document.body.append(paginator);
+  };
+
+  // Justif runs at parse time inside the chapter document, but foliate has
+  // not sized the iframe yet at that point — so it declines every paragraph
+  // with "zero content width". By the time `load` fires the real measure
+  // exists, and rescan() is the documented way to reconsider paragraphs it
+  // previously declined. Height changes after that (rescan itself, then any
+  // late web font) invalidate the size foliate already measured, so re-render
+  // — render() re-anchors to the last visible Range, so position survives.
+  const settleJustif = (doc) => {
+    const win = doc && doc.defaultView;
+    if (!win || !win.__justifRun) return;
+    // render() re-enters this handler; one settle per document is enough.
+    if (win.__justifSettled) return;
+    win.__justifSettled = true;
+    const before = doc.body ? doc.body.scrollHeight : 0;
+    const relayout = () => {
+      const after = doc.body ? doc.body.scrollHeight : 0;
+      if (after !== before && paginator) paginator.render();
+    };
+    // Foliate has laid the section out by now, so the measure is real.
+    // If it somehow still isn't, the chapter's own ResizeObserver picks it
+    // up and calls back through __onJustified.
+    win.__onJustified = relayout;
+    try {
+      win.__justifRun();
+    } catch (e) {
+      /* justification must never block chapter display */
+    }
+    relayout();
+    const ctl = win.__justifCtl;
+    if (ctl && ctl.ready && ctl.ready.then) ctl.ready.then(relayout).catch(() => {});
   };
 
   // In scrolled mode our posted fraction is normalized over the SCROLLABLE
@@ -708,6 +819,21 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
         if (s.url) { URL.revokeObjectURL(s.url); s.url = undefined; }
       }
       paginator.setStyles(buildStyle(cfg));
+      // The live chapter's justified lines were spaced against the OLD font
+      // metrics — setStyles alone leaves stale word-spacing behind. rescan()
+      // re-reads author CSS and re-lays out only the paragraphs whose styling
+      // actually changed, and reconsiders any it previously declined (so
+      // switching align left → justify enhances them here).
+      for (const c of paginator.getContents()) {
+        const ctl = c.doc && c.doc.defaultView && c.doc.defaultView.__justifCtl;
+        if (ctl) {
+          try {
+            ctl.rescan();
+          } catch (e) {
+            /* a stale controller must never block a settings change */
+          }
+        }
+      }
     },
     setHighlights: (list) => {
       highlightsByChapter.clear();

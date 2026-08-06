@@ -34,13 +34,6 @@ jobs:
       - name: Install image tools
         run: sudo apt-get update && sudo apt-get install -y webp
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Fetch CCC from upstream
-        run: npx tsx scripts/fetch-ccc.ts
-
       - name: Stage Hearth files
         run: |
           cp -r content _site_hearth
@@ -50,8 +43,8 @@ jobs:
           mkdir -p _site/hearth/v2
           mv _site_hearth/index.html _site/index.html
 
-          # Auxiliary content served alongside the corpus (Bible, CCC, EF propers, etc.)
-          for d in art bible catechism lectionary propers saints; do
+          # Auxiliary content served alongside the corpus (Bible, sacred art, EF propers, etc.)
+          for d in art bible lectionary propers saints; do
             if [ -d "_site_hearth/$d" ]; then
               mv "_site_hearth/$d" "_site/hearth/v2/$d"
             fi

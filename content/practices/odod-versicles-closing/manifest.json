@@ -1,16 +1,45 @@
 {
-	"id": "odod-versicles-closing",
-	"name": {
-		"en-US": "Versicles"
-	},
-	"flow": {
-		"sections": [
-			{
-				"type": "versicle",
-				"inline": {
-					"en-US": "℣ From the gate of hell.\n℟ Deliver his soul, O Lord.\n℣ May he rest in peace.\n℟ Amen.\n℣ The Lord be with you.\n℟ And with thy spirit.\n℣ Let us pray."
-				}
-			}
-		]
-	}
+  "id": "odod-versicles-closing",
+  "name": {
+    "en-US": "Versicles"
+  },
+  "flow": {
+    "sections": [
+      {
+        "type": "response",
+        "verses": [
+          {
+            "v": {
+              "en-US": "From the gate of hell."
+            },
+            "r": {
+              "en-US": "Deliver his soul, O Lord."
+            }
+          },
+          {
+            "v": {
+              "en-US": "May he rest in peace."
+            },
+            "r": {
+              "en-US": "Amen."
+            }
+          },
+          {
+            "v": {
+              "en-US": "The Lord be with you."
+            },
+            "r": {
+              "en-US": "And with thy spirit."
+            }
+          }
+        ]
+      },
+      {
+        "type": "prayer",
+        "inline": {
+          "en-US": "Let us pray."
+        }
+      }
+    ]
+  }
 }

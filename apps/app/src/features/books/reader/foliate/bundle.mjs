@@ -108,6 +108,18 @@ console.log(`wrote paginatorScript.ts (${paginatorOut.length} bytes)`)
 
 const bootstrapRaw = readFileSync(join(here, 'bootstrap.raw.js'), 'utf8')
 
+// Splice the vendored justif bundle into bootstrap.raw.js's `justifSrc`
+// placeholder. It rides inside the bootstrap rather than being its own module
+// because each CHAPTER is a separate document (a blob: URL), so the library
+// has to be injected per chapter — bootstrap.raw.js is what builds that HTML.
+// JSON.stringify makes it a valid JS string literal; the whole bootstrap is
+// stringified again below, which nests cleanly.
+const justifRaw = readFileSync(join(here, 'justif.raw.js'), 'utf8')
+const bootstrapWithJustif = bootstrapRaw.replace("'__JUSTIF_SRC__'", () => JSON.stringify(justifRaw))
+if (bootstrapWithJustif === bootstrapRaw) {
+  throw new Error("bundle.mjs: '__JUSTIF_SRC__' placeholder not found in bootstrap.raw.js")
+}
+
 // Same exclusion story as paginatorScript.ts — see the note above.
 const bootstrapOut = `/**
  * Foliate reader bootstrap. Source lives in bootstrap.raw.js; this file is
@@ -115,7 +127,7 @@ const bootstrapOut = `/**
  * line string for injection into a WebView. Do not hand-edit; re-run
  * bundle.mjs after updating bootstrap.raw.js.
  */
-export const bootstrapScript = ${JSON.stringify(bootstrapRaw)}
+export const bootstrapScript = ${JSON.stringify(bootstrapWithJustif)}
 `
 writeFileSync(join(here, 'bootstrapScript.ts'), bootstrapOut)
 console.log(`wrote bootstrapScript.ts (${bootstrapOut.length} bytes)`)

@@ -5,6 +5,15 @@
  */
 
 import '@testing-library/jest-dom/vitest'
+import { configure as configureTestingLibrary } from '@testing-library/react'
+
+// `findBy*` defaults to a 1s timeout, independent of a test's own budget. The
+// integration tests that boot the whole app (load the catalog, warm manifests,
+// resolve a flow) routinely need longer than that once the full suite is
+// competing for CPU — which showed up as one test failing per run, but a
+// different one each time. Raise the async-util ceiling; genuinely stuck tests
+// still fail on the 20s testTimeout in vitest.config.ts.
+configureTestingLibrary({ asyncUtilTimeout: 10_000 })
 import 'fake-indexeddb/auto'
 import { afterEach, beforeAll, vi } from 'vitest'
 
@@ -572,3 +581,17 @@ vi.mock('lucide-react-native', () => {
     },
   )
 })
+
+// --- expo-web-browser: requires the ExpoWebBrowser native module at import
+// time, so merely importing a component that links out (LinkBlock, the Explore
+// feeds) throws here and takes the whole screen render down with it. ---
+vi.mock('expo-web-browser', () => ({
+  openBrowserAsync: vi.fn(async () => ({ type: 'opened' })),
+  dismissBrowser: vi.fn(),
+  WebBrowserPresentationStyle: {
+    PAGE_SHEET: 'pageSheet',
+    FULL_SCREEN: 'fullScreen',
+    FORM_SHEET: 'formSheet',
+    AUTOMATIC: 'automatic',
+  },
+}))

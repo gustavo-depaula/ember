@@ -3,157 +3,183 @@
     {
       "type": "subheading",
       "text": {
-        "en-US": "Courtesy of Alan L., AlanL399.github.io"
+        "en-US": "Courtesy of Alan L., AlanL399.github.io",
+        "pt-BR": "Cortesia de Alan L., AlanL399.github.io"
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Incipit"
+        "la": "Incipit",
+        "pt-BR": "Início"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Esto nobis domine in deum protectorem.\n℟. Esto nobis domine in deum protectorem.\n℣. Esto nobis domine in deum protectorem.\n℟. Gloria, et honor Patri, et Filio, et Spiritui Sancto.\n℣. Esto nobis domine in deum protectorem.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\n℣. Saluos nos fac ut confiteamur.\n℟. Benedictus dominus deus."
+        "la": "℣. Esto nobis domine in deum protectorem.\n℟. Esto nobis domine in deum protectorem.\n℣. Esto nobis domine in deum protectorem.\n℟. Gloria, et honor Patri, et Filio, et Spiritui Sancto.\n℣. Esto nobis domine in deum protectorem.\n℟. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.\n℣. Saluos nos fac ut confiteamur.\n℟. Benedictus dominus deus.",
+        "pt-BR": "℣. Sede para nós, Senhor, um Deus protetor.\n℟. Sede para nós, Senhor, um Deus protetor.\n℣. Sede para nós, Senhor, um Deus protetor.\n℟. Glória e honra ao Pai, e ao Filho, e ao Espírito Santo.\n℣. Sede para nós, Senhor, um Deus protetor.\n℟. Assim como era no princípio, agora e sempre, e por todos os séculos dos séculos. Amém.\n℣. Salvai-nos, para que vos louvemos.\n℟. Bendito seja o Senhor Deus."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Lauda"
+        "la": "Lauda",
+        "pt-BR": "Lauda"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo."
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.",
+        "pt-BR": "℣. O Senhor esteja sempre convosco.\n℟. E com o vosso espírito."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Alleluia. Dignare domine noctem istam sine tribulatione et a peccato nos custodire.\n℣. Alleluia.\n℟. Fiat domine misericordia tua super nos sicut sperabimus in te.\n℣. Alleluia."
+        "la": "Alleluia. Dignare domine noctem istam sine tribulatione et a peccato nos custodire.\n℣. Alleluia.\n℟. Fiat domine misericordia tua super nos sicut sperabimus in te.\n℣. Alleluia.",
+        "pt-BR": "Aleluia. Dignai-vos, Senhor, guardar-nos esta noite sem tribulação e sem pecado.\n℣. Aleluia.\n℟. Venha sobre nós, Senhor, a vossa misericórdia, como em vós esperamos.\n℣. Aleluia."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Nota, quod in tempore Quadragesimae non dicitur Alleluia in ista Lauda, sed dicitur Laus tibi domine, Rex eterne glorie."
+        "la": "Nota, quod in tempore Quadragesimae non dicitur Alleluia in ista Lauda, sed dicitur Laus tibi domine, Rex eterne glorie.",
+        "pt-BR": "Note-se que, no tempo da Quaresma, não se diz Aleluia nesta Lauda, mas diz-se: Louvor a vós, Senhor, Rei da glória eterna."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Hymnus"
+        "la": "Hymnus",
+        "pt-BR": "Hino"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Tempus sopori congruum\nadest, quies sit corporum,\nstratum rigemus lacrimis,\nlectum lauemus fletibus."
+        "la": "Tempus sopori congruum\nadest, quies sit corporum,\nstratum rigemus lacrimis,\nlectum lauemus fletibus.",
+        "pt-BR": "Chegou o tempo próprio ao sono;\nhaja repouso para os corpos.\nReguemos de lágrimas o leito,\nlavemo-lo com o nosso pranto."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Preceliamus simbolum\nsuccedat hinc oratio;\nhinc osculantes inuicem\narmemur ipsi per crucem."
+        "la": "Preceliamus simbolum\nsuccedat hinc oratio;\nhinc osculantes inuicem\narmemur ipsi per crucem.",
+        "pt-BR": "Cantemos primeiro o Símbolo,\ne siga-se depois a oração;\ne, saudando-nos uns aos outros,\narmemo-nos com a cruz."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Sic fessa membra lectulo\ndemus sub illo iudice,\nqui sic quiescentes excubat,\nut dormientes protegat."
+        "la": "Sic fessa membra lectulo\ndemus sub illo iudice,\nqui sic quiescentes excubat,\nut dormientes protegat.",
+        "pt-BR": "Assim entreguemos ao leito\nos membros cansados, sob aquele Juiz\nque de tal modo vela sobre os que repousam,\nque protege os que dormem."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Discede turba demonum,\nliquesce ars satellitum\nper nomen hoc crucis sacre,\natque tuosque dissice."
+        "la": "Discede turba demonum,\nliquesce ars satellitum\nper nomen hoc crucis sacre,\natque tuosque dissice.",
+        "pt-BR": "Aparta-te, turba de demônios;\ndesfaça-se a arte dos teus sequazes\npor este nome da sagrada cruz,\ne sejam dispersos os teus."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "At tu creator omnium\nprocul repelle inuidum,\naduersa cuncta dissices,\ntranquilla queque conferas."
+        "la": "At tu creator omnium\nprocul repelle inuidum,\naduersa cuncta dissices,\ntranquilla queque conferas.",
+        "pt-BR": "E vós, Criador de todas as coisas,\nafastai para longe o invejoso;\ndissipai todas as adversidades\ne concedei-nos toda tranquilidade."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Praesta, Pater Piissime,\nPatrique compar Unice,\nCum Spiritu Paraclito\nRegnans per omne saeculum."
+        "la": "Praesta, Pater Piissime,\nPatrique compar Unice,\nCum Spiritu Paraclito\nRegnans per omne saeculum.",
+        "pt-BR": "Concedei-o, Pai piedosíssimo,\ne vós, Filho Unigênito igual ao Pai,\nque com o Espírito Paráclito\nreinais por todos os séculos."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Amen."
+        "la": "Amen.",
+        "pt-BR": "Amém."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Credo, Versus, Kyrie, et Pater"
+        "la": "Credo, Versus, Kyrie, et Pater",
+        "pt-BR": "Credo, Versículo, Kyrie e Pai-Nosso"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Credo in Deum Patrem omnipotentem. Et in Ihesum Christum filium eius, unicum Deum et Dominum nostrum. Qui natus est de Spiritu Sancto et Maria Virgine. Passus sub Pontio Pilato, crucifixus et sepultus. Descendit ad inferna. Tertia die resurrexit viuus a mortuis. Ascendit ad coelos, sedet ad dexteram Dei patris omnipotentis. Inde venturus iudicare viuos et mortuos. Credo in Sanctum Spiritum. Sanctam Ecclesiam Catholicam. Remissionem omnium peccatorum. Carnis huius resurrectionem et vitam aeternam.\nAmen."
+        "la": "Credo in Deum Patrem omnipotentem. Et in Ihesum Christum filium eius, unicum Deum et Dominum nostrum. Qui natus est de Spiritu Sancto et Maria Virgine. Passus sub Pontio Pilato, crucifixus et sepultus. Descendit ad inferna. Tertia die resurrexit viuus a mortuis. Ascendit ad coelos, sedet ad dexteram Dei patris omnipotentis. Inde venturus iudicare viuos et mortuos. Credo in Sanctum Spiritum. Sanctam Ecclesiam Catholicam. Remissionem omnium peccatorum. Carnis huius resurrectionem et vitam aeternam.\nAmen.",
+        "pt-BR": "Creio em Deus Pai todo-poderoso. E em Jesus Cristo, seu Filho único, nosso Deus e Senhor. Que nasceu do Espírito Santo e da Virgem Maria. Padeceu sob Pôncio Pilatos, foi crucificado e sepultado. Desceu aos infernos. Ao terceiro dia ressuscitou vivo dentre os mortos. Subiu aos céus, está sentado à direita de Deus Pai todo-poderoso. Donde há de vir julgar os vivos e os mortos. Creio no Espírito Santo. Na santa Igreja Católica. Na remissão de todos os pecados. Na ressurreição desta carne e na vida eterna.\nAmém."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Custodi nos domine ut pupillam oculi sub umbra alarum tuarum protege nos."
+        "la": "℣. Custodi nos domine ut pupillam oculi sub umbra alarum tuarum protege nos.",
+        "pt-BR": "℣. Guardai-nos, Senhor, como a pupila dos olhos; protegei-nos à sombra das vossas asas."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Kyrie eleison\n℟. Kyrie eleison.\n℣. Kyrie eleison."
+        "la": "℣. Kyrie eleison\n℟. Kyrie eleison.\n℣. Kyrie eleison.",
+        "pt-BR": "℣. Senhor, tende piedade.\n℟. Senhor, tende piedade.\n℣. Senhor, tende piedade."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Pater noster, qui es in caelis.\n℟. Amen.\n℣. Sanctificetur nomen tuum.\n℟. Amen.\n℣. Adveniat regnum tuum.\n℟. Amen.\n℣. Fiat voluntas tua, sicut in caelo, et in terra.\n℟. Amen.\n℣. Panem nostrum quotidianum da nobis hodie.\n℟. Quia Deus es.\n℣. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris.\n℟. Amen.\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo."
+        "la": "℣. Pater noster, qui es in caelis.\n℟. Amen.\n℣. Sanctificetur nomen tuum.\n℟. Amen.\n℣. Adveniat regnum tuum.\n℟. Amen.\n℣. Fiat voluntas tua, sicut in caelo, et in terra.\n℟. Amen.\n℣. Panem nostrum quotidianum da nobis hodie.\n℟. Quia Deus es.\n℣. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris.\n℟. Amen.\n℣. Et ne nos inducas in tentationem.\n℟. Sed libera nos a malo.",
+        "pt-BR": "℣. Pai nosso, que estais nos céus.\n℟. Amém.\n℣. Santificado seja o vosso nome.\n℟. Amém.\n℣. Venha a nós o vosso reino.\n℟. Amém.\n℣. Seja feita a vossa vontade, assim na terra como no céu.\n℟. Amém.\n℣. O pão nosso de cada dia dai-nos hoje.\n℟. Porque sois Deus.\n℣. E perdoai-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores.\n℟. Amém.\n℣. E não nos deixeis cair em tentação.\n℟. Mas livrai-nos do mal."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Clamores (Preces)"
+        "la": "Clamores (Preces)",
+        "pt-BR": "Clamores (Preces)"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere."
+        "la": "Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere, Deus misere.",
+        "pt-BR": "Ó Deus, tende piedade; ó Deus, tende piedade; ó Deus, tende piedade; ó Deus, tende piedade; ó Deus, tende piedade; ó Deus, tende piedade; ó Deus, tende piedade; ó Deus, tende piedade; ó Deus, tende piedade."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Oratio"
+        "la": "Oratio",
+        "pt-BR": "Oração"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\nMiserere nobis domine miserere nobis et kariatis dulcedine corde nostra perfunde. Quo pacis tue semper conexione firmati. antiqui hostis in cordibus nostris aditus non pateat introeundi. sed sic semper protectionis tuae uelamine tueamur. ut ubique angelorum tuorum excubiis muniarum. Ut si fessa membra quieberint. spiritus tibi uigilet semper. Vigilate tua custodia deus noster qui uiuis.\n℟. Amen."
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\nMiserere nobis domine miserere nobis et kariatis dulcedine corde nostra perfunde. Quo pacis tue semper conexione firmati. antiqui hostis in cordibus nostris aditus non pateat introeundi. sed sic semper protectionis tuae uelamine tueamur. ut ubique angelorum tuorum excubiis muniarum. Ut si fessa membra quieberint. spiritus tibi uigilet semper. Vigilate tua custodia deus noster qui uiuis.\n℟. Amen.",
+        "pt-BR": "℣. O Senhor esteja sempre convosco.\n℟. E com o vosso espírito.\nTende piedade de nós, Senhor, tende piedade de nós, e inundai os nossos corações com a doçura da caridade; para que, firmados sempre no vínculo da vossa paz, não se abra em nossos corações entrada alguma ao antigo inimigo, mas de tal modo sejamos sempre resguardados pelo véu da vossa proteção, que em toda parte nos guarneça a vigília dos vossos anjos. De sorte que, se os membros cansados repousarem, o espírito vele sempre para vós. Velai sobre nós com a vossa guarda, ó nosso Deus, que viveis.\n℟. Amém."
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\n℣. In nomine Domini nostri Ihesu Christi eamus et requiescamus in pace.\n℟. Deo gratias."
+        "la": "℣. Dominus sit semper vobiscum.\n℟. Et cum spiritu tuo.\n℣. In nomine Domini nostri Ihesu Christi eamus et requiescamus in pace.\n℟. Deo gratias.",
+        "pt-BR": "℣. O Senhor esteja sempre convosco.\n℟. E com o vosso espírito.\n℣. Em nome de nosso Senhor Jesus Cristo, vamos e repousemos em paz.\n℟. Graças a Deus."
       }
     },
     {
       "type": "rubric",
       "text": {
-        "la": "Post hec date abinuicem veniam absoluit decanus et uadunt ad lectos et requiscunt."
+        "la": "Post hec date abinuicem veniam absoluit decanus et uadunt ad lectos et requiscunt.",
+        "pt-BR": "Depois disto, pedindo-se perdão uns aos outros, o decano dá a absolvição, e vão para os leitos e repousam."
       }
     }
   ]

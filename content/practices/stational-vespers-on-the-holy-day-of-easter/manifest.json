@@ -2,14 +2,16 @@
   "id": "stational-vespers-on-the-holy-day-of-easter",
   "icon": "prayer",
   "name": {
-    "en-US": "Stational Vespers on the Holy Day of Easter according to the Parisian Rite followed by Baptismal Vespers"
+    "en-US": "Stational Vespers on the Holy Day of Easter according to the Parisian Rite followed by Baptismal Vespers",
+    "pt-BR": "Vésperas estacionais do santo dia da Páscoa"
   },
   "categories": [
     "office"
   ],
   "estimatedMinutes": 6,
   "description": {
-    "en-US": "A traditional little office in honour of Stational Vespers on the Holy Day of Easter according to the Parisian Rite followed by Baptismal Vespers."
+    "en-US": "A traditional little office in honour of Stational Vespers on the Holy Day of Easter according to the Parisian Rite followed by Baptismal Vespers.",
+    "pt-BR": "As segundas Vésperas do Domingo de Páscoa segundo o Breviário Parisiense, com as procissões à fonte batismal e à Cruz."
   },
   "flowMode": "scroll",
   "completion": "flow-end",

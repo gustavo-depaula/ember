@@ -18,7 +18,7 @@ export function BilingualBlock({
   renderText,
 }: {
   content: BilingualText
-  renderText: (text: string) => React.ReactNode
+  renderText: (text: string, side: 'primary' | 'secondary') => React.ReactNode
 }) {
   const displayMode = usePreferencesStore((s) => s.displayMode)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
@@ -27,7 +27,7 @@ export function BilingualBlock({
   if (!content.secondary || !secondaryLanguage) {
     return (
       <YStack>
-        {renderText(content.primary)}
+        {renderText(content.primary, 'primary')}
         {content.secondaryMissing && secondaryLanguage && (
           <Text
             fontFamily="$heading"
@@ -46,10 +46,10 @@ export function BilingualBlock({
   if (displayMode === 'side-by-side') {
     return (
       <XStack gap="$sm">
-        <YStack flex={1}>{renderText(content.primary)}</YStack>
+        <YStack flex={1}>{renderText(content.primary, 'primary')}</YStack>
         <View width={1} backgroundColor="$borderColor" />
         <YStack flex={1} opacity={0.85}>
-          {renderText(content.secondary)}
+          {renderText(content.secondary, 'secondary')}
         </YStack>
       </XStack>
     )
@@ -77,7 +77,7 @@ function TapToSwitch({
   secondary: string
   primaryLanguage: ContentLanguage
   secondaryLanguage: ContentLanguage
-  renderText: (text: string) => React.ReactNode
+  renderText: (text: string, side: 'primary' | 'secondary') => React.ReactNode
 }) {
   const { t } = useTranslation()
   const [showSecondary, setShowSecondary] = useState(false)
@@ -104,14 +104,14 @@ function TapToSwitch({
         aria-label={a11yLabel}
         style={webTapStyle}
       >
-        {renderText(activeText)}
+        {renderText(activeText, showSecondary ? 'secondary' : 'primary')}
       </div>
     )
   }
 
   return (
     <Pressable onPress={toggle} accessibilityRole="button" accessibilityLabel={a11yLabel}>
-      {renderText(activeText)}
+      {renderText(activeText, showSecondary ? 'secondary' : 'primary')}
     </Pressable>
   )
 }

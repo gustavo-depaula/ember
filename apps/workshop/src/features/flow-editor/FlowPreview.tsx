@@ -212,6 +212,29 @@ function PreviewSection({ section }: { section: RenderedSection }) {
     case 'prayer':
       return <PrayerBlock section={section} />
 
+    case 'psalm':
+      // Mirrors the app's cento style: the citation reads as a muted lead-in on
+      // the verse's own line, not as prayed text.
+      return (
+        <div className={styles.responseBlock}>
+          {section.verses.map((verse, i) => (
+            // biome-ignore lint/suspicious/noArrayIndexKey: read-only rendered list
+            <div key={i} className={styles.versePair}>
+              <div className={styles.versicleRow}>
+                {verse.ref && (
+                  <span className={styles.versicleSymbol} aria-hidden>
+                    <Bilingual text={verse.ref} />
+                  </span>
+                )}
+                <div style={{ flex: 1 }}>
+                  <Bilingual text={verse.text} />
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )
+
     case 'response':
       return (
         <div className={styles.responseBlock}>
