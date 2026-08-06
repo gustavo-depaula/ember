@@ -22,7 +22,7 @@
     "pt-BR": "Esta é uma referência para as partes fixas (ordinárias) da Missa. Use-a para acompanhar durante a Missa, especialmente para aprender as respostas. As partes variáveis — leituras, próprios e a homilia — são mostradas como marcadores. As orações são exibidas no idioma selecionado com o original em latim abaixo de cada texto."
   },
   "flowMode": "scroll",
-  "completion": "manual",
+  "completion": "flow-end",
   "flow": "flow.json",
   "tags": [
     "mass",
