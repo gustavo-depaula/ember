@@ -1450,7 +1450,6 @@ export default {
     },
     profiler: {
       marker: 'Segundo',
-      next: 'Próxima',
       title: 'Onde você está?',
       subtitle:
         'Algumas perguntas simples para sugerirmos um bom ponto de partida. Nada é definitivo.',
@@ -1491,7 +1490,6 @@ export default {
       subtitle:
         'Uma leitura de formação para aprender a fé. Sugerimos uma — escolha a que combina com você.',
       recommended: 'Sugerido para você',
-      chosen: 'Sua leitura',
       otherReadings: 'Outras leituras',
       tag: {
         program: 'Plano diário',

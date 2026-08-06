@@ -1,5 +1,4 @@
-import { useCallback, useRef, useState } from 'react'
-import { useTranslation } from 'react-i18next'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { FlatList, type LayoutChangeEvent, StyleSheet } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { YStack } from 'tamagui'
@@ -11,7 +10,7 @@ import { blockInk, blockLabelInk } from '@/features/explore/bgColor'
 import { selectionTick } from '@/lib/haptics'
 
 import { ArtFace } from './ArtFace'
-import { PrimaryButton, SkipButton } from './OnboardingButtons'
+import { SkipButton } from './OnboardingButtons'
 import { Dots } from './OnboardingProgress'
 import { VigilShell } from './OnboardingScaffold'
 
@@ -28,8 +27,11 @@ export type DeckQuestion<T extends string> = {
 /**
  * A few questions asked one painting at a time. Each face is a full-bleed work
  * with the question set over its darkened foot and the answers as large serif
- * lines — no pills, no form chrome. Answering turns the page, so the deck reads
- * as a short conversation rather than a survey.
+ * lines — no pills, no form chrome.
+ *
+ * There is no Continue: an answer is a single choice, so tapping one *is* the
+ * commit. It turns the page, and the last one leaves the deck. A confirm button
+ * after a radio choice only asks the user to say the same thing twice.
  */
 export function ArtQuestionDeck({
   questions,
@@ -41,14 +43,16 @@ export function ArtQuestionDeck({
   onDone: () => void
   onSkip: () => void
 }) {
-  const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const [size, setSize] = useState({ width: 0, height: 0 })
   const [active, setActive] = useState(0)
   const listRef = useRef<FlatList<DeckQuestion<string>>>(null)
   const lastIndex = useRef(0)
   const autoTurned = useRef(false)
-  const isLast = active >= questions.length - 1
+  // Cleared on unmount so a page turn can't fire onto a dead component when the
+  // user taps an answer and Skip inside the same beat.
+  const timers = useRef(new Set<ReturnType<typeof setTimeout>>())
+  useEffect(() => () => timers.current.forEach(clearTimeout), [])
 
   const onLayout = useCallback((e: LayoutChangeEvent) => {
     const { width, height } = e.nativeEvent.layout
@@ -77,6 +81,13 @@ export function ArtQuestionDeck({
     listRef.current?.scrollToOffset({ offset: i * size.width, animated: true })
   }
 
+  // Answering moves on: the next question, or out of the deck on the last.
+  const advance = (index: number) => {
+    const isFinal = index >= questions.length - 1
+    const timer = setTimeout(() => (isFinal ? onDone() : turnTo(index + 1)), 260)
+    timers.current.add(timer)
+  }
+
   return (
     <VigilShell>
       <YStack flex={1} backgroundColor="$background" onLayout={onLayout}>
@@ -98,8 +109,8 @@ export function ArtQuestionDeck({
                 insetTop={insets.top}
                 onAnswer={(value) => {
                   item.onAnswer(value)
-                  // A beat so the gold mark lands before the page turns.
-                  if (index < questions.length - 1) setTimeout(() => turnTo(index + 1), 260)
+                  // A beat so the fleuron lands before the page turns.
+                  advance(index)
                 }}
               />
             )}
@@ -116,13 +127,7 @@ export function ArtQuestionDeck({
           gap="$md"
         >
           <Dots count={questions.length} activeIndex={active} fill={false} />
-          <YStack gap="$sm">
-            <PrimaryButton
-              label={isLast ? t('common.continue') : t('onboarding.profiler.next')}
-              onPress={() => (isLast ? onDone() : turnTo(active + 1))}
-            />
-            <SkipButton onPress={onSkip} />
-          </YStack>
+          <SkipButton onPress={onSkip} />
         </YStack>
       </YStack>
     </VigilShell>

@@ -1441,7 +1441,6 @@ export default {
     },
     profiler: {
       marker: 'Second',
-      next: 'Next',
       title: 'Where are you?',
       subtitle: 'A few gentle questions so we can suggest a good starting point. Nothing is fixed.',
       prayer: {
@@ -1481,7 +1480,6 @@ export default {
       subtitle:
         'A formation reading to learn the faith. We suggest one — choose whichever fits you.',
       recommended: 'Suggested for you',
-      chosen: 'Your reading',
       otherReadings: 'Other readings',
       tag: {
         program: 'Daily plan',

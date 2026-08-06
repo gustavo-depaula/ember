@@ -1,5 +1,4 @@
 import { useRouter } from 'expo-router'
-import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { XStack, YStack } from 'tamagui'
 
@@ -59,7 +58,6 @@ export default function OnboardingFormationScreen() {
   const createPractice = useCreatePractice()
 
   const recommended = recommendFormation({ prayerStage, formationStage, time })
-  const [selected, setSelected] = useState<FormationOptionId>(recommended)
   const busy = enableSlots.isPending || createPractice.isPending
 
   const featured = formationOptions.find((o) => o.id === recommended)
@@ -85,12 +83,14 @@ export default function OnboardingFormationScreen() {
     // ccc: nothing to enroll — the Catechism reader is always available.
   }
 
-  async function onContinue() {
+  // Choosing a reading *is* the commit — the same as choosing a tradition on the
+  // step before. A confirm button after a single choice only asks the user to say
+  // the same thing twice.
+  async function choose(opt: FormationOption) {
     if (busy) return
-    const opt = formationOptions.find((o) => o.id === selected)
     // A failed enrolment must not strand the user mid-flow: the reading is a
     // suggestion, and everything here is reachable later from the library.
-    if (opt) await enroll(opt).catch((err) => console.warn('[onboarding] enroll failed:', err))
+    await enroll(opt).catch((err) => console.warn('[onboarding] enroll failed:', err))
     router.push(nextRoute('formation'))
   }
 
@@ -100,20 +100,11 @@ export default function OnboardingFormationScreen() {
       title={t('onboarding.formation.title')}
       subtitle={t('onboarding.formation.subtitle')}
       progress={stepProgress('formation')}
-      onContinue={onContinue}
-      continueDisabled={busy}
       onSkip={() => router.push(nextRoute('formation'))}
       skipLabel={t('common.notNow')}
     >
-      <YStack gap="$xl">
-        {featured ? (
-          <Reading
-            opt={featured}
-            featured
-            selected={selected === featured.id}
-            onSelect={setSelected}
-          />
-        ) : null}
+      <YStack gap="$xl" opacity={busy ? 0.5 : 1}>
+        {featured ? <Reading opt={featured} featured onChoose={choose} /> : null}
 
         <YStack gap="$md">
           <Typography
@@ -128,7 +119,7 @@ export default function OnboardingFormationScreen() {
           <XStack flexWrap="wrap" justifyContent="space-between" rowGap="$lg">
             {others.map((opt) => (
               <YStack key={opt.id} width="48%">
-                <Reading opt={opt} selected={selected === opt.id} onSelect={setSelected} />
+                <Reading opt={opt} onChoose={choose} />
               </YStack>
             ))}
           </XStack>
@@ -141,13 +132,11 @@ export default function OnboardingFormationScreen() {
 function Reading({
   opt,
   featured = false,
-  selected,
-  onSelect,
+  onChoose,
 }: {
   opt: FormationOption
   featured?: boolean
-  selected: boolean
-  onSelect: (id: FormationOptionId) => void
+  onChoose: (opt: FormationOption) => void
 }) {
   const { t } = useTranslation()
   const choice = useReadingChoice(opt.id)
@@ -156,29 +145,24 @@ function Reading({
     <AnimatedPressable
       onPress={() => {
         selectionTick()
-        onSelect(opt.id)
+        onChoose(opt)
       }}
-      accessibilityRole="radio"
-      accessibilityState={{ selected }}
+      accessibilityRole="button"
       accessibilityLabel={choice.title}
     >
       {featured ? (
         <ArtChoiceFeatureCard
           choice={choice}
-          selected={selected}
           // A saint card is a whole illuminated page on a cream ground — its
           // name belongs beneath it, not set over it in cream. The art is
           // 1024×1535 (0.667); a hair wider only trims the printed border.
           overlay={false}
           aspectRatio={0.72}
-          marker={`${t(tagKey(opt))} · ${
-            selected ? t('onboarding.formation.chosen') : t('onboarding.formation.recommended')
-          }`}
+          marker={`${t(tagKey(opt))} · ${t('onboarding.formation.recommended')}`}
         />
       ) : (
         <ArtChoiceCard
           choice={choice}
-          selected={selected}
           aspectRatio={0.72}
           marker={t(tagKey(opt))}
           // A catechism's full title is long — hero size breaks it mid-word in

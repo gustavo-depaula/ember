@@ -137,6 +137,23 @@ list's height.
 Vector ornament was tried at the close (`CandleFlame`, then a bare ✠) and read as
 computer-made against a flow built from paintings. Use the art.
 
+### A single choice needs no Continue
+
+Where a step asks for one thing, choosing it *is* the commit — a confirm button
+after a radio choice only asks the user to say the same thing twice. So the
+profiler's answers turn the page (the last one leaves the deck), and tapping a
+reading enrols it and advances, matching the tradition step, which already worked
+that way.
+
+Continue survives only where it's load-bearing:
+
+| Step | Why |
+|---|---|
+| Language | multi-select — "languages you read" has no natural moment of completion |
+| Notifications | the CTA is a verb (*Enable reminders*), not a confirmation |
+| Intro slides | it turns the page; a first-run user needs the affordance |
+| Done | *Begin* is the act itself |
+
 ### Gold is rationed
 
 `PrimaryButton` is **outlined** everywhere and fills only for the closing **Begin**.
