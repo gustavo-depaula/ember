@@ -54,14 +54,19 @@ export async function getDrbBooks(): Promise<Book[]> {
 // Bolls.life book list cache (in-memory, per session)
 const bollsBookCache = new Map<string, BollsBook[]>()
 
+async function getBollsBooks(translation: string): Promise<BollsBook[]> {
+  const cached = bollsBookCache.get(translation)
+  if (cached) return cached
+
+  const books = await fetchBooks(translation)
+  bollsBookCache.set(translation, books)
+  return books
+}
+
 export async function getBooks(translation: string): Promise<Book[]> {
   if (translation === 'DRB') return getDrbBooks()
 
-  let bollsBooks = bollsBookCache.get(translation)
-  if (!bollsBooks) {
-    bollsBooks = await fetchBooks(translation)
-    bollsBookCache.set(translation, bollsBooks)
-  }
+  const bollsBooks = await getBollsBooks(translation)
 
   return bollsBooks.map((b) => ({
     id: String(b.bookid),
@@ -76,8 +81,27 @@ export type ChapterResult = {
   fallback?: boolean
 }
 
+// The seven books a Protestant canon omits. Everything else keeps its place, so
+// dropping these from the DRB's 73 yields the 66-book order exactly.
+const deuterocanonical = new Set([
+  'tobias',
+  'judith',
+  'wisdom',
+  'ecclesiasticus',
+  'baruch',
+  '1-machabees',
+  '2-machabees',
+])
+
 // Resolve a bookId to a Bolls numeric ID. bookId can be either a numeric string
 // (from the Bible reader) or a DRB slug (from lectio track entries).
+//
+// Slugs used to be resolved by matching the DRB's English book names against
+// the Bolls list — but `/get-books/` answers in the translation's own language
+// ("Mateus" under CNBB, "Evangelium secundum Matthaeum" under VULG), so outside
+// English nothing ever matched and every reading in a practice silently fell
+// back to the Douay-Rheims. Canon *order* is the one thing the translations
+// agree on, so align by position instead and read the id off the match.
 async function resolveBollsBookId(
   translation: string,
   bookId: string,
@@ -85,17 +109,28 @@ async function resolveBollsBookId(
   const numeric = Number.parseInt(bookId, 10)
   if (!Number.isNaN(numeric)) return numeric
 
-  // bookId is a DRB slug — find the matching Bolls book by name
-  let bollsBooks = bollsBookCache.get(translation)
-  if (!bollsBooks) {
-    bollsBooks = await fetchBooks(translation)
-    bollsBookCache.set(translation, bollsBooks)
-  }
   const drbBooks = await getDrbBooks()
   const drbBook = drbBooks.find((b) => b.id === bookId)
   if (!drbBook) return undefined
-  const match = bollsBooks.find((b) => b.name.toLowerCase() === drbBook.name.toLowerCase())
-  return match?.bookid
+
+  // Sorted, because alignment is only meaningful in canonical order.
+  const bollsBooks = [...(await getBollsBooks(translation))].sort((a, b) => a.bookid - b.bookid)
+  const canon =
+    bollsBooks.length === drbBooks.length
+      ? drbBooks
+      : bollsBooks.length === drbBooks.length - deuterocanonical.size
+        ? drbBooks.filter((b) => !deuterocanonical.has(b.id))
+        : undefined
+
+  const position = canon?.findIndex((b) => b.id === bookId) ?? -1
+  // A deuterocanonical book asked of a 66-book translation lands here, and
+  // rightly falls through to the bundled DRB.
+  if (position >= 0) return bollsBooks[position]?.bookid
+
+  // Unfamiliar canon shapes (NT-only editions, the Orthodox canons) get one
+  // more chance, on the off chance the names agree.
+  const byName = bollsBooks.find((b) => b.name.toLowerCase() === drbBook.name.toLowerCase())
+  return byName?.bookid
 }
 
 export async function getChapter(

@@ -296,7 +296,7 @@ export default {
     completed: 'Completed',
     amen: 'Amen',
     completing: 'Completing...',
-    fallbackNotice: 'Showing Douay-Rheims (offline) \u2014 selected translation unavailable',
+    fallbackNotice: 'Showing Douay-Rheims \u2014 selected translation unavailable here',
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
   },
 
@@ -949,7 +949,7 @@ export default {
   },
 
   bible: {
-    showingFallback: 'Showing Douay-Rheims (offline)',
+    showingFallback: 'Showing Douay-Rheims',
     chapterAbbr: 'Ch. {{n}}',
     discovery: {
       title: 'Sacred Scripture',
