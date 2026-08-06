@@ -59,4 +59,25 @@ config.resolver.resolveRequest = (context, moduleName, platform) => {
   return (upstreamResolveRequest ?? context.resolveRequest)(context, moduleName, platform)
 }
 
+// `justif` publishes import-only conditional exports: every subpath offers
+// `types` and `import`, with no `require` and no `default`. Metro's exports
+// resolver asserts `require` unless it has flagged the importer as ESM
+// (`matchSubpathFromExportsLike` in metro-resolver), so no condition matches
+// and `justif/core` resolves to nothing — the whole bundle dies at
+// `lib/typography/justifyText.ts`. Node and vite both honour `import`, which is
+// why the unit tests resolve it and Metro does not.
+//
+// Adding `import` to `unstable_conditionNames` does not lift it, so map the
+// subpaths onto the built files. Narrow on purpose: one package, and it falls
+// away the moment justif publishes a `default` condition.
+const justifDist = path.resolve(monorepoRoot, 'node_modules/justif/dist')
+const beforeJustifResolve = config.resolver.resolveRequest
+config.resolver.resolveRequest = (context, moduleName, platform) => {
+  const justif = /^justif(?:\/(.+))?$/.exec(moduleName)
+  if (justif) {
+    return { type: 'sourceFile', filePath: path.join(justifDist, `${justif[1] ?? 'index'}.js`) }
+  }
+  return (beforeJustifResolve ?? context.resolveRequest)(context, moduleName, platform)
+}
+
 module.exports = config
