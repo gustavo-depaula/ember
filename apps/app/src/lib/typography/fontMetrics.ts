@@ -1,11 +1,13 @@
 import type { ReadingFontId } from '@/config/readingFonts'
-import { fontMetrics } from './fontMetrics.generated'
+import { type FaceMetrics, fontMetrics } from './fontMetrics.generated'
+
+/** Inline emphasis styles the prayer markdown parser can produce. */
+export type TextStyleName = 'regular' | 'bold' | 'italic' | 'boldItalic'
 
 // Standard Latin f-ligatures. A font renders `ffl` as ONE narrower glyph, so
 // summing the individual advances overstates the word — by 2.5px on "afflict"
 // in EB Garamond at 22px, which is enough to overflow a line and cascade a
-// re-wrap through the rest of the paragraph. Longest first so `ffl` wins
-// over `ff`.
+// re-wrap. Longest first so `ffl` wins over `ff`.
 const ligatures: readonly (readonly [string, string])[] = [
   ['ffl', 'ﬄ'],
   ['ffi', 'ﬃ'],
@@ -21,23 +23,10 @@ export type FontMetrics = {
   charAdvance: (ch: string, fontSizePx: number) => number
 }
 
-const cache = new Map<ReadingFontId, FontMetrics | undefined>()
+const cache = new Map<string, FontMetrics | undefined>()
 
-/**
- * Advance widths for a reading font, or `undefined` when the font has no
- * generated table (callers fall back to unjustified text rather than guessing —
- * a wrong width is worse than no justification).
- */
-export function getFontMetrics(id: ReadingFontId): FontMetrics | undefined {
-  if (cache.has(id)) return cache.get(id)
-
-  const table = fontMetrics[id]
-  if (!table) {
-    cache.set(id, undefined)
-    return undefined
-  }
-
-  // Codepoint → advance, built once per font. The generated form is two
+function build(table: FaceMetrics): FontMetrics {
+  // Codepoint → advance, built once per face. The generated form is two
   // parallel arrays so the file stays small; a Map is what lookups want.
   const byCodepoint = new Map<number, number>()
   for (let i = 0; i < table.codepoints.length; i++) {
@@ -72,10 +61,41 @@ export function getFontMetrics(id: ReadingFontId): FontMetrics | undefined {
     return out
   }
 
-  const metrics: FontMetrics = {
+  return {
     width: (text, fontSizePx) => (units(substitute(text)) * fontSizePx) / perEm,
     charAdvance: (ch, fontSizePx) => (units(ch) * fontSizePx) / perEm,
   }
-  cache.set(id, metrics)
+}
+
+/**
+ * Advance widths for one face of a reading font.
+ *
+ * Returns `undefined` when the rendered width can't be known, and callers fall
+ * back to unjustified text rather than guessing — a wrong width doesn't look
+ * slightly off, it overflows the line and re-wraps the paragraph.
+ *
+ * Where the app doesn't load a real face, the platform synthesizes the
+ * emphasis, and the two synthetic styles behave differently:
+ *
+ * - **Italic** is an oblique shear. It slants the glyphs without changing their
+ *   advances, so the regular face's metrics stay exact.
+ * - **Bold** is an emboldening smear whose advance growth is platform- and
+ *   version-specific. It is not predictable from the regular face, so we
+ *   decline rather than guess.
+ */
+export function getFontMetrics(
+  id: ReadingFontId,
+  style: TextStyleName = 'regular',
+): FontMetrics | undefined {
+  const key = `${id}:${style}`
+  if (cache.has(key)) return cache.get(key)
+
+  const faces = fontMetrics[id]
+  const real = faces?.[style]
+  const syntheticItalicOk = style === 'italic' && faces?.regular
+
+  const table = real ?? (syntheticItalicOk ? faces.regular : undefined)
+  const metrics = table ? build(table) : undefined
+  cache.set(key, metrics)
   return metrics
 }

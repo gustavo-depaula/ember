@@ -20,21 +20,43 @@ import { fileURLToPath } from 'node:url'
 const here = dirname(fileURLToPath(import.meta.url))
 const repo = join(here, '..')
 
-// id -> [npm package, file within it]. Mirrors readingFonts.ts.
+// id -> { face: [npm package, file] }. Mirrors readingFonts.ts, and — this is
+// the part that matters — only lists faces the app actually LOADS in
+// `_layout.tsx`. Metrics have to describe what gets rendered, not what the
+// package happens to ship: EB Garamond loads real italic and bold faces, while
+// the other six load Regular only and let the platform synthesize emphasis.
 const fonts = {
-  'eb-garamond': ['@expo-google-fonts/eb-garamond', '400Regular/EBGaramond_400Regular.ttf'],
-  'crimson-pro': ['@expo-google-fonts/crimson-pro', '400Regular/CrimsonPro_400Regular.ttf'],
-  lora: ['@expo-google-fonts/lora', '400Regular/Lora_400Regular.ttf'],
-  'cormorant-garamond': [
-    '@expo-google-fonts/cormorant-garamond',
-    '400Regular/CormorantGaramond_400Regular.ttf',
-  ],
-  'libre-baskerville': [
-    '@expo-google-fonts/libre-baskerville',
-    '400Regular/LibreBaskerville_400Regular.ttf',
-  ],
-  'source-serif-4': ['@expo-google-fonts/source-serif-4', '400Regular/SourceSerif4_400Regular.ttf'],
-  merriweather: ['@expo-google-fonts/merriweather', '400Regular/Merriweather_400Regular.ttf'],
+  'eb-garamond': {
+    regular: ['@expo-google-fonts/eb-garamond', '400Regular/EBGaramond_400Regular.ttf'],
+    italic: [
+      '@expo-google-fonts/eb-garamond',
+      '400Regular_Italic/EBGaramond_400Regular_Italic.ttf',
+    ],
+    bold: ['@expo-google-fonts/eb-garamond', '700Bold/EBGaramond_700Bold.ttf'],
+    boldItalic: [
+      '@expo-google-fonts/eb-garamond',
+      '700Bold_Italic/EBGaramond_700Bold_Italic.ttf',
+    ],
+  },
+  'crimson-pro': {
+    regular: ['@expo-google-fonts/crimson-pro', '400Regular/CrimsonPro_400Regular.ttf'],
+  },
+  lora: { regular: ['@expo-google-fonts/lora', '400Regular/Lora_400Regular.ttf'] },
+  'cormorant-garamond': {
+    regular: [
+      '@expo-google-fonts/cormorant-garamond',
+      '400Regular/CormorantGaramond_400Regular.ttf',
+    ],
+  },
+  'libre-baskerville': {
+    regular: ['@expo-google-fonts/libre-baskerville', '400Regular/LibreBaskerville_400Regular.ttf'],
+  },
+  'source-serif-4': {
+    regular: ['@expo-google-fonts/source-serif-4', '400Regular/SourceSerif4_400Regular.ttf'],
+  },
+  merriweather: {
+    regular: ['@expo-google-fonts/merriweather', '400Regular/Merriweather_400Regular.ttf'],
+  },
 }
 
 // The characters the corpus actually uses: ASCII, Latin-1 letters with the
@@ -123,6 +145,16 @@ function readMetrics(path) {
     if (!g) continue
     widths[cp] = advances[Math.min(g, advances.length - 1)] ?? 0
   }
+
+  // Kerning is deliberately NOT modelled. These fonts carry pair adjustments
+  // in GPOS (no legacy `kern` table), and extracting them expands the class
+  // matrices into ~3,000 pairs per face — about 1 MB of generated tables
+  // across the seven families. Measured cost of ignoring it, on 36 real
+  // justified lines at a 170px measure: 0.72 px mean, 2.03 px worst. A line
+  // can therefore sit up to ~2 px short of the right margin. That is a worse
+  // trade than the bundle, but the numbers are here so it can be revisited —
+  // storing GPOS in its native class form rather than expanded pairs would
+  // cost far less than the expansion did.
   return { unitsPerEm, widths }
 }
 
@@ -136,13 +168,15 @@ const resolveFont = (pkg, file) => {
 
 const out = {}
 const missing = []
-for (const [id, [pkg, file]] of Object.entries(fonts)) {
-  const path = resolveFont(pkg, file)
-  if (!path) {
-    missing.push(`${id} (${pkg})`)
-    continue
+for (const [id, faces] of Object.entries(fonts)) {
+  for (const [face, [pkg, file]] of Object.entries(faces)) {
+    const path = resolveFont(pkg, file)
+    if (!path) {
+      missing.push(`${id}/${face} (${pkg})`)
+      continue
+    }
+    ;(out[id] ??= {})[face] = readMetrics(path)
   }
-  out[id] = readMetrics(path)
 }
 if (!Object.keys(out).length) {
   throw new Error(`build-font-metrics: no fonts resolved. Missing: ${missing.join(', ')}`)
@@ -151,27 +185,44 @@ if (missing.length) console.warn(`build-font-metrics: skipped ${missing.join(', 
 
 // Emit compactly: a codepoint-sorted advance list rather than an object, so
 // the generated file stays small and diffs stay readable.
+const face = (m) => {
+  const cps = Object.keys(m.widths).map(Number).sort((a, b) => a - b)
+  return `{ unitsPerEm: ${m.unitsPerEm}, codepoints: [${cps.join(',')}], advances: [${cps.map((c) => m.widths[c]).join(',')}] }`
+}
 const body = Object.entries(out)
-  .map(([id, m]) => {
-    const cps = Object.keys(m.widths).map(Number).sort((a, b) => a - b)
-    return `  '${id}': {\n    unitsPerEm: ${m.unitsPerEm},\n    codepoints: [${cps.join(',')}],\n    advances: [${cps.map((c) => m.widths[c]).join(',')}],\n  },`
-  })
+  .map(
+    ([id, faces]) =>
+      `  '${id}': {\n${Object.entries(faces)
+        .map(([name, m]) => `    ${name}: ${face(m)},`)
+        .join('\n')}\n  },`,
+  )
   .join('\n')
 
 const ts = `// GENERATED by scripts/build-font-metrics.mjs — do not edit.
 //
-// Advance widths per reading font, in font units (divide by unitsPerEm and
-// multiply by the px size). React Native has no text-measurement API, so the
-// native justifier reads widths from here instead of asking the platform.
+// Advance widths per reading font FACE, in font units (divide by unitsPerEm
+// and multiply by the px size). React Native has no text-measurement API, so
+// the native justifier reads widths from here instead of asking the platform.
+//
+// Only faces the app actually loads appear here. Where a face is absent the
+// platform synthesizes the emphasis, and the justifier has to decide whether
+// it can predict the result — see \`lib/typography/fontMetrics.ts\`.
 
-export type FontMetricsTable = {
+export type FaceMetrics = {
   unitsPerEm: number
   /** Sorted codepoints, parallel to \`advances\`. */
   codepoints: number[]
   advances: number[]
 }
 
-export const fontMetrics: Record<string, FontMetricsTable> = {
+export type FontFaces = {
+  regular: FaceMetrics
+  italic?: FaceMetrics
+  bold?: FaceMetrics
+  boldItalic?: FaceMetrics
+}
+
+export const fontMetrics: Record<string, FontFaces> = {
 ${body}
 }
 `

@@ -2,7 +2,9 @@ import { type ComponentProps, Fragment, useMemo, useState } from 'react'
 import { Text } from 'tamagui'
 
 import type { ReadingFontId } from '@/config/readingFonts'
+import type { JustifiedPiece, StyledSegment } from '@/lib/typography/justifyText'
 import { justifyText } from '@/lib/typography/justifyText'
+import { emphasisStyle } from './prayer/InlineMarkdown'
 
 /**
  * Knuth–Plass justified text on native.
@@ -20,14 +22,18 @@ import { justifyText } from '@/lib/typography/justifyText'
  * See `docs/design/typography-justification.md` § Part 6.
  */
 export function JustifiedText({
-  text,
+  source,
+  baseFamily,
   fontFamilyId,
   fontSizePx,
   language,
   enabled = true,
   ...textProps
 }: {
-  text: string
+  /** Plain text, or styled segments when the line carries inline emphasis. */
+  source: string | StyledSegment[]
+  /** Concrete font family name, for resolving emphasis faces. */
+  baseFamily: string
   fontFamilyId: ReadingFontId
   fontSizePx: number
   language?: string
@@ -36,20 +42,27 @@ export function JustifiedText({
 } & ComponentProps<typeof Text>) {
   const [width, setWidth] = useState(0)
 
+  const plain = useMemo(
+    () => (typeof source === 'string' ? source : source.map((seg) => seg.text).join('')),
+    [source],
+  )
+
   const lines = useMemo(() => {
     if (!enabled || !width) return undefined
-    // A pixel of headroom. Our widths are exact against the font tables, but
-    // the platform rounds when it rasterizes — and a line that ends up one
-    // sub-pixel too wide does not just look wrong, it wraps, pushing a word
-    // onto a line the breaker never planned.
+    // Headroom, because a line that ends up even a sub-pixel too wide does
+    // not merely look wrong — it wraps, pushing a word onto a line the breaker
+    // never planned. Two sources of drift: the platform rounds when it
+    // rasterizes, and the metrics ignore kerning (measured at 0.72px mean /
+    // 2.03px worst on real lines). 1.5px covers both; the cost is that a line
+    // may sit a hair short of the margin, which is the far cheaper defect.
     return justifyText({
-      text,
-      widthPx: width - 1,
+      source,
+      widthPx: width - 1.5,
       fontSizePx,
       fontFamilyId,
       language,
     })
-  }, [enabled, width, text, fontSizePx, fontFamilyId, language])
+  }, [enabled, width, source, fontSizePx, fontFamilyId, language])
 
   // onLayout gives us the measure the breaker needs; until it fires (and if
   // justification declines) this is just a normal Text.
@@ -61,10 +74,21 @@ export function JustifiedText({
   if (!lines?.length) {
     return (
       <Text {...textProps} onLayout={onLayout}>
-        {text}
+        {plain}
       </Text>
     )
   }
+
+  // Emphasis resolves to a concrete font face, because React Native ignores
+  // inherited fontWeight/fontStyle once fontFamily is set.
+  const faceFor = (style: JustifiedPiece['style']) =>
+    style === 'regular'
+      ? undefined
+      : emphasisStyle(
+          baseFamily,
+          style === 'bold' || style === 'boldItalic' ? 700 : 400,
+          style === 'italic' || style === 'boldItalic',
+        )
 
   return (
     // allowFontScaling would resize the text out from under metrics computed
@@ -73,18 +97,27 @@ export function JustifiedText({
       {lines.map((line, i) => (
         // biome-ignore lint/suspicious/noArrayIndexKey: line list is positional and regenerated wholesale
         <Fragment key={i}>
-          {line.words.map((word, w) => (
+          {line.pieces.map((piece, p) => (
             // biome-ignore lint/suspicious/noArrayIndexKey: same
-            <Fragment key={w}>
-              <Text>{word}</Text>
-              {w < line.words.length - 1 && (
-                // The whole trick: a lone space widened to the width the
-                // breaker chose for this line.
-                <Text style={{ letterSpacing: line.extraSpacePx }}> </Text>
+            <Fragment key={p}>
+              <Text style={faceFor(piece.style)}>{piece.text}</Text>
+              {piece.spaceAfter && (
+                // The whole trick: a lone space, drawn in its own run's face,
+                // widened by exactly what the breaker allotted this gap.
+                <Text
+                  style={{
+                    ...faceFor(piece.spaceAfter.style),
+                    letterSpacing: piece.spaceAfter.extraPx,
+                  }}
+                >
+                  {' '}
+                </Text>
               )}
             </Fragment>
           ))}
-          {line.hyphenated && <Text>-</Text>}
+          {line.hyphenated && (
+            <Text style={faceFor(line.pieces.at(-1)?.style ?? 'regular')}>-</Text>
+          )}
           {i < lines.length - 1 && <Text>{'\n'}</Text>}
         </Fragment>
       ))}

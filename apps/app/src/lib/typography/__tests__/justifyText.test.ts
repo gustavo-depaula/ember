@@ -55,7 +55,7 @@ describe('font metrics', () => {
 describe('justifyText', () => {
   test('breaks a paragraph into lines', () => {
     const lines = justifyText({
-      text: prose,
+      source: prose,
       widthPx: 334,
       fontSizePx: 22,
       fontFamilyId: 'eb-garamond',
@@ -63,14 +63,14 @@ describe('justifyText', () => {
     })
     expect(lines).toBeDefined()
     expect(lines!.length).toBeGreaterThan(3)
-    expect(lines!.flatMap((l) => l.words).join(' ')).toBe(prose)
+    expect(lines!.flatMap((l) => l.pieces.map((p) => p.text)).join(' ')).toBe(prose)
   })
 
   test('no line overflows its measure', () => {
     const m = getFontMetrics('eb-garamond')
     if (!m) throw new Error('no metrics')
     const lines = justifyText({
-      text: prose,
+      source: prose,
       widthPx: bilingualWidth,
       fontSizePx: 22,
       fontFamilyId: 'eb-garamond',
@@ -81,8 +81,11 @@ describe('justifyText', () => {
     const natural = m.width(' ', 22)
     for (const line of lines!) {
       if (line.overfull) continue
-      const glyphs = line.words.reduce((sum, w) => sum + m.width(w, 22), 0)
-      const spaces = (line.words.length - 1) * (natural + line.extraSpacePx)
+      const glyphs = line.pieces.reduce((sum, p) => sum + m.width(p.text, 22), 0)
+      const spaces = line.pieces.reduce(
+        (sum, p) => sum + (p.spaceAfter ? natural + p.spaceAfter.extraPx : 0),
+        0,
+      )
       const hyphen = line.hyphenated ? m.width('-', 22) : 0
       // Word spaces are the only flex, so the rendered width is fully
       // reconstructible here. Half a pixel of slack for float arithmetic.
@@ -92,7 +95,7 @@ describe('justifyText', () => {
 
   test('justifies Latin, hyphenating with the liturgical patterns', () => {
     const lines = justifyText({
-      text: latin,
+      source: latin,
       widthPx: bilingualWidth,
       fontSizePx: 22,
       fontFamilyId: 'eb-garamond',
@@ -105,7 +108,7 @@ describe('justifyText', () => {
     // fragment must still reconstruct the source.
     expect(
       lines!
-        .flatMap((l) => l.words)
+        .flatMap((l) => l.pieces.map((p) => p.text))
         .join('')
         .replace(/\s+/g, ''),
     ).toBe(latin.replace(/\s+/g, ''))
@@ -113,13 +116,13 @@ describe('justifyText', () => {
 
   test('narrower measures need more lines', () => {
     const wide = justifyText({
-      text: prose,
+      source: prose,
       widthPx: 334,
       fontSizePx: 22,
       fontFamilyId: 'eb-garamond',
     })
     const narrow = justifyText({
-      text: prose,
+      source: prose,
       widthPx: bilingualWidth,
       fontSizePx: 22,
       fontFamilyId: 'eb-garamond',
@@ -128,10 +131,82 @@ describe('justifyText', () => {
   })
 
   test('declines rather than guessing when inputs are unusable', () => {
-    const base = { text: prose, fontSizePx: 22, fontFamilyId: 'eb-garamond' } as const
+    const base = { source: prose, fontSizePx: 22, fontFamilyId: 'eb-garamond' } as const
     expect(justifyText({ ...base, widthPx: 0 })).toBeUndefined()
     expect(justifyText({ ...base, widthPx: -10 })).toBeUndefined()
     expect(justifyText({ ...base, widthPx: 300, fontSizePx: 0 })).toBeUndefined()
-    expect(justifyText({ ...base, text: '   ', widthPx: 300 })).toBeUndefined()
+    expect(justifyText({ ...base, source: '   ', widthPx: 300 })).toBeUndefined()
+  })
+})
+
+describe('inline emphasis', () => {
+  const styled = [
+    { text: 'Sancta Maria, ', style: 'regular' as const },
+    { text: 'Mater Dei', style: 'italic' as const },
+    {
+      text: ', ora pro nobis peccatoribus, nunc et in hora mortis nostrae.',
+      style: 'regular' as const,
+    },
+  ]
+
+  test('justifies across mixed styles instead of declining', () => {
+    const lines = justifyText({
+      source: styled,
+      widthPx: bilingualWidth,
+      fontSizePx: 22,
+      fontFamilyId: 'eb-garamond',
+      language: 'la',
+    })
+    expect(lines).toBeDefined()
+    expect(lines!.length).toBeGreaterThan(1)
+    // Every character survives, in order.
+    expect(lines!.flatMap((l) => l.pieces.map((p) => p.text)).join('')).toBe(
+      styled
+        .map((s) => s.text)
+        .join('')
+        .replace(/ /g, ''),
+    )
+  })
+
+  test('carries the italic style through to the pieces', () => {
+    const lines = justifyText({
+      source: styled,
+      widthPx: 334,
+      fontSizePx: 22,
+      fontFamilyId: 'eb-garamond',
+    })
+    const italic = lines!.flatMap((l) => l.pieces).filter((p) => p.style === 'italic')
+    expect(italic.length).toBeGreaterThan(0)
+    expect(italic.map((p) => p.text).join('')).toContain('Mater')
+  })
+
+  test('measures the italic face, not the regular one', () => {
+    const regular = getFontMetrics('eb-garamond', 'regular')
+    const italic = getFontMetrics('eb-garamond', 'italic')
+    expect(italic).toBeDefined()
+    // EB Garamond's italic is a genuinely different face, so widths differ —
+    // if they matched we would be silently measuring the wrong metrics.
+    expect(italic!.width('Mater Dei', 22)).not.toBeCloseTo(regular!.width('Mater Dei', 22), 3)
+  })
+
+  test('bold on a family that ships no bold face declines rather than guessing', () => {
+    // Only EB Garamond loads real italic/bold. Elsewhere the platform smears a
+    // synthetic bold whose advances we cannot predict.
+    expect(getFontMetrics('lora', 'bold')).toBeUndefined()
+    expect(
+      justifyText({
+        source: [{ text: 'Ora pro nobis', style: 'bold' }],
+        widthPx: 334,
+        fontSizePx: 22,
+        fontFamilyId: 'lora',
+      }),
+    ).toBeUndefined()
+  })
+
+  test('synthetic italic reuses regular metrics — a shear preserves advances', () => {
+    const regular = getFontMetrics('lora', 'regular')
+    const synthetic = getFontMetrics('lora', 'italic')
+    expect(synthetic).toBeDefined()
+    expect(synthetic!.width('Mater Dei', 22)).toBeCloseTo(regular!.width('Mater Dei', 22), 6)
   })
 })

@@ -18,8 +18,22 @@ test.skipIf(!process.env.EMIT_JUSTIFIED_LINES)('emit line model', () => {
   writeFileSync(
     process.env.EMIT_JUSTIFIED_LINES as string,
     JSON.stringify({
-      la: justifyText({ ...common, text: la, language: 'la' }),
-      en: justifyText({ ...common, text: en, language: 'en-US' }),
+      la: justifyText({ ...common, source: la, language: 'la' }),
+      en: justifyText({ ...common, source: en, language: 'en-US' }),
+      emphasis: justifyText({
+        ...common,
+        widthPx: 334,
+        language: 'la',
+        source: [
+          { text: 'Sancta Maria, ', style: 'regular' },
+          { text: 'Mater Dei', style: 'italic' },
+          {
+            text: ', ora pro nobis peccatoribus, nunc et in hora mortis nostrae. ',
+            style: 'regular',
+          },
+          { text: 'Amen.', style: 'bold' },
+        ],
+      }),
     }),
   )
 })

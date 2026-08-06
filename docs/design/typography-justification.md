@@ -51,7 +51,11 @@ React Native exposes no `wordSpacing` (confirmed in Fabric's `TextAttributes.h`)
 
 **`components/JustifiedText.tsx`** renders that recipe with the one lever RN does expose: `letterSpacing` adds space *after* each character, so a nested `<Text>` holding a single space renders at `spaceAdvance + letterSpacing`. Everything stays inside one parent `<Text>`, keeping it a single selectable, copyable run. It falls back to ordinary wrapped text whenever the line model is unavailable.
 
-`PrayerLines` routes plain lines through it and leaves markup, Divinum Officium lines and response marks on the existing renderer — justification owns a line's whole spacing, so it can only take lines it renders end to end.
+**Inline emphasis is justified, not excluded.** `buildItems` takes an array of runs precisely so a paragraph can mix faces, so `*Mater Dei*` is measured in the real italic face and broken along with everything else. Each style contributes its own metrics and its own word-space width, and the output is *pieces* rather than words — `*Mater Dei*,` puts the comma back in regular, so one word can span two pieces.
+
+This is why the generator emits per-face tables and why it only lists faces the app actually **loads**: metrics have to describe what gets rendered. EB Garamond loads real `400Regular`, `400Regular_Italic`, `700Bold` and `700Bold_Italic`, so all four styles are exact. The other six families load Regular only, and the platform synthesizes emphasis — where synthetic *italic* is an oblique shear that preserves advances (so regular metrics stay exact), but synthetic *bold* is an emboldening smear whose advance growth is platform-specific and can't be predicted, so bold on those families declines rather than guessing.
+
+`PrayerLines` leaves only two things on the existing renderer: Divinum Officium lines (verse numbers, pointing marks, small caps that `DoInlineLine` owns) and response marks. Both are decided per block, so a prayer never mixes the two renderers mid-way.
 
 Bilingual side-by-side is where it pays most; that ~170 px column is the narrowest measure in the app.
 
@@ -66,6 +70,12 @@ Bilingual side-by-side is where it pays most; that ~170 px column is the narrowe
 | **soft hyphens** | `lib/hyphenate.ts` already inserts them into prayer text; measured as real characters they inflate every hyphenated word | zero-width by codepoint |
 
 The general rule behind the second one: **any flex the breaker is allowed must actually be rendered, or lines silently re-wrap.**
+
+### Kerning is deliberately not modelled
+
+These fonts carry pair adjustments in GPOS with no legacy `kern` table, and extracting them expands the class matrices to ~3,000 pairs per face — about **1 MB** of generated tables across seven families. Measured cost of ignoring it, on 36 real justified lines at a 170 px measure: **0.72 px mean, 2.03 px worst**, almost always in the direction of a line sitting slightly *short* of the right margin rather than overflowing.
+
+That's the wrong trade for a mobile bundle, so the tables stay kern-free and `JustifiedText` reserves 1.5 px of headroom to absorb the drift (plus the platform's own rasterization rounding). If it ever needs revisiting, storing GPOS in its native class form instead of expanded pairs would cost a fraction of the expansion.
 
 ### Not verified — gates this surface
 

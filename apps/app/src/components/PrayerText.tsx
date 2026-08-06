@@ -4,16 +4,30 @@ import { useMemo } from 'react'
 import { Text, YStack } from 'tamagui'
 
 import { useReadingStyle } from '@/hooks/useReadingStyle'
+import type { TextStyleName } from '@/lib/typography/fontMetrics'
+import type { StyledSegment } from '@/lib/typography/justifyText'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { JustifiedText } from './JustifiedText'
 import { DoInlineLine } from './prayer/DoInline'
 import { InlineMarkdownLine } from './prayer/InlineMarkdown'
+import type { InlineNode } from './prayer/parseMarkdown'
+import { parseInline } from './prayer/parseMarkdown'
 import { ResponseMark } from './prayer/ResponseMark'
 
-// Justification owns the whole line's spacing, so it can only take lines it
-// renders end to end: no emphasis spans, no Divinum Officium markup, no
-// response mark. Anything else keeps the existing inline renderer.
-const isPlainLine = (line: string) => !/[*_`[\]]/.test(line)
+// Emphasis is not an obstacle to justification — justif breaks across mixed
+// runs natively, so `*Mater Dei*` is measured in the italic face and justified
+// with everything else. The parser's node types map straight onto the faces.
+const styleOf = (type: InlineNode['type']): TextStyleName =>
+  type === 'bold'
+    ? 'bold'
+    : type === 'italic'
+      ? 'italic'
+      : type === 'bolditalic'
+        ? 'boldItalic'
+        : 'regular'
+
+const toSegments = (line: string): StyledSegment[] =>
+  parseInline(line).map((node) => ({ text: node.text, style: styleOf(node.type) }))
 
 export function PrayerText(props: ComponentProps<typeof Text>) {
   const style = useReadingStyle()
@@ -46,21 +60,28 @@ export function PrayerLines({
   const fontFamilyId = usePreferencesStore((s) => s.fontFamily)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
 
+  // Emphasis no longer disqualifies a line; what remains are the two cases the
+  // justifier genuinely can't own end to end. Divinum Officium lines carry
+  // verse numbers, pointing marks and small caps that `DoInlineLine` renders,
+  // and a response mark is a separate leading element. Both are block-level
+  // decisions, so a prayer never mixes the two renderers mid-way.
+  const canJustify = reading.textAlign === 'justify' && markup !== 'do' && !prefix
+
+  const segments = useMemo(
+    () => (canJustify ? lines.map(toSegments) : undefined),
+    [canJustify, lines],
+  )
+
   return (
     <YStack gap="$xs">
       {lines.map((line, i) => {
-        const canJustify =
-          reading.textAlign === 'justify' &&
-          markup !== 'do' &&
-          !(i === 0 && prefix) &&
-          isPlainLine(line)
-
-        if (canJustify) {
+        if (segments) {
           return (
             <JustifiedText
               // biome-ignore lint/suspicious/noArrayIndexKey: prayer lines are positional and never reorder
               key={`${i}`}
-              text={line}
+              source={segments[i]}
+              baseFamily={baseFamily}
               fontFamilyId={fontFamilyId}
               fontSizePx={reading.fontSize}
               language={language ?? contentLanguage}
