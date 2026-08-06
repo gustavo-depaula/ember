@@ -6,13 +6,9 @@ import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { Typography } from '@/components/typography'
 import { createProgramCursor } from '@/db/repositories/cursors'
 import { saveItem } from '@/db/repositories/savedItems'
-import {
-  type ArtChoice,
-  ArtChoiceCard,
-  ArtChoiceFeatureCard,
-} from '@/features/explore/ArtChoiceCard'
+import { type ArtChoice, ArtChoiceCard } from '@/features/explore/ArtChoiceCard'
 import { artFor } from '@/features/explore/artMap'
-import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
+import { toneForKey } from '@/features/explore/bgColor'
 import {
   type FormationOption,
   type FormationOptionId,
@@ -35,9 +31,9 @@ function tagKey(opt: FormationOption): string {
 }
 
 /**
- * A reading offered exactly as a tradition is. A catechism has no painting of
- * its own, so each is shown under the doctor or catechist it belongs to, using
- * the corpus's own illuminated saint cards.
+ * A reading offered as a tradition is. A catechism has no painting of its own,
+ * so each is shown under the doctor or catechist it belongs to, using the
+ * corpus's own illuminated saint cards.
  */
 function useReadingChoice(id: FormationOptionId): ArtChoice {
   const { t } = useTranslation()
@@ -45,8 +41,7 @@ function useReadingChoice(id: FormationOptionId): ArtChoice {
     title: t(`onboarding.formation.options.${id}.name`),
     description: t(`onboarding.formation.options.${id}.desc`),
     image: artFor(`reading/${id}`),
-    tone: toneByIndex(toneIndexForId(id)),
-    fit: 'cover',
+    tone: toneForKey(id),
   }
 }
 
@@ -150,27 +145,20 @@ function Reading({
       accessibilityRole="button"
       accessibilityLabel={choice.title}
     >
-      {featured ? (
-        <ArtChoiceFeatureCard
-          choice={choice}
-          // A saint card is a whole illuminated page on a cream ground — its
-          // name belongs beneath it, not set over it in cream. The art is
-          // 1024×1535 (0.667); a hair wider only trims the printed border.
-          overlay={false}
-          aspectRatio={0.72}
-          marker={`${t(tagKey(opt))} · ${t('onboarding.formation.recommended')}`}
-        />
-      ) : (
-        <ArtChoiceCard
-          choice={choice}
-          aspectRatio={0.72}
-          marker={t(tagKey(opt))}
-          // A catechism's full title is long — hero size breaks it mid-word in
-          // a two-up tile.
-          titleSize={20}
-          titleLineHeight={26}
-        />
-      )}
+      {/* A saint card is a whole illuminated page on a cream ground, so its name
+          sits beneath rather than over it — the grid card either way. The art is
+          1024×1535 (0.667); a hair wider only trims the printed border. */}
+      <ArtChoiceCard
+        choice={choice}
+        aspectRatio={0.72}
+        marker={
+          featured ? `${t(tagKey(opt))} · ${t('onboarding.formation.recommended')}` : t(tagKey(opt))
+        }
+        // A catechism's full title is long — hero size breaks it mid-word in a
+        // two-up tile.
+        titleSize={featured ? undefined : 20}
+        titleLineHeight={featured ? undefined : 26}
+      />
     </AnimatedPressable>
   )
 }

@@ -5,7 +5,7 @@ import Svg, { Defs, LinearGradient, Rect, Stop } from 'react-native-svg'
 import { YStack } from 'tamagui'
 
 import { artFor } from '@/features/explore/artMap'
-import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
+import { toneForKey } from '@/features/explore/bgColor'
 
 /**
  * A full-bleed painting with its foot darkened for ink — the flow's one visual
@@ -33,7 +33,7 @@ export function ArtFace({
   children: ReactNode
 }) {
   const art = artFor(artId)
-  const tone = toneByIndex(toneIndexForId(artId))
+  const tone = toneForKey(artId)
   const scrimId = `vigil-scrim-${artId.replace(/\W/g, '-')}`
 
   return (

@@ -5,9 +5,10 @@ import { YStack } from 'tamagui'
 
 import { Card } from '@/components/Card'
 import { Typography } from '@/components/typography'
+import { updateSlot } from '@/db/repositories'
 import { nextRoute, OnboardingScaffold, stepProgress } from '@/features/onboarding'
-import { useSlots, useUpdateSlot } from '@/features/plan-of-life'
-import { requestNotificationPermission } from '@/lib/notifications'
+import { useSlots } from '@/features/plan-of-life'
+import { requestNotificationPermission, rescheduleAllReminders } from '@/lib/notifications'
 
 const notifyOn = JSON.stringify({ enabled: true, reminders: [{ offset: 0 }] })
 
@@ -15,7 +16,6 @@ export default function OnboardingNotificationsScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const slots = useSlots()
-  const updateSlot = useUpdateSlot()
   const [busy, setBusy] = useState(false)
 
   // useSlots() already returns enabled, non-archived slots; keep those with a time.
@@ -33,10 +33,13 @@ export default function OnboardingNotificationsScreen() {
     try {
       const granted = await requestNotificationPermission()
       if (granted) {
-        // Writing notify config triggers resyncReminders (useUpdateSlot.onSuccess).
-        for (const slot of timed) {
-          await updateSlot.mutateAsync({ id: slot.id, data: { notify: notifyOn } })
-        }
+        // Deliberately the repository call rather than `useUpdateSlot`: that
+        // mutation resyncs reminders on every success, and resyncing cancels and
+        // re-schedules *every* notifiable slot. Through the mutation, turning on
+        // N slots costs N full teardown-and-rebuild cycles against the OS
+        // notification centre. Write them all, then reschedule once.
+        await Promise.all(timed.map((slot) => updateSlot(slot.id, { notify: notifyOn })))
+        await rescheduleAllReminders()
       }
     } finally {
       setBusy(false)

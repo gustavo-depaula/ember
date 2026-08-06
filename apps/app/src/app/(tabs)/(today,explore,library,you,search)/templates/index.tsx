@@ -4,6 +4,7 @@ import { XStack, YStack } from 'tamagui'
 import { AnimatedPressable, ZoomLink } from '@/components'
 import { ScreenLayout } from '@/components/ScreenLayout'
 import { Typography } from '@/components/typography'
+import { bareId } from '@/content/contentIndex'
 import {
   TemplateCard,
   type TemplateListItem,
@@ -40,7 +41,7 @@ export default function TemplatesScreen() {
 }
 
 function TemplateGridItem({ item }: { item: TemplateListItem }) {
-  const templateId = item.id.slice(item.id.indexOf('/') + 1)
+  const templateId = bareId(item.id)
 
   return (
     <YStack width="48%">

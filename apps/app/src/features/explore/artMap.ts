@@ -75,38 +75,39 @@ const artFiles: Record<string, string> = {
   'practice/intimita-divina': 'meditation-intimita.jpg',
   'practice/opus-dei-meditation': 'meditation-opus-dei.jpg',
   'practice/patristic-reading': 'meditation-patristic.jpg',
+
+  // Formation readings (onboarding): a catechism has no painting of its own, so
+  // each is shown under the doctor or catechist it belongs to, using the
+  // corpus's own illuminated saint cards. Full paths — these live under the
+  // hearth's `saints/` tree rather than `art/`.
+  // Augustine wrote *De catechizandis rudibus*, on teaching beginners.
+  'reading/catechetical-formation': 'saints/augustine.webp',
+  // The Church's doctor of systematic doctrine, shown with the Summa.
+  'reading/compendium': 'saints/thomas_aquinas.webp',
+  // The full Catechism is promulgated by the Petrine office.
+  'reading/ccc': 'saints/peter.webp',
+  // Rome's great catechist of the simple and the young — a short Q&A catechism.
+  'reading/pius-x-catechism': 'saints/philip_neri.webp',
+  // The golden-mouthed teacher, for the fuller catechetical course.
+  'reading/pius-x-greater-catechism': 'saints/john_chrysostom.webp',
+  // Borromeo drove the Roman Catechism's production and diffusion after Trent.
+  'reading/trent-catechism': 'saints/charles_borromeo.webp',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches
 // by URL, so the `?v` query busts the stale disk-cached image.
 const artVersion = 4
 
-/**
- * Ids whose art is one of the corpus's illuminated saint cards, which live under
- * the hearth's own `saints/` tree rather than `art/`. Used for the onboarding
- * formation readings: a catechism has no painting of its own, so each is shown
- * under the doctor or catechist it belongs to.
- */
-const saintCards: Record<string, string> = {
-  // St Augustine wrote *De catechizandis rudibus* — on teaching the faith to
-  // beginners, which is what Morrow's pictorial catechism is for.
-  'reading/catechetical-formation': 'augustine.webp',
-  // The Church's doctor of systematic doctrine, shown with the Summa.
-  'reading/compendium': 'thomas_aquinas.webp',
-  // The full Catechism is promulgated by the Petrine office.
-  'reading/ccc': 'peter.webp',
-  // Rome's great catechist of the simple and the young — a short Q&A catechism.
-  'reading/pius-x-catechism': 'philip_neri.webp',
-  // The golden-mouthed teacher, for the fuller catechetical course.
-  'reading/pius-x-greater-catechism': 'john_chrysostom.webp',
-  // Borromeo drove the Roman Catechism's production and diffusion after Trent.
-  'reading/trent-catechism': 'charles_borromeo.webp',
-}
-
 export function artFor(id: string | undefined): ImageSource | undefined {
   if (!id) return undefined
-  const saint = saintCards[id]
-  if (saint) return { uri: `${hearthUrl(`saints/${saint}`)}?v=${artVersion}` }
   const file = artFiles[id]
-  return file ? { uri: `${hearthUrl(`art/${file}`)}?v=${artVersion}` } : undefined
+  if (!file) return undefined
+  // A bare filename lives under `art/`; anything with a slash is a full path
+  // into another tree. Only `art/` takes the `?v` bust — paintings there are
+  // replaced at a stable filename, whereas the saint cards are addressed
+  // immutably and are already fetched unversioned by the saints gallery
+  // (`features/saints/data/catalog.ts`). Versioning them here would fork the
+  // image cache and download every card a second time.
+  if (file.includes('/')) return { uri: hearthUrl(file) }
+  return { uri: `${hearthUrl(`art/${file}`)}?v=${artVersion}` }
 }

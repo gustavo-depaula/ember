@@ -3,7 +3,7 @@ export { ArtQuestionDeck, type DeckQuestion } from './ArtQuestionDeck'
 export { IntroSlides } from './IntroSlides'
 export { PrimaryButton, SkipButton } from './OnboardingButtons'
 export { Dots, OnboardingProgress } from './OnboardingProgress'
-export { OnboardingScaffold, VigilShell } from './OnboardingScaffold'
+export { OnboardingScaffold } from './OnboardingScaffold'
 export {
   type FormationOption,
   type FormationOptionId,

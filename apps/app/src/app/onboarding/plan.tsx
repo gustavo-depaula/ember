@@ -5,6 +5,7 @@ import { XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components/AnimatedPressable'
 import { Typography } from '@/components/typography'
+import { bareId } from '@/content/contentIndex'
 import {
   nextRoute,
   OnboardingScaffold,
@@ -21,10 +22,6 @@ import {
   useTemplateManifest,
 } from '@/features/templates'
 import { lightTap } from '@/lib/haptics'
-
-function bareTemplateId(id: string): string {
-  return id.slice(id.indexOf('/') + 1)
-}
 
 /**
  * The suggested tradition is held out as a frontispiece — its masterpiece under
@@ -46,7 +43,7 @@ export default function OnboardingPlanScreen() {
 
   const byBareId = useMemo(() => {
     const map = new Map<string, (typeof templates)[number]>()
-    for (const item of templates) map.set(bareTemplateId(item.id), item)
+    for (const item of templates) map.set(bareId(item.id), item)
     return map
   }, [templates])
 
@@ -83,7 +80,7 @@ export default function OnboardingPlanScreen() {
       <YStack gap="$xl" opacity={opening ? 0.5 : 1}>
         {featured ? (
           <AnimatedPressable
-            onPress={() => choose(bareTemplateId(featured.id))}
+            onPress={() => choose(bareId(featured.id))}
             accessibilityRole="button"
             accessibilityLabel={templateName(featured)}
           >
@@ -107,7 +104,7 @@ export default function OnboardingPlanScreen() {
                 item ? (
                   <YStack key={item.id} width="48%">
                     <AnimatedPressable
-                      onPress={() => choose(bareTemplateId(item.id))}
+                      onPress={() => choose(bareId(item.id))}
                       accessibilityRole="button"
                       accessibilityLabel={templateName(item)}
                     >

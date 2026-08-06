@@ -4,7 +4,7 @@ import {
   ArtChoiceFeatureCard,
 } from '@/features/explore/ArtChoiceCard'
 import { artFor } from '@/features/explore/artMap'
-import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
+import { toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
 import type { TemplateListItem } from './hooks'
@@ -19,12 +19,12 @@ function toChoice(item: TemplateListItem): ArtChoice {
     title: templateName(item),
     description: item.entry.description ? localizeContent(item.entry.description) : undefined,
     image: artFor(item.id),
-    tone: toneByIndex(toneIndexForId(item.id)),
+    tone: toneForKey(item.id),
   }
 }
 
-export function TemplateCard({ item, selected }: { item: TemplateListItem; selected?: boolean }) {
-  return <ArtChoiceCard choice={toChoice(item)} selected={selected} />
+export function TemplateCard({ item }: { item: TemplateListItem }) {
+  return <ArtChoiceCard choice={toChoice(item)} />
 }
 
 export function TemplateFeatureCard({ item, marker }: { item: TemplateListItem; marker?: string }) {

@@ -817,3 +817,38 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 - **Angelus pt-BR closing collect — aligned to the traditional formula (2026-06-23).** The final oration (`content/practices/angelus/flow.json`) was a hybrid that matched neither pt-BR form people actually pray by heart. Brazil has two live versions: the **modern liturgical** ("Derramai, ó Deus, a vossa graça em nossos corações… cheguemos, por sua paixão e cruz, à glória da ressurreição") and the **traditional** ("Infundi, Senhor, nós Vos rogamos, a vossa graça em nossas almas… sejamos conduzidos à glória da Ressurreição"). The file had "Derramai" (modern verb) bolted onto "Senhor" + "em nossas almas" + the literal-from-Latin "para que nós, que…" structure (traditional). Since the rest of this practice leans traditional (Latin present, genuflection rubric on the Annunciation/Christmas, "rezado de pé"), aligned to the traditional form (`infúnde` → "Infundi", `quǽsumus` → "nós vos pedimos"). Final wording per the owner's own recitation: "Infundi, Senhor, nós vos pedimos, em nossas almas a vossa graça, para que nós, que conhecemos pela anunciação do Anjo a encarnação de Jesus Cristo, vosso Filho, cheguemos por sua paixão e sua cruz à glória da ressurreição. Pelo mesmo Cristo, Senhor nosso. Amém." Only the closing collect changed; the V/R versicles already matched standard pt-BR usage.
 
 - **Explore "scroll past everything and get stuck" = RN's `automaticallyAdjustKeyboardInsets` leaking a phantom bottom inset — removed from `ScreenLayout` (2026-07-11).** TestFlight report: scroll the Explore tab to the bottom and it sails past the last row into a black void; swiping back "doesn't move" (the void is taller than a screen, so a couple of swipes still show black and it reads as frozen); re-tapping the Explore tab recovers because the native tab button issues a scroll-to-top. Root cause: `ScreenLayout`'s ScrollView set BOTH `automaticallyAdjustKeyboardInsets` and wrapped itself in react-native-keyboard-controller's `KeyboardAvoidingView` (behavior "padding") — double keyboard handling. The RN prop is buggy on the new architecture: keyboard show events (the iOS 26 search tab's integrated field is the everyday trigger — it raises the keyboard while all tab ScrollViews are mounted; rn-screens gestures can also drive it) add `contentInset.bottom`, and the matching remove is dropped for views that are off-window when the keyboard hides (facebook/react-native#47731, #41397 are this bug's family). The inset persists and can stack across keyboard sessions, so the scrollable range extends screens past the real content. Fix: keyboard avoidance is the KAV's job alone; the prop is gone from `ScreenLayout` (a comment in the file warns against re-adding it). Rule of thumb for future surfaces: never combine `automaticallyAdjustKeyboardInsets` with a KeyboardAvoidingView — pick one owner per scroll view (`PracticeEditSheet` still has the combo; it lives inside a modal that unmounts on close, which is why it hasn't bitten there).
+
+## Practice ids have two key spaces (2026-08-05)
+
+Writes to the practice event store are exact-match, and two paths disagree on the key:
+
+- `db/seed.ts` emits `PracticeCreated` with `manifest.id`, which the corpus build
+  kind-prefixes → `practice/catechetical-formation`.
+- `AdoptSheet` (and the `/plan/[practiceId]` route) create with `bareId(ref)` →
+  `salesian`.
+
+Reads absorb it — `getManifest` → `canonicalize()` accepts either form — which is
+exactly why it stayed invisible. Writes don't, so every enrolment surface has to
+know the provenance of its target. Onboarding's `formationOptions` currently encodes
+that guess per entry, with a comment; that is a tactical choice, not the fix.
+
+The fix is to normalise at the write boundary — `canonicalize(id, 'practice') ?? id`
+inside `createPractice`, `setSlotsEnabled` and `seed.ts`'s slot-key derivation — so
+the log has one key space. It's more than a rename because the store is
+event-sourced: existing logs already hold both forms, so it needs read-time
+normalisation at hydrate (or a one-off rewrite) too. Cheapest to do now, while
+there is effectively one event log in the world.
+
+Related, same root: `artMap` needs a synthetic `reading/*` namespace for the
+formation options only because a `FormationOption` stores its id under a different
+field per variant (`practiceId` / `bookId` / none). One `contentId` would let art,
+naming and enrolment key off the real corpus id.
+
+## `aspectRatio` means opposite things in two neighbouring components (2026-08-05)
+
+`ArtCoverCard` documents *"Height = width × aspectRatio"* and computes
+`height = size * aspectRatio` — so 1.5 is a book. `ArtChoiceCard` passes straight to
+the React Native style prop, where it is width ÷ height — so 0.72 is a portrait page.
+Same name, same directory, inverse meaning. This cost a release: the onboarding saint
+cards shipped cropped in half because 1.35 was read as portrait. If the two ever share
+a ground, pick one convention first.

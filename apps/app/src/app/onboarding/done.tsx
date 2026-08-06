@@ -6,7 +6,7 @@ import { YStack } from 'tamagui'
 import { textShadow } from '@/components/ornaments'
 import { Typography } from '@/components/typography'
 import { blockInk, blockLabelInk } from '@/features/explore/bgColor'
-import { ArtFace, completeOnboarding, PrimaryButton, VigilShell } from '@/features/onboarding'
+import { ArtFace, completeOnboarding, PrimaryButton } from '@/features/onboarding'
 
 /**
  * The closing screen — El Greco's Pentecost, the Church sent out to begin. It
@@ -21,50 +21,48 @@ export default function OnboardingDoneScreen() {
   const { width, height } = useWindowDimensions()
 
   return (
-    <VigilShell>
-      <YStack flex={1} backgroundColor="$background">
-        <ArtFace
-          artId="collection/holy-spirit"
-          label={t('onboarding.done.title')}
-          width={width}
-          height={height}
-        >
-          <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 24} gap="$md">
-            <YStack gap="$xs">
-              <Typography
-                variant="label"
-                textTransform="uppercase"
-                letterSpacing={2}
-                fontSize="$1"
-                color={blockLabelInk}
-                style={textShadow}
-              >
-                {t('onboarding.done.marker')}
-              </Typography>
-              <Typography
-                variant="screen-title"
-                textAlign="left"
-                fontSize={40}
-                lineHeight={48}
-                color={blockInk}
-                style={textShadow}
-              >
-                {t('onboarding.done.title')}
-              </Typography>
-              <Typography fontSize="$3" color={blockInk} opacity={0.86} maxWidth={420}>
-                {t('onboarding.done.body')}
-              </Typography>
-            </YStack>
-
-            <PrimaryButton
-              label={t('onboarding.done.begin')}
-              onPress={completeOnboarding}
-              haptic="success"
-              filled
-            />
+    <YStack flex={1} backgroundColor="$background">
+      <ArtFace
+        artId="collection/holy-spirit"
+        label={t('onboarding.done.title')}
+        width={width}
+        height={height}
+      >
+        <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 24} gap="$md">
+          <YStack gap="$xs">
+            <Typography
+              variant="label"
+              textTransform="uppercase"
+              letterSpacing={2}
+              fontSize="$1"
+              color={blockLabelInk}
+              style={textShadow}
+            >
+              {t('onboarding.done.marker')}
+            </Typography>
+            <Typography
+              variant="screen-title"
+              textAlign="left"
+              fontSize={40}
+              lineHeight={48}
+              color={blockInk}
+              style={textShadow}
+            >
+              {t('onboarding.done.title')}
+            </Typography>
+            <Typography fontSize="$3" color={blockInk} opacity={0.86} maxWidth={420}>
+              {t('onboarding.done.body')}
+            </Typography>
           </YStack>
-        </ArtFace>
-      </YStack>
-    </VigilShell>
+
+          <PrimaryButton
+            label={t('onboarding.done.begin')}
+            onPress={completeOnboarding}
+            haptic="success"
+            filled
+          />
+        </YStack>
+      </ArtFace>
+    </YStack>
   )
 }

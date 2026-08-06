@@ -12,7 +12,6 @@ import { selectionTick } from '@/lib/haptics'
 import { ArtFace } from './ArtFace'
 import { SkipButton } from './OnboardingButtons'
 import { Dots } from './OnboardingProgress'
-import { VigilShell } from './OnboardingScaffold'
 
 export type DeckQuestion<T extends string> = {
   /** artMap key for this question's painting. */
@@ -89,48 +88,46 @@ export function ArtQuestionDeck({
   }
 
   return (
-    <VigilShell>
-      <YStack flex={1} backgroundColor="$background" onLayout={onLayout}>
-        {size.width > 0 ? (
-          <FlatList
-            ref={listRef}
-            data={questions}
-            keyExtractor={(q) => q.artId}
-            horizontal
-            pagingEnabled
-            showsHorizontalScrollIndicator={false}
-            onScroll={onScroll}
-            scrollEventThrottle={16}
-            renderItem={({ item, index }) => (
-              <QuestionFace
-                question={item}
-                width={size.width}
-                height={size.height}
-                insetTop={insets.top}
-                onAnswer={(value) => {
-                  item.onAnswer(value)
-                  // A beat so the fleuron lands before the page turns.
-                  advance(index)
-                }}
-              />
-            )}
-          />
-        ) : null}
+    <YStack flex={1} backgroundColor="$background" onLayout={onLayout}>
+      {size.width > 0 ? (
+        <FlatList
+          ref={listRef}
+          data={questions}
+          keyExtractor={(q) => q.artId}
+          horizontal
+          pagingEnabled
+          showsHorizontalScrollIndicator={false}
+          onScroll={onScroll}
+          scrollEventThrottle={16}
+          renderItem={({ item, index }) => (
+            <QuestionFace
+              question={item}
+              width={size.width}
+              height={size.height}
+              insetTop={insets.top}
+              onAnswer={(value) => {
+                item.onAnswer(value)
+                // A beat so the fleuron lands before the page turns.
+                advance(index)
+              }}
+            />
+          )}
+        />
+      ) : null}
 
-        <YStack
-          position="absolute"
-          left={0}
-          right={0}
-          bottom={0}
-          paddingBottom={insets.bottom + 16}
-          paddingHorizontal="$lg"
-          gap="$md"
-        >
-          <Dots count={questions.length} activeIndex={active} fill={false} />
-          <SkipButton onPress={onSkip} />
-        </YStack>
+      <YStack
+        position="absolute"
+        left={0}
+        right={0}
+        bottom={0}
+        paddingBottom={insets.bottom + 16}
+        paddingHorizontal="$lg"
+        gap="$md"
+      >
+        <Dots count={questions.length} activeIndex={active} fill={false} />
+        <SkipButton onPress={onSkip} />
       </YStack>
-    </VigilShell>
+    </YStack>
   )
 }
 

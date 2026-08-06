@@ -156,12 +156,24 @@ function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekda
  * program running on one of those has no calendar day — the caller falls back to
  * counting completions.
  */
+const enumerableByType = {
+  daily: true,
+  'days-of-week': true,
+  'day-of-month': true,
+  'nth-weekday': true,
+  // Needs the liturgical calendar.
+  'holy-days-of-obligation': false,
+  // Falls on no determinate day.
+  'times-per': false,
+  // Carry their own start date and window; the caller resolves them directly.
+  'fixed-program': false,
+  'periodic-series': false,
+} satisfies Record<ScheduleRule['type'], boolean>
+
 function isEnumerable(schedule: Schedule): boolean {
+  // A season-limited rule needs the calendar even when its base rule doesn't.
   if (schedule.seasons?.length) return false
-  const { type } = schedule
-  return (
-    type === 'daily' || type === 'days-of-week' || type === 'day-of-month' || type === 'nth-weekday'
-  )
+  return enumerableByType[schedule.type]
 }
 
 function generateNthWeekdayOccurrences(

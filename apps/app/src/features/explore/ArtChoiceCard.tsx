@@ -12,24 +12,18 @@ import { type BlockTone, blockInk, blockLabelInk } from './bgColor'
  * The ground a choice card is painted on — its art when one is mapped, else the
  * illuminated versal on a jewel tone (the app's standing fallback, so an
  * unsourced card still reads as deliberate).
- *
- * `fit` is 'cover' for paintings, which are cropped to the card, and 'contain'
- * for plates and engravings, which are whole pages: cropping one leaves an
- * illegible fragment, so it sits framed on the tone instead.
  */
 function ChoiceGround({
   title,
   image,
   tone,
   aspectRatio,
-  fit = 'cover',
   children,
 }: {
   title: string
   image?: ImageSource
   tone: BlockTone
   aspectRatio: number
-  fit?: 'cover' | 'contain'
   children?: ReactNode
 }) {
   return (
@@ -50,7 +44,7 @@ function ChoiceGround({
         <Image
           source={image}
           style={StyleSheet.absoluteFill}
-          contentFit={fit}
+          contentFit="cover"
           transition={220}
           cachePolicy="memory-disk"
           accessibilityLabel={title}
@@ -70,7 +64,6 @@ export type ArtChoice = {
   description?: string
   image?: ImageSource
   tone: BlockTone
-  fit?: 'cover' | 'contain'
 }
 
 /**
@@ -81,14 +74,12 @@ export type ArtChoice = {
  */
 export function ArtChoiceCard({
   choice,
-  selected,
   marker,
   aspectRatio = 1,
-  titleSize,
-  titleLineHeight,
+  titleSize = '$5',
+  titleLineHeight = '$3',
 }: {
   choice: ArtChoice
-  selected?: boolean
   marker?: string
   /**
    * Width ÷ height, as React Native defines it. 1 is square (the traditions'
@@ -96,25 +87,17 @@ export function ArtChoiceCard({
    */
   aspectRatio?: number
   /** Drop this for long names — a work's full title breaks mid-word at hero size. */
-  titleSize?: number
-  titleLineHeight?: number
+  titleSize?: number | '$5'
+  titleLineHeight?: number | '$3'
 }) {
   return (
     <YStack gap="$sm">
-      <YStack
-        borderRadius="$lg"
-        borderWidth={2}
-        borderColor={selected ? '$accent' : 'transparent'}
-        padding={selected ? 3 : 0}
-      >
-        <ChoiceGround
-          title={choice.title}
-          image={choice.image}
-          tone={choice.tone}
-          aspectRatio={aspectRatio}
-          fit={choice.fit}
-        />
-      </YStack>
+      <ChoiceGround
+        title={choice.title}
+        image={choice.image}
+        tone={choice.tone}
+        aspectRatio={aspectRatio}
+      />
       <YStack gap={2}>
         {marker && (
           <Typography
@@ -122,7 +105,7 @@ export function ArtChoiceCard({
             textTransform="uppercase"
             letterSpacing={1.5}
             fontSize="$1"
-            color={selected ? '$accent' : '$colorSecondary'}
+            tone="muted"
           >
             {marker}
           </Typography>
@@ -130,11 +113,10 @@ export function ArtChoiceCard({
         <Typography
           variant="screen-title"
           textAlign="left"
-          {...(titleSize ? { fontSize: titleSize } : { fontSize: '$5' as const })}
+          fontSize={titleSize}
           paddingTop="$sm"
-          {...(titleLineHeight ? { lineHeight: titleLineHeight } : { lineHeight: '$3' as const })}
+          lineHeight={titleLineHeight}
           numberOfLines={2}
-          color={selected ? '$accent' : undefined}
         >
           {choice.title}
         </Typography>
@@ -156,31 +138,13 @@ export function ArtChoiceCard({
 export function ArtChoiceFeatureCard({
   choice,
   marker,
-  overlay = true,
   aspectRatio = 4 / 3,
-  selected,
 }: {
   choice: ArtChoice
   marker?: string
-  /**
-   * Set the name *over* the art. Only honest for a dark, full-bleed painting;
-   * a light plate or a whole page needs its name below it instead.
-   */
-  overlay?: boolean
-  /** Width ÷ height. Below 1 is portrait — see `ArtChoiceCard`. */
+  /** Width ÷ height, as React Native defines it. Below 1 is a portrait page. */
   aspectRatio?: number
-  selected?: boolean
 }) {
-  if (!overlay) {
-    return (
-      <ArtChoiceCard
-        choice={choice}
-        marker={marker}
-        selected={selected}
-        aspectRatio={aspectRatio}
-      />
-    )
-  }
   return (
     <YStack gap="$sm">
       <ChoiceGround
@@ -188,7 +152,6 @@ export function ArtChoiceFeatureCard({
         image={choice.image}
         tone={choice.tone}
         aspectRatio={aspectRatio}
-        fit={choice.fit}
       >
         {/* A soft scrim so cream ink reads over a bright ground — the same
             treatment as TemplateHero's frontispiece. */}

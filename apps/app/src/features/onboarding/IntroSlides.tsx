@@ -12,7 +12,6 @@ import { selectionTick } from '@/lib/haptics'
 import { ArtFace } from './ArtFace'
 import { PrimaryButton, SkipButton } from './OnboardingButtons'
 import { Dots } from './OnboardingProgress'
-import { VigilShell } from './OnboardingScaffold'
 
 type Slide = { title: string; body: string }
 
@@ -86,48 +85,46 @@ export function IntroSlides({
     : t('common.continue')
 
   return (
-    <VigilShell>
-      <YStack flex={1} backgroundColor="$background" onLayout={onLayout}>
-        {size.width > 0 ? (
-          <FlatList
-            ref={listRef}
-            data={slides}
-            keyExtractor={(_, i) => String(i)}
-            horizontal
-            pagingEnabled
-            showsHorizontalScrollIndicator={false}
-            onScroll={onScroll}
-            scrollEventThrottle={16}
-            renderItem={({ item, index }) => (
-              <SlideFace
-                slide={item}
-                index={index}
-                width={size.width}
-                height={size.height}
-                insetTop={insets.top}
-              />
-            )}
-          />
-        ) : null}
+    <YStack flex={1} backgroundColor="$background" onLayout={onLayout}>
+      {size.width > 0 ? (
+        <FlatList
+          ref={listRef}
+          data={slides}
+          keyExtractor={(_, i) => String(i)}
+          horizontal
+          pagingEnabled
+          showsHorizontalScrollIndicator={false}
+          onScroll={onScroll}
+          scrollEventThrottle={16}
+          renderItem={({ item, index }) => (
+            <SlideFace
+              slide={item}
+              index={index}
+              width={size.width}
+              height={size.height}
+              insetTop={insets.top}
+            />
+          )}
+        />
+      ) : null}
 
-        {/* The controls float over the painting's darkened foot. */}
-        <YStack
-          position="absolute"
-          left={0}
-          right={0}
-          bottom={0}
-          paddingBottom={insets.bottom + 16}
-          paddingHorizontal="$lg"
-          gap="$md"
-        >
-          <Dots count={slides.length} activeIndex={active} fill={false} />
-          <YStack gap="$sm">
-            <PrimaryButton label={primaryLabel} onPress={primary} />
-            {!revisit && onSkip ? <SkipButton onPress={onSkip} /> : null}
-          </YStack>
+      {/* The controls float over the painting's darkened foot. */}
+      <YStack
+        position="absolute"
+        left={0}
+        right={0}
+        bottom={0}
+        paddingBottom={insets.bottom + 16}
+        paddingHorizontal="$lg"
+        gap="$md"
+      >
+        <Dots count={slides.length} activeIndex={active} fill={false} />
+        <YStack gap="$sm">
+          <PrimaryButton label={primaryLabel} onPress={primary} />
+          {!revisit && onSkip ? <SkipButton onPress={onSkip} /> : null}
         </YStack>
       </YStack>
-    </VigilShell>
+    </YStack>
   )
 }
 
