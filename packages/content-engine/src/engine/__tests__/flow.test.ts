@@ -408,6 +408,53 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
     expect(result).toEqual([{ type: 'prose', text: { primary: 'Text chap-b' } }])
   })
 
+  it('preloads chapters nested inside plain containers like collapsible', async () => {
+    // Regression: collectBookChapterRefs listed the sections it recursed into,
+    // and `collapsible` was not on the list. A `prose` nested in one collected
+    // no refs, so resolveFlowAsync skipped hydration, the sync
+    // loadBookChapterText was absent, and resolve dropped the now-empty
+    // container — the chapter vanished with no error. This is how three book
+    // chapters in practice/visit-blessed-sacrament rendered as nothing.
+    const loadedChapters: string[] = []
+    const engineContext: EngineContext = {
+      ...makeEngineContext(),
+      loadBookChapterTextAsync: async (_book, chapter) => {
+        loadedChapters.push(chapter)
+        return { 'pt-BR': `Text ${chapter}` }
+      },
+    }
+
+    const result = await resolveFlowAsync(
+      flowDef({
+        sections: [
+          {
+            type: 'collapsible',
+            title: { 'pt-BR': 'Bloco' },
+            defaultOpen: false,
+            sections: [{ type: 'prose', book: 'liguori', chapter: 'chap-nested' }],
+          },
+          {
+            type: 'group',
+            sections: [{ type: 'prose', book: 'liguori', chapter: 'chap-grouped' }],
+          },
+        ],
+      }),
+      makeContext(),
+      engineContext,
+    )
+
+    expect(loadedChapters.sort()).toEqual(['chap-grouped', 'chap-nested'])
+    expect(result).toEqual([
+      {
+        type: 'collapsible',
+        title: { primary: 'Bloco' },
+        defaultOpen: false,
+        sections: [{ type: 'prose', text: { primary: 'Text chap-nested' } }],
+      },
+      { type: 'prose', text: { primary: 'Text chap-grouped' } },
+    ])
+  })
+
   it('uses resolve-step calendar override instead of context liturgicalCalendar', async () => {
     const date = new Date('2026-02-10T12:00:00Z')
     const liturgicalMap = {

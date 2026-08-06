@@ -18,4 +18,4 @@ Oração de Santo Efrém:
 
 Ó imaculada e inteiramente pura Virgem Maria, Mãe de Deus, Vós sois superior a todos os santos, sois a única esperança dos Patriarcas, a alegria dos justos. Por Vós nós fomos reconciliados com Deus, ó grande princesa, Mãe de Deus, cobri-nos com as asas de vossa misericórdia, tende piedade de nós. Nós somos dados a Vós e consagrados ao vosso obséquio: levamos o nome de vossos servos; não permitais que Lúcifer nos arraste ao inferno. Ó Virgem imaculada, estamos sob a vossa proteção, por isso recorremos unicamente a Vós e vos suplicamos que impeçais que o vosso Filho, irritado pelos nossos pecados, nos abandone ao poder do Demônio.
 
-E depois se fará a seguinte oração.
+E depois se farão as orações do fim de cada Visita.

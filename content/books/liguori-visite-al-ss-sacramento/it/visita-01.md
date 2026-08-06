@@ -18,4 +18,4 @@ Orazione di S. Efrem:
 
 O immacolata ed interamente pura Vergine Maria, Madre di Dio, Voi siete superiore a tutt'i santi, siete l'unica speranza de' Padri, l'allegrezza de' giusti. Per Voi noi siamo stati reconciliati con Dio, o gran principessa, Madre di Dio, copriteci colle ali di vostra misericordia, abbiate pietà di noi. Noi siamo dati a Voi, e consagrati al vostro ossequio: portiamo il nome di vostri servi; non permettete, che Lucifero ci trascini all'inferno. O Vergine immacolata, siamo sotto la vostra protezione, perciò ricorriamo unicamente a Voi e vi supplichiamo d'impedire, ch'il vostro Figliuolo, irritato per i nostri peccati, ci abbandoni alla potestà del Demonio.
 
-E poi si farà la seguente preghiera.
+E poi si faranno le preghiere in fine d'ogni visita.

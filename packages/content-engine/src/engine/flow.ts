@@ -259,6 +259,19 @@ function collectBookChapterRefs(
           if (selected?.sections) for (const s of selected.sections) walkSection(s)
         }
         break
+
+      default:
+        // Plain containers — `collapsible`, `group`, `liturgical-color-scope`.
+        // They wrap a body without changing which chapters it needs, so recurse
+        // by default rather than listing them: an unlisted container silently
+        // swallows every chapter beneath it, the flow resolves with zero refs,
+        // and `resolve.ts` then drops the empty body — the content disappears
+        // with no error anywhere. That is how three book chapters nested in
+        // `collapsible`s rendered as nothing in `practice/visit-blessed-sacrament`.
+        if ('sections' in section && Array.isArray(section.sections)) {
+          for (const s of section.sections) walkSection(s)
+        }
+        break
     }
   }
 
@@ -372,28 +385,39 @@ export async function resolveFlowAsync(
     ).values(),
   )
 
-  for (const request of uniqueRequests) {
-    const cached: LocalizedContent = {}
-    const preloadLanguages = resolveLanguageCandidates(engineContext, request.book, 'book-default')
+  // Chapters are independent, so fetch them concurrently — a flow with several
+  // book-backed sections (visit-blessed-sacrament has three) otherwise pays one
+  // serial round trip per chapter per candidate language before it can render.
+  // Languages stay sequential within a chapter: they merge into one
+  // LocalizedContent and the candidate order decides which text wins a key.
+  await Promise.all(
+    uniqueRequests.map(async (request) => {
+      const cached: LocalizedContent = {}
+      const preloadLanguages = resolveLanguageCandidates(
+        engineContext,
+        request.book,
+        'book-default',
+      )
 
-    for (const preloadLanguage of preloadLanguages) {
-      const loaded = engineContext.loadBookChapterTextAsync
-        ? await engineContext.loadBookChapterTextAsync(
-            request.book,
-            request.chapterId,
-            preloadLanguage,
-          )
-        : engineContext.loadBookChapterText?.(request.book, request.chapterId, preloadLanguage)
-      if (!loaded) continue
-      for (const [lang, text] of Object.entries(loaded)) {
-        if (text) (cached as Record<string, string>)[lang] = text
+      for (const preloadLanguage of preloadLanguages) {
+        const loaded = engineContext.loadBookChapterTextAsync
+          ? await engineContext.loadBookChapterTextAsync(
+              request.book,
+              request.chapterId,
+              preloadLanguage,
+            )
+          : engineContext.loadBookChapterText?.(request.book, request.chapterId, preloadLanguage)
+        if (!loaded) continue
+        for (const [lang, text] of Object.entries(loaded)) {
+          if (text) (cached as Record<string, string>)[lang] = text
+        }
       }
-    }
 
-    if (Object.keys(cached).length > 0) {
-      chapterCache.set(chapterCacheKey(request.book, request.chapterId), cached)
-    }
-  }
+      if (Object.keys(cached).length > 0) {
+        chapterCache.set(chapterCacheKey(request.book, request.chapterId), cached)
+      }
+    }),
+  )
 
   const hydratedEngineContext: EngineContext = {
     ...engineContext,

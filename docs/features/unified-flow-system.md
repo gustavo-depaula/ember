@@ -755,9 +755,16 @@ Same pattern as Confession: `select` (manual) with "Before Meals" and "After Mea
 
 `select` (manual) with "Daily Offering" and "Traditional" options.
 
-### Visit to Blessed Sacrament — 2 durations
+### Visit to Blessed Sacrament — 3 spiritual-communion forms
 
-`select` (manual) with "Short Visit" and "Holy Hour" options.
+`select` (manual) with "Opus Dei", "St. Alphonsus" and "St. Alphonsus (brief)" options.
+
+This practice used to branch on *duration* — "Short Visit" vs "Holy Hour" vs "Opus Dei" — which was
+the anti-pattern this document retired twice over: the Holy Hour branch duplicated the standalone
+`practice/holy-hour`, and choosing between whole devotions is a slot-level decision that belongs to
+[`alternativeTo`](#alternativeto--practice-grouping), not to `select`. The practice is now one
+devotion, and the `select` swaps a single three-line prayer inside it — a leaf-level text swap, the
+same shape as Morning Offering and Grace at Meals above.
 
 ---
 

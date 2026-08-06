@@ -12,7 +12,8 @@
 	"categories": [
 		"eucharistic",
 		"devotion",
-		"daily"
+		"daily",
+		"meditation"
 	],
 	"estimatedMinutes": 3,
 	"flowMode": "scroll",
@@ -51,7 +52,7 @@
 				"schedule": {
 					"type": "daily"
 				},
-				"time": "13:00",
+				"time": "13:30",
 				"tier": "ideal",
 				"enabled": false
 			}

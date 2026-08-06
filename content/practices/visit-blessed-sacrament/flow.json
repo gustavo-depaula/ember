@@ -16,6 +16,9 @@
 			]
 		},
 		{
+			"type": "divider"
+		},
+		{
 			"type": "repeat",
 			"count": 3,
 			"sections": [

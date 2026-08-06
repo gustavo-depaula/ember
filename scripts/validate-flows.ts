@@ -53,6 +53,65 @@ function resolvePrayerRef(ref: string, practiceIds: Set<string>): 'ok' | 'unknow
 
 const practiceIds = collectPracticeIds()
 
+const BOOKS_ROOT = join(REPO_ROOT, 'content', 'books')
+
+// `{type:"prose", book, chapter}` fails silently: resolve.ts returns [] for a
+// chapter it cannot load, and a container left empty is then dropped, so a
+// renamed or mistyped chapter deletes content with no error anywhere. Nothing
+// else checks these — refIntegrity.test.ts covers `prayer ref` only.
+type ProseIssue = { book?: string; chapter?: string }
+const bookChapterCache = new Map<string, Set<string> | undefined>()
+
+function chapterIdsFor(bookId: string): Set<string> | undefined {
+  if (bookChapterCache.has(bookId)) return bookChapterCache.get(bookId)
+  let ids: Set<string> | undefined
+  const bookDir = join(BOOKS_ROOT, bookId)
+  if (existsSync(join(bookDir, 'book.json'))) {
+    ids = new Set<string>()
+    for (const name of readdirSync(bookDir)) {
+      const langDir = join(bookDir, name)
+      if (!statSync(langDir).isDirectory()) continue
+      for (const file of readdirSync(langDir)) {
+        if (file.endsWith('.md')) ids.add(file.slice(0, -3))
+      }
+    }
+  }
+  bookChapterCache.set(bookId, ids)
+  return ids
+}
+
+function validateProseChapter(obj: ProseIssue, file: string, path: string): Issue[] {
+  const { book, chapter } = obj
+  if (typeof book !== 'string') return []
+  const found: Issue[] = []
+  const chapterIds = chapterIdsFor(book)
+  if (!chapterIds) {
+    // External books (Escrivá et al.) resolve through a producer, not disk.
+    return [
+      {
+        file,
+        path,
+        severity: 'warning',
+        message: `prose.book="${book}" — no content/books/${book}/book.json; cannot verify its chapters`,
+      },
+    ]
+  }
+  if (typeof chapter !== 'string') {
+    return [{ file, path, message: `prose missing string \`chapter\` field` }]
+  }
+  // Templated chapters ({{chapterId}}) are filled from cycle/resolve data at
+  // runtime; the literal id is unknown here.
+  if (chapter.includes('{{')) return found
+  if (!chapterIds.has(chapter)) {
+    found.push({
+      file,
+      path,
+      message: `prose.chapter="${chapter}" — book/${book} has no such chapter (renders empty, no error at runtime)`,
+    })
+  }
+  return found
+}
+
 type Issue = {
   file: string
   path: string
@@ -158,6 +217,9 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
           message: `prayer.ref="${ref}" is a canticle — use type="canticle" instead (the runtime returns undefined for canticle refs typed as "prayer")`,
         })
       }
+    }
+    if (obj.type === 'prose' && typeof obj.book === 'string') {
+      for (const issue of validateProseChapter(obj, ctx.file, path)) issues.push(issue)
     }
     if (obj.type === 'choice-rich-text') {
       if (typeof obj.slot !== 'string') {

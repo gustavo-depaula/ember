@@ -18,4 +18,4 @@ Prayer of St. Ephrem:
 
 O Immaculate and entirely pure Virgin Mary, Mother of God, you are above all the saints, you are the only hope of the Fathers, the joy of the just. Through you we have been reconciled with God. O great Princess, Mother of God, cover us with the wings of your mercy, have pity on us. We are given to you and consecrated to your service; we bear the name of your servants. Do not permit that Lucifer should drag us to hell. O Immaculate Virgin, we are under your protection; therefore we have recourse to you alone, and we beseech you to prevent your Son, angered by our sins, from abandoning us to the power of the Devil.
 
-And then make the following prayer.
+And then make the prayers appointed for the end of every Visit.

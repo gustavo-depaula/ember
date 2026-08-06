@@ -1,7 +1,7 @@
 {
 	"indexBy": "day-of-month",
 	"entries": {
-		"visits": [
+		"default": [
 			{
 				"chapterId": "visita-01"
 			},
