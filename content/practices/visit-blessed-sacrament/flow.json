@@ -39,27 +39,15 @@
 				},
 				{
 					"type": "prayer",
-					"inline": {
-						"la": "Pater noster, qui es in cælis,\nsanctificétur nomen tuum.\nAdvéniat regnum tuum.\nFiat volúntas tua, sicut in cælo et in terra.\nPanem nostrum quotidiánum da nobis hódie,\net dimítte nobis débita nostra,\nsicut et nos dimíttimus debitóribus nostris.\nEt ne nos indúcas in tentatiónem,\nsed líbera nos a malo.\nAmen.",
-						"en-US": "Our Father, who art in heaven,\nhallowed be thy name.\nThy kingdom come.\nThy will be done on earth, as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses,\nas we forgive those who trespass against us.\nAnd lead us not into temptation,\nbut deliver us from evil.\nAmen.",
-						"pt-BR": "Pai nosso, que estais nos céus,\nsantificado seja o vosso nome.\nVenha a nós o vosso reino.\nSeja feita a vossa vontade, assim na terra como no céu.\nO pão nosso de cada dia nos dai hoje,\nperdoai as nossas ofensas,\nassim como nós perdoamos a quem nos tem ofendido.\nE não nos deixeis cair em tentação,\nmas livrai-nos do mal.\nAmém."
-					}
+					"ref": "our-father"
 				},
 				{
 					"type": "prayer",
-					"inline": {
-						"la": "Ave María, grátia plena, Dóminus tecum.\nBenedícta tu in muliéribus,\net benedíctus fructus ventris tui, Iesus.\nSancta María, Mater Dei,\nora pro nobis peccatóribus,\nnunc et in hora mortis nostræ.\nAmen.",
-						"en-US": "Hail Mary, full of grace, the Lord is with thee.\nBlessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death.\nAmen.",
-						"pt-BR": "Ave Maria, cheia de graça, o Senhor é convosco.\nBendita sois vós entre as mulheres,\ne bendito é o fruto do vosso ventre, Jesus.\nSanta Maria, Mãe de Deus,\nrogai por nós, pecadores,\nagora e na hora da nossa morte.\nAmém."
-					}
+					"ref": "hail-mary"
 				},
 				{
 					"type": "prayer",
-					"inline": {
-						"la": "Glória Patri, et Fílio, et Spirítui Sancto.\nSicut erat in princípio, et nunc, et semper,\net in sǽcula sæculórum.\nAmen.",
-						"en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be,\nworld without end.\nAmen.",
-						"pt-BR": "Glória ao Pai, e ao Filho, e ao Espírito Santo.\nAssim como era no princípio, agora e sempre, e pelos séculos dos séculos.\nAmém."
-					}
+					"ref": "glory-be"
 				}
 			]
 		},
