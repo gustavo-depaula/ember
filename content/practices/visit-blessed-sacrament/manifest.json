@@ -1,48 +1,49 @@
 {
-  "id": "visit-blessed-sacrament",
-  "icon": "eucharist",
-  "name": {
-    "en-US": "Visit to the Blessed Sacrament",
-    "pt-BR": "Visita ao Santíssimo Sacramento"
-  },
-  "categories": [
-    "eucharistic",
-    "contemplative"
-  ],
-  "estimatedMinutes": 15,
-  "description": {
-    "en-US": "A visit to a Catholic church to pray before the Blessed Sacrament, where Jesus is truly present in the tabernacle. These visits are acts of adoration, gratitude, reparation, and petition. St. Alphonsus Liguori called the visit to the Blessed Sacrament 'the most necessary and most fruitful' of all devotions.",
-    "pt-BR": "Uma visita a uma igreja católica para orar diante do Santíssimo Sacramento, onde Jesus está verdadeiramente presente no sacrário. Essas visitas são atos de adoração, gratidão, reparação e petição. Santo Afonso Liguori chamou a visita ao Santíssimo Sacramento de 'a mais necessária e mais frutífera' de todas as devoções."
-  },
-  "history": {
-    "en-US": "Perpetual adoration of the Blessed Sacrament grew from the practice of reserving the Eucharist for the sick, which led naturally to visits and vigils before the tabernacle. The 40-Hours Devotion (Quarant'Ore) became widespread in 16th-century Italy. Religious congregations like the Blessed Sacrament Fathers (founded by St. Peter Julian Eymard, 1856) were established specifically for Eucharistic adoration. St. Alphonsus Liguori, St. John Vianney, St. Peter Eymard, and Blessed Teresa of Calcutta were all renowned for their hours before the Blessed Sacrament.",
-    "pt-BR": "A adoração perpétua do Santíssimo Sacramento cresceu da prática de reservar a Eucaristia para os enfermos, o que levou naturalmente a visitas e vigílias diante do sacrário. A Devoção das 40 Horas (Quarant'Ore) tornou-se generalizada na Itália do século XVI. Congregações religiosas como os Padres do Santíssimo Sacramento (fundados por São Pedro Julião Eymard, 1856) foram estabelecidas especificamente para a adoração eucarística."
-  },
-  "howToPray": {
-    "en-US": "For a short visit (5–15 min): Genuflect on entering, greet Our Lord, pray the Anima Christi, make an Act of Spiritual Communion, and speak from the heart. For a Holy Hour (60 min): structure your time with Scripture, meditation, a litany, an act of reparation, and closing prayers. Either way, begin by becoming aware that you are in the real presence of Christ.",
-    "pt-BR": "Para uma visita curta (5–15 min): Genuflita ao entrar, saude Nosso Senhor, reze a Alma de Cristo, faça um Ato de Comunhão Espiritual e fale do coração. Para uma Hora Santa (60 min): estruture o tempo com Escritura, meditação, uma litania, um ato de reparação e orações finais. De qualquer forma, comece tomando consciência de que está na presença real de Cristo."
-  },
-  "flowMode": "scroll",
-  "completion": "flow-end",
-  "flow": "flow.json",
-  "tags": [
-    "eucharistic",
-    "adoration",
-    "tabernacle",
-    "sacramental",
-    "blessed-sacrament",
-    "holy-hour"
-  ],
-  "defaults": {
-    "sortOrder": 13,
-    "slots": [
-      {
-        "schedule": {
-          "type": "daily"
-        },
-        "tier": "ideal",
-        "enabled": false
-      }
-    ]
-  }
+	"id": "visit-blessed-sacrament",
+	"icon": "eucharist",
+	"source": {
+		"en-US": "The customary form of the Work, as carried in the Opus Dei *Pocket Prayer Book* and described in [Visit to the Blessed Sacrament](https://opusdei.org/en/article/visit-to-the-blessed-sacrament-eucharistic-devotion/). Acclamation: *Adoremus in aeternum sanctissimum Sacramentum*. Spiritual communion, Spanish original: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.*",
+		"pt-BR": "A forma costumeira da Obra, recolhida no *Devocionário* do Opus Dei e descrita em [Visita ao Santíssimo Sacramento](https://opusdei.org/en/article/visit-to-the-blessed-sacrament-eucharistic-devotion/). Aclamação: *Adoremus in aeternum sanctissimum Sacramentum*. Comunhão espiritual, original espanhol: *Yo quisiera, Señor, recibiros con aquella pureza, humildad y devoción con que os recibió vuestra Santísima Madre, con el espíritu y fervor de los santos.*"
+	},
+	"name": {
+		"en-US": "Visit to the Blessed Sacrament",
+		"pt-BR": "Visita ao Santíssimo Sacramento"
+	},
+	"categories": ["eucharistic", "devotion", "daily"],
+	"estimatedMinutes": 3,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "A brief daily stop before the tabernacle, preferably at midday after lunch: the acclamation *Adoremus in aeternum* before each of three sets of Our Father, Hail Mary and Glory Be, closing with a spiritual communion.",
+		"pt-BR": "Uma breve paragem diária diante do sacrário, de preferência ao meio-dia depois do almoço: a aclamação *Adoremus in aeternum* antes de cada uma das três séries de Pai-Nosso, Ave-Maria e Glória, encerrando com uma comunhão espiritual."
+	},
+	"history": {
+		"en-US": "Visiting the reserved Eucharist is an ancient custom — it grew out of keeping the Blessed Sacrament for the sick, and by the Middle Ages the faithful were stopping at the tabernacle as a matter of course. St. Alphonsus Liguori called the visit the most necessary and most fruitful of devotions.\n\nIn Opus Dei that ancient custom is concretised in a fixed and very short daily form. It is deliberately not a second period of mental prayer: it falls at a different hour, ordinarily at midday after lunch, and it is short enough that an ordinary working day cannot crowd it out. What gives it its shape is the acclamation *Adoremus in aeternum sanctissimum Sacramentum*, made before each set of vocal prayers as an act of faith and of reparation — reparation for the coldness and neglect Our Lord receives in the sacrament where He waits.\n\nThe form does not exhaust the custom. The faithful of the Work also strive to visit the Lord at other moments of the day, even for an instant — going into or out of a centre, passing a church, crossing a square where a tabernacle is near.",
+		"pt-BR": "Visitar a Eucaristia reservada é um costume antigo — nasceu da prática de guardar o Santíssimo para os enfermos e, já na Idade Média, os fiéis paravam diante do sacrário com naturalidade. Santo Afonso de Ligório chamou à visita a mais necessária e a mais frutuosa das devoções.\n\nNo Opus Dei esse costume antigo concretiza-se numa forma diária fixa e muito breve. Não é, deliberadamente, um segundo tempo de oração mental: cai a uma hora diferente, ordinariamente ao meio-dia depois do almoço, e é curta o bastante para que um dia de trabalho comum não a possa esmagar. O que lhe dá forma é a aclamação *Adoremus in aeternum sanctissimum Sacramentum*, feita antes de cada série de orações vocais como ato de fé e de reparação — reparação pela frieza e pela negligência que Nosso Senhor recebe no sacramento onde espera.\n\nA forma não esgota o costume. Os fiéis da Obra procuram também visitar o Senhor noutros momentos do dia, ainda que por um instante — ao entrar ou sair de um centro, ao passar por uma igreja, ao atravessar uma praça onde haja um sacrário perto."
+	},
+	"howToPray": {
+		"en-US": "Make it before the tabernacle if you can — after lunch, on the way back to work, is the ordinary moment. If no church is open to you, make it where you are, turning towards Him wherever He is reserved nearest to you.\n\nGenuflect on entering and make the sign of the cross. Then, three times: the acclamation, and an Our Father, Hail Mary and Glory Be. Prayed in common, the one leading says the acclamation and everyone repeats it, and the vocal prayers go in dialogue — one side begins each prayer, the other completes it. Alone, say it all yourself; the repetition is the point.\n\nClose with the spiritual communion. Keep it short. This is a visit, not a Holy Hour — if you want the longer form before the tabernacle, that is a practice of its own.",
+		"pt-BR": "Faça-a diante do sacrário, se puder — depois do almoço, a caminho do trabalho, é o momento ordinário. Se não tiver nenhuma igreja aberta, faça-a onde estiver, voltando-se para Ele onde estiver reservado mais perto de si.\n\nGenuflita ao entrar e faça o sinal da cruz. Depois, três vezes: a aclamação e um Pai-Nosso, uma Ave-Maria e um Glória. Rezada em comum, quem dirige diz a aclamação e todos a repetem, e as orações vocais vão em diálogo — um lado começa cada oração, o outro completa-a. Sozinho, diga tudo você mesmo; a repetição é que importa.\n\nEncerre com a comunhão espiritual. Mantenha-a breve. Isto é uma visita, não uma Hora Santa — se quiser a forma longa diante do sacrário, essa é uma prática à parte."
+	},
+	"tags": [
+		"opus-dei",
+		"eucharistic",
+		"adoration",
+		"tabernacle",
+		"blessed-sacrament",
+		"josemaria",
+		"daily"
+	],
+	"defaults": {
+		"sortOrder": 13,
+		"slots": [
+			{
+				"schedule": { "type": "daily" },
+				"time": "13:00",
+				"tier": "ideal",
+				"enabled": false
+			}
+		]
+	}
 }
