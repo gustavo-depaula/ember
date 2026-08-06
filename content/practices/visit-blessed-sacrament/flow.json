@@ -1,6 +1,21 @@
 {
 	"sections": [
 		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Acts at the Beginning of the Visit",
+				"pt-BR": "Atos no Início da Visita"
+			},
+			"defaultOpen": false,
+			"sections": [
+				{
+					"type": "prose",
+					"book": "liguori-visite-al-ss-sacramento",
+					"chapter": "atti-principio-visita"
+				}
+			]
+		},
+		{
 			"type": "repeat",
 			"count": 3,
 			"sections": [
@@ -49,38 +64,13 @@
 			"type": "divider"
 		},
 		{
-			"type": "subheading",
-			"text": {
-				"en-US": "Spiritual Communion",
-				"pt-BR": "Comunhão Espiritual"
-			}
-		},
-		{
-			"type": "prayer",
-			"inline": {
-				"en-US": "I wish, my Lord and my God, to receive Thee with the purity, humility and devotion with which Thy most holy Mother received Thee, with the spirit and fervour of the saints.",
-				"pt-BR": "Quisera, Senhor, receber-Vos com aquela pureza, humildade e devoção com que Vos recebeu a vossa Santíssima Mãe, com o espírito e o fervor dos santos."
-			}
-		},
-		{
-			"type": "divider"
-		},
-		{
 			"type": "collapsible",
 			"title": {
-				"en-US": "Visit for today — St. Alphonsus Liguori",
-				"pt-BR": "Visita de hoje — Santo Afonso de Ligório"
+				"en-US": "Today's Visit — St. Alphonsus Liguori",
+				"pt-BR": "Visita de Hoje — Santo Afonso de Ligório"
 			},
 			"defaultOpen": false,
 			"sections": [
-				{
-					"type": "prose",
-					"book": "liguori-visite-al-ss-sacramento",
-					"chapter": "atti-principio-visita"
-				},
-				{
-					"type": "divider"
-				},
 				{
 					"type": "cycle",
 					"data": "visits",
@@ -91,14 +81,86 @@
 							"chapter": "{{chapterId}}"
 						}
 					]
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "select",
+			"as": "spiritualCommunion",
+			"label": {
+				"en-US": "Spiritual Communion",
+				"pt-BR": "Comunhão Espiritual"
+			},
+			"default": "opus-dei",
+			"options": [
+				{
+					"id": "opus-dei",
+					"label": {
+						"en-US": "Opus Dei",
+						"pt-BR": "Opus Dei"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "I wish, my Lord and my God, to receive Thee with the purity, humility and devotion with which Thy most holy Mother received Thee, with the spirit and fervour of the saints.",
+								"pt-BR": "Quisera, Senhor, receber-Vos com aquela pureza, humildade e devoção com que Vos recebeu a vossa Santíssima Mãe, com o espírito e o fervor dos santos."
+							}
+						}
+					]
 				},
 				{
-					"type": "divider"
+					"id": "liguori",
+					"label": {
+						"en-US": "St. Alphonsus",
+						"pt-BR": "Santo Afonso"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "My Jesus, I believe that you are present in the Blessed Sacrament. I love you above all things and I desire you in my soul. Since I cannot now receive you sacramentally, come at least spiritually into my heart. As though you had already come, I embrace you and unite myself entirely to you. Do not permit that I should ever be separated from you.",
+								"pt-BR": "Meu Jesus, creio que estais no Santíssimo Sacramento. Amo-vos sobre todas as coisas e vos desejo na minha alma. Já que agora não posso receber-vos sacramentalmente, vinde ao menos espiritualmente ao meu coração. Como se já tivésseis vindo, eu vos abraço e todo me uno a vós. Não permitais que eu jamais me separe de vós."
+							}
+						}
+					]
 				},
+				{
+					"id": "liguori-breve",
+					"label": {
+						"en-US": "St. Alphonsus (brief)",
+						"pt-BR": "Santo Afonso (breve)"
+					},
+					"sections": [
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "I believe in you, Jesus, in the Blessed Sacrament; I love you and I desire you. Come into my heart. I embrace you; never depart from me.",
+								"pt-BR": "Creio em vós, Jesus, no Santíssimo Sacramento, amo-vos e vos desejo. Vinde ao meu coração. Eu vos abraço, não vos aparteis mais de mim."
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "Prayers at the End of the Visit",
+				"pt-BR": "Orações no Fim da Visita"
+			},
+			"defaultOpen": false,
+			"sections": [
 				{
 					"type": "prose",
 					"book": "liguori-visite-al-ss-sacramento",
-					"chapter": "atto-comunione-spirituale"
+					"chapter": "preghiere-fine-visita"
 				}
 			]
 		}
