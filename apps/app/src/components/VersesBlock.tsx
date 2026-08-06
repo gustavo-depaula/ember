@@ -23,7 +23,9 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
               key={`vr-${i}`}
               gap={4}
               alignItems="baseline"
-              accessibilityLabel={`${isResponse ? t('a11y.response') : t('a11y.versicle')}: ${item.text.primary}`}
+              accessibilityLabel={t(isResponse ? 'a11y.response' : 'a11y.versicle', {
+                text: item.text.primary,
+              })}
             >
               <ResponseMark value={isResponse ? '℟' : '℣'} width={18} />
               <YStack flex={1}>
