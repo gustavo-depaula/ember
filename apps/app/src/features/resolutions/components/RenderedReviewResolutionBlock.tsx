@@ -11,6 +11,7 @@ import {
   FlowActions,
   FlowInteraction,
   FlowLine,
+  InlineMarkdownRubric,
 } from '@/components/prayer'
 import type { ResolutionOutcome } from '@/db/events'
 import { lightTap, successBuzz } from '@/lib/haptics'
@@ -73,7 +74,11 @@ export function RenderedReviewResolutionBlock({
   return (
     <Animated.View layout={LinearTransition.duration(220)}>
       <FlowInteraction>
-        {prompt ? <Typography variant="rubric">{prompt}</Typography> : undefined}
+        {prompt ? (
+          <Typography variant="rubric">
+            <InlineMarkdownRubric source={prompt} />
+          </Typography>
+        ) : undefined}
         <FlowLine text={resolution.text} />
 
         {answered ? (

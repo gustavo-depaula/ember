@@ -69,14 +69,24 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The two anchors of an interior life: a daily meditation and a daily reading.",
-					"pt-BR": "As duas âncoras da vida interior: uma meditação diária e uma leitura diária."
+					"en-US": "The two anchors of an interior life: a daily meditation and a daily reading. Two methods are given — the Alphonsian and the Teresian. Pick one and stay with it.",
+					"pt-BR": "As duas âncoras da vida interior: uma meditação diária e uma leitura diária. Dois métodos são dados — o alfonsiano e o teresiano. Escolha um e fique com ele."
 				}
 			},
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "practice/mental-prayer"
+					"ref": "practice/mental-prayer",
+					"seeAlso": [
+						"collection/alphonsus-liguori"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-teresian",
+					"seeAlso": [
+						"collection/carmelite"
+					]
 				},
 				{
 					"kind": "item",
@@ -302,18 +312,6 @@
 					"notes": {
 						"en-US": "Much loved by Teresa of Ávila.",
 						"pt-BR": "Predileto de Teresa de Ávila."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Methodus Orationis Mentalis (St. Alphonsus Liguori)",
-						"pt-BR": "Methodus Orationis Mentalis (Santo Afonso de Ligório)"
-					},
-					"notes": {
-						"en-US": "As a practice, not the book.",
-						"pt-BR": "Como prática, não o livro."
 					},
 					"proposedKind": "practice"
 				},

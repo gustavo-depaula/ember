@@ -9,26 +9,33 @@ import type { StyledSegment } from '@/lib/typography/justifyText'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { JustifiedText } from './JustifiedText'
 import { DoInlineLine } from './prayer/DoInline'
-import { InlineMarkdownLine } from './prayer/InlineMarkdown'
-import type { InlineNode } from './prayer/parseMarkdown'
+import { blockFace, composeStyle, InlineMarkdownLine } from './prayer/InlineMarkdown'
 import { parseInline } from './prayer/parseMarkdown'
 import { ResponseMark } from './prayer/ResponseMark'
 
 // Emphasis is not an obstacle to justification — justif breaks across mixed
 // runs natively, so `*Mater Dei*` is measured in the italic face and justified
-// with everything else. The parser's node types map straight onto the faces;
-// only the casing differs.
-const styleByNode: Partial<Record<InlineNode['type'], TextStyleName>> = {
-  bold: 'bold',
-  italic: 'italic',
-  bolditalic: 'boldItalic',
-}
-
-const toSegments = (line: string): StyledSegment[] =>
+// with everything else.
+//
+// The block's own face has to be part of that: a meditation is italic
+// throughout, so its plain words are italic and its emphasis flips to roman.
+// Measuring both against `regular` would price every line off the wrong table.
+const toSegments = (line: string, base: TextStyleName): StyledSegment[] =>
   parseInline(line).map((node) => ({
     text: node.text,
-    style: styleByNode[node.type] ?? 'regular',
+    style: composeStyle(node.type, base),
   }))
+
+// The face a block is set in, as the props actually reach us.
+function baseStyleOf(
+  fontWeight: ComponentProps<typeof Text>['fontWeight'],
+  fontStyle: ComponentProps<typeof Text>['fontStyle'],
+): TextStyleName {
+  const bold = fontWeight === 'bold' || fontWeight === '700'
+  const italic = fontStyle === 'italic'
+  if (bold) return italic ? 'boldItalic' : 'bold'
+  return italic ? 'italic' : 'regular'
+}
 
 export function PrayerText(props: ComponentProps<typeof Text>) {
   const style = useReadingStyle()
@@ -68,9 +75,10 @@ export function PrayerLines({
   // decisions, so a prayer never mixes the two renderers mid-way.
   const canJustify = reading.textAlign === 'justify' && markup !== 'do' && !prefix
 
+  const base = baseStyleOf(fontWeight, fontStyle)
   const segments = useMemo(
-    () => (canJustify ? lines.map(toSegments) : undefined),
-    [canJustify, lines],
+    () => (canJustify ? lines.map((line) => toSegments(line, base)) : undefined),
+    [canJustify, lines, base],
   )
 
   if (segments) {
@@ -83,12 +91,18 @@ export function PrayerLines({
             source={source}
             fontFamilyId={fontFamilyId}
             fontSizePx={reading.fontSize}
+            baseStyle={base}
             language={language ?? contentLanguage}
             // Where justification gives up — the first frame, or a face whose
             // width can't be known — the same line still has to render with its
             // emphasis intact, so hand it the ordinary inline renderer.
             fallback={
-              <InlineMarkdownLine text={lines[i]} baseFamily={baseFamily} language={language} />
+              <InlineMarkdownLine
+                text={lines[i]}
+                baseFamily={baseFamily}
+                language={language}
+                base={base}
+              />
             }
             selectable
             userSelect="text"
@@ -97,8 +111,9 @@ export function PrayerLines({
             // The line model already places every break, so the enclosing
             // Text must not add its own justification on top.
             textAlign="left"
-            fontWeight={fontWeight}
-            fontStyle={fontStyle}
+            // Named rather than left to `fontStyle`, so the block draws the
+            // face the justifier measured. See `blockFace`.
+            {...blockFace(baseFamily, base)}
           />
         ))}
       </YStack>
@@ -109,12 +124,17 @@ export function PrayerLines({
     <YStack gap="$xs">
       {lines.map((line, i) => {
         return (
-          <PrayerText key={`${i}`} fontWeight={fontWeight} fontStyle={fontStyle}>
+          <PrayerText key={`${i}`} {...blockFace(baseFamily, base)}>
             {i === 0 && prefix && <ResponseMark value={prefix} />}
             {markup === 'do' ? (
               <DoInlineLine text={line} language={language} reading={reading} />
             ) : (
-              <InlineMarkdownLine text={line} baseFamily={baseFamily} language={language} />
+              <InlineMarkdownLine
+                text={line}
+                baseFamily={baseFamily}
+                language={language}
+                base={base}
+              />
             )}
           </PrayerText>
         )

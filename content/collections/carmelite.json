@@ -38,11 +38,18 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "*Divine Intimacy* — Fr. Gabriel of St. Mary Magdalen's classic year-long course of mental prayer, structured by the liturgical year.",
-					"pt-BR": "*Intimidade Divina* — o clássico curso anual de oração mental do Pe. Gabriel de Santa Maria Madalena, estruturado pelo ano litúrgico."
+					"en-US": "*Divine Intimacy* — Fr. Gabriel of St. Mary Magdalen's classic year-long course of mental prayer, structured by the liturgical year — and the Teresian method it was written to serve.",
+					"pt-BR": "*Intimidade Divina* — o clássico curso anual de oração mental do Pe. Gabriel de Santa Maria Madalena, estruturado pelo ano litúrgico — e o método teresiano a que a obra serve."
 				}
 			},
 			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-teresian",
+					"seeAlso": [
+						"collection/mental-prayer"
+					]
+				},
 				{
 					"kind": "item",
 					"ref": "practice/intimita-divina",

@@ -1,0 +1,69 @@
+{
+	"id": "mental-prayer-teresian",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Teresian (Divine Intimacy)",
+			"pt-BR": "Teresiano (Intimidade Divina)"
+		},
+		"description": {
+			"en-US": "Seven parts — two introductory, two substantial, three optional — all ordered to the colloquy, the heart of prayer.",
+			"pt-BR": "Sete partes — duas introdutórias, duas substanciais, três facultativas — todas ordenadas ao colóquio, o coração da oração."
+		}
+	},
+	"name": {
+		"en-US": "Mental Prayer — Teresian Method",
+		"pt-BR": "Oração Mental — Método Teresiano"
+	},
+	"source": {
+		"en-US": "Fr. Gabriel of St. Mary Magdalen, O.C.D., Preface to *Divine Intimacy* (Rome, 1953)",
+		"pt-BR": "P. Gabriel de Santa Maria Madalena, O.C.D., Prefácio da *Intimidade Divina* (Roma, 1953)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 15,
+	"description": {
+		"en-US": "The Carmelite method, as Fr. Gabriel of St. Mary Magdalen set it out at the head of *Divine Intimacy*. Everything in it serves one end: to speak affectionately with the Lord after having understood that He loves us. Two introductory parts, two substantial ones, and three that are optional.",
+		"pt-BR": "O método carmelita, tal como o P. Gabriel de Santa Maria Madalena o expôs à frente da *Intimidade Divina*. Tudo nele serve a um só fim: falar afetuosamente com o Senhor depois de ter entendido que Ele nos quer bem. Duas partes introdutórias, duas substanciais e três facultativas."
+	},
+	"history": {
+		"en-US": "The method is called Teresian because it springs from the teaching of St. Teresa of Jesus, who defined mental prayer as \"an intimate sharing of friendship — taking time frequently to be alone with Him who we know loves us\" (*Life* 8, 5). Fr. Gabriel of St. Mary Magdalen (1893–1953), professor of spiritual theology at the Teresianum in Rome, first expounded it in his *Little Catechism of the Life of Prayer*, then built around it the daily meditations published after his death as *Divine Intimacy* — a work whose whole purpose is to lead souls into that intimacy.",
+		"pt-BR": "O método chama-se teresiano porque brotou dos ensinamentos de Santa Teresa de Jesus, que definiu a oração mental como \"um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama\" (*Vida* 8, 5). O P. Gabriel de Santa Maria Madalena (1893–1953), professor de teologia espiritual no Teresianum em Roma, expô-lo primeiro no seu *Pequeno Catecismo da Vida de Oração*, e depois construiu em torno dele as meditações diárias publicadas após a sua morte como *Intimidade Divina* — obra cujo propósito inteiro é conduzir as almas a essa intimidade."
+	},
+	"howToPray": {
+		"en-US": "Put yourself in God's presence with a good thought; read a passage suited to show you His love — the day's meditation from *Divine Intimacy* serves exactly this; reflect on it until words of affection rise of themselves; then speak to Him. The colloquy is the centre, and for many souls it is enough. If you want more variety, prolong it with thanksgiving, offering, and petition. Do not hurry through the parts to reach the end: the parts exist for the conversation, not the conversation for the parts.",
+		"pt-BR": "Ponha-se na presença de Deus com um bom pensamento; leia um trecho apto a manifestar-lhe o seu amor — a meditação do dia da *Intimidade Divina* serve exatamente a isto; reflita nela até que espontaneamente lhe subam palavras de afeto; então fale-Lhe. O colóquio é o centro, e para muitas almas isso basta. Se quiser maior variedade, prolongue-o com a ação de graças, a oferta e a petição. Não corra pelas partes para chegar ao fim: as partes existem para a conversa, não a conversa para as partes."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"contemplation",
+		"mental",
+		"carmelite",
+		"teresa",
+		"teresian",
+		"divine-intimacy",
+		"affective",
+		"daily",
+		"morning"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

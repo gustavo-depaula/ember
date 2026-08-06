@@ -39,11 +39,18 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "A short meditation a day, drawn from Liguori's preaching — the simplest entry into his school.",
-					"pt-BR": "Uma breve meditação por dia, tirada da pregação de Ligório — a entrada mais simples em sua escola."
+					"en-US": "A short meditation a day, drawn from Liguori's preaching — the simplest entry into his school — and the method he prefaced to it.",
+					"pt-BR": "Uma breve meditação por dia, tirada da pregação de Ligório — a entrada mais simples em sua escola — e o método que ele lhe pôs por prefácio."
 				}
 			},
 			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer",
+					"seeAlso": [
+						"collection/mental-prayer"
+					]
+				},
 				{
 					"kind": "item",
 					"ref": "practice/meditacoes-ligorio"

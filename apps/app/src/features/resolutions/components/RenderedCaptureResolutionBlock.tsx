@@ -11,6 +11,7 @@ import {
   FlowActions,
   FlowInteraction,
   FlowLine,
+  InlineMarkdownRubric,
 } from '@/components/prayer'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
@@ -79,7 +80,9 @@ export function RenderedCaptureResolutionBlock({
 
   return (
     <FlowInteraction>
-      <Typography variant="rubric">{prompt}</Typography>
+      <Typography variant="rubric">
+        <InlineMarkdownRubric source={prompt} />
+      </Typography>
 
       {!editing && resolutionId ? (
         <Animated.View

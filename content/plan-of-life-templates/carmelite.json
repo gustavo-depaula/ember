@@ -30,7 +30,7 @@
       }
     },
     {
-      "ref": "mental-prayer",
+      "ref": "mental-prayer-teresian",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "06:00",
