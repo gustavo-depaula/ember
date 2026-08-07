@@ -1,0 +1,42 @@
+{
+	"id": "o-mater-pietatis",
+	"icon": "mary",
+	"name": {
+		"en-US": "Prayer to the Blessed Virgin before Mass",
+		"pt-BR": "Oração à Santíssima Virgem antes da Missa",
+		"la": "O Mater Pietatis et Misericordiae"
+	},
+	"categories": ["marian", "eucharistic", "devotion"],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "The Missal's Marian prayer of preparation — asking Our Lady, who stood beneath the Cross, to stand by you at the altar where the same sacrifice is offered.",
+		"pt-BR": "A oração mariana de preparação do Missal — pedindo a Nossa Senhora, que esteve ao pé da Cruz, que esteja ao seu lado no altar onde o mesmo sacrifício é oferecido."
+	},
+	"history": {
+		"en-US": "This prayer stands among the prayers of preparation before Mass in the Roman Missal, after those of St. Ambrose and St. Thomas Aquinas. Its logic is the whole Catholic doctrine of the Mass in one sentence: because the sacrifice of the altar is the sacrifice of Calvary, the Mother who stood by the one may be asked to stand by the other.",
+		"pt-BR": "Esta oração está entre as orações de preparação antes da Missa no Missal Romano, depois das de Santo Ambrósio e São Tomás de Aquino. Sua lógica é toda a doutrina católica da Missa em uma frase: porque o sacrifício do altar é o sacrifício do Calvário, a Mãe que esteve junto a um pode ser chamada a estar junto ao outro."
+	},
+	"howToPray": {
+		"en-US": "Pray it last among the prayers of preparation, immediately before Mass begins.",
+		"pt-BR": "Reze-a por último entre as orações de preparação, imediatamente antes de a Missa começar."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": ["marian", "eucharistic", "preparation", "pre-mass", "missal"],
+	"source": {
+		"en-US": "Roman Missal, Praeparatio ad Missam — ⚠️ transcribed from memory, not from a vendored source; Latin, English and pt-BR all need verification against a printed missal.",
+		"pt-BR": "Missal Romano, Praeparatio ad Missam — ⚠️ transcrito de memória, não de uma fonte local; latim, inglês e pt-BR precisam de conferência com um missal impresso."
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"la": "O Mater pietátis et misericórdiæ, beatíssima Virgo María, ego miser et indígnus peccátor ad te confúgio toto corde et afféctu; et precor pietátem tuam, ut, sicut dulcíssimo Fílio tuo in Cruce pendénti astitísti, ita et mihi, mísero peccatóri, et sacerdótibus ómnibus, hic et in tota sancta Ecclésia hódie offeréntibus, cleménter assístere dignéris, ut, tua grátia adjúti, dignam et acceptábilem hóstiam in conspéctu summæ et indivíduæ Trinitátis offérre valeámus. Amen.",
+					"en-US": "O Mother of tenderness and mercy, most blessed Virgin Mary, I, a wretched and unworthy sinner, fly to you with all my heart and all my love; and I beg your tenderness, that as you stood by your most sweet Son as he hung upon the Cross, so you may graciously deign to stand by me, a wretched sinner, and by all the priests who offer here and throughout the whole holy Church today, that, helped by your grace, we may offer a worthy and acceptable victim in the sight of the most high and undivided Trinity. Amen.",
+					"pt-BR": "Ó Mãe de piedade e misericórdia, Santíssima Virgem Maria, eu, miserável e indigno pecador, refugio-me em Vós de todo o coração e afeto; e suplico à vossa piedade que, assim como estivestes junto ao vosso dulcíssimo Filho pendente na Cruz, assim também Vos digneis assistir clementemente a mim, mísero pecador, e a todos os sacerdotes que hoje oferecem aqui e em toda a santa Igreja, para que, ajudados pela vossa graça, possamos oferecer uma hóstia digna e aceitável na presença da suma e indivisa Trindade. Amém."
+				}
+			}
+		]
+	}
+}

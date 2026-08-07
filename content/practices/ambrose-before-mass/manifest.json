@@ -1,0 +1,42 @@
+{
+	"id": "ambrose-before-mass",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Prayer of St. Ambrose",
+		"pt-BR": "Oração de Santo Ambrósio",
+		"la": "Ad Mensam Dulcissimi Convivii"
+	},
+	"categories": ["eucharistic", "devotion"],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "St. Ambrose's prayer of preparation before Mass — the approach of a sinner to the table of the sweetest banquet, trembling but confident in mercy.",
+		"pt-BR": "A oração de preparação de Santo Ambrósio antes da Missa — a aproximação de um pecador à mesa do dulcíssimo banquete, trêmulo mas confiante na misericórdia."
+	},
+	"history": {
+		"en-US": "The Roman Missal prints a series of prayers of preparation before Mass, among them this one attributed to St. Ambrose of Milan (c. 339-397). Its keynote is the tension the Church wants a communicant to feel: 'I fear to approach and I tremble' set against 'I hasten to you to be healed.' The prayer of St. Thomas Aquinas that follows it in the Missal answers the same fear from the other side.",
+		"pt-BR": "O Missal Romano imprime uma série de orações de preparação antes da Missa, entre elas esta atribuída a Santo Ambrósio de Milão (c. 339-397). Sua nota dominante é a tensão que a Igreja quer que o comungante sinta: «temo aproximar-me e estremeço», posto contra «a Vós corro para ser curado». A oração de São Tomás de Aquino que a segue no Missal responde ao mesmo temor pelo outro lado."
+	},
+	"howToPray": {
+		"en-US": "Pray it before Mass begins, in your place. It is a prayer of approach — say it as one who is about to draw near, not as one already arrived.",
+		"pt-BR": "Reze-a antes de a Missa começar, em seu lugar. É uma oração de aproximação — reze-a como quem está prestes a se aproximar, não como quem já chegou."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": ["eucharistic", "preparation", "pre-mass", "ambrose", "missal"],
+	"source": {
+		"en-US": "Roman Missal, Praeparatio ad Missam — ⚠️ transcribed from memory, not from a vendored source; Latin, English and pt-BR all need verification against a printed missal.",
+		"pt-BR": "Missal Romano, Praeparatio ad Missam — ⚠️ transcrito de memória, não de uma fonte local; latim, inglês e pt-BR precisam de conferência com um missal impresso."
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"la": "Ad mensam dulcíssimi convívii tui, pie Dómine Jesu Christe, ego peccátor de própriis meis méritis nihil præsúmens, sed de tua confídens misericórdia et bonitáte, accédere véreor et contremísco. Nam cor et corpus hábeo multis crimínibus maculátum, mentem et linguam non caute custodítam.\n\nErgo, o pia Déitas, o treménda majéstas, ego miser, inter angústias deprehénsus, ad te fontem misericórdiæ me convérto, ad te festíno sanándus, sub tuam protectiónem fúgio; et, quem Júdicem sustinére néqueo, Salvatórem habére suspíro.\n\nTibi, Dómine, plagas meas osténdo, tibi verecúndiam meam détego. Scio peccáta mea multa et magna, pro quibus tímeo: spero in misericórdias tuas, quarum non est númerus. Réspice ergo in me óculis misericórdiæ tuæ, Dómine Jesu Christe, Rex ætérne, Deus et homo, crucifíxus propter hóminem.\n\nExáudi me sperántem in te: miserére mei pleni misériis et peccátis, tu qui fontem miseratiónis numquam manáre cessábis. Amen.",
+					"en-US": "To the table of your most sweet banquet, O loving Lord Jesus Christ, I, a sinner, presuming nothing on my own merits but trusting in your mercy and goodness, fear to draw near and tremble. For I have a heart and a body stained with many sins, and a mind and tongue not carefully guarded.\n\nTherefore, O loving Godhead, O dread Majesty, I in my misery, caught fast in my straits, turn to you the fountain of mercy; to you I hasten to be healed, under your protection I take refuge; and him whom I cannot bear as Judge, I long to have as Saviour.\n\nTo you, O Lord, I show my wounds; to you I uncover my shame. I know my sins are many and great, and for them I am afraid: I hope in your mercies, which are without number. Look therefore upon me with the eyes of your mercy, O Lord Jesus Christ, eternal King, God and man, crucified for man.\n\nHear me, who hope in you: have mercy on me, who am full of miseries and sins, you who will never cease to let the fountain of compassion flow. Amen.",
+					"pt-BR": "À mesa do vosso dulcíssimo banquete, ó piedoso Senhor Jesus Cristo, eu, pecador, nada presumindo dos meus próprios méritos, mas confiando na vossa misericórdia e bondade, temo aproximar-me e estremeço. Pois tenho o coração e o corpo manchados de muitos crimes, e a mente e a língua não guardadas com cuidado.\n\nPortanto, ó piedosa Divindade, ó tremenda Majestade, eu, miserável, apanhado entre angústias, volto-me para Vós, fonte de misericórdia; a Vós corro para ser curado, sob a vossa proteção me refugio; e Àquele que não posso suportar como Juiz, suspiro por ter como Salvador.\n\nA Vós, Senhor, mostro as minhas chagas; a Vós descubro a minha vergonha. Sei que os meus pecados são muitos e grandes, e por eles temo: espero nas vossas misericórdias, que não têm número. Olhai, pois, para mim com os olhos da vossa misericórdia, Senhor Jesus Cristo, Rei eterno, Deus e homem, crucificado pelo homem.\n\nOuvi-me, que espero em Vós: tende piedade de mim, cheio de misérias e pecados, Vós que nunca cessareis de fazer manar a fonte da compaixão. Amém."
+				}
+			}
+		]
+	}
+}

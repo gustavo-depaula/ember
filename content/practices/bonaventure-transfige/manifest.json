@@ -1,0 +1,42 @@
+{
+	"id": "bonaventure-transfige",
+	"icon": "sacred-heart",
+	"name": {
+		"en-US": "Prayer of St. Bonaventure",
+		"pt-BR": "Oração de São Boaventura",
+		"la": "Transfige"
+	},
+	"categories": ["eucharistic", "devotion"],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "St. Bonaventure's prayer after Communion — one long cry to be wounded by the love of Christ and to hunger for Him alone.",
+		"pt-BR": "A oração de São Boaventura depois da Comunhão — um longo clamor para ser ferido pelo amor de Cristo e ter fome só d'Ele."
+	},
+	"history": {
+		"en-US": "St. Bonaventure (1221-1274), the Seraphic Doctor, wrote this prayer as part of his eucharistic devotions. The Roman Missal prints it among the prayers of thanksgiving after Mass, and on 20 December 1884 Pope Leo XIII attached an indulgence to its recitation together with the prayer of St. Thomas Aquinas.",
+		"pt-BR": "São Boaventura (1221-1274), o Doutor Seráfico, escreveu esta oração como parte de suas devoções eucarísticas. O Missal Romano a imprime entre as orações de ação de graças depois da Missa, e em 20 de dezembro de 1884 o Papa Leão XIII concedeu indulgência à sua recitação junto com a oração de São Tomás de Aquino."
+	},
+	"howToPray": {
+		"en-US": "It is one unbroken sentence of desire. Do not hurry it — read it slowly enough that the piling up of names for Christ at the end lands as petition rather than as a list.",
+		"pt-BR": "É uma única frase ininterrupta de desejo. Não a apresse — leia devagar o bastante para que o acúmulo de nomes de Cristo no final soe como súplica, e não como lista."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": ["eucharistic", "communion", "thanksgiving", "bonaventure", "missal"],
+	"source": {
+		"en-US": "Roman Missal, Gratiarum Actio post Missam (text from Divinum Officium, MIT)",
+		"pt-BR": "Missal Romano, Gratiarum Actio post Missam (texto do Divinum Officium, MIT)"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"la": "Transfíge, dulcíssime Dómine Jesu, medúllas et víscera ánimæ meæ suavíssimo ac salubérrimo amóris tui vúlnere, vera serenáque et apostólica sanctíssima caritáte, ut lángueat et liquefíat ánima mea solo semper amóre et desidério tui; te concupíscat et defíciat in átria tua, cúpiat dissólvi et esse tecum.\n\nDa, ut ánima mea te esúriat, panem Angelórum, refectiónem animárum sanctárum, panem nostrum cotidiánum, supersubstantiálem, habéntem omnem dulcédinem et sapórem et omne delectaméntum suavitátis. Te, in quem desíderant Angeli prospícere, semper esúriat et comédat cor meum, et dulcédine sapóris tui repleántur víscera ánimæ meæ; te semper sítiat fontem vitæ, fontem sapiéntiæ et sciéntiæ, fontem ætérni lúminis, torréntem voluptátis, ubertátem domus Dei.\n\nTe semper ámbiat, te quærat, te invéniat, ad te tendat, ad te pervéniat, te meditétur, te loquátur, et ómnia operétur in laudem et glóriam nóminis tui, cum humilitáte et discretióne, cum dilectióne et delectatióne, cum facilitáte et afféctu, cum perseverántia usque in finem; ut tu sis solus semper spes mea, tota fidúcia mea, divítiæ meæ, delectátio mea, jucúnditas mea, gáudium meum, quies et tranquíllitas mea, pax mea, suávitas mea, odor meus, dulcédo mea, cibus meus, reféctio mea, refúgium meum, auxílium meum, sapiéntia mea, portio mea, posséssio mea, thesáurus meus, in quo fixa et firma et immobíliter semper sit radicáta mens mea et cor meum. Amen.",
+					"en-US": "Pierce, O most sweet Lord Jesus, the very marrow of my soul with the most sweet and wholesome wound of your love, with true, serene and holy apostolic charity, that my soul may ever languish and melt with love and longing for you alone; that it may yearn for you and faint for your courts, and long to be dissolved and to be with you.\n\nGrant that my soul may hunger for you, the Bread of Angels, the refreshment of holy souls, our daily and supersubstantial bread, having all sweetness and savour and every delight. Let my heart ever hunger for you and feed upon you, on whom the Angels desire to look, and let the depths of my soul be filled with the sweetness of your savour. Let it ever thirst for you, the fountain of life, the fountain of wisdom and knowledge, the fountain of eternal light, the torrent of delight, the plenty of the house of God.\n\nLet it ever compass you about, seek you, find you, tend toward you, come to you, meditate upon you, speak of you, and do all things for the praise and glory of your name, with humility and discretion, with love and delight, with readiness and affection, with perseverance unto the end; that you alone may ever be my hope, my whole confidence, my riches, my delight, my gladness, my joy, my rest and tranquillity, my peace, my sweetness, my fragrance, my sustenance, my refreshment, my refuge, my help, my wisdom, my portion, my possession and my treasure, in whom my mind and my heart may be fixed and firm and immovably rooted for ever. Amen.",
+					"pt-BR": "Feri, dulcíssimo Jesus, o mais íntimo e profundo do meu ser com o dardo suavíssimo e salutar do vosso amor, com aquela santíssima e inalterável caridade que foi brasão e timbre dos vossos Apóstolos, para que a minha alma se deleite e enlanguesça com a febre sempre crescente de Vos querer mais. Dai à minha alma que se queime em desejos de Vós, que desfaleça nos vossos átrios, e deseje dissolver-se e confundir-se convosco.\n\nQue tenha fome de Vós, ó Pão dos Anjos, Pão das almas santas, Pão nosso de cada dia, supersubstancial, fonte inexaurível de paz e suavidade. Ó Vós, a Quem unicamente os Anjos desejam contemplar! Que o meu coração tenha fome de Vós, que só de Vós se alimente, e que só do prazer que de Vós deriva se comovam as entranhas do meu ser; que só de Vós tenha sede, ó fonte da vida e da sabedoria, da ciência e da luz eterna, ó torrente de todos os prazeres, ó riqueza da casa de Deus.\n\nSó por Vós anseie, só a Vós procure, só a Vós encontre, só para Vós caminhe, só a Vós alcance, só em Vós pense, só de Vós fale, e tudo o que fizer seja para honra e glória do vosso nome, com humildade e discrição, com prazer e amor, com alegria e afeto, com perseverança até o fim. Sede, Senhor, a minha única esperança: só em Vós confie, só de Vós seja rico, só em Vós me regozije e alegre, ó meu descanso, ó minha paz, ó meu amor, aroma que me inebriais, doçura que me deleitais, pão que me revigorais, refúgio que me defendeis, auxílio que me escudais, sabedoria que me iluminais, herança e tesouro que espero. Que só em Vós a minha alma e o meu coração vivam e se radiquem de maneira firme e inabalável. Amém."
+				}
+			}
+		]
+	}
+}

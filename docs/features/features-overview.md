@@ -342,7 +342,7 @@ Stores: `preferencesStore` (all user preferences) and `navigationStore` (ephemer
 
 **Catechism Reader** — Three-panel sliding drawer for the CCC's 5-level hierarchy (~2,865 paragraphs). See `apps/app/src/features/catechism/`.
 
-**Mass (Ordo Missae)** — Complete ordinary with OF/EF toggle. EF propers filled daily from bundled Divinum Officium data (Latin, English, Portuguese). OF propers sourced from the vendored `ember-extra` corpus (Latin, English, Portuguese). Three view modes: Full, Propers, Readings. See `packages/mass-of/` and `packages/mass-propers/`.
+**Mass (Ordo Missae)** — Three tabs: **Mass**, **Preparation**, **Thanksgiving**. The Mass tab is the complete ordinary with the OF/EF toggle nested inside it — EF propers filled daily from bundled Divinum Officium data (Latin, English, Portuguese), OF propers from the vendored `ember-extra` corpus (Latin, English, Portuguese), with Full / Propers / Readings view modes. Preparation and Thanksgiving each nest their own `select` of the traditional prayers the Roman Missal prints for before and after Mass; Thanksgiving defaults to the full *Gratiarum Actio* (`practice/gratiarum-actio`, transcribed from `content/do/missa/*/Ordo/Post.txt`). See `packages/mass-of/` and `packages/mass-propers/`.
 
 **Reading Config** — Shared reading styles across all reading surfaces. 7 curated serif fonts, 5-step sizing scales, margins, alignment. See `apps/app/src/features/reading-config/`.
 

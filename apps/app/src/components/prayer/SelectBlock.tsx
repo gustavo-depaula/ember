@@ -33,6 +33,20 @@ export function SelectBlock({
 }) {
   const ctx = usePreprocessContext()
   const [activeId, setActiveId] = useState(selectedId)
+
+  // React reuses this instance when a *surrounding* branch switches — two
+  // sibling tabs that each hold their own select land in the same tree slot,
+  // so `activeId` survives into a select it never belonged to. Harmless-looking
+  // until both option sets share an id (Mass ▸ Preparation and ▸ Thanksgiving
+  // both offer "aquinas"), at which point the wrong prayer renders under the
+  // right chip. Reset to the engine's pick whenever the select's identity
+  // changes.
+  const [renderedKey, setRenderedKey] = useState(overrideKey)
+  if (renderedKey !== overrideKey) {
+    setRenderedKey(overrideKey)
+    setActiveId(selectedId)
+  }
+
   // With a default, fall back to the first option if the active id ever misses;
   // without one, an unmatched id means "nothing selected yet".
   const active =

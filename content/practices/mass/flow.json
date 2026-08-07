@@ -1,43 +1,295 @@
 {
-  "sections": [
-    {
-      "type": "select",
-      "on": "liturgicalCalendar",
-      "as": "form",
-      "label": {
-        "en-US": "Form",
-        "pt-BR": "Forma"
-      },
-      "default": "of",
-      "options": [
-        {
-          "id": "of",
-          "label": {
-            "en-US": "Ordinary Form",
-            "pt-BR": "Forma Ordinária"
-          },
-          "sections": [
-            {
-              "type": "include",
-              "ref": "producer/mass-of",
-              "params": {}
-            }
-          ]
-        },
-        {
-          "id": "ef",
-          "label": {
-            "en-US": "Extraordinary Form",
-            "pt-BR": "Forma Extraordinária"
-          },
-          "sections": [
-            {
-              "type": "include",
-              "ref": "producer/do-mass"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"sections": [
+		{
+			"type": "select",
+			"as": "part",
+			"default": "mass",
+			"label": {
+				"en-US": "Part",
+				"pt-BR": "Parte"
+			},
+			"options": [
+				{
+					"id": "mass",
+					"label": {
+						"en-US": "Mass",
+						"pt-BR": "Missa"
+					},
+					"sections": [
+						{
+							"type": "select",
+							"on": "liturgicalCalendar",
+							"as": "form",
+							"label": {
+								"en-US": "Form",
+								"pt-BR": "Forma"
+							},
+							"default": "of",
+							"options": [
+								{
+									"id": "of",
+									"label": {
+										"en-US": "Ordinary Form",
+										"pt-BR": "Forma Ordinária"
+									},
+									"sections": [
+										{
+											"type": "include",
+											"ref": "producer/mass-of",
+											"params": {}
+										}
+									]
+								},
+								{
+									"id": "ef",
+									"label": {
+										"en-US": "Extraordinary Form",
+										"pt-BR": "Forma Extraordinária"
+									},
+									"sections": [
+										{
+											"type": "include",
+											"ref": "producer/do-mass"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "preparation",
+					"label": {
+						"en-US": "Preparation",
+						"pt-BR": "Preparação"
+					},
+					"sections": [
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Arrive early. Kneel, quiet yourself, and remember what is about to happen at the altar. Choose one of the following.",
+								"pt-BR": "Chegue cedo. Ajoelhe-se, aquiete-se e lembre-se do que está prestes a acontecer no altar. Escolha uma das seguintes."
+							}
+						},
+						{
+							"type": "select",
+							"as": "prep",
+							"default": "aquinas",
+							"label": {
+								"en-US": "Prayer",
+								"pt-BR": "Oração"
+							},
+							"options": [
+								{
+									"id": "ambrose",
+									"label": {
+										"en-US": "St. Ambrose",
+										"pt-BR": "Sto. Ambrósio"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "ambrose-before-mass",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "aquinas",
+									"label": {
+										"en-US": "St. Thomas",
+										"pt-BR": "S. Tomás"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "aquinas-before-communion",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "our-lady",
+									"label": {
+										"en-US": "Our Lady",
+										"pt-BR": "Nossa Senhora"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "o-mater-pietatis",
+											"defaultOpen": true
+										},
+										{
+											"type": "divider"
+										},
+										{
+											"type": "prayer",
+											"ref": "sub-tuum-praesidium",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "acts",
+									"label": {
+										"en-US": "Acts",
+										"pt-BR": "Atos"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "act-of-faith",
+											"defaultOpen": true
+										},
+										{
+											"type": "divider"
+										},
+										{
+											"type": "prayer",
+											"ref": "act-of-hope",
+											"defaultOpen": true
+										},
+										{
+											"type": "divider"
+										},
+										{
+											"type": "prayer",
+											"ref": "act-of-charity",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "holy-spirit",
+									"label": {
+										"en-US": "Holy Spirit",
+										"pt-BR": "Espírito Santo"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "veni-creator-spiritus",
+											"defaultOpen": true
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "thanksgiving",
+					"label": {
+						"en-US": "Thanksgiving",
+						"pt-BR": "Ação de Graças"
+					},
+					"sections": [
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Stay in your place after Mass. These first minutes, while Christ is still sacramentally present within you, are the most privileged of the day.",
+								"pt-BR": "Permaneça em seu lugar depois da Missa. Estes primeiros minutos, enquanto Cristo ainda está sacramentalmente presente em você, são os mais privilegiados do dia."
+							}
+						},
+						{
+							"type": "select",
+							"as": "thanks",
+							"default": "rite",
+							"label": {
+								"en-US": "Prayer",
+								"pt-BR": "Oração"
+							},
+							"options": [
+								{
+									"id": "rite",
+									"label": {
+										"en-US": "Full Rite",
+										"pt-BR": "Rito Completo"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "gratiarum-actio",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "anima-christi",
+									"label": {
+										"en-US": "Anima Christi",
+										"pt-BR": "Alma de Cristo"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "anima-christi",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "aquinas",
+									"label": {
+										"en-US": "St. Thomas",
+										"pt-BR": "S. Tomás"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "aquinas-after-communion",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "bonaventure",
+									"label": {
+										"en-US": "St. Bonaventure",
+										"pt-BR": "S. Boaventura"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "bonaventure-transfige",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "en-ego",
+									"label": {
+										"en-US": "En Ego",
+										"pt-BR": "En Ego"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "prayer-before-crucifix",
+											"defaultOpen": true
+										}
+									]
+								},
+								{
+									"id": "adoro-te",
+									"label": {
+										"en-US": "Adoro Te",
+										"pt-BR": "Adoro-Te"
+									},
+									"sections": [
+										{
+											"type": "prayer",
+											"ref": "adoro-te-devote",
+											"defaultOpen": true
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }
