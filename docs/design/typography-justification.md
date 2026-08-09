@@ -9,7 +9,7 @@ Ember has two independent text renderers and they integrate with Justif very dif
 | Surface | Engine | Integration |
 |---|---|---|
 | Book reader | WebKit/Blink DOM in a WebView (iframe on web) | Justif's own DOM renderer |
-| Prayer / practice | Native `Text` (UIKit / Android `Layout`) | `justif/core` + a custom renderer |
+| Prayer / practice / prose | Native `Text` (UIKit / Android `Layout`) | `justif/core` + a custom renderer |
 
 ---
 
@@ -57,6 +57,8 @@ This is why the generator emits per-face tables and why it only lists faces the 
 
 `PrayerLines` leaves only two things on the existing renderer: Divinum Officium lines (verse numbers, pointing marks, small caps that `DoInlineLine` owns) and response marks. Both are decided per block, so a prayer never mixes the two renderers mid-way.
 
+**`ProseBlock` goes through the same pass**, and it is the surface that needed it most. A `prose` primitive is where the corpus's long-form text lands — a book chapter read inside a practice (`practice/intimita-divina` is one continuous meditation), the catechism, a chapter opened from Browse. Prayer lines are short and pre-broken; a Divine Intimacy paragraph is 2,000 characters of unbroken Portuguese, which is precisely the case greedy justification handles worst: it opens rivers of whitespace down the whole page. Paragraphs, list items and blockquote paragraphs each hand their breaks to `JustifiedText` and set themselves `left`, which is what tells the platform to leave the lines exactly where the breaker put them. A list marker is prepended as a real segment rather than drawn separately, so the first line is measured with the bullet in it.
+
 Bilingual side-by-side is where it pays most; that ~170 px column is the narrowest measure in the app.
 
 ![The bilingual prayer column, before and after](../assets/justification-native-shipped.webp)
@@ -101,7 +103,7 @@ The app also has an older hyphenation layer, `lib/hyphenate.ts` (`hyphen` packag
 
 1. **The iOS `letterSpacing` device check** above. Everything else in the prayer pipeline is verified; this decides whether it renders.
 2. **Bible as continuous prose** rather than one `<Text>` per verse (`ChapterContent.tsx:51`). Its own spec — the difference between "a verse list" and "a Bible", and what makes the page worth justifying at all. It can then use `JustifiedText` directly.
-3. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()` for text still on the plain renderer. It defaults to `'none'`, so that text is justified *without* hyphenation — the worst combination.
+3. **`android_hyphenationFrequency: 'normal'`** in `useReadingStyle()` for text still on the plain renderer. It defaults to `'none'`, so that text is justified *without* hyphenation — the worst combination. Prayer lines and prose are off that path now; what remains is Bible verses (2) and the odd block that spreads `useReadingStyle()` directly.
 4. **Protrusion and hanging punctuation on native.** `justif/core` reports `leftHang`/`rightHang`; rendering them means negative margins per line. Pure refinement.
 5. **Collapse the two Latin hyphenators.**
 
