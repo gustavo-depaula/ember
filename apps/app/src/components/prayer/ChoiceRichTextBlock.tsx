@@ -6,12 +6,15 @@ import type {
   PickerStyle,
   RichTextLine,
 } from '@ember/content-engine'
-import { useEffect, useState } from 'react'
-import { Text, XStack, YStack } from 'tamagui'
+import { useEffect, useMemo, useState } from 'react'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { useReadingStyle } from '@/hooks/useReadingStyle'
+import type { StyledSegment } from '@/lib/typography/justifyText'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
+import { ReadingParagraph } from '../ReadingParagraph'
 import { OptionCard } from './OptionCard'
-import { ResponseMark } from './ResponseMark'
+import { ResponseMark, responseMarkScale } from './ResponseMark'
 import { SectionHeading } from './SectionHeading'
 
 type Option = {
@@ -169,56 +172,109 @@ function RichTextBody({ body }: { body: BilingualRichText }) {
   )
 }
 
+/**
+ * One line of missal rich text, justified as a single paragraph.
+ *
+ * Every typed segment is an inline run: a rubric is burgundy italic, a ℣/℟ mark
+ * is set 1.15x and never broken, a reference is muted. justif prices each at
+ * its own size and colour, so a line that mixes all three still breaks as one
+ * paragraph rather than opting out of justification.
+ *
+ * A drop cap is the exception the metrics can't cover — it is set in the
+ * heading face, which has no generated advance table — so a line carrying one
+ * renders as ordinary wrapped text.
+ */
 function FormattedRichTextLine({ line }: { line: RichTextLine }) {
-  if (line.length === 0) {
-    return <YStack height="$xs" />
-  }
+  const reading = useReadingStyle()
+  const theme = useTheme()
 
-  // Render the whole line through PrayerText (which applies the user's reading
-  // style — font, size, line height). Inner segments are also PrayerText so
-  // they inherit the same typography; they only override color/style/weight
-  // for the typed segment kind. Plain `<Text>` would silently fall back to
-  // Tamagui's default font and break the missal's typography.
-  return (
-    <PrayerText>
-      {line.map((seg, i) => {
-        switch (seg.type) {
-          case 'rubric':
-            return (
-              <PrayerText key={i} color="$colorBurgundy" fontStyle="italic">
-                {seg.text}
-              </PrayerText>
-            )
-          case 'response':
-            return <ResponseMark key={i} value={seg.text} />
-          case 'signOfCross':
-            return (
-              <PrayerText key={i} color="$accent">
-                {seg.text}
-              </PrayerText>
-            )
-          case 'reference':
-            return (
-              <PrayerText key={i} color="$colorSecondary" opacity={0.7}>
-                {seg.text}
-              </PrayerText>
-            )
-          case 'italic':
-            return (
-              <PrayerText key={i} fontStyle="italic">
-                {seg.text}
-              </PrayerText>
-            )
-          case 'dropCap':
-            return (
-              <PrayerText key={i} fontFamily="$heading" color="$colorBurgundy">
-                {seg.text}
-              </PrayerText>
-            )
-          default:
-            return <PrayerText key={i}>{seg.text}</PrayerText>
-        }
-      })}
-    </PrayerText>
+  const inks = useMemo(
+    // Resolved values rather than tokens: a run's `render` is a raw RN style.
+    () => ({
+      rubric: { color: theme.colorBurgundy?.val as string },
+      mark: { color: theme.colorBurgundy?.val as string, lineHeight: reading.lineHeight },
+      accent: { color: theme.accent?.val as string },
+      reference: { color: theme.colorSecondary?.val as string, opacity: 0.7 },
+    }),
+    [theme.colorBurgundy, theme.accent, theme.colorSecondary, reading.lineHeight],
   )
+
+  const source = useMemo<StyledSegment[] | undefined>(() => {
+    const out: StyledSegment[] = []
+    for (const seg of line) {
+      switch (seg.type) {
+        case 'rubric':
+          out.push({ text: seg.text, style: 'italic', render: inks.rubric })
+          break
+        case 'response':
+          out.push({
+            text: seg.text,
+            style: 'boldItalic',
+            fontSizePx: Math.round(reading.fontSize * responseMarkScale),
+            render: inks.mark,
+            atomic: true,
+          })
+          break
+        case 'signOfCross':
+          out.push({ text: seg.text, style: 'regular', render: inks.accent })
+          break
+        case 'reference':
+          out.push({ text: seg.text, style: 'regular', render: inks.reference })
+          break
+        case 'italic':
+          out.push({ text: seg.text, style: 'italic' })
+          break
+        case 'dropCap':
+          return undefined
+        default:
+          out.push({ text: seg.text, style: 'regular' })
+      }
+    }
+    return out
+  }, [line, inks, reading.fontSize])
+
+  // Inner segments are PrayerText so they inherit the reading typography; a
+  // plain <Text> would silently fall back to Tamagui's default font.
+  const inline = line.map((seg, i) => {
+    switch (seg.type) {
+      case 'rubric':
+        return (
+          <PrayerText key={i} color="$colorBurgundy" fontStyle="italic">
+            {seg.text}
+          </PrayerText>
+        )
+      case 'response':
+        return <ResponseMark key={i} value={seg.text} />
+      case 'signOfCross':
+        return (
+          <PrayerText key={i} color="$accent">
+            {seg.text}
+          </PrayerText>
+        )
+      case 'reference':
+        return (
+          <PrayerText key={i} color="$colorSecondary" opacity={0.7}>
+            {seg.text}
+          </PrayerText>
+        )
+      case 'italic':
+        return (
+          <PrayerText key={i} fontStyle="italic">
+            {seg.text}
+          </PrayerText>
+        )
+      case 'dropCap':
+        return (
+          <PrayerText key={i} fontFamily="$heading" color="$colorBurgundy">
+            {seg.text}
+          </PrayerText>
+        )
+      default:
+        return <PrayerText key={i}>{seg.text}</PrayerText>
+    }
+  })
+
+  if (line.length === 0) return <YStack height="$xs" />
+  if (!source) return <PrayerText>{inline}</PrayerText>
+  return <ReadingParagraph source={source} fallback={<>{inline}</>} />
 }

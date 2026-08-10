@@ -187,7 +187,10 @@ function ObligationModal({
                           fontSize="$3"
                           color="$color"
                           lineHeight={28}
-                          textAlign="justify"
+                          // Not justified: this is a three-line modal blurb on
+                          // the plain renderer, where the platform breaks
+                          // greedily and cannot hyphenate. Justifying it buys
+                          // rivers and nothing else.
                         >
                           {b.explanation}
                         </Text>

@@ -12,6 +12,9 @@ import { useReadingStyle } from '@/hooks/useReadingStyle'
  * ChoiceRichTextBlock) go through this component, so styling changes
  * land everywhere at once.
  */
+/** Bumped over body text so the glyph's visual mass matches surrounding caps. */
+export const responseMarkScale = 1.15
+
 export function ResponseMark({
   value,
   width,
@@ -22,7 +25,9 @@ export function ResponseMark({
 } & Omit<ComponentProps<typeof Text>, 'children'>) {
   const reading = useReadingStyle()
   const fontSize =
-    typeof reading.fontSize === 'number' ? Math.round(reading.fontSize * 1.15) : undefined
+    typeof reading.fontSize === 'number'
+      ? Math.round(reading.fontSize * responseMarkScale)
+      : undefined
   return (
     <Text
       fontFamily="$body"

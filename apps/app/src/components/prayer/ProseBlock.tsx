@@ -1,15 +1,14 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static parsed markdown nodes never reorder
 import type { BilingualText } from '@ember/content-engine'
 import { type ComponentProps, useMemo } from 'react'
-import { Text, YStack } from 'tamagui'
-import { JustifiedText } from '@/components/JustifiedText'
+import { type Text, YStack } from 'tamagui'
+import { ReadingParagraph } from '@/components/ReadingParagraph'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { StyledSegment } from '@/lib/typography/justifyText'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 import { Typography } from '../typography'
 import { ImageBlock } from './ImageBlock'
-import { blockFace, composeStyle, InlineText } from './InlineMarkdown'
+import { composeStyle, InlineText } from './InlineMarkdown'
 import type { InlineNode } from './parseMarkdown'
 import { parseMarkdown } from './parseMarkdown'
 
@@ -40,8 +39,6 @@ function ProseParagraph({
   marker?: string
 }) {
   const reading = useReadingStyle()
-  const fontFamilyId = usePreferencesStore((s) => s.fontFamily)
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const baseFamily = reading.fontFamily as unknown as string
 
   const source = useMemo<StyledSegment[]>(() => {
@@ -52,50 +49,19 @@ function ProseParagraph({
     return marker ? [{ text: marker, style: base }, ...segments] : segments
   }, [nodes, base, marker])
 
-  // Also the fallback: where justification declines, the paragraph still has to
-  // render with its emphasis intact.
-  const inline = (
-    <>
-      {marker}
-      <InlineText nodes={nodes} baseFamily={baseFamily} base={base} />
-    </>
-  )
-
-  if (reading.textAlign !== 'justify') {
-    return (
-      <Text
-        selectable
-        {...reading}
-        color={color}
-        // Named rather than left to `fontStyle` — see `blockFace`. Cast because
-        // the RN `TextStyle` it returns also declares box properties Tamagui
-        // types more narrowly; the three keys actually set are valid Text props.
-        {...(blockFace(baseFamily, base) as ComponentProps<typeof Text>)}
-      >
-        {inline}
-      </Text>
-    )
-  }
-
   return (
-    <JustifiedText
+    <ReadingParagraph
       source={source}
-      fontFamilyId={fontFamilyId}
-      fontSizePx={reading.fontSize}
-      baseStyle={base}
-      language={contentLanguage}
-      fallback={inline}
-      selectable
-      {...reading}
+      base={base}
       color={color}
-      // The line model already places every break, so the enclosing Text must
-      // not add its own justification on top.
-      textAlign="left"
-      // Named rather than left to `fontStyle`, so the block draws the face the
-      // justifier measured. See `blockFace`. Cast because the RN `TextStyle` it
-      // returns also declares box properties Tamagui types more narrowly; the
-      // three keys actually set are all valid Text props.
-      {...(blockFace(baseFamily, base) as ComponentProps<typeof Text>)}
+      // Where justification declines, the paragraph still has to render with
+      // its emphasis intact.
+      fallback={
+        <>
+          {marker}
+          <InlineText nodes={nodes} baseFamily={baseFamily} base={base} />
+        </>
+      }
     />
   )
 }
