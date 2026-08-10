@@ -43,5 +43,3 @@ export async function ensurePracticeCursors(
     await ensureCursor(`${practiceId}/${trackName}`, '{"index":0}')
   }
 }
-
-export type { PsalmSlot } from '@/components/PsalmodyBlock'

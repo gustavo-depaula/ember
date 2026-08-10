@@ -1,9 +1,13 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: rendered producer blocks never reorder
 
-import { Fragment } from 'react'
-import { Text, YStack } from 'tamagui'
+import { Fragment, useMemo } from 'react'
+import { Text, useTheme, YStack } from 'tamagui'
 import type { ProseBlock, ProseInline } from '@/content/primitives'
+import type { TextStyleName } from '@/lib/typography/fontMetrics'
+import type { StyledSegment } from '@/lib/typography/justifyText'
 import { PrayerText } from '../PrayerText'
+import { composeStyle } from '../prayer/InlineMarkdown'
+import { ReadingParagraph } from '../ReadingParagraph'
 
 function InlineRun({
   nodes,
@@ -43,6 +47,69 @@ function InlineRun({
       })}
     </>
   )
+}
+
+/**
+ * A producer paragraph — the Compendium's answers, an article's body — set by
+ * the Knuth–Plass pass.
+ *
+ * A cross-reference is not a reason to give up on the paragraph: it becomes a
+ * run of its own carrying its colour and its press handler, and every piece the
+ * breaker produces from that run stays tappable, including both halves when a
+ * line break falls inside it. `break` is the one thing that genuinely can't
+ * ride along — a hard newline is a paragraph boundary the breaker has no model
+ * for — so those paragraphs render as ordinary wrapped text.
+ */
+function ProducerParagraph({
+  nodes,
+  base,
+  onRefPress,
+  testID,
+}: {
+  nodes: ProseInline[]
+  base: TextStyleName
+  onRefPress?: (ref: string) => void
+  testID?: string
+}) {
+  const theme = useTheme()
+  const refRender = useMemo(
+    // Resolved, not a token: a run's `render` is applied as a raw RN style.
+    () => ({ color: theme.colorMutedBlue?.val as string }),
+    [theme.colorMutedBlue],
+  )
+
+  const source = useMemo<StyledSegment[] | undefined>(() => {
+    const out: StyledSegment[] = []
+    for (const n of nodes) {
+      if (n.kind === 'break') return undefined
+      if (n.kind === 'ref') {
+        out.push({
+          text: n.text,
+          style: composeStyle('bold', base),
+          render: refRender,
+          onPress: () => onRefPress?.(n.ref),
+        })
+      } else if (n.kind === 'bold') {
+        out.push({ text: n.text, style: composeStyle('bold', base) })
+      } else if (n.kind === 'italic') {
+        out.push({ text: n.text, style: composeStyle('italic', base) })
+      } else {
+        out.push({ text: n.text, style: base })
+      }
+    }
+    return out
+  }, [nodes, base, refRender, onRefPress])
+
+  const inline = <InlineRun nodes={nodes} onRefPress={onRefPress} />
+  if (!source) {
+    return (
+      <PrayerText testID={testID} fontWeight={base === 'bold' ? '600' : undefined}>
+        {inline}
+      </PrayerText>
+    )
+  }
+
+  return <ReadingParagraph testID={testID} source={source} base={base} fallback={inline} />
 }
 
 function BlockView({
@@ -140,12 +207,12 @@ function BlockView({
 
     case 'paragraph':
       return (
-        <PrayerText
+        <ProducerParagraph
           testID={block.id ? `producer-anchor-${block.id}` : undefined}
-          fontWeight={block.className?.includes('heading') ? '600' : undefined}
-        >
-          <InlineRun nodes={block.inline} onRefPress={onRefPress} />
-        </PrayerText>
+          nodes={block.inline}
+          base={block.className?.includes('heading') ? 'bold' : 'regular'}
+          onRefPress={onRefPress}
+        />
       )
   }
 }

@@ -1,6 +1,5 @@
 export {
   ensurePracticeCursors,
-  type PsalmSlot,
   useAdvanceCursor,
   useCursorsForPractice,
   useSetCursorIndex,

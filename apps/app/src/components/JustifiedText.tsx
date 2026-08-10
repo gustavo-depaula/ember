@@ -10,7 +10,7 @@ import { Text } from 'tamagui'
 
 import { getFontFamily, type ReadingFontId } from '@/config/readingFonts'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
-import type { StyledSegment } from '@/lib/typography/justifyText'
+import type { Appearance, StyledSegment } from '@/lib/typography/justifyText'
 import { justifyText } from '@/lib/typography/justifyText'
 import { styleToFace } from './prayer/InlineMarkdown'
 
@@ -78,6 +78,17 @@ export function JustifiedText({
     } satisfies Record<TextStyleName, object | undefined>
   }, [fontFamilyId, baseStyle])
 
+  // A run's full drawing style: its face, the size it was measured at when that
+  // differs from the paragraph's, and whatever draw-only props it declared.
+  // Order matters — `render` is last so a caller's colour wins, and it is
+  // documented never to carry a metric-bearing property.
+  const drawOf = (look: Appearance) => ({
+    ...faces[look.style],
+    ...(look.fontSizePx === undefined ? undefined : { fontSize: look.fontSizePx }),
+    ...(look.letterSpacing === undefined ? undefined : { letterSpacing: look.letterSpacing }),
+    ...look.render,
+  })
+
   // onLayout gives us the measure the breaker needs. Functional update so the
   // callback doesn't close over `width` and change identity every render.
   const onLayout = useCallback((e: { nativeEvent: { layout: { width: number } } }) => {
@@ -103,14 +114,22 @@ export function JustifiedText({
           {line.pieces.map((piece, p) => (
             // biome-ignore lint/suspicious/noArrayIndexKey: same
             <Fragment key={p}>
-              <Text style={faces[piece.style]}>{piece.text}</Text>
+              {/* `onPress` rides on the piece, so a cross-reference the breaker
+                  split across two lines stays tappable on both halves. */}
+              <Text style={drawOf(piece)} onPress={piece.onPress}>
+                {piece.text}
+              </Text>
               {piece.spaceAfter && (
                 // The whole trick: a lone space, drawn in its own run's face,
-                // widened by exactly what the breaker allotted this gap.
+                // widened by exactly what the breaker allotted this gap. Never
+                // pressable — the gap belongs to the line, not to the element.
                 <Text
                   style={{
-                    ...faces[piece.spaceAfter.style],
-                    letterSpacing: piece.spaceAfter.extraPx,
+                    ...drawOf(piece.spaceAfter),
+                    // The run's own tracking is part of the width the breaker
+                    // priced this space at, so the flex adds ON TOP of it
+                    // rather than replacing it.
+                    letterSpacing: (piece.spaceAfter.letterSpacing ?? 0) + piece.spaceAfter.extraPx,
                   }}
                 >
                   {' '}
@@ -118,9 +137,7 @@ export function JustifiedText({
               )}
             </Fragment>
           ))}
-          {line.hyphenated && (
-            <Text style={faces[line.pieces[line.pieces.length - 1].style]}>-</Text>
-          )}
+          {line.hyphenated && <Text style={drawOf(line.pieces[line.pieces.length - 1])}>-</Text>}
           {i < lines.length - 1 && <Text>{'\n'}</Text>}
         </Fragment>
       ))}

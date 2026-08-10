@@ -7,11 +7,11 @@ import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { JustifiedText } from './JustifiedText'
 import { DoInlineLine } from './prayer/DoInline'
 import { blockFace, composeStyle, InlineMarkdownLine } from './prayer/InlineMarkdown'
 import { parseInline } from './prayer/parseMarkdown'
 import { ResponseMark } from './prayer/ResponseMark'
+import { ReadingParagraph } from './ReadingParagraph'
 
 // Emphasis is not an obstacle to justification — justif breaks across mixed
 // runs natively, so `*Mater Dei*` is measured in the italic face and justified
@@ -65,7 +65,6 @@ export function PrayerLines({
   const reading = useReadingStyle()
   const baseFamily = reading.fontFamily as unknown as string
   const lines = useMemo(() => text.split('\n'), [text])
-  const fontFamilyId = usePreferencesStore((s) => s.fontFamily)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
 
   // Emphasis no longer disqualifies a line; what remains are the two cases the
@@ -85,13 +84,11 @@ export function PrayerLines({
     return (
       <YStack gap="$xs">
         {segments.map((source, i) => (
-          <JustifiedText
+          <ReadingParagraph
             // biome-ignore lint/suspicious/noArrayIndexKey: prayer lines are positional and never reorder
             key={`${i}`}
             source={source}
-            fontFamilyId={fontFamilyId}
-            fontSizePx={reading.fontSize}
-            baseStyle={base}
+            base={base}
             language={language ?? contentLanguage}
             // Where justification gives up — the first frame, or a face whose
             // width can't be known — the same line still has to render with its
@@ -104,16 +101,6 @@ export function PrayerLines({
                 base={base}
               />
             }
-            selectable
-            userSelect="text"
-            color="$color"
-            {...reading}
-            // The line model already places every break, so the enclosing
-            // Text must not add its own justification on top.
-            textAlign="left"
-            // Named rather than left to `fontStyle`, so the block draws the
-            // face the justifier measured. See `blockFace`.
-            {...blockFace(baseFamily, base)}
           />
         ))}
       </YStack>
@@ -124,7 +111,13 @@ export function PrayerLines({
     <YStack gap="$xs">
       {lines.map((line, i) => {
         return (
-          <PrayerText key={`${i}`} {...blockFace(baseFamily, base)}>
+          <PrayerText
+            key={`${i}`}
+            // Cast for the same reason as `ReadingParagraph`: the RN TextStyle
+            // blockFace returns declares box properties Tamagui types more
+            // narrowly, and the keys it actually sets are all Text props.
+            {...(blockFace(baseFamily, base) as ComponentProps<typeof Text>)}
+          >
             {i === 0 && prefix && <ResponseMark value={prefix} />}
             {markup === 'do' ? (
               <DoInlineLine text={line} language={language} reading={reading} />

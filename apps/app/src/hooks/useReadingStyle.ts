@@ -37,6 +37,13 @@ export function useReadingStyle() {
     fontSize,
     lineHeight: Math.round(fontSize * ratio),
     textAlign,
+    // Android's own hyphenator, for text that never reaches the Knuth–Plass
+    // pass — a line the justifier declined, or one the platform is breaking
+    // because the reader asked for ragged. It defaults to `'none'`, which
+    // leaves justified text unhyphenated: the worst of both. iOS exposes no
+    // equivalent, which is exactly why so much of the app now breaks its own
+    // lines. See `docs/design/typography-justification.md`.
+    android_hyphenationFrequency: 'full' as const,
     ...(textAlign === 'justify' && Platform.OS === 'web' ? { style: webJustifyStyle } : {}),
   }
 }

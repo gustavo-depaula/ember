@@ -1,5 +1,5 @@
 import { AlignJustify, AlignLeft, Type, X } from 'lucide-react-native'
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -7,7 +7,9 @@ import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { readingFonts } from '@/config/readingFonts'
 import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
+import type { StyledSegment } from '@/lib/typography/justifyText'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { ReadingParagraph } from './ReadingParagraph'
 
 const previewHeight = 180
 
@@ -106,8 +108,12 @@ export function ReadingConfig() {
   const { t } = useTranslation()
   const theme = useTheme()
   const rc = usePreferencesStore()
-  const readingStyle = useReadingStyle()
   const readingMargin = useReadingMargin()
+  const preview = t('readingConfig.preview')
+  const previewSource = useMemo<StyledSegment[]>(
+    () => [{ text: preview, style: 'regular' }],
+    [preview],
+  )
 
   return (
     <YStack gap="$lg">
@@ -120,9 +126,9 @@ export function ReadingConfig() {
         height={previewHeight}
         overflow="hidden"
       >
-        <Text color="$color" {...readingStyle}>
-          {t('readingConfig.preview')}
-        </Text>
+        {/* The preview has to be set by the SAME breaker as the real thing —
+            a greedy sample would advertise rivers the reader will never see. */}
+        <ReadingParagraph source={previewSource} fallback={t('readingConfig.preview')} />
       </YStack>
 
       {/* Row 1: Size + Spacing */}
