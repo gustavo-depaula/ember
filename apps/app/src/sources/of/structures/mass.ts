@@ -4,10 +4,11 @@ import type {
   OrderOfMass,
   OrderSegment,
   Prayer,
+  ReadingSet,
 } from '@ember/missal-schema'
 import type { ContainerOption, Primitive } from '@/content/primitives'
 import { eucharisticPrayerPicker, prefacePicker } from '../blocks/eucharist'
-import { cycleKeyFor, renderReadingSet } from '../blocks/readings'
+import { renderReadingSet } from '../blocks/readings'
 import {
   bt,
   collapsible,
@@ -36,8 +37,8 @@ export interface MassContext {
   formulary: MassFormulary
   /** The formulary supplying orations (== formulary unless it inherits). */
   orations: MassFormulary
-  /** The formulary supplying readings (the temporal sibling on memorial days). */
-  readingsFormulary: MassFormulary
+  /** The day's readings — proper slots over the ferial ones (see resolveReadingSet). */
+  readings?: ReadingSet
   order: OrderOfMass
   cycle: 'A' | 'B' | 'C'
   weekdayCycle: 'I' | 'II'
@@ -161,10 +162,8 @@ function renderStep(step: SpineStep, ctx: MassContext): Primitive[] {
       ]
     }
     case 'readings': {
-      const ck = cycleKeyFor(ctx.readingsFormulary, ctx.cycle, ctx.weekdayCycle)
-      const set = ck ? ctx.readingsFormulary.readings?.[ck] : undefined
-      return set
-        ? renderReadingSet(set, lang)
+      return ctx.readings
+        ? renderReadingSet(ctx.readings, lang)
         : [
             rubric(
               L(
@@ -196,9 +195,7 @@ function fullMass(ctx: MassContext): Primitive[] {
 }
 
 function readingsOnly(ctx: MassContext): Primitive[] {
-  const ck = cycleKeyFor(ctx.readingsFormulary, ctx.cycle, ctx.weekdayCycle)
-  const set = ck ? ctx.readingsFormulary.readings?.[ck] : undefined
-  return set ? renderReadingSet(set, ctx.lang) : []
+  return ctx.readings ? renderReadingSet(ctx.readings, ctx.lang) : []
 }
 
 /** A regular Mass with a Full / Readings-only view switcher. */

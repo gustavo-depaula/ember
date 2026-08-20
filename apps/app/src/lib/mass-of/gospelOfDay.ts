@@ -1,7 +1,8 @@
 import type { ContentLanguage } from '@ember/content-engine'
 import { resolveOfDay } from '@ember/mass'
 import type { Lang, ReadingSet } from '@ember/missal-schema'
-import { cycleKeyFor, loadMassFormulary, loadOfCalendar, scopeForContentLang } from './loaders'
+import { loadMassFormulary, loadOfCalendar, scopeForContentLang } from './loaders'
+import { readingSetOf } from './readings'
 
 export type EmberLang = 'la' | 'es' | 'en' | 'pt-BR' | 'it' | 'fr' | 'de'
 
@@ -46,8 +47,7 @@ export async function loadGospelOfDay(
   for (const ref of refs) {
     const f = await loadMassFormulary(ref)
     if (!f?.readings) continue
-    const ck = cycleKeyFor(f, day.cycle, day.weekdayCycle)
-    const g = gospelFrom(ck ? f.readings[ck] : undefined, schemaLang)
+    const g = gospelFrom(readingSetOf(f, day.cycle, day.weekdayCycle), schemaLang)
     if (g.text) return { text: g.text, citation: g.citation }
   }
   return undefined

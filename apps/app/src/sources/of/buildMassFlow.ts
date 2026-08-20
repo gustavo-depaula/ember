@@ -1,6 +1,7 @@
 import type { OfCelebration, OfResolvedDay } from '@ember/mass'
 import type { MassFormulary, OrderOfMass } from '@ember/missal-schema'
 import type { ContainerOption, Primitive } from '@/content/primitives'
+import { resolveReadingSet } from '@/lib/mass-of/readings'
 import { banner, saintDescription } from './blocks/banner'
 import { bt, colorScope, type LangPrefs } from './helpers'
 import { type MassContext, renderMass } from './structures/mass'
@@ -24,16 +25,18 @@ function renderCelebration(c: OfCelebration, args: BuildOfMassArgs): Primitive[]
 
   if (f.structure === 'mass' || f.structure === 'vigil-mass') {
     const orations = f.inheritsOrationsFrom ? (args.formularies[f.inheritsOrationsFrom] ?? f) : f
-    // Memorials with no proper readings borrow the day's temporal readings.
-    const readingsFormulary = f.readings
-      ? f
-      : args.day.temporalRef
-        ? (args.formularies[args.day.temporalRef] ?? f)
-        : f
+    // Saints' days carry only the slots that are proper to them (often just a
+    // first reading) — the rest come from the day's ferial lectionary.
+    const readings = resolveReadingSet({
+      formulary: f,
+      temporal: args.day.temporalRef ? args.formularies[args.day.temporalRef] : undefined,
+      cycle: args.day.cycle,
+      weekdayCycle: args.day.weekdayCycle,
+    })
     const ctx: MassContext = {
       formulary: f,
       orations,
-      readingsFormulary,
+      readings,
       order: args.order,
       cycle: args.day.cycle,
       weekdayCycle: args.day.weekdayCycle,

@@ -6,7 +6,6 @@ import type {
   Primitive,
   VersesPrimitive,
 } from '@/content/primitives'
-import { cycleKeyFor } from '@/lib/mass-of/loaders'
 import { brt, bt, heading, joinLine, type LangPrefs, rubric, text } from '../helpers'
 import { deoGratias, gloryToYou } from '../responses'
 
@@ -17,8 +16,6 @@ const readingResponse: Record<string, Localized | undefined> = {
   secondReading: deoGratias,
   gospel: gloryToYou,
 }
-
-export { cycleKeyFor }
 
 const slotLabels: Record<string, { pt: string; en: string }> = {
   firstReading: { pt: 'Primeira Leitura', en: 'First Reading' },
