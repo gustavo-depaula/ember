@@ -1,8 +1,7 @@
 import { Check } from 'lucide-react-native'
-import { useEffect } from 'react'
+import { useEffect, useRef } from 'react'
 import { Pressable } from 'react-native'
 import Animated, {
-  interpolateColor,
   useAnimatedStyle,
   useSharedValue,
   withSequence,
@@ -14,6 +13,7 @@ import { useTheme } from 'tamagui'
 import { snappySpring } from '@/config/animation'
 
 const defaultSize = 28
+const fillDuration = 180
 
 export function AnimatedCheckbox({
   checked,
@@ -31,24 +31,30 @@ export function AnimatedCheckbox({
   subtle?: boolean
 }) {
   const theme = useTheme()
-  const progress = useSharedValue(checked ? 1 : 0)
+
+  // The filled/empty look is derived from `checked` *inside* the animated styles
+  // rather than held in a hand-driven `progress` shared value: native-screen
+  // reattachment under NativeTabs re-initializes shared values to their starting
+  // value, so a row that was unchecked when the screen first mounted snapped back
+  // to an empty circle after navigating away and back — the row still knew it was
+  // done (muted text, no tier dots), only the fill was stranded.
   const pulse = useSharedValue(1)
+  const wasChecked = useRef(checked)
 
   const borderColor = theme.borderColor.val
-  const accentColor = theme.accent.val
-  const fillColor = subtle ? theme.accentSubtle.val : accentColor
+  const fillColor = subtle ? theme.accentSubtle.val : theme.accent.val
   const bgColor = theme.background.val
   const checkIconSize = Math.round(size * 0.57)
 
+  // Pulse only on a real unchecked -> checked transition, never on mount or
+  // reattach. Its resting value is also its initial value, so a reset is a no-op.
   useEffect(() => {
-    if (checked) {
-      progress.value = withSpring(1, snappySpring)
+    const justChecked = checked && !wasChecked.current
+    wasChecked.current = checked
+    if (justChecked) {
       pulse.value = withSequence(withTiming(1.15, { duration: 100 }), withSpring(1, snappySpring))
-    } else {
-      progress.value = withTiming(0, { duration: 150 })
-      pulse.value = 1
     }
-  }, [checked, progress, pulse])
+  }, [checked, pulse])
 
   const containerStyle = useAnimatedStyle(() => ({
     width: size,
@@ -57,14 +63,14 @@ export function AnimatedCheckbox({
     borderWidth: subtle ? 1 : 2,
     alignItems: 'center' as const,
     justifyContent: 'center' as const,
-    borderColor: interpolateColor(progress.value, [0, 1], [borderColor, fillColor]),
-    backgroundColor: interpolateColor(progress.value, [0, 1], ['transparent', fillColor]),
+    borderColor: withTiming(checked ? fillColor : borderColor, { duration: fillDuration }),
+    backgroundColor: withTiming(checked ? fillColor : 'transparent', { duration: fillDuration }),
     transform: [{ scale: pulse.value }],
   }))
 
   const checkStyle = useAnimatedStyle(() => ({
-    transform: [{ scale: progress.value }],
-    opacity: progress.value,
+    transform: [{ scale: withSpring(checked ? 1 : 0, snappySpring) }],
+    opacity: withTiming(checked ? 1 : 0, { duration: fillDuration }),
   }))
 
   return (
