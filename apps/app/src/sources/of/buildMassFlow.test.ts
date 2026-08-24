@@ -56,6 +56,16 @@ function buildDay(y: number, m: number, d: number) {
 
 const types = (prims: unknown[]): string[] => prims.map((p) => (p as { type: string }).type)
 
+/** One celebration's subtree out of the day's celebration picker. */
+function celebrationBranch(flow: unknown[], ref: string): unknown[] {
+  const picker = flow.find(
+    (p) =>
+      (p as { behavior?: { overrideKey?: string } }).behavior?.overrideKey === 'of.celebration',
+  ) as { behavior: { options: Array<{ id: string; children: unknown[] }> } } | undefined
+  if (!picker) return flow
+  return picker.behavior.options.find((o) => o.id === ref)?.children ?? []
+}
+
 /** The children of the "Full Mass" view-switcher branch. */
 function fullView(flow: unknown[]): unknown[] {
   const select = flow.find(
@@ -248,6 +258,20 @@ describe('buildOfMassFlow', () => {
     // Either a single celebration (banner + switcher) or a picker — both valid.
     expect(flow.length).toBeGreaterThan(0)
     expect(types(flow).some((t) => t === 'callout' || t === 'container')).toBe(true)
+  })
+
+  it('fills a memorial\u2019s missing reading slots from the ferial lectionary', () => {
+    // 2026-08-20 \u2014 St Bernard (memorial). His formulary carries only a proper
+    // first reading (Eclo 15); psalm, acclamation and Gospel come from Thursday
+    // of the 20th week in Ordinary Time, Year II.
+    const branch = celebrationBranch(buildDay(2026, 8, 20), 'sanctorale.08-20')
+    const full = JSON.stringify(fullView(branch))
+    expect(full).toContain('Eclo 15, 1-6') // proper first reading kept
+    expect(full).toContain('Salmo Responsorial')
+    expect(full).toContain('Sl 50, 12-13. 14-15. 18-19') // ferial psalm (Year II)
+    expect(full).toContain('Aclama\u00e7\u00e3o ao Evangelho')
+    expect(full).toContain('Mt 22, 1-14') // ferial Gospel
+    expect(full).not.toContain('Ez 36, 23-28') // ferial first reading yields to the proper
   })
 
   it('renders Good Friday via the special-rite content tree', () => {
