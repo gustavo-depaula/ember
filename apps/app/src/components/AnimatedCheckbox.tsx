@@ -1,7 +1,8 @@
 import { Check } from 'lucide-react-native'
-import { useEffect, useRef } from 'react'
+import { useEffect, useMemo, useRef } from 'react'
 import { Pressable } from 'react-native'
 import Animated, {
+  Easing,
   useAnimatedStyle,
   useSharedValue,
   withSequence,
@@ -13,7 +14,9 @@ import { useTheme } from 'tamagui'
 import { snappySpring } from '@/config/animation'
 
 const defaultSize = 28
-const fillDuration = 180
+// Front-loaded like the spring it replaces: colours can't spring (overshoot
+// clamps), but an eased-out timing reads as the same instant response.
+const fillTiming = { duration: 140, easing: Easing.out(Easing.quad) }
 
 export function AnimatedCheckbox({
   checked,
@@ -56,22 +59,36 @@ export function AnimatedCheckbox({
     }
   }, [checked, pulse])
 
-  const containerStyle = useAnimatedStyle(() => ({
-    width: size,
-    height: size,
-    borderRadius: size / 2,
-    borderWidth: subtle ? 1 : 2,
-    alignItems: 'center' as const,
-    justifyContent: 'center' as const,
-    borderColor: withTiming(checked ? fillColor : borderColor, { duration: fillDuration }),
-    backgroundColor: withTiming(checked ? fillColor : 'transparent', { duration: fillDuration }),
-    transform: [{ scale: pulse.value }],
+  // Three styles, deliberately: an animated style that both reads a shared value
+  // and returns an animation re-runs its worklet every frame, and `styleUpdater`
+  // then re-pushes the whole non-animated half of that style *without* its
+  // shallow-equal guard. Sharing one style meant the box metrics — width, height,
+  // borderWidth — were committed to the shadow tree on every frame of the pulse,
+  // forcing a layout pass each time on top of the colour animation's own commits.
+  // Split up, no layout prop ever travels through a worklet.
+  const pulseStyle = useAnimatedStyle(() => ({ transform: [{ scale: pulse.value }] }))
+
+  const fillStyle = useAnimatedStyle(() => ({
+    borderColor: withTiming(checked ? fillColor : borderColor, fillTiming),
+    backgroundColor: withTiming(checked ? fillColor : 'transparent', fillTiming),
   }))
 
   const checkStyle = useAnimatedStyle(() => ({
     transform: [{ scale: withSpring(checked ? 1 : 0, snappySpring) }],
-    opacity: withTiming(checked ? 1 : 0, { duration: fillDuration }),
+    opacity: withTiming(checked ? 1 : 0, fillTiming),
   }))
+
+  const boxStyle = useMemo(
+    () => ({
+      width: size,
+      height: size,
+      borderRadius: size / 2,
+      borderWidth: subtle ? 1 : 2,
+      alignItems: 'center' as const,
+      justifyContent: 'center' as const,
+    }),
+    [size, subtle],
+  )
 
   return (
     <Pressable
@@ -82,9 +99,11 @@ export function AnimatedCheckbox({
       accessibilityLabel={accessibilityLabel}
       testID={testID}
     >
-      <Animated.View style={containerStyle}>
-        <Animated.View style={checkStyle}>
-          <Check size={checkIconSize} color={bgColor} />
+      <Animated.View style={pulseStyle}>
+        <Animated.View style={[boxStyle, fillStyle]}>
+          <Animated.View style={checkStyle}>
+            <Check size={checkIconSize} color={bgColor} />
+          </Animated.View>
         </Animated.View>
       </Animated.View>
     </Pressable>
