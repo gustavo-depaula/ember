@@ -1,0 +1,40 @@
+{
+	"id": "offering-of-works",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "Offering of Works",
+		"pt-BR": "Oferecimento de Obras"
+	},
+	"categories": ["daily", "opus-dei"],
+	"estimatedMinutes": 1,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"source": {
+		"en-US": "The customary *ofrecimiento de obras* of the Opus Dei *Pocket Prayer Book*, an old Spanish and Italian household prayer St. Josemaría learned from his mother and kept morning and night. Spanish: *Te adoro, Dios mío, y te amo con todo mi corazón. Te doy gracias por haberme creado, hecho cristiano y conservado en esta noche…*",
+		"pt-BR": "O costumeiro *oferecimento de obras* do *Devocionário* do Opus Dei, antiga oração doméstica espanhola e italiana que São Josemaria aprendeu da mãe e rezava de manhã e à noite. Espanhol: *Te adoro, Dios mío, y te amo con todo mi corazón. Te doy gracias por haberme creado, hecho cristiano y conservado en esta noche…*"
+	},
+	"description": {
+		"en-US": "Four movements in a few seconds — adoration, thanksgiving for the night just passed, the day's actions handed over, and a petition for protection — prayed on rising and again before sleep.",
+		"pt-BR": "Quatro movimentos em poucos segundos — adoração, ação de graças pela noite que passou, a entrega das ações do dia e o pedido de proteção — rezados ao levantar e de novo antes de dormir."
+	},
+	"history": {
+		"en-US": "This is not a composed devotion but a household prayer, carried in Spanish and Italian homes long before Opus Dei existed. St. Josemaría learned it as a boy from his mother and went on praying it, morning and evening, for the rest of his life; through him it became the customary offering of works in the Work.\n\nIts shape is worth noticing. It does not offer *feelings* or resolutions, but *acciones* — the actions of the day, whatever they turn out to be: the work, the interruptions, the commute, the contradictions. That is the whole of Opus Dei's spirituality compressed into one sentence, and it is why the offering is made at the moment of rising, before the day has had a chance to declare what it will contain.",
+		"pt-BR": "Não é uma devoção composta, mas uma oração doméstica, guardada em casas espanholas e italianas muito antes de existir o Opus Dei. São Josemaria aprendeu-a em menino, da mãe, e continuou a rezá-la de manhã e à noite pelo resto da vida; por ele tornou-se o oferecimento de obras costumeiro na Obra.\n\nA sua forma merece atenção. Não oferece *sentimentos* nem propósitos, mas *ações* — as ações do dia, sejam elas quais forem: o trabalho, as interrupções, o trajeto, as contradições. É toda a espiritualidade do Opus Dei comprimida numa frase, e é por isso que o oferecimento se faz ao levantar, antes que o dia tenha ocasião de declarar o que trará."
+	},
+	"howToPray": {
+		"en-US": "Pray it standing, at the moment of rising, before anything else is decided. Do not rush the second sentence — *created me, made me a Christian, kept me this night* are three distinct gifts, and the third one is why you are awake to name the other two. Then let *the actions of the day* mean the actual day ahead of you, not an abstraction.",
+		"pt-BR": "Reze-a de pé, no momento de se levantar, antes que qualquer outra coisa seja decidida. Não atropele a segunda frase — *criado, feito cristão, conservado nesta noite* são três dons distintos, e o terceiro é a razão de estar acordado para nomear os dois primeiros. Depois, deixe que *as ações deste dia* signifiquem o dia real que tem pela frente, e não uma abstração."
+	},
+	"tags": ["opus-dei", "morning", "offering", "josemaria", "daily"],
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "I adore you, my God, and I love you with all my heart. I thank you for having created me, made me a Christian and kept me in this night. I offer you the actions of the day: grant that all of them may be according to your holy will and for your greater glory. Preserve me from sin and from all evil. May your grace be always with me and with all my loved ones. Amen.",
+					"pt-BR": "Eu Vos adoro, meu Deus, e Vos amo com todo o coração. Dou-Vos graças por me terdes criado, feito cristão e conservado nesta noite. Ofereço-Vos as ações deste dia: fazei que sejam todas segundo a Vossa santa vontade e para a Vossa maior glória. Preservai-me do pecado e de todo mal. A Vossa graça esteja sempre comigo e com todos os meus entes queridos. Amém."
+				}
+			}
+		]
+	}
+}

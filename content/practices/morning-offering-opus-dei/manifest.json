@@ -13,8 +13,8 @@
 		}
 	},
 	"source": {
-		"en-US": "St. Josemaría Escrivá, *The Way* (Camino) §206 — the *minuto heroico*; *Serviam!* aspiration from Opus Dei spiritual tradition. Offering text from the Apostleship of Prayer (offering-to-sacred-heart). Verified via [The Catholic Gentleman](https://catholicgentleman.com/2013/08/the-first-battle-of-the-day/) and Opus Dei publications.",
-		"pt-BR": "São Josemaria Escrivá, *Caminho* §206 — o *minuto heroico*; jaculatória *Serviam!* da tradição espiritual do Opus Dei. Texto do oferecimento da Apostolado da Oração (offering-to-sacred-heart). Verificado em [The Catholic Gentleman](https://catholicgentleman.com/2013/08/the-first-battle-of-the-day/) e publicações do Opus Dei."
+		"en-US": "St. Josemaría Escrivá, *The Way* (Camino) §206 — the *minuto heroico*; *Serviam!* and *Deo omnis gloria!* aspirations from Opus Dei spiritual tradition. Offering text is the customary *ofrecimiento de obras* of the *Pocket Prayer Book* (offering-of-works), the prayer St. Josemaría learned from his mother — not the Apostleship of Prayer formula, which belongs to a different devotion.",
+		"pt-BR": "São Josemaria Escrivá, *Caminho* §206 — o *minuto heroico*; jaculatórias *Serviam!* e *Deo omnis gloria!* da tradição espiritual do Opus Dei. O texto do oferecimento é o costumeiro *oferecimento de obras* do *Devocionário* (offering-of-works), a oração que São Josemaria aprendeu da mãe — e não a fórmula do Apostolado da Oração, que pertence a outra devoção."
 	},
 	"name": {
 		"en-US": "Morning Offering — Heroic Minute",
@@ -30,12 +30,12 @@
 		"pt-BR": "O ato matinal no espírito de São Josemaria Escrivá — levantar-se à hora marcada sem hesitação, beijar o chão com o *Serviam!* e oferecer a Deus o dia de trabalho ordinário."
 	},
 	"history": {
-		"en-US": "St. Josemaría Escrivá taught the *minuto heroico* in *The Way* §206 — the heroic minute is the time fixed for getting up: *without hesitation, a supernatural reflection and… up!* The first conscious act of the day is *Serviam!* — *I will serve!* — answering the *non serviam* of pride. The morning offering that follows places the day's ordinary work, prayer, joys, and contradictions in God's hands.",
-		"pt-BR": "São Josemaria Escrivá ensinou o *minuto heroico* em *Caminho* §206 — o minuto heroico é a hora marcada para se levantar: *sem hesitar: uma reflexão sobrenatural e... de pé!* O primeiro ato consciente do dia é *Serviam!* — *Servirei!* — resposta ao *non serviam* da soberba. O oferecimento matinal que se segue põe nas mãos de Deus o trabalho ordinário, a oração, as alegrias e as contradições do dia."
+		"en-US": "St. Josemaría Escrivá taught the *minuto heroico* in *The Way* §206 — the heroic minute is the time fixed for getting up: *without hesitation, a supernatural reflection and… up!* The first conscious act of the day is *Serviam!* — *I will serve!* — answering the *non serviam* of pride. The offering of works that follows is the household prayer he learned from his mother and kept all his life — adoration, thanks for the night, and the day's *actions* handed over before they are known.",
+		"pt-BR": "São Josemaria Escrivá ensinou o *minuto heroico* em *Caminho* §206 — o minuto heroico é a hora marcada para se levantar: *sem hesitar: uma reflexão sobrenatural e... de pé!* O primeiro ato consciente do dia é *Serviam!* — *Servirei!* — resposta ao *non serviam* da soberba. O oferecimento de obras que se segue é a oração doméstica que ele aprendeu da mãe e guardou a vida inteira — adoração, ação de graças pela noite e a entrega das *ações* do dia antes de as conhecer."
 	},
 	"howToPray": {
-		"en-US": "When the alarm sounds, rise at once. Kiss the floor (or the place by the bed) and say aloud: *Serviam!* Then offer the day — work, prayer, and sufferings — to God through the Immaculate Heart of Mary.",
-		"pt-BR": "Quando o despertador soar, levante-se imediatamente. Beije o chão (ou o lugar junto à cama) e diga em voz alta: *Serviam!* Em seguida, ofereça o dia — o trabalho, a oração e os sofrimentos — a Deus pelo Coração Imaculado de Maria."
+		"en-US": "When the alarm sounds, rise at once. Kiss the floor (or the place by the bed) and say aloud: *Serviam!* Sign yourself, and then make the offering of works standing — handing over the actions of the day before you know what they will be. Close with *Deo omnis gloria!*",
+		"pt-BR": "Quando o despertador soar, levante-se imediatamente. Beije o chão (ou o lugar junto à cama) e diga em voz alta: *Serviam!* Faça o sinal da cruz e reze de pé o oferecimento de obras — entregando as ações do dia antes de saber quais serão. Encerre com *Deo omnis gloria!*"
 	},
 	"tags": ["morning", "offering", "opus-dei", "josemaria", "heroic-minute", "serviam"],
 	"defaults": {
