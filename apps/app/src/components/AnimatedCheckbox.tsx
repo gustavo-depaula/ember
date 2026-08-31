@@ -7,7 +7,6 @@ import Animated, {
   withSequence,
   withSpring,
   withTiming,
-  ZoomIn,
 } from 'react-native-reanimated'
 import { useTheme } from 'tamagui'
 
@@ -75,19 +74,23 @@ export function AnimatedCheckbox({
       onPress={onToggle}
       hitSlop={8}
       accessibilityRole="checkbox"
+      // `accessibilityState` alone never reaches the DOM — react-native-web drops
+      // it, so the web build shipped a checkbox with no checked state for screen
+      // readers. `aria-checked` is honoured on both (RN maps aria-* since 0.71).
       accessibilityState={{ checked }}
+      aria-checked={checked}
       accessibilityLabel={accessibilityLabel}
       testID={testID}
     >
       <Animated.View style={pulseStyle}>
         <View style={boxStyle}>
-          {/* Declarative entering animation, not a hand-driven value: the glyph's
-              presence is plain React, so it survives reattachment either way. */}
-          {checked && (
-            <Animated.View entering={ZoomIn.springify().damping(18).stiffness(250).mass(0.6)}>
-              <Check size={Math.round(size * 0.57)} color={theme.background.val} />
-            </Animated.View>
-          )}
+          {/* Plain, not an `entering` animation: an entering view starts hidden and
+              is revealed by the animation, so a run that never starts (reduced
+              motion, `skipEntering`, mounting mid-transition) leaves the glyph
+              invisible on a checked row — the same failure this component keeps
+              having. Nothing that decides whether state is *visible* may depend on
+              an animation running. The pulse below is the feedback. */}
+          {checked && <Check size={Math.round(size * 0.57)} color={theme.background.val} />}
         </View>
       </Animated.View>
     </Pressable>
