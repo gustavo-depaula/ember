@@ -2,6 +2,7 @@ import { type DoVersionId, doVersionOrder } from '@ember/divinum-officium'
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import Constants from 'expo-constants'
+import { useRouter } from 'expo-router'
 import * as Updates from 'expo-updates'
 import { useUpdates } from 'expo-updates'
 import { useState } from 'react'
@@ -49,6 +50,7 @@ const themeOptions = [
 
 export default function SettingsScreen() {
   const { t } = useTranslation()
+  const router = useRouter()
   const translation = usePreferencesStore((s) => s.translation)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const setLiturgicalCalendar = usePreferencesStore((s) => s.setLiturgicalCalendar)
@@ -67,6 +69,34 @@ export default function SettingsScreen() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={t('settings.title')} />
+
+        <Pressable
+          onPress={() => router.push('/tour')}
+          accessibilityRole="button"
+          accessibilityLabel={t('settings.tour')}
+        >
+          <XStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$md"
+            alignItems="center"
+            justifyContent="space-between"
+          >
+            <YStack flex={1}>
+              <Text fontFamily="$body" fontSize="$2" color="$color">
+                {t('settings.tour')}
+              </Text>
+              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                {t('settings.tourDescription')}
+              </Text>
+            </YStack>
+            <Text fontFamily="$body" fontSize="$2" color="$accent">
+              {t('settings.view')}
+            </Text>
+          </XStack>
+        </Pressable>
+
+        <SectionDivider />
 
         <YStack gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
