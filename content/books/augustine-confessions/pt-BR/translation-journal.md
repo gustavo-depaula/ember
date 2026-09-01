@@ -47,6 +47,14 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | mistress (concubina de Agostinho) | concubina | Termo técnico e não-eufemístico |
 | panegyric | panegírico | |
 | Epicurus | Epicuro | |
+| *De pulchro et apto* | *Sobre o Belo e o Conveniente* | Título de obra perdida de Agostinho, latim mantido inline |
+| Aristotle's *Categories* | *As Dez Categorias* | |
+| Monad / Dyad (metafísica maniqueia) | Mônada / Díade | Substantivos próprios, maiúsculas mantidas |
+| astrologers [*mathematici*] | astrólogos [*mathematicos*] | Termo latino técnico mantido entre colchetes como no original |
+| Nebridius | Nebrídio | Nome próprio |
+| Hierius | Hiério | Nome próprio |
+| Alypius | Alípio | Nome próprio |
+| Symmachus | Símaco | Nome próprio, prefeito |
 
 ## Decisões de tradução
 
