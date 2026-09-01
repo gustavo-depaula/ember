@@ -44,11 +44,17 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | Faustus | Fausto | Nome próprio, bispo maniqueu (Livro V) |
 | Ambrose | Ambrósio | Bispo de Milão |
 | the elect / the hearers (graus maniqueus) | "os eleitos" / "os ouvintes" | Termos técnicos da própria seita, mantidos entre aspas como no original |
+| mistress (concubina de Agostinho) | concubina | Termo técnico e não-eufemístico |
+| panegyric | panegírico | |
+| Epicurus | Epicuro | |
 
 ## Decisões de tradução
 
 - Livro V: "cupbearer" (metáfora para Fausto como fonte de eloquência vazia)
   traduzido como "escanção".
+- Livro VI: "mistress" (a companheira não casada de Agostinho) traduzido como
+  "concubina" — termo técnico e não-eufemístico, condizente com o uso
+  histórico-eclesiástico, e não "amante".
 
 - Marcadores de nota de rodapé (`[^n]`) e a lista de notas ao final de cada
   arquivo foram removidos de todos os capítulos, conforme a política padrão
