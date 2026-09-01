@@ -1,13 +1,16 @@
 {
   "id": "augustine-confessions",
   "name": {
-    "en-US": "Confessions and Enchiridion, newly translated and edited by Albert C. Outler"
+    "en-US": "Confessions and Enchiridion, newly translated and edited by Albert C. Outler",
+    "pt-BR": "Confissões e Enchirídion, nova tradução e edição de Albert C. Outler"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "author": {
-    "en-US": "Augustine, Saint, Bishop of Hippo (345-430)"
+    "en-US": "Augustine, Saint, Bishop of Hippo (345-430)",
+    "pt-BR": "Agostinho, Santo, Bispo de Hipona (345-430)"
   },
   "composed": "397",
   "sources": [
@@ -21,91 +24,106 @@
     {
       "id": "title-page",
       "title": {
-        "en-US": "Title Page"
+        "en-US": "Title Page",
+        "pt-BR": "Página de Rosto"
       }
     },
     {
       "id": "introduction",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "augustine-s-testimony-concerning-the-confessions",
       "title": {
-        "en-US": "Augustine's Testimony Concerning the Confessions"
+        "en-US": "Augustine's Testimony Concerning the Confessions",
+        "pt-BR": "O Testemunho de Agostinho Sobre as Confissões"
       }
     },
     {
       "id": "book-one",
       "title": {
-        "en-US": "Book One"
+        "en-US": "Book One",
+        "pt-BR": "Livro Primeiro"
       }
     },
     {
       "id": "book-two",
       "title": {
-        "en-US": "Book Two"
+        "en-US": "Book Two",
+        "pt-BR": "Livro Segundo"
       }
     },
     {
       "id": "book-three",
       "title": {
-        "en-US": "Book Three"
+        "en-US": "Book Three",
+        "pt-BR": "Livro Terceiro"
       }
     },
     {
       "id": "book-four",
       "title": {
-        "en-US": "Book Four"
+        "en-US": "Book Four",
+        "pt-BR": "Livro Quarto"
       }
     },
     {
       "id": "book-five",
       "title": {
-        "en-US": "Book Five"
+        "en-US": "Book Five",
+        "pt-BR": "Livro Quinto"
       }
     },
     {
       "id": "book-six",
       "title": {
-        "en-US": "Book Six"
+        "en-US": "Book Six",
+        "pt-BR": "Livro Sexto"
       }
     },
     {
       "id": "book-seven",
       "title": {
-        "en-US": "Book Seven"
+        "en-US": "Book Seven",
+        "pt-BR": "Livro Sétimo"
       }
     },
     {
       "id": "book-eight",
       "title": {
-        "en-US": "Book Eight"
+        "en-US": "Book Eight",
+        "pt-BR": "Livro Oitavo"
       }
     },
     {
       "id": "book-nine",
       "title": {
-        "en-US": "Book Nine"
+        "en-US": "Book Nine",
+        "pt-BR": "Livro Nono"
       }
     },
     {
       "id": "book-ten",
       "title": {
-        "en-US": "Book Ten"
+        "en-US": "Book Ten",
+        "pt-BR": "Livro Décimo"
       }
     },
     {
       "id": "book-eleven",
       "title": {
-        "en-US": "Book Eleven"
+        "en-US": "Book Eleven",
+        "pt-BR": "Livro Décimo Primeiro"
       }
     },
     {
       "id": "book-twelve",
       "title": {
-        "en-US": "Book Twelve"
+        "en-US": "Book Twelve",
+        "pt-BR": "Livro Décimo Segundo"
       }
     }
   ]
