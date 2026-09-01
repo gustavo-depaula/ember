@@ -62,6 +62,9 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | distentio | extensão | Termo filosófico cunhado por Agostinho |
 | expectation/attention/memory (tríade agostiniana) | expectativa, atenção, memória | |
 | Coeternal (o Filho) | o Coeterno | |
+| theft (motivo central do Livro II) | furto | Consistentemente preferido a "roubo" |
+| Catiline | Catilina | Glosa editorial de Outler mantida por estar no corpo do texto, não em nota |
+| Babylon (figura do mundo/pecado) | Babilônia | Sem glosa, como no original |
 
 ## Decisões de tradução
 
