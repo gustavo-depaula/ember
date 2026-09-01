@@ -55,6 +55,13 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | Hierius | Hiério | Nome próprio |
 | Alypius | Alípio | Nome próprio |
 | Symmachus | Símaco | Nome próprio, prefeito |
+| time | tempo | Livro XI |
+| eternity | eternidade | |
+| present/past/future | presente/passado/futuro | |
+| the Beginning (Verbo como *principium*) | o Princípio | |
+| distentio | extensão | Termo filosófico cunhado por Agostinho |
+| expectation/attention/memory (tríade agostiniana) | expectativa, atenção, memória | |
+| Coeternal (o Filho) | o Coeterno | |
 
 ## Decisões de tradução
 
