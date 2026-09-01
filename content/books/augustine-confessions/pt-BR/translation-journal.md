@@ -96,6 +96,10 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | firmament | firmamento | |
 | de nihilo / ex nihilo | do nada | |
 | gift vs. fruit (distinção donum/fructus) | dádiva vs. fruto | |
+| memory | memória | Termo central do Livro X, mantido rigorosamente consistente |
+| happy life (*beata vita*) | vida feliz | |
+| Truth (nome de Deus/Cristo, personificado) | Verdade | Maiúscula quando personificada |
+| "Late have I loved thee" (Livro X, §38) | "Tarde Vos amei, ó Beleza tão antiga e tão nova, tarde Vos amei!" | Linha marcante; usar esta redação se citada em outro lugar do corpus |
 
 ## Decisões de tradução
 
