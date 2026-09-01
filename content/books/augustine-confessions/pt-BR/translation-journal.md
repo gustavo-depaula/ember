@@ -39,8 +39,16 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | Enchiridion | Enchirídion | Mantido em forma aportuguesada consagrada |
 | *Tolle, lege* | *Tolle, lege* ("Toma, lê") | Mantido em latim com tradução entre parênteses na primeira ocorrência |
 | Confession (confiteri) | confissão | Duplo sentido preservado: confissão de pecados e confissão de louvor |
+| catechumen | catecúmeno | |
+| Only Begotten | Unigênito | |
+| Faustus | Fausto | Nome próprio, bispo maniqueu (Livro V) |
+| Ambrose | Ambrósio | Bispo de Milão |
+| the elect / the hearers (graus maniqueus) | "os eleitos" / "os ouvintes" | Termos técnicos da própria seita, mantidos entre aspas como no original |
 
 ## Decisões de tradução
+
+- Livro V: "cupbearer" (metáfora para Fausto como fonte de eloquência vazia)
+  traduzido como "escanção".
 
 - Marcadores de nota de rodapé (`[^n]`) e a lista de notas ao final de cada
   arquivo foram removidos de todos os capítulos, conforme a política padrão
