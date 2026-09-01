@@ -76,6 +76,19 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | Hortensius (diálogo perdido de Cícero) | *Hortênsio* | Título mantido em itálico |
 | Paraclete | Paráclito | |
 | lust of the flesh/eye/pride of life (tríade de 1 Jo 2:16) | concupiscência da carne, concupiscência dos olhos, soberba da vida | Redação padrão de Bíblias em português |
+| Vindicianus | Vindiciano | Nome próprio |
+| Firminus | Firmino | Nome próprio |
+| Photinus | Fotino | Nome próprio |
+| Apollinarian heretics | hereges apolinaristas | |
+| region/land of unlikeness (*regio dissimilitudinis*) | região da dessemelhança | Termo técnico agostiniano/plotiniano recorrente |
+| the Mediator | o Mediador | |
+| habit (*consuetudo*) | hábito | |
+| the two wills | as duas vontades | Termo central dos capítulos IX–X do Livro VIII |
+| Agentes in rebus (agentes do serviço secreto) | agentes do serviço secreto | |
+| Jove | Júpiter | |
+| the younger son (filho pródigo) | aquele filho mais moço | |
+| the Selfsame (*Idipsum*, imutabilidade de Deus) | o Mesmo | Termo místico recorrente na visão de Óstia (Livro IX) |
+| handmaid (referindo-se a Mônica) | serva | |
 
 ## Decisões de tradução
 
@@ -84,6 +97,19 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 - Livro VI: "mistress" (a companheira não casada de Agostinho) traduzido como
   "concubina" — termo técnico e não-eufemístico, condizente com o uso
   histórico-eclesiástico, e não "amante".
+- Livro VIII: a cena do jardim ("*Tolle, lege*") — corrigido para manter o
+  latim original com glosa em português, "*Tolle, lege; tolle, lege*"
+  ("Toma, lê; toma, lê"), por ser a linha mais icônica de toda a obra;
+  a primeira tradução gerada havia traduzido diretamente sem manter o latim,
+  inconsistente com a convenção já registrada acima.
+- Marcadores de parágrafo numerados: a fonte en-US usa numeração simples
+  ("1.", "2."), sem negrito. Os Livros VII e XI foram gerados com
+  marcadores em negrito ("**1.**") por interpretação equivocada das
+  instruções de tradução; corrigidos para numeração simples, consistente
+  com o restante do livro e com o formato da fonte.
+- Livro I: apóstrofe de Agostinho à "torrente do costume humano" (Cap. XVI)
+  — não é endereçada a Deus, então usa "tu" (não "Vós"), reservando o
+  tratamento reverente estritamente para o endereçamento direto a Deus.
 
 - Marcadores de nota de rodapé (`[^n]`) e a lista de notas ao final de cada
   arquivo foram removidos de todos os capítulos, conforme a política padrão
