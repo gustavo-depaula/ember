@@ -113,6 +113,18 @@ política padrão do pipeline de tradução, essas notas editoriais foram
   Ortográfico; grafia obsoleta).
 - Livro IV: "terieis" → "teríeis" (acento faltante).
 - Livro V: "malígno" → "maligno" (acento espúrio).
+- Livro X: "Isaac" → "Isaque" (nome próprio não lusitanizado, inconsistente
+  com "Jacó" e "José" na mesma frase).
+- Resumos de abertura (linha de argumento sob o título de cada Livro):
+  padronizados como texto simples, sem itálico envolvente, para
+  consistência com a maioria dos Livros e com o próprio en-US (que nunca
+  os italiciza). Corrigidos: Livro III, Livro X, e os dois resumos do
+  Livro XII/"Livro Décimo Terceiro" (o título *Hortênsio*, no resumo do
+  Livro III, permanece em itálico como título de obra).
+- Livro XII (seção "Livro Treze" embutida): cabeçalho corrigido de "LIVRO
+  TREZE" (cardinal) para "LIVRO DÉCIMO TERCEIRO" (ordinal), consistente
+  com a convenção já usada no cabeçalho principal do Livro Doze.
+- Livro XII: "a proteção protetora" (tautologia) → "o abrigo protetor".
 
 ## Decisões de tradução
 
