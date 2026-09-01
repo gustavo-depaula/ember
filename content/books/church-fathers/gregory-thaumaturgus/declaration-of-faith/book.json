@@ -1,13 +1,16 @@
 {
   "id": "gregory-thaumaturgus-declaration-of-faith",
   "name": {
-    "en-US": "A Declaration of Faith"
+    "en-US": "A Declaration of Faith",
+    "pt-BR": "Uma Declaração de Fé"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "São Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Declaration of Faith"
+        "en-US": "A Declaration of Faith",
+        "pt-BR": "Uma Declaração de Fé"
       }
     }
   ]
