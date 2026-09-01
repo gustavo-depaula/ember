@@ -89,6 +89,13 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | the younger son (filho pródigo) | aquele filho mais moço | |
 | the Selfsame (*Idipsum*, imutabilidade de Deus) | o Mesmo | Termo místico recorrente na visão de Óstia (Livro IX) |
 | handmaid (referindo-se a Mônica) | serva | |
+| heaven of heavens | céu dos céus | |
+| unformed matter / formlessness | matéria informe / informidade | |
+| invisible and unformed (a terra) | invisível e informe | Refrão bíblico recorrente, mantido idêntico em todas as ocorrências |
+| abyss | abismo | |
+| firmament | firmamento | |
+| de nihilo / ex nihilo | do nada | |
+| gift vs. fruit (distinção donum/fructus) | dádiva vs. fruto | |
 
 ## Decisões de tradução
 
@@ -110,6 +117,18 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 - Livro I: apóstrofe de Agostinho à "torrente do costume humano" (Cap. XVI)
   — não é endereçada a Deus, então usa "tu" (não "Vós"), reservando o
   tratamento reverente estritamente para o endereçamento direto a Deus.
+- Livro XII: cabeçalho corrigido de "Livro Doze" (cardinal) para "Livro
+  Décimo Segundo" (ordinal), consistente com book.json e o restante da obra.
+- **Nota estrutural (não corrigida nesta tradução):** o arquivo-fonte
+  `en-US/book-twelve.md` contém, na verdade, o texto completo do Livro XII
+  *e* boa parte do Livro XIII das Confissões (últimos parágrafos ~53 do
+  Livro XIII), tudo sob o único id `book-twelve` do book.json (que não tem
+  entrada TOC separada para um "Livro Décimo Terceiro"). A tradução em
+  pt-BR espelha fielmente essa mesma estrutura do arquivo-fonte en-US, para
+  manter paridade 1:1 entre os idiomas. Trata-se de uma característica
+  pré-existente da importação do en-US, fora do escopo desta tradução —
+  vale abrir uma issue separada para dividir esse arquivo e adicionar a
+  entrada de TOC do Livro XIII em ambos os idiomas.
 
 - Marcadores de nota de rodapé (`[^n]`) e a lista de notas ao final de cada
   arquivo foram removidos de todos os capítulos, conforme a política padrão
