@@ -101,6 +101,19 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | Truth (nome de Deus/Cristo, personificado) | Verdade | Maiúscula quando personificada |
 | "Late have I loved thee" (Livro X, §38) | "Tarde Vos amei, ó Beleza tão antiga e tão nova, tarde Vos amei!" | Linha marcante; usar esta redação se citada em outro lugar do corpus |
 
+## Correções da revisão (/review-book-translation)
+
+- Testemunho de Agostinho: data da Seção I corrigida de "429 d.C." para
+  "427 d.C." (erro de cópia da data da Seção III).
+- Testemunho de Agostinho: Seção II (*Do Dom da Perseverança*) usava
+  incorretamente "vos/conheceis/podeis" (forma reverente reservada a Deus)
+  para o correspondente humano da carta; corrigido para "te/conheces/podes",
+  consistente com a Seção III (Carta a Dário).
+- Livro II: "ungüentos" → "unguentos" (trema abolida pelo Acordo
+  Ortográfico; grafia obsoleta).
+- Livro IV: "terieis" → "teríeis" (acento faltante).
+- Livro V: "malígno" → "maligno" (acento espúrio).
+
 ## Decisões de tradução
 
 - Livro V: "cupbearer" (metáfora para Fausto como fonte de eloquência vazia)
