@@ -3,6 +3,14 @@
 Fonte: en-US (tradução de Albert C. Outler, 1955, a partir do latim original)
 Alvo: pt-BR
 
+Nota de proveniência: a tradução de Outler (1955, Library of Christian
+Classics) não foi renovada no seu 28º ano de direito autoral (prática comum
+para obras acadêmicas/religiosas da época) e por isso caiu em domínio
+público nos EUA. Confirmado pela presença do texto completo tanto na
+Wikisource (en.wikisource.org/wiki/The_Confessions_of_Saint_Augustine_(Outler)),
+quanto no LibriVox — ambos exigem verificação de domínio público antes de
+hospedar uma obra.
+
 ## Convenção de registro
 
 O original em inglês usa o registro arcaico de oração ("thou/thee/thy") sempre
@@ -65,6 +73,9 @@ política padrão do pipeline de tradução, essas notas editoriais foram
 | theft (motivo central do Livro II) | furto | Consistentemente preferido a "roubo" |
 | Catiline | Catilina | Glosa editorial de Outler mantida por estar no corpo do texto, não em nota |
 | Babylon (figura do mundo/pecado) | Babilônia | Sem glosa, como no original |
+| Hortensius (diálogo perdido de Cícero) | *Hortênsio* | Título mantido em itálico |
+| Paraclete | Paráclito | |
+| lust of the flesh/eye/pride of life (tríade de 1 Jo 2:16) | concupiscência da carne, concupiscência dos olhos, soberba da vida | Redação padrão de Bíblias em português |
 
 ## Decisões de tradução
 
