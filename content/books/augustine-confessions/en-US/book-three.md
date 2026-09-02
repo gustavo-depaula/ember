@@ -88,7 +88,7 @@ CHAPTER XII
 
 [^2]: 2 Cor. 2:16.
 
-[^3]: *Eversores*, "overturners," from *overtere*, to overthrow or ruin. This was the nickname of a gang of young hoodlums in Carthage, made up largely, it seems, of students in the schools.
+[^3]: *Eversores*, "overturners," from *evertere*, to overthrow or ruin. This was the nickname of a gang of young hoodlums in Carthage, made up largely, it seems, of students in the schools.
 
 [^4]: A minor essay now lost. We know of its existence from other writers, but the only fragments that remain are in Augustine's works: *Contra Academicos*, III, 14:31; *De beata vita*, X; *Soliloquia*, I, 17; *De civitate Dei*, III, 15; *Contra Julianum*, IV, 15:78; *De Trinitate*, XIII, 4:7, 5:8; XIV, 9:12, 19:26; *Epist*. CXXX, 10.
 

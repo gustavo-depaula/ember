@@ -238,6 +238,34 @@ capítulos a mediana fica em ~1,00 e, depois desta correção, não há um
 único parágrafo fora da faixa — o que descarta qualquer outra omissão
 de porte. Vale rodar essa conferência em toda tradução nova.
 
+### Quinta rodada — verificação ortográfica
+
+Passou-se `hunspell` (dicionários pt_BR e en_US) por todos os capítulos,
+nos dois idiomas — verificação que as rodadas anteriores não faziam.
+Quase tudo o que ela aponta é nome próprio, latim ou vocabulário arcaico
+legítimo; o que sobrou foi corrigido:
+
+pt-BR:
+- Livro I: "travalho" → "trabalho".
+- Livro IV: "que Vós uniis" → "que Vós unis" (2ª pessoa do plural do
+  presente de *unir*).
+- Livros VI e XII: "cressemos" → "crêssemos". A forma é proparoxítona
+  (CRÊS-se-mos), como "vendêssemos" e "víssemos" — esta última já
+  acentuada no mesmo parágrafo do Livro XII.
+- Livro XI: "erguéis" → "ergueis" (oxítona, não leva acento).
+- Livro III: "doçíssimo" → "dulcíssimo". "ç" nunca precede "i" em
+  português; "dulcíssimo" é a forma consagrada no registro devocional.
+- Introdução: "ortodoxia niceia" → "ortodoxia nicena" (*Niceia* é a
+  cidade; o adjetivo é *niceno/nicena*).
+- Introdução: "parafrase" → "paráfrase".
+
+en-US:
+- Introdução: "*De catechezandis rudibus*" → "*De catechizandis
+  rudibus*", como já grafado corretamente no Livro XII.
+- Livro III (nota 3): "*Eversores*, 'overturners,' from *overtere*" →
+  "from *evertere*". *Overtere* não existe; o verbo de que deriva
+  *eversores* é *ēvertere*.
+
 ### Examinado e mantido
 
 - "Mediator between God and man" (Livros VII e X, três ocorrências)
