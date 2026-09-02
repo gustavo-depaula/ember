@@ -1,0 +1,7 @@
+# 30 de Março — SÃO JOÃO CLÍMACO
+
+JOÃO, ainda jovem, fez tais progressos nos estudos que foi chamado o Escolástico. Aos dezesseis anos, afastou-se do futuro brilhante que se lhe abria, e retirou-se ao Monte Sinai, onde se pôs sob a direção de um santo monge. Nunca houve noviço mais fervoroso, mais incansável em seus esforços pelo domínio de si mesmo. Após quatro anos, fez os votos, e um velho abade profetizou que um dia ele seria uma das maiores luzes da Igreja. Dezenove anos depois, com a morte de seu diretor, retirou-se para uma solidão ainda mais profunda, onde estudou as vidas e escritos dos Santos, e foi elevado a um grau incomum de contemplação. A fama de sua santidade e sabedoria prática atraía multidões a ele em busca de conselho e consolação. Para seu maior proveito, visitou as solidões do Egito. Aos setenta e cinco anos foi escolhido abade do Monte Sinai, e ali "habitou no monte de Deus, e do rico tesouro de seu coração tirou riquezas inestimáveis de doutrina, que derramou com maravilhosa abundância e bênção." Foi induzido por um irmão abade a escrever as regras pelas quais havia guiado sua vida; e seu livro, chamado a Escada, ou Clímax da Perfeição, tem sido apreciado em todas as épocas por sua sabedoria, sua clareza e sua unção. Ao fim de quatro anos, não quis mais suportar as honras e distrações de seu cargo, e retirou-se para sua solidão, onde morreu, em 605.
+
+## Reflexão
+
+"Não lances de ti, meu irmão," diz a Imitação de Cristo, "a segura esperança de alcançar a vida espiritual; ainda tens tempo e meios."
