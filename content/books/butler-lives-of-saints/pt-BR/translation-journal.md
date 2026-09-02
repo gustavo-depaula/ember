@@ -49,6 +49,35 @@ Portuguese chapters use: `# Dia de Mês — SÃO/SANTA NOME, Título` (e.g. `# 1
 
 Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Dezembro
 
+## Proper Names Rendered (Sep/Oct batch)
+
+| English | Portuguese |
+|---------|------------|
+| Crispin / Crispinian | Crispim / Crispiniano |
+| Evaristus | Evaristo |
+| Frumentius | Frumêncio |
+| Edesius | Edésio |
+| Meropius | Merópio |
+| Simon / Jude | Simão / Judas |
+| Narcissus | Narciso |
+| Marcellus | Marcelo |
+| Quintin | Quintino |
+| Lucian of Beauvais | Luciano de Beauvais |
+| Giles | Egídio (traditional Portuguese form "Santo Egídio") |
+| Stephen (King of Hungary) | Estêvão; Geysa → Geisa |
+| Seraphia | Seráfia |
+| Rosalia | Rosália |
+| Rose of Viterbo | Rosa de Viterbo |
+| Laurence Justinian | Lourenço Justiniani |
+| Eleutherius | Eleutério |
+| Cloud (St. Cloud) | Clodoaldo (traditional Portuguese/French Merovingian form; place name kept as "Saint-Cloud") |
+| Omer | Omer (kept as-is; place "Thérouanne", monastery "Luxeuil") |
+| Peter Claver | Pedro Claver |
+| Alphonsus Rodriguez | Afonso Rodrigues |
+| Nicholas of Tolentino | Nicolau de Tolentino |
+| Paphnutius | Pafnúcio |
+| Maximus of Jerusalem | Máximo |
+
 ## Translation Decisions
 
 - Saints' names rendered in their standard Portuguese hagiographic form (e.g. Patrick → Patrício, Bridget/Bridgid → Brígida, Francis → Francisco, Thomas → Tomás, Joseph → José, Catherine → Catarina, Jerome → Jerônimo). Where no standard Portuguese form exists (many minor/obscure saints), keep the name transliterated as closely as possible to Portuguese orthography or leave as in the original if it is already a Latin/international form.

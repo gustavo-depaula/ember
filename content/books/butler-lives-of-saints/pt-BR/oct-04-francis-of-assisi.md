@@ -1,0 +1,7 @@
+# 4 de Outubro — SÃO FRANCISCO DE ASSIS
+
+SÃO FRANCISCO, filho de um mercador de Assis, nasceu naquela cidade em 1182. Escolhido por Deus para ser uma manifestação viva ao mundo da vida pobre e sofredora de Cristo na terra, foi cedo inspirado por uma alta estima e um ardente amor pela pobreza e pela humilhação. O pensamento do Homem das Dores, que não tinha onde reclinar a cabeça, enchia-o de santa inveja dos pobres e o impelia a renunciar às riquezas e à posição mundana que ele detestava. O escárnio e o mau trato que recebeu de seu pai e de seus conterrâneos quando apareceu entre eles trajado de pobreza eram para ele motivo de deleite. "Agora", exclamou, "posso dizer verdadeiramente: 'Pai Nosso que estais nos céus.'" Mas o amor divino ardia nele com tal força que não podia deixar de acender desejos semelhantes em outros corações. Muitos se uniram a ele, e foram constituídos pelo Papa Inocêncio III em uma Ordem religiosa, que se espalhou rapidamente por toda a Cristandade. São Francisco, depois de visitar o Oriente em vã busca do martírio, passou sua vida como seu Divino Mestre — ora pregando às multidões, ora em meio a solidões desertas, no jejum e na contemplação. Durante um desses retiros, recebeu em suas mãos, pés e lado a marca das cinco chagas sangrentas de Jesus. Com o grito "Bem-vinda, irmã Morte", passou à glória de seu Deus em 4 de outubro de 1226.
+
+## Reflexão
+
+"Meu Deus e meu tudo", oração constante de São Francisco, explica tanto sua pobreza quanto sua riqueza.
