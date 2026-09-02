@@ -1,0 +1,3 @@
+# 6 de Julho — SÃO GOAR, Padre
+
+São Goar nasceu de família ilustre, na Aquitânia. Desde jovem se destacou por sua fervorosa piedade, e, tendo sido elevado às ordens sacras, converteu muitos pecadores pelo fervor de sua pregação e pela força de seu exemplo. Desejando servir a Deus totalmente desconhecido do mundo, foi para a Alemanha, e, estabelecendo-se nas proximidades de Trier, encerrou-se em sua cela, e alcançou tão eminente grau de santidade a ponto de ser tido como o oráculo e o milagre de toda a região. Sigeberto, Rei da Austrásia, sabendo da santidade de Goar, quis fazê-lo Bispo de Metz, e, para esse fim, convocou-o à corte. O Santo, temendo as responsabilidades do cargo, orou para ser dispensado. Foi acometido de febre, e morreu em 575.
