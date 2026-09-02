@@ -1,13 +1,16 @@
 {
   "id": "ignatius-epistle-to-polycarp",
   "name": {
-    "en-US": "Epistle to Polycarp"
+    "en-US": "Epistle to Polycarp",
+    "pt-BR": "Carta a Policarpo"
   },
   "author": {
-    "en-US": "Ignatius of Antioch"
+    "en-US": "Ignatius of Antioch",
+    "pt-BR": "Inácio de Antioquia"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistle to Polycarp"
+        "en-US": "Epistle to Polycarp",
+        "pt-BR": "Carta a Policarpo"
       }
     }
   ]
