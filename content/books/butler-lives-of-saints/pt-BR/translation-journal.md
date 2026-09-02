@@ -92,3 +92,36 @@ Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro
 - `sep-09-omer.md`: en-US source says St. Omer died "on a pastoral visit to Wavre" — pt-BR reads "Wavrans" (Wavrans-sur-l'Aa, near Thérouanne, the historically correct place associated with St. Omer; "Wavre" is a different town in modern Belgium). Deliberate correction, consistent with this same file's other logged corrections (Luxen→Luxeuil, Terouenne→Thérouanne).
 - `sep-25-firmin.md`: en-US source says "the river Lea" — pt-BR reads "rio Lee" (the actual river through Cork is the Lee; "Lea" appears to be a source typo). Deliberate correction.
 - `jul-15-henry-emperor.md` (round 5 fix): en-US "his guardian, St. Wolfgang" was mistranslated as "seu anjo da guarda, São Wolfgango" ("his guardian angel") — St. Wolfgang was Henry's human mentor/tutor, not an angel. Corrected to "seu guardião, São Wolfgango".
+
+## Post-merge review (round 8) — TOC/heading consistency sweep
+
+A mechanical sweep comparing every `book.json` pt-BR TOC title against its chapter's own H1 found **31 divergences** that all seven prior review rounds missed. Prior rounds compared chapter files against en-US but never compared `book.json` against the chapter headings, so these were invisible to them.
+
+- **26 São/Santo mismatches** where the TOC read "São X" but the chapter heading read "SANTO X" (Apolinário ×2, Aelredo, Hilário, Honorato, Euquério, Osvaldo, Eulógio ×2, Hermenegildo, Apolônio, Antonino, Epifânio, Ivo, Heliodoro, Efrém, Eugênio, Eleutério, Eduardo, Evaristo, Huberto, Estanislau ×2, Edmundo, Odão, Eusébio). All resolved in favour of the chapter heading ("Santo" before vowel-initial / silent-H names).
+- **`jul-15-henry-emperor`**: TOC read "São Enrique" — the Spanish form, and inconsistent with the chapter's "Santo Henrique". → "Santo Henrique".
+- **`nov-28-james-of-la-marca-of-ancona`**: TOC read "São Jaime da Marca" vs chapter "SÃO TIAGO DA MARCA". James → Tiago per the convention above. → "São Tiago".
+- **`apr-07-hegesippus`**: TOC still read "Hegesipo" — the round-4 diacritic fix was applied to the chapter but never propagated to `book.json`. → "Hegésipo".
+- **`jun-28-iren-us`**: TOC read "São Ireneu" vs chapter "SANTO IRINEU". → "Santo Irineu".
+- **`mar-23-sts-victorian-and-others`**: TOC read "Victoriano" (Latin form) vs chapter "VITORIANO". → "Vitoriano".
+
+**Convention clarification.** The round-4 note treated São/Santo as lexicalized per name and said to flag only when heading and body disagree *within* a chapter. That test is too narrow: it misses (a) `book.json` disagreeing with the chapter it names, and (b) the same saint taking different honorifics in *different* chapters. Both are user-visible. The standard is now: **one rendering per name across the whole book, TOC included.** Cross-file body fixes made under it: São→Santo Hilário (`jan-16-honoratus`), São→Santo Henrique ×3 (`mar-03-cunegundes`), Santo→São Paulino (`dec-24-delphinus`), São→Santo Edmundo ×3 (`apr-03-richard-of-chichester`), São→Santo Eusébio (`aug-14-eusebius`), SÃO→SANTO Estanislau (`may-07-stanislas`).
+
+### Content corrections (round 8)
+
+| File | Was | Now | Why |
+|------|-----|-----|-----|
+| `jan-04-titus` | "companheiros escolhidos pelo Apóstolo" | "companheiros escolhidos dos Apóstolos" | en-US "chosen companions of the Apostles" — plural, and a genitive, not agency |
+| `jan-06-the-epiphany-of-our-lord` | "eis-nos a seus pés" | "ei-los a seus pés" | en-US "behold **them** at His feet" — the magi, not the reader |
+| `sep-08-the-nativity-of-the-blessed` | "as demais filhas de Adão, contaminadas" | "os demais filhos de Adão, contaminados" | en-US "other children of Adam" is universal; "filhas" narrowed it to women |
+| `dec-31-sylvester` | "é o verdadeiro e mesmo Deus" | "é verdadeira e realmente Deus" | "very God" is the archaic intensifier "truly God", not "the same God" — the calque garbled the Trinitarian claim |
+| `sep-26-sts-cyprian-and-justina` | "A ... superstição ... o consagraram" | "... o consagrou" | subject "superstição" is singular; verb had been attracted to the intervening plural "pais" |
+| `feb-01-bridgid` | "assumiu a superiora" | "assumiu o cargo de superiora" | "assumir a superiora" is not Portuguese; the office is what is assumed |
+| `apr-29-peter` | "e tu, uma vez convertido, confirma teus irmãos." | "e tu confirmarás teus irmãos nela." | "uma vez convertido" has no counterpart in en-US, and "in it" had been dropped |
+| `jan-02-macarius-of-alexandria` | "Macário saiu correndo" | "Macário saiu" | en-US "came forth" is neutral; "correndo" added a manner not in the source |
+| `mar-03-cunegundes` | "Hadeswiges" | "Hadeswige" | stray -s on the mother's name |
+
+### Considered and deliberately not changed
+
+- `jul-02-the-visitation-of-the-blessed`: en-US quotes St. Luke as "a city of **Judea**"; pt-BR reads "cidade de **Judá**". "Judá" is the standard Portuguese Catholic rendering of Luke 1:39 (Vulgate *in civitatem Iuda*). Kept — matching the en-US wording here would make the scripture quotation non-standard in Portuguese.
+- `sep-25-firmin`: "rio Lee" was briefly "corrected" to the en-US "Lea" during this round and then **reverted**. The journal already logs "Lee" as a deliberate fix — the river at Cork is the Lee — and it stands. Reviewers: read this file's logged corrections before flagging a place name against en-US.
+- `apr-03-richard-of-chichester`: "eight miles" → "treze quilômetros" is a correct unit conversion, not a numeric error.
