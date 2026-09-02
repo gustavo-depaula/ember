@@ -1,90 +1,110 @@
 {
   "id": "liguori-plus-belles-prieres",
   "name": {
-    "fr-FR": "Les Plus Belles Prières de Saint Alphonse de Liguori"
+    "fr-FR": "Les Plus Belles Prières de Saint Alphonse de Liguori",
+    "pt-BR": "As Mais Belas Orações de Santo Afonso Maria de Ligório"
   },
   "author": {
-    "fr-FR": "Père Saint-Omer, C.SS.R."
+    "fr-FR": "Père Saint-Omer, C.SS.R.",
+    "pt-BR": "Padre Saint-Omer, C.SS.R."
   },
   "description": {
-    "fr-FR": "Manuel complet réunissant les plus belles prières de saint Alphonse de Liguori, tirées de ses œuvres complètes et organisées pour la vie quotidienne, hebdomadaire, mensuelle et les temps liturgiques. 170e édition."
+    "fr-FR": "Manuel complet réunissant les plus belles prières de saint Alphonse de Liguori, tirées de ses œuvres complètes et organisées pour la vie quotidienne, hebdomadaire, mensuelle et les temps liturgiques. 170e édition.",
+    "pt-BR": "Manual completo reunindo as mais belas orações de Santo Afonso Maria de Ligório, extraídas de suas obras completas e organizadas para a vida diária, semanal, mensal e os tempos litúrgicos. 170ª edição. Tradução do francês."
   },
   "composed": 1878,
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "pt-BR"
   ],
   "sources": [
     {
       "language": "fr-FR",
       "url": "https://books.google.com.br/books/about/Les_plus_belles_pri%C3%A8res_de_Saint_Alphon.html?id=_gTLoH6Y7HQC&redir_esc=y",
       "description": "Google Books digitization of the 170th edition"
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://books.google.com.br/books/about/Les_plus_belles_pri%C3%A8res_de_Saint_Alphon.html?id=_gTLoH6Y7HQC&redir_esc=y",
+      "description": "Tradução para o português brasileiro produzida para o Ember a partir da 170ª edição francesa (fonte canônica)."
     }
   ],
   "toc": [
     {
       "id": "protestation-approbations",
       "title": {
-        "fr-FR": "Protestation de l'Auteur et Approbations"
+        "fr-FR": "Protestation de l'Auteur et Approbations",
+        "pt-BR": "Protesto do Autor e Aprovações"
       }
     },
     {
       "id": "lettre-cardinal-dechamps",
       "title": {
-        "fr-FR": "Lettre de S. E. le Cardinal Dechamps"
+        "fr-FR": "Lettre de S. E. le Cardinal Dechamps",
+        "pt-BR": "Carta de S. Em. o Cardeal Dechamps"
       }
     },
     {
       "id": "preface",
       "title": {
-        "fr-FR": "Priez... Priez... Priez..."
+        "fr-FR": "Priez... Priez... Priez...",
+        "pt-BR": "Orai... Orai... Orai..."
       }
     },
     {
       "id": "calendrier",
       "title": {
-        "fr-FR": "Calendrier liturgique"
+        "fr-FR": "Calendrier liturgique",
+        "pt-BR": "Calendário litúrgico"
       }
     },
     {
       "id": "premiere-partie",
       "title": {
-        "fr-FR": "Première Partie — Exercices de chaque Jour"
+        "fr-FR": "Première Partie — Exercices de chaque Jour",
+        "pt-BR": "Primeira Parte — Exercícios de cada Dia"
       },
       "children": [
         {
           "id": "p1-lever-prieres-matin",
           "title": {
-            "fr-FR": "Le lever et Prières du Matin"
+            "fr-FR": "Le lever et Prières du Matin",
+            "pt-BR": "O levantar e Orações da Manhã"
           }
         },
         {
           "id": "p1-oraison-mentale",
           "title": {
-            "fr-FR": "L'Oraison mentale"
+            "fr-FR": "L'Oraison mentale",
+            "pt-BR": "A Oração Mental"
           }
         },
         {
           "id": "p1-sainte-messe",
           "title": {
-            "fr-FR": "La Sainte Messe et Actes pour la Journée"
+            "fr-FR": "La Sainte Messe et Actes pour la Journée",
+            "pt-BR": "A Santa Missa e Atos para o Dia"
           }
         },
         {
           "id": "p1-chemin-de-croix",
           "title": {
-            "fr-FR": "Exercice du Chemin de la Croix"
+            "fr-FR": "Exercice du Chemin de la Croix",
+            "pt-BR": "Exercício da Via-Sacra"
           }
         },
         {
           "id": "p1-prieres-soir",
           "title": {
-            "fr-FR": "Prières du soir"
+            "fr-FR": "Prières du soir",
+            "pt-BR": "Orações da Noite"
           }
         },
         {
           "id": "p1-converser-avec-dieu",
           "title": {
-            "fr-FR": "Manière de converser continuellement avec Dieu"
+            "fr-FR": "Manière de converser continuellement avec Dieu",
+            "pt-BR": "Maneira de conversar continuamente com Deus"
           }
         }
       ]
@@ -92,85 +112,99 @@
     {
       "id": "deuxieme-partie",
       "title": {
-        "fr-FR": "Deuxième Partie — Exercices de chaque semaine"
+        "fr-FR": "Deuxième Partie — Exercices de chaque semaine",
+        "pt-BR": "Segunda Parte — Exercícios de cada Semana"
       },
       "children": [
         {
           "id": "p2-dimanche",
           "title": {
-            "fr-FR": "Le Dimanche — Prières pendant la Messe"
+            "fr-FR": "Le Dimanche — Prières pendant la Messe",
+            "pt-BR": "Domingo — Orações durante a Missa"
           }
         },
         {
           "id": "p2-lundi",
           "title": {
-            "fr-FR": "Le Lundi — Saint-Esprit et Défunts"
+            "fr-FR": "Le Lundi — Saint-Esprit et Défunts",
+            "pt-BR": "Segunda-feira — Espírito Santo e Defuntos"
           }
         },
         {
           "id": "p2-mardi",
           "title": {
-            "fr-FR": "Le Mardi — Saints Anges"
+            "fr-FR": "Le Mardi — Saints Anges",
+            "pt-BR": "Terça-feira — Santos Anjos"
           }
         },
         {
           "id": "p2-mercredi",
           "title": {
-            "fr-FR": "Le Mercredi — Saint Joseph"
+            "fr-FR": "Le Mercredi — Saint Joseph",
+            "pt-BR": "Quarta-feira — São José"
           }
         },
         {
           "id": "p2-jeudi",
           "title": {
-            "fr-FR": "Le Jeudi — Saint-Sacrement"
+            "fr-FR": "Le Jeudi — Saint-Sacrement",
+            "pt-BR": "Quinta-feira — Santíssimo Sacramento"
           }
         },
         {
           "id": "p2-vendredi",
           "title": {
-            "fr-FR": "Le Vendredi — La Passion et le Sacré-Cœur"
+            "fr-FR": "Le Vendredi — La Passion et le Sacré-Cœur",
+            "pt-BR": "Sexta-feira — A Paixão e o Sagrado Coração"
           }
         },
         {
           "id": "p2-samedi",
           "title": {
-            "fr-FR": "Le Samedi — Notre-Dame du Perpétuel-Secours"
+            "fr-FR": "Le Samedi — Notre-Dame du Perpétuel-Secours",
+            "pt-BR": "Sábado — Nossa Senhora do Perpétuo Socorro"
           }
         },
         {
           "id": "p2-confession",
           "title": {
-            "fr-FR": "Exercices pieux pour la confession"
+            "fr-FR": "Exercices pieux pour la confession",
+            "pt-BR": "Exercícios piedosos para a confissão"
           }
         },
         {
           "id": "p2-communion-1-2",
           "title": {
-            "fr-FR": "Exercices pour la sainte communion (1er-2e)"
+            "fr-FR": "Exercices pour la sainte communion (1er-2e)",
+            "pt-BR": "Exercícios para a santa comunhão (1ª-2ª)"
           }
         },
         {
           "id": "p2-communion-3-4",
           "title": {
-            "fr-FR": "Exercices pour la sainte communion (3e-4e)"
+            "fr-FR": "Exercices pour la sainte communion (3e-4e)",
+            "pt-BR": "Exercícios para a santa comunhão (3ª-4ª)"
           }
         },
         {
           "id": "p2-communion-5-6",
           "title": {
-            "fr-FR": "Exercices pour la sainte communion (5e-6e)"
+            "fr-FR": "Exercices pour la sainte communion (5e-6e)",
+            "pt-BR": "Exercícios para a santa comunhão (5ª-6ª)"
           }
         },
         {
           "id": "p2-communion-7-8",
           "title": {
-            "fr-FR": "Exercices pour la sainte communion (7e-8e)"
+            "fr-FR": "Exercices pour la sainte communion (7e-8e)",
+            "pt-BR": "Exercícios para a santa comunhão (7ª-8ª)"
           }
         },
         {
           "id": "p2-aspirations-soupirs",
           "title": {
-            "fr-FR": "Aspirations et Soupirs d'amour à Jésus"
+            "fr-FR": "Aspirations et Soupirs d'amour à Jésus",
+            "pt-BR": "Aspirações e Suspiros de amor a Jesus"
           }
         }
       ]
@@ -178,55 +212,64 @@
     {
       "id": "troisieme-partie",
       "title": {
-        "fr-FR": "Troisième Partie — Exercices de chaque mois"
+        "fr-FR": "Troisième Partie — Exercices de chaque mois",
+        "pt-BR": "Terceira Parte — Exercícios de cada Mês"
       },
       "children": [
         {
           "id": "p3-visites-01-10",
           "title": {
-            "fr-FR": "Visites au Saint-Sacrement (I-X)"
+            "fr-FR": "Visites au Saint-Sacrement (I-X)",
+            "pt-BR": "Visitas ao Santíssimo Sacramento (I-X)"
           }
         },
         {
           "id": "p3-visites-11-20",
           "title": {
-            "fr-FR": "Visites au Saint-Sacrement (XI-XX)"
+            "fr-FR": "Visites au Saint-Sacrement (XI-XX)",
+            "pt-BR": "Visitas ao Santíssimo Sacramento (XI-XX)"
           }
         },
         {
           "id": "p3-visites-21-31",
           "title": {
-            "fr-FR": "Visites au Saint-Sacrement (XXI-XXXI)"
+            "fr-FR": "Visites au Saint-Sacrement (XXI-XXXI)",
+            "pt-BR": "Visitas ao Santíssimo Sacramento (XXI-XXXI)"
           }
         },
         {
           "id": "p3-vertus-mois",
           "title": {
-            "fr-FR": "Prière pour obtenir la vertu du mois"
+            "fr-FR": "Prière pour obtenir la vertu du mois",
+            "pt-BR": "Oração para obter a virtude do mês"
           }
         },
         {
           "id": "p3-premier-vendredi",
           "title": {
-            "fr-FR": "Le premier vendredi du mois"
+            "fr-FR": "Le premier vendredi du mois",
+            "pt-BR": "A primeira sexta-feira do mês"
           }
         },
         {
           "id": "p3-enfant-jesus-mensuel",
           "title": {
-            "fr-FR": "Le 25 de chaque mois — L'Enfant-Jésus"
+            "fr-FR": "Le 25 de chaque mois — L'Enfant-Jésus",
+            "pt-BR": "O dia 25 de cada mês — O Menino Jesus"
           }
         },
         {
           "id": "p3-preparation-mort",
           "title": {
-            "fr-FR": "Préparation à la mort"
+            "fr-FR": "Préparation à la mort",
+            "pt-BR": "Preparação para a morte"
           }
         },
         {
           "id": "p3-retraite-mois",
           "title": {
-            "fr-FR": "Exercices pour la retraite du mois"
+            "fr-FR": "Exercices pour la retraite du mois",
+            "pt-BR": "Exercícios para o retiro do mês"
           }
         }
       ]
@@ -234,85 +277,99 @@
     {
       "id": "quatrieme-partie",
       "title": {
-        "fr-FR": "Quatrième Partie — Exercices pour divers temps de l'année"
+        "fr-FR": "Quatrième Partie — Exercices pour divers temps de l'année",
+        "pt-BR": "Quarta Parte — Exercícios para diversos tempos do ano"
       },
       "children": [
         {
           "id": "p4-trinite",
           "title": {
-            "fr-FR": "Dévotion à la très sainte Trinité"
+            "fr-FR": "Dévotion à la très sainte Trinité",
+            "pt-BR": "Devoção à Santíssima Trindade"
           }
         },
         {
           "id": "p4-enfant-jesus",
           "title": {
-            "fr-FR": "Dévotion à l'Enfant-Jésus et au saint Nom de Jésus"
+            "fr-FR": "Dévotion à l'Enfant-Jésus et au saint Nom de Jésus",
+            "pt-BR": "Devoção ao Menino Jesus e ao Santo Nome de Jesus"
           }
         },
         {
           "id": "p4-passion",
           "title": {
-            "fr-FR": "Dévotion à la Passion"
+            "fr-FR": "Dévotion à la Passion",
+            "pt-BR": "Devoção à Paixão"
           }
         },
         {
           "id": "p4-saint-sacrement",
           "title": {
-            "fr-FR": "Dévotion au très saint Sacrement"
+            "fr-FR": "Dévotion au très saint Sacrement",
+            "pt-BR": "Devoção ao Santíssimo Sacramento"
           }
         },
         {
           "id": "p4-sacre-coeur",
           "title": {
-            "fr-FR": "Dévotion au Sacré-Cœur de Jésus"
+            "fr-FR": "Dévotion au Sacré-Cœur de Jésus",
+            "pt-BR": "Devoção ao Sagrado Coração de Jesus"
           }
         },
         {
           "id": "p4-saint-esprit",
           "title": {
-            "fr-FR": "Dévotion au Saint-Esprit"
+            "fr-FR": "Dévotion au Saint-Esprit",
+            "pt-BR": "Devoção ao Espírito Santo"
           }
         },
         {
           "id": "p4-vierge-prieres",
           "title": {
-            "fr-FR": "Dévotion à la très sainte Vierge — Prières"
+            "fr-FR": "Dévotion à la très sainte Vierge — Prières",
+            "pt-BR": "Devoção à Santíssima Virgem — Orações"
           }
         },
         {
           "id": "p4-vierge-fetes",
           "title": {
-            "fr-FR": "Fêtes de Marie et Mois de Marie"
+            "fr-FR": "Fêtes de Marie et Mois de Marie",
+            "pt-BR": "Festas de Maria e Mês de Maria"
           }
         },
         {
           "id": "p4-vierge-douleurs",
           "title": {
-            "fr-FR": "Notre-Dame des Douleurs et du Perpétuel-Secours"
+            "fr-FR": "Notre-Dame des Douleurs et du Perpétuel-Secours",
+            "pt-BR": "Nossa Senhora das Dores e do Perpétuo Socorro"
           }
         },
         {
           "id": "p4-saint-joseph",
           "title": {
-            "fr-FR": "Dévotion à saint Joseph"
+            "fr-FR": "Dévotion à saint Joseph",
+            "pt-BR": "Devoção a São José"
           }
         },
         {
           "id": "p4-anges",
           "title": {
-            "fr-FR": "Dévotion aux saints Anges"
+            "fr-FR": "Dévotion aux saints Anges",
+            "pt-BR": "Devoção aos Santos Anjos"
           }
         },
         {
           "id": "p4-saints",
           "title": {
-            "fr-FR": "Dévotion aux Saints"
+            "fr-FR": "Dévotion aux Saints",
+            "pt-BR": "Devoção aos Santos"
           }
         },
         {
           "id": "p4-ames-purgatoire",
           "title": {
-            "fr-FR": "Dévotion aux âmes du Purgatoire"
+            "fr-FR": "Dévotion aux âmes du Purgatoire",
+            "pt-BR": "Devoção às almas do Purgatório"
           }
         }
       ]
@@ -320,25 +377,29 @@
     {
       "id": "cinquieme-partie",
       "title": {
-        "fr-FR": "Cinquième Partie — Prières diverses"
+        "fr-FR": "Cinquième Partie — Prières diverses",
+        "pt-BR": "Quinta Parte — Orações diversas"
       },
       "children": [
         {
           "id": "p5-prieres-diverses-1",
           "title": {
-            "fr-FR": "Prières pour les états de vie"
+            "fr-FR": "Prières pour les états de vie",
+            "pt-BR": "Orações para os estados de vida"
           }
         },
         {
           "id": "p5-prieres-diverses-2",
           "title": {
-            "fr-FR": "Prières pour les vertus"
+            "fr-FR": "Prières pour les vertus",
+            "pt-BR": "Orações para as virtudes"
           }
         },
         {
           "id": "p5-prieres-diverses-3",
           "title": {
-            "fr-FR": "Prières pour l'Église et intentions diverses"
+            "fr-FR": "Prières pour l'Église et intentions diverses",
+            "pt-BR": "Orações pela Igreja e intenções diversas"
           }
         }
       ]
@@ -346,13 +407,15 @@
     {
       "id": "table-des-matieres",
       "title": {
-        "fr-FR": "Table des Matières"
+        "fr-FR": "Table des Matières",
+        "pt-BR": "Índice"
       }
     },
     {
       "id": "table-alphabetique",
       "title": {
-        "fr-FR": "Table Alphabétique"
+        "fr-FR": "Table Alphabétique",
+        "pt-BR": "Índice Alfabético"
       }
     }
   ]
