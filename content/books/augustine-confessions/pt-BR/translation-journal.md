@@ -126,6 +126,42 @@ política padrão do pipeline de tradução, essas notas editoriais foram
   com a convenção já usada no cabeçalho principal do Livro Doze.
 - Livro XII: "a proteção protetora" (tautologia) → "o abrigo protetor".
 
+### Segunda rodada de revisão
+
+- Livro VII (Cap. IX, §14): a citação de Jo 1,13 havia perdido uma
+  oração e trocado a ordem das demais em relação à fonte en-US ("not of
+  flesh nor of blood, nor of the will of man, nor the will of the
+  flesh"). Restaurada a paridade 1:1 com Outler: "não da carne, nem do
+  sangue, nem da vontade do homem, nem da vontade da carne, mas de
+  Deus". A redação anterior ("não do sangue, nem da vontade da carne,
+  nem da vontade do homem") aproximava-se mais da Vulgata, mas a fonte
+  canônica desta edição é o texto de Outler, e a política do pipeline é
+  espelhar a fonte, não corrigi-la pela Vulgata.
+- Livro X (Cap. XXIII, §34): "expôs" (pretérito) → "exporá" (futuro). O
+  verbo estava dentro de uma oração consecutiva regida por "retribuirá"
+  e paralela a "não se revelará"; o en-US é inequivocamente futuro ("she
+  will indeed expose against their will").
+- Livro XII (§ do eco de Gn 1,27): "vós fizestes o homem homem e mulher"
+  → "vós fizestes o homem: homem e mulher". O primeiro "homem" verte
+  "man" (o ser humano) e o par "homem e mulher" verte "male and female";
+  sem pontuação as duas ocorrências colidiam e liam-se como gaguejo.
+  Mantido "homem e mulher" (redação padrão de Gn 1,27 em português) para
+  consistência com o eco de Gl 3,28 na frase seguinte, "não há nem homem
+  nem mulher".
+
+### Correções na fonte en-US
+
+Defeitos de importação (espaços perdidos na conversão do CCEL), não
+introduzidos pela tradução — o pt-BR já trazia a grafia correta nos três
+casos:
+
+- `introduction.md`: "*societas*as a community" → "*societas* as a
+  community".
+- `introduction.md`: "*AugustinsEnchiridion*" → "*Augustins
+  Enchiridion*" (título alemão de Otto Scheel).
+- `book-eleven.md` (Cap. XXVI, §33): "[*praetereuntiatempora, non
+  praeterita*]" → "[*praetereuntia tempora, non praeterita*]".
+
 ## Decisões de tradução
 
 - Livro V: "cupbearer" (metáfora para Fausto como fonte de eloquência vazia)
