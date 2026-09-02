@@ -686,7 +686,7 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^124]: Ps. 36:9.
 
-[^125]: *Amaricantes*, a figure which Augustine develops both in the *Exposition of the Psalms* and *TheCity of God.* Commenting on Ps. 65, Augustine says: "For the sea, by a figure, is used to indicate this world, with its bitter saltiness and troubled storms, where men with perverse and depraved appetites have become like fishes devouring one another." In *The City of God*, he speaks of the bitterness of life in the *civitas terrena*; cf. XIX, 5.
+[^125]: *Amaricantes*, a figure which Augustine develops both in the *Exposition of the Psalms* and *The City of God*. Commenting on Ps. 65, Augustine says: "For the sea, by a figure, is used to indicate this world, with its bitter saltiness and troubled storms, where men with perverse and depraved appetites have become like fishes devouring one another." In *The City of God*, he speaks of the bitterness of life in the *civitas terrena*; cf. XIX, 5.
 
 [^126]: Cf. Ps. 95:5.
 
@@ -732,7 +732,7 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^147]: Cf. Matt. 13:7.
 
-[^148]: Cf. Matt. 97 Reading here, with Knöll and the *Sessorianus*, *in firmamento mundi*.
+[^148]: Reading here, with Knöll and the *Sessorianus*, *in firmamento mundi*.
 
 [^149]: Cf. Isa. 52:7.
 
