@@ -125,3 +125,12 @@ A mechanical sweep comparing every `book.json` pt-BR TOC title against its chapt
 - `jul-02-the-visitation-of-the-blessed`: en-US quotes St. Luke as "a city of **Judea**"; pt-BR reads "cidade de **Judá**". "Judá" is the standard Portuguese Catholic rendering of Luke 1:39 (Vulgate *in civitatem Iuda*). Kept — matching the en-US wording here would make the scripture quotation non-standard in Portuguese.
 - `sep-25-firmin`: "rio Lee" was briefly "corrected" to the en-US "Lea" during this round and then **reverted**. The journal already logs "Lee" as a deliberate fix — the river at Cork is the Lee — and it stands. Reviewers: read this file's logged corrections before flagging a place name against en-US.
 - `apr-03-richard-of-chichester`: "eight miles" → "treze quilômetros" is a correct unit conversion, not a numeric error.
+
+### Content corrections (round 9)
+
+| File | Was | Now | Why |
+|------|-----|-----|-----|
+| `jul-16-simon-stock` | "de Guge, corneteiro de um regimento de cavalaria" | "de Guge, **alferes** de um regimento de cavalaria" | en-US "a cornet in a cavalry regiment" — in the 17th century *cornet* is the junior commissioned cavalry officer (the standard-bearer), PT **alferes**. "Corneteiro" is a bugler, which demoted an officer to an enlisted musician |
+| `jun-28-iren-us` | "em companhia de alguns sacerdotes" | "em companhia de um sacerdote" | en-US "in company with **some priest**" — archaic singular ("a certain priest"), not a plural |
+
+Reviewer note: archaic English singulars ("some priest", "a certain man") and period military/civil ranks are the two places this text most easily goes wrong in translation — neither reads as an error in isolation, only against the en-US.
