@@ -219,6 +219,25 @@ desbalanceamento de aspas por arquivo (Livros VI e XII, +2 e +1), o que
 confirma que os únicos desbalanceamentos restantes são as citações que
 atravessam parágrafos.
 
+### Quarta rodada — parágrafo perdido
+
+O Livro XIII, Cap. IX, §10 tem dois parágrafos no en-US; só o primeiro
+havia sido traduzido. O segundo — cerca de 1.500 caracteres, com a
+passagem célebre *pondus meum amor meus* — estava inteiramente ausente
+do pt-BR. Traduzido e inserido.
+
+Redação adotada: "O meu peso é o meu amor"; *gift* → "dádiva" (conforme
+a tabela de termos acima); *canticle of degrees* → "cântico dos
+degraus"; Sl 121,1 na redação corrente em português, "Alegrei-me quando
+me disseram: Vamos para a casa do Senhor".
+
+Como esse defeito escapou a três rodadas de revisão, passou-se a
+conferir a razão entre o comprimento de cada parágrafo em pt-BR e o do
+seu correspondente en-US (descontados os marcadores de nota). Nos quinze
+capítulos a mediana fica em ~1,00 e, depois desta correção, não há um
+único parágrafo fora da faixa — o que descarta qualquer outra omissão
+de porte. Vale rodar essa conferência em toda tradução nova.
+
 ### Examinado e mantido
 
 - "Mediator between God and man" (Livros VII e X, três ocorrências)
