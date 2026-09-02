@@ -1,0 +1,9 @@
+# 21 de Janeiro — SANTA INÊS, Virgem, Mártir
+
+Santa Inês tinha apenas doze anos quando foi levada ao altar de Minerva, em Roma, e ordenada a obedecer às leis persecutórias de Diocleciano, oferecendo incenso. No meio dos ritos idólatras, ela ergueu as mãos para Cristo, seu Esposo, e fez o sinal da cruz vivificante. Não estremeceu quando foi amarrada de pés e mãos, embora os grilhões escorregassem de suas mãos jovens, e os pagãos que estavam ao redor se comoveram até as lágrimas. As amarras não eram necessárias para ela, e ela apressou-se alegremente ao lugar de seu suplício. Em seguida, quando o juiz viu que a dor não lhe causava terror, infligiu-lhe um insulto pior que a morte: suas roupas foram arrancadas, e ela teve de ficar na rua diante de uma multidão pagã; mesmo assim, isso não a intimidou. "Cristo", disse ela, "guardará o que é Seu." E assim foi. Cristo mostrou, por um milagre, o valor que atribui à custódia dos olhos. Enquanto a multidão desviava os olhos da esposa de Cristo, exposta à vista na rua, houve um jovem que ousou fitar a criança inocente com olhos impudicos. Um clarão de luz o cegou, e seus companheiros o carregaram, meio morto de dor e terror.
+
+Por fim, sua fidelidade a Cristo foi posta à prova por meio de lisonjas e ofertas de casamento. Mas ela respondeu: "Cristo é meu Esposo: Ele me escolheu primeiro, e a Ele hei de pertencer." Por fim, a sentença de morte foi proferida. Por um instante ficou de pé, em oração, e depois curvou o pescoço à espada. De um só golpe, sua cabeça foi separada do corpo, e os anjos levaram sua alma pura ao Paraíso.
+
+## Reflexão
+
+Sua inocência tornou Santa Inês querida a Cristo, assim como a tornou querida à Sua Igreja desde então. Mesmo como penitentes, podemos imitar essa sua inocência, cada um em sua medida. Guardemos rigorosamente os nossos olhos, e Cristo, ao ver que preservamos puros os nossos corações por amor a Ele, renovará nossa juventude e nos devolverá os anos que a lagarta devorou.
