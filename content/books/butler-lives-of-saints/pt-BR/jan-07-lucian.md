@@ -1,0 +1,7 @@
+# 7 de Janeiro — SÃO LUCIANO, Mártir
+
+São Luciano nasceu em Samósata, na Síria. Tendo perdido os pais ainda jovem, distribuiu aos pobres todos os bens deste mundo, dos quais herdara farta porção, e retirou-se para Edessa, para viver perto de um santo homem chamado Macário, que lhe imbuiu a mente do conhecimento das Sagradas Escrituras e o conduziu à prática das virtudes cristãs. Feito sacerdote, seu tempo se dividia entre os deveres externos de seu santo estado, a realização de obras de caridade e o estudo da literatura sagrada. Revisou os livros do Antigo e do Novo Testamento, expurgando os erros que se haviam infiltrado no texto, seja pela negligência dos copistas, seja pela malícia dos hereges, preparando assim o caminho para São Jerônimo, que pouco depois havia de dar ao mundo a tradução latina conhecida como "a Vulgata". Tendo sido denunciado como cristão, Luciano foi lançado à prisão e condenado à tortura, que se prolongou por doze dias inteiros. Alguns cristãos o visitaram na prisão, na festa da Epifania, e lhe trouxeram pão e vinho; então, amarrado e acorrentado de costas, ele consagrou os divinos mistérios sobre o próprio peito, e comungou os fiéis ali presentes. Encerrou sua gloriosa carreira na prisão, e morreu com as palavras "Sou cristão" nos lábios.
+
+## Reflexão
+
+Se quisermos manter pura a nossa fé, devemos estudar suas santas verdades. Não podemos detectar a falsidade até conhecermos e amarmos a verdade; e, para nós, a verdade não é uma abstração, mas uma Pessoa, Jesus Cristo, Deus e Homem.
