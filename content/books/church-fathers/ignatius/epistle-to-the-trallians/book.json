@@ -1,13 +1,16 @@
 {
   "id": "ignatius-epistle-to-the-trallians",
   "name": {
-    "en-US": "Epistle to the Trallians"
+    "en-US": "Epistle to the Trallians",
+    "pt-BR": "Carta aos Trálios"
   },
   "author": {
-    "en-US": "Ignatius of Antioch"
+    "en-US": "Ignatius of Antioch",
+    "pt-BR": "Inácio de Antioquia"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistle to the Trallians"
+        "en-US": "Epistle to the Trallians",
+        "pt-BR": "Carta aos Trálios"
       }
     }
   ]
