@@ -4,4 +4,4 @@ SANTO ALEIXO era filho único de pais eminentes entre os nobres romanos por virt
 
 ## Reflexão
 
-Devemos estar sempre prontos a sacrificar nossos mais caros e melhores afetos naturais em obediência ao chamado de nosso Pai celestial. "A ninguém chameis pai sobre a terra, porque um só é o vosso Pai, que está nos céus" (Mt 23, 9). Nosso Senhor nos ensinou isso não apenas com palavras, mas por Seu próprio exemplo e pelo de Seus Santos.
+Devemos estar sempre prontos a sacrificar nossos mais caros e melhores afetos naturais em obediência ao chamado de nosso Pai celestial. "A ninguém chameis pai sobre a terra, porque um só é o vosso Pai, que está nos céus" (Mt. xxiii, 9). Nosso Senhor nos ensinou isso não apenas com palavras, mas por Seu próprio exemplo e pelo de Seus Santos.

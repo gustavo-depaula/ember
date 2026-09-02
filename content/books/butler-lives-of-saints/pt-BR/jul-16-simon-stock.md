@@ -4,4 +4,4 @@ SIMÃO nasceu no condado de Kent, na Inglaterra, e deixou sua casa quando tinha 
 
 ## Reflexão
 
-Para gozar dos privilégios do escapulário, basta que seja recebido licitamente e usado com devoção. Como, então, poderia alguém deixar de aproveitar uma devoção tão fácil, tão simples e tão maravilhosamente abençoada? "Aquele que vencer será assim vestido de vestes brancas, e não apagarei o seu nome do livro da vida, e confessarei o seu nome diante de Meu Pai e diante de Seus anjos" (Apoc. 3, 5).
+Para gozar dos privilégios do escapulário, basta que seja recebido licitamente e usado com devoção. Como, então, poderia alguém deixar de aproveitar uma devoção tão fácil, tão simples e tão maravilhosamente abençoada? "Aquele que vencer será assim vestido de vestes brancas, e não apagarei o seu nome do livro da vida, e confessarei o seu nome diante de Meu Pai e diante de Seus anjos" (Apoc. iii, 5).
