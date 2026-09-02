@@ -1,0 +1,7 @@
+# 1 de Outubro — SÃO REMÍGIO, Bispo
+
+REMÍGIO, ou Remi, nasceu de pais nobres e piedosos. Aos vinte e dois anos, apesar dos cânones e de sua própria relutância, foi aclamado Arcebispo de Reims. Era de estatura incomumente alta, seu rosto trazia a marca de uma majestade unida à serenidade, seu porte era gentil, humilde e recatado. Era erudito e eloquente, e tinha o dom dos milagres. Sua compaixão e caridade eram ilimitadas, e no trabalho não conhecia cansaço. Seu corpo era a expressão externa de uma alma nobre e santa, que respirava o espírito de mansidão e compunção. Para tão escolhido artífice, Deus tinha obra adequada. O Sul da França estava nas mãos dos arianos, e os francos pagãos arrancavam o Norte aos romanos. São Remígio enfrentou Clóvis, o rei deles, e o converteu e batizou no Natal de 496. Com ele ganhou toda a nação franca. Derrubou os altares dos ídolos, construiu igrejas e nomeou bispos. Resistiu e silenciou os arianos, e converteu tantos que deixou a França um reino católico, tendo seu rei como o mais antigo e, à época, o único filho coroado da Igreja. Morreu em 533, depois de um episcopado de setenta e quatro anos, o mais longo de que há registro.
+
+## Reflexão
+
+Poucos homens tiveram vantagens naturais e dons de graça como São Remi, e poucos realizaram obra tão grande. Aprendei com ele a suportar tanto o louvor do mundo quanto seu desprezo com um coração humilde e temperado.

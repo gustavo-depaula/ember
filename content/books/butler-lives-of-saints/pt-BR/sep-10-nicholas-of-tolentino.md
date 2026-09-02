@@ -1,0 +1,7 @@
+# 10 de Setembro — SÃO NICOLAU DE TOLENTINO
+
+NASCIDO em resposta à oração de uma santa mãe, e consagrado antes de seu nascimento ao serviço de Deus, Nicolau jamais perdeu sua inocência batismal. Suas austeridades eram notáveis mesmo na austera Ordem — os Eremitas de Santo Agostinho — à qual pertencia, e às advertências que lhe faziam seus superiores ele apenas respondia: "Como posso dizer que jejuo, se todas as manhãs, no altar, recebo meu Deus?" Concebeu ardente caridade pelas Almas Santas, tão próximas e, no entanto, tão distantes de seu Salvador; e, com frequência, depois de sua Missa, era-lhe revelado que as almas por quem havia oferecido o Santo Sacrifício haviam sido admitidas à presença de Deus. Em meio a seus amorosos trabalhos por Deus e pelos homens, era perseguido pelo temor de sua própria pecaminosidade. "Os céus", dizia ele, "não são puros aos olhos d'Aquele a quem sirvo; como, então, hei de eu, homem pecador, apresentar-me diante d'Ele?" Enquanto meditava sobre estas coisas, Maria, a Rainha de todos os Santos, apareceu diante dele. "Não temas, Nicolau", disse ela, "tudo está bem contigo: meu Filho te carrega em Seu Coração, e eu sou tua proteção." Então sua alma teve descanso; e ele ouviu, dizem-nos, os cânticos que os anjos cantam na presença de seu Senhor. Morreu em 10 de setembro de 1310.
+
+## Reflexão
+
+Desejas morrer a morte dos justos? Há apenas um caminho para garantir o cumprimento de teu desejo. Vive a vida dos justos. Pois é impossível que aquele que foi fiel a Deus na vida tenha um mau ou infeliz fim.

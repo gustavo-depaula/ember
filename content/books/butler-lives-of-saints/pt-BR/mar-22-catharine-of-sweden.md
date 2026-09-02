@@ -1,0 +1,7 @@
+# 22 de Março — SANTA CATARINA DA SUÉCIA, Virgem
+
+SANTA CATARINA era filha de Ulfo, Príncipe de Nericia, na Suécia, e de Santa Brígida. O amor de Deus parecia quase antecipar nela o uso da razão. Aos sete anos de idade foi colocada no convento de Risburgh, e educada na piedade sob os cuidados da santa abadessa daquela casa. Sendo muito bela, foi, por seu pai, prometida em casamento a Egardo, um jovem nobre de grande virtude; mas a virgem o persuadiu a unir-se a ela em um voto mútuo de castidade perpétua. Por seu discurso, ele passou a desejar somente as graças celestiais, e, para atraí-las mais abundantemente sobre sua alma, aquiesceu de bom grado à proposta. O casal feliz, tendo um só coração e um só desejo, por uma santa emulação estimulava-se mutuamente à oração, à mortificação e às obras de caridade. Após a morte de seu pai, Santa Catarina, por devoção à Paixão de Cristo e às relíquias dos mártires, acompanhou sua mãe em suas peregrinações e práticas de devoção e penitência. Após a morte de sua mãe em Roma, em 1373, Catarina retornou à Suécia, e morreu abadessa de Vadstena, ou Vatzen, no dia 24 de março de 1381. Nos últimos vinte e cinco anos de sua vida, purificava diariamente a alma por meio de uma confissão sacramental de seus pecados.
+
+## Reflexão
+
+Quem tem de viver no mundo necessita de grande prudência; a própria Sagrada Escritura nos assegura que "o conhecimento do santo é prudência."

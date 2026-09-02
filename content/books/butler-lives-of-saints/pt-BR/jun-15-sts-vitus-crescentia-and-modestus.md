@@ -1,0 +1,7 @@
+# 15 de Junho — SÃO VITO, SANTA CRESCÊNCIA e SÃO MODESTO, Mártires
+
+VITO era uma criança de nobre nascimento, que teve a felicidade de ser instruída na Fé, e inspirada com os mais perfeitos sentimentos de sua religião, por sua ama cristã, chamada Crescência, e por seu fiel marido, Modesto. Seu pai, Hilas, ficou extremamente irado ao descobrir a invencível aversão do filho à idolatria; e, não conseguindo vencê-lo com açoites e castigos semelhantes, entregou-o a Valeriano, o governador, que em vão empregou todas as suas artimanhas para levá-lo a submeter-se à vontade do pai e aos éditos do imperador. Escapou de suas mãos e, juntamente com Crescência e Modesto, fugiu para a Itália. Ali receberam a coroa do martírio, na Lucânia, durante a perseguição de Diocleciano. O espírito heroico de martírio que admiramos em São Vito devia-se às primeiras impressões de piedade que recebeu das lições e do exemplo de uma virtuosa ama. De infinita importância é, pois, a escolha de virtuosos preceptores, amas e serviçais para as crianças.
+
+## Reflexão
+
+Que felicidade para uma criança ser formada naturalmente em toda virtude, e ter moldado em sua tenra têmpera o espírito de simplicidade, mansidão, bondade e piedade! Estando bem lançado tal alicerce, novas graças são abundantemente comunicadas, e uma alma cultiva diariamente essas sementes, e se eleva à altura da virtude cristã, muitas vezes sem experimentar severos conflitos das paixões.

@@ -1,0 +1,5 @@
+# 21 de Outubro — SANTA ÚRSULA, Virgem e Mártir
+
+UM NÚMERO de famílias cristãs havia confiado a educação de seus filhos aos cuidados da piedosa Úrsula, e algumas pessoas do mundo haviam, do mesmo modo, colocado-se sob sua direção. Estando então a Inglaterra afligida pelos saxões, Úrsula julgou que devia, a exemplo de muitos de seus compatriotas, buscar asilo na Gália. Encontrou morada às margens do Reno, não longe de Colônia, onde esperava achar repouso tranquilo; mas, tendo uma horda de hunos invadido a região, ficou exposta, junto com todos os que estavam sob sua guarda, aos mais vergonhosos ultrajes. Sem hesitar, todos, sem exceção, preferiram enfrentar a morte a incorrer em desonra. A própria Úrsula deu o exemplo, e foi, juntamente com suas companheiras, cruelmente massacrada no ano de 453. O nome de Santa Úrsula tem, desde tempos remotos, sido tido em grande honra por toda a Igreja; ela sempre foi considerada padroeira dos jovens e modelo dos educadores.
+
+Reflexão.—Na estimativa do sábio, "a guarda da virtude" é a parte mais importante da educação da juventude.

@@ -1,0 +1,7 @@
+# 22 de Setembro — A LEGIÃO TEBANA
+
+A Legião Tebana contava mais de seis mil homens. Marcharam do Oriente até a Gália, e provaram sua lealdade a um só tempo ao seu Imperador e ao seu Deus. Estavam acampados perto do Lago de Genebra, sob o Imperador Maximiano, quando receberam ordens de voltar suas espadas contra a população cristã, e se recusaram a obedecer. Em sua fúria, Maximiano ordenou que fossem dizimados. A ordem foi executada uma vez e outra, mas eles suportaram isso sem murmúrio nem esforço algum para se defender. São Maurício, o principal capitão dessa legião de mártires, animava os demais a perseverar e seguir seus companheiros até o céu. "Sabe, ó Imperador", disse ele, "que somos teus soldados, mas somos também servos do verdadeiro Deus. Em tudo o que for lícito, obedeceremos de bom grado; mas não podemos manchar nossas mãos com este sangue inocente. Vimos nossos companheiros serem trucidados, e nos alegramos com sua honra. Temos armas, mas não resistimos, pois preferimos morrer sem vergonha a viver no pecado." Ao começar o massacre, esses generosos soldados lançaram por terra suas armas, ofereceram o pescoço à espada, e se deixaram trucidar em silêncio.
+
+## Reflexão
+
+Agradece a Deus por cada desprezo e injúria que tiveres de suportar. Uma injúria suportada com mansidão e silêncio é uma verdadeira vitória. É a prova de que somos bons soldados de Jesus Cristo, discípulos daquela sabedoria celestial que é primeiramente pura, depois pacífica.

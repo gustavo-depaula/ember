@@ -1,0 +1,5 @@
+# 22 de Outubro — SÃO MELO, Bispo — SANTO HILARIÃO, Abade
+
+SÃO MELO, segundo se diz, era natural da Grã-Bretanha; seu zelo pela Fé levou-o ao sagrado ministério, e, tendo Deus abençoado seus trabalhos com êxito admirável, foi consagrado primeiro bispo de Rouen, na Normandia, sé que teria ocupado por quarenta anos. Morreu em paz, por volta do início do século IV.
+
+SANTO HILARIÃO nasceu de pais pagãos, perto de Gaza, e converteu-se enquanto estudava gramática em Alexandria. Pouco depois, visitou Santo Antão, e, ainda com apenas quinze anos, tornou-se solitário no deserto da Arábia. Uma multidão de monges, atraídos por sua santidade, povoou o deserto onde vivia. Por causa disso, fugia de um país para outro, buscando escapar do louvor dos homens; mas, em toda parte, seus milagres de misericórdia denunciavam sua presença. Até seu último retiro em Chipre foi interrompido por um paralítico, que foi curado por Santo Hilarião, e que depois espalhou a fama do Santo. Morreu dizendo estas palavras: "Sai, minha alma; por que hesitas? Há quase setenta anos serves a Deus, e temes a morte?"

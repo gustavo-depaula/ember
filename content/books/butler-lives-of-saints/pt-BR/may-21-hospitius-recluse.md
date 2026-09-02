@@ -1,0 +1,7 @@
+# 21 de Maio — SÃO HOSPÍCIO, Recluso
+
+SÃO HOSPÍCIO encerrou-se nas ruínas de uma antiga torre perto de Villefranche, a uma légua de Nice, na Provença. Cingiu-se com uma pesada corrente de ferro e vivia apenas de pão e tâmaras. Durante a Quaresma redobrava suas austeridades e, para conformar mais estreitamente sua vida à dos anacoretas do Egito, não comia senão raízes. Por suas grandes virtudes, o Céu o honrou com os dons de profecia e de milagres. Predisse as devastações que os lombardos causariam na Gália. Esses bárbaros, tendo chegado à torre em que Hospício vivia, e vendo a corrente com que estava amarrado, tomaram-no por algum criminoso ali aprisionado. Interrogado, o Santo reconheceu que era um grande pecador e indigno de viver. Um dos soldados então ergueu a espada para golpeá-lo; mas Deus não abandonou seu fiel servo: o braço do soldado enrijeceu-se e ficou paralisado, e só quando Hospício fez sobre ele o sinal da cruz é que o homem recuperou o uso do braço. O soldado abraçou o cristianismo, renunciou ao mundo, e passou o resto de seus dias a serviço de Deus. Quando nosso Santo sentiu que sua última hora se aproximava, tirou a corrente e ajoelhou-se em oração por longo tempo. Depois, estendendo-se sobre um pequeno monte de terra, entregou serenamente sua alma a Deus, no dia 21 de maio de 681.
+
+## Reflexão
+
+Se não amamos a penitência por si mesma, amemo-la por causa de nossos pecados; pois devemos "operar a nossa salvação com temor e tremor".

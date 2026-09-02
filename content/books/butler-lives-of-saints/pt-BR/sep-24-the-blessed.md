@@ -1,0 +1,7 @@
+# 24 de Setembro — A BEM-AVENTURADA VIRGEM MARIA DAS MERCÊS
+
+SÃO PEDRO, da nobre família Nolasco, nasceu no Languedoc, por volta de 1189. Aos vinte e cinco anos, fez voto de castidade e entregou seus vastos bens à Igreja. Algum tempo depois, concebeu a ideia de fundar uma ordem para o resgate de cativos. A vontade divina logo se manifestou. A Santíssima Virgem apareceu, na mesma noite, a Pedro, a Raimundo de Peñafort, seu confessor, e a Jaime, Rei de Aragão, seu pupilo, e ordenou-lhes que levassem adiante, sem temor, seus santos desígnios. Após grande oposição, a Ordem foi solenemente estabelecida, e aprovada por Gregório IX sob o nome de *Nossa Senhora das Mercês*. Pela graça de Deus, e sob a proteção de Sua Virgem Mãe, a Ordem espalhou-se rapidamente, sendo seu crescimento fomentado pela caridade e piedade de seus membros, que se dedicavam não só a arrecadar esmolas para o resgate dos cristãos, como também se entregavam à escravidão voluntária para auxiliar a boa obra. Foi para render graças a Deus e à Santíssima Virgem que se instituiu uma festa, observada primeiro na Ordem das Mercês, depois na Espanha e na França, e por fim estendida a toda a Igreja por Inocêncio XII, sendo o dia 24 de setembro designado como o dia de sua celebração.
+
+## Reflexão
+
+São Pedro Nolasco e seus cavaleiros eram leigos, não sacerdotes, e ainda assim consideravam a salvação do próximo como algo a eles confiado. Todos nós podemos, pelo conselho, pela oração, mas sobretudo pelo santo exemplo, auxiliar a salvação de nossos irmãos, e assim assegurar a nossa própria.

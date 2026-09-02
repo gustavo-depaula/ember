@@ -1,0 +1,9 @@
+# 27 de Maio — SANTA MARIA MADALENA DE PAZZI
+
+SANTA MARIA MADALENA DE PAZZI, de uma ilustre casa de Florença, nasceu no ano de 1566, e foi batizada com o nome de Catarina. Recebeu sua primeira Comunhão aos dez anos de idade, e fez voto de virgindade aos doze. Tinha grande prazer em ensinar cuidadosamente a doutrina cristã aos que a ignoravam. Seu pai, sem conhecer seu voto, desejava dá-la em casamento, mas ela o persuadiu a permitir-lhe tornar-se religiosa. Foi mais difícil obter o consentimento de sua mãe; mas por fim conseguiu-o, e professou, tendo então dezoito anos, no mosteiro carmelita de Santa Maria degli Angeli, em Florença, em 17 de maio de 1584. Mudou seu nome de Catarina para o de Maria Madalena ao tornar-se freira, e tomou como lema "Sofrer ou morrer"; e sua vida, dali em diante, foi uma vida de penitência por pecados que não eram seus, e de amor a Nosso Senhor, que a provou de modos temíveis e estranhos. Era obediente, observante da regra, humilde e mortificada, e tinha grande reverência pela vida religiosa. Amava a pobreza e o sofrimento, e tinha fome da Comunhão. Ao dia da Comunhão ela chamava o dia do amor. A caridade que ardia em seu coração levou-a, na juventude, a escolher a casa das carmelitas, porque ali as religiosas comungavam todos os dias. Alegrava-se em ver outras comungarem, mesmo quando ela mesma não tinha permissão; e seu amor pelas irmãs crescia ao vê-las receber a Nosso Senhor.
+
+Deus a elevou a altos estados de oração, e concedeu-lhe dons raros, permitindo-lhe ler os pensamentos de suas noviças, e enchendo-a de sabedoria para bem dirigi-las. Foi duas vezes escolhida mestra de noviças, e depois feita superiora, quando Deus a chamou a Si, em 25 de maio de 1607. Seu corpo é incorrupto.
+
+## Reflexão
+
+Santa Maria Madalena de Pazzi estava tão repleta do amor de Deus que suas irmãs no mosteiro o percebiam em seu amor por elas mesmas, e a chamavam "a Mãe da Caridade" e "a Caridade do Mosteiro".

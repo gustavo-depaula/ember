@@ -1,0 +1,7 @@
+# 29 de Setembro — SÃO MIGUEL, Arcanjo
+
+"MI-CA-EL", ou "Quem é como Deus?" Tal foi o brado do grande Arcanjo quando abateu o rebelde Lúcifer no conflito das hostes celestiais, e desde essa hora tem sido conhecido como "Miguel", o capitão dos exércitos de Deus, o tipo da fortaleza divina, o campeão de toda alma fiel em luta contra os poderes do mal. Assim ele aparece na Sagrada Escritura como o guardião dos filhos de Israel, seu consolo e protetor em tempos de aflição ou de conflito. É ele quem prepara o seu retorno do cativeiro persa, quem conduz os valorosos Macabeus à vitória, e quem resgata o corpo de Moisés das mãos invejosas do Maligno. E, desde a vinda de Cristo, a Igreja sempre venerou São Miguel como seu patrono e protetor especial. Ela o invoca pelo nome em sua confissão dos pecados, o convoca para junto de seus filhos na agonia da morte, e o escolhe como escolta deles, das chamas purificadoras do purgatório até os reinos da santa luz. Por fim, quando o Anticristo houver estabelecido seu reino sobre a terra, será Miguel quem novamente desfraldará o estandarte da Cruz, tocará a última trombeta, e, atando juntos o falso profeta e a besta, os lançará por toda a eternidade no lago de fogo.
+
+## Reflexão
+
+"Sempre que", diz São Bernardo, "alguma grave tentação ou veemente aflição te oprimir, invoca teu guardião, teu chefe; clama a ele, e dize: 'Senhor, salva-nos, para que não pereçamos!'"

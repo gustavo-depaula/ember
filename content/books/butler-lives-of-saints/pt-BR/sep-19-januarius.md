@@ -1,0 +1,7 @@
+# 19 de Setembro — SÃO JANUÁRIO, Mártir
+
+MUITOS séculos atrás, São Januário morreu pela Fé na perseguição de Diocleciano, e até hoje Deus confirma a fé de Sua Igreja e opera um contínuo milagre por meio do sangue que Januário derramou por Ele. O Santo era Bispo de Benevento, e certa vez viajou a Miseno para visitar um diácono chamado Sósio. Durante essa visita, Januário viu a cabeça de Sósio, que cantava o evangelho na igreja, cingida de chamas, e tomou isso como sinal de que em breve Sósio receberia a coroa do martírio. Assim se cumpriu. Pouco depois, Sósio foi preso e lançado no cárcere. Ali São Januário o visitava e animava, até que o próprio bispo foi preso por sua vez. Logo o número dos confessores cresceu com alguns dos clérigos vizinhos. Foram expostos às feras no anfiteatro. As feras, porém, não lhes fizeram nenhum mal; e por fim o Governador da Campânia ordenou que os santos fossem decapitados. Pouco imaginava o governador pagão que era instrumento nas mãos de Deus para dar início à longa sucessão de milagres que atestam a fé de Januário. As relíquias de São Januário repousam na catedral de Nápoles, e é lá que ocorre a liquefação de seu sangue. O sangue está congelado em duas ampolas de vidro, mas, quando aproximado da cabeça do mártir, se derrete e flui como o sangue de um homem vivo.
+
+## Reflexão
+
+Agradece a Deus, que te deu motivos superabundantes para a tua fé; e ora para alcançar o espírito dos primeiros cristãos, o espírito que exulta e se alegra em crer.

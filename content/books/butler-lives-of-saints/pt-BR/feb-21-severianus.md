@@ -1,0 +1,7 @@
+# 21 de Fevereiro — SÃO SEVERIANO, Mártir, Bispo
+
+NO reinado de Marciano e Santa Pulquéria, o Concílio de Calcedônia, que condenou a heresia eutiquiana, foi aceito por Santo Eutímio e por grande parte dos monges da Palestina. Mas Teodósio, um ignorante monge eutiquiano, homem de temperamento muito tirânico, sob a proteção da Imperatriz Eudóxia, viúva de Teodósio o Jovem, que residia em Jerusalém, pervertia muitos entre os próprios monges e, tendo obrigado Juvenal, Bispo de Jerusalém, a se retirar, apossou-se injustamente daquela importante sé, e, na cruel perseguição que desencadeou, encheu Jerusalém de sangue; depois, à frente de um bando de soldados, levou a desolação por toda a região. Muitos, porém, tiveram a coragem de resistir. Ninguém se opôs a ele com maior zelo e resolução do que Severiano, Bispo de Citópolis, e sua recompensa foi a coroa do martírio; pois os furiosos soldados apoderaram-se de sua pessoa, arrastaram-no para fora da cidade e o massacraram, na última parte do ano 452 ou no início do ano 453.
+
+## Reflexão
+
+Com que rios de lágrimas podemos lamentar suficientemente tão penosa desgraça, e implorar a misericórdia divina em favor de tantas almas! Como devemos nos alarmar diante de tantos exemplos terríveis dos insondáveis juízos de Deus, e tremer por nós mesmos! "Aquele que julga estar de pé, cuide para não cair." "Guarda o que tens", diz o oráculo do Espírito Santo a cada um de nós, "para que ninguém te tire a coroa."

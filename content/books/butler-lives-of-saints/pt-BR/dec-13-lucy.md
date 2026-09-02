@@ -1,0 +1,7 @@
+# 13 de Dezembro — SANTA LUZIA, Virgem, Mártir
+
+A mãe de Santa Luzia sofria havia quatro anos de um fluxo de sangue, e o socorro dos homens de nada valia. Santa Luzia lembrou à mãe que uma mulher do Evangelho havia sido curada da mesma enfermidade. "Santa Ágata", disse ela, "está sempre à vista Daquele por quem morreu. Toca apenas o seu sepulcro com fé, e serás curada." Passaram a noite orando junto ao túmulo, até que, vencidas pelo cansaço, ambas adormeceram. Santa Ágata apareceu em visão a Santa Luzia e, chamando-a de irmã, predisse a cura de sua mãe e o próprio martírio de Luzia. Naquele instante deu-se a cura; e, em gratidão, a mãe permitiu que a filha distribuísse seus bens entre os pobres e consagrasse a Cristo sua virgindade. Um jovem a quem ela havia sido prometida em casamento acusou-a de ser cristã perante os pagãos; mas Nosso Senhor, por um milagre especial, preservou de ultraje esta virgem que Ele escolhera para si. O fogo aceso ao redor dela não lhe causou dano algum. Então a espada foi cravada em seu coração, e cumpriu-se a promessa feita junto ao túmulo de Santa Ágata.
+
+## Reflexão
+
+Os Santos tiveram que suportar sofrimentos e tentações muito maiores que os vossos. Como os venceram? Pelo amor de Cristo. Alimentai esse amor puro meditando sobre os mistérios da vida de Cristo; e, sobretudo, pela devoção à Sagrada Eucaristia, que é o antídoto contra o pecado e o penhor da vida eterna.

@@ -1,0 +1,7 @@
+# 6 de Outubro — SÃO BRUNO
+
+BRUNO nasceu em Colônia, por volta de 1030, de família ilustre. Foi dotado de raros dons naturais, que cultivou com esmero em Paris. Tornou-se cônego de Colônia e depois de Reims, onde teve a direção dos estudos teológicos. Por ocasião da morte do bispo, a sé caiu por algum tempo em mãos indignas, e Bruno retirou-se com alguns amigos para o campo. Ali resolveu abandonar o mundo e viver uma vida de retiro e penitência. Com seis companheiros, dirigiu-se a Hugo, Bispo de Grenoble, que os conduziu a uma selvagem solidão chamada Chartreuse. Ali viveram na pobreza, na abnegação e no silêncio, cada um em sua própria cela, reunindo-se apenas para o culto de Deus, e ocupando-se em copiar livros. Do nome do lugar, a Ordem de São Bruno recebeu o nome de Cartuxa. Seis anos depois, Urbano II chamou Bruno a Roma, para valer-se de sua orientação. Bruno tentou ali viver como havia vivido no deserto; mas os ecos da grande cidade perturbavam sua solidão, e, depois de recusar altas dignidades, obteve do Papa, com insistência, permissão para retomar sua vida monástica na Calábria. Ali viveu, em humildade, mortificação e grande paz, até sua bem-aventurada morte em 1101.
+
+## Reflexão
+
+"Ó reino eterno", disse Santo Agostinho, "reino de séculos sem fim, onde repousa a luz imperturbável e a paz de Deus que excede todo entendimento, onde as almas dos Santos estão em descanso, e o gozo eterno coroa suas cabeças, e a dor e o gemido fugiram para sempre! Quando virei e me apresentarei diante de Deus?"

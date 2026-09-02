@@ -1,0 +1,7 @@
+# 20 de Novembro — SÃO FÉLIX DE VALOIS
+
+SÃO FÉLIX era filho do Conde de Valois. Sua mãe, durante toda a sua juventude, fez tudo o que pôde para cultivar nele um espírito de caridade. O injusto divórcio de seus pais amadureceu uma resolução há muito formada de deixar o mundo; e, confiando sua mãe a seu pio irmão, Thibault, Conde de Champagne, tomou o hábito cisterciense em Clairvaux. Suas raras virtudes despertaram tal admiração que, com o consentimento de São Bernardo, refugiou-se na Itália, onde levou uma vida austera junto a um velho eremita. Nesse tempo foi ordenado sacerdote e, tendo morrido seu antigo conselheiro, voltou à França, e por muitos anos viveu como solitário em Cerfroid. Ali Deus lhe inspirou o desejo de fundar uma Ordem para o resgate dos cativos cristãos, e moveu São João de Mata, então jovem, a conceber desejo semelhante. Juntos elaboraram as regras da Ordem da Santíssima Trindade. Muitos discípulos se reuniram em torno deles; e, vendo que havia chegado o tempo de agir, os dois Santos fizeram uma peregrinação a Roma para obter de Inocêncio III a confirmação da Ordem. Sua súplica foi atendida, e os últimos quinze anos da longa vida de Félix foram gastos organizando e desenvolvendo suas fundações, que rapidamente cresciam. Morreu em 1213.
+
+## Reflexão
+
+"Pensa quanto", diz São João Crisóstomo, "e quantas vezes tua boca pecou, e te dedicarás inteiramente à conversão dos pecadores. Pois por este único meio apagarás todos os teus pecados, de modo que tua boca se tornará a boca de Deus."

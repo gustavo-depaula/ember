@@ -1,0 +1,7 @@
+# 21 de Novembro — A APRESENTAÇÃO DA BEM-AVENTURADA VIRGEM MARIA
+
+OS pais religiosos jamais deixam, por meio da oração devota, de consagrar seus filhos ao serviço e ao amor divino, tanto antes como depois do nascimento. Alguns entre os judeus, não contentes com essa consagração geral de seus filhos, ofereciam-nos a Deus em sua infância, pelas mãos dos sacerdotes no Templo, para que fossem alojados em aposentos pertencentes ao Templo e criados assistindo aos sacerdotes e levitas no sagrado ministério. É antiga tradição que a Bem-Aventurada Virgem Maria foi assim solenemente oferecida a Deus no Templo em sua infância. Esta festa da Apresentação da Bem-Aventurada Virgem a Igreja celebra neste dia. A terna alma de Maria foi então adornada com as mais preciosas graças, objeto de espanto e louvor para os anjos, e de suprema complacência para a adorável Trindade; o Pai a contemplando como Sua filha amada, o Filho como aquela escolhida e preparada para tornar-se Sua mãe, e o Espírito Santo como Sua predileta esposa. Maria foi a primeira a erguer o estandarte da virgindade e, consagrando-a por voto perpétuo a Nosso Senhor, abriu o caminho a todas as virgens que desde então seguiram seu exemplo.
+
+## Reflexão
+
+A primeira apresentação de Maria a Deus foi uma oferenda muito agradável a Seus olhos. Que a nossa consagração a Deus se faça sob seu patrocínio, assistida por sua poderosa intercessão e pela união de seus méritos.

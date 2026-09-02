@@ -1,0 +1,7 @@
+# 1 de Setembro — SANTO EGÍDIO, Abade
+
+SANTO EGÍDIO, cujo nome tem sido venerado por várias eras na França e na Inglaterra, diz-se que foi ateniense de nascimento, e de nobre linhagem. Sua extraordinária piedade e erudição atraíram sobre ele a admiração do mundo, de tal modo que lhe foi impossível desfrutar em sua própria terra a obscuridade e o retiro que eram o objetivo principal de seus desejos na terra. Por isso navegou até a França, e escolheu um eremitério primeiro nos desertos abertos perto da foz do Ródano, depois perto do rio Gard, e por fim numa floresta na diocese de Nîmes. Passou muitos anos nessa estreita solidão, vivendo de ervas ou raízes silvestres e água, e conversando apenas com Deus. Lemos em sua vida que por algum tempo foi alimentado com o leite de uma corça na floresta, a qual, perseguida por caçadores, fugiu em busca de refúgio junto ao Santo, sendo assim ele descoberto. A fama da santidade deste santo eremita cresceu muito com os numerosos milagres que operou, os quais tornaram seu nome célebre em toda a França. Santo Egídio era altamente estimado pelo rei francês, mas não pôde ser convencido a abandonar sua solidão. Admitiu, porém, vários discípulos, e estabeleceu excelente disciplina no mosteiro do qual foi fundador, e que, em eras posteriores, se tornou uma florescente abadia da Ordem Beneditina.
+
+## Reflexão
+
+Aquele que une aos exercícios da contemplação e da árdua penitência esforços zelosos e destemidos para conduzir outros ao mesmo glorioso destino que o seu, será verdadeiramente grande no reino dos céus.

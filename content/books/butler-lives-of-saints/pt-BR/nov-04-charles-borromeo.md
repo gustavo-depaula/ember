@@ -1,0 +1,7 @@
+# 4 de Novembro — SÃO CARLOS BORROMEU
+
+CERCA de cinquenta anos depois que a heresia protestante havia irrompido, Nosso Senhor suscitou um mero jovem para renovar o rosto de sua Igreja. Em 1560, Carlos Borromeu, então com vinte e dois anos de idade, foi criado cardeal, e, ao lado de seu tio, Pio IV, administrou os negócios da Santa Sé. Seu primeiro cuidado foi a direção do Concílio de Trento. Impulsionou suas sessões, guiou suas deliberações mediante correspondência contínua desde Roma, e, com sua firmeza, levou-o à conclusão. Depois, empreendeu obra ainda mais árdua — a execução de seus decretos. Como arcebispo de Milão, fez cumprir sua observância, e restaurou por completo a disciplina de sua sé. Fundou escolas para os pobres, seminários para os clérigos, e, por meio de sua comunidade de Oblatos, formou seus padres na perfeição. Inflexível em manter a disciplina, era para seu rebanho um pai terníssimo. Sentava-se à beira do caminho para ensinar a um pobre o Pai-Nosso e a Ave-Maria, e entrava em choupanas cujo fedor afastava seus assistentes da porta. Durante a grande peste, recusou-se a deixar Milão, e esteve sempre junto aos doentes e moribundos, chegando a vender sua própria cama para socorrê-los. Assim viveu, e assim morreu, fiel imagem do Bom Pastor, dando a vida por suas ovelhas até sua última hora.
+
+## Reflexão
+
+Resoluções diárias de cumprir, a todo custo, cada dever exigido por Deus — eis a lição ensinada por São Carlos; lição que devemos aprender se quisermos vencer nossa natureza corrompida e reformar nossa vida.
