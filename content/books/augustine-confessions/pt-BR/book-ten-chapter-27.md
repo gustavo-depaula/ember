@@ -1,0 +1,3 @@
+# Capítulo XXVII
+
+38. Tarde Vos amei, ó Beleza tão antiga e tão nova, tarde Vos amei! Pois eis que estáveis dentro, e eu estava fora, e ali Vos buscava. Desfigurado, lançava-me sem cuidado entre as coisas belas que fizestes. Estáveis comigo, mas eu não estava convosco. Essas coisas me mantinham longe de Vós; e, contudo, elas de modo algum existiriam se não estivessem em Vós. Chamastes e clamastes em voz alta, e forçastes a abertura da minha surdez. Resplandecestes e brilhastes, e afugentastes a minha cegueira. Exalastes fragrâncias, e eu as respirei; e agora suspiro por Vós. Provei-Vos, e agora tenho fome e sede. Tocastes-me, e ardi pela Vossa paz.

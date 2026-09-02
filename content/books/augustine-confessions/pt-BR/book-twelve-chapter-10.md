@@ -1,0 +1,3 @@
+# Capítulo X
+
+10. Ó Verdade, ó Luz do meu coração, que minha própria escuridão não me fale! Eu havia caído naquela escuridão e por ela fui escurecido. Mas nela, mesmo em suas profundezas, cheguei a vos amar. Eu me desviei e ainda assim me lembrava de vós. Ouvi vossa voz atrás de mim, ordenando-me que voltasse, embora mal pudesse ouvi-la por causa dos tumultos de minhas paixões turbulentas. E agora, eis que estou voltando, ardendo e sedento de vossa fonte. Que ninguém me impeça; aqui beberei e assim terei vida. Que eu não seja minha própria vida; pois por mim mesmo vivi mal. Fui morte para mim mesmo; em vós reavivei. Falai comigo; conversai comigo. Cri em vossos livros, e suas palavras são muito profundas.

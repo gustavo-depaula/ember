@@ -1,0 +1,11 @@
+# Chapter XVI
+
+23. Now, I would like to discuss a little further, in thy presence, O my God, with those who admit that all these things are true that thy Truth has indicated to my mind. Let those who deny these things bark and drown their own voices with as much clamor as they please. I will endeavor to persuade them to be quiet and to permit thy word to reach them. But if they are unwilling, and if they repel me, I ask of thee, O my God, that thou shouldst not be silent to me.[^1] Speak truly in my heart; if only thou wouldst speak thus, I would send them away, blowing up the dust and raising it in their own eyes. As for myself I will enter into my closet[^2] and there sing to thee the songs of love, groaning with groanings that are unutterable now in my pilgrimage,[^3] and remembering Jerusalem with my heart uplifted to Jerusalem my country, Jerusalem my mother[^4]; and to thee thyself, the Ruler of the source of Light, its Father, Guardian, Husband; its chaste and strong delight, its solid joy and all its goods ineffable--and all of this at the same time, since thou art the one supreme and true Good! And I will not be turned away until thou hast brought back together all that I am from this dispersion and deformity to the peace of that dearest mother, where the first fruits of my spirit are to be found and from which all these things are promised me which thou dost conform and confirm forever, O my God, my Mercy. But as for those who do not say that all these things which are true are false, who still honor thy Scripture set before us by the holy Moses, who join us in placing it on the summit of authority for us to follow, and yet who oppose us in some particulars, I say this: “Be thou, O God, the judge between my confessions and their gainsaying.”
+
+[^1]: Cf. Ps. 28:1.
+
+[^2]: *Cubile*, i.e., the heart.
+
+[^3]: Cf. Rom. 8:26.
+
+[^4]: The heavenly Jerusalem of Gal. 4:26, which had become a favorite Christian symbol of the peace and blessedness of heaven; cf. the various versions of the hymn "Jerusalem, My Happy Home" in Julian's *Dictionary of Hymnology*, pp. 580-583. The original text is found in the *Liber meditationum*, erroneously ascribed to Augustine himself.

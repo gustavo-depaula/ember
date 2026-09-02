@@ -1,0 +1,5 @@
+# Capítulo XXIX
+
+39. Mas, “já que vossa benignidade é melhor do que a própria vida”, observai como minha vida não é senão um estender-se, e como vossa destra me sustentou em meu Senhor, o Filho do Homem, o Mediador entre Vós, o Um, e nós, os muitos — de tantas maneiras e por tantos meios. Assim, por meio dele, posso apegar-me a ele, em quem também sou apegado; e posso ser recolhido de meu antigo modo de vida para seguir aquele Único e esquecer o que fica atrás, não mais estendido em dispersão, mas agora recolhido de novo — estendendo-me não para o que há de ser e passar, mas para as coisas que *estão* diante de mim. Não distraidamente agora, mas intensamente, prossigo em busca do prêmio de minha vocação celestial, onde possa ouvir o som do vosso louvor e contemplar vossas delícias, que nem vêm a ser nem passam.
+
+Mas agora meus anos se passam entre gemidos. E Vós, Senhor, sois meu consolo, meu eterno Pai. Mas fui dividido entre os tempos, cuja ordem não conheço, e meus pensamentos, até mesmo os lugares mais íntimos e profundos de minha alma, são despedaçados por várias comoções, até que eu me funda em Vós, purificado e fundido no fogo do vosso amor.

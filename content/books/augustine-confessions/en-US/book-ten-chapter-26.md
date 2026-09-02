@@ -1,0 +1,5 @@
+# Chapter XXVI
+
+37. Where, then, did I find thee so as to be able to learn of thee? For thou wast not in my memory before I learned of thee. Where, then, did I find thee so as to be able to learn of thee--save in thyself beyond me.[^1] Place there is none. We go “backward” and “forward” and there is no place. Everywhere and at once, O Truth, thou guidest all who consult thee, and simultaneously answerest all even though they consult thee on quite different things. Thou answerest clearly, though all do not hear in clarity. All take counsel of thee on whatever point they wish, though they do not always hear what they wish. He is thy best servant who does not look to hear from thee what he himself wills, but who wills rather to will what he hears from thee.
+
+[^1]: When he is known at all, God is known as the Self-evident. This is, of course, not a doctrine of innate ideas but rather of the necessity, and reality, of divine illumination as the *dynamic source* of all our knowledge of divine reality. Cf. Coplestone, *op. cit*., ch. IV, and Cushman, *op. cit*.

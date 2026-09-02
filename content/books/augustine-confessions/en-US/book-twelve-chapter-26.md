@@ -1,0 +1,7 @@
+# Chapter XXVI
+
+36. And yet, O my God, thou exaltation of my humility and rest of my toil, who hearest my confessions and forgivest my sins, since thou commandest me to love my neighbor as myself, I cannot believe that thou gavest thy most faithful servant Moses a lesser gift than I should wish and desire for myself from thee, if I had been born in his time, and if thou hadst placed me in the position where, by the use of my heart and my tongue, those books might be produced which so long after were to profit all nations throughout the whole world--from such a great pinnacle of authority--and were to surmount the words of all false and proud teachings. If I had been Moses--and we all come from the same mass,[^1] and what is man that thou art mindful of him?[^2]--if I had been Moses at the time that he was, and if I had been ordered by thee to write the book of Genesis, I would surely have wished for such a power of expression and such an art of arrangement to be given me, that those who cannot as yet understand *how* God createth would still not reject my words as surpassing their powers of understanding. And I would have wished that those who are already able to do this would find fully contained in the laconic speech of thy servant whatever truths they had arrived at in their own thought; and if, in the light of the Truth, some other man saw some further meaning, that too would be found congruent to my words.
+
+[^1]: Cf. Rom. 9:21.
+
+[^2]: Cf. Ps. 8:4.

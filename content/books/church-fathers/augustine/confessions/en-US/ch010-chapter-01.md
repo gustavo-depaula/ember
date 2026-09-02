@@ -1,0 +1,3 @@
+# Chapter 1. In God Alone is the Hope and Joy of Man.
+
+1. Let me know You, O Thou who know me; let me know You, as I am known. 1 Corinthians 13:12 O Thou strength of my soul, enter into it, and prepare it for Yourself, that You may have and hold it without “spot or wrinkle.” Ephesians 5:27 This is my hope, “therefore have I spoken;” and in this hope do I rejoice, when I rejoice soberly. Other things of this life ought the less to be sorrowed for, the more they are sorrowed for; and ought the more to be sorrowed for, the less men do sorrow for them. For behold, “You desire truth,” seeing that he who does it “comes to the light.” John 3:20 This wish I to do in confession in my heart before You, and in my writing before many witnesses.

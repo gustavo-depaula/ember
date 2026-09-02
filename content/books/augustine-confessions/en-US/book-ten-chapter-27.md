@@ -1,0 +1,3 @@
+# Chapter XXVII
+
+38. Belatedly I loved thee, O Beauty so ancient and so new, belatedly I loved thee. For see, thou wast within and I was without, and I sought thee out there. Unlovely, I rushed heedlessly among the lovely things thou hast made. Thou wast with me, but I was not with thee. These things kept me far from thee; even though they were not at all unless they were in thee. Thou didst call and cry aloud, and didst force open my deafness. Thou didst gleam and shine, and didst chase away my blindness. Thou didst breathe fragrant odors and I drew in my breath; and now I pant for thee. I tasted, and now I hunger and thirst. Thou didst touch me, and I burned for thy peace.

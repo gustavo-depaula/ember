@@ -1,0 +1,5 @@
+# Chapter XVI
+
+22. And I saw and found it no marvel that bread which is distasteful to an unhealthy palate is pleasant to a healthy one; or that the light, which is painful to sore eyes, is a delight to sound ones. Thy righteousness displeases the wicked, and they find even more fault with the viper and the little worm, which thou hast created good, fitting in as they do with the inferior parts of creation. The wicked themselves also fit in here, and proportionately more so as they become unlike thee--but they harmonize with the higher creation proportionately as they become like thee. And I asked what wickedness was, and I found that it was no substance, but a perversion of the will bent aside from thee, O God, the supreme substance, toward these lower things, casting away its inmost treasure and becoming bloated with external good.[^1]
+
+[^1]: "The evil which overtakes us has its source in self-will, in the entry into the sphere of process and in the primal assertion of the desire for self-ownership" (Plotinus, *Enneads*, V, 1:1).

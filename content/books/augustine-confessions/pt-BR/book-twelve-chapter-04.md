@@ -1,0 +1,3 @@
+# Capítulo IV
+
+4. Como, então, deveria ser chamada essa informidade, de modo que de algum jeito pudesse ser indicada aos de mente lenta, a não ser que usemos alguma palavra da fala comum? Mas o que se pode encontrar em qualquer lugar do mundo mais próximo de uma total informidade do que a terra e o abismo? Por estarem no nível mais baixo, são menos belos que as outras partes, mais elevadas, todas translúcidas e brilhantes. Portanto, por que não posso considerar a informidade da matéria — que criastes sem forma alguma, a partir da qual fazer este mundo formado — como convenientemente indicada aos homens pela expressão "a terra invisível e informe"?

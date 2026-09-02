@@ -1,0 +1,5 @@
+# Capítulo IX
+
+14. Isto é o que amamos em nossos amigos, e o amamos tanto que a própria consciência de um homem o acusa se ele não ama a quem o ama, ou não responde com amor ao amor, nada buscando do outro senão as provas de seu amor. É essa a origem do nosso lamento quando alguém morre — a tristeza sombria, o coração encharcado em lágrimas, toda doçura convertida em amargura — e a sensação de morte no vivo, por causa da perda da vida do que morre.
+
+Bendito aquele que Vos ama, e que ama a seu amigo em Vós, e também a seu inimigo, por vossa causa; pois só ele não perde nenhum ente querido, se todos são caros n'Aquele que não pode ser perdido. E quem é esse senão o nosso Deus: o Deus que criou o céu e a terra e os encheu por havê-los criado enchendo-os? Ninguém Vos perde senão quem Vos deixa; e aquele que Vos deixa, para onde vai, ou para onde pode fugir, senão de Vós satisfeito para Vós ofendido? Pois onde não encontra ele a vossa lei cumprida no seu próprio castigo? "Vossa lei é a verdade", e Vós sois a Verdade.

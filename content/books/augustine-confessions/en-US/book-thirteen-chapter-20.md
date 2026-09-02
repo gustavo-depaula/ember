@@ -1,0 +1,15 @@
+# Chapter XX
+
+26. Also let the sea conceive and bring forth your works, and let the waters bear the moving creatures that have life.[^1] For by separating the precious from the vile you are made the mouth of God[^2] by whom he said, “Let the waters bring forth.” This does not refer to the living creatures which the earth brings forth, but to the creeping creatures that have life and the fowls that fly over the earth. For, by the ministry of thy holy ones, thy mysteries have made their way amid the buffeting billows of the world, to instruct the nations in thy name, in thy Baptism. And among these things many great and marvelous works have been wrought, which are analogous to the huge whales. The words of thy messengers have gone flying over the earth, high in the firmament of thy Book which is spread over them as the authority beneath which they are to fly wheresoever they go. For “there is no speech nor language where their voice is not heard,” because “their sound has gone out through all the earth, and their words to the end of the world”[^3]--and this because thou, O Lord, hast multiplied these things by thy blessing.
+
+27. Am I speaking falsely? Am I mingling and confounding and not rightly distinguishing between the knowledge of these things in the firmament of heaven and those corporeal works in the swelling sea and beneath the firmament of heaven? For there are those things, the knowledge of which is solid and defined. It does not increase from generation to generation and thus they stand, as it were, as lights of wisdom and knowledge. But there are many and varied physical processes that manifest these selfsame principles. And thus one thing growing from another is multiplied by thy blessing, O God, who dost so refresh our easily wearied mortal senses that in our mental cognition a single thing may be figured and signified in many different ways by different bodily motions.
+
+“The waters” have brought forth these mysteries, but only at thy word. The needs of the people who were alien to the eternity of thy truth have called them forth, but only in thy gospel, since it was these “waters” which cast them up--the waters whose stagnant bitterness was the reason why they came forth through thy Word.
+
+28. Now all the things that thou hast made are fair, and yet, lo, thou who didst make all things art inexpressibly fairer. And if Adam had not fallen away from thee, that brackish sea--the human race--so deeply prying, so boisterously swelling, so restlessly moving, would never have flowed forth from his belly. Thus, there would have been no need for thy ministers to use corporeal and tangible signs in the midst of many “waters” in order to show forth their mystical deeds and words. For this is the way I interpret the phrases “creeping creatures” and “flying fowl.” Still, men who have been instructed and initiated and made dependent on thy corporeal mysteries would not be able to profit from them if it were not that their soul has a higher life and unless, after the word of its admission, it did not look beyond toward its perfection.
+
+[^1]: Cf. Gen. 1:20.
+
+[^2]: Cf. Jer. 15:19.
+
+[^3]: Ps. 19:4.

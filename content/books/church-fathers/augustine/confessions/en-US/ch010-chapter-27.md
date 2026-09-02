@@ -1,0 +1,3 @@
+# Chapter 27. He Grieves that He Was So Long Without God.
+
+38. Too late did I love You, O Fairness, so ancient, and yet so new! Too late did I love You! For behold, You were within, and I without, and there did I seek You; I, unlovely, rushed heedlessly among the things of beauty You made. You were with me, but I was not with You. Those things kept me far from You, which, unless they were in You, were not. You called, and cried aloud, and forced open my deafness. You gleamed and shine, and chase away my blindness. You exhaled odours, and I drew in my breath and do pant after You. I tasted, and do hunger and thirst. You touched me, and I burned for Your peace.

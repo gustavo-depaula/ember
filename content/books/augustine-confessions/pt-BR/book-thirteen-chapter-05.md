@@ -1,0 +1,5 @@
+# Capítulo V
+
+6. Vede agora como a Trindade me aparece num enigma. E vós sois a Trindade, ó meu Deus, pois vós, ó Pai — no princípio de nossa sabedoria, isto é, em vossa sabedoria nascida de vós, igual e coeterna convosco, isto é, vosso Filho — criastes o céu e a terra. Muitas coisas dissemos acerca do céu dos céus, e acerca da terra invisível e informe, e acerca do abismo tenebroso — falando do fluxo sem rumo de seu ser espiritualmente deformado, a menos que se volte para aquele de quem tem sua vida (tal como é), e por sua Luz venha a ser uma vida cheia de beleza. Assim, seria um céu [inferior] daquele [superior] céu, que depois foi feito entre a água e a água.
+
+E agora cheguei a reconhecer, no nome de Deus, o Pai que fez todas essas coisas, e no termo "o Princípio" a reconhecer o Filho, por meio de quem ele fez todas essas coisas; e, como eu cria que meu Deus era a Trindade, busquei ainda mais em sua santa Palavra, e eis: "Vosso Espírito se movia sobre as águas." Vede, pois, a Trindade, ó meu Deus: Pai, Filho e Espírito Santo, o Criador de toda a criação!

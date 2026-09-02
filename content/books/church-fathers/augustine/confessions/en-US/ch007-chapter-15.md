@@ -1,0 +1,3 @@
+# Chapter 15. Whatever Is, Owes Its Being to God.
+
+21. And I looked back on other things, and I perceived that it was to You they owed their being, and that they were all bounded in You; but in another way, not as being in space, but because You hold all things in Your hand in truth: and all things are true so far as they have a being; nor is there any falsehood, unless that which is not is thought to be. And I saw that all things harmonized, not with their places only, but with their seasons also. And that Thou, who only art eternal, did not begin to work after innumerable spaces of times; for that all spaces of times, both those which have passed and which shall pass, neither go nor come, save through You, working and abiding.

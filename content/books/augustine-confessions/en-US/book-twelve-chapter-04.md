@@ -1,0 +1,3 @@
+# Chapter IV
+
+4. What, then, should that formlessness be called so that somehow it might be indicated to those of sluggish mind, unless we use some word in common speech? But what can be found anywhere in the world nearer to a total formlessness than the earth and the abyss? Because of their being on the lowest level, they are less beautiful than are the other and higher parts, all translucent and shining. Therefore, why may I not consider the formlessness of matter--which thou didst create without shapely form, from which to make this shapely world--as fittingly indicated to men by the phrase, “The earth invisible and unformed”?

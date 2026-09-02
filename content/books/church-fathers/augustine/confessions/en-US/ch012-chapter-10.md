@@ -1,0 +1,3 @@
+# Chapter 10. He Begs of God that He May Live in the True Light, and May Be Instructed as to the Mysteries of the Sacred Books.
+
+10. Oh, let Truth, the light of my heart, not my own darkness, speak unto me! I have descended to that, and am darkened. But thence, even thence, did I love You. I went astray, and remembered You. I heard Your voice behind me bidding me return, and scarcely did I hear it for the tumults of the unquiet ones. And now, behold, I return burning and panting after Your fountain. Let no one prohibit me; of this will I drink, and so have life. Let me not be my own life; from myself have I badly lived—death was I unto myself; in You do I revive. Speak unto me; discourse unto me. In Your books have I believed, and their words are very deep.

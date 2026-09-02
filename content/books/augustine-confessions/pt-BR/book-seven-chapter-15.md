@@ -1,0 +1,3 @@
+# Capítulo XV
+
+21. E olhei ao redor para outras coisas, e vi que era a Vós que todas elas deviam o seu ser, e que todas eram finitas em Vós; contudo, não estão em Vós como num espaço, mas porque sustentais todas as coisas na mão da vossa verdade, e porque todas as coisas são verdadeiras na medida em que são; e porque a falsidade nada mais é do que a existência no pensamento daquilo que não existe de fato. E vi que todas as coisas se harmonizam, não só em seus lugares, mas também em seus tempos. E vi que Vós, que só Vós sois eterno, não *começastes* a agir depois de incontáveis períodos de tempo — porque todos os tempos, tanto os que já passaram quanto os que hão de passar, nem se vão nem vêm senão pelo vosso agir e permanecer.

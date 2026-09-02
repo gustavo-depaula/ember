@@ -1,0 +1,3 @@
+# Chapter 41. Having Conquered His Triple Desire, He Arrives at Salvation.
+
+66. And thus have I reflected upon the wearinesses of my sins, in that threefold “lust,” and have invoked Your right hand to my aid. For with a wounded heart have I seen Your brightness, and being beaten back I exclaimed, “Who can attain unto it?” “I am cut off from before Your eyes.” You are the Truth, who presidest over all things, but I, through my covetousness, wished not to lose You, but with You wished to possess a lie; as no one wishes so to speak falsely as himself to be ignorant of the truth. So then I lost You, because Thou deignest not to be enjoyed with a lie.

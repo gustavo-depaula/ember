@@ -1,0 +1,3 @@
+# Capítulo XXV
+
+32. E confesso-vos, Senhor, que ainda ignoro o que é o tempo. E de novo vos confesso, Senhor, que sei que estou dizendo todas essas coisas no tempo, e que já falei do tempo por um longo tempo, e que “muito longo” não é longo senão quando medido pela duração do tempo. Como, então, sei isto, quando não sei o que é o tempo? Ou será possível que eu não saiba como exprimir o que sei? Ai de mim! Nem mesmo sei a extensão da minha própria ignorância. Eis, meu Deus, que em vossa presença não minto. Como é meu coração, assim falo. Vós acendereis minha candeia; Vós, Senhor meu Deus, iluminareis minhas trevas.

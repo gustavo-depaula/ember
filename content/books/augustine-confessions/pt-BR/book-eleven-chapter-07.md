@@ -1,0 +1,5 @@
+# Capítulo VII
+
+9. Vós nos chamais, então, a compreender a Palavra — o Deus que é Deus convosco — que é falada eternamente e por meio da qual todas as coisas são ditas eternamente. Pois o que foi dito primeiro não terminou, para então se dizer outra coisa até que toda a série fosse dita; mas todas as coisas, ao mesmo tempo e para sempre. Pois, do contrário, teríamos tempo e mudança, e não uma verdadeira eternidade, nem uma verdadeira imortalidade.
+
+Isto eu sei, meu Deus, e dou graças. Sei, confesso-vos, Senhor, e todo aquele que não é ingrato por certas verdades sabe e vos bendiz junto comigo. Sabemos, Senhor, isto ao menos sabemos: que, na mesma proporção em que algo não é o que era, e é o que não era, nessa mesma proporção passa ou vem a ser. Mas não há nada em vossa Palavra que passe ou retorne ao seu lugar; pois ela é verdadeiramente imortal e eterna. E, portanto, à Palavra coeterna convosco, ao mesmo tempo e sempre dizeis tudo o que dizeis. E tudo o que dizeis que se faça é feito, e não fazeis nada de outro modo senão falando. Ainda assim, nem tudo o que fazeis ao falar é feito ao mesmo tempo e para sempre.

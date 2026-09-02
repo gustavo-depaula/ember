@@ -1,0 +1,17 @@
+# Chapter II
+
+2. But what was it that delighted me save to love and to be loved? Still I did not keep the moderate way of the love of mind to mind--the bright path of friendship. Instead, the mists of passion steamed up out of the puddly concupiscence of the flesh, and the hot imagination of puberty, and they so obscured and overcast my heart that I was unable to distinguish pure affection from unholy desire. Both boiled confusedly within me, and dragged my unstable youth down over the cliffs of unchaste desires and plunged me into a gulf of infamy. Thy anger had come upon me, and I knew it not. I had been deafened by the clanking of the chains of my mortality, the punishment for my soul’s pride, and I wandered farther from thee, and thou didst permit me to do so. I was tossed to and fro, and wasted, and poured out, and I boiled over in my fornications--and yet thou didst hold thy peace, O my tardy Joy! Thou didst still hold thy peace, and I wandered still farther from thee into more and yet more barren fields of sorrow, in proud dejection and restless lassitude.
+
+3. If only there had been someone to regulate my disorder and turn to my profit the fleeting beauties of the things around me, and to fix a bound to their sweetness, so that the tides of my youth might have spent themselves upon the shore of marriage! Then they might have been tranquilized and satisfied with having children, as thy law prescribes, O Lord--O thou who dost form the offspring of our death and art able also with a tender hand to blunt the thorns which were excluded from thy paradise![^1] For thy omnipotence is not far from us even when we are far from thee. Now, on the other hand, I might have given more vigilant heed to the voice from the clouds: “Nevertheless, such shall have trouble in the flesh, but I spare you,”[^2] and, “It is good for a man not to touch a woman,”[^3] and, “He that is unmarried cares for the things that belong to the Lord, how he may please the Lord; but he that is married cares for the things that are of the world, how he may please his wife.”[^4] I should have listened more attentively to these words, and, thus having been “made a eunuch for the Kingdom of Heaven’s sake,”[^5] I would have with greater happiness expected thy embraces.
+
+4. But, fool that I was, I foamed in my wickedness as the sea and, forsaking thee, followed the rushing of my own tide, and burst out of all thy bounds. But I did not escape thy scourges. For what mortal can do so? Thou wast always by me, mercifully angry and flavoring all my unlawful pleasures with bitter discontent, in order that I might seek pleasures free from discontent. But where could I find such pleasure save in thee, O Lord--save in thee, who dost teach us by sorrow, who woundest us to heal us, and dost kill us that we may not die apart from thee. Where was I, and how far was I exiled from the delights of thy house, in that sixteenth year of the age of my flesh, when the madness of lust held full sway in me--that madness which grants indulgence to human shamelessness, even though it is forbidden by thy laws--and I gave myself entirely to it? Meanwhile, my family took no care to save me from ruin by marriage, for their sole care was that I should learn how to make a powerful speech and become a persuasive orator.
+
+[^1]: Cf. Gen. 3:18 and *De bono conjugali*, 8-9, 39-35 (*N-PNF*, III, 396-413).
+
+[^2]: 1 Cor. 7:28.
+
+[^3]: 1 Cor. 7:1.
+
+[^4]: 1 Cor. 7:32, 33.
+
+[^5]: Cf. Matt. 19:12.
