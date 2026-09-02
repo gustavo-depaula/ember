@@ -1,13 +1,16 @@
 {
   "id": "polycarp-epistle-to-the-philippians",
   "name": {
-    "en-US": "Epistle to the Philippians"
+    "en-US": "Epistle to the Philippians",
+    "pt-BR": "Carta aos Filipenses"
   },
   "author": {
-    "en-US": "Polycarp"
+    "en-US": "Polycarp",
+    "pt-BR": "Policarpo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistle to the Philippians"
+        "en-US": "Epistle to the Philippians",
+        "pt-BR": "Carta aos Filipenses"
       }
     }
   ]
