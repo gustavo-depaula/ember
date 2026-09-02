@@ -1,4 +1,4 @@
-# 15 de Fevereiro — SÃO FAUSTINO E SÃO JOVITA, Mártires
+# 15 de Fevereiro — SÃO FAUSTINO e SÃO JOVITA, Mártires
 
 FAUSTINO e Jovita eram irmãos, de nobre nascimento, e zelosos professores da religião cristã, que pregavam sem temor em sua cidade de Bréscia, enquanto o bispo daquele lugar permanecia escondido durante a perseguição. Seu extraordinário zelo despertou o furor dos pagãos contra eles, e lhes proporcionou uma gloriosa morte por sua fé em Bréscia, na Lombardia, sob o Imperador Adriano. Juliano, um senhor pagão, prendeu-os; e o próprio imperador, passando por Bréscia, quando nem ameaças nem tormentos conseguiram abalar sua constância, ordenou que fossem decapitados. Parecem ter sofrido por volta do ano 121. A cidade de Bréscia os venera como seus principais padroeiros, possui suas relíquias, e uma igreja muito antiga naquela cidade leva seus nomes.
 

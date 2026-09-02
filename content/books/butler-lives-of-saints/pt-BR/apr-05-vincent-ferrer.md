@@ -4,4 +4,4 @@ O maravilhoso apóstolo de Cristo, o "Anjo do Juízo," nasceu em Valência, na E
 
 ## Reflexão
 
-"Faça o que fizer," disse São Vicente, "não penses em ti mesmo, mas em Deus." Nesse espírito ele pregou, e Deus falou por ele; nesse espírito, se escutarmos, ouviremos a voz de Deus.
+"Faça o que fizer," disse São Vicente, "não pense em ti mesmo, mas em Deus." Nesse espírito ele pregou, e Deus falou por ele; nesse espírito, se escutarmos, ouviremos a voz de Deus.

@@ -15,7 +15,7 @@ Portuguese chapters use: `# Dia de Mês — SÃO/SANTA NOME, Título` (e.g. `# 1
 
 | English | Portuguese | Notes |
 |---------|------------|-------|
-| St. (male) | São | before a name beginning with a consonant other than "Do/To" pattern — use "Santo" only for "Santo Antônio", "Santo Tomás" (traditional exceptions) |
+| St. (male) | São | before a consonant-initial name (e.g. São Tomás, São Patrício, São Bento). Use "Santo" only before a vowel-initial (or silent-H) name (e.g. Santo Antão, Santo Antônio, Santo Inácio, Santo Efrém, Santo Eduardo) — per round-3 review, "Santo Tomás" was a documented error corrected back to "São Tomás" (Tomás is consonant-initial; no exception applies) |
 | St. (female) | Santa | |
 | Bishop | Bispo | |
 | Archbishop | Arcebispo | |
