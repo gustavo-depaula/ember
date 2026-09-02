@@ -140,7 +140,7 @@ O Lord our God, under the shadow of thy wings let us hope--defend us and support
 
 [^16]: Cf. Ovid, *Tristia*, IV, 4:74.
 
-[^17]: Cf. Horace, Ode I, 3:8, where he speaks of Virgil, *etserves animae dimidium meae*. Augustine's memory changes the text here to *dimidium animae suae*.
+[^17]: Cf. Horace, Ode I, 3:8, where he speaks of Virgil, *et serves animae dimidium meae*. Augustine's memory changes the text here to *dimidium animae suae*.
 
 [^18]: 2 Tim. 4:3.
 

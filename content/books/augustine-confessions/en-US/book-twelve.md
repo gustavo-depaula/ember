@@ -16,7 +16,7 @@ But where is that heaven of heavens, O Lord, of which we hear in the words of th
 
 CHAPTER III
 
- 3. And truly this earth was invisible and unformed,[^5] and there was an inexpressibly profound abyss[^6] above which there was no light since it had no form. Thou didst command it written that “darkness was on the face of the deep.”[^7] What else is darkness except the absence of light? For if there had been light, where would it have been except by being over all, showing itself rising aloft and giving light? Therefore, where there was no light as yet, why was it that darkness was present, unless it was that light was absent? Darkness, then, was heavy upon it, because the light from above was absent; just as there is silence where there is no sound. And what is it to have silence anywhere but simply not to have sound? Hast thou not, O Lord, taught this soul which confesses to thee? Hast thou not thus taught me, O Lord, that before thou didst form and separate this formless matter there was *nothing*: neither color, nor figure, nor body, nor spirit? Yet it was not absolutely nothing; it was a certain formlessness without any shape.
+3. And truly this earth was invisible and unformed,[^5] and there was an inexpressibly profound abyss[^6] above which there was no light since it had no form. Thou didst command it written that “darkness was on the face of the deep.”[^7] What else is darkness except the absence of light? For if there had been light, where would it have been except by being over all, showing itself rising aloft and giving light? Therefore, where there was no light as yet, why was it that darkness was present, unless it was that light was absent? Darkness, then, was heavy upon it, because the light from above was absent; just as there is silence where there is no sound. And what is it to have silence anywhere but simply not to have sound? Hast thou not, O Lord, taught this soul which confesses to thee? Hast thou not thus taught me, O Lord, that before thou didst form and separate this formless matter there was *nothing*: neither color, nor figure, nor body, nor spirit? Yet it was not absolutely nothing; it was a certain formlessness without any shape.
 
 CHAPTER IV
 
@@ -378,7 +378,7 @@ Behold, thou hast given us for our food every seed-bearing herb on the face of t
 
 CHAPTER XXVI
 
-39. Those who find their joy in it are fed by these “fruits”; but those whose god is their belly find no joy in them. For in those who offer these fruits, it is not the fruit itself that matters, but the spirit in which they give them. Therefore, he who serves God and not his own belly may rejoice in them, and I plainly see why. I see it, and I rejoice with him greatly. For he [Paul] had received from the Philippians the things they had sent by Epaphroditus; yet I see why he rejoiced. He was fed by what he found his joy in; for, speaking truly, he says, “I rejoice in the Lord greatly, that now at the last your care of me has flourished again, in which you were once so careful, but it had become a weariness to you.[^185] These Philippians, in their extended period of weariness in well-doing, had become weak and were, so to say, dried up; they were no longer bringing forth the fruits of good works. And now Paul rejoices in them--and not just for himself alone--because they were flourishing again in ministering to his needs. Therefore he adds: “I do not speak in respect of my want, for I have learned in whatsoever state I am therewith to be content. I know both how to be abased and how to abound; everywhere and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need. I can do all things through Christ who strengtheneth me.”[^186]
+39. Those who find their joy in it are fed by these “fruits”; but those whose god is their belly find no joy in them. For in those who offer these fruits, it is not the fruit itself that matters, but the spirit in which they give them. Therefore, he who serves God and not his own belly may rejoice in them, and I plainly see why. I see it, and I rejoice with him greatly. For he [Paul] had received from the Philippians the things they had sent by Epaphroditus; yet I see why he rejoiced. He was fed by what he found his joy in; for, speaking truly, he says, “I rejoice in the Lord greatly, that now at the last your care of me has flourished again, in which you were once so careful, but it had become a weariness to you.”[^185] These Philippians, in their extended period of weariness in well-doing, had become weak and were, so to say, dried up; they were no longer bringing forth the fruits of good works. And now Paul rejoices in them--and not just for himself alone--because they were flourishing again in ministering to his needs. Therefore he adds: “I do not speak in respect of my want, for I have learned in whatsoever state I am therewith to be content. I know both how to be abased and how to abound; everywhere and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need. I can do all things through Christ who strengtheneth me.”[^186]
 
 40. Where do you find joy in all things, O great Paul? What is the cause of your joy? On what do you feed, O man, renewed now in the knowledge of God after the image of him who created you, O living soul of such great continence--O tongue like a winged bird, speaking mysteries? What food is owed such creatures; what is it that feeds you? It is joy! For hear what follows: “Nevertheless, you have done well in that you have shared with me in my affliction.”[^187] This is what he finds his joy in; this is what he feeds on. They have done well, not merely because his need had been relieved--for he says to them, “You have opened my heart when I was in distress”--but because he knew both how to abound and how to suffer need, in thee who didst strengthen him. And so he said, “You [Philippians] know also that in the beginning of the gospel, when I departed from Macedonia, no church shared with me in regard to giving and receiving, except you only. For even in Thessalonica you sent time and time again, according to my need.”[^188] He now finds his joy in the fact that they have returned once again to these good works, and he is made glad that they are flourishing again, as a fruitful field when it recovers its fertility.
 
@@ -446,13 +446,13 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^4]: Earth and sky.
 
-[^5]: It is interesting that Augustine should have preferred the *invisibiliset incomposita* of the Old Latin version of Gen. 1:2 over the *inaniset vacua* of the Vulgate, which was surely accessible to him. Since this is to be a key phrase in the succeeding exegesis this reading can hardly have been the casual citation of the old and familiar version. Is it possible that Augustine may have had the sensibilities and associations of his readers in mind--for many of them may have not known Jerome's version or, at least, not very well?
+[^5]: It is interesting that Augustine should have preferred the *invisibilis et incomposita* of the Old Latin version of Gen. 1:2 over the *inanis et vacua* of the Vulgate, which was surely accessible to him. Since this is to be a key phrase in the succeeding exegesis this reading can hardly have been the casual citation of the old and familiar version. Is it possible that Augustine may have had the sensibilities and associations of his readers in mind--for many of them may have not known Jerome's version or, at least, not very well?
 
 [^6]: *Abyssus*, literally, the unplumbed depths of the sea, and as a constant meaning here, "the depths beyond measure."
 
 [^7]: Gen. 1:2.
 
-[^8]: Augustine may not have known the Platonic doctrine of nonbeing (cf. *Sophist*, 236C-237B), but he clearly is deeply influenced here by Plotinus; cf. *Enneads*, II, 4:8f., where matter is analyzed as a substratum without quantity or quality; and 4:15: "Matter, then, must be described as το απειρον (the indefinite). . . . Matter is indeterminateness and nothing else." In short, *materiainformis* is sheer possibility; not anything and not nothing!
+[^8]: Augustine may not have known the Platonic doctrine of nonbeing (cf. *Sophist*, 236C-237B), but he clearly is deeply influenced here by Plotinus; cf. *Enneads*, II, 4:8f., where matter is analyzed as a substratum without quantity or quality; and 4:15: "Matter, then, must be described as το απειρον (the indefinite). . . . Matter is indeterminateness and nothing else." In short, *materia informis* is sheer possibility; not anything and not nothing!
 
 [^9]: *Dictare*: was Augustine dictating his *Confessions*? It is very probable.
 
@@ -472,7 +472,7 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^17]: Ps. 42:3, 10.
 
-[^18]: Cor. 13:12.
+[^18]: 1 Cor. 13:12.
 
 [^19]: Cf. Ecclus. 1:4.
 
@@ -500,7 +500,7 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^31]: 1 Tim. 1:5.
 
-[^32]: This is the basis of Augustine's defense of allegory as both legitimate and profitable in the interpretation of Scripture. He did not mean that there is a plurality of literal truths in Scripture but a multiplicity of perspectives on truth which amounted to different levels and interpretations of truth. This gave Augustine the basis for a positive tolerance of varying interpretations which did hold fast to the essential common premises about God's primacy as Creator; cf. M. Pontet, *L'Exégèsede Saint Augustin prédicateur* (Lyons, 1944), chs. II and III.
+[^32]: This is the basis of Augustine's defense of allegory as both legitimate and profitable in the interpretation of Scripture. He did not mean that there is a plurality of literal truths in Scripture but a multiplicity of perspectives on truth which amounted to different levels and interpretations of truth. This gave Augustine the basis for a positive tolerance of varying interpretations which did hold fast to the essential common premises about God's primacy as Creator; cf. M. Pontet, *L'Exégèse de Saint Augustin prédicateur* (Lyons, 1944), chs. II and III.
 
 [^33]: In this chapter, Augustine summarizes what he takes to be the Christian consensus on the questions he has explored about the relation of the intellectual and corporeal creations.
 
@@ -540,7 +540,7 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^51]: Transition, in preparation for the concluding book (XIII), which undertakes a constructive resolution to the problem of the analysis of the mode of creation made here in Bk. XII.
 
-[^52]: This is a compound--and untranslatable--Latin pun: *nequeut sic te colam quasi terram, ut sis uncultus si non te colam.*
+[^52]: This is a compound--and untranslatable--Latin pun: *neque ut sic te colam quasi terram, ut sis uncultus si non te colam.*
 
 [^53]: Cf. *Enneads*, I, 2:4: "What the soul now sees, it certainly always possessed, but as lying in the darkness. . . . To dispel the darkness and thus come to knowledge of its inner content, it must thrust toward the light." Compare the notions of the *initiative* of such movements in the soul in Plotinus and Augustine.
 
@@ -574,7 +574,7 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^68]: The Holy Spirit.
 
-[^69]: *Canticumgraduum*. Psalms 119 to 133 as numbered in the Vulgate were regarded as a single series of ascending steps by which the soul moves up toward heaven; cf. *The Exposition on the Psalms, loc. cit*.
+[^69]: *Canticum graduum*. Psalms 119 to 133 as numbered in the Vulgate were regarded as a single series of ascending steps by which the soul moves up toward heaven; cf. *The Exposition on the Psalms, loc. cit*.
 
 [^70]: Tongues of fire, symbol of the descent of the Holy Spirit; cf. Acts 2:3, 4.
 
@@ -756,7 +756,7 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^159]: 1 Cor. 14:22.
 
-[^160]: The fish was an early Christian rebus for "Jesus Christ." The Greek word for fish, ιχθυζ, was arranged acrostically to make the phrase Ιησουζ Χριστοσ, Θεου Υιοζ, Σωτηρ; cf. Smith and Cheetham, *Dictionary of Christian Antiquities*, pp. 673f.; see also Cabrol, *Dictionnaired'archéologie chrétienne*, Vol. 14, cols. 1246-1252, for a full account of the symbolism and pictures of early examples.
+[^160]: The fish was an early Christian rebus for "Jesus Christ." The Greek word for fish, ιχθυζ, was arranged acrostically to make the phrase Ιησουζ Χριστοσ, Θεου Υιοζ, Σωτηρ; cf. Smith and Cheetham, *Dictionary of Christian Antiquities*, pp. 673f.; see also Cabrol, *Dictionnaire d'archéologie chrétienne*, Vol. 14, cols. 1246-1252, for a full account of the symbolism and pictures of early examples.
 
 [^161]: Cf. Ps. 69:32.
 
@@ -814,11 +814,11 @@ What man will teach men to understand this? And what angel will teach the angels
 
 [^188]: Phil. 4:15-17.
 
-[^189]: Phil. 4:17.,
+[^189]: Phil. 4:17.
 
 [^190]: Cf. Matt. 10:41, 42.
 
-[^191]: *Idiotae*: there is some evidence that this term was used to designate pagans who had a nominal connection with the Christian community but had not formally enrolled as catechumens. See Th. Zahn in *Neue kirkliche Zeitschrift* (1899), pp. 42-43.
+[^191]: *Idiotae*: there is some evidence that this term was used to designate pagans who had a nominal connection with the Christian community but had not formally enrolled as catechumens. See Th. Zahn in *Neue kirchliche Zeitschrift* (1899), pp. 42-43.
 
 [^192]: Gen. 1:31.
 

@@ -240,7 +240,7 @@ CHAPTER XXXI
 
 [^23]: Ps. 104:24.
 
-[^24]: *Plenivetustatis suae*. In *Sermon* CCLXVII, 2 (*PL* 38, c. 1230), Augustine has a similar usage. Speaking of those who pour new wine into old containers, he says: *Carnalitasvetustas est, gratia novitas est*, "Carnality is the old nature; grace is the new"; cf. Matt. 9:17.
+[^24]: *Plenivetustatis suae*. In *Sermon* CCLXVII, 2 (*PL* 38, c. 1230), Augustine has a similar usage. Speaking of those who pour new wine into old containers, he says: *Carnalitas vetustas est, gratia novitas est*, "Carnality is the old nature; grace is the new"; cf. Matt. 9:17.
 
 [^25]: The notion of the eternity of this world was widely held in Greek philosophy, in different versions, and was incorporated into the Manichean rejection of the Christian doctrine of *creatio* *ex nihilo* which Augustine is citing here. He returns to the question, and his answer to it, again in *De civitate Dei*, XI, 4-8.
 

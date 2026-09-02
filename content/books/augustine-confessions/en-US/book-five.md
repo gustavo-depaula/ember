@@ -142,7 +142,7 @@ CHAPTER XIV
 
 [^22]: Cf. Ps. 41:4.
 
-[^23]: Cf. Ps 141:3f.
+[^23]: Cf. Ps. 141:3f.
 
 [^24]: Followers of the skeptical tradition established in the Platonic Academy by Arcesilaus and Carneades in the third century B.C. They taught the necessity of εποχη, suspended judgment, in all questions of truth, and would allow nothing more than the consent of probability. This tradition was known in Augustine's time chiefly through the writings of Cicero; cf. his *Academica*. This kind of skepticism shook Augustine's complacency severely, and he wrote one of his first dialogues, *Contra Academicos*, in an effort to clear up the problem posed thereby.
 

@@ -149,6 +149,24 @@ política padrão do pipeline de tradução, essas notas editoriais foram
   consistência com o eco de Gl 3,28 na frase seguinte, "não há nem homem
   nem mulher".
 
+### Terceira rodada de revisão — aspas
+
+Oito dos quinze capítulos em pt-BR (Livros III, IV, V, VI, VIII, IX, X e
+XII) usavam aspas retas (`"` e `'`), enquanto os outros sete — e a fonte
+en-US inteira — usam aspas curvas tipográficas (`“ ”` e `‘ ’`).
+Convertidos por script, com direção decidida pelo contexto (abre após
+espaço ou delimitador de abertura, fecha nos demais casos) e conferência
+de balanceamento por arquivo. A elisão `n'Aquele` (Livro IV) recebeu
+apóstrofo curvo `n’Aquele`, como esperado.
+
+Convenção daqui em diante: **aspas curvas em todos os capítulos, nos dois
+idiomas.**
+
+Onde um parágrafo abre aspas e não as fecha (Livros VI e XII), trata-se
+da convenção de citação que atravessa parágrafos — cada parágrafo reabre
+as aspas e só o último as fecha. O desbalanceamento é intencional e
+espelha o en-US.
+
 ### Correções na fonte en-US
 
 Defeitos de importação (espaços perdidos na conversão do CCEL), não
@@ -161,6 +179,29 @@ casos:
   Enchiridion*" (título alemão de Otto Scheel).
 - `book-eleven.md` (Cap. XXVI, §33): "[*praetereuntiatempora, non
   praeterita*]" → "[*praetereuntia tempora, non praeterita*]".
+- `book-seven.md` (Cap. XIII, §19): Sl 148,11 lia "things of the earth"
+  onde o salmo diz "kings of the earth" — corrupção de OCR arrastada do
+  "creeping things" do versículo anterior. O pt-BR já trazia "os reis da
+  terra".
+- `book-six.md` (Cap. XI, §18): a citação dos acadêmicos abria com `”`
+  (aspa de fechamento) em vez de `“`.
+- `book-one.md` (Cap. XVIII, §28), `book-three.md` (Cap. XI, §20),
+  `book-twelve.md` (Cap. VII, §7 e Cap. XV, §18): quatro citações
+  fechavam com o glifo errado (`“` no lugar de `”`, e `’’` no lugar de
+  `”`).
+- `book-twelve.md` (Cap. XXV, §39): faltava a aspa de fechamento da
+  citação de Fl 4,10.
+- `book-twelve.md`: parágrafo 3 começava com um espaço à esquerda, único
+  entre os 95 parágrafos numerados do arquivo.
+- Espaços perdidos em latim/títulos dentro do aparato de notas:
+  `*invisibiliset incomposita*`, `*inaniset vacua*`, `*materiainformis*`,
+  `*nequeut sic te colam*`, `*Canticumgraduum*`, `*L'Exégèsede Saint
+  Augustin*`, `*Dictionnaired'archéologie chrétienne*` (Livro XII),
+  `*Carnalitasvetustas est*` (Livro XI), `*etserves animae dimidium
+  meae*` (Livro IV, Horácio, *Odes* I.3.8), e `[^1]even` (Testemunho).
+- Referências: `Cor. 13:12` → `1 Cor. 13:12`; `Ps 141:3f.` → `Ps.
+  141:3f.`; `Phil. 4:17.,` → `Phil. 4:17.`; `*Neue kirkliche
+  Zeitschrift*` → `*Neue kirchliche Zeitschrift*`.
 
 ## Decisões de tradução
 
