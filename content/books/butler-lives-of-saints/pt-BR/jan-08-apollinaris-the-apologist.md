@@ -1,0 +1,7 @@
+# 8 de Janeiro — SÃO APOLINÁRIO, O APOLOGISTA, Bispo
+
+Cláudio Apolinário, Bispo de Hierápolis, na Frígia, foi um dos mais ilustres prelados do segundo século. Apesar dos grandes elogios que lhe tributaram Eusébio, São Jerônimo, Teodoreto e outros, pouco se sabe de seus feitos; e seus escritos, então tidos em grande estima, parecem hoje estar todos perdidos. Escreveu muitos tratados eruditos contra os hereges, e mostrou, como atesta São Jerônimo, de que seita filosófica derivava cada heresia seus erros. Nada, porém, tornou tão ilustre seu nome quanto sua nobre apologia da religião cristã, que dirigiu ao imperador Marco Aurélio, por volta do ano 175, logo depois da vitória milagrosa que aquele príncipe obtivera sobre os quados pelas orações dos cristãos. Santo Apolinário lembrou ao imperador o benefício que recebera de Deus por meio das orações de seus súditos cristãos, e implorou proteção para eles contra a perseguição dos pagãos. Marco Aurélio publicou um edito no qual proibia, sob pena de morte, que alguém acusasse um cristão por causa de sua religião; por estranha inconsistência, porém, não teve a coragem de abolir as leis então em vigor contra os cristãos, e, em consequência, muitos deles sofreram o martírio, embora seus acusadores também fossem condenados à morte. A data da morte de Santo Apolinário é desconhecida; o Martirológio Romano o menciona a 8 de janeiro.
+
+## Reflexão
+
+"Portanto vos digo: tudo o que pedirdes quando orardes, crede que o recebereis, e vos será concedido."
