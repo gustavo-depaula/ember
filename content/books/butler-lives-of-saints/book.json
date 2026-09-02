@@ -671,7 +671,7 @@
         {
           "id": "mar-14-maud",
           "title": {
-            "en-US": "14. St. Maud. Queen",
+            "en-US": "14. St. Maud, Queen",
             "pt-BR": "14. Santa Matilde, Rainha"
           }
         },
@@ -1315,7 +1315,7 @@
           "id": "jun-02-sts-pothinus",
           "title": {
             "en-US": "2. Sts. Pothinus, Bishop, Sanctus, Attalus, Blandina, and the other Martyrs of Lyons",
-            "pt-BR": "2. São Potino, Bispo, e Companheiros Mártires de Lyon"
+            "pt-BR": "2. São Potino, Bispo, Sanctus, Atalo, Blandina e os demais Mártires de Lyon"
           }
         },
         {
@@ -1816,14 +1816,14 @@
           "id": "aug-05-the-dedication-of-st-mary-ad-nives",
           "title": {
             "en-US": "5. The Dedication of St. Mary ad Nives",
-            "pt-BR": "5. Dedicação de Santa Maria ad Nives"
+            "pt-BR": "5. A Dedicação de Santa Maria ad Nives"
           }
         },
         {
           "id": "aug-06-the-transfiguration-of-our-lord",
           "title": {
             "en-US": "6. The Transfiguration of Our Lord",
-            "pt-BR": "6. Transfiguração de Nosso Senhor"
+            "pt-BR": "6. A Transfiguração de Nosso Senhor"
           }
         },
         {
@@ -1893,7 +1893,7 @@
           "id": "aug-15-the-assumption-of-the-blessed",
           "title": {
             "en-US": "15. The Assumption of the Blessed Virgin Mary",
-            "pt-BR": "15. Assunção da Bem-Aventurada Virgem Maria"
+            "pt-BR": "15. A Assunção da Bem-Aventurada Virgem Maria"
           }
         },
         {
@@ -2084,7 +2084,7 @@
           "id": "sep-08-the-festival-on-the-sunday-within-the-octave-of-her-nativity-of-the-holy-name-of-mary",
           "title": {
             "en-US": "8. The Festival, on the Sunday Within the Octave of Her Nativity, of The Holy Name of Mary",
-            "pt-BR": "A Festa do Santíssimo Nome de Maria"
+            "pt-BR": "8. A Festa, no Domingo Dentro da Oitava de Sua Natividade, do Santíssimo Nome de Maria"
           }
         },
         {
@@ -2097,7 +2097,7 @@
         {
           "id": "sep-09-saint-peter-claver",
           "title": {
-            "en-US": "9. Saint Peter Claver",
+            "en-US": "9. St. Peter Claver",
             "pt-BR": "9. São Pedro Claver"
           }
         },
@@ -2556,7 +2556,7 @@
         {
           "id": "nov-10-st-andrew-avellino",
           "title": {
-            "en-US": "10: St. Andrew Avellino",
+            "en-US": "10. St. Andrew Avellino",
             "pt-BR": "10. Santo André Avelino"
           }
         },

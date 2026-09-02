@@ -4,4 +4,4 @@ EM sua juventude, Germano deu pouco sinal de santidade. Era de nobre nascimento,
 
 ## Reflexão
 
-"Guarda a forma das sãs palavras que de mim ouviste, na fé e no amor que há em Cristo Jesus" (II Tim. i. 13).
+"Guarda a forma das sãs palavras que de mim ouviste, na fé e no amor que há em Cristo Jesus" (II Tim. i, 13).

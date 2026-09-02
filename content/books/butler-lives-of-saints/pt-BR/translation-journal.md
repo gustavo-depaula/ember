@@ -149,3 +149,70 @@ Reviewer note: English possessives (`his`/`her`) collapse into Portuguese `seu`,
 Round 11 re-audited all 399 chapters against en-US and found nothing. Defects per round across this post-merge review: 36 (round 8, almost all TOC/heading consistency), 2, 2, 2, 0. The mechanical invariants — 399 chapters symmetric across en-US / pt-BR / `book.json`, paragraph counts equal per chapter pair, no honorific disagreement within or across chapters, no encoding artifacts — all hold, and `pnpm build:corpus` emits no warnings for this book.
 
 Three `book.json` entries still read "São X e São Y" where the chapter heading reads "SANTOS X E Y" (`mar-05-sts-adrian-and-eubulus`, `mar-16-sts-abraham-and-mary`, `jun-02-sts-pothinus`). Both forms are sanctioned above for groups of saints, so these are left alone — noted here so a future sweep does not re-open them.
+
+## Post-merge review (rounds 12–14) — mechanical invariants beyond the chapter/en-US pair
+
+Round 11 declared convergence on the chapter-vs-en-US comparison, and that comparison did hold: the defects below sit almost entirely *outside* it. Three checks had never been run — TOC numbering and title completeness, cross-chapter rendering of the same proper name, and scripture-citation style — and each found real, user-visible defects on the first pass. The lesson repeats round 8's: a check that has never been run is not a check that passes.
+
+### TOC completeness and numbering
+
+- `sep-08-…-holy-name-of-mary`: the pt-BR TOC read "A Festa do Santíssimo Nome de Maria" — no "8." number prefix, and truncated. Every other entry in the book carries the number, and the chapter's own heading is the full title. → "8. A Festa, no Domingo Dentro da Oitava de Sua Natividade, do Santíssimo Nome de Maria".
+- `jun-02-sts-pothinus`: the pt-BR TOC read "São Potino, Bispo, e Companheiros Mártires de Lyon", dropping Sanctus, Atalo and Blandina, whom both the en-US TOC and the pt-BR chapter heading name. → "2. São Potino, Bispo, Sanctus, Atalo, Blandina e os demais Mártires de Lyon".
+- `aug-05`, `aug-06`, `aug-15`: the pt-BR TOC dropped the leading article its own heading carries ("Dedicação" / "A DEDICAÇÃO"), where the en-US TOC keeps "The". → "A Dedicação", "A Transfiguração", "A Assunção".
+- en-US TOC defects fixed in passing: `nov-10-st-andrew-avellino` used "10:" where every other entry uses "N."; `sep-09-saint-peter-claver` spelled out "Saint" against its own heading's "ST."; `mar-14-maud` read "St. Maud. Queen" — a period where the descriptor comma belongs (the chapter heading carried the same slip and was fixed too; the pt-BR already had the comma).
+
+### A proper name translated as an honorific
+
+`jun-02-sts-pothinus`: **Sanctus**, the deacon of Vienne martyred with Pothinus, had been rendered "SANTO" in the heading and "de Santo, um diácono de Vienne" in the body — the honorific, not the name. A Portuguese reader loses the martyr entirely, and the body sentence does not parse. → "SANCTUS" / "de Sanctus, um diácono de Vienne". This is the mirror of the round-8 São/Santo work: there the honorific was wrong, here a name had *become* an honorific.
+
+### Cross-chapter proper-name consistency
+
+The round-8 standard ("one rendering per name across the whole book") had only ever been enforced on honorifics. Applying it to every proper name found nine divergences:
+
+| Name (en-US) | Was | Now | Why |
+|------|-----|-----|-----|
+| Vienne (Gaul) | "Arcebispo de **Viena**", "cidade de **Viena**" (`may-11-mammertus`) | "**Vienne**" | Viena is Vienna, Austria — a factual error. The book reserves "Viena" for the Austrian city (`nov-13`, `sep-08`) and keeps "Vienne" for the Gaulish see (`apr-06`, `jun-02`) |
+| Orleans | "Orleans" (`cert-joan-of-arc`, `feb-20-eucherius`), "Orleães" (`feb-04-jane-of-valois`, `mar-28-gontran`) | "**Orléans**" | three forms for one city; "Orléans" is the book's dominant form (7 chapters) |
+| Dioscorus | "Dioscoro" ×2 (`dec-19-nemesion`) | "**Dióscoro**" | missing accent; the journal already logs Dioscorus → Dióscoro, applied in `dec-04` and `feb-09` |
+| Lucca | "Luca" (`aug-09-romanus`) | "**Lucca**" | "Luca" is the Italian for Luke, not the city; `apr-27-zita` has "Lucca" |
+| Spoleto | "Spoleto" (`sep-06-eleutherius`) | "**Espoleto**" | three other chapters use the Portuguese form |
+| Willibrord | "São Willibrord" (`mar-20-wulfran`) | "São **Willibrordo**" | his own chapter and the TOC read "Willibrordo" |
+| Narbonne | "Narbona" (`jan-20-sebastian`) | "**Narbonne**" | `apr-06-celestine` keeps the French form, as the book does for Rouen, Lyon, Vienne |
+| Borgia | "Francisco de **Bórgia**" (`aug-08-blessed-peter-favre`) | "Francisco de **Borja**" | the saint's own chapter and the TOC read "Borja" |
+| Vitalis | "Vitalis" (`dec-20-philogonius`), "Vitálio" (`may-12-epiphanius`) | "**Vital**" | three renderings of one Latin name; the TOC reads "São Vital" |
+
+Names deliberately kept distinct: Odilo (Hugh's father, Duke of Bavaria) vs. **Santo Odilão** (Abbot of Cluny); Santo Antão (the desert father) vs. Santo Antônio; Ferdinando Gonzaga (Italian marquis) vs. Fernando.
+
+### Scripture citation style
+
+The book has exactly six parenthetical citations and they used three styles. Normalized to the book's dominant Portuguese form — Roman chapter, comma, Arabic verse: `(Apoc. 3, 5)` → `(Apoc. iii, 5)` (`jul-16`), `(Mt 23, 9)` → `(Mt. xxiii, 9)` (`jul-17`), `(II Tim. i. 13)` → `(II Tim. i, 13)` (`jul-30`, which had kept the en-US period style).
+
+### Content corrections (rounds 12–14)
+
+| File | Was | Now | Why |
+|------|-----|-----|-----|
+| `feb-01-bridgid` | "todos os seus devotos **filhos**" | "todos os seus devotos **clientes**" | en-US "her devout clients" — the hagiographic term for those under a saint's patronage. `apr-07-blessed-herman-joseph` already renders it "cliente". Following "as filhas de sua terra natal", "filhos" also reads as a gendered contrast the source does not make |
+| `feb-01-bridgid` | "no mesmo túmulo dos de São Patrício" | "no mesmo túmulo dos do **glorioso** São Patrício" | "the glorious St. Patrick" — dropped adjective |
+| `mar-28-gontran` | "enquanto **seu irmão** Cariberto reinava em Paris e Sigeberto na Austrásia" | "enquanto **seus irmãos Cariberto e Sigeberto reinavam, aquele** em Paris **e este** na Austrásia" | en-US "his brothers Charibert … and Sigebert" — the singular dropped the fact that Sigeberto was also Gontrão's brother |
+| `aug-09-romanus` | "Era costume **dizer do** apóstolo São Matias" | "Era costume **do** apóstolo São Matias **dizer**" | en-US "the usual saying **of** the apostle St. Matthias" — Matthias is the one who used to say it. Portuguese "dizer de alguém" means to say something *about* someone, reversing who speaks |
+| `aug-09-romanus` | "foi **preso**, condenado e decapitado" | "foi **processado**, condenado e decapitado" | "arraigned" is being brought before a court to answer a charge, not arrested; the calque inserted an imprisonment the source does not state |
+| `may-07-stanislas` | "o rei irrompeu **ele mesmo** e matou o Santo … com suas próprias **mãos**" | "o rei irrompeu e matou o Santo … com sua própria **mão**" | "ele mesmo" has no counterpart in en-US and duplicates what "com sua própria mão" already says; en-US "with his own hand" is singular here (contrast `jul-16`, where en-US reads "with his own hands" and the pt-BR plural is correct) |
+| `apr-23-george` | "até que **tamanha glória o envolveu** que seus traços…" | "até que **\"tão espessa sombra sua própria glória em torno dele lançou\"** que seus traços…" | en-US quotes the line ("so thick a shade his very glory round him made"); the pt-BR had dropped both the quotation marks and the shade image |
+| `sep-05-laurence-justinian` (en-US) | `"Not so; "Not so; my Lord was stretched on a hard and painful tree.""` | `"Not so; my Lord was stretched on a hard and painful tree."` | duplicated clause and stray quotes in the source scan; the pt-BR already had it right |
+
+### Considered and deliberately not changed
+
+- `feb-01-bridgid`: "Nenido" for "Nennidh". The journal's stated convention is to transliterate obscure names into Portuguese orthography where no standard form exists; this is that convention, not an error.
+- `jan-16-honoratus`: "Saint-Honorat" where en-US reads "St. Honoré" — the island's actual name, in the same class as the logged Wavrans and Lee corrections.
+- `feb-20-eucherius`: "São Trond" where en-US reads "St. Tron's" — Saint-Trond is the abbey's historical French name.
+- `jul-16-simon-stock`: the gloss "(Stock)" after "Simão do Tronco" has no en-US counterpart but is a translator's aid, and the book uses the same device elsewhere ("credores", "Barr, o Branco").
+- `may-27-venerable-bede`: pt-BR italicizes the book titles *História Eclesiástica* and *Imitação de Cristo* where en-US does not. An improvement, kept.
+- `jul-19-vincent-of-paul`: "25 mil" for en-US "25,000". Idiomatic Brazilian Portuguese.
+- `jun-25-…-monte-vergine`: en-US reads "Monte-Vergine", pt-BR "Montevergine" — the sanctuary's modern Italian name, used consistently in both the chapter and the TOC.
+- Three `book.json` entries still read "São X e São Y" against a "SANTOS X E Y" heading (`mar-05`, `mar-16`, `jun-02`) — as noted in round 11, both forms are sanctioned and these stay.
+
+### Convergence
+
+Defects per round in this pass: **27, 3, 1, 0** — round 12 carried the TOC, cross-name and citation work plus Sanctus; round 13 was the agent read of every touched chapter (`may-11`'s second "Viena", `aug-09`'s "arraigned", `mar-28`'s dropped plural); round 14 found one more agency slip (`aug-09`, below); round 15 found nothing. All 399 chapters were re-checked mechanically each round; agent review covered every file touched. Mechanical invariants at close: 399 chapters symmetric across en-US / pt-BR / `book.json`; paragraph and heading counts equal per chapter pair; every pt-BR heading carries the correct date in the documented format; one rendering per proper name book-wide; one citation style; no encoding artifacts; `pnpm build:corpus` emits no warnings for this book.
+
+Reviewer note: the three defect classes found here were all invisible to a chapter-vs-en-US read, because each needs a *second* file to see — the TOC, or another chapter using the same name. Any future round should run the mechanical sweeps before reading a single chapter.
