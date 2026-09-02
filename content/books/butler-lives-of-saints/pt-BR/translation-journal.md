@@ -216,3 +216,61 @@ The book has exactly six parenthetical citations and they used three styles. Nor
 Defects per round in this pass: **27, 3, 1, 0** — round 12 carried the TOC, cross-name and citation work plus Sanctus; round 13 was the agent read of every touched chapter (`may-11`'s second "Viena", `aug-09`'s "arraigned", `mar-28`'s dropped plural); round 14 found one more agency slip (`aug-09`, below); round 15 found nothing. All 399 chapters were re-checked mechanically each round; agent review covered every file touched. Mechanical invariants at close: 399 chapters symmetric across en-US / pt-BR / `book.json`; paragraph and heading counts equal per chapter pair; every pt-BR heading carries the correct date in the documented format; one rendering per proper name book-wide; one citation style; no encoding artifacts; `pnpm build:corpus` emits no warnings for this book.
 
 Reviewer note: the three defect classes found here were all invisible to a chapter-vs-en-US read, because each needs a *second* file to see — the TOC, or another chapter using the same name. Any future round should run the mechanical sweeps before reading a single chapter.
+
+## Post-merge review (round 16) — new mechanical sweeps, and the appendix
+
+Taking the previous round's own advice, this pass ran the mechanical sweeps first and only then read chapters. Five sweeps had never been run before; two of them found defects, and both defect classes were ones round 12 had already fixed *elsewhere* without sweeping for them book-wide.
+
+### Sweeps run for the first time, and what they found
+
+| Sweep | Result |
+|-------|--------|
+| Numeric-token parity, en-US vs pt-BR, all 399 chapters (heading excluded) | Clean. Every divergence is a numeral spelled out in Portuguese ("quatrocentas milhas", "duzentos bispos"), a `.` thousands separator, or a comma adjacent to a year |
+| Sentence-count parity per aligned paragraph pair | 16 outliers with a delta of 2 or more; agent read of all 16 found no dropped or invented content — the translator legitimately splits and joins |
+| pt-BR heading date prefix vs en-US | 15 chapters carry no date; all 15 mirror an en-US secondary same-day entry that has none either |
+| Accent/spelling variants of the same capitalized token across chapters | Clean — the only pair is Marco (the name) vs. Março (the month), different words |
+| Quotation-mark count parity | 3 divergences, all the sanctioned translator's-gloss device |
+| São/Santo per name, chapters **and** TOC | 2 defects (below) |
+| TOC title vs chapter H1, normalized | 1 defect (below) |
+
+### Defects fixed (round 16)
+
+| File | Was | Now | Why |
+|------|-----|-----|-----|
+| `book.json` `cert-philip-of-jesus` (**both** languages) | "St. Philip of Jesus" / "São Felipe de Jesus" | "…, Martyr, Patron of the City of Mexico" / "…, Mártir, Padroeiro da Cidade do México" | the TOC entry dropped the descriptors its own heading carries. Round 12 fixed this class for `sep-08` but never swept for it; every other appendix entry mirrors its heading in full |
+| `book.json` `mar-16-sts-abraham-and-mary` (pt-BR) | "São Abraão" | "**Santo** Abraão" | the chapter body reads "Santo Abraão" three times. Round 11 sanctioned this entry's *group* form ("São X e São Y" against a "SANTOS X E Y" heading) — that sanction is about the plural, and had masked a plain honorific divergence underneath it |
+| `book.json` `oct-22-mello` (pt-BR) | "São Hilarião" | "**Santo** Hilarião" | heading, body and `may-12-epiphanius` all read "Santo Hilarião" — four occurrences against the TOC's one |
+| `pt-BR/mar-14-maud` | "mosteiro de **Erfurt**" | "mosteiro de **Herford**" | en-US "the monastery of Erford" is Herford in Westphalia, where St. Matilda was raised under her grandmother Maud as abbess. Erfurt is a different city in Thuringia with no such house — the archaic spelling had been resolved to the wrong modern place. Same class as the logged Wavrans and Lee corrections |
+| `en-US/feb-04-jane-of-valois` | "The sound of the thrice each day" | "The sound of the **bell** thrice each day" | a noun dropped in the source scan (which also reads "hone" for "hope", already silently repaired here). The sentence did not parse; the pt-BR had already supplied "sino" |
+
+### Considered and deliberately not changed
+
+- `mar-28-gontran`: "in the sixty-eighth year of his age" → "aos sessenta e oito anos de idade". Strictly, "in the Nth year of his age" is age N−1, but the book renders this construction as "aos N anos" in all five places it occurs (`aug-19`, `may-22`, `jun-09`, `jun-08`, `mar-28`). Changing one would break a uniform convention; changing all five is a separate editorial decision, not a defect fix.
+- `jul-17-alexius`: "servos" for en-US "slaves", twice. "Servos" is the traditional Portuguese rendering of Roman *servi* in this legend and the scenario is unchanged.
+- `may-10-antoninus`: pt-BR puts "Pequeno Antônio" in quotation marks where en-US has "Little Antony" plain. A nickname marked as such reads naturally in Portuguese; the same device is already sanctioned elsewhere.
+- The three group-form TOC entries (`mar-05`, `mar-16`, `jun-02`) still read "São X e São Y" against a "SANTOS X E Y" heading, as round 11 allowed. Only `mar-16`'s honorific changed.
+
+### The appendix (round 17)
+
+The `cert-*` group — the six chapters of "Lives of Certain Saints", which carry no date and sit outside the calendar — had never had a dedicated agent pass. Every earlier round batched chapters by date. Reading it on its own found two defects in six chapters, a rate an order of magnitude above the dated chapters at this stage.
+
+| File | Was | Now | Why |
+|------|-----|-----|-----|
+| `cert-philip-of-jesus` | "mas **as cordas que o sustentavam por baixo** cederam, de modo que morreu estrangulado **por elas**" | "mas **o apoio sob seus pés** cedeu, de modo que morreu estrangulado **pelas cordas**" | en-US "the rest under him gave way, so that he was strangled by the cords" names two things: the foot-rest of the Japanese cross, which failed, and the separate cords, which then strangled him. The pt-BR collapsed both into one object, so the cords both held him up and killed him — the mechanism of the martyrdom, not a wording choice |
+| `cert-rita-of-cascia-widow` | "mas, por **suas** orações, arrependeram-se" | "mas, **pelas orações dela**, arrependeram-se" | en-US "through **her** prayers" — Rita's. Portuguese "suas" attaches as readily to the immediately preceding plural subject ("os dois filhos de Rita"), making it read as the sons' own prayers. Exactly the `seu` collapse the round-10 note prescribes `dele`/`dela` for; the rule had simply never been applied here |
+
+Also logged, not changed — two silent place/name corrections the appendix had been carrying unlogged, both in the class of the logged Wavrans and Lee corrections. In each the B/O spelling is the 1894 edition's own (it is in the source scan), the pt-BR correction stands, and en-US keeps the edition's reading, as it does elsewhere:
+
+- `cert-turribius-archbishop-of-lima`: "MOGROVEJO" against en-US "MOGROBEJO". The saint is Toribio Alfonso de **Mogrovejo**.
+- `cert-philip-of-jesus`: "Puebla" against en-US "the Reformed Franciscan Convent of Santa Barbara at **Pueblo**". The convent was at **Puebla**, Mexico; Pueblo is not a Mexican city.
+
+Reviewers: a correction that is right but unlogged is indistinguishable from a defect, and costs a round each time someone re-derives it. Log it when you make it.
+
+### Convergence
+
+Defects per round in this pass: **5, 2, 0**. Round 18 re-ran every sweep (all clean; the honorific sweep is now empty), verified each fix against its files, and re-read the two amended appendix chapters in full. It found no further defect — only the two unlogged corrections recorded above, which are right as they stand and needed a journal entry, not an edit. `pnpm build:corpus` succeeds and emits no `butler-lives-of-saints` warnings; note the builder has its own H1-vs-TOC drift check, which the `cert-philip-of-jesus` TOC fix now satisfies.
+
+Two reviewer notes from this pass:
+
+- Two of round 16's defects sat *underneath* an earlier "deliberately not changed" note. Round 11 sanctioned `mar-16`'s TOC entry for its plural form and, in doing so, stopped anyone from looking at the honorific in the same string. A sanctioned entry is sanctioned for the reason given, not wholesale — re-check it against the other invariants.
+- Batching by date left the six undated appendix chapters at the tail of every batch list for fifteen rounds. When a review is batched on one axis, the items that do not sort on that axis are the ones that go unread — review them as their own batch.
