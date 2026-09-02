@@ -6,4 +6,4 @@ Under the guidance of St. Francis of Paula, the director of her childhood, St. J
 
 ## Reflection
 
-During the lifetime of St. Jane, the Angelus was established in France. The sound of the thrice each day gave her hope in her sorrow, and fostered in her the desire still further to honor the Incarnation. How often might we derive grace from the same beautiful devotion, so enriched by the Church, yet neglected by so many Christians!
+During the lifetime of St. Jane, the Angelus was established in France. The sound of the bell thrice each day gave her hope in her sorrow, and fostered in her the desire still further to honor the Incarnation. How often might we derive grace from the same beautiful devotion, so enriched by the Church, yet neglected by so many Christians!
