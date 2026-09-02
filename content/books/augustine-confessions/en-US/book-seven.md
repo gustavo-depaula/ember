@@ -202,7 +202,7 @@ The books of the Platonists tell nothing of this. Their pages do not contain the
 
 [^38]: The Plotinian *Nous*.
 
-[^39]: This is an astonishingly candid and plain account of a Plotinian ecstasy, the pilgrimage of the soul from its absorption in things to its rapturous but momentary vision of the One; cf. especially the Sixth *Ennead*, 9:3-11, for very close parallels in thought and echoes of language. This is one of two ecstatic visions reported in the *Confessions*; the other is, of course, the last great moment with his mother at Ostia (Bk. IX, Ch. X, 23-25). One comes before the "conversion" in the Milanese garden (Bk. VIII, Ch. XII, 28-29); the other, after. They ought to be compared with particular interest in their *similarities* as well as their significant differences. Cf. also K.E. Kirk, *The Vision of God* (London, 1932), pp. 319‑346.
+[^39]: This is an astonishingly candid and plain account of a Plotinian ecstasy, the pilgrimage of the soul from its absorption in things to its rapturous but momentary vision of the One; cf. especially the Sixth *Ennead*, 9:3-11, for very close parallels in thought and echoes of language. This is one of two ecstatic visions reported in the *Confessions*; the other is, of course, the last great moment with his mother at Ostia (Bk. IX, Ch. X, 23-25). One comes before the "conversion" in the Milanese garden (Bk. VIII, Ch. XII, 28-29); the other, after. They ought to be compared with particular interest in their *similarities* as well as their significant differences. Cf. also K.E. Kirk, *The Vision of God* (London, 1932), pp. 319-346.
 
 [^40]: 1 Tim. 2:5.
 

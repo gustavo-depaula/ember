@@ -203,10 +203,10 @@ casos:
   141:3f.`; `Phil. 4:17.,` → `Phil. 4:17.`; `*Neue kirkliche
   Zeitschrift*` → `*Neue kirchliche Zeitschrift*`.
 - Nove hífens virtuais (U+00AD, *soft hyphen*) invisíveis no meio de
-  palavras, resíduo de OCR: "re­semble", "Neo­-Platonist",
-  "Alex­andria", "Augus­tine's", "Scrip­ture", "bandit­-infested"
-  (Livro VII), "pro­consul" (Livro VIII), "scan­sion" (Livro IX),
-  "Bona­venture" (Livro X). Todos removidos.
+  palavras, resíduo de OCR: "re<AD>semble", "Neo<AD>-Platonist",
+  "Alex<AD>andria", "Augus<AD>tine's", "Scrip<AD>ture", "bandit<AD>-infested"
+  (Livro VII), "pro<AD>consul" (Livro VIII), "scan<AD>sion" (Livro IX),
+  "Bona<AD>venture" (Livro X). Todos removidos.
 - `book-seven.md` (Cap. IX, §14): Fl 2,6 lia "equal in God"; o versículo
   é "equal with God" (o pt-BR já trazia "igual a Deus").
 - `book-eight.md` (nota 34): "*agentesin rebus*" → "*agentes in rebus*"
