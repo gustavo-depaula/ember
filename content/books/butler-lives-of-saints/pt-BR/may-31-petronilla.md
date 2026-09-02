@@ -1,0 +1,7 @@
+# 31 de Maio — SANTA PETRONILA, Virgem
+
+ENTRE os discípulos dos apóstolos, na era primitiva dos santos, esta santa virgem brilhou como uma estrela luminosa na Igreja. Viveu numa época em que os cristãos se preocupavam mais em viver bem do que em escrever muito: sabiam morrer por Cristo, mas não compunham longos livros, nos quais a vaidade tem, muitas vezes, maior parte que a caridade. Por isso, nenhum relato particular de seus feitos nos foi transmitido. Mas quão eminente foi sua santidade podemos julgar pelo brilho com que se distinguiu entre apóstolos, profetas e mártires. Diz-se que foi filha do apóstolo São Pedro; que São Pedro era casado antes de sua vocação ao apostolado, sabemo-lo pelo Evangelho. São Clemente de Alexandria assegura que sua esposa alcançou a glória do martírio, para a qual o próprio Pedro a animou, exortando-a a lembrar-se de Nosso Senhor. Mas não parece certo se Santa Petronila foi mais que filha espiritual daquele apóstolo. Viveu em Roma, e foi sepultada no caminho de Ardeia, onde, em tempos antigos, um cemitério e uma igreja levavam seu nome.
+
+## Reflexão
+
+Para os santos, o grande fim para o qual viviam estava sempre presente em suas mentes, e julgavam perdido todo momento em que não avançassem rumo à bem-aventurança eterna. Como o exemplo deles há de condenar, no último dia, as futilidades frívolas e a maior parte das conversas e ocupações do mundo, que não visam senão aos prazeres presentes e esquecem o único negócio importante — o negócio da eternidade.

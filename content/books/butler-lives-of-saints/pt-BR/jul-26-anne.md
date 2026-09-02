@@ -1,0 +1,7 @@
+# 26 de Julho — SANTA ANA
+
+SANTA ANA foi a esposa de São Joaquim, e foi escolhida por Deus para ser a mãe de Maria, Sua própria e bendita Mãe na terra. Ambos eram da casa real de Davi, e suas vidas eram inteiramente dedicadas à oração e às boas obras. Uma só coisa faltava à sua união — eram sem filhos, e isso era tido como uma amarga desgraça entre os judeus. Por fim, quando Ana já era mulher idosa, Maria nasceu, fruto mais da graça do que da natureza, e a criança mais de Deus do que do homem. Com o nascimento de Maria, a já idosa Ana começou uma vida nova: observava cada movimento dela com terna reverência, e sentia-se hora a hora santificada pela presença de sua filha imaculada. Mas ela havia consagrado sua filha a Deus; a Deus, Maria consagrou-se novamente; e a Ele, Ana a devolveu. Maria tinha três anos quando Ana e Joaquim a levaram pelos degraus do Templo, viram-na entrar sozinha no santuário interior, e depois não a viram mais. Assim ficou Ana sem filhos em sua solitária velhice, privada de sua mais pura alegria terrena justamente quando dela mais precisava. Ela humildemente adorou a Vontade Divina, e recomeçou a vigiar e orar, até que Deus a chamou ao repouso eterno com o Pai e o Esposo de Maria, na morada do Filho de Maria.
+
+## Reflexão
+
+Santa Ana é gloriosa entre os Santos, não apenas por ser mãe de Maria, mas porque deu Maria a Deus. Aprendei dela a reverenciar uma vocação divina como o mais alto privilégio, e a sacrificar todo laço natural, por mais santo que seja, ao chamado de Deus.

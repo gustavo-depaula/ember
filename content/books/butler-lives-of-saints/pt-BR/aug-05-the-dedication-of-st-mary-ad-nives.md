@@ -1,0 +1,7 @@
+# 5 de Agosto — A DEDICAÇÃO DE SANTA MARIA AD NIVES
+
+EXISTEM em Roma três igrejas patriarcais, nas quais o Papa oficia em diferentes festividades. São elas as Basílicas de São João de Latrão, São Pedro no Monte Vaticano, e Santa Maria Maior. Esta última assim se chama porque é, tanto em antiguidade quanto em dignidade, a primeira igreja de Roma entre as que são dedicadas a Deus em honra da Virgem Maria. O nome de Basílica Libéria lhe foi dado porque foi fundada no tempo do Papa Libério, no século quarto; foi consagrada, sob o título da Virgem Maria, por Sisto III, por volta do ano 435. É também chamada Santa Maria ad Nives, ou *à neve*, por causa de uma tradição popular segundo a qual a Mãe de Deus escolheu este lugar para uma igreja sob sua invocação por meio de uma neve milagrosa que caiu neste local no verão, e por uma visão na qual ela apareceu a um patrício chamado João, que munificamente fundou e dotou esta igreja no pontificado de Libério. A mesma Basílica é por vezes conhecida pelo nome de Santa Maria *ad Præsepe*, por causa da sagrada manjedoura de Belém, na qual Cristo foi colocado ao nascer. Assemelha-se a uma manjedoura comum, é guardada em um estojo de prata maciça, e nela repousa uma imagem de uma criancinha, também de prata. No dia de Natal, a sagrada Manjedoura é retirada do estojo e exposta. É guardada em uma suntuosa capela subterrânea nesta igreja.
+
+## Reflexão
+
+Para tornar as nossas súplicas mais eficazes, devemos uni-las em espírito às de todos os penitentes fervorosos e almas devotas, ao invocar esta advogada dos pecadores.

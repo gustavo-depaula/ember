@@ -1,0 +1,7 @@
+# 31 de Julho — SANTO INÁCIO DE LOYOLA
+
+SANTO INÁCIO nasceu em Loyola, na Espanha, no ano de 1491. Serviu a seu rei como cortesão e soldado até os trinta anos de idade. Nessa idade, abatido por um ferimento, recebeu o chamado da graça divina para deixar o mundo. Abraçou a pobreza e a humilhação, para se tornar mais semelhante a Cristo, e ganhou outros para se unirem a ele no serviço de Deus. Movidos pelo amor a Jesus Cristo, Inácio e seus companheiros fizeram voto de ir à Terra Santa, mas irrompeu a guerra, e impediu a execução de seu projeto. Voltaram-se então para o Vigário de Jesus Cristo, e puseram-se sob sua obediência. Foi esse o início da Companhia de Jesus. Nosso Senhor prometeu a Santo Inácio que a preciosa herança de Sua Paixão jamais faltaria à sua Companhia — herança de contradições e perseguições. Santo Inácio foi lançado na prisão em Salamanca, sob suspeita de heresia. A um amigo que lhe manifestou compaixão por causa de sua prisão, ele respondeu: "É sinal de que tens pouco amor de Cristo em teu coração, pois do contrário não julgarias tão dura sorte estar em cadeias por Sua causa. Declaro-te que toda Salamanca não contém tantos grilhões, algemas e correntes quantas eu anseio usar pelo amor de Jesus Cristo." Santo Inácio foi à sua coroa em 31 de julho de 1556.
+
+## Reflexão
+
+Pedi a Santo Inácio que vos obtenha a graça de desejar ardentemente a maior glória de Deus, ainda que isso vos custe muito sofrimento e humilhação.

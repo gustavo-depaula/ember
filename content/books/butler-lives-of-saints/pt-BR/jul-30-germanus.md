@@ -1,0 +1,7 @@
+# 30 de Julho — SÃO GERMANO, Bispo
+
+EM sua juventude, Germano deu pouco sinal de santidade. Era de nobre nascimento, e a princípio exerceu a advocacia em Roma. Depois de algum tempo, o imperador o colocou em alto posto no exército. Mas sua única paixão era a caça. Deixava-se levar a tal ponto que conservava, em seus divertimentos, as superstições dos caçadores pagãos. Contudo, foi revelado ao Bispo de Auxerre que Germano seria seu sucessor, e ele lhe deu a tonsura quase à força. Desde então Germano se tornou outro homem, e, doando suas terras à Igreja, adotou uma vida de humilde penitência. Naquele tempo, a heresia pelagiana devastava a Inglaterra, e Germano foi escolhido pelo Pontífice reinante para resgatar os bretões da armadilha de Satanás. Com São Lupo, pregou pelos campos e estradas por toda a terra. Por fim, perto de Verulâmio, encontrou-se face a face com os hereges, e os venceu completamente com a fé católica e romana. Atribuiu esse triunfo à intercessão de Santo Albano, e ofereceu ação de graças públicas em seu santuário. Perto do fim de sua estada, sua antiga perícia nas armas alcançou sobre os pictos e escotos a completa mas incruenta vitória do "Aleluia", assim chamada porque os britânicos recém-batizados, guiados pelo Santo, puseram o inimigo em fuga com o grito pascal. Germano visitou a Inglaterra pela segunda vez com São Severo. Morreu em 448, enquanto intercedia junto ao imperador pelo povo da Bretanha.
+
+## Reflexão
+
+"Guarda a forma das sãs palavras que de mim ouviste, na fé e no amor que há em Cristo Jesus" (II Tim. i. 13).

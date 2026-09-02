@@ -1,0 +1,7 @@
+# 7 de Dezembro — SANTO AMBRÓSIO, Bispo
+
+AMBRÓSIO era de família nobre e governava Milão em 374, quando se devia escolher um bispo para aquela grande sé. Como os hereges arianos eram numerosos e ferozes, ele estava presente para manter a ordem durante a eleição. Embora fosse ainda apenas catecúmeno, foi vontade de Deus que ele próprio fosse escolhido por aclamação; e, apesar de sua mais firme resistência, foi batizado e consagrado. Foi incansável em todo dever de pastor, cheio de compaixão e caridade, brando e condescendente nas coisas indiferentes, mas inflexível nas questões de princípio. Mostrou seu zelo destemido ao enfrentar a ira da Imperatriz Justina, resistindo e frustrando sua ímpia tentativa de entregar uma das igrejas de Milão aos arianos, e ao repreender e conduzir à penitência o verdadeiramente grande Imperador Teodósio, que, em um momento de irritação, havia punido com extrema crueldade uma sedição dos habitantes de Tessalônica. Foi amigo e consolador de Santa Mônica em todas as suas dores, e em 387 teve a alegria de admitir na Igreja o filho dela, Santo Agostinho. Santo Ambrósio morreu em 397, cheio de anos e de honras, e é venerado pela Igreja como um de seus maiores doutores.
+
+## Reflexão
+
+De onde veio a Santo Ambrósio sua grandeza de mente, sua clareza de discernimento, sua intrepidez em defender a fé e a disciplina da Igreja? De onde, senão de seu desprezo pelo mundo, de seu temer somente a Deus?

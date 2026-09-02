@@ -1,0 +1,7 @@
+# 25 de Dezembro — A NATIVIDADE DE CRISTO, OU DIA DE NATAL
+
+O mundo já existia havia cerca de quatro mil anos quando Jesus Cristo, o Filho eterno de Deus, tendo tomado carne humana no ventre da Virgem Maria, e feito homem, nasceu dela, para a redenção da humanidade, em Belém da Judeia. José e Maria haviam subido a Belém para se alistar, e, não podendo encontrar abrigo em outro lugar, refugiaram-se em um estábulo, e neste lugar humilde Jesus Cristo nasceu. A Bem-Aventurada Virgem envolveu o divino Menino em faixas, e O deitou na manjedoura. Enquanto os sensuais e os soberbos dormiam, um anjo apareceu a uns pobres pastores. Eles ficaram tomados de grande temor, mas o mensageiro celeste lhes disse: "Não temais: pois eis que vos anuncio uma grande alegria, que será para todo o povo. Porque hoje vos nasceu, na cidade de Davi, um Salvador, que é Cristo Senhor. E isto vos servirá de sinal: encontrareis o Menino envolto em faixas e deitado numa manjedoura." Após a partida do anjo, os pastores, maravilhados, disseram uns aos outros: "Vamos até Belém, e vejamos o que aconteceu, e que o Senhor nos manifestou." Apressaram-se imediatamente para lá, e encontraram Maria e José, e o Menino deitado na manjedoura. Inclinando-se, O adoraram, e depois voltaram para seus rebanhos, glorificando e louvando a Deus.
+
+## Reflexão
+
+Nosso Salvador santificou nossa carne ao tomá-la sobre Si, e com Seu último suspiro nos confiou aos cuidados de Sua Mãe Virgem. Dia após dia, Ele continua a nos alimentar no altar com o alimento da incorruptibilidade — Seu corpo e Seu sangue.

@@ -1,0 +1,7 @@
+# 9 de Abril — SANTA MARIA EGIPCÍACA
+
+NA tenra idade de doze anos, Maria deixou a casa de seu pai para pecar sem restrição, e por dezessete anos viveu na vergonha em Alexandria. Depois, acompanhou uma peregrinação a Jerusalém, e envolveu muitos em pecados graves. Estava naquela cidade na Festa da Exaltação da Santa Cruz, e foi com a multidão até a igreja que continha a preciosa madeira. Os demais entraram e adoraram; mas Maria era invisivelmente detida. Naquele instante, sua miséria e impureza irromperam sobre ela. Voltando-se para a Imaculada Mãe, cujo retrato lhe estava de frente no pórtico, votou desde então fazer penitência, se pudesse entrar e ficar como Madalena junto à Cruz. Então entrou. Ao ajoelhar-se diante de Nossa Senhora, ao sair da igreja, uma voz lhe veio que dizia: "Atravessa o Jordão, e encontrarás repouso." Foi para o deserto, e ali, em 420, quarenta e sete anos depois, o Abade Zósimo a encontrou. Contou-lhe que, por dezessete anos, as velhas canções e cenas a haviam assombrado; desde então, tivera paz perfeita. A seu pedido, ele lhe trouxe, na Quinta-Feira Santa, o sagrado corpo de Cristo. Ela lhe pediu que voltasse novamente depois de um ano, e desta vez ele encontrou seu corpo sobre a areia, com uma inscrição dizendo: "Sepulta aqui o corpo de Maria, a pecadora."
+
+## Reflexão
+
+O Beato João Colombini converteu-se a Deus lendo a vida de Santa Maria. Aprendamos também com ela a não nos contentarmos em confessar e lamentar nossos pecados, mas a fugir daquilo que nos leva a cometê-los.
