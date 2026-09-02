@@ -152,7 +152,7 @@ Then we went in to my mother, and told her what happened, to her great joy. We e
 
 [^15]: 1 Cor. 1:27.
 
-[^16]: A garbled reference to the story of the conversion of Sergius Paulus, pro­consul of Cyprus, in Acts 13:4-12.
+[^16]: A garbled reference to the story of the conversion of Sergius Paulus, proconsul of Cyprus, in Acts 13:4-12.
 
 [^17]: 2 Tim. 2:21.
 
@@ -188,7 +188,7 @@ Then we went in to my mother, and told her what happened, to her great joy. We e
 
 [^33]: Rom. 13:13.
 
-[^34]: Note the parallels here to the conversion of Anthony and the *agentesin rebus*.
+[^34]: Note the parallels here to the conversion of Anthony and the *agentes in rebus*.
 
 [^35]: Rom. 14:1.
 

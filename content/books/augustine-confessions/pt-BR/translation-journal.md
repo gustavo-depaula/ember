@@ -202,6 +202,31 @@ casos:
 - Referências: `Cor. 13:12` → `1 Cor. 13:12`; `Ps 141:3f.` → `Ps.
   141:3f.`; `Phil. 4:17.,` → `Phil. 4:17.`; `*Neue kirkliche
   Zeitschrift*` → `*Neue kirchliche Zeitschrift*`.
+- Nove hífens virtuais (U+00AD, *soft hyphen*) invisíveis no meio de
+  palavras, resíduo de OCR: "re­semble", "Neo­-Platonist",
+  "Alex­andria", "Augus­tine's", "Scrip­ture", "bandit­-infested"
+  (Livro VII), "pro­consul" (Livro VIII), "scan­sion" (Livro IX),
+  "Bona­venture" (Livro X). Todos removidos.
+- `book-seven.md` (Cap. IX, §14): Fl 2,6 lia "equal in God"; o versículo
+  é "equal with God" (o pt-BR já trazia "igual a Deus").
+- `book-eight.md` (nota 34): "*agentesin rebus*" → "*agentes in rebus*"
+  (grafado corretamente na nota 24 do mesmo arquivo).
+- `book-nine.md` (Cap. VII, §11): aspa de fechamento sobrando no fim do
+  parágrafo, sem abertura correspondente; o pt-BR não tem aspas ali.
+
+Após estas correções, en-US e pt-BR têm exatamente o mesmo perfil de
+desbalanceamento de aspas por arquivo (Livros VI e XII, +2 e +1), o que
+confirma que os únicos desbalanceamentos restantes são as citações que
+atravessam parágrafos.
+
+### Examinado e mantido
+
+- "Mediator between God and man" (Livros VII e X, três ocorrências)
+  está uniforme no en-US; não é corrupção de OCR, é a redação do próprio
+  Outler. O pt-BR verte duas delas como "entre Deus e os homens"
+  (redação padrão de 1 Tm 2,5 em português) e a do resumo do Livro X
+  como "entre Deus e o homem", para emparelhar com "Deus-Homem" na mesma
+  frase. Escolha de tradução, mantida.
 
 ## Decisões de tradução
 

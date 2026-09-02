@@ -336,7 +336,7 @@ CHAPTER XLIII
 
 [^20]: The notion of the soul's immediate self-knowledge is a basic conception in Augustine's psychology and epistemology; cf. the refutation of skepticism, *Si fallor*, *sum* in *On Free Will*, II, 3:7; see also the *City of God*, XI, 26.
 
-[^21]: Again, the mind-body dualism typical of the Augustinian tradition. Cf. E. Gilson, *The Spirit of Medieval Philosophy* (Charles Scribner's Sons, New York, 1940), pp. 173-188; and E. Gilson, *The Philosophy of Saint Bona­venture* (Sheed & Ward, New York, 1938), ch. XI.
+[^21]: Again, the mind-body dualism typical of the Augustinian tradition. Cf. E. Gilson, *The Spirit of Medieval Philosophy* (Charles Scribner's Sons, New York, 1940), pp. 173-188; and E. Gilson, *The Philosophy of Saint Bonaventure* (Sheed & Ward, New York, 1938), ch. XI.
 
 [^22]: Luke 15:8.
 
