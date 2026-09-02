@@ -1,0 +1,21 @@
+# Chapter III
+
+4. And yet, without scruple, I consulted those other impostors, whom they call “astrologers” [*mathematicos*], because they used no sacrifices and invoked the aid of no spirit for their divinations. Still, true Christian piety must necessarily reject and condemn their art.
+
+It is good to confess to thee and to say, “Have mercy on me; heal my soul; for I have sinned against thee”[^1]--not to abuse thy goodness as a license to sin, but to remember the words of the Lord, “Behold, you are made whole: sin no more, lest a worse thing befall you.”[^2] All this wholesome advice [the astrologers] labor to destroy when they say, “The cause of your sin is inevitably fixed in the heavens,” and, “This is the doing of Venus, or of Saturn, or of Mars”--all this in order that a man, who is only flesh and blood and proud corruption, may regard himself as blameless, while the Creator and Ordainer of heaven and the stars must bear the blame of our ills and misfortunes. But who is this Creator but thou, our God, the sweetness and wellspring of righteousness, who renderest to every man according to his works and despisest not “a broken and a contrite heart”[^3]?
+
+5. There was at that time a wise man, very skillful and quite famous in medicine.[^4] He was proconsul then, and with his own hand he placed on my distempered head the crown I had won in a rhetorical contest. He did not do this as a physician, however; and for this distemper “only thou canst heal who resisteth the proud and giveth grace to the humble.”[^5] But didst thou fail me in that old man, or forbear from healing my soul? Actually when I became better acquainted with him, I used to listen, rapt and eager, to his words; for, though he spoke in simple language, his conversation was replete with vivacity, life, and earnestness. He recognized from my own talk that I was given to books of the horoscope-casters, but he, in a kind and fatherly way, advised me to throw them away and not to spend idly on these vanities care and labor that might otherwise go into useful things. He said that he himself in his earlier years had studied the astrologers’ art with a view to gaining his living by it as a profession. Since he had already understood Hippocrates, he was fully qualified to understand this too. Yet, he had given it up and followed medicine for the simple reason that he had discovered astrology to be utterly false and, as a man of honest character, he was unwilling to gain his living by beguiling people. “But you,” he said, “have the profession of rhetoric to support yourself by, so that you are following this delusion in free will and not necessity. All the more, therefore, you ought to believe me, since I worked at it to learn the art perfectly because I wished to gain my living by it.” When I asked him to account for the fact that many true things are foretold by astrology, he answered me, reasonably enough, that the force of chance, diffused through the whole order of nature, brought these things about. For when a man, by accident, opens the leaves of some poet (who sang and intended something far different) a verse oftentimes turns out to be wondrously apposite to the reader’s present business. “It is not to be wondered at,” he continued, “if out of the human mind, by some higher instinct which does not know what goes on within itself, an answer should be arrived at, by chance and not art, which would fit both the business and the action of the inquirer.”
+
+6. And thus truly, either by him or through him, thou wast looking after me. And thou didst fix all this in my memory so that afterward I might search it out for myself.
+
+But at that time, neither the proconsul nor my most dear Nebridius--a splendid youth and most circumspect, who scoffed at the whole business of divination--could persuade me to give it up, for the authority of the astrological authors influenced me more than they did. And, thus far, I had come upon no certain proof--such as I sought--by which it could be shown without doubt that what had been truly foretold by those consulted came from accident or chance, and not from the art of the stargazers.
+
+[^1]: Ps. 41:4.
+
+[^2]: John 5:14.
+
+[^3]: Ps. 51:17.
+
+[^4]: Vindicianus; see below, Bk. VII, Ch. VI, 8.
+
+[^5]: James 4:6; 1 Peter 5:5.

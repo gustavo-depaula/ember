@@ -1,0 +1,5 @@
+# Chapter VII
+
+11. What is it, then, that I love when I love my God? Who is he that is beyond the topmost point of my soul? Yet by this very soul will I mount up to him. I will soar beyond that power of mine by which I am united to the body, and by which the whole structure of it is filled with life. Yet it is not by that vital power that I find my God. For then “the horse and the mule, that have no understanding,”[^1] also might find him, since they have the same vital power, by which their bodies also live. But there is, besides the power by which I animate my body, another by which I endow my flesh with sense--a power that the Lord hath provided for me; commanding that the eye is not to hear and the ear is not to see, but that I am to see by the eye and to hear by the ear; and giving to each of the other senses its own proper place and function, through the diversity of which I, the single mind, act. I will soar also beyond this power of mine, for the horse and mule have this too, for they also perceive through their bodily senses.
+
+[^1]: Ps. 32:9.

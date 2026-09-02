@@ -1,0 +1,3 @@
+# Capítulo XVI
+
+19. Pois, assim como sois o plenamente Real, só vós sabeis plenamente, já que sois imutavelmente, e conheceis imutavelmente, e quereis imutavelmente. E vossa Essência conhece e quer imutavelmente. Vosso Conhecimento é e quer imutavelmente. Vossa Vontade é e conhece imutavelmente. E não vos parece justo que a Luz imutável seja conhecida pela criatura iluminada, mas mutável, do mesmo modo que ela se conhece a si mesma. Portanto, para vós, minha alma é como uma terra onde não há água; pois, assim como não pode iluminar-se a si mesma por si mesma, também não pode satisfazer-se a si mesma por si mesma. Assim, a fonte da vida está convosco, e "em vossa luz veremos a luz".

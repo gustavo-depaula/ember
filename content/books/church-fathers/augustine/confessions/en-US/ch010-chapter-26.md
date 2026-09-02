@@ -1,0 +1,3 @@
+# Chapter 26. God Everywhere Answers Those Who Take Counsel of Him.
+
+37. Where, then, did I find You, so as to be able to learn You? For You were not in my memory before I learned You. Where, then, did I find You, so as to be able to learn You, but in You above me? Place there is none; we go both “backward” and “forward,” Job 23:8 and there is no place. Everywhere, O Truth, do You direct all who consult You, and at once answer all, though they consult You on various things. Clearly do You answer, though all do not with clearness hear. All consult You upon whatever they wish, though they hear not always that which they wish. He is Your best servant who does not so much look to hear that from You which he himself wishes, as to wish that which he hears from You.

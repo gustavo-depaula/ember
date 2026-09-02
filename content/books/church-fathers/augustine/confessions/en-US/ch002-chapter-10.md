@@ -1,0 +1,3 @@
+# Chapter 10. With God There is True Rest and Life Unchanging.
+
+18. Who can unravel that twisted and tangled knottiness? It is foul. I hate to reflect on it. I hate to look on it. But you do I long for, O righteousness and innocency, fair and comely to all virtuous eyes, and of a satisfaction that never palls! With you is perfect rest, and life unchanging. He who enters into you enters into the joy of his Lord, Matthew 25:21 and shall have no fear, and shall do excellently in the most Excellent. I sank away from You, O my God, and I wandered too far from You, my stay, in my youth, and became to myself an unfruitful land.

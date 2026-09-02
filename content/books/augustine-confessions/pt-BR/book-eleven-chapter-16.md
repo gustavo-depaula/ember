@@ -1,0 +1,3 @@
+# Capítulo XVI
+
+21. E, no entanto, Senhor, percebemos intervalos de tempo, e os comparamos entre si, e dizemos que uns são mais longos e outros mais curtos. Chegamos até a medir quanto mais longo ou mais curto pode ser este tempo do que aquele. E dizemos que este tempo é o dobro daquele, ou o triplo, enquanto este outro tempo é apenas tão longo quanto aquele outro. Mas medimos a passagem do tempo quando medimos os intervalos da percepção. Mas quem pode medir os tempos passados, que já não são mais, ou os tempos futuros, que ainda não são — a menos que alguém ouse dizer que se pode medir o que não existe? Portanto, enquanto o tempo passa, pode ser percebido e medido; mas, quando já passou, não pode, pois já não é.

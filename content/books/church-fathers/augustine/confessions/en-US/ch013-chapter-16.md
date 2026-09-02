@@ -1,0 +1,3 @@
+# Chapter 16. That No One But the Unchangeable Light Knows Himself.
+
+19. For altogether as You are, Thou only know, Who art unchangeably, and know unchangeably, and willest unchangeably. And Your Essence Knows and Wills unchangeably; and Your Knowledge Is, and Wills unchangeably; and Your Will Is, and Knows unchangeably. Nor does it appear just to You, that as the Unchangeable Light knows Itself, so should It be known by that which is enlightened and changeable. Therefore unto You is my soul as “land where no water is,” because as it cannot of itself enlighten itself, so it cannot of itself satisfy itself. For so is the fountain of life with You, like as in Your light we shall see light.

@@ -1,0 +1,3 @@
+# Chapter 16. Time Can Only Be Perceived or Measured While It is Passing.
+
+21. And yet, O Lord, we perceive intervals of times, and we compare them with themselves, and we say some are longer, others shorter. We even measure by how much shorter or longer this time may be than that; and we answer, “That this is double or treble, while that is but once, or only as much as that.” But we measure times passing when we measure them by perceiving them; but past times, which now are not, or future times, which as yet are not, who can measure them? Unless, perchance, any one will dare to say, that that can be measured which is not. When, therefore, time is passing, it can be perceived and measured; but when it has passed, it cannot, since it is not.

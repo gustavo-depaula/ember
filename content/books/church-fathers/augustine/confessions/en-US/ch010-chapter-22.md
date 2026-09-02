@@ -1,0 +1,3 @@
+# Chapter 22. A Happy Life is to Rejoice in God, and for God.
+
+32. Let it be far, O Lord,— let it be far from the heart of Your servant who confesses unto You; let it be far from me to think myself happy, be the joy what it may. For there is a joy which is not granted to the “wicked,” Isaiah 48:22 but to those who worship You thankfully, whose joy You Yourself art. And the happy life is this—to rejoice unto You, in You, and for You; this it is, and there is no other. But those who think there is another follow after another joy, and that not the true one. Their will, however, is not turned away from some shadow of joy.

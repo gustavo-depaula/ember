@@ -1,0 +1,9 @@
+# Chapter XXVII
+
+37. For just as a spring dammed up is more plentiful and affords a larger supply of water for more streams over wider fields than any single stream led off from the same spring over a long course--so also is the narration of thy minister: it is intended to benefit many who are likely to discourse about it and, with an economy of language, it overflows into various streams of clear truth, from which each one may draw out for himself that particular truth which he can about these topics--this one that truth, that one another truth, by the broader survey of various interpretations. For some people, when they read or hear these words,[^1] think that God, like some sort of man or like some sort of huge body, by some new and sudden decision, produced outside himself and at a certain distance two great bodies: one above, the other below, within which all created things were to be contained. And when they hear, “God said, ‘Let such and such be done,’ and it was done,” they think of words begun and ended, sounding in time and then passing away, followed by the coming into being of what was commanded. They think of other things of the same sort which their familiarity with the world suggests to them.
+
+In these people, who are still little children and whose weakness is borne up by this humble language as if on a mother’s breast, their faith is built up healthfully and they come to possess and to hold as certain the conviction that God made all entities that their senses perceive all around them in such marvelous variety. And if one despises these words as if they were trivial, and with proud weakness stretches himself beyond his fostering cradle, he will, alas, fall away wretchedly. Have pity, O Lord God, lest those who pass by trample on the unfledged bird,[^2] and send thy angel who may restore it to its nest, that it may live until it can fly.
+
+[^1]: "In the beginning God created," etc.
+
+[^2]: An echo of Job 39:13-16.

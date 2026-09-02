@@ -1,0 +1,15 @@
+# Chapter VII
+
+15. The church of Milan had only recently begun to employ this mode of consolation and exaltation with all the brethren singing together with great earnestness of voice and heart. For it was only about a year--not much more--since Justina, the mother of the boy-emperor Valentinian, had persecuted thy servant Ambrose on behalf of her heresy, in which she had been seduced by the Arians. The devoted people kept guard in the church, prepared to die with their bishop, thy servant. Among them my mother, thy handmaid, taking a leading part in those anxieties and vigils, lived there in prayer. And even though we were still not wholly melted by the heat of thy Spirit, we were nevertheless excited by the alarmed and disturbed city.
+
+This was the time that the custom began, after the manner of the Eastern Church, that hymns and psalms should be sung, so that the people would not be worn out with the tedium of lamentation. This custom, retained from then till now, has been imitated by many, indeed, by almost all thy congregations throughout the rest of the world.[^1]
+
+16. Then by a vision thou madest known to thy renowned bishop the spot where lay the bodies of Gervasius and Protasius, the martyrs, whom thou hadst preserved uncorrupted for so many years in thy secret storehouse, so that thou mightest produce them at a fit time to check a woman’s fury--a woman indeed, but also a queen! When they were discovered and dug up and brought with due honor to the basilica of Ambrose, as they were borne along the road many who were troubled by unclean spirits--the devils confessing themselves--were healed. And there was also a certain man, a well-known citizen of the city, blind many years, who, when he had asked and learned the reason for the people’s tumultuous joy, rushed out and begged his guide to lead him to the place. When he arrived there, he begged to be permitted to touch with his handkerchief the bier of thy saints, whose death is precious in thy sight. When he had done this, and put it to his eyes, they were immediately opened. The fame of all this spread abroad; from this thy glory shone more brightly. And also from this the mind of that angry woman, though not enlarged to the sanity of a full faith, was nevertheless restrained from the fury of persecution.
+
+Thanks to thee, O my God. Whence and whither hast thou led my memory, that I should confess such things as these to thee--for great as they were, I had forgetfully passed them over? And yet at that time, when the sweet savor of thy ointment was so fragrant, I did not run after thee.[^2] Therefore, I wept more bitterly as I listened to thy hymns, having so long panted after thee. And now at length I could breathe as much as the space allows in this our straw house.[^3]
+
+[^1]: This was apparently the first introduction into the West of antiphonal chanting, which was already widespread in the East. Ambrose brought it in; Gregory brought it to perfection.
+
+[^2]: Cf. S. of Sol. 1:3, 4.
+
+[^3]: Cf. Isa. 40:6; 1 Peter 1:24: "All flesh is grass." See Bk. XI, Ch. II, 3.

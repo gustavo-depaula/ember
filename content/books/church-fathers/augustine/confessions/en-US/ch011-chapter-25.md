@@ -1,0 +1,3 @@
+# Chapter 25. He Calls on God to Enlighten His Mind.
+
+32. And I confess unto You, O Lord, that I am as yet ignorant as to what time is, and again I confess unto You, O Lord, that I know that I speak these things in time, and that I have already long spoken of time, and that very “long” is not long save by the stay of time. How, then, know I this, when I know not what time is? Or is it, perchance, that I know not in what wise I may express what I know? Alas for me, that I do not at least know the extent of my own ignorance! Behold, O my God, before You I lie not. As I speak, so is my heart. You shall light my candle; Thou, O Lord my God, wilt enlighten my darkness.

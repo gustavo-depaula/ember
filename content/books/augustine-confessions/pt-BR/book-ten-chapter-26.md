@@ -1,0 +1,3 @@
+# Capítulo XXVI
+
+37. Onde, então, Vos encontrei, para poder conhecer-Vos? Pois não estáveis em minha memória antes que Vos conhecesse. Onde, então, Vos encontrei, para poder conhecer-Vos — senão em Vós mesmo, além de mim? Lugar não há nenhum. Vamos "para trás" e "para diante", e não há lugar algum. Em toda parte e ao mesmo tempo, ó Verdade, guiais todos os que Vos consultam, e respondeis simultaneamente a todos, ainda que Vos consultem sobre coisas bem diferentes. Respondeis com clareza, embora nem todos ouçam com clareza. Todos Vos pedem conselho sobre o que quer que desejem, embora nem sempre ouçam o que desejam. É Vosso melhor servo aquele que não busca ouvir de Vós o que ele mesmo quer, mas que antes quer aquilo que ouve de Vós.

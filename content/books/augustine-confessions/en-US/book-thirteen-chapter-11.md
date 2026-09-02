@@ -1,0 +1,9 @@
+# Chapter XI
+
+12. Who can understand the omnipotent Trinity? And yet who does not speak about it, if indeed it is of it that he speaks? Rare is the soul who, when he speaks of it, also knows of what he speaks. And men contend and strive, but no man sees the vision of it without peace.
+
+I could wish that men would consider three things which are within themselves. These three things are quite different from the Trinity, but I mention them in order that men may exercise their minds and test themselves and come to realize how different from it they are.[^1]
+
+The three things I speak of are: to be, to know, and to will. For I am, and I know, and I will. I am a knowing and a willing being; I know that I am and that I will; and I will to be and to know. In these three functions, therefore, let him who can see how integral a life is; for there is one life, one mind, one essence. Finally, the distinction does not separate the things, and yet it is a distinction. Surely a man has this distinction before his mind; let him look into himself and see, and tell me. But when he discovers and can say anything about any one of these, let him not think that he has thereby discovered what is immutable above them all, which *is* immutably and *knows* immutably and *wills* immutably. But whether there is a Trinity there because these three functions exist in the one God, or whether all three are in each Person so that they are each threefold, or whether both these notions are true and, in some mysterious manner, the Infinite is in itself its own Selfsame object--at once one and many, so that by itself it is and knows itself and suffices to itself without change, so that the Selfsame is the abundant magnitude of its Unity--who can readily conceive? Who can in any fashion express it plainly? Who can in any way rashly make a pronouncement about it?
+
+[^1]: Cf. the detailed analogy from self to Trinity in *De Trinitate*, IX-XII.

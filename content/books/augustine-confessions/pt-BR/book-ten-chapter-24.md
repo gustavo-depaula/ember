@@ -1,0 +1,3 @@
+# Capítulo XXIV
+
+35. Eis quão grande território explorei em minha memória, buscando-Vos, ó Senhor! E em tudo isso ainda não Vos encontrei. Nem encontrei nada a Vosso respeito, exceto o que já retinha em minha memória desde o tempo em que Vos conheci. Pois onde encontrei a Verdade, ali encontrei o meu Deus, que é a Verdade. Desde que aprendi isto, não o esqueci. E assim, desde o tempo em que Vos conheci, habitais em minha memória, e é ali que Vos encontro sempre que Vos trago à lembrança e em Vós me deleito. Estes são meus santos deleites, que me concedestes em Vossa misericórdia, lembrando-Vos da minha pobreza.

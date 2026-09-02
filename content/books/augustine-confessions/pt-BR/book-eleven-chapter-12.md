@@ -1,0 +1,5 @@
+# Capítulo XII
+
+14. Como, então, responderei a quem pergunta: “Que fazia Deus *antes* de fazer o céu e a terra?” Não respondo, como um certo homem se diz ter respondido jocosamente (esquivando-se à força da pergunta): “Preparava o inferno”, disse ele, “para os que perscrutam demasiado fundo.” Uma coisa é ver a resposta; outra é rir do que pergunta — e, quanto a mim, não respondo assim a essas coisas. Mais de bom grado eu teria respondido: “Não sei o que não sei”, do que fazer com que alguém que fez uma pergunta profunda seja ridicularizado — e, com tais artimanhas, ganhar louvor por uma resposta sem valor.
+
+Antes, digo que Vós, nosso Deus, sois o Criador de toda criatura. E, se no termo “céu e terra” está incluída toda criatura, ouso ainda dizer: “Antes de Deus fazer o céu e a terra, ele não fez coisa alguma. Pois, se o fez, o que fez, senão uma criatura?” Bem quisera eu conhecer tudo o que desejo conhecer para meu proveito, com a mesma certeza com que sei que nenhuma criatura foi feita antes de qualquer criatura ser feita.

@@ -1,0 +1,3 @@
+# Chapter XV
+
+21. And I looked around at other things, and I saw that it was to thee that all of them owed their being, and that they were all finite in thee; yet they are in thee not as in a space, but because thou holdest all things in the hand of thy truth, and because all things are true in so far as they are; and because falsehood is nothing except the existence in thought of what does not exist in fact. And I saw that all things harmonize, not only in their places but also in their seasons. And I saw that thou, who alone art eternal, didst not *begin* to work after unnumbered periods of time--because all ages, both those which are past and those which shall pass, neither go nor come except through thy working and abiding.

@@ -1,0 +1,3 @@
+# Chapter XVI
+
+21. And yet, O Lord, we do perceive intervals of time, and we compare them with each other, and we say that some are longer and others are shorter. We even measure how much longer or shorter this time may be than that time. And we say that this time is twice as long, or three times as long, while this other time is only just as long as that other. But we measure the passage of time when we measure the intervals of perception. But who can measure times past which now are no longer, or times future which are not yet--unless perhaps someone will dare to say that what does not exist can be measured? Therefore, while time is passing, it can be perceived and measured; but when it is past, it cannot, since it is not.

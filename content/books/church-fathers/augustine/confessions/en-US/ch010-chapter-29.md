@@ -1,0 +1,3 @@
+# Chapter 29. All Hope is in the Mercy of God.
+
+40. And my whole hope is only in Your exceeding great mercy. Give what You command, and command what You will. Thou imposest continency upon us, “nevertheless, when I perceived,” says one, “that I could not otherwise obtain her, except God gave her me; . . . that was a point of wisdom also to know whose gift she was.” Wisdom 8:21 For by continency are we bound up and brought into one, whence we were scattered abroad into many. For he loves You too little who loves anything with You, which he loves not for You, O love, who ever burnest, and art never quenched! O charity, my God, kindle me! You command continency; give what You command, and command what You will.

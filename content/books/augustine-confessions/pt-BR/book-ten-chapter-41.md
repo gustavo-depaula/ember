@@ -1,0 +1,3 @@
+# Capítulo XLI
+
+66. E agora considerei assim as fraquezas dos meus pecados, sob as três rubricas das "cobiças" principais, e chamei a Vossa destra em meu socorro. Pois, com o coração ferido, contemplei o Vosso esplendor e, tendo sido repelido, exclamei: "Quem pode alcançá-lo? Estou excluído de diante dos Vossos olhos." Sois a Verdade, que presidis a todas as coisas, mas eu, por minha avidez, não quis perder-Vos. Mas ainda assim, junto convosco, quis também possuir uma mentira — assim como ninguém deseja mentir de tal modo que ignore o que é verdadeiro. Por isso Vos perdi, pois não Vos dignareis a ser fruído junto com uma mentira.

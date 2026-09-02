@@ -1,0 +1,3 @@
+# Capítulo I
+
+1. Meu coração se comove profundamente, ó Senhor, quando nesta minha pobre vida as palavras da vossa Sagrada Escritura o tocam. É por isso que a pobreza do intelecto humano se expressa numa abundância de palavras. A busca é mais loquaz do que a descoberta. Pedir demora mais do que obter; e a mão que bate é mais ativa do que a mão que recebe. Mas temos a promessa, e quem a quebrará? "Se Deus é por nós, quem será contra nós?" "Pedi, e recebereis; buscai, e achareis; batei, e vos será aberto; pois todo aquele que pede recebe, e o que busca acha, e ao que bate se lhe abrirá." Estas são vossas próprias promessas, e quem precisa temer ser enganado quando é a verdade que promete?

@@ -1,0 +1,3 @@
+# Chapter 24. He Who Finds Truth, Finds God.
+
+35. Behold how I have enlarged in my memory seeking You, O Lord; and out of it have I not found You. Nor have I found anything concerning You, but what I have retained in memory from the time I learned You. For from the time I learned You have I never forgotten You. For where I found truth, there found I my God, who is the Truth itself, which from the time I learned it have I not forgotten. And thus since the time I learned You, You abide in my memory; and there do I find You whenever I call You to remembrance, and delight in You. These are my holy delights, which You have bestowed upon me in Your mercy, having respect unto my poverty.

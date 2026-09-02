@@ -21,79 +21,1761 @@
       "id": "ch001",
       "title": {
         "en-US": "BOOK 1"
-      }
+      },
+      "children": [
+        {
+          "id": "ch001-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. He Proclaims the Greatness of God, Whom He Desires to Seek and Invoke, Being Awakened by Him."
+          }
+        },
+        {
+          "id": "ch001-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. That the God Whom We Invoke is in Us, and We in Him."
+          }
+        },
+        {
+          "id": "ch001-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. Everywhere God Wholly Fills All Things, But Neither Heaven Nor Earth Contains Him."
+          }
+        },
+        {
+          "id": "ch001-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. The Majesty of God is Supreme, and His Virtues Inexplicable."
+          }
+        },
+        {
+          "id": "ch001-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. He Seeks Rest in God, and Pardon of His Sins."
+          }
+        },
+        {
+          "id": "ch001-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. He Describes His Infancy, and Lauds the Protection and Eternal Providence of God."
+          }
+        },
+        {
+          "id": "ch001-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. He Shows by Example that Even Infancy is Prone to Sin."
+          }
+        },
+        {
+          "id": "ch001-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. That When a Boy He Learned to Speak, Not by Any Set Method, But from the Acts and Words of His Parents."
+          }
+        },
+        {
+          "id": "ch001-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. Concerning the Hatred of Learning, the Love of Play, and the Fear of Being Whipped Noticeable in Boys: and of the Folly of Our Elders and Masters."
+          }
+        },
+        {
+          "id": "ch001-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. Through a Love of Ball-Playing and Shows, He Neglects His Studies and the Injunctions of His Parents."
+          }
+        },
+        {
+          "id": "ch001-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. Seized by Disease, His Mother Being Troubled, He Earnestly Demands Baptism, Which on Recovery is Postponed— His Father Not as Yet Believing in Christ."
+          }
+        },
+        {
+          "id": "ch001-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Being Compelled, He Gave His Attention to Learning; But Fully Acknowledges that This Was the Work of God."
+          }
+        },
+        {
+          "id": "ch001-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. He Delighted in Latin Studies and the Empty Fables of the Poets, But Hated the Elements of Literature and the Greek Language."
+          }
+        },
+        {
+          "id": "ch001-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Why He Despised Greek Literature, and Easily Learned Latin."
+          }
+        },
+        {
+          "id": "ch001-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. He Entreats God, that Whatever Useful Things He Learned as a Boy May Be Dedicated to Him."
+          }
+        },
+        {
+          "id": "ch001-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. He Disapproves of the Mode of Educating Youth, and He Points Out Why Wickedness is Attributed to the Gods by the Poets."
+          }
+        },
+        {
+          "id": "ch001-chapter-17",
+          "title": {
+            "en-US": "Chapter 17. He Continues on the Unhappy Method of Training Youth in Literary Subjects."
+          }
+        },
+        {
+          "id": "ch001-chapter-18",
+          "title": {
+            "en-US": "Chapter 18. Men Desire to Observe the Rules of Learning, But Neglect the Eternal Rules of Everlasting Safety."
+          }
+        }
+      ]
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "BOOK 2"
-      }
+      },
+      "children": [
+        {
+          "id": "ch002-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. He Deplores the Wickedness of His Youth."
+          }
+        },
+        {
+          "id": "ch002-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. Stricken with Exceeding Grief, He Remembers the Dissolute Passions in Which, in His Sixteenth Year, He Used to Indulge."
+          }
+        },
+        {
+          "id": "ch002-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. Concerning His Father, a Freeman of Thagaste, the Assister of His Son's Studies, and on the Admonitions of His Mother on the Preservation of Chastity."
+          }
+        },
+        {
+          "id": "ch002-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. He Commits Theft with His Companions, Not Urged on by Poverty, But from a Certain Distaste of Well-Doing."
+          }
+        },
+        {
+          "id": "ch002-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. Concerning the Motives to Sin, Which are Not in the Love of Evil, But in the Desire of Obtaining the Property of Others."
+          }
+        },
+        {
+          "id": "ch002-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. Why He Delighted in that Theft, When All Things Which Under the Appearance of Good Invite to Vice are True and Perfect in God Alone."
+          }
+        },
+        {
+          "id": "ch002-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. He Gives Thanks to God for the Remission of His Sins, and Reminds Every One that the Supreme God May Have Preserved Us from Greater Sins."
+          }
+        },
+        {
+          "id": "ch002-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. In His Theft He Loved the Company of His Fellow-Sinners."
+          }
+        },
+        {
+          "id": "ch002-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. It Was a Pleasure to Him Also to Laugh When Seriously Deceiving Others."
+          }
+        },
+        {
+          "id": "ch002-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. With God There is True Rest and Life Unchanging."
+          }
+        }
+      ]
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "BOOK 3"
-      }
+      },
+      "children": [
+        {
+          "id": "ch003-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. Deluded by an Insane Love, He, Though Foul and Dishonourable, Desires to Be Thought Elegant and Urbane."
+          }
+        },
+        {
+          "id": "ch003-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. In Public Spectacles He is Moved by an Empty Compassion. He is Attacked by a Troublesome Spiritual Disease."
+          }
+        },
+        {
+          "id": "ch003-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. Not Even When at Church Does He Suppress His Desires. In the School of Rhetoric He Abhors the Acts of the Subverters."
+          }
+        },
+        {
+          "id": "ch003-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. In the Nineteenth Year of His Age (His Father Having Died Two Years Before) He is Led by the “Hortensius” Of Cicero to “Philosophy,” To God, and a Better Mode of Thinking."
+          }
+        },
+        {
+          "id": "ch003-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. He Rejects the Sacred Scriptures as Too Simple, and as Not to Be Compared with the Dignity of Tully."
+          }
+        },
+        {
+          "id": "ch003-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. Deceived by His Own Fault, He Falls into the Errors of the Manichæans, Who Gloried in the True Knowledge of God and in a Thorough Examination of Things."
+          }
+        },
+        {
+          "id": "ch003-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. He Attacks the Doctrine of the Manichæans Concerning Evil, God, and the Righteousness of the Patriarchs."
+          }
+        },
+        {
+          "id": "ch003-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. He Argues Against the Same as to the Reason of Offences."
+          }
+        },
+        {
+          "id": "ch003-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. That the Judgment of God and Men as to Human Acts of Violence, is Different."
+          }
+        },
+        {
+          "id": "ch003-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. He Reproves the Triflings of the Manichæans as to the Fruits of the Earth."
+          }
+        },
+        {
+          "id": "ch003-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. He Refers to the Tears, and the Memorable Dream Concerning Her Son, Granted by God to His Mother."
+          }
+        },
+        {
+          "id": "ch003-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. The Excellent Answer of the Bishop When Referred to by His Mother as to the Conversion of Her Son."
+          }
+        }
+      ]
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "BOOK 4"
-      }
+      },
+      "children": [
+        {
+          "id": "ch004-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. Concerning that Most Unhappy Time in Which He, Being Deceived, Deceived Others; And Concerning the Mockers of His Confession."
+          }
+        },
+        {
+          "id": "ch004-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. He Teaches Rhetoric, the Only Thing He Loved, and Scorns the Soothsayer, Who Promised Him Victory."
+          }
+        },
+        {
+          "id": "ch004-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. Not Even the Most Experienced Men Could Persuade Him of the Vanity of Astrology to Which He Was Devoted."
+          }
+        },
+        {
+          "id": "ch004-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. Sorely Distressed by Weeping at the Death of His Friend, He Provides Consolation for Himself."
+          }
+        },
+        {
+          "id": "ch004-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. Why Weeping is Pleasant to the Wretched."
+          }
+        },
+        {
+          "id": "ch004-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. His Friend Being Snatched Away by Death, He Imagines that He Remains Only as Half."
+          }
+        },
+        {
+          "id": "ch004-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. Troubled by Restlessness and Grief, He Leaves His Country a Second Time for Carthage."
+          }
+        },
+        {
+          "id": "ch004-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. That His Grief Ceased by Time, and the Consolation of Friends."
+          }
+        },
+        {
+          "id": "ch004-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. That the Love of a Human Being, However Constant in Loving and Returning Love, Perishes; While He Who Loves God Never Loses a Friend."
+          }
+        },
+        {
+          "id": "ch004-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. That All Things Exist that They May Perish, and that We are Not Safe Unless God Watches Over Us."
+          }
+        },
+        {
+          "id": "ch004-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. That Portions of the World are Not to Be Loved; But that God, Their Author, is Immutable, and His Word Eternal."
+          }
+        },
+        {
+          "id": "ch004-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Love is Not Condemned, But Love in God, in Whom There is Rest Through Jesus Christ, is to Be Preferred."
+          }
+        },
+        {
+          "id": "ch004-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. Love Originates from Grace and Beauty Enticing Us."
+          }
+        },
+        {
+          "id": "ch004-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Concerning the Books Which He Wrote “On the Fair and Fit,” Dedicated to Hierius."
+          }
+        },
+        {
+          "id": "ch004-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. While Writing, Being Blinded by Corporeal Images, He Failed to Recognise the Spiritual Nature of God."
+          }
+        },
+        {
+          "id": "ch004-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. He Very Easily Understood the Liberal Arts and the Categories of Aristotle, But Without True Fruit."
+          }
+        }
+      ]
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "BOOK 5"
-      }
+      },
+      "children": [
+        {
+          "id": "ch005-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. That It Becomes the Soul to Praise God, and to Confess Unto Him."
+          }
+        },
+        {
+          "id": "ch005-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. On the Vanity of Those Who Wished to Escape the Omnipotent God."
+          }
+        },
+        {
+          "id": "ch005-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. Having Heard Faustus, the Most Learned Bishop of the Manichæans, He Discerns that God, the Author Both of Things Animate and Inanimate, Chiefly Has Care for the Humble."
+          }
+        },
+        {
+          "id": "ch005-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. That the Knowledge of Terrestrial and Celestial Things Does Not Give Happiness, But the Knowledge of God Only."
+          }
+        },
+        {
+          "id": "ch005-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. Of Manichæus Pertinaciously Teaching False Doctrines, and Proudly Arrogating to Himself the Holy Spirit."
+          }
+        },
+        {
+          "id": "ch005-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. Faustus Was Indeed an Elegant Speaker, But Knew Nothing of the Liberal Sciences."
+          }
+        },
+        {
+          "id": "ch005-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. Clearly Seeing the Fallacies of the Manichæans, He Retires from Them, Being Remarkably Aided by God."
+          }
+        },
+        {
+          "id": "ch005-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. He Sets Out for Rome, His Mother in Vain Lamenting It."
+          }
+        },
+        {
+          "id": "ch005-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. Being Attacked by Fever, He is in Great Danger."
+          }
+        },
+        {
+          "id": "ch005-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. When He Had Left the Manichæans, He Retained His Depraved Opinions Concerning Sin and the Origin of the Saviour."
+          }
+        },
+        {
+          "id": "ch005-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. Helpidius Disputed Well Against the Manichæans as to the Authenticity of the New Testament."
+          }
+        },
+        {
+          "id": "ch005-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Professing Rhetoric at Rome, He Discovers the Fraud of His Scholars."
+          }
+        },
+        {
+          "id": "ch005-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. He is Sent to Milan, that He, About to Teach Rhetoric, May Be Known by Ambrose."
+          }
+        },
+        {
+          "id": "ch005-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Having Heard the Bishop, He Perceives the Force of the Catholic Faith, Yet Doubts, After the Manner of the Modern Academics."
+          }
+        }
+      ]
     },
     {
       "id": "ch006",
       "title": {
         "en-US": "BOOK 6"
-      }
+      },
+      "children": [
+        {
+          "id": "ch006-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. His Mother Having Followed Him to Milan, Declares that She Will Not Die Before Her Son Shall Have Embraced the Catholic Faith."
+          }
+        },
+        {
+          "id": "ch006-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. She, on the Prohibition of Ambrose, Abstains from Honouring the Memory of the Martyrs."
+          }
+        },
+        {
+          "id": "ch006-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. As Ambrose Was Occupied with Business and Study, Augustine Could Seldom Consult Him Concerning the Holy Scriptures."
+          }
+        },
+        {
+          "id": "ch006-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. He Recognises the Falsity of His Own Opinions, and Commits to Memory the Saying of Ambrose."
+          }
+        },
+        {
+          "id": "ch006-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. Faith is the Basis of Human Life; Man Cannot Discover that Truth Which Holy Scripture Has Disclosed."
+          }
+        },
+        {
+          "id": "ch006-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. On the Source and Cause of True Joy—The Example of the Joyous Beggar Being Adduced."
+          }
+        },
+        {
+          "id": "ch006-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. He Leads to Reformation His Friend Alypius, Seized with Madness for the Circensian Games."
+          }
+        },
+        {
+          "id": "ch006-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. The Same When at Rome, Being Led by Others into the Amphitheatre, is Delighted with the Gladiatorial Games."
+          }
+        },
+        {
+          "id": "ch006-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. Innocent Alypius, Being Apprehended as a Thief, is Set at Liberty by the Cleverness of an Architect."
+          }
+        },
+        {
+          "id": "ch006-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. The Wonderful Integrity of Alypius in Judgment. The Lasting Friendship of Nebridius with Augustine."
+          }
+        },
+        {
+          "id": "ch006-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. Being Troubled by His Grievous Errors, He Meditates Entering on a New Life."
+          }
+        },
+        {
+          "id": "ch006-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Discussion with Alypius Concerning a Life of Celibacy."
+          }
+        },
+        {
+          "id": "ch006-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. Being Urged by His Mother to Take a Wife, He Sought a Maiden that Was Pleasing Unto Him."
+          }
+        },
+        {
+          "id": "ch006-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. The Design of Establishing a Common Household with His Friends is Speedily Hindered."
+          }
+        },
+        {
+          "id": "ch006-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. He Dismisses One Mistress, and Chooses Another."
+          }
+        },
+        {
+          "id": "ch006-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. The Fear of Death and Judgment Called Him, Believing in the Immortality of the Soul, Back from His Wickedness, Him Who Aforetime Believed in the Opinions of Epicurus."
+          }
+        }
+      ]
     },
     {
       "id": "ch007",
       "title": {
         "en-US": "BOOK 7"
-      }
+      },
+      "children": [
+        {
+          "id": "ch007-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. He Regarded Not God Indeed Under the Form of a Human Body, But as a Corporeal Substance Diffused Through Space."
+          }
+        },
+        {
+          "id": "ch007-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. The Disputation of Nebridius Against the Manichæans, on the Question “Whether God Be Corruptible or Incorruptible.”"
+          }
+        },
+        {
+          "id": "ch007-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. That the Cause of Evil is the Free Judgment of the Will."
+          }
+        },
+        {
+          "id": "ch007-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. That God is Not Corruptible, Who, If He Were, Would Not Be God at All."
+          }
+        },
+        {
+          "id": "ch007-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. Questions Concerning the Origin of Evil in Regard to God, Who, Since He is the Chief Good, Cannot Be the Cause of Evil."
+          }
+        },
+        {
+          "id": "ch007-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. He Refutes the Divinations of the Astrologers, Deduced from the Constellations."
+          }
+        },
+        {
+          "id": "ch007-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. He is Severely Exercised as to the Origin of Evil."
+          }
+        },
+        {
+          "id": "ch007-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. By God's Assistance He by Degrees Arrives at the Truth."
+          }
+        },
+        {
+          "id": "ch007-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. He Compares the Doctrine of the Platonists Concerning the Λόγος With the Much More Excellent Doctrine of Christianity."
+          }
+        },
+        {
+          "id": "ch007-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. Divine Things are the More Clearly Manifested to Him Who Withdraws into the Recesses of His Heart."
+          }
+        },
+        {
+          "id": "ch007-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. That Creatures are Mutable and God Alone Immutable."
+          }
+        },
+        {
+          "id": "ch007-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Whatever Things the Good God Has Created are Very Good."
+          }
+        },
+        {
+          "id": "ch007-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. It is Meet to Praise the Creator for the Good Things Which are Made in Heaven and Earth."
+          }
+        },
+        {
+          "id": "ch007-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Being Displeased with Some Part Of God's Creation, He Conceives of Two Original Substances."
+          }
+        },
+        {
+          "id": "ch007-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. Whatever Is, Owes Its Being to God."
+          }
+        },
+        {
+          "id": "ch007-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. Evil Arises Not from a Substance, But from the Perversion of the Will."
+          }
+        },
+        {
+          "id": "ch007-chapter-17",
+          "title": {
+            "en-US": "Chapter 17. Above His Changeable Mind, He Discovers the Unchangeable Author of Truth."
+          }
+        },
+        {
+          "id": "ch007-chapter-18",
+          "title": {
+            "en-US": "Chapter 18. Jesus Christ, the Mediator, is the Only Way of Safety."
+          }
+        },
+        {
+          "id": "ch007-chapter-19",
+          "title": {
+            "en-US": "Chapter 19. He Does Not Yet Fully Understand the Saying of John, that “The Word Was Made Flesh.”"
+          }
+        },
+        {
+          "id": "ch007-chapter-20",
+          "title": {
+            "en-US": "Chapter 20. He Rejoices that He Proceeded from Plato to the Holy Scriptures, and Not the Reverse."
+          }
+        },
+        {
+          "id": "ch007-chapter-21",
+          "title": {
+            "en-US": "Chapter 21. What He Found in the Sacred Books Which are Not to Be Found in Plato."
+          }
+        }
+      ]
     },
     {
       "id": "ch008",
       "title": {
         "en-US": "BOOK 8"
-      }
+      },
+      "children": [
+        {
+          "id": "ch008-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. He, Now Given to Divine Things, and Yet Entangled by the Lusts of Love, Consults Simplicianus in Reference to the Renewing of His Mind."
+          }
+        },
+        {
+          "id": "ch008-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. The Pious Old Man Rejoices that He Read Plato and the Scriptures, and Tells Him of the Rhetorician Victorinus Having Been Converted to the Faith Through the Reading of the Sacred Books."
+          }
+        },
+        {
+          "id": "ch008-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. That God and the Angels Rejoice More on the Return of One Sinner Than of Many Just Persons."
+          }
+        },
+        {
+          "id": "ch008-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. He Shows by the Example of Victorinus that There is More Joy in the Conversion of Nobles."
+          }
+        },
+        {
+          "id": "ch008-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. Of the Causes Which Alienate Us from God."
+          }
+        },
+        {
+          "id": "ch008-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. Pontitianus' Account of Antony, the Founder of Monachism, and of Some Who Imitated Him."
+          }
+        },
+        {
+          "id": "ch008-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. He Deplores His Wretchedness, that Having Been Born Thirty-Two Years, He Had Not Yet Found Out the Truth."
+          }
+        },
+        {
+          "id": "ch008-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. The Conversation with Alypius Being Ended, He Retires to the Garden, Whither His Friend Follows Him."
+          }
+        },
+        {
+          "id": "ch008-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. That the Mind Commands the Mind, But It Wills Not Entirely."
+          }
+        },
+        {
+          "id": "ch008-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. He Refutes the Opinion of the Manichæans as to Two Kinds of Minds—One Good and the Other Evil."
+          }
+        },
+        {
+          "id": "ch008-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. In What Manner the Spirit Struggled with the Flesh, that It Might Be Freed from the Bondage of Vanity."
+          }
+        },
+        {
+          "id": "ch008-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Having Prayed to God, He Pours Forth a Shower of Tears, And, Admonished by a Voice, He Opens the Book and Reads the Words in Rom. XIII. 13; By Which, Being Changed in His Whole Soul, He Discloses the Divine Favour to His Friend and His Mother."
+          }
+        }
+      ]
     },
     {
       "id": "ch009",
       "title": {
         "en-US": "BOOK 9"
-      }
+      },
+      "children": [
+        {
+          "id": "ch009-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. He Praises God, the Author of Safety, and Jesus Christ, the Redeemer, Acknowledging His Own Wickedness."
+          }
+        },
+        {
+          "id": "ch009-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. As His Lungs Were Affected, He Meditates Withdrawing Himself from Public Favour."
+          }
+        },
+        {
+          "id": "ch009-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. He Retires to the Villa of His Friend Verecundus, Who Was Not Yet a Christian, and Refers to His Conversion and Death, as Well as that of Nebridius."
+          }
+        },
+        {
+          "id": "ch009-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. In the Country He Gives His Attention to Literature, and Explains the Fourth Psalm in Connection with the Happy Conversion of Alypius. He is Troubled with Toothache."
+          }
+        },
+        {
+          "id": "ch009-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. At the Recommendation of Ambrose, He Reads the Prophecies of Isaiah, But Does Not Understand Them."
+          }
+        },
+        {
+          "id": "ch009-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. He is Baptized at Milan with Alypius and His Son Adeodatus. The Book “De Magistro.”"
+          }
+        },
+        {
+          "id": "ch009-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. Of the Church Hymns Instituted at Milan; Of the Ambrosian Persecution Raised by Justina; And of the Discovery of the Bodies of Two Martyrs."
+          }
+        },
+        {
+          "id": "ch009-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. Of the Conversion of Evodius, and the Death of His Mother When Returning with Him to Africa; And Whose Education He Tenderly Relates."
+          }
+        },
+        {
+          "id": "ch009-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. He Describes the Praiseworthy Habits of His Mother; Her Kindness Towards Her Husband and Her Sons."
+          }
+        },
+        {
+          "id": "ch009-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. A Conversation He Had with His Mother Concerning the Kingdom of Heaven."
+          }
+        },
+        {
+          "id": "ch009-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. His Mother, Attacked by Fever, Dies at Ostia."
+          }
+        },
+        {
+          "id": "ch009-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. How He Mourned His Dead Mother."
+          }
+        },
+        {
+          "id": "ch009-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. He Entreats God for Her Sins, and Admonishes His Readers to Remember Her Piously."
+          }
+        }
+      ]
     },
     {
       "id": "ch010",
       "title": {
         "en-US": "BOOK 10"
-      }
+      },
+      "children": [
+        {
+          "id": "ch010-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. In God Alone is the Hope and Joy of Man."
+          }
+        },
+        {
+          "id": "ch010-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. That All Things are Manifest to God. That Confession Unto Him is Not Made by the Words of the Flesh, But of the Soul, and the Cry of Reflection."
+          }
+        },
+        {
+          "id": "ch010-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. He Who Confesses Rightly Unto God Best Knows Himself."
+          }
+        },
+        {
+          "id": "ch010-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. That in His Confessions He May Do Good, He Considers Others."
+          }
+        },
+        {
+          "id": "ch010-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. That Man Knows Not Himself Wholly."
+          }
+        },
+        {
+          "id": "ch010-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. The Love of God, in His Nature Superior to All Creatures, is Acquired by the Knowledge of the Senses and the Exercise of Reason."
+          }
+        },
+        {
+          "id": "ch010-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. That God is to Be Found Neither from the Powers of the Body Nor of the Soul."
+          }
+        },
+        {
+          "id": "ch010-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. — Of the Nature and the Amazing Power of Memory."
+          }
+        },
+        {
+          "id": "ch010-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. Not Only Things, But Also Literature and Images, are Taken from the Memory, and are Brought Forth by the Act of Remembering."
+          }
+        },
+        {
+          "id": "ch010-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. Literature is Not Introduced to the Memory Through the Senses, But is Brought Forth from Its More Secret Places."
+          }
+        },
+        {
+          "id": "ch010-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. What It is to Learn and to Think."
+          }
+        },
+        {
+          "id": "ch010-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. On the Recollection of Things Mathematical."
+          }
+        },
+        {
+          "id": "ch010-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. Memory Retains All Things."
+          }
+        },
+        {
+          "id": "ch010-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Concerning the Manner in Which Joy and Sadness May Be Brought Back to the Mind and Memory."
+          }
+        },
+        {
+          "id": "ch010-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. In Memory There are Also Images of Things Which are Absent."
+          }
+        },
+        {
+          "id": "ch010-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. The Privation of Memory is Forgetfulness."
+          }
+        },
+        {
+          "id": "ch010-chapter-17",
+          "title": {
+            "en-US": "Chapter 17. God Cannot Be Attained Unto by the Power of Memory, Which Beasts and Birds Possess."
+          }
+        },
+        {
+          "id": "ch010-chapter-18",
+          "title": {
+            "en-US": "Chapter 18. A Thing When Lost Could Not Be Found Unless It Were Retained in the Memory."
+          }
+        },
+        {
+          "id": "ch010-chapter-19",
+          "title": {
+            "en-US": "Chapter 19. What It is to Remember."
+          }
+        },
+        {
+          "id": "ch010-chapter-20",
+          "title": {
+            "en-US": "Chapter 20. We Should Not Seek for God and the Happy Life Unless We Had Known It."
+          }
+        },
+        {
+          "id": "ch010-chapter-21",
+          "title": {
+            "en-US": "Chapter 21. How a Happy Life May Be Retained in the Memory."
+          }
+        },
+        {
+          "id": "ch010-chapter-22",
+          "title": {
+            "en-US": "Chapter 22. A Happy Life is to Rejoice in God, and for God."
+          }
+        },
+        {
+          "id": "ch010-chapter-23",
+          "title": {
+            "en-US": "Chapter 23. All Wish to Rejoice in the Truth."
+          }
+        },
+        {
+          "id": "ch010-chapter-24",
+          "title": {
+            "en-US": "Chapter 24. He Who Finds Truth, Finds God."
+          }
+        },
+        {
+          "id": "ch010-chapter-25",
+          "title": {
+            "en-US": "Chapter 25. He is Glad that God Dwells in His Memory."
+          }
+        },
+        {
+          "id": "ch010-chapter-26",
+          "title": {
+            "en-US": "Chapter 26. God Everywhere Answers Those Who Take Counsel of Him."
+          }
+        },
+        {
+          "id": "ch010-chapter-27",
+          "title": {
+            "en-US": "Chapter 27. He Grieves that He Was So Long Without God."
+          }
+        },
+        {
+          "id": "ch010-chapter-28",
+          "title": {
+            "en-US": "Chapter 28. On the Misery of Human Life."
+          }
+        },
+        {
+          "id": "ch010-chapter-29",
+          "title": {
+            "en-US": "Chapter 29. All Hope is in the Mercy of God."
+          }
+        },
+        {
+          "id": "ch010-chapter-30",
+          "title": {
+            "en-US": "Chapter 30. Of the Perverse Images of Dreams, Which He Wishes to Have Taken Away."
+          }
+        },
+        {
+          "id": "ch010-chapter-31",
+          "title": {
+            "en-US": "Chapter 31. About to Speak of the Temptations of the Lust of the Flesh, He First Complains of the Lust of Eating and Drinking."
+          }
+        },
+        {
+          "id": "ch010-chapter-32",
+          "title": {
+            "en-US": "Chapter 32. Of the Charms of Perfumes Which are More Easily Overcome."
+          }
+        },
+        {
+          "id": "ch010-chapter-33",
+          "title": {
+            "en-US": "Chapter 33. He Overcame the Pleasures of the Ear, Although in the Church He Frequently Delighted in the Song, Not in the Thing Sung."
+          }
+        },
+        {
+          "id": "ch010-chapter-34",
+          "title": {
+            "en-US": "Chapter 34. Of the Very Dangerous Allurements of the Eyes; On Account of Beauty of Form, God, the Creator, is to Be Praised."
+          }
+        },
+        {
+          "id": "ch010-chapter-35",
+          "title": {
+            "en-US": "Chapter 35. Another Kind of Temptation is Curiosity, Which is Stimulated by the Lust of the Eyes."
+          }
+        },
+        {
+          "id": "ch010-chapter-36",
+          "title": {
+            "en-US": "Chapter 36. A Third Kind is “Pride” Which is Pleasing to Man, Not to God."
+          }
+        },
+        {
+          "id": "ch010-chapter-37",
+          "title": {
+            "en-US": "Chapter 37. He is Forcibly Goaded on by the Love of Praise."
+          }
+        },
+        {
+          "id": "ch010-chapter-38",
+          "title": {
+            "en-US": "Chapter 38. Vain-Glory is the Highest Danger."
+          }
+        },
+        {
+          "id": "ch010-chapter-39",
+          "title": {
+            "en-US": "Chapter 39. Of the Vice of Those Who, While Pleasing Themselves, Displease God."
+          }
+        },
+        {
+          "id": "ch010-chapter-40",
+          "title": {
+            "en-US": "Chapter 40. The Only Safe Resting-Place for the Soul is to Be Found in God."
+          }
+        },
+        {
+          "id": "ch010-chapter-41",
+          "title": {
+            "en-US": "Chapter 41. Having Conquered His Triple Desire, He Arrives at Salvation."
+          }
+        },
+        {
+          "id": "ch010-chapter-42",
+          "title": {
+            "en-US": "Chapter 42. In What Manner Many Sought the Mediator."
+          }
+        },
+        {
+          "id": "ch010-chapter-43",
+          "title": {
+            "en-US": "Chapter 43. That Jesus Christ, at the Same Time God and Man, is the True and Most Efficacious Mediator."
+          }
+        }
+      ]
     },
     {
       "id": "ch011",
       "title": {
         "en-US": "BOOK 11"
-      }
+      },
+      "children": [
+        {
+          "id": "ch011-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. By Confession He Desires to Stimulate Towards God His Own Love and That of His Readers."
+          }
+        },
+        {
+          "id": "ch011-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. He Begs of God that Through the Holy Scriptures He May Be Led to Truth."
+          }
+        },
+        {
+          "id": "ch011-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. He Begins from the Creation of the World— Not Understanding the Hebrew Text."
+          }
+        },
+        {
+          "id": "ch011-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. Heaven and Earth Cry Out that They Have Been Created by God."
+          }
+        },
+        {
+          "id": "ch011-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. God Created the World Not from Any Certain Matter, But in His Own Word."
+          }
+        },
+        {
+          "id": "ch011-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. He Did Not, However, Create It by a Sounding and Passing Word."
+          }
+        },
+        {
+          "id": "ch011-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. By His Co-Eternal Word He Speaks, and All Things are Done."
+          }
+        },
+        {
+          "id": "ch011-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. That Word Itself is the Beginning of All Things, in the Which We are Instructed as to Evangelical Truth."
+          }
+        },
+        {
+          "id": "ch011-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. Wisdom and the Beginning."
+          }
+        },
+        {
+          "id": "ch011-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. The Rashness of Those Who Inquire What God Did Before He Created Heaven and Earth."
+          }
+        },
+        {
+          "id": "ch011-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. They Who Ask This Have Not as Yet Known the Eternity of God, Which is Exempt from the Relation of Time."
+          }
+        },
+        {
+          "id": "ch011-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. What God Did Before the Creation of the World."
+          }
+        },
+        {
+          "id": "ch011-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. Before the Times Created by God, Times Were Not."
+          }
+        },
+        {
+          "id": "ch011-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Neither Time Past Nor Future, But the Present Only, Really is."
+          }
+        },
+        {
+          "id": "ch011-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. There is Only a Moment of Present Time."
+          }
+        },
+        {
+          "id": "ch011-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. Time Can Only Be Perceived or Measured While It is Passing."
+          }
+        },
+        {
+          "id": "ch011-chapter-17",
+          "title": {
+            "en-US": "Chapter 17. Nevertheless There is Time Past and Future."
+          }
+        },
+        {
+          "id": "ch011-chapter-18",
+          "title": {
+            "en-US": "Chapter 18. Past and Future Times Cannot Be Thought of But as Present."
+          }
+        },
+        {
+          "id": "ch011-chapter-19",
+          "title": {
+            "en-US": "Chapter 19. We are Ignorant in What Manner God Teaches Future Things."
+          }
+        },
+        {
+          "id": "ch011-chapter-20",
+          "title": {
+            "en-US": "Chapter 20. In What Manner Time May Properly Be Designated."
+          }
+        },
+        {
+          "id": "ch011-chapter-21",
+          "title": {
+            "en-US": "Chapter 21. How Time May Be Measured."
+          }
+        },
+        {
+          "id": "ch011-chapter-22",
+          "title": {
+            "en-US": "Chapter 22. He Prays God that He Would Explain This Most Entangled Enigma."
+          }
+        },
+        {
+          "id": "ch011-chapter-23",
+          "title": {
+            "en-US": "Chapter 23. That Time is a Certain Extension."
+          }
+        },
+        {
+          "id": "ch011-chapter-24",
+          "title": {
+            "en-US": "Chapter 24. That Time is Not a Motion of a Body Which We Measure by Time."
+          }
+        },
+        {
+          "id": "ch011-chapter-25",
+          "title": {
+            "en-US": "Chapter 25. He Calls on God to Enlighten His Mind."
+          }
+        },
+        {
+          "id": "ch011-chapter-26",
+          "title": {
+            "en-US": "Chapter 26. We Measure Longer Events by Shorter in Time."
+          }
+        },
+        {
+          "id": "ch011-chapter-27",
+          "title": {
+            "en-US": "Chapter 27. Times are Measured in Proportion as They Pass by."
+          }
+        },
+        {
+          "id": "ch011-chapter-28",
+          "title": {
+            "en-US": "Chapter 28. Time in the Human Mind, Which Expects, Considers, and Remembers."
+          }
+        },
+        {
+          "id": "ch011-chapter-29",
+          "title": {
+            "en-US": "Chapter 29. That Human Life is a Distraction But that Through the Mercy of God He Was Intent on the Prize of His Heavenly Calling."
+          }
+        },
+        {
+          "id": "ch011-chapter-30",
+          "title": {
+            "en-US": "Chapter 30. Again He Refutes the Empty Question, “What Did God Before the Creation of the World?”"
+          }
+        },
+        {
+          "id": "ch011-chapter-31",
+          "title": {
+            "en-US": "Chapter 31. How the Knowledge of God Differs from that of Man."
+          }
+        }
+      ]
     },
     {
       "id": "ch012",
       "title": {
         "en-US": "BOOK 12"
-      }
+      },
+      "children": [
+        {
+          "id": "ch012-chapter-01",
+          "title": {
+            "en-US": "Chapter 1 .— The Discovery of Truth is Difficult, But God Has Promised that He Who Seeks Shall Find."
+          }
+        },
+        {
+          "id": "ch012-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. Of the Double Heaven—The Visible, and the Heaven of Heavens."
+          }
+        },
+        {
+          "id": "ch012-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. Of the Darkness Upon the Deep, and of the Invisible and Formless Earth."
+          }
+        },
+        {
+          "id": "ch012-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. From the Formlessness of Matter, the Beautiful World Has Arisen."
+          }
+        },
+        {
+          "id": "ch012-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. What May Have Been the Form of Matter."
+          }
+        },
+        {
+          "id": "ch012-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. He Confesses that at One Time He Himself Thought Erroneously of Matter."
+          }
+        },
+        {
+          "id": "ch012-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. Out of Nothing God Made Heaven and Earth."
+          }
+        },
+        {
+          "id": "ch012-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. Heaven and Earth Were Made “In the Beginning;” Afterwards the World, During Six Days, from Shapeless Matter."
+          }
+        },
+        {
+          "id": "ch012-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. That the Heaven of Heavens Was an Intellectual Creature, But that the Earth Was Invisible and Formless Before the Days that It Was Made."
+          }
+        },
+        {
+          "id": "ch012-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. He Begs of God that He May Live in the True Light, and May Be Instructed as to the Mysteries of the Sacred Books."
+          }
+        },
+        {
+          "id": "ch012-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. What May Be Discovered to Him by God."
+          }
+        },
+        {
+          "id": "ch012-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. From the Formless Earth God Created Another Heaven and a Visible and Formed Earth."
+          }
+        },
+        {
+          "id": "ch012-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. Of the Intellectual Heaven and Formless Earth, Out of Which, on Another Day, the Firmament Was Formed."
+          }
+        },
+        {
+          "id": "ch012-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. Of the Depth of the Sacred Scripture, and Its Enemies."
+          }
+        },
+        {
+          "id": "ch012-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. He Argues Against Adversaries Concerning the Heaven of Heavens."
+          }
+        },
+        {
+          "id": "ch012-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. He Wishes to Have No Intercourse with Those Who Deny Divine Truth."
+          }
+        },
+        {
+          "id": "ch012-chapter-17",
+          "title": {
+            "en-US": "Chapter 17. He Mentions Five Explanations of the Words of Genesis I. I."
+          }
+        },
+        {
+          "id": "ch012-chapter-18",
+          "title": {
+            "en-US": "Chapter 18. What Error is Harmless in Sacred Scripture."
+          }
+        },
+        {
+          "id": "ch012-chapter-19",
+          "title": {
+            "en-US": "Chapter 19. He Enumerates the Things Concerning Which All Agree."
+          }
+        },
+        {
+          "id": "ch012-chapter-20",
+          "title": {
+            "en-US": "Chapter 20. Of the Words, “In the Beginning,” Variously Understood."
+          }
+        },
+        {
+          "id": "ch012-chapter-21",
+          "title": {
+            "en-US": "Chapter 21. Of the Explanation of the Words, “The Earth Was Invisible.”"
+          }
+        },
+        {
+          "id": "ch012-chapter-22",
+          "title": {
+            "en-US": "Chapter 22. He Discusses Whether Matter Was from Eternity, or Was Made by God."
+          }
+        },
+        {
+          "id": "ch012-chapter-23",
+          "title": {
+            "en-US": "Chapter 23. Two Kinds of Disagreements in the Books to Be Explained."
+          }
+        },
+        {
+          "id": "ch012-chapter-24",
+          "title": {
+            "en-US": "Chapter 24. Out of the Many True Things, It is Not Asserted Confidently that Moses Understood This or That."
+          }
+        },
+        {
+          "id": "ch012-chapter-25",
+          "title": {
+            "en-US": "Chapter 25. It Behoves Interpreters, When Disagreeing Concerning Obscure Places, to Regard God the Author of Truth, and the Rule of Charity."
+          }
+        },
+        {
+          "id": "ch012-chapter-26",
+          "title": {
+            "en-US": "Chapter 26. What He Might Have Asked of God Had He Been Enjoined to Write the Book of Genesis."
+          }
+        },
+        {
+          "id": "ch012-chapter-27",
+          "title": {
+            "en-US": "Chapter 27. The Style of Speaking in the Book of Genesis is Simple and Clear."
+          }
+        },
+        {
+          "id": "ch012-chapter-28",
+          "title": {
+            "en-US": "Chapter 28. The Words, “In the Beginning,” And, “The Heaven and the Earth,” Are Differently Understood."
+          }
+        },
+        {
+          "id": "ch012-chapter-29",
+          "title": {
+            "en-US": "Chapter 29. Concerning the Opinion of Those Who Explain It “At First He Made.”"
+          }
+        },
+        {
+          "id": "ch012-chapter-30",
+          "title": {
+            "en-US": "Chapter 30. In the Great Diversity of Opinions, It Becomes All to Unite Charity and Divine Truth."
+          }
+        },
+        {
+          "id": "ch012-chapter-31",
+          "title": {
+            "en-US": "Chapter 31. Moses is Supposed to Have Perceived Whatever of Truth Can Be Discovered in His Words."
+          }
+        },
+        {
+          "id": "ch012-chapter-32",
+          "title": {
+            "en-US": "Chapter 32. First, the Sense of the Writer is to Be Discovered, Then that is to Be Brought Out Which Divine Truth Intended."
+          }
+        }
+      ]
     },
     {
       "id": "ch013",
       "title": {
         "en-US": "BOOK 13"
-      }
+      },
+      "children": [
+        {
+          "id": "ch013-chapter-01",
+          "title": {
+            "en-US": "Chapter 1. He Calls Upon God, and Proposes to Himself to Worship Him."
+          }
+        },
+        {
+          "id": "ch013-chapter-02",
+          "title": {
+            "en-US": "Chapter 2. All Creatures Subsist from the Plenitude of Divine Goodness."
+          }
+        },
+        {
+          "id": "ch013-chapter-03",
+          "title": {
+            "en-US": "Chapter 3. Genesis I. 3—Of “Light,”— He Understands as It is Seen in the Spiritual Creature."
+          }
+        },
+        {
+          "id": "ch013-chapter-04",
+          "title": {
+            "en-US": "Chapter 4. All Things Have Been Created by the Grace of God, and are Not of Him as Standing in Need of Created Things."
+          }
+        },
+        {
+          "id": "ch013-chapter-05",
+          "title": {
+            "en-US": "Chapter 5. He Recognises the Trinity in the First Two Verses of Genesis."
+          }
+        },
+        {
+          "id": "ch013-chapter-06",
+          "title": {
+            "en-US": "Chapter 6. Why the Holy Ghost Should Have Been Mentioned After the Mention of Heaven and Earth."
+          }
+        },
+        {
+          "id": "ch013-chapter-07",
+          "title": {
+            "en-US": "Chapter 7. That the Holy Spirit Brings Us to God."
+          }
+        },
+        {
+          "id": "ch013-chapter-08",
+          "title": {
+            "en-US": "Chapter 8. That Nothing Whatever, Short of God, Can Yield to the Rational Creature a Happy Rest."
+          }
+        },
+        {
+          "id": "ch013-chapter-09",
+          "title": {
+            "en-US": "Chapter 9. Why the Holy Spirit Was Only “Borne Over” The Waters."
+          }
+        },
+        {
+          "id": "ch013-chapter-10",
+          "title": {
+            "en-US": "Chapter 10. That Nothing Arose Save by the Gift of God."
+          }
+        },
+        {
+          "id": "ch013-chapter-11",
+          "title": {
+            "en-US": "Chapter 11. That the Symbols of the Trinity in Man, to Be, to Know, and to Will, are Never Thoroughly Examined."
+          }
+        },
+        {
+          "id": "ch013-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. Allegorical Explanation of Genesis, Chap. I., Concerning the Origin of the Church and Its Worship."
+          }
+        },
+        {
+          "id": "ch013-chapter-13",
+          "title": {
+            "en-US": "Chapter 13. That the Renewal of Man is Not Completed in This World."
+          }
+        },
+        {
+          "id": "ch013-chapter-14",
+          "title": {
+            "en-US": "Chapter 14. That Out of the Children of the Night and of the Darkness, Children of the Light and of the Day are Made."
+          }
+        },
+        {
+          "id": "ch013-chapter-15",
+          "title": {
+            "en-US": "Chapter 15. Allegorical Explanation of the Firmament and Upper Works, Ver. 6."
+          }
+        },
+        {
+          "id": "ch013-chapter-16",
+          "title": {
+            "en-US": "Chapter 16. That No One But the Unchangeable Light Knows Himself."
+          }
+        },
+        {
+          "id": "ch013-chapter-17",
+          "title": {
+            "en-US": "Chapter 17. Allegorical Explanation of the Sea and the Fruit-Bearing Earth— Verses 9 and 11."
+          }
+        },
+        {
+          "id": "ch013-chapter-18",
+          "title": {
+            "en-US": "Chapter 18. Of the Lights and Stars of Heaven— Of Day and Night, Ver. 14."
+          }
+        },
+        {
+          "id": "ch013-chapter-19",
+          "title": {
+            "en-US": "Chapter 19. All Men Should Become Lights in the Firmament of Heaven."
+          }
+        },
+        {
+          "id": "ch013-chapter-20",
+          "title": {
+            "en-US": "Chapter 20. Concerning Reptiles and Flying Creatures (Ver. 20)—The Sacrament of Baptism Being Regarded."
+          }
+        },
+        {
+          "id": "ch013-chapter-21",
+          "title": {
+            "en-US": "Chapter 21. Concerning the Living Soul, Birds, and Fishes (Ver. 24)— The Sacrament of the Eucharist Being Regarded."
+          }
+        },
+        {
+          "id": "ch013-chapter-22",
+          "title": {
+            "en-US": "Chapter 22. He Explains the Divine Image (Ver. 26) of the Renewal of the Mind."
+          }
+        },
+        {
+          "id": "ch013-chapter-23",
+          "title": {
+            "en-US": "Chapter 23. That to Have Power Over All Things (Ver. 26) is to Judge Spiritually of All."
+          }
+        },
+        {
+          "id": "ch013-chapter-24",
+          "title": {
+            "en-US": "Chapter 24. Why God Has Blessed Men, Fishes, Flying Creatures, and Not Herbs and the Other Animals (Ver. 28)."
+          }
+        },
+        {
+          "id": "ch013-chapter-25",
+          "title": {
+            "en-US": "Chapter 25. He Explains the Fruits of the Earth (Ver. 29) of Works of Mercy."
+          }
+        },
+        {
+          "id": "ch013-chapter-26",
+          "title": {
+            "en-US": "Chapter 26. In the Confessing of Benefits, Computation is Made Not as to The “Gift,” But as to the “Fruit,”— That Is, the Good and Right Will of the Giver."
+          }
+        },
+        {
+          "id": "ch013-chapter-27",
+          "title": {
+            "en-US": "Chapter 27. Many are Ignorant as to This, and Ask for Miracles, Which are Signified Under the Names Of “Fishes” And “Whales.”"
+          }
+        },
+        {
+          "id": "ch013-chapter-28",
+          "title": {
+            "en-US": "Chapter 28. He Proceeds to the Last Verse, “All Things are Very Good,”— That Is, the Work Being Altogether Good."
+          }
+        },
+        {
+          "id": "ch013-chapter-29",
+          "title": {
+            "en-US": "Chapter 29. Although It is Said Eight Times that “God Saw that It Was Good,” Yet Time Has No Relation to God and His Word."
+          }
+        },
+        {
+          "id": "ch013-chapter-30",
+          "title": {
+            "en-US": "Chapter 30. He Refutes the Opinions of the Manichæans and the Gnostics Concerning the Origin of the World."
+          }
+        },
+        {
+          "id": "ch013-chapter-31",
+          "title": {
+            "en-US": "Chapter 31. We Do Not See “That It Was Good” But Through the Spirit of God Which is in Us."
+          }
+        },
+        {
+          "id": "ch013-chapter-32",
+          "title": {
+            "en-US": "Chapter 32. Of the Particular Works of God, More Especially of Man."
+          }
+        },
+        {
+          "id": "ch013-chapter-33",
+          "title": {
+            "en-US": "Chapter 33. The World Was Created by God Out of Nothing."
+          }
+        },
+        {
+          "id": "ch013-chapter-34",
+          "title": {
+            "en-US": "Chapter 34. He Briefly Repeats the Allegorical Interpretation of Genesis (Ch. I.), and Confesses that We See It by the Divine Spirit."
+          }
+        },
+        {
+          "id": "ch013-chapter-35",
+          "title": {
+            "en-US": "Chapter 35. He Prays God for that Peace of Rest Which Hath No Evening."
+          }
+        },
+        {
+          "id": "ch013-chapter-36",
+          "title": {
+            "en-US": "Chapter 36. The Seventh Day, Without Evening and Setting, the Image of Eternal Life and Rest in God."
+          }
+        },
+        {
+          "id": "ch013-chapter-37",
+          "title": {
+            "en-US": "Chapter 37. Of Rest in God Who Ever Works, and Yet is Ever at Rest."
+          }
+        },
+        {
+          "id": "ch013-chapter-38",
+          "title": {
+            "en-US": "Chapter 38. Of the Difference Between the Knowledge of God and of Men, and of the Repose Which is to Be Sought from God Only."
+          }
+        }
+      ]
     }
   ]
 }

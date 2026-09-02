@@ -1,0 +1,13 @@
+# Chapter XVII
+
+20. Who has gathered the “embittered ones”[^1] into a single society? For they all have the same end, which is temporal and earthly happiness. This is their motive for doing everything, although they may fluctuate within an innumerable diversity of concerns. Who but thee, O Lord, gathered them together, thou who saidst, “Let the waters be gathered together into one place and let the dry land appear”--athirst for thee? For the sea also is thine, and thou madest it, and thy hands formed the dry land.[^2] For it is not the bitterness of men’s wills but the gathering together of the waters which is called “the sea”; yet thou dost curb the wicked lusts of men’s souls and fix their bounds: how far they are allowed to advance, and where their waves will be broken against each other--and thus thou makest it “a sea,” by the providence of thy governance of all things.
+
+21. But as for the souls that thirst after thee and who appear before thee--separated from “the society of the [bitter] sea” by reason of their different ends--thou waterest them by a secret and sweet spring, so that “the earth” may bring forth her fruit and--thou, O Lord, commanding it--our souls may bud forth in works of mercy after their kind.[^3] Thus we shall love our neighbor in ministering to his bodily needs, for in this way the soul has seed in itself after its kind when in our own infirmity our compassion reaches out to the relief of the needy, helping them even as we would desire to be helped ourselves if we were in similar need. Thus we help, not only in easy problems (as is signified by “the herb yielding its seed”) but also in the offering of our best strength in affording them the aid of protection (such as “the tree bearing its fruit”). This is to say, we seek to rescue him who is suffering injury from the hands of the powerful--furnishing him with the sheltering protection which comes from the strong arm of a righteous judgment.[^4]
+
+[^1]: *Amaricantes*, a figure which Augustine develops both in the *Exposition of the Psalms* and *TheCity of God.* Commenting on Ps. 65, Augustine says: "For the sea, by a figure, is used to indicate this world, with its bitter saltiness and troubled storms, where men with perverse and depraved appetites have become like fishes devouring one another." In *The City of God*, he speaks of the bitterness of life in the *civitas terrena*; cf. XIX, 5.
+
+[^2]: Cf. Ps. 95:5.
+
+[^3]: Cf. Gen. 1:10f.
+
+[^4]: In this way, Augustine sees an analogy between the good earth bearing its fruits and the ethical "fruit-bearing" of the Christian love of neighbor.

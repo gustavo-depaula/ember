@@ -1,0 +1,5 @@
+# Chapter XII
+
+14. How, then, shall I respond to him who asks, “What was God doing *before* he made heaven and earth?” I do not answer, as a certain one is reported to have done facetiously (shrugging off the force of the question). “He was preparing hell,” he said, “for those who pry too deep.” It is one thing to see the answer; it is another to laugh at the questioner--and for myself I do not answer these things thus. More willingly would I have answered, “I do not know what I do not know,” than cause one who asked a deep question to be ridiculed--and by such tactics gain praise for a worthless answer.
+
+Rather, I say that thou, our God, art the Creator of every creature. And if in the term “heaven and earth” every creature is included, I make bold to say further: “Before God made heaven and earth, he did not make anything at all. For if he did, what did he make unless it were a creature?” I do indeed wish that I knew all that I desire to know to my profit as surely as I know that no creature was made before any creature was made.

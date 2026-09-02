@@ -1,0 +1,3 @@
+# Chapter X
+
+10. O Truth, O Light of my heart, let not my own darkness speak to me! I had fallen into that darkness and was darkened thereby. But in it, even in its depths, I came to love thee. I went astray and still I remembered thee. I heard thy voice behind me, bidding me return, though I could scarcely hear it for the tumults of my boisterous passions. And now, behold, I am returning, burning and thirsting after thy fountain. Let no one hinder me; here will I drink and so have life. Let me not be my own life; for of myself I have lived badly. I was death to myself; in thee I have revived. Speak to me; converse with me. I have believed thy books, and their words are very deep.

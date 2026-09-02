@@ -1,0 +1,3 @@
+# Chapter XXIV
+
+35. Behold how great a territory I have explored in my memory seeking thee, O Lord! And in it all I have still not found thee. Nor have I found anything about thee, except what I had already retained in my memory from the time I learned of thee. For where I found Truth, there found I my God, who is the Truth. From the time I learned this I have not forgotten. And thus since the time I learned of thee, thou hast dwelt in my memory, and it is there that I find thee whenever I call thee to remembrance, and delight in thee. These are my holy delights, which thou hast bestowed on me in thy mercy, mindful of my poverty.
