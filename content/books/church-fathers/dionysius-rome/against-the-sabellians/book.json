@@ -1,13 +1,16 @@
 {
   "id": "dionysius-rome-against-the-sabellians",
   "name": {
-    "en-US": "Against the Sabellians"
+    "en-US": "Against the Sabellians",
+    "pt-BR": "Contra os Sabelianos"
   },
   "author": {
-    "en-US": "Dionysius of Rome"
+    "en-US": "Dionysius of Rome",
+    "pt-BR": "Dionísio de Roma"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Against the Sabellians"
+        "en-US": "Against the Sabellians",
+        "pt-BR": "Contra os Sabelianos"
       }
     }
   ]
