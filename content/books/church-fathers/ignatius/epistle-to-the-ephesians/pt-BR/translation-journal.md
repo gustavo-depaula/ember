@@ -25,3 +25,7 @@ Target: pt-BR
 - 2026-09-02: Bracketed editorial insertions from the source (e.g. "[of Christ]", "[manifested]", "[you hastened to see me]") preserved as brackets in the translation, following the convention of the prior Ignatius translations.
 - 2026-09-02 — **review pass 1** (1 defect found comparing against the en-US source):
   - Ch. 2: "consservo" (typo, double s) → "conservo" ("fellow-servant," from Latin *conservus*).
+- 2026-09-02 — **post-merge review pass** (2 defects found; bracket-convention violations of the rule recorded above):
+  - Ch. 11: "Somente que, de um modo ou de outro, sejamos encontrados" → "Somente que, [de um modo ou de outro], sejamos encontrados". The phrase renders the source's editorial insertion "[in one way or another]"; the content was translated but the brackets were dropped.
+  - Ch. 16: "tornando-se assim contaminado" → "tornando-se [assim] contaminado", restoring the brackets of the source's "[in this way]".
+- 2026-09-02 — **Ch. 19, "o seu parto"**: the second of the three mysteries is rendered "o seu parto" (her childbearing) rather than a literal calque of the English "her offspring" ("a sua prole"). This is the settled Portuguese formula for Ignatius's triad — *a virgindade de Maria, o seu parto e a morte do Senhor* — and follows the underlying Greek τοκετός (parturition), which the Roberts-Donaldson English renders loosely. Recorded here so the divergence from the en-US wording is not read as a translation slip in future reviews.
