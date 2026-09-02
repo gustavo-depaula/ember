@@ -143,3 +143,9 @@ Reviewer note: archaic English singulars ("some priest", "a certain man") and pe
 | `nov-19-elizabeth-of-hungary` | "criada na corte de **seu** pai" | "criada na corte do **pai dele**" | en-US "brought up in **his** father's court" — Louis's father. Portuguese "seu" attaches to the sentence subject (Isabel), reversing the fact: she was raised at the Thuringian court, not her own father's in Hungary |
 
 Reviewer note: English possessives (`his`/`her`) collapse into Portuguese `seu`, which then reattaches to the subject. Any `seu` rendering a cross-referent possessive needs `dele`/`dela` or the name spelled out — this class survived four review rounds precisely because the Portuguese reads perfectly well.
+
+### Convergence
+
+Round 11 re-audited all 399 chapters against en-US and found nothing. Defects per round across this post-merge review: 36 (round 8, almost all TOC/heading consistency), 2, 2, 2, 0. The mechanical invariants — 399 chapters symmetric across en-US / pt-BR / `book.json`, paragraph counts equal per chapter pair, no honorific disagreement within or across chapters, no encoding artifacts — all hold, and `pnpm build:corpus` emits no warnings for this book.
+
+Three `book.json` entries still read "São X e São Y" where the chapter heading reads "SANTOS X E Y" (`mar-05-sts-adrian-and-eubulus`, `mar-16-sts-abraham-and-mary`, `jun-02-sts-pothinus`). Both forms are sanctioned above for groups of saints, so these are left alone — noted here so a future sweep does not re-open them.
