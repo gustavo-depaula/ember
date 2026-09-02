@@ -100,16 +100,16 @@ CAPÍTULO XVI
 
 26. E, contudo, ó torrente do inferno, os filhos dos homens continuam a ser lançados em ti, e pagam taxas para aprender todas essas coisas. E faz-se muito disso quando isto ocorre no fórum, sob os auspícios de leis que concedem um salário além das taxas. E tu bates contra a tua margem rochosa e rugis: “Aqui se podem aprender palavras; aqui se pode alcançar a eloquência tão necessária para persuadir as pessoas ao nosso modo de pensar, tão útil para expor as nossas opiniões.” Em verdade, parecem argumentar que jamais teríamos entendido estas palavras, “chuva de ouro”, “colo”, “intriga”, “altíssimos céus”, e outras semelhantes, se Terêncio não tivesse posto em cena um jovem imprestável, apresentando um quadro de Júpiter como seu exemplo de lascívia, e contando a história
 
-> De Júpiter, descendo em chuva de ouro
-> No colo de Dânae...
-> Para com uma mulher se enredar.
+> “De Júpiter, descendo em chuva de ouro  
+> No colo de Dânae...  
+> Para com uma mulher se enredar.”  
 
 Vede como ele se excita para a luxúria, como que por autoridade celestial, quando diz:
 
-> Grande Júpiter,
-> Que sacode os altíssimos céus com o seu trovão;
-> Hei de eu, pobre mortal, não fazer o mesmo?
-> Eu o fiz, e de todo o coração me alegro.
+> “Grande Júpiter,  
+> Que sacode os altíssimos céus com o seu trovão;  
+> Hei de eu, pobre mortal, não fazer o mesmo?  
+> Eu o fiz, e de todo o coração me alegro.”  
 
 Estas palavras não se aprendem nem um pouco mais facilmente por causa desta vileza, mas por meio delas a vileza é praticada com mais ousadia. Não culpo as palavras, pois são, por assim dizer, vasos escolhidos e preciosos, mas deploro o vinho do erro que nos foi derramado por mestres já embriagados. E, se não bebêssemos também nós, éramos açoitados, sem liberdade de apelar a um juiz sóbrio. E, contudo, ó meu Deus, em cuja presença posso agora recordar isto com segurança, aprendi essas coisas de bom grado e com prazer, e por isso fui chamado menino de boa promessa.
 
@@ -117,14 +117,14 @@ CAPÍTULO XVII
 
 27. Suportai-me, ó meu Deus, enquanto falo um pouco daqueles talentos, dons vossos, e das loucuras em que os desperdicei. Foi-me dada uma lição que perturbava bastante a minha alma, pois nela havia tanto a esperança de louvor quanto o medo da vergonha ou dos castigos. A tarefa era que eu declamasse as palavras de Juno, enquanto ela se enfurecia e se entristecia por não poder
 
-> Barrar a Itália
-> De todas as investidas do rei teucro.
+> “Barrar a Itália  
+> De todas as investidas do rei teucro.”  
 
 Eu havia aprendido que Juno jamais proferira essas palavras. Contudo, éramos obrigados a seguir os passos dessas ficções poéticas, e a converter em prosa o que o poeta dissera em verso. Na declamação, vencia com mais aplausos o menino que reproduzisse de modo mais impressionante as paixões da ira e da tristeza, segundo o “caráter” das pessoas apresentadas, e que vestisse tudo isso na linguagem mais adequada. Que me importa agora, ó minha verdadeira Vida, meu Deus, que a minha declamação fosse aplaudida acima da de muitos dos meus colegas e condiscípulos? Na verdade, não era tudo isso fumaça e vento? Além disso, não havia outra coisa em que eu pudesse exercitar o meu engenho e a minha língua? O vosso louvor, ó Senhor, os vossos louvores poderiam ter sustentado as gavinhas do meu coração por meio das vossas Escrituras; e ele não teria sido arrastado por essas frivolidades vazias, presa vergonhosa dos espíritos do ar. Pois há mais de uma maneira pela qual os homens sacrificam aos anjos caídos.
 
 CAPÍTULO XVIII
 
-28. Mas não era de admirar que eu fosse assim levado à vaidade e me tornasse estranho a Vós, ó meu Deus, quando me eram apresentados como modelos homens que, ao relatar algum feito seu — não mau em si mesmo —, cobriam-se de confusão se fossem culpados de um barbarismo ou solecismo; mas que podiam contar a sua própria licenciosidade e serem aplaudidos por isso, contanto que o fizessem numa oração plena e ornada de palavras bem escolhidas. Vós vedes tudo isto, ó Senhor, e guardais silêncio — “longânimo, e cheio de misericórdia e verdade”, como sois. Guardareis silêncio para sempre? Ainda agora tirais desse vasto abismo a alma que vos busca e tem sede do vosso deleite, cujo “coração vos disse: ‘Busquei o teu rosto; o teu rosto, Senhor, buscarei.'“ Pois eu estava longe do vosso rosto, nas sombras escuras da paixão. Pois não é pelos nossos pés, nem pela mudança de lugar, que nos afastamos de Vós ou a Vós retornamos. Aquele filho mais moço não alugou cavalos, nem carros, nem navios, nem voou em asas visíveis, nem viajou a pé, para que na terra distante pudesse desperdiçar prodigamente tudo o que lhe destes ao partir. Pai bondoso quando destes; e mais bondoso ainda quando ele voltou destituído! Ser dissoluto, isto é, ter o coração obscurecido — isto é estar longe do vosso rosto.
+28. Mas não era de admirar que eu fosse assim levado à vaidade e me tornasse estranho a Vós, ó meu Deus, quando me eram apresentados como modelos homens que, ao relatar algum feito seu — não mau em si mesmo —, cobriam-se de confusão se fossem culpados de um barbarismo ou solecismo; mas que podiam contar a sua própria licenciosidade e serem aplaudidos por isso, contanto que o fizessem numa oração plena e ornada de palavras bem escolhidas. Vós vedes tudo isto, ó Senhor, e guardais silêncio — “longânimo, e cheio de misericórdia e verdade”, como sois. Guardareis silêncio para sempre? Ainda agora tirais desse vasto abismo a alma que vos busca e tem sede do vosso deleite, cujo “coração vos disse: ‘Busquei o teu rosto; o teu rosto, Senhor, buscarei.’” Pois eu estava longe do vosso rosto, nas sombras escuras da paixão. Pois não é pelos nossos pés, nem pela mudança de lugar, que nos afastamos de Vós ou a Vós retornamos. Aquele filho mais moço não alugou cavalos, nem carros, nem navios, nem voou em asas visíveis, nem viajou a pé, para que na terra distante pudesse desperdiçar prodigamente tudo o que lhe destes ao partir. Pai bondoso quando destes; e mais bondoso ainda quando ele voltou destituído! Ser dissoluto, isto é, ter o coração obscurecido — isto é estar longe do vosso rosto.
 
 29. Olhai, ó Senhor Deus, e vede com paciência, como costumais fazer, com que diligência os filhos dos homens observam as regras convencionais das letras e sílabas, que lhes foram ensinadas por aqueles que aprenderam antes as suas próprias letras, enquanto negligenciam as regras eternas da salvação perpétua, ensinadas por Vós. Levam isto tão longe que, se aquele que pratica ou ensina as regras estabelecidas de pronúncia falar (contra o uso gramatical) sem aspirar a primeira sílaba de “*hominem*” [“*ominem*”, fazendo dele um “omem”], ofenderá mais os homens do que se ele, sendo um ser humano, *odiasse* outro ser humano contra os vossos mandamentos. É como se sentisse que há um inimigo mais capaz de destruí-lo a ele mesmo do que o ódio que o incita contra o seu semelhante; ou que pudesse destruir aquele a quem odeia mais completamente do que destrói a sua própria alma por esse mesmo ódio. Ora, evidentemente, não há conhecimento algum de letras mais inato do que a escrita da consciência — contra fazer a outrem o que não se quereria que a si mesmo fosse feito.
 

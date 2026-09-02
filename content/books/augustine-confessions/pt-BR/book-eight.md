@@ -24,9 +24,9 @@ CAPÍTULO II
 
 Então, para incentivar-me a imitar a humildade de Cristo, que é ocultada dos sábios e revelada aos pequeninos, ele me contou a respeito do próprio Vitorino, a quem havia conhecido intimamente em Roma. E não posso deixar de repetir o que ele me contou sobre ele. Pois isso contém uma gloriosa prova da vossa graça, que deve ser-vos confessada: como aquele ancião, doutíssimo, versadíssimo em todas as artes liberais; que lera, criticara e explicara tantos escritos dos filósofos; mestre de tantos nobres senadores; que, como sinal de seu serviço distinto em cargos públicos, tanto merecera quanto obtivera uma estátua no Fórum Romano — o que os homens deste mundo consideram grande honra —; esse homem que, até idade avançada, fora adorador de ídolos, participante dos ritos sacrílegos aos quais quase toda a nobreza de Roma estava vinculada; e que inspirara no povo o amor a Osíris e
 
-> Ao cão Anúbis, e à turba variada
-> De deuses monstruosos que contra Netuno erguem armas,
-> Contra Vênus e Minerva, e Marte revestido de aço,
+> Ao cão Anúbis, e à turba variada  
+> De deuses monstruosos que contra Netuno erguem armas,  
+> Contra Vênus e Minerva, e Marte revestido de aço,  
 
 a quem Roma outrora conquistara e agora adorava; tudo isso o velho Vitorino defendera com eloquência trovejante por tantos anos — apesar de tudo isso, ele não se envergonhou de tornar-se filho do vosso Cristo, criancinha em vossa fonte batismal, curvando o pescoço ao jugo da humildade e submetendo a fronte à ignomínia da cruz.
 

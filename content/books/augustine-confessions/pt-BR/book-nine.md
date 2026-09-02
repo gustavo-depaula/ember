@@ -138,23 +138,23 @@ CAPÍTULO XII
 
 Depois dormi, e, quando acordei, achei a minha dor não pouco aliviada. E, enquanto ali jazia em minha cama, vieram-me à mente aqueles versos verdadeiros de Ambrósio, pois Vós sois verdadeiramente,
 
-> "Deus, creator omnium,
-> Polique rector, vestiens
-> Diem decoro lumine,
-> Noctem sopora gratia;
-> Artus solutos ut quies
-> Reddat laboris usui
-> Mentesque fessas allevet,
-> Luctusque solvat anxios."
+> "Deus, creator omnium,  
+> Polique rector, vestiens  
+> Diem decoro lumine,  
+> Noctem sopora gratia;  
+> Artus solutos ut quies  
+> Reddat laboris usui  
+> Mentesque fessas allevet,  
+> Luctusque solvat anxios."  
 
-> "Ó Deus, Criador de todas as coisas,
-> Que reges as esferas celestes,
-> Vestindo o dia de bela luz,
-> E a noite de graça sonolenta;
-> Que a vossa graça restaure os membros
-> Já soltos, para o uso do trabalho,
-> E alivie as mentes fatigadas,
-> E desate os lutos ansiosos."
+> "Ó Deus, Criador de todas as coisas,  
+> Que reges as esferas celestes,  
+> Vestindo o dia de bela luz,  
+> E a noite de graça sonolenta;  
+> Que a vossa graça restaure os membros  
+> Já soltos, para o uso do trabalho,  
+> E alivie as mentes fatigadas,  
+> E desate os lutos ansiosos."  
 
 33. E então, pouco a pouco, voltaram a mim as antigas lembranças da vossa serva: a sua vida devota para convosco, a sua santa ternura e atenção para conosco, que de repente me haviam sido tiradas — e foi um alívio para mim chorar diante de Vós, por ela e por mim mesmo, acerca dela e acerca de mim mesmo. Assim, dei livre curso às lágrimas que antes reprimia, para que corressem à vontade, estendendo-as como uma almofada sob o meu coração. E nelas repousava, pois os vossos ouvidos estavam perto de mim — não os de um homem, que teria feito algum comentário desdenhoso sobre o meu pranto. Mas agora, por escrito, confesso-o a Vós, ó Senhor! Leia-o quem quiser, e comente como quiser, e, se achar que pequei ao chorar por minha mãe por parte de uma hora — aquela mãe que por algum tempo esteve morta aos meus olhos, que por tantos anos chorara por mim, para que eu vivesse aos vossos olhos —, que não ria de mim; mas, se for homem de amor generoso, que chore antes pelos meus pecados contra Vós, Pai de todos os irmãos do vosso Cristo.
 
