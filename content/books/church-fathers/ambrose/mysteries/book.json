@@ -1,13 +1,16 @@
 {
   "id": "ambrose-mysteries",
   "name": {
-    "en-US": "On the Mysteries"
+    "en-US": "On the Mysteries",
+    "pt-BR": "Sobre os Mistérios"
   },
   "author": {
-    "en-US": "Ambrose (340-397)"
+    "en-US": "Ambrose (340-397)",
+    "pt-BR": "Santo Ambrósio (340-397)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Mysteries"
+        "en-US": "On the Mysteries",
+        "pt-BR": "Sobre os Mistérios"
       }
     }
   ]
