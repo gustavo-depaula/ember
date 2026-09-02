@@ -155,6 +155,41 @@ Foi lá que se concentraram os defeitos:
   retas, que é a convenção do corpus para pt-BR (Ambrósio, Kempis e Sales
   também vertem as aspas curvas do en-US para retas).
 
+### Terceira revisão
+
+- **Livro XIII, Cap. XXXVI estava desaparecido.** A divisão em arquivos por
+  capítulo não separou a fronteira XXXV/XXXVI: o §51 ("Mas o sétimo dia é sem
+  entardecer…", o Sábado eterno) ficou anexado ao fim do Cap. XXXV, e o
+  Cap. XXXVI não recebeu nem arquivo nem entrada de TOC. Era o único capítulo
+  da obra inteira ausente do TOC, e a numeração de parágrafos denunciava a
+  falha (Cap. XXXV trazia §50 *e* §51, e o Cap. XXXVII saltava para o §52,
+  quando todos os capítulos vizinhos trazem um parágrafo cada). Conferido
+  contra a edição independente de Pusey/Schaff já presente no corpus
+  (`church-fathers/augustine/confessions`), que traz o §51 como Cap. 36
+  próprio. Separado em ambos os idiomas; a nota de rodapé do en-US
+  (*requiescamus in te*) acompanhou o §51.
+- en-US, Livro VI, Cap. XI: `say[^1]:”O you mighty Academics` — a aspa de
+  fechamento abria o solilóquio, e faltava o espaço após os dois-pontos.
+  Corrigido para `say[^1]: “O you mighty Academics`. O erro não aparecia numa
+  contagem de balanceamento porque os totais de aspas continuavam iguais.
+- en-US, Livro VIII, Cap. II: `‘gainst` / `‘Gainst` nos versos de Virgílio
+  usavam aspa simples de *abertura* onde a elisão de *against* pede apóstrofo
+  (`’gainst` / `’Gainst`). Eram as duas únicas ocorrências em toda a obra em
+  que `‘` não abre uma citação aninhada.
+- pt-BR, Livro VIII, Cap. II: os mesmos versos de Virgílio perderam as aspas
+  que o en-US traz. Era o único bloco de citação (`>`) da obra inteira com
+  aspas num idioma e não no outro.
+- pt-BR, Livro XIII, Cap. XXVI: Fl 4,10 trazia a leitura corrente das
+  Bíblias portuguesas ("mas vos faltava oportunidade"), que contradiz a
+  exegese que Agostinho constrói na frase seguinte. O en-US traz "but it had
+  become a weariness to you", e é dessa leitura que Agostinho tira o "longo
+  período de cansaço em fazer o bem" dos filipenses. Corrigido para "mas isso
+  se vos tornara um cansaço", que reproduz o en-US e devolve o eco com a
+  frase seguinte.
+- en-US, Introdução: `*AugustinsEnchiridion*` → `*Augustins Enchiridion*`
+  (edição crítica de Otto Scheel, 1930) — espaço perdido na importação do
+  CCEL; o pt-BR já trazia a forma correta.
+
 ## Decisões de tradução
 
 - Livro V: "cupbearer" (metáfora para Fausto como fonte de eloquência vazia)
@@ -184,7 +219,7 @@ Foi lá que se concentraram os defeitos:
   fielmente essa mesma estrutura para manter paridade 1:1 entre os idiomas.
   Resolvido: os dois Livros foram separados e a obra inteira foi dividida em
   um arquivo por capítulo em ambos os idiomas, com o Livro XIII recebendo sua
-  própria entrada de TOC e seus 37 capítulos.
+  própria entrada de TOC e seus 38 capítulos.
 
 - Marcadores de nota de rodapé (`[^n]`) e a lista de notas ao final de cada
   arquivo foram removidos de todos os capítulos, conforme a política padrão
