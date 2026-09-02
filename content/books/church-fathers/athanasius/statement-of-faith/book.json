@@ -1,13 +1,16 @@
 {
   "id": "athanasius-statement-of-faith",
   "name": {
-    "en-US": "Statement of Faith"
+    "en-US": "Statement of Faith",
+    "pt-BR": "Declaração de Fé"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Statement of Faith"
+        "en-US": "Statement of Faith",
+        "pt-BR": "Declaração de Fé"
       }
     }
   ]
