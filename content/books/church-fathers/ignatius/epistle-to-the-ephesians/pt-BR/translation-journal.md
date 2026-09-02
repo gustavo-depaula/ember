@@ -23,3 +23,5 @@ Target: pt-BR
 - 2026-09-02: No editor/scholarly footnotes present in the source — chapter headings are original to this edition (Roberts-Donaldson) and were translated as part of the text. No translator notes were needed.
 - 2026-09-02: All Scripture references preserved with the same book/chapter/verse numbers as the English source, book names localized to standard Portuguese Catholic usage (Ephesians → Efésios, Matthew → Mateus, 1/2 Corinthians → 1/2 Coríntios, 1 Peter → 1 Pedro, John → João, Colossians → Colossenses, 1 Timothy → 1 Timóteo, 1 John → 1 João, James → Tiago).
 - 2026-09-02: Bracketed editorial insertions from the source (e.g. "[of Christ]", "[manifested]", "[you hastened to see me]") preserved as brackets in the translation, following the convention of the prior Ignatius translations.
+- 2026-09-02 — **review pass 1** (1 defect found comparing against the en-US source):
+  - Ch. 2: "consservo" (typo, double s) → "conservo" ("fellow-servant," from Latin *conservus*).
