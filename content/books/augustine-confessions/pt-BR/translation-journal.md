@@ -126,6 +126,35 @@ política padrão do pipeline de tradução, essas notas editoriais foram
   com a convenção já usada no cabeçalho principal do Livro Doze.
 - Livro XII: "a proteção protetora" (tautologia) → "o abrigo protetor".
 
+### Segunda revisão (após a divisão em arquivos por capítulo)
+
+A divisão da obra em um arquivo por capítulo expôs o Livro XIII, que até
+então vivia embutido no fim do Livro XII e nunca tinha aparecido no TOC —
+era, por isso, a única parte da obra que nenhuma revisão tinha alcançado.
+Foi lá que se concentraram os defeitos:
+
+- Livro XIII, Cap. IX: **faltava o segundo parágrafo inteiro do §10** (~250
+  palavras) na tradução pt-BR — o trecho do peso e do amor ("O meu peso é o
+  meu amor", *pondus meum amor meus*), do óleo e da água, e do cântico dos
+  degraus. O arquivo pt-BR terminava logo após o primeiro parágrafo.
+  Traduzido e reinserido.
+- Livro XIII, Cap. XI: "quão diferentes **delas** são" → "**dela**" — o
+  referente é a Trindade (feminino singular), não as três coisas; no plural
+  a frase dizia que as três coisas diferem de si mesmas.
+- Livro XIII, Cap. XXIII: "vós fizestes o homem homem e mulher" → "vós
+  fizestes o homem, homem e mulher" (a vírgula desfaz a leitura de palavra
+  duplicada; mantém-se "homem e mulher" por causa do eco de Gl 3,28 na
+  frase seguinte).
+- Livro X, Cap. XXXI: "Tudo posso naquele que me fortalece" → "Tudo posso em
+  **Cristo** que me fortalece" — o en-US traz o nome ("through Christ who
+  strengtheneth me") nesta primeira ocorrência de Fl 4,13; a segunda
+  ocorrência, no mesmo parágrafo, corretamente não o traz.
+- **Aspas padronizadas.** Os Livros I, II, VII e XI, a Introdução e o
+  Testemunho de Agostinho usavam aspas curvas ("…"), herdadas do en-US;
+  os outros nove Livros usavam aspas retas. Todos padronizados em aspas
+  retas, que é a convenção do corpus para pt-BR (Ambrósio, Kempis e Sales
+  também vertem as aspas curvas do en-US para retas).
+
 ## Decisões de tradução
 
 - Livro V: "cupbearer" (metáfora para Fausto como fonte de eloquência vazia)
@@ -148,16 +177,14 @@ política padrão do pipeline de tradução, essas notas editoriais foram
   tratamento reverente estritamente para o endereçamento direto a Deus.
 - Livro XII: cabeçalho corrigido de "Livro Doze" (cardinal) para "Livro
   Décimo Segundo" (ordinal), consistente com book.json e o restante da obra.
-- **Nota estrutural (não corrigida nesta tradução):** o arquivo-fonte
-  `en-US/book-twelve.md` contém, na verdade, o texto completo do Livro XII
-  *e* boa parte do Livro XIII das Confissões (últimos parágrafos ~53 do
-  Livro XIII), tudo sob o único id `book-twelve` do book.json (que não tem
-  entrada TOC separada para um "Livro Décimo Terceiro"). A tradução em
-  pt-BR espelha fielmente essa mesma estrutura do arquivo-fonte en-US, para
-  manter paridade 1:1 entre os idiomas. Trata-se de uma característica
-  pré-existente da importação do en-US, fora do escopo desta tradução —
-  vale abrir uma issue separada para dividir esse arquivo e adicionar a
-  entrada de TOC do Livro XIII em ambos os idiomas.
+- **Nota estrutural (resolvida):** o arquivo-fonte `en-US/book-twelve.md`
+  continha, na verdade, o texto completo do Livro XII *e* o Livro XIII das
+  Confissões, tudo sob o único id `book-twelve` do book.json — que não tinha
+  entrada de TOC para um "Livro Décimo Terceiro". A tradução pt-BR espelhava
+  fielmente essa mesma estrutura para manter paridade 1:1 entre os idiomas.
+  Resolvido: os dois Livros foram separados e a obra inteira foi dividida em
+  um arquivo por capítulo em ambos os idiomas, com o Livro XIII recebendo sua
+  própria entrada de TOC e seus 37 capítulos.
 
 - Marcadores de nota de rodapé (`[^n]`) e a lista de notas ao final de cada
   arquivo foram removidos de todos os capítulos, conforme a política padrão
