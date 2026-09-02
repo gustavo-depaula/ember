@@ -5,8 +5,8 @@
 Then, to encourage me to copy the humility of Christ, which is hidden from the wise and revealed to babes, he told me about Victorinus himself, whom he had known intimately at Rome. And I cannot refrain from repeating what he told me about him. For it contains a glorious proof of thy grace, which ought to be confessed to thee: how that old man, most learned, most skilled in all the liberal arts; who had read, criticized, and explained so many of the writings of the philosophers; the teacher of so many noble senators; one who, as a mark of his distinguished service in office had both merited and obtained a statue in the Roman Forum--which men of this world esteem a great honor--this man who, up to an advanced age, had been a worshiper of idols, a communicant in the sacrilegious rites to which almost all the nobility of Rome were wedded; and who had inspired the people with the love of Osiris and
 
 > “The dog Anubis, and a medley crew  
-> Of monster gods who ‘gainst Neptune stand in arms  
-> ‘Gainst Venus and Minerva, steel-clad Mars,”[^2]  
+> Of monster gods who ’gainst Neptune stand in arms  
+> ’Gainst Venus and Minerva, steel-clad Mars,”[^2]  
 
 whom Rome once conquered, and now worshiped; all of which old Victorinus had with thundering eloquence defended for so many years--despite all this, he did not blush to become a child of thy Christ, a babe at thy font, bowing his neck to the yoke of humility and submitting his forehead to the ignominy of the cross.
 
