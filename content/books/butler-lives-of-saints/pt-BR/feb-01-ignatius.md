@@ -1,4 +1,4 @@
-# 1 de Fevereiro — SANTO INÁCIO, Bispo, Mártir
+# SANTO INÁCIO, Bispo, Mártir
 
 Santo Inácio, Bispo de Antioquia, foi discípulo de São João. Quando Domiciano perseguiu a Igreja, Santo Inácio obteve paz para seu próprio rebanho por meio do jejum e da oração. Mas, por sua parte, ele desejava sofrer com Cristo, e provar-se um discípulo perfeito. No ano 107, Trajano veio a Antioquia, e obrigou os cristãos a escolher entre a apostasia e a morte. "Quem és tu, pobre diabo", disse-lhe o imperador quando Inácio foi trazido à sua presença, "que desprezas as nossas ordens?" "Não o chameis 'pobre diabo'", respondeu Inácio, "a quem traz Deus dentro de si." E quando o imperador lhe perguntou o que queria dizer com isso, Inácio explicou que trazia em seu coração Cristo crucificado por seu amor. Diante disso, o imperador o condenou a ser despedaçado por feras selvagens em Roma. Santo Inácio agradeceu a Deus, que assim o honrara, "ligando-o com as correntes de Paulo, Seu apóstolo".
 

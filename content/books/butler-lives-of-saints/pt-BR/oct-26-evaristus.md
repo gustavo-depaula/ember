@@ -1,6 +1,6 @@
-# 26 de Outubro — SÃO EVARISTO, Papa e Mártir
+# 26 de Outubro — SANTO EVARISTO, Papa e Mártir
 
-SÃO EVARISTO sucedeu a Santo Anacleto na sé de Roma, no reinado de Trajano, governou a Igreja por nove anos, e morreu em 112. A instituição dos cardeais-presbíteros é atribuída por alguns a ele, porque foi o primeiro a dividir Roma em vários títulos ou paróquias, designando um sacerdote para cada uma; também nomeou sete diáconos para assistir o bispo. Conferiu as ordens sagradas três vezes no mês de dezembro, quando essa cerimônia era mais comumente realizada, pois as ordens sagradas sempre eram conferidas em tempos designados para o jejum e a oração. São Evaristo foi sepultado perto do túmulo de São Pedro, no Vaticano.
+SANTO EVARISTO sucedeu a Santo Anacleto na sé de Roma, no reinado de Trajano, governou a Igreja por nove anos, e morreu em 112. A instituição dos cardeais-presbíteros é atribuída por alguns a ele, porque foi o primeiro a dividir Roma em vários títulos ou paróquias, designando um sacerdote para cada uma; também nomeou sete diáconos para assistir o bispo. Conferiu as ordens sagradas três vezes no mês de dezembro, quando essa cerimônia era mais comumente realizada, pois as ordens sagradas sempre eram conferidas em tempos designados para o jejum e a oração. Santo Evaristo foi sepultado perto do túmulo de São Pedro, no Vaticano.
 
 ## Reflexão
 
