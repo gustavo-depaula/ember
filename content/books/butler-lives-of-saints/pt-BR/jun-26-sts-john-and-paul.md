@@ -1,0 +1,7 @@
+# 26 de Junho — SÃO JOÃO e SÃO PAULO, Mártires
+
+ESTES dois Santos eram ambos oficiais no exército sob Juliano, o Apóstata, e receberam a coroa do martírio, provavelmente em 362. Glorificaram a Deus por uma dupla vitória; desprezaram as honras do mundo, e triunfaram sobre suas ameaças e tormentos. Viram muitos homens perversos prosperar em sua impiedade, mas não se deixaram deslumbrar por seu exemplo. Consideravam que a prosperidade mundana que acompanha a impunidade no pecado é o mais terrível dos julgamentos; e quão falsa e efêmera foi essa reluzente prosperidade de Juliano, que num momento caiu na cova que ele mesmo havia cavado! Mas os mártires, pelo trabalho passageiro de seu combate, compraram um imenso peso de glória imperecível; seus tormentos foram, por sua heroica paciência e virtude e fidelidade invencíveis, um espetáculo digno de Deus, que os contemplava do trono de sua glória, e mantinha seu braço estendido para fortalecê-los, e para pôr sobre suas cabeças coroas imortais no feliz momento de sua vitória.
+
+## Reflexão
+
+Os Santos sempre consideraram que nada haviam feito por Cristo enquanto não tivessem resistido até o sangue, e completado seu sacrifício derramando a última gota. Toda ação de nossas vidas deveria nascer desse fervoroso motivo, e deveríamos consagrar-nos ao serviço divino com toda a nossa força; devemos sempre ter em mente que devemos a Deus tudo o que somos, e, depois de tudo o que possamos fazer, somos servos inúteis, e fazemos apenas o que somos obrigados a fazer.

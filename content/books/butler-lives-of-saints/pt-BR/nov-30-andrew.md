@@ -1,0 +1,7 @@
+# 30 de Novembro — SANTO ANDRÉ, Apóstolo
+
+SANTO ANDRÉ foi um dos pescadores de Betsaida, e irmão, talvez irmão mais velho, de São Pedro, e tornou-se discípulo de São João Batista. Parecia sempre ansioso por dar a conhecer os outros; quando ele próprio foi chamado por Cristo às margens do Jordão, seu primeiro pensamento foi ir em busca de seu irmão, e disse: "Achamos o Messias", e o levou a Jesus. Foi ele também quem, quando Cristo quis alimentar os cinco mil no deserto, indicou o rapazinho com os cinco pães e os peixes. Santo André partiu em sua missão para implantar a Fé na Cítia e na Grécia, e, ao fim de anos de trabalho, alcançar a coroa do martírio. Depois de sofrer um cruel açoitamento em Patras, na Acaia, foi deixado, atado por cordas, para morrer sobre uma cruz. Quando Santo André avistou pela primeira vez o patíbulo em que devia morrer, saudou com alegria a preciosa madeira. "Ó boa cruz!", exclamou, "embelezada pelos membros de Cristo, há tanto tempo desejada, agora tão felizmente encontrada! Recebe-me em teus braços e apresenta-me a meu Mestre, para que Aquele que me redimiu por ti me receba agora de ti." Dois dias inteiros o mártir permaneceu pendurado nessa cruz, vivo, pregando, de braços estendidos, desde essa cátedra de verdade, a todos os que dela se aproximavam, e suplicando-lhes que não impedissem sua paixão.
+
+## Reflexão
+
+Se quisermos fazer o bem aos outros, devemos, como Santo André, manter-nos junto à cruz.

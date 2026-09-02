@@ -1,0 +1,7 @@
+# 22 de Novembro — SANTA CECÍLIA, Virgem, Mártir
+
+NA noite de seu casamento, com a música do hino nupcial ainda ressoando em seus ouvidos, Cecília, rica, bela e nobre donzela romana, renovou o voto pelo qual havia consagrado sua virgindade a Deus. "Puro seja meu coração e imaculada minha carne; pois tenho um esposo que não conheceis — um anjo do meu Senhor." O coração de seu jovem esposo Valeriano se comoveu com suas palavras; ele recebeu o Batismo, e dentro de poucos dias ele e seu irmão Tiburtius, a quem ele havia levado ao conhecimento da Fé, selaram sua confissão com o próprio sangue. Restava apenas Cecília. "Não sabes", foi sua resposta às ameaças do prefeito, "que sou a esposa de meu Senhor Jesus Cristo?" A morte a ela destinada foi a sufocação, e ela permaneceu um dia e uma noite em um banho de ar quente, aquecido sete vezes mais do que o costume. Mas "as chamas não tiveram poder sobre seu corpo, nem sequer um cabelo de sua cabeça foi chamuscado." O lictor enviado para executá-la desferiu, com mão trêmula, os três golpes permitidos pela lei, e a deixou ainda viva. Por dois dias e duas noites, Cecília jazeu com a cabeça quase decepada, sobre o pavimento de seu banho, plenamente consciente, e aguardando com alegria sua coroa; ao terceiro dia a agonia terminou, e no ano de 177 a virgem Santa devolveu seu espírito puro a Cristo.
+
+## Reflexão
+
+Santa Cecília nos ensina a alegrar-nos em cada sacrifício como penhor de nosso amor a Cristo, e a acolher os sofrimentos e a morte como aceleradores de nossa união com Ele.

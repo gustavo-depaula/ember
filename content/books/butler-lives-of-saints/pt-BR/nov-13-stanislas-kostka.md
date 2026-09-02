@@ -1,0 +1,7 @@
+# 13 de Novembro — SÃO ESTANISLAU KOSTKA
+
+SÃO ESTANISLAU era de nobre família polonesa. Aos quatorze anos, foi com seu irmão mais velho, Paulo, para o Colégio dos Jesuítas em Viena; e, embora Estanislau fosse sempre alegre e de temperamento doce, suas austeridades eram sentidas como reprovação por Paulo, que o maltratava vergonhosamente. Esses maus-tratos, somados às suas próprias penitências, provocaram-lhe uma doença perigosa, e, estando em uma casa luterana, não conseguiu mandar chamar um sacerdote. Lembrou-se então de ter lido sobre sua padroeira, Santa Bárbara, que jamais permite que seus devotos morram sem o Santo Viático: apelou devotamente à sua ajuda, e ela lhe apareceu com dois anjos, que lhe deram a Sagrada Hóstia. Foi curado dessa doença pela própria Nossa Senhora, que lhe ordenou entrar na Companhia de Jesus. Para evitar a oposição do pai, viu-se obrigado a fugir de Viena; e, tendo provado sua constância ao desempenhar alegremente os ofícios mais humildes, foi admitido ao noviciado em Roma. Ali viveu por dez breves meses, marcados por rara piedade, obediência e devoção ao seu instituto. Morreu, como havia rezado para morrer, na festa da Assunção, em 1568, aos dezessete anos de idade.
+
+## Reflexão
+
+São Estanislau nos ensina que, em toda provação da vida, e sobretudo na hora da morte, devemos recorrer ao nosso Santo padroeiro, e confiar sem temor em seu auxílio.

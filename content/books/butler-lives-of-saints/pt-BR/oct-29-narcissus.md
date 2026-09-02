@@ -1,0 +1,7 @@
+# 29 de Outubro — SÃO NARCISO, Bispo
+
+SÃO NARCISO foi consagrado Bispo de Jerusalém por volta do ano 180. Já era um homem idoso, e Deus atestou seus méritos por muitos milagres, que por muito tempo foram guardados na memória dos cristãos de Jerusalém. Certo Sábado Santo, na igreja, os fiéis estavam em grande aflição, porque não se encontrava azeite para as lâmpadas usadas na festa pascal. São Narciso mandou que tirassem água de um poço próximo, e, orando sobre ela, disse-lhes que a colocassem nas lâmpadas. Ela se transformou em azeite, e por muito tempo depois parte desse azeite foi conservada em Jerusalém em memória do milagre. Mas a própria virtude do Santo lhe granjeou inimigos, e três homens perversos o acusaram de um crime atroz. Confirmaram seu testemunho com horríveis imprecações: o primeiro rogou que perecesse pelo fogo, o segundo que fosse consumido pela lepra, o terceiro que ficasse cego, caso acusassem falsamente seu bispo. O santo bispo há muito desejava uma vida de solidão, e retirou-se secretamente para o deserto, deixando a Igreja em paz. Mas Deus falou por Seu servo, e os acusadores do bispo sofreram as penas que haviam invocado. Então Narciso voltou a Jerusalém e retomou seu ofício. Morreu em idade extremamente avançada, bispo até o fim.
+
+## Reflexão
+
+Deus jamais falha com aqueles que Nele confiam; Ele os guia pelas trevas e pelas provações, secreta e seguramente, até seu fim, e ao entardecer há luz.

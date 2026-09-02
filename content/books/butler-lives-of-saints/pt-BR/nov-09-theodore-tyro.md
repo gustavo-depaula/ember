@@ -1,0 +1,7 @@
+# 9 de Novembro — SÃO TEODORO TIRO, Mártir
+
+SÃO TEODORO nasceu de família nobre no Oriente, e foi alistado, ainda jovem, no exército imperial. No início de 306, o imperador promulgou um edito exigindo que todos os cristãos oferecessem sacrifício, e Teodoro, que acabara de juntar-se à legião e marchara com ela até o Ponto, viu-se então diante da escolha entre a apostasia e a morte. Declarou perante seu comandante que estava pronto a ser cortado em pedaços e a oferecer cada um de seus membros a seu Criador, que havia morrido por ele. Querendo vencê-lo pela brandura, o comandante deixou-o em paz por algum tempo, para que refletisse sobre sua resolução; mas Teodoro aproveitou sua liberdade para incendiar o grande templo de Ísis, e não fez segredo desse ato. Ainda assim, seu juiz suplicou-lhe que renunciasse à sua fé e salvasse a vida; mas Teodoro fez o sinal da cruz e respondeu: "Enquanto eu tiver fôlego, confessarei o nome de Cristo." Depois de cruéis tormentos, o juiz mandou-o pensar na vergonha a que Cristo o havia levado. "Essa vergonha," respondeu Teodoro, "eu e todos os que invocam seu nome recebemos com alegria." Foi condenado a ser queimado. Ao se elevar a chama, um cristão viu sua alma subir ao céu como um lampejo de luz.
+
+## Reflexão
+
+Estamos alistados no mesmo serviço que os santos mártires, e nós também devemos ter coragem e constância se quisermos ser perfeitos soldados de Jesus Cristo. Tomemos parte com eles em confessar a fé de Cristo e em desprezar o mundo, para que tenhamos parte com eles no reino de Cristo.

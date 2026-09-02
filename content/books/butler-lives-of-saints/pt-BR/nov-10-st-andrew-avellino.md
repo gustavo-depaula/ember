@@ -1,0 +1,7 @@
+# 10 de Novembro — SANTO ANDRÉ AVELINO
+
+APÓS uma santa juventude, Lancelote Avelino foi ordenado padre em Nápoles. Aos trinta e seis anos, entrou na Ordem dos Teatinos, e tomou o nome de André, para mostrar seu amor pela cruz. Por cinquenta anos foi afligido por uma dolorosíssima hérnia; contudo, jamais quis usar carruagem. Certa vez, quando levava o Viático e uma tempestade havia apagado as lamparinas, uma luz celestial o envolveu, guiou seus passos e o protegeu da chuva. Mas, via de regra, seus sofrimentos não eram aliviados nem por Deus nem pelos homens. No último dia de sua vida, Santo André levantou-se para dizer Missa. Estava em seu octogésimo nono ano, e tão fraco que mal conseguia alcançar o altar. Começou o "Judica," e caiu para frente, acometido de apoplexia. Deitado sobre um colchão de palha, todo o seu corpo se contorcia em agonia, enquanto o demônio, em forma visível, avançava para tomar-lhe a alma. Então, enquanto seus irmãos rezavam e choravam, ouviu-se a voz de Maria, ordenando ao anjo da guarda do Santo que mandasse o tentador de volta ao inferno. Um sorriso calmo e santo assentou-se nos traços do Santo moribundo, que, com uma saudação de gratidão à imagem de Maria, entregou a alma a Deus. Sua morte ocorreu em 10 de novembro de 1608.
+
+## Reflexão
+
+Santo André, que sofreu agonia tão terrível, é o padroeiro especial contra a morte súbita. Pede-lhe que esteja contigo em tua última hora, e que traga Jesus e Maria em teu socorro.
