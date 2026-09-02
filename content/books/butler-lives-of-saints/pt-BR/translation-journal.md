@@ -134,3 +134,12 @@ A mechanical sweep comparing every `book.json` pt-BR TOC title against its chapt
 | `jun-28-iren-us` | "em companhia de alguns sacerdotes" | "em companhia de um sacerdote" | en-US "in company with **some priest**" — archaic singular ("a certain priest"), not a plural |
 
 Reviewer note: archaic English singulars ("some priest", "a certain man") and period military/civil ranks are the two places this text most easily goes wrong in translation — neither reads as an error in isolation, only against the en-US.
+
+### Content corrections (round 10)
+
+| File | Was | Now | Why |
+|------|-----|-----|-----|
+| `nov-02-malachi` | "ele **mandou celebrar** muitas Missas por ela" | "ele **celebrou** muitas Missas por ela" | en-US "he said many Masses for her" — Malaquias, a bishop, offered them himself. "Mandou celebrar" hands the Masses to someone else, and contradicts the next sentence, where he is the one who "oferecera o Adorável Sacrifício" |
+| `nov-19-elizabeth-of-hungary` | "criada na corte de **seu** pai" | "criada na corte do **pai dele**" | en-US "brought up in **his** father's court" — Louis's father. Portuguese "seu" attaches to the sentence subject (Isabel), reversing the fact: she was raised at the Thuringian court, not her own father's in Hungary |
+
+Reviewer note: English possessives (`his`/`her`) collapse into Portuguese `seu`, which then reattaches to the subject. Any `seu` rendering a cross-referent possessive needs `dele`/`dela` or the name spelled out — this class survived four review rounds precisely because the Portuguese reads perfectly well.
