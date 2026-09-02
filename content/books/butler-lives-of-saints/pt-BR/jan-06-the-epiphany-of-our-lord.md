@@ -4,4 +4,4 @@ A PALAVRA Epifania significa "manifestação", e passou a ser aceita universalme
 
 ## Reflexão
 
-Admirai o poder onipotente deste pequenino Menino, que, desde o berço, faz conhecer sua vinda aos pastores e aos magos — aos pastores por meio de seu anjo, aos magos por uma estrela no Oriente. Admirai a docilidade desses reis. Jesus nasce; eis-nos a seus pés? Sejamos pequenos, escondamo-nos, e a força divina nos será concedida. Sejamos dóceis e prontos em seguir as inspirações divinas, e então nos tornaremos sábios da sabedoria de Deus, poderosos em seu poder onipotente.
+Admirai o poder onipotente deste pequenino Menino, que, desde o berço, faz conhecer sua vinda aos pastores e aos magos — aos pastores por meio de seu anjo, aos magos por uma estrela no Oriente. Admirai a docilidade desses reis. Jesus nasce; ei-los a seus pés? Sejamos pequenos, escondamo-nos, e a força divina nos será concedida. Sejamos dóceis e prontos em seguir as inspirações divinas, e então nos tornaremos sábios da sabedoria de Deus, poderosos em seu poder onipotente.
