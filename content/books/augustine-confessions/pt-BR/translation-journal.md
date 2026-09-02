@@ -126,6 +126,81 @@ política padrão do pipeline de tradução, essas notas editoriais foram
   com a convenção já usada no cabeçalho principal do Livro Doze.
 - Livro XII: "a proteção protetora" (tautologia) → "o abrigo protetor".
 
+### Terceira revisão (auditoria completa dos 291 capítulos)
+
+Revisão exaustiva de cada capítulo nos dois idiomas. As verificações
+mecânicas (contagem de parágrafos, cabeçalhos, blocos de citação, numeração
+dos parágrafos, aspas curvas, marcadores de nota remanescentes, mojibake)
+passaram limpas em toda a obra; os defeitos abaixo são semânticos e só
+apareceram na leitura frase a frase.
+
+**Estrutura (afetava os dois idiomas):**
+
+- **O Livro XIII não tinha o Capítulo XXXVI.** O §51 ("Mas o sétimo dia é
+  sem entardecer...") vivia dentro do arquivo do Capítulo XXXV, sem
+  cabeçalho próprio e sem entrada no TOC — resquício da importação do CCEL.
+  Era a única lacuna de numeração de capítulo em toda a obra. O §51 foi
+  extraído para `book-thirteen-chapter-36.md` nos dois idiomas e a entrada
+  correspondente foi criada no `book.json`.
+- `pt-BR/style.css` não existia (só o `en-US/` tinha a folha de estilo
+  compartilhada). Copiada, para paridade entre os diretórios de idioma.
+
+**Traduções corrigidas:**
+
+- Livro VIII, Cap. IX: "porque **nenhuma** delas é inteira" → "porque
+  **uma** delas não é inteira". O en-US diz "one of them is not whole"
+  (lat. *quia una earum tota non est*): no plural, a frase negava a própria
+  tese das duas vontades, dizendo que nenhuma das duas é inteira.
+- Livro X, Cap. XLIII: "Quanto **Vos** amastes a nós" → "Quanto **nos**
+  amastes" (duas ocorrências no mesmo parágrafo). O objeto de "amar" aqui
+  somos nós, não Deus; o clítico reverente invertia o sentido da frase
+  ("How hast thou loved us").
+- Livro VII, Cap. X: "como que por uma **traça**" → "por uma **aranha**".
+  O en-US traz "as though by a spider", seguindo a Vulgata (Sl 38,12,
+  *sicut araneam*); "traça" vem da tradição que segue o hebraico e não a
+  fonte que estamos traduzindo.
+- Livro X, Cap. XXIII: "de tal modo que **expôs**" → "**exporá**". O
+  pretérito destoava de "retribuirá" e "não se revelará", que regem a frase
+  no futuro.
+- Livro VIII, Cap. VI: "quão cercada de perigo é essa **glória**" → "quão
+  cercado de perigo é esse **orgulho**" ("that pride"); "glória" neutraliza
+  o juízo moral que Agostinho faz da amizade do imperador.
+- Livro VI, Cap. VI: "dando **boas-vindas** aos transeuntes" → "**desejando
+  felicidades** aos transeuntes". "Good wishes" é a bênção com que o mendigo
+  ganhava o vinho, não a saudação a quem chega.
+- Livro XIII, Cap. XIX: "**Corram** por toda parte" (duas ocorrências) →
+  "**Correi**", para não misturar o imperativo de "vocês" com os de "vós"
+  do mesmo parágrafo (*segui-o*, *confundi*, *brilhai*, *proclamai*,
+  *dai-vos*).
+
+**Ênfases em itálico perdidas** (o en-US italiza a palavra no corpo do
+texto; o pt-BR a havia deixado em redondo, desfazendo o contraste):
+
+- Livro XI, Cap. XV: quatro ênfases no §18 — "*É* longo" / "*Foi* longo" /
+  "*Será* longo" e "quando era presente, *era* longo". Aqui o itálico não é
+  decorativo: é o contraste de tempos verbais em que se apoia todo o
+  argumento.
+- Livro V, Cap. XIV: "quão *verdadeiramente* ele falava" (contraste com o
+  "habilmente" da frase anterior).
+- Livro IX, Cap. X: "não seria *isto* a realidade daquilo que se diz".
+- Livro X, Cap. XXXV: "são ditas *vistas*" — estava entre aspas em vez de
+  itálico, divergindo do resto do corpus.
+
+**Defeitos do próprio en-US corrigidos** (o pt-BR já estava certo em todos,
+sinal de que a tradução foi feita contra o sentido, não contra a errata):
+
+- Livro VII, Cap. XIII: "**things** of the earth" → "**kings** of the earth"
+  (Sl 148,11; o pt-BR já trazia "os reis da terra").
+- Livro VII (resumo de abertura): "the **stud** of Neoplatonism" → "study".
+- Livro X, Cap. IV: "the Selfsame who **didst** beget me" → "did beget"
+  (o sujeito é de 3ª pessoa, como o "watcheth" seguinte).
+- Introdução: "*AugustinsEnchiridion*" → "*Augustins Enchiridion*".
+- Testemunho de Agostinho: espaço faltante depois do marcador de nota.
+- Livro II, Cap. V (nota): a citação "ne per otium torpescerent manus aut
+  animus" é de **Salústio**, *Bellum Catilinae* 16, não de Cícero.
+- Livro XIII, Cap. XXVII (nota): "*Neue **kirkliche** Zeitschrift*" →
+  "*kirchliche*".
+
 ### Segunda revisão (após a divisão em arquivos por capítulo)
 
 A divisão da obra em um arquivo por capítulo expôs o Livro XIII, que até
