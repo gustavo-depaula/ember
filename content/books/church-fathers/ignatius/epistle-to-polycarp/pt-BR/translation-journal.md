@@ -13,7 +13,8 @@ Target: pt-BR
 | bishop | bispo | |
 | presbyters / deacons | presbíteros / diáconos | |
 | athlete [of God/Christian life] | atleta [de Deus / na vida cristã] | Ignatius's athletic metaphor kept literal throughout (2 uses) |
-| panoply | panóplia | kept as a direct cognate — a recognized (if elevated) Portuguese word for "complete armor," matching the military/armor imagery of the passage (batismo/armadura, fé/elmo, amor/lança) |
+| my soul be for [yours/theirs] | que a minha alma seja [pela tua / pelos que…] | Ignatius's *ἀντίψυχον* formula, used twice (Ch. 2 of Polycarp, Ch. 6 of the obedient flock). Rendered with the same construction in both places — it is a self-offering ("let my life stand in place of theirs"), not a pledge of accountability (*responder por*) |
+| panoply | panóplia | kept as a direct cognate — a recognized (if elevated) Portuguese word for "complete armor," matching the military/armor imagery of the passage (batismo/armas, fé/elmo, amor/lança) |
 | the will [of the emperor] | a vontade [do imperador] | editorial bracket from the source kept as-is |
 | arms / helmet / spear / panoply | armas / elmo / lança / panóplia | Chapter 6's armory list — "arms" is *armas* (weapons), not *armadura* (armor), which would collide with *panóplia completa* closing the same list |
 
@@ -31,4 +32,9 @@ Target: pt-BR
   - Ch. 7: "most blessed in God" had dropped the superlative → *muito bem-aventurado em Deus* (plain form preferred over the ecclesiastical *beatíssimo*, to match this translation's modern register).
   - Ch. 5: "discourse in public regarding them" had been rendered *contra elas* (against them), narrowing the source; Greek *περὶ τούτων* is "concerning these" → *a respeito delas*. The connective *ou antes* is kept as a good rendering of *μᾶλλον δέ*.
   - Ch. 5: "after their own lust" had dropped the possessive → *segundo a própria concupiscência*.
+- 2026-09-02 — **second review pass corrections** (3 defects the first pass missed):
+  - Ch. 6: "My soul be for theirs that are submissive to the bishop" had been rendered *responda pelos* ("vouch for" / "answer for"), turning Ignatius's self-oblation into a pledge of accountability. It is the same *ἀντίψυχον* formula already rendered *que a minha alma seja pela tua* in Ch. 2, so the two uses had also drifted apart → *que a minha alma seja pelos que são submissos*.
+  - Ch. 4: "Let your assembling together be of frequent occurrence" had been rendered *mais frequentes do que têm sido*, which asserts that past assemblies were too infrequent — a comparison the source does not make. (The Greek *πυκνότερον* is comparative, but this translation follows the ANF English, which renders it as a plain call for frequency.) → *sejam frequentes*.
+  - Ch. 4: "which indeed you do not" had been rendered *já não fazes*; in Portuguese *já não* reads "no longer," implying a past change in Polycarp's conduct that the source does not describe → *o que, de fato, não fazes*.
+- 2026-09-02 — **checked and deliberately left alone** in the second pass: the straight double quotes in Ch. 2 (every pt-BR translation in the corpus uses straight quotes even where its en-US source carries curly ones — house convention, not a defect), and the travessões added in Ch. 4 and Ch. 8 (standard Portuguese punctuation for parenthetical asides; the source's clause structure is preserved).
 - 2026-09-02: All Scripture references preserved with the same book/chapter/verse numbers as the English source, book names localized to standard Portuguese Catholic usage (1 Thessalonians 5:17 → 1 Tessalonicenses 5:17; Matthew 10:16 → Mateus 10:16; 1 Timothy 1:3 / 6:3 → 1 Timóteo 1:3 / 6:3; Ephesians 5:25 → Efésios 5:25; 1 Corinthians 10:31 → 1 Coríntios 10:31).
