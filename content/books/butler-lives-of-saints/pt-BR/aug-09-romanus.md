@@ -4,4 +4,4 @@ SÃO ROMANO era soldado em Roma na época do martírio de São Lourenço. Vendo 
 
 ## Reflexão
 
-Somos obrigados a glorificar a Deus por nossas vidas, e Cristo ordena que nossas boas obras resplandeçam diante dos homens. Era costume dizer do apóstolo São Matias: "O fiel peca se seu próximo pecar." Tal deveria ser o zelo de cada um para instruir e edificar o próximo, tanto por palavra quanto por exemplo.
+Somos obrigados a glorificar a Deus por nossas vidas, e Cristo ordena que nossas boas obras resplandeçam diante dos homens. Era costume do apóstolo São Matias dizer: "O fiel peca se seu próximo pecar." Tal deveria ser o zelo de cada um para instruir e edificar o próximo, tanto por palavra quanto por exemplo.
