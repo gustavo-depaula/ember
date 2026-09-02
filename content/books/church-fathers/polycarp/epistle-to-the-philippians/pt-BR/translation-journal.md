@@ -1,0 +1,36 @@
+# Translation Journal — Epistle to the Philippians (pt-BR)
+
+Source: en-US (trans. Alexander Roberts and James Donaldson, Ante-Nicene Fathers, Vol. 1; via New Advent)
+Target: pt-BR
+
+## Key Terms
+
+| English | Portuguese | Notes |
+|---------|------------|-------|
+| Epistle to the Philippians | Carta aos Filipenses | matches the register set by `ignatius/epistle-to-the-romans/pt-BR` ("Carta aos Romanos") and `ignatius/epistle-to-polycarp/pt-BR` ("Carta a Policarpo") |
+| Valens (proper name) | Valente | standard Portuguese form of the Latin praenomen (cf. Emperor "Valente" for Valens) |
+| Docetæ | Docetas | adherents of Docetism; kept as the standard Portuguese term, not translated as a description |
+| Zosimus / Rufus (proper names) | Zósimo / Rufo | standard Portuguese forms |
+| Crescens (proper name) | Crescente | standard Portuguese form |
+| sojourning [Church] | peregrina | matches Catholic usage of "Igreja peregrina" for a local church "sojourning" in a place |
+| forbearance | tolerância | one item in the six-fold list in Ch. 12 ("meekness, gentleness, patience, long-suffering, forbearance, and purity" → "mansidão, brandura, paciência, longanimidade, tolerância e pureza") — kept distinct from "paciência" (patience) and "longanimidade" (long-suffering), which cover adjacent but separate items in the same list |
+| the wheat of God (n/a — not in this letter) | — | cf. `epistle-to-the-romans` glossary; not applicable here |
+
+## Translation Decisions
+
+- 2026-09-02: Third Ignatian-era Apostolic Fathers translation into pt-BR (after `ignatius/epistle-to-polycarp` and `ignatius/epistle-to-the-romans`). Reused that register and the "Carta a/aos ___" title convention.
+- 2026-09-02 — **address form**: the letter is addressed throughout to the whole "Church of God sojourning at Philippi," a collective addressee. Rendered with plural **"vós"** consistently for the whole letter (no singular "tu" anywhere), matching the convention used for `epistle-to-the-romans` (also addressed to a whole church).
+- 2026-09-02: All Scripture references present in the English source (chapter:verse citations inline after a quotation) were preserved and localized to standard Portuguese Catholic book names (e.g., "1 Peter" → "1 Pedro", "Philippians" → "Filipenses", "Tobit" → "Tobias" — Tobias is canonical in the Catholic Bible). Positioned identically, mid-sentence, immediately after the quoted phrase they support, exactly as in the English source.
+- 2026-09-02: No editor/scholarly footnotes present in this edition — a single continuous letter with a greeting and 14 chapter headings, all original to the text and translated as part of it. No translator notes were needed.
+- 2026-09-02: Ch. 9's title, "Patience inculcated," uses a distinct (passive/participial) construction from the other "exhortation" chapter titles (4, 10, 12) in the English source. Rendered as "A paciência inculcada" to preserve that distinction rather than flattening it to another "Exortação à paciência."
+- 2026-09-02: "man-pleaser"-type constructions and other idioms from the sibling Ignatian letters do not occur in this text — no analogous decision needed here.
+- 2026-09-02 — **review pass corrections** (2 defects found on independent review round 2, after round 1 came back clean):
+  - Ch. 13: "he should carry your letter with him" had been rendered "deveria levar **convosco** a vossa carta" ("with you [pl.]," i.e. with the Philippians) — wrong pronoun, inverting the sense: the letter travels *with the messenger* to Syria, not with the Philippians who stay behind → corrected to "deveria levar **consigo** a vossa carta."
+  - Ch. 14: the closing valediction "Be safe in the Lord Jesus Christ" (an old-fashioned farewell, equivalent to Latin *valete*, not a soteriological claim) had been rendered "**Sede salvos** no Senhor Jesus Cristo," which injects the specific theological sense of "saved" not present in the English farewell → corrected to "**Passai bem** no Senhor Jesus Cristo," matching the farewell register used for the same construction in `ignatius/epistle-to-the-romans/pt-BR` ("Passai bem até o fim...").
+- 2026-09-02 — **review pass corrections, ch. 9 bracket** (found on rounds 4 and 5): Ch. 9's "such as you have seen **[set]** before your eyes" went through two fix attempts:
+  - Round 4 found the bracket misplaced onto "**[diante]**" ("before"), an essential word whose removal left the ungrammatical "vistes dos vossos olhos" — first fix dropped the bracket entirely, since "diante dos vossos olhos" is simply the literal translation of "before your eyes," not an insertion.
+  - Round 5 then flagged the dropped bracket as a completeness gap (14 bracket pairs in en-US vs. 13 in pt-BR). Settled by adding back a bracketed word that (a) restores 1:1 bracket-pair parity, (b) leaves a grammatical base sentence when removed ("tal como vistes diante dos vossos olhos"), and (c) gender-agrees with the antecedent "paciência" (feminine): "tal como vistes **[posta]** diante dos vossos olhos" — "posta" (fem.) rather than "posto" (masc.), since "set" describes the patience being displayed, not "Inácio" or another masculine noun.
+  - Round 6 confirmed this bracket placement is now clean: the base sentence is grammatical in both languages with the bracket removed, and "posta" correctly agrees with "paciência."
+- 2026-09-02 — **review pass correction, greeting agreement** (found on round 6): the greeting's compound subject "Misericórdia... e paz..." (two feminine singular nouns) took a singular verb, "seja multiplicada" — a concordância-verbal error; a compound subject takes a plural verb in Portuguese, matching the standard Catholic Portuguese Bible's rendering of the same epistolary-greeting formula (1 Pedro 1:2 etc., "Graça e paz vos sejam multiplicadas") → corrected to "sejam multiplicadas."
+- 2026-09-02 — **review pass correction, dropped conjunction** (found on round 8, after round 7 came back clean): Ch. 11's "which alone then knew the Lord; **but** we [of Smyrna] had not yet known Him" dropped the adversative "but," leaving only a semicolon between the two clauses in pt-BR → added "mas": "...conheciam o Senhor; **mas** nós [de Esmirna] ainda não o conhecíamos."
+- 2026-09-02 — **final state**: 10 independent review rounds run in total. Rounds 1, 3, 7, 9, 10 came back clean; rounds 2, 4, 5, 6, 8 each found one or two genuine, narrow defects (wrong pronoun, mistranslated valediction, a bracket-placement/completeness back-and-forth in ch. 9, a subject-verb agreement error, a dropped conjunction), all fixed and re-verified. Rounds 9 and 10 are the final two consecutive clean rounds — translation considered stable.
