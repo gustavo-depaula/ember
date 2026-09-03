@@ -26,3 +26,18 @@ Target: pt-BR
 - Left "haines subsistent" in the source as "nomes subsistentes" ("names subsistent") — read this as an OCR/typographical artifact of "names" in the New Advent digitization; the surrounding argument (Father/Son/Spirit as subsistent names/persons) makes "names" the only sense that fits.
 - No editor footnotes present in the source to drop; no author footnotes to preserve. Single unbroken paragraph in the source preserved as a single paragraph in the translation.
 - No translator notes added — the text, while doctrinally dense, doesn't require glosses a general reader couldn't get from context.
+
+## Post-Merge Review Corrections
+
+A review pass after the initial merge found six objective defects, all of them fluent, correctly-accented Portuguese that said something subtly wrong. Recorded here so the same readings aren't re-derived later:
+
+| Was | Now | Why |
+|-----|-----|-----|
+| Vejo em todos os **três o essencial** | Vejo em **todas as coisas três elementos essenciais** | "I see in all three essentials" attaches *all* to an elliptical noun, not to *three*: the sense is "in all things, three essentials", which the following illustration confirms (man/servant/curator is one referent under three headings). The old reading gave "os três" an antecedent that doesn't exist yet — the Divine Persons are introduced two sentences later. |
+| quase sucessor dos apóstolos | **sucessor próximo** dos apóstolos | "Near successor" is the adjective of proximity — Gregory placed close to the apostolic origin in the line of succession. *Quase* ("almost") inverts a patristic honorific into a hedge about whether he was a successor at all. |
+| são chamadas **a** Santíssima Trindade | são chamadas Santíssima Trindade | With *chamar* + predicative, the article makes "a" parse as the preposition, giving "called **to** the Holy Trinity". |
+| e **estes** são também nomes subsistentes | e **estas** são também nomes subsistentes | Antecedent is "Todas (as pessoas)", with correct feminine agreement on *são chamadas* in the same clause. The demonstrative agrees with the antecedent, not with the predicative *nomes*. |
+| nem tampouco aos nomes, **pois** estes são eternos | nem tampouco aos nomes, **mas** estes são eternos | The source's adversative "but" had become causal. Every other "but" in the fragment is *mas*. |
+| inseparáve**l** e ilimitadamente | inseparave**lmente** e ilimitadamente | An adjective coordinated with an adverb, where the source has two adverbials ("inseparably and without limit"). *Inseparavelmente* is already the form used three times elsewhere in `church-fathers/*/pt-BR`. |
+
+Nothing in `en-US/ch001.md` was touched: the two peculiarities noted above (the Matthew 3:17 / "on the mount" pairing and "haines subsistent") belong to the imported public-domain Salmond text, not to this translation.
