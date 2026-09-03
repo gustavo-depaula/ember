@@ -718,6 +718,68 @@ English wording was carried over mechanically.
     two-consecutive-clean-round count remains at zero. At least one
     clean Ch. 1–4 round followed by one more clean round in either
     range is still needed before review can close.
+- 2026-09-03 — **review round 11** (independent, adversarial, Ch. 1–4
+  only — the tenth pass over this range). Re-verified every prior fix
+  in this range with exact current wording — the full "tradetur"/
+  "salus"/"Iudaeus bibit et sitit"/"buccella" family from rounds 1–3,
+  the "ut sint quae erant" both-clauses fix, the Judges 13:19–20
+  citation fix, all five round-7 citation fixes, all three round-8
+  fixes (including the *vós*-register "O salutaris hostia — que
+  **abris** a porta do céu… **dai**-nos força, **trazei**-nos socorro"
+  stanza), and all eleven round-9 John 6:54–69 citation fixes — all
+  confirmed correctly and completely in place, no drift. Gave the John
+  6:54–69 cluster (Ch. 2, Readings 7–9) yet another dedicated pass,
+  this time checking every `[Vers. N]` header and inline `(Jo 6:N)`
+  citation directly against every verse of John 6:35, 48–61, 63–69 in
+  `content/bible/drb/john.json` one at a time — the entire cluster
+  matches the DRB text exactly, no new errors. Ran a full fresh
+  sentence-by-sentence fidelity read (tense, mood, negation,
+  subject/object direction, theological terms) of all of Ch. 1–4
+  against `la/`, including close attention to subtle tense shifts
+  previously easy to miss — e.g. the Ch. 2 Responsory after Reading 9's
+  deliberate present-tense *"ipse vivit propter me"* correctly kept
+  distinct in Portuguese ("ele vive por minha causa") from the
+  Reading 8 text's future *"et ipse vivet propter me"* ("ele mesmo
+  viverá por minha causa"), and the Ch. 3 hymn *Verbum supernum*'s
+  stanza 4 shift from implied-perfect ("deu-se," "morrendo, como
+  preço") to the final clause's genuine present tense *"se regnans dat
+  in praemium"* → "reinando, **dá-se** como recompensa" (correctly
+  present, not "deu-se"). Found no defects in the prose.
+  Ran an exhaustive citation sweep of every bracket/parenthetical
+  scripture reference in Ch. 1–4 against `content/bible/drb/*.json`
+  (Genesis 14:18–19, 49:20; Exodus 12:6–9, 16:14–15, 25:23–24/30;
+  Leviticus 21:6; 1 Samuel 14:27; Psalms 22:5, 32:9, 77:19–20/24–25,
+  80:17, 103:13–15/27, 110:4–5; Isaiah 25:6, 55:1–2; Jeremiah 11:15;
+  Canticles 5:1; Wisdom 16:20–21; Hebrews 5:1; 1 Corinthians
+  10:3–4/20–21, 11:23–29; plus the full John 6:54–69 cluster) — all
+  confirmed correct. Hosea 14:7–8 and Zechariah 9:17 (local
+  `osee.json`/`zacharias.json` data gaps per rounds 8–10) re-verified
+  against the standard Douay-Rheims text from memory — both correct,
+  unchanged.
+  - **New corpus-data note (not a translation defect)**: while
+    re-verifying "[Juízes 13:19–20]" against local data, discovered
+    that `content/bible/drb/judges.json` has its own pre-existing
+    chapter/verse key corruption, parallel to the already-documented
+    `proverbs.json`/`osee.json`/`zacharias.json` gaps but not
+    previously catalogued: its stored key `"13"` actually holds the
+    text of the real Judges **15** (the Samson/foxes/jawbone episode),
+    while the real Manoah's-offering passage ("Manue took a kid... the
+    angel of the Lord ascended in the flame") is misfiled under stored
+    key `"11"`, verses 35–36. Verified the book's own
+    "[Juízes 13:19–20]" citation against the standard Douay-Rheims text
+    from memory instead (per the established precedent for corpus data
+    gaps) and confirmed it is correct as already fixed in round 6 —
+    no translation change needed, but future review rounds checking
+    Judges citations against local data should be aware `judges.json`
+    cannot be trusted as ground truth for this book.
+  - No fixes were needed; no rebuild required.
+  - **Verdict: Ch. 1–4 — CLEAN.** This is the second consecutive clean
+    Ch. 1–4 round (round 10 was also clean), and round 10's Ch. 5–8
+    pass was independently clean as well — **both ranges are now
+    clean across two consecutive rounds covering the whole book
+    (round 10: Ch. 1–4 clean + Ch. 5–8 clean; round 11: Ch. 1–4 clean
+    again).** Per the two-consecutive-clean-round rule, **this review
+    is now closed.**
 - 2026-09-03 — **review round 11** (independent, adversarial, Ch. 5–8
   only — the seventh pass over this range). Round 10 had already come
   back clean for *both* ranges in the same round (Ch. 1–4 and Ch. 5–8
