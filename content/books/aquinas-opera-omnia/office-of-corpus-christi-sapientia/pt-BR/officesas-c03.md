@@ -45,7 +45,7 @@ O Verbo supremo, procedendo, e não deixando a destra do Pai, saindo para a sua 
 - Prestes a ser entregue à morte, por um discípulo, aos seus rivais, primeiro se entregou aos discípulos no banquete da vida.
 - Aos quais, sob dupla espécie, deu a carne e o sangue, para alimentar por inteiro o homem, de dupla substância.
 - Nascendo, deu-se como companheiro; comendo conosco, como alimento; morrendo, como preço; reinando, dá-se como recompensa.
-- Ó hóstia salutar, que abres a porta do céu: guerras hostis nos oprimem; dá-nos força, traze-nos socorro.
+- Ó hóstia salutar, que abris a porta do céu: guerras hostis nos oprimem; dai-nos força, trazei-nos socorro.
 - Ao Senhor, uno e trino, seja eterna glória, que nos dê a vida sem fim na pátria. Amém.
 - Versículo
 

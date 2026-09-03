@@ -319,6 +319,73 @@ English wording was carried over mechanically.
     needed (covering both ranges) before review can close. The next
     Ch. 1–4 pass should re-verify these five citation fixes in addition
     to all twelve prior fixes.
+- 2026-09-03 — **review round 8** (independent, adversarial, Ch. 1–4
+  only). Re-verified all five round-7 citation fixes with exact current
+  wording — all confirmed correctly in place: "(1 Cor 10:4–6)" in
+  Reading 2, "(Jo 6:56)" at the end of Reading 7 and Reading 12,
+  "(Jo 6:55)" in Reading 10, and "(Sl 21:30)" (the "pingues terrae"
+  line) in Reading 12. A full fresh sentence-by-sentence fidelity read
+  plus an exhaustive sweep of every bracket/parenthetical scripture
+  citation's chapter:verse (cross-checked against
+  `content/bible/drb/*.json` where that corpus data was intact, and
+  against well-established standard Vulgate/Douay numbering where the
+  local corpus Bible JSON itself turned out to have unrelated data bugs
+  — e.g. `proverbs.json` and `zacharias.json` are missing/mis-shifted
+  chapters, confirmed by their proverbs.json only running 1–28 instead
+  of 1–31 and its "24:13" holding Prov 21:13's text instead; this is a
+  pre-existing corpus data issue, not a translation defect, and was
+  left untouched) found two new genuine defects:
+  - Ch. 2, Reading 7 — *"Qui manducat meam carnem, et bibit meum
+    sanguinem, habet vitam aeternam. … Et ego resuscitabo eum in
+    novissimo die"* is one continuous utterance (the text itself says
+    Christ "immediately added" the second clause to the first) and is
+    a single verse, John 6:55, per the corpus's own
+    `content/bible/drb/john.json` ("He that eateth my flesh...hath
+    everlasting life: and I will raise him up at the last day.") The
+    first clause sits, uncited, directly under this reading's own
+    "[Vers. 55]" section heading; the second clause ("e eu o
+    ressuscitarei no último dia") was nonetheless inline-cited
+    *"(Jo 6:54)"* — a self-contradiction against both its own
+    paragraph heading two lines above and its textually-inseparable
+    sibling clause. Fixed to "(Jo 6:55)".
+  - Ch. 2, Responsory after Reading 8 — the same two clauses (*"nisi
+    manducaveritis...non habebitis vitam in vobis"*, John 6:54, plus
+    the John 6:55 pair just above) are quoted together and were cited
+    as a range, *"[João 6:53–54]"* — wrong on both ends: v. 53 ("the
+    Jews disputed among themselves") isn't quoted at all, and the
+    range needed to extend to v. 55, not stop at 54, once the Reading 7
+    fix above is applied. Fixed to "[João 6:54–55]" (en-US carries the
+    identical "[John 6:53–54]" error independently, so this is not a
+    pt-BR-only slip, but per this review's own precedent that doesn't
+    make it correct).
+  - Ch. 3, hymn *Verbum supernum*, "O salutaris hostia" stanza —
+    *"quae caeli pandis hostium … da robur, fer auxilium"* (all
+    second-person direct address to Christ) was translated with
+    **tu**-register verbs — "que **abres** a porta do céu… **dá**-nos
+    força, **traze**-nos socorro" — contradicting this book's own
+    documented **vós**-register decision for exactly this kind of
+    direct address (see "Address register" above), which this journal
+    entry itself already quotes this exact line's intended translation
+    as "'da robur' → 'dai-nos força'" — i.e. the file did not match
+    what had already been decided and written down. Every other
+    instance of second-person address to God in Ch. 1–4 (the Ch. 1
+    collect, the Ch. 2 *Sacris solemniis* doxology, the Ch. 1
+    Magnificat antiphon) correctly uses vós. Fixed to "que **abris** a
+    porta do céu… **dai**-nos força, **trazei**-nos socorro."
+  - Rebuilt with `pnpm build:corpus` after all three fixes — clean, no
+    new warnings (the two pre-existing "H1 drifts from TOC title"
+    warnings for `officesas-c01`/`officesas-c08` [la] are unrelated to
+    this book's pt-BR content and predate this review).
+  - **Clean-round count reset again**: round 8 found three new defects
+    in the Ch. 1–4 range (two citation, one register), so the
+    two-consecutive-clean-round count is back to zero; at least two
+    more full clean rounds are needed (covering both ranges) before
+    review can close. The next Ch. 1–4 pass should re-verify these
+    three fixes in addition to all seventeen prior fixes, and the next
+    Ch. 5–8 pass should specifically re-check the vós-register
+    convention across all second-person-direct-address hymn stanzas in
+    that range too, since this round's register slip in Ch. 3 was not
+    of the kind prior rounds' citation-focused sweeps were looking for.
 - 2026-09-03 — **review round 8** (adversarial, Ch. 5–8 only, this
   range's turn in the alternating-range schedule; prompted by round 7's
   discovery of citation errors in Ch. 2, which raised the concern that
