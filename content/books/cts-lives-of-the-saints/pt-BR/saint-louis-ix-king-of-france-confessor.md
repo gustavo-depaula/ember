@@ -1,4 +1,4 @@
-# São Luís IX, Rei Da França, Confessor
+# São Luís IX, Rei da França, Confessor
 
 *a.d. 1270*
 

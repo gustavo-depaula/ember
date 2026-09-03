@@ -1,4 +1,4 @@
-# A Vida De Santo Antônio
+# A Vida de Santo Antônio
 
 Pe. Ambrose Ryan, O.F.M.
 

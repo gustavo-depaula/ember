@@ -1,4 +1,4 @@
-# São Judas, Auxílio Nas Grandes Necessidades
+# São Judas, Auxílio nas Grandes Necessidades
 
 A DEVOÇÃO aos santos apóstolos deve ser cultivada, pois eles foram os primeiros mestres de nossa Fé. Durante a Idade Média, os Apóstolos eram tidos em alta veneração, mas em nossa era materialista essa devoção decaiu muito, embora a veneração a São Judas Tadeu tenha se revigorado nos últimos anos.
 

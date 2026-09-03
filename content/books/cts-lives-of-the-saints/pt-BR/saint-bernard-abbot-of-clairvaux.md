@@ -1,4 +1,4 @@
-# São Bernardo, Abade De Claraval
+# São Bernardo, Abade de Claraval
 
 ## Doutor Da Igreja
 
