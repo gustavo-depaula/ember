@@ -111,12 +111,12 @@ A pedido do Dr. Crane, Bispo de Sandhurst, a primeira fundação foi feita de Tu
 Em 1889, todos os conventos Brigidinos foram amalgamados sob uma Madre-Geral, cuja residência é em Tullow. Cada Província tem uma Casa de Noviciado sob uma Madre-Provincial. Atualmente há conventos Brigidinos — filiações das primeiras fundações — no Estado de Vitória, em Rochester, Kyabram, Maryborough, Horsham, Mentone, Albert Park, Hawthorn, Springvale, Ardeer, Geelong e Traralgon. A casa-mãe na Província de Vitória, estabelecida em Malvern em 1917, é também a Casa de Noviciado.
 
 
-## Oração Do Cardeal Moran A Santa Brígida
+## Oração do Cardeal Moran a Santa Brígida
 
 Ó Gloriosa Santa Brígida, Mãe das Igrejas de Erin, Padroeira de nossa raça missionária, onde quer que seu destino a leve, sê nossa guia nos caminhos da virtude, protege-nos em meio à tentação, escuda-nos do perigo. Preserva para nós a herança da castidade e da temperança; mantém sempre brilhantemente aceso, no altar de nossos corações, o fogo sagrado da Fé, da Caridade e da Esperança, para que assim possamos emular a antiga piedade dos filhos da Irlanda, e a Igreja de Erin possa brilhar com glória sem par, como outrora. Foste chamada por nossos pais "A Maria de Erin"; assegura-nos, por tuas orações, a proteção onipotente da Bendita Virgem, para que sejamos contados entre seus clientes mais fervorosos, e possamos, mais tarde, merecer um lugar, juntamente contigo e os incontáveis Santos da Irlanda, nas fileiras de seus filhos triunfantes no Paraíso. Amém.
 
 
-## Oração A Santa Brígida
+## Oração a Santa Brígida
 
 Querida Santa Brígida, estrela brilhante de santidade nos primeiros dias de nossa fé e amor irlandeses pelo Deus onipotente que jamais nos abandonou, olhamos agora para vós em oração sincera e cheia de esperança. Por vosso glorioso sacrifício de riquezas, alegrias e afetos terrenos, obtende-nos a graça de "buscar primeiro o Reino de Deus e Sua justiça", com confiança constante em Seu cuidado paterno. Por vossa vida de caridade laboriosa para com os pobres, os enfermos, os muitos que buscam luz e conforto, obtende-nos a graça de sermos auxiliares de Deus, no limite de nosso poder, durante nossa estada na terra, olhando adiante, como fizestes vós, para nossa vida com Ele na eternidade.
 

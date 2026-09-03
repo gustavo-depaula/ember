@@ -1,6 +1,6 @@
 # São Bento, Abade
 
-## Patriarca Dos Monges Ocidentais.
+## Patriarca dos Monges Ocidentais.
 
 De São Gregório (Dial. l. 2, c. 1), que nos assegura ter recebido seu relato sobre este santo de quatro abades, discípulos do santo; a saber, Constantino, seu sucessor em Monte Cassino, Simplício, terceiro abade daquela casa, Valentiniano, primeiro abade do mosteiro de Latrão, e Honorato, que sucedeu a São Bento em Subiaco. A. D. 543.
 

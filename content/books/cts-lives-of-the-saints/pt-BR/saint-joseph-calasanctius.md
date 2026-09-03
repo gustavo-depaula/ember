@@ -1,6 +1,6 @@
 # São José de Calasanz
 
-## Confessor, Fundador Dos Escolápios
+## Confessor, Fundador dos Escolápios
 
 D.C. 1648
 

@@ -9,7 +9,7 @@ Num panfleto deste tamanho não seria sensato apresentar, em longas notas, os pr
 Procurei contar a história, dentro dos estreitos limites de um panfleto, em grande parte com as próprias palavras de More e de seus primeiros biógrafos. Os comentários foram reduzidos ao mínimo, como que uma intrusão quase indevida sobre a eloquência dos fatos simples e a beleza da dicção Tudor.
 
 
-## P. E. Hallett,
+## P. e. Hallett,
 
 Vice-postulador da Causa dos Beatos João Fisher e Tomás More.
 

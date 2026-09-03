@@ -23,7 +23,7 @@ O passo seguinte era enviá-lo a um seminário, pois já havia comunicado ao pá
 
 O cardeal Monico, então Patriarca de Veneza, tinha o privilégio de indicar estudantes para várias vagas gratuitas no seminário de Pádua. Quando lhe contaram a situação do pequeno Bepi Sarto, o cardeal, que ele mesmo fora um menino pobre de Riese, concordou de imediato em enviá-lo ao grande seminário para prosseguir seus estudos rumo ao sacerdócio. Assim Bepi recebeu a batina e foi, durante oito anos, estudante de Pádua, fazendo tudo bem para a glória de Deus, esforçando-se sempre por aquela meta que seria o ideal de toda a sua vida: ser um santo sacerdote.
 
-## Coadjutor E Pároco
+## Coadjutor e Pároco
 
 Uma vez mais Giuseppe Sarto percorreu a estrada de Riese a Castelfranco, mas dessa vez não notou a poeira; não viu os pontos de referência familiares que haviam aliviado a monotonia da longa estrada em sua infância. Um único pensamento preenchia sua mente, excluindo todo o resto: "Hoje serei sacerdote do Altíssimo." E forçava a vista para captar o primeiro vislumbre da velha cidade onde seria ordenado.
 
@@ -50,7 +50,7 @@ Nem à noite tinha descanso, pois precisava assistir aos funerais das vítimas d
 É certo que sua força não poderia ter aguentado por muito mais tempo sob tamanha tensão. Felizmente, o bispo já fora informado de seu excesso de esforço, de modo que, na primeira oportunidade, ele foi transferido de Salzano.
 
 
-## Cônego De Treviso
+## Cônego de Treviso
 
 Mais uma vez um rebanho foi privado do cuidado amoroso de seu pastor, mas desta vez o povo foi consolado pela grande honra que Dom Giuseppe recebeu. Foi nomeado Cônego da Catedral de Treviso, Diretor Espiritual do seminário e Chanceler da diocese.
 
@@ -81,7 +81,7 @@ Um dia um amigo disse a Monsenhor Sarto: "Há uma coisa que não consigo entende
 "Deixa São Paulo de lado! ... A cruz é um fardo alegre enquanto o sacerdote a leva debaixo da batina; mas assim que precisa levá-la por fora, mesmo que a prendas a uma corrente de ouro, ela se torna um fardo de verdade. Falemos de outra coisa."
 
 
-## Bispo De Mântua
+## Bispo de Mântua
 
 Foi próximo do fim do verão de 1884 que Monsenhor Apollonio convocou Monsenhor Sarto certo dia a seu oratório particular.
 
@@ -116,7 +116,7 @@ Pouco depois esse mesmo homem se viu em grandes dificuldades financeiras. Seus c
 Assim, pela caridade e pela mansidão, o Bispo de Mântua conquistava almas para Cristo.
 
 
-## Na Cidade Das Lagoas
+## Na Cidade das Lagoas
 
 Com a morte do cardeal Agostini, Patriarca de Veneza, em 1891, Monsenhor Apollonio foi nomeado para sucedê-lo. Devido ao seu estado de saúde debilitado, pediu para ser dispensado. O Papa concordou e nomeou Monsenhor Sarto Patriarca em seu lugar. O consternado prelado não teve outra alternativa senão aceitar, pois o cardeal secretário de Estado o avisara previamente de que uma recusa seria muito desagradável ao Santo Padre.
 
@@ -144,12 +144,12 @@ Os venezianos não tardaram em perceber que tesouro tinham em seu meio. Quando v
 
 Quando os venezianos viam a figura distinta desaparecer em algum casebre miserável ou subir os degraus de pedra até um sótão empobrecido, diziam uns aos outros: "Ele nunca pensa em si mesmo; está se esgotando por nossa causa." Era tão amado pelos rudes gondoleiros que sua aparição entre eles era saudada com gritos de alegria. "Aí vem o Patriarca dos gondoleiros", exclamavam.
 
-O Congresso Eucarístico, realizado em Veneza no mês de agosto de 1897, deu ao cardeal Sarto a oportunidade de prestar homenagem pública a Nosso Senhor na Sagrada Eucaristia. Seu grande amor pelo Santíssimo Sacramento manifestou-se em seus esforços incansáveis para tornar o Congresso um grande êxito, fomentando nos corações do povo uma devoção fervorosa por seu Senhor Eucarístico.
+O Congresso Eucarístico, realizado em Veneza no mês de agosto de 1879, deu ao cardeal Sarto a oportunidade de prestar homenagem pública a Nosso Senhor na Sagrada Eucaristia. Seu grande amor pelo Santíssimo Sacramento manifestou-se em seus esforços incansáveis para tornar o Congresso um grande êxito, fomentando nos corações do povo uma devoção fervorosa por seu Senhor Eucarístico.
 
 O povo correspondeu, e o Congresso foi o sinal de um derramamento sem paralelo de amor por Nosso Senhor no Santíssimo Sacramento. Nunca, mesmo nos dias de sua glória, Veneza havia presenciado cenas de tal esplendor. Enquanto a procissão final do Santíssimo Sacramento passava, as pessoas achavam que nunca tinham visto espetáculo tão maravilhoso. Jesus Cristo, cercado de seus cardeais, bispos e sacerdotes, viera reinar entre o povo de Veneza: ajoelharam-se em humilde adoração, e o coração do Patriarca ficou cheio de gratidão enquanto se ajoelhava com eles para adorar seu Senhor e Mestre.
 
 
-## No Trono De São Pedro
+## No Trono de São Pedro
 
 A morte de Leão XIII, em 20 de julho de 1903, encheu de tristeza o mundo inteiro, mas ninguém chorou mais o Pontífice falecido do que o cardeal Sarto. Ao falar das virtudes do falecido Papa, seus olhos se encheram de lágrimas. "Se soubessem quanto ele fez por mim. Depois de Nosso Senhor, devo-lhe tudo", disse ele, pesaroso.
 
@@ -216,7 +216,7 @@ Diplomatas e grandes famílias não foram os únicos a ter o privilégio de uma 
 O coração de Pio X estava frequentemente carregado de tristeza. Dia após dia lhe chegavam notícias de perseguições na Espanha e em Portugal, na Rússia e na Alemanha, e ele chorava ao pensar nos sofrimentos que seus filhos tinham de suportar. Mas foi sobre a França que voltou seu olhar mais ansioso, pois foi naquele país que os inimigos da Igreja fizeram seus maiores esforços para arrancar o povo de sua fidelidade ao Vigário de Cristo.
 
 
-## Pio X E A França
+## Pio X e a França
 
 Durante muitos anos, mesmo antes da ascensão do Papa Pio X ao trono de São Pedro, os governos anticlericais da França, em união com a maçonaria francesa, tinham por objetivo separar a Igreja do Estado, confiscar os bens da Igreja e fazer uma ruptura completa e definitiva com Roma.
 
@@ -241,7 +241,7 @@ A uma palavra do Papa, os bispos abandonaram seus palácios e os padres seus pre
 Os anticlericais tinham tentado extinguir a Igreja, mas seus próprios esforços nessa direção só a fizeram brotar com renovada vida; tinham tentado amarrá-la, mas fracassaram porque as cordas que usavam eram os bens deste mundo, e no trono de São Pedro sentava-se um homem que desprezava o mundo e tudo o que ele podia oferecer.
 
 
-## Pio X E O Modernismo
+## Pio X e o Modernismo
 
 Chegamos agora ao que é sempre uma página triste na história da Igreja — a defecção de seus próprios filhos.
 
@@ -256,7 +256,7 @@ Numa carta encíclica, escrita para o centenário de Santo Anselmo, Pio X tem a 
 Com palavras de fogo, Pio X expulsara a serpente.
 
 
-## O Papa Do Santíssimo Sacramento
+## O Papa do Santíssimo Sacramento
 
 O Santíssimo Sacramento é e sempre foi o centro e o eixo da vida cristã. Os Apóstolos, reunidos em torno da mesa da Ceia, receberam de Nosso Senhor seu Corpo e Sangue, e uniram-se estreitissimamente a Ele e, por meio dele, uns aos outros. Os primeiros cristãos, dispersos pela perseguição, ainda assim se reuniam nas catacumbas em torno da mesa eucarística e eram unidos de novo pelo doce vínculo de Cristo. Da Sagrada Eucaristia tiravam a força e o consolo de que necessitavam, tal como o fariam depois milhões de cristãos.
 
@@ -323,7 +323,7 @@ Em poucos dias o câncer havia desaparecido.
 
 Os milagres não fazem os santos, mas manifestam sua virtude singular e o poder e a eficácia de sua intercessão junto a Deus. Se as maravilhas realizadas no Vaticano pelo santo Pontífice foram milagres verdadeiros, cabia à Igreja decidir. Não eram necessários milagres para que os homens percebessem a espantosa santidade de Pio X. Toda a sua vida falava das alturas de perfeição que alcançara. Pobre com a pobreza de Cristo, humilde com a humildade de Cristo, manso com a mansidão de Cristo, sua alma era uma chama de fogo que percorreu a terra e acendeu o amor de Deus por onde passou. Foi um homem "amado por Deus e pelos homens, cuja memória será tida em bênção."
 
-## A Morte Do Papa
+## A Morte do Papa
 
 No dia 2 de junho de 1914, Pio X entrou em seu octogésimo ano. Seria um ano de sofrimento para ele. As nuvens de guerra se acumulavam no horizonte. "1914 não passará sem que estale a guerra", disse ele ao cardeal Merry del Val. E em outra ocasião: "Daria de bom grado a vida se pudesse afastar este horrível flagelo."
 

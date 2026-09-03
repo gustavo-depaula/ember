@@ -3,7 +3,7 @@
 Fundador dos Clérigos Regulares, Ministros dos Enfermos.
 
 
-## Os Caminhos Maravilhosos De Deus.
+## Os Caminhos Maravilhosos de Deus.
 
 NÓS — exilados num 'vale de lágrimas' — às vezes achamos difícil perceber as verdades que, no entanto, estão profundamente enraizadas em nossos corações. Entre elas pode estar o sentimento incorporado nas palavras 'Jesus Cristo, o mesmo, ontem, e hoje, e para sempre.' Mas, de vez em quando, através das páginas da história do mundo, brilha uma luz que revela o Coração imutável e sempre igual de Deus feito Homem por amor às criaturas pecadoras, enfermas e sofredoras que Ele ama até o fim — não somente até o fim de Sua vida mortal, mas até o fim dos tempos — sim — e através da eternidade sem fim.
 
@@ -12,7 +12,7 @@ Assim é que muitas palavras doces e eficazes suas continuam a operar em toda a 
 Voltemo-nos, pois, aos anais dos servos coroados de Deus, e leiamos reverentemente os registros daquele que deve ocupar lugar de destaque entre os mártires da caridade.
 
 
-## Um Filho Da Graça.
+## Um Filho da Graça.
 
 Este título é frequentemente dado àqueles cujos pais viveram muitos anos na expectativa de uma nova vida para alegrar seu lar.
 
@@ -79,7 +79,7 @@ Mal vestiu o hábito, a ferida reabriu-se. Todos concordaram que a Vontade de De
 A recepção que ali encontrou foi de um encantado 'bem-vindo.' Foi nomeado Superintendente, mas ninguém foi tão pronto em assumir os serviços mais humildes, ninguém tão incansável no cuidado dos sofredores mais negligenciados e repulsivos quanto Camilo — que tinha a responsabilidade de tudo!
 
 
-## O Início De Sua Obra De Vida.
+## O Início de Sua Obra de Vida.
 
 Ele finalmente entrara em sua missão designada, e a Bem-aventurança — 'Estive enfermo e me visitastes' — parecia sempre brilhar diante de seus olhos. Ninguém sabia melhor que Camilo quantas queixas clamavam piedosamente por reparação nos hospitais daquela época. Os pobres eram tratados mais como animais caçados e desprezados do que como seres humanos. Assistentes descuidados e egoístas faziam o que bem queriam, de dia e de noite. O alimento era distribuído com parcimônia. Os remédios eram administrados ao acaso. A compaixão cristã era escassa. O pior dos infortúnios — havia casos de sacerdotes que negligenciavam seu dever, de modo que os doentes frequentemente definhavam e morriam sem as consolações da religião e dos Sacramentos.
 
@@ -100,7 +100,7 @@ Não é de admirar que o Santo se tornasse confiante do sucesso, e que se dirigi
 Camilo não pôde mais conter seu entusiasmo. Começou uma preparação para o sacerdócio e aplicou-se humildemente aos rudimentos do latim sob preceptoria particular, complementada com a frequência às aulas do Colégio dos Jesuítas. 'Não se pode negar', diziam seus mestres, 'que este homem chegou tarde à escola, mas ele se apressará e fará grandes coisas na Igreja.' Essa opinião era compartilhada pelas autoridades eclesiásticas, e não houve hesitação em permitir que Camilo fosse ordenado no Domingo de Pentecostes de 1584. Imediatamente depois, os Governadores de San Giacomo elegeram-no capelão de sua pequena igreja perto da Porta del Popolo, chamada 'A Madonna dei Miracoli.'
 
 
-## Fundação Dos Ministros Dos Enfermos.
+## Fundação dos Ministros dos Enfermos.
 
 De seus primeiros cinco confidentes, apenas três ajudantes estavam agora prontos para se colocar nas mãos de um líder, pois Benigno fora transferido para outra cidade, e o Padre Ludivoco Altobelli fora nomeado Prior do hospital de San Giovanni. Restavam Bernardino Norcino, Curzio Lodi e o Padre Francesco Profeta. Estes três eram um exército no exército de Deus, tão ansiosos estavam por assumir Seu jugo e carregar o doce fardo da caridade sobre seus ombros dispostos. Após várias consultas, os quatro concordaram em romper inteiramente com o mundo; deixar o hospital de San Giacomo, onde não seriam livres para agir como desejavam; vestir a batina sacerdotal — tornando-se assim Ministros dos enfermos de Cristo — e começar sua nova vida no hospital de San Spirito. Assim o fizeram em 16 de setembro de 1584 — data a partir da qual se dedicaram inteiramente ao serviço dos doentes 'segundo algumas breves regras que Camilo havia escrito.'
 
@@ -117,7 +117,7 @@ Pessoas de toda classe passaram a ansiar pelo auxílio dos 'Membros da Congrega�
 Esta cláusula foi inserida na regra escrita, pouco antes da morte do Papa Gregório XIII, em abril de 1585: Outra consulta com os pioneiros da Ordem estabeleceu seu nome futuro — isto é, 'Ministros dos Enfermos,' também chamados 'Clérigos Regulares.'
 
 
-## Rumo Ao Céu.
+## Rumo ao Céu.
 
 O primeiro a passar para o reino eterno foi Bernardino Norcino. Desde a juventude, estivera habituado à abnegação, e sua estreita união com Deus glorificara sua pobreza. Camilo entrou em contato com ele quando era guarda-mor dos armazéns de San Giacomo. Anteriormente, fora vendedor de lenha. Seu hábito de oração jaculatória o distinguira desde a infância, e costumava passar as horas entre o Angelus da tarde e a meia-noite em devoções ininterruptas. Seu confessor afirmava que Nosso Bendito Senhor às vezes se mostrava a Bernardino na Hóstia consagrada, sob a forma de uma linda Criança.
 
@@ -190,7 +190,7 @@ Por sete anos laboriosos e frutíferos, o fundador carregou o peso principal; e 
 'Irmão de Vossas Reverências em Cristo,
 
 
-## 'Camilo De Lelis.
+## 'Camilo de Lelis.
 
 'Roma, 14 de outubro de 1607.'
 
@@ -226,7 +226,7 @@ Ao meio-dia, fez um esforço para se unir ao 'Angelus,' e, percebendo que sua l�
 Era 14 de julho de 1614 — o sexagésimo quinto ano de vida do Santo, e o quadragésimo depois de sua conversão. Foi canonizado pelo Papa Bento XIV, que determinou que sua festa fosse celebrada em 18 de julho.
 
 
-## História Da Ordem
+## História da Ordem
 
 Durante o século XVII, guerra, fome e morte fizeram estragos terríveis por toda a Europa. A temida peste revelou-se especialmente desastrosa; e temível foi o tributo exigido pela morte. Em algumas cidades, ruas inteiras ficaram desertas, enquanto vilarejos populosos se tornaram desolados. A causa desses estragos foi a absoluta impotência da ciência médica e a falta de senso de responsabilidade social por parte daqueles capazes de prestar assistência. São Camilo predissera que um período futuro haveria de provar a necessidade e a importância da Ordem. Sua profecia se cumpriu. A obra realizada pela Ordem durante as epidemias generalizadas nas grandes cidades da Itália constitui um dos capítulos mais comoventes da história da caridade cristã. Milagres de sacrifício e abnegação foram operados; a Ordem ofereceu seus melhores membros. Em mais de uma ocasião, sua própria existência pareceu estar em jogo, tão completamente ficaram despovoados seus mosteiros no serviço da humanidade. Alguns fatos servirão para esboçar um pálido quadro das atividades da Ordem em tempos de pestilência.
 

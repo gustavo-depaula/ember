@@ -1,6 +1,6 @@
 # São Bernardo, Abade de Claraval
 
-## Doutor Da Igreja
+## Doutor da Igreja
 
 a.d. 1153
 

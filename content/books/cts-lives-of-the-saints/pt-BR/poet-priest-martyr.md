@@ -1,4 +1,4 @@
-# Poeta, Sacerdote E Mártir
+# Poeta, Sacerdote e Mártir
 
 O interesse pelos Mártires Ingleses provavelmente nunca foi tão grande quanto é agora, e as esperanças de sua Canonização estão em alta. Entre aquele grupo de almas heroicas que atravessaram, como um deles disse, o 'terrível Mar Vermelho' da morte, havia homens e mulheres de toda condição de vida: casados e solteiros, leigos e religiosos, sacerdotes seculares e sacerdotes de uma variedade de ordens religiosas, membros da nobreza e gente comum. Todos eles morreram, em última análise, pela unidade da Igreja, o que dá a seu sangue uma voz de apelo à qual nosso tempo, mais do que qualquer outro desde sua morte, está preparado para escutar. Todos os que morreram falavam nossa língua e foram formados num modo de vida do qual o nosso deriva — o que nos dá uma compreensão deles, e uma proximidade a eles, que talvez não seja tão facilmente alcançada em relação a outros Santos.
 
