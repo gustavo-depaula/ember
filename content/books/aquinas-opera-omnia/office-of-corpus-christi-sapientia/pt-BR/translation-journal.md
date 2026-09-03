@@ -150,3 +150,21 @@ English wording was carried over mechanically.
     line, reflects the actual sense and matches how standard Portuguese
     Catholic Bibles render this verse. Not changed.
   - Rebuilt with `pnpm build:corpus` after fixes — clean, no new warnings.
+- 2026-09-03 — **review round 2** (2 fresh independent passes: Ch. 1–4 and
+  Ch. 5–8, each re-verifying every round-1 fix in its range plus a fresh
+  read). Ch. 5–8 pass: all clean, round-1 "tradetur" fix confirmed correctly
+  in place, no new defects. Ch. 1–4 pass: all five in-range round-1 fixes
+  confirmed correctly in place; one new defect found:
+  - Ch. 2, Reading 3 (Ambrose/Gratian, on the Word changing bread and wine)
+    — *"Sermo igitur … non potuit in id mutare **quod non erant**?"* ("could
+    it not change things into that which they **were not**?") had the
+    negation dropped: "não poderia mudar naquilo **o que já existia**"
+    ("what it already **was**" — the opposite claim, and inconsistent with
+    the very next sentence about giving things "new natures"). Fixed to
+    "não poderia mudar as coisas naquilo que elas **não eram**?", preserving
+    the negation and the plural "the things" (bread and wine) that the
+    argument requires.
+  - Rebuilt with `pnpm build:corpus` after the fix — clean, no new warnings.
+  - **Two consecutive clean rounds still not reached** — round 2 found one
+    new defect, so at least one more clean round is needed before the
+    translation can be considered settled.
