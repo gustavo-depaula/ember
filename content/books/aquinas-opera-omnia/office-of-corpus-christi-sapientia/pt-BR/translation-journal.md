@@ -595,6 +595,92 @@ English wording was carried over mechanically.
     re-verify the "[João 6:51–52]" fix in addition to the three prior
     in-range fixes, and the next Ch. 1–4 pass should re-verify the same
     fix in its Ch. 2 copy.
+- 2026-09-03 — **review round 10** (independent, adversarial, Ch. 1–4
+  only). First re-verified round 9's John 6:54–69 citation cluster
+  (Ch. 2 Readings 7–9) for internal consistency against
+  `content/bible/drb/john.json` as ground truth, quoting the current
+  citation at each spot: Reading 7 end-of-`[Vers. 55]` "*e eu o
+  ressuscitarei no último dia*" → "(Jo 6:55)" (correct, matches v.55
+  "hath everlasting life: and I will raise him up at the last day");
+  same paragraph "*a minha carne... verdadeiramente bebida*" →
+  "(Jo 6:56)" (correct, matches v.56 "my flesh is meat indeed"); the
+  `[Vers. 57]` paragraph "*e quem come... permanece em mim, e eu nele*"
+  → "(Jo 6:57)" (correct, matches v.57 "abideth in me, and I in him");
+  the Reading 7/8 responsory versicle → "[João 6:56–57]" (correct); the
+  Reading 8/9 responsory body → "[João 6:54–55]" (correct, a round-8
+  fix, untouched by round 9); the `[Vers. 61]` paragraph "*duro é este
+  discurso*" → "(Jo 6:61)" (correct, matches v.61 "This saying is
+  hard"); the Reading 9/Responsory "[João 6:58–59]" and "[João 6:59]"
+  (both correct, matching v.58 "he that eateth me...shall live by me"
+  and v.59 "he that eateth this bread shall live for ever"); the
+  `[Vers. 68]`/`[Vers. 69]` paragraphs "*acaso também vós quereis ir
+  embora?*" → "(Jo 6:68)" and "*Domine ad quem ibimus... Verba vitae
+  aeternae habes*" → "(Jo 6:69)" ×2 (all correct, matching v.68 "Will
+  you also go away?" and v.69 "Lord, to whom shall we go? thou hast the
+  words of eternal life"); Reading 10's "*a minha carne... bebida*" →
+  "(Jo 6:56)" (correct); Reading 12's "*quem come a minha carne...
+  permanece em mim*" → "(Jo 6:57)" (correct). **The entire cluster is
+  now internally consistent and matches the DRB ground truth exactly —
+  no citation in this cluster needed further correction.**
+  A full fresh sentence-by-sentence fidelity read of Ch. 1–4 against
+  `la/` (tense, mood, negation, subject/object direction, theological
+  terms) found no defects — re-verified Ch. 1's capitulum/hymn
+  doxology/collect, Ch. 2 Reading 1's institution narrative, Reading 2's
+  "Iudaeus bibit et sitit" present tense and the whole Ambrose exempla
+  sequence, Reading 4's "ut sint quae erant" both-clauses fix, Readings
+  6, 9, 11, 12's prose in full, and Ch. 3's hymn *Verbum supernum*
+  (including the round-8 "abris"→"abris"/vós-register fix, confirmed
+  still in place: "que **abris** a porta do céu… **dai**-nos força,
+  **trazei**-nos socorro"). An exhaustive citation sweep of every
+  bracket/parenthetical scripture reference in Ch. 1–4 (~50 citations)
+  against `content/bible/drb/*.json` — covering Genesis 14:18–19,
+  49:20; Exodus 12:6–7, 12:8–9, 16:14, 16:15, 25:23–24/30; Leviticus
+  21:6; Judges 13:19–20; 1 Samuel 14:27; Psalms 15(16), 19(20), 21(22),
+  22(23):5, 32(33):9, 33(34), 42(43), 64(65), 77(78):24–25, 80(81):17,
+  83(84), 85(86), 94(95), 101(102), 102(103):2–3, 103(104):27,
+  104(105):40, 110(111):4–5; Proverbs 9:1–2 (verified against the
+  well-known standard text, since the local `proverbs.json` remains the
+  pre-existing broken/shifted corpus data round 8 already flagged and
+  left untouched); Isaiah 7:9, 25:6, 30:23, 55:1–2; Jeremiah 11:15;
+  Canticles 5:1; Wisdom 16:20–21; Matthew 5:8, 6:12, 8:8, 26:26–28;
+  Mark 14:22–24; Luke 22:19–20; Romans 8:6; 1 Corinthians 10:3–4,
+  10:16–17, 10:20–21, 11:23–29; Hebrews 5:1; 1 John 1:8; Apocalypse
+  2:17; plus the full John 6:54–69 cluster above — found every citation
+  correct, with two pre-existing corpus-data gaps noted but not
+  treated as translation defects, consistent with round 8's precedent:
+  `osee.json` is missing chapters 12–14 (cannot verify "[Oséias
+  14:7–8]" against local data; pt-BR and en-US independently agree on
+  this citation) and `zacharias.json`'s chapter keys are mis-shifted
+  (its "9" holds the text of the real Zechariah 12, so "[Zacarias
+  9:17]" likewise cannot be checked against local data). Two borderline
+  items were considered and explicitly dismissed as non-defects: (1)
+  the Ch. 2 antiphon "Faciens mensam... et inaurabis eam... et pones..."
+  — pt-BR renders the first verb as an imperative ("revesti-a") and the
+  second as a future ("poreis"), a mood split also present
+  independently in en-US ("plate it... you will place..."); both
+  Latin verbs are grammatically future indicative, but future-as-command
+  is a standard Vulgate idiom for divine instructions (cf. "non
+  occides"), so an imperative rendering of either verb is a defensible
+  stylistic choice, not a meaning-changing error, and was left
+  untouched. (2) The register split between Reading 9's Petrine
+  confession ("*tu és* o Cristo, o Filho do Deus vivo") using **tu**
+  and Reading 11's centurion quote ("não sou digno de que **entreis**
+  sob o meu teto", Mt 8:8) using **vós** — not a defect, because the
+  centurion's line is the Church's own well-known fixed Mass
+  pre-Communion formula ("Domine, non sum dignus..."), conventionally
+  rendered in **vós** register in published Portuguese missals, while
+  Peter's confession has no equivalent fixed liturgical formula and
+  correctly defaults to the ordinary **tu** register used for quoted
+  Gospel dialogue elsewhere in this office (per the "Address register"
+  entry above, which scopes **vós** to the Church's own composed
+  liturgical address to God — collects, hymn refrains, the Magnificat
+  antiphon — not to reported biblical dialogue in general).
+  **Verdict: Ch. 1–4 — CLEAN.** No fixes were needed, so no rebuild was
+  required. **This is the first clean Ch. 1–4 round since round 8
+  reset the count** (round 9 found eleven citation defects in this
+  range). The two-consecutive-clean-round count for the whole book
+  still depends on the next Ch. 5–8 pass: if it also comes back clean,
+  review can close; Ch. 5–8 was last confirmed clean in round 9.
 - 2026-09-03 — **review round 10** (independent, adversarial, Ch. 5–8
   only). Re-verified all four in-range fixes with exact current
   wording — all confirmed correctly in place: Ch. 5 capitulum "que
