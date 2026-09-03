@@ -9,7 +9,7 @@ Não havia escolas em muitas cidades e vilas italianas no início do século XIX
 No colo da mãe, Maria aprendeu a bondade de Deus e de Sua santa Mãe, e balbuciou suas primeiras orações; por meio das coisas maravilhosas da criação que os cercavam, a Sra. Mazzarello também lhe ensinou a amar e respeitar a grande virtude da pureza. É de fato uma pena que nem todas as crianças recebam em casa uma educação tão verdadeiramente cristã. É incalculável o número de vidas arruinadas que poderiam ser salvas.
 
 
-## Primeira Comunhão E Crisma
+## Primeira comunhão e crisma
 
 Maria foi admitida à sua primeira Comunhão aos dez anos, bastante cedo para a época, e numa de suas primeiras Comunhões fez um voto de virgindade que não revelou a ninguém senão muitos anos depois. Certamente as instruções de sua mãe sobre a pureza estavam dando frutos. Maria foi crismada dois anos mais tarde, em 30 de setembro de 1849.
 
@@ -26,12 +26,12 @@ Em outra ocasião, Maria se atrasou consideravelmente na igreja, numa época em 
 Crescendo num ambiente de intensa piedade e trabalho duro, Maria aprendeu a se tornar senhora de si mesma. Mortificava-se na comida e na bebida, controlava sua curiosidade, refreava momentos de impaciência, praticava a pronta obediência, observava a modéstia no vestir e no falar, e sacrificava toda vaidade, à qual era fortemente propensa. Era impelida e fortalecida em tudo isso por um grande espírito de oração, pelo pensamento contínuo da presença de Deus e por suas práticas de piedade bem cumpridas. Tinha grande aversão natural à confissão, mas superava sua repugnância e era muitíssimo franca com seu confessor, de modo que extraía deste sacramento grande força.
 
 
-## Filha De Maria
+## Filha de Maria
 
 Quando Maria tinha dezoito anos, precisamente em 1855, o Padre Pestarino, a pedido de algumas das moças da paróquia e depois de madura reflexão com teólogos versados, fundou em sua paróquia a Pia União das Filhas de Maria, dando início assim a um movimento que logo se espalharia por toda a Itália. Como seria de esperar, Maria foi uma das primeiras a se filiar a essa união. O Padre Pestarino admitia apenas as melhores moças da paróquia, e elas fizeram tais progressos na vida espiritual que, dois anos mais tarde, o Bispo da diocese deu sua aprovação à união, e ele mesmo veio a Mornese impor às membras a Medalha de Maria Imaculada numa cerimônia pública. Maria agora avançava a passos ainda maiores no caminho da perfeição. As membras da união viviam com suas famílias, mas se reuniam diariamente, se possível, para a Missa, para leituras espirituais, para visitas ao Santíssimo Sacramento e para outras práticas piedosas. Uma confissão pública de faltas fazia parte de sua reunião semanal, e foi numa dessas reuniões que Maria se acusou do enorme crime de ter deixado passar quinze minutos inteiros sem pensar em Deus. Mas Maria logo precisaria de toda a sua virtude, pois uma grande provação estava prestes a testá-la.
 
 
-## A Enfermeira Adoece
+## A enfermeira adoece
 
 Em 1860, uma epidemia de tifo irrompeu ao redor de Mornese, e toda a família de um dos tios de Maria foi atingida pela doença. O Padre Pestarino percebeu que só Maria poderia cuidar da família até que se recuperasse.
 
@@ -42,12 +42,12 @@ Certo dia, caminhando pelos campos no ponto mais alto da região, assustou-se ao
 Contou o ocorrido ao Padre Pestarino, e este, sábio homem de Deus que era, disse-lhe que esquecesse tais devaneios e não fosse tão tola a ponto de falar mais sobre eles. No entanto, mais tarde ela reconheceu naquele edifício, que então vira, a Casa-Mãe das Filhas de Maria Auxiliadora.
 
 
-## Mestra De Costura
+## Mestra de costura
 
 Com Petronilla, outra membra da Pia União, Maria passou seis meses trabalhando com o alfaiate da cidade, e depois mais seis meses com a única costureira da cidade. As moças se tornaram tão hábeis que, quando a costureira partiu para outra cidade, elas puderam assumir seu negócio. Logo havia várias jovens aprendizas desejosas de aprender corte e costura, e as moças tiveram alguma dificuldade em alugar um espaço grande o bastante para acomodá-las a todas. O trabalho vinha bastante rápido, e é interessante notar que Maria se recusava a fazer roupas que não considerasse suficientemente modestas. O que ela diria, então, de tantas modas de hoje? As duas mestras de costura se dispuseram a abrigar duas meninas cuja mãe morrera, e cujo pai era o equivalente de nosso moderno caixeiro-viajante. Petronilla passou a morar no local e cuidar delas, mas Maria continuava a voltar para casa todas as noites, embora desejasse muito ficar e levar uma vida em comum com as outras. Assim se lançavam os humildes começos de uma grande obra, quando o grande apóstolo de Turim, o pai de milhares de meninos sem-teto, entrou em cena.
 
 
-## Dom Bosco Encontra O Padre Pestarino
+## Dom Bosco encontra o Padre Pestarino
 
 Havia algum tempo que Dom Bosco vinha sendo instado a organizar alguma instituição que fizesse pelas moças o que seus Salesianos faziam pelos meninos. Num de seus sonhos, ele vira uma praça cheia de moças que lhe pediam ajuda, e uma senhora majestosa lhe pedira que cuidasse delas, pois eram suas filhas. Enquanto tinha esse problema em mente, teve a felicidade de encontrar Dom Pestarino numa reunião de sacerdotes. Caminharam juntos parte do caminho de volta para casa, e se apresentaram um ao outro. Dom Pestarino tinha um pequeno grupo de moças que buscavam aperfeiçoar suas vidas e ajudar outras, enquanto Dom Bosco buscava fundar uma ordem de freiras para trabalhar com moças. Ambos os sacerdotes sentiram que seu encontro não fora casual, mas providenciado por Deus. Seguiram-se mais alguns encontros em Turim, e o Padre Pestarino ficou tão entusiasmado com Dom Bosco e sua obra que buscou se tornar salesiano; Dom Bosco estava disposto a aceitá-lo, e lhe disse que sua obediência seria permanecer em Mornese e cuidar das moças da Pia União de Maria Imaculada. Ao se despedir dele, Dom Bosco deu ao Padre Pestarino uma medalha para cada uma, Maria e Petronilla, e um cartão para Maria; no cartão estava escrito: "Continue rezando muito; mas faça todo o bem que puder às jovens moças; faça tudo o que for possível para evitar o pecado, mesmo que seja apenas um pecado venial."
 
@@ -56,12 +56,12 @@ A mensagem de Dom Bosco inflamou Maria e sua companheira com novo zelo. Até ent
 Mais tarde, Maria e Petronilla costumavam reunir as moças aos domingos no pátio da casa onde alugavam seus quartos, e ali as instruíam no catecismo, ou as envolviam em recreações honestas e saudáveis. Também organizavam passeios pelo campo vizinho, e levavam as moças em grupo aos ofícios religiosos. Sem se dar conta, estavam se dedicando à obra do Oratório Festivo de Dom Bosco.
 
 
-## Dom Bosco Chega A Mornese
+## Dom Bosco chega a Mornese
 
 No fim do verão de 1864, o próprio Dom Bosco veio a Mornese, trazendo consigo alguns de seus meninos e a banda do Oratório de Turim. A cidade toda saiu para dar ao grupo uma recepção real, e os habitantes ajudaram a hospedar e alimentar o grupo durante sua estada em Mornese. Dom Bosco falou às Filhas de Maria, e expressou surpresa ao encontrar naquela gente simples do campo tal desapego das coisas do mundo e tal entusiasmo pelas coisas do céu. Partiu depois de uma estada de quatro dias, mas não sem antes prometer enviar seus Salesianos para dirigir uma escola de meninos que seria construída em Mornese. O Padre Pestarino abençoou a pedra fundamental dessa escola, na presença de todos os habitantes da cidade, em 1865, e Dom Bosco enviou de Turim um representante especial para a cerimônia.
 
 
-## Vida Em Comunidade
+## Vida em comunidade
 
 Pouco depois, o Padre Pestarino decidiu colocar à disposição das moças da União de Maria Imaculada uma casa que construíra para si mesmo perto da igreja. Algumas das moças da União decidiram deixar suas famílias e morar ali; outras decidiram permanecer com as famílias. Os pais de Maria estavam bastante decididos a não deixá-la ingressar na comunidade, mas o Padre Pestarino usou toda a sua influência sobre o Sr. Mazzarello, e o idoso senhor, que tinha grande respeito e afeto pelo sacerdote, cedeu. Ele então convenceu sua esposa, e Maria ficou livre para ir.
 
@@ -86,14 +86,14 @@ Uma das muitas provações e tribulações que as irmãs tiveram de suportar foi
 Até então as irmãs não usavam hábito especial algum, e Dom Bosco, quando lhe perguntavam o que elas vestiriam, respondia: "Por ora, que se contentem com o hábito da virtude; mais tarde, veremos." Por fim, escolheu-se um hábito castanho com véu azul; as irmãs professas usavam um crucifixo, e as noviças, uma medalha de Maria Imaculada. E, durante todo esse tempo, a Irmã Mazzarello continuava a perguntar pela Superiora que Dom Bosco enviaria, mas Dom Bosco não tinha intenção alguma de substituí-la. Em vez disso, planejava dar à Congregação uma forma mais definitiva, e organizou um retiro para começar em 31 de julho de 1872, seguido das primeiras profissões das que estivessem prontas para esse passo, e da imposição do hábito às novas noviças. Finalmente, a Congregação das Filhas de Maria Auxiliadora era uma realidade.
 
 
-## Primeiros Votos
+## Primeiros votos
 
 O Bispo da diocese estava em Mornese no fim de julho, e ele mesmo desejava presidir pessoalmente ao retiro. Quando Dom Bosco foi informado da presença de Sua Excelência, recusou-se a ir a Mornese, por respeito ao bispo, embora tivesse prometido estar presente à cerimônia. O bispo, então, enviou seu secretário para trazer Dom Bosco a qualquer custo, e o homem de Deus humildemente acatou o desejo do bispo. Como, porém, Dom Bosco não podia permanecer muito tempo em Mornese, a cerimônia da profissão e da imposição do hábito foi antecipada do dia 8 de agosto para o dia 5, festa de Nossa Senhora das Neves, e o retiro terminou conforme programado. O próprio bispo presidiu à cerimônia, na qual onze irmãs, incluindo a Irmã Mazzarello, fizeram os votos de pobreza, castidade e obediência por três anos, e quinze noviças receberam o hábito religioso. O bispo então fez sinal a Dom Bosco para que falasse, e, embora este tentasse se esquivar, obedeceu e falou às irmãs do fundo do coração. "Vocês vão sofrer", disse-lhes Dom Bosco, "e vejo com meus próprios olhos que as pessoas as perseguirão, zombarão de vocês; até seus próprios parentes lhes voltarão as costas. Mas não se espantem com nada disso. Se se mantiverem humildes e mortificadas, se tornarão santas, e com o tempo farão muito bem a muitas outras. O mundo está cheio de armadilhas; mas, se viverem de acordo com sua regra, farão grande bem a suas próprias almas e às de seu próximo." A Irmã Mazzarello foi nomeada Superiora, mas recebeu o título de Vigária, "porque", disse Dom Bosco, "a verdadeira superiora é a própria Nossa Senhora."
 
 Um instituto religioso é abençoado quando é bem governado desde o início, e, na escolha de sua superiora, o Instituto das Filhas de Maria Auxiliadora foi singularmente afortunado. A Irmã Mazzarello, apesar de sua falta de instrução, possuía uma capacidade evidente para governar sua comunidade, como se pode ver pelo que o Papa Pio XI disse dela em 1936: "Esta pequena, simples e pobre moça do campo, cuja educação fora rudimentar ao extremo, mostrou bem cedo que possuía um talento, um dos maiores talentos: o talento de governar. Sua escolha por São João Bosco provou-se não apenas na fundação firme e segura da nova família de Maria Auxiliadora, mas também no crescimento maravilhoso e rápido, e na difusão do florescente instituto."
 
 
-## A Irmã Mazzarello, A Mulher
+## A Irmã Mazzarello, a mulher
 
 A Irmã Mazzarello era um pouco acima da altura média, de constituição robusta e traços muito marcados. Tinha testa alta, nariz regular, e olhos castanhos, vivos e penetrantes. Tinha boca de tamanho médio e regular, e as maçãs do rosto, o lábio superior e o queixo eram todos ligeiramente proeminentes. Sua tez era pálida e um tanto morena, e ela corava rapidamente sempre que se forçava a fazer algo contra sua vontade.
 
@@ -106,7 +106,7 @@ Dom Bosco frequentemente enviava a Mornese mulheres com vocações promissoras, 
 Na primavera de 1874, havia na comunidade 14 membras professas, 8 noviças, 8 postulantes e 17 alunas, e o Padre Pestarino pôde escrever a Dom Bosco: "O que mais me consola é a verdadeira união e o espírito de caridade, a harmonia e a santa alegria que reina entre todas. São edificantes em sua piedade, estão realmente desapegadas do mundo, e não deixam escapar a menor queixa em seu trabalho." Dom Bosco mais tarde declarou ao Padre Cagliero, futuro missionário salesiano e Cardeal: "Madre Mazzarello tem dons especiais de Deus. Há virtudes em abundância para compensar sua escassa instrução. É prudente, tem uma visão maravilhosa das coisas, e um dom para governar, baseado na bondade, na caridade e numa fé inabalável em Deus."
 
 
-## Morte Do Padre Pestarino
+## Morte do Padre Pestarino
 
 As irmãs vinham conseguindo, com sucesso, superar a oposição dos habitantes de Mornese, quando uma nova provação assolou a comunidade. Em 15 de maio de 1874, o Padre Pestarino adoeceu subitamente. Madre Mazzarello foi informada de imediato e correu para seu leito.
 
