@@ -112,7 +112,7 @@ Imprimatur:
 
 ## + D. Mannix,
 
-Arcebispo de Melbourne.
+Archiepiscopus, Melbournensis.
 
 Censor Diocesano: PERCY JONES
 

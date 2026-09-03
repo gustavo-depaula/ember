@@ -246,7 +246,7 @@ Domingos quis fazer algo para perpetuar de algum modo a afetuosa lembrança dest
 
 "Eu gostaria de fazer algo em honra de Nossa Senhora, e devo fazê-lo logo, ou será tarde demais."
 
-E fez. Fundou entre seus companheiros a Congregação da Imaculada Conceição, que ainda existe nas escolas salesianas em todo o mundo hoje. O objetivo da Congregação era praticar e difundir a devoção à Mãe de Deus e promover a Comunhão frequente entre seus companheiros. A Congregação foi uma influência poderosa na escola para promover a piedade, e especialmente para acender o amor e a devoção à Santa Mãe de Deus. Nossa Senhora não deixou de recompensar seu jovem apóstolo com várias graças notáveis.
+E fez. Fundou entre seus companheiros o Sodalício da Imaculada Conceição, que ainda existe nas escolas salesianas em todo o mundo hoje. O objetivo do Sodalício era praticar e difundir a devoção à Mãe de Deus e promover a Comunhão frequente entre seus companheiros. O Sodalício foi uma influência poderosa na escola para promover a piedade, e especialmente para acender o amor e a devoção à Santa Mãe de Deus. Nossa Senhora não deixou de recompensar seu jovem apóstolo com várias graças notáveis.
 
 Certo dia, Domingos foi ter com Dom Bosco pedir licença para ir para casa, pois sua mãe estava gravemente doente e Nossa Senhora queria curá-la.
 

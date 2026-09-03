@@ -1,6 +1,6 @@
 # São Venceslau
 
-## Mons. Joseph Hanush
+Mons. Joseph Hanush
 
 Muitos laços interessantes ligam a Inglaterra à terra dos tchecos. Um deles, ao menos, deu origem a elaboradas controvérsias sobre o conhecimento geográfico de Shakespeare, pois o poeta atribuiu um litoral ao medieval Reino da Boêmia.
 

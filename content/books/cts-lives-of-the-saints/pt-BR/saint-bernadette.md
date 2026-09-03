@@ -145,4 +145,4 @@ Imprimatur:
 
 ## † D. Mannix,
 
-Arcebispo de Melbourne. 30 de novembro de 1945.
+Archiepiscopus Melbournensis. 30 de novembro de 1945.

@@ -301,4 +301,4 @@ Imprimi Potest:
 
 ## + Eduardus,
 
-Arcebispo de Dublin, Primaz da Irlanda, Dublin, 25 de outubro de 1935.
+Archiep. Dublinen., Hiberniae Primes, Dublini, die 25° Octobris 1935.

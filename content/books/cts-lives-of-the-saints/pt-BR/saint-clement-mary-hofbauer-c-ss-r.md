@@ -6,7 +6,7 @@
 ## O Apóstolo de Viena, 1751-1821
 
 
-## O Cenário Histórico
+## O cenário histórico
 
 OS anos que abrangem a vida de São Clemente Hofbauer foram anos conturbados para a Europa. Foram anos de grandes crises políticas; de gigantescos abalos em quase todos os Estados da Europa; de guerras e revoluções; de feroz luta social e ódio de classes. Clemente Maria Hofbauer crescia ainda menino quando a Guerra dos Sete Anos sangrava a Áustria até a exaustão. Estava em seus vinte anos quando a Guerra da Independência americana se arrastava entre os Estados norte-americanos e a Inglaterra. Estava em seus trinta anos quando a Revolução Francesa irrompeu sobre a Europa, e o sangue da aristocracia tingiu de púrpura as estradas da França. Estava na Polônia quando aquele grande patriota, Kosciusko, se levantou e caiu. Estava em Varsóvia quando aquela cidade foi sitiada em duas ocasiões. Trabalhava a trinta quilômetros do campo de Austerlitz quando Napoleão despedaçou as forças da Rússia e da Áustria. Evangelizava justamente aqueles lugares por onde marchavam os exércitos franceses nas intermináveis campanhas do imperador francês. Verdadeiramente, viveu numa era de grande agitação social e perturbação política.
 
@@ -15,7 +15,7 @@ E aqueles dias em que viveu foram dias sombrios para a Igreja de Deus. Ferida pe
 É preciso ter bem presente este pano de fundo histórico para se apreender a natureza heroica dos feitos que São Clemente realizou a serviço de Cristo, ou para se compreender como foi que, apesar de seu brilhante sucesso em conquistar almas para Cristo, ele não conseguiu em vida alcançar o grande propósito de sua existência — a saber, transplantar a Congregação dos Redentoristas para além dos Alpes —, propósito ao qual dedicou todas as energias de sua alma e de seu corpo.
 
 
-## Sua Infância
+## Sua infância
 
 Nascido em 26 de dezembro de 1751 na aldeia de Tasswitz, na Morávia — uma província da Áustria —, Clemente Maria Hofbauer (Dvorak, em moravo) contemplou com olhos de criança uma paisagem florestal de beleza incomparável. Nascido de pais profundamente piedosos, ainda que humildes, Clemente respirou desde o primeiro dia numa atmosfera de grande fé e piedade. Começou a vida com dois grandes tesouros, destinados mais tarde a desempenhar papel tão importante na gigantesca tarefa a que consagrou sua alma: o primeiro, o precioso dom de uma fé viva, tão forte, tão profunda, tão constante, que o tornava imune a qualquer tentação contra ela; o segundo, a bênção de uma constituição sadia e robusta. Sem nenhum desses dois dons, jamais teria realizado a obra que o tornou imortal.
 
@@ -199,7 +199,7 @@ Já vimos como uma instituição católica, onde as classes altas pudessem receb
 Como a Universidade de Viena era o baluarte dos inimigos da Igreja, podemos ver imediatamente o valor e a significância do apostolado do santo entre os estudantes. Uma força católica ia tomando forma definida dentro dos muros da Universidade, e essa força assumia uma postura intransigente. Professores que deixavam seu viés anticatólico transparecer em suas aulas eram rapidamente contestados. Uma sadia batalha se travava naquele antigo lar tranquilo do Racionalismo. Mas, enquanto nosso santo obtinha notável sucesso com a criação do "Círculo Hofbauer", como era chamado, desempenhava, contudo, um papel perigoso, pois concentrava sobre si toda a ira dos inimigos da Igreja. Um esforço determinado foi finalmente feito para quebrá-lo, e, quando a tempestade estourou, quase varreu sua obra à ruína total.
 
 
-## Sua Última Dor
+## Sua última dor
 
 Segundo as leis então vigentes há algum tempo na Áustria, as Ordens Religiosas eram proibidas de entrar em seu território, e a comunicação com superiores estrangeiros era declarada ilegal. Os inimigos do santo abriram seu ataque contra ele nessas bases. Ele foi citado perante um tribunal e acusado de estar em comunicação com um Superior fora do reino austríaco. Foi considerado culpado; e, como pena, recebeu a opção de obter a dispensa de seus votos ou de sofrer o banimento de sua terra natal. Em vez de buscar a dispensa de seus votos, Clemente aceitou a expulsão. Como ele sempre acalentara a esperança de que seu sonho de estabelecer sua Congregação na Áustria se realizaria um dia, essa decisão foi um golpe esmagador. Depois se descobriu que estava além da jurisdição desses juízes impor tal pena. O arcebispo de Viena chamou a atenção do Imperador para essa injustiça legal. Um inquérito foi ordenado. O tribunal foi censurado, e nosso santo foi salvo. Mais ainda, não apenas foi o santo autorizado a permanecer na Áustria, mas chegou-lhe informação confiável de que o assunto de legalizar um ramo da Congregação na Áustria estava sendo considerado pelo governo. O envelhecido Padre Clemente e seus amigos ficaram transportados de alegria com essa súbita mudança em sua sorte. Começaram a fazer preparativos para a fundação de um grande noviciado, enquanto esperavam, dia após dia, o decreto imperial de aprovação.
 
@@ -221,4 +221,4 @@ Imprimatur:
 
 ## + Daniel Mannix,
 
-Arcebispo de Melbourne. 27 de setembro de 1960
+Archiepiscopus Melbournensis. 27 de setembro de 1960

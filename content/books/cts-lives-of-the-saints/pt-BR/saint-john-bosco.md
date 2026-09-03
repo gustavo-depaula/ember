@@ -2,7 +2,7 @@
 
 O acrobata dobrou-se de tanto rir. Um desafio já era uma coisa, mas um desafio vindo de um adolescente atrevido, obviamente ainda inexperiente, era demais. E tudo porque uma multidão de crianças preferia assistir a seu espetáculo em vez de ir à igreja! Ele olhou para João, avaliou-o de novo e prontamente aceitou.
 
-Haveria quatro provas, e fixaram as apostas para a primeira. Para seu espanto, João o venceu na corrida e, depois de dobrarem as apostas, venceu de novo no salto. Ficou absolutamente furioso quando João conseguiu superá-lo na malabarismo, de modo que, numa aposta de tudo ou nada, pôs-se a escalar o olmeiro.
+Haveria quatro provas, e fixaram as apostas para a primeira. Para seu espanto, João o venceu na corrida e, depois de dobrarem as apostas, venceu de novo no salto. Ficou absolutamente furioso quando João conseguiu superá-lo no malabarismo, de modo que, numa aposta de tudo ou nada, pôs-se a escalar o olmeiro.
 
 Subiu e subiu, até começar a sentir a árvore se dobrar sob seu peso. Finalmente chegou ao topo, e ficou evidente para todos que era impossível subir mais alto. Recebeu tremenda salva de palmas.
 
@@ -80,7 +80,7 @@ Em grande parte, também o clero via seu trabalho com desconfiança. Alguns até
 
 Os santos, como os profetas, costumam passar despercebidos em seu próprio tempo e país. A santidade cotidiana frequentemente passa despercebida; às vezes é confundida com loucura. Mas, apesar de toda a angústia e decepção, Dom Bosco e seus meninos continuaram sua existência nômade, o pequeno sacerdote escondendo sua dor e participando de seus esportes e jogos. Eles, por sua vez, ficavam felizes em assistir a seus ofícios e devoções religiosas, muitas vezes ao ar livre. Não havia nenhuma imposição nisso; conheciam-no e o amavam como um sacerdote que irradiava o amor de Deus, e aceitavam espontaneamente seu convite para louvar a Deus como algo que lhes era certo fazer juntos.
 
-Mas Deus não seria superado em generosidade. Por fim, recompensou-os com um lar próprio — um barracão de madeira com telhado furado, tão próximo do chão que tiveram de escavar cerca de sessenta centímetros e fazer um novo piso. Mas, no Domingo de Páscoa (5 de abril) de 1846, Dom Bosco abençoou o barracão que agora se tornara sua capela. Sua obra cresceu e se desenvolveu em torno daquele local, e dali se espalhou até as partes mais distantes do globo.
+Mas Deus não seria superado em generosidade. Por fim, recompensou-os com um lar próprio — um barracão de madeira com telhado furado, tão próximo do chão que tiveram de escavar cerca de sessenta centímetros e fazer um novo piso. Mas, no Domingo de Páscoa (12 de abril) de 1846, Dom Bosco abençoou o barracão que agora se tornara sua capela. Sua obra cresceu e se desenvolveu em torno daquele local, e dali se espalhou até as partes mais distantes do globo.
 
 Mal encontrara uma base segura, ele redobrou seus esforços. Organizou aulas noturnas para que os que trabalhavam o dia inteiro tivessem oportunidade de aprender. Resolveu seu problema de pessoal recrutando alguns de seus meninos mais promissores como professores-alunos sob sua orientação, e também persuadindo alguns amigos na cidade a dar uma mão. Continuou com suas aulas de catecismo e, quando percebeu que não havia livro adequado de história bíblica, prontamente escreveu um ele mesmo.
 

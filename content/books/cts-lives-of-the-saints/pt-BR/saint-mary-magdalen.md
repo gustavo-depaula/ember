@@ -184,10 +184,10 @@ Há uma tradição segundo a qual, sete vezes por dia, os anjos, seus caros comp
 
 *Nihil Obstat:*
 
-W. M. COLLINS, Censor Deputado
+W. M. COLLINS, Censor Deputatus
 
 *Imprimatur:*
 
 ## @ D. Mannix,
 
-Arcebispo de Melbourne, 4 de janeiro de 1957
+Archiepiscopus Melbournensis 4 de janeiro de 1957
