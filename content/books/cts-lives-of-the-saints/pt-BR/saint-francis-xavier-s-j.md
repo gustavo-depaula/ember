@@ -125,7 +125,7 @@ O corpo foi sepultado às pressas, e uma quantidade de cal virgem colocada no ca
 São Francisco Xavier foi beatificado em 1619, e três anos depois foi canonizado junto com seu mestre e amigo Santo Inácio. Em 1748, foi constituído patrono da Índia e de todo o oriente, onde é venerado como grande servo de Deus. Em 1904, foi nomeado patrono da congregação da Propagação da Fé. Em 1927, São Francisco e Santa Teresinha de Lisieux foram constituídos por Pio XI como os principais patronos de todas as missões e missionários do mundo.
 
 
-## Sempre uma Inspiração
+## Sempre uma inspiração
 
 A passagem do tempo, com as mudanças e a alteração de ênfases que inevitavelmente traz, torna certos santos distantes para épocas posteriores, embora isso não diminua sua estatura heroica. As causas a que serviram tão nobremente já não são questões vivas. Mas a história jamais deixará São Francisco para trás. A causa a que prestou serviço tão esplêndido será sempre viva para a Igreja. "Sereis minhas testemunhas... até os confins da terra" foi a última missão que Cristo deu a Seus Apóstolos. Foi uma missão que sempre há de ser urgente; que nenhuma passagem do tempo tornará ultrapassada. Quando São Paulo exclamou: "Ai de mim se eu não anunciar o Evangelho!" (1 Cor 9, 16), ele deu voz ao impulso permanente não apenas de toda alma apostólica, mas da própria Igreja. A Igreja de Cristo deve ser sempre dinâmica, expansiva, deve sempre tender à mais plena expressão de ser católica, de ser para todos os homens. Sua preocupação deve ser sempre tornar Jesus Cristo conhecido por um círculo cada vez mais amplo de fiéis.
 
