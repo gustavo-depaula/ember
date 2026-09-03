@@ -595,3 +595,40 @@ English wording was carried over mechanically.
     re-verify the "[João 6:51–52]" fix in addition to the three prior
     in-range fixes, and the next Ch. 1–4 pass should re-verify the same
     fix in its Ch. 2 copy.
+- 2026-09-03 — **review round 10** (independent, adversarial, Ch. 5–8
+  only). Re-verified all four in-range fixes with exact current
+  wording — all confirmed correctly in place: Ch. 5 capitulum "que
+  **será entregue** por vós" (1 Cor 11:23–24), Ch. 6 Sext versicle
+  response "Sois vós quem me **restituirá** a minha herança", and
+  Ch. 8's Second Vespers responsory versicle "[João **6:51–52**]" and
+  Magnificat antiphon "[João **6:32–33**]". Re-confirmed the Ch. 3
+  Lauds → Ch. 4/5/6/7 Prime/Terce/Sext/None antiphon-reuse consistency
+  by diffing all four reused antiphons (Salmo 110/111 for Prime; the
+  Eclesiástico, 1 Coríntios 10:3–4, and Apocalipse 2:17 antiphons for
+  Terce/Sext/None respectively) word-for-word, citation included,
+  against their Ch. 3 originals — byte-identical in every case, no
+  drift. Ran a full fresh sentence-by-sentence fidelity read of
+  Ch. 5–8 against `la/` (tense, mood, negation, subject/object
+  direction, theological terms, vós-register) — no defects found;
+  every future/perfect/present tense and every agent/patient
+  direction in the capitula, responsories, versicles, and antiphons
+  matched the Latin. Ran an exhaustive citation sweep of **every**
+  bracket/parenthetical citation in Ch. 5–8 against
+  `content/bible/drb/{ecclesiasticus,psalms,1-corinthians,apocalypse,
+  john}.json` — Sir 24:28–29, Ps 22(23):5 (×2, Ch. 5 and Ch. 7), Ps
+  144(145):15, 1 Cor 11:23–24, 1 Cor 10:3–4, Ps 77(78):25, Ps 15(16):5,
+  1 Cor 11:26, Rev 2:17, 1 Cor 11:27, Ps 115:4(116:13), 1 Cor 11:28–29,
+  John 6:48–50, John 6:51–52, Ps 110(111):4, John 6:32–33 — all
+  confirmed to quote exactly the verse(s) cited, with no boundary
+  errors. Found **no new defects** anywhere in Ch. 5–8.
+  - No changes made; no rebuild needed.
+  - **Verdict**: Ch. 5, 6, 7, 8 — CLEAN (all in-range fixes confirmed,
+    antiphon-reuse consistency re-confirmed, full fidelity read and
+    citation sweep both clean).
+  - **Clean-round count**: this is the first clean Ch. 5–8 round since
+    round 9 found the John 6:51–52 defect, so it is one clean round for
+    this range, not yet two consecutive; the Ch. 1–4 range's last
+    result (round 9) found eleven defects, so the whole-book
+    two-consecutive-clean-round count remains at zero. At least one
+    clean Ch. 1–4 round followed by one more clean round in either
+    range is still needed before review can close.
