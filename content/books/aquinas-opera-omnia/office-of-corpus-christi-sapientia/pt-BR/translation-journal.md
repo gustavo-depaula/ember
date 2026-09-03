@@ -224,3 +224,32 @@ English wording was carried over mechanically.
   source itself (not a translation error — pt-BR faithfully matches it).
   **One clean round down, one more consecutive clean round needed** before
   the review can close per the two-consecutive-clean-rounds rule.
+- 2026-09-03 — **review round 6** (2 fresh independent passes, Ch. 1–4 and
+  Ch. 5–8). Ch. 5–8 pass: **clean** — both in-range fixes re-verified,
+  reuse consistency re-confirmed, no new defects; second consecutive clean
+  round for that range. Ch. 1–4 pass: all ten in-range fixes confirmed
+  correctly in place; two new defects found, resetting the whole-book
+  clean-round count to zero:
+  - Ch. 2, Reading 4 — *"ut **sint quae erant**, et in aliud
+    convertantur"* is two coordinated purpose clauses: (1) the species
+    *continue to be what they were* (the accidents remain), and (2) *are
+    converted into something else* (the substance changes) — the
+    classical patristic articulation of what later became "accidents
+    remain, substance changes," echoed later in Reading 10 ("*Corpus
+    Christi et veritas et figura est*"). The translation had collapsed
+    both into one clause, entirely dropping the "continue to be what they
+    were" half — a doctrinally load-bearing omission, not a compression.
+    Fixed to render both clauses: "para que sejam as que já eram, e sejam
+    mudadas em outra coisa!"
+  - Ch. 2, Third Nocturn antiphon (Manoah/Samson's father offering the
+    kid) — cited "[Juízes 3:19–20]"; the Manoah episode is Judges
+    **13**:19–20 (Judges 3 is the unrelated Ehud/Eglon narrative). The
+    Latin gives no citation at all (this bracket citation, like Ch. 3's
+    Hebrews one, is an editorial addition); en-US independently carries
+    the same wrong chapter number, but that doesn't make it correct.
+    Fixed to "[Juízes 13:19–20]".
+  - Rebuilt with `pnpm build:corpus` after both fixes — clean, no new
+    warnings.
+  - **Clean-round count reset**: two consecutive fully-clean rounds are
+    still required before review closes; round 6 was not clean (Ch. 1–4
+    had two defects), so at least one more full clean round is needed.
