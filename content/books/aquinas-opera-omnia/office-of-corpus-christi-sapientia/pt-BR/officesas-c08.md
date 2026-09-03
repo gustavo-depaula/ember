@@ -26,6 +26,6 @@ Magnificat
 
 ***Lucas 1:46–55***
 
-*Antífona do Magnificat*. Em verdade, em verdade vos digo: não foi Moisés que vos deu o pão do céu, mas o meu Pai vos dá o verdadeiro pão do céu. Pois o verdadeiro pão é aquele que desce do céu e dá vida ao mundo, aleluia. [João 6:32]  
+*Antífona do Magnificat*. Em verdade, em verdade vos digo: não foi Moisés que vos deu o pão do céu, mas o meu Pai vos dá o verdadeiro pão do céu. Pois o verdadeiro pão é aquele que desce do céu e dá vida ao mundo, aleluia. [João 6:32–33]  
 
 A minha alma * engrandece o Senhor, etc.

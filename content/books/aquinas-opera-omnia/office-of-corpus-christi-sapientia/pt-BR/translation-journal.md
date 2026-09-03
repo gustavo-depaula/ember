@@ -319,3 +319,52 @@ English wording was carried over mechanically.
     needed (covering both ranges) before review can close. The next
     Ch. 1–4 pass should re-verify these five citation fixes in addition
     to all twelve prior fixes.
+- 2026-09-03 — **review round 8** (adversarial, Ch. 5–8 only, this
+  range's turn in the alternating-range schedule; prompted by round 7's
+  discovery of citation errors in Ch. 2, which raised the concern that
+  similar citation defects might exist undetected in Ch. 5–8, since
+  rounds 1–6 focused more on tense/mood/negation than on citation
+  accuracy). Re-verified both in-range fixes (Ch. 5 "tradetur" →
+  "será entregue", Ch. 6 "restitues" → "restituirá") — both confirmed
+  correctly in place. Re-confirmed the Ch. 3 Lauds → Ch. 4/5/6/7
+  Prime/Terce/Sext/None antiphon-reuse consistency by diffing every
+  reused antiphon's Portuguese wording and bracket citation side by
+  side — all identical, no drift. Ran an exhaustive citation sweep:
+  every bracket/parenthetical citation in Ch. 5–8 was checked chapter-
+  and-verse against the corpus's own Douay-Rheims text
+  (`content/bible/drb/{psalms,ecclesiasticus,john}.json`) and, for the
+  Latin-verse boundaries, against the Clementine Vulgate — roughly 20
+  citations total (Sir 24:28–29, Ps 110:4–5, Ps 22:5 ×2, Ps 144:15,
+  1 Cor 11:23–24, 1 Cor 10:3–4, 1 Cor 11:26, Ps 77:25, Ps 15:5,
+  1 Cor 10:20–21, Rev 2:17, 1 Cor 11:27, Ps 115:4 (116:13), 1 Cor
+  11:28–29, John 6:48–50, John 6:51, John 6:32). All confirmed correct
+  **except one**:
+  - Ch. 8, Magnificat antiphon — *"Amen, amen dico vobis: non dedit
+    Moyses vobis panem de caelo sed Pater meus dat vobis panem verum de
+    caelo. Panis enim verus est qui de caelo descendit et dat vitam
+    mundo"* quotes **two** consecutive Vulgate verses (confirmed against
+    the Clementine text: v. 32 ends at "...panem de caelo verum"; v. 33
+    begins exactly at "Panis enim [Dei/verus] est qui de caelo
+    descendit..."), but was cited only "[João 6:32]", silently dropping
+    the second verse — the same defect shape round 7 found in Ch. 2
+    (en-US independently carries the identical truncated "[John 6:32]"
+    citation, so this is another citation error inherited unchanged
+    from en-US, not introduced in translation). Fixed to
+    "[João 6:32–33]".
+  - A full fresh sentence-by-sentence fidelity read of Ch. 5–8 against
+    `la/` (tense, mood, negation, subject/object direction, theological
+    terms) found no further defects — every future/perfect/present
+    tense, every negation, and every agent/patient direction in the
+    capitula, responsories, versicles, and antiphons matched the Latin.
+  - Rebuilt with `pnpm build:corpus` after the fix — clean, no new
+    warnings (pre-existing H1/TOC-drift warnings on unrelated chapters
+    and books are unaffected).
+  - **Verdict**: Ch. 5, 6, 7 — CLEAN (no defects, in-range fixes
+    confirmed). Ch. 8 — NOT CLEAN going in (one new citation defect
+    found and fixed); CLEAN now that the fix is applied.
+  - **Clean-round count**: round 8 was not a clean round (one new
+    defect found in Ch. 8), so the two-consecutive-clean-round count
+    remains at zero. At least two more full clean rounds (covering
+    both ranges) are still needed before review can close. The next
+    Ch. 5–8 pass should re-verify this John 6:32–33 fix in addition to
+    the two prior in-range fixes.
