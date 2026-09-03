@@ -19,6 +19,7 @@ Target: pt-BR
 | bishops and deacons | bispos e diáconos | standard ecclesiastical terms, matching every other church-fathers pt-BR translation |
 | Christian Reproof (Ch. 15 heading) | A Correção Fraterna | the editorial heading names the general practice described in the chapter (mutual correction "not in anger, but in peace"); rendered as the settled corpus term for fraternal correction rather than a literal "Repreensão Cristã", which would read as harsher than the chapter's own peaceable tone |
 | Watchfulness (Ch. 16 heading) | Vigilância | literal |
+| Master (divine title, Ch. 10, distinct from "Lord" one sentence later in the same prayer) | Soberano | "Mestre" was unavailable — already the corpus's established term for "teacher" (Ch. 11/13/15's mestres); "Soberano" preserves a second, distinct divine vocative alongside "Senhor" rather than collapsing both English titles into one Portuguese word |
 
 ## Translation Decisions
 
@@ -47,3 +48,7 @@ Target: pt-BR
   - Ch. 1 (both occurrences) — "não o reclames de volta" ("ask it not back") read as an English "claim it back" calque rather than natural Portuguese. Fixed to "não o exijas de volta".
   - Ch. 4 — "Não estarás indeciso quanto a se há de ser ou não" was a convoluted construction with an unclear referent for "ser", mirroring the awkwardness of the archaic English ("whether it shall be or no") too literally. Fixed to "quanto a se algo há de ser feito ou não", clarifying the referent while keeping the sentence's own register.
   - **Not a defect, worth recording so it isn't re-flagged**: the bilingual pass noted this file's tu/vós person switches occur between sentences, never within one — and, checked against Hoole's 1885 Didache translation (which marks the Greek's thee/ye distinction explicitly), this pt-BR translation's tu/vós pattern independently lines up with the actual underlying Greek's number shifts, which the en-US source (Riddle, ANF) flattens to number-neutral "you". Not something to "fix" toward the English's flattened form.
+- 2026-09-03 — **review round 4** (2 parallel passes: fresh full bilingual re-read + round-3 fix verification, and an independent monolingual proofread). All three round-3 fixes confirmed sound. Three new defects found and fixed, all narrow/isolated (the text is converging):
+  - Ch. 10 — "Master almighty" and "Lord" are two distinct divine vocatives in the same Eucharistic prayer ("You, **Master** almighty, created..." / "**Remember, Lord**, Your Church..."), both of which had collapsed into a single "Senhor". Fixed by rendering "Master" as "Soberano" (see Key Terms) — restoring the two-title distinction without colliding with the corpus's existing "Mestre" = teacher convention.
+  - Ch. 4 — "participante **naquilo**" was a regência slip; "participante" governs "de" in Portuguese (cf. "participantes da natureza divina," 2 Pedro 1:4). Fixed to "participante **daquilo**".
+  - Ch. 14 — "dai **ação de graças**" was lowercase while the identical Eucharistic-rite term is capitalized as a formal/technical term everywhere else in the file ("a Ação de Graças (Eucaristia)" x3 in Ch. 9–10). Fixed to "dai **Ação de Graças**".
