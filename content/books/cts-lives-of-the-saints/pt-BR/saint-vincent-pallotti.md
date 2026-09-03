@@ -250,4 +250,4 @@ Imprimatur:
 
 ## † Daniel Mannix,
 
-Arcebispo de Melbourne. 7 de janeiro de 1963.
+Archiepiscopus Melbournensis. 7 de janeiro de 1963.

@@ -8,7 +8,7 @@ Nesta história de uma pecadora pública que se torna santa, Nosso Bendito Senho
 
 Há nessa conversão uma beleza moral, tão cativantemente humana e ao mesmo tempo tão ternamente divina, tão inteiramente semelhante a Cristo em sua piedade e clemência, que não só comprova a autenticidade da própria história, mas ainda hoje, depois de dois mil anos, comove e derrete nossos corações.
 
-## Quem Foi Maria Madalena?
+## Quem foi Maria Madalena?
 
 Na extremidade sul da bela e pequena planície de Genesaré ficava a pequena, mas elegante, cidade de Magdala. Situava-se convenientemente a meio caminho entre Cafarnaum, ao norte, e Tiberíades, ao sul. De Cafarnaum e de seu pobre e trabalhador povo pescador podia obter tanto provisões quanto ajuda doméstica; de Tiberíades vinham as classes ociosas, romanos e judeus por igual, que apreciavam uma vila à beira-mar. Era uma cidade alegre. A gente comum da região vizinha e das aldeias de pescadores não tinha boa opinião de Magdala.
 
@@ -20,7 +20,7 @@ São Lucas nos apresenta Maria Madalena como "uma mulher que havia na cidade, um
 
 São Lucas menciona "Joana, mulher de Cuza, administrador de Herodes", no palácio de Tiberíades, não longe de Magdala. Nomeia também "Susana", e muitas outras que o serviam com seus bens (São Lucas 8, 3). É possível que essas boas mulheres, a primeira confraria feminina da Igreja, tenham falado a Maria Madalena de Jesus e a tenham levado a ouvi-lo falar, e também a testemunhar seu poder de curar e a sentir sua compaixão pelo pecador e pelo aflito. Isso a teria preparado para seu ato público de reparação, que São Lucas narra (São Lucas 7, 36-50).
 
-## O Jantar Na Casa De Simão, O Fariseu
+## O jantar na casa de Simão, o fariseu
 
 Só São Lucas nos oferece o relato do jantar na casa de Simão, o fariseu. São Lucas não indica o momento ou o lugar. Um fariseu, chamado Simão, convidou Jesus para uma refeição. Uma mulher, conhecida por sua má fama, entrou na sala. Trazia consigo um vaso de alabastro com perfume. Aproximou-se por trás de Jesus, que estava reclinado num divã, e começou a banhar-lhe os pés com suas lágrimas, e os enxugava usando seus cabelos soltos como toalha. Não parava de beijar os pés sagrados e os ungiu com o óleo.
 
@@ -30,7 +30,7 @@ Esses são os fatos nus, tal como narrados por São Lucas. Mas podemos, com a im
 
 Simão, o fariseu, devia ser homem rico, pois o jantar era elaborado, e os convidados eram as pessoas mais importantes da cidade. Simão ouvira muitas coisas sobre Jesus, todas favoráveis, e a notícia mais recente, a de ter ressuscitado o filho da viúva em Naim, do outro lado do vale, dias antes, convenceu-o de que esse homem valia a pena conhecer, então vamos convidá-lo para jantar em casa. É claro, deve-se lembrar que ele não passava de um carpinteiro de Nazaré, ainda por cima. Devia ser rude, de maneiras rústicas, e desajeitado em tão elevada sociedade. O convite foi enviado, e Jesus o aceitou. Foi recebido cortesmente por Simão, mas este deixou de lado o lavar dos pés à porta, o abraço formal ao entrar, e nenhum óleo lhe foi dado para os cabelos. É claro, ele não estava acostumado a essas coisas e não haveria de sentir falta delas. Desde o início, Jesus foi colocado em seu lugar por Simão e seus convidados. Jesus não pareceu notar a condescendência. Como os demais, reclinou-se no lugar que lhe fora designado. Falava quando lhe dirigiam a palavra. O jantar caía num tédio, e os amigos de Simão não tinham a noite interessante que ele lhes prometera.
 
-## A Entrada Dramática De Maria
+## A entrada dramática de Maria
 
 De súbito, aconteceu algo estranho. O salão de jantar era aberto por todos os lados; qualquer um podia olhar para dentro, para as mesas e os convidados. De repente, na varanda, estava de pé uma mulher. Vestia-se elegantemente, com anéis reluzentes nos dedos, braceletes dourados nos braços nus, e seus cabelos eram longos e soltos sobre os ombros. Seu rosto era belo, mas ao mesmo tempo forte e imponente. Não era mulher comum; nascera para ser grande, seja para o bem, seja para o mal. Ficou ali de pé, sem sorrir, examinando os convidados, os olhos em busca de alguém.
 
@@ -46,7 +46,7 @@ Ninguém podia deixar de reconhecer quem era essa mulher. Era conhecida por todo
 
 Mesmo na alegre Magdala ela era notória. Tal mulher, dizia a Lei, devia ser evitada, pois era uma mácula legal ser tocado por uma pecadora notória. Que ela se intrometesse naquela companhia era inacreditável, e que fosse recebida como Jesus a recebeu era um insulto a todos os presentes, e colocava esse novo profeta sob uma luz muito desfavorável. Se ele fosse o que professava ser, jamais permitiria que essa mulher o tocasse. Finalmente o tinham pego. Os convidados tiveram amplo tempo para tais pensamentos, pois a cena diante deles se prolongava, e Jesus não mostrava nenhum sinal de desejar que terminasse.
 
-## Jesus Conta Uma Parábola
+## Jesus conta uma parábola
 
 Jesus via seus pensamentos claramente, mas se dignou a ajudar Simão, pois Simão não era tão preconceituoso quanto os demais. Terminada a unção, Maria permaneceu a seus pés, contente por ficar ali. Não fora repelida: sabia que era bem-vinda, e isso lhe bastava. Jesus conquistara a mulher, e, por meio dessa mulher pecadora, poderia conquistar Simão. Voltou-se para Simão e falou com voz de autoridade, ainda assim suas palavras eram brandas e cativantes.
 
@@ -108,13 +108,13 @@ A pobre mulher a seus pés as ouviu e se sentiu uma mulher nova. Não esperava i
 
 Instantaneamente ela se ergueu do chão. Agora era fácil partir. Atravessou a sala sem ver os que ali estavam. Que a desprezassem, que afastassem seus mantos ao passar. Que fizessem como quisessem; seu coração estava além de tudo isso, fora até ele, que a fizera sua amiga. O resto não importava nada. A mulher da cidade, uma pecadora, era a mulher mais feliz do mundo.
 
-## O Grande Espírito De Maria
+## O grande espírito de Maria
 
 Foi preciso uma grande alma, um espírito heroico, para fazer o que Maria fez naquele dia, na casa de Simão. Foi preciso coragem para enfrentar Cristo, sabendo o que ela mesma era. Sabia que ele era Deus. Ouvira e vira o bastante para se convencer de que não era um impostor, mas o que afirmava ser, e sabia que ele reivindicava seu direito de ser aclamado como o Messias, e o Messias era Deus. Do contrário, não se teria importado, nem ousado, pedir-lhe perdão do pecado. De fato, isso despertou a ira da multidão que ouviu Cristo pronunciar seu perdão, por ele arrogar a si o poder de perdoar; Maria não tinha nenhum escrúpulo quanto a isso, tomava-o por certo, e por que não? O Mestre que vira em Naim ressuscitar o filho da viúva não podia ser menos do que o Deus que afirmava ser. Assim, a ele devia ir, e a ele foi; mas a que custo de vitória sobre si mesma! Conheceu-se então, e desprezou o que conheceu. Sentiu toda a agonia da autorrecriminação que o pecador arrependido sempre deve sentir quando é levado a contrastar sua vileza com a perfeita santidade e a santidade do Deus que ofendeu. Maria sentiu tudo isso em plenitude. Amava agora de um modo que lançava luz reveladora sobre seus amores fáceis de outrora e lhe mostrava o que eram, na verdade, como Deus os via. Horrorizou-se consigo mesma, sentiu também nojo, percebeu que estava suja e profundamente maculada. Assim, sua decisão estava tomada, e, ao caminhar para a casa de Simão, o pensamento de que ele pudesse desprezá-la a atormentava, mas não conseguia deter seus passos. Respondeu ao último argumento de Satanás assegurando-se de que o Mestre dificilmente poderia superar em desprezo o que Maria sentia então por si mesma. E então veio uma estranha confiança de que ele jamais a rejeitaria.
 
 Maria seguiu até Cristo, e ali, na presença de todo o seu pequeno mundo, fez seu grande ato de submissão e humildade. Uma coisa, e apenas uma, importava: que fizesse pública reparação pelo pecado que cometera em público. Precisava mostrar ao mundo que Maria, a pecadora, não seria mais pecadora, mas Maria, a penitente, já não brinquedo de nenhum homem, mas seguidora arrependida e humilde de Jesus, cujo amor por ela era grande e nobre o bastante para atravessar a imundície e encontrar e resgatar a verdadeira Maria Madalena.
 
-## Sua Coragem Heroica
+## Sua coragem heroica
 
 Isso, porém, era apenas o começo de sua coragem, apenas o primeiro ato de vontade que teria de manter pelo resto de sua vida. Foi preciso grande coragem para enfrentar sua própria alma. Era fácil agora, quando estava exaltada por sua grande profissão de fé e gratidão em seu arrependimento; isso foi uma vez, diante do mundo que a conhecia de outra forma. Mas e aqueles longos dias, e as noites ainda mais longas, quando estava sozinha com sua consciência, sozinha com suas lembranças? Como devem ter queimado e ferido; como aquelas lágrimas de arrependimento e pesar devem tê-la escaldado! Ao olhar para o passado, e ver sua própria alma como fora, nenhuma medida de autorrecriminação seria demasiado grande. Mas bastava-lhe recordar, naquela hora de extrema necessidade, o Sagrado Rosto no qual lera perdão, tolerância e bondade, e o sol brilhava de novo, e sabia que, por mais vil que tivesse sido por sua própria ação, era digna e boa de novo pela ação de Cristo. O passado, lamentável como fora, estava para sempre passado; daí em diante bastava-lhe amar, e isso fez com toda a intensidade de sua alma apaixonada. Isso resolvia todos os problemas, dava toda a força necessária para aquelas horas silenciosas em que Cristo não estava presente para consolar e assegurar. Não é de admirar que passasse todos os minutos que podia a seus pés, quando ele vinha à casa em Betânia. Ela escolhera a melhor parte, de fato.
 
@@ -122,7 +122,7 @@ Outra ansiedade lhe enchia o coração. Comprometeria ela a Cristo diante do pú
 
 E, no entanto, ali estava ele, associando-se em amizade com uma cortesã reformada. Tudo bem e certo em perdoar, sem dúvida; era para isso que viera, para salvar os pecadores e reformá-los. Mas certamente ir além de todos os limites imagináveis, fazer amiga de uma antiga meretriz, frequentar sua casa, comer com ela, ficar em dívida com ela e sua família por hospitalidade e serviço. O que pensaria disso o mundo maldizente, perguntava o coração recriminador de Maria? Era uma consideração dolorosa, mas, novamente, não havia lugar para dúvida quanto ao amor do Mestre por ela, e essa era a única coisa que importava. Ela amava e era amada em troca, e todos os críticos e fariseus não podiam mudar essa única coisa estupenda; e, longe de sua associação com ele lhe causar mal aos olhos do povo, apenas mostraria sua grande paciência e tolerância ao perdoar a mulher de má fama da cidade.
 
-## A Segunda Unção Por Maria
+## A segunda unção por Maria
 
 O relato evangélico diz:
 
@@ -134,7 +134,7 @@ Jesus, sabendo bem o que Judas faria em poucos dias, tratou-o com muita brandura
 
 Jesus concluiu com este amoroso tributo à gratidão: "Em verdade vos digo: onde quer que este Evangelho for pregado, em todo o mundo, também o que ela fez será contado, em memória dela."
 
-## Seu Ato De Amor E Gratidão
+## Seu ato de amor e gratidão
 
 Santo Agostinho nos assegura que houve duas unções, uma na casa de Simão, o fariseu, e outra na casa de Simão, o leproso, mas houve apenas uma mulher, Maria Madalena. A primeira unção de Maria foi um ato público de arrependimento e pesar; sua segunda unção foi seu ato final de amor e gratidão antes de sua morte, que ela sentia estar próxima.
 
@@ -144,7 +144,7 @@ Maria entrou no salão de banquete de Simão: viu Jesus e correu para ele, que e
 
 Jesus foi brando com Judas. Não o culparia, embora soubesse o que outra semana breve haveria de revelar. O que Maria fizera, por mais extravagante que pudesse parecer a todos os presentes, ela fizera porque o amava. Maria não pôs limites a seus dons. Os Apóstolos talvez não entendessem agora, mas um dia entenderiam, e então competiriam entre si para preservar seu nome e o que ela fizera naquele dia. De todos os homens e mulheres que entraram em sua vida, nenhum deveria ser mais conhecido pela posteridade, nenhum mais estimado, do que Maria Madalena.
 
-## As Duas Marias
+## As duas Marias
 
 Maria, a Mãe de Deus sem pecado, seguiu o exemplo de seu Divino Filho ao aceitar abertamente Maria de Magdala como irmã. Isso tornava a Madalena ainda mais grata pelo perdão de Cristo, ao ver que Maria, sua Mãe imaculada, abrira seus braços e seu coração à outra Maria, que estivera tão longe de ser imaculada. Que cena a imaginação pode pintar, quando pela primeira vez a Virgem Mãe acolheu Maria Madalena em sua própria companhia e na de seu Divino Filho! Mas a Mãe de Cristo fez mais do que apenas se dignar a receber a meretriz reformada; fez dela sua companheira e íntima, chamou-a de amiga e irmã, amou-a como tal, tal como Cristo fazia. Que humilhante deve ter sido essa associação para a Madalena, ao contrastar seu passado com o daquela que é a Grande Mãe de todos nós. Isso, porém, não a perturbava, mas apenas a fazia amá-lo ainda mais. Havia lugar no Sagrado Coração para ambas as Marias, a imaculada e a resgatada. Humildemente grata, amava ainda mais.
 
@@ -158,7 +158,7 @@ De manhã cedo, na manhã de Páscoa, Maria e as outras mulheres vieram ungir o 
 
 "Maria!" — "Raboni!" As duas saudações diziam volumes, e desse encontro Maria colheu fé, confiança e segurança que lhe bastariam pelo resto de seus anos, os anos que sobreviveria à Ascensão, anos que passaria com suas lembranças e seu amor, fazendo penitência por seu passado pecaminoso, agora todo cancelado por uma única razão suprema: que amara muito. Amou, e, amando verdadeiramente, amou até o fim, sempre a mesma mulher impetuosa, apaixonada e amorosa que fora outrora meretriz, mas que chegara a amar não os homens, nem sequer um homem, mas o próprio Deus, e nesse amor encontrou cura e salvação.
 
-## Suas Ricas Recompensas
+## Suas ricas recompensas
 
 Como o Senhor recompensou ricamente Maria Madalena, mesmo nesta vida! Seu ato público de reparação na casa de Simão, seu sincero arrependimento e seu grande amor lhe conquistaram a companhia e a amizade de Cristo. Sua casa em Betânia se tornou a casa dele. Por causa dela, ele ressuscita Lázaro dentre os mortos. Ela se assenta a seus pés, o coração cheio de amor e gratidão, e ele não atenderá à queixa de Marta de que ela está ociosa. Não; ela escolheu a melhor parte.
 
@@ -172,7 +172,7 @@ E então lhe vem a largura, a profundidade e a altura do amor dele. Se não tive
 
 Peçamos a Maria Madalena que compartilhe conosco seu amor, e que nos convença de que o amor é a melhor reparação pelo pecado. "Muitos pecados lhe são perdoados, porque amou muito."
 
-## Seus Últimos Dias Na França
+## Seus últimos dias na França
 
 Maria Madalena e sua família eram especialmente odiadas pelos fariseus, porque sua casa sempre tinha porta aberta para Cristo e seus discípulos. Depois do milagre de Lázaro, suas vidas correram perigo, mas foram salvas graças à posição e à influência da família entre a alta aristocracia judaica. Percebemos também uma impressão de extrema prudência e reserva envolvendo essa família, tão querida de Jesus. Os evangelistas São Mateus, São Marcos e São Lucas mal a mencionam, e têm o cuidado de não a identificar; a ela aludem como quem fala de pessoas que, sob um regime totalitário, estão expostas a represálias imediatas. São João, porém, que escreveu depois da queda de Jerusalém, não parece de forma alguma preso à mesma prudência. Em seu relato do banquete na casa de Simão, o leproso, em Betânia, menciona Maria pelo nome, e também Lázaro como um dos convidados.
 
@@ -188,6 +188,6 @@ W. M. COLLINS, Censor Deputado
 
 *Imprimatur:*
 
-@ D. MANNIX,
+## @ D. Mannix,
 
 Arcebispo de Melbourne, 4 de janeiro de 1957

@@ -7,7 +7,7 @@ Em 5 de março deste Ano Santo de 1950, multidões de jovens de quase todos os p
 Vale a pena, então, conhecer um pouco desse estudante, que mereceu tal glória e renome mundial. Nunca antes, na história das escolas católicas, a vida escolar foi tão exaltada e dignificada quanto no reconhecimento, pela Igreja, da santidade de vida de Domingos Sávio, o Estudante Confessor.
 
 
-## Primeira Infância
+## Primeira infância
 
 Domingos Sávio nasceu em 2 de abril de 1842, numa aldeia do Piemonte, norte da Itália, de nome encantador: Riva di Chieri. Ali, seu pai, Carlos Sávio, trabalhava como ferreiro, carpinteiro e faz-tudo da aldeia. Carlos Sávio e sua esposa, Brígida, eram muito respeitados entre seus parentes rurais, e, embora nunca estivessem muito acima da pobreza, eram ricos na fé forte e sólida do campesinato piemontês. O ferreiro, forte e musculoso, olhou com ternura, naquele dia de abril, para seu filho recém-nascido. Como todo pai, olhava para o futuro e se perguntava o que ele traria. Certamente o presente tinha pouco a oferecer. Seu lar era uma humilde casinha; seu trabalho nos campos e na forja proporcionava pouco mais que o estritamente necessário. Assim, de um ponto de vista mundano, o futuro do filho era muito incerto, e nada promissor. Mas a confiança dos pais em Deus era tão profunda quanto sua fé, e, como penhor dessa confiança, decidiram que, no batismo da criança no dia seguinte, ele seria chamado Domingos, isto é, "do Senhor". Quão verdadeiramente ele era um filho "do Senhor" eles mal podiam imaginar então, mas o forte espírito católico do lar dos Sávio foi a primeira e mais duradoura influência na formação deste menino santo.
 
@@ -28,7 +28,7 @@ Mesmo naquela tenra idade, ele já percebia a necessidade de se esforçar para s
 Essas resoluções, feitas por Domingos aos sete anos de idade, mostram o quanto ele já estava avançado na vida espiritual, e quão prática era sua piedade, apesar de seus tenros anos.
 
 
-## Dias de Escola Heroicos
+## Dias de escola heroicos
 
 Domingos frequentou a escola local até os dez anos. Depois, tornou-se necessário que terminasse seus estudos numa escola mais avançada. Isso significava uma caminhada de cerca de oito milhas por dia, de ida e volta, até a escola municipal mais próxima, em Castelnuovo. Era um caminho longo e solitário, e naquela época infestado de vagabundos e assaltantes. O povo camponês, que o via caminhar dia após dia rumo à escola sob as chuvas e neves do inverno e sob o sol escaldante do verão, balançava a cabeça em desaprovação e duvidava do bom-senso do ferreiro, que enviava seu filho tão longe, sozinho, para se educar.
 
@@ -67,7 +67,7 @@ Mais tarde, porém, o verdadeiro culpado foi descoberto, e o diretor, cheio de r
 A honra de Domingos foi assim reivindicada, e o fato de não ter delatado seu caluniador o tornou ainda mais admirado aos olhos dos meninos, e, na estima de seus professores, um aluno de caráter inflexível.
 
 
-## O Estudante Apóstolo
+## O estudante apóstolo
 
 Aos doze anos, Domingos sentiu-se chamado ao sacerdócio. Seu pároco, então, aconselhou o pai a procurar Dom Bosco em Turim. Dom Bosco prometeu entrevistar o menino em sua próxima visita a Murialdo, não muito longe de Mondonio, onde a família Sávio agora residia. O encontro do santo com o estudante deu-se no início de outubro de 1854, e o próprio Dom Bosco relata o que se passou naquela manhã.
 
@@ -180,7 +180,7 @@ Então o mais enfurecido dos dois gritou roucamente:
 Este apelo de última hora, feito tão inesperadamente por seu amigo, abrandou o fio de sua fúria. Perderam a bravata, e o bom senso prevaleceu. Um deles largou as pedras e se dirigiu, arrastando os pés, para seus livros escolares no chão. Pegou-os e partiu em direção à cidade. Ao longe, os sinos repicavam pela quietude da noite, e o Angelus soava sobre mais um triunfo da graça, enquanto um menino se ajoelhava com pesar fora do confessionário de uma igreja da cidade.
 
 
-## "Jesus e Maria Serão Meus Amigos"
+## "Jesus e Maria serão meus amigos"
 
 Desde a infância, Domingos demonstrara extraordinária devoção a Nosso Senhor no Santíssimo Sacramento. Na escola de São João Bosco, essa devoção era suprema. De fato, o sistema educativo do santo era fundamentalmente sacramental. Ele dava a seus meninos toda oportunidade de Confissão e Sagrada Comunhão frequentes. Domingos aproveitou plenamente essa oportunidade, e seu amor e devoção à Sagrada Eucaristia foram a fonte de toda a alegria e zelo que caracterizaram sua jovem vida. Sua Comunhão diária e suas frequentes visitas ao Santíssimo Sacramento transformaram seu ardor juvenil em zelo apostólico, o qual, como afirmou o Papa Pio XI, "animava toda a vida deste afortunado rapaz".
 
@@ -269,7 +269,7 @@ Em outra ocasião, Dom Bosco achou prudente mandar Domingos para casa por um tem
 A boa mulher correu para fora e olhou a estrada de um lado a outro, mas não havia sinal de senhora alguma. Perguntou-se quem poderia ter sido aquela senhora. Em sua mente havia uma pergunta: "Seria a bela senhora que acompanhara seu filho no caminho de casa a Mãe de Deus?" Certamente, à luz da profunda e constante devoção do menino ao Imaculado Coração de Maria, não parece de forma alguma improvável que ela se dignasse a proteger, se necessário, com sua presença visível, este filho de predileção.
 
 
-## O Amor de Domingos Pela Penitência
+## O amor de Domingos pela penitência
 
 "A vida de Domingos Sávio", atestou Pio XI, "toda oração e penitência, mesmo que não chegue às alturas das austeridades narradas na história da santidade, foi, não obstante, uma vida de verdadeira penitência. De fato, ela nos dá a todos uma lição muito útil, especialmente à juventude de nosso tempo, porque foi uma penitência ao alcance de todos. Ele mostrou em sua vida uma contínua vigilância e o domínio do espírito sobre o corpo."
 
@@ -282,7 +282,7 @@ Seu ardor juvenil, porém, buscava formas e meios de se mortificar secretamente.
 Com estas palavras, Domingos pareceu satisfeito e seguiu alegremente seu caminho.
 
 
-## O Apóstolo do Pátio
+## O apóstolo do pátio
 
 Nenhum esboço da vida de Domingos, por mais breve que seja, estaria completo sem alguma referência a esta encantadora faceta de seu apostolado.
 
@@ -309,7 +309,7 @@ Certo dia, durante a recreação, um homem se aproximou de alguns meninos e come
 Os meninos, obedientes à voz de um amigo que amavam e respeitavam, correram para se juntar aos jogos e deixaram o agente do demônio falando sozinho ao vento. Este apostolado do pátio é um traço marcante do sistema educativo de São João Bosco. São Domingos Sávio é um exemplo eminente de sua eficácia.
 
 
-## O Amor de Domingos Pela Inglaterra
+## O amor de Domingos pela Inglaterra
 
 Nos primeiros meses de 1857, a saúde debilitada de Domingos voltou a dar motivo de preocupação, e Dom Bosco julgou prudente enviar o menino para o campo, na esperança de que a mudança de ar ajudasse a restaurar suas forças. Assim, em 1º de março daquele ano, Domingos deixava a escola de Dom Bosco rumo a sua casa em Mondonio, e sacerdote e aluno ficaram no limiar da porta para trocar algumas palavras de despedida.
 
@@ -338,7 +338,7 @@ Esta "distração", ou, o que parece mais provável, esta visão profética, gra
 O falecido Cardeal Salotti, em sua "Vida de Domingos Sávio", dá uma explicação para esta "distração". Ele diz: "As palavras de Sávio foram duplamente proféticas. Quando mencionou as dores que haveriam de sobrepujar a alma de Pio IX, sem dúvida previu o caminho do Calvário que o Papa haveria de trilhar depois do exílio de Gaeta. E quando o consolou com a visão da Inglaterra, predisse como Deus Todo-Poderoso estava preparando, por meio do Sumo Pontífice, um triunfo para a religião naquele país; um triunfo cumprido nas numerosas conversões e na liberdade concedida ao culto católico. Quem sabe se ele, depois de receber a Sagrada Hóstia, não viu e não se alegrou, à distância, com os maravilhosos dias de setembro de 1908, quando, durante o Solene Congresso Eucarístico em Londres, 20.000 crianças em idade escolar se reuniram no Aterro do Tâmisa e caminharam em procissão até a Catedral de Westminster, em meio a uma multidão de devotos espectadores; e quando o próprio Cardeal Legado do Papa caminhou nessa imponente demonstração de fé pelas ruas cobertas de flores desta grande metrópole, enquanto hinos se erguiam para proclamar o triunfo da Sagrada Eucaristia." Dom Bosco relatou esta visão de Domingos a Pio IX, e o Papa, grandemente consolado pela mensagem, viu nela a aprovação Divina para o restabelecimento, alguns anos antes, da Hierarquia na Inglaterra.
 
 
-## A Morte de Domingos
+## A morte de Domingos
 
 Poucos dias após sua chegada em casa, Domingos foi enfraquecendo, e o médico declarou seu estado grave. Ele pediu ao pai que chamasse o padre, e depois recebeu os Últimos Sacramentos com indescritível devoção e fervor.
 

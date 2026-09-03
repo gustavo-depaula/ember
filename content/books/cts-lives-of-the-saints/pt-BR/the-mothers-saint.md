@@ -255,7 +255,7 @@ Imprimatur:
 
 ## + Justin D. Simonds
 
-Arcebispo de Melbourne
+Archiepiscopus Melbournensis
 
 Nihil Obstat:
 

@@ -118,27 +118,27 @@ São um recorte de tudo: encanadores e carpinteiros e bispos e leiteiros; profes
 
 Têm orgulho da Madre Maria; orgulho, e também confiança. Confiança de que a obra que ela iniciou continuará, quaisquer que sejam as dificuldades presentes ou os temores quanto ao futuro. Confiança, também, de que nessas terras do Cruzeiro do Sul, nas quais e através do amor pelas quais ela expressou tão eloquentemente seu amor a Deus, seu nome será sempre uma bênção, sua memória guardada em duradoura paz.
 
-Verdadeira Caridade:
+Verdadeira caridade:
 
 "Minhas queridas Irmãs, façam tudo o que puderem para se suportarem umas às outras e se amarem em Deus e por Deus. Devemos esperar receber cruzes; sabemos que também as damos. O que a pobre e falha natureza acha difícil suportar, o amor de Deus e o zelo em Seu serviço tornarão doce e fácil. Procurem ser sempre generosas com Deus."
 
-A Obra de Deus, o Instituto:
+A obra de Deus, o instituto:
 
 "Não se preocupem com o futuro do Instituto; eu não me preocupo. Aquele de quem é a obra cuidará dela. Resignemo-nos todas em Suas mãos, e rezemos para que, em todas as coisas, Ele nos guie a fazer Sua santa vontade. Quando vêm pensamentos desta ou daquela ordem, volto-me para Ele e digo: 'Somente o que Tu quiseres, meu Deus. Usa-me como quiseres.'"
 
-Um Acolhimento à Cruz:
+Um acolhimento à cruz:
 
 "Minha única ansiedade é a de vir a falhar em alguma tristeza ou humilhação que Ele me imponha. Não posso dizer, como os fiéis servos de Deus, que amo as humilhações; mas sei que me fazem bem, e, se Ele as envia, espero ser grata."
 
-Obediência Simples:
+Obediência simples:
 
 "Cuidado com o eu que se mistura na obra de Deus. Temam o próprio julgamento; nunca deixem que raciocínios se interponham entre vocês e a obediência."
 
-Respeito pelos Sacerdotes:
+Respeito pelos sacerdotes:
 
 "Prefiro que um punhal me atravesse o coração a ouvir dizer, entre nós, uma palavra contra os sacerdotes — os ungidos de Deus."
 
-Tudo Somente por Deus:
+Tudo somente por Deus:
 
 "Façamos a vontade Daquele que amamos, e não desejemos, por um único suspiro voluntarioso, a vida ou a morte, senão como Lhe aprouver, e quando Lhe aprouver; de modo que nenhuma sombra de vontade terrena ou de eu próprio permaneça nos corações que o Deus do Amor escolheu para Si."
 

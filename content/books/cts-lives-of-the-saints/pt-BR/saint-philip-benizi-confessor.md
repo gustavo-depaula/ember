@@ -1,4 +1,4 @@
-# São Filipe Benício, Confessor
+# São Filipe Benício, confessor
 
 a.d. 1285
 

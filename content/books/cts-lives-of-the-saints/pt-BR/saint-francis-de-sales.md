@@ -17,7 +17,7 @@ Os principais acontecimentos destes anos em Annecy foram sua primeira comunhão 
 Esta última cerimônia era considerada por muitos, naquela época, de pouca importância, mas para Francisco foi um ato do mais profundo significado. Foi o primeiro passo rumo à completa dedicação de si mesmo a Deus, e com todo o coração pronunciou as sagradas palavras: "O Senhor é a porção de minha herança."
 
 
-## A Vida Universitária: Paris e Pádua (1580-1591)
+## A vida universitária: Paris e Pádua (1580-1591)
 
 De Annecy, Francisco foi enviado à Universidade de Paris. Suplicou ao pai que não o mandasse ao Colégio de Navarra, para onde a maioria dos nobres saboianos costumava ir, mas ao recém-fundado colégio jesuíta, dizendo com a mais profunda humildade que talvez não tivesse a mesma força que outros para resistir à tentação. Seu pedido foi atendido, e ele foi enviado para estudar sob os jesuítas, sendo o senhor Déage, homem bom mas de espírito estreito, designado seu preceptor. Em Paris, completou seus estudos de retórica e filosofia com a mais alta distinção, estudando também teologia, a Sagrada Escritura e hebraico, e aperfeiçoando-se, por ordem do pai, em todos os exercícios próprios de um jovem nobre.
 
@@ -28,7 +28,7 @@ Foi perto do fim de seus seis anos em Paris, quando Francisco tinha dezessete an
 De Paris, depois de alguns meses em casa, Francisco foi a Pádua. Ali, sob a direção imediata do grande Possevino e com a ajuda dos mais ilustres mestres do mundo, completou seus dezessete anos de educação. Seus extraordinários talentos, seu discernimento, sua imaginação e seu bom gosto foram desenvolvidos e refinados ao máximo. Ao lhe conferir, por fim, os graus de doutor em direito canônico e civil, Pancirolo, o grande jurista, declarou que a famosa universidade nunca os concedera a um graduado que os merecesse mais. Durante estes quatro anos, o amor de Francisco a Deus cresceu por meio de um exercício contínuo. Sua vida espiritual pode ser vista no *Combate Espiritual*, que sempre trazia consigo e reduzia à prática exata, e nas regras de conduta que traçou para si mesmo. Era obediente como uma criança — manso, humilde, simples, como um religioso fervoroso. E, contudo, em sua doçura não havia falta de fortaleza. Sua constância no domínio de si exigia uma fortaleza sobrenatural, e o vício, que grassava naquela cidade universitária, não podia levantar a cabeça em sua presença sem uma repreensão corajosa e severa. Numa das provações a que sua boa aparência o expôs, expulsou de sua casa um pretenso amigo que se fizera portador de propostas infames. Em outra ocasião, atacado por alguns jovens valentões, sacou a espada e rapidamente os pôs em fuga.
 
 
-## Da Universidade ao Sacerdócio (1591-93)
+## Da universidade ao sacerdócio (1591-93)
 
 Depois de seu brilhante êxito em Pádua, Francisco buscou repouso de seus trabalhos e refrigério para seu espírito na formosa Itália. Durante cerca de seis meses, visitou muitas cidades de santa memória, incluindo Loreto e, naturalmente, Roma, onde permaneceu por algum tempo.
 
@@ -37,7 +37,7 @@ Ao voltar à Saboia, foi morar com os pais, que então viviam em La Thuile, pert
 Que um dia fosse advogado e senador, e fizesse um brilhante casamento, faziam parte dos planos do senhor de Boisy para o filho, mas Francisco tinha ideias muito diferentes e mais nobres de grandeza. Confiou à mãe e a seu primo, o cônego Luís de Sales, sua inabalável determinação de se dedicar a Deus no estado sacerdotal. Não sabia como obter o consentimento do pai, mas seu primo resolveu a dificuldade obtendo para ele, sem seu conhecimento, o cargo de Provedor do Cabido de Genebra, que por acaso ficara vago naquela época. Esta dignidade tornou a decepção menos penosa para o pai, e Francisco a aceitou imediatamente como o único meio de obter seu desejo. Foi instalado como Provedor em Annecy, sede residencial do bispo e do cabido exilados de Genebra, e pouco depois recebeu o subdiaconato. O bispo insistiu para que começasse logo a pregar. Mostrou todas as virtudes de um eclesiástico perfeito, e, entre outras obras de zelo, fundou a grande Confraria da Cruz de Maria Imaculada e de São Pedro e São Paulo, para melhor combater a heresia e reparar a Deus os terríveis ultrajes que ela infligira à Sua Sagrada Majestade. Foi ordenado sacerdote em 18 de dezembro de 1593.
 
 
-## São Francisco Sacerdote: Vida em Annecy (1593-4)
+## São Francisco sacerdote: vida em Annecy (1593-4)
 
 Ao receber o sacerdócio, Francisco abandonou como escória, e sem um momento de hesitação, seu direito de primogenitura, seu título e sua renda. Deixou tudo, e o deixou com o coração alegre: "Pois Vós, ó Senhor", disse ele, "maravilhosamente me colocastes na esperança", e sua esperança era esta: poder ir pelos becos e caminhos afastados, buscar os desamparados e os pecadores, velar junto ao leito dos moribundos e, na solidão e na pobreza, tornar-se em ato e em verdade tudo para todos, a fim de ganhar almas para Cristo.
 
@@ -46,7 +46,7 @@ Seu tempo em casa era gasto em oração ou nos estudos próprios de sua profiss�
 Enquanto isso, sem saber, ia se preparando para coisas maiores; seus magníficos dons, suas virtudes apostólicas e seu zelo teriam um campo de exercício apostólico; as pobres ovelhas perdidas do Chablais o esperavam.
 
 
-## A Conversão do Chablais (1594-1598)
+## A conversão do Chablais (1594-1598)
 
 O Chablais é a mais setentrional das províncias do antigo Ducado de Saboia, estendendo-se ao longo da margem sul do Lago de Genebra, fazendo fronteira, assim, com o território suíço. Sessenta anos antes da época de que agora falamos, os calvinistas suíços haviam se apossado traiçoeiramente de toda a parte que fica a oeste do rio Dranse, e conseguido destruir ali a religião católica. A Saboia recuperou o Chablais trinta anos depois, mas concordou em permitir apenas a prática da religião protestante. Em 1589, os suíços o tomaram novamente, mas Carlos Emanuel, duque de Saboia, rapidamente o retomou, e, livre agora de obrigações anteriores, determinou restabelecer a antiga religião. O protestantismo só seria tolerado em três lugares, e destes Thonon, a capital, não seria um. Carlos Emanuel mal se retirara quando os suíços, pela terceira vez, invadiram o infeliz país; mas, depois de uma guerra intermitente que durou até 1593, tiveram de pedir uma trégua, e, nesse ínterim, entregar o Chablais incondicionalmente a seu legítimo soberano. A força havia falhado, de modo que o duque determinou agora aplicar o meio justo da pregação e da persuasão. Pediu-se ao bispo de Genebra que enviasse missionários zelosos, e Francisco de Sales, sedento de almas, ofereceu-se para ir, sendo a princípio auxiliado por seu primo, o cônego Luís. Seria, de fato, uma empresa desesperançada, pelo menos aos olhos humanos. Em sessenta e cinco paróquias, contendo mais de 25.000 almas, mal havia uma centena de católicos. As igrejas haviam sido despojadas ou destruídas, os altares e os sinos removidos, e não havia um único sacerdote em todo o distrito.
 
@@ -59,7 +59,7 @@ Não há espaço aqui para entrar nos detalhes da missão do Chablais, e em como
 Em outubro, o legado papal, acompanhado pelo duque, veio receber a reconciliação do país, e milhares fizeram sua retratação em sua presença. Um espetáculo tal de graça e de fé não se via desde a conversão das nações. Mal restava uma centena de hereges onde, quatro anos antes, mal havia uma centena de católicos. A glória deste resultado deve ser atribuída, sob Deus, às virtudes, à sabedoria, à pregação, aos sofrimentos e à perseverança do Apóstolo do Chablais.
 
 
-## A Primeira Parte de seu Episcopado (1599-1612)
+## A primeira parte de seu episcopado (1599-1612)
 
 Francisco mal havia levado a missão do Chablais a seu triunfante fim, quando foi nomeado coadjutor do venerável bispo de Genebra, com direito de sucessão. Recusara por muito tempo esta dignidade, e só a aceitou sob pressão de seus superiores, que lhe asseguraram que, do contrário, estaria resistindo à vontade manifesta de Deus. Mesmo depois de aceitá-la, Francisco não quis receber a consagração episcopal até o momento de sua efetiva sucessão.
 
@@ -76,7 +76,7 @@ Além disso, nesse período, esforçou-se muito por aperfeiçoar seu estilo lite
 Ao chegar a Lyon, em sua viagem de volta, soube da morte de Monsenhor Granier, e apressou-se em voltar para casa a fim de se preparar para a consagração como seu sucessor. Em Thonon, no Chablais, agora restaurada à fé católica graças a seus trabalhos apostólicos, recebeu, em 8 de dezembro de 1602, a plenitude do sacerdócio. Confessou depois que, durante a cerimônia, recebeu graças maravilhosas de Deus. "Deus", disse ele, "tomou-me de mim mesmo naquele momento e me deu a meu povo, para que eu não vivesse mais senão para Ele e para eles."
 
 
-## Sua Vida Privada e Sua Casa
+## Sua vida privada e sua casa
 
 Antes de sua consagração, fez um retiro de vinte dias, no qual traçou para si mesmo uma regra de vida. De acordo com ela, organizou sua casa como um mosteiro, com horários e regras fixas. Os cômodos para seus familiares e para os visitantes eram amplos e bem mobiliados, mas seu próprio quarto, ou cela, era um pequeno cubículo escuro e mal mobiliado. "De dia devo ser o bispo de Genebra", dizia ele, "mas de noite serei Francisco de Sales." Levantava-se cedo, e dedicava uma hora à oração e duas horas ao estudo antes de dizer a missa. Depois da missa, quando estava em casa, quase todo o resto do dia era ocupado pelos assuntos da diocese e por aqueles que vinham consultá-lo. Era acessível a todos — não apenas a seus funcionários ou a pessoas com negócios importantes, mas aos visitantes mais comuns, ricos ou pobres, pessoas a quem muitos considerariam uma perda de tempo falar. À medida que sua sabedoria e imparcialidade se tornavam mais conhecidas, começou a se tornar costume levar-lhe processos judiciais; uma testemunha em seu processo de canonização depôs que assistira a mais de cem destas audiências. Não só as próprias partes compareciam, como traziam consigo seus assessores jurídicos, transformando por vezes a sala do bispo num barulhento tribunal. Só Francisco conservava uma paz imperturbável, e, depois de um dia de trabalho tão cansativo e muitas vezes tão inútil, voltava a seus próprios afazeres com a mesma calma como se tivesse se ocupado de empreendimentos agradáveis e bem-sucedidos. Tinha uma enorme correspondência, mas nunca quis empregar um secretário, para que seus correspondentes não se sentissem menos à vontade com ele. Mas era aos negócios espirituais que mais de bom grado dedicava seu tempo, particularmente a ouvir confissões. Fazia isto a qualquer hora, chegando a tirar seus paramentos, já pronto para a missa, para ouvir o mais casual dos penitentes.
 
@@ -110,7 +110,7 @@ As cartas ainda são deliciosas e proveitosas de ler, sobretudo em seu francês 
 
 O livro mais conhecido do santo, a *Introdução à Vida Devota*, foi em grande parte uma coletânea das cartas de direção que ele havia escrito a uma certa Madame de Charmoisy. Foi publicado pela primeira vez em 1608, e pode ser chamado de obra que fez época, pois ensinava, o que de forma alguma era universalmente reconhecido, que todos são chamados à perfeição, mesmo os que vivem "no mundo". Não devemos esquecer que, em sua terminologia, "devoção" equivale a perfeição, e perfeição, também segundo o ensinamento de São Tomás de Aquino, equivale a perfeito amor de Deus. Desejava que aqueles que vivessem a vida devota no mundo fossem bem-vestidos, atraentes e, numa palavra, uma boa propaganda para "le bon Dieu" [o bom Deus]. Chegou até a permitir-lhes dançar, ao que algumas mãos "piedosas" se ergueram em horror! Uma característica desta obra, como também de seus outros escritos, é o uso de exemplos tirados da história natural. Extrai boa parte deste material de Plínio, e, sejam suas abelhas e pombas reais ou fabulosas, dão encanto e ilustração viva a seus livros.
 
-## A Fundação da Ordem da Visitação (1610-1612)
+## A fundação da Ordem da Visitação (1610-1612)
 
 Por alguns anos depois de seu primeiro encontro, São Francisco e Madame de Chantal raramente se viam. Viajar não era fácil, e Dijon fica longe de Annecy. Santa Joana Francisca era frequentadora do Carmelo de Dijon, e, em suas cartas a seu diretor, discutia as lições que ali aprendia. Fica bastante claro, por sua correspondência, que os dois santos avançavam juntos na vida espiritual, e que, se o bispo de Genebra ensinava muito, também aprendia muito.
 
@@ -125,7 +125,7 @@ Sua direção destas santas mulheres resultou na composição de sua obra-prima,
 Este tratado lhe custou cada instante dos anos de 1616 e 1617, e ele dizia que, para escrever algumas poucas linhas dele, às vezes lera mil e duzentas páginas in-fólio, entre outros, de São Tomás, São Boaventura, Dionísio Cartuxano, Luís de Granada, o cardeal Belarmino, Santa Teresa, Santa Catarina de Sena e Santa Catarina de Gênova...
 
 
-## A Segunda Parte de seu Episcopado (1612-22)
+## A segunda parte de seu episcopado (1612-22)
 
 Olhos ansiosos notavam agora que havia uma mudança no amado bispo. Estava na flor da idade quanto aos anos, mas havia preenchido um longo tempo com seu incessante e generoso labor. Por sugestão do duque de Saboia, o irmão do santo foi escolhido pelo papa como seu coadjutor, e João Francisco de Sales foi consagrado bispo de Calcedônia em 1618.
 

@@ -98,7 +98,7 @@ Ele mesmo mostrou plena consciência dos dons de que verdadeiramente necessitava
 
 Ele queria mais, muito mais de seus colaboradores do que a disposição, por mais entusiasmada que fosse, de seguir a rotina monótona da pregação de cidade em cidade, muito mais do que a aceitação resignada do trabalho desgastante do púlpito e do confessionário. Nas palavras do Padre Tempier, ele queria homens "prontos a seguir as pegadas dos Apóstolos, a trabalhar pela salvação das almas sem esperar nenhuma outra recompensa na terra além da dor e do cansaço."
 
-A tais homens ele buscava, e muitos assim encontrou. Mas um passo adiante em seu caminho de propósito só foi dado no outono de 1818. Em agosto daquele ano ocorreu um acontecimento que o levou a reconsiderar a composição e a condição de seu grupo de ajudantes: ofereceram-lhe uma casa nos Altos Alpes, em Notre Dame du Laus.
+A tais homens ele buscava, e muitos assim encontrou. Mas um passo adiante em seu caminho de propósito só foi dado no outono de 1818. Em agosto daquele ano ocorreu um acontecimento que o levou a reconsiderar a composição e a condição de seu grupo de ajudantes: ofereceram-lhe uma casa nos Altos Alpes, em Notre Dame de Laus.
 
 Ao longo dos primeiros dias de seu trabalho conjunto, o grupo de sacerdotes que se tornaria conhecido como "os Missionários da Provença" voltava, depois de cada temporada de trabalho no campo missionário, ao antigo convento carmelita, onde os Padres de Mazenod e Tempier saboreavam aquelas refeições frugais, comidas na mesa improvisada de tábuas rústicas, em meio a uma névoa sulfurosa de fumaça.
 
@@ -106,7 +106,7 @@ Ali descansavam e se recuperavam depois das semanas de trabalho desgastante que 
 
 Viviam em comunidade naquela antiga casa comunitária das Carmelitas; mas eles mesmos não formavam uma comunidade unida por votos. A unidade de ideais, a influência do Padre de Mazenod, que se tornara seu Superior por consentimento comum; a caridade mútua; um acordo simples: eis os únicos laços que uniam os Missionários da Provença.
 
-E agora, com a casa de Notre Dame du Laus pronta para se tornar uma casa comunitária, o Padre de Mazenod e seus ajudantes se prepararam para dar aquele passo que havia muito ponderavam, meditavam e pediam em oração. O Superior foi chamado a formular uma regra, um código de leis pelo qual a comunidade deveria viver.
+E agora, com a casa de Notre Dame de Laus pronta para se tornar uma casa comunitária, o Padre de Mazenod e seus ajudantes se prepararam para dar aquele passo que havia muito ponderavam, meditavam e pediam em oração. O Superior foi chamado a formular uma regra, um código de leis pelo qual a comunidade deveria viver.
 
 E assim foi feito. Em outubro daquele ano, o Padre de Mazenod apresentou a seus colaboradores as Regras e Constituições que transformariam o grupo de trabalhadores e pregadores missionários numa Congregação religiosa no sentido pleno.
 

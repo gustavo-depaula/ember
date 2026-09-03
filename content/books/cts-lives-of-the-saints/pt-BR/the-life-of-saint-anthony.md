@@ -232,7 +232,7 @@ Bendito é o ventre que vos gerou. Ó filhos terrenos de Adão, a quem foi dada 
 
 ## Apêndice
 
-## Uma Cura Notável Recente
+## Uma cura notável recente
 
 (Os detalhes aqui fornecidos vêm de Elia Bruson, *Il Messaggero di Sant'Antonio*, Pádua, nov. de 1976, p. 42-43.) Em Lappano, perto de Cosenza, na Itália, uma cura notável ocorreu em 1975 por meio da oração a Santo Antônio. Cosenza fica no extremo sul da Itália, na "ponta do pé" que dá à Itália meridional sua forma peculiar. E Lappano é uma vila nas altas montanhas da Sila, quinze quilômetros de Cosenza.
 

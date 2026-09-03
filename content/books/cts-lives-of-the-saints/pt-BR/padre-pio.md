@@ -402,6 +402,6 @@ Acima do hospital há uma plataforma de pouso para os helicópteros usados para 
 
 Imprimatur:
 
-†L. Joannes Gregorius Murray, Arcebispo de St. Paul. St. Paul, 27 de julho de 1955.
+.L. Joannes Gregorius Murray Archiepiscopus Sancti Pauli. Paulopoli die 27a Julii 1955.
 
 Tradução (inglesa) de Laura Chanler White.

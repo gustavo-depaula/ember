@@ -160,4 +160,4 @@ Nihil Obstat:
 
 JOANNES KEANE. S. J. Cens. Theol. Deput.
 
-Imprimi Potest: + EDUARDUS, Arcebispo de Dublim, Primaz da Irlanda. Dublim: 2 de janeiro de 1929.
+Imprimi Potest: @ EDUARDUS Archiep. Dublinen. Hiberniae Primas Dublini: die 2 Januarii, 1929.
