@@ -1,13 +1,16 @@
 {
   "id": "gregory-nyssa-pilgrimages",
   "name": {
-    "en-US": "On Pilgrimages"
+    "en-US": "On Pilgrimages",
+    "pt-BR": "Sobre as Peregrinações"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Pilgrimages"
+        "en-US": "On Pilgrimages",
+        "pt-BR": "Sobre as Peregrinações"
       }
     }
   ]
