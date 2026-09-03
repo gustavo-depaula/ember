@@ -34,3 +34,26 @@ Target: pt-BR
 - Litany structure (call/response pairs, `*response in italics*`, two-space hard line breaks) preserved exactly — translate both the invocation and the response.
 - "Conf." (Confessor) title abbreviations in TOC/H1 kept as "Conf." in Portuguese too (same Latin-derived abbreviation is standard in Portuguese hagiography).
 - Imprimatur/Nihil Obstat/Imprimi Potest blocks (canonical apparatus, names, dates, dioceses) are translated for surrounding labels where natural (e.g. "Administrator, Archdiocese of Chicago" → "Administrador, Arquidiocese de Chicago") but proper names, titles (O.F.M. Conv., Rt. Rev.) and dates are preserved as in the original.
+
+### Added 2026-09-03 (batch: Louise de Marillac, Lucy, Margaret Clitherow, Margaret Mary Alacoque, Margaret of Cortona, Martin of Tours, Mary Euphrasia Pelletier, Mary Magdalen)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| Daughters of Charity | Filhas da Caridade | Congregation founded by Louise de Marillac & Vincent de Paul |
+| Ladies of Charity | Senhoras da Caridade | Lay confraternity supporting the Daughters of Charity |
+| Confraternity of Charity | Confraria da Caridade | |
+| Mother House | Casa-Mãe | |
+| Sister Servant / Sister Directress | Irmã Serva / Irmã Diretora | Deliberately non-monastic titles used by the Daughters of Charity instead of Reverend Mother / Novice Mistress |
+| foundling(s) | exposto(s) / enjeitado(s) | Abandoned infants; "exposto" preferred as the more period/formal term, "enjeitado" used once for variety |
+| Good Shepherd (Order/Sisters) | Bom Pastor | Congregation founded by St. Mary Euphrasia Pelletier |
+| Refuge (the congregation, "Refuge nun/convent") | Refúgio | St. John Eudes's congregation, precursor to the Good Shepherd; capitalized as a proper name |
+| Magdalens (the penitents' community within the Refuge/Good Shepherd) | Madalenas | Capitalized when referring to the community St. Mary Euphrasia founded for reformed penitents |
+| generalate | generalato | Canonical term for the centralized government Mother Pelletier established |
+| wonder-worker | taumaturgo | Used for St. Martin of Tours |
+| Vice-Province / Province (religious) | Vice-Província / Província | |
+| bridgemaster | "bridgemaster" (explained in-line) | No direct Portuguese equivalent for this specific York civic office; rendered with a brief descriptive gloss rather than coining a term |
+| peine forte et dure | peine forte et dure | Kept in French — the specific legal term of art for the historical English penalty described in the Margaret Clitherow chapter |
+| Toll Booth (York, place name) | Toll Booth | Kept as proper name (historical building), not translated |
+| Vice-Province of the Daughters of Charity in Australia | Vice-Província das Filhas da Caridade na Austrália | |
+| Sacred Heart / Sagrado Coração | Sagrado Coração | Confirmed consistent with existing "Blessed Virgin" pattern; devotion terms capitalized |
+| Refuge / Good Shepherd distinction | — | Note: in "St. Mary Euphrasia Pelletier," the congregation is called "the Refuge" (Refúgio) before 1835 and "the Good Shepherd" (Bom Pastor) after Mother Pelletier's foundation at Angers adopted that name — both kept distinct per the source's own usage, not merged |
