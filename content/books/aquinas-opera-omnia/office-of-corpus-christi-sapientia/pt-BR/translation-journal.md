@@ -253,3 +253,69 @@ English wording was carried over mechanically.
   - **Clean-round count reset**: two consecutive fully-clean rounds are
     still required before review closes; round 6 was not clean (Ch. 1–4
     had two defects), so at least one more full clean round is needed.
+- 2026-09-03 — **review round 7** (adversarial, Ch. 1–4 only, this range's
+  turn in the alternating-range schedule). Re-verified all twelve prior
+  fixes in this range (the ten from rounds 1–5 plus the two from round 6:
+  the Ch. 2 Reading 4 "ut sint quae erant" both-clauses fix and the Judges
+  13:19–20 citation fix) — all confirmed correctly and completely in
+  place, with exact current wording matching the journal's fix
+  descriptions. A full fresh sentence-by-sentence read against `la/`
+  found the prose translation itself faithful throughout Ch. 1–4 (no
+  dropped clauses, tense/mood shifts, or reversed agent/patient found),
+  but a systematic spot-check of every bracket/parenthetical scripture
+  citation's chapter:verse against the actual quoted text — prompted
+  directly by round 6's Judges citation defect — turned up five more
+  wrong citations, all in Ch. 2, all inherited from the same en-US
+  edition (confirmed independently wrong in en-US too, not just carried
+  over blindly):
+  - Reading 2 — the Ambrose/Gratian quote *"bibebant... de spirituali
+    consequente eos petra. Petra autem erat Christus. Sed non in
+    pluribus eorum complacitum est Deo. Nam prostrati sunt in deserto.
+    Haec autem facta sunt in figura nostri"* was cited *"(1 Cor 10:4–5)"*
+    but the closing clause *"Haec autem... in figura nostri"* ("this was
+    done as a figure of us") is 1 Cor 10:**6**, not part of v. 5 (confirmed
+    against the corpus's own Douay-Rheims text at
+    `content/bible/drb/1-corinthians.json`). Fixed to "(1 Cor 10:4–6)".
+  - Reading 7 — *"Qui manducat carnem meam et bibit meum sanguinem in me
+    manet et ego in eo"* ("he who eats my flesh... abides in me and I in
+    him") was cited *"(Jo 6:57)"* (and headed *"[Vers. 57]"*), but this
+    exact same Latin clause is correctly cited as v. 56 elsewhere in this
+    same chapter (inside the `[João 6:55–56]` responsory-verse bracket
+    citation) — an internal self-contradiction independent of which
+    absolute Vulgate-verse edition is used. Fixed both the inline
+    citation and the `[Vers.]` heading to 56.
+  - Reading 10 — the same *"caro mea vere est cibus... sanguis meus vere
+    est potus"* quote that is correctly cited *"(Jo 6:55)"* earlier in
+    Reading 7 (and appears as v. 55 in the `[João 6:55–56]` responsory
+    range) was cited here as *"(Jo 6:56)"* — again internally
+    inconsistent with the rest of the chapter. Fixed to "(Jo 6:55)".
+  - Reading 12 — the same *"qui manducat carnem meam et bibit sanguinem
+    meum... in me manet et ego in eo"* quote as the Reading 7 case above,
+    same *"(Jo 6:57)"* mislabeling repeated. Fixed to "(Jo 6:56)".
+  - Reading 12 — *"pingues terrae"* ("the rich/fat ones of the earth")
+    was cited *"(Sl 22:29)"*, but this verse is Psalm **21**:30 in this
+    book's own Vulgate-based psalm numbering (the "Deus, Deus meus,
+    respice in me" psalm, already used elsewhere in this chapter as
+    "Salmo 21 (22)"; Vulgate Psalm 22 is a different psalm, "Dominus
+    regit me" — confirmed the verse text and number against
+    `content/bible/drb/psalms.json`, Ps 21:30). Fixed to "(Sl 21:30)".
+  - **Note on scope of this finding**: the (Jo 6:57)/(Jo 6:56)
+    citations rest on an internal-consistency argument, not on
+    unilaterally imposing an external verse-numbering scheme — John 6
+    has genuinely divergent verse-numbering traditions across Vulgate
+    editions/lectionaries (confirmed by cross-checking the book's own
+    "João 6:53" Gospel-reading heading, which is *not* flagged as a
+    defect here despite reading like an off-by-one against a modern
+    Clementine Vulgate print, because it is a liturgical pericope
+    citation matching the office's own tradition and is identical in
+    en-US). Only citations of the *identical Latin clause* getting
+    *different* verse numbers within this same chapter were treated as
+    defects.
+  - Rebuilt with `pnpm build:corpus` after all five fixes — clean, no
+    new warnings.
+  - **Clean-round count reset again**: round 7 found five new (citation)
+    defects in the Ch. 1–4 range, so the two-consecutive-clean-round
+    count is back to zero; at least two more full clean rounds are
+    needed (covering both ranges) before review can close. The next
+    Ch. 1–4 pass should re-verify these five citation fixes in addition
+    to all twelve prior fixes.
