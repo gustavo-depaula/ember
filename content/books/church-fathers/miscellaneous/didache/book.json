@@ -1,13 +1,16 @@
 {
   "id": "miscellaneous-didache",
   "name": {
-    "en-US": "The Didache (c. 100)"
+    "en-US": "The Didache (c. 100)",
+    "pt-BR": "Didaquê (c. 100)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Didache (c. 100)"
+        "en-US": "The Didache (c. 100)",
+        "pt-BR": "Didaquê (c. 100)"
       }
     }
   ]
