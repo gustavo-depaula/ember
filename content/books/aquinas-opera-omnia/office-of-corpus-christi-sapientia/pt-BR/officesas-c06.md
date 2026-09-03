@@ -24,4 +24,4 @@ Versículo
 
 ***℣. O Senhor é a porção da minha herança e do meu cálice, aleluia.***
 
-℟. Sois vós quem me restitui a minha herança, aleluia.
+℟. Sois vós quem me restituirá a minha herança, aleluia.

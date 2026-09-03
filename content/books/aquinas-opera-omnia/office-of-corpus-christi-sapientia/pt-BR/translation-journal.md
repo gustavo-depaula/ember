@@ -168,3 +168,26 @@ English wording was carried over mechanically.
   - **Two consecutive clean rounds still not reached** — round 2 found one
     new defect, so at least one more clean round is needed before the
     translation can be considered settled.
+- 2026-09-03 — **review round 3** (2 fresh independent passes, Ch. 1–4 and
+  Ch. 5–8, each re-verifying all seven prior fixes in its range plus a full
+  fresh sentence-by-sentence read). All seven prior fixes confirmed
+  correctly in place. Two new defects found:
+  - Ch. 2, Reading 12 — *"Salutem medicus dedit"* (nominative *medicus* =
+    agent, accusative *salutem* = object: "the Physician gave health") was
+    rendered in bare OVS order, *"a saúde deu o Médico"*, with no
+    disambiguating cue — read with default Portuguese SVO expectations this
+    parses as "Health gave the Doctor," inverting agent and patient at the
+    exact line introducing the Christ-as-Physician image the passage
+    depends on. Fixed to SVO order: "o Médico deu a saúde."
+  - Ch. 6, Sext versicle response — *"Tu es qui **restitues** hereditatem
+    meam mea"* (unambiguous future indicative, "you *will* restore") had
+    been flattened to present tense, "Sois vós quem me **restitui**".
+    Fixed to "restituirá" (future), consistent with how the "tradetur"
+    future-tense defects were handled in round 1 — a specific future
+    promise, not a timeless gnomic statement, even though reading it as
+    timeless is a common devotional convention (en-US also uses present
+    here, so this defect is only visible when working from the Latin).
+  - Rebuilt with `pnpm build:corpus` after both fixes — clean, no new
+    warnings.
+  - **Two consecutive clean rounds still not reached** — round 3 found two
+    new defects, so at least one more clean round is needed.

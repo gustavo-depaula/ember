@@ -351,7 +351,7 @@ Não é este o pão que vai para o corpo, mas o pão da vida eterna, que sustent
 
 [Graciano, *De consecratione*, d. 2, cân. 66]  
 
-As coisas santas podem prejudicar os maus. Para os bons, são para a salvação; para os maus, para o juízo. Por isso o Apóstolo: *quem come e bebe indignamente, come e bebe para si o juízo* (1 Cor 11:29). Não porque aquela coisa seja má, mas porque o mau recebe mal o que é bom. Pois não era má a porção que foi dada a Judas pelo Senhor; a saúde deu o Médico. Mas, porque aquele que era indigno a recebeu, para sua própria perdição a recebeu.  
+As coisas santas podem prejudicar os maus. Para os bons, são para a salvação; para os maus, para o juízo. Por isso o Apóstolo: *quem come e bebe indignamente, come e bebe para si o juízo* (1 Cor 11:29). Não porque aquela coisa seja má, mas porque o mau recebe mal o que é bom. Pois não era má a porção que foi dada a Judas pelo Senhor; o Médico deu a saúde. Mas, porque aquele que era indigno a recebeu, para sua própria perdição a recebeu.  
 
 [Graciano, *De consecratione*, d. 2, cân. 67]  
 
