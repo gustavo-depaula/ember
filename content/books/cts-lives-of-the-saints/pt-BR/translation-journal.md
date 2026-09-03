@@ -35,6 +35,79 @@ Target: pt-BR
 - "Conf." (Confessor) title abbreviations in TOC/H1 kept as "Conf." in Portuguese too (same Latin-derived abbreviation is standard in Portuguese hagiography).
 - Imprimatur/Nihil Obstat/Imprimi Potest blocks (canonical apparatus, names, dates, dioceses) are translated for surrounding labels where natural (e.g. "Administrator, Archdiocese of Chicago" → "Administrador, Arquidiocese de Chicago") but proper names, titles (O.F.M. Conv., Rt. Rev.) and dates are preserved as in the original.
 
+## Key Terms (batch 2 — Camillus, Cataldus, Clare, Hofbauer, Dominic Confessor, Dominic Savio, Dymphna, Edith Stein, Campion, Elizabeth of Hungary)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| Ladies/Our Lady, Blessed Virgin | Nossa Senhora / Virgem Santíssima | consistent with batch 1 |
+| Holy Communion | Sagrada Comunhão | |
+| Blessed Sacrament | Santíssimo Sacramento | |
+| Tabernacle | Tabernáculo | |
+| Founder | Fundador | capitalized when referring to the saint as founder of an order, matching source capitalization style |
+| Superior / Superior General | Superior / Geral da Ordem | |
+| Ministers of the Sick / Clerics Regular (Camillians) | Ministros dos Enfermos / Clérigos Regulares | official name of the Camillian order, kept capitalized |
+| plague-stricken / apestados | apestados | period term for plague victims, kept as historical register, not modernized |
+| Third Order / First Order / Second Order (Franciscan) | Terceira Ordem / Primeira Ordem / Segunda Ordem | capitalized as in source |
+| Tertiary | Terciário/Terciária | |
+| Landgrave | Landgrave | kept as historical German title, not translated (has no standard Portuguese equivalent in hagiography) |
+| Frades Menores / Friars Minor | Frades Menores | |
+| Poor Clares | Clarissas Pobres | |
+| the Gestapo | a Gestapo | kept in original form, feminine article per Portuguese convention |
+| non-Aryan | não ariano | historical Nazi-era term, kept as period vocabulary, not softened |
+| martyr of charity | mártir da caridade | recurring epithet across several saints' lives in this batch |
+| Confessor (as in "Schoolboy Confessor") | Confessor | kept per existing convention (title, not modernized) |
+| pursuivant (Tudor-era officer) | pursuivant | kept untranslated — no natural Portuguese equivalent for this specific Tudor law-enforcement office; used as a loanword, italicized-worthy but left plain per source's plain usage |
+| Tyburn | Tyburn | English place name, kept as-is per convention of preserving place names |
+| Little Ease (Tower of London cell) | "Little Ease" | kept in English with quotes, historical proper name with no standard Portuguese translation |
+| Landgravine / Duchess | Duquesa | |
+| Sodality | Sodalícia | |
+| Ministers of the Sick's Red Cross badge | Cruz Vermelha | |
+| Dinfna (Dymphna) | Dinfna | standard Portuguese hagiographic form of Dymphna |
+| Cataldo (Cataldus) | Cataldo | standard Portuguese form |
+| Edith Stein / Sister Benedicta of the Cross | Edith Stein / Irmã Benedita da Cruz | kept "Edith Stein" untranslated as the saint is commonly known by this name in Portuguese too (Santa Teresa Benedita da Cruz is the fuller hagiographic name, but source text calls her "Edith Stein" throughout, so followed source) |
+| Camillus de Lellis | Camilo de Lellis | standard Portuguese form |
+| Dominic (as in Dominic Savio, Dominic founder of Dominicans) | Domingos | standard Portuguese form |
+| Elizabeth of Hungary | Isabel da Hungria | standard Portuguese form |
+| Edmund Campion | Edmundo Campion | standard Portuguese form |
+| Clement Mary Hofbauer | Clemente Maria Hofbauer | standard Portuguese form; surname kept unchanged |
+| ye/thee archaic forms in prayers | vós / vos (formal plural) | rendered with formal "vós" register to match archaic liturgical tone without being unnatural |
+
+## Additional Key Terms (batch 2: eugene-de-mazenod, mary-mckillop, padre-pio, poet-priest-martyr, saint-anthony-and-you, saint-augustine-bishop-of-hippo, saint-benedict-abbot, saint-bernadette, saint-bernard-abbot-of-clairvaux, saint-brigid, saint-cajetan-or-gaetano-confessor)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| St. Eugene de Mazenod | Eugene de Mazenod (no "São" — Blessed at time of writing, not canonized) | Text calls him "Blessed" at the end; kept without hagiographic title throughout, matching source usage |
+| Oblates of Mary Immaculate | Oblatos de Maria Imaculada | Congregation name |
+| Missioners of Provence | Missionários da Provença | |
+| St. Mary MacKillop / Mother Mary of the Cross | Santa Mary MacKillop / Madre Maria da Cruz | Kept "Mary MacKillop" surname untranslated (proper name), but "Mother Mary of the Cross" (religious name) translated |
+| Sisters of St Joseph of the Sacred Heart | Irmãs de São José do Sagrado Coração | |
+| Padre Pio | Padre Pio | Kept as-is — already the Italian/Portuguese form, not translated to "Pai Pio" |
+| Casa Sollievo della Sofferenza | Casa Sollievo della Sofferenza / "Casa Alívio do Sofrimento" | Kept Italian proper name for the institution; used descriptive Portuguese gloss only in the preface line, not as a renaming |
+| Stigmata | Estigmas | |
+| Bilocation | Bilocação | |
+| St. Robert Southwell | Santo Roberto Southwell | English martyr — surname kept, first name translated per convention |
+| Tolle, lege (Confessions) | Tolle, lege — kept in Latin, glossed "Toma e lê!" | Matches source's own glossing pattern |
+| Manes/Manichees/Manichaeism | Manes/maniqueus/maniqueísmo | |
+| Donatists/Donatism | donatistas/donatismo | |
+| Pelagius/Pelagianism/Semipelagianism | Pelágio/pelagianismo/semipelagianismo | |
+| Priscillianists | priscilianistas | |
+| City of God (De Civitate Dei) | *Da Cidade de Deus* | |
+| Retractations | *Retratações* | |
+| Cistercian / Theatine / Somaschi | cisterciense / teatino / somascos | Religious-order adjectives lowercase in Portuguese |
+| Clerks Regular | Clérigos Regulares | |
+| Doctor mellifluus | *Doctor mellifluus*, "Doutor Mavioso" | Kept Latin epithet, added traditional Portuguese gloss |
+| Bureau des Constatations (Lourdes) | Bureau des Constatations | Kept in French — proper name of the Lourdes medical office |
+| Massabielle | Massabielle | Place name, unchanged |
+| montes pietatis | montes pietatis (montes de piedade) | Kept Latin term with Portuguese gloss on first use |
+
+## Additional Translation Decisions (batch 2)
+
+- Long OCR line-fragment artifacts in Butler-style hagiographies (saint-benedict-abbot, saint-bernard-abbot-of-clairvaux) — mid-sentence orphaned commas, footnote markers, and stray editorial asterisks explaining place-name etymology (e.g. "*Called by the Italians... Subiaco.", "*Vicovara, anciently Varronis Vices...") — were treated as editor/publisher footnotes per the book's drop convention and silently omitted; the surrounding sentence was translated as continuous prose.
+- Direct quotations from Scripture, the Confessions of St Augustine, and other classical texts already existing in well-known Portuguese liturgical/devotional form were rendered freshly from the English of this text (not copy-pasted from an external canonical Portuguese Bible/Confessions translation), to stay strictly faithful to this book's specific English wording and punctuation.
+- In "mary-mckillop.md" the source page-break-displaced footnote (marked with a bare `*` mid-paragraph, referencing "Australia—The Catholic Chapter" by Rev. James G. Murtagh) was moved to sit as a normal endnote after the Imprimatur block, since its mid-sentence OCR placement was clearly a scanning/layout artifact, not authorial.
+- "Confessor" kept as a hagiographic title in chapter headers (e.g. "Caetano... Confessor", "St Cajetan, Conf.") per existing journal entry; expanded "Conf." to "Confessor" in translated headers for clarity while keeping it as a title, not prose.
+- Papal/imperial ordinal names (Leo XII, Gregory XVI, Innocent II, etc.) rendered in standard Portuguese regnal form (Leão XII, Gregório XVI, Inocêncio II).
+
 ## Batch: Mazzarello → Pius V (2026-09-03)
 
 - Ten chapters translated: saint-mary-mazzarello, saint-maximilian-kolbe, saint-pascal-baylon, saint-patrick, saint-peregrine-the-cancer-saint, saint-peter-aloysius-mary-chanel, saint-philip-benizi-confessor, saint-philip-neri, saint-philomena, saint-pius-v.
