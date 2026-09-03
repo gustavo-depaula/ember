@@ -100,6 +100,7 @@ Full per-batch key-terms tables (proper names, place names, institutional names 
 - Santa Gertrudes; São Pedro Luís Chanel; Santa Rosa de Lima; Santa Luísa de Marillac (Filhas da Caridade, Confraria da Caridade); São Venceslau (Slavic name convention, see above); São Domingos (Beato Jordão da Saxônia; Frei Bartolomeu dos Mártires kept in his real historical PT name); Santas Perpétua e Felicidade.
 - "papista(s)" kept as direct rendering of "papist(s)" in Chanel chapter — reported period Protestant prejudice within the narrative itself, not the author's voice; judged not to need softening since the text already frames it as prejudice being overcome.
 - "Hilberstadt Cathedral" corrected to "Catedral de Hildesheim" (evident source typo, given the bishop's name in context) — flagged as a spelling correction, not a modernization.
+- saint-rose-of-lima: all 16 of the chapter's footnote markers and definitions had been dropped entirely in the original batch-9 pass (prose/quotations were translated correctly, but the citation apparatus was lost). Restored by re-anchoring each `[^N]` at the matching quoted passage and re-adding the definitions block at file end; bibliographic citations (Scripture refs, biographer/hymn/antiphon sources) kept as given in English per the author-citation convention, since they are references, not explanatory prose.
 
 ## Translation Decisions — cross-cutting notes
 
