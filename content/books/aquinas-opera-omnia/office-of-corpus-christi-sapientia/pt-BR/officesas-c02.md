@@ -231,7 +231,7 @@ Responsório
 
 ℟. Eu sou o pão da vida. Vossos pais comeram o maná no deserto e morreram. * Este é o pão que desce do céu. Se alguém dele comer, * não morrerá. [João 6:48–50]  
 
-℣. Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. [João 6:51] * Este é o pão que desce do céu. Se alguém dele comer. Glória ao Pai e ao Filho e ao Espírito Santo. * Não morrerá.  
+℣. Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. [João 6:51–52] * Este é o pão que desce do céu. Se alguém dele comer. Glória ao Pai e ao Filho e ao Espírito Santo. * Não morrerá.  
 
 Leitura 8  
 

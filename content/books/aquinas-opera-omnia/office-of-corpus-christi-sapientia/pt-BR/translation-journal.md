@@ -435,3 +435,64 @@ English wording was carried over mechanically.
     both ranges) are still needed before review can close. The next
     Ch. 5–8 pass should re-verify this John 6:32–33 fix in addition to
     the two prior in-range fixes.
+- 2026-09-03 — **review round 9** (independent, adversarial, Ch. 5–8
+  only). Re-verified all three prior in-range fixes with exact current
+  wording — all confirmed correctly in place: Ch. 5 capitulum "que
+  **será entregue** por vós" (1 Cor 11:23–24), Ch. 6 Sext versicle
+  response "Sois vós quem me **restituirá** a minha herança", and
+  Ch. 8 Magnificat antiphon citation "[João **6:32–33**]". Re-confirmed
+  the Ch. 3 Lauds → Ch. 4/5/6/7 Prime/Terce/Sext/None antiphon-reuse
+  consistency (including Ch. 4, one chapter outside this round's core
+  range, since the reuse chain runs through it) by diffing every reused
+  antiphon's Portuguese wording and citation side by side against
+  Ch. 3 — all identical, no drift. Ran a full fresh sentence-by-sentence
+  fidelity read (tense, mood, negation, subject/object direction,
+  register) of Ch. 5–8 against `la/` — no defects found there. Ran a
+  full citation sweep of every bracket/parenthetical citation in
+  Ch. 5–8 against `content/bible/drb/{ecclesiasticus,psalms,john}.json`
+  (Sir 24:28–29, Ps 144:15, Ps 110:4, 1 Cor 10:3–4, Ps 77:25, Ps 15:5,
+  Rev 2:17, Ps 115:4 (116:13), John 6:48–50, John 6:32–33, plus the
+  1 Cor 11:23–24/26/27/28–29 capitula) — all confirmed correct **except
+  one**, found by tracing a reused block back to its other occurrence:
+  - Ch. 8's Second Vespers responsory versicle — *"Ego sum panis vivus
+    qui de caelo descendi. Si quis manducaverit ex hoc pane vivet in
+    aeternum"* was cited *"[João 6:51]"*, but only the first sentence
+    (*"ego sum panis vivus qui de caelo descendi"*) is v. 51; the second
+    sentence (*"si quis manducaverit ex hoc pane vivet in aeternum"*) is
+    v. 52 — confirmed two ways: against `content/bible/drb/john.json`
+    (v. 51 ends at "which came down from heaven"; v. 52 begins "If any
+    man eat of this bread, he shall live for ever...") and, independently,
+    against this same book's own Ch. 2 Reading 11, which quotes the
+    Latin *"ego sum panis vivus qui de caelo descendi"* cited "(Jo
+    6:51)" and, as a separate quote introduced by *"Et iterum"*, *"panis
+    quem ego dabo caro mea est pro mundi vita"* cited "(Jo 6:52)" — the
+    second half of the same v. 52 that begins "si quis manducaverit ex
+    hoc pane vivet in aeternum: et...". This is the same truncated-range
+    defect shape as round 8's Ch. 8 Magnificat fix (a two-verse quote
+    cited as only its first verse). This exact responsory is one of the
+    book's documented verbatim reused blocks (Ch. 2 Third Nocturn
+    responsory = Ch. 8 Second Vespers responsory), and the identical
+    "[João 6:51]" mislabel was present in **both** locations
+    (`officesas-c02.md` line 234 and `officesas-c08.md` line 15, byte-
+    for-byte identical text) — en-US independently carries the same
+    "[John 6:51]" truncation in both chapters too, so this is inherited
+    from en-US, not introduced in translation. Fixed both occurrences to
+    "[João 6:51–52]" to keep the reused block identical across chapters,
+    per the standing convention that reused blocks must match verbatim
+    (round 1's "same reused clause, four occurrences, all fixed
+    identically" precedent). Ch. 2 is outside this round's nominal
+    Ch. 5–8 scope, but fixing only the Ch. 8 copy would have created a
+    fresh cross-chapter inconsistency, so both were corrected together.
+  - Rebuilt with `pnpm build:corpus` after the fix — clean, no new
+    warnings (pre-existing H1/TOC-drift warnings on unrelated
+    chapters/books are unaffected).
+  - **Verdict**: Ch. 5, 6, 7 — CLEAN (no defects, all in-range fixes
+    confirmed, antiphon-reuse consistency re-confirmed). Ch. 8 — NOT
+    CLEAN going in (one new citation defect found, shared verbatim with
+    Ch. 2); CLEAN now that the fix is applied.
+  - **Clean-round count**: round 9 was not a clean round (one new
+    defect found, spanning Ch. 2 and Ch. 8), so the two-consecutive-
+    clean-round count remains at zero. The next Ch. 5–8 pass should
+    re-verify the "[João 6:51–52]" fix in addition to the three prior
+    in-range fixes, and the next Ch. 1–4 pass should re-verify the same
+    fix in its Ch. 2 copy.

@@ -12,7 +12,7 @@ Examine-se, pois, o homem a si mesmo, e assim coma daquele pão e beba daquele c
 
 ℟. Eu sou o pão da vida. *(Não é claro, pelo manuscrito, se a música deste responsório deve ser a mesma do responsório do 3º noturno de Matinas.)* Vossos pais comeram o maná no deserto e morreram. * Este é o pão que desce do céu. Se alguém dele comer, * não morrerá. [João 6:48–50]  
 
-℣. Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. [João 6:51] * Este é o pão que desce do céu. Se alguém dele comer. Glória ao Pai e ao Filho e ao Espírito Santo. * Não morrerá.  
+℣. Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. [João 6:51–52] * Este é o pão que desce do céu. Se alguém dele comer. Glória ao Pai e ao Filho e ao Espírito Santo. * Não morrerá.  
 
 Versículo  
 
