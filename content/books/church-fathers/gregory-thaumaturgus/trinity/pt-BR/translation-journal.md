@@ -41,3 +41,19 @@ A review pass after the initial merge found six objective defects, all of them f
 | inseparáve**l** e ilimitadamente | inseparave**lmente** e ilimitadamente | An adjective coordinated with an adverb, where the source has two adverbials ("inseparably and without limit"). *Inseparavelmente* is already the form used three times elsewhere in `church-fathers/*/pt-BR`. |
 
 Nothing in `en-US/ch001.md` was touched: the two peculiarities noted above (the Matthew 3:17 / "on the mount" pairing and "haines subsistent") belong to the imported public-domain Salmond text, not to this translation.
+
+## Second Review Round
+
+A further review after that merge found two more defects. Both are pronouns pointing at the wrong antecedent — the same failure mode the first round identified as dominant, which is why the file was re-read for it specifically:
+
+| Was | Now | Why |
+|-----|-----|-----|
+| visto que **este** está muito distante da natureza humana | visto que **aquele** está muito distante da natureza humana | The clause offers two masculine-singular antecedents in order — *um objeto espiritual*, then *um objeto corpóreo*. *Este* selects the nearest (corpóreo), asserting that the **corporeal** object is far removed from human nature, which inverts the argument: the corporeal is precisely what is proper to man, and the next sentence restates the intended sense ("uma matéria espiritual está acima da condição humana"). English "that" is distal and reaches the spiritual object; *aquele* is its Portuguese counterpart. |
+| é eterno **consigo mesmo**, e é inseparável dele | é eterno **com ele mesmo**, e é inseparável dele | *Si/consigo* is the reflexive third-person prepositional pronoun and is obligatorily bound by the clause subject, so this asserted that the Word is eternal *with itself* — while the coordinated *é inseparável dele* uses a non-reflexive pronoun that must then denote someone else. That split referent is not in the English, where "Himself" and "Him" are one and the same divine referent (cf. the underlying *cum ipso aeternum est, et ab eo inseparabile*), and it dissolves the co-eternity claim the passage is making. Two non-reflexive pronouns mirror the source. |
+
+**Divine pronouns stay lowercase mid-sentence.** The first draft of the second fix used a reverential capital (*com Ele mesmo*), which would have been the only such capital in `church-fathers/*/pt-BR` — all 25 mid-sentence instances across the sibling translations are lowercase (`dele` ×12, `nele` ×13), as is this file's own *dele* in the very same clause. The grammatical work is done by *ele* being non-reflexive, not by the capital, so lowercase costs the fix nothing.
+
+Two candidates raised in this round were examined and **ruled out** as non-defects, recorded so they aren't re-litigated:
+
+- `nomes são estes — Adão, Abraão, Isaque, Jacó` for "names are such as these". The bare plural subject (*nomes*, not *os nomes*) already carries the illustrative reading in Portuguese; the exhaustive reading would require the definite article. *Tais como estes* is a phrasing preference.
+- `e, por ser espiritual, a sua investigação torna-se impraticável` for "and because it is spiritual, its investigation becomes impracticable". Portuguese adverbial reduced infinitives do not carry English's prescriptive subject-control requirement, and the antecedent is present inside the matrix subject as the possessor (*a sua investigação* = the investigation *of the generation*). Ambiguity at worst, not a false assertion.
