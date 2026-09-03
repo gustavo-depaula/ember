@@ -78,7 +78,7 @@ Em 1915, Frei Maximiliano se formou em filosofia. E sua mente ficou absorta num 
 
 Naquele mesmo ano, num lugar tranquilo de Portugal, Nossa Senhora apareceu a três pequenos pastorinhos. Deu às três crianças de Fátima sua comovente mensagem de amor e paz.
 
-Maximiliano decidiu não demorar mais, e começar de vez seu "exército". Falou disso a seus superiores, e recebeu sua aprovação. Na noite de 16 de outubro, sete seminaristas franciscanos se reuniram no cômodo ao lado do do reitor. O ambiente estava eletrizado. Parecia que eram cavaleiros de outrora esperando por sua investidura. Frei Maximiliano tinha em mãos o programa que haviam elaborado depois de muitas e longas discussões e de muita reflexão. Leu-o em voz baixa e séria. Depois, um por um, assinaram-no, e depois trocaram olhares, não isentos de certa emoção. Naqueles poucos minutos de silêncio nasceu o "Exército da Imaculada".
+Maximiliano decidiu não demorar mais, e começar de vez seu "exército". Falou disso a seus superiores, e recebeu sua aprovação. Na noite de 16 de outubro, sete seminaristas franciscanos se reuniram no cômodo ao lado do reitor. O ambiente estava eletrizado. Parecia que eram cavaleiros de outrora esperando por sua investidura. Frei Maximiliano tinha em mãos o programa que haviam elaborado depois de muitas e longas discussões e de muita reflexão. Leu-o em voz baixa e séria. Depois, um por um, assinaram-no, e depois trocaram olhares, não isentos de certa emoção. Naqueles poucos minutos de silêncio nasceu o "Exército da Imaculada".
 
 28 de abril de 1918. Enquanto a Europa entrava nos últimos meses terríveis da Grande Guerra, Maximiliano Kolbe subiu ao altar para dizer sua primeira missa. Em outubro, o papa Bento XV aprovou e abençoou o Exército que ele havia fundado. O padre Kolbe percebeu que se aproximava o tempo em que o lançaria pelo mundo todo.
 
@@ -182,7 +182,7 @@ Ele permaneceu, com cinquenta de seus irmãos franciscanos.
 
 A onda de destruição e morte atingiu a cidadela em meados de setembro; alguns edifícios foram destruídos pelos bombardeios; outros ficaram gravemente danificados. Depois o esquadrão volante da Wehrmacht chegou aos portões, fuzis apontados. Em 19 de setembro, os religiosos que restavam foram reunidos à força no pátio, jogados em caminhões, depois em vagões de carga ferroviários, e transportados para o desconhecido.
 
-Foram levados a Amtitz, na Alemanha. Foi na época em que o "Senhor da Guerra", Adolfo Hitler, anunciou a um mundo estupefato que a Polônia, como nação, havia deixado de existir.
+Foram levados a Amlitz, na Alemanha. Foi na época em que o "Senhor da Guerra", Adolfo Hitler, anunciou a um mundo estupefato que a Polônia, como nação, havia deixado de existir.
 
 Em novembro, os religiosos foram inesperadamente devolvidos ao território polonês. Ficaram detidos por algum tempo num colégio salesiano abandonado, em Ostrzeszów. Depois, em dezembro, veio a imprevista permissão para voltarem a Niepokalanów.
 

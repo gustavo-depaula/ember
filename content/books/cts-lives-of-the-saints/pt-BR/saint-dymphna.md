@@ -28,9 +28,9 @@ Renomados psiquiatras testemunham que um número surpreendentemente grande de pa
 
 ### Litania de Santa Dinfna
 
-Senhor, *tende piedade de nós.*  
 Cristo, *tende piedade de nós.*  
 Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
 Cristo, *ouvi-nos.*  
 Deus Pai do Céu, *tende piedade de nós.*  
 Deus Filho, Redentor do mundo, *tende piedade de nós.*  
