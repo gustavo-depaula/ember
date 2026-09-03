@@ -35,6 +35,25 @@ Target: pt-BR
 - "Conf." (Confessor) title abbreviations in TOC/H1 kept as "Conf." in Portuguese too (same Latin-derived abbreviation is standard in Portuguese hagiography).
 - Imprimatur/Nihil Obstat/Imprimi Potest blocks (canonical apparatus, names, dates, dioceses) are translated for surrounding labels where natural (e.g. "Administrator, Archdiocese of Chicago" → "Administrador, Arquidiocese de Chicago") but proper names, titles (O.F.M. Conv., Rt. Rev.) and dates are preserved as in the original.
 
+### Batch: saint-wenceslas, the-adventurous-nun, the-dauntless-virgin-of-siena, the-life-of-saint-anthony, the-life-of-saint-john-berchmans-s-j, the-martyrdom-of-saint-perpetua-and-felicitas-with-their-companions, the-mothers-saint (2026-09-03)
+
+- Historical/foreign proper names normalized to standard Portuguese or vernacular forms consistent with Portuguese-language historiography: Wenceslas → Venceslau, Boleslas → Boleslau, Drahomira (kept), Ludmila → Ludmila (kept, already Slavic-Portuguese form), Spytihněv → Spytihněv/Spytihněv (kept diacritics), Přemysl Otakar, Přibyslava, etc. — diacritics of the original Czech names were restored/kept where the modern Czech form is standard in reference works, rather than transliterating the English source's anglicized spellings literally.
+- "Ich Dien" (Prince of Wales motto) kept in German, untranslated, as in source.
+- Régnal/papal ordinal names normalized to Portuguese convention: Pope Gregory IX → Papa Gregório IX, Charles IV → Carlos IV, Otto II → Otão II, Alexander III → Alexandre III, etc.
+- Franciscan/Dominican vocabulary: "Friar Minor" → "Frade Menor" (plural "Frades Menores"); a friar referred to individually and informally → "Frei" (e.g. Frei Antônio, Frei Berardo) matching standard Portuguese religious-title usage; "Poor Clares"-style Latin/Italian proper names of houses kept in source language.
+- "Confessor and Doctor" (of the Church) → "Confessor e Doutor" (Doctor of the Church retained as "Doutor").
+- "Wonder-worker" / "Miracle-worker" → "Taumaturgo" (Santo Antônio, São Gerardo) — standard hagiographic Portuguese term.
+- "Coadjutor Brother" (Redemptorist) → "Irmão Coadjutor".
+- "Sodality" → "Sodalidade"; "Altar Servers" (in "The Sodality of Saint John Berchmans for Altar Servers") → "Coroinhas" (the standard modern Brazilian Portuguese term, more natural than a literal "servidores do altar").
+- St. Aloysius (Gonzaga) → São Luís Gonzaga; St. Stanislaus (Kostka) → São Estanislau (Kostka); St. John Berchmans → São João Berchmans — the "Angel Saints" trio of Jesuit tradition, rendered in their standard Portuguese liturgical names.
+- St. Gerard Majella → São Gerardo Majela (single "l", matching standard Portuguese-language Redemptorist usage); "The Mothers' Saint" (title) → "A Santa das Mães".
+- St. Catherine of Siena → Santa Catarina de Siena; "the Dauntless Virgin of Siena" (title) → "A Intrépida Virgem de Siena".
+- St. Perpetua and Felicitas/Felicity → Santas Perpétua e Felicidade (per existing journal convention); ancient-text first-person diary voice in the Passion of Perpetua and Felicity translated faithfully preserving tense and register, quotation marks normalized to Portuguese convention (« » not used; plain "…" retained per house style already used in body text).
+- Blessed Anne-Marie Javouhey → Beata Ana-Maria (Javouhey); her Congregation "Sisters of St. Joseph of Cluny" → "Irmãs de São José de Cluny".
+- Distances/speeds given in miles and mph in "The Adventurous Nun" were converted to their metric equivalents (km, km/h) for the Brazilian reader, since Brazil uses the metric system exclusively and the original imperial units would otherwise read as unfamiliar/foreign — e.g. "50 miles" → "80 quilômetros", "180 m.p.h." → "290 km/h". This is a deliberate localization departure from strict unit-preservation; the numeric precision of the original was preserved (converted values rounded to the nearest sensible figure).
+- English colloquial epithets with period-specific racial language ("negrophiles", "nigger-lovers") in "The Adventurous Nun" rendered with their period-accurate but non-slur Portuguese equivalents ("negrófilos", "amantes de negros") to preserve the historical/rhetorical point the 1960s author is making about the era's slurs, without introducing a harsher term than the source's own more clinical "negrophiles" for the earlier instance.
+- OCR-mangled place names and proper names in "Saint Wenceslas" (e.g. "Hilberstadt" for Hildesheim, "Gombold" for Gumpold of Mantua, "Rhinegan" for Rheingau, "Wladislas" for Vladislav/Ladislav) were resolved to their standard historical forms based on context, per the house rule of translating from the sense of lightly-proofed OCR rather than preserving scanning artifacts.
+
 ### Added 2026-09-03 (batch: Louise de Marillac, Lucy, Margaret Clitherow, Margaret Mary Alacoque, Margaret of Cortona, Martin of Tours, Mary Euphrasia Pelletier, Mary Magdalen)
 
 | English | Portuguese | Notes |
