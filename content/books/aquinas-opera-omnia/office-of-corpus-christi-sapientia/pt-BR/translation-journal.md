@@ -435,6 +435,105 @@ English wording was carried over mechanically.
     both ranges) are still needed before review can close. The next
     Ch. 5–8 pass should re-verify this John 6:32–33 fix in addition to
     the two prior in-range fixes.
+- 2026-09-03 — **review round 9** (independent, adversarial, Ch. 1–4
+  only). Spot-checked the three round-8 fixes named for this range —
+  Ch. 2 Reading 7's "(Jo 6:55)" fix, the Reading-8-responsory
+  "[João 6:54–55]" fix, and Ch. 3's *O salutaris hostia* vós-register
+  fix — all three confirmed correctly in place with exact wording
+  matching round 8's descriptions. A full fresh sentence-by-sentence
+  fidelity read of Ch. 1–4 against `la/` (tense, mood, negation,
+  subject/object direction, theological terms) found no new prose
+  defects — every case checked (the hymn stanzas, the "salus
+  medicus"/"tradetur" family already fixed, the Ch. 2 Reading 6
+  paragraphs on daily re-offering, Reading 11's communion-frequency
+  paragraph, etc.) matched the Latin. A full citation sweep (every
+  bracket/parenthetical scripture reference in Ch. 1–4 checked
+  chapter-and-verse against `content/bible/drb/*.json`, ~45 citations
+  total including all of Ch. 1's Exodus/Genesis/Wisdom/Psalm citations
+  and all of Ch. 3–4's) found Ch. 1, 3, and 4 **fully clean** — but
+  turned up a concentrated cluster of **11 more wrong citations, all
+  in Ch. 2 Readings 7–9** (the Alcuin *In Ioannem* homily block, John
+  6:54–69), a passage rounds 6–8's citation sweeps had already gone
+  over repeatedly without finding this:
+  - The root cause: this office's own `content/bible/drb/john.json`
+    (used as this review's ground truth per round 7/8's precedent) has
+    John 6:56 = *"caro mea vere est cibus... sanguis meus vere est
+    potus"* and John 6:57 = *"qui manducat carnem meam... in me manet
+    et ego in eo"* — confirmed against the well-known "I am the bread
+    of life" discourse's standard numbering (John 6:35, 48 also
+    checked and consistent). Round 7 had assumed the *opposite*
+    mapping (treating the "caro mea" clause as v. 55 and the "in me
+    manet" clause as v. 56) when it resolved an apparent internal
+    inconsistency, and "fixed" several already-correct citations
+    *into* this wrong mapping while leaving the true source of the
+    inconsistency (a different set of citations, off by one in the
+    same direction) untouched. en-US carries several of the same
+    off-by-one errors independently (confirmed, not just inherited via
+    copying), but not all of them — this cluster is a mix of
+    pre-existing en-US errors and one round-7-introduced regression.
+  - Reading 7, end of the `[Vers. 55]` paragraph — *"caro mea vere est
+    cibus, et sanguis meus vere est potus"* was cited "(Jo 6:55)"
+    (duplicating the citation already correctly used two sentences
+    earlier for *"et ego resuscitabo eum in novissimo die"*, which
+    genuinely is v. 55). Fixed to "(Jo 6:56)".
+  - Reading 7, the following paragraph — *"qui manducat carnem meam et
+    bibit meum sanguinem in me manet et ego in eo"* was headed
+    "[Vers. 56]" and cited "(Jo 6:56)". This is the exact clause round
+    7 moved from "[Vers. 57]"/"(Jo 6:57)" down to 56, believing it was
+    fixing an inconsistency — it was not; 57 was correct. Reverted the
+    header to "[Vers. 57]" and the citation to "(Jo 6:57)".
+  - Responsory after Reading 8, versicle — the same two clauses
+    (*"caro mea vere est cibus..."* + *"qui manducat... in me manet et
+    ego in eo"*) quoted together as "[João 6:55–56]". Fixed to
+    "[João 6:56–57]".
+  - Reading 8, `[Vers. 61]` paragraph — *"durus est hic sermo. Quis
+    potest eum audire?"* is v. 61 (matching its own paragraph header),
+    but was cited inline "(Jo 6:60)". Fixed to "(Jo 6:61)".
+  - Responsory after Reading 9, responsory line — *"Sicut vivens misit
+    me Pater... ipse vivit propter me"* (v. 58) + *"Hic est panis qui
+    de caelo descendit"* (start of v. 59) cited "[João 6:57–58]".
+    Fixed to "[João 6:58–59]".
+  - Responsory after Reading 9, versicle — *"Non sicut patres vestri
+    manducaverunt manna et mortui sunt. Qui manducat hunc panem vivet
+    in aeternum"* is entirely v. 59, but was cited "[João 6:58]".
+    Fixed to "[João 6:59]".
+  - Reading 9, `[Vers. 68]` paragraph — *"Numquid et vos vultis
+    abire?"* is v. 68 (matching its own header) but was cited
+    "(Jo 6:67)"; later in the same paragraph *"Domine ad quem ibimus?"*
+    is v. 69 but was cited "(Jo 6:68)". Fixed to "(Jo 6:68)" and
+    "(Jo 6:69)" respectively.
+  - Reading 9, `[Vers. 69]` paragraph — *"Verba vitae aeternae habes"*
+    is the continuation of v. 69 (matching its own header) but was
+    cited "(Jo 6:68)". Fixed to "(Jo 6:69)".
+  - Reading 10 — the same *"caro mea vere est cibus... sanguis meus
+    vere est potus"* clause as the Reading 7 case above, same
+    "(Jo 6:55)" mislabeling (this is the citation round 7 had pointed
+    to as the supposedly-correct reference when it "fixed" Reading 10
+    to match Reading 7 — both were wrong). Fixed to "(Jo 6:56)".
+  - Reading 12 — *"qui enim manducat carnem meam et bibit sanguinem
+    meum digne, in me manet et ego in eo"* is v. 57 (same clause as
+    the Reading 7 case), but round 7 had changed this from
+    "(Jo 6:57)" to "(Jo 6:56)" believing it was fixing a mislabeling.
+    Reverted to "(Jo 6:57)".
+  - The `[Vers. 51–52]`-range versicle after Reading 7 (`[João
+    6:51–52]`), the `[João 6:54–55]` responsory before it, and the
+    `[João 6:48–50]` responsory before that — all independently
+    re-verified against the DRB and confirmed correct; not changed.
+  - Rebuilt with `pnpm build:corpus` after all eleven fixes — clean,
+    no new warnings (same pre-existing unrelated H1/TOC-drift warnings
+    as every prior round).
+  - **Clean-round count reset again**: round 9 found eleven new
+    (citation) defects in the Ch. 1–4 range, so the
+    two-consecutive-clean-round count is back to zero; at least two
+    more full clean rounds are needed (covering both ranges) before
+    review can close. The next Ch. 1–4 pass should re-verify all
+    eleven of this round's fixes in addition to the seventeen prior
+    ones, paying particular attention to Reading 7–9's John 6:54–69
+    citation cluster given how many rounds it took to get right — and
+    the next Ch. 5–8 pass should double-check whether any of its own
+    John 6 citations (John 6:48–51 in the Third Nocturn responsory,
+    John 6:32 in Ch. 8) rest on the same verse-mapping confusion, since
+    that possibility was not specifically re-examined this round.
 - 2026-09-03 — **review round 9** (independent, adversarial, Ch. 5–8
   only). Re-verified all three prior in-range fixes with exact current
   wording — all confirmed correctly in place: Ch. 5 capitulum "que
