@@ -246,7 +246,7 @@ Salomé se levantou, envolveu-se no manto que uma criada lhe ofereceu, e curvou 
 
 'Deixa-me consultar', disse ela, em prosseguimento ao plano, 'minha mãe, tua esposa, a senhora que amas.
 
-Deixou o salão em meio aos trovões da aplauso dos homens, enquanto, com piadas obscenas e cumprimentos indecentes, adulavam o rei embriagado por sua boa sorte de ter tal enteada.
+Deixou o salão em meio aos trovões do aplauso dos homens, enquanto, com piadas obscenas e cumprimentos indecentes, adulavam o rei embriagado por sua boa sorte de ter tal enteada.
 
 Salomé voltou ainda ofegante, ainda muito tímida e reticente.
 

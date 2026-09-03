@@ -36,25 +36,25 @@ Oração a São Peregrino
 
 Rezai um Pai Nosso, uma Ave Maria e um Glória com a invocação: São Peregrino, rogai por nós
 
-### Ladainha em Honra de São Peregrino
+### Ladainha em honra de São Peregrino
 
-Senhor, *tende piedade de nós.*
-Cristo, *tende piedade de nós.*
-Senhor, *tende piedade de nós.*
-Cristo, *ouvi-nos.*
-Cristo, *graciosamente ouvi-nos.*
-Deus, Pai celeste, *tende piedade de nós.*
-Deus Filho, Redentor do mundo, *tende piedade de nós.*
-Deus, Espírito Santo, *tende piedade de nós.*
-Santíssima Trindade, um só Deus, *tende piedade de nós.*
-Santa Maria, Mãe de Deus, *rogai por nós.*
-Mãe das Dores, etc.
-Saúde dos enfermos,
-Consoladora dos aflitos,
-Auxílio dos cristãos,
-São Peregrino,
-Convertido pelas orações de São Filipe,
-Aflito por um crescimento canceroso,
+Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
+Senhor, *tende piedade de nós.*  
+Cristo, *ouvi-nos.*  
+Cristo, *graciosamente ouvi-nos.*  
+Deus, Pai celeste, *tende piedade de nós.*  
+Deus Filho, Redentor do mundo, *tende piedade de nós.*  
+Deus, Espírito Santo, *tende piedade de nós.*  
+Santíssima Trindade, um só Deus, *tende piedade de nós.*  
+Santa Maria, Mãe de Deus, *rogai por nós.*  
+Mãe das Dores, etc.  
+Saúde dos enfermos,  
+Consoladora dos aflitos,  
+Auxílio dos cristãos,  
+São Peregrino,  
+Convertido pelas orações de São Filipe,  
+Aflito por um crescimento canceroso,  
 Completamente curado pela mão estendida de Jesus Crucificado, que realizou muitos milagres em vossa vida,
 
 Que multiplicastes alimento e bebida,
@@ -89,9 +89,9 @@ Amado Padroeiro da Espanha,
 
 Glória da Ordem dos Servos de Maria,
 
-Cordeiro de Deus, que tirais os pecados do mundo, *poupai-nos, ó Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *graciosamente ouvi-nos, ó Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*
+Cordeiro de Deus, que tirais os pecados do mundo, *poupai-nos, ó Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *graciosamente ouvi-nos, ó Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*  
 V. Rogai por nós, ó glorioso São Peregrino,
 
 R. Para que sejamos feitos dignos das promessas de Cristo.

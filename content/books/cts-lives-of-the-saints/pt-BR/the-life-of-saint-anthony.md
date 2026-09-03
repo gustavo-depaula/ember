@@ -240,7 +240,7 @@ de dar testemunho de Cristo, tais como a humildade, a pobreza, a paciência e a 
 ## Apêndice
 
 
-## Uma Cura Recente e Notável
+## Uma cura recente e notável
 
 (Os detalhes aqui apresentados vêm de Elia Bruson, *Il Messaggero di Sant'Antonio*, Pádua, nov. 1976, p. 42-43.) Em Lappano, perto de Cosenza, na Itália, uma cura notável aconteceu em 1975 por meio da oração a Santo Antônio. Cosenza fica no extremo sul da Itália, na "ponta do pé" que dá ao sul da Itália sua forma peculiar. E
 

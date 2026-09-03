@@ -42,7 +42,7 @@ Margaret, de seis anos, e Vin, de quatro, tinham ficado quietos todo esse tempo.
 
 O Padre Lawrence olhou para o fogo. 'Bem, o nome dele está nas notícias hoje em dia', disse ele, procurando seu cachimbo, 'e além disso, sua vida pode interessar até vocês, crianças mais velhas!
 
-'Bem, para começar, seu nome era Giuseppe Sarto — em inglês seria Joseph Taylor, sendo Sarto o italiano para Alfaiate — mas vocês não o conheceriam por esse nome, embora todos tenham ouvido falar dele, pois foi esse rapazinho, Giuseppe, que mais tarde se tornou o famoso Pio X. De qualquer forma, o jovem Giuseppe nasceu na aldeia de Riese, no norte da Itália — na Vêneto — em 2 de junho de 1835. . . Seu pai era o carteiro local, e teve de se esforçar bastante para alimentar e vestir sua família de dez filhos — quatro meninos e seis meninas. Os Sarto eram o que se poderia chamar de uma família cristã modelo, e, como bons pais católicos em todo o mundo, criaram seus filhos com um grande amor a Deus e a Sua santa Mãe — e, assim como cooperaram com Deus ao trazer seu filho mais velho ao mundo e educá-lo, tenho certeza de que agora compartilham de sua glória no céu.'
+'Bem, para começar, seu nome era Giuseppe Sarto — em inglês seria Joseph Taylor, sendo Sarto o italiano para Alfaiate — mas vocês não o conheceriam por esse nome, embora todos tenham ouvido falar dele, pois foi esse rapazinho, Giuseppe, que mais tarde se tornou o famoso Pio X. De qualquer forma, o jovem Giuseppe nasceu na aldeia de Riese, no norte da Itália — no Vêneto — em 2 de junho de 1835. . . Seu pai era o carteiro local, e teve de se esforçar bastante para alimentar e vestir sua família de dez filhos — quatro meninos e seis meninas. Os Sarto eram o que se poderia chamar de uma família cristã modelo, e, como bons pais católicos em todo o mundo, criaram seus filhos com um grande amor a Deus e a Sua santa Mãe — e, assim como cooperaram com Deus ao trazer seu filho mais velho ao mundo e educá-lo, tenho certeza de que agora compartilham de sua glória no céu.'
 
 'Sabe, Padre', refletiu Frank Morton, 'de vez em quando sinto vontade de ler as vidas dos santos e de outras pessoas santas, mas, ah, não sei! Toda essa reza, e esses jejuns, e o resto. Bem, não consigo me imaginar fazendo esse tipo de coisa.'
 
@@ -104,7 +104,7 @@ Houve um silêncio . . .
 
 O pastor se recostou na cadeira. 'Se vocês me perguntassem qual era a qualidade mais notável de Joseph Sarto, eu diria que era sua generosidade; uma generosidade que brotava de um amor genuíno e grande. Ele amava a Cristo; via todos os homens em Cristo — membros de Seu Corpo — e, porque se entregava de coração e alma a Cristo, se entregava aos homens — membros de Cristo! Em Treviso, para onde foi transferido como Cônego em 1875, sua generosidade continuava sendo lugar-comum, especialmente no Seminário, onde foi nomeado Diretor Espiritual. Muitos dos estudantes mais pobres foram ajudados financeiramente, com o resultado de que o próprio Cônego estava quase sempre sem dinheiro. No Seminário, corrigiu muitos abusos que infelizmente se tinham infiltrado, e nisso foi motivado por um zelo ardente por sacerdotes bons e santos. Era muito respeitado ali, no Seminário de Treviso; tanto que, quando chegou a hora de partir, sentiu que uma despedida geral seria doloroso demais. Em vez disso, deu uma carta ao Reitor do Seminário:
 
-''Digam a eles que os guardo todos em meu coração, e que devem rezar por mim', disse ele. Então, escapulindo sem ser notado, foi ao encontro da carruagem que o esperava e partiu para Mântua.
+'Digam a eles que os guardo todos em meu coração, e que devem rezar por mim', disse ele. Então, escapulindo sem ser notado, foi ao encontro da carruagem que o esperava e partiu para Mântua.
 
 'Veremos mais tarde que Pio X tomou como lema 'Instaurare Omnia In Christo' — 'Restaurar todas as coisas em Cristo.' Na verdade, era algo que carregava consigo por toda a vida. Como Bispo de Mântua, teve ampla oportunidade de pô-lo em prática. O clero e o povo estavam divididos; o recém-fundado Seminário estava quase vazio de alunos; muitas paróquias não tinham sacerdotes, e os párocos frequentemente negligenciavam seus deveres. Ele imediatamente se lançou ao seu trabalho de restauração. Conseguiu aumentar o número de seminaristas para cento e quarenta e sete; reformou o clero; iniciou confrarias; estabeleceu instituições caritativas; reintroduziu o Canto Gregoriano na música da Igreja; ensinou o catecismo.
 
@@ -221,7 +221,7 @@ Terceiro, tudo o que é exigido para ser legitimamente chamado pelo Bispo é a '
 
 ## Papa Pio X
 
-POBRE E HUMILDE DE CORAÇÃO CAMPEÃO INTRÉPIDO DA FÉ CATÓLICA ZELOSO EM RESTAURAR TODAS AS COISAS EM CRISTO CORONOU UMA VIDA SANTA COM UMA MORTE SANTA 20 DE AGOSTO, A.D. 1914
+POBRE E HUMILDE DE CORAÇÃO CAMPEÃO INTRÉPIDO DA FÉ CATÓLICA ZELOSO EM RESTAURAR TODAS AS COISAS EM CRISTO COROOU UMA VIDA SANTA COM UMA MORTE SANTA 20 DE AGOSTO, A.D. 1914
 
 O sacerdote se levantou para partir — a chuva tinha parado.
 

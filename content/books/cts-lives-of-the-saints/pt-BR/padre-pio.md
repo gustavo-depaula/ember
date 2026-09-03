@@ -23,7 +23,7 @@ Para crer, porém, é essencial querer crer, e quem for ao Padre com essa inten�
 Declaro, como sempre faço, que, em obediência aos decretos dos Sumos Pontífices, relato estes fatos com credibilidade puramente humana, recorrendo aos preceitos da Igreja, nossa única Mãe e Mestra.
 
 
-## O Autor.
+## O autor.
 
 Falar do Reverendo Padre Pio de Pietrelcina é a mais fácil e ao mesmo tempo a mais difícil das tarefas; é fácil porque sua vida é como um livro aberto no qual todos podem ler, mas é difícil porque a impressão recebida por cada um que o vê quase nunca é igual à do próximo. Essas impressões são variadas e complexas, de acordo com o estado de graça, a condição de consciência e a personalidade do visitante.
 
@@ -101,7 +101,7 @@ O Arcipreste, não acreditando em Padre Pio, escreveu a Padre Agostino, e a resp
 
 Muitas coisas desse tipo lhe aconteceram, e a outros também, mas levaria demasiado tempo para contá-las todas. A graça mais notável, porém, que ele recebeu de Deus Todo-Poderoso foi a dos Estigmas.
 
-Padre Pio recebeu primeiro os Estigmas invisíveis em Pietrelcina, em 20 de setembro de 1915, e os visíveis em San Giovanni Rotondo, na mesma data, em 1918. Isso não ocorreu com nenhum dos outros setenta estigmatizados que a Igreja canonizou até agora. Gema Galgani é a mais recente delas a ser assim honrada.
+Padre Pio recebeu primeiro os Estigmas invisíveis em Pietrelcina, em 20 de setembro de 1915, e os visíveis em San Giovanni Rotondo, na mesma data, em 1918. Isso não ocorreu com nenhum dos outros setenta estigmatizados que a Igreja canonizou até agora. Gemma Galgani é a mais recente delas a ser assim honrada.
 
 Muito se poderia dizer sobre este dom sobrenatural com que Padre Pio foi abençoado pela Divina Providência, mas eu, por minha parte, sou demasiado ignorante não apenas para explicar o dom, mas para discutir sua natureza. Direi apenas que os Estigmas invisíveis lhe vieram enquanto ele estava no jardim ou pomar de sua casa em Pietrelcina, numa manhã de setembro do ano de 1915.
 

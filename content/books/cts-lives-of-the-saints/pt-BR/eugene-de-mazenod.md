@@ -104,7 +104,7 @@ Durante todos os primeiros dias de seu trabalho conjunto, o grupo de sacerdotes 
 
 Ali descansavam e se recuperavam após as semanas de trabalho moedor que cada Missão exigia. Ali viviam em vida comunitária; ali rezavam, estudavam, oficiavam na capela do convento, dedicavam horas regulares ao recolhimento e à meditação.
 
-Viviam em comunidade naquela antiga casa comunitária dos Carmelitas; mas eles mesmos não eram uma comunidade unida por votos algum. A unidade de ideais, a influência do Padre de Mazenod, que se tornara seu Superior por consenso comum; a caridade mútua; um simples acordo: esses eram os únicos vínculos que uniam os Missionários da Provença.
+Viviam em comunidade naquela antiga casa comunitária dos Carmelitas; mas eles mesmos não eram uma comunidade unida por voto algum. A unidade de ideais, a influência do Padre de Mazenod, que se tornara seu Superior por consenso comum; a caridade mútua; um simples acordo: esses eram os únicos vínculos que uniam os Missionários da Provença.
 
 E agora, com a casa de Notre-Dame du Laus pronta para se tornar uma casa comunitária, o Padre de Mazenod e seus ajudantes se prepararam para aquele passo que há muito ponderavam, meditavam e sobre o qual rezavam. O Superior foi chamado a formular uma regra, um código de leis pelo qual a comunidade deveria viver.
 
@@ -114,7 +114,7 @@ Nem todos os sacerdotes que se haviam unido ao Padre de Mazenod com o propósito
 
 Ainda meia dúzia de anos se passaria antes que Eugênio de Mazenod desse o próximo grande passo no progresso da obra que começara tão humilde e discretamente naquele quarto duro, marcado pela pobreza, na velha casa dos Carmelitas.
 
-Vez após vez, ponderara a possibilidade de buscar, para a nova Sociedade, sua obra e Regras e Constituição, a solene aprovação e aprobação da Santa Sé. A princípio, uma prudente percepção das muitas dificuldades envolvidas em tal pedido formal fê-lo adiar a decisão final. Mas, pelo inverno de 1825, já estava convencido de que o selo da Aprovação Papal precisava agora ser buscado, se a Sociedade que fundara devesse alcançar estabilidade e força. Os primeiros dias de novembro o encontraram a caminho de Roma.
+Vez após vez, ponderara a possibilidade de buscar, para a nova Sociedade, sua obra e Regras e Constituição, a solene aprovação e ratificação da Santa Sé. A princípio, uma prudente percepção das muitas dificuldades envolvidas em tal pedido formal fê-lo adiar a decisão final. Mas, pelo inverno de 1825, já estava convencido de que o selo da Aprovação Papal precisava agora ser buscado, se a Sociedade que fundara devesse alcançar estabilidade e força. Os primeiros dias de novembro o encontraram a caminho de Roma.
 
 Do diário formal de seus dias em Roma, que mais tarde escreveu, mas ainda mais calorosamente nas cartas que enviava por quase todo correio ao Padre Tempier, emerge um retrato vívido daqueles dias momentosos na história da Sociedade — e um retrato ainda mais vívido do fundador da Sociedade.
 
