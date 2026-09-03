@@ -299,7 +299,7 @@ Sem dúvida um dos dias mais felizes de sua vida foi quando, na primavera de 191
 "O Papa da Eucaristia": "o Papa do Santíssimo Sacramento": haveria títulos mais gloriosos?
 
 
-## O Taumaturgo
+## O taumaturgo
 
 "Estes sinais acompanharão os que creem: em meu nome expulsarão os demônios... Imporão as mãos sobre os enfermos, e eles ficarão curados." Esta foi a promessa final de nosso divino Senhor aos Apóstolos. Não nos espanta, então, ler nos Atos dos Apóstolos que o povo da Judeia "levava seus doentes às ruas e os punha em leitos e macas, para que, quando Pedro passasse, ao menos sua sombra os cobrisse e ficassem livres de suas enfermidades." Por que, então, deveríamos nos surpreender se, dezenove séculos depois, o 258º sucessor de São Pedro devolveu a saúde a doentes pelo poder de sua palavra e curou os enfermos com o toque de sua veste?
 

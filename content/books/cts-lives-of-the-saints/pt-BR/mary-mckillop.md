@@ -76,7 +76,7 @@ Um segundo Moisés, com certeza, foi quem tudo fez.
 
 Foi. Um segundo Moisés de touca e de xale."
 
-Talvez sua maior e mais duradoura realização tenha sido o estabelecimento da dignidade da condição feminina, após a degradação da era dos condenados. Sem posição social ou riqueza, e com apoio muito escasso, estabeleceu com segurança e independência cerca de 11.000 mulheres; e, desde o dia em que dedicou seus "talentos ao Deus que os deu", recusou-se firmemente a qualquer recompensa por seu trabalho.*
+Talvez sua maior e mais duradoura realização tenha sido o estabelecimento da dignidade da condição feminina, após a degradação da era dos condenados. Sem posição social ou riqueza, e com apoio muito escasso, estabeleceu com segurança e independência cerca de 11.000 mulheres; e, desde o dia em que dedicou seus "talentos ao Deus que os deu", recusou-se firmemente a qualquer recompensa por seu trabalho.
 
 Caroline Chisholm teria sido convidada grandemente honrada no lar de Darebin. Suas maiores realizações estavam em processo de desenvolvimento. Sobre a jovem Maria, então em seus primeiros anos de adolescência, a personalidade, o entusiasmo ardente da visitante, fizeram impressão duradoura. É impossível não chegar à conclusão de que Caroline Chisholm foi um instrumento da Divina Providência na formação da vocação da jovem, precisamente no momento em que ela deve ter começado a despertar em seu coração.
 

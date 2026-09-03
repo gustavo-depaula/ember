@@ -241,7 +241,7 @@ OS PRECIOSOS restos mortais de São João Berchmans foram colocados num caixão 
 Muitos outros milagres notáveis foram registrados, operados pela intercessão do santo, mas só podemos relatar o acima.
 
 
-## Retrato do Santo
+## Retrato do santo
 
 O PADRE CEPARI nos traça o retrato do santo: "João era de estatura razoável, de tez corada, e excelente temperamento, e de modo algum magro. Seu rosto era verdadeiramente angelical, rosado e branco, sua fronte larga, suas sobrancelhas tão espessas que pareciam negras, e o mesmo se poderia dizer de seus cílios. Seus olhos eram brilhantes e vivos, mas tímidos e cheios de bondade e doçura, e sempre baixos. Seu nariz era regular e ligeiramente aquilino, seus lábios pequenos e corados. Havia sempre um sorriso modesto brincando neles. Seus cabelos eram claros... Suas mãos estavam sempre quietas e compostas sobre o peito. Seu andar não era nem lento nem apressado, mas moderado e grave. Todo o seu porte era tão modesto que impressionava a todos os que o encontravam... As pessoas paravam para contemplá-lo e desfrutar do espetáculo de um modelo tão raro de modéstia. Em resumo, podemos dizer que, a uma alma pura e bela, Deus deu um corpo belo à altura, e que seu aspecto exterior era imagem de sua mente, uma forma de justiça, como escreveu Santo Ambrósio sobre Maria, sempre Virgem" (Padre Cepari, Reitor do Colégio Romano).
 

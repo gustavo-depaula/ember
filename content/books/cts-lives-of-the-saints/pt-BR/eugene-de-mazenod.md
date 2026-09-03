@@ -94,7 +94,7 @@ Algo, mas não tudo; pois o poder de pregar sermões e o talento de dirigir Miss
 
 Ele próprio mostrou plena consciência dos dons que eram verdadeiramente necessários ao pregador e missionário que levasse o Evangelho aos homens, quando, logo no início de sua obra missionária, conversou com o Padre Tempier.
 
-"Se fosse apenas uma questão de pregar bem ou mal a palavra de Deus", disse, "de correr pelo interior sem nos darmos ao trabalho de nos tornarmos homens interiores, verdadeiramente apostólicos, penso que não seria muito difícil substituir-vos. Mas acreditais que eu queira essa lixaria?"
+"Se fosse apenas uma questão de pregar bem ou mal a palavra de Deus", disse, "de correr pelo interior sem nos darmos ao trabalho de nos tornarmos homens interiores, verdadeiramente apostólicos, penso que não seria muito difícil substituir-vos. Mas acreditais que eu queira esse lixo?"
 
 Queria mais, muito mais de seus colaboradores do que disposição, por mais ardente que fosse, de seguir a rotina e o cotidiano da pregação de cidade em cidade, muito mais do que a aceitação sem queixa do trabalho moedor do púlpito e do confessionário. Nas palavras do Padre Tempier, queria homens "prontos a seguir as pegadas dos Apóstolos, a trabalhar pela salvação das almas sem esperar outra recompensa na terra além da dor e do cansaço."
 

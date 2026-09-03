@@ -70,7 +70,7 @@ Ora, Àquele que é poderoso para vos preservar sem pecado, e vos apresentar dia
 
 No tempo do apostolado de Santo Judas, certos erros haviam se espalhado entre os cristãos hebreus. Foi para os precaver contra essas falsidades, bem como para exortá-los a serem fiéis aos ensinamentos dos Apóstolos, que esta Epístola foi escrita. Santo Judas se insurgiu especialmente contra as práticas de simonia e as crenças heréticas defendidas entre os primeiros cristãos.
 
-Em sua Epístola, Santo Judas exortou os fiéis a permanecer firmes na doutrina e nas práticas ensinadas pelos Apóstolos, os quais haviam predito que, em tempos futuros, haveria falsos mestres que escarneceriam e ridicularizariam todas as verdades reveladas, entregando-se a suas paixões e concupiscências; homens que se separariam da comunhão católica por heresias e cismas: homens carnais escravizados pelos prazeres dos sentidos. Que tais homens seriam severamente punidos, disse ele, era evidente pela punição dos israelitas incrédulos no deserto, dos anjos maus, e dos habitantes de Sodoma e Gomorra. Santo Judas prediz para os hereges o mesmo castigo dado a Caim, a Balaão e aos filhos de Coré, porque imitaram os erros desses ímpios. Ao orgulho de seus maus ensinamentos e de sua vida, ele opôs a modéstia do Arcanjo Miguel.
+Em sua Epístola, Santo Judas exortou os fiéis a permanecer firmes na doutrina e nas práticas ensinadas pelos Apóstolos, os quais haviam predito que, em tempos futuros, haveria falsos mestres que escarneceriam e ridicularizariam todas as verdades reveladas, entregando-se a suas paixões e concupiscências; homens que se separariam da comunhão católica por heresias e cismas: homens carnais escravizados pelos prazeres dos sentidos. Que tais homens seriam severamente punidos, disse ele, era evidente pela punição dos israelitas incrédulos no deserto, dos anjos maus, e dos habitantes de Sodoma e Gomorra. Santo Judas predisse para os hereges o mesmo castigo dado a Caim, a Balaão e aos filhos de Coré, porque imitaram os erros desses ímpios. Ao orgulho de seus maus ensinamentos e de sua vida, ele opôs a modéstia do Arcanjo Miguel.
 
 Santo Judas exortou igualmente os primeiros cristãos a erguer um verdadeiro edifício espiritual, vivendo vidas fundadas na fé, no amor de Deus, na esperança ardente e na oração, enquanto aguardavam as misericórdias de Deus e a recompensa da vida eterna. Exortou-os a praticar a caridade fraterna, e os advertiu de que, em seus esforços para ganhar convertidos, encontrariam três tipos de pessoas:
 
@@ -168,11 +168,11 @@ Deus Filho, Redentor do mundo, etc.
 Deus Espírito Santo,
 Santíssima Trindade, um só Deus,
 Santo Judas, parente de Jesus e Maria, *rogai por nós*
-Santo Judas, que, na terra, foste digno de ver Jesus e Maria, e de gozar de sua companhia, etc.
+Santo Judas, que, na terra, fostes digno de ver Jesus e Maria, e de gozar de sua companhia, etc.
 Santo Judas, elevado à dignidade de Apóstolo,
 Santo Judas, honrado ao ver o Divino Mestre humilhar-Se para lavar-vos os pés,
 
-Santo Judas, que na Última Ceia recebeste a Sagrada Eucaristia das mãos de Jesus, rogai por nós. Santo Judas, que, depois da profunda dor que a morte de vosso amado Mestre vos causou, tiveste a consolação de
+Santo Judas, que na Última Ceia recebestes a Sagrada Eucaristia das mãos de Jesus, rogai por nós. Santo Judas, que, depois da profunda dor que a morte de vosso amado Mestre vos causou, tivestes a consolação de
 
 vê-Lo ressuscitado dos mortos, e de assistir à Sua gloriosa Ascensão, etc.
 

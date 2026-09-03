@@ -248,6 +248,6 @@ BERNARD O'CONNOR, Censor Diocesano.
 
 Imprimatur:
 
-## + Daniel Mannix,
+## @ Daniel Mannix,
 
 Archiepiscopus Melbournensis. 7 de janeiro de 1963.

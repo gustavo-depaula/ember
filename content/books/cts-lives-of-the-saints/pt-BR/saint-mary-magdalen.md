@@ -155,7 +155,7 @@ Maria entrou no salão de banquetes de Simão: viu Jesus e correu até ele, recl
 Jesus foi brando com Judas. Não o repreenderia, embora soubesse o que outra breve semana revelaria. O que Maria fizera, por mais extravagante que pudesse parecer a todos os presentes, ela fizera porque o amava. Maria não pôs limites a seus dons. Os Apóstolos talvez não compreendessem agora, mas um dia compreenderiam, e então rivalizariam entre si em preservar seu nome e o que ela fizera naquele dia. De todos os homens e mulheres que entraram em sua vida, nenhum seria mais bem conhecido pela posteridade, nenhum seria mais estimado, do que Maria Madalena.
 
 
-## As Duas Marias
+## As duas Marias
 
 Maria, a Mãe imaculada de Deus, seguiu o exemplo de seu Divino Filho ao aceitar abertamente Maria de Magdala como irmã. Isso tornou a Madalena ainda mais grata pelo perdão de Cristo, o fato de que Maria, sua Mãe sem mácula, tivesse aberto os braços e o coração para a outra Maria, que tão longe estivera de ser sem mácula. Que cena a imaginação pode pintar quando primeiro a Virgem Mãe deu boas-vindas a Maria Madalena em sua própria companhia e na de seu Divino Filho! Mas a Mãe de Cristo fez mais do que apenas se dignar a receber a prostituta reformada; fez dela companheira e íntima, chamou-a de amiga e irmã, amou-a como tal, assim como Cristo o fazia. Que humilhante deve ter sido essa associação para a Madalena, ao contrastar seu passado com o daquela que era a Grande Mãe de todos eles. Isso, porém, não a perturbou; apenas a fez amá-lo mais. Havia lugar no Sagrado Coração para as duas Marias, a imaculada e a resgatada. Humildemente grata, amava ainda mais.
 

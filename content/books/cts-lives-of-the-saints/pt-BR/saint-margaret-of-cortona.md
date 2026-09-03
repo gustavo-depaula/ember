@@ -96,7 +96,7 @@ Ao longo de toda esta vida ativa dedicada ao bem dos outros, Margarida jamais se
 
 Por fim, nossa Santa, que há muito desejava maior solidão para poder se entregar mais completamente a Deus, retirou-se para um lugar deserto no monte acima de Cortona. Ali os últimos nove anos de sua vida continuaram a ser passados em penitência e oração.
 
-À medida que a carreira terrena de Margarida se aproximava do fim, suspirava mais do que nunca por aquele Céu onde ansiava estar, nem estava Nosso Senhor, por Sua parte, menos desejoso de receber Sua fiel penitente e amorosa filha em Seu abraço eterno, para colocá-la, como havia dito, no coro das virgens, a cantar para sempre os louvores Daquele que a havia tirado das profundezas do pecado para fazer dela um sinal exemplo de Sua sempre inesgotável misericórdia para com o pecador penitente.
+À medida que a carreira terrena de Margarida se aproximava do fim, suspirava mais do que nunca por aquele Céu onde ansiava estar, nem estava Nosso Senhor, por Sua parte, menos desejoso de receber Sua fiel penitente e amorosa filha em Seu abraço eterno, para colocá-la, como havia dito, no coro das virgens, a cantar para sempre os louvores Daquele que a havia tirado das profundezas do pecado para fazer dela um exemplo notável de Sua sempre inesgotável misericórdia para com o pecador penitente.
 
 Margarida, a quem Deus havia dito que a hora marcada para sua partida deste mundo não tardaria muito, recebeu com grande alegria a bem-vinda notícia de que, por fim, o dia estava próximo. Durante os últimos dias de sua vida, o único alimento de Margarida foi a Sagrada Eucaristia.
 
