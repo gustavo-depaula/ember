@@ -718,3 +718,60 @@ English wording was carried over mechanically.
     two-consecutive-clean-round count remains at zero. At least one
     clean Ch. 1–4 round followed by one more clean round in either
     range is still needed before review can close.
+- 2026-09-03 — **review round 11** (independent, adversarial, Ch. 5–8
+  only — the seventh pass over this range). Round 10 had already come
+  back clean for *both* ranges in the same round (Ch. 1–4 and Ch. 5–8
+  each independently confirmed clean), so this pass's purpose was to
+  establish whether a second consecutive clean round could be reached
+  for Ch. 5–8, which would close the whole review. Re-verified all four
+  in-range fixes with exact current wording — all confirmed correctly
+  in place: Ch. 5 capitulum "que **será entregue** por vós" (1 Cor
+  11:23–24), Ch. 6 Sext versicle response "Sois vós quem me
+  **restituirá** a minha herança", Ch. 8's Second Vespers responsory
+  versicle "[João **6:51–52**]" (and confirmed byte-identical against
+  its Ch. 2 Third Nocturn twin), and Ch. 8's Magnificat antiphon
+  "[João **6:32–33**]". Re-confirmed the Ch. 3 Lauds → Ch. 4/5/6/7
+  Prime/Terce/Sext/None antiphon-reuse consistency by comparing all
+  four reused antiphons word-for-word, citation included, against their
+  Ch. 3 originals — the "Fez memória das suas maravilhas…" (→ Prime,
+  Salmo 110 (111):4–5), "A minha memória permanece…" (→ Terce,
+  Eclesiástico 24:28–29), "Todos comeram o mesmo alimento
+  espiritual…" (→ Sext, 1 Coríntios 10:3–4), and "Quem tem ouvidos para
+  ouvir…" (→ None, Apocalipse 2:17) antiphons are all byte-identical
+  between Ch. 3 and their reuse chapter, no drift. Also independently
+  confirmed the Ch. 8 Second-Vespers-versicle vs. Ch. 3-Lauds-antiphon-1
+  split ("[Salmo 110 (111):4]" alone for the versicle, since it quotes
+  only the "memoriam fecit… misericors et miserator" half, vs. "Salmo
+  110 (111):4–5" for the full antiphon, which continues into the
+  "escam se dedit" v.5 clause) is a correct, deliberate distinction, not
+  an inconsistency. Ran a full fresh sentence-by-sentence fidelity read
+  of Ch. 5–8 against `la/` (tense, mood, negation, subject/object
+  direction, theological terms, vós-register) — every future, perfect,
+  imperfect, and gnomic-present tense in the antiphons, psalm incipits,
+  capitula, responsories, and versicles matched the Latin exactly
+  (e.g. Ch. 6's capitulum "manducabitis/bibetis/annuntiabitis" future
+  → "comerdes/beberdes/anunciareis"; Ch. 7's capitulum
+  "manducaverit/biberit… reus erit" → "comer/beber… será réu"; Ch. 8's
+  "non dedit Moyses" past negation → "não foi Moisés que vos deu"), no
+  new defects found. Ran an exhaustive citation sweep of every
+  bracket/parenthetical citation in Ch. 5–8 against
+  `content/bible/drb/{ecclesiasticus,1-corinthians,psalms,apocalypse,
+  john}.json` — Sir 24:28–29, 1 Cor 11:23–24, Ps 22(23):5 (Ch. 5 and
+  Ch. 7), Ps 144(145):15, 1 Cor 10:3–4, 1 Cor 11:26, Ps 77(78):25, Ps
+  15(16):5, Rev 2:17, 1 Cor 11:27, Ps 115:4(116:13), 1 Cor 11:28–29,
+  John 6:48–50, John 6:51–52, Ps 110(111):4, John 6:32–33 — all
+  confirmed to quote exactly the verse(s) cited, chapter and verse
+  boundaries included, with no truncation or off-by-one errors. Found
+  **no new defects anywhere in Ch. 5–8.**
+  - No changes made; no rebuild needed.
+  - **Verdict**: Ch. 5 — CLEAN. Ch. 6 — CLEAN. Ch. 7 — CLEAN. Ch. 8 —
+    CLEAN.
+  - **Clean-round count**: this is the **second consecutive clean
+    Ch. 5–8 round** (round 10, then round 11), and round 10 had already
+    also been clean for Ch. 1–4 in the same round. Per the
+    two-consecutive-clean-round rule, **the review is now closed** —
+    two consecutive rounds (10 and 11) have covered the entire book
+    (all 8 chapters) with zero new defects found. Across all 11 rounds,
+    31 genuine defects were found and fixed through round 9; rounds 10
+    and 11 found none. No further scheduled review passes are needed
+    for this book unless new content is added or a defect is reported.
