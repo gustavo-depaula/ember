@@ -112,5 +112,41 @@ English wording was carried over mechanically.
     they came out effectively identical in Portuguese, which is expected and
     correct — both are the same verse.
 - 2026-09-03 — translation of all 8 chapters completed in a single pass, given
-  the size of the work (~10,400 words). Review rounds documented in
-  `docs/journal.md`, not repeated here.
+  the size of the work (~10,400 words).
+- 2026-09-03 — **review round 1** (3 parallel passes: structural/completeness,
+  fidelity Ch. 1–2, fidelity Ch. 3–8). Six genuine defects found and fixed:
+  - Ch. 1 capitulum, Ch. 2 (×2, Readings 2 and 4 responsories), Ch. 5 capitulum
+    — *"quod pro vobis **tradetur**"* (future passive, Words of Institution)
+    was translated *"que **é** entregue"* (present) instead of *"que **será**
+    entregue"*. Same reused clause, four occurrences, all fixed identically.
+  - Ch. 1, hymn doxology ("Genitori, genitoque…") — *salus* (salvation)
+    mistranslated *"saúde"* (physical health) instead of *"salvação"*.
+  - Ch. 2, Reading 2 — *"Iudaeus bibit et sitit"* is gnomic present tense
+    (a timeless statement about "the Jew" as a type, contrasted with the
+    following future "tu cum biberis…") but was translated as simple past
+    ("bebeu e teve sede"), flattening the contrast. Fixed to present tense
+    ("bebe e tem sede").
+  - Ch. 2, Reading 12 — *"buccella quae Iudae data est a Domino"* ("the
+    morsel that was given **to Judas** by **the Lord**" — *Iudae* dative
+    recipient, *a Domino* ablative agent) had giver and recipient reversed:
+    "a porção que foi dada **por Judas** ao Senhor". Fixed to "dada **a
+    Judas** pelo Senhor".
+  - Ch. 2 — 18 bracket-citation abbreviations (`[Mt …]`, `[Mc …]`, `[Lc …]`,
+    `[Jo …]`, `[1 Cor …]`) were left in Latin-style short form instead of
+    the book's own full-Portuguese-name convention used everywhere else
+    (`Mateus`, `Marcos`, `Lucas`, `João`, `1 Coríntios`) — including on the
+    "Eu sou o pão da vida" responsory, which must be identical to its Ch. 8
+    reuse. Expanded to match. (The separate inline parenthetical citations
+    inside the long reading paragraphs, e.g. `(Jo 6:52)`, `(Sl 102:2–3)`,
+    were correctly already in a consistent abbreviated style and were left
+    untouched — that's a different, intentional citation register from the
+    bracket-style antiphon/responsory citations.)
+  - **Considered and dismissed as a non-defect**: Ch. 2 Third Nocturn
+    antiphon (Zech 9:17) — *"frumentum electorum"* rendered "o trigo fará
+    prosperar os jovens" rather than a more literal "o trigo dos
+    escolhidos". Jerome's *electorum* here translates Hebrew *baḥurim*
+    ("young men, in their prime"), not "elect" in the predestination sense
+    — "os jovens", parallel to "as donzelas" for *virgines* in the same
+    line, reflects the actual sense and matches how standard Portuguese
+    Catholic Bibles render this verse. Not changed.
+  - Rebuilt with `pnpm build:corpus` after fixes — clean, no new warnings.

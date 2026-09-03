@@ -34,7 +34,7 @@ Salmo 147 (147:12–20)
 
 ***1 Coríntios 11:23–24***
 
-O Senhor Jesus Cristo, na noite em que era traído, tomou o pão e, dando graças, o partiu e disse: tomai e comei; isto é o meu corpo, que é entregue por vós; fazei isto em memória de mim.  
+O Senhor Jesus Cristo, na noite em que era traído, tomou o pão e, dando graças, o partiu e disse: tomai e comei; isto é o meu corpo, que será entregue por vós; fazei isto em memória de mim.  
 
 > Responsório
 
@@ -52,7 +52,7 @@ Canta, ó língua, o mistério do Corpo glorioso e do Sangue precioso que, como 
 - Na noite da última ceia, reclinado com os irmãos, tendo observado plenamente a lei quanto aos alimentos legais, deu-se a si mesmo como alimento ao grupo dos doze, com as próprias mãos.
 - O Verbo feito carne, com a palavra faz do pão verdadeiro a Carne; e o vinho puro torna-se Sangue de Cristo; e, se os sentidos falham, basta a fé sozinha para firmar o coração sincero.
 - Um tão grande sacramento, pois, veneremos prostrados; e ceda o antigo testemunho ao novo rito; supra a fé o que falta aos sentidos.
-- Ao que gera e ao que é gerado, louvor e júbilo, saúde, honra e também poder e bênção; e ao que procede de ambos, seja igual louvor. Amém.
+- Ao que gera e ao que é gerado, louvor e júbilo, salvação, honra e também poder e bênção; e ao que procede de ambos, seja igual louvor. Amém.
 - Versículo
 
 ***[Gênesis 49:20]***

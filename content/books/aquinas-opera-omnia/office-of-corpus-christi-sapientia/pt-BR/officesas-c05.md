@@ -10,7 +10,7 @@ Prescrevei-me, Senhor, o caminho dos vossos preceitos, * e o buscarei sempre, et
 
 ***1 Coríntios 11:23–24***
 
-O Senhor Jesus, na noite em que era traído, tomou o pão e, dando graças, o partiu e disse: tomai e comei. Isto é o meu Corpo, que é entregue por vós. Fazei isto em memória de mim.  
+O Senhor Jesus, na noite em que era traído, tomou o pão e, dando graças, o partiu e disse: tomai e comei. Isto é o meu Corpo, que será entregue por vós. Fazei isto em memória de mim.  
 
 > Responsório
 

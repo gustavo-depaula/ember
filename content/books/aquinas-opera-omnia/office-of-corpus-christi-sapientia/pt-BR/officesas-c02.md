@@ -61,23 +61,23 @@ A figura deste sacramento precedeu, quando Deus fez chover o maná sobre os pais
 
 Responsório  
 
-℟. Enquanto os discípulos ceavam, Jesus tomou o pão e o abençoou, e o partiu e o deu a eles, e disse: tomai e comei, isto é o meu corpo. E, tomando o cálice, deu graças e o deu a eles, dizendo: * bebei dele todos. [Mt 26:26–27]  
+℟. Enquanto os discípulos ceavam, Jesus tomou o pão e o abençoou, e o partiu e o deu a eles, e disse: tomai e comei, isto é o meu corpo. E, tomando o cálice, deu graças e o deu a eles, dizendo: * bebei dele todos. [Mateus 26:26–27]  
 
-℣. Este é o meu sangue do Novo Testamento, que será derramado por muitos para remissão dos pecados. [Mt 26:28] * Bebei dele todos.  
+℣. Este é o meu sangue do Novo Testamento, que será derramado por muitos para remissão dos pecados. [Mateus 26:28] * Bebei dele todos.  
 
 Leitura 2  
 
 ***[Graciano, *De consecratione*, d. 2, cân. 69, continuação]***
 
-Considera se agora é mais excelente o pão dos anjos, ou a carne de Cristo, que é, sem dúvida, o corpo da vida. Aquele maná era do céu, este está acima do céu; aquele era do céu, este é do Senhor dos céus; aquele estava sujeito à corrupção, se guardado para outro dia, este é alheio a toda corrupção. Todo aquele que o gostar religiosamente não poderá sentir corrupção. A eles jorrou água da rocha; a ti, o sangue de Cristo. A eles a água saciou por um momento; a ti, o sangue lava para sempre. O judeu bebeu e teve sede; tu, quando beberes, não poderás ter sede. E aquilo era sombra, isto é verdade. Se aquilo que admiras é sombra, quanto mais é isto, cuja sombra admiras? Ouve por que é sombra o que se fez entre os pais: *bebiam, com efeito, da rocha espiritual que os seguia. E a rocha era Cristo. Mas Deus não se agradou da maior parte deles, pois foram prostrados no deserto. E estas coisas se fizeram como figura de nós* (1 Cor 10:4–5). Já conheceste o que é melhor. Pois melhor é a luz do que a sombra, a verdade do que a figura, o corpo do Autor do que o maná do céu.  
+Considera se agora é mais excelente o pão dos anjos, ou a carne de Cristo, que é, sem dúvida, o corpo da vida. Aquele maná era do céu, este está acima do céu; aquele era do céu, este é do Senhor dos céus; aquele estava sujeito à corrupção, se guardado para outro dia, este é alheio a toda corrupção. Todo aquele que o gostar religiosamente não poderá sentir corrupção. A eles jorrou água da rocha; a ti, o sangue de Cristo. A eles a água saciou por um momento; a ti, o sangue lava para sempre. O judeu bebe e tem sede; tu, quando beberes, não poderás ter sede. E aquilo era sombra, isto é verdade. Se aquilo que admiras é sombra, quanto mais é isto, cuja sombra admiras? Ouve por que é sombra o que se fez entre os pais: *bebiam, com efeito, da rocha espiritual que os seguia. E a rocha era Cristo. Mas Deus não se agradou da maior parte deles, pois foram prostrados no deserto. E estas coisas se fizeram como figura de nós* (1 Cor 10:4–5). Já conheceste o que é melhor. Pois melhor é a luz do que a sombra, a verdade do que a figura, o corpo do Autor do que o maná do céu.  
 
 Talvez digas: vejo outra coisa. De quantos exemplos, pois, nos valemos para provar que isto não é o que a natureza formou, mas o que a bênção consagrou, e que é maior a força da bênção do que a da natureza, porque pela bênção a própria natureza se muda? Assim, Moisés tinha um bastão, lançou-o, e fez-se serpente; e, tomando de novo a cauda da serpente, ela retornou à natureza de bastão. Vês, pois, que pela graça profética a natureza foi mudada duas vezes, tanto da serpente quanto do bastão. Corriam os rios do Egito com puro curso de águas; de repente, das nascentes começou a irromper sangue, e não havia água potável nos rios. E de novo, às preces do profeta, cessou o sangue dos rios, e voltou a natureza das águas. Estava o povo dos hebreus cercado por todos os lados, de um lado cercado pelos egípcios, do outro fechado pelo mar. Moisés levantou o bastão, a água se separou e se congelou em forma de muralhas, e entre as ondas apareceu um caminho a pé. O Jordão, voltando para trás, contra a natureza, retornou ao princípio de sua própria nascente. Não é claro, pois, que a natureza tanto das ondas do mar quanto do curso do rio foi mudada? Tinha sede o povo dos pais, Moisés tocou a rocha, e da rocha jorrou água. Não operou, pois, a graça contra a natureza, fazendo a rocha vomitar água que por natureza não tinha?  
 
 Responsório  
 
-℟. Tomado o pão, Jesus deu graças, e o partiu, e o deu aos seus discípulos, dizendo: isto é o meu corpo, que é entregue por vós. * Fazei isto em memória de mim. [Lc 22:19]  
+℟. Tomado o pão, Jesus deu graças, e o partiu, e o deu aos seus discípulos, dizendo: isto é o meu corpo, que será entregue por vós. * Fazei isto em memória de mim. [Lucas 22:19]  
 
-℣. Do mesmo modo também o cálice, depois de cear, dizendo: este é o cálice do Novo Testamento no meu sangue, que será derramado por vós. [Lc 22:20] * Fazei isto em memória de mim.  
+℣. Do mesmo modo também o cálice, depois de cear, dizendo: este é o cálice do Novo Testamento no meu sangue, que será derramado por vós. [Lucas 22:20] * Fazei isto em memória de mim.  
 
 Leitura 3  
 
@@ -91,9 +91,9 @@ Mas, que dizer? Do mesmo autor cujos argumentos usamos, usemos também os seus e
 
 Responsório  
 
-℟. Enquanto os discípulos comiam, Jesus tomou o pão e, abençoando-o, o partiu e o deu a eles, e disse: tomai, isto é o meu corpo. E, tomado o cálice, deu graças e o deu a eles. * E todos beberam dele. [Mc 14:22–23]  
+℟. Enquanto os discípulos comiam, Jesus tomou o pão e, abençoando-o, o partiu e o deu a eles, e disse: tomai, isto é o meu corpo. E, tomado o cálice, deu graças e o deu a eles. * E todos beberam dele. [Marcos 14:22–23]  
 
-℣. E disse-lhes: este é o meu sangue do Novo Testamento, que será derramado por muitos. [Mc 14:24] * E todos beberam dele.  
+℣. E disse-lhes: este é o meu sangue do Novo Testamento, que será derramado por muitos. [Marcos 14:24] * E todos beberam dele.  
 
 Segundo noturno  
 
@@ -135,9 +135,9 @@ Daí em diante, tudo aquilo é do evangelista, até a palavra *tomai*, seja quan
 
 Responsório  
 
-℟. O Senhor Jesus, na noite em que era traído, tomou o pão e, dando graças, o partiu e disse: tomai e comei. Isto é o meu Corpo, que é entregue por vós. * Fazei isto em memória de mim. [1 Cor 11:23–24]  
+℟. O Senhor Jesus, na noite em que era traído, tomou o pão e, dando graças, o partiu e disse: tomai e comei. Isto é o meu Corpo, que será entregue por vós. * Fazei isto em memória de mim. [1 Coríntios 11:23–24]  
 
-℣. Do mesmo modo também o cálice, depois de cear, dizendo: este cálice é o Novo Testamento no meu sangue. [1 Cor 11:25] * Fazei isto em memória de mim.  
+℣. Do mesmo modo também o cálice, depois de cear, dizendo: este cálice é o Novo Testamento no meu sangue. [1 Coríntios 11:25] * Fazei isto em memória de mim.  
 
 Leitura 5  
 
@@ -161,9 +161,9 @@ Assim como, pois, o pão celestial, que verdadeiramente é a carne de Cristo, é
 
 Responsório  
 
-℟. Todo aquele que comer o pão ou beber o cálice do Senhor indignamente será réu do corpo e do sangue do Senhor. * Examine-se, pois, o homem a si mesmo, e assim coma daquele pão e beba daquele cálice. [1 Cor 11:27–28]  
+℟. Todo aquele que comer o pão ou beber o cálice do Senhor indignamente será réu do corpo e do sangue do Senhor. * Examine-se, pois, o homem a si mesmo, e assim coma daquele pão e beba daquele cálice. [1 Coríntios 11:27–28]  
 
-℣. Pois quem come e bebe indignamente, come e bebe para si mesmo o juízo, não discernindo o corpo do Senhor. [1 Cor 11:29] * Examine-se, pois, o homem a si mesmo, e assim coma daquele pão e beba daquele cálice.  
+℣. Pois quem come e bebe indignamente, come e bebe para si mesmo o juízo, não discernindo o corpo do Senhor. [1 Coríntios 11:29] * Examine-se, pois, o homem a si mesmo, e assim coma daquele pão e beba daquele cálice.  
 
 Leitura 6  
 
@@ -177,9 +177,9 @@ Porque fomos libertados pela morte do Senhor, lembrando-nos disto ao comer a sua
 
 Responsório  
 
-℟. O cálice da bênção que abençoamos, não é ele a comunhão do sangue de Cristo? * E o pão que partimos, não é ele * a participação do corpo do Senhor? [1 Cor 10:16]  
+℟. O cálice da bênção que abençoamos, não é ele a comunhão do sangue de Cristo? * E o pão que partimos, não é ele * a participação do corpo do Senhor? [1 Coríntios 10:16]  
 
-℣. Pois, sendo um só pão, somos um só corpo, os muitos que somos, pois todos participamos de um só pão e de um só cálice. [1 Cor 10:17] * E o pão que partimos, não é ele. Glória ao Pai e ao Filho e ao Espírito Santo. * A participação do corpo do Senhor?  
+℣. Pois, sendo um só pão, somos um só corpo, os muitos que somos, pois todos participamos de um só pão e de um só cálice. [1 Coríntios 10:17] * E o pão que partimos, não é ele. Glória ao Pai e ao Filho e ao Espírito Santo. * A participação do corpo do Senhor?  
 
 Terceiro noturno  
 
@@ -229,9 +229,9 @@ Uma homilia do bem-aventurado bispo Agostinho [Alcuíno, *Comentários ao Evange
 
 Responsório  
 
-℟. Eu sou o pão da vida. Vossos pais comeram o maná no deserto e morreram. * Este é o pão que desce do céu. Se alguém dele comer, * não morrerá. [Jo 6:48–50]  
+℟. Eu sou o pão da vida. Vossos pais comeram o maná no deserto e morreram. * Este é o pão que desce do céu. Se alguém dele comer, * não morrerá. [João 6:48–50]  
 
-℣. Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. [Jo 6:51] * Este é o pão que desce do céu. Se alguém dele comer. Glória ao Pai e ao Filho e ao Espírito Santo. * Não morrerá.  
+℣. Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. [João 6:51] * Este é o pão que desce do céu. Se alguém dele comer. Glória ao Pai e ao Filho e ao Espírito Santo. * Não morrerá.  
 
 Leitura 8  
 
@@ -245,9 +245,9 @@ Leitura 8
 
 Responsório  
 
-℟. Em verdade, em verdade vos digo: se não comerdes a carne do Filho do homem e não beberdes o seu sangue, não tereis vida em vós. Quem come a minha carne e bebe o meu sangue tem a vida eterna. * E eu o ressuscitarei * no último dia. [Jo 6:53–54]  
+℟. Em verdade, em verdade vos digo: se não comerdes a carne do Filho do homem e não beberdes o seu sangue, não tereis vida em vós. Quem come a minha carne e bebe o meu sangue tem a vida eterna. * E eu o ressuscitarei * no último dia. [João 6:53–54]  
 
-℣. Pois a minha carne é verdadeiramente alimento, e o meu sangue é verdadeiramente bebida. Quem come a minha carne e bebe o meu sangue permanece em mim, e eu nele. [Jo 6:55–56] * E eu o ressuscitarei. Glória ao Pai e ao Filho e ao Espírito Santo. * No último dia.  
+℣. Pois a minha carne é verdadeiramente alimento, e o meu sangue é verdadeiramente bebida. Quem come a minha carne e bebe o meu sangue permanece em mim, e eu nele. [João 6:55–56] * E eu o ressuscitarei. Glória ao Pai e ao Filho e ao Espírito Santo. * No último dia.  
 
 Leitura 9  
 
@@ -265,9 +265,9 @@ Leitura 9
 
 Responsório  
 
-℟. Assim como o Pai vivo me enviou, e eu vivo por causa do Pai, também aquele que me come, * ele vive por minha causa. * Este é o pão que desceu do céu. [Jo 6:57–58]  
+℟. Assim como o Pai vivo me enviou, e eu vivo por causa do Pai, também aquele que me come, * ele vive por minha causa. * Este é o pão que desceu do céu. [João 6:57–58]  
 
-℣. Não é como vossos pais comeram o maná e morreram; quem come este pão viverá para sempre. [Jo 6:58] * Este é o pão que desceu do céu. Glória ao Pai e ao Filho e ao Espírito Santo. * Ele vive por minha causa.  
+℣. Não é como vossos pais comeram o maná e morreram; quem come este pão viverá para sempre. [João 6:58] * Este é o pão que desceu do céu. Glória ao Pai e ao Filho e ao Espírito Santo. * Ele vive por minha causa.  
 
 Quarto noturno  
 
@@ -351,7 +351,7 @@ Não é este o pão que vai para o corpo, mas o pão da vida eterna, que sustent
 
 [Graciano, *De consecratione*, d. 2, cân. 66]  
 
-As coisas santas podem prejudicar os maus. Para os bons, são para a salvação; para os maus, para o juízo. Por isso o Apóstolo: *quem come e bebe indignamente, come e bebe para si o juízo* (1 Cor 11:29). Não porque aquela coisa seja má, mas porque o mau recebe mal o que é bom. Pois não era má a porção que foi dada por Judas ao Senhor; a saúde deu o Médico. Mas, porque aquele que era indigno a recebeu, para sua própria perdição a recebeu.  
+As coisas santas podem prejudicar os maus. Para os bons, são para a salvação; para os maus, para o juízo. Por isso o Apóstolo: *quem come e bebe indignamente, come e bebe para si o juízo* (1 Cor 11:29). Não porque aquela coisa seja má, mas porque o mau recebe mal o que é bom. Pois não era má a porção que foi dada a Judas pelo Senhor; a saúde deu o Médico. Mas, porque aquele que era indigno a recebeu, para sua própria perdição a recebeu.  
 
 [Graciano, *De consecratione*, d. 2, cân. 67]  
 
