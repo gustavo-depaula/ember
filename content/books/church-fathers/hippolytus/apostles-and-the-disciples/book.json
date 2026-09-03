@@ -1,13 +1,16 @@
 {
   "id": "hippolytus-apostles-and-the-disciples",
   "name": {
-    "en-US": "The Apostles and the Disciples (Pseudonymous)"
+    "en-US": "The Apostles and the Disciples (Pseudonymous)",
+    "pt-BR": "Os Apóstolos e os Discípulos (Pseudônimo)"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Apostles and the Disciples (Pseudonymous)"
+        "en-US": "The Apostles and the Disciples (Pseudonymous)",
+        "pt-BR": "Os Apóstolos e os Discípulos (Pseudônimo)"
       }
     }
   ]
