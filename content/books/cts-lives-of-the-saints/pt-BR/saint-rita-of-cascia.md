@@ -38,7 +38,7 @@ Multidões apressaram-se a venerar o corpo de Rita antes de seu sepultamento. A 
 
 Nos últimos anos, a devoção a Santa Rita tem crescido, e ela conquistou para si o título de Santa dos Impossíveis. Contam-se muitos casos de como a santa prestou auxílio nas últimas adversidades. As conversões de pecadores endurecidos e daqueles que haviam levado vidas dissolutas não são menos numerosas que as curas de males corporais.
 
-A devoção universal a Santa Rita e as muitas maravilhas operadas por sua intercessão acenderam nos corações dos milhares de devotos da humilde religiosa agostiniana o ardente desejo de vê-la elevada às honras do altar. Grande foi sua alegria quando, em 24 de maio de 1900, o Decreto de Canonização foi publicado. Sua festa é celebrada em 22 de maio.
+A devoção universal a Santa Rita e as muitas maravilhas operadas por sua intercessão acenderam nos corações dos milhares de devotos da humilde religiosa agostiniana o ardente desejo de vê-la elevada às honras do altar. Grande foi sua alegria quando, em 24 de maio de 1990, o Decreto de Canonização foi publicado. Sua festa é celebrada em 22 de maio.
 
 Para concluir, citamos estas memoráveis palavras do Decreto: 'Santa Rita de Cássia, como donzela, esposa, mãe e religiosa, foi tão agradável e tão amada por Jesus Cristo que Ele Se dignou distingui-la não só com o selo de Seu amor, mas especialmente com o selo de Sua Paixão. Santa Rita mereceu este grande privilégio por causa de sua singular humildade, seu completo desapego e sua admirável penitência. Contudo, as virtudes que tornaram Santa Rita particularmente agradável a Deus foram seu amor ao próximo e sua devoção a Jesus Crucificado.'
 
