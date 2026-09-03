@@ -23,6 +23,7 @@ Target: pt-BR
 | yeoman's service | bom serviço | commendatory idiom (Hamlet V.ii) = good, faithful service — **not** *penoso serviço* (arduous), which inverts the sense and imports a complaint the source does not make |
 | our waggon | nossa carruagem | the imperial post vehicle; unmarked *carro* reads as "automobile" to a modern pt-BR reader and destroys the image the sentence depends on |
 | but as it is | mas, na realidade | discharges the preceding counterfactual; *como está* is a subjectless calque |
+| the Dispenser of my life | o Dispensador de minha vida | **not** *Aquele que dispõe de minha vida* — *dispor de* is a fixed idiom ("to have at one's disposal"); the source's agent noun is the one who allots/administers. `Dispensador` is the established Catholic pt-BR term (cf. *Autor e Dispensador* in `trent-catechism/pt-BR/creed-10`, and *dispensadores dos mistérios de Deus*, 1 Cor 4:1) |
 
 ## Translation Decisions
 
@@ -43,7 +44,7 @@ Three independent adversarial review rounds, each a fresh bilingual (and, in rou
 
 ### Post-merge review (rounds 4–5)
 
-The three rounds above were wrong. A post-merge audit run of `/review-book-translation` found **twelve** objective defects, three of them in the very idioms round 2 had named and cleared by name ("false-friend idiom check (licence, conductor, yeoman's service, waggon) — all correct senses"). Only *licence* had actually been right.
+The three rounds above were wrong. A post-merge audit run of `/review-book-translation` found **fourteen** objective defects across two fix rounds, three of them in the very idioms round 2 had named and cleared by name ("false-friend idiom check (licence, conductor, yeoman's service, waggon) — all correct senses"). Only *licence* had actually been right.
 
 - **Round 4** — three parallel agents (sense-level bilingual, mechanical/structural, cold monolingual). Twelve defects found and fixed:
   - *yeoman's service* → was `penoso serviço` (arduous), a **sense inversion** of a commendatory idiom → `bom serviço`
@@ -58,6 +59,9 @@ The three rounds above were wrong. A post-merge audit run of `/review-book-trans
   - *placed … to live* → `colocado, para nele viver,` (dropped *to live*)
   - *your inner man* → `vosso homem interior` (dropped possessive)
   - *matters with them were in confusion* → `os assuntos entre eles` (source locates the confusion in the persons, PT had put it in the place)
-- **Round 5** — fresh bilingual + monolingual/mechanical re-audit of the corrected file. Clean.
+- **Round 5** — fresh bilingual re-audit of the corrected file found **two further pre-existing defects** that round 4 had missed (neither was introduced by round 4's fixes):
+  - *there is no form of uncleanness that is not perpetrated **among them*** → was `que **ali** não se pratique`, relocating the charge from the inhabitants to the place. Gregory's whole argument is that the *people's* morals disprove an abundance of grace in them; the preceding clause already says `entre os que ali vivem`, so the PT said the same thing about the place twice and never landed the charge against the persons → `que não se pratique **entre eles**`
+  - *the **Dispenser** of my life* → was `Aquele que **dispõe de** minha vida`, captured by the fixed idiom *dispor de* ("to have at one's disposal") → `pelo **Dispensador** de minha vida`
+- **Round 6** — fresh bilingual + monolingual/mechanical re-audit after the round-5 fixes.
 
 **Lesson: a cold monolingual reviewer cannot adjudicate a third-person hortative.** Round 4's monolingual agent flagged `Ouçam de mim minha justificativa` as a *vocês*-imperative breaking the letter's `tu`/`vós` register, and proposed `Ouvi`. That "fix" would have been a real defect — the English is "**Let them** hear from me my plea", addressed *about* the objectors, not *to* the reader, so the third-person `Ouçam` is correct and `Ouvi` (vós) would have changed the referent. The finding was still a useful signal, though: the bare form is genuinely ambiguous, and this file marks its other hortatives with *Que* (`Que nosso próprio caso… não cause`, `que nosso conselho seja ouvido`). Resolved as `Que ouçam de mim…` — source meaning preserved, ambiguity removed. Reject a monolingual reviewer's *fix* when it depends on the source; keep its *observation* that something reads ambiguously.
