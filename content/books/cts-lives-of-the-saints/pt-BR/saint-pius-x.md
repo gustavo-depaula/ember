@@ -1,4 +1,4 @@
-# São Pio X, Flagelo do Modernismo
+# São Pio X, flagelo do modernismo
 
 Monsenhor John P. Carroll Abbing
 
@@ -10,7 +10,7 @@ Assim seguimos os passos do pequeno Bepi Sarto até que, dobrando uma esquina, a
 
 E aqui, à nossa direita, estava a humilde casinha que viéramos de tão longe para ver. Nossa peregrinação chegava ao fim. Atravessávamos a soleira da casa onde nasceu Pio X.
 
-## Os Primeiros Anos
+## Os primeiros anos
 
 Foi no dia 2 de junho de 1835 que nasceu um segundo filho de Giovanni Battista Sarto, o carteiro da aldeia, e de sua esposa, Margherita Sanson. No dia seguinte, segundo o bom costume daquelas partes, foi levado à igreja para ser batizado, recebendo os nomes de Giuseppe Melchiorre. Pouco imaginava o velho pároco que o livro de batismo em que registrou o acontecimento seria um dia encadernado em ouro e zelosamente guardado, como um dos maiores tesouros de Riese.
 
@@ -22,7 +22,7 @@ O passo seguinte era enviá-lo a um seminário, pois já havia comunicado ao pá
 
 O cardeal Monico, patriarca de Veneza naquele tempo, tinha o privilégio de indicar estudantes para diversas vagas gratuitas no seminário de Pádua. Quando lhe contaram a difícil situação do pequeno Bepi Sarto, o cardeal, que ele próprio fora um menino pobre de Riese, concordou de imediato em enviá-lo ao grande seminário para continuar seus estudos para o sacerdócio. Assim Bepi recebeu a batina e foi, por oito anos, estudante em Pádua, fazendo tudo bem para a glória de Deus, empenhando-se sempre naquela meta que seria o ideal de toda a sua vida — ser um santo sacerdote.
 
-## Coadjutor E Pároco
+## Coadjutor e pároco
 
 Uma vez mais Giuseppe Sarto percorreu a estrada de Riese a Castelfranco, mas naquele dia não notou a poeira; não viu os marcos familiares que haviam aliviado a monotonia da longa estrada em sua infância. Um único pensamento preenchia sua mente, excluindo todo o resto: "Hoje serei sacerdote do Altíssimo." E forçava a vista para captar o primeiro vislumbre da velha cidade onde seria ordenado.
 
@@ -48,7 +48,7 @@ Nem sequer à noite descansava, pois tinha de comparecer aos funerais das vítim
 
 É certo que suas forças não poderiam ter resistido por muito mais tempo a tamanha tensão. Felizmente, o bispo já fora informado de seu excesso de esforço, de modo que, na primeira oportunidade, foi transferido de Salzano.
 
-## Cônego De Treviso
+## Cônego de Treviso
 
 Uma vez mais um rebanho foi privado do amoroso cuidado de seu pastor, mas desta vez o povo se consolou com a grande honra que Dom Giuseppe recebeu. Foi nomeado cônego da catedral de Treviso, diretor espiritual do seminário e chanceler da diocese.
 
@@ -78,7 +78,7 @@ Certo dia, um amigo disse a Monsenhor Sarto: "Há uma coisa que não consigo ent
 
 "Deixa São Paulo em paz!... A cruz é um fardo alegre enquanto o sacerdote a leva por baixo da batina; mas assim que a leva por fora, ainda que a pendures numa corrente de ouro, torna-se um fardo de verdade. Falemos de outra coisa."
 
-## Bispo De Mântua
+## Bispo de Mântua
 
 Foi por volta do fim do verão de 1884 que Monsenhor Apollonio chamou Monsenhor Sarto, certo dia, a seu oratório particular.
 
@@ -112,7 +112,7 @@ Pouco depois, o mesmo homem viu-se em graves dificuldades financeiras. Seus cred
 
 Foi assim, pela caridade e pela mansidão, que o bispo de Mântua conquistou para Cristo.
 
-## Na Cidade Das Lagunas
+## Na cidade das lagunas
 
 Com a morte do cardeal Agostini, patriarca de Veneza, em 1891, Monsenhor Apollonio foi nomeado para sucedê-lo. Devido a seu estado de saúde debilitado, pediu para ser dispensado. O Papa concordou e nomeou Monsenhor Sarto patriarca em seu lugar. O consternado prelado não teve outra alternativa senão aceitar, pois o cardeal secretário de Estado o avisara de antemão de que uma recusa seria muito desagradável ao Santo Padre.
 
@@ -144,7 +144,7 @@ O Congresso Eucarístico, realizado em Veneza no mês de agosto de 1879, deu ao 
 
 O povo correspondeu, e o congresso foi o sinal de um derramamento sem paralelo de amor a Nosso Senhor no Santíssimo Sacramento. Nunca, nem mesmo nos dias de sua glória, Veneza testemunhara cenas de tal esplendor. Enquanto a procissão final do Santíssimo Sacramento passava, os homens pensavam nunca ter visto uma cena tão maravilhosa. Jesus Cristo, cercado de seus cardeais, bispos e sacerdotes, viera reinar entre o povo de Veneza: ajoelharam-se em humilde adoração, e o coração do patriarca transbordava de gratidão enquanto se ajoelhava com eles para adorar seu Senhor e Mestre.
 
-## Na Cátedra De São Pedro
+## Na cátedra de São Pedro
 
 A morte de Leão XIII, em 20 de julho de 1903, encheu o mundo inteiro de tristeza, mas ninguém chorou o pontífice falecido mais do que o cardeal Sarto. Ao falar das virtudes do falecido Papa, seus olhos se encheram de lágrimas. "Se soubésseis quanto ele fez por mim. Depois de Nosso Senhor, devo-lhe tudo", disse com pesar.
 
@@ -206,7 +206,7 @@ Os diplomatas e as grandes famílias não foram os únicos privilegiados com uma
 
 O coração de Pio X frequentemente se via carregado de tristeza. Dia após dia lhe chegavam notícias de perseguições na Espanha e em Portugal, na Rússia e na Alemanha, e chorava ao pensar nos sofrimentos que seus filhos tinham de suportar. Mas foi sobre a França que voltou seu olhar mais ansioso, pois foi naquele país que os inimigos da Igreja faziam seus maiores esforços para arrancar o povo de sua fidelidade ao Vigário de Cristo.
 
-## Pio X E A França
+## Pio X e a França
 
 Por muitos anos, mesmo antes da ascensão do Papa Pio X ao trono de São Pedro, os governos anticlericais da França, em união com os maçons franceses, haviam feito de sua meta separar a Igreja e o Estado, apoderar-se dos bens da Igreja e fazer uma ruptura completa e definitiva com Roma.
 
@@ -230,7 +230,7 @@ A uma palavra do Papa, os bispos abriram mão de seus palácios e os párocos, d
 
 Os anticlericais haviam tentado extirpar a Igreja, mas seus próprios esforços nesse sentido apenas a fizeram brotar com renovada vida; haviam tentado prendê-la, mas fracassaram porque as cordas que usavam eram os bens deste mundo, e no trono de São Pedro estava sentado um homem que desprezava o mundo e tudo o que ele podia oferecer.
 
-## Pio X E O Modernismo
+## Pio X e o modernismo
 
 Chegamos agora ao que é sempre uma página triste na história da Igreja — a defecção de seus próprios filhos.
 
@@ -244,7 +244,7 @@ Numa carta encíclica que escreveu para o centenário de Santo Anselmo, Pio X te
 
 Com palavras de fogo, Pio X expulsara a serpente.
 
-## O Papa Do Santíssimo Sacramento
+## O papa do Santíssimo Sacramento
 
 O Santíssimo Sacramento é, e sempre foi, o centro e a mola propulsora da vida cristã. Os apóstolos, reunidos à mesa da ceia, receberam do próprio Senhor seu Corpo e Sangue, e uniram-se estreitissimamente a Ele, e por meio dele uns aos outros. Os primeiros cristãos, dispersos pela perseguição, ainda assim se reuniam nas catacumbas em torno da mesa eucarística e se uniam novamente pelo doce vínculo de Cristo. Da Sagrada Eucaristia extraíam a força e o consolo de que precisavam, tal como milhões de cristãos haveriam de fazer depois deles.
 
@@ -286,7 +286,7 @@ Sem dúvida, um dos dias mais felizes de sua vida foi quando, na primavera de 19
 
 "O Papa da Eucaristia": "o Papa do Santíssimo Sacramento": poderia haver títulos mais gloriosos?
 
-## O Taumaturgo
+## O taumaturgo
 
 "Estes sinais acompanharão os que crerem: em meu nome expulsarão demônios... Imporão as mãos sobre os enfermos, e estes recuperarão a saúde." Essa foi a última promessa de Nosso divino Senhor aos apóstolos. Não nos surpreende, então, ler nos Atos dos Apóstolos que o povo da Judeia "trazia seus doentes para as ruas e os punha em leitos e macas, para que, quando Pedro passasse, ao menos sua sombra cobrisse alguns deles e ficassem livres de suas enfermidades." Por que, pois, haveríamos de nos surpreender se, dezenove séculos depois, o 258º sucessor de São Pedro devolvia a saúde aos doentes pelo poder de sua palavra e curava os enfermos com o toque de sua veste?
 
@@ -310,11 +310,11 @@ Em poucos dias o câncer desaparecera.
 
 Os milagres não fazem os santos, mas manifestam sua virtude singular e o poder e a eficácia de sua intercessão junto a Deus. Se os prodígios operados no Vaticano pelo santo pontífice foram verdadeiros milagres, cabia à Igreja decidir. Não eram necessários milagres para que os homens percebessem a espantosa santidade de Pio X. Toda a sua vida falava das alturas de perfeição a que chegara. Pobre com a pobreza de Cristo, humilde com a humildade de Cristo, manso com a mansidão de Cristo, sua alma era uma chama de fogo que percorreu a terra e acendeu o amor de Deus por onde quer que passasse. Foi um homem "amado de Deus e dos homens, cuja memória será tida em bênção."
 
-## A Morte Do Papa
+## A morte do papa
 
 Em 2 de junho de 1914, Pio X entrava em seu octogésimo ano. Seria um ano de sofrimento para ele. As nuvens da guerra se acumulavam no horizonte. "1914 não passará sem o estouro da guerra", disse ao cardeal Merry del Val. E, em outra ocasião: "Daria de bom grado minha vida se pudesse afastar esse flagelo horrível."
 
-Em 28 de junho, véspera da festa de São Pedro e São Paulo, chegou um telegrama do núncio em Viena com a notícia do assassinato do arquiduque Francisco Fernando da Áustria. Pio X compreendeu todo o significado da tragédia. "Eis a faísca que acenderá o incêndio", disse com pesar. Naquela noite desceu a São Pedro para rezar diante do túmulo do Apóstolo. "Vamos também orar pelos mortos", disse. Lenta e tristemente dirigiu-se ao confessionário, abençoando com mão cansada os poucos guardas que restavam na grande basílica. Sozinho, ajoelhou-se diante do túmulo do Pescador e derramou sua alma em oração, implorando a seu divino Mestre que poupasse seu povo.
+Em 28 de junho, véspera da festa de São Pedro e São Paulo, chegou um telegrama do núncio em Viena com a notícia do assassinato do arquiduque Francisco da Áustria. Pio X compreendeu todo o significado da tragédia. "Eis a faísca que acenderá o incêndio", disse com pesar. Naquela noite desceu a São Pedro para rezar diante do túmulo do Apóstolo. "Vamos também orar pelos mortos", disse. Lenta e tristemente dirigiu-se ao confessionário, abençoando com mão cansada os poucos guardas que restavam na grande basílica. Sozinho, ajoelhou-se diante do túmulo do Pescador e derramou sua alma em oração, implorando a seu divino Mestre que poupasse seu povo.
 
 Poucos dias depois, o idoso pontífice adoeceu. "Faça-se a vontade de Deus", disse, "creio que tudo está terminado." No dia 18 de agosto recebeu o Santo Viático. Perdeu a capacidade de falar, mas seus olhos permaneceram fixos na imagem de Nosso Senhor na cruz. Por muito tempo segurou as mãos do secretário de Estado, que o servira com tanta fidelidade e tanto zelo. O grande cardeal ficou tomado de dor. À uma e quinze da madrugada de 20 de agosto, a alma pura de Pio X passou à sua recompensa eterna.
 
