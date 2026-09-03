@@ -125,7 +125,7 @@ Mas Dom Bosco cuidou, de fato, das irmãs. O Padre João Cagliero chegou na manh
 Dom Bosco veio pessoalmente visitar as irmãs em 14 de junho, e no dia seguinte recebeu os primeiros votos de oito noviças, e vestiu quinze postulantes com o hábito. Em seguida, reuniu as irmãs para a eleição de uma superiora geral e de um capítulo, ambos essenciais se a Congregação fosse se expandir como ele planejava. Como se esperava, Madre Mazzarello foi eleita por unanimidade Superiora Geral, e, percebendo desta vez que era certamente a vontade de Deus, ela não tentou se escusar.
 
 
-## Superiora Geral
+## Superiora geral
 
 Madre Mazzarello agora dedicava todo o seu tempo e atenção à direção do instituto. "Ó minhas companheiras", dizia ela às irmãs, "que alegria é para nós, pobres gentes do campo de Mornese, tornarmo-nos esposas de Jesus Cristo e filhas de Dom Bosco e de Maria Auxiliadora. Ó meu caro Senhor, que graça! Que grande graça! Nós Vos agradecemos por isso." "Ela praticava a mais profunda humildade em todos os momentos, especialmente quando repreendida", conta-nos o Padre Costamagna, "às vezes eu a testava de propósito, com certa severidade; ela permanecia calada e não se queixava a ninguém; suportava até sua humilhação com alegria, como se a coisa mais natural do mundo tivesse acontecido. Sua obediência era perfeita. Uma palavra de Dom Bosco ou da superiora local era lei para ela, e, assim que a ordem se tornava conhecida, ela mesma obedecia e fazia com que as outras obedecessem, se necessário — cegamente, alegremente, prontamente."
 
@@ -139,12 +139,12 @@ E aqui se recorda outra encantadora pequena prática sua, que revela a simples c
 
 Madre Mazzarello mostrava notável discernimento ao aceitar ou rejeitar as que desejavam ingressar na Congregação. Catarina Daghero tornou-se postulante com as melhores disposições, mas logo começou a temer que não conseguiria viver a vida das irmãs, e não desejava continuar. "Você deve ficar aqui", disse-lhe Madre Mazzarello, "quanto mais sofrer agora, mais feliz será mais tarde, e mais bem fará. Quando receber o hábito, tudo isso desaparecerá." No dia anterior à sua vestição, Catarina estava muito perturbada, mas Madre Mazzarello foi firme e insistiu que ela recebesse o hábito. Catarina obedeceu, e no momento em que o hábito lhe foi colocado, todas as suas preocupações desapareceram. Tornou-se uma irmã fervorosíssima, e fez tais progressos na vida espiritual que, seis anos depois, sucedeu Madre Mazzarello como Superiora Geral da Congregação.
 
-## Votos Perpétuos
+## Votos perpétuos
 
 Em 28 de agosto de 1875, fizeram-se as primeiras profissões perpétuas, estando Madre Mazzarello entre as que se consagraram a Deus para toda a vida. Depois da cerimônia, Dom Bosco falou de um rápido desenvolvimento num futuro próximo, e inflamou as irmãs com entusiasmo pelas missões, numa época em que ele mesmo se preparava para enviar seus primeiros missionários ao exterior. O desenvolvimento prometido de fato aconteceu, e no espaço de dois anos as irmãs tinham dez fundações. Escrevendo ao Padre Cagliero, que estava na América do Sul com o primeiro grupo de missionários salesianos, Madre Mazzarello descreveu as novas fundações, e então acrescentou, ingenuamente: "Esqueci de lhe contar sobre a casa que temos no Céu; está sempre aberta, e o Reitor dessa Casa toma decisões sem precisar recorrer a superioras ou capítulos. Ele simplesmente leva quem quiser, e já levou sete irmãs."
 
 
-## Expedições Missionárias
+## Expedições missionárias
 
 Em setembro de 1877, a primeira expedição de irmãs zarpou para a América do Sul. Dom Bosco as enviou primeiro a Roma, onde organizou uma audiência com o Papa. Madre Mazzarello as acompanhou até a cidade eterna, embora temesse muito que uma Superiora Geral tão ignorante desse a Sua Santidade uma péssima impressão das Filhas de Maria Auxiliadora. Como se pode bem imaginar, o Papa ficou muitíssimo impressionado com suas virtudes, particularmente com sua grande humildade. Mais tarde, Maria acompanhou as irmãs até o navio em Gênova, e, com verdadeira solicitude maternal, inspecionou cuidadosamente todas as cabines antes de se despedir delas.
 
@@ -183,7 +183,7 @@ O que ela podia fazer? A Superiora baixou a cabeça e seguiu.
 Madre Mazzarello ouviu atentamente a história e a compreendeu perfeitamente, mas, para não alarmar as irmãs presentes com ela, fingiu tratá-la como uma piada.
 
 
-## Morte De Madre Mazzarello
+## Morte de Madre Mazzarello
 
 Em 28 de março, Madre Mazzarello chegou a Nizza Monferrato, para grande alegria de toda a comunidade. Parecia bem, mas em 15 de abril ficou novamente de cama. Embora suas forças fossem gradualmente diminuindo, continuou a tomar parte ativa na direção da Congregação. Em 27 de abril, recebeu a Extrema-Unção, e o fim parecia próximo, mas ela resistiu, e por volta de 5 de maio havia sinais de melhora. "Morrerei de bom grado", disse ela, "mas o Senhor me agradaria muito se me deixasse no mundo até segunda-feira (9 de maio)... meu aniversário... farei 44 anos... depois ainda há muito a sofrer antes de morrer."
 
