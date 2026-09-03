@@ -209,3 +209,18 @@ English wording was carried over mechanically.
     clean verdict for Ch. 5–8 is only the *first* clean round for that
     range, not the second — **the whole book still needs one more clean
     round** (covering all 8 chapters) before review can close.
+- 2026-09-03 — **review round 5** (2 fresh independent passes, Ch. 1–4 and
+  Ch. 5–8, each re-verifying all ten prior fixes plus a full fresh
+  adversarial read). **Both passes came back CLEAN** — all ten fixes
+  confirmed correctly in place across both ranges, and no new defects
+  found anywhere in the book. This is the first round where the *entire*
+  book (all 8 chapters) came back clean in the same round (round 4 had
+  been clean for Ch. 5–8 only, with one defect still in Ch. 1–4).
+  Several borderline items were explicitly considered and dismissed as
+  defensible readings rather than defects (noted in the reviewers'
+  reports, not repeated here) — including confirming that the "Magnificat
+  … anima mea Dominum" incipit appearing after the Ch. 3 Benedictus
+  antiphon is a pre-existing anomaly already present in the **Latin**
+  source itself (not a translation error — pt-BR faithfully matches it).
+  **One clean round down, one more consecutive clean round needed** before
+  the review can close per the two-consecutive-clean-rounds rule.
