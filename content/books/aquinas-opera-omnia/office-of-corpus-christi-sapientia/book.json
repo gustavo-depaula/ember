@@ -2,20 +2,24 @@
   "id": "aquinas-office-corpus-christi-sapientia",
   "name": {
     "en-US": "Office of Corpus Christi (Sapientia aedificavit, early draft)",
-    "la": "Officium Corporis Christi (Sapientia aedificavit, recensio prima)"
+    "la": "Officium Corporis Christi (Sapientia aedificavit, recensio prima)",
+    "pt-BR": "Ofício de Corpus Christi (Sapientia aedificavit, redação primitiva)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "The alternate (early) draft of the Office of Corpus Christi, beginning *Sapientia aedificavit sibi*. The *Sacerdos in aeternum* version (in `aquinas-office-corpus-christi`) was the one ultimately adopted by the Church.",
-    "la": "Recensio prima Officii Corporis Christi, a verbis *Sapientia aedificavit sibi* incipiens. Recensio *Sacerdos in aeternum* in usum tandem recepta est."
+    "la": "Recensio prima Officii Corporis Christi, a verbis *Sapientia aedificavit sibi* incipiens. Recensio *Sacerdos in aeternum* in usum tandem recepta est.",
+    "pt-BR": "A redação alternativa (primitiva) do Ofício de Corpus Christi, que começa por *Sapientia aedificavit sibi*. A versão *Sacerdos in aeternum* (em `aquinas-office-corpus-christi`) foi a que a Igreja finalmente adotou."
   },
   "composed": 1264,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -27,6 +31,11 @@
       "language": "la",
       "url": "https://aquinas.cc/la/en/~Sapientia aedificavit sibi",
       "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://aquinas.cc/la/en/~Sapientia aedificavit sibi",
+      "description": "Translated for Ember directly from the Latin (la) text above; the en-US translation was consulted only to confirm difficult readings, never as the base text. See translation-journal.md."
     }
   ],
   "toc": [
@@ -34,56 +43,64 @@
       "id": "officesas-c01",
       "title": {
         "en-US": "First Vespers",
-        "la": "Vesperae Primae"
+        "la": "Vesperae Primae",
+        "pt-BR": "Primeiras Vésperas"
       }
     },
     {
       "id": "officesas-c02",
       "title": {
         "en-US": "Matins",
-        "la": "Matutinum"
+        "la": "Matutinum",
+        "pt-BR": "Matinas"
       }
     },
     {
       "id": "officesas-c03",
       "title": {
         "en-US": "Lauds",
-        "la": "Laudes"
+        "la": "Laudes",
+        "pt-BR": "Laudes"
       }
     },
     {
       "id": "officesas-c04",
       "title": {
         "en-US": "Prime",
-        "la": "Prima"
+        "la": "Prima",
+        "pt-BR": "Prima"
       }
     },
     {
       "id": "officesas-c05",
       "title": {
         "en-US": "Terce",
-        "la": "Tertia"
+        "la": "Tertia",
+        "pt-BR": "Tércia"
       }
     },
     {
       "id": "officesas-c06",
       "title": {
         "en-US": "Sext",
-        "la": "Sexta"
+        "la": "Sexta",
+        "pt-BR": "Sexta"
       }
     },
     {
       "id": "officesas-c07",
       "title": {
         "en-US": "None",
-        "la": "Nona"
+        "la": "Nona",
+        "pt-BR": "Noa"
       }
     },
     {
       "id": "officesas-c08",
       "title": {
         "en-US": "Second Vespers",
-        "la": "Vesperae Secundae"
+        "la": "Vesperae Secundae",
+        "pt-BR": "Segundas Vésperas"
       }
     }
   ]
