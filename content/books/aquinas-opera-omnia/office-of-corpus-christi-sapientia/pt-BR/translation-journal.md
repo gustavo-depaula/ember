@@ -191,3 +191,21 @@ English wording was carried over mechanically.
     warnings.
   - **Two consecutive clean rounds still not reached** — round 3 found two
     new defects, so at least one more clean round is needed.
+- 2026-09-03 — **review round 4** (2 fresh independent passes, Ch. 1–4 and
+  Ch. 5–8, each re-verifying all nine prior fixes plus a full fresh read).
+  Ch. 5–8 pass: **clean** — both in-range fixes (Ch.5 "tradetur", Ch.6
+  "restitues") confirmed correctly in place, no new defects, antiphon-reuse
+  consistency re-confirmed. Ch. 1–4 pass: all nine in-range fixes confirmed
+  correctly in place; one new defect found:
+  - Ch. 2, Reading 9 — *"Postea **manifestatus est**"* (simple perfect
+    passive, a completed past fact — Judas's true character was, in fact,
+    later revealed) had been rendered as conditional/future-in-the-past,
+    "depois **se tornaria** manifesto" ("would later become manifest"),
+    turning a definite past event into a hypothetical/prospective one.
+    Fixed to simple past: "depois se manifestou."
+  - Rebuilt with `pnpm build:corpus` after the fix — clean, no new
+    warnings.
+  - Round 3 found a defect in Ch. 6 (within the 5–8 range), so round 4's
+    clean verdict for Ch. 5–8 is only the *first* clean round for that
+    range, not the second — **the whole book still needs one more clean
+    round** (covering all 8 chapters) before review can close.

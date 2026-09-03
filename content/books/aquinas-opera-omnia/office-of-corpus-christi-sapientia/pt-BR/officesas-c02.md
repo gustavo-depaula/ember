@@ -259,7 +259,7 @@ Leitura 9
 
 [Vers. 67] Desde então, muitos dos seus discípulos retrocederam, como que decepados do corpo de Cristo, e não mais voltando a ele, porque não estavam fielmente no seu corpo; e estes não foram poucos, mas muitos. Ouçamos, pois, o que disse aos poucos que permaneceram.  
 
-[Vers. 68] Disse, pois, Jesus aos doze: *acaso também vós quereis ir embora?* (Jo 6:67). Não se retirou nem mesmo Judas. Mas por que permanecia com o Senhor já se manifestava; depois se tornaria manifesto. Um respondeu por todos, um por muitos, a unidade por todos. Respondeu-lhe, pois, Simão Pedro: *Senhor, a quem iremos?* (Jo 6:68). Se nos repeles de ti, dá-nos outro semelhante a ti, a quem possamos ir. Se de ti nos afastarmos, a quem iremos?  
+[Vers. 68] Disse, pois, Jesus aos doze: *acaso também vós quereis ir embora?* (Jo 6:67). Não se retirou nem mesmo Judas. Mas por que permanecia com o Senhor já se manifestava; depois se manifestou. Um respondeu por todos, um por muitos, a unidade por todos. Respondeu-lhe, pois, Simão Pedro: *Senhor, a quem iremos?* (Jo 6:68). Se nos repeles de ti, dá-nos outro semelhante a ti, a quem possamos ir. Se de ti nos afastarmos, a quem iremos?  
 
 [Vers. 69] *Tens palavras de vida eterna* (Jo 6:68). Vede de que modo Pedro, sendo-lhe dado pelo Senhor, recriado pelo Espírito Santo, entendeu. Donde, senão porque creu nas palavras de vida eterna? Pois tens a vida eterna no ministério do teu corpo e do teu sangue. *E nós cremos e conhecemos*. Cremos, pois, para que conhecêssemos. Pois, se antes quiséssemos conhecer e depois crer, o que teríamos crido e o que teríamos conhecido? *Que tu és o Cristo, o Filho do Deus vivo*, isto é, que tu és a própria vida eterna, e não dás, na tua carne e no teu sangue, senão o que és.  
 
