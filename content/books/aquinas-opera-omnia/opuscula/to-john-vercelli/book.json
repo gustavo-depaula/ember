@@ -2,20 +2,24 @@
   "id": "aquinas-to-john-vercelli",
   "name": {
     "en-US": "Letter on the Manner of Studying (to Brother John)",
-    "la": "Epistola ad Ioannem de modo studendi (Sexdecim Praecepta)"
+    "la": "Epistola ad Ioannem de modo studendi (Sexdecim Praecepta)",
+    "pt-BR": "Carta sobre o Modo de Estudar (ao Irmão João)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short letter of pastoral counsel on how to acquire the treasure of knowledge — the *sixteen precepts* for study (be slow to speak, embrace purity of conscience, do not cease from prayer, often love the cell, do not seek what is too high for you, …). Traditionally addressed to John of Vercelli, Master General of the Dominicans, sometimes given to another Brother John.",
-    "la": "Epistola brevis consilii pastoralis quomodo thesaurus scientiae acquirendus sit — *sedecim praecepta* studendi (tardiloquum esse, conscientiae puritatem amplecti, ab oratione non desistere, cellam frequenter diligere, altiora non quaerere…). Ad Ioannem Vercellensem Magistrum Generalem Ordinis Praedicatorum tradita; aliquando alio fratri Ioanni attributa."
+    "la": "Epistola brevis consilii pastoralis quomodo thesaurus scientiae acquirendus sit — *sedecim praecepta* studendi (tardiloquum esse, conscientiae puritatem amplecti, ab oratione non desistere, cellam frequenter diligere, altiora non quaerere…). Ad Ioannem Vercellensem Magistrum Generalem Ordinis Praedicatorum tradita; aliquando alio fratri Ioanni attributa.",
+    "pt-BR": "Uma breve carta de aconselhamento pastoral sobre como adquirir o tesouro da ciência — os *dezesseis preceitos* para o estudo (ser tardio em falar, abraçar a pureza de consciência, não cessar de orar, amar com frequência a cela, não buscar o que está acima de si, …). Tradicionalmente endereçada a João de Vercelli, Mestre Geral dos Dominicanos, embora por vezes atribuída a outro Irmão João."
   },
   "composed": "c. 1259–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -34,7 +38,8 @@
       "id": "ch001",
       "title": {
         "en-US": "Letter on the Manner of Studying",
-        "la": "Epistola de modo studendi"
+        "la": "Epistola de modo studendi",
+        "pt-BR": "Carta sobre o Modo de Estudar"
       }
     }
   ]
