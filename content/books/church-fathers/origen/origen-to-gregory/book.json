@@ -1,13 +1,16 @@
 {
   "id": "origen-origen-to-gregory",
   "name": {
-    "en-US": "Origen to Gregory"
+    "en-US": "Origen to Gregory",
+    "pt-BR": "Orígenes a Gregório"
   },
   "author": {
-    "en-US": "Origen"
+    "en-US": "Origen",
+    "pt-BR": "Orígenes"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Origen to Gregory"
+        "en-US": "Origen to Gregory",
+        "pt-BR": "Orígenes a Gregório"
       }
     }
   ]
