@@ -1,13 +1,16 @@
 {
   "id": "gregory-thaumaturgus-matthew-6",
   "name": {
-    "en-US": "On Matthew 6:22-23"
+    "en-US": "On Matthew 6:22-23",
+    "pt-BR": "Sobre Mateus 6:22-23"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "São Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Matthew 6:22-23"
+        "en-US": "On Matthew 6:22-23",
+        "pt-BR": "Sobre Mateus 6:22-23"
       }
     }
   ]
