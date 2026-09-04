@@ -1,13 +1,16 @@
 {
   "id": "origen-africanus-to-origen",
   "name": {
-    "en-US": "Africanus to Origen"
+    "en-US": "Africanus to Origen",
+    "pt-BR": "Africano a Orígenes"
   },
   "author": {
-    "en-US": "Origen"
+    "en-US": "Origen",
+    "pt-BR": "Orígenes"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Africanus to Origen"
+        "en-US": "Africanus to Origen",
+        "pt-BR": "Africano a Orígenes"
       }
     }
   ]
