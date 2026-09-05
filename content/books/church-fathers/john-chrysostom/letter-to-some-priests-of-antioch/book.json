@@ -1,13 +1,16 @@
 {
   "id": "john-chrysostom-letter-to-some-priests-of-antioch",
   "name": {
-    "en-US": "Letter to Some Priests of Antioch"
+    "en-US": "Letter to Some Priests of Antioch",
+    "pt-BR": "Carta a Alguns Presbíteros de Antioquia"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Letter to Some Priests of Antioch"
+        "en-US": "Letter to Some Priests of Antioch",
+        "pt-BR": "Carta a Alguns Presbíteros de Antioquia"
       }
     }
   ]
