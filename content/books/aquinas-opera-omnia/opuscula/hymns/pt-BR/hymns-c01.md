@@ -38,5 +38,5 @@
   louvor e júbilo,  
   salvação, honra, poder também  
   e bênção sejam dados:  
-  ao que d'Ambos procede  
+  ao que d’Ambos procede  
   seja igual a aclamação. Amém.

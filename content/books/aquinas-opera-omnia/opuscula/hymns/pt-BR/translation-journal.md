@@ -23,6 +23,20 @@ Target: pt-BR
 - hymns-c05's opening stanza is left unbolded (plain text) rather than wrapped in `***…***` like the opening stanzas of c01–c04. This matches the `la/hymns-c05.md` source, which (unlike `la/hymns-c01–04.md`) does not bold its own incipit — the `en-US` edition bolds it anyway, but pt-BR follows the Latin source's own formatting.
 - Did not carry over the two inline textual-critical footnotes in `la/hymns-c04.md` (the BNF 1143 manuscript-variant notes on *consumitur/absumitur* and *tu nos/tuos*) or the textual-variant note in `la/hymns-c05.md` (*Te devote laudo, latens veritas*) — `en-US` omits these too, since they're apparatus for the Latin critical text, not part of the hymn as prayed.
 
+## Post-Merge Review Corrections
+
+A cross-language audit after the initial merge found four objective defects, all typographic or bibliographic, all now fixed:
+
+- **Straight quotes → curly.** Every pre-existing file in this book (all six `en-US` and all six `la` chapters) uses curly typographic quotes exclusively; the new pt-BR files were the only ones using straight ASCII quotes. Converted `"assim se diz"` → `“assim se diz”` and `"Un 'Sonetto' attribuito a S. Tommaso,"` → `“Un ‘Sonetto’ attribuito a S. Tommaso,”` in `hymns-c06.md`, and the apostrophe in `d'Ambos` → `d’Ambos` in `hymns-c01.md`. Purely typographic — no word of any prayer text changed.
+- **Italian proper name restored.** `hymns-c06.md` had translated the preposition inside an institution's own name: "Biblioteca Estense **de** Modena" → restored to "Biblioteca Estense **di** Modena", matching `en-US`.
+- **Dropped date qualifier.** `hymns-c06.md` "datado de 1447" → "datado de 1447 **d.C.**", restoring the "AD" marker `en-US` carries.
+- **Untranslated English left in Portuguese prose.** `hymns-c06.md` citation read "**in** *Memorie Domenicane*" → "**em** *Memorie Domenicane*".
+
+Deliberately **not** changed — reviewers will likely flag these again, so recording the reasoning:
+
+- The audit questioned four wordings in chapters 1–5: `o pobre, o servo e o humilde` (c02, reads Latin `pauper servus et humilis` as three subjects where `en-US` reads one), `Aleluia` appended to the close of Lauda Sion (c04), `do Salvador` expanding `et vinum in Sanguinem` (c04), `juntamente` (c03), and the European spelling `défice` (c01). Every one of these is inherited **verbatim** from the app's shipped practice manifests (`content/practices/sacris-solemniis`, `lauda-sion`, `pange-lingua`, `verbum-supernum`), verified line by line — they are received Brazilian liturgical renderings, not choices made for this book. `Amém. Aleluia.` in particular is the canonical close of the Lauda Sion sequence in the Roman Missal, even though this book's `la` recension prints only `Amen.`
+- Changing them here would break the invariant this translation was built on — that the book and the practices say the same thing in Portuguese — and would silently diverge the book from the text users actually pray. If any of these should change, the fix belongs in the practice manifest first, so book and practice move together. Left for the owner's call.
+
 ## Chapter Titles (book.json toc, pt-BR)
 
 Each title pairs the Latin/Italian name with a Portuguese rendering of the opening line, matching the `en-US` pattern of "Latin Name (English Incipit Translation)":
