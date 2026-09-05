@@ -76,4 +76,14 @@ Target: pt-BR
 | Camillians / Ministers of the Sick | Camilianos / Ministros dos Enfermos |
 | Redemptorists | Redentoristas (abbreviation "C.SS.R." kept untranslated) |
 | Josephism | Josefismo |
+| St. Robert Southwell | São Roberto Southwell |
+| St. Philip Howard | São Filipe Howard |
+| Fr. Robert Parsons | Padre Roberto Parsons |
+| St. Louis Gonzaga (Aloysius) | São Luís Gonzaga |
+| St. Peter of Alcantara | São Pedro de Alcântara |
+| St. Raymund Nonnatus | São Raimundo Nonato |
+
+## Known Inconsistencies to Resolve in Review
+
+- **saint-philip-benizi-confessor.md**: chapter heading reads "Santo Filipe Benizi, Confessor" but book.json TOC / this journal use "São Filipe Benízio, Conf." — "Filipe" is consonant-initial so "São" is correct per this journal's own rule; needs reconciling to "São Filipe Benízio" (or "Benizi" — pick one spelling) during review.
 - **the-adventurous-nun.md**: the source quotes the historical slur "nigger-lovers" (1960s U.S. civil-rights usage) as reported speech describing how such activists were labelled, paralleling the period term "negrophiles" used of Bl. Anne-Marie Javouhey. Rendered descriptively as "amantes de negros" rather than importing an equivalent Portuguese slur — preserves the passage's point (that defending persecuted people invites ugly labels) without reproducing a slur. Kept in quotes as reported speech, same as the source.
