@@ -83,4 +83,4 @@
   que nos alimentais nesta vida mortal,  
   admiti-nos no Céu, à Vossa mesa,  
   e fazei-nos co-herdeiros e companheiros  
-  dos santos cidadãos. Amém. Aleluia.
+  dos santos cidadãos. Amém.
