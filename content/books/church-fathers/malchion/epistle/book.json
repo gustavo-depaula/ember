@@ -1,13 +1,16 @@
 {
   "id": "malchion-epistle",
   "name": {
-    "en-US": "Epistle"
+    "en-US": "Epistle",
+    "pt-BR": "Epístola"
   },
   "author": {
-    "en-US": "Malchion"
+    "en-US": "Malchion",
+    "pt-BR": "Malquião"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistle"
+        "en-US": "Epistle",
+        "pt-BR": "Epístola"
       }
     }
   ]
