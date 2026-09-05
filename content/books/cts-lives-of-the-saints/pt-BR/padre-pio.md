@@ -398,7 +398,7 @@ O hospital é muito grande e equipado com todo o material mais moderno de todo t
 
 O diretor da Casa di Sollievo foi o falecido Dr. Guglielmo Sanguinetti, também um antigo ateu, que abandonou sua clínica em Florença para apoiar a obra do Padre.
 
-Uma grande estátua de São Francisco de Assis domina o hospital; tem seis metros de altura e foi feita por um artista nativo que, como Cimabue e Andrea del Sarto, fora pastor e modelara pequenas figuras de argila enquanto cuidava de suas ovelhas. Seu nome é Antonio Berti, e hoje leciona na Accademia delle Belle Arti, em Florença.
+Uma grande estátua de São Francisco de Assis domina o hospital; tem vinte pés de altura e foi feita por um artista nativo que, como Cimabue e Andrea del Sarto, fora pastor e modelara pequenas figuras de argila enquanto cuidava de suas ovelhas. Seu nome é Antonio Berti, e hoje leciona na Accademia delle Belle Arti, em Florença.
 
 Acima do hospital há uma plataforma de pouso para os helicópteros usados para transportar os pacientes que vêm de longe. Dali brilha o 'Farol do Amor', cuja luz é visível a grande distância e lembra aos viajantes noturnos de Padre Pio e de como ele serve a Deus no Monte Gargano.
 

@@ -1,22 +1,22 @@
-# São Camilo de Lellis
+# São Camilo de Lélis
 
 Fundador dos Clérigos Regulares, Ministros dos Enfermos.
 
-## Os Caminhos Admiráveis De Deus.
+## Os Caminhos Admiráveis de Deus.
 
 NÓS — exilados num "vale de lágrimas" — às vezes achamos difícil perceber as verdades que, no entanto, estão profundamente enraizadas em nossos corações. Entre estas pode estar aquele sentimento contido nas palavras "Jesus Cristo, o mesmo, ontem, hoje e sempre." Mas, de vez em quando, através das páginas da história do mundo, brilha uma luz que revela o Coração imutável e imutável de Deus feito Homem por amor às criaturas pecadoras, doentes e sofredoras que Ele ama até o fim — não somente até o fim de Sua vida mortal, mas até o fim dos tempos — sim — e por toda a eternidade sem fim.
 
-Assim é que muitas doces e eficazes palavras Suas continuam realizando sua obra por toda a terra, à medida que os anos passam. Assim é que, ocasionalmente, Ele suscita um santo, um discípulo especialmente amado e iluminado, para levar a cabo, em preceito e em prática, alguma missão especial e para manifestar as manifestações da Vontade imutável do Salvador, adaptadas às necessidades do dia presente. E foi este o caso quando Ele chamou à existência o grande coração e a alma ardente de São Camilo de Lellis. Milhões, talvez, contraíram uma dívida duradoura de gratidão àquele heroico filho da Itália, sem sequer suspeitar de seu benfeitor. Milhares lhe devem a saúde e a vida do corpo, e a vida eterna da alma. Incontáveis são os que devem a suas orações e a seu exemplo a graça que os habilitou a caminhar em suas pegadas. E, no entanto, comparativamente poucos sabem mais sobre ele do que o fato de seu nome estar inscrito na lista dos canonizados, em honra de sua santificada devoção ao serviço dos doentes pobres.
+Assim é que muitas doces e eficazes palavras Suas continuam realizando sua obra por toda a terra, à medida que os anos passam. Assim é que, ocasionalmente, Ele suscita um santo, um discípulo especialmente amado e iluminado, para levar a cabo, em preceito e em prática, alguma missão especial e para manifestar as manifestações da Vontade imutável do Salvador, adaptadas às necessidades do dia presente. E foi este o caso quando Ele chamou à existência o grande coração e a alma ardente de São Camilo de Lélis. Milhões, talvez, contraíram uma dívida duradoura de gratidão àquele heroico filho da Itália, sem sequer suspeitar de seu benfeitor. Milhares lhe devem a saúde e a vida do corpo, e a vida eterna da alma. Incontáveis são os que devem a suas orações e a seu exemplo a graça que os habilitou a caminhar em suas pegadas. E, no entanto, comparativamente poucos sabem mais sobre ele do que o fato de seu nome estar inscrito na lista dos canonizados, em honra de sua santificada devoção ao serviço dos doentes pobres.
 
 Voltemo-nos, pois, aos anais dos servos coroados de Deus, e leiamos reverentemente os registros daquele que bem merece ocupar lugar entre os mártires da caridade.
 
-## Um Filho Da Graça.
+## Um Filho da Graça.
 
 Este título costuma ser dado àqueles cujos pais viveram muitos anos na expectativa de uma nova vida que alegrasse seu lar.
 
-Esses pais costumam ser piedosos, pacientes e cheios de confiante submissão aos decretos de Deus. E temos boas razões para crer que Camila de Lellis — mãe de nosso Santo — era mulher de virtude mais que ordinária. De fato, está escrito dela que o nascimento de Camilo, "quando sua mãe já tinha quase sessenta anos — com cabelos grisalhos e rosto enrugado — lhe granjeou de suas admiradas vizinhas o glorioso apelido de 'Santa Isabel'".
+Esses pais costumam ser piedosos, pacientes e cheios de confiante submissão aos decretos de Deus. E temos boas razões para crer que Camila de Lélis — mãe de nosso Santo — era mulher de virtude mais que ordinária. De fato, está escrito dela que o nascimento de Camilo, "quando sua mãe já tinha quase sessenta anos — com cabelos grisalhos e rosto enrugado — lhe granjeou de suas admiradas vizinhas o glorioso apelido de 'Santa Isabel'".
 
-Ela merecera esse nome, também, por sua fervorosa piedade, que brilhava de modo ainda mais notável aos olhos do mundo porque ela e seu marido descendiam de duas das mais ilustres famílias de Abruzzo. Guerreiros e homens de saber singular haviam honrado a longa linhagem dos descendentes da casa de Lellis. Reis se orgulhavam de se valer dos dons que distinguiam os ancestrais de Giovanni — pai de Camilo — e este, considerando obrigação imperiosa servir ao reino a que devia seu vasto patrimônio, foi um dos principais líderes das expedições italianas contra franceses e turcos no início do século dezesseis.
+Ela merecera esse nome, também, por sua fervorosa piedade, que brilhava de modo ainda mais notável aos olhos do mundo porque ela e seu marido descendiam de duas das mais ilustres famílias de Abruzzo. Guerreiros e homens de saber singular haviam honrado a longa linhagem dos descendentes da casa de Lélis. Reis se orgulhavam de se valer dos dons que distinguiam os ancestrais de Giovanni — pai de Camilo — e este, considerando obrigação imperiosa servir ao reino a que devia seu vasto patrimônio, foi um dos principais líderes das expedições italianas contra franceses e turcos no início do século dezesseis.
 
 Sua esposa, Camila Compellio de Laureto, em Abruzzo, era de nobre nascimento e nobremente dotada tanto no sentido espiritual quanto temporal. Conta-se que "poucos dias antes de seu filho ver a luz, ela sonhou que dera à luz um menino com uma cruz no peito, seguido de vários filhos ornados da mesma forma."
 
@@ -28,13 +28,13 @@ O bebê era um autêntico italiano, de pele azeitonada e olhos escuros, que depo
 
 ## Nuvens Escuras.
 
-Pesadas, de fato, eram as nuvens que se acumulavam sobre o sol poente de Camila de Lellis. O costume da família, e o desejo de seu pai, determinaram que Camilo fosse enviado à escola o mais cedo possível. Ainda era mera criança quando revelou plenamente a herança legada por seus antepassados. Era poeta e soldado por natureza; até sua piedosa mãe podia licitamente se deleitar com seus dons; mas, infelizmente, foi logo levado por completo à companhia de alguns que o admiravam e o divertiam, e que alimentavam sua jovem vaidade.
+Pesadas, de fato, eram as nuvens que se acumulavam sobre o sol poente de Camila de Lélis. O costume da família, e o desejo de seu pai, determinaram que Camilo fosse enviado à escola o mais cedo possível. Ainda era mera criança quando revelou plenamente a herança legada por seus antepassados. Era poeta e soldado por natureza; até sua piedosa mãe podia licitamente se deleitar com seus dons; mas, infelizmente, foi logo levado por completo à companhia de alguns que o admiravam e o divertiam, e que alimentavam sua jovem vaidade.
 
 "Mal", diz seu biógrafo, "aprendera a ler e a escrever antes de se entregar às cartas e aos dados, e a outras diversões que os mundanos buscam. Seu único prazer intelectual era recitar odes pastoris etc., e nisso se destacava — muito para sua vanglória."
 
 Na idade avançada de Camila, a tristeza e o cuidado pesam poderosamente sobre o corpo frágil. Ela decaiu rapidamente e morreu a morte de uma santa, quando seu filho estava entrando em seu décimo quarto ano. Ele se afligiu amargamente por ela; contudo, não temos registro de nenhuma mudança em suas disposições. Ao contrário, quando tinha apenas dezenove anos, usou toda a sua influência persuasiva junto ao pai para oferecer seus serviços aos Nobres de Veneza contra os turcos.
 
-O velho entusiasmo militar despertou em Giovanni de Lellis, e o resultado foi que ele viajou com o filho até Ancona, com a intenção de obter uma comissão entre as tropas. Mas Giovanni calculara mal suas forças. Adoeceu gravemente no Castelo de Sant'Elpidio, perto da Santa Casa de Loreto, e ali morreu poucos dias depois, profundamente penitente por seus pecados e fortificado pelos últimos Sacramentos.
+O velho entusiasmo militar despertou em Giovanni de Lélis, e o resultado foi que ele viajou com o filho até Ancona, com a intenção de obter uma comissão entre as tropas. Mas Giovanni calculara mal suas forças. Adoeceu gravemente no Castelo de Sant'Elpidio, perto da Santa Casa de Loreto, e ali morreu poucos dias depois, profundamente penitente por seus pecados e fortificado pelos últimos Sacramentos.
 
 Camilo depois reconheceu que a morte de seu pai não foi, de modo algum, sua maior prova, pois um infortúnio pessoal o atingiu com muito mais gravidade. Um leve arranhão no tornozelo provocou uma chaga purulenta. "Menciono propositalmente este ferimento", escreve seu biógrafo, "porque foi o principal meio de que a Providência se serviu para curar sua alma, dando-lhe conhecimento dos hospitais, dos quais, podemos dizer, nasceu nossa Congregação."
 
@@ -76,7 +76,7 @@ Mal vestiu o hábito, a ferida reabriu. Todos concordaram que a Vontade de Deus 
 
 A recepção que ali encontrou foi de encantada "boas-vindas". Foi instalado como Superintendente, mas ninguém era tão pronto a assumir os serviços mais humildes, ninguém tão infatigável no cuidado dos sofredores mais negligenciados e repulsivos, quanto Camilo — que tinha a responsabilidade sobre todos!
 
-## O Início De Sua Obra De Vida.
+## O Início de sua Obra de Vida.
 
 Ele iniciara enfim sua missão designada, e a Bem-aventurança — "Estive enfermo e me visitastes" — parecia sempre resplandecer diante de seus olhos. Ninguém sabia melhor do que Camilo quantas queixas clamavam piedosamente por reparação nos hospitais daquela época. Os pobres eram tratados mais como animais caçados e desprezados do que como seres humanos. Atendentes descuidados e egoístas faziam o que bem entendiam, de dia e de noite. A alimentação era dada com parcimônia. Os remédios eram administrados ao acaso. A compaixão cristã era escassa. O pior de todos os infortúnios — havia casos de sacerdotes que negligenciavam seu dever, de modo que os doentes frequentemente definhavam e morriam sem os consolos da religião e dos Sacramentos.
 
@@ -92,11 +92,11 @@ Na mesma noite, Camilo, exausto de tristeza, adormeceu enquanto mantinha sua vig
 
 Além disso, aprouve a Nosso Senhor renovar e confirmar esse sublime encorajamento: ajoelhado um dia diante do Crucifixo, Camilo viu as Mãos do Salvador se soltarem da Cruz, e o sussurro chegou-lhe aos ouvidos: "Por que estás perturbado? Esta é Minha obra, não a tua. Persevera."
 
-Não é de admirar que o Santo se sentisse confiante no sucesso, e que se dirigisse a alguém que pudesse promover seus planos. Esse amigo era Marco Antônio Colselli, penitente do renomado São Filipe Néri. Ele entrou de bom grado nos desígnios de Camilo, e os recomendou à atenção do Padre Francesco Tarugi, do Oratório, que exclamou: "Quão útil seria tal Congregação em tempos de pestilência!"
+Não é de admirar que o Santo se sentisse confiante no sucesso, e que se dirigisse a alguém que pudesse promover seus planos. Esse amigo era Marco Antônio Coltselli, penitente do renomado São Filipe Néri. Ele entrou de bom grado nos desígnios de Camilo, e os recomendou à atenção do Padre Francesco Tarugi, do Oratório, que exclamou: "Quão útil seria tal Congregação em tempos de pestilência!"
 
 Camilo já não conseguia conter seu entusiasmo. Começou a se preparar para o sacerdócio, e humildemente se aplicou aos rudimentos do latim, sob instrução particular, complementada por aulas no Colégio dos Jesuítas. "Não se pode negar", diziam seus mestres, "que este homem chegou tarde à escola, mas há de avançar depressa e fazer grandes coisas na Igreja." Essa opinião foi compartilhada pelas autoridades eclesiásticas, e não houve hesitação em permitir que Camilo fosse ordenado no Domingo de Pentecostes de 1584. Logo depois, os Governadores de San Giacomo o elegeram capelão de sua pequena igreja perto da Porta del Popolo, chamada "A Madonna dei Miracoli".
 
-## Fundação Dos Ministros Dos Enfermos.
+## Fundação dos Ministros dos Enfermos.
 
 De seus primeiros cinco confidentes, apenas três colaboradores estavam então prontos a se colocar nas mãos de um líder, pois Benigno fora transferido para outra cidade, e o Padre Ludovico Altobelli fora nomeado Prior do hospital de São João. Restavam Bernardino Norcino, Cúrcio Lodi, e o Padre Francesco Profeta. Estes três eram um exército inteiro na hoste de Deus, tão ansiosos estavam por tomar sobre si Seu jugo e carregar o doce fardo da caridade em seus ombros dispostos. Depois de várias consultas, os quatro concordaram em romper inteiramente com o mundo; em deixar o hospital de San Giacomo, onde não teriam liberdade de agir como desejavam; em vestir a batina sacerdotal — tornando-se assim Ministros de Cristo aos enfermos — e em começar sua nova vida no hospital de Santo Espírito. Assim o fizeram em 16 de setembro de 1584 — data a partir da qual se ocuparam inteiramente do serviço dos doentes "segundo algumas regras breves que Camilo havia escrito."
 
@@ -112,7 +112,7 @@ Pessoas de toda classe começaram a ansiar pela assistência dos "Membros da Con
 
 Esta cláusula foi inserida na regra escrita, pouco antes da morte do Papa Gregório XIII, em abril de 1585: Outra consulta com os pioneiros da Ordem estabeleceu seu nome futuro — a saber, "Ministros dos Enfermos", também chamados "Clérigos Regulares".
 
-## Rumo Ao Alto.
+## Rumo ao Alto.
 
 O primeiro a passar para o reino eterno foi Bernardino Norcino. Desde a juventude, habituara-se à abnegação, e sua íntima união com Deus glorificara sua pobreza. Camilo o conheceu quando ele era guardião dos armazéns em San Giacomo. Antes, fora vendedor de lenha. Seu hábito de oração jaculatória o distinguira desde a infância, e costumava passar as horas entre o "Angelus" da tarde e a meia-noite em devoções ininterruptas. Seu confessor afirmava que Nosso Senhor Bendito às vezes se mostrava a Bernardino na Hóstia consagrada, sob a forma de uma linda Criança.
 
@@ -124,7 +124,7 @@ Uma audiência especial com o Santo Padre foi concedida a Camilo. Pediu ao Papa 
 
 O passo seguinte do fundador foi buscar uma casa mais espaçosa, com igreja anexa. Cobiçava particularmente a Igreja de Santa Maria Madalena, e, em pouco tempo, a caridade de alguns amigos a garantiu para ele, junto com as casas adjacentes — sendo toda a aquisição sempre considerada a primeira casa da Ordem.
 
-Não haviam se passado dois anos completos antes que o Instituto começasse a se multiplicar. A primeira filiação foi estabelecida em Nápoles. O hospital de incuráveis daquela cidade estava em estado lamentável de descaso. As tentativas feitas para trazer alguma ordem invariavelmente fracassavam. Era exatamente o lugar para atrair Camilo, e foi com indizível alegria que pediu a treze de seus religiosos que fossem com ele a esse campo de colheita. Sua chegada operou uma mudança instantânea. Nobres e cidadãos ricos foram contagiados por sua caridade, e acorreram para auxiliar os "Ministros dos Enfermos". Nenhum serviço era difícil ou repugnante demais para aquele nobre grupo, liderado por Camilo e seus sacerdotes. Damas de posição e matronas ricas protestavam por não serem excluídas dos benditos ministérios. Assim, aconteceu que os sofredores mais destituídos e mais repulsivos passaram a ser os mais cuidadosamente atendidos, e um coro de louvor grato subiu ao céu pela eficácia milagrosa concedida ao exemplo e aos ensinamentos do amado Padre Camilo de Lellis.
+Não haviam se passado dois anos completos antes que o Instituto começasse a se multiplicar. A primeira filiação foi estabelecida em Nápoles. O hospital de incuráveis daquela cidade estava em estado lamentável de descaso. As tentativas feitas para trazer alguma ordem invariavelmente fracassavam. Era exatamente o lugar para atrair Camilo, e foi com indizível alegria que pediu a treze de seus religiosos que fossem com ele a esse campo de colheita. Sua chegada operou uma mudança instantânea. Nobres e cidadãos ricos foram contagiados por sua caridade, e acorreram para auxiliar os "Ministros dos Enfermos". Nenhum serviço era difícil ou repugnante demais para aquele nobre grupo, liderado por Camilo e seus sacerdotes. Damas de posição e matronas ricas protestavam por não serem excluídas dos benditos ministérios. Assim, aconteceu que os sofredores mais destituídos e mais repulsivos passaram a ser os mais cuidadosamente atendidos, e um coro de louvor grato subiu ao céu pela eficácia milagrosa concedida ao exemplo e aos ensinamentos do amado Padre Camilo de Lélis.
 
 Sem dúvida, os anjos guardiões de Nápoles o haviam conduzido até lá para enfrentar o anjo da morte, pois uma frota vinda da Espanha trouxe tropas que se descobriu estarem tão terrivelmente presas à pestilência que os navios foram enviados para quarentena em Pozzuoli. Os homens foram levados para terra, ao hospital da Annunziata, e ali morreram aos montes. Camilo voltara a Roma, mas cinco de seus religiosos correram do novo convento em Nápoles para o serviço dos soldados moribundos. Cenas terríveis os aguardavam, mais do que podiam suportar. Outros logo se juntaram a eles, e todos trabalharam com fortaleza sobre-humana. Só quando haviam depositado seus pobres sofredores nos braços de Deus é que eles também foram abatidos pela praga, e a coroa desse martírio de fé e amor foi concedida a três dos bravos combatentes das próprias legiões de Cristo.
 
@@ -182,7 +182,7 @@ Por sete laboriosos e frutuosos anos, o fundador carregou o principal fardo; e, 
 
 "Irmão de vossas Reverências em Cristo,
 
-## "Camilo De Lellis.
+## "Camilo de Lélis.
 
 "Roma, 14 de outubro de 1607."
 
@@ -216,7 +216,7 @@ Ao meio-dia, esforçou-se por se unir ao "Angelus", e, percebendo que a língua 
 
 Era 14 de julho de 1614 — o sexagésimo quinto ano de vida do Santo, e o quadragésimo de sua conversão. Foi canonizado pelo Papa Bento XIV, que ordenou que sua festa fosse celebrada em 18 de julho.
 
-## História Da Ordem
+## História da Ordem
 
 Durante o século dezessete, guerra, fome e morte causaram estragos terríveis por toda a Europa. A tão temida peste provou ser especialmente desastrosa; e terrível foi o tributo cobrado pela morte. Em algumas cidades, ruas inteiras ficaram desertas, enquanto vilarejos populosos se tornaram desolados. A causa desses estragos foi a impotência absoluta da ciência médica e a falta de senso de responsabilidade social por parte daqueles capazes de prestar assistência. São Camilo predissera que um período futuro provaria a necessidade e a importância da Ordem. Sua profecia se cumpriu. A obra realizada pela Ordem durante as amplas epidemias nas grandes cidades da Itália constitui um dos capítulos mais emocionantes da história da caridade cristã. Milagres de sacrifício e abnegação foram operados; a Ordem ofereceu seus melhores membros. Em mais de uma ocasião, sua própria existência pareceu estar em jogo, tão completamente ficaram despovoados seus mosteiros a serviço da humanidade. Alguns fatos bastarão para esboçar um quadro pálido das atividades da Ordem durante os tempos da pestilência.
 
@@ -306,4 +306,4 @@ Imprimatur:
 
 @ D. Mannix,
 
-Arcebispo de Melbourne.
+Archiepiscopus Melbournensis.

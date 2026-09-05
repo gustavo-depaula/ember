@@ -1,4 +1,4 @@
-# A Virgem Destemida de Siena
+# A Intrépida Virgem de Siena
 
 Hoje, quando o bárbaro Vermelho invadiu quase completamente a herança sagrada da Cristandade católica na Europa, esmagando sob seu calcanhar uma Polônia prostrada, outrora defensora do Ocidente contra o Islã; quando a França, "filha primogênita da Igreja", está quase submersa na apostasia; quando a própria Itália é um posto avançado em constante e grave perigo, e a glória da Áustria está totalmente eclipsada: hoje, de fato, podemos bem ser tentados a desesperar do futuro da Igreja. Poderia parecer que a guerra, a heresia e o cisma são inimigos invencíveis; mas para aqueles que sabem colher esperança na colheita da história, há amplo encorajamento; o século catorze foi tão sombrio quanto o nosso, e no entanto mesmo naquele caos, como neste, a voz de Cristo ressoa verdadeira: "Eis que estou convosco todos os dias, até a consumação do mundo." A Igreja no século catorze, portanto, é uma analogia interessante. Mas há outras justificativas para tal estudo, pois não é a corrupção da Igreja no século catorze uma fraqueza que seus inimigos gostam de expor na esperança de prejudicar uma fé que sabem ser doutrinariamente inatacável? Além disso, não costumam seus próprios filhos mal informados considerá-la um esqueleto que deve ser cuidadosamente escondido no armário da família? Contudo, para essa corrupção há desculpas óbvias.
 
@@ -74,6 +74,6 @@ F. MOYNIHAN, Censor Deputatus.
 
 Imprimatur:
 
-@ D. Mannix,
+## @ D. Mannix,
 
-Arcebispo de Melbourne.
+Archiepiscopus Melbournensis.

@@ -84,13 +84,13 @@ E assim John Traynor foi colocado no banho — um destroço físico, coberto de 
 
 Uma segunda vez foi colocado no banho, e depois levado para ser abençoado durante a procissão do Santíssimo Sacramento, na grande praça diante da igreja. Assim que a Sagrada Hóstia passou, seu braço direito, morto desde 1915, agitou-se violentamente. Rompeu as ataduras e benzeu-se — pela primeira vez em anos. Uma sensação estranha invadiu-lhe as pernas. Os carregadores da maca pensaram que estivesse tendo outra crise. Deram-lhe uma injeção para acalmá-lo, e o levaram de volta à cama.
 
-Isso foi à tarde. No dia seguinte, bem cedo, ouviu os sinos tocando o hino de Lourdes, e saltou da cama. Caiu de joelhos para terminar o Terço que estava rezando, e depois saiu correndo da enfermaria, empurrou dois assistentes para o lado e, de pijama, correu descalço uns duzentos ou trezentos metros, sobre o cascalho áspero, até a Gruta.
+Isso foi à tarde. No dia seguinte, bem cedo, ouviu os sinos tocando o hino de Lourdes, e saltou da cama. Caiu de joelhos para terminar o Terço que estava rezando, e depois saiu correndo da enfermaria, empurrou dois assistentes para o lado e, de pijama, correu descalço umas duzentas ou trezentas jardas, sobre o cascalho áspero, até a Gruta.
 
 John Traynor estava curado.
 
 "Tudo o que eu sabia", disse ele depois, "era que devia agradecer à Virgem Bendita, e que a Gruta era o lugar para fazê-lo. Minha mãe me ensinara que, quando se pede um favor a Nossa Senhora, ou se quer prestar-lhe alguma veneração especial, deve-se fazer um sacrifício. Eu não tinha dinheiro para oferecer, pois gastara meus últimos xelins em terços e medalhas para minha esposa e filhos, mas, ajoelhado ali diante da Mãe Bendita, fiz o único sacrifício que consegui pensar. Resolvi deixar de fumar."
 
-Logo depois disso, e por vinte anos a fio, você poderia ter visto em Liverpool um robusto homem de cem quilos, no ramo de carvão e transportes, erguendo sacos de carvão de noventa quilos, homem que fora oficialmente classificado como cem por cento inválido e permanentemente incapacitado.
+Logo depois disso, e por vinte anos a fio, você poderia ter visto em Liverpool um robusto homem de dezesseis stone, no ramo de carvão e transportes, erguendo sacos de carvão de duzentas libras, homem que fora oficialmente classificado como cem por cento inválido e permanentemente incapacitado.
 
 Esse homem era John Traynor. Morreu em 1943 de hérnia, doença de forma alguma relacionada à enfermidade e aos ferimentos de que fora curado em Lourdes.
 
@@ -142,6 +142,6 @@ F. MOYNIHAN, Censor Deputatus.
 
 Imprimatur:
 
-@ D. Mannix,
+## @ D. Mannix,
 
-Arcebispo de Melbourne. 30 de novembro de 1945.
+Archiepiscopus Melbournensis. 30 de novembro de 1945.

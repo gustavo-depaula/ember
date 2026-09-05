@@ -1,4 +1,4 @@
-# Santo Estanislau Kostka
+# São Estanislau Kostka
 
 Paulo Kostka e seus amigos tinham um longo caminho a percorrer. Sua jornada era longa, mesmo para jovens com bons cavalos. Às vezes conversavam e cantavam enquanto cavalgavam, mas, com mais frequência, cavalgavam em silêncio, como homens com um propósito. Tinham de atravessar boa parte da Polônia, depois o que hoje chamamos de Tchecoslováquia e Áustria, e por fim descer pela Itália até Roma, uma distância de mais de mil milhas. Roma era o destino de Paulo, mas ele não ia como peregrino, e sim para trazer seu irmão mais novo de volta à Polônia. Já fazia tempo que seu irmão mais novo lhe dava problemas, e, enquanto cavalgava, Paulo remoía os anos passados.
 
@@ -22,23 +22,23 @@ Estanislau, na verdade, parecia ter gostado daquela vida de colégio confinada, 
 
 Ao passar por Viena agora, a caminho de Roma, Paulo se lembrava de tudo o que acontecera, em detalhe. Quando o internato fechou, ele não soube o que fazer, então procurara Bilinski, que ainda estava na cidade. Decidiram permanecer em Viena — teria sido ridículo abrir mão de tal chance de liberdade — e frequentar a escola diurna. Que alívio fora escapar das restrições do internato, e ter bons aposentos, e poder ir e vir à vontade! Paulo estava agora em posição de mostrar a Estanislau como um nobre deveria viver.
 
-## A Casa De Kimberker
+## A Casa de Kimberker
 
 Era apenas natural que procurassem os melhores aposentos possíveis na cidade. O Senador Kimberker tinha um belo conjunto de quartos e estava disposto a alugá-los a um aristocrata da família Kostka. Bilinski, é claro, concordara com a ideia, mas, pela primeira vez desde sua chegada a Viena, Estanislau se mostrara difícil. Estanislau não desejava viver na casa de um homem anticatólico. Mas que importava quais fossem as crenças religiosas do dono da casa? Paulo não tinha intenção alguma de abrir mão de sua fé, mas tinha de insistir em ter aposentos realmente elegantes. Talvez tivesse cometido um pequeno erro nesse ponto, pois o Senador Kimberker mais tarde recusou entrada a um sacerdote católico quando Estanislau estava muito doente. Não importava tanto, de qualquer forma, já que Estanislau se recuperara. Todos cometem erros às vezes, e ele realmente tinha de mostrar ao irmão mais novo quem estava no comando.
 
 A casa do Senador Kimberker era decerto muito diferente do internato superlotado. Eram dez ao todo no apartamento; ele mesmo e Estanislau, quatro outros jovens nobres poloneses, incluindo dois primos Kostka, três criados e o inevitável Bilinski. Ainda se esperava que frequentassem as aulas na escola jesuíta, mas, uma vez terminadas as aulas, eram senhores de si. Estanislau se tornara um tanto incômodo, e dificultava as coisas para os outros, ao nunca faltar às aulas, como faziam os demais; mas ele, Paulo, sempre despachava um criado quando não ia comparecer, para avisar aos Padres que estava indisposto. Custava pouco ser educado com seus mestres.
 
-## Formação Na Nobreza
+## Formação na Nobreza
 
 Agora que o internato não existia mais, Paulo realmente se pusera a formar Estanislau a sério. Não aprovava que o irmão mais novo se levantasse para a Missa toda manhã, nem suas longas orações, mas, como não faziam grande mal a ninguém, estivera disposto a tolerar tais práticas. De algum modo, porém, teve de adotar uma linha firme, pois Estanislau era realmente uma desonra para o bom nome dos Kostka. Estanislau precisava ser educado. Nem sequer sabia dançar. Como irmão mais velho, Paulo decidiu que tal ignorância devia ser remediada de imediato, então Estanislau teve aulas. Também apontara a Estanislau que ele não se vestia como convinha a um nobre, mas Estanislau nada fizera a respeito. Paulo lembrara ao irmão que o pai os enviara a Viena para conviver com pessoas de qualidade, e que ele negligenciava seu dever ao não fazê-lo. Insistira com ele que era possível ser bom católico sem se vestir mal e ficar em casa o tempo todo. É claro que ele realmente não poderia ter saído com eles a festas e ao teatro vestido daquele jeito, então fora muito difícil. Tentara de tudo para trazer o rapaz à razão. Suplicara, ameaçara e lisonjeara, mas Estanislau permanecera teimoso. Dissera a Estanislau que trazia vergonha e desonra ao bom nome da família. Bilinski dissera que às vezes ele ia longe demais em suas reprovações, mas o que Bilinski sabia sobre nobreza? Ele, Paulo Kostka, conhecia seu dever e o cumpria.
 
-## Às Portas Da Morte
+## Às Portas da Morte
 
 Paulo não conseguia esquecer o susto que levou em dezembro de 1566, quando Estanislau adoeceu gravemente. Mandaram chamar médicos e fizeram o que puderam para ajudar o rapaz. Estanislau parecia estar morrendo, e pedia um padre, mas o Senador Kimberker era muito amargo quanto a padres e não permitia que um entrasse em sua casa sob pretexto algum. Como se esforçaram naquele cuidado com Estanislau! Ninguém jamais fora tão bem tratado. Paulo se lembrava de Bilinski, que estava mais assustado do que os demais, velando junto ao paciente dia e noite. Bilinski dissera algo sobre um anjo trazendo a Sagrada Comunhão a Estanislau. Nunca soubera toda a verdade sobre isso, mas, seja lá o que tenha acontecido, Estanislau melhorara de repente. Os médicos não conseguiram explicar a súbita recuperação, mas foi certamente um alívio para o próprio Paulo quando as coisas puderam voltar ao normal. Agora que Estanislau estava bem de novo, Paulo esperava que ele fosse grato por toda a bondade deles e se comportasse como um cavalheiro dali em diante.
 
 Mas Estanislau não se comportara segundo os desejos do irmão, e se tornara, se algo, ainda mais difícil do que antes. Enquanto os criados iam de um lado a outro em suas tarefas, ficavam frequentemente aterrorizados à vista de Estanislau ajoelhado em transe, e a lavadeira se queixava de sangue nas roupas dele, por causa de seu fantástico hábito de se flagelar. Um dos criados também encontrara uma camisa que certamente não viera de seu alfaiate, pois era de cilício.
 
-## O Mundo Que Passa
+## O Mundo que Passa
 
 Ao refletir sobre os oito meses seguintes, Paulo não estava totalmente satisfeito com o modo como agira. Pouco depois da doença, perguntara a Estanislau por que este não podia se comportar como todo mundo. Estanislau respondera que não fora criado para o mundo que passa, mas para a eternidade, que dura para sempre. O que ele quisera dizer exatamente com aquilo? Achava que era melhor do que os demais, com todas as suas orações e disciplinas e vigílias? Era bastante ridículo que um irmão mais novo se colocasse como juiz do que era certo fazer.
 
@@ -52,7 +52,7 @@ Foi um alívio para Paulo que tudo tivesse se resolvido tão bem no fim, e que a
 
 Setembro ainda não terminara em 1568 quando Paulo Kostka entrou em Roma. Com ele cavalgava uma escolta de amigos e criados. Impressionaria os jesuítas com sua demonstração de força.
 
-## Negócios Em Roma
+## Negócios em Roma
 
 Paulo não queria demorar em seus negócios em Roma. Já era tarde demais para agir na noite de sua chegada, mas, na manhã seguinte, montaram a cavalo e cavalgaram até Sant'Andrea, o Noviciado dos Jesuítas. Paulo desmontou de um salto e caminhou a passos largos até a casa. Bateu peremptoriamente à porta. Depois de um momento de atraso, foi aberta pelo Irmão Porteiro. Paulo não perdeu tempo com saudações educadas, mas disse ao Irmão quem era, e que viera buscar seu irmão Estanislau. 'Vá buscá-lo imediatamente!' ordenou ao Irmão. O Irmão pareceu surpreso, mas não disse nada. Levou Paulo Kostka à sala de recepção e pediu-lhe que aguardasse um momento.
 
@@ -62,7 +62,7 @@ Tranquilamente, o Padre lhe contou como Estanislau morrera; que vivera e morrera
 
 Ajoelhado junto ao túmulo, Paulo desabou e chorou como uma criança. Ali percebeu, pela primeira vez, o que fizera a seu irmão. A mudança repentina não foi passageira. Compreendeu o que fora e o que fizera. Nunca mais foi o valentão fanfarrão, mas viveu uma vida de penitência e reparação pelo passado. A mudança foi tão radical que dificilmente pode ser explicada apenas pelo choque da notícia. Daquele momento em diante, Paulo passou a ver sua vida sob uma luz inteiramente nova e nunca deixou de lamentar o tratamento que dispensara a Estanislau.
 
-## Missão Não Cumprida
+## Missão não Cumprida
 
 Paulo deixou Roma assim que pôde, para levar a triste notícia a seu pai e sua mãe. Ficaram consternados com a notícia, mas ouviram avidamente o extraordinário relato da heroica santidade de seu filho. O pai não sobreviveu muito a Estanislau, e, poucos dias depois da morte do pai, morreu também Alberto, o irmão mais novo de Estanislau.
 
@@ -70,7 +70,7 @@ Paulo ficou em casa com sua mãe até que ela morreu. Não se casou, mas se dedi
 
 Nas páginas anteriores, vimos Estanislau Kostka através dos olhos de seu irmão mais velho, Paulo. Paulo julgava o irmão por seus próprios padrões, e, até o momento em que soube da morte de Estanislau, seus padrões eram tanto mundanos quanto egoístas. Seria um erro considerar Paulo mau, mas ele estava inflado por uma ideia exagerada da própria importância e julgava os outros por si mesmo.
 
-## Paulo E Estanislau
+## Paulo e Estanislau
 
 É interessante considerar as semelhanças e diferenças entre os dois irmãos. Eram semelhantes em sua formação católica e foram ambos criados no amor a Deus e à família. A família era nobre e abastada, de modo que o menino nunca conheceu necessidade nem privação. Ambos eram alegres e populares, mas, mesmo em sua alegria e popularidade, havia uma diferença enorme.
 
@@ -152,7 +152,7 @@ Rozrazewski, um dos companheiros de quarto e amigos de Paulo, relatou que, certa
 
 Um dos primos Kostka, também chamado Estanislau, se censurou: 'Ah, quantas vezes pisoteei aquele bendito jovem quando éramos estudantes no estrangeiro, e ele estava prostrado no chão, enquanto os outros dormiam.'
 
-## O Irmão Mais Velho
+## O Irmão mais Velho
 
 O tratamento que Estanislau recebeu do próprio irmão foi o mais violento. Paulo repetidamente derrubava o irmão, chutava-o sem piedade e pisoteava-o, de modo que Bilinski, mais de uma vez, teve de arrastá-lo dali à força, insistindo para que deixasse Estanislau em paz.
 
@@ -166,7 +166,7 @@ Depois de sua doença, ele pedira admissão aos jesuítas, e, embora seu confess
 
 O Padre Maggi ficou bastante satisfeito com Estanislau e, tendo verificado que seu confessor aprovava, disse-lhe que poderia ser aceito, contanto, é claro, que seus pais aprovassem.
 
-## Causa Sem Esperança
+## Causa sem Esperança
 
 A aprovação dos pais era algo que Estanislau sabia não ter a menor esperança de receber. Quando o Cardeal Commendone veio a Viena pouco depois, Estanislau decidiu pedir-lhe que intercedesse por ele. O Cardeal Commendone era então Legado Papal à Corte Imperial. Era amigo dos jesuítas e conhecera a família Kostka na Polônia. O Cardeal pediu ao Padre Maggi que recebesse Estanislau, mas, quando o Padre Provincial lhe lembrou o perigo de receber um nobre sem o consentimento dos pais, o Cardeal concordou que seria melhor não fazê-lo.
 
@@ -174,7 +174,7 @@ Estanislau continuou a orar, especialmente pedindo o auxílio de Nossa Senhora d
 
 O Padre Antônio tem sido muito criticado pelo conselho que deu a Estanislau, especialmente pelo biógrafo do santo, o Padre Sacchini. Sábio ou não tenha sido o Padre Antônio, não cabe a nós decidir, mas sabemos que o conselho literalmente ajudou Estanislau no caminho para a santidade.
 
-## Honra Teu Pai E Tua Mãe
+## Honra teu Pai e tua Mãe
 
 Como poderia ser certo para Estanislau ir contra a vontade de seus pais?
 
@@ -254,7 +254,7 @@ Pode parecer estranho, ao escrever sobre um santo, dizer tão pouco de sua vida 
 
 Era o grande caminhante de Deus, e nenhuma distância era grande demais para ele, pois caminhava com Deus.
 
-## São Francisco De Bórgia
+## São Francisco de Bórgia
 
 Depois de alguns dias de descanso, São Francisco de Bórgia permitiu que Estanislau iniciasse seu noviciado. Sua chegada não causou grande impressão, pois havia muitos outros noviços, e ele nem sequer tinha a distinção de ser o único polonês, nem o único nobre no Noviciado.
 
@@ -264,7 +264,7 @@ Disse que o traria de volta à Polônia desde Roma e que, uma vez em casa, não 
 
 Essa carta feriu Estanislau, mas não o fez mudar de ideia. Também não gerou nele nenhum ressentimento contra o pai.
 
-## Escrevendo Para Casa
+## Escrevendo para Casa
 
 'Queridíssimo Pai,' escreveu em resposta, 'por que minha entrada na Companhia de Jesus haveria de vos causar tristeza, como causa? Ao contrário, deveríeis alegrar-vos por isso e render incessantes graças a Deus. Os pais aqui embaixo são sempre tão felizes ao ver seus filhos entrarem no serviço e na casa de grandes homens, embora estes possam morrer e a qualquer momento desaparecer. Muito mais deveríeis alegrar-vos porque me dei inteiramente a Deus, que nunca me abandonará nesta vida e que, mais adiante, recompensará ricamente todo serviço a Ele prestado, por menor que seja.
 
@@ -306,7 +306,7 @@ Este relato, que abreviei consideravelmente, é perfeitamente sincero e autênti
 
 A causa da morte de Estanislau é, de certo modo, misteriosa. Era um jovem saudável e fisicamente capaz de grande resistência, como sabemos. Sua saúde permaneceu boa durante a maior parte dos dez meses que passou no noviciado. Nada de errado tinha com ele quando seu velho amigo, São Pedro Canísio, veio a Roma e deu a exortação de 31 de julho. O Padre Canísio falou naquele dia da necessidade de estar sempre preparado, pois não se sabe quando Deus chamará. Depois da exortação, quando Estanislau conversava com os outros noviços, disse que, embora as palavras do Padre fossem uma advertência salutar para todos, para ele mesmo eram a própria voz de Deus, pois ele morreria naquele mês. Embora as palavras de Estanislau tenham sido lembradas, não foram levadas a sério.
 
-## Morte De Um Noviço
+## Morte de um Noviço
 
 Estanislau adoeceu em 10 de agosto, mas não muito gravemente. Afirmou que não se recuperaria, mas o Enfermeiro lhe disse que seria um milagre se ele morresse de uma indisposição tão leve. No entanto, Estanislau afirmava que Nossa Senhora o levaria ao céu para a festa de sua Assunção. Foi piorando progressivamente com a febre, mas não foi senão no dia anterior à sua morte que alguém percebeu que ele se aproximava do fim. Morreu, como dissera, pouco antes da meia-noite de 14 de agosto, com o sorriso de quem vai para casa.
 

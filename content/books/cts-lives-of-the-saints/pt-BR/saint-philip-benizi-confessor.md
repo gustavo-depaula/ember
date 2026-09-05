@@ -1,4 +1,4 @@
-# Santo Filipe Benizi, Confessor
+# São Filipe Benizi, Confessor
 
 a.d. 1285
 

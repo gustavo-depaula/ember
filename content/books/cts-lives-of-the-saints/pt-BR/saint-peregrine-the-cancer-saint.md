@@ -1,4 +1,4 @@
-# São Peregrino, O Santo Do Câncer
+# São Peregrino, o Santo do Câncer
 
 O sofrimento é um dom que podemos dar a Deus. É um dom que só a pessoa que sofre pode dar. Quando compreendemos seu valor e o oferecemos por amor de Deus e pelo bem dos outros, então descobrimos também que o sofrimento traz alegria.
 
@@ -36,7 +36,7 @@ Oração A São Peregrino
 
 Rezai um Pai Nosso, Ave-Maria e Glória com a invocação: São Peregrino, rogai por nós
 
-### Ladainha Em Honra De São Peregrino
+### Ladainha em Honra de São Peregrino
 
 Senhor, *tende piedade de nós.*
 Cristo, *tende piedade de nós.*

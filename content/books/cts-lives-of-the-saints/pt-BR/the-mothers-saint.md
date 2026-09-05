@@ -116,7 +116,7 @@ Os piedosos também eram objeto de seu zelo. Muitos padres e freiras o consultav
 
 Os males do corpo tocavam uma corda sensível em seu coração, como tocavam o coração de seu Divino Mestre. Em favor dos doentes, realizou muitos de seus milagres mais notáveis.
 
-Por exemplo: um jovem jazia morrendo em Iliceto de tuberculose avançada. Pediram a Gerardo que o visitasse. O médico por acaso estava lá quando ele chegou. Ensuou-se um debate. "Digo-te," declarou o médico bruscamente, "não há esperança para ele, a menos que consiga um novo par de pulmões." "E Deus não pode lhe dar novos?" foi a réplica. Gerardo se despediu do rapaz dizendo: "Rezarei por ti." Ali mesmo, o paciente começou a melhorar. O médico foi o primeiro a admitir que a recuperação do rapaz fora milagrosa.
+Por exemplo: um jovem jazia morrendo em Iliceto de tuberculose avançada. Pediram a Gerardo que o visitasse. O médico por acaso estava lá quando ele chegou. Seguiu-se um debate. "Digo-te," declarou o médico bruscamente, "não há esperança para ele, a menos que consiga um novo par de pulmões." "E Deus não pode lhe dar novos?" foi a réplica. Gerardo se despediu do rapaz dizendo: "Rezarei por ti." Ali mesmo, o paciente começou a melhorar. O médico foi o primeiro a admitir que a recuperação do rapaz fora milagrosa.
 
 Como seu Divino Mestre, Gerardo tinha especial afeição pelas crianças. Não podia suportar vê-las sofrer. Seus poderes de cura eram frequentemente empregados para lhes restaurar a saúde. Como a menininha em Auletta. Ela era uma aleijada indefesa desde o nascimento. Ao ir vê-la, Gerardo simplesmente disse: "Levanta-te da cama e vem até mim." A criança obedeceu, e a mãe assistiu maravilhada enquanto ela dava alguns passos incertos e depois corria até o Irmão.
 
@@ -270,7 +270,7 @@ Archiepiscopus Melbournensis
 Nihil Obstat:
 
 
-## Bernard O'Connor,
+## Bernard o'Connor,
 
 Censor Diocesano. 23 DE JUNHO DE 1964
 

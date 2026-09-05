@@ -34,7 +34,7 @@ De disposição alegre e luminosa, jamais sua fronte risonha se turvou com petul
 Foi enviado, ainda muito jovem, a uma escola diurna. Às vezes acontecia que, ao voltar, suas batidas à porta de casa passavam despercebidas, e então o santo menino ia sorrateiramente até a igreja de São Sulpício e ali, ajoelhado aos pés da estátua de Nossa Senhora, recitava cinco ou seis terços do rosário. Antes de completar sete anos, tinha o hábito de se levantar antes do amanhecer. Sua avó o repreendeu por levantar-se tão cedo, ao que o pequenino respondeu: "Ah! querida vovó, tenho de servir minhas duas ou três Missas antes da escola. Que lugar melhor haveria para ganhar conhecimento com rapidez e segurança?"
 
 
-## A Doença de Sua Mãe
+## A Doença de sua Mãe
 
 JOÃO MAL COMPLETARA nove anos quando sua mãe foi acometida pela doença mortal que, por oito anos exaustivos, a confinou a um leito de sofrimento. Nosso Santo amava sua mãe ternamente e estava sempre a seu lado, servindo-a, animando-a, consolando-a com tais palavras de sabedoria santa que enchiam de espanto todos os que o ouviam. Nos momentos de maior sofrimento, a presença de seu filhinho angelical suavizava e consolava a pobre mãe.
 
@@ -48,7 +48,7 @@ JOÃO BERCHMANS parece ter manifestado, desde cedo, notável talento e aptidão 
 Diligente, cuidadoso, logo ultrapassou todos os seus jovens companheiros. "Eu o considerava", diz Stiphout, "uma espécie de prodígio da natureza. Elogiava-o diante de meus alunos e o propunha como modelo para sua emulação. Certo dia, quando seu pai me perguntava como ele estava se saindo, lembro-me de ter dito: 'Como sois abençoado com tal filho! Ele será vossa consolação, e minha honra e glória.'" Palavras verdadeiramente proféticas, que em poucos anos haveriam de ter tão gloriosa realização.
 
 
-## Vocação Para o Sacerdócio
+## Vocação para o Sacerdócio
 
 A VOCAÇÃO de nosso Santo nunca esteve, por um só momento, incerta. Seu coração puro e imaculado jamais nutriu outro desejo, jamais conheceu outra ambição, senão a de servir ao seu Deus no altar. Seu pai, persuadido pelas palavras insistentes de Stiphout, consentiu em permitir que seu filho obedecesse ao chamado de Deus e vestisse o traje clerical.
 
@@ -87,14 +87,14 @@ Quando o grande dia finalmente chegou, o dia tão desejado, tão ardentemente es
 Enquanto vivia no presbitério de Nossa Senhora, São João Berchmans confessava-se toda semana e recebia a Sagrada Comunhão duas vezes por mês, bem como em todas as grandes festas.
 
 
-## Seu Amor por Nossa Senhora
+## Seu Amor por nossa Senhora
 
 EM SEGUNDO lugar apenas depois do seu amor por Jesus, vinha aquele que nosso Santo sentia por Maria. Desde a infância, tinha por ela a mais infantil confiança e entrega. A simples menção de Nossa Senhora trazia um sorriso celestial a seu belo rosto, e quando falava dela havia uma luz em seus olhos e uma ternura em sua voz que revelavam a profundeza de seu amor. Todas as testemunhas na causa de sua beatificação atestaram a extraordinária devoção do Santo à Imaculada Mãe de Deus. Nunca passava por uma estátua de Nossa Senhora sem saudá-la; nunca deixava a igreja sem antes visitar o altar de Maria. Costumava privar-se de uma parte de cada refeição em sua honra, e muitos e engenhosos eram seus artifícios para ocultar isso.
 
 A Rainha da Pureza mostrou quão aceitável lhe era o amor e a devoção daquele coração jovem e imaculado. Protegia seu predileto do mais leve sopro do mal. O lírio da pureza imaculada floresceu em beleza angelical no coração de João. Inocente que era até do nome do vício, um instinto sobrenatural o fazia recuar com horror diante da menor coisa que pudesse manchar o brilho de sua pureza virginal. Nunca permitia que alguém o tocasse, e a mínima leviandade em palavras ou ações da parte de qualquer de seus companheiros fazia com que evitasse a companhia do transgressor.
 
 
-## Santuário de Nossa Senhora de Montaigu
+## Santuário de nossa Senhora de Montaigu
 
 A CERCA DE uma légua de Diest, no cume de uma colina muito alta, ergue-se o Santuário de Nossa Senhora de Montaigu, especialmente querido dos belgas. A majestosa igreja que coroa o alto da colina só foi concluída depois que nosso Santo já havia partido para o Céu. A pedra fundamental foi lançada pelos Arquiduques Alberto e Isabel; mas o bom Alberto não viveu para ver sua conclusão, dezoito anos depois.
 
@@ -113,7 +113,7 @@ QUEM PODE descrever a dor de nosso Santo ao ficar junto ao leito de sua mãe e o
 Carlos Berchmans, como sabemos, era homem de verdadeira piedade; era também um pai terno. A visão da aflição de seu filho o comoveu até as lágrimas, e não podemos duvidar de que a mãe sofredora sentiu uma pontada ainda maior ao ver seu filho angelical, o consolo de sua vida, tão dilacerado pela angústia. Carlos ergueu o menino chorando e derramou bálsamo em seu coração aflito, prometendo reconsiderar sua decisão.
 
 
-## João Deixa Diest Para Mechelen
+## João Deixa Diest para Mechelen
 
 CARLOS BERCHMANS deliberou ansiosamente com sua esposa sobre como os santos desejos de seu filho poderiam ser realizados. O resultado dessas deliberações foi que o Berchmans mais velho se pôs a procurar algum lugar onde João pudesse receber pousada e educação em troca de seus serviços domésticos. Isso nos soa hoje um arranjo estranho, mas parece ter sido bastante comum naquela época, quando havia poucos colégios eclesiásticos. Em pouco tempo, encontrou-se o lugar desejado na casa de um Cônego, em Mechelen.
 
@@ -184,7 +184,7 @@ NOSSO SANTO, como já vimos, considerava a humildade o fundamento de toda perfei
 COMO PODEMOS descrever o amor deste puro coração por Jesus no Adorável Sacramento do Altar? Sete vezes por dia, pelo menos, visitava o Prisioneiro do Amor em Seu Tabernáculo, e sempre fazia uma última visita antes de se recolher para descansar. Esta prática, iniciada pelo Santo, ainda é observada em muitas casas de sua Ordem.
 
 
-## A Morte de Sua Mãe
+## A Morte de sua Mãe
 
 DOIS MESES após a entrada do Santo na religião, chegou ao fim a longa vida de sofrimento de sua mãe. Ela morreu em 1º de dezembro de 1616. Após sua morte, Carlos Berchmans resolveu dedicar o resto de sua vida inteiramente a Deus. Parece ter tido, a princípio, um grande desejo de entrar na Companhia de Jesus; mas, sem dúvida, sua idade avançada impediu a realização de seu desejo. Em 14 de abril de 1618, foi ordenado padre e, como sinal da estima de seus concidadãos, foi feito Cônego na igreja de São Sulpício, onde o Santo fora batizado.
 
@@ -200,7 +200,7 @@ Em Antuérpia, como em toda parte por onde passou, João causou a mesma impress�
 No dia 18 de outubro, a alegre notícia foi comunicada ao Santo de que seus Superiores haviam decidido enviá-lo a Roma para seus estudos filosóficos e teológicos. Sua partida foi marcada para a segunda-feira seguinte, e, com a permissão de seus superiores, escreveu ao pai pedindo-lhe que fosse encontrá-lo em Mechelen no dia 20, para se despedirem. Quando João chegou a Mechelen, a notícia que o esperava era que seu pai já estava morto havia uma semana. Foi um duro golpe, mas João era um santo, e para os santos tudo o que vem da mão de Deus é doce e bem-vindo. Ao ouvir a triste notícia, ergueu os olhos ao céu e exclamou, nas palavras de São Francisco de Assis: "Então, posso, doravante, dizer verdadeiramente: 'Pai Nosso, que estais nos Céus.'"
 
 
-## O Testemunho de Seu Mestre de Noviços
+## O Testemunho de seu Mestre de Noviços
 
 O PADRE BAUTERS, mestre de noviços em Mechelen, escrevendo sobre o Santo após sua morte: "Durante todo o tempo em que viveu na Companhia na Bélgica, foi um modelo marcante e, na medida em que a natureza o permite, perfeito, da observância religiosa, um espelho de regularidade... Todos nós que tivemos a felicidade de viver com ele fomos unânimes nesse assunto. Levou entre nós uma vida verdadeiramente angelical pela grande inocência de seu coração, pela modéstia de seu comportamento, por sua maravilhosa cortesia e maneiras cavalheirescas, por seu modo de agir pacífico, por sua perseverança em todo bem que empreendia, por sua obediência perfeita e pronta, por sua rara prudência em qualquer assunto, pelo fervor demonstrado em tudo o que fazia, sem jamais perder de vista, por um único momento, a presença de Deus, como os espíritos angélicos que caminham sempre à Sua vista... Deus fez dele um santo. Coroou-o com uma coroa de glória."
 

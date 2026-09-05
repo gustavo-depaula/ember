@@ -54,7 +54,7 @@ Santa protetora dos que estão em necessidade, Santa Rita, tão humilde, pura e 
 
 Pai-Nosso, Ave-Maria, Glória ao Pai... (três vezes).
 
-### Ladainha De Santa Rita De Cáscia
+### Ladainha de Santa Rita de Cáscia
 
 Senhor, *tende piedade.*  
 Cristo, *tende piedade.*  

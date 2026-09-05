@@ -200,7 +200,7 @@ Que este sinal da Cruz os revista de significado sacramental, e que Vós, que os
 
 Que aqueles que devotamente guardam estes lírios (flores) em suas casas, e invocam o auxílio de Santo Antônio, encontrem cura para suas enfermidades, um incentivo à alegria e à pureza de vida, e força para resistir às tentações do demônio. Fazemos esta oração por Cristo Nosso Senhor. Amém.
 
-"De Cristo, como do centro, jorram todas as graças para nós, que estamos na circunferência. Quando a alma jaz diante dEle como terra fértil, ela é o Jardim do Éden onde florescem a rosa do amor, a violeta da humildade e o lírio da pureza."
+"De Cristo, como do centro, jorram todas as graças para nós, que estamos na circunferência. Quando a alma jaz diante d'Ele como terra fértil, ela é o Jardim do Éden onde florescem a rosa do amor, a violeta da humildade e o lírio da pureza."
 
 "Em nenhum lugar o homem pode compreender mais claramente sua dignidade do que no espelho da Cruz. Nela, vedes como deveis dobrar vosso orgulho e mortificar a concupiscência de vossa carne, orar ao Pai por aqueles que vos perseguem, e entregar vosso espírito em Suas mãos."
 
@@ -220,7 +220,7 @@ Que aqueles que devotamente guardam estes lírios (flores) em suas casas, e invo
 
 "Bendito é o ventre que Vos gerou. Ó filhos terrenos de Adão, a quem esta graça, esta glória solitária, é dada! Com fé e devoção, prostrai-vos e honrai o trono de marfim de nosso verdadeiro Salomão, o trono alto e elevado de nosso Isaías, dizendo: Bendito é o ventre que Vos gerou!"
 
-"Um leproso veio a Jesus, prostrou-se diante dEle, e disse: Se quiserdes, podeis purificar-me. Assim deve o pecador, na confissão, ajoelhar-se diante do padre como representante de Jesus Cristo, que lhe deu o poder de ligar e desligar. O pecador deve ter tal fé na dignidade desse ofício que também ele dirá: Senhor, se quiserdes, podeis purificar-me e absolver-me de meus pecados. O leproso foi curado imediatamente da lepra. Deus faz exatamente isso a cada dia na alma do pecador, por meio do padre, pois o padre também deve fazer essas mesmas três coisas: deve estender a mão, tocar e querer. Estende a mão quando reza a Deus pelo pecador e se enche de compaixão por ele. Toca o pecador quando o consola e lhe promete o perdão. Tem a vontade de purificá-lo quando o absolve de seu pecado."
+"Um leproso veio a Jesus, prostrou-se diante d'Ele, e disse: Se quiserdes, podeis purificar-me. Assim deve o pecador, na confissão, ajoelhar-se diante do padre como representante de Jesus Cristo, que lhe deu o poder de ligar e desligar. O pecador deve ter tal fé na dignidade desse ofício que também ele dirá: Senhor, se quiserdes, podeis purificar-me e absolver-me de meus pecados. O leproso foi curado imediatamente da lepra. Deus faz exatamente isso a cada dia na alma do pecador, por meio do padre, pois o padre também deve fazer essas mesmas três coisas: deve estender a mão, tocar e querer. Estende a mão quando reza a Deus pelo pecador e se enche de compaixão por ele. Toca o pecador quando o consola e lhe promete o perdão. Tem a vontade de purificá-lo quando o absolve de seu pecado."
 
 "Sobre quem recebe o Senhor dignamente, Ele derrama sua dupla unção: diminui as tentações e incita a devoção."
 

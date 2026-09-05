@@ -76,7 +76,7 @@ Enquanto isso, tudo não ia bem na Alemanha. Católicos e judeus assistiam com o
 
 Era a Semana Santa de 1933. Profundamente preocupada com o destino de seu povo, Edith ajoelhou-se na capela carmelita de Colônia, aos pés do crucifixo.
 
-"Disse a Nosso Senhor que sabia que era a Cruz dEle que estava sendo posta sobre a raça judaica. A maioria deles não compreendia, mas os que compreendessem deveriam aceitá-la de bom grado em nome de todos... Disse-lhe que era isso que eu desejava fazer... senti a convicção de que fora ouvida, embora não soubesse o que carregar essa Cruz poderia significar."
+"Disse a Nosso Senhor que sabia que era a Cruz d'Ele que estava sendo posta sobre a raça judaica. A maioria deles não compreendia, mas os que compreendessem deveriam aceitá-la de bom grado em nome de todos... Disse-lhe que era isso que eu desejava fazer... senti a convicção de que fora ouvida, embora não soubesse o que carregar essa Cruz poderia significar."
 
 Quase de imediato veio pedido o primeiro sacrifício. Os de raça judaica estavam sendo expulsos das escolas, faculdades e profissões. Edith foi informada de que não poderia mais lecionar na Universidade. Ela recebeu a notícia com calma. Por doze anos desejara ingressar numa Ordem religiosa. Se o fato de ser judia não fosse obstáculo, ela sentia que agora era o momento de realizar seu desejo: seguir os passos de Santa Teresa de Ávila, ingressando na Ordem Carmelita, onde a adoração de Deus se combina com uma vida penitencial em união com o Redentor crucificado.
 
@@ -178,7 +178,7 @@ BERNARD O'CONNOR, Censor Diocesano,
 
 Imprimatur:
 
-@ Arthur F. Fox,
+## @ Arthur F. Fox,
 
 Bispo Auxiliar.
 

@@ -1,6 +1,6 @@
 # São Caetano ou Gaetano, Confessor
 
-## Fundador Dos Clérigos Regulares
+## Fundador dos Clérigos Regulares
 
 1547 d.C.
 

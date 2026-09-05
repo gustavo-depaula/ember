@@ -176,7 +176,7 @@ Então o mais enfurecido dos dois gritou roucamente:
 
 Esse apelo de última hora, feito tão inesperadamente por seu amigo, embotou o gume de sua fúria. Perderam a bravata, e o bom senso prevaleceu. Um deles largou as pedras e foi para junto de seus livros escolares, no chão. Pegou-os, e partiu na direção da cidade. Ao longe, os sinos das igrejas repicavam sobre a quietude do entardecer, e o Angelus soou por sobre outro triunfo da graça, enquanto um rapaz se ajoelhava, contrito, junto ao confessionário de uma igreja da cidade.
 
-## "Jesus E Maria Serão Meus Amigos"
+## "Jesus e Maria Serão Meus Amigos"
 
 Desde a infância, Domingos mostrara extraordinária devoção a Nosso Senhor no Santíssimo Sacramento. Na escola de São João Bosco, essa devoção era primordial. De fato, o sistema educacional do santo era fundamentalmente sacramental. Ele dava a seus meninos toda oportunidade de Confissão e Comunhão frequentes. Domingos fazia pleno uso dessa oportunidade, e seu amor e devoção à Sagrada Eucaristia era a fonte de toda a alegria e do zelo que caracterizaram sua jovem vida. Sua Comunhão diária e suas frequentes visitas ao Santíssimo Sacramento transformaram seu ardor juvenil em zelo apostólico, que, como afirmou o Papa Pio XI, "animava toda a vida deste afortunado menino".
 
@@ -264,7 +264,7 @@ Em outra ocasião, Dom Bosco achou por bem enviar Domingos para casa por algum t
 
 A boa mulher correu para fora e olhou para cima e para baixo da estrada, mas não havia sinal de nenhuma senhora. Ela se perguntou quem poderia ser aquela senhora que acompanhara seu filho no caminho para casa. Em sua mente havia uma dúvida: "Seria a bela senhora que acompanhara seu filho a Mãe de Deus?" Certamente, dado o profundo e constante conhecimento da devoção do menino ao Sagrado Coração de Maria, não parece de todo improvável que ela não desdenhasse protegê-lo, se necessário, por sua presença visível.
 
-## O Amor De Domingos Pela Penitência
+## O Amor de Domingos Pela Penitência
 
 "'A vida de Domingos Sávio,'" atestou Pio XI, "'toda oração e penitência, ainda que não se eleve às alturas das austeridades narradas na história da santidade, foi, não obstante, uma vida de verdadeira penitência. De fato, dá-nos a todos uma lição muito útil, especialmente à juventude de nosso tempo, porque foi uma penitência possível a todos. Ele mostrou, em sua vida, uma vigilância contínua e o domínio do espírito sobre o corpo.'"
 
@@ -276,7 +276,7 @@ Seu ardor juvenil, porém, buscava meios e modos de se mortificar secretamente. 
 
 A essas palavras, Domingos pareceu satisfeito, e seguiu seu caminho, feliz.
 
-## O Apóstolo Do Pátio
+## O Apóstolo do Pátio
 
 Nenhum esboço da vida de Domingos, por mais breve que seja, estaria completo sem alguma referência a esta encantadora fase de seu apostolado.
 
@@ -302,7 +302,7 @@ Certo dia, durante o recreio, um homem se aproximou de alguns meninos e começou
 
 Os meninos, obedientes à voz de um amigo, a quem amavam e respeitavam, correram para se juntar aos jogos, deixando o agente do demônio falando sozinho, ao vento. Esse apostolado do pátio é uma característica marcante do sistema educacional de São João Bosco. São Domingos Sávio é um exemplo notável de sua eficácia.
 
-## O Amor De Domingos Pela Inglaterra
+## O Amor de Domingos Pela Inglaterra
 
 Nos primeiros meses de 1857, a saúde declinante de Domingos de novo dava motivo de preocupação, e Dom Bosco achou prudente enviar o menino para o campo, na esperança de que a mudança de ares ajudasse a restaurar suas forças. Assim, em 1º de março daquele ano, Domingos partia da escola de Dom Bosco para sua casa em Mondônio, e sacerdote e aluno ficaram à soleira para trocar algumas palavras de despedida.
 
@@ -328,7 +328,7 @@ Esta "distração", ou, o que parece mais provável, essa visão profética, gra
 
 O falecido Cardeal Salotti, em sua "Vida de Domingos Sávio", dá uma explicação para essa "distração". Ele diz: "As palavras de Sávio foram duplamente proféticas. Quando mencionou os pesares que haveriam de oprimir a alma de Pio IX, ele sem dúvida previu o caminho do Calvário que o Papa haveria de trilhar depois do exílio em Gaeta. E, quando o consolou com a visão da Inglaterra, predisse como Deus Todo-Poderoso estava preparando, por meio do Sumo Pontífice, um triunfo para a religião naquele país; um triunfo cumprido nas numerosas conversões e na liberdade concedida ao culto católico. Quem sabe se, após receber a Sagrada Hóstia, ele talvez tenha, de longe, visto e se alegrado com os maravilhosos dias de setembro de 1908, quando, durante o Congresso Eucarístico Solene em Londres, 20.000 crianças em idade escolar se reuniram no Embankment do Tâmisa e caminharam em procissão até a Catedral de Westminster, em meio a uma multidão de devotos espectadores; e quando o Legado Cardinalício do próprio Papa caminhou nessa imponente demonstração de fé pelas ruas floridas dessa grande metrópole, enquanto hinos eram entoados para proclamar o triunfo da Sagrada Eucaristia." Dom Bosco relatou essa visão de Domingos a Pio IX, e o Papa, grandemente consolado pela mensagem, viu nela a aprovação Divina de sua restauração da Hierarquia na Inglaterra, alguns anos antes.
 
-## A Morte De Domingos
+## A Morte de Domingos
 
 Poucos dias após sua chegada em casa, Domingos foi enfraquecendo, e o médico pronunciou sua condição grave. Pediu ao pai que chamasse o padre, e mais tarde recebeu os Últimos Sacramentos com indescritível devoção e fervor.
 
@@ -366,6 +366,6 @@ W. M. COLLINS, Censor Dioc.
 
 Imprimatur:
 
-@ D. Mannix,
+## @ D. Mannix,
 
-Arcebispo de Melbourne.
+Archiepiscopus Melbournensis.

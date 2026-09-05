@@ -1,6 +1,6 @@
 # São Domingos, Confessor
 
-## Fundador Dos Frades Pregadores
+## Fundador dos Frades Pregadores
 
 1221 d.C.
 

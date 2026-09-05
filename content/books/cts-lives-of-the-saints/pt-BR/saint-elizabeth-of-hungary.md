@@ -136,7 +136,7 @@ Imprimi Potest
 
 ## @ Eduardus.
 
-Arceb. Dublinen, Primaz da Hibérnia.
+Archiep. Dublinen, Hiberniae Primas.
 
 DUBLIN, 12 de novembro de 1931.
 
