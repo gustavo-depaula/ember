@@ -1,13 +1,16 @@
 {
   "id": "ignatius-martyrdom",
   "name": {
-    "en-US": "The Martyrdom of Ignatius"
+    "en-US": "The Martyrdom of Ignatius",
+    "pt-BR": "O Martírio de Inácio"
   },
   "author": {
-    "en-US": "Ignatius of Antioch"
+    "en-US": "Ignatius of Antioch",
+    "pt-BR": "Inácio de Antioquia"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Martyrdom of Ignatius"
+        "en-US": "The Martyrdom of Ignatius",
+        "pt-BR": "O Martírio de Inácio"
       }
     }
   ]
