@@ -62,4 +62,18 @@ Target: pt-BR
 - "Don" (Italian religious title, e.g. Don Bosco, Don Cafasso) → "Dom" throughout.
 - Mass propers (Introit, Collect, Epistle, Gradual, Gospel, Offertory, Secret, Preface, Communion, Postcommunion), where a chapter includes them in full (e.g. saint-jude-helper-in-great-need.md), use standard Portuguese Missal headings: Intróito, Coleta, Epístola, Gradual, Evangelho, Ofertório, Secreta, Prefácio, Comunhão, Pós-Comunhão.
 - One-off untranslatable foreign legal/idiomatic phrases (e.g. French *peine forte et dure*, *les pauvres honteux*) kept italicized in the original with a short parenthetical Portuguese gloss.
+- **saint-camillus-de-lellis.md**: the source has visibly OCR-garbled Peru/Ecuador place names ("Popogani, Quamanga, Quayquillo Truxillo", "Cattano" among Italian cholera cities). Rendered using the real, identifiable place names (Popayán, Huamanga, Guayaquil, Trujillo, Catânia) rather than transcribing the garbling — flagged here since it's an interpretive OCR correction, not a straight translation choice.
+- **Strigonia** (old name for Esztergom, Hungary) kept as "Strigônia" (attested archaic Portuguese form), matching the source's own archaic usage rather than modernizing.
+- Latin phrases the source itself glosses inline (e.g. *Tolle lege* / "Take up and read", *Doctor mellifluus*) are kept in Latin with the Portuguese gloss immediately following, mirroring the source's own bilingual presentation.
+
+## Proper Names Rendered (continued)
+
+| English | Portuguese |
+|---------|------------|
+| Dominic Savio (surname) | Sávio (accented; parents "Carlos Sávio"/"Brígida Sávio") |
+| Friars Preachers / Order of Preachers | Frades Pregadores / Ordem dos Pregadores |
+| Theatines / Clerks Regular | Teatinos / Clérigos Regulares |
+| Camillians / Ministers of the Sick | Camilianos / Ministros dos Enfermos |
+| Redemptorists | Redentoristas (abbreviation "C.SS.R." kept untranslated) |
+| Josephism | Josefismo |
 - **the-adventurous-nun.md**: the source quotes the historical slur "nigger-lovers" (1960s U.S. civil-rights usage) as reported speech describing how such activists were labelled, paralleling the period term "negrophiles" used of Bl. Anne-Marie Javouhey. Rendered descriptively as "amantes de negros" rather than importing an equivalent Portuguese slur — preserves the passage's point (that defending persecuted people invites ugly labels) without reproducing a slur. Kept in quotes as reported speech, same as the source.
