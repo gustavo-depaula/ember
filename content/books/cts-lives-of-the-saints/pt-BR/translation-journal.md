@@ -136,3 +136,43 @@ Target: pt-BR
 - Scripture quotations throughout (John the Baptist chapter especially, which is saturated with Gospel quotations from Luke, Matthew, John) rendered in natural Catholic Portuguese Bible idiom rather than literal calques of the old English Douay-style wording.
 - Numeric distances converted from miles to approximate metric equivalents where the English gave a specific figure important to the narrative (e.g. "thirteen miles" → "cerca de vinte e um quilômetros"); currency figures (£1,200, £100,000) kept as £ figures, unconverted, as historical amounts.
 - Nihil Obstat / Imprimatur blocks at the end of files kept verbatim in their original Latin/English form, per project instruction.
+
+## Additional Key Terms (Louise de Marillac/Lucy/Margaret Clitherow/Margaret Mary Alacoque/Margaret of Cortona/Martin of Tours/Mary Euphrasia Pelletier/Mary Magdalen batch, 2026-09-05)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| St Louise de Marillac | Santa Luísa de Marillac | |
+| Daughters of Charity | Filhas da Caridade | |
+| Ladies of Charity | Senhoras da Caridade | |
+| St Lucy (of Syracuse) | Santa Luzia | |
+| St Margaret Clitherow | Santa Margarida Clitherow | |
+| the Council of the North | o Conselho do Norte | |
+| recusant | recusante | technical term for the Elizabethan period, kept as cognate |
+| peine forte et dure | *peine forte et dure* | kept in French/legal Latin, italicized |
+| St Margaret Mary Alacoque | Santa Margarida Maria Alacoque | |
+| the Sacred Heart | o Sagrado Coração | |
+| Fr Claude de la Colombière | Padre Claude de la Colombière | French name kept as-is |
+| St Margaret of Cortona | Santa Margarida de Cortona | |
+| the Third Order (of St Francis) | a Terceira Ordem (de São Francisco) | |
+| Poverelle | "Poverelle" (Pobrezinhas) | kept in Italian with translation in parentheses on first use |
+| St Aloysius (comparison in Cortona chapter) | Santo Luís Gonzaga | standard Portuguese form; text only says "St Aloysius" |
+| St Martin of Tours | São Martinho de Tours | |
+| St Hilary of Poitiers | Santo Hilário de Poitiers | |
+| Priscillian / Priscillianists | Prisciliano / priscilianistas | |
+| St Mary Euphrasia Pelletier | Santa Maria Eufrásia Pelletier | |
+| the Refuge (convent/order) | o Refúgio | proper name of the institution, kept capitalized |
+| the Good Shepherd (Sisters) | o Bom Pastor / Irmãs do Bom Pastor | |
+| the Magdalens (community within the Refuge) | as Madalenas | |
+| the Generalate | o Generalato | |
+| St Mary Magdalen | Santa Maria Madalena | |
+| Simon the Pharisee | Simão, o fariseu | |
+| spikenard | nardo | |
+
+## Translation Decisions (Louise de Marillac–Mary Magdalen batch, 2026-09-05)
+
+- Files translated in this pass: saint-louise-de-marillac.md, saint-lucy-of-syracuse.md, saint-margaret-clitherow.md, saint-margaret-mary-alacoque.md, saint-margaret-of-cortona.md, saint-martin-of-tours.md, saint-mary-euphrasia-pelletier.md, saint-mary-magdalen.md.
+- **saint-margaret-clitherow.md**: the OCR'd source garbled one sentence together with two mid-paragraph footnotes (about a nephew's martyrdom, and about the Council of the North) so that a sentence about "one of the Douai missionaries" was left dangling mid-clause. Reconstructed the intended sentence ("...came into contact with one of the Douai missionary priests, then beginning to arrive secretly in England. This is supported by the fact that her brother-in-law, William Clitherow, went to Douai College...") and kept the two footnotes as separate, complete notes, rather than reproducing the OCR scrambling.
+- **saint-margaret-clitherow.md**: kept the source's own footnotes (marked * and **, and the closing bibliographic note on manuscript editions) since these appear to be the original author's own annotations providing biographical/source context, not a later editor's apparatus — translated rather than dropped.
+- **saint-mary-magdalen.md**: direct Gospel quotations (Luke 7:36-50, John 12, etc.) translated freshly in natural Catholic Portuguese Bible idiom to match the source's own paraphrastic rendering, rather than substituting a fixed existing Portuguese Bible translation.
+- **saint-mary-euphrasia-pelletier.md**: the footnote wordplay "they were all 'Anglish to them" (French non-distinction between Irish/English/Scots) was rendered as "para eles, todos eram simplesmente 'britânicos'" — the pun on "Anglish"/"English" does not carry over, but the sense (French inability to distinguish the nationalities) is preserved; noted here since it's a lossy rendering.
+- Nihil Obstat / Imprimatur blocks at the end of all eight files kept verbatim in their original Latin/English form, per project instruction.
