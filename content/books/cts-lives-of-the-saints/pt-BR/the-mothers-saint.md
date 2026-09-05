@@ -1,4 +1,4 @@
-# A Santa das Mães
+# O Santo das Mães
 
 Chegam diariamente cartas aos nossos mosteiros na Austrália, e do exterior, com estes pedidos: uma medalha de São Gerardo Maiela; o empréstimo de sua relíquia; orações por uma criança doente ou por uma futura mãe; a inscrição na Liga de São Gerardo. Vêm de mães e, às vezes, de maridos. Mães escrevem por suas filhas casadas. Amigos escrevem em nome de amigos.
 
@@ -6,7 +6,7 @@ Há também cartas de agradecimento. Muitas delas. Agradecimentos a São Gerardo
 
 Por que este coro mundial de orações e agradecimentos a São Gerardo Maiela? Por que tantas crianças com os nomes Gerardo e Maiela?
 
-Porque São Gerardo Maiela, um Irmão Redentorista, é universalmente aclamado como o Padroeiro das Mães, a Santa das Mães: título ao qual já provou seu direito milhares de vezes.
+Porque São Gerardo Maiela, um Irmão Redentorista, é universalmente aclamado como o Padroeiro das Mães, o Santo das Mães: título ao qual já provou seu direito milhares de vezes.
 
 Como se originou esta devoção? Como é que alguém que é homem e religioso pode ser o Padroeiro das Mães? Como explicar que tantas das graças concedidas são verdadeiramente milagrosas?
 
@@ -146,7 +146,7 @@ Como intercessor no céu, São Gerardo é todo-poderoso. Vimos como Deus o favor
 
 Embora São Gerardo esteja sempre pronto a ajudar a todos os que a ele recorrem, e a conceder toda sorte de pedidos, há alguns por quem tem especial interesse, mais do que por outros. A razão disso se encontra em parte em sua própria vida, e em parte nas disposições da Divina Providência, que confia certas categorias de pessoas a santos particulares.
 
-Por causa das dificuldades que teve em seguir sua própria vocação, é especialmente útil aos jovens para que conheçam a sua e a sigam; por isso é invocado como Padroeiro das Vocações. Por causa de seu dom de ler consciências, com o qual conseguiu induzir muitos que ocultavam pecados a fazer uma boa confissão, é invocado como Padroeiro de uma Boa Confissão. Por ter sido tão devotado ao trabalho manual, dando ao mundo um exemplo de labuta consciente e esmerada, foi aclamado Santo Padroeiro dos Trabalhadores. Acima de tudo, por sua especial ajuda às mães e a seus filhos, tornou-se amplamente conhecido como o Santo Padroeiro das Mães — a Santa das Mães.
+Por causa das dificuldades que teve em seguir sua própria vocação, é especialmente útil aos jovens para que conheçam a sua e a sigam; por isso é invocado como Padroeiro das Vocações. Por causa de seu dom de ler consciências, com o qual conseguiu induzir muitos que ocultavam pecados a fazer uma boa confissão, é invocado como Padroeiro de uma Boa Confissão. Por ter sido tão devotado ao trabalho manual, dando ao mundo um exemplo de labuta consciente e esmerada, foi aclamado Santo Padroeiro dos Trabalhadores. Acima de tudo, por sua especial ajuda às mães e a seus filhos, tornou-se amplamente conhecido como o Santo Padroeiro das Mães — o Santo das Mães.
 
 Quem, perguntamos, tem maior necessidade de um Padroeiro do que as mães? A delas é uma vocação nobre, pois cooperam com Deus em dar existência a seres humanos destinados a viver para sempre. É uma vocação de grande responsabilidade, pois as mães têm de formar seus filhos para serem bons cidadãos neste mundo, e futuros cidadãos do céu. E é uma vocação difícil, pois as mães têm problemas, decepções e dores desconhecidos da maioria dos outros.
 
@@ -160,9 +160,9 @@ Uma maneira de responder à pergunta é simplesmente dizer que Deus assim o disp
 
 Quando soube, anos depois, do triste fato da morte de seu irmãozinho, e do perigo em que ele mesmo estivera, seu coração deve ter se afligido pela ansiedade e pela dor sofridas por sua própria mãe. Talvez seja por isso que é tão compassivo com outras crianças e outras mães em perigo semelhante. Durante a vida, mostrou particular afeto pelas crianças, e isso, junto com sua própria inocência infantil, faz dele um padroeiro adequado para velar por elas. Durante a vida, também, como já registramos, operou vários milagres em favor de futuras mães em perigo. Esses milagres se multiplicaram enormemente depois de sua morte, de modo que ficou conhecido na Itália como "O Santo do Parto Feliz."
 
-De fato, como escreveu um dos biógrafos do santo em 1804, não havia futura mãe em Foggia e na região vizinha que não invocasse o Irmão Gerardo por um parto seguro e bem-sucedido. Que ele tem correspondido a sua reputação está amplamente comprovado pela extraordinária assistência que ainda presta em tais casos, alguns dos quais estamos prestes a relatar. Notar-se-á, também, que, como Santa das Mães, sua intercessão é particularmente eficaz também para crianças doentes e para aqueles cujo casamento não foi abençoado com um filho.
+De fato, como escreveu um dos biógrafos do santo em 1804, não havia futura mãe em Foggia e na região vizinha que não invocasse o Irmão Gerardo por um parto seguro e bem-sucedido. Que ele tem correspondido a sua reputação está amplamente comprovado pela extraordinária assistência que ainda presta em tais casos, alguns dos quais estamos prestes a relatar. Notar-se-á, também, que, como Santo das Mães, sua intercessão é particularmente eficaz também para crianças doentes e para aqueles cujo casamento não foi abençoado com um filho.
 
-Seguem-se algumas das graças concedidas pela Santa das Mães.
+Seguem-se algumas das graças concedidas pelo Santo das Mães.
 
 As três primeiras estão registradas em biografias do Santo. Ocorreram no exterior, evidentemente antes de sua canonização.
 
@@ -206,7 +206,7 @@ Prezado Padre,
 
 Muito obrigada por toda a sua assistência com Missas, orações, relíquia, etc., na luta para salvar a vida de nosso filhinho. Tenho o prazer de dizer-lhe que, graças a nosso intercessor no céu, nosso bebê está progredindo muito satisfatoriamente. Os médicos e enfermeiras aqui nos dizem que Miguel Gerardo é um menino de sorte por estar vivo, sendo esta a primeira pessoa na Austrália a se recuperar desta operação (uma operação de quatro horas, quando ele tinha um dia de vida).
 
-Estão muito entusiasmados com o sucesso, mas não sabem das orações que oferecemos a São Gerardo por sua ajuda. A Santa das Mães tem sido um grande consolo para mim, neste mês de sua doença, pois nunca perdi a fé. Senti que Deus Todo-Poderoso não recusaria as súplicas de São Gerardo e de nossa Santa Mãe.
+Estão muito entusiasmados com o sucesso, mas não sabem das orações que oferecemos a São Gerardo por sua ajuda. O Santo das Mães tem sido um grande consolo para mim, neste mês de sua doença, pois nunca perdi a fé. Senti que Deus Todo-Poderoso não recusaria as súplicas de São Gerardo e de nossa Santa Mãe.
 
 Atenciosamente, M.B.
 
@@ -224,13 +224,13 @@ Minha filha tem oito anos. É forte e inteligente. Mas, aos dois anos, desenvolv
 
 Atenciosamente, uma Devota de São Gerardo.
 
-A Liga de São Gerardo foi fundada no Canadá. Foi estabelecida na Austrália em 1944. Seu objetivo é tornar São Gerardo Maiela conhecido, amado e invocado como a Santa das Mães. Ao se associarem, as mães obtêm o poderoso auxílio do santo em sua tarefa responsável de gerar e criar filhos.
+A Liga de São Gerardo foi fundada no Canadá. Foi estabelecida na Austrália em 1944. Seu objetivo é tornar São Gerardo Maiela conhecido, amado e invocado como o Santo das Mães. Ao se associarem, as mães obtêm o poderoso auxílio do santo em sua tarefa responsável de gerar e criar filhos.
 
 Ao mesmo tempo, a Liga é uma cruzada para defender a santidade do matrimônio, a dignidade da maternidade e a integridade da família. Hoje, esses valores cristãos são atacados pela prática perniciosa da prevenção da natalidade que, por meio de argumentos especiosos e propaganda insidiosa, se estabeleceu como um culto — culto não de um ídolo de ouro, mas da luxúria dourada.
 
 Até católicos podem ser desencaminhados e tentar justificar-se por praticar algo que, aos olhos de Deus, jamais pode ser justificado por razão alguma.
 
-Contra essas forças contrárias à vida, São Gerardo Maiela, como a Santa das Mães, é um líder dado por Deus. Unindo-se sob sua bandeira, as mães são inspiradas a defender os ideais cristãos e a se tornar aquilo para que foram feitas — as salvadoras da Sociedade.
+Contra essas forças contrárias à vida, São Gerardo Maiela, como o Santo das Mães, é um líder dado por Deus. Unindo-se sob sua bandeira, as mães são inspiradas a defender os ideais cristãos e a se tornar aquilo para que foram feitas — as salvadoras da Sociedade.
 
 Em cada Centro da Liga, celebra-se uma Missa mensal pelas intenções dos membros, e os Diretores locais lhes concedem uma memória em sua Missa diária. Além disso, as orações de todos os membros são compartilhadas por qualquer membro em momento de especial necessidade.
 
@@ -244,7 +244,7 @@ Bom São Gerardo, que, como nosso Divino Salvador, mostraste tão amorosa ternur
 
 Ó glorioso São Gerardo, a quem Deus confiou a proteção especial das mães e de seus filhos, invoco com confiança tua poderosa intercessão por mim e por minha família: fortalece-nos para carregar nossa cruz de cada dia, vem em nosso auxílio em todo perigo de alma e corpo, alegra nosso lar com as bênçãos da paz divina, e concede que, pela fiel prática de nossa Santa religião neste mundo, mereçamos todos reunir-nos em torno do trono de Deus, no céu, para todo o sempre. Amém.
 
-Ó bom e gracioso São Gerardo, invocado em todo o mundo como a Santa das Mães, bem conheces as alegrias e as tristezas, os temores e os anseios do coração de uma mãe. Olha com ternura, nós te suplicamos, para todas as mães. Enxuga suas lágrimas e anima-as com radiante esperança. Protege sua virtude da influência corruptora de um mundo pagão. Mantém-nas fiéis ao exemplo de Maria, modelo das mães. Obtém-lhes as graças de seu nobre estado de vida, para que, educando seus filhos no temor e no amor de Deus, mereçam tê-los, um dia, como sua alegria e sua coroa eternas. Amém.
+Ó bom e gracioso São Gerardo, invocado em todo o mundo como o Santo das Mães, bem conheces as alegrias e as tristezas, os temores e os anseios do coração de uma mãe. Olha com ternura, nós te suplicamos, para todas as mães. Enxuga suas lágrimas e anima-as com radiante esperança. Protege sua virtude da influência corruptora de um mundo pagão. Mantém-nas fiéis ao exemplo de Maria, modelo das mães. Obtém-lhes as graças de seu nobre estado de vida, para que, educando seus filhos no temor e no amor de Deus, mereçam tê-los, um dia, como sua alegria e sua coroa eternas. Amém.
 
 Ó santo Irmão Gerardo, cujo coração se compadecia dos infelizes; que socorreste tantos pobres, curaste tantos doentes, consolaste tantos aflitos; eis-me aqui, preocupado e atribulado, de joelhos a teus pés. Em vão me volto para os homens em busca de consolo e ajuda. Por isso recorro a ti, que és tão poderoso no céu. Assiste-me com bondade, São Gerardo, para que, livre desta provação, ou fortalecido para suportá-la pelo amor de Deus, eu possa louvar e agradecer a Deus, e servi-lo com maior amor e fervor. Amém.
 
