@@ -35,5 +35,5 @@
   laus et iubilatio,  
   salus, honor, virtus quoque  
   sit et benedictio,  
-  procedentis ab utroque  
+  procedenti ab utroque  
   compar sit laudatio. Amen.
