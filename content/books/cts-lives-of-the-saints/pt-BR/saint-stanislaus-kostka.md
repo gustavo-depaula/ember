@@ -56,7 +56,7 @@ Setembro ainda não terminara em 1568 quando Paulo Kostka entrou em Roma. Com el
 
 Paulo não queria demorar em seus negócios em Roma. Já era tarde demais para agir na noite de sua chegada, mas, na manhã seguinte, montaram a cavalo e cavalgaram até Sant'Andrea, o Noviciado dos Jesuítas. Paulo desmontou de um salto e caminhou a passos largos até a casa. Bateu peremptoriamente à porta. Depois de um momento de atraso, foi aberta pelo Irmão Porteiro. Paulo não perdeu tempo com saudações educadas, mas disse ao Irmão quem era, e que viera buscar seu irmão Estanislau. 'Vá buscá-lo imediatamente!' ordenou ao Irmão. O Irmão pareceu surpreso, mas não disse nada. Levou Paulo Kostka à sala de recepção e pediu-lhe que aguardasse um momento.
 
-Após breve espera, o Padre Julio Fazio entrou na sala. Paulo repetiu sua exigência de que seu irmão lhe fosse trazido imediatamente. 'Vosso irmão Estanislau morreu há quatro semanas.'
+Após breve espera, o Padre Júlio Fazio entrou na sala. Paulo repetiu sua exigência de que seu irmão lhe fosse trazido imediatamente. 'Vosso irmão Estanislau morreu há quatro semanas.'
 
 Tranquilamente, o Padre lhe contou como Estanislau morrera; que vivera e morrera como um santo. Toda Roma o reverenciava, e era estranho que, mesmo nas poucas horas em que estivera na cidade, Paulo não tivesse ouvido falar disso. Estanislau não estava sendo esquecido. Falava-se dele em toda parte, e muita gente rezava a ele, em vez de por ele. Paulo enviou um mensageiro para dispensar os cavaleiros que o haviam acompanhado a Sant'Andrea, e pediu para ser levado ao túmulo de seu irmão.
 
@@ -66,7 +66,7 @@ Ajoelhado junto ao túmulo, Paulo desabou e chorou como uma criança. Ali perceb
 
 Paulo deixou Roma assim que pôde, para levar a triste notícia a seu pai e sua mãe. Ficaram consternados com a notícia, mas ouviram avidamente o extraordinário relato da heroica santidade de seu filho. O pai não sobreviveu muito a Estanislau, e, poucos dias depois da morte do pai, morreu também Alberto, o irmão mais novo de Estanislau.
 
-Paulo ficou em casa com sua mãe até que ela morreu. Não se casou, mas se dedicou a obras de caridade, à oração e à penitência. Aos cinquenta e seis anos, pediu para ser admitido na Companhia de Jesus. Seu pedido de admissão foi feito com grande humildade, não por seu próprio mérito, disse, mas por ser irmão de Estanislau. Seu pedido foi atendido, mas, antes que pudesse iniciar seu noviciado, morreu de morte santa em 13 de novembro — hoje a festa de Santo Estanislau — de 1607.
+Paulo ficou em casa com sua mãe até que ela morreu. Não se casou, mas se dedicou a obras de caridade, à oração e à penitência. Aos cinquenta e seis anos, pediu para ser admitido na Companhia de Jesus. Seu pedido de admissão foi feito com grande humildade, não por seu próprio mérito, disse, mas por ser irmão de Estanislau. Seu pedido foi atendido, mas, antes que pudesse iniciar seu noviciado, morreu de morte santa em 13 de novembro — hoje a festa de São Estanislau — de 1607.
 
 Nas páginas anteriores, vimos Estanislau Kostka através dos olhos de seu irmão mais velho, Paulo. Paulo julgava o irmão por seus próprios padrões, e, até o momento em que soube da morte de Estanislau, seus padrões eram tanto mundanos quanto egoístas. Seria um erro considerar Paulo mau, mas ele estava inflado por uma ideia exagerada da própria importância e julgava os outros por si mesmo.
 
@@ -222,7 +222,7 @@ Já era tarde quando chegaram a Dillingen. Estanislau entregou a carta ao Padre 
 
 No dia seguinte, Estanislau teve uma longa conversa com o Padre Provincial. A carta do Padre Antônio lhe falara da bondade de Estanislau e de seu desejo de se tornar jesuíta, mas o Padre Canísio tinha de ver por si mesmo se deveria admitir o rapaz. Concordou de bom grado em admitir Estanislau em probação. Sabia o que Estanislau sofrera por seu ideal, mas desejava certificar-se de sua obediência e humildade. Mandou-o trabalhar na cozinha. Estanislau nunca esteve mais contente. Escreveu depois: 'Encontrei o céu no meio das panelas.' Deu satisfação a todos naquele período, e Pedro Canísio já não tinha mais dúvidas quanto à autenticidade da vocação de Estanislau Kostka.
 
-Depois de mais discussões com Estanislau, decidiu enviá-lo a Roma, a fim de ficar o mais longe possível do perigo da ira de seu pai. Dois jovens jesuítas tinham de fazer a jornada de oitocentas milhas até Roma naquele momento, então Estanislau iria com eles. Na carta que São Pedro Canísio escreveu ao Padre Geral, São Francisco de Bórgia, falou de Santo Estanislau como jovem nobre, virtuoso e estudioso. Explicou por que o enviava a Roma e disse por fim: 'Espero grandes coisas dele.'
+Depois de mais discussões com Estanislau, decidiu enviá-lo a Roma, a fim de ficar o mais longe possível do perigo da ira de seu pai. Dois jovens jesuítas tinham de fazer a jornada de oitocentas milhas até Roma naquele momento, então Estanislau iria com eles. Na carta que São Pedro Canísio escreveu ao Padre Geral, São Francisco de Bórgia, falou de São Estanislau como jovem nobre, virtuoso e estudioso. Explicou por que o enviava a Roma e disse por fim: 'Espero grandes coisas dele.'
 
 A data exata do nascimento de Estanislau não é conhecida, mas, no dia em que iniciou sua segunda longa jornada, 25 de setembro de 1567, faltava cerca de uma semana para seu décimo sétimo aniversário. Essa jornada partiu de Munique, então Estanislau deve ter ido para lá alguns dias antes. As jornadas de Estanislau impressionam. De sua saída de Viena até sua chegada a Roma, caminhou cerca de mil e duzentas milhas. Deve ter sido um jovem excepcionalmente saudável, pois São Pedro Canísio, sempre tão atencioso e solícito com a saúde de todos, exceto a sua própria, lembrou ao Padre Francisco de Bórgia que os dois que acompanhariam Estanislau talvez não estivessem muito bem, mas não fez menção alguma nesse sentido quanto ao membro mais jovem do trio.
 
@@ -314,7 +314,7 @@ Há muito que podemos aprender com todos os santos. Há muitas coisas que podemo
 
 Em sua infância, Estanislau foi criado para conhecer e amar Deus e Sua Mãe. Viu a importância da oração e aprendeu a orar. Foi enviado a Viena para estudar, e estudou. Viu que certo tipo de comportamento era, para ele, incompatível com o verdadeiro amor a Deus. Viu, com a clareza da graça de Deus, que aquilo que interferia no verdadeiro serviço de Deus devia ser afastado. Paulo estava tornando impossível para ele o serviço de Deus, então deixou Paulo. Seus pais se opunham à realização do que era claramente a vontade de Deus — e a vontade de Deus deve ser feita antes de tudo.
 
-O mistério e a explicação da vida de Santo Estanislau se encontram nas palavras de nosso Salvador a Sua própria mãe: 'Não sabíeis que Me convém tratar dos negócios de Meu Pai?'
+O mistério e a explicação da vida de São Estanislau se encontram nas palavras de nosso Salvador a Sua própria mãe: 'Não sabíeis que Me convém tratar dos negócios de Meu Pai?'
 
 Nihil Obstat:
 

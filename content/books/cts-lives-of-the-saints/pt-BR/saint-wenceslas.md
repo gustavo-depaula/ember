@@ -100,7 +100,7 @@ As pesquisas feitas pelo distinto historiador Professor Pekar, as traduções do
 
 A mais antiga lenda documental sobre Venceslau data da primeira metade do século dez, e foi descoberta pelo russo Vostokoff, em 1830. Está escrita em antigo eslavo, com letras glagolíticas. Outra lenda, também datando do século dez, foi recentemente encontrada pelo Professor Nikolsky. A mais antiga biografia do Santo, escrita em latim e começando por "Crescente Fide Christiana", é provavelmente de origem bávara e foi usada pelo Bispo Gombold, de Mântua, ao compilar outra, a pedido do Imperador Otão II.
 
-Manuscritos dos séculos catorze e quinze, encontrados nas bibliotecas de Praga e no Convento de Boeddecke, na Vestfália, contêm a lenda editada pelo Padre jesuíta Balbin, no século dezessete, e pelo Padre Suysken, no século dezoito, para os Acta Sanctorum. O Padre Atanásio, em 1767, e José Emler, em 1873, e, finalmente, as versões latinas do Dr. Pekar, de 1906 (traduzidas pelo Professor Truhler e pelo Padre Stríz, em 1921), dão-nos a narrativa autêntica, tal como foi escrita pela primeira vez pelo monge Cristiano, por ordem de seu sobrinho Santo Adalberto, Bispo de Praga. Este monge, vivendo no fim do século dez, pôde investigar e cotejar os vários relatos e relatórios relativos a Venceslau, de modo que seu documento pode ser tomado como historicamente exato, purgado de exagero e fantasia, e contendo fatos autênticos. Ele exime a memória de Drahomira, mãe de São Venceslau, a cuja influência, como em tantos casos paralelos, a tradição atribuiu os atos cometidos pelos homens perversos ao seu redor. Drahomira era cristã e, se não se opôs efetivamente ao elemento pagão da Corte, fez penitência por suas faltas até o fim de sua vida. O documento também comprova a existência do Rito Eslavo na Boêmia cento e cinquenta anos depois de sua introdução por Santo Cirilo e São Metódio.
+Manuscritos dos séculos catorze e quinze, encontrados nas bibliotecas de Praga e no Convento de Boeddecke, na Vestfália, contêm a lenda editada pelo Padre jesuíta Balbin, no século dezessete, e pelo Padre Suysken, no século dezoito, para os Acta Sanctorum. O Padre Atanásio, em 1767, e José Emler, em 1873, e, finalmente, as versões latinas do Dr. Pekar, de 1906 (traduzidas pelo Professor Truhler e pelo Padre Stríz, em 1921), dão-nos a narrativa autêntica, tal como foi escrita pela primeira vez pelo monge Cristiano, por ordem de seu sobrinho Santo Adalberto, Bispo de Praga. Este monge, vivendo no fim do século dez, pôde investigar e cotejar os vários relatos e relatórios relativos a Venceslau, de modo que seu documento pode ser tomado como historicamente exato, purgado de exagero e fantasia, e contendo fatos autênticos. Ele exime a memória de Drahomira, mãe de São Venceslau, a cuja influência, como em tantos casos paralelos, a tradição atribuiu os atos cometidos pelos homens perversos ao seu redor. Drahomira era cristã e, se não se opôs efetivamente ao elemento pagão da Corte, fez penitência por suas faltas até o fim de sua vida. O documento também comprova a existência do Rito Eslavo na Boêmia cento e cinquenta anos depois de sua introdução por São Cirilo e São Metódio.
 
 Enquanto o monge Cristiano escrevia sobre São Venceslau na Boêmia, outro monge tcheco, chamado Vavrinets (Lourenço), fazia o mesmo em Monte Cassino, enquanto um terceiro tratava o assunto em latim rítmico, começando por: "Oportet nos fratres..."
 
@@ -182,7 +182,7 @@ Não nos deixes perecer,
 
 Nem agora, nem no futuro!
 
-Santo Venceslau!
+São Venceslau!
 
 Christe Eleison!
 
@@ -192,7 +192,7 @@ Tem piedade de nós!
 
 Consola os tristes; afasta todo o mal,
 
-Santo Venceslau!
+São Venceslau!
 
 Christe Eleison!
 

@@ -182,7 +182,7 @@ Diferentemente do povo de Granada, que já chamava João de santo desde o dia de
 
 O dia feliz da canonização ocorreu em São Pedro, em Roma, em 16 de outubro de 1690, quando o Papa Alexandre VIII ratificou que São João de Deus era santo no céu e digno de veneração pública.
 
-Em 1886, o Papa Leão XIII proclamou São João de Deus, junto com São Camilo de Lelis, copadroeiros dos doentes. Pio XI estendeu o padroado de São João de Deus para incluir enfermeiros, associações de enfermagem, hospitais e auxiliares hospitalares.
+Em 1886, o Papa Leão XIII proclamou São João de Deus, junto com São Camilo de Lélis, copadroeiros dos doentes. Pio XI estendeu o padroado de São João de Deus para incluir enfermeiros, associações de enfermagem, hospitais e auxiliares hospitalares.
 
 Nihil Obstat:
 

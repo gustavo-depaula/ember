@@ -24,19 +24,19 @@ O sofrimento que São Peregrino suportou em vida tornou-se sua coroa de glória.
 
 O que sofremos nesta vida jamais se pode comparar à glória, ainda não revelada, que nos espera (cf. Rm 8,18).
 
-Novena A São Peregrino
+Novena a São Peregrino
 
 Ó glorioso taumaturgo, São Peregrino, respondestes ao chamado divino com espírito pronto, deixando de lado todos os confortos de uma vida fácil e todas as vãs honras do mundo, para vos dedicardes a Deus na Ordem de Sua Santíssima Mãe. Trabalhastes com coragem pela salvação das almas, merecendo o título de 'Apóstolo da Emília'. Em união com Jesus Crucificado, suportastes pacientemente os mais dolorosos sofrimentos, e assim merecestes ser curado milagrosamente de uma chaga incurável na perna com um toque de Sua mão divina. Alcançai-nos, rogamo-vos, a graça de responder a todo chamado de Deus. Acendei em nossos corações um zelo ardente pela salvação das almas. Livrai-nos das enfermidades que tantas vezes afligem nossos corpos debilitados. E alcançai-nos a graça da resignação perfeita aos sofrimentos que nosso misericordioso Deus nos permite suportar. Assim, imitando vossas virtudes e amando ternamente nosso Senhor crucificado e Sua dolorosa Mãe, mereçamos a glória eterna no paraíso. Amém.
 
 Pai Nosso, Ave-Maria, Glória
 
-Oração A São Peregrino
+Oração a São Peregrino
 
 Ó Deus, que destes a São Peregrino um anjo por companheiro, a Mãe de Deus por Mestra, e Jesus como Médico de sua enfermidade. Concedei-nos, suplicamos por seus méritos, que na terra possamos amar intensamente nosso santo anjo, a Bem-Aventurada Virgem e nosso Salvador, e no céu os bendigamos para sempre. Concedei-nos também que recebamos a graça que agora pedimos... Por Cristo, nosso Senhor. Amém.
 
 Rezai um Pai Nosso, Ave-Maria e Glória com a invocação: São Peregrino, rogai por nós
 
-### Ladainha em Honra de São Peregrino
+### Ladainha em honra de São Peregrino
 
 Senhor, *tende piedade de nós.*
 Cristo, *tende piedade de nós.*
@@ -100,7 +100,7 @@ Oremos
 
 Ó Deus, sede propício e ouvi as preces que Vos apresentamos em honra de São Peregrino, Vosso amado servo. Que nós, que não confiamos em nossos próprios méritos, recebamos auxílio em nossas necessidades pela intercessão daquele cuja vida Vos foi tão agradável. Por Cristo, nosso Senhor. Amém.
 
-Preparação Para Uma Visita Aos Doentes
+Preparação para uma visita aos doentes
 
 1. Uma pequena mesa coberta com um pano branco limpo.
 
@@ -114,11 +114,11 @@ Preparação Para Uma Visita Aos Doentes
 
 (d) um pequeno recipiente com água potável limpa; (e) um pano de linho branco para uso do doente ao receber a Sagrada Comunhão.
 
-Orações Pelos Doentes
+Orações pelos doentes
 
 Deus todo-poderoso e eterno, salvação eterna dos que creem em Vós, ouvi-nos em favor de Vossos servos enfermos, pelos quais humildemente imploramos o auxílio de Vossa misericórdia, para que, restituídos à saúde, Vos rendam graças em Vossa Igreja. Por Cristo, nosso Senhor. Amém.
 
-Ato De Resignação À Vontade De Deus
+Ato de resignação à vontade de Deus
 
 Meu Pai, não sei o que vai me acontecer hoje. Sei apenas que nada me acontecerá que não tenha sido previsto por Vós e dirigido para o meu bem maior desde toda a eternidade. Isto me basta.
 
@@ -126,7 +126,7 @@ Adoro os Vossos santos, eternos e insondáveis desígnios. Submeto-me a eles de 
 
 Em Seu nome e por Seus infinitos méritos, peço-Vos paciência em meus sofrimentos e perfeita submissão a Vós, de modo que tudo o que quiserdes ou permitirdes que aconteça seja para Vossa glória. Amém.
 
-Oração Por Uma Boa Morte
+Oração por uma boa morte
 
 Senhor, meu Criador e Redentor, com todo o coração aceito minha morte segundo Vossa vontade e num espírito de adoração. Quero morrer como filho devoto da Igreja e entrar na eternidade com as melhores disposições de fé, de esperança, de caridade e de arrependimento de meus pecados.
 

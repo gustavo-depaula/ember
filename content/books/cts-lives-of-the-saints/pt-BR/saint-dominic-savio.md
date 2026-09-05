@@ -264,7 +264,7 @@ Em outra ocasião, Dom Bosco achou por bem enviar Domingos para casa por algum t
 
 A boa mulher correu para fora e olhou para cima e para baixo da estrada, mas não havia sinal de nenhuma senhora. Ela se perguntou quem poderia ser aquela senhora que acompanhara seu filho no caminho para casa. Em sua mente havia uma dúvida: "Seria a bela senhora que acompanhara seu filho a Mãe de Deus?" Certamente, dado o profundo e constante conhecimento da devoção do menino ao Sagrado Coração de Maria, não parece de todo improvável que ela não desdenhasse protegê-lo, se necessário, por sua presença visível.
 
-## O Amor de Domingos Pela Penitência
+## O Amor de Domingos pela Penitência
 
 "'A vida de Domingos Sávio,'" atestou Pio XI, "'toda oração e penitência, ainda que não se eleve às alturas das austeridades narradas na história da santidade, foi, não obstante, uma vida de verdadeira penitência. De fato, dá-nos a todos uma lição muito útil, especialmente à juventude de nosso tempo, porque foi uma penitência possível a todos. Ele mostrou, em sua vida, uma vigilância contínua e o domínio do espírito sobre o corpo.'"
 
@@ -302,7 +302,7 @@ Certo dia, durante o recreio, um homem se aproximou de alguns meninos e começou
 
 Os meninos, obedientes à voz de um amigo, a quem amavam e respeitavam, correram para se juntar aos jogos, deixando o agente do demônio falando sozinho, ao vento. Esse apostolado do pátio é uma característica marcante do sistema educacional de São João Bosco. São Domingos Sávio é um exemplo notável de sua eficácia.
 
-## O Amor de Domingos Pela Inglaterra
+## O Amor de Domingos pela Inglaterra
 
 Nos primeiros meses de 1857, a saúde declinante de Domingos de novo dava motivo de preocupação, e Dom Bosco achou prudente enviar o menino para o campo, na esperança de que a mudança de ares ajudasse a restaurar suas forças. Assim, em 1º de março daquele ano, Domingos partia da escola de Dom Bosco para sua casa em Mondônio, e sacerdote e aluno ficaram à soleira para trocar algumas palavras de despedida.
 

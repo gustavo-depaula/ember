@@ -138,7 +138,7 @@ Imprimi Potest
 
 Archiep. Dublinen, Hiberniae Primas.
 
-DUBLIN, 12 de novembro de 1931.
+Dublini, die 12a Nov., anno 1931.
 
 ## Ex Parte Ordinis.
 
@@ -148,4 +148,4 @@ FR ROGERIUS MOLONEY, O.F.M. Censor Deput.
 
 Imprimi Potest
 
-FR. FLANNANUS O'NEILL. O.F.M. Min. Provincial. Dublin, 5 de novembro de 1931.
+FR. FLANNANUS O'NEILL. O.F.M. Min. Provlis. Dublini, die 5a, Nov., anno 1931.

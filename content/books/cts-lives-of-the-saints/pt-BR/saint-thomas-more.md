@@ -9,7 +9,7 @@ Num panfleto deste tamanho, não seria sensato dar, em longas notas, os prós e 
 Tentei contar a história, dentro dos limites estreitos de um panfleto, em grande parte com as próprias palavras de Moro e de seus primeiros biógrafos. O comentário foi reduzido impiedosamente, quase como uma intrusão sobre a eloquência dos fatos simples e a beleza da dicção tudoriana.
 
 
-## P. e. Hallett,
+## P. E. Hallett,
 
 Vice-postulador da Causa dos Beatos João Fisher e Tomás Moro.
 

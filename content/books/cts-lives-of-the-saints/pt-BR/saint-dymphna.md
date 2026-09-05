@@ -76,7 +76,7 @@ Em nossa última enfermidade, *nós vos suplicamos, ouvi-nos.*
 Na hora da morte, *nós vos suplicamos, ouvi-nos.*  
 Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, Senhor.*  
 Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos com bondade, Senhor.*  
-Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*
+Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*  
 V. *Rogai por nós, Santa Dimpna.*
 
 R. Para que sejamos feitos dignos das promessas de Cristo.

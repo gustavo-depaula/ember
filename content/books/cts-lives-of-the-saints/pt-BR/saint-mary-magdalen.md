@@ -126,7 +126,7 @@ E, contudo, ali estava Ele, associando-Se em amizade com uma cortesã reformada.
 
 A narrativa do Evangelho diz:
 
-'Maria, portanto, quando Ele estava à mesa, tomou uma libra de nardo puro, de grande preço. E, quebrando a caixa de alabastro, derramou-o sobre a Sua Cabeça, enquanto Ele estava à mesa, e ungiu os pés de Jesus, e os enxugou com seus cabelos. E a casa se encheu do odor do unguento. Então um de Seus discípulos, Judas Iscariotes, aquele que estava para traí-Lo, indignado com tal extravagância, protestou e disse: 'Por que não se vendeu este unguento por trezentos denários e se deu aos pobres?'
+'Maria, portanto, quando Ele estava à mesa, tomou uma caixa de alabastro de unguento precioso, uma libra de nardo puro, de grande preço. E, quebrando a caixa de alabastro, derramou-o sobre a Sua Cabeça, enquanto Ele estava à mesa, e ungiu os pés de Jesus, e os enxugou com seus cabelos. E a casa se encheu do odor do unguento. Então um de Seus discípulos, Judas Iscariotes, aquele que estava para traí-Lo, indignado com tal extravagância, protestou e disse: 'Por que não se vendeu este unguento por trezentos denários e se deu aos pobres?'
 
 O Evangelista acrescenta significativamente: 'Ora, ele disse isto, não porque se importasse com os pobres, mas porque era ladrão, e, tendo a bolsa, carregava o que nela se colocava.'
 

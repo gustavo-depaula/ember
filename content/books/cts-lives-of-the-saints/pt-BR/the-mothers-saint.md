@@ -270,7 +270,7 @@ Archiepiscopus Melbournensis
 Nihil Obstat:
 
 
-## Bernard o'Connor,
+## Bernard O'Connor,
 
 Censor Diocesano. 23 DE JUNHO DE 1964
 

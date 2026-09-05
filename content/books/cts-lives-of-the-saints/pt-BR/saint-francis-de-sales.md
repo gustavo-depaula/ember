@@ -112,7 +112,7 @@ Coube a São Vicente de Paulo, mais tarde, conseguir, com suas Irmãs da Caridad
 
 Sua direção dessas santas mulheres resultou na redação de sua obra-prima, o Tratado do Amor de Deus, obra que espelha o pleno desenvolvimento de sua própria iniciação mística. Afinal, o misticismo nada mais é que o amor de Deus. Não há nada mais elevado.
 
-Esse tratado lhe custou cada momento dos anos de 1616 e 1617, e ele disse que, para umas poucas linhas dele, às vezes lera mil e duzentas páginas de fólio, entre outros, de Santo Tomás, São Boaventura, Dionísio, o Cartuxo, Luís de Granada, o Cardeal Belarmino, Santa Teresa, Santa Catarina de Sena e Santa Catarina de Gênova...
+Esse tratado lhe custou cada momento dos anos de 1616 e 1617, e ele disse que, para umas poucas linhas dele, às vezes lera mil e duzentas páginas de fólio, entre outros, de Santo Tomás, São Boaventura, Dionísio, o Cartuxo, Luís de Granada, o Cardeal Belarmino, Santa Teresa, Santa Catarina de Siena e Santa Catarina de Gênova...
 
 ## A Segunda Parte de seu Episcopado (1612-22)
 
