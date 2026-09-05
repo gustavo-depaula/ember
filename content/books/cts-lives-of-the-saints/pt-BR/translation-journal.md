@@ -176,3 +176,43 @@ Target: pt-BR
 - **saint-mary-magdalen.md**: direct Gospel quotations (Luke 7:36-50, John 12, etc.) translated freshly in natural Catholic Portuguese Bible idiom to match the source's own paraphrastic rendering, rather than substituting a fixed existing Portuguese Bible translation.
 - **saint-mary-euphrasia-pelletier.md**: the footnote wordplay "they were all 'Anglish to them" (French non-distinction between Irish/English/Scots) was rendered as "para eles, todos eram simplesmente 'britânicos'" — the pun on "Anglish"/"English" does not carry over, but the sense (French inability to distinguish the nationalities) is preserved; noted here since it's a lossy rendering.
 - Nihil Obstat / Imprimatur blocks at the end of all eight files kept verbatim in their original Latin/English form, per project instruction.
+
+## Additional Key Terms (Mary Mazzarello/Maximilian Kolbe/Pascal Baylon/Patrick/Peregrine/Peter Aloysius Mary Chanel/Philip Benizi/Philip Neri/Philomena/Pius V batch, 2026-09-05)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| St Mary Mazzarello | Santa Maria Mazzarello | |
+| St Maximilian Kolbe | São Maximiliano Kolbe | |
+| St Pascal Baylon | São Pascoal Baylon | |
+| St Patrick | São Patrício | |
+| St Peregrine (Laziosi) | São Peregrino | patron of cancer sufferers |
+| St Peter Aloysius Mary Chanel | São Pedro Luís Maria Chanel | Protomartyr of Oceania; "Aloysius" → "Luís" (vernacular form), "Mary" → "Maria" (confirmation name, per text) |
+| St Philip Benizi | São Filipe Benizi | Servite; same "Filipe" form used for Philip Neri |
+| St Philip Neri | São Filipe Néri | |
+| St Philomena | Santa Filomena | |
+| St Pius V | São Pio V | |
+| the Servites / Order of the Servants of Mary | os Servitas / Ordem dos Servos de Maria | |
+| Don Bosco / St John Bosco | Dom Bosco / São João Bosco | consistent with earlier batch |
+| Daughters of Mary, Help of Christians | Filhas de Maria Auxiliadora | consistent with earlier batch |
+| the Oratory / Congregation of the Oratory | o Oratório / Congregação do Oratório | |
+| the Army of Mary Immaculate (Kolbe) | o Exército de Maria Imaculada | Kolbe's Militia Immaculatae |
+| Niepokalanów | Niepokalanów | kept as Polish proper name; source's own gloss "City of the Immaculate" translated in-line |
+| "The Knight" (magazine) | "O Cavaleiro" (da Imaculada) | Kolbe's Rycerz Niepokalanej |
+| the Society of Mary / Marists | a Sociedade de Maria / os Maristas | |
+| Futuna / Wallis (islands) | Futuna / Wallis | proper geographic names kept |
+| the Cure of Ars / Cure d'Ars | o Cura d'Ars | standard Portuguese form |
+| the Blessed Sacrament / the Eucharist | o Santíssimo Sacramento / a Eucaristia | |
+| Eucharistic Congress(es) | Congresso(s) Eucarístico(s) | |
+| lay-brother | irmão leigo | |
+| the Inquisitor / the Holy Office | o Inquisidor / o Santo Ofício | |
+| Auschwitz / Gestapo / S.S. | Auschwitz / Gestapo / S.S. | kept as historical proper names/acronyms |
+
+## Translation Decisions (Mary Mazzarello–Pius V batch, 2026-09-05)
+
+- Files translated in this pass: saint-mary-mazzarello.md, saint-maximilian-kolbe.md, saint-pascal-baylon.md, saint-patrick.md, saint-peregrine-the-cancer-saint.md, saint-peter-aloysius-mary-chanel.md, saint-philip-benizi-confessor.md, saint-philip-neri.md, saint-philomena.md, saint-pius-v.md.
+- **saint-patrick.md**: the source's footnote marker ("Beside this church,*") had no corresponding footnote text in the en-US source (apparently lost in the original OCR/scan). The asterisk was preserved as-is, without inventing footnote content.
+- **saint-philomena.md**: the Latin tomb inscription "PHILOMENA PAX TECUM" / "Pax tecum! Philomena." kept in Latin, paired with the source's own translation ("A paz seja contigo! Filomena") immediately following, exactly as the source itself glosses it.
+- **saint-peregrine-the-cancer-saint.md**: this chapter is almost entirely devotional material (novena, litany, prayers for the sick, act of resignation, prayer for a happy death) rather than narrative biography. All prayers translated into natural devotional Catholic Portuguese; the litany's markdown italics for the repeated responses (*have mercy on us.* etc.) preserved exactly, with responses rendered as standard Portuguese litany formulas (*tende piedade de nós.*, *ouvi-nos.*, etc.).
+- **saint-pascal-baylon.md**: idiom "jumping from the frying pan into the fire" rendered with the equivalent Portuguese image, "é como saltar da frigideira para o fogo!" — preserves the sense and the culinary image.
+- **saint-peter-aloysius-mary-chanel.md**: the closing hymn/poem ("To Mary's son who died...") translated in full as free verse, preserving stanza breaks; the approval/copyright note for the hymn (Wellington Church Music Commission; Marist Messenger, Otaki, NZ) translated but proper names/publication kept as-is.
+- Nihil Obstat / Imprimatur blocks at the end of all ten files kept verbatim in their original Latin/English form, per project instruction.
