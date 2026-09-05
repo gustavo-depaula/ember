@@ -1,9 +1,9 @@
 # Adoro Te Devote
 
-Adoro te devote, latens Deitas, *(The Latin here has been adapted from the original Latin prayer (see “Devotional Prayers,” above), composed by Aquinas, which, according to the latest scholarship, should read: *Te devote laudo, latens veritas*.)*  
+Adoro te devote, latens Deitas, *(The Latin here has been adapted from the original Latin prayer (see “You, I Devoutly Praise,” in the “Devotional Prayers” opusculum), composed by Aquinas, which, according to the latest scholarship, should read: *Te devote laudo, latens veritas*.)*  
 quae sub his figuris *(*Te quae sub his formis*.)* vere latitas;  
 tibi se cor meum totum subiicit,  
-quia te contemplans totum deficit.  
+quia te contemplans totum deficit.
 
 - Visus, tactus, gustus in te fallitur,  
   sed auditu solo tuto *(*Tute*.)* creditur.  
