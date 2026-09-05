@@ -1,17 +1,21 @@
 {
   "id": "cts-lives-of-the-saints",
   "name": {
-    "en-US": "Lives of the Saints (CTS)"
+    "en-US": "Lives of the Saints (CTS)",
+    "pt-BR": "Vidas dos Santos (CTS)"
   },
   "author": {
-    "en-US": "Catholic Truth Society"
+    "en-US": "Catholic Truth Society",
+    "pt-BR": "Catholic Truth Society"
   },
   "description": {
-    "en-US": "Short narrative lives of the saints from the Catholic Truth Society's devotional pamphlet series — each a single authored biography written to inspire rather than catalogue. Drawn from the CTS booklets digitized at ecatholic2000.com; sermons, Marian doctrine, and novena booklets from the same series are omitted."
+    "en-US": "Short narrative lives of the saints from the Catholic Truth Society's devotional pamphlet series — each a single authored biography written to inspire rather than catalogue. Drawn from the CTS booklets digitized at ecatholic2000.com; sermons, Marian doctrine, and novena booklets from the same series are omitted.",
+    "pt-BR": "Breves biografias narrativas de santos da série de panfletos devocionais da Catholic Truth Society — cada uma escrita por um único autor para inspirar, não para catalogar. Traduzidas dos panfletos CTS digitalizados em ecatholic2000.com; sermões, doutrina mariana e novenas da mesma série foram omitidos."
   },
   "composed": "20th century",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -24,451 +28,526 @@
     {
       "id": "saint-anthony-and-you",
       "title": {
-        "en-US": "Saint Anthony and You"
+        "en-US": "Saint Anthony and You",
+        "pt-BR": "Santo Antônio e Você"
       }
     },
     {
       "id": "saint-augustine-bishop-of-hippo",
       "title": {
-        "en-US": "Saint Augustine, Bishop of Hippo"
+        "en-US": "Saint Augustine, Bishop of Hippo",
+        "pt-BR": "Santo Agostinho, Bispo de Hipona"
       }
     },
     {
       "id": "saint-benedict-abbot",
       "title": {
-        "en-US": "Saint Benedict, Abbot"
+        "en-US": "Saint Benedict, Abbot",
+        "pt-BR": "São Bento, Abade"
       }
     },
     {
       "id": "saint-bernadette",
       "title": {
-        "en-US": "St. Bernadette"
+        "en-US": "St. Bernadette",
+        "pt-BR": "Santa Bernadette"
       }
     },
     {
       "id": "saint-bernard-abbot-of-clairvaux",
       "title": {
-        "en-US": "Saint Bernard, Abbot of Clairvaux"
+        "en-US": "Saint Bernard, Abbot of Clairvaux",
+        "pt-BR": "São Bernardo, Abade de Claraval"
       }
     },
     {
       "id": "saint-brigid",
       "title": {
-        "en-US": "St. Brigid"
+        "en-US": "St. Brigid",
+        "pt-BR": "Santa Brígida"
       }
     },
     {
       "id": "saint-cajetan-or-gaetano-confessor",
       "title": {
-        "en-US": "Saint Cajetan or Gaetano, Conf."
+        "en-US": "Saint Cajetan or Gaetano, Conf.",
+        "pt-BR": "São Caetano ou Gaetano, Conf."
       }
     },
     {
       "id": "saint-camillus-de-lellis",
       "title": {
-        "en-US": "St. Camillus De Lellis"
+        "en-US": "St. Camillus De Lellis",
+        "pt-BR": "São Camilo De Lellis"
       }
     },
     {
       "id": "saint-cataldus",
       "title": {
-        "en-US": "Saint Cataldus"
+        "en-US": "Saint Cataldus",
+        "pt-BR": "São Cataldo"
       }
     },
     {
       "id": "saint-clare-of-assisi",
       "title": {
-        "en-US": "Saint Clare of Assisi"
+        "en-US": "Saint Clare of Assisi",
+        "pt-BR": "Santa Clara De Assis"
       }
     },
     {
       "id": "saint-clement-mary-hofbauer-c-ss-r",
       "title": {
-        "en-US": "Saint Clement Mary Hofbauer, C.SS.R."
+        "en-US": "Saint Clement Mary Hofbauer, C.SS.R.",
+        "pt-BR": "São Clemente Maria Hofbauer, C.SS.R."
       }
     },
     {
       "id": "saint-dominic-savio",
       "title": {
-        "en-US": "St. Dominic Savio"
+        "en-US": "St. Dominic Savio",
+        "pt-BR": "São Domingos Sávio"
       }
     },
     {
       "id": "saint-dominic-confessor",
       "title": {
-        "en-US": "Saint Dominic, Confessor"
+        "en-US": "Saint Dominic, Confessor",
+        "pt-BR": "São Domingos, Confessor"
       }
     },
     {
       "id": "saint-dymphna",
       "title": {
-        "en-US": "Saint Dymphna"
+        "en-US": "Saint Dymphna",
+        "pt-BR": "Santa Dimpna"
       }
     },
     {
       "id": "saint-edith-stein",
       "title": {
-        "en-US": "Saint Edith Stein"
+        "en-US": "Saint Edith Stein",
+        "pt-BR": "Santa Edith Stein"
       }
     },
     {
       "id": "saint-edmund-campion",
       "title": {
-        "en-US": "St. Edmund Campion"
+        "en-US": "St. Edmund Campion",
+        "pt-BR": "São Edmundo Campion"
       }
     },
     {
       "id": "saint-elizabeth-of-hungary",
       "title": {
-        "en-US": "Saint Elizabeth of Hungary"
+        "en-US": "Saint Elizabeth of Hungary",
+        "pt-BR": "Santa Isabel da Hungria"
       }
     },
     {
       "id": "eugene-de-mazenod",
       "title": {
-        "en-US": "Eugene de Mazenod"
+        "en-US": "Eugene de Mazenod",
+        "pt-BR": "Eugênio de Mazenod"
       }
     },
     {
       "id": "saint-francis-de-sales",
       "title": {
-        "en-US": "St. Francis de Sales"
+        "en-US": "St. Francis de Sales",
+        "pt-BR": "São Francisco de Sales"
       }
     },
     {
       "id": "saint-francis-of-assisi",
       "title": {
-        "en-US": "Saint Francis of Assisi"
+        "en-US": "Saint Francis of Assisi",
+        "pt-BR": "São Francisco de Assis"
       }
     },
     {
       "id": "saint-francis-xavier-s-j",
       "title": {
-        "en-US": "Saint Francis Xavier, S.J."
+        "en-US": "Saint Francis Xavier, S.J.",
+        "pt-BR": "São Francisco Xavier, S.J."
       }
     },
     {
       "id": "saint-gemma-galgani",
       "title": {
-        "en-US": "St. Gemma Galgani"
+        "en-US": "St. Gemma Galgani",
+        "pt-BR": "Santa Gemma Galgani"
       }
     },
     {
       "id": "saint-gertrude",
       "title": {
-        "en-US": "Saint Gertrude"
+        "en-US": "Saint Gertrude",
+        "pt-BR": "Santa Gertrudes"
       }
     },
     {
       "id": "saint-gregory-nazianzen-b-c",
       "title": {
-        "en-US": "Saint Gregory Nazianzen, B.C."
+        "en-US": "Saint Gregory Nazianzen, B.C.",
+        "pt-BR": "São Gregório Nazianzeno, B.C."
       }
     },
     {
       "id": "saint-ignatius-of-loyola",
       "title": {
-        "en-US": "St. Ignatius of Loyola"
+        "en-US": "St. Ignatius of Loyola",
+        "pt-BR": "Santo Inácio de Loyola"
       }
     },
     {
       "id": "saint-jean-b-m-vianney-cure-of-ars-1785-1859",
       "title": {
-        "en-US": "St. Jean (John) Vianney Cure of Ars"
+        "en-US": "St. Jean (John) Vianney Cure of Ars",
+        "pt-BR": "São João (Jean) Vianney, Cura d'Ars"
       }
     },
     {
       "id": "saint-john-bosco",
       "title": {
-        "en-US": "Saint John Bosco"
+        "en-US": "Saint John Bosco",
+        "pt-BR": "São João Bosco"
       }
     },
     {
       "id": "saint-john-fisher",
       "title": {
-        "en-US": "Saint John Fisher"
+        "en-US": "Saint John Fisher",
+        "pt-BR": "São João Fisher"
       }
     },
     {
       "id": "saint-john-francis-regis",
       "title": {
-        "en-US": "Saint John Francis Regis"
+        "en-US": "Saint John Francis Regis",
+        "pt-BR": "São João Francisco Régis"
       }
     },
     {
       "id": "saint-john-of-god",
       "title": {
-        "en-US": "Saint John of God"
+        "en-US": "Saint John of God",
+        "pt-BR": "São João de Deus"
       }
     },
     {
       "id": "saint-john-the-baptist",
       "title": {
-        "en-US": "Saint John the Baptist"
+        "en-US": "Saint John the Baptist",
+        "pt-BR": "São João Batista"
       }
     },
     {
       "id": "saint-joseph",
       "title": {
-        "en-US": "St. Joseph"
+        "en-US": "St. Joseph",
+        "pt-BR": "São José"
       }
     },
     {
       "id": "saint-joseph-cafasso",
       "title": {
-        "en-US": "Saint Joseph Cafasso"
+        "en-US": "Saint Joseph Cafasso",
+        "pt-BR": "São José Cafasso"
       }
     },
     {
       "id": "saint-joseph-calasanctius",
       "title": {
-        "en-US": "Saint Joseph Calasanctius"
+        "en-US": "Saint Joseph Calasanctius",
+        "pt-BR": "São José de Calasanz"
       }
     },
     {
       "id": "saint-jude-helper-in-great-need",
       "title": {
-        "en-US": "St. Jude Helper in Great Need"
+        "en-US": "St. Jude Helper in Great Need",
+        "pt-BR": "São Judas, Auxílio Em Grande Necessidade"
       }
     },
     {
       "id": "saint-louis-ix-king-of-france-confessor",
       "title": {
-        "en-US": "Saint Louis IX, King of France, Conf."
+        "en-US": "Saint Louis IX, King of France, Conf.",
+        "pt-BR": "São Luís IX, Rei da França, Conf."
       }
     },
     {
       "id": "saint-louise-de-marillac",
       "title": {
-        "en-US": "St. Louise de Marillac"
+        "en-US": "St. Louise de Marillac",
+        "pt-BR": "Santa Luísa de Marillac"
       }
     },
     {
       "id": "saint-lucy-of-syracuse",
       "title": {
-        "en-US": "St. Lucy"
+        "en-US": "St. Lucy",
+        "pt-BR": "Santa Luzia"
       }
     },
     {
       "id": "saint-margaret-clitherow",
       "title": {
-        "en-US": "Saint Margaret Clitherow"
+        "en-US": "Saint Margaret Clitherow",
+        "pt-BR": "Santa Margarida Clitherow"
       }
     },
     {
       "id": "saint-margaret-mary-alacoque",
       "title": {
-        "en-US": "Saint Margaret Mary Alacoque"
+        "en-US": "Saint Margaret Mary Alacoque",
+        "pt-BR": "Santa Margarida Maria Alacoque"
       }
     },
     {
       "id": "saint-margaret-of-cortona",
       "title": {
-        "en-US": "Saint Margaret of Cortona"
+        "en-US": "Saint Margaret of Cortona",
+        "pt-BR": "Santa Margarida de Cortona"
       }
     },
     {
       "id": "saint-martin-of-tours",
       "title": {
-        "en-US": "Saint Martin of Tours"
+        "en-US": "Saint Martin of Tours",
+        "pt-BR": "São Martinho de Tours"
       }
     },
     {
       "id": "saint-mary-euphrasia-pelletier",
       "title": {
-        "en-US": "Saint Mary Euphrasia Pelletier"
+        "en-US": "Saint Mary Euphrasia Pelletier",
+        "pt-BR": "Santa Maria Eufrásia Pelletier"
       }
     },
     {
       "id": "mary-mckillop",
       "title": {
-        "en-US": "Saint Mary MacKillop"
+        "en-US": "Saint Mary MacKillop",
+        "pt-BR": "Santa Mary MacKillop"
       }
     },
     {
       "id": "saint-mary-magdalen",
       "title": {
-        "en-US": "Saint Mary Magdalen"
+        "en-US": "Saint Mary Magdalen",
+        "pt-BR": "Santa Maria Madalena"
       }
     },
     {
       "id": "saint-mary-mazzarello",
       "title": {
-        "en-US": "Saint Mary Mazzarello"
+        "en-US": "Saint Mary Mazzarello",
+        "pt-BR": "Santa Maria Mazzarello"
       }
     },
     {
       "id": "saint-maximilian-kolbe",
       "title": {
-        "en-US": "Saint Maximilian Kolbe"
+        "en-US": "Saint Maximilian Kolbe",
+        "pt-BR": "São Maximiliano Kolbe"
       }
     },
     {
       "id": "padre-pio",
       "title": {
-        "en-US": "Padre Pio"
+        "en-US": "Padre Pio",
+        "pt-BR": "Padre Pio"
       }
     },
     {
       "id": "saint-pascal-baylon",
       "title": {
-        "en-US": "St. Pascal Baylon"
+        "en-US": "St. Pascal Baylon",
+        "pt-BR": "São Pascoal Baylon"
       }
     },
     {
       "id": "saint-patrick",
       "title": {
-        "en-US": "Saint Patrick"
+        "en-US": "Saint Patrick",
+        "pt-BR": "São Patrício"
       }
     },
     {
       "id": "saint-peregrine-the-cancer-saint",
       "title": {
-        "en-US": "Saint Peregrine, the Cancer Saint"
+        "en-US": "Saint Peregrine, the Cancer Saint",
+        "pt-BR": "São Peregrino, o Santo do Câncer"
       }
     },
     {
       "id": "saint-peter-aloysius-mary-chanel",
       "title": {
-        "en-US": "Saint Peter Aloysius Chanel"
+        "en-US": "Saint Peter Aloysius Chanel",
+        "pt-BR": "São Pedro Luís Chanel"
       }
     },
     {
       "id": "saint-philip-benizi-confessor",
       "title": {
-        "en-US": "Saint Philip Benizi, Conf."
+        "en-US": "Saint Philip Benizi, Conf.",
+        "pt-BR": "São Filipe Benício, Conf."
       }
     },
     {
       "id": "saint-philip-neri",
       "title": {
-        "en-US": "Saint Philip Neri"
+        "en-US": "Saint Philip Neri",
+        "pt-BR": "São Filipe Néri"
       }
     },
     {
       "id": "saint-philomena",
       "title": {
-        "en-US": "Saint Philomena"
+        "en-US": "Saint Philomena",
+        "pt-BR": "Santa Filomena"
       }
     },
     {
       "id": "saint-pius-v",
       "title": {
-        "en-US": "Saint Pius V"
+        "en-US": "Saint Pius V",
+        "pt-BR": "São Pio V"
       }
     },
     {
       "id": "saint-pius-x-460",
       "title": {
-        "en-US": "Saint Pius X Pope of the Eucharist"
+        "en-US": "Saint Pius X Pope of the Eucharist",
+        "pt-BR": "São Pio X, Papa da Eucaristia"
       }
     },
     {
       "id": "saint-pius-x",
       "title": {
-        "en-US": "Saint Pius X Scourge of Modernism"
+        "en-US": "Saint Pius X Scourge of Modernism",
+        "pt-BR": "São Pio X, Flagelo do Modernismo"
       }
     },
     {
       "id": "poet-priest-martyr",
       "title": {
-        "en-US": "Poet, Priest and Martyr"
+        "en-US": "Poet, Priest and Martyr",
+        "pt-BR": "Poeta, Sacerdote e Mártir"
       }
     },
     {
       "id": "saint-raymund-nonnatus",
       "title": {
-        "en-US": "Saint Raymond Nonnatus"
+        "en-US": "Saint Raymond Nonnatus",
+        "pt-BR": "São Raimundo Nonato"
       }
     },
     {
       "id": "saint-rita",
       "title": {
-        "en-US": "Saint Rita"
+        "en-US": "Saint Rita",
+        "pt-BR": "Santa Rita"
       }
     },
     {
       "id": "saint-rita-of-cascia",
       "title": {
-        "en-US": "Saint Rita of Cascia"
+        "en-US": "Saint Rita of Cascia",
+        "pt-BR": "Santa Rita de Cássia"
       }
     },
     {
       "id": "saint-rose-of-lima",
       "title": {
-        "en-US": "Saint Rose of Lima"
+        "en-US": "Saint Rose of Lima",
+        "pt-BR": "Santa Rosa de Lima"
       }
     },
     {
       "id": "saint-stanislaus-kostka",
       "title": {
-        "en-US": "Saint Stanislaus Kostka"
+        "en-US": "Saint Stanislaus Kostka",
+        "pt-BR": "Santo Estanislau Kostka"
       }
     },
     {
       "id": "saint-teresa-of-avila",
       "title": {
-        "en-US": "Saint Teresa of Avila"
+        "en-US": "Saint Teresa of Avila",
+        "pt-BR": "Santa Teresa de Ávila"
       }
     },
     {
       "id": "the-adventurous-nun",
       "title": {
-        "en-US": "The Adventurous Nun"
+        "en-US": "The Adventurous Nun",
+        "pt-BR": "A Freira Aventureira"
       }
     },
     {
       "id": "the-dauntless-virgin-of-siena",
       "title": {
-        "en-US": "The Dauntless Virgin of Siena"
+        "en-US": "The Dauntless Virgin of Siena",
+        "pt-BR": "A Intrépida Virgem de Siena"
       }
     },
     {
       "id": "the-life-of-saint-anthony",
       "title": {
-        "en-US": "The Life of Saint Anthony"
+        "en-US": "The Life of Saint Anthony",
+        "pt-BR": "A Vida de Santo Antônio"
       }
     },
     {
       "id": "the-life-of-saint-john-berchmans-s-j",
       "title": {
-        "en-US": "The Life of Saint John Berchmans, S.J."
+        "en-US": "The Life of Saint John Berchmans, S.J.",
+        "pt-BR": "A Vida de São João Berchmans, S.J."
       }
     },
     {
       "id": "the-martyrdom-of-saint-perpetua-and-felicitas-with-their-companions",
       "title": {
-        "en-US": "The Martyrdom of Saint Perpetua and Felicitas and Their Companions"
+        "en-US": "The Martyrdom of Saint Perpetua and Felicitas and Their Companions",
+        "pt-BR": "O Martírio de Santa Perpétua e Santa Felicidade e Seus Companheiros"
       }
     },
     {
       "id": "the-mothers-saint",
       "title": {
-        "en-US": "The Mothers' Saint"
+        "en-US": "The Mothers' Saint",
+        "pt-BR": "O Santo das Mães"
       }
     },
     {
       "id": "saint-thomas-more",
       "title": {
-        "en-US": "Saint Thomas More"
+        "en-US": "Saint Thomas More",
+        "pt-BR": "São Tomás Morus"
       }
     },
     {
       "id": "saint-vincent-pallotti",
       "title": {
-        "en-US": "Saint Vincent Pallotti"
+        "en-US": "Saint Vincent Pallotti",
+        "pt-BR": "São Vicente Pallotti"
       }
     },
     {
       "id": "saint-vincent-strambi-c-p",
       "title": {
-        "en-US": "Saint Vincent Strambi, C.P."
+        "en-US": "Saint Vincent Strambi, C.P.",
+        "pt-BR": "São Vicente Strambi, C.P."
       }
     },
     {
       "id": "saint-wenceslas",
       "title": {
-        "en-US": "Saint Wenceslas"
+        "en-US": "Saint Wenceslas",
+        "pt-BR": "São Venceslau"
       }
     }
   ]
