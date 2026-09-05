@@ -43,7 +43,19 @@ Target: pt-BR
 | Charles Savio | Carlos Savio |
 | Brigid (Savio's mother) | Brígida |
 | Pius XII | Pio XII |
+| St. Anthony (of Lisbon/Padua) | Santo Antônio (de Pádua) — distinct from St. Anthony the Hermit/Abbot, "Santo Antão" |
+| St. Catherine of Siena | Santa Catarina de Siena |
+| St. John Berchmans | São João Berchmans |
+| St. Perpetua and Felicitas | Santas Perpétua e Felicidade |
+| St. Gerard Majella | São Gerardo Majella |
+| St. Thomas More | São Tomás Moro (family surname "More"/"Roper" kept untranslated for relatives, e.g. Alice Middleton, Margaret Roper) |
+| Blessed John Fisher | Beato João Fisher |
+| St. Vincent Pallotti | São Vicente Pallotti (his "Society of the Catholic Apostolate" → "Sociedade do Apostolado Católico") |
+| St. Vincent Strambi | São Vicente Strambi |
+| St. Wenceslas | São Venceslau (Czech names — Drahomira, Ludmila, Boleslau, Bořivoj — kept in standard transliterated forms) |
+| Bohemia | Boêmia |
 
 ## Translation Decisions
 
 - (seed) No editor footnotes present in this book — no drop/keep decision needed.
+- **the-adventurous-nun.md**: the source quotes the historical slur "nigger-lovers" (1960s U.S. civil-rights usage) as reported speech describing how such activists were labelled, paralleling the period term "negrophiles" used of Bl. Anne-Marie Javouhey. Rendered descriptively as "amantes de negros" rather than importing an equivalent Portuguese slur — preserves the passage's point (that defending persecuted people invites ugly labels) without reproducing a slur. Kept in quotes as reported speech, same as the source.
