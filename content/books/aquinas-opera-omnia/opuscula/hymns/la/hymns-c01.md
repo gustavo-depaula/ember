@@ -1,4 +1,4 @@
-# Sing, My Tongue
+# Pange Lingua
 
 ***Pange, lingua, gloriosi***
 ***Corporis mysterium,***
@@ -37,4 +37,3 @@
   sit et benedictio,  
   procedentis ab utroque  
   compar sit laudatio. Amen.
-- {modern chant_Pange}

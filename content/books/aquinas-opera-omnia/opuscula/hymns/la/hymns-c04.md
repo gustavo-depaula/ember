@@ -1,4 +1,4 @@
-# Praise, O Zion
+# Lauda Sion Salvatorem
 
 ***Lauda Sion salvatorem***
 ***lauda ducem et pastorem***
@@ -81,4 +81,3 @@
   tu nos *(BNF 1143 reads *tuos* instead of *tu nos*.)* ibi commensales,  
   coheredes, et sodales  
   fac sanctorum civium. Amen.
-- {modern chant_Lauda}

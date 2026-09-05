@@ -1,4 +1,4 @@
-# Let This Our Solemn Feast
+# Sacris Solemniis
 
 ***Sacris solemniis iuncta sint gaudia,***
 ***et ex praecordiis sonent praeconia***
@@ -29,4 +29,3 @@
   sicut nos visitas, sicut te colimus:  
   per tuas semitas duc nos quo tendimus,  
   ad lucem quam inhabitas. Amen.
-- {modern chant_Sacris}

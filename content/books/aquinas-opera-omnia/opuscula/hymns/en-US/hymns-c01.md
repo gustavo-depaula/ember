@@ -18,7 +18,7 @@
   wondrously his life of woe.
 - On the night of that last supper,  
   seated with his chosen band,  
-  he the pascal victim eating,  
+  he the paschal victim eating,  
   first fulfills the law’s command;  
   then as food to his apostles  
   gives himself with his own hand.
