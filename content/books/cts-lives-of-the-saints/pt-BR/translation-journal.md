@@ -270,3 +270,61 @@ Target: pt-BR
 - **saint-francis-de-sales.md**: subheadings translated as section headings (e.g. "University Life, Paris And Padua" → "A Vida Universitária, Paris e Pádua"); one garbled OCR line ("The chief events of these years at Annecy were his First Communion and his receiving the tonsure. His father") was reconstructed by moving "His father" to begin the next paragraph, where it grammatically belongs ("Seu pai confessou à mãe dele...").
 - **saint-francis-xavier-s-j.md**: "Mahometans"/"Moslems" rendered as "muçulmanos" (modern term), consistent with the project's stated policy of modernizing only where the original term would be confusing or offensive to a modern reader; noted here as such an instance.
 - Nihil Obstat / Imprimatur blocks (present only in saint-gertrude.md and saint-jean-b-m-vianney-cure-of-ars-1785-1859.md among this batch) kept verbatim in their original Latin/English form, per project instruction.
+
+## Additional Key Terms (Pius X ×2/Raymund Nonnatus/Rita ×2/Rose of Lima/Stanislaus Kostka/Teresa of Avila/Thomas More/Vincent Pallotti/Vincent Strambi batch, 2026-09-05)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| St Pius X | São Pio X | two independent articles translated separately: "Pope of the Eucharist" (narrative/fictional-frame pamphlet) and "Scourge of Modernism" (biographical, by Mons. Carroll Abbing) — kept as distinct pieces, not merged |
+| Giuseppe Sarto | Giuseppe Sarto | Italian given name/surname kept; the English pun "Sarto"="Tailor" explained inline in the narrative ("Sarto being the Italian for Tailor") since Portuguese has no equivalent pun; the "Santo"/"Sarto" wordplay with the English lady is preserved as-is (works in Portuguese too: "Sarto" vs "Santo") |
+| Motu Proprio (on church music) | *Motu Proprio* | kept in Latin |
+| Pascendi (dominici gregis) | *Pascendi* / *Pascendi Dominici Gregis* | kept in Latin, encyclical title |
+| Haerent Animo | *Haerent Animo* | kept in Latin, encyclical title |
+| Ne Temere | *Ne Temere* | kept in Latin, decree title |
+| Quam Singulari | *Quam Singulari* | kept in Latin, decree title |
+| Instaurare Omnia In Christo | *Instaurare Omnia In Christo* ("Restaurar todas as coisas em Cristo") | Pius X's motto, kept in Latin with translation |
+| Habemus Pontificem | *Habemus Pontificem* | kept in Latin |
+| St Raymund Nonnatus | São Raimundo Nonato | "non natus" (not born) kept in italic Latin as in source, explaining the etymology of his name |
+| Our Lady of Mercy / Mercedarian Order | Nossa Senhora da Misericórdia / Ordem Mercedária (Mercedários) | |
+| St Peter Nolasco | São Pedro Nolasco | |
+| St Rita of Cascia / Cascia | Santa Rita de Cássia / Cássia | two independent articles on St Rita translated separately ("Saint Rita of Cascia" — shorter, devotional, with novena/litany — and "Saint Rita" — longer, narrative/historical by an unnamed author) |
+| Roccaporena | Roccaporena | Italian place name kept unchanged |
+| St Rose of Lima | Santa Rosa de Lima | |
+| St Turibius (of Mogrovejo) | São Turíbio | Archbishop of Lima |
+| St Catherine of Siena | Santa Catarina de Sena | |
+| the Third Order of St Dominic | a Terceira Ordem de São Domingos | |
+| St Stanislaus Kostka | São Estanislau Kostka | |
+| St Peter Canisius | São Pedro Canísio | consistent with earlier batch |
+| St Francis Borgia | São Francisco de Bórgia | note: earlier batch (Ignatius of Loyola) used "São Francisco de Borja" — this batch used "de Bórgia" as it appears as Jesuit Superior General in the Stanislaus Kostka narrative; flagging inconsistency for a future consistency pass |
+| St Teresa of Avila / Teresa of Jesus | Santa Teresa de Ávila / Teresa de Jesus | her religious name after founding the reform, kept as "Teresa de Jesus" where the source itself switches |
+| the Incarnation (monastery) | a Encarnação / o Mosteiro da Encarnação | |
+| Discalced/Barefooted Carmelites | Carmelitas Descalças/Descalços | consistent with earlier batch |
+| St Peter of Alcantara | São Pedro de Alcântara | |
+| St John of the Cross | São João da Cruz | |
+| the Book of the Foundations | o Livro das Fundações / *Fundações* | Teresa's own book, cited with book/chapter/section references kept as in source (Found., II, 6 etc. rendered as *Fund.*, II, 6) |
+| St Thomas More | São Tomás Morus | classical Portuguese form "Morus" used (not "More"), per established convention for this saint in Portuguese hagiography |
+| Bl. John Fisher | Beato João Fisher | consistent with earlier batch's "São João Fisher" note — kept as "Beato" here since this text predates his canonization (written pre-1935, per its own editorial note) |
+| Utopia / Dialogue of Comfort against Tribulation | *Utopia* / *Diálogo de Conforto contra a Tribulação* | titles kept in italics |
+| the Tower (of London) | a Torre (de Londres) | consistent with earlier batch |
+| Act of Supremacy / Act of Succession | Ato de Supremacia / Ato de Sucessão | consistent with earlier batch |
+| Indignatio principis mors | *Indignatio principis mors* ("A ira do príncipe é a morte") | Latin tag kept with translation, as source itself glosses it in a footnote |
+| Quod differtur, non aufertur | *Quod differtur, non aufertur* ("o perigo é apenas adiado") | Latin tag kept with translation in parentheses |
+| St Vincent Pallotti | São Vicente Pallotti | Italian surname kept |
+| Society of the Catholic Apostolate (SAC) | Sociedade do Apostolado Católico (SAC) | consistent with intended future use — this is the founding text for this term |
+| Union of St Paul | União de São Paulo | society for soldiers' welfare |
+| St Vincent Strambi, C.P. | São Vicente Strambi, C.P. | |
+| the Passionists / Congregation of the Passion | os Passionistas / Congregação da Paixão | |
+| St Paul of the Cross | São Paulo da Cruz | founder of the Passionists |
+| la mamma della misericordia | *"la mamma della misericordia"* | kept in Italian, untranslatable epithet, as source itself presents it untranslated |
+| Pius VI / Pius VII / Leo XII | Pio VI / Pio VII / Leão XII | |
+
+## Translation Decisions (Pius X ×2–Vincent Strambi batch, 2026-09-05)
+
+- Files translated in this pass: saint-pius-x-460.md, saint-pius-x.md, saint-raymund-nonnatus.md, saint-rita-of-cascia.md, saint-rita.md, saint-rose-of-lima.md, saint-stanislaus-kostka.md, saint-teresa-of-avila.md, saint-thomas-more.md, saint-vincent-pallotti.md, saint-vincent-strambi-c-p.md.
+- **saint-pius-x-460.md vs saint-pius-x.md**: these are two genuinely independent CTS articles about the same saint, confirmed by distinct titles ("Pope of the Eucharist" — a fictional-frame story told by a parish priest to a family — vs "Scourge of Modernism" — straight biography by Mons. Carroll Abbing), distinct authors, distinct Nihil Obstat dates (1954 Melbourne vs 1962 Dublin), and substantial differences in content and structure. Translated independently, not merged or cross-referenced, per instructions.
+- **saint-rita-of-cascia.md vs saint-rita.md**: likewise two independent articles — "Saint Rita of Cascia" is the shorter CTS-pamphlet-style piece ending in a novena and a full Litany of St Rita; "Saint Rita" is the longer narrative/historical piece (unsigned, Nihil Obstat 1935, Ireland) with a "Prayer to Saint Rita" and "Novena to Saint Rita" at the end, distinct from the first article's prayers. Both fully translated, prayers and litany rendered in full in devotional Portuguese, kept as separate files with no cross-borrowing of text.
+- Footnote markers in saint-rose-of-lima.md (numbered ¹–¹⁶, referencing Scripture verses, a biography by F. M. Capes, and hymns for the saint's feast) were kept as a numbered list of source notes at the end of the file (not dropped) since they are the original author's own citations, not a later editor's apparatus.
+- In saint-teresa-of-avila.md, extensive first-person quotations from St Teresa's own writings (autobiography, *Book of the Foundations*) were translated into natural Portuguese first-person prose rather than reproducing archaic Lewis-translation English syntax.
+- In saint-thomas-more.md, Roper's Tudor-English quotations (More's household life, trial, execution) were rendered into elevated but readable modern Portuguese, preserving the wit and warmth of More's recorded sayings ("Não confieis em príncipes", "É esta casa tão perto do céu quanto a minha própria?", etc.) rather than an archaic pastiche.
+- Miracle accounts and testimonies (Vincent Pallotti's canonization miracles, Pius X's healings) translated with direct-quotation medical/witness testimony kept in first person, matching the source's documentary style.
+- Nihil Obstat / Imprimatur blocks at the end of all eleven files kept verbatim in their original Latin/English form (including untranslated bishop titles and dates), per project instruction.
