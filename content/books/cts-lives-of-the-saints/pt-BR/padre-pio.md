@@ -365,7 +365,17 @@ Padre Pio pode dizer-vos exatamente quantas vezes deixastes de ir à Missa, quan
 
 Se ele às vezes é severo, é porque muitas pessoas se aproximam do confessionário levianamente, sem dar ao sacramento sua verdadeira importância; ou, o que mais o incomoda, quando as pessoas vêm a ele apenas para testar sua aparente onisciência. Não aconselho ninguém a tentar isso, pois, além de ofender o Padre, que é o intermediário entre o homem e Deus, e cujo papel é ajudar-nos a recuperar nosso estado de graça, isso causa uma grave ofensa a Deus Todo-Poderoso.
 
-Só depois de receber a absolvição é que o penitente pode pedir ao Padre aquilo que tanto deseja. É então que o Padre promete rezar: pela recuperação de alguém querido — por uma operação bem-sucedida — para que uma criança presumida perdida volte em segurança — por um menino ou uma menina ainda não nascida — pela garantia de que certo acontecimento venha ou não a se dar — por um exame bem-sucedido.
+Só depois de receber a absolvição é que o penitente pode pedir ao Padre aquilo que tanto deseja. É então que o Padre promete rezar: pela recuperação de alguém querido —
+
+- por uma operação bem-sucedida
+
+- para que uma criança presumida perdida volte em segurança
+
+- por um menino ou uma menina ainda não nascida
+
+- pela garantia de que certo acontecimento venha ou não a se dar
+
+- por um exame bem-sucedido
 
 Quando Padre Pio deixa o confessionário, seu passo é mais lento e ele parece muito cansado; é como se, além de sua própria cruz, carregasse as das almas que trouxe de volta a Deus.
 

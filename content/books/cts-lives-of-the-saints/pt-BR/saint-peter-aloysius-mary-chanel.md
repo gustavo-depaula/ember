@@ -140,7 +140,7 @@ E Niuliki, como rei e sumo sacerdote, em quem se supunha habitar o mais poderoso
 
 Eis a conversa, jurada por uma testemunha nativa no processo de beatificação, entre Niuliki e Musumusu:
 
-Niuliki: "Vindes aqui perguntar-me o que fazer; fazei o que quiserdes. Amo este homem (o Padre Chanel), pois vivi com ele. Não vos digo que o firáis; mas não me oponho a que o firáis. Fazei o que quiserdes."
+Niuliki: "Vindes aqui perguntar-me o que fazer; fazei o que quiserdes. Amo este homem (o Padre Chanel), pois vivi com ele. Não vos digo que o firais; mas não me oponho a que o firais. Fazei o que quiserdes."
 
 Musumusu: "Ficai tranquilo; deixai o assunto conosco, e agiremos segundo nossa vontade."
 
@@ -222,7 +222,7 @@ Viver e morrer em teu amor.
 
 Cópias deste hino (letra do Rev. Kevin Maher, S.M., música do Rev. E. E. Kimbell, S.M.) podem ser obtidas gratuitamente mediante solicitação ao Marist Messenger, Otaki, Nova Zelândia.
 
-## O Corpo de Pedro Chanel Na Austrália
+O Corpo de Pedro Chanel Na Austrália
 
 Dando à Austrália uma ligação mais íntima com um santo canonizado. POR J. GORINSKI, S.M.
 

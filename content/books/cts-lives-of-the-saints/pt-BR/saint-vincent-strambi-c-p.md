@@ -126,6 +126,6 @@ W. M. COLLINS, Censor Dioc.
 
 Imprimatur:
 
-@ D. Mannix,
+## @ D. Mannix,
 
 Archiepiscopus Melbournensis. 1st March, 1949.

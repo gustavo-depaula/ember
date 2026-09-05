@@ -28,55 +28,55 @@ Renomados psiquiatras atestam que um número surpreendentemente grande de pacien
 
 ### Ladainha de Santa Dinfna
 
-Senhor, *tende piedade de nós.*
-Cristo, *tende piedade de nós.*
-Senhor, *tende piedade de nós.*
-Cristo, *ouvi-nos.*
-Deus Pai do Céu, *tende piedade de nós.*
-Deus Filho, Redentor do mundo, *tende piedade de nós.*
-Deus Espírito Santo, *tende piedade de nós.*
-Santíssima Trindade, um só Deus, *tende piedade de nós.*
-Santa Maria, virgem e Mãe de Deus, *rogai por nós.*
-Saúde dos enfermos, *rogai por nós.*
-Consoladora dos aflitos, *rogai por nós.*
-Auxílio dos cristãos, *rogai por nós.*
-Santa Dinfna, virgem e mártir, *rogai por nós.*
-Santa Dinfna, filha de pais reais, *rogai por nós.*
-Santa Dinfna, criança de grande beleza de alma e de corpo, *rogai por nós.*
-Santa Dinfna, dócil aos ensinamentos de tua piedosa mãe, *rogai por nós.*
-Santa Dinfna, obediente a teu santo confessor, *rogai por nós.*
-Santa Dinfna, que abandonaste a corte de teu pai para escapar ao perigo da impureza, *rogai por nós.*
-Santa Dinfna, que escolheste uma vida de pobreza na terra para juntar tesouros no céu, *rogai por nós.*
-Santa Dinfna, que buscaste força e consolo na Santa Missa, na Sagrada Comunhão e na oração, *rogai por nós.*
-Santa Dinfna, ardente amante do divino Esposo, *rogai por nós.*
-Santa Dinfna, devota da Mãe de Deus, *rogai por nós.*
-Santa Dinfna, decapitada pelo teu próprio pai, *rogai por nós.*
-Santa Dinfna, mártir da santa pureza, *rogai por nós.*
-Santa Dinfna, brilhante exemplo da juventude cristã, *rogai por nós.*
-Santa Dinfna, célebre por muitos milagres, *rogai por nós.*
-Santa Dinfna, glória da Irlanda e da Bélgica, *rogai por nós.*
-Santa Dinfna, cheia de compaixão pelos necessitados, *rogai por nós.*
-Santa Dinfna, protetora contra todos os distúrbios nervosos e mentais, *rogai por nós.*
-Santa Dinfna, consoladora dos aflitos, *rogai por nós.*
-Santa Dinfna, amiga dos desamparados, *rogai por nós.*
-Santa Dinfna, consoladora dos desalentados, *rogai por nós.*
-Santa Dinfna, luz daqueles em trevas mentais, *rogai por nós.*
-Santa Dinfna, padroeira dos que sofrem de doenças nervosas e mentais, *rogai por nós.*
-Para que amemos o Senhor nosso Deus de todo o coração e sobre todas as coisas, *nós vos rogamos, ouvi-nos.*
-Para que odiemos o pecado e evitemos todas as suas ocasiões, *nós vos rogamos, ouvi-nos.*
-Para que preservemos cuidadosamente a virtude da pureza segundo o nosso estado, *nós vos rogamos, ouvi-nos.*
-Para que recebamos os sacramentos com frequência, *nós vos rogamos, ouvi-nos.*
-Para que obtenhamos o espírito de oração, *nós vos rogamos, ouvi-nos.*
-Para que sejamos humildes e obedientes, resignando-nos à santa vontade de Deus, *nós vos rogamos, ouvi-nos.*
-Para que aprendamos a confiar em Deus em nossas aflições, *nós vos rogamos, ouvi-nos.*
-Para que obtenhamos a graça da perseverança final, *nós vos rogamos, ouvi-nos.*
-Nos momentos de tentação, *nós vos rogamos, ouvi-nos.*
-Em tempos de doença, enfermidade, guerra e perseguição, *nós vos rogamos, ouvi-nos.*
-Em nossa última enfermidade, *nós vos rogamos, ouvi-nos.*
-Na hora da morte, *nós vos rogamos, ouvi-nos.*
-Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos, Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*
+Cristo, *tende piedade de nós.*  
+Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
+Cristo, *ouvi-nos.*  
+Deus Pai do Céu, *tende piedade de nós.*  
+Deus Filho, Redentor do mundo, *tende piedade de nós.*  
+Deus Espírito Santo, *tende piedade de nós.*  
+Santíssima Trindade, um só Deus, *tende piedade de nós.*  
+Santa Maria, virgem e Mãe de Deus, *rogai por nós.*  
+Saúde dos enfermos, *rogai por nós.*  
+Consoladora dos aflitos, *rogai por nós.*  
+Auxílio dos cristãos, *rogai por nós.*  
+Santa Dinfna, virgem e mártir, *rogai por nós.*  
+Santa Dinfna, filha de pais reais, *rogai por nós.*  
+Santa Dinfna, criança de grande beleza de alma e de corpo, *rogai por nós.*  
+Santa Dinfna, dócil aos ensinamentos de tua piedosa mãe, *rogai por nós.*  
+Santa Dinfna, obediente a teu santo confessor, *rogai por nós.*  
+Santa Dinfna, que abandonaste a corte de teu pai para escapar ao perigo da impureza, *rogai por nós.*  
+Santa Dinfna, que escolheste uma vida de pobreza na terra para juntar tesouros no céu, *rogai por nós.*  
+Santa Dinfna, que buscaste força e consolo na Santa Missa, na Sagrada Comunhão e na oração, *rogai por nós.*  
+Santa Dinfna, ardente amante do divino Esposo, *rogai por nós.*  
+Santa Dinfna, devota da Mãe de Deus, *rogai por nós.*  
+Santa Dinfna, decapitada pelo teu próprio pai, *rogai por nós.*  
+Santa Dinfna, mártir da santa pureza, *rogai por nós.*  
+Santa Dinfna, brilhante exemplo da juventude cristã, *rogai por nós.*  
+Santa Dinfna, célebre por muitos milagres, *rogai por nós.*  
+Santa Dinfna, glória da Irlanda e da Bélgica, *rogai por nós.*  
+Santa Dinfna, cheia de compaixão pelos necessitados, *rogai por nós.*  
+Santa Dinfna, protetora contra todos os distúrbios nervosos e mentais, *rogai por nós.*  
+Santa Dinfna, consoladora dos aflitos, *rogai por nós.*  
+Santa Dinfna, amiga dos desamparados, *rogai por nós.*  
+Santa Dinfna, consoladora dos desalentados, *rogai por nós.*  
+Santa Dinfna, luz daqueles em trevas mentais, *rogai por nós.*  
+Santa Dinfna, padroeira dos que sofrem de doenças nervosas e mentais, *rogai por nós.*  
+Para que amemos o Senhor nosso Deus de todo o coração e sobre todas as coisas, *nós vos rogamos, ouvi-nos.*  
+Para que odiemos o pecado e evitemos todas as suas ocasiões, *nós vos rogamos, ouvi-nos.*  
+Para que preservemos cuidadosamente a virtude da pureza segundo o nosso estado, *nós vos rogamos, ouvi-nos.*  
+Para que recebamos os sacramentos com frequência, *nós vos rogamos, ouvi-nos.*  
+Para que obtenhamos o espírito de oração, *nós vos rogamos, ouvi-nos.*  
+Para que sejamos humildes e obedientes, resignando-nos à santa vontade de Deus, *nós vos rogamos, ouvi-nos.*  
+Para que aprendamos a confiar em Deus em nossas aflições, *nós vos rogamos, ouvi-nos.*  
+Para que obtenhamos a graça da perseverança final, *nós vos rogamos, ouvi-nos.*  
+Nos momentos de tentação, *nós vos rogamos, ouvi-nos.*  
+Em tempos de doença, enfermidade, guerra e perseguição, *nós vos rogamos, ouvi-nos.*  
+Em nossa última enfermidade, *nós vos rogamos, ouvi-nos.*  
+Na hora da morte, *nós vos rogamos, ouvi-nos.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos, Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*  
 V. *Rogai por nós, Santa Dinfna.*
 
 R. Para que sejamos feitos dignos das promessas de Cristo.

@@ -58,7 +58,7 @@ Mais tarde, Maria e Petronilla costumavam reunir as jovens aos domingos no páti
 
 ## Dom Bosco Vem A Mornese
 
-No fim do verão de 1864, o próprio Dom Bosco veio a Mornese, trazendo consigo alguns de seus meninos e a banda do Oratório de Turim. A cidade compareceu em massa para dar ao grupo uma acolhida real, e os habitantes ajudaram a hospedar e alimentar o grupo durante sua estadia em Mornese. Dom Bosco falou às Filhas de Maria e manifestou surpresa por encontrar naquela gente simples do campo tal desapego das coisas mundanas e tanto entusiasmo pelas coisas celestiais. Partiu após uma estadia de quatro dias, mas não sem antes prometer enviar seus Salesianos para dirigir uma escola de meninos que seria construída em Mornese. O Padre Pestarino bento a pedra fundamental dessa escola, na presença de todos os habitantes da cidade, em 1865, e Dom Bosco enviou de Turim um representante especial para a cerimônia.
+No fim do verão de 1864, o próprio Dom Bosco veio a Mornese, trazendo consigo alguns de seus meninos e a banda do Oratório de Turim. A cidade compareceu em massa para dar ao grupo uma acolhida real, e os habitantes ajudaram a hospedar e alimentar o grupo durante sua estadia em Mornese. Dom Bosco falou às Filhas de Maria e manifestou surpresa por encontrar naquela gente simples do campo tal desapego das coisas mundanas e tanto entusiasmo pelas coisas celestiais. Partiu após uma estadia de quatro dias, mas não sem antes prometer enviar seus Salesianos para dirigir uma escola de meninos que seria construída em Mornese. O Padre Pestarino abençoou a pedra fundamental dessa escola, na presença de todos os habitantes da cidade, em 1865, e Dom Bosco enviou de Turim um representante especial para a cerimônia.
 
 
 ## Vida Em Comunidade

@@ -188,6 +188,6 @@ W. M. COLLINS Censor Deputatus
 
 Imprimatur:
 
-@ D. Mannix,
+## @ D. Mannix,
 
 Archiepiscopus Melbournensis 4th January. 1957

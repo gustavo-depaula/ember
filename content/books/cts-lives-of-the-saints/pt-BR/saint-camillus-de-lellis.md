@@ -187,7 +187,7 @@ Camilo foi o espírito motor por trás de tudo isso. Além do mais, ocupou-se em
 
 Por sete anos laboriosos e fecundos, o fundador carregou o peso principal; e sentindo que a velhice e as crescentes enfermidades guerreavam com urgência contra o seu espírito valoroso, renunciou ao cargo de Geral da Ordem. Sua carta circular foi preservada: 'Muito Reverendos Padres, — Para minha grande alegria, renunciei ao Generalato; espero que seja para a glória de Deus, o bem da Ordem, e o meu próprio bem em particular. Deveis unir-vos a mim em agradecer ao Senhor, e em orar para que eu colha o fruto deste passo que o nosso Divino Salvador deseja. Continuo sendo para vós o pai amoroso que sempre fui. Deus vos abençoe.
 
-'Vosso Irmão em Cristo, com todo o respeito,
+'Vosso Irmão em Cristo,
 
 
 ## 'Camilo De Lellis.
@@ -221,7 +221,7 @@ No sábado, 12 de julho, encontraram-no afundando lentamente. Falava como um anj
 
 Amanheceu segunda-feira — o seu último dia sobre a terra. A Missa foi celebrada em seu quarto, como de costume. Foi uma Missa estranhamente solene, pois o Santo, por duas vezes, orou em voz alta: 'Orai, orai fervorosamente, para que o Senhor me salve!' E, novamente, na Elevação, exclamou: 'Ó Senhor! tende misericórdia de mim, pelo Vosso Precioso Sangue!'
 
-Ao meio-dia, fez um esforço para juntar-se ao 'Angelus', e, percebendo que a língua estava quase paralisada, pediu aos Padres que se revezassem, dizendo orações e ladainhas junto a ele. A tarde o encontrou detido em paz e oração. Às 10 horas da noite, subitamente estendeu os braços em forma de cruz. Os assistentes começaram a recomendação da alma que partia, e, com as palavras 'Preciosíssimo Sangue! Jesus! Maria! Adorável Trindade! São Miguel!' nos lábios, ele se recostou suavemente, e fechou os olhos para sempre, com um sorriso feliz, enquanto o Padre Ministro pronunciava a invocação: 'Que Jesus Cristo te apareça com um rosto suave e alegre.' O Santo, cuja coroa era brilhante do ouro purísssimo da caridade, se apresentou diante Daquele que havia guiado o seu fiel servo por muitos caminhos espinhosos, através da apelativa súplica pelos que sofrem: 'Tudo o que fizerdes a um dos menores dentre estes, a Mim o fazeis.'
+Ao meio-dia, fez um esforço para juntar-se ao 'Angelus', e, percebendo que a língua estava quase paralisada, pediu aos Padres que se revezassem, dizendo orações e ladainhas junto a ele. A tarde o encontrou detido em paz e oração. Às 10 horas da noite, subitamente estendeu os braços em forma de cruz. Os assistentes começaram a recomendação da alma que partia, e, com as palavras 'Preciosíssimo Sangue! Jesus! Maria! Adorável Trindade! São Miguel!' nos lábios, ele se recostou suavemente, e fechou os olhos para sempre, com um sorriso feliz, enquanto o Padre Ministro pronunciava a invocação: 'Que Jesus Cristo te apareça com um rosto suave e alegre.' O Santo, cuja coroa era brilhante do ouro puríssimo da caridade, se apresentou diante Daquele que havia guiado o seu fiel servo por muitos caminhos espinhosos, através da apelativa súplica pelos que sofrem: 'Tudo o que fizerdes a um dos menores dentre estes, a Mim o fazeis.'
 
 Era o dia 14 de julho de 1614 — o sexagésimo quinto ano da vida do Santo, e o quadragésimo depois de sua conversão. Foi canonizado pelo Papa Bento XIV, que ordenou que sua festa fosse celebrada em 18 de julho.
 

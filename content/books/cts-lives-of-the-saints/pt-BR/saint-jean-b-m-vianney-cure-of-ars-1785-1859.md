@@ -1,6 +1,6 @@
 # São João Maria Vianney, Cura d'Ars
 
-## Por Lady Herbert
+Por Lady Herbert
 
 JOÃO BATISTA MARIA VIANNEY nasceu em 1785, em Dardilly, uma aldeia não muito distante de Lyon. Seus pais eram pessoas respeitáveis e piedosas, da classe dos lavradores. Sua mãe se distinguia especialmente por seu profundo e intenso sentimento religioso, e era ao seu ensinamento que o Sr. Vianney costumava dizer que devia todas as suas mais santas impressões. Mas, desde criança, o pequeno João Maria era notável por sua bondade e seu amor a Deus. A oração era seu deleite, mesmo aos quatro anos, quando, certa vez, dando por sua falta, o encontraram de joelhos num canto do estábulo. Sua amorosa mãe ia todas as manhãs, ela mesma, acordar os filhos, para que pudesse fazê-los oferecer seus pequenos corações a Deus, e assegurar que esse fosse o primeiro pensamento deles. Quando viu a extraordinária devoção de seu filhinho, sua única ideia foi que ele um dia se tornasse sacerdote. Mas teve muitas provações a atravessar antes que essa esperança pudesse se realizar. Primeiro veio a Revolução Francesa, que varreu tanto o trono quanto o altar. A igreja paroquial deles foi fechada — seus sacerdotes exilados ou assassinados. Raras e distantes entre si eram as benditas ocasiões em que os fiéis eram convocados a algum esconderijo cuidadosamente guardado, onde a Missa era dita por algum sacerdote fugitivo, com risco de sua vida e da deles.
 

@@ -58,7 +58,7 @@ buscaram eles a Terra Prometida?
 Um segundo Moisés, decerto, foi quem tudo isso fez.
 Foi. Um segundo Moisés de touca e de xale."
 
-Talvez sua maior e mais duradoura realização tenha sido o restabelecimento da dignidade da condição feminina após a degradação da era dos condenados. Sem posição ou riqueza, e com apoio muito escasso, ela instalou cerca de 11.000 mulheres em segurança e independência; e, desde o dia em que dedicou seus "talentos ao Deus que os deu", recusou-se firmemente a qualquer recompensa por seu trabalho.*
+Talvez sua maior e mais duradoura realização tenha sido o restabelecimento da dignidade da condição feminina após a degradação da era dos condenados. Sem posição ou riqueza, e com apoio muito escasso, ela instalou cerca de 11.000 mulheres em segurança e independência; e, desde o dia em que dedicou seus "talentos ao Deus que os deu", recusou-se firmemente a qualquer recompensa por seu trabalho.
 
 Caroline Chisholm teria sido uma hóspede muito honrada na casa em Darebin. Suas maiores realizações estavam em processo de desenvolvimento. Para a jovem Mary, então no início da adolescência, a personalidade, o entusiasmo ardente da visitante, deixaram uma impressão duradoura. É impossível não chegar à conclusão de que Caroline Chisholm foi um instrumento da Divina Providência na formação da vocação da jovem, precisamente no momento em que ela devia estar despertando em seu coração.
 
