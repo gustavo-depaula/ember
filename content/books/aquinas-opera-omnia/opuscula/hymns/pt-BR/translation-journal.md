@@ -10,7 +10,7 @@ Target: pt-BR
 | Sacramentum | Sacramento | |
 | latens Deitas | Deus escondido | Adoro Te Devote, hymns-c05 |
 | panis angelicus | Pão dos Anjos | |
-| Genitori, Genitoque | ao Pai e ao Filho gerado | Trinitarian doxology, hymns-c01/c04-style closing |
+| Genitori, Genitoque | ao Pai e ao Filho gerado | Trinitarian doxology, hymns-c01's closing stanza |
 | trina Deitas unaque | Deus uno e trino | |
 | virtù (it.) | virtude | hymns-c06 |
 | diletto (it.) | deleite | hymns-c06 |
