@@ -216,3 +216,57 @@ Target: pt-BR
 - **saint-pascal-baylon.md**: idiom "jumping from the frying pan into the fire" rendered with the equivalent Portuguese image, "é como saltar da frigideira para o fogo!" — preserves the sense and the culinary image.
 - **saint-peter-aloysius-mary-chanel.md**: the closing hymn/poem ("To Mary's son who died...") translated in full as free verse, preserving stanza breaks; the approval/copyright note for the hymn (Wellington Church Music Commission; Marist Messenger, Otaki, NZ) translated but proper names/publication kept as-is.
 - Nihil Obstat / Imprimatur blocks at the end of all ten files kept verbatim in their original Latin/English form, per project instruction.
+
+## Additional Key Terms (Francis de Sales/Francis of Assisi/Francis Xavier/Gemma Galgani/Gertrude/Gregory Nazianzen/Ignatius of Loyola/Jean Vianney batch, 2026-09-05)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| St Francis de Sales | São Francisco de Sales | |
+| St Jane (Frances) de Chantal | Santa Joana Francisca de Chantal | referred to variously as "St Jane Frances" / "Madame de Chantal" in source; unified per context |
+| the Introduction to a Devout Life | *Introdução à Vida Devota* | |
+| Treatise on the Love of God | *Tratado do Amor de Deus* | |
+| the Visitation (Order) | a Visitação | |
+| St Francis of Assisi | São Francisco de Assis | |
+| St Clare (of Assisi) | Clara / Santa Clara | |
+| the Portiuncula / St Mary of the Angels | a Porciúncula / Santa Maria dos Anjos | |
+| fratres minores (Little Brothers) | *fratres minores* | kept in Latin, as the source itself glosses it |
+| Brother Elias / Brother Leo / Brother Bernard | Irmão Elias / Irmão Leão / Irmão Bernardo | |
+| Canticle of Brother Sun | Cântico do Irmão Sol | |
+| St Francis Xavier, S.J. | São Francisco Xavier, S.J. | |
+| the Society of Jesus / Jesuits | a Companhia de Jesus / jesuítas | |
+| the Spiritual Exercises | os Exercícios Espirituais | |
+| Malacca / Goa / Cape Comorin | Malaca / Goa / Cabo Comorim | |
+| the Indulgence of the Portiuncula | a Indulgência da Porciúncula | |
+| St Gemma Galgani | Santa Gemma Galgani | first name kept as "Gemma" (not Hispanicized to "Gema"), matching standard Portuguese usage for this saint |
+| St Gabriel (of Our Lady of Sorrows), Passionist | São Gabriel da Virgem Dolorosa | Passionist novice-saint who directed Gemma from beyond the grave in her account |
+| the Giannini family | a família Giannini | Italian surname kept as-is |
+| St Gertrude (the Great) | Santa Gertrudes | |
+| St Mechtilde (of Hackeborn) | Santa Matilde | |
+| the Herald of Divine Love | *O Arauto do Divino Amor* | |
+| the Book of Special Grace | *O Livro da Graça Especial* | |
+| the Sacred Heart | o Sagrado Coração | consistent with earlier batch |
+| Helfta | Helfta | German place name kept as-is |
+| St Gregory Nazianzen | São Gregório Nazianzeno | |
+| the Theologian (epithet of Gregory) | o Teólogo | |
+| St Basil (the Great) | São Basílio | |
+| Julian the Apostate | Juliano, o Apóstata | |
+| the Hipsistarii (sect) | os hipsistários | |
+| Arianism / Arians | arianismo / arianos | |
+| St Ignatius of Loyola | Santo Inácio de Loyola | |
+| Manresa / Montserrat | Manresa / Montserrat | |
+| St Francis Borgia | São Francisco de Borja | |
+| Peter Faber (Pierre Favre) | Pedro Fabro | standard Portuguese form of the first Jesuit companion |
+| James Laynez / Alphonsus Salmeron / Nicholas Bobadilla | Diego Laínez / Afonso Salmerón / Nicolau Bobadilla | Spanish-form first names used, matching standard Portuguese-language Jesuit historiography |
+| St Peter Canisius | Pedro Canísio | |
+| St Jean-Baptiste-Marie Vianney, Cure of Ars | São João Maria Vianney, Cura d'Ars | per project instructions; "the Cure of Ars" kept as "o Cura d'Ars" per earlier batch's established form |
+| La Providence (Vianney's orphanage) | "La Providence" | kept in French as the institution's proper name, as source does |
+| St Philomena | Santa Filomena | consistent with earlier batch |
+
+## Translation Decisions (Francis de Sales–Jean Vianney batch, 2026-09-05)
+
+- Files translated in this pass: saint-francis-de-sales.md, saint-francis-of-assisi.md, saint-francis-xavier-s-j.md, saint-gemma-galgani.md, saint-gertrude.md, saint-gregory-nazianzen-b-c.md, saint-ignatius-of-loyola.md, saint-jean-b-m-vianney-cure-of-ars-1785-1859.md.
+- **saint-gregory-nazianzen-b-c.md**: this chapter (Butler's-style entry, not a CTS pamphlet) carried a full scholarly apparatus — an opening bracketed source-citation note and ~36 numbered endnotes referencing classical/patristic sources (Or. 19, Carm. 2, etc.). Dropped both the opening citation note and the endnotes list/inline markers per the editor-footnote-drop policy; the narrative reads continuously without them.
+- **saint-ignatius-of-loyola.md**: same situation — this is the long Butler's-Lives-style entry (not a short CTS pamphlet) with 8 endnotes (mostly cross-references to the saint's own Spiritual Exercises maxims and to Ribadeneira/Bartoli sources). Dropped the endnotes and inline (1)-(8) markers; kept the one direct quotation from the Exercises inline without its citation number.
+- **saint-francis-de-sales.md**: subheadings translated as section headings (e.g. "University Life, Paris And Padua" → "A Vida Universitária, Paris e Pádua"); one garbled OCR line ("The chief events of these years at Annecy were his First Communion and his receiving the tonsure. His father") was reconstructed by moving "His father" to begin the next paragraph, where it grammatically belongs ("Seu pai confessou à mãe dele...").
+- **saint-francis-xavier-s-j.md**: "Mahometans"/"Moslems" rendered as "muçulmanos" (modern term), consistent with the project's stated policy of modernizing only where the original term would be confusing or offensive to a modern reader; noted here as such an instance.
+- Nihil Obstat / Imprimatur blocks (present only in saint-gertrude.md and saint-jean-b-m-vianney-cure-of-ars-1785-1859.md among this batch) kept verbatim in their original Latin/English form, per project instruction.
