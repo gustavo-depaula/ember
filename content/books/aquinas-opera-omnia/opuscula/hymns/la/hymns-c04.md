@@ -25,7 +25,7 @@
 - Vetustatem novitas,  
   umbram fugat veritas,  
   noctem lux eliminat.
-- Quod in coena Christus gessit,  
+- Quod in cena Christus gessit,  
   faciendum hoc expressit  
   in sui memoriam.
 - Docti sacris institutis,  
