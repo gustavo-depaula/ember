@@ -190,7 +190,7 @@ Estanislau tinha a carta em seu poder quando Paulo lhe disse que fosse embora. D
 
 ## O Padre Antônio
 
-O Padre Antônio percebera, ao falar com Estanislau, que, mesmo quando este chegasse a Augsburgo, o Padre Canísio talvez não estivesse disposto a recebê-lo, então lhe deu também uma carta ao Padre Geral, Francisco de Bórgia, que vivia em Roma. Estanislau levaria consigo cartas a dois homens hoje canonizados. Deve ser algo único nos anais dos santos, encontrar um santo com cartas de apresentação a dois outros santos.
+O Padre Antônio percebera, ao falar com Estanislau, que, mesmo quando este chegasse a Augsburgo, o Padre Canísio talvez não estivesse disposto a recebê-lo, então lhe deu também uma carta ao Padre Geral, Francisco de Borja, que vivia em Roma. Estanislau levaria consigo cartas a dois homens hoje canonizados. Deve ser algo único nos anais dos santos, encontrar um santo com cartas de apresentação a dois outros santos.
 
 Fortalecido pela bênção e pelas cartas do Padre Antônio, Estanislau começou a fazer seus preparativos para a partida. Não precisaria de muito: algumas roupas do tipo usado pelos mais pobres, pois, apesar das queixas de Paulo, as roupas habituais de Estanislau o teriam marcado como jovem rico em qualquer estrada. Precisaria também de um par de botas resistentes para a longa estrada adiante, e um cajado de peregrino. Um dos criados da casa, que se tornara muito devotado a Estanislau, conseguiu as roupas para ele, pois teria sido correr o risco de descoberta imediata se ele mesmo as comprasse.
 
@@ -222,9 +222,9 @@ Já era tarde do dia quando chegaram a Dillingen. Estanislau entregou a carta ao
 
 No dia seguinte, Estanislau teve uma longa conversa com o Padre Provincial. A carta do Padre Antônio lhe falara da bondade de Estanislau e de seu desejo de se tornar Jesuíta, mas o Padre Canísio precisava ver por si mesmo se deveria admitir o rapaz. Concordou de bom grado em admitir Estanislau em prova. Sabia o que Estanislau sofrera por seu ideal, mas desejava certificar-se de sua obediência e humildade. Enviou-o para trabalhar na cozinha. Estanislau nunca esteve mais contente. Escreveu depois: "Encontrei o céu no meio de panelas e frigideiras." Deu satisfação geral durante este período, e Pedro Canísio não teve mais dúvidas quanto à autenticidade da vocação de Estanislau Kostka.
 
-Depois de mais discussões com Estanislau, decidiu enviá-lo a Roma, a fim de ficar o mais distante possível do perigo da ira do pai. Dois jovens Jesuítas tinham de fazer a viagem de oitocentas milhas até Roma naquela época, então Estanislau iria com eles. Na carta que São Pedro Canísio escreveu ao Padre Geral, São Francisco de Bórgia, falou de São Estanislau como jovem nobre, virtuoso e estudioso. Explicou por que o enviava a Roma, e disse por fim: "Espero grandes coisas dele."
+Depois de mais discussões com Estanislau, decidiu enviá-lo a Roma, a fim de ficar o mais distante possível do perigo da ira do pai. Dois jovens Jesuítas tinham de fazer a viagem de oitocentas milhas até Roma naquela época, então Estanislau iria com eles. Na carta que São Pedro Canísio escreveu ao Padre Geral, São Francisco de Borja, falou de São Estanislau como jovem nobre, virtuoso e estudioso. Explicou por que o enviava a Roma, e disse por fim: "Espero grandes coisas dele."
 
-A data exata do nascimento de Estanislau não é conhecida, mas, no dia em que iniciou sua segunda longa jornada, 25 de setembro de 1567, faltava-lhe cerca de uma semana para seu décimo sétimo aniversário. Esta viagem partiu de Munique, então Estanislau deve ter ido para lá alguns dias antes. As viagens de Estanislau impressionam. Desde sua partida de Viena até sua chegada a Roma, caminhou cerca de mil e duzentas milhas. Deve ter sido jovem de saúde excepcional, pois São Pedro Canísio, sempre atencioso e solícito quanto à saúde de todos, exceto a sua própria, lembrou ao Padre Francisco de Bórgia que os dois que acompanhariam Estanislau talvez não estivessem muito bem, mas não fez nenhuma referência semelhante quanto ao membro mais jovem do trio.
+A data exata do nascimento de Estanislau não é conhecida, mas, no dia em que iniciou sua segunda longa jornada, 25 de setembro de 1567, faltava-lhe cerca de uma semana para seu décimo sétimo aniversário. Esta viagem partiu de Munique, então Estanislau deve ter ido para lá alguns dias antes. As viagens de Estanislau impressionam. Desde sua partida de Viena até sua chegada a Roma, caminhou cerca de mil e duzentas milhas. Deve ter sido jovem de saúde excepcional, pois São Pedro Canísio, sempre atencioso e solícito quanto à saúde de todos, exceto a sua própria, lembrou ao Padre Francisco de Borja que os dois que acompanhariam Estanislau talvez não estivessem muito bem, mas não fez nenhuma referência semelhante quanto ao membro mais jovem do trio.
 
 ## A Longa Caminhada
 
@@ -254,9 +254,9 @@ Pode parecer estranho, ao escrever sobre um santo, dizer tão pouco de sua vida 
 
 Era o grande andarilho de Deus, e nenhuma distância era demasiado grande para ele, enquanto caminhava com Deus.
 
-## São Francisco De Bórgia
+## São Francisco De Borja
 
-Depois de alguns dias de descanso, São Francisco de Bórgia permitiu que Estanislau iniciasse seu noviciado. Sua chegada não causou grande alvoroço, pois havia muitos outros noviços, e ele não tinha sequer a distinção de ser o único polonês, nem o único nobre no Noviciado.
+Depois de alguns dias de descanso, São Francisco de Borja permitiu que Estanislau iniciasse seu noviciado. Sua chegada não causou grande alvoroço, pois havia muitos outros noviços, e ele não tinha sequer a distinção de ser o único polonês, nem o único nobre no Noviciado.
 
 Pouco depois de se tornar noviço, Estanislau recebeu uma carta de seu pai. Não era uma carta gentil. O pai lhe disse que ele desonrara o nome dos Kostka, ao viajar pela Alemanha e pela Itália vestido como mendigo.
 
@@ -282,7 +282,7 @@ Uma vez admitido no noviciado, a parte mais difícil de sua luta terminara. Esta
 
 Aqueles que viveram com ele no noviciado não tinham dúvidas quanto à sua santidade. Seu amor a Deus e a Nossa Senhora tinha aquela absoluta sinceridade que não se pode esconder.
 
-Depois de sua morte, São Francisco de Bórgia ordenou ao Padre Fazio, Mestre de Noviços de Estanislau, que escrevesse um breve relato de sua vida, que pudesse ser enviado a todas as casas da Companhia de Jesus, para a edificação de seus membros. Isso nunca fora feito antes, para alguém que morresse como noviço. O santo em Francisco de Bórgia sabia reconhecer a verdadeira santidade. Para completar alguns dos detalhes da vida de Estanislau, citarei livremente o relato do Padre Fazio, desde o momento de sua chegada a Roma.
+Depois de sua morte, São Francisco de Borja ordenou ao Padre Fazio, Mestre de Noviços de Estanislau, que escrevesse um breve relato de sua vida, que pudesse ser enviado a todas as casas da Companhia de Jesus, para a edificação de seus membros. Isso nunca fora feito antes, para alguém que morresse como noviço. O santo em Francisco de Borja sabia reconhecer a verdadeira santidade. Para completar alguns dos detalhes da vida de Estanislau, citarei livremente o relato do Padre Fazio, desde o momento de sua chegada a Roma.
 
 "Foi acolhido na cidade de Roma por nosso Padre-Geral, e por ele enviado ao Noviciado de Sant'Andrea, e nenhuma palavra pode descrever suas muitas virtudes e sua vida exemplar, que foi para todos um modelo e um espelho de perfeição religiosa, enquanto ali esteve.
 

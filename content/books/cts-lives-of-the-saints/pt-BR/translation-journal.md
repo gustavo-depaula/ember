@@ -328,3 +328,32 @@ Target: pt-BR
 - In saint-thomas-more.md, Roper's Tudor-English quotations (More's household life, trial, execution) were rendered into elevated but readable modern Portuguese, preserving the wit and warmth of More's recorded sayings ("Não confieis em príncipes", "É esta casa tão perto do céu quanto a minha própria?", etc.) rather than an archaic pastiche.
 - Miracle accounts and testimonies (Vincent Pallotti's canonization miracles, Pius X's healings) translated with direct-quotation medical/witness testimony kept in first person, matching the source's documentary style.
 - Nihil Obstat / Imprimatur blocks at the end of all eleven files kept verbatim in their original Latin/English form (including untranslated bishop titles and dates), per project instruction.
+
+## Additional Key Terms (batch 0: Eugene de Mazenod/Mary MacKillop/Padre Pio/Poet Priest Martyr/Anthony and You/Augustine/Benedict/Bernadette/Bernard of Clairvaux/Brigid/Cajetan, 2026-09-05)
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| St. Augustine | Santo Agostinho | |
+| St. Benedict | São Bento | |
+| St. Bernard of Clairvaux | São Bernardo | |
+| St. Brigid | Santa Brígida | |
+| St. Cajetan / Gaetano | São Caetano | |
+| St. Anthony (of Padua, addressed in "Saint Anthony and You") | Santo Antônio | |
+| St. Bernadette | Bernadette (kept French form) | no established Lusitanized form in common devotional use |
+| Padre Pio | Padre Pio | kept as-is, universally known this way in Portuguese |
+| Eugene de Mazenod | Eugênio de Mazenod | surname "de Mazenod" left untranslated |
+| Columcille (St. Columba, in the Brigid chapter) | Columcille | kept in Irish form, matching the source's own choice rather than substituting "São Columba" |
+
+## Translation Decisions (batch 0, 2026-09-05)
+
+- Files translated in this pass: eugene-de-mazenod.md, mary-mckillop.md, padre-pio.md, poet-priest-martyr.md, saint-anthony-and-you.md, saint-augustine-bishop-of-hippo.md, saint-benedict-abbot.md, saint-bernadette.md, saint-bernard-abbot-of-clairvaux.md, saint-brigid.md, saint-cajetan-or-gaetano-confessor.md.
+- Litany epithets in saint-anthony-and-you.md rendered as fixed Portuguese titles used consistently throughout: Espelho de Abstinência, Vaso de Pureza, Modelo de Obediência, Estrela de Santidade, Arca da Aliança, Mestre da Verdade, Plantador de Virtudes, Médico das Almas, Guia dos que Erram, Pregador da Graça.
+- Latin liturgical phrases kept inline in italics with translation following (e.g. *Tolle, lege!* → "Toma e lê!"; *O clemens, O pia, O dulcis Maria*).
+- Poetry (Southwell's verses in poet-priest-martyr.md) translated for meaning/register rather than forced rhyme, keeping line breaks.
+- The source's own internal inconsistency in saint-anthony-and-you.md (purity sins attributed to "the sixth and ninth commandments" in most of the text but "the fifth commandment" once) was translated literally/faithfully rather than silently corrected.
+- No footnotes were present in any of the 11 files requiring drop/translator-note handling.
+- Stray `## @ D. Mannix,` / `## @ Daniel Mannix,` heading-level artifacts in the Imprimatur blocks of saint-bernadette.md and saint-brigid.md (an OCR quirk of the source) were preserved verbatim, not treated as real headings.
+
+## Consistency Fix (post-batch pass, 2026-09-05)
+
+- "St. Francis Borgia" was rendered inconsistently across batches: "São Francisco de Borja" (Ignatius of Loyola, Pius V batches) vs "São Francisco de Bórgia" (Stanislaus Kostka, Teresa of Avila batches). Standardized on **"São Francisco de Borja"** (the standard Lusophone hagiographic form) throughout saint-stanislaus-kostka.md and saint-teresa-of-avila.md. The unrelated "aposentos Bórgia" (Borgia Apartments, Vatican Museums) in saint-pius-x.md refers to the Borgia-family papal apartments, not the saint, and was left as "Bórgia" (the historical family name).
