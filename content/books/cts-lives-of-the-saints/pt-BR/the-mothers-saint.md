@@ -262,7 +262,7 @@ Nihil Obstat:
 
 ## Bernard O'Connor,
 
-Diocesan Censor. 23 de junho de 1964.
+Censor Diocesano. 23 de junho de 1964.
 
 Imprimi Potest:
 

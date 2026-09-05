@@ -58,46 +58,46 @@ Pai Nosso, Ave Maria, Glória ao Pai . . . (três vezes).
 
 ### Ladainha de Santa Rita de Cássia
 
-Senhor, *tende piedade de nós.*
-Cristo, *tende piedade de nós.*
-Senhor, *tende piedade de nós.*
-Cristo, *ouvi-nos.*
-Cristo, *graciosamente ouvi-nos.*
-Deus Pai Todo-Poderoso, *tende piedade de nós.*
-Deus Filho, Redentor do mundo, que dissestes: "Pedi, e recebereis; buscai, e achareis; batei, e vos será aberto", *tende piedade de nós.*
-Deus Espírito Santo, Espírito de sabedoria, entendimento, conselho e ciência, *tende piedade de nós.*
-Santíssima Trindade, um só Deus, infinito em poder, *tende piedade de nós.*
-Santa Maria, que jamais recusas um pedido, *rogai por nós.*
-Virgem Imaculada, Rainha do céu e da terra, *rogai por nós.*
-Nossa Senhora do Sagrado Coração, *rogai por nós.*
-Santos Anjos, espíritos de humildade, *rogai por nós.*
-Santos Principados, protetores das comunidades religiosas, *rogai por nós.*
-Santas Virtudes, anjos de fortaleza, *rogai por nós.*
-Santos Querubins, anjos de luz, *rogai por nós.*
-Santa Rita, advogada dos impossíveis, *rogai por nós.*
-Santa Rita, consagrada a Deus, *rogai por nós.*
-Santa Rita, esposa do Salvador sofredor, *rogai por nós.*
-Santa Rita, cheia de compaixão pelos sofrimentos de Cristo, *rogai por nós.*
-Santa Rita, coroada por um anjo com uma coroa de espinhos, *rogai por nós.*
-Santa Rita, que carregaste em tua testa as feridas de Sua misteriosa coroa, *rogai por nós.*
-Santa Rita, que firmemente confiaste na amorosa misericórdia de Jesus, *rogai por nós.*
-Santa Rita, que importunaste o Salvador moribundo com ardentes súplicas, *rogai por nós.*
-Santa Rita, que nunca duvidaste de uma resposta graciosa à tua oração, *rogai por nós.*
-Para que possamos renunciar a todo amor-próprio, *rogai por nós, Santa Rita.*
-Para que possamos confiar plenamente na promessa de Jesus, *rogai por nós, Santa Rita.*
-Para que os inimigos de nossa salvação sejam confundidos, *rogai por nós, Santa Rita.*
-Para que possamos cumprir sempre perfeitamente a vontade de Deus, *rogai por nós, Santa Rita.*
-Para que nossas inclinações ao mal sejam destruídas, *rogai por nós, Santa Rita.*
-Para que a Fé, em toda a sua pureza, se espalhe sobre nossa terra, *rogai por nós, Santa Rita.*
-Para que o santo zelo encha nossos corações, *rogai por nós, Santa Rita.*
-Para que possamos infundir um santo amor pela castidade em todos que entram em contato conosco, *rogai por nós, Santa Rita.*
-Para que em todas as nossas ações e omissões procuremos promover uma terna caridade, *rogai por nós, Santa Rita.*
-Para que sejamos livrados de toda avareza, vanglória e juízo temerário, *rogai por nós, Santa Rita.*
-Para que grandes santos se levantem em nossa terra, que edifiquem o povo e dissipem as trevas da incredulidade, *rogai por nós, Santa Rita.*
-Para que sejamos livrados de todos os inimigos interiores, *rogai por nós, Santa Rita.*
-Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos graciosamente, Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*
+Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
+Senhor, *tende piedade de nós.*  
+Cristo, *ouvi-nos.*  
+Cristo, *graciosamente ouvi-nos.*  
+Deus Pai Todo-Poderoso, *tende piedade de nós.*  
+Deus Filho, Redentor do mundo, que dissestes: "Pedi, e recebereis; buscai, e achareis; batei, e vos será aberto", *tende piedade de nós.*  
+Deus Espírito Santo, Espírito de sabedoria, entendimento, conselho e ciência, *tende piedade de nós.*  
+Santíssima Trindade, um só Deus, infinito em poder, *tende piedade de nós.*  
+Santa Maria, que jamais recusas um pedido, *rogai por nós.*  
+Virgem Imaculada, Rainha do céu e da terra, *rogai por nós.*  
+Nossa Senhora do Sagrado Coração, *rogai por nós.*  
+Santos Anjos, espíritos de humildade, *rogai por nós.*  
+Santos Principados, protetores das comunidades religiosas, *rogai por nós.*  
+Santas Virtudes, anjos de fortaleza, *rogai por nós.*  
+Santos Querubins, anjos de luz, *rogai por nós.*  
+Santa Rita, advogada dos impossíveis, *rogai por nós.*  
+Santa Rita, consagrada a Deus, *rogai por nós.*  
+Santa Rita, esposa do Salvador sofredor, *rogai por nós.*  
+Santa Rita, cheia de compaixão pelos sofrimentos de Cristo, *rogai por nós.*  
+Santa Rita, coroada por um anjo com uma coroa de espinhos, *rogai por nós.*  
+Santa Rita, que carregaste em tua testa as feridas de Sua misteriosa coroa, *rogai por nós.*  
+Santa Rita, que firmemente confiaste na amorosa misericórdia de Jesus, *rogai por nós.*  
+Santa Rita, que importunaste o Salvador moribundo com ardentes súplicas, *rogai por nós.*  
+Santa Rita, que nunca duvidaste de uma resposta graciosa à tua oração, *rogai por nós.*  
+Para que possamos renunciar a todo amor-próprio, *rogai por nós, Santa Rita.*  
+Para que possamos confiar plenamente na promessa de Jesus, *rogai por nós, Santa Rita.*  
+Para que os inimigos de nossa salvação sejam confundidos, *rogai por nós, Santa Rita.*  
+Para que possamos cumprir sempre perfeitamente a vontade de Deus, *rogai por nós, Santa Rita.*  
+Para que nossas inclinações ao mal sejam destruídas, *rogai por nós, Santa Rita.*  
+Para que a Fé, em toda a sua pureza, se espalhe sobre nossa terra, *rogai por nós, Santa Rita.*  
+Para que o santo zelo encha nossos corações, *rogai por nós, Santa Rita.*  
+Para que possamos infundir um santo amor pela castidade em todos que entram em contato conosco, *rogai por nós, Santa Rita.*  
+Para que em todas as nossas ações e omissões procuremos promover uma terna caridade, *rogai por nós, Santa Rita.*  
+Para que sejamos livrados de toda avareza, vanglória e juízo temerário, *rogai por nós, Santa Rita.*  
+Para que grandes santos se levantem em nossa terra, que edifiquem o povo e dissipem as trevas da incredulidade, *rogai por nós, Santa Rita.*  
+Para que sejamos livrados de todos os inimigos interiores, *rogai por nós, Santa Rita.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos graciosamente, Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*  
 V. *Rogai por nós, Santa Rita.*
 
 R. Para que sejamos feitos dignos das promessas de Cristo.

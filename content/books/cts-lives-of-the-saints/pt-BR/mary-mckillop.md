@@ -58,7 +58,7 @@ escolas com 12.000 crianças. Por ocasião de sua morte, a família que fundara 
 
 provavelmente sem igual na história das congregações religiosas.
 
-Trazer o registro atualizado com qualquer grau de exatidão é uma impossibilidade; pela simples razão de que os números mudam quase mês a mês. Há mais de dois mil e quinhentas Irmãs, algo em torno de 100.000 crianças em suas escolas; orfanatos, maternidades, casas de acolhimento, hospedarias para trabalhadoras e para migrantes, missões móveis, cursos por correspondência... onde quer que haja necessidade, especialmente daqueles a quem Cristo Nosso Senhor chamou de seus pequeninos, ali se encontrará hoje uma Irmã de São José.
+Trazer o registro atualizado com qualquer grau de exatidão é uma impossibilidade; pela simples razão de que os números mudam quase mês a mês. Há mais de duas mil e quinhentas Irmãs, algo em torno de 100.000 crianças em suas escolas; orfanatos, maternidades, casas de acolhimento, hospedarias para trabalhadoras e para migrantes, missões móveis, cursos por correspondência... onde quer que haja necessidade, especialmente daqueles a quem Cristo Nosso Senhor chamou de seus pequeninos, ali se encontrará hoje uma Irmã de São José.
 
 É interessante especular sobre que influência a Sra. Caroline Chisholm teve sobre a vocação de Mary McKillop. Depois de seu retorno da Inglaterra em 1854, a Sra. Chisholm passou cerca de três anos em Melbourne e era visitante frequente da casa dos McKillop em Darebin, que era um centro de Missa para os católicos do distrito.
 
@@ -76,7 +76,7 @@ Um segundo Moisés, certamente, foi quem fez tudo isso.
 
 Foi mesmo. Um segundo Moisés de touca e de xale."
 
-Talvez sua maior e mais duradoura realização tenha sido o restabelecimento da dignidade da mulher após a degradação da era dos condenados. Sem posição ou riqueza, e com apoio muito escasso, ela instalou cerca de 11.000 mulheres em segurança e independência; e, desde o dia em que dedicou "seus talentos ao Deus que os deu", recusou-se firmemente a qualquer recompensa por seu trabalho.*
+Talvez sua maior e mais duradoura realização tenha sido o restabelecimento da dignidade da mulher após a degradação da era dos condenados. Sem posição ou riqueza, e com apoio muito escasso, ela instalou cerca de 11.000 mulheres em segurança e independência; e, desde o dia em que dedicou "seus talentos ao Deus que os deu", recusou-se firmemente a qualquer recompensa por seu trabalho.[^1]
 
 Caroline Chisholm teria sido uma convidada de grande honra na casa de Darebin. Suas maiores realizações estavam ainda em processo de desenvolvimento. Para a jovem Mary, então em seus primeiros anos de adolescência, a personalidade, o entusiasmo ardente da visitante, deixaram uma impressão duradoura. É impossível não chegar à conclusão de que Caroline Chisholm foi um instrumento da Divina Providência na formação da vocação da jovem, precisamente no momento em que ela devia estar despertando em seu coração.
 
@@ -169,6 +169,8 @@ Tudo por Deus Somente:
 Ele quiser; de modo que nenhuma sombra de vontade terrena ou de si mesmo permaneça nos corações escolhidos pelo Deus do Amor para Si mesmo."
 
 Ó Deus, que não queres que nenhuma alma se perca, mas que todas se convertam e vivam, concedei, vos suplicamos, sucesso à boa obra iniciada em Vosso Nome por Vossa serva Mary of the Cross, e dignai-vos glorificar assim seu nome diante dos homens, que uma multidão cada vez maior de almas seja, por seu intermédio, conduzida à salvação eterna. Por Cristo Nosso Senhor. Amém.
+
+[^1]: Ver *"Australia—The Catholic Chapter"*, de Rev. James G. Murtagh: *"The Lady and the Legend."*
 
 Nihil Obstat:
 

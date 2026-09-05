@@ -118,7 +118,7 @@ Pouco depois de dizer isto, o Padre Pestarino morreu. Toda a região ficou desol
 
 "Dom Bosco! Está em Turim e tem meninos demais para sustentar, e demasiado a fazer, para cuidar de vós."
 
-Mas Dom Bosco cuidou das irmãs. O Padre João Cagliero, seu primo, chegou na manhã seguinte para o funeral do Padre Pestarino e, pouco depois, foi nomeado diretor espiritual das irmãs. Por sua morte, em setembro do mesmo ano, o Padre Tiago Costamagna foi nomeado para o cargo.
+Mas Dom Bosco cuidou das irmãs. O Padre João Cagliero chegou na manhã seguinte para o funeral do Padre Pestarino e, pouco depois, um primo deste foi nomeado diretor espiritual das irmãs. Por morte deste primo, em setembro do mesmo ano, o Padre Tiago Costamagna foi nomeado para o cargo.
 
 Dom Bosco veio pessoalmente visitar as irmãs em 14 de junho, e, no dia seguinte, recebeu os primeiros votos de oito noviças, e vestiu quinze postulantes. Então reuniu as irmãs para a eleição de uma superiora geral e de um capítulo, ambos essenciais se a Congregação houvesse de se expandir como planejava. Como se esperava, a Madre Mazzarello foi unanimemente eleita Superiora Geral e, percebendo desta vez que era realmente a vontade de Deus, não tentou se desculpar.
 

@@ -26,7 +26,9 @@ Em 1634, o Padre Régis foi chamado de volta de Montpellier e, com outro jesuít
 
 O plano era que os dois missionários partissem alguns dias à frente para preparar o povo para a Confissão, a Sagrada Comunhão e a Confirmação. Um ou dois dias depois de a comitiva do Bispo chegar, os dois seguiriam para o local seguinte. O trabalho era árduo e perigoso. O Padre Régis escapou por pouco num centro calvinista, Villeneuve-de-Berg, onde trinta padres haviam sido chacinados.
 
-Ele notou uma tropa de soldados huguenotes galopando em sua direção. Rapidamente mergulhou sob uma das medas de feno no terreno de um castelo próximo. Mas os cavaleiros o haviam visto e, em poucos segundos, estavam junto às medas. Desmontando em meio a gritos de triunfo, cravaram suas espadas e alabardas nas medas por todos os lados. Depois de alguns minutos, partiram a galope, satisfeitos por sua vítima não poder ter escapado. O Padre Régis então saiu, ileso.
+Ele notou uma tropa de soldados huguenotes galopando em sua direção. Rapidamente mergulhou sob uma das medas de feno no terreno de um castelo próximo. Mas os cavaleiros o haviam visto e, em poucos segundos, estavam junto às medas. Desmontando em meio a gritos de triunfo, cravaram suas espadas e alabardas nas medas por todos os lados. Depois de alguns minutos, partiram a galope, satisfeitos por sua vítima não poder ter escapado. O Padre Régis então saiu, ileso.[^1]
+
+[^1]: A autenticidade desse episódio é posta em dúvida por alguns autores, pelo fato de não ser relatado por seus primeiros biógrafos, e por parecer estar em desacordo com seu espírito.
 
 A visita pastoral foi um grande sucesso, e o Bispo admitiu que ela se devera principalmente ao zelo e ao trabalho incansável do Padre Régis.
 

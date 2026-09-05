@@ -209,7 +209,7 @@ Que nos preserveis de todo pecado e de toda ocasião de pecado,
 
 Que nos defendais na hora da morte contra a fúria do demônio e de todos os espíritos malignos, *Rogai por nós, para que antes da morte expiemos todos os nossos pecados por sincero arrependimento e pela digna recepção dos santos*  
 sacramentos,  
-*Rogai por nós, para que apazigüemos a Divina Justiça e obtenhamos um julgamento favorável,*  
+*Rogai por nós, para que apaziguemos a Divina Justiça e obtenhamos um julgamento favorável,*  
 Rogai por nós, para que sejamos admitidos na companhia dos bem-aventurados, para nos alegrarmos na presença de nosso Deus para sempre. Cordeiro de Deus, que tirais os pecados do mundo,  
 Cordeiro de Deus, que tirais os pecados do mundo,  
 Cordeiro de Deus, que tirais os pecados do mundo,  

@@ -31,7 +31,7 @@ Para sua mãe, aquele foi o dia mais feliz de sua vida. Muitos anos depois, ela 
 
 Poucos dias depois de sua ordenação, foi nomeado coadjutor de Dom Antonio Costantini, o arcipreste de Tombolo, uma vila de cerca de 1.500 habitantes. Dom Antonio concebeu imediata simpatia pelo jovem coadjutor, e, sendo homem zeloso, decidiu prepará-lo o melhor possível para trabalhar pelas almas. Para isso, tentou formá-lo nos modos da vida paroquial, dando especial atenção à crítica de seus sermões, e mostrando-lhe como poderia melhorar sua entrega e maneira de se dirigir aos fiéis. Mas, em particular, Dom Antonio escreveu deliciado a um amigo: "Mandaram-me um jovem sacerdote como coadjutor com ordens de formá-lo aos deveres de pároco, mas garanto-lhe que é mais provável que seja o contrário. É tão zeloso, tão cheio de bom senso e outros dons preciosos que eu poderia aprender muito com ele; um dia ou outro usará a mitra, disso tenho certeza, e depois? ... Quem sabe?"
 
-Gradualmente, Dom Giuseppe adquiriu bastante reputação por sua pregação, e as cidades vizinhas se esforçavam por conseguí-lo para seus sermões especiais. Esse sucesso, contudo, não teve efeito sobre o jovem sacerdote, exceto o de fazê-lo se humilhar e dar toda a glória a Deus. Via em si mesmo apenas um pobre e indigno discípulo a quem o Mestre Se aprazia usar como humilde instrumento para a salvação das almas.
+Gradualmente, Dom Giuseppe adquiriu bastante reputação por sua pregação, e as cidades vizinhas se esforçavam por consegui-lo para seus sermões especiais. Esse sucesso, contudo, não teve efeito sobre o jovem sacerdote, exceto o de fazê-lo se humilhar e dar toda a glória a Deus. Via em si mesmo apenas um pobre e indigno discípulo a quem o Mestre Se aprazia usar como humilde instrumento para a salvação das almas.
 
 O jovem coadjutor de tal paróquia não recebia muito para seu sustento, mas, mesmo desse escasso estipêndio, dava a maior parte aos pobres. Achava impossível recusar-lhes qualquer coisa, de modo que, vez após vez, teve de empenhar seu relógio. Quanto aos honorários que recebia por seus sermões, jamais voltava a Tombolo com eles no bolso: já haviam ido para o alívio de alguma pobre alma pelo caminho. Quando Dom Antonio o repreendia por isso e lhe apontava que deveria guardar algo para sua mãe, respondia: "Estes pobres tinham mais necessidade que ela; Nosso Senhor proverá também para ela." Tão grande era sua fé na divina Providência.
 
@@ -199,7 +199,7 @@ Poucos dias depois de sua eleição, Monsenhor Merry del Val se apresentou diant
 
 Passaram-se vários dias; o Papa consultou os Cardeais e finalmente nomeou Monsenhor Merry del Val seu Secretário de Estado, ao mesmo tempo em que assinalava sua intenção de criá-lo Cardeal no próximo Consistório.
 
-"Trabalhemos juntos, sofra mos juntos por amor à Igreja", foram as palavras de Pio X ao jovem prelado. Assim se uniram duas almas nobres numa grande obra — a restauração de todas as coisas em Cristo.
+"Trabalhemos juntos, soframos juntos por amor à Igreja", foram as palavras de Pio X ao jovem prelado. Assim se uniram duas almas nobres numa grande obra — a restauração de todas as coisas em Cristo.
 
 Um dos primeiros deveres do novo Papa foi receber os membros do Corpo Diplomático credenciados junto à Santa Sé. Depois de sua audiência com o Santo Padre, dirigiram-se aos apartamentos Bórgia, onde o Pró-Secretário de Estado os esperava.
 
