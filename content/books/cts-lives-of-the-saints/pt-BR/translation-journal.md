@@ -58,4 +58,8 @@ Target: pt-BR
 ## Translation Decisions
 
 - (seed) No editor footnotes present in this book — no drop/keep decision needed.
+- A few chapters (e.g. saint-margaret-clitherow.md) DO contain the *original author's* own asterisk-marked bibliographic citations (not later editor apparatus) — these are kept and translated, since the "no footnotes" note only covers markdown `[^N]` editor-footnote style, which never appears in this book.
+- "Don" (Italian religious title, e.g. Don Bosco, Don Cafasso) → "Dom" throughout.
+- Mass propers (Introit, Collect, Epistle, Gradual, Gospel, Offertory, Secret, Preface, Communion, Postcommunion), where a chapter includes them in full (e.g. saint-jude-helper-in-great-need.md), use standard Portuguese Missal headings: Intróito, Coleta, Epístola, Gradual, Evangelho, Ofertório, Secreta, Prefácio, Comunhão, Pós-Comunhão.
+- One-off untranslatable foreign legal/idiomatic phrases (e.g. French *peine forte et dure*, *les pauvres honteux*) kept italicized in the original with a short parenthetical Portuguese gloss.
 - **the-adventurous-nun.md**: the source quotes the historical slur "nigger-lovers" (1960s U.S. civil-rights usage) as reported speech describing how such activists were labelled, paralleling the period term "negrophiles" used of Bl. Anne-Marie Javouhey. Rendered descriptively as "amantes de negros" rather than importing an equivalent Portuguese slur — preserves the passage's point (that defending persecuted people invites ugly labels) without reproducing a slur. Kept in quotes as reported speech, same as the source.
