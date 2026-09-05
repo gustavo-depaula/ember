@@ -29,3 +29,4 @@ Target: pt-BR
 - 2026-09-05: Scripture references preserved with the same book/chapter/verse numbers, book names localized to standard Portuguese Catholic usage: 2 Corinthians 6:16 → 2 Coríntios 6:16; Acts 28:13-14 → Atos 28:13-14; Proverbs 10:24 → Provérbios 10:24.
 - 2026-09-05: No editor/scholarly footnotes present in the source (only inline editorial brackets, treated as above) — no translator notes were needed.
 - 2026-09-05: The dialogue between Trajan and Ignatius (Ch. 2) uses "tu" throughout for both speakers, matching the direct, personal register of an interrogation exchange (not the tu/vós shift pattern used for Ignatius addressing a congregation in his own letters).
+- 2026-09-05 — **review round 1**: exhaustive chapter-by-chapter audit (completeness, structure, proper names, Scripture references, the Trajan/Ignatius dialogue line by line, diacritics, markdown format, footnotes). Clean — no issues found.
