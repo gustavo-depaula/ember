@@ -1,10 +1,10 @@
-# Each Man has Virtue
+# Tanto ha virtù ciascun
 
 ***S. Thomas de Aquino (ut fertur)***
 
-***Tanto ha virtu ciascun, quanto ha intelletto;***
+***Tanto ha virtù ciascun, quanto ha intelletto;***
 ***E a valor quanto in virtù si stende;***
-***E tanto ha ‘llhor di ben, quanto l’intende,***
+***E tanto ha ’llhor di ben, quanto l’intende,***
 ***E quanto ha d’honor gentil diletto.***
 
 - E il diletto gentil, quanto ha l’effetto,  

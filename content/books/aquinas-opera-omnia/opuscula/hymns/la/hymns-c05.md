@@ -1,4 +1,4 @@
-# Godhead Here in Hiding
+# Adoro Te Devote
 
 Adoro te devote, latens Deitas, *(The Latin here has been adapted from the original Latin prayer (see “Devotional Prayers,” above), composed by Aquinas, which, according to the latest scholarship, should read: *Te devote laudo, latens veritas*.)*  
 quae sub his figuris *(*Te quae sub his formis*.)* vere latitas;  
@@ -29,4 +29,3 @@ quia te contemplans totum deficit.
   oro fiat *(*Quando fiet*.)* illud quod tam sitio;  
   ut te revelata cernens facie,  
   visu sim beatus tuae gloriae. Amen.
-- {modern hymn_Adoro}
