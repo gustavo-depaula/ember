@@ -65,6 +65,8 @@ Target: pt-BR
 - **saint-camillus-de-lellis.md**: the source has visibly OCR-garbled Peru/Ecuador place names ("Popogani, Quamanga, Quayquillo Truxillo", "Cattano" among Italian cholera cities). Rendered using the real, identifiable place names (Popayán, Huamanga, Guayaquil, Trujillo, Catânia) rather than transcribing the garbling — flagged here since it's an interpretive OCR correction, not a straight translation choice.
 - **Strigonia** (old name for Esztergom, Hungary) kept as "Strigônia" (attested archaic Portuguese form), matching the source's own archaic usage rather than modernizing.
 - Latin phrases the source itself glosses inline (e.g. *Tolle lege* / "Take up and read", *Doctor mellifluus*) are kept in Latin with the Portuguese gloss immediately following, mirroring the source's own bilingual presentation.
+- **saint-gregory-nazianzen-b-c.md** and **saint-ignatius-of-loyola.md** are the two exceptions to "no footnotes in this book": both carry a genuine scholarly citation apparatus (bracketed numbers `[1]`–`[36]`/`[1]`–`[8]` referencing the saint's own Orations/Epistles/Carmina, Butler-style) — this is original bibliographic apparatus, not later editorial annotation, so it's kept as-is; only the one prose aside inside note 17 of the Gregory chapter was translated.
+- "Mohammedan(s)" is used inconsistently across chapters in this 20th-century source (sometimes "maometano" fits the period diction of a given passage, sometimes "muçulmano" reads more naturally) — both rendered as attested modern Portuguese terms (não pejorativos); if the review pass wants one term project-wide, standardize on "muçulmano(s)/islamismo".
 
 ## Proper Names Rendered (continued)
 
