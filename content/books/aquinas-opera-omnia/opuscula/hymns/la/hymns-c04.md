@@ -79,5 +79,5 @@
 - Tu qui cuncta scis et vales,  
   qui nos pascis hic mortales:  
   tu nos *(BNF 1143 reads *tuos* instead of *tu nos*.)* ibi commensales,  
-  coheredes, et sodales  
+  cohaeredes, et sodales  
   fac sanctorum civium. Amen.
