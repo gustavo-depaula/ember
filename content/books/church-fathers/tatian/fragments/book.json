@@ -1,13 +1,16 @@
 {
   "id": "tatian-fragments",
   "name": {
-    "en-US": "Fragments"
+    "en-US": "Fragments",
+    "pt-BR": "Fragmentos"
   },
   "author": {
-    "en-US": "Tatian"
+    "en-US": "Tatian",
+    "pt-BR": "Taciano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Fragments"
+        "en-US": "Fragments",
+        "pt-BR": "Fragmentos"
       }
     }
   ]
