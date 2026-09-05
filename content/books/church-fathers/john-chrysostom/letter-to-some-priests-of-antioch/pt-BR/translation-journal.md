@@ -9,7 +9,7 @@ Single chapter (`ch001.md`), one introductory (editorial) paragraph, one salutat
 
 | English | Portuguese | Notes |
 |---|---|---|
-| Presbyters (source has "Presybters", a typo) | Presbíteros | Silently corrected the obvious OCR/typesetting typo in the salutation heading; not a translation choice. |
+| Presbyters (en-US file had "Presybters", a typo) | Presbíteros | Obvious OCR/typesetting typo in the salutation heading; not a translation choice. Round 8 also corrected it in the `en-US` file itself — "Presybters" is not an edition variant (no edition prints it), so reproducing it is transmitting OCR corruption, not fidelity. |
 | love-draught | taça do vosso amor | "Draught" as in a cup/drink of love, keeping the metaphor rather than flattening to an abstract "afeição". |
 | love debt / to pay down this debt | dívida de amor / saldar esta dívida | Kept the debt/payment conceit consistent (dívida, pagar, saldar) throughout the paragraph's extended financial metaphor — this is the letter's central image. |
 | covenant of love | aliança do amor | "Covenant" rendered "aliança", not "pacto" — checked against corpus usage: "aliança" is what the corpus uses for a religious/biblical covenant (`aliança com a morte` quoting Isaiah in `augustine-confessions`, `antiga aliança`, `Arca da aliança`), while `pacto` appears for a secular or looser sense of "pact" (`pacto de um amor luxurioso`, `pacto geral da sociedade humana`). Chrysostom's "covenant of love" is the religious sense. |
@@ -79,6 +79,32 @@ No defects found. **First round of a new clean streak** (round 4 was also clean,
 ### Round 7 (independent full comparison + punctuation-density check) — text clean, closes the review
 
 Fresh side-by-side comparison of every sentence against the source, plus a punctuation census: periods 15/15 (exact match — this book has no abbreviations to confound a period count), commas 39 (en-US) / 54 (pt-BR) — the higher pt-BR count is expected (Portuguese punctuates subordinate and appositive clauses more heavily than English) and not a target for parity the way semicolons/colons/parentheses/quotes are. Title and salutation heading both correctly render "Presbyters"/"Presybters" as "Presbíteros" in both of their occurrences (H1 and the salutation line).
+
+No defects found. **Second consecutive clean round — review closed.**
+
+### Round 8 (post-merge audit) — reverses round 1: the "bereft" sentence was inverted, not fixed
+
+**Major defect found and fixed — the round-1 "fix" installed a sense inversion, and rounds 3, 5 and 6 then polished the wrong reading.** Rounds 1/3/5 each edited the same clause without ever re-testing round 1's underlying parse; the thrash itself was the signal that the parse, not the wording, was wrong.
+
+Round 1 read "For he who pays it is **not less bereft** of it, as in the case of money when it is transferred to the receiver" as an elliptical comparative ("no less bereft *than* in the case of money"), concluding the lover genuinely gives love up. That reading is untenable on three independent grounds:
+
+1. **The "For" (γάρ) is causal.** The preceding sentence says "But this is not what commonly happens in the covenant of love" — i.e. in love the payer does *not* become poorer. A "For" clause states the *ground* for that claim. Under the comparative reading the clause asserts the payer is deprived exactly as a money-payer is, which contradicts the sentence it is supposed to support instead of grounding it.
+2. **It contradicts the explicit premise two sentences earlier**: "they are both alike enriched by the payment". Both parties enriched leaves no room for the payer being bereft.
+3. **It contradicts the clause it governs**: "but payment of love makes him who pays richer **than before**" — one cannot be both stripped of a thing and richer in it than before.
+
+The most likely underlying text is "is not **left** bereft of it, as in the case of money when it is transferred to the receiver" — a flat negation, idiomatic Victorian English, and the only reading compatible with all three points. `left` → `less` is exactly the OCR-class corruption this same file demonstrably carries elsewhere ("Presybters" in the salutation). Either way the *sense* is not in doubt: Chrysostom's whole point is that love, unlike money, does not leave its giver poorer.
+
+Fixed to "não fica privado dela, **ao contrário do que sucede** no caso do dinheiro" — "ao contrário do que sucede" rather than a bare "como sucede", because under negation "não X, como sucede com Y" can be misread as "not X *in the way* Y is". The explicit contrastive removes the ambiguity that round 5 was chasing by word order.
+
+**Two further defects fixed:**
+- **Concessive mood/tense.** "ainda que não precisásseis disso" and "ainda que não precisásseis de ninguém" used the imperfect subjunctive, which in Portuguese marks a counterfactual or past-referring concession; both English clauses ("even when you need it not", "even if you do not need any one") are present-tense statements of a present state. The same sentence's parallel concessive already used the present subjunctive ("embora não necessiteis"), so the file also contradicted itself. Fixed to "ainda que disso não preciseis" / "ainda que não preciseis". Round 2's verb sweep checked person/number (the *vós* paradigm) but not tense, which is how this survived.
+- **Dropped intensifier.** "out of a very large number" → "dentre um grande número delas" lost the "very"; fixed to "dentre um número muito grande delas".
+
+Verified and left alone (not defects): straight `"` quotes in pt-BR against curly `“ ”` in en-US — grepped 8 sibling `church-fathers/*/pt-BR` books, all use straight quotes (410, 290, 118, 90, 66, 32, 18 marks; curly essentially absent), so the journal's per-language quote-convention claim holds. Also re-confirmed faithful: collective singular "objeto do seu amor", "obtêm igual satisfação", the feminine pronoun chain "a paga… dela" (antecedent *dívida*/*aliança*, internally consistent).
+
+### Round 9 (fresh bilingual comparison + invariant re-check) — text clean
+
+Full sentence-by-sentence re-comparison after the round-8 edits. Mechanical invariants re-derived from scratch and matching 1:1 between files: 5 semicolons, 2 colons, 1 parenthetical, 4 paragraph blocks, Antioch/Antioquia 2:2. Negation check on the rewritten clause: single negation ("não fica privado"), no cancelling double negative. Pronoun chain re-checked: "a paga… dela" feminine throughout, "este… o recebe" masculine throughout (*dinheiro*) — no crossing. Crase sweep over the new text: "ao contrário" (a + o) correct, no crase required in "ainda que disso não preciseis".
 
 No defects found. **Second consecutive clean round — review closed.**
 
