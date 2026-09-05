@@ -30,3 +30,7 @@ Target: pt-BR
 - 2026-09-05: No editor/scholarly footnotes present in the source (only inline editorial brackets, treated as above) — no translator notes were needed.
 - 2026-09-05: The dialogue between Trajan and Ignatius (Ch. 2) uses "tu" throughout for both speakers, matching the direct, personal register of an interrogation exchange (not the tu/vós shift pattern used for Ignatius addressing a congregation in his own letters).
 - 2026-09-05 — **review round 1**: exhaustive chapter-by-chapter audit (completeness, structure, proper names, Scripture references, the Trajan/Ignatius dialogue line by line, diacritics, markdown format, footnotes). Clean — no issues found.
+- 2026-09-05 — **review round 2**: independent line-by-line pass found and fixed three defects:
+  - Ch. 5: the bracketed insertion "[as we did]" (qualifying "mourning") had been dropped entirely — added back as "[como nós próprios fazíamos]".
+  - Ch. 2: "hurried away" (of Ignatius being taken off to the ship) had been rendered *arrastado* ("dragged along the ground"), which both overstates the English and clashes with the ram/flock simile that follows (a ram is led, not dragged) — changed to *levado às pressas*, matching the same English verb's rendering in Ch. 5 ("apressados").
+  - Ch. 1: "he resisted the flood" had been rendered with the preterite *resistiu*, breaking the imperfect-tense aspect used throughout the rest of the sentence for this same durative, habitual resistance (*governava*, *alegrava-se*, *afligia-se*) — changed to *resistia*.
