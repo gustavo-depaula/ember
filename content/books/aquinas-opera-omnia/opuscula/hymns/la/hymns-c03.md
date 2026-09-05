@@ -1,4 +1,4 @@
-# The Heavenly Word Proceeding Forth
+# Verbum Supernum Prodiens
 
 ***Verbum supernum prodiens,***
 ***nec Patris linquens dexteram,***
@@ -25,4 +25,3 @@
   sit sempiterna gloria,  
   qui vitam sine termino  
   nobis donet in patria. Amen.
-- {modern chant_Verbum}

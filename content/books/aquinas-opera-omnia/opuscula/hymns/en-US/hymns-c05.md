@@ -17,7 +17,7 @@
   Both are my confession, both are my belief,  
   And I pray the prayer of the dying thief.
 - I am not like Thomas, wounds I cannot see,  
-  But can plainly call you Lord and God as he;  
+  But can plainly call thee Lord and God as he;  
   Let me to a deeper faith daily nearer move,  
   Daily make me harder hope and dearer love.
 - O thou our reminder of Christ crucified,  

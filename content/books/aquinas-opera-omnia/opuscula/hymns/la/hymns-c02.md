@@ -1,4 +1,4 @@
-# Let This Our Solemn Feast
+# Sacris Solemniis
 
 ***Sacris solemniis iuncta sint gaudia,***
 ***et ex praecordiis sonent praeconia***
@@ -26,7 +26,6 @@
   O res mirabilis: manducat Dominum  
   pauper servus et humilis.
 - Te, trina Deitas unaque, poscimus,  
-  sicut nos visitas, sicut te colimus:  
+  sic nos tu visita, sicut te colimus:  
   per tuas semitas duc nos quo tendimus,  
   ad lucem quam inhabitas. Amen.
-- {modern chant_Sacris}

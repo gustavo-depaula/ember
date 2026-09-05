@@ -1,4 +1,4 @@
-# Adoro-Te Devotamente
+# Eu Vos Adoro com Devoção
 
 ***Hino (adaptado da oração)***
 ***[tradução em uso nas práticas devocionais do Ember]***

@@ -1,7 +1,7 @@
 # Sing, My Tongue
 
 ***Hymn from Vespers***
-***[translated by Rev. Edward Caswell (1814–1878)]***
+***[translated by Rev. Edward Caswall (1814–1878)]***
 
 ***Sing, my tongue, the savior’s glory,***
 ***of his flesh the mystery sing;***
@@ -18,7 +18,7 @@
   wondrously his life of woe.
 - On the night of that last supper,  
   seated with his chosen band,  
-  he the pascal victim eating,  
+  he the paschal victim eating,  
   first fulfills the law’s command;  
   then as food to his apostles  
   gives himself with his own hand.

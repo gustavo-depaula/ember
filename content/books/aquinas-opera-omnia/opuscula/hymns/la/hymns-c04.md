@@ -1,4 +1,4 @@
-# Praise, O Zion
+# Lauda Sion Salvatorem
 
 ***Lauda Sion salvatorem***
 ***lauda ducem et pastorem***
@@ -25,7 +25,7 @@
 - Vetustatem novitas,  
   umbram fugat veritas,  
   noctem lux eliminat.
-- Quod in coena Christus gessit,  
+- Quod in cena Christus gessit,  
   faciendum hoc expressit  
   in sui memoriam.
 - Docti sacris institutis,  
@@ -79,6 +79,5 @@
 - Tu qui cuncta scis et vales,  
   qui nos pascis hic mortales:  
   tu nos *(BNF 1143 reads *tuos* instead of *tu nos*.)* ibi commensales,  
-  coheredes, et sodales  
+  cohaeredes, et sodales  
   fac sanctorum civium. Amen.
-- {modern chant_Lauda}

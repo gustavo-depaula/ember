@@ -25,7 +25,7 @@
 - At this board of our new ruler,  
   of new law, new paschal order  
   the ancient rite abolisheth;
-- Old decrees be new annuled,  
+- Old decrees be new annulled,  
   shadows are in truths fulfilled,  
   day former darkness finisheth.
 - That at supper Christ performed,  
