@@ -32,3 +32,9 @@ Target: pt-BR
   - Fragment 3: restored the source's stray space before the colon ("Hieron .:", not "Hieron.:").
   - Fragment 4: removed italics added around "Adv. Hœr." — the en-US source leaves this citation un-italicized (unlike fragment 5's "*Adv. Heres.*", which the source does italicize; the source itself is inconsistent here and that inconsistency is preserved rather than harmonized).
   - Fragment 9: moved the italic closing marker to match the source's boundary ("*Adv. Jovin*., i. 3." — period outside the italics), which had drifted to "*Adv. Jovin.*, i. 3." in the first draft.
+
+## Review Round 2 (2026-09-05, bilingual fidelity pass)
+
+- Fixed: fragment 3 — "the very violent heresiarch" had been rendered as a superlative "o mais violento heresiarca" (implying "most violent among heresiarchs," a comparison the English intensifier doesn't make). Corrected to "o violentíssimo heresiarca" — Portuguese's synthetic absolute superlative (`-íssimo`) is an intensifier, not a comparative, so it matches "very violent" without introducing a comparison to other heresiarchs.
+- Fixed: fragment 4 — "a conceit of his teacher" was rendered as "a vaidade de seu mestre" ("his teacher's own vanity"), misattributing the conceit to a third party (Tatian's late teacher Justin Martyr) instead of Tatian himself. In context (Irenaeus, *Adv. Haer.* I.28, on Tatian setting himself up as a master after Justin's martyrdom), the conceit is Tatian's own — his self-regard as a teacher, which is what leads into "as if he were superior to the rest." Corrected to "a pretensão de ser mestre" ("the conceit of [considering himself] a teacher"), correctly attributing it to Tatian.
+- Fixed: fragment 6 — "punished and chastised" (a punitive doublet) had "chastised" rendered as "corrigidos" ("corrected"), which shifts toward remediation and loses the punitive force of the pairing. Corrected to "castigados."
