@@ -191,3 +191,13 @@ Certo dia, algum tempo depois da Ascensão, os judeus prenderam toda a família 
 Maria passava seus dias numa caverna na encosta da montanha, onde pendurou uma Cruz, orando fervorosamente por todos os pecadores, alimentando sua alma com a memória de seu Senhor, cujos pés jamais deixava, fiel e constante sempre em seu amor penitente.
 
 Há uma tradição segundo a qual, sete vezes ao dia, os anjos, seus queridos companheiros, a carregavam ao cume da montanha para orar. No último dia de sua vida terrena, desceu em direção à planície. Maximino veio ao seu encontro e lhe deu o Corpo de Cristo na Eucaristia. Ela é então libertada da prisão do corpo e finalmente admitida a abraçar os pés dEle na glória eterna. Seu corpo aguarda sua gloriosa ressurreição na cripta da igreja que hoje leva o nome de São Maximino.
+
+Nihil Obstat:
+
+W. M. COLLINS, Censor Deputado
+
+Imprimatur:
+
+@ D. Mannix,
+
+Arcebispo de Melbourne, 4 de janeiro de 1957

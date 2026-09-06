@@ -109,3 +109,13 @@ Depois rezai o Pai-Nosso, a Ave-Maria e o Glória ao Pai.
 Oremos: Ó Deus Todo-Poderoso, destes a Vosso Confessor São João Francisco Régis tão admirável caridade e inabalável paciência, que ele foi capaz de suportar trabalho, dificuldade e dor pela salvação das almas. Concedei-nos benignamente que possamos seguir seu exemplo, e sejamos constantemente ajudados por suas orações, para que assim alcancemos as recompensas da felicidade eterna. Por Cristo Nosso Senhor. Amém.
 
 [^1]: *Nota do tradutor:* A autenticidade desta história é posta em dúvida por alguns autores, pelo fato de não ser relatada pelos primeiros biógrafos do santo, e por parecer estar em desacordo com seu espírito.
+
+Nihil Obstat:
+
+D. P. MURPHY, Censor Deputado.
+
+Imprimatur:
+
+@ D. Mannix,
+
+Arcebispo de Melbourne.

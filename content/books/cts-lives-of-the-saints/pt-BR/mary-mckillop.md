@@ -141,3 +141,11 @@ Têm orgulho da Madre Maria; orgulho, e também confiança. Confiança de que a 
 Ó Deus, que não quereis que nenhuma alma pereça, mas que todas se convertam e vivam, concedei, nós vos suplicamos, êxito à boa obra iniciada por vosso Nome por vossa serva Maria da Cruz, e dignai-vos glorificar de tal modo seu nome diante dos homens que uma multidão cada vez maior de almas possa, por seu intermédio, ser conduzida à salvação eterna. Por Cristo Nosso Senhor. Amém.
 
 [^1]: Ver *Australia — The Catholic Chapter*, do Rev. James G. Murtagh: "The Lady and the Legend".
+
+Nihil Obstat:
+
+BERNARD O'CONNOR, Censor Diocesano.
+
+Imprimatur:
+
+@ JUSTIN D. SIMONDS, Arcebispo de Melbourne. 29 de junho de 1966.

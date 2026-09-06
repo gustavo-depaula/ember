@@ -73,3 +73,13 @@ O naturalismo diz: "Eu os aconselho, e desejo ajudá-los; mas eles sonham suas v
 Elas se erguem diante do mundo como penhor de nossa vida católica e de nossa renascente atividade católica, mas também são monumentos ao vosso fracasso, depois de terdes feito o pior que podíeis. Por isso mal suportais a visão delas. Nunca nos censurastes por esticarmos nossa pobreza para pagar o aluguel exorbitante e o dízimo, a taxa da igreja e os impostos. Não, de fato; aprovastes — mais, obrigastes-nos a isso. Vossa ansiedade quanto a nossa pobreza começa quando o dinheiro gasto se torna expressão de nossa fé e evidência de vosso fracasso. Mais uma vez, fostes vós que fizestes nossa pobreza, não nós; somos nós que pagamos essas igrejas, não vós; e não buscamos vossa aprovação nem damos atenção à vossa censura. Seguimos nosso próprio caminho. Reconhecemos que nosso caminho não é o vosso; admitimo-lo; e, o que talvez vos surpreenda, alegramo-nos com essa distinção. Enquanto estamos neste mundo, como vós, valorizamos "nosso pão de cada dia", mas, diferente de vós, cremos que "não só de pão vive o homem". Tomastes posse das igrejas que nossos pais construíram; algumas delas há muito estão em ruínas, e as demais, vazias. Construímos outras em seu lugar, e as enchemos. Escolhei vossos próprios ideais; nós preferimos os de Madalena, a penitente, e os de São João, o Apóstolo do Amor. Ela comprou unguentos custosos para mostrar seu amor a seu Salvador, e o Apóstolo do Amor aprovou o que ela fez, repreendendo o fariseu que a censurou. É o mesmo Apóstolo do Amor que nos diz que "o Verbo Se fez carne e habitou entre nós". Ele habita entre nós ainda, e por isso construímos igrejas custosas e altares custosos para O abrigar; e, como Madalena, não lamentamos o custo. Cercamos também esses altares de custosas grades, mas os rodeamos de algo infinitamente mais precioso do que mármore: almas penitentes, que, purificadas pelo Sacramento da Penitência, mostram seu amor e sua necessidade de seu Salvador ao se aproximarem dessas grades para O receber. Temos nossas faltas, como o resto da humanidade, mas o sabemos. Mas nossa fé nos dá esperança, e confiamos no bom Deus, que nos preservou por meio de muitas dificuldades e graves provações até este dia. O pensamento de São Paulo continua a ressoar em nossas almas:
 
 "Estamos confiantes precisamente nisto: que Aquele que começou em nós a boa obra a há de aperfeiçoar até o dia de Jesus Cristo."
+
+Nihil obstat:
+
+J. DONOVAN, Censor Deputado
+
+Imprimatur:
+
+@ D. Mannix,
+
+Arcebispo de Melbourne

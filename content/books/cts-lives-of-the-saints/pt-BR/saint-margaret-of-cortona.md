@@ -1,4 +1,4 @@
-# Santa Margarida De Cortona
+# Santa Margarida de Cortona
 
 A vida de Santa Margarida de Cortona é um exemplo da misericórdia de Deus para com o pecador, e está repleta de consolo para o penitente. Em Santa Margarida vemos alguém que abandonara a Deus, mas não foi por Ele abandonada. Deus velou por ela, escutou seus débeis clamores por socorro, guardou seus fracos desejos de retorno, até que, por fim, por um grande ato de Seu amor, a tirou do deserto de pecado em que, por nove anos, ela havia vagado.
 

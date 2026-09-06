@@ -141,3 +141,15 @@ A procissão parou na praça diante da igreja, e ali o Bispo de Belley, em palav
 Muitos corações se comoveram com as palavras de consolo que ele proferiu. Rogai, então, por nós, ó santo Confessor de Cristo, pelo lento martírio de vossos trabalhos de toda uma vida pelas almas! Rogai por nossos sacerdotes, para que seus trabalhos se multipliquem e seu número e sua força se igualem a seus trabalhos. Rogai por nossas crianças não batizadas e negligenciadas, ó pai do órfão e do desamparado! Rogai por aqueles que, por culpa alheia, foram criados na heresia e no cisma, para que se lhes abram os olhos e vejam a luz e a beleza da Igreja de Deus.
 
 A Beatificação do Venerável Jean Baptiste Marie Vianney foi decretada pelo Papa Pio X em São Pedro, a 8 de janeiro de 1905, e sua Canonização foi celebrada vinte anos depois, em 31 de maio de 1925, pelo Papa Pio XI.
+
+Nihil obstat:
+
+J. Donovan,
+
+Censor Deputado.
+
+Imprimatur:
+
+@ D. Mannix,
+
+Arcebispo de Melbourne.

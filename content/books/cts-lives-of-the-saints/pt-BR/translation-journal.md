@@ -42,6 +42,27 @@ house style.
 | miracle | milagre | |
 | stigmata | estigmas | |
 
+| lay-brother / Coadjutor Brother | irmão leigo / Irmão Coadjutor | |
+| Clerks/Clerics Regular | Clérigos Regulares | Theatines, Camillians |
+| Theatines | Teatinos | |
+| Doctor of the Church | Doutor da Igreja | |
+| taumaturgo/a (wonder-worker, thaumaturgus) | taumaturgo / taumaturga | recurring epithet across many chapters |
+| bilocation | bilocação | |
+| Sodality | Sodalidade | |
+| Third Order / Tertiary | Terceira Ordem / Terciário, Terciária | |
+| Salesian(s) | Salesiano(s) | |
+| the Society of Jesus / Jesuits | a Companhia de Jesus / jesuítas | not "Sociedade de Jesus" |
+| Servite(s) (Order of the Servants of Mary) | Servita(s) / Ordem dos Servos de Maria | |
+| Passionist(s) | Passionista(s) | |
+| Oblates of Mary Immaculate | Oblatos de Maria Imaculada | |
+| Daughters of Charity | Filhas da Caridade | |
+| Daughters of Mary, Help of Christians | Filhas de Maria Auxiliadora | |
+| recusant (Elizabethan legal term) | recusante | |
+| Landgrave | Landgrave (kept untranslated) | no standard PT equivalent; kept as a foreign title |
+| viaticum | Viático | |
+| discalced / barefoot (Carmelites) | descalço(a) | |
+| foundations (Teresa of Ávila's convents) | fundações | matches her own book title *Fundações* |
+
 ## Translation Decisions
 
 - 2026-09-06: Seeded journal before batch translation. Saints' names rendered
@@ -49,6 +70,56 @@ house style.
   "São Francisco Xavier", "St. Teresa of Avila" → "Santa Teresa d'Ávila" /
   "Santa Teresa de Ávila" — confirm per-chapter which spelling the source
   itself favors and keep it consistent within that chapter).
-- Editor/publisher apparatus (CTS series front matter, if any survives in a
-  chapter file) is dropped per the skill's default footnote policy; author
-  text itself is translated in full.
+- **Front matter (Nihil Obstat / Imprimi Potest / Imprimatur) is KEPT, not
+  dropped.** These CTS pamphlets end with the original censor/bishop
+  approbation lines — that's the pamphlet's own historical front matter, not
+  a later editor's scholarly apparatus, so it's translated and kept at the
+  end of every chapter that has it in the source (Latin formulas Nihil
+  Obstat/Imprimi Potest/Imprimatur stay untranslated; "Censor Deputatus" →
+  "Censor Deputado", "Diocesan Censor" → "Censor Diocesano", "Archbishop of
+  Melbourne" → "Arcebispo de Melbourne"; personal names, dates, and any OCR
+  typos already in the source are kept as-is). *(Note: an earlier draft of
+  this journal said the opposite — several batches dropped these blocks
+  before this line was corrected; all 8 affected chapters — mary-mckillop,
+  saint-gertrude, saint-jean-b-m-vianney-cure-of-ars-1785-1859,
+  saint-john-francis-regis, saint-martin-of-tours, saint-mary-magdalen,
+  saint-mary-mazzarello, saint-patrick — have had the block restored to match
+  this policy.)*
+- Genuine author footnotes (source citations, the author's own asides) are
+  kept and translated as markdown footnotes; only later scholarly/editorial
+  apparatus would be dropped, and none of that turned up in this book — every
+  chapter is a single author's own pamphlet text.
+- **Distances in miles**: several chapters (e.g. saint-joseph-cafasso,
+  saint-margaret-mary-alacoque, saint-louise-de-marillac,
+  saint-margaret-of-cortona, saint-stanislaus-kostka, and others) were
+  translated with mile figures converted to approximate metric km for a
+  Brazilian reader. This was an unplanned, independent choice made by several
+  translating agents (not a house policy), so it's inconsistent with chapters
+  that may have kept miles as "milhas" instead — flagged here for the review
+  pass to check and reconcile (either restore the source's own miles
+  throughout, or keep the metric conversions but confirm they're applied
+  uniformly and the arithmetic is sound).
+- **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
+  quoted period slurs about a missionary sister who worked among enslaved and
+  formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era
+  "Red barbarian" framing) was kept, in quotation marks, matching the
+  source authors' own critical/period usage rather than silently sanitized —
+  consistent with "modernize only when the original would be confusing or
+  offensive," since here the offensive terms are being quoted and criticized
+  by the source, not endorsed narratorially.
+- St. Dymphna's name rendered "Santa Dympna" in `saint-dymphna.md` (dropping
+  the silent 'h', matching common PT-BR hagiographic spelling).
+- `saint-rita.md`: corrected a name that would be an easy mistranslation —
+  the source's "St. James della Marca" (San Giacomo della Marca, a distinct
+  Franciscan) is NOT St. Didacus/Diego of Alcalá; rendered "São Tiago da
+  Marca," keeping the two saints distinct.
+- `mary-mckillop.md`: the English source itself spells the saint's surname
+  inconsistently ("MacKillop" in the title, "McKillop" in body text) — this
+  inconsistency was preserved as in the source rather than silently
+  normalized to one spelling.
+- Several OCR-era artifacts in the English source (garbled line breaks,
+  duplicated clauses, a dangling footnote marker with no footnote text in
+  `saint-patrick.md`, a probably-mistyped Imprimatur date in
+  `saint-pius-x.md`) were resolved silently where they were obvious
+  transcription noise (not content), and left as-is (not invented/corrected)
+  where the intended reading was genuinely ambiguous.

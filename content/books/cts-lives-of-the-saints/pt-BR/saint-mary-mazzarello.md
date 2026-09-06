@@ -192,3 +192,13 @@ A Madre Mazzarello estava morta.
 ## Glorificação
 
 À morte de sua fundadora, as Filhas de Maria Auxiliadora contavam 230 membros, trabalhando em 28 casas, das quais seis na América do Sul. Em 1950, o número havia crescido para 12.000 irmãs, com quase mil casas, e as irmãs trabalhavam em todos os cinco continentes, exceto na Austrália. A heroicidade das virtudes da Madre Maria Mazzarello foi proclamada pelo Papa Pio XI em 1936. Em 20 de novembro de 1938, o mesmo Pontífice a beatificou, e em 24 de junho de 1951, Sua Santidade o Papa Pio XII, gloriosamente reinante, canonizou solenemente a Madre Maria Mazzarello, que se tornou o segundo membro da família salesiana a ser inscrito entre os santos canonizados da Igreja. Uma humilde moça camponesa, de pouca instrução e que fugia do mundo e de suas máximas, alcançou fama maior e mais duradoura do que os milhões de homens mundanos que buscaram apenas honrarias terrenas e ver seus nomes e feitos escritos com destaque nas páginas da história. Ela será lembrada quando eles já estiverem há muito esquecidos. Características da vida humilde de Santa Maria Domingas Mazzarello foram as últimas palavras que dirigiu a suas filhas espirituais: "Amai-vos umas às outras, praticai a verdadeira caridade, a humildade e a obediência. Ensinai as moças a serem francas e sinceras."
+
+Nihil obstat:
+
+W. M. COLLINS, Censor Dioc.
+
+Imprimatur:
+
+@ Daniel Mannix,
+
+Arcebispo de Melbourne.

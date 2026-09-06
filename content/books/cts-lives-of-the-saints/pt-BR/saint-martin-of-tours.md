@@ -83,3 +83,13 @@ As linhas harmoniosas da cúpula que cobre o túmulo sagrado destacam-se contra 
 Podemos fechar com propriedade este breve relato da vida e das obras do glorioso São Martinho com a oração que a Igreja profere na Missa de sua festa, celebrada em 11 de novembro:
 
 > "Ó Deus, que vedes que não depositamos confiança em nossas próprias forças, concedei-nos esta graça: que, pela intercessão de vosso bem-aventurado confessor, o bispo Martinho, sejamos fortalecidos contra todo mal; por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, para todo o sempre. Amém."
+
+Nihil Obstat:
+
+Percy Jones,
+
+Censor Diocesano.
+
+Imprimatur: @ D. Mannix,
+
+Arcebispo de Melbourne.
