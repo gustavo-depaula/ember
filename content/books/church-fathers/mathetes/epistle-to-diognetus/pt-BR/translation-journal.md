@@ -263,7 +263,35 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     with source access to decide; it belongs to the import, not the
     translation.
 
+- **Round 9 (1 defect found and fixed; the counter restarts again).**
+  Three passes: one re-deriving round 8's own Ch. 6 edit from scratch,
+  and two fresh full sweeps over Chs. 1–6 and 7–12. Round 8's fix was
+  independently confirmed correct on all five points checked (referent,
+  the subjectless "porque é impedida" now binding to "a própria carne"
+  with correct feminine agreement on *impedida*, the concessive present
+  subjunctive matching the parallel "embora ... seja prejudicado", and
+  native readability). Chs. 5–8 and 7–12 came back clean, including
+  recounts of Ch. 9's five antithetical pairs and eleven-item title list
+  and Ch. 10's "to whom" chain, and confirmation that Ch. 10's
+  "a qual"/"à qual" crase alternation is correct.
+  - Ch. 2: tonic-pronoun proximity ambiguity, in the same sentence round
+    2 had already edited — but on a different word, so this is not the
+    "polishing a bad parse" anti-pattern the dev journal warns about.
+    Round 2 settled the sentence's *subject* (ordinary vessels, not the
+    idols), and that parse re-derives correctly from the paragraph's
+    reciprocal argument; untouched by that fix was the pronoun in
+    "become like **to such**", rendered "semelhantes **a eles**". It sat
+    immediately after "formadas dos mesmos materiais", making
+    *materiais* — not the gods — the nearest masculine-plural
+    antecedent, so the first parse is the circular "become similar to
+    the materials they are made of". Fixed by reordering to pull the
+    pronoun away from the trap rather than by adding a gloss, which
+    keeps the file's bracket parity intact: "Não se tornariam
+    **semelhantes a eles** essas coisas que hoje são vasos, formadas dos
+    mesmos materiais, se caíssem nas mãos dos mesmos artífices?" The
+    nearest antecedent is now "desses [deuses]" in the preceding
+    sentence, which is the correct one.
+
 ## Conclusion
 
-Seven review rounds total (5 with fixes, rounds 6–7 clean back to back).
-The translation is complete, faithful, and considered done.
+Nine review rounds so far (7 with fixes; rounds 8–9 run post-merge).
