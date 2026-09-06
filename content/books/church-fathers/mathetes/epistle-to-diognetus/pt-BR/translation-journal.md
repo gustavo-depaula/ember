@@ -351,6 +351,40 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
   checked and is a correct disambiguation. **No objective defects found
   — clean.** First of the two required consecutive clean rounds.
 
+- **Round 12 (1 defect found and fixed — and it reverses round 3's
+  explicit decision to leave this sentence alone).** A full-file
+  re-derivation of all twelve chapters, including re-verification of all
+  four post-merge edits, came back clean. A separate native-reader pass
+  — Portuguese read straight through with the English closed, only then
+  opened to check each stumble — cleared four first-pass stumbles as
+  faithful renderings of the source's own tangled syntax (the Ch. 1
+  infinitive-to-subjunctive shift, the Ch. 6 flesh/soul causation, the
+  Ch. 2 "[teu Deus]" bracket, and Ch. 9's singular "pairava" with a
+  three-item subject) and found one real defect.
+  - Ch. 3: a category mismatch, in the one sentence **round 3 examined
+    and deliberately left unchanged**. "they... might justly reckon
+    **it** rather an act of folly than of divine worship" had been
+    rendered "eles... poderiam com justiça **ser reputados** antes um
+    ato de insensatez do que de culto divino" — a passive whose subject
+    is *eles*, the Jews, equated with the predicate "um ato de
+    insensatez". People cannot be an act; the English's "it" (their
+    practice) had been dropped and the persons had taken its
+    grammatical place. Round 3 had justified leaving this on the grounds
+    that the English's referent for "it" is itself ambiguous and the
+    passive was "a defensible reading of that ambiguity." That reasoning
+    does not hold: the ambiguity in the English is about **who** does
+    the reckoning, not **what** is reckoned, and under every available
+    reading the thing called "an act of folly" is the practice, never
+    the people — so the passive is not a reading of the source's
+    ambiguity but outside the space of readings it allows. **Source
+    ambiguity licenses choosing among the source's readings; it does not
+    license a construction that is none of them.** Fixed by restoring
+    the dropped object and mirroring the English's own
+    subject/verb/object structure: "poderiam com justiça **reputar
+    isso** antes um ato de insensatez do que de culto divino" — which
+    preserves, rather than silently resolves, the source's own oddity
+    that the Jews would be the ones reckoning their practice folly.
+
 ## Conclusion
 
-Eleven review rounds so far (9 with fixes; rounds 8–11 run post-merge).
+Twelve review rounds so far (10 with fixes; rounds 8–12 run post-merge).
