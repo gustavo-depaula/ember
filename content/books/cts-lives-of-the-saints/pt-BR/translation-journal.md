@@ -178,6 +178,25 @@ house style.
   `saint-louise-de-marillac.md`; Baux/Beau in
   `saint-jean-b-m-vianney-cure-of-ars-1785-1859.md`). Not yet a clean round
   — proceeding to round 5.
+- **Round 5** (8 parallel agents, full book, final verification pass): 5 of
+  8 batches came back fully clean; the other 3 found one small defect each
+  that four earlier passes had missed — a missing conjunction in
+  `saint-camillus-de-lellis.md` ("gratidão louvor" → "gratidão e louvor");
+  "townland" mistranslated as the ecclesiastical "paróquia" instead of
+  "povoado" in `saint-cataldus.md`; a malformed "many a ___" idiom
+  ("muitos um bravo sacerdote" → "mais de um bravo sacerdote") in
+  `saint-clement-mary-hofbauer-c-ss-r.md`; a remaining "esquartejado" used
+  for "racked" (rack, not quartering) inside Campion's own quoted letter in
+  `saint-edmund-campion.md`; a number-agreement slip ("gari" → "garis") in
+  `mary-mckillop.md`; two distinct chapter headings ("Escape" and "Flight")
+  both rendered identically as "A Fuga" — renamed the first to "A
+  Escapada" to restore the author's own distinction — in
+  `saint-stanislaus-kostka.md`; and a subject-verb number-agreement slip
+  ("amargura que seriam causadas" → "que seria causada") in
+  `saint-margaret-mary-alacoque.md`. A few more spelling variants
+  (Herera/Herrera, Gonzalez/Gonzalo in `saint-rose-of-lima.md`) were left
+  as-is, matching established precedent. Not yet a clean round —
+  proceeding to round 6.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era
