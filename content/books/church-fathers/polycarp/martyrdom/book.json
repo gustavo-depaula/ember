@@ -1,13 +1,16 @@
 {
   "id": "polycarp-martyrdom",
   "name": {
-    "en-US": "The Martyrdom of Polycarp"
+    "en-US": "The Martyrdom of Polycarp",
+    "pt-BR": "O Martírio de Policarpo"
   },
   "author": {
-    "en-US": "Polycarp"
+    "en-US": "Polycarp",
+    "pt-BR": "Policarpo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Martyrdom of Polycarp"
+        "en-US": "The Martyrdom of Polycarp",
+        "pt-BR": "O Martírio de Policarpo"
       }
     }
   ]
