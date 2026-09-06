@@ -107,3 +107,31 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     inside the bracket. Fixed by substituting "tal fogo" for "aquele fogo,"
     since "de tal" does not contract in Portuguese, letting the bracket
     cleanly wrap the whole gloss: `[a natureza de] tal fogo`.
+
+- **Round 3 (1 defect found and fixed — a side effect of round 2's own
+  fix).** Independent pass targeting verb agreement across long clauses,
+  pronoun antecedents in Chs. 6–9, the full Ch. 6 soul/body chain,
+  "conhecimento"/"vida" consistency, the Ch. 12 two-trees passage, a full
+  bracket resweep, and re-verification of every sentence edited in rounds
+  1–2. Ch. 6, Ch. 7, Ch. 8, Ch. 9, Ch. 12, and 5 of the 6 previously-edited
+  sentences all held up clean.
+  - Ch. 2: round 2's fix changed this branch's protasis from subjunctive
+    "se elas tivessem sentimento" to indicative "se elas têm sentimento" to
+    match the parallel branch's indicative mood, but left the apodosis
+    "não as punirias" (conditional) unchanged — leaving a real/Type-1
+    protasis paired with a conditional-mood main clause, which is not
+    grammatical Portuguese ("se + presente do indicativo" requires a
+    present/future indicative apodosis, not "punirias"). Fixed the
+    apodosis to indicative: "não as punes antes [de honrá-las], se elas
+    têm sentimento?" — now both branches of the dilemma are fully
+    indicative/factual, matching the English's plain present-tense
+    question.
+  - **Considered and left as-is**: Ch. 3, "they... might justly reckon it
+    rather an act of folly than of divine worship" → "poderiam com justiça
+    ser reputados antes um ato de insensatez do que de culto divino." The
+    English's own referent for "it" (their practice, vs. "they" as
+    grammatical subject of "reckon") is genuinely ambiguous/awkward in the
+    source itself; the Portuguese passive construction is a defensible
+    reading of that ambiguity, not a clear-cut error, so left unchanged
+    rather than risk introducing a different error by "fixing" a source
+    ambiguity.
