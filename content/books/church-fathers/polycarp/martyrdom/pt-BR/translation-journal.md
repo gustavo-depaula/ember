@@ -36,6 +36,7 @@ Target: pt-BR
 | Catholic Church | Igreja Católica | |
 | wild beasts | feras | |
 | the Atheists (pagan crowd's slur for Christians) | os ateus | |
+| reproach / revile (Christ) | insultar | *not* `reprovar`, which in modern Brazilian Portuguese means "to fail (a student)" or "to disapprove of (an idea)" — evaluative rejection, not verbal abuse of a person |
 | executioner(s) | carrasco(s) | *not* `executor`, which everywhere else in this corpus means "doer" or "executor of a will"; `carrasco`/`algoz` is the term the corpus uses for the executioners of martyrs |
 
 ## Translation Decisions
