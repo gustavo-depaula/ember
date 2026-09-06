@@ -385,6 +385,29 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     preserves, rather than silently resolves, the source's own oddity
     that the Jews would be the ones reckoning their practice folly.
 
+- **Round 13 (1 defect found and fixed).** An adjudication pass
+  re-derived round 12's Ch. 3 change and upheld it on every point: in
+  Portuguese "X ser reputado Y" is an equative passive that obligatorily
+  identifies subject with predicate, so there is no idiomatic reading of
+  "eles ... ser reputados ... um ato" that rescues the old wording; the
+  English's "it" cannot pick out the people under any of its readings;
+  and "reputar isso" matches the file's own idiom (Ch. 4, "quem
+  reputaria isto uma parte do culto divino"). Its full twelve-chapter
+  secondary sweep was clean. A second native-reader pass then found the
+  round's one defect — again something a mechanical English-vs-Portuguese
+  comparison cannot see.
+  - Ch. 12: verb government. "which the Serpent cannot reach, and **to
+    which** deception does not approach" read "às quais a Serpente não
+    pode chegar, e **às quais** o engano não se aproxima". Reflexive
+    *aproximar-se* governs **de**, not **a**. The first relative clause
+    is right, since *chegar* does take "a"; the second carried that
+    preposition across by parallelism with it and with the English's
+    "to which". All ten occurrences of *aproximar-se* elsewhere in the
+    corpus take "de". Fixed to "**das quais** o engano não se aproxima."
+    Coordinated relative clauses taking different prepositions is
+    correct here, not an inconsistency — each verb governs its own.
+
 ## Conclusion
 
-Twelve review rounds so far (10 with fixes; rounds 8–12 run post-merge).
+Thirteen review rounds so far (11 with fixes; rounds 8–13 run
+post-merge).
