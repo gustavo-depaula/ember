@@ -481,20 +481,163 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
   - **No objective defects found — clean.** Second consecutive clean
     round; the review concludes here.
 
+- **Round 16 (post-merge again — 1 defect found and fixed; the counter
+  restarts).** Run after PR #422 merged. Three passes, each assigned a
+  chapter range for a from-scratch fidelity re-derivation plus two
+  whole-file categories chosen because no earlier round had run them:
+  second-person address consistency and orthography/homophones; lexical
+  consistency mapping and punctuation/markdown parity; clause-level
+  omission and negation scope.
+  - Ch. 1: a dropped quantifier. "…what form of religion they observe,
+    so as **all** to look down upon the world itself, and despise
+    death…" read "…de modo a desprezarem o próprio mundo e a
+    menosprezarem a morte…". English "all" is a floated quantifier over
+    the implicit subject, and it had no counterpart anywhere in the
+    clause. It is not decoration: it asserts that the contempt for the
+    world and for death is *universal* among the Christians, which is
+    exactly what makes Diognetus's question worth asking. Fixed to "de
+    modo a **todos** desprezarem …", with "todos" as the explicit
+    subject of the personal infinitive; the second coordinate keeps its
+    plural personal-infinitive ending (`menosprezarem`), so the
+    quantifier distributes over both verbs. Round 17 re-derived the fix
+    and confirmed it on all five points checked, including a corpus
+    check that quantifier + plural personal infinitive is idiomatic
+    ("para todos lerem", `morrow-my-catholic-faith/pt-BR`).
+  - **Four findings rejected, with evidence.** Ch. 8's "nenhum homem
+    **jamais** o viu" was reported as an inserted intensifier; it is
+    not — English present-perfect universal negation carries the "ever"
+    reading inherently, Portuguese preterite `viu` alone reads as
+    bounded past, and the clause alludes to John 1:18, which the
+    Douay-Rheims renders "No man hath seen God **at any time**… he hath
+    declared him" (the seen/declared pair is this very sentence). Round
+    18 independently found the corpus rendering "Ninguém **jamais** viu
+    a Deus" in `gregory-thaumaturgus/trinity/pt-BR`. Ch. 4's trailing
+    "a esse respeito" was reported as an addition; it is a resumptive
+    with no propositional content, licensed by the distance between the
+    fronted `quanto a` topic and the main clause. Ch. 2's italic
+    `*estas*` was reported as an unmotivated shift from the four
+    preceding anaphoric `essas`; the fifth instance is emphatic deixis
+    carrying the English's own italic, and Portuguese proximal `estas`
+    is the natural emphatic form. And every semicolon, em-dash, colon
+    and quote-style delta was traced to ordinary punctuation-density
+    variation between the languages, with no clause lost and no logical
+    relation changed.
+
+- **Round 17 (clean).** Three passes: a from-scratch re-derivation of
+  round 16's fix, plus three whole-file categories never before run —
+  third-person possessive and pronoun referent disambiguation,
+  constituent attachment, and mood/sequence-of-tenses with voice
+  fidelity. The possessive sweep enumerated all 62 `seu/sua`-family
+  occurrences plus every `dele/dela/deles/delas` and third-person
+  clitic and traced each to its referent; the attachment sweep
+  enumerated every relative, PP, scope-sensitive adverb (`apenas`,
+  `somente`, `só`, `também`, `mesmo`, `antes`, `muito mais`, `de todo`,
+  `sempre`, `ainda`, `já`) and coordination. Both came back clean.
+  **Three reported findings from the mood/voice pass were checked and
+  rejected**; recorded here so later rounds do not re-raise them.
+  - **Rejected — Ch. 2, "supões [que tais coisas *sejam* deuses]".**
+    Reported as requiring the indicative on the ground that affirmative
+    verbs of opinion take it. The corpus contradicts the rule for
+    `supor`, which genuinely alternates: "supor que **estejas** na
+    graça de Deus", "supor que tal poder se **restrinja**", "supondo
+    que já **esteja** livre do pecado", "suponham que **seja** uma dor
+    perceptível", "supunha que essas ilusões **viessem** de Vós". The
+    subjunctive marks the content as the addressee's conjecture, which
+    is the pragmatic point here.
+  - **Rejected — Ch. 9, "tendo-nos sido manifestado".** Reported as an
+    agent-dropping passive that should be active, on the parallel of
+    "Tendo-nos, pois, convencido" two sentences later. The parallel does
+    not hold, and the proposed fix would introduce a defect: in
+    "…**we** might through the power of God be made able" the
+    main-clause subject is *we*, so an active participle would bind to
+    `pudéssemos` and assert that we made our own inability manifest —
+    a reading the English does not allow. The agentless passive
+    withholds the agent (as a genitive absolute does) rather than
+    asserting a wrong one. The later clause is correctly active because
+    *there* the English main-clause subject really is "He".
+  - **Rejected — Ch. 9, "seria possível".** Reported as breaking the
+    parallelism of "era capaz … seria possível". The English doublet is
+    not parallel either — "what other thing **was capable** of covering"
+    against "by what other one **was it possible** that we … **could
+    be** justified", where the second carries a modal the first lacks —
+    and the conditional suits a rhetorical question about an
+    alternative that does not exist. The finding's own corpus citation
+    ("Seria possível que … fosse empecilho…?", `montfort-true-devotion`)
+    is that same construction.
+  - Two further constructions were examined and recorded as considered:
+    Ch. 9's `arrastados`, whose two available parses converge on the
+    same proposition, and the `PP + somente + verb` order in Chs. 8 and
+    10, an attested pattern for binding the adverb to the preceding PP.
+  **First of the two required consecutive clean rounds.**
+
+- **Round 18 (clean — review concludes).** Three passes over categories
+  still unrun: word-level lexical precision and the rendering (not
+  capitalization) of every divine title; Scripture allusion and citation
+  fidelity; and enumeration integrity with cross-chapter formula
+  consistency and a final native-reader pass. All three clean.
+  - The lexical pass checked every content word and cleared each
+    flagged candidate against the corpus: `dispensação` (Ignatius,
+    "a antiga dispensação"), `ordenações` in the decree sense (Rom 13:2
+    as "a ordenação de Deus" in two catechisms), `peregrinos` (the same
+    1 Pet 2:11 the text cites, as "estrangeiros e peregrinos"),
+    `piedade`, `envaidece` (1 Cor 13:4 "não se envaidece"),
+    `enunciados`, and the Ch. 9 title list. `Sustentador` for
+    "Nourisher" was examined closely, since the corpus uses it elsewhere
+    for "Sustainer", and kept: Portuguese `sustento` carries the
+    material-provision sense the sentence needs, its clause ending "para
+    que não nos preocupássemos com vestimenta e alimento".
+  - Citation placement was verified clause-by-clause for all 8
+    citations in both languages — none drifted — with book names in
+    correct pt-BR form and every chapter:verse digit-identical.
+  - Every enumerated chain was counted member by member: Ch. 2's six
+    materials and four craftsmen and seven-question volley, Ch. 5's 17
+    antithesis clauses, Ch. 7's 5-member list and 9-member realm list
+    and 8-clause relative chain, Ch. 9's 5 title pairs and 11-item list,
+    Ch. 10's 7-clause chain and its 5-`então`/4-`quando` chain, Ch. 11's
+    5 participles. All match in membership and order.
+  - **Considered and rejected — "sense" as `sentimento` (Ch. 2) vs.
+    `sentido` (Ch. 3).** English repeats one word; Portuguese splits it.
+    Each chapter is internally consistent and each choice matches its
+    own collocation — Ch. 2 pairs it with `razão` ("dotado de sentimento
+    e razão", sentience as a trait of living beings), Ch. 3 with
+    `audição` ("sentido e audição", a sensory faculty). Idiomatic in
+    both places; no corpus convention forces one word.
+  - The native-reader pass found four stumbles, every one of them a
+    place where the English is equally or more tangled. **No objective
+    defects found — clean.** Second consecutive clean round; the review
+    concludes here.
+
 ## Conclusion
 
-Fifteen review rounds total (11 with fixes; rounds 8–15 run post-merge,
-after PR #421 had already merged on the strength of rounds 1–7).
+Eighteen review rounds total (12 with fixes). Rounds 1–7 ran before
+PR #421 merged; rounds 8–15 after it, and found six defects those seven
+rounds had missed; rounds 16–18 after PR #422 merged, and found one
+more.
 
-The post-merge rounds found and fixed six further objective defects that
-seven pre-merge rounds — including two consecutive clean ones — had
-missed: two pronouns binding to the wrong same-gender antecedent
-(Chs. 6 and 2), a clitic-placement inconsistency (Ch. 6), a word
-carrying a sense the English lacks and losing an antithesis (Ch. 12), a
-passive equating persons with an act, in a sentence round 3 had
-explicitly examined and chosen to leave (Ch. 3), and a calqued
-preposition (Ch. 12). Rounds 14 and 15 then came back clean back to
-back, with four further reported findings checked against the corpus and
-rejected as register rather than error.
+The rounds 8–15 batch fixed two pronouns binding to the wrong
+same-gender antecedent (Chs. 6 and 2), a clitic-placement inconsistency
+(Ch. 6), a word carrying a sense the English lacks and losing an
+antithesis (Ch. 12), a passive equating persons with an act in a
+sentence round 3 had explicitly examined and chosen to leave (Ch. 3),
+and a calqued preposition (Ch. 12).
+
+Round 16 then found a seventh: Ch. 1 had silently dropped the quantifier
+"all" from "so as **all** to look down upon the world itself" — an
+omission that survived fifteen rounds, four of them clean, because a
+one-word quantifier leaves no structural trace. Nothing counts it: not
+heading, bracket, citation or paragraph parity, not a pronoun or
+government sweep, not a native reader, for whom the sentence is perfectly
+idiomatic without it. Only a clause-by-clause re-derivation against the
+English catches a word like this, and only if the sweep is defined over
+*every* word rather than over the categories previous defects fell into.
+
+Rounds 17 and 18 came back clean back to back, exhausting eight further
+categories along the way (possessive/pronoun referents, constituent
+attachment, mood and sequence of tenses, voice fidelity, word-level
+lexical precision, divine-title rendering, Scripture allusion and
+citation placement, enumeration integrity). Eleven reported findings
+across rounds 16–18 were checked against the corpus and rejected — one
+of them, Ch. 9's "tendo-nos sido manifestado", carrying a proposed fix
+that would itself have introduced a defect.
 
 The translation is complete, faithful, and considered done.
