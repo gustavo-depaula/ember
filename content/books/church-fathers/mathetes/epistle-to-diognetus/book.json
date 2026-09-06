@@ -1,13 +1,16 @@
 {
   "id": "mathetes-epistle-to-diognetus",
   "name": {
-    "en-US": "Epistle to Diognetus"
+    "en-US": "Epistle to Diognetus",
+    "pt-BR": "Carta a Diogneto"
   },
   "author": {
-    "en-US": "Mathetes"
+    "en-US": "Mathetes",
+    "pt-BR": "Mathetes"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistle to Diognetus"
+        "en-US": "Epistle to Diognetus",
+        "pt-BR": "Carta a Diogneto"
       }
     }
   ]
