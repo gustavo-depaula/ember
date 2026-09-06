@@ -220,7 +220,281 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
   objective defects found — clean.** This is the second consecutive clean
   round — the review process concludes here.
 
+- **Round 8 (post-merge — 1 defect found and fixed; the two-clean-round
+  counter restarts).** Run after PR #421 merged, as an adversarial
+  re-derivation rather than a re-check: three independent passes over
+  Chs. 1–4, 5–8, and 9–12, each instructed to distrust the seven prior
+  rounds and re-derive every reading from scratch. Mechanical
+  cross-checks all held (12/12 `##` headings, 30/30 bracket pairs, the
+  single `*these*` → `*estas*` italic, all 8 Scripture citations present
+  with correct pt-BR book names and digit-identical chapter:verse
+  numbers, the 28-vs-30 paragraph delta still fully accounted for by the
+  Ch. 7 split). Chs. 1–4 and 9–12 came back clean.
+  - Ch. 6: gender-matched noun ambiguity. "The flesh hates the soul, and
+    wars against it, 1 Peter 2:11 though **itself** suffering no injury,
+    because **it** is prevented from enjoying pleasures" had been
+    translated "...luta contra **ela**, 1 Pedro 2:11 embora **ela mesma**
+    não sofra nenhum dano, porque é impedida...". English "itself"
+    unambiguously continues the main clause's subject, *the flesh*; but
+    "a carne" and "a alma" are both feminine singular in Portuguese, so
+    "ela mesma" binds by proximity to the "ela" two words earlier — which
+    is *a alma*. That parse then propagates into the subjectless "porque
+    é impedida," yielding "the soul is prevented from enjoying
+    pleasures," which is not merely a different referent but an
+    incoherent motive for the flesh's hatred. The parallel clause in the
+    same sentence escapes the trap only by accident of number ("o mundo"
+    singular vs. "os cristãos" plural), so it gave no warning. Fixed by
+    restating the noun instead of relying on the pronoun: "embora **a
+    própria carne** não sofra nenhum dano."
+  - **Noted, not changed — an `en-US` source question, not a translation
+    defect.** In Ch. 5 the inline citation attached to "they are reviled,
+    and bless" reads "2 Corinthians 4:12" in the `en-US` file, and the
+    pt-BR faithfully carries it as "2 Coríntios 4:12". The quoted clause
+    is 1 Cor 4:12 ("we are reviled, and we bless"); 2 Cor 4:12 reads
+    "death worketh in us, but life in you" and has no relation to it. The
+    surrounding citations are all genuinely 2 Corinthians (6:9, 6:10,
+    10:3), which is exactly the environment in which a stray "2" would
+    stick. This could not be checked against newadvent.org — the domain
+    is blocked by the review environment's network egress policy — so the
+    `en-US` file was left as imported rather than edited away from its
+    cited source on an unverified reading. By this skill's own criteria
+    the pt-BR is correct here: the reference is preserved as-is with the
+    correct Portuguese book name and unchanged numbers. Left for a human
+    with source access to decide; it belongs to the import, not the
+    translation.
+
+- **Round 9 (1 defect found and fixed; the counter restarts again).**
+  Three passes: one re-deriving round 8's own Ch. 6 edit from scratch,
+  and two fresh full sweeps over Chs. 1–6 and 7–12. Round 8's fix was
+  independently confirmed correct on all five points checked (referent,
+  the subjectless "porque é impedida" now binding to "a própria carne"
+  with correct feminine agreement on *impedida*, the concessive present
+  subjunctive matching the parallel "embora ... seja prejudicado", and
+  native readability). Chs. 5–8 and 7–12 came back clean, including
+  recounts of Ch. 9's five antithetical pairs and eleven-item title list
+  and Ch. 10's "to whom" chain, and confirmation that Ch. 10's
+  "a qual"/"à qual" crase alternation is correct.
+  - Ch. 2: tonic-pronoun proximity ambiguity, in the same sentence round
+    2 had already edited — but on a different word, so this is not the
+    "polishing a bad parse" anti-pattern the dev journal warns about.
+    Round 2 settled the sentence's *subject* (ordinary vessels, not the
+    idols), and that parse re-derives correctly from the paragraph's
+    reciprocal argument; untouched by that fix was the pronoun in
+    "become like **to such**", rendered "semelhantes **a eles**". It sat
+    immediately after "formadas dos mesmos materiais", making
+    *materiais* — not the gods — the nearest masculine-plural
+    antecedent, so the first parse is the circular "become similar to
+    the materials they are made of". Fixed by reordering to pull the
+    pronoun away from the trap rather than by adding a gloss, which
+    keeps the file's bracket parity intact: "Não se tornariam
+    **semelhantes a eles** essas coisas que hoje são vasos, formadas dos
+    mesmos materiais, se caíssem nas mãos dos mesmos artífices?" The
+    nearest antecedent is now "desses [deuses]" in the preceding
+    sentence, which is the correct one.
+
+- **Round 10 (2 defects found and fixed; the counter restarts again).**
+  Round 9's Ch. 2 reordering was independently re-derived and confirmed
+  correct on all five points checked — subject, referent of "such",
+  the post-reorder antecedent (no new attraction toward "artífices",
+  since Portuguese resolves anaphorically, backward, and the pronoun now
+  precedes both "materiais" and "artífices" in its own sentence),
+  the naturalness of the heavy-NP-shift VS order, and the surviving
+  "formadas"/"se caíssem"/"tornariam" agreements.
+  - Ch. 6: clitic-placement inconsistency. "God has assigned them this
+    illustrious position, which it were unlawful for them to forsake"
+    read "...que **lhes não** é lícito abandonar." Clitic-before-negator
+    is *not* ungrammatical — it is legitimate classical Portuguese
+    proclisis, the relative "que" attracting the clitic ahead of "não" —
+    so this was decided on internal consistency rather than on
+    correctness, the same way round 5's "teu deus" was. This file itself
+    writes "**não lhes** foi transmitido" in Ch. 7, and across the whole
+    `church-fathers/*/pt-BR` corpus the modern negator-first order
+    appears 7 times against this single old-style instance, which is the
+    only one in the corpus. Nothing in the journal documented the
+    archaism as deliberate. Fixed to "que **não lhes** é lícito
+    abandonar."
+  - Ch. 12: semantic drift losing an antithesis. "nor is Eve then
+    corrupted, but **is trusted as a virgin**" read "mas é tida por
+    **confiável** como virgem" — "held to be *trustworthy*", a
+    character-trait claim. The English's contrast is
+    *corrupted ↔ virgin*, and "confiável" introduces a sense the source
+    does not carry while pushing "como virgem" from predicate
+    complement to bare comparison, so the antithesis the sentence exists
+    to make is lost. Fixed to "mas é **tida por virgem**", which keeps
+    the corrompida/virgem contrast and matches the file's own "ter por"
+    idiom (Ch. 1, "não tendo por deuses os que os gregos reputam como
+    tais").
+
+- **Round 11 (clean).** Both of round 10's edits were independently
+  re-derived and confirmed, together with fresh full sweeps of Chs. 1–6
+  and 7–12. On the Ch. 6 clitic change, the reviewer agreed that
+  consistency — not grammaticality — was the right basis, since both
+  orders are grammatical Portuguese, and confirmed by targeted scan that
+  no clitic-before-negator instance remains anywhere in the file (every
+  apparent hit being a false positive: "os cristãos não", "mostrou-se
+  não apenas", the conditional "se não a entristeceres"). It also
+  settled a question the change raised but did not answer: English "it
+  **were** unlawful" is an archaic formal subjunctive functioning as a
+  categorical present deontic, not a real counterfactual, so the present
+  indicative "não lhes é lícito" is correct and "não lhes seria lícito"
+  would wrongly import a hypothetical nuance. On Ch. 12, "tida por
+  virgem" was confirmed to carry the "believed/regarded to be" sense of
+  πιστεύεται and to match the file's own "ter por" idiom, with the old
+  "confiável ... como virgem" identified as having double-counted the
+  trust idea. Recounts held throughout: Ch. 2's question chains (6 + 13),
+  30/30 bracket pairs on both sides, all 8 citations, Ch. 5's antitheses,
+  Ch. 7's 8-clause relative chain and realm list, Ch. 9's five title
+  pairs and eleven-item list, Ch. 10's 7-clause relative chain and its
+  full future/future-subjunctive sequence, and Ch. 11's five-clause
+  chain and doxology referents. Ch. 10's switch from "à qual"
+  (humanidade) to "a ele" (Deus) at the end of the relative chain was
+  checked and is a correct disambiguation. **No objective defects found
+  — clean.** First of the two required consecutive clean rounds.
+
+- **Round 12 (1 defect found and fixed — and it reverses round 3's
+  explicit decision to leave this sentence alone).** A full-file
+  re-derivation of all twelve chapters, including re-verification of all
+  four post-merge edits, came back clean. A separate native-reader pass
+  — Portuguese read straight through with the English closed, only then
+  opened to check each stumble — cleared four first-pass stumbles as
+  faithful renderings of the source's own tangled syntax (the Ch. 1
+  infinitive-to-subjunctive shift, the Ch. 6 flesh/soul causation, the
+  Ch. 2 "[teu Deus]" bracket, and Ch. 9's singular "pairava" with a
+  three-item subject) and found one real defect.
+  - Ch. 3: a category mismatch, in the one sentence **round 3 examined
+    and deliberately left unchanged**. "they... might justly reckon
+    **it** rather an act of folly than of divine worship" had been
+    rendered "eles... poderiam com justiça **ser reputados** antes um
+    ato de insensatez do que de culto divino" — a passive whose subject
+    is *eles*, the Jews, equated with the predicate "um ato de
+    insensatez". People cannot be an act; the English's "it" (their
+    practice) had been dropped and the persons had taken its
+    grammatical place. Round 3 had justified leaving this on the grounds
+    that the English's referent for "it" is itself ambiguous and the
+    passive was "a defensible reading of that ambiguity." That reasoning
+    does not hold: the ambiguity in the English is about **who** does
+    the reckoning, not **what** is reckoned, and under every available
+    reading the thing called "an act of folly" is the practice, never
+    the people — so the passive is not a reading of the source's
+    ambiguity but outside the space of readings it allows. **Source
+    ambiguity licenses choosing among the source's readings; it does not
+    license a construction that is none of them.** Fixed by restoring
+    the dropped object and mirroring the English's own
+    subject/verb/object structure: "poderiam com justiça **reputar
+    isso** antes um ato de insensatez do que de culto divino" — which
+    preserves, rather than silently resolves, the source's own oddity
+    that the Jews would be the ones reckoning their practice folly.
+
+- **Round 13 (1 defect found and fixed).** An adjudication pass
+  re-derived round 12's Ch. 3 change and upheld it on every point: in
+  Portuguese "X ser reputado Y" is an equative passive that obligatorily
+  identifies subject with predicate, so there is no idiomatic reading of
+  "eles ... ser reputados ... um ato" that rescues the old wording; the
+  English's "it" cannot pick out the people under any of its readings;
+  and "reputar isso" matches the file's own idiom (Ch. 4, "quem
+  reputaria isto uma parte do culto divino"). Its full twelve-chapter
+  secondary sweep was clean. A second native-reader pass then found the
+  round's one defect — again something a mechanical English-vs-Portuguese
+  comparison cannot see.
+  - Ch. 12: verb government. "which the Serpent cannot reach, and **to
+    which** deception does not approach" read "às quais a Serpente não
+    pode chegar, e **às quais** o engano não se aproxima". Reflexive
+    *aproximar-se* governs **de**, not **a**. The first relative clause
+    is right, since *chegar* does take "a"; the second carried that
+    preposition across by parallelism with it and with the English's
+    "to which". All ten occurrences of *aproximar-se* elsewhere in the
+    corpus take "de". Fixed to "**das quais** o engano não se aproxima."
+    Coordinated relative clauses taking different prepositions is
+    correct here, not an inconsistency — each verb governs its own.
+
+- **Round 14 (clean — three reported findings, all rejected on
+  evidence).** Round 13's Ch. 12 preposition fix was independently
+  confirmed (including that coordinated relative clauses taking
+  different prepositions is required here, not a wobble, since *chegar*
+  and *aproximar-se* govern differently). A full government/crase sweep
+  — every `à`/`às` in the file checked against its governing verb, and
+  some forty verb-government pairs spot-checked — and a third
+  native-reader pass then produced three candidate defects. **All three
+  were verified against the corpus and rejected; recorded here so later
+  rounds do not re-raise them.**
+  - **Rejected — Ch. 4, "aprender nada de mim" / "aprender de nenhum
+    mortal".** Reported as an English calque of "learn from", with
+    "aprender com" claimed to be the only standard regência. It is not:
+    "aprender de alguém" is the ordinary biblical-register regência in
+    Portuguese, and the corpus itself carries 47 instances of it
+    ("Aprendei de mim", Mt 11:29; "aprendestes de nós", Phil 4:9). The
+    elevated register makes it the *better* choice here, not an error.
+  - **Rejected — Ch. 2, "depois de teres te libertado".** Reported as
+    non-standard clitic placement in a compound personal infinitive,
+    with "te teres libertado" or "teres-te libertado" proposed. Both of
+    those are indeed more prescriptive, but the corpus is genuinely
+    mixed — "terem se desviado" elsewhere uses the same unhyphenated
+    pattern, against "ter-se convertido", "se ter purificado", "me
+    teres julgado" — and this file contains only the one such
+    construction, so there is no internal inconsistency to correct. The
+    consistency argument that justified round 10's Ch. 6 clitic fix
+    (7:1 corpus-wide, plus a same-file contradiction) does not transfer
+    to a 2:4 split with no same-file conflict. Style, not defect.
+  - **Rejected — Ch. 9, "nossa Sabedoria, Luz, Honra, Glória, Poder e
+    Vida".** Reported as a gender-agreement break, since *Poder* is
+    masculine while the elided "nossa" is feminine. But a determiner
+    heading a coordinated list agrees with the nearest noun and
+    distributes over the remainder — "sua fé, esperança e amor" is
+    ordinary Portuguese with exactly this mixed-gender shape. Repeating
+    the possessive would also have meant either reordering the
+    eleven-item list (breaking the source order prior rounds verified)
+    or adding words the English does not have.
+  - **The general lesson: a reported defect in an archaizing register
+    needs a corpus check before it is believed.** Two of the three
+    findings above flagged constructions that are not merely
+    permissible but idiomatic in elevated/biblical Portuguese, and a
+    grep decided each in under a minute. First of the two required
+    consecutive clean rounds.
+
+- **Round 15 (clean — review concludes).** A final full-file
+  re-derivation of all twelve chapters, re-verifying each of the six
+  post-merge fixes from scratch, came back clean. A parallel adversarial
+  pass deliberately targeting classes not yet exhausted — number
+  agreement, correlative completeness, comparatives, tense/aspect,
+  definiteness, rhetorical repetition, and the logical force of every
+  connective — produced one observation, recorded here as considered and
+  rejected.
+  - **Considered and left as-is — Ch. 7, the "as X He sent Him"
+    anaphora.** The English repeats one frame six times ("as a king
+    sends his son... as God He sent Him; as to men He sent Him; as a
+    Saviour He sent Him... As calling us He sent Him... as loving us He
+    sent Him"). The Portuguese keeps "como X o enviou" for the first
+    four members and then recasts the last two as purpose and cause
+    clauses: "Enviou-o **para** nos chamar, não para nos perseguir com
+    vingança; enviou-o **por** nos amar, não por nos julgar." The
+    observation is accurate as description, but it is a question of
+    rhetorical texture, not an objective defect: nothing is missing, the
+    propositions are unchanged, the negative foils stay parallel on the
+    Portuguese side, and *para*/*por* are defensible renderings of the
+    Greek participles behind "calling" and "loving" (καλῶν carrying
+    purpose, ἀγαπῶν cause). Restoring the anaphora would mean heavier
+    constructions ("como quem nos chama o enviou") that are themselves a
+    style call. Left for a maintainer who wants the anaphora tightened;
+    the review does not treat it as a defect. The Ch. 7 paragraph split
+    the same pass noted (one English paragraph, three Portuguese) is the
+    known, accepted difference documented in round 5.
+  - **No objective defects found — clean.** Second consecutive clean
+    round; the review concludes here.
+
 ## Conclusion
 
-Seven review rounds total (5 with fixes, rounds 6–7 clean back to back).
+Fifteen review rounds total (11 with fixes; rounds 8–15 run post-merge,
+after PR #421 had already merged on the strength of rounds 1–7).
+
+The post-merge rounds found and fixed six further objective defects that
+seven pre-merge rounds — including two consecutive clean ones — had
+missed: two pronouns binding to the wrong same-gender antecedent
+(Chs. 6 and 2), a clitic-placement inconsistency (Ch. 6), a word
+carrying a sense the English lacks and losing an antithesis (Ch. 12), a
+passive equating persons with an act, in a sentence round 3 had
+explicitly examined and chosen to leave (Ch. 3), and a calqued
+preposition (Ch. 12). Rounds 14 and 15 then came back clean back to
+back, with four further reported findings checked against the corpus and
+rejected as register rather than error.
+
 The translation is complete, faithful, and considered done.
