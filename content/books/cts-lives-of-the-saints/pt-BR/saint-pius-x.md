@@ -145,7 +145,7 @@ Os venezianos não tardaram a perceber que tesouro tinham em seu meio. Ao verem 
 
 Quando os venezianos viam a figura distinta desaparecer em algum casebre miserável ou subir os degraus de pedra até um sótão miserável, diziam uns aos outros: "Ele nunca pensa em si mesmo; está se esgotando por nós." Era tão amado pelos rudes gondoleiros que sua aparição entre eles era saudada com gritos de alegria. "Aí vem o Patriarca dos gondoleiros", exclamavam.
 
-O Congresso Eucarístico, realizado em Veneza no mês de agosto de 1897, deu ao Cardeal Sarto a oportunidade de honrar publicamente a Nosso Senhor na Sagrada Eucaristia. Seu grande amor pelo Santíssimo Sacramento se manifestou em seus incansáveis esforços para fazer do Congresso um grande êxito, fomentando nos corações do povo uma fervorosa devoção a seu Senhor Eucarístico.
+O Congresso Eucarístico, realizado em Veneza no mês de agosto de 1879, deu ao Cardeal Sarto a oportunidade de honrar publicamente a Nosso Senhor na Sagrada Eucaristia. Seu grande amor pelo Santíssimo Sacramento se manifestou em seus incansáveis esforços para fazer do Congresso um grande êxito, fomentando nos corações do povo uma fervorosa devoção a seu Senhor Eucarístico.
 
 O povo respondeu, e o Congresso foi o sinal de um sem-precedentes derramamento de amor a Nosso Senhor no Santíssimo Sacramento. Nunca, nem nos dias de sua glória, Veneza testemunhara tais cenas de esplendor. Ao passar a procissão final do Santíssimo Sacramento, os homens pensaram jamais ter visto espetáculo tão maravilhoso. Jesus Cristo, cercado de Seus Cardeais, Bispos e sacerdotes, viera reinar entre o povo de Veneza: ajoelharam-se em humilde adoração, e o coração do Patriarca se encheu de gratidão ao ajoelhar-se com eles para adorar seu Senhor e Mestre.
 
@@ -343,8 +343,8 @@ JOSEPH P. NEWTH, C.C., Censor Theol. Deput.
 
 Imprimi Potest:
 
-@ IOANNES CAROLUS, Arcebispo de Dublin, Primaz da Irlanda.
+@ IOANNES CAROLUS, Archiep. Dublinen., Hiberniae Primas.
 
-Dublin, dia 30 de janeiro de 1962.
+Dublini, die 70, Jan., anno 1962.
 
 [^1]: Um dos primeiros atos de Pio X depois de sua eleição ao Papado foi abolir para sempre o direito de veto.
