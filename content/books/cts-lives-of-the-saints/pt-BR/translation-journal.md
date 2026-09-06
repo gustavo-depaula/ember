@@ -197,6 +197,32 @@ house style.
   (Herera/Herrera, Gonzalez/Gonzalo in `saint-rose-of-lima.md`) were left
   as-is, matching established precedent. Not yet a clean round —
   proceeding to round 6.
+- **Round 6** (8 parallel agents, full book, final verification pass): 4 of
+  8 batches came back fully clean; a systemic formatting bug surfaced for
+  the first time — **two litany chapters
+  (`saint-jude-helper-in-great-need.md`, `saint-rita-of-cascia.md`) had
+  lost every markdown hard-break (trailing double-space) in their litany
+  block**, which would have collapsed each into one run-on paragraph
+  instead of one invocation per line; found by comparing hard-break counts
+  between source and translation across the whole book (a check worth
+  repeating on any future litany-bearing translation). Both restored to
+  match the source's line-break structure exactly (the two other litany
+  chapters, `saint-dymphna.md` and `saint-peregrine-the-cancer-saint.md`,
+  already had matching counts). Other fixes this round: a mistranslated
+  family relationship ("meio-irmão" [half-brother] → "irmão de criação"
+  [step-brother]) in `saint-brigid.md`; a subjunctive-mood slip in
+  `padre-pio.md` ("que baniam" → "que afastem", avoiding the defective verb
+  "banir"); an orthography fix ("auto-sacrifício" → "autossacrifício",
+  post-1990-agreement spelling) in `saint-edith-stein.md`; two footnotes
+  mislabeled "*Nota do tradutor*" when they are actually the original
+  author's own asides, relabeled "*Nota do autor*", in `saint-gertrude.md`
+  and `saint-john-francis-regis.md`; a unit-conversion correction (200 mi
+  ≈ 320 km, not 300 km) in `saint-gemma-galgani.md`; and in
+  `saint-ignatius-of-loyola.md`, a name substitution ("Lasano", an
+  unremarkable name, wrongly rendered as "Lázaro", the biblical Lazarus)
+  and a gender-agreement slip ("várias êxtases maravilhosas" → "vários
+  êxtases maravilhosos", êxtase being masculine). Not yet a clean round —
+  proceeding to round 7.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era

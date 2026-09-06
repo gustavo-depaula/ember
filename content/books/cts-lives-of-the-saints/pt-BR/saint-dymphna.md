@@ -28,55 +28,55 @@ Renomados psiquiatras testemunham que um número surpreendentemente grande de pa
 
 ### Ladainha de Santa Dympna
 
-Cristo, *tende piedade de nós.*
-Senhor, *tende piedade de nós.*
-Cristo, *tende piedade de nós.*
-Cristo, *ouvi-nos com bondade.*
-Deus Pai do Céu, *tende piedade de nós.*
-Deus Filho, Redentor do mundo, *tende piedade de nós.*
-Deus Espírito Santo, *tende piedade de nós.*
-Santíssima Trindade, um só Deus, *tende piedade de nós.*
-Santa Maria, virgem e mãe de Deus, *rogai por nós.*
-Saúde dos enfermos, *rogai por nós.*
-Consoladora dos aflitos, *rogai por nós.*
-Auxílio dos cristãos, *rogai por nós.*
-Santa Dympna, virgem e mártir, *rogai por nós.*
-Santa Dympna, filha de pais reais, *rogai por nós.*
-Santa Dympna, criança de grande beleza de alma e corpo, *rogai por nós.*
-Santa Dympna, dócil às lições de tua piedosa mãe, *rogai por nós.*
-Santa Dympna, obediente ao teu santo confessor, *rogai por nós.*
-Santa Dympna, que abandonaste a corte de teu pai para escapar ao perigo da impureza, *rogai por nós.*
-Santa Dympna, que escolheste uma vida de pobreza na terra para juntar tesouros no céu, *rogai por nós.*
-Santa Dympna, que buscaste força e consolo na Santa Missa, na Sagrada Comunhão e na oração, *rogai por nós.*
-Santa Dympna, ardente amante do divino Esposo, *rogai por nós.*
-Santa Dympna, devotada à Mãe de Deus, *rogai por nós.*
-Santa Dympna, decapitada por teu próprio pai, *rogai por nós.*
-Santa Dympna, mártir da santa pureza, *rogai por nós.*
-Santa Dympna, brilhante exemplo da juventude cristã, *rogai por nós.*
-Santa Dympna, renomada por muitos milagres, *rogai por nós.*
-Santa Dympna, glória da Irlanda e da Bélgica, *rogai por nós.*
-Santa Dympna, cheia de compaixão pelos necessitados, *rogai por nós.*
-Santa Dympna, protetora contra todos os distúrbios nervosos e mentais, *rogai por nós.*
-Santa Dympna, consoladora dos aflitos, *rogai por nós.*
-Santa Dympna, amiga dos desamparados, *rogai por nós.*
-Santa Dympna, consoladora dos desanimados, *rogai por nós.*
-Santa Dympna, luz daqueles em trevas mentais, *rogai por nós.*
-Santa Dympna, padroeira daqueles que sofrem de doenças nervosas e mentais, *rogai por nós.*
-Para que amemos o Senhor nosso Deus de todo o coração e sobre todas as coisas, *nós vos suplicamos, ouvi-nos.*
-Para que odiemos o pecado e evitemos todas as suas ocasiões, *nós vos suplicamos, ouvi-nos.*
-Para que preservemos cuidadosamente a virtude da pureza conforme o nosso estado, *nós vos suplicamos, ouvi-nos.*
-Para que recebamos os sacramentos com frequência, *nós vos suplicamos, ouvi-nos.*
-Para que obtenhamos o espírito de oração, *nós vos suplicamos, ouvi-nos.*
-Para que sejamos humildes e obedientes, resignando-nos à santa vontade de Deus, *nós vos suplicamos, ouvi-nos.*
-Para que aprendamos a confiar em Deus durante nossa aflição, *nós vos suplicamos, ouvi-nos.*
-Para que obtenhamos a graça da perseverança final, *nós vos suplicamos, ouvi-nos.*
-Nos momentos de tentação, *nós vos suplicamos, ouvi-nos.*
-Em tempos de doença, enfermidade, guerra e perseguição, *nós vos suplicamos, ouvi-nos.*
-Em nossa última enfermidade, *nós vos suplicamos, ouvi-nos.*
-Na hora da morte, *nós vos suplicamos, ouvi-nos.*
-Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos com bondade, Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*
+Cristo, *tende piedade de nós.*  
+Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
+Cristo, *ouvi-nos com bondade.*  
+Deus Pai do Céu, *tende piedade de nós.*  
+Deus Filho, Redentor do mundo, *tende piedade de nós.*  
+Deus Espírito Santo, *tende piedade de nós.*  
+Santíssima Trindade, um só Deus, *tende piedade de nós.*  
+Santa Maria, virgem e mãe de Deus, *rogai por nós.*  
+Saúde dos enfermos, *rogai por nós.*  
+Consoladora dos aflitos, *rogai por nós.*  
+Auxílio dos cristãos, *rogai por nós.*  
+Santa Dympna, virgem e mártir, *rogai por nós.*  
+Santa Dympna, filha de pais reais, *rogai por nós.*  
+Santa Dympna, criança de grande beleza de alma e corpo, *rogai por nós.*  
+Santa Dympna, dócil às lições de tua piedosa mãe, *rogai por nós.*  
+Santa Dympna, obediente ao teu santo confessor, *rogai por nós.*  
+Santa Dympna, que abandonaste a corte de teu pai para escapar ao perigo da impureza, *rogai por nós.*  
+Santa Dympna, que escolheste uma vida de pobreza na terra para juntar tesouros no céu, *rogai por nós.*  
+Santa Dympna, que buscaste força e consolo na Santa Missa, na Sagrada Comunhão e na oração, *rogai por nós.*  
+Santa Dympna, ardente amante do divino Esposo, *rogai por nós.*  
+Santa Dympna, devotada à Mãe de Deus, *rogai por nós.*  
+Santa Dympna, decapitada por teu próprio pai, *rogai por nós.*  
+Santa Dympna, mártir da santa pureza, *rogai por nós.*  
+Santa Dympna, brilhante exemplo da juventude cristã, *rogai por nós.*  
+Santa Dympna, renomada por muitos milagres, *rogai por nós.*  
+Santa Dympna, glória da Irlanda e da Bélgica, *rogai por nós.*  
+Santa Dympna, cheia de compaixão pelos necessitados, *rogai por nós.*  
+Santa Dympna, protetora contra todos os distúrbios nervosos e mentais, *rogai por nós.*  
+Santa Dympna, consoladora dos aflitos, *rogai por nós.*  
+Santa Dympna, amiga dos desamparados, *rogai por nós.*  
+Santa Dympna, consoladora dos desanimados, *rogai por nós.*  
+Santa Dympna, luz daqueles em trevas mentais, *rogai por nós.*  
+Santa Dympna, padroeira daqueles que sofrem de doenças nervosas e mentais, *rogai por nós.*  
+Para que amemos o Senhor nosso Deus de todo o coração e sobre todas as coisas, *nós vos suplicamos, ouvi-nos.*  
+Para que odiemos o pecado e evitemos todas as suas ocasiões, *nós vos suplicamos, ouvi-nos.*  
+Para que preservemos cuidadosamente a virtude da pureza conforme o nosso estado, *nós vos suplicamos, ouvi-nos.*  
+Para que recebamos os sacramentos com frequência, *nós vos suplicamos, ouvi-nos.*  
+Para que obtenhamos o espírito de oração, *nós vos suplicamos, ouvi-nos.*  
+Para que sejamos humildes e obedientes, resignando-nos à santa vontade de Deus, *nós vos suplicamos, ouvi-nos.*  
+Para que aprendamos a confiar em Deus durante nossa aflição, *nós vos suplicamos, ouvi-nos.*  
+Para que obtenhamos a graça da perseverança final, *nós vos suplicamos, ouvi-nos.*  
+Nos momentos de tentação, *nós vos suplicamos, ouvi-nos.*  
+Em tempos de doença, enfermidade, guerra e perseguição, *nós vos suplicamos, ouvi-nos.*  
+Em nossa última enfermidade, *nós vos suplicamos, ouvi-nos.*  
+Na hora da morte, *nós vos suplicamos, ouvi-nos.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos com bondade, Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*  
 V. *Rogai por nós, Santa Dympna.*
 
 R. Para que sejamos feitos dignos das promessas de Cristo.

@@ -108,7 +108,7 @@ Entre os inúmeros homens e mulheres santos que sentiram especial atenção por 
 
 > "Ó dulcíssimo Senhor Jesus Cristo, louvo-Te e Te dou graças, com toda a devoção de que sou capaz, por todos os benefícios que concedeste à virgem Gertrudes, Tua amada esposa; e, por aquele amor com que, desde a eternidade, a escolheste para Teu especial favor, e, no Teu bom tempo, docemente a atraíste e familiarmente a convidaste a Ti, e alegremente habitaste em sua alma, e encerraste o curso de sua vida com uma morte bem-aventurada, rogo-Te e imploro-Te que tenhas misericórdia de mim, e me tornes agradável a Ti, e me conduzas à vida eterna. Amém."
 
-[^1]: *Nota do tradutor:* O autor observa, em nota original, que hoje parece estar definitivamente estabelecido que a fundação não era beneditina, embora possa ter se tornado assim depois do tempo de Santa Gertrudes.
+[^1]: *Nota do autor:* Hoje parece estar definitivamente estabelecido que a fundação não era beneditina, embora possa ter se tornado assim depois do tempo de Santa Gertrudes.
 
 Nihil Obstat:
 

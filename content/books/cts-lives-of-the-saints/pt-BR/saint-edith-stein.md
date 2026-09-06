@@ -104,7 +104,7 @@ Edith ficou em silêncio. Era inútil tentar explicar mais uma vez à mãe idosa
 
 Finalmente, ditos os últimos adeuses, ela se encontrou um dia rumo a seu destino, o convento de Colônia. "O que eu mal ousara esperar estava agora prestes a se realizar. Não podia haver alegria avassaladora para mim naquele momento. Tudo o que eu vivera recentemente havia sido doloroso demais para isso. Mas eu estava cheia de uma paz profunda, sabendo que me entregara à vontade divina. A porta de clausura do convento se abriu. Atravessei o limiar para a Casa do Senhor", conta-nos ela.
 
-E assim começou a vida de Edith Stein como freira carmelita, uma vida de auto-sacrifício, pobreza, penitência e oração; uma batalha secreta contra o amor-próprio, em uma palavra, a vida da Cruz. Uma das virtudes necessárias a adquirir era a humildade. Edith teve muitas oportunidades para isso. De ter sido o centro das atenções como uma acadêmica renomada, tornou-se agora uma anônima. A maioria das freiras nunca sequer ouvira falar dela.
+E assim começou a vida de Edith Stein como freira carmelita, uma vida de autossacrifício, pobreza, penitência e oração; uma batalha secreta contra o amor-próprio, em uma palavra, a vida da Cruz. Uma das virtudes necessárias a adquirir era a humildade. Edith teve muitas oportunidades para isso. De ter sido o centro das atenções como uma acadêmica renomada, tornou-se agora uma anônima. A maioria das freiras nunca sequer ouvira falar dela.
 
 "Ela é boa em costura?", perguntou uma, ansiosa.
 
