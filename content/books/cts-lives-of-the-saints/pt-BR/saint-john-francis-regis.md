@@ -26,7 +26,7 @@ Em 1634, o Padre Régis foi chamado de volta de Montpellier, e, junto com outro 
 
 O plano era que os dois missionários partissem alguns dias antes, para preparar o povo para a Confissão, a Sagrada Comunhão e a Crisma. Um ou dois dias depois da chegada da comitiva do bispo, os dois seguiriam para o lugar seguinte. O trabalho era duro e perigoso. O Padre Régis escapou por pouco num centro calvinista, Villeneuve-de-Berg, onde trinta sacerdotes haviam sido massacrados.
 
-Notou uma tropa de soldados huguenotes galopando em sua direção. Rapidamente, mergulhou sob uma das meda de feno nos terrenos de um castelo próximo. Mas os cavaleiros o haviam visto, e em poucos segundos estavam junto às medas. Desmontando em meio a gritos de triunfo, cravaram suas espadas e alabardas nas medas por todos os lados. Depois de alguns minutos, partiram a galope, satisfeitos de que sua vítima não pudesse ter escapado. O Padre Régis então saiu, ileso.[^1]
+Notou uma tropa de soldados huguenotes galopando em sua direção. Rapidamente, mergulhou sob uma das medas de feno nos terrenos de um castelo próximo. Mas os cavaleiros o haviam visto, e em poucos segundos estavam junto às medas. Desmontando em meio a gritos de triunfo, cravaram suas espadas e alabardas nas medas por todos os lados. Depois de alguns minutos, partiram a galope, satisfeitos de que sua vítima não pudesse ter escapado. O Padre Régis então saiu, ileso.[^1]
 
 A visita foi um grande sucesso, e o bispo admitiu que fora alcançado principalmente pelo zelo e pelo trabalho incansável do Padre Régis.
 
