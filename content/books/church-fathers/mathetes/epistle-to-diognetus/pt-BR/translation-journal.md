@@ -73,3 +73,37 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     clitic pronoun "-lhes" with no bracket at all. Fixed by restructuring
     to `falando com clareza [a eles]`, giving the bracketed insertion a
     standalone counterpart.
+
+- **Round 2 (independent adversarial pass — 4 defects found and fixed).**
+  Deliberately used different check angles than round 1 (clause-diagramming
+  long sentences, mood in parallel conditionals, re-verifying lists
+  independently) rather than re-checking round 1's fixes.
+  - Ch. 2: a reversed comparison direction. "Would not those things which
+    are now vessels... become like to such, if they met with the same
+    artificers?" had been translated with no explicit subject, so by
+    pro-drop continuity from the preceding sentence its implicit subject
+    became "the idols" rather than "ordinary vessels" — stating the
+    argument's other, already-covered direction instead of this one. Fixed
+    to give the sentence its own explicit subject: "Não se tornariam essas
+    coisas que hoje são vasos... semelhantes a eles, se caíssem nas mãos dos
+    mesmos artífices?"
+  - Ch. 2: a conditional-mood mismatch between the two branches of one
+    either/or rhetorical dilemma — "se elas tivessem sentimento" (imperfect
+    subjunctive, counterfactual) vs. the parallel "se... são destituídas"
+    (present indicative, factual), with nothing in the English motivating
+    treating one branch as more hypothetical than the other. Fixed the
+    first branch to indicative: "se elas têm sentimento."
+  - Ch. 9: the five antithetical titles for Christ ("the holy One... the
+    blameless One... the righteous One... the incorruptible One... the
+    immortal One") were capitalized inconsistently — only "Santo" was
+    capitalized, the other four were lowercase, though grammatically
+    identical substantized titles in the same sentence (and the paragraph
+    capitalizes the same concept again a few lines later, "único Justo").
+    Fixed all five to capitals.
+  - Ch. 10: a third, previously-missed instance of round 1's bracket-span
+    defect — `[the nature of] that fire` had been translated as `[a
+    natureza d]aquele fogo`, with the bracket cutting through the
+    obligatory Portuguese contraction "de" + "aquele," stranding a bare "d"
+    inside the bracket. Fixed by substituting "tal fogo" for "aquele fogo,"
+    since "de tal" does not contract in Portuguese, letting the bracket
+    cleanly wrap the whole gloss: `[a natureza de] tal fogo`.
