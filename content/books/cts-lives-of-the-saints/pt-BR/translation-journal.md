@@ -159,6 +159,25 @@ house style.
   review-agent reports should be spot-checked against the actual file
   before fixing, not applied blindly. Not yet a clean round — proceeding
   to round 4.
+- **Round 4** (8 parallel agents, full book, final verification pass):
+  found and fixed 7 more small defects — a missed gender-agreement instance
+  and a sense inversion ("piedosa" [pious] instead of "lastimosa" [pitiful])
+  both in `saint-edmund-campion.md`; a "drawn and quartered" rendering
+  ("esquartejado e mutilado", dropping the disembowelment sense) corrected
+  to match the `saint-thomas-more.md` precedent ("destripado e esquartejado")
+  in both `poet-priest-martyr.md` and `saint-pius-v.md`; a place-name
+  collision where a village named in the source ("Cheyrac", distinct from
+  the earlier "Le Cheylard" in the same chapter) had been rendered with the
+  wrong, already-used name in `saint-john-francis-regis.md`; a wrong-gender
+  pronoun in `padre-pio.md` ("delas" instead of "deles", masculine
+  antecedent); and a Roman-bridge-name spelling in `saint-vincent-pallotti.md`
+  ("Ponte Rotto", the bridge's real name). A few more spelling variants
+  between source and translation were reviewed and left as-is, matching
+  the book's established precedent of accepting reasonable historical-name
+  corrections over source OCR/typo forms (Nasseau/Naseau in
+  `saint-louise-de-marillac.md`; Baux/Beau in
+  `saint-jean-b-m-vianney-cure-of-ars-1785-1859.md`). Not yet a clean round
+  — proceeding to round 5.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era
