@@ -165,7 +165,7 @@ A posição de Sávio na escola inteira era grande demais para ser desconsiderad
 
 "Não estou fazendo nada disso. Tudo o que quero é a promessa de vocês de fazer o que peço. Agora vamos."
 
-O local escolhido para a briga foi um terreno baldio nos arredores da cidade. Os duelistas escolheram cinco pedras cada um e se posicionaram a uns quinze metros de distância. Enquanto se encaravam, toda a sua inimizade e amargura pessoal se reacenderam. A violência de seu ódio os privou do senso de perigo daquela luta mortal. Preparavam-se para mirar, mas, num instante, Domingos correu para o meio da contenda e ficou imóvel e sem chapéu, exatamente entre os dois combatentes enfurecidos.
+O local escolhido para a briga foi um terreno baldio nos arredores da cidade. Os duelistas escolheram cinco pedras cada um e se posicionaram a uns catorze metros de distância. Enquanto se encaravam, toda a sua inimizade e amargura pessoal se reacenderam. A violência de seu ódio os privou do senso de perigo daquela luta mortal. Preparavam-se para mirar, mas, num instante, Domingos correu para o meio da contenda e ficou imóvel e sem chapéu, exatamente entre os dois combatentes enfurecidos.
 
 "Agora, amigos, este é o momento de sua promessa. Olhem bem para isto." Ele ergueu no ar um pequeno crucifixo. "Agora digam em voz alta comigo: 'Meu Senhor morreu na Cruz perdoando Seus inimigos. Eu agora O ofenderei por meu ato deliberado de vingança'."
 

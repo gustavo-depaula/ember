@@ -122,6 +122,23 @@ house style.
   "o cavalete" in `saint-edmund-campion.md`), and the one unit-conversion
   math error noted above. All fixes applied same round; `pnpm build:corpus`
   re-verified after.
+- **Round 2** (8 parallel agents, full book, re-checking round-1 fixes plus a
+  fresh pass): found and fixed ~20 more defects, smaller than round 1's —
+  mostly a leftover third "a roda" instance in `saint-edmund-campion.md` the
+  round-1 fix missed, obsolete pre-1990-orthography "ungüento" (→ "unguento")
+  in `saint-clare-of-assisi.md`, a couple of gender/agreement slips, two
+  more unit-conversion touch-ups (a yards→meters rounding in
+  `saint-dominic-savio.md`, a mile→km consistency fix in
+  `the-mothers-saint.md`), a name-epithet error ("Giraldo de Cambrai" →
+  "Giraldo de Gales", since Giraldus Cambrensis means "of Wales", not
+  "of Cambrai" — `saint-patrick.md`), a numeric exaggeration ("thousands"
+  inflated to "hundreds of thousands" — `saint-pius-x.md`), a dropped Latin
+  incipit rendered as vernacular instead of kept in Latin
+  (`saint-margaret-of-cortona.md`), two orphaned footnote markers restored
+  (`the-martyrdom-of-saint-perpetua-and-felicitas-with-their-companions.md`),
+  and a few smaller consistency nits (São/Santo agreement, a duplicated
+  "editor", an untranslated "liege", a French place name half-translated).
+  Not yet a clean round — proceeding to round 3.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era

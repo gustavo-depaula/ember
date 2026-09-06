@@ -168,7 +168,7 @@ As três primeiras estão registradas em biografias do Santo. Ocorreram no exter
 
 O Bispo do Suriname, na América do Sul, conta o caso da esposa de um médico local que entrou em colapso dez dias após o nascimento de seu bebê. Três de seus colegas foram chamados. Declararam o caso sem esperança. Quando a mulher já estava em agonia, uma amiga a tocou com uma relíquia do Irmão Gerardo. Imediatamente ela abriu os olhos e começou a se sentir melhor. Os médicos que confirmaram a cura eram todos não católicos, e todos concordaram que ela estava além da possibilidade médica.
 
-Numa aldeia a algumas milhas de Liège, na Bélgica, um bebê morreu sem batismo. A mãe, com o coração partido, recorreu ao Irmão Gerardo, prometendo que, se ele restituísse seu filho à vida, o chamaria com o nome dele. Para o espanto do médico, o bebê começou a respirar. Foi batizado, e o pequeno Gerardo viveu para alegrar seus pais.
+Numa aldeia a alguns quilômetros de Liège, na Bélgica, um bebê morreu sem batismo. A mãe, com o coração partido, recorreu ao Irmão Gerardo, prometendo que, se ele restituísse seu filho à vida, o chamaria com o nome dele. Para o espanto do médico, o bebê começou a respirar. Foi batizado, e o pequeno Gerardo viveu para alegrar seus pais.
 
 Havia em Luxemburgo um médico cujo filho de quatro anos não conseguia andar nem falar. O pai leu a vida do Irmão Gerardo. Impressionado pelas curas maravilhosas relatadas no livro e, ao mesmo tempo, entristecido ao ver o pequeno aleijado a seu lado no chão, murmurou uma oração: "Irmão Gerardo, mostrai vosso poder e curai meu filho." Instantaneamente a criança pulou e se lançou nos braços do pai, exclamando: "Papai, papai." A partir daquele momento, ficou tão ativo e falante quanto qualquer outro menino de sua idade.
 
