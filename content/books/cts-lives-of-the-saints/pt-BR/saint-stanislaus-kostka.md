@@ -74,7 +74,7 @@ Ao ajoelhar-se junto à sepultura, Paulo desabou e chorou como uma criança. Ali
 
 ## Missão Não Concluída
 
-Paulo deixou Roma o mais breve possível para levar a triste notícia a seu pai e sua mãe. Ficaram consternados com a notícia, mas ouviram avidamente a extraordinária história da heroica santidade dos filhos. O pai não sobreviveu por muito tempo a Estanislau, e, poucos dias depois da morte do pai, Alberto, o irmão mais novo de Estanislau, também morreu.
+Paulo deixou Roma o mais breve possível para levar a triste notícia a seu pai e sua mãe. Ficaram consternados com a notícia, mas ouviram avidamente a extraordinária história da heroica santidade do filho. O pai não sobreviveu por muito tempo a Estanislau, e, poucos dias depois da morte do pai, Alberto, o irmão mais novo de Estanislau, também morreu.
 
 Paulo permaneceu em casa com sua mãe até ela morrer. Não se casou, mas se dedicou a obras de caridade, oração e penitência. Quando tinha cinquenta e seis anos, pediu para ser admitido na Companhia de Jesus. Seu pedido de admissão foi feito com grande humildade, não por mérito próprio, disse ele, mas por ser irmão de Estanislau. Seu pedido foi atendido, mas, antes que pudesse começar seu noviciado, morreu de uma morte santa em 13 de novembro — hoje festa de São Estanislau — de 1607.
 

@@ -234,6 +234,24 @@ house style.
   Hildibald/Hildeward in `saint-wenceslas.md`), consistent with
   established precedent. This is the cleanest round yet — proceeding to
   round 8 to confirm with a second consecutive clean pass.
+- **Round 8** (8 parallel agents, full book, final verification pass): 5
+  defects found, spread across 5 different batches (not fully clean, but
+  each batch had at most one issue) — a mistranslated liturgical object
+  ("gave him a cross" → wrongly "deu-lhe um báculo" [crozier], fixed to
+  "deu-lhe uma cruz") in `saint-bernard-abbot-of-clairvaux.md`; an
+  invented, non-standard word ("pés embaixatoriais" → "pés diplomáticos")
+  in `saint-john-the-baptist.md`; a genuine sense inversion — the
+  historical exclusion notice "no Irish or Papists need apply" had been
+  translated as "didn't need to apply" (implying it was optional) instead
+  of "must not apply" (a bar on entry) — fixed in `mary-mckillop.md`; a
+  stray extra "s" on a proper noun ("Igreja de Santo Domingos" →
+  "Santo Domingo") in `saint-rose-of-lima.md`; and a number mismatch
+  stemming from an ambiguous source typo ("their sons heroic sanctity",
+  almost certainly a dropped apostrophe for "son's", referring to
+  Stanislaus alone per the surrounding context) rendered as plural
+  ("dos filhos") instead of singular ("do filho") in
+  `saint-stanislaus-kostka.md`. Not yet a clean round — proceeding to
+  round 9.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era
