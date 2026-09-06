@@ -451,7 +451,50 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     grep decided each in under a minute. First of the two required
     consecutive clean rounds.
 
+- **Round 15 (clean — review concludes).** A final full-file
+  re-derivation of all twelve chapters, re-verifying each of the six
+  post-merge fixes from scratch, came back clean. A parallel adversarial
+  pass deliberately targeting classes not yet exhausted — number
+  agreement, correlative completeness, comparatives, tense/aspect,
+  definiteness, rhetorical repetition, and the logical force of every
+  connective — produced one observation, recorded here as considered and
+  rejected.
+  - **Considered and left as-is — Ch. 7, the "as X He sent Him"
+    anaphora.** The English repeats one frame six times ("as a king
+    sends his son... as God He sent Him; as to men He sent Him; as a
+    Saviour He sent Him... As calling us He sent Him... as loving us He
+    sent Him"). The Portuguese keeps "como X o enviou" for the first
+    four members and then recasts the last two as purpose and cause
+    clauses: "Enviou-o **para** nos chamar, não para nos perseguir com
+    vingança; enviou-o **por** nos amar, não por nos julgar." The
+    observation is accurate as description, but it is a question of
+    rhetorical texture, not an objective defect: nothing is missing, the
+    propositions are unchanged, the negative foils stay parallel on the
+    Portuguese side, and *para*/*por* are defensible renderings of the
+    Greek participles behind "calling" and "loving" (καλῶν carrying
+    purpose, ἀγαπῶν cause). Restoring the anaphora would mean heavier
+    constructions ("como quem nos chama o enviou") that are themselves a
+    style call. Left for a maintainer who wants the anaphora tightened;
+    the review does not treat it as a defect. The Ch. 7 paragraph split
+    the same pass noted (one English paragraph, three Portuguese) is the
+    known, accepted difference documented in round 5.
+  - **No objective defects found — clean.** Second consecutive clean
+    round; the review concludes here.
+
 ## Conclusion
 
-Fourteen review rounds so far (11 with fixes; rounds 8–14 run
-post-merge).
+Fifteen review rounds total (11 with fixes; rounds 8–15 run post-merge,
+after PR #421 had already merged on the strength of rounds 1–7).
+
+The post-merge rounds found and fixed six further objective defects that
+seven pre-merge rounds — including two consecutive clean ones — had
+missed: two pronouns binding to the wrong same-gender antecedent
+(Chs. 6 and 2), a clitic-placement inconsistency (Ch. 6), a word
+carrying a sense the English lacks and losing an antithesis (Ch. 12), a
+passive equating persons with an act, in a sentence round 3 had
+explicitly examined and chosen to leave (Ch. 3), and a calqued
+preposition (Ch. 12). Rounds 14 and 15 then came back clean back to
+back, with four further reported findings checked against the corpus and
+rejected as register rather than error.
+
+The translation is complete, faithful, and considered done.
