@@ -325,6 +325,32 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     idiom (Ch. 1, "não tendo por deuses os que os gregos reputam como
     tais").
 
+- **Round 11 (clean).** Both of round 10's edits were independently
+  re-derived and confirmed, together with fresh full sweeps of Chs. 1–6
+  and 7–12. On the Ch. 6 clitic change, the reviewer agreed that
+  consistency — not grammaticality — was the right basis, since both
+  orders are grammatical Portuguese, and confirmed by targeted scan that
+  no clitic-before-negator instance remains anywhere in the file (every
+  apparent hit being a false positive: "os cristãos não", "mostrou-se
+  não apenas", the conditional "se não a entristeceres"). It also
+  settled a question the change raised but did not answer: English "it
+  **were** unlawful" is an archaic formal subjunctive functioning as a
+  categorical present deontic, not a real counterfactual, so the present
+  indicative "não lhes é lícito" is correct and "não lhes seria lícito"
+  would wrongly import a hypothetical nuance. On Ch. 12, "tida por
+  virgem" was confirmed to carry the "believed/regarded to be" sense of
+  πιστεύεται and to match the file's own "ter por" idiom, with the old
+  "confiável ... como virgem" identified as having double-counted the
+  trust idea. Recounts held throughout: Ch. 2's question chains (6 + 13),
+  30/30 bracket pairs on both sides, all 8 citations, Ch. 5's antitheses,
+  Ch. 7's 8-clause relative chain and realm list, Ch. 9's five title
+  pairs and eleven-item list, Ch. 10's 7-clause relative chain and its
+  full future/future-subjunctive sequence, and Ch. 11's five-clause
+  chain and doxology referents. Ch. 10's switch from "à qual"
+  (humanidade) to "a ele" (Deus) at the end of the relative chain was
+  checked and is a correct disambiguation. **No objective defects found
+  — clean.** First of the two required consecutive clean rounds.
+
 ## Conclusion
 
-Ten review rounds so far (9 with fixes; rounds 8–10 run post-merge).
+Eleven review rounds so far (9 with fixes; rounds 8–11 run post-merge).
