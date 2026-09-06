@@ -223,6 +223,17 @@ house style.
   and a gender-agreement slip ("várias êxtases maravilhosas" → "vários
   êxtases maravilhosos", êxtase being masculine). Not yet a clean round —
   proceeding to round 7.
+- **Round 7** (8 parallel agents, full book, final verification pass): 7 of
+  8 batches came back fully clean, confirming every round-6 fix (including
+  both litany hard-break restorations) landed correctly. The only new
+  defect: a number-agreement slip ("uma das meda de feno" → "uma das
+  medas de feno") in `saint-john-francis-regis.md`. Several more
+  historically-corrected proper-name spellings that differ from the
+  English source's own OCR typos were reviewed and left as-is (Agostino/
+  Agostini, Mandovi/Mondovì, Goti/Gotti in the Pius V/X chapters;
+  Hildibald/Hildeward in `saint-wenceslas.md`), consistent with
+  established precedent. This is the cleanest round yet — proceeding to
+  round 8 to confirm with a second consecutive clean pass.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era
