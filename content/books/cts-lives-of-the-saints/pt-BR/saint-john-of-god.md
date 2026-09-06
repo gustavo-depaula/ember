@@ -60,7 +60,7 @@ Em Montemor-o-Novo, ele indagou sobre seus pais. O único membro sobrevivente de
 
 João Cidade estava ainda muito inquieto. Deixou Portugal e foi para Gibraltar. No caminho, ficou algum tempo ajudando num hospício para viajantes doentes em Ayamonte. Se João já havia expressado alguns sentimentos de simpatia e compaixão pelos pobres e doentes, como de fato o fizera em Compostela e Ayamonte, tais manifestações eram simplesmente a expressão de um coração terno, aberto à compaixão. Era uma compaixão natural, ainda por ser inflamada e carregada com o amor sobrenatural que resultaria em sua eventual vocação. Nessa época, Cidade estava confuso. Sentia os sofrimentos dos desfavorecidos, mas não sabia o que poderia fazer por eles. Ainda tinha um longo caminho a percorrer para resolver seus próprios problemas pessoais antes de estar em condições de ajudar os outros.
 
-Em 1535, João Cidade atravessou o estreito Estreito de Gibraltar e desembarcou na fortificada cidade portuguesa de Ceuta. Embora Ceuta fosse uma colônia portuguesa, não tinha nada dos atrativos ou do glamour das outras colônias de Portugal, nas Índias ou no Brasil. Este posto avançado no norte da África não tinha nada que atraísse o colono livre. Era uma fortaleza e base para proteger as águas da metrópole. Por causa de sua situação, Ceuta era uma colônia penal muito conveniente para a deportação de criminosos.
+Em 1535, João Cidade atravessou o Estreito de Gibraltar e desembarcou na fortificada cidade portuguesa de Ceuta. Embora Ceuta fosse uma colônia portuguesa, não tinha nada dos atrativos ou do glamour das outras colônias de Portugal, nas Índias ou no Brasil. Este posto avançado no norte da África não tinha nada que atraísse o colono livre. Era uma fortaleza e base para proteger as águas da metrópole. Por causa de sua situação, Ceuta era uma colônia penal muito conveniente para a deportação de criminosos.
 
 Em Ceuta, João conheceu um nobre português exilado. Este cavalheiro havia sido enviado ao exílio, com sua esposa e quatro filhas, pelo rei. Esta família estava na miséria, e o pai estava doente demais para trabalhar por sua esposa e filhas. João Cidade compadeceu-se deles e decidiu sustentá-los.
 
@@ -122,7 +122,7 @@ Esta peregrinação teve um duplo propósito para João. Primeiro, a experiênci
 
 Embora contasse com o pleno apoio do Padre Ávila, João não tinha dinheiro para iniciar seu empreendimento de caridade. No entanto, tinha alguns amigos influentes, graças ao Padre João de Ávila, e entre eles estavam o Arcebispo Gaspar de Ávalos, de Granada, e o Bispo Sebastián Ramírez, da Chancelaria Real.
 
-O Padre Ávila apresentou João a um rico mercador, dom Miguel de Vênegas, que lhe permitiu usar o pátio de sua vila como refúgio temporário para os destituídos. Logo João levou tantos doentes e desamparados para lá que Venegas se ofereceu para pagar o aluguel de instalações apropriadas.
+O Padre Ávila apresentou João a um rico mercador, dom Miguel de Venegas, que lhe permitiu usar o pátio de sua vila como refúgio temporário para os destituídos. Logo João levou tantos doentes e desamparados para lá que Venegas se ofereceu para pagar o aluguel de instalações apropriadas.
 
 João conseguiu alugar uma grande casa na Rua Lucena, perto dos mercados de peixe, e transferiu seus hóspedes para lá pouco antes do Natal de 1539. O Arcebispo de Granada e o Bispo Ramírez deram a João suas bênçãos, e este último lhe deu dinheiro suficiente para comprar quarenta camas para mobiliar sua casa de hospitalidade.
 

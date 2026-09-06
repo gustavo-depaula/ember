@@ -403,4 +403,8 @@ Uma estátua muito grande de São Francisco de Assis domina o hospital; tem seis
 
 Acima do hospital há uma plataforma de pouso para os helicópteros usados para transportar os pacientes que vêm de longe. De lá brilha o "Farol do Amor", cuja luz é visível a grande distância e lembra aos viajantes noturnos de Padre Pio e de como ele serve a Deus no Monte Gargano.
 
+Imprimatur:
+
+.L. Joannes Gregorius Murray Archiepiscopus Sancti Pauli. Paulopoli die 27a Julii 1955.
+
 *Tradução para o inglês por Laura Chanler White.*

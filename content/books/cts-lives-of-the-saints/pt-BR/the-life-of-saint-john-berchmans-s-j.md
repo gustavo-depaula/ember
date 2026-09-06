@@ -36,7 +36,7 @@ Foi enviado, ainda muito jovem, a uma escola diurna. Às vezes acontecia, quando
 
 ## A Doença De Sua Mãe
 
-JOÃO MAL tinha completado nove anos quando sua mãe foi acometida pelo mal mortal que, por oito longas semanas, a manteve num leito de sofrimento. Nosso santo amava ternamente sua mãe, e estava sempre a seu lado, ministrando-lhe, animando-a, consolando-a com tais palavras de sabedoria santa que enchiam de espanto quantos as ouviam. Nos momentos de maior sofrimento, a presença de seu angélico filhinho suavizava e consolava a pobre mãe.
+JOÃO MAL tinha completado nove anos quando sua mãe foi acometida pelo mal mortal que, por oito longos anos, a manteve num leito de sofrimento. Nosso santo amava ternamente sua mãe, e estava sempre a seu lado, ministrando-lhe, animando-a, consolando-a com tais palavras de sabedoria santa que enchiam de espanto quantos as ouviam. Nos momentos de maior sofrimento, a presença de seu angélico filhinho suavizava e consolava a pobre mãe.
 
 João era, de fato, o mais cativante e atraente dos meninos. Todos o amavam, mas, criança que era, esquivava-se da atenção e evitava a sociedade. Jamais deixava sua casa, exceto para ir à escola ou à igreja. Seu mestre testemunha sua disposição retraída e modesta. "Em lugar algum", conta-nos ele, "o via com tanta frequência quanto na igreja; em lugar algum tão raramente quanto nas ruas."
 

@@ -103,4 +103,14 @@ No dia da Ascensão de 1940, todas elas, longe e perto, se alegraram no triunfo 
 
 Santa Maria Eufrásia, rogai por nós.
 
+Imprimatur:
+
+@ D. Mannix,
+
+Arcebispo de Melbourne.
+
+Censor Diocesano: PERCY JONES
+
+7 de setembro de 1958
+
 [^1]: *Nota do tradutor:* "Ilha Esmeralda" é epíteto tradicional da Irlanda. No original, o autor observa que a maioria dos franceses da época da Madre Pelletier não distinguia entre irlandeses, ingleses e escoceses — para eles, todos eram simplesmente "ingleses".

@@ -95,10 +95,33 @@ house style.
   translated with mile figures converted to approximate metric km for a
   Brazilian reader. This was an unplanned, independent choice made by several
   translating agents (not a house policy), so it's inconsistent with chapters
-  that may have kept miles as "milhas" instead — flagged here for the review
-  pass to check and reconcile (either restore the source's own miles
-  throughout, or keep the metric conversions but confirm they're applied
-  uniformly and the arithmetic is sound).
+  that may have kept miles as "milhas" instead. **Resolved in review round 1**:
+  every "quilômetro(s)" conversion in the book was checked against the
+  source miles; all were arithmetically sound except one ("two thousand
+  miles" → wrongly "dois mil quilômetros" in `saint-francis-xavier-s-j.md`,
+  fixed to "cerca de três mil e duzentos quilômetros"). Decision: keep the
+  metric conversions as-is (reverting ~40 instances across 23 files to
+  miles would be a much larger, riskier edit than the value it adds) —
+  future translators/reviewers of this book should treat "convert miles to
+  km" as the book's convention going forward, for consistency.
+
+## Review Log
+
+- **Round 1** (8 parallel agents, full book, en-US vs pt-BR): found and fixed
+  ~28 objective defects — 2 more chapters missing their closing Imprimatur
+  block (`padre-pio.md`, `saint-mary-euphrasia-pelletier.md`, beyond the 8
+  already fixed pre-review), several grammar/gender-agreement slips, a few
+  untranslated/leftover English or Spanish-shaped words, one dropped-vs-
+  invented historical name (`saint-martin-of-tours.md`'s "Constantine II"
+  restored to match the source instead of the translator's unrequested
+  "Constantius II" substitution), one duration mistranslation ("eight
+  years" → wrongly "eight weeks" in
+  `the-life-of-saint-john-berchmans-s-j.md`), one sense inversion
+  (`saint-philomena.md`), a saint-gender mismatch ("São Fé" → "Santa Fé" in
+  `poet-priest-martyr.md`), a torture-device mistranslation ("a roda" →
+  "o cavalete" in `saint-edmund-campion.md`), and the one unit-conversion
+  math error noted above. All fixes applied same round; `pnpm build:corpus`
+  re-verified after.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era

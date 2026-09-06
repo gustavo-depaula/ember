@@ -92,7 +92,7 @@ Encontrareis vós mesmos bênção.
 
 MIL anos atrás, São Venceslau, Governante dos Checos, foi martirizado pela Fé Cristã por seu irmão Boleslau, em Stará Boleslav, perto de Praga.
 
-"Svatý Václav", herói ao mesmo tempo enérgico e pacífico, permanece o centro do culto religioso e da vida nacional na Bohemia (Boêmia), venerado por seu próprio povo e também pelos fiéis em toda a Igreja Católica.
+"Svatý Václav", herói ao mesmo tempo enérgico e pacífico, permanece o centro do culto religioso e da vida nacional na Čechy (Boêmia), venerado por seu próprio povo e também pelos fiéis em toda a Igreja Católica.
 
 Segundo uma lenda patriótica, um exército, com o Rei Venceslau à frente, dormindo sob o Monte Blaník, levanta-se nos momentos de grande perigo nacional para libertar o país.
 
@@ -158,7 +158,7 @@ O povo checo venera São Venceslau como seu patrono particular, e ele é honrado
 
 O Ofício de São Venceslau foi introduzido no Breviário Romano no século treze; a história de São Venceslau, tal como hoje se encontra no segundo Noturno, data do século catorze.
 
-Quando o Papa Urbano VIII estendeu à Igreja universal as Festas dos Reis Hermenegildo e Estêvão, o Arcebispo Matthias Ferdinand Sobek, de Praga, obteve o mesmo privilégio para a festa do Príncipe e Santo boêmio, e o Papa Bento XIII tornou a festa obrigatória. A Missa e o Ofício haviam sido anteriormente inseridos no Missal e no Breviário sob a rubrica Pro aliquibus locis.
+Quando o Papa Urbano VIII estendeu à Igreja universal as Festas dos Reis Hermenegildo e Estêvão, o Arcebispo Mateus Ferdinand Sobek, de Praga, obteve o mesmo privilégio para a festa do Príncipe e Santo boêmio, e o Papa Bento XIII tornou a festa obrigatória. A Missa e o Ofício haviam sido anteriormente inseridos no Missal e no Breviário sob a rubrica Pro aliquibus locis.
 
 Uma expressão comovente do amor do povo checo por seu Santo popular é o antigo cântico "Svatý Václave", entoado hoje com tanto fervor quanto na Idade Média. O autor das primeiras quatro estrofes foi provavelmente o Bispo Bechyně, que as compôs na época da invasão de Brandemburgo, em 1272. Mas o historiador jesuíta Padre Balbín as atribui ao Bispo Ernesto de Pardubice, no século catorze. Os próprios hussitas calixtinos entoavam "Svatý Václave", e traziam sua imagem em seus escudos, com o cálice acima da bandeira e as quatro primeiras linhas do cântico abaixo. Um desses escudos é conservado no Museu Nacional de Praga, e outro no Hermitage, em Petrogrado. O cântico sempre teve um caráter tanto nacional quanto religioso. Na rebelião de 1848, contra o absolutismo dos Habsburgo, invocou-se a ajuda de São Venceslau para repelir e vencer a germanização.
 
