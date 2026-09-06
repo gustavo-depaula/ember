@@ -220,6 +220,49 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
   objective defects found — clean.** This is the second consecutive clean
   round — the review process concludes here.
 
+- **Round 8 (post-merge — 1 defect found and fixed; the two-clean-round
+  counter restarts).** Run after PR #421 merged, as an adversarial
+  re-derivation rather than a re-check: three independent passes over
+  Chs. 1–4, 5–8, and 9–12, each instructed to distrust the seven prior
+  rounds and re-derive every reading from scratch. Mechanical
+  cross-checks all held (12/12 `##` headings, 30/30 bracket pairs, the
+  single `*these*` → `*estas*` italic, all 8 Scripture citations present
+  with correct pt-BR book names and digit-identical chapter:verse
+  numbers, the 28-vs-30 paragraph delta still fully accounted for by the
+  Ch. 7 split). Chs. 1–4 and 9–12 came back clean.
+  - Ch. 6: gender-matched noun ambiguity. "The flesh hates the soul, and
+    wars against it, 1 Peter 2:11 though **itself** suffering no injury,
+    because **it** is prevented from enjoying pleasures" had been
+    translated "...luta contra **ela**, 1 Pedro 2:11 embora **ela mesma**
+    não sofra nenhum dano, porque é impedida...". English "itself"
+    unambiguously continues the main clause's subject, *the flesh*; but
+    "a carne" and "a alma" are both feminine singular in Portuguese, so
+    "ela mesma" binds by proximity to the "ela" two words earlier — which
+    is *a alma*. That parse then propagates into the subjectless "porque
+    é impedida," yielding "the soul is prevented from enjoying
+    pleasures," which is not merely a different referent but an
+    incoherent motive for the flesh's hatred. The parallel clause in the
+    same sentence escapes the trap only by accident of number ("o mundo"
+    singular vs. "os cristãos" plural), so it gave no warning. Fixed by
+    restating the noun instead of relying on the pronoun: "embora **a
+    própria carne** não sofra nenhum dano."
+  - **Noted, not changed — an `en-US` source question, not a translation
+    defect.** In Ch. 5 the inline citation attached to "they are reviled,
+    and bless" reads "2 Corinthians 4:12" in the `en-US` file, and the
+    pt-BR faithfully carries it as "2 Coríntios 4:12". The quoted clause
+    is 1 Cor 4:12 ("we are reviled, and we bless"); 2 Cor 4:12 reads
+    "death worketh in us, but life in you" and has no relation to it. The
+    surrounding citations are all genuinely 2 Corinthians (6:9, 6:10,
+    10:3), which is exactly the environment in which a stray "2" would
+    stick. This could not be checked against newadvent.org — the domain
+    is blocked by the review environment's network egress policy — so the
+    `en-US` file was left as imported rather than edited away from its
+    cited source on an unverified reading. By this skill's own criteria
+    the pt-BR is correct here: the reference is preserved as-is with the
+    correct Portuguese book name and unchanged numbers. Left for a human
+    with source access to decide; it belongs to the import, not the
+    translation.
+
 ## Conclusion
 
 Seven review rounds total (5 with fixes, rounds 6–7 clean back to back).
