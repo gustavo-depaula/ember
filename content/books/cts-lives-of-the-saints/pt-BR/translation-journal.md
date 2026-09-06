@@ -252,6 +252,14 @@ house style.
   ("dos filhos") instead of singular ("do filho") in
   `saint-stanislaus-kostka.md`. Not yet a clean round — proceeding to
   round 9.
+- **Round 9** (8 parallel agents, full book, final verification pass): 7 of
+  8 batches came back fully clean; the only real defect was a missing
+  diacritic ("Cesar Baronio" → "César Baronio") in `saint-philip-neri.md`.
+  A second report (an untranslated "Gerard" in `the-mothers-saint.md`) did
+  not hold up under direct verification — the file already reads
+  "Gerardo" at that point — so no change was made there, another reminder
+  to verify before fixing. The single lowest defect count of any round so
+  far. Not yet a clean round — proceeding to round 10.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era
