@@ -135,3 +135,27 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     reading of that ambiguity, not a clear-cut error, so left unchanged
     rather than risk introducing a different error by "fixing" a source
     ambiguity.
+
+- **Round 4 (1 defect found and fixed, 1 cosmetic nit fixed).** Independent
+  pass focused on Chs. 1/3/4/5 (least-scrutinized so far), collective-noun
+  agreement, the Ch. 2 six-materials catalogue, the Ch. 7 servant/angel/
+  ruler list, and a byte-level check of quote marks, italics, and the Ch. 7
+  ellipsis.
+  - Ch. 10: pronoun-antecedent collision. "...to whom He has promised a
+    kingdom in heaven, and will give it to those who have loved **Him**"
+    had been translated "...e **o** dará aos que **o** tiverem amado" —
+    stacking two clitic "o" pronouns back to back, with the second one's
+    nearest antecedent being "reino" (from "o dará," two words prior)
+    rather than "Deus," making the natural reading "loved it [the
+    kingdom]" instead of "loved Him [God]." Fixed to "e o dará aos que **a
+    ele** tiverem amado," disambiguating the second pronoun from the
+    kingdom.
+  - Ch. 7: the ellipsis "...quem suportará a sua manifestação?**...**Não
+    vês tu" had no space before the ellipsis, where the English has "His
+    appearing? **... **Do you not see." Cosmetic only (the ellipsis itself
+    was never dropped), but fixed the spacing to match the source exactly:
+    "manifestação? ... Não vês tu."
+  - Chs. 1, 3, 4, 5 (full sentence-by-sentence close read), collective-noun
+    agreement, the six-materials catalogue's gender agreement, the
+    servant/angel/ruler list, and all quote-mark/italics formatting held up
+    clean.
