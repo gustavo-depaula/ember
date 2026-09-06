@@ -407,7 +407,51 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     Coordinated relative clauses taking different prepositions is
     correct here, not an inconsistency — each verb governs its own.
 
+- **Round 14 (clean — three reported findings, all rejected on
+  evidence).** Round 13's Ch. 12 preposition fix was independently
+  confirmed (including that coordinated relative clauses taking
+  different prepositions is required here, not a wobble, since *chegar*
+  and *aproximar-se* govern differently). A full government/crase sweep
+  — every `à`/`às` in the file checked against its governing verb, and
+  some forty verb-government pairs spot-checked — and a third
+  native-reader pass then produced three candidate defects. **All three
+  were verified against the corpus and rejected; recorded here so later
+  rounds do not re-raise them.**
+  - **Rejected — Ch. 4, "aprender nada de mim" / "aprender de nenhum
+    mortal".** Reported as an English calque of "learn from", with
+    "aprender com" claimed to be the only standard regência. It is not:
+    "aprender de alguém" is the ordinary biblical-register regência in
+    Portuguese, and the corpus itself carries 47 instances of it
+    ("Aprendei de mim", Mt 11:29; "aprendestes de nós", Phil 4:9). The
+    elevated register makes it the *better* choice here, not an error.
+  - **Rejected — Ch. 2, "depois de teres te libertado".** Reported as
+    non-standard clitic placement in a compound personal infinitive,
+    with "te teres libertado" or "teres-te libertado" proposed. Both of
+    those are indeed more prescriptive, but the corpus is genuinely
+    mixed — "terem se desviado" elsewhere uses the same unhyphenated
+    pattern, against "ter-se convertido", "se ter purificado", "me
+    teres julgado" — and this file contains only the one such
+    construction, so there is no internal inconsistency to correct. The
+    consistency argument that justified round 10's Ch. 6 clitic fix
+    (7:1 corpus-wide, plus a same-file contradiction) does not transfer
+    to a 2:4 split with no same-file conflict. Style, not defect.
+  - **Rejected — Ch. 9, "nossa Sabedoria, Luz, Honra, Glória, Poder e
+    Vida".** Reported as a gender-agreement break, since *Poder* is
+    masculine while the elided "nossa" is feminine. But a determiner
+    heading a coordinated list agrees with the nearest noun and
+    distributes over the remainder — "sua fé, esperança e amor" is
+    ordinary Portuguese with exactly this mixed-gender shape. Repeating
+    the possessive would also have meant either reordering the
+    eleven-item list (breaking the source order prior rounds verified)
+    or adding words the English does not have.
+  - **The general lesson: a reported defect in an archaizing register
+    needs a corpus check before it is believed.** Two of the three
+    findings above flagged constructions that are not merely
+    permissible but idiomatic in elevated/biblical Portuguese, and a
+    grep decided each in under a minute. First of the two required
+    consecutive clean rounds.
+
 ## Conclusion
 
-Thirteen review rounds so far (11 with fixes; rounds 8–13 run
+Fourteen review rounds so far (11 with fixes; rounds 8–14 run
 post-merge).
