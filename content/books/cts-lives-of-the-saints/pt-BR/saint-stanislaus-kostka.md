@@ -52,7 +52,7 @@ Ao pensar nos oito meses seguintes, Paulo não estava totalmente satisfeito com 
 Vendo que nem ele nem seus amigos conseguiam convencer Estanislau a mudar seus hábitos, seja pelo ridículo, seja pelas ameaças, viram-se levados a recorrer à violência física. Quando o encontravam ainda em oração, ao voltarem de alguma festa à noite, ele levava alguns pontapés. Uma ou duas vezes as coisas realmente saíram do controle, como na ocasião em que o derrubaram e o chutaram.
 
 
-## A Fuga
+## A Escapada
 
 Mesmo agora, cavalgando rumo a Roma, Paulo reconhecia que cometera alguns erros de cálculo naquele último período, mas que seu maior erro fora dizer a Estanislau para "cair fora". Nunca imaginara que o irmão fosse tomá-lo pela palavra. É claro que os jesuítas deviam estar por trás da fuga, mas fora humilhante ver-se enganado por um rapaz de dezesseis anos. Como temera a perspectiva de ter de explicar o assunto a seu pai, embora, de fato, não tivesse sido obrigado a explicar muita coisa. O pai ficara furioso, é verdade, mas sua ira se dirigira contra os jesuítas, e não contra Paulo. Paulo fora poupado de muita dificuldade por um relato que chegara ao Castelo de Rostkov antes dele, dizendo que o Padre Pedro Canísio ousara receber Estanislau em sua Ordem. João Kostka não era homem para aceitar tal tratamento e imediatamente pusera em movimento a máquina que traria de volta seu filho mais novo à Polônia. Depois chegara a notícia de que Estanislau fora levado a Roma, o que complicava ainda mais as coisas. Mas agora tudo estava resolvido, e ele, Paulo, estava munido de plena autoridade e de todos os documentos necessários que obrigariam os jesuítas a permitir que ele levasse seu irmão de volta para casa.
 
