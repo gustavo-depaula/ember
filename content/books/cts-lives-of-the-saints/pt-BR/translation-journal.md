@@ -139,6 +139,26 @@ house style.
   and a few smaller consistency nits (São/Santo agreement, a duplicated
   "editor", an untranslated "liege", a French place name half-translated).
   Not yet a clean round — proceeding to round 3.
+- **Round 3** (8 parallel agents, full book, final verification pass):
+  found and fixed ~10 more small defects — mostly gender/number-agreement
+  slips (a feminine noun "grade" paired with masculine articles in
+  `saint-edmund-campion.md`; "voto(s) algum" in `eugene-de-mazenod.md`;
+  "outras membros" in `the-adventurous-nun.md`; subject-verb agreement in
+  `saint-maximilian-kolbe.md`), one theological sense inversion ("ordained
+  *by* men" instead of "ordained *for/on behalf of* men", an allusion to
+  Hebrews 5:1, in `saint-john-fisher.md`), one word-choice mistranslation
+  ("Arca da Bíblia" for "Armory of the Bible" — an armory/arsenal, not an
+  ark — in `the-life-of-saint-anthony.md`), a dangling-subject sentence
+  rewritten for clarity (`saint-edith-stein.md`), and a misread Roman
+  numeral citation ("ii" as "11") in `saint-teresa-of-avila.md`. Two agent
+  findings this round did not hold up under direct verification and were
+  NOT acted on (a claimed "Chiana"/"Chiano" inconsistency in
+  `saint-margaret-of-cortona.md` — the file was already fully consistent;
+  a claimed capitalization slip in `saint-mary-euphrasia-pelletier.md` —
+  the quoted phrase didn't exist in the file at all) — a reminder that
+  review-agent reports should be spot-checked against the actual file
+  before fixing, not applied blindly. Not yet a clean round — proceeding
+  to round 4.
 - **Period racial/political language** (e.g. "the-adventurous-nun.md"'s
   quoted period slurs about a missionary sister who worked among enslaved and
   formerly enslaved people, "the-dauntless-virgin-of-siena.md"'s Cold-War-era

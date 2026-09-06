@@ -84,7 +84,7 @@ Quase de imediato, o primeiro sacrifício lhe foi pedido. Os de raça judia esta
 
 "Não é a atividade humana que pode ajudar mais nestes tempos de tribulação, mas a Paixão de Cristo. Anseio por ter minha parte nela", respondeu ela fervorosamente.
 
-A priora concordou que ela poderia vir por um mês de teste, mas antes ela fez uma visita de despedida à sua casa. Sua mãe, já com oitenta e quatro anos, ela não ousava dar a notícia de repente demais, embora Rosa, que estava a par do segredo, ficasse encantada. No entanto, por fim chegou o dia em que a mãe, percebendo as dificuldades de Edith como professora judia, perguntou:
+A priora concordou que ela poderia vir por um mês de teste, mas antes ela fez uma visita de despedida à sua casa. Como sua mãe já tinha oitenta e quatro anos, Edith não ousava dar-lhe a notícia de repente demais, embora Rosa, que estava a par do segredo, ficasse encantada. No entanto, por fim chegou o dia em que a mãe, percebendo as dificuldades de Edith como professora judia, perguntou:
 
 "Mas o que exatamente você fará durante sua estadia com essas irmãs em Colônia?"
 

@@ -60,7 +60,7 @@ O milagre de Bourges é aquele em que o judeu desafiou Antônio a comprovar sua 
 
 A tradição nos dá a história do Menino Jesus repousando nos braços de Antônio, e temos também o prodígio ocorrido em Arles, na França, em 1224. Antônio estava falando aos frades num capítulo local, quando, de repente, Francisco de Assis — então vivo e são em Assis! — foi visto aparecer à porta, com os braços erguidos em sinal da cruz. Um caso de bilocação.
 
-Já se disse anteriormente que Antônio voltou da França para a Itália em 1228 e foi então eleito Provincial da Romanha. Aqui, novamente, ensinou e liderou os frades, e evangelizou o povo. No fim de 1228, estava em Roma e pregou diante do Papa Gregório IX e do clero, assim como ao povo. Diz-se que Gregório o chamou de "Arca da Bíblia", depois de ouvir seus sermões bíblicos.
+Já se disse anteriormente que Antônio voltou da França para a Itália em 1228 e foi então eleito Provincial da Romanha. Aqui, novamente, ensinou e liderou os frades, e evangelizou o povo. No fim de 1228, estava em Roma e pregou diante do Papa Gregório IX e do clero, assim como ao povo. Diz-se que Gregório o chamou de "Arsenal da Bíblia", depois de ouvir seus sermões bíblicos.
 
 Pádua se tornou então um centro de atração para o homem santo, e cada vez mais ele passou a visitar a cidade. Depois, por volta de 1229, tornou-se residente permanente.
 

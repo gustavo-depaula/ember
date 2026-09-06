@@ -104,7 +104,7 @@ Durante todos aqueles primeiros dias de trabalho conjunto, o grupo de padres que
 
 Ali descansavam e se recuperavam depois das semanas de trabalho exaustivo que cada Missão exigia. Ali viviam em vida comunitária; ali rezavam, estudavam, oficiavam na capela do convento, dedicavam horas regulares ao recolhimento e à meditação.
 
-Viviam em comunidade naquela antiga casa comunitária dos carmelitas; mas eles mesmos não formavam uma comunidade unida por votos algum. Unidade de ideais, a influência do Padre de Mazenod, que se tornara seu Superior por comum acordo; caridade mútua; um simples acordo; estes eram os únicos laços que uniam os Missionários da Provença.
+Viviam em comunidade naquela antiga casa comunitária dos carmelitas; mas eles mesmos não formavam uma comunidade unida por voto algum. Unidade de ideais, a influência do Padre de Mazenod, que se tornara seu Superior por comum acordo; caridade mútua; um simples acordo; estes eram os únicos laços que uniam os Missionários da Provença.
 
 E agora, com a casa de Notre Dame du Laus pronta para se tornar uma casa comunitária, o Padre de Mazenod e seus ajudantes se prepararam para aquele passo que havia muito ponderavam, meditavam e pediam em oração. O Superior foi chamado a formular uma regra, um código de leis pelo qual a comunidade deveria viver.
 
