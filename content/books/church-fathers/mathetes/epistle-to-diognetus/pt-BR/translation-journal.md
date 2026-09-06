@@ -190,3 +190,37 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     rounds now required before the translation is considered done — the
     next round must come back clean with no fixes for the review to
     conclude.
+
+- **Round 6 (clean).** An exhaustive capitalization audit of every
+  occurrence of Deus, Verbo, Filho, Pai, Espírito, Serpente, Apóstolo(s),
+  Igreja, Salvador, Criador, and Senhor across all 12 chapters (extending
+  round 5's spot-check to a full sweep), including the two genuinely tricky
+  same-word-different-referent cases in the file — "Filho" (Christ) vs.
+  lowercase "filho" (an earthly king's son, in the Ch. 7 simile) and "Pai"
+  (God) vs. lowercase "pais" (the Church Fathers, in Ch. 11) — confirmed
+  every instance tracks its English counterpart correctly, with no
+  recurrence of round 5's capitalization slip anywhere else in the
+  document. A second full chapter-by-chapter close reading against the
+  English (clause structure, tense/mood, the Ch. 2 catalogue, the Ch. 6
+  soul/body chain, the Ch. 9 titles and antithetical pairs, the Ch. 10
+  imitator-of-God passage, the Ch. 11 Word/Church/Apostles passage, the
+  Ch. 12 two-trees passage, and all 8 Scripture references) found nothing
+  further. **No objective defects found — clean.** First of the two
+  required consecutive clean rounds.
+
+- **Round 7 (clean — review concludes).** A native-reader pass (Portuguese
+  read straight through with no English open, checking for anything that
+  would make a native speaker stumble — nothing did), a book.json
+  consistency check (languages, name/author/toc translations, chapter id,
+  folder contents all consistent), a spot-check of this journal's own
+  claims against the current file (all verified accurate), and a full
+  sweep of every "not...but"/"neither...nor" contrastive pair in the file
+  (English "neither" × 4 + "nor" × 17 = 21, matching the Portuguese "nem"
+  count of 21 exactly, with every pair complete on both sides). **No
+  objective defects found — clean.** This is the second consecutive clean
+  round — the review process concludes here.
+
+## Conclusion
+
+Seven review rounds total (5 with fixes, rounds 6–7 clean back to back).
+The translation is complete, faithful, and considered done.
