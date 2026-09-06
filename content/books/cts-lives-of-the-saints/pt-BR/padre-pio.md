@@ -167,7 +167,7 @@ Quem quer que receba a graça da conversão experimentará as mesmíssimas alegr
 
 O amor que seus filhos espirituais sentem por Padre Pio não é fanatismo, mas antes um respeito humílimo por alguém que os aproximará de Deus Todo-Poderoso. São cruzados da fé e do amor, pois se comprometem a difundir uma e outro entre os que carecem de ambos, e o fazem em nome de Deus e de seu pai espiritual.
 
-Padre Pio deseja que todos os seus filhos se considerem irmãos, que baniam todo ódio para sempre na chama do amor de Deus, e que venham a ele com um anseio tão profundo e sincero de perfeição que ele possa apresentá-los a Deus restaurados à sua inocência batismal.
+Padre Pio deseja que todos os seus filhos se considerem irmãos, que afastem todo ódio para sempre na chama do amor de Deus, e que venham a ele com um anseio tão profundo e sincero de perfeição que ele possa apresentá-los a Deus restaurados à sua inocência batismal.
 
 Sigamos-lhe então, a este escolhido, que toma sobre si a reparação de todo o mal que cometemos, e, assim como ele imita Nosso Senhor e Se oferece por inteiro a Deus, também nós podemos imitá-lo e avançar bastante na vida espiritual.
 
