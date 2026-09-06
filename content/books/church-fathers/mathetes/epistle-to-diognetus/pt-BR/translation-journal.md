@@ -57,3 +57,19 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
   oldest manuscript witness). This is left unremarked in the translation
   itself, matching the English source, which presents all twelve sections as
   one continuous letter without any such note.
+
+## Review Log
+
+- **Round 1 (clean except two minor bracket-placement fixes).** A
+  paragraph-by-paragraph comparison against the English found the
+  translation complete and accurate (all 19 rhetorical questions in the Ch.
+  2 idol polemic, all 8 Scripture citations, the 5 antithetical pairs and
+  11-item title list in Ch. 9, and the singular "tu" register all verified
+  consistent). Two bracket-placement defects found and fixed:
+  - Ch. 2: `[system of] doctrine` had been translated as `uma nova
+    [doutrina]` — the bracket wrapped the base noun instead of the
+    editorial gloss. Fixed to `um novo [sistema de] doutrina`.
+  - Ch. 11: `speaking plainly [to them]` had folded "to them" into the
+    clitic pronoun "-lhes" with no bracket at all. Fixed by restructuring
+    to `falando com clareza [a eles]`, giving the bracketed insertion a
+    standalone counterpart.
