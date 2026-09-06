@@ -70,7 +70,7 @@ Seis meses após a visão de Zacarias no Templo, o Anjo Gabriel, mensageiro do M
 
 Maria soube então que os planos de Deus estavam completos; para anunciar o Filho que estava por nascer, já havia sido concebido um precursor. Ela baixou a cabeça em aceitação da maternidade divina, ajoelhou-se diante do Deus que estava dentro dela, e correu pelas estradas até a região montanhosa onde Isabel morava em feliz expectativa.
 
-Maria entrou na casa de sua prima, afastou a pesada cortina do quarto de Isabel e proferiu sua saudação. Instantaneamente Isabel se pôs de pé e, naquela Visitação, que os artistas tanto amaram, tomou sua prima mais jovem pelas mãos. A criança dentro do corpo de Isabel saltou de alegria; pois o Espírito Santo a encheu e lavou qualquer mácula do pecado original que pudesse pesar sobre o espírito ou entravar os pés embaixatoriais de João, o Precursor.
+Maria entrou na casa de sua prima, afastou a pesada cortina do quarto de Isabel e proferiu sua saudação. Instantaneamente Isabel se pôs de pé e, naquela Visitação, que os artistas tanto amaram, tomou sua prima mais jovem pelas mãos. A criança dentro do corpo de Isabel saltou de alegria; pois o Espírito Santo a encheu e lavou qualquer mácula do pecado original que pudesse pesar sobre o espírito ou entravar os pés diplomáticos de João, o Precursor.
 
 "Bendita és tu entre as mulheres", exclamou a jubilosa Isabel, "e bendito é o fruto do teu ventre. E de onde me vem isto, que a mãe do meu Senhor venha a mim? Pois eis que, assim que a voz da tua saudação soou em meus ouvidos, o menino saltou de alegria em meu ventre."
 
