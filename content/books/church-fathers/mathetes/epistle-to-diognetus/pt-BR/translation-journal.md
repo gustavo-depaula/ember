@@ -159,3 +159,34 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     agreement, the six-materials catalogue's gender agreement, the
     servant/angel/ruler list, and all quote-mark/italics formatting held up
     clean.
+
+- **Round 5 (1 defect found and fixed — round 1 of 2 required clean rounds
+  restarts).** Independent fresh read of the whole Portuguese text as
+  continuous prose, a full re-verification of every sentence edited in
+  rounds 1–4, a scan for leftover English/Latin fragments (none found), a
+  heading/paragraph-boundary recount (12 `##` headings in both files; the
+  28-vs-30-paragraph-block difference is entirely the pre-existing,
+  previously-noted Ch. 7 split into 3 Portuguese paragraphs vs. 1 English
+  paragraph, with no sentence orphaned across the split), a full bracket
+  resweep (all 29 bracket pairs span the same content as their English
+  counterparts), and a fresh subjunctive/indicative check of the
+  conditional and hypothetical constructions in Chs. 3, 4, 8, and 9 (all
+  correct — real/factual conditionals in the present indicative, "como se"
+  clauses in the imperfect subjunctive, and matching
+  subjunctive-protasis/conditional-apodosis pairs throughout).
+  - Ch. 2: capitalization inconsistency. "Certainly you do not show [by
+    your conduct] that he [your **God**] is possessed of sense" had been
+    translated "...que ele [teu **deus**] é dotado de sentimento" — the
+    sole lowercase instance of "deus" standing for English "God" in the
+    entire chapter (40 other occurrences of English "God"/en-US capital-G
+    all correspond to a capitalized Portuguese "Deus," including other
+    ironic/false-god referents such as Ch. 8's "chamando de **Deus** aquilo
+    a que eles mesmos haveriam de ir ter," where a pagan philosopher's fire
+    is still rendered with capital "Deus" to match the English capital).
+    The lone lowercase instance broke this document's own otherwise
+    perfect, consistent capitalization correspondence, with no journal
+    entry documenting it as a deliberate choice. Fixed to "[teu **Deus**]."
+  - No other defects found. This is round 1 of the 2 consecutive clean
+    rounds now required before the translation is considered done — the
+    next round must come back clean with no fixes for the review to
+    conclude.
