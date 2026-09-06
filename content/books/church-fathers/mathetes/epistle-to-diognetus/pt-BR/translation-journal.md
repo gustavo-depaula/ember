@@ -607,12 +607,254 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     defects found — clean.** Second consecutive clean round; the review
     concludes here.
 
+- **Round 19 (post-merge again — 1 defect found and fixed; the counter
+  restarts).** Run after PR #423 merged. Three passes, each a
+  from-scratch bidirectional re-derivation of a chapter range plus one
+  whole-file category no earlier round had run: discourse-connective and
+  logical-relation fidelity; grammatical number, agreement and degree
+  constructions; determiner and article semantics.
+  - Ch. 5: **three dropped concessives.** The English carries "yet"
+    fourteen times. Eleven had an explicit Portuguese counterpart —
+    `mas` four times, `no entanto` five, and `ainda`/`ainda assim` for
+    the two adverbial uses in Chs. 7 and 9. The other three were bare
+    `e`, all inside the Ch. 5 antithesis catalogue: "in lack of all
+    things, and yet abound in all"; "dishonoured, and yet in their very
+    dishonour are glorified"; "they do good, yet are punished as
+    evil-doers". "Yet" is a lexical word, not punctuation density, and
+    it carries the concession the catalogue is built on. The drop
+    mattered more here than it would elsewhere, because the same list
+    uses bare `e` for genuine "and" ("Amam a todos, e por todos são
+    perseguidos"; "são injuriados, e abençoam"), so at the three gaps
+    the concessive was indistinguishable from ordinary addition.
+    "Fazem o bem, e são punidos" had no compensating device at all.
+    Fixed to match the four instances already correct in the same
+    chapter — which is also what the English does, repeating one word
+    rather than varying it. Ch. 5 now has seven `no entanto` for seven
+    "yet".
+  - **Rejected — Ch. 9, `de algum modo` in "não foi porque ele se
+    comprazesse de algum modo em nossos pecados".** Reported as the
+    wrong member of the `de algum modo` / `de modo algum` pair, on the
+    ground that English "at all" is an emphatic total negation.
+    **The proposed fix would have reversed the sentence.** Preposed
+    `algum` is the negative-polarity member, licensed here by the
+    downward-entailing `não foi porque`, and the corpus attests it
+    throughout such contexts ("se de algum modo O tenha ofendido", "se
+    de algum modo pudessem receber", "se de algum modo puderem ser
+    levadas ao arrependimento"). Ch. 6's `de modo algum` is not a
+    parallel: there no other negator is present, so the phrase must
+    supply the negation itself. Here `não foi porque` already supplies
+    it, and inserting the self-negating `de modo algum` into the
+    subordinate clause would yield "it was not because he in no way
+    delighted" — asserting that God DID delight in our sins.
+  - **Rejected — Ch. 3, `a seres desprovidos de sentido e audição`.**
+    Reported as flattening the English's definite, anaphoric "those that
+    are destitute of sense and hearing" into a bare generic, on the
+    claim that Portuguese renders the English's definite and indefinite
+    versions identically. The claim is factually wrong: the text does
+    distinguish them, `a seres desprovidos de sentido e audição` against
+    the later `a coisas desprovidas de sentido`.
+
+- **Round 20 (1 defect found and fixed).** Three passes: bidirectional
+  re-derivations plus verb tense and aspect (with a check of every
+  future-subjunctive form's morphology), demonstrative deixis and
+  anaphoric chains, and information structure with markdown/typography
+  integrity.
+  - Ch. 2: **a gnomic present flattened into a narrated past.** The idol
+    volley builds present, present, past, past — "Are not all these of
+    corruptible matter? Are they not fabricated by means of iron and
+    fire? Did not the sculptor fashion one of them…? Was not every one
+    of them… subject to change?" The first pair states what the idols
+    timelessly are; the second narrates who made them. The Portuguese
+    had moved that boundary one clause early with `Não foram
+    fabricados`, so a class-property became a report of a single
+    completed manufacture. The same paragraph preserves every other
+    present the English has, including another present passive ("que
+    agora são adorados por ti") and two present copulas ("Não são todos
+    eles de matéria corruptível", "que hoje são vasos") — this clause
+    was the lone departure. Fixed to `Não são fabricados`.
+  - Deixis, focus and markup all came back clean: 30/30 bracket pairs,
+    the single italic pair, the ellipsis, and every cleft and fronting
+    ("Este é aquele que…", "na própria desonra, são glorificados", "não
+    é… que se encontra a felicidade", "é a desobediência que se mostra
+    destrutiva", Ch. 7's OSV "Este [mensageiro] ele lhes enviou",
+    Ch. 12's VS "nem então é Eva corrompida"). Every future subjunctive
+    (`tiveres`, `quiser`, `souberes`, `desprezares`, `temeres`, `forem`,
+    `entristeceres`, `amares`) is correctly built.
+  - **Rejected — Ch. 9's pluperfect/preterite mix.** Three sequential
+    "when… had…" clauses render as simple preterite while the fourth,
+    nested one level deeper, takes mais-que-perfeito (`havia
+    estabelecido`). That is exactly the distinction Portuguese reserves
+    the tense for; the other three are plain chronological sequence.
+  - Also rejected: `nem visando a algo` (Ch. 11 — an attested
+    reduced-clause gerund, with two more in this file and some eighteen
+    across `church-fathers/*/pt-BR`), `e como` for "and when" (Ch. 12 —
+    `como` is causal here and changes no assertion), `despojados e
+    postos nus` (Ch. 12 — one event, two participles, nothing added),
+    the `—,` sequence, the straight-vs-curly quote style, and the five
+    extra em-dashes, all traced to punctuation-density variation.
+
+- **Round 21 (1 defect found and fixed).** Three passes: modality;
+  coordination and ellipsis recovery; and an exhaustive target-to-source
+  addition sweep with a check of the headings and `book.json`.
+  - Ch. 2: **an unlicensed intensifier.** "But if, on the other hand,
+    they are destitute of sense, you convict them of this fact" was
+    rendered `tu mesmo as condenas por esse fato`. The English is plain
+    "you convict them". The file's own practice settles it: nine
+    emphatic uses of `mesmo` (setting aside `o mesmo`/`a mesma` for
+    "same", `do mesmo modo`, `ao mesmo tempo`, `até mesmo`), and eight
+    render an explicit English reflexive — "you yourselves" (Ch. 2),
+    "they themselves" (Ch. 8), "in ourselves" (Ch. 9), "He Himself"
+    twice (Chs. 3, 9), "revealed Himself" (Ch. 8), "to Himself"
+    (Ch. 10), "in yourselves" (Ch. 12). Every English reflexive in the
+    letter is likewise accounted for, the rest by clitics or by
+    `próprio`/`si`. This one had no trigger, two sentences after the
+    licensed `não és tu mesmo` it was most likely carried over from.
+    Removed; the overt `tu` stays, marking the subject switch from
+    `elas`.
+  - Modality came back clean across some 45 modal tokens — epistemic,
+    deontic and dynamic all preserved, with "because they **will not**
+    deny God" correctly read as volition (`por não quererem negar`) and
+    distinguished from the thirteen predictive futures in the same
+    chapter. **`haver de` was checked and kept**: the corpus uses it
+    throughout for archaic prophetic "shall/will" ("a ira que há de
+    vir", "hão de julgar o mundo"), so it is register, not a force
+    upgrade to obligation.
+  - Ellipsis recovery clean: `tanto a falar quanto a ouvir` repeats its
+    preposition correctly, Ch. 4's `à`/`às` crase varies per coordinate,
+    and no shared verb, auxiliary, article or elided subject recovers
+    the wrong antecedent. Headings and `book.json` (name, author,
+    languages, toc ids) all correct and consistent with disk.
+
+- **Round 22 (clean).** Three passes over three unrun categories:
+  second-person verb morphology and concord; thematic-role fidelity; and
+  adjunct-preposition semantics with a full named-entity inventory.
+  - The morphology sweep enumerated all 18 `te/ti/teu`-family tokens
+    (all bound to Diognetus), all 14 `lhe/lhes` (all third-person, never
+    a misdirected addressee), every explicit `tu` and its verb, and every
+    future, future-subjunctive, imperative and preterite form. Zero
+    `você` or `vós` leakage anywhere. Note this is distinct from round
+    16, which checked which person is addressed, not whether the
+    morphology is correctly built.
+  - Thematic roles clean, including the verbs whose Portuguese argument
+    structure differs from their English counterparts (`carecer`,
+    `parecer`, `lembrar-se`, `comprazer-se`); no argument swap, no
+    experiencer promoted to agent, no beneficiary re-encoded as patient.
+  - Prepositions clean (instrument never turned into agent, means never
+    into path, accompaniment never into instrument), and every named
+    entity matched count-for-count across both files. **`um reino nos
+    céus` for "a kingdom in heaven" was checked and kept** — the fixed
+    Portuguese biblical idiom, matching the underlying plural.
+
+- **Round 23 (2 defects found and fixed).** Three passes: assertion
+  versus presupposition; non-declarative speech-act integrity; and a
+  fresh Portuguese-first native-reader pass, warranted because the text
+  had changed three times since the last one.
+  - Ch. 2: **a comparative that read as temporal.** "do you not, if they
+    are possessed of sense, rather punish [than honour] them?" was
+    rendered `não as punes antes [de honrá-las]`. `antes de` +
+    infinitive is temporal in Portuguese, not comparative, so the clause
+    said you punish them *before* honouring them — implying the honour
+    still comes, when the sentence's whole point is that these gifts are
+    never honour at all. Ch. 2 settles it against itself: one paragraph
+    earlier the same chapter uses the same construction temporally,
+    `antes de ser formado pelas artes desses [artesãos]`. The corpus
+    agrees (antes de morrer, de nascer, de expirar, de comungar — all
+    temporal), and the comparative is the correlative `antes … do que`,
+    which this file already uses correctly in Ch. 3 and Ch. 4. Fixed to
+    `antes [do que honrá-las]`, keeping "rather" outside the bracket as
+    `antes` and "[than honour]" inside, as the English splits it.
+  - Ch. 11: **a non-restrictive relative made restrictive.** "but
+    conversing with the disciples, who, being esteemed faithful by Him,
+    acquired a knowledge of the mysteries of the Father?" had `com os
+    discípulos que,` with no comma before `que`. In Portuguese the comma
+    is the only signal, and the difference is truth-conditional: without
+    it the relative partitions the disciples into faithful and not, a
+    claim the English does not make about a group it introduced two
+    clauses earlier. The English has seventeen non-restrictive relatives
+    (comma + who/which/whom) and sixteen carry the comma in the
+    Portuguese; this was the only one missing it. Comma added. This is a
+    truth-conditional comma, not the punctuation-density variation
+    earlier rounds dismissed.
+  - Speech acts clean, verified mechanically: 38 question marks and 6
+    exclamation marks in each file, matching chapter by chapter, with
+    every negative question keeping the polarity that expects "yes", and
+    every imperative, jussive and optative (`Vem`, `contempla`, `Seja o
+    teu coração`, `a quem seja a glória`) keeping its mood and addressee.
+
+- **Round 24 (clean).** Three passes: a deliberate sibling-hunt for
+  round 23's truth-conditional punctuation defect; pronominal-verb
+  correctness and verb valency; relative-pronoun selection, together
+  with an adversarial re-derivation of all five fixes from rounds 19–23.
+  - The punctuation sibling-hunt found none: every relative in the file
+    now carries the same restrictive status as its English counterpart,
+    every appositive is symmetrically enclosed, every list groups as the
+    English groups, every fronted adjunct closes, and no comma separates
+    a subject from its verb.
+  - **All five recent fixes were re-derived from scratch by an
+    adversarial pass and all five held**, including the confirmation
+    that the Ch. 2 `antes` reading had been not merely weaker but
+    semantically wrong.
+  - Relative-pronoun selection clean: `cujas ordenações` and `por cuja
+    causa` agree with the possessed noun, `quem` appears only with
+    personal antecedents, and Ch. 10's `à qual`/`a qual` crase
+    alternation correctly tracks each verb's valency (`formar` takes a
+    direct object; the other five take indirect).
+  - **Rejected — Ch. 11, `crido pelos gentios`.** Reported as a valency
+    error, on the claim that Portuguese `crer` with a personal object
+    requires `em` and cannot passivize, with "zero counterexamples" in
+    the corpus. The claim is false in both halves: the corpus attests
+    `Deus visto e Deus crido` in two independent books — a divine,
+    personal referent as the bare participial object of `crer` — and
+    separately `deve ser crido por todos`, the passive with a `por`
+    agent. The clause combines the two to mirror the English's own
+    unusual "believed on by". **The proposed fix would also have
+    introduced a defect**, promoting the temporal adjunct "quando
+    pregado pelos Apóstolos" to a coordinate main clause and so changing
+    what the sentence asserts versus backgrounds.
+
+- **Round 25 (clean — review concludes).** Three passes: clitic
+  placement as a system; adverb and adverbial scope; and, for the first
+  time in the review, an audit of the **English** file itself.
+  - The clitic sweep enumerated every clitic in the file against its
+    environment — proclisis triggers, sentence-initial enclisis,
+    infinitive/gerund attachment, the `-lo/-la` allomorph (`vigiá-la`,
+    `honrá-las`, `enviá-lo`, `distribuí-las`), and the combined
+    `fornecer-lhas` — and found the file internally consistent, with the
+    thirteen mid-sentence `e` + clitic sites all proclitic and the one
+    sentence-initial `E manifestou-se` correctly enclitic.
+  - The adverbial sweep traced every `-mente` adverb, bare adverb and
+    adverbial PP for scope and attachment. Clean.
+  - **The en-US audit found no new import defects.** All twelve headings
+    match the standard Roberts–Donaldson titles; seven of the eight
+    Scripture citations were verified against actual verse content and
+    are correct in book, chapter:verse and attachment; no doubled,
+    dropped or run-together words, no OCR artefact, 30/30 brackets. The
+    Ch. 5 "2 Corinthians 4:12" remains the only citation defect, and it
+    has no siblings. The pt-BR neither compounds nor silently corrects
+    any English defect: where the two differ (spaced em-dashes, the
+    Ch. 7 "He"/"he" inconsistency that pro-drop simply gives no surface
+    to) the difference is target-language convention, not a
+    disagreement of fact.
+  - **Rejected, for the second time — Ch. 4's `já` in "Suponho, pois,
+    que já estás suficientemente convencido".** Round 20 considered it
+    and set it aside; round 25 re-raised it as an added aspectual claim.
+    Settled here so it stops recurring. It is not the same case as
+    round 21's `tu mesmo`: `mesmo` had a convention to violate, eight of
+    nine instances tied to an explicit English reflexive, whereas `já`
+    has two instances in the whole file, one licensed by "already"
+    (Ch. 2) and one not — which is not a pattern. And the English marks
+    this clause as the conclusion of the preceding four chapters with
+    "then", rendered `pois`; `já` restates that same inferential
+    relation rather than adding a new one. No proposition changes.
+  - **No objective defects found — clean.** Second consecutive clean
+    round; the review concludes here.
+
 ## Conclusion
 
-Eighteen review rounds total (12 with fixes). Rounds 1–7 ran before
+Twenty-five review rounds total (16 with fixes). Rounds 1–7 ran before
 PR #421 merged; rounds 8–15 after it, and found six defects those seven
 rounds had missed; rounds 16–18 after PR #422 merged, and found one
-more.
+more; rounds 19–25 after PR #423 merged, and found five more.
 
 The rounds 8–15 batch fixed two pronouns binding to the wrong
 same-gender antecedent (Chs. 6 and 2), a clitic-placement inconsistency
@@ -639,5 +881,46 @@ citation placement, enumeration integrity). Eleven reported findings
 across rounds 16–18 were checked against the corpus and rejected — one
 of them, Ch. 9's "tendo-nos sido manifestado", carrying a proposed fix
 that would itself have introduced a defect.
+
+Rounds 19–25 found five further defects, every one of them of a kind no
+standing check counted:
+
+- three dropped "yet" concessives in Ch. 5's antithesis catalogue, where
+  the same list uses bare "e" for genuine "and", so the loss was
+  invisible (round 19);
+- a gnomic present narrowed to a completed past in Ch. 2, moving the
+  boundary of the English's own present/past build one clause early
+  (round 20);
+- an emphatic "mesmo" in Ch. 2 with no English reflexive to license it,
+  against a file convention otherwise kept eight times out of nine
+  (round 21);
+- "antes de" for a comparative in Ch. 2, which in Portuguese is
+  temporal, so the clause said the idols were punished *before* being
+  honoured (round 23);
+- and a missing comma in Ch. 11 that turned a non-restrictive relative
+  restrictive, partitioning a group of disciples the English keeps whole
+  (round 23).
+
+Rounds 24 and 25 came back clean back to back. Between them they
+exhausted a further sixteen categories — discourse connectives, number
+and agreement, degree constructions, determiners and articles, tense and
+aspect, future-subjunctive morphology, demonstrative deixis, information
+structure, markdown and typography, modality, coordination and ellipsis
+recovery, second-person morphology, thematic roles, adjunct prepositions,
+named entities, assertion versus presupposition, non-declarative speech
+acts, truth-conditional punctuation, pronominal verbs and valency,
+relative-pronoun selection, clitic placement, and adverbial scope. Round
+24 also re-derived all five of the new fixes adversarially, trying to
+prove each wrong; all five held. Round 25 audited the **English** file
+for the first time and found no import defect beyond the long-known
+Ch. 5 "2 Corinthians 4:12", which has no siblings among the other seven
+citations.
+
+Eight further reported findings across rounds 19–25 were checked and
+rejected with evidence, two of them carrying proposed fixes that would
+themselves have introduced defects: Ch. 9's "de algum modo", where the
+replacement would have doubled a negation and asserted that God delighted
+in our sins, and Ch. 11's "crido pelos gentios", where it would have
+promoted a temporal adjunct to a main clause.
 
 The translation is complete, faithful, and considered done.
