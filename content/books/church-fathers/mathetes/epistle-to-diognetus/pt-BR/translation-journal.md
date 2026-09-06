@@ -292,6 +292,39 @@ already established in `church-fathers/ignatius/epistle-to-the-ephesians/pt-BR`.
     nearest antecedent is now "desses [deuses]" in the preceding
     sentence, which is the correct one.
 
+- **Round 10 (2 defects found and fixed; the counter restarts again).**
+  Round 9's Ch. 2 reordering was independently re-derived and confirmed
+  correct on all five points checked — subject, referent of "such",
+  the post-reorder antecedent (no new attraction toward "artífices",
+  since Portuguese resolves anaphorically, backward, and the pronoun now
+  precedes both "materiais" and "artífices" in its own sentence),
+  the naturalness of the heavy-NP-shift VS order, and the surviving
+  "formadas"/"se caíssem"/"tornariam" agreements.
+  - Ch. 6: clitic-placement inconsistency. "God has assigned them this
+    illustrious position, which it were unlawful for them to forsake"
+    read "...que **lhes não** é lícito abandonar." Clitic-before-negator
+    is *not* ungrammatical — it is legitimate classical Portuguese
+    proclisis, the relative "que" attracting the clitic ahead of "não" —
+    so this was decided on internal consistency rather than on
+    correctness, the same way round 5's "teu deus" was. This file itself
+    writes "**não lhes** foi transmitido" in Ch. 7, and across the whole
+    `church-fathers/*/pt-BR` corpus the modern negator-first order
+    appears 7 times against this single old-style instance, which is the
+    only one in the corpus. Nothing in the journal documented the
+    archaism as deliberate. Fixed to "que **não lhes** é lícito
+    abandonar."
+  - Ch. 12: semantic drift losing an antithesis. "nor is Eve then
+    corrupted, but **is trusted as a virgin**" read "mas é tida por
+    **confiável** como virgem" — "held to be *trustworthy*", a
+    character-trait claim. The English's contrast is
+    *corrupted ↔ virgin*, and "confiável" introduces a sense the source
+    does not carry while pushing "como virgem" from predicate
+    complement to bare comparison, so the antithesis the sentence exists
+    to make is lost. Fixed to "mas é **tida por virgem**", which keeps
+    the corrompida/virgem contrast and matches the file's own "ter por"
+    idiom (Ch. 1, "não tendo por deuses os que os gregos reputam como
+    tais").
+
 ## Conclusion
 
-Nine review rounds so far (7 with fixes; rounds 8–9 run post-merge).
+Ten review rounds so far (9 with fixes; rounds 8–10 run post-merge).
