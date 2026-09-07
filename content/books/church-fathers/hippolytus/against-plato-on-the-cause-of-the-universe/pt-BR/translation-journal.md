@@ -26,3 +26,4 @@ Target: pt-BR
 - 2026-09-07: "hymned by the angels" rendered as "louvados com hinos pelos anjos" rather than a coined verb, since Portuguese has no natural verb form of "hinar."
 - No editor footnotes present in the source (single continuous patristic fragment); nothing to drop.
 - No Latin phrases in the source to preserve inline.
+- 2026-09-07 (round-1 review): Capitalized "teu" → "Teu" in "Justo é o Teu julgamento" for reverential-pronoun consistency with "O" in "aqueles que O amam" later in the same paragraph, matching the en-US source's capitalization of both "Your" and "Him."
