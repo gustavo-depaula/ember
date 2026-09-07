@@ -1,13 +1,16 @@
 {
   "id": "hippolytus-against-plato-on-the-cause-of-the-universe",
   "name": {
-    "en-US": "Against Plato, On the Cause of the Universe"
+    "en-US": "Against Plato, On the Cause of the Universe",
+    "pt-BR": "Contra Platão, Sobre a Causa do Universo"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Against Plato, On the Cause of the Universe"
+        "en-US": "Against Plato, On the Cause of the Universe",
+        "pt-BR": "Contra Platão, Sobre a Causa do Universo"
       }
     }
   ]
