@@ -27,3 +27,5 @@ Target: pt-BR
 - No editor footnotes present in the source (single continuous patristic fragment); nothing to drop.
 - No Latin phrases in the source to preserve inline.
 - 2026-09-07 (round-1 review): Capitalized "teu" → "Teu" in "Justo é o Teu julgamento" for reverential-pronoun consistency with "O" in "aqueles que O amam" later in the same paragraph, matching the en-US source's capitalization of both "Your" and "Him."
+- 2026-09-07 (round-2 review): Fixed a meaning-reversing agent/patient swap in paragraph 3 — "Pois já não são vistos pelos justos" (wrongly said the unrighteous are no longer seen by the righteous) corrected to "Pois os justos já não são vistos por eles" (the righteous are no longer seen by the unrighteous), matching "For neither are the righteous seen by them any longer."
+- 2026-09-07 (round-2 review): Capitalized "deus" → "Deus" in paragraph 1 ("que honraram como Deus as obras vãs...") for consistency with all 10 other references to God in the file.
