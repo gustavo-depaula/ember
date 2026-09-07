@@ -1,13 +1,16 @@
 {
   "id": "miscellaneous-passion-of-the-scillitan-martyrs",
   "name": {
-    "en-US": "The Passion of the Scillitan Martyrs (c. 180)"
+    "en-US": "The Passion of the Scillitan Martyrs (c. 180)",
+    "pt-BR": "A Paixão dos Mártires Cilitanos (c. 180)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Passion of the Scillitan Martyrs (c. 180)"
+        "en-US": "The Passion of the Scillitan Martyrs (c. 180)",
+        "pt-BR": "A Paixão dos Mártires Cilitanos (c. 180)"
       }
     }
   ]
