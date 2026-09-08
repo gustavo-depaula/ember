@@ -196,7 +196,7 @@ Aconteceu certa manhã que Domingos não apareceu para o café da manhã, e na h
 
 Domingos pediu desculpas por quebrar a regra e foi cuidar de seus afazeres habituais. Em outra ocasião, Dom Bosco ouviu uma conversa acontecendo no Santuário. Foi investigar e viu Domingos conversando com alguém invisível.
 
-'Vou morrer, ele estava protestando, 'antes que cometer pecado.
+'Vou morrer, ele estava protestando, 'antes de cometer pecado.
 
 Dom Bosco perguntou-lhe o que acontecia nessas ocasiões, e Domingos respondeu com grande simplicidade e franqueza:
 

@@ -70,7 +70,7 @@ Martín García era o rico proprietário de terras para quem Pascoal trabalhava.
 
 Seu ato de renúncia às riquezas terrenas foi verdadeiramente heroico. Deus o recompensou abrindo-lhe as portas do mosteiro franciscano. Como uma águia libertada do cativeiro, a alma de Pascoal estava pronta para o voo até o próprio coração de Deus.
 
-No início de 1565, Pascoal encontrou o Irmão Afonso de Llerena, Superior de Elche. Ao pedido do jovem de 23 anos e meio, o Irmão Afonso deu de imediato seu consentimento. Provavelmente sentiu que aquele humilde pastor era uma jóia que traria lustre a qualquer mosteiro. Enviou-o então a Monforte, a umas duas horas dali, onde Pascoal recebeu o hábito franciscano na festa da Candelária, de 1564.
+No início de 1565, Pascoal encontrou o Irmão Afonso de Llerena, Superior de Elche. Ao pedido do jovem de 23 anos e meio, o Irmão Afonso deu de imediato seu consentimento. Provavelmente sentiu que aquele humilde pastor era uma joia que traria lustre a qualquer mosteiro. Enviou-o então a Monforte, a umas duas horas dali, onde Pascoal recebeu o hábito franciscano na festa da Candelária, de 1564.
 
 Precisamos dizer que Pascoal estava feliz? As flores da primavera que se abriam no paraíso de Valência eram apenas uma imagem da alegria que despontava no coração do pastor, agora transformado em Frade. O Breviário Franciscano diz dele: 'Pascoal cresceu no mundo como flor dos campos; agora, porém, transplantado para a casa de Deus, espalha por toda parte o perfume de suas virtudes.'
 

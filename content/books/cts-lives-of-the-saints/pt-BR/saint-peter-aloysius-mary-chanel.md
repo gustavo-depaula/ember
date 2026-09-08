@@ -1,4 +1,4 @@
-# São Pedro Luís Maria Chanel
+# São Pedro Luís Chanel
 
 NO Pacífico, um pouco ao norte de uma linha traçada entre Fiji e Samoa, encontram-se duas pequenas ilhas, separadas por um estreito canal que, em tempo normal, é facilmente atravessado por canoas nativas. A maior é Futuna, e é habitada; a menor é Alofi, e é usada pelos nativos para suas plantações.
 

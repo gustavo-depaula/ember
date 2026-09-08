@@ -114,7 +114,7 @@ Chegou o ano de 1690, e com ele o fim do sofrimento. Margarida Maria não conseg
 
 Imprimatur:
 
-## @ D. Mannix,
+## @ Daniel Mannix,
 
 Archiepiscapus Melbournensis.
 
