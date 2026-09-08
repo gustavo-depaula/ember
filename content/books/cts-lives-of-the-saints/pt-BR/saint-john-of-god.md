@@ -2,7 +2,7 @@
 
 Uma das maiores opressões que afligem o homem hoje é o materialismo. O homem é mais que um mero ser material; ele tem espírito, tem alma, e isso o eleva a um plano onde o materialismo puro, desprovido dos nobres ideais da religião, o rebaixa a nada mais que o nível do animal.
 
-O homem busca algo mais elevado que a "boa vida", pois seu espírito precisa ser satisfeito para torná-lo um ser plenamente integrado. Muitos aprenderam, para sua desgraça, que os conforto materiais não os satisfazem plenamente, e muitas vezes provocam em suas vidas um vazio que anseia ser preenchido.
+O homem busca algo mais elevado que a "boa vida", pois seu espírito precisa ser satisfeito para torná-lo um ser plenamente integrado. Muitos aprenderam, para sua desgraça, que os confortos materiais não os satisfazem plenamente, e muitas vezes provocam em suas vidas um vazio que anseia ser preenchido.
 
 Os jovens, sobretudo, frequentemente buscam heróis com quem possam se identificar. Nem sempre são sensatos na escolha daqueles que imitam ou admiram. Mas o homem precisa de heróis para admirar; isso faz parte de sua constituição psíquica.
 
@@ -38,7 +38,7 @@ Grande quantidade de espólio capturado dos franceses estava armazenada num dep�
 
 Enquanto Cidade estava com a corda ao pescoço, um oficial de posto mais elevado chegou a cavalo e indagou sobre o assunto. Percebendo que uma injustiça havia sido cometida, ordenou que a sentinela condenada fosse libertada, e comutou a sentença de morte para expulsão imediata do exército.
 
-Advertido por seu encontro cercano com a morte, os pensamentos de João Cidade voltaram-se para dias mais felizes. A vida em Oropesa, afinal, não lhe parecia tão ruim. Ali tinha paz de espírito e de alma. Ali tinha uma família que o amava. No exército, João encontrara a desonra. Em sua desonra, encontrara de novo a paz com Deus.
+Advertido por seu encontro próximo com a morte, os pensamentos de João Cidade voltaram-se para dias mais felizes. A vida em Oropesa, afinal, não lhe parecia tão ruim. Ali tinha paz de espírito e de alma. Ali tinha uma família que o amava. No exército, João encontrara a desonra. Em sua desonra, encontrara de novo a paz com Deus.
 
 Voltando a Oropesa, João foi recebido de volta por Mayoral, e por mais oito anos retomou seu trabalho como pastor. Estamos agora no ano de 1532, e Cidade tem trinta e oito anos. Carlos V estava prestes a partir numa cruzada contra os turcos, que haviam invadido a Europa até os portões de Viena.
 

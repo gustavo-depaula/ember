@@ -26,7 +26,7 @@ Em 25 de fevereiro houve um desenvolvimento inteiramente novo. Viram Bernadete m
 
 Mas a piada se tornou muito séria quando se descobriu, à tarde, que da cova enlameada jorrava uma corrente de água límpida. Bem depressa a fonte passou a verter cento e vinte e dois mil litros por dia, e assim continua até hoje.
 
-Pouco depois disso, Bernadete foi ao cônego Peyramale, deão de Lourdes, com uma mensagem de sua senhora. Fora-lhe dito que fosse aos sacerdotes e lhes dissesse que se construísse uma capela junto à gruta. A senhora dissera ainda: Que venham aqui procissões.' O sacerdote respondeu: Tens algum dinheiro para construir uma capela?' Não', disse ela. Nem eu tenho. Pede algum dinheiro à senhora.' Os sacerdotes não lhe deram nenhum estímulo. Nenhum deles havia ido até a gruta. É política da Igreja não reconhecer supostas visões ou milagres até que haja prova esmagadora de que são autênticos.
+Pouco depois disso, Bernadete foi a M. Peyramale, deão de Lourdes, com uma mensagem de sua senhora. Fora-lhe dito que fosse aos sacerdotes e lhes dissesse que se construísse uma capela junto à gruta. A senhora dissera ainda: Que venham aqui procissões.' O sacerdote respondeu: Tens algum dinheiro para construir uma capela?' Não', disse ela. Nem eu tenho. Pede algum dinheiro à senhora.' Os sacerdotes não lhe deram nenhum estímulo. Nenhum deles havia ido até a gruta. É política da Igreja não reconhecer supostas visões ou milagres até que haja prova esmagadora de que são autênticos.
 
 Não demorou muito para que tal prova surgisse, mas foi só depois de vários anos que uma comissão de inquérito instituída pelo bispo finalmente declarou que os acontecimentos de Massabielle podiam ser aceitos como sobrenaturais.
 

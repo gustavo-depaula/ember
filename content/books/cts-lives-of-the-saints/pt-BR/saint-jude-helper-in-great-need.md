@@ -4,7 +4,7 @@ A devoção aos santos apóstolos deve ser cultivada, pois eles foram os primeir
 
 São Judas é chamado o padroeiro das causas perdidas e desesperadas, devido à ajuda singular que obteve para seus devotos em graves necessidades.
 
-Este santo Apóstolo tem o sobrenome "Tadeu" (que significa o amável, o afetuoso), o qual o distingue de Judas Iscariotes, o traidor. Além do Apóstolo Tiago Menor, Judas tinha outros dois irmãos, que, junto com ele, são chamados os "irmãos de Jesus", expressão que em hebraico designa um parentesco próximo. Seu pai era Cléofas, provavelmente irmão de São José. Por sua confissão destemida da ressurreição de Cristo, Cléofas foi morto pelos judeus, ganhando assim a coroa do martírio. A mãe de nosso Apóstolo era Maria de Cléofas, prima da Virgem Santíssima, que, com Maria, esteve junto à Cruz de Jesus no Calvário.
+Este santo Apóstolo tem o sobrenome "Tadeu" (que significa o amável, o afetuoso), o qual o distingue de Judas Iscariotes, o traidor. Além do Apóstolo Tiago Menor, Judas tinha outros dois irmãos, que, junto com ele, são chamados os "irmãos de Jesus", expressão que em hebraico designa um parentesco próximo. Seu pai era Cleofas, provavelmente irmão de São José. Por sua confissão destemida da ressurreição de Cristo, Cleofas foi morto pelos judeus, ganhando assim a coroa do martírio. A mãe de nosso Apóstolo era Maria de Cleofas, prima da Virgem Santíssima, que, com Maria, esteve junto à Cruz de Jesus no Calvário.
 
 Em sua infância, Judas e seus irmãos devem ter sido companheiros próximos de Jesus. Não se faz nenhuma menção à ocupação de Judas antes de seu chamado ao apostolado, mas podemos supor que fosse agricultor, pois pertencia à tribo de Judá, dedicada à agricultura.
 
@@ -18,7 +18,7 @@ Depois de estabelecer firmemente a Igreja em Edessa, São Judas visitou toda a M
 
 Antes da chegada dos dois Apóstolos, as leis e os costumes dos persas eram injustos e perversos. O vínculo matrimonial era totalmente desrespeitado; os mortos eram lançados aos campos para se tornarem alimento de feras selvagens, e outras barbáries prevaleciam. Ensinados pelos Apóstolos os sentimentos nobres e generosos da verdadeira religião, esse povo logo se tornou admiração dos outros cristãos. A barbárie foi substituída pela mansidão, a crueldade pela caridade cristã, a impiedade pela perfeição evangélica.
 
-Na Pérsia, os dois Apóstolos foram continuamente contrariados em sua obra por dois magos chamados Zaroes e Arfaxat. Por sua arte e seus encantamentos, esses magos tentavam sustentar o culto aos ídolos. A cada passo confrontavam os Apóstolos e os denunciavam como impostores, mas os dois santos invariavelmente expunham seus truques e impostações. Na presença dos dois santos Apóstolos, os ídolos se recusavam a responder a seus falsos sacerdotes. Quando os Apóstolos, em nome de Deus, lhes ordenavam que falassem, eram forçados a reconhecer os santos como discípulos do Deus verdadeiro. Os santos então ordenavam aos demônios que habitavam os ídolos que os deixassem, o que faziam, uivando de raiva e destruindo as imagens.
+Na Pérsia, os dois Apóstolos foram continuamente contrariados em sua obra por dois magos chamados Zaroes e Arfaxat. Por sua arte e seus encantamentos, esses magos tentavam sustentar o culto aos ídolos. A cada passo confrontavam os Apóstolos e os denunciavam como impostores, mas os dois santos invariavelmente expunham seus truques e imposturas. Na presença dos dois santos Apóstolos, os ídolos se recusavam a responder a seus falsos sacerdotes. Quando os Apóstolos, em nome de Deus, lhes ordenavam que falassem, eram forçados a reconhecer os santos como discípulos do Deus verdadeiro. Os santos então ordenavam aos demônios que habitavam os ídolos que os deixassem, o que faziam, uivando de raiva e destruindo as imagens.
 
 Os dois Apóstolos partiram para o acampamento de Verardach, comandante-chefe do exército persa, onde foram recebidos pelos mesmos magos, Zaroes e Arfaxat. Os persas então se preparavam para marchar contra um exército vindo da Índia, e Verardach estava ansioso por saber qual seria o resultado da guerra. "Sabemos que sois mais poderosos que nossos deuses", disse ele aos Apóstolos, "pois à vossa aproximação os ídolos caíram por terra. Depois de terminada a guerra, ouviremos de bom grado vossa doutrina. Dizei-nos qual será o resultado da guerra."
 
@@ -114,7 +114,7 @@ PREFÁCIO. É verdadeiramente digno e justo, correto e proveitoso para a salvaç
 
 COMUNHÃO. MT. 19. Vós que me seguistes, sentar-vos-eis sobre tronos, julgando as doze tribos de Israel, diz o Senhor.
 
-PÓSCOMUNHÃO. Tendo recebido teus Sacramentos, ó Senhor, humildemente te suplicamos que, pela intercessão de teu bem-aventurado Apóstolo Judas, o que fazemos em honra ao seu martírio nos sirva de remédio salutar. Por nosso Senhor...
+PÓS-COMUNHÃO. Tendo recebido teus Sacramentos, ó Senhor, humildemente te suplicamos que, pela intercessão de teu bem-aventurado Apóstolo Judas, o que fazemos em honra ao seu martírio nos sirva de remédio salutar. Por nosso Senhor...
 
 ## Oferecimento.
 

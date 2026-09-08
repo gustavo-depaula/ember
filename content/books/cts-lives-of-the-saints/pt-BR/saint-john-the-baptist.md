@@ -82,7 +82,7 @@ Jamais, sobre a cabeça de um bebê tão pequeno, foi posta responsabilidade tã
 
 Maria se apressa a voltar para sua própria casa, para seu esposo prometido, e para os acontecimentos que se precipitam rumo à Natividade. A partir daí, João simplesmente desaparece das páginas da história. Nenhuma vez, durante todos os anos que decorrem entre seu nascimento e o batismo de Cristo no Jordão, ele e o homem cuja causa haveria de anunciar entram em contato, sequer casual. O plano cruel do primeiro Herodes apressa a fuga do Menino para o Egito. No começo de sua juventude, João vai para o deserto, para assumir a vida eremítica que é sua preparação para o cargo divinamente confiado a ele. Quando Jesus volta a Nazaré, é para se recolher aos anos tranquilos e sem acontecimentos numa casa e oficina de carpinteiro. O jovem João já está forjando sua alma na arma de aço com que haveria de se armar, ganhando, pela penitência e pela oração, o direito de ser o primeiro a falar à humanidade do Deus que viera salvá-la.
 
-Assim, os encantadores quadros renascentistas que retratam a Sagrada Família reunida, o pequeno Jesus e o pequeno João brincando em juvenil companhia, são poesia deliciosa e péssima história. João viria mais tarde a confessar que não teria reconhecido Jesus, ao vê-lO pela primeira vez às margens do Jordão, se Deus não lhe tivesse enviado uma visão que apontasse ser Ele o Homem por quem esperava.
+Assim, os encantadores quadros renascentistas que retratam a Sagrada Família reunida, o pequeno Jesus e o pequeno João brincando em juvenil companhia, são poesia deliciosa e péssima história. João viria mais tarde a confessar que não teria reconhecido Jesus, ao vê-lo pela primeira vez às margens do Jordão, se Deus não lhe tivesse enviado uma visão que apontasse ser Ele o Homem por quem esperava.
 
 A vida oculta de Jesus no Egito e em Nazaré tem seu paralelo na vida oculta de João no deserto. Nada sabemos dele — até que, subitamente, ele surge, saindo do deserto a passos largos, homem feito, com senso de sua missão divina e uma mensagem que ressoa nos ouvidos encantados de um povo em expectativa.
 
@@ -90,7 +90,7 @@ O próprio homem deve ter capturado de imediato a imaginação do povo. Chega ve
 
 Imediatamente o povo pensa na profecia de Isaías. 'Eis', profetizara ele, séculos antes, 'que envio meu anjo diante da tua face, que preparará o caminho diante de ti. Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai as suas veredas.
 
-Uma voz! Era exatamente isso que João Batista pensava ser. Ele era a trombeta que soava alvorada sobre as cabeças de um povo sonolento. Era o homem cuja própria veste mostrava seu desprezo pela vida fácil e pelos costumes cômodos que haviam afundado o povo de Israel num torpor moral e numa contentamento apático com a religião parcial que era a sua. Foi um choque para seus nervos, com sua voz estridente e seu modo imperativo.
+Uma voz! Era exatamente isso que João Batista pensava ser. Ele era a trombeta que soava alvorada sobre as cabeças de um povo sonolento. Era o homem cuja própria veste mostrava seu desprezo pela vida fácil e pelos costumes cômodos que haviam afundado o povo de Israel num torpor moral e num contentamento apático com a religião parcial que era a sua. Foi um choque para seus nervos, com sua voz estridente e seu modo imperativo.
 
 'Fazei penitência', gritava, e sua voz sacudia toda a região. 'Porque está próximo o reino dos céus.
 

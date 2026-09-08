@@ -70,6 +70,20 @@ Mirror of Abstinence → Espelho de Abstinência; Vessel of Purity → Vaso de P
 - "a dead letter" → "letra morta" (existing Portuguese idiom with the same sense).
 - Period English idioms and turns of phrase throughout were translated by sense rather than literal equivalents.
 
+## Review Pass 1 Fixes (2026-09-08)
+
+A full 8-agent cross-language review pass checked all 75 chapters against en-US for completeness, diacritics, references, typos, and formatting. Genuine pt-BR-side defects found and fixed:
+
+- Missing/wrong diacritics: Tímido, seráfica, Inês, González, onipotência (gender), num contentamento (gender), da leviandade (gender/number), veneração, da vassalagem (gender), Vítor (footnote consistency).
+- Typos/non-Portuguese words: ruffiões→rufiões, cajolara→lisonjeara, cercano→próximo (Spanish), Cononicato→Canonicato, impostações→imposturas, os confortos (missing plural, ×2 chapters), vê-lO→vê-lo (malformed capitalization), nEle→nele (deity-pronoun capitalization, matching house convention of not specially capitalizing "ele"/"sua"), Priscilano→Prisciliano (×2, matching the correct spelling already used elsewhere in the same chapter), do do céu→do convívio do céu (dropped word).
+- Mistranslations reversing or distorting meaning: "amor por si mesmo" (inverted "so full of love" into self-love) → removed; "rebuffe" (untranslated English) → "rejeição"; "encroachavam" (untranslated English) → "se impunham"; "cansado e faminto de caminhar" ("footsore" mistranslated as hungry) → "com os pés doloridos e cansado"; "bisavó materna" (great-grandmother for "stepgrandmother") → "avó por afinidade"; "Arca da Bíblia" ("Armory of the Bible" mistranslated as Ark) → "Arsenal da Bíblia"; grammatical error "rei ou rainha alguns" → "nenhum rei ou rainha".
+- Factual/reference errors introduced in translation: St. John Bosco's Pinardi-shed blessing date "5 de abril" corrected to "12 de abril" (Easter 1846, matching en-US's "ia April" OCR garble resolved correctly); St. Benedict's "bispo de Canossa" corrected to "bispo de Canusa" (en-US source says Canusa/Canusium, a different place from Canossa); distance "dois mil quilômetros" (unconverted from "two thousand miles") corrected to "cerca de 3.200 quilômetros"; St. Pius X's Eucharistic Congress year realigned from "1897" back to "1879" to match the en-US source (translating literally rather than silently correcting a possible source error, per house style).
+- Unsupported addition: "cônego" (canon) title added to M. Peyramale in saint-bernadette.md, not present in the English source — removed.
+- Stray punctuation: a premature closing quote mark in the Perpetua and Felicitas martyrdom account, which cut off Perpetua's continuous first-person narrative mid-account — removed.
+- Formatting: PÓSCOMUNHÃO → PÓS-COMUNHÃO (missing hyphen, standard missal convention).
+
+Deliberately left as-is (debatable/cosmetic, not defects): several cases where pt-BR silently corrected an evident en-US OCR/typo on a proper name (e.g. Mansfield→Mansfeld, Salerno/Salorno, Monte Citone/Cetona, Sant'Elpidio) — these read as improvements over the English source rather than translation errors, and reverting them would reintroduce the English source's own defects. Minor internal-consistency notes (heading capitalization, occasional un-italicized Latin tag) were not chased down individually.
+
 ## Batch Addenda
 
 Full per-batch notes (including individual translators' lower-confidence renderings flagged for review) were consolidated into this journal from `.journal-addendum-1.md` through `.journal-addendum-8.md`, which are not shipped with the book.
