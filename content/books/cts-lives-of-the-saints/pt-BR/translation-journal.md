@@ -115,6 +115,10 @@ A third full 8-agent cross-language review pass (final verification) re-checked 
 - Internal name-consistency fixes (matching this journal's own established forms elsewhere in the book): "São Estanislau" → "Santo Estanislau" in the-life-of-saint-john-berchmans-s-j.md, matching the form already established for saint-stanislaus-kostka.md; "o novo Aloísio" → "o novo Luís Gonzaga" in saint-joseph-cafasso.md, matching the "Aloysius → Luís" convention used elsewhere in the same chapter and book; "Thomas Goldwell" → "Tomás Goldwell" in saint-cajetan-or-gaetano-confessor.md, matching the book's convention of translating secondary historical figures' common given names.
 - Minor style: "século quatro" → "século IV" (martin-of-tours), matching the ordinal-numeral convention used for centuries everywhere else in the corpus.
 
+## Review Pass 4 Prep — corpus-wide sweep (2026-09-08)
+
+Before launching pass 4's review agents, a direct grep sweep for "milhas", "Diocesan Censor", "Archbishop of", "Priscilano", and "Dom Alonso" across the whole pt-BR directory found 5 more unconverted "milhas" instances that pass 3's per-batch review had missed (saint-francis-xavier-s-j.md, saint-margaret-of-cortona.md ×2, saint-pius-v.md ×2) — converted to km. All other systemic-fix categories from pass 3 confirmed complete corpus-wide.
+
 ## Batch Addenda
 
 Full per-batch notes (including individual translators' lower-confidence renderings flagged for review) were consolidated into this journal from `.journal-addendum-1.md` through `.journal-addendum-8.md`, which are not shipped with the book.
