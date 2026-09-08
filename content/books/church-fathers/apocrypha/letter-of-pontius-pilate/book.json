@@ -1,13 +1,16 @@
 {
   "id": "apocrypha-letter-of-pontius-pilate",
   "name": {
-    "en-US": "Letter of Pontius Pilate (unknown date; late)"
+    "en-US": "Letter of Pontius Pilate (unknown date; late)",
+    "pt-BR": "Carta de Pôncio Pilatos (data desconhecida; tardia)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Letter of Pontius Pilate (unknown date; late)"
+        "en-US": "Letter of Pontius Pilate (unknown date; late)",
+        "pt-BR": "Carta de Pôncio Pilatos (data desconhecida; tardia)"
       }
     }
   ]
