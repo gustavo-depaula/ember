@@ -148,8 +148,8 @@ Tudo Somente por Deus:
 
 Nihil Obstat:
 
-BERNARD O'CONNOR, Diocesan Censor.
+BERNARD O'CONNOR, Censor Diocesano.
 
 Imprimatur:
 
-@ JUSTIN D. SIMONDS, Archbishop of Melbourne. 29th June, 1966,
+@ JUSTIN D. SIMONDS, Arcebispo de Melbourne. 29th June, 1966,

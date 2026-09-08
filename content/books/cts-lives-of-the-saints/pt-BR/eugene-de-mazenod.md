@@ -250,11 +250,11 @@ A morte veio a ele no dia 21 de maio de 1861. Ao chegar ao fim sua longa e fecun
 
 A minúscula semente de mostarda plantada na pobreza de Aix, em janeiro de 1816, cresceu até se tornar um grande Instituto na Igreja de Deus — um Instituto que não conhece fronteira ou limite, e se estende, literalmente, de Polo a Polo. O legado de Eugênio de Mazenod é grande, pois seus filhos foram, sob a Providência, escolhidos para "herdar a terra" como sua parte, e a Igreja, por seu lado, demonstrou sua aprovação ao proclamá-lo "Beato".
 
-Nihil Obstat: BERNARD O'CONNOR, Diocesan Censor
+Nihil Obstat: BERNARD O'CONNOR, Censor Diocesano
 
 Imprimatur:
 
 
 ## @ T. F. Little,
 
-Archbishop of Melbourne
+Arcebispo de Melbourne

@@ -168,12 +168,12 @@ Assim, aquela nobre mulher e brilhante estudiosa, Edith Stein, que sacrificara t
 
 Nihil Obstat:
 
-BERNARD O'CONNOR, Diocesan Censor,
+BERNARD O'CONNOR, Censor Diocesano,
 
 Imprimatur:
 
 @ Arthur F. Fox,
 
-Auxiliary Bishop.
+Bispo Auxiliar.
 
 Melbourne, 22/6/1967.

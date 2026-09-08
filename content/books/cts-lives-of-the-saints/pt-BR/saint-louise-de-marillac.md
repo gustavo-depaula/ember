@@ -260,7 +260,7 @@ Desde então, aproximadamente cem australianas completaram ali seus doze meses d
 
 Nihil Obstat:
 
-Bernard O'Connor Diocesan Censor
+Bernard O'Connor Censor Diocesano
 
 Imprimatur:
 

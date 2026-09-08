@@ -262,8 +262,8 @@ Este acontecimento, relatado em detalhes, deveria nos assegurar amplamente de qu
 
 Nihil Obstat:
 
-BERNARD O'CONNOR, Diocesan Censor
+BERNARD O'CONNOR, Censor Diocesano
 
 Imprimatur:
 
-@ T. F. LITTLE, Archbishop of Melbourne.
+@ T. F. LITTLE, Arcebispo de Melbourne.

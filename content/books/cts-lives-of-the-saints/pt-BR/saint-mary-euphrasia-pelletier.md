@@ -107,6 +107,6 @@ Imprimatur:
 
 Archiepiscopus, Melbournensis.
 
-Diocesan Censor: PERCY JONES
+Censor Diocesano: PERCY JONES
 
 7 de setembro de 1958

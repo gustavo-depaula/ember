@@ -245,7 +245,7 @@ Regional.
 
 Nihil Obstat:
 
-BERNARD O'CONNOR, Diocesan Censor.
+BERNARD O'CONNOR, Censor Diocesano.
 
 Imprimatur:
 

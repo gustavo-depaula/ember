@@ -72,7 +72,7 @@ Quando era necessária alguma correção, ele a aplicava com tal delicadeza que 
 
 À sua igreja paroquial — hoje chamada Igreja Velha de Chelsea — foi um benfeitor constante, doando generosamente vasos sagrados, vestes, etc. Construiu, para si e para sua família, a capela que hoje forma a nave sul. Considerava uma honra, mesmo sendo Lorde Chanceler, servir a Missa ou vestir um sobrepeliz e cantar no coro. Certa vez, o Duque de Norfolk, vindo jantar com ele, o encontrou assim ocupado e o repreendeu: "Corpo de Deus, meu Senhor Chanceler! Como! Um sacristão, um sacristão! Desonrais o rei e seu cargo!" "Não," respondeu Sir Tomás, sorrindo, "Vossa Graça não deve pensar que o rei, vosso senhor e o meu, se ofenderá comigo por servir a Deus, seu Senhor, ou por considerar por isso seu cargo desonrado."
 
-Nas procissões dos Dias das Rogações, que percorriam várias milhas pelo campo, Moro carregava a cruz, e mesmo sendo Chanceler, recusava-se a cavalgar, seguindo seu Mestre (dizia ele) que andava a pé.
+Nas procissões dos Dias das Rogações, que percorriam vários quilômetros pelo campo, Moro carregava a cruz, e mesmo sendo Chanceler, recusava-se a cavalgar, seguindo seu Mestre (dizia ele) que andava a pé.
 
 Durante os dezesseis anos em que Roper viveu em sua casa, este atesta que nunca o viu irritado, sequer uma vez. Contudo, o próprio Roper era claramente, às vezes, difícil. Por um tempo, deixou-se impregnar de ideias luteranas, e concebeu uma aversão irracional pelo sogro. Longamente Moro raciocinou com ele, com paciência, mas em vão. Por fim, disse a Margarida que não discutiria mais, mas rezaria pelo marido dela. Muito em breve, Roper viu sua tolice e sua ignorância, e se tornou um dos mais fervorosos católicos.
 

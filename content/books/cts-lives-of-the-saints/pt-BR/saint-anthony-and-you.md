@@ -240,6 +240,6 @@ Imprimatur:
 
 @ Rt. Rev. George Casey
 
-Administrator, Archdiocese of Chicago
+Administrador, Arquidiocese de Chicago
 
 August 8, 1958

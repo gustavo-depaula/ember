@@ -170,7 +170,7 @@ Os três primeiros estão registrados em biografias do santo. Ocorreram no exter
 
 O Bispo do Suriname, na América do Sul, conta a história da esposa de um médico local que entrou em colapso dez dias depois do nascimento de seu bebê. Três de seus colegas foram chamados. Declararam o caso sem esperança. Quando a mulher já estava em agonia, uma amiga a tocou com uma relíquia do Irmão Gerardo. Imediatamente ela abriu os olhos e começou a se sentir melhor. Os médicos que verificaram a cura eram todos não católicos, e todos concordaram que ela estava além das possibilidades médicas.
 
-Numa aldeia a algumas milhas de Liège, na Bélgica, um bebê morreu sem batismo. A mãe, com o coração partido, recorreu ao Irmão Gerardo, prometendo que, se ele devolvesse a vida ao seu filho, lhe daria seu nome. Para o espanto do médico, o bebê começou a respirar. Foi batizado, e o pequeno Gerardo viveu para alegrar seus pais.
+Numa aldeia a alguns quilômetros de Liège, na Bélgica, um bebê morreu sem batismo. A mãe, com o coração partido, recorreu ao Irmão Gerardo, prometendo que, se ele devolvesse a vida ao seu filho, lhe daria seu nome. Para o espanto do médico, o bebê começou a respirar. Foi batizado, e o pequeno Gerardo viveu para alegrar seus pais.
 
 Havia um médico em Luxemburgo cujo filho de quatro anos não conseguia andar nem falar. O pai leu a vida do Irmão Gerardo. Impressionado pelas maravilhosas curas relatadas no livro, e ao mesmo tempo entristecido pela visão do pequeno aleijado a seu lado no chão, murmurou uma oração: Irmão Gerardo, mostra teu poder e cura meu filho.' No mesmo instante, a criança saltou e se lançou nos braços do pai, exclamando: Papai, papai.' A partir daquele momento, ficou tão animado e tão falante quanto qualquer outro menino de sua idade.
 
@@ -274,7 +274,7 @@ Nihil Obstat:
 
 ## Bernard O'Connor,
 
-Diocesan Censor. 23rd JUNE, 1964
+Censor Diocesano. 23rd JUNE, 1964
 
 Imprimi Potest:
 

@@ -214,7 +214,7 @@ Viena foi abalada em suas profundezas com a notícia da morte do santo. Uma dens
 
 Nihil Obstat:
 
-BERNARD O'CONNOR, Diocesan Censor.
+BERNARD O'CONNOR, Censor Diocesano.
 
 Imprimatur:
 

@@ -124,7 +124,7 @@ Pela paz santificada de vosso leito de morte, obtende-nos que possamos receber a
 
 Nihil obstat:
 
-BERNARD O'CONNOR, Diocesan Censor.
+BERNARD O'CONNOR, Censor Diocesano.
 
 Imprimatur:
 

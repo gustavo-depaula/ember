@@ -56,7 +56,7 @@ Jesus via claramente seus pensamentos, mas dignou-se ajudar Simão, pois Simão 
 
 Uma pergunta curiosa, sem dúvida, a um magnata dos negócios, misturando comércio e amor.
 
-Simão foi cauteloso em sua resposta. "Suponho que aquele a quem mais perdoou." Jesus imediatamente o corrigiu: "Julgaste bem."
+Simão foi cauteloso em sua resposta. "Suponho que aquele a quem mais perdoou." Jesus imediatamente lhe respondeu: "Julgaste bem."
 
 Jesus tinha três coisas a fazer. Primeiro, precisava mostrar a Simão o quanto falhara como anfitrião, mas devia fazê-lo com bondade. Precisava restituir a pecadora diante dEle, sem deixar dúvida na mente de ninguém de que sabia que tipo de mulher ela era. Em terceiro lugar, precisava defender Sua própria honra sem pecado. Como fez as três coisas com tanta beleza!
 

@@ -142,8 +142,8 @@ Certamente, muitíssimas pessoas, religiosas e leigas, travam uma boa batalha, c
 
 Nihil Obstat:
 
-BERNARD O'CONNOR, Diocesan Censor.
+BERNARD O'CONNOR, Censor Diocesano.
 
 Imprimatur:
 
-@ JUSTIN D. SIMONDS, Archbishop of Melbourne. 30-9-65
+@ JUSTIN D. SIMONDS, Arcebispo de Melbourne. 30-9-65
