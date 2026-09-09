@@ -1,13 +1,16 @@
 {
   "id": "justin-martyr-martyrdom-of-justin-chariton-and-other-roman-martyrs",
   "name": {
-    "en-US": "Martyrdom of Justin, Chariton, and other Roman Martyrs"
+    "en-US": "Martyrdom of Justin, Chariton, and other Roman Martyrs",
+    "pt-BR": "Martírio de Justino, Caritão e outros mártires romanos"
   },
   "author": {
-    "en-US": "Justin Martyr"
+    "en-US": "Justin Martyr",
+    "pt-BR": "Justino Mártir"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Martyrdom of Justin, Chariton, and other Roman Martyrs"
+        "en-US": "Martyrdom of Justin, Chariton, and other Roman Martyrs",
+        "pt-BR": "Martírio de Justino, Caritão e outros mártires romanos"
       }
     }
   ]
