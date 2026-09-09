@@ -21,7 +21,7 @@ Target: pt-BR
 
 All personal names (Praesens, Claudianus, Speratus, Nartzalus, Cittinus, Donata, Secunda, Vestia, Saturninus, Veturius, Felix, Aquilinus, Laetantius, Januaria, Generosa) are kept in their Latin form, unadapted — **deliberately not** given the `-us`→`-o` Portuguese ending used for some names in the sibling text `church-fathers/polycarp/martyrdom/pt-BR` (e.g. Germanicus→Germânico, Statius Quadratus→Estácio Quadrato). Verified against the Portuguese Wikipedia article "Mártires Scillitan" and two independent Portuguese-language martyrologies (circulodeculturabiblica.org, mercaba.org's Spanish equivalent for cross-check): every established Portuguese-language source on this specific text keeps all twelve names in unadapted Latin form, including Saturninus and Felix. Followed that precedent rather than the Polycarp text's convention, since this is a per-text choice the corpus makes on a name-by-name / source-by-source basis (see the Polycarp journal's own mix of adapted and kept-as-is names).
 
-Only orthographic change applied: the æ ligature in "Lætantius" is expanded to "ae" ("Laetantius"), matching how "Cæsar"/"Praesens" are written elsewhere without the ligature character.
+Only orthographic change applied: the æ ligature is expanded to "ae" in both names that carry it in the source — "Præsens" → "Praesens" and "Lætantius" → "Laetantius" — matching how "Cæsar" is written without the ligature elsewhere in this corpus (`church-fathers/polycarp/martyrdom/pt-BR`).
 
 ## Address (tu vs. vós)
 
@@ -41,3 +41,10 @@ Preserved with the same book/chapter/verse as the English source, book names loc
 - "return to a sound mind" (l. 5) rendered "voltardes à sã razão" rather than a literal "voltardes a uma mente sã" — idiomatic Portuguese collocation, same meaning.
 - The italicized Scripture quotation ("*whom no man has seen...*") keeps the source's italics, matching how other church-fathers pt-BR files render inline Scripture quotations.
 - No footnotes in the source (this file has none to drop or keep).
+
+## Review Log
+
+- **Round 1 (2 parallel readings — structural/completeness, semantic fidelity): one real defect found and fixed, one documentation nit fixed.**
+  - Fixed: l. 7 "because we pay heed to our Emperor" had been rendered "porque obedecemos ao nosso Imperador" ("because we obey our Emperor") — a stronger claim than the source. "Pay heed to" asserts civic respect, not submission; the scene's whole point is that the martyrs grant Cæsar honor but refuse his religious commands (ll. 13, 17, 21), so "we obey" one line before repeated on-record refusals undercuts the text's own logic. Fixed to "porque honramos o nosso Imperador" — "honramos" also deliberately echoes Donata's later "Honra a César como César" (l. 25), the same honor/obedience distinction Romans 13:7 draws.
+  - Fixed (documentation only, no text change): the "Proper Names" section's ligature note said only "Lætantius" was ligature-expanded, when the file does the same to "Præsens" — the file itself was already correct, only the journal's own description of it was incomplete.
+  - Considered and not changed: l. 9 "welfare" → "prosperidade" narrows toward "prosperity" rather than general well-being; judged a minor nuance, not a meaning-reversing error.
