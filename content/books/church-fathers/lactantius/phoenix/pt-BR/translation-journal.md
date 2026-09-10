@@ -83,13 +83,13 @@ Pass 3 above claims it "fixed a quoting-style inconsistency." It did not: the fi
 - 738 straight quote marks vs 14 curly-open / 14 curly-close — straight dominates *by volume*.
 - But by file: **20 files straight-only, 6 files curly-only, 5 files with no quote marks at all (20 + 6 + 5 = 31), and 0 files that mix the two styles internally.**
 
-Zero mixed files is the signal. The corpus convention that actually holds is **be internally consistent within a file**; the character itself splits per file, and curly-only is a real, established cluster (`gregory-thaumaturgus/all-the-saints`, `gregory-thaumaturgus/matthew-6`, `hippolytus/against-plato`, `hippolytus/apostles-and-the-disciples`, `origen/africanus-to-origen`, and now this file). So `“viva”` is a defensible choice and must not be "fixed."
+Zero mixed files is the signal. The corpus convention that actually holds is **be internally consistent within a file**; the character itself splits per file, and curly-only is a real, established cluster (`gregory-thaumaturgus/all-the-saints`, `gregory-thaumaturgus/matthew-6`, `hippolytus/against-plato-on-the-cause-of-the-universe`, `hippolytus/apostles-and-the-disciples`, `origen/africanus-to-origen`, and now this file). So `“viva”` is a defensible choice and must not be "fixed."
 
 **Do not flip this character again in either direction.** Measuring two straight-only files (as the `docs/journal.md` entry for `ignatius/martyrdom` and `polycarp/martyrdom` did) samples one cluster and reads as a corpus-wide rule it cannot support — that is how a single quote mark gets flipped back and forth across review rounds. Recorded closed by name, per the standing lesson that a candidate re-derived this many times should be retired from future rounds.
 
 ### Correction — `book.json` field order: the right verdict from the wrong exemplars
 
-Review Pass 3 above, and this round's structure reviewer, both checked this book's `book.json` field order against `kempis-imitation-of-christ` (and `augustine-confessions`) and pronounced it conformant. The verdict is correct but the citation is exactly backwards, and a future reviewer who opens those files to spot-check will find a mismatch and may wrongly flag this book.
+Two checks pronounced this book's `book.json` field order conformant by citing exemplars: Review Pass 3 above cited `kempis-imitation-of-christ`, and this round's structure reviewer cited `kempis-imitation-of-christ` and `augustine-confessions`. The verdict is correct but the citation is exactly backwards, and a future reviewer who opens those files to spot-check will find a mismatch and may wrongly flag this book.
 
 Measured across all 548 `book.json` files in `content/books/`:
 
