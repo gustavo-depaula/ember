@@ -51,7 +51,7 @@ Target: pt-BR
 
 ## Review Pass 3 (2026-09-10)
 
-- Verified `book.json` structure (field names, order, TOC shape) matches the established convention used by other bilingual books (e.g. `kempis-imitation-of-christ`); confirmed it is valid JSON.
+- Verified `book.json` structure (field names, order, TOC shape) matches the established convention used by other bilingual books (e.g. `kempis-imitation-of-christ`); confirmed it is valid JSON. **(The verdict holds but the citation is backwards — `kempis-imitation-of-christ` is one of only three corpus-wide outliers on field order. See the `book.json` correction at the end of this file.)**
 - Fixed a quoting-style inconsistency: the en-US source uses curly/smart quotes for the fountain's name ("living"), but the pt-BR file used straight quotes ("viva"). Changed to curly quotes ("viva") to match.
 - No further issues found.
 
@@ -71,7 +71,7 @@ Target: pt-BR
 
 Run after PR #438 merged. Three independent reviewers on separate lenses (completeness/structure; pt-BR mechanics; semantic fidelity), none primed with the pre-merge findings and all instructed to treat this journal's claims as unverified.
 
-- Completeness/structure: clean. Sentence alignment re-walked independently (67 = 67), heading and attribution line match 1:1, single-paragraph structure intact, `book.json` shape re-checked against `kempis-imitation-of-christ` and `augustine-confessions`.
+- Completeness/structure: clean. Sentence alignment re-walked independently (67 = 67), heading and attribution line match 1:1, single-paragraph structure intact, `book.json` valid and carrying pt-BR in `languages`, `name`, `author`, and the TOC title. (This round's reviewer also compared field order against `kempis-imitation-of-christ` and `augustine-confessions` — see the correction below for why those are the wrong exemplars.)
 - Semantic fidelity: clean. No mistranslation, no numeral/measure drift, no mythological confusion, no theological drift, no untranslated leftovers.
 - **One real defect found and fixed — pronoun concord with a mixed-gender coordinated antecedent.** The clause listing what the bird encloses — "todos os restos do próprio corpo, e os ossos ou cinzas, e as relíquias de si mesma" — is mixed gender (`os restos` m., `os ossos` m., `cinzas` f., `as relíquias` f.), and the en-US source resumes the whole list with a single collective "it"/"this" ("brings **it** into a round form… carrying **this** with her feet… draws **it** forth"). The pt-BR used feminine plural clitics (`as molda`, `levando-as`, `as deposita`), which agree only with the nearest item, `as relíquias`, narrowing the referent and dropping the rest of the list from the action. Standard concord for a pronoun resuming mixed-gender coordinated nouns is masculine plural. Fixed to `os molda`, `levando-os`, `os deposita`.
 - **Reported and rejected: the `“viva”` curly quotes are not a defect, and the Pass 3 entry above mis-describes what it did.** See the correction below; Pass 3's premise was wrong even though its result is acceptable.
@@ -86,3 +86,14 @@ Pass 3 above claims it "fixed a quoting-style inconsistency." It did not: the fi
 Zero mixed files is the signal. The corpus convention that actually holds is **be internally consistent within a file**; the character itself splits per file, and curly-only is a real, established cluster (`gregory-thaumaturgus/all-the-saints`, `gregory-thaumaturgus/matthew-6`, `hippolytus/against-plato`, `hippolytus/apostles-and-the-disciples`, `origen/africanus-to-origen`, and now this file). So `“viva”` is a defensible choice and must not be "fixed."
 
 **Do not flip this character again in either direction.** Measuring two straight-only files (as the `docs/journal.md` entry for `ignatius/martyrdom` and `polycarp/martyrdom` did) samples one cluster and reads as a corpus-wide rule it cannot support — that is how a single quote mark gets flipped back and forth across review rounds. Recorded closed by name, per the standing lesson that a candidate re-derived this many times should be retired from future rounds.
+
+### Correction — `book.json` field order: the right verdict from the wrong exemplars
+
+Review Pass 3 above, and this round's structure reviewer, both checked this book's `book.json` field order against `kempis-imitation-of-christ` (and `augustine-confessions`) and pronounced it conformant. The verdict is correct but the citation is exactly backwards, and a future reviewer who opens those files to spot-check will find a mismatch and may wrongly flag this book.
+
+Measured across all 548 `book.json` files in `content/books/`:
+
+- **545 put `author` before `languages`** — including all **420** under `church-fathers/`, unanimously. This book does the same (`id, name, author, languages, sources, toc`).
+- **Only 3 invert it** (`languages` before `author`, plus a `composed` field this book has no data for): `augustine-confessions`, `kempis-imitation-of-christ`, `sales-introduction-to-the-devout-life`.
+
+So two of the three corpus-wide outliers are precisely the books that were cited as "the established convention." This book conforms to the real one. **When checking a structural convention, measure all of `content/books/**/book.json` rather than opening one or two familiar books** — the same error as the quote-style claim above, in a different field.
