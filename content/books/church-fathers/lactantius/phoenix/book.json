@@ -1,13 +1,16 @@
 {
   "id": "lactantius-phoenix",
   "name": {
-    "en-US": "The Phoenix"
+    "en-US": "The Phoenix",
+    "pt-BR": "A Fênix"
   },
   "author": {
-    "en-US": "Lactantius"
+    "en-US": "Lactantius",
+    "pt-BR": "Lactâncio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Phoenix"
+        "en-US": "The Phoenix",
+        "pt-BR": "A Fênix"
       }
     }
   ]
