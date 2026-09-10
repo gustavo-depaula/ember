@@ -81,7 +81,7 @@ Run after PR #438 merged. Three independent reviewers on separate lenses (comple
 Pass 3 above claims it "fixed a quoting-style inconsistency." It did not: the file was internally consistent both before and after, and the change was a style swap, not a defect fix. A reviewer in this round re-flagged `“viva”` as a house-convention violation on the strength of a straight-quote count; the fuller measurement refutes both readings. Counting straight `"` vs curly `“ ”` across all 31 pt-BR chapter files under `content/books/church-fathers/` (journals excluded):
 
 - 738 straight quote marks vs 14 curly-open / 14 curly-close — straight dominates *by volume*.
-- But by file: **20 files straight-only, 6 files curly-only, and 0 files that mix the two styles internally.**
+- But by file: **20 files straight-only, 6 files curly-only, 5 files with no quote marks at all (20 + 6 + 5 = 31), and 0 files that mix the two styles internally.**
 
 Zero mixed files is the signal. The corpus convention that actually holds is **be internally consistent within a file**; the character itself splits per file, and curly-only is a real, established cluster (`gregory-thaumaturgus/all-the-saints`, `gregory-thaumaturgus/matthew-6`, `hippolytus/against-plato`, `hippolytus/apostles-and-the-disciples`, `origen/africanus-to-origen`, and now this file). So `“viva”` is a defensible choice and must not be "fixed."
 
