@@ -81,21 +81,3 @@ Santo Inácio foi geral da Sociedade durante quinze anos, três meses e nove dia
 Como seu último testamento, ditou certas santas máximas sobre a obrigação e as condições da obediência religiosa, que legou a seus irmãos da Sociedade. O santo, no dia anterior à sua morte, encarregou o Padre Polanco de pedir, no artigo da morte, a bênção de Sua Santidade para si, embora outros então não pensassem que estivesse tão próxima. Na manhã seguinte, tendo erguido os olhos e as mãos ao céu, e pronunciando, tanto com a língua quanto com o coração, o doce nome de Jesus, com o semblante sereno, entregou calmamente sua alma feliz nas mãos de seu Criador, no último dia de julho do ano de 1556, aos sessenta e cinco anos de idade, o trigésimo quinto depois de sua conversão, e o décimo sexto depois da confirmação da Sociedade. O povo o considerava santo, tanto vivo quanto depois de sua morte, e a opinião de sua santidade foi confirmada por muitos milagres. Viu sua Sociedade, em muito poucos anos, dividida em doze províncias, com mais de cem colégios, e espalhada por quase todo o mundo. Em 1626, contava com trinta e seis províncias, e nelas oitocentas casas, e quinze mil jesuítas, desde então muito aumentados. O corpo de Santo Inácio foi sepultado primeiro na pequena igreja dos jesuítas, dedicada em honra da Bem-Aventurada Virgem, em Roma. Quando o Cardeal Alexandre Farnésio construiu a majestosa igreja da casa professa chamada Il Gesù, foi ali transladado em 1587; e, em 1637, foi colocado sob o altar da capela que traz seu nome. Esta igreja é um dos mais magníficos exemplos de edificação no mundo, depois do Vaticano, e não é menos admirada pela elegância da arquitetura do que por suas riquezas, consistindo em custosos e belos ornamentos de ouro, prata, joias, pinturas requintadas, estátuas e talha, e grande profusão de fino mármore. Entre as muitas capelas que contém, as da Bem-Aventurada Virgem, dos Anjos, de Santo Abúndio e Santo Abundâncio, mártires, de São Francisco de Borja, e de Santo Inácio, são a admiração dos viajantes, especialmente a última, na qual jazem os restos do santo fundador, num rico relicário de prata sob o altar, exposto à vista. Os outros ricos ornamentos cintilantes deste lugar quase parecem perder seu brilho quando se descobre a estátua do santo. É algo maior que o natural, por estar erguida no alto. Seu brilhante ouro, prata e cintilantes diamantes, especialmente na coroa de glória sobre a cabeça, deslumbram os olhos. Na casa professa mostram-se os retratos de Santo Inácio e São Filipe Néri, feitos do natural. O quarto de Santo Inácio é agora uma capela, seu escritório outra, onde prelados, e às vezes papas, vêm celebrar missa na festa do santo. Foi beatificado por Paulo V em 1609, e canonizado por Gregório XV em 1622, embora a bula só tenha sido publicada no ano seguinte por Urbano VIII.
 
 O exemplo dos santos evidencia que desligar nossos afetos das coisas terrenas, e conversar muito no céu pela constante união de nossos corações com Deus, é o caminho breve para a perfeição cristã. Aqueles que se empregam na vida ativa devem aprender a arte de acompanhar todas as suas ações com uma viva atenção à presença divina, assim como nossos anjos da guarda são fiéis no desempenho de cada dever daquele ministério exterior que Deus lhes confiou, mas de modo a jamais interromper sua contemplação da Divindade, e suas incessantes homenagens de louvor e amor, que são o incessante emprego de seu estado feliz. Sem esta precaução, pela pressa de estudos áridos, e mesmo pelo desempenho do próprio sagrado ministério, o espírito de piedade e devoção se extingue no coração, e as funções mais sagradas facilmente se profanam.
-
-Notas:
-
-1. Atos ii.
-
-2. Atos xvi. 26.
-
-3. Exer. Espir. Máx. 2, 3.
-
-4. Ver sua edificante vida por Raderus e Sacchini.
-
-5. Bouhours, lib. iv.; Orlandin. Hist. Soc. lib. vii. c. 25.
-
-6. Orland. Hist. Soc. lib. xvi.
-
-7. Existente em Bartoli, lib. iv. p. 372.
-
-8. Lib. iv. n. 29, p. 355.

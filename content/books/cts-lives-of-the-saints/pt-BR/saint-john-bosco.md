@@ -2,7 +2,7 @@
 
 O acrobata dobrou-se de tanto rir. Um desafio era uma coisa, mas um desafio vindo de um adolescente atrevido, obviamente ainda verde, era demais. E tudo porque uma multidão de crianças preferia assistir ao seu espetáculo em vez de ir à igreja! Olhou para João, avaliou-o de novo e prontamente aceitou.
 
-Seriam quatro provas, e fixaram as apostas para a primeira. Para seu espanto, João o venceu na corrida e, dobrando as apostas, venceu de novo no salto. Ficou absolutamente furioso quando João conseguiu vencê-lo também na malabarismo, de modo que, numa aposta de tudo ou nada, pôs-se a subir num olmo.
+Seriam quatro provas, e fixaram as apostas para a primeira. Para seu espanto, João o venceu na corrida e, dobrando as apostas, venceu de novo no salto. Ficou absolutamente furioso quando João conseguiu vencê-lo também no malabarismo, de modo que, numa aposta de tudo ou nada, pôs-se a subir num olmo.
 
 Subiu e subiu até sentir a árvore ceder sob seu peso. Por fim chegou ao topo, e ficou óbvio para todos que era impossível subir mais alto. Recebeu uma tremenda salva de palmas.
 

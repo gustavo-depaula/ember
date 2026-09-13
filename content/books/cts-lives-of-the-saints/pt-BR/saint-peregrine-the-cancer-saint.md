@@ -36,17 +36,17 @@ Oração a São Peregrino
 
 Rezar um Pai Nosso, uma Ave Maria e um Glória com a invocação: São Peregrino, rogai por nós
 
-### Ladainha Em Honra De São Peregrino
+### Ladainha em honra de São Peregrino
 
-Senhor, *tende piedade de nós.*
-Cristo, *tende piedade de nós.*
-Senhor, *tende piedade de nós.*
-Cristo, *ouvi-nos.*
-Cristo, *ouvi-nos benignamente.*
-Deus, Pai do céu, *tende piedade de nós.*
-Deus Filho, Redentor do mundo, *tende piedade de nós.*
-Deus, Espírito Santo, *tende piedade de nós.*
-Santíssima Trindade, um só Deus, *tende piedade de nós.*
+Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
+Senhor, *tende piedade de nós.*  
+Cristo, *ouvi-nos.*  
+Cristo, *ouvi-nos benignamente.*  
+Deus, Pai do céu, *tende piedade de nós.*  
+Deus Filho, Redentor do mundo, *tende piedade de nós.*  
+Deus, Espírito Santo, *tende piedade de nós.*  
+Santíssima Trindade, um só Deus, *tende piedade de nós.*  
 Santa Maria, Mãe de Deus, *rogai por nós.*
 Mãe das Dores, etc.
 Saúde dos enfermos,
@@ -89,9 +89,9 @@ Amado Padroeiro da Espanha,
 
 Glória da Ordem dos Servos de Maria,
 
-Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, ó Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos benignamente, ó Senhor.*
-Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*
+Cordeiro de Deus, que tirais os pecados do mundo, *perdoai-nos, ó Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos benignamente, ó Senhor.*  
+Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*  
 V. Rogai por nós, ó glorioso São Peregrino,
 
 R. Para que sejamos feitos dignos das promessas de Cristo.
@@ -100,7 +100,7 @@ Oremos
 
 Ó Deus, sede propício e ouvi as orações que vos apresentamos em honra de São Peregrino, vosso amado servo. Que nós, que não confiamos em nossos próprios méritos, recebamos auxílio em nossas necessidades pela intercessão daquele cuja vida vos foi tão agradável. Por Cristo Nosso Senhor. Amém.
 
-Preparação Para Um Chamado A Um Doente
+Preparação para um chamado a um doente
 
 1. — Uma pequena mesa coberta com uma toalha branca e limpa.
 
@@ -114,11 +114,11 @@ Preparação Para Um Chamado A Um Doente
 
 (d) um pequeno recipiente com água potável limpa; (e) um pano de linho branco para uso do doente ao receber a Sagrada Comunhão.
 
-Orações Pelos Doentes
+Orações pelos doentes
 
 Deus onipotente e eterno, salvação eterna dos que creem em Vós, ouvi-nos em favor de vossos servos enfermos, pelos quais humildemente imploramos o auxílio de vossa misericórdia, para que, restituídos à saúde, vos rendam graças em vossa Igreja. Por Cristo Nosso Senhor. Amém.
 
-Ato De Resignação À Vontade De Deus
+Ato de resignação à vontade de Deus
 
 Meu Pai, não sei o que me acontecerá hoje. Só sei que nada me acontecerá que não tenha sido previsto por Vós e dirigido para o meu maior bem desde toda a eternidade. Isto me basta.
 
@@ -126,7 +126,7 @@ Adoro vossos santos, eternos e insondáveis desígnios. Submeto-me a eles de tod
 
 Em seu nome e por seus méritos infinitos, peço-vos paciência em meus sofrimentos e perfeita submissão a Vós, para que tudo o que quiserdes ou permitirdes que aconteça seja para vossa glória. Amém.
 
-Oração Por Uma Boa Morte
+Oração por uma boa morte
 
 Senhor, meu Criador e Redentor, aceito de todo o coração minha morte segundo vossa vontade e em espírito de adoração. Quero morrer como filho devoto da Igreja e entrar na eternidade com as melhores disposições de fé, de esperança, de
 

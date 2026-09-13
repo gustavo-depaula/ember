@@ -10,7 +10,7 @@ Em poucas páginas, o leitor deverá poder formar alguma ideia deste filho de S�
 
 Infelizmente, a existência tumultuada que levamos atrapalha a leitura de grandes volumes; somos arrastados por ocupações e interesses demais, e somos obrigados a aproveitar as mínimas frações de nosso tempo livre, que frequentemente usamos de modos bem diferentes da renovação de nossa vida espiritual.
 
-Muitas pessoas se queixaram a mim, de viva voz ou por escrito, de que não conseguiam ler meus livros: *Per la Storia*, *Fino alla Meta* e *Fatti Nuova*, por causa de seu custo, ou por falta de tempo.
+Muitas pessoas se queixaram a mim, de viva voz ou por escrito, de que não conseguiam ler meus livros: "Per la Storia", "Fino alla Meta" e "Fatti Nuova", por causa de seu custo, ou por falta de tempo.
 
 Creio que essas dificuldades foram eliminadas com a publicação deste pequeno volume, e espero que essas mesmas pessoas possam agora formar em sua mente um retrato adequado do Reverendo Padre Pio de Pietrelcina. Se, em consequência disso, sentirem o desejo de conhecer melhor este mensageiro de amor, que procurem, por todos os meios, ir até ele. Isso, é claro, pode ser impossível, por questão de saúde ou de dinheiro. Assim, o próximo melhor recurso é ler tudo o que já foi escrito sobre ele, de modo que se familiarizem com este homem de Deus que nos foi enviado neste momento crítico da história do mundo.
 

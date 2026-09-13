@@ -20,7 +20,7 @@
 
 A mãe do Padre Maximiliano Kolbe escreveu essa carta quando soube que seu filho fora martirizado pelos tiranos nazistas no campo de concentração de Auschwitz.
 
-Giulio Kolbe e Maria Dombrowska haviam constituído lar na pequena cidade de Zdunska-Wola, na parte da Polônia então sob a Rússia dos Czares. Isso foi lá por 1891, e Giulio e Maria tinham apenas uma fonte de renda: braços fortes e determinação para trabalhar.
+Giulio Kolbe e Maria Dobrowska haviam constituído lar na pequena cidade de Zdunska-Wola, na parte da Polônia então sob a Rússia dos Czares. Isso foi lá por 1891, e Giulio e Maria tinham apenas uma fonte de renda: braços fortes e determinação para trabalhar.
 
 Começaram alugando um grande cômodo que dividiram em dois por meio de uma cortina. Uma parte era para os dois teares, também alugados, com um pequeno canto para servir de cozinha; a outra metade continha sua cama, seu guarda-roupa e um pequeno altar sobre o qual havia um quadro da Virgem Negra de Czestochowa. Aquela família tinha uma segunda fonte de renda: uma grande fé no Senhor e uma terna devoção à Madona.
 

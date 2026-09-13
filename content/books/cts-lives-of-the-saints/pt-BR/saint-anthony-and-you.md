@@ -190,7 +190,7 @@ Santo Antônio sabia que haveria tais sinais e valores, e advertiu contra eles. 
 
 Quais são os seus valores, os seus padrões? O que você mais deseja para si e para seus filhos?
 
-Há algum tempo, um jovem católico escreveu a uma revista para adolescentes: "Que direito vocês têm de criticar os cantores de rock? Aposto que eles têm mais dinheiro do que vocês. Vocês só estão com inveja porque as garotas gostam mais deles do que de vocês." Essa jovem é, sem dúvida, uma boa católica, e de modo algum queremos insinuar que seja pecadora. Ela é apenas uma jovem porta-voz de nossa época que precisa da orientação do ensinamento de Santo Antônio para se orientar corretamente.
+Há algum tempo, uma jovem católica escreveu à 'Cordette' (uma revista literária para adolescentes publicada pelos Franciscanos Conventuais): "Que direito vocês têm de criticar os cantores de rock? Aposto que eles têm mais dinheiro do que vocês. Vocês só estão com inveja porque as garotas gostam mais deles do que de vocês." Essa jovem é, sem dúvida, uma boa católica, e de modo algum queremos insinuar que seja pecadora. Ela é apenas uma jovem porta-voz de nossa época que precisa da orientação do ensinamento de Santo Antônio para se orientar corretamente.
 
 Se estivermos em estado de graça, estamos no caminho certo; ainda assim, podemos estar bem longe do centro. Se nós, adultos, estivermos desequilibrando nossa civilização em favor da sensualidade e do materialismo, serão os jovens os primeiros a cair.
 

@@ -186,4 +186,4 @@ Imprimatur:
 
 ## @ Daniel Mannix,
 
-Arcebispo de Melbourne.
+Archiepiscopus Melbournensis.

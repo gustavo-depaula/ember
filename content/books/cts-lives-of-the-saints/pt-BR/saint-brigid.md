@@ -131,4 +131,4 @@ Imprimatur:
 
 ## @ Daniel Mannix,
 
-Arcebispo de Melbourne. 18 de outubro de 1960
+Archiepiscopus Melbournensis. 18 de outubro de 1960

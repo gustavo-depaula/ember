@@ -76,11 +76,11 @@ Elas se erguem como uma garantia ao mundo de nossa vida católica e de nossa ren
 
 Nihil obstat:
 
-J. DONOVAN, Censor Deputado
+J. DONOVAN, Censor Deputatus
 
 Imprimatur:
 
 
 ## @ D. Mannix,
 
-Arcebispo de Melbourne
+Archiepiscopus Melbournensis

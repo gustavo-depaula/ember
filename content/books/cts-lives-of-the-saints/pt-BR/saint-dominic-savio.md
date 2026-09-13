@@ -71,7 +71,7 @@ A honra de Domingos foi assim reivindicada, e o fato de não ter delatado seu ca
 
 ## O Colegial Apóstolo
 
-Aos doze anos, Domingos sentiu-se chamado ao sacerdócio. Seu pároco, por isso, aconselhou seu pai a procurar Dom Bosco em Turim. Dom Bosco prometeu entrevistar o menino em sua próxima visita a Murialdo, não longe de Mondônio, onde a família Sávio agora residia. O encontro do santo com o colegial deu-se no início de outubro de 1854, e o próprio Dom Bosco relata o que se passou naquela manhã.
+Aos doze anos, Domingos sentiu-se chamado ao sacerdócio. Seu pároco, por isso, aconselhou seu pai a procurar Dom Bosco em Turim. Dom Bosco prometeu entrevistar o menino em sua próxima visita a Murialdo, não longe de Mondonio, onde a família Sávio agora residia. O encontro do santo com o colegial deu-se no início de outubro de 1854, e o próprio Dom Bosco relata o que se passou naquela manhã.
 
 "Fiquei impressionado com sua expressão serena e sua conduta alegre, porém modesta. Senti de imediato a obra da Divina Graça em alguém tão jovem, e fiquei cheio de admiração. Entendemo-nos perfeitamente desde o primeiro instante. Conversamos por algum tempo e então Domingos perguntou:"
 
@@ -313,7 +313,7 @@ Os meninos, obedientes à voz de um amigo que amavam e respeitavam, correram a j
 
 ## O Amor De Domingos Pela Inglaterra
 
-Nos primeiros meses de 1857, a saúde debilitada de Domingos voltou a dar motivo de preocupação, e Dom Bosco julgou prudente mandar o menino para o campo, na esperança de que a mudança de ar pudesse ajudar a restaurar suas forças. Assim, em 1º de março daquele ano, Domingos deixava a escola de Dom Bosco para ir para sua casa em Mondônio, e sacerdote e discípulo se puseram à soleira para trocar algumas palavras de despedida.
+Nos primeiros meses de 1857, a saúde debilitada de Domingos voltou a dar motivo de preocupação, e Dom Bosco julgou prudente mandar o menino para o campo, na esperança de que a mudança de ar pudesse ajudar a restaurar suas forças. Assim, em 1º de março daquele ano, Domingos deixava a escola de Dom Bosco para ir para sua casa em Mondonio, e sacerdote e discípulo se puseram à soleira para trocar algumas palavras de despedida.
 
 "Por que", perguntou Dom Bosco, "estás relutante em nos deixar? Deverias estar feliz de ir para casa ver teus pais." "Eu queria, Padre, terminar meus dias aqui no Oratório."
 
@@ -325,7 +325,7 @@ Estendeu a mão a este grande sacerdote que, durante três anos em sua escola, o
 
 santidade.
 
-"Adeus, Padre. O senhor não terá mais este meu pobre corpo, então preciso levá-lo a Mondônio. Contudo, eu não teria
+"Adeus, Padre. O senhor não terá mais este meu pobre corpo, então preciso levá-lo a Mondonio. Contudo, eu não teria
 
 sido um fardo tão grande para o senhor por muito mais tempo; tudo já teria logo terminado. Mas seja feita a vontade de Deus! Se o senhor for a Roma, lembre-se
 
@@ -414,9 +414,9 @@ Após um breve repouso, abriu de novo os olhos e disse com um sorriso:
 
 Com as mãos unidas e ainda sorrindo, entregou sua jovem alma a Deus.
 
-Sepultaram-no no pequeno cemitério de Mondônio, numa sepultura comum. Era tudo o que um homem pobre podia fazer por seu filho. Mas o simples povo camponês o considerava mais um santuário do que um túmulo, pois o chamavam de seu "piccolo santo" (seu pequeno santo).
+Sepultaram-no no pequeno cemitério de Mondonio, numa sepultura comum. Era tudo o que um homem pobre podia fazer por seu filho. Mas o simples povo camponês o considerava mais um santuário do que um túmulo, pois o chamavam de seu "piccolo santo" (seu pequeno santo).
 
-A fama de sua santidade cresceu rapidamente, e a confiança em seu poder de intercessão diante de Deus tornou-se mundialmente conhecida. Seu túmulo em Mondônio logo se tornou um lugar de peregrinação, e muitos favores e curas extraordinárias de todo tipo foram obtidos por sua intercessão. Em 1914, sua Causa de Canonização foi formalmente introduzida em Roma, e seus restos mortais foram trasladados da humilde sepultura de Mondônio. Isso teve de ser feito à noite, pois os aldeões eram hostis a qualquer tentativa de lhes tirar seu "pequeno santo". Seus restos foram levados à grande Basílica de Maria Auxiliadora, em Turim, que hoje ladeia justamente o pátio onde ele brincava e realizava seu frutuoso apostolado. Ali repousa agora, não muito longe do santuário de seu grande e amado Pai espiritual, São João Bosco, que tão perfeitamente fez deste "bom material" uma "bela vestimenta para o Senhor".
+A fama de sua santidade cresceu rapidamente, e a confiança em seu poder de intercessão diante de Deus tornou-se mundialmente conhecida. Seu túmulo em Mondonio logo se tornou um lugar de peregrinação, e muitos favores e curas extraordinárias de todo tipo foram obtidos por sua intercessão. Em 1914, sua Causa de Canonização foi formalmente introduzida em Roma, e seus restos mortais foram trasladados da humilde sepultura de Mondonio. Isso teve de ser feito à noite, pois os aldeões eram hostis a qualquer tentativa de lhes tirar seu "pequeno santo". Seus restos foram levados à grande Basílica de Maria Auxiliadora, em Turim, que hoje ladeia justamente o pátio onde ele brincava e realizava seu frutuoso apostolado. Ali repousa agora, não muito longe do santuário de seu grande e amado Pai espiritual, São João Bosco, que tão perfeitamente fez deste "bom material" uma "bela vestimenta para o Senhor".
 
 Domingos Sávio foi declarado Venerável Servo de Deus por Pio XI em 9 de julho de 1933, e foi beatificado por nosso atual Santo Padre, Pio XII, em 5 de março deste Ano Santo de 1950. Foi um grande dia de triunfo para este colegial que se santificara na escola. Não houve nada de extraordinário em sua vida. Ele estabeleceu para si um ideal e o alcançou. Nunca antes a Glória de Bernini em São Pedro emoldurou a imagem de um menino tão jovem, quando dezenas de milhares de fiéis de quase todas as terras sob o sol o aclamaram como o Bem-Aventurado Servo de Deus.
 

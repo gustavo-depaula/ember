@@ -160,7 +160,7 @@ Fora uma cruz pesada. Contudo, o Padre Vicente não deixou que nenhum sentimento
 
 O encontro do Padre Pallotti com Pauline Jaricot é narrado em L'Album, publicação jornalística romana de 1850, num artigo do Padre Proia, antigo colega de classe do Padre Pallotti na Universidade Sapienza. Ele conta do entusiasmo deste último pela obra dela, e de suas ideias construtivas. O Padre Pallotti insistia particularmente em que Roma, em vez de Lyon, se tornasse o centro de uma organização mundial, tal como a então proposta sociedade. Pauline Jaricot também, como Vicente Pallotti e incontáveis outros, haveria de conhecer a dor da cruz, a preocupação e o sofrimento que recai sobre aqueles que seguem a Cristo com grande amor. O Cura d'Ars pôde dizer dela: "Conheço alguém que sabe como aceitar a Cruz, uma Cruz pesada, e como carregá-la com amor! É a Senhorita Jaricot."
 
-Em junho de 1839, o Padre Pallotti deu sinais de saúde seriamente debilitada. Foi orientado pelo Santo Padre a passar três meses de repouso e tranquilidade no mosteiro de Camaldoli, nas colinas de Alba. O Santo Padre chegou até a prometer visitá-lo lá — promessa que, para grande constrangimento do sacerdote, se cumpriu pouco depois, ao pé da letra!
+Em junho de 1839, o Padre Pallotti deu sinais de saúde seriamente debilitada. Foi orientado pelo Santo Padre a passar três meses de repouso e tranquilidade no mosteiro de Camaldoli, nas colinas Albanas. O Santo Padre chegou até a prometer visitá-lo lá — promessa que, para grande constrangimento do sacerdote, se cumpriu pouco depois, ao pé da letra!
 
 Era bem conhecido pelos monges de lá, e pelo povo daquelas regiões. Não demorou muito, dentro do mosteiro, para que o povo do campo soubesse de sua presença. Foi o fim de seu retiro temporário! Logo, um número crescente de pessoas o procurava para ajuda, conselho espiritual, e confissão. O tríplice propósito de sua visita ao mosteiro — renovação física e espiritual, e a preparação de uma exposição clara da natureza da SAC, para evitar mais mal-entendidos — rapidamente se desvanecia.
 
@@ -234,7 +234,7 @@ Por ocasião de um decreto relativo à santidade de Vicente Pallotti, em 24 de j
 
 Imprimi Potest:
 
-W. Silvester, S.A.C.
+## W. Silvester, S.A.C.
 
 Regional.
 
@@ -244,6 +244,6 @@ BERNARD O'CONNOR, Diocesan Censor.
 
 Imprimatur:
 
-@ Daniel Mannix,
+## @ Daniel Mannix,
 
 Archiepiscopus Melbournensis. 7 de janeiro de 1963.
