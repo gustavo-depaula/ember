@@ -47,14 +47,14 @@ Deus, Pai do céu, *tende piedade de nós.*
 Deus Filho, Redentor do mundo, *tende piedade de nós.*  
 Deus, Espírito Santo, *tende piedade de nós.*  
 Santíssima Trindade, um só Deus, *tende piedade de nós.*  
-Santa Maria, Mãe de Deus, *rogai por nós.*
-Mãe das Dores, etc.
-Saúde dos enfermos,
-Consoladora dos aflitos,
-Auxílio dos cristãos,
-São Peregrino,
-Convertido pelas orações de São Filipe,
-Aflito por um tumor canceroso,
+Santa Maria, Mãe de Deus, *rogai por nós.*  
+Mãe das Dores, etc.  
+Saúde dos enfermos,  
+Consoladora dos aflitos,  
+Auxílio dos cristãos,  
+São Peregrino,  
+Convertido pelas orações de São Filipe,  
+Aflito por um tumor canceroso,  
 Completamente curado pela mão estendida de Jesus Crucificado, que realizou muitos milagres em tua vida,
 
 Que multiplicou o alimento e a bebida,

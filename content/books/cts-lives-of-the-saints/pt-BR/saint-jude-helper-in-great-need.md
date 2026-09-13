@@ -160,18 +160,18 @@ Foi revelado a Santa Gertrudes que é fonte de grande alegria para os santos qua
 
 ### Ladainha De São Judas, Auxílio Nas Grandes Necessidades
 
-Senhor, *tende piedade de nós.*
-Cristo, *tende piedade de nós.*
-Senhor, *tende piedade de nós.*
-Cristo, *ouvi-nos.*
-Cristo, *ouvi-nos com benignidade.*
-Deus Pai do céu, *Tende piedade de nós*
-Deus Filho, Redentor do mundo, etc.
-Deus Espírito Santo,
-Santíssima Trindade, um só Deus,
-São Judas, parente de Jesus e Maria, *Rogai por nós*
-São Judas, que na terra fostes tido por digno de ver Jesus e Maria, e de gozar de sua companhia, etc.
-São Judas, elevado à dignidade de Apóstolo,
+Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
+Senhor, *tende piedade de nós.*  
+Cristo, *ouvi-nos.*  
+Cristo, *ouvi-nos com benignidade.*  
+Deus Pai do céu, *Tende piedade de nós*  
+Deus Filho, Redentor do mundo, etc.  
+Deus Espírito Santo,  
+Santíssima Trindade, um só Deus,  
+São Judas, parente de Jesus e Maria, *Rogai por nós*  
+São Judas, que na terra fostes tido por digno de ver Jesus e Maria, e de gozar de sua companhia, etc.  
+São Judas, elevado à dignidade de Apóstolo,  
 São Judas, honrado ao contemplar o Divino Mestre humilhar-Se a lavar vossos pés,
 
 São Judas, que na Última Ceia recebestes a Sagrada Eucaristia das mãos de Jesus, Rogai por nós São Judas, que, após a profunda dor que a morte de vosso amado Mestre vos causou, tivestes a consolação de
@@ -202,21 +202,21 @@ São Judas, auxílio dos desesperados, socorrei-me em minha aflição! (Três ve
 
 Para que, por vossa intercessão, tanto os sacerdotes como o povo da Igreja obtenham ardente zelo pela Fé de Jesus Cristo,
 
-*Nós vos suplicamos, ouvi-nos.*
-Para que defendais nosso Soberano Pontífice e obtenhais paz e unidade para a Santa Igreja, etc. Para que todos os pagãos e incrédulos se convertam à verdadeira Fé,
-Para que a fé, a esperança e a caridade cresçam em nossos corações,
+*Nós vos suplicamos, ouvi-nos.*  
+Para que defendais nosso Soberano Pontífice e obtenhais paz e unidade para a Santa Igreja, etc. Para que todos os pagãos e incrédulos se convertam à verdadeira Fé,  
+Para que a fé, a esperança e a caridade cresçam em nossos corações,  
 Para que sejamos livrados dos maus pensamentos e das armadilhas do demônio,
 
 Para que vos digneis auxiliar e proteger todos os que vos honram
 
 Para que nos preserveis de todo pecado e de toda ocasião de pecado,
 
-Para que nos defendais na hora da morte contra a fúria do demônio e de todos os espíritos maus, *Rogai por nós, para que, antes da morte, possamos expiar todos os nossos pecados por sincero arrependimento e pela digna recepção dos santos*
-sacramentos,
-*Rogai por nós, para que possamos aplacar a Divina Justiça e obter um julgamento favorável,*
-Rogai por nós, para que sejamos admitidos na companhia dos bem-aventurados, para nos alegrarmos na presença de nosso Deus para sempre. Cordeiro de Deus, que tirais os pecados do mundo,
-Cordeiro de Deus, que tirais os pecados do mundo,
-Cordeiro de Deus, que tirais os pecados do mundo,
+Para que nos defendais na hora da morte contra a fúria do demônio e de todos os espíritos maus, *Rogai por nós, para que, antes da morte, possamos expiar todos os nossos pecados por sincero arrependimento e pela digna recepção dos santos*  
+sacramentos,  
+*Rogai por nós, para que possamos aplacar a Divina Justiça e obter um julgamento favorável,*  
+Rogai por nós, para que sejamos admitidos na companhia dos bem-aventurados, para nos alegrarmos na presença de nosso Deus para sempre. Cordeiro de Deus, que tirais os pecados do mundo,  
+Cordeiro de Deus, que tirais os pecados do mundo,  
+Cordeiro de Deus, que tirais os pecados do mundo,  
 São Judas, *rogai por nós*
 
 E por todos os que invocam vosso auxílio.

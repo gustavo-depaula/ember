@@ -183,7 +183,7 @@ Rogai por nós!
 Não nos deixeis perecer!
 
 São Vito, São Norberto,
-Santo Segismundo, São Procópio,
+São Segismundo, São Procópio,
 Santo Adalberto, São João Nepomuceno,
 Santa Ludmila, São Venceslau,
 

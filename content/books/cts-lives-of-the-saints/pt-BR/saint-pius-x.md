@@ -162,7 +162,9 @@ No dia seguinte, depois da Missa, os Cardeais se reuniram, e começou a votaçã
 
 Os resultados dos três primeiros escrutínios foram os seguintes: 1º escrutínio: Rampolla, 24; Gotti, 17; Sarto, 5; outros votos, 16 — 62. 2º escrutínio: Rampolla, 29; Gotti, 16; Sarto, 10; outros votos, 7 — 62. 3º escrutínio: Rampolla, 29; Sarto, 21; Gotti, 9; outros votos, 3 — 62.
 
-Depois do segundo escrutínio, quando parecia provável que o Cardeal Rampolla fosse eleito, o Cardeal Puzyna se levantou e proferiu o veto do Imperador da Áustria contra a eleição do Cardeal Rampolla.
+Depois do segundo escrutínio, quando parecia provável que o Cardeal Rampolla fosse eleito, o Cardeal Puzyna se levantou e proferiu o veto do Imperador da Áustria contra a eleição do Cardeal Rampolla.*
+
+*Um dos primeiros atos de Pio X após sua eleição ao Papado foi abolir para sempre o direito de veto.
 
 Os Cardeais ficaram estupefatos diante dessa intolerável interferência do poder secular, com o resultado de que, longe de o veto produzir o efeito desejado, o quarto escrutínio mostrou que os votos do Cardeal Rampolla haviam aumentado para 30. Mas os votos do Cardeal Sarto também haviam aumentado, para 24. O humilde Cardeal não pôde mais suportar, e, com lágrimas nos olhos, implorou aos demais Cardeais que não pensassem nele, tão indigno dessa, a mais alta dignidade da terra.
 
