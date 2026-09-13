@@ -222,7 +222,7 @@ Possamos viver e morrer em teu amor.
 
 Cópias deste hino (letra do Rev. Kevin Maher, S.M., música do Rev. E. E. Kimbell, S.M.) podem ser obtidas gratuitamente mediante pedido ao Marist Messenger, Otaki, Nova Zelândia.
 
-O Corpo De Pedro Chanel Na Austrália
+O corpo de Pedro Chanel na Austrália
 
 Dando à Austrália uma ligação das mais íntimas com um santo canonizado. POR J. GORINSKI, S.M.
 

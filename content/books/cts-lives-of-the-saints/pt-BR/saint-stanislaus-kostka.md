@@ -124,7 +124,7 @@ Paulo Kostka exemplifica um tipo de jovem que se pode encontrar em qualquer épo
 
 Estanislau era a última pessoa no mundo a causar problemas, e, enquanto os desejos e as ordens de Paulo não interferissem em seu trabalho ou sua oração, estava disposto a atender a esses desejos. Quando Paulo insistiu em que ele aprendesse a dançar, Estanislau concordou em tomar lições, embora não gostasse de dançar.
 
-Embora Paulo tivesse ido longe demais demais na busca de diversão, não havia ninguém para refreá-lo. Quando as coisas saíam do controle, Bilinski tentava repreendê-lo, mas o tutor já perdera havia muito qualquer pouca autoridade que pudesse ter tido no início, e Paulo o ignorava. Bem pode ser que a busca de prazer de Paulo não envolvesse nada de muito grave, mas não há dúvida de que ele estava completamente fora de controle, e que, em vez de estar em posição de dar ordens, precisava de uma mão firme que o mantivesse em ordem. Embora percebesse que Paulo vivia perigosamente, Estanislau sabia que nada podia fazer a respeito, então guardou sua paz. Era triste que Paulo não pudesse tolerar a santidade tão próxima dele. Durante todo o período em que viveram na casa de Kimberker, ele zombara do modo de vida de seu irmão e encorajara seus companheiros a fazer o mesmo, mas foi apenas durante os últimos oito meses em Viena que parece ter recorrido à violência física.
+Embora Paulo tivesse ido longe demais na busca de diversão, não havia ninguém para refreá-lo. Quando as coisas saíam do controle, Bilinski tentava repreendê-lo, mas o tutor já perdera havia muito qualquer pouca autoridade que pudesse ter tido no início, e Paulo o ignorava. Bem pode ser que a busca de prazer de Paulo não envolvesse nada de muito grave, mas não há dúvida de que ele estava completamente fora de controle, e que, em vez de estar em posição de dar ordens, precisava de uma mão firme que o mantivesse em ordem. Embora percebesse que Paulo vivia perigosamente, Estanislau sabia que nada podia fazer a respeito, então guardou sua paz. Era triste que Paulo não pudesse tolerar a santidade tão próxima dele. Durante todo o período em que viveram na casa de Kimberker, ele zombara do modo de vida de seu irmão e encorajara seus companheiros a fazer o mesmo, mas foi apenas durante os últimos oito meses em Viena que parece ter recorrido à violência física.
 
 Paulo encontrava falha em Estanislau porque este não se vestia como ele. Ninguém no colégio, nem mestres nem meninos, notava nada de incomum na roupa de Estanislau, mas Paulo queria ser incomum. Paulo também se ressentia do fato de que seu irmão não usava luvas e não tinha um criado para carregar seus livros até o colégio a cada manhã. Estanislau considerava ridículo pedir a alguém que carregasse os livros que ele mesmo podia carregar com a mesma facilidade.
 
@@ -358,4 +358,4 @@ Imprimi Potest:
 
 Hiberniae Primas.
 
-Dublim: 4 de janeiro de 1965.
+Dublini: 4 Januarii, 1965.

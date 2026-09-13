@@ -140,7 +140,7 @@ Os venezianos não tardaram a perceber o tesouro que tinham em seu meio. Quando 
 
 Quando os venezianos viam a distinta figura desaparecer em algum casebre miserável, ou subir os degraus de pedra até algum sótão pobríssimo, diziam uns aos outros: "Ele nunca pensa em si mesmo; está se consumindo por nós." Era tão amado pelos rudes gondoleiros que sua aparição entre eles era saudada com gritos de alegria. "Aí vem o Patriarca dos gondoleiros!", exclamavam.
 
-O Congresso Eucarístico, realizado em Veneza no mês de agosto de 1897, deu ao Cardeal Sarto a oportunidade de honrar publicamente Nosso Senhor na Sagrada Eucaristia. Seu grande amor pelo Santíssimo Sacramento manifestou-se em seus esforços incansáveis para fazer do Congresso um grande sucesso, fomentando, no coração do povo, uma devoção fervorosa por seu Senhor Eucarístico.
+O Congresso Eucarístico, realizado em Veneza no mês de agosto de 1879, deu ao Cardeal Sarto a oportunidade de honrar publicamente Nosso Senhor na Sagrada Eucaristia. Seu grande amor pelo Santíssimo Sacramento manifestou-se em seus esforços incansáveis para fazer do Congresso um grande sucesso, fomentando, no coração do povo, uma devoção fervorosa por seu Senhor Eucarístico.
 
 O povo respondeu, e o Congresso foi o sinal de um derramamento sem paralelo de amor a Nosso Senhor no Santíssimo Sacramento. Nunca, nem mesmo nos dias de sua glória, Veneza havia testemunhado cenas de tal esplendor. Ao passar a procissão final do Santíssimo Sacramento, os homens pensaram jamais ter visto espetáculo tão maravilhoso. Jesus Cristo, cercado por Seus Cardeais, Bispos e sacerdotes, viera reinar entre o povo de Veneza: ajoelharam-se em humilde adoração, e o coração do Patriarca se encheu de gratidão ao ajoelhar-se com eles para adorar seu Senhor e Mestre.
 
@@ -162,7 +162,7 @@ No dia seguinte, depois da Missa, os Cardeais se reuniram, e começou a votaçã
 
 Os resultados dos três primeiros escrutínios foram os seguintes: 1º escrutínio: Rampolla, 24; Gotti, 17; Sarto, 5; outros votos, 16 — 62. 2º escrutínio: Rampolla, 29; Gotti, 16; Sarto, 10; outros votos, 7 — 62. 3º escrutínio: Rampolla, 29; Sarto, 21; Gotti, 9; outros votos, 3 — 62.
 
-Depois do segundo escrutínio, quando parecia provável que o Cardeal Rampolla fosse eleito, o Cardeal Puzyna se levantou e proferiu o veto do Imperador da Áustria contra a eleição do Cardeal Rampolla.\*
+Depois do segundo escrutínio, quando parecia provável que o Cardeal Rampolla fosse eleito, o Cardeal Puzyna se levantou e proferiu o veto do Imperador da Áustria contra a eleição do Cardeal Rampolla.
 
 Os Cardeais ficaram estupefatos diante dessa intolerável interferência do poder secular, com o resultado de que, longe de o veto produzir o efeito desejado, o quarto escrutínio mostrou que os votos do Cardeal Rampolla haviam aumentado para 30. Mas os votos do Cardeal Sarto também haviam aumentado, para 24. O humilde Cardeal não pôde mais suportar, e, com lágrimas nos olhos, implorou aos demais Cardeais que não pensassem nele, tão indigno dessa, a mais alta dignidade da terra.
 

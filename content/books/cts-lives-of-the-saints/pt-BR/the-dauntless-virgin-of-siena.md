@@ -74,6 +74,6 @@ F. Moynihan, Censor Deputatus.
 
 Imprimatur:
 
-@ D. Mannix,
+## @ D. Mannix,
 
 Archiepiscopus Melbournensis.

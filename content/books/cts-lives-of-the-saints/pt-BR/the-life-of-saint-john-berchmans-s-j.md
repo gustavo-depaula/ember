@@ -284,9 +284,9 @@ Uma Indulgência Plenária no dia da admissão à Sodalícia, e também na Festa
 
 Uma Indulgência Plenária em cada um dos cinco domingos que precedem a Festa de São João Berchmans, em memória dos cinco anos que ele passou na vida religiosa.
 
-Uma Indulgência de 100 dias cada vez que um Sodalício serve à Missa, ou faz uma genuflexão com a devida reverência na igreja, ou se comporta com religiosa modéstia nela.
+Uma Indulgência de 100 dias cada vez que um sodalista serve à Missa, ou faz uma genuflexão com a devida reverência na igreja, ou se comporta com religiosa modéstia nela.
 
-Uma indulgência de sete anos aos Sodalícios que recitarem as cinco orações em honra de São João Berchmans.
+Uma indulgência de sete anos aos sodalistas que recitarem as cinco orações em honra de São João Berchmans.
 
 Além disso, o Santo Padre concedeu que esta Sodalícia pudesse ser estabelecida em qualquer lugar, por qualquer sacerdote, secular ou religioso, com a aprovação do Ordinário.
 
