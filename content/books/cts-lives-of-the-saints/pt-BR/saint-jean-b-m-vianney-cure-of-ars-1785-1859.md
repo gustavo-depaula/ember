@@ -152,4 +152,4 @@ Imprimatur:
 
 @ D. Mannix,
 
-Arcebispo de Melbourne.
+Archiepiscopus Melbournensis.

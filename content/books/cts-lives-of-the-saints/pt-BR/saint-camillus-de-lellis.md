@@ -192,7 +192,7 @@ Por sete laboriosos e frutuosos anos, o fundador carregou o principal fardo; e, 
 'Irmão de Vossas Reverências em Cristo,
 
 
-## 'Camilo De Lelis.
+## Camilo De Lelis.
 
 'Roma, 14 de outubro de 1607.'
 

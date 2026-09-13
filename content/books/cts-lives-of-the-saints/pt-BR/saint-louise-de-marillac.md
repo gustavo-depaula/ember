@@ -266,4 +266,4 @@ Imprimatur:
 
 @ Daniel Mannix
 
-Arcebispo de Melbourne, 8 de setembro de 1960
+Archiepiscopus Melbournensis, 8 de setembro de 1960

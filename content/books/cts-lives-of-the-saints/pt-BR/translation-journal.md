@@ -3,6 +3,29 @@
 Source: en-US
 Target: pt-BR
 
+## Review Policy Decision (after review rounds 1–2)
+
+Across two full review passes, a large and recurring category of "issues" is foreign
+proper-name/place-name spelling that doesn't exactly match the en-US source — the
+translators evidently used their own knowledge to "correct" what are very often
+OCR artifacts or anglicizations in this 1950s–60s pamphlet series (e.g. Forli→Forlì,
+Treves→Trier, Sionnas→Sionnaz, Ottobuoni→Ottobuono, Kagoxima→Kagoshima, dozens more).
+Round 1 reverted a curated set of these to match source exactly. In round 2, the same
+category kept resurfacing at a volume disproportionate to its value as a genuine defect:
+most are single-diacritic or single-letter spelling variants that don't change who or
+what is being referred to, and several reviewers themselves flagged these as "for
+awareness only," not clear defects.
+
+**Decision:** from round 2 onward, pure spelling/diacritic variants of a proper name are
+no longer treated as defects requiring a fix, and are not chased chapter-by-chapter.
+What *is* still fixed: a "corrected" spelling that identifies a genuinely different
+person/place (e.g. "Lasano" → "Lázaro", conflating with a different Biblical name;
+"Pitchard" → "Pritchard", a different surname; "Crichton" → "prodígio", a proper name
+dropped entirely), any internal inconsistency within a single chapter, actual
+mistranslations that change meaning (units, numeric errors, reversed relationships),
+grammar/agreement errors, malformed non-Portuguese words, and the structural/formatting
+rules (Latin end-matter, footnote policy, heading structure, litany hard line breaks).
+
 ## Key Terms
 
 | English | Portuguese | Notes |
