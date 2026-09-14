@@ -1,13 +1,16 @@
 {
   "id": "ignatius-spurious-epistles",
   "name": {
-    "en-US": "The Spurious Epistles"
+    "en-US": "The Spurious Epistles",
+    "pt-BR": "As Cartas Espúrias"
   },
   "author": {
-    "en-US": "Ignatius of Antioch"
+    "en-US": "Ignatius of Antioch",
+    "pt-BR": "Inácio de Antioquia"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Spurious Epistles"
+        "en-US": "The Spurious Epistles",
+        "pt-BR": "As Cartas Espúrias"
       }
     }
   ]
