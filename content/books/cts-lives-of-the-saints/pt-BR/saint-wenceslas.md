@@ -13,49 +13,81 @@ Em nossos próprios dias, as Legiões Tchecas na Grande Guerra, lutando espontan
 Mas é o tributo anual, na Inglaterra, ao grande santo nacional da Boêmia, como patrono da caridade natalina, que mais popularmente une tchecos e ingleses. O canto de Natal *Good King Wenceslas* é cantado no tempo natalino por toda a Grã-Bretanha, onde sem dúvida serão bem-vindos mais detalhes sobre a vida e as boas obras do santo.
 
 *Na festa de Santo Estêvão,*
+
 *Quando a neve se estendia ao redor,*
+
 *Funda, crocante e uniforme,*
+
 *Brilhava claro a lua naquela noite,*
+
 *Embora a geada fosse cruel,*
+
 *Quando um pobre homem apareceu,*
+
 *Recolhendo lenha de inverno.*
 
 *"Vem cá, pajem! Fica junto a mim,*
+
 *Se souberes, dize-me,*
+
 *Aquele camponês ali, quem é?*
+
 *Onde e qual é sua morada?"*
 
 *"Senhor, ele vive uma boa légua daqui,*
+
 *Sob a montanha,*
+
 *Bem junto à cerca da floresta,*
+
 *Perto da fonte de Santa Inês."*
 
 *"Traze-me carne e traze-me vinho,*
+
 *Traze-me toras de pinho,*
+
 *Tu e eu o veremos jantar*
+
 *Quando as levarmos até lá."*
 
 *Pajem e Monarca saíram,*
+
 *Saíram juntos,*
+
 *Através do lamento selvagem do vento rude*
+
 *E do tempo amargo.*
 
 *"Senhor, a noite escurece agora,*
+
 *E o vento sopra mais forte;*
+
 *Falta-me o coração, não sei como,*
+
 *Não posso ir mais adiante."*
 
 *"Segue meus passos, meu bom pajem!*
+
 *Pisa neles com ousadia!*
+
 *Hás de achar o vento do inverno*
+
 *Congelar teu sangue menos friamente."*
+
 *Nos passos de seu senhor ele pisou,*
+
 *Onde a neve estava marcada,*
+
 *Havia calor no próprio solo*
+
 *Que o santo havia marcado.*
+
 *Portanto, homens cristãos, tende certeza,*
+
 *Riqueza ou posição possuindo,*
+
 *Vós que agora abençoais o pobre*
+
 *Encontrareis, vós mesmos, bênção.*
 
 MIL anos atrás, São Venceslau, governante dos tchecos, foi martirizado pela Fé cristã por seu irmão Boleslau, em Stará Boleslav, perto de Praga.
@@ -131,62 +163,89 @@ Quando o Papa Urbano VIII estendeu à Igreja universal as festas dos reis Hermen
 Uma comovente expressão do amor do povo tcheco por seu santo popular é o antigo cântico "*Svatý Václave*", cantado hoje com tanto fervor quanto na Idade Média. O autor das quatro primeiras estrofes foi provavelmente o bispo Bechyně, que as compôs por ocasião da invasão de Brandemburgo, em 1272. Mas o historiador jesuíta Padre Balbín as atribui ao bispo Ernesto de Pardubice, no século quatorze. Os próprios husitas calixtinos cantavam "*Svatý Václave*", e traziam sua imagem em seus escudos, com o cálice acima do estandarte, e as quatro primeiras linhas do cântico abaixo. Um destes escudos é conservado no Museu Nacional de Praga, e outro no Hermitage, em Petrogrado. O cântico sempre teve caráter tanto nacional quanto religioso. Na rebelião de 1848, contra o absolutismo dos Habsburgos, invocou-se a ajuda de São Venceslau para repelir e vencer a germanização.
 
 *São Venceslau,*
+
 *Duque da Boêmia, nosso Príncipe,*
+
 *Roga por nós a Deus,*
+
 *O Espírito Santo.*
 
 *Christe Eleison!*
 
 *Tu, herdeiro das terras tchecas,*
+
 *Lembra-te de tua raça,*
+
 *Não nos deixes perecer,*
+
 *Nem agora, nem no futuro!*
 
 *Santo Venceslau!*
+
 *Christe Eleison!*
 
 *Suplicamos teu auxílio,*
+
 *Tem piedade de nós!*
+
 *Conforta os tristes; afasta todo mal,*
+
 *Santo Venceslau!*
 
 *Christe Eleison!*
 
 *Belas são as cortes celestiais,*
+
 *Feliz aquele que ali entra*
+
 *Para a vida eterna, no fulgor radiante*
+
 *Do Espírito Santo.*
 
 *Christe Eleison!*
 
 *Maria, Mãe admirável,*
+
 *Tu, poderosa Rainha,*
+
 *Roga por nós, cristãos,*
+
 *A teu Filho, Nosso Senhor.*
 
 *Christe Eleison!*
 
 *Santos anjos celestiais,*
+
 *Conduzi-nos até vós,*
+
 *Onde os louvores*
+
 *Sobem sem cessar*
+
 *Ao Deus Eterno.*
 
 *Christe Eleison!*
 
 *Vós, todos os santos,*
+
 *Rogai por nós!*
+
 *Não nos deixeis perecer!*
 
 *São Vito, São Norberto,*
+
 *São Segismundo, São Procópio,*
+
 *Santo Adalberto, São João Nepomuceno,*
+
 *Santa Ludmila, São Venceslau,*
 
 *Christe Eleison!*
 
 *Glória a Deus Pai! Façamos o Sinal da Cruz! Em nome do Pai,*
+
 *E do Filho,*
+
 *E do Espírito Santo! Christe Eleison.*
 
 O bispo auxiliar de Praga, Tomás Pešina de Čechorod (1680), instituiu o costume de uma procissão do altar de São João Nepomuceno até a capela de São Venceslau, na Catedral de São Vito, após Vésperas e Bênção, aos domingos e dias de festa. Durante a procissão, o cântico acima é entoado pelo Cabido Metropolitano, e retomado pelos fiéis, que se unem de coração na homenagem a seu santo predileto.

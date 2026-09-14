@@ -58,7 +58,7 @@ Enquanto isso, a residência dos Papas em Avignon e a corrupção do clero tinha
 
 Admitida à presença do Papa, intercedeu primeiro pela cidade de Florença; depois, com toda a veemência de uma natureza apaixonada, exortou Gregório a lançar fora sua ociosidade e seu luxo, a ser um homem, e a fazer o que sabia ser seu dever. Apontou-lhe a corrupção dos cardeais, dizendo-lhes bem na cara que suas vidas viciosas eram uma vergonha para a humanidade, e certamente trariam a ira de Deus sobre o mundo. Toda a corte papal ficou pasma diante das palavras ousadas desta espantosa mulher. Um oficial perguntou, insultuosamente: "Não puderam os florentinos encontrar um homem para enviar, em vez de uma mísera mulherzinha como a senhora?" Os cardeais suplicaram ao Papa que se livrasse dela, e até ameaçaram sua vida, mas, para Catarina, pouco importava se sofresse a morte, contanto que levasse a vitória à causa de Deus. Pois, embora pudesse condenar a fraqueza humana do Papa, considerava seu ofício o mais santificado sobre a terra.
 
-Por dias, então, compareceu diante do tímido Gregório, cada vez o instando com mais vigor a cessar de desonrar seu nobre ofício. "Sede um homem, Santo Padre. Levantai-vos! Digo-vos que nada tendes a temer. Se não cumprirdes vosso dever, então, sim, tereis motivo para temer. Sabeis que deveis vir a Roma — então sede um homem, e vinde; e, se alguém tentar deter-vos, voltai-vos para ele e dizei, como disse Nosso Senhor, 'Vade retro, Satanás.'"
+Por dias, então, compareceu diante do tímido Gregório, cada vez o instando com mais vigor a cessar de desonrar seu nobre ofício. "Sede um homem, Santo Padre. Levantai-vos! Digo-vos que nada tendes a temer. Se não cumprirdes vosso dever, então, sim, tereis motivo para temer. Sabeis que deveis vir a Roma — então sede um homem, e vinde; e, se alguém tentar deter-vos, voltai-vos para ele e dizei, como disse Nosso Senhor, 'Retira-te, Satanás.'"
 
 Tão profunda impressão suas palavras causaram em Gregório que ele resolveu obedecer a seu comando e voltar a Roma. Além disso, com a alma inflamada pela energia sobrenatural de Catarina, ignorou as súplicas dos cardeais, ignorou até seu próprio pai idoso, que, ajoelhado, implorou que permanecesse em Avignon. Enquanto isso, os cardeais apelaram ao rei da França para que interviesse. O rei Luís se apressou até a corte papal para lidar pessoalmente com esta mulher incômoda, mas, já em seu primeiro encontro, não só foi convencido por seu modo de pensar, como até persuadido a liderar uma cruzada contra os infiéis. Em 17 de janeiro de 1377, o Papa Gregório XI fez sua entrada triunfal em Roma, e o cativeiro babilônico terminou.
 
@@ -74,6 +74,6 @@ F. MOYNIHAN, Censor Deputatus.
 
 *Imprimatur:*
 
-@ D. Mannix,
+## @ D. Mannix,
 
 Arcebispo de Melbourne.

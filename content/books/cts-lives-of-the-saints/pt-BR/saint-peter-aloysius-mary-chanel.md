@@ -233,6 +233,6 @@ D. P. MURPHY, Censor Deputatus.
 
 *Imprimatur:*
 
-@ D. Mannix,
+## @ D. Mannix,
 
 Arcebispo de Melbourne. 9 de agosto de 1954.

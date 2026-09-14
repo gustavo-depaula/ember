@@ -534,3 +534,63 @@ genuínos (Deus, Cristo, Maria, Igreja, nomes de santos, lugares, ordens
 religiosas, termos devocionais consagrados como "Sagrado Coração" e
 "Santíssimo Sacramento") são capitalizados. Corrigidos ~90 cabeçalhos em 23
 arquivos para seguir essa convenção; o corpo do texto não foi alterado.
+
+---
+
+## Rodada 1 de revisão — correções aplicadas
+
+Executada uma auditoria completa (15 agentes paralelos, 5 capítulos cada) via
+skill `review-book-translation`, comparando cada capítulo en-US ↔ pt-BR.
+Correções aplicadas ao pt-BR (a maioria das discrepâncias encontradas eram,
+na verdade, erros de OCR/digitação pré-existentes no en-US que o pt-BR já
+havia corrigido silenciosamente — essas foram deixadas como estão):
+
+- Blocos de encerramento "Nihil Obstat/Imprimatur" traduzidos onde haviam
+  sido deixados em inglês (saint-john-of-god, saint-vincent-strambi-c-p,
+  the-adventurous-nun); marcador `##` restaurado onde fora perdido
+  (the-dauntless-virgin-of-siena, saint-peter-aloysius-mary-chanel).
+- Erros de concordância de gênero: "os eruditos efervescências" →
+  "as eruditas efervescências" (saint-edmund-campion); "na erguimento" →
+  "no erguimento" (saint-cataldus); "na malabarismo" → "no malabarismo"
+  (saint-john-bosco).
+- Formas verbais malformadas: "Fomo-nos" → "Fomos" (saint-edmund-campion);
+  "farieis" → "faríeis" (saint-thomas-more).
+- Nomes próprios alterados sem base textual, revertidos ao original:
+  Sacerdos (não "Sacerdote", saint-gregory-nazianzen-b-c); Lasano (não
+  "Lázaro", saint-ignatius-of-loyola); Ralph Emerson (não "Rodolfo
+  Emerson", para consistência com outros leigos não canonizados no mesmo
+  capítulo — saint-edmund-campion); Dragone (não "Dragão", saint-cataldus);
+  Valence (não "Valença", saint-louise-de-marillac); Columcille (não
+  "Columba", 4 ocorrências, saint-brigid — nome específico do autor,
+  distinto de Columba).
+- Anglicismos/estrangeirismos indevidos: "enshrinados" → "entronizados"
+  (saint-cataldus); "tokens" → "sinais" (saint-joseph); "Fabrízio" (híbrido
+  ítalo-português) → "Fabrício" (saint-philip-neri).
+- Erro de digitação óbvio: "conforto materiais" → "confortos materiais"
+  (saint-john-of-god); "que que" duplicado (saint-louis-ix);
+  "salvagueardeis" → "salvaguardeis" (the-mothers-saint).
+- Nome próprio mal grafado: "Cottrel" → "Cotterel", o Abade (saint-louis-ix).
+- Data incorreta: "14 de abril de 1846" → "12 de abril de 1846" (Domingo de
+  Páscoa de 1846 caiu em 12 de abril, não 14 — saint-john-bosco).
+- Conteúdo inserido sem base no original, corrigido: "Vade retro, Satanás"
+  (citação latina de devoção diferente) → tradução direta "Retira-te,
+  Satanás" (the-dauntless-virgin-of-siena); pequeno acréscimo "sem
+  esperança de cura" removido (the-mothers-saint).
+- Citação do autor (Moorman, *Sources for the Life of St Francis*, p. 56)
+  restaurada após ter sido omitida na tradução (saint-francis-of-assisi);
+  "Tomás de Split" revertido para "Tomás de Spalato", forma usada pelo
+  original (mesma pessoa, saint-francis-of-assisi).
+- Citação latina corrompida: "Ó clemens, ó pia, ó dulcis Maria" → "O
+  clemens, O pia, O dulcis Maria" (o "Ó" acentuado quebrava o latim —
+  saint-bernard-abbot-of-clairvaux).
+- Formatação de verso: o poema "Good King Wenceslas" e o cântico "Svatý
+  Václave" estavam com as linhas separadas por quebra de linha simples
+  (que o Markdown funde num só parágrafo); adicionada linha em branco
+  entre cada verso, igualando o padrão já usado no en-US
+  (saint-wenceslas).
+- Erro de concordância de gênero no próprio título: "e suas companheiras"
+  → "e seus companheiros" (o grupo de mártires inclui homens — Revocato,
+  Saturnino, Secundulo; corrigido tanto no corpo do arquivo quanto no
+  `book.json`) — the-martyrdom-of-saint-perpetua-and-felicitas-with-their-companions.
+
+Build verificado com `pnpm build:corpus` — sem avisos para este livro.

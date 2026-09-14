@@ -2,7 +2,7 @@
 
 O acrobata dobrou-se de tanto rir. Um desafio era uma coisa, mas um desafio de um adolescente atrevido, obviamente ainda um tanto verde, era demais. E tudo porque um bando de garotos preferia assistir a seu espetáculo em vez de ir à igreja! Ele olhou para João, mediu-o de novo com os olhos e prontamente aceitou.
 
-Haveria quatro disputas, e fixaram as apostas para a primeira. Para seu espanto, João o venceu na corrida e, depois de dobrarem as apostas, venceu de novo no salto. Ficou absolutamente furioso quando João conseguiu vencê-lo na malabarismo, então, numa aposta de tudo ou nada, pôs-se a escalar o olmo.
+Haveria quatro disputas, e fixaram as apostas para a primeira. Para seu espanto, João o venceu na corrida e, depois de dobrarem as apostas, venceu de novo no salto. Ficou absolutamente furioso quando João conseguiu vencê-lo no malabarismo, então, numa aposta de tudo ou nada, pôs-se a escalar o olmo.
 
 Subiu e subiu, até começar a sentir a árvore se curvar sob seu peso. Finalmente chegou ao topo, e ficou evidente para todos que era impossível subir mais alto. Recebeu uma tremenda salva de palmas.
 
@@ -80,7 +80,7 @@ Em sua maior parte, o clero também via sua obra com suspeita. Alguns até pensa
 
 Os santos, como os profetas, costumam passar despercebidos em seu próprio tempo e país. A santidade cotidiana frequentemente passa despercebida; às vezes é confundida com loucura. Mas, apesar de toda a mágoa e desapontamento, Dom Bosco e seus meninos continuaram sua existência nômade, o pequeno sacerdote escondendo seu sofrimento e se juntando a seus esportes e jogos. Eles, por sua vez, gostavam de assistir a seus serviços e devoções religiosas, muitas vezes ao ar livre. Não havia nenhuma imposição nisso; eles o conheciam e o amavam como sacerdote que irradiava o amor de Deus, e espontaneamente aceitavam seu convite a louvar a Deus como algo que lhes cabia fazer juntos.
 
-Mas Deus não se deixaria superar em generosidade. Por fim os recompensou com um lar próprio — um galpão de madeira com telhado com goteiras, tão próximo do chão que tiveram de escavar uns sessenta centímetros e fazer um novo piso. Mas no Domingo de Páscoa (14 de abril) de 1846, Dom Bosco abençoou o galpão, que agora se tornara sua capela. Sua obra cresceu e se desenvolveu em torno desse local, e dali se espalhou para os cantos mais distantes do globo.
+Mas Deus não se deixaria superar em generosidade. Por fim os recompensou com um lar próprio — um galpão de madeira com telhado com goteiras, tão próximo do chão que tiveram de escavar uns sessenta centímetros e fazer um novo piso. Mas no Domingo de Páscoa (12 de abril) de 1846, Dom Bosco abençoou o galpão, que agora se tornara sua capela. Sua obra cresceu e se desenvolveu em torno desse local, e dali se espalhou para os cantos mais distantes do globo.
 
 Mal encontrara uma base segura, redobrou seus esforços. Organizou aulas noturnas, para que os que trabalhavam o dia todo pudessem ter oportunidade de aprender. Resolveu seu problema de pessoal recrutando alguns de seus meninos mais promissores como professores-alunos, sob sua orientação, e também persuadindo alguns amigos da cidade a dar uma mão. Continuou com suas aulas de catecismo e, ao descobrir que não havia um livro de história bíblica adequado, prontamente escreveu um ele mesmo.
 

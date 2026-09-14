@@ -129,5 +129,5 @@ Imprimatur:
 
 ## @ D. Mannix,
 
-Archiepiscopus Melbournensis. 1st March, 1949.
+Archiepiscopus Melbournensis. 1º de março de 1949.
 </content>

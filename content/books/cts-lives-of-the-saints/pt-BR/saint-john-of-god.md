@@ -2,7 +2,7 @@
 
 Uma das maiores opressões que afligem o homem hoje é o materialismo. O homem é mais do que mero ser material, ele tem um espírito, uma alma, e isso o eleva a um plano onde o mero materialismo, desprovido dos nobres ideais da religião, o rebaixa a nada além do nível do animal.
 
-O homem busca algo mais elevado do que a "boa vida", pois seu espírito precisa ser saciado para torná-lo um ser plenamente integrado. Muitos aprenderam, para sua tristeza, que os conforto materiais não os satisfazem plenamente, e muitas vezes provocam um vazio em suas vidas que ansiadamente pede para ser preenchido.
+O homem busca algo mais elevado do que a "boa vida", pois seu espírito precisa ser saciado para torná-lo um ser plenamente integrado. Muitos aprenderam, para sua tristeza, que os confortos materiais não os satisfazem plenamente, e muitas vezes provocam um vazio em suas vidas que ansiadamente pede para ser preenchido.
 
 Os jovens, sobretudo, costumam buscar heróis com quem possam se identificar. Nem sempre são sábios na escolha de quem imitam ou admiram. Mas o homem precisa de heróis para admirar; isso faz parte de sua constituição psíquica.
 
@@ -188,11 +188,11 @@ Nihil Obstat:
 
 Bernard O'Connor,
 
-Diocesan Censor
+Censor Diocesano
 
 Imprimatur:
 
-@ James R. Cardinal Knox
+## @ James R. Cardinal Knox,
 
-Archbishop of Melbourne 1st July, 1973
+Arcebispo de Melbourne. 1º de julho de 1973.
 </content>

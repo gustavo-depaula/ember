@@ -43,7 +43,7 @@ Pode-se contar outra anedota, ilustrativa de suas alegres provocações à espos
 
 "Que fareis, vós que não quereis vos pôr em evidência como fazem os outros? Ficareis sentado junto ao fogo, fazendo gansinhos nas cinzas com um graveto, como fazem as crianças?"
 
-"E que farieis vós, eu vos pergunto?", replicou o marido.
+"E que faríeis vós, eu vos pergunto?", replicou o marido.
 
 "Por Deus, seguiria adiante com os primeiros; pois, como minha mãe costumava dizer — Deus tenha piedade de sua alma —, é sempre melhor governar do que ser governado. E, portanto, por Deus, eu vos garanto que não seria tão tola a ponto de me deixar governar quando pudesse governar."
 
