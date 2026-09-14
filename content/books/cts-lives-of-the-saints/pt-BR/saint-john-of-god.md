@@ -192,7 +192,6 @@ Censor Diocesano
 
 Imprimatur:
 
-## @ James R. Cardinal Knox,
+@ James R. Cardinal Knox,
 
 Arcebispo de Melbourne. 1º de julho de 1973.
-</content>

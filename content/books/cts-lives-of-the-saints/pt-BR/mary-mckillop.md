@@ -44,7 +44,7 @@ Os dois primeiros parágrafos das Constituições das Irmãs de São José do Sa
 
 A avaliação do fim primário, a medida de seu sucesso, está além de nosso cálculo. O fim secundário, porém, o êxito da obra das Irmãs, se estende como um magnífico mosaico diante dos olhos de todos. Durante os mais de 40 anos de liderança ativa da Madre Maria, ela fundou 160 casas josefinas, incluindo 12 lares para órfãos e desabrigados, e 117 escolas com 12.000 crianças. Em sua morte, a família que fundara em Cristo somava 1.000 Irmãs; um recorde provavelmente sem igual na história das congregações religiosas.
 
-Atualizar esse registro com qualquer precisão é impossível, pela simples razão de que os números mudam quase mês a mês. Há mais de dois mil e quinhentas Irmãs, algo em torno de 100.000 e tantas crianças em suas escolas; orfanatos, maternidades, casas para crianças enjeitadas, albergues para trabalhadoras e imigrantes, missões motorizadas, cursos por correspondência... onde quer que haja necessidade, sobretudo daqueles a quem Cristo Nosso Senhor chamou de Seus pequeninos, ali se encontrará hoje uma Irmã de São José.
+Atualizar esse registro com qualquer precisão é impossível, pela simples razão de que os números mudam quase mês a mês. Há mais de duas mil e quinhentas Irmãs, algo em torno de 100.000 e tantas crianças em suas escolas; orfanatos, maternidades, casas para crianças enjeitadas, albergues para trabalhadoras e imigrantes, missões motorizadas, cursos por correspondência... onde quer que haja necessidade, sobretudo daqueles a quem Cristo Nosso Senhor chamou de Seus pequeninos, ali se encontrará hoje uma Irmã de São José.
 
 É interessante especular que influência a Sra. Caroline Chisholm teve sobre a vocação de Mary McKillop. Depois de seu retorno da Inglaterra em 1854, a Sra. Chisholm passou cerca de três anos em Melbourne, e era visita frequente na casa dos McKillop, em Darebin, que era um centro de Missa para os católicos da região.
 
@@ -66,7 +66,7 @@ Há indícios em sua vida de que fora impressionada pela necessidade de cuidar d
 
 O trabalho que as Irmãs de São José fazem hoje pelos imigrantes, não só pelos milhares de crianças imigrantes em suas escolas urbanas, mas também nos albergues e centros de acolhimento, deve estar muito na linha dos sonhos de sua Fundadora.
 
-O sucesso de sua obra, a vitória sobre o preconceito e o mal-entendido, não trouxe fim ao sofrimento da Madre Maria, tão bem chamada "da Cruz". Os últimos anos de sua vida foram passados numa cadeira de rodas, fisicamente incapacitada pelo que hoje seria diagnosticado como um derrame. É medida da notável importância da obra que iniciara, e do reconhecimento que teve até mesmo do governo secular, o fato de que os Ferrocarris da Nova Zelândia colocaram um trem especial à sua disposição em sua última visita às casas naquele domínio.
+O sucesso de sua obra, a vitória sobre o preconceito e o mal-entendido, não trouxe fim ao sofrimento da Madre Maria, tão bem chamada "da Cruz". Os últimos anos de sua vida foram passados numa cadeira de rodas, fisicamente incapacitada pelo que hoje seria diagnosticado como um derrame. É medida da notável importância da obra que iniciara, e do reconhecimento que teve até mesmo do governo secular, o fato de que as Ferrovias da Nova Zelândia colocaram um trem especial à sua disposição em sua última visita às casas naquele domínio.
 
 O fim veio em 8 de agosto de 1909. Suavemente a Morte se aproximou de seu leito como a inimiga amada. Inimiga, porque a morte é a incessante inimiga de tudo o que vive; inimiga, porque a morte a afastaria do cuidado diário de suas Irmãs. Amada, porque a morte significava para ela o encontro duradouro com o Cristo que conhecera havia tanto tempo, e amara todos os dias de sua vida.
 
@@ -74,7 +74,9 @@ No Ano Santo de 1925, a Superiora Geral das Irmãs de São José, a Madre Lawren
 
 "Foi", disse a Madre Lawrence, "sua paz... uma paz profunda, quase infinita, que vinha de bem lá dentro. Ah, ela sofria muito, ficava muito cansada; conheceu decepções e preocupações em abundância. Mesmo nos dias de sucesso, todo correio trazia o pequeno tormento de uma decisão a tomar, toda visita trazia problemas grandes ou pequenos; mas a paz estava sempre presente. Sim, é isso que mais recordo: sua paz; a paz que nunca a deixava..."
 
-Quase exatamente 50 anos antes, a própria Madre Maria estivera em Roma. À medida que os dias e semanas de espera se prolongavam, ela caminhava nos passos dos milhões de peregrinos cristãos que Roma conhecera desde os dias dos apóstolos Pedro e Paulo. Havia para ela uma atração particular, pois eram esses os lugares — as igrejas, as ruas, os monumentos e os santuários — que haviam vivido tão vividamente em sua imaginação, desde os dias em que a pequena Mary McKillop, de olhos arregalados, ouvira encantada as histórias do pai sobre seus tempos de estudante no Colégio Escocês, na Via Quattro Fontane. Ao menos uma vez, tomou o pequeno caminho que serpenteia até o Capitólio, vindo do Fórum, para visitar a pequena capela erguida sobre o Cárcere Mamertino, cujas masmorras sombrias haviam sido o último endereço de tantos dos mais notáveis inimigos de Roma. Sob a capela fica a cela que um milênio e meio de tradição cristã designa como o lugar onde São Pedro escreveu sua Segunda Epístola, pouco antes de seu martírio. Naquele bolor sombrio que, mesmo hoje, é a impressão predominante daquele árido cárcere, ela teria ouvido o eco das palavras do velho:
+Quase exatamente 50 anos antes, a própria Madre Maria estivera em Roma. À medida que os dias e semanas de espera se prolongavam, ela caminhava nos passos dos milhões de peregrinos cristãos que Roma conhecera desde os dias dos apóstolos Pedro e Paulo. Havia para ela uma atração particular, pois eram esses os lugares — as igrejas, as ruas, os monumentos e os santuários — que haviam vivido tão vividamente em sua imaginação, desde os dias em que a pequena Mary McKillop, de olhos arregalados, ouvira encantada as histórias do pai sobre seus tempos de estudante no Colégio Escocês, na Via Quattro Fontane.*
+
+*Ver "Australia — The Catholic Chapter", do Rev. James G. Murtagh: "The Lady and the Legend".* Ao menos uma vez, tomou o pequeno caminho que serpenteia até o Capitólio, vindo do Fórum, para visitar a pequena capela erguida sobre o Cárcere Mamertino, cujas masmorras sombrias haviam sido o último endereço de tantos dos mais notáveis inimigos de Roma. Sob a capela fica a cela que um milênio e meio de tradição cristã designa como o lugar onde São Pedro escreveu sua Segunda Epístola, pouco antes de seu martírio. Naquele bolor sombrio que, mesmo hoje, é a impressão predominante daquele árido cárcere, ela teria ouvido o eco das palavras do velho:
 
 "Certo de que a deposição do meu tabernáculo está próxima, como também Nosso Senhor Jesus Cristo mo significou.
 
@@ -110,7 +112,7 @@ Os australianos têm orgulho da Madre Maria da Cruz, todos os australianos. Mas 
 
 São um extraordinário retrato transversal do povo australiano: jovens homens e jovens mulheres, avós e bisavós; maridos e esposas, filhos e filhas, os pobres e os nem tão pobres. Alguns encontraram nas Irmãs das casas para enjeitados e nos orfanatos substitutas amorosas para as mães e os pais que nunca chegariam a conhecer. Outros vieram até as Irmãs como pequenos desordeiros desalinhados dos cortiços das cidades, ou como potrinhos tímidos vindos das ervas do interior. Para milhares deles, a primeira visão real do que poderiam aprender, das oportunidades que a vida lhes reservava, veio da voz gentil, da dedicação firme de uma freira de hábito castanho. Acima de tudo, aprenderam a fazer de Cristo Nosso Senhor parte de suas vidas, a traduzi-Lo das orações aprendidas à beira da cama para um significado que perduraria por todos os seus anos na terra.
 
-Um retrato transversal, são eles: encanadores e carpinteiros e bispos e leiteiros; professores e gari e políticos e médicos e advogados; donos de bar e sacerdotes e enfermeiras e missionários e atores e cantores... tantas vocações, tantas maneiras de servir a Deus. E todas essas vocações devem algo, pouco ou muito mesmo, à obra iniciada pela Madre Mary McKillop.
+Um retrato transversal, são eles: encanadores e carpinteiros e bispos e leiteiros; professores e garis e políticos e médicos e advogados; donos de bar e sacerdotes e enfermeiras e missionários e atores e cantores... tantas vocações, tantas maneiras de servir a Deus. E todas essas vocações devem algo, pouco ou muito mesmo, à obra iniciada pela Madre Mary McKillop.
 
 Têm orgulho da Madre Maria; orgulho, e também confiança. Confiança de que a obra que ela iniciou prosseguirá, sejam quais forem as dificuldades presentes ou os temores pelo futuro. Confiança, também, de que nessas terras do Cruzeiro do Sul, nas quais, e por meio do amor às quais, tão eloquentemente ela exprimiu seu amor a Deus, seu nome será sempre uma bênção, sua memória, uma paz duradoura.
 
@@ -142,9 +144,8 @@ Tudo Somente por Deus:
 
 Nihil Obstat:
 
-BERNARD O'CONNOR. Diocesan Censor.
+BERNARD O'CONNOR. Censor Diocesano.
 
 Imprimatur:
 
-@ JUSTIN D. SIMONDS, Archbishop of Melbourne. 29th June, 1966,
-</content>
+@ JUSTIN D. SIMONDS, Arcebispo de Melbourne. 29 de junho de 1966.

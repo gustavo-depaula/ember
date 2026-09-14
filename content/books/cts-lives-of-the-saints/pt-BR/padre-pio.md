@@ -101,7 +101,7 @@ O arcipreste, não acreditando em Padre Pio, escreveu ao Padre Agostino, e a res
 
 Muitas coisas desse tipo lhe aconteceram, e a outros também, mas seria longo demais relatá-las todas. A graça mais notável, porém, que recebeu de Deus Todo-Poderoso foi a dos Estigmas.
 
-Padre Pio recebeu primeiro os Estigmas invisíveis em Pietrelcina em 20 de setembro de 1915, e os visíveis em San Giovanni Rotondo na mesma data, em 1918. Isso não ocorreu com os outros setenta estigmatizados que a Igreja até hoje canonizou. Santa Gema Galgani é a mais recente delas a ter recebido essa honra.
+Padre Pio recebeu primeiro os Estigmas invisíveis em Pietrelcina em 20 de setembro de 1915, e os visíveis em San Giovanni Rotondo na mesma data, em 1918. Isso não ocorreu com os outros setenta estigmatizados que a Igreja até hoje canonizou. Santa Gemma Galgani é a mais recente delas a ter recebido essa honra.
 
 Muito se poderia dizer sobre este dom sobrenatural com que Padre Pio foi agraciado pela Divina Providência, mas eu, por mim, sou demasiado ignorante não só para explicar o dom, como para discutir sua natureza. Direi apenas que os Estigmas invisíveis vieram a ele enquanto estava no jardim ou pomar de sua casa em Pietrelcina, numa manhã de setembro do ano de 1915.
 
@@ -408,4 +408,3 @@ Imprimatur:
 .L. Joannes Gregorius Murray Archiepiscopus Sancti Pauli. Paulopoli die 27a Julii 1955.
 
 Tradução (do inglês) de Laura Chanler White
-</content>

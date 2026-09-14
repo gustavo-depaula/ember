@@ -28,9 +28,9 @@ Renomados psiquiatras atestam que um número surpreendentemente grande de pacien
 
 ### Ladainha de Santa Dimpna
 
-Senhor, *tende piedade de nós.*  
 Cristo, *tende piedade de nós.*  
 Senhor, *tende piedade de nós.*  
+Cristo, *tende piedade de nós.*  
 Cristo, *ouvi-nos com bondade.*  
 Deus Pai do Céu, *tende piedade de nós.*  
 Deus Filho, Redentor do mundo, *tende piedade de nós.*  
@@ -87,7 +87,7 @@ Oremos
 
 Ó Deus, que conduzistes a santa virgem e mártir Santa Dimpna, através do perigo e da provação, até sua gloriosa coroa no céu, ajudai-nos, por sua intercessão, a confiar em Vós em todas as aflições e provações de nossa própria vida, e, aceitando Vossa vontade, a ascender das trevas desta vida à glória eterna do céu. Por Cristo Nosso Senhor. Amém.
 
-Compassiva Santa Dimpna, que restituíste saúde e sanidade mental a tantos, pelo poder de teu celestial Esposo, Jesus Cristo, olhai para mim (ou mencione-se a pessoa aflita) neste sofrimento. Confiando em tua poderosa intercessão, imploro-te que peças a Jesus, o misericordioso Médico dos enfermos, que me restitua (ou...) para que, ajudado por esta graça, eu (ele, ela) possa servi-Lo melhor e promover a devoção a ti, juntamente com tantos outros que já experimentaram tua ajuda. Amém.
+Compassiva Santa Dimpna, que restituíste saúde e sanidade mental a tantos, pelo poder de teu celestial Esposo, Jesus Cristo, olha para mim (ou mencione-se a pessoa aflita) neste sofrimento. Confiando em tua poderosa intercessão, imploro-te que peças a Jesus, o misericordioso Médico dos enfermos, que me restitua (ou...) para que, ajudado por esta graça, eu (ele, ela) possa servi-Lo melhor e promover a devoção a ti, juntamente com tantos outros que já experimentaram tua ajuda. Amém.
 
 Pai Nosso, Ave Maria, Glória ao Pai...
 

@@ -222,9 +222,13 @@ Terceiro, tudo o que é exigido para ser licitamente chamado pelo Bispo é a 're
 ## Papa Pio X
 
 POBRE E HUMILDE DE CORAÇÃO
+
 DEFENSOR INTRÉPIDO DA FÉ CATÓLICA
+
 ZELOSO EM RESTAURAR TODAS AS COISAS EM CRISTO
+
 CORONOU UMA VIDA SANTA COM UMA MORTE SANTA
+
 20 DE AGOSTO, A.D. 1914
 
 O padre se levantou para partir — a chuva havia cessado.

@@ -118,6 +118,6 @@ D. P. MURPHY, Censor Deputatus.
 
 *Imprimatur:*
 
-@ D. Mannix,
+## @ D. Mannix,
 
 Arcebispo de Melbourne.

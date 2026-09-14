@@ -39,22 +39,39 @@ Rezar um Pai Nosso, uma Ave Maria e um Glória com a invocação: São Peregrino
 ### Ladainha em Honra de São Peregrino
 
 Senhor, *tende piedade de nós.*
+
 Cristo, *tende piedade de nós.*
+
 Senhor, *tende piedade de nós.*
+
 Cristo, *ouvi-nos.*
+
 Cristo, *ouvi-nos com bondade.*
+
 Deus Pai do céu, *tende piedade de nós.*
+
 Deus Filho, Redentor do mundo, *tende piedade de nós.*
+
 Deus Espírito Santo, *tende piedade de nós.*
+
 Santíssima Trindade, um só Deus, *tende piedade de nós.*
+
 Santa Maria, Mãe de Deus, *rogai por nós.*
+
 Mãe das Dores, etc.
+
 Saúde dos enfermos,
+
 Consolo dos aflitos,
+
 Auxílio dos cristãos,
+
 São Peregrino,
+
 Convertido pelas orações de São Filipe,
+
 Aflito por um tumor canceroso,
+
 Completamente curado pela mão estendida de Jesus Crucificado, que realizou muitos milagres em vossa vida,
 
 Que multiplicastes comida e bebida,
@@ -90,8 +107,11 @@ Amado Padroeiro da Espanha,
 Glória da Ordem dos Servos de Maria,
 
 Cordeiro de Deus, que tirais os pecados do mundo, *poupai-nos, Senhor.*
+
 Cordeiro de Deus, que tirais os pecados do mundo, *ouvi-nos com bondade, Senhor.*
+
 Cordeiro de Deus, que tirais os pecados do mundo, *tende piedade de nós.*
+
 V. Rogai por nós, ó glorioso São Peregrino,
 
 R. Para que sejamos feitos dignos das promessas de Cristo.
@@ -159,4 +179,3 @@ Jesus, Maria e José, dou-vos meu coração e minha alma.
 Jesus, Maria e José, assisti-me em minha última agonia.
 
 Jesus, Maria e José, que eu exale minha alma em paz convosco.
-</content>

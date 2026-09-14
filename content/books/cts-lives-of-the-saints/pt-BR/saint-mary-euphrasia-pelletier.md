@@ -91,12 +91,15 @@ Trabalhos, empreendimentos, atividade intensa, sofrimentos físicos e morais for
 A inscrição sobre seu túmulo resume sua vida: "O zelo de Tua Casa me devorou." Em algum lugar de seus poemas, Wordsworth faz esta pergunta:
 
 "Quem é o guerreiro feliz, quem é ele,
+
 Que todo homem em armas gostaria de ser?"
 
 E dá a resposta:
 
 "É o espírito generoso que, ao ser levado
+
 Aos afazeres da vida real, realizou
+
 O plano que agradara a seu pensamento de criança."
 
 Quando criança, a pequena Rosa Virgínia dissera: "Vou ser freira." Vimos com que glória cumpriu essa aspiração.

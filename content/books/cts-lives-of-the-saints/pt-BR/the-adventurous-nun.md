@@ -98,7 +98,7 @@ Estabelecer a cidade não era a única tarefa de Anne-Marie. Grandes extensões 
 
 Se os defensores dos direitos civis são chamados hoje de "amantes de negros", em seu tempo eram chamados de negrófilos. Anne-Marie foi acusada de ser uma dessas pessoas, e, por diversas razões, donos de plantações, bispos e sacerdotes se uniram numa tentativa de removê-la; contudo, curiosamente, cada tentativa era bloqueada pela chegada de alguma personalidade do Governo. Embora ainda inconsciente da união e da colaboração de seus inimigos, foi movida pelo Espírito Santo a fazer uma mudança drástica. Ordenou que a Irmã Rosalie voltasse do Senegal para a França como Superiora-Geral. Essa medida pouco ortodoxa de fato salvou a Congregação do desastre.
 
-O comportamento escandaloso de seus inimigos torna a leitura pobre nessa história de amor, por isso o evitei. Ainda assim, o que se segue servirá para demonstrar o ódio que seus inimigos nutriam por ela. Certa noite, antes de deixar o leprosário, um nativo a advertiu de que um dos remadores do barco em que ela voltaria fora pago pelos colonos para virá-lo e assim afogá-la. Apesar do aviso, a mulher branca sozinha permaneceu por quatro horas, cabeça baixa em oração, como sempre fazia nessa viagem, e nada de extraordinário aconteceu daquela vez em que remaram do leprosário a Mana. O aspirante a assassino vacilara diante de sua destemor.
+O comportamento escandaloso de seus inimigos torna a leitura pobre nessa história de amor, por isso o evitei. Ainda assim, o que se segue servirá para demonstrar o ódio que seus inimigos nutriam por ela. Certa noite, antes de deixar o leprosário, um nativo a advertiu de que um dos remadores do barco em que ela voltaria fora pago pelos colonos para virá-lo e assim afogá-la. Apesar do aviso, a mulher branca sozinha permaneceu por quatro horas, cabeça baixa em oração, como sempre fazia nessa viagem, e nada de extraordinário aconteceu daquela vez em que remaram do leprosário a Mana. O aspirante a assassino vacilara diante de seu destemor.
 
 Então veio o dia alegre, 21 de maio de 1838, quando, depois da Missa, 185 escravos foram emancipados. Como um deles admitiu: "Somos livres agora, mas jamais estaremos livres da dívida que temos com a senhora. Só podemos pagá-la com esta promessa: a senhora nunca terá vergonha de nós." Contam-nos que, ao receber suas cartas de alforria, os homens libertos as entregaram imediatamente a Anne-Marie, a única pessoa em quem podiam confiar, mas, para suas mentes simples, a prova de sua liberdade não era o pergaminho, e sim o direito de usar botas. As expressões cômicas que acompanhavam o esforço de se ajustar às botas que a Reverenda Madre providenciara aumentaram a alegria da ocasião. "Se você pudesse apenas ver esta população, cujo aspecto era tão temível e pouco convidativo há apenas dois anos", escreveu ela a Rosalie, "hoje está tão transformada, tão edificante e, na sua maioria, tão virtuosa, que não posso deixar de ver como isso é verdadeiramente obra de Deus."
 
@@ -146,7 +146,4 @@ BERNARD O'CONNOR, Censor Diocesano.
 
 Imprimatur:
 
-## @ JUSTIN D. SIMONDS,
-
-Arcebispo de Melbourne. 30-9-65
-</content>
+@ JUSTIN D. SIMONDS, Arcebispo de Melbourne. 30-9-65

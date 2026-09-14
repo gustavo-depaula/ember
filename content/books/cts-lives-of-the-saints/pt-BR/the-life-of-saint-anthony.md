@@ -60,7 +60,7 @@ O milagre de Bourges é aquele em que o judeu desafiou Antônio a comprovar sua 
 
 A tradição nos dá a história do Menino Jesus repousando nos braços de Antônio, e temos também o prodígio ocorrido em Arles, na França, em 1224. Antônio falava aos frades num capítulo local quando, de repente, Francisco de Assis — então vivo e bem, em Assis! — foi visto aparecer na porta, com os braços erguidos em sinal da cruz. Um caso de bilocação.
 
-Já se disse anteriormente que Antônio voltou da França à Itália em 1228 e foi então eleito Provincial da Província da Romanha. Ali novamente ensinou e liderou os frades, e evangelizou o povo. No fim de 1228, estava em Roma e pregou diante do Papa Gregório IX e do clero, bem como ao povo. Conta-se que Gregório o chamou de "Arca da Bíblia" depois de ouvir seus sermões bíblicos.
+Já se disse anteriormente que Antônio voltou da França à Itália em 1228 e foi então eleito Provincial da Província da Romanha. Ali novamente ensinou e liderou os frades, e evangelizou o povo. No fim de 1228, estava em Roma e pregou diante do Papa Gregório IX e do clero, bem como ao povo. Conta-se que Gregório o chamou de "Arsenal da Bíblia" depois de ouvir seus sermões bíblicos.
 
 Pádua agora se tornava centro de atração para o santo homem, e cada vez mais ele vinha visitar a cidade. Então, por volta de 1229, tornou-se residente permanente.
 
@@ -238,7 +238,7 @@ Que os que devotamente guardam estes lírios (flores) em suas casas, e invocam o
 
 Aqui, em 28 de julho de 1975, algo notável aconteceu a Iolanda Gervino, sob a mão curadora de Deus, mediada por Santo Antônio. Iolanda é uma mulher solteira e tinha então 57 anos de idade.
 
-Quando Iolanda Gervino tinha trinta e um anos, em 1949, tornou-se completamente inválida, incapaz até de se mover da cama e de fazer qualquer coisa por si mesma. Um problema complicado de tireoide a derrubou, roubou de seu corpo toda a força; resistiu a todos os tratamentos médicos, e a manteve prostrada na cama por 26 longos anos. Foi atendida por seus maravilhosos irmãos e irmã de todas as formas possíveis. Mas, é claro, ao longo de 26 anos seu corpo se deteriorara muito, estava anêmica e emaciada. Então, à medida que os longos anos sem esperança se passavam, ela começou a orar quase desesperadamente para que Deus não lhe permitisse sobreviver a suas duas irmãs e a seu irmão, que tão cuidadosamente atendiam a suas necessidades. Quando uma das irmãs morreu, suas orações se tornaram ainda mais pontuais.
+Quando Iolanda Gervino tinha trinta e um anos, em 1949, tornou-se completamente inválida, incapaz até de se mover da cama e de fazer qualquer coisa por si mesma. Um problema complicado de tireoide a derrubou, roubou de seu corpo toda a força; resistiu a todos os tratamentos médicos, e a manteve prostrada na cama por 26 longos anos. Foi atendida por suas maravilhosas irmãs e irmão de todas as formas possíveis. Mas, é claro, ao longo de 26 anos seu corpo se deteriorara muito, estava anêmica e emaciada. Então, à medida que os longos anos sem esperança se passavam, ela começou a orar quase desesperadamente para que Deus não lhe permitisse sobreviver a suas duas irmãs e a seu irmão, que tão cuidadosamente atendiam a suas necessidades. Quando uma das irmãs morreu, suas orações se tornaram ainda mais pontuais.
 
 E então, depois dessa longa provação, precisamente em 28 de julho de 1975, o alívio veio de repente. Com reserva e simplicidade, ela contou ao Pe. Bruson — em agosto de 1976 — o que aconteceu naquele dia inesquecível.
 

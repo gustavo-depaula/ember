@@ -165,17 +165,29 @@ Foi revelado a Santa Gertrudes que é fonte de grande alegria para os santos qua
 ### Ladainha de São Judas, Auxílio nas Grandes Necessidades
 
 Senhor, *tende piedade de nós.*
+
 Cristo, *tende piedade de nós.*
+
 Senhor, *tende piedade de nós.*
+
 Cristo, *ouvi-nos.*
+
 Cristo, *ouvi-nos com bondade.*
+
 Deus Pai do céu, *Tende piedade de nós*
+
 Deus Filho, Redentor do mundo, etc.
+
 Deus Espírito Santo,
+
 Santíssima Trindade, um só Deus,
+
 São Judas, parente de Jesus e Maria, *Rogai por nós*
+
 São Judas, que na terra foi tido por digno de ver Jesus e Maria, e de desfrutar de sua companhia, etc.
+
 São Judas, elevado à dignidade de Apóstolo,
+
 São Judas, honrado ao ver o Divino Mestre humilhar-Se para lavar teus pés,
 
 São Judas, que na Última Ceia recebeste a Sagrada Eucaristia das mãos de Jesus, Rogai por nós. São Judas, que, depois da profunda dor que a morte de teu amado Mestre te causou, tiveste a consolação
@@ -207,8 +219,11 @@ São Judas, auxílio dos desesperados, socorre-me em minha aflição! (Três vez
 Para que, por tua intercessão, tanto os sacerdotes quanto o povo da Igreja obtenham ardente zelo pela Fé de Jesus Cristo,
 
 *Nós te suplicamos, ouve-nos.*
+
 Para que defendas nosso Soberano Pontífice e alcances paz e unidade para a Santa Igreja, etc. Para que todos os pagãos e incrédulos se convertam à verdadeira Fé,
+
 Para que a fé, a esperança e a caridade cresçam em nossos corações,
+
 Para que sejamos livrados dos pensamentos maus e das armadilhas do demônio,
 
 Para que te dignes ajudar e proteger todos os que te honram,
@@ -216,11 +231,17 @@ Para que te dignes ajudar e proteger todos os que te honram,
 Para que nos preserves de todo pecado e de toda ocasião de pecado,
 
 Para que nos defendas na hora da morte contra a fúria do demônio e de todos os espíritos maus, *Rogai por nós, para que antes da morte possamos expiar todos os nossos pecados por sincero arrependimento e pela digna recepção dos santos*
+
 sacramentos,
+
 *Rogai por nós, para que possamos aplacar a Divina Justiça e obter um juízo favorável,*
+
 Rogai por nós, para que sejamos admitidos na companhia dos bem-aventurados, para nos alegrarmos na presença de nosso Deus para sempre. Cordeiro de Deus, que tirais os pecados do mundo,
+
 Cordeiro de Deus, que tirais os pecados do mundo,
+
 Cordeiro de Deus, que tirais os pecados do mundo,
+
 São Judas, *rogai por nós*
 
 E por todos os que invocam vosso auxílio.

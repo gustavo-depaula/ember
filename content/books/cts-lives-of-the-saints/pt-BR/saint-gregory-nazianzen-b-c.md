@@ -92,4 +92,4 @@ Nor. t. ii. p. 144.
 
 31 Or. I, p. 1; Or. 9, pp. 152-154, &c.
 
-32 Carm. 5 and 60.
+32 Carm. 5 e 60.

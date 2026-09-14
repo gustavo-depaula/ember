@@ -100,4 +100,3 @@ Imprimi Potest:
 Episcopus Fernensis.
 
 Die 11 Januarii 1935.
-</content>

@@ -267,6 +267,6 @@ W. M. COLLINS, Censor Dioc.
 
 Imprimatur:
 
-@ Daniel Mannix,
+## @ Daniel Mannix,
 
 Archiepiscopus Melbournensis.

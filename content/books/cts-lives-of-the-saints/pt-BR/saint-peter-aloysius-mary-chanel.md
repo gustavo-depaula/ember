@@ -173,32 +173,49 @@ Em 25 de novembro de 1888, o Padre Pedro Luís Maria Chanel foi declarado Márti
 No sábado, 12 de junho de 1954, Sua Santidade o Papa Pio XII declarou, dos degraus da Basílica de São Pedro, às centenas de milhares de fiéis reunidos na Praça de São Pedro, que o Padre Pedro Luís Maria Chanel era contado entre os Santos.
 
 *Ao filho de Maria que morreu*
+
 *Em mansidão, dor e pobreza,*
+
 *Como Tu, seu Filho, o Crucificado.*
 
 *Nem lar nem casa já o prendiam,*
+
 *Uma vez ouvida Tua voz;*
+
 *Em nome de Maria enfrentou os mares,*
+
 *Para levar longe Tua palavra salvadora.*
 
 *Estéril foi o solo que semeou,*
+
 *Mas forte seu amor por Ti;*
+
 *Cada dia cansado ele rezava o terço*
+
 *Que formava um rosário de mártir.*
 
 *Não para ele a alegria do ceifeiro;*
+
 *E, contudo, aquele campo,*
+
 *Pela graça regado, através de seu sangue,*
+
 *Uma colheita rica e plena rendeu.*
 
 *Pastorzinho da França, que morreu*
+
 *Para salvar os sem pastor,*
+
 *Ó conduze-nos, pela "Porta do Céu",*
+
 *Salvos ao nosso lar além da sepultura.*
 
 *Maria, Mãe, que teu nome*
+
 *Em todas as terras seja honrado!*
+
 *Ó concede que, como Pedro Chanel, nós*
+
 *Vivamos e morramos em teu amor.*
 
 (Aprovado pela Comissão de Música Sacra de Wellington)

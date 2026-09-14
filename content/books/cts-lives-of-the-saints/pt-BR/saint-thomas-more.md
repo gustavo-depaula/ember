@@ -98,8 +98,11 @@ A menção de seu pai lembra o fato de que o velho cavalheiro viveu para ver o f
 Era tão expedito que, certa vez, todos os processos pendentes foram concluídos. "Graças a Deus", exclamou More, "que, por uma vez, este atarefado tribunal está em repouso." Um trocadilho em verso recorda o fato:
 
 "Quando More por algum tempo Chanceler foi,
+
 Nenhum processo mais restava.
+
 O mesmo jamais se verá de novo
+
 Até que More lá esteja outra vez."
 
 No curioso epitáfio que More compôs para si mesmo, diz à posteridade que, embora tivesse o favor tanto dos nobres quanto do povo, era "penoso para ladrões, assassinos e hereges". A companhia em que os coloca mostra claramente com que sinceridade considerava os hereges perturbadores pestilentos da tranquilidade pública, e ele fez valer contra eles as leis que, sob Wolsey, haviam sido administradas com relaxamento. No entanto, enquanto durou sua influência, ninguém foi condenado à morte em Londres por motivo de religião. Foi quando as dificuldades eclesiásticas de Henrique começaram a se agravar que ele procurou assegurar a seu povo, ou talvez a si mesmo, sua própria ortodoxia, reacendendo as fogueiras de Smithfield.

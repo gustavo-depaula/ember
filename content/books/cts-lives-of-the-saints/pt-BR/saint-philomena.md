@@ -6,7 +6,7 @@ Além dessas graças que agora te pedi por tua poderosa intercessão, ó bendita
 
 Certamente Deus, que é tão bom, e por quem tu deste a vida — Deus, que é tão bom, e que tantos dons e favores concedeu a ti e por meio de ti — Deus, que é tão bom a ponto de ter morrido por mim, e de Se dar a mim na Sagrada Comunhão — Deus, que é tão bom a ponto de ter revelado o amor ardente de Seu Sagrado Coração por mim, certamente não Se recusará a acolher graciosamente tuas orações, minhas súplicas, e mesmo Seu próprio desejo de socorrer os aflitos. Nisto espero, enquanto ponho toda a minha confiança em Deus e em ti, ó bendita Filomena! Amém.
 
-Ó Jesus, dai-me a graça de Vos amar e de fazer com que outros Vos amem. Ó Maria, minha terna Mãe, obtém para mim um grande amor por teu Divino Filho, Jesus. São José, abençoa-me e intercede por mim. Santa Filomena, rogai por nós. Amém.
+Ó Jesus, dai-me a graça de Vos amar e de fazer com que outros Vos amem. Ó Maria, minha terna Mãe, obtém para mim um grande amor por teu Divino Filho, Jesus. São José, abençoa-me e intercede por mim. Santa Filomena, rogai por mim. Amém.
 
 Por quase cem anos, o nome de Santa Filomena tem recebido na Igreja uma veneração que, crescendo em intensidade com o número de milagres concedidos por sua intercessão, se espalhou pelo mundo inteiro. Antes da descoberta de seu túmulo e de suas relíquias na Catacumba de Santa Priscila, fora dos muros de Roma, no ano de 1802, seu nome não encontrava lugar algum na história sagrada.
 
@@ -161,4 +161,3 @@ Nihil Obstat:
 JOANNES KEANE. S. J. Cens. Theol. Deput.
 
 Imprimi Potest: @ EDUARDUS Archiep. Dublinen. Hiberniae Primas Dublini: die 2 Januarii, 1929.
-</content>

@@ -4,15 +4,15 @@ O interesse pelos Mártires ingleses provavelmente jamais foi tão grande quanto
 
 Para representar este variado grupo, escolhemos São Roberto Southwell, Poeta, Sacerdote e Mártir. Como mártir, ele nos lembra que o que reuniu estes homens e mulheres tão diversos num único grupo, unidos entre si e separados de seus contemporâneos, foi sua morte comum por uma causa comum; como sacerdote, ele nos lembra que foi em torno da própria sobrevivência do sacerdócio, e do Sacrifício que este oferece, que o conflito principalmente se travou; como poeta, não só enriqueceu nossa literatura, como foi capaz de dar expressão comovente às esperanças e temores que, como uma febre, agitavam todo o corpo católico de seu tempo.
 
-A fortuna da família Southwell estava firmemente baseada nos despojos da dissolução dos mosteiros por Henrique VIII — o priorado beneditino de Horsham, em Norfolk (ironicamente, chamado de São Fé), passando para "o fiel servo do Rei", Sir Ricardo Southwell. Houve um tempo em que o jovem Ricardo parecia ser tudo, menos um fiel servo do Rei, pois hesitou em seu papel de falso acusador de São Tomás Morus. Redimiu-se, porém, desempenhando este mesmo papel com sucesso no caso do Conde de Surrey, o poeta. O neto deste último, São Filipe Howard, Conde de Arundel, seria mais tarde sustentado, em seu longo cárcere, pelo próprio neto de Sir Ricardo, São Roberto Southwell.
+A fortuna da família Southwell estava firmemente baseada nos despojos da dissolução dos mosteiros por Henrique VIII — o priorado beneditino de Horsham, em Norfolk (ironicamente, chamado de Santa Fé), passando para "o fiel servo do Rei", Sir Ricardo Southwell. Houve um tempo em que o jovem Ricardo parecia ser tudo, menos um fiel servo do Rei, pois hesitou em seu papel de falso acusador de São Tomás Morus. Redimiu-se, porém, desempenhando este mesmo papel com sucesso no caso do Conde de Surrey, o poeta. O neto deste último, São Filipe Howard, Conde de Arundel, seria mais tarde sustentado, em seu longo cárcere, pelo próprio neto de Sir Ricardo, São Roberto Southwell.
 
-Assim, Sir Ricardo aprendeu cedo que, naqueles dias de homens novos e riqueza nova, uma consciência demasiado sensível podia deixar um homem empobrecido, ou até empobrecê-lo ainda mais. A moral cedia aos meios. Não é surpresa, portanto, encontrá-lo casado com uma herdeira para a continuidade da fortuna familiar, mas preferindo a prima de sua esposa como mãe de seus filhos, para a continuidade da própria família. Casou-a com um dependente já casado, aguardando o dia em que, morta sua esposa, poderia condenar seu vassalo por bigamia, e casar-se com a mãe de seus filhos, tendo dela uma última filha. Nestas galanteries encontramos o agente bem humano para o cumprimento da chamada "Maldição dos Monges", que se supunha cair sobre quem quer que lucrasse com a destruição dos mosteiros. Pois, poucos anos após a morte de São Roberto, litígios entre os ramos legítimo e ilegítimo da família logo reduziram a fortuna familiar a mera sombra de sua antiga substância.
+Assim, Sir Ricardo aprendeu cedo que, naqueles dias de homens novos e riqueza nova, uma consciência demasiado sensível podia deixar um homem empobrecido, ou até empobrecê-lo ainda mais. A moral cedia aos meios. Não é surpresa, portanto, encontrá-lo casado com uma herdeira para a continuidade da fortuna familiar, mas preferindo a prima de sua esposa como mãe de seus filhos, para a continuidade da própria família. Casou-a com um dependente já casado, aguardando o dia em que, morta sua esposa, poderia condenar seu vassalo por bigamia, e casar-se com a mãe de seus filhos, tendo dela uma última filha. Nestas aventuras amorosas encontramos o agente bem humano para o cumprimento da chamada "Maldição dos Monges", que se supunha cair sobre quem quer que lucrasse com a destruição dos mosteiros. Pois, poucos anos após a morte de São Roberto, litígios entre os ramos legítimo e ilegítimo da família logo reduziram a fortuna familiar a mera sombra de sua antiga substância.
 
 Com a restauração do catolicismo sob a rainha Maria, a família Southwell se conformou com bastante graça, como fizeram depois de novo, nas circunstâncias mudadas do reinado da rainha Isabel. É verdade que, mesmo então, mantiveram um sacerdote da época de Maria como sinal de seu apego aos velhos costumes, mas ele não foi chamado a perturbar suas consciências acomodadas.
 
 O pai do futuro mártir, Ricardo Southwell, conformou-se à nova religião. Não assim suas tias, filhas do velho Sir Ricardo, que têm a distinção de serem consideradas "muito perigosas" pelos informantes da rede de espiões de Walsingham.
 
-Roberto, terceiro filho de seu pai, nasceu perto do fim de 1561, e, mesmo criança, alcançou certa fama local. Ainda bebê no berço, foi roubado por uma cigana, seduzida, como ela mesma confessou ao ser alcançada na rápida perseguição que se seguiu, pela beleza da criança. Isto não era mera lisonja destinada a suavizar os golpes que o pai irado pudesse estar disposto a desferir. Mais tarde, no continente, Roberto era geralmente referido como "o belo jovem inglês"; e em seu julgamento, sua aparência jovem e fresca ainda era tão marcante (apesar de anos de prisão e dez cruéis torturas de tortura) que foi chamado (com desprezo, é verdade, mas isso não vem ao caso) de "o padrezinho". Tinha então, de fato, quase 33 anos de idade.
+Roberto, terceiro filho de seu pai, nasceu perto do fim de 1561, e, mesmo criança, alcançou certa fama local. Ainda bebê no berço, foi roubado por uma cigana, seduzida, como ela mesma confessou ao ser alcançada na rápida perseguição que se seguiu, pela beleza da criança. Isto não era mera lisonja destinada a suavizar os golpes que o pai irado pudesse estar disposto a desferir. Mais tarde, no continente, Roberto era geralmente referido como "o belo jovem inglês"; e em seu julgamento, sua aparência jovem e fresca ainda era tão marcante (apesar de anos de prisão e dez cruéis torturas) que foi chamado (com desprezo, é verdade, mas isso não vem ao caso) de "o padrezinho". Tinha então, de fato, quase 33 anos de idade.
 
 Este rapto impressionou profundamente Roberto, contado a ele sem dúvida mil vezes por sua ama. Mais tarde, em seu diário espiritual, ele haveria de retratar o que sua imaginação viva lhe apresentava como o provável desfecho desta aventura, caso não tivesse sido resgatado a tempo. Ele enumera as mais notáveis misericórdias mostradas por Deus:
 
@@ -20,11 +20,12 @@ Este rapto impressionou profundamente Roberto, contado a ele sem dúvida mil vez
 
 Em alma tão sensível e cortês como a sua, era natural que sua gratidão a Deus por seu resgate incluísse gratidão à velha criada, cuja oportuna descoberta do rapto levara a que ele fosse recuperado. A ela procurou, ao chegar pela primeira vez como sacerdote à Inglaterra, muitos anos depois, e a recompensou do modo que melhor sabia — reconciliando-a à antiga Fé, e provendo a todas as necessidades de sua velhice.
 
-Por alguma razão obscura, o pai de Roberto lhe deu o apelido de "Padre Roberto". É difícil sugerir razão plausível para isso. Certamente não era porque seu pai o destinasse à Igreja; os sacerdotes eram, literalmente, uma raça em extinção na Inglaterra elisabetana. Além disso, Roberto mais tarde haveria de lembrar seu pai deste apelido, apontando que, ao dá-lo a ele, o pai falara mais verdadeiramente do que sabia. Talvez significasse apenas que Roberto gostava bastante do velho mosteiro de São Fé — que seu pai ainda não vendera, como mais tarde foi forçado a fazer. Também se sugeriu que o apelido profético se referia à quieta gravidade de sua disposição. Pode ser; mas é certo que nem sempre era quieto, nem sempre grave. Emulando, sem dúvida, o espírito indomável daquela tia sua a quem tanto admirava, foi apanhado em algumas irreverências bastante indiscretas proferidas sobre o regime da Rainha, e, aos 14 anos, viu-se diante do já então plenamente inquisitorial Tribunal da Câmara Estrelada. Era hora de deixar a Inglaterra.
+Por alguma razão obscura, o pai de Roberto lhe deu o apelido de "Padre Roberto". É difícil sugerir razão plausível para isso. Certamente não era porque seu pai o destinasse à Igreja; os sacerdotes eram, literalmente, uma raça em extinção na Inglaterra elisabetana. Além disso, Roberto mais tarde haveria de lembrar seu pai deste apelido, apontando que, ao dá-lo a ele, o pai falara mais verdadeiramente do que sabia. Talvez significasse apenas que Roberto gostava bastante do velho mosteiro de Santa Fé — que seu pai ainda não vendera, como mais tarde foi forçado a fazer. Também se sugeriu que o apelido profético se referia à quieta gravidade de sua disposição. Pode ser; mas é certo que nem sempre era quieto, nem sempre grave. Emulando, sem dúvida, o espírito indomável daquela tia sua a quem tanto admirava, foi apanhado em algumas irreverências bastante indiscretas proferidas sobre o regime da Rainha, e, aos 14 anos, viu-se diante do já então plenamente inquisitorial Tribunal da Câmara Estrelada. Era hora de deixar a Inglaterra.
 
 Este passo, que Roberto deu em 1576, não era um que se pudesse anunciar, pois era inteiramente ilegal. Consequentemente, como e de que ponto da costa partiu para o continente ainda é matéria de conjectura. Um poema que escreveu mais tarde na vida sugere que, entre a decisão de partir e a partida, houve pouco intervalo de tempo — nem sequer tempo de voltar para se despedir de sua mãe e do lar ancestral. Pois, no poema "*On the Loss of the Child*" ["Sobre a Perda do Filho"], Nossa Senhora se queixa:
 
 *Como pudeste ir habitar em outro lugar*
+
 *E não te deter para lhe dizer uma só vez adeus?*
 
 Os dois anos seguintes de sua vida, 1576-1578, foram passados frequentando o colégio jesuíta de Douai, com seis meses em Paris. Durante este período, pediu várias vezes para ser admitido na Companhia de Jesus. Foi adiado cada vez; talvez por certo receio de que seu temperamento bastante impressionável não o tornasse apto para a vida religiosa, ou talvez porque a situação instável daquela parte da Europa, naquela época, tornasse o futuro tão incerto. Provavelmente, foi uma combinação de ambas as circunstâncias.
@@ -72,13 +73,19 @@ Obter e instalar, sem despertar a menor suspeita, as prensas, os tipos e o papel
 O assassinato, por essa época, de Maria, Rainha da Escócia, deu origem a um poema sobre um dos temas prediletos de Roberto — "*Decease, Release*" ["Morte, Libertação"]. Nele, a Rainha é feita dizer:
 
 *Rainha em vida, agora morta, sou uma santa;*
+
 *Chamada outrora Maria, meu nome agora é Mártir;*
+
 *Do reino terreno excluída por prisão,*
+
 *Em cujo lugar reino na bem-aventurança celeste.*
 
 *Não lamenteis minha morte, alegrai-vos com meu repouso;*
+
 *Não foi morte para mim, mas para minha aflição;*
+
 *O botão se abriu, para deixar sair a rosa,*
+
 *As correntes se soltaram, para deixar a cativa partir.*
 
 Ao mesmo tempo, o poeta, rapidamente amadurecendo, escrevia boletins para Roma, contendo interpretações notavelmente precisas e perspicazes do cenário político.
@@ -118,19 +125,29 @@ Nas poucas semanas em que esteve naquela casa, Southwell foi submetido às algem
 Southwell foi então transferido para a prisão do Gatehouse, onde teve por carcereiro o marido da mulher que o traíra. Ali, por algumas semanas, exausto e emaciado, jazeu em sua própria imundície, incapaz até de tirar de seu corpo os vermes que ali fervilhavam. Ao fim de julho, sua situação era tal que seu pai (a quem Roberto reconciliara com a Igreja, à sua primeira chegada à Inglaterra) suplicou à Rainha que ou sofresse a morte, se dela fosse culpado, ou fosse melhor alojado. Southwell foi então transferido para a Torre, lembrando-se talvez a Rainha de que sua mãe fora amiga de infância dela. Dois anos e meio de confinamento solitário na Torre, com a Bíblia e as obras de São Bernardo como únicos companheiros, foram tudo o que se interpôs entre Roberto e sua recompensa. Foram longos anos para um homem que escrevera:
 
 *Quem vive de amor, menos deseja viver*
+
 *E se aflige com longa demora,*
+
 *Se ama Aquele por quem vive,*
+
 *A quem todo amor é devido;*
+
 *Que por nosso amor escolheu viver*
+
 *E se contentou em morrer,*
+
 *Que amou nosso amor mais que sua vida,*
+
 *E com a vida comprou o amor.*
 
 E ainda:
 
 *Não onde respiro, mas onde amo, é que vivo;*
+
 *Não onde amo, mas onde estou, é que morro:*
+
 *A vida que desejo há de dar glória futura;*
+
 *A morte que sinto está em perigos presentes.*
 
 Sem a missa, sem companheiros, Roberto ainda assim tinha visitantes ocasionais. O rude Tenente da Torre se encantou com a gentileza e a alegria de seu prisioneiro, e para sempre depois falou dele como "o santo, aquele bendito Padre." Numa ocasião, o cãozinho de estimação de São Filipe Howard vagou até sua cela; Southwell deu ao cão sua bênção, para levar de volta ao amo. Visitantes menos bem-vindos eram os membros do Conselho Privado, que voltavam vez após vez com seus persistentes interrogatórios.
@@ -138,10 +155,15 @@ Sem a missa, sem companheiros, Roberto ainda assim tinha visitantes ocasionais. 
 Os trinta meses que passou na Torre devem ter parecido uma eternidade a Southwell; e, de fato, há pouca razão para supor que teriam terminado de outro modo que não sua morte na prisão, não fosse sua própria ação provocar desfecho diferente. Southwell aprendera a paciência, observando que os Tempos se Revezam:
 
 *Nem sempre queda de folhas, nem sempre primavera,*
+
 *Nem noite sem fim, nem dia eterno;*
+
 *Até as aves mais tristes acham estação para cantar,*
+
 *A mais áspera tempestade uma calmaria pode logo trazer;*
+
 *Assim, com reviravoltas sucessivas, Deus tudo tempera,*
+
 *Para que o homem possa esperar erguer-se, ainda que tema cair.*
 
 Ele também aprendera a moderar seu desejo de martírio, enquanto desempenhasse um ministério útil com seus escritos, sua prensa secreta, suas viagens missionárias por toda a Inglaterra.

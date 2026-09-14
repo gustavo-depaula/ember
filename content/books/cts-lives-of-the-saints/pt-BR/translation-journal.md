@@ -432,7 +432,6 @@ Tradutor: agente de lote 5. Fonte: en-US. Alvo: pt-BR.
 | saint-philip-neri | São Filipe Néri |
 | saint-philip-benizi-confessor | São Filipe Benizi, Confessor |
 | saint-peregrine-the-cancer-saint | São Peregrino, o Santo do Câncer |
-</content>
 
 ---
 
@@ -592,5 +591,63 @@ havia corrigido silenciosamente — essas foram deixadas como estão):
   → "e seus companheiros" (o grupo de mártires inclui homens — Revocato,
   Saturnino, Secundulo; corrigido tanto no corpo do arquivo quanto no
   `book.json`) — the-martyrdom-of-saint-perpetua-and-felicitas-with-their-companions.
+
+Build verificado com `pnpm build:corpus` — sem avisos para este livro.
+
+---
+
+## Rodada 2 de revisão — correções aplicadas
+
+Segunda auditoria completa (15 agentes paralelos). Descobertas principais
+e correções aplicadas ao pt-BR:
+
+- **Artefato sistêmico grave**: 9 arquivos terminavam com uma linha
+  literal `</content>` (vazamento do próprio processo de tradução) —
+  removida de todos: eugene-de-mazenod (via mary-mckillop), padre-pio,
+  saint-jean-b-m-vianney, saint-john-of-god, saint-patrick,
+  saint-peregrine-the-cancer-saint, saint-philip-benizi-confessor,
+  saint-philip-neri, saint-philomena, saint-rita, saint-francis-of-assisi,
+  saint-vincent-strambi-c-p, the-adventurous-nun, mary-mckillop (também
+  no próprio `translation-journal.md`).
+- **Ladainhas e poemas com quebras de linha perdidas** (mesmo problema do
+  Wenceslas na rodada 1, encontrado em mais arquivos): linha em branco
+  adicionada entre cada verso/invocação em saint-jude-helper-in-great-need
+  (Ladainha completa), saint-peregrine-the-cancer-saint (Ladainha),
+  saint-rita-of-cascia (Ladainha), saint-peter-aloysius-mary-chanel
+  (hino final), saint-mary-euphrasia-pelletier (poema de Wordsworth),
+  saint-thomas-more (trocadilho em verso), poet-priest-martyr (6 poemas
+  distintos), saint-pius-x-460 (epitáfio do túmulo).
+- Litania de Santa Dimpna: "Cristo"/"Senhor" invertidos nas invocações
+  iniciais (Kýrie) — corrigido para bater com o original.
+- Erros de concordância de gênero/número: "As gracejos" → "Os gracejos"
+  (saint-margaret-mary-alacoque); "pesados peles" → "pesadas peles",
+  "vela bento" → "vela benta" (saint-rose-of-lima); "sua destemor" →
+  "seu destemor" (saint-john-the-baptist, the-adventurous-nun).
+- Palavras malformadas/estrangeirismos: "Mielfluente" → "Melífluo"
+  (saint-bernard-abbot-of-clairvaux); "provost geral" → "prepósito-geral"
+  (saint-cajetan-or-gaetano-confessor); "Ferrocarris" → "Ferrovias",
+  "gari" → "garis" (mary-mckillop); "Gema Galgani" → "Gemma Galgani"
+  (padre-pio); "Arca da Bíblia" → "Arsenal da Bíblia", tradução correta
+  de "Armory" (the-life-of-saint-anthony).
+- Nomes próprios revertidos para o original sem base para alteração:
+  Cláudio → Claudiano (poeta, não o imperador — saint-patrick); Beato
+  Mâneres → Beato Manes (saint-dominic-confessor); Gonzalo de Massa →
+  Gonzalez de Massa, 2 ocorrências (saint-rose-of-lima); Spytihněv
+  (nome do irmão, não fundido com o do pai — saint-wenceslas).
+- Blocos de encerramento "Nihil Obstat/Imprimatur" traduzidos onde
+  faltava (mary-mckillop); marcador `##` corrigido para bater com a
+  fonte em ambas as direções — adicionado onde faltava
+  (saint-john-francis-regis, saint-mary-mazzarello) e removido onde o
+  original não o usa (saint-john-of-god, the-adventurous-nun).
+- Outras correções pontuais: "campo de concentração" → "campo de
+  trânsito" (Westerbork não era um campo de concentração propriamente
+  dito — saint-edith-stein); "rogai por nós" → "rogai por mim" (oração
+  em primeira pessoa — saint-philomena); "é bastante enigma" → "é
+  bastante um enigma", "do que que" → "do que" (saint-margaret-clitherow);
+  "século quatro" → "século IV" (saint-martin-of-tours); "São Dinis" →
+  "Saint-Denis", para consistência com as demais ocorrências no mesmo
+  capítulo (saint-louis-ix); nota de rodapé restaurada (citação de
+  Murtagh, mary-mckillop); "(Rastislas)" restaurado como forma
+  alternativa do nome (saint-wenceslas).
 
 Build verificado com `pnpm build:corpus` — sem avisos para este livro.
