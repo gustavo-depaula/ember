@@ -6,7 +6,7 @@
 ## 'O Apóstolo de Viena', 1751-1821
 
 
-## O Cenário Histórico
+## O cenário histórico
 
 OS anos que abrangem a vida de São Clemente Hofbauer foram anos conturbados para a Europa. Foram anos de grandes crises políticas; de convulsões gigantescas em quase todos os Estados da Europa; de guerras e revoluções; de ferozes conflitos sociais e ódio de classes. Clemente Maria Hofbauer crescia como menino quando a Guerra dos Sete Anos sangrava a Áustria. Estava na casa dos vinte anos quando a Guerra da Independência Americana se arrastava entre os Estados norte-americanos e a Inglaterra. Estava na casa dos trinta quando a Revolução Francesa irrompeu sobre a Europa, e o sangue da aristocracia tingiu de púrpura as estradas da França. Estava na Polônia quando aquele grande patriota, Kosciusko, se ergueu e caiu. Estava em Varsóvia quando aquela cidade foi sitiada em duas ocasiões. Trabalhava a trinta quilômetros do campo de Austerlitz quando Napoleão despedaçou as forças da Rússia e da Áustria. Evangelizava justamente aqueles lugares por onde marchavam os exércitos franceses nas intermináveis campanhas do Imperador francês. Verdadeiramente, viveu numa era de grande conflito social e agitação política.
 
@@ -15,7 +15,7 @@ E aqueles dias em que viveu foram dias sombrios para a Igreja de Deus. Ferida pe
 É preciso ter bem presente este pano de fundo histórico para compreender a natureza heroica dos feitos que São Clemente realizou a serviço de Cristo, ou para entender como aconteceu que, apesar de seu notável êxito em conquistar almas para Cristo, ele não conseguiu, ao longo de sua vida, alcançar o grande propósito de sua existência — a saber, transplantar a Congregação dos Redentoristas para além dos Alpes — propósito ao qual dedicou todas as energias de sua alma e de seu corpo.
 
 
-## Sua Infância
+## Sua infância
 
 Nascido em 26 de dezembro de 1751 na aldeia de Tasswitz, na Morávia — uma província da Áustria —, Clemente Maria Hofbauer (Dvorak, em moravo) contemplou com olhos de criança uma paisagem florestal de beleza incomparável. Nascido de pais profundamente piedosos, ainda que humildes, Clemente deu seu primeiro suspiro numa atmosfera de grande fé e piedade. Começou a vida com dois grandes tesouros, destinados, mais tarde, a desempenhar papel tão importante na gigantesca tarefa à qual dedicaria sua alma: o primeiro, o precioso dom de uma fé viva, tão forte, tão profunda, tão constante, que o tornava imune a toda tentação contra ela; o segundo, a bênção de uma constituição física sadia e robusta. Sem nenhum desses dois dons, jamais teria realizado a obra que o tornou imortal.
 
@@ -24,7 +24,7 @@ Clemente Hofbauer era o caçula de doze filhos, e as mortes prematuras de alguns
 A piedade de Clemente crescia com os anos, até encontrar expressão definida no anseio de tornar-se sacerdote. Tornar-se sacerdote, contudo, exigia estudos, e estudos exigiam dinheiro, e aqui se apresentou a primeira dificuldade insuperável, pois Clemente, rico em tesouros espirituais, era pobre nos bens deste mundo. Essa dificuldade não desapareceu com o passar dos anos, e Clemente foi obrigado a ganhar o pão como aprendiz de padeiro. Era, de fato, comovente ver aquela alma jovem, ardendo no desejo de buscar o ministério do sacerdócio, constrangida, porém, a seguir seu humilde ofício num mundo do qual sua alma se afastava. Mas esse contratempo temporário a seus propósitos apenas serviu para gravar mais fundo em sua alma o desejo do sacerdócio. E fundo precisava ser, pois grandes tempestades estavam destinadas, em anos vindouros, a varrer sua vida, quando precisaria de grande fortaleza e zelo para sustentá-lo. O que nos parecem acasos são, com frequência, o desígnio traçado por Deus Todo-Poderoso; e nesses obstáculos aos desejos de Clemente vemos a mão condutora de Deus, que, naqueles anos de exaustiva e ansiosa espera, ia gradualmente voltando o curso de seu ser mais profunda e diretamente para Si mesmo.
 
 
-## O Eremita
+## O eremita
 
 Foi durante esses anos de aprendizado que ele partiu em peregrinação a Roma para renovar sua piedade, bem como para fazer penitência. Durante essa peregrinação visitou um certo eremitério, num lugar chamado Tívoli, nos Estados Pontifícios. Situada num alto, a capela do eremitério era dedicada a Nossa Senhora, possuindo, como possuía, uma antiga imagem bizantina da Madona. Seis eremitas formavam a comunidade no eremitério ali perto. Aninhado com beleza entre oliveiras, esse lar de piedade fez um apelo poderoso ao coração de Clemente Hofbauer, de modo que, ao voltar a seu trabalho e a seu lar, seus pensamentos e sonhos voltavam-se com frequência a Tívoli. E agora que o caminho para o sacerdócio parecia definitivamente fechado para ele, pensou em passar a vida como eremita.
 
@@ -41,7 +41,7 @@ Era um coração solitário que pulsava sob o hábito humilde do padeiro quando 
 "São Clemente, rogai por nós."
 
 
-## O Sacerdócio
+## O sacerdócio
 
 Em breve as sombras se dissipariam e uma luz brilhante haveria de iluminar plenamente a vida de Clemente, enchendo-o de altas e douradas esperanças. Pequenos incidentes têm, às vezes, consequências de largo alcance. Um dia de chuva em Waterloo custou a Napoleão um império e mudou o destino da Europa. Um dia de chuva lançou Clemente na carreira e missão de sua grande vida. Aconteceu assim: costumava servir à Missa diariamente na Catedral de Santo Estêvão, em Viena, e certa manhã, depois da Missa, notou algumas senhoras esperando no pórtico da igreja até que cessasse a chuva, que caía forte. Clemente, em seu zelo por auxiliar os outros, aproximou-se delas e ofereceu-se para chamar uma carruagem. Elas aceitaram a oferta; e, quando a carruagem chegou, convidaram Clemente a acompanhá-las. Essas boas senhoras — três irmãs, pessoas de alguns recursos — demonstraram grande interesse ao ouvir a história de Clemente. Com lágrimas nos olhos, ele contou sua história: um relato de altas aspirações sem esperança de realização; um relato de idas e vindas febris para satisfazer o impulso de sua alma, mas todos os caminhos o levando de volta ao ponto de onde partira. Comovidas pelo que ouviram, as senhoras prometeram a Clemente o auxílio financeiro necessário para prosseguir seus estudos rumo ao sacerdócio, e assim, dessa maneira simples, o caminho para o sacerdócio se abriu diante dele.
 
@@ -199,12 +199,12 @@ Já vimos como uma instituição católica, onde as classes altas pudessem receb
 Como a Universidade de Viena era o baluarte dos inimigos da Igreja, podemos ver de imediato o valor e o significado do apostolado do santo entre os estudantes. Uma força católica ia tomando forma definida dentro dos muros da Universidade, e essa força assumia uma postura firme e intransigente. Professores que permitiam que seu viés anticatólico transparecesse em suas aulas eram rapidamente desafiados. Uma guerra salutar era travada naquele que outrora fora um tranquilo lar do Racionalismo. Mas, enquanto nosso santo obtinha notável sucesso com a criação do "Círculo de Hofbauer", como era chamado, ele desempenhava, no entanto, um papel perigoso, pois concentrava sobre si toda a ira dos inimigos da Igreja. Um esforço determinado foi finalmente feito para destruí-lo, e quando a tempestade estourou, quase arrastou sua obra à ruína total.
 
 
-## Sua Última Dor
+## Sua última dor
 
 Segundo as leis então vigentes há algum tempo na Áustria, as Ordens Religiosas eram proibidas de entrar em seu território, e a comunicação com superiores estrangeiros era declarada ilegal. Os inimigos do santo abriram seu ataque contra ele por essa via. Foi citado perante um tribunal e acusado de estar em comunicação com um Superior fora do domínio austríaco. Foi declarado culpado; e, como pena, recebeu a opção de obter dispensa de seus votos ou de sofrer o banimento de sua terra natal. Em vez de buscar a dispensa de seus votos, Clemente aceitou a expulsão. Como sempre acalentava a esperança de que seu sonho de estabelecer sua Congregação na Áustria um dia se realizaria, essa decisão foi um golpe esmagador. Descobriu-se então que esses juízes não tinham jurisdição para aplicar essa pena. O Arcebispo de Viena chamou a atenção do Imperador para essa injustiça legal. Um inquérito foi ordenado. O tribunal foi censurado, e nosso santo foi salvo. Mais ainda, não só foi permitido ao santo permanecer na Áustria, como lhe chegou informação fidedigna de que a questão de legalizar um ramo da Congregação na Áustria estava sendo considerada pelo Governo. O já idoso Padre Clemente e seus amigos ficaram tomados de alegria com essa súbita mudança de sorte. Começaram a preparar-se para a fundação de um grande noviciado, enquanto aguardavam, dia após dia, o decreto imperial de aprovação.
 
 
-## O Fim
+## O fim
 
 Febrilmente aqueles dias de espera passaram sobre a cabeça de nosso santo. Ai! Uma convicção estranha, mas definida, chegou-lhe de que seus olhos jamais leriam o decreto tão longamente esperado. Estava à vista da terra prometida. Chegaria a entrar nela? Suas forças declinavam visivelmente, e sintomas perigosos se manifestavam. Um dia, depois de uma Missa Solene de Réquiem, o santo estava tão exausto que um amigo o levou para casa numa carruagem. Em casa, foi para uma cama da qual jamais se levantaria. Depois de receber a Sagrada Comunhão nas primeiras horas de 15 de março de 1821, caiu em inconsciência. Ao meio-dia, o sino do Angelus soou. Antes que seus ecos se apagassem, a alma do santo passou para a eternidade. João Clemente Maria Hofbauer estava morto. O coração mais puro que pulsava em peito humano naqueles dias sombrios cessara de bater, e a última página de uma vida nobre e inspiradora se fechou para sempre. "A religião, na Áustria", disse Pio VII, "perdeu seu principal amparo."
 

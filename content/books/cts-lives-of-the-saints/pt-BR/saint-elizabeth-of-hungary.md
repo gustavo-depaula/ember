@@ -1,4 +1,4 @@
-# Santa Isabel Da Hungria
+# Santa Isabel da Hungria
 
 As Três Ordens fundadas por São Francisco desfrutaram, desde o início, de bênçãos singulares, e sete séculos deram ampla prova da aprovação divina. De começos humildes, cada Ordem, servindo a seu próprio propósito, construiu poderosos baluartes a partir de uma composição de membros contrastante. O tosco hábito castanho foi a veste cobiçada tanto por humildes camponeses quanto por personagens reais. E, nos dias de hoje, as Ordens espalhadas pelo mundo possuem, como nos primeiros dias, uma influência tremenda na sociedade — trazendo inúmeras almas aos pés de Deus no exercício de uma vida verdadeiramente cristã, tanto dentro quanto fora do claustro.
 

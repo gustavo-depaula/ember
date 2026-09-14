@@ -1,4 +1,4 @@
-# São Judas, Auxílio Nas Grandes Necessidades
+# São Judas, Auxílio nas Grandes Necessidades
 
 A DEVOÇÃO aos santos apóstolos deve ser cultivada, pois foram os primeiros mestres de nossa Fé. Durante a Idade Média, os Apóstolos eram tidos em alta veneração, mas em nossa época materialista essa devoção declinou muito, embora a veneração a São Judas Tadeu tenha sido revivida nos últimos anos.
 
@@ -124,17 +124,17 @@ POSCOMUNHÃO. Tendo recebido teus Sacramentos, ó Senhor, humildemente te suplic
 Qualquer das seguintes orações pode ser usada para uma Novena, conforme as necessidades de cada um.
 
 
-## 1. Oração Por Um Favor Especial
+## 1. Oração por um favor especial
 
 Glorioso Apóstolo, São Judas Tadeu, verdadeiro parente de Jesus e Maria, eu vos saúdo por meio do Sagrado Coração de Jesus. Por meio deste Coração, louvo e agradeço a Deus por todas as graças que Ele vos concedeu. Humildemente prostrado diante de vós, imploro-vos, por meio deste Coração, que olheis para mim com compaixão. Não desprezeis minha pobre oração; que minha confiança não seja iludida! A vós Deus concedeu o privilégio de auxiliar a humanidade nos casos mais desesperados. Ah, vinde em meu auxílio, para que eu possa louvar as misericórdias de Deus! Toda a minha vida vos serei grato e serei vosso fiel devoto até que possa agradecer-vos no céu. Amém.
 
 
-## 2. Oração Por Auxílio Espiritual
+## 2. Oração por auxílio espiritual
 
 Glorioso Apóstolo, mártir e parente de Jesus, São Judas Tadeu, vós espalhastes a verdadeira fé entre as nações mais bárbaras e distantes, e conquistastes à obediência de Jesus Cristo muitas tribos e povos pelo poder de Sua santa palavra. Concedei-me, eu vos suplico, que a partir de hoje eu renuncie a todo hábito pecaminoso, que eu seja preservado de todos os pensamentos maus, que eu sempre obtenha vossa assistência, particularmente em todo perigo e dificuldade, e que eu chegue com segurança à pátria celestial, para convosco adorar a Santíssima Trindade, Pai, Filho e Espírito Santo, pelos séculos dos séculos. Amém.
 
 
-## 3. Oração Por Auxílio Nas Provações
+## 3. Oração por auxílio nas provações
 
 Esta e a oração seguinte podem ser rezadas em grande aflição, ou quando alguém parece privado de toda ajuda visível, e para casos considerados desesperados.
 
@@ -143,26 +143,26 @@ Santíssimo Apóstolo, São Judas, fiel servo e amigo de Jesus, o nome do traido
 Prometo-vos, ó bendito São Judas, ter sempre presente este grande favor, e nunca deixarei de vos honrar como meu especial e poderoso padroeiro, e de fazer tudo o que estiver ao meu alcance para incentivar a devoção a vós. Amém.
 
 
-## 4. Oração Em Grave Aflição
+## 4. Oração em grave aflição
 
 São Judas Tadeu, parente de Jesus e Maria, glorioso Apóstolo e mártir, renomado por tuas virtudes e milagres, fiel e pronto intercessor de todos os que te honram e em ti confiam! Poderoso padroeiro e auxiliador nas graves aflições, venho a ti e te suplico de todo o coração que venhas em meu auxílio, pois recebeste de Deus o privilégio de assistir com ajuda manifesta os que quase se desesperam. Olha para mim; minha vida é uma vida de cruzes, meus dias estão cheios de tribulação, e meus caminhos estão semeados de espinhos, e mal passa um momento que não seja testemunha de minhas lágrimas e suspiros. Minha alma está envolta em trevas, inquietude, desânimo, desconfiança; sim, às vezes até uma espécie de desespero se apodera de minha alma. A Divina Providência parece perdida a meus olhos, e a fé parece vacilar em meu coração. Esmagado por esses pensamentos, vejo-me cercado por uma nuvem escura. Tu não podes me abandonar nesta triste condição! Não me apartarei de ti até que me tenhas ouvido. Ah! apressa-te em meu auxílio. Eu te honrarei como meu padroeiro especial. Agradecerei a Deus pelas graças a ti concedidas, e propagarei tua honra segundo minhas forças. Amém.
 
 Em grande aflição, pode-se prometer ao Apóstolo, caso ele venha a ajudar, distribuir certo número destes folhetos em ação de graças. Esse meio de difundir sua devoção é uma forma eficaz de obter sua ajuda.
 
 
-## 5. Oração Por Um Doente
+## 5. Oração por um doente
 
 Deus Todo-Poderoso e Eterno, salvação eterna dos que creem: ouvi-nos em favor de vosso servo N..., por quem imploramos o auxílio de vossa terna misericórdia, para que, restituído à saúde corporal, ele (ela) vos dê graças em vossa igreja, por Cristo Nosso Senhor. Amém.
 
 
-## Louvor E Ação De Graças
+## Louvor e ação de graças
 
 Foi revelado a Santa Gertrudes que é fonte de grande alegria para os santos quando louvamos e agradecemos a Deus pelas graças e privilégios que Ele lhes concedeu. Os devotos de São Judas deveriam recitar frequentemente o seguinte ato de ação de graças.
 
 Ó doçíssimo Senhor Jesus Cristo, em união com o louvor inexprimível com que a Santíssima Trindade a Si mesma exalta, e que daí se derrama sobre Vossa Sagrada Humanidade, sobre Maria, sobre todos os anjos e santos, eu Vos louvo, glorifico e bendigo por todas as graças e privilégios que concedestes a vosso escolhido Apóstolo e amigo íntimo, Judas Tadeu. Peço-Vos, por seus méritos, que me concedais Vossa graça, e que, por sua intercessão, venhais em meu auxílio em todas as minhas necessidades. Especialmente na hora de minha morte, dignai-Vos fortalecer-me contra a fúria de meus inimigos. Amém.
 
 
-### Ladainha De São Judas, Auxílio Nas Grandes Necessidades
+### Ladainha de São Judas, Auxílio nas Grandes Necessidades
 
 Senhor, *tende piedade de nós.*
 Cristo, *tende piedade de nós.*

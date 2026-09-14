@@ -1,4 +1,4 @@
-# A Vida De Santo Antônio
+# A vida de Santo Antônio
 
 Pe. Ambrose Ryan, O.F.M.
 
@@ -232,7 +232,7 @@ Que os que devotamente guardam estes lírios (flores) em suas casas, e invocam o
 ## Apêndice
 
 
-## Uma Cura Notável Recente
+## Uma cura notável recente
 
 (Os detalhes aqui apresentados vêm de Elia Bruson, *Il Messaggero di Sant'Antonio*, Pádua, nov. 1976, p. 42-43.) Em Lappano, perto de Cosenza, na Itália, aconteceu uma cura notável em 1975, através da oração a Santo Antônio. Cosenza fica no extremo sul da Itália, na "ponta do pé" que dá à Itália meridional sua forma peculiar. E Lappano é uma vila nas altas montanhas da Sila, quinze quilômetros de Cosenza.
 

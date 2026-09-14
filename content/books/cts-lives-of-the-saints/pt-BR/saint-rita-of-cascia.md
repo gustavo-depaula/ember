@@ -1,4 +1,4 @@
-# Santa Rita De Cássia
+# Santa Rita de Cássia
 
 SANTA RITA DE CÁSSIA é universalmente chamada a "Santa dos Impossíveis", porque sua intercessão se mostrou eficaz junto a Deus nos casos mais desesperados e sem esperança. Nascida em Rocca Porena, na diocese de Spoleto, na Itália, por volta do ano de 1381, Rita veio aos seus pais, já avançados em idade, como resposta a muitos anos de oração. A piedade e a caridade de seu pai e de sua mãe eram tão conhecidas que eram chamados os "pacificadores" de sua pequena aldeia.
 
@@ -55,7 +55,7 @@ Santa padroeira dos que estão em necessidade, Santa Rita, tão humilde, pura e 
 Pai-Nosso, Ave-Maria, Glória ao Pai... (três vezes).
 
 
-### Ladainha De Santa Rita De Cássia
+### Ladainha de Santa Rita de Cássia
 
 Senhor, *tende piedade.*
 Cristo, *tende piedade.*

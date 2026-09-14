@@ -1,4 +1,4 @@
-# São Francisco De Sales
+# São Francisco de Sales
 
 Na segunda metade do século XVI, vivia no Château de Sales, na paróquia de Thorens, Ducado da Saboia, Francisco de Sales, Senhor de Nouvelles, descendente da antiga família de Sales. Casou-se com Francisca de Sionnas, filha única e herdeira de Melchior de Sionnas, Senhor de Vallières de La Thuile e de Boisy, uma das mais antigas e melhores famílias da Saboia. Ela trouxe consigo os domínios de Boisy como dote, sob a condição de que seu marido, Francisco de Sales, tomasse o nome de Boisy, e é, portanto, como Sr. e Sra. de Boisy que os pais do Santo serão conhecidos nas páginas seguintes.
 
@@ -15,7 +15,7 @@ Depois de dois anos em La Roche, passou mais quatro no colégio de Annecy. Logo 
 Os principais acontecimentos desses anos em Annecy foram sua Primeira Comunhão e o recebimento da tonsura. Esta última cerimônia era, para muitos naquela época, considerada de pouca importância, mas para Francisco foi um ato do mais profundo significado. Foi o primeiro passo rumo à total dedicação de si mesmo a Deus, e com todo o coração ele pronunciou as sagradas palavras: "O Senhor é a porção de minha herança."
 
 
-## Vida Universitária, Paris E Pádua (1580-1591)
+## Vida universitária, Paris e Pádua (1580-1591)
 
 De Annecy, Francisco foi enviado à Universidade de Paris. Suplicou ao pai que não o enviasse ao colégio de Navarra, para onde iam a maioria dos nobres saboianos, mas ao colégio jesuíta recém-fundado, dizendo com profunda humildade que talvez não tivesse a mesma força que outros para resistir à tentação. Seu pedido foi atendido, e ele foi enviado a estudar sob os jesuítas, sendo nomeado seu preceptor o Sr. Déage, homem bom mas de mente estreita. Em Paris, completou seus estudos de retórica e filosofia com a mais alta distinção, estudando também teologia, Escritura e hebraico, e aperfeiçoando-se, por ordem do pai, em todos os exercícios próprios de um jovem nobre.
 
@@ -26,7 +26,7 @@ Foi perto do fim de seus seis anos em Paris, quando Francisco tinha dezessete an
 De Paris, depois de alguns meses em casa, Francisco foi a Pádua. Ali, sob a direção imediata do grande Possevino e com a ajuda dos mais ilustres mestres do mundo, completou seus dezessete anos de educação. Seus extraordinários talentos, seu julgamento, sua imaginação e seu gosto foram desenvolvidos e refinados ao máximo. Ao conferir-lhe finalmente os graus de Doutor em Direito Canônico e Civil, Pancirolo, o grande jurista, declarou que a famosa Universidade jamais os concedera a um formando que os merecesse mais. Durante esses quatro anos, o amor de Francisco a Deus cresceu pelo exercício contínuo. Sua vida espiritual pode ser vista no *Combate Espiritual*, que ele sempre carregava consigo e reduzia a prática exata, e nas regras de conduta que traçou para si mesmo. Era obediente como uma criança — brando, humilde, simples, como um religioso fervoroso. No entanto, em sua doçura não faltava força. Sua constância no autodomínio exigia fortaleza sobrenatural, nem o vício, que grassava naquela cidade universitária, podia erguer a cabeça em sua presença sem uma repreensão corajosa e cortante. Numa das provações a que sua boa aparência o expôs, ele expulsou de casa um pretenso amigo que se tornara portador de propostas infames. Em outra ocasião, quando atacado por alguns valentões jovens, sacou sua espada e rapidamente os pôs em fuga.
 
 
-## Da Universidade Até O Sacerdócio (1591-93)
+## Da universidade até o sacerdócio (1591-93)
 
 Depois de seu brilhante êxito em Pádua, Francisco buscou repouso de seus trabalhos e alívio para seu espírito na bela Itália. Durante cerca de seis meses, visitou muitas cidades de santa memória, incluindo Loreto e, é claro, Roma, onde permaneceu por algum tempo.
 
@@ -35,7 +35,7 @@ Ao voltar à Saboia, foi morar com seus pais, que então viviam em La Thuile, pe
 Que ele fosse um dia advogado e senador, e fizesse um casamento brilhante, estava entre os planos do Sr. de Boisy para seu filho, mas Francisco tinha ideias muito diferentes e mais nobres de grandeza. Confiou à mãe e a seu primo, o Cônego Luís de Sales, sua inalterável determinação de se dedicar a Deus no estado sacerdotal. Não sabia como obter o consentimento do pai, mas seu primo contornou a dificuldade, obtendo para ele, sem que ele soubesse, o cargo de Provisor do Cabido de Genebra, que por acaso vagara naquele tempo. Essa dignidade tornou a decepção menos dolorosa para o pai, e Francisco a aceitou de imediato, como o único meio de obter seu desejo. Foi instalado Provisor em Annecy, local de residência do Bispo e do Cabido exilados de Genebra, e pouco depois recebeu o subdiaconato. O Bispo insistiu que começasse de imediato a pregar. Ele mostrou todas as virtudes de um eclesiástico perfeito, e, entre outras obras de zelo, fundou a grande Confraria da Cruz de Maria Imaculada e dos Santos Pedro e Paulo, a fim de melhor combater a heresia e fazer reparação a Deus pelos terríveis ultrajes oferecidos a Sua Sagrada Majestade. Foi ordenado sacerdote em 18 de dezembro de 1593.
 
 
-## São Francisco Como Sacerdote: A Vida Em Annecy (1593-4)
+## São Francisco como sacerdote: a vida em Annecy (1593-4)
 
 Ao receber o Sacerdócio, Francisco abandonou, como escória e sem um momento de hesitação, seu direito de primogenitura, seu título e sua renda. Deixou tudo isso para trás, e o deixou com o coração alegre: "Pois Tu, ó Senhor", dizia ele, "maravilhosamente me colocaste na esperança", e sua esperança era esta: que pudesse ir pelos becos e vielas, em busca dos abandonados e pecadores, velar junto ao leito dos moribundos e, na solidão e na pobreza, tornar-se de fato e em verdade tudo para todos, a fim de ganhar almas para Cristo.
 
@@ -44,7 +44,7 @@ Seu tempo em casa era gasto em oração ou nos estudos próprios de sua profiss�
 Enquanto isso, sem o perceber, ele se preparava para coisas maiores; seus magníficos dons, suas virtudes apostólicas e seu zelo teriam um campo de apóstolo em que se exercer; as pobres ovelhas perdidas do Chablais o aguardavam.
 
 
-## A Conversão Do Chablais (1594-1598)
+## A conversão do Chablais (1594-1598)
 
 O Chablais é a província mais setentrional do antigo Ducado da Saboia, estendendo-se pelo lado sul do Lago Genebra e, assim, fazendo fronteira com o território suíço. Sessenta anos antes da época de que agora falamos, os calvinistas suíços tinham traiçoeiramente tomado toda a parte dele que fica a oeste do Drance, e tinham conseguido destruir a religião católica. A Saboia recuperou o Chablais depois de trinta anos, mas concordou em permitir apenas a prática da religião protestante. Em 1589, os suíços o tomaram de novo, mas Carlos Emanuel, Duque da Saboia, rapidamente o retomou, e, estando agora livre das antigas obrigações, decidiu restabelecer a antiga religião. O Protestantismo só seria tolerado em três lugares, e Thonon, a capital, não seria um deles. Carlos Emanuel mal se retirara quando os suíços, pela terceira vez, invadiram o infeliz país; mas, depois de uma guerra desorganizada que durou até 1593, tiveram de pedir uma trégua e, entrementes, entregar o Chablais incondicionalmente a seu legítimo soberano. A força havia falhado, de modo que o Duque agora decidiu aplicar o meio certo da pregação e da persuasão. Pediu-se ao Bispo de Genebra que enviasse missionários zelosos, e Francisco de Sales, sedento de almas, ofereceu-se voluntariamente para ir, sendo assistido a princípio por seu primo, o Cônego Luís. De fato, parecia uma empresa sem esperança, ao menos aos olhos humanos. Em sessenta e cinco paróquias, contendo mais de 25.000 almas, havia mal uma centena de católicos. As igrejas haviam sido despojadas ou destruídas, altares e sinos removidos, e não havia um único sacerdote em todo o distrito.
 
@@ -57,7 +57,7 @@ Não há espaço aqui para entrar nos detalhes da missão do Chablais, e de como
 Em outubro, o Legado Papal, acompanhado pelo Duque, veio receber a reconciliação do país, e milhares fizeram sua retratação em sua presença. Espetáculo tal de graça e fé não se via desde a conversão das nações. Mal restava uma centena de hereges onde, quatro anos antes, mal havia uma centena de católicos. A glória desse resultado deve ser atribuída, sob Deus, às virtudes, à sabedoria, à pregação, aos sofrimentos e à perseverança do Apóstolo do Chablais.
 
 
-## A Primeira Parte De Seu Episcopado (1599-1612)
+## A primeira parte de seu episcopado (1599-1612)
 
 Francisco mal levara a missão do Chablais a seu triunfante fim, quando foi nomeado Coadjutor do venerável Bispo de Genebra, com direito de sucessão. Recusara por muito tempo essa dignidade, e só a aceitou sob pressão de seus superiores, que lhe garantiram que, do contrário, estaria resistindo à vontade manifesta de Deus. Mesmo depois de aceitá-la, Francisco não quis receber a consagração episcopal até o momento de sua efetiva sucessão.
 
@@ -74,7 +74,7 @@ Além disso, nesse período, trabalhou duro para aperfeiçoar seu estilo literá
 Ao chegar a Lyon, em sua viagem de volta, soube da morte de Mons. Granier, e apressou-se em voltar para casa, a fim de se preparar para a consagração como seu sucessor. Em Thonon, no Chablais, agora restaurada à Fé Católica por seus trabalhos apostólicos, recebeu, em 8 de dezembro de 1602, a plenitude do sacerdócio. Confessou depois que, durante a cerimônia, recebeu graças maravilhosas de Deus. "Deus", disse ele, "tirou-me de mim mesmo naquele momento e me deu a meu povo, para que eu não mais vivesse senão para Ele e para eles."
 
 
-## Sua Vida Privada E Sua Casa
+## Sua vida privada e sua casa
 
 Antes de sua consagração, fez um retiro de vinte dias, no qual traçou para si uma regra de vida. Conforme essa regra, mandou organizar sua casa como um mosteiro, com horários e regras fixos. Os aposentos para sua criadagem e para visitantes eram amplos e bem mobiliados, mas seu próprio quarto ou cela era um cubículo pequeno, escuro e mal mobiliado. "Devo ser o Bispo de Genebra de dia", dizia ele, "mas serei Francisco de Sales de noite." Levantava-se cedo, e dedicava uma hora à oração e duas horas ao estudo antes de dizer Missa. Depois da Missa, quando estava em casa, quase todo o resto do dia era tomado pelos assuntos da diocese e pelos que vinham consultá-lo. Era acessível a todos — não apenas a seus funcionários ou a pessoas com negócios importantes, mas aos visitantes mais comuns, ricos ou pobres, pessoas a quem muitos teriam considerado perda de tempo falar. À medida que sua sabedoria e sua imparcialidade se tornavam mais conhecidas, começou a ser costume levar-lhe litígios; uma testemunha em seu processo de canonização declarou que assistira a mais de cem dessas audiências. Não só as próprias partes compareciam, como traziam consigo seus advogados, transformando o quarto do Bispo, por algum tempo, num ruidoso tribunal. Só Francisco mantinha uma paz imperturbável, e, depois de um dia de trabalho tão cansativo e muitas vezes inútil, voltava a seu próprio trabalho com a mesma calma que teria se estivesse ocupado em empreendimentos gratos e bem-sucedidos. Tinha uma correspondência enorme, mas nunca empregava um secretário, para que seus correspondentes não se sentissem menos confiantes com ele. Mas era aos assuntos espirituais que mais de bom grado dedicava seu tempo, particularmente ao ouvir confissões. Isso fazia a qualquer hora, chegando a tirar os paramentos, já pronto para a Missa, para ouvir o mais casual dos penitentes.
 
@@ -121,7 +121,7 @@ Sua direção dessas santas mulheres resultou na composição de sua obra-prima,
 Esse tratado lhe custou cada momento dos anos de 1616 e 1617, e ele disse que, para algumas poucas linhas dele, às vezes lera mil e duzentas páginas em fólio, entre outras, de Santo Tomás, São Boaventura, Dionísio, o Cartuxo, Luís de Granada, o Cardeal Belarmino, Santa Teresa, Santa Catarina de Sena e Santa Catarina de Gênova...
 
 
-## A Segunda Parte De Seu Episcopado (1612-22)
+## A segunda parte de seu episcopado (1612-22)
 
 Olhos ansiosos agora notavam uma mudança no amado Bispo. Estava na flor da idade, mas preenchera longo tempo com seu incessante e abnegado labor. Por sugestão do Duque da Saboia, o irmão do Santo foi escolhido pelo Papa como seu Coadjutor, e João Francisco de Sales foi consagrado Bispo de Calcedônia em 1618.
 

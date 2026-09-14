@@ -111,12 +111,12 @@ A pedido do Dr. Crane, Bispo de Sandhurst, a primeira fundação foi feita de Tu
 Em 1889, todos os conventos Brigidinos foram unificados sob uma Madre-Geral, cuja residência é em Tullow. Cada Província tem uma Casa de Noviciado sob uma Madre-Provincial. Atualmente, há conventos Brigidinos — filiações das primeiras fundações no Estado de Victoria — em Rochester, Kyabram, Maryborough, Horsham, Mentone, Albert Park, Hawthorn, Springvale, Ardeer, Geelong e Traralgon. A casa principal da Província de Victoria, estabelecida em Malvern em 1917, é também a Casa de Noviciado.
 
 
-## Oração Do Cardeal Moran A Santa Brígida
+## Oração do Cardeal Moran a Santa Brígida
 
 Ó gloriosa Santa Brígida, Mãe das Igrejas da Irlanda, Padroeira de nossa raça missionária, onde quer que se encontre sua sorte, sê nossa guia pelas sendas da virtude, protege-nos em meio à tentação, escuda-nos do perigo. Preserva para nós a herança da castidade e da temperança; mantém sempre viva no altar de nossos corações o sagrado fogo da Fé, da Caridade e da Esperança, para que assim possamos emular a antiga piedade dos filhos da Irlanda, e a Igreja da Irlanda possa brilhar com glória incomparável, como outrora. Foste chamada por nossos pais de "a Maria da Irlanda"; assegura-nos por tuas orações a proteção todo-poderosa da Santíssima Virgem, para que possamos ser contados aqui entre suas mais fervorosas devotas, e possamos, no futuro, merecer um lugar, junto contigo e com os incontáveis Santos da Irlanda, nas fileiras de seus filhos triunfantes no Paraíso. Amém.
 
 
-## Oração A Santa Brígida
+## Oração a Santa Brígida
 
 Cara Santa Brígida, brilhante estrela de santidade nos primeiros dias de nossa fé irlandesa e de nosso amor ao Deus onipotente que jamais nos abandonou, erguemos os olhos para ti agora em oração séria e esperançosa. Por teu glorioso sacrifício das riquezas, alegrias e afeições terrenas, alcança-nos a graça de "buscar primeiro o Reino de Deus e Sua justiça", com confiança constante em Seu cuidado paternal. Por tua vida de laboriosa caridade para com os pobres, os doentes, os muitos que buscavam luz e conforto, alcança-nos a graça de sermos auxiliares de Deus com toda a nossa força durante nossa estada na terra, aguardando, como tu fizeste, nossa vida com Ele por toda a eternidade.
 

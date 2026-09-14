@@ -1,4 +1,4 @@
-# O Santo Das Mães
+# O santo das mães
 
 Chegam cartas diariamente a nossos mosteiros na Austrália, e do exterior, com estes pedidos: uma medalha de São Geraldo Majella; o empréstimo de sua relíquia; orações por uma criança doente ou por uma futura mãe; inscrição na Liga de São Geraldo. Vêm de mães e, às vezes, de maridos. Mães escrevem por suas filhas casadas. Amigos escrevem em nome de amigos.
 

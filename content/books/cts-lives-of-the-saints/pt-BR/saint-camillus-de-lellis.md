@@ -1,9 +1,9 @@
-# São Camilo De Lellis
+# São Camilo de Lellis
 
 Fundador dos Clérigos Regulares, Ministros dos Enfermos.
 
 
-## Os Caminhos Admiráveis De Deus.
+## Os caminhos admiráveis de Deus.
 
 NÓS — exilados num "vale de lágrimas" — às vezes achamos difícil perceber verdades que, no entanto, estão profundamente enraizadas em nossos corações. Entre elas pode estar o sentimento contido nas palavras "Jesus Cristo, o mesmo, ontem, hoje e sempre." Mas, de tempos em tempos, através das páginas da história do mundo, surge um clarão que revela o Coração imutável e sempre igual de Deus feito Homem por amor às criaturas pecadoras, doentes e sofredoras a quem Ele ama até o fim — não apenas até o fim de Sua vida mortal, mas até o fim dos tempos — sim — e por toda a eternidade sem fim.
 
@@ -12,7 +12,7 @@ Assim é que muitas palavras Suas, doces e eficazes, continuam a fazer sua obra 
 Voltemo-nos, portanto, aos anais dos servos coroados de Deus e leiamos com reverência os registros daquele que deveria justamente figurar entre os mártires da caridade.
 
 
-## Um Filho Da Graça.
+## Um filho da graça.
 
 Este título é frequentemente dado àqueles cujos pais viveram muitos anos na expectativa de uma nova vida para alegrar seu lar.
 
@@ -29,7 +29,7 @@ No dia 25 de maio, no Ano Santo de 1550, Camilo foi dado por Deus em resposta à
 O bebê era um verdadeiro italiano, de pele morena e olhos escuros, que mais tarde se tornariam de uma doçura e compaixão indescritíveis sempre que o sofrimento se aproximava dele. Cresceu depressa, para grande satisfação do pai, que contava os anos com impaciência até que o menino pudesse ficar ao seu lado na próxima convocação para a guerra.
 
 
-## Nuvens Escuras.
+## Nuvens escuras.
 
 Pesadas, de fato, foram as nuvens que se acumularam sobre o crepúsculo de Camilla de Lellis. O costume da família, e o desejo do pai, determinaram que Camilo fosse enviado à escola o quanto antes. Ainda era uma criança quando manifestou plenamente a herança que lhe fora legada por seus antepassados. Era, por natureza, poeta e soldado; mesmo sua piedosa mãe podia licitamente se alegrar com seus dotes; mas, infelizmente, foi logo levado a se cercar de pessoas que o admiravam e o divertiam, alimentando sua jovem vaidade.
 
@@ -47,7 +47,7 @@ Solitário e fraco, sujeito a repetidos acessos de irritação febril, o rapaz v
 
 Imediatamente, Camilo fez um voto impetuoso de se consagrar a Deus na Ordem dos Frades Menores. Conhecia bastante bem o modo de vida deles, pois seu tio, o Padre Paolo Lauretano, era Guardião do Mosteiro de San Bernardino, em Aquila. Essa nova resolução pareceu agir sobre Camilo como um encantamento. Ele tentou sacudir sua letargia e correu para Aquila. Mas o Padre Paolo era homem prudente. Temia que a conversão do sobrinho fosse rápida demais para durar. Além disso, a saúde dele era incerta, sua perna continuava a incomodá-lo, e como poderia uma pessoa de promessa tão duvidosa ser recebida na rigorosa e apostólica Ordem dos Franciscanos? Foi-lhe negada a admissão e, imediatamente, aparentemente sem dar importância a seu voto, ele afastou o impulso num acesso de contrariedade por ter sido rejeitado.
 
-## Em Busca Do Bom Pastor.
+## Em busca do bom pastor.
 
 Apesar de sua inconstância, Camilo era objeto de particular solicitude na Mente Eterna Daquele que previa a futura santidade da ovelha desgarrada. Mais uma vez, o Bom Pastor, com calma e empenho, perseguia a alma que haveria de conduzir multidões ao céu em seu séquito.
 
@@ -70,7 +70,7 @@ Uma hora depois, enquanto cavalgava de volta para Manfredônia, "um raio de luz 
 Esse grito penitente terminou numa renovação de seu voto, uma renovação sumamente eficaz, pois, a partir daquele dia, 2 de fevereiro de 1575, sua consciência jamais o acusou de nenhum pecado mortal.
 
 
-## Um Verdadeiro Penitente.
+## Um verdadeiro penitente.
 
 Tão manifesta foi a conversão que os Padres de Manfredônia permitiram que Camilo iniciasse o período de provação sem demora. Em devoção ardente, em mortificação incessante, ninguém o superava — mais ainda, embora arrependido, ele se considerava obrigado a crucificar seu corpo e a mortificar sua vontade, até então rebelde, com severidade sem igual. Pediu para ser aceito como irmão leigo, recuando diante do pensamento de que "um tão indigno pudesse ser elevado à dignidade sacerdotal." "E assim, de dia em dia", conta-nos o cronista, "ele avançava na perfeição da virtude — sobretudo na obediência e na humildade — até ser honrado por todos com o nome de irmão humilde." Aprouve a Deus que, depois de alguns meses, sua antiga ferida fosse reaberta pelo atrito do hábito áspero contra seu tornozelo, e piorou tanto que, com grande pesar, os Padres decidiram não poder retê-lo.
 
@@ -81,7 +81,7 @@ Mal vestira o hábito, a ferida reabriu. Todos concordaram que a Vontade de Deus
 A recepção que ali encontrou foi um "boas-vindas" cheio de alegria. Foi instalado como Superintendente, mas ninguém era tão pronto em assumir os serviços mais humildes, ninguém tão infatigável no cuidado dos doentes mais abandonados e repugnantes quanto Camilo — que tinha a responsabilidade por todos!
 
 
-## O Início De Sua Obra De Vida.
+## O início de sua obra de vida.
 
 Ele finalmente entrara em sua missão determinada, e a Bem-aventurança — "Estive enfermo e vós me visitastes" — parecia sempre brilhar diante de seus olhos. Ninguém sabia melhor que Camilo quantas injustiças clamavam piedosamente por reparação nos hospitais daquele tempo. Os pobres eram tratados mais como animais caçados e desprezados do que como seres humanos. Assistentes descuidados e egoístas faziam o que bem entendiam, dia e noite. O alimento era dado com parcimônia. Os remédios eram administrados ao acaso. A compaixão cristã era escassa. O pior dos infortúnios — havia casos de sacerdotes que negligenciavam seu dever, de modo que os doentes frequentemente definhavam e morriam sem as consolações da religião e dos Sacramentos.
 
@@ -102,7 +102,7 @@ Não admira que o Santo se tornasse confiante no sucesso e que se dirigisse a al
 Camilo não pôde mais conter seu entusiasmo. Começou uma preparação para o sacerdócio e aplicou-se humildemente aos rudimentos do latim, com aulas particulares, complementadas por sua frequência às aulas no Colégio dos Jesuítas. "Não se pode negar", diziam seus mestres, "que este homem veio tarde para a escola, mas ele há de avançar depressa e fazer grandes coisas na Igreja." Essa opinião era compartilhada pelas autoridades eclesiásticas, e não houve hesitação em permitir que Camilo fosse ordenado no domingo de Pentecostes de 1584. Logo depois, os administradores de San Giacomo o elegeram capelão de sua pequena igreja perto da Porta del Popolo, chamada "A Madonna dei Miracoli."
 
 
-## Fundação Dos Ministros Dos Enfermos.
+## Fundação dos Ministros dos Enfermos.
 
 De seus primeiros cinco confidentes, apenas três colaboradores estavam agora prontos a se pôr nas mãos de um líder, pois Benigno fora transferido para outra cidade, e o Padre Ludovico Altobelli fora nomeado Prior do hospital de San Giovanni. Restavam Bernardino Norcino, Curzio Lodi e o Padre Francesco Profeta. Esses três eram um exército no exército de Deus, tão ansiosos estavam por assumir Seu jugo e carregar em seus ombros dispostos o doce fardo da caridade. Depois de várias consultas, os quatro concordaram em romper inteiramente com o mundo; em deixar o hospital de San Giacomo, onde não seriam livres para agir como desejavam; em vestir a batina sacerdotal — fazendo-se assim Ministros de Cristo aos enfermos — e em começar sua nova vida no hospital de San Spirito. Isso fizeram no dia 16 de setembro de 1584, data a partir da qual se dedicaram inteiramente ao serviço dos doentes "segundo algumas regras breves que Camilo havia escrito."
 
@@ -119,7 +119,7 @@ Pessoas de toda classe começaram a desejar a assistência dos "Membros da Congr
 Essa cláusula foi inserida na regra escrita pouco antes da morte do Papa Gregório XIII, em abril de 1585. Outra consulta com os pioneiros da Ordem fixou seu nome futuro — a saber, "Ministros dos Enfermos", também chamados "Clérigos Regulares."
 
 
-## Rumo Ao Céu.
+## Rumo ao céu.
 
 O primeiro a passar ao reino eterno foi Bernardino Norcino. Desde a juventude, estivera habituado à abnegação, e sua estreita união com Deus glorificara sua pobreza. Camilo o encontrou quando ele era guarda dos estoques em San Giacomo. Antes disso, fora lenhador. Seu hábito de oração jaculatória o distinguira desde a infância, e costumava passar as horas entre o "Ângelus" da tarde e a meia-noite em devoções ininterruptas. Seu confessor afirmava que Nosso Bendito Senhor às vezes se mostrava a Bernardino na Hóstia consagrada, sob a forma de uma linda Criança.
 
@@ -138,7 +138,7 @@ Sem dúvida, os anjos da guarda de Nápoles o haviam levado até lá para enfren
 Ainda assim, "a semente lançada à terra rendeu fruto a cem por um." Postulantes continuavam a implorar admissão na Congregação. A maioria era formada para se tornar anjos de misericórdia pela mão mestra do Fundador. Alguns morreram com a alegria dos anjos brilhando em seus rostos radiantes, pois o guia de sua vida religiosa conseguira lhes ensinar a grande máxima do repouso absoluto na soberana Vontade acima deles.
 
 
-## "Um Santo Vivo."
+## "Um santo vivo."
 
 A voz de Roma insistia em dar esse título a Camilo, enquanto ele, mergulhando nas profundezas de sua humildade, esquecia seus incontáveis feitos de caridade admirável e depositava toda a sua confiança na misericórdia de Deus e no Precioso Sangue de Cristo. "Senhor", exclamava frequentemente, "Teu Sangue há de me salvar." Parecia esperar, de hora em hora, a convocação para comparecer diante do tribunal do juízo, dizendo, às vezes, que vivia no mundo como numa estalagem, onde um homem se hospeda por uma noite e parte na manhã seguinte. "Quando penso na morte", disse certa vez, "tremo e recorro aos pobres doentes, pedindo-lhes que intercedam por mim." E, no entanto, era frequentemente visto transportado por amor divino, o rosto brilhando de luz jubilosa, e o corpo levemente erguido do chão, como se seguisse seu espírito à terra a que se aproximava tanto por sua fé viva. Muitas e muitas vezes, ao dizer Missa, era arrebatado em êxtase, e voltava a si com dificuldade. E então esse amor ardente, ansiando por um escoadouro, o incitava a apressar-se em ganhar o maior número possível de almas para Deus.
 
@@ -165,7 +165,7 @@ Comia tão pouco que seu jejum jamais se relaxava. Nunca cedia à sede, embora e
 E suas responsabilidades cresciam à medida que aumentava rapidamente o número de membros, à proporção que a Itália começava a apreciar em seu justo valor a bênção que fora concedida na fundação dos "Ministros dos Enfermos."
 
 
-## Novas Fundações.
+## Novas fundações.
 
 Já falamos da primeira filiação de Santa Maria, Porta Coeli, em Nápoles. A fama daquele mosteiro despertou a atenção por toda parte, e as autoridades de Bolonha pediram ao Cardeal Paleotti, seu Arcebispo, que solicitasse a Camilo um convento semelhante. Camilo respondeu que não havia sacerdotes suficientes e que poucos dos que desejavam se juntar à sua congregação tinham meios pecuniários para estudar rumo ao sacerdócio.
 
@@ -192,12 +192,12 @@ Por sete anos laboriosos e frutíferos, o fundador carregou o principal fardo; e
 "Irmão de Vossas Reverências em Cristo,
 
 
-## Camilo De Lellis.
+## Camilo de Lellis.
 
 "Roma, 14 de outubro de 1607."
 
 
-## Um Entardecer Bendito.
+## Um entardecer bendito.
 
 "Agora", disse o Santo, no dia de sua renúncia, "nada mais tenho a fazer senão chorar meus pecados diante de Deus, unir-me perfeitamente a Ele, encher meu saco de boas obras que me seja permitido tentar, e me preparar para o juízo."
 
@@ -228,7 +228,7 @@ Ao meio-dia, fez um esforço para se juntar ao "Ângelus" e, percebendo que sua 
 Era 14 de julho de 1614 — o sexagésimo quinto ano de vida do Santo, e o quadragésimo depois de sua conversão. Foi canonizado pelo Papa Bento XIV, que ordenou que sua festa fosse celebrada em 18 de julho.
 
 
-## História Da Ordem
+## História da Ordem
 
 Durante o século XVII, a guerra, a fome e a morte causaram estragos terríveis por toda a Europa. A peste, tão temida, provou-se especialmente desastrosa; e temível foi o tributo cobrado pela morte. Em algumas cidades, ruas inteiras ficaram desertas, enquanto vilarejos populosos se tornaram desolados. A causa desses estragos foi a absoluta impotência da ciência médica e a falta de senso de responsabilidade social por parte dos que podiam prestar assistência. São Camilo predissera que uma época futura provaria a necessidade e a importância da Ordem. Sua profecia se cumpriu. A obra realizada pela Ordem durante as epidemias generalizadas nas grandes cidades da Itália forma um dos capítulos mais comoventes da história da caridade cristã. Milagres de sacrifício e abnegação foram realizados; a Ordem ofereceu seus melhores membros. Em mais de uma ocasião, sua própria existência pareceu estar em jogo, tão completamente ficaram despovoados seus mosteiros a serviço da humanidade. Alguns fatos servirão para esboçar um pálido quadro das atividades da Ordem em tempos de peste.
 
@@ -267,7 +267,7 @@ São Camilo exerceu seu zelo heroico nos hospitais, em casas particulares, e at�
 Com o objetivo de propagar a devoção a São Camilo, a Ordem publica diversas revistas em várias línguas. Para os leitores de língua inglesa, "The Camillian Post" oferece uma fonte exata e interessante de informação sobre a Ordem e suas atividades.
 
 
-## A Primeira Cruz Vermelha.
+## A primeira Cruz Vermelha.
 
 Todos nós conhecemos, mais ou menos, o trabalho das modernas organizações da Cruz Vermelha, sobretudo seus esforços eficientes em socorrer os soldados feridos e moribundos nos campos de batalha da recente Guerra Mundial. Até as crianças em idade escolar são lembradas anualmente de seu ideal quando participam da venda de selos da Cruz Vermelha. No entanto, se nos pedissem para explicar a origem da ideia da Cruz Vermelha, teríamos de remontar ao século XVI, a uma fonte católica — ao grande coração e à mente vigorosa do Santo que a concebeu. A obra de seus biógrafos e discípulos, Cicatelli e Dolera, prova que a São Camilo se deve o mérito da primeira Cruz Vermelha organizada na guerra, e que a este mesmo grande santo se pode facilmente remontar a ideia da primeira Ambulância de Campanha.
 

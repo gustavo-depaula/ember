@@ -1,4 +1,4 @@
-# Santo Antônio E Você
+# Santo Antônio e Você
 
 Somos, notoriamente, um povo prático. As esquisitices e os casamentos da realeza até nos interessam, mas nosso interesse principal não está tanto em quem faz o quê, mas no que ele ou ela faz. O que isso pode produzir? O que ganhamos com isso? Pode até ser verdade que outros povos se interessem pelo "quem" de uma pessoa ou coisa, mas nós, no fundo, somos pragmáticos, utilitários.
 
