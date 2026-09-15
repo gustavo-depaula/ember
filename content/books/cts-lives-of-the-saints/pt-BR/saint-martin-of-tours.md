@@ -94,7 +94,7 @@ Nihil Obstat:
 
 Percy Jones,
 
-Censor Diocesan.
+Censor Diocesano.
 
 Imprimatur: @ D. Mannix,
 

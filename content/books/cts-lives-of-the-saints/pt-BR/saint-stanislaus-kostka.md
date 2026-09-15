@@ -44,7 +44,7 @@ Ao refletir sobre os oito meses seguintes, Paulo não estava totalmente satisfei
 
 Ao verem que nem ele nem seus amigos conseguiam convencer Estanislau a mudar seus hábitos, nem por zombaria nem por ameaças, viram-se levados a recorrer à violência física. Quando encontravam o rapaz ainda em oração ao voltarem de uma festa, à noite, ele levava alguns pontapés. Uma ou duas vezes, as coisas de fato saíram do controle, como na ocasião em que o derrubaram e o espancaram a pontapés.
 
-## A Fuga
+## A Evasão
 
 Mesmo agora, cavalgando rumo a Roma, Paulo reconhecia que cometera alguns erros de cálculo durante aquele último período, mas que seu maior erro fora dizer a Estanislau que fosse embora. Nunca imaginara que o irmão o levaria a sério. É claro que os jesuítas deviam estar por trás da fuga, mas fora humilhante ver-se ludibriado por um rapaz de dezesseis anos. Como temera a perspectiva de explicar o assunto ao pai, embora, na verdade, não lhe tivessem pedido grandes explicações. O pai ficara furioso, é verdade, mas sua ira se voltara contra os jesuítas, e não contra Paulo. Paulo se poupara de muita dificuldade graças a um relatório que chegara ao Castelo de Rostkov antes dele, informando que o Padre Pedro Canísio ousara receber Estanislau em sua ordem. João Kostka não era homem de aceitar tal tratamento, e imediatamente pusera em movimento a maquinaria que traria seu filho mais novo de volta à Polônia. Depois, chegara a notícia de que Estanislau fora levado para Roma, o que complicara ainda mais as coisas. Mas, agora, tudo estava resolvido, e ele, Paulo, estava armado de plena autoridade e de todos os documentos necessários, que forçariam os jesuítas a permitir que levasse o irmão de volta para casa.
 
@@ -64,7 +64,7 @@ Ajoelhado junto ao túmulo, Paulo desabou e chorou como uma criança. Ali, pela 
 
 ## Missão Não Cumprida
 
-Paulo deixou Roma o quanto antes, para levar a triste notícia a seu pai e sua mãe. Ficaram consternados com a notícia, mas ouviram avidamente a extraordinária história da santidade heroica do filho. O pai não sobreviveu Estanislau por muito tempo, e, poucos dias após a morte do pai, Alberto, o irmão mais novo de Estanislau, também morreu.
+Paulo deixou Roma o quanto antes, para levar a triste notícia a seu pai e sua mãe. Ficaram consternados com a notícia, mas ouviram avidamente a extraordinária história da santidade heroica do filho. O pai não sobreviveu a Estanislau por muito tempo, e, poucos dias após a morte do pai, Alberto, o irmão mais novo de Estanislau, também morreu.
 
 Paulo ficou em casa com a mãe até que ela morresse. Não se casou, mas se dedicou a obras de caridade, oração e penitência. Aos cinquenta e seis anos, pediu para ser admitido na Companhia de Jesus. Seu pedido de admissão foi feito com grande humildade, não por mérito próprio, disse ele, mas por ser irmão de Estanislau. Seu pedido foi ouvido, mas, antes que pudesse começar seu noviciado, morreu uma morte santa, em 13 de novembro — hoje festa de Santo Estanislau — de 1607.
 
