@@ -58,7 +58,7 @@ escolas com 12.000 crianças. Por ocasião de sua morte, a família que fundara 
 
 provavelmente sem igual na história das congregações religiosas.
 
-Trazer o registro atualizado com qualquer precisão é impossível; pela simples razão de que os números mudam quase mês a mês. Há mais de dois mil e quinhentas Irmãs, algo em torno de 100.000 e tantas crianças em suas escolas; orfanatos, maternidades, casas para crianças enjeitadas, albergues para trabalhadoras e para imigrantes, missões motorizadas, cursos por correspondência... onde quer que haja necessidade, especialmente daqueles a quem Cristo Nosso Senhor chamou Seus pequeninos, ali se encontrará hoje uma Irmã de São José.
+Trazer o registro atualizado com qualquer precisão é impossível; pela simples razão de que os números mudam quase mês a mês. Há mais de duas mil e quinhentas Irmãs, algo em torno de 100.000 e tantas crianças em suas escolas; orfanatos, maternidades, casas para crianças enjeitadas, albergues para trabalhadoras e para imigrantes, missões motorizadas, cursos por correspondência... onde quer que haja necessidade, especialmente daqueles a quem Cristo Nosso Senhor chamou Seus pequeninos, ali se encontrará hoje uma Irmã de São José.
 
 É interessante especular sobre que influência a Sra. Caroline Chisholm teve na vocação de Maria McKillop. Depois de seu retorno da Inglaterra, em 1854, a Sra. Chisholm passou cerca de três anos em Melbourne, e era visitante frequente da casa dos McKillop em Darebin, que era um centro de Missa para os católicos da região.
 

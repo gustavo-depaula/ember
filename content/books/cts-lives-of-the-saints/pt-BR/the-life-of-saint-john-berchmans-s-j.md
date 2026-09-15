@@ -236,7 +236,7 @@ Nosso Santo foi acometido de doença em 5 de agosto. A princípio, não se temia
 
 ## Milagres
 
-OS PRECIOSOS RESTOS de São João Berchmans foram colocados num caixão de madeira, depositado num novo jazigo da Capela de Santo Luís Gonzaga. Enquanto seu corpo angélico ainda aguardava sepultamento, Deus quis, por um milagre impressionante, dar testemunho da grande santidade de João. Uma senhora, Catarina de Reccenati, de sessenta e oito anos, estivera afetada por quase total cegueira durante três meses antes da morte do Santo. A seu pedido, foi levada até o esquife onde jaziam os santos restos. O Padre Luís Espínola, ali presente, "disse-lhe que tomasse um dos dedos de João, e com ele tocasse os olhos. Ela o fez, e imediatamente exclamou: 'Estou curada; posso ver.' Aplicou o dedo novamente, e recuperou a visão de imediato."
+OS PRECIOSOS RESTOS de São João Berchmans foram colocados num caixão de madeira, depositado num novo jazigo da Capela de São Luís Gonzaga. Enquanto seu corpo angélico ainda aguardava sepultamento, Deus quis, por um milagre impressionante, dar testemunho da grande santidade de João. Uma senhora, Catarina de Reccenati, de sessenta e oito anos, estivera afetada por quase total cegueira durante três meses antes da morte do Santo. A seu pedido, foi levada até o esquife onde jaziam os santos restos. O Padre Luís Espínola, ali presente, "disse-lhe que tomasse um dos dedos de João, e com ele tocasse os olhos. Ela o fez, e imediatamente exclamou: 'Estou curada; posso ver.' Aplicou o dedo novamente, e recuperou a visão de imediato."
 
 Muitos outros milagres surpreendentes se registraram, operados por intercessão do Santo, mas só podemos citar o acima.
 

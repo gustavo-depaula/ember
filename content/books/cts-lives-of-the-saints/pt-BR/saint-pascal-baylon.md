@@ -182,7 +182,7 @@ Recordemos alguns dos milagres ocorridos naqueles dias memoráveis em Villareal.
 
 O túmulo foi aberto várias vezes para verificar se a decomposição havia começado. Embora se tivesse colocado cal viva no caixão, o corpo do santo permanecia fresco; nenhuma decomposição havia ocorrido. A cal, porém, havia consumido o hábito que cobria o corpo do santo. A pedido do Santo Padre, o túmulo foi reaberto em 1611 — dezenove anos após a morte de Pascoal — e o corpo ainda estava bem preservado! Este fato foi jurado por testemunhas médicas oficiais que conduziram um exame científico.
 
-Era apenas natural que os que amavam e honravam o irmão Pascoal desejassem ter seus preciosos relicários adequadamente venerados. Vários nobres foram generosos em suas doações, o que tornou possível a bela capela erguida em honra do santo.
+Era apenas natural que os que amavam e honravam o irmão Pascoal desejassem ver suas preciosas relíquias devidamente guardadas num relicário. Vários nobres foram generosos em suas doações, o que tornou possível a bela capela erguida em honra do santo.
 
 As autoridades civis, os dignitários eclesiásticos, o povo simples — todos ansiavam por ver o irmão Pascoal beatificado. Milagres operados por sua intercessão abundavam. Realizaram-se investigações canônicas, que foram relatadas a Roma. Em 1618, o Papa Paulo V declarou Pascoal, Beato.
 

@@ -252,7 +252,7 @@ todas as formas possíveis. Mas, é claro, ao longo de 26 anos, seu corpo se det
 
 a suas duas irmãs e um irmão que tão cuidadosamente atendiam às suas necessidades. Quando uma das irmãs morreu, suas orações se tornaram
 
-ainda mais pontuais.
+ainda mais insistentes.
 
 E então, depois dessa longa provação, e precisamente em 28 de julho de 1975, o alívio veio de repente. Com reserva e simplicidade, ela contou ao Pe. Bruson — em agosto de 1976 — o que aconteceu naquele dia inesquecível.
 
