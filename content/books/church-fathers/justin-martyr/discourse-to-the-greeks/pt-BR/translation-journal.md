@@ -26,7 +26,8 @@ Target: pt-BR
 | Œdipus, Laius | Édipo, Laio | |
 | panoply / armour (Achilles') | armadura | |
 | unchastity | incastidade | used consistently at both occurrences (Ch. 2 Jupiter/Semele, Ch. 4 wife's infidelity) — not *inconstância* (fickleness), a different fault |
-| Ægyptus (Danaus's brother) | Egito [seu irmão] | bracketed gloss added since bare "Egito" collides with the country name in Portuguese, a collision the English spelling avoids |
+| Ægyptus (Danaus's brother) | Egito[^1] | a translator footnote (not a bracket) disambiguates the collision with the country name — see Review Round 3 |
+| convicted (of a fault, judicially) | provado(s) culpado(s) de | *not* "convicto de," a false friend that reads as "convinced of" in modern Portuguese |
 
 ## Translation Decisions
 
@@ -55,3 +56,10 @@ Target: pt-BR
   - Ch. 2 "a sua **inconstância**" ("his unchastity") → "a sua **incastidade**" — "unchastity" (sexual impurity) was mistranslated as *inconstância* (fickleness), a different fault; the same English word is correctly rendered *incastidade* in Ch. 4 ("viver na incastidade"). Internal inconsistency on the same term across chapters — now aligned. Added to Key Terms.
   - Ch. 3 "tornando **Egito** sem filhos" ("making Ægyptus childless") → "tornando **Egito [seu irmão]** sem filhos" — *Ægyptus* is Danaus's brother in the myth (father of the fifty sons killed on their wedding night), not the country; the English spelling keeps person and place apart, but Portuguese *Egito* is the only word for both, so the bare name reads as "making Egypt [the country] childless." Added the bracketed gloss "[seu irmão]" (translator's clarification, matching the corpus's existing bracket convention for Dods' own "[Apollo]" gloss in Ch. 2) to disambiguate without asserting anything the myth doesn't already establish.
   - Both passes independently re-derived and confirmed the two round-1 "considered and rejected" calls (Semele's jealousy, the Nessus sentence) directly against the source, and one pass raised a third candidate (Ch. 5's singular tu-forms "pões"/"apagas") that the *other* pass had already resolved correctly in round 1's own fresh read — confirmed correct (see above) after checking the source's own switch to singular "thou" for those apostrophes.
+
+## Review Round 3
+
+- 2026-09-16 — 2 parallel independent passes (fresh cold fidelity+mechanical read; verification of round-2 fixes + full independent re-read). Both passes independently found the same defect, and one raised a legitimate style objection to a round-2 fix:
+  - Ch. 3 "os vossos deuses são **convictos** de intemperança" ("your gods are convicted of intemperance") → "são **provados culpados** de intemperança" — *convicto de* is a false friend in modern Portuguese, reading as "convinced of" (firmly believing) rather than "found/proven guilty of." Notably the *other* occurrence of "convicted" two sentences earlier ("convicted himself of lying") had already been correctly avoided with a different construction ("provou-se mentiroso a si mesmo") — the false-friend trap was dodged once and not the second time.
+  - **Round-2 fix corrected in kind, not reverted**: one pass objected that the round-2 bracketed gloss "Egito **[seu irmão]**" mimics the source's own genuine editorial bracket ("[Apollo]" in Ch. 2), making a translator's disambiguation look like part of the original 1885 apparatus. The underlying problem (bare "Egito" collides with the country name; the English spelling "Ægyptus" does not have this collision) is real and still needs fixing — but the skill's own convention for exactly this case is a translator footnote, not an inline bracket. Replaced with `Egito[^1]` plus a `*Nota do tradutor:*` footnote at the end of the chapter, matching the corpus's established footnote pattern.
+  - No other defects found by either pass — mood, polarity, prepositional agency, and every proper name across all five chapters confirmed faithful on this round.
