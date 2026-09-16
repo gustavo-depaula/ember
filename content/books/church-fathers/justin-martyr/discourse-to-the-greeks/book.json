@@ -1,13 +1,16 @@
 {
   "id": "justin-martyr-discourse-to-the-greeks",
   "name": {
-    "en-US": "Discourse to the Greeks"
+    "en-US": "Discourse to the Greeks",
+    "pt-BR": "Discurso aos Gregos"
   },
   "author": {
-    "en-US": "Justin Martyr"
+    "en-US": "Justin Martyr",
+    "pt-BR": "Justino Mártir"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -20,7 +23,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Discourse to the Greeks"
+        "en-US": "Discourse to the Greeks",
+        "pt-BR": "Discurso aos Gregos"
       }
     }
   ]
