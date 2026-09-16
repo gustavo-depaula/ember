@@ -25,6 +25,8 @@ Target: pt-BR
 | Progne (Procne) | Progne | standard Portuguese form (not "Procne") |
 | Œdipus, Laius | Édipo, Laio | |
 | panoply / armour (Achilles') | armadura | |
+| unchastity | incastidade | used consistently at both occurrences (Ch. 2 Jupiter/Semele, Ch. 4 wife's infidelity) — not *inconstância* (fickleness), a different fault |
+| Ægyptus (Danaus's brother) | Egito [seu irmão] | bracketed gloss added since bare "Egito" collides with the country name in Portuguese, a collision the English spelling avoids |
 
 ## Translation Decisions
 
@@ -45,3 +47,11 @@ Target: pt-BR
 - 2026-09-16 — **considered and rejected as defects** (verified against the en-US source directly, not just against the Portuguese):
   - Ch. 2 "o ciúme de **Sêmele**" ("the jealousy of Semele") — flagged by one reviewer as nonsensical (Semele can't be jealous of herself) without checking the source. The en-US source itself reads "the jealousy of Semele" verbatim — an ambiguous genitive in the *source* (could mean jealousy Semele felt, or jealousy provoked by/over her, e.g. Juno's) — not a translation defect. Portuguese "de Sêmele" preserves the exact same ambiguity as English "of Semele." Left as-is; egress to newadvent.org to check for a possible source transcription variant ("Juno" vs. "Semele") was blocked by the network proxy, so this rests on internal evidence only — worth a second look if the source ever becomes reachable.
   - Ch. 3 "ele mesmo ateando... assim morreu" (Nessus's death) — flagged as an ungrammatical gerund-with-no-finite-verb construction by the Portuguese-only pass (which had no access to the source). The en-US source uses the identical stacked-participle construction ("not being able to put off the tunic of Nessus, himself kindling his own funeral pile, so he died") — the Portuguese mirrors the source's own long periodic sentence rather than introducing a new defect. Left as-is.
+  - Ch. 5 "Ó arma que **pões** em fuga..." / "Ó ensino que **apagas**..." — flagged by one round-2 pass as breaking the vós register used everywhere else. Rejected: the en-US source itself switches to archaic 2nd-person-singular here ("thou puttest", elliptically "that puttest to flight"/"that quenches") because these lines apostrophize a *singular* personification (the weapon, the instruction) one at a time, not the plural Greek audience — singular "tu" (pões/apagas) is the correct match, not a register slip.
+
+## Review Round 2
+
+- 2026-09-16 — 2 parallel independent passes (fresh cold fidelity re-read; adversarial re-verification of every round-1 fix + a full diacritics/verb-conjugation/naming-consistency sweep). Both independently surfaced the same defect, plus one more:
+  - Ch. 2 "a sua **inconstância**" ("his unchastity") → "a sua **incastidade**" — "unchastity" (sexual impurity) was mistranslated as *inconstância* (fickleness), a different fault; the same English word is correctly rendered *incastidade* in Ch. 4 ("viver na incastidade"). Internal inconsistency on the same term across chapters — now aligned. Added to Key Terms.
+  - Ch. 3 "tornando **Egito** sem filhos" ("making Ægyptus childless") → "tornando **Egito [seu irmão]** sem filhos" — *Ægyptus* is Danaus's brother in the myth (father of the fifty sons killed on their wedding night), not the country; the English spelling keeps person and place apart, but Portuguese *Egito* is the only word for both, so the bare name reads as "making Egypt [the country] childless." Added the bracketed gloss "[seu irmão]" (translator's clarification, matching the corpus's existing bracket convention for Dods' own "[Apollo]" gloss in Ch. 2) to disambiguate without asserting anything the myth doesn't already establish.
+  - Both passes independently re-derived and confirmed the two round-1 "considered and rejected" calls (Semele's jealousy, the Nessus sentence) directly against the source, and one pass raised a third candidate (Ch. 5's singular tu-forms "pões"/"apagas") that the *other* pass had already resolved correctly in round 1's own fresh read — confirmed correct (see above) after checking the source's own switch to singular "thou" for those apostrophes.
