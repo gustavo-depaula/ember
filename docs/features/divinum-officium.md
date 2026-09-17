@@ -63,11 +63,11 @@ Conditional evaluation is per-version at **runtime**, so the parser + line token
 **One catalog item per dataset**, not per file: `do-data/{horas-tempora, horas-sancti, horas-commune, horas-tempora-m, horas-sancti-m, horas-commune-m, horas-psalterium, horas-appendix, horas-regula, horas-martyrologium(+1570/1955r/1960), ordinarium, tabulae, dialog, missa-tempora, missa-sancti, missa-commune, missa-ordo, meta}`. Each dataset manifest is a path index mapping DO file id → per-language **raw-`.txt` blob** refs (`localized: true`) or directly to blob refs for the language-independent ordinarium/tabulae/dialog datasets (`localized: false`); `do-data/meta` carries `{repo, commit, commitDate}`:
 
 ```jsonc
-{ "id": "do-data/horas-sancti", "doCommit": "b94d5f2…", "localized": true,
+{ "id": "do-data/horas-sancti", "doCommit": "18dce05…", "localized": true,
   "files": { "01-25": { "la": {"hash":"…","size":2891}, "en-US": {"hash":"…"}, "pt-BR": {"hash":"…"} } } }
 ```
 
-Measured at import (commit `b94d5f2`): 9,379 files / 237k lines → ~19.6MB of raw-`.txt` blobs (modestly smaller than the equivalent JSON — no per-line quoting — though the real win is the verbatim 1:1 re-sync); the largest dataset index is `horas-sancti` (well under the 300KB shard threshold).
+Measured at import (commit `18dce05`): 9,530 files / 240k lines → ~20.0MB of raw-`.txt` blobs (modestly smaller than the equivalent JSON — no per-line quoting — though the real win is the verbatim 1:1 re-sync); the largest dataset index is `horas-sancti` (well under the 300KB shard threshold).
 
 Each language file is its own blob — **no merged-language blobs**; the engine pairs Latin + vernacular at assembly time by section + line position (conditions/refs are evaluated once on Latin as structural truth; the vernacular follows the same decision stream — DO's two-column model). An hour fetches ~6–15 file blobs × 2 langs (~20–80KB/day steady state; Psalterium/Ordinarium/Prayers cached after first use). Pinning traverses `do-data` like other kinds.
 
