@@ -100,9 +100,7 @@ export async function resolveDay(opts: {
           ? 'Pasc'
           : ''
 
-  // The Little Office of the BVM (C12) has no concurrence — its Vespers and
-  // Compline are resolved by occurrence like any other hour.
-  if (/vespera|completorium/i.test(hora) && !/C12/i.test(votive)) {
+  if (/vespera|completorium/i.test(hora)) {
     await concurrence(state, opts.lang2)
   } else {
     await occurrence(state, false)
@@ -305,15 +303,13 @@ export async function resolveDay(opts: {
           vtv = 'C12Q'
         }
       }
-      state.commemoratio = ''
-      state.commemoratio1 = ''
-      state.cwinner = ''
-      state.scriptura = ''
-      state.commune = ''
-      state.commemoratioSections = {}
-      state.cwinnerSections = {}
-      state.scripturaSections = {}
-      state.communeSections = {}
+      // Upstream collapses these onto $scriptura rather than clearing them,
+      // and leaves $commune alone (the C11 Te Deum rule below reads it).
+      state.commemoratio = state.scriptura
+      state.commemoratio1 = state.scriptura
+      state.cwinner = state.scriptura
+      state.commemoratioSections = { ...state.scripturaSections }
+      state.cwinnerSections = { ...state.scripturaSections }
       state.commemoentries = []
       state.ccommemoentries = []
     } else {
@@ -333,6 +329,7 @@ export async function resolveDay(opts: {
     state.winner = `${subdirname('Commune', version)}${vtv}.txt`
     state.winnerSections = (await officestring(state, lang1, state.winner)) ?? {}
     state.rule = state.winnerSections.Rule ?? ''
+    if (/C11/.test(state.commune)) state.rule = state.rule.replace(/no Te Deum/, 'Feria Te Deum')
     if (state.winnerSections.Rank) {
       const vrank = state.winnerSections.Rank.split(';;')
       state.rank = num(vrank[2])
@@ -348,11 +345,23 @@ export async function resolveDay(opts: {
       state.communetype = 'ex'
       state.communeSections = (await officestring(state, lang1, state.commune)) ?? {}
     } else {
-      if (/^Trident|^Divino/i.test(version) && !/Votiva/.test(vtv)) {
-        // Votive Matins is fully sanctoral (Duplex, 3 nocturns) under these.
-        state.rule += '\n9 lectiones'
-        state.rank = 4
-        state.duplex = 3
+      if (!/Votiva|C10/.test(vtv) && state.rank < 3) {
+        // The lesson count upstream means to append here is swallowed by Perl
+        // precedence — `$rule .= "\n" . $version =~ /Monastic/i ? '12' : '9' .
+        // ' lectiones'` parses as `("\n" . ($version =~ //)) ? '12' : …`, whose
+        // condition is always a true string, so every version appends a bare
+        // '12'. Replicated verbatim: DO's Perl is the spec.
+        if (/Trident|Divino/i.test(version)) {
+          // Votive Matins is fully sanctoral (Duplex majus, 3 nocturns).
+          state.rule += '12'
+          state.rank = 4.91
+          state.duplex = 3
+        } else if (/196/.test(version)) {
+          // Votive behaves as I. classis, keeping access to the full Commune.
+          state.rank = 6
+          state.duplex = 3
+          state.rule += '12'
+        }
       }
       // Self-reference the commune so getproprium resolves the votive office.
       state.commune = state.winner

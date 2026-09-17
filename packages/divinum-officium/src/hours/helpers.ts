@@ -213,7 +213,11 @@ export async function postprocessShortResp(
   lang: string,
 ): Promise<string[]> {
   const out = lines.map((l) => l.replace(/&Gloria1?/, '&Gloria1'))
-  if (!alleluiaRequired(state.day.ctx.dayname[0], state.votive)) return out
+  // A '[Rule]' can ask for the alleluia responsory at the little hours outside
+  // Paschaltide (e.g. the octave of St John the Baptist).
+  const ruleAlleluia =
+    /Responsory Breve cum Alleluja/.test(state.rule) && /Tertia|Sexta|Nona/.test(state.hora)
+  if (!ruleAlleluia && !alleluiaRequired(state.day.ctx.dayname[0], state.votive)) return out
 
   // Port of the flip-flop ranges: inside the short responsory proper
   // (R.br … third R.), the R-line after a V-line becomes 'R. Alleluia,
@@ -236,7 +240,7 @@ export async function postprocessShortResp(
       } else if (/^R\./.test(line)) {
         out[i] = await ensureDoubleAlleluia(state, line, lang)
       }
-    } else if (/^[VR]\./.test(line)) {
+    } else if (/^[VR]\./.test(line) && !/Responsory Breve cum Alleluja/.test(state.rule)) {
       out[i] = await ensureSingleAlleluia(state, line, lang)
     }
     if (endResp) inResp = false

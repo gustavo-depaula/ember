@@ -62,6 +62,17 @@ async function minorResponsory(state: HoursState, lang: string): Promise<string>
   return lines.join('\n')
 }
 
+// Port of _format_capitulum — the reading itself gets the 'v.' marker, and a
+// closing '$Deo gratias' unless the text already ends with one. (Perl indexes
+// line 2 unconditionally; a shorter capitulum grows an empty first line, which
+// join renders as a blank — replicated.)
+function formatCapitulum(text: string): string {
+  const lines = text === '' ? [] : text.split('\n')
+  lines[1] = (lines[1] ?? '').replace(/^(?:[vV]\.\s*)?/, 'v. ')
+  if (!(lines[lines.length - 1] ?? '').startsWith('$Deo gratias')) lines.push('$Deo gratias')
+  return lines.join('\n')
+}
+
 // Port of capitulum_major (Lauds/Vespers).
 export async function capitulumMajor(state: HoursState, lang: string): Promise<string> {
   const { version } = state.day.ctx
@@ -78,6 +89,8 @@ export async function capitulumMajor(state: HoursState, lang: string): Promise<s
     name = `${gettempora(state, 'Capitulum major')} ${hora}`
     capit = capitFile[name] ?? ''
   }
+
+  if (lang !== 'Latin-gabc') capit = formatCapitulum(capit)
 
   if (state.day.vespera === 1 && /Ordo Praedicatorum/.test(version)) {
     capit += `\n_\n${await monasticMajorResponsory(state, lang)}`
@@ -161,7 +174,9 @@ export async function capitulumMinor(state: HoursState, lang: string): Promise<s
     await setcomment(state, state.label, 'Source', w ? c : comment, lang)
   }
 
-  return `${w || capit}\n_\n${await minorResponsory(state, lang)}`
+  let out = w || capit
+  if (lang !== 'Latin-gabc') out = formatCapitulum(out)
+  return `${out}\n_\n${await minorResponsory(state, lang)}`
 }
 
 // Port of get_prima_responsory.

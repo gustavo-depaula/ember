@@ -128,8 +128,7 @@ export async function oratio(
   }
 
   if (
-    (/Oratio Dominica/i.test(rule) &&
-      (state.day.winnerSections.Oratio === undefined || hora === 'Vespera')) ||
+    /Oratio Dominica/i.test(rule) ||
     (/Quattuor/i.test(state.day.winnerSections.Rank ?? '') &&
       !/Pasc7/i.test(ctx.dayname[0]) &&
       !/196|cist/i.test(version) &&
