@@ -67,7 +67,10 @@ async function minorResponsory(state: HoursState, lang: string): Promise<string>
 // line 2 unconditionally; a shorter capitulum grows an empty first line, which
 // join renders as a blank — replicated.)
 function formatCapitulum(text: string): string {
+  // Perl's split drops trailing empty fields, so a capitulum ending in a
+  // newline still has '$Deo gratias' as its last line.
   const lines = text === '' ? [] : text.split('\n')
+  while (lines.length > 0 && lines[lines.length - 1] === '') lines.pop()
   lines[1] = (lines[1] ?? '').replace(/^(?:[vV]\.\s*)?/, 'v. ')
   if (!(lines[lines.length - 1] ?? '').startsWith('$Deo gratias')) lines.push('$Deo gratias')
   return lines.join('\n')
