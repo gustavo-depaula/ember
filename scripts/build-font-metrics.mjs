@@ -59,15 +59,44 @@ const fonts = {
   },
 }
 
-// The characters the corpus actually uses: ASCII, Latin-1 letters with the
-// accents Latin/Portuguese/English need, liturgical marks, and the f-ligatures.
+// Whole blocks rather than a hand-picked list. A character the corpus uses but
+// the table doesn't carry is measured at the face's fallback advance, which
+// means the breaker places that line against a width the screen contradicts —
+// and a hand-picked list is exactly the thing that silently falls behind the
+// corpus. `º`, `ª`, `§`, `ǽ`, `‒` and every Greek letter were all outside the
+// previous list while appearing thousands of times under `content/`.
+//
+// Ranges are intersected with the face's own cmap below, so a font that has no
+// Greek contributes no Greek and the file only grows by what the face really
+// covers.
+const blocks = [
+  [0x0020, 0x00ff], // Basic Latin + Latin-1 Supplement (º ª § £ · ¡ ¿ « »)
+  [0x0100, 0x024f], // Latin Extended-A and -B (macrons, breves, ǽ)
+  [0x0370, 0x03ff], // Greek and Coptic
+  [0x1e00, 0x1eff], // Latin Extended Additional
+  [0x1f00, 0x1fff], // Greek Extended (polytonic, in the Fathers)
+  [0x2000, 0x206f], // General Punctuation (dashes, the fixed-width spaces)
+  [0x20a0, 0x20bf], // Currency symbols
+  [0x2100, 0x214f], // Letterlike symbols (℣ ℟ ℞)
+  [0x2190, 0x21ff], // Arrows (cross-reference markers in imported articles)
+  [0xfb00, 0xfb06], // f-ligatures, which `fontMetrics.ts` substitutes before summing
+]
+
+// Default-ignorable formatting characters. Their `hmtx` entry is whatever glyph
+// the cmap happens to point at — a third of an em in EB Garamond — while every
+// shaper draws them at zero width, so carrying them would put a made-up advance
+// into the one place that has to describe what renders.
+const ignorable = (cp) =>
+  cp === 0x00ad ||
+  cp === 0xfeff ||
+  (cp >= 0x200b && cp <= 0x200f) ||
+  (cp >= 0x2028 && cp <= 0x202e) ||
+  (cp >= 0x2060 && cp <= 0x2064)
+
 const codepoints = () => {
   const set = new Set()
-  for (let c = 0x20; c <= 0x7e; c++) set.add(c)
-  for (let c = 0xc0; c <= 0xff; c++) set.add(c)
-  for (const ch of '‘’“”–—…†‡℣℟℞·•ᵃᵉŒœÆæ°′″¡¿«»‹›„‚⁂✠') set.add(ch.codePointAt(0))
-  for (const ch of 'ﬀﬁﬂﬃﬄ') set.add(ch.codePointAt(0))
-  for (const ch of 'āēīōūăĕĭŏŭçñÿŸ') set.add(ch.codePointAt(0))
+  for (const [lo, hi] of blocks) for (let c = lo; c <= hi; c++) if (!ignorable(c)) set.add(c)
+  for (const ch of '℞⁂✠✦') set.add(ch.codePointAt(0))
   return [...set].sort((a, b) => a - b)
 }
 

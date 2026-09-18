@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest'
 
 import { getFontMetrics } from '../fontMetrics'
-import { justifyText } from '../justifyText'
+import { justifyText, measureHeadroomPx } from '../justifyText'
 
 const prose =
   'O Lord, open Thou my mouth to bless Thy holy name; cleanse my heart also from all vain, evil and wandering thoughts; enlighten my understanding, kindle my affections, that I may be able to recite this Office worthily, attentively and devoutly.'
@@ -40,6 +40,31 @@ describe('font metrics', () => {
     // lib/hyphenate.ts inserts these into prayer text before it ever reaches
     // the justifier; counting them would inflate every hyphenated word.
     expect(m.width('bene\u00addicendum', 22)).toBeCloseTo(m.width('benedicendum', 22), 6)
+  })
+
+  // A character the table doesn't carry is measured at the fallback advance,
+  // so the breaker places its line against a width the screen contradicts.
+  // Every one of these appears hundreds to thousands of times under `content/`
+  // and every one was outside the previous hand-picked codepoint list.
+  test('carries the characters the corpus actually uses', () => {
+    const m = getFontMetrics('eb-garamond')
+    if (!m) throw new Error('no metrics')
+    const space = m.charAdvance(' ', 22)
+    for (const ch of ['º', 'ª', '§', 'ǽ', '‒', '£', 'α', ' ']) {
+      expect(m.charAdvance(ch, 22), ch).not.toBe(space)
+    }
+  })
+
+  // The direction matters. Falling back to the space — one of the narrowest
+  // glyphs there is — under-measured every line a stray character landed on,
+  // and a line that overruns its measure gets re-broken by the platform, which
+  // is free to drop what no longer fits.
+  test('over-estimates a glyph it cannot measure, never under-estimates', () => {
+    const m = getFontMetrics('eb-garamond')
+    if (!m) throw new Error('no metrics')
+    const unmapped = m.charAdvance('漢', 22)
+    expect(unmapped).toBeGreaterThan(m.charAdvance(' ', 22))
+    expect(unmapped).toBeGreaterThanOrEqual(m.charAdvance('—', 22))
   })
 
   test('substitutes f-ligatures, which are narrower than their parts', () => {
@@ -128,6 +153,35 @@ describe('justifyText', () => {
       fontFamilyId: 'eb-garamond',
     })
     expect(narrow!.length).toBeGreaterThan(wide!.length)
+  })
+
+  // The platform inserts a spurious line break when a line's own measurement
+  // lands on the container's width, and the paragraph then loses its last line
+  // to a blank slot. The breaker therefore aims short by more than the shaping
+  // error it cannot model — a quarter of an em, never under 3px.
+  test('keeps every line clear of the container edge', () => {
+    const container = 346
+    const fontSizePx = 22
+    const m = getFontMetrics('eb-garamond')
+    if (!m) throw new Error('no metrics')
+    const lines = justifyText({
+      source: prose,
+      widthPx: container - measureHeadroomPx(fontSizePx),
+      fontSizePx,
+      fontFamilyId: 'eb-garamond',
+    })
+    expect(measureHeadroomPx(fontSizePx)).toBeGreaterThanOrEqual(fontSizePx * 0.25)
+    expect(measureHeadroomPx(12)).toBe(3)
+    for (const line of lines!.slice(0, -1)) {
+      const width = line.pieces.reduce(
+        (sum, piece) =>
+          sum +
+          m.width(piece.text, fontSizePx) +
+          (piece.spaceAfter ? m.width(' ', fontSizePx) + piece.spaceAfter.extraPx : 0),
+        line.hyphenated ? m.width('-', fontSizePx) : 0,
+      )
+      expect(width).toBeLessThan(container - 3)
+    }
   })
 
   test('declines rather than guessing when inputs are unusable', () => {

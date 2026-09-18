@@ -11,7 +11,11 @@ import { VersesBlock } from './VersesBlock'
 // jsdom measures every element as 0×0, and a zero measure is exactly what makes
 // the justifier decline. Giving the layout a real width is what lets these
 // exercise the justified render path rather than only its fallback.
-const measuredWidth = 320
+//
+// The breaker aims `measureHeadroomPx` short of this — 5.5px at the 22px
+// reading size — so the measure it actually works to is ~300px, which is what
+// the hyphenation fixture below is tuned against.
+const measuredWidth = 305
 const realRect = Element.prototype.getBoundingClientRect
 
 function measurable() {

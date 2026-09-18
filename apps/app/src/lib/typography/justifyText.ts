@@ -146,6 +146,31 @@ function getHyphenator(language: string | undefined) {
   return fn
 }
 
+/**
+ * How far short of its container a justified line is placed.
+ *
+ * A line must never land ON the width of the `Text` it sits in: the platform
+ * answers that with a spurious line break (facebook/react-native#15893, both
+ * iOS and Android), and since `JustifiedText` joins each line to the next with
+ * a newline, that break lands on an empty line box and pushes the rest of the
+ * paragraph down — past the height the platform measured for it, so the last
+ * line comes out as blank space with its text simply gone.
+ *
+ * One pixel — what the renderer used to reserve — is not enough, because these
+ * tables model advances but not SHAPING. Kerning and contextual pairs live in
+ * GPOS in all seven faces and cost about a megabyte to carry, so they stay
+ * unmodelled. Measured against a real shaper over 12 chapters × 7 faces × 5
+ * sizes × 4 measures, that disagreement reaches 0.19 em on a full line: 2,535
+ * of 389,467 justified lines landed at or past the container's width. At
+ * 0.25 em, none of 400,011 did, and the tightest still cleared it by 1.09 px.
+ *
+ * The cost is a uniform inset, not ragged endings — every line aims at the same
+ * target, so the right margin just sits a quarter of an em further in.
+ */
+export function measureHeadroomPx(fontSizePx: number) {
+  return Math.max(3, fontSizePx * 0.25)
+}
+
 export type JustifyOptions = {
   /** Plain text, or styled segments when the line carries inline emphasis. */
   source: string | StyledSegment[]

@@ -11,7 +11,7 @@ import { Text } from 'tamagui'
 import { getFontFamily, type ReadingFontId } from '@/config/readingFonts'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { Appearance, StyledSegment } from '@/lib/typography/justifyText'
-import { justifyText } from '@/lib/typography/justifyText'
+import { justifyText, measureHeadroomPx } from '@/lib/typography/justifyText'
 import { styleToFace } from './prayer/InlineMarkdown'
 
 /**
@@ -53,10 +53,13 @@ export function JustifiedText({
 
   const lines = useMemo(() => {
     if (!width) return undefined
-    // A pixel of headroom, because a line that ends up even a sub-pixel too
-    // wide does not merely look wrong — it wraps, pushing a word onto a line
-    // the breaker never planned.
-    return justifyText({ source, widthPx: width - 1, fontSizePx, fontFamilyId, language })
+    return justifyText({
+      source,
+      widthPx: width - measureHeadroomPx(fontSizePx),
+      fontSizePx,
+      fontFamilyId,
+      language,
+    })
   }, [width, source, fontSizePx, fontFamilyId, language])
 
   // Emphasis resolves to a concrete font face, because React Native ignores
