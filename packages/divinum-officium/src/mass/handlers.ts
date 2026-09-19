@@ -398,9 +398,23 @@ async function lectionesTemporum(state: MassState, lang: string): Promise<string
   return s.replace(/#/g, '!!')
 }
 
-// Port of checksuffragium (missa variant; $seasonalflag is unset for missa).
+// Port of checksuffragium (missa variant). Upstream replaced the never-set
+// $seasonalflag with `$testmode ne 'Temporal'` — and missa.pl normalizes
+// $testmode to regular/Seasonal/Season/Saint, never 'Temporal' — so these
+// three guards, dead until now, always apply.
 function checksuffragium(state: MassState): boolean {
+  const version = state.day.ctx.version
   if (/no suffragium/i.test(state.rule)) return false
+  if (/sancti/i.test(state.day.winner) && state.day.rank >= 3 && !/01-05/.test(state.day.winner)) {
+    return false
+  }
+  if (
+    /sancti/i.test(state.day.commemoratio) &&
+    /;duplex/i.test(state.day.commemoratioSections.Rank ?? '')
+  ) {
+    return false
+  }
+  if (state.day.duplex > 2 && !/trident/i.test(version)) return false
   return true
 }
 
@@ -566,7 +580,9 @@ async function oratio(state: MassState, lang: string, type: string): Promise<str
   for (let commemo of state.day.commemoentries) {
     if (!commemo) continue
     if (!/txt$/i.test(commemo)) commemo = `${commemo}.txt`
-    const c = await setup(state, lang, commemo)
+    // Upstream reads the commemoration's own file from Latin, not the column
+    // language — only its [Rank] is consulted here.
+    const c = await setup(state, 'Latin', commemo)
     if (
       state.day.rank < 6 ||
       !/(1955|196)/i.test(version) ||
@@ -765,7 +781,7 @@ export const scriptFunctions: Record<
     return t
   },
   evangelium: async (state, lang) => {
-    let t = await getitem(state, 'Evangelium', lang)
+    let t = (await getitem(state, 'Evangelium', lang)).replace(/\s*¶/, '')
     const passio = /^\s*Passio\s*$/m.test(state.rule)
     if (t && !/^\s*$/.test(t)) {
       t = `v. ${t}`

@@ -32,7 +32,13 @@ v. É verdadeiramente digno e justo, racional e salutar render-Vos graças em to
 
 [Pasch]
 ! da Páscoa
-v. É verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas principalmente... em que Jesus Cristo foi imolado, como nova Páscoa. Pois Ele é o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurreição nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Dominações e com toda a milícia do exército celestial, cantamos o hino da vossa glória, dizendo incessantemente:
+v. É verdadeiramente digno e justo, racional e salutar, que Vos louvemos sempre, mas mais gloriosamente~
+principalmente neste tempo,~
+(sed tempore Passionis)
+principalmente nesta noite,~
+(sed octava Paschæ)
+principalmente neste dia,~
+em que Jesus Cristo foi imolado, como nova Páscoa. Pois Ele é o verdadeiro Cordeiro que tirou os pecados do mundo e que pela sua Ressurreição nos restituiu a vida. Por isso, com os Anjos e Arcanjos, com os Tronos e Dominações e com toda a milícia do exército celestial, cantamos o hino da vossa glória, dizendo incessantemente:
 
 [Joseph]
 ! do S. José
@@ -85,10 +91,10 @@ v. Unidos na mesma comunhão, e celebrando o dia sacratíssimo em que a intemera
 v. Unidos na mesma comunhão e celebando o dia sacratíssimo em que o vosso Filho Unigénito, co-eterno convosco na vossa glória, apareceu de modo visível na realidade do nosso corpo de carne, veneramos a memória, em primeiro lugar, da gloriosa sempre Virgem Maria, Mãe de Deus e Senhor nosso Jesus Cristo,
 
 [C-Pasc]
-v. Unidos na mesma comunhão e celebrando o dia sacratíssimo da ressurreição de Nosso Senhor Jesus Cristo segundo a carne, veneramos a memória, em primeiro lugar, da gloriosa sempre Virgem Maria, Mãe de Deus e Senhor nosso Jesus Cristo, 
+v. Unidos na mesma comunhão e celebrando o dia sacratíssimo da ressurreição de Nosso Senhor Jesus Cristo segundo a carne, veneramos a memória, em primeiro lugar, da gloriosa sempre Virgem Maria, Mãe de Deus e Senhor nosso Jesus Cristo,
 
 [C-Asc]
-!In Ascensione Domini et per Octavam dicitur: 
+!In Ascensione Domini et per Octavam dicitur:
 v. Unidos na mesma comunhão e celebrando o dia sacratíssimo em que o vosso Filho Unigénito colocou à vossa direita, na glória, a nossa frágil natureza humana unida à sua Divindade, veneramos a memória, em primeiro lugar, da gloriosa sempre Virgem Maria, Mãe de Deus e Senhor nosso Jesus Cristo,
 
 [C-Pent]
@@ -96,7 +102,7 @@ v. Unidos na mesma comunhão e celebrando o dia sacratíssimo em que o Espírito
 
 [H-Pent]
 !Da Vigília pascal ao Sábado in albis e desde a Vigília de Pentecostes até ao sábado seguinte, diz-se:
-também por aqueles que Vos dignastes regenerar pela água e pelo Espírito Santo, concedendo-lhes a remissão de todos os pecados, 
+também por aqueles que Vos dignastes regenerar pela água e pelo Espírito Santo, concedendo-lhes a remissão de todos os pecados,
 
 [C-common1962]
 v. Unidos na mesma comunhão, honramos a memória, em primeiro lugar, da gloriosa sempre Virgem Maria, Mãe de Deus e Senhor nosso Jesus Cristo, e também de S. José, o Esposo da mesma Virgem,

@@ -33,7 +33,11 @@ export function replaceNdot(state: HoursState, s: string, lang: string, name?: s
 
   let names = n.split('\n')
   if (/^[OÓ],?\s|O Doctor optime/.test(s) && /Ant=/.test(n)) {
+    // Doctor antiphon: vocative.
     names = names.filter((x) => x.includes('Ant='))
+  } else if (/^L..*N\.\./.test(s) && /Invit=/.test(n)) {
+    // Widows' invitatory: genitive.
+    names = names.filter((x) => x.includes('Invit='))
   } else if (/Oratio=/.test(n)) {
     names = names.filter((x) => x.includes('Oratio='))
   }

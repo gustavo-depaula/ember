@@ -28,7 +28,7 @@ async function doxology(state: HoursState, lang: string): Promise<[string, strin
     ) {
       dname = comDox[1]
     } else if (
-      (month === 8 && day > 15 && day < 23 && !/1955|1963/i.test(version)) ||
+      (month === 8 && day > 15 && day < 23 && !/1955|1963|altovadensis/i.test(version)) ||
       (!/1570|1617|1963|altovadensis/i.test(version) &&
         month === 12 &&
         day > 8 &&
@@ -108,7 +108,7 @@ async function hymnusmajor(state: HoursState, lang: string): Promise<[string, st
 
 // Port of checkmtv.
 function checkmtv(version: string, w: { Rule?: string }): string {
-  return (/1955|196/.test(version) || /;mtv/i.test(w.Rule ?? '')) && /C[45]/.test(w.Rule ?? '')
+  return (/1955|196[03]/.test(version) || /;mtv/i.test(w.Rule ?? '')) && /C[45]/.test(w.Rule ?? '')
     ? '1'
     : ''
 }
