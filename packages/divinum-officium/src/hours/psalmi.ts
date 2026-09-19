@@ -144,75 +144,83 @@ async function psalmiMajor(state: HoursState, lang: string): Promise<string[]> {
     }
   }
 
-  // De tempore / Sancti antiphon override.
-  let w = ''
-  let c = 0
-  const wsec = winnerOf(state, lang)
-
-  if (hora === 'Vespera' && state.day.vespera === 3) {
-    if (wsec['Ant Vespera 3'] !== undefined) {
-      w = wsec['Ant Vespera 3'] ?? ''
-      c = /Tempora/.test(state.day.winner) ? 2 : 3
-    } else if (
-      wsec['Ant Vespera'] === undefined &&
-      (/ex/.test(state.day.communetype) ||
-        (/Trident/i.test(version) && /Sancti/i.test(state.day.winner)))
-    ) {
-      ;[w, c] = await getproprium(state, 'Ant Vespera 3', lang, true)
-    }
-  }
-
-  if (!w && wsec[`Ant ${hora}`] !== undefined) {
-    w = wsec[`Ant ${hora}`] ?? ''
-    c = /Tempora/.test(state.day.winner) ? 2 : 3
-  }
-
   const antecapitulum = state.day.state.antecapitulum
-  if (antecapitulum) {
-    w = columnsel(state, lang) ? antecapitulum : state.day.state.antecapitulum2
-    c = 3
-  } else if (w) {
-    // antiphons from the winner — comment already set
-  } else if (
-    (state.day.communetype && /ex/.test(state.day.communetype)) ||
-    (/Trident/i.test(version) && hora === 'Laudes' && /Sancti/.test(state.day.winner))
-  ) {
-    ;[w, c] = await getproprium(state, `Ant ${hora}`, lang, true)
-  }
-  if (w) {
-    antiphones = splitPerl(w)
-    comment = c
-  }
-
-  // Psalmi de dominica.
+  const wsec = winnerOf(state, lang)
+  let c = 0
   let p: string[]
-  if (
-    (/Psalmi Dominica/i.test(rule) || (communeRule && /Psalmi Dominica/i.test(communeRule))) &&
-    !/;;\s*[0-9]+/.test(antiphones[0] ?? '') &&
-    !/Psalmi Feria/i.test(rule)
-  ) {
-    prefix = `${await state.texts.translate('Psalmi, antiphonae', lang)} `
-    let h: string = hora
-    if (hora === 'Laudes' && !/Monastic/.test(version)) h += '1'
-    p = splitPerl(psalmiFile[`Day0 ${h}`])
 
-    if (/Monastic/.test(version) && hora === 'Laudes') {
-      p = splitPerl(psalmiFile['DaymF Laudes'])
-    } else if (/Trident/.test(version) && hora === 'Laudes') {
-      p = splitPerl(psalmiFile['DayaC Laudes'])
-    }
+  if (/Psalmi ex Psalterio/.test(rule)) {
+    // Psalms straight from the psalter — no proper antiphons are looked up.
+    p = []
+    comment = 1
   } else {
-    p = psalmi
-    // Sunday psalms when a 'Psalmi Feria' rule is used (e.g. Sundays in
-    // octaves) — the Perl comments say Cist but tests plain /monastic/i.
-    if (
-      dayofweek === 0 &&
-      /Psalmi Feria/i.test(rule) &&
-      /monastic/i.test(version) &&
-      hora === 'Laudes'
+    // De tempore / Sancti antiphon override.
+    let w = ''
+
+    if (hora === 'Vespera' && state.day.vespera === 3) {
+      if (wsec['Ant Vespera 3'] !== undefined) {
+        w = wsec['Ant Vespera 3'] ?? ''
+        c = /Tempora/.test(state.day.winner) ? 2 : 3
+      } else if (
+        wsec['Ant Vespera'] === undefined &&
+        (/ex/.test(state.day.communetype) ||
+          (/Trident/i.test(version) && /Sancti/i.test(state.day.winner)))
+      ) {
+        ;[w, c] = await getproprium(state, 'Ant Vespera 3', lang, true)
+      }
+    }
+
+    if (!w && wsec[`Ant ${hora}`] !== undefined) {
+      w = wsec[`Ant ${hora}`] ?? ''
+      c = /Tempora/.test(state.day.winner) ? 2 : 3
+    }
+
+    if (antecapitulum) {
+      w = columnsel(state, lang) ? antecapitulum : state.day.state.antecapitulum2
+      c = 3
+    } else if (w) {
+      // antiphons from the winner — comment already set
+    } else if (
+      (state.day.communetype && /ex/.test(state.day.communetype)) ||
+      (/Trident/i.test(version) && hora === 'Laudes' && /Sancti/.test(state.day.winner))
     ) {
-      p = splitPerl(psalmiFile['DayaC Laudes2'])
-      p[2] = ';;62'
+      ;[w, c] = await getproprium(state, `Ant ${hora}`, lang, true)
+    }
+    if (w) {
+      antiphones = splitPerl(w)
+      comment = c
+    }
+
+    // Psalmi de dominica — only with antiphons of its own to sing them under.
+    if (
+      (/Psalmi Dominica/i.test(rule) || (communeRule && /Psalmi Dominica/i.test(communeRule))) &&
+      antiphones.length > 0 &&
+      !/;;\s*[0-9]+/.test(antiphones[0] ?? '') &&
+      !/Psalmi Feria|Psalmi ex Psalterio/i.test(rule)
+    ) {
+      prefix = `${await state.texts.translate('Psalmi, antiphonae', lang)} `
+      let h: string = hora
+      if (hora === 'Laudes' && !/Monastic/.test(version)) h += '1'
+      p = splitPerl(psalmiFile[`Day0 ${h}`])
+
+      if (/Monastic/.test(version) && hora === 'Laudes') {
+        p = splitPerl(psalmiFile['DaymF Laudes'])
+      } else if (/Trident/.test(version) && hora === 'Laudes') {
+        p = splitPerl(psalmiFile['DayaC Laudes'])
+      }
+    } else {
+      p = psalmi
+      // Sunday psalms when a 'Psalmi Feria' rule is used (e.g. Sundays in
+      // octaves) — the Perl comments say Cist but tests plain /monastic/i.
+      if (
+        dayofweek === 0 &&
+        /Psalmi Feria/i.test(rule) &&
+        /monastic/i.test(version) &&
+        hora === 'Laudes'
+      ) {
+        p = splitPerl(psalmiFile['DayaC Laudes2'])
+        p[2] = ';;62'
+      }
     }
   }
 
@@ -420,8 +428,8 @@ async function psalmiMinor(state: HoursState, lang: string): Promise<string[]> {
     if (
       /19(?:55|60|62)/.test(version) &&
       (/horas1960 feria/i.test(state.rule) ||
-        (/Sancti/i.test(state.day.winner) && state.day.rank < 5) ||
-        ((/sancti/i.test(state.day.winner) || /Nat[23]/i.test(state.day.winner)) &&
+        (/Sancti|C[1-7]/i.test(state.day.winner) && state.day.rank < 5) ||
+        ((/Sancti|C[1-7]/i.test(state.day.winner) || /Nat[23]/i.test(state.day.winner)) &&
           state.day.rank < 6 &&
           hora !== 'Completorium'))
     ) {
@@ -467,7 +475,7 @@ async function psalmiMinor(state: HoursState, lang: string): Promise<string[]> {
       comment = 6
     }
     const w = winnerOf(state, lang)
-    ant = w[`Ant Completorium${state.day.vespera || ''}`] || ant
+    ant = w[`Ant Completorium${state.day.vespera || ''}`] || w['Ant Completorium'] || ant
   }
 
   // Seasonal antiphon override (Advent / Paschaltide …).

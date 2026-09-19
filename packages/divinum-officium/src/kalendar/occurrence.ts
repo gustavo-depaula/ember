@@ -251,7 +251,7 @@ export async function occurrence(state: KalendarState, tomorrow: boolean): Promi
   // --- Temporal ---
   let tfile = ''
   {
-    const tday = `${subdirname('Tempora', version)}${weekname}${!/Nat/i.test(weekname) ? `-${dayofweek}` : ''}`
+    let tday = `${subdirname('Tempora', version)}${weekname}${!/Nat/i.test(weekname) ? `-${dayofweek}` : ''}`
 
     tempTransfer = (
       (await directorium.getFromDirectorium('transfer', version, tday, year)) ||
@@ -261,6 +261,8 @@ export async function occurrence(state: KalendarState, tomorrow: boolean): Promi
     if (tempTransfer.includes('~')) {
       const tr = tempTransfer.split('~')
       tempTransfer = tr.shift() ?? ''
+      // A second '~' field naming a Tempora office replaces the day's own.
+      if (/Tempora/i.test(tr[0] ?? '')) tday = tr.shift() ?? tday
       // Upstream `@transfers = @transfers || @tr` collapses a non-empty list
       // to its count (Perl scalar-context quirk); we port the evident intent.
       if (transfers.length === 0) transfers = tr
@@ -582,7 +584,7 @@ export async function occurrence(state: KalendarState, tomorrow: boolean): Promi
   if (
     !num(state.srank[2]) ||
     (/19(?:55|6)|Monastic.*Divino/i.test(version) && num(state.srank[2]) <= 1.1) ||
-    /Sanctæ Mariaæ Sabbato/i.test(state.trank[0] ?? '')
+    /Sanctæ Mariæ Sabbato/i.test(state.trank[0] ?? '')
   ) {
     state.sanctoraloffice = false
   } else if (num(state.srank[2]) > num(state.trank[2])) {

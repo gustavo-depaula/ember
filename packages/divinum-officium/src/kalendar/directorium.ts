@@ -75,8 +75,11 @@ export async function createDirectorium(loader: DoLoader): Promise<Directorium> 
     lines: string[],
     versionTableId: string,
     target: Record<string, string>,
+    // load_transfers anchors the version id on word boundaries; load_tempora
+    // still matches it anywhere in the ';;' field.
+    wholeWord = false,
   ): void {
-    const versionRegex = new RegExp(versionTableId)
+    const versionRegex = new RegExp(wholeWord ? `\\b${versionTableId}\\b` : versionTableId)
     for (const raw of lines) {
       const [line, ver] = raw.split(/\s*;;\s*/)
       if (!line) continue
@@ -151,7 +154,7 @@ export async function createDirectorium(loader: DoLoader): Promise<Directorium> 
 
     const tableId =
       type === 'Transfer' ? versionData(version).transfer : versionData(version).stransfer
-    applyVersionFilter(lines, tableId, table)
+    applyVersionFilter(lines, tableId, table, true)
     cache.set(key, table)
     return table
   }

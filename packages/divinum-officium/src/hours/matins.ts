@@ -558,7 +558,7 @@ export async function hymnusmatutinum(state: HoursState, lang: string): Promise<
 
 // checkmtv (matins copy — same logic as the Vespers one).
 function checkmtvMatins(version: string, w: { Rule?: string }): string {
-  return (/1955|196/.test(version) || /;mtv/i.test(w.Rule ?? '')) && /C[45]/.test(w.Rule ?? '')
+  return (/1955|196[03]/.test(version) || /;mtv/i.test(w.Rule ?? '')) && /C[45]/.test(w.Rule ?? '')
     ? '1'
     : ''
 }
@@ -1112,7 +1112,10 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
       (homilyflag === 1 || state.day.commemoratioSections[`Lectio${j0}`] !== undefined) &&
       state.day.comrank > 1 &&
       !/Cist/i.test(version) &&
-      (state.day.rank > 4 || (state.day.rank >= 3 && /Trident/i.test(version)) || homilyflag === 1)
+      (state.day.rank > 4 ||
+        (state.day.rank >= 3 && /Trident/i.test(version)) ||
+        homilyflag === 1 ||
+        state.votive !== 'Hodie')
     ) {
       wl = commemoratioOf(state, lang)
       wc = wl[`Lectio${j0}`] ?? ''
@@ -1877,6 +1880,12 @@ async function lectioE(state: HoursState, lang: string): Promise<string> {
 
   e = e.filter((l) => !/^!/.test(l))
   if (e.length > 0) e[0] = e[0].replace(/^(v\. )?/, 'v. ')
+  // ¶ marks where the Dominican Gospel reading stops; elsewhere it is dropped.
+  if (e.length > 0) {
+    e[0] = /Praedicatorum/.test(version)
+      ? e[0].replace(/\s*¶[\s\S]*/, '')
+      : e[0].replace(/\s*¶/, '')
+  }
 
   return ['v. ' + begin, e.join(' ')].join('\n')
 }

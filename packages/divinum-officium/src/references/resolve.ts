@@ -142,7 +142,7 @@ async function loadLayered(
 
   const promise = (async (): Promise<Sections | undefined> => {
     let base: Sections = { __preamble: '' }
-    if (effLang === session.fallbackLang) {
+    if (effLang === session.fallbackLang && effLang !== 'Latin') {
       base = (await loadLayered(
         session,
         lang.includes('../missa') ? '../missa/Latin' : 'Latin',

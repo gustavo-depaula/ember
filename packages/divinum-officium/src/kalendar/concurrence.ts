@@ -319,7 +319,9 @@ export async function concurrence(state: KalendarState, lang2?: string): Promise
 
     if (
       // On Saturday, 1st Vespers gets commemorated in Festis I cl
-      (state.rank >= (/19(?:55|6)/.test(version) && dayofweek < 6 ? 6 : 7) && crank < 6) ||
+      (state.rank >=
+        (/19(?:55|6)/.test(version) && !/Barroux/.test(version) && dayofweek < 6 ? 6 : 7) &&
+        crank < 6) ||
       // 1960: on a II cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
       (/196/.test(version) &&
         /Dominica/i.test(cwinnerH.Rank ?? '') &&

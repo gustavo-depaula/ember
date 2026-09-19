@@ -7,7 +7,7 @@ import { existsSync } from 'node:fs'
 import { resolve } from 'node:path'
 
 export const doRepoUrl = 'https://github.com/DivinumOfficium/divinum-officium.git'
-export const pinnedCommit = 'b94d5f28410ab767d108e7a3defe55c8a93fe649'
+export const pinnedCommit = '5e27a65f632350719c697960e5416001a9e77a5c'
 export const doCloneDir = resolve(__dirname, '..', '.divinum-officium')
 
 function git(args: string, cwd: string = doCloneDir): string {
