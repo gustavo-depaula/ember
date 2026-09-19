@@ -5,12 +5,13 @@ import {
   defaultBuildOptions,
   ItemType,
   layoutLines,
+  type ParagraphItems,
 } from 'justif/core'
 import { hyphenateEnUS } from 'justif/hyphenate/en-us'
 import { createHyphenator } from 'justif/hyphenate/liang'
 import { hyphenatePt } from 'justif/hyphenate/pt'
 
-import type { TextStyle } from 'react-native'
+import { PixelRatio, type TextStyle } from 'react-native'
 
 import type { ReadingFontId } from '@/config/readingFonts'
 import { type FontMetrics, getFontMetrics, type TextStyleName } from './fontMetrics'
@@ -147,28 +148,111 @@ function getHyphenator(language: string | undefined) {
 }
 
 /**
- * How far short of its container a justified line is placed.
+ * How far short of its container the breaker places a line.
  *
- * A line must never land ON the width of the `Text` it sits in: the platform
- * answers that with a spurious line break (facebook/react-native#15893, both
- * iOS and Android), and since `JustifiedText` joins each line to the next with
- * a newline, that break lands on an empty line box and pushes the rest of the
- * paragraph down — past the height the platform measured for it, so the last
- * line comes out as blank space with its text simply gone.
+ * The platform measures a `Text` at the width Yoga offers it, then draws it in
+ * a frame Yoga has rounded to the pixel grid — up to half a device pixel
+ * narrower. A line that fit at measure and does not fit at draw is re-broken
+ * at draw only: the break lands on an empty line box (the newline that was
+ * meant to end it), everything below shifts down, and the last line falls
+ * outside the height the view was given — never laid out, its slot blank.
+ * That is exactly one device pixel of headroom, and it is the whole of the
+ * platform's share.
  *
- * One pixel — what the renderer used to reserve — is not enough, because these
- * tables model advances but not SHAPING. Kerning and contextual pairs live in
- * GPOS in all seven faces and cost about a megabyte to carry, so they stay
- * unmodelled. Measured against a real shaper over 12 chapters × 7 faces × 5
- * sizes × 4 measures, that disagreement reaches 0.19 em on a full line: 2,535
- * of 389,467 justified lines landed at or past the container's width. At
- * 0.25 em, none of 400,011 did, and the tightest still cleared it by 1.09 px.
+ * The rest is the model's share. The tables carry advances, the f-ligatures
+ * and GPOS pair kerning, so what they sum is what a shaper draws to within
+ * the pairs the font applies contextually; measured against a real shaper
+ * over 12 chapters × 7 faces × 5 sizes × 4 measures that residual stays under
+ * a CSS pixel on a full line, so one CSS pixel is what is reserved for it.
+ * Whatever exceeds both is caught at measure time by `JustifiedText`'s
+ * `onTextLayout` loop, which re-breaks a paragraph the platform laid out on
+ * more lines than the model — so the headroom only has to cover the case the
+ * platform never reports.
  *
- * The cost is a uniform inset, not ragged endings — every line aims at the same
- * target, so the right margin just sits a quarter of an em further in.
+ * Two pixels on a 393-pt phone, uniformly, on every line: the right margin
+ * moves in by less than a hair, and lines still meet it flush.
  */
-export function measureHeadroomPx(fontSizePx: number) {
-  return Math.max(3, fontSizePx * 0.25)
+export function measureHeadroomPx() {
+  return 1 / PixelRatio.get() + 1
+}
+
+/**
+ * The most `JustifiedText` will narrow a paragraph's measure, a pixel per
+ * attempt, before concluding the model cannot describe how the platform sets
+ * this text and handing it to the ragged fallback. A tenth of an em is well
+ * past any disagreement a shaper has shown; a paragraph that still needs more
+ * is being drawn in something other than the face that was measured.
+ */
+export function maxCorrectionPx(fontSizePx: number) {
+  return Math.max(2, Math.round(fontSizePx * 0.1))
+}
+
+/** How much narrower than its measure a paragraph is currently being set. */
+export type MeasureCorrection = { key: string; px: number }
+
+/**
+ * One step of `JustifiedText`'s layout loop: the platform has reported how
+ * many lines it laid the paragraph out on. More lines than the model has means
+ * a line the breaker placed did not fit the platform's own shaping — narrow the
+ * measure by a pixel and let the breaker try again, from zero if `key` (what
+ * the model was built from: measure, size, face, language) has changed since
+ * the last correction. Returns `undefined` when nothing needs to change, so
+ * the caller can skip the render. Fewer lines than the model cannot happen:
+ * every model line ends in a newline the platform has to honour.
+ */
+export function correctMeasure(
+  prev: MeasureCorrection,
+  key: string,
+  platformLines: number,
+  modelLines: number,
+): MeasureCorrection | undefined {
+  if (!modelLines || platformLines <= modelLines) return undefined
+  return { key, px: (prev.key === key ? prev.px : 0) + 1 }
+}
+
+/**
+ * What a word's fragments are worth at a line edge, as opposed to inside it.
+ *
+ * justif prices a hyphenation by measuring the word's cumulative prefixes and
+ * taking differences, so the box after a break point carries the kern (or the
+ * ligature) it forms with the glyph before it — `tal` after `to‑`, `Vos` after
+ * `consagro-` — and sums exactly to the kerned word when the line does NOT
+ * break there. When it does, the screen draws the fragment on its own, without
+ * that pair, and the line comes out wider than it was placed; the fragment
+ * before the break, meanwhile, gains the pair it forms with the hyphen glyph.
+ * Measured against a real shaper this was the entire residual left once
+ * kerning was modelled: every worst line began at a hyphen.
+ *
+ * justif has the exact hook, per box: `lp` is extra room credited when the box
+ * starts a line, `rp` on a penalty when the line ends on its hyphen. Both are
+ * what protrusion would set; with protrusion off they are ours to fill.
+ */
+function creditBreakEdges(items: ParagraphItems['items'], runs: readonly JustifRun[]) {
+  const joint = (run: JustifRun, a: string, b: string) => {
+    const m = run.metrics
+    const kerned = run.letterSpacingPx === 0
+    return (
+      m.width(a + b, run.sizePx, kerned) -
+      m.width(a, run.sizePx, kerned) -
+      m.width(b, run.sizePx, kerned)
+    )
+  }
+  for (let i = 1; i < items.length - 1; i++) {
+    const penalty = items[i]
+    if (penalty.type !== ItemType.Penalty || !penalty.flagged) continue
+    const before = items[i - 1]
+    const after = items[i + 1]
+    if (before.type !== ItemType.Box || after.type !== ItemType.Box) continue
+    if (before.run !== after.run || !before.text || !after.text) continue
+    const run = runs[before.run]
+    const last = before.text[before.text.length - 1]
+    // The fragment after the break renders without the pair it was measured
+    // with. A negative kern made it narrower inside the word than it will be
+    // alone, so the room it needs is `-kern` more — a credit of `kern`.
+    after.lp = joint(run, last, after.text[0])
+    // A materialised hyphen is drawn right after `last`, and kerns with it.
+    if (penalty.width > 0) penalty.rp = -joint(run, last, '-')
+  }
 }
 
 export type JustifyOptions = {
@@ -276,7 +360,12 @@ export function justifyText({
   // `Measure` without widening its type at the call site.
   const measure = {
     width(t: string, run: JustifRun) {
-      return run.metrics.width(t, run.sizePx) + run.letterSpacingPx * spacedLength(t)
+      // A tracked run is measured unkerned: iOS maps `letterSpacing` onto the
+      // kern attribute, which REPLACES the font's pair table for that run.
+      return (
+        run.metrics.width(t, run.sizePx, run.letterSpacingPx === 0) +
+        run.letterSpacingPx * spacedLength(t)
+      )
     },
     charAdvance(ch: string, run: JustifRun) {
       return run.metrics.charAdvance(ch, run.sizePx) + run.letterSpacingPx
@@ -308,6 +397,7 @@ export function justifyText({
       ...(s.atomic ? { atomicKey: i + 1 } : {}),
     }))
     const para = buildItems(texts, runs, buildOptions, measure)
+    creditBreakEdges(para.items, runs)
     const breaks = breakParagraph(para, widthPx, { ...defaultBreakOptions })
     const lines = layoutLines(para, breaks, widthPx, buildOptions)
     if (!lines?.length) return undefined

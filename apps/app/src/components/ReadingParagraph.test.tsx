@@ -12,9 +12,9 @@ import { VersesBlock } from './VersesBlock'
 // the justifier decline. Giving the layout a real width is what lets these
 // exercise the justified render path rather than only its fallback.
 //
-// The breaker aims `measureHeadroomPx` short of this — 5.5px at the 22px
-// reading size — so the measure it actually works to is ~300px, which is what
-// the hyphenation fixture below is tuned against.
+// The breaker aims `measureHeadroomPx` short of this (a device pixel plus a
+// CSS pixel — 2px under jsdom), so the measure it actually works to is ~303px,
+// which is what the hyphenation fixture below is tuned against.
 const measuredWidth = 305
 const realRect = Element.prototype.getBoundingClientRect
 

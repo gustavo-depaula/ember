@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest'
 
 import { getFontMetrics } from '../fontMetrics'
-import { justifyText, measureHeadroomPx } from '../justifyText'
+import { correctMeasure, justifyText, maxCorrectionPx, measureHeadroomPx } from '../justifyText'
 
 const prose =
   'O Lord, open Thou my mouth to bless Thy holy name; cleanse my heart also from all vain, evil and wandering thoughts; enlighten my understanding, kindle my affections, that I may be able to recite this Office worthily, attentively and devoutly.'
@@ -74,6 +74,34 @@ describe('font metrics', () => {
     // at 22px, which is enough to overflow a line.
     const naive = m.width('a', 22) + m.width('f', 22) * 2 + m.width('lict', 22)
     expect(m.width('afflict', 22)).toBeLessThan(naive - 2)
+  })
+
+  // Which ligatures a face has is the face's business. Merriweather's `liga`
+  // defines only fi and fl, so a shaper sets "affligit" as af + ﬂ + igit —
+  // and so does the table, rather than rewriting ffl to a glyph the face lacks.
+  test('substitutes only the ligatures the face carries', () => {
+    const m = getFontMetrics('merriweather')
+    if (!m) throw new Error('no metrics')
+    const viaFl = m.width('af', 22, false) + m.width('ﬂ', 22, false) + m.width('igit', 22, false)
+    expect(m.width('affligit', 22, false)).toBeCloseTo(viaFl, 6)
+    expect(m.charAdvance('ﬄ', 22)).not.toBe(m.charAdvance('ﬂ', 22))
+  })
+
+  // These faces carry their pairs in GPOS only, and a shaper applies them by
+  // default: "AVATAR" draws 45 % of an em narrower than its advances sum in EB
+  // Garamond. The tables resolve the pairs at build time; the values here are
+  // the shaper's, measured in Chromium with the real face at 100px.
+  test('kerns pairs the way a shaper does', () => {
+    const m = getFontMetrics('eb-garamond')
+    if (!m) throw new Error('no metrics')
+    expect(m.width('AVATAR', 100)).toBeCloseTo(368.1, 0)
+    expect(m.width('AVATAR', 100, false)).toBeCloseTo(413.1, 0)
+    expect(m.width('Te', 100)).toBeCloseTo(95.5, 0)
+    expect(m.width('você', 100)).toBeCloseTo(168.5, 0)
+    // Kerning spans a soft hyphen — invisible to the shaper too.
+    expect(m.width('T­e', 100)).toBeCloseTo(m.width('Te', 100), 6)
+    // But not a run whose kerning the platform has switched off.
+    expect(m.width('Te', 100, false)).toBeCloseTo(106.0, 0)
   })
 })
 
@@ -155,33 +183,59 @@ describe('justifyText', () => {
     expect(narrow!.length).toBeGreaterThan(wide!.length)
   })
 
-  // The platform inserts a spurious line break when a line's own measurement
-  // lands on the container's width, and the paragraph then loses its last line
-  // to a blank slot. The breaker therefore aims short by more than the shaping
-  // error it cannot model — a quarter of an em, never under 3px.
-  test('keeps every line clear of the container edge', () => {
-    const container = 346
-    const fontSizePx = 22
+  // A justified line is stretched to its target, so what it renders at — each
+  // fragment measured ON ITS OWN, the way the screen draws it, plus the spaces
+  // the breaker allotted — has to come back at the target. Inside a word a
+  // fragment after a hyphenation point carries the kern it forms with the
+  // glyph before it; at a line edge that pair is never drawn, and the credits
+  // `creditBreakEdges` hands the breaker are what keep the sum honest.
+  test('lines that break inside a word still render at their target', () => {
+    const fontSizePx = 32
+    const widthPx = 345
     const m = getFontMetrics('eb-garamond')
     if (!m) throw new Error('no metrics')
-    const lines = justifyText({
-      source: prose,
-      widthPx: container - measureHeadroomPx(fontSizePx),
-      fontSizePx,
-      fontFamilyId: 'eb-garamond',
-    })
-    expect(measureHeadroomPx(fontSizePx)).toBeGreaterThanOrEqual(fontSizePx * 0.25)
-    expect(measureHeadroomPx(12)).toBe(3)
-    for (const line of lines!.slice(0, -1)) {
-      const width = line.pieces.reduce(
+    // "consagro-Vos": the fragment after the explicit hyphen kerns with it.
+    const source =
+      'Ó Rei divino, amabilíssimo Jesus, meu Redentor, meu Salvador, consagro-Vos hoje a total consagração de mim mesma, e a fortaleza da vontade, pelo amor com que a criaste.'
+    const lines = justifyText({ source, widthPx, fontSizePx, fontFamilyId: 'eb-garamond' })
+    if (!lines) throw new Error('declined')
+    expect(lines.length).toBeGreaterThan(3)
+    expect(lines.some((l) => l.hyphenated)).toBe(true)
+    for (const line of lines.slice(0, -1)) {
+      if (line.overfull) continue
+      const rendered = line.pieces.reduce(
         (sum, piece) =>
           sum +
           m.width(piece.text, fontSizePx) +
           (piece.spaceAfter ? m.width(' ', fontSizePx) + piece.spaceAfter.extraPx : 0),
         line.hyphenated ? m.width('-', fontSizePx) : 0,
       )
-      expect(width).toBeLessThan(container - 3)
+      expect(Math.abs(rendered - widthPx)).toBeLessThan(0.05)
     }
+  })
+
+  // The platform measures a Text at the width it is offered and draws it in a
+  // frame rounded to the pixel grid; a line that fits at measure and not at
+  // draw is re-broken at draw only, and the paragraph loses its last line to
+  // a blank slot. One device pixel is the platform's share of the headroom;
+  // one CSS pixel covers what the shaper snaps.
+  test('reserves a device pixel plus a CSS pixel of headroom', () => {
+    expect(measureHeadroomPx()).toBeGreaterThan(1)
+    expect(measureHeadroomPx()).toBeLessThanOrEqual(2)
+  })
+
+  test('narrows the measure when the platform lays out more lines than the model', () => {
+    const none = { key: '', px: 0 }
+    expect(correctMeasure(none, 'a', 11, 11)).toBeUndefined()
+    expect(correctMeasure(none, 'a', 10, 11)).toBeUndefined()
+    expect(correctMeasure(none, 'a', 12, 0)).toBeUndefined()
+    expect(correctMeasure(none, 'a', 12, 11)).toEqual({ key: 'a', px: 1 })
+    expect(correctMeasure({ key: 'a', px: 1 }, 'a', 12, 11)).toEqual({ key: 'a', px: 2 })
+    // A new measure, size or face starts over rather than inheriting a
+    // correction that belonged to a different layout.
+    expect(correctMeasure({ key: 'a', px: 2 }, 'b', 12, 11)).toEqual({ key: 'b', px: 1 })
+    expect(maxCorrectionPx(22)).toBe(2)
+    expect(maxCorrectionPx(32)).toBe(3)
   })
 
   test('declines rather than guessing when inputs are unusable', () => {
