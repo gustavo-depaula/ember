@@ -45,13 +45,7 @@ Verified by booting the real reader headlessly: 81/81 paragraphs managed, zero s
 
 React Native exposes no `wordSpacing` (confirmed in Fabric's `TextAttributes.h`), so Justif's DOM renderer can't be used. `justif/core` is DOM-free and takes an injectable `Measure`, which leaves one real gap: RN has no text-measurement API either.
 
-**`scripts/build-font-metrics.mjs`** closes it. The reading fonts ship as TTFs, so everything a shaper needs to set a line comes out of the file at build time into `lib/typography/fontMetrics.generated.ts` — 255 KB (70 KB gzipped) for all seven fonts. Re-run it when `readingFonts.ts` changes.
-
-- **Advances** (`hmtx` via `cmap`) for whole Unicode blocks — Latin-1, Latin Extended A/B/Additional, Greek and Greek Extended, General Punctuation, currency, letterlike, arrows, f-ligatures — intersected with each face's own cmap, minus the default-ignorable formatting characters (whose `hmtx` entry is a real advance while every shaper draws them at zero). Blocks rather than a hand-picked list, because a list is exactly the thing that falls behind the corpus: `º`, `ª`, `§`, `ǽ` and `‒` appear thousands of times under `content/` and every one of them was outside the original list, so every line they landed on was placed against the wrong width.
-- **Pair kerning** (GPOS `kern`, PairPos formats 1 and 2, behind Extension lookups where needed), resolved for every ordered pair of the *reading alphabet* — the letters, digits, punctuation, macron vowels and ligatures of en/pt/la/it — with all lookups applied in order and the first covering subtable winning within a lookup, as HarfBuzz does. The resolved table is then re-derived into classes (left = distinct rows, right = distinct columns) and each row is emitted as a dense string, two base-90 digits per cell, which Hermes stores as Latin-1: two bytes a cell against four or five for a JSON number. Merriweather kerns glyph by glyph (format 1 only) and does not class-compress — 203 × 200, 81 KB of the file — and carrying it exactly was the right call over a lossy merge, since its rows genuinely differ by more than 1 % of an em.
-- **f-ligatures** (GSUB `liga`, LigatureSubst) resolved to a glyph and filed under the presentation codepoint, for faces that reach `ﬁ` only through GSUB and never map U+FB01. `fontMetrics.ts` then substitutes only the ligatures a face actually carries: EB Garamond ligates all five, Merriweather only `fi`/`fl`, Cormorant none.
-
-Validated against a real shaper: per glyph, 0 advances disagree above 0.5 % of an em across all seven faces (bar Catalan `Ŀ`/`ŀ` in Libre Baskerville); per word, every kerned word in a 19-word probe matched Chromium to 0.0; per line, the worst disagreement over 12 chapters × 7 faces × 5 sizes × 4 measures is **0.42 px**, flat across sizes — sub-pixel snapping, not shaping. What remains unmodelled is `calt` (Cormorant swaps a narrow `f` before `l`), and it errs in the safe direction: the shaper draws narrower than the model, so the line sits a hair short rather than re-breaking.
+**`scripts/build-font-metrics.mjs`** closes it. The reading fonts ship as TTFs, so advance widths come out of `head`/`hhea`/`hmtx`/`cmap` at build time into `lib/typography/fontMetrics.generated.ts` — 12 KB for all seven fonts. Re-run it when `readingFonts.ts` changes.
 
 **`lib/typography/justifyText.ts`** wires those metrics into `buildItems` → `breakParagraph` → `layoutLines` and returns a per-line recipe. It returns `undefined` rather than guessing whenever anything is unusable — an unmeasured container, a font without a table, a paragraph the breaker declined.
 
@@ -101,33 +95,15 @@ Bilingual side-by-side is where it pays most; that ~170 px column is the narrowe
 
 ![The bilingual prayer column, before and after](../assets/justification-native-shipped.webp)
 
-### Seven traps, all found by measuring
+### Three traps, all found by measuring
 
 | Trap | Consequence | Handling |
 |---|---|---|
-| **f-ligatures** | a font draws `ffl` as one narrower glyph, so `afflict` measures 2.53 px wide — enough to overflow a line and cascade a re-wrap | substitute the presentation forms **the face carries** before summing advances; Merriweather has only `fi`/`fl`, so its `affligit` is `af` + `ﬂ` + `igit` |
+| **f-ligatures** | a font draws `ffl` as one narrower glyph, so `afflict` measures 2.53 px wide — enough to overflow a line and cascade a re-wrap | substitute U+FB00–FB04 before summing advances |
 | **letterfit tracking** | tracking is a fraction of the line's *set width*, not a per-character amount; modelling it as `trackRatio × 0.03 × fontSize` over-counted by ~26 px/line | `tracking: false` — word spaces are the only flex, and RN hits those to the pixel. Costs one line in nineteen |
-| **soft hyphens** | `lib/hyphenate.ts` already inserts them into prayer text; measured as real characters they inflate every hyphenated word | zero-width by codepoint — and kerning spans them, as it does for the shaper |
-| **a codepoint outside the table** | the face's fallback advance stands in for the real glyph, so the line is placed against a width the screen contradicts | the generator emits whole Unicode blocks intersected with the face's own cmap, and the fallback is the face's **widest** advance, so an unknown glyph can only leave a line short |
-| **kerning** | a shaper applies GPOS pairs by default; `AVATAR` in EB Garamond is 45 % of an em narrower than its advances sum, and across a line the miss reached 0.19 em | the generator resolves every pair of the reading alphabet at build time (above); a tracked run is measured unkerned, because iOS replaces the pair table with the fixed kern the moment `letterSpacing` is set |
-| **kerning across a break point** | justif prices a hyphenation from cumulative prefixes, so the fragment after a break carries the kern it forms with the glyph before it (`tal` after `to‑`, `Vos` after `consagro-`) — and once the line breaks there the screen never draws that pair | `creditBreakEdges`: the pair goes onto the box as justif's own line-start credit `lp`, and the pair a materialised hyphen forms with the letter before it onto the penalty's `rp`. With kerning modelled this was the *entire* remaining residual — every worst line began at a hyphen |
-| **landing on the container's width** | the platform measures at the width Yoga offers and draws in a frame rounded to the pixel grid; a line that fits at measure and not at draw is re-broken at draw only, the newline meant to end it lands on an empty line box, and the last line falls outside the height the view was given — never laid out, its slot blank | `measureHeadroomPx`: one device pixel (the platform's share) plus one CSS pixel (what the shaper snaps), uniformly on every line |
+| **soft hyphens** | `lib/hyphenate.ts` already inserts them into prayer text; measured as real characters they inflate every hyphenated word | zero-width by codepoint |
 
-The general rule behind the second one: **any flex the breaker is allowed must actually be rendered, or lines silently re-wrap.** Behind the rest: **the breaker's arithmetic has to be wrong in the safe direction — short of the measure, never past it.**
-
-### Three layers, and what each is for
-
-1. **The model is exact.** Advances, ligatures, kerning and break-edge kerning: what the tables sum is what a shaper draws, to under half a pixel on a full line. This is where the work belongs, because it is the only layer that costs nothing at render time and makes every line meet the margin flush.
-2. **The headroom covers what the platform never reports.** The measure-versus-draw window at the pixel grid is at most one device pixel, and the platform gives no signal when a line falls into it; so one device pixel is reserved, plus one CSS pixel for sub-pixel snapping. On a 393-pt phone that is 1.33 px, and lines still clear the edge by 0.97 px at the tightest.
-3. **The `onTextLayout` loop catches what the platform does report.** RN hands `JustifiedText` the lines it actually laid the paragraph out on, at measure time. More lines than the model means a line the breaker placed did not fit the platform's own shaping — a `calt` alternate, a face drawn by something other than the file that was measured; `correctMeasure` narrows the measure by a pixel and the breaker tries again, from zero whenever the measure, size, face or language changes. A paragraph still disagreeing after `maxCorrectionPx` (a tenth of an em) is one the model cannot describe, and it goes to the ragged fallback rather than to the screen — a lesser failure than a missing line. In the shaper measurements this layer never fires; it is there for the platforms that were not measured.
-
-Measured over 12 chapters × 7 faces × 5 sizes × 4 measures, rendering each modelled line with the real face:
-
-| | Lines | Landing at or past the container | Tightest clearance |
-|---|---|---|---|
-| Unkerned tables, 1 px headroom (before) | 389,467 | **2,535** — one line in 154 | −3.70 px |
-| Unkerned tables, 0.25 em headroom (interim) | 400,011 | 0 | 1.09 px, at a 5.5 px inset |
-| Exact model, 1 device px + 1 CSS px (now) | 388,635 | 0 | 0.97 px, at a 1.33 px inset |
+The general rule behind the second one: **any flex the breaker is allowed must actually be rendered, or lines silently re-wrap.**
 
 ### Not verified — gates this surface
 
