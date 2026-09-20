@@ -20,6 +20,9 @@ _site/
 # Archived source originals (kept locally, not in repo — see ~/Documents/ember-archive/)
 content/_archive/*/sources/
 
+# Copyrighted texts consulted during research — cite, never commit (see research/README.md)
+research/**/consult/
+
 # Expo
 .expo/
 dist/
