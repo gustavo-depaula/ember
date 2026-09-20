@@ -10,8 +10,13 @@ import { Text } from 'tamagui'
 
 import { getFontFamily, type ReadingFontId } from '@/config/readingFonts'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
-import type { Appearance, StyledSegment } from '@/lib/typography/justifyText'
-import { justifyText } from '@/lib/typography/justifyText'
+import type { Appearance, MeasureCorrection, StyledSegment } from '@/lib/typography/justifyText'
+import {
+  correctMeasure,
+  justifyText,
+  maxCorrectionPx,
+  measureHeadroomPx,
+} from '@/lib/typography/justifyText'
 import { styleToFace } from './prayer/InlineMarkdown'
 
 /**
@@ -50,14 +55,47 @@ export function JustifiedText({
   fallback: ReactNode
 } & ComponentProps<typeof Text>) {
   const [width, setWidth] = useState(0)
+  // How much narrower than the measure the breaker has been told to set this
+  // paragraph, after the platform laid it out on more lines than the model —
+  // see `onTextLayout` below. Keyed by what the model was built from, so a new
+  // measure, size or text starts again from zero rather than inheriting a
+  // correction that belonged to a different layout.
+  const [correction, setCorrection] = useState<MeasureCorrection>({ key: '', px: 0 })
+  const modelKey = `${width}|${fontSizePx}|${fontFamilyId}|${language ?? ''}`
+  const shrinkPx = correction.key === modelKey ? correction.px : 0
 
   const lines = useMemo(() => {
     if (!width) return undefined
-    // A pixel of headroom, because a line that ends up even a sub-pixel too
-    // wide does not merely look wrong — it wraps, pushing a word onto a line
-    // the breaker never planned.
-    return justifyText({ source, widthPx: width - 1, fontSizePx, fontFamilyId, language })
-  }, [width, source, fontSizePx, fontFamilyId, language])
+    if (shrinkPx > maxCorrectionPx(fontSizePx)) return undefined
+    return justifyText({
+      source,
+      widthPx: width - measureHeadroomPx() - shrinkPx,
+      fontSizePx,
+      fontFamilyId,
+      language,
+    })
+  }, [width, shrinkPx, source, fontSizePx, fontFamilyId, language])
+
+  // The platform reports the lines it actually laid the paragraph out on. When
+  // there are more of them than the model has, a line the breaker placed did
+  // not fit the platform's own shaping — a contextual alternate the tables
+  // cannot carry, a face rendered by something other than the file that was
+  // measured. That is caught here, at measure time, before anything is drawn:
+  // `correctMeasure` narrows the measure by a pixel and the breaker tries
+  // again. A paragraph that still disagrees after `maxCorrectionPx` is one the
+  // model cannot describe, and `lines` above sends it to the fallback — ragged
+  // text is a lesser failure than a missing line.
+  const modelLineCount = lines?.length ?? 0
+  const onTextLayout = useCallback(
+    (e: { nativeEvent: { lines: ReadonlyArray<unknown> } }) => {
+      // Read the count HERE, not inside the updater below: React Native pools
+      // synthetic events, so by the time an updater runs — in the render phase,
+      // after this handler has returned — `nativeEvent` has been nullified.
+      const platformLines = e.nativeEvent.lines.length
+      setCorrection((prev) => correctMeasure(prev, modelKey, platformLines, modelLineCount) ?? prev)
+    },
+    [modelLineCount, modelKey],
+  )
 
   // Emphasis resolves to a concrete font face, because React Native ignores
   // inherited fontWeight/fontStyle once fontFamily is set. Built once per
@@ -107,7 +145,7 @@ export function JustifiedText({
   return (
     // allowFontScaling would resize the text out from under metrics computed
     // at `fontSizePx`, so every line would be mis-measured.
-    <Text {...textProps} onLayout={onLayout} allowFontScaling={false}>
+    <Text {...textProps} onLayout={onLayout} onTextLayout={onTextLayout} allowFontScaling={false}>
       {lines.map((line, i) => (
         // biome-ignore lint/suspicious/noArrayIndexKey: line list is positional and regenerated wholesale
         <Fragment key={i}>
