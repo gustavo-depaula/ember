@@ -27,10 +27,9 @@ The fruits of Catholic tradition should be freely available to all. No one shoul
 
 1. Fork the repo and create a branch from `main`
 2. Read the [Conventions](docs/CONVENTIONS.md) and [Architecture](docs/ARCHITECTURE.md) before writing code
-3. Follow the docs-first workflow: if your feature doesn't have a spec in `docs/features/`, write one first
-4. Run `pnpm biome check --write .` before submitting
-5. Run `pnpm test` to verify nothing is broken
-6. Open a PR with a clear description of what changed and why
+3. Run `pnpm biome check --write .` before submitting
+4. Run `pnpm test` to verify nothing is broken
+5. Open a PR with a clear description of what changed and why
 
 ## Content Contributions
 
@@ -45,7 +44,6 @@ To understand the content model:
 - [Content & Collections](docs/features/corpus.md) — corpus format, pinning, content distribution
 - [Book format](docs/content/book-format.md)
 - [Content sources & licensing](docs/content/content-sources.md)
-- [Content pipeline](docs/content/PIPELINE.md) — see what's published, in progress, and where help is needed
 
 Content lives at the corpus root, one folder per kind: `content/prayers/`, `content/practices/`, `content/chapters/`, `content/books/`, `content/collections/`, etc. Just placing a file under the right folder is enough — the next `pnpm build:corpus` picks it up.
 
@@ -172,16 +170,9 @@ pnpm biome check --write .  # Format & lint
 | `packages/liturgical/` | Liturgical calendar, seasons, psalter |
 | `packages/mass-propers/` | EF Mass propers resolution engine |
 | `content/` | Corpus source — flat by kind (`prayers/`, `practices/`, `chapters/`, `books/`, `collections/`, ...) |
-| `docs/` | Architecture, specs, conventions, dev journal |
+| `docs/` | Architecture, conventions, authoring guides, content sources |
 
-For the full picture, see [Architecture](docs/ARCHITECTURE.md) and the [project overview](docs/README.md).
-
-## Docs-First Workflow
-
-This project follows a strict docs-first approach:
-
-1. **Before starting work:** read the relevant spec in `docs/features/`. If none exists, write one first.
-2. **After completing work:** update docs to reflect changes and add non-obvious learnings to `docs/journal.md`.
+For the full picture, see [Architecture](docs/ARCHITECTURE.md).
 
 ---
 

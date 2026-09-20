@@ -285,7 +285,7 @@ One paragraph each. See `types.ts` for the full schema.
 - **`response`** — see above.
 - **`prose`** — Markdown body, either a `file` path or a `book` + `chapter` lookup. For long-form content rendered by the prose pipeline.
 - **`image`**, **`gallery`**, **`holy-card`** — visual content. `gallery` supports `carousel` / `stack` / `row` layouts.
-- **`select`** / **`options`** — branching. `select` picks ONE option (by context or user choice); `options` shows ALL alternatives. See `docs/features/unified-flow-system.md`.
+- **`select`** / **`options`** — branching. `select` picks ONE option (by context or user choice); `options` shows ALL alternatives. See `docs/features/features-overview.md`.
 - **`repeat`** — expand a template N times, optionally iterating over flow-local data.
 - **`cycle`** / **`lectio`** / **`proper`** / **`include`** — dynamic content resolved at runtime (day-of-month/week data, lectio reading progress, Mass propers, content producers).
 - **`fragment`** / **`call`** — invoke a reusable section block. `call` is the runtime variant with optional `args`.

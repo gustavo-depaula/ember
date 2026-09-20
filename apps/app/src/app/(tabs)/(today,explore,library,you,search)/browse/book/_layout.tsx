@@ -21,7 +21,7 @@ import { useTheme } from 'tamagui'
  *     suspended; combined with the AppleZoom teardown it manifests as
  *     "everything except the native tab bar is dead" after dismissal.
  *
- * See `docs/future-plans/book-reader-followups.md` (Tech debt notes).
+ * See `docs/plans/book-reader-followups.md` (Tech debt notes).
  */
 const READER_MODAL_OPTIONS = {
   presentation: 'fullScreenModal',

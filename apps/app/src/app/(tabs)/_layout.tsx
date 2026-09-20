@@ -62,7 +62,10 @@ export default function TabsLayout() {
           bleed up into the notch — ScreenLayout's manual safe-area padding owns
           the insets. */}
       {/* Full-color illuminated icons. renderingMode="original" is essential —
-          the default ("template") would tint these to a flat gold silhouette. */}
+          the default ("template") would tint these to a flat gold silhouette.
+          An original-mode image renders at its logical point size and the bar
+          won't scale it down, so each icon ships as a name/@2x/@3x set resampled
+          to ~28pt tall (search ~32pt) from assets/nav-icons/source/. */}
       <NativeTabs.Trigger name="(today)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
           src={require('../../../assets/nav-icons/today.png')}

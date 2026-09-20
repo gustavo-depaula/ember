@@ -133,6 +133,7 @@ Key principles:
 - **Preserve the author's paragraph structure.** Don't merge or split paragraphs.
 - **Keep all Latin and scriptural quotations** exactly as they appear.
 - **Editor footnotes are scholarly apparatus** — preserve them as markdown footnotes. They add context about textual variants, historical references, and theological nuances.
+- **Text-layer PDFs:** extract the body with `pdftotext -bbox-layout` (each `<block>` is one paragraph) and two-column endnotes with `-raw` (bbox interleaves the columns); strip `\x0c` before any line regex. Model on `scripts/parse-aquinas-catechetical.py`.
 - **If text seems wrong, check the source website** before changing it. What looks like an error may be period spelling or a faithful transcription of the manuscript.
 
 ## Tools & Scripts

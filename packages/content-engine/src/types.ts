@@ -72,6 +72,9 @@ export type FlowDefinition = {
   fragmentSources?: string[]
 }
 
+// Adding a section type? Also register it in scripts/validate-flows.ts
+// (KNOWN_SECTION_TYPES) and the workshop flow editor (FlowNodeForm, FlowTree,
+// FlowPreview) — each keeps its own list and otherwise errors or renders `[type]`.
 export type FlowSection = { lang?: string } & (
   | { type: 'rubric'; text: LocalizedText }
   | { type: 'divider' }

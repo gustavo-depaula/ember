@@ -245,14 +245,13 @@ Do not add defensive try/catch around code with no expected failure mode. Let un
 - Use i18n keys from the `a11y` namespace for labels (both `en.ts` and `pt-BR.ts`)
 - Decorative elements (ornaments, flourishes, dividers) must be hidden from screen readers
 - Compact UI elements that could break at large font sizes need `maxFontSizeMultiplier`
-- See `docs/design/accessibility.md` for the full guide
 
 ## Testing
 
 Three layers, fastest to slowest:
 
 - **Unit (`*.test.ts`):** Vitest, colocated next to source. Deterministic business logic only — liturgical calculations, content engine, streak logic. No UI.
-- **Integration (`*.test.tsx`):** Vitest + React Native Testing Library on `react-native-web` in jsdom. Real SQLite (better-sqlite3, `:memory:`), real Hearth corpus (read from `_site/hearth/v2/` on disk), real Zustand stores, real flow engine, real Tamagui. Drives multi-screen flows headlessly — no simulator, no dev server. Use for: render correctness, interaction flows, query/state plumbing. See `apps/app/src/test/renderApp.tsx` and `apps/app/src/features/practices/components/PracticeFlow.test.tsx` for the worked example.
+- **Integration (`*.test.tsx`):** Vitest + React Native Testing Library on `react-native-web` in jsdom. Real SQLite (better-sqlite3, `:memory:`), real Hearth corpus (read from `_site/hearth/v2/` on disk), real Zustand stores, real flow engine, real Tamagui. Drives multi-screen flows headlessly — no simulator, no dev server. Use for: render correctness, interaction flows, query/state plumbing. See `apps/app/src/test/renderApp.tsx` and `apps/app/src/features/practices/components/PracticeFlow/__tests__/PracticeFlow.test.tsx` for the worked example.
 - **E2E (Maestro):** `apps/app/.maestro/` against a running iOS sim. Covers animations, gestures, native bridges — anything the jsdom layer can't. Run with `pnpm --filter @ember/app test:e2e`.
 
 Common conventions:
@@ -271,7 +270,7 @@ Reach for unit (`*.test.ts`) only when the logic is genuinely UI-free. Reach for
 
 ### Writing an integration test
 
-There's a working reference at `apps/app/src/features/practices/components/PracticeFlow.test.tsx` — skim it for the harness shape, then write what your feature needs.
+There's a working reference at `apps/app/src/features/practices/components/PracticeFlow/__tests__/PracticeFlow.test.tsx` — skim it for the harness shape, then write what your feature needs.
 
 Rules:
 

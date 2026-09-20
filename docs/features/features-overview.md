@@ -79,7 +79,7 @@ A flow is a JSON `{ sections: Section[] }`. The DSL is designed to be expressive
 
 **Structural:**
 - `repeat` — expand template N times, optionally iterating over flow-local data with `{{placeholder}}` substitution
-- `select` — conditional branching based on context (day of week, time of day, liturgical season, user preference, or manual choice). See `docs/features/unified-flow-system.md` for the full spec.
+- `select` — conditional branching based on context (day of week, time of day, liturgical season, user preference, or manual choice).
 - `options` — shows ALL alternatives simultaneously (distinct from `select` which picks ONE)
 - `fragment` — `{ ref: "name" }` expands a reusable section block defined in the flow's `fragments` map. Fragments can reference other fragments for composition.
 
@@ -89,11 +89,9 @@ A flow is a JSON `{ sections: Section[] }`. The DSL is designed to be expressive
 - `lectio` — reading from current progress (testament: `ot` | `nt` | `catechism`)
 - `seasonal` — content varying by liturgical season (hymns, Marian antiphons)
 - `proper` — Mass proper slot filled from propers data source (EF bundled, OF via API)
-- `include` — `{ ref: "producer/<id>", params?: {...} }` invokes a content producer and inlines its output. Same primitive serves anchored book refs for inline excerpts: `{ ref: "book/ccc#507-509" }`. Producers are built-in code packages that compute content at runtime (Mass flow, external book chapters, today's gospel, etc.). Usable at any depth — inside `select`, `repeat`, `cycle`, or at the top level. See `docs/features/producers.md`.
+- `include` — `{ ref: "producer/<id>", params?: {...} }` invokes a content producer and inlines its output. Same primitive serves anchored book refs for inline excerpts: `{ ref: "book/ccc#507-509" }`. Producers are built-in code packages that compute content at runtime (Mass flow, external book chapters, today's gospel, etc.). Usable at any depth — inside `select`, `repeat`, `cycle`, or at the top level.
 
 ### Unified Flow System
-
-> Full spec: `docs/features/unified-flow-system.md`
 
 Each practice has **one flow** — a self-contained JSON document with all conditional logic expressed via the `select` section type. The flow describes the complete prayer, including branches for different contexts (day of week, time of day, liturgical form, manual choice).
 
@@ -101,9 +99,11 @@ Each practice has **one flow** — a self-contained JSON document with all condi
 - `select` — picks one option from a list, based on context or manual choice. Three modes: silent conditional (no UI), default+override (auto-picks but shows picker), manual (user must choose).
 - `repeat` with `data` — iterates over flow-local data arrays with template substitution.
 - `options` — shows ALL alternatives simultaneously (distinct from `select` which picks ONE).
+- `from` on `repeat` / `options` — names the array to iterate. The string is template-substituted first (`"{{mysteries}}"` → `"joyful"`), then looked up in `resolve` outputs, then in the flow's top-level `data`. Each entry's fields become `{{placeholders}}`, plus `{{index}}` and `{{ordinal}}`; `options` takes each tab's label from the entry's `label` field.
+- `fragment` — `{ "type": "fragment", "ref": "decade" }` expands a named block from the flow's top-level `fragments` map. Fragments may reference other fragments and inherit the surrounding template variables, so a fragment inside a `repeat from` works as a parameterized template. Unknown refs produce no output.
 - `alternativeTo` on manifests — groups practice alternatives so the user can switch between them (e.g., Traditional vs Montfort Rosary meditations are separate practices that share a slot).
 
-**Replaces:** the earlier variants, forms, multiple flows, and `setKeyOverride` mechanisms.
+Worked examples: `docs/content/practice-examples/`.
 
 ### Resolution Engine
 
@@ -133,21 +133,22 @@ The engine is in `packages/content-engine/`. The app wires app services via `Eng
       "label": { "en-US": "Mysteries" },
       "map": { "0": "glorious", "1": "joyful", "2": "sorrowful", "3": "glorious", "4": "luminous", "5": "sorrowful", "6": "joyful" },
       "options": [
-        { "id": "joyful", "label": { "en-US": "Joyful Mysteries" } },
-        { "id": "sorrowful", "label": { "en-US": "Sorrowful Mysteries" } },
-        { "id": "glorious", "label": { "en-US": "Glorious Mysteries" } },
-        { "id": "luminous", "label": { "en-US": "Luminous Mysteries" } }
+        { "id": "joyful", "label": { "en-US": "Joyful Mysteries" }, "sections": [
+          { "type": "repeat", "count": 5, "from": "joyful", "sections": [
+            { "type": "heading", "text": "{{ordinal}} Mystery: {{name}}" },
+            { "type": "meditation", "text": "{{meditation}}" },
+            "... decade prayers ..."
+          ]}
+        ]},
+        "... sorrowful, glorious, luminous — same shape ..."
       ]
     },
-    { "type": "repeat", "count": 5, "data": "{{mysteries}}", "sections": [
-      { "type": "heading", "text": "{{ordinal}} Mystery: {{name}}" },
-      { "type": "meditation", "text": "{{meditation}}" },
-      "... decade prayers ..."
-    ]},
     "... closing prayers ..."
   ]
 }
 ```
+
+Everything that varies with a labeled `select` lives inside its option bodies. Switching a tab swaps branches client-side without re-resolving the flow, so a section outside the select that reads its `as` variable stays frozen on the default pick.
 
 This single flow handles all four mystery sets via `select` + `repeat` — no variants, no multiple flows.
 
@@ -340,14 +341,14 @@ Stores: `preferencesStore` (all user preferences) and `navigationStore` (ephemer
 
 **Bible Reader** — Two-drawer navigation (books left, chapters right). Bundled Douay-Rheims (73 books, only public-domain English Catholic Bible). Online translations via Bolls.life API cached in SQLite. See `apps/app/src/features/bible/`.
 
-**Catechism Reader** — Three-panel sliding drawer for the CCC's 5-level hierarchy (~2,865 paragraphs). See `apps/app/src/features/catechism/`.
+**Catechism Reader** — Three-panel sliding drawer for the CCC's 5-level hierarchy (~2,865 paragraphs).
 
 **Mass (Ordo Missae)** — Complete ordinary with OF/EF toggle. EF propers filled daily from bundled Divinum Officium data (Latin, English, Portuguese). OF propers sourced from the vendored `ember-extra` corpus (Latin, English, Portuguese). Three view modes: Full, Propers, Readings. See `packages/mass-of/` and `packages/mass-propers/`.
 
-**Reading Config** — Shared reading styles across all reading surfaces. 7 curated serif fonts, 5-step sizing scales, margins, alignment. See `apps/app/src/features/reading-config/`.
+**Reading Config** — Shared reading styles across all reading surfaces. 7 curated serif fonts, 5-step sizing scales, margins, alignment.
 
 **i18n** — react-i18next with English + Brazilian Portuguese, ~150 keys, synchronous init. See `apps/app/src/lib/i18n/`.
 
-**Book Reader** — WebView with CSS column pagination for long-form prose. Each chapter is fetched as its own hash-addressed blob; markdown converted at runtime via `marked`. See `apps/app/src/features/books/bookReader.ts`.
+**Book Reader** — WebView with CSS column pagination for long-form prose. Each chapter is fetched as its own hash-addressed blob; markdown converted at runtime via `marked`. See `apps/app/src/features/books/reader/`.
 
-**Catholic Creators** *(planned, in design)* — Editor-curated directory of orthodox priests/teachers (podcast, YouTube, RSS). In-app audio (background playback, lock-screen), YouTube iframe player, article reader, on-device global doctrinal search (FlexSearch over feed-items + corpus + chapter markers), and (v1.1) Pray-with playlists for guided Rosary etc. New corpus kinds `creator` and `playlist`. See [creators/README.md](creators/README.md) for the PRD and per-phase technical designs.
+**Catholic Creators** *(planned, in design)* — Editor-curated directory of orthodox priests/teachers (podcast, YouTube, RSS). In-app audio (background playback, lock-screen), YouTube iframe player, article reader, on-device global doctrinal search (FlexSearch over feed-items + corpus + chapter markers), and (v1.1) Pray-with playlists for guided Rosary etc. New corpus kinds `creator` and `playlist`. See `docs/plans/creators/` for the PRD and the unbuilt phases.

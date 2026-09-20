@@ -31,7 +31,7 @@ export type PracticeContent = {
 // Select tabs are intentionally NOT an input here: the flow resolves with the
 // engine's auto/default pick and materializes every select branch's structure.
 // Switching a tab is handled client-side (SelectBranch) so it never re-resolves
-// the whole practice. See docs/journal.md.
+// the whole practice.
 export function usePracticeContent(
   practiceId: string,
   programDayProp: number | undefined,

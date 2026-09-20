@@ -21,8 +21,8 @@ const sourceLangToSchema: Record<SourceLang, Lang> = {
  * indices. Those indices are aligned across all 7 languages by construction, so
  * one index-range map carves every language at once — no per-language anchors.
  *
- * Ranges are inclusive. Discovered by inspecting the aligned blocks; see
- * docs/mass-rework-journal.md. Rubric/heading-only blocks between moments
+ * Ranges are inclusive, discovered by inspecting the aligned blocks.
+ * Rubric/heading-only blocks between moments
  * (titles, "Liturgia da Palavra", proper placeholders) are simply not claimed.
  */
 interface OrderSlotSpec {

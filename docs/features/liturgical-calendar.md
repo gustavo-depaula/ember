@@ -180,7 +180,7 @@ refinement.
 
 ## Staged / not yet done
 
-Done since the original design (see `docs/journal.md`, 2026-05-31):
+Done since the original design (2026-05-31):
 
 - ✅ **OF precedence from canonical data** — `resolveOfDay` over the generated
   `of-calendar.json`; bifurcation bug fixed; full-year GIRM tests.

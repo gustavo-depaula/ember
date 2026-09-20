@@ -116,6 +116,17 @@ The most important check. For each chapter file, compare the original against ea
 
 6. **Present the report** to the user and ask whether to fix the issues.
 
+### Fidelity review (when asked to go beyond the mechanical audit)
+
+The checklist above cannot see a fluent sentence that says the wrong thing. When the task is fidelity, not just completeness:
+
+- **Make the passes differ in kind.** A clause-by-clause bilingual read, a source-blind cold read of the target, a pass over function words and headings only (prepositions, articles, `este`/`aquele`, conjunctions, possessive `sua`, `consigo` vs `com ele`), and a spelling-only sweep. Two clean rounds of the same shape measure reviewer agreement, not correctness; after a clean round, give the next one a category never yet swept.
+- **Make reviewers show their work.** Require the target-language rendering quoted beside every item reported as checked — a bare verdict over a list hides wrong renderings. Check each proposed fix against the source as rigorously as the finding, above all fixes from a source-blind reader, which propose false friends.
+- **Run the sweeps reading cannot.** A per-paragraph term-frequency diff against the journal's Key Terms table, in both directions, writing every corrected term back into the table; in dialogue, a turn-by-turn addressee trace for tu/vós.
+- **List where the target must commit and the source is open** — gender of a relative's referent, pronoun antecedent, adversative connector, tu/vós — and justify each from context. Bilingual passes read these as matching and monolingual passes read them as fluent, so both miss them.
+- **Verify the journal itself each round.** Grep every falsifiable claim in `translation-journal.md` (both columns of each Key Terms row, quoted forms, counts) against the chapter files. Reviewers treat the journal as a do-not-flag list, so a false row silently exempts text nobody checked.
+- **Record rejected findings** in `translation-journal.md`, with the source line and the reasoning, in the same commit that decides them, and pass that reasoning (not just "don't flag X") into later reviewer prompts. The next round reads only that file and re-raises whatever is unrecorded.
+
 ### Phase 4 — Fix (if requested)
 
 7. **Launch parallel fix agents**, one per batch of 5 files in the affected language. Each agent:

@@ -10,7 +10,7 @@ const flourishLightAspect = 2143 / 416
 
 // Explore tab root: "The Almanac" — an illuminated, daily-fresh front page. A
 // masthead naming today in the Church, a featured editorial carousel, and
-// imagery-rich rows (library, voices, collections). See docs/features/explore.md.
+// imagery-rich rows (library, voices, collections).
 export default function ExploreScreen() {
   return (
     <ScreenLayout>

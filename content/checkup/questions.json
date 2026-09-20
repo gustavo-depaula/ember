@@ -1,7 +1,7 @@
 {
 	"version": "v1",
 	"archetypeOrder": ["seeker", "returner", "disciple", "grower", "endurer", "contemplative"],
-	"scoringNotes": "Each option contributes a weight vector over the six archetypes in archetypeOrder. Sum across answered questions; argmax is the primary archetype, modulo the tiebreakers in docs/features/spiritual-checkup.md §2. Q9 is non-scoring (empty weights).",
+	"scoringNotes": "Each option contributes a weight vector over the six archetypes in archetypeOrder. Sum across answered questions; argmax is the primary archetype, modulo the tiebreakers in docs/plans/spiritual-checkup.md §2. Q9 is non-scoring (empty weights).",
 	"consent": {
 		"title": {
 			"en-US": "A short, private check-in",

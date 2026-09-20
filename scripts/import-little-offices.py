@@ -13,7 +13,10 @@ dirs from earlier runs are pruned via scripts/.cache/generated-offices.json.
 
 Faithful import: Latin (`la`) for every office, English (`en-US`) only where
 the source already prints a translation. No machine translation, no pt-BR body.
-See docs/journal.md.
+
+Do NOT re-run: it prunes and overwrites every `little-office-*` practice, and the
+committed flows were repaired and reformatted by hand after generation without
+this script being updated to match.
 """
 
 from __future__ import annotations

@@ -2,22 +2,7 @@
 
 > A beautiful companion for the Catholic life of prayer — helping souls grow in holiness, one day at a time.
 
-**We need your help!** We're preserving and translating the Catholic literary tradition — spiritual classics, Church Fathers, liturgical texts — and making it all free and open. You can help by [sponsoring the project](https://github.com/sponsors/gustavo-depaula), contributing translations, or even running our AI-assisted pipeline with your own tokens. See the [content pipeline](docs/content/PIPELINE.md) for what's published, what's in progress, and how to get involved.
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/assets/home-easter.webp" width="200" alt="Home screen — Easter season"><br><sub>Easter</sub></td>
-    <td align="center"><img src="docs/assets/home-lent.webp" width="200" alt="Home screen — Lent season"><br><sub>Lent</sub></td>
-    <td align="center"><img src="docs/assets/home-dark.webp" width="200" alt="Home screen — dark mode"><br><sub>Dark mode</sub></td>
-    <td align="center"><img src="docs/assets/holy-mass-ef.webp" width="200" alt="Holy Mass — Extraordinary Form"><br><sub>Holy Mass (EF)</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="docs/assets/practices.webp" width="200" alt="Practices catalog"><br><sub>Practices</sub></td>
-    <td align="center"><img src="docs/assets/prayer-books.webp" width="200" alt="Browse — collections, books, and practices"><br><sub>Browse</sub></td>
-    <td align="center"><img src="docs/assets/bible-dark.webp" width="200" alt="Bible reader — dark mode"><br><sub>Bible</sub></td>
-    <td align="center"><img src="docs/assets/morning-offering-latin.webp" width="200" alt="Morning Offering — English and Latin side by side"><br><sub>English + Latin</sub></td>
-  </tr>
-</table>
+**We need your help!** We're preserving and translating the Catholic literary tradition — spiritual classics, Church Fathers, liturgical texts — and making it all free and open. You can help by [sponsoring the project](https://github.com/sponsors/gustavo-depaula), contributing translations, or even running our AI-assisted pipeline with your own tokens. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get involved.
 
 ---
 
@@ -31,43 +16,17 @@ Available on iOS, Android, and the web.
 
 The heart of Ember. Build a structured daily rhythm of prayer — a Plan of Life — and track your fidelity over time. Morning Offering, Rosary, Angelus, Divine Office, Mass, Lectio Divina, Examination of Conscience... an open content corpus covers the breadth of Catholic devotional life, with offline pinning for the practices and books you keep close.
 
-<table>
-  <tr>
-    <td align="center"><img src="docs/assets/rule-of-life.webp" width="200" alt="Rule of Life — daily checklist with completions"><br><sub>Daily checklist</sub></td>
-    <td align="center"><img src="docs/assets/plan-of-life.webp" width="200" alt="Plan of Life — fidelity wall, streaks, and stats"><br><sub>Fidelity wall & stats</sub></td>
-    <td align="center"><img src="docs/assets/sacred-scripture.webp" width="200" alt="Sacred Scripture — Gospel of the Day"><br><sub>Gospel of the Day</sub></td>
-  </tr>
-</table>
-
 ### Preserve and share 2,000 years of Catholic heritage
 
 Ember is also a platform for the Catholic literary tradition — spiritual classics, Church Fathers, formation guides, liturgical texts, hagiographies — translated into multiple languages, structured in open formats, and freely available for anyone to use, extend, and build upon. Authors in the corpus already include St. Alphonsus Liguori and St. Louis de Montfort, with many more to come.
 
 The fruits of Catholic tradition should be freely available to all. No one should own what belongs to the Church and to humanity. This translation work is ongoing and needs support — if you believe in preserving Catholic heritage in the open, consider sponsoring the project.
 
-<table>
-  <tr>
-    <td align="center"><img src="docs/assets/liguori-books.webp" width="200" alt="St. Alphonsus Liguori — books in multiple languages"><br><sub>Liguori works</sub></td>
-    <td align="center"><img src="docs/assets/library-detail.webp" width="200" alt="Sacred Heart Devotion collection — contents and practices"><br><sub>Devotion collection</sub></td>
-    <td align="center"><img src="docs/assets/book-reader-toc.webp" width="200" alt="Book reader — table of contents"><br><sub>Book reader</sub></td>
-    <td align="center"><img src="docs/assets/sacred-art-pieta.webp" width="200" alt="Sacred art — Bouguereau's Pieta"><br><sub>Sacred art</sub></td>
-  </tr>
-</table>
-
 ### A practice-agnostic prayer engine
 
 Practices are defined in pure JSON — no app code needed. A flexible flow DSL with primitives like `select`, `repeat`, `cycle`, and `proper` can describe anything from a three-line Guardian Angel prayer to a 33-day consecration program to the complete Mass with daily EF/OF propers. Adding a new practice means writing content files, not code.
 
 All content is open and lives in this repo as plain JSON and Markdown — practices, prayers, books, and collections. Anyone can contribute their own prayer traditions by opening a pull request; the next deploy hashes the new content into the Hearth corpus and ships it to every user.
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/assets/holy-mass-ef.webp" width="200" alt="Holy Mass — illuminated manuscript borders"><br><sub>Holy Mass (EF)</sub></td>
-    <td align="center"><img src="docs/assets/morning-offering-latin.webp" width="200" alt="Morning Offering — dark mode with illuminated borders"><br><sub>Morning Offering</sub></td>
-    <td align="center"><img src="docs/assets/rosary-dark.webp" width="200" alt="54-Day Rosary Novena — dark mode"><br><sub>54-Day Rosary Novena</sub></td>
-    <td align="center"><img src="docs/assets/liguori-meditation.webp" width="200" alt="Liguori's Daily Meditations — Portuguese"><br><sub>Daily meditation (PT-BR)</sub></td>
-  </tr>
-</table>
 
 ### Beautiful, devotional, and engaging
 
@@ -130,7 +89,7 @@ If you believe this work matters, consider sponsoring the project.
 | `packages/liturgical/` | Liturgical calendar, seasons, psalter |
 | `packages/mass-propers/` | EF Mass propers resolution engine |
 | `content/` | Corpus source — flat by kind: `prayers/`, `practices/`, `chapters/`, `books/`, `collections/`, `masses/`, `of-library/`, `of-data/` |
-| `docs/` | Architecture, specs, conventions, dev journal |
+| `docs/` | Architecture, conventions, authoring guides, content sources |
 
 ### Tech Stack
 
@@ -149,7 +108,6 @@ pnpm test           # Run all tests
 
 ### Documentation
 
-- [Project overview & roadmap](docs/README.md)
 - [Architecture](docs/ARCHITECTURE.md) — tech stack, corpus model, data model
 - [Features](docs/features/features-overview.md) — flow DSL, schedules, programs, plan of life
 - [Content & Collections](docs/features/corpus.md) — corpus format, pinning, content distribution
@@ -157,7 +115,6 @@ pnpm test           # Run all tests
 - [Conventions](docs/CONVENTIONS.md) — code style guide
 - [Design system](docs/design/design-system.md) — colors, typography, layout
 - [Content sources](docs/content/content-sources.md) — Bible, CCC, hymns, daily readings
-- [Dev journal](docs/journal.md) — accumulated learnings
 - [Contributing](CONTRIBUTING.md) — how to contribute code and content
 
 ---

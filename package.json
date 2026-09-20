@@ -17,6 +17,7 @@
     "build:do": "tsx scripts/build-do-content.ts",
     "build:corpus": "python3 scripts/build-corpus.py _site/hearth/v2 && node scripts/copy-hearth-aux.mjs",
     "validate-flows": "tsx scripts/validate-flows.ts",
+    "setup:agent": "scripts/setup-agent.sh",
     "hearth:clean": "rm -rf _site/hearth",
     "build:webp": "scripts/convert-webp.sh",
     "build:hearth": "scripts/convert-webp.sh && python3 scripts/build-corpus.py _site/hearth/v2 && node scripts/copy-hearth-aux.mjs",

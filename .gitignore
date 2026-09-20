@@ -8,8 +8,12 @@
 # dependencies
 node_modules/
 
-# Claude Code session state (worktrees, scheduled tasks, etc.)
-.claude/
+# Claude Code session state (worktrees, scheduled tasks, etc.) — the shared
+# config below is checked in
+.claude/*
+!.claude/settings.json
+!.claude/skills/
+!.claude/rules/
 
 # Hearth v2 build output (corpus blobs + catalog)
 _site/

@@ -54,6 +54,9 @@ function toCelebration(row: DoCalendarDay, date: Date): ResolvedCelebration {
 // DO numeric rank (Rubrics 1960 scale) → display class. I/II class are 6–7 / 5,
 // III class the doubles (3–4), IV class the lesser feasts, simplices and
 // commemorations below that. Vigils carry their own colour.
+// Classify from the number, never the text: shared Sancti files still carry
+// pre-1960 class words ("Duplex majus") under Rubrics 1960, so the text is only
+// good for spotting vigils.
 function normalizeEfRank(rank: number, rankText: string): RankEF {
   if (/vigil/i.test(rankText)) return 'vigil'
   if (rank >= 6) return 'I_class'

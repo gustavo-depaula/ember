@@ -214,8 +214,9 @@ These are well-known prayers that don't need an external source — just bundle 
 
 ### `ember-extra` (OF Mass Propers — Vendored)
 
-- **Source:** Vendored from a pinned `ember-extra` commit into `content/libraries/base/of/` (see `docs/mass-rework-journal.md`).
+- **Source:** Vendored from a pinned `ember-extra` commit into `content/of/`.
 - **Content:** Complete OF Mass propers — temporal + sanctoral formularies, ordinaries, prefaces, calendar — in Latin, English, and Portuguese.
+- **License:** Unlike the EF texts (Divinum Officium, MIT), the English OF collects, antiphons and other variable prayers are ICEL-copyrighted, and no free structured source exists for them. Treat the en-US OF propers as in-copyright text when deciding what to bundle or redistribute.
 - **Status:** Integrated via `packages/mass-of/`.
 
 ### Current Implementation

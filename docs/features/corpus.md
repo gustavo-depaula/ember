@@ -89,7 +89,7 @@ A `creator` is editorial metadata about a Catholic priest / teacher / producer. 
 2. The build hashes avatar/banner via the existing image pipeline. The manifest itself becomes a single hashed blob.
 3. Each `channels[]` entry is one of: `podcast` (with `feedUrl`), `youtube` (with `channelId`), or `rss` (with `feedUrl`). Mark Q&A-format podcasts with `format: 'qa'` to enable the search ranking boost.
 4. Articles default to summary-only display; opt a known-good blog into in-app full-text rendering with `channels[].fullText: true`.
-5. The new editor-curated creator becomes `creator/<id>` in the corpus. For permission-sensitive metadata (avatar usage, donate links) follow the editorial process — see `docs/features/creators/README.md` §2.
+5. The new editor-curated creator becomes `creator/<id>` in the corpus. For permission-sensitive metadata (avatar usage, donate links) follow the editorial process — see `docs/plans/creators/README.md` §2.
 
 ### Adding a playlist (and guided prayer) (v1.1)
 
@@ -104,7 +104,7 @@ A `playlist` is an editor-curated ordered set of media items. With `practiceBind
 2. `items[]` is a discriminated union: `feed-item` (refs an existing podcast/RSS episode), `youtube` (a video by id), `audio-blob` (self-hosted), `article`, or `corpus` (a ref into any other catalog item). A topical playlist might mix all five; a guided Rosary uses one `audio-blob` item plus a `practiceBinding`.
 3. `practiceBinding` (optional) makes this a guided prayer: it maps the parent practice's flow sections to playlist items (and optional `tStart/tEnd` time ranges within them). The build script validates that every `segments[*].sectionPath` resolves against the referenced practice's flow.
 4. **No AI voice cloning** — guided playlists must use real recorded audio, with explicit creator permission (recorded in `manifest.json` → `rights`). Editorial process treats this with the same care as book translation rights.
-5. See `docs/features/creators/phase-06-series.md` (editorial bundles) and `docs/features/creators/phase-07-pray-with.md` (guided prayers) for the full author workflow and the `sectionPath` semantics.
+5. See `docs/plans/creators/phase-06-series.md` (editorial bundles) and `docs/plans/creators/phase-07-pray-with.md` (guided prayers) for the full author workflow and the `sectionPath` semantics.
 
 ### Adding a collection
 

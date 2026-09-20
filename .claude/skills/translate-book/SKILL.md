@@ -119,6 +119,7 @@ Key principles:
 
 - **Keep Latin phrases inline** with the translation following in the target language, matching the original's pattern.
 - **Scripture references** (book, chapter, verse) preserved as-is.
+- **Translate the source's wording, not the verse you remember.** When the text quotes Scripture or embeds a well-known prayer, render the source edition's words clause by clause — never pull it toward the familiar Bible or Missal phrasing, never add words that Bible supplies, never fix the edition's oddities. An author who argues from the wording of a verse needs his gloss to find its words in the quote. If you deliberately adopt the standard vernacular verse, record that decision per verse in the journal.
 - **Liturgical formulas** (e.g., Ave Maria, Magnificat) may be kept in Latin or given in the target language depending on how recognizable they are. Use judgment.
 
 ### Footnotes
@@ -133,6 +134,7 @@ Key principles:
 ### Proper Names & Terms
 
 - **Saints' names** in the target language's standard form (e.g., "Saint François de Sales" → "St. Francis de Sales" / "São Francisco de Sales").
+- **Check sibling works first.** Before coining a rendering for a recurring name, demonym, closing formula or author-name form, grep the pt-BR chapters and Key Terms tables of the same author's other works; copy the governing convention into this book's Key Terms. The per-book journal only guarantees consistency within one book.
 - **Place names** generally kept in their original form unless there's a well-known English/Portuguese equivalent.
 - **Outdated terms** modernized only when the original would be confusing or offensive (e.g., "mahométans" → "Muslims" / "muçulmanos"). Note such changes in the journal.
 

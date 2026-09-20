@@ -2,7 +2,7 @@
 
 The content system for books in Ember — spiritual classics, hybrid devotional works. Markdown/HTML source files for prose, hashed and served as immutable blobs through the Hearth v2 corpus.
 
-> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/corpus.md` for the v2 author workflow. See `docs/ARCHITECTURE.md` for the corpus architecture.
+> See `docs/plans/spiritual-books.md` for the full wishlist of titles. See `docs/features/corpus.md` for the v2 author workflow. See `docs/ARCHITECTURE.md` for the corpus architecture.
 
 ---
 
@@ -112,6 +112,26 @@ Chapters are `.md` (primary) or `.html` (supported fallback):
 - **`.html`** — rendered directly in WebView with `book.css` applied
 
 The reader prefers `.md`; `.html` overrides on a per-chapter basis when present.
+
+### Image groups (`:::gallery`, `:::row`)
+
+Two container directives group images in chapter markdown (`markedGalleryExtension.ts`). `:::gallery` is a captioned snap-scroll carousel for browsing; `:::row` is a side-by-side composition that becomes a swipeable strip when the items don't fit.
+
+```markdown
+:::gallery
+![Sacred Heart of Jesus](images/batoni.jpg "Pompeo Batoni, 1767")
+The most influential Sacred Heart painting.
+
+![Pietà](images/bouguereau.jpg "William-Adolphe Bouguereau, 1876")
+:::
+
+:::row{weights="2,1"}
+![](images/main.jpg)
+![](images/detail.jpg)
+:::
+```
+
+Inside either directive: alt text → `title`, the image's quoted third argument → `attribution`, the paragraph right after an image → `caption`. A blank line separates items. Supported attributes: `display` (`carousel` | `stack` | `row`), `weights`, `caption`. Prose after the closing `:::` is ordinary markdown, not part of the figure.
 
 ### File naming conventions
 
@@ -340,7 +360,7 @@ HTML source (Gutenberg, CCEL, Internet Archive)
   → build-corpus.py (hash + emit per-(chapter, lang) blobs + book item-manifest)
 ```
 
-For CCEL ThML imports specifically, use `content/_archive/ccel-classics/scripts/ccel-import.py` — see `docs/content/ccel-import.md`. (Source path migrated during the v2 rename pass; the importer's output already lands at `content/books/<bookId>/`.)
+For CCEL ThML imports specifically, use `content/_archive/ccel-classics/scripts/ccel-import.py`. (Source path migrated during the v2 rename pass; the importer's output already lands at `content/books/<bookId>/`.)
 
 ---
 
@@ -371,7 +391,7 @@ The reader loads `.html` first, falls back to `.md` (converted at runtime via `m
 
 ## External Books (Fetched at Runtime)
 
-Some books cannot be bundled in Hearth for copyright reasons — CCC on vatican.va, iBreviary, Escriva works, Lírio Católico, papal documents. These remain `book/<id>` items with a Hearth-side catalog entry + ToC, but their chapter content is fetched at runtime from the source site by a **producer** (see `docs/features/producers.md`). The bytes never live on `ember.dpgu.me`.
+Some books cannot be bundled in Hearth for copyright reasons — CCC on vatican.va, iBreviary, Escriva works, Lírio Católico, papal documents. These remain `book/<id>` items with a Hearth-side catalog entry + ToC, but their chapter content is fetched at runtime from the source site by a **producer** (`apps/app/src/sources/`). The bytes never live on `ember.dpgu.me`.
 
 The `BookEntry` shape gains three optional fields when a book is external-fetched:
 
@@ -392,7 +412,7 @@ type ChapterRef =
   | { type: 'external'; url: string }                                // external
 ```
 
-Presence of `source.type === 'external'` flips the runtime path: chapter loading invokes the named producer with the chapter `url`, lang, and any anchor range; the producer returns cleaned HTML + an anchor sidecar that the WebView reader consumes the same way it consumes bundled HTML. Pinning, freshness UI ("Fetched X ago"), and on-device caching all flow from this — see `docs/features/producers.md` for the full mechanics.
+Presence of `source.type === 'external'` flips the runtime path: chapter loading invokes the named producer with the chapter `url`, lang, and any anchor range; the producer returns cleaned HTML + an anchor sidecar that the WebView reader consumes the same way it consumes bundled HTML. Pinning, freshness UI ("Fetched X ago"), and on-device caching all flow from this.
 
 The `anchors` index maps anchor strings (e.g. `"507"` for CCC paragraph 507) to the chapter that contains them. It supports anchored refs like `book/ccc#507` resolving directly to the right chapter URL without scanning. Producers can compute the index implicitly when source URL structure encodes anchors (vatican.va CCC: deterministic `__P<N>.HTM` files); for hand-authored books the build pipeline emits it from heading ids.
 
