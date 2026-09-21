@@ -4,7 +4,7 @@ Written by Claude before a context compaction, for Claude after it. Gustavo has 
 
 ## What this is
 
-A Brazilian Portuguese translation of the Gallican Psalter as prayed in the 1961/62 Breviary — to be recited and chanted beside the Latin column Ember renders from `content/do/horas/Latin/Psalterium/Psalmorum/PsalmN.txt` (never edit `content/do/`). Working dir is the git worktree `…/.claude/worktrees/parallel-prancing-avalanche`; everything lives in `research/psalterium/`. **Nothing is committed** (Gustavo's rule: commit only what he has looked at — do not commit overnight either; do not push).
+A Brazilian Portuguese translation of the Gallican Psalter as prayed in the 1961/62 Breviary — to be recited and chanted beside the Latin column Ember renders from `content/do/horas/Latin/Psalterium/Psalmorum/PsalmN.txt` (never edit `content/do/`). Working dir is the git worktree `…/.claude/worktrees/parallel-prancing-avalanche`; everything lives in `research/psalterium/`. **Commit `research/psalterium/` and push to `main` after each batch** (Gustavo, 2026-09-21 — this replaces the earlier "commit nothing overnight"). No co-author lines. Translation agents never commit; the coordinating session does.
 
 ## Decided (do not reopen)
 

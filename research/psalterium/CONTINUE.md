@@ -38,7 +38,8 @@ small script in that psalm's folder (see ps009/draft7.py); drafts are never over
 I review in the morning.
 
 Hard rules:
-- Never commit or push. Never add co-author lines.
+- After each batch, commit research/psalterium/ and push to main. Only that folder;
+  never add co-author lines. If sub-agents translate, they don't commit; you do.
 - Never edit content/do/. The Latin is never retouched. DO's Portuguese is not a witness.
 - The repo is public: copyrighted material goes only in gitignored research/**/consult/.
 - Don't assert Bible wordings, Greek, or liturgical facts from memory: verify, or mark unverified.

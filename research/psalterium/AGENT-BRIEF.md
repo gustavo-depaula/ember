@@ -1,6 +1,6 @@
 # Brief for translating one psalm
 
-You are translating one psalm of the Gallican Psalter into Brazilian Portuguese **to be prayed** — recited daily and chanted to a psalm tone, beside the Latin column. Work from the repo root (`…/.claude/worktrees/parallel-prancing-avalanche`); everything you write goes under `research/psalterium/`. Never edit `content/`. Never commit. Read `research/psalterium/glossary.md` before you write a word, and `ps004/prayed.json` + `ps004/retrospective.md` once, as the worked example.
+You are translating one psalm of the Gallican Psalter into Brazilian Portuguese **to be prayed** — recited daily and chanted to a psalm tone, beside the Latin column. Work from the repo root (`…/.claude/worktrees/parallel-prancing-avalanche`); everything you write goes under `research/psalterium/`. Never edit `content/`. Never commit — the coordinating session commits after each batch. Read `research/psalterium/glossary.md` before you write a word, and `ps004/prayed.json` + `ps004/retrospective.md` once, as the worked example.
 
 ## The rules
 
