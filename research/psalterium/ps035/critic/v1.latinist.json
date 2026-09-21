@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "1c3bda5ccdba5f38f9c874bbcde0b281df2a593fb9cf2d6584d6710637462dac",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:53:46+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"35:3\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"ut inveniátur iníquitas ejus ad ódium\",\n          \"portuguese\": \"para que a sua iniquidade seja encontrada e odiada\",\n          \"problem\": \"«Ad odium» exprime uma relação de finalidade ou resultado com o ódio; não coordena uma segunda ação com «seja encontrada». «E odiada» resolve essa construção, fazendo da iniquidade explicitamente o objeto do ódio.\",\n          \"fix\": \"para que a sua iniquidade seja encontrada para ódio\"\n        }\n      ]\n    },\n    {\n      \"id\": \"35:7b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"quemádmodum multiplicásti misericórdiam tuam, Deus\",\n          \"portuguese\": \"assim como multiplicastes a vossa misericórdia, ó Deus\",\n          \"problem\": \"«Quemadmodum» introduz aqui uma exclamação sobre a multiplicação da misericórdia. «Assim como» transforma-a numa comparação com a salvação mencionada anteriormente.\",\n          \"fix\": \"como multiplicastes a vossa misericórdia, ó Deus!\"\n        }\n      ]\n    },\n    {\n      \"id\": \"35:9\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"voluptátis tuæ\",\n          \"portuguese\": \"das vossas delícias\",\n          \"problem\": \"«Voluptatis» está no singular. Embora «delícias» seja uma equivalência idiomática defensável, altera o número que a regra do projeto exige conservar.\",\n          \"fix\": \"da vossa delícia\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo e as imagens do latim; os desvios identificados dizem respeito a duas relações sintáticas e a um singular traduzido pelo plural. Todos os versículos apresentam exatamente as mesmas marcas de divisão, na mesma ordem que o latim.\"\n}"
+}

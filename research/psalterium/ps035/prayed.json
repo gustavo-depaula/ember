@@ -1,0 +1,793 @@
+{
+  "psalm": 35,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "35:2": "{semetipso}: * não há temor de Deus diante dos seus olhos.",
+    "35:3": "Porque {dolose} à sua vista: * para que a sua iniquidade {odium}.",
+    "35:4": "As palavras da sua boca são iniquidade e engano: * não quis entender para {bene}.",
+    "35:5": "Meditou a iniquidade no seu leito: * {astitit} em todo caminho que não é bom, {order5}.",
+    "35:6": "Senhor, no céu está a vossa misericórdia: * {v6b}.",
+    "35:7": "A vossa justiça é como os montes de Deus: * os vossos juízos são {abyssus}.",
+    "35:7b": "Salvareis os homens e os {jumenta}, Senhor: * {quemadmodum} multiplicastes a vossa misericórdia, ó Deus{bang7}",
+    "35:8": "Mas os filhos dos homens * esperarão {tegmine} das vossas asas.",
+    "35:9": "{inebriabuntur} a {ubertate} da vossa casa: * e da torrente das vossas delícias {potabis}.",
+    "35:10": "Porque {apud} está a fonte da vida: * e na vossa luz veremos a luz.",
+    "35:11": "{praetende} a vossa misericórdia aos que vos conhecem, * e a vossa justiça aos que são retos de coração.",
+    "35:12": "Não venha {mihi} o pé da soberba: * e a mão do pecador não me {moveat}.",
+    "35:13": "Ali caíram os que praticam a iniquidade: * foram expulsos, e não puderam estar de pé."
+  },
+  "decisions": [
+    {
+      "id": "semetipso",
+      "refs": [
+        "35:2"
+      ],
+      "latin": "Dixit injústus ut delínquat in semetípso",
+      "kind": "ambiguity",
+      "why": "Two readings the Latin holds (and the Greek, φησὶν ὁ παράνομος τοῦ ἁμαρτάνειν ἐν ἑαυτῷ): he said *within himself* that he would sin (Douay-Rheims, Matos Soares 1932), or he said he would sin *in himself*. The Latin's order leaves *in semetípso* after the verb of sinning; so does the Portuguese of option 0, which keeps both hearings. delínquere → *cometer faltas* (row; 33:22–23); injústus → *o injusto* (apart from iníquus → iníquo, ímpius → ímpio). Heard (draft 1): the stylist — «“cometeria faltas” alonga o primeiro membro» → ‘que pecaria em si mesmo’. Refused: *pecar* is peccáre's (the delínquere row; 33:22–23 *cometerão faltas*); option 3 is Matos Soares's *pecar*. The blind reader heard 'within himself' and 'against himself'; the Latin's order is kept.",
+      "options": [
+        {
+          "label": "Disse o injusto que cometeria faltas em si mesmo",
+          "forms": {
+            "semetipso": "Disse o injusto que cometeria faltas em si mesmo"
+          },
+          "note": "Ruling: the Latin's order, both readings open.",
+          "from": "draft"
+        },
+        {
+          "label": "Disse o injusto em si mesmo que cometeria faltas",
+          "forms": {
+            "semetipso": "Disse o injusto em si mesmo que cometeria faltas"
+          },
+          "note": "Douay-Rheims's reading: within himself.",
+          "from": "DRB"
+        },
+        {
+          "label": "Disse o injusto em si mesmo que havia de pecar",
+          "forms": {
+            "semetipso": "Disse o injusto em si mesmo que havia de pecar"
+          },
+          "note": "Matos Soares 1932: peccáre's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dolose",
+      "refs": [
+        "35:3"
+      ],
+      "latin": "Quóniam dolóse egit in conspéctu ejus",
+      "kind": "glossary",
+      "why": "dolóse ágere → the dolus row (open) names this place (*dolóse egit* 35:3). 5:11a *dolóse agébant* → *enganavam* (the Greek's one verb, ἐδολιοῦσαν; ἐδόλωσεν here too); 'agiu com engano' keeps ágere, the Latin's verb, and dolus's noun — and *enganou* with no object would ask 'whom?'. in conspéctu ejus → 'à sua vista' (the conspéctus row, *à vista de*): whose sight — God's (from 35:2) or his own — the Latin leaves open, and 'sua' does too.",
+      "options": [
+        {
+          "label": "agiu com engano",
+          "forms": {
+            "dolose": "agiu com engano"
+          },
+          "note": "Ruling: ágere kept.",
+          "from": "draft"
+        },
+        {
+          "label": "enganou",
+          "forms": {
+            "dolose": "enganou"
+          },
+          "note": "5:11a's verb; wants an object.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "odium",
+      "refs": [
+        "35:3"
+      ],
+      "latin": "ut inveniátur iníquitas ejus ad ódium",
+      "kind": "grammar",
+      "why": "ad ódium: 'unto hatred' — so that his iniquity may be found, to be hated (the Greek: τοῦ εὑρεῖν … καὶ μισῆσαι, two verbs). Douay-Rheims keeps the phrase ('found unto hatred'); Matos Soares 1932 explains ('se tornou mais odiosa'). 'seja encontrada e odiada' says the phrase's sense with a participle, as the Greek's second verb does; 'para o ódio' is the calque. invenire → encontrar (20:9 *seja encontrada*). Heard (draft 1): the Latinist, MAJOR — «“Ad odium” exprime uma relação de finalidade ou resultado com o ódio; não coordena uma segunda ação com “seja encontrada”» → ‘seja encontrada para ódio’. Taken in the plain form: 'para ser odiada' keeps *ad*'s purpose (para) and says whose hatred without naming it, as the Latin; the bare 'para ódio' is the calque (option 2). The blind reader heard God finding and hating first — the same hearing survives.",
+      "options": [
+        {
+          "label": "seja encontrada para ser odiada",
+          "forms": {
+            "odium": "seja encontrada para ser odiada"
+          },
+          "note": "Ruling (draft 2): the Latinist's purpose, in plain Portuguese.",
+          "from": "latinist"
+        },
+        {
+          "label": "seja encontrada e odiada",
+          "forms": {
+            "odium": "seja encontrada e odiada"
+          },
+          "note": "Draft 1: a coordination the Latin does not have (the Latinist, major).",
+          "from": "draft"
+        },
+        {
+          "label": "seja encontrada para o ódio",
+          "forms": {
+            "odium": "seja encontrada para o ódio"
+          },
+          "note": "The Latin's phrase; opaque.",
+          "from": "DRB"
+        },
+        {
+          "label": "seja encontrada digna de ódio",
+          "forms": {
+            "odium": "seja encontrada digna de ódio"
+          },
+          "note": "Adds 'digna'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "bene",
+      "refs": [
+        "35:4"
+      ],
+      "latin": "nóluit intellégere ut bene ágeret",
+      "kind": "word",
+      "why": "bene ágere (ἀγαθῦναι): to act well. 'agir bem' keeps ágere as 35:3 keeps it (egit … ágeret: one verb twice in two verses); Matos Soares 1932 'fazer o bem'. intellégere → entender (glossary).",
+      "options": [
+        {
+          "label": "agir bem",
+          "forms": {
+            "bene": "agir bem"
+          },
+          "note": "Ruling: ágere, as in 35:3.",
+          "from": "draft"
+        },
+        {
+          "label": "fazer o bem",
+          "forms": {
+            "bene": "fazer o bem"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "astitit",
+      "refs": [
+        "35:5"
+      ],
+      "latin": "ástitit omni viæ non bonæ",
+      "kind": "glossary",
+      "why": "astáre with a dative (παρέστη πάσῃ ὁδῷ): the row's split (Ps 5) names 35:5 among the places that take *pôr-se*. 'pôs-se em todo caminho' — *todo* without the article is 'every' (33:2). *non bonæ* is the Latin's litotes (οὐκ ἀγαθῇ), kept as 'que não é bom', not turned into 'mau'. Matos Soares 1932 'deteve-se' is stare's (1:1).",
+      "options": [
+        {
+          "label": "pôs-se",
+          "forms": {
+            "astitit": "pôs-se"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "deteve-se",
+          "forms": {
+            "astitit": "deteve-se"
+          },
+          "note": "Matos Soares 1932; 1:1's verb for stare.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "malitia",
+      "refs": [
+        "35:5"
+      ],
+      "latin": "malítiam autem non odívit",
+      "kind": "word",
+      "why": "malítia (κακία), 7 lines (grep: 35:5, 49:19, 51:3, 51:5, 93:23, 106:34, 140:4); nequítia (πονηρία) has *maldade* (7:10) — two Greek words, so two Portuguese. The cognate 'malícia' is in Brazil also slyness, even innuendo; the ear will say if that comes first here. odívit → 'não odiou': a past in a narrative of pasts (meditátus est, ástitit); the present sense taken at 24:19 and 25:5 belongs to the first person's standing hatred. The line ends on the verb, as the Latin's. The blind reader heard 'a intenção de fazer mal' first, slyness second, innuendo third: the cognate kept.",
+      "options": [
+        {
+          "label": "malícia",
+          "forms": {
+            "malitia": "malícia"
+          },
+          "note": "Ruling: the cognate.",
+          "from": "MS1932"
+        },
+        {
+          "label": "maldade",
+          "forms": {
+            "malitia": "maldade"
+          },
+          "note": "nequítia's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v6b",
+      "refs": [
+        "35:6"
+      ],
+      "latin": "Dómine, in cælo misericórdia tua: * et véritas tua usque ad nubes",
+      "kind": "grammar",
+      "why": "Both cola are verbless. The first takes 'está' (the antiphon of Wednesday Lauds I, *Dómine, * in cælo misericórdia tua*, and the versicle of Matins, *V. Dómine, in cælo misericórdia tua. R. Et véritas tua usque ad nubes* — Psalmi major.txt, Psalmi matutinum.txt, grep); the second keeps the Latin's ellipsis, 'e a vossa verdade, até as nuvens', which also reads alone as the response. Matos Soares 1932 supplies 'chega', '(eleva-se)'. Heard (draft 1): the stylist — «esta elipse soa como uma frase interrompida» → ‘e a vossa verdade chega até as nuvens’. Refused: the ellipsis is the Latin's, and the colon is said alone as the Matins response (R. *Et véritas tua usque ad nubes*), where a supplied verb weighs more; option 1.",
+      "options": [
+        {
+          "label": "e a vossa verdade, até as nuvens",
+          "forms": {
+            "v6b": "e a vossa verdade, até as nuvens"
+          },
+          "note": "Ruling: the ellipsis.",
+          "from": "draft"
+        },
+        {
+          "label": "e a vossa verdade chega até as nuvens",
+          "forms": {
+            "v6b": "e a vossa verdade chega até as nuvens"
+          },
+          "note": "A verb supplied (MS1932).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "abyssus",
+      "refs": [
+        "35:7"
+      ],
+      "latin": "judícia tua abýssus multa",
+      "kind": "word",
+      "why": "abýssus multa (ἄβυσσος πολλή): 'a great deep' (Douay-Rheims). multus is size here; 'um grande abismo' keeps it; Matos Soares 1932 'um abismo profundo' shifts to depth. judícium → juízo (D15).",
+      "options": [
+        {
+          "label": "um grande abismo",
+          "forms": {
+            "abyssus": "um grande abismo"
+          },
+          "note": "Ruling.",
+          "from": "DRB"
+        },
+        {
+          "label": "um abismo profundo",
+          "forms": {
+            "abyssus": "um abismo profundo"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "jumenta",
+      "refs": [
+        "35:7b"
+      ],
+      "latin": "Hómines, et juménta salvábis",
+      "kind": "word",
+      "why": "juménta (κτήνη), beasts of burden and cattle. 'jumentos' is a donkey in Brazil. 'animais' is the word 8:8 gave pécora (the same Greek κτήνη; D15's test lets them share it). The plain order (verb first) ends the colon on 'Senhor' as the Latin's does; the Latin fronts the objects.",
+      "options": [
+        {
+          "label": "animais",
+          "forms": {
+            "jumenta": "animais"
+          },
+          "note": "Ruling: 8:8's word (κτήνη).",
+          "from": "glossary"
+        },
+        {
+          "label": "gado",
+          "forms": {
+            "jumenta": "gado"
+          },
+          "note": "Narrower.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "quemadmodum",
+      "refs": [
+        "35:7b"
+      ],
+      "latin": "quemádmodum multiplicásti misericórdiam tuam, Deus",
+      "kind": "word",
+      "why": "quemádmodum is 'as, in the way that'. The Greek ὡς at the head of its verse 8 can be an exclamation ('how you have multiplied!'), and Douay-Rheims and Matos Soares 1932 read it so ('O how', 'Quanto'); the Latin word is comparative, and the Latin is translated. The antiphon of Wednesday Lauds II is another Latin, *Multiplicásti, Deus, * misericórdiam tuam* (grep). 'como' alone would hold both. Heard (draft 1): the Latinist, MAJOR — «“Quemadmodum” introduz aqui uma exclamação sobre a multiplicação da misericórdia. “Assim como” transforma-a numa comparação com a salvação mencionada anteriormente» → ‘como multiplicastes a vossa misericórdia, ó Deus!’. Taken: the Greek ὡς, Douay-Rheims ('O how') and Matos Soares 1932 ('Quanto') all read the exclamation, and the Latinist reads the Latin so; draft 1's 'the Latin word is comparative' was one reading made the only one. 'como' with the exclamation mark; the comparison stays as option 1.",
+      "options": [
+        {
+          "label": "como … !",
+          "forms": {
+            "quemadmodum": "como",
+            "bang7": "!"
+          },
+          "note": "Ruling (draft 2): the exclamation (the Latinist; ὡς; DRB; MS1932).",
+          "from": "latinist"
+        },
+        {
+          "label": "assim como",
+          "forms": {
+            "quemadmodum": "assim como",
+            "bang7": "."
+          },
+          "note": "Draft 1: the comparison — refused by the Latinist (major).",
+          "from": "draft"
+        },
+        {
+          "label": "quanto … !",
+          "forms": {
+            "quemadmodum": "quanto",
+            "bang7": "!"
+          },
+          "note": "Matos Soares 1932: the exclamation, freer.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tegmine",
+      "refs": [
+        "35:8"
+      ],
+      "latin": "in tégmine alárum tuárum sperábunt",
+      "kind": "word",
+      "why": "tegmen: a cover (from tégere → cobrir, 31:1; σκέπῃ, shelter). *sombra* is umbra's (16:8b *Sob a sombra das vossas asas*, where the Latin has umbra), so not here. 'ao abrigo' is the plain word for a sheltering cover; 'sob a cobertura' keeps the root and is heard in Brazil as a roof, an insurance, an icing. alæ → asas (glossary).",
+      "options": [
+        {
+          "label": "ao abrigo",
+          "forms": {
+            "tegmine": "ao abrigo"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "sob a cobertura",
+          "forms": {
+            "tegmine": "sob a cobertura"
+          },
+          "note": "tégere's root.",
+          "from": "draft"
+        },
+        {
+          "label": "à sombra",
+          "forms": {
+            "tegmine": "à sombra"
+          },
+          "note": "Matos Soares 1932; umbra's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inebriabuntur",
+      "refs": [
+        "35:9"
+      ],
+      "latin": "Inebriabúntur ab ubertáte domus tuæ",
+      "kind": "glossary",
+      "why": "inebriáre → embriagar (row; the row names 35:9; the image kept unexplained, 22:5b). The future passive kept: 'Serão embriagados' (μεθυσθήσονται). The colon is a versicle and responsory of the Brazilian feast of the Eucharistic Heart (horas Tempora/Brasilia, grep) and, with 35:9b, an Alleluia (missa Sancti/01-31). Heard (draft 1): the stylist — «A passiva seguida de “da fartura” tem regência pouco natural» → ‘Ficarão embriagados com a fartura’. Taken in part: 'com', the regency of *embriagar(-se)*; the future passive 'Serão' kept (the Latin's voice, μεθυσθήσονται) — 'Ficarão' is option 3. The blind reader heard drink first: the image, kept (the row).",
+      "options": [
+        {
+          "label": "Serão embriagados com",
+          "forms": {
+            "inebriabuntur": "Serão embriagados com"
+          },
+          "note": "Ruling (draft 2): the passive, with the Portuguese regency (the stylist, in part).",
+          "from": "stylist"
+        },
+        {
+          "label": "Serão embriagados",
+          "forms": {
+            "inebriabuntur": "Serão embriagados da"
+          },
+          "note": "Draft 1 ('Serão embriagados da'): the regency the stylist heard as foreign.",
+          "from": "draft"
+        },
+        {
+          "label": "Embriagar-se-ão",
+          "forms": {
+            "inebriabuntur": "Embriagar-se-ão com"
+          },
+          "note": "Reflexive, with mesóclise (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "Ficarão embriagados com",
+          "forms": {
+            "inebriabuntur": "Ficarão embriagados com"
+          },
+          "note": "The stylist.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "ubertate",
+      "refs": [
+        "35:9"
+      ],
+      "latin": "ab ubertáte domus tuæ",
+      "kind": "word",
+      "why": "ubértas (πιότης, 'fatness' in the Greek): fruitfulness, plenty. *abundância* is abundántia's (row, Ps 29). 'fartura' is the plain Brazilian word for plenty at table, which is the image (drink, a house's store); 64:12 *campi tui replebúntur ubertáte* is the other place (grep).",
+      "options": [
+        {
+          "label": "fartura",
+          "forms": {
+            "ubertate": "fartura"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "abundância",
+          "forms": {
+            "ubertate": "abundância"
+          },
+          "note": "Matos Soares 1932; abundántia's word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fertilidade",
+          "forms": {
+            "ubertate": "fertilidade"
+          },
+          "note": "Of land.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potabis",
+      "refs": [
+        "35:9"
+      ],
+      "latin": "et torrénte voluptátis tuæ potábis eos",
+      "kind": "grammar",
+      "why": "potáre (ποτιεῖς): to give to drink. 'lhes dareis de beber' is the Portuguese verb for it; the Latin's order (the torrent first, the verb last) kept, which ends the verse on 'beber'. voluptas → delícias (row; the row names 35:9). The Matins antiphon of Pent02-5 has *potábis nos* (grep). Heard (draft 1): the Latinist, minor — «“Voluptatis” está no singular … altera o número» → ‘da vossa delícia’. Refused, as the voluptas row refused the same remark at 26:4b: *delícias* is the Portuguese idiom (number is grammar); 'da vossa delícia' is option 2.",
+      "options": [
+        {
+          "label": "lhes dareis de beber",
+          "forms": {
+            "potabis": "lhes dareis de beber"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "os fareis beber",
+          "forms": {
+            "potabis": "os fareis beber"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "lhes dareis de beber (… da vossa delícia)",
+          "forms": {
+            "potabis": "lhes dareis de beber"
+          },
+          "note": "The Latinist: the singular noun (V[35:9] would read 'da vossa delícia').",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "apud",
+      "refs": [
+        "35:10"
+      ],
+      "latin": "Quóniam apud te est fons vitæ",
+      "kind": "glossary",
+      "why": "apud te → *junto de vós* (row, 21:26): the Latin's *apud*, 'with, beside'. Matos Soares 1932 'em ti' is *in te*. The verse is a versicle (Sancti/08-06) and an antiphon (Pent02-5) (grep). The second colon keeps the Latin's echo *lúmine … lumen* as 'luz … luz' (lumen → luz, glossary).",
+      "options": [
+        {
+          "label": "junto de vós",
+          "forms": {
+            "apud": "junto de vós"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "em vós",
+          "forms": {
+            "apud": "em vós"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "praetende",
+      "refs": [
+        "35:11"
+      ],
+      "latin": "Præténde misericórdiam tuam sciéntibus te",
+      "kind": "word",
+      "why": "prætendere, only here (grep): to stretch out before (παράτεινον, extend, prolong). 'Estendei' (Matos Soares 1932, Douay-Rheims 'Extend'); safe at the vós imperative (past *estendi*). sciéntibus te → 'aos que vos conhecem' (scire with a person → conhecer, the scire row).",
+      "options": [
+        {
+          "label": "Estendei",
+          "forms": {
+            "praetende": "Estendei"
+          },
+          "note": "Ruling.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Prolongai",
+          "forms": {
+            "praetende": "Prolongai"
+          },
+          "note": "The Greek's 'prolong'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mihi",
+      "refs": [
+        "35:12"
+      ],
+      "latin": "Non véniat mihi pes supérbiæ",
+      "kind": "word",
+      "why": "mihi, a dative: 'come to me'. 'a mim' keeps it; Matos Soares 1932 'sobre mim' makes an attack of it (the foot trampling), which the Latin implies but does not say. supérbia → soberba (glossary).",
+      "options": [
+        {
+          "label": "a mim",
+          "forms": {
+            "mihi": "a mim"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "sobre mim",
+          "forms": {
+            "mihi": "sobre mim"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "moveat",
+      "refs": [
+        "35:12"
+      ],
+      "latin": "et manus peccatóris non móveat me",
+      "kind": "glossary",
+      "why": "movére, active (σαλεύσαι, shake): the movéri row → *ser abalado*; its active is 'abalar' (28:8 *abala*). 'não me mova' is literal and weak ('not move me' — or 'not touch me emotionally'); Matos Soares 1932 'não me comova' is that sense.",
+      "options": [
+        {
+          "label": "abale",
+          "forms": {
+            "moveat": "abale"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "mova",
+          "forms": {
+            "moveat": "mova"
+          },
+          "note": "The calque.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "order5",
+      "refs": [
+        "35:5"
+      ],
+      "latin": "malítiam autem non odívit",
+      "kind": "order",
+      "why": "The Latin fronts the object (malítiam … non odívit). Heard (draft 1): the stylist — «A inversão deixa o verbo pendurado no fim e soa construída para parecer solene. A ordem direta também permite ouvir melhor a oposição expressa por “autem”» → ‘mas não odiou a malícia’. Taken: the order is Portuguese grammar, *autem* is adversative here (he walked the bad way, *but* the malice he did not hate), and the colon now ends on a paroxytone (rule 4) instead of 'odiou'.",
+      "options": [
+        {
+          "label": "mas não odiou a {malitia}",
+          "forms": {
+            "order5": "mas não odiou a {malitia}"
+          },
+          "note": "Ruling (draft 2): the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "e a {malitia} não odiou",
+          "forms": {
+            "order5": "e a {malitia} não odiou"
+          },
+          "note": "Draft 1: the Latin's order; ends oxytone.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "35:2": "The second colon = 13:3d's last colon (*non est timor Dei ante óculos eórum*), copied: *não há temor de Deus diante dos seus olhos* (Rom 3:18 in Ps 13's notes).",
+    "35:4": "The first colon is verbless; 'são' supplied (grammar). dolus → engano (row).",
+    "35:5": "meditári + accusative → meditar (2:1); cubíle → leito (4:5 *nos vossos leitos*); the natural order, the verb first.",
+    "35:7": "Both cola verbless; 'é', 'são' supplied. *montes Dei* kept (not 'great mountains').",
+    "35:8": "Fílii hóminum → os filhos dos homens; speráre → esperar.",
+    "35:10": "The Latin's *lúmine … lumen* kept as *luz … luz* — one word twice, as asked.",
+    "35:11": "rectus corde → reto de coração (row).",
+    "35:13": "operári iniquitátem → praticar a iniquidade (row); expéllere → expulsar (row, names 35:13); stare → estar de pé (17:39 *e não poderão estar de pé*). *Ibi* → 'Ali'."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm35.txt, 13 prayed verses (35:2–35:13 with 35:7b; no 35:1, the titulus, D7). No flex. Liturgy by grep (ps032/uses.py): Wednesday Lauds — antiphon *Dómine, * in cælo misericórdia tua* (Lauds I, Psalmi major.txt) and *Multiplicásti, Deus, * misericórdiam tuam* (Lauds II; another Latin than 35:7b); Matins versicle *V. Dómine, in cælo misericórdia tua. R. Et véritas tua usque ad nubes*; 35:9 an Alleluia (missa Sancti/01-31) and a Brazilian versicle; 35:10 a versicle (Sancti/08-06) and an antiphon with 35:9b (Pent02-5). In the Diurnal Monástico (from the Hebrew; used only as a witness of diction)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps035.md (Latin, LXX, WLC, Douay-Rheims, Diurnal 1962, Matos Soares 1932). DO's Portuguese not used (D12). Counts with ps005/grep_latin.py: prætendere, fons only here; malítia 7 lines, juménta 5, ubértas 2. Glossary applied: delínquere, dolus, conspéctus (à vista de), astáre + dative (pôr-se), inebriáre, voluptas, apud te, lumen, rectus corde, supérbia, movéri, operári iniquitátem, expéllere, stare; 35:2b copies 13:3d. Latin (= Greek) readings kept against the Hebrew: 35:2 (the unjust *said* he would sin, not 'transgression speaks'), 35:3 *agiu com engano à sua vista … seja encontrada e odiada*, 35:4 *não quis entender*, 35:7b *assim como multiplicastes*, 35:8 *esperarão*, 35:12 *o pé da soberba … não me abale*, 35:13 *foram expulsos*. Tests for the readers: 'cometeria faltas em si mesmo', 'à sua vista', 'encontrada e odiada', 'pôs-se em todo caminho', 'malícia', 'ao abrigo', 'fartura', 'junto de vós', 'não me abale'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. 35:3 second +6, 35:4 first +6 / second −4, 35:2 first +4, 35:5 first −3. 35:4 and 35:5 end on oxytones ('bem', 'odiou')."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. Two majors, one minor. «A tradução conserva, em geral, o conteúdo e as imagens do latim; os desvios identificados dizem respeito a duas relações sintáticas e a um singular traduzido pelo plural.» Passed 'cometeria faltas em si mesmo', 'agiu com engano à sua vista', 'pôs-se em todo caminho', 'malícia', the 35:6 ellipsis, 'animais', 'ao abrigo', 'fartura', 'junto de vós', 'não me abale'.",
+      "outcomes": [
+        {
+          "verse": "35:3",
+          "remark": "MAJOR: 'e odiada' coordinates what *ad ódium* subordinates → 'seja encontrada para ódio'",
+          "outcome": "taken",
+          "decision": "odium",
+          "reason": "As 'para ser odiada'; his calque is option 2."
+        },
+        {
+          "verse": "35:7b",
+          "remark": "MAJOR: *quemádmodum* is an exclamation, 'assim como' makes a comparison → 'como multiplicastes … ó Deus!'",
+          "outcome": "taken",
+          "decision": "quemadmodum"
+        },
+        {
+          "verse": "35:9",
+          "remark": "minor: *voluptátis* singular → 'da vossa delícia'",
+          "outcome": "refused",
+          "decision": "potabis",
+          "reason": "The voluptas row (26:4b, the same remark refused): the plural is the idiom; the singular is an option."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Four remarks; best 35:10, worst 35:2. «O salmo tem sobriedade e imagens fortes, mas algumas inversões e elipses ainda fazem ouvir a tradução por trás da oração.» Two taken (one in part), two refused with options.",
+      "outcomes": [
+        {
+          "verse": "35:2",
+          "remark": "worst line: 'cometeria faltas' long → 'que pecaria em si mesmo'",
+          "outcome": "option",
+          "decision": "semetipso",
+          "reason": "*pecar* is peccáre's; delínquere → cometer faltas (row)."
+        },
+        {
+          "verse": "35:5",
+          "remark": "the inversion leaves the verb hanging → 'mas não odiou a malícia'",
+          "outcome": "taken",
+          "decision": "order5"
+        },
+        {
+          "verse": "35:6",
+          "remark": "the ellipsis sounds interrupted → 'e a vossa verdade chega até as nuvens'",
+          "outcome": "option",
+          "decision": "v6b",
+          "reason": "The Latin's ellipsis; the colon is the Matins response said alone."
+        },
+        {
+          "verse": "35:9",
+          "remark": "'Serão embriagados da fartura' a foreign regency → 'Ficarão embriagados com a fartura'",
+          "outcome": "taken",
+          "decision": "inebriabuntur",
+          "reason": "In part: 'com'; the passive 'Serão' kept (the Latin's voice); 'Ficarão' is option 4."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1. 21 items, 5 unknown words (iniquidade ×4, torrente). Heard rightly or within the Latin's range: *dos seus olhos* (the unjust man's), *à sua vista* (God's — the Latin leaves it open), *encontrada e odiada* (God finds and hates), *não quis entender para agir bem*, *Meditou a iniquidade* (plotting), *a malícia* (intent to harm), *um grande abismo* (unfathomable; second, threatening), *Salvareis os homens e os animais*, *os filhos dos homens*, *junto de vós … a fonte da vida*, *na vossa luz veremos a luz*, *o pé da soberba* (the proud man's assault), *foram expulsos*.",
+      "outcomes": [
+        {
+          "verse": "35:3",
+          "remark": "'iniquidade' unknown (also 35:4, 35:5, 35:13)",
+          "outcome": "refused",
+          "reason": "iníquitas → iniquidade (glossary, every psalm); no plainer word keeps it apart from malítia and nequítia."
+        },
+        {
+          "verse": "35:9",
+          "remark": "'torrente' unknown",
+          "outcome": "refused",
+          "reason": "torrens → torrente (35:9, 17:5, 109:7); a common word, and the image of drink needs a stream."
+        },
+        {
+          "verse": "35:2",
+          "remark": "'cometeria faltas em si mesmo' heard first as 'against himself'",
+          "outcome": "refused",
+          "decision": "semetipso",
+          "reason": "The Latin's order and words (in semetípso after the verb); 'within himself' is heard too; option 1 fixes it."
+        },
+        {
+          "verse": "35:3",
+          "remark": "'seja encontrada e odiada' — whose hatred (God's, others', his own)",
+          "outcome": "taken",
+          "decision": "odium",
+          "reason": "Changed for the Latinist ('para ser odiada'); the Latin names no hater either."
+        },
+        {
+          "verse": "35:8",
+          "remark": "'esperarão' heard first as waiting",
+          "outcome": "refused",
+          "reason": "speráre → esperar (row; 7:2, 20:8, 90:2 the same two hearings); the Latin's word."
+        },
+        {
+          "verse": "35:9",
+          "remark": "'Serão embriagados' heard as drunk",
+          "outcome": "refused",
+          "decision": "inebriabuntur",
+          "reason": "The image kept unexplained (the inebriáre row, 22:5b)."
+        },
+        {
+          "verse": "35:12",
+          "remark": "'não me abale' heard first as faith / composure shaken",
+          "outcome": "refused",
+          "decision": "moveat",
+          "reason": "The movéri row records the same hearing; σαλεύσαι holds both."
+        },
+        {
+          "verse": "35:13",
+          "remark": "'Ali' — where?",
+          "outcome": "refused",
+          "reason": "Ibi, the Latin's; its place is not named."
+        },
+        {
+          "verse": "35:7",
+          "remark": "'um grande abismo' heard as threat",
+          "outcome": "refused",
+          "decision": "abyssus",
+          "reason": "Unfathomable was the first reading; the image is the Latin's."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "ps035/revise_v2.py: 35:3 'seja encontrada para ser odiada' (Latinist MAJOR); 35:7b 'como multiplicastes … ó Deus!' (Latinist MAJOR); 35:5 'mas não odiou a malícia' (the stylist); 35:9 'Serão embriagados com a fartura' (the stylist, in part). Refused with options: 35:2 'pecaria', 35:6 'chega até as nuvens', 35:9 'da vossa delícia'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. 35:5 now ends on a paroxytone ('malícia'). Lengths: 35:3 second +8 ('para ser odiada', the Latinist's purpose), 35:4 first +6 / second −4, 35:2 first +4, 35:10 first +4 / second −3, 35:5 first −3, 35:11 and 35:13 second +3. Accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. Clean of majors; two minors, both on words already ruled. Both draft-1 majors passed: 'seja encontrada para ser odiada' and 'como multiplicastes … ó Deus!'; so did 'Serão embriagados com a fartura' and 'mas não odiou a malícia'. «A tradução conserva adequadamente o sentido do latim, com duas pequenas imprecisões vocabulares.»",
+      "outcomes": [
+        {
+          "verse": "35:7b",
+          "remark": "minor: 'animais' generalizes juménta (domestic / working beasts) → 'os animais domésticos'",
+          "outcome": "refused",
+          "decision": "jumenta",
+          "reason": "8:8 gave pécora, the same Greek κτήνη, 'animais' (D15's test); 'domésticos' adds a word the Latin carries in its noun and lengthens the first colon. Option 'gado' names the narrower sense."
+        },
+        {
+          "verse": "35:9",
+          "remark": "minor: 'das vossas delícias' for the singular → 'do vosso deleite'",
+          "outcome": "refused",
+          "decision": "potabis",
+          "reason": "The voluptas row: the plural is the idiom (26:4b, the same remark refused); *deleite* is delectátio's. On draft 1 he asked 'da vossa delícia', which is the option."
+        }
+      ]
+    }
+  ]
+}

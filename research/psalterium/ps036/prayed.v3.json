@@ -1,0 +1,1794 @@
+{
+  "psalm": 36,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "draft",
+  "range": "36:1–36:40",
+  "verses": {
+    "36:1": "Não {aem1} dos malvados: * nem {zel} os que {fac1} a iniquidade.",
+    "36:2": "Porque, como o feno, depressa secarão: * e, como {olera}, logo cairão.",
+    "36:3": "Espera no Senhor, e {bonit}: * e habita a terra, e {pasc} nas suas riquezas.",
+    "36:4": "Deleita-te no Senhor: * e ele te dará as petições do teu coração.",
+    "36:5": "{revela} ao Senhor o teu caminho, e espera nele: * e ele {faciet}.",
+    "36:6": "E {educet} a tua justiça como a luz, e o teu juízo como o meio-dia: * {subd} ao Senhor, e {ora}.",
+    "36:7": "Não {aem7} daquele que prospera no seu caminho: * do homem que {fac7} injustiças.",
+    "36:8": "{desine} a ira, e abandona o furor: * não {aem8}, {malig8}.",
+    "36:9": "Porque os que {malig9} serão exterminados: * mas os que esperam pelo Senhor, {ipsi} {her9} a terra.",
+    "36:10": "{pusillum}, e {nonerit}: * e buscarás o seu lugar, e não o encontrarás.",
+    "36:11": "Mas os mansos {her11} a terra: * e se deleitarão na {multit} da paz.",
+    "36:12": "O pecador {observ} o justo: * e {v12b}.",
+    "36:13": "Mas o Senhor {irrid} dele: * porque {prosp} que virá o seu dia.",
+    "36:14": "Os pecadores desembainharam a espada: * armaram o seu arco,",
+    "36:14b": "Para {deic} o pobre e o {inops}: * para {truc} os retos de coração.",
+    "36:15": "Que a espada deles entre nos seus próprios corações: * e o arco deles seja quebrado.",
+    "36:16": "{melius} o pouco para o justo, * do que as muitas riquezas dos pecadores.",
+    "36:17": "Porque os braços dos pecadores serão quebrados: * mas o Senhor {confirm} os justos.",
+    "36:18": "O Senhor conhece os dias dos imaculados: * e a herança deles será para sempre.",
+    "36:19": "Não serão envergonhados no tempo mau, e nos dias de fome serão saciados: * porque os pecadores perecerão.",
+    "36:20": "Os inimigos do Senhor, porém, logo que forem honrados e exaltados: * {defic}.",
+    "36:21": "O pecador {mutuari}, e não pagará: * mas o justo {miser21}, e dará.",
+    "36:22": "Porque os que o bendizem {her22} a terra: * mas os que o maldizem {disper22}.",
+    "36:23": "{apud} serão dirigidos os passos do homem: * e ele {volet}.",
+    "36:24": "Quando cair, não {collid}: * porque o Senhor põe a sua mão por baixo.",
+    "36:25": "Fui jovem, e {etenim}: * e não vi o justo abandonado, nem a sua descendência {quaerens} pão.",
+    "36:26": "O dia todo {miser26} e empresta: * e a sua descendência {benedictione}.",
+    "36:27": "{declina}: * e habita pelos séculos dos séculos.",
+    "36:28": "Porque o Senhor ama o juízo, e não abandonará os seus santos: * para sempre serão conservados.",
+    "36:28b": "Os injustos serão punidos: * e a descendência dos ímpios perecerá.",
+    "36:29": "Mas os justos {her29} a terra: * e habitarão sobre ela pelos séculos dos séculos.",
+    "36:30": "A boca do justo meditará a sabedoria, * e a sua língua {loquetur}.",
+    "36:31": "A lei do seu Deus está no seu coração, * e {suppl} os seus passos.",
+    "36:32": "O pecador observa o justo: * e busca {mortif}.",
+    "36:33": "Mas o Senhor não o abandonará nas mãos dele: * nem o condenará, quando for julgado.",
+    "36:34": "Aguarda o Senhor, e guarda o seu caminho: e ele te exaltará, para que {her34}: * quando os pecadores perecerem, verás.",
+    "36:35": "Vi o ímpio {superex}, * e elevado como os cedros do Líbano.",
+    "36:36": "E passei, e eis que não existia: * e o busquei, e não foi encontrado o seu lugar.",
+    "36:37": "Guarda a inocência, e vê a equidade: * porque há {rel37} para o homem pacífico.",
+    "36:38": "Mas os injustos {disper38}, juntos: * {rel38} dos ímpios {interib}.",
+    "36:39": "A salvação dos justos, porém, vem do Senhor: * e ele é o protetor deles no tempo da tribulação.",
+    "36:40": "E o Senhor os auxiliará, e os livrará: * e os {eruet} dos pecadores, e os salvará: porque esperaram nele."
+  },
+  "decisions": [
+    {
+      "id": "aemulari",
+      "refs": [
+        "36:1",
+        "36:7",
+        "36:8"
+      ],
+      "latin": "Noli æmulári in malignántibus … Noli æmulári in eo, qui prosperátur … noli æmulári ut malignéris",
+      "kind": "word",
+      "why": "æmulári three times, the psalm's opening command repeated (παραζήλου three times in the Greek). L&S: in the bad sense \"to strive after or vie with enviously, to be envious of, be jealous of\". Douay-Rheims \"Be not emulous of … Envy not … have no emulation\"; Matos Soares 1932 \"Não invejes … Não invejes … não queiras ser émulo\". One Portuguese wording three times, as the Latin repeats one verb (rule 6). \"ter inveja de\" is the plain Brazilian phrase and lets 36:8, which has no object, stand as the Latin does (\"não tenhas inveja, a ponto de …\"). The cognate \"emular\" is current only as \"imitate to rival\" (and computing); it keeps the Latin's word but loses the envy the psalm is about. The Hebrew's \"fret not\" (DM1962 and modern Bibles: \"não te irrites\") is not the Latin's sense (rule 1). The antiphon of Tuesday Matins adapts 36:7 (Psalmi matutinum.txt: \"Noli æmulári * in eo qui prosperátur et facit iniquitátem\"; grep).",
+      "options": [
+        {
+          "label": "tenhas inveja ×3",
+          "forms": {
+            "aem1": "tenhas inveja",
+            "aem7": "tenhas inveja",
+            "aem8": "tenhas inveja"
+          },
+          "note": "Ruling: one phrase three times; L&S's bad sense.",
+          "from": "draft"
+        },
+        {
+          "label": "invejes ×3",
+          "forms": {
+            "aem1": "invejes",
+            "aem7": "invejes",
+            "aem8": "invejes"
+          },
+          "note": "Matos Soares 1932's verb; then zeláre would need another word (36:1).",
+          "from": "MS1932"
+        },
+        {
+          "label": "queiras rivalizar ×3",
+          "forms": {
+            "aem1": "queiras rivalizar com",
+            "aem7": "queiras rivalizar com",
+            "aem8": "queiras rivalizar"
+          },
+          "note": "The emulation (L&S's first sense, \"vie with\"); loses the envy.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "zelare",
+      "refs": [
+        "36:1"
+      ],
+      "latin": "neque zeláveris faciéntes iniquitátem",
+      "kind": "word",
+      "why": "zeláre (ζηλόω), beside æmulári (παραζηλόω) in the same verse: the Greek pairs a compound and its simple verb of one root, the Latin two different verbs. \"nem invejes\" answers \"Não tenhas inveja\" with the verb of the same root — the Greek's pairing, and two words for the Latin's two. Only other place: 72:3 \"Quia zelávi super iníquos\" (grep) — should follow (\"invejei\"). \"ter ciúme de\" is the cognate (ciúme < zelumen) but in Brazil is first a lover's jealousy; \"ter zelo por\" is devotion, the opposite sense. Douay-Rheims \"nor envy\"; Matos Soares 1932 \"nem sejas émulo\" (he gives æmulári's cognate to zeláre).",
+      "options": [
+        {
+          "label": "invejes",
+          "forms": {
+            "zel": "invejes"
+          },
+          "note": "Ruling: the verb of \"inveja\" (the Greek's simple beside its compound).",
+          "from": "DRB"
+        },
+        {
+          "label": "tenhas ciúme d",
+          "forms": {
+            "zel": "tenhas ciúme d"
+          },
+          "note": "The cognate; heard as a lover's jealousy.",
+          "from": "draft"
+        },
+        {
+          "label": "sejas émulo d",
+          "forms": {
+            "zel": "sejas émulo d"
+          },
+          "note": "Matos Soares 1932; bookish.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "facere_iniq",
+      "refs": [
+        "36:1",
+        "36:7"
+      ],
+      "latin": "faciéntes iniquitátem … in hómine faciénte injustítias",
+      "kind": "word",
+      "why": "fácere, twice: faciéntes iniquitátem (ποιοῦντας τὴν ἀνομίαν) and faciénte injustítias (ποιοῦντι παρανομίας). The glossary keeps \"praticar a iniquidade\" for operári iniquitátem (5:7a, 6:9; ἐργάζομαι), a different Latin and Greek verb; so fácere keeps its own plain verb, \"fazer\". Matos Soares 1932 \"praticam … comete\"; Douay-Rheims \"work … doth\".",
+      "options": [
+        {
+          "label": "fazem … faz",
+          "forms": {
+            "fac1": "fazem",
+            "fac7": "faz"
+          },
+          "note": "Ruling: fácere's own verb.",
+          "from": "draft"
+        },
+        {
+          "label": "praticam … pratica",
+          "forms": {
+            "fac1": "praticam",
+            "fac7": "pratica"
+          },
+          "note": "operári's verb (glossary); the more usual collocation.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "olera",
+      "refs": [
+        "36:2"
+      ],
+      "latin": "et quemádmodum ólera herbárum cito décident",
+      "kind": "word",
+      "why": "ólera herbárum (λάχανα χλόης): \"greens of the grass\" — ólus is a green, a pot-herb. Douay-Rheims \"the green herbs\"; Matos Soares 1932 \"as tenras hastes das plantas\" (explains). \"as ervas verdes\" keeps both nouns' matter (the herb and its greenness) in one phrase; \"as verduras das ervas\" keeps both nouns and is clumsy. décidere → cair (the glossary's literal sense, 89:6 véspere décidat): withered plants \"fall\".",
+      "options": [
+        {
+          "label": "as ervas verdes",
+          "forms": {
+            "olera": "as ervas verdes"
+          },
+          "note": "Ruling: Douay-Rheims.",
+          "from": "DRB"
+        },
+        {
+          "label": "as verduras das ervas",
+          "forms": {
+            "olera": "as verduras das ervas"
+          },
+          "note": "Both nouns kept; clumsy.",
+          "from": "draft"
+        },
+        {
+          "label": "as hortaliças",
+          "forms": {
+            "olera": "as hortaliças"
+          },
+          "note": "ólus alone; loses herbárum.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "bonitatem",
+      "refs": [
+        "36:3"
+      ],
+      "latin": "Spera in Dómino, et fac bonitátem",
+      "kind": "glossary",
+      "why": "fac bonitátem (ποίει χρηστότητα) — not \"fac bonum\", which 36:27 has (\"Declína a malo, et fac bonum\", copied from 33:15 \"faz o bem\"): the two must differ. The glossary's bónitas row has \"bonitátem fácere cum → usar de bondade com\" (118:65); here without a person, \"usa de bondade\". Douay-Rheims \"do good\" and Matos Soares 1932 \"faze obras boas\" merge it with 36:27.",
+      "options": [
+        {
+          "label": "usa de bondade",
+          "forms": {
+            "bonit": "usa de bondade"
+          },
+          "note": "Ruling: the bónitas row; apart from 36:27 \"faz o bem\".",
+          "from": "glossary"
+        },
+        {
+          "label": "faz o bem",
+          "forms": {
+            "bonit": "faz o bem"
+          },
+          "note": "Douay-Rheims; the same words as 36:27.",
+          "from": "DRB"
+        },
+        {
+          "label": "pratica a bondade",
+          "forms": {
+            "bonit": "pratica a bondade"
+          },
+          "note": "The noun kept; praticar is operári's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pasceris",
+      "refs": [
+        "36:3"
+      ],
+      "latin": "et pascéris in divítiis ejus",
+      "kind": "word",
+      "why": "pascéris, future passive of páscere, \"to feed, pasture\" (ποιμανθήσῃ, \"you will be shepherded\"). \"serás apascentado\" keeps the shepherd's verb and the passive; Douay-Rheims \"thou shalt be fed\"; Matos Soares 1932 \"te sustentarás\" (active, another verb). The Hebrew's \"feed on faithfulness\" is not the Latin's (rule 1).",
+      "options": [
+        {
+          "label": "serás apascentado",
+          "forms": {
+            "pasc": "serás apascentado"
+          },
+          "note": "Ruling: the pastoral verb, passive.",
+          "from": "draft"
+        },
+        {
+          "label": "serás alimentado",
+          "forms": {
+            "pasc": "serás alimentado"
+          },
+          "note": "Douay-Rheims \"fed\"; plainer, loses the pasture.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "revela",
+      "refs": [
+        "36:5"
+      ],
+      "latin": "Revéla Dómino viam tuam",
+      "kind": "word",
+      "why": "reveláre (ἀποκάλυψον): uncover, disclose — the Latin's and the Greek's image, the way laid open before the Lord. Douay-Rheims \"Commit\" and modern Bibles follow the Hebrew (\"roll onto\"); Matos Soares 1932 \"Expõe\". The glossary has \"desvendar\" for reveláre with eyes (118:18) and \"desnudar\" for woods (28:9); with a way to disclose, \"revelar\" is plain. The cost: it can be heard as telling God what he does not know — which the Latin also allows. The monastic Matins antiphon sings \"Revéla * Dómino viam meam\" and the Mass of 01-31 the verse (grep).",
+      "options": [
+        {
+          "label": "Revela",
+          "forms": {
+            "revela": "Revela"
+          },
+          "note": "Ruling: the Latin's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Descobre",
+          "forms": {
+            "revela": "Descobre"
+          },
+          "note": "uncover; heard first as \"find\".",
+          "from": "draft"
+        },
+        {
+          "label": "Expõe",
+          "forms": {
+            "revela": "Expõe"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Entrega",
+          "forms": {
+            "revela": "Entrega"
+          },
+          "note": "The Hebrew's sense (Douay-Rheims \"Commit\"): refused, rule 1.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "faciet",
+      "refs": [
+        "36:5"
+      ],
+      "latin": "et ipse fáciet",
+      "kind": "grammar",
+      "why": "\"et ipse fáciet\" has no object (καὶ αὐτὸς ποιήσει): \"and he himself will do (it)\". The pronoun \"ele\" says ipse; an object \"o\" would supply what the Latin leaves open (Douay-Rheims \"he will do it\"). Matos Soares 1932 \"e ele procederá\" changes the verb.",
+      "options": [
+        {
+          "label": "fará",
+          "forms": {
+            "faciet": "fará"
+          },
+          "note": "Ruling: no object, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "o fará",
+          "forms": {
+            "faciet": "o fará"
+          },
+          "note": "Douay-Rheims: the object supplied.",
+          "from": "DRB"
+        },
+        {
+          "label": "mesmo agirá",
+          "forms": {
+            "faciet": "mesmo agirá"
+          },
+          "note": "ipse heard; another verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "educet",
+      "refs": [
+        "36:6"
+      ],
+      "latin": "Et edúcet quasi lumen justítiam tuam",
+      "kind": "glossary",
+      "why": "edúcere → fazer sair (glossary; 17:20 \"E me fez sair para a amplidão\"): ἐξοίσει, \"will bring forth\". \"fará sair a tua justiça como a luz\" — the justice brought out into the open as light comes out; Douay-Rheims \"he will bring forth thy justice as the light\". Matos Soares 1932 \"fará brilhar\" gives the effect, not the verb. The natural order puts the object before the comparison.",
+      "options": [
+        {
+          "label": "fará sair",
+          "forms": {
+            "educet": "fará sair"
+          },
+          "note": "Ruling: the glossary's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "fará brilhar",
+          "forms": {
+            "educet": "fará brilhar"
+          },
+          "note": "Matos Soares 1932: the effect, not the verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "subditus",
+      "refs": [
+        "36:6"
+      ],
+      "latin": "súbditus esto Dómino, et ora eum",
+      "kind": "word",
+      "why": "súbditus esto: \"be subject\" — a state, in the imperative (the Greek ὑποτάγηθι is a passive aorist). subdere shares \"sujeitar\" with subjícere in the glossary (17:48 \"sujeitais os povos\"; one Greek verb, ὑποτάσσω). \"sê sujeito\" keeps the state and the passive; \"sujeita-te\" makes it an act (the middle); \"sê submisso\" is plainer and leaves the family. Matos Soares 1932 \"Sê obediente\". In DO the colon closes 36:6 (the Clementine prints it at the head of v. 7).",
+      "options": [
+        {
+          "label": "sê sujeito",
+          "forms": {
+            "subd": "sê sujeito"
+          },
+          "note": "Ruling: the state, the family of sujeitar.",
+          "from": "draft"
+        },
+        {
+          "label": "sujeita-te",
+          "forms": {
+            "subd": "sujeita-te"
+          },
+          "note": "The act (middle voice).",
+          "from": "draft"
+        },
+        {
+          "label": "sê submisso",
+          "forms": {
+            "subd": "sê submisso"
+          },
+          "note": "Plainer; another root.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ora",
+      "refs": [
+        "36:6"
+      ],
+      "latin": "et ora eum",
+      "kind": "word",
+      "why": "oráre → orar (glossary: orátio / oráre, 5:3–4), here with the person as object (ἱκέτευσον αὐτόν, \"entreat him\"). \"ora a ele\" keeps the psalter's verb of prayer; Matos Soares 1932 \"roga-lhe\" is rogáre's; \"suplica-lhe\" is deprecári's (D35).",
+      "options": [
+        {
+          "label": "ora a ele",
+          "forms": {
+            "ora": "ora a ele"
+          },
+          "note": "Ruling: oráre's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "roga-lhe",
+          "forms": {
+            "ora": "roga-lhe"
+          },
+          "note": "Matos Soares 1932; rogáre's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "desine",
+      "refs": [
+        "36:8"
+      ],
+      "latin": "Désine ab ira, et derelínque furórem",
+      "kind": "word",
+      "why": "désinere ab (παῦσαι ἀπό): \"cease from\". derelínquere → abandonar (glossary; this psalm has it four more times, 36:25, 28, 33). \"Deixa a ira\" is the plainest \"leave off\"; \"Desiste da ira\" keeps the \"from\"; Douay-Rheims \"Cease from anger\"; Matos Soares 1932 \"Guarda-te da ira\" is another sense. ira / furor → ira / furor (glossary).",
+      "options": [
+        {
+          "label": "Deixa",
+          "forms": {
+            "desine": "Deixa"
+          },
+          "note": "Ruling: plain.",
+          "from": "draft"
+        },
+        {
+          "label": "Desiste d",
+          "forms": {
+            "desine": "Desiste d"
+          },
+          "note": "ab heard.",
+          "from": "draft"
+        },
+        {
+          "label": "Cessa",
+          "forms": {
+            "desine": "Cessa"
+          },
+          "note": "Douay-Rheims \"Cease\".",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "malignari",
+      "refs": [
+        "36:8",
+        "36:9"
+      ],
+      "latin": "noli æmulári ut malignéris. Quóniam qui malignántur, exterminabúntur",
+      "kind": "word",
+      "why": "malignári, the verb, twice in two lines (πονηρεύεσθαι / οἱ πονηρευόμενοι): \"to do evil\". The glossary settles the participle as a noun → \"malvados\" (D24; 36:1 malignántibus) and leaves the verb open. One wording for both: \"fazer o mal\". ut + subjunctive after \"Noli æmulári\" is consecutive (ὥστε): \"a ponto de fazeres o mal\"; Douay-Rheims \"have no emulation to do evil\", Matos Soares 1932 \"não queiras ser émulo em fazer mal\". exterminári → exterminar (the cognate; the glossary uses the word for dispérdere, which does not meet it here).",
+      "options": [
+        {
+          "label": "a ponto de fazeres o mal … fazem o mal",
+          "forms": {
+            "malig8": "a ponto de fazeres o mal",
+            "malig9": "fazem o mal"
+          },
+          "note": "Ruling: consecutive, one verb twice.",
+          "from": "draft"
+        },
+        {
+          "label": "para fazeres o mal … fazem o mal",
+          "forms": {
+            "malig8": "para fazeres o mal",
+            "malig9": "fazem o mal"
+          },
+          "note": "A purpose clause; ut is consecutive here.",
+          "from": "draft"
+        },
+        {
+          "label": "para não fazeres o mal … fazem o mal",
+          "forms": {
+            "malig8": "para não fazeres o mal",
+            "malig9": "fazem o mal"
+          },
+          "note": "Reads the negation onto the clause; changes the sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ipsi",
+      "refs": [
+        "36:9"
+      ],
+      "latin": "sustinéntes autem Dóminum, ipsi hereditábunt terram",
+      "kind": "grammar",
+      "why": "ipsi resumes the hanging participle (αὐτοί): \"those who wait for the Lord — they shall inherit\". Matos Soares 1932 \"esses herdarão\"; the resumptive pronoun is the Latin's emphasis. sustinére → esperar por (D36).",
+      "options": [
+        {
+          "label": "esses",
+          "forms": {
+            "ipsi": "esses"
+          },
+          "note": "Ruling: Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "eles",
+          "forms": {
+            "ipsi": "eles"
+          },
+          "note": "Plainer; weaker.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "hereditare",
+      "refs": [
+        "36:9",
+        "36:11",
+        "36:22",
+        "36:29",
+        "36:34"
+      ],
+      "latin": "ipsi hereditábunt terram … Mansuéti autem hereditábunt terram",
+      "kind": "glossary",
+      "why": "hereditáre terram (κληρονομήσουσιν γῆν), the psalm's refrain: 36:9, 11, 22, 29, and the noun in 36:34 (hereditáte cápias terram); 24:13 already has \"herdará a terra\" (grep: hereditáre 6 lines). One wording every time. \"a terra\" keeps the Latin's openness between the land and the earth. 36:11 is the verse of the Beatitude: Mt 5:4 in the Clementine reads \"Beati mites: quoniam ipsi possidebunt terram\" (fetched, consult/bolls-VULG-40-5.json) — another Latin wording of the same Greek (κληρονομήσουσιν τὴν γῆν, Tischendorf, consult/bolls-TISCH-40-5.json); the psalm keeps its own verb. Stage two: 36:22 and 36:29 say the refrain again (herdarão a terra, as 9 and 11). 36:34 has the noun with cápere, \"ut hereditáte cápias terram\" (τοῦ κατακληρονομῆσαι γῆν): \"para que tomes a terra por herança\" — cápere's \"take\", the noun kept, and \"a terra\" as in the refrain (the glossary's \"hereditáte acquírere → adquirir por herança\", 118:111, is built the same way). Matos Soares 1932 \"para que possuas em herança a terra\". The versicle \"V. Exspécta Dóminum, et custódi viam ejus. R. Exaltábit te, ut hereditáte cápias terram\" (Psalmi matutinum.txt, grep) stands as \"V. Aguarda o Senhor, e guarda o seu caminho. R. Ele te exaltará, para que tomes a terra por herança.\"",
+      "options": [
+        {
+          "label": "herdarão",
+          "forms": {
+            "her9": "herdarão",
+            "her11": "herdarão",
+            "her22": "herdarão",
+            "her29": "herdarão",
+            "her34": "tomes a terra por herança"
+          },
+          "note": "Ruling: the Latin's verb (24:13).",
+          "from": "glossary"
+        },
+        {
+          "label": "possuirão",
+          "forms": {
+            "her9": "possuirão",
+            "her11": "possuirão",
+            "her22": "possuirão",
+            "her29": "possuirão",
+            "her34": "possuas a terra por herança"
+          },
+          "note": "Mt 5:4's Clementine verb; not this Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pusillum",
+      "refs": [
+        "36:10"
+      ],
+      "latin": "Et adhuc pusíllum, et non erit peccátor",
+      "kind": "grammar",
+      "why": "\"Et adhuc pusíllum\" (καὶ ἔτι ὀλίγον): \"and yet a little (while)\". \"E ainda um pouco\" keeps the Latin's words (Matos Soares 1932 \"Ainda um pouco\"); \"Mais um pouco\" is the everyday idiom. Heard (draft 1): the stylist — «A expressão temporal fica suspensa de um modo pouco português» → 'E mais um pouco'. Taken: it keeps \"et\" and pusíllum; adhuc is said by \"mais\" in the everyday phrase for \"a little while longer\".",
+      "options": [
+        {
+          "label": "E mais um pouco",
+          "forms": {
+            "pusillum": "E mais um pouco"
+          },
+          "note": "Ruling (draft 2): the stylist; adhuc as \"mais\", the idiom.",
+          "from": "stylist"
+        },
+        {
+          "label": "E ainda um pouco",
+          "forms": {
+            "pusillum": "E ainda um pouco"
+          },
+          "note": "Draft 1. Ruling: the Latin's words.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nonerit",
+      "refs": [
+        "36:10"
+      ],
+      "latin": "et non erit peccátor",
+      "kind": "grammar",
+      "why": "\"non erit peccátor\": \"the sinner will not be\". The next colon asks for \"his place\", so the sinner is one man, not sinners in general: \"o pecador não existirá\" (Matos Soares 1932 \"não mais existirá o pecador\"). \"não haverá pecador\" is heard as \"there will be no sinners\".",
+      "options": [
+        {
+          "label": "o pecador não existirá",
+          "forms": {
+            "nonerit": "o pecador não existirá"
+          },
+          "note": "Ruling: the one sinner whose place is sought.",
+          "from": "MS1932"
+        },
+        {
+          "label": "não haverá pecador",
+          "forms": {
+            "nonerit": "não haverá pecador"
+          },
+          "note": "Generic.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "multitudo",
+      "refs": [
+        "36:11"
+      ],
+      "latin": "et delectabúntur in multitúdine pacis",
+      "kind": "glossary",
+      "why": "multitúdo → multidão (glossary, open; the row names 36:11). Odd with an abstract, as the Latin is (ἐπὶ πλήθει εἰρήνης); Douay-Rheims \"abundance\", Matos Soares 1932 \"abundância\" — abundántia's word (71:7 abundántia pacis, grep), which would merge the two Latin phrases.",
+      "options": [
+        {
+          "label": "multidão",
+          "forms": {
+            "multit": "multidão"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "abundância",
+          "forms": {
+            "multit": "abundância"
+          },
+          "note": "Douay-Rheims, Matos Soares 1932; abundántia's word (71:7).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "observabit",
+      "refs": [
+        "36:12"
+      ],
+      "latin": "Observábit peccátor justum",
+      "kind": "word",
+      "why": "observáre (παρατηρήσεται, watch closely, lie in wait). 36:32 \"Consíderat peccátor justum\" says the same with another Latin and Greek verb (κατανοεῖ), and the glossary gives consideráre with a person \"observar\" (21:18); observáre is also \"observar\" for vanities (30:7). \"espreitar\" (watch unseen, waiting) keeps the two verbs of the psalm apart and says the Greek's hostile watching; Matos Soares 1932 and Douay-Rheims \"observará / shall watch\".",
+      "options": [
+        {
+          "label": "espreitará",
+          "forms": {
+            "observ": "espreitará"
+          },
+          "note": "Ruling: apart from 36:32 \"observa\".",
+          "from": "draft"
+        },
+        {
+          "label": "observará",
+          "forms": {
+            "observ": "observará"
+          },
+          "note": "Matos Soares 1932; the cognate; merges with 36:32.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "irridebit",
+      "refs": [
+        "36:13"
+      ],
+      "latin": "Dóminus autem irridébit eum",
+      "kind": "glossary",
+      "why": "irridére → rir de (glossary, 2:4 \"O que habita nos céus rir-se-á deles\" family; ἐκγελάσεται). Matos Soares 1932 \"zombará\" is subsannáre's word (glossary).",
+      "options": [
+        {
+          "label": "rirá",
+          "forms": {
+            "irrid": "rirá"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "zombará",
+          "forms": {
+            "irrid": "zombará"
+          },
+          "note": "Matos Soares 1932; subsannáre's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "prospicit",
+      "refs": [
+        "36:13"
+      ],
+      "latin": "quóniam próspicit quod véniet dies ejus",
+      "kind": "word",
+      "why": "prospícere (προβλέπει, \"foresees\"); the glossary's row (13:2) gives \"olhar\" and names this verse as another sense: \"sees ahead\". \"prevê\" is the plain verb of foresight (though of pro-vidére's root: providére only at 15:8, \"ver\", so nothing collides); Douay-Rheims \"foreseeth\"; Matos Soares 1932 \"vê\".",
+      "options": [
+        {
+          "label": "prevê",
+          "forms": {
+            "prosp": "prevê"
+          },
+          "note": "Ruling: foresight, as the Greek.",
+          "from": "DRB"
+        },
+        {
+          "label": "vê de longe",
+          "forms": {
+            "prosp": "vê de longe"
+          },
+          "note": "The pro- as distance.",
+          "from": "draft"
+        },
+        {
+          "label": "vê",
+          "forms": {
+            "prosp": "vê"
+          },
+          "note": "Matos Soares 1932; loses the pro-.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deiciant",
+      "refs": [
+        "36:14b"
+      ],
+      "latin": "Ut deíciant páuperem et ínopem",
+      "kind": "word",
+      "why": "deícere (καταβαλεῖν), \"throw down\". \"derrubar\" would be the word, but it is supplantáre's in the glossary (17:40) and 36:31 has supplantabúntur. \"abater\" (strike down) is free; Douay-Rheims \"To cast down\"; Matos Soares 1932 \"arruinarem\" (ruin).",
+      "options": [
+        {
+          "label": "abater",
+          "forms": {
+            "deic": "abater"
+          },
+          "note": "Ruling: free; apart from supplantáre (36:31).",
+          "from": "draft"
+        },
+        {
+          "label": "lançar por terra",
+          "forms": {
+            "deic": "lançar por terra"
+          },
+          "note": "The image; lançar is proícere's.",
+          "from": "draft"
+        },
+        {
+          "label": "derrubar",
+          "forms": {
+            "deic": "derrubar"
+          },
+          "note": "supplantáre's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inops",
+      "refs": [
+        "36:14b"
+      ],
+      "latin": "páuperem et ínopem",
+      "kind": "glossary",
+      "why": "pauper et inops → \"o pobre e o indigente\" (the inops row, open: \"indigente\" was unknown to the blind reader three times — Pss 11, 13 — and \"desvalido\" (MS1932 in Ps 11) is the candidate named there). Kept with the row so that the evidence accumulates in one place; the pair is the Latin's (Matos Soares 1932 \"o pobre e o indigente\" here).",
+      "options": [
+        {
+          "label": "indigente",
+          "forms": {
+            "inops": "indigente"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "desvalido",
+          "forms": {
+            "inops": "desvalido"
+          },
+          "note": "The row's named fall-back.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "trucident",
+      "refs": [
+        "36:14b"
+      ],
+      "latin": "ut trucídent rectos corde",
+      "kind": "word",
+      "why": "trucidáre (σφάξαι, slaughter): the cognate \"trucidar\" is current (the news's word for a massacre) and keeps the violence; \"matar\" is flat; \"degolar\" is σφάζω's image but not the Latin's. Matos Soares 1932 \"assassinarem\". Heard (draft 1): the blind reader listed 'trucidar' as unknown. Draft 2 'massacrar' keeps the violence and the plural object (the upright, many), where 'matar' is flat and 'degolar' the Greek's image. Only place (grep).",
+      "options": [
+        {
+          "label": "massacrar",
+          "forms": {
+            "truc": "massacrar"
+          },
+          "note": "Ruling (draft 2): the slaughter of many, a word every hearer knows.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "trucidar",
+          "forms": {
+            "truc": "trucidar"
+          },
+          "note": "Draft 1: unknown to the blind reader.",
+          "from": "draft"
+        },
+        {
+          "label": "degolar",
+          "forms": {
+            "truc": "degolar"
+          },
+          "note": "The Greek's throat-cutting.",
+          "from": "draft"
+        },
+        {
+          "label": "matar",
+          "forms": {
+            "truc": "matar"
+          },
+          "note": "Flat.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "melius",
+      "refs": [
+        "36:16"
+      ],
+      "latin": "Mélius est módicum justo",
+      "kind": "order",
+      "why": "\"Mélius est … super\": the comparative with super, \"better … than\" (κρεῖσσον … ὑπέρ). The Latin's order (\"Melhor é\") keeps the verse opening on the comparison, as the Latin; \"Mais vale\" (Matos Soares 1932) is the idiom.",
+      "options": [
+        {
+          "label": "Melhor é",
+          "forms": {
+            "melius": "Melhor é"
+          },
+          "note": "Ruling: the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "Mais vale",
+          "forms": {
+            "melius": "Mais vale"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confirmat",
+      "refs": [
+        "36:17"
+      ],
+      "latin": "confírmat autem justos Dóminus",
+      "kind": "glossary",
+      "why": "confirmáre → confirmar (glossary, open; options fortalecer, firmar). ὑποστηρίζει, \"props up\". \"confirma os justos\" keeps the Latin's word; it may be heard as the sacrament or as \"verifies\" — a test for the readers. \"fortalece\" (Matos Soares 1932, Douay-Rheims \"strengtheneth\") is confortári's in the glossary (9:20, 26:14). The Tuesday Matins antiphon sings the verse (\"Brácchia peccatórum * conteréntur, confírmat autem justos Dóminus\", grep). Heard (draft 1): the blind reader took \"o Senhor confirma os justos\" as \"reconhece ou atesta que eles são justos\" (likely), \"fortalece ou mantém firmes\" second. That is the risk named above, and it failed. Draft 2 \"sustenta\" (ὑποστηρίζει, \"props up\"; free in the glossary — sustinére is \"esperar por\", D36). Evidence for the open confirmáre row: with persons as object \"confirmar\" is heard as attesting; 118:28 \"confirmai-me\" (with \"nas vossas palavras\") has not been tested.",
+      "options": [
+        {
+          "label": "sustenta",
+          "forms": {
+            "confirm": "sustenta"
+          },
+          "note": "Ruling (draft 2): the Greek's prop; heard rightly where \"confirma\" was not.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "confirma",
+          "forms": {
+            "confirm": "confirma"
+          },
+          "note": "Draft 1. Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "fortalece",
+          "forms": {
+            "confirm": "fortalece"
+          },
+          "note": "Matos Soares 1932; confortári's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deficientes",
+      "refs": [
+        "36:20"
+      ],
+      "latin": "deficiéntes, quemádmodum fumus defícient",
+      "kind": "glossary",
+      "why": "The participle + finite verb of one root (ἐκλιπόντες … ἐξέλιπον): the glossary row gives gerund + verb and never drops the repetition (117:11, 117:18). defícere → desfalecer (glossary). The row warns that \"desfalecer\" fails with a person meaning \"is gone\" (11:2); here it is failing and fading, as smoke thins — the sense 17:38 kept (\"até que desfaleçam\"). 101:4 \"defecérunt sicut fumus dies mei\" should agree. Douay-Rheims \"shall come to nothing and vanish like smoke\"; Matos Soares 1932 \"cairão e se desvanecerão como o fumo\" — both drop the repetition. fumus → fumaça (glossary). Heard (draft 1): the stylist, worst line — «A comparação separa as duas formas do verbo e obriga o ouvido a recompor a frase no fim» → 'desfalecendo, desfalecerão como a fumaça'. Taken (D2, order only): the figure is heard as one, as at 117:11 \"cercando, cercaram-me\", and the final falls on \"fumaça\" (paroxytone), which also ends the -ão of 36:19 / 36:20. The blind reader heard it as vanishing like smoke — the Latin's sense.",
+      "options": [
+        {
+          "label": "desfalecendo, desfalecerão como a fumaça",
+          "forms": {
+            "defic": "desfalecendo, desfalecerão como a fumaça"
+          },
+          "note": "Ruling (draft 2): the two forms together, as the row's other verses; the comparison last.",
+          "from": "stylist"
+        },
+        {
+          "label": "desfalecendo, como a fumaça desfalecerão",
+          "forms": {
+            "defic": "desfalecendo, como a fumaça desfalecerão"
+          },
+          "note": "Draft 1: the Latin's order; the comparison splits the two forms.",
+          "from": "glossary"
+        },
+        {
+          "label": "desaparecendo, como a fumaça desaparecerão",
+          "forms": {
+            "defic": "desaparecendo, como a fumaça desaparecerão"
+          },
+          "note": "The vanishing, plain; leaves the row.",
+          "from": "draft"
+        },
+        {
+          "label": "desfalecerão e se desvanecerão como a fumaça",
+          "forms": {
+            "defic": "desfalecerão e se desvanecerão como a fumaça"
+          },
+          "note": "Two verbs, as Matos Soares 1932; drops the repetition.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "order12",
+      "refs": [
+        "36:12"
+      ],
+      "latin": "et stridébit super eum déntibus suis",
+      "kind": "order",
+      "why": "strídere déntibus super eum (βρύξει ἐπ᾿ αὐτὸν τοὺς ὀδόντας αὐτοῦ): Portuguese grinds the teeth as an object (\"ranger os dentes\"). Draft 1 kept the Latin's order, \"contra ele\" before the teeth. Heard (draft 1): the stylist — «“Contra ele” interrompe a unidade natural de “ranger os dentes”» → 'contra ele rangerá os seus dentes'. Taken in the plainer order, verb and object together and \"contra ele\" last (D2: order only); the final is still paroxytone.",
+      "options": [
+        {
+          "label": "rangerá os seus dentes contra ele",
+          "forms": {
+            "v12b": "rangerá os seus dentes contra ele"
+          },
+          "note": "Ruling (draft 2): the collocation whole.",
+          "from": "stylist"
+        },
+        {
+          "label": "contra ele rangerá os seus dentes",
+          "forms": {
+            "v12b": "contra ele rangerá os seus dentes"
+          },
+          "note": "The stylist's order.",
+          "from": "stylist"
+        },
+        {
+          "label": "rangerá contra ele os seus dentes",
+          "forms": {
+            "v12b": "rangerá contra ele os seus dentes"
+          },
+          "note": "Draft 1: the Latin's order.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mutuari",
+      "refs": [
+        "36:21"
+      ],
+      "latin": "Mutuábitur peccátor, et non solvet",
+      "kind": "word",
+      "why": "mutuári (δανείζεται), deponent: \"to borrow\". Kept apart from 36:26 cómmodat (δανείζει, \"lends\") → \"empresta\" — the Greek has one verb in two voices, the Latin two verbs, and Portuguese has the pair. \"tomará emprestado\" is the plain \"borrow\"; Matos Soares 1932 \"pedirá emprestado\" (asks for a loan — the borrowing not yet done). mutuári only here (grep). sólvere → pagar.",
+      "options": [
+        {
+          "label": "tomará emprestado",
+          "forms": {
+            "mutuari": "tomará emprestado"
+          },
+          "note": "Ruling: \"borrow\".",
+          "from": "draft"
+        },
+        {
+          "label": "pedirá emprestado",
+          "forms": {
+            "mutuari": "pedirá emprestado"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "miseretur",
+      "refs": [
+        "36:21",
+        "36:26"
+      ],
+      "latin": "justus autem miserétur et tríbuet … Tota die miserétur et cómmodat",
+      "kind": "glossary",
+      "why": "miseréri, absolute, twice (οἰκτίρει 21, ἐλεᾷ 26 — two Greek verbs, one Latin): one wording both times. The glossary has miseréri → ter piedade (de), and the absolute use keeps it: \"tem piedade\". Douay-Rheims \"sheweth mercy\" (as a deed: then the lending and giving follow); Matos Soares 1932 \"é compassivo\" (21) and \"exercendo a misericórdia\" (26). 111:5 \"Jucúndus homo qui miserétur et cómmodat\" (grep) is 36:26's pair of verbs and should copy it (\"que tem piedade e empresta\").",
+      "options": [
+        {
+          "label": "tem piedade ×2",
+          "forms": {
+            "miser21": "tem piedade",
+            "miser26": "tem piedade"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "tem compaixão ×2",
+          "forms": {
+            "miser21": "tem compaixão",
+            "miser26": "tem compaixão"
+          },
+          "note": "Plainer as a trait; leaves the row.",
+          "from": "draft"
+        },
+        {
+          "label": "é compassivo … tem compaixão",
+          "forms": {
+            "miser21": "é compassivo",
+            "miser26": "tem compaixão"
+          },
+          "note": "Matos Soares 1932's adjective at 36:21.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "disperire",
+      "refs": [
+        "36:22",
+        "36:38"
+      ],
+      "latin": "maledicéntes autem ei disperíbunt … Injústi autem disperíbunt simul",
+      "kind": "word",
+      "why": "The verbs of ending in this psalm: the Latin varies five (exterminári 9, períre 19 / 28b / 34, disperíre 22 / 38, interíre 38) where the Greek has mostly one (ἐξολεθρεύω behind exterminabúntur, disperíbunt, períbit, períerint, interíbunt; ἀπολοῦνται behind períbunt at 20 — consult/parallels/ps036.md). Rule 1 follows the Latin, so each keeps its own word: exterminári → ser exterminado (36:9), períre → perecer (glossary; 36:19, 28b, 34), disperíre → \"perecer de todo\" (L&S \"to perish utterly\": the dis- as completeness, on perecer's own verb), interíre its own (decision interire). disperíre elsewhere only 82:11 \"Disperiérunt in Endor\" (grep), which can follow. \"destruir\" is destrúere's, \"exterminar\" dispérdere's and exterminári's. Douay-Rheims \"shall perish … shall be destroyed\"; Matos Soares 1932 \"perecerão … perecerão (todos) igualmente\".",
+      "options": [
+        {
+          "label": "perecerão de todo ×2",
+          "forms": {
+            "disper22": "perecerão de todo",
+            "disper38": "perecerão de todo"
+          },
+          "note": "Ruling: perecer's verb with the dis-.",
+          "from": "draft"
+        },
+        {
+          "label": "perecerão ×2",
+          "forms": {
+            "disper22": "perecerão",
+            "disper38": "perecerão"
+          },
+          "note": "Merges with períre.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se perderão ×2",
+          "forms": {
+            "disper22": "se perderão",
+            "disper38": "se perderão"
+          },
+          "note": "The other sense of períre (\"be lost\"); heard as damnation.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "interire",
+      "refs": [
+        "36:38"
+      ],
+      "latin": "relíquiæ impiórum interíbunt",
+      "kind": "word",
+      "why": "interíre (ἐξολεθρευθήσονται), the second verb of 36:38 beside disperíbunt: \"to perish, go to ruin, die out\". A third word is needed in one verse (perecer de todo … ?). \"se extinguirá\" fits the subject, a remnant (what is left of a line dies out), and is plain. Elsewhere 48:18 \"Quóniam cum interíerit\" (grep), of a man, which will want \"morrer\" there. Matos Soares 1932 \"será destruído\" (destrúere's).",
+      "options": [
+        {
+          "label": "se extinguirá",
+          "forms": {
+            "interib": "se extinguirá"
+          },
+          "note": "Ruling: a remnant dies out.",
+          "from": "draft"
+        },
+        {
+          "label": "morrerá",
+          "forms": {
+            "interib": "morrerá"
+          },
+          "note": "Plain; 48:18's.",
+          "from": "draft"
+        },
+        {
+          "label": "será destruído",
+          "forms": {
+            "interib": "será destruído"
+          },
+          "note": "Matos Soares 1932; destrúere's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "apud",
+      "refs": [
+        "36:23"
+      ],
+      "latin": "Apud Dóminum gressus hóminis dirigéntur",
+      "kind": "glossary",
+      "why": "apud → junto de (glossary, 21:26 \"Junto de vós está o meu louvor\"; the Latin's apud, not the Greek's παρὰ κυρίου, \"from the Lord\"). Douay-Rheims \"With the Lord shall the steps of a man be directed\"; Matos Soares 1932 makes the Lord the agent (\"pelo Senhor\"). The Mass of 06-28 sings the verse (grep). dirígere → dirigir (glossary; the passive, as 118:5 \"sejam dirigidos\").",
+      "options": [
+        {
+          "label": "Junto do Senhor",
+          "forms": {
+            "apud": "Junto do Senhor"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Pelo Senhor",
+          "forms": {
+            "apud": "Pelo Senhor"
+          },
+          "note": "Matos Soares 1932: the agent (the Greek's \"from\").",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "volet",
+      "refs": [
+        "36:23"
+      ],
+      "latin": "et viam ejus volet",
+      "kind": "glossary",
+      "why": "velle → querer (glossary; θελήσει). \"e ele quererá o seu caminho\": the Lord (subject supplied, as the Greek's and the Latin's third person implies) wills the man's way — Douay-Rheims \"he shall like well his way\", Matos Soares 1932 \"e o seu caminho será aprovado por ele\". The row notes 17:20 \"porque me quis\" heard as loved / chose — the same range here.",
+      "options": [
+        {
+          "label": "quererá",
+          "forms": {
+            "volet": "quererá o seu caminho"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "se agradará d",
+          "forms": {
+            "volet": "se agradará do seu caminho"
+          },
+          "note": "Douay-Rheims's sense; another verb.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "collidetur",
+      "refs": [
+        "36:24"
+      ],
+      "latin": "Cum cecíderit non collidétur",
+      "kind": "word",
+      "why": "collídere (καταραχθήσεται, \"be dashed down\"): \"strike together, crush\". \"não será esmagado\" keeps the crushing; Douay-Rheims \"shall not be bruised\"; Matos Soares 1932 \"não se ferirá\". \"quebrar\" is confríngere's and contérere's (36:15, 17). Only place (grep). suppónit manum suam → \"põe a sua mão por baixo\".",
+      "options": [
+        {
+          "label": "será esmagado",
+          "forms": {
+            "collid": "será esmagado"
+          },
+          "note": "Ruling: the crush.",
+          "from": "draft"
+        },
+        {
+          "label": "se ferirá",
+          "forms": {
+            "collid": "se ferirá"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se despedaçará",
+          "forms": {
+            "collid": "se despedaçará"
+          },
+          "note": "The dashing to pieces (the Greek).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "etenim",
+      "refs": [
+        "36:25"
+      ],
+      "latin": "Júnior fui, étenim sénui",
+      "kind": "grammar",
+      "why": "Júnior fui (νεώτερος ἐγενόμην, the comparative as \"young\"), étenim sénui (καὶ γὰρ ἐγήρασα): étenim confirms — \"and indeed I have grown old\". \"e já envelheci\" says the confirmation by the completed state (\"já\"); \"e de fato envelheci\" names it and is heavy. Matos Soares 1932 \"e já sou velho\"; Douay-Rheims \"and now am old\".",
+      "options": [
+        {
+          "label": "já envelheci",
+          "forms": {
+            "etenim": "já envelheci"
+          },
+          "note": "Ruling: plain; the completed state.",
+          "from": "draft"
+        },
+        {
+          "label": "de fato envelheci",
+          "forms": {
+            "etenim": "de fato envelheci"
+          },
+          "note": "étenim named.",
+          "from": "draft"
+        },
+        {
+          "label": "agora sou velho",
+          "forms": {
+            "etenim": "agora sou velho"
+          },
+          "note": "Douay-Rheims.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "quaerens",
+      "refs": [
+        "36:25"
+      ],
+      "latin": "nec semen ejus quærens panem",
+      "kind": "glossary",
+      "why": "quǽrere → buscar (glossary, and 36:10, 36:36 in this psalm): \"buscando pão\" (ζητοῦν ἄρτους). Matos Soares 1932 \"mendigando\" says what the seeking is; the Latin leaves it. semen → descendência (D32; no plant image here).",
+      "options": [
+        {
+          "label": "buscando",
+          "forms": {
+            "quaerens": "buscando"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "mendigando",
+          "forms": {
+            "quaerens": "mendigando"
+          },
+          "note": "Matos Soares 1932: explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "benedictione",
+      "refs": [
+        "36:26"
+      ],
+      "latin": "et semen illíus in benedictióne erit",
+      "kind": "grammar",
+      "why": "\"in benedictióne erit\": \"will be in blessing\", i.e. blessed (the Greek εἰς εὐλογίαν ἔσται, \"will be for a blessing\", is another build). \"será abençoada\" is the Latin's sense in plain words (Matos Soares 1932); \"estará em bênção\" keeps the noun and is not Portuguese; \"será uma bênção\" is the Greek's (and 20:7 \"fareis dele uma bênção\" is dare in benedictiónem, the Latin with in + accusative). \"abençoar\" is not benedícere's here (36:22 has \"bendizem\" for the men who bless); the participle is the everyday word.",
+      "options": [
+        {
+          "label": "será abençoada",
+          "forms": {
+            "benedictione": "será abençoada"
+          },
+          "note": "Ruling: the Latin's sense, plain.",
+          "from": "MS1932"
+        },
+        {
+          "label": "estará na bênção",
+          "forms": {
+            "benedictione": "estará na bênção"
+          },
+          "note": "The noun kept.",
+          "from": "draft"
+        },
+        {
+          "label": "será uma bênção",
+          "forms": {
+            "benedictione": "será uma bênção"
+          },
+          "note": "The Greek's εἰς.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "declina",
+      "refs": [
+        "36:27"
+      ],
+      "latin": "Declína a malo, et fac bonum",
+      "kind": "glossary",
+      "why": "36:27a is 33:15a's line with declináre for divértere (one Greek: ἔκκλινον ἀπὸ κακοῦ καὶ ποίησον ἀγαθόν in both); the glossary's formula row says 36:27 should copy 33:15a \"Aparta-te do mal, e faz o bem\", and declináre a → apartar-se de is itself the glossary's row (118:21). \"faz o bem\" is why 36:3 fac bonitátem took \"usa de bondade\". The second colon, \"et inhábita in sǽculum sǽculi\" → \"e habita pelos séculos dos séculos\" (D27; inhabitáre absolute).",
+      "options": [
+        {
+          "label": "Aparta-te do mal, e faz o bem",
+          "forms": {
+            "declina": "Aparta-te do mal, e faz o bem"
+          },
+          "note": "Ruling: = 33:15a.",
+          "from": "glossary"
+        },
+        {
+          "label": "Desvia-te do mal, e faz o bem",
+          "forms": {
+            "declina": "Desvia-te do mal, e faz o bem"
+          },
+          "note": "Matos Soares 1932; desviar is avértere's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "loquetur",
+      "refs": [
+        "36:30"
+      ],
+      "latin": "et lingua ejus loquétur judícium",
+      "kind": "glossary",
+      "why": "loqui with an accusative of content (λαλήσει κρίσιν): the glossary's row for loqui mendácium → \"falar mentira\" and 16:9b \"a boca deles falou soberba\" (the Latinist's major there asked for the content, not the manner). judícium → juízo (D15). \"falará o juízo\": the content, with the article (as \"a sabedoria\" in the first colon); \"falará juízo\" without it is heard as \"talk sense\". Matos Soares 1932 \"falará prudência\". The verse and 36:31 are the Gradual and versicle of confessors (Commune C4a, C5; Mass 06-14 …, grep): \"Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium\" stands whole.",
+      "options": [
+        {
+          "label": "falará o juízo",
+          "forms": {
+            "loquetur": "falará o juízo"
+          },
+          "note": "Ruling: the content, as 16:9b.",
+          "from": "glossary"
+        },
+        {
+          "label": "falará o que é reto",
+          "forms": {
+            "loquetur": "falará o que é reto"
+          },
+          "note": "Explains.",
+          "from": "draft"
+        },
+        {
+          "label": "falará com juízo",
+          "forms": {
+            "loquetur": "falará com juízo"
+          },
+          "note": "The manner (refused at 16:9b).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "supplantabuntur",
+      "refs": [
+        "36:31"
+      ],
+      "latin": "et non supplantabúntur gressus ejus",
+      "kind": "glossary",
+      "why": "supplantáre, passive, with gressus as subject (οὐχ ὑποσκελισθήσεται τὰ διαβήματα αὐτοῦ, \"will not be tripped\"). The glossary's row names this verse: derrubar is the ruling (17:40), \"with gressus as object fazer tropeçar is the natural verb and is the option\". The passive of that (\"não serão feitos tropeçar\") is not Portuguese; \"os seus passos não tropeçarão\" says it with the intransitive — the effect of the Latin's passive, without the agent the Latin leaves out anyway. \"não serão derrubados\" is the row's own verb (Douay-Rheims \"shall not be supplanted\"). Matos Soares 1932 \"andará com passo firme\" explains.",
+      "options": [
+        {
+          "label": "não tropeçarão",
+          "forms": {
+            "suppl": "não tropeçarão"
+          },
+          "note": "Ruling: the row's option for gressus, intransitive.",
+          "from": "glossary"
+        },
+        {
+          "label": "não serão derrubados",
+          "forms": {
+            "suppl": "não serão derrubados"
+          },
+          "note": "The row's ruling word; passive kept.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "mortificare",
+      "refs": [
+        "36:32"
+      ],
+      "latin": "et quærit mortificáre eum",
+      "kind": "word",
+      "why": "mortificáre (θανατῶσαι): \"to put to death\". quǽrere + infinitive → \"busca\" (the glossary's buscar; 36:10, 25, 36). \"dar-lhe a morte\" (Matos Soares 1932) keeps \"morte\" in the verb, as mortificáre has mors; \"matá-lo\" is plain. The cognate \"mortificar\" means ascetic self-denial in a Catholic ear. Elsewhere 43:22 \"mortificámur tota die\", 78:11, 108:17 (grep).",
+      "options": [
+        {
+          "label": "dar-lhe a morte",
+          "forms": {
+            "mortif": "dar-lhe a morte"
+          },
+          "note": "Ruling: mors in the verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "matá-lo",
+          "forms": {
+            "mortif": "matá-lo"
+          },
+          "note": "Plain.",
+          "from": "draft"
+        },
+        {
+          "label": "fazê-lo morrer",
+          "forms": {
+            "mortif": "fazê-lo morrer"
+          },
+          "note": "The causative.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "superexaltatum",
+      "refs": [
+        "36:35"
+      ],
+      "latin": "Vidi ímpium superexaltátum",
+      "kind": "word",
+      "why": "superexaltáre (ὑπερυψούμενον): \"raised above\". exaltáre → exaltar (glossary); the super- as degree: \"sumamente exaltado\" (Matos Soares 1932). \"sobre-exaltado\" keeps the prefix and is not a word a hearer knows; \"exaltado acima de tudo\" adds. Only place (grep). et elevátum sicut cedros Líbani → \"e elevado como os cedros do Líbano\" (28:5 \"os cedros do Líbano\").",
+      "options": [
+        {
+          "label": "sumamente exaltado",
+          "forms": {
+            "superex": "sumamente exaltado"
+          },
+          "note": "Ruling: Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sobre-exaltado",
+          "forms": {
+            "superex": "sobre-exaltado"
+          },
+          "note": "The prefix kept; not current.",
+          "from": "draft"
+        },
+        {
+          "label": "exaltado acima de todos",
+          "forms": {
+            "superex": "exaltado acima de todos"
+          },
+          "note": "Adds the \"all\".",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "reliquiae",
+      "refs": [
+        "36:37",
+        "36:38"
+      ],
+      "latin": "quóniam sunt relíquiæ hómini pacífico … relíquiæ impiórum interíbunt",
+      "kind": "glossary",
+      "why": "relíquiæ twice in two verses, set against each other (ἐγκατάλειμμα ἀνθρώπῳ εἰρηνικῷ … τὰ ἐγκαταλείμματα τῶν ἀσεβῶν): what is left of a man — posterity, a remnant — for the peaceful and not for the wicked. One word both times. The glossary row is open with two words: \"sobras\" (16:14c, the leftovers of a meal) and \"restos\" (20:13, God's remnant), each by its Greek (κατάλοιπα, περίλοιπα); here a third Greek word. \"resto\" in the singular, the remnant of the prophets, avoids \"restos\" as mortal remains (named in the row). Matos Soares 1932 \"ficarão bens … o que ficar dos ímpios\"; Douay-Rheims \"remnants\". The antiphon \"Custódi innocéntiam * et vide æquitátem\" (Tuesday Matins, grep) takes the first colon only.",
+      "options": [
+        {
+          "label": "um resto … o resto",
+          "forms": {
+            "rel37": "um resto",
+            "rel38": "o resto"
+          },
+          "note": "Ruling: one word, the singular.",
+          "from": "draft"
+        },
+        {
+          "label": "restos … os restos",
+          "forms": {
+            "rel37": "restos",
+            "rel38": "os restos"
+          },
+          "note": "The Latin's plural; heard as mortal remains.",
+          "from": "DRB"
+        },
+        {
+          "label": "uma descendência … a descendência",
+          "forms": {
+            "rel37": "uma descendência",
+            "rel38": "a descendência"
+          },
+          "note": "The sense; semen's word (D32).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eruet",
+      "refs": [
+        "36:40"
+      ],
+      "latin": "et liberábit eos: et éruet eos a peccatóribus",
+      "kind": "glossary",
+      "why": "The glossary's éruere row names this verse: \"36:40 sets liberábit … éruet side by side, so not livrar\"; with a source → arrancar. liberáre → livrar (glossary). \"e os arrancará dos pecadores\". adjuváre → auxiliar (glossary, open). The perfect speravérunt → \"esperaram\" (Matos Soares 1932 has a present). Commune C3a-1 takes 36:39 (grep).",
+      "options": [
+        {
+          "label": "arrancará",
+          "forms": {
+            "eruet": "arrancará"
+          },
+          "note": "Ruling: the row, with a source.",
+          "from": "glossary"
+        },
+        {
+          "label": "tirará",
+          "forms": {
+            "eruet": "tirará"
+          },
+          "note": "Matos Soares 1932 (\"os tirará da mão dos\").",
+          "from": "MS1932"
+        },
+        {
+          "label": "libertará",
+          "forms": {
+            "eruet": "libertará"
+          },
+          "note": "The row's word without a source.",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "36:1": "malignántes → malvados (D24). iníquitas → iniquidade.",
+    "36:2": "velóciter → depressa (glossary), cito → logo; aréscere → secar (21:16 secou-se); décidere → cair. The two futures at mediant and final (secarão / cairão) rhyme, as the Latin's do (aréscent / décident); accepted as the Latin's own echo. fænum → feno.",
+    "36:3": "speráre in → esperar em; inhabitáre with an object → habitar (transitive, as the Latin; 36:27 and 36:29 have it without). divítiæ → riquezas.",
+    "36:4": "delectári in → deleitar-se em (κατατρύφησον; 36:11 has the same verb, delectabúntur, κατατρυφήσουσιν — one verb both times; 103:34 \"delectábor in Dómino\" should agree). petítio → petição (19:7a \"todas as tuas petições\"; the postulátio row leaves \"petição\" to petítio). \"ele\" supplied. The versicle \"V. Delectáre in Dómino. R. Et dabit tibi petitiónes cordis tui\" (Psalmi matutinum.txt, grep) — each half stands alone.",
+    "36:6": "lumen → luz; judícium → juízo (glossary; Matos Soares 1932 \"o direito da tua causa\" explains); merídies → meio-dia. The first half has two cola joined by \"et\" and no flex in DO: kept as one colon.",
+    "36:7": "prosperári → prosperar (glossary). injustítia → injustiça (glossary; the plural kept).",
+    "36:9": "exterminári → ser exterminado (the cognate; ἐξολεθρευθήσονται). The Greek verb returns behind 36:22 disperíbunt, 36:28b períbit, 36:34 períerint and 36:38 disperíbunt / interíbunt, where the Latin varies; stage two decides.",
+    "36:10": "quǽrere → buscar; invenire → encontrar (36:36 \"non est invéntus locus ejus\" should repeat it).",
+    "36:11": "mansuétus → manso (glossary; πραεῖς).",
+    "36:12": "strídere super eum déntibus suis → \"rangerá os seus dentes contra ele\" (decision order12). observáre → espreitar (decision observabit).",
+    "36:13": "dies ejus → \"o seu dia\" (the sinner's day, as the Latin leaves it).",
+    "36:14": "gládius → espada (glossary: frámea and gládius share it; they never meet). evagináre → desembainhar. inténdere arcum → armar o arco (glossary, 10:3; here with the Latin's \"suum\"). The natural order for the Latin's fronted object. The comma at the end is DO's: the sentence runs on into 36:14b.",
+    "36:14b": "rectus corde → reto de coração (glossary). ut … ut → \"Para … para\" (infinitives; the subject is the sinners of 36:14).",
+    "36:15": "The jussive intret / confringátur → \"Que … entre … e … seja quebrado\" (26:14 build \"e que o teu coração se fortaleça\"). eórum … ipsórum → \"deles … seus próprios\" (their own hearts). corda plural → corações. confríngere → quebrar (glossary).",
+    "36:16": "módicum → o pouco; super divítias … multas → \"do que as muitas riquezas\" (the super of comparison, glossary \"mais que\").",
+    "36:17": "brácchia → braços; contérere → quebrar (glossary: one Greek verb with confríngere, συντρίβω, 36:15 and 36:17 — so one Portuguese verb, as the Greek).",
+    "36:18": "novit → conhece (glossary); immaculátus → imaculado (glossary). The Latin's \"dies\" followed (the Greek has ὁδούς, \"ways\"). in ætérnum → para sempre (D23).",
+    "36:19": "confúndi → ser envergonhado (D15); tempus malum → tempo mau; saturáre → saciar (glossary, passive); períre → perecer. No flex in DO: the first half is one colon.",
+    "36:20": "vero → \"porém\", after the subject. mox ut → \"logo que\"; honorificáre → honrar (honor → honra); exaltáre → exaltar.",
+    "36:21": "sólvere → pagar; tríbuere → dar (the row \"bona tríbuere → dar coisas boas\": tríbuere and dare never meet here). Latin order \"Mutuábitur peccátor\" → subject first (D2).",
+    "36:22": "benedícere (men → the one blessed) with the dative ei → \"os que o bendizem\"; ei is open between the Lord and the just man (the Greek αὐτόν too), and \"o\" keeps it open. maledícere → maldizer (the pair).",
+    "36:24": "cádere → cair; suppónere manum → \"põe a sua mão por baixo\" (\"lhe\" not supplied; the adverb last, so that 36:24 does not rhyme mão with 36:25 pão).",
+    "36:25": "derelínquere → abandonar (glossary). \"Fui jovem\" for júnior (the comparative as positive).",
+    "36:26": "Tota die → o dia todo (D24). cómmodat → empresta (apart from mutuári, 36:21). 111:5 \"qui miserétur et cómmodat\" should copy.",
+    "36:28": "amáre → amar; judícium → juízo (D15; Matos Soares 1932 \"equidade\" is ǽquitas's, 36:37). sancti → santos. in ætérnum → para sempre (D23), at the head as the Latin; conserváre → conservar (serváre → observar is for a law; the passive of persons wants the cognate). The Greek φυλαχθήσονται is custodíre's verb, but the Latin has its own.",
+    "36:28b": "DO's 36:28b (the Clementine's 28c). injústus → injusto; puníre → punir; ímpius → ímpio (glossary); períre → perecer; semen → descendência (D32).",
+    "36:29": "inhabitáre (absolute, super eam) → habitar sobre ela; in sǽculum sǽculi → pelos séculos dos séculos (D27) put last, for the cadence and as 36:27.",
+    "36:30": "Os justi → a boca do justo; meditári with an accusative → meditar (glossary row with inánia: 2:1 \"meditaram coisas vãs\"). sapiéntia → sabedoria. The comma before the asterisk is DO's.",
+    "36:31": "The verbless first colon: \"está\" supplied. ejus … ipsíus → \"do seu Deus … no seu coração\" (both the just man's).",
+    "36:32": "consideráre with a person → observar (glossary, 21:18), apart from 36:12 observáre → espreitar.",
+    "36:33": "derelínquere → abandonar; in mánibus ejus → \"nas mãos dele\" (the sinner's; \"nas suas mãos\" would be heard as the Lord's). damnáre → condenar. cum judicábitur illi → \"quando for julgado\" (Douay-Rheims \"when he shall be judged\"; the dative illi, \"with / by him\", left unsaid as Douay-Rheims and Matos Soares 1932 leave it).",
+    "36:34": "exspectáre → aguardar (D24, D36; = 26:14 \"Aguarda o Senhor\"). custodíre → guardar; exaltáre → exaltar; \"ele\" supplied. Two cola before the asterisk, as DO has them, no flex. cum períerint → \"quando … perecerem\"; vidébis → \"verás\" (no object, as the Latin).",
+    "36:36": "transíre → passar; ecce → eis (que); non erat → \"não existia\" (as 36:10 \"não existirá\"). quǽrere → buscar; \"o busquei\" (proclisis after \"e\", the Brazilian order). invéntus est → foi encontrado (36:10 encontrar).",
+    "36:37": "custodíre → guardar; innocéntia → inocência; vidére → ver; ǽquitas → equidade (glossary). homo pacíficus → homem pacífico.",
+    "36:38": "simul → juntos (glossary, open).",
+    "36:39": "Both cola verbless in the Latin; \"vem\" and \"ele é\" supplied (Matos Soares 1932). salus → salvação (D6); protéctor → protetor (glossary); eórum → \"deles\" (as 36:33, so that \"seu\" is not heard as the Lord's); in témpore tribulatiónis → no tempo da tribulação. autem → \"porém\" after the subject.",
+    "36:40": "adjuváre → auxiliar (glossary, open); liberáre → livrar; salváre → salvar; speráre in → esperar em (D36). The two cola after the asterisk joined by a colon as DO has them."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm36.txt: 42 prayed verses 36:1–36:40 with DO's own ids 36:14b and 36:28b (no titulus line in DO; the Clementine's \"Psalmus ipsi David\" is not in the file, D7). DO's 36:6 carries the Clementine's 7a (\"Súbditus esto Dómino, et ora eum\"). Clementine (Bolls VULG, fetched to consult/bolls-VULG-19-36.json): identical wording. Alphabetic in Hebrew; nothing reproduced. Not in the Diurnal Monástico. Worked in two stages in one folder, as Pss 9 and 17 were: 36:1–36:20 first (21 prayed verses), then 36:21–36:40 (21). Why there: it halves the psalm exactly, and the Hebrew verse 21 opens with lamed, the twelfth letter, which begins the second half of the alphabet (WLC in consult/parallels/ps036.md). While partial, prayed.json and literal.json carry \"range\"; ps036/partial.py (from ps017/partial.py) stands in for checks.py; ps036/part.py builds the critics' sub-folder for stage two. Uses checked by grep (ps032/uses.py): Tuesday Matins takes the psalm in three sections, 36(1-15), 36(16-29), 36(30-40), with the antiphons \"Noli æmulári * in eo qui prosperátur et facit iniquitátem\" (adapts 36:7), \"Brácchia peccatórum * conteréntur, confírmat autem justos Dóminus\" (36:17), \"Custódi innocéntiam * et vide æquitátem\" (36:37) and the versicle \"V. Exspécta Dóminum, et custódi viam ejus. R. Exaltábit te, ut hereditáte cápias terram\" (36:34) — Psalmi matutinum.txt [Day2]; the monastic scheme ([Daym1_]) has \"Revéla * Dómino viam meam\" and \"V. Delectáre in Dómino. R. Et dabit tibi petitiónes cordis tui\"; 36:30–31 are versicles and a Gradual of confessors (Commune/C4a, C5; Mass 06-14, 06-28 …); 36:1 and 36:39 in Commune/C3a-1; 36:23 and 36:37 in the Mass of 06-28; 36:4–5 an Alleluia (01-31). Mt 5:4 (Clementine, fetched) \"Beati mites: quoniam ipsi possidebunt terram\" — another Latin wording of 36:11a; the Greek (Tischendorf, fetched) is the LXX's κληρονομήσουσιν τὴν γῆν."
+    },
+    {
+      "step": "draft",
+      "note": "Stage one (36:1–36:20), draft 1, from consult/parallels/ps036.md (LXX Rahlfs, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: æmulári 3 lines here + 77:58 (the noun); zeláre 36:1, 72:3; exterminári 36:9, 79:14; malignári 36:8–9, 104:15; hereditáre 6 lines (24:13, 81:8, four here); aréscere 36:2, 89:6; relíquiæ 16:14c, 75:11, 36:37–38; fænum 11 lines; próspicit, trucidáre, evagináre, strídere, collídere, mutuári, superexaltáre only here. Glossary applied: D15, D23, D24 (malvados), D36 (esperar por), velóciter → depressa, delectári → deleitar-se, petítio → petição, edúcere → fazer sair, prosperári, ira / furor, derelínquere → abandonar, exterminar, quǽrere → buscar, mansuétus → manso, multitúdo → multidão, irridére → rir de, gládius → espada, inténdere arcum → armar o arco, pauper / inops → pobre / indigente, rectus corde, confríngere / contérere → quebrar, confirmáre → confirmar, novit → conhece, immaculátus, saturáre → saciar, períre → perecer, defícere → desfalecer with the participle + verb row, fumus → fumaça. Latin (= Greek) readings kept against the Hebrew: 36:1 envy (not \"fret\"), 36:3 \"serás apascentado nas suas riquezas\" (not \"feed on faithfulness\"), 36:5 \"Revela\" (not \"commit\"), 36:6 \"ora a ele\" (not \"wait patiently\"), 36:18 \"dias\" where the Greek has \"ways\" (the Latin followed against both), 36:20 \"logo que forem honrados e exaltados\" (not \"like the glory of the pastures\"). Every tu imperative is to a single man (the psalm's addressee); no vós imperative in stage one. Tests for the readers: \"tenhas inveja … invejes\", \"usa de bondade\", \"serás apascentado\", \"Revela ao Senhor\", \"e ele fará\", \"sê sujeito\", \"ora a ele\", \"a ponto de fazeres o mal\", \"espreitará\", \"prevê\", \"abater\", \"indigente\", \"trucidar\", \"confirma os justos\", \"desfalecendo, como a fumaça desfalecerão\", \"na multidão da paz\"."
+    },
+    {
+      "step": "checks",
+      "note": "Stage one, draft 1, through ps036/partial.py (checks.py's own code on 36:1–36:20): hard pass (ids and marks). Mended before the critics: 36:7 mediant comma → colon (the Latin's). Rhymes accepted: 36:2 secarão / cairão (aréscent / décident, the Latin's own paired futures); 36:19 / 36:20 finals perecerão / desfalecerão (two futures of the Latin, períbunt / defícient; both verbs are glossary rows). Lengths accepted: 36:2 second colon −4 and 36:7 second −4 (ólera herbárum; hómine faciénte, Latin polysyllables), 36:11 first −3, 36:13 both −3 (irridébit; próspicit … véniet); 36:8 second +4 (the consecutive \"a ponto de\"), 36:14b second +4 (trucídent; \"de coração\" for corde), 36:3 second +3 (serás apascentado), 36:10 first +3 (existirá)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. No remark. «Nos 21 versículos fornecidos, não identifiquei falhas de adequação que exijam correção: a tradução conserva o sentido e as particularidades do latim.» Passed 'tenhas inveja … invejes', 'usa de bondade', 'Revela', 'e ele fará', 'sê sujeito', 'a ponto de fazeres o mal', 'espreitará', 'prevê', 'abater', 'desfalecendo, como a fumaça desfalecerão'.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Ten verses; best 36:15, worst 36:20. «O principal obstáculo está em algumas combinações e ordens de palavras que deixam ouvir o latim por trás do português.» Three taken, eight refused.",
+      "outcomes": [
+        {
+          "verse": "36:1",
+          "remark": "'fazem a iniquidade' a calque → 'praticam a iniquidade'",
+          "outcome": "option",
+          "decision": "facere_iniq",
+          "reason": "praticar is operári's (glossary, 5:7a, 6:9; ἐργάζομαι); fácere (ποιέω) keeps its own verb."
+        },
+        {
+          "verse": "36:2",
+          "remark": "rhyme secarão / cairão → 'Porque depressa secarão, como o feno: * e logo cairão, como as ervas verdes'",
+          "outcome": "refused",
+          "reason": "The Latin's own paired futures (aréscent / décident) at both cadences; his order breaks the comparison-first build of both cola."
+        },
+        {
+          "verse": "36:3",
+          "remark": "'usa de bondade' ceremonious → 'faz o bem'",
+          "outcome": "option",
+          "decision": "bonitatem",
+          "reason": "36:27 has fac bonum (= 33:15a 'faz o bem'); fac bonitátem must differ. The bónitas row (118:65)."
+        },
+        {
+          "verse": "36:4",
+          "remark": "'dará as petições' sounds like paperwork → 'concederá os pedidos'",
+          "outcome": "refused",
+          "reason": "petítio → petição (19:7a, the postulátio row); dare → dar. The blind reader heard it rightly ('concederá o que teu coração pede')."
+        },
+        {
+          "verse": "36:6",
+          "remark": "first colon long; 'fará sair a tua' vowel clusters → 'fará surgir tua justiça'",
+          "outcome": "refused",
+          "decision": "educet",
+          "reason": "edúcere → fazer sair (glossary); the colon is the Latin's longest (27 syllables, two cola with no flex in DO)."
+        },
+        {
+          "verse": "36:6",
+          "remark": "'sê sujeito' a calque → 'sê submisso'",
+          "outcome": "option",
+          "decision": "subditus",
+          "reason": "The family of sujeitar (subjícere / subdere, one Greek verb); 'sujeito a' is current Portuguese (sujeito às leis). The blind reader did not stumble."
+        },
+        {
+          "verse": "36:10",
+          "remark": "'E ainda um pouco' hangs → 'E mais um pouco'",
+          "outcome": "taken",
+          "decision": "pusillum"
+        },
+        {
+          "verse": "36:11",
+          "remark": "'na multidão da paz' heard as a group → 'numa multidão de paz'",
+          "outcome": "refused",
+          "decision": "multitudo",
+          "reason": "The multitúdo row builds it with the article (5:7b 'na multidão da vossa misericórdia'); the blind reader heard 'abundância de paz' first."
+        },
+        {
+          "verse": "36:12",
+          "remark": "'contra ele' splits 'ranger os dentes' → 'contra ele rangerá os seus dentes'",
+          "outcome": "taken",
+          "decision": "order12",
+          "reason": "Taken in the other plain order: 'rangerá os seus dentes contra ele'."
+        },
+        {
+          "verse": "36:16",
+          "remark": "the order groups 'o pouco para o justo' → 'Para o justo, é melhor o pouco'",
+          "outcome": "refused",
+          "decision": "melius",
+          "reason": "The Latin opens on the comparison (Mélius est); the comma after 'justo' closes the group and 'do que' follows at once."
+        },
+        {
+          "verse": "36:20",
+          "remark": "worst line: the comparison splits the two forms → 'desfalecendo, desfalecerão como a fumaça'",
+          "outcome": "taken",
+          "decision": "deficientes"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1. 26 items, 9 unknown words. Heard rightly or within the Latin's range: 36:2 'secarão … cairão' (the wicked die soon), 'Espera no Senhor' (wait), 'habita a terra' (the world first), 'ele fará' (brings your plans about), 'a tua justiça' (justice done for you), 'o seu caminho' (36:7, the prosperous man's), 'herdarão a terra' (the world; open in the Latin), 'o pecador não existirá' (will cease to be), 'prevê' (the Lord), 'o seu dia' (the sinner's), 36:15 as a wish (the Latin's subjunctive), 'a herança deles' (eternal life), 'desfalecendo … fumaça' (vanishing).",
+      "outcomes": [
+        {
+          "verse": "36:17",
+          "remark": "'o Senhor confirma os justos' heard as 'attests that they are just'",
+          "outcome": "taken",
+          "decision": "confirmat"
+        },
+        {
+          "verse": "36:14b",
+          "remark": "'trucidar' unknown",
+          "outcome": "taken",
+          "decision": "trucident"
+        },
+        {
+          "verse": "36:14b",
+          "remark": "'indigente' unknown",
+          "outcome": "refused",
+          "decision": "inops",
+          "reason": "The inops row is open and kept across the psalter; this is the fourth unknown in four readings (Pss 11, 13, 36) — logged on the row, with 'desvalido' proposed for a ruling."
+        },
+        {
+          "verse": "36:8",
+          "remark": "'não tenhas inveja, a ponto de fazeres o mal' heard first as 'do not let envy reach the point of doing evil'",
+          "outcome": "refused",
+          "decision": "malignari",
+          "reason": "ut is consecutive (ὥστε): envy that ends in evil; both hearings forbid the evil. 'para não fazeres o mal' would change the grammar (option 3)."
+        },
+        {
+          "verse": "36:3",
+          "remark": "'nas suas riquezas' heard as the Lord's",
+          "outcome": "refused",
+          "reason": "ejus is open in the Latin (the Greek's αὐτῆς, the land's, is not); rule 1."
+        },
+        {
+          "verse": "36:10",
+          "remark": "'não o encontrarás' heard as the sinner, not his place",
+          "outcome": "refused",
+          "reason": "Either way the sinner is gone, which is the verse's point; the Latin has no object (non invénies), and Portuguese wants one."
+        },
+        {
+          "verse": "36:19",
+          "remark": "'Não serão envergonhados' heard as public humiliation",
+          "outcome": "refused",
+          "reason": "D15."
+        },
+        {
+          "verse": "36:17",
+          "remark": "'os braços … serão quebrados' heard literally first",
+          "outcome": "refused",
+          "reason": "The Latin's image (brácchia … conteréntur)."
+        },
+        {
+          "verse": "36:1",
+          "remark": "'iniquidade', 'petições' (36:4), 'imaculados' (36:18) unknown",
+          "outcome": "refused",
+          "reason": "Glossary words (iníquitas, petítio 19:7a, immaculátus), all settled or long-standing; logged."
+        },
+        {
+          "verse": "36:3",
+          "remark": "'apascentado' unknown",
+          "outcome": "refused",
+          "decision": "pasceris",
+          "reason": "páscere is the shepherd's verb and the Greek's (ποιμανθήσῃ); 'alimentado' (option 2) loses the pasture. Logged for a later ruling if it fails again (77:72)."
+        },
+        {
+          "verse": "36:12",
+          "remark": "'espreitará' unknown",
+          "outcome": "refused",
+          "decision": "observabit",
+          "reason": "Kept apart from 36:32 'observa'; heard nowhere wrongly. Logged."
+        },
+        {
+          "verse": "36:20",
+          "remark": "'desfalecendo / desfalecerão' unknown",
+          "outcome": "refused",
+          "decision": "deficientes",
+          "reason": "defícere → desfalecer (glossary); the verse was still heard rightly (vanishing like smoke). Logged on the row."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "ps036/revise_v2.py: 36:10 'E mais um pouco' (the stylist); 36:12 'rangerá os seus dentes contra ele' (the stylist, in his other order); 36:14b 'massacrar' ('trucidar' unknown); 36:17 'sustenta os justos' ('confirma' heard as attests); 36:20 'desfalecendo, desfalecerão como a fumaça' (the stylist's worst line; also ends the -ão rhyme with 36:19). Refused with reasons above; 'indigente' kept on the open row."
+    },
+    {
+      "step": "checks",
+      "note": "Stage one, draft 2, through ps036/partial.py: hard pass. The -ão finals of 36:19 / 36:20 are gone (36:20 ends on 'fumaça'). 36:14b second colon still +4 ('massacrar'). Remaining soft flags as in draft 1: 36:2 secarão / cairão (the Latin's own), lengths 36:2, 36:7, 36:8, 36:3, 36:11, 36:13."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Stage one, draft 2 — the gate. Clean of majors; one minor. Every draft-2 change passed ('E mais um pouco', 'rangerá os seus dentes contra ele', 'massacrar', 'sustenta os justos', the reordered 36:20). «A tradução conserva adequadamente o conteúdo e as particularidades do latim nos demais versos examinados.»",
+      "outcomes": [
+        {
+          "verse": "36:20",
+          "remark": "minor: 'desfalecer' may reduce the vanishing of smoke to a weakening («defensável como emprego figurado») → 'desvanecendo-se, desvanecer-se-ão como a fumaça'",
+          "outcome": "refused",
+          "decision": "deficientes",
+          "reason": "defícere → desfalecer is the glossary's (17:38 'até que desfaleçam'; 101:4 'defecérunt sicut fumus' should agree), and the blind reader heard the draft-1 line as vanishing like smoke. 'desvanecer-se' is a second verb for one Latin verb and brings two enclitics; logged on the defícere row."
+        }
+      ]
+    },
+    {
+      "step": "draft",
+      "note": "Stage two (36:21–36:40, 21 prayed verses), draft 3 — ps036/append_v3.py on draft 2. Slots added to the stage-one decision hereditare (36:22, 36:29, and 36:34 hereditáte cápias terram → 'tomes a terra por herança'); new decisions mutuari, miseretur, disperire, interire, apud, volet, collidetur, etenim, quaerens, benedictione, declina (= 33:15a), loquetur, supplantabuntur, mortificare, superexaltatum, reliquiae, eruet. The verbs of ending kept apart as the Latin keeps them (exterminári → ser exterminado, períre → perecer, disperíre → perecer de todo, interíre → extinguir-se) though the Greek has ἐξολεθρεύω behind most. Glossary applied: D6, D15 (juízo), D23, D24 (o dia todo; aguardar), D27 (pelos séculos dos séculos), D32 (descendência ×3), D36 (esperar em), the éruere row (36:40 liberábit … éruet → livrará … arrancará dos pecadores), apud → junto de, velle → querer, supplantáre (the row's option for gressus), consideráre with a person → observar (apart from 36:12 espreitar), declináre a → apartar-se de, quǽrere → buscar, miseréri → ter piedade, derelínquere → abandonar, meditári, adjuváre → auxiliar, protéctor → protetor, simul → juntos, ǽquitas → equidade, innocéntia → inocência. Checked by grep (ps005/grep_latin.py): mutuári, collídere, superexaltáre only here; disperíre 36:22, 36:38, 82:11; interíre 36:38, 48:18; mortificáre 36:32, 43:22, 78:11, 108:17; 111:5 qui miserétur et cómmodat. Latin readings kept against the Hebrew: 36:23 'e ele quererá o seu caminho', 36:37 'um resto para o homem pacífico' (not 'a future'), 36:26 'será abençoada' (in benedictióne, not the Greek's εἰς)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 3, whole psalm, the ordinary checks.py: exit 0 (hard pass: 42 ids, marks). Mended before the critics: 36:31 'os seus passos não tropeçarão' rhymed -ão with 'coração' at the mediant → the Latin's order 'e não tropeçarão os seus passos'; 36:24 / 36:25 finals mão / pão → 'põe a sua mão por baixo'. Soft flags accepted in stage two: 36:21 first colon +4 ('tomará emprestado' for mutuábitur), 36:23 second +4 ('ele' and the object), 36:25 second +4 (descendência), 36:23 first, 36:28b, 36:30, 36:38 first +3; 36:33 first −3, 36:40 second −3. 36:34's first half (two cola, no flex in DO) 36 syllables for the Latin's 31. Rhymes: none new."
+    }
+  ]
+}

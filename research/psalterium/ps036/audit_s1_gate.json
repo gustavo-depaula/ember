@@ -1,0 +1,14 @@
+[
+  {
+    "step": "checks",
+    "note": "Stage one, draft 2, through ps036/partial.py: hard pass. The -ão finals of 36:19 / 36:20 are gone (36:20 ends on 'fumaça'). 36:14b second colon still +4 ('massacrar'). Remaining soft flags as in draft 1: 36:2 secarão / cairão (the Latin's own), lengths 36:2, 36:7, 36:8, 36:3, 36:11, 36:13."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Stage one, draft 2 — the gate. Clean of majors; one minor. Every draft-2 change passed ('E mais um pouco', 'rangerá os seus dentes contra ele', 'massacrar', 'sustenta os justos', the reordered 36:20). «A tradução conserva adequadamente o conteúdo e as particularidades do latim nos demais versos examinados.»",
+    "outcomes": [
+      {"verse": "36:20", "remark": "minor: 'desfalecer' may reduce the vanishing of smoke to a weakening («defensável como emprego figurado») → 'desvanecendo-se, desvanecer-se-ão como a fumaça'", "outcome": "refused", "decision": "deficientes", "reason": "defícere → desfalecer is the glossary's (17:38 'até que desfaleçam'; 101:4 'defecérunt sicut fumus' should agree), and the blind reader heard the draft-1 line as vanishing like smoke. 'desvanecer-se' is a second verb for one Latin verb and brings two enclitics; logged on the defícere row."}
+    ]
+  }
+]

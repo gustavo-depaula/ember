@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "f7651544c0b38c80eda465c9b23eab164d96a17c9161dad00755c93e8d22d5fa",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:56:12+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"34:4\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"revereántur\",\n          \"portuguese\": \"desonrados\",\n          \"problem\": \"O sentido é experimentar vergonha ou confusão; «desonrados» desloca a ênfase para a perda de honra. Cf. [A Dictionary of the Psalter, verbete revereor](https://media.churchmusicassociation.org/pdf/dictionarypsalter.pdf).\",\n          \"fix\": \"Sejam confundidos e envergonhados, * os que buscam a minha alma.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"34:26\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"revereántur\",\n          \"portuguese\": \"sejam desonrados\",\n          \"problem\": \"«Sejam envergonhados» corresponde mais precisamente à vergonha expressa pelo verbo do que «sejam desonrados».\",\n          \"fix\": \"Corem e sejam envergonhados juntos, * os que festejam os meus males.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"34:26b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"confusióne et reveréntia\",\n          \"portuguese\": \"vergonha e de desonra\",\n          \"problem\": \"Reverentia significa aqui vergonha ou confusão; «desonra» é uma aproximação menos precisa. Cf. [A Dictionary of the Psalter, verbete reverentia](https://media.churchmusicassociation.org/pdf/dictionarypsalter.pdf).\",\n          \"fix\": \"Vistam-se de confusão e de vergonha * os que falam grandezas contra mim.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva substancialmente o sentido do latim, inclusive suas construções e imagens incomuns; os reparos identificados são de precisão lexical. Nos 32 versículos, as marcas de divisão coincidem integralmente com as do latim: um único * em cada versículo, sem † nem ‡.\"\n}"
+}

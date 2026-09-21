@@ -21,7 +21,8 @@ def number(path):
 
 
 for pattern in sys.argv[1:]:
-    regex = re.compile(pattern)
+    # the pattern is folded like the text, so 'quemádmodum' or 'Dei' match (unfolded, they silently found nothing)
+    regex = re.compile(plain(pattern))
     print(f'## {pattern}')
     count = 0
     for path in sorted(root.glob('Psalm*.txt'), key=number):

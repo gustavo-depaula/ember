@@ -1,0 +1,16 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 4, whole psalm, the ordinary checks.py: exit 0 (hard pass: 42 ids, marks). Stage-two finals now: 36:31 'derrubados', 36:37 'paz' (no proparoxytone left but the formula 'séculos' at 36:27 and 36:29, and 'Líbano' at 36:35). Only remaining rhyme flag: 36:2 secarão / cairão (the Latin's own, stage one)."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v4.latinist.part2.json",
+    "note": "Stage two, draft 4 — the gate (part2: 36:21–36:40). Clean of majors; three minors, all repeated from draft 3 and refused there. Every draft-4 change passed ('e de fato envelheci', 'os seus passos não serão derrubados', 'e te exaltará', 'muito exaltado', 'homem de paz', 'juntos perecerão de todo'). «A tradução conserva adequadamente o sentido do latim, com três afastamentos menores segundo a regra estrita adotada.»",
+    "outcomes": [
+      {"verse": "36:26", "remark": "minor (again): 'será abençoada' for the state → 'estará em bênção'", "outcome": "refused", "decision": "benedictione", "reason": "As at draft 3: 'estar em bênção' is not current Portuguese; 'estará na bênção' is option 2, one touch away."},
+      {"verse": "36:27", "remark": "minor (again): 'pelo século do século'", "outcome": "refused", "reason": "D27."},
+      {"verse": "36:29", "remark": "minor (again): the same", "outcome": "refused", "reason": "D27."}
+    ]
+  }
+]

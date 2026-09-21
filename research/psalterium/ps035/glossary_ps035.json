@@ -1,0 +1,30 @@
+{
+  "append": [
+    {"row": "| voluptas |", "text": "**Ps 35:9 *torrénte voluptátis tuæ* → *da torrente das vossas delícias*** — the Latinist asked the singular twice (draft 1 *da vossa delícia*, the gate *do vosso deleite*); refused both times, as at 26:4b. *da vossa delícia* is an option in Ps 35's decision `potabis`."},
+    {"row": "| inebriáre |", "text": "**Ps 35:9 *Inebriabúntur ab ubertáte domus tuæ* → *Serão embriagados com a fartura da vossa casa*** — the future passive kept; *com*, the Portuguese regency, after the stylist (draft 1 *da fartura*; his *Ficarão* is an option). The blind reader heard drink first; kept. A Brazilian feast versicle and an Alleluia (missa Sancti/01-31)."},
+    {"row": "| delínquere / delíctum |", "text": "Ps 35:2 *ut delínquat in semetípso* → *que cometeria faltas em si mesmo* — the stylist's worst line asked *pecaria*; refused (peccáre's), an option. Passed the Latinist twice. The blind reader heard 'against himself' first, 'within himself' too."},
+    {"row": "| astáre |", "text": "Ps 35:5 *ástitit omni viæ non bonæ* → *pôs-se em todo caminho que não é bom* — the split applied; passed all three readers."},
+    {"row": "| dolus / dolósus / dolóse ágere |", "text": "Ps 35:3 *dolóse egit* → *agiu com engano* (ágere kept, as 35:4 *agir bem*; *enganou* alone asks 'whom?'). Passed the Latinist twice. 35:4 *dolus* → *engano*."},
+    {"row": "| conspéctus, *ante conspéctum suum* |", "text": "Ps 35:3 *in conspéctu ejus* → *à sua vista* (whose — God's or his own — left open, as the Latin; the blind reader heard God's)."},
+    {"row": "| apud te |", "text": "Ps 35:10 *Quóniam apud te est fons vitæ* → *Porque junto de vós está a fonte da vida* — applied; the versicle of Sancti/08-06 and a Pent02-5 antiphon (grep). The stylist's best line (with 35:10b)."},
+    {"row": "| lumen |", "text": "**Ps 35:10b *et in lúmine tuo vidébimus lumen* → *e na vossa luz veremos a luz*** — one word twice, as the Latin; heard as God's illumination. The stylist's best line."},
+    {"row": "| movéri (*motus fúero*, *movébor*) |", "text": "Ps 35:12 the active *non móveat me* → *não me abale* (σαλεύσαι); the blind reader heard faith / composure shaken first — the row's hearing. Passed the Latinist twice."},
+    {"row": "| expéllere |", "text": "Ps 35:13 *expúlsi sunt* → *foram expulsos* — applied."},
+    {"row": "| tégere |", "text": "The noun tegmen (35:8) → *abrigo* (new row), not *cobertura*."},
+    {"row": "| speráre in |", "text": "Ps 35:8 *in tégmine alárum tuárum sperábunt* → *esperarão ao abrigo das vossas asas* — the blind reader heard waiting first again."},
+    {"row": "| timére / timor |", "text": "Ps 35:2b *non est timor Dei ante óculos ejus* copies 13:3d (*eórum* there): *não há temor de Deus diante dos seus olhos*."}
+  ],
+  "terms": [
+    "| malítia | malícia (*mas não odiou a malícia*) | open | Ps 35:5 (κακία); apart from nequítia → maldade (πονηρία, 7:10). 7 lines (grep: 35:5, 49:19, 51:3, 51:5, 93:23, 106:34, 140:4). The blind reader heard 'intent to harm' first, slyness second, innuendo third; the Latinist passed it twice. Option *maldade*. |",
+    "| juménta | animais (*Salvareis os homens e os animais*) | open | Ps 35:7b (κτήνη, the Greek of 8:8 pécora → *animais*; D15's test lets them share). *jumento* is a donkey in Brazil. The Latinist (gate, minor) wanted *os animais domésticos*; refused (a word added, the colon lengthened); option *gado*. 10 lines (grep): 48:13, 48:21, 49:10, 72:23 *Ut juméntum factus sum* (singular: *animal*?), 77:48, 77:50, 103:14, 106:38, 146:9 — check each for the Greek before copying. |",
+    "| quemádmodum | como / assim como | open — **for a ruling** | Ps 35:7b *quemádmodum multiplicásti misericórdiam tuam, Deus* → *como multiplicastes a vossa misericórdia, ó Deus!* — draft 1 *assim como* (the comparison) was the Latinist's major: he reads an exclamation, with the Greek ὡς, DRB 'O how' and MS1932 'Quanto'. Elsewhere quemádmodum is comparative: 32:22 *quemádmodum sperávimus in te* → *assim como esperamos em vós* (Ps 32), 28:6 → *como*, 41:2 *Quemádmodum desíderat cervus … ita* (grep: 7 lines). **Proposal: *assim como* where a *sic / ita* answers or a comparison is plain; *como … !* where it opens an exclamation with nothing compared (35:7b).** |",
+    "| tegmen | abrigo (*ao abrigo das vossas asas*) | open | Ps 35:8 (σκέπη, shelter); from tégere → cobrir, but *sob a cobertura* is heard as a roof, an insurance, an icing; *sombra* is umbra's (16:8b). |",
+    "| ubértas | fartura (*com a fartura da vossa casa*) | open | Ps 35:9 (πιότης, fatness); *abundância* is abundántia's; *fertilidade* of land. 64:12 *campi tui replebúntur ubertáte* is the other place (grep) — fields: *fartura* holds there too. |",
+    "| prætendere | estender (*Estendei a vossa misericórdia*) | open | Ps 35:11 only (grep; παράτεινον, extend, prolong); safe at the vós imperative (past *estendi*). Option *Prolongai*. |",
+    "| torrens | torrente | working | Ps 35:9 *torrénte voluptátis tuæ*; listed unknown by the blind reader, kept (a stream is the image of drink). 7 lines (grep): 17:5, 73:15, 77:20, 82:10, 109:7, 123:5. |"
+  ],
+  "formulas": [
+    "| *V. Dómine, in cælo misericórdia tua. R. Et véritas tua usque ad nubes* (35:6; the Wednesday Matins versicle; *Dómine, * in cælo misericórdia tua* the Wednesday Lauds I antiphon) | *Senhor, no céu está a vossa misericórdia. R. E a vossa verdade, até as nuvens* | working (Ps 35) — the ellipsis kept so the response reads alone; the stylist's *chega até* is an option |",
+    "| *non est timor Dei ante óculos eórum / ejus* (13:3d; 35:2b) | *não há temor de Deus diante dos seus olhos* | working (Pss 13, 35) |"
+  ]
+}

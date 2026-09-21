@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "b49ea6b3459285c2e56be60d05758af875078e08e1711c5008db119e991d8a42",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:51:56+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"36:20\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"deficiéntes, quemádmodum fumus defícient\",\n          \"portuguese\": \"desfalecendo, desfalecerão como a fumaça\",\n          \"problem\": \"A comparação com a fumaça dá a deficere o sentido de desaparecer, extinguir-se. «Desfalecer» é defensável como emprego figurado, mas pode reduzir esse desaparecimento a um enfraquecimento.\",\n          \"fix\": \"desvanecendo-se, desvanecer-se-ão como a fumaça\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o conteúdo e as particularidades do latim nos demais versos examinados. As marcas de apontamento coincidem em todos os 21 segmentos: os mesmos sinais, na mesma ordem.\"\n}"
+}

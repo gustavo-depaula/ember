@@ -1,0 +1,16 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. The agradava / humilhava rhyme at the cadences is gone (34:14 reordered); 34:5–6 end on paroxytones (the jussive). Lengths now: 34:14 +6 / +7, 34:19 +4 / +5, 34:11 +4 / +5, 34:5 first +3, 34:12 second +3, 34:27 second +3; 34:7 second −4, 34:23 second −4, 34:24 first −4, 34:17 and 34:21 second −3. Accepted."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. Clean of majors; three minors, all on one word (reveréri / reveréntia → 'desonrados / desonra'). Every other draft-2 change passed: the jussive for the angel's participles, 'Levantando-se testemunhas iníquas', 'num povo numeroso', 'não soube', 'fechai a passagem aos', 'pensam em males', 'nesse mesmo laço', 34:14 reordered, 'e não compungidos', 'Trazei de volta', 'Que bom', 'carente', 'saqueiam', 'puseram-me à prova', 'injustamente', 'festejam'. «A tradução conserva substancialmente o sentido do latim, inclusive suas construções e imagens incomuns; os reparos identificados são de precisão lexical.»",
+    "outcomes": [
+      {"verse": "34:4", "remark": "minor: 'desonrados' shifts the shame to loss of honour → 'Sejam confundidos e envergonhados'", "outcome": "refused", "decision": "revereri", "reason": "His fix puts 'confundidos' on confúndi's line — the word D15 took away because the blind reader heard 'confused' — and 'envergonhados' on reveréri, so the two Latin verbs would swap Portuguese words; 'vexados', which he passed on draft 1, was unknown to the blind reader twice. 'confundidos' is option 3, 'vexados' option 2."},
+      {"verse": "34:26", "remark": "minor: 'sejam desonrados' → 'sejam envergonhados'", "outcome": "refused", "decision": "revereri", "reason": "'envergonhado' is confúndi's (D15), and reveréri stands beside confúndi in 34:4 and 39:15, 69:3: one word for both would erase the pair."},
+      {"verse": "34:26b", "remark": "minor: 'de vergonha e de desonra' → 'de confusão e de vergonha'", "outcome": "refused", "decision": "revereri", "reason": "As 34:4: confúsio keeps confúndi's noun (vergonha); 'confusão' is heard as disorder. The cost — disgrace for abashment — is recorded on the decision and the new glossary row."}
+    ]
+  }
+]

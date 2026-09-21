@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "14538ffaec84a73b2a2e12471ac777f95039cf25675bf797c8f12bef5f7727c4",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T20:01:13+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"35:7b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"juménta\",\n          \"portuguese\": \"os animais\",\n          \"problem\": \"«Animais» generaliza o termo latino, que designa animais domésticos, especialmente os de carga ou trabalho.\",\n          \"fix\": \"os animais domésticos\"\n        }\n      ]\n    },\n    {\n      \"id\": \"35:9\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"voluptátis tuæ\",\n          \"portuguese\": \"das vossas delícias\",\n          \"problem\": \"O plural é idiomático, mas altera o singular do latim, que apresenta o deleite como uma realidade única.\",\n          \"fix\": \"do vosso deleite\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o sentido do latim, com duas pequenas imprecisões vocabulares. Todos os versículos apresentam os mesmos sinais de divisão, na mesma ordem que o original.\"\n}"
+}

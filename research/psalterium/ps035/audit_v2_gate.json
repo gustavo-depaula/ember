@@ -1,0 +1,15 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. 35:5 now ends on a paroxytone ('malícia'). Lengths: 35:3 second +8 ('para ser odiada', the Latinist's purpose), 35:4 first +6 / second −4, 35:2 first +4, 35:10 first +4 / second −3, 35:5 first −3, 35:11 and 35:13 second +3. Accepted."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. Clean of majors; two minors, both on words already ruled. Both draft-1 majors passed: 'seja encontrada para ser odiada' and 'como multiplicastes … ó Deus!'; so did 'Serão embriagados com a fartura' and 'mas não odiou a malícia'. «A tradução conserva adequadamente o sentido do latim, com duas pequenas imprecisões vocabulares.»",
+    "outcomes": [
+      {"verse": "35:7b", "remark": "minor: 'animais' generalizes juménta (domestic / working beasts) → 'os animais domésticos'", "outcome": "refused", "decision": "jumenta", "reason": "8:8 gave pécora, the same Greek κτήνη, 'animais' (D15's test); 'domésticos' adds a word the Latin carries in its noun and lengthens the first colon. Option 'gado' names the narrower sense."},
+      {"verse": "35:9", "remark": "minor: 'das vossas delícias' for the singular → 'do vosso deleite'", "outcome": "refused", "decision": "potabis", "reason": "The voluptas row: the plural is the idiom (26:4b, the same remark refused); *deleite* is delectátio's. On draft 1 he asked 'da vossa delícia', which is the option."}
+    ]
+  }
+]

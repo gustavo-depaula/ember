@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "eda80f78d77301c261a7269f2ef87a3a229329b43dd5a5d9f60b7ad66321b554",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T20:03:42+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"36:26\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in benedictióne erit\",\n          \"portuguese\": \"será abençoada\",\n          \"problem\": \"O latim expressa um estado, «estará em bênção»; a tradução o reformula como uma construção passiva de receber bênção.\",\n          \"fix\": \"estará em bênção\"\n        }\n      ]\n    },\n    {\n      \"id\": \"36:27\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula portuguesa conserva o sentido de perpetuidade, mas pluraliza os dois substantivos que o latim mantém no singular.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    },\n    {\n      \"id\": \"36:29\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula portuguesa conserva o sentido de perpetuidade, mas pluraliza os dois substantivos que o latim mantém no singular.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o sentido do latim, com três afastamentos menores segundo a regra estrita adotada. Todos os versículos apresentam os mesmos sinais de divisão, na mesma ordem que o latim.\"\n}"
+}
