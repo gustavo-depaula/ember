@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "3580bbbe31a4cd835dc323ffc7ab8ed1d314fa33ad5000bc6bb99f72e77f4f1e",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:04:00+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"32:7\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in thesáuris\",\n          \"portuguese\": \"em tesouros\",\n          \"problem\": \"Thesauris designa aqui os depósitos onde algo é guardado. «Tesouros» é defensável numa acepção antiga de lugar de guarda, mas em português brasileiro sugere os bens guardados.\",\n          \"fix\": \"em depósitos\"\n        }\n      ]\n    },\n    {\n      \"id\": \"32:20\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"adjútor et protéctor noster\",\n          \"portuguese\": \"o nosso auxílio e protetor\",\n          \"problem\": \"Adjutor designa aquele que ajuda; «auxílio» substitui o agente pela ajuda, transformando a designação pessoal em abstração.\",\n          \"fix\": \"o nosso auxiliador e protetor\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, no restante, o sentido do latim, inclusive suas construções e imagens menos usuais. As marcas de apontamento coincidem em todos os versículos: um asterisco por versículo, sem flexas ou segundos mediantes.\"\n}"
+}

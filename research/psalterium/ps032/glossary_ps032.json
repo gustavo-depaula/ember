@@ -1,0 +1,33 @@
+{
+  "append": [
+    {"row": "| consílium |", "text": "**Ps 32:10–11, the test D33 named: *O Senhor dissipa os desígnios das nações … e rejeita os desígnios dos príncipes. * Mas o desígnio do Senhor permanece para sempre*** — the plans of nations, princes and God set against each other; the Latinist passed *desígnio(s)* on drafts 1 and 2, the stylist raised nothing. **The blind reader listed *desígnios* and *desígnio* as unknown** (as the Ps 9 reader did). The test holds for sense; for the ear it is evidence that *planos* (one touch away in Ps 32's decision `consilia`) may be wanted where the plan is not God's."},
+    {"row": "| adjútor |", "text": "**Ps 32:20 *quóniam adjútor et protéctor noster est* → *porque o nosso auxílio e protetor é ele* — HELD against two Latinist MAJORS (drafts 1 and 2) asking *o nosso auxiliador e protetor*.** Here adjútor is paired with the agent noun protéctor — exactly the case this row's standing proposal names (with 18:15b, 77:35); add 32:20 to that list. *auxiliador* is option 2 in Ps 32's decision `adjutor`."},
+    {"row": "| gigas |", "text": "Ps 32:16 *et gigas non salvábitur* → *e o gigante não será salvo* — the row followed; passed the Latinist twice; heard rightly."},
+    {"row": "| vociferátio |", "text": "**Ps 32:3 *bene psállite ei in vociferatióne* → *entoai-lhe bem os salmos com aclamação*** — the row followed; passed the Latinist twice; heard rightly."},
+    {"row": "| mandáre |", "text": "**Ps 32:9 *ipse mandávit, et creáta sunt* → *ele ordenou, e foram criadas*** — no object, and *mandou* alone is heard 'sent' or colloquial; *ordenar* as 118:138. 148:5 is the near twin (formula row). Passed the Latinist twice."},
+    {"row": "| abundántia |", "text": "Ps 32:17 *in abundántia autem virtútis suæ non salvábitur* → *e na abundância do seu poder não será salvo* — the row's word, another place; passed the Latinist twice."},
+    {"row": "| dissipáre |", "text": "Ps 32:10 *Dóminus díssipat consília géntium* → *O Senhor dissipa os desígnios das nações* — passed the Latinist twice; heard rightly."},
+    {"row": "| verbum |", "text": "**Ps 32:6 *Verbo Dómini cæli firmáti sunt* → *Pela palavra do Senhor os céus foram firmados*** — kept *palavra*, not explained (the brief); the Trinity versicle (Pent01-0) and Gregory's homily in C1.txt read *Verbum* as the Son, and the blind reader heard the creative word first. *Pelo Verbo* is option 2 in Ps 32's decision `verbo`."},
+    {"row": "| heréditas / posséssio |", "text": "**Ps 32:12 *quem elégit in hereditátem sibi* → *que ele escolheu como sua herança*** (draft 2): draft 1's *para sua herança* (MS1932) was heard by the blind reader as 'chosen to receive an inheritance'. With *elígere in*, *como*."},
+    {"row": "| orbis terræ |", "text": "Ps 32:8 *omnes inhabitántes orbem* → *todos os que habitam o mundo* (D30)."},
+    {"row": "| sustinére (God as object) |", "text": "Ps 32:20 *Ánima nostra sústinet Dóminum* → *A nossa alma espera pelo Senhor* (D36); 32:18, 32:22 *speráre (super / in)* → *esperar em / na*; heard rightly."},
+    {"row": "| exsultáre, exsultátio / lætári |", "text": "Ps 32:1 *Exsultáte, justi, in Dómino* → *Exultai no Senhor, ó justos*: the blind reader listed *Exultai* as unknown (again); kept."}
+  ],
+  "terms": [
+    "| cíthara | cítara (*Com a cítara dai graças ao Senhor*) | open | Ps 32:2; 42:5, 56:9, 70:22, 80:3, 91:4, 97:5, 107:3, 146:7, 150:3 (grep; 10 lines). κιθάρα. The blind reader listed it as unknown; kept, the Latin's instrument (D2). |",
+    "| psaltérium | saltério (*com o saltério de dez cordas*) | open | Ps 32:2 *in psaltério decem chordárum*; 48:5, 56:9, 80:3, 91:4, 107:3, 143:9, 149:3, 150:3 (grep; 9 lines). ψαλτήριον. Unknown to the blind reader; kept. |",
+    "| collaudátio | louvor → draft 2 *aos retos convém louvar* | open | Ps 32:1 only (αἴνεσις). *convém o louvor* was heard as praise the upright deserve; the verb says the praise they give. The Matins antiphon *Rectos decet * collaudátio* (Psalmi matutinum) then sings *Aos retos * convém louvar*. |",
+    "| fides (God's works *in fide*) | *são feitas com fidelidade* | open | Ps 32:4 (ἐν πίστει). DRB *are done with faithfulness*; the verb supplied (the stylist). *na fé* is the option; other *fides* places (grep) not yet met. |",
+    "| thesáurus | depósito (*põe em depósitos os abismos*) | open | Ps 32:7; 134:7b *qui prodúcit ventos de thesáuris suis*; 38:7 *Thesaurízat* is the verb (grep). θησαυροῖς, storehouses: *tesouros* was heard as riches (the Latinist, minor; the blind reader). Proparoxytone: keep it off the final. |",
+    "| fíngere | formar (*formou os corações deles um por um*) | open | Ps 32:15; 93:9 *qui finxit óculum*, 93:20 *qui fingis labórem* (grep). ὁ πλάσας. *moldar* the option. |",
+    "| sigillátim | um por um | open | Ps 32:15 only (κατὰ μόνας). |",
+    "| fallax | enganoso (*Enganoso é o cavalo para a salvação*) | open | Ps 32:17 only (ψευδὴς). |",
+    "| álere | alimentar (*e alimentá-los na fome*) | open | Ps 32:19 only (grep; διαθρέψαι). |"
+  ],
+  "formulas": [
+    "| *Rectos decet * collaudátio* (32:1b; Matins antiphon, Psalmi matutinum) | *Aos retos * convém louvar* | open — Ps 32 |",
+    "| *Quóniam ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt* (32:9; 148:5 the same but *Quia* for *Quóniam* — grep) | *Porque ele disse, e as coisas foram feitas: * ele ordenou, e foram criadas* | open — Ps 32; **148:5 should copy it** |",
+    "| *Fiat misericórdia tua, Dómine, super nos: * quemádmodum sperávimus in te* (32:22; the Te Deum, Common/Prayers.txt, and the Preces versicle) | *Seja sobre nós, Senhor, a vossa misericórdia: * assim como esperamos em vós* | open — Ps 32; the stylist's best line |",
+    "| *Misericórdia Dómini plena est terra: * verbo Dómini cæli firmáti sunt* (32:5b–6a; Introit of Easter II, Pasc2-0) | *a terra está cheia da misericórdia do Senhor … Pela palavra do Senhor os céus foram firmados* | open — Ps 32 |"
+  ]
+}

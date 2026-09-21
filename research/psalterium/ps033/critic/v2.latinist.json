@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "e77863b22fb5124bf4ff4230e24dbdd17d2899d148ddcdbd03a429558b2cbc0a",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:20:07+00:00",
+  "reply": "{\"verses\":[{\"id\":\"33:6\",\"severity\":\"minor\",\"issues\":[{\"latin\":\"et illuminámini\",\"portuguese\":\"e deixai-vos iluminar\",\"problem\":\"O imperativo passivo manda ser iluminados; a construção com «deixar» é defensável, mas introduz uma nuance de permissão ou consentimento que o latim não explicita.\",\"fix\":\"e sede iluminados\"}]}],\"overall\":\"A tradução conserva adequadamente o sentido do latim, com a ressalva indicada no imperativo passivo de 33:6. Nos 22 versículos, as marcas de divisão coincidem integralmente: um único * por versículo, sem † nem ‡.\"}"
+}

@@ -1,0 +1,1057 @@
+{
+  "psalm": 32,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "32:1": "Exultai no Senhor, {justi}: * aos retos {decet} o louvor.",
+    "32:2": "{confitemini} ao Senhor {in_c} cítara: * {in_p} saltério de dez cordas {psallite2}.",
+    "32:3": "Cantai-lhe um cântico novo: * {bene} com {vocif}.",
+    "32:4": "Porque a palavra do Senhor é reta, * e todas as suas obras, {fide}.",
+    "32:5": "Ele ama a misericórdia e {judicium}: * {v5b}.",
+    "32:6": "{verbo} do Senhor os céus foram firmados: * e pelo {spiritu} da sua boca, {virtus6}.",
+    "32:7": "{congregans} como num odre as águas do mar: * {ponens} os abismos {thesauris}.",
+    "32:8": "Toda a terra tema o Senhor: * e {commov} todos os que habitam o mundo.",
+    "32:9": "Porque ele disse, e {facta}: * ele {mandavit}, e {creata}.",
+    "32:10": "O Senhor {dissipat} os {consilia_g} das nações: * e rejeita os pensamentos dos povos, e rejeita os {consilia_p} dos príncipes.",
+    "32:11": "Mas o {consilium} do Senhor permanece para sempre: * os pensamentos do seu coração, de geração em geração.",
+    "32:12": "Bem-aventurada a nação {cujus}: * o povo que ele escolheu para sua herança.",
+    "32:13": "Do céu olhou o Senhor: * viu todos os filhos dos homens.",
+    "32:14": "Da sua morada preparada * olhou {super14} todos os que habitam a terra.",
+    "32:15": "Ele, que {finxit} {sigil} os corações deles: * que entende todas as obras deles.",
+    "32:16": "O rei não {salvatur} por muito {virt16a}: * e o gigante não será salvo na {multitudine} do seu {virt16b}.",
+    "32:17": "{fallax} para a salvação: * e na abundância do seu {virt17} não será salvo.",
+    "32:18": "Eis os olhos do Senhor sobre os que o temem: * e sobre os que esperam na sua misericórdia:",
+    "32:19": "Para {eruat} da morte as almas deles: * e {alat} na fome.",
+    "32:20": "A nossa alma espera pelo Senhor: * porque o nosso {adjutor} e protetor é ele.",
+    "32:21": "Porque nele se alegrará o nosso coração: * e no seu {nomen} esperamos.",
+    "32:22": "{fiat}: * assim como esperamos em vós."
+  },
+  "decisions": [
+    {
+      "id": "justi",
+      "refs": [
+        "32:1"
+      ],
+      "latin": "Exsultáte, justi, in Dómino",
+      "kind": "grammar",
+      "why": "The vocative justi (δίκαιοι). The glossary's vocative row (28:1, 29:5): mark the vocative — 'ó' before a bare noun. Bare, 'Exultai, justos, no Senhor' can be heard as an adjective ('exult, being just'). The vocative goes to the end of the colon: in the Latin order (Matos Soares 1932 'Exultai, ó justos, no Senhor') the mediant 'Senhor' rhymes with the final 'louvor', an echo the Latin (Dómino / collaudátio) does not have; order is the ear's (D2). The first colon is sung in many Introits (Pasc2-0, 11-01 … grep) and the Monday Matins antiphon is its second colon ('Rectos decet * collaudátio', Psalmi matutinum.txt [Daya1]).",
+      "options": [
+        {
+          "label": "ó justos",
+          "forms": {
+            "justi": "ó justos"
+          },
+          "note": "Ruling: the vocative marked (glossary row, 28:1).",
+          "from": "MS1932"
+        },
+        {
+          "label": "justos",
+          "forms": {
+            "justi": "justos"
+          },
+          "note": "Bare, as the Latin; may be heard as an adjective.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "decet",
+      "refs": [
+        "32:1"
+      ],
+      "latin": "rectos decet collaudátio",
+      "kind": "word",
+      "why": "decet: 'it is fitting, it becomes' (πρέπει). 'convém' is the verb Portuguese uses for what befits ('como convém'); in everyday Brazilian it also says 'it is advisable', which here does no harm. 'fica bem' is Matos Soares 1932's (colloquial, and heard as 'looks good on'). collaudátio is only here (grep); its Greek αἴνεσις is laus's in 33:2 (ἡ αἴνεσις αὐτοῦ), so by D15's test it takes laus's word, louvor. rectus → reto (glossary, rectus corde → reto de coração). Douay-Rheims 'praise becometh the upright'. The antiphon 'Rectos decet * collaudátio' is served: 'Aos retos * convém o louvor'.",
+      "options": [
+        {
+          "label": "convém",
+          "forms": {
+            "decet": "convém"
+          },
+          "note": "Ruling: the verb of what befits.",
+          "from": "draft"
+        },
+        {
+          "label": "fica bem",
+          "forms": {
+            "decet": "fica bem"
+          },
+          "note": "Matos Soares 1932; colloquial.",
+          "from": "MS1932"
+        },
+        {
+          "label": "cabe",
+          "forms": {
+            "decet": "cabe"
+          },
+          "note": "Plain; 'is due to'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confiteri",
+      "refs": [
+        "32:2"
+      ],
+      "latin": "Confitémini Dómino",
+      "kind": "glossary",
+      "why": "confitéri to God → dar graças a (D5), with its dative ('ao Senhor'). Matos Soares 1932 'Louvai' is laudáre's verb (D5).",
+      "options": [
+        {
+          "label": "Dai graças",
+          "forms": {
+            "confitemini": "Dai graças"
+          },
+          "note": "Ruling: D5.",
+          "from": "glossary"
+        },
+        {
+          "label": "Louvai",
+          "forms": {
+            "confitemini": "Louvai"
+          },
+          "note": "Matos Soares 1932: laudáre's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "in_cithara",
+      "refs": [
+        "32:2"
+      ],
+      "latin": "in cíthara … in psaltério decem chordárum",
+      "kind": "grammar",
+      "why": "The instrument with 'in' (ἐν κιθάρᾳ, ἐν ψαλτηρίῳ): the Latin has one preposition twice, so the Portuguese has one twice. 'com a cítara … com o saltério' is how Portuguese names the instrument played (Matos Soares 1932 has exactly this); 'na cítara' is 'on the harp' ('tocar na cítara'), also good; 'ao som da' explains. cíthara → cítara (10 lines, grep), psaltérium → saltério (9; 143:9 'in psaltério decachórdo' is the near twin of this colon) — new glossary rows.",
+      "options": [
+        {
+          "label": "com a … com o",
+          "forms": {
+            "in_c": "com a",
+            "in_p": "com o"
+          },
+          "note": "Ruling: the instrument played (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "na … no",
+          "forms": {
+            "in_c": "na",
+            "in_p": "no"
+          },
+          "note": "The preposition to the letter.",
+          "from": "draft"
+        },
+        {
+          "label": "ao som da … ao som do",
+          "forms": {
+            "in_c": "ao som da",
+            "in_p": "ao som do"
+          },
+          "note": "Explains.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "psallite",
+      "refs": [
+        "32:2",
+        "32:3"
+      ],
+      "latin": "psállite illi … bene psállite ei",
+      "kind": "glossary",
+      "why": "psállere → entoar salmos (D25), twice in two verses with its dative (illi, ei → '-lhe'); 32:3 sets it beside cantáre ('Cantáte ei') — the reason D25 could not use 'cantar'.",
+      "options": [
+        {
+          "label": "entoai-lhe salmos",
+          "forms": {
+            "psallite2": "entoai-lhe salmos",
+            "psallite3": "entoai-lhe"
+          },
+          "note": "Ruling: D25.",
+          "from": "glossary"
+        },
+        {
+          "label": "cantai-lhe salmos",
+          "forms": {
+            "psallite2": "cantai-lhe salmos",
+            "psallite3": "cantai-lhe"
+          },
+          "note": "Plainer; collides with Cantáte in 32:3 (D25).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "bene",
+      "refs": [
+        "32:3"
+      ],
+      "latin": "bene psállite ei in vociferatióne",
+      "kind": "order",
+      "why": "bene: 'well' (καλῶς) — to sing well is the Latin's whole point, not the Hebrew's 'play skilfully'. Portuguese cannot put 'bem' before a bare plural ('bem salmos' is 'quite a few psalms'), so the adverb goes after the verb and the noun takes its article: 'entoai-lhe bem os salmos'. Douay-Rheims 'sing well unto him'; Matos Soares 1932 paraphrases ('louvai-o com concerto de instrumentos e de vozes').",
+      "options": [
+        {
+          "label": "{psallite3} bem os salmos",
+          "forms": {
+            "bene": "{psallite3} bem os salmos"
+          },
+          "note": "Ruling: the adverb after the verb.",
+          "from": "draft"
+        },
+        {
+          "label": "{psallite3} salmos, e bem,",
+          "forms": {
+            "bene": "{psallite3} salmos, e bem,"
+          },
+          "note": "The adverb set apart; heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "{psallite3} salmos com arte",
+          "forms": {
+            "bene": "{psallite3} salmos com arte"
+          },
+          "note": "Explains 'well' as skill (the Hebrew's sense).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vociferatio",
+      "refs": [
+        "32:3"
+      ],
+      "latin": "in vociferatióne",
+      "kind": "glossary",
+      "why": "vociferátio → aclamação (glossary, open; 26:6b 'hóstiam vociferatiónis'; the row names this verse). ἀλαλαγμός, the shout of acclaim. Douay-Rheims 'with a loud noise'. 'júbilo' is left to gáudium / jubilátio (the row).",
+      "options": [
+        {
+          "label": "aclamação",
+          "forms": {
+            "vocif": "aclamação"
+          },
+          "note": "Ruling: glossary (26:6b).",
+          "from": "glossary"
+        },
+        {
+          "label": "brados",
+          "forms": {
+            "vocif": "brados"
+          },
+          "note": "The shout, plainer.",
+          "from": "draft"
+        },
+        {
+          "label": "alta voz",
+          "forms": {
+            "vocif": "alta voz"
+          },
+          "note": "Douay-Rheims 'a loud noise'; loses the acclaim.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "fide",
+      "refs": [
+        "32:4"
+      ],
+      "latin": "et ómnia ópera ejus in fide",
+      "kind": "word",
+      "why": "fides here is God's: his works are 'in faithfulness' (ἐν πίστει). Only here in the psalter (grep). Portuguese 'fé' of God's works would be heard as the believer's faith; 'fidelidade' names the sense and is free — the glossary keeps it off véritas (→ verdade), so the two stay apart. The second colon stays verbless, carrying the first colon's 'é', as the Latin carries 'est'. Douay-Rheims supplies a participle ('are done with faithfulness'); Matos Soares 1932 paraphrases ('a sua fidelidade brilha em todas as suas obras').",
+      "options": [
+        {
+          "label": "em fidelidade",
+          "forms": {
+            "fide": "em fidelidade"
+          },
+          "note": "Ruling: verbless, the preposition kept.",
+          "from": "draft"
+        },
+        {
+          "label": "com fidelidade",
+          "forms": {
+            "fide": "com fidelidade"
+          },
+          "note": "The manner, plainer.",
+          "from": "draft"
+        },
+        {
+          "label": "são feitas com fidelidade",
+          "forms": {
+            "fide": "são feitas com fidelidade"
+          },
+          "note": "Douay-Rheims's participle; longer.",
+          "from": "DRB"
+        },
+        {
+          "label": "na fé",
+          "forms": {
+            "fide": "na fé"
+          },
+          "note": "The Latin's word; heard as the believer's faith.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "judicium",
+      "refs": [
+        "32:5"
+      ],
+      "latin": "Díligit misericórdiam et judícium",
+      "kind": "glossary",
+      "why": "judícium → juízo (D15). κρίσις. The pair mercy and judgment (Douay-Rheims 'mercy and judgment'); Matos Soares 1932 'a justiça' is justítia's word. The Introit of Easter II (Pasc2-0, missa) sings the second colon.",
+      "options": [
+        {
+          "label": "o juízo",
+          "forms": {
+            "judicium": "o juízo"
+          },
+          "note": "Ruling: D15.",
+          "from": "glossary"
+        },
+        {
+          "label": "a justiça",
+          "forms": {
+            "judicium": "a justiça"
+          },
+          "note": "Matos Soares 1932: justítia's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "order5",
+      "refs": [
+        "32:5"
+      ],
+      "latin": "misericórdia Dómini plena est terra",
+      "kind": "order",
+      "why": "The Latin fronts the mercy, so that the verse turns on the word twice (misericórdiam … misericórdia). Portuguese says it subject first; the fronted order ('Da misericórdia do Senhor está cheia a terra') is an inversion for its own sake, which the style rules refuse, though the Introit (Pasc2-0) begins with the word. Matos Soares 1932 has the natural order.",
+      "options": [
+        {
+          "label": "a terra está cheia da misericórdia do Senhor",
+          "forms": {
+            "v5b": "a terra está cheia da misericórdia do Senhor"
+          },
+          "note": "Ruling: natural order (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "da misericórdia do Senhor está cheia a terra",
+          "forms": {
+            "v5b": "da misericórdia do Senhor está cheia a terra"
+          },
+          "note": "The Latin's order; the Introit's first word first.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "verbo",
+      "refs": [
+        "32:6"
+      ],
+      "latin": "Verbo Dómini",
+      "kind": "word",
+      "why": "verbum → palavra (D15; the same word as 32:4 'rectum est verbum Dómini'). The Fathers read the verse of the Trinity — the Word, and the Spirit of his mouth (DO's own Matins lesson quotes it so: 'Verbum enim Dómini Fílius est Patris', Commune/C1.txt, grep); the Latin does not say it, and the reader who knows will hear it in 'palavra' as the Latin reader hears it in verbum. A capital 'Verbo' would explain. It is sung with 32:5 in the Introit of Easter II and as the Trinity versicle (Pent01-0.txt).",
+      "options": [
+        {
+          "label": "Pela palavra",
+          "forms": {
+            "verbo": "Pela palavra"
+          },
+          "note": "Ruling: D15, as 32:4.",
+          "from": "glossary"
+        },
+        {
+          "label": "Pelo Verbo",
+          "forms": {
+            "verbo": "Pelo Verbo"
+          },
+          "note": "The patristic reading made explicit; explains.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "spiritu",
+      "refs": [
+        "32:6"
+      ],
+      "latin": "et spíritu oris ejus",
+      "kind": "word",
+      "why": "spíritus (πνεῦμα): the breath of his mouth, and — for the Fathers, as with verbum — the Spirit. 'espírito' keeps the Latin's word and both readings (Douay-Rheims 'spirit', Matos Soares 1932 'espírito'); 'sopro' names the breath only and closes the other reading. Unlike 10:7 'spíritus procellárum' (wind), a mouth's spíritus can be said 'espírito' without being wrong.",
+      "options": [
+        {
+          "label": "espírito",
+          "forms": {
+            "spiritu": "espírito"
+          },
+          "note": "Ruling: the Latin's word; both readings open.",
+          "from": "DRB"
+        },
+        {
+          "label": "sopro",
+          "forms": {
+            "spiritu": "sopro"
+          },
+          "note": "The breath; closes the Spirit.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "virtus6",
+      "refs": [
+        "32:6"
+      ],
+      "latin": "omnis virtus eórum",
+      "kind": "glossary",
+      "why": "virtus → poder (glossary): the heavens' virtus is their host (δύναμις), as 'Dóminus virtútum' → 'o Senhor dos poderes' (23:10). 'deles' so that the power is the heavens', not the Lord's ('o seu' would be heard as his). Matos Soares 1932 'todo o seu exército' explains (his note: the stars). Douay-Rheims 'all the power of them'. The colon is verbless, as the Latin: the first colon's 'foram firmados' serves it.",
+      "options": [
+        {
+          "label": "todo o poder deles",
+          "forms": {
+            "virtus6": "todo o poder deles"
+          },
+          "note": "Ruling: glossary; the owner made plain.",
+          "from": "glossary"
+        },
+        {
+          "label": "todo o seu exército",
+          "forms": {
+            "virtus6": "todo o seu exército"
+          },
+          "note": "Matos Soares 1932: explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "congregans",
+      "refs": [
+        "32:7"
+      ],
+      "latin": "Cóngregans sicut in utre aquas maris: * ponens in thesáuris abýssos",
+      "kind": "grammar",
+      "why": "Two participles hang on 'Dóminus' of 32:6 (συνάγων … τιθείς). Portuguese gerunds opening a verse ('Juntando … pondo') dangle further than the Latin's participles, which agree with their noun; the finite verbs with the subject named are grammar (D2), as Matos Soares 1932 builds it ('Ele junta … ele põe'). No 'e' is added between the cola: the Latin has none. congregáre → juntar here (the waters gathered as into a wineskin); 15:4b has 'congregar' for gathering assemblies, and the blind reader of Ps 15 did not know it. uter → odre (glossary, 118:83).",
+      "options": [
+        {
+          "label": "Ele junta … põe",
+          "forms": {
+            "congregans": "Ele junta",
+            "ponens": "põe"
+          },
+          "note": "Ruling: finite verbs (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "Juntando … pondo",
+          "forms": {
+            "congregans": "Juntando",
+            "ponens": "pondo"
+          },
+          "note": "The participles as gerunds (as 17:51).",
+          "from": "draft"
+        },
+        {
+          "label": "Ele congrega … põe",
+          "forms": {
+            "congregans": "Ele congrega",
+            "ponens": "põe"
+          },
+          "note": "15:4b's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "thesauris",
+      "refs": [
+        "32:7"
+      ],
+      "latin": "ponens in thesáuris abýssos",
+      "kind": "word",
+      "why": "thesáurus: a store, a treasury (θησαυροῖς); 134:7 'qui prodúcit ventos de thesáuris suis' is the same image. 'tesouros' keeps the Latin's word — the deeps laid up as treasure — and Portuguese 'tesouro' still means a treasury; Douay-Rheims 'storehouses' and Matos Soares 1932 'reservatórios' name the use.",
+      "options": [
+        {
+          "label": "em tesouros",
+          "forms": {
+            "thesauris": "em tesouros"
+          },
+          "note": "Ruling: the Latin's word and image.",
+          "from": "draft"
+        },
+        {
+          "label": "em depósitos",
+          "forms": {
+            "thesauris": "em depósitos"
+          },
+          "note": "Douay-Rheims 'storehouses'; plainer.",
+          "from": "DRB"
+        },
+        {
+          "label": "nos seus reservatórios",
+          "forms": {
+            "thesauris": "nos seus reservatórios"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "commov",
+      "refs": [
+        "32:8"
+      ],
+      "latin": "ab eo autem commoveántur omnes inhabitántes orbem",
+      "kind": "word",
+      "why": "commovéri (σαλευθήτωσαν, 'be shaken') → ser abalado, the glossary's movéri, and 28:8 'commovéntis desértum' → 'que abala' (the active). ab eo → 'por ele': the Latin's preposition, which lets him be the one who shakes; Douay-Rheims 'be in awe of him' and Matos Soares 1932 'tremam diante dele' read the fear the first colon names. orbis → o mundo (D30); inhabitántes → 'os que habitam' (23:1). autem → 'e': the verse is a parallel, not a contrast.",
+      "options": [
+        {
+          "label": "por ele sejam abalados",
+          "forms": {
+            "commov": "por ele sejam abalados"
+          },
+          "note": "Ruling: the Latin's verb and preposition.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante dele tremam",
+          "forms": {
+            "commov": "diante dele tremam"
+          },
+          "note": "Matos Soares 1932: the fear.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "facta",
+      "refs": [
+        "32:9"
+      ],
+      "latin": "ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt",
+      "kind": "grammar",
+      "why": "facta sunt, creáta sunt: neuter plurals with no subject — 'things came to be'. Portuguese 'foram feitas … foram criadas' (feminine plural) is heard the same way, with 'as coisas' understood, and keeps the Latin's bareness; Matos Soares 1932 supplies '(tudo)'. 148:5 is the same verse word for word (grep) — formula row. The Genesis echo (dixit … factum est) is the Latin's.",
+      "options": [
+        {
+          "label": "foram feitas … foram criadas",
+          "forms": {
+            "facta": "foram feitas",
+            "creata": "foram criadas"
+          },
+          "note": "Ruling: bare, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "tudo foi feito … tudo foi criado",
+          "forms": {
+            "facta": "tudo foi feito",
+            "creata": "tudo foi criado"
+          },
+          "note": "Matos Soares 1932: a subject supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mandavit",
+      "refs": [
+        "32:9"
+      ],
+      "latin": "ipse mandávit",
+      "kind": "glossary",
+      "why": "mandáre (ἐνετείλατο), with no object. The mandáre row (open) has three candidates: 'mandar' only with 'que' or beside mandáta (bare 'mandastes' + object was heard as 'sent', 118:138), 'ordenar' with a thing as object. Bare 'ele mandou' is understood ('he gave the order'), but 'ordenou' cannot be misheard and pairs with 'disse'. 148:5 should follow.",
+      "options": [
+        {
+          "label": "ordenou",
+          "forms": {
+            "mandavit": "ordenou"
+          },
+          "note": "Ruling: the row's safe verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "mandou",
+          "forms": {
+            "mandavit": "mandou"
+          },
+          "note": "Matos Soares 1932; the mandáta family.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "consilia",
+      "refs": [
+        "32:10",
+        "32:11"
+      ],
+      "latin": "consília géntium … consília príncipum … Consílium autem Dómini",
+      "kind": "glossary",
+      "why": "D33: consílium → desígnio where it is what someone intends — this is the verse D33 named as the test. The nations' and princes' plans are brought to nothing, the Lord's plan stands: one word three times, as the Latin (βουλάς … βουλάς … βουλή), so the contrast is heard. 'conselhos' would be heard as advice given. Matos Soares 1932 varies ('projectos … planos … desígnios'); Douay-Rheims 'counsels'. Heard at Mass: 32:11 with 32:19 is the Introit of the Sacred Heart (Pent02-5, missa).",
+      "options": [
+        {
+          "label": "desígnios … desígnio",
+          "forms": {
+            "consilia_g": "desígnios",
+            "consilia_p": "desígnios",
+            "consilium": "desígnio"
+          },
+          "note": "Ruling: D33.",
+          "from": "glossary"
+        },
+        {
+          "label": "conselhos … conselho",
+          "forms": {
+            "consilia_g": "conselhos",
+            "consilia_p": "conselhos",
+            "consilium": "conselho"
+          },
+          "note": "Douay-Rheims; heard as advice.",
+          "from": "DRB"
+        },
+        {
+          "label": "planos … plano",
+          "forms": {
+            "consilia_g": "planos",
+            "consilia_p": "planos",
+            "consilium": "plano"
+          },
+          "note": "Plainest; Matos Soares 1932 in part.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dissipat",
+      "refs": [
+        "32:10"
+      ],
+      "latin": "Dóminus díssipat consília géntium",
+      "kind": "glossary",
+      "why": "dissipáre (διασκεδάζει, 'scatters, brings to nothing'). The row (open) proposes 'dissipar' where the object is a thing, 'dispersar' where it is people (17:15). Plans are things: 'dissipa' (Matos Soares 1932). Douay-Rheims 'bringeth to naught'.",
+      "options": [
+        {
+          "label": "dissipa",
+          "forms": {
+            "dissipat": "dissipa"
+          },
+          "note": "Ruling: the row's verb for a thing.",
+          "from": "glossary"
+        },
+        {
+          "label": "desfaz",
+          "forms": {
+            "dissipat": "desfaz"
+          },
+          "note": "Plainer; the row's option.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "cujus",
+      "refs": [
+        "32:12"
+      ],
+      "latin": "Beáta gens, cujus est Dóminus, Deus ejus",
+      "kind": "grammar",
+      "why": "The Latin: the nation whose Lord is its God (οὗ ἐστιν κύριος ὁ θεὸς αὐτοῦ). 'cujo Deus é o Senhor' says it in the relative Portuguese has; Matos Soares 1932 'que tem o Senhor por seu Deus' says the same with a verb. beátus → bem-aventurado (D19). The versicle 'Beáta gens, cujus est Dóminus Deus' (111-0.txt) and the Gradual (Pent17-0, missa) are other wordings of it.",
+      "options": [
+        {
+          "label": "cujo Deus é o Senhor",
+          "forms": {
+            "cujus": "cujo Deus é o Senhor"
+          },
+          "note": "Ruling: the relative.",
+          "from": "draft"
+        },
+        {
+          "label": "que tem o Senhor por seu Deus",
+          "forms": {
+            "cujus": "que tem o Senhor por seu Deus"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super14",
+      "refs": [
+        "32:14"
+      ],
+      "latin": "respéxit super omnes",
+      "kind": "word",
+      "why": "respícere super (ἐπέβλεψεν ἐπί): the look from above. 'olhou para' is how Portuguese says it; 'olhou sobre' (Matos Soares 1932) keeps super but is heard as 'looked over' (past). 32:13 has the same verb bare ('Do céu olhou o Senhor'); the respícere row's 'estar voltado para' is for a state (eyes that look), not this act.",
+      "options": [
+        {
+          "label": "para",
+          "forms": {
+            "super14": "para"
+          },
+          "note": "Ruling: natural.",
+          "from": "draft"
+        },
+        {
+          "label": "sobre",
+          "forms": {
+            "super14": "sobre"
+          },
+          "note": "Matos Soares 1932: super kept.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "finxit",
+      "refs": [
+        "32:15"
+      ],
+      "latin": "Qui finxit sigillátim corda eórum",
+      "kind": "word",
+      "why": "fíngere (ὁ πλάσας): to form, as a potter or a sculptor. The plasmáre row (118:73 → 'moldar') keeps itself apart from fíngere and formáre; 'formar' is the plain word (Matos Soares 1932 'formou'). sigillátim (κατὰ μόνας, only here, grep): one by one — each heart singly. Douay-Rheims 'the hearts of every one of them'; Matos Soares 1932 'o coração de cada um deles' (a singular). The plural 'corações' and 'deles' twice are the Latin's (corda eórum … ópera eórum).",
+      "options": [
+        {
+          "label": "formou um por um",
+          "forms": {
+            "finxit": "formou",
+            "sigil": "um por um"
+          },
+          "note": "Ruling: plain.",
+          "from": "MS1932"
+        },
+        {
+          "label": "moldou um por um",
+          "forms": {
+            "finxit": "moldou",
+            "sigil": "um por um"
+          },
+          "note": "plasmáre's verb (118:73).",
+          "from": "glossary"
+        },
+        {
+          "label": "formou, a cada um,",
+          "forms": {
+            "finxit": "formou",
+            "sigil": "a cada um,"
+          },
+          "note": "Closer to Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "virtus16",
+      "refs": [
+        "32:16",
+        "32:17"
+      ],
+      "latin": "per multam virtútem … in multitúdine virtútis suæ … in abundántia virtútis suæ",
+      "kind": "glossary",
+      "why": "virtus three times in two verses, one Greek word each time (δύναμιν, ἰσχύος, δυνάμεως — the second differs): the king's might, the giant's, the horse's. One Portuguese word for the Latin's one. 'poder' is the row's; 'vigor' (the row's proposal for a man's own bodily strength, 21:16, 29:8) fits the giant and the horse but not the king's army (Douay-Rheims 'a great army'); 'força' is fortitúdo's.",
+      "options": [
+        {
+          "label": "poder",
+          "forms": {
+            "virt16a": "poder",
+            "virt16b": "poder",
+            "virt17": "poder"
+          },
+          "note": "Ruling: the row's word, three times.",
+          "from": "glossary"
+        },
+        {
+          "label": "vigor",
+          "forms": {
+            "virt16a": "vigor",
+            "virt16b": "vigor",
+            "virt17": "vigor"
+          },
+          "note": "The row's word for a man's strength.",
+          "from": "glossary"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "virt16a": "força",
+            "virt16b": "força",
+            "virt17": "força"
+          },
+          "note": "Douay-Rheims 'strength'; fortitúdo's.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "multitudine",
+      "refs": [
+        "32:16"
+      ],
+      "latin": "in multitúdine virtútis suæ",
+      "kind": "glossary",
+      "why": "multitúdo + genitive → multidão (glossary, open; 5:7b 'na multidão da vossa misericórdia'), odd with a singular abstract as the Latin is (the row says so). Here it stands beside abundántia in 32:17 (→ abundância, the row's own contrast), so the two Latin nouns stay two. 'grandeza' is magnitúdo's.",
+      "options": [
+        {
+          "label": "multidão",
+          "forms": {
+            "multitudine": "multidão"
+          },
+          "note": "Ruling: glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "grandeza",
+          "forms": {
+            "multitudine": "grandeza"
+          },
+          "note": "magnitúdo's word; natural.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "salvatur",
+      "refs": [
+        "32:16"
+      ],
+      "latin": "Non salvátur rex",
+      "kind": "grammar",
+      "why": "salvátur, present passive, beside salvábitur, future passive, twice. 'não se salva' (the se-passive, and the present sense 'is saved / saves himself') against 'não será salvo' twice: the Latin's tenses kept, one voice-form each.",
+      "options": [
+        {
+          "label": "se salva",
+          "forms": {
+            "salvatur": "se salva"
+          },
+          "note": "Ruling: the se-passive for the present.",
+          "from": "MS1932"
+        },
+        {
+          "label": "é salvo",
+          "forms": {
+            "salvatur": "é salvo"
+          },
+          "note": "The periphrastic passive, as the futures.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fallax",
+      "refs": [
+        "32:17"
+      ],
+      "latin": "Fallax equus ad salútem",
+      "kind": "word",
+      "why": "fallax (ψευδής, 'false'), only here (grep): the horse deceives the one who trusts it for safety. 'Enganoso' is the plain word and stays apart from dolósus → enganador (glossary). 'Falaz' is bookish. The colon is verbless in Latin; the copula comes after the fronted adjective. Douay-Rheims 'Vain is the horse'; Matos Soares 1932 explains ('O cavalo engana a quem espera dele a salvação'). salus → salvação (D6).",
+      "options": [
+        {
+          "label": "Enganoso é o cavalo",
+          "forms": {
+            "fallax": "Enganoso é o cavalo"
+          },
+          "note": "Ruling: plain; the adjective first, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "O cavalo é enganoso",
+          "forms": {
+            "fallax": "O cavalo é enganoso"
+          },
+          "note": "Subject first.",
+          "from": "draft"
+        },
+        {
+          "label": "Vão é o cavalo",
+          "forms": {
+            "fallax": "Vão é o cavalo"
+          },
+          "note": "Douay-Rheims 'Vain'; vanus's word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "eruat",
+      "refs": [
+        "32:19"
+      ],
+      "latin": "Ut éruat a morte ánimas eórum",
+      "kind": "glossary",
+      "why": "éruere with a source (a morte) → arrancar (glossary, open: arrancar with a source, libertar without). 'arrancar da morte' is also the Portuguese idiom. Matos Soares 1932 'livrar' is liberáre's. The purpose clause as 'Para' + infinitive, the subject being the Lord of 32:18 in both languages. This verse and 32:11 make the Introit of the Sacred Heart.",
+      "options": [
+        {
+          "label": "arrancar",
+          "forms": {
+            "eruat": "arrancar"
+          },
+          "note": "Ruling: glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "livrar",
+          "forms": {
+            "eruat": "livrar"
+          },
+          "note": "Matos Soares 1932: liberáre's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "alat",
+      "refs": [
+        "32:19"
+      ],
+      "latin": "et alat eos in fame",
+      "kind": "word",
+      "why": "álere (διαθρέψαι): to nourish, feed. 'alimentar' is the plain concrete verb; 'sustentar' (Matos Soares 1932) is also 'support'; 'nutrir' is ēducáre's (22:2). in fame → 'na fome' (Matos Soares 1932 'no tempo da fome' explains).",
+      "options": [
+        {
+          "label": "alimentá-los",
+          "forms": {
+            "alat": "alimentá-los"
+          },
+          "note": "Ruling: plain and concrete.",
+          "from": "draft"
+        },
+        {
+          "label": "sustentá-los",
+          "forms": {
+            "alat": "sustentá-los"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "32:20"
+      ],
+      "latin": "quóniam adjútor et protéctor noster est",
+      "kind": "glossary",
+      "why": "adjútor → auxílio (glossary, open, D19/D24), protéctor → protetor (glossary). The pair is the one the protéctor row names (27:7, 39:18, 113:17–19). The Latinist has asked for 'auxiliador' in eight places; the agents' standing proposal on the row is 'auxiliador' only where adjútor is paired with another agent noun — as here, with protéctor. Not ruled; the row's word is followed, one noster for both nouns as the Latin. Douay-Rheims 'our helper and protector'; Matos Soares 1932 'nosso amparo e protector'.",
+      "options": [
+        {
+          "label": "auxílio",
+          "forms": {
+            "adjutor": "auxílio"
+          },
+          "note": "Ruling: the row's word (D19, D24).",
+          "from": "glossary"
+        },
+        {
+          "label": "auxiliador",
+          "forms": {
+            "adjutor": "auxiliador"
+          },
+          "note": "The agent noun, beside protetor (the row's standing proposal).",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "nomen",
+      "refs": [
+        "32:21"
+      ],
+      "latin": "in nómine sancto ejus",
+      "kind": "order",
+      "why": "nomen sanctum: the adjective after, as the Latin (and the glossary's 'monte santo'), or before, as Portuguese says the holy name of God in prayer ('o seu santo nome', Matos Soares 1932). Before the noun it is the name's epithet, which is what the phrase is in the psalter (102:1, 104:3, 105:47 — grep: nómini sancto). speráre in → esperar em; sperávimus (perfect) → 'esperamos', which Portuguese hears as present and past alike.",
+      "options": [
+        {
+          "label": "santo nome",
+          "forms": {
+            "nomen": "santo nome"
+          },
+          "note": "Ruling: the epithet before, as prayed.",
+          "from": "MS1932"
+        },
+        {
+          "label": "nome santo",
+          "forms": {
+            "nomen": "nome santo"
+          },
+          "note": "The Latin's order.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fiat",
+      "refs": [
+        "32:22"
+      ],
+      "latin": "Fiat misericórdia tua, Dómine, super nos",
+      "kind": "glossary",
+      "why": "Fiat → Seja (glossary; 118:76 'Seja a vossa misericórdia para me consolar'). This verse is the second-last line of the Te Deum (Common/Prayers.txt) and the versicle of the Preces (Preces.txt, Major Special.txt), so each colon must stand alone (they do). In the Latin order the mediant 'sobre nós' rhymes with the final 'em vós', an echo the Latin (nos / te) does not have, so 'sobre nós' comes forward — Portuguese order, and the mercy ends the colon. quemádmodum → 'assim como'; sperávimus → 'esperamos' (as 32:21). Douay-Rheims 'Let thy mercy, O Lord, be upon us'; Matos Soares 1932 'Exerça-se … sobre nós a tua misericórdia'.",
+      "options": [
+        {
+          "label": "Seja sobre nós, Senhor, a vossa misericórdia",
+          "forms": {
+            "fiat": "Seja sobre nós, Senhor, a vossa misericórdia"
+          },
+          "note": "Ruling: no nós / vós rhyme at the cadences.",
+          "from": "draft"
+        },
+        {
+          "label": "Seja a vossa misericórdia, Senhor, sobre nós",
+          "forms": {
+            "fiat": "Seja a vossa misericórdia, Senhor, sobre nós"
+          },
+          "note": "The Latin's order (118:76's build); rhymes with 'em vós'.",
+          "from": "draft"
+        },
+        {
+          "label": "Venha sobre nós, Senhor, a vossa misericórdia",
+          "forms": {
+            "fiat": "Venha sobre nós, Senhor, a vossa misericórdia"
+          },
+          "note": "veníre for fíeri.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "32:2": "decem chordárum → 'de dez cordas' (Matos Soares 1932, Douay-Rheims).",
+    "32:3": "cánticum novum → 'um cântico novo' (143:9, 149:1 the same phrase; grep).",
+    "32:4": "rectus → reto; verbum → palavra (D15); ópera → obras (glossary).",
+    "32:5": "dilígere → amar (glossary); the subject 'Ele' supplied (the Latin verb ending; the Lord of 32:4).",
+    "32:8": "'Toda a terra tema o Senhor' — the subject first (Matos Soares 1932): with the verb first, 'Tema o Senhor' opens like an imperative to one person.",
+    "32:11": "manére → permanecer (μένει); the permanére row has the same verb, and they never meet in one verse. in ætérnum → para sempre (D23). 'In generatióne et generatiónem' → 'de geração em geração' (formula row, 118:90); the colon verbless as the Latin, sharing 'permanece'.",
+    "32:12": "in hereditátem sibi → 'para sua herança' (Matos Soares 1932); elígere → escolher (118:30, 118:173).",
+    "32:13": "respícere → olhar (the act; 21:2, 24:16 'olhai para'); fílii hóminum → filhos dos homens (glossary). The Latin order kept: it is also Portuguese.",
+    "32:14": "præparátum habitáculum → 'a sua morada preparada' (ἑτοίμου: ready, prepared); Matos Soares 1932 makes a clause ('da morada que ele preparou para si'). No mark at the end of the first colon, as the Latin.",
+    "32:15": "intellégere → entender (glossary). The verse is two relative clauses in apposition to the Lord of 32:13–14, as the Latin: 'Ele, que … que …'. The rhyme 'deles … deles' at the two cadences is the Latin's own (eórum … eórum); kept.",
+    "32:16": "gigas → gigante (glossary, open; the row names this verse). The echo 'poder … poder' at the two cadences is the Latin's (virtútem … virtútis); kept.",
+    "32:18": "ecce → eis (glossary); verbless, as the Latin and Matos Soares 1932 ('Eis os olhos do Senhor postos sobre'); metúere and timére share one Greek verb (φοβέομαι) → temer; speráre super → esperar em (glossary); in eis → 'sobre os que', the preposition repeated so that the second group is heard as another object of the eyes.",
+    "32:20": "sustinére → esperar por (D36). The two nouns share one 'o nosso', as the Latin shares noster. The copula and 'ele' go last, where the Latin has 'noster est': in the order 'porque ele é o nosso auxílio e protetor' the final 'protetor' rhymes with the mediant 'Senhor'.",
+    "32:6": "firmáre (ἐστερεώθησαν, the verb of firmaméntum) → 'foram firmados': the Latin's passive; the root is heard with 18:2's 'firmamento' (D31). Both cola +4 on the Latin: Portuguese needs the prepositions the Latin's ablatives do not.",
+    "32:17": "abundántia → abundância (glossary, open; the row names this verse). The subject of 'não será salvo' is left as open as the Latin (the horse, or the man on it). First colon +7 on a very short Latin colon (8 syllables): 'para a salvação' is D6's noun; accepted.",
+    "32:21": "lætári → alegrar-se (glossary)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm32.txt, 22 prayed verses (32:1 is text: DO prints no titulus here, the Clementine's 'Psalmus David' being its 32:1 heading). No repeated ids, no flex. Clementine (Bolls VULG, fetched to consult/bolls-VULG-19-32.json; ps033/show_vulg.py prints it): identical wording. Not in the Diurnal Monástico (the dossier has no DM1962 block). Uses checked by grep (ps032/uses.py): Monday Matins antiphon 'Rectos decet * collaudátio' (Psalmi matutinum.txt [Daya1]); 32:1 as the Introit verse of many Masses (Pasc2-0, 11-01 …); 32:5–6 the Introit of Easter II (Pasc2-0); 32:6 the Trinity versicle (Pent01-0.txt); 32:11 + 32:19 the Introit of the Sacred Heart (Pent02-5, missa); 32:12 a Gradual (Pent17-0 and others) and a versicle (111-0.txt) in other wordings; 32:22 the Te Deum's second-last line (Common/Prayers.txt) and a Preces versicle (Preces.txt, Major Special.txt)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps032.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: fides, collaudátio, sigillátim, fallax only here; cíthara 10 lines, psaltérium 9; suávis 7 (for Ps 33). Glossary applied: D5 (dar graças), D25 (entoar salmos), D15 (palavra, juízo), D30 (o mundo), D33 (desígnio — the test the ruling named), D23, D19 (bem-aventurado), D36 (esperar por), D6, adjútor → auxílio (held row). Latin (= Greek) readings kept against the Hebrew: 32:5 'misericórdia e juízo' (the Hebrew's righteousness), 32:6 'foram firmados' (not 'made'), 32:7 'como num odre' (the Hebrew's heap), 32:8 'sejam abalados' (not 'stand in awe'), 32:9 'foram criadas' (not 'stood fast'), 32:10 the third member 'e rejeita os desígnios dos príncipes' (absent from the Hebrew), 32:15 'um por um' (not 'together'), 32:16 'gigante'. Tests for the readers: 'ó justos', 'convém', 'em fidelidade', 'espírito', 'todo o poder deles', 'em tesouros', 'por ele sejam abalados', 'foram feitas', 'desígnios', 'na multidão do seu poder', 'Enganoso é o cavalo', 'Seja sobre nós'."
+    }
+  ]
+}

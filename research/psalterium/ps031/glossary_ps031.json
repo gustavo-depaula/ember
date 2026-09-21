@@ -1,0 +1,107 @@
+{
+  "append": [
+    {
+      "row": "| dimíttere (sins) |",
+      "text": "**Ps 31:1, 31:5b *remíttere* → *perdoar*** (*cujas iniquidades foram perdoadas … e vós perdoastes a impiedade do meu pecado*): ἀφίημι both times (consult/parallels/ps031.md), the Greek of 24:18 *dimítte* — one Greek verb, one Portuguese (D15's test). Also 38:14, 84:3 (grep). Passed by the Latinist twice."
+    },
+    {
+      "row": "| tota die |",
+      "text": "Ps 31:3 *dum clamárem tota die* → *enquanto eu clamava o dia todo* — applied."
+    },
+    {
+      "row": "| inveteráre |",
+      "text": "Ps 31:3 *inveteravérunt ossa mea* → *os meus ossos envelheceram* — applied (subject first, the stylist's order)."
+    },
+    {
+      "row": "| delínquere / delíctum |",
+      "text": "Ps 31:5 *Delíctum meum cógnitum tibi feci* → *Dei-vos a conhecer a minha falta* — applied; the stylist's best line of Ps 31."
+    },
+    {
+      "row": "| confitéri (to God) |",
+      "text": "**Ps 31:5b — confitéri of sin → *confessar* (D5):** *Confitébor advérsum me injustítiam meam Dómino* → *Contra mim mesmo, confessarei ao Senhor a minha injustiça* (draft 2, the stylist's order: the blind reader heard draft 1's *confessarei contra mim a minha injustiça* as an injustice done to me)."
+    },
+    {
+      "row": "| verúmtamen |",
+      "text": "Ps 31:6b *Verúmtamen in dilúvio aquárum multárum* → *Todavia, no dilúvio das muitas águas* — applied."
+    },
+    {
+      "row": "| dilúvium; *inhabitáre facit* |",
+      "text": "Ps 31:6b *in dilúvio aquárum multárum* → *no dilúvio das muitas águas* — applied."
+    },
+    {
+      "row": "| appropinquáre |",
+      "text": "Ps 31:6b *ad eum non approximábunt* → *não se aproximarão dele*; 31:9b *qui non appróximant ad te* → *que não se aproximam de vós* — *approximáre* (the only two places, grep) takes the same verb."
+    },
+    {
+      "row": "| circumdáre |",
+      "text": "Ps 31:7 *a tribulatióne, quæ circúmdedit me … a circumdántibus me* → *contra a tribulação que me cercou … dos que me cercam*; 31:10 *misericórdia circúmdabit* → *a misericórdia cercará* — the Latin's three kept as one verb."
+    },
+    {
+      "row": "| exsultáre, exsultátio / lætári |",
+      "text": "Ps 31:7 *exsultátio mea* (vocative, of God) → *ó minha exultação*; 31:11 *Lætámini in Dómino et exsultáte* → *Alegrai-vos no Senhor e exultai*. The blind reader listed *exultação* as unknown again and heard the vocative rightly; kept."
+    },
+    {
+      "row": "| intelléctus, *da mihi intelléctum* |",
+      "text": "Ps 31:8 *Intelléctum tibi dabo* → *Eu te darei entendimento* (the Lord to one man, tu, D17); 31:9 *quibus non est intelléctus* → *que não têm entendimento* — one noun both times."
+    },
+    {
+      "row": "| beátus vir |",
+      "text": "Ps 31:2 *Beátus vir, cui non imputávit Dóminus peccátum* → *Bem-aventurado o homem a quem o Senhor não atribuiu pecado*; 31:1 plural *Beáti quorum* → *Bem-aventurados aqueles cujas* (the colon +8, D19's cost; = Rom 4:7)."
+    },
+    {
+      "row": "| dolus / dolósus / dolóse ágere |",
+      "text": "Ps 31:2 *nec est in spíritu ejus dolus* → *e em cujo espírito não há engano* — applied."
+    },
+    {
+      "row": "| silére / tacére |",
+      "text": "Ps 31:3 *Quóniam tácui* → *Porque me calei* — applied."
+    },
+    {
+      "row": "| rectus corde |",
+      "text": "Ps 31:11 *omnes recti corde* → *todos os retos de coração* — applied (also the None antiphon)."
+    },
+    {
+      "row": "| gloriári in |",
+      "text": "Ps 31:11 *et gloriámini* → *e gloriai-vos* (absolute); the blind reader listed *gloriai-vos* as unknown and heard joyful celebration; kept."
+    },
+    {
+      "row": "| flagéllum |",
+      "text": "Ps 31:10 *Multa flagélla peccatóris* → *Os flagelos do pecador são muitos* (the copula supplied; subject first so the colon does not rhyme with *Senhor* at the final). The blind reader listed *flagelos* as unknown and heard 'the punishments the sinner receives'; kept."
+    },
+    {
+      "row": "| convértere |",
+      "text": "Ps 31:4 *convérsus sum in ærúmna mea* → *voltei-me no meu sofrimento* (ἐστράφην). The blind reader heard turning to God first; the Latin's word carries both; kept, *revolvi-me* (MS1932, the tossing) the option."
+    },
+    {
+      "row": "| sanctus (ὅσιος) |",
+      "text": "Ps 31:6 *orábit ad te omnis sanctus* → *todo santo orará a vós* (the stylist's order). The blind reader heard the canonized saints first, as at 30:24; kept; *cada santo*, *todo homem santo* (MS1932) options."
+    },
+    {
+      "row": "| tribulátio |",
+      "text": "Ps 31:7 *a tribulatióne* → *contra a tribulação* — applied."
+    },
+    {
+      "row": "| refúgium |",
+      "text": "Ps 31:7 *Tu es refúgium meum* → *Vós sois o meu refúgio* — applied."
+    }
+  ],
+  "terms": [
+    "| tégere | cobrir (*e cujos pecados foram cobertos*) | open | Ps 31:1 (ἐπεκαλύφθησαν; Rom 4:7). The image kept; the blind reader heard 'forgiven, hidden by God's mercy'. 84:3 *operuísti ómnia peccáta eórum* (opérire) is a near twin — take *cobrir* there too. |",
+    "| imputáre | atribuir (*a quem o Senhor não atribuiu pecado*) | open | Ps 31:2, only place in the psalter (grep); λογίζομαι. Draft 1 *imputou* (MS1932): the stylist heard it juridical, the blind reader did not know it; *atribuir* the plainer of two faithful words. Costs the echo of Rom 4:8 as Portuguese Bibles may render it (unverified); *imputou* is option 1. **Wants a ruling.** |",
+    "| ærúmna | sofrimento (*voltei-me no meu sofrimento*) | open | Ps 31:4, only place (grep); ταλαιπωρία. *miséria* (the Greek's word) and *aflição* options. |",
+    "| dum confígitur spina | enquanto se crava o espinho | open | Ps 31:4 (ἐν τῷ ἐμπαγῆναι ἄκανθαν); the Latin (= Greek) image kept against the Hebrew's drought; the Latinist passed it twice. |",
+    "| camus et frenum | cabresto e freio | open | Ps 31:9b, only place (grep); κημός (muzzle) and χαλινός. *cabresto e freio* the familiar pair (MS1932); the blind reader listed *cabresto* as unknown; *focinheira* the literal option. |",
+    "| maxíllæ | maxilas (*apertai as maxilas deles*) | open | Ps 31:9b, only place (grep); σιαγόνας. Draft 1 *queixadas* (MS1932) unknown to the blind reader; *maxilas* the cognate. |",
+    "| constríngere | apertar (*apertai as maxilas deles*) | open | Ps 31:9b, only place (grep); ἄγξαι. God addressed (singular in the Latin after the plural *Nolíte*); Portuguese vós to both loses the change — the blind reader heard *apertai* said to the congregation. Draft 2's supplied *Senhor,* was undone at the Latinist's gate (a vocative the Latin lacks; rule 2 allows a pronoun, and MS1932's *(ó Senhor)* is a parenthetical gloss, D28). **Wants a ruling** if the mishearing is to be mended. |",
+    "| gradi | andar (*neste caminho por onde andarás*) | open | Ps 31:8, only place (grep); πορεύσῃ. |",
+    "| firmáre (eyes) | firmar (*firmarei sobre ti os meus olhos*) | open | Ps 31:8 *firmábo super te óculos meos* (ἐπιστηριῶ); the blind reader heard care; *fixar* the option. Apart from *confirmáre* → confirmar. |",
+    "| in témpore opportúno | no tempo oportuno | open | Ps 31:6; 144:15 *das illis escam in témpore opportúno* (grep). Apart from 9:10 *in opportunitátibus* → *nas horas oportunas*. |",
+    "| pro hac | por isto (*Por isto, todo santo orará a vós*) | open | Ps 31:6 (ὑπὲρ ταύτης, feminine: 'for this [iniquity]'); *isto* neuter, heard as 'because God forgave' (the blind reader). Resolves nothing the Latin fixes; *por ela* would name the impiety. |",
+    "| equus et mulus | o cavalo e o mulo | working | Ps 31:9 (32:17 *fallax equus*; grep). The blind reader listed *mulo* as unknown; kept (*burro* is a different animal). |"
+  ],
+  "formulas": [
+    "| *Beáti quorum remíssæ sunt iniquitátes: et quorum tecta sunt peccáta. Beátus vir, cui non imputávit Dóminus peccátum* (31:1–2a = Rom 4:7–8, Clementine fetched, consult/bolls-VULG-45-4.json; Nat01 reads Rom 4) | *Bem-aventurados aqueles cujas iniquidades foram perdoadas: e cujos pecados foram cobertos. Bem-aventurado o homem a quem o Senhor não atribuiu pecado* | open — Ps 31 (the second Penitential Psalm by tradition; the list of seven not found in DO, unverified on disk) |",
+    "| *Exsultáte, justi, * et gloriámini, omnes recti corde* (the Monday None antiphon of Ps 31, 32(1-11), 32(12-22), Psalmi minor.txt; adapts 31:11) | *Exultai, justos, * e gloriai-vos, todos os retos de coração* — from 31:11 *Alegrai-vos no Senhor e exultai, ó justos, * e gloriai-vos, todos os retos de coração* | open — Ps 31 (the antiphon drops *ó* at its head as the Latin drops *Lætámini in Dómino*; Ps 32's agent owns 32:1 *Exsultáte, justi, in Dómino*) |",
+    "| *Lætámini in Dómino et exsultáte, justi, et gloriámini, omnes recti corde* (31:11; All Saints antiphon, horas/Sancti/11-01.txt with Ps 31, asterisk after *Dómino*; the versicle pair *…justi. R. Et gloriámini, omnes recti corde* in Commune/C12; the Offertory of five Masses, e.g. missa/Sancti/03-10.txt — grep) | *Alegrai-vos no Senhor e exultai, ó justos, e gloriai-vos, todos os retos de coração* | open — Ps 31 |"
+  ]
+}

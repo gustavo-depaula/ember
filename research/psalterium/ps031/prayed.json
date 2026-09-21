@@ -1,0 +1,800 @@
+{
+  "psalm": 31,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "31:1": "Bem-aventurados aqueles cujas iniquidades foram {remissae}: * e cujos pecados foram {tecta}.",
+    "31:2": "Bem-aventurado o homem a quem o Senhor não {imputavit} pecado, * e em cujo espírito não há engano.",
+    "31:3": "Porque me calei, os meus ossos envelheceram, * enquanto eu clamava o dia todo.",
+    "31:4": "Porque de dia e de noite {gravata}: * {conversus} {aerumna}, {spina}.",
+    "31:5": "Dei-vos a conhecer a minha falta: * e não escondi a minha injustiça.",
+    "31:5b": "{order5b}: * e vós {remisisti} a impiedade do meu pecado.",
+    "31:6": "{pro_hac}, {omnis_sanctus} orará a vós, * no tempo oportuno.",
+    "31:6b": "Todavia, no dilúvio das muitas águas, * não se aproximarão dele.",
+    "31:7": "Vós sois o meu refúgio contra a tribulação que me cercou: * {exsultatio}, arrancai-me dos que me cercam.",
+    "31:8": "Eu {intellectum}, e te instruirei neste caminho por onde andarás: * {firmabo} sobre ti os meus olhos.",
+    "31:9": "Não vos torneis como o cavalo e o mulo, * que não têm {intellectus9}.",
+    "31:9b": "{domine9} as {maxillas} deles, * que não se aproximam de vós.",
+    "31:10": "{multa}, * {sperantem}.",
+    "31:11": "Alegrai-vos no Senhor e exultai, {justi}, * e gloriai-vos, todos os retos de coração."
+  },
+  "decisions": [
+    {
+      "id": "remissae",
+      "refs": [
+        "31:1",
+        "31:5b"
+      ],
+      "latin": "quorum remíssæ sunt iniquitátes … et tu remisísti impietátem peccáti mei",
+      "kind": "glossary",
+      "why": "remíttere (ἀφίημι, in both places) → perdoar, the verb of dimíttere (sins) in 24:18 (ἄφες; the Our Father's verb): one Greek verb, so by D15's test one Portuguese, and the psalm's own echo (31:1 / 31:5b) is kept. The same pair of verbs as 84:3 'Remisísti iniquitátem plebis tuæ: operuísti ómnia peccáta eórum' (grep). Romans 4:7 quotes 31:1 word for word (Clementine, fetched to consult/bolls-VULG-45-4.json: 'Beati, quorum remissæ sunt iniquitates, et quorum tecta sunt peccata'). The perfect passive kept ('foram perdoadas'). Douay-Rheims 'forgiven'; Matos Soares 1932 'foram perdoadas', 'perdoaste'. 'remitir' is legal or medical in Brazil.",
+      "options": [
+        {
+          "label": "perdoadas … perdoastes",
+          "forms": {
+            "remissae": "perdoadas",
+            "remisisti": "perdoastes"
+          },
+          "note": "Ruling: one Greek verb (24:18).",
+          "from": "MS1932"
+        },
+        {
+          "label": "remidas … remistes",
+          "forms": {
+            "remissae": "remidas",
+            "remisisti": "remistes"
+          },
+          "note": "The root, via remir: collides with redímere's traditional verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "tecta",
+      "refs": [
+        "31:1"
+      ],
+      "latin": "et quorum tecta sunt peccáta",
+      "kind": "word",
+      "why": "tégere (ἐπεκαλύφθησαν, 'covered over'): the image of sin covered, kept. Douay-Rheims 'covered'; Matos Soares 1932 'apagados' (another image). 84:3 'operuísti' (another Latin verb, the same image) can take 'cobrir' too.",
+      "options": [
+        {
+          "label": "cobertos",
+          "forms": {
+            "tecta": "cobertos"
+          },
+          "note": "Ruling: the image kept (DRB, Rom 4:7).",
+          "from": "DRB"
+        },
+        {
+          "label": "apagados",
+          "forms": {
+            "tecta": "apagados"
+          },
+          "note": "Matos Soares 1932: another image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "imputavit",
+      "refs": [
+        "31:2"
+      ],
+      "latin": "cui non imputávit Dóminus peccátum",
+      "kind": "word",
+      "why": "imputáre (only here; οὐ μὴ λογίσηται, 'reckon'): the word Romans 4:8 quotes (Clementine, fetched: 'Beatus vir, cui non imputavit Dominus peccatum') and on which Paul builds 4:1–11 ('reputatur … ad justitiam', 4:5, 4:9). 'imputar' is the Latin's word and current in Catholic teaching; 'levar em conta' is plainer and says the reckoning. Douay-Rheims 'imputed'; Matos Soares 1932 'não argúiu de pecado' (another verb). Heard (draft 1): the stylist — «“Imputou” traz um tom jurídico e pouco corrente à oração» → ‘não atribuiu pecado’; the blind reader listed 'imputou' as unknown. Taken: 'atribuir' is the plainer of two faithful words for the reckoning (λογίζομαι; D2); the cost is the echo of Romans 4:8 as the Church's Portuguese says it ('imputar', from memory, unverified), which a reader of the Latin column still sees. 'imputou' is option 1.",
+      "options": [
+        {
+          "label": "atribuiu",
+          "forms": {
+            "imputavit": "atribuiu"
+          },
+          "note": "Ruling (draft 2): the stylist; the blind reader.",
+          "from": "stylist"
+        },
+        {
+          "label": "imputou",
+          "forms": {
+            "imputavit": "imputou"
+          },
+          "note": "Draft 1. the Latin's word (Rom 4:8).",
+          "from": "DRB"
+        },
+        {
+          "label": "levou em conta o",
+          "forms": {
+            "imputavit": "levou em conta o"
+          },
+          "note": "The reckoning said plainly.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gravata",
+      "refs": [
+        "31:4"
+      ],
+      "latin": "graváta est super me manus tua",
+      "kind": "grammar",
+      "why": "graváre in the passive (ἐβαρύνθη): 'was made heavy'. 'se fez pesada' keeps the change and the voice's middle sense (as 30:11b 'se enfraqueceu'); 'pesou' is plainer and loses it. Matos Soares 1932 'tornou-se pesada'; Douay-Rheims 'was heavy'. Heard (draft 1): the stylist's worst line — «“Se fez pesada” soa traduzido; o sujeito chega tarde» → ‘Porque de dia e de noite a vossa mão ficou pesada sobre mim’. Taken whole: the subject first (order, D2), and 'ficou pesada' still says the change ('became heavy'), which the Latin's passive is.",
+      "options": [
+        {
+          "label": "a vossa mão ficou pesada sobre mim",
+          "forms": {
+            "gravata": "a vossa mão ficou pesada sobre mim"
+          },
+          "note": "Ruling (draft 2): the stylist; subject first.",
+          "from": "stylist"
+        },
+        {
+          "label": "se fez pesada",
+          "forms": {
+            "gravata": "se fez pesada sobre mim a vossa mão"
+          },
+          "note": "Draft 1. the change kept.",
+          "from": "draft"
+        },
+        {
+          "label": "pesou",
+          "forms": {
+            "gravata": "pesou sobre mim a vossa mão"
+          },
+          "note": "Plainer; a state.",
+          "from": "DRB"
+        },
+        {
+          "label": "se tornou pesada",
+          "forms": {
+            "gravata": "se tornou pesada sobre mim a vossa mão"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conversus",
+      "refs": [
+        "31:4"
+      ],
+      "latin": "convérsus sum in ærúmna mea",
+      "kind": "glossary",
+      "why": "convértere → voltar (glossary): 'I was turned' in my distress (ἐστράφην εἰς ταλαιπωρίαν — the Greek 'into misery'; the Latin 'in ærúmna mea', in my misery). The man turning over in pain: 'voltei-me' keeps the verb and the bodily turning; Matos Soares 1932 'eu revolvia-me na minha dor', Douay-Rheims 'I am turned in my anguish'.",
+      "options": [
+        {
+          "label": "voltei-me",
+          "forms": {
+            "conversus": "voltei-me"
+          },
+          "note": "Ruling: the row's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "revolvi-me",
+          "forms": {
+            "conversus": "revolvi-me"
+          },
+          "note": "Matos Soares 1932: the tossing said.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "aerumna",
+      "refs": [
+        "31:4"
+      ],
+      "latin": "in ærúmna mea",
+      "kind": "word",
+      "why": "ærúmna (only here): 'toil, hardship, distress' (L&S). Kept apart from tribulátio → tribulação (31:7), afflíctio → aflição, miséria → miséria (11:6a, 39:3). 'sofrimento' is plain and free. Douay-Rheims 'anguish'.",
+      "options": [
+        {
+          "label": "sofrimento",
+          "forms": {
+            "aerumna": "no meu sofrimento"
+          },
+          "note": "Ruling: plain, free.",
+          "from": "draft"
+        },
+        {
+          "label": "angústia",
+          "forms": {
+            "aerumna": "na minha angústia"
+          },
+          "note": "Douay-Rheims 'anguish'; angústia's word (118:143).",
+          "from": "DRB"
+        },
+        {
+          "label": "miséria",
+          "forms": {
+            "aerumna": "na minha miséria"
+          },
+          "note": "The Greek's ταλαιπωρία; miséria's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "spina",
+      "refs": [
+        "31:4"
+      ],
+      "latin": "dum confígitur spina",
+      "kind": "glossary",
+      "why": "confígere → traspassar (glossary; the row names 31:4). With the thorn as subject of a passive (ἐν τῷ ἐμπαγῆναι ἄκανθαν, 'while a thorn is fixed in'), 'traspassar' wants an object; 'cravar' is how Portuguese says a thorn going in, and the 'se' passive keeps the Latin's voice. Douay-Rheims 'whilst the thorn is fastened'; Matos Soares 1932 'enquanto se cravava a espinha' ('espinha' is a fish bone or the spine in Brazil).",
+      "options": [
+        {
+          "label": "enquanto se crava o espinho",
+          "forms": {
+            "spina": "enquanto se crava o espinho"
+          },
+          "note": "Ruling: the thorn's own verb, the passive kept.",
+          "from": "MS1932"
+        },
+        {
+          "label": "enquanto o espinho me traspassa",
+          "forms": {
+            "spina": "enquanto o espinho me traspassa"
+          },
+          "note": "The row's verb, active, an object supplied.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "confitebor",
+      "refs": [
+        "31:5b"
+      ],
+      "latin": "Confitébor advérsum me injustítiam meam Dómino",
+      "kind": "glossary",
+      "why": "confitéri of sin → confessar (D5: 'Confessar stays for confessing sin (31:5)'). 'contra mim' stands next to the verb, as the Latin has it, so that 'a minha injustiça contra mim' is not heard as an injustice done to me. ἐξαγορεύσω κατ᾿ ἐμοῦ. Douay-Rheims 'I will confess against myself my injustice to the Lord' (the same order); Matos Soares 1932 'Confessarei ao Senhor, contra mim mesmo, a minha injustiça'.",
+      "options": [
+        {
+          "label": "confessarei",
+          "forms": {
+            "confitebor": "confessarei"
+          },
+          "note": "Ruling: D5.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "pro_hac",
+      "refs": [
+        "31:6"
+      ],
+      "latin": "Pro hac orábit ad te omnis sanctus",
+      "kind": "ambiguity",
+      "why": "'Pro hac' (ὑπὲρ ταύτης): feminine, and nothing feminine is named near it but 'impietátem' — 'for this' (the forgiveness just told) is how Douay-Rheims and Matos Soares 1932 read it ('For this', 'Por isto'). 'Por isto' keeps it open to the whole of 31:5. Draft 2: the stylist's direct order taken ('Por isto, todo santo orará a vós'; draft 1 'Por isto orará a vós todo santo'). The blind reader heard 'Por isto' as 'because God forgave' — the reading intended.",
+      "options": [
+        {
+          "label": "Por isto",
+          "forms": {
+            "pro_hac": "Por isto"
+          },
+          "note": "Ruling: DRB, MS1932.",
+          "from": "DRB"
+        },
+        {
+          "label": "Por ela",
+          "forms": {
+            "pro_hac": "Por ela"
+          },
+          "note": "The feminine to the letter; points at 'a impiedade'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "omnis_sanctus",
+      "refs": [
+        "31:6"
+      ],
+      "latin": "omnis sanctus",
+      "kind": "word",
+      "why": "sanctus (ὅσιος) → santo (glossary), singular and distributive. 'todo santo' is the Latin; it risks the idiom 'todo santo dia', and the 30:24 reader heard 'santos' as the canonized. Matos Soares 1932 'todo o (homem) santo' supplies a noun in parentheses. Heard (draft 1): the blind reader took 'todo santo' as the saints the Church venerates first, a person who lives by God second — the same hearing as 30:24 'seus santos'; the Latin's sanctus (ὅσιος) is the same word either way. Kept.",
+      "options": [
+        {
+          "label": "todo santo",
+          "forms": {
+            "omnis_sanctus": "todo santo"
+          },
+          "note": "Ruling: the Latin.",
+          "from": "DRB"
+        },
+        {
+          "label": "cada santo",
+          "forms": {
+            "omnis_sanctus": "cada santo"
+          },
+          "note": "The distributive plain.",
+          "from": "draft"
+        },
+        {
+          "label": "todo homem santo",
+          "forms": {
+            "omnis_sanctus": "todo homem santo"
+          },
+          "note": "Matos Soares 1932's gloss.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exsultatio",
+      "refs": [
+        "31:7"
+      ],
+      "latin": "exsultátio mea",
+      "kind": "grammar",
+      "why": "A vocative to God, in apposition (τὸ ἀγαλλίαμά μου). The glossary's 'ó' for a vocative that would not be heard as one (28:1): 'minha exultação, arrancai-me' could be taken as a subject. exsultátio → exultação (glossary). Matos Soares 1932 'ó alegria minha'.",
+      "options": [
+        {
+          "label": "ó minha exultação",
+          "forms": {
+            "exsultatio": "ó minha exultação"
+          },
+          "note": "Ruling: the vocative marked.",
+          "from": "draft"
+        },
+        {
+          "label": "minha exultação",
+          "forms": {
+            "exsultatio": "minha exultação"
+          },
+          "note": "Bare, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "intellectum",
+      "refs": [
+        "31:8",
+        "31:9"
+      ],
+      "latin": "Intelléctum tibi dabo … quibus non est intelléctus",
+      "kind": "glossary",
+      "why": "intelléctus → entendimento (glossary, 118:34), twice in two verses: what the Lord gives the one he teaches, what the horse and mule lack; one word for the echo. The speaker changes without mark (the Lord speaks in 31:8, and says 'tu' to one man — D17; the psalmist turns to 'vós', men, in 31:9); the Latin marks nothing, and neither does the Portuguese (Matos Soares 1932 adds '(disseste)'). instrúere → instruir (a future, safe); gradi → andar (πορεύσῃ, the glossary's verb for πορεύομαι). Heard (draft 1): the Latinist, MAJOR — «O demonstrativo hac foi omitido» → ‘neste caminho por onde andarás’. Taken (a slip of draft 1). The blind reader heard the Lord speaking in 31:8 though the change of voice is not announced — as the Latin.",
+      "options": [
+        {
+          "label": "te darei entendimento … entendimento",
+          "forms": {
+            "intellectum": "te darei entendimento",
+            "intellectus9": "entendimento"
+          },
+          "note": "Ruling: the row, twice.",
+          "from": "glossary"
+        },
+        {
+          "label": "te darei inteligência … inteligência",
+          "forms": {
+            "intellectum": "te darei inteligência",
+            "intellectus9": "inteligência"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "firmabo",
+      "refs": [
+        "31:8"
+      ],
+      "latin": "firmábo super te óculos meos",
+      "kind": "word",
+      "why": "firmáre (ἐπιστηριῶ): 'I will fix'. 'firmar' is statúere's too (30:9, 118:38): the row foresaw the share. Douay-Rheims 'I will fix my eyes upon thee'; Matos Soares 1932 'fixarei'.",
+      "options": [
+        {
+          "label": "firmarei",
+          "forms": {
+            "firmabo": "firmarei"
+          },
+          "note": "Ruling: the root kept.",
+          "from": "draft"
+        },
+        {
+          "label": "fixarei",
+          "forms": {
+            "firmabo": "fixarei"
+          },
+          "note": "Matos Soares 1932; plainer.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "camo",
+      "refs": [
+        "31:9b"
+      ],
+      "latin": "In camo et freno",
+      "kind": "word",
+      "why": "camus (κημός): a muzzle; frenum (χαλινός): the bridle, the bit. Only here (grep). 'cabresto e freio' is the pair Portuguese has for leading a beast (Matos Soares 1932); 'focinheira' is the muzzle to the letter. Douay-Rheims 'With bit and bridle'.",
+      "options": [
+        {
+          "label": "cabresto",
+          "forms": {
+            "camo": "cabresto"
+          },
+          "note": "Ruling: the familiar pair (MS1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "focinheira",
+          "forms": {
+            "camo": "focinheira"
+          },
+          "note": "The muzzle to the letter.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "constringe",
+      "refs": [
+        "31:9b"
+      ],
+      "latin": "maxíllas eórum constrínge",
+      "kind": "word",
+      "why": "constríngere (ἄγξαι, 'squeeze, throttle'): 'bind fast' (Douay-Rheims). 'apertai' is safe at the imperative (past 'apertei') and keeps the pressure; Matos Soares 1932 'sujeita' (subdue). The address is to God (vós), after the 'vós' of the men in 31:9 — the Latin changes from plural to singular (Nolíte / constrínge), which Portuguese cannot show; 'que não se aproximam de vós' then names him. maxíllæ → queixadas (a beast's jaws; MS1932).",
+      "options": [
+        {
+          "label": "apertai",
+          "forms": {
+            "constringe": "apertai"
+          },
+          "note": "Ruling: the pressure kept.",
+          "from": "draft"
+        },
+        {
+          "label": "sujeitai",
+          "forms": {
+            "constringe": "sujeitai"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "prendei",
+          "forms": {
+            "constringe": "prendei"
+          },
+          "note": "Bind.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "sperantem",
+      "refs": [
+        "31:10"
+      ],
+      "latin": "sperántem autem in Dómino misericórdia circúmdabit",
+      "kind": "order",
+      "why": "The Latin fronts the object ('him that hopes in the Lord, mercy shall surround'). Portuguese says it subject first; 'aquele que' names the participle's person. circumdáre → cercar, the psalm's third (31:7 'que me cercou … dos que me cercam'): the tribulation and the enemies surround in 31:7, mercy surrounds in 31:10, which the Latin sets up with one verb. Douay-Rheims 'mercy shall encompass him that hopeth in the Lord'. Heard (draft 1): the stylist — «A abertura faz esperar que “aquele” seja o sujeito; a chegada de “a misericórdia” obriga a reorganizar a frase» → ‘mas a misericórdia cercará aquele que espera no Senhor’. Taken, and the rhyme it brings (pecador / Senhor at the two cadences) is mended in the first colon instead (decision multa).",
+      "options": [
+        {
+          "label": "mas a misericórdia cercará aquele que espera no Senhor",
+          "forms": {
+            "sperantem": "mas a misericórdia cercará aquele que espera no Senhor"
+          },
+          "note": "Ruling (draft 2): the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "mas aquele que espera no Senhor, a misericórdia o cercará",
+          "forms": {
+            "sperantem": "mas aquele que espera no Senhor, a misericórdia o cercará"
+          },
+          "note": "Draft 1. the Latin's order, the object first and resumed by a pronoun (spoken Portuguese does this); it also keeps the colon from ending on 'Senhor', which rhymed with 'pecador' at the mediant.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "justi",
+      "refs": [
+        "31:11"
+      ],
+      "latin": "Lætámini in Dómino et exsultáte, justi",
+      "kind": "grammar",
+      "why": "The vocative 'justi' after two imperatives: bare 'exultai, justos' can be heard as an adjective ('rejoice, being just'); 'ó justos' marks the call (the glossary's vocative 'ó', 28:1). The Monday None antiphon 'Exsultáte, justi, * et gloriámini, omnes recti corde' (Psalmi minor.txt), the All Saints antiphon (the verse whole, Sancti/11-01.txt) and the versicle of the Common of several Martyrs (Commune/C12.txt) sing it (grep). gloriári in → gloriar-se em (glossary); rectus corde → reto de coração.",
+      "options": [
+        {
+          "label": "ó justos",
+          "forms": {
+            "justi": "ó justos"
+          },
+          "note": "Ruling: the vocative marked.",
+          "from": "draft"
+        },
+        {
+          "label": "justos",
+          "forms": {
+            "justi": "justos"
+          },
+          "note": "Bare, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "order5b",
+      "refs": [
+        "31:5b"
+      ],
+      "latin": "Dixi: Confitébor advérsum me injustítiam meam Dómino",
+      "kind": "order",
+      "why": "Heard (draft 1): the stylist — «“Contra mim a minha” amontoa sons semelhantes e intercala uma expressão difícil» → ‘Disse: Contra mim mesmo, confessarei ao Senhor a minha injustiça’; the blind reader: 'Confessarei contra mim a minha injustiça' can be heard as 'an injustice committed against me'. Taken whole: 'contra mim mesmo' fronted cannot attach to 'injustiça'; 'mesmo' is the reflexive emphasis Portuguese needs (Matos Soares 1932 has it); the order is grammar (D2). confitéri of sin → confessar (D5).",
+      "options": [
+        {
+          "label": "Disse: Contra mim mesmo, confessarei ao Senhor a minha injustiça",
+          "forms": {
+            "order5b": "Disse: Contra mim mesmo, {confitebor} ao Senhor a minha injustiça"
+          },
+          "note": "Ruling (draft 2): the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "Eu disse: Confessarei contra mim a minha injustiça ao Senhor",
+          "forms": {
+            "order5b": "Eu disse: Confessarei contra mim a minha injustiça ao Senhor"
+          },
+          "note": "Draft 1: the Latin's order; misheard.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "domine9",
+      "refs": [
+        "31:9b"
+      ],
+      "latin": "In camo et freno maxíllas eórum constrínge (singular, after Nolíte, plural)",
+      "kind": "grammar",
+      "why": "The Latin tells the two addressees apart by number: 'Nolíte fíeri' (plural, men) and then 'constrínge … ad te' (singular, God). Portuguese says 'vós' to both. Heard (draft 1): the blind reader took 'apertai as queixadas deles' as 'an order to the community to restrain the animals' — a cost of vós, as at 10:2, where the remedy was to name the subject. Here the hidden subject of constrínge is named in the vocative (rule 2: a subject hidden in a verb ending may be named): 'Senhor'. Matos Soares 1932 does the same in parentheses ('sujeita (ó Senhor)'). Gate (draft 2): the Latinist, MAJOR — «O vocativo “Senhor” não consta do latim e explicita um destinatário que o imperativo deixa sem nome» → ‘Com cabresto e freio, apertai as maxilas deles’. Taken verbatim in draft 3: rule 2 lets a subject *pronoun* be supplied, not a vocative noun, and Matos Soares 1932's '(ó Senhor)' is one of the parenthetical glosses D28 says to ignore. The blind reader's wrong first hearing ('apertai' said to the congregation) comes back; it is the cost of vós to both addressees, which the Latin tells apart only by number, and 'de vós' at the end of the verse still names God. 'Senhor, ' is option 1 for Gustavo.",
+      "options": [
+        {
+          "label": "Com cabresto e freio, apertai",
+          "forms": {
+            "domine9": "Com {camo} e freio, {constringe}"
+          },
+          "note": "Ruling (draft 3): the Latinist's gate, verbatim; the Latin names no one.",
+          "from": "latinist"
+        },
+        {
+          "label": "Com cabresto e freio, Senhor, apertai",
+          "forms": {
+            "domine9": "Com {camo} e freio, Senhor, {constringe}"
+          },
+          "note": "Draft 2: the addressee named (the blind reader's mishearing); a vocative the Latin lacks.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "maxillas",
+      "refs": [
+        "31:9b"
+      ],
+      "latin": "maxíllas eórum",
+      "kind": "word",
+      "why": "maxíllæ (σιαγόνας; only here): jaws. Heard (draft 1): the blind reader listed 'queixadas' (Matos Soares 1932) as unknown. 'maxilas' is the Latin's own word and known from anatomy; 'mandíbulas' the same thing.",
+      "options": [
+        {
+          "label": "maxilas",
+          "forms": {
+            "maxillas": "maxilas"
+          },
+          "note": "Ruling (draft 2): the cognate, known.",
+          "from": "draft"
+        },
+        {
+          "label": "queixadas",
+          "forms": {
+            "maxillas": "queixadas"
+          },
+          "note": "Draft 1 (MS1932): unknown to the blind reader.",
+          "from": "MS1932"
+        },
+        {
+          "label": "mandíbulas",
+          "forms": {
+            "maxillas": "mandíbulas"
+          },
+          "note": "The same, anatomical.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "multa",
+      "refs": [
+        "31:10"
+      ],
+      "latin": "Multa flagélla peccatóris",
+      "kind": "order",
+      "why": "The Latin is verbless and fronts the adjective. With the second colon in natural order (the stylist), 'Muitos são os flagelos do pecador' rhymes with 'Senhor' at the final. The subject first, 'Os flagelos do pecador são muitos', ends the colon on 'muitos' — a copula supplied, the order Portuguese's (D2). flagéllum → flagelo (90:10; listed as unknown by the blind reader, who still heard 'the punishments the sinner receives').",
+      "options": [
+        {
+          "label": "Os flagelos do pecador são muitos",
+          "forms": {
+            "multa": "Os flagelos do pecador são muitos"
+          },
+          "note": "Ruling (draft 2): no rhyme.",
+          "from": "draft"
+        },
+        {
+          "label": "Muitos são os flagelos do pecador",
+          "forms": {
+            "multa": "Muitos são os flagelos do pecador"
+          },
+          "note": "Draft 1: the Latin's order; rhymes with Senhor after draft 2.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "31:1": "beátus → bem-aventurado (D19); 'aqueles' supplied for quorum. = Romans 4:7 (Clementine, fetched).",
+    "31:2": "beátus vir → bem-aventurado o homem (1:1, D19); dolus → engano (glossary); 'e em cujo espírito não há engano' keeps the relative of the first colon. 31:2a = Romans 4:8.",
+    "31:3": "tacére → calar-se (27:1); inveteráre → envelhecer (6:8); tota die → o dia todo (D24). Silence and crying out in one verse: the Latin's paradox, kept.",
+    "31:5": "delíctum → falta (glossary, 24:7, 18:13); cógnitum fácere → dar a conhecer; injustítia → injustiça (apart from iníquitas, 31:1); abscóndere → esconder.",
+    "31:5b": "impíetas → impiedade (glossary); peccátum → pecado.",
+    "31:6": "orare → orar; in témpore opportúno → no tempo oportuno (144:15 the same phrase, grep).",
+    "31:6b": "verúmtamen → todavia (glossary); dilúvium → dilúvio (28:10); approximáre → aproximar-se (appropinquáre's verb; ἐγγίζω, as 31:9b); the subject of 'não se aproximarão' is left as open as the Latin (the waters).",
+    "31:7": "refúgium → refúgio; tribulátio → tribulação; circumdáre → cercar twice; éruere with a source → arrancar (glossary).",
+    "31:9": "Nolíte fíeri → Não vos torneis (plural men, vós); equus / mulus → o cavalo e o mulo.",
+    "31:10": "flagéllum → flagelo (90:10); peccátor → pecador; a copula supplied ('são'); 'mas' for autem.",
+    "31:11": "lætári → alegrar-se, exsultáre → exultar (glossary)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm31.txt, 14 prayed verses: DO repeats 31:5, 31:6, 31:9, keyed 31:5b, 31:6b, 31:9b by latin.readVerses. No titulus (D7). No flex. Not in the Diurnal Monástico (no DM block in the parallels). Clementine (Bolls VULG, fetched to consult/bolls-VULG-19-31.json): no difference of wording. Romans 4:7–8 (Clementine, consult/bolls-VULG-45-4.json): 4:7 = 31:1, 4:8 = 31:2a (the second colon not quoted). Uses checked by grep in DO's Latin: Monday None, Pss 31, 32(1-11), 32(12-22), antiphon 'Exsultáte, justi, * et gloriámini, omnes recti corde' (Psalmi minor.txt); 31:11 as the All Saints antiphon (Sancti/11-01.txt) and as a versicle (Commune/C12.txt, CommuneM/C12.txt); 31:1–2a read in Tempora/Nat01.txt (Romans 4). That it is the second of the seven Penitential Psalms is the tradition the brief states; DO's files as searched here ('poenitent', 'penitential') do not list the seven, so it is not verified on disk."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps031.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: imputáre, ærúmna, constríngere, maxíllæ, camus / frenum, gradi only here; remíttere 31:1, 31:5b, 38:14, 84:3; approximáre 31:6b, 31:9b only; in témpore opportúno 31:6, 144:15; equus 31:9, 32:17. Latin (= Greek) readings kept against the Hebrew: 31:2 'no seu espírito' (the Greek has 'mouth'; the Latin 'spíritu' agrees with the Hebrew — followed), 31:4 'voltei-me no meu sofrimento, enquanto se crava o espinho' (not the Hebrew's 'my moisture turned into summer drought'), 31:6 'no tempo oportuno', 31:7 'ó minha exultação, arrancai-me dos que me cercam' (not 'you surround me with songs of deliverance'), 31:9b 'que não se aproximam de vós'. Address: God is vós; in 31:8 the Lord speaks to one man (tu, D17); in 31:9 the psalmist (or the Lord) to men (vós). Tests for the readers: 'imputou', 'cobertos', 'se crava o espinho', 'Por isto', 'todo santo', 'ó minha exultação', the unmarked speaker of 31:8, 'cabresto e freio … queixadas'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids 31:5/5b, 31:6/6b, 31:9/9b). Soft flags accepted: 31:1 first colon +8 (D19's 'Bem-aventurados' and 'aqueles' supplied for quorum: +6 of it are the two words), 31:2 +4 / +3, 31:3 second +5 ('o dia todo', D24), 31:4 second +4, 31:8 first +3. The pecador / Senhor rhyme of 31:10 was avoided in draft 1 by the Latin's order."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. One major, 31:8 'hac' dropped — taken. «A tradução conserva o sentido do latim, salvo a omissão do demonstrativo em 31:8.» Passed 'perdoadas … perdoastes', 'cobertos', 'imputou', 'se fez pesada', 'voltei-me no meu sofrimento, enquanto se crava o espinho', 'Por isto', 'todo santo', 'ó minha exultação', 'te darei entendimento' (tu), 'cabresto e freio', 'ó justos'.",
+      "outcomes": [
+        {
+          "verse": "31:8",
+          "remark": "MAJOR: the demonstrative hac omitted → 'neste caminho por onde andarás'",
+          "outcome": "taken",
+          "decision": "intellectum"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Five verses, all taken; best 31:5, worst 31:4. «As principais asperezas vêm de inversões e intercalações; todas as terminações junto às marcas e nos finais satisfazem a cadência pedida, sem rimas ostensivas.»",
+      "outcomes": [
+        {
+          "verse": "31:2",
+          "remark": "'imputou' juridical, not current → 'não atribuiu pecado'",
+          "outcome": "taken",
+          "decision": "imputavit"
+        },
+        {
+          "verse": "31:4",
+          "remark": "'se fez pesada' sounds translated; the subject late → 'a vossa mão ficou pesada sobre mim'",
+          "outcome": "taken",
+          "decision": "gravata"
+        },
+        {
+          "verse": "31:5b",
+          "remark": "'contra mim a minha' crowds; the phrase interposed → 'Disse: Contra mim mesmo, confessarei ao Senhor a minha injustiça'",
+          "outcome": "taken",
+          "decision": "order5b"
+        },
+        {
+          "verse": "31:6",
+          "remark": "the postponed subject is artificially solemn → 'Por isto, todo santo orará a vós'",
+          "outcome": "taken",
+          "decision": "pro_hac"
+        },
+        {
+          "verse": "31:10",
+          "remark": "the fronted 'aquele' is heard as subject → 'mas a misericórdia cercará aquele que espera no Senhor'",
+          "outcome": "taken",
+          "decision": "sperantem",
+          "reason": "Taken; the rhyme it brings (pecador / Senhor) mended in the first colon ('Os flagelos do pecador são muitos', decision multa)."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1. 26 items, 9 unknown words (iniquidades, imputou (mended), impiedade, exultação, mulo, cabresto, queixadas (mended), flagelos, gloriai-vos). Two wrong first hearings mended: 31:5b 'Confessarei contra mim a minha injustiça' as an injustice done to me (→ the stylist's order), 31:9b 'apertai as queixadas deles' as an order to the congregation (→ 'Senhor,' named). Heard rightly: 31:1 'cobertos' as forgiven, 31:6 'Por isto' as 'because God forgave', 31:7 'ó minha exultação' as said to God, 31:8 the Lord speaking (unannounced, as the Latin), 31:8 'firmarei sobre ti os meus olhos' as care, 31:9 'Não vos torneis' as said to the community, 31:11 'gloriai-vos' as joyful celebration. Kept as the Latin's: 31:4 'voltei-me' heard as turning to God first (convértere's own range; 'revolvi-me' the option), 31:6 'todo santo' as the canonized first (ὅσιος; as 30:24), 31:6b 'dele' needing the verse before.",
+      "outcomes": [
+        {
+          "verse": "31:5b",
+          "remark": "'contra mim' may attach to 'injustiça' (an injustice against me)",
+          "outcome": "taken",
+          "decision": "order5b"
+        },
+        {
+          "verse": "31:9b",
+          "remark": "'apertai' heard as an order to the community (the vós of 31:9)",
+          "outcome": "taken",
+          "decision": "domine9",
+          "reason": "Taken in draft 2; undone in draft 3 at the Latinist's gate (a vocative the Latin lacks). The mishearing stands."
+        },
+        {
+          "verse": "31:9b",
+          "remark": "'queixadas' unknown",
+          "outcome": "taken",
+          "decision": "maxillas"
+        },
+        {
+          "verse": "31:2",
+          "remark": "'imputou' unknown",
+          "outcome": "taken",
+          "decision": "imputavit"
+        },
+        {
+          "verse": "31:4",
+          "remark": "'voltei-me' heard as turning to God first",
+          "outcome": "refused",
+          "decision": "conversus",
+          "reason": "convértere → voltar (glossary); the Latin's own word carries both; 'revolvi-me' (MS1932, the tossing) is the option."
+        },
+        {
+          "verse": "31:6",
+          "remark": "'todo santo' heard as the canonized",
+          "outcome": "refused",
+          "decision": "omnis_sanctus",
+          "reason": "The Latin's word (ὅσιος) either way; 'cada santo' and MS1932's 'todo homem santo' are options."
+        },
+        {
+          "verse": "31:9b",
+          "remark": "'cabresto' unknown",
+          "outcome": "refused",
+          "decision": "camo",
+          "reason": "The familiar pair 'cabresto e freio' (MS1932); 'focinheira' is the option."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2 (revise_v2.py, from prayed.v1.json): 31:2 'atribuiu'; 31:4 'a vossa mão ficou pesada sobre mim'; 31:5b 'Disse: Contra mim mesmo, confessarei ao Senhor a minha injustiça'; 31:6 'Por isto, todo santo orará a vós'; 31:8 'neste caminho'; 31:9b 'Com cabresto e freio, Senhor, apertai as maxilas deles'; 31:10 'Os flagelos do pecador são muitos, * mas a misericórdia cercará aquele que espera no Senhor'. New decisions: order5b, domine9, maxillas, multa."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. One remark: 31:9b MAJOR on the supplied vocative 'Senhor,' → removed. Every other draft-2 change passed without remark ('atribuiu', 'a vossa mão ficou pesada sobre mim', 'Disse: Contra mim mesmo, confessarei ao Senhor a minha injustiça', 'Por isto, todo santo orará a vós', 'neste caminho', 'maxilas', 'Os flagelos do pecador são muitos, * mas a misericórdia cercará aquele que espera no Senhor'). «A tradução conserva adequadamente o sentido do latim, inclusive suas imagens e construções menos habituais, salvo pelo vocativo acrescentado em 31:9b.»",
+      "outcomes": [
+        {
+          "verse": "31:9b",
+          "remark": "MAJOR: the vocative 'Senhor' is not in the Latin → 'Com cabresto e freio, apertai as maxilas deles'",
+          "outcome": "taken",
+          "decision": "domine9"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3 (revise_v3.py, from prayed.v2.json): 31:9b the supplied 'Senhor,' removed, the gate's fix verbatim. No other change; no critic has read draft 3."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "9c7ced0fd48fde7eb228440b2b936b7098850e824a74972a302063492b1bd8f2",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:20:15+00:00",
+  "reply": "{\"verses\":[{\"id\":\"31:9b\",\"severity\":\"major\",\"issues\":[{\"latin\":\"In camo et freno maxíllas eórum constrínge\",\"portuguese\":\"Com cabresto e freio, Senhor, apertai as maxilas deles\",\"problem\":\"O vocativo «Senhor» não consta do latim e explicita um destinatário que o imperativo deixa sem nome.\",\"fix\":\"Com cabresto e freio, apertai as maxilas deles\"}]}],\"overall\":\"A tradução conserva adequadamente o sentido do latim, inclusive suas imagens e construções menos habituais, salvo pelo vocativo acrescentado em 31:9b. Todos os versículos mantêm as mesmas marcas de divisão, na mesma ordem do latim.\"}"
+}

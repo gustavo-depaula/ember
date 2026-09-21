@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "bc43a91fc5bc007d990906336b37b4685a1669ede65ad68517e7d3a40056990d",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:13:09+00:00",
+  "reply": "{\"verses\":[{\"id\":\"32:20\",\"severity\":\"major\",\"issues\":[{\"latin\":\"adjútor et protéctor noster\",\"portuguese\":\"o nosso auxílio e protetor\",\"problem\":\"Adjutor designa aquele que ajuda; «auxílio» substitui essa designação pessoal pela ajuda prestada, convertendo o agente em abstração.\",\"fix\":\"o nosso auxiliador e protetor\"}]}],\"overall\":\"A tradução conserva adequadamente o sentido do latim, inclusive suas imagens e construções peculiares, salvo a substituição apontada em 32:20. Todos os versículos apresentam as mesmas marcas de apontamento, na mesma ordem do latim.\"}"
+}

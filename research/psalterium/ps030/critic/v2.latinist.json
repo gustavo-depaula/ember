@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "4de60006d8da0f597ace114bb5bd31e84d85f60d3b7fc7573ddb70863616a1f8",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:07:38+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"30:12\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"et vicínis meis valde\",\n          \"portuguese\": \"e sobretudo para os meus vizinhos\",\n          \"problem\": \"«Valde» intensifica o grau da afronta: muito, sobremaneira. «Sobretudo» introduz uma comparação entre os vizinhos e os demais que o latim não expressa.\",\n          \"fix\": \"e sobremaneira para os meus vizinhos\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"Nos 31 versículos, encontrei uma alteração de sentido em «valde»; as demais escolhas são defensáveis como tradução do latim. Os sinais de divisão coincidem com os do original em todos os versículos, na mesma ordem.\"\n}"
+}

@@ -1,0 +1,938 @@
+{
+  "psalm": 33,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "33:2": "Bendirei o Senhor {tempore}: * {laus2}.",
+    "33:3": "No Senhor {laudabitur} a minha alma: * ouçam os mansos, e se alegrem.",
+    "33:4": "Engrandecei comigo o Senhor: * e exaltemos {idipsum} o seu nome.",
+    "33:5": "{exquisivi} o Senhor, e ele me escutou: * e de todas as minhas tribulações me {eripuit}.",
+    "33:6": "Aproximai-vos dele, e {illuminamini}: * e {facies}.",
+    "33:7": "Este pobre clamou, e o Senhor o escutou: * e de todas as suas tribulações o salvou.",
+    "33:8": "O anjo do Senhor {immittet} ao redor dos que o temem: * e os {eripiet}.",
+    "33:9": "{gustate}, e vede {quoniam9} o Senhor é {suavis}: * bem-aventurado o homem que espera nele.",
+    "33:10": "Temei o Senhor, {sancti}: * porque não há {inopia} para os que o temem.",
+    "33:11": "Os ricos {eguerunt}: * mas os que {inquirentes} o Senhor {minuentur}.",
+    "33:12": "Vinde, filhos, {audite}: * eu vos ensinarei o temor do Senhor.",
+    "33:13": "Quem é o homem que quer a vida: * que ama ver dias bons?",
+    "33:14": "{prohibe} a tua língua do mal: * e que os teus lábios não falem engano.",
+    "33:15": "{diverte} do mal, e faz o bem: * {inquire} a paz, e {persequere}.",
+    "33:16": "Os olhos do Senhor estão sobre os justos: * e os seus ouvidos, {aures}.",
+    "33:17": "Mas o rosto do Senhor está sobre os que fazem {mala}: * para fazer perecer da terra a memória deles.",
+    "33:18": "Clamaram os justos, e o Senhor os escutou: * e de todas as suas tribulações os livrou.",
+    "33:19": "Perto está o Senhor dos que {tribulato}: * {humiles}.",
+    "33:20": "Muitas são as tribulações dos justos: * e de todas elas os livrará o Senhor.",
+    "33:21": "O Senhor guarda todos os ossos deles: * {unum} será quebrado.",
+    "33:22": "A morte dos pecadores é {pessima}: * e os que odeiam o justo {d22}.",
+    "33:23": "O Senhor resgatará as almas dos seus servos: * e {none23}."
+  },
+  "decisions": [
+    {
+      "id": "tempore",
+      "refs": [
+        "33:2"
+      ],
+      "latin": "Benedícam Dóminum in omni témpore",
+      "kind": "word",
+      "why": "in omni témpore (ἐν παντὶ καιρῷ): at every time. In Brazilian Portuguese 'todo' without the article is 'every' ('em todo tempo', at all times), with it 'the whole' ('em todo o tempo', Matos Soares 1932, which a Brazilian also hears as 'all the time') — the tota die row (D24) shows how the article moves the sense. benedícere with the accusative → 'bendizer o Senhor' (glossary, the row names 33:2). The colon is the versicle of the grace after meals (Appendix/Benedictio mensae.txt) and an Introit verse (03-10, 06-15 … grep), so it must stand alone; it does.",
+      "options": [
+        {
+          "label": "em todo tempo",
+          "forms": {
+            "tempore": "em todo tempo"
+          },
+          "note": "Ruling: 'at every time'.",
+          "from": "draft"
+        },
+        {
+          "label": "em todo o tempo",
+          "forms": {
+            "tempore": "em todo o tempo"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a todo momento",
+          "forms": {
+            "tempore": "a todo momento"
+          },
+          "note": "Plainer; momento is not the Latin's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "laus2",
+      "refs": [
+        "33:2"
+      ],
+      "latin": "semper laus ejus in ore meo",
+      "kind": "grammar",
+      "why": "The second colon is verbless (διὰ παντὸς ἡ αἴνεσις αὐτοῦ ἐν τῷ στόματί μου). Portuguese needs a verb; the first colon's future governs the verse, so 'estará' (Matos Soares 1932; Douay-Rheims 'shall be'). laus → louvor (glossary).",
+      "options": [
+        {
+          "label": "o seu louvor estará sempre na minha boca",
+          "forms": {
+            "laus2": "o seu louvor estará sempre na minha boca"
+          },
+          "note": "Ruling: the future supplied (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "sempre o seu louvor estará na minha boca",
+          "forms": {
+            "laus2": "sempre o seu louvor estará na minha boca"
+          },
+          "note": "The Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "o seu louvor está sempre na minha boca",
+          "forms": {
+            "laus2": "o seu louvor está sempre na minha boca"
+          },
+          "note": "A present supplied.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "laudabitur",
+      "refs": [
+        "33:3"
+      ],
+      "latin": "In Dómino laudábitur ánima mea",
+      "kind": "word",
+      "why": "laudábitur is a passive: 'shall be praised' (Douay-Rheims 'In the Lord shall my soul be praised'), the Greek ἐπαινεσθήσεται the same form. Matos Soares 1932 'se gloriará' is the Hebrew's 'boast' (תתהלל), which rule 1 does not import. The passive is odd — the soul praised in the Lord — and it is the Latin's oddness; the Alleluia of Pent12-0 and a versicle (Epi2-1.txt) sing it.",
+      "options": [
+        {
+          "label": "será louvada",
+          "forms": {
+            "laudabitur": "será louvada"
+          },
+          "note": "Ruling: the Latin's passive (Douay-Rheims).",
+          "from": "DRB"
+        },
+        {
+          "label": "se gloriará",
+          "forms": {
+            "laudabitur": "se gloriará"
+          },
+          "note": "Matos Soares 1932: the Hebrew's sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "idipsum",
+      "refs": [
+        "33:4"
+      ],
+      "latin": "et exaltémus nomen ejus in idípsum",
+      "kind": "glossary",
+      "why": "in idípsum, the second of its six places (4:9, 33:4, 40:7, 61:10, 73:6, 121:3); D9 deferred it, and the glossary row warns that one rendering may not serve all. Here it is ἐπὶ τὸ αὐτό with a plural subject ('let us exalt'): people doing one thing together (Douay-Rheims 'together', Matos Soares 1932 'todos à uma'). The same Greek phrase stands behind 'in unum' in 2:2 (συνήχθησαν ἐπὶ τὸ αὐτό, read in consult/parallels/ps002.md), which the glossary renders 'juntos' — D15's test lets the two Latin phrases share it. 4:9's 'a um só tempo' is right for one man's two verbs (sleep and rest) but would make the call to praise a matter of timing. Ruled locally; proposal on the row.",
+      "options": [
+        {
+          "label": "juntos",
+          "forms": {
+            "idipsum": "juntos"
+          },
+          "note": "Ruling: together (the in unum row; one Greek phrase).",
+          "from": "glossary"
+        },
+        {
+          "label": "a um só tempo",
+          "forms": {
+            "idipsum": "a um só tempo"
+          },
+          "note": "4:9's rendering.",
+          "from": "glossary"
+        },
+        {
+          "label": "todos à uma",
+          "forms": {
+            "idipsum": "todos à uma"
+          },
+          "note": "Matos Soares 1932; 'à uma' is literary.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "quaerere",
+      "refs": [
+        "33:5",
+        "33:11",
+        "33:15"
+      ],
+      "latin": "Exquisívi Dóminum … inquiréntes autem Dóminum … inquíre pacem",
+      "kind": "glossary",
+      "why": "exquírere → procurar (glossary; 118:2, 10 …), kept apart from quǽrere → buscar; requírere was merged into it on the Greek ἐκζητέω (118:145, 13:2, 21:27). Here 33:5 exquisívi (ἐξεζήτησα) and 33:11 inquiréntes (ἐκζητοῦντες) are that Greek verb, so inquírere joins them; 33:15 inquíre is ζήτησον (quǽrere's Greek), but it is the same Latin word as 33:11 six lines up, and what repeats in the Latin repeats in the Portuguese. Matos Soares 1932 'Busquei … buscam … busca'; Douay-Rheims 'sought … seek … seek after'.",
+      "options": [
+        {
+          "label": "Procurei … procuram … procura",
+          "forms": {
+            "exquisivi": "Procurei",
+            "inquirentes": "procuram",
+            "inquire": "procura"
+          },
+          "note": "Ruling: the exquírere row, one verb three times.",
+          "from": "glossary"
+        },
+        {
+          "label": "Busquei … buscam … busca",
+          "forms": {
+            "exquisivi": "Busquei",
+            "inquirentes": "buscam",
+            "inquire": "busca"
+          },
+          "note": "Matos Soares 1932: quǽrere's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "eripere",
+      "refs": [
+        "33:5",
+        "33:8"
+      ],
+      "latin": "erípuit me (ex ómnibus tribulatiónibus) … et erípiet eos",
+      "kind": "glossary",
+      "why": "erípere: the glossary row (open) keeps 'arrancar' where a source is named and 'libertar' where none is (6:5, 118:153, 170, 21:9). 33:5 has a source ('de todas as minhas tribulações me arrancou', 53:9's formula 'de toda tribulação me arrancastes'); 33:8 has none ('e os libertará'). The psalm varies its verbs of rescue (erípuit 33:5, salvávit 33:7, erípiet 33:8, liberávit 33:18, liberábit 33:20) and the Portuguese keeps them apart: arrancar / salvar / libertar / livrar.",
+      "options": [
+        {
+          "label": "arrancou … libertará",
+          "forms": {
+            "eripuit": "arrancou",
+            "eripiet": "libertará"
+          },
+          "note": "Ruling: the row, by source.",
+          "from": "glossary"
+        },
+        {
+          "label": "libertou … libertará",
+          "forms": {
+            "eripuit": "libertou",
+            "eripiet": "libertará"
+          },
+          "note": "One verb for erípere in the psalm (the row's \"never fails\").",
+          "from": "glossary"
+        },
+        {
+          "label": "livrou … livrará",
+          "forms": {
+            "eripuit": "livrou",
+            "eripiet": "livrará"
+          },
+          "note": "Matos Soares 1932: liberáre's verb; merges with 33:18, 33:20.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "illuminamini",
+      "refs": [
+        "33:6"
+      ],
+      "latin": "Accédite ad eum, et illuminámini",
+      "kind": "grammar",
+      "why": "illuminámini is an imperative passive (φωτίσθητε), 'be enlightened' (Douay-Rheims). 'sede iluminados' keeps mood and voice; Matos Soares 1932 'e sereis iluminados' makes it a promise. illumináre → iluminar (glossary). The verse is a Gradual verse (Pent07-0, Quad4-3, missa) and an antiphon (Willibrordus, grep).",
+      "options": [
+        {
+          "label": "sede iluminados",
+          "forms": {
+            "illuminamini": "sede iluminados"
+          },
+          "note": "Ruling: imperative passive.",
+          "from": "DRB"
+        },
+        {
+          "label": "sereis iluminados",
+          "forms": {
+            "illuminamini": "sereis iluminados"
+          },
+          "note": "Matos Soares 1932: a future.",
+          "from": "MS1932"
+        },
+        {
+          "label": "deixai-vos iluminar",
+          "forms": {
+            "illuminamini": "deixai-vos iluminar"
+          },
+          "note": "The erudímini build (glossary, 2:10).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "facies",
+      "refs": [
+        "33:6"
+      ],
+      "latin": "et fácies vestræ non confundéntur",
+      "kind": "glossary",
+      "why": "fácies → face (glossary; vultus → rosto, 33:17 has vultus). confúndi → ser envergonhado (D15). The plural 'as vossas faces' can also be heard as cheeks — which is where shame shows, and not a wrong image. Matos Soares 1932 'os vossos rostos não serão cobertos de confusão'; Douay-Rheims 'your faces shall not be confounded'.",
+      "options": [
+        {
+          "label": "as vossas faces não serão envergonhadas",
+          "forms": {
+            "facies": "as vossas faces não serão envergonhadas"
+          },
+          "note": "Ruling: glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "os vossos rostos não serão envergonhados",
+          "forms": {
+            "facies": "os vossos rostos não serão envergonhados"
+          },
+          "note": "vultus's word (Matos Soares 1932).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "immittet",
+      "refs": [
+        "33:8"
+      ],
+      "latin": "Immíttet Ángelus Dómini in circúitu timéntium eum",
+      "kind": "word",
+      "why": "immíttere is 'to send in, set in' (L&S), here with no object: the Latin's word for the Greek παρεμβαλεῖ, 'will encamp' — an army sent in and set down around. Douay-Rheims reads it so ('shall encamp round about'); Matos Soares 1932 'andará à roda' softens it. 'acampará' says the image the Latin carries; a bare 'enviará' would lack its object. in circúitu → ao redor de (glossary; the row names 33:8). The colon with its second half is an antiphon (Psalmi minor.txt, Feria IV; 10-02, the Guardian Angels) and, with 33:9a, a Communion (Quad1-4, Pent14-0, missa).",
+      "options": [
+        {
+          "label": "acampará",
+          "forms": {
+            "immittet": "acampará"
+          },
+          "note": "Ruling: the Latin's image, as Douay-Rheims reads it.",
+          "from": "DRB"
+        },
+        {
+          "label": "se porá",
+          "forms": {
+            "immittet": "se porá"
+          },
+          "note": "The bare verb 'set'; loses the camp.",
+          "from": "draft"
+        },
+        {
+          "label": "andará",
+          "forms": {
+            "immittet": "andará"
+          },
+          "note": "Matos Soares 1932 ('andará à roda').",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "gustate",
+      "refs": [
+        "33:9"
+      ],
+      "latin": "Gustáte, et vidéte",
+      "kind": "word",
+      "why": "gustáre (γεύσασθε), only here (grep): to taste. 'Provai' is how Brazilian Portuguese says tasting food, but 'provar' is probáre's verb (25:2 'Provai-me, Senhor'; the probáre row), so the two would meet across psalms. 'Saboreai' is the taste only and is free. Matos Soares 1932 'Gostai' is archaic in Brazil ('gostar' = to like). The verse is the Communion of Pent08-0 (missa Tempora/Pent08-0.txt, grep), an Alleluia (10-03) and a Matins antiphon (TemporaM/Pent02-5.txt); 1 Pet 2:3 alludes to it in another wording ('si tamen gustastis quoniam dulcis est Dominus', Clementine, fetched to consult/bolls-VULG-60-2.json).",
+      "options": [
+        {
+          "label": "Provai",
+          "forms": {
+            "gustate": "Provai"
+          },
+          "note": "Ruling: the Portuguese verb of tasting; shares a word with probáre across psalms.",
+          "from": "draft"
+        },
+        {
+          "label": "Saboreai",
+          "forms": {
+            "gustate": "Saboreai"
+          },
+          "note": "Free; a little literary.",
+          "from": "draft"
+        },
+        {
+          "label": "Gostai",
+          "forms": {
+            "gustate": "Gostai"
+          },
+          "note": "Matos Soares 1932; archaic.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "suavis",
+      "refs": [
+        "33:9"
+      ],
+      "latin": "quóniam suávis est Dóminus",
+      "kind": "word",
+      "why": "suávis (χρηστός): sweet, pleasant, kind. 7 lines (grep: 85:5 'suávis et mitis', 99:5, 108:21, 134:3, 144:9 'Suávis Dóminus univérsis'). The cognate 'suave' is current (gentle, pleasant) and keeps the word the Latin repeats; 1 Pet 2:3 has 'dulcis' for the same Greek (Clementine, fetched), and 24:8 'Dulcis et rectus Dóminus' (χρηστός) → 'doce' (glossary, open) — so 'doce' would join the taste to sweetness, but merge two Latin words. quóniam here is 'that' (ὅτι): 'vede que'; Matos Soares 1932 'quão suave' makes an exclamation.",
+      "options": [
+        {
+          "label": "suave",
+          "forms": {
+            "suavis": "suave"
+          },
+          "note": "Ruling: the cognate, current.",
+          "from": "DRB"
+        },
+        {
+          "label": "doce",
+          "forms": {
+            "suavis": "doce"
+          },
+          "note": "1 Pet 2:3's dulcis; dulcis's word (24:8).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "quoniam9",
+      "refs": [
+        "33:9"
+      ],
+      "latin": "vidéte quóniam suávis est Dóminus",
+      "kind": "grammar",
+      "why": "quóniam after a verb of seeing is 'that' (Douay-Rheims 'see that the Lord is sweet'). 'como' ('vede como o Senhor é suave') turns it into an exclamation, as Matos Soares 1932 does ('quão').",
+      "options": [
+        {
+          "label": "que",
+          "forms": {
+            "quoniam9": "que"
+          },
+          "note": "Ruling: 'that'.",
+          "from": "DRB"
+        },
+        {
+          "label": "como",
+          "forms": {
+            "quoniam9": "como"
+          },
+          "note": "An exclamation (Matos Soares 1932's 'quão').",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sancti",
+      "refs": [
+        "33:10"
+      ],
+      "latin": "Timéte Dóminum, omnes sancti ejus",
+      "kind": "grammar",
+      "why": "The vocative 'omnes sancti ejus' (οἱ ἅγιοι αὐτοῦ). Bare, 'Temei o Senhor, todos os seus santos' is heard as a second object (fear the Lord and all his saints). The glossary's vocative row (29:5 'vós, seus santos'): 'vós,' before a possessive. Matos Soares 1932 'vós todos os Santos'. The Offertory of All Saints (11-01) and the Gradual of 08-08 have another wording ('quóniam nihil deest').",
+      "options": [
+        {
+          "label": "vós, todos os seus santos",
+          "forms": {
+            "sancti": "vós, todos os seus santos"
+          },
+          "note": "Ruling: the vocative marked (29:5).",
+          "from": "glossary"
+        },
+        {
+          "label": "todos os seus santos",
+          "forms": {
+            "sancti": "todos os seus santos"
+          },
+          "note": "Bare: heard as a second object.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inopia",
+      "refs": [
+        "33:10"
+      ],
+      "latin": "quóniam non est inópia timéntibus eum",
+      "kind": "glossary",
+      "why": "inópia (ὑστέρημα, 'want'). The inops row (open) proposes 'indigência' for inópia (33:10, 43:24, 87:9, 106:41), beside 'indigente' for inops — which the blind readers did not know three times. The noun may fare better than the adjective; Matos Soares 1932 has it here. 'falta' is delíctum's (glossary); 'necessidade' is wanted for eguérunt in 33:11; 'penúria' is the free plain word.",
+      "options": [
+        {
+          "label": "indigência",
+          "forms": {
+            "inopia": "indigência"
+          },
+          "note": "Ruling: the row's proposal (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "penúria",
+          "forms": {
+            "inopia": "penúria"
+          },
+          "note": "Free and plain.",
+          "from": "draft"
+        },
+        {
+          "label": "míngua",
+          "forms": {
+            "inopia": "míngua"
+          },
+          "note": "Plain; a little old.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eguerunt",
+      "refs": [
+        "33:11"
+      ],
+      "latin": "Dívites eguérunt et esuriérunt",
+      "kind": "grammar",
+      "why": "Two verbs: egére 'be in need' (15:2 'precisar', with an object) and esuríre 'hunger'. Portuguese says both with one verb and two nouns, 'passaram necessidade e fome' — the Latin's two ideas, the grammar the ear's (D2). Matos Soares 1932 'tiveram necessidade e fome' does the same. The Greek's first verb is 'became poor' (ἐπτώχευσαν), which the Latin does not follow.",
+      "options": [
+        {
+          "label": "passaram necessidade e fome",
+          "forms": {
+            "eguerunt": "passaram necessidade e fome"
+          },
+          "note": "Ruling: one verb, two nouns.",
+          "from": "draft"
+        },
+        {
+          "label": "tiveram necessidade e fome",
+          "forms": {
+            "eguerunt": "tiveram necessidade e fome"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ficaram necessitados e tiveram fome",
+          "forms": {
+            "eguerunt": "ficaram necessitados e tiveram fome"
+          },
+          "note": "Two verbs, as the Latin; heavy.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "minuentur",
+      "refs": [
+        "33:11"
+      ],
+      "latin": "non minuéntur omni bono",
+      "kind": "word",
+      "why": "minúere, passive (ἐλαττωθήσονται): 'be made less, lack'. Douay-Rheims 'shall not be deprived of any good'; Matos Soares 1932 'não terão falta de bem algum'. 'não serão privados de bem algum' keeps the passive and the future; 'falta' is delíctum's word. The literal 'diminuídos' is not said of persons lacking a good. omne bonum → 'bem algum' under the negation.",
+      "options": [
+        {
+          "label": "não serão privados de bem algum",
+          "forms": {
+            "minuentur": "não serão privados de bem algum"
+          },
+          "note": "Ruling: Douay-Rheims.",
+          "from": "DRB"
+        },
+        {
+          "label": "não terão falta de bem algum",
+          "forms": {
+            "minuentur": "não terão falta de bem algum"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "não serão diminuídos em bem algum",
+          "forms": {
+            "minuentur": "não serão diminuídos em bem algum"
+          },
+          "note": "The Latin's verb; stiff.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "audite",
+      "refs": [
+        "33:12"
+      ],
+      "latin": "Veníte, fílii, audíte me",
+      "kind": "glossary",
+      "why": "audíre → ouvir (glossary, D3), kept apart from exaudíre → escutar, which this psalm has three times (33:5, 7, 18). The bare vós imperative 'ouvi' is banned (D1); D13 lets it stand with an enclitic, and says 'Ouvi-me' may be used where the Latin is 'audi me' — this is such a place (Matos Soares 1932 'ouvi-me'). Here the children are addressed, and 'Vinde' before it fixes the mood. Gradual of Pent07-0, Quad4-3 and others (grep).",
+      "options": [
+        {
+          "label": "ouvi-me",
+          "forms": {
+            "audite": "ouvi-me"
+          },
+          "note": "Ruling: D13's enclitic exception; audíre apart from exaudíre.",
+          "from": "MS1932"
+        },
+        {
+          "label": "escutai-me",
+          "forms": {
+            "audite": "escutai-me"
+          },
+          "note": "exaudíre's verb (the row's fall-back).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "prohibe",
+      "refs": [
+        "33:14"
+      ],
+      "latin": "Próhibe linguam tuam a malo",
+      "kind": "glossary",
+      "why": "prohibére → reter (glossary, open; 118:101 'Retive os meus pés'; the row names 33:14). The tu imperative 'Retém'. The one addressed is the man of 33:13, singular (tu). Matos Soares 1932 'guarda' is custodíre's (33:21). The Rule of St Benedict quotes 33:13–14 (Regula/01-03.txt); 1 Pet 3:10 in another wording ('coërceat linguam suam', Clementine, fetched).",
+      "options": [
+        {
+          "label": "Retém",
+          "forms": {
+            "prohibe": "Retém"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Guarda",
+          "forms": {
+            "prohibe": "Guarda"
+          },
+          "note": "Matos Soares 1932; custodíre's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "diverte",
+      "refs": [
+        "33:15"
+      ],
+      "latin": "Divérte a malo, et fac bonum",
+      "kind": "glossary",
+      "why": "divértere (ἔκκλινον, only here with 'a malo'; grep) has the Greek of declináre a → apartar-se de (glossary, 118:115), and 36:27 'Declína a malo, et fac bonum' is the same line with that verb — so by D15's test the two share 'Aparta-te do mal', and 36:27 should copy this colon. 'desviar' is avértere's. Matos Soares 1932 'Desvia-te'. 1 Pet 3:11 'Declinet a malo' (Clementine, fetched) has declináre. 'faz o bem': the tu imperative of fazer, in its current form.",
+      "options": [
+        {
+          "label": "Aparta-te",
+          "forms": {
+            "diverte": "Aparta-te"
+          },
+          "note": "Ruling: declináre's word (one Greek verb; 36:27).",
+          "from": "glossary"
+        },
+        {
+          "label": "Desvia-te",
+          "forms": {
+            "diverte": "Desvia-te"
+          },
+          "note": "Matos Soares 1932; avértere's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "persequere",
+      "refs": [
+        "33:15"
+      ],
+      "latin": "inquíre pacem, et perséquere eam",
+      "kind": "glossary",
+      "why": "pérsequi → perseguir (glossary): pursue it (δίωξον). 'persegue-a' is heard as 'pursue' after 'procura a paz', not as 'persecute'. 1 Pet 3:11 has 'sequatur' (another verb); Matos Soares 1932 'vai em seu seguimento' explains.",
+      "options": [
+        {
+          "label": "persegue-a",
+          "forms": {
+            "persequere": "persegue-a"
+          },
+          "note": "Ruling: glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "segue-a",
+          "forms": {
+            "persequere": "segue-a"
+          },
+          "note": "sequi's verb (1 Pet 3:11).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aures",
+      "refs": [
+        "33:16"
+      ],
+      "latin": "et aures ejus in preces eórum",
+      "kind": "grammar",
+      "why": "Both cola are verbless in the Latin (Óculi … super justos: et aures … in preces). The first takes 'estão'; the second keeps the Latin's 'in' (εἰς, towards) with the participle of direction the glossary uses for eyes (24:15 'estão sempre voltados para o Senhor'). Matos Soares 1932 supplies '(estão atentos)' in parentheses — an explanation. preces → preces (δέησιν: D35's word). 'deles' so that the prayers are the just men's. 33:16–17a is quoted word for word in 1 Pet 3:12 (Clementine, fetched to consult/bolls-VULG-60-3.json) — formula row; the Epistle of Pent05-0 carries it.",
+      "options": [
+        {
+          "label": "voltados para as preces deles",
+          "forms": {
+            "aures": "voltados para as preces deles"
+          },
+          "note": "Ruling: direction, as the Latin's in.",
+          "from": "draft"
+        },
+        {
+          "label": "atentos às preces deles",
+          "forms": {
+            "aures": "atentos às preces deles"
+          },
+          "note": "Matos Soares 1932's gloss; explains.",
+          "from": "MS1932"
+        },
+        {
+          "label": "às preces deles",
+          "forms": {
+            "aures": "às preces deles"
+          },
+          "note": "Verbless.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mala",
+      "refs": [
+        "33:17"
+      ],
+      "latin": "super faciéntes mala",
+      "kind": "grammar",
+      "why": "faciéntes mala: 'those who do evil things' (Douay-Rheims; ποιοῦντας κακά). 'os que fazem o mal' (Matos Soares 1932) is how Portuguese says it; the plural is grammar (D27). 'super' kept as 'sobre' in both 33:16 and 33:17 — the same preposition for the eyes on the just and the face on the wicked, as the Latin; Douay-Rheims turns the second 'against'. vultus → rosto (glossary). pérdere → fazer perecer (D24; the row names 33:17).",
+      "options": [
+        {
+          "label": "o mal",
+          "forms": {
+            "mala": "o mal"
+          },
+          "note": "Ruling: Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "males",
+          "forms": {
+            "mala": "males"
+          },
+          "note": "The plural kept.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "tribulato",
+      "refs": [
+        "33:19"
+      ],
+      "latin": "iis, qui tribuláto sunt corde",
+      "kind": "grammar",
+      "why": "tribuláto corde: 'of a troubled heart' (the Latin's word, against the Greek's and Hebrew's 'crushed'). 'dos que têm o coração atribulado' (Matos Soares 1932) is the Portuguese build for 'who are of a troubled heart'. húmiles spíritu → 'os humildes de espírito' (húmilis → humilde, D27). An Alleluia verse (06-02, 09-27, C3a-1).",
+      "options": [
+        {
+          "label": "têm o coração atribulado",
+          "forms": {
+            "tribulato": "têm o coração atribulado"
+          },
+          "note": "Ruling: Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "são de coração atribulado",
+          "forms": {
+            "tribulato": "são de coração atribulado"
+          },
+          "note": "Closer to the Latin; stiffer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "humiles",
+      "refs": [
+        "33:19"
+      ],
+      "latin": "et húmiles spíritu salvábit",
+      "kind": "order",
+      "why": "húmiles spíritu → 'os humildes de espírito' (húmilis → humilde, D27). In the plain order (Matos Soares 1932 'e salvará os humildes de espírito') the verse ends on 'espírito', a proparoxytone at the final cadence (rule 4). The Latin's own order — object first, the verb last — ends on an oxytone and is still sayable; it is taken for the cadence, not for its own sake.",
+      "options": [
+        {
+          "label": "e os humildes de espírito salvará",
+          "forms": {
+            "humiles": "e os humildes de espírito salvará"
+          },
+          "note": "Ruling: the Latin's order; the cadence.",
+          "from": "draft"
+        },
+        {
+          "label": "e salvará os humildes de espírito",
+          "forms": {
+            "humiles": "e salvará os humildes de espírito"
+          },
+          "note": "Matos Soares 1932; ends on a proparoxytone.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e salvará os de espírito humilde",
+          "forms": {
+            "humiles": "e salvará os de espírito humilde"
+          },
+          "note": "The adjective moved; loses the noun 'os humildes'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "unum",
+      "refs": [
+        "33:21"
+      ],
+      "latin": "unum ex his non conterétur",
+      "kind": "grammar",
+      "why": "'not one of them shall be broken' (Douay-Rheims). 'nem um deles' keeps the Latin's 'unum' and its emphasis; 'nenhum deles' is plainer. contérere → quebrar (glossary). John 19:36 'Os non comminuetis ex eo' (Clementine, fetched to consult/bolls-VULG-43-19.json) is another wording and another verb; the psalm keeps its own. A versicle (Commune/C1p.txt) and with 33:20 a Tract/Gradual (06-15).",
+      "options": [
+        {
+          "label": "nem um deles",
+          "forms": {
+            "unum": "nem um deles"
+          },
+          "note": "Ruling: the 'unum' heard.",
+          "from": "DRB"
+        },
+        {
+          "label": "nenhum deles",
+          "forms": {
+            "unum": "nenhum deles"
+          },
+          "note": "Plainer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pessima",
+      "refs": [
+        "33:22"
+      ],
+      "latin": "Mors peccatórum péssima",
+      "kind": "word",
+      "why": "péssima: the superlative of malus (πονηρός). The cognate keeps it, and Matos Soares 1932 has it; in everyday Brazilian 'péssimo' is also 'awful (of quality)', which the context rules out. 'muito má' says the degree plainly.",
+      "options": [
+        {
+          "label": "péssima",
+          "forms": {
+            "pessima": "péssima"
+          },
+          "note": "Ruling: the Latin's word (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "muito má",
+          "forms": {
+            "pessima": "muito má"
+          },
+          "note": "Douay-Rheims 'very evil'; plain.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "delinquent",
+      "refs": [
+        "33:22",
+        "33:23"
+      ],
+      "latin": "et qui odérunt justum, delínquent … et non delínquent omnes qui sperant in eo",
+      "kind": "glossary",
+      "why": "delínquere → cometer faltas (glossary, open; 24:8 'aos que cometem faltas'), twice: the psalm ends on the word, the haters of the just against those who hope in the Lord (πλημμελήσουσιν … οὐ μὴ πλημμελήσωσιν). One verb both times. Douay-Rheims 'shall be guilty … shall offend' varies; Matos Soares 1932 'perecerão' (twice) is not the Latin's verb. odérunt → 'odeiam' (the perfect with present sense, 24:19).",
+      "options": [
+        {
+          "label": "cometerão faltas … cometerá falta",
+          "forms": {
+            "d22": "cometerão faltas",
+            "d23": "cometerá falta"
+          },
+          "note": "Ruling: the row, twice.",
+          "from": "glossary"
+        },
+        {
+          "label": "serão culpados … será culpado",
+          "forms": {
+            "d22": "serão culpados",
+            "d23": "será culpado"
+          },
+          "note": "Douay-Rheims's first verb.",
+          "from": "DRB"
+        },
+        {
+          "label": "perecerão … perecerá",
+          "forms": {
+            "d22": "perecerão",
+            "d23": "perecerá"
+          },
+          "note": "Matos Soares 1932: períre's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "none23",
+      "refs": [
+        "33:23"
+      ],
+      "latin": "et non delínquent omnes qui sperant in eo",
+      "kind": "grammar",
+      "why": "'non … omnes' is 'none' (Douay-Rheims 'none of them that trust in him shall offend'). Portuguese 'não cometerão faltas todos os que …' is heard as 'not all'; 'nenhum dos que' says the Latin's sense. The Monastic Ordo's versicle (OrdoM.txt) has another verb ('non relínquet').",
+      "options": [
+        {
+          "label": "nenhum dos que esperam nele {d23}",
+          "forms": {
+            "none23": "nenhum dos que esperam nele {d23}"
+          },
+          "note": "Ruling: 'none'.",
+          "from": "DRB"
+        },
+        {
+          "label": "não {d22} todos os que esperam nele",
+          "forms": {
+            "none23": "não {d22} todos os que esperam nele"
+          },
+          "note": "The Latin's build; heard as 'not all'.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "33:3": "mansuétus → manso (glossary; the row names 33:3); audíre → ouvir (no object, as the Latin; Matos Soares 1932 adds '-no'); lætári → alegrar-se.",
+    "33:4": "magnificáre → engrandecer; exaltáre → exaltar (glossary). 'comigo' before the object, as Matos Soares 1932: 'Engrandecei o Senhor comigo' would end the colon on the pronoun. The Christmas responsory 'Magnificáte Dóminum mecum' (Nat2-0.txt) sings the first colon.",
+    "33:5": "exaudíre → escutar (D3). The echo 'escutou … arrancou' at the two cadences is the Latin's own (exaudívit me … erípuit me); kept. So in 33:7 ('escutou … salvou') and 33:18 ('escutou … livrou').",
+    "33:6": "accédere → aproximar-se ('Aproximai-vos' is safe: past 'aproximei').",
+    "33:7": "Iste pauper → 'Este pobre' (pauper → pobre, D27); clamáre → clamar; salváre → salvar.",
+    "33:9": "beátus vir → bem-aventurado o homem (D19); speráre in → esperar em.",
+    "33:12": "Veníte, fílii → 'Vinde, filhos' (no 'ó': 'filhos' cannot be heard as an object of 'Vinde'); docére → ensinar (glossary). 'eu vos ensinarei' — the subject named and natural order for the Latin's fronted object.",
+    "33:13": "dilígere → amar (glossary). The Latin's second colon has no 'qui'; 'que' is supplied. dies boni → 'dias bons' (not 'felizes', Matos Soares 1932). The man addressed from here to 33:15 is singular: tu (D1).",
+    "33:14": "lábia → lábios; loqui dolum → 'falar engano' (dolus → engano, glossary). 'e que os teus lábios não falem': the jussive with 'que', so that it follows 'Retém' as a command.",
+    "33:17": "memória → memória (glossary).",
+    "33:18": "Clamavérunt justi → 'Clamaram os justos', the Latin's order (the antiphon and Introit verse — Commune/C1.txt, C3a-1.txt, 03-10 … — sing it so; it is also natural). liberáre → livrar (glossary).",
+    "33:19": "juxta → perto (row perto / longe); the Latin's order 'Perto está o Senhor', natural in Portuguese.",
+    "33:20": "The first colon is verbless in the Latin; 'são' supplied. 'de ómnibus his' → 'de todas elas'. With 33:21 a Gradual/Tract of 06-15 and 11-05 (grep).",
+    "33:21": "custodíre → guardar (glossary); os ossa → os ossos.",
+    "33:23": "redímere → resgatar (glossary; the row names 33:23); servus → servo; ánimæ → almas (32:19)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm33.txt, 22 prayed verses 33:2–33:23 (no 33:1: the titulus, D7). No repeated ids, no flex. Clementine (Bolls VULG, fetched to consult/bolls-VULG-19-33.json; ps033/show_vulg.py): identical wording. Alphabetic in Hebrew; nothing reproduced. Not in the Diurnal Monástico. NT places fetched (Clementine, Bolls VULG) before any claim: 1 Pet 2:3 'si tamen gustastis quoniam dulcis est Dominus' (another wording of 33:9a); 1 Pet 3:10–12: 3:12 'oculi Domini super justos, et aures ejus in preces eorum: vultus autem Domini super facientes mala' = 33:16–17a word for word, 3:10–11 another wording (coërceat, declinet, sequatur); John 19:36 'Os non comminuetis ex eo' — another wording of 33:21b, with another verb. Uses checked by grep (ps032/uses.py): 33:9 Communion of Pent08-0, Alleluia of 10-03, Matins antiphon (TemporaM/Pent02-5.txt); 33:8 an antiphon (Psalmi minor.txt [Completorium] Feria IV; 10-02) and, with 33:9a, the Communion of Quad1-4 and Pent14-0; 33:2 versicle of the grace (Benedictio mensae.txt) and Introit verses; 33:3 Alleluia of Pent12-0; 33:4 a Christmas responsory (Nat2-0.txt); 33:6 and 33:12 Gradual verses (Pent07-0, Quad4-3 …); 33:18 an antiphon (Commune/C1.txt) and Introit/Gradual of martyrs; 33:19 an Alleluia; 33:20–21 a Gradual (06-15); 33:21 a versicle (C1p.txt); 33:13–14 in the Rule of St Benedict (Regula/01-03.txt)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps033.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: gustáre, immíttere, divértere + a malo only here; suávis 7 lines; inópia 4. Glossary applied: D3 (escutar ×3), D13 (ouvi-me), D15 (ser envergonhado), D19, D24 (fazer perecer), D27 (pobre, humilde), D35 (preces), exquírere → procurar, erípere by source, prohibére → reter, delínquere → cometer faltas, redímere → resgatar, mansuétus → manso, in circúitu → ao redor de. in idípsum (D9, deferred) ruled locally 'juntos'. Latin (= Greek) readings kept against the Hebrew: 33:3 'será louvada' (not 'boast'), 33:5 'tribulações' (the Greek has 'sojournings', the Hebrew 'fears' — the Latin followed), 33:6 'Aproximai-vos dele, e sede iluminados' (not 'they looked … and were radiant'), 33:11 'Os ricos' (the Hebrew's young lions), 33:19 'coração atribulado', 33:22 'cometerão faltas'. Tests for the readers: 'será louvada', 'juntos', 'sede iluminados', 'as vossas faces', 'acampará', 'Provai', 'suave', 'indigência', 'não serão privados', 'ouvi-me', 'Retém', 'Aparta-te', 'persegue-a', 'voltados para as preces', 'péssima', 'cometerão faltas'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Rhymes accepted as the Latin's own: 33:5 escutou / arrancou, 33:7 escutou / salvou, 33:18 escutou / livrou (exaudívit … erípuit / salvávit / liberávit, each with the same pronoun), 33:16 / 33:17 deles / deles (eórum / eórum). 33:19 second colon put in the Latin's order for the final cadence (decision humiles). Lengths: 33:18 second colon −7 and 33:7 −5 (the Latin's long tribulatiónibus), 33:9 second +5 and 33:22 second +5 (bem-aventurado; cometerão faltas), 33:16 second +5 (voltados para), 33:2 second +4 (estará supplied); accepted."
+    }
+  ]
+}

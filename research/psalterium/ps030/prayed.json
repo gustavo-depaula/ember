@@ -1,0 +1,1538 @@
+{
+  "psalm": 30,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "30:2": "Em vós, Senhor, esperei: {confundar2}: * {libera}.",
+    "30:3": "Inclinai para mim o vosso ouvido, * apressai-vos a {eruas}.",
+    "30:3b": "Sede para mim {in_deum}, e uma casa de refúgio: * para me salvardes.",
+    "30:4": "Porque vós sois a minha força e o meu refúgio: * e por causa do vosso nome me guiareis, e me {enutries}.",
+    "30:5": "Vós me tirareis deste laço {abscond5}: * porque vós sois o meu protetor.",
+    "30:6": "{order6} * vós me {redemisti}, Senhor, Deus da verdade.",
+    "30:7": "{odisti} os que observam {vanitates}, * em vão.",
+    "30:7b": "Eu, porém, esperei no Senhor: * exultarei, e me alegrarei na vossa misericórdia.",
+    "30:8": "Porque olhastes para a minha {humilitatem}, * salvastes a minha alma das {necessitatibus}.",
+    "30:9": "E não me {conclusisti} nas mãos do inimigo: * firmastes os meus pés num lugar espaçoso.",
+    "30:10": "Tende piedade de mim, Senhor, porque estou atribulado: * {conturbatus}:",
+    "30:11": "Porque a minha vida desfaleceu na dor: * e os meus anos, em gemidos.",
+    "30:11b": "O meu vigor {infirmata} na pobreza: * {ossa}.",
+    "30:12": "{super_omnes} tornei-me uma afronta, e {valde} para os meus vizinhos: * e temor para os meus conhecidos.",
+    "30:12b": "Os que me viam {foras}: * {oblivioni}, como um morto, {a_corde}.",
+    "30:13": "Tornei-me como um vaso {perditum}: * porque ouvi a {vituperatio} de muitos que moram ao redor.",
+    "30:14": "Enquanto se reuniam juntos contra mim, * {consiliati} tomar a minha alma.",
+    "30:15": "Eu, porém, esperei em vós, Senhor: * disse: Vós sois o meu Deus: nas vossas mãos {sortes}.",
+    "30:16": "Arrancai-me da mão dos meus inimigos, * e dos que me perseguem.",
+    "30:17": "{illustra} a vossa face sobre o vosso servo, salvai-me na vossa misericórdia: * Senhor, {confundar17}, porque vos invoquei.",
+    "30:18": "{erubescant} os ímpios, e sejam {deducantur} ao {inferno}: * tornem-se mudos os lábios enganadores.",
+    "30:19": "Que falam iniquidade contra o justo: * com soberba e com {abusione}.",
+    "30:20": "Como é grande, Senhor, a multidão da vossa doçura, * que escondestes para os que vos temem!",
+    "30:20b": "{perfecisti} para os que esperam em vós, * à vista dos filhos dos homens.",
+    "30:21": "Vós os escondereis {in_abscondito} da vossa face, * {a_conturb}.",
+    "30:21b": "Vós os protegereis na vossa tenda, * da {contradictione} das línguas.",
+    "30:22": "Bendito o Senhor: * porque {mirificavit} a sua misericórdia para mim numa cidade fortificada.",
+    "30:23": "Eu, porém, disse, {excessu}: * Fui lançado para longe da face dos vossos olhos.",
+    "30:23b": "{ideo} escutastes a voz da minha oração, * quando eu clamava a vós.",
+    "30:24": "Amai o Senhor, vós, todos os seus santos: * porque o Senhor {requiret} a verdade, e retribuirá {facientibus}.",
+    "30:25": "{viriliter}, e que o vosso coração se fortaleça, * todos vós que esperais no Senhor."
+  },
+  "decisions": [
+    {
+      "id": "confundar",
+      "refs": [
+        "30:2",
+        "30:17"
+      ],
+      "latin": "non confúndar in ætérnum … Dómine, non confúndar",
+      "kind": "glossary",
+      "why": "confúndi → ser envergonhado (D15, settled): the Latin says 'non confúndar' twice, and the two are one wording here. The form is both the future and the present subjunctive (3rd conjugation); the Greek has the optative μὴ καταισχυνθείην in both places, and Douay-Rheims ('let me never be confounded', 'Let me not be confounded') and Matos Soares 1932 ('Não permitas que eu seja jamais confundido', 'não seja eu confundido') take the wish. Ruled for the future, as 24:1 = 24:20 'non erubéscam' → 'não corarei' (confidence, the Greek's optative the option there too), because it is what the Latin form gives first, it keeps the two places and the psalter consistent, and it lets 30:2 take D23's formula for a negated in ætérnum: 'para sempre' first, so that the negation is not heard as 'not for ever' (14:5b 'para sempre não será abalado', 29:7). **D15 said this line would be decided here:** 30:2a is the last line of the Te Deum (Common/Prayers.txt, 'In te, Dómine, sperávi: * non confúndar in ætérnum', grep) and = 70:1, and the traditional Portuguese 'não serei confundido' (from memory, unverified) is given up for D15's 'envergonhado' — the blind reader of Ps 118 heard 'confundido' as 'confused'. 'Jamais' is what two stylists have asked for in this formula (14:5b, 29:7). Heard (draft 1): the stylist — «A posição de “para sempre” faz a frase soar montada» → ‘não serei envergonhado para sempre’. Refused: that order puts the negation over 'para sempre' ('not for ever'), the fault D27 recorded at 9:19; the blind reader heard draft 1 as 'Nunca serei envergonhado', rightly. His order is an option. The Latinist passed both places.",
+      "options": [
+        {
+          "label": "para sempre não serei envergonhado … não serei envergonhado",
+          "forms": {
+            "confundar2": "para sempre não serei envergonhado",
+            "confundar17": "não serei envergonhado"
+          },
+          "note": "Ruling: the future, D15's verb, D23's formula.",
+          "from": "glossary"
+        },
+        {
+          "label": "jamais serei envergonhado … não serei envergonhado",
+          "forms": {
+            "confundar2": "jamais serei envergonhado",
+            "confundar17": "não serei envergonhado"
+          },
+          "note": "The stylists' 'jamais' (14:5b, 29:7): drops the phrase of in ætérnum.",
+          "from": "stylist"
+        },
+        {
+          "label": "não seja eu envergonhado para sempre … não seja eu envergonhado",
+          "forms": {
+            "confundar2": "não seja eu envergonhado para sempre",
+            "confundar17": "não seja eu envergonhado"
+          },
+          "note": "The wish (the Greek optative; DRB, MS1932). 'não … para sempre' risks 'not for ever'.",
+          "from": "DRB"
+        },
+        {
+          "label": "para sempre não serei confundido … não serei confundido",
+          "forms": {
+            "confundar2": "para sempre não serei confundido",
+            "confundar17": "não serei confundido"
+          },
+          "note": "The traditional verb (Te Deum, unverified): heard as 'confused' (D15).",
+          "from": "MS1932"
+        },
+        {
+          "label": "não serei envergonhado para sempre … não serei envergonhado",
+          "forms": {
+            "confundar2": "não serei envergonhado para sempre",
+            "confundar17": "não serei envergonhado"
+          },
+          "note": "The stylist's order: heard 'not for ever'.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "libera",
+      "refs": [
+        "30:2"
+      ],
+      "latin": "in justítia tua líbera me",
+      "kind": "order",
+      "why": "liberáre → livrar (glossary). The natural order, as 5:9 'guiai-me na vossa justiça'; the colon ends on a paroxytone. The Latin's order is the Monday Sext antiphon 'In tua justítia * líbera me, Dómine' (Psalmi minor.txt, grep), which can be built in its own order ('Na vossa justiça * livrai-me, Senhor') as 26:1's antiphon was.",
+      "options": [
+        {
+          "label": "livrai-me na vossa justiça",
+          "forms": {
+            "libera": "livrai-me na vossa justiça"
+          },
+          "note": "Ruling: natural order (5:9).",
+          "from": "draft"
+        },
+        {
+          "label": "na vossa justiça livrai-me",
+          "forms": {
+            "libera": "na vossa justiça livrai-me"
+          },
+          "note": "The Latin's order and the antiphon's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eruas",
+      "refs": [
+        "30:3"
+      ],
+      "latin": "accélera ut éruas me",
+      "kind": "glossary",
+      "why": "éruere → arrancar with a source, libertar without (the row's proposal from 24:17/24:20; 118:153, 170 for erípere). Here no source is named: 'arrancar-me' would hang. acceleráre → apressar-se (glossary; the row names this verse). 70:2 has 'et salva me' in its place. Douay-Rheims 'make haste to deliver me'; Matos Soares 1932 'acode prontamente a livrar-me'.",
+      "options": [
+        {
+          "label": "libertar-me",
+          "forms": {
+            "eruas": "libertar-me"
+          },
+          "note": "Ruling: the row, no source named.",
+          "from": "glossary"
+        },
+        {
+          "label": "arrancar-me",
+          "forms": {
+            "eruas": "arrancar-me"
+          },
+          "note": "The row's verb with a source; hangs here.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "in_deum",
+      "refs": [
+        "30:3b"
+      ],
+      "latin": "Esto mihi in Deum protectórem, et in domum refúgii",
+      "kind": "grammar",
+      "why": "'in' + accusative of what one becomes (εἰς θεὸν ὑπερασπιστὴν … εἰς οἶκον καταφυγῆς, the Hebraism): 'be to me a protecting God'. The predicate said plainly, the preposition not reproduced (Douay-Rheims 'Be thou unto me a God, a protector, and a house of refuge', Matos Soares 1932 'Sê para mim um Deus protector, e uma casa de refúgio'). protéctor → protetor (glossary); 70:3 = the first half ('in locum munítum' there).",
+      "options": [
+        {
+          "label": "um Deus protetor",
+          "forms": {
+            "in_deum": "um Deus protetor"
+          },
+          "note": "Ruling: the predicate plain.",
+          "from": "MS1932"
+        },
+        {
+          "label": "como Deus protetor",
+          "forms": {
+            "in_deum": "como Deus protetor"
+          },
+          "note": "The 'in' heard as 'as'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "enutries",
+      "refs": [
+        "30:4"
+      ],
+      "latin": "dedúces me, et enútries me",
+      "kind": "word",
+      "why": "enutríre: 'nourish, bring up' (διαθρέψεις; 54:23 'et ipse te enútriet' the only other place, grep). 22:2 'educávit me' (ἐξέθρεψεν, the same Greek root) → 'me nutriu'; one root, one verb. dedúcere → guiar (D22). The two futures echo (-ireis / -areis) as the Latin's dedúces / enútries do. Matos Soares 1932 'me sustentarás'; Douay-Rheims 'nourish me'.",
+      "options": [
+        {
+          "label": "nutrireis",
+          "forms": {
+            "enutries": "nutrireis"
+          },
+          "note": "Ruling: 22:2's verb.",
+          "from": "DRB"
+        },
+        {
+          "label": "sustentareis",
+          "forms": {
+            "enutries": "sustentareis"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "alimentareis",
+          "forms": {
+            "enutries": "alimentareis"
+          },
+          "note": "Plainer; food only.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "abscond5",
+      "refs": [
+        "30:5"
+      ],
+      "latin": "de láqueo hoc, quem abscondérunt mihi",
+      "kind": "word",
+      "why": "abscóndere: the psalm says the root four times (30:5 abscondérunt, 30:20 abscondísti, 30:21 Abscóndes … in abscóndito): the snare they hid for me, the sweetness you hid for those who fear you, the hiding place of your face. 'esconder' in all four keeps the echo. 'que me esconderam' is heard as 'hid from me'; 'para mim' says the dative (Douay-Rheims 'which they have hidden for me'). Matos Soares 1932 'que me armaram escondidamente' (a verb supplied). edúcere de → tirar de (29:4). láqueus → laço (glossary).",
+      "options": [
+        {
+          "label": "que esconderam para mim",
+          "forms": {
+            "abscond5": "que esconderam para mim"
+          },
+          "note": "Ruling: the root kept, the dative said.",
+          "from": "DRB"
+        },
+        {
+          "label": "que me armaram às escondidas",
+          "forms": {
+            "abscond5": "que me armaram às escondidas"
+          },
+          "note": "Matos Soares 1932's build; the echo lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "commendo",
+      "refs": [
+        "30:6"
+      ],
+      "latin": "In manus tuas comméndo spíritum meum",
+      "kind": "word",
+      "why": "commendáre: 'give in charge, entrust' (παραθήσομαι, 'deposit with'; only here in the psalter, grep). The verse stands alone as the Compline short responsory ('R.br. In manus tuas, Dómine, * Comméndo spíritum meum. V. Redemísti nos, Dómine, Deus veritátis', Psalterium/Special/Minor Special.txt, grep) and is Christ's last word in Luke 23:46 (Clementine, fetched to consult/bolls-VULG-42-23.json: 'Pater, in manus tuas commendo spiritum meum' — the psalm's words after 'Pater'). 'entrego' is the plain verb and how the line is said; it loses the deposit ('into safe keeping'). 'encomendo' is the cognate (Matos Soares 1932; Douay-Rheims 'commend') but in Brazil is first 'to order goods'. 'confio' keeps the trust but is heard first as 'I trust'. The present tense is the Latin's (the Greek has a future). In Tridentine Compline 30:2–6 was said as a psalm (Psalmi minor.txt [Tridentinum] 'Completorium … 4,30(2-6),90,133'); in 1962 the psalm is Monday Sext (30(2-9), 30(10-19), 30(20-25)). Heard (draft 1): the stylist — the proparoxytone 'espírito' at the mediant → ‘O meu espírito entrego nas vossas mãos’. Refused: the verse is the Compline responsory, whose first half is 'In manus tuas, Dómine', and the inversion puts the object first for the cadence's sake; the Latin's own mediant is 'spíritum meum'. His order is an option.",
+      "options": [
+        {
+          "label": "entrego",
+          "forms": {
+            "commendo": "entrego"
+          },
+          "note": "Ruling: plain; how the line lives.",
+          "from": "draft"
+        },
+        {
+          "label": "encomendo",
+          "forms": {
+            "commendo": "encomendo"
+          },
+          "note": "The cognate (MS1932, DRB).",
+          "from": "MS1932"
+        },
+        {
+          "label": "confio",
+          "forms": {
+            "commendo": "confio"
+          },
+          "note": "The trust kept; heard first as 'I trust'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "redemisti",
+      "refs": [
+        "30:6"
+      ],
+      "latin": "redemísti me, Dómine, Deus veritátis",
+      "kind": "glossary",
+      "why": "redímere → resgatar (glossary, open; the row names this verse and asks it to be weighed against 'remir'). Weighed: 'remistes' is safe here (a perfect, no homograph), and it is the verb of the Redeemer; but the imperatives cannot take it ('remi-me' = 'I redeemed myself', rule 3; 118:134, 154 and 25:11 already say 'resgatai-me'), so 'remir' here would split one Latin verb (λυτρόομαι in all its places) into two. 'Vós me resgatastes' also serves the responsory's versicle 'Redemísti nos' ('Vós nos resgatastes'). Deus veritátis → 'Deus da verdade' (Douay-Rheims 'the God of truth'); 'Deus de verdade' (Matos Soares 1932) is heard 'a true God'.",
+      "options": [
+        {
+          "label": "resgatastes",
+          "forms": {
+            "redemisti": "resgatastes"
+          },
+          "note": "Ruling: the row's one verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "remistes",
+          "forms": {
+            "redemisti": "remistes"
+          },
+          "note": "The Redeemer's verb (MS1932 'remiste'); splits the Latin verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "odisti",
+      "refs": [
+        "30:7"
+      ],
+      "latin": "Odísti observántes vanitátes",
+      "kind": "grammar",
+      "why": "odísse is a perfect with present sense; 24:19 ('me odeiam') and 25:5 ('Odeio') took the present at the Latinist's asking. God hates (the Greek ἐμίσησας is second person too; the Hebrew's 'I hate' is not followed). 'Vós odiais' names the subject, so the verse does not open on a bare verb that could be heard as an order.",
+      "options": [
+        {
+          "label": "Vós odiais",
+          "forms": {
+            "odisti": "Vós odiais"
+          },
+          "note": "Ruling: the present sense (24:19, 25:5).",
+          "from": "draft"
+        },
+        {
+          "label": "Odiastes",
+          "forms": {
+            "odisti": "Odiastes"
+          },
+          "note": "The perfect form (DRB 'Thou hast hated').",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "vanitates",
+      "refs": [
+        "30:7"
+      ],
+      "latin": "observántes vanitátes, * supervácue",
+      "kind": "glossary",
+      "why": "vánitas → vaidade (glossary; heard as conceit first, 'o que é vão' the row's option). observáre: 'keep, pay heed to' (διαφυλάσσοντας) — 'observar' in its sense of keeping an observance, as of rites; here the vain things are idols or omens. supervácue → 'em vão' (glossary, 24:4), alone after the asterisk as DO points it; whether it goes with 'odiais' or with 'observam' the Latin leaves open, and so does the Portuguese. Matos Soares 1932 'os que inutilmente observam coisas vãs'.",
+      "options": [
+        {
+          "label": "vaidades",
+          "forms": {
+            "vanitates": "vaidades"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "coisas vãs",
+          "forms": {
+            "vanitates": "coisas vãs"
+          },
+          "note": "Matos Soares 1932; the row's option in spirit.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "humilitatem",
+      "refs": [
+        "30:8"
+      ],
+      "latin": "respexísti humilitátem meam",
+      "kind": "glossary",
+      "why": "humílitas → humilhação (glossary, open; 9:14, 24:18, 118:153 'Vede a minha humilhação'); ταπείνωσις. 'humildade' is heard as the virtue. respícere → olhar para (12:3 'olhai'; ἐπεῖδες). Douay-Rheims 'my humility'; Matos Soares 1932 'o meu abatimento'.",
+      "options": [
+        {
+          "label": "humilhação",
+          "forms": {
+            "humilitatem": "humilhação"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "humildade",
+          "forms": {
+            "humilitatem": "humildade"
+          },
+          "note": "The cognate; heard as the virtue.",
+          "from": "DRB"
+        },
+        {
+          "label": "abatimento",
+          "forms": {
+            "humilitatem": "abatimento"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "necessitatibus",
+      "refs": [
+        "30:8"
+      ],
+      "latin": "salvásti de necessitátibus ánimam meam",
+      "kind": "glossary",
+      "why": "necéssitas (plural) → necessidades (glossary, open; 24:17 'libertai-me das minhas necessidades'; the row names 30:8 and the refrain of Ps 106). ἀναγκῶν, straits. Matos Soares 1932 'das angústias'; Douay-Rheims 'out of distresses'.",
+      "options": [
+        {
+          "label": "necessidades",
+          "forms": {
+            "necessitatibus": "necessidades"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "angústias",
+          "forms": {
+            "necessitatibus": "angústias"
+          },
+          "note": "Matos Soares 1932: the straits named.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conclusisti",
+      "refs": [
+        "30:9"
+      ],
+      "latin": "Nec conclusísti me in mánibus inimíci",
+      "kind": "word",
+      "why": "conclúdere: 'shut up, enclose' (συνέκλεισας). 'encerrar' is to shut someone in; 16:9b 'fecharam a sua gordura' is another use (to close). Douay-Rheims 'shut me up'; Matos Soares 1932 'não me entregaste' (the sense, another verb).",
+      "options": [
+        {
+          "label": "encerrastes",
+          "forms": {
+            "conclusisti": "encerrastes"
+          },
+          "note": "Ruling: shut in.",
+          "from": "DRB"
+        },
+        {
+          "label": "entregastes",
+          "forms": {
+            "conclusisti": "entregastes"
+          },
+          "note": "Matos Soares 1932: another verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super_omnes",
+      "refs": [
+        "30:12"
+      ],
+      "latin": "Super omnes inimícos meos factus sum oppróbrium et vicínis meis valde",
+      "kind": "ambiguity",
+      "why": "super + accusative (παρὰ πάντας τοὺς ἐχθρούς μου): 'beyond' or 'among'. Douay-Rheims 'among all my enemies'; Matos Soares 1932 'Mais que todos os meus inimigos' (a comparison, which in Portuguese says the enemies are also a reproach). 'Entre' keeps the plainer sense and parallels the dative that follows. oppróbrium → afronta (glossary; 21:7 'a afronta dos homens'). Heard (draft 1): the Latinist, minor — «não conserva o valor comparativo de «super omnes»» → ‘Mais que todos os meus inimigos’. Taken: it is the Latin's preposition read as the Latinist and Matos Soares 1932 read it. The blind reader had heard the draft's line rightly; the comparison is the stronger claim, and the Latin makes it.",
+      "options": [
+        {
+          "label": "Mais que todos os meus inimigos,",
+          "forms": {
+            "super_omnes": "Mais que todos os meus inimigos,"
+          },
+          "note": "Ruling (draft 2): the Latinist; Matos Soares 1932.",
+          "from": "latinist"
+        },
+        {
+          "label": "Entre todos os meus inimigos",
+          "forms": {
+            "super_omnes": "Entre todos os meus inimigos"
+          },
+          "note": "Draft 1. Douay-Rheims.",
+          "from": "DRB"
+        },
+        {
+          "label": "Diante de todos os meus inimigos",
+          "forms": {
+            "super_omnes": "Diante de todos os meus inimigos"
+          },
+          "note": "Before them: a place.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "valde",
+      "refs": [
+        "30:12"
+      ],
+      "latin": "et vicínis meis valde",
+      "kind": "glossary",
+      "why": "valde → muito (glossary). The adverb bears on the dative ('and very much to my neighbours'); 'sobretudo' (Matos Soares 1932) says the degree as a preference. Heard (draft 1): the stylist's worst line — «“Muito” fica suspenso … não se liga naturalmente ao substantivo “afronta”» → ‘e grande afronta para os meus vizinhos’; the blind reader heard 'muito' possibly as 'many neighbours'. Taken in substance with Matos Soares 1932's adverb, 'sobretudo': it says the degree of the dative ('and to my neighbours above all') without repeating 'afronta', which the Latin says once. A local departure from the valde row ('muito'), recorded there. Gate (draft 2): the Latinist, MAJOR — «“Valde” intensifica o grau da afronta … “Sobretudo” introduz uma comparação entre os vizinhos e os demais que o latim não expressa» → ‘e sobremaneira para os meus vizinhos’. Taken verbatim in draft 3: it says the degree, bound to the dative, and does not hang as 'muito' did (the stylist's worst line). It is the more formal word; 'grandemente' (the valde / veheménter row's local alternative) is the option nearest to it. Draft 3 has not been read by a critic; the change is one adverb, his own.",
+      "options": [
+        {
+          "label": "sobremaneira",
+          "forms": {
+            "valde": "sobremaneira"
+          },
+          "note": "Ruling (draft 3): the Latinist's gate, verbatim.",
+          "from": "latinist"
+        },
+        {
+          "label": "sobretudo",
+          "forms": {
+            "valde": "sobretudo"
+          },
+          "note": "Draft 2. the adverb bound to the dative.",
+          "from": "MS1932"
+        },
+        {
+          "label": "grandemente",
+          "forms": {
+            "valde": "grandemente"
+          },
+          "note": "The degree, plainer to some ears.",
+          "from": "draft"
+        },
+        {
+          "label": "muito",
+          "forms": {
+            "valde": "muito"
+          },
+          "note": "Draft 1. the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "e grande afronta",
+          "forms": {
+            "valde": "grande afronta"
+          },
+          "note": "The stylist: the noun repeated, which the Latin does not.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "oblivioni",
+      "refs": [
+        "30:12b"
+      ],
+      "latin": "oblivióni datus sum",
+      "kind": "word",
+      "why": "'given to oblivion' (the Greek simply ἐπελήσθην, 'I was forgotten'). 'fui entregue ao esquecimento' is how Portuguese says oblivióni dare (136:5 'oblivióni detur déxtera mea' will want the same). Cost: 'entregar' also stands in 30:6 for another verb. Douay-Rheims 'I am forgotten'; Matos Soares 1932 'Fui esquecido'.",
+      "options": [
+        {
+          "label": "fui entregue ao esquecimento",
+          "forms": {
+            "oblivioni": "fui entregue ao esquecimento"
+          },
+          "note": "Ruling: the Latin's phrase, idiomatic.",
+          "from": "draft"
+        },
+        {
+          "label": "fui dado ao esquecimento",
+          "forms": {
+            "oblivioni": "fui dado ao esquecimento"
+          },
+          "note": "datus to the letter.",
+          "from": "draft"
+        },
+        {
+          "label": "fui esquecido",
+          "forms": {
+            "oblivioni": "fui esquecido"
+          },
+          "note": "The sense (DRB, MS1932); the phrase lost.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "a_corde",
+      "refs": [
+        "30:12b"
+      ],
+      "latin": "tamquam mórtuus a corde",
+      "kind": "word",
+      "why": "'as one dead, away from the heart' — out of mind (ἀπὸ καρδίας). Douay-Rheims 'as one dead from the heart'; Matos Soares 1932 'pelos corações' (turns it into the agent). 'longe do coração' keeps the heart and the 'a' of separation; 'fora' is avoided because the first colon has 'para fora' (foras). Draft 2: 'longe de mim' in the first colon now answers it (a me … a corde).",
+      "options": [
+        {
+          "label": "longe do coração",
+          "forms": {
+            "a_corde": "longe do coração"
+          },
+          "note": "Ruling: the separation said.",
+          "from": "draft"
+        },
+        {
+          "label": "fora do coração",
+          "forms": {
+            "a_corde": "fora do coração"
+          },
+          "note": "Echoes 'para fora' of the first colon.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "perditum",
+      "refs": [
+        "30:13"
+      ],
+      "latin": "tamquam vas pérditum",
+      "kind": "word",
+      "why": "vas pérditum (σκεῦος ἀπολωλός): a vessel that is lost / ruined. vas → vaso (glossary, 2:9 'vaso de oleiro'). 'perdido' keeps the participle; Douay-Rheims 'destroyed', Matos Soares 1932 'quebrado' (explains the ruin as breaking). Heard (draft 1): the blind reader — likely 'Um vaso que foi extraviado', a wrong first hearing ('ruined' second). Changed to Douay-Rheims's 'destroyed': the ruin the Latin participle says (pérdere, 'destroy'), without Matos Soares's specific breaking.",
+      "options": [
+        {
+          "label": "destruído",
+          "forms": {
+            "perditum": "destruído"
+          },
+          "note": "Ruling (draft 2): DRB 'destroyed'; no 'misplaced' hearing.",
+          "from": "DRB"
+        },
+        {
+          "label": "perdido",
+          "forms": {
+            "perditum": "perdido"
+          },
+          "note": "Draft 1. the participle kept.",
+          "from": "draft"
+        },
+        {
+          "label": "quebrado",
+          "forms": {
+            "perditum": "quebrado"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "arruinado",
+          "forms": {
+            "perditum": "arruinado"
+          },
+          "note": "The ruin said.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vituperatio",
+      "refs": [
+        "30:13"
+      ],
+      "latin": "audívi vituperatiónem multórum commorántium in circúitu",
+      "kind": "word",
+      "why": "vituperátio (ψόγος, 'blame'; only here). 'vitupério' is the cognate and bookish; 'censura' is blame spoken; 'injúrias' (Matos Soares 1932) is insult. commoráre → morar ('that dwell'; παροικούντων, sojourning); in circúitu → ao redor (glossary).",
+      "options": [
+        {
+          "label": "censura",
+          "forms": {
+            "vituperatio": "censura"
+          },
+          "note": "Ruling: blame spoken.",
+          "from": "DRB"
+        },
+        {
+          "label": "difamação",
+          "forms": {
+            "vituperatio": "difamação"
+          },
+          "note": "Blame spread.",
+          "from": "draft"
+        },
+        {
+          "label": "vitupério",
+          "forms": {
+            "vituperatio": "vitupério"
+          },
+          "note": "The cognate; bookish.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "consiliati",
+      "refs": [
+        "30:14"
+      ],
+      "latin": "accípere ánimam meam consiliáti sunt",
+      "kind": "word",
+      "why": "consiliári (ἐβουλεύσαντο): 'took counsel' — the family of consílium → conselho. 'deliberaram' keeps the council; 'tramaram' judges it. accípere → receber (glossary) — here 'take' (λαβεῖν), as 17:17 'me tomou'. In eo dum → 'Enquanto'; convenire → reunir-se (2:2 'se reuniram juntos'); simul → juntos (glossary). Heard (draft 1): the stylist — «“Deliberaram” traz um tom de ata ou conselho formal» → ‘planejaram’; the blind reader listed 'deliberaram' as unknown. Taken: the plainer of two faithful words (D2); D33 already gives consílium-as-a-plan its own word.",
+      "options": [
+        {
+          "label": "planejaram",
+          "forms": {
+            "consiliati": "planejaram"
+          },
+          "note": "Ruling (draft 2): the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "deliberaram",
+          "forms": {
+            "consiliati": "deliberaram"
+          },
+          "note": "Draft 1. the council kept.",
+          "from": "draft"
+        },
+        {
+          "label": "resolveram",
+          "forms": {
+            "consiliati": "resolveram"
+          },
+          "note": "Matos Soares 1932: the outcome.",
+          "from": "MS1932"
+        },
+        {
+          "label": "tramaram",
+          "forms": {
+            "consiliati": "tramaram"
+          },
+          "note": "Judges the council.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sortes",
+      "refs": [
+        "30:15"
+      ],
+      "latin": "in mánibus tuis sortes meæ",
+      "kind": "word",
+      "why": "sortes: lots (plural). The Greek has οἱ καιροί μου, 'my times' (the Hebrew too); the Latin reads another word, and the Latin is followed. 'as minhas sortes' keeps the number; singular 'a minha sorte' is heard as 'my fate', close, but a count lost. Douay-Rheims 'My lots'; Matos Soares 1932 'o meu destino'. A copula supplied ('estão').",
+      "options": [
+        {
+          "label": "estão as minhas sortes",
+          "forms": {
+            "sortes": "estão as minhas sortes"
+          },
+          "note": "Ruling: the plural kept.",
+          "from": "DRB"
+        },
+        {
+          "label": "está a minha sorte",
+          "forms": {
+            "sortes": "está a minha sorte"
+          },
+          "note": "Singular: my fate.",
+          "from": "draft"
+        },
+        {
+          "label": "está o meu destino",
+          "forms": {
+            "sortes": "está o meu destino"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "illustra",
+      "refs": [
+        "30:17"
+      ],
+      "latin": "Illústra fáciem tuam super servum tuum",
+      "kind": "glossary",
+      "why": "illustráre (only here) and 118:135 'Fáciem tuam illúmina super servum tuum' are one Greek verb (ἐπίφανον τὸ πρόσωπόν σου ἐπὶ τὸν δοῦλόν σου in both, Rahlfs, consult/parallels/ps030.md and ps118.md): D15's test merges them, and the colon becomes 118:135's word for word, 'Iluminai a vossa face sobre o vosso servo' (the Sunday None antiphon quotes 118:135). The row illumináre stands against the stylist's 'Fazei brilhar' (118:135, twice). Douay-Rheims 'Make thy face to shine'; Matos Soares 1932 'Resplandeça a claridade do teu rosto'. Heard (draft 1): the stylist — «“iluminar a face” pede luz dirigida à face; “sobre o vosso servo” não se encaixa» → ‘Fazei brilhar’. Refused, as at 118:135 (twice): one Greek verb with 118:135, whose wording this colon repeats; the blind reader paraphrased it rightly ('Fazei vosso rosto brilhar sobre o servo'). 'Fazei brilhar' is option 1.",
+      "options": [
+        {
+          "label": "Iluminai",
+          "forms": {
+            "illustra": "Iluminai"
+          },
+          "note": "Ruling: = 118:135 (one Greek verb).",
+          "from": "glossary"
+        },
+        {
+          "label": "Fazei brilhar",
+          "forms": {
+            "illustra": "Fazei brilhar"
+          },
+          "note": "The 118:135 stylist; DRB's idiom.",
+          "from": "stylist"
+        },
+        {
+          "label": "Fazei resplandecer",
+          "forms": {
+            "illustra": "Fazei resplandecer"
+          },
+          "note": "Keeps a word of its own for illustráre.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "erubescant",
+      "refs": [
+        "30:18"
+      ],
+      "latin": "Erubéscant ímpii",
+      "kind": "glossary",
+      "why": "erubéscere → corar (glossary, open; 6:11, 24:1): blind readers have listed it as unknown more than once. Here it answers 30:17's 'não serei envergonhado' (confúndi) — the Latin changes verb, and so does the Portuguese.",
+      "options": [
+        {
+          "label": "Corem",
+          "forms": {
+            "erubescant": "Corem"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Envergonhem-se",
+          "forms": {
+            "erubescant": "Envergonhem-se"
+          },
+          "note": "Merges with confúndi (D15).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deducantur",
+      "refs": [
+        "30:18"
+      ],
+      "latin": "deducántur in inférnum",
+      "kind": "word",
+      "why": "dedúci in (καταχθείησαν εἰς ᾅδου, 'be brought down'): D22's 'guiar' is for guidance, D25's 'fazer descer' (7:6) has no passive that can be said. 'conduzidos' keeps dúcere, and the passive is safe (the homograph ban is on the imperative). Matos Soares 1932 'sejam conduzidos ao sepulcro'; Douay-Rheims 'brought down to hell'.",
+      "options": [
+        {
+          "label": "conduzidos",
+          "forms": {
+            "deducantur": "conduzidos"
+          },
+          "note": "Ruling: the root and the passive kept.",
+          "from": "MS1932"
+        },
+        {
+          "label": "levados",
+          "forms": {
+            "deducantur": "levados"
+          },
+          "note": "Plainer; ferre's word.",
+          "from": "draft"
+        },
+        {
+          "label": "precipitados",
+          "forms": {
+            "deducantur": "precipitados"
+          },
+          "note": "The 'down' said; too violent.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inferno",
+      "refs": [
+        "30:18"
+      ],
+      "latin": "in inférnum",
+      "kind": "glossary",
+      "why": "inférnus → inferno (glossary, open, for Gustavo — D22). Here a curse on the wicked, as 9:18: the damned's hell is no mishearing. ᾅδου. Douay-Rheims 'hell'; Matos Soares 1932 'ao sepulcro'.",
+      "options": [
+        {
+          "label": "inferno",
+          "forms": {
+            "inferno": "inferno"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "mundo dos mortos",
+          "forms": {
+            "inferno": "mundo dos mortos"
+          },
+          "note": "The sense, explained.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "abusione",
+      "refs": [
+        "30:19"
+      ],
+      "latin": "in supérbia, et in abusióne",
+      "kind": "word",
+      "why": "abúsio (only here; ἐξουδένωσις, 'contempt', the noun of ἐξουδενόω, 21:7 abjéctio → desprezo). supérbia → soberba (16:9b). Douay-Rheims 'with pride and abuse'; Matos Soares 1932 'com soberba e com despreso'.",
+      "options": [
+        {
+          "label": "desprezo",
+          "forms": {
+            "abusione": "desprezo"
+          },
+          "note": "Ruling: the Greek's sense (MS1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "abuso",
+          "forms": {
+            "abusione": "abuso"
+          },
+          "note": "The cognate: misuse, not scorn.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "perfecisti",
+      "refs": [
+        "30:20b"
+      ],
+      "latin": "Perfecísti eis, qui sperant in te",
+      "kind": "grammar",
+      "why": "perfícere → aperfeiçoar (glossary). The object is 30:20's 'quam' (the sweetness), which governs both verbs; a verse of its own needs the pronoun ('a'), and 'Vós' so that it does not open on a clitic. ἐξειργάσω ('wrought'); Douay-Rheims 'Which thou hast wrought'. The Epiphany II responsory sings 30:20–20b (Tempora/Epi2-1.txt, grep: 'Et perfecísti eis qui sperant in te, Dómine').",
+      "options": [
+        {
+          "label": "Vós a aperfeiçoastes",
+          "forms": {
+            "perfecisti": "Vós a aperfeiçoastes"
+          },
+          "note": "Ruling: the row's verb, the object supplied.",
+          "from": "glossary"
+        },
+        {
+          "label": "E a realizastes",
+          "forms": {
+            "perfecisti": "E a realizastes"
+          },
+          "note": "The Greek's 'wrought'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "in_abscondito",
+      "refs": [
+        "30:21"
+      ],
+      "latin": "Abscóndes eos in abscóndito faciéi tuæ",
+      "kind": "glossary",
+      "why": "in abscóndito → no lugar escondido (glossary, 26:5; the row names this verse). The root twice, as the Latin (and ἐν ἀποκρύφῳ). Matos Soares 1932 'no secreto da tua face'.",
+      "options": [
+        {
+          "label": "no lugar escondido",
+          "forms": {
+            "in_abscondito": "no lugar escondido"
+          },
+          "note": "Ruling: 26:5.",
+          "from": "glossary"
+        },
+        {
+          "label": "no segredo",
+          "forms": {
+            "in_abscondito": "no segredo"
+          },
+          "note": "Shorter; the root lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "contradictione",
+      "refs": [
+        "30:21b"
+      ],
+      "latin": "a contradictióne linguárum",
+      "kind": "glossary",
+      "why": "contradíctio → contenda (glossary, 17:44: 'contradições' was heard as inconsistencies). ἀντιλογίας. Cost: 'tenda … contenda' in one verse, an internal echo the Latin does not have (tabernáculo / contradictióne); the mediant is 'tenda', the final 'línguas', so no cadence rhymes.",
+      "options": [
+        {
+          "label": "contenda",
+          "forms": {
+            "contradictione": "contenda"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "contradição",
+          "forms": {
+            "contradictione": "contradição"
+          },
+          "note": "The cognate; heard as inconsistency (17:44).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "excessu",
+      "refs": [
+        "30:23"
+      ],
+      "latin": "in excéssu mentis meæ",
+      "kind": "word",
+      "why": "excéssus mentis (ἐν τῇ ἐκστάσει μου): the mind going out of itself — alarm, bewilderment (the titulus 'pro extasi'). 'excesso' is 'too much' in Portuguese; 'êxtase' is heard as mystical joy. 'fora de mim' says the going-out plainly, which is the image (ex-cédere); the word for mind is not said separately. 115:2 'in excéssu meo' and 67:28a 'in mentis excéssu' can follow. Douay-Rheims 'in the excess of my mind'; Matos Soares 1932 'no transporte do meu espírito'.",
+      "options": [
+        {
+          "label": "fora de mim",
+          "forms": {
+            "excessu": "fora de mim"
+          },
+          "note": "Ruling: the going-out said.",
+          "from": "draft"
+        },
+        {
+          "label": "no arrebatamento da minha mente",
+          "forms": {
+            "excessu": "no arrebatamento da minha mente"
+          },
+          "note": "mentis kept; heavy, and heard as rapture.",
+          "from": "draft"
+        },
+        {
+          "label": "no excesso da minha mente",
+          "forms": {
+            "excessu": "no excesso da minha mente"
+          },
+          "note": "Douay-Rheims to the letter.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "ideo",
+      "refs": [
+        "30:23b"
+      ],
+      "latin": "Ídeo exaudísti",
+      "kind": "word",
+      "why": "Ídeo: 'therefore' (διὰ τοῦτο). The Hebrew has 'but'; the Latin (with the Greek) says 'therefore', and is followed even where it surprises. Matos Soares 1932 'Mas tu ouviste' (the Hebrew's sense).",
+      "options": [
+        {
+          "label": "Por isso",
+          "forms": {
+            "ideo": "Por isso"
+          },
+          "note": "Ruling: the Latin.",
+          "from": "DRB"
+        },
+        {
+          "label": "Mas",
+          "forms": {
+            "ideo": "Mas"
+          },
+          "note": "Matos Soares 1932: the Hebrew's sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "requiret",
+      "refs": [
+        "30:24"
+      ],
+      "latin": "veritátem requíret Dóminus",
+      "kind": "glossary",
+      "why": "requírere (to seek) → procurar (glossary, 24:10, 26:4, 26:8); ἀληθείας ἐκζητεῖ. The other row ('pedir contas', 9:13) is for blood and sin. Douay-Rheims 'will require truth'; Matos Soares 1932 'procurará a verdade'.",
+      "options": [
+        {
+          "label": "procurará",
+          "forms": {
+            "requiret": "procurará"
+          },
+          "note": "Ruling: the row (MS1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "exigirá",
+          "forms": {
+            "requiret": "exigirá"
+          },
+          "note": "Douay-Rheims 'require'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "facientibus",
+      "refs": [
+        "30:24"
+      ],
+      "latin": "retríbuet abundánter faciéntibus supérbiam",
+      "kind": "word",
+      "why": "fácere supérbiam (100:7 'qui facit supérbiam', grep): 'to do pride'. 'procedem com soberba' (Matos Soares 1932's words) keeps soberba and supplies the verb of conduct; 'praticam' is operári's (glossary). retribúere → retribuir (17:21a); abundánter → 'com abundância' (abundántia → abundância, 29:7). Heard (draft 1): the stylist — «As duas locuções com “com” alongam um segundo colo já extenso; “procedem” acrescenta uma solenidade burocrática» → ‘retribuirá abundantemente aos que agem com soberba’. Taken whole: 'abundantemente' is the Latin's adverb as an adverb, 'agem' the plainer verb (D2).",
+      "options": [
+        {
+          "label": "abundantemente aos que agem com soberba",
+          "forms": {
+            "facientibus": "abundantemente aos que agem com soberba"
+          },
+          "note": "Ruling (draft 2): the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "procedem com soberba",
+          "forms": {
+            "facientibus": "com abundância aos que procedem com soberba"
+          },
+          "note": "Draft 1. Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "viriliter",
+      "refs": [
+        "30:25"
+      ],
+      "latin": "Viríliter ágite",
+      "kind": "glossary",
+      "why": "viríliter ágere → portar-se como homem (glossary, 26:14 'porta-te como homem'; the row proposes this plural). 'Agi' is also 'I acted' (rule 3). The whole verse follows 26:14's second half ('e que o teu coração se fortaleça'). The verse is a versicle in Sancti/Urbis/11-29 (grep).",
+      "options": [
+        {
+          "label": "Portai-vos como homens",
+          "forms": {
+            "viriliter": "Portai-vos como homens"
+          },
+          "note": "Ruling: 26:14 in the plural.",
+          "from": "glossary"
+        },
+        {
+          "label": "Portai-vos varonilmente",
+          "forms": {
+            "viriliter": "Portai-vos varonilmente"
+          },
+          "note": "Matos Soares 1932; 'varonilmente' was unknown to the Ps 26 reader.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conturbatus",
+      "refs": [
+        "30:10",
+        "30:11b"
+      ],
+      "latin": "conturbátus est in ira óculus meus … et ossa mea conturbáta sunt",
+      "kind": "grammar",
+      "why": "The psalm says conturbáre twice, two verses apart (ἐταράχθη … ἐταράχθησαν). Draft 1 had the state, 'está perturbado … estão perturbados' (Douay-Rheims 'is troubled … are disturbed'; 6:3 and 6:8 have the state). Heard (draft 1): the Latinist, MAJOR on both — «O perfeito passivo foi substituído por um estado presente» → ‘foi perturbado …’, ‘os meus ossos foram perturbados’; the stylist on 30:10 — «O verbo no singular, o complemento interposto e a enumeração posterior dificultam reconhecer … o conjunto dos sujeitos» → ‘Na ira, estão perturbados o meu olho, a minha alma e o meu ventre’. Taken, both: the Latinist's tense and voice, the stylist's order and plural agreement (grammar, D2; the Latin's singular agrees with the nearest subject). The two verses now say the same verb in the same tense, as the Latin does. Cost: 30:11b no longer reads word for word as the formula of 6:3 ('os meus ossos estão perturbados'; 6:3 has 'conturbáta sunt ossa mea', another order) — recorded on the formula row. 'na ira' keeps the Latin's ownerless wrath (the blind reader heard the speaker's own anger first, God's second).",
+      "options": [
+        {
+          "label": "na ira foram perturbados … e os meus ossos foram perturbados",
+          "forms": {
+            "conturbatus": "na ira foram perturbados o meu olho, a minha alma e o meu ventre",
+            "ossa": "e os meus ossos foram perturbados"
+          },
+          "note": "Ruling (draft 2): the Latinist's tense, the stylist's order.",
+          "from": "latinist"
+        },
+        {
+          "label": "está perturbado na ira … e os meus ossos estão perturbados",
+          "forms": {
+            "conturbatus": "está perturbado na ira o meu olho, a minha alma e o meu ventre",
+            "ossa": "e os meus ossos estão perturbados"
+          },
+          "note": "Draft 1: the state (6:3, 6:8).",
+          "from": "draft"
+        },
+        {
+          "label": "na ira estão perturbados … e os meus ossos estão perturbados",
+          "forms": {
+            "conturbatus": "na ira estão perturbados o meu olho, a minha alma e o meu ventre",
+            "ossa": "e os meus ossos estão perturbados"
+          },
+          "note": "The stylist's line whole; the state kept.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "infirmata",
+      "refs": [
+        "30:11b"
+      ],
+      "latin": "Infirmáta est in paupertáte virtus mea",
+      "kind": "grammar",
+      "why": "infirmári (ἠσθένησεν, an active intransitive in the Greek): 'grew weak'. Heard (draft 1): the Latinist, MAJOR (with the bones) — «A construção passiva foi substituída por uma construção intransitiva» → ‘O meu vigor foi enfraquecido na pobreza’. Taken in part: the reflexive 'se enfraqueceu' is Portuguese's middle voice, the form the psalter already uses for this verb (17:37 'não se enfraqueceram', 26:2b 'se enfraqueceram', both passed by the Latinist); 'foi enfraquecido' asks for an agent the Latin and the Greek do not have.",
+      "options": [
+        {
+          "label": "se enfraqueceu",
+          "forms": {
+            "infirmata": "se enfraqueceu"
+          },
+          "note": "Ruling (draft 2): the middle voice (17:37, 26:2b).",
+          "from": "draft"
+        },
+        {
+          "label": "foi enfraquecido",
+          "forms": {
+            "infirmata": "foi enfraquecido"
+          },
+          "note": "The Latinist: the passive to the letter.",
+          "from": "latinist"
+        },
+        {
+          "label": "enfraqueceu",
+          "forms": {
+            "infirmata": "enfraqueceu"
+          },
+          "note": "Draft 1.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "foras",
+      "refs": [
+        "30:12b"
+      ],
+      "latin": "Qui vidébant me, foras fugérunt a me",
+      "kind": "order",
+      "why": "foras goes with fugérunt, as DO's comma has it (Douay-Rheims reads 'saw me without'). Heard (draft 1): the stylist — «“Para fora” chega como um acréscimo depois de uma construção que já parecia completa» → ‘fugiram para fora, para longe de mim’. Taken, with one 'para': 'longe de mim' says the 'a me' as 'longe do coração' says the 'a corde' of the second colon, so the Latin's repeated preposition is heard twice.",
+      "options": [
+        {
+          "label": "fugiram para fora, longe de mim",
+          "forms": {
+            "foras": "fugiram para fora, longe de mim"
+          },
+          "note": "Ruling (draft 2): the stylist's order.",
+          "from": "stylist"
+        },
+        {
+          "label": "fugiram de mim para fora",
+          "forms": {
+            "foras": "fugiram de mim para fora"
+          },
+          "note": "Draft 1.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "a_conturb",
+      "refs": [
+        "30:21"
+      ],
+      "latin": "a conturbatióne hóminum",
+      "kind": "grammar",
+      "why": "Heard (draft 1): the stylist — «Depois da pausa, este complemento fica solto» → ‘longe da perturbação dos homens’. Taken: the same 'a' of separation as 30:12b ('longe de mim … longe do coração'); in 30:21b 'proteger de' governs by itself and stays. conturbátio → perturbação (the noun of conturbáre → perturbar).",
+      "options": [
+        {
+          "label": "longe da perturbação dos homens",
+          "forms": {
+            "a_conturb": "longe da perturbação dos homens"
+          },
+          "note": "Ruling (draft 2): the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "da perturbação dos homens",
+          "forms": {
+            "a_conturb": "da perturbação dos homens"
+          },
+          "note": "Draft 1.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "order6",
+      "refs": [
+        "30:6"
+      ],
+      "latin": "In manus tuas comméndo spíritum meum:",
+      "kind": "order",
+      "why": "See decision commendo: the stylist's order, refused.",
+      "options": [
+        {
+          "label": "Nas vossas mãos … o meu espírito:",
+          "forms": {
+            "order6": "Nas vossas mãos {commendo} o meu espírito:"
+          },
+          "note": "Ruling: the Latin's and the responsory's order.",
+          "from": "draft"
+        },
+        {
+          "label": "O meu espírito … nas vossas mãos:",
+          "forms": {
+            "order6": "O meu espírito {commendo} nas vossas mãos:"
+          },
+          "note": "The stylist: the cadence.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "mirificavit",
+      "refs": [
+        "30:22"
+      ],
+      "latin": "mirificávit misericórdiam suam mihi",
+      "kind": "glossary",
+      "why": "mirificáre → fazer maravilhoso (glossary; 4:4 'fez maravilhoso o seu santo', 16:7 'Fazei maravilhosas as vossas misericórdias', 15:3). ἐθαυμάστωσεν. Heard (draft 1): the stylist — «“Fez maravilhosa” soa como decalque» → ‘mostrou de modo maravilhoso a sua misericórdia para comigo’. Refused: 'mostrou' is a verb the Latin does not have, and the row's build stands in three psalms; the blind reader did not stumble here. His line is an option. Matos Soares 1932 'maravilhosamente usou comigo da sua misericórdia'.",
+      "options": [
+        {
+          "label": "fez maravilhosa",
+          "forms": {
+            "mirificavit": "fez maravilhosa"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "mostrou de modo maravilhoso",
+          "forms": {
+            "mirificavit": "mostrou de modo maravilhoso"
+          },
+          "note": "The stylist: a verb supplied.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "30:3": "inclína ad me aurem tuam → the formula 'inclinai para mim o vosso ouvido' (16:6; = 70:2a).",
+    "30:3b": "salvum me fácere → salvar (glossary); 'para me salvardes' (the personal infinitive; 'para que me salveis' rhymed with 30:4's 'nutrireis' at the next final). = 70:3 up to 'in domum refúgii' (70:3 'in locum munítum').",
+    "30:4": "fortitúdo → força; refúgium → refúgio; dedúcere → guiar (D22); 'por causa do vosso nome' for propter nomen tuum.",
+    "30:5": "edúcere de → tirar de (29:4); protéctor → protetor (glossary). 'Vós me tirareis' rather than the mesóclise.",
+    "30:6": "The verse stands alone, as the Compline responsory needs: 'Nas vossas mãos, Senhor, * entrego o meu espírito. V. Vós nos resgatastes, Senhor, Deus da verdade.' The mediant falls on a proparoxytone ('espírito'), accepted: the Latin's own is 'spíritum meum', and 'o espírito meu' would be an inversion for its own sake.",
+    "30:7b": "exsultáre / lætári → exultar / alegrar-se (glossary).",
+    "30:9": "statúere → firmar (glossary; 39:3 'státuit super petram pedes meos'); in loco spatióso → 'num lugar espaçoso', as the latitúdo row reserved.",
+    "30:10": "Miserére mei → Tende piedade de mim (formula); tribuláre → atribular (glossary); conturbáre → perturbar; óculus singular (glossary), as 6:8 'O meu olho está perturbado pelo furor'. The Latin's 'in ira' has no owner, and neither has the Portuguese. The verb agrees with the nearest subject, as the Latin's.",
+    "30:11": "defícere → desfalecer (glossary); dolor → dor; gémitus → gemido.",
+    "30:11b": "infirmári → enfraquecer (17:37, 26:2b); virtus of a man → vigor (21:16, 29:8); paupértas → pobreza (πτωχεία; the Hebrew's 'iniquity' not followed); the formula 'os meus ossos estão perturbados' (6:3).",
+    "30:12": "vicínus → vizinho; timor → temor; noti → conhecidos.",
+    "30:12b": "foras goes with fugérunt, as DO's comma has it (Douay-Rheims reads 'saw me without').",
+    "30:13": "commorári → morar; in circúitu → ao redor (glossary).",
+    "30:15": "The confession 'Deus meus es tu' → 'Vós sois o meu Deus'.",
+    "30:16": "erípere with a source → arrancar (glossary); pérsequi → perseguir.",
+    "30:17": "salvum me fac → salvai-me; invocáre → invocar.",
+    "30:18": "lábia dolósa → os lábios enganadores (11:3–4, 16:1b); mutus → mudo; fíeri + adjective → tornar-se.",
+    "30:19": "loqui iniquitátem → falar iniquidade (16:9b 'falou soberba'); supérbia → soberba.",
+    "30:20": "Quam magna → 'Como é grande' (8:2a 'como é admirável'); multitúdo → multidão (glossary; 'a multidão da vossa doçura', the Latin's image kept); dulcédo → doçura (glossary); timéntes te → os que vos temem. The Epiphany II responsory sings this verse (Tempora/Epi2-1.txt, grep).",
+    "30:20b": "in conspéctu → à vista de (glossary, 5:9); filii hóminum → os filhos dos homens.",
+    "30:21b": "prótegere → proteger; tabernáculum → tenda (glossary; 26:5).",
+    "30:22": "Benedíctus Dóminus → Bendito o Senhor (27:6); mirificáre → fazer maravilhoso (glossary); cívitas muníta → cidade fortificada (59:11 = 107:11).",
+    "30:23": "projícere → lançar (21:10); a fácie → da face de (glossary), 'para longe' saying the 'a'.",
+    "30:23b": "exaudíre → escutar (D3); vox oratiónis → a voz da minha oração; clamáre → clamar.",
+    "30:24": "dilígere → amar (safe: 'amai' ≠ 'amei'); sancti ejus (ὅσιοι) with 'vós' so that the vocative is not heard as a second object (29:5 'vós, seus santos'); retribúere → retribuir.",
+    "30:25": "confortári → fortalecer-se, with 'que' (26:14); speráre in → esperar em."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm30.txt, 31 prayed verses: DO repeats 30:3, 30:7, 30:11, 30:12, 30:20, 30:21, 30:23, keyed with b by latin.readVerses. No 30:1 (the titulus, D7). No flex. Not in the Diurnal Monástico (the parallels file has no DM block). Clementine (Bolls VULG, fetched to consult/bolls-VULG-19-30.json): no difference of wording. Uses checked by grep in DO's Latin: Monday Sext, 30(2-9), 30(10-19), 30(20-25), antiphon 'In tua justítia * líbera me, Dómine' (Psalmi minor.txt); Tridentine Compline 4, 30(2-6), 90, 133 (same file, [Tridentinum]); the Compline short responsory 'In manus tuas, Dómine, * Comméndo spíritum meum. V. Redemísti nos, Dómine, Deus veritátis' (Special/Minor Special.txt); the Te Deum's last line = 30:2a (Common/Prayers.txt); responsory 30:20–20b (Tempora/Epi2-1.txt); versicle 30:25 (Sancti/Urbis/11-29). Luke 23:46 (Clementine, consult/bolls-VULG-42-23.json): 'Pater, in manus tuas commendo spiritum meum'. 70:1–3 is near-identical to 30:2–3b."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps030.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: commendáre, paupértas, vituperátio, commorári, consiliári, sortes, illustráre, abúsio, conturbátio, abundánter only here; enutríre 30:4, 54:23; excéssus 30:23, 67:28a, 115:2; fácere supérbiam 30:24, 100:7; civitas / locus munítus 30:22, 59:11, 70:3, 107:11. Latin (= Greek) readings kept against the Hebrew: 30:7 'Vós odiais' (not 'I hate'), 30:11b 'na pobreza' (not 'iniquity'), 30:12b–13 order, 30:15 'as minhas sortes' (the Latin against the Greek's 'times' too), 30:23b 'Por isso' (not 'but'). Tests for the readers: 'para sempre não serei envergonhado', 'observam vaidades, em vão', 'vaso perdido', 'longe do coração', 'fora de mim', 'as minhas sortes', 'tenda … contenda', 'Vós a aperfeiçoastes'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids with b for the seven repeated DO ids). Soft flags accepted: 30:12b second colon +7 (fui entregue ao esquecimento … longe do coração), 30:13 second −7 (the Latin's long compounds), 30:20b first +6 (the object and subject supplied, 'Vós a aperfeiçoastes'), 30:25 first +5 (26:14's words), 30:10, 30:12 +4, 30:23 first −5 ('fora de mim'), 30:21b second −4; 30:6 mediant on a proparoxytone ('espírito', the Latin's 'spíritum meum'). Rhyme 30:20b / 30:21 'homens' — the Latin's own (hóminum / hóminum). 30:3b / 30:4 '-eis' mended before the critics ('para me salvardes')."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. Two majors (30:10, 30:11b — the perfect passives), one minor (30:12 super omnes). «A tradução conserva, em geral, o conteúdo e as imagens do latim.» Passed 'para sempre não serei envergonhado', 'Nas vossas mãos entrego', 'vós me resgatastes', 'Vós odiais', 'observam vaidades, * em vão', 'as minhas sortes', 'Iluminai', 'fora de mim', 'Por isso', 'Vós a aperfeiçoastes', 'Portai-vos como homens'.",
+      "outcomes": [
+        {
+          "verse": "30:10",
+          "remark": "MAJOR: the perfect passive made a present state → 'foi perturbado na ira …'",
+          "outcome": "taken",
+          "decision": "conturbatus",
+          "reason": "Taken with the stylist's order and plural agreement: 'na ira foram perturbados o meu olho, a minha alma e o meu ventre'."
+        },
+        {
+          "verse": "30:11b",
+          "remark": "MAJOR: 'enfraqueceu' intransitive for the passive → 'foi enfraquecido'",
+          "outcome": "taken",
+          "decision": "infirmata",
+          "reason": "Taken in part: the reflexive middle 'se enfraqueceu' (17:37, 26:2b, which he passed); the Greek is active intransitive (ἠσθένησεν) and 'foi enfraquecido' asks for an agent. His form is option 2."
+        },
+        {
+          "verse": "30:11b",
+          "remark": "MAJOR: 'estão perturbados' for the perfect passive → 'foram perturbados'",
+          "outcome": "taken",
+          "decision": "conturbatus"
+        },
+        {
+          "verse": "30:12",
+          "remark": "minor: 'Entre' loses the comparative of super omnes → 'Mais que todos os meus inimigos'",
+          "outcome": "taken",
+          "decision": "super_omnes"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Ten verses; best 30:9, worst 30:12. «O salmo tem sobriedade e imagens fortes, mas algumas construções ainda obrigam a boca a acompanhar a sintaxe latina.» Six taken (in whole or in substance), four refused with options.",
+      "outcomes": [
+        {
+          "verse": "30:2",
+          "remark": "'para sempre não' sounds assembled → 'não serei envergonhado para sempre'",
+          "outcome": "option",
+          "decision": "confundar",
+          "reason": "D23's formula: his order is heard as 'not for ever' (9:19, D27); the blind reader heard draft 1 as 'never'."
+        },
+        {
+          "verse": "30:6",
+          "remark": "proparoxytone 'espírito' at the mediant → 'O meu espírito entrego nas vossas mãos'",
+          "outcome": "option",
+          "decision": "order6",
+          "reason": "The Compline responsory's order ('In manus tuas, Dómine'); the Latin's own mediant is 'spíritum meum'; an inversion for the cadence."
+        },
+        {
+          "verse": "30:10",
+          "remark": "singular verb, interposed phrase, list after → 'Na ira, estão perturbados o meu olho, a minha alma e o meu ventre'",
+          "outcome": "taken",
+          "decision": "conturbatus",
+          "reason": "His order and plural, with the Latinist's perfect ('foram')."
+        },
+        {
+          "verse": "30:12",
+          "remark": "'muito' hangs, not tied to 'afronta' → 'e grande afronta para os meus vizinhos'",
+          "outcome": "taken",
+          "decision": "valde",
+          "reason": "Taken in substance with 'sobretudo' (MS1932): 'afronta' is not repeated, as the Latin says it once; his line is an option."
+        },
+        {
+          "verse": "30:12b",
+          "remark": "'para fora' arrives as an afterthought → 'fugiram para fora, para longe de mim'",
+          "outcome": "taken",
+          "decision": "foras",
+          "reason": "With one 'para': 'fugiram para fora, longe de mim', which answers 'longe do coração' (a me … a corde)."
+        },
+        {
+          "verse": "30:14",
+          "remark": "'deliberaram' sounds like minutes → 'planejaram'",
+          "outcome": "taken",
+          "decision": "consiliati"
+        },
+        {
+          "verse": "30:17",
+          "remark": "'iluminar a face … sobre' does not fit → 'Fazei brilhar a vossa face'",
+          "outcome": "option",
+          "decision": "illustra",
+          "reason": "One Greek verb with 118:135, whose colon this repeats word for word (held there twice against the stylist); the blind reader understood it."
+        },
+        {
+          "verse": "30:21",
+          "remark": "'da perturbação' hangs after the pause → 'longe da perturbação dos homens'",
+          "outcome": "taken",
+          "decision": "a_conturb"
+        },
+        {
+          "verse": "30:22",
+          "remark": "'fez maravilhosa' is a calque → 'mostrou de modo maravilhoso a sua misericórdia para comigo'",
+          "outcome": "option",
+          "decision": "mirificavit",
+          "reason": "The mirificáre row (4:4, 15:3, 16:7); 'mostrou' is a verb the Latin does not have."
+        },
+        {
+          "verse": "30:24",
+          "remark": "two 'com' phrases, 'procedem' bureaucratic → 'retribuirá abundantemente aos que agem com soberba'",
+          "outcome": "taken",
+          "decision": "facientibus"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1. 49 items, 8 unknown words (exultarei, atribulado, desfaleceu, deliberaram, sortes, Corem, iniquidade, contenda). One wrong first hearing mended: 30:13 'vaso perdido' as a misplaced vase → 'destruído'. Heard rightly: 30:2 'para sempre não serei envergonhado' as 'never', 30:6 'entrego o meu espírito' (entrusting, at death), 30:9, 30:12b 'longe do coração' (out of mind), 30:17 'Iluminai … sobre o vosso servo', 30:20 'escondestes para' (stored up for), 30:23 'fora de mim'. Kept as the Latin's own range: 30:10 'na ira' (own anger first — the Latin names no owner), 30:7 'observam vaidades' (attention to futile things / vanity; 'em vão' with either verb, as the Latin), 30:15 'sortes' (fate / luck), 30:20 'multidão' (people first, then quantity — the multitúdo row), 30:24 'retribuirá' (punishment first, reward second — retribúere is neutral), 30:24 'santos' (canonized saints first — the Latin's word).",
+      "outcomes": [
+        {
+          "verse": "30:13",
+          "remark": "'um vaso perdido' likely heard as a vase gone missing",
+          "outcome": "taken",
+          "decision": "perditum"
+        },
+        {
+          "verse": "30:14",
+          "remark": "'deliberaram' unknown",
+          "outcome": "taken",
+          "decision": "consiliati"
+        },
+        {
+          "verse": "30:12",
+          "remark": "'e muito para os meus vizinhos' may be heard as 'many neighbours'",
+          "outcome": "taken",
+          "decision": "valde"
+        },
+        {
+          "verse": "30:10",
+          "remark": "'na ira' heard as the speaker's own anger first",
+          "outcome": "refused",
+          "reason": "The Latin's 'in ira' names no owner (ἐν θυμῷ); the three readings the reader lists are the Latin's."
+        },
+        {
+          "verse": "30:15",
+          "remark": "'sortes' unknown / heard as luck",
+          "outcome": "refused",
+          "decision": "sortes",
+          "reason": "The Latin's plural (lots, portion); 'luck' is close to 'my lot'; the singular and MS1932's 'destino' are options."
+        },
+        {
+          "verse": "30:20",
+          "remark": "'multidão' suggests people first",
+          "outcome": "refused",
+          "reason": "The multitúdo row (5:7b, 5:11b): one word for the Latin's; the reader reached quantity at once."
+        },
+        {
+          "verse": "30:18",
+          "remark": "'Corem' unknown as a verb form",
+          "outcome": "refused",
+          "decision": "erubescant",
+          "reason": "erubéscere → corar (glossary, open); evidence added to the row, 'Envergonhem-se' the option."
+        },
+        {
+          "verse": "30:21b",
+          "remark": "'contenda' unknown",
+          "outcome": "refused",
+          "decision": "contradictione",
+          "reason": "The contradíctio row (17:44); the reader still heard 'verbal quarrels' in the phrase."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2 (revise_v2.py, from prayed.v1.json): 30:10 'na ira foram perturbados o meu olho, a minha alma e o meu ventre' and 30:11b 'e os meus ossos foram perturbados' (the Latinist + the stylist); 30:11b 'se enfraqueceu'; 30:12 'Mais que todos os meus inimigos, … e sobretudo para os meus vizinhos'; 30:12b 'fugiram para fora, longe de mim'; 30:13 'destruído'; 30:14 'planejaram'; 30:21 'longe da perturbação dos homens'; 30:24 'retribuirá abundantemente aos que agem com soberba'. New decisions: conturbatus, infirmata, foras, a_conturb, order6, mirificavit."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. One remark: 30:12 MAJOR on draft 2's 'sobretudo' (a comparison the Latin does not make) → 'sobremaneira'. Every other draft-2 change passed without remark (30:10 'na ira foram perturbados …', 30:11b 'se enfraqueceu … foram perturbados', 'Mais que todos os meus inimigos', 'fugiram para fora, longe de mim', 'vaso destruído', 'planejaram', 'longe da perturbação', 'abundantemente aos que agem com soberba'). «Nos 31 versículos, encontrei uma alteração de sentido em “valde”; as demais escolhas são defensáveis como tradução do latim.»",
+      "outcomes": [
+        {
+          "verse": "30:12",
+          "remark": "MAJOR: 'sobretudo' introduces a comparison; valde is degree → 'e sobremaneira para os meus vizinhos'",
+          "outcome": "taken",
+          "decision": "valde"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3 (revise_v3.py, from prayed.v2.json): 30:12 'sobretudo' → 'sobremaneira', the gate's fix verbatim. No other change; no critic has read draft 3."
+    }
+  ]
+}

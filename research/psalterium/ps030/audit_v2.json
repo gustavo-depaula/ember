@@ -1,0 +1,54 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 1: hard pass (ids with b for the seven repeated DO ids). Soft flags accepted: 30:12b second colon +7 (fui entregue ao esquecimento … longe do coração), 30:13 second −7 (the Latin's long compounds), 30:20b first +6 (the object and subject supplied, 'Vós a aperfeiçoastes'), 30:25 first +5 (26:14's words), 30:10, 30:12 +4, 30:23 first −5 ('fora de mim'), 30:21b second −4; 30:6 mediant on a proparoxytone ('espírito', the Latin's 'spíritum meum'). Rhyme 30:20b / 30:21 'homens' — the Latin's own (hóminum / hóminum). 30:3b / 30:4 '-eis' mended before the critics ('para me salvardes')."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. Two majors (30:10, 30:11b — the perfect passives), one minor (30:12 super omnes). «A tradução conserva, em geral, o conteúdo e as imagens do latim.» Passed 'para sempre não serei envergonhado', 'Nas vossas mãos entrego', 'vós me resgatastes', 'Vós odiais', 'observam vaidades, * em vão', 'as minhas sortes', 'Iluminai', 'fora de mim', 'Por isso', 'Vós a aperfeiçoastes', 'Portai-vos como homens'.",
+    "outcomes": [
+      {"verse": "30:10", "remark": "MAJOR: the perfect passive made a present state → 'foi perturbado na ira …'", "outcome": "taken", "decision": "conturbatus", "reason": "Taken with the stylist's order and plural agreement: 'na ira foram perturbados o meu olho, a minha alma e o meu ventre'."},
+      {"verse": "30:11b", "remark": "MAJOR: 'enfraqueceu' intransitive for the passive → 'foi enfraquecido'", "outcome": "taken", "decision": "infirmata", "reason": "Taken in part: the reflexive middle 'se enfraqueceu' (17:37, 26:2b, which he passed); the Greek is active intransitive (ἠσθένησεν) and 'foi enfraquecido' asks for an agent. His form is option 2."},
+      {"verse": "30:11b", "remark": "MAJOR: 'estão perturbados' for the perfect passive → 'foram perturbados'", "outcome": "taken", "decision": "conturbatus"},
+      {"verse": "30:12", "remark": "minor: 'Entre' loses the comparative of super omnes → 'Mais que todos os meus inimigos'", "outcome": "taken", "decision": "super_omnes"}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Ten verses; best 30:9, worst 30:12. «O salmo tem sobriedade e imagens fortes, mas algumas construções ainda obrigam a boca a acompanhar a sintaxe latina.» Six taken (in whole or in substance), four refused with options.",
+    "outcomes": [
+      {"verse": "30:2", "remark": "'para sempre não' sounds assembled → 'não serei envergonhado para sempre'", "outcome": "option", "decision": "confundar", "reason": "D23's formula: his order is heard as 'not for ever' (9:19, D27); the blind reader heard draft 1 as 'never'."},
+      {"verse": "30:6", "remark": "proparoxytone 'espírito' at the mediant → 'O meu espírito entrego nas vossas mãos'", "outcome": "option", "decision": "order6", "reason": "The Compline responsory's order ('In manus tuas, Dómine'); the Latin's own mediant is 'spíritum meum'; an inversion for the cadence."},
+      {"verse": "30:10", "remark": "singular verb, interposed phrase, list after → 'Na ira, estão perturbados o meu olho, a minha alma e o meu ventre'", "outcome": "taken", "decision": "conturbatus", "reason": "His order and plural, with the Latinist's perfect ('foram')."},
+      {"verse": "30:12", "remark": "'muito' hangs, not tied to 'afronta' → 'e grande afronta para os meus vizinhos'", "outcome": "taken", "decision": "valde", "reason": "Taken in substance with 'sobretudo' (MS1932): 'afronta' is not repeated, as the Latin says it once; his line is an option."},
+      {"verse": "30:12b", "remark": "'para fora' arrives as an afterthought → 'fugiram para fora, para longe de mim'", "outcome": "taken", "decision": "foras", "reason": "With one 'para': 'fugiram para fora, longe de mim', which answers 'longe do coração' (a me … a corde)."},
+      {"verse": "30:14", "remark": "'deliberaram' sounds like minutes → 'planejaram'", "outcome": "taken", "decision": "consiliati"},
+      {"verse": "30:17", "remark": "'iluminar a face … sobre' does not fit → 'Fazei brilhar a vossa face'", "outcome": "option", "decision": "illustra", "reason": "One Greek verb with 118:135, whose colon this repeats word for word (held there twice against the stylist); the blind reader understood it."},
+      {"verse": "30:21", "remark": "'da perturbação' hangs after the pause → 'longe da perturbação dos homens'", "outcome": "taken", "decision": "a_conturb"},
+      {"verse": "30:22", "remark": "'fez maravilhosa' is a calque → 'mostrou de modo maravilhoso a sua misericórdia para comigo'", "outcome": "option", "decision": "mirificavit", "reason": "The mirificáre row (4:4, 15:3, 16:7); 'mostrou' is a verb the Latin does not have."},
+      {"verse": "30:24", "remark": "two 'com' phrases, 'procedem' bureaucratic → 'retribuirá abundantemente aos que agem com soberba'", "outcome": "taken", "decision": "facientibus"}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1. 49 items, 8 unknown words (exultarei, atribulado, desfaleceu, deliberaram, sortes, Corem, iniquidade, contenda). One wrong first hearing mended: 30:13 'vaso perdido' as a misplaced vase → 'destruído'. Heard rightly: 30:2 'para sempre não serei envergonhado' as 'never', 30:6 'entrego o meu espírito' (entrusting, at death), 30:9, 30:12b 'longe do coração' (out of mind), 30:17 'Iluminai … sobre o vosso servo', 30:20 'escondestes para' (stored up for), 30:23 'fora de mim'. Kept as the Latin's own range: 30:10 'na ira' (own anger first — the Latin names no owner), 30:7 'observam vaidades' (attention to futile things / vanity; 'em vão' with either verb, as the Latin), 30:15 'sortes' (fate / luck), 30:20 'multidão' (people first, then quantity — the multitúdo row), 30:24 'retribuirá' (punishment first, reward second — retribúere is neutral), 30:24 'santos' (canonized saints first — the Latin's word).",
+    "outcomes": [
+      {"verse": "30:13", "remark": "'um vaso perdido' likely heard as a vase gone missing", "outcome": "taken", "decision": "perditum"},
+      {"verse": "30:14", "remark": "'deliberaram' unknown", "outcome": "taken", "decision": "consiliati"},
+      {"verse": "30:12", "remark": "'e muito para os meus vizinhos' may be heard as 'many neighbours'", "outcome": "taken", "decision": "valde"},
+      {"verse": "30:10", "remark": "'na ira' heard as the speaker's own anger first", "outcome": "refused", "reason": "The Latin's 'in ira' names no owner (ἐν θυμῷ); the three readings the reader lists are the Latin's."},
+      {"verse": "30:15", "remark": "'sortes' unknown / heard as luck", "outcome": "refused", "decision": "sortes", "reason": "The Latin's plural (lots, portion); 'luck' is close to 'my lot'; the singular and MS1932's 'destino' are options."},
+      {"verse": "30:20", "remark": "'multidão' suggests people first", "outcome": "refused", "reason": "The multitúdo row (5:7b, 5:11b): one word for the Latin's; the reader reached quantity at once."},
+      {"verse": "30:18", "remark": "'Corem' unknown as a verb form", "outcome": "refused", "decision": "erubescant", "reason": "erubéscere → corar (glossary, open); evidence added to the row, 'Envergonhem-se' the option."},
+      {"verse": "30:21b", "remark": "'contenda' unknown", "outcome": "refused", "decision": "contradictione", "reason": "The contradíctio row (17:44); the reader still heard 'verbal quarrels' in the phrase."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "v2 (revise_v2.py, from prayed.v1.json): 30:10 'na ira foram perturbados o meu olho, a minha alma e o meu ventre' and 30:11b 'e os meus ossos foram perturbados' (the Latinist + the stylist); 30:11b 'se enfraqueceu'; 30:12 'Mais que todos os meus inimigos, … e sobretudo para os meus vizinhos'; 30:12b 'fugiram para fora, longe de mim'; 30:13 'destruído'; 30:14 'planejaram'; 30:21 'longe da perturbação dos homens'; 30:24 'retribuirá abundantemente aos que agem com soberba'. New decisions: conturbatus, infirmata, foras, a_conturb, order6, mirificavit."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "4def1ea071cee0f9f4f67604650a9bfa7016d62b4491bb897e5a9be6c86911c8",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T19:14:48+00:00",
+  "reply": "{\"verses\":[{\"id\":\"31:8\",\"severity\":\"major\",\"issues\":[{\"latin\":\"in via hac, qua gradiéris\",\"portuguese\":\"no caminho por onde andarás\",\"problem\":\"O demonstrativo hac foi omitido: o latim especifica «neste caminho».\",\"fix\":\"neste caminho por onde andarás\"}]}],\"overall\":\"A tradução conserva o sentido do latim, salvo a omissão do demonstrativo em 31:8. Todos os versículos apresentam as mesmas marcas de pontuação salmódica, na mesma ordem que o latim.\"}"
+}

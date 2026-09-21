@@ -1,0 +1,14 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. The -ou rhymes at 33:5, 33:7, 33:18 are gone (the verb first); 33:22 mediant now paroxytone ('pecadores'). Remaining soft flags: 33:16 / 33:17 deles / deles (eórum / eórum, the Latin's own); lengths 33:18 second −7, 33:7 second −5, 33:22 first +4, 33:19 first +3, and those of draft 1."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. Clean of majors; one minor. Every other draft-2 change passed ('nada falta aos que o temem', 'e os teus lábios não falem engano', the three refrains reordered, 'O Senhor está perto', 'Péssima é a morte'). «A tradução conserva adequadamente o sentido do latim, com a ressalva indicada no imperativo passivo de 33:6.»",
+    "outcomes": [
+      {"verse": "33:6", "remark": "minor: 'deixai-vos iluminar' adds a nuance of consent the passive imperative does not state (though «defensável») → 'e sede iluminados'", "outcome": "refused", "decision": "illuminamini", "reason": "Draft 1's 'sede iluminados' was not recognized by the blind reader ('sede' is also the nouns thirst / seat); the Latinist calls draft 2 defensible, and the minor stands against a wrong hearing. 'sede iluminados' is option 2, one touch away if Gustavo prefers the exact voice."}
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. The rhymes at 32:15 and 32:16 are gone (order). Soft flags: 32:4 second +5 ('são feitas com fidelidade'), 32:6 +4 and +8 ('foi firmado'), 32:9 first +3 ('as coisas'), 32:17 first +7, 32:11 second −6. 32:7 'põe em depósitos os abismos' takes the Latin's order so the final is not the proparoxytone 'depósitos'. 32:10 ends on the proparoxytone 'príncipes', as the Latin on príncipum."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. One remark: 32:20 'auxiliador', MAJOR again, held. Every draft-2 change passed ('convém louvar', 'são feitas com fidelidade', 'foi firmado', 'em depósitos', 'as coisas foram feitas', 'como sua herança'). «A tradução conserva adequadamente o sentido do latim, inclusive suas imagens e construções peculiares, salvo a substituição apontada em 32:20.»",
+    "outcomes": [
+      {"verse": "32:20", "remark": "MAJOR: 'auxílio' puts the help for the helper → 'o nosso auxiliador e protetor'", "outcome": "refused", "decision": "adjutor", "reason": "Held on purpose (D19, D24): the adjútor row's one word, as at 9:10, 17:3b, 18:15b, 26:9b, 27:7, 29:11, 118:114; the row asks Gustavo for a ruling. Here adjútor is paired with the agent noun protéctor, the case the row's standing proposal names. 'auxiliador' is option 2."}
+    ]
+  }
+]

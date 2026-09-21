@@ -1,0 +1,45 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 1: hard pass (ids 31:5/5b, 31:6/6b, 31:9/9b). Soft flags accepted: 31:1 first colon +8 (D19's 'Bem-aventurados' and 'aqueles' supplied for quorum: +6 of it are the two words), 31:2 +4 / +3, 31:3 second +5 ('o dia todo', D24), 31:4 second +4, 31:8 first +3. The pecador / Senhor rhyme of 31:10 was avoided in draft 1 by the Latin's order."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. One major, 31:8 'hac' dropped — taken. «A tradução conserva o sentido do latim, salvo a omissão do demonstrativo em 31:8.» Passed 'perdoadas … perdoastes', 'cobertos', 'imputou', 'se fez pesada', 'voltei-me no meu sofrimento, enquanto se crava o espinho', 'Por isto', 'todo santo', 'ó minha exultação', 'te darei entendimento' (tu), 'cabresto e freio', 'ó justos'.",
+    "outcomes": [
+      {"verse": "31:8", "remark": "MAJOR: the demonstrative hac omitted → 'neste caminho por onde andarás'", "outcome": "taken", "decision": "intellectum"}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Five verses, all taken; best 31:5, worst 31:4. «As principais asperezas vêm de inversões e intercalações; todas as terminações junto às marcas e nos finais satisfazem a cadência pedida, sem rimas ostensivas.»",
+    "outcomes": [
+      {"verse": "31:2", "remark": "'imputou' juridical, not current → 'não atribuiu pecado'", "outcome": "taken", "decision": "imputavit"},
+      {"verse": "31:4", "remark": "'se fez pesada' sounds translated; the subject late → 'a vossa mão ficou pesada sobre mim'", "outcome": "taken", "decision": "gravata"},
+      {"verse": "31:5b", "remark": "'contra mim a minha' crowds; the phrase interposed → 'Disse: Contra mim mesmo, confessarei ao Senhor a minha injustiça'", "outcome": "taken", "decision": "order5b"},
+      {"verse": "31:6", "remark": "the postponed subject is artificially solemn → 'Por isto, todo santo orará a vós'", "outcome": "taken", "decision": "pro_hac"},
+      {"verse": "31:10", "remark": "the fronted 'aquele' is heard as subject → 'mas a misericórdia cercará aquele que espera no Senhor'", "outcome": "taken", "decision": "sperantem", "reason": "Taken; the rhyme it brings (pecador / Senhor) mended in the first colon ('Os flagelos do pecador são muitos', decision multa)."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1. 26 items, 9 unknown words (iniquidades, imputou (mended), impiedade, exultação, mulo, cabresto, queixadas (mended), flagelos, gloriai-vos). Two wrong first hearings mended: 31:5b 'Confessarei contra mim a minha injustiça' as an injustice done to me (→ the stylist's order), 31:9b 'apertai as queixadas deles' as an order to the congregation (→ 'Senhor,' named). Heard rightly: 31:1 'cobertos' as forgiven, 31:6 'Por isto' as 'because God forgave', 31:7 'ó minha exultação' as said to God, 31:8 the Lord speaking (unannounced, as the Latin), 31:8 'firmarei sobre ti os meus olhos' as care, 31:9 'Não vos torneis' as said to the community, 31:11 'gloriai-vos' as joyful celebration. Kept as the Latin's: 31:4 'voltei-me' heard as turning to God first (convértere's own range; 'revolvi-me' the option), 31:6 'todo santo' as the canonized first (ὅσιος; as 30:24), 31:6b 'dele' needing the verse before.",
+    "outcomes": [
+      {"verse": "31:5b", "remark": "'contra mim' may attach to 'injustiça' (an injustice against me)", "outcome": "taken", "decision": "order5b"},
+      {"verse": "31:9b", "remark": "'apertai' heard as an order to the community (the vós of 31:9)", "outcome": "taken", "decision": "domine9"},
+      {"verse": "31:9b", "remark": "'queixadas' unknown", "outcome": "taken", "decision": "maxillas"},
+      {"verse": "31:2", "remark": "'imputou' unknown", "outcome": "taken", "decision": "imputavit"},
+      {"verse": "31:4", "remark": "'voltei-me' heard as turning to God first", "outcome": "refused", "decision": "conversus", "reason": "convértere → voltar (glossary); the Latin's own word carries both; 'revolvi-me' (MS1932, the tossing) is the option."},
+      {"verse": "31:6", "remark": "'todo santo' heard as the canonized", "outcome": "refused", "decision": "omnis_sanctus", "reason": "The Latin's word (ὅσιος) either way; 'cada santo' and MS1932's 'todo homem santo' are options."},
+      {"verse": "31:9b", "remark": "'cabresto' unknown", "outcome": "refused", "decision": "camo", "reason": "The familiar pair 'cabresto e freio' (MS1932); 'focinheira' is the option."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "v2 (revise_v2.py, from prayed.v1.json): 31:2 'atribuiu'; 31:4 'a vossa mão ficou pesada sobre mim'; 31:5b 'Disse: Contra mim mesmo, confessarei ao Senhor a minha injustiça'; 31:6 'Por isto, todo santo orará a vós'; 31:8 'neste caminho'; 31:9b 'Com cabresto e freio, Senhor, apertai as maxilas deles'; 31:10 'Os flagelos do pecador são muitos, * mas a misericórdia cercará aquele que espera no Senhor'. New decisions: order5b, domine9, maxillas, multa."
+  }
+]
