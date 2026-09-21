@@ -1,0 +1,8 @@
+[
+  {"step": "latinist", "file": "critic/v2.latinist.json", "note": "Gate on draft 2: **not clean — two majors held on purpose**, the same as v1: 26:9b 'auxílio' → 'auxiliador' (D19/D24) and 26:13 'Creio que verei' → 'Creio ver' ('I think I see', a wrong first hearing). 26:4b minor repeated, now asking 'a delícia do Senhor' (the draft's option), refused. Every draft-2 change passed without remark. Marks confirmed.",
+   "outcomes": [
+     {"verse": "26:4b", "remark": "plural 'delícias' → 'a delícia do Senhor'", "outcome": "option", "decision": "voluptatem", "reason": "The plural is the Portuguese idiom; the singular is the option."},
+     {"verse": "26:9b", "remark": "'auxílio' → 'auxiliador'", "outcome": "refused", "decision": "adjutor", "reason": "Held (D19/D24)."},
+     {"verse": "26:13", "remark": "'Creio que verei' → 'Creio ver'", "outcome": "refused", "decision": "credo", "reason": "Held: 'Creio ver' is heard as 'I think I see'; the future is what the Greek's articular infinitive and the antiphon's hope say."}
+   ]}
+]

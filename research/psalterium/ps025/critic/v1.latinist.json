@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "94fee814f955b190783a7e80f66a9210cb987255a51e1a8ac19e549e1b1a7f4f",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:32:59+00:00",
+  "reply": "{\"verses\":[{\"id\":\"25:5\",\"severity\":\"major\",\"issues\":[{\"latin\":\"Odívi ecclésiam malignántium\",\"portuguese\":\"Odiei a assembleia dos malvados\",\"problem\":\"Odi é um perfeito com sentido presente: exprime o ódio atual do salmista. «Odiei» desloca essa afirmação para o passado.\",\"fix\":\"Odeio a assembleia dos malvados\"}]}],\"overall\":\"A tradução é fiel ao latim nos demais versículos; a correção necessária diz respeito ao valor temporal de odívi. Todos os sinais de divisão coincidem com os do original: um asterisco por versículo, sem flexas ou segundos mediantes.\"}"
+}

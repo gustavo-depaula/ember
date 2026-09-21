@@ -318,6 +318,12 @@ Held **open**, each with its row in the glossary, because more places must test 
 
 **Ruling.** *Prece*, settled. Four places agree (6:10, 16:1a, 118:169, 21:25), and it passed all three readers each time. The verb *deprecári* stays *suplicar* (118:58), so the family link is lost in Portuguese; *súplica* stays an option in each psalm.
 
+## D36 — three verbs of hoping kept apart: *speráre → esperar em*, *exspectáre → aguardar*, *sustinére → esperar por* — for review
+
+**Question.** Ps 26:14 *Exspécta Dóminum, viríliter age: et confortétur cor tuum, et sustíne Dóminum* has two of them in one verse; D24 had given *exspectáre* its own *aguardar*, and Ps 24 proposed *esperar por* for *sustinére* with God as object.
+
+**Ruling.** As proposed: *Aguarda o Senhor … e espera pelo Senhor* (26:14); *esperar em* stays *speráre*'s. No reader objected to 26:14, and the preposition keeps *sustinére* apart from *speráre* while both remain "hope" to the ear, as the Greek pair ὑπομένω / ἐλπίζω does. Cost: *esperar por* and *esperar em* share a verb, so the difference rests on one small word; a reader of the Latin column sees three verbs.
+
 ---
 
 ## How agents decide

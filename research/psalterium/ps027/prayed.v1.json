@@ -1,0 +1,605 @@
+{
+  "psalm": 27,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "27:1": "A vós, Senhor, clamarei, meu Deus, {sileas}: * {taceas}, e eu não {assimilabor} aos que descem à cova.",
+    "27:2": "Escutai, Senhor, a voz da minha prece, enquanto oro a vós: * enquanto {extollo} as minhas mãos para o vosso templo santo.",
+    "27:3": "Não me arrasteis {simul} com os pecadores: * e com os que praticam a iniquidade não me façais perecer.",
+    "27:3b": "{qui} com o seu próximo falam {pacem}, * {mala}.",
+    "27:4": "Dai-lhes segundo as suas obras, * e segundo a maldade das suas {adinventionum}.",
+    "27:4b": "{tribue}: * {redde}.",
+    "27:5": "Porque não entenderam as obras do Senhor, {inopera}: * {destrues}, e não os edificareis.",
+    "27:6": "{benedictus}: * porque escutou a voz da minha prece.",
+    "27:7": "O Senhor é o meu {adjutor} e o meu protetor: * nele esperou o meu coração, e fui {adjutus}.",
+    "27:7b": "E refloresceu a minha carne: * e {voluntate} lhe darei graças.",
+    "27:8": "O Senhor é a força do seu povo: * e é o protetor das {salvationum} do seu Cristo.",
+    "27:9": "Salvai o vosso povo, Senhor, e {benedic} a vossa herança: * e regei-os, e erguei-os {usque}."
+  },
+  "decisions": [
+    {
+      "id": "sileas",
+      "refs": [
+        "27:1"
+      ],
+      "latin": "ne síleas a me: nequándo táceas a me",
+      "kind": "word",
+      "why": "Two Latin verbs of silence, síleas … táceas, where the Greek has one verb twice (μὴ παρασιωπήσῃς … μήποτε παρασιωπήσῃς). Rule 1: the Latin's two words are kept two — 'ficar em silêncio' and 'calar-se' — a natural pair that repeats the thought as the Latin does. 'a me' in both: 'away from me', silence turned from the one who calls; 'comigo' is the Brazilian idiom for it ('ficou calado comigo': he would not speak to me). nequándo … et → 'para que não … e … não' (glossary formula, 2:12). Douay-Rheims 'be not thou silent to me: lest thou be silent to me'; Matos Soares 1932 'não sejas surdo aos meus rogos; não suceda que, calando tu …'. The Introit of the sixth Sunday after Pentecost is this verse (DO Pent06-0.txt); other Masses adapt it ('ne síleas, ne discédas a me').",
+      "options": [
+        {
+          "label": "não fiqueis em silêncio comigo … para que não vos caleis comigo",
+          "forms": {
+            "sileas": "não fiqueis em silêncio comigo",
+            "taceas": "para que não vos caleis comigo"
+          },
+          "note": "Ruling: the Latin's two verbs, the idiom 'comigo' for 'a me'.",
+          "from": "draft"
+        },
+        {
+          "label": "não vos caleis comigo … para que não vos caleis comigo",
+          "forms": {
+            "sileas": "não vos caleis comigo",
+            "taceas": "para que não vos caleis comigo"
+          },
+          "note": "The Greek's one verb twice (D15 would allow it); the Latin's variation lost.",
+          "from": "draft"
+        },
+        {
+          "label": "não fiqueis em silêncio para comigo … para que não vos caleis para comigo",
+          "forms": {
+            "sileas": "não fiqueis em silêncio para comigo",
+            "taceas": "para que não vos caleis para comigo"
+          },
+          "note": "'para comigo': 'towards me', more formal, heavier.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "assimilabor",
+      "refs": [
+        "27:1"
+      ],
+      "latin": "et assimilábor descendéntibus in lacum",
+      "kind": "grammar",
+      "why": "assimilári: 'be made like' (ὁμοιωθήσομαι), the future after nequándo — a consequence feared. Portuguese carries it inside the 'para que não' clause with the 'não' supplied (glossary nequándo … et). 'tornar-se semelhante' keeps the becoming of the passive. descendéntibus in lacum → 'os que descem à cova' (glossary lacus; the formula of 29:4, 87:5, 142:7b).",
+      "options": [
+        {
+          "label": "me torne semelhante",
+          "forms": {
+            "assimilabor": "me torne semelhante"
+          },
+          "note": "Ruling: the becoming kept.",
+          "from": "draft"
+        },
+        {
+          "label": "seja semelhante",
+          "forms": {
+            "assimilabor": "seja semelhante"
+          },
+          "note": "Matos Soares 1932: the state, not the change.",
+          "from": "MS1932"
+        },
+        {
+          "label": "seja comparado",
+          "forms": {
+            "assimilabor": "seja comparado"
+          },
+          "note": "'be likened' (Douay-Rheims 'I become like'): the passive to the letter; heard as a judgment.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "extollo",
+      "refs": [
+        "27:2"
+      ],
+      "latin": "dum extóllo manus meas ad templum sanctum tuum",
+      "kind": "glossary",
+      "why": "extóllere → erguer (glossary, open; the row names 27:2 'extóllo manus meas'), apart from leváre → levantar and eleváre → elevar. The same verb returns in 27:9 'extólle illos' → 'erguei-os', so the psalm's two places sound alike. 'ergo' (first person) is a plain present of erguer, though it looks like the Latin conjunction on the page. templum sanctum tuum → 'o vosso templo santo' (formula 5:8b). Douay-Rheims 'when I lift up my hands'; Matos Soares 1932 'quando levanto'.",
+      "options": [
+        {
+          "label": "ergo",
+          "forms": {
+            "extollo": "ergo"
+          },
+          "note": "Ruling: the glossary's verb, one with 27:9.",
+          "from": "glossary"
+        },
+        {
+          "label": "levanto",
+          "forms": {
+            "extollo": "levanto"
+          },
+          "note": "Matos Soares 1932: leváre's word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "elevo",
+          "forms": {
+            "extollo": "elevo"
+          },
+          "note": "eleváre's word (140:2 'elevátio manuum meárum').",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "simul",
+      "refs": [
+        "27:3"
+      ],
+      "latin": "Ne simul trahas me cum peccatóribus",
+      "kind": "glossary",
+      "why": "simul → juntos (glossary, open). Here 'simul … cum' is 'together with', said of one person ('me'): 'juntos' would have to agree with a plural it lacks. 'juntamente com' is the row's option (Matos Soares 1932 in Ps 52) and the Portuguese for the adverb with 'cum'. The Latin has 'me' where the Greek has τὴν ψυχήν μου; the Latin is followed. trahere → arrastar. Douay-Rheims 'Draw me not away together with the wicked'; Matos Soares 1932 'Não me arrastes juntamente com os pecadores'.",
+      "options": [
+        {
+          "label": "juntamente",
+          "forms": {
+            "simul": "juntamente"
+          },
+          "note": "Ruling: the row's option, which the singular object needs.",
+          "from": "MS1932"
+        },
+        {
+          "label": "juntos",
+          "forms": {
+            "simul": "juntos"
+          },
+          "note": "The row's word: a plural adjective with no plural to agree with ('Não me arrasteis juntos').",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "qui",
+      "refs": [
+        "27:3b"
+      ],
+      "latin": "Qui loquúntur pacem cum próximo suo",
+      "kind": "grammar",
+      "why": "The relative hangs on 27:3's 'operántibus iniquitátem' across DO's line break. A prayed verse that opened 'Que com o seu próximo falam de paz' would be heard as a wish ('May they speak …'). 'Os que' makes it an apposition that stands alone and is heard at once as the evildoers of 27:3. próximo is a proparoxytone: the glossary row próximus asks for a word after it at a cadence, so the phrase goes before the verb and the mediant falls on 'paz'. Matos Soares 1932 'os quais falam de paz com o seu próximo'.",
+      "options": [
+        {
+          "label": "Os que",
+          "forms": {
+            "qui": "Os que"
+          },
+          "note": "Ruling: an apposition that stands alone.",
+          "from": "draft"
+        },
+        {
+          "label": "Os quais",
+          "forms": {
+            "qui": "Os quais"
+          },
+          "note": "Matos Soares 1932: bookish.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Que",
+          "forms": {
+            "qui": "Que"
+          },
+          "note": "The Latin's bare relative: heard as a wish.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pacem",
+      "refs": [
+        "27:3b"
+      ],
+      "latin": "loquúntur pacem",
+      "kind": "word",
+      "why": "'speak peace' (λαλούντων εἰρήνην): peace as the object of speaking. The glossary has kept such objects bare ('falar mentira', 16:9b 'falou soberba'), but 'falar paz' is not said in Portuguese; 'falar de paz' is (Matos Soares 1932), and it keeps the word. The irony — peace on the lips, evils in the heart — stays.",
+      "options": [
+        {
+          "label": "de paz",
+          "forms": {
+            "pacem": "de paz"
+          },
+          "note": "Ruling: the idiom, the noun kept.",
+          "from": "MS1932"
+        },
+        {
+          "label": "paz",
+          "forms": {
+            "pacem": "paz"
+          },
+          "note": "The bare object as 'falar mentira': not said.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mala",
+      "refs": [
+        "27:3b"
+      ],
+      "latin": "mala autem in córdibus eórum",
+      "kind": "grammar",
+      "why": "Verbless in the Latin ('but evils in their hearts'). A verb is supplied (D2): 'há'. mala is plural and concrete → 'males'. Order: 'mas há males nos seus corações' ends on an oxytone. Douay-Rheims 'but evils are in their hearts'; Matos Soares 1932 'e nos seus corações só cuidam em fazer mal' (explains).",
+      "options": [
+        {
+          "label": "mas há males nos seus corações",
+          "forms": {
+            "mala": "mas há males nos seus corações"
+          },
+          "note": "Ruling: 'há' supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "mas males nos seus corações",
+          "forms": {
+            "mala": "mas males nos seus corações"
+          },
+          "note": "Verbless, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "mas o mal está nos seus corações",
+          "forms": {
+            "mala": "mas o mal está nos seus corações"
+          },
+          "note": "The singular abstract: the plural lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adinventionum",
+      "refs": [
+        "27:4"
+      ],
+      "latin": "secúndum nequítiam adinventiónum ipsórum",
+      "kind": "word",
+      "why": "adinvéntio: 'invention, device' (L&S; ἐπιτηδεύματα, pursuits, practices). Six lines in the psalter (grep): 27:4, 76:13 (God's: 'et in adinventiónibus tuis exercébor'), 80:13, 98:8, 105:29, 105:39 — so it must serve God's works as well as men's schemes, and 'maquinações' or 'tramas' (only evil) cannot. 'invenções' keeps the Latin's word and serves both; the evil is in 'maldade'. nequítia → maldade (glossary; the row names 27:4). Douay-Rheims 'the wickedness of their inventions'; Matos Soares 1932 'a malignidade dos seus projectos'.",
+      "options": [
+        {
+          "label": "invenções",
+          "forms": {
+            "adinventionum": "invenções"
+          },
+          "note": "Ruling: the Latin's word; it serves 76:13 too.",
+          "from": "DRB"
+        },
+        {
+          "label": "maquinações",
+          "forms": {
+            "adinventionum": "maquinações"
+          },
+          "note": "Only evil: cannot serve 76:13.",
+          "from": "draft"
+        },
+        {
+          "label": "projetos",
+          "forms": {
+            "adinventionum": "projetos"
+          },
+          "note": "Matos Soares 1932: modern and flat.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tribue",
+      "refs": [
+        "27:4b"
+      ],
+      "latin": "Secúndum ópera mánuum eórum tríbue illis",
+      "kind": "order",
+      "why": "The Latin builds a chiasm with 27:4 (Da illis secúndum … / secúndum … tríbue illis). tríbuere → dar, as 'da' (15:7 'que me deu entendimento'): the Greek has δός in both places, so the Latin's two verbs are one in its source (D15's test). Natural order puts the verb first ('Dai-lhes segundo as obras das suas mãos'), which repeats 27:4's opening; the Latin's order ends the colon on 'dai-lhes'. Ruling: natural order (D2) — the repeated opening is a repetition the Latin almost has.",
+      "options": [
+        {
+          "label": "Dai-lhes segundo as obras das suas mãos",
+          "forms": {
+            "tribue": "Dai-lhes segundo as obras das suas mãos"
+          },
+          "note": "Ruling: natural order.",
+          "from": "draft"
+        },
+        {
+          "label": "Segundo as obras das suas mãos dai-lhes",
+          "forms": {
+            "tribue": "Segundo as obras das suas mãos dai-lhes"
+          },
+          "note": "The Latin's order and chiasm.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "redde",
+      "refs": [
+        "27:4b"
+      ],
+      "latin": "redde retributiónem eórum ipsis",
+      "kind": "glossary",
+      "why": "réddere → pagar (glossary; the row names 27:4 'redde retributiónem'); retribútio → retribuição (glossary). The cognate verb 'retribuí-lhes' fails rule 3 ('retribuí' = 'I repaid', the row retribúere at the vós imperative). 'deles' for eórum, so that it is not heard as God's. Douay-Rheims 'render to them their reward'; Matos Soares 1932 'dá-lhes a recompensa que merecem' (explains).",
+      "options": [
+        {
+          "label": "pagai-lhes a retribuição deles",
+          "forms": {
+            "redde": "pagai-lhes a retribuição deles"
+          },
+          "note": "Ruling: the glossary's two words.",
+          "from": "glossary"
+        },
+        {
+          "label": "dai-lhes a paga que merecem",
+          "forms": {
+            "redde": "dai-lhes a paga que merecem"
+          },
+          "note": "Matos Soares 1932's sense: explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inopera",
+      "refs": [
+        "27:5"
+      ],
+      "latin": "et in ópera mánuum ejus",
+      "kind": "grammar",
+      "why": "'and into the works of his hands' (καὶ εἰς τὰ ἔργα): the second object of 'understand' takes 'in' (they did not look into, perceive). Portuguese 'entender' takes a direct object; 'nem as obras das suas mãos' keeps the second object and the negation, and loses only the preposition — grammar. 'e nas obras das suas mãos' (the letter) runs into the next colon as if it said where God will destroy them. Both Vulgate-family versions: Douay-Rheims 'and the operations of his hands', Matos Soares 1932 'nem as obras das suas mãos'.",
+      "options": [
+        {
+          "label": "nem as obras das suas mãos",
+          "forms": {
+            "inopera": "nem as obras das suas mãos"
+          },
+          "note": "Ruling: the second object of 'entenderam'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e nas obras das suas mãos",
+          "forms": {
+            "inopera": "e nas obras das suas mãos"
+          },
+          "note": "The preposition kept: misparsed with 'vós os destruireis'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "destrues",
+      "refs": [
+        "27:5"
+      ],
+      "latin": "déstrues illos, et non ædificábis eos",
+      "kind": "grammar",
+      "why": "The Latin turns from the Lord in the third person ('ópera Dómini … mánuum ejus') to 'you' without a word. In Portuguese 'destruireis' alone could be heard as said to the evildoers (vós is also the plural; the Ps 10:2 cost). The subject named, 'vós' (D2; the Ps 10:2 remedy). destrúere → destruir (not an imperative, glossary); ædificáre → edificar. Douay-Rheims 'thou shalt destroy them'.",
+      "options": [
+        {
+          "label": "vós os destruireis",
+          "forms": {
+            "destrues": "vós os destruireis"
+          },
+          "note": "Ruling: the subject named, so it is heard as said to God.",
+          "from": "draft"
+        },
+        {
+          "label": "os destruireis",
+          "forms": {
+            "destrues": "os destruireis"
+          },
+          "note": "The Latin's hidden subject.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "benedictus",
+      "refs": [
+        "27:6"
+      ],
+      "latin": "Benedíctus Dóminus",
+      "kind": "grammar",
+      "why": "Verbless in the Latin, and so open between a statement ('Blessed is the Lord') and a wish ('Blessed be'). The glossary keeps it verbless where it can (117:26a 'Bendito o que vem', 17:47 'e bendito o meu Deus'). Matos Soares 1932 and Douay-Rheims 'Bendito seja / Blessed be' choose the wish.",
+      "options": [
+        {
+          "label": "Bendito o Senhor",
+          "forms": {
+            "benedictus": "Bendito o Senhor"
+          },
+          "note": "Ruling: verbless, open as the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "Bendito seja o Senhor",
+          "forms": {
+            "benedictus": "Bendito seja o Senhor"
+          },
+          "note": "Both Vulgate-family versions: decides for the wish.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "27:7"
+      ],
+      "latin": "Dóminus adjútor meus … et adjútus sum",
+      "kind": "glossary",
+      "why": "adjútor → auxílio (D19, with the majors held in D24: 117:7, 118:114, 9:10, 17:3b, 18:15b); adjuváre → auxiliar ('fui auxiliado'), so the family is heard twice in the verse, as the Latin says it (adjútor … adjútus). protéctor → protetor (glossary; the row names 27:7). Matos Soares 1932 'a minha ajuda … fui ajudado'.",
+      "options": [
+        {
+          "label": "auxílio … auxiliado",
+          "forms": {
+            "adjutor": "auxílio",
+            "adjutus": "auxiliado"
+          },
+          "note": "Ruling: the glossary; the root twice.",
+          "from": "glossary"
+        },
+        {
+          "label": "auxiliador … auxiliado",
+          "forms": {
+            "adjutor": "auxiliador",
+            "adjutus": "auxiliado"
+          },
+          "note": "The agent noun the Latinist has asked for elsewhere.",
+          "from": "latinist"
+        },
+        {
+          "label": "ajuda … ajudado",
+          "forms": {
+            "adjutor": "ajuda",
+            "adjutus": "ajudado"
+          },
+          "note": "Matos Soares 1932: splits the family from adjutórium → auxílio.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "voluntate",
+      "refs": [
+        "27:7b"
+      ],
+      "latin": "et ex voluntáte mea confitébor ei",
+      "kind": "word",
+      "why": "'and from my will I will give him thanks' (ἐκ θελήματός μου): willingly, of my own will. volúntas → vontade (glossary). 'de minha vontade' is the Portuguese of 'ex voluntáte mea' (as 'de minha livre vontade'); 'de livre vontade' is voluntárie's (glossary, 53:8). confitéri → dar graças a (D5). Douay-Rheims 'with my will I will give praise to him'; Matos Soares 1932 'de todo o meu coração' (a paraphrase).",
+      "options": [
+        {
+          "label": "de minha vontade",
+          "forms": {
+            "voluntate": "de minha vontade"
+          },
+          "note": "Ruling: ex → de, the Latin's noun.",
+          "from": "draft"
+        },
+        {
+          "label": "por minha vontade",
+          "forms": {
+            "voluntate": "por minha vontade"
+          },
+          "note": "The idiom 'por vontade própria'.",
+          "from": "draft"
+        },
+        {
+          "label": "de livre vontade",
+          "forms": {
+            "voluntate": "de livre vontade"
+          },
+          "note": "voluntárie's words: merges two Latin builds.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "salvationum",
+      "refs": [
+        "27:8"
+      ],
+      "latin": "et protéctor salvatiónum Christi sui est",
+      "kind": "word",
+      "why": "salvátio occurs only here (grep), plural, for the Greek σωτηρίων (plural of σωτήριον) — 'the saving acts, deliverances of his Anointed'. salus / salutáre → salvação (D6); the plural is kept, as 17:51 kept 'Magníficans salútes Regis ejus' → 'as salvações do seu Rei' (glossary magnificáre). Christus → Cristo (D19; the row names 27:8). The verse ends on 'est' in the Latin; the copula is said first in Portuguese ('e é o protetor'). Douay-Rheims 'the protector of the salvation of his anointed'; Matos Soares 1932 'o protector que salva o seu ungido' (a clause). The Gradual of the sixth Sunday after Pentecost quotes it with 'salutárium' (DO Pent06-0.txt) — another text.",
+      "options": [
+        {
+          "label": "salvações",
+          "forms": {
+            "salvationum": "salvações"
+          },
+          "note": "Ruling: the plural, as 17:51.",
+          "from": "draft"
+        },
+        {
+          "label": "salvação",
+          "forms": {
+            "salvationum": "salvação"
+          },
+          "note": "Douay-Rheims: the singular.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "benedic",
+      "refs": [
+        "27:9"
+      ],
+      "latin": "et bénedic hereditáti tuæ",
+      "kind": "glossary",
+      "why": "benedícere (God → man) → bendizer (glossary, open; D11): one verb for man blessing God and God blessing man, and this psalm has the turn inside it — 27:6 'Bendito o Senhor', 27:9 God asked to bless his inheritance. 'bendizer' with a direct object is current Portuguese; the Latin's dative (hereditáti) is not audible in either build (Ps 5:13 wrote 'bendireis ao justo'). 27:9 is sung as the versicle and response of the Preces and stands in the Te Deum ('Salvum fac pópulum tuum, Dómine, * et bénedic hereditáti tuæ. Et rege eos, * et extólle illos usque in ætérnum', DO Psalterium/Common/Prayers.txt, Special/Preces.txt) — the verse is built so that each colon stands alone as V and R. The familiar 'abençoai' is option 1 (its currency in Brazilian Te Deum singing is not verified here).",
+      "options": [
+        {
+          "label": "bendizei",
+          "forms": {
+            "benedic": "bendizei"
+          },
+          "note": "Ruling: one verb for the psalm's turn (D11).",
+          "from": "glossary"
+        },
+        {
+          "label": "abençoai",
+          "forms": {
+            "benedic": "abençoai"
+          },
+          "note": "The everyday verb for God blessing; the turn with 27:6 lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "usque",
+      "refs": [
+        "27:9"
+      ],
+      "latin": "et extólle illos usque in ætérnum",
+      "kind": "word",
+      "why": "in ætérnum → para sempre (D23); 'usque' ('all the way to') adds reach. 'para todo o sempre' is the Portuguese that carries it without an added idea. 'usque in ætérnum' has four lines (27:9, 48:20, 88:4, 102:17 'ab ætérno, et usque in ætérnum', grep) and can be one formula. régere → reger ('regei-os' is safe: past 'regi'); extóllere → erguer (27:2). Douay-Rheims 'and exalt them for ever'; Matos Soares 1932 'e exalta-os por toda a eternidade'.",
+      "options": [
+        {
+          "label": "para todo o sempre",
+          "forms": {
+            "usque": "para todo o sempre"
+          },
+          "note": "Ruling: usque carried by 'todo'.",
+          "from": "draft"
+        },
+        {
+          "label": "para sempre",
+          "forms": {
+            "usque": "para sempre"
+          },
+          "note": "D23's phrase; usque unsaid.",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "27:1": "Ad te, Dómine, clamábo → 'A vós, Senhor, clamarei' (24:1's shape). Deus meus → 'meu Deus' (glossary).",
+    "27:2": "exaudíre → escutar (D3). vocem deprecatiónis meæ → 'a voz da minha prece' (D35; the row names 27:6's same words). oráre → orar (glossary).",
+    "27:3": "operári iniquitátem → praticar a iniquidade (glossary); pérdere → fazer perecer (D24; 27:3 is in its list). peccátor → pecador.",
+    "27:4": "ópera → obras (glossary). The possessives 'suas' refer to them (no other referent in the verse).",
+    "27:5": "intellégere → entender (glossary). ópera Dómini … ópera mánuum ejus → 'as obras do Senhor … as obras das suas mãos' (the Latin's repetition).",
+    "27:6": "The half-verse with 27:7 is a pair of versicles in a local office (DO Quadp1-2-OratioDNJC.txt).",
+    "27:7": "speráre in → esperar em ('nele esperou').",
+    "27:7b": "reflorescere → reflorescer (only here, grep); caro → carne (the Latin's singular). The Tract of Lent III Friday and the Gradual of Pentecost XI quote 27:7 (DO Quad3-5.txt, Pent11-0.txt).",
+    "27:8": "fortitúdo → força (glossary); plebs → povo (glossary).",
+    "27:9": "Salvum fac → 'Salvai' (glossary). Latin order kept: verb, object, vocative."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm27.txt, twelve prayed verses (27:3b, 27:4b, 27:7b keyed by latin.readVerses for DO's double lines), no flex. No titulus (D7). DO's other uses, grep-checked (ps025/grep_do.py): 27:9 is the Preces versicle and response and the verse of the Te Deum (Psalterium/Common/Prayers.txt, Special/Preces.txt); 27:1 the Introit of Pentecost VI (with 27:8–9 in its Gradual, 'salutárium'); 27:7 in Tracts and Graduals (Quad3-5, Pent11-0, Quad6-4m1); 27:6–7 versicles of a local office."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps027.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932; no Diurnal text for this psalm). DO's Portuguese not used (D12). Repeats found with ps005/grep_latin.py: adinvéntio 6 lines, salvátio 1, assimiláre 1, reflorescere 1, 'usque in ætérnum' 4, silére 3, tacére 4. Latin readings kept against the Hebrew: 27:1 'meu Deus' (not 'my rock'), 27:2 'o vosso templo santo' (not the inner sanctuary), 27:7b 'refloresceu a minha carne' and 'de minha vontade' (not 'my heart exults … with my song'), 27:8 'do seu povo' and 'as salvações do seu Cristo', 27:9 'regei-os' (the Latin's rege, not 'shepherd'). 18 decisions."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 27:1 second colon +6 (the supplied 'não' of the nequándo formula, 'me torne semelhante' for 'assimilábor', and 'os que descem à cova' — the Latin's colon is itself 22 syllables); +3/+4 in 27:2, 27:3, 27:7 ('juntamente', 'não me façais perecer' (D24), 'fui auxiliado'); −3 to −5 in 27:4, 27:4b, 27:5, 27:6, 27:9 (the Latin's long genitives and 'deprecatiónis'). Rhyme 27:3b / 27:4 'corações / invenções' at the finals: the Latin rhymes there too (eórum / ipsórum) — kept."
+    }
+  ]
+}

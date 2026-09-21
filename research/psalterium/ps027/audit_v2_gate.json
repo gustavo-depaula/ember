@@ -1,0 +1,7 @@
+[
+  {"step": "latinist", "file": "critic/v2.latinist.json", "note": "Gate on draft 2: **not clean — two majors held on purpose.** 27:1 the same MAJOR on 'nem eu me torne' (the affirmative future assimilábor made a negated subjunctive; his fix 'não suceda que vos caleis comigo, e eu serei semelhante aos que descem à cova'); 27:7 'auxílio' → 'auxiliador', now MAJOR (minor on v1). Both held. The other draft-2 changes (27:3b 'têm males', 27:7b 'de minha própria vontade') passed. Marks confirmed.",
+   "outcomes": [
+     {"verse": "27:1", "remark": "'nem eu me torne' turns the affirmative future into a negated subjunctive", "outcome": "refused", "decision": "assimilabor", "reason": "Held: the glossary row nequándo … et (2:12); without the negation the feared likeness is heard as wished for; 'para que não' / 'não suceda que' govern the subjunctive, and his mixed 'não suceda que … e eu serei' is not Portuguese syntax a hearer can follow. His wording recorded as an option."},
+     {"verse": "27:7", "remark": "'auxílio' → 'auxiliador'", "outcome": "refused", "decision": "adjutor", "reason": "Held (D19/D24)."}
+   ]}
+]

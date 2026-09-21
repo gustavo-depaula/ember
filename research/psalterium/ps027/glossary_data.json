@@ -1,0 +1,68 @@
+{
+ "append": [
+  {
+   "row": "| nequándo … et |",
+   "text": "**Ps 27:1 *nequándo táceas a me, et assimilábor descendéntibus in lacum* → *para que não vos caleis comigo, nem eu me torne semelhante aos que descem à cova*** — the second negation said as *nem* (the stylist: breath). Here the Latin's second verb is a future indicative (the consequence feared), and the Latinist made it a MAJOR (the negation and the subjunctive added; his fix *não suceda que … e eu serei assemelhado*): held — without the negation Portuguese hears the likeness wished for, and *para que não* / *não suceda que* govern the subjunctive. **The same build returns in 142:7b** (*et símilis ero descendéntibus in lacum*, after *Ne avértas*: there no *nequándo*, so the future can stand)."
+  },
+  {
+   "row": "| lacus / fóvea |",
+   "text": "**Ps 27:1 *descendéntibus in lacum* → *aos que descem à cova*** — applied; the blind reader heard dying."
+  },
+  {
+   "row": "| réddere |",
+   "text": "**Ps 27:4b *redde retributiónem eórum ipsis* → *pagai-lhes a retribuição deles*** — applied; the stylist asked *retribuí-lhes a sua retribuição* (rule 3: *retribuí* = 'I repaid') — refused, an option; 93:2 should copy."
+  },
+  {
+   "row": "| nequítia |",
+   "text": "**Ps 27:4 *secúndum nequítiam adinventiónum ipsórum* → *segundo a maldade das suas invenções*** — applied."
+  },
+  {
+   "row": "| simul |",
+   "text": "**Ps 27:3 *Ne simul trahas me cum peccatóribus* → *Não me arrasteis juntamente com os pecadores*** — *simul … cum* said of one person: *juntos* would need a plural; *juntamente com* (MS1932's) is the Portuguese for the adverb with *cum*. Proposal: *juntamente* wherever *simul* goes with *cum* and a singular."
+  },
+  {
+   "row": "| extóllere |",
+   "text": "**Ps 27:2 *dum extóllo manus meas* → *enquanto ergo as minhas mãos*; 27:9 *extólle illos* → *erguei-os*** — applied, the psalm's two places one verb (the Te Deum's R)."
+  },
+  {
+   "row": "| régere |",
+   "text": "**Ps 27:9 *Et rege eos* → *e regei-os*** (the Te Deum and Preces R; safe, past *regi*); the blind reader did not know *regei-os*."
+  },
+  {
+   "row": "| benedícere (God → man) |",
+   "text": "**Ps 27:9 *et bénedic hereditáti tuæ* → *e bendizei a vossa herança*** — the psalm has the turn inside it (27:6 *Bendito o Senhor*); no reader remarked."
+  },
+  {
+   "row": "| Christus |",
+   "text": "**Ps 27:8 *et protéctor salvatiónum Christi sui est* → *e é o protetor das salvações do seu Cristo*** — applied; the blind reader heard Jesus Christ."
+  },
+  {
+   "row": "| destrúere |",
+   "text": "**Ps 27:5 *déstrues illos* → *vós os destruireis*** — applied (a future; the pronoun *vós* said so the verb is heard as God's)."
+  },
+  {
+   "row": "| deprecári / deprecátio |",
+   "text": "**Ps 27:2, 27:6 *vocem deprecatiónis meæ* → *a voz da minha prece*** — applied (D35); 27:6 the stylist's best line."
+  },
+  {
+   "row": "| adjútor |",
+   "text": "**Ps 27:7 *Dóminus adjútor meus … et adjútus sum* → *O Senhor é o meu auxílio … e fui auxiliado*** — the Latinist's remark (minor on draft 1, MAJOR on the gate) held (D19/D24)."
+  },
+  {
+   "row": "| próximus |",
+   "text": "**Ps 27:3b *Qui loquúntur pacem cum próximo suo* → *Os que com o seu próximo falam de paz*** — the proparoxytone kept off the cadence, as the row asks."
+  }
+ ],
+ "terms": [
+  "| silére / tacére | *ficar em silêncio* / *calar-se* (*não fiqueis em silêncio comigo: * para que não vos caleis comigo*) | open | Ps 27:1 — two Latin verbs where the Greek has one twice (παρασιωπάω); kept two (rule 1); *a me* → *comigo* (the Brazilian idiom: silent towards me). Other places (grep before copying): 34:22, 38:3, 38:13, 49:3, 49:20, 82:2, 106:29–30, 108:2, 31:3 (grep). No reader remarked. |",
+  "| adinvéntio | invenções (*segundo a maldade das suas invenções*) | open | Ps 27:4; six lines (27:4, 76:13 God's *in adinventiónibus tuis*, 80:13, 98:8, 105:29, 105:39) — must serve God's works too, so not *maquinações*; the blind reader heard schemes (the sense, from *maldade*). |",
+  "| salvátio | salvações (*o protetor das salvações do seu Cristo*) | open | Ps 27:8 only (grep), plural for σωτηρίων, as 17:51 *salútes* → *salvações*; the blind reader doubted the plural — the Latin's. |",
+  "| ex voluntáte mea | *de minha própria vontade* (*e de minha própria vontade lhe darei graças*) | open | Ps 27:7b (ἐκ θελήματός μου); draft 1 *de minha vontade* sounded incomplete to the stylist; *própria* completes the idiom and ex → *de* stays; *de livre vontade* is voluntárie's (53:8). |",
+  "| refloréscere | reflorescer (*E refloresceu a minha carne*) | open | Ps 27:7b only (grep); the blind reader heard the body's vigour restored. |"
+ ],
+ "formulas": [
+  "| *Salvum fac pópulum tuum, Dómine, et bénedic hereditáti tuæ. R. Et rege eos, et extólle illos usque in ætérnum* (27:9; the Te Deum's close and the Preces, Common/Prayers.txt, Special/Preces.txt) | *Salvai o vosso povo, Senhor, e bendizei a vossa herança. R. E regei-os, e erguei-os para todo o sempre.* | open — Ps 27; each colon stands alone as V and R |",
+  "| *usque in ætérnum* (27:9, 48:20, 88:4, 102:17 *ab ætérno, et usque in ætérnum*) | *para todo o sempre* — *usque* ('all the way') carried by *todo*, D23's *para sempre* kept inside | open — Ps 27 |",
+  "| *Ad te, Dómine, clamábo, Deus meus, ne síleas a me* (27:1; Introit of Pentecost VI, Pent06-0.txt) | *A vós, Senhor, clamarei, meu Deus, não fiqueis em silêncio comigo* | open — Ps 27 |"
+ ]
+}

@@ -1,0 +1,798 @@
+{
+  "psalm": 26,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "26:1": "O Senhor é a minha {illuminatio} e a minha salvação: * a quem temerei?",
+    "26:1b": "O Senhor é o protetor da minha vida: * {trepidabo}?",
+    "26:2": "Enquanto se aproximam de mim {nocentes}, * para comerem as minhas carnes:",
+    "26:2b": "Os que me atribulam, os meus inimigos, * eles mesmos se enfraqueceram, e caíram.",
+    "26:3": "Se contra mim {castra}, * o meu coração não temerá.",
+    "26:3b": "Se contra mim se levantar uma batalha, * {inhoc}.",
+    "26:4": "{unam} pedi ao Senhor, esta procurarei: * {inhabitem} na casa do Senhor todos os dias da minha vida:",
+    "26:4b": "Para que eu veja {voluptatem} do Senhor, * e visite o seu templo.",
+    "26:5": "Porque me escondeu na sua tenda: * no dia dos males protegeu-me {abscondito} da sua tenda.",
+    "26:6": "{petra} me exaltou: * e agora exaltou a minha cabeça acima dos meus inimigos.",
+    "26:6b": "{circuivi}, e imolei na sua tenda {hostiam}: * cantarei, e entoarei um salmo ao Senhor.",
+    "26:7": "Escutai, Senhor, a minha voz, com que clamei a vós: * tende piedade de mim, e escutai-me.",
+    "26:8": "{dixit}, a minha face vos {exquisivit}: * a vossa face, Senhor, {requiram}.",
+    "26:9": "Não desvieis de mim a vossa face: * não vos aparteis do vosso servo {inira}.",
+    "26:9b": "Sede o meu {adjutor}: * não me abandoneis, nem me {despicias}, Deus, meu Salvador.",
+    "26:10": "Porque o meu pai e a minha mãe me abandonaram: * mas o Senhor me recolheu.",
+    "26:11": "{legem}, Senhor, no vosso caminho: * e {dirige} à vereda reta, por causa dos meus inimigos.",
+    "26:12": "Não me entregueis {animas} dos que me atribulam: * porque se levantaram contra mim testemunhas iníquas, e a iniquidade mentiu a si mesma.",
+    "26:13": "{credo} {bona} do Senhor * na terra dos vivos.",
+    "26:14": "{exspecta}, {viriliter}: * e fortaleça-se o teu coração, e {sustine}."
+  },
+  "decisions": [
+    {
+      "id": "illuminatio",
+      "refs": [
+        "26:1"
+      ],
+      "latin": "Dóminus illuminátio mea, et salus mea",
+      "kind": "word",
+      "why": "illuminátio: 'a lighting up, illumination' (φωτισμός), a word of its own beside lumen → luz (φῶς). Here it names God himself as the one who gives the psalmist light, and in Portuguese that is 'a minha luz'; 'a minha iluminação' makes God a process, or a lighting installation, and is five syllables for one idea. The line is the Monday Prime antiphon ('Illuminátio mea * et salus mea Dóminus', DO Psalmi minor.txt) and the Introit of several Masses (Pent04-0, Pent05-0, Quad2-2, Quad5-2, grep): it must stand alone and be sayable. Cost, recorded: lumen and illuminátio become one Portuguese word here; they never meet in a verse (grep), but 4:7 'lumen vultus tui' and 43:4, 89:8 'illuminátio vultus tui' are near-formulas that will have to decide whether to keep them apart ('iluminação' is free for them). Douay-Rheims 'The Lord is my light'; Matos Soares 1932 'a minha luz'.",
+      "options": [
+        {
+          "label": "luz",
+          "forms": {
+            "illuminatio": "luz"
+          },
+          "note": "Ruling: the plainer of two faithful words (D2); both Vulgate-family versions.",
+          "from": "DRB"
+        },
+        {
+          "label": "iluminação",
+          "forms": {
+            "illuminatio": "iluminação"
+          },
+          "note": "The Latin's own word, kept apart from lumen (the Greek has two words too); heavy, and heard as lighting or enlightenment.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "trepidabo",
+      "refs": [
+        "26:1b"
+      ],
+      "latin": "a quo trepidábo?",
+      "kind": "word",
+      "why": "trepidáre → tremer (glossary; 13:5). 'a quo' is 'from whom, before whom' (ἀπὸ τίνος). 'de quem tremerei?' keeps the preposition the Latin has and answers 'a quem temerei?' with the same shape — two questions, two verbs of fear, as the Latin's timébo / trepidábo. Douay-Rheims 'of whom shall I be afraid?'; Matos Soares 1932 'diante de quem temerei?' (one verb for the Latin's two).",
+      "options": [
+        {
+          "label": "de quem tremerei",
+          "forms": {
+            "trepidabo": "de quem tremerei"
+          },
+          "note": "Ruling: the glossary's verb, the Latin's preposition.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de quem tremerei",
+          "forms": {
+            "trepidabo": "diante de quem tremerei"
+          },
+          "note": "Matos Soares 1932's preposition: clearer, two syllables heavier.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nocentes",
+      "refs": [
+        "26:2"
+      ],
+      "latin": "Dum apprópiant super me nocéntes",
+      "kind": "word",
+      "why": "nocéntes: 'those who harm' (κακοῦντας, those doing evil to someone). A participle used as a noun; elsewhere only 34:1 'Júdica, Dómine, nocéntes me' (grep), where it has an object. 'malfeitores' is the plain noun for doers of harm and is free in the glossary (malígnus → malvado, D24; iníquus → iníquo; ímpius → ímpio). 34:1 may say 'os que me fazem mal' with its object. appropinquáre → aproximar-se (glossary); super me → 'de mim' (the hostility is in the purpose clause that follows). Douay-Rheims 'the wicked'; Matos Soares 1932 'os malvados' (malígnus's word here).",
+      "options": [
+        {
+          "label": "os malfeitores",
+          "forms": {
+            "nocentes": "os malfeitores"
+          },
+          "note": "Ruling: a noun of its own for the participle.",
+          "from": "draft"
+        },
+        {
+          "label": "os que fazem mal",
+          "forms": {
+            "nocentes": "os que fazem mal"
+          },
+          "note": "The participle as a clause; the object hangs.",
+          "from": "draft"
+        },
+        {
+          "label": "os malvados",
+          "forms": {
+            "nocentes": "os malvados"
+          },
+          "note": "Matos Soares 1932: malígnus's word (D24).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "castra",
+      "refs": [
+        "26:3"
+      ],
+      "latin": "Si consístant advérsum me castra",
+      "kind": "word",
+      "why": "castra: a military camp (the plural form names one camp); παρεμβολή, an army encamped. consístere: 'take one's stand, be drawn up'. The Latin names the camp, not the army; 'um acampamento' keeps the noun, 'postar-se' the stand. The pair with 26:3b is kept: 'Se contra mim se postar … Se contra mim se levantar …', as 'Si consístant advérsum me … Si exsúrgat advérsum me'. The verse is an Eastertide responsory ('R. Si consístant advérsum me castra, non timébit cor meum', DO Pasc2-3.txt) and stands alone. Douay-Rheims 'If armies in camp should stand together against me'; Matos Soares 1932 'Ainda que acampem exércitos contra mim' (the noun made a verb, an army supplied).",
+      "options": [
+        {
+          "label": "se postar um acampamento",
+          "forms": {
+            "castra": "se postar um acampamento"
+          },
+          "note": "Ruling: the Latin's noun, singular as its sense.",
+          "from": "draft"
+        },
+        {
+          "label": "se postarem acampamentos",
+          "forms": {
+            "castra": "se postarem acampamentos"
+          },
+          "note": "The Latin's plural form (the verb then 'se postarem').",
+          "from": "draft"
+        },
+        {
+          "label": "se postar um exército acampado",
+          "forms": {
+            "castra": "se postar um exército acampado"
+          },
+          "note": "Douay-Rheims's sense, the army supplied.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "inhoc",
+      "refs": [
+        "26:3b"
+      ],
+      "latin": "in hoc ego sperábo",
+      "kind": "ambiguity",
+      "why": "'in this I will hope' (ἐν ταύτῃ ἐγὼ ἐλπίζω): 'this' can be the Lord of 26:1, the one thing asked in 26:4 (unam … hanc), or the circumstance ('even then'). speráre in → esperar em (glossary); 'nisto' keeps both the preposition and the openness. Douay-Rheims 'in this will I be confident'; Matos Soares 1932 'mesmo então esperarei' (decides for the circumstance). ego kept ('eu').",
+      "options": [
+        {
+          "label": "nisto eu esperarei",
+          "forms": {
+            "inhoc": "nisto eu esperarei"
+          },
+          "note": "Ruling: the Latin's words, open as the Latin.",
+          "from": "DRB"
+        },
+        {
+          "label": "mesmo então esperarei",
+          "forms": {
+            "inhoc": "mesmo então esperarei"
+          },
+          "note": "Matos Soares 1932: closes the ambiguity — refused (rule 2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "unam",
+      "refs": [
+        "26:4"
+      ],
+      "latin": "Unam pétii a Dómino, hanc requíram",
+      "kind": "word",
+      "why": "'One (thing) I asked of the Lord, this I will seek' (μίαν … ταύτην). The feminine needs a noun in Portuguese ('coisa'); the emphasis is the Latin's word order, which Portuguese keeps by opening with it. 'Uma só coisa' (Matos Soares 1932) adds 'só', which the Latin's 'unam' implies but does not say. requírere → procurar (glossary, 24:10). The half-verse is a versicle and an antiphon (DO 05-21-Felix.txt, 12-10-Domus.txt; Gradual of Epiphany I and other Masses) — it stands alone.",
+      "options": [
+        {
+          "label": "Uma coisa",
+          "forms": {
+            "unam": "Uma coisa"
+          },
+          "note": "Ruling: the Latin's word, the noun supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "Uma só coisa",
+          "forms": {
+            "unam": "Uma só coisa"
+          },
+          "note": "Matos Soares 1932: the emphasis said in a word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inhabitem",
+      "refs": [
+        "26:4"
+      ],
+      "latin": "ut inhábitem in domo Dómini ómnibus diébus vitæ meæ",
+      "kind": "glossary",
+      "why": "The glossary row 'ut inhábitem in domo Dómini' (open, from Ps 22:6b 'E para que eu habite na casa do Senhor') says 26:4 must copy it. Departed from, with the reason: in 22:6b the ut-clause is a purpose (mercy follows me, and so that I dwell), but here it says what the one thing asked is — 'unam … hanc … ut inhábitem' is the content of the request (Douay-Rheims 'One thing I have asked … that I may dwell'; the Greek's τοῦ κατοικεῖν με). 'para que' after 'pedi … procurarei' would be heard as 'in order that', i.e. the request made for the sake of dwelling. The words after 'que' are 22:6b's, so the echo stands. 26:4b's 'Ut vídeam' is a purpose (dwell in order to see) and keeps 'Para que'.",
+      "options": [
+        {
+          "label": "que eu habite",
+          "forms": {
+            "inhabitem": "que eu habite"
+          },
+          "note": "Ruling: the content of the request; 22:6b's words after the conjunction.",
+          "from": "draft"
+        },
+        {
+          "label": "para que eu habite",
+          "forms": {
+            "inhabitem": "para que eu habite"
+          },
+          "note": "The glossary row's formula, copied from 22:6b.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "voluptatem",
+      "refs": [
+        "26:4b"
+      ],
+      "latin": "Ut vídeam voluptátem Dómini",
+      "kind": "word",
+      "why": "voluptas: 'delight, enjoyment' (τερπνότης, pleasantness). Two places in the psalter (26:4, 35:9 'torrénte voluptátis tuæ', grep). 'deleite' is delectátio's (15:11) and the verb delectári has 13 more lines, so it is not free; 'doçura' is dulcédo's; 'prazer' is heard first as the senses' (the Latin word's own risk, but not its sense here). 'as delícias' is the Portuguese idiom for delight in the plural (Matos Soares 1932 'as delícias do Senhor'); number is grammar. delíciæ occurs once (138:11 'in delíciis meis') and will decide there. Douay-Rheims 'the delight of the Lord'.",
+      "options": [
+        {
+          "label": "as delícias",
+          "forms": {
+            "voluptatem": "as delícias"
+          },
+          "note": "Ruling: Matos Soares 1932's word; the idiom's plural.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a delícia",
+          "forms": {
+            "voluptatem": "a delícia"
+          },
+          "note": "The Latin's number; colloquial in the singular.",
+          "from": "draft"
+        },
+        {
+          "label": "o deleite",
+          "forms": {
+            "voluptatem": "o deleite"
+          },
+          "note": "Douay-Rheims 'delight'; delectátio's word in this psalter.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "abscondito",
+      "refs": [
+        "26:5"
+      ],
+      "latin": "abscóndit me … protéxit me in abscóndito tabernáculi sui",
+      "kind": "word",
+      "why": "The Latin says the root twice: abscóndit me … in abscóndito ('hid me … in the hidden place'); the Greek too (ἔκρυψεν … ἐν ἀποκρύφῳ). 'escondeu … no lugar escondido' keeps the echo. 'esconderijo' is latíbulum's (17:12) and 'às escondidas' is 9:30a's adverbial 'in abscóndito' (lying in wait). 30:21 'Abscóndes eos in abscóndito faciéi tuæ' has the same figure and can follow. tabernáculum → tenda (glossary), twice as the Latin. Douay-Rheims 'in the secret place of his tabernacle'; Matos Soares 1932 'no segredo do seu tabernáculo'.",
+      "options": [
+        {
+          "label": "no lugar escondido",
+          "forms": {
+            "abscondito": "no lugar escondido"
+          },
+          "note": "Ruling: the root repeated, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "no segredo",
+          "forms": {
+            "abscondito": "no segredo"
+          },
+          "note": "Matos Soares 1932: the echo lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "petra",
+      "refs": [
+        "26:6"
+      ],
+      "latin": "In petra exaltávit me",
+      "kind": "word",
+      "why": "petra: rock (ἐν πέτρᾳ). lapis → pedra (117:22), so petra → rocha, and the image stays a rock, not a stone. No article in Latin: the indefinite is the plain reading (Douay-Rheims 'upon a rock'); 'a rocha' would lean to a known rock. 60:3 'In petra exaltásti me' can copy it.",
+      "options": [
+        {
+          "label": "Sobre uma rocha",
+          "forms": {
+            "petra": "Sobre uma rocha"
+          },
+          "note": "Ruling: the Latin's noun, indefinite.",
+          "from": "DRB"
+        },
+        {
+          "label": "Sobre a rocha",
+          "forms": {
+            "petra": "Sobre a rocha"
+          },
+          "note": "The definite: a rock already known.",
+          "from": "draft"
+        },
+        {
+          "label": "Sobre uma pedra",
+          "forms": {
+            "petra": "Sobre uma pedra"
+          },
+          "note": "Matos Soares 1932: lapis's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "circuivi",
+      "refs": [
+        "26:6b"
+      ],
+      "latin": "Circuívi, et immolávi in tabernáculo ejus",
+      "kind": "glossary",
+      "why": "circuíre → rodear (glossary, 117:10), kept apart from circumdáre → cercar, which 25:6 has in the neighbouring psalm ('cercarei o vosso altar'). The Latin has no object: he went round (the altar, the camp — unsaid). The Greek ἐκύκλωσα likewise. Douay-Rheims 'I have gone round'; Matos Soares 1932 'Dei voltas (ao altar)' (his parenthesis supplies the altar).",
+      "options": [
+        {
+          "label": "Rodeei",
+          "forms": {
+            "circuivi": "Rodeei"
+          },
+          "note": "Ruling: the glossary's verb, no object, as the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "Andei ao redor",
+          "forms": {
+            "circuivi": "Andei ao redor"
+          },
+          "note": "The going round said with a verb of walking; plainer.",
+          "from": "draft"
+        },
+        {
+          "label": "Dei voltas",
+          "forms": {
+            "circuivi": "Dei voltas"
+          },
+          "note": "Matos Soares 1932 (without his parenthesis).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "hostiam",
+      "refs": [
+        "26:6b"
+      ],
+      "latin": "hóstiam vociferatiónis",
+      "kind": "word",
+      "why": "hóstia: a sacrificial victim (θυσία); vociferátio: 'loud calling, outcry' (L&S), ἀλαλαγμός, the shout of acclaim or battle. hóstia → 'vítima', the plain word for what is immolated: the cognate 'hóstia' is heard in Brazil first as the Eucharistic host (a wrong first hearing, whatever the Fathers made of the verse). sacrifícium → sacrifício stays apart (4:6). vociferátio occurs twice (26:6, 32:3 'bene psállite ei in vociferatióne', grep): 'aclamação' serves both — a shout, and a shout of praise — and is free ('júbilo' is the word the glossary has for gáudium, open, and would collide with jubilátio, 46:6). Douay-Rheims 'a sacrifice of jubilation'; Matos Soares 1932 'uma hóstia com clamores de júbilo'.",
+      "options": [
+        {
+          "label": "uma vítima de aclamação",
+          "forms": {
+            "hostiam": "uma vítima de aclamação"
+          },
+          "note": "Ruling: each Latin noun a noun of its own.",
+          "from": "draft"
+        },
+        {
+          "label": "uma hóstia de aclamação",
+          "forms": {
+            "hostiam": "uma hóstia de aclamação"
+          },
+          "note": "The cognate: heard first as the Eucharistic host.",
+          "from": "MS1932"
+        },
+        {
+          "label": "um sacrifício de júbilo",
+          "forms": {
+            "hostiam": "um sacrifício de júbilo"
+          },
+          "note": "Douay-Rheims: two words that other Latin terms need (sacrifícium; gáudium / jubilátio).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "dixit",
+      "refs": [
+        "26:8"
+      ],
+      "latin": "Tibi dixit cor meum, exquisívit te fácies mea",
+      "kind": "ambiguity",
+      "why": "'To you my heart said, my face sought you': the Latin gives 'dixit' no object, so what the heart said may be the next words ('my face sought you', Douay-Rheims prints it as a quotation) or simply an address. A comma, not a colon, keeps both hearings; 'vos disse' keeps the dative. Natural order puts the subject first (D2); 'A vós disse o meu coração' (the Latin's order) is the option. The Masses of Lent II Tuesday and the Sunday after the Ascension quote the verse with 'quæsívi vultum tuum' (another text).",
+      "options": [
+        {
+          "label": "O meu coração vos disse",
+          "forms": {
+            "dixit": "O meu coração vos disse"
+          },
+          "note": "Ruling: natural order; the comma leaves what was said open.",
+          "from": "draft"
+        },
+        {
+          "label": "A vós disse o meu coração",
+          "forms": {
+            "dixit": "A vós disse o meu coração"
+          },
+          "note": "The Latin's order, 'Tibi' first.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exquisivit",
+      "refs": [
+        "26:8"
+      ],
+      "latin": "exquisívit te fácies mea: fáciem tuam, Dómine, requíram",
+      "kind": "glossary",
+      "why": "exquírere and requírere, one root (-quírere) twice in the verse; both are 'procurar' in the glossary (exquírere 118:2, 10; requírere merged into it at 118:145, 13:2, 24:10). The Greek here has the plain ζητέω twice (ἐζήτησεν … ζητήσω), which elsewhere stands behind quǽrere → buscar; the Latin is followed. The verse's figure — face seeking face — is kept: 'a minha face vos procurou: a vossa face, Senhor, procurarei'. fácies → face (glossary).",
+      "options": [
+        {
+          "label": "procurou … procurarei",
+          "forms": {
+            "exquisivit": "procurou",
+            "requiram": "procurarei"
+          },
+          "note": "Ruling: the glossary's verb for both compounds.",
+          "from": "glossary"
+        },
+        {
+          "label": "buscou … buscarei",
+          "forms": {
+            "exquisivit": "buscou",
+            "requiram": "buscarei"
+          },
+          "note": "The Greek's ζητέω, quǽrere's word: the Latin's compounds lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inira",
+      "refs": [
+        "26:9"
+      ],
+      "latin": "ne declínes in ira a servo tuo",
+      "kind": "order",
+      "why": "declináre a → apartar-se de (glossary). 'in ira', no possessive. Placed last, 'com ira' cannot be heard as the servant's anger ('na ira do vosso servo' would be); 'com' is the Portuguese for the manner of an act (the Latin's 'in' of state). Douay-Rheims 'decline not in thy wrath from thy servant'; Matos Soares 1932 'não te retires do teu servo na tua ira'.",
+      "options": [
+        {
+          "label": "com ira",
+          "forms": {
+            "inira": "com ira"
+          },
+          "note": "Ruling: the manner, at the end, where it cannot attach to 'servo'.",
+          "from": "draft"
+        },
+        {
+          "label": "na vossa ira",
+          "forms": {
+            "inira": "na vossa ira"
+          },
+          "note": "Both Vulgate-family versions supply the possessive (as 6:2 has it in Latin).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "26:9b"
+      ],
+      "latin": "Adjútor meus esto",
+      "kind": "glossary",
+      "why": "adjútor → auxílio (glossary; D19 and the held majors of D24 — 117:7, 118:114, 9:10, 17:3b, 18:15b). The Latinist has asked for the agent noun 'auxiliador' in five psalms; held each time, for currency and for the family with adjutórium / adjuváre. 'Sede o meu auxílio' is sayable; the half-verse is a versicle (DO 05-01r.txt 'V. Adjútor meus esto, ne derelínquas me') and stands alone. Matos Soares 1932 'Sê a minha ajuda'.",
+      "options": [
+        {
+          "label": "auxílio",
+          "forms": {
+            "adjutor": "auxílio"
+          },
+          "note": "Ruling: the glossary (D19, D24).",
+          "from": "glossary"
+        },
+        {
+          "label": "auxiliador",
+          "forms": {
+            "adjutor": "auxiliador"
+          },
+          "note": "The agent noun, the Latinist's request elsewhere.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "despicias",
+      "refs": [
+        "26:9b"
+      ],
+      "latin": "ne derelínquas me, neque despícias me",
+      "kind": "glossary",
+      "why": "despícere with God as subject → desdenhar (glossary row 'despícere (God)', 9:22 'desdenhais'); 'desprezar' is spérnere's (working). ἀποσκορακίζω in the Greek, 'cast off with scorn'. derelínquere → abandonar (glossary), which 26:10 says again of father and mother ('me abandonaram'), the Latin's echo. Matos Soares 1932 'nem me desprezes'.",
+      "options": [
+        {
+          "label": "desdenheis",
+          "forms": {
+            "despicias": "desdenheis"
+          },
+          "note": "Ruling: the glossary's word for God's despícere.",
+          "from": "glossary"
+        },
+        {
+          "label": "desprezeis",
+          "forms": {
+            "despicias": "desprezeis"
+          },
+          "note": "Matos Soares 1932: spérnere's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "legem",
+      "refs": [
+        "26:11"
+      ],
+      "latin": "Legem pone mihi, Dómine, in via tua",
+      "kind": "grammar",
+      "why": "'Set me a law, Lord, in your way' (νομοθέτησόν με, 'give me a law'). pónere → pôr. 'Ponde-me uma lei' is exact but opens on 'Ponde-me', heard first as 'put me' — Ps 118 met the same misparse ('Ponde-me … o caminho'). 'para mim' after the object avoids it; 'Ponde' is safe at the vós imperative (past 'pus'). Douay-Rheims 'Set me, O Lord, a law in thy way'; Matos Soares 1932 'Ensina-me … o teu caminho' (the Hebrew).",
+      "options": [
+        {
+          "label": "Ponde uma lei para mim",
+          "forms": {
+            "legem": "Ponde uma lei para mim"
+          },
+          "note": "Ruling: the dative after the object, no misparse.",
+          "from": "draft"
+        },
+        {
+          "label": "Ponde-me uma lei",
+          "forms": {
+            "legem": "Ponde-me uma lei"
+          },
+          "note": "The Latin's build; 'Ponde-me' heard first as 'put me'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "dirige",
+      "refs": [
+        "26:11"
+      ],
+      "latin": "et dírige me in sémitam rectam",
+      "kind": "glossary",
+      "why": "dírige me → 'encaminhai-me' (24:5; the row 'dirígere at the vós imperative' names 26:11 as its copy: 'dirigi-me' is 'I made my way', and bare 'dirigi' fails rule 3). sémita → vereda (D15). 'in' + accusative: into the path, 'à vereda' (as 118:35 'Guiai-me à vereda'). propter → por causa de.",
+      "options": [
+        {
+          "label": "encaminhai-me",
+          "forms": {
+            "dirige": "encaminhai-me"
+          },
+          "note": "Ruling: 24:5's word.",
+          "from": "glossary"
+        },
+        {
+          "label": "endireitai-me",
+          "forms": {
+            "dirige": "endireitai-me"
+          },
+          "note": "The row's word for a road as object; with a person it is heard as 'straighten me out'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "animas",
+      "refs": [
+        "26:12"
+      ],
+      "latin": "Ne tradíderis me in ánimas tribulántium me",
+      "kind": "word",
+      "why": "'into the souls of those who afflict me' (εἰς ψυχὰς θλιβόντων με): ψυχή / ánima in the sense of desire, appetite — 'hand me not over to their greed'. The Latin keeps the word, and ánima → alma (glossary); the image is odd in Portuguese as in Latin. Douay-Rheims 'to the will of them that trouble me' and Matos Soares 1932 'à mercê daqueles que me atribulam' both explain. A Lenten Offertory adapts the verse ('Ne tradíderis me, Dómine, in ánimas persequéntium me', DO missa Quad5-5Feria.txt, Quad5-6.txt), and the Passiontide responsory takes its second colon ('V. Insurrexérunt in me testes iníqui. R. Et mentíta est iníquitas sibi', Tempora/Quad6-5.txt, Minor Special.txt). tribuláre → atribular (glossary).",
+      "options": [
+        {
+          "label": "às almas",
+          "forms": {
+            "animas": "às almas"
+          },
+          "note": "Ruling: the Latin's word, as the glossary has ánima.",
+          "from": "draft"
+        },
+        {
+          "label": "à vontade",
+          "forms": {
+            "animas": "à vontade"
+          },
+          "note": "Douay-Rheims 'will': explains.",
+          "from": "DRB"
+        },
+        {
+          "label": "à mercê",
+          "forms": {
+            "animas": "à mercê"
+          },
+          "note": "Matos Soares 1932: an idiom for the sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "credo",
+      "refs": [
+        "26:13"
+      ],
+      "latin": "Credo vidére bona Dómini",
+      "kind": "grammar",
+      "why": "'I believe (that I shall) see the good things of the Lord' (πιστεύω τοῦ ἰδεῖν). 'Creio ver' is Portuguese for 'I think I see' — a wrong first hearing; the future of the Greek's infinitive and of the context ('in the land of the living') is what Portuguese must say: 'Creio que verei' (grammar, D2). The antiphon of the Office of the Dead and Holy Saturday ('Credo vidére * bona Dómini in terra vivéntium', DO Commune/C9.txt, Tempora/Quad6-6.txt) — the verse stands alone.",
+      "options": [
+        {
+          "label": "Creio que verei",
+          "forms": {
+            "credo": "Creio que verei"
+          },
+          "note": "Ruling: the future the infinitive implies.",
+          "from": "draft"
+        },
+        {
+          "label": "Creio ver",
+          "forms": {
+            "credo": "Creio ver"
+          },
+          "note": "The Latin's infinitive: heard as 'I think I see'.",
+          "from": "draft"
+        },
+        {
+          "label": "Espero que verei",
+          "forms": {
+            "credo": "Espero que verei"
+          },
+          "note": "Matos Soares 1932: crédere changed into hope — refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "bona",
+      "refs": [
+        "26:13"
+      ],
+      "latin": "bona Dómini",
+      "kind": "word",
+      "why": "bona: neuter plural, 'good things' (τὰ ἀγαθά). Ps 12:6b took 'coisas boas' because 'bens' was heard as property there ('que me deu coisas boas'); here 'os bens do Senhor' — the goods that are the Lord's, in the land of the living — is the known form of the antiphon's phrase and does not sound like wealth beside 'do Senhor'. Douay-Rheims 'the good things of the Lord'; Matos Soares 1932 'os bens do Senhor'.",
+      "options": [
+        {
+          "label": "os bens",
+          "forms": {
+            "bona": "os bens"
+          },
+          "note": "Ruling: Matos Soares 1932's words.",
+          "from": "MS1932"
+        },
+        {
+          "label": "as coisas boas",
+          "forms": {
+            "bona": "as coisas boas"
+          },
+          "note": "12:6b's words (glossary bona tríbuere).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "exspecta",
+      "refs": [
+        "26:14"
+      ],
+      "latin": "Exspécta Dóminum … et sústine Dóminum",
+      "kind": "glossary",
+      "why": "Three hoping verbs are kept apart in the psalter: speráre in → esperar em (26:3b 'nisto eu esperarei'), exspectáre → aguardar (D24), sustinére → esperar por (24:3, 5, 21). This verse has two of them, and the glossary row sustinére asked for it to be decided with the three kept apart (HANDOFF 'Open for Gustavo' 14). Ruling: 'Aguarda o Senhor … e espera pelo Senhor' — each Latin verb its own Portuguese, so the verse still says the Lord twice and waits twice, as the Latin. The Greek has one verb twice (ὑπόμεινον … ὑπόμεινον), which by D15's test would allow a merge; the Latin varies, the variation costs nothing here, and 'aguarda … espera' is a natural pair. Address: 'cor tuum' is singular, so 'tu' (a singular human addressee: the soul, or the one who hears). The verse is the Gradual of Tuesday in Passion Week (DO missa Quad5-2.txt).",
+      "options": [
+        {
+          "label": "Aguarda … espera pelo",
+          "forms": {
+            "exspecta": "Aguarda o Senhor",
+            "sustine": "espera pelo Senhor"
+          },
+          "note": "Ruling: the three verbs kept apart (D24; the sustinére row).",
+          "from": "glossary"
+        },
+        {
+          "label": "Espera pelo … espera pelo",
+          "forms": {
+            "exspecta": "Espera pelo Senhor",
+            "sustine": "espera pelo Senhor"
+          },
+          "note": "The Greek's one verb twice: merges exspectáre into sustinére here.",
+          "from": "draft"
+        },
+        {
+          "label": "Espera o … espera no",
+          "forms": {
+            "exspecta": "Espera o Senhor",
+            "sustine": "espera no Senhor"
+          },
+          "note": "Matos Soares 1932: 'esperar no' is speráre's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "viriliter",
+      "refs": [
+        "26:14"
+      ],
+      "latin": "viríliter age",
+      "kind": "word",
+      "why": "viríliter ágere: 'act like a man, be brave' (ἀνδρίζου). The adverb keeps the Latin's man ('varonilmente'; 'virilmente' now leans to the sexual). The verb: 'age varonilmente' is the Latin's, but its twin 30:25 'Viríliter ágite' (grep: the only other place) would need 'Agi varonilmente', and 'agi' is also 'I acted' (rule 3 — Ps 118:126 met the same trap). 'portar-se' serves both ('porta-te' / 'Portai-vos'), so the formula can be one; Matos Soares 1932 has it in both places ('porta-te varonilmente', 'Portai-vos varonilmente').",
+      "options": [
+        {
+          "label": "porta-te varonilmente",
+          "forms": {
+            "viriliter": "porta-te varonilmente"
+          },
+          "note": "Ruling: one verb for 26:14 and 30:25, safe at the vós imperative there.",
+          "from": "MS1932"
+        },
+        {
+          "label": "age varonilmente",
+          "forms": {
+            "viriliter": "age varonilmente"
+          },
+          "note": "The Latin's verb; 30:25 could not follow ('agi').",
+          "from": "draft"
+        },
+        {
+          "label": "sê forte",
+          "forms": {
+            "viriliter": "sê forte"
+          },
+          "note": "The sense; the man in the adverb lost.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "26:1": "salus → salvação (D6). The copula supplied (D2). timére → temer.",
+    "26:1b": "protéctor → protetor (glossary).",
+    "26:2": "carnes (plural) → 'as minhas carnes' (glossary). édere → comer (glossary manducáre / édere). The purpose clause as 'para comerem' (the personal infinitive).",
+    "26:2b": "'Qui tríbulant me inimíci mei' → 'Os que me atribulam, os meus inimigos,' — the Latin's order, 12:5b's formula first; ipsi → 'eles mesmos'. infirmári → enfraquecer-se (as 25:1). cádere → cair.",
+    "26:3": "timébit cor meum → 'o meu coração não temerá' (natural order; the verse ends on the verb, as the Latin).",
+    "26:3b": "exsúrgere → levantar-se (glossary). prǽlium → batalha (17:35, 23:8).",
+    "26:4": "pétere → pedir. 'todos os dias da minha vida' (ómnibus diébus vitæ meæ).",
+    "26:4b": "visitáre → visitar (glossary); templum → templo. A local versicle takes this half-verse alone (12-10-Domus.txt).",
+    "26:5": "abscóndere → esconder; in die malórum → 'no dia dos males' (the genitive plural; 40:2 and 48:6 'in die mala' are another phrase). protégere → proteger (glossary).",
+    "26:6": "exaltáre → exaltar twice, as the Latin; 'exaltou a minha cabeça' as 3:4. super → 'acima de' (17:49).",
+    "26:6b": "immoláre → imolar (49:14, 105:37). 'psalmum dicam' → 'entoarei um salmo' (17:50's words; D25).",
+    "26:7": "exaudíre → escutar twice (D3); 'com que clamei a vós' (qua clamávi ad te). The Introit of the Sunday after the Ascension and a Gradual adapt it (Pasc6-0.txt, Pent05-0.txt).",
+    "26:9": "avértere fáciem … a me → 'desviar de mim a vossa face' (the formula, 12:1).",
+    "26:9b": "salutáris (of God, in apposition) → Salvador (glossary, 23:5, 24:5). Deus bare vocative.",
+    "26:10": "assúmere → recolher (glossary, 17:17; the row names 26:10). derelínquere → abandonar.",
+    "26:12": "insúrgere in → levantar-se contra (glossary; 26:12 is in the row). testes iníqui → 'testemunhas iníquas'. mentíta est iníquitas sibi → 'a iniquidade mentiu a si mesma' (Douay-Rheims 'lied to itself').",
+    "26:13": "terra vivéntium → 'a terra dos vivos'.",
+    "26:14": "confortári → fortalecer-se (glossary)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm26.txt, twenty prayed verses: DO prints eight double lines, keyed by latin.readVerses as 26:1b, 26:2b, 26:3b, 26:4b, 26:6b, 26:9b (26:5, 26:7, 26:8, 26:10–14 single). No titulus (D7; the Greek's πρὸ τοῦ χρισθῆναι is not in DO's text). DO's other uses, grep-checked (ps025/grep_do.py): Monday Prime antiphon 'Illuminátio mea * et salus mea Dóminus' (Psalmi minor.txt); Introits and Graduals (Pent04-0 26:1–2; Pent05-0 26:7, 9b; Pasc6-0 and Quad2-2 26:7–9 in another wording; Quad5-2 26:14 whole); 26:3 an Eastertide responsory (Pasc2-3.txt); 26:4 versicles and Graduals; 26:12b the Passiontide responsory; 26:13 the antiphon of the Office of the Dead and Holy Saturday (Commune/C9.txt, Quad6-6.txt)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps026.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932; no Diurnal text for this psalm). DO's Portuguese not used (D12). Repeats found with ps005/grep_latin.py: illuminátio 5 lines, vociferátio 2 (26:6, 32:3), voluptas 2 (26:4, 35:9), castra only here, 'in abscóndito' 4, viríliter 2 (26:14, 30:25), nocéntes 2 (26:2, 34:1). Latin readings kept against the Hebrew: 26:1 'protetor' (not 'stronghold'), 26:4b 'visite o seu templo', 26:6b 'Rodeei' (the Latin's first verb, where the Hebrew has the head raised 'round about'), 26:8 'a minha face vos procurou' (not 'seek my face'), 26:11 'Ponde uma lei para mim' (not 'teach me'), 26:12 'às almas' and 'a iniquidade mentiu a si mesma' (not 'breathing out violence'), 26:13 'Creio que verei' (without the Hebrew's 'unless'). The three hoping verbs kept apart (26:3b esperar em, 26:14 aguardar / esperar por). 24 decisions."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (twenty ids, the b-lines as latin.readVerses keys them). Soft flags accepted: length +3 to +5 in 26:1b, 26:2 (both colons), 26:3, 26:4, 26:6, 26:6b second colon, 26:12, 26:14 (the copulas supplied in the titles of 26:1–1b, 'os malfeitores', 'entoarei um salmo' for 'psalmum dicam' (17:50's words), 'porta-te varonilmente'); −4/−5 in 26:5, 26:6b first colon, 26:9b (the Latin's long words). Rhymes: 26:1 / 26:1b 'temerei / tremerei' — the Latin's own (timébo / trepidábo), two questions built alike; 26:5 'tenda … tenda' — the Latin repeats tabernáculum; both kept. 26:13 now ends on 'vivos' (paroxytone)."
+    }
+  ]
+}

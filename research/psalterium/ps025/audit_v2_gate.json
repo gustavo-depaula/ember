@@ -1,0 +1,4 @@
+[
+  {"step": "latinist", "file": "critic/v2.latinist.json", "note": "Gate on draft 2: no major. One minor, 25:4 — «“Cum” indica companhia … “No conselho” transforma essa relação em localização ou participação» → ‘com o conselho da vaidade’. Refused: that is draft 1's line, which the blind reader heard as advice (a wrong first hearing); ‘sentar-se no conselho’ is the Portuguese for sitting with a council, and draft 1's words stay an option. Marks confirmed.",
+   "outcomes": [{"verse": "25:4", "remark": "cum = company; 'no conselho' makes it a place → 'com o conselho da vaidade'", "outcome": "refused", "decision": "concilium", "reason": "Draft 1's words, heard as advice by the blind reader; kept as the option 'com o conselho'."}]}
+]

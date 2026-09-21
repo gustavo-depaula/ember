@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "38f13004c95c7080b850a2e655956b9b58d8b1b4c84cc4b7ea1d01407941f99b",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:45:59+00:00",
+  "reply": "{\"verses\":[{\"id\":\"29:11\",\"severity\":\"major\",\"issues\":[{\"latin\":\"Dóminus factus est adjútor meus\",\"portuguese\":\"o Senhor se fez o meu auxílio\",\"problem\":\"Adjútor designa aquele que auxilia; «auxílio» substitui o agente pela ajuda prestada.\",\"fix\":\"o Senhor se fez o meu auxiliador.\"}]}],\"overall\":\"A tradução é fiel ao latim nos demais versículos, inclusive nas suas expressões incomuns. Todos os sinais de divisão coincidem com os do latim em tipo e ordem.\"}"
+}

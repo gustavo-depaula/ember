@@ -1,0 +1,23 @@
+[
+  {"step": "latinist", "file": "critic/v1.latinist.json", "note": "Draft 1. One remark, MAJOR: 25:5 odívi has present sense → ‘Odeio’. Taken. «A tradução é fiel ao latim nos demais versículos»; marks confirmed.",
+   "outcomes": [{"verse": "25:5", "remark": "odívi (perfect of odi) has present sense; 'Odiei' puts it in the past", "outcome": "taken", "decision": "odivi"}]},
+  {"step": "stylist", "file": "critic/v1.stylist.json", "note": "Draft 1. Four verses; best 25:8, worst 25:10. «O salmo tem sobriedade e imagens fortes … Os principais tropeços estão nas inversões e em algumas escolhas livrescas.» Two taken, one taken in its order and refused in its word, one refused with an option.",
+   "outcomes": [
+     {"verse": "25:3", "remark": "'me comprazi' bookish → 'achei prazer na vossa verdade'", "outcome": "taken", "decision": "complacui"},
+     {"verse": "25:4", "remark": "long complement before the verb; 'fazem coisas iníquas' heavy → 'e não entrarei com os que praticam iniquidades'", "outcome": "option", "decision": "iniqua", "reason": "'praticar' is operári iniquitátem's; his order ends the verse on a proparoxytone; the verb last is the Latin's and gives the cadence."},
+     {"verse": "25:9", "remark": "vocative in mid-colon → 'Deus, não façais perecer com os ímpios a minha alma'", "outcome": "taken", "decision": "perdas"},
+     {"verse": "25:10", "remark": "inversion sounds literary; 'dádivas' solemn → 'a direita deles está cheia de presentes'", "outcome": "option", "decision": "muneribus", "reason": "The order taken; the word refused for the glossary (múnera → dádivas, 14:4b); 'presentes' is the row's option and stays selectable."}
+   ]},
+  {"step": "ambiguity", "file": "critic/v1.ambiguity.json", "note": "Draft 1. 21 items, 3 unknown words (comprazi, iníquas, iniquidades). Two wrong first hearings mended: 25:2 'tentai-me' heard as 'lead me into sin' → 'experimentai-me'; 25:4 'com o conselho da vaidade' heard as advice → 'no conselho'. Heard rightly: 'andei na minha inocência', 'cercarei o vosso altar' (going round it), 'homens de sangue' (violent men), 25:12 (steadfast conduct, the foot's image kept). Known costs kept: 'esperando no Senhor' heard as waiting (glossary speráre in); 'vaidade' heard as conceit (glossary vánitas); 'Lavarei as minhas mãos' heard as disclaiming responsibility — the Latin's own image, from which the idiom comes; 'queimai os meus rins' heard literally — the Latin's image.",
+   "outcomes": [
+     {"verse": "25:2", "remark": "'tentai-me' heard first as 'induce me to sin'", "outcome": "taken", "decision": "tenta"},
+     {"verse": "25:4", "remark": "'o conselho da vaidade' heard first as advice", "outcome": "taken", "decision": "concilium"},
+     {"verse": "25:4", "remark": "'vaidade' heard as conceit", "outcome": "refused", "decision": "vanitatis", "reason": "The glossary's word (vánitas); the row already records the cost and its option 'do que é vão'."},
+     {"verse": "25:3", "remark": "unknown word: comprazi", "outcome": "taken", "decision": "complacui"},
+     {"verse": "25:4", "remark": "unknown word: iníquas", "outcome": "refused", "reason": "The glossary's iníquus → iníquo; a word of the Church's register kept psalter-wide."},
+     {"verse": "25:10", "remark": "unknown word: iniquidades", "outcome": "refused", "reason": "The glossary's iníquitas → iniquidade."},
+     {"verse": "25:6", "remark": "'Lavarei as minhas mãos' heard as disclaiming responsibility", "outcome": "refused", "decision": "lavabo", "reason": "The Latin's image; the Portuguese idiom comes from it; the Lavabo keeps it."}
+   ]},
+  {"step": "revision", "version": 2, "note": "ps025/revise_v2.py: 25:2 'experimentai-me'; 25:3 'achei prazer na vossa verdade'; 25:4 'no conselho da vaidade'; 25:5 'Odeio' (the Latinist's major); 25:9 vocative first; 25:10 natural order again ('a direita deles está cheia de dádivas')."},
+  {"step": "checks", "note": "Draft 2: hard pass. 25:10 now ends on the proparoxytone 'dádivas', as the Latin on munéribus — accepted. The rest as draft 1 (25:4 / 25:5 'entrarei / sentarei' the Latin's echo)."}
+]

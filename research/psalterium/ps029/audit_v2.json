@@ -1,0 +1,43 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 1: hard pass (ids 29:6/6b, 29:8/8b, 29:10/10b). Soft flags accepted: 29:3 first colon −4 (Senhor, meu Deus is short against Dómine, Deus meus), 29:13 second colon −4, 29:10 first −3; 29:2 second +3 (à minha custa), 29:5 first +3 (entoar salmos is two words, D25; vós supplied), 29:7 second +3 (para sempre), 29:13 first +3. Rhyme: 29:9 clamarei / suplicarei (mended in draft 2)."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. One major (29:11 auxiliador, the known adjútor objection), one minor (29:13 the passive). «A tradução conserva, nos demais versículos, o conteúdo latino e suas particularidades, sem substituí-las por leituras do hebraico.» Passed 'à minha custa', 'vós, seus santos', 'há ira na sua indignação', 'À tarde se demorará o pranto', 'Para sempre não serei abalado', 'destes vigor ao meu esplendor', 'lamento … júbilo', 'pano de saco'.",
+    "outcomes": [
+      {"verse": "29:11", "remark": "MAJOR: adjútor is the one who helps; 'auxílio' puts the help for the helper → 'auxiliador'", "outcome": "refused", "decision": "adjutor", "reason": "Held (D19, D24): the row's one word, as at 9:10, 17:3b, 18:15b, 118:114; 'se fez o meu auxílio' is the natural predicate; no reader misheard it."},
+      {"verse": "29:13", "remark": "minor: compúngar is passive; the pronominal form does not keep the voice → 'e eu não seja compungido'", "outcome": "taken", "decision": "compungar"}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Four verses; best 29:3, worst 29:13. «Algumas inversões, uma rima de futuros e “compunja” ainda deixam ouvir o trabalho da tradução.» Two taken (29:13 in the Latinist's form), two refused with options.",
+    "outcomes": [
+      {"verse": "29:6b", "remark": "subject after the long future is literary → 'O pranto se demorará à tarde'", "outcome": "option", "decision": "order6b", "reason": "The adverbs head both cola, the Latin's antithesis (ad vésperum … ad matutínum); his order makes a chiasm."},
+      {"verse": "29:7", "remark": "'para sempre não' sounds transposed → 'Jamais serei abalado'", "outcome": "option", "decision": "non_movebor", "reason": "D23; 14:5b's build, which keeps the negation's scope; the second stylist to ask — evidence on the formula row."},
+      {"verse": "29:9", "remark": "rhyme clamarei / suplicarei → 'hei de clamar'", "outcome": "taken", "decision": "clamabo"},
+      {"verse": "29:13", "remark": "'compunja' needs deciphering, suggests remorse → 'e eu não seja ferido'", "outcome": "taken", "decision": "compungar", "reason": "Taken in the Latinist's form, 'não seja compungido' (the Latin's word and voice; the participle is current); 'ferido' is an option."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1. 20 items, 2 unknown words (pano de saco, compunja). Wrong first hearings: 29:4 'inferno' as the hell of the damned (the inférnus row, D22 — for Gustavo), 29:10 'corrupção' as moral corruption (the corrúptio row's second place so heard). Heard rightly: 'à minha custa' (at my expense), 'vós, seus santos', 'há ira … vida na sua vontade', 29:6b (weeping lasts the evening), 'Para sempre não serei abalado' (not shaken), 'Desviastes de mim a vossa face', 'o pó' (the dead body), 'pano de saco' as coarse cloth worn (its mourning sense may be missed — not explained, as the Latin); 'a minha glória' left unidentified, as the Latin.",
+    "outcomes": [
+      {"verse": "29:4", "remark": "'inferno' heard as the place of damnation first", "outcome": "refused", "decision": "inferno", "reason": "The inférnus row, open for Gustavo (D22); evidence added."},
+      {"verse": "29:10", "remark": "'corrupção' heard as moral corruption first", "outcome": "option", "decision": "corruptio", "reason": "Kept: the row's word and 15:10's (= Acts 2:27); 'decomposição' added as an option; evidence to the row."},
+      {"verse": "29:13", "remark": "'compunja' unknown", "outcome": "taken", "decision": "compungar", "reason": "Now 'compungido', the current participle."},
+      {"verse": "29:12", "remark": "'pano de saco' unknown; mourning sense may be missed", "outcome": "refused", "decision": "saccum", "reason": "Heard as coarse cloth worn — the Latin's image; its meaning is not explained (D2). 'o meu saco' would be a bag, or worse."},
+      {"verse": "29:6b", "remark": "'se demorará' second reading 'will be slow to come'; 'a alegria' may take the same verb", "outcome": "refused", "decision": "demorabitur", "reason": "Heard first rightly; the verb is the glossary's (24:13)."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "ps029/revise_v2.py: 29:13 'e eu não seja compungido' (the Latinist; the stylist's worst line and the blind reader's unknown word); 29:9 'A vós, Senhor, hei de clamar' (the stylist: rhyme). Refused with options: 29:6b the stylist's order, 29:7 'Jamais'. Held: 29:11 'auxílio' against the Latinist's major. Decision corruptio added for the blind reader's hearing of 29:10 (wording unchanged)."
+  }
+]

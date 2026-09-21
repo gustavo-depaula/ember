@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "07347da0ff311ab85857122b35c53e040a2669f822b360f2b9c8488dd0a18b1a",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T18:03:35+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"26:4b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"voluptátem Dómini\",\n          \"portuguese\": \"as delícias do Senhor\",\n          \"problem\": \"O plural é idiomático, mas altera o singular do latim, que pode ser conservado em português.\",\n          \"fix\": \"a delícia do Senhor\"\n        }\n      ]\n    },\n    {\n      \"id\": \"26:9b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Adjútor meus esto\",\n          \"portuguese\": \"Sede o meu auxílio\",\n          \"problem\": \"Adjutor designa aquele que ajuda; «auxílio» substitui essa designação pessoal pela ajuda prestada.\",\n          \"fix\": \"Sede o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"26:13\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Credo vidére\",\n          \"portuguese\": \"Creio que verei\",\n          \"problem\": \"A tradução explicita um futuro onde o latim conserva o infinitivo presente. Embora a expectativa futura seja uma interpretação possível, não deve substituir a formulação latina.\",\n          \"fix\": \"Creio ver\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo latino, inclusive suas construções e imagens incomuns; os desvios identificados estão indicados acima. Todos os versículos apresentam as mesmas marcas de divisão, na mesma ordem que o latim: um único asterisco por versículo, sem † nem ‡.\"\n}"
+}

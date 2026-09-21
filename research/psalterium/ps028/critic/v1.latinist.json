@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "19332160584a6ca38fbe6deaec72c9ed084bf3f4a2f24f79e9bb122f8e0ac87d",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:27:55+00:00",
+  "reply": "{\"verses\":[{\"id\":\"28:9\",\"severity\":\"minor\",\"issues\":[{\"latin\":\"cervos\",\"portuguese\":\"as corças\",\"problem\":\"«Corças» especifica fêmeas; «cervos» não exige essa restrição.\",\"fix\":\"os cervos\"}]}],\"overall\":\"A tradução conserva o conteúdo latino, inclusive suas imagens e construções incomuns, com uma pequena restrição de sentido em 28:9. Todos os sinais de divisão correspondem aos do latim, na mesma ordem.\"}"
+}

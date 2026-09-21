@@ -1,0 +1,44 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 1: hard pass. Soft flags accepted: 28:9 first colon +5 (a relative clause for the Latin's participle, and the Latin's second clause), 28:6 first colon +3, 28:7 second colon +3, 28:10 +3/−3, 28:2 and 28:11 second colons −3. Cadence: Líbano (proparoxytone) at 28:5's end and 28:6's mediant — a proper name, as the Latin's Líbani."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. One minor (28:9 corças). «A tradução conserva o conteúdo latino, inclusive suas imagens e construções incomuns.» Passed the seven verbless acclamations, 'ó filhos de Deus … filhos de carneiros', 'como a um bezerro do Líbano', 'divide a chama', 'abala … abalará', 'dirão glória', 'faz habitar o dilúvio'.",
+    "outcomes": [
+      {"verse": "28:9", "remark": "minor: 'corças' specifies females; 'cervos' does not → 'os cervos'", "outcome": "refused", "decision": "cervos", "reason": "cervos / servos are homophones in Brazil (the 17:34 blind reader's fault); in a sung line with no animal before it, 'que prepara os servos' is a wrong first hearing. The gender is the cost; 17:34 has the same ruling."}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Four verses; best 28:11, worst 28:6. «As imagens insólitas pertencem ao próprio latim e não precisam ser alisadas.» Three taken (one in another form), one refused with an option.",
+    "outcomes": [
+      {"verse": "28:2", "remark": "'para o seu nome' sounds explanatory → 'glória ao seu nome'", "outcome": "taken", "decision": "nomini"},
+      {"verse": "28:5", "remark": "Líbano (proparoxytone) at the final cadence → 'e os cedros do Líbano o Senhor quebrará'", "outcome": "option", "decision": "libani5", "reason": "Object-subject-verb is an inversion plain Portuguese does not make, and it breaks the verse's parallel with its first colon; the name is a proparoxytone in the Latin too."},
+      {"verse": "28:6", "remark": "Líbano at the mediant → 'E, como a um bezerro do Líbano, os esmigalhará'", "outcome": "taken", "decision": "order6"},
+      {"verse": "28:9", "remark": "'que prepara … e desnudará' is a broken coordination → 'e o Senhor desnudará'", "outcome": "taken", "decision": "e_que", "reason": "In another form: 'e que desnudará' mends the coordination without naming a subject the Latin leaves open; his wording is an option."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1. 15 items, 6 unknown words (átrio, magnificência, cedros, corças, desnudará, cerradas). Two wrong first hearings the Latin does not have, both mended: 28:6 'o amado' heard as crushed too (the Latin's nominative forbids it), 28:9 'cerradas' heard as 'serradas'. Heard rightly: 28:6 the calf as crushed (the accusative 'a um'); 28:5, 28:7 the participles taken with the voice or the Lord (the Latin's grammar says the Lord; both left audible); 28:10 'faz habitar o dilúvio' left open as the Latin; 28:11 'em paz' three ways (the Latin's).",
+    "outcomes": [
+      {"verse": "28:6", "remark": "'e o amado' heard as a second thing crushed", "outcome": "taken", "decision": "sera"},
+      {"verse": "28:9", "remark": "'matas cerradas' heard as 'serradas' (sawn)", "outcome": "taken", "decision": "condensa"},
+      {"verse": "28:9", "remark": "subject of 'desnudará' unclear (voice or Lord)", "outcome": "refused", "decision": "e_que", "reason": "The Latin's own openness ('revelábit' has no subject); the coordination was mended instead."},
+      {"verse": "28:10", "remark": "'faz habitar o dilúvio': who dwells, and where, uncertain", "outcome": "refused", "decision": "diluvium", "reason": "The Latin's causative is open in the same way (Douay-Rheims keeps it; Matos Soares 1932 decides)."},
+      {"verse": "28:2", "remark": "'átrio' unknown", "outcome": "refused", "decision": "atrio", "reason": "Glossary (átrium → átrio); the second reader to list it — evidence added to the row."},
+      {"verse": "28:4", "remark": "'magnificência' unknown", "outcome": "refused", "decision": "magnif", "reason": "Glossary (open); 'majestade' is majéstas's one verse before. Evidence added to the row."},
+      {"verse": "28:9", "remark": "'corças', 'desnudará' unknown", "outcome": "refused", "decision": "cervos", "reason": "'corças' is the price of avoiding 'servos'; 'desnudará' kept (decision revelabit)."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "ps028/revise_v2.py: 28:2 'glória ao seu nome' (stylist); 28:6 'E, como a um bezerro do Líbano, os esmigalhará: * e o amado será como um filho de unicórnios' (the stylist's order; the copula for the blind reader's zeugma); 28:9 'e que desnudará as matas densas' (the stylist's coordination in another form; 'densas' for the homophone 'cerradas'). 28:5 kept against the stylist (option libani5); 28:9 'corças' kept against the Latinist's minor."
+  }
+]

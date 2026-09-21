@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "542b437a242eee133152fe1469e894838468146a12e290207a6a1556529b335c",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:32:31+00:00",
+  "reply": "{\"verses\":[{\"id\":\"28:9\",\"severity\":\"major\",\"issues\":[{\"latin\":\"cervos\",\"portuguese\":\"as corças\",\"problem\":\"«Cervos» é masculino; «corças» especifica fêmeas, introduzindo uma distinção que o latim não faz.\",\"fix\":\"os cervos\"}]}],\"overall\":\"A tradução conserva adequadamente o sentido do latim, inclusive suas imagens incomuns, salvo pela alteração identificada em 28:9. Todos os versículos apresentam as mesmas marcas de salmodia, na mesma ordem que o latim.\"}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "c517ed846b59138b39923d786bbbf0d8ed76b33cd541b14cd6ce54ee26efaa86",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T18:07:03+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"27:1\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"nequándo táceas a me, et assimilábor descendéntibus in lacum\",\n          \"portuguese\": \"para que não vos caleis comigo, nem eu me torne semelhante aos que descem à cova\",\n          \"problem\": \"«Nem eu me torne» transforma o futuro indicativo afirmativo «assimilábor» numa oração negativa no subjuntivo. O latim apresenta a assimilação aos que descem à cova como consequência do silêncio divino.\",\n          \"fix\": \"não suceda que vos caleis comigo, e eu serei semelhante aos que descem à cova\"\n        }\n      ]\n    },\n    {\n      \"id\": \"27:7\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Dóminus adjútor meus\",\n          \"portuguese\": \"O Senhor é o meu auxílio\",\n          \"problem\": \"«Adjútor» designa aquele que auxilia; «auxílio» substitui essa designação pessoal por uma abstração.\",\n          \"fix\": \"O Senhor é o meu auxiliador\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução preserva, nos demais versículos, o conteúdo do latim, inclusive suas imagens e formulações incomuns. Todos os sinais de divisão correspondem aos do original: um único asterisco em cada versículo, sem flexas ou segundos mediantes.\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "70252f0a4bc337e7662237b90e1c7ece764e3063ac63f795a85aafb60a529c68",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:40:32+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"29:6b\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"À tarde se demorará o pranto\",\n          \"problem\": \"O sujeito depois do futuro longo torna a frase mais literária que oral; a boca espera primeiro quem se demora.\",\n          \"alternative\": \"O pranto se demorará à tarde: * e pela manhã, a alegria.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"29:7\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"Para sempre não serei abalado\",\n          \"problem\": \"A sequência «para sempre não» soa transposta e faz hesitar sobre o alcance da negação.\",\n          \"alternative\": \"Eu, porém, disse na minha abundância: * Jamais serei abalado.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"29:9\",\n      \"fails\": [\"noRhyme\"],\n      \"remarks\": [\n        {\n          \"words\": \"clamarei / suplicarei\",\n          \"problem\": \"A rima dos dois futuros fecha os membros com uma cantilena muito marcada.\",\n          \"alternative\": \"A vós, Senhor, hei de clamar: * e ao meu Deus suplicarei.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"29:13\",\n      \"fails\": [\"plain\"],\n      \"remarks\": [\n        {\n          \"words\": \"e eu não me compunja\",\n          \"problem\": \"«Compunja» exige decifração e sugere especificamente arrependimento; perde-se a abertura da imagem latina de ser ferido.\",\n          \"alternative\": \"Para que a minha glória vos cante, e eu não seja ferido: * Senhor, meu Deus, para sempre vos darei graças.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo tem gravidade sóbria, imagens presentes e terminações adequadas ao canto em todos os membros. A recitação flui em geral; algumas inversões, uma rima de futuros e «compunja» ainda deixam ouvir o trabalho da tradução.\",\n  \"worstLine\": \"29:13\",\n  \"bestLine\": \"29:3\"\n}"
+}

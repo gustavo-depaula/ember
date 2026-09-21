@@ -1,0 +1,34 @@
+[
+  {"step": "latinist", "file": "critic/v1.latinist.json", "note": "Draft 1. Three remarks: 26:4b minor (plural 'delícias' → 'o prazer do Senhor'), refused; 26:9b MAJOR 'auxílio' → 'auxiliador', held (D19/D24, as in six earlier psalms); 26:13 MAJOR 'Creio que verei' → 'Creio ver', held ('Creio ver' is 'I think I see', a wrong first hearing). Marks confirmed.",
+   "outcomes": [
+     {"verse": "26:4b", "remark": "'delícias' pluralizes the singular voluptátem → 'o prazer do Senhor'", "outcome": "option", "decision": "voluptatem", "reason": "'prazer' is heard first as the senses' and 25:3 has 'achei prazer' for complacére; number is grammar; 'a delícia' (singular) and his 'o prazer' are options."},
+     {"verse": "26:9b", "remark": "adjútor is an agent → 'auxiliador'", "outcome": "refused", "decision": "adjutor", "reason": "Held: glossary (D19, D24); held in 117:7, 118:114, 9:10, 17:3b, 18:15b, 29:11."},
+     {"verse": "26:13", "remark": "present infinitive vidére made an explicit future → 'Creio ver'", "outcome": "refused", "decision": "credo", "reason": "Held: 'Creio ver' is heard as 'I think I see' (rule 2); the Greek τοῦ ἰδεῖν looks ahead; the stylist's best line; the blind reader heard it without doubt. His words an option."}
+   ]},
+  {"step": "stylist", "file": "critic/v1.stylist.json", "note": "Draft 1. Eight verses; best 26:13, worst 26:14. «Em alguns pontos, a sintaxe deixa ouvir o latim antes do português.» Five taken (26:1b, 26:3, 26:6b in substance, 26:10 in substance, 26:14 both remarks in part/whole), three refused with options (26:5, 26:11, 26:12).",
+   "outcomes": [
+     {"verse": "26:1b", "remark": "'de quem tremerei' is translated regência → 'diante de quem tremerei?'", "outcome": "taken", "decision": "trepidabo"},
+     {"verse": "26:3", "remark": "subject late, two 'se' → 'Se um acampamento se postar contra mim'", "outcome": "taken", "decision": "castra", "reason": "Order taken, with 'se instalar' for the verb the blind reader did not know; 26:3b turned the same way."},
+     {"verse": "26:5", "remark": "'no lugar escondido' provisional → 'no esconderijo'", "outcome": "option", "decision": "abscondito", "reason": "'esconderijo' is latíbulum's (17:12)."},
+     {"verse": "26:6b", "remark": "'Rodeei' without object → 'Dei a volta'", "outcome": "taken", "decision": "circuivi", "reason": "Taken in substance with 'Andei ao redor' (intransitive, keeps circum-); 'Dei a volta' also 'I turned round', an option."},
+     {"verse": "26:10", "remark": "'Porque … mas' → 'Pois … o Senhor, porém, me recolheu'", "outcome": "taken", "reason": "'porém' after the subject taken (autem's place); 'Pois' refused, quóniam → porque."},
+     {"verse": "26:11", "remark": "'Ponde uma lei para mim' not current → 'Estabelecei para mim uma lei'", "outcome": "option", "decision": "legem", "reason": "'estabelecer' is constitúere / statúere's (as refused at 24:12); the blind reader heard the sense."},
+     {"verse": "26:12", "remark": "second colon long → 'pois contra mim se ergueram'", "outcome": "refused", "reason": "quóniam → porque, insúrgere → levantar-se (glossary); the length is the Latin's."},
+     {"verse": "26:14", "remark": "'varonilmente' bookish, 'porta-te' weak → 'age como homem'", "outcome": "taken", "decision": "viriliter", "reason": "'como homem' taken; the verb 'portar-se' kept so 30:25 can follow ('Agi' = 'I acted'); 'age como homem' an option."},
+     {"verse": "26:14", "remark": "'e fortaleça-se o teu coração' ceremonious → 'e que o teu coração se fortaleça'", "outcome": "taken"}
+   ]},
+  {"step": "ambiguity", "file": "critic/v1.ambiguity.json", "note": "Draft 1. 21 items, 8 unknown words (atribulam ×2, postar, imolei, vereda, iníquas, iniquidade, varonilmente). Wrong or doubtful first hearings: 26:6b 'uma vítima de aclamação' heard as a person harmed or sacrificed (kept — see hostiam: 'hóstia' is the Host, 'sacrifício' sacrifícium's); 26:14 'varonilmente' unknown and gendered (mended, 'como homem' — the Latin's vir); 26:3 'postar' unknown (mended, 'se instalar'). Heard rightly: 26:9 'com ira' as the Lord's anger; 26:10 'recolheu' as taking in (death a second hearing); 26:11 'give me a rule'; 26:13 'os bens' as blessings, 'terra dos vivos' as this life; 26:3 an enemy camp. Kept open as the Latin: 26:3b 'nisto', 26:8 what the heart said. Known costs: 26:12 'às almas' heard as spirits (ánima → alma).",
+   "outcomes": [
+     {"verse": "26:3", "remark": "unknown word: postar", "outcome": "taken", "decision": "castra"},
+     {"verse": "26:14", "remark": "unknown word: varonilmente; heard as 'like a man, not a woman'", "outcome": "taken", "decision": "viriliter", "reason": "'como homem': the Latin's vir in a known word."},
+     {"verse": "26:6b", "remark": "'uma vítima de aclamação' heard as a person harmed", "outcome": "refused", "decision": "hostiam", "reason": "No free word: 'hóstia' heard as the Host, 'sacrifício' is sacrifícium's (115:17 has both); after 'imolei' the ritual sense is there."},
+     {"verse": "26:6b", "remark": "unknown word: imolei", "outcome": "refused", "reason": "immoláre → imolar (49:14, 105:37); the Latin's cult word."},
+     {"verse": "26:12", "remark": "'às almas' heard as spirits", "outcome": "refused", "decision": "animas", "reason": "ánima → alma, the Latin's odd image kept; the explaining versions are options."},
+     {"verse": "26:3b", "remark": "'nisto' has three referents", "outcome": "refused", "decision": "inhoc", "reason": "Open as the Latin (rule 2)."},
+     {"verse": "26:8", "remark": "what the heart said left unsaid", "outcome": "refused", "decision": "dixit", "reason": "Open as the Latin."},
+     {"verse": "26:11", "remark": "unknown word: vereda", "outcome": "refused", "reason": "sémita → vereda (D15)."},
+     {"verse": "26:2b", "remark": "unknown words: atribulam, iníquas, iniquidade", "outcome": "refused", "reason": "Glossary (tribuláre, iníquus, iníquitas)."}
+   ]},
+  {"step": "revision", "version": 2, "note": "ps026/revise_v2.py: 26:1b 'diante de quem tremerei?'; 26:3 / 26:3b natural order ('Se um acampamento se instalar contra mim … Se uma batalha se levantar contra mim'); 26:6b 'Andei ao redor'; 26:10 'o Senhor, porém, me recolheu'; 26:14 'porta-te como homem: * e que o teu coração se fortaleça'. Held: 26:9b 'auxílio', 26:13 'Creio que verei'. 26:14 (HANDOFF Open 14): the three hoping verbs stay apart, 'Aguarda o Senhor … e espera pelo Senhor' — no reader objected."},
+  {"step": "checks", "note": "Draft 2: hard pass. Soft flags accepted: 26:14 second colon +5 ('e que … se fortaleça', the stylist's order); 26:3 +4; 26:1 / 26:1b 'temerei / tremerei' (the Latin's timébo / trepidábo); 26:5 'tenda … tenda' (the Latin's tabernáculum twice)."}
+]

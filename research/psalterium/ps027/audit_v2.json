@@ -1,0 +1,22 @@
+[
+  {"step": "latinist", "file": "critic/v1.latinist.json", "note": "Draft 1. Two remarks: 27:1 MAJOR — the future indicative assimilábor made a negated subjunctive → 'não suceda que vos caleis comigo, e eu serei assemelhado aos que descem à cova'; held (glossary nequándo … et, working, 2:12: Portuguese 'para que não A, e B' is heard as wishing B; no future indicative can stand under 'para que não' / 'não suceda que'); the second 'não' now 'nem' (the stylist). 27:7 minor 'auxiliador', held (D19/D24). Marks confirmed.",
+   "outcomes": [
+     {"verse": "27:1", "remark": "assimilábor is an affirmative future; the draft adds a negation and a subjunctive", "outcome": "refused", "decision": "assimilabor", "reason": "Held: the nequándo … et row (2:12, eight places); without the negation the feared likeness is heard as wished; Portuguese governs the subjunctive here. His wording an option."},
+     {"verse": "27:7", "remark": "adjútor → 'auxiliador'", "outcome": "refused", "decision": "adjutor", "reason": "Held (D19/D24)."}
+   ]},
+  {"step": "stylist", "file": "critic/v1.stylist.json", "note": "Draft 1. Four verses; best 27:6, worst 27:1. «O maior obstáculo à recitação é o fôlego exigido pelo primeiro versículo.» 27:1 taken in part ('nem'), 27:3b taken, 27:7b taken in part, 27:4b refused with an option.",
+   "outcomes": [
+     {"verse": "27:1", "remark": "second colon too long → 'nem eu me torne como os que descem à cova'", "outcome": "taken", "decision": "assimilabor", "reason": "'nem' taken; 'semelhante' kept for assimilári."},
+     {"verse": "27:3b", "remark": "'há males' leaves the build hanging → 'mas têm males nos seus corações'", "outcome": "taken", "decision": "mala"},
+     {"verse": "27:4b", "remark": "'lhes … deles', 'pagar a retribuição' bureaucratic → 'retribuí-lhes a sua retribuição'", "outcome": "option", "decision": "redde", "reason": "'retribuí' = 'I repaid' (rule 3); réddere → pagar (glossary names this verse); 'deles' keeps eórum from being heard as God's."},
+     {"verse": "27:7b", "remark": "'de minha vontade' incomplete → 'por minha própria vontade'", "outcome": "taken", "decision": "voluntate", "reason": "Taken as 'de minha própria vontade' (ex → de kept); his 'por' an option."}
+   ]},
+  {"step": "ambiguity", "file": "critic/v1.ambiguity.json", "note": "Draft 1. 17 items, 2 unknown words (iniquidade, regei-os); no wrong first hearing. Heard rightly: 'descem à cova' (dying), 27:3b the hearts the talkers', 'invenções' (schemes), 'a retribuição deles' (the punishment due), 27:5 'as obras das suas mãos' as the Lord's, 'refloresceu a minha carne' (the body's vigour), 'de minha vontade' (willingly). Latin's own openness kept: 27:5 'não os edificareis' heard as not building them up spiritually (ædificáre has both); 27:8 'salvações' plural a doubt (the Latin's plural); 'seu Cristo' heard as Jesus (D19); 27:9 'a vossa herança' heard as what God gives (hereditas → herança).",
+   "outcomes": [
+     {"verse": "27:3", "remark": "unknown word: iniquidade", "outcome": "refused", "reason": "Glossary (iníquitas)."},
+     {"verse": "27:9", "remark": "unknown word: regei-os", "outcome": "refused", "reason": "régere → reger (glossary, 2:9, 22:1); the Te Deum versicle keeps the psalter's word."},
+     {"verse": "27:9", "remark": "'a vossa herança' heard as what God bestows", "outcome": "refused", "reason": "heréditas → herança (glossary); 'o vosso povo' in the same colon names it."}
+   ]},
+  {"step": "revision", "version": 2, "note": "ps027/revise_v2.py: 27:1 'nem eu me torne semelhante' (the second negation in one word); 27:3b 'mas têm males nos seus corações'; 27:7b 'de minha própria vontade'. Held: 27:1 the subjunctive under 'para que não' (the Latinist's major), 27:7 'auxílio'."},
+  {"step": "checks", "note": "Draft 2: hard pass. 27:1 second colon now +5 (was +6). Rhyme 27:3b / 27:4 'corações / invenções' — as draft 1, the Latin's plurals at both ends (córdibus / adinventiónum); accepted."}
+]

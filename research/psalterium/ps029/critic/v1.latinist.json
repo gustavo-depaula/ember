@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "70252f0a4bc337e7662237b90e1c7ece764e3063ac63f795a85aafb60a529c68",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:39:09+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"29:11\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Dóminus factus est adjútor meus\",\n          \"portuguese\": \"o Senhor se fez o meu auxílio\",\n          \"problem\": \"Adjútor designa aquele que auxilia; «auxílio» substitui o agente pela ajuda prestada.\",\n          \"fix\": \"o Senhor se fez o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"29:13\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"et non compúngar\",\n          \"portuguese\": \"e eu não me compunja\",\n          \"problem\": \"Compúngar está na voz passiva. A construção pronominal portuguesa é defensável quanto ao sentido de aflição, mas não conserva explicitamente essa voz.\",\n          \"fix\": \"e eu não seja compungido\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, nos demais versículos, o conteúdo latino e suas particularidades, sem substituí-las por leituras do hebraico. Todos os versículos apresentam as mesmas marcas de pontuação salmódica, na mesma ordem que o latim.\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "877610b7dde89409e71c121c9056d8afb8b3492abcae8b01eedd2d3a7a1e9131",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:54:06+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"26:4b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"voluptátem Dómini\",\n          \"portuguese\": \"as delícias do Senhor\",\n          \"problem\": \"«Delícias» é semanticamente defensável, mas passa ao plural o substantivo singular do latim.\",\n          \"fix\": \"o prazer do Senhor\"\n        }\n      ]\n    },\n    {\n      \"id\": \"26:9b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Adjútor meus esto\",\n          \"portuguese\": \"Sede o meu auxílio\",\n          \"problem\": \"«Adjútor» designa aquele que ajuda; «auxílio» substitui essa designação pessoal por uma abstração.\",\n          \"fix\": \"Sede o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"26:13\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Credo vidére\",\n          \"portuguese\": \"Creio que verei\",\n          \"problem\": \"O infinitivo presente «vidére» foi convertido em futuro explícito. A tradução fixa uma leitura prospectiva que o latim não marca dessa forma.\",\n          \"fix\": \"Creio ver\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o conteúdo dos demais versículos, inclusive as expressões incomuns do latim. As marcas de divisão coincidem em todos os versículos: um único asterisco, sem flexa nem segundo mediante.\"\n}"
+}

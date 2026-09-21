@@ -1,0 +1,14 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. Soft flags as draft 1, and 29:13 first colon +4 ('não seja compungido'); the 29:9 rhyme is gone."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. One remark: 29:11 'auxiliador', MAJOR again, held. Every draft-2 change passed ('hei de clamar', 'não seja compungido'). «A tradução é fiel ao latim nos demais versículos, inclusive nas suas expressões incomuns.»",
+    "outcomes": [
+      {"verse": "29:11", "remark": "MAJOR: 'auxílio' puts the help for the helper → 'o Senhor se fez o meu auxiliador'", "outcome": "refused", "decision": "adjutor", "reason": "Held on purpose (D19, D24): the adjútor row's one word, as at 9:10, 17:3b, 18:15b, 118:114; the row asks Gustavo for a ruling. 'auxiliador' is option 2."}
+    ]
+  }
+]

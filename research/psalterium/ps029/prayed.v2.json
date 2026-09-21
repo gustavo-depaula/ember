@@ -1,0 +1,1062 @@
+{
+  "psalm": 29,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "29:2": "Eu vos exaltarei, Senhor, porque me {suscepisti}: * e não {delectasti} os meus inimigos {super_me}.",
+    "29:3": "Senhor, meu Deus, clamei a vós, * e me curastes.",
+    "29:4": "Senhor, {eduxisti} do {inferno} a minha alma: * salvastes-me dos que descem à cova.",
+    "29:5": "{Psallite} ao Senhor, {sancti}: * e {confitemini} à {memoriae} da sua santidade.",
+    "29:6": "Porque {ira6}: * e {vita6}.",
+    "29:6b": "{order6b}: * e {matutinum}, a alegria.",
+    "29:7": "Eu, porém, disse na minha {abundantia}: * {non_movebor}.",
+    "29:8": "Senhor, {voluntate8}, * {praestitisti} {virtutem8} {decori}.",
+    "29:8b": "Desviastes de mim a vossa face, * e fiquei perturbado.",
+    "29:9": "A vós, Senhor, {clamabo}: * e ao meu Deus suplicarei.",
+    "29:10": "Que {utilitas} há no meu sangue, * enquanto desço à {corruptio}?",
+    "29:10b": "Acaso o pó vos {confitebitur}, * ou anunciará a vossa verdade?",
+    "29:11": "O Senhor ouviu, e teve piedade de mim: * o Senhor se fez o meu {adjutor}.",
+    "29:12": "{convertisti} o meu {planctum} em {gaudium} para mim: * rasgastes {saccum}, e me cercastes de alegria:",
+    "29:13": "Para que a minha {gloria_mea} vos cante, e eu {compungar}: * Senhor, meu Deus, para sempre vos {confitebor}."
+  },
+  "decisions": [
+    {
+      "id": "suscepisti",
+      "refs": [
+        "29:2"
+      ],
+      "latin": "quóniam suscepísti me",
+      "kind": "glossary",
+      "why": "suscípere with a person as object → amparar (D19; ὑπέλαβές με, 'you took me up'). 3:6 'o Senhor me amparou', 17:36a. The Matins antiphon 'Exaltábo te, * Dómine, quóniam suscepísti me' (Psalmi matutinum.txt) and the versicle of the Immaculate Conception and of Our Lady Aparecida (Sancti/12-08.txt, Sancti/Brasilia/10-12-BMVApparecida.txt, grep) sing this colon. Douay-Rheims 'upheld me'; Matos Soares 1932 'me recebeste'.",
+      "options": [
+        {
+          "label": "amparastes",
+          "forms": {
+            "suscepisti": "amparastes"
+          },
+          "note": "Ruling: D19.",
+          "from": "glossary"
+        },
+        {
+          "label": "recebestes",
+          "forms": {
+            "suscepisti": "recebestes"
+          },
+          "note": "Matos Soares 1932: accípere's word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "acolhestes",
+          "forms": {
+            "suscepisti": "acolhestes"
+          },
+          "note": "The glossary's suscípere with a thing (6:10).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "delectasti",
+      "refs": [
+        "29:2"
+      ],
+      "latin": "nec delectásti inimícos meos",
+      "kind": "word",
+      "why": "delectáre: 'delight, gladden' — here causative, with the enemies as object (οὐκ ηὔφρανας, the verb behind lætificáre → alegrar, glossary, 20:7, 18:9). D15's test lets the two Latin verbs share 'alegrar'; 'deleitar' is bookish and would be heard as sensual pleasure. Douay-Rheims 'hast not made my enemies to rejoice'; Matos Soares 1932 'não permitiste que … se alegrassem' (supplies a permission the Latin does not have).",
+      "options": [
+        {
+          "label": "alegrastes",
+          "forms": {
+            "delectasti": "alegrastes"
+          },
+          "note": "Ruling: lætificáre's verb (one Greek verb).",
+          "from": "draft"
+        },
+        {
+          "label": "deleitastes",
+          "forms": {
+            "delectasti": "deleitastes"
+          },
+          "note": "The cognate; bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "deixastes alegrar-se",
+          "forms": {
+            "delectasti": "deixastes alegrar-se"
+          },
+          "note": "Matos Soares 1932's permission: not the Latin's causative.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super_me",
+      "refs": [
+        "29:2"
+      ],
+      "latin": "inimícos meos super me",
+      "kind": "grammar",
+      "why": "super me: 'over me' — the enemies' joy standing over the fallen man (ἐπ᾽ ἐμέ). 'sobre mim' after 'alegrar' is heard as 'about me' and the colon hangs; 'à minha custa' is how Portuguese says the gloating relation (Matos Soares 1932's words), a preposition changed, the image of joy over someone kept. Douay-Rheims 'over me'. The versicle's response 'Nec delectásti inimícos meos super me' (12-08) closes on it.",
+      "options": [
+        {
+          "label": "à minha custa",
+          "forms": {
+            "super_me": "à minha custa"
+          },
+          "note": "Ruling: the gloating relation in Portuguese (Matos Soares 1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "sobre mim",
+          "forms": {
+            "super_me": "sobre mim"
+          },
+          "note": "The preposition to the letter (Douay-Rheims 'over me').",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "eduxisti",
+      "refs": [
+        "29:4"
+      ],
+      "latin": "eduxísti ab inférno ánimam meam",
+      "kind": "glossary",
+      "why": "edúcere → fazer sair (glossary, open; 17:20); the row says the places with a source ('de', here 'ab') may want 'tirar de' (30:5, 39:3, 106:14). 'tirastes do inferno a minha alma' is plain and keeps the source; 'fizestes sair' is heavier. ἀνήγαγες ('brought up'). Douay-Rheims 'brought forth'; Matos Soares 1932 'tiraste'.",
+      "options": [
+        {
+          "label": "tirastes",
+          "forms": {
+            "eduxisti": "tirastes"
+          },
+          "note": "Ruling: tirar de, as the row foresees for a source.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fizestes sair",
+          "forms": {
+            "eduxisti": "fizestes sair"
+          },
+          "note": "The glossary's verb (17:20).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "inferno",
+      "refs": [
+        "29:4"
+      ],
+      "latin": "ab inférno",
+      "kind": "glossary",
+      "why": "inférnus → inferno (glossary, open, for Gustavo — D22; 6:6, 9:18, 15:10, 17:6 hold it). Here the soul brought back from it: the realm of the dead (the Hebrew's Sheol; the Greek ᾅδου). The blind readers of 6:6 and 15:10 heard the hell of the damned first. Matos Soares 1932 keeps 'inferno' here (his note explains 'the grave'); Douay-Rheims 'hell'.",
+      "options": [
+        {
+          "label": "inferno",
+          "forms": {
+            "inferno": "inferno"
+          },
+          "note": "Ruling: the row's word, pending Gustavo.",
+          "from": "glossary"
+        },
+        {
+          "label": "mundo dos mortos",
+          "forms": {
+            "inferno": "mundo dos mortos"
+          },
+          "note": "The sense, explained.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sancti",
+      "refs": [
+        "29:5"
+      ],
+      "latin": "Psállite Dómino, sancti ejus",
+      "kind": "grammar",
+      "why": "The vocative 'sancti ejus' (οἱ ὅσιοι αὐτοῦ): bare, 'ao Senhor, seus santos' is heard as a second dative (to the Lord and his saints). 'vós', the plural address pronoun, marks it (D2: a subject pronoun may be supplied); Matos Soares 1932 turns the order ('Santos do Senhor, cantai-lhe hinos'), Douay-Rheims 'O ye his saints'. sanctus (ὅσιος) → santo (glossary). The Matins versicle 'V. Psállite Dómino sancti ejus. R. Et confitémini memóriæ sanctitátis ejus' (Psalmi matutinum.txt, grep) is this verse.",
+      "options": [
+        {
+          "label": "vós, seus santos",
+          "forms": {
+            "sancti": "vós, seus santos"
+          },
+          "note": "Ruling: the vocative marked.",
+          "from": "draft"
+        },
+        {
+          "label": "ó seus santos",
+          "forms": {
+            "sancti": "ó seus santos"
+          },
+          "note": "Douay-Rheims 'O ye'.",
+          "from": "DRB"
+        },
+        {
+          "label": "seus santos",
+          "forms": {
+            "sancti": "seus santos"
+          },
+          "note": "Bare: heard as a second dative.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "psallite",
+      "refs": [
+        "29:5"
+      ],
+      "latin": "Psállite Dómino",
+      "kind": "glossary",
+      "why": "psállere → entoar salmos (D25). 'Entoai' is safe (past 'entoei').",
+      "options": [
+        {
+          "label": "Entoai salmos",
+          "forms": {
+            "Psallite": "Entoai salmos"
+          },
+          "note": "Ruling: D25.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "confiteri",
+      "refs": [
+        "29:5",
+        "29:10b",
+        "29:13"
+      ],
+      "latin": "confitémini … confitébitur tibi … confitébor tibi",
+      "kind": "glossary",
+      "why": "confitéri to God → dar graças a (D5), three times in the psalm, each with its dative: 'dai graças à memória', 'vos dará graças', 'vos darei graças'. 29:10b is 6:6's question in another mouth ('no inferno, porém, quem vos dará graças?'), and holds the same words; 29:13 closes the psalm as 117:28a does ('e eu vos darei graças').",
+      "options": [
+        {
+          "label": "dai graças … dará graças … darei graças",
+          "forms": {
+            "confitemini": "dai graças",
+            "confitebitur": "dará graças",
+            "confitebor": "darei graças"
+          },
+          "note": "Ruling: D5.",
+          "from": "glossary"
+        },
+        {
+          "label": "louvai … louvará … louvarei",
+          "forms": {
+            "confitemini": "louvai",
+            "confitebitur": "louvará",
+            "confitebor": "louvarei"
+          },
+          "note": "Matos Soares 1932 (29:13 'eu te louvarei'): laudáre's verb (D5).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "memoriae",
+      "refs": [
+        "29:5"
+      ],
+      "latin": "confitémini memóriæ sanctitátis ejus",
+      "kind": "word",
+      "why": "memória: 'remembrance, memorial' (τῇ μνήμῃ τῆς ἁγιωσύνης αὐτοῦ). The Latin's phrase is kept whole: thanks given to the memory of his holiness. 96:12 has the near twin 'confitémini memóriæ sanctificatiónis ejus' (grep; another noun) — formula row. Douay-Rheims 'give praise to the memory of his holiness'; Matos Soares 1932 'celebrai a sua santa memória' (the genitive made an adjective).",
+      "options": [
+        {
+          "label": "memória",
+          "forms": {
+            "memoriae": "memória"
+          },
+          "note": "Ruling: the Latin's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "lembrança",
+          "forms": {
+            "memoriae": "lembrança"
+          },
+          "note": "Plainer; memória's everyday sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ira6",
+      "refs": [
+        "29:6"
+      ],
+      "latin": "Quóniam ira in indignatióne ejus: * et vita in voluntáte ejus",
+      "kind": "grammar",
+      "why": "Two verbless members (ὅτι ὀργὴ ἐν τῷ θυμῷ αὐτοῦ, καὶ ζωὴ ἐν τῷ θελήματι αὐτοῦ): in his indignation there is wrath, in his will there is life. 'há' is the existential verb Portuguese supplies, once, and the second member shares it — the Latin's balance kept. Douay-Rheims 'wrath is in his indignation' makes the nouns subjects; Matos Soares 1932 paraphrases ('ele castiga-nos na sua ira, e dá-nos a vida'). indignátio → indignação; volúntas → vontade (glossary: the Latin's word, not the Hebrew's 'favour').",
+      "options": [
+        {
+          "label": "há ira na sua indignação … vida na sua vontade",
+          "forms": {
+            "ira6": "há ira na sua indignação",
+            "vita6": "vida na sua vontade"
+          },
+          "note": "Ruling: the existential verb, once.",
+          "from": "draft"
+        },
+        {
+          "label": "a ira está na sua indignação … a vida na sua vontade",
+          "forms": {
+            "ira6": "a ira está na sua indignação",
+            "vita6": "a vida na sua vontade"
+          },
+          "note": "Douay-Rheims's build.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "vesperum",
+      "refs": [
+        "29:6b"
+      ],
+      "latin": "Ad vésperum … et ad matutínum",
+      "kind": "word",
+      "why": "Evening and morning, both with 'ad' (τὸ ἑσπέρας … εἰς τὸ πρωί). 'À tarde … pela manhã' are the plain adverbials; Ps 24:13's note already foresaw 'à tarde se demorará o pranto'. mane → de manhã is the glossary's for mane; matutínum is another word ('pela manhã'). 'Ao entardecer … ao amanhecer' keeps the preposition's 'towards' and the parallel exactly, at the cost of two longer words. Matos Soares 1932 'De tarde … e de manhã'. Heard (draft 1): the stylist — «O sujeito depois do futuro longo torna a frase mais literária que oral» → ‘O pranto se demorará à tarde: * e pela manhã, a alegria’. Refused, kept as an option: evening and morning at the head of each colon is the verse's antithesis (the Latin's ad … ad), and the second colon keeps its adverb first either way — his order makes a chiasm the Latin does not have. The blind reader heard the verse rightly (weeping lasts the evening; joy comes in the morning).",
+      "options": [
+        {
+          "label": "À tarde … pela manhã",
+          "forms": {
+            "vesperum": "À tarde",
+            "matutinum": "pela manhã"
+          },
+          "note": "Ruling: plain.",
+          "from": "draft"
+        },
+        {
+          "label": "Ao entardecer … ao amanhecer",
+          "forms": {
+            "vesperum": "Ao entardecer",
+            "matutinum": "ao amanhecer"
+          },
+          "note": "The 'ad' and the parallel exact.",
+          "from": "draft"
+        },
+        {
+          "label": "De tarde … de manhã",
+          "forms": {
+            "vesperum": "De tarde",
+            "matutinum": "de manhã"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "demorabitur",
+      "refs": [
+        "29:6b"
+      ],
+      "latin": "demorábitur fletus",
+      "kind": "glossary",
+      "why": "demorári → demorar-se (glossary, open; 24:13 'A sua alma se demorará entre coisas boas'; αὐλισθήσεται, 'shall lodge for the night'): weeping lingers as a guest for the evening. fletus → pranto (glossary, 6:9). Douay-Rheims 'weeping shall have place'.",
+      "options": [
+        {
+          "label": "demorará",
+          "forms": {
+            "demorabitur": "demorará"
+          },
+          "note": "Ruling: glossary (24:13).",
+          "from": "glossary"
+        },
+        {
+          "label": "hospedará",
+          "forms": {
+            "demorabitur": "hospedará"
+          },
+          "note": "The Greek's 'lodge'; not the Latin's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "abundantia",
+      "refs": [
+        "29:7"
+      ],
+      "latin": "in abundántia mea",
+      "kind": "word",
+      "why": "abundántia (εὐθηνία, 'prosperity'): the Latin's word, 8 lines (grep: 32:17, 71:7, 77:25, 121:6–7, 122:4, 144:7). Douay-Rheims 'in my abundance'; Matos Soares 1932 'no meio da minha prosperidade' (the Greek's sense).",
+      "options": [
+        {
+          "label": "abundância",
+          "forms": {
+            "abundantia": "abundância"
+          },
+          "note": "Ruling: the Latin's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "prosperidade",
+          "forms": {
+            "abundantia": "prosperidade"
+          },
+          "note": "Matos Soares 1932: the sense named.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "non_movebor",
+      "refs": [
+        "29:7"
+      ],
+      "latin": "Non movébor in ætérnum",
+      "kind": "glossary",
+      "why": "movéri → ser abalado (glossary); in ætérnum → para sempre (D23). Under a negation 'para sempre' must stand before it, as 14:5b ('para sempre não será abalado') and 118:93, or 'Não serei abalado para sempre' is heard as 'I shall be shaken, but not for ever'. The stylist of Ps 14 named that build his worst line and asked for 'jamais' — the option. 9:27 and 61:3 have 'Non movébor' with other complements (grep). Heard (draft 1): the stylist — «A sequência “para sempre não” soa transposta e faz hesitar sobre o alcance da negação» → ‘Jamais serei abalado’. Refused, as at 14:5b: D23's words, and 'para sempre' before the negation is what keeps its scope (the blind reader heard 'I shall not be shaken', rightly). The second stylist to ask for 'jamais' — evidence on the formula row; the option stays one touch away.",
+      "options": [
+        {
+          "label": "Para sempre não serei abalado",
+          "forms": {
+            "non_movebor": "Para sempre não serei abalado"
+          },
+          "note": "Ruling: 14:5b's build.",
+          "from": "glossary"
+        },
+        {
+          "label": "Jamais serei abalado",
+          "forms": {
+            "non_movebor": "Jamais serei abalado"
+          },
+          "note": "The Ps 14 stylist's word; drops in ætérnum's phrase.",
+          "from": "stylist"
+        },
+        {
+          "label": "Não serei abalado para sempre",
+          "forms": {
+            "non_movebor": "Não serei abalado para sempre"
+          },
+          "note": "The Latin's order: 'not for ever'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "voluntate8",
+      "refs": [
+        "29:8"
+      ],
+      "latin": "Dómine, in voluntáte tua",
+      "kind": "grammar",
+      "why": "'in' here is instrumental — by your good will (ἐν τῷ θελήματί σου); in 29:6 it is locative (life is in his will). The noun repeats (vontade … vontade), the preposition follows the sense: 'pela vossa vontade'. Douay-Rheims 'in thy favour'; Matos Soares 1932 'foi por tua vontade'.",
+      "options": [
+        {
+          "label": "pela vossa vontade",
+          "forms": {
+            "voluntate8": "pela vossa vontade"
+          },
+          "note": "Ruling: the instrumental heard.",
+          "from": "MS1932"
+        },
+        {
+          "label": "na vossa vontade",
+          "forms": {
+            "voluntate8": "na vossa vontade"
+          },
+          "note": "The preposition as 29:6.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "praestitisti",
+      "refs": [
+        "29:8"
+      ],
+      "latin": "præstitísti decóri meo virtútem",
+      "kind": "word",
+      "why": "præstáre: 'furnish, supply' (παρέσχου). 'dar' is plain; 'conceder' marks the gift as favour. 18:8 'sapiéntiam præstans' (grep) is the other place.",
+      "options": [
+        {
+          "label": "destes",
+          "forms": {
+            "praestitisti": "destes"
+          },
+          "note": "Ruling: plain.",
+          "from": "draft"
+        },
+        {
+          "label": "concedestes",
+          "forms": {
+            "praestitisti": "concedestes"
+          },
+          "note": "The favour named.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "virtutem8",
+      "refs": [
+        "29:8"
+      ],
+      "latin": "virtútem",
+      "kind": "glossary",
+      "why": "virtus: the glossary gives God's virtus 'poder' and proposes 'vigor' for a man's own strength (21:16). Here the strength is the man's, given to his decor (δύναμιν): 'vigor'. Douay-Rheims 'strength'; Matos Soares 1932 'firmeza'.",
+      "options": [
+        {
+          "label": "vigor",
+          "forms": {
+            "virtutem8": "vigor"
+          },
+          "note": "Ruling: the row's proposal for a man's strength.",
+          "from": "glossary"
+        },
+        {
+          "label": "poder",
+          "forms": {
+            "virtutem8": "poder"
+          },
+          "note": "The row's word for God's virtus.",
+          "from": "glossary"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "virtutem8": "força"
+          },
+          "note": "Douay-Rheims; fortitúdo's word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "decori",
+      "refs": [
+        "29:8"
+      ],
+      "latin": "decóri meo",
+      "kind": "glossary",
+      "why": "decor → esplendor (glossary, open; 20:6; the row names 29:8), kept apart from pulchritúdo → beleza. τῷ κάλλει μου ('my beauty'). The object after the gift, the Latin's order (the dative before the accusative is inverted to put the thing given first, as Portuguese does). Douay-Rheims 'to my beauty'; Matos Soares 1932 'à minha prosperidade'.",
+      "options": [
+        {
+          "label": "ao meu esplendor",
+          "forms": {
+            "decori": "ao meu esplendor"
+          },
+          "note": "Ruling: glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "à minha beleza",
+          "forms": {
+            "decori": "à minha beleza"
+          },
+          "note": "Douay-Rheims; pulchritúdo's word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "utilitas",
+      "refs": [
+        "29:10"
+      ],
+      "latin": "Quæ utílitas in sánguine meo",
+      "kind": "word",
+      "why": "utílitas: 'profit, advantage' (ὠφέλεια). Only here (grep). 'proveito' is the plain word; 'utilidade' (Matos Soares 1932) is heavy and technical. The verb 'há' supplied (the Latin is verbless). sanguis → sangue (the singular; D29 is about the plural). 'dum descéndo' → 'enquanto desço', the Latin's present.",
+      "options": [
+        {
+          "label": "proveito",
+          "forms": {
+            "utilitas": "proveito"
+          },
+          "note": "Ruling: plain.",
+          "from": "DRB"
+        },
+        {
+          "label": "utilidade",
+          "forms": {
+            "utilitas": "utilidade"
+          },
+          "note": "Matos Soares 1932: the cognate.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "29:11"
+      ],
+      "latin": "Dóminus factus est adjútor meus",
+      "kind": "glossary",
+      "why": "adjútor → auxílio (glossary, open; D19, D24): the Latinist has asked for 'auxiliador' at 9:10, 17:3b, 18:15b, 117:7, 118:114. The build is 17:19's ('e o Senhor se fez o meu protetor') and 9:10's ('E o Senhor se fez refúgio'); here the predicate noun can be an abstract ('became my help') as naturally as an agent. Douay-Rheims 'became my helper'; Matos Soares 1932 'fez-se meu protector'. Heard (draft 1): the Latinist, MAJOR — «Adjútor designa aquele que auxilia; “auxílio” substitui o agente pela ajuda prestada» → ‘auxiliador’. HELD on purpose, as at 9:10, 17:3b, 18:15b, 118:114 (D24): the row's one word, and here with 'se fez' the abstract is the natural predicate ('became my help', as 9:10 'se fez refúgio'); no reader misheard it.",
+      "options": [
+        {
+          "label": "auxílio",
+          "forms": {
+            "adjutor": "auxílio"
+          },
+          "note": "Ruling: the row's word.",
+          "from": "glossary"
+        },
+        {
+          "label": "auxiliador",
+          "forms": {
+            "adjutor": "auxiliador"
+          },
+          "note": "The Latinist's agent noun (elsewhere).",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "convertisti",
+      "refs": [
+        "29:12"
+      ],
+      "latin": "Convertísti planctum meum in gáudium mihi",
+      "kind": "glossary",
+      "why": "convértere → voltar (glossary), but with 'in' + result the verb says 'turn X into Y', and Portuguese says that with 'converter em' (Douay-Rheims 'turned … into'; Matos Soares 1932 'converteste … em'); 'voltar em' is not said. Heard as religious conversion? not with 'o meu lamento em' after it. The same build 65:6, 77:44, 104:29, 113:8 (grep) — proposal for the row: 'converter em' for change into. ἔστρεψας.",
+      "options": [
+        {
+          "label": "Convertestes",
+          "forms": {
+            "convertisti": "Convertestes"
+          },
+          "note": "Ruling: the Portuguese verb of changing into.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Mudastes",
+          "forms": {
+            "convertisti": "Mudastes"
+          },
+          "note": "Plainer; mutáre's word.",
+          "from": "draft"
+        },
+        {
+          "label": "Transformastes",
+          "forms": {
+            "convertisti": "Transformastes"
+          },
+          "note": "Plain, longer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "planctum",
+      "refs": [
+        "29:12"
+      ],
+      "latin": "planctum meum",
+      "kind": "word",
+      "why": "planctus: 'lamentation, beating of the breast' (κοπετός), another word than fletus ('weeping', κλαυθμός) of 29:6b, which the glossary gives 'pranto'. 'lamento' keeps them apart. Only here (grep). Douay-Rheims 'mourning'; Matos Soares 1932 'pranto' (merges).",
+      "options": [
+        {
+          "label": "lamento",
+          "forms": {
+            "planctum": "lamento"
+          },
+          "note": "Ruling: apart from fletus → pranto.",
+          "from": "draft"
+        },
+        {
+          "label": "pranto",
+          "forms": {
+            "planctum": "pranto"
+          },
+          "note": "Matos Soares 1932: merges with 29:6b.",
+          "from": "MS1932"
+        },
+        {
+          "label": "luto",
+          "forms": {
+            "planctum": "luto"
+          },
+          "note": "Douay-Rheims 'mourning': the state rather than the cry.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "gaudium",
+      "refs": [
+        "29:12"
+      ],
+      "latin": "in gáudium",
+      "kind": "glossary",
+      "why": "gáudium → júbilo (glossary, open, for a ruling; 20:7). Here gáudium and lætítia stand in one verse (the Latin varies; the Greek has χορόν 'dance' and εὐφροσύνην), so 'alegria', lætítia's word, cannot serve both. Followed as the row stands; evidence for the row. The Ps 20 blind reader did not know 'júbilo'; 'regozijo' is the row's other candidate.",
+      "options": [
+        {
+          "label": "júbilo",
+          "forms": {
+            "gaudium": "júbilo"
+          },
+          "note": "Ruling: the row's current word.",
+          "from": "glossary"
+        },
+        {
+          "label": "regozijo",
+          "forms": {
+            "gaudium": "regozijo"
+          },
+          "note": "The row's other candidate.",
+          "from": "glossary"
+        },
+        {
+          "label": "alegria",
+          "forms": {
+            "gaudium": "alegria"
+          },
+          "note": "lætítia's word, four words later.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "saccum",
+      "refs": [
+        "29:12"
+      ],
+      "latin": "conscidísti saccum meum",
+      "kind": "word",
+      "why": "saccus: sackcloth, the mourner's garment (σάκκον). Only here (grep); cilícium (34:13, 68:12) is another word. 'o meu saco' is a bag in Portuguese, and in Brazil a vulgarity — a wrong first hearing. 'pano de saco' keeps the Latin's word and says it is cloth, without explaining what it was for (Matos Soares 1932 adds '(de penitência)' in parentheses). conscídere → rasgar (διέρρηξας).",
+      "options": [
+        {
+          "label": "o meu pano de saco",
+          "forms": {
+            "saccum": "o meu pano de saco"
+          },
+          "note": "Ruling: the word kept, heard as cloth.",
+          "from": "draft"
+        },
+        {
+          "label": "a minha veste de saco",
+          "forms": {
+            "saccum": "a minha veste de saco"
+          },
+          "note": "A garment named.",
+          "from": "draft"
+        },
+        {
+          "label": "o meu saco",
+          "forms": {
+            "saccum": "o meu saco"
+          },
+          "note": "Douay-Rheims 'my sackcloth' to the letter: a bag, and worse.",
+          "from": "DRB"
+        },
+        {
+          "label": "o meu cilício",
+          "forms": {
+            "saccum": "o meu cilício"
+          },
+          "note": "cilícium's word (34:13).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gloria_mea",
+      "refs": [
+        "29:13"
+      ],
+      "latin": "Ut cantet tibi glória mea",
+      "kind": "word",
+      "why": "glória mea (ἡ δόξα μου): the Latin's word, which the psalter also sets as a thing that sings and wakes (56:9 = 107:3 'Exsúrge, glória mea', 107:2 'cantábo, et psallam in glória mea'; 3:4, 61:8 of God, grep): read as the self or the soul, it is not explained here. Matos Soares 1932 explains it as 'a minha alma'; Douay-Rheims 'my glory'.",
+      "options": [
+        {
+          "label": "glória",
+          "forms": {
+            "gloria_mea": "glória"
+          },
+          "note": "Ruling: the Latin's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "alma",
+          "forms": {
+            "gloria_mea": "alma"
+          },
+          "note": "Matos Soares 1932: explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "compungar",
+      "refs": [
+        "29:13"
+      ],
+      "latin": "et non compúngar",
+      "kind": "glossary",
+      "why": "compúngi → compungir-se (glossary, open; 4:5 'compungi-vos'): the sting of grief (κατανυγῶ). Only these two places (grep). The stylist of Ps 4 preferred 'arrepender-se' (another word, pænitére). Douay-Rheims 'and I may not regret'; Matos Soares 1932 'e eu não tenha mais penas'. Heard (draft 1): the Latinist, minor — «Compúngar está na voz passiva. A construção pronominal … não conserva explicitamente essa voz» → ‘e eu não seja compungido’; the stylist's worst line — «“Compunja” exige decifração e sugere especificamente arrependimento; perde-se a abertura da imagem latina de ser ferido» → ‘e eu não seja ferido’; the blind reader: 'compunja' unknown, remorse if understood. Taken: the Latinist's wording. It keeps the Latin's voice and word, and the rare subjunctive 'compunja' gives way to the participle 'compungido', which is current in Catholic speech ('coração compungido'). The stylist's 'ferido' keeps the image and is plainer, but says any wound — it is an option.",
+      "options": [
+        {
+          "label": "não seja compungido",
+          "forms": {
+            "compungar": "não seja compungido"
+          },
+          "note": "Ruling (draft 2): the passive kept (the Latinist).",
+          "from": "latinist"
+        },
+        {
+          "label": "não me compunja",
+          "forms": {
+            "compungar": "não me compunja"
+          },
+          "note": "Draft 1. glossary (4:5).",
+          "from": "glossary"
+        },
+        {
+          "label": "não seja ferido",
+          "forms": {
+            "compungar": "não seja ferido"
+          },
+          "note": "The stylist: the image of the wound, plainer; any wound.",
+          "from": "stylist"
+        },
+        {
+          "label": "não me arrependa",
+          "forms": {
+            "compungar": "não me arrependa"
+          },
+          "note": "Douay-Rheims 'regret'; pænitére's word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "clamabo",
+      "refs": [
+        "29:9"
+      ],
+      "latin": "Ad te, Dómine, clamábo: * et ad Deum meum deprecábor",
+      "kind": "grammar",
+      "why": "Two futures ending both cola (clamábo … deprecábor). In Portuguese 'clamarei … suplicarei' rhyme at the mediant and the final, which the Latin's -abo / -abor barely echoes. Heard (draft 1): the stylist — «A rima dos dois futuros fecha os membros com uma cantilena muito marcada» → ‘A vós, Senhor, hei de clamar’. Taken: the periphrastic future is the same tense (grammar, D2), the mediant falls on an oxytone, and the rhyme is gone. deprecári → suplicar (D35).",
+      "options": [
+        {
+          "label": "hei de clamar",
+          "forms": {
+            "clamabo": "hei de clamar"
+          },
+          "note": "Ruling (draft 2): the stylist; no rhyme.",
+          "from": "stylist"
+        },
+        {
+          "label": "clamarei",
+          "forms": {
+            "clamabo": "clamarei"
+          },
+          "note": "Draft 1: rhymes with 'suplicarei'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "order6b",
+      "refs": [
+        "29:6b"
+      ],
+      "latin": "Ad vésperum demorábitur fletus",
+      "kind": "order",
+      "why": "See decision vesperum: the stylist's order, refused.",
+      "options": [
+        {
+          "label": "À tarde se demorará o pranto",
+          "forms": {
+            "order6b": "{vesperum} se {demorabitur} o pranto"
+          },
+          "note": "Ruling: the adverbs head both cola, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "O pranto se demorará à tarde",
+          "forms": {
+            "order6b": "O pranto se {demorabitur} à tarde"
+          },
+          "note": "The stylist: the subject first; a chiasm.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "corruptio",
+      "refs": [
+        "29:10"
+      ],
+      "latin": "dum descéndo in corruptiónem",
+      "kind": "glossary",
+      "why": "corrúptio → corrupção (glossary, open; 15:10 'ver a corrupção' = Acts 2:27, fetched). διαφθοράν, bodily decay. Heard (draft 1): the blind reader — likely hearing «desonestidade ou … degradação moral; esse é o sentido mais corrente de “corrupção”», decay second — the same fault as 15:10. Kept: one Latin word, the Acts twin in 15:10, and here 'desço' with the blood of the first colon points to death. The second place heard so: evidence for the row, with 'decomposição' offered as the row's option.",
+      "options": [
+        {
+          "label": "corrupção",
+          "forms": {
+            "corruptio": "corrupção"
+          },
+          "note": "Ruling: glossary (15:10).",
+          "from": "glossary"
+        },
+        {
+          "label": "decomposição",
+          "forms": {
+            "corruptio": "decomposição"
+          },
+          "note": "The sense (decay); no moral hearing; not the Acts word.",
+          "from": "ambiguity"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "29:2": "exaltáre → exaltar; 'Eu vos exaltarei' as 117:28a ('e eu vos exaltarei'), the subject pronoun so that the verse does not open on a clitic. The Matins antiphon 'Exaltábo te, * Dómine' is served: 'Eu vos exaltarei, * Senhor'.",
+    "29:3": "clamáre → clamar (glossary); sanáre → curar (glossary; the row names 29:3; 'sarar' of Matos Soares 1932 is what the patient does in Brazil).",
+    "29:4": "salváre → salvar; lacus → cova (glossary: 'os que descem à cova', the row names 29:4).",
+    "29:6b": "lætítia → alegria (the gáudium row: alegria is lætítia's); the verb of the first member serves the second, as the Latin.",
+    "29:8b": "avértere fáciem → desviar a face (12:1, 21:25b); fíeri + participle → ficar ('fiquei perturbado'); conturbáre → perturbar (glossary).",
+    "29:9": "deprecári → suplicar (D35).",
+    "29:10": "corrúptio → corrupção (glossary; 15:10 = Acts 2:27).",
+    "29:10b": "numquid → acaso (glossary); annuntiáre → anunciar; véritas → verdade. 6:6's question, 'quem vos dará graças?', answered in kind.",
+    "29:11": "audíre → ouvir (not at the imperative); miseréri → ter piedade; fíeri + predicate → fazer-se (17:19).",
+    "29:12": "circumdáre → cercar (glossary; the Greek girds, περιέζωσας — the Latin's verb followed); lætítia → alegria; 'para mim' for mihi at the mediant.",
+    "29:13": "cantáre → cantar; in ætérnum → para sempre (D23), before the verb as the Latin."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm29.txt, 15 prayed verses: DO repeats 29:6, 29:8, 29:10, keyed 29:6b, 29:8b, 29:10b by latin.readVerses. No 29:1 (the titulus, D7). No flex. Not in the Diurnal Monástico. Uses checked by grep in DO's Latin: Matins antiphon 'Exaltábo te, * Dómine, quóniam suscepísti me' and versicle 'Psállite Dómino sancti ejus. R. Et confitémini memóriæ sanctitátis ejus' (Psalmi matutinum.txt); versicle 'Exaltábo te, Dómine, quóniam suscepísti me. R. Nec delectásti inimícos meos super me' and responsory (Sancti/12-08.txt, Sancti/Brasilia/10-12-BMVApparecida.txt); Introit verse (Commune/C4b.txt); 29:12 as a responsory text (Sancti/aliquibus locis/Quad2-5-SindonDNJC.txt)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps029.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: saccus, planctus, utílitas only here; compúngi 4:5, 29:13; memóriæ sanct- 29:5, 96:12; abundántia 8 lines; Non movébor 9:27, 29:7, 61:3; factus est … adjútor 9:10, 29:11 (93:22 adjutórium). Latin (= Greek) readings kept against the Hebrew: 29:2 'me amparastes' (not 'drew me up'), 29:6 'há ira na sua indignação' (not 'his anger is but a moment'), 29:8 'destes vigor ao meu esplendor' (not 'made my mountain stand strong'), 29:12 'me cercastes de alegria' (the Latin's verb, not the Greek's girding either), 29:13 'a minha glória … não me compunja' (not 'not be silent'). Tests for the readers: 'à minha custa', 'pano de saco', 'lamento' against 'pranto', 'júbilo', 'não me compunja', 'Para sempre não serei abalado', 'vós, seus santos'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids 29:6/6b, 29:8/8b, 29:10/10b). Soft flags accepted: 29:3 first colon −4 (Senhor, meu Deus is short against Dómine, Deus meus), 29:13 second colon −4, 29:10 first −3; 29:2 second +3 (à minha custa), 29:5 first +3 (entoar salmos is two words, D25; vós supplied), 29:7 second +3 (para sempre), 29:13 first +3. Rhyme: 29:9 clamarei / suplicarei (mended in draft 2)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. One major (29:11 auxiliador, the known adjútor objection), one minor (29:13 the passive). «A tradução conserva, nos demais versículos, o conteúdo latino e suas particularidades, sem substituí-las por leituras do hebraico.» Passed 'à minha custa', 'vós, seus santos', 'há ira na sua indignação', 'À tarde se demorará o pranto', 'Para sempre não serei abalado', 'destes vigor ao meu esplendor', 'lamento … júbilo', 'pano de saco'.",
+      "outcomes": [
+        {
+          "verse": "29:11",
+          "remark": "MAJOR: adjútor is the one who helps; 'auxílio' puts the help for the helper → 'auxiliador'",
+          "outcome": "refused",
+          "decision": "adjutor",
+          "reason": "Held (D19, D24): the row's one word, as at 9:10, 17:3b, 18:15b, 118:114; 'se fez o meu auxílio' is the natural predicate; no reader misheard it."
+        },
+        {
+          "verse": "29:13",
+          "remark": "minor: compúngar is passive; the pronominal form does not keep the voice → 'e eu não seja compungido'",
+          "outcome": "taken",
+          "decision": "compungar"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Four verses; best 29:3, worst 29:13. «Algumas inversões, uma rima de futuros e “compunja” ainda deixam ouvir o trabalho da tradução.» Two taken (29:13 in the Latinist's form), two refused with options.",
+      "outcomes": [
+        {
+          "verse": "29:6b",
+          "remark": "subject after the long future is literary → 'O pranto se demorará à tarde'",
+          "outcome": "option",
+          "decision": "order6b",
+          "reason": "The adverbs head both cola, the Latin's antithesis (ad vésperum … ad matutínum); his order makes a chiasm."
+        },
+        {
+          "verse": "29:7",
+          "remark": "'para sempre não' sounds transposed → 'Jamais serei abalado'",
+          "outcome": "option",
+          "decision": "non_movebor",
+          "reason": "D23; 14:5b's build, which keeps the negation's scope; the second stylist to ask — evidence on the formula row."
+        },
+        {
+          "verse": "29:9",
+          "remark": "rhyme clamarei / suplicarei → 'hei de clamar'",
+          "outcome": "taken",
+          "decision": "clamabo"
+        },
+        {
+          "verse": "29:13",
+          "remark": "'compunja' needs deciphering, suggests remorse → 'e eu não seja ferido'",
+          "outcome": "taken",
+          "decision": "compungar",
+          "reason": "Taken in the Latinist's form, 'não seja compungido' (the Latin's word and voice; the participle is current); 'ferido' is an option."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1. 20 items, 2 unknown words (pano de saco, compunja). Wrong first hearings: 29:4 'inferno' as the hell of the damned (the inférnus row, D22 — for Gustavo), 29:10 'corrupção' as moral corruption (the corrúptio row's second place so heard). Heard rightly: 'à minha custa' (at my expense), 'vós, seus santos', 'há ira … vida na sua vontade', 29:6b (weeping lasts the evening), 'Para sempre não serei abalado' (not shaken), 'Desviastes de mim a vossa face', 'o pó' (the dead body), 'pano de saco' as coarse cloth worn (its mourning sense may be missed — not explained, as the Latin); 'a minha glória' left unidentified, as the Latin.",
+      "outcomes": [
+        {
+          "verse": "29:4",
+          "remark": "'inferno' heard as the place of damnation first",
+          "outcome": "refused",
+          "decision": "inferno",
+          "reason": "The inférnus row, open for Gustavo (D22); evidence added."
+        },
+        {
+          "verse": "29:10",
+          "remark": "'corrupção' heard as moral corruption first",
+          "outcome": "option",
+          "decision": "corruptio",
+          "reason": "Kept: the row's word and 15:10's (= Acts 2:27); 'decomposição' added as an option; evidence to the row."
+        },
+        {
+          "verse": "29:13",
+          "remark": "'compunja' unknown",
+          "outcome": "taken",
+          "decision": "compungar",
+          "reason": "Now 'compungido', the current participle."
+        },
+        {
+          "verse": "29:12",
+          "remark": "'pano de saco' unknown; mourning sense may be missed",
+          "outcome": "refused",
+          "decision": "saccum",
+          "reason": "Heard as coarse cloth worn — the Latin's image; its meaning is not explained (D2). 'o meu saco' would be a bag, or worse."
+        },
+        {
+          "verse": "29:6b",
+          "remark": "'se demorará' second reading 'will be slow to come'; 'a alegria' may take the same verb",
+          "outcome": "refused",
+          "decision": "demorabitur",
+          "reason": "Heard first rightly; the verb is the glossary's (24:13)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "ps029/revise_v2.py: 29:13 'e eu não seja compungido' (the Latinist; the stylist's worst line and the blind reader's unknown word); 29:9 'A vós, Senhor, hei de clamar' (the stylist: rhyme). Refused with options: 29:6b the stylist's order, 29:7 'Jamais'. Held: 29:11 'auxílio' against the Latinist's major. Decision corruptio added for the blind reader's hearing of 29:10 (wording unchanged)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags as draft 1, and 29:13 first colon +4 ('não seja compungido'); the 29:9 rhyme is gone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. One remark: 29:11 'auxiliador', MAJOR again, held. Every draft-2 change passed ('hei de clamar', 'não seja compungido'). «A tradução é fiel ao latim nos demais versículos, inclusive nas suas expressões incomuns.»",
+      "outcomes": [
+        {
+          "verse": "29:11",
+          "remark": "MAJOR: 'auxílio' puts the help for the helper → 'o Senhor se fez o meu auxiliador'",
+          "outcome": "refused",
+          "decision": "adjutor",
+          "reason": "Held on purpose (D19, D24): the adjútor row's one word, as at 9:10, 17:3b, 18:15b, 118:114; the row asks Gustavo for a ruling. 'auxiliador' is option 2."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "8c4c39c9224ddb496dbda95fa6c86416007787207df79cc5fe6a64f04cdd20be",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T17:57:17+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"25:4\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Non sedi cum concílio vanitátis\",\n          \"portuguese\": \"Não me sentei no conselho da vaidade\",\n          \"problem\": \"«Cum» indica companhia: sentei-me com essa assembleia. «No conselho» transforma essa relação em localização ou participação, embora conserve aproximadamente a cena.\",\n          \"fix\": \"Não me sentei com o conselho da vaidade\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o sentido do latim, com uma pequena alteração de relação preposicional em 25:4. Todas as marcas salmódicas coincidem com as do original: um asterisco por verso, na mesma divisão, sem flexas nem segundos mediantes.\"\n}"
+}
