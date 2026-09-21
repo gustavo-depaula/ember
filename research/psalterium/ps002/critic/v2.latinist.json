@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "2f6f3663ae27d51ddd37c8d28cdfc5c1738f07272498fe81c697243d7d73f92c",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T04:10:45+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"2:11\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Servíte Dómino\",\n          \"portuguese\": \"Sede servos do Senhor\",\n          \"problem\": \"É uma paráfrase defensável, mas substitui a ordem de servir pela de ser servo.\",\n          \"fix\": \"Servi ao Senhor\"\n        }\n      ]\n    },\n    {\n      \"id\": \"2:12\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"et pereátis de via justa\",\n          \"portuguese\": \"e não pereçais fora do caminho justo\",\n          \"problem\": \"«Fora do» situa a perdição no exterior do caminho. O latim conserva a construção de afastamento ou procedência «de via justa»; a tradução resolve essa expressão difícil acrescentando uma localização.\",\n          \"fix\": \"e não pereçais do caminho justo.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução é adequada nos demais versículos. Todos os versículos conservam as mesmas marcas de apontamento, na mesma ordem do latim.\"\n}"
+}

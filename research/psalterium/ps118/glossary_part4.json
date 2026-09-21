@@ -1,0 +1,106 @@
+{
+  "append": [
+    {
+      "row": "| **elóquium — evidence from 118:81–128",
+      "text": "**EVIDENCE FROM 118:129–176 (nine places; four Latinist, two stylist and two blind readings, `ps118/critic/v13–v16.*.part4.json`).** SINGULAR, the clause, six places, none of which forced a noun: 118:133 *segundo o que dissestes* · 118:140 *O que dissestes está todo em brasa … o amou* (the clause as SUBJECT, with a predicate and a pronoun pointing back) · 118:154 *pelo que dissestes vivificai-me* (after *propter*: cause is what the Latin says, so the hearing the handoff feared is here the right one) · 118:169 *conforme o que dissestes* · 118:170 *segundo o que dissestes libertai-me* · 118:172 *pronunciará o que dissestes*. **Stylist: no remark against the clause in any of the six places on either reading**; on the first reading his own lines for 118:154 and 118:169 keep it; on the second his line for 118:154 reads *pela vossa palavra*, though the faults he named there were an echo and a rhyme. **Blind reader: understood every place, twice** (118:169 → *como prometestes*); nothing misheard after a preposition. **Latinist: six minors on draft 13 and again on draft 14, all one remark — the clause dates an utterance the noun leaves timeless (D16's named cost); then NO remark on drafts 15 and 16 with the clause unchanged.** PLURAL *os vossos ditos*, three places (118:148 *meditar nos vossos ditos*, 118:158 *não guardaram os vossos ditos*, 118:162 *alegrarei com os vossos ditos*): **refused by the stylist in all three, on both readings — six of six** (\"máximas ou frases célebres\", \"uma coleção de máximas\", \"coloração de máxima ou anedota\", \"deixam aparecer o tradutor\"), each time for *palavras*; the blind reader understood it (118:158 → *Não obedeceram ao que Deus disse*) and never listed *ditos* as unknown; the Latinist never remarked on it. **So over the whole psalm the verdicts have converged: the clause has held with the ear everywhere since D16 (stylist and blind reader), at the price of a recurring Latinist minor; the plural noun is what the stylist refuses — 118:11 passed, then 118:103 twice, 118:148, 158, 162 twice each.** Alternatives for Gustavo: (a) stand; (b) *palavra(s)* for the whole term (one touch per psalm: label *palavras* of decision `eloquia`) — costs λόγιον / λόγος, and makes *secúndum elóquium tuum* = *secúndum verbum tuum*; (c) a split nobody has tried: keep the clause for the singular (15 of 20) and give only the plural (5 of 20: 118:11, 103, 148, 158, 162) to *palavras* — the ear's verdicts exactly, at the cost of one Latin noun having a clause and a borrowed noun."
+    },
+    {
+      "row": "| *secúndum elóquium tuum*",
+      "text": "**118:133, 170** (the formula) and **118:169** (*juxta* → *conforme o que dissestes*; the Latin varies the preposition and Portuguese has the plain pair *conforme / segundo*): no remark from the stylist on either of two readings, understood by the blind reader twice; the Latinist's minor (past tense) on drafts 13–14, silence on 15–16. **118:154 *propter elóquium tuum* → *pelo que dissestes*** (not *por causa do*, which echoed *a minha causa* in the same verse)."
+    },
+    {
+      "row": "| in ætérnum |",
+      "text": "**D23 held at 118:142, 144, 152, 160** (slot `{aet}` of decision `in_aeternum`): *A vossa justiça é justiça para sempre* — the stylist's best line of the portion on both readings; *são equidade para sempre*; *que os fundastes para sempre*; *todos os juízos da vossa justiça são para sempre* (natural order, from the stylist: *para sempre são todos …* hung until its subject came). No reader of four Latinist, two stylist and two blind readings remarked on the phrase."
+    },
+    {
+      "row": "| erípere |",
+      "text": "**Ps 118:153, 170 — *éripe me* with NO source named** (*Vide humilitátem meam, et éripe me*; *secúndum elóquium tuum éripe me*): the row said that with *me* as object *arrancar* is untouched, but *e arrancai-me* with nothing to be torn from leaves the sentence hanging, as *arrancai a minha alma* did in Ps 6. Ps 118 has *libertai-me* in both (the Diurnal's verb at 153; safe); passed all readers. Evidence for the row's own last sentence: *libertar* is the verb that never fails."
+    },
+    {
+      "row": "| conspéctus, *ante conspéctum suum* |",
+      "text": "**Ps 118:168–170 — *in conspéctu tuo* three verses running, two of them with a verb of MOTION** (*Appropínquet … in conspéctu tuo*, *Intret … in conspéctu tuo*): *à vossa vista* is excellent in 118:168 (*todos os meus caminhos estão à vossa vista*) and impossible in 118:170 (*Entre o meu pedido à vossa vista*). Ps 118 has the noun phrase ***a vossa presença*** in all three, each verb taking its own preposition (*estão na … · Aproxime-se … da … · Entre … na …* — the stylist refused *Aproxime-se na*); passed thereafter. For whoever studies the 51 verses: *à vista de* fails with verbs of motion."
+    },
+    {
+      "row": "| dirígere at the *vós* imperative |",
+      "text": "**Ps 118:133 *Gressus meos dírige* → *Endireitai os meus passos segundo o que dissestes***: the row followed; no remark from any reader in eight readings. Cost there: the echo with 118:128 *dirigébar* (*eu era dirigido*) is not heard. Options *Encaminhai* (MS1932), *Firmai* (DM1962, the Hebrew's)."
+    },
+    {
+      "row": "| deprecári / deprecátio |",
+      "text": "**Ps 118:169 follows the Ps 6 proposal: *Aproxime-se a minha prece*** (not at a cadence there, so *súplica* — the family of 118:58 *Supliquei* — could have stood; one word through the psalter was preferred; option in decision `deprecatio`). No reader remarked. It stands beside *postulátio* → *pedido* in 118:170."
+    },
+    {
+      "row": "| mandáre |",
+      "text": "**Ps 118:138 *Mandásti justítiam testimónia tua*: with a bare object *Mandastes os vossos testemunhos* was heard by the blind reader as \"you SENT reports\"** — *mandar* is two verbs in Brazil. *Mandar que* + subjunctive (as 118:4) is safe but the Latinist marked the added clause major; the verse now reads *Ordenastes como justiça os vossos testemunhos* (heard as \"Determinastes\"). So: *mandar* only with *que* or beside *mandáta*; with a thing as object, *ordenar*."
+    },
+    {
+      "row": "| audíre |",
+      "text": "**Ps 118:149 *Vocem meam audi* → *Escutai a minha voz*, as this row directs** — four verses after *exáudi me* → *escutai-me* (118:145), so the two Latin verbs are one there (the Greek keeps them apart too: ἐπάκουσον / ἄκουσον). D13's form *Ouvi-me a voz* is the option; no reader remarked."
+    },
+    {
+      "row": "| períre |",
+      "text": "**Ps 118:176 *sicut ovis, quæ périit* cannot follow: *ovelha que pereceu* is a dead sheep**, and the verse goes on *quære servum tuum*. *Períre* is both to perish and to be lost; *perecer* is only the first. There: *como ovelha que se perdeu* (DRB \"a sheep that is lost\"); passed every reader."
+    },
+    {
+      "row": "| valde / veheménter |",
+      "text": "**Ps 118:167 *diléxit ea veheménter* → *e os amou muito*** (held; short by three syllables). **118:140 *Ignítum … veheménter* → *está todo em brasa***: *muito em brasa* is not said; the Latinist (draft 16, minor) notes that *todo* is totality, not intensity — refused as the idiomatic intensive."
+    },
+    {
+      "row": "| nimis |",
+      "text": "**118:138 *et veritátem tuam nimis* → *e a vossa verdade sem medida***: Lewis & Short derive *nimis* from the root \"to measure\" and gloss \"beyond measure\"; passed all readers (the Latinist's own line had *sobremaneira*, which failed the other two readers at 118:96). Three renderings in the psalm, as this row foresaw: *à risca*, *muito*, *sem medida*."
+    },
+    {
+      "row": "| fíeri, jussive *Fiat* |",
+      "text": "**118:173 *Fiat manus tua ut salvet me* → *Seja a vossa mão para me salvar*: REFUSED BY THE STYLIST TWICE** (\"parece anunciar uma identificação que não chega\"; he wants *Que a vossa mão me venha salvar* / *Venha a vossa mão me salvar*). Held, because his lines put *veníre* for *fíeri* and the build is that of 118:76, which he passed; the Latinist and the blind reader had nothing against it. For Gustavo's ear — option in decision `fiat`."
+    },
+    {
+      "row": "| exquírere |",
+      "text": "**118:145 *requíram* is merged into it (*procurarei os vossos preceitos*)**: the Greek is ἐκζητήσω, the very verb behind *exquírere* all eight times in the psalm, so the variation is the Latin's elegance (D15's test) and Portuguese has no plain third verb (*requerer* is to petition an office). Decision `requiram` follows decision `exquirere`. 118:155 *non exquisiérunt* → *não procuraram*; 118:176 *quære* → *buscai*, kept apart to the end."
+    },
+    {
+      "row": "| scire |",
+      "text": "**118:152 *Inítio cognóvi de testimóniis tuis* → *Desde o início soube dos vossos testemunhos*** — the mirror case: there *cognóscere* takes *saber*, because *conhecer de* has no current regency (the stylist's worst line on draft 13) and the perfect *soube* is exactly \"came to know\". With 118:125 this makes the pair *conhecer / saber* follow Portuguese collocation rather than the Latin verb; the Greek merges them."
+    },
+    {
+      "row": "| propter |",
+      "text": "**118:154 *propter elóquium tuum* → *pelo que dissestes*** (Matos Soares's *pela*): *por causa do que dissestes* stood beside *a minha causa* in the same verse and echoed one word in two senses (the stylist). The row stands elsewhere."
+    },
+    {
+      "row": "| judicáre, *júdica me* |",
+      "text": "**Ps 118:154 *Júdica judícium meum*: *Julgai o meu juízo* was heard by the blind reader FIRST as \"evaluate the opinion I formed\"** (*o meu julgamento* runs the same risk). Now ***Julgai em juízo a minha causa*** (from the stylist): the law-word and the figure kept, the right sense heard; passed the Latinist twice. Cost: *causa* is another Latin word — 9:5 *judícium meum et causam meam* and 34:23 set the two side by side and must decide locally."
+    },
+    {
+      "row": "| redímere |",
+      "text": "**Ps 118:134, 154 reached the same verb independently: *Resgatai-me das calúnias dos homens*; *Julgai em juízo a minha causa, e resgatai-me*** — for the reason this row gives (*Redimi-me* / *Remi-me* are also \"I redeemed myself\"; rule 3). The Diurnal has the verb at 118:134. Passed the Latinist four times, the stylist and the blind reader twice each, with no remark. In 118:154 it rhymes with *vivificai-me* at the cadence — the Latin's own echo (*rédime me … vivífica me*), accepted."
+    }
+  ],
+  "terms": [
+    "| tabéscere | definhar (*O meu zelo me fez definhar*; *Vi os transgressores, e definhava*) | open | Ps 118:139, 158 (MS1932; DRB \"pine away\"); L&S \"to melt gradually … waste, pine away\"; ἐκτήκω. Six verses (38:12, 106:26, 111:10, 118:139, 118:158, 138:21 — grep); **138:21 *super inimícos tuos tabescébam* is the near twin of 118:158**. Listed as unknown by the blind reader, passed by the stylist. Options *consumir-se* (consúmere's), *derreter-se* |",
+    "| prævenire (intransitive) | adiantar-se (*Adiantei-me bem cedo, e clamei*; *Os meus olhos se adiantaram para vós ao amanhecer*) | open | Ps 118:147, 148 — twice at the head of neighbouring verses; heard rightly by the blind reader (\"comecei a rezar cedo\"). *Antecipar* is left to *anticipáre* (76:5 *Anticipavérunt vigílias óculi mei*, 78:8). **Not settled: the transitive use with a person** — 16:13 *prǽveni eum*, 17:19, 20:4 *prævenísti eum in benedictiónibus*, 58:10 *misericórdia ejus prævéniet me*, 87:14 *orátio mea prævéniet te*; also 67:26, 67:31b (nine verses with the stem, by grep) — which will want *vir ao encontro de* or the like |",
+    "| in maturitáte · dilúculo | bem cedo · ao amanhecer | working | Ps 118:147, 148. *matúritas* here is earliness (L&S \"promptness\"; ἐν ἀωρίᾳ), not ripeness; *dilúculum* \"daybreak\" |",
+    "| serváre (a law, a covenant) | observar (*Observei os vossos mandamentos e os vossos testemunhos*) | open | Ps 118:168, one verse after *custodívit* → *guardou*: the Greek repeats (ἐφύλαξεν / ἐφύλαξα) but Portuguese has the plain pair, so the Latin's variation is kept at no cost. Five verses (11:8, 77:57, 88:29, 102:17, 118:168 — grep); **11:8 *servábis nos: et custódies nos* sets it beside *custodíre* and has persons as object — decides locally**. Heard rightly (\"Cumpri\") |",
+    "| scándalum | tropeço (*e não há para eles tropeço*) | open | Ps 118:165 — L&S cite this verse: \"that which causes one to stumble\". **The cognate *escândalo* is a public outrage in Portuguese** (and a proparoxytone). Seven verses (48:14, 49:20, 68:23, 105:35, 118:165, 139:6 *juxta iter scándalum posuérunt mihi*, 140:9 — grep), several beside *láqueus* → laço. Heard as obstacle first, fall into sin second — both are in it. MS1932 *ocasião de queda* explains |",
+    "| gratis | sem motivo (*Os príncipes me perseguiram sem motivo*) | open | Ps 118:161 (DM1962's phrase; δωρεάν). Six verses (34:7, 34:19, 68:5 *odérunt me gratis*, 108:3, 118:161, 119:7 — grep). *De graça* is free of charge; *sem causa* is *sine causa*'s (3:8) — MS1932 and DRB merge them |",
+    "| formidáre (a) | ter pavor de (*e o meu coração teve pavor das vossas palavras*) | open | Ps 118:161; stronger than *timére* → temer (L&S \"fear, dread, be terrified\"); the same build in 103:7 *a voce tonítrui tui formidábunt*; the noun *formído* 54:5, 88:41. MS1932 merges into *temer* |",
+    "| eructáre | fazer jorrar (*Os meus lábios farão jorrar um hino*) | open | Ps 118:171. L&S \"to belch or vomit forth … emit\", church Latin \"to utter\"; the gush kept, the belch not. Five verses (18:3 *Dies diéi erúctat verbum*, 44:2a *Eructávit cor meum verbum bonum*, 118:171, 143:13, 144:7 — grep); tried on 44:2a and 144:7. Passed every reader. Options *proferir* (DRB), *romper num hino* (MS1932); *derramar* is wanted for *effúndere* |",
+    "| éxitus aquárum | nascentes de água (*Os meus olhos verteram nascentes de água*) | open | Ps 118:136; L&S *éxitus* \"outlet\"; DRB \"springs of water\"; serves 106:33, 35. Apart from *decúrsus aquárum* → cursos de água (1:3a). The verb there, *deduxérunt*, is *verteram* (the idiom of tears): *fizeram descer* was refused by the stylist, his *derramaram* is left to *effúndere* |",
+    "| declarátio | explicação (*A explicação das vossas palavras ilumina*) | open | Ps 118:130 only — L&S cite the verse: \"a making clear, disclosure, exposition\"; δήλωσις. MS1932's word. The cognate *declaração* is a statement made. Passed every reader |",
+    "| illumináre (fáciem super) | iluminar (*Iluminai a vossa face sobre o vosso servo*) | open | Ps 118:135, in a stanza that also has *illúminat* (118:130): the repetition is the Latin's own (the Greek has two verbs) and is kept. **Refused by the stylist twice** (he wants *Fazei brilhar a vossa face*, DRB's idiom); the blind reader paraphrased it rightly both times; DM1962 has the same build. 66:2 *illúminet vultum suum super nos* and 30:17 *Illústra fáciem tuam* will meet this. For Gustavo's ear |",
+    "| ignítus | em brasa (*O que dissestes está todo em brasa*) | open | Ps 118:140 only. Three wordings: *é muito ardente* (Latinist passed; heard as \"fervent\" first) → *é fogo muito ardente* (Latinist: CRITICAL — a noun predicate for a passive participle) → *está todo em brasa* (Latinist: \"defensável\"; blind reader: the fire image). Kept apart from *igne examinátum* (11:7, 17:31), which is DRB's sense here (\"refined\") |",
+    "| injustítia | injustiça | working | Ps 118:133 *non dominétur mei omnis injustítia* → *não me domine injustiça alguma*; apart from *iníquitas* → iniquidade (the Greek has ἀνομία) |",
+    "| párvuli | pequeninos | working | Ps 118:130 (MS1932; DRB \"little ones\"); heard as children — which is the Latin; not the Hebrew-family *simples* |",
+    "| attráhere spíritum | aspirar o ar (*Abri a minha boca, e aspirei o ar*) | open | Ps 118:131 only; L&S quote Pliny, *pulmo attrahens ac reddens animam*. The Latin is open between breath and spirit; Portuguese *espírito* is never breath, so the breath was kept (DRB \"panted\", MS1932 *respirei*). Option *e atraí o espírito* |",
+    "| juxta (+ accusative: according to) | conforme | working | Ps 118:169 *juxta elóquium tuum*, one verse before *secúndum elóquium tuum* → *segundo*; one Greek phrase, two Latin prepositions, and a plain Portuguese pair |",
+    "| inítio · princípium | início · princípio | working | Ps 118:152, 160 — the Latin varies (the Greek does not: ἀρχάς / ἀρχή) and Portuguese has the pair. *Inítio* → *Desde o início* (DRB, MS1932); the Latinist asked once, on his fourth reading, for *No início* |",
+    "| postulátio | pedido | working | Ps 118:170 — L&S cite the verse; goes with *postuláre* → pedir (2:8); *petição* is left for *petítio* (19:7a, 36:4, 105:15) |",
+    "| laudem dícere | dar louvor (*Sete vezes por dia vos dei louvor*) | working | Ps 118:164; the noun *laus* → louvor kept, the light verb yields (as *bonitátem fácere* → usar de bondade) |",
+    "| spólia | despojos | open | Ps 118:162 (MS1932). Listed as unknown by the blind reader, who gave \"remains\" beside \"spoils\" and said the verse's joy points to riches; 67:13 *dívidere spólia* will meet it. Option *despojos de guerra* |",
+    "| adolescéntulus | muito jovem | working | Ps 118:141 (L&S \"a very young man\"; DRB); 118:9 *adolescéntior* → o jovem; 67:28 *Bénjamin adolescéntulus* |",
+    "| longe fíeri a | ficar longe de | working | Ps 118:150 *a lege autem tua longe facti sunt* → *mas da vossa lei ficaram longe*; *longe* and *perto* kept as words through 118:150, 151, 155 |"
+  ],
+  "formulas": [
+    "| *ut custódiam mandáta tua* (118:134b = 118:146b) | *para que eu guarde os vossos mandamentos* | working — Ps 118 |",
+    "| *secúndum judícium tuum vivífica me* (118:149b, with *et*; 118:156b) | *segundo o vosso juízo vivificai-me* | working — Ps 118; *vivificai-me* always last, as *vivífica me* is (nine verses) |",
+    "| *in conspéctu tuo* (118:168, 169, 170) | *na / da / na vossa presença* | open (hangs on *conspéctus*) — Ps 118: the noun phrase repeats, each verb takes its own preposition |",
+    "| *mandáta tua non sum oblítus* (118:176, the psalm's last words; the phrase closes 118:61, 83, 109, 141, 153 with other law-words) | *não esqueci os vossos mandamentos* | working — Ps 118 |"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "6f9fe81d89f5d11d4c752fd79515e03662390887cc65216d5a1a5ccc51ac3914",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T04:03:38+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"2:2\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"convenérunt in unum\",\n          \"portuguese\": \"se reuniram como um só\",\n          \"problem\": \"«Como um só» explicita uma unidade de ação que o latim pode sugerir, mas não exige; «in unum» pode indicar simplesmente a reunião conjunta.\",\n          \"fix\": \"se reuniram juntos\"\n        }\n      ]\n    },\n    {\n      \"id\": \"2:11\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Servíte Dómino\",\n          \"portuguese\": \"Sede servos do Senhor\",\n          \"problem\": \"É uma interpretação defensável de «servire», mas substitui a ordem direta de servir pela formulação de uma condição de servo.\",\n          \"fix\": \"Servi ao Senhor\"\n        }\n      ]\n    },\n    {\n      \"id\": \"2:12\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"et pereátis de via justa\",\n          \"portuguese\": \"e não pereçais fora do caminho justo\",\n          \"problem\": \"«De via» exprime procedência ou separação do caminho; «fora do caminho» transforma essa relação em localização e resolve a expressão peculiar do latim.\",\n          \"fix\": \"e não pereçais do caminho justo\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o restante do conteúdo latino; a principal perda está na relação expressa por «de via justa». Todos os versículos conservam os mesmos sinais de divisão, na mesma ordem: um único asterisco por versículo.\"\n}"
+}

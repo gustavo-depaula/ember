@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Salmo 4 — Psalterium review</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #FAF6F0;
+    --ink: #2C2418;
+    --ink-2: #6B5D4F;
+    --rubric: #6B1D2A;
+    --gold: #A8872E;
+    --gold-soft: #D4C088;
+    --rule: #E5DDD2;
+    --serif: 'EB Garamond', 'Cormorant Garamond', Garamond, 'Iowan Old Style', Georgia, serif;
+    --caps: 'Cinzel', 'Trajan Pro', var(--serif);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0E0D0C;
+      --ink: #EDE4D8;
+      --ink-2: #A89A8C;
+      --rubric: #C75B6B;
+      --gold: #D4A63A;
+      --gold-soft: #6E5C32;
+      --rule: #3A342E;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; scroll-padding-top: 4.5rem; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 1.25rem;
+    line-height: 1.55;
+    font-feature-settings: 'liga', 'onum';
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 2px; }
+
+  /* ── the bar that stays with you while you pray ── */
+  .bar {
+    position: sticky; top: 0; z-index: 5;
+    display: flex; flex-wrap: wrap; gap: .35rem 2.25rem; justify-content: center; align-items: baseline;
+    padding: .7rem 1.25rem;
+    background: color-mix(in srgb, var(--paper) 94%, transparent);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--rule);
+    font-size: 1.05rem;
+  }
+  .switch { display: inline-flex; gap: .9rem; align-items: baseline; border: 0; margin: 0; padding: 0; }
+  .switch[hidden] { display: none; }
+  .switch legend { float: left; margin-right: .9rem; padding: 0; color: var(--ink-2); font-style: italic; }
+  .switch input { position: absolute; opacity: 0; pointer-events: none; }
+  .switch label { color: var(--ink-2); cursor: pointer; padding-bottom: 1px; border-bottom: 1px solid transparent; }
+  .switch label:hover { color: var(--ink); }
+  .switch input:checked + label { color: var(--ink); border-bottom-color: var(--gold); }
+  .switch input:focus-visible + label { outline: 2px solid var(--gold); outline-offset: 3px; }
+
+  /* ── head ── */
+  header.leaf-head { text-align: center; padding: 4.5rem 1.25rem 2.5rem; }
+  .cross { color: var(--gold); font-size: 1.6rem; line-height: 1; }
+  h1 { font-weight: 400; font-size: clamp(2.6rem, 6vw, 3.9rem); line-height: 1.05; margin: 1.1rem 0 .4rem; letter-spacing: .005em; }
+  .incipit { font-style: italic; font-size: 1.45rem; color: var(--ink-2); margin: 0; }
+  .standing { max-width: 34rem; margin: 1.6rem auto 0; color: var(--ink-2); font-size: 1.08rem; }
+
+  /* ── the psalm: prayer is architecture — one colon to a line ── */
+  .psalm { max-width: 66rem; margin: 0 auto; padding: 1rem 1.5rem 3rem; }
+  .verse { display: grid; grid-template-columns: 1fr 1fr; column-gap: 3.5rem; padding: .55rem 0; }
+  .side { position: relative; padding-left: 2.6rem; }
+  .num { position: absolute; left: 0; top: .28em; width: 2rem; text-align: right; font-size: .78rem; color: var(--ink-2); font-feature-settings: 'lnum'; }
+  .colon { display: block; }
+  .colon + .colon { padding-left: 1.6rem; }
+  .mark { color: var(--rubric); padding-left: .2em; }
+  /* no lang="la" on the Latin: EB Garamond's Latin-language forms turn every u into v (Cvm, Devs) */
+  .la { color: var(--ink-2); }
+  .verse:first-child .num + .colon::first-letter {
+    font-size: 3.1em; line-height: .8; float: left; padding: .06em .09em 0 0; color: var(--rubric);
+  }
+  .open { text-decoration: underline dotted var(--gold); text-decoration-thickness: 1.5px; text-underline-offset: .22em; }
+  .open:hover { text-decoration-style: solid; }
+  .changed { background: linear-gradient(transparent 62%, color-mix(in srgb, var(--gold-soft) 55%, transparent) 62%); }
+  /* other psalters, under the column of their language */
+  .cf { padding: .35rem 0 .5rem 2.6rem; font-size: .98rem; line-height: 1.4; color: var(--ink-2); }
+  .cf p { margin: 0 0 .3rem; }
+  .cf .vname { font-style: italic; color: var(--rubric); margin-right: .45rem; }
+  .cf sup { font-size: .68em; margin-right: .15em; font-feature-settings: 'lnum'; }
+  .cf .absent { font-style: italic; opacity: .75; }
+
+  /* a decision, opened where the word stands */
+  #pop {
+    position: absolute; z-index: 10; width: min(27rem, 92vw); max-height: 80vh; overflow: auto;
+    background: var(--paper); border-top: 2px solid var(--gold);
+    box-shadow: 0 1px 0 var(--rule), 0 18px 48px -12px color-mix(in srgb, var(--ink) 38%, transparent);
+    padding: .2rem 0 1rem;
+  }
+  #pop[hidden] { display: none; }
+  #pop .decision { padding: 1rem 1.4rem 0; }
+  #pop .decision h3 { font-size: 1.25rem; }
+  #pop .why, #pop .options label, #pop textarea { font-size: 1rem; }
+  #pop .close { display: block; margin: .8rem 1.4rem 0 auto; font-size: 1rem; }
+  @media (max-width: 760px) {
+    #pop { position: fixed; left: 0 !important; right: 0; top: auto !important; bottom: 0; width: 100%; max-height: 70vh; }
+  }
+
+  .legend { max-width: 66rem; margin: 0 auto; padding: 0 1.5rem 0 4.1rem; color: var(--ink-2); font-size: 1rem; font-style: italic; }
+
+  @media (max-width: 760px) {
+    body { font-size: 1.15rem; }
+    .verse { grid-template-columns: 1fr; row-gap: .15rem; padding: .7rem 0; }
+    .la { font-size: .92em; }
+    .la .num { display: none; }
+    .legend { padding-left: 1.5rem; }
+  }
+
+  /* ── section markers ── */
+  .marker { text-align: center; margin: 4.5rem 0 2.25rem; }
+  .marker h2 { font-family: var(--caps); font-weight: 500; font-size: .95rem; letter-spacing: .24em; text-transform: uppercase; color: var(--rubric); margin: .5rem 0 0; }
+  .marker .fleuron { color: var(--gold); font-size: 1.3rem; }
+
+  .prose { max-width: 40rem; margin: 0 auto; padding: 0 1.5rem; }
+  .prose p { margin: 0 0 1.1rem; }
+  .prose em { font-style: italic; }
+
+  /* ── the governing question ── */
+  .fixes { max-width: 52rem; margin: 2rem auto; padding: 0 1.5rem; }
+  .fix { display: grid; grid-template-columns: 3.2rem 1fr 1fr; column-gap: 1.5rem; padding: .7rem 0; border-top: 1px solid var(--rule); font-size: 1.08rem; }
+  .fix:last-child { border-bottom: 1px solid var(--rule); }
+  .fix .ref { color: var(--ink-2); font-size: .85rem; padding-top: .25em; font-feature-settings: 'lnum'; }
+  .fix .cost { grid-column: 2 / -1; color: var(--ink-2); font-style: italic; font-size: 1rem; }
+  .fix del { text-decoration: none; }
+  @media (max-width: 760px) { .fix { grid-template-columns: 2.6rem 1fr; } .fix .cost, .fix .theirs { grid-column: 2; } }
+
+  /* ── decisions ── */
+  .decision { max-width: 40rem; margin: 0 auto; padding: 1.9rem 1.5rem 0; }
+  .decision h3 { font-weight: 400; font-size: 1.5rem; line-height: 1.25; margin: 0 0 .2rem; }
+  .decision h3 .ref { font-size: .85rem; color: var(--ink-2); margin-right: .55rem; font-feature-settings: 'lnum'; }
+  .decision h3 i { color: var(--ink-2); }
+  .why { color: var(--ink-2); font-size: 1.05rem; margin: .1rem 0 .7rem; }
+  .options { list-style: none; margin: 0; padding: 0; }
+  .options li { position: relative; }
+  .options input { position: absolute; opacity: 0; pointer-events: none; }
+  .options label { display: block; padding: .22rem 0 .22rem 1.9rem; cursor: pointer; color: var(--ink-2); }
+  .options label::before { content: '◦'; position: absolute; left: .45rem; color: var(--ink-2); }
+  .options label:hover { color: var(--ink); }
+  .options input:checked + label { color: var(--ink); }
+  .options input:checked + label::before { content: '❧'; left: .15rem; color: var(--gold); }
+  .options input:focus-visible + label { outline: 2px solid var(--gold); outline-offset: 2px; }
+  .tag { font-style: italic; font-size: .95rem; color: var(--ink-2); }
+  .tag.warn { color: var(--rubric); }
+  textarea {
+    display: block; width: 100%; margin-top: .6rem; padding: .35rem 0; min-height: 2.2rem; resize: vertical;
+    font: inherit; font-size: 1.05rem; font-style: italic; color: var(--ink);
+    background: transparent; border: 0; border-bottom: 1px solid var(--rule); border-radius: 0;
+  }
+  textarea::placeholder { color: var(--ink-2); opacity: .75; }
+  textarea:focus { outline: none; border-bottom-color: var(--gold); }
+  .stumbles textarea { min-height: 7rem; }
+
+  /* ── vós / tu ── */
+  .pair { max-width: 46rem; margin: 0 auto; padding: 1rem 1.5rem; }
+  .pair .src { color: var(--ink-2); font-style: italic; font-size: 1.05rem; margin: 0 0 .25rem; }
+  .pair .src .ref { font-style: normal; font-size: .85rem; margin-right: .5rem; font-feature-settings: 'lnum'; }
+  .pair p { margin: 0; padding-left: 2.6rem; position: relative; }
+  .pair .who { position: absolute; left: 0; color: var(--ink-2); font-style: italic; font-size: .95rem; top: .12em; }
+  .pair .muted { color: var(--ink-2); }
+  .listen { max-width: 40rem; margin: 2rem auto 0; padding: 0 1.5rem; }
+  .listen dt { margin-top: 1rem; }
+  .listen dd { margin: 0; color: var(--ink-2); font-size: 1.08rem; }
+
+  /* ── hand it back ── */
+  .handback { text-align: center; padding: 3.5rem 1.5rem 6rem; }
+  button {
+    font: inherit; color: var(--ink); background: transparent; cursor: pointer;
+    border: 0; border-bottom: 1px solid var(--gold); padding: .15rem .1rem; border-radius: 0;
+  }
+  button:hover { color: var(--rubric); }
+  button.quiet { border-bottom-color: transparent; color: var(--ink-2); font-size: 1rem; margin-left: 1.5rem; }
+  #copied { display: block; min-height: 1.6em; margin-top: .8rem; color: var(--ink-2); font-style: italic; font-size: 1.05rem; }
+  #fallback { max-width: 40rem; margin: 1rem auto 0; min-height: 14rem; font-style: normal; font-size: .95rem; text-align: left; }
+  #fallback[hidden] { display: none; }
+</style>
+</head>
+<body>
+
+<nav class="bar" aria-label="How the psalm is shown">
+  <fieldset class="switch"><legend>address</legend>
+    <input type="radio" name="address" id="a-vos" value="vos" checked><label for="a-vos">vós</label>
+    <input type="radio" name="address" id="a-tu" value="tu"><label for="a-tu">tu</label>
+  </fieldset>
+  <fieldset class="switch"><legend>pointing</legend>
+    <input type="radio" name="pointing" id="p-app" value="app" checked><label for="p-app">as Ember shows it</label>
+    <input type="radio" name="pointing" id="p-full" value="full"><label for="p-full">with flexes</label>
+  </fieldset>
+  <fieldset class="switch"><legend>wording</legend>
+    <input type="radio" name="preset" id="w-draft" value="draft"><label for="w-draft">draft 2</label>
+    <input type="radio" name="preset" id="w-stylist" value="stylist"><label for="w-stylist">the stylist's</label>
+    <input type="radio" name="preset" id="w-mine" value="mine"><label for="w-mine">my choices</label>
+  </fieldset>
+  <fieldset class="switch" id="compare-switch"><legend>beside it</legend>
+    <input type="radio" name="compare" id="c-none" value="none" checked><label for="c-none">nothing</label>
+    <input type="radio" name="compare" id="c-pt" value="pt"><label for="c-pt">português</label>
+    <input type="radio" name="compare" id="c-en" value="en"><label for="c-en">english</label>
+    <input type="radio" name="compare" id="c-all" value="all"><label for="c-all">both</label>
+  </fieldset>
+</nav>
+<div id="pop" role="dialog" aria-label="Decide this wording" hidden></div>
+
+<header class="leaf-head">
+  <div class="cross" aria-hidden="true">✠</div>
+  <h1>Salmo 4</h1>
+  <p class="incipit">Cum invocárem</p>
+  <p class="standing">Draft 2, Sunday Compline. Pray it aloud first, both ways; then decide below. Every choice you make rewrites the psalm here, so what you pray is what you chose. Nothing is final until you say so.</p>
+</header>
+
+<main>
+  <section class="psalm" id="psalm" aria-label="Psalm 4, Latin and Portuguese"></section>
+  <p class="legend" id="legend">Dotted gold marks words still waiting for your decision — touch one to choose its wording where it stands. A gold wash marks where your choice departs from draft 2.</p>
+
+  <div class="marker"><div class="fleuron" aria-hidden="true">❦</div><h2>What is yours to decide</h2></div>
+
+  <div class="prose">
+    <p>The Latinist critic and both judges found nothing to correct. The stylist, reading only for the mouth, marked eight of the ten verses as not yet native: <em>“várias construções fazem ouvir o trabalho da tradução durante a oração.”</em></p>
+    <p>Almost every fix it offered buys fluency by leaving the Latin. That is the project’s first rule against its first style priority, and no pipeline can settle it. Switch the wording above to <em>the stylist’s</em>, pray it, switch back, and say where the line is. Your answer becomes the brief for every psalm after this one.</p>
+  </div>
+
+  <div class="fixes" id="fixes"></div>
+  <div id="decisions"></div>
+
+  <div class="marker"><div class="fleuron" aria-hidden="true">❦</div><h2>Vós ou tu</h2></div>
+
+  <div class="prose">
+    <p>Decided on 20 September 2026: <em>vós</em>, for the whole psalter. What follows is the record of what was weighed — each pair identical but for the address — and the costs of <em>vós</em> that the translation now has to manage. The <em>tu</em> switch above still works, for hearing the road not taken.</p>
+  </div>
+  <div id="pairs"></div>
+
+  <dl class="listen">
+    <dt>The endings at the cadence</dt>
+    <dd><i>Vós</i> closes every perfect in <i>-astes, -estes</i>; <i>tu</i> in <i>-aste, -este</i>. Both sing. The difference is the sibilant, verse after verse.</dd>
+    <dt>Length</dt>
+    <dd><i>Vosso</i> is a syllable longer than <i>teu</i>, and Psalm 118 has a possessive in nearly every verse. Listen for whether the <i>vós</i> lines drag.</dd>
+    <dt>Psalm 90 changes whom it speaks to</dt>
+    <dd>Under <i>vós</i>, 90:9 turns audibly from God to the just man in mid-verse. Under <i>tu</i> the two halves sound like one addressee.</dd>
+    <dt>Psalm 4 does the reverse</dt>
+    <dd>Under <i>vós</i>, <i>atendei</i> (to God) and <i>esperai</i> (to the crowd) share a form. Under <i>tu</i>, God is singular and the crowd plural, as in the Latin.</dd>
+    <dt>A trap only <i>vós</i> has</dt>
+    <dd><i>Ouvi a minha oração</i> is also “I heard my prayer”. The <i>vós</i> imperative of every <i>-ir</i> verb collides with the first-person past. It is why <i>exaudire</i> became <i>atender</i> here.</dd>
+    <dt>The ear you already have</dt>
+    <dd>The Pai-Nosso and the Ave-Maria are <i>vós</i>. Which line sounds like prayer, and which like a Bible being read?</dd>
+  </dl>
+
+  <div id="address-decision"></div>
+
+  <div class="marker"><div class="fleuron" aria-hidden="true">❦</div><h2>Where the mouth stumbled</h2></div>
+  <div class="decision stumbles">
+    <p class="why">Verse, the words, what happened. Date it. This is the evidence no model can produce.</p>
+    <textarea id="stumbles" placeholder="4:5 — “compungi-vos”: lost the stress at recitation pace…" aria-label="Stumbles while praying"></textarea>
+  </div>
+
+  <div class="handback">
+    <button id="copy" type="button">Copy my decisions</button>
+    <button id="reset" type="button" class="quiet">Start over</button>
+    <span id="copied" role="status"></span>
+    <textarea id="fallback" hidden aria-label="Your decisions as text"></textarea>
+  </div>
+</main>
+
+<!-- other psalters: built by compare.py into the gitignored consult/ folder; the page works without it -->
+<script src="consult/compare-ps004.js"></script>
+<script>
+/* ───────── the text ───────── */
+// [vós|tu] = differs only by address · {slot} = an open decision
+const verses = [
+  ['4:2a', 'Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.',
+           'Quando invoquei, {exaudivit} o Deus da minha justiça: * na tribulação {dilatasti}.'],
+  ['4:2b', 'Miserére mei, * et exáudi oratiónem meam.',
+           '[Tende|Tem] piedade de mim, * e {exaudi} a minha oração.'],
+  ['4:3',  'Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?',
+           'Filhos dos homens, {gravi} * por que amais a vaidade, e buscais a mentira?'],
+  ['4:4',  'Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.',
+           'E sabei que o Senhor {mirificavit}: * o Senhor {exaudiet} quando eu clamar a ele.'],
+  ['4:5',  'Irascímini, et nolíte peccáre: ‡ quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini.',
+           'Irai-vos, e não pequeis: ‡ do que dizeis nos vossos corações, * {compungimini}.'],
+  ['4:6',  'Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?',
+           '{sacrificate} de justiça, † e esperai no Senhor. * Muitos dizem: Quem nos mostra {bona}?'],
+  ['4:7',  'Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.',
+           '{signatumLine} * [destes|deste] alegria no meu coração.'],
+  ['4:8',  'A fructu fruménti, vini, et ólei sui * multiplicáti sunt.',
+           'Pelo fruto do seu trigo, vinho e azeite * {multiplicati}.'],
+  ['4:9',  'In pace in idípsum * dórmiam, et requiéscam;',
+           'Em paz, {idipsum}, * dormirei e repousarei;'],
+  ['4:10', 'Quóniam tu, Dómine, singuláriter in spe * constituísti me.',
+           'Porque {singulariter} * me [estabelecestes|estabeleceste].'],
+];
+
+// option: [label shown, forms per slot, tag, isStylist]; first option is always draft 2
+const decisions = [
+  { id: 'dilatasti', ref: '4:2a', latin: 'dilatásti mihi',
+    why: 'The image is width, against tribulation as a tight place. The Latin verb has no object; the Claude judge counts “espaço” a minor addition.',
+    options: [
+      ['me [abristes|abriste] espaço', { dilatasti: 'me [abristes|abriste] espaço' }, 'draft 2'],
+      ['me [destes|deste] largueza', { dilatasti: 'me [destes|deste] largueza' }],
+      ['me [alargastes|alargaste]', { dilatasti: 'me [alargastes|alargaste]' }, 'no object, as the Latin'],
+      ['me [pusestes|puseste] ao largo', { dilatasti: 'me [pusestes|puseste] ao largo' }, 'Matos Soares 1932 — idiomatic, keeps the width, no object supplied'],
+    ] },
+  { id: 'exaudire', ref: '4:2a · 2b · 4', latin: 'exaudívit, exáudi, exáudiet',
+    why: '74 times in the psalter, 33 of them the imperative, and a common versicle of the Office besides. The word study (words/exaudire.md) found that exáudi stands beside inténde in five verses, and inténde wants “atender” — so it recommends “escutar”.',
+    options: [
+      ['atender', { exaudivit: 'atendeu-me', exaudi: '[atendei|atende]', exaudiet: 'me atenderá' }, 'draft 2 — says hear and grant, but collides with inténde'],
+      ['escutar', { exaudivit: 'escutou-me', exaudi: '[escutai|escuta]', exaudiet: 'me escutará' }, 'the study’s recommendation — a hearing verb, as exaudire is; free for all 74 places'],
+      ['ouvir', { exaudivit: 'ouviu-me', exaudi: '[ouvi|ouve]', exaudiet: 'me ouvirá' }, 'ruled out now that the address is vós: “ouvi” is also “I heard”', false, true],
+    ] },
+  { id: 'gravi', ref: '4:3', latin: 'úsquequo gravi corde?',
+    why: 'The Latin has no verb. The stylist’s ear wants one.',
+    options: [
+      ['até quando de coração pesado?', { gravi: 'até quando de coração pesado?' }, 'draft 2 — verbless, as the Latin'],
+      ['até quando tereis o coração pesado?', { gravi: 'até quando tereis o coração pesado?' }, 'supplies a verb', true],
+    ] },
+  { id: 'mirificavit', ref: '4:4', latin: 'mirificávit sanctum suum',
+    why: 'Recurs at 15:3, 16:7 and 30:22, so it is a glossary decision. “Engrandecer” would collide with magnificáre.',
+    options: [
+      ['fez maravilhoso o seu santo', { mirificavit: 'fez maravilhoso o seu santo' }, 'draft 2 — the stylist hears it as assembled'],
+      ['tornou admirável o seu santo', { mirificavit: 'tornou admirável o seu santo' }],
+      ['engrandeceu o seu santo', { mirificavit: 'engrandeceu o seu santo' }, 'one verb, like the Latin; collides with magnificáre'],
+      ['fez maravilhas pelo seu santo', { mirificavit: 'fez maravilhas pelo seu santo' }, 'says what the Hebrew says, not the Latin', true, true],
+    ] },
+  { id: 'compungimini', ref: '4:5', latin: 'in cubílibus vestris compungímini',
+    why: 'Compungi is to be stung by conscience. Is compungir-se a word the person in the pew owns?',
+    options: [
+      ['nos vossos leitos compungi-vos', { compungimini: 'nos vossos leitos compungi-vos' }, 'draft 2 — keeps the sting and the Latin’s verb-last cadence'],
+      ['nos vossos leitos arrependei-vos', { compungimini: 'nos vossos leitos arrependei-vos' }, 'the plainer word, the Latin’s order'],
+      ['arrependei-vos nos vossos leitos', { compungimini: 'arrependei-vos nos vossos leitos' }, 'loses the sting; moves the verb off the cadence', true],
+    ] },
+  { id: 'sacrificate', ref: '4:6', latin: 'Sacrificáte sacrifícium',
+    why: 'The Latin repeats the root on purpose. The stylist could not say it cleanly.',
+    options: [
+      ['Sacrificai um sacrifício', { sacrificate: 'Sacrificai um sacrifício' }, 'draft 2 — the repetition stays'],
+      ['Oferecei um sacrifício', { sacrificate: 'Oferecei um sacrifício' }, 'loses the Latin’s own repetition', true],
+    ] },
+  { id: 'bona', ref: '4:6', latin: 'Quis osténdit nobis bona?',
+    why: 'Bona is plural, “good things”. The reader who saw only the Portuguese heard “os bens” as possessions.',
+    options: [
+      ['os bens', { bona: 'os bens' }, 'draft 2'],
+      ['o bem', { bona: 'o bem' }, 'singular; abstract'],
+      ['coisas boas', { bona: 'coisas boas' }],
+      ['o que é bom', { bona: 'o que é bom' }],
+    ] },
+  { id: 'signatum', ref: '4:7', latin: 'Signátum est',
+    why: 'A stamped mark, as on a coin or a seal; perfect passive. The Hebrew’s “lift up” is not what Jerome wrote.',
+    options: [
+      ['marcada', { signatum: 'marcada' }, 'draft 2 — plainest, and shortest'],
+      ['assinalada', { signatum: 'assinalada' }, 'cognate with signum; three syllables longer'],
+      ['impressa', { signatum: 'impressa' }, 'the coin-stamp sense'],
+      ['gravada', { signatum: 'gravada' }, 'Matos Soares 1932'],
+    ] },
+  { id: 'ordo', ref: '4:7', latin: 'word order',
+    why: 'The stylist heard the participle-first opening as manufactured solemnity. But the Latin column beside it opens with Signátum.',
+    options: [
+      ['A luz do [vosso|teu] rosto está {signatum} sobre nós', { ordo: 'subject' }, 'draft 2 — for the ear'],
+      ['{Signatum} está sobre nós a luz do [vosso|teu] rosto', { ordo: 'latin' }, 'the Latin’s order, for the eye crossing columns'],
+    ] },
+  { id: 'multiplicati', ref: '4:8', latin: 'multiplicáti sunt',
+    why: 'The Latin’s masculine plural excludes wheat, wine and oil as the subject. The Portuguese does not, and the ear waits to learn who multiplied.',
+    options: [
+      ['se multiplicaram', { multiplicati: 'se multiplicaram' }, 'draft 2 — subject unnamed, as the Latin'],
+      ['eles se multiplicaram', { multiplicati: 'eles se multiplicaram' }, 'names a subject', true],
+      ['foram multiplicados', { multiplicati: 'foram multiplicados' }, 'keeps the passive'],
+    ] },
+  { id: 'idipsum', ref: '4:9', latin: 'in idípsum',
+    why: 'ἐπὶ τὸ αὐτό; Jerome’s own later word is simul. It also stands at 33:4, 40:7, 61:10, 73:6 and 121:3 — say in your note whether it must be one rendering everywhere.',
+    options: [
+      ['a um só tempo', { idipsum: 'a um só tempo' }, 'draft 2'],
+      ['juntamente', { idipsum: 'juntamente' }, 'draft 1 — two reviewers asked: together with what?'],
+      ['nisso mesmo', { idipsum: 'nisso mesmo' }, 'the calque; leaves Augustine’s reading open'],
+    ] },
+  { id: 'singulariter', ref: '4:10', latin: 'singuláriter in spe',
+    why: 'κατὰ μόνας. The adverb can lean on God, “you alone”, or on me, “apart”. The Latin leaves it open.',
+    options: [
+      ['[vós|tu], Senhor, a sós na esperança', { singulariter: '[vós|tu], Senhor, a sós na esperança' }, 'draft 2 — as open as the Latin'],
+      ['[vós|tu], Senhor, singularmente na esperança', { singulariter: '[vós|tu], Senhor, singularmente na esperança' }, 'draft 1 — read as essay prose'],
+      ['só [vós|tu], Senhor, na esperança', { singulariter: 'só [vós|tu], Senhor, na esperança' }, 'closes the ambiguity', true],
+    ] },
+];
+
+const governing = { id: 'governing', ref: '', latin: '',
+  title: 'How strange may it sound?',
+  why: 'This one changes no word by itself. It tells the next psalm’s translator, and its stylist, what is not negotiable.',
+  options: [
+    ['The Latin first. Its strangeness stays; the ear adapts, as it did to the Latin.', {}],
+    ['The ear first. Where a line shows the work of translation, fluency wins.', {}],
+    ['Verse by verse, as chosen below — and I will say in the note what the rule behind my choices is.', {}],
+  ] };
+
+const addressDecision = { id: 'addressDecision', ref: '', latin: '',
+  title: 'Vós ou tu',
+  why: 'Decide only after reciting and singing both. Choosing here also turns the psalm above.',
+  options: [['Not yet — I need to pray it longer', {}], ['Vós', {}], ['Tu', {}]] };
+
+const fixes = [
+  ['4:3', 'até quando de coração pesado?', 'até quando tereis o coração pesado?', 'Supplies a verb the Latin does not have.'],
+  ['4:4', 'fez maravilhoso o seu santo', 'fez maravilhas pelo seu santo', 'Says what the Hebrew says, not mirificávit sanctum suum.'],
+  ['4:5', 'nos vossos leitos compungi-vos', 'arrependei-vos nos vossos leitos', 'Loses the sting of compungi and moves the verb off the cadence.'],
+  ['4:6', 'Sacrificai um sacrifício', 'Oferecei um sacrifício', 'Loses the repetition the Latin itself has.'],
+  ['4:8', 'se multiplicaram', 'eles se multiplicaram', 'Small: names a subject the Latin leaves inside the participle.'],
+  ['4:10', 'a sós na esperança', 'só vós, Senhor', 'Closes an ambiguity the Latin keeps open.'],
+];
+
+const pairs = [
+  ['4:2a', 'Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.', 'Quando invoquei, atendeu-me o Deus da minha justiça: * na tribulação me [abristes|abriste] espaço.'],
+  ['4:2b', 'Miserére mei, * et exáudi oratiónem meam.', '[Tende|Tem] piedade de mim, * e [atendei|atende] a minha oração.'],
+  ['4:7', 'Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.', 'Marcada está sobre nós a luz do [vosso|teu] rosto, Senhor: * [destes|deste] alegria no meu coração.'],
+  ['4:10', 'Quóniam tu, Dómine, singuláriter in spe * constituísti me.', 'Porque [vós|tu], Senhor, singularmente na esperança * me [estabelecestes|estabeleceste].'],
+  ['53:3', 'Deus, in nómine tuo salvum me fac: * et in virtúte tua júdica me.', 'Ó Deus, no [vosso|teu] nome [salvai-me|salva-me]: * e na [vossa|tua] força [julgai-me|julga-me].'],
+  ['53:8', 'Voluntárie sacrificábo tibi, * et confitébor nómini tuo, Dómine: quóniam bonum est:', 'De boa vontade [sacrificar-vos-ei|sacrificar-te-ei], * e louvarei o [vosso|teu] nome, Senhor: porque é bom:'],
+  ['118:5', 'Útinam dirigántur viæ meæ, * ad custodiéndas justificatiónes tuas!', 'Oxalá se dirijam os meus caminhos * a guardar as [vossas|tuas] justificações!'],
+  ['118:10', 'In toto corde meo exquisívi te: * ne repéllas me a mandátis tuis.', 'De todo o meu coração [vos|te] busquei: * não me [afasteis|afastes] dos [vossos|teus] mandamentos.'],
+  ['118:12', 'Benedíctus es, Dómine: * doce me justificatiónes tuas.', 'Bendito [sois|és], Senhor: * [ensinai-me|ensina-me] as [vossas|tuas] justificações.'],
+  ['118:17', 'Retríbue servo tuo, vivífica me: * et custódiam sermónes tuos:', '[Retribuí|Retribui] ao [vosso|teu] servo, [vivificai-me|vivifica-me]: * e guardarei as [vossas|tuas] palavras:'],
+  ['Lc 2:29', 'Nunc dimíttis + servum tuum, Dómine, * secúndum verbum tuum in pace:', 'Agora [despedis|despedes] + o [vosso|teu] servo, Senhor, * segundo a [vossa|tua] palavra, em paz:'],
+  ['Antiphon', 'Miserére * mihi, Dómine, et exáudi oratiónem meam.', '[Tende|Tem] piedade * de mim, Senhor, e [atendei|atende] a minha oração.'],
+  ['90:4', 'Scápulis suis obumbrábit tibi: * et sub pennis ejus sperábis.', 'Com os seus ombros te fará sombra: * e sob as suas penas esperarás.', 'To the just man — the same under both.'],
+  ['90:9', 'Quóniam tu es, Dómine, spes mea: * Altíssimum posuísti refúgium tuum.', 'Porque [vós sois|tu és], Senhor, a minha esperança: * do Altíssimo fizeste o teu refúgio.', 'First half to God, second half to the just man.'],
+  ['4:6', 'Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?', 'Sacrificai um sacrifício de justiça, † e esperai no Senhor. * Muitos dizem: Quem nos mostra os bens?', 'To the crowd, plural — the same under both.'],
+];
+
+/* ───────── state ───────── */
+const storeKey = 'psalterium-ps004-review-draft2';
+const saved = JSON.parse(localStorage.getItem(storeKey) || '{}');
+const state = { address: 'vos', pointing: 'app', compare: 'none', picks: {}, notes: {}, stumbles: '', ...saved };
+const save = () => localStorage.setItem(storeKey, JSON.stringify(state));
+const pick = (id) => state.picks[id] ?? 0;
+
+/* ───────── rendering ───────── */
+const byAddress = (text, address) => text.replace(/\[([^|\]]*)\|([^\]]*)\]/g, (_, vos, tu) => (address === 'vos' ? vos : tu));
+const capital = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+
+function slotForms() {
+  const forms = {};
+  for (const d of decisions) Object.assign(forms, Object.fromEntries(Object.entries(d.options[pick(d.id)][1]).map(([slot, form]) => [slot, { form, d }])));
+  const word = forms.signatum.form;
+  const cls = (d) => 'open' + (pick(d.id) ? ' changed' : '');
+  // 4:7 holds two decisions at once: the word (signatum) and where it stands (ordo, marked on "a luz")
+  const wordLink = (w) => `<a class="${cls(forms.signatum.d)}" href="#d-signatum">${w}</a>`;
+  const lightLink = (w) => `<a class="${cls(forms.ordo.d)}" href="#d-ordo">${w}</a>`;
+  forms.signatumLine = { html: forms.ordo.form === 'latin'
+    ? `${wordLink(capital(word))} está sobre nós ${lightLink('a luz')} do [vosso|teu] rosto, Senhor:`
+    : `${lightLink('A luz')} do [vosso|teu] rosto está ${wordLink(word)} sobre nós, Senhor:` };
+  return { forms, cls };
+}
+
+function pointed(text, mode) {
+  if (mode === 'app') text = text.replace(/‡\s+(.*?)\*\s*/, '* $1').replace(/†\s*/g, '');
+  const parts = text.split(/\s*([†‡*+])\s*/);
+  let html = '';
+  for (let i = 0; i < parts.length; i += 2) {
+    const mark = parts[i + 1] ? `<span class="mark" aria-hidden="true">${parts[i + 1]}</span>` : '';
+    html += `<span class="colon">${parts[i]}${mark}</span>`;
+  }
+  return html;
+}
+
+function renderPsalm() {
+  const { forms, cls } = slotForms();
+  document.getElementById('psalm').innerHTML = verses.map(([id, la, pt]) => {
+    const filled = pt.replace(/\{(\w+)\}/g, (_, slot) => {
+      const f = forms[slot];
+      return f.html ?? `<a class="${cls(f.d)}" href="#d-${f.d.id}">${f.form}</a>`;
+    });
+    const num = id.split(':')[1];
+    return `<div class="verse" id="v-${id.replace(':', '-')}">
+      <div class="side la" translate="no"><span class="num">${num}</span>${pointed(la, state.pointing)}</div>
+      <div class="side pt" lang="pt-BR"><span class="num">${num}</span>${pointed(byAddress(filled, state.address), state.pointing)}</div>
+      ${compareHtml(id)}
+    </div>`;
+  }).join('');
+}
+
+// Other psalters for one prayed verse: English under the Latin column, Portuguese under the Portuguese.
+// Their verse numbers are shown because most of them divide the psalm as the Hebrew does, not as the Breviary.
+function compareHtml(id) {
+  const data = window.psalteriumCompare;
+  if (!data || state.compare === 'none') return '';
+  const column = (lang) => {
+    if (state.compare !== 'all' && state.compare !== lang) return '<div></div>';
+    const rows = data.versions.filter((v) => v.lang === lang).map((v) => {
+      // the Breviary splits some verses (2a / 2b) and the Hebrew joins others (9–10): a version whose text
+      // is the same for the next prayed verse is shown once, there, after the whole of what it covers
+      const nextId = verses[verses.findIndex(([vid]) => vid === id) + 1]?.[0];
+      if (nextId && JSON.stringify(data.verses[nextId][v.id]) === JSON.stringify(data.verses[id][v.id])) return '';
+      const parts = data.verses[id][v.id].map(([n, text]) => `<sup>${n}</sup>${text ?? '<span class="absent">missing from the source consulted</span>'}`).join(' ');
+      return `<p lang="${lang === 'pt' ? 'pt-BR' : 'en'}"><span class="vname" title="${v.note}">${v.name}</span>${parts}</p>`;
+    }).join('');
+    return `<div class="cf">${rows}</div>`;
+  };
+  return column('en') + column('pt');
+}
+
+// option labels follow the current address, and 4:7's order options show the currently chosen word
+function shownLabel(label) {
+  const word = decisions.find((d) => d.id === 'signatum').options[pick('signatum')][0];
+  return byAddress(label.replace('{signatum}', word).replace('{Signatum}', capital(word)), state.address);
+}
+
+function decisionHtml(d, prefix = '') {
+  const title = d.title ?? `<span class="ref">${d.ref}</span><i translate="no">${d.latin}</i>`;
+  const options = d.options.map(([label, , tag, stylist, warn], i) => {
+    const shown = shownLabel(label);
+    const tags = [tag, stylist ? 'the stylist’s fix' : ''].filter(Boolean).join(' · ');
+    // a wording decision starts on draft 2; the two standing questions start unanswered
+    const current = d.id in state.picks ? state.picks[d.id] : d.ref ? 0 : -1;
+    // the popover repeats a decision that is also in the list below: same radio name, its own ids
+    const group = prefix ? `${prefix}${d.id}` : d.id;
+    return `<li><input type="radio" name="${group}" data-decision="${d.id}" id="${prefix}${d.id}-${i}" value="${i}" ${current === i ? 'checked' : ''}>
+      <label for="${prefix}${d.id}-${i}" lang="pt-BR">${shown}${tags ? ` <span class="tag${warn ? ' warn' : ''}" lang="en">— ${tags}</span>` : ''}</label></li>`;
+  }).join('');
+  return `<section class="decision" ${prefix ? '' : `id="d-${d.id}"`}>
+    <h3>${title}</h3><p class="why">${d.why}</p>
+    <ul class="options">${options}</ul>
+    <textarea data-note="${d.id}" placeholder="Your decision, and why" aria-label="Note on ${d.latin || d.title}">${state.notes[d.id] ?? ''}</textarea>
+  </section>`;
+}
+
+function renderDecisions() {
+  document.getElementById('decisions').innerHTML = [governing, ...decisions].map(decisionHtml).join('');
+  document.getElementById('address-decision').innerHTML = ''; // settled: vós, 2026-09-20
+}
+
+function renderFixes() {
+  document.getElementById('fixes').innerHTML = fixes.map(([ref, ours, theirs, cost]) =>
+    `<div class="fix"><span class="ref">${ref}</span><span lang="pt-BR">${ours}</span><span class="theirs" lang="pt-BR">${theirs}</span><span class="cost">${cost}</span></div>`).join('');
+}
+
+function renderPairs() {
+  document.getElementById('pairs').innerHTML = pairs.map(([ref, la, pt, same]) => {
+    const line = (who, address) => `<p lang="pt-BR"><span class="who" lang="en">${who}</span>${pointedInline(byAddress(pt, address))}</p>`;
+    const body = same ? `<p lang="pt-BR">${pointedInline(byAddress(pt, 'vos'))}</p><p class="muted" lang="en" style="font-style:italic;font-size:1rem">${same}</p>`
+      : pt.includes('[') ? line('vós', 'vos') + line('tu', 'tu') : `<p lang="pt-BR">${pointedInline(pt)}</p>`;
+    return `<div class="pair"><p class="src" translate="no"><span class="ref">${ref}</span>${pointedInline(la)}</p>${body}</div>`;
+  }).join('');
+}
+const pointedInline = (text) => text.replace(/([†‡*+])/g, '<span class="mark" aria-hidden="true">$1</span>').replace(/ <span class="mark"/g, '<span class="mark"');
+
+function syncBar() {
+  document.getElementById(`a-${state.address}`).checked = true;
+  document.getElementById(`p-${state.pointing}`).checked = true;
+  document.getElementById(`c-${state.compare}`).checked = true;
+  // without the consult/ file there is nothing to set beside the psalm
+  document.getElementById('compare-switch').hidden = !window.psalteriumCompare;
+  const isDraft = decisions.every((d) => pick(d.id) === 0);
+  const isStylist = decisions.every((d) => pick(d.id) === stylistIndex(d));
+  document.getElementById(isDraft ? 'w-draft' : isStylist ? 'w-stylist' : 'w-mine').checked = true;
+}
+const stylistIndex = (d) => Math.max(0, d.options.findIndex((o) => o[3]));
+
+function renderAll() { renderPsalm(); renderDecisions(); syncBar(); placePop(); save(); }
+
+/* ───────── answering the reader ───────── */
+document.addEventListener('change', (e) => {
+  const { name, value, type } = e.target;
+  if (type !== 'radio') return;
+  if (name === 'address') state.address = value;
+  else if (name === 'pointing') state.pointing = value;
+  else if (name === 'preset') {
+    // presets touch only the wording; the two standing decisions are left alone
+    const standing = Object.fromEntries([governing.id, addressDecision.id].filter((k) => k in state.picks).map((k) => [k, state.picks[k]]));
+    if (value === 'draft') state.picks = standing;
+    if (value === 'stylist') state.picks = { ...standing, ...Object.fromEntries(decisions.map((d) => [d.id, stylistIndex(d)])) };
+    if (value === 'mine') state.picks = { ...standing, ...(state.mine ?? {}) };
+  } else if (name === 'compare') state.compare = value;
+  else {
+    const key = e.target.dataset?.decision ?? name;
+    state.picks[key] = Number(value);
+    // a choice made by hand is "mine", and comes back after trying a preset
+    state.mine = Object.fromEntries(decisions.filter((d) => d.id in state.picks).map((d) => [d.id, state.picks[d.id]]));
+    if (key === addressDecision.id && Number(value) > 0) state.address = Number(value) === 1 ? 'vos' : 'tu';
+  }
+  const at = document.activeElement?.id;
+  renderAll();
+  if (at) document.getElementById(at)?.focus({ preventScroll: true });
+});
+
+/* ───────── a decision opens where its word stands ───────── */
+const pop = document.getElementById('pop');
+function placePop() {
+  if (pop.hidden) return;
+  const d = decisions.find((x) => x.id === pop.dataset.decision);
+  pop.innerHTML = decisionHtml(d, 'pop-') + '<button type="button" class="close">Done</button>';
+  // one decision can stand in several verses (exaudire: 4:2a, 2b, 4) — stay by the occurrence that was touched
+  const anchors = document.querySelectorAll(`#psalm a[href="#d-${d.id}"]`);
+  const anchor = anchors[Number(pop.dataset.occurrence) || 0] ?? anchors[0];
+  if (!anchor) return;
+  const box = anchor.getBoundingClientRect();
+  const width = pop.offsetWidth;
+  const left = Math.max(12, Math.min(box.left, document.documentElement.clientWidth - width - 12));
+  pop.style.left = `${left + window.scrollX}px`;
+  // open below the word; above it when there is no room below and there is room above
+  const height = pop.offsetHeight;
+  const below = box.bottom + height + 10 <= window.innerHeight || box.top < height + 10;
+  pop.style.top = `${(below ? box.bottom + 10 : box.top - height - 10) + window.scrollY}px`;
+}
+function closePop() {
+  if (pop.hidden) return;
+  const anchors = document.querySelectorAll(`#psalm a[href="#d-${pop.dataset.decision}"]`);
+  pop.hidden = true;
+  renderDecisions(); // the list below picks up a note typed in the popover
+  (anchors[Number(pop.dataset.occurrence) || 0] ?? anchors[0])?.focus({ preventScroll: true });
+}
+document.addEventListener('click', (e) => {
+  const word = e.target.closest?.('#psalm a.open');
+  if (word) {
+    e.preventDefault();
+    pop.dataset.decision = word.getAttribute('href').slice(3);
+    pop.dataset.occurrence = [...document.querySelectorAll(`#psalm a[href="${word.getAttribute('href')}"]`)].indexOf(word);
+    pop.hidden = false;
+    placePop();
+    pop.querySelector('input:checked, input')?.focus({ preventScroll: true });
+    return;
+  }
+  if (e.target.closest?.('#pop .close') || !e.target.closest?.('#pop')) closePop();
+});
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePop(); });
+document.addEventListener('input', (e) => {
+  if (e.target.dataset.note) state.notes[e.target.dataset.note] = e.target.value;
+  else if (e.target.id === 'stumbles') state.stumbles = e.target.value;
+  else return;
+  save();
+});
+
+function asMarkdown() {
+  const { forms } = slotForms();
+  const chosenText = verses.map(([id, , pt]) => {
+    const filled = pt.replace(/\{(\w+)\}/g, (_, slot) => (forms[slot].html ?? forms[slot].form)).replace(/<[^>]+>/g, '');
+    return `${id} ${byAddress(filled, state.address)}`;
+  }).join('\n');
+  const line = (d) => {
+    if (!d.ref && !(d.id in state.picks)) return `- **${d.title}**: not decided${state.notes[d.id] ? `\n  Note: ${state.notes[d.id]}` : ''}`;
+    const [label, , tag] = d.options[pick(d.id)];
+    const head = d.title ?? `${d.ref} — ${d.latin}`;
+    const note = state.notes[d.id] ? `\n  Note: ${state.notes[d.id]}` : '';
+    const standing = !(d.id in state.picks) ? ' (not touched)' : pick(d.id) === 0 && d.ref ? ' (draft 2 kept)' : '';
+    return `- **${head}**: ${shownLabel(label)}${standing}${tag && pick(d.id) ? ` — ${tag}` : ''}${note}`;
+  };
+  return [
+    `# Ps 4 — decisions, ${new Date().toISOString().slice(0, 10)}`,
+    '', '- **Vós ou tu**: vós (decided 2026-09-20)', line(governing), '', '## Verse by verse', ...decisions.map(line),
+    '', '## Stumbles while praying', state.stumbles || '(none logged)',
+    '', `## The psalm as chosen (${state.address === 'vos' ? 'vós' : 'tu'})`, '```', chosenText, '```',
+  ].join('\n');
+}
+
+document.getElementById('copy').addEventListener('click', async () => {
+  const text = asMarkdown();
+  const status = document.getElementById('copied');
+  try {
+    await navigator.clipboard.writeText(text);
+    status.textContent = 'Copied. Paste it to Claude, or into ps004/decisions.md.';
+  } catch {
+    const box = document.getElementById('fallback');
+    box.hidden = false; box.value = text; box.select();
+    status.textContent = 'Select all and copy the text below.';
+  }
+});
+document.getElementById('reset').addEventListener('click', () => {
+  if (!confirm('Clear every choice and note on this page?')) return;
+  localStorage.removeItem(storeKey);
+  location.reload();
+});
+
+document.getElementById('stumbles').value = state.stumbles;
+renderFixes(); renderPairs(); renderAll();
+</script>
+</body>
+</html>

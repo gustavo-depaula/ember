@@ -1,0 +1,16 @@
+[
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 (prayed.vos.json) — the gate. One verse, the same as on draft 1: 7:5 MAJOR, ‘ab inimícis meis atribui aos inimigos a origem da queda’, fix ‘por obra dos meus inimigos’. Everything changed in draft 2 passed (the new orders of 7:3, 7:5, 7:10; ‘pise aos pés’; ‘vindo do Senhor’; ‘sentiu as dores de parto’; ‘o alto da sua cabeça’; ‘entoarei salmos ao nome do altíssimo Senhor’), and so did everything held from draft 1. The gate is therefore clean but for one major, held on purpose — the fifth place where a final text stands against the Latinist (after D10, D20, and the two of D24). No stylist or ambiguity reader has read draft 2.",
+    "outcomes": [
+      {
+        "verse": "7:5",
+        "remark": "‘ab inimícis meis’ gives the enemies as the origin of the fall; ‘diante dos meus inimigos’ makes it mere presence or position → ‘por obra dos meus inimigos’ (MAJOR, second time)",
+        "outcome": "option",
+        "decision": "ab_inimicis",
+        "reason": "Held, for the reasons in the decision: (1) the agent is one of two readings of the Latin — de-cidam ab calques the Greek ἀπο-πέσοιν ἀπό, ‘fall away from’ — and rule 2 forbids closing the other; (2) neither Vulgate-family version has an agent: Douay-Rheims ‘fall empty before my enemies’ is the wording kept, Matos Soares 1932 has ‘debaixo dos’; (3) the blind reader, given the Portuguese alone, heard ‘que eu seja derrotado pelos inimigos’ first, so the origin the Latinist misses is heard; (4) his fix supplies a noun (‘obra’) the Latin does not have. It is option 2 of the decision, one touch away."
+      }
+    ]
+  }
+]

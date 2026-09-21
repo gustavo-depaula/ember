@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "94a289e192a47e0ddbf641622f1642f20ab085625625ba5b351b2452be6a708d",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T05:25:51+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução conserva o sentido do latim em todos os versículos, inclusive suas imagens e construções incomuns. «Odiais» traduz corretamente «odísti», perfeito de sentido presente. Todas as marcas de divisão correspondem às latinas, na mesma ordem.\"}"
+}

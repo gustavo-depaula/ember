@@ -1,0 +1,548 @@
+{
+  "psalm": 4,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "reviewed",
+  "hour": "Sunday Compline",
+  "intro": [
+    "Draft 3 is draft 2 ruled by DECISIONS.md D2 and D3: escutar for exaudíre in three places, and the two stylist fixes that touch only grammar (4:3 a verb supplied, 4:8 a subject named). The stylist’s other four proposals change a word, dissolve a repetition, close an ambiguity or say what the Hebrew says; they are refused and stay here as options.",
+    "Switch the wording to the stylist’s, pray it, switch back: every ruling can be overturned from this page."
+  ],
+  "verses": {
+    "4:2a": "Quando invoquei, {exaudivit} o Deus da minha justiça: * na tribulação {dilatasti}.",
+    "4:2b": "Tende piedade de mim, * e {exaudi} a minha oração.",
+    "4:3": "Filhos dos homens, {gravi} * por que amais a vaidade, e buscais a mentira?",
+    "4:4": "E sabei que o Senhor {mirificavit}: * o Senhor {exaudiet} quando eu clamar a ele.",
+    "4:5": "Irai-vos, e não pequeis: ‡ do que dizeis nos vossos corações, * {compungimini}.",
+    "4:6": "{sacrificate} de justiça, † e esperai no Senhor. * Muitos dizem: Quem nos mostra {bona}?",
+    "4:7": "{signatumLine} * destes alegria no meu coração.",
+    "4:8": "Pelo fruto do seu trigo, vinho e azeite * {multiplicati}.",
+    "4:9": "Em paz, {idipsum}, * dormirei e repousarei;",
+    "4:10": "Porque {singulariter} * me estabelecestes."
+  },
+  "decisions": [
+    {
+      "id": "governing",
+      "kind": "standing",
+      "title": "How far may the ear pull against the Latin?",
+      "why": "Ruled overnight as DECISIONS.md D2, for Gustavo’s review. The stylist found eight of ten verses of draft 2 not yet native; the Latinist and both judges found nothing to correct. D2 is the rule under which both can be right, and draft 3 is draft 2 ruled by it.",
+      "options": [
+        {
+          "label": "Keep the Latin’s words, images, repetitions and ambiguities; yield to the ear on grammar and order.",
+          "note": "D2 — the rule draft 3 and every psalm after it were made by",
+          "from": "claude"
+        },
+        {
+          "label": "The Latin first. Its strangeness stays; the ear adapts, as it did to the Latin."
+        },
+        {
+          "label": "The ear first. Where a line shows the work of translation, fluency wins."
+        },
+        {
+          "label": "Verse by verse, as chosen below — and I will say in the note what the rule behind my choices is."
+        }
+      ]
+    },
+    {
+      "id": "dilatasti",
+      "refs": [
+        "4:2a"
+      ],
+      "latin": "dilatásti mihi",
+      "kind": "word",
+      "why": "The image is width, against tribulation as a tight place. The Latin verb has no object; the Claude judge counts “espaço” a minor addition. Ruled (D8): the draft stands. Matos Soares’ “me pusestes ao largo” keeps the width better, but in Brazil “ao largo” is heard first as “at a distance, offshore”. To be looked at again with 118:32 dilatásti cor meum.",
+      "options": [
+        {
+          "label": "me abristes espaço",
+          "forms": {
+            "dilatasti": "me abristes espaço"
+          },
+          "note": "draft 2",
+          "from": "draft"
+        },
+        {
+          "label": "me destes largueza",
+          "forms": {
+            "dilatasti": "me destes largueza"
+          }
+        },
+        {
+          "label": "me alargastes",
+          "forms": {
+            "dilatasti": "me alargastes"
+          },
+          "note": "no object, as the Latin"
+        },
+        {
+          "label": "me pusestes ao largo",
+          "forms": {
+            "dilatasti": "me pusestes ao largo"
+          },
+          "note": "Matos Soares 1932 — idiomatic, keeps the width, no object supplied",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exaudire",
+      "refs": [
+        "4:2a",
+        "4:2b",
+        "4:4"
+      ],
+      "latin": "exaudívit, exáudi, exáudiet",
+      "kind": "glossary",
+      "why": "74 times in the psalter, 33 of them the imperative, and a common versicle of the Office besides. The word study (words/exaudire.md) found that exáudi stands beside inténde in five verses, and inténde wants “atender” — so it recommends “escutar”. Ruled (DECISIONS.md D3): escutar — a hearing verb, as exaudíre is; atender is needed for inténde, which stands beside exáudi in 16:1, 54:2, 60:2, 140:1.",
+      "options": [
+        {
+          "label": "escutar",
+          "forms": {
+            "exaudivit": "escutou-me",
+            "exaudi": "escutai",
+            "exaudiet": "me escutará"
+          },
+          "note": "draft 3 — the study’s recommendation — a hearing verb, as exaudire is; free for all 74 places",
+          "from": "glossary"
+        },
+        {
+          "label": "atender",
+          "forms": {
+            "exaudivit": "atendeu-me",
+            "exaudi": "atendei",
+            "exaudiet": "me atenderá"
+          },
+          "note": "draft 2’s wording — draft 2 — says hear and grant, but collides with inténde",
+          "from": "draft2"
+        },
+        {
+          "label": "ouvir",
+          "forms": {
+            "exaudivit": "ouviu-me",
+            "exaudi": "ouvi",
+            "exaudiet": "me ouvirá"
+          },
+          "note": "ruled out now that the address is vós: “ouvi” is also “I heard”",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "gravi",
+      "refs": [
+        "4:3"
+      ],
+      "latin": "úsquequo gravi corde?",
+      "kind": "grammar",
+      "why": "The Latin has no verb. The stylist’s ear wants one. Ruled (D8, under D2): the stylist’s. It supplies a verb and nothing else — grammar, where the ear may lead; Matos Soares 1932 supplies one too (sereis).",
+      "options": [
+        {
+          "label": "até quando tereis o coração pesado?",
+          "forms": {
+            "gravi": "até quando tereis o coração pesado?"
+          },
+          "note": "draft 3 — supplies a verb",
+          "from": "stylist"
+        },
+        {
+          "label": "até quando de coração pesado?",
+          "forms": {
+            "gravi": "até quando de coração pesado?"
+          },
+          "note": "draft 2’s wording — draft 2 — verbless, as the Latin",
+          "from": "draft2"
+        }
+      ]
+    },
+    {
+      "id": "mirificavit",
+      "refs": [
+        "4:4"
+      ],
+      "latin": "mirificávit sanctum suum",
+      "kind": "glossary",
+      "why": "Recurs at 15:3, 16:7 and 30:22, so it is a glossary decision. “Engrandecer” would collide with magnificáre. Ruled (D8): the draft stands. The stylist’s “fez maravilhas pelo seu santo” is what the Hebrew says, not what the Latin says; Matos Soares 1932 has the draft’s wording.",
+      "options": [
+        {
+          "label": "fez maravilhoso o seu santo",
+          "forms": {
+            "mirificavit": "fez maravilhoso o seu santo"
+          },
+          "note": "draft 2 — the stylist hears it as assembled",
+          "from": "draft"
+        },
+        {
+          "label": "tornou admirável o seu santo",
+          "forms": {
+            "mirificavit": "tornou admirável o seu santo"
+          }
+        },
+        {
+          "label": "engrandeceu o seu santo",
+          "forms": {
+            "mirificavit": "engrandeceu o seu santo"
+          },
+          "note": "one verb, like the Latin; collides with magnificáre"
+        },
+        {
+          "label": "fez maravilhas pelo seu santo",
+          "forms": {
+            "mirificavit": "fez maravilhas pelo seu santo"
+          },
+          "note": "says what the Hebrew says, not the Latin",
+          "from": "stylist",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "compungimini",
+      "refs": [
+        "4:5"
+      ],
+      "latin": "in cubílibus vestris compungímini",
+      "kind": "glossary",
+      "why": "Compungi is to be stung by conscience. Is compungir-se a word the person in the pew owns? Ruled (D8): the draft stands. Arrepender-se is another word (pænitére); the sting is the Latin’s image, and the verb keeps the cadence. Matos Soares 1932: compungi-vos.",
+      "options": [
+        {
+          "label": "nos vossos leitos compungi-vos",
+          "forms": {
+            "compungimini": "nos vossos leitos compungi-vos"
+          },
+          "note": "draft 2 — keeps the sting and the Latin’s verb-last cadence",
+          "from": "draft"
+        },
+        {
+          "label": "nos vossos leitos arrependei-vos",
+          "forms": {
+            "compungimini": "nos vossos leitos arrependei-vos"
+          },
+          "note": "the plainer word, the Latin’s order"
+        },
+        {
+          "label": "arrependei-vos nos vossos leitos",
+          "forms": {
+            "compungimini": "arrependei-vos nos vossos leitos"
+          },
+          "note": "loses the sting; moves the verb off the cadence",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "sacrificate",
+      "refs": [
+        "4:6"
+      ],
+      "latin": "Sacrificáte sacrifícium",
+      "kind": "word",
+      "why": "The Latin repeats the root on purpose. The stylist could not say it cleanly. Ruled (D8): the draft stands. The repetition is the Latin’s own (D2).",
+      "options": [
+        {
+          "label": "Sacrificai um sacrifício",
+          "forms": {
+            "sacrificate": "Sacrificai um sacrifício"
+          },
+          "note": "draft 2 — the repetition stays",
+          "from": "draft"
+        },
+        {
+          "label": "Oferecei um sacrifício",
+          "forms": {
+            "sacrificate": "Oferecei um sacrifício"
+          },
+          "note": "loses the Latin’s own repetition",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "bona",
+      "refs": [
+        "4:6"
+      ],
+      "latin": "Quis osténdit nobis bona?",
+      "kind": "ambiguity",
+      "why": "Bona is plural, “good things”. The reader who saw only the Portuguese heard “os bens” as possessions. Ruled (D8): the draft stands; no reader argued against it.",
+      "options": [
+        {
+          "label": "os bens",
+          "forms": {
+            "bona": "os bens"
+          },
+          "note": "draft 2",
+          "from": "draft"
+        },
+        {
+          "label": "o bem",
+          "forms": {
+            "bona": "o bem"
+          },
+          "note": "singular; abstract"
+        },
+        {
+          "label": "coisas boas",
+          "forms": {
+            "bona": "coisas boas"
+          }
+        },
+        {
+          "label": "o que é bom",
+          "forms": {
+            "bona": "o que é bom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "signatum",
+      "refs": [
+        "4:7"
+      ],
+      "latin": "Signátum est",
+      "kind": "word",
+      "why": "A stamped mark, as on a coin or a seal; perfect passive. The Hebrew’s “lift up” is not what Jerome wrote. Ruled (D8): the draft stands; no reader argued against it.",
+      "options": [
+        {
+          "label": "marcada",
+          "forms": {
+            "signatum": "marcada",
+            "Signatum": "Marcada"
+          },
+          "note": "draft 2 — plainest, and shortest",
+          "from": "draft"
+        },
+        {
+          "label": "assinalada",
+          "forms": {
+            "signatum": "assinalada",
+            "Signatum": "Assinalada"
+          },
+          "note": "cognate with signum; three syllables longer"
+        },
+        {
+          "label": "impressa",
+          "forms": {
+            "signatum": "impressa",
+            "Signatum": "Impressa"
+          },
+          "note": "the coin-stamp sense"
+        },
+        {
+          "label": "gravada",
+          "forms": {
+            "signatum": "gravada",
+            "Signatum": "Gravada"
+          },
+          "note": "Matos Soares 1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ordo",
+      "refs": [
+        "4:7"
+      ],
+      "latin": "word order",
+      "kind": "order",
+      "why": "The stylist heard the participle-first opening as manufactured solemnity. But the Latin column beside it opens with Signátum. Ruled (D8): the draft stands — natural order, where the ear may lead (D2).",
+      "options": [
+        {
+          "label": "A luz do vosso rosto está {signatum} sobre nós",
+          "forms": {
+            "signatumLine": "A luz do vosso rosto está {signatum} sobre nós, Senhor:"
+          },
+          "mark": "A luz",
+          "note": "draft 2 — for the ear",
+          "from": "draft"
+        },
+        {
+          "label": "{Signatum} está sobre nós a luz do vosso rosto",
+          "forms": {
+            "signatumLine": "{Signatum} está sobre nós a luz do vosso rosto, Senhor:"
+          },
+          "mark": "a luz",
+          "note": "the Latin’s order, for the eye crossing columns"
+        }
+      ]
+    },
+    {
+      "id": "multiplicati",
+      "refs": [
+        "4:8"
+      ],
+      "latin": "multiplicáti sunt",
+      "kind": "grammar",
+      "why": "The Latin’s masculine plural excludes wheat, wine and oil as the subject. The Portuguese does not, and the ear waits to learn who multiplied. Ruled (D8, under D2): the stylist’s. A subject pronoun is grammar — and without it the ear takes “trigo, vinho e azeite” as what multiplied, which “a fructu” excludes.",
+      "options": [
+        {
+          "label": "eles se multiplicaram",
+          "forms": {
+            "multiplicati": "eles se multiplicaram"
+          },
+          "note": "draft 3 — names a subject",
+          "from": "stylist"
+        },
+        {
+          "label": "se multiplicaram",
+          "forms": {
+            "multiplicati": "se multiplicaram"
+          },
+          "note": "draft 2’s wording — draft 2 — subject unnamed, as the Latin",
+          "from": "draft2"
+        },
+        {
+          "label": "foram multiplicados",
+          "forms": {
+            "multiplicati": "foram multiplicados"
+          },
+          "note": "keeps the passive"
+        }
+      ]
+    },
+    {
+      "id": "idipsum",
+      "refs": [
+        "4:9"
+      ],
+      "latin": "in idípsum",
+      "kind": "glossary",
+      "why": "ἐπὶ τὸ αὐτό; Jerome’s own later word is simul. It also stands at 33:4, 40:7, 61:10, 73:6 and 121:3 — say in your note whether it must be one rendering everywhere. Deferred (D9): “a um só tempo” stands until in idípsum has its word study; none of its other five places is translated yet.",
+      "options": [
+        {
+          "label": "a um só tempo",
+          "forms": {
+            "idipsum": "a um só tempo"
+          },
+          "note": "draft 2",
+          "from": "draft"
+        },
+        {
+          "label": "juntamente",
+          "forms": {
+            "idipsum": "juntamente"
+          },
+          "note": "draft 1 — two reviewers asked: together with what?"
+        },
+        {
+          "label": "nisso mesmo",
+          "forms": {
+            "idipsum": "nisso mesmo"
+          },
+          "note": "the calque; leaves Augustine’s reading open"
+        }
+      ]
+    },
+    {
+      "id": "singulariter",
+      "refs": [
+        "4:10"
+      ],
+      "latin": "singuláriter in spe",
+      "kind": "ambiguity",
+      "why": "κατὰ μόνας. The adverb can lean on God, “you alone”, or on me, “apart”. The Latin leaves it open. Ruled (D8): the draft stands. “Só vós” decides an ambiguity the Latin leaves open (D2).",
+      "options": [
+        {
+          "label": "vós, Senhor, a sós na esperança",
+          "forms": {
+            "singulariter": "vós, Senhor, a sós na esperança"
+          },
+          "note": "draft 2 — as open as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "vós, Senhor, singularmente na esperança",
+          "forms": {
+            "singulariter": "vós, Senhor, singularmente na esperança"
+          },
+          "note": "draft 1 — read as essay prose"
+        },
+        {
+          "label": "só vós, Senhor, na esperança",
+          "forms": {
+            "singulariter": "só vós, Senhor, na esperança"
+          },
+          "note": "closes the ambiguity",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "4:2a": "exaudire → atender, not ouvir: under vós the imperative 'ouvi' (4:2b) is the same word as 'eu ouvi', and atender carries the ex- ('hear and grant'). Kept identical across exaudívit / exáudi / exáudiet (4:2a, 4:2b, 4:4). 'me abristes espaço' for dilatásti mihi keeps the image of width against tribulatio as a tight place; 'espaço' is the object Portuguese needs — the Claude judge counts it a minor addition. Alternatives: me destes largueza; me alargastes.",
+    "4:3": "gravi corde as ablative of quality: 'de coração pesado'. No verb supplied, as in the Latin; the stylist wants one ('tereis'). 'por que' for ut quid.",
+    "4:4": "mirificávit → fez maravilhoso, chosen so 15:3, 16:7 (Mirífica misericórdias tuas) and 30:22 can take the same verb, and so it does not collide with magnificare → engrandecer. The stylist hears it as assembled; its fix ('fez maravilhas pelo seu santo') says what the Hebrew says, not the Latin. cum clamávero → future subjunctive.",
+    "4:5": "First colon is 5 syllables short of the Latin (checks.py) — accepted: nolíte + infinitive is only the Latin negative imperative, and 'não queirais pecar' would pad the line with a calque. compungi-vos keeps the sting of compungi; the stylist finds it unrecognisable and offers 'arrependei-vos'. 'do que' is the regency Portuguese needs for the Latin accusative of respect. Reads under both pointings: mediant at ‡ (the app) or at *.",
+    "4:6": "Sacrificai um sacrifício keeps the figura etymologica; 'um' added in draft 2 because the stylist could not say 'Sacrificai sacrifício' (the Latin has the same repetition, so the repetition stays). bona plural → os bens — the back-translator notes it can be heard as possessions. osténdit taken as present.",
+    "4:7": "Signátum → marcada, perfect passive. Draft 1 opened 'Assinalada está…' (cognate: signum/sinal), cut to 'Marcada' when checks.py flagged +3 syllables under vós. Draft 2 puts the subject first: the stylist heard the participle-first opening as manufactured solemnity and the reorder costs no sense — but the Latin's word order is lost. Alternatives: assinalada; impressa (the coin-stamp sense in L&S).",
+    "4:8": "a fructu → pelo fruto (the Latin's καρποῦ, not Rahlfs' καιροῦ). Subject of multiplicáti sunt left unnamed, as in the Latin; but the Latin's masculine plural excludes wheat, wine and oil as subject, and the Portuguese does not (back-translator, stylist).",
+    "4:9": "in idípsum: draft 1 'juntamente' (taken from the gpt-5.5 critic) was rejected by the stylist and the Claude judge — it dangles: together with what? Draft 2 returns to 'a um só tempo', which is what ἐπὶ τὸ αὐτό does with two verbs. Whether one rendering can serve 33:4, 40:7, 61:10, 73:6, 121:3 is open. dormirei / repousarei echo as dórmiam / requiéscam do.",
+    "4:10": "singuláriter → a sós (κατὰ μόνας): as open as the Latin about who is alone, God or me. Draft 1 'singularmente' read as essay prose to the stylist; its fix, 'só vós', closes the ambiguity and was not taken."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Drafts 1 and 2 were made through the full pilot pipeline (dossier, interlinear, literal tier, prayed tier, stylist, judges, back-translation); see retrospective.md. prayed.v1.json and prayed.v2.json are those drafts; decisions.v2.json holds draft 2’s options as review.html had them."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/prayed-v2.latinist.astra.json",
+      "note": "Draft 2: nothing to correct."
+    },
+    {
+      "step": "stylist",
+      "file": "critic/prayed-v1.stylist.astra.json",
+      "note": "Read draft 1; eight of ten verses marked not yet native. Its six proposals are the options marked “stylist”.",
+      "outcomes": [
+        {
+          "verse": "4:3",
+          "remark": "gravi corde verbless",
+          "outcome": "taken",
+          "decision": "gravi",
+          "reason": "grammar only (D2)"
+        },
+        {
+          "verse": "4:4",
+          "remark": "fez maravilhoso",
+          "outcome": "option",
+          "decision": "mirificavit",
+          "reason": "its fix is the Hebrew’s sense, not the Latin’s"
+        },
+        {
+          "verse": "4:5",
+          "remark": "compungi-vos",
+          "outcome": "option",
+          "decision": "compungimini",
+          "reason": "another word, and the image goes"
+        },
+        {
+          "verse": "4:6",
+          "remark": "Sacrificai sacrifício",
+          "outcome": "option",
+          "decision": "sacrificate",
+          "reason": "the repetition is the Latin’s"
+        },
+        {
+          "verse": "4:8",
+          "remark": "multiplicaram without a subject",
+          "outcome": "taken",
+          "decision": "multiplicati",
+          "reason": "grammar only, and it prevents a wrong parse"
+        },
+        {
+          "verse": "4:10",
+          "remark": "a sós na esperança",
+          "outcome": "option",
+          "decision": "singulariter",
+          "reason": "its fix closes an ambiguity the Latin leaves open"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3, by the main session under Gustavo’s delegation of 2026-09-20 (DECISIONS.md D8): 4:2a, 4:2b, 4:4 atender → escutar (D3); 4:3 “até quando tereis o coração pesado?”; 4:8 “eles se multiplicaram”. No critic has read draft 3: the three changes are a glossary verb already gated in Pss 90 and 53, and two fixes the stylist itself proposed. The Hetzenauer page (p. 487) was read for this psalm during the collation."
+    }
+  ]
+}

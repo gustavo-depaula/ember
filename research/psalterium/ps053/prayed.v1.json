@@ -1,0 +1,192 @@
+{
+  "psalm": 53,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "53:3": "{deus} {nomine} {salvum}: * {v3b}.",
+    "53:4": "{deus} escutai a minha oração: * {auribus} palavras da minha boca.",
+    "53:5": "Porque {alieni} se {insurrexerunt} contra mim, e {fortes} buscaram a minha alma: * e não puseram a Deus {conspectum}.",
+    "53:6": "Pois eis que Deus {adjuvat}: * e o Senhor é o {susceptor} da minha alma.",
+    "53:7": "{averte} os meus inimigos: * e na vossa verdade {disperde}.",
+    "53:8": "{voluntarie} sacrificarei a vós, * e {confitebor} vosso nome, Senhor: {bonum}:",
+    "53:9": "Porque de toda tribulação me {eripuisti}: * {despexit}."
+  },
+  "decisions": [
+    {
+      "id": "deus", "refs": ["53:3", "53:4"], "latin": "Deus, … / Deus, …", "kind": "glossary",
+      "why": "Two verses in a row open on the bare vocative 'Deus,'. The glossary's rule (no 'ó' unless the Latin has 'o') is written for Dóminus; a bare 'Deus,' at the head of a Portuguese sentence is more abrupt than 'Senhor,'. Matos Soares 1932, pt-PT and the Diurnal Monástico 1962 all write 'ó Deus' here. Whatever is chosen will serve every 'Deus,' vocative in the psalter, the opening versicle of the Hours included.",
+      "options": [
+        {"label": "Deus,", "forms": {"deus": "Deus,"}, "note": "Draft. The Latin's word and nothing else; the same rule as for 'Senhor,'. The anaphora Deus … / Deus … is heard as it stands in the Latin column.", "from": "glossary"},
+        {"label": "Ó Deus,", "forms": {"deus": "Ó Deus,"}, "note": "Matos Soares 1932, pt-PT and DM1962 (all after the verb: 'Salva-me, ó Deus'). More native as an invocation and one syllable nearer the Latin's De-us; adds an interjection the Latin does not have.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "in", "refs": ["53:3"], "latin": "in nómine tuo … in virtúte tua", "kind": "word",
+      "why": "The Latin 'in' stands for the Greek ἐν (ἐν τῷ ὀνόματί σου), which is both 'in' and 'by means of'. Matos Soares 1932 ('por teu nome … com o teu poder'), pt-PT and Douay-Rheims ('by thy name … in thy strength') settle for the instrument, and not even consistently; the Latin keeps one preposition for both, and again in 53:7 (in veritáte tua), where Matos Soares himself keeps 'na tua verdade'.",
+      "options": [
+        {"label": "no vosso nome … no vosso poder", "forms": {"nomine": "no vosso nome", "in_m": "no", "in_f": "na"}, "note": "Draft. One preposition three times (53:3 twice, 53:7), as in the Latin, and as open as the Latin between 'in' and 'by'. 'Em nome de' is also heard as 'on the authority of', which the Latin phrase can be heard as too.", "from": "draft"},
+        {"label": "pelo vosso nome … pelo vosso poder", "forms": {"nomine": "pelo vosso nome", "in_m": "pelo", "in_f": "pela"}, "note": "Matos Soares 1932 / pt-PT / Douay-Rheims for the first colon. Clearer; resolves the preposition, and would leave 53:7 'na vossa verdade' standing alone.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "salvum", "refs": ["53:3"], "latin": "salvum me fac", "kind": "glossary",
+      "why": "salvum fácere is the Latin psalter's standing phrase for σῴζω (the LXX here has the plain imperative σῶσον), beside the rarer salváre. It is a formula — Salvum me fac, Deus (68:2), Salvum me fac, Dómine (11:2), Dómine, salvum fac regem (19:10) — so it needs one rendering.",
+      "options": [
+        {"label": "salvai-me", "forms": {"salvum": "salvai-me"}, "note": "Draft, with Matos Soares 1932, pt-PT, DM1962 and Douay-Rheims ('Save me'). The plainer of two faithful renderings; 'salvai' is safe under rule 3 (the past is 'salvei'). Cost: salvum fácere and salváre become one verb, as they are one verb in the Greek. The colon runs 2 syllables short of the Latin.", "from": "MS1932"},
+        {"label": "fazei-me salvo", "forms": {"salvum": "fazei-me salvo"}, "note": "Word for word, exactly the Latin's eleven syllables, and it keeps salvum fácere apart from salváre; but it is a calque nobody prays, and 'salvo' needs a feminine twin for a woman praying alone.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "v3order", "refs": ["53:3"], "latin": "… salvum me fac: * et in virtúte tua júdica me.", "kind": "order",
+      "why": "In the Latin's order the two cola end 'salvai-me' / 'julgai-me': a full rhyme at mediant and final, which rule 5 counts a defect. The Latin's own echo there is only the pronoun (me fac / me).",
+      "options": [
+        {"label": "e julgai-me no vosso poder", "forms": {"v3b": "e julgai-me {virtute}"}, "note": "Draft. The first colon keeps the Latin's order, because it is the incipit and is read beside 'Deus, in nómine tuo salvum me fac'; the second takes the natural Portuguese order, which removes the rhyme and closes the verse on an oxytone.", "from": "draft"},
+        {"label": "e no vosso poder julgai-me", "forms": {"v3b": "e {virtute} julgai-me"}, "note": "The Latin's order and its parallelism in both cola, at the price of the rhyme salvai-me / julgai-me.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "virtute", "refs": ["53:3"], "latin": "in virtúte tua", "kind": "glossary",
+      "why": "virtus here is δύναμις, power. It is one of the psalter's heavy words — 72 verses by a quick count, from 'Dóminus virtútum' to 'déxtera Dómini fecit virtútem' (117:16, next in the order of work) to Pharaoh's army (135:15) — and it stands beside fortitúdo (67:36 virtútem et fortitúdinem) and poténtia (64:7 in virtúte tua, accínctus poténtia), so the three want three words. It wants a word study; this is a proposal for the singular 'in virtúte tua' only.",
+      "options": [
+        {"label": "poder", "forms": {"virtute": "{in_m} vosso poder"}, "note": "Draft, with Matos Soares 1932, pt-PT and DM1962. Plain, and it makes no false echo with 'os fortes' two verses on. Cost: it takes the natural word of potéstas / potens, which the word study will have to weigh.", "from": "MS1932"},
+        {"label": "força", "forms": {"virtute": "{in_f} vossa força"}, "note": "Douay-Rheims 'strength'. Good for the verses where virtus fails a man (21:16, 30:11, 37:11, 70:9); here it would chime with 'fortes' in 53:5, which the Latin does not, and it is the natural word of fortitúdo.", "from": "DRB"},
+        {"label": "virtude", "forms": {"virtute": "{in_f} vossa virtude"}, "note": "The cognate. In current Portuguese 'virtude' is a moral quality; the sense 'power' survives only in 'em virtude de'. It would need the footnote rule 5 forbids.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "auribus", "refs": ["53:4"], "latin": "áuribus pércipe", "kind": "glossary",
+      "why": "áuribus percípere (ἐνωτίζομαι, 'to take into the ears'; L&S cites the psalter for percípere áuribus 'hear, give ear') occurs eight times, and in four of them, as here, it is the second member after exáudi (38:13, 53:4, 83:9, 142:1); in 85:6 it stands before inténde. So it needs a verb that is not escutar (exaudíre), not ouvir (audíre), not atender (inténdere), and that stays apart from 'inclína aurem tuam' (ten verses: 16:6, 30:3, 85:1, 87:3, 101:3 …). It must work with an object (verba, oratiónem, lácrimas) and with none (83:9 áuribus pércipe, Deus Jacob; 48:2 áuribus percípite omnes), and at the vós imperative.",
+      "options": [
+        {"label": "dai ouvidos a", "forms": {"auribus": "dai ouvidos às"}, "note": "Draft, and the proposal for all eight places (tried in each: 5:2 'Dai ouvidos, Senhor, às minhas palavras'; 38:13 'dai ouvidos às minhas lágrimas'; 83:9 'dai ouvidos, Deus de Jacó'; 48:2 'dai ouvidos, todos vós que habitais o orbe'). Keeps the ears, which are the Latin's image; is living Brazilian Portuguese; 'dai' is safe under rule 3 (the past is 'dei'); Douay-Rheims has the same idiom ('give ear'), and pt-PT uses it once (5:2). Cost: in everyday speech 'dar ouvidos a' leans toward 'give credence to'.", "from": "glossary"},
+        {"label": "prestai ouvidos a", "forms": {"auribus": "prestai ouvidos às"}, "note": "pt-PT at 85:6 and 142:1. The same image, a little more formal, without the shade of 'believing'; 'prestai' is safe (past 'prestei'). Less said in Brazil than 'prestar atenção', and one syllable longer.", "from": "pt-PT"},
+        {"label": "percebei com os ouvidos", "forms": {"auribus": "percebei com os ouvidos as"}, "note": "Word for word (DM1962, though from the Hebrew, reaches for the same verb: 'que teus ouvidos percebam'). 'percebei' is safe (past 'percebi'), but the phrase is a calque, four syllables over, and cannot stand without an object (83:9, 48:2).", "from": "DM1962"},
+        {"label": "atendei a", "forms": {"auribus": "atendei às"}, "note": "Matos Soares 1932 and pt-PT in this verse. Refused: it is the glossary's verb for inténdere, which stands beside áuribus pércipe in 85:6, and it drops the ears.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "alieni", "refs": ["53:5"], "latin": "aliéni … et fortes", "kind": "grammar",
+      "why": "aliéni (ἀλλότριοι: those who are another's, strangers) and fortes (κραταιοί, the mighty) stand without article in the Greek, which has one to use; the Latin cannot show the difference. Portuguese must choose between a bare plural and the generic article.",
+      "options": [
+        {"label": "os estranhos … os fortes", "forms": {"alieni": "os estranhos", "fortes": "os fortes"}, "note": "Draft, with Matos Soares 1932 and pt-PT. A bare plural subject before its verb is headline Portuguese; the article is how the language names a class, and it brings the long first colon nearer the Latin's length.", "from": "MS1932"},
+        {"label": "estranhos … fortes", "forms": {"alieni": "estranhos", "fortes": "fortes"}, "note": "Indefinite, as in the Greek and in Douay-Rheims ('strangers … the mighty'). Two syllables shorter; 'e fortes buscaram' is thin in the mouth.", "from": "draft"},
+        {"label": "os estrangeiros … os fortes", "forms": {"alieni": "os estrangeiros", "fortes": "os fortes"}, "note": "Narrows aliéni to foreigners by nation. The Latin word is wider: anyone who is not one's own (L&S: 'not related or allied, not friendly, strange').", "from": "draft"}
+      ]
+    },
+    {
+      "id": "insurrexerunt", "refs": ["53:5"], "latin": "insurrexérunt advérsum me", "kind": "glossary",
+      "why": "insúrgere in / advérsum recurs for the enemies (3:2, 17:40, 26:12, 85:14, 91:12 …), beside exsúrgere and súrgere, which are said of God (Exsúrge, Dómine).",
+      "options": [
+        {"label": "se levantaram contra mim", "forms": {"insurrexerunt": "levantaram"}, "note": "Draft, with Matos Soares 1932, pt-PT and DM1962. The plainer of two faithful words. Cost: insúrgere and exsúrgere will share 'levantar-se', told apart only by 'contra'.", "from": "MS1932"},
+        {"label": "se insurgiram contra mim", "forms": {"insurrexerunt": "insurgiram"}, "note": "The cognate, current in Brazil, and it keeps the enemies' verb apart from God's 'Levantai-vos'. Slightly newspaper in register.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "conspectum", "refs": ["53:5"], "latin": "ante conspéctum suum", "kind": "glossary",
+      "why": "conspéctus is 'sight, view' (ἐνώπιον αὐτῶν), and 'in conspéctu' is everywhere in the psalter. In this psalm the eye itself comes in 53:9 (óculus meus), so a rendering with 'olhos' here would make a link the Latin does not make.",
+      "options": [
+        {"label": "diante da sua vista", "forms": {"conspectum": "diante da sua vista"}, "note": "Draft. 'vista' is conspéctus; the colon comes to the Latin's fifteen syllables. Cost: 'sua' is not reflexive by form as 'suum' is — the hearer resolves it by sense (no one sets God before God's own sight).", "from": "draft"},
+        {"label": "diante de si", "forms": {"conspectum": "diante de si"}, "note": "Matos Soares 1932 and pt-PT. Native and unambiguously reflexive; conspéctus goes unheard and the colon falls 4–5 syllables short.", "from": "MS1932"},
+        {"label": "diante dos seus olhos", "forms": {"conspectum": "diante dos seus olhos"}, "note": "Douay-Rheims ('before their eyes') and DM1962. The most natural phrase; refused as the text because óculus is another word, and it is coming in 53:9.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "adjuvat", "refs": ["53:6"], "latin": "Deus ádjuvat me", "kind": "glossary",
+      "why": "adjuváre belongs with adjutórium → auxílio (Ps 90) and adjútor, which is all over the psalter (117:7 Dóminus mihi adjútor, next in the order of work). A present indicative in the Latin (βοηθεῖ μοι).",
+      "options": [
+        {"label": "me auxilia", "forms": {"adjuvat": "me auxilia"}, "note": "Draft. The verb of the glossary's noun, so that ádjuvat / adjutórium / adjútor stay one family (auxiliar / auxílio). A little stiff beside 'me ajuda'.", "from": "glossary"},
+        {"label": "me ajuda", "forms": {"adjuvat": "me ajuda"}, "note": "The cognate and the plainest word there is. It would split the family (ajudar / auxílio) unless adjutórium moves to 'ajuda', which Ps 90 weighed and found thin.", "from": "draft"},
+        {"label": "vem em meu auxílio", "forms": {"adjuvat": "vem em meu auxílio"}, "note": "Matos Soares 1932 and pt-PT. Keeps the glossary's noun and sounds like prayer already known; but it adds a verb of motion, and it is the phrase the opening versicle of the Hours will want for another Latin (in adjutórium meum inténde).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "susceptor", "refs": ["53:6"], "latin": "suscéptor est ánimæ meæ", "kind": "glossary",
+      "why": "Open in the glossary since Ps 90:2 (ἀντιλήμπτωρ: one who takes up, upholds). Here it has a genitive — the upholder of my soul — which tries the Ps 90 word in a new construction. Must stay apart from protéctor → protetor.",
+      "options": [
+        {"label": "amparo", "forms": {"susceptor": "amparo"}, "note": "Ps 90:2, applied. 'O amparo da minha alma' is natural Portuguese; the cost is the same as there: an agent noun becomes an abstract one.", "from": "glossary"},
+        {"label": "defensor", "forms": {"susceptor": "defensor"}, "note": "Matos Soares 1932 at 90:2 (here he has 'protector'). An agent noun; adds the idea of fighting.", "from": "MS1932"},
+        {"label": "arrimo", "forms": {"susceptor": "arrimo"}, "note": "DM1962 in this verse ('o arrimo da minha vida') — from the Hebrew, so borrowed for the word only: a prop, what one leans on, alive in Brazil in 'arrimo de família'. Close to suscípere; rarer than 'amparo'.", "from": "DM1962"},
+        {"label": "protetor", "forms": {"susceptor": "protetor"}, "note": "Matos Soares 1932, pt-PT and Douay-Rheims here. Refused: it is the glossary's word for protéctor.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "averte", "refs": ["53:7"], "latin": "Avérte mala inimícis meis", "kind": "word",
+      "why": "An imperative in the Latin (the LXX has a future, ἀποστρέψει: the Latin is followed). a-vértere is 'to turn away, turn off', here with a dative of the ones the evils are turned to. Matos Soares 1932 and pt-PT paraphrase ('Faze recair … sobre').",
+      "options": [
+        {"label": "Desviai os males para", "forms": {"averte": "Desviai os males para"}, "note": "Draft. 'desviar' is a-vértere (turn off its course), 'para' the dative; it can serve 'avérte fáciem tuam' elsewhere. 'Desviai' is safe under rule 3 (past 'desviei'). Two syllables over the Latin.", "from": "draft"},
+        {"label": "Fazei recair os males sobre", "forms": {"averte": "Fazei recair os males sobre"}, "note": "Matos Soares 1932 and pt-PT. Says where the evils came from (they fall back), which is the Greek ἀπο-; more than the Latin verb says, and two verbs for one.", "from": "MS1932"},
+        {"label": "Voltai os males contra", "forms": {"averte": "Voltai os males contra"}, "note": "Douay-Rheims 'Turn back the evils upon'. Plain and the right length; 'contra' is stronger than a dative.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "disperde", "refs": ["53:7"], "latin": "dispérde illos", "kind": "glossary",
+      "why": "dispérdere (ἐξολεθρεύω, 'destroy utterly') comes about fifteen times, often of God and once in the twin of this very line (142:11b in misericórdia tua dispérdes inimícos meos). It is not dispérgere, 'scatter', which the psalter also has (58:12 Dispérge illos in virtúte tua). The obvious verb, destruir, fails rule 3: 'destruí-os' is also 'I destroyed them'.",
+      "options": [
+        {"label": "exterminai-os", "forms": {"disperde": "exterminai-os"}, "note": "Draft, with Matos Soares 1932 and pt-PT. As strong as the Greek, safe at every form under vós, paroxytone at the close. The Latin's own extermináre occurs once (79:14), of a boar in a vineyard.", "from": "MS1932"},
+        {"label": "fazei-os perecer", "forms": {"disperde": "fazei-os perecer"}, "note": "Keeps the perd- / perish sense of dis-pérdere; but it is a periphrasis, and períre is a verb of its own in the psalter (91:10 inimíci tui períbunt).", "from": "draft"},
+        {"label": "destruí-os", "forms": {"disperde": "destruí-os"}, "note": "Douay-Rheims has 'cut them off'; this is the everyday verb. Refused: the vós imperative equals the first-person past (rule 3).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "voluntarie", "refs": ["53:8"], "latin": "Voluntárie", "kind": "word",
+      "why": "ἑκουσίως: of my own will, unforced — the word of the freewill offering. Matos Soares 1932 turns the adverb into an adjective of a noun he supplies ('um sacrifício voluntário').",
+      "options": [
+        {"label": "De livre vontade", "forms": {"voluntarie": "De livre vontade"}, "note": "Draft. Keeps voluntas in 'vontade' and is how Portuguese says 'voluntarily'; 'livre' belongs to the idiom (Douay-Rheims: 'freely'). DM1962 says the same ('por livre vontade').", "from": "DM1962"},
+        {"label": "Voluntariamente", "forms": {"voluntarie": "Voluntariamente"}, "note": "The cognate, word for word; six syllables of office Portuguese at the head of a verse of praise.", "from": "draft"},
+        {"label": "De bom grado", "forms": {"voluntarie": "De bom grado"}, "note": "Shorter and warm; 'gladly' rather than 'of my own will', and the root is lost.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "confitebor", "refs": ["53:8"], "latin": "confitébor nómini tuo", "kind": "glossary",
+      "why": "confitéri to God (ἐξομολογέομαι) is open in the glossary, with 'louvar' pencilled in; it is in some 74 verses. Two facts from the Latin psalter bear on it. It stands in one verse with laudáre as its parallel (34:18 Confitébor tibi … laudábo te; 108:30 Confitébor Dómino … laudábo eum), so 'louvar' for both would make one word of two. And 'grátias ágere' never occurs in the psalms, so 'dar graças' is free. Here the setting is a freewill sacrifice after a rescue, and the Latin has a dative (nómini tuo).",
+      "options": [
+        {"label": "darei graças ao vosso nome", "forms": {"confitebor": "darei graças ao"}, "note": "Draft and proposal. Keeps the dative, fits the thank-offering, leaves 'louvar' to laudáre, and works at the form that matters most: 'Dai graças ao Senhor, porque ele é bom' (safe under rule 3). Cost: the root of confession — acknowledging aloud — is heard only faintly in thanksgiving.", "from": "draft"},
+        {"label": "louvarei o vosso nome", "forms": {"confitebor": "louvarei o"}, "note": "The glossary's pencilled word; Matos Soares 1932 and pt-PT here, Douay-Rheims 'give praise'. Plain and beloved; collides with laudáre.", "from": "glossary"},
+        {"label": "confessarei o vosso nome", "forms": {"confitebor": "confessarei o"}, "note": "The cognate. In Portuguese 'confessar' to God is first of all confessing sins, which the glossary keeps for 31:5; 'Confessai ao Senhor' at the head of Pss 105, 106, 117, 135 would be misheard.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "bonum", "refs": ["53:8"], "latin": "quóniam bonum est", "kind": "ambiguity",
+      "why": "bonum is neuter: either the name is good (nomen is neuter; so 98:3 Confiteántur nómini tuo magno: quóniam terríbile et sanctum est) or it is good to do so (91:2 Bonum est confitéri Dómino). It is not 'the Lord is good', which would be bonus. Portuguese has no neuter, so every rendering shifts the ambiguity a little.",
+      "options": [
+        {"label": "porque é bom", "forms": {"bonum": "porque é bom"}, "note": "Draft, with Matos Soares 1932 and pt-PT. Both of the Latin's readings stay possible (o nome é bom; é bom fazê-lo). Cost: the hearer may also take 'Senhor' as the subject, which the Latin's gender rules out.", "from": "MS1932"},
+        {"label": "porque é coisa boa", "forms": {"bonum": "porque é coisa boa"}, "note": "Makes the neuter audible and shuts out 'the Lord is good'; but it leans to the second reading and adds a noun.", "from": "draft"},
+        {"label": "porque ele é bom", "forms": {"bonum": "porque ele é bom"}, "note": "The first reading only (the name), and in the mouth it becomes the refrain 'porque ele é bom' of Confitémini Dómino, where the Latin has the masculine bonus. Refused: it resolves.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "eripuisti", "refs": ["53:9"], "latin": "eripuísti me", "kind": "glossary",
+      "why": "erípere is open in the glossary from Ps 90:15 (arrancar), kept apart from liberáre → livrar. Here it has its 'from' (ex omni tribulatióne), which is where 'arrancar' is at its most natural. LXX ἐρρύσω.",
+      "options": [
+        {"label": "arrancastes", "forms": {"eripuisti": "arrancastes"}, "note": "Ps 90:15, applied: 'de toda tribulação me arrancastes' — snatched out of, the image of e-rípere.", "from": "glossary"},
+        {"label": "libertastes", "forms": {"eripuisti": "libertastes"}, "note": "Smoother; the cognate of the other verb, liberáre.", "from": "draft"},
+        {"label": "livrastes", "forms": {"eripuisti": "livrastes"}, "note": "Matos Soares 1932 ('tens-me livrado'), pt-PT, DM1962, Douay-Rheims 'delivered'. Native; merges erípere with liberáre.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "despexit", "refs": ["53:9"], "latin": "et super inimícos meos despéxit óculus meus", "kind": "word",
+      "why": "despícere is literally 'to look down upon' and by figure 'to despise' (L&S); with 'super' + accusative and the eye as subject the Latin has the literal picture (LXX ἐπεῖδεν ἐν, 'looked upon'; Douay-Rheims 'my eye hath looked down upon my enemies'). Portuguese happens to have the same double sense in one idiom, 'olhar de cima'. The trouble is the ear: 'o meu olho olhou' repeats a root the Latin does not repeat (despéxit / óculus). The same verb is said of enemies in 91:12, 111:7b and 117:7 (et ego despíciam inimícos meos — next in the order of work), where there is no eye and 'olharei de cima' runs clean.",
+      "options": [
+        {"label": "e sobre os meus inimigos olhou de cima o meu olho", "forms": {"despexit": "e sobre os meus inimigos olhou de cima o meu olho"}, "note": "Draft. The Latin's own order (super inimícos meos / despéxit / óculus meus), taken because it puts three words between 'olhou' and 'olho' and keeps 'super' → 'sobre'; singular eye kept. Cost: a verb-before-subject order, and 'olhar sobre' is not everyday regency.", "from": "draft"},
+        {"label": "e o meu olho viu de cima os meus inimigos", "forms": {"despexit": "e o meu olho viu de cima os meus inimigos"}, "note": "Natural order and no jingle (the Greek verb is in fact 'saw upon'); but 'ver de cima' has only the literal sense, and the verb would then differ from 117:7.", "from": "draft"},
+        {"label": "e o meu olho olhou de cima os meus inimigos", "forms": {"despexit": "e o meu olho olhou de cima os meus inimigos"}, "note": "Natural order, the idiom whole; 'olho olhou' side by side.", "from": "draft"},
+        {"label": "e o meu olho olhou com desprezo para os meus inimigos", "forms": {"despexit": "e o meu olho olhou com desprezo para os meus inimigos"}, "note": "Matos Soares 1932 (he has 'os meus olhos olharam'). Explains the image instead of giving it, and has the jingle too.", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "53:3": "The psalm begins at 53:3 (53:1–2 are the title, which the Office does not say). júdica me → 'julgai-me', bare, as in the Latin; Matos Soares 1932 and DM1962 expand it ('julga a minha causa', 'defende a minha causa'). 'julgai' is safe under rule 3 (past 'julguei'). First colon 2 syllables short of the Latin with 'salvai-me'.",
+    "53:4": "exáudi → 'escutai' (glossary, working): the formula 'Senhor, escutai a minha oração' with the Latin's vocative, 'Deus'. verba oris mei → 'as palavras da minha boca': the mouth stays (DM1962 'lábios' is the Hebrew-family habit). The second colon is the glossary proposal for áuribus percípere — see the decision.",
+    "53:5": "No flex in the Latin, so none here: the first colon is long (27 syllables in Latin, 24 here) and is said on the tenor. quæsiérunt ánimam meam → 'buscaram a minha alma': ánima mea → a minha alma (glossary), not 'vida' (Matos Soares 1932, pt-PT); quǽrere → buscar as in Ps 4:3. 'a Deus' with the preposition, as all three Portuguese antecedents have it, so that 'Deus' is not heard as the subject of 'puseram'. proposuérunt → 'puseram … diante': the pro- is carried by 'diante'; 'propuseram' would mean 'proposed'. Quóniam → 'Porque', the same word three times in the psalm (53:5, 53:8, 53:9), as in the Latin.",
+    "53:6": "Ecce enim → 'Pois eis que' (ἰδοὺ γάρ); Matos Soares 1932 has 'Mas eis que', which is not enim. ádjuvat is a present: 'me auxilia'. 'est' kept as 'é'. ánimæ meæ → 'da minha alma'.",
+    "53:7": "The Latin has an imperative (Avérte) where the LXX has a future; the Latin is followed. véritas → 'verdade' (glossary, Ps 90:5), not the Hebrew-family 'fidelidade' (DM1962). 'in veritáte tua' → 'na vossa verdade', the same 'in' as in 53:3, and kept before the verb as in the Latin: the verse closes on the imperative. mala → 'os males', plural and concrete.",
+    "53:8": "sacrificábo tibi → 'sacrificarei a vós': sacrificáre → sacrificar as in Ps 4:6; the stressed 'a vós' after the verb because 'vos sacrificarei' can be heard as 'I will sacrifice you' (pt-PT's 'Sacrificar-me-ei … a Vós' is a slip of another kind). The verse ends on a colon, as in the Latin, because 53:9 depends on it; 'porque … : / Porque …' repeats as 'quóniam … : / Quóniam …' does (Matos Soares 1932 varies it: 'porque … Porquanto'). Second colon 4 syllables short of the Latin, accepted: nothing is left out. Douay-Rheims reads 'O God' where this Latin has Dómine; the Latin is followed.",
+    "53:9": "eripuísti is a perfect: 'me arrancastes' (Matos Soares' 'tens-me livrado' is iterative in Brazil). 'de toda tribulação' without the article, which in Brazil is 'every' (ex omni), where 'toda a tribulação' would be 'the whole of the'. tribulátio → tribulação (glossary). First colon 4 short of the Latin, accepted; naming the subject ('vós me arrancastes') would mend the count and is unnecessary. óculus meus → 'o meu olho', singular as in the Latin (Matos Soares 1932 and DM1962 make it plural)."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm53.txt, seven prayed verses, 53:3–53:9, each with one '*' and no other mark. The Hetzenauer 1914 print read was skipped overnight and is owed."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps053.md (Douay-Rheims there is the right psalm this time; the pt-PT block is numbered 53:1–7 for 53:3–9, and words/percipere.concordance.md pairs the pt-PT lines wrongly for the same reason). Lewis & Short consulted for percípio, despício, dispérdo, aliénus (letters A, P, V fetched into consult/). ps053/count.py is a scratch counter over the DO Latin psalter, used for the glossary proposals (dispérdere, despícere, virtus, confitéri beside laudáre, grátias, inclína aurem). Latin against the LXX: imperative Avérte (53:7) where the Greek has a future — the Latin followed. Rule 3 checked at every imperative: salvai, julgai, escutai, dai, desviai, exterminai all differ from their first-person past; destruir was refused for dispérde on that ground."},
+    {"step": "checks", "note": "Draft 1: hard pass (ids and marks). Soft: 53:3 first colon −3 (accepted: 'salvai-me' is the plain word; both longer options are in the decisions 'deus' and 'salvum'); 53:7 first colon +3 (accepted: 'para os' runs together in the mouth; the shorter 'Voltai os males contra' is an option); 53:9 first colon −4 (accepted: nothing is left out; 'vós me arrancastes' would add a syllable only). No rhyme or cadence flags."}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "33860bcfb4a9b86a1a9dcc7d65d48fa69054ef52b0806db7bcde0d6c212e2674",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:03:06+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução conserva o sentido, as relações gramaticais e as imagens do latim em todos os versículos, sem acréscimos ou omissões de conteúdo. As marcas de divisão coincidem em identidade e ordem com as do arquivo latino, inclusive o sinal + em 2:29.\"}"
+}

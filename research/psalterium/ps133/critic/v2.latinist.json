@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "d7d2d43eda808d4880fd3c2d3c4e32f497678813e5f27c9e44deae88afdd2d2e",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:06:13+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"133:2\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"in sancta\",\n          \"portuguese\": \"para o lugar santo\",\n          \"problem\": \"Sancta é acusativo neutro plural; a tradução substitui o plural pelo singular.\",\n          \"fix\": \"para os lugares santos\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução é adequada nos demais trechos; em 133:2, deve-se conservar o plural de sancta. Todos os versículos mantêm as mesmas marcas de apontamento, na mesma ordem do latim.\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "bf7a2091fc12cb61e2eabca9f5ba7d47bc0f878411b4ba6dba4e2d094c34a9b3",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T12:00:28+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"11:2\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"defécit sanctus\",\n          \"portuguese\": \"já não há santo\",\n          \"problem\": \"Exprime o resultado presente, mas substitui o perfeito latino por uma afirmação de existência no presente.\",\n          \"fix\": \"desapareceu o santo\"\n        },\n        {\n          \"latin\": \"diminútæ sunt veritátes\",\n          \"portuguese\": \"diminuíram as verdades\",\n          \"problem\": \"Substitui a voz passiva por uma construção intransitiva, contrariando a exigência de conservar a voz.\",\n          \"fix\": \"foram diminuídas as verdades\"\n        }\n      ]\n    },\n    {\n      \"id\": \"11:4\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"linguam magníloquam\",\n          \"portuguese\": \"a língua que fala grandezas\",\n          \"problem\": \"A formulação pode indicar apenas assuntos grandiosos; magniloquam caracteriza a fala como altiva ou jactanciosa.\",\n          \"fix\": \"a língua que fala com altivez\"\n        }\n      ]\n    },\n    {\n      \"id\": \"11:5\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"lábia nostra a nobis sunt\",\n          \"portuguese\": \"os nossos lábios são nossos\",\n          \"problem\": \"A posse é uma interpretação defensável, mas apaga a relação de procedência expressa por a nobis. Essa leitura de procedência também aparece no [comentário de Pedro Lombardo](https://www.magistersententiarum.com/en/works/lombardus/in-psalmos-commentarius/psalmi-xi-xv).\",\n          \"fix\": \"os nossos lábios vêm de nós\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo e as imagens do latim, inclusive suas expressões incomuns. Todas as marcas de apontamento coincidem com as do latim em identidade e ordem.\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "5054c73bfe06237b02d1d113f9198a5f5966ca13cef08bb5c302bf2d6c249cca",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T08:31:03+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"7:5\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"décidam mérito ab inimícis meis inánis\",\n          \"portuguese\": \"caia eu vazio, com razão, diante dos meus inimigos\",\n          \"problem\": \"«Ab inimícis meis» atribui aos inimigos a origem da queda; «diante dos meus inimigos» transforma essa relação em mera presença ou posição.\",\n          \"fix\": \"caia eu vazio, com razão, por obra dos meus inimigos.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o conteúdo dos demais versículos, inclusive as expressões incomuns do latim. Nos 18 versículos, os sinais de divisão são os mesmos e aparecem na mesma ordem que no original.\"\n}"
+}

@@ -1,0 +1,26 @@
+// Runs review.html's script against a stub DOM: catches syntax and render-time errors, prints the rendered psalm text.
+const fs = require('fs');
+const html = fs.readFileSync(process.argv[2], 'utf8');
+const script = html.match(/<script>([\s\S]*)<\/script>/)[1];
+const els = {};
+const el = (id) => (els[id] ??= { id, innerHTML: '', value: '', checked: false, dataset: {}, hidden: true, addEventListener() {}, focus() {}, select() {} });
+global.document = { getElementById: el, addEventListener(type, fn) { (global.handlers ??= {})[type] = fn; }, activeElement: null };
+const store = {};
+global.localStorage = { getItem: (k) => store[k] ?? null, setItem: (k, v) => { store[k] = v; }, removeItem: (k) => delete store[k] };
+global.window = global; global.scrollX = 0; global.scrollY = 0;
+eval(fs.readFileSync(require('path').join(require('path').dirname(process.argv[2]), 'consult/compare-ps004.js'), 'utf8'));
+global.navigator = {}; global.confirm = () => true; global.location = { reload() {} };
+eval(script + '\n;global.api = { state, decisions, asMarkdown, stylistIndex };');
+const text = (h) => h.replace(/<span class="num">\d+[a-z]?<\/span>/g, '').replace(/<\/span><span class="colon">/g, ' / ').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+const show = (label) => { console.log('\n== ' + label); for (const row of els.psalm.innerHTML.split('<div class="verse"').slice(1)) console.log(text(row.split('<div class="side pt"')[1])); };
+show('draft 2, vós, app pointing');
+const fire = (name, value, extra = {}) => global.handlers.change({ target: { name, value: String(value), type: 'radio', ...extra } });
+fire('preset', 'stylist'); show('stylist preset');
+fire('address', 'tu'); fire('pointing', 'full'); fire('preset', 'draft'); fire('ordo', 1); fire('signatum', 1); show('tu, flexes, Latin order + assinalada');
+fire('preset', 'stylist'); fire('preset', 'mine'); show('back to mine');
+fire('compare', 'all');
+const v6 = els.psalm.innerHTML.split('id="v-4-6"')[1].split('id="v-4-7"')[0];
+console.log('\n== compare, 4:6\n' + v6.split('class="cf"').slice(1).map((c) => c.replace(/<\/p>/g, '\n').replace(/<[^>]+>/g, ' ').replace(/[ \t]+/g, ' ')).join('--\n'));
+console.log('\nbar:', ['w-draft', 'w-stylist', 'w-mine'].filter((id) => els[id].checked));
+console.log('\n' + global.api.asMarkdown());
+console.log('\ndecisions html ok:', els.decisions.innerHTML.length > 1000, '| pairs:', (els.pairs.innerHTML.match(/class="pair"/g) || []).length);

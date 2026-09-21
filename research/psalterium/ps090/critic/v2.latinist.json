@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "db5b6b50323499b331ea70ac1fb3bcf2c1e174ae36606156e46840ddbf540f54",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T01:46:49+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução conserva adequadamente o sentido do latim, inclusive suas imagens, mudanças de pessoa e particularidades, sem falhas que exijam correção. Em todos os versículos, as marcas †, ‡ e * correspondem às do latim e aparecem na mesma ordem.\"}"
+}

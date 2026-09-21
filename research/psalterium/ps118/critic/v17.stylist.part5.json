@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "c9dfa5deabf44691560332519a39c6fa6db60d1614ab6e7c8c589c2a1bd0e541",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T09:02:18+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"118:152\",\n      \"fails\": [\"native\", \"sayable\"],\n      \"remarks\": [\n        {\n          \"words\": \"Desde o início soube dos vossos testemunhos: * que os fundastes para sempre.\",\n          \"problem\": \"Ao chegar à pausa, o ouvido entende «soube dos vossos testemunhos» como uma frase completa. O «que» seguinte exige reconstruir a ligação. Um «isto» prepara a continuação.\",\n          \"alternative\": \"Desde o início soube isto dos vossos testemunhos: * que os fundastes para sempre.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"118:157\",\n      \"fails\": [\"plain\"],\n      \"remarks\": [\n        {\n          \"words\": \"me atribulam\",\n          \"problem\": \"«Atribulam» pede reconhecimento de vocabulário e soa mais livresco que o restante da oração. «Afligem» conserva o sentido e chega mais diretamente ao ouvido.\",\n          \"alternative\": \"Muitos são os que me perseguem e me afligem: * não me apartei dos vossos testemunhos.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O trecho soa sóbrio e orante, com inversões que em geral cabem naturalmente no registro litúrgico. As terminações permitem a cadência pedida, e não ouço rimas involuntárias salientes entre os membros. A principal quebra de fluência está na construção suspensa do versículo 152.\",\n  \"worstLine\": \"118:152\",\n  \"bestLine\": \"118:153\"\n}"
+}

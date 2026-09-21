@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "54d645260f4c2987b009b132a6628d9804f65731369047089664ad9af7bad77e",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:57:09+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"Não identifiquei falhas de adequação nos 32 versículos: as escolhas portuguesas são defensáveis pelo latim e preservam suas imagens e construções peculiares. Todos os sinais de divisão coincidem com os do original em identidade e ordem.\"}"
+}

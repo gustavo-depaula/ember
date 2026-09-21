@@ -1,0 +1,29 @@
+[
+  {"step": "latinist", "file": "critic/v5.latinist.part2.json", "note": "Stage two, draft 5, the new verses only (part2/, 9:22–9:39). One verse, 9:37, MAJOR, with two remarks. The rest passes, including the verses the draft thought hardest (9:25, 9:27, 9:31).",
+   "outcomes": [
+     {"verse": "9:37", "remark": "'pelos séculos dos séculos' pluralises two singulars → 'pelo século do século'", "outcome": "option", "decision": "saeculi", "reason": "The glossary formula and D23, as at 9:6, where he asked for it three times in stage one. The formula is one slot for 9:6 and 9:37, so the two cannot drift."},
+     {"verse": "9:37", "remark": "'fora da terra dele' puts the death in another place, where de terra is removal from it → 'desaparecereis, nações, da terra dele'", "outcome": "taken", "decision": "peribitis", "reason": "The blind reader heard exactly what he warned of ('as nações morrerão fora da terra de Deus'). D20's 'fora de' was right at 2:12 for straying from the way; here it misplaces the death. Taken with the Latin's own verb and preposition, 'perecereis da terra dele, nações', the vocative moved last so 'nações da terra dele' is not heard as one phrase; his 'desaparecereis' (another verb) is an option."}
+   ]},
+  {"step": "stylist", "file": "critic/v5.stylist.part2.json", "note": "Stage two, draft 5. Seven verses; best line 9:33, worst 9:37. Six taken, one refused (the formula's order).",
+   "outcomes": [
+     {"verse": "9:23", "remark": "'se ensoberbece' hard to say and uncommon → 'se enche de soberba'", "outcome": "taken", "decision": "superbit", "reason": "The same root, plain; the blind reader also listed 'ensoberbece' as unknown."},
+     {"verse": "9:30a", "remark": "small words pile up before the lion → 'arma emboscada às escondidas, como leão no seu covil'", "outcome": "taken", "decision": "insidiae", "reason": "'armar emboscada' carries into 9:30b ('Arma emboscada'); 9:29 keeps 'Senta-se de emboscada' for Sedet in insídiis. 'covil' kept though the blind reader did not know it: the stylist kept it, and it is the lion's word."},
+     {"verse": "9:34", "remark": "subject between verb and object is bookish → 'Por que razão o ímpio provocou a Deus?'", "outcome": "taken", "reason": "Order yields to the ear (D2)."},
+     {"verse": "9:35a", "remark": "two 'vós' close together → 'Vedes, pois vós considerais'", "outcome": "taken", "decision": "vides", "reason": "The pronoun where the Latin has it (tu with consíderas)."},
+     {"verse": "9:37", "remark": "'séculos' proparoxytone before the mark → reverse to 'pelos séculos dos séculos, e para sempre'", "outcome": "option", "decision": "saeculi", "reason": "Refused as at 9:6: the glossary formula keeps the Latin's order, and one slot serves both verses."},
+     {"verse": "9:38", "remark": "run of -ção → 'o preparo do coração deles'", "outcome": "taken", "decision": "auris", "reason": "Same root, readiness; the blind reader had heard 'preparação' as a disposition to pray."},
+     {"verse": "9:39", "remark": "long colon, hard enclisis → 'não torne a se engrandecer'", "outcome": "taken", "decision": "apponat", "reason": "Taken as 'não torne mais a se engrandecer': 'mais' kept for ultra, which his line dropped."}
+   ]},
+  {"step": "ambiguity", "file": "critic/v5.ambiguity.part2.json", "note": "Stage two, draft 5. 26 items; unknown words desdenhais, ensoberbece, abrasado, iníquo, exasperou, covil. Most splits are the Latin's own (9:25 whose ira, 9:26b, 9:31 subject, 9:35a 'os', 9:36).",
+   "outcomes": [
+     {"verse": "9:37", "remark": "'fora da terra dele' heard as dying outside God's land", "outcome": "taken", "decision": "peribitis", "reason": "With the Latinist's major; see above."},
+     {"verse": "9:25", "remark": "'exasperou' unknown", "outcome": "taken", "decision": "exacerbavit", "reason": "→ 'provocou', as Douay-Rheims: 9:25 and 9:34 are one Greek verb, so D15 merges them and the two verses now echo each other. The glossary's 'exasperar' stays proposed only where exacerbáre and irritáre stand in one verse."},
+     {"verse": "9:23", "remark": "'ensoberbece' unknown", "outcome": "taken", "decision": "superbit", "reason": "With the stylist: 'se enche de soberba'."},
+     {"verse": "9:23", "remark": "'abrasado' unknown", "outcome": "refused", "decision": "incenditur", "reason": "The fire is the Latin's image (incénditur) and he heard it right ('queimado ou sofre como se'); 'arde' and 'é queimado' are options."},
+     {"verse": "9:22", "remark": "'desdenhais' unknown", "outcome": "refused", "decision": "despicis", "reason": "He heard the sense right (despreza); despícere said of God wants a word stronger than 'desprezar' is common, and the glossary row is proposed."},
+     {"verse": "9:24", "remark": "'iníquo' unknown; 'é bendito' heard as blessed by God", "outcome": "refused", "decision": "benedicitur", "reason": "iníquus → iníquo is the glossary's; benedícitur is the Latin's own word, and the irony that men bless him is the verse's — 'bendito' keeps the word the Psalter uses for God's blessing, as the Latin does."},
+     {"verse": "9:35a", "remark": "'os' has no clear referent", "outcome": "refused", "reason": "The Latin's own: ut tradas eos has no expressed antecedent."},
+     {"verse": "9:31", "remark": "subject of 'se inclinará, e cairá' unclear", "outcome": "refused", "reason": "The Latin's own ambiguity (inclinábit se et cadet)."}
+   ]},
+  {"step": "revision", "version": 6, "note": "Stage two, draft 6 (revise_v6.py; draft 5 kept as prayed.v5.json): 9:23 'se enche de soberba' (new decision superbit); 9:25 'provocou'; 9:30a/9:30b 'arma emboscada', 'como leão'; 9:34 order; 9:35a 'Vedes, pois vós'; 9:37 'perecereis da terra dele, nações'; 9:38 'o preparo'; 9:39 'não torne mais a se engrandecer'."}
+]

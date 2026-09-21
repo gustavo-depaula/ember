@@ -1,0 +1,3 @@
+[
+  {"step": "checks", "note": "Stage one, draft 1, through ps009/partial.py (checks.py's own code on 9:2–9:21): hard pass (ids and marks). Soft flags, all accepted: 9:3 both cola long (+3, +5: 'Eu me' supplied, and D25's two words 'entoarei salmos' for psallam); 9:4b +3, 9:6b +3 (the doxology formula, which ends on 'séculos' as the Latin on sǽculi), 9:7a first colon +4 (articles and 'até o fim'), 9:11 first colon +3, 9:12 first colon +3 (entoai salmos again), 9:15 second colon +3, 9:16a second colon +3, 9:17 first colon +3 (the gerund 'executando'); 9:10b −3 and 9:13a −3 and 9:17b −4 (Latin polysyllables: opportunitátibus, requírens sánguinem, opéribus mánuum). No cadence flag: every Portuguese colon ends oxytone or paroxytone. No rhyme flag."}
+]

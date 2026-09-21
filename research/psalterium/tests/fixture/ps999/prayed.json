@@ -1,0 +1,49 @@
+{
+  "psalm": 999, "tier": 3, "version": 2, "address": "vós", "status": "reviewed",
+  "verses": {
+    "999:1": "{clamavi} ao Senhor, * e ele {exaudivit}.",
+    "999:2": "{lineTwo} † no dia da angústia: * {exaudi}, Senhor.",
+    "999:3": "Bendito o Senhor para sempre."
+  },
+  "decisions": [
+    {
+      "id": "exaudire", "refs": ["999:1", "999:2"], "latin": "exaudívit, exáudi", "kind": "glossary",
+      "why": "One verb in two verses: the glossary has escutar.",
+      "options": [
+        {"label": "escutar", "forms": {"exaudivit": "me escutou", "exaudi": "escutai-me"}, "note": "draft — the glossary", "from": "draft"},
+        {"label": "atender", "forms": {"exaudivit": "me atendeu", "exaudi": "atendei-me"}, "note": "says hear and grant", "from": "stylist"}
+      ]
+    },
+    {
+      "id": "clamavi", "refs": ["999:1"], "latin": "Clamávi", "kind": "word",
+      "why": "Clamare is louder than chamar.",
+      "options": [
+        {"label": "Clamei", "forms": {"clamavi": "Clamei"}, "from": "draft"},
+        {"label": "Gritei", "forms": {"clamavi": "Gritei"}, "note": "rawer", "from": "latinist"}
+      ]
+    },
+    {
+      "id": "ordo", "refs": ["999:2"], "latin": "word order of 999:2", "kind": "order",
+      "why": "The form holds another decision's slot and crosses no mark.",
+      "options": [
+        {"label": "Busquei o {facies} dele", "forms": {"lineTwo": "Busquei o {facies} dele"}, "from": "draft"},
+        {"label": "O {facies} dele busquei", "forms": {"lineTwo": "O {facies} dele busquei"}, "note": "the Latin's order", "from": "stylist"}
+      ]
+    },
+    {
+      "id": "facies", "refs": ["999:2"], "latin": "fáciem", "kind": "word",
+      "why": "Face or countenance.",
+      "options": [
+        {"label": "rosto", "forms": {"facies": "rosto"}, "from": "draft"},
+        {"label": "semblante", "forms": {"facies": "semblante"}, "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {"999:3": "No decision here: the formula is the glossary's."},
+  "audit": [
+    {"step": "draft", "note": "psalm-level draft from parallels."},
+    {"step": "checks", "note": "hard pass."},
+    {"step": "stylist", "file": "critic/v1.stylist.json", "note": "2 remarks; 999:1 taken; 999:2 kept as an option because the Latin's order is defensible."},
+    {"step": "revision", "note": "v2: 999:1 chamei → Clamei after the stylist."}
+  ]
+}

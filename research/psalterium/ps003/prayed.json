@@ -1,0 +1,462 @@
+{
+  "psalm": 3,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "3:2": "Senhor, por que se multiplicaram os que me atribulam? * muitos se {insurgunt} contra mim.",
+    "3:3": "Muitos dizem à minha alma: * Não há salvação para {ipsi} no seu Deus.",
+    "3:4": "Vós, porém, Senhor, sois o meu {susceptor}, * a minha glória, e {exaltans} a minha cabeça.",
+    "3:5": "Com a minha voz clamei ao Senhor: * e ele me {exaudivit} do seu monte santo.",
+    "3:6": "Eu dormi, e {soporatus}: * e {exsurrexi}, porque o Senhor me {suscepit}.",
+    "3:7": "Não temerei {millia}: * {exsurge}, Senhor, salvai-me, meu Deus.",
+    "3:8": "Porque vós feristes todos {adversantes} sem causa: * {contrivisti} os dentes dos pecadores.",
+    "3:9": "{v9a}: * e sobre o vosso povo {v9b}a vossa bênção."
+  },
+  "decisions": [
+    {
+      "id": "susceptor",
+      "refs": ["3:4", "3:6"],
+      "latin": "suscéptor meus es … quia Dóminus suscépit me",
+      "kind": "glossary",
+      "why": "suscéptor is `open` in the glossary (amparo: Ps 90:2, Ps 53:6), and suscípere → amparar is working (Ps 117:13, the same three words: et Dóminus suscépit me). This psalm is the one that has noun and verb together, two verses apart — and the Greek has the same pair (ἀντιλήμπτωρ … ἀντιλήμψεται) — so it is the test of whether the pair holds. Here the noun stands in a row of three predicates: suscéptor meus, glória mea, exáltans caput meum.",
+      "options": [
+        {
+          "label": "amparo … me amparou",
+          "forms": {"susceptor": "amparo", "suscepit": "amparou"},
+          "note": "Ruling: the glossary's pair, and it holds — 'sois o meu amparo … porque o Senhor me amparou' lets the hearer catch the echo the Latin makes. The abstract noun sits well beside 'a minha glória', which is abstract in the Latin too. 3:6b is word for word 117:13b ('o Senhor me amparou'), as the Latin is. With three psalms now behind it and a fourth use here, the row could be settled.",
+          "from": "glossary"
+        },
+        {
+          "label": "protetor … me protegeu",
+          "forms": {"susceptor": "protetor", "suscepit": "protegeu"},
+          "note": "Matos Soares 1932 ('o meu protector'; but 'me amparou' in 3:6, so he breaks the pair) and Douay-Rheims ('my protector … hath protected me'). Refused: protéctor / protégere have these words in the glossary.",
+          "from": "DRB"
+        },
+        {
+          "label": "defensor … me defendeu",
+          "forms": {"susceptor": "defensor", "suscepit": "defendeu"},
+          "note": "Matos Soares 1932 at 90:2. An agent noun, as suscéptor is; adds fighting, and 'defendeu' is wrong for the man who has just woken up.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exsurgere",
+      "refs": ["3:2", "3:6", "3:7"],
+      "latin": "insúrgunt advérsum me … exsurréxi … exsúrge, Dómine",
+      "kind": "glossary",
+      "why": "The psalm turns on one root: the many rise against me (insúrgunt), I rose up (exsurréxi), rise up, Lord (exsúrge). The glossary has insúrgere → levantar-se contra (open, Ps 53:5), noting that it shares 'levantar-se' with God's exsúrgere — here that sharing is the Latin's own figure. 'Exsúrge, Dómine' is a formula (7:7, 9:20, 9:33, 16:13, 43:26 …). 'Levantai-vos' is safe under rule 3 (past 'levantei').",
+      "options": [
+        {
+          "label": "se levantam contra mim … me levantei … levantai-vos",
+          "forms": {"insurgunt": "levantam", "exsurrexi": "me levantei", "exsurge": "levantai-vos"},
+          "note": "Ruling. One Portuguese verb where the Latin has one root, three times; the plain verb for getting up from sleep, which is what 3:6 says on its face, and wide enough for the Easter reading the Church gives the verse. Proposed for the glossary: exsúrgere → levantar-se; 'Exsúrge, Dómine' → 'Levantai-vos, Senhor'.",
+          "from": "glossary"
+        },
+        {
+          "label": "se insurgem contra mim … me levantei … levantai-vos",
+          "forms": {"insurgunt": "insurgem", "exsurrexi": "me levantei", "exsurge": "levantai-vos"},
+          "note": "The cognate for the enemies only (Ps 53's second option). Keeps their verb apart from God's; the Latin does not.",
+          "from": "draft"
+        },
+        {
+          "label": "se levantam … me ergui … erguei-vos",
+          "forms": {"insurgunt": "levantam", "exsurrexi": "me ergui", "exsurge": "erguei-vos"},
+          "note": "A second verb for ex-súrgere. 'Erguei-vos' is safe (past 'ergui' differs from 'erguei'); but the glossary gives 'erguer' to extóllere and Ps 2:2 used 'erguer-se' for astáre, and the link with 3:2 is lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "soporatus",
+      "refs": ["3:6"],
+      "latin": "Ego dormívi, et soporátus sum",
+      "kind": "word",
+      "why": "A Compline-and-Easter line, with three verbs to be kept apart: dormívi, soporátus sum, exsurréxi (compare 4:9 dórmiam et requiéscam → 'dormirei e repousarei', where the second verb is rest). soporári is 'to be cast into sleep' (L&S), from sopor, a deep sleep; the Greek has ἐκοιμήθην καὶ ὕπνωσα, 'I lay down and slept'. Douay-Rheims' 'taken my rest' blurs it with 4:9; Matos Soares 1932 has 'adormeci, e estive sepultado no sono'.",
+      "options": [
+        {
+          "label": "fui tomado pelo sono",
+          "forms": {"soporatus": "fui tomado pelo sono"},
+          "note": "Draft 3, the Latinist's second fix (v2 gate, major). Draft 1 had it as a refused option ('after Eu dormi it goes backwards'); I was wrong to refuse it on that ground — the Latin goes the same way (I slept, and was overcome by sleep), an intensifying pair, not a sequence. It keeps the passive, which in this verse is not idle grammar: the sleeper is acted upon (soporátus sum), then acts (exsurréxi), then says why (quia Dóminus suscépit me) — and that is how the Easter reading hears it. 'Ser tomado pelo sono' is living Portuguese; the three verbs stay three (dormi / fui tomado pelo sono / me levantei). Cost: the depth of sopor is no longer said.",
+          "from": "latinist"
+        },
+        {
+          "label": "caí em sono profundo",
+          "forms": {"soporatus": "caí em sono profundo"},
+          "note": "Drafts 1–2. sopor is exactly 'sono profundo', and 'cair no sono' is how Portuguese says being overcome by it. An active for the Latin's passive: the Latinist objected twice (minor, then major).",
+          "from": "draft"
+        },
+        {
+          "label": "fui tomado de sono profundo",
+          "forms": {"soporatus": "fui tomado de sono profundo"},
+          "note": "Passive and deep at once; three syllables over the Latin, and 'tomado pelo sono' is the idiom.",
+          "from": "draft"
+        },
+        {
+          "label": "fui adormecido",
+          "forms": {"soporatus": "fui adormecido"},
+          "note": "The Latinist's first fix (v1, minor). Refused: in Portuguese it is what is done to a patient before surgery.",
+          "from": "latinist"
+        },
+        {
+          "label": "adormeci profundamente",
+          "forms": {"soporatus": "adormeci profundamente"},
+          "note": "One verb and an adverb; but 'dormi … adormeci' repeats a root where the Latin changes root, and the adverb is five syllables.",
+          "from": "draft"
+        },
+        {
+          "label": "estive sepultado no sono",
+          "forms": {"soporatus": "estive sepultado no sono"},
+          "note": "Matos Soares 1932. Brings a tomb into the verse — apt for Easter, but it is his image, not the Latin's (D2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exaudivit",
+      "refs": ["3:5"],
+      "latin": "et exaudívit me",
+      "kind": "glossary",
+      "why": "exaudíre → escutar, settled (D3). The Latin has the same two words as 4:2a (exaudívit me).",
+      "options": [
+        {
+          "label": "escutou",
+          "forms": {"exaudivit": "escutou"},
+          "note": "D3, applied. 'e ele me escutou': the subject pronoun is supplied (D2) so that the colon does not fall three syllables short and the change of subject is heard; proclisis after 'ele' is the Brazilian order (4:2a has 'escutou-me' at the head of its clause).",
+          "from": "glossary"
+        },
+        {
+          "label": "ouviu",
+          "forms": {"exaudivit": "ouviu"},
+          "note": "Matos Soares 1932, Douay-Rheims 'heard'. It is audíre's verb (D3).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ipsi",
+      "refs": ["3:3"],
+      "latin": "Non est salus ipsi in Deo ejus",
+      "kind": "ambiguity",
+      "why": "The many speak to my soul about a third person: 'there is no salvation for ipsi in ejus God'. In Latin ipsi and ejus have no gender, so they can be the soul (ánima, feminine) or the man; Portuguese has to choose. The Greek, which explains the Latin, has the masculine αὐτῷ: the man.",
+      "options": [
+        {
+          "label": "para ele",
+          "forms": {"ipsi": "ele"},
+          "note": "Ruling, with the Greek, Douay-Rheims ('for him in his God') and Matos Soares 1932 ('para ele no seu Deus'). The taunt is about the man, spoken to his soul.",
+          "from": "MS1932"
+        },
+        {
+          "label": "para ela",
+          "forms": {"ipsi": "ela"},
+          "note": "Grammatically possible in the Latin alone (ipsi = ánimæ): they tell my soul there is no salvation for it. Smoother in Portuguese, since the soul has just been named; against the Greek.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exaltans",
+      "refs": ["3:4"],
+      "latin": "et exáltans caput meum",
+      "kind": "grammar",
+      "why": "A participle standing as the third predicate after two nouns: my upholder, my glory, and (the one) lifting up my head. exaltáre → exaltar (glossary, working: 117:16, 117:28a).",
+      "options": [
+        {
+          "label": "e quem exalta a minha cabeça",
+          "forms": {"exaltans": "quem exalta"},
+          "note": "Draft 2, from the stylist: after 'a minha glória', 'e o que' sounded like a patch; 'quem' is the personal relative and one syllable shorter. Still a relative for the participle, still the third of three predicates, still the glossary verb (Douay-Rheims: 'the lifter up of my head'). His other request, to drop the comma before 'e', is not taken: the comma is the Latin's (glória mea, et exáltans) and the text keeps the Latin's punctuation throughout.",
+          "from": "stylist"
+        },
+        {
+          "label": "e o que exalta a minha cabeça",
+          "forms": {"exaltans": "o que exalta"},
+          "note": "Draft 1. The neuter-looking 'o que' for a person; the stylist heard a patch.",
+          "from": "draft"
+        },
+        {
+          "label": "e exaltais a minha cabeça",
+          "forms": {"exaltans": "exaltais"},
+          "note": "A finite verb in the second person. Lighter; the third predicate becomes a new clause and the Latin's triple naming of God is broken.",
+          "from": "draft"
+        },
+        {
+          "label": "e o que levanta a minha cabeça",
+          "forms": {"exaltans": "o que levanta"},
+          "note": "'Levantar a cabeça' is the living idiom; but in this psalm 'levantar' is the verb of insúrgunt / exsurréxi / exsúrge, and it would make a fourth echo the Latin does not have.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "millia",
+      "refs": ["3:7"],
+      "latin": "míllia pópuli circumdántis me",
+      "kind": "grammar",
+      "why": "'Thousands of people surrounding me': circumdántis is genitive singular and goes with pópuli — it is the people that surrounds. timére + accusative → temer with a direct object (glossary); circumdáre → cercar (Ps 90:5, 117:11).",
+      "options": [
+        {
+          "label": "o povo que me cerca aos milhares",
+          "forms": {"millia": "o povo que me cerca aos milhares"},
+          "note": "Draft 2, the stylist's line (he named draft 1's the worst of the psalm: 'os milhares do povo soa como uma contagem incompleta e demora a formar a imagem'). The Latin's three words are all there — povo, cerca, milhares — and the people still surrounds in the singular; what changes is the syntax: the thousands move from object to adverb. Grammar and order, which D2 gives to the ear; the picture is the same and forms at once. The Latinist read it in draft 2 and did not object.",
+          "from": "stylist"
+        },
+        {
+          "label": "os milhares do povo que me cerca",
+          "forms": {"millia": "os milhares do povo que me cerca"},
+          "note": "Draft 1. The Latin's grammar exactly: the thousands are what is not feared, the people is their genitive.",
+          "from": "draft"
+        },
+        {
+          "label": "milhares de gente que me cerca",
+          "forms": {"millia": "milhares de gente que me cerca"},
+          "note": "Nearer to how one speaks; 'gente' is not a glossary word for pópulus, and the hostile 'people' against 'thy people' of 3:9 (pópuli … pópulum tuum) would be lost.",
+          "from": "draft"
+        },
+        {
+          "label": "esse povo inumerável que me cerca",
+          "forms": {"millia": "esse povo inumerável que me cerca"},
+          "note": "Matos Soares 1932. Paraphrases the number away.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adversantes",
+      "refs": ["3:8"],
+      "latin": "omnes adversántes mihi sine causa",
+      "kind": "word",
+      "why": "The Latin follows the Greek (τοὺς ἐχθραίνοντάς μοι ματαίως) and says 'without cause', where the Hebrew has 'on the cheek'. Rule 1: 'sem causa' is kept. adversári is 'to oppose, set oneself against'; a participle with a dative, not the noun adversárius.",
+      "options": [
+        {
+          "label": "os que se opõem a mim",
+          "forms": {"adversantes": "os que se opõem a mim"},
+          "note": "Ruling. The participle as a relative clause, the dative as a dative; 'sem causa' then attaches to their opposing, as in the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "os meus adversários",
+          "forms": {"adversantes": "os meus adversários"},
+          "note": "Douay-Rheims ('my adversaries without cause'). Shorter; a noun for the participle, and 'adversários sem causa' reads less clearly than 'opõem-se sem causa'.",
+          "from": "DRB"
+        },
+        {
+          "label": "os que me perseguem",
+          "forms": {"adversantes": "os que me perseguem"},
+          "note": "Matos Soares 1932. It is pérsequi's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "contrivisti",
+      "refs": ["3:8"],
+      "latin": "dentes peccatórum contrivísti",
+      "kind": "glossary",
+      "why": "contérere is 'to grind, crush, break to pieces' — and the Greek behind it (συντρίβω) is the same verb that stood behind confrínges in 2:9, which Ps 2 rendered 'quebrar'. The verb is frequent (33:19 contrítos corde, 45:10 arcum cónteret et confrínget arma, 50:19 cor contrítum, 57:7 Deus cónteret dentes eórum, 104:16, 106:16).",
+      "options": [
+        {
+          "label": "quebrastes",
+          "forms": {"contrivisti": "quebrastes"},
+          "note": "Ruling for this verse: what one does to teeth in Portuguese (Matos Soares 1932 'quebraste os dentes'; Douay-Rheims 'broken'). It shares the verb with confríngere, as the Greek does. Glossary: open — 45:10 sets the two side by side and will decide locally, and 50:19 cor contrítum will want 'contrito'. The verb is put first, the natural order (the Latin has it last).",
+          "from": "MS1932"
+        },
+        {
+          "label": "esmagastes",
+          "forms": {"contrivisti": "esmagastes"},
+          "note": "Nearer 'crush', and would keep contérere apart from confríngere; 'esmagar os dentes' is not said.",
+          "from": "draft"
+        },
+        {
+          "label": "triturastes",
+          "forms": {"contrivisti": "triturastes"},
+          "note": "The literal 'grind'. Teeth grind; they are not ground.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v9",
+      "refs": ["3:9"],
+      "latin": "Dómini est salus: * et super pópulum tuum benedíctio tua",
+      "kind": "order",
+      "why": "Two small things in the closing verse. The first colon fronts the genitive (Dómini est salus); the second has no verb, so it can be a statement (Douay-Rheims 'thy blessing is upon thy people') or a wish, and it turns from 'the Lord' to 'thy' without warning. salus → salvação (D6).",
+      "options": [
+        {
+          "label": "Do Senhor é a salvação: * e sobre o vosso povo a vossa bênção",
+          "forms": {"v9a": "Do Senhor é a salvação", "v9b": ""},
+          "note": "Ruling. The Latin's order, which is also good Portuguese ('Do Senhor é a terra'), closing the colon on the oxytone 'salvação'; the second colon verbless as in the Latin, open between statement and wish, the turn to 'vosso' kept as abrupt as the Latin's.",
+          "from": "draft"
+        },
+        {
+          "label": "A salvação é do Senhor: * e sobre o vosso povo a vossa bênção",
+          "forms": {"v9a": "A salvação é do Senhor", "v9b": ""},
+          "note": "Everyday order.",
+          "from": "draft"
+        },
+        {
+          "label": "Do Senhor é a salvação: * e sobre o vosso povo está a vossa bênção",
+          "forms": {"v9a": "Do Senhor é a salvação", "v9b": "está "},
+          "note": "A copula supplied, with Douay-Rheims. Closes the wish reading (Matos Soares 1932 supplies '(vem)').",
+          "from": "DRB"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "3:2": "The psalm begins at 3:2 (3:1 is the title; D7). 'quid' → 'por que', with the Latin's question mark (Douay-Rheims 'Why'); the lower case after '? *' follows the Latin, as in Ps 4:3. multiplicáti sunt → 'se multiplicaram' (as Ps 4:8). tribuláre → 'atribular', of the family of tribulátio → tribulação (glossary). 'multi … Multi' (3:2b, 3:3a) → 'muitos … Muitos', the anaphora kept. The Diurnal Monástico 1962 does not have this psalm.",
+    "3:3": "ánimæ meæ → 'à minha alma' (glossary). salus → salvação (D6). 'in Deo ejus' → 'no seu Deus'. The capital after the colon follows the Latin (Non est…).",
+    "3:4": "'Tu autem, Dómine' → 'Vós, porém, Senhor' (God is vós). Possessives with the article throughout: 'o meu amparo, a minha glória … a minha cabeça'.",
+    "3:5": "'Voce mea' → 'Com a minha voz', kept first as in the Latin. clamáre → clamar (glossary). 'de monte sancto suo' → 'do seu monte santo', the same words as 2:6 (montem sanctum ejus → 'o seu monte santo').",
+    "3:6": "'Ego' is said in the Latin and is kept: 'Eu dormi'. dormíre → dormir, as 4:9 'dormirei'. The three verbs are three: dormi / fui tomado pelo sono / me levantei (draft 3; decision 'soporatus'). The second colon's close is 117:13b word for word.",
+    "3:7": "'salvum me fac' → 'salvai-me' (glossary, Ps 53:3). 'Deus meus' → 'meu Deus', the living vocative (Matos Soares 1932 'Deus meu'). Lower case after the colon, as the Latin.",
+    "3:8": "'tu' is said in the Latin: 'vós feristes'. percútere → ferir (Matos Soares 1932 'tens ferido'; the perfect is a simple past here). peccatóres → pecadores (glossary, Ps 1).",
+    "3:9": "benedíctio → bênção."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm3.txt, eight prayed verses, 3:2–3:9, each with one '*' and no other mark. 3:1 is the titulus, which DO's file does not have (D7). The Hetzenauer 1914 print read was skipped overnight and is owed."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps003.md. Vulgate-family support: Douay-Rheims and Matos Soares 1932 only; the Diurnal Monástico 1962 does not have this psalm. DO's Portuguese was not used as evidence (D12). God is vós throughout (3:4, 3:7, 3:8, 3:9); rule 3 checked at the two imperatives: 'levantai-vos' (past 'levantei') and 'salvai-me' (past 'salvei') are safe. Latin-with-Greek reading kept: 3:8 'sine causa' (not the Hebrew's 'on the cheek'). Lewis & Short consulted for sopóro. Glossary applied: suscéptor / suscípere → amparo / amparar, exaudíre → escutar (D3), salus → salvação (D6), salvum fácere → salvar, circumdáre → cercar, clamáre → clamar, insúrgere → levantar-se contra."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids and marks). Soft: 3:4 second colon +4 (three elisions in the mouth: glória‿e, que‿exalta, exalta‿a); 3:7 second colon −3 ('salvai-me' for salvum me fac, the glossary's plain form). No rhyme or cadence flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. One remark, minor: 3:6 soporátus sum is passive and 'caí em sono profundo' is active → 'fui adormecido'. Refused in draft 2 (see the v2 gate, where it came back as major, and draft 3).",
+      "outcomes": [
+        {
+          "verse": "3:6",
+          "remark": "'caí em sono profundo' turns the Latin passive into an active change of state → 'fui adormecido'",
+          "outcome": "option",
+          "decision": "soporatus",
+          "reason": "Refused in draft 2: 'fui adormecido' is what is done to a patient; L&S glosses the passive 'falls asleep' and the Greek is active. The point itself — the voice — was taken in draft 3 with the Latinist's second wording."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Two remarks; best line 3:5, worst 3:7. Both taken (3:4 'quem exalta', 3:7 'o povo que me cerca aos milhares'); inside the first, dropping the Latin's comma was not taken.",
+      "outcomes": [
+        {
+          "verse": "3:4",
+          "remark": "'e o que exalta' sounds like a patch; the comma interrupts → 'a minha glória e quem exalta a minha cabeça'",
+          "outcome": "taken",
+          "decision": "exaltans",
+          "reason": "'quem' taken; the comma kept, because it is the Latin's and the text keeps the Latin's punctuation."
+        },
+        {
+          "verse": "3:7",
+          "remark": "'os milhares do povo' sounds like an unfinished count → 'o povo que me cerca aos milhares'",
+          "outcome": "taken",
+          "decision": "millia"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. Fourteen items, one unknown word (atribulam). No fault: every item is the Latin's own range, and the right reading was nearly always heard first. 'atribulam' kept — it is the verb of tribulátio → tribulação, and one reader's listing (as átrio, exultação).",
+      "outcomes": [
+        {
+          "verse": "3:2",
+          "remark": "'se levantam contra mim': begin to fight me / stand up to confront me",
+          "outcome": "refused",
+          "decision": "exsurgere",
+          "reason": "insúrgunt has both; the first was heard."
+        },
+        {
+          "verse": "3:3",
+          "remark": "'dizem à minha alma': to me / to my spiritual soul; 'salvação': rescue from danger / eternal salvation; 'ele … seu Deus': who is meant",
+          "outcome": "refused",
+          "decision": "ipsi",
+          "reason": "ánima and salus are as wide in the Latin (glossary: a minha alma; D6 salvação); 'ele' was heard as the one who prays and 'seu Deus' as his own God, which is the Latin's sense."
+        },
+        {
+          "verse": "3:4",
+          "remark": "'a minha glória': source of my honour / what I boast of; 'exalta a minha cabeça': restores dignity / lifts the head bodily",
+          "outcome": "refused",
+          "reason": "glória mea and exáltans caput meum have both readings; the image is the Latin's."
+        },
+        {
+          "verse": "3:5",
+          "remark": "'do seu monte santo': the Lord heard from there / I cried from there",
+          "outcome": "refused",
+          "reason": "Heard rightly; 'de monte sancto suo' stands after the verb of hearing in the Latin too."
+        },
+        {
+          "verse": "3:6",
+          "remark": "'me levantei': woke up / got to my feet",
+          "outcome": "refused",
+          "decision": "exsurgere",
+          "reason": "exsurréxi is both, and more (the Easter reading); the plain verb keeps them all."
+        },
+        {
+          "verse": "3:7",
+          "remark": "'o povo que me cerca': a threatening crowd / the people around me; 'levantai-vos': stand up / go into action",
+          "outcome": "refused",
+          "reason": "The hostile reading and the figurative one were heard first; both are the Latin's."
+        },
+        {
+          "verse": "3:8",
+          "remark": "'sem causa' could go with 'feristes'; 'quebrastes os dentes' literal or figurative",
+          "outcome": "refused",
+          "reason": "Heard with 'se opõem', rightly — 'sine causa' stands next to adversántes in the Latin too; the image is concrete on purpose (rule 5)."
+        },
+        {
+          "verse": "3:9",
+          "remark": "'Do Senhor é a salvação': rescue / eternal salvation; second colon: statement or wish",
+          "outcome": "refused",
+          "decision": "v9",
+          "reason": "salus is as wide; the verbless colon is as open in the Latin, and the wish was heard first."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. Wording changed against draft 1 in two verses, both from the stylist: 3:4 'e quem exalta a minha cabeça' (was 'e o que exalta'); 3:7 'o povo que me cerca aos milhares' (was 'os milhares do povo que me cerca'). The Latinist's 'fui adormecido' refused. Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. 3:4 second colon now +3, 3:7 first colon +1, 3:7 second colon −3 as before."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2. The stylist's two changes passed without remark (3:7's new syntax included). The refused 3:6 remark came back as MAJOR, with a better fix: 'fui tomado pelo sono'. His ground is the rule in his own brief (prompts/latinist.md: no change of voice).",
+      "outcomes": [
+        {
+          "verse": "3:6",
+          "remark": "major: 'caí em sono profundo' replaces the Latin passive with an active → 'fui tomado pelo sono'",
+          "outcome": "taken",
+          "decision": "soporatus",
+          "reason": "Taken in draft 3."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3. One change: 3:6 'e fui tomado pelo sono' (was 'e caí em sono profundo'), the Latinist's fix, so that soporátus sum keeps its passive. Draft 2 is prayed.v2.json (flat text prayed.v2.vos.json, the file the v2 Latinist read); draft 1 is prayed.v1.json. No stylist or ambiguity reader has read draft 3; the phrase is a common idiom. Owed: the Hetzenauer 1914 print read of the Latin."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 3: hard pass. 3:6 first colon +2; other soft flags as in draft 2 (3:4 second colon +3, 3:7 second colon −3), accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "note": "Draft 3 (prayed.vos.json). Clean: no verse remarked, every mark confirmed. The gate is clean.",
+      "outcomes": []
+    }
+  ]
+}

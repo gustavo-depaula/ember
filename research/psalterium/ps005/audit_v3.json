@@ -1,0 +1,12 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 3: hard pass. 5:8b second colon +4 ('voltado para'); other soft flags as in draft 2, accepted."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v3.latinist.json",
+    "note": "Draft 3 (prayed.vos.json). Clean: no verse remarked, every mark confirmed; 'Odiais' for the present-sense perfect odísti confirmed by name. The gate is clean. No stylist or ambiguity reader has read drafts 2–3; the changes after draft 1 are the stylist's own lines (5:8b with his participle), plus 'o malvado'.",
+    "outcomes": []
+  }
+]

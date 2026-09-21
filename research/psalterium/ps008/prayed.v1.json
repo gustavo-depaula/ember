@@ -1,0 +1,563 @@
+{
+  "psalm": 8,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "8:2a": "{domine}, * {quam} em toda a terra!",
+    "8:2b": "Porque {elevata} a vossa {magnificentia} * sobre os céus.",
+    "8:3": "Da boca {infantium} {perfecisti} por causa dos vossos inimigos, * para destruirdes o inimigo e o {ultorem}.",
+    "8:4": "{videbo} os vossos céus, obras dos vossos dedos: * a lua e as estrelas, que vós fundastes.",
+    "8:5": "Que é o homem, {quod}? * ou o filho do homem, {quoniam}?",
+    "8:6": "{minuisti}, † de glória e de honra o coroastes: * e o estabelecestes sobre as obras das vossas mãos.",
+    "8:8": "Tudo {subjecisti}, * {universas}: {insuper}.",
+    "8:9": "As aves do céu, e os peixes do mar, * que {perambulant} veredas do mar.",
+    "8:10": "{domine}, * {quam} em toda a terra!"
+  },
+  "decisions": [
+    {
+      "id": "domine",
+      "refs": [
+        "8:2a",
+        "8:10"
+      ],
+      "latin": "Dómine, Dóminus noster",
+      "kind": "word",
+      "why": "The hard thing in the psalm’s frame. The Hebrew has two names (YHWH, Adonenu); the Greek and the Latin have one word twice (κύριε ὁ κύριος ἡμῶν — Dómine, Dóminus noster), in two cases: a vocative, then a nominative in apposition. Douay-Rheims keeps it: ‘O Lord our Lord’. Matos Soares 1932 avoids the repetition (‘Senhor, nosso Dominador soberano’); the Diurnal, from the Hebrew, has ‘Ó Senhor, nosso Deus’. The brief: keep what the Latin does. Portuguese has no case to tell the second ‘Senhor’ from the first, so order must do that work. One slot fills 8:2a and 8:10, so the two verses cannot drift apart.",
+      "options": [
+        {
+          "label": "Senhor, nosso Senhor",
+          "forms": {
+            "domine": "Senhor, nosso Senhor"
+          },
+          "note": "Ruling: one word twice, as the Latin. With the possessive first, the second member is heard as the title it is — ‘nosso Senhor’ is a fixed name in Portuguese — and so as an apposition, which is what the Latin’s change of case says. No ‘ó’: the Latin has no ‘o’ (glossary).",
+          "from": "DRB"
+        },
+        {
+          "label": "Senhor, Senhor nosso",
+          "forms": {
+            "domine": "Senhor, Senhor nosso"
+          },
+          "note": "The Latin’s order, and a good vocative in Portuguese (as ‘Pai nosso’). But ‘Senhor, Senhor’ back to back is heard as the doubled cry of the Gospel (‘Senhor, Senhor’ — from memory, unverified), a figure the Latin’s two cases do not make.",
+          "from": "draft"
+        },
+        {
+          "label": "Ó Senhor, nosso Senhor",
+          "forms": {
+            "domine": "Ó Senhor, nosso Senhor"
+          },
+          "note": "Douay-Rheims’s ‘O’. One syllable nearer the Latin’s eight; the glossary writes the vocative bare unless the Latin has ‘o’.",
+          "from": "DRB"
+        },
+        {
+          "label": "Senhor, nosso Dominador soberano",
+          "forms": {
+            "domine": "Senhor, nosso Dominador soberano"
+          },
+          "note": "Matos Soares 1932. Refused: it dissolves the very repetition that is the Latin’s mark here (D2), and adds an adjective.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Senhor, nosso Deus",
+          "forms": {
+            "domine": "Senhor, nosso Deus"
+          },
+          "note": "The Diurnal’s, and the way of the Hebrew-family Bibles: two names for the Hebrew’s two. Refused: it says what the Hebrew says where the Latin says something else (D2).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "quam",
+      "refs": [
+        "8:2a",
+        "8:10"
+      ],
+      "latin": "quam admirábile est nomen tuum",
+      "kind": "glossary",
+      "why": "Glossary: quam / quómodo in exclamation → ‘Como …!’ (working, Ps 118:97), with ‘Quão’ (Matos Soares 1932) as the option. admirábilis has two verses (8:2a = 8:10, 41:5 tabernáculi admirábilis; grep); mirábilis → maravilhoso (working, Ps 117:23).",
+      "options": [
+        {
+          "label": "como é admirável o vosso nome",
+          "forms": {
+            "quam": "como é admirável o vosso nome"
+          },
+          "note": "Ruling: the glossary’s ‘como’, and the cognate for ad-mirábilis, which keeps it a step apart from mirábilis → maravilhoso (Douay-Rheims ‘admirable’, Matos Soares 1932 ‘admirável’). Eighteen syllables for the Latin’s eighteen.",
+          "from": "glossary"
+        },
+        {
+          "label": "quão admirável é o vosso nome",
+          "forms": {
+            "quam": "quão admirável é o vosso nome"
+          },
+          "note": "Matos Soares 1932. ‘Quão’ is no longer said.",
+          "from": "MS1932"
+        },
+        {
+          "label": "como é maravilhoso o vosso nome",
+          "forms": {
+            "quam": "como é maravilhoso o vosso nome"
+          },
+          "note": "Warmer today (‘admirável’ has cooled to ‘commendable’); it is mirábilis’s word, and the Greek has θαυμαστόν for both — on D15’s test a merge would be defensible. Kept apart because the Latin bothers to.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "elevata",
+      "refs": [
+        "8:2b"
+      ],
+      "latin": "Quóniam eleváta est magnificéntia tua",
+      "kind": "grammar",
+      "why": "A perfect passive (the Greek ἐπήρθη, passive in form, ‘was lifted up, rose’). eleváre → elevar (glossary, row extóllere). This is the Latin’s reading; the Hebrew differs.",
+      "options": [
+        {
+          "label": "se elevou",
+          "forms": {
+            "elevata": "se elevou"
+          },
+          "note": "Ruling: Matos Soares 1932. The Portuguese ‘se’ form is both passive and middle, as the Greek behind the Latin is; no agent is invented. The Ps 7 Latinist passed the same build for ‘exaltáre’ (exaltai-vos).",
+          "from": "MS1932"
+        },
+        {
+          "label": "foi elevada",
+          "forms": {
+            "elevata": "foi elevada"
+          },
+          "note": "The passive to the letter (Douay-Rheims ‘is elevated’). It makes the hearer ask: by whom?",
+          "from": "DRB"
+        },
+        {
+          "label": "está elevada",
+          "forms": {
+            "elevata": "está elevada"
+          },
+          "note": "The perfect as a resulting state, Douay-Rheims’s tense. Static, where the Latin tells of a rising.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "magnificentia",
+      "refs": [
+        "8:2b"
+      ],
+      "latin": "magnificéntia tua",
+      "kind": "glossary",
+      "why": "magnificéntia has eight verses (grep: 8:2b, 28:4, 67:34b, 70:21, 95:6, 110:3, 144:5, 144:12), μεγαλοπρέπεια. It stands beside glória (144:12 glóriam magnificéntiæ regni tui) and beside majéstas’s psalm (71:19), so neither of those words is free. Not yet in the glossary; magnificáre → engrandecer.",
+      "options": [
+        {
+          "label": "magnificência",
+          "forms": {
+            "magnificentia": "magnificência"
+          },
+          "note": "Ruling, proposed for the glossary: the cognate — a living Portuguese word, paroxytone, which says splendour on a great scale as the Latin and the Greek do, and serves all eight verses (144:12 ‘a glória da magnificência do vosso reino’).",
+          "from": "DRB"
+        },
+        {
+          "label": "majestade",
+          "forms": {
+            "magnificentia": "majestade"
+          },
+          "note": "Matos Soares 1932. It is majéstas’s word (71:19 nomen majestátis ejus).",
+          "from": "MS1932"
+        },
+        {
+          "label": "grandeza",
+          "forms": {
+            "magnificentia": "grandeza"
+          },
+          "note": "Plainer; the glossary keeps it for magnitúdo (Ps 5 row multitúdo).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "infantium",
+      "refs": [
+        "8:3"
+      ],
+      "latin": "Ex ore infántium et lacténtium",
+      "kind": "word",
+      "why": "Two words for the very young: infántes (those who do not yet speak — the paradox of the verse: praise from mouths without speech) and lacténtes (those at the breast). Only here in the psalter (grep); Mt 21:16 quotes the colon word for word (Vulgate fetched to consult/bolls-VULG-40-21.json). Portuguese ‘infantes’ are princes or foot soldiers, and ‘lactentes’ is a word of the clinic.",
+      "options": [
+        {
+          "label": "das crianças e dos que mamam",
+          "forms": {
+            "infantium": "das crianças e dos que mamam"
+          },
+          "note": "Ruling: the plain word for the first, and the Latin’s participle said as Portuguese says it for the second (Matos Soares 1932 ‘dos que ainda mamam’, without his ‘ainda’). Concrete, as rule 5 asks. Cost: ‘crianças’ does not say speechlessness; no current Portuguese word does.",
+          "from": "MS1932"
+        },
+        {
+          "label": "das crianças e das crianças de peito",
+          "forms": {
+            "infantium": "das crianças e das crianças de peito"
+          },
+          "note": "‘Criança de peito’ is the idiom for lactens; with ‘crianças’ before it the noun is said twice where the Latin has two.",
+          "from": "draft"
+        },
+        {
+          "label": "dos pequeninos e das crianças de peito",
+          "forms": {
+            "infantium": "dos pequeninos e das crianças de peito"
+          },
+          "note": "The Diurnal’s ‘pequeninos’ for the first. Tender; it is the word párvuli will want (18:8, 114:6, 118:130).",
+          "from": "DM1962"
+        },
+        {
+          "label": "das crianças e dos lactentes",
+          "forms": {
+            "infantium": "das crianças e dos lactentes"
+          },
+          "note": "The cognate. Medical.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "perfecisti",
+      "refs": [
+        "8:3"
+      ],
+      "latin": "perfecísti laudem",
+      "kind": "glossary",
+      "why": "perfícere: to bring to completion, to make perfect (Lewis & Short); the Greek κατηρτίσω is ‘you fitted out, made ready’. This is the Latin’s reading — the Hebrew has ‘founded strength’. Douay-Rheims: ‘thou hast perfected praise’; Matos Soares 1932 turns the verb into an adjective and supplies another verb (‘fizeste sair … um louvor perfeito’). The verb has other places (grep: 10:4 quæ perfecísti, destruxérunt — again beside destrúere; 17:34 perfécit pedes meos; 39:7 aures autem perfecísti mihi; 67:10). laus → louvor (glossary).",
+      "options": [
+        {
+          "label": "fizestes perfeito o louvor",
+          "forms": {
+            "perfecisti": "fizestes perfeito o louvor"
+          },
+          "note": "Ruling, proposed for the glossary: per-fícere → ‘fazer perfeito’, built as the glossary builds miri-ficáre → ‘fazer maravilhoso’ (Ps 4:4). It keeps the verb a verb, supplies nothing, and serves the other places (‘o que fizestes perfeito, eles destruíram’; ‘fez perfeitos os meus pés’).",
+          "from": "draft"
+        },
+        {
+          "label": "aperfeiçoastes o louvor",
+          "forms": {
+            "perfecisti": "aperfeiçoastes o louvor"
+          },
+          "note": "One word for one (Douay-Rheims ‘perfected’). In Portuguese ‘aperfeiçoar’ is to improve what was faulty.",
+          "from": "DRB"
+        },
+        {
+          "label": "fizestes sair um louvor perfeito",
+          "forms": {
+            "perfecisti": "fizestes sair um louvor perfeito"
+          },
+          "note": "Matos Soares 1932. Natural, and how the line is often quoted; ‘sair’ is supplied and the verb’s force moves into an adjective.",
+          "from": "MS1932"
+        },
+        {
+          "label": "preparastes um louvor",
+          "forms": {
+            "perfecisti": "preparastes um louvor"
+          },
+          "note": "The Greek’s sense. The Latin chose perfícere, not paráre (rule 1).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ultorem",
+      "refs": [
+        "8:3"
+      ],
+      "latin": "inimícum et ultórem",
+      "kind": "word",
+      "why": "ultor, of the family of ulcísci → vingar-se (glossary, Ps 117). Only here as a noun (grep; 93:1 Deus ultiónum). The Greek ἐκδικητής is one who exacts vengeance. destrúere → destruir: the ban on ‘destruí’ touches only the vós imperative; here the form is ‘destruirdes’.",
+      "options": [
+        {
+          "label": "o vingador",
+          "forms": {
+            "ultorem": "vingador"
+          },
+          "note": "Ruling: the agent noun of the glossary’s verb; Douay-Rheims ‘the avenger’. The verse closes on an oxytone.",
+          "from": "DRB"
+        },
+        {
+          "label": "o vingativo",
+          "forms": {
+            "ultorem": "vingativo"
+          },
+          "note": "Matos Soares 1932. A trait of character (vindictive), where ultor is one who does the deed.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "videbo",
+      "refs": [
+        "8:4"
+      ],
+      "latin": "Quóniam vidébo cælos tuos",
+      "kind": "grammar",
+      "why": "The Latin has ‘Quóniam’ and a future (ὅτι ὄψομαι): ‘For I shall see your heavens’. The Hebrew’s ‘When I see’ is what Matos Soares 1932 (‘Quando contemplo’) and the Diurnal print, and it ties the verse to the question of 8:5; the Latin makes 8:4 a sentence of its own — a reason for the praise, and on Christian lips a hope. Douay-Rheims: ‘For I will behold’.",
+      "options": [
+        {
+          "label": "Porque verei",
+          "forms": {
+            "videbo": "Porque verei"
+          },
+          "note": "Ruling: the Latin’s conjunction and the Latin’s tense (rule 1); vidére → ver, the plain verb. The same ‘Porque’ opens 8:2b, as ‘Quóniam’ does.",
+          "from": "DRB"
+        },
+        {
+          "label": "Pois verei",
+          "forms": {
+            "videbo": "Pois verei"
+          },
+          "note": "Lighter; ‘pois’ is the glossary’s word for étenim / enim, and the echo with 8:2b is lost.",
+          "from": "draft"
+        },
+        {
+          "label": "Quando contemplo",
+          "forms": {
+            "videbo": "Quando contemplo"
+          },
+          "note": "Matos Soares 1932 and the Diurnal. Refused: it is the Hebrew’s conjunction and tense, not the Latin’s (D2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "quod",
+      "refs": [
+        "8:5"
+      ],
+      "latin": "quod memor es ejus? … quóniam vísitas eum?",
+      "kind": "grammar",
+      "why": "Hebrews 2:6 quotes the verse word for word (Vulgate fetched to consult/bolls-VULG-58-2.json), and 143:3 is its near twin (Dómine, quid est homo, quia innotuísti ei? aut fílius hóminis, quia réputas eum?) — the frame ruled here is copied there. The Latin has two conjunctions (quod … quóniam) for the Greek’s one (ὅτι … ὅτι) and indicatives: ‘that you are mindful of him’. memor esse → lembrar-se de (glossary); visitáre → visitar (seven verses). ‘Quid’ is ‘what’, not the Diurnal’s ‘Quem’.",
+      "options": [
+        {
+          "label": "para que vos lembreis dele … para que o visiteis",
+          "forms": {
+            "quod": "para que vos lembreis dele",
+            "quoniam": "para que o visiteis"
+          },
+          "note": "Ruling: the construction Portuguese uses for this question (‘que é X, para que …?’); it takes God’s remembering as given, as the indicative does. Mood and conjunction are grammar (D2; D24 ruled so at 118:92), and the Latin’s quod / quóniam is one Greek word, so one Portuguese conjunction serves both (D15’s test).",
+          "from": "draft"
+        },
+        {
+          "label": "para vos lembrardes dele … para o visitardes",
+          "forms": {
+            "quod": "para vos lembrardes dele",
+            "quoniam": "para o visitardes"
+          },
+          "note": "Matos Soares 1932’s build with the personal infinitive. Same sense, a little more literary.",
+          "from": "MS1932"
+        },
+        {
+          "label": "que vos lembrais dele … que o visitais",
+          "forms": {
+            "quod": "que vos lembrais dele",
+            "quoniam": "que o visitais"
+          },
+          "note": "The indicative to the letter (Douay-Rheims ‘that thou art mindful of him’). In Portuguese the bare ‘que’ is heard as a relative — ‘the man whom you remember’.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "minuisti",
+      "refs": [
+        "8:6"
+      ],
+      "latin": "Minuísti eum paulo minus ab Ángelis",
+      "kind": "word",
+      "why": "Hebrews 2:7 quotes it word for word, and 2:9 re-reads it of Christ (‘qui módico quam ángeli minorátus est’; consult/bolls-VULG-58-2.json). The Latin says ‘less’ twice (minuísti … minus), rendering the Greek’s ἠλάττωσας … βραχύ τι παρ᾿ ἀγγέλους, which does not; ‘paulo minus’ is a set phrase (93:17, 118:87, where it is ‘almost’). This is the Latin’s reading — angels, not the Hebrew’s ‘elohim’ — and of degree (a little less), not of time. Douay-Rheims: ‘Thou hast made him a little less than the angels’; Matos Soares 1932: ‘Tu o fizeste pouco inferior aos anjos’.",
+      "options": [
+        {
+          "label": "Vós o fizestes um pouco menor que os anjos",
+          "forms": {
+            "minuisti": "Vós o fizestes um pouco menor que os anjos"
+          },
+          "note": "Ruling: min-uísti said as Portuguese says it, ‘fazer menor’, with ‘um pouco’ for paulo; the Latin’s second ‘less’ is absorbed in the comparative, as in Douay-Rheims. The doubling is the idiom’s, not a figure, so nothing D2 protects is lost. ‘Vós’ is the subject a proclitic pronoun needs at the head of a verse.",
+          "from": "DRB"
+        },
+        {
+          "label": "Vós o diminuístes um pouco menos que os anjos",
+          "forms": {
+            "minuisti": "Vós o diminuístes um pouco menos que os anjos"
+          },
+          "note": "Both of the Latin’s ‘less’ kept. In Portuguese ‘diminuir alguém’ is to belittle him, and ‘diminuir menos que’ does not parse.",
+          "from": "draft"
+        },
+        {
+          "label": "Vós o fizestes pouco inferior aos anjos",
+          "forms": {
+            "minuisti": "Vós o fizestes pouco inferior aos anjos"
+          },
+          "note": "Matos Soares 1932. ‘Inferior’ is a word of rank and sounds like a verdict; ‘pouco’ without ‘um’ leans to ‘hardly’.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Vós o fizestes por um pouco menor que os anjos",
+          "forms": {
+            "minuisti": "Vós o fizestes por um pouco menor que os anjos"
+          },
+          "note": "The temporal reading that Hebrews 2:9 can bear. Refused for the psalm: ‘paulo minus’ is degree.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "subjecisti",
+      "refs": [
+        "8:8"
+      ],
+      "latin": "Ómnia subjecísti sub pédibus ejus",
+      "kind": "glossary",
+      "why": "sub- twice in the Latin (subjecísti sub), as in the Greek (ὑπέταξας ὑποκάτω); Hebrews 2:8 quotes the colon word for word (1 Cor 15 too — from memory, unverified). subjícere has four verses (grep: 8:8, 46:4 Subjécit pópulos nobis: et gentes sub pédibus nostris, 61:2, 61:6 Deo subjécta esto, ánima mea). Not yet in the glossary.",
+      "options": [
+        {
+          "label": "sujeitastes debaixo dos seus pés",
+          "forms": {
+            "subjecisti": "sujeitastes debaixo dos seus pés"
+          },
+          "note": "Ruling, proposed for the glossary: subjícere → sujeitar, the cognate (Matos Soares 1932), which serves 61:2 ‘a minha alma estará sujeita a Deus’; and ‘debaixo de’, the living preposition (D2: the plainer of two faithful words). The Latin’s sub … sub is heard as sound only in option 2.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sujeitastes sob os seus pés",
+          "forms": {
+            "subjecisti": "sujeitastes sob os seus pés"
+          },
+          "note": "Keeps the echo su- / sob and is two syllables shorter. ‘Sob’ is written more than said.",
+          "from": "draft"
+        },
+        {
+          "label": "submetestes debaixo dos seus pés",
+          "forms": {
+            "subjecisti": "submetestes debaixo dos seus pés"
+          },
+          "note": "‘Submeter’ is submíttere’s cognate; clear, a shade more military.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "universas",
+      "refs": [
+        "8:8"
+      ],
+      "latin": "oves et boves univérsas",
+      "kind": "order",
+      "why": "‘univérsas’ (feminine, covering both nouns) comes after them; Douay-Rheims ‘all sheep and oxen’, Matos Soares 1932 ‘todas as ovelhas e vacas’. It answers ‘in univérsa terra’ of the frame, as ‘todas’ answers ‘toda a terra’.",
+      "options": [
+        {
+          "label": "todas as ovelhas e os bois",
+          "forms": {
+            "universas": "todas as ovelhas e os bois"
+          },
+          "note": "Ruling: natural order (D2), ‘todas’ reaching over both nouns as the Latin adjective does. boves → ‘bois’: the kind, not the sex.",
+          "from": "DRB"
+        },
+        {
+          "label": "as ovelhas e os bois, todos",
+          "forms": {
+            "universas": "as ovelhas e os bois, todos"
+          },
+          "note": "The Latin’s order, the adjective last. A trailing ‘todos’ before the colon mark is an afterthought in Portuguese (the fault the Ps 7 stylist found in 7:5).",
+          "from": "draft"
+        },
+        {
+          "label": "todas as ovelhas e vacas",
+          "forms": {
+            "universas": "todas as ovelhas e vacas"
+          },
+          "note": "Matos Soares 1932: reads the feminine as cows.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "insuper",
+      "refs": [
+        "8:8"
+      ],
+      "latin": "ínsuper et pécora campi",
+      "kind": "word",
+      "why": "‘ínsuper et’ (ἔτι δὲ καί): moreover, also — three verses (grep: 8:8, 15:7, 15:9). pécora: herd animals and, more widely, beasts (τὰ κτήνη); 148:10 has béstiæ et univérsa pécora side by side, 134:7b ab hómine usque ad pecus. After sheep and oxen, ‘the pécora of the field’ are the beasts beyond the farm.",
+      "options": [
+        {
+          "label": "e ainda os animais do campo",
+          "forms": {
+            "insuper": "e ainda os animais do campo"
+          },
+          "note": "Ruling: ‘e ainda’ for ínsuper et — it also fits 15:7 and 15:9 (‘e ainda a minha carne repousará na esperança’). ‘Animais’ is the plain, wide word (Matos Soares 1932); ‘feras’ is kept for béstiæ / feræ. Proposed as `open`.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e também o gado do campo",
+          "forms": {
+            "insuper": "e também o gado do campo"
+          },
+          "note": "pecus at its narrowest. Sheep and oxen are already the ‘gado’.",
+          "from": "draft"
+        },
+        {
+          "label": "e, além destes, os outros animais do campo",
+          "forms": {
+            "insuper": "e, além destes, os outros animais do campo"
+          },
+          "note": "Matos Soares 1932. Explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "perambulant",
+      "refs": [
+        "8:9"
+      ],
+      "latin": "qui perámbulant sémitas maris",
+      "kind": "glossary",
+      "why": "perambuláre: ‘to go through, to traverse’ (Lewis & Short), four verses (grep: 8:9, 67:22, 90:6, 100:2); Ps 90:6 has ‘a coisa que anda pelas trevas’. sémita → vereda (settled, D15). ‘maris … maris’: the Latin says the word twice, and so does the Portuguese (Matos Soares 1932 varies it with ‘oceano’). ‘qui’ is masculine — the fishes — and Portuguese ‘que’ leaves birds and fishes both possible.",
+      "options": [
+        {
+          "label": "que percorrem as veredas do mar",
+          "forms": {
+            "perambulant": "percorrem as"
+          },
+          "note": "Ruling: Lewis & Short’s ‘traverse’, a per- verb for a per- verb with a direct object as in the Latin; Matos Soares 1932 and the Diurnal both have it. In 67:22 and 100:2, where Lewis & Short give the Church sense ‘to walk, conduct oneself’, the verb will be ‘andar’, as it is in 90:6.",
+          "from": "MS1932"
+        },
+        {
+          "label": "que andam pelas veredas do mar",
+          "forms": {
+            "perambulant": "andam pelas"
+          },
+          "note": "One verb for all four places (ambuláre → andar). Fish that ‘andam’ are odder in Portuguese than perámbulant is in Latin.",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "8:2a": "The psalm begins at 8:2a (8:1 is the titulus; D7). 8:2a = 8:10 word for word: both verses are built from the same two slots (decisions domine, quam), so they cannot differ. ‘in univérsa terra’ → ‘em toda a terra’: univérsa and omnis are one Greek word (ἐν πάσῃ τῇ γῇ), and ‘toda a terra’ will serve omnis terra too (95:9 has univérsa terra, 95:1 omnis terra).",
+    "8:2b": "DO sets the mediant before ‘super cælos’, a second colon of four syllables; kept so. ‘super’ → ‘sobre’ here and in 8:6 (‘sobre as obras’). ‘Porque’ for Quóniam, as in 8:4.",
+    "8:3": "The Latin’s first colon is twenty-five syllables and the Portuguese longer still; it is the psalm’s one heavy line. propter → ‘por causa de’ (glossary). Mt 21:16 quotes the first half.",
+    "8:4": "ópera → ‘obras’ (glossary), plural as the Latin; fundáre → fundar (eleven verses: fundásti terram → ‘fundastes a terra’); ‘tu’ is expressed in the Latin, so ‘vós’ is expressed.",
+    "8:5": "‘fílius hóminis’ → ‘o filho do homem’, lowercase, as DO prints it: the psalm speaks of man, and Hebrews 2 reads it of Christ; the wording leaves both. The Latin’s question marks kept.",
+    "8:6": "The flex kept; the inline marker (7) is not reproduced. ‘glória et honóre coronásti eum’ → ‘de glória e de honra o coroastes’ (Matos Soares 1932 word for word; coronáre → coroar, glossary Ps 5:13b). constitúere → estabelecer (glossary). ‘Ángelis’ → ‘anjos’, lowercase.",
+    "8:8": "‘Ómnia’ → ‘Tudo’. 8:8–9 run on as one list under ‘sujeitastes’, as in the Latin.",
+    "8:9": "vólucres → ‘aves’ (103:12 vólucres cæli)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm8.txt, nine prayed verses with DO’s ids (8:2a, 8:2b, 8:3–8:6, 8:8–8:10; 8:7 lives inside 8:6 as the inline marker ‘(7)’, not reproduced). 8:6 has a flex and a mediant; every other verse one ‘*’. 8:1 is the titulus (D7). 8:2a = 8:10 word for word."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps008.md. Sense from the Vulgate family (Douay-Rheims; Matos Soares 1932 by its text layer). The Diurnal Monástico 1962 has the psalm, made from the Hebrew: it lends no sense, and its wording was refused wherever it follows the Hebrew against the Latin (‘nosso Deus’, ‘Quando contemplo’, ‘um deus’); ‘percorrem’ is shared with it. DO’s Portuguese not used (D12). Lewis & Short read for perambulo and perficio. New Testament quotations verified in the Clementine Vulgate fetched from bolls.life to consult/ (bolls-VULG-58-2.json, bolls-VULG-40-21.json; shown by ps008/show_nt.py): Heb 2:6–8a = Ps 8:5–8a word for word, Mt 21:16 = 8:3a. Repeats found with ps005/grep_latin.py: 8:5 ~ 143:3 (the same frame with other verbs); paulo minus 93:17, 118:87; subjícere + sub pédibus 46:4; ínsuper et 15:7, 15:9. No vós imperative in the psalm, so the homograph ban is not met. Places where the Latin follows the Septuagint against the Hebrew and is followed: Dómine, Dóminus noster (one word twice); 8:2b eleváta est; 8:3 perfecísti laudem; 8:4 Quóniam vidébo; 8:6 ab Ángelis. New words proposed: magnificéntia → magnificência, admirábilis → admirável, perfícere → fazer perfeito, subjícere → sujeitar, ultor → vingador, ínsuper et → e ainda, pécora → animais, fundáre → fundar, visitáre → visitar."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids and marks). Soft flags, all accepted: 8:3 first colon +5 and second +4 (the Latin’s own first colon is twenty-six syllables; ‘por causa de’ for propter and ‘para destruirdes’ are the glossary’s length); 8:4 first colon −5 (‘obras dos vossos dedos’ for ópera digitórum tuórum) and second +3; 8:5 first colon +3 (‘para que’). Rhyme flag 8:9 ‘mar / mar’: it is the same word at mediant and final, and the Latin has the same echo (maris / maris) — rule 5’s exception. Every cadence is oxytone or paroxytone."
+    }
+  ]
+}

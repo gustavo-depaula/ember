@@ -1,0 +1,11 @@
+{
+  "role": "ambiguity",
+  "prompt": "../../prompts/ambiguity.md",
+  "promptSha256": "91174d66e8dadefa9d058b3c9802fca0a69f74b7d8ef9724f667f11a82b67fca",
+  "target": "prayed.vos.json",
+  "targetSha256": "6f8637ebe761c8aba3b5ebc69d76267417f5e7377c7fab49fdf134bc98b8d22d",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:02:10+00:00",
+  "reply": "{\n  \"ambiguities\": [\n    {\n      \"id\": \"133:1a\",\n      \"words\": \"todos os servos do Senhor\",\n      \"readings\": [\n        \"Todos os fiéis que servem a Deus.\",\n        \"Especificamente os que exercem um serviço religioso na casa de Deus.\"\n      ],\n      \"likelyHeard\": \"Todos os fiéis que servem a Deus.\"\n    },\n    {\n      \"id\": \"133:1b\",\n      \"words\": \"na casa do Senhor\",\n      \"readings\": [\n        \"Na igreja onde estão os ouvintes.\",\n        \"Em um templo específico mencionado pelo texto, sem identificação explícita.\"\n      ],\n      \"likelyHeard\": \"Na igreja onde estão os ouvintes.\"\n    },\n    {\n      \"id\": \"133:2\",\n      \"words\": \"erguei as vossas mãos para o lugar santo\",\n      \"readings\": [\n        \"Levantai as mãos na direção de um espaço sagrado do templo.\",\n        \"Levantai as mãos para o céu, entendido como morada de Deus.\"\n      ],\n      \"likelyHeard\": \"Levantai as mãos para o céu.\"\n    },\n    {\n      \"id\": \"133:3\",\n      \"words\": \"te\",\n      \"readings\": [\n        \"Cada ouvinte, tratado individualmente.\",\n        \"Uma pessoa específica a quem a bênção é dirigida.\",\n        \"A comunidade inteira, tratada como um único destinatário.\"\n      ],\n      \"likelyHeard\": \"Cada ouvinte, tratado individualmente.\"\n    },\n    {\n      \"id\": \"133:3\",\n      \"words\": \"O Senhor te bendiga de Sião\",\n      \"readings\": [\n        \"Que o Senhor envie de Sião a bênção para ti.\",\n        \"Que o Senhor associado a Sião te abençoe.\"\n      ],\n      \"likelyHeard\": \"Que o Senhor envie de Sião a bênção, embora o nome possa não ser compreendido.\"\n    }\n  ],\n  \"unknownWords\": [\n    {\n      \"id\": \"133:1b\",\n      \"word\": \"átrios\"\n    },\n    {\n      \"id\": \"133:3\",\n      \"word\": \"Sião\"\n    }\n  ]\n}"
+}

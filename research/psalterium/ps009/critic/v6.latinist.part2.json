@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "e5e46ee0f3b33f6a72222c3f25a67148542f15dc99967b634ef7270594e7e3af",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T12:12:06+00:00",
+  "reply": "{\"verses\":[{\"id\":\"9:37\",\"severity\":\"minor\",\"issues\":[{\"latin\":\"in sæculum sæculi\",\"portuguese\":\"pelos séculos dos séculos\",\"problem\":\"A expressão portuguesa conserva o sentido de perpetuidade, mas pluraliza os dois substantivos que o latim mantém no singular, contrariando a regra de preservar o número.\",\"fix\":\"pelo século do século\"}]}],\"overall\":\"A tradução conserva adequadamente o conteúdo latino, inclusive suas construções e imagens incomuns. Identifiquei apenas uma alteração de número na fórmula de perpetuidade; todas as marcas de divisão coincidem com as latinas, na mesma ordem.\"}"
+}

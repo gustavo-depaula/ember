@@ -1,0 +1,41 @@
+{
+  "tier": 3,
+  "version": 1,
+  "note": "Prayed tier, draft 1. The four verses that address God carry both forms until the vós/tu decision (../vos-tu.md); every other verse is a single string. Nothing here is final — no human has decided any verse.",
+  "producedBy": "Claude (claude-fable-5-1), in session: psalm-level draft from literal.json + hard-readings.md, then verse-level pass against the design doc's principles table; literal tier had passed the Codex Latinist critic (critic/literal.latinist.codex.json)",
+  "verses": {
+    "4:2a": {
+      "vos": "Quando invoquei, atendeu-me o Deus da minha justiça: * na tribulação me abristes espaço.",
+      "tu": "Quando invoquei, atendeu-me o Deus da minha justiça: * na tribulação me abriste espaço."
+    },
+    "4:2b": {
+      "vos": "Tende piedade de mim, * e atendei a minha oração.",
+      "tu": "Tem piedade de mim, * e atende a minha oração."
+    },
+    "4:3": "Filhos dos homens, até quando de coração pesado? * por que amais a vaidade, e buscais a mentira?",
+    "4:4": "E sabei que o Senhor fez maravilhoso o seu santo: * o Senhor me atenderá quando eu clamar a ele.",
+    "4:5": "Irai-vos, e não pequeis: ‡ do que dizeis nos vossos corações, * nos vossos leitos compungi-vos.",
+    "4:6": "Sacrificai sacrifício de justiça, † e esperai no Senhor. * Muitos dizem: Quem nos mostra os bens?",
+    "4:7": {
+      "vos": "Marcada está sobre nós a luz do vosso rosto, Senhor: * destes alegria no meu coração.",
+      "tu": "Marcada está sobre nós a luz do teu rosto, Senhor: * deste alegria no meu coração."
+    },
+    "4:8": "Pelo fruto do seu trigo, vinho e azeite * se multiplicaram.",
+    "4:9": "Em paz, juntamente, * dormirei e repousarei;",
+    "4:10": {
+      "vos": "Porque vós, Senhor, singularmente na esperança * me estabelecestes.",
+      "tu": "Porque tu, Senhor, singularmente na esperança * me estabeleceste."
+    }
+  },
+  "choices": {
+    "4:2a": "exaudire → atender, not ouvir: under vós the imperative 'ouvi' (4:2b) is the same word as 'eu ouvi', and atender carries the ex- ('hear and grant'). Kept identical across exaudívit / exáudi / exáudiet (4:2a, 4:2b, 4:4). 'me abristes espaço' for dilatásti mihi keeps the image of width against tribulatio as a tight place; 'espaço' is the object Portuguese needs. Alternatives: me destes largueza; me alargastes.",
+    "4:3": "gravi corde as ablative of quality: 'de coração pesado'. No verb supplied. 'por que' for ut quid.",
+    "4:4": "mirificávit → fez maravilhoso, chosen so 15:3, 16:7 (Mirífica misericórdias tuas) and 30:22 can take the same verb. cum clamávero → future subjunctive, the Portuguese equivalent of the Latin future perfect here.",
+    "4:5": "First colon is 5 syllables short of the Latin (checks.py) — accepted: nolíte + infinitive is only the Latin negative imperative, and 'não queirais pecar' would pad the line with a calque. compungi-vos keeps the sting of compungi; 'do que' is the regency Portuguese needs for the Latin accusative of respect. Reads under both pointings: mediant at ‡ (the app) or at *.",
+    "4:6": "Sacrificai sacrifício keeps the figura etymologica. bona plural → os bens. osténdit taken as present.",
+    "4:7": "Signátum → Marcada, keeping the perfect passive. Draft 1 had Assinalada (cognate: signum/sinal); checks.py flagged the colon at +3 syllables under vós, and Marcada is also the plainer word. Alternatives: Assinalada; Impressa (the coin-stamp sense in L&S).",
+    "4:8": "a fructu → pelo fruto (the Latin's καρποῦ, not Rahlfs' καιροῦ). Subject of multiplicáti sunt left unnamed.",
+    "4:9": "in idípsum → juntamente, after the Codex critic's objection that 'a um só tempo' narrows it to time; must be fixed once for 4:9, 33:4, 40:7, 61:10, 73:6, 121:3. dormirei / repousarei echo as dórmiam / requiéscam do.",
+    "4:10": "singuláriter kept adverbial and open (God alone / me apart): singularmente."
+  }
+}

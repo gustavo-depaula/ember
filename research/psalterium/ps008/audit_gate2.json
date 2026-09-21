@@ -1,0 +1,20 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. Soft flags unchanged from draft 1 (8:3 +5 / +4, 8:4 −5 / +3, 8:5 +3; the ‘mar / mar’ echo is the Latin’s): ‘aperfeiçoastes’ has the syllable count of ‘fizestes perfeito’."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 (prayed.vos.json) — the gate. One verse, the same as on draft 1: 8:5 MAJOR, the indicatives of ‘quod memor es … quóniam vísitas’ turned into ‘para que’ + subjunctive, ‘alterando o modo e a relação expressa pelas conjunções’. His fix is not the one he gave on draft 1: then ‘pois vos lembrais … pois o visitais’, now ‘que vos lembrais dele … pois o visitais’. ‘Aperfeiçoastes o louvor’ passed, and so did everything held from draft 1, the doubled ‘Senhor’ included. The gate is therefore clean but for one major, held on purpose (the sixth place where a final text stands against the Latinist, after D10, D20, the two of D24, and Ps 7:5). No stylist or ambiguity reader has read draft 2, which differs from draft 1 by one verb.",
+    "outcomes": [
+      {
+        "verse": "8:5",
+        "remark": "the Latin’s present indicatives and its conjunctions are replaced by ‘para que’ + subjunctive → ‘Que é o homem, que vos lembrais dele? * ou o filho do homem, pois o visitais?’ (MAJOR, second time, with a different fix)",
+        "outcome": "option",
+        "decision": "quod",
+        "reason": "Held, for the reasons in the decision: (1) ‘que é X, para que …?’ is the Portuguese idiom for this question of wonder and presupposes the fact — nothing of the Latin’s assertion is lost on a hearer, and neither the stylist nor the blind reader stopped at the verse; (2) mood and conjunction are grammar, where D2 lets the ear lead, and D24 ruled the same way at 118:92 against the same reader; (3) Matos Soares 1932, D2’s outer bound, has the same build (‘para te lembrares dele’); (4) his own fixes show the cost of the letter: bare ‘que vos lembrais dele’ is heard in Brazil as a relative clause (‘the man you remember’), and a ‘pois’ clause hung on a question breaks it in two. Both of his wordings are selectable (options 2 and 3 of the decision)."
+      }
+    ]
+  }
+]

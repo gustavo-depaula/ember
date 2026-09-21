@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "9b7aab5c5f3881faede0ebf8b2e75192feacd4cb94efd35b01c155c323d956e0",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T03:58:36+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"118:44\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sæculum et in sæculum sæculi\",\n          \"portuguese\": \"para sempre e pelos séculos dos séculos\",\n          \"problem\": \"A fórmula portuguesa comunica perpetuidade, mas passa ao plural os dois substantivos singulares de «in sæculum sæculi».\",\n          \"fix\": \"para sempre e pelo século do século\"\n        }\n      ]\n    },\n    {\n      \"id\": \"118:60\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"et non sum turbátus\",\n          \"portuguese\": \"e não perturbado\",\n          \"problem\": \"A tradução apresenta um estado presente, subordinado a «Estou», e perde o perfeito passivo: não fui perturbado.\",\n          \"fix\": \"e não fui perturbado\"\n        }\n      ]\n    },\n    {\n      \"id\": \"118:70\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Coagulátum est sicut lac cor eórum\",\n          \"portuguese\": \"O coração deles coalhou como leite\",\n          \"problem\": \"A imagem permanece, mas a construção intransitiva substitui a voz passiva do latim, cuja conservação foi exigida.\",\n          \"fix\": \"O coração deles foi coalhado como leite\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução é amplamente fiel ao latim, inclusive em suas imagens e construções incomuns; os desvios apontados dizem respeito a número, tempo e voz. Nos 48 versículos, as marcas de salmodia correspondem às latinas, com os mesmos sinais na mesma ordem.\"\n}"
+}

@@ -1,0 +1,346 @@
+{
+  "psalm": 1,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "1:1": "{beatus} o {vir} que não {abiit} dos ímpios, † {v1b}, * {v1c}:",
+    "1:2": "Mas na lei do Senhor está a sua vontade, * e na sua lei meditará dia e noite.",
+    "1:3a": "E será como {lignum} junto {decursus} das águas, * que dará o seu fruto no seu tempo:",
+    "1:3b": "E a sua folha não cairá: * e todas as coisas que fizer prosperarão.",
+    "1:4": "Não assim os ímpios, não assim: * mas como o pó que o vento {proicit} da face da terra.",
+    "1:5": "Por isso os ímpios não {resurgent} no juízo: * nem os pecadores no {concilio} dos justos.",
+    "1:6": "Porque o Senhor conhece o caminho dos justos: * e {iter} dos ímpios perecerá."
+  },
+  "decisions": [
+    {
+      "id": "beatus",
+      "refs": ["1:1"],
+      "latin": "Beátus",
+      "kind": "glossary",
+      "why": "The first word of the psalter, and a word said 29 times in it (grep of the DO Latin: Beátus vir 1:1, 31:2, 33:9, 39:5, 83:6, 111:1, 126:5; Beáti 2:13, 31:1, 83:5, 105:3, 118:1–2, 127:1; beátus pópulus, beáta gens, beátum dixérunt, beátum fáciat eum 40:3 …). Ps 1 and Ps 2 are framed by it (1:1 Beátus vir … 2:13 beáti omnes), so whatever is chosen is said again at the end of the next psalm. The glossary has 'bem-aventurado o homem' as working; Ps 118:1–2 is already translated 'Bem-aventurados'. The real rival is 'feliz' (the Diurnal Monástico 1962, from the Hebrew), and D2 gives the ear 'the plainer of two faithful words' — so the question is whether 'feliz' is a faithful word for beátus. Lewis & Short: 'happy, prosperous, blessed, fortunate', with Cicero's definition 'secretis malis omnibus, cumulata bonorum complexio' — a state pronounced over someone, not a feeling he has. The Latin psalter never uses felix (grep: no form of it), so beátus (μακάριος) is its one word for this.",
+      "options": [
+        {
+          "label": "Bem-aventurado",
+          "forms": {"beatus": "Bem-aventurado"},
+          "note": "Ruling, with the glossary, Matos Soares 1932 (1:1 and 2:13 in the parallels) and this project's own Ps 118:1–2. Reasons: (1) 'feliz' today is first a mood — 'estou feliz' — and 'Feliz o homem que…' is heard as 'the man who … is glad', where beátus is a verdict on a life (Cicero's definition above); 'bem-aventurado' can only be the verdict. (2) It is the one Portuguese word that is heard as a macarism: the reader crossing from 'Beátus' / 'Beáti' needs a word that sounds like a formula, since the Latin word is one — 29 times, nearly always first in its verse. (3) It works in every construction the psalter has: 143:15 'Beátum dixérunt pópulum' → 'chamaram bem-aventurado o povo', 40:3 'beátum fáciat eum' → 'o faça bem-aventurado', 127:2 'beátus es'. (4) It is not an archaism needing a footnote: everyone who prays knows it. Cost, not hidden: five syllables for three (Bem-aventurado o homem: 8 against Beátus vir: 4). It falls at the head of the verse, on the reciting note, where length is cheapest; in 1:1 the first colon still comes within one syllable of the Latin. That the Beatitudes are 'Bem-aventurados' in Portuguese is common knowledge but was not fetched tonight: unverified, and not needed for the ruling.",
+          "from": "glossary"
+        },
+        {
+          "label": "Feliz",
+          "forms": {"beatus": "Feliz"},
+          "note": "DM1962 ('FELIZ o homem que não segue…') — made from the Hebrew, but a witness of what Brazilian monks actually prayed, and the word of the current Brazilian liturgical psalter as far as I know (unverified). Plain, two syllables, oxytone, exactly the Latin's length ('Feliz o homem': 4–5). Lexically inside beátus (L&S 'happy'). Refused as the text because it names the feeling before the state, and because across 29 places it would make the psalter's one solemn formula sound like a greeting-card word; but it is the option Gustavo should weigh most seriously, since it is the plainer word and D2 leans to the plainer word.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Ditoso",
+          "forms": {"beatus": "Ditoso"},
+          "note": "Three syllables, paroxytone, means 'fortunate, blessed by lot' — close to beátus and the right length. Literary and faintly old-fashioned (rule 5: no poeticism); nobody prays it.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vir",
+      "refs": ["1:1"],
+      "latin": "vir",
+      "kind": "glossary",
+      "why": "The Latin says vir (ἀνήρ), the male, not homo (ἄνθρωπος) — and the psalter has both macarisms: Beátus vir seven times, Beátus homo twice (83:13, 93:12). Portuguese has one plain word, 'homem', for both, and one marked word, 'varão', for vir alone.",
+      "options": [
+        {
+          "label": "homem",
+          "forms": {"vir": "homem"},
+          "note": "Ruling, with the glossary, Matos Soares 1932 and DM1962. The plainer of two faithful words (D2): 'homem' is both vir and homo in living Portuguese, and in 'o homem que…' it is heard as the particular man, as vir is. Cost: Beátus vir and Beátus homo become one phrase — accepted, since no verse sets the two side by side as a contrast (the two 'Beátus homo' verses stand alone).",
+          "from": "glossary"
+        },
+        {
+          "label": "varão",
+          "forms": {"vir": "varão"},
+          "note": "Keeps vir apart from homo, and is oxytone. It is a word of old Bibles and of registry offices ('filho varão'); in prayer today it sounds archaic and draws attention to itself in the first line of the psalter (rule 5). If Gustavo ever wants vir / homo kept apart psalter-wide, this is the word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "abiit",
+      "refs": ["1:1"],
+      "latin": "non ábiit in consílio impiórum",
+      "kind": "word",
+      "why": "abíre is 'to go off, go away'; with 'in consílio' (ablative) the Latin is a stiff calque of the Greek ἐπορεύθη ἐν βουλῇ, 'walked in the counsel' (Douay-Rheims: 'hath not walked in the counsel'). The psalm sets three verbs of the body in a row — went, stood, sat — and the three must stay three. The glossary has ambuláre → andar, and the Greek verb here is the same one that stands behind 118:1 'qui ámbulant in lege Dómini' (πορεύομαι), already translated 'os que andam na lei do Senhor'.",
+      "options": [
+        {
+          "label": "andou no conselho",
+          "forms": {"abiit": "andou no conselho"},
+          "note": "Ruling. 'Andar no conselho de' is as odd and as clear in Portuguese as 'abíre in consílio' is in Latin — the counsel is a place one walks in, which prepares the 'way' and the 'chair' — and it makes this verse answer 118:1 (not in the counsel of the wicked / in the law of the Lord), as it does in the Greek. Cost: abíre and ambuláre share a verb; the ab- ('away') goes unheard, as it does in Douay-Rheims.",
+          "from": "DRB"
+        },
+        {
+          "label": "se foi no conselho",
+          "forms": {"abiit": "se foi no conselho"},
+          "note": "Hugs ab-íre, 'went off'. 'Que não se foi no conselho dos ímpios' is hard to parse at sight: 'ir-se' wants a 'from' or a 'to', and the bare 'foi' is also 'was'.",
+          "from": "draft"
+        },
+        {
+          "label": "seguiu o conselho",
+          "forms": {"abiit": "seguiu o conselho"},
+          "note": "DM1962 ('não segue o conselho'; Matos Soares 1932 goes further: 'não se deixou levar pelo conselho'). Natural, but it turns the counsel from a place one walks in into advice one takes, and loses the first of the three postures. Refused under D2: an image paraphrased.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "stetit",
+      "refs": ["1:1"],
+      "latin": "et in via peccatórum non stetit … et in cáthedra pestiléntiæ non sedit",
+      "kind": "order",
+      "why": "Two things at once, because they share the slots. (1) The word for stetit: stare is 'to stand' and also 'to stand still, stay' (L&S); the glossary has stare → 'estar de pé' (open, Ps 133:1b), which suits a man standing in God's house but not one on a road. (2) The order: the Latin is verb-first in the first colon and verb-last in the next two (non ábiit in… / in via… non stetit / in cáthedra… non sedit). D2 gives order to the ear; but a fronted complement is ordinary elevated Portuguese, and the verb-last pair lets the hearer follow the Latin column word for word and closes both cola on a stressed last syllable.",
+      "options": [
+        {
+          "label": "e no caminho dos pecadores não parou, * e na {cathedra} não se sentou",
+          "forms": {
+            "v1b": "e no caminho dos pecadores não parou",
+            "v1c": "e na {cathedra} não se sentou"
+          },
+          "note": "Ruling. 'Parar' is the plain word for what a walker does when he stands still, so the sequence is andou / parou / sentou-se: walking, stopping, sitting — the Latin's descent. Latin order kept in both cola. The three verbs end alike (-ou) and the last two stand at the mediant and the final: not a sought rhyme but the Latin's own echo (non stetit / non sedit), which rule 5 allows.",
+          "from": "draft"
+        },
+        {
+          "label": "e no caminho dos pecadores não se deteve, * e na {cathedra} não se sentou",
+          "forms": {
+            "v1b": "e no caminho dos pecadores não se deteve",
+            "v1c": "e na {cathedra} não se sentou"
+          },
+          "note": "Matos Soares 1932's verb ('não se deteve no caminho dos pecadores'). A shade more formal than 'parou', with the sense of lingering; it removes the -ou echo at the mediant — which here is the Latin's echo, so nothing is gained by removing it.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e não parou no caminho dos pecadores, * e não se sentou na {cathedra}",
+          "forms": {
+            "v1b": "e não parou no caminho dos pecadores",
+            "v1c": "e não se sentou na {cathedra}"
+          },
+          "note": "Everyday order, three cola built alike (não andou no… / não parou no… / não se sentou na…). Closes on 'pecadores' and 'pestilência', both paroxytone. Flatter; the Latin's turn from verb-first to verb-last is lost.",
+          "from": "draft"
+        },
+        {
+          "label": "e no caminho dos pecadores não esteve de pé, * e na {cathedra} não se sentou",
+          "forms": {
+            "v1b": "e no caminho dos pecadores não esteve de pé",
+            "v1c": "e na {cathedra} não se sentou"
+          },
+          "note": "The glossary's 'estar de pé' for stare (Ps 133:1b). Keeps the posture as a posture; but 'estar de pé no caminho' is a man standing on a road, not one who has stopped on it, and the colon runs four syllables over.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "cathedra",
+      "refs": ["1:1"],
+      "latin": "in cáthedra pestiléntiæ",
+      "kind": "word",
+      "why": "A Septuagintal reading to be kept (rule 1): the Greek has ἐπὶ καθέδραν λοιμῶν, 'on the seat of the pestilent', where the Hebrew has the seat of the scoffers (DM1962: 'na assembléia dos que zombam'). The Latin turns the Greek's plural persons into an abstract genitive, pestiléntiæ — 'the chair of pestilence' (Douay-Rheims) — and that is the image to keep: a chair (cáthedra is the seat one teaches or presides from; 106:32 'in cáthedra seniórum') and a contagion. L&S lists this very phrase under the figurative sense of pestiléntia.",
+      "options": [
+        {
+          "label": "cadeira da pestilência",
+          "forms": {"cathedra": "cadeira da pestilência"},
+          "note": "Ruling. 'Cadeira' is the plain word and also the teacher's chair in Portuguese; 'pestilência' is the cognate, understood at once, and kept apart from pestis. With the article the pestilence is a power that has a chair, as the Latin's bare genitive allows. The image is given and not explained (Matos Soares 1932 adds '(dos maus)').",
+          "from": "draft"
+        },
+        {
+          "label": "cadeira de pestilência",
+          "forms": {"cathedra": "cadeira de pestilência"},
+          "note": "Genitive of quality — a pestilent chair — which is what stands behind the Latin historically. Without the article it sounds like a kind of furniture ('cadeira de balanço').",
+          "from": "draft"
+        },
+        {
+          "label": "cadeira pestilencial",
+          "forms": {"cathedra": "cadeira pestilencial"},
+          "note": "Matos Soares 1932. The same reading as the option above, with an adjective for the Latin's noun.",
+          "from": "MS1932"
+        },
+        {
+          "label": "cátedra da pestilência",
+          "forms": {"cathedra": "cátedra da pestilência"},
+          "note": "The cognate; says 'teaching chair' unmistakably, which is how the Fathers read the verse. Learned and proparoxytone; 'cadeira' already carries the sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "lignum",
+      "refs": ["1:3a"],
+      "latin": "tamquam lignum, quod plantátum est",
+      "kind": "word",
+      "why": "lignum is 'wood' and, by a Septuagintalism (ξύλον), 'tree'; the Latin did not write arbor. Christian reading has heard the wood of the Cross in it for that reason. Portuguese 'lenho' is the matching word — wood, and in church speech the Cross ('o lenho da cruz') — but a 'lenho' cannot be planted or bear leaves.",
+      "options": [
+        {
+          "label": "a árvore que foi plantada",
+          "forms": {"lignum": "a árvore que foi plantada"},
+          "note": "Ruling, with Douay-Rheims ('a tree which is planted') and Matos Soares 1932 ('a árvore, que está plantada'). What lignum means here; the plainer of two faithful words. The definite article follows the Greek (τὸ ξύλον), which the Latin cannot show. The relative clause is kept ('que foi plantada … que dará'), because the Latin builds the verse on its two quod.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o lenho que foi plantado",
+          "forms": {"lignum": "o lenho que foi plantado"},
+          "note": "The Latin's own word, with the Cross audible in it. In Portuguese a 'lenho' is a log: planted, fruiting and in leaf, it is a riddle, where the Latin is merely biblical.",
+          "from": "draft"
+        },
+        {
+          "label": "uma árvore plantada",
+          "forms": {"lignum": "uma árvore plantada"},
+          "note": "What a Brazilian would say unprompted (DM1962: 'como a árvore plantada'). Drops the first of the two relative clauses and the colon falls four syllables short.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "decursus",
+      "refs": ["1:3a"],
+      "latin": "secus decúrsus aquárum",
+      "kind": "word",
+      "why": "decúrsus is a running-down, a downward course (L&S cites this verse under the concrete sense, 'a descending aqueduct'); the Greek has διεξόδους, channels or outlets. Plural in both. Two nouns in the Latin, and both should be heard.",
+      "options": [
+        {
+          "label": "aos cursos das águas",
+          "forms": {"decursus": "aos cursos"},
+          "note": "Ruling. 'Curso d'água' is the living Portuguese for a watercourse, and it is the Latin's own root (de-cúrsus); plural kept.",
+          "from": "draft"
+        },
+        {
+          "label": "às correntes das águas",
+          "forms": {"decursus": "às correntes"},
+          "note": "Matos Soares 1932; Douay-Rheims 'running waters'. Good and known; 'correntes' is first the flow rather than the channel, and is also 'chains'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "proicit",
+      "refs": ["1:4"],
+      "latin": "quem próicit ventus a fácie terræ",
+      "kind": "glossary",
+      "why": "proícere is 'to throw forth, cast away'. It comes back at once in 2:3 (projiciámus a nobis jugum ipsórum) and in much-prayed verses: 50:13 Ne proícias me a fácie tua, 70:9, 76:8. So it wants one verb that takes a 'from'. Douay-Rheims has 'driveth from', Matos Soares 1932 'dispersa' (which is another verb, dispérgere).",
+      "options": [
+        {
+          "label": "lança",
+          "forms": {"proicit": "lança"},
+          "note": "Ruling, and proposed for the glossary: proícere → lançar (de). Plain, takes 'de' naturally, and serves the other places: 2:3 'lancemos de nós o seu jugo', 50:13 'Não me lanceis da vossa face'. 'Lançai' would be safe under rule 3 (past 'lancei').",
+          "from": "draft"
+        },
+        {
+          "label": "arremessa",
+          "forms": {"proicit": "arremessa"},
+          "note": "Stronger and nearer the violence of pro-jícere; four syllables, and it does not sit well in 50:13.",
+          "from": "draft"
+        },
+        {
+          "label": "varre",
+          "forms": {"proicit": "varre"},
+          "note": "What wind does to dust in Portuguese; but it is a broom's verb, another image than throwing.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "resurgent",
+      "refs": ["1:5"],
+      "latin": "non resúrgent ímpii in judício",
+      "kind": "word",
+      "why": "The Latin follows the Greek ἀναστήσονται and says 'rise again' — the verb of the resurrection — where the Hebrew has 'stand' (DM1962: 'Não ficarão de pé no julgamento'). Rule 1: the Latin's reading is kept, and its openness with it (whether the wicked will not rise at all, or will not rise 'in the judgment' to stand acquitted, the Latin does not say).",
+      "options": [
+        {
+          "label": "ressurgirão",
+          "forms": {"resurgent": "ressurgirão"},
+          "note": "Ruling. The cognate of re-súrgere, current in Portuguese, and the verb the Creed's 'resurréxit' family would want; Douay-Rheims 'shall not rise again'.",
+          "from": "DRB"
+        },
+        {
+          "label": "ressuscitarão",
+          "forms": {"resurgent": "ressuscitarão"},
+          "note": "Matos Soares 1932. The everyday verb for rising from the dead; it is resuscitáre's word, which the psalter has as a verb of its own (40:11 resúscita me), and it closes the verse's openness toward the general resurrection only.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se levantarão",
+          "forms": {"resurgent": "se levantarão"},
+          "note": "The plain verb, without the 're-'; it is the Hebrew's sense ('stand up') rather than the Latin's, and 'levantar-se' already serves exsúrgere and insúrgere in the glossary.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "concilio",
+      "refs": ["1:5"],
+      "latin": "in concílio justórum",
+      "kind": "glossary",
+      "why": "The Greek has βουλῇ in 1:1 and again here; the Latin writes consílio there and concílio here — two words one letter apart, a play of sound the Latin makes on purpose or by happy accident, and in either case what the praying Church has heard: the counsel of the wicked, the council of the just. concílium recurs three times (21:17 concílium malignántium, 25:4 cum concílio vanitátis, 39:11 a concílio multo), and the psalter has a crowd of assembly-words that will each want a word of its own (ecclésia, synagóga, congregátio, convéntus, cœtus).",
+      "options": [
+        {
+          "label": "concílio",
+          "forms": {"concilio": "concílio"},
+          "note": "Ruling. The cognate keeps the Latin's echo (conselho dos ímpios … concílio dos justos) and leaves 'assembleia' and 'congregação' free for ecclésia and congregátio. Cost: in Brazil 'concílio' is first of all a council of the Church; 'o concílio dos justos' is still understood at once as a solemn assembly, and the churchly ring does no harm in this verse. It stands mid-colon, so its stress is not at a cadence.",
+          "from": "draft"
+        },
+        {
+          "label": "assembleia",
+          "forms": {"concilio": "assembleia"},
+          "note": "DM1962's word and the plainest; but it is the natural word for ecclésia (21:23, 21:26, 34:18, 39:10, 149:1), and the echo with 1:1 is lost.",
+          "from": "DM1962"
+        },
+        {
+          "label": "congregação",
+          "forms": {"concilio": "congregação"},
+          "note": "Matos Soares 1932. It is congregátio's cognate (the psalter has the word), and in Brazil a religious institute.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "iter",
+      "refs": ["1:6"],
+      "latin": "viam justórum … iter impiórum",
+      "kind": "word",
+      "why": "The Greek (ὁδός) and the Hebrew repeat one word; the Latin varies it: via for the just, iter for the wicked. Douay-Rheims and Matos Soares 1932 both go back to one word ('way … way', 'caminho … caminho'). D15 met the same question for verbum / sermo and ruled for one Portuguese word, because the variation carries no difference of sense and Portuguese had no plain second word ('falas' failed the ear three times) — adding that verses which set the two side by side decide locally. This is such a verse, and here Portuguese does have a plain second word.",
+      "options": [
+        {
+          "label": "a senda",
+          "forms": {"iter": "a senda"},
+          "note": "Ruling for this verse. The Latin's variation is kept because it costs the ear nothing: 'senda' is known, two syllables, paroxytone, and free (the glossary gave 'vereda' to sémita and named 'senda' only as its alternative). The reader crossing columns finds two words where the Latin has two. Proposed for the glossary only as: iter → caminho, but 'senda' where it stands beside via. iter has five other places (49:23, 67:5, 67:20, 79:10, 139:6), none beside via, and in 67:5 'iter fácite' it will want 'caminho'.",
+          "from": "draft"
+        },
+        {
+          "label": "o caminho",
+          "forms": {"iter": "o caminho"},
+          "note": "Douay-Rheims, Matos Soares 1932, and what the Greek says. It makes the psalm close on its theme-word said twice — the two ways — which is strong; it is the option to take if D15's reasoning is applied strictly.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a estrada",
+          "forms": {"iter": "a estrada"},
+          "note": "DM1962 uses 'estrada' in 1:1 for the sinners' way. Plain, but a built road; 'a estrada dos ímpios perecerá' is heard as a road being destroyed.",
+          "from": "DM1962"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "1:1": "The three genitives stay distinct, as the glossary has them: ímpii → ímpios, peccatóres → pecadores (and 1:5–6 justi → justos). consílium → conselho (as Ps 118:24), via → caminho (D15). The mediant and the final end alike (parou / sentou): the Latin has the same echo (stetit / sedit), so it is kept (rule 5). The verse ends on a colon, as the Latin does, because 1:2 continues the sentence. DM1962 has this psalm (monastic Prime): it was heard for diction only — it reads the Hebrew ('dos que zombam') and says 'Feliz'.",
+    "1:2": "The Latin has no verb in the first colon; 'está' is the copula Portuguese needs (D2). volúntas → 'vontade', the Latin's word (Douay-Rheims 'his will is in the law'), not the Hebrew's 'delight' (DM1962 'se compraz'). 'a sua vontade' / 'na sua lei': ejus … ejus are as open in Latin as 'sua' is in Portuguese (the man's will, the Lord's law); the sense sorts them. lex → lei, meditári → meditar em (D15; words/ps118-terms.md §5): 'na sua lei meditará' is the vocabulary of 118:16 'Nos vossos preceitos meditarei'. The future is kept (meditábitur; Matos Soares 1932 makes it a present). die ac nocte → 'dia e noite', the living phrase.",
+    "1:3a": "'E será': the subject stays in the verb ending, as in the Latin; the man of 1:1–2 is still in the ear. fructum suum … in témpore suo: both possessives kept ('o seu fruto no seu tempo'); Matos Soares' idiom 'a seu tempo' is the alternative and drops the preposition 'in'. The verse ends on a colon as the Latin does.",
+    "1:3b": "fólium ejus → 'a sua folha', singular as in the Latin. défluet → 'cairá' (Douay-Rheims 'fall off', Matos Soares 1932 'cairá'), not 'murchará', which is the Hebrew's verb. ómnia quæcúmque → 'todas as coisas que' in the plural, so that the verse closes on 'prosperarão' and not on 'prosperará', which would rhyme with 'cairá' at the mediant where the Latin has no echo (rule 5). prosperabúntur is passive ('shall be prospered'); Portuguese 'prosperar' is already intransitive, so the passive is grammar that yields (D2); the glossary's 'fazer prosperar' (117:25) is the active of the same verb. Who 'does' — the man or the tree — is left as open as in the Latin.",
+    "1:4": "'Non sic … non sic' repeated as in the Latin (the second 'non sic' is the Greek's, not the Hebrew's: DM1962 has it too, from the Latin column's pull). No verb is supplied after 'mas' — the Latin has none (Matos Soares 1932 adds 'serão'). 'a fácie terræ' → 'da face da terra' is also the Greek's plus, kept; fácies → face (glossary).",
+    "1:5": "Ídeo → 'Por isso'. in judício → 'no juízo' (D15 judícium → juízo; the study names this verse). The second colon has no verb in the Latin and none is supplied (Matos Soares 1932 adds '(estarão)').",
+    "1:6": "novit → 'conhece' (a perfect with present sense). períbit → 'perecerá': it is the way that perishes, the Latin's strange and exact image, left alone (DM1962 'leva à perda' explains it)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm1.txt, seven prayed verses (1:1, 1:2, 1:3a, 1:3b, 1:4, 1:5, 1:6); 1:1 has a flex (†) and a mediant (*), the rest one '*' each. No titulus in DO's file (D7). The Hetzenauer 1914 print read was skipped overnight and is owed."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps001.md. Vulgate-family support: Douay-Rheims and Matos Soares 1932 only. The Diurnal Monástico 1962 has this psalm; it is made from the Hebrew (scoffers, 'se compraz', 'não seca', 'ficarão de pé') and was used for diction only. DO's Portuguese was not used as evidence for anything (D12). Lewis & Short consulted for pestiléntia, decúrsus, beátus (letter B fetched into consult/). Septuagintal readings kept on purpose: cáthedra pestiléntiæ (1:1), the second 'non sic' and 'a fácie terræ' (1:4), resúrgent (1:5). No vós imperative in the psalm; God is not addressed in it, so the address question does not arise."
+    }
+  ]
+}

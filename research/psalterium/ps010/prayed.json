@@ -1,0 +1,868 @@
+{
+  "psalm": 10,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "10:2": "No Senhor confio: † {quomodo} à minha alma: * {transmigra} {passer}?",
+    "10:3": "Porque eis que os pecadores {arcum}, † prepararam as suas setas na aljava, * para {sagittent} no escuro os retos de coração.",
+    "10:4": "Porque {perfecisti}: * {justus}?",
+    "10:5a": "O Senhor está no seu templo santo, * {sedes}.",
+    "10:5b": "Os seus olhos {respiciunt} o pobre: * as suas pálpebras {interrogant} os filhos dos homens.",
+    "10:6": "O Senhor {interrogat} o justo e o ímpio: * mas quem ama a iniquidade odeia {animam}.",
+    "10:7": "{pluet} sobre os pecadores: * fogo e enxofre e {procellarum} {calicis}.",
+    "10:8": "Porque o Senhor é justo, e amou {justitias}: * {vidit}."
+  },
+  "decisions": [
+    {
+      "id": "quomodo",
+      "refs": [
+        "10:2"
+      ],
+      "latin": "quómodo dícitis ánimæ meæ",
+      "kind": "word",
+      "why": "quómodo is ‘how’ (πῶς): the question of one who cannot see how the advice can be given to a man who trusts in the Lord. Douay-Rheims ‘how then do you say’; Matos Soares 1932 ‘porque dizeis (pois)’ reads it as ‘why’. The speakers are plural (dícitis), so vós. Heard (draft 1): the blind reader took ‘como dizeis à minha alma’ first as a question put to the Lord, ‘mencionado imediatamente antes’ — a cost of vós: in the Latin the number tells the two addressees apart (dícitis, plural, the advisers; perfecísti, 10:4, singular, God), in Portuguese both are ‘vós’.",
+      "options": [
+        {
+          "label": "como dizeis vós",
+          "forms": {
+            "quomodo": "como dizeis vós"
+          },
+          "note": "Ruling (draft 2): the subject hidden in the verb ending is named (D2 allows it), and set straight against ‘o Senhor’ of the first colon — in the Lord I trust; how can you say … — so that the hearer is told that ‘vós’ here is someone other than the Lord. Nothing is added that the Latin’s ‘dícitis’ does not say. One syllable more; the colon is still shorter than the Latin’s.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "como dizeis",
+          "forms": {
+            "quomodo": "como dizeis"
+          },
+          "note": "Draft 1: the Latin’s ‘how’ (Douay-Rheims). Heard by the blind reader first as said to the Lord.",
+          "from": "draft"
+        },
+        {
+          "label": "por que dizeis",
+          "forms": {
+            "quomodo": "por que dizeis"
+          },
+          "note": "Matos Soares 1932. Asks for a reason, where the Latin asks how it can be said at all.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "transmigra",
+      "refs": [
+        "10:2"
+      ],
+      "latin": "Tránsmigra in montem",
+      "kind": "word",
+      "why": "transmígrare: ‘to remove from one place to another, to migrate’ (Lewis & Short; the verb is only here in the psalter, grep). The Greek μεταναστεύου is ‘change your dwelling’. The advice is to move house to the mountain; it does not say ‘flee’. Douay-Rheims ‘Get thee away from hence to the mountain’; Matos Soares 1932 and the Diurnal (from the Hebrew) ‘Foge’. The soul is addressed alone, so tu.",
+      "options": [
+        {
+          "label": "Muda-te para o monte",
+          "forms": {
+            "transmigra": "Muda-te para o monte"
+          },
+          "note": "Ruling: ‘mudar-se’ is exactly to change one’s dwelling, the plain verb of the Greek and of Lewis & Short’s first sense. It keeps the advice as advice, not panic.",
+          "from": "draft"
+        },
+        {
+          "label": "Migra para o monte",
+          "forms": {
+            "transmigra": "Migra para o monte"
+          },
+          "note": "Keeps the Latin’s root, and ‘migrar’ is what birds do, which prepares the sparrow. The tu imperative ‘migra’ is rarely said.",
+          "from": "draft"
+        },
+        {
+          "label": "Passa para o monte",
+          "forms": {
+            "transmigra": "Passa para o monte"
+          },
+          "note": "The ‘trans-’ heard; weaker as a change of home.",
+          "from": "draft"
+        },
+        {
+          "label": "Foge para o monte",
+          "forms": {
+            "transmigra": "Foge para o monte"
+          },
+          "note": "Matos Soares 1932 (and the Diurnal, from the Hebrew). Refused: flight is an interpretation; the Latin says remove, migrate (D2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "passer",
+      "refs": [
+        "10:2"
+      ],
+      "latin": "sicut passer",
+      "kind": "glossary",
+      "why": "passer is the sparrow (στρουθίον); five verses (grep: 10:2, 83:4, 101:8 sicut passer solitárius in tecto, 103:16 pásseres, 123:7a Ánima nostra sicut passer erépta est de láqueo). Douay-Rheims ‘sparrow’; Matos Soares 1932 ‘a ave’. Rule 5: concrete images stay concrete.",
+      "options": [
+        {
+          "label": "como um pardal",
+          "forms": {
+            "passer": "como um pardal"
+          },
+          "note": "Ruling, proposed for the glossary (passer → pardal): the named bird, the plain Brazilian word; it serves all five places (‘como um pardal solitário no telhado’, ‘a nossa alma, como um pardal, foi arrancada do laço’). The indefinite article, as Portuguese says a simile.",
+          "from": "DRB"
+        },
+        {
+          "label": "como a ave",
+          "forms": {
+            "passer": "como a ave"
+          },
+          "note": "Matos Soares 1932. Generic where the Latin names a small, defenceless bird.",
+          "from": "MS1932"
+        },
+        {
+          "label": "como um passarinho",
+          "forms": {
+            "passer": "como um passarinho"
+          },
+          "note": "The small bird without the species; tender, and a diminutive the Latin does not have.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "arcum",
+      "refs": [
+        "10:3"
+      ],
+      "latin": "intendérunt arcum",
+      "kind": "glossary",
+      "why": "Glossary: téndere / inténdere arcum → armar o arco (open; Ps 7:13 ‘armou o seu arco’), which names 10:3 among the places where inténdere cannot be ‘atender’ (D3). 63:4 has the same phrase and the same purpose clause (intendérunt arcum rem amáram, ut sagíttent in occúltis immaculátum) and will copy this verse. The Latin has no possessive with arcum (it has one with sagíttas).",
+      "options": [
+        {
+          "label": "armaram o arco",
+          "forms": {
+            "arcum": "armaram o arco"
+          },
+          "note": "Ruling: the glossary’s wording, without a possessive the Latin does not have. Douay-Rheims ‘have bent their bow’.",
+          "from": "glossary"
+        },
+        {
+          "label": "retesaram o arco",
+          "forms": {
+            "arcum": "retesaram o arco"
+          },
+          "note": "The exact verb (to draw the string taut); the glossary names it as little known.",
+          "from": "glossary"
+        },
+        {
+          "label": "estenderam o seu arco",
+          "forms": {
+            "arcum": "estenderam o seu arco"
+          },
+          "note": "Matos Soares 1932. ‘Estender um arco’ is not said of a bow in Portuguese, and the possessive is supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sagittent",
+      "refs": [
+        "10:3"
+      ],
+      "latin": "ut sagíttent in obscúro rectos corde",
+      "kind": "word",
+      "why": "sagittáre: ‘to discharge arrows, to shoot with arrows’ (Lewis & Short, citing this verse and 63:4). The Latin makes a figure of sagíttas … sagíttent; the Greek has βέλη … κατατοξεῦσαι, no echo. Douay-Rheims ‘to shoot in the dark the upright of heart’; Matos Soares 1932 ‘para as dispararem na obscuridade contra os que são de coração recto’. rectus corde → reto de coração (glossary, Ps 7:11). in obscúro → ‘no escuro’ (the Greek is ‘in a moonless night’).",
+      "options": [
+        {
+          "label": "flecharem",
+          "forms": {
+            "sagittent": "flecharem"
+          },
+          "note": "Ruling: the plain Brazilian verb for shooting a person with arrows, transitive as the Latin is, so ‘os retos de coração’ stays the direct object. Cost: seta (glossary for sagítta) and flechar are two roots, so the Latin’s echo sagíttas / sagíttent is not heard.",
+          "from": "draft"
+        },
+        {
+          "label": "assetearem",
+          "forms": {
+            "sagittent": "assetearem"
+          },
+          "note": "Keeps the echo (setas … assetearem) exactly; ‘assetear’ is in the dictionary but hardly said in Brazil — rule 5 (no word needing a footnote).",
+          "from": "draft"
+        },
+        {
+          "label": "dispararem contra",
+          "forms": {
+            "sagittent": "dispararem contra"
+          },
+          "note": "Matos Soares 1932. The arrows are left implicit and a preposition supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "perfecisti",
+      "refs": [
+        "10:4"
+      ],
+      "latin": "Quóniam quæ perfecísti, destruxérunt",
+      "kind": "glossary",
+      "why": "perfícere → aperfeiçoar (glossary, open, from Ps 8:3; the row says it was tried on this verse). The Greek κατηρτίσω is ‘you fitted, established’ — the Hebrew has ‘the foundations’, another reading. Douay-Rheims ‘they have destroyed the things which thou hast made’; Matos Soares 1932 ‘destruíram o que fizeste de bom’. The Latin puts the object first; destrúere → destruir (glossary; not at the vós imperative, so safe here).",
+      "options": [
+        {
+          "label": "destruíram o que aperfeiçoastes",
+          "forms": {
+            "perfecisti": "destruíram o que aperfeiçoastes"
+          },
+          "note": "Ruling: the glossary verb, in natural Portuguese order (D2); the subject is the sinners of 10:3. The colon ends on a paroxytone.",
+          "from": "glossary"
+        },
+        {
+          "label": "o que aperfeiçoastes, eles destruíram",
+          "forms": {
+            "perfecisti": "o que aperfeiçoastes, eles destruíram"
+          },
+          "note": "The Latin’s order, with the object first and a subject named; the glossary’s trial wording. Heavier.",
+          "from": "glossary"
+        },
+        {
+          "label": "destruíram o que levastes à perfeição",
+          "forms": {
+            "perfecisti": "destruíram o que levastes à perfeição"
+          },
+          "note": "Avoids the everyday sense of ‘aperfeiçoar’ (to improve what was wanting); three syllables longer.",
+          "from": "draft"
+        },
+        {
+          "label": "destruíram o que fizestes de bom",
+          "forms": {
+            "perfecisti": "destruíram o que fizestes de bom"
+          },
+          "note": "Matos Soares 1932. Refused: ‘de bom’ is his gloss and ‘fizestes’ is fácere’s verb (Douay-Rheims ‘made’ has the same flattening).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "justus",
+      "refs": [
+        "10:4"
+      ],
+      "latin": "justus autem quid fecit?",
+      "kind": "ambiguity",
+      "why": "A perfect: ‘but the just man, what has he done?’ — open between ‘what wrong did he do to deserve this?’ (Matos Soares 1932’s gloss ‘de mau’) and ‘what has he achieved / can he do?’ (the Hebrew’s ‘what can the righteous do?’, which the Diurnal follows). Douay-Rheims ‘but what has the just man done?’.",
+      "options": [
+        {
+          "label": "mas que fez o justo",
+          "forms": {
+            "justus": "mas que fez o justo"
+          },
+          "note": "Ruling: the Latin’s tense and its openness; natural order, and the verse ends on the just man, as the Latin’s question ends on his deed. No gloss. Heard: the blind reader took it first as ‘que mal o justo fez para merecer isso?’, second as ‘what did he do in the face of the destruction’ — both are in the Latin.",
+          "from": "DRB"
+        },
+        {
+          "label": "mas o justo, que fez",
+          "forms": {
+            "justus": "mas o justo, que fez"
+          },
+          "note": "The Latin’s order (justus autem quid fecit), the just man put first; the verse then closes on an oxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "mas que pode fazer o justo",
+          "forms": {
+            "justus": "mas que pode fazer o justo"
+          },
+          "note": "The Hebrew’s sense, as the Diurnal has it. Refused: the Latin has a perfect (D2).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "sedes",
+      "refs": [
+        "10:5a"
+      ],
+      "latin": "Dóminus in cælo sedes ejus",
+      "kind": "grammar",
+      "why": "Both colons of 10:5a are verbless and both begin ‘Dóminus’; the second is a hanging nominative: ‘the Lord — in heaven is his seat’. Douay-Rheims and Matos Soares 1932 dissolve it into ‘the Lord’s throne is in heaven’, which loses the anaphora. sedes → ‘trono’ (the Greek θρόνος; Portuguese ‘sede’ is headquarters or thirst, ‘assento’ is a chair).",
+      "options": [
+        {
+          "label": "o Senhor tem no céu o seu trono",
+          "forms": {
+            "sedes": "o Senhor tem no céu o seu trono"
+          },
+          "note": "Ruling: the anaphora kept (O Senhor … o Senhor), the Latin’s possessive ‘ejus’ turned into the verb Portuguese uses for it; a verb supplied as the first colon supplies ‘está’ (D2). Ends on a paroxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "o Senhor, no céu está o seu trono",
+          "forms": {
+            "sedes": "o Senhor, no céu está o seu trono"
+          },
+          "note": "The Latin’s hanging nominative kept. Correct in speech, loose on the page.",
+          "from": "draft"
+        },
+        {
+          "label": "o trono do Senhor está no céu",
+          "forms": {
+            "sedes": "o trono do Senhor está no céu"
+          },
+          "note": "Matos Soares 1932 and Douay-Rheims. Refused: the repetition ‘Dóminus … Dóminus’ at the head of both colons is the Latin’s (D2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "respiciunt",
+      "refs": [
+        "10:5b"
+      ],
+      "latin": "Óculi ejus in páuperem respíciunt",
+      "kind": "glossary",
+      "why": "respícere in: to look (back) at, to regard (the Greek ἀποβλέπουσιν, to look away towards, fix one’s gaze on). The imperative returns in 12:3 (réspice, ἐπίβλεψον — the verb of 118:132 Áspice in me → ‘Olhai para mim’). Douay-Rheims ‘look on the poor man’; Matos Soares 1932 ‘olham para o pobre’. pauper → ‘pobre’ (the plain word; 11:6a sets it beside inops). The stylist (draft 1): ‘«olhos olham» repete sons muito próximos e faz a boca tropeçar; essa repetição não corresponde a uma repetição de raiz no latim’ → ‘Os seus olhos estão voltados para o pobre’.",
+      "options": [
+        {
+          "label": "estão voltados para",
+          "forms": {
+            "respiciunt": "estão voltados para"
+          },
+          "note": "Ruling (draft 2), the stylist’s: the jingle gone, and the re- of respícere (to look back, turn one’s gaze to) heard. It is a participle of state (‘facing, turned towards’), not the reflexive ‘voltar-se’ that is convértere’s verb (glossary; Ps 5:8b has the same ‘voltado para’ for ad). Cost: a present of action becomes a state — to be weighed by the gate.",
+          "from": "stylist"
+        },
+        {
+          "label": "olham para",
+          "forms": {
+            "respiciunt": "olham para"
+          },
+          "note": "Draft 1: Matos Soares 1932’s words. Refused by the stylist for the jingle ‘olhos olham’, which the Latin does not have (Ps 53:9 accepted ‘o meu olho olhou’, where the Latin has óculus … despéxit).",
+          "from": "draft"
+        },
+        {
+          "label": "se voltam para",
+          "forms": {
+            "respiciunt": "se voltam para"
+          },
+          "note": "The re- of respícere heard, and no jingle; ‘voltar-se’ is convértere’s verb (6:5 Voltai-vos).",
+          "from": "draft"
+        },
+        {
+          "label": "contemplam",
+          "forms": {
+            "respiciunt": "contemplam"
+          },
+          "note": "Warm and sayable; the verb of contemplári / consideráre (90:8 considerábis → contemplarás).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "interrogant",
+      "refs": [
+        "10:5b",
+        "10:6"
+      ],
+      "latin": "pálpebræ ejus intérrogant … Dóminus intérrogat",
+      "kind": "word",
+      "why": "One verb twice in consecutive verses (the Greek too: ἐξετάζει twice), so one Portuguese verb (rule 6). interrogáre: ‘to ask, question’, in particular ‘to interrogate judicially, to examine’ (Lewis & Short) — the judge questioning the parties, which is the scene of 10:5–6. Douay-Rheims ‘examine … trieth’ (two words for one); Matos Soares 1932 ‘examinam … sonda’. Other places: 34:11, 136:3a, 138:23 intérroga me (grep).",
+      "options": [
+        {
+          "label": "interrogam … interroga",
+          "forms": {
+            "interrogant": "interrogam",
+            "interrogat": "interroga"
+          },
+          "note": "Ruling: the Latin’s word, and its image — eyelids that question — kept whole (rule 5); Portuguese ‘interrogar’ has the judicial sense too. The same verb both times. Heard: in 10:6 the blind reader took ‘interroga’ first as ‘faz perguntas ou exige explicações’, second as ‘examina ou põe à prova’ — the Latin verb’s own two senses; in 10:5b the eyelids were heard as a look that examines. The Latinist passed it.",
+          "from": "draft"
+        },
+        {
+          "label": "examinam … examina",
+          "forms": {
+            "interrogant": "examinam",
+            "interrogat": "examina"
+          },
+          "note": "The Greek’s sense and Douay-Rheims’ first word; plainer, and the scrutiny of the eyelids is easier to picture. Loses the question.",
+          "from": "DRB"
+        },
+        {
+          "label": "sondam … sonda",
+          "forms": {
+            "interrogant": "sondam",
+            "interrogat": "sonda"
+          },
+          "note": "Matos Soares 1932 in 10:6 (and the Diurnal). Refused: ‘sondar’ is scrutári’s (glossary; 7:10).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "animam",
+      "refs": [
+        "10:6"
+      ],
+      "latin": "odit ánimam suam",
+      "kind": "word",
+      "why": "suam is reflexive (the Greek τὴν ἑαυτοῦ ψυχήν): he hates his own soul, i.e. himself. Douay-Rheims ‘hateth his own soul’; Matos Soares 1932 ‘odeia a sua alma’. ánima → alma (glossary), with the known cost that ánima can be ‘life’.",
+      "options": [
+        {
+          "label": "a sua alma",
+          "forms": {
+            "animam": "a sua alma"
+          },
+          "note": "Ruling: Matos Soares 1932; ‘sua’ after the subject ‘quem ama’ is heard as his own, and God is ‘vós’ throughout, so ‘sua’ cannot be taken as God’s.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a sua própria alma",
+          "forms": {
+            "animam": "a sua própria alma"
+          },
+          "note": "Douay-Rheims ‘his own’: the reflexive marked, two syllables more.",
+          "from": "DRB"
+        },
+        {
+          "label": "a sua vida",
+          "forms": {
+            "animam": "a sua vida"
+          },
+          "note": "The other sense of ánima; decides what the Latin leaves open.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pluet",
+      "refs": [
+        "10:7"
+      ],
+      "latin": "Pluet super peccatóres láqueos",
+      "kind": "grammar",
+      "why": "plúere used transitively, ‘he will rain snares’ (the Greek ἐπιβρέξει likewise); the subject is the Lord of 10:6. láqueus → laço (glossary). Douay-Rheims ‘He shall rain snares upon sinners’; Matos Soares 1932 ‘Fará chover laços … sobre os pecadores’. The same verb in 77:24, 77:27 (pluit illis manna).",
+      "options": [
+        {
+          "label": "Fará chover laços",
+          "forms": {
+            "pluet": "Fará chover laços"
+          },
+          "note": "Ruling: Matos Soares 1932 — the Portuguese idiom for a transitive ‘rain’; grammar, not sense (D2).",
+          "from": "MS1932"
+        },
+        {
+          "label": "Choverá laços",
+          "forms": {
+            "pluet": "Choverá laços"
+          },
+          "note": "One verb for one; transitive ‘chover’ is heard as impersonal (‘it will rain snares’), which loses the Lord as subject.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "procellarum",
+      "refs": [
+        "10:7"
+      ],
+      "latin": "spíritus procellárum",
+      "kind": "word",
+      "why": "spíritus here is wind, breath (the Greek πνεῦμα καταιγίδος, ‘wind of the tempest’); procella a violent storm. The phrase returns in 148:8 (Ignis, grando, nix, glácies, spíritus procellárum), which should match. Douay-Rheims ‘storms of winds’; Matos Soares 1932 ‘as tempestades’ (spíritus dropped). ‘Espírito’ in Portuguese is never wind.",
+      "options": [
+        {
+          "label": "vento de tempestades",
+          "forms": {
+            "procellarum": "vento de tempestades"
+          },
+          "note": "Ruling: bare nouns, as the Latin list is bare (fogo, e enxofre, e vento de tempestades), and the plural kept. Proposed for 148:8 too.",
+          "from": "draft"
+        },
+        {
+          "label": "o sopro das tempestades",
+          "forms": {
+            "procellarum": "o sopro das tempestades"
+          },
+          "note": "‘Sopro’ keeps spíritus as breath; with the article it breaks the run of bare nouns.",
+          "from": "draft"
+        },
+        {
+          "label": "tempestades",
+          "forms": {
+            "procellarum": "tempestades"
+          },
+          "note": "Matos Soares 1932. Drops spíritus.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "calicis",
+      "refs": [
+        "10:7"
+      ],
+      "latin": "pars cálicis eórum",
+      "kind": "word",
+      "why": "The second colon of 10:7 has no verb. pars → parte (glossary keeps porção for pórtio); calix → cálice (15:5 pars hereditátis meæ et cálicis mei, 22:5, 74:8, 115:4). Douay-Rheims supplies ‘shall be the portion of their cup’; Matos Soares 1932 ‘são a parte que lhes toca’ (the cup dropped). ‘Cálice’ is a proparoxytone and cannot close the verse (rule 4), so ‘eórum’ becomes ‘deles’, which also keeps ‘seu’ from being heard as God’s.",
+      "options": [
+        {
+          "label": "são a parte do cálice deles",
+          "forms": {
+            "calicis": "são a parte do cálice deles"
+          },
+          "note": "Ruling: a present copula supplied, as the Latin’s nominal sentence reads (Matos Soares 1932); the cup kept; the verse ends on a paroxytone. Heard: the blind reader understood ‘a porção de sofrimento ou castigo que lhes cabe’, the cup’s old sense.",
+          "from": "MS1932"
+        },
+        {
+          "label": "serão a parte do cálice deles",
+          "forms": {
+            "calicis": "serão a parte do cálice deles"
+          },
+          "note": "Douay-Rheims’ tense, following ‘Pluet’. The Latin states it without a verb, as a standing fact.",
+          "from": "DRB"
+        },
+        {
+          "label": "são a porção do seu cálice",
+          "forms": {
+            "calicis": "são a porção do seu cálice"
+          },
+          "note": "‘Porção’ is pórtio’s (glossary), and the verse would end on a proparoxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "são a parte que lhes toca",
+          "forms": {
+            "calicis": "são a parte que lhes toca"
+          },
+          "note": "Matos Soares 1932. Refused: the cup is the Latin’s image (rule 5).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "justitias",
+      "refs": [
+        "10:8"
+      ],
+      "latin": "et justítias diléxit",
+      "kind": "grammar",
+      "why": "justítias is plural, as the Greek δικαιοσύνας: just deeds, the acts of justice. Douay-Rheims ‘hath loved justice’ and Matos Soares 1932 ‘ama a justiça’ both make it singular (Matos Soares also present). The plural returns in 17:23, 49:16, 74:3, 88:32, 147:8 (grep) — in several of them it stands for another Greek word (δικαιώματα), so they decide locally. diléxit is a perfect: ‘amou’.",
+      "options": [
+        {
+          "label": "as justiças",
+          "forms": {
+            "justitias": "as justiças"
+          },
+          "note": "Ruling: the Latin’s number kept — the plural of an abstract noun names its deeds, as ‘as misericórdias’ does. Tested: the blind reader heard ‘os atos ou comportamentos justos’ first, not the courts; the Latinist passed it.",
+          "from": "draft"
+        },
+        {
+          "label": "a justiça",
+          "forms": {
+            "justitias": "a justiça"
+          },
+          "note": "Douay-Rheims and Matos Soares 1932. The number is lost.",
+          "from": "DRB"
+        },
+        {
+          "label": "as obras de justiça",
+          "forms": {
+            "justitias": "as obras de justiça"
+          },
+          "note": "Says what the plural means; a noun supplied (explains).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vidit",
+      "refs": [
+        "10:8"
+      ],
+      "latin": "æquitátem vidit vultus ejus",
+      "kind": "order",
+      "why": "The Latin says that his face saw equity (the Greek εὐθύτητα εἶδεν τὸ πρόσωπον αὐτοῦ); the Hebrew reads the other way (the upright shall behold his face), which the Diurnal follows. Object first in the Latin; in Portuguese the object cannot go first without being heard as the subject. vultus → rosto (Ps 4:7 ‘a luz do vosso rosto’); ǽquitas → equidade (glossary). Douay-Rheims ‘his countenance hath beheld righteousness’; Matos Soares 1932 ‘o seu rosto olha para a equidade’.",
+      "options": [
+        {
+          "label": "o seu rosto viu a equidade",
+          "forms": {
+            "vidit": "o seu rosto viu a equidade"
+          },
+          "note": "Ruling: the Latin’s verb and tense, in the only order that keeps the roles; ends on a paroxytone.",
+          "from": "DRB"
+        },
+        {
+          "label": "o seu rosto olha para a equidade",
+          "forms": {
+            "vidit": "o seu rosto olha para a equidade"
+          },
+          "note": "Matos Soares 1932. A present, and ‘olhar para’ is respícere’s verb one verse before.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a sua face viu a equidade",
+          "forms": {
+            "vidit": "a sua face viu a equidade"
+          },
+          "note": "‘Face’ is fácies’s word (glossary); vultus is ‘rosto’.",
+          "from": "draft"
+        },
+        {
+          "label": "os retos verão a sua face",
+          "forms": {
+            "vidit": "os retos verão a sua face"
+          },
+          "note": "The Hebrew’s sense (the Diurnal: ‘contemplarão sua face os homens retos’). Refused: it is not the Latin (rule 1).",
+          "from": "DM1962"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "10:2": "The psalm begins at 10:2 (10:1 is the titulus; D7). In Dómino confído → ‘No Senhor confio’: confídere in → confiar em (glossary), in the Latin’s order, which is also natural Portuguese (Matos Soares 1932 has the same words). The first colon is the psalm’s confession; the rest of the verse is the advice of others (plural: dizeis), addressed to the soul (singular: tu). Heard: the blind reader took ‘dizeis’ first as said to the Lord — a cost of vós (decision quomodo); draft 2 names the subject.",
+    "10:3": "‘Porque eis que’ for Quóniam ecce: quóniam → porque (as 8:2b, 8:4), ecce → eis (glossary). sagítta → seta (glossary); pháretra → ‘aljava’, only here in the psalter (grep) — the one word for a quiver. 63:4 has the same frame (intendérunt arcum … ut sagíttent in occúltis immaculátum) and should copy the wording of this verse. The blind reader listed ‘aljava’ as unknown; there is no plainer word for a quiver, and the image is the Latin’s; kept.",
+    "10:4": "The Latin’s question mark kept.",
+    "10:5a": "‘templo santo’ as in Ps 5:8b (‘o vosso templo santo’); 17:7b has ‘de templo sancto suo’ too. The first colon supplies ‘está’ (D2).",
+    "10:5b": "pálpebræ → ‘pálpebras’: the concrete image kept (rule 5); the only other place is 131:4. fílii hóminum → ‘filhos dos homens’ (glossary). The mediant word ‘pobre’ is a paroxytone.",
+    "10:6": "qui autem → ‘mas quem’; dilígere → amar, odísse → odiar (glossary). iníquitas → iniquidade.",
+    "10:7": "The list keeps the Latin’s repeated ‘et’ (fogo e enxofre e …): rule 2. Draft 1 had commas before each ‘e’ (fogo, e enxofre, e …); the stylist heard them as small stops that break a colon already long, and the two ‘e’ carry the weight — taken (punctuation only). The second colon is the psalm’s heaviest (+4 on the Latin’s 20 syllables), as it is in the Latin.",
+    "10:8": "justus Dóminus → ‘o Senhor é justo’ (copula supplied; D2). Heard: ‘as justiças’ was understood first as ‘os atos justos’ — the test the decision asked for; the plural stands. ‘o seu rosto’ was heard as the Lord’s."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm10.txt, eight prayed verses with DO’s ids (10:2–10:4, 10:5a, 10:5b, 10:6–10:8). 10:2 and 10:3 have a flex and a mediant; every other verse one ‘*’. 10:1 is the titulus (D7). Douay-Rheims is not in Bolls for this psalm: it was fetched from drbo.org by the first agent (ps010/drb.txt; consult/drbo-ps010.htm), and parallels.py now reads it."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps010.md. Sense from the Vulgate family (Douay-Rheims from drbo.org; Matos Soares 1932 by its text layer). The Diurnal Monástico 1962 has the psalm, made from the Hebrew: it lends no sense — refused wherever it follows the Hebrew against the Latin (10:4 the foundations / what can the just do; 10:8 the upright shall see his face; 10:7 coals). DO’s Portuguese not used (D12). Lewis & Short read for transmigro, interrogo, sagitto. Repeats found with ps005/grep_latin.py: 63:4 intendérunt arcum … ut sagíttent (the twin of 10:3b); 148:8 spíritus procellárum; passer 83:4, 101:8, 103:16, 123:7a; pálpebræ 131:4; interrogáre 34:11, 136:3a, 138:23; justítias (plural) 17:23, 49:16, 74:3, 88:32, 147:8; templo sancto suo 17:7b; confído 24:1. No vós imperative in the psalm (the one imperative, Tránsmigra, is said to the soul: tu). Septuagintal readings kept against the Hebrew: 10:3 in obscúro; 10:4 quæ perfecísti; 10:6 Dóminus intérrogat justum et ímpium; 10:7 láqueos; 10:8 æquitátem vidit vultus ejus. Glossary applied: confiar em, seta, armar o arco, retos de coração, aperfeiçoar, destruir, templo santo, filhos dos homens, amar / odiar, laço, equidade, rosto."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids and marks). Soft flags, all accepted: 10:2 third colon +3 (‘Muda-te para o monte como um pardal’: the article of the simile and ‘para’); 10:3 last colon +4 (‘os retos de coração’ is the glossary’s length for rectos corde); 10:7 second colon +4 (a copula supplied, ‘deles’ for eórum so that the verse does not end on the proparoxytone ‘cálice’). Every cadence is oxytone or paroxytone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1: clean — ‘A tradução conserva o sentido do latim em todos os versículos, incluindo suas imagens concretas, tempos verbais e peculiaridades septuagintais. As marcas de divisão são as mesmas e aparecem na mesma ordem que no latim.’ Passed without remark: ‘Muda-te’, ‘pardal’, ‘flecharem’, ‘aperfeiçoastes’ in natural order, ‘o Senhor tem no céu o seu trono’, ‘interrogam … interroga’, ‘as justiças’, ‘o seu rosto viu a equidade’.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Two verses, both ‘sayable’; best 10:4, worst 10:7. ‘O salmo soa sóbrio e reverente, com terminações adequadas ao canto e sem rimas insistentes nas cadências. As imagens incomuns permanecem concretas.’ Both taken: they change only how the thing is said (D2).",
+      "outcomes": [
+        {
+          "verse": "10:5b",
+          "remark": "‘olhos olham’ makes the mouth stumble, a repetition the Latin does not have → ‘Os seus olhos estão voltados para o pobre’",
+          "outcome": "taken",
+          "decision": "respiciunt",
+          "reason": "The jingle is not the Latin’s; ‘estar voltado para’ also lets the re- of respícere be heard. ‘Olham para’ stays option 2."
+        },
+        {
+          "verse": "10:7",
+          "remark": "the commas of ‘fogo, e enxofre, e vento de tempestades’ fragment an already long colon → ‘fogo e enxofre e vento de tempestades’",
+          "outcome": "taken",
+          "reason": "Punctuation only; the Latin’s repeated ‘et’ is kept."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. Seventeen items, four unknown words (aljava, ímpio, iniquidade, equidade). One real fault: 10:2 ‘como dizeis à minha alma’ heard first as said to the Lord — a cost of vós, mended in draft 2. Everything else is the Latin’s own range, and the plural ‘as justiças’ (10:8), which the draft had put to the test, was heard rightly.",
+      "outcomes": [
+        {
+          "verse": "10:2",
+          "remark": "‘como dizeis’: said to other people / to the Lord (heard first)",
+          "outcome": "taken",
+          "decision": "quomodo",
+          "reason": "A fault the Latin does not have (dícitis is plural, God is singular in 10:4); draft 2 names the subject, ‘como dizeis vós’, against ‘o Senhor’ of the first colon."
+        },
+        {
+          "verse": "10:2",
+          "remark": "‘à minha alma’: to me / to the spiritual part of me",
+          "outcome": "refused",
+          "reason": "ánima → alma (glossary); the Latin is as open."
+        },
+        {
+          "verse": "10:3",
+          "remark": "‘no escuro’: in darkness / in secret",
+          "outcome": "refused",
+          "reason": "in obscúro holds both."
+        },
+        {
+          "verse": "10:4",
+          "remark": "‘destruíram’: the sinners / others",
+          "outcome": "refused",
+          "reason": "The sinners were heard first; the Latin leaves the subject in the verb as well."
+        },
+        {
+          "verse": "10:4",
+          "remark": "‘o que aperfeiçoastes’: the Lord’s work (heard first) / the addressees’ of 10:2",
+          "outcome": "refused",
+          "reason": "Heard rightly; the naming of ‘vós’ in 10:2 (draft 2) should make the turn to God plainer still."
+        },
+        {
+          "verse": "10:4",
+          "remark": "‘mas que fez o justo?’: what did he do in the face of it / what wrong did he do (heard first)",
+          "outcome": "refused",
+          "decision": "justus",
+          "reason": "Both are in the Latin’s perfect."
+        },
+        {
+          "verse": "10:5b",
+          "remark": "‘as suas pálpebras’: the Lord’s (heard first) / the poor man’s",
+          "outcome": "refused",
+          "reason": "Heard rightly; ejus … ejus in the Latin."
+        },
+        {
+          "verse": "10:5b",
+          "remark": "‘as suas pálpebras interrogam’: the gaze examines / the eyelids ask questions",
+          "outcome": "refused",
+          "decision": "interrogant",
+          "reason": "The Latin’s image; ‘examinam’ is option 2."
+        },
+        {
+          "verse": "10:5b",
+          "remark": "‘os filhos dos homens’: mankind (heard first) / sons of certain men",
+          "outcome": "refused",
+          "reason": "Glossary; heard rightly."
+        },
+        {
+          "verse": "10:6",
+          "remark": "‘interroga’: asks questions, demands explanations (heard first) / examines, tests",
+          "outcome": "refused",
+          "decision": "interrogant",
+          "reason": "Both are senses of interrogáre (Lewis & Short: to question; to examine judicially)."
+        },
+        {
+          "verse": "10:6",
+          "remark": "‘odeia a sua alma’: his own (heard first) / another’s",
+          "outcome": "refused",
+          "decision": "animam",
+          "reason": "Heard rightly; ‘a sua própria alma’ is option 2."
+        },
+        {
+          "verse": "10:6",
+          "remark": "‘a sua alma’: the spiritual part (heard first) / the person, his life",
+          "outcome": "refused",
+          "decision": "animam",
+          "reason": "ánima is as open (glossary: a minha alma, with vida as the known alternative)."
+        },
+        {
+          "verse": "10:7",
+          "remark": "‘Fará chover’: the Lord (heard first) / the lover of iniquity",
+          "outcome": "refused",
+          "decision": "pluet",
+          "reason": "Heard rightly; the Latin leaves the subject in the verb."
+        },
+        {
+          "verse": "10:7",
+          "remark": "‘laços’: snares (heard first) / ribbons",
+          "outcome": "refused",
+          "reason": "láqueus → laço (glossary, Ps 90:3); heard rightly."
+        },
+        {
+          "verse": "10:7",
+          "remark": "‘a parte do cálice deles’: the punishment that falls to them (heard first) / part of a cup",
+          "outcome": "refused",
+          "decision": "calicis",
+          "reason": "The cup’s figurative sense was heard; the image is the Latin’s."
+        },
+        {
+          "verse": "10:8",
+          "remark": "‘as justiças’: just acts (heard first) / forms of justice or judgement",
+          "outcome": "refused",
+          "decision": "justitias",
+          "reason": "The plural was heard as the draft meant it; kept."
+        },
+        {
+          "verse": "10:8",
+          "remark": "‘o seu rosto’: the Lord’s (heard first) / the just man’s",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "10:3",
+          "remark": "unknown word: aljava",
+          "outcome": "refused",
+          "reason": "The one word for a quiver; the image is the Latin’s."
+        },
+        {
+          "verse": "10:6",
+          "remark": "unknown words: ímpio, iniquidade",
+          "outcome": "refused",
+          "reason": "Glossary words (ímpius → ímpio, iníquitas → iniquidade), listed as unknown in earlier psalms too."
+        },
+        {
+          "verse": "10:8",
+          "remark": "unknown word: equidade",
+          "outcome": "refused",
+          "reason": "Glossary (ǽquitas → equidade; also listed as unknown in Ps 118)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. Three changes against draft 1: 10:2 ‘como dizeis vós’ (the subject named, after the blind reader heard ‘dizeis’ as said to the Lord); 10:5b ‘estão voltados para’ (the stylist’s, for ‘olham para’); 10:7 the commas of the list removed (the stylist’s). Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags as draft 1 (10:2 +3, 10:3 +4, 10:7 +4), accepted for the same reasons; ‘como dizeis vós’ adds a syllable to a colon that was two short of the Latin’s."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate: clean. ‘A tradução conserva o conteúdo, as imagens e as particularidades do latim em todos os versículos, sem falhas de adequação identificadas. As marcas de divisão são as mesmas e aparecem na mesma ordem que no original.’ So ‘como dizeis vós’ (the subject named) and ‘estão voltados para’ (a participle of state for respíciunt) passed.",
+      "outcomes": []
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v2.ambiguity.json",
+      "note": "Draft 2, Portuguese only — run to test the one fault of draft 1. 10:2 ‘como dizeis vós’ is now heard first as said to other people (‘sem ficar claro quem são’ — nor does the Latin say); the fault is mended. Seventeen items; the same four unknown words. New in this reading, none a fault: 10:5a ‘templo santo’ heard as an earthly temple until ‘no céu’ corrects it (the Latin’s own movement); 10:7 ‘laços’ heard as rope loops falling from the sky ‘sem necessariamente reconhecer o sentido de armadilhas’ (draft 1’s reader heard snares first; láqueus → laço is the glossary’s, Ps 90:3); 10:8 ‘as justiças’ heard this time as the quality before the acts — neither reading is the courts, which was the risk.",
+      "outcomes": [
+        {
+          "verse": "10:2",
+          "remark": "‘como dizeis vós’: other people (heard first) / the Lord",
+          "outcome": "refused",
+          "decision": "quomodo",
+          "reason": "The fix of draft 2 works: heard as said to others."
+        },
+        {
+          "verse": "10:4",
+          "remark": "‘o que aperfeiçoastes’: the Lord (heard first) / the addressees of 10:2; the change of addressee not explicit",
+          "outcome": "refused",
+          "reason": "Heard rightly; the Latin marks the change only by number, which Portuguese vós cannot."
+        },
+        {
+          "verse": "10:5a",
+          "remark": "‘no seu templo santo’: an earthly temple (heard first) / a heavenly dwelling",
+          "outcome": "refused",
+          "reason": "The Latin is as open, and its second colon moves to heaven as the Portuguese does."
+        },
+        {
+          "verse": "10:5b",
+          "remark": "‘o pobre’: without means (heard first) / afflicted",
+          "outcome": "refused",
+          "reason": "pauper is as wide."
+        },
+        {
+          "verse": "10:7",
+          "remark": "‘laços’: snares / knots / bonds; heard as rope loops, not necessarily snares",
+          "outcome": "refused",
+          "reason": "láqueus → laço (glossary); a noose is a snare; draft 1’s reader heard ‘armadilhas’ first. ‘armadilhas’ would explain the image."
+        },
+        {
+          "verse": "10:8",
+          "remark": "‘as justiças’: just acts / justice as a quality (heard first)",
+          "outcome": "refused",
+          "decision": "justitias",
+          "reason": "Neither reading is wrong; the plural is the Latin’s."
+        },
+        {
+          "verse": "10:8",
+          "remark": "‘o seu rosto viu a equidade’: witnessed / looked with approval on",
+          "outcome": "refused",
+          "decision": "vidit",
+          "reason": "Both are in vidit."
+        }
+      ]
+    }
+  ]
+}

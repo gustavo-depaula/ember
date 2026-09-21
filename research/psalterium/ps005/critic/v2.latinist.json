@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "60613380b14e95c08ea76b13129a4c9f7bc48afa44f380f5405757cca07b597e",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T05:24:29+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"5:8b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"adorábo ad templum sanctum tuum in timóre tuo\",\n          \"portuguese\": \"no vosso temor adorarei voltando-me para o vosso templo santo\",\n          \"problem\": \"«Voltando-me» acrescenta uma ação de virar-se que o latim não exprime. A preposição «ad» indica a direção da adoração.\",\n          \"fix\": \"no vosso temor adorarei em direção ao vosso templo santo\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução é adequada ao latim nos demais versículos. Todos os sinais de divisão correspondem aos do latim, na mesma ordem.\"\n}"
+}

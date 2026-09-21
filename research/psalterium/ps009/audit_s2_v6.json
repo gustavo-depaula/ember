@@ -1,0 +1,7 @@
+[
+  {"step": "checks", "note": "Draft 6, whole psalm, checks.py: exit 0 (hard pass). Soft flags accepted: 9:23 first colon +9 (the stylist's 'se enche de soberba' adds a syllable to the heaviest line; plain words over count); 9:19 'sempre … sempre' (the Latin's in finem twice); 9:27b −5, 9:26b −4, 9:31 first colon −4 (Latin polysyllables)."},
+  {"step": "latinist", "file": "critic/v6.latinist.part2.json", "note": "Stage two, the gate on draft 6: one verse, minor. 9:37 'perecereis da terra dele, nações' passes. Gate passed.",
+   "outcomes": [
+     {"verse": "9:37", "remark": "'pelos séculos dos séculos' → 'pelo século do século' (minor; major on draft 5 together with 'fora da')", "outcome": "option", "decision": "saeculi", "reason": "The glossary formula (D23), held as at 9:6."}
+   ]}
+]

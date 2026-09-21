@@ -1,0 +1,1277 @@
+{
+  "psalm": 5,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "5:2": "{v2a}, * {intellege} o meu clamor.",
+    "5:3": "Atendei à voz da minha {orationis}, * meu Rei e meu Deus.",
+    "5:4": "Porque a vós orarei: * Senhor, de manhã {exaudies} a minha voz.",
+    "5:5": "De manhã {astabo} e {videbo}: * porque vós não sois um Deus que {volens} a iniquidade.",
+    "5:6": "{v6a}: * {v6b} diante dos vossos olhos.",
+    "5:7a": "{odisti} todos os que praticam a iniquidade: * {perdes} todos os que falam mentira.",
+    "5:7b": "{v7b}: * {egoautem} {multitudine} da vossa misericórdia.",
+    "5:8b": "Entrarei na vossa casa: * {adtemplum}.",
+    "5:9": "Senhor, {deduc} na vossa justiça: * por causa dos meus inimigos {v9b}.",
+    "5:10": "Porque não há verdade na boca deles: * o seu coração é vão.",
+    "5:11a": "{guttur}, † com as suas línguas {dolose}, * julgai-os, {deus}.",
+    "5:11b": "{decidant}, † segundo a {multitudinem} das suas impiedades expulsai-os, * porque vos {irritaverunt}, Senhor.",
+    "5:12a": "E alegrem-se todos os que esperam em vós, * exultarão eternamente: e habitareis {ineis}.",
+    "5:12b": "{gloriabuntur} todos os que amam o vosso nome, * porque vós {benedices}.",
+    "5:13b": "Senhor, {v13a} * {v13b}."
+  },
+  "decisions": [
+    {
+      "id": "percipe",
+      "refs": [
+        "5:2"
+      ],
+      "latin": "Verba mea áuribus pércipe, Dómine",
+      "kind": "glossary",
+      "why": "D4 names this verse as the first of the eight places of áuribus percípere → dar ouvidos a. The ruling is followed; what is left to decide is the order, because the Latin puts the object first (Verba mea …) and the verb at the cadence.",
+      "options": [
+        {
+          "label": "Dai ouvidos, Senhor, às minhas palavras",
+          "forms": {
+            "v2a": "Dai ouvidos, Senhor, às minhas palavras"
+          },
+          "note": "Ruling. D4's verb in the natural Portuguese order (D2: order yields to the ear); the imperative opens the psalm as a morning prayer wants, and the colon closes on the paroxytone 'palavras'. It is word for word Matos Soares 1932 ('Senhor, dá ouvidos às minhas palavras') and the Diurnal's cadence ('Dá ouvido, Senhor, às minhas palavras') with the vocative where the Latin has it, after the verb. 'Dai' is safe under the homograph ban (past 'dei').",
+          "from": "glossary"
+        },
+        {
+          "label": "Às minhas palavras dai ouvidos, Senhor",
+          "forms": {
+            "v2a": "Às minhas palavras dai ouvidos, Senhor"
+          },
+          "note": "The Latin's order, object first. Sayable, but the fronted dative is an inversion made only for the Latin's sake (rule 5).",
+          "from": "draft"
+        },
+        {
+          "label": "Percebei com os ouvidos as minhas palavras, Senhor",
+          "forms": {
+            "v2a": "Percebei com os ouvidos as minhas palavras, Senhor"
+          },
+          "note": "The calque D4 refused: 'perceber' is to notice or to understand in Brazil, and it would crowd 'entendei' in the second colon.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "intellege",
+      "refs": [
+        "5:2"
+      ],
+      "latin": "intéllege clamórem meum",
+      "kind": "word",
+      "why": "The Latin asks God to understand a cry (σύνες τῆς κραυγῆς), not only to hear it — three different verbs of attention open the psalm (áuribus pércipe, intéllege, inténde) before exáudies comes in 5:4, and each must keep its own word. intellégere → entender is the glossary's (Ps 2:10).",
+      "options": [
+        {
+          "label": "entendei",
+          "forms": {
+            "intellege": "entendei"
+          },
+          "note": "Ruling: the glossary verb; Douay-Rheims 'understand my cry'. Safe at the vós imperative (past 'entendi'). The strangeness — a cry to be understood — is the Latin's own and is kept (D2).",
+          "from": "glossary"
+        },
+        {
+          "label": "compreendei",
+          "forms": {
+            "intellege": "compreendei"
+          },
+          "note": "Same sense, one syllable longer, and leaves the glossary verb.",
+          "from": "draft"
+        },
+        {
+          "label": "escutai",
+          "forms": {
+            "intellege": "escutai"
+          },
+          "note": "Matos Soares 1932 ('escuta o meu clamor') and the Diurnal ('escuta o meu gemido'). Refused: it is exaudíre's verb (D3), wanted two verses on, and it flattens the Latin's 'understand'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "orationis",
+      "refs": [
+        "5:3"
+      ],
+      "latin": "voci oratiónis meæ … ad te orábo",
+      "kind": "word",
+      "why": "The Latin has noun and verb of one root on either side of the verse end (oratiónis … orábo); the Greek has two roots (δεήσεως … προσεύξομαι), and Matos Soares follows the Greek's colour with 'súplica'. The glossary keeps súplica for deprecátio and oração for orátio.",
+      "options": [
+        {
+          "label": "oração … orarei",
+          "forms": {
+            "orationis": "oração"
+          },
+          "note": "Ruling: the Latin's echo kept, the glossary word (orátio → oração, as in the formula 'escutai a minha oração'); Douay-Rheims 'prayer … pray'.",
+          "from": "glossary"
+        },
+        {
+          "label": "súplica … orarei",
+          "forms": {
+            "orationis": "súplica"
+          },
+          "note": "Matos Soares 1932. It is deprecátio's word in the glossary, and it breaks the echo.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exaudies",
+      "refs": [
+        "5:4"
+      ],
+      "latin": "mane exáudies vocem meam",
+      "kind": "glossary",
+      "why": "exaudíre → escutar (D3). The Latin is a future, not a petition (the Hebrew-family versions make it an imperative: the Diurnal 'escuta a minha voz'); the future is kept.",
+      "options": [
+        {
+          "label": "escutareis",
+          "forms": {
+            "exaudies": "escutareis"
+          },
+          "note": "D3, applied, in the Latin's tense.",
+          "from": "glossary"
+        },
+        {
+          "label": "ouvireis",
+          "forms": {
+            "exaudies": "ouvireis"
+          },
+          "note": "Matos Soares 1932 ('ouvirás'), Douay-Rheims 'shalt hear'. It is audíre's verb (D3).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "astabo",
+      "refs": [
+        "5:5"
+      ],
+      "latin": "Mane astábo tibi",
+      "kind": "glossary",
+      "why": "astáre is `open` in the glossary: Ps 2:2 ruled 'erguer-se' for the kings who rise up (Astitérunt reges), with 'pôr-se de pé' as its option. Here the verb has a dative — to come and stand by someone (Lewis & Short: 'to stand at or near a person, to stand by'; the Greek παραστήσομαί σοι, 'I will present myself to you') — and 'me erguerei' would say getting out of bed, which the Latin does not say. The other places are of this second kind: 44:10b Ástitit regína a dextris tuis, 108:31 ástitit a dextris páuperis, 35:5 ástitit omni viæ non bonæ.",
+      "options": [
+        {
+          "label": "me porei diante de vós",
+          "forms": {
+            "astabo": "me porei diante de vós"
+          },
+          "note": "Ruling. 'Pôr-se diante de' is to come and take one's stand before someone: the ad- of a-stáre and the dative are both in it, it is Matos Soares 1932's verb ('me porei na tua presença') without his 'presença', and it serves the other datives and a dextris ('pôs-se à direita do pobre', 'a rainha pôs-se à vossa direita'). Cost: the standing is implied, not said. Proposed for the glossary: astáre with a dative or a dextris → pôr-se (diante de / à direita de); absolute, as in 2:2, it stays erguer-se.",
+          "from": "MS1932"
+        },
+        {
+          "label": "estarei de pé diante de vós",
+          "forms": {
+            "astabo": "estarei de pé diante de vós"
+          },
+          "note": "Says the standing, with the glossary's stare → estar de pé (133:1b). Five syllables over the Latin colon, and it drops the coming-to that ad- adds.",
+          "from": "draft"
+        },
+        {
+          "label": "estarei diante de vós",
+          "forms": {
+            "astabo": "estarei diante de vós"
+          },
+          "note": "Shortest; 'estar' alone is only being there.",
+          "from": "draft"
+        },
+        {
+          "label": "me apresentarei a vós",
+          "forms": {
+            "astabo": "me apresentarei a vós"
+          },
+          "note": "The Greek's verb exactly (παρίστημι, middle). It is the Greek's word rather than the Latin's, and 'apresentar-se' is what one does at a barracks or an office.",
+          "from": "draft"
+        },
+        {
+          "label": "me erguerei diante de vós",
+          "forms": {
+            "astabo": "me erguerei diante de vós"
+          },
+          "note": "Ps 2:2's verb. Refused here: after 'De manhã' it is heard as rising from sleep.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "videbo",
+      "refs": [
+        "5:5"
+      ],
+      "latin": "et vidébo",
+      "kind": "ambiguity",
+      "why": "The Latin verb has no object: 'I will stand before you and I will see' — see what is not said (God? his answer? that he wills no iniquity, as the quóniam that follows may suggest?). Matos Soares supplies one ('e te contemplarei'); Douay-Rheims does not ('and will see'). D2: an ambiguity the Latin leaves open is not closed.",
+      "options": [
+        {
+          "label": "e verei",
+          "forms": {
+            "videbo": "verei"
+          },
+          "note": "Ruling: absolute, as the Latin. It also lets the quóniam clause lean on it as the Latin allows ('I shall see: for you are not a God who…').",
+          "from": "DRB"
+        },
+        {
+          "label": "e vos contemplarei",
+          "forms": {
+            "videbo": "vos contemplarei"
+          },
+          "note": "Matos Soares 1932. Supplies the object and changes the verb; closes what the Latin leaves open.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e olharei",
+          "forms": {
+            "videbo": "olharei"
+          },
+          "note": "Nearer the Greek ἐπόψομαι ('I will look on'); still absolute. The Latin's word is the plain vidére.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "volens",
+      "refs": [
+        "5:5"
+      ],
+      "latin": "non Deus volens iniquitátem tu es",
+      "kind": "grammar",
+      "why": "A participle as a relative clause under a negation. velle → querer (glossary, Ps 118:35). Portuguese wants the subjunctive in a relative clause that depends on a negated noun ('não sois um Deus que queira').",
+      "options": [
+        {
+          "label": "que queira",
+          "forms": {
+            "volens": "queira"
+          },
+          "note": "Ruling: the glossary verb in the mood Portuguese grammar asks for after 'não sois um Deus que…' (D2: grammar yields). Matos Soares 1932 has the same mood ('um Deus que ame').",
+          "from": "draft"
+        },
+        {
+          "label": "que quer",
+          "forms": {
+            "volens": "quer"
+          },
+          "note": "Indicative, nearer the participle's flatness; sounds like a slip after the negation.",
+          "from": "draft"
+        },
+        {
+          "label": "que ame",
+          "forms": {
+            "volens": "ame"
+          },
+          "note": "Matos Soares 1932. Another verb: volens is willing, not loving (the Hebrew's 'delight in' is behind it).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "malignus",
+      "refs": [
+        "5:6"
+      ],
+      "latin": "Neque habitábit juxta te malígnus",
+      "kind": "word",
+      "why": "A singular adjective used as a noun (Greek πονηρευόμενος, 'one who does evil'). The cognate exists and is what Matos Soares printed; in Brazil 'o Maligno' is also a name for the devil, which the Latin word can carry as well. Draft 1 had the cognate; the blind reader heard 'o maligno' first as the devil and only second as a bad man.",
+      "options": [
+        {
+          "label": "o malvado",
+          "forms": {
+            "malignus": "o malvado"
+          },
+          "note": "Draft 2, after the ambiguity reader. A plain word for a man who does evil, which is what the Latin means here (the Greek is a participle, 'one doing evil'); it cannot be taken for the devil, and its plural can serve malignántes ('a assembleia dos malvados', 21:17). Cost: the cognate is given up. Proposed for the glossary: malígnus / malignántes → malvado(s).",
+          "from": "ambiguity"
+        },
+        {
+          "label": "o maligno",
+          "forms": {
+            "malignus": "o maligno"
+          },
+          "note": "Draft 1: the Latin's word, Matos Soares 1932. Refused in draft 2: in Brazil 'o maligno' with the article is first of all the devil, and the blind reader heard exactly that ('O diabo') — a sense the Latin can bear only at a stretch, and not the first one.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o mau",
+          "forms": {
+            "malignus": "o mau"
+          },
+          "note": "The Diurnal's word; plainer still. It is malus's word, and thin in the mouth.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "v6order",
+      "refs": [
+        "5:6"
+      ],
+      "latin": "Neque habitábit juxta te malígnus: * neque permanébunt injústi",
+      "kind": "order",
+      "why": "The Latin has verb before subject in both colons. Draft 1 kept that order; the stylist heard two inversions in a row that delay the subjects and sound translated.",
+      "options": [
+        {
+          "label": "Nem o malvado habitará junto de vós: * nem os injustos permanecerão",
+          "forms": {
+            "v6a": "Nem {malignus} habitará junto de vós",
+            "v6b": "nem os injustos permanecerão"
+          },
+          "note": "Draft 2, from the stylist: subject first, twice. Order only (D2); every word stays, and the first colon now closes on the oxytone vós.",
+          "from": "stylist"
+        },
+        {
+          "label": "Nem habitará junto de vós o malvado: * nem permanecerão os injustos",
+          "forms": {
+            "v6a": "Nem habitará junto de vós {malignus}",
+            "v6b": "nem permanecerão os injustos"
+          },
+          "note": "Draft 1: the Latin's order (Matos Soares 1932 has it in the first colon).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "odisti",
+      "refs": [
+        "5:7a"
+      ],
+      "latin": "Odísti omnes",
+      "kind": "grammar",
+      "why": "odi is a defective verb: the perfect form has present sense (as novit → 'conhece' in Ps 1:6). The Greek has an aorist (ἐμίσησας); Douay-Rheims reads a present ('Thou hatest'), Matos Soares too ('Aborreces').",
+      "options": [
+        {
+          "label": "Odiais",
+          "forms": {
+            "odisti": "Odiais"
+          },
+          "note": "Ruling: present, with both Vulgate-family versions, and the plain verb.",
+          "from": "DRB"
+        },
+        {
+          "label": "Odiastes",
+          "forms": {
+            "odisti": "Odiastes"
+          },
+          "note": "The form taken at its face, as the Greek aorist. In Latin odísti is not a past.",
+          "from": "draft"
+        },
+        {
+          "label": "Aborreceis",
+          "forms": {
+            "odisti": "Aborreceis"
+          },
+          "note": "Matos Soares 1932 ('Aborreces'). In Brazil 'aborrecer' is to annoy or to bore; it no longer says hatred.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Detestais",
+          "forms": {
+            "odisti": "Detestais"
+          },
+          "note": "Milder than 'odiar'; wanted elsewhere (detestári).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "perdes",
+      "refs": [
+        "5:7a"
+      ],
+      "latin": "perdes omnes, qui loquúntur mendácium",
+      "kind": "glossary",
+      "why": "pérdere is the causative of períre (as the Greek ἀπολεῖς is of ἀπόλλυμαι); 72:27 plays on the pair (períbunt: perdidísti). The cognate 'perdereis todos' is heard in Portuguese as 'you will lose them all'. Seven places by grep (5:7a, 20:11, 25:9, 27:3, 33:17, 72:27, 142:12b). It must stay apart from dispérdere → exterminar, which stands next to it in 142:12.",
+      "options": [
+        {
+          "label": "fareis perecer",
+          "forms": {
+            "perdes": "fareis perecer"
+          },
+          "note": "Ruling. períre → perecer is in the glossary; 'fazer perecer' is its causative exactly as pérdere is períre's, so 72:27 can keep its figure ('perecerão: fizestes perecer') and 142:12 its two verbs ('exterminareis … fareis perecer'). It works in every place found ('Não façais perecer com os ímpios a minha alma', 25:9). Cost: two words and two syllables more. Proposed for the glossary.",
+          "from": "draft"
+        },
+        {
+          "label": "destruireis",
+          "forms": {
+            "perdes": "destruireis"
+          },
+          "note": "Douay-Rheims 'destroy'. Good here; but its vós imperative is banned ('destruí'), and the link with perecer is lost.",
+          "from": "DRB"
+        },
+        {
+          "label": "perdereis",
+          "forms": {
+            "perdes": "perdereis"
+          },
+          "note": "Matos Soares 1932 ('perderás'). The cognate; heard as 'you will lose'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v7b",
+      "refs": [
+        "5:7b"
+      ],
+      "latin": "Virum sánguinum et dolósum abominábitur Dóminus",
+      "kind": "order",
+      "why": "The Latin fronts the object and ends on Dóminus; then the verse turns: 'ego autem…'. So the colon sets one topic (the man of blood) against another (I). Portuguese can keep that by fronting the object with a resuming pronoun, which is ordinary spoken syntax, or can use the plain order.",
+      "options": [
+        {
+          "label": "O Senhor abominará o homem de sangue e enganador",
+          "forms": {
+            "v7b": "O Senhor abominará o {sanguinum} e {dolosum}"
+          },
+          "note": "Draft 2, from the stylist, who found the fronted object with its resuming 'o' hard to say — 'a long suspension before the verb, two starts'. Order is the ear's (D2); this is also the order of Matos Soares 1932 and Douay-Rheims. Cost: the contrast of topics with 'mas eu' is no longer built into the syntax; the 'mas' still makes it.",
+          "from": "stylist"
+        },
+        {
+          "label": "O homem de sangue e enganador, o Senhor o abominará",
+          "forms": {
+            "v7b": "O {sanguinum} e {dolosum}, o Senhor o abominará"
+          },
+          "note": "Draft 1: the topic first, as in the Latin, so that 'mas eu' answers it; the Diurnal builds the line the same way ('O homem de sangue e fraude, o Senhor o abomina'). Refused in draft 2 on the stylist's ear.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "sanguinum",
+      "refs": [
+        "5:7b"
+      ],
+      "latin": "Virum sánguinum",
+      "kind": "word",
+      "why": "A Hebraism kept by the Greek and the Latin: 'a man of bloods', plural. It returns in 25:9 (cum viris sánguinum), 54:24 (Viri sánguinum, et dolósi — the same pair of words), 138:19. Portuguese has no plural of 'sangue' that can be prayed.",
+      "options": [
+        {
+          "label": "homem de sangue",
+          "forms": {
+            "sanguinum": "homem de sangue"
+          },
+          "note": "Ruling: the image kept concrete (rule 5) with the genitive as a genitive; the Diurnal has the same words. The plural is lost, as it is in Douay-Rheims ('The bloody … man').",
+          "from": "DM1962"
+        },
+        {
+          "label": "homem sanguinário",
+          "forms": {
+            "sanguinum": "homem sanguinário"
+          },
+          "note": "Matos Soares 1932, here and in all the other places (checked by grep in consult/ms1932-salmos.txt). An adjective for the image; smoother beside 'e enganador'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dolosus",
+      "refs": [
+        "5:7b",
+        "5:11a"
+      ],
+      "latin": "dolósum … linguis suis dolóse agébant",
+      "kind": "glossary",
+      "why": "One root twice in the psalm, and nineteen verses of the psalter have dolus / dolósus / dolóse (grep: lábia dolósa 11:3–4, 16:1b, 30:18; lingua dolósa 51:6, 108:3, 119:2–3; dolos 34:20, 37:13, 49:19; dolóse egit 35:3). The cognate 'doloso' is a term of criminal law in Brazil (crime doloso = intentional). 5:11a is word for word 13:3b, so what is ruled here is ruled for Ps 13. In 5:11a the Greek behind the Latin's two words is one verb (ἐδολιοῦσαν).",
+      "options": [
+        {
+          "label": "enganador … enganavam",
+          "forms": {
+            "dolosum": "enganador",
+            "dolose": "enganavam"
+          },
+          "note": "Ruling. dolus → engano, dolósus → enganador (Matos Soares 1932 has 'enganadores' for dolósi at 54:24, the twin of this line), so the root is heard twice in the psalm as in the Latin. In 5:11a the light verb yields, as the glossary already lets fácere yield (iniquitátem fácere → tratar com iniquidade): 'com as suas línguas enganavam' is the Greek's single verb, keeps the imperfect, and avoids 'com as suas línguas agiam com engano' with its two 'com'. Proposed for the glossary; 'lábios enganadores' and 'língua enganadora' follow.",
+          "from": "draft"
+        },
+        {
+          "label": "enganador … agiam com engano",
+          "forms": {
+            "dolosum": "enganador",
+            "dolose": "agiam com engano"
+          },
+          "note": "Both Latin words kept in 5:11a (Douay-Rheims 'dealt deceitfully'). 'com … com' within six words.",
+          "from": "DRB"
+        },
+        {
+          "label": "doloso … agiam dolosamente",
+          "forms": {
+            "dolosum": "doloso",
+            "dolose": "agiam dolosamente"
+          },
+          "note": "The cognates. A courtroom word in Brazil, and a six-syllable adverb.",
+          "from": "draft"
+        },
+        {
+          "label": "fraudulento … urdiam enganos",
+          "forms": {
+            "dolosum": "fraudulento",
+            "dolose": "urdiam enganos"
+          },
+          "note": "Matos Soares 1932 (he has the present 'urdem'; the Latin is an imperfect). Two roots for one, and weaving is his image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v8a",
+      "refs": [
+        "5:7b"
+      ],
+      "latin": "(8a) ego autem in multitúdine misericórdiæ tuæ.",
+      "kind": "grammar",
+      "why": "In DO's pointing the first half of Vulgate verse 8 is the second colon of this prayed verse, and it has no verb: the sentence is finished by the next verse (Introíbo in domum tuam). The Latin closes the colon with a full stop all the same. ego autem → 'mas eu' is the glossary's (Ps 118:69).",
+      "options": [
+        {
+          "label": "mas eu, na multidão da vossa misericórdia.",
+          "forms": {
+            "egoautem": "mas eu, na"
+          },
+          "note": "Ruling: verbless, as the Latin; the next verse completes it for whoever prays on, and alone it still says where the one who prays stands. Nothing supplied (D2).",
+          "from": "draft"
+        },
+        {
+          "label": "mas eu, confiado na multidão da vossa misericórdia.",
+          "forms": {
+            "egoautem": "mas eu, confiado na"
+          },
+          "note": "Matos Soares 1932 supplies 'confiado'. An explanation — and a masculine participle in the mouth of whoever prays, nuns included.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "multitudo",
+      "refs": [
+        "5:7b",
+        "5:11b"
+      ],
+      "latin": "in multitúdine misericórdiæ tuæ … secúndum multitúdinem impietátum eórum",
+      "kind": "glossary",
+      "why": "The psalm sets the multitude of God's mercy against the multitude of their impieties; the word must repeat (rule 6), and it must be able to serve seventeen verses (grep: 50:3b secúndum multitúdinem miseratiónum tuárum, 68:14 = this phrase, 36:11 in multitúdine pacis, 146:4 multitúdinem stellárum …). 'Abundância' is abundántia's (29:7, 71:7 abundántia pacis — beside 36:11 multitúdine pacis), 'grandeza' is magnitúdo's (150:2 has multitúdinem magnitúdinis).",
+      "options": [
+        {
+          "label": "multidão",
+          "forms": {
+            "multitudine": "multidão",
+            "multitudinem": "multidão"
+          },
+          "note": "Ruling: the cognate, the only free word of the three, and the one that repeats in both verses without strain (Douay-Rheims 'multitude' twice; Matos Soares has 'multidão' in 5:11b). With a singular abstract ('multidão da vossa misericórdia') it is a little strange, as the Latin is. Proposed for the glossary.",
+          "from": "DRB"
+        },
+        {
+          "label": "abundância",
+          "forms": {
+            "multitudine": "abundância",
+            "multitudinem": "abundância"
+          },
+          "note": "Matos Soares 1932 in 5:8 (he then changes to 'multidão' in 5:11 and loses the echo). More natural with 'misericórdia'; it is abundántia's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adtemplum",
+      "refs": [
+        "5:8b"
+      ],
+      "latin": "adorábo ad templum sanctum tuum",
+      "kind": "grammar",
+      "why": "adoráre ad is the Greek's προσκυνήσω πρὸς ναόν: to worship facing the temple (Douay-Rheims 'towards'). The same five words return in 137:2a. Matos Soares flattens it ('te adorarei no teu santo templo'). The relation must be kept; the question is how much Portuguese it needs. Draft 1 had 'adorarei em direção ao vosso templo santo no vosso temor'; the stylist heard 'em direção ao' as a route indication and 'no vosso temor' left hanging at the end.",
+      "options": [
+        {
+          "label": "no vosso temor adorarei voltando-me para o vosso templo santo",
+          "forms": {
+            "adtemplum": "no vosso temor adorarei voltando-me para o vosso templo santo"
+          },
+          "note": "Draft 2. The stylist's order ('no vosso temor' first — order is the ear's, D2) and his verb 'voltar', but as a gerund: his 'voltado' is a masculine participle that the Latin does not have, put in the mouth of whoever prays, nuns included; 'voltando-me' has no gender and costs one syllable. The relation of adoráre ad is kept. The stylist's commas are not taken (the Latin has none).",
+          "from": "stylist"
+        },
+        {
+          "label": "no vosso temor adorarei voltado para o vosso templo santo",
+          "forms": {
+            "adtemplum": "no vosso temor adorarei voltado para o vosso templo santo"
+          },
+          "note": "The stylist's own line. The most natural; adds a gendered word the Latin lacks.",
+          "from": "stylist"
+        },
+        {
+          "label": "adorarei em direção ao vosso templo santo no vosso temor",
+          "forms": {
+            "adtemplum": "adorarei em direção ao vosso templo santo no vosso temor"
+          },
+          "note": "Draft 1 (Douay-Rheims 'towards'), in the Latin's order. Refused by the stylist: 'soa como indicação de percurso'.",
+          "from": "DRB"
+        },
+        {
+          "label": "adorarei para o vosso templo santo no vosso temor",
+          "forms": {
+            "adtemplum": "adorarei para o vosso templo santo no vosso temor"
+          },
+          "note": "The calque: as odd as adoráre ad is in Latin, and the shortest.",
+          "from": "draft"
+        },
+        {
+          "label": "no vosso temor adorarei no vosso templo santo",
+          "forms": {
+            "adtemplum": "no vosso temor adorarei no vosso templo santo"
+          },
+          "note": "Matos Soares 1932 ('te adorarei no teu santo templo'). Loses ad: the one who prays is then inside the temple, which the Latin does not say.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deduc",
+      "refs": [
+        "5:9"
+      ],
+      "latin": "Dómine, deduc me in justítia tua",
+      "kind": "glossary",
+      "why": "The glossary's open row dedúcere, deduc me → guiar (Ps 118:35) names this verse as one of its places. The cognate fails the homograph ban even with the enclitic: 'conduzi-me' is also 'I behaved'.",
+      "options": [
+        {
+          "label": "guiai-me",
+          "forms": {
+            "deduc": "guiai-me"
+          },
+          "note": "Ruling, and the row holds: 'Senhor, guiai-me na vossa justiça' is the Greek's verb (ὁδήγησον), the word of Matos Soares 1932 and of the Diurnal ('guia-me'), safe under the ban (past 'guiei'), and the plain word.",
+          "from": "glossary"
+        },
+        {
+          "label": "conduzi-me",
+          "forms": {
+            "deduc": "conduzi-me"
+          },
+          "note": "The cognate (Douay-Rheims 'Conduct me'). Refused: 'conduzi-me' is also the first-person past of 'conduzir-se' — D13's exception does not save it.",
+          "from": "DRB"
+        },
+        {
+          "label": "levai-me",
+          "forms": {
+            "deduc": "levai-me"
+          },
+          "note": "Safe and plain; says carrying more than leading.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dirige",
+      "refs": [
+        "5:9"
+      ],
+      "latin": "dírige in conspéctu tuo viam meam",
+      "kind": "glossary",
+      "why": "dirígere → dirigir is the glossary's (Ps 118:5, a passive). Here it is a vós imperative with a noun object, and 'dirigi' is also 'I directed' — the bare form the ban names. The enclitic would not save it either: 24:5 and 26:11 have dírige me, and 'dirigi-me' is the everyday 'I made my way / I addressed myself'. Lewis & Short give dírigo first as 'to lay straight, set in a straight line'; the Greek here is κατεύθυνον, 'make straight'.",
+      "options": [
+        {
+          "label": "endireitai",
+          "forms": {
+            "dirige": "endireitai"
+          },
+          "note": "Ruling. It is the verb's first sense and the Greek's, it belongs with diréctio → retidão (118:7), and it is safe (past 'endireitei'). A way made straight before God's eyes is a concrete image, and the Latin's. Proposed for the glossary: dirígere at the vós imperative → endireitai (5:9, 89:16–17, 118:133); with 'me' as object (24:5, 26:11) the psalm that meets it decides.",
+          "from": "draft"
+        },
+        {
+          "label": "dirigi",
+          "forms": {
+            "dirige": "dirigi"
+          },
+          "note": "The glossary verb (Matos Soares 1932 'dirige', Douay-Rheims 'direct'). Refused under D1/D13: a bare vós imperative equal to 'I directed'.",
+          "from": "glossary"
+        },
+        {
+          "label": "tornai reto",
+          "forms": {
+            "dirige": "tornai reto"
+          },
+          "note": "Same sense in two words.",
+          "from": "draft"
+        },
+        {
+          "label": "aplainai",
+          "forms": {
+            "dirige": "aplainai"
+          },
+          "note": "The Diurnal ('aplaina diante de mim o teu caminho'). Levelling is the Hebrew's image; and the Diurnal's pronouns are the Hebrew's too — the Latin has 'in your sight my way'.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "5:9"
+      ],
+      "latin": "in conspéctu tuo",
+      "kind": "glossary",
+      "why": "The glossary has conspéctus → vista as `open` (53:5 ante conspéctum suum → 'diante da sua vista'), and warns that in conspéctu is everywhere. This psalm has three ways of being before God — astábo tibi (5:5), ante óculos tuos (5:6), in conspéctu tuo (5:9) — and they should stay three.",
+      "options": [
+        {
+          "label": "à vossa vista",
+          "forms": {
+            "conspectu": "à vossa vista"
+          },
+          "note": "Ruling: keeps the glossary noun and the sight that is in the word; 'à vista de' is the living idiom for 'in the sight of'. It stays apart from 'diante de vós' (5:5) and 'diante dos vossos olhos' (5:6). Proposed for the glossary: in conspéctu + genitive → à vista de.",
+          "from": "glossary"
+        },
+        {
+          "label": "na vossa presença",
+          "forms": {
+            "conspectu": "na vossa presença"
+          },
+          "note": "The most natural; the seeing is gone, and 'presença' will be wanted if a psalm has præséntia.",
+          "from": "draft"
+        },
+        {
+          "label": "diante dos vossos olhos",
+          "forms": {
+            "conspectu": "diante dos vossos olhos"
+          },
+          "note": "Matos Soares 1932. It is 5:6's phrase (ante óculos tuos): two Latin expressions would become one.",
+          "from": "MS1932"
+        },
+        {
+          "label": "diante de vós",
+          "forms": {
+            "conspectu": "diante de vós"
+          },
+          "note": "Plain; already used for the dative of 5:5.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v9order",
+      "refs": [
+        "5:9"
+      ],
+      "latin": "dírige in conspéctu tuo viam meam",
+      "kind": "order",
+      "why": "The Latin sets 'in conspéctu tuo' between the verb and its object. Draft 1 did the same; the stylist found that it parts the verb from its object and makes the ear wait.",
+      "options": [
+        {
+          "label": "endireitai o meu caminho à vossa vista",
+          "forms": {
+            "v9b": "{dirige} o meu caminho {conspectu}"
+          },
+          "note": "Draft 2, from the stylist: object next to its verb. Order only (D2). His comma after 'inimigos' is not taken (the Latin has none).",
+          "from": "stylist"
+        },
+        {
+          "label": "endireitai à vossa vista o meu caminho",
+          "forms": {
+            "v9b": "{dirige} {conspectu} o meu caminho"
+          },
+          "note": "Draft 1: the Latin's order, ending on 'caminho' as the Latin ends on viam meam.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "guttur",
+      "refs": [
+        "5:11a"
+      ],
+      "latin": "Sepúlcrum patens est guttur eórum",
+      "kind": "order",
+      "why": "The Latin puts the predicate first. 5:11a returns word for word in 13:3b (up to agébant), so this wording is Ps 13's too.",
+      "options": [
+        {
+          "label": "A sua garganta é um sepulcro aberto",
+          "forms": {
+            "guttur": "A sua garganta é um sepulcro aberto"
+          },
+          "note": "Ruling: the natural order (D2), word for word Matos Soares 1932; the flex falls on 'aberto'. The image is untouched.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Sepulcro aberto é a garganta deles",
+          "forms": {
+            "guttur": "Sepulcro aberto é a garganta deles"
+          },
+          "note": "The Latin's order, the tomb first. Sayable and strong; an inversion the ear does not ask for.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deus",
+      "refs": [
+        "5:11a"
+      ],
+      "latin": "júdica illos, Deus",
+      "kind": "glossary",
+      "why": "Two open glossary rows meet: judicáre → julgar, bare (53:3), and the vocative Deus without 'ó' (53:3–4). The colon is very short in Portuguese (four syllables for the Latin's seven), which is where an 'ó' would help the chant.",
+      "options": [
+        {
+          "label": "julgai-os, Deus",
+          "forms": {
+            "deus": "Deus"
+          },
+          "note": "Ruling: both rows followed — no 'ó' unless the Latin has 'o'. 'julgai' is safe (past 'julguei'). The short colon is accepted: it is a cry, and it is short in the Latin's own measure too.",
+          "from": "glossary"
+        },
+        {
+          "label": "julgai-os, ó Deus",
+          "forms": {
+            "deus": "ó Deus"
+          },
+          "note": "Matos Soares 1932 ('tu, ó Deus, julga-os'). One syllable more for the tone's ending; if the vocative row is ever ruled for 'ó Deus', this is the first place to take it.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "decidant",
+      "refs": [
+        "5:11b"
+      ],
+      "latin": "Décidant a cogitatiónibus suis",
+      "kind": "ambiguity",
+      "why": "'Let them fall from their thoughts' — the Greek is as odd (ἀποπεσάτωσαν ἀπὸ τῶν διαβουλίων αὐτῶν). It can mean fall away from their plans, i.e. fail in them (Lewis & Short, décido trop.: 'to fall, drop, fall away, fail'; 'a spe decídere'), or fall by their own devices. Douay-Rheims keeps the image ('Let them fall from their devices'); Matos Soares explains ('Frustrem-se os seus desígnios'). cogitátio → pensamento goes with cogitáre → pensar em (glossary) and must serve eleven verses (32:10–11, 39:6, 91:6, 93:11 …), God's thoughts included.",
+      "options": [
+        {
+          "label": "Caiam dos seus próprios pensamentos",
+          "forms": {
+            "decidant": "Caiam dos seus próprios pensamentos"
+          },
+          "note": "Ruling: the Latin's image and its openness kept (D2), with the glossary-family noun. Strange, as the Latin is strange. 'próprios' is the reflexive suis said aloud (the Latin changes to eórum in the next colon), and it brings the colon from five syllables short to two (checks).",
+          "from": "DRB"
+        },
+        {
+          "label": "Caiam dos seus pensamentos",
+          "forms": {
+            "decidant": "Caiam dos seus pensamentos"
+          },
+          "note": "Without 'próprios': five syllables short of the Latin colon, and 'seus' alone does not say whose.",
+          "from": "draft"
+        },
+        {
+          "label": "Decaiam dos seus pensamentos",
+          "forms": {
+            "decidant": "Decaiam dos seus pensamentos"
+          },
+          "note": "The cognate of de-cídere. 'Decair' is to decline or decay; with 'de' it points the hearer to failing, and so decides a little.",
+          "from": "draft"
+        },
+        {
+          "label": "Caiam pelos seus próprios planos",
+          "forms": {
+            "decidant": "Caiam pelos seus próprios planos"
+          },
+          "note": "The Hebrew-family sense (they fall by their own counsels); the Latin's 'a' is 'from'.",
+          "from": "draft"
+        },
+        {
+          "label": "Frustrem-se os seus desígnios",
+          "forms": {
+            "decidant": "Frustrem-se os seus desígnios"
+          },
+          "note": "Matos Soares 1932. Explains the image away and changes the subject of the verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "irritaverunt",
+      "refs": [
+        "5:11b"
+      ],
+      "latin": "quóniam irritavérunt te, Dómine",
+      "kind": "glossary",
+      "why": "irritáre has ten verses (grep: 9:34, 73:10, 105:7, 16, 29, 32, 106:11; the noun in 94:8, the Invitatory psalm) and stands beside exacerbáre in 105:32 and 106:11, so the two need two words. The Greek here is παρεπίκραναν ('embittered, provoked'). In Brazil 'irritar' has sunk to 'annoy'.",
+      "options": [
+        {
+          "label": "provocaram",
+          "forms": {
+            "irritaverunt": "provocaram"
+          },
+          "note": "Ruling. Lewis & Short quote Nonius: 'inritare dictum est proprie provocare'; Douay-Rheims 'provoked'. It keeps its weight before God ('por que provocou o ímpio a Deus?', 9:34), gives 94:8 'provocação', and leaves 'exasperar' free for exacerbáre. One collision: 77:58 ad æmulatiónem eum provocavérunt — the one provocáre of the psalter — can share it. Proposed for the glossary.",
+          "from": "DRB"
+        },
+        {
+          "label": "irritaram",
+          "forms": {
+            "irritaverunt": "irritaram"
+          },
+          "note": "The cognate, Matos Soares 1932. Too small a word now for what rebels do to God.",
+          "from": "MS1932"
+        },
+        {
+          "label": "exasperaram",
+          "forms": {
+            "irritaverunt": "exasperaram"
+          },
+          "note": "Nearer the Greek's bitterness; wanted for exacerbáre.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ineis",
+      "refs": [
+        "5:12a"
+      ],
+      "latin": "et habitábis in eis",
+      "kind": "ambiguity",
+      "why": "The Latin follows the Greek (κατασκηνώσεις ἐν αὐτοῖς), 'you will dwell in them' — not the Hebrew's 'you shelter them' (the Diurnal: 'Tu os proteges'). in eis is open between 'within them' and 'among them'.",
+      "options": [
+        {
+          "label": "e habitareis neles",
+          "forms": {
+            "ineis": "neles"
+          },
+          "note": "Ruling: the Latin's preposition as it stands (Douay-Rheims 'dwell in them', Matos Soares 1932 'habitarás neles'). 'Em' can carry 'among' as well in Portuguese (habitar num povo), so little is closed.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e habitareis entre eles",
+          "forms": {
+            "ineis": "entre eles"
+          },
+          "note": "Decides for 'among'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gloriabuntur",
+      "refs": [
+        "5:12b"
+      ],
+      "latin": "Et gloriabúntur in te omnes",
+      "kind": "word",
+      "why": "gloriári in is to glory in, to make one's boast of (καυχήσονται ἐν σοί); six verses of the psalter have the verb (31:11, 48:7, 51:3, 93:3, 96:7). The blind reader heard 'em vós se gloriarão' first as 'they will give glory to God' and listed 'gloriarão' as unknown.",
+      "options": [
+        {
+          "label": "E em vós se gloriarão",
+          "forms": {
+            "gloriabuntur": "E em vós se gloriarão"
+          },
+          "note": "Ruling: the cognate with the Latin's preposition, word for word Matos Soares 1932 ('E em ti se gloriarão'); Douay-Rheims 'shall glory in thee'. The mishearing is a near neighbour of the sense, not a contrary one, and the same verb must say the sinners' boasting in 93:3 and 51:3, where 'orgulhar-se' or 'dar glória' could not follow.",
+          "from": "MS1932"
+        },
+        {
+          "label": "E de vós se gloriarão",
+          "forms": {
+            "gloriabuntur": "E de vós se gloriarão"
+          },
+          "note": "'Gloriar-se de' is the commoner construction for boasting; leaves the Latin's 'in'.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "E em vós se orgulharão",
+          "forms": {
+            "gloriabuntur": "E em vós se orgulharão"
+          },
+          "note": "The everyday word; pride is a vice in the psalter (supérbia), and the word would be needed there.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "benedices",
+      "refs": [
+        "5:12b"
+      ],
+      "latin": "quóniam tu benedíces justo",
+      "kind": "glossary",
+      "why": "benedícere, God → man, is `open` in the glossary (D11: 'bendizer' kept in Ps 133 because the psalm turns on the one verb; every parallel has 'abençoar'). This psalm has no such turn, so it is a test of whether 'bendizer' can stand alone. The Latin has a dative (justo).",
+      "options": [
+        {
+          "label": "bendireis ao justo",
+          "forms": {
+            "benedices": "bendireis ao justo"
+          },
+          "note": "Ruling: the glossary's one verb, with the dative kept as the row for man → God keeps it ('bendizei ao Senhor'). Tested in draft 1 on three blind readers: the Latinist passed it, the stylist did not remark on it, the ambiguity reader found nothing to mishear. So 'bendizer' (God → man) stands without the support Ps 133 gave it.",
+          "from": "glossary"
+        },
+        {
+          "label": "abençoareis o justo",
+          "forms": {
+            "benedices": "abençoareis o justo"
+          },
+          "note": "Matos Soares 1932 ('abençoarás o justo'), the Diurnal ('abençoas'). The living verb for God's blessing of a man.",
+          "from": "MS1932"
+        },
+        {
+          "label": "bendireis o justo",
+          "forms": {
+            "benedices": "bendireis o justo"
+          },
+          "note": "The glossary verb with a direct object.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "scuto",
+      "refs": [
+        "5:13b"
+      ],
+      "latin": "ut scuto bonæ voluntátis tuæ * coronásti nos",
+      "kind": "word",
+      "why": "'As with a shield of your good will you have crowned us.' Three things: the comparison ut scuto with its instrumental ablative ('como com' jars in Portuguese); coronáre, which is to crown and, by extension, to encircle (Lewis & Short: 'to surround, encompass'); and the Latin's verb-last order with a very short second colon (coronásti nos). The Latin says 'us' (nos, ἡμᾶς) where the Hebrew has 'him'. Draft 1 ('como de um escudo da vossa boa vontade * nos coroastes') was the stylist's worst line: 'como de um escudo' has no clear support in Portuguese, and the pause at the asterisk prolongs the difficulty.",
+      "options": [
+        {
+          "label": "com a vossa boa vontade como escudo * nos coroastes",
+          "forms": {
+            "v13a": "com a vossa {bonaevoluntatis} como escudo",
+            "v13b": "nos coroastes"
+          },
+          "note": "Draft 2, the stylist's line. Every word of the Latin is there — como (ut), escudo, boa vontade, vossa, coroastes, nos — and the verb still stands alone after the asterisk. What changes is grammar: the genitive 'a shield of your good will' is read as the good will being the shield, which is how Matos Soares 1932 read it ('com a tua benevolência, como com um escudo') and what the blind reader understood from draft 1. Cost: the genitive is no longer open to 'a shield that your good will gives'.",
+          "from": "stylist"
+        },
+        {
+          "label": "como de um escudo da vossa boa vontade * nos coroastes",
+          "forms": {
+            "v13a": "como de um escudo da vossa {bonaevoluntatis}",
+            "v13b": "nos coroastes"
+          },
+          "note": "Draft 1. 'Coroar de' for the ablative, the genitive kept as a genitive, the verb last as in the Latin (Douay-Rheims 'thou hast crowned us, as with a shield of thy good will'). The Latinist passed it and the blind reader understood it; the stylist named it the worst line of the psalm.",
+          "from": "DRB"
+        },
+        {
+          "label": "como com um escudo da vossa boa vontade * nos coroastes",
+          "forms": {
+            "v13a": "como com um escudo da vossa {bonaevoluntatis}",
+            "v13b": "nos coroastes"
+          },
+          "note": "The ablative as 'com'. 'como com um' stammers.",
+          "from": "draft"
+        },
+        {
+          "label": "como de um escudo da vossa boa vontade * nos cercastes",
+          "forms": {
+            "v13a": "como de um escudo da vossa {bonaevoluntatis}",
+            "v13b": "nos cercastes"
+          },
+          "note": "coronáre in its extended sense, which a shield suits better; but 'cercar' is circumdáre's verb in the glossary, and the Latin chose the crown.",
+          "from": "draft"
+        },
+        {
+          "label": "com a vossa boa vontade, como com um escudo, * nos envolvestes",
+          "forms": {
+            "v13a": "com a vossa {bonaevoluntatis}, como com um escudo,",
+            "v13b": "nos envolvestes"
+          },
+          "note": "Matos Soares 1932 ('tu nos envolveste com a tua benevolência, como com um escudo'), fitted to the Latin's colons. It unties the genitive and gives up the crown.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "bonaevoluntatis",
+      "refs": [
+        "5:13b"
+      ],
+      "latin": "bonæ voluntátis tuæ",
+      "kind": "word",
+      "why": "The Greek is εὐδοκία, God's good pleasure; the Latin makes two words of it, and volúntas → vontade is in the glossary (Ps 1:2). beneplácitum is another Latin word with ten verses of its own (67:17b, 68:13, 88:18 …).",
+      "options": [
+        {
+          "label": "boa vontade",
+          "forms": {
+            "bonaevoluntatis": "boa vontade"
+          },
+          "note": "Ruling: the Latin's two words, the glossary noun (Douay-Rheims 'good will'). In everyday Portuguese 'boa vontade' is willingness; of God it is heard as his kindly will, which is the Latin's sense.",
+          "from": "DRB"
+        },
+        {
+          "label": "benevolência",
+          "forms": {
+            "bonaevoluntatis": "benevolência"
+          },
+          "note": "Matos Soares 1932. One learned word for two plain ones.",
+          "from": "MS1932"
+        },
+        {
+          "label": "beneplácito",
+          "forms": {
+            "bonaevoluntatis": "beneplácito"
+          },
+          "note": "The Greek's sense; it is beneplácitum's word and a proparoxytone at the cadence.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "5:2": "The psalm begins at 5:2 (5:1 is the titulus; D7). clamor → 'clamor', of the family of clamáre → clamar. Three verbs of attention in two verses, each with its own word: dar ouvidos (áuribus percípere, D4), entender (intellégere), atender (inténdere, D3); escutar (exaudíre) follows in 5:4.",
+    "5:3": "inténdere → atender (D3). 'Rex meus et Deus meus' → 'meu Rei e meu Deus', the living vocative order, as 3:7 'meu Deus'; no 'ó' (the Latin has none).",
+    "5:4": "The Latin's punctuation is kept: the vocative belongs to the second colon. 'mane … Mane' (5:4, 5:5) → 'de manhã … De manhã', the repetition kept. Future tenses kept throughout 5:4–8 (orábo, exáudies, astábo, vidébo, habitábit, permanébunt, perdes, abominábitur, introíbo, adorábo).",
+    "5:5": "'estarei/porei … verei' rhyme inside the colon as astábo … vidébo do in the Latin. 'vós' is said because the Latin says 'tu es'.",
+    "5:6": "'Neque … neque' → 'Nem … nem'. juxta te → 'junto de vós'; permanére → permanecer; injústi → 'os injustos' (the Latin's word; the Greek has παράνομοι). Subject first in both colons since draft 2 (decision v6order).",
+    "5:7a": "operári iniquitátem → 'praticar a iniquidade' (glossary; the phrase returns in 6:9). 'omnes, qui … omnes, qui' → 'todos os que … todos os que'. loqui mendácium → 'falar mentira', singular and without article as people say it; Matos Soares 1932 'dizem a mentira'.",
+    "5:7b": "abominári → abominar (118:163 will want it). The Latin's full stop after the verbless colon is kept. '(8a)' is DO's inline marker and is not reproduced.",
+    "5:8b": "introíre → entrar (glossary: íngredi / intráre → entrar — a third Latin verb shares it). 'in timóre tuo' → 'no vosso temor', the objective genitive kept as Douay-Rheims keeps it ('in thy fear'); the blind reader heard reverence first and fear second. Matos Soares paraphrases ('penetrado do teu temor'). Second colon +4 syllables, accepted.",
+    "5:9": "justítia → justiça, inimíci → inimigos, via → caminho (glossary). The Latin's pronouns are kept against the Greek and the Hebrew (which have 'before me your way'): 'à vossa vista o meu caminho'.",
+    "5:10": "véritas → verdade (glossary). 'eórum … eórum' → 'deles … seu', as Matos Soares 1932: a pronoun, not a figure. vanum → 'vão', of the family of vánitas → vaidade. First colon −3 syllables.",
+    "5:11a": "The flex is kept. agébant is an imperfect and stays one ('enganavam'). 5:11a = 13:3b as far as agébant: Ps 13 should copy 'A sua garganta é um sepulcro aberto, † com as suas línguas enganavam'. Romans quotes the line (from memory, unverified).",
+    "5:11b": "impíetas → impiedade (ímpius → ímpio). expéllere → expulsar: 'expulsai-os' is safe (past 'expulsei'). 'segundo a multidão … expulsai-os': the Latin's order, the verb at the mediant, oxytone. The blind reader heard 'Caiam dos seus próprios pensamentos' first as 'let their own plans bring them down' and second as 'let them fall away from their thoughts', and said the construction leaves the relation unclear — which is the Latin's own state.",
+    "5:12a": "'Et' kept ('E alegrem-se'): the Latin turns from the enemies to the faithful with a bare 'and' (Douay-Rheims makes it 'But'). lætári → alegrar-se, speráre in → esperar em, in ætérnum → eternamente, exsultáre → exultar (glossary). 'exultarão eternamente' in natural order (the Latin has the adverb first). The change of mood (læténtur subjunctive, exsultábunt future) is kept.",
+    "5:12b": "gloriári in → gloriar-se em (Matos Soares 1932). dilígere → amar. 'tu' is said in the Latin: 'vós'.",
+    "5:13b": "'coronásti nos': the perfect kept ('coroastes'); 'nos' as the Latin (the Hebrew has 'him'). scutum → escudo."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm5.txt, fifteen prayed verses 5:2–5:13b; 5:11a and 5:11b have a flex (†) and a mediant, the rest one '*'. 5:1 is the titulus, not in DO's file (D7). DO's inline marker '(8a)' in 5:7b and '(13a)' in 5:12b are not reproduced. The Hetzenauer print read of the Latin was not done."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps005.md. Sense from the Vulgate family (Douay-Rheims, Matos Soares 1932 by pdftotext layer); the Diurnal Monástico 1962 has the psalm and lends the build of 5:7b and the words 'homem de sangue'. DO's Portuguese not used (D12). Lewis & Short read for décido, irríto, dírigo, asto, coróno. Repeats found by grep over the DO Latin (ps005/grep_latin.py): 5:11a = 13:3b word for word as far as agébant; 5:7b 'Virum sánguinum et dolósum' ~ 54:24 'Viri sánguinum, et dolósi'; 5:7b 'in multitúdine misericórdiæ tuæ' = 68:14; 5:8b 'adorábo ad templum sanctum tuum' = 137:2a. Homograph ban checked at every vós imperative: dai, entendei, atendei, guiai-me, endireitai, julgai-os, expulsai-os are safe; 'dirigi' (dírige) and 'conduzi-me' (deduc me) are not and were recast. Latin-with-Greek readings kept against the Hebrew: 5:4–5 futures, 5:5 'e verei' without object, 5:9 'à vossa vista o meu caminho', 5:11b 'Caiam dos seus pensamentos', 5:12a 'habitareis neles', 5:13b 'nos coroastes'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids and marks). One fault mended before the critics: 5:11b first colon was −5 ('Caiam dos seus pensamentos'), now 'Caiam dos seus próprios pensamentos' (−2), the reflexive suis said aloud. Soft flags accepted: 5:3 second colon −3 and 5:11a last colon −3 (vocatives and 'julgai-os' are shorter than the Latin's and nothing may be added); 5:5 first colon +3 ('me porei diante de vós' for astábo tibi); 5:7b second colon −4 (the verbless colon); 5:8b second colon +4 ('em direção ao', see decision adtemplum); 5:11a first colon +3, 5:12a first colon +3, 5:13b first colon +3 (articles and 'todos os que'); 5:11b last colon −3. No rhyme flag; every cadence is oxytone or paroxytone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. Clean: no verse remarked, every mark confirmed.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Five verses; best 5:3, worst 5:13b. All five are about order or construction, none asks for another word's meaning, so under D2 all five are taken — 5:8b with one change (his masculine 'voltado' → 'voltando-me'), and without his added commas in 5:8b and 5:9 (the text keeps the Latin's punctuation).",
+      "outcomes": [
+        {
+          "verse": "5:6",
+          "remark": "two inversions in a row delay the subjects → 'Nem o maligno habitará junto de vós: * nem os injustos permanecerão…'",
+          "outcome": "taken",
+          "decision": "v6order"
+        },
+        {
+          "verse": "5:7b",
+          "remark": "fronted object resumed by 'o' needs a long suspension, 'two starts' → 'O Senhor abominará o homem de sangue e enganador'",
+          "outcome": "taken",
+          "decision": "v7b"
+        },
+        {
+          "verse": "5:8b",
+          "remark": "'em direção ao' sounds like a route; 'no vosso temor' dangles → 'no vosso temor, adorarei voltado para o vosso templo santo'",
+          "outcome": "taken",
+          "decision": "adtemplum",
+          "reason": "Order and the verb 'voltar' taken; 'voltado' made 'voltando-me' so that no gendered word is added to the one who prays; his comma not taken."
+        },
+        {
+          "verse": "5:9",
+          "remark": "'à vossa vista' parts the verb from its object → 'endireitai o meu caminho à vossa vista'",
+          "outcome": "taken",
+          "decision": "v9order",
+          "reason": "Order taken; his comma after 'inimigos' not taken (the Latin has none)."
+        },
+        {
+          "verse": "5:13b",
+          "remark": "'como de um escudo' has no clear support → 'Senhor, com a vossa boa vontade como escudo * nos coroastes'",
+          "outcome": "taken",
+          "decision": "scuto"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. Eighteen items, four unknown words (iniquidade ×2, impiedades, gloriarão). One real fault: 5:6 'o maligno' heard first as the devil → 'o malvado'. One mishearing kept with its reasons (5:12b 'se gloriarão' heard as giving glory; now a decision). 5:13b, the stylist's worst line, was understood rightly. The rest is the Latin's own range.",
+      "outcomes": [
+        {
+          "verse": "5:3",
+          "remark": "'Atendei': listen / grant what I ask — the second heard first",
+          "outcome": "refused",
+          "reason": "inténdere → atender is settled (D3); the overtone of granting is welcome in a petition and does not contradict the Latin."
+        },
+        {
+          "verse": "5:5",
+          "remark": "'e verei': see God / see God's answer",
+          "outcome": "refused",
+          "decision": "videbo",
+          "reason": "The Latin has no object; the openness is kept on purpose (D2)."
+        },
+        {
+          "verse": "5:6",
+          "remark": "'o maligno': the devil / a bad man — the devil heard first",
+          "outcome": "taken",
+          "decision": "malignus"
+        },
+        {
+          "verse": "5:7b",
+          "remark": "'O homem de sangue e enganador': one man or two",
+          "outcome": "refused",
+          "reason": "Heard as one man, which is the Latin (one virum, two attributes)."
+        },
+        {
+          "verse": "5:7b",
+          "remark": "'mas eu, na multidão da vossa misericórdia': tied to what follows, or a closed contrast",
+          "outcome": "refused",
+          "decision": "v8a",
+          "reason": "Both are the Latin's: DO's pointing closes the colon with a full stop and the next verse completes it."
+        },
+        {
+          "verse": "5:8b",
+          "remark": "'no vosso temor': fear / reverence",
+          "outcome": "refused",
+          "reason": "timor → temor (glossary); the right sense was heard first."
+        },
+        {
+          "verse": "5:9",
+          "remark": "'na vossa justiça' (rule of conduct / because you are just); what 'por causa dos meus inimigos' depends on; 'endireitai … o meu caminho' (conduct / road)",
+          "outcome": "refused",
+          "reason": "All three are as open in the Latin; 'propter inimícos meos' was heard with dírige, where the Latin's colon puts it."
+        },
+        {
+          "verse": "5:10",
+          "remark": "'vão': empty / futile or vain",
+          "outcome": "refused",
+          "reason": "vanum has both."
+        },
+        {
+          "verse": "5:11a",
+          "remark": "'com as suas línguas enganavam': subject unstated; 'julgai-os': sentence / condemn",
+          "outcome": "refused",
+          "decision": "dolosus",
+          "reason": "Heard rightly (the enemies deceive others with their words); júdica is as wide in the Latin (glossary row judicáre)."
+        },
+        {
+          "verse": "5:11b",
+          "remark": "'Caiam dos seus próprios pensamentos': brought down by their own plans / fall away from them; 'segundo a multidão': in proportion / because they are many",
+          "outcome": "refused",
+          "decision": "decidant",
+          "reason": "The Latin is open in the same two ways (decision decidant); secúndum is 'according to' and was not misheard."
+        },
+        {
+          "verse": "5:12a",
+          "remark": "'esperam em vós': trust / wait; 'eternamente': for ever / in eternal life",
+          "outcome": "refused",
+          "reason": "Glossary rows speráre in and in ætérnum; trust was heard first here."
+        },
+        {
+          "verse": "5:12b",
+          "remark": "'em vós se gloriarão': take pride in you / give glory to you — the second heard first; 'gloriarão' unknown",
+          "outcome": "option",
+          "decision": "gloriabuntur",
+          "reason": "The cognate is kept: it is the Vulgate-family wording and the one verb that can also say the sinners' boasting (93:3); 'de vós se gloriarão' is kept as an option."
+        },
+        {
+          "verse": "5:13b",
+          "remark": "shield that protects / a crown compared to a shield",
+          "outcome": "refused",
+          "decision": "scuto",
+          "reason": "Heard rightly; the line is rebuilt in draft 2 on the stylist's remark."
+        },
+        {
+          "verse": "5:5, 5:7a, 5:11b",
+          "remark": "unknown words: iniquidade, impiedades",
+          "outcome": "refused",
+          "reason": "Glossary words (iníquitas → iniquidade; impíetas of the family of ímpio) with no plainer equivalent that keeps them apart from pecado."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. Six verses changed against draft 1. From the stylist: 5:6 subjects first; 5:7b plain order ('O Senhor abominará o homem de sangue e enganador'); 5:8b 'no vosso temor adorarei voltando-me para o vosso templo santo' (was 'adorarei em direção ao vosso templo santo no vosso temor'); 5:9 'endireitai o meu caminho à vossa vista'; 5:13b 'com a vossa boa vontade como escudo * nos coroastes' (was 'como de um escudo da vossa boa vontade'). From the ambiguity reader: 5:6 'o malvado' (was 'o maligno', heard as the devil). 5:12b unchanged, but 'gloriar-se em' is now a decision. Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read)."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "59e0cac7d6d3ab118faeecaa85c2e67b90b2f656044927fa1fc672f28e546e7e",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T08:22:16+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"7:5\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"décidam mérito ab inimícis meis inánis\",\n          \"portuguese\": \"caia eu com razão diante dos meus inimigos, vazio\",\n          \"problem\": \"«Ab inimícis meis» atribui aos inimigos a queda; «diante dos meus inimigos» transforma essa relação em localização.\",\n          \"fix\": \"caia eu com razão por obra dos meus inimigos, vazio\"\n        }\n      ]\n    },\n    {\n      \"id\": \"7:17\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in vérticem ipsíus\",\n          \"portuguese\": \"sobre o seu crânio\",\n          \"problem\": \"«Vertex» designa o alto da cabeça. «Crânio» mantém a referência corporal, mas perde essa precisão e introduz uma referência óssea.\",\n          \"fix\": \"sobre o alto da sua cabeça\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo do latim, inclusive suas construções e imagens incomuns. Nos 18 versículos, as marcas de divisão são as mesmas e aparecem na mesma ordem que no latim.\"\n}"
+}

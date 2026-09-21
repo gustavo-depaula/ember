@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "567465531976266a67597b5bbddf14de4a70b51ec7f287d8ff62a0b7bc5b24ba",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T13:38:11+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"17:3b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"adjútor meus\",\n          \"portuguese\": \"o meu auxílio\",\n          \"problem\": \"O latim designa aquele que auxilia; a tradução substitui essa designação pessoal pelo auxílio prestado.\",\n          \"fix\": \"o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"17:3c\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"suscéptor meus\",\n          \"portuguese\": \"o meu amparo\",\n          \"problem\": \"O latim designa aquele que acolhe ou ampara; a tradução transforma essa designação pessoal em abstração.\",\n          \"fix\": \"aquele que me ampara\"\n        }\n      ]\n    },\n    {\n      \"id\": \"17:13\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Præ fulgóre in conspéctu ejus nubes transiérunt\",\n          \"portuguese\": \"Diante do clarão da sua presença passaram as nuvens\",\n          \"problem\": \"«In conspéctu ejus» significa «na sua presença» e não qualifica o clarão por uma relação de posse ou origem. A tradução funde duas expressões distintas.\",\n          \"fix\": \"Diante do clarão, na sua presença, passaram as nuvens\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"Nos 27 versos, identifiquei três problemas de adequação: duas designações pessoais convertidas em abstrações e uma alteração de relação sintática. Todos os sinais de apontamento correspondem aos do latim, com as mesmas marcas na mesma ordem.\"\n}"
+}

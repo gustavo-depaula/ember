@@ -1,0 +1,11 @@
+{
+  "role": "ambiguity",
+  "prompt": "../../prompts/ambiguity.md",
+  "promptSha256": "91174d66e8dadefa9d058b3c9802fca0a69f74b7d8ef9724f667f11a82b67fca",
+  "target": "prayed.vos.json",
+  "targetSha256": "33860bcfb4a9b86a1a9dcc7d65d48fa69054ef52b0806db7bcde0d6c212e2674",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:05:31+00:00",
+  "reply": "{\n  \"ambiguities\": [\n    {\n      \"id\": \"2:29\",\n      \"words\": \"deixais ir o vosso servo\",\n      \"readings\": [\n        \"Permitis que o vosso servo vá embora.\",\n        \"Permitis que o vosso servo morra em paz.\"\n      ],\n      \"likelyHeard\": \"Permitis que o vosso servo vá embora.\"\n    },\n    {\n      \"id\": \"2:29\",\n      \"words\": \"segundo a vossa palavra\",\n      \"readings\": [\n        \"Conforme aquilo que prometestes.\",\n        \"Conforme aquilo que ordenastes.\"\n      ],\n      \"likelyHeard\": \"Conforme aquilo que prometestes.\"\n    },\n    {\n      \"id\": \"2:30\",\n      \"words\": \"os meus olhos viram a vossa salvação\",\n      \"readings\": [\n        \"Vi um acontecimento em que o Senhor salvou alguém.\",\n        \"Vi alguém ou algo que traz a salvação do Senhor.\"\n      ],\n      \"likelyHeard\": \"Vi uma manifestação concreta da salvação do Senhor, sem ficar claro o que foi visto.\"\n    },\n    {\n      \"id\": \"2:32\",\n      \"words\": \"revelação das nações\",\n      \"readings\": [\n        \"Uma revelação dada às nações.\",\n        \"Uma revelação que mostra ou torna conhecidas as próprias nações.\"\n      ],\n      \"likelyHeard\": \"Uma revelação dada às nações.\"\n    }\n  ],\n  \"unknownWords\": []\n}"
+}

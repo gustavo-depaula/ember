@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "c1a9e24f007f7ed544c0d63c3a28038678fd4a2f072383269396acff2bd36f93",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T11:55:25+00:00",
+  "reply": "{\"verses\":[{\"id\":\"11:4\",\"severity\":\"minor\",\"issues\":[{\"latin\":\"linguam magníloquam\",\"portuguese\":\"a língua que fala grandezas\",\"problem\":\"“Fala grandezas” é defensável, mas deixa pouco explícito o sentido de jactância de magníloquam neste contexto, registrado por [Lewis–Short](https://cld.bbaw.de/lemma/lat/magniloquus).\",\"fix\":\"a língua que fala com arrogância\"}]}],\"overall\":\"A tradução conserva o conteúdo latino, inclusive suas construções incomuns, com a pequena ressalva indicada. Todos os sinais de divisão coincidem com os do latim em identidade e ordem.\"}"
+}

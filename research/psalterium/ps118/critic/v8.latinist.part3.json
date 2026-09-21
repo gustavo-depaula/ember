@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "7e384605c441a2222dfd517ee1d9237770a51177990492db21633807123e9427",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T05:38:13+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"118:114\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Adjútor et suscéptor meus es tu\",\n          \"portuguese\": \"Vós sois o meu auxílio e o meu amparo\",\n          \"problem\": \"Os substantivos latinos designam aquele que auxilia e protege; a tradução os substitui pelas abstrações correspondentes.\",\n          \"fix\": \"Vós sois o meu auxiliador e o meu protetor\"\n        }\n      ]\n    },\n    {\n      \"id\": \"118:128\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"ad ómnia mandáta tua dirigébar\",\n          \"portuguese\": \"eu me dirigia para todos os vossos mandamentos\",\n          \"problem\": \"Dirigébar está na voz passiva: o salmista era dirigido. A construção reflexiva portuguesa atribui a ele a iniciativa de dirigir-se.\",\n          \"fix\": \"eu era dirigido para todos os vossos mandamentos\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"Nos 48 versículos, encontrei duas alterações de sentido que pedem correção; as demais formulações são adequadas ao latim. Todas as marcas de divisão coincidem com as latinas, em identidade e ordem.\"\n}"
+}

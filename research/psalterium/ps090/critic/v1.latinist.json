@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "c6a075a0d446b95a8f99e83cc27d084b28af2155e53f1478460006be7565b2b4",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T01:38:18+00:00",
+  "reply": "{\"verses\":[{\"id\":\"90:12\",\"severity\":\"major\",\"issues\":[{\"latin\":\"ne forte offéndas ad lápidem pedem tuum\",\"portuguese\":\"para que não batas com o teu pé numa pedra\",\"problem\":\"A tradução omite a nuance de eventualidade expressa por «forte» («acaso», «porventura»).\",\"fix\":\"para que não batas por acaso com o teu pé numa pedra.\"}]}],\"overall\":\"A tradução preserva o sentido do latim nos demais versículos, inclusive suas imagens e mudanças de pessoa. Todos os sinais de pontuação salmódica correspondem aos do latim, na mesma ordem.\"}"
+}

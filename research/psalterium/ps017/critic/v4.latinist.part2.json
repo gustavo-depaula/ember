@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "cccc9af74a9072e336b178738a9653257f5fb53e079e43b0c75eff0f2cc9f627",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T13:45:18+00:00",
+  "reply": "{\"verses\":[{\"id\":\"17:34\",\"severity\":\"minor\",\"issues\":[{\"latin\":\"et super excélsa státuens me\",\"portuguese\":\"e sobre as alturas me firma\",\"problem\":\"O particípio presente «státuens» foi convertido em verbo finito no indicativo. Embora preserve o sentido geral, a tradução regulariza a construção irregular do latim, que coordena «perfécit» com «státuens».\",\"fix\":\"e sobre as alturas me firmando.\"}]}],\"overall\":\"A tradução conserva adequadamente o conteúdo latino, com uma pequena regularização sintática a corrigir segundo a regra estrita do projeto. Todas as marcas de divisão correspondem às do latim, na mesma ordem.\"}"
+}

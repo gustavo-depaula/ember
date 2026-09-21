@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "36f497c5a5047a0b825d3bd151f091c8f3681d0d5416efe1250bbdd57f8a3e12",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T04:08:46+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"118:44\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sæculum sæculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula portuguesa conserva o sentido de perpetuidade, mas passa para o plural os dois substantivos que o latim mantém no singular.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o sentido latino nos demais versos, inclusive suas imagens e construções peculiares. Nos 48 versos, as marcas de apontamento coincidem com as do latim em identidade e ordem.\"\n}"
+}

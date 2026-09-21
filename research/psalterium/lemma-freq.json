@@ -1,0 +1,26266 @@
+{
+"a": {
+"count": 11,
+"psalms": [
+2,
+4,
+43,
+67,
+87,
+96,
+103,
+106,
+113,
+117,
+137
+]
+},
+"aaron": {
+"count": 9,
+"psalms": [
+76,
+98,
+104,
+105,
+113,
+117,
+132,
+134
+]
+},
+"ab": {
+"count": 267,
+"psalms": [
+1,
+2,
+5,
+6,
+7,
+8,
+9,
+11,
+12,
+15,
+16,
+17,
+18,
+20,
+21,
+23,
+24,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+48,
+49,
+50,
+54,
+55,
+57,
+58,
+59,
+60,
+61,
+63,
+64,
+65,
+67,
+68,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+79,
+80,
+83,
+84,
+87,
+88,
+89,
+90,
+92,
+93,
+95,
+96,
+97,
+100,
+101,
+102,
+103,
+105,
+106,
+108,
+109,
+111,
+112,
+113,
+114,
+118,
+119,
+120,
+128,
+129,
+134,
+135,
+138,
+139,
+140,
+141,
+142
+]
+},
+"abdo": {
+"count": 1,
+"psalms": [
+16
+]
+},
+"abduco": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"abeo": {
+"count": 3,
+"psalms": [
+1,
+38,
+104
+]
+},
+"abicio": {
+"count": 1,
+"psalms": [
+83
+]
+},
+"abiectio": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"abiron": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"ablacto": {
+"count": 1,
+"psalms": [
+130
+]
+},
+"abominabilis": {
+"count": 2,
+"psalms": [
+13,
+52
+]
+},
+"abominatio": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"abominor": {
+"count": 4,
+"psalms": [
+5,
+105,
+106,
+118
+]
+},
+"abraham": {
+"count": 4,
+"psalms": [
+46,
+104
+]
+},
+"abscindo": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"abscondes": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"absconditus": {
+"count": 6,
+"psalms": [
+9,
+26,
+30,
+43,
+68,
+80
+]
+},
+"abscondo": {
+"count": 19,
+"psalms": [
+9,
+16,
+18,
+26,
+30,
+31,
+34,
+37,
+39,
+54,
+55,
+63,
+118,
+139,
+141
+]
+},
+"absorbeo": {
+"count": 4,
+"psalms": [
+57,
+68,
+123,
+140
+]
+},
+"abstulit": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"abundanter": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"abundantia": {
+"count": 7,
+"psalms": [
+29,
+32,
+71,
+77,
+121,
+144
+]
+},
+"abundo": {
+"count": 7,
+"psalms": [
+49,
+64,
+72,
+77,
+122,
+127,
+143
+]
+},
+"abusio": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"abyssus": {
+"count": 12,
+"psalms": [
+32,
+35,
+41,
+70,
+76,
+77,
+103,
+105,
+106,
+134,
+148
+]
+},
+"accedo": {
+"count": 3,
+"psalms": [
+33,
+63,
+90
+]
+},
+"accelero": {
+"count": 2,
+"psalms": [
+15,
+30
+]
+},
+"accendo": {
+"count": 2,
+"psalms": [
+77,
+78
+]
+},
+"accensus": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"accepto": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"accingo": {
+"count": 3,
+"psalms": [
+44,
+64
+]
+},
+"accipio": {
+"count": 14,
+"psalms": [
+14,
+17,
+23,
+30,
+48,
+49,
+67,
+74,
+77,
+108,
+115,
+138
+]
+},
+"accola": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"acetum": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"acquiro": {
+"count": 3,
+"psalms": [
+68,
+77,
+118
+]
+},
+"acuo": {
+"count": 3,
+"psalms": [
+44,
+119,
+139
+]
+},
+"acutus": {
+"count": 2,
+"psalms": [
+51,
+56
+]
+},
+"ad": {
+"count": 176,
+"psalms": [
+2,
+3,
+4,
+5,
+11,
+13,
+14,
+15,
+16,
+17,
+18,
+21,
+24,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+35,
+39,
+41,
+42,
+43,
+45,
+49,
+50,
+52,
+54,
+56,
+57,
+58,
+59,
+60,
+62,
+63,
+64,
+65,
+67,
+68,
+69,
+70,
+71,
+72,
+76,
+77,
+79,
+84,
+85,
+87,
+88,
+90,
+91,
+98,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+112,
+117,
+118,
+119,
+121,
+122,
+124,
+129,
+134,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+146,
+149
+]
+},
+"adaquo": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"addo": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"adduco": {
+"count": 5,
+"psalms": [
+42,
+44,
+71,
+124
+]
+},
+"adeps": {
+"count": 5,
+"psalms": [
+16,
+62,
+72,
+80,
+147
+]
+},
+"adhaereo": {
+"count": 10,
+"psalms": [
+21,
+24,
+62,
+72,
+93,
+100,
+101,
+118,
+136
+]
+},
+"adhuc": {
+"count": 12,
+"psalms": [
+36,
+41,
+42,
+48,
+76,
+77,
+91,
+138,
+140
+]
+},
+"adicio": {
+"count": 4,
+"psalms": [
+40,
+60,
+70,
+113
+]
+},
+"adimpleo": {
+"count": 2,
+"psalms": [
+15,
+16
+]
+},
+"adinuentio": {
+"count": 6,
+"psalms": [
+27,
+76,
+80,
+98,
+105
+]
+},
+"adiutor": {
+"count": 28,
+"psalms": [
+9,
+17,
+18,
+26,
+27,
+29,
+32,
+39,
+45,
+51,
+58,
+61,
+62,
+69,
+70,
+71,
+77,
+80,
+108,
+113,
+117,
+118,
+145
+]
+},
+"adiutorium": {
+"count": 11,
+"psalms": [
+7,
+34,
+37,
+69,
+82,
+87,
+88,
+90,
+93,
+123
+]
+},
+"adiuuo": {
+"count": 19,
+"psalms": [
+21,
+27,
+36,
+39,
+43,
+45,
+53,
+69,
+78,
+85,
+93,
+106,
+108,
+118
+]
+},
+"admirabilis": {
+"count": 3,
+"psalms": [
+8,
+41
+]
+},
+"admiror": {
+"count": 1,
+"psalms": [
+47
+]
+},
+"adnuntio": {
+"count": 3,
+"psalms": [
+54,
+74,
+91
+]
+},
+"adolescentior": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"adolescentulus": {
+"count": 2,
+"psalms": [
+67,
+118
+]
+},
+"adoro": {
+"count": 18,
+"psalms": [
+5,
+21,
+28,
+44,
+65,
+71,
+80,
+85,
+95,
+96,
+98,
+105,
+131,
+137
+]
+},
+"aduena": {
+"count": 3,
+"psalms": [
+38,
+93,
+145
+]
+},
+"aduersarius": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"aduersor": {
+"count": 2,
+"psalms": [
+3,
+34
+]
+},
+"aduersus": {
+"count": 34,
+"psalms": [
+2,
+3,
+12,
+14,
+22,
+26,
+30,
+31,
+34,
+37,
+38,
+40,
+49,
+53,
+55,
+68,
+74,
+82,
+93,
+101,
+108,
+118
+]
+},
+"adulter": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"aduoco": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"aedifico": {
+"count": 12,
+"psalms": [
+27,
+50,
+68,
+77,
+88,
+101,
+117,
+121,
+126,
+146
+]
+},
+"aegyptus": {
+"count": 15,
+"psalms": [
+67,
+77,
+79,
+80,
+104,
+105,
+113,
+134,
+135
+]
+},
+"aemulatio": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"aemulor": {
+"count": 3,
+"psalms": [
+36
+]
+},
+"aequitas": {
+"count": 16,
+"psalms": [
+9,
+10,
+16,
+36,
+51,
+64,
+66,
+95,
+97,
+110,
+118,
+142
+]
+},
+"aequo": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"aer": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"aereus": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"aerius": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"aerugo": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"aerumna": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"aestas": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"aestimatus": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"aestimo": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"aeternalis": {
+"count": 2,
+"psalms": [
+23
+]
+},
+"aeternus": {
+"count": 94,
+"psalms": [
+5,
+9,
+11,
+14,
+27,
+28,
+29,
+30,
+32,
+36,
+40,
+44,
+47,
+48,
+51,
+54,
+60,
+61,
+65,
+70,
+71,
+72,
+75,
+76,
+84,
+85,
+88,
+91,
+99,
+101,
+102,
+104,
+109,
+110,
+111,
+116,
+118,
+124,
+134,
+135,
+138,
+148
+]
+},
+"aethiopes": {
+"count": 2,
+"psalms": [
+73,
+86
+]
+},
+"aethiopia": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"aethiops": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"affectus": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"affero": {
+"count": 8,
+"psalms": [
+28,
+44,
+75,
+77,
+95
+]
+},
+"afferte": {
+"count": 3,
+"psalms": [
+28,
+95
+]
+},
+"afflictio": {
+"count": 2,
+"psalms": [
+17,
+43
+]
+},
+"affligo": {
+"count": 6,
+"psalms": [
+16,
+37,
+41,
+42,
+43
+]
+},
+"affluo": {
+"count": 1,
+"psalms": [
+61
+]
+},
+"africus": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"agareni": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"agens": {
+"count": 1,
+"psalms": [
+70
+]
+},
+"agentes": {
+"count": 1,
+"psalms": [
+24
+]
+},
+"ager": {
+"count": 4,
+"psalms": [
+49,
+102,
+103,
+106
+]
+},
+"agnus": {
+"count": 2,
+"psalms": [
+113
+]
+},
+"ago": {
+"count": 14,
+"psalms": [
+5,
+11,
+13,
+14,
+26,
+30,
+35,
+43,
+74,
+75,
+93,
+105,
+118
+]
+},
+"ala": {
+"count": 5,
+"psalms": [
+16,
+35,
+56,
+60,
+62
+]
+},
+"alienigenus": {
+"count": 4,
+"psalms": [
+59,
+82,
+86,
+107
+]
+},
+"alieno": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"alienus": {
+"count": 11,
+"psalms": [
+17,
+18,
+43,
+48,
+53,
+80,
+108,
+136,
+143
+]
+},
+"aliquando": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"aliquis": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"alleuat": {
+"count": 1,
+"psalms": [
+144
+]
+},
+"alleuo": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"allido": {
+"count": 2,
+"psalms": [
+101,
+136
+]
+},
+"alligo": {
+"count": 2,
+"psalms": [
+146,
+149
+]
+},
+"alo": {
+"count": 1,
+"psalms": [
+32
+]
+},
+"altare": {
+"count": 4,
+"psalms": [
+25,
+42,
+50,
+117
+]
+},
+"altaria": {
+"count": 1,
+"psalms": [
+83
+]
+},
+"alter": {
+"count": 6,
+"psalms": [
+47,
+77,
+101,
+104,
+108
+]
+},
+"altissime": {
+"count": 1,
+"psalms": [
+91
+]
+},
+"altissimo": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"altissimus": {
+"count": 11,
+"psalms": [
+9,
+17,
+20,
+45,
+82,
+86,
+90,
+91,
+96,
+106
+]
+},
+"altitudo": {
+"count": 5,
+"psalms": [
+11,
+55,
+68,
+94,
+102
+]
+},
+"altus": {
+"count": 12,
+"psalms": [
+7,
+12,
+56,
+63,
+67,
+70,
+74,
+92,
+112,
+137,
+143
+]
+},
+"amalec": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"amaritudo": {
+"count": 2,
+"psalms": [
+9,
+13
+]
+},
+"amarus": {
+"count": 1,
+"psalms": [
+63
+]
+},
+"ambulo": {
+"count": 22,
+"psalms": [
+11,
+22,
+54,
+77,
+80,
+81,
+83,
+84,
+88,
+90,
+100,
+103,
+113,
+118,
+127,
+130,
+137,
+141,
+142
+]
+},
+"amicio": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"amictus": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"amicus": {
+"count": 4,
+"psalms": [
+37,
+87,
+107,
+138
+]
+},
+"ammon": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"amo": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"amorrhaeus": {
+"count": 2,
+"psalms": [
+134,
+135
+]
+},
+"amoueo": {
+"count": 3,
+"psalms": [
+38,
+65,
+118
+]
+},
+"ample": {
+"count": 6,
+"psalms": [
+38,
+61,
+73,
+87,
+89,
+102
+]
+},
+"amplius": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"amputo": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"anceps": {
+"count": 1,
+"psalms": [
+149
+]
+},
+"ancilla": {
+"count": 3,
+"psalms": [
+85,
+115,
+122
+]
+},
+"angelus": {
+"count": 12,
+"psalms": [
+8,
+33,
+34,
+77,
+90,
+96,
+102,
+103,
+137,
+148
+]
+},
+"angulus": {
+"count": 1,
+"psalms": [
+117
+]
+},
+"angustia": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"anima": {
+"count": 146,
+"psalms": [
+3,
+6,
+7,
+9,
+10,
+12,
+15,
+16,
+18,
+21,
+22,
+23,
+24,
+25,
+26,
+29,
+30,
+32,
+33,
+34,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+48,
+53,
+54,
+55,
+56,
+58,
+61,
+62,
+63,
+65,
+68,
+69,
+70,
+71,
+73,
+76,
+77,
+83,
+85,
+87,
+88,
+93,
+96,
+102,
+103,
+104,
+105,
+106,
+108,
+114,
+118,
+119,
+120,
+122,
+123,
+129,
+130,
+137,
+138,
+140,
+141,
+142,
+145
+]
+},
+"animal": {
+"count": 1,
+"psalms": [
+144
+]
+},
+"animalia": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"animalium": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"annius": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"annuntiaui": {
+"count": 2,
+"psalms": [
+39
+]
+},
+"annuntio": {
+"count": 27,
+"psalms": [
+9,
+18,
+21,
+29,
+37,
+43,
+49,
+50,
+55,
+58,
+63,
+70,
+72,
+78,
+88,
+91,
+95,
+96,
+101,
+104,
+106,
+110,
+147
+]
+},
+"annuo": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"annus": {
+"count": 14,
+"psalms": [
+30,
+60,
+64,
+76,
+77,
+89,
+94,
+101
+]
+},
+"ante": {
+"count": 26,
+"psalms": [
+5,
+13,
+17,
+25,
+34,
+35,
+37,
+38,
+41,
+53,
+54,
+56,
+71,
+72,
+73,
+82,
+84,
+89,
+96,
+100,
+104,
+109,
+126,
+141,
+147
+]
+},
+"anticipo": {
+"count": 2,
+"psalms": [
+76,
+78
+]
+},
+"antiquus": {
+"count": 6,
+"psalms": [
+43,
+76,
+78,
+88,
+138,
+142
+]
+},
+"anxio": {
+"count": 2,
+"psalms": [
+60,
+142
+]
+},
+"aper": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"aperio": {
+"count": 12,
+"psalms": [
+7,
+21,
+37,
+38,
+48,
+50,
+77,
+103,
+108,
+117,
+118
+]
+},
+"aperis": {
+"count": 1,
+"psalms": [
+144
+]
+},
+"aperta": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"apis": {
+"count": 1,
+"psalms": [
+117
+]
+},
+"appareo": {
+"count": 6,
+"psalms": [
+16,
+17,
+41,
+62,
+91
+]
+},
+"appono": {
+"count": 7,
+"psalms": [
+9,
+61,
+68,
+76,
+77,
+88,
+119
+]
+},
+"apprehendo": {
+"count": 4,
+"psalms": [
+2,
+34,
+47
+]
+},
+"appropinquo": {
+"count": 10,
+"psalms": [
+37,
+54,
+87,
+90,
+106,
+118,
+148
+]
+},
+"appropio": {
+"count": 1,
+"psalms": [
+26
+]
+},
+"approximo": {
+"count": 2,
+"psalms": [
+31
+]
+},
+"apud": {
+"count": 13,
+"psalms": [
+21,
+35,
+36,
+38,
+41,
+72,
+75,
+80,
+108,
+129
+]
+},
+"aqua": {
+"count": 54,
+"psalms": [
+1,
+17,
+21,
+22,
+28,
+31,
+32,
+41,
+45,
+57,
+64,
+65,
+68,
+73,
+76,
+77,
+78,
+80,
+87,
+92,
+103,
+104,
+105,
+106,
+108,
+113,
+118,
+123,
+135,
+142,
+143,
+147,
+148
+]
+},
+"aquila": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"aquilo": {
+"count": 3,
+"psalms": [
+47,
+88,
+106
+]
+},
+"arabes": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"arabia": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"aranea": {
+"count": 2,
+"psalms": [
+38,
+89
+]
+},
+"arbustum": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"arca": {
+"count": 1,
+"psalms": [
+131
+]
+},
+"arcus": {
+"count": 13,
+"psalms": [
+7,
+10,
+17,
+36,
+43,
+45,
+57,
+59,
+63,
+75,
+77
+]
+},
+"ardeo": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"arena": {
+"count": 2,
+"psalms": [
+77,
+138
+]
+},
+"areo": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"aresco": {
+"count": 3,
+"psalms": [
+36,
+89,
+101
+]
+},
+"argentum": {
+"count": 7,
+"psalms": [
+11,
+65,
+67,
+104,
+113,
+118,
+134
+]
+},
+"arguo": {
+"count": 5,
+"psalms": [
+6,
+37,
+49,
+93
+]
+},
+"aridus": {
+"count": 1,
+"psalms": [
+65
+]
+},
+"aries": {
+"count": 5,
+"psalms": [
+28,
+64,
+65,
+113
+]
+},
+"arma": {
+"count": 3,
+"psalms": [
+34,
+45,
+56
+]
+},
+"aruit": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"arundo": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"aruus": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"ascendo": {
+"count": 18,
+"psalms": [
+17,
+23,
+46,
+67,
+73,
+75,
+77,
+103,
+105,
+106,
+121,
+131,
+138
+]
+},
+"ascensio": {
+"count": 1,
+"psalms": [
+83
+]
+},
+"ascia": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"asper": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"asperges": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"aspice": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"aspicio": {
+"count": 3,
+"psalms": [
+65,
+83,
+101
+]
+},
+"aspis": {
+"count": 4,
+"psalms": [
+13,
+57,
+90,
+139
+]
+},
+"assimilo": {
+"count": 1,
+"psalms": [
+27
+]
+},
+"assisto": {
+"count": 3,
+"psalms": [
+35,
+44,
+108
+]
+},
+"assum": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"assumo": {
+"count": 4,
+"psalms": [
+17,
+26,
+49,
+64
+]
+},
+"assumptio": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"assur": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"asto": {
+"count": 2,
+"psalms": [
+2,
+5
+]
+},
+"atque": {
+"count": 4,
+"psalms": [
+1,
+31,
+41,
+54
+]
+},
+"atrium": {
+"count": 12,
+"psalms": [
+28,
+64,
+83,
+91,
+95,
+99,
+115,
+121,
+133,
+134
+]
+},
+"attendo": {
+"count": 2,
+"psalms": [
+65,
+77
+]
+},
+"attollo": {
+"count": 2,
+"psalms": [
+23
+]
+},
+"attraho": {
+"count": 2,
+"psalms": [
+9,
+118
+]
+},
+"auaritia": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"audio": {
+"count": 44,
+"psalms": [
+9,
+18,
+25,
+29,
+30,
+33,
+37,
+43,
+44,
+47,
+48,
+49,
+58,
+61,
+65,
+75,
+77,
+80,
+84,
+91,
+93,
+94,
+96,
+101,
+102,
+105,
+113,
+118,
+131,
+134,
+137,
+140,
+142
+]
+},
+"auditio": {
+"count": 1,
+"psalms": [
+111
+]
+},
+"auditus": {
+"count": 2,
+"psalms": [
+17,
+50
+]
+},
+"auertente": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"auerto": {
+"count": 30,
+"psalms": [
+9,
+12,
+13,
+21,
+26,
+29,
+34,
+43,
+50,
+53,
+68,
+69,
+73,
+77,
+84,
+87,
+88,
+89,
+101,
+105,
+118,
+131,
+142
+]
+},
+"aufero": {
+"count": 12,
+"psalms": [
+9,
+39,
+45,
+50,
+57,
+71,
+75,
+103,
+108,
+118,
+140
+]
+},
+"augeo": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"aula": {
+"count": 1,
+"psalms": [
+59
+]
+},
+"aura": {
+"count": 1,
+"psalms": [
+91
+]
+},
+"aureus": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"auribus": {
+"count": 2,
+"psalms": [
+16,
+85
+]
+},
+"auris": {
+"count": 27,
+"psalms": [
+5,
+9,
+16,
+17,
+30,
+33,
+38,
+39,
+43,
+44,
+48,
+53,
+57,
+70,
+77,
+83,
+85,
+87,
+93,
+101,
+113,
+114,
+129,
+134,
+142
+]
+},
+"auro": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"aurora": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"aurum": {
+"count": 8,
+"psalms": [
+18,
+67,
+71,
+104,
+113,
+118,
+134
+]
+},
+"auster": {
+"count": 1,
+"psalms": [
+125
+]
+},
+"austrus": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"aut": {
+"count": 20,
+"psalms": [
+8,
+13,
+14,
+17,
+23,
+29,
+49,
+52,
+76,
+77,
+84,
+87,
+89,
+93,
+119,
+143
+]
+},
+"autem": {
+"count": 98,
+"psalms": [
+2,
+3,
+5,
+6,
+10,
+12,
+14,
+16,
+19,
+21,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+39,
+40,
+43,
+49,
+51,
+54,
+58,
+70,
+72,
+73,
+74,
+77,
+78,
+81,
+87,
+88,
+89,
+90,
+91,
+95,
+101,
+102,
+103,
+105,
+108,
+113,
+115,
+118,
+124,
+125,
+131,
+138,
+140,
+146
+]
+},
+"auxilior": {
+"count": 2,
+"psalms": [
+88
+]
+},
+"auxilium": {
+"count": 10,
+"psalms": [
+19,
+21,
+48,
+59,
+61,
+70,
+83,
+107,
+120
+]
+},
+"babylon": {
+"count": 3,
+"psalms": [
+86,
+136
+]
+},
+"baculum": {
+"count": 1,
+"psalms": [
+22
+]
+},
+"barba": {
+"count": 2,
+"psalms": [
+132
+]
+},
+"barbarus": {
+"count": 1,
+"psalms": [
+113
+]
+},
+"basan": {
+"count": 3,
+"psalms": [
+67,
+134,
+135
+]
+},
+"basiliscus": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"beata": {
+"count": 1,
+"psalms": [
+32
+]
+},
+"beati": {
+"count": 2,
+"psalms": [
+31,
+118
+]
+},
+"beatus": {
+"count": 24,
+"psalms": [
+1,
+2,
+31,
+33,
+39,
+40,
+64,
+83,
+88,
+93,
+105,
+111,
+118,
+126,
+127,
+136,
+143,
+145
+]
+},
+"beelphegor": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"bello": {
+"count": 1,
+"psalms": [
+55
+]
+},
+"bellum": {
+"count": 8,
+"psalms": [
+17,
+45,
+67,
+75,
+77,
+88,
+139,
+143
+]
+},
+"bene": {
+"count": 5,
+"psalms": [
+32,
+35,
+91,
+117,
+127
+]
+},
+"benedic": {
+"count": 3,
+"psalms": [
+102,
+103
+]
+},
+"benedicat": {
+"count": 1,
+"psalms": [
+127
+]
+},
+"benedices": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"benedicite": {
+"count": 3,
+"psalms": [
+102
+]
+},
+"benedico": {
+"count": 38,
+"psalms": [
+5,
+9,
+27,
+28,
+36,
+44,
+48,
+61,
+65,
+66,
+67,
+71,
+84,
+95,
+102,
+103,
+106,
+108,
+111,
+113,
+127,
+128,
+131,
+133,
+134,
+144,
+147
+]
+},
+"benedictio": {
+"count": 10,
+"psalms": [
+3,
+20,
+23,
+36,
+83,
+108,
+128,
+132,
+144
+]
+},
+"benedictum": {
+"count": 1,
+"psalms": [
+112
+]
+},
+"benedictus": {
+"count": 18,
+"psalms": [
+17,
+27,
+30,
+40,
+65,
+67,
+71,
+88,
+105,
+113,
+117,
+118,
+123,
+134,
+143
+]
+},
+"benedicus": {
+"count": 7,
+"psalms": [
+15,
+25,
+33,
+62,
+131,
+144
+]
+},
+"benediximus": {
+"count": 1,
+"psalms": [
+117
+]
+},
+"benedixit": {
+"count": 2,
+"psalms": [
+113
+]
+},
+"benefacio": {
+"count": 5,
+"psalms": [
+48,
+56,
+77,
+114,
+124
+]
+},
+"beneplaceo": {
+"count": 3,
+"psalms": [
+68,
+118,
+149
+]
+},
+"beneplacitum": {
+"count": 4,
+"psalms": [
+67,
+88,
+105,
+140
+]
+},
+"beneplacitus": {
+"count": 2,
+"psalms": [
+146
+]
+},
+"benesono": {
+"count": 1,
+"psalms": [
+150
+]
+},
+"beniamin": {
+"count": 2,
+"psalms": [
+67,
+79
+]
+},
+"benigne": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"benignitas": {
+"count": 3,
+"psalms": [
+51,
+64,
+84
+]
+},
+"benignus": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"bestia": {
+"count": 4,
+"psalms": [
+78,
+103,
+148
+]
+},
+"bestius": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"bibo": {
+"count": 4,
+"psalms": [
+68,
+74,
+77,
+109
+]
+},
+"bonitas": {
+"count": 8,
+"psalms": [
+24,
+36,
+37,
+103,
+105,
+118
+]
+},
+"bonum": {
+"count": 17,
+"psalms": [
+12,
+26,
+33,
+34,
+36,
+37,
+38,
+85,
+91,
+102,
+108,
+117,
+118,
+127,
+132
+]
+},
+"bonus": {
+"count": 36,
+"psalms": [
+4,
+5,
+13,
+15,
+24,
+33,
+35,
+44,
+50,
+51,
+52,
+53,
+62,
+64,
+72,
+83,
+105,
+106,
+110,
+117,
+118,
+121,
+124,
+134,
+135,
+142,
+146
+]
+},
+"bos": {
+"count": 4,
+"psalms": [
+8,
+49,
+65,
+143
+]
+},
+"bracchium": {
+"count": 11,
+"psalms": [
+9,
+43,
+70,
+76,
+78,
+88,
+97,
+135
+]
+},
+"brachium": {
+"count": 2,
+"psalms": [
+17,
+36
+]
+},
+"breuis": {
+"count": 2,
+"psalms": [
+2,
+104
+]
+},
+"bruchus": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"buccella": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"buccino": {
+"count": 1,
+"psalms": [
+80
+]
+},
+"cades": {
+"count": 1,
+"psalms": [
+28
+]
+},
+"cado": {
+"count": 19,
+"psalms": [
+9,
+15,
+17,
+19,
+21,
+26,
+34,
+35,
+36,
+44,
+54,
+68,
+77,
+81,
+90,
+117,
+139,
+140
+]
+},
+"caecus": {
+"count": 1,
+"psalms": [
+145
+]
+},
+"caelestis": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"caelius": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"caelum": {
+"count": 77,
+"psalms": [
+2,
+8,
+10,
+13,
+17,
+18,
+19,
+21,
+32,
+35,
+49,
+52,
+56,
+67,
+68,
+72,
+75,
+77,
+78,
+79,
+84,
+88,
+90,
+95,
+96,
+101,
+102,
+103,
+104,
+106,
+107,
+112,
+113,
+118,
+120,
+122,
+123,
+133,
+134,
+135,
+138,
+143,
+145,
+146,
+148
+]
+},
+"calamus": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"calcaneum": {
+"count": 2,
+"psalms": [
+48,
+55
+]
+},
+"calceamentum": {
+"count": 2,
+"psalms": [
+59,
+107
+]
+},
+"caligo": {
+"count": 2,
+"psalms": [
+17,
+96
+]
+},
+"calix": {
+"count": 5,
+"psalms": [
+10,
+15,
+22,
+74,
+115
+]
+},
+"calor": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"calumnia": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"calumnio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"calumnior": {
+"count": 2,
+"psalms": [
+71,
+118
+]
+},
+"campus": {
+"count": 8,
+"psalms": [
+8,
+64,
+77,
+95,
+103,
+131
+]
+},
+"camus": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"canis": {
+"count": 5,
+"psalms": [
+21,
+58,
+67
+]
+},
+"cantabilis": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"cantabo": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"cantatio": {
+"count": 1,
+"psalms": [
+70
+]
+},
+"canticum": {
+"count": 11,
+"psalms": [
+32,
+39,
+41,
+68,
+91,
+95,
+97,
+136,
+143,
+149
+]
+},
+"cantio": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"canto": {
+"count": 26,
+"psalms": [
+12,
+20,
+26,
+29,
+32,
+56,
+58,
+67,
+70,
+74,
+88,
+95,
+97,
+100,
+104,
+107,
+136,
+137,
+143,
+149
+]
+},
+"capillus": {
+"count": 3,
+"psalms": [
+39,
+67,
+68
+]
+},
+"capio": {
+"count": 6,
+"psalms": [
+36,
+54,
+58,
+67,
+105,
+139
+]
+},
+"captio": {
+"count": 2,
+"psalms": [
+34,
+123
+]
+},
+"captiuitas": {
+"count": 7,
+"psalms": [
+13,
+52,
+67,
+77,
+84,
+125
+]
+},
+"captiuus": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"capto": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"caput": {
+"count": 27,
+"psalms": [
+3,
+7,
+17,
+20,
+21,
+22,
+26,
+37,
+39,
+43,
+59,
+65,
+67,
+68,
+73,
+82,
+107,
+108,
+109,
+117,
+132,
+139,
+140
+]
+},
+"carbo": {
+"count": 5,
+"psalms": [
+17,
+119,
+139
+]
+},
+"carmen": {
+"count": 1,
+"psalms": [
+39
+]
+},
+"caro": {
+"count": 19,
+"psalms": [
+15,
+26,
+27,
+37,
+49,
+55,
+62,
+64,
+72,
+77,
+78,
+83,
+101,
+108,
+118,
+135,
+144
+]
+},
+"cassia": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"castigatio": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"castigo": {
+"count": 2,
+"psalms": [
+117
+]
+},
+"castra": {
+"count": 3,
+"psalms": [
+26,
+77,
+105
+]
+},
+"castus": {
+"count": 1,
+"psalms": [
+11
+]
+},
+"cataracta": {
+"count": 1,
+"psalms": [
+41
+]
+},
+"cathedra": {
+"count": 2,
+"psalms": [
+1,
+106
+]
+},
+"catulus": {
+"count": 3,
+"psalms": [
+16,
+56,
+103
+]
+},
+"causa": {
+"count": 6,
+"psalms": [
+3,
+9,
+34,
+42,
+72,
+73
+]
+},
+"cedar": {
+"count": 1,
+"psalms": [
+119
+]
+},
+"cedrus": {
+"count": 7,
+"psalms": [
+28,
+36,
+79,
+91,
+103,
+148
+]
+},
+"cera": {
+"count": 4,
+"psalms": [
+21,
+57,
+67,
+96
+]
+},
+"ceruix": {
+"count": 1,
+"psalms": [
+128
+]
+},
+"ceruus": {
+"count": 4,
+"psalms": [
+17,
+28,
+41,
+103
+]
+},
+"cesso": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"cham": {
+"count": 4,
+"psalms": [
+77,
+104,
+105
+]
+},
+"chanaan": {
+"count": 3,
+"psalms": [
+104,
+105,
+134
+]
+},
+"cherubim": {
+"count": 3,
+"psalms": [
+17,
+79,
+98
+]
+},
+"chorda": {
+"count": 2,
+"psalms": [
+32,
+150
+]
+},
+"chorus": {
+"count": 2,
+"psalms": [
+149,
+150
+]
+},
+"christus": {
+"count": 10,
+"psalms": [
+2,
+17,
+19,
+27,
+83,
+88,
+104,
+131
+]
+},
+"cibarium": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"cibo": {
+"count": 2,
+"psalms": [
+79,
+80
+]
+},
+"cibus": {
+"count": 3,
+"psalms": [
+52,
+54,
+64
+]
+},
+"cicatrix": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"cilicium": {
+"count": 2,
+"psalms": [
+34,
+68
+]
+},
+"cinifes": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"cinis": {
+"count": 2,
+"psalms": [
+101,
+147
+]
+},
+"circa": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"circueo": {
+"count": 5,
+"psalms": [
+26,
+58,
+117,
+139
+]
+},
+"circuitus": {
+"count": 16,
+"psalms": [
+11,
+17,
+30,
+33,
+43,
+49,
+75,
+78,
+88,
+96,
+124,
+127
+]
+},
+"circumamictus": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"circumdatus": {
+"count": 1,
+"psalms": [
+47
+]
+},
+"circumdo": {
+"count": 25,
+"psalms": [
+3,
+7,
+16,
+17,
+21,
+25,
+29,
+31,
+39,
+44,
+48,
+54,
+87,
+90,
+108,
+114,
+117
+]
+},
+"circumornatus": {
+"count": 1,
+"psalms": [
+143
+]
+},
+"circumplecto": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"circumsto": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"cisson": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"cithara": {
+"count": 11,
+"psalms": [
+32,
+42,
+56,
+70,
+80,
+91,
+97,
+107,
+146,
+150
+]
+},
+"cito": {
+"count": 3,
+"psalms": [
+36,
+78,
+105
+]
+},
+"ciuitas": {
+"count": 23,
+"psalms": [
+9,
+30,
+45,
+47,
+54,
+58,
+59,
+68,
+71,
+72,
+86,
+100,
+106,
+107,
+121,
+126,
+138
+]
+},
+"clamabo": {
+"count": 1,
+"psalms": [
+56
+]
+},
+"clamo": {
+"count": 42,
+"psalms": [
+3,
+4,
+16,
+17,
+21,
+26,
+27,
+29,
+30,
+31,
+33,
+54,
+60,
+64,
+65,
+68,
+76,
+85,
+87,
+90,
+106,
+113,
+118,
+119,
+129,
+140,
+141
+]
+},
+"clamor": {
+"count": 5,
+"psalms": [
+5,
+9,
+17,
+101,
+143
+]
+},
+"claudico": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"clerus": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"clibanus": {
+"count": 1,
+"psalms": [
+20
+]
+},
+"coagulo": {
+"count": 3,
+"psalms": [
+67,
+118
+]
+},
+"coarto": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"coenomyia": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"coenomyiam": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"coepio": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"cogitatio": {
+"count": 13,
+"psalms": [
+5,
+32,
+39,
+55,
+75,
+91,
+93,
+118,
+138,
+145
+]
+},
+"cogito": {
+"count": 16,
+"psalms": [
+9,
+20,
+34,
+37,
+40,
+51,
+61,
+72,
+76,
+82,
+118,
+139
+]
+},
+"cognatio": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"cognosco": {
+"count": 39,
+"psalms": [
+9,
+13,
+17,
+19,
+31,
+40,
+47,
+49,
+50,
+55,
+66,
+70,
+72,
+73,
+76,
+77,
+82,
+87,
+90,
+91,
+94,
+100,
+102,
+103,
+118,
+134,
+137,
+138,
+139,
+141
+]
+},
+"cognoui": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"collaudatio": {
+"count": 1,
+"psalms": [
+32
+]
+},
+"collido": {
+"count": 2,
+"psalms": [
+36,
+88
+]
+},
+"colligo": {
+"count": 2,
+"psalms": [
+103,
+128
+]
+},
+"collis": {
+"count": 6,
+"psalms": [
+64,
+71,
+77,
+113,
+148
+]
+},
+"colloco": {
+"count": 5,
+"psalms": [
+22,
+103,
+106,
+112,
+142
+]
+},
+"columba": {
+"count": 2,
+"psalms": [
+54,
+67
+]
+},
+"columna": {
+"count": 2,
+"psalms": [
+74,
+98
+]
+},
+"comburo": {
+"count": 5,
+"psalms": [
+45,
+82,
+104,
+105
+]
+},
+"comedo": {
+"count": 9,
+"psalms": [
+68,
+77,
+78,
+101,
+104,
+105
+]
+},
+"commendo": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"comminor": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"comminuo": {
+"count": 2,
+"psalms": [
+17,
+28
+]
+},
+"commisceo": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"commodo": {
+"count": 2,
+"psalms": [
+36,
+111
+]
+},
+"commoror": {
+"count": 2,
+"psalms": [
+30,
+90
+]
+},
+"commotio": {
+"count": 3,
+"psalms": [
+43,
+65,
+120
+]
+},
+"commoueo": {
+"count": 20,
+"psalms": [
+15,
+17,
+20,
+28,
+32,
+37,
+45,
+47,
+59,
+76,
+92,
+95,
+96,
+111,
+124
+]
+},
+"communico": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"commutatio": {
+"count": 3,
+"psalms": [
+43,
+54,
+88
+]
+},
+"commuto": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"comparo": {
+"count": 2,
+"psalms": [
+48
+]
+},
+"compedio": {
+"count": 3,
+"psalms": [
+78,
+101,
+145
+]
+},
+"compes": {
+"count": 2,
+"psalms": [
+104,
+149
+]
+},
+"compesco": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"complaceo": {
+"count": 6,
+"psalms": [
+18,
+25,
+34,
+39,
+43,
+48
+]
+},
+"complacitus": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"complector": {
+"count": 1,
+"psalms": [
+47
+]
+},
+"compono": {
+"count": 1,
+"psalms": [
+143
+]
+},
+"comprehendo": {
+"count": 9,
+"psalms": [
+7,
+9,
+17,
+39,
+58,
+68,
+70
+]
+},
+"compunctio": {
+"count": 1,
+"psalms": [
+59
+]
+},
+"compungo": {
+"count": 4,
+"psalms": [
+4,
+29,
+34,
+108
+]
+},
+"concaleo": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"concido": {
+"count": 2,
+"psalms": [
+88,
+128
+]
+},
+"concilium": {
+"count": 4,
+"psalms": [
+1,
+21,
+25,
+39
+]
+},
+"concinno": {
+"count": 2,
+"psalms": [
+49,
+57
+]
+},
+"concipio": {
+"count": 3,
+"psalms": [
+7,
+50
+]
+},
+"concito": {
+"count": 2,
+"psalms": [
+77
+]
+},
+"concludo": {
+"count": 5,
+"psalms": [
+16,
+30,
+34,
+77
+]
+},
+"conculco": {
+"count": 6,
+"psalms": [
+7,
+55,
+56,
+90,
+138
+]
+},
+"concupio": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"concupiscentia": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"concupisco": {
+"count": 4,
+"psalms": [
+44,
+61,
+83,
+118
+]
+},
+"concupiui": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"concupiuit": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"concutio": {
+"count": 1,
+"psalms": [
+28
+]
+},
+"condemno": {
+"count": 2,
+"psalms": [
+93,
+108
+]
+},
+"condenso": {
+"count": 1,
+"psalms": [
+28
+]
+},
+"condensus": {
+"count": 1,
+"psalms": [
+117
+]
+},
+"confessio": {
+"count": 8,
+"psalms": [
+41,
+94,
+95,
+99,
+103,
+110,
+146,
+148
+]
+},
+"confestim": {
+"count": 1,
+"psalms": [
+39
+]
+},
+"confido": {
+"count": 11,
+"psalms": [
+2,
+10,
+24,
+48,
+56,
+113,
+117,
+124,
+134,
+145
+]
+},
+"configo": {
+"count": 2,
+"psalms": [
+31,
+118
+]
+},
+"confirmo": {
+"count": 19,
+"psalms": [
+19,
+36,
+37,
+40,
+50,
+67,
+70,
+73,
+74,
+79,
+87,
+103,
+104,
+110,
+111,
+116,
+118
+]
+},
+"confitemini": {
+"count": 5,
+"psalms": [
+32,
+106,
+117,
+135
+]
+},
+"confiteor": {
+"count": 65,
+"psalms": [
+6,
+7,
+9,
+17,
+27,
+29,
+31,
+34,
+41,
+42,
+43,
+44,
+48,
+51,
+53,
+56,
+66,
+70,
+73,
+74,
+75,
+78,
+85,
+87,
+88,
+91,
+96,
+98,
+99,
+104,
+105,
+106,
+107,
+108,
+110,
+117,
+118,
+121,
+135,
+137,
+138,
+139,
+141,
+144
+]
+},
+"conforto": {
+"count": 10,
+"psalms": [
+9,
+17,
+26,
+30,
+68,
+88,
+138,
+141,
+147
+]
+},
+"confractio": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"confringam": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"confringo": {
+"count": 14,
+"psalms": [
+2,
+28,
+36,
+41,
+45,
+55,
+57,
+67,
+73,
+74,
+75,
+106,
+109
+]
+},
+"confugio": {
+"count": 1,
+"psalms": [
+142
+]
+},
+"confundo": {
+"count": 32,
+"psalms": [
+13,
+21,
+24,
+30,
+33,
+34,
+36,
+39,
+43,
+52,
+68,
+69,
+70,
+73,
+82,
+85,
+96,
+108,
+118,
+126,
+128
+]
+},
+"confusio": {
+"count": 9,
+"psalms": [
+34,
+39,
+43,
+68,
+70,
+88,
+108,
+131
+]
+},
+"conglutino": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"congregate": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"congregatio": {
+"count": 5,
+"psalms": [
+61,
+67,
+73,
+105,
+110
+]
+},
+"congrego": {
+"count": 11,
+"psalms": [
+15,
+32,
+34,
+38,
+40,
+46,
+47,
+103,
+105,
+106,
+146
+]
+},
+"coniungo": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"conquasso": {
+"count": 1,
+"psalms": [
+109
+]
+},
+"conscindo": {
+"count": 1,
+"psalms": [
+29
+]
+},
+"conscribo": {
+"count": 1,
+"psalms": [
+149
+]
+},
+"consensus": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"conseruo": {
+"count": 3,
+"psalms": [
+15,
+36,
+40
+]
+},
+"considerat": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"considero": {
+"count": 7,
+"psalms": [
+9,
+21,
+90,
+93,
+118,
+141
+]
+},
+"consilior": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"consilium": {
+"count": 18,
+"psalms": [
+1,
+9,
+12,
+13,
+19,
+20,
+32,
+65,
+70,
+82,
+88,
+105,
+106,
+110,
+118
+]
+},
+"consisto": {
+"count": 2,
+"psalms": [
+26,
+38
+]
+},
+"consolatio": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"consolor": {
+"count": 10,
+"psalms": [
+22,
+68,
+70,
+76,
+85,
+118,
+125
+]
+},
+"consors": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"conspectus": {
+"count": 53,
+"psalms": [
+5,
+9,
+14,
+15,
+17,
+18,
+21,
+22,
+30,
+35,
+37,
+40,
+49,
+51,
+53,
+55,
+60,
+67,
+68,
+78,
+79,
+85,
+87,
+88,
+89,
+95,
+97,
+99,
+100,
+105,
+108,
+115,
+118,
+137,
+140,
+141,
+142
+]
+},
+"conspicio": {
+"count": 2,
+"psalms": [
+16,
+21
+]
+},
+"constitue": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"constituo": {
+"count": 12,
+"psalms": [
+2,
+4,
+8,
+17,
+40,
+44,
+88,
+104,
+106,
+108,
+117,
+139
+]
+},
+"constringo": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"consummatio": {
+"count": 3,
+"psalms": [
+58,
+118
+]
+},
+"consummo": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"consumo": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"consurgo": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"contamino": {
+"count": 2,
+"psalms": [
+54,
+105
+]
+},
+"contego": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"contemno": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"contemptio": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"contemptus": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"contero": {
+"count": 13,
+"psalms": [
+3,
+9,
+33,
+36,
+45,
+47,
+50,
+57,
+104,
+106,
+123,
+146
+]
+},
+"contestor": {
+"count": 1,
+"psalms": [
+80
+]
+},
+"contineo": {
+"count": 2,
+"psalms": [
+76,
+88
+]
+},
+"contra": {
+"count": 8,
+"psalms": [
+43,
+49,
+50,
+63,
+70,
+76,
+108,
+139
+]
+},
+"contradictio": {
+"count": 6,
+"psalms": [
+17,
+30,
+54,
+79,
+80,
+105
+]
+},
+"contremo": {
+"count": 2,
+"psalms": [
+17,
+76
+]
+},
+"contribulo": {
+"count": 2,
+"psalms": [
+50,
+73
+]
+},
+"contristatus": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"contristo": {
+"count": 4,
+"psalms": [
+34,
+37,
+41,
+68
+]
+},
+"contritio": {
+"count": 3,
+"psalms": [
+13,
+59,
+146
+]
+},
+"conturbatio": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"conturbo": {
+"count": 31,
+"psalms": [
+2,
+6,
+17,
+20,
+29,
+30,
+37,
+38,
+41,
+42,
+45,
+47,
+54,
+56,
+59,
+63,
+64,
+82,
+87,
+108,
+143
+]
+},
+"conuallis": {
+"count": 3,
+"psalms": [
+59,
+103,
+107
+]
+},
+"conuenio": {
+"count": 5,
+"psalms": [
+2,
+30,
+34,
+47,
+101
+]
+},
+"conuenticulum": {
+"count": 1,
+"psalms": [
+15
+]
+},
+"conuentus": {
+"count": 1,
+"psalms": [
+63
+]
+},
+"conuertere": {
+"count": 2,
+"psalms": [
+6,
+89
+]
+},
+"conuertimini": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"conuerto": {
+"count": 48,
+"psalms": [
+6,
+7,
+9,
+17,
+18,
+21,
+22,
+29,
+31,
+34,
+39,
+50,
+52,
+55,
+58,
+65,
+67,
+70,
+72,
+77,
+79,
+84,
+88,
+93,
+103,
+104,
+113,
+114,
+118,
+125,
+128
+]
+},
+"conuertus": {
+"count": 1,
+"psalms": [
+125
+]
+},
+"cooperio": {
+"count": 2,
+"psalms": [
+43
+]
+},
+"cophinus": {
+"count": 1,
+"psalms": [
+80
+]
+},
+"copiosus": {
+"count": 1,
+"psalms": [
+129
+]
+},
+"cor": {
+"count": 141,
+"psalms": [
+4,
+5,
+7,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+18,
+19,
+20,
+21,
+23,
+24,
+25,
+26,
+27,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+43,
+44,
+45,
+47,
+48,
+50,
+52,
+54,
+56,
+57,
+60,
+61,
+63,
+65,
+68,
+72,
+73,
+75,
+76,
+77,
+80,
+83,
+84,
+85,
+89,
+93,
+94,
+96,
+100,
+101,
+103,
+104,
+106,
+107,
+108,
+110,
+111,
+118,
+124,
+130,
+137,
+138,
+139,
+140,
+142,
+146
+]
+},
+"coram": {
+"count": 12,
+"psalms": [
+50,
+55,
+61,
+68,
+71,
+77,
+78,
+79,
+85,
+87,
+115
+]
+},
+"corneus": {
+"count": 1,
+"psalms": [
+97
+]
+},
+"cornu": {
+"count": 15,
+"psalms": [
+17,
+21,
+43,
+68,
+74,
+88,
+91,
+111,
+117,
+131,
+148
+]
+},
+"corona": {
+"count": 2,
+"psalms": [
+20,
+64
+]
+},
+"corono": {
+"count": 3,
+"psalms": [
+5,
+8,
+102
+]
+},
+"correctio": {
+"count": 1,
+"psalms": [
+96
+]
+},
+"corrigo": {
+"count": 3,
+"psalms": [
+17,
+95,
+118
+]
+},
+"corripio": {
+"count": 7,
+"psalms": [
+6,
+37,
+38,
+89,
+93,
+104,
+140
+]
+},
+"corroboro": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"corruo": {
+"count": 1,
+"psalms": [
+144
+]
+},
+"corruptae": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"corrupti": {
+"count": 2,
+"psalms": [
+13,
+52
+]
+},
+"corruptio": {
+"count": 2,
+"psalms": [
+15,
+29
+]
+},
+"coruscatio": {
+"count": 2,
+"psalms": [
+76,
+143
+]
+},
+"coruus": {
+"count": 1,
+"psalms": [
+146
+]
+},
+"cottidie": {
+"count": 2,
+"psalms": [
+41,
+67
+]
+},
+"coturnix": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"crapulor": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"crassitudo": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"crassus": {
+"count": 1,
+"psalms": [
+143
+]
+},
+"credibilis": {
+"count": 1,
+"psalms": [
+92
+]
+},
+"credidi": {
+"count": 1,
+"psalms": [
+115
+]
+},
+"credo": {
+"count": 8,
+"psalms": [
+26,
+67,
+77,
+105,
+118
+]
+},
+"cremium": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"creo": {
+"count": 6,
+"psalms": [
+32,
+50,
+88,
+101,
+103,
+148
+]
+},
+"crystallum": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"cubile": {
+"count": 4,
+"psalms": [
+4,
+35,
+103,
+149
+]
+},
+"cum": {
+"count": 134,
+"psalms": [
+2,
+4,
+9,
+13,
+15,
+16,
+17,
+20,
+21,
+22,
+25,
+27,
+33,
+34,
+36,
+37,
+38,
+45,
+46,
+47,
+48,
+49,
+50,
+52,
+54,
+57,
+63,
+65,
+67,
+68,
+70,
+71,
+72,
+74,
+75,
+76,
+77,
+80,
+82,
+85,
+87,
+88,
+90,
+91,
+93,
+100,
+101,
+103,
+104,
+105,
+106,
+108,
+112,
+113,
+118,
+119,
+123,
+124,
+125,
+126,
+135,
+136,
+138,
+139,
+140,
+142,
+148
+]
+},
+"cur": {
+"count": 1,
+"psalms": [
+48
+]
+},
+"cura": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"curro": {
+"count": 6,
+"psalms": [
+18,
+49,
+58,
+61,
+118,
+147
+]
+},
+"currus": {
+"count": 2,
+"psalms": [
+19,
+67
+]
+},
+"curuo": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"custodia": {
+"count": 14,
+"psalms": [
+38,
+78,
+89,
+118,
+129,
+140,
+141
+]
+},
+"custodiens": {
+"count": 1,
+"psalms": [
+114
+]
+},
+"custodio": {
+"count": 42,
+"psalms": [
+11,
+16,
+17,
+18,
+33,
+58,
+70,
+77,
+88,
+90,
+96,
+98,
+104,
+105,
+106,
+118,
+120,
+126,
+131,
+144,
+145
+]
+},
+"custos": {
+"count": 7,
+"psalms": [
+16,
+24,
+36,
+85,
+139,
+140
+]
+},
+"cymbalum": {
+"count": 2,
+"psalms": [
+150
+]
+},
+"da": {
+"count": 6,
+"psalms": [
+27,
+59,
+85,
+107,
+118
+]
+},
+"daemonium": {
+"count": 3,
+"psalms": [
+90,
+95,
+105
+]
+},
+"damno": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"dante": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"dathas": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"dauid": {
+"count": 12,
+"psalms": [
+17,
+77,
+88,
+121,
+131,
+143
+]
+},
+"de": {
+"count": 165,
+"psalms": [
+2,
+3,
+9,
+13,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+24,
+30,
+32,
+33,
+34,
+37,
+39,
+41,
+42,
+43,
+48,
+49,
+50,
+51,
+52,
+54,
+55,
+56,
+58,
+59,
+60,
+61,
+62,
+67,
+68,
+70,
+71,
+73,
+75,
+77,
+79,
+80,
+81,
+82,
+83,
+84,
+86,
+87,
+88,
+90,
+93,
+95,
+96,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+112,
+113,
+114,
+117,
+118,
+121,
+123,
+128,
+129,
+131,
+134,
+135,
+136,
+138,
+139,
+141,
+142,
+143,
+148
+]
+},
+"dealbo": {
+"count": 2,
+"psalms": [
+50,
+67
+]
+},
+"deargento": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"deauro": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"decachordum": {
+"count": 2,
+"psalms": [
+91,
+143
+]
+},
+"decem": {
+"count": 3,
+"psalms": [
+32,
+67,
+90
+]
+},
+"decet": {
+"count": 3,
+"psalms": [
+32,
+64,
+92
+]
+},
+"decido": {
+"count": 4,
+"psalms": [
+5,
+7,
+36,
+89
+]
+},
+"decipio": {
+"count": 3,
+"psalms": [
+14,
+61,
+76
+]
+},
+"declaratio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"declinantes": {
+"count": 1,
+"psalms": [
+124
+]
+},
+"declino": {
+"count": 18,
+"psalms": [
+13,
+16,
+20,
+26,
+36,
+43,
+52,
+54,
+100,
+101,
+108,
+118,
+138,
+140
+]
+},
+"decor": {
+"count": 5,
+"psalms": [
+20,
+25,
+44,
+92,
+103
+]
+},
+"decorus": {
+"count": 1,
+"psalms": [
+146
+]
+},
+"decurro": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"decursus": {
+"count": 1,
+"psalms": [
+1
+]
+},
+"decus": {
+"count": 2,
+"psalms": [
+29,
+49
+]
+},
+"deduco": {
+"count": 34,
+"psalms": [
+5,
+7,
+14,
+21,
+22,
+30,
+42,
+44,
+54,
+58,
+59,
+60,
+72,
+76,
+77,
+79,
+85,
+105,
+106,
+107,
+118,
+138,
+142
+]
+},
+"defectio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"defensio": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"deficio": {
+"count": 32,
+"psalms": [
+9,
+11,
+17,
+30,
+36,
+38,
+54,
+63,
+67,
+68,
+70,
+72,
+76,
+77,
+83,
+89,
+101,
+103,
+106,
+118,
+141,
+142
+]
+},
+"defluo": {
+"count": 1,
+"psalms": [
+1
+]
+},
+"deglutio": {
+"count": 2,
+"psalms": [
+105,
+123
+]
+},
+"deicio": {
+"count": 5,
+"psalms": [
+36,
+72,
+73,
+105,
+139
+]
+},
+"delectatio": {
+"count": 1,
+"psalms": [
+15
+]
+},
+"delecto": {
+"count": 13,
+"psalms": [
+29,
+34,
+36,
+44,
+50,
+64,
+67,
+76,
+89,
+91,
+103,
+118
+]
+},
+"deleo": {
+"count": 6,
+"psalms": [
+17,
+50,
+68,
+108
+]
+},
+"delestus": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"delicia": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"delicta": {
+"count": 1,
+"psalms": [
+24
+]
+},
+"delictum": {
+"count": 8,
+"psalms": [
+18,
+21,
+24,
+31,
+58,
+67,
+68
+]
+},
+"delinquo": {
+"count": 7,
+"psalms": [
+24,
+33,
+35,
+38,
+74,
+118
+]
+},
+"demergo": {
+"count": 2,
+"psalms": [
+68
+]
+},
+"demonstro": {
+"count": 1,
+"psalms": [
+24
+]
+},
+"demoror": {
+"count": 2,
+"psalms": [
+24,
+29
+]
+},
+"dens": {
+"count": 7,
+"psalms": [
+3,
+34,
+36,
+56,
+57,
+111,
+123
+]
+},
+"depasco": {
+"count": 2,
+"psalms": [
+48,
+79
+]
+},
+"depello": {
+"count": 1,
+"psalms": [
+61
+]
+},
+"depono": {
+"count": 1,
+"psalms": [
+58
+]
+},
+"deprecabilis": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"deprecatio": {
+"count": 15,
+"psalms": [
+6,
+16,
+21,
+27,
+38,
+54,
+60,
+65,
+85,
+118,
+129,
+139,
+141,
+144
+]
+},
+"deprecor": {
+"count": 6,
+"psalms": [
+29,
+44,
+63,
+118,
+134,
+141
+]
+},
+"deprimo": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"derelin": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"derelinquo": {
+"count": 21,
+"psalms": [
+9,
+15,
+21,
+26,
+36,
+37,
+39,
+70,
+88,
+93,
+118,
+139
+]
+},
+"derideo": {
+"count": 3,
+"psalms": [
+21,
+43,
+58
+]
+},
+"descendo": {
+"count": 20,
+"psalms": [
+7,
+17,
+21,
+27,
+29,
+48,
+54,
+71,
+87,
+103,
+106,
+113,
+132,
+138,
+142,
+143
+]
+},
+"desero": {
+"count": 4,
+"psalms": [
+62,
+64,
+77,
+106
+]
+},
+"desertum": {
+"count": 9,
+"psalms": [
+28,
+67,
+77,
+94,
+105,
+106
+]
+},
+"desertus": {
+"count": 4,
+"psalms": [
+28,
+68,
+74,
+135
+]
+},
+"desiderabilis": {
+"count": 2,
+"psalms": [
+18,
+105
+]
+},
+"desiderium": {
+"count": 10,
+"psalms": [
+9,
+20,
+37,
+77,
+80,
+102,
+111,
+126,
+139
+]
+},
+"desiderius": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"desidero": {
+"count": 4,
+"psalms": [
+41,
+118
+]
+},
+"desino": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"desolatio": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"desolatorius": {
+"count": 1,
+"psalms": [
+119
+]
+},
+"desolo": {
+"count": 1,
+"psalms": [
+78
+]
+},
+"despectio": {
+"count": 2,
+"psalms": [
+122
+]
+},
+"despicio": {
+"count": 12,
+"psalms": [
+9,
+21,
+26,
+50,
+53,
+54,
+68,
+88,
+91,
+111,
+117,
+137
+]
+},
+"destruo": {
+"count": 9,
+"psalms": [
+8,
+9,
+10,
+27,
+51,
+59,
+79,
+88
+]
+},
+"desum": {
+"count": 2,
+"psalms": [
+22,
+38
+]
+},
+"desuper": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"desursum": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"detrahentem": {
+"count": 1,
+"psalms": [
+100
+]
+},
+"detraho": {
+"count": 5,
+"psalms": [
+37,
+70,
+108
+]
+},
+"deuenio": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"deuorauimus": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"deuoro": {
+"count": 4,
+"psalms": [
+13,
+20,
+52,
+106
+]
+},
+"deus": {
+"count": 465,
+"psalms": [
+3,
+4,
+5,
+7,
+9,
+12,
+13,
+15,
+16,
+17,
+18,
+19,
+21,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+32,
+34,
+35,
+36,
+37,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+103,
+104,
+105,
+106,
+107,
+108,
+112,
+113,
+114,
+117,
+118,
+121,
+122,
+131,
+133,
+134,
+135,
+138,
+139,
+142,
+143,
+144,
+145,
+146,
+147,
+149
+]
+},
+"dexter": {
+"count": 16,
+"psalms": [
+15,
+17,
+20,
+25,
+43,
+44,
+88,
+90,
+108,
+109,
+117,
+143
+]
+},
+"dextera": {
+"count": 25,
+"psalms": [
+15,
+16,
+19,
+44,
+47,
+59,
+62,
+72,
+73,
+76,
+77,
+79,
+88,
+97,
+107,
+117,
+120,
+136,
+137,
+138,
+141,
+143
+]
+},
+"dexteram": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"diabolus": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"dico": {
+"count": 113,
+"psalms": [
+2,
+3,
+4,
+9,
+10,
+11,
+12,
+13,
+15,
+17,
+26,
+28,
+29,
+30,
+31,
+32,
+34,
+35,
+37,
+38,
+39,
+40,
+41,
+44,
+49,
+51,
+52,
+54,
+56,
+57,
+60,
+63,
+64,
+65,
+67,
+69,
+70,
+72,
+73,
+74,
+76,
+77,
+78,
+81,
+82,
+86,
+88,
+89,
+90,
+93,
+94,
+95,
+104,
+105,
+106,
+109,
+113,
+115,
+117,
+118,
+121,
+123,
+125,
+128,
+136,
+138,
+139,
+141,
+143,
+144,
+148
+]
+},
+"dies": {
+"count": 122,
+"psalms": [
+1,
+7,
+12,
+17,
+18,
+19,
+20,
+21,
+22,
+24,
+26,
+31,
+33,
+34,
+36,
+37,
+38,
+40,
+41,
+43,
+48,
+49,
+51,
+54,
+55,
+58,
+60,
+67,
+70,
+71,
+72,
+73,
+75,
+76,
+77,
+80,
+83,
+85,
+87,
+88,
+89,
+90,
+92,
+93,
+94,
+95,
+101,
+102,
+108,
+109,
+114,
+117,
+118,
+120,
+127,
+135,
+136,
+137,
+138,
+139,
+142,
+143,
+144,
+145
+]
+},
+"differo": {
+"count": 3,
+"psalms": [
+77,
+80,
+88
+]
+},
+"diffundo": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"digitus": {
+"count": 2,
+"psalms": [
+8,
+143
+]
+},
+"diiudico": {
+"count": 1,
+"psalms": [
+81
+]
+},
+"dilato": {
+"count": 4,
+"psalms": [
+4,
+17,
+34,
+118
+]
+},
+"dilectio": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"dilectus": {
+"count": 3,
+"psalms": [
+28,
+59,
+107
+]
+},
+"dilego": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"diligo": {
+"count": 45,
+"psalms": [
+4,
+5,
+10,
+17,
+25,
+30,
+32,
+33,
+39,
+44,
+46,
+50,
+51,
+67,
+68,
+69,
+77,
+83,
+86,
+96,
+98,
+108,
+114,
+118,
+121,
+126,
+144,
+145
+]
+},
+"diluculum": {
+"count": 6,
+"psalms": [
+45,
+56,
+77,
+107,
+118,
+138
+]
+},
+"diluuio": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"diluuium": {
+"count": 1,
+"psalms": [
+28
+]
+},
+"dimetior": {
+"count": 1,
+"psalms": [
+107
+]
+},
+"dimidio": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"dimidium": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"diminuo": {
+"count": 1,
+"psalms": [
+11
+]
+},
+"dimitto": {
+"count": 4,
+"psalms": [
+16,
+24,
+80,
+104
+]
+},
+"dinumero": {
+"count": 3,
+"psalms": [
+21,
+89,
+138
+]
+},
+"diploide": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"directio": {
+"count": 3,
+"psalms": [
+44,
+98,
+118
+]
+},
+"dirigo": {
+"count": 21,
+"psalms": [
+5,
+7,
+24,
+25,
+26,
+36,
+39,
+58,
+66,
+77,
+89,
+100,
+101,
+118,
+139,
+140
+]
+},
+"diripio": {
+"count": 4,
+"psalms": [
+34,
+43,
+88,
+108
+]
+},
+"dirumpo": {
+"count": 4,
+"psalms": [
+2,
+73,
+104,
+115
+]
+},
+"discedo": {
+"count": 6,
+"psalms": [
+6,
+21,
+34,
+37,
+79,
+118
+]
+},
+"discerno": {
+"count": 3,
+"psalms": [
+42,
+49,
+67
+]
+},
+"disciplina": {
+"count": 5,
+"psalms": [
+2,
+17,
+49,
+118
+]
+},
+"disco": {
+"count": 4,
+"psalms": [
+105,
+118
+]
+},
+"disperdo": {
+"count": 16,
+"psalms": [
+11,
+17,
+43,
+53,
+77,
+82,
+93,
+100,
+105,
+142,
+144,
+145
+]
+},
+"dispereo": {
+"count": 4,
+"psalms": [
+36,
+82,
+108
+]
+},
+"dispergo": {
+"count": 9,
+"psalms": [
+21,
+43,
+58,
+88,
+91,
+105,
+111
+]
+},
+"dispersio": {
+"count": 1,
+"psalms": [
+146
+]
+},
+"dispono": {
+"count": 5,
+"psalms": [
+82,
+83,
+88,
+104,
+111
+]
+},
+"disrumpo": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"dissipa": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"dissipo": {
+"count": 8,
+"psalms": [
+17,
+32,
+34,
+52,
+67,
+118,
+140,
+143
+]
+},
+"distillo": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"distinguo": {
+"count": 2,
+"psalms": [
+65,
+105
+]
+},
+"disto": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"distribuo": {
+"count": 1,
+"psalms": [
+47
+]
+},
+"distributio": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"diuerto": {
+"count": 2,
+"psalms": [
+33,
+80
+]
+},
+"diues": {
+"count": 5,
+"psalms": [
+9,
+33,
+44,
+48
+]
+},
+"diuido": {
+"count": 8,
+"psalms": [
+16,
+21,
+54,
+67,
+77,
+107,
+135
+]
+},
+"diuisio": {
+"count": 1,
+"psalms": [
+135
+]
+},
+"diuitiae": {
+"count": 10,
+"psalms": [
+36,
+48,
+51,
+61,
+72,
+75,
+111,
+118
+]
+},
+"do": {
+"count": 82,
+"psalms": [
+1,
+2,
+4,
+13,
+14,
+15,
+17,
+20,
+24,
+28,
+30,
+31,
+36,
+38,
+43,
+45,
+48,
+50,
+52,
+54,
+56,
+59,
+60,
+65,
+66,
+67,
+68,
+71,
+73,
+76,
+77,
+79,
+80,
+83,
+84,
+98,
+103,
+104,
+105,
+110,
+111,
+113,
+118,
+119,
+120,
+123,
+126,
+131,
+134,
+135,
+136,
+143,
+144,
+145,
+146,
+147
+]
+},
+"doceo": {
+"count": 23,
+"psalms": [
+17,
+24,
+33,
+50,
+70,
+93,
+104,
+118,
+131,
+142,
+143
+]
+},
+"doleo": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"dolor": {
+"count": 18,
+"psalms": [
+7,
+9,
+12,
+17,
+30,
+37,
+38,
+40,
+47,
+68,
+89,
+93,
+106,
+114,
+126
+]
+},
+"dolores": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"dolose": {
+"count": 2,
+"psalms": [
+5,
+35
+]
+},
+"dolosus": {
+"count": 13,
+"psalms": [
+5,
+11,
+13,
+16,
+30,
+42,
+51,
+54,
+108,
+119
+]
+},
+"dolus": {
+"count": 13,
+"psalms": [
+9,
+14,
+23,
+31,
+33,
+34,
+35,
+37,
+49,
+51,
+54,
+72,
+104
+]
+},
+"domicilium": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"domina": {
+"count": 1,
+"psalms": [
+122
+]
+},
+"dominatio": {
+"count": 2,
+"psalms": [
+102,
+144
+]
+},
+"domino": {
+"count": 1,
+"psalms": [
+109
+]
+},
+"dominor": {
+"count": 12,
+"psalms": [
+9,
+18,
+21,
+48,
+58,
+65,
+71,
+88,
+102,
+105,
+118
+]
+},
+"dominus": {
+"count": 797,
+"psalms": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+43,
+44,
+45,
+46,
+47,
+49,
+50,
+53,
+54,
+55,
+56,
+57,
+58,
+61,
+63,
+65,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+119,
+120,
+121,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+129,
+130,
+131,
+132,
+133,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+147,
+148,
+149,
+150
+]
+},
+"domus": {
+"count": 56,
+"psalms": [
+5,
+22,
+25,
+26,
+30,
+35,
+41,
+44,
+47,
+48,
+49,
+51,
+54,
+64,
+65,
+67,
+68,
+73,
+83,
+91,
+92,
+97,
+100,
+103,
+104,
+111,
+112,
+113,
+115,
+117,
+121,
+126,
+127,
+131,
+133,
+134
+]
+},
+"donec": {
+"count": 14,
+"psalms": [
+17,
+56,
+57,
+70,
+71,
+72,
+93,
+104,
+109,
+111,
+122,
+131,
+140,
+141
+]
+},
+"donum": {
+"count": 2,
+"psalms": [
+67,
+71
+]
+},
+"dormio": {
+"count": 9,
+"psalms": [
+3,
+4,
+40,
+56,
+67,
+75,
+77,
+87,
+120
+]
+},
+"dormitatio": {
+"count": 1,
+"psalms": [
+131
+]
+},
+"dormito": {
+"count": 4,
+"psalms": [
+75,
+118,
+120
+]
+},
+"dorsum": {
+"count": 7,
+"psalms": [
+17,
+20,
+65,
+67,
+68,
+80,
+128
+]
+},
+"draco": {
+"count": 5,
+"psalms": [
+73,
+90,
+103,
+148
+]
+},
+"duco": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"ductilis": {
+"count": 1,
+"psalms": [
+97
+]
+},
+"dulcedo": {
+"count": 3,
+"psalms": [
+20,
+30,
+67
+]
+},
+"dulcis": {
+"count": 4,
+"psalms": [
+18,
+24,
+54,
+118
+]
+},
+"dum": {
+"count": 22,
+"psalms": [
+7,
+9,
+26,
+27,
+29,
+30,
+31,
+37,
+41,
+42,
+45,
+60,
+67,
+68,
+72
+]
+},
+"duo": {
+"count": 1,
+"psalms": [
+61
+]
+},
+"durus": {
+"count": 2,
+"psalms": [
+16,
+59
+]
+},
+"dux": {
+"count": 4,
+"psalms": [
+54,
+67,
+79,
+103
+]
+},
+"ebrius": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"eburneus": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"ecce": {
+"count": 33,
+"psalms": [
+7,
+10,
+32,
+36,
+38,
+39,
+47,
+50,
+51,
+53,
+54,
+55,
+58,
+67,
+72,
+82,
+86,
+91,
+118,
+120,
+122,
+126,
+127,
+131,
+132,
+133,
+138
+]
+},
+"ecclesia": {
+"count": 10,
+"psalms": [
+21,
+25,
+34,
+39,
+67,
+88,
+106,
+149
+]
+},
+"edo": {
+"count": 5,
+"psalms": [
+21,
+26,
+40,
+100,
+104
+]
+},
+"edoceo": {
+"count": 1,
+"psalms": [
+24
+]
+},
+"edom": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"educes": {
+"count": 2,
+"psalms": [
+30,
+142
+]
+},
+"educo": {
+"count": 18,
+"psalms": [
+17,
+22,
+29,
+36,
+39,
+65,
+67,
+77,
+80,
+103,
+104,
+106,
+134,
+135,
+141
+]
+},
+"effero": {
+"count": 2,
+"psalms": [
+82,
+130
+]
+},
+"efficio": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"effloreo": {
+"count": 2,
+"psalms": [
+102,
+131
+]
+},
+"effodio": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"effor": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"effundo": {
+"count": 13,
+"psalms": [
+13,
+21,
+34,
+41,
+61,
+68,
+72,
+78,
+105,
+106,
+141
+]
+},
+"egenus": {
+"count": 6,
+"psalms": [
+34,
+40,
+69,
+81,
+108
+]
+},
+"egeo": {
+"count": 2,
+"psalms": [
+15,
+33
+]
+},
+"ego": {
+"count": 750,
+"psalms": [
+2,
+3,
+4,
+5,
+6,
+7,
+9,
+11,
+12,
+15,
+16,
+17,
+18,
+21,
+22,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+33,
+34,
+35,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+48,
+49,
+50,
+51,
+53,
+54,
+55,
+56,
+58,
+59,
+60,
+62,
+63,
+65,
+68,
+69,
+70,
+72,
+74,
+76,
+80,
+81,
+84,
+85,
+86,
+87,
+88,
+90,
+91,
+93,
+94,
+100,
+101,
+102,
+103,
+107,
+108,
+114,
+115,
+117,
+118,
+119,
+120,
+121,
+128,
+130,
+134,
+137,
+138,
+139,
+140,
+141,
+142,
+143
+]
+},
+"egoipse": {
+"count": 1,
+"psalms": [
+41
+]
+},
+"egredior": {
+"count": 6,
+"psalms": [
+40,
+43,
+59,
+67,
+87,
+143
+]
+},
+"egressio": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"eicio": {
+"count": 3,
+"psalms": [
+77,
+79,
+108
+]
+},
+"elatio": {
+"count": 1,
+"psalms": [
+92
+]
+},
+"elegi": {
+"count": 1,
+"psalms": [
+83
+]
+},
+"eleuatio": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"eleuo": {
+"count": 10,
+"psalms": [
+8,
+23,
+36,
+46,
+92,
+101,
+105
+]
+},
+"elido": {
+"count": 2,
+"psalms": [
+144,
+145
+]
+},
+"eligo": {
+"count": 24,
+"psalms": [
+17,
+24,
+32,
+46,
+64,
+77,
+88,
+104,
+105,
+118,
+131,
+134,
+140
+]
+},
+"elongasti": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"elongo": {
+"count": 5,
+"psalms": [
+21,
+54,
+70,
+72,
+108
+]
+},
+"eloquium": {
+"count": 28,
+"psalms": [
+11,
+17,
+18,
+103,
+104,
+106,
+118,
+147
+]
+},
+"emigro": {
+"count": 2,
+"psalms": [
+51,
+61
+]
+},
+"emitte": {
+"count": 1,
+"psalms": [
+42
+]
+},
+"emitto": {
+"count": 7,
+"psalms": [
+103,
+109,
+143,
+147
+]
+},
+"emundatio": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"emundo": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"enarro": {
+"count": 4,
+"psalms": [
+18,
+25,
+47,
+49
+]
+},
+"endor": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"enim": {
+"count": 23,
+"psalms": [
+9,
+24,
+43,
+49,
+50,
+53,
+54,
+61,
+72,
+80,
+88,
+106,
+118,
+121,
+134
+]
+},
+"enuntio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"enutrio": {
+"count": 2,
+"psalms": [
+30,
+54
+]
+},
+"eo": {
+"count": 39,
+"psalms": [
+2,
+7,
+11,
+17,
+23,
+30,
+32,
+33,
+36,
+48,
+49,
+54,
+61,
+62,
+63,
+67,
+73,
+77,
+80,
+83,
+88,
+91,
+97,
+106,
+108,
+118,
+121,
+125,
+138,
+149
+]
+},
+"ephraim": {
+"count": 4,
+"psalms": [
+59,
+77,
+79,
+107
+]
+},
+"ephrata": {
+"count": 1,
+"psalms": [
+131
+]
+},
+"ephres": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"episcopatus": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"epulor": {
+"count": 2,
+"psalms": [
+41,
+67
+]
+},
+"equus": {
+"count": 5,
+"psalms": [
+19,
+31,
+32,
+75,
+146
+]
+},
+"eremus": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"ergo": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"erigo": {
+"count": 4,
+"psalms": [
+19,
+112,
+144,
+145
+]
+},
+"eripio": {
+"count": 37,
+"psalms": [
+6,
+16,
+17,
+21,
+30,
+33,
+34,
+49,
+53,
+55,
+56,
+58,
+63,
+68,
+70,
+81,
+90,
+106,
+114,
+118,
+123,
+139,
+142,
+143
+]
+},
+"erro": {
+"count": 6,
+"psalms": [
+57,
+94,
+106,
+118
+]
+},
+"erubesco": {
+"count": 10,
+"psalms": [
+6,
+24,
+30,
+34,
+68,
+69,
+82
+]
+},
+"eructo": {
+"count": 5,
+"psalms": [
+18,
+44,
+118,
+143,
+144
+]
+},
+"erudio": {
+"count": 4,
+"psalms": [
+2,
+89,
+93,
+104
+]
+},
+"erumpo": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"eruo": {
+"count": 14,
+"psalms": [
+21,
+24,
+30,
+31,
+32,
+36,
+38,
+39,
+42,
+49,
+85,
+88,
+143
+]
+},
+"esca": {
+"count": 15,
+"psalms": [
+13,
+43,
+68,
+73,
+77,
+78,
+103,
+106,
+110,
+135,
+144,
+145,
+146
+]
+},
+"esurio": {
+"count": 6,
+"psalms": [
+33,
+49,
+106,
+145
+]
+},
+"et": {
+"count": 2091,
+"psalms": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+119,
+120,
+121,
+122,
+123,
+124,
+125,
+127,
+128,
+129,
+130,
+131,
+132,
+133,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+147,
+148,
+149,
+150
+]
+},
+"etenim": {
+"count": 21,
+"psalms": [
+15,
+18,
+24,
+36,
+40,
+57,
+64,
+67,
+76,
+82,
+83,
+84,
+88,
+92,
+95,
+118,
+128,
+138
+]
+},
+"ethan": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"euagino": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"euangelizo": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"euello": {
+"count": 3,
+"psalms": [
+24,
+51,
+128
+]
+},
+"euerto": {
+"count": 2,
+"psalms": [
+88,
+117
+]
+},
+"euge": {
+"count": 8,
+"psalms": [
+34,
+39,
+69
+]
+},
+"euntes": {
+"count": 1,
+"psalms": [
+125
+]
+},
+"ex": {
+"count": 41,
+"psalms": [
+7,
+8,
+13,
+21,
+24,
+27,
+33,
+44,
+49,
+52,
+53,
+67,
+70,
+71,
+72,
+74,
+75,
+80,
+85,
+92,
+105,
+109,
+112,
+113,
+120,
+124,
+126,
+127,
+129,
+130,
+133,
+134,
+138,
+141,
+143
+]
+},
+"exacerbauit": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"exacerbo": {
+"count": 7,
+"psalms": [
+77,
+104,
+105,
+106
+]
+},
+"exacuo": {
+"count": 1,
+"psalms": [
+63
+]
+},
+"exaltare": {
+"count": 2,
+"psalms": [
+20,
+93
+]
+},
+"exaltatio": {
+"count": 1,
+"psalms": [
+149
+]
+},
+"exalto": {
+"count": 49,
+"psalms": [
+3,
+7,
+9,
+12,
+17,
+26,
+29,
+33,
+36,
+45,
+56,
+60,
+63,
+65,
+74,
+87,
+88,
+91,
+96,
+98,
+106,
+107,
+109,
+111,
+117,
+130,
+139,
+144,
+148,
+149
+]
+},
+"examino": {
+"count": 5,
+"psalms": [
+11,
+16,
+17,
+65
+]
+},
+"exardesco": {
+"count": 7,
+"psalms": [
+2,
+17,
+38,
+49,
+88,
+105,
+117
+]
+},
+"exaresco": {
+"count": 1,
+"psalms": [
+128
+]
+},
+"exaspero": {
+"count": 3,
+"psalms": [
+65,
+67,
+77
+]
+},
+"exaudio": {
+"count": 74,
+"psalms": [
+3,
+4,
+5,
+6,
+9,
+12,
+16,
+17,
+19,
+21,
+26,
+27,
+30,
+33,
+37,
+38,
+39,
+53,
+54,
+57,
+59,
+60,
+63,
+64,
+65,
+68,
+80,
+83,
+85,
+90,
+98,
+101,
+105,
+107,
+114,
+117,
+118,
+119,
+129,
+137,
+139,
+140,
+142,
+144
+]
+},
+"excelsum": {
+"count": 4,
+"psalms": [
+72,
+101,
+148
+]
+},
+"excelsus": {
+"count": 14,
+"psalms": [
+17,
+41,
+46,
+76,
+77,
+81,
+88,
+98,
+103,
+112,
+135,
+137
+]
+},
+"excessus": {
+"count": 3,
+"psalms": [
+30,
+67,
+115
+]
+},
+"excido": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"excita": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"excito": {
+"count": 2,
+"psalms": [
+77
+]
+},
+"excludo": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"excusatio": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"excuso": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"excutio": {
+"count": 3,
+"psalms": [
+108,
+126,
+135
+]
+},
+"exeo": {
+"count": 6,
+"psalms": [
+18,
+80,
+103,
+107,
+108,
+145
+]
+},
+"exerceo": {
+"count": 6,
+"psalms": [
+76,
+118
+]
+},
+"exercitatio": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"exercito": {
+"count": 2,
+"psalms": [
+76
+]
+},
+"exhilaro": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"exinanio": {
+"count": 2,
+"psalms": [
+74,
+136
+]
+},
+"exinanite": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"existimabam": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"existimo": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"exitus": {
+"count": 8,
+"psalms": [
+64,
+67,
+73,
+106,
+113,
+118,
+120
+]
+},
+"exorior": {
+"count": 2,
+"psalms": [
+91,
+111
+]
+},
+"expando": {
+"count": 4,
+"psalms": [
+43,
+87,
+104,
+142
+]
+},
+"expello": {
+"count": 3,
+"psalms": [
+5,
+35,
+43
+]
+},
+"exprobro": {
+"count": 9,
+"psalms": [
+34,
+41,
+43,
+68,
+78,
+88,
+101,
+118
+]
+},
+"expugno": {
+"count": 4,
+"psalms": [
+34,
+108,
+128
+]
+},
+"exquiro": {
+"count": 13,
+"psalms": [
+26,
+33,
+76,
+77,
+110,
+118
+]
+},
+"exsecratio": {
+"count": 1,
+"psalms": [
+58
+]
+},
+"exsecror": {
+"count": 1,
+"psalms": [
+55
+]
+},
+"exsicco": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"exsoluo": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"exspecta": {
+"count": 2,
+"psalms": [
+26,
+36
+]
+},
+"exspectatio": {
+"count": 2,
+"psalms": [
+38,
+118
+]
+},
+"exspecto": {
+"count": 11,
+"psalms": [
+39,
+51,
+54,
+68,
+103,
+118,
+141
+]
+},
+"exsultatio": {
+"count": 16,
+"psalms": [
+31,
+41,
+44,
+46,
+47,
+62,
+64,
+99,
+104,
+106,
+117,
+118,
+125,
+131
+]
+},
+"exsulto": {
+"count": 49,
+"psalms": [
+2,
+5,
+9,
+12,
+13,
+15,
+18,
+20,
+30,
+31,
+32,
+34,
+39,
+47,
+50,
+52,
+58,
+62,
+66,
+67,
+69,
+70,
+80,
+83,
+88,
+89,
+91,
+94,
+95,
+96,
+97,
+107,
+113,
+117,
+131,
+144,
+149
+]
+},
+"exsurgo": {
+"count": 28,
+"psalms": [
+3,
+7,
+9,
+11,
+16,
+26,
+34,
+43,
+56,
+58,
+67,
+73,
+75,
+77,
+101,
+107,
+123,
+138
+]
+},
+"extendo": {
+"count": 9,
+"psalms": [
+54,
+59,
+79,
+84,
+103,
+107,
+124,
+137,
+139
+]
+},
+"exter": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"extermino": {
+"count": 2,
+"psalms": [
+36,
+79
+]
+},
+"extollo": {
+"count": 4,
+"psalms": [
+27,
+74,
+133
+]
+},
+"extraho": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"extraneus": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"extremus": {
+"count": 1,
+"psalms": [
+134
+]
+},
+"fabrico": {
+"count": 2,
+"psalms": [
+73,
+128
+]
+},
+"fabulatio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"facies": {
+"count": 70,
+"psalms": [
+1,
+9,
+12,
+16,
+17,
+21,
+23,
+26,
+29,
+30,
+33,
+34,
+37,
+41,
+43,
+49,
+50,
+56,
+59,
+60,
+67,
+68,
+77,
+79,
+81,
+82,
+83,
+87,
+88,
+94,
+95,
+96,
+101,
+103,
+104,
+113,
+118,
+131,
+138,
+142,
+147
+]
+},
+"facio": {
+"count": 253,
+"psalms": [
+1,
+3,
+6,
+7,
+9,
+10,
+11,
+13,
+14,
+15,
+16,
+17,
+19,
+21,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+36,
+37,
+38,
+39,
+40,
+43,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+58,
+59,
+60,
+63,
+65,
+67,
+68,
+70,
+71,
+72,
+73,
+75,
+76,
+77,
+78,
+79,
+82,
+85,
+87,
+88,
+89,
+91,
+92,
+93,
+94,
+95,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+110,
+112,
+113,
+117,
+118,
+120,
+123,
+125,
+133,
+134,
+135,
+137,
+138,
+139,
+142,
+143,
+144,
+145,
+147,
+148,
+149
+]
+},
+"factura": {
+"count": 1,
+"psalms": [
+91
+]
+},
+"faenero": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"faenum": {
+"count": 11,
+"psalms": [
+36,
+71,
+91,
+101,
+102,
+103,
+104,
+105,
+128,
+146
+]
+},
+"faex": {
+"count": 2,
+"psalms": [
+39,
+74
+]
+},
+"fallax": {
+"count": 1,
+"psalms": [
+32
+]
+},
+"falsus": {
+"count": 2,
+"psalms": [
+39,
+57
+]
+},
+"fames": {
+"count": 5,
+"psalms": [
+32,
+36,
+58,
+104
+]
+},
+"familia": {
+"count": 2,
+"psalms": [
+21,
+106
+]
+},
+"fauus": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"faux": {
+"count": 4,
+"psalms": [
+21,
+68,
+118,
+136
+]
+},
+"fel": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"femur": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"fera": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"fero": {
+"count": 2,
+"psalms": [
+39,
+40
+]
+},
+"ferreus": {
+"count": 3,
+"psalms": [
+2,
+106,
+149
+]
+},
+"ferrum": {
+"count": 2,
+"psalms": [
+104,
+106
+]
+},
+"ferus": {
+"count": 2,
+"psalms": [
+49,
+79
+]
+},
+"festinatio": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"festino": {
+"count": 1,
+"psalms": [
+69
+]
+},
+"festus": {
+"count": 2,
+"psalms": [
+73,
+75
+]
+},
+"fiant": {
+"count": 4,
+"psalms": [
+108,
+129
+]
+},
+"fiat": {
+"count": 2,
+"psalms": [
+32,
+118
+]
+},
+"ficulneus": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"fidelis": {
+"count": 7,
+"psalms": [
+18,
+77,
+88,
+100,
+110,
+144
+]
+},
+"fides": {
+"count": 1,
+"psalms": [
+32
+]
+},
+"fiducialiter": {
+"count": 1,
+"psalms": [
+11
+]
+},
+"figmentum": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"figulus": {
+"count": 1,
+"psalms": [
+2
+]
+},
+"filia": {
+"count": 12,
+"psalms": [
+9,
+44,
+47,
+72,
+96,
+105,
+136,
+143
+]
+},
+"filius": {
+"count": 86,
+"psalms": [
+2,
+4,
+8,
+10,
+11,
+13,
+16,
+17,
+20,
+28,
+30,
+32,
+33,
+35,
+44,
+48,
+49,
+52,
+56,
+57,
+61,
+65,
+68,
+71,
+72,
+76,
+77,
+78,
+79,
+81,
+82,
+85,
+88,
+89,
+101,
+102,
+104,
+105,
+106,
+108,
+112,
+113,
+115,
+126,
+127,
+131,
+136,
+143,
+144,
+145,
+147,
+148,
+149
+]
+},
+"fimbrium": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"fingo": {
+"count": 3,
+"psalms": [
+32,
+93
+]
+},
+"finis": {
+"count": 36,
+"psalms": [
+7,
+9,
+12,
+15,
+17,
+18,
+21,
+37,
+38,
+43,
+45,
+47,
+48,
+51,
+58,
+60,
+64,
+66,
+67,
+73,
+76,
+78,
+88,
+94,
+104,
+118,
+144,
+147
+]
+},
+"fio": {
+"count": 29,
+"psalms": [
+19,
+21,
+30,
+31,
+34,
+40,
+68,
+71,
+77,
+79,
+88,
+89,
+105,
+108,
+113,
+118,
+121,
+128,
+134
+]
+},
+"firmamentum": {
+"count": 9,
+"psalms": [
+17,
+18,
+24,
+70,
+71,
+72,
+88,
+104,
+150
+]
+},
+"firmo": {
+"count": 7,
+"psalms": [
+31,
+32,
+63,
+88,
+92,
+104,
+135
+]
+},
+"flagello": {
+"count": 2,
+"psalms": [
+72
+]
+},
+"flagellum": {
+"count": 4,
+"psalms": [
+31,
+34,
+37,
+90
+]
+},
+"flamma": {
+"count": 3,
+"psalms": [
+28,
+82,
+105
+]
+},
+"fleo": {
+"count": 2,
+"psalms": [
+125,
+136
+]
+},
+"fletus": {
+"count": 3,
+"psalms": [
+6,
+29,
+101
+]
+},
+"flo": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"floreo": {
+"count": 4,
+"psalms": [
+71,
+89,
+91
+]
+},
+"flos": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"fluctuatio": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"fluctus": {
+"count": 7,
+"psalms": [
+41,
+64,
+87,
+88,
+92,
+106
+]
+},
+"flumen": {
+"count": 16,
+"psalms": [
+23,
+45,
+64,
+65,
+71,
+77,
+79,
+88,
+92,
+97,
+104,
+106,
+136
+]
+},
+"fluo": {
+"count": 6,
+"psalms": [
+57,
+67,
+77,
+96,
+104,
+147
+]
+},
+"fluuius": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"fodio": {
+"count": 3,
+"psalms": [
+21,
+56,
+93
+]
+},
+"foetor": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"foetosus": {
+"count": 1,
+"psalms": [
+143
+]
+},
+"folium": {
+"count": 1,
+"psalms": [
+1
+]
+},
+"fons": {
+"count": 7,
+"psalms": [
+17,
+35,
+41,
+67,
+73,
+103,
+113
+]
+},
+"foras": {
+"count": 2,
+"psalms": [
+30,
+40
+]
+},
+"forma": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"formido": {
+"count": 4,
+"psalms": [
+54,
+88,
+103,
+118
+]
+},
+"formo": {
+"count": 5,
+"psalms": [
+89,
+94,
+103,
+138
+]
+},
+"fornicor": {
+"count": 2,
+"psalms": [
+72,
+105
+]
+},
+"fors": {
+"count": 2,
+"psalms": [
+17,
+34
+]
+},
+"forsitan": {
+"count": 5,
+"psalms": [
+54,
+80,
+123,
+138
+]
+},
+"forte": {
+"count": 5,
+"psalms": [
+78,
+90,
+118,
+123,
+139
+]
+},
+"fortis": {
+"count": 9,
+"psalms": [
+7,
+23,
+41,
+46,
+53,
+58,
+70,
+134,
+135
+]
+},
+"fortitudo": {
+"count": 15,
+"psalms": [
+17,
+27,
+30,
+38,
+42,
+45,
+58,
+59,
+60,
+67,
+92,
+117,
+146
+]
+},
+"fouea": {
+"count": 3,
+"psalms": [
+7,
+56,
+93
+]
+},
+"framea": {
+"count": 4,
+"psalms": [
+9,
+16,
+21,
+34
+]
+},
+"frater": {
+"count": 7,
+"psalms": [
+21,
+34,
+48,
+49,
+68,
+121,
+132
+]
+},
+"fraudo": {
+"count": 2,
+"psalms": [
+20,
+77
+]
+},
+"fremo": {
+"count": 2,
+"psalms": [
+2,
+111
+]
+},
+"frendeo": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"frenum": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"frigus": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"fructifer": {
+"count": 3,
+"psalms": [
+51,
+106,
+148
+]
+},
+"fructus": {
+"count": 13,
+"psalms": [
+1,
+4,
+20,
+57,
+66,
+71,
+77,
+84,
+103,
+104,
+106,
+126,
+131
+]
+},
+"frumentum": {
+"count": 4,
+"psalms": [
+4,
+64,
+80,
+147
+]
+},
+"frustra": {
+"count": 2,
+"psalms": [
+38,
+126
+]
+},
+"frustro": {
+"count": 1,
+"psalms": [
+131
+]
+},
+"fuga": {
+"count": 2,
+"psalms": [
+88,
+141
+]
+},
+"fugio": {
+"count": 8,
+"psalms": [
+30,
+54,
+59,
+67,
+103,
+113,
+138
+]
+},
+"fulgor": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"fulgur": {
+"count": 4,
+"psalms": [
+17,
+96,
+134,
+143
+]
+},
+"fumigo": {
+"count": 2,
+"psalms": [
+103,
+143
+]
+},
+"fumus": {
+"count": 4,
+"psalms": [
+17,
+36,
+67,
+101
+]
+},
+"fundamentum": {
+"count": 5,
+"psalms": [
+17,
+81,
+86,
+136
+]
+},
+"fundo": {
+"count": 12,
+"psalms": [
+8,
+23,
+47,
+77,
+86,
+88,
+101,
+103,
+118
+]
+},
+"funiculus": {
+"count": 3,
+"psalms": [
+77,
+104,
+138
+]
+},
+"funis": {
+"count": 3,
+"psalms": [
+15,
+118,
+139
+]
+},
+"fur": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"furor": {
+"count": 12,
+"psalms": [
+2,
+6,
+36,
+37,
+57,
+68,
+73,
+87,
+89,
+105,
+123
+]
+},
+"galaad": {
+"count": 2,
+"psalms": [
+59,
+107
+]
+},
+"gaudeo": {
+"count": 2,
+"psalms": [
+40,
+95
+]
+},
+"gaudium": {
+"count": 4,
+"psalms": [
+20,
+29,
+50,
+125
+]
+},
+"gebal": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"gemitus": {
+"count": 8,
+"psalms": [
+6,
+11,
+30,
+37,
+78,
+101
+]
+},
+"generatio": {
+"count": 54,
+"psalms": [
+9,
+11,
+13,
+21,
+23,
+32,
+44,
+60,
+70,
+71,
+76,
+77,
+78,
+84,
+88,
+89,
+94,
+99,
+101,
+104,
+105,
+108,
+111,
+118,
+134,
+144,
+145
+]
+},
+"genimen": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"gens": {
+"count": 69,
+"psalms": [
+2,
+9,
+17,
+21,
+32,
+42,
+43,
+45,
+46,
+48,
+56,
+58,
+64,
+65,
+66,
+67,
+71,
+77,
+78,
+79,
+81,
+82,
+85,
+88,
+93,
+95,
+97,
+101,
+104,
+105,
+110,
+112,
+113,
+116,
+117,
+125,
+134
+]
+},
+"genua": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"germino": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"gero": {
+"count": 2,
+"psalms": [
+17,
+25
+]
+},
+"gigas": {
+"count": 2,
+"psalms": [
+18,
+32
+]
+},
+"gigno": {
+"count": 2,
+"psalms": [
+2,
+109
+]
+},
+"glacies": {
+"count": 1,
+"psalms": [
+148
+]
+},
+"gladius": {
+"count": 16,
+"psalms": [
+7,
+36,
+43,
+44,
+56,
+58,
+62,
+63,
+75,
+77,
+88,
+143,
+149
+]
+},
+"gloria": {
+"count": 55,
+"psalms": [
+3,
+7,
+8,
+16,
+18,
+20,
+23,
+25,
+28,
+29,
+44,
+48,
+56,
+61,
+62,
+65,
+67,
+70,
+72,
+78,
+83,
+84,
+88,
+95,
+96,
+101,
+103,
+105,
+107,
+111,
+112,
+113,
+137,
+144,
+149
+]
+},
+"glorifico": {
+"count": 6,
+"psalms": [
+14,
+21,
+85,
+88,
+90
+]
+},
+"glorior": {
+"count": 8,
+"psalms": [
+5,
+31,
+48,
+51,
+73,
+93,
+96,
+105
+]
+},
+"gloriosus": {
+"count": 1,
+"psalms": [
+86
+]
+},
+"gradior": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"grando": {
+"count": 6,
+"psalms": [
+17,
+77,
+104,
+148
+]
+},
+"gratia": {
+"count": 2,
+"psalms": [
+44,
+83
+]
+},
+"gratis": {
+"count": 6,
+"psalms": [
+34,
+68,
+108,
+118,
+119
+]
+},
+"gratulor": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"grauis": {
+"count": 3,
+"psalms": [
+4,
+34,
+37
+]
+},
+"grauo": {
+"count": 2,
+"psalms": [
+31,
+37
+]
+},
+"gressus": {
+"count": 9,
+"psalms": [
+16,
+17,
+36,
+39,
+72,
+84,
+118,
+139
+]
+},
+"grex": {
+"count": 3,
+"psalms": [
+49,
+77
+]
+},
+"gusto": {
+"count": 1,
+"psalms": [
+33
+]
+},
+"gutta": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"guttur": {
+"count": 4,
+"psalms": [
+5,
+13,
+113,
+149
+]
+},
+"habeo": {
+"count": 19,
+"psalms": [
+37,
+76,
+77,
+89,
+104,
+105,
+113,
+118,
+134,
+146
+]
+},
+"habitaculum": {
+"count": 3,
+"psalms": [
+32,
+54,
+106
+]
+},
+"habitatio": {
+"count": 8,
+"psalms": [
+25,
+68,
+75,
+86,
+106,
+108,
+131
+]
+},
+"habito": {
+"count": 40,
+"psalms": [
+2,
+5,
+9,
+14,
+16,
+21,
+23,
+32,
+48,
+64,
+67,
+68,
+73,
+74,
+77,
+82,
+83,
+90,
+93,
+97,
+100,
+101,
+103,
+112,
+119,
+122,
+124,
+131,
+132,
+134,
+138,
+139
+]
+},
+"herba": {
+"count": 4,
+"psalms": [
+36,
+89,
+103,
+146
+]
+},
+"hereditas": {
+"count": 26,
+"psalms": [
+2,
+15,
+27,
+32,
+36,
+46,
+60,
+67,
+68,
+73,
+77,
+78,
+93,
+104,
+105,
+110,
+126,
+134,
+135
+]
+},
+"hereditate": {
+"count": 2,
+"psalms": [
+82,
+118
+]
+},
+"hereditatem": {
+"count": 1,
+"psalms": [
+135
+]
+},
+"heredito": {
+"count": 6,
+"psalms": [
+24,
+36,
+81
+]
+},
+"herinacia": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"hermon": {
+"count": 2,
+"psalms": [
+88,
+132
+]
+},
+"hermoniim": {
+"count": 1,
+"psalms": [
+41
+]
+},
+"herodius": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"hesternus": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"heu": {
+"count": 1,
+"psalms": [
+119
+]
+},
+"hic": {
+"count": 73,
+"psalms": [
+7,
+11,
+14,
+15,
+17,
+19,
+23,
+24,
+26,
+30,
+31,
+33,
+35,
+40,
+41,
+43,
+47,
+48,
+49,
+54,
+61,
+67,
+72,
+73,
+74,
+76,
+77,
+78,
+86,
+91,
+94,
+100,
+101,
+102,
+103,
+106,
+108,
+112,
+113,
+117,
+118,
+119,
+120,
+121,
+124,
+130,
+131,
+141,
+143,
+149
+]
+},
+"hircus": {
+"count": 3,
+"psalms": [
+49,
+65
+]
+},
+"hirritus": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"hodie": {
+"count": 2,
+"psalms": [
+2,
+94
+]
+},
+"holocausta": {
+"count": 1,
+"psalms": [
+65
+]
+},
+"holocaustum": {
+"count": 6,
+"psalms": [
+19,
+39,
+49,
+50,
+65
+]
+},
+"holus": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"homo": {
+"count": 106,
+"psalms": [
+4,
+8,
+9,
+10,
+11,
+13,
+16,
+20,
+21,
+24,
+30,
+32,
+33,
+35,
+36,
+37,
+38,
+40,
+42,
+44,
+48,
+51,
+52,
+54,
+55,
+56,
+57,
+59,
+61,
+63,
+65,
+67,
+72,
+75,
+77,
+79,
+81,
+83,
+86,
+87,
+88,
+89,
+93,
+102,
+103,
+104,
+106,
+107,
+108,
+111,
+113,
+115,
+117,
+118,
+123,
+127,
+134,
+139,
+140,
+143,
+144,
+145,
+146
+]
+},
+"honor": {
+"count": 7,
+"psalms": [
+8,
+28,
+44,
+48,
+95,
+98
+]
+},
+"honorabilis": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"honorifico": {
+"count": 4,
+"psalms": [
+36,
+49,
+138
+]
+},
+"horeb": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"hostia": {
+"count": 3,
+"psalms": [
+26,
+95,
+115
+]
+},
+"humilio": {
+"count": 32,
+"psalms": [
+9,
+17,
+34,
+37,
+38,
+43,
+50,
+54,
+71,
+74,
+80,
+87,
+88,
+89,
+93,
+104,
+105,
+106,
+114,
+115,
+118,
+141,
+142,
+146
+]
+},
+"humilis": {
+"count": 8,
+"psalms": [
+9,
+17,
+33,
+73,
+81,
+101,
+112,
+137
+]
+},
+"humilitas": {
+"count": 9,
+"psalms": [
+9,
+21,
+24,
+30,
+89,
+118,
+135
+]
+},
+"humiliter": {
+"count": 1,
+"psalms": [
+130
+]
+},
+"hymnus": {
+"count": 6,
+"psalms": [
+64,
+99,
+118,
+136,
+148
+]
+},
+"hyssopum": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"iabis": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"iacob": {
+"count": 34,
+"psalms": [
+13,
+19,
+21,
+23,
+43,
+45,
+46,
+52,
+58,
+74,
+75,
+76,
+77,
+78,
+80,
+83,
+84,
+86,
+93,
+98,
+104,
+113,
+131,
+134,
+145,
+147
+]
+},
+"iacta": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"iaculum": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"iam": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"ianua": {
+"count": 2,
+"psalms": [
+73,
+77
+]
+},
+"ibi": {
+"count": 7,
+"psalms": [
+22,
+35,
+47,
+65,
+67,
+68,
+75
+]
+},
+"idem": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"ideo": {
+"count": 8,
+"psalms": [
+1,
+30,
+72,
+77,
+118
+]
+},
+"idipsum": {
+"count": 1,
+"psalms": [
+61
+]
+},
+"idipsus": {
+"count": 5,
+"psalms": [
+4,
+33,
+40,
+73,
+121
+]
+},
+"idumaea": {
+"count": 2,
+"psalms": [
+59,
+107
+]
+},
+"idumaeam": {
+"count": 2,
+"psalms": [
+59,
+107
+]
+},
+"idumaei": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"ieiunium": {
+"count": 3,
+"psalms": [
+34,
+68,
+108
+]
+},
+"ierusalem": {
+"count": 18,
+"psalms": [
+50,
+64,
+67,
+78,
+101,
+115,
+121,
+124,
+127,
+134,
+136,
+146,
+147
+]
+},
+"ignio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"ignis": {
+"count": 34,
+"psalms": [
+10,
+11,
+16,
+17,
+20,
+28,
+38,
+45,
+49,
+57,
+65,
+67,
+73,
+77,
+78,
+79,
+82,
+88,
+96,
+103,
+104,
+105,
+117,
+139,
+148
+]
+},
+"ignominia": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"ignorantia": {
+"count": 1,
+"psalms": [
+24
+]
+},
+"ignoro": {
+"count": 4,
+"psalms": [
+34,
+38
+]
+},
+"ille": {
+"count": 86,
+"psalms": [
+5,
+7,
+9,
+17,
+18,
+19,
+21,
+24,
+27,
+32,
+34,
+36,
+40,
+41,
+42,
+48,
+49,
+53,
+54,
+55,
+57,
+58,
+61,
+64,
+67,
+68,
+71,
+77,
+80,
+82,
+88,
+90,
+93,
+94,
+98,
+99,
+102,
+103,
+104,
+105,
+108,
+110,
+113,
+118,
+119,
+134,
+138,
+143,
+144,
+145
+]
+},
+"illic": {
+"count": 13,
+"psalms": [
+13,
+49,
+52,
+86,
+103,
+106,
+121,
+132,
+136,
+138
+]
+},
+"illuc": {
+"count": 3,
+"psalms": [
+121,
+131,
+138
+]
+},
+"illucesco": {
+"count": 3,
+"psalms": [
+76,
+96,
+117
+]
+},
+"illudo": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"illuminatio": {
+"count": 5,
+"psalms": [
+26,
+43,
+77,
+89,
+138
+]
+},
+"illumino": {
+"count": 11,
+"psalms": [
+12,
+17,
+18,
+33,
+66,
+75,
+118,
+138,
+145
+]
+},
+"illusio": {
+"count": 2,
+"psalms": [
+37,
+78
+]
+},
+"illustro": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"imago": {
+"count": 2,
+"psalms": [
+38,
+72
+]
+},
+"imber": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"immaculo": {
+"count": 10,
+"psalms": [
+17,
+18,
+36,
+63,
+100,
+118
+]
+},
+"immissio": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"immitto": {
+"count": 2,
+"psalms": [
+33,
+39
+]
+},
+"immolo": {
+"count": 3,
+"psalms": [
+26,
+49,
+105
+]
+},
+"immuto": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"impedio": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"imperfectus": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"imperium": {
+"count": 1,
+"psalms": [
+85
+]
+},
+"impetus": {
+"count": 1,
+"psalms": [
+45
+]
+},
+"impie": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"impietas": {
+"count": 4,
+"psalms": [
+5,
+31,
+64,
+72
+]
+},
+"impinguo": {
+"count": 2,
+"psalms": [
+22,
+140
+]
+},
+"impius": {
+"count": 18,
+"psalms": [
+1,
+9,
+10,
+11,
+16,
+25,
+30,
+36,
+50
+]
+},
+"impleo": {
+"count": 11,
+"psalms": [
+19,
+37,
+79,
+80,
+82,
+103,
+109,
+126,
+128,
+144
+]
+},
+"impollutus": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"impono": {
+"count": 3,
+"psalms": [
+20,
+50,
+65
+]
+},
+"improperium": {
+"count": 4,
+"psalms": [
+68,
+73,
+78
+]
+},
+"impropero": {
+"count": 2,
+"psalms": [
+73
+]
+},
+"impugno": {
+"count": 3,
+"psalms": [
+34,
+55,
+119
+]
+},
+"impulsus": {
+"count": 1,
+"psalms": [
+117
+]
+},
+"imputo": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"in": {
+"count": 1650,
+"psalms": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+120,
+121,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+129,
+130,
+131,
+132,
+133,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+147,
+148,
+149,
+150
+]
+},
+"inanis": {
+"count": 3,
+"psalms": [
+2,
+7,
+106
+]
+},
+"inaquosus": {
+"count": 5,
+"psalms": [
+62,
+77,
+105,
+106
+]
+},
+"incanto": {
+"count": 2,
+"psalms": [
+57
+]
+},
+"incedo": {
+"count": 2,
+"psalms": [
+41,
+42
+]
+},
+"incendo": {
+"count": 4,
+"psalms": [
+9,
+65,
+73,
+140
+]
+},
+"incensa": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"incertus": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"incido": {
+"count": 2,
+"psalms": [
+7,
+56
+]
+},
+"incito": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"inclino": {
+"count": 19,
+"psalms": [
+9,
+16,
+17,
+30,
+44,
+45,
+48,
+61,
+70,
+74,
+77,
+85,
+87,
+101,
+103,
+114,
+118,
+143
+]
+},
+"incola": {
+"count": 3,
+"psalms": [
+104,
+118,
+119
+]
+},
+"incolatus": {
+"count": 1,
+"psalms": [
+119
+]
+},
+"increpasti": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"increpatio": {
+"count": 6,
+"psalms": [
+17,
+38,
+75,
+79,
+103,
+149
+]
+},
+"increpo": {
+"count": 5,
+"psalms": [
+15,
+67,
+105,
+118,
+140
+]
+},
+"incumbo": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"incurro": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"incuruo": {
+"count": 2,
+"psalms": [
+56,
+68
+]
+},
+"indico": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"indignatio": {
+"count": 5,
+"psalms": [
+29,
+77,
+84,
+101
+]
+},
+"induco": {
+"count": 4,
+"psalms": [
+65,
+77,
+87
+]
+},
+"induo": {
+"count": 11,
+"psalms": [
+34,
+64,
+92,
+103,
+108,
+131
+]
+},
+"induro": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"inebrio": {
+"count": 4,
+"psalms": [
+22,
+35,
+64
+]
+},
+"infans": {
+"count": 1,
+"psalms": [
+8
+]
+},
+"infelicitas": {
+"count": 1,
+"psalms": [
+13
+]
+},
+"inferi": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"infernus": {
+"count": 16,
+"psalms": [
+6,
+9,
+15,
+17,
+29,
+30,
+48,
+54,
+85,
+87,
+93,
+113,
+114,
+138,
+140
+]
+},
+"inferus": {
+"count": 5,
+"psalms": [
+48,
+62,
+85,
+87,
+138
+]
+},
+"inficio": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"infigo": {
+"count": 4,
+"psalms": [
+9,
+37,
+68
+]
+},
+"infirmitas": {
+"count": 3,
+"psalms": [
+15,
+40,
+102
+]
+},
+"infirmo": {
+"count": 10,
+"psalms": [
+9,
+17,
+25,
+26,
+30,
+57,
+63,
+67,
+106,
+108
+]
+},
+"infirmus": {
+"count": 2,
+"psalms": [
+6,
+104
+]
+},
+"inflammo": {
+"count": 3,
+"psalms": [
+72,
+96,
+104
+]
+},
+"ingredior": {
+"count": 9,
+"psalms": [
+14,
+25,
+37,
+40,
+67,
+85,
+117
+]
+},
+"inhabito": {
+"count": 16,
+"psalms": [
+22,
+26,
+28,
+32,
+36,
+55,
+60,
+64,
+67,
+68,
+84,
+106
+]
+},
+"inimicus": {
+"count": 104,
+"psalms": [
+5,
+6,
+7,
+8,
+9,
+12,
+16,
+17,
+20,
+24,
+26,
+29,
+30,
+36,
+37,
+40,
+41,
+42,
+43,
+44,
+53,
+54,
+55,
+58,
+60,
+63,
+65,
+67,
+68,
+70,
+71,
+73,
+77,
+79,
+80,
+82,
+88,
+91,
+96,
+101,
+104,
+105,
+106,
+107,
+109,
+111,
+117,
+118,
+126,
+131,
+135,
+137,
+138,
+142
+]
+},
+"inique": {
+"count": 4,
+"psalms": [
+34,
+37,
+43,
+74
+]
+},
+"iniquitas": {
+"count": 100,
+"psalms": [
+5,
+6,
+7,
+10,
+13,
+16,
+17,
+25,
+26,
+27,
+30,
+31,
+35,
+36,
+37,
+38,
+39,
+40,
+44,
+48,
+50,
+51,
+52,
+54,
+56,
+57,
+58,
+61,
+63,
+65,
+68,
+71,
+72,
+73,
+74,
+78,
+81,
+84,
+88,
+89,
+91,
+93,
+100,
+102,
+105,
+106,
+108,
+118,
+124,
+128,
+129,
+138,
+139,
+140,
+143
+]
+},
+"iniquus": {
+"count": 27,
+"psalms": [
+9,
+17,
+24,
+25,
+26,
+34,
+40,
+42,
+49,
+50,
+62,
+64,
+70,
+72,
+74,
+85,
+100,
+103,
+118,
+119,
+139
+]
+},
+"initio": {
+"count": 2,
+"psalms": [
+101,
+105
+]
+},
+"initium": {
+"count": 5,
+"psalms": [
+73,
+76,
+77,
+110,
+118
+]
+},
+"iniuria": {
+"count": 2,
+"psalms": [
+102,
+145
+]
+},
+"iniuste": {
+"count": 2,
+"psalms": [
+105,
+118
+]
+},
+"iniustitia": {
+"count": 10,
+"psalms": [
+7,
+31,
+36,
+51,
+54,
+57,
+93,
+106,
+118
+]
+},
+"iniustus": {
+"count": 8,
+"psalms": [
+5,
+35,
+36,
+68,
+100,
+118,
+139
+]
+},
+"innocens": {
+"count": 10,
+"psalms": [
+9,
+14,
+17,
+23,
+24,
+25,
+72,
+93,
+105
+]
+},
+"innocentia": {
+"count": 8,
+"psalms": [
+7,
+25,
+36,
+40,
+77,
+83,
+100
+]
+},
+"innotesco": {
+"count": 2,
+"psalms": [
+78,
+143
+]
+},
+"innouo": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"inopia": {
+"count": 4,
+"psalms": [
+33,
+43,
+87,
+106
+]
+},
+"inops": {
+"count": 10,
+"psalms": [
+11,
+13,
+34,
+36,
+71,
+73,
+85,
+108,
+112,
+139
+]
+},
+"inquino": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"inquiro": {
+"count": 3,
+"psalms": [
+33,
+37
+]
+},
+"insanio": {
+"count": 1,
+"psalms": [
+39
+]
+},
+"insatiabilis": {
+"count": 1,
+"psalms": [
+100
+]
+},
+"insidiae": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"insidio": {
+"count": 2,
+"psalms": [
+9
+]
+},
+"insignis": {
+"count": 1,
+"psalms": [
+80
+]
+},
+"insipiens": {
+"count": 11,
+"psalms": [
+13,
+38,
+48,
+52,
+73,
+75,
+91,
+93
+]
+},
+"insipientia": {
+"count": 3,
+"psalms": [
+21,
+37,
+68
+]
+},
+"inspicio": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"inspiratio": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"instruo": {
+"count": 2,
+"psalms": [
+31,
+118
+]
+},
+"insula": {
+"count": 2,
+"psalms": [
+71,
+96
+]
+},
+"insuper": {
+"count": 3,
+"psalms": [
+8,
+15
+]
+},
+"insurgo": {
+"count": 10,
+"psalms": [
+3,
+17,
+26,
+43,
+53,
+58,
+85,
+91,
+108
+]
+},
+"intellectum": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"intellectus": {
+"count": 7,
+"psalms": [
+15,
+31,
+77,
+110,
+118,
+135
+]
+},
+"intellego": {
+"count": 27,
+"psalms": [
+2,
+5,
+13,
+18,
+27,
+32,
+35,
+40,
+48,
+49,
+52,
+57,
+63,
+72,
+81,
+91,
+93,
+100,
+105,
+106,
+118,
+138
+]
+},
+"intelligo": {
+"count": 4,
+"psalms": [
+118
+]
+},
+"intende": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"intendo": {
+"count": 22,
+"psalms": [
+5,
+10,
+16,
+34,
+36,
+39,
+44,
+54,
+57,
+58,
+60,
+63,
+68,
+69,
+76,
+77,
+79,
+80,
+85,
+129,
+140,
+141
+]
+},
+"inter": {
+"count": 13,
+"psalms": [
+6,
+9,
+25,
+54,
+67,
+72,
+87,
+95,
+98,
+103,
+104,
+105,
+125
+]
+},
+"intercido": {
+"count": 1,
+"psalms": [
+28
+]
+},
+"intereo": {
+"count": 3,
+"psalms": [
+36,
+48,
+91
+]
+},
+"interficio": {
+"count": 4,
+"psalms": [
+9,
+61,
+93,
+100
+]
+},
+"interimo": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"interior": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"interitio": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"interitus": {
+"count": 7,
+"psalms": [
+9,
+34,
+48,
+54,
+102,
+108,
+139
+]
+},
+"interrogo": {
+"count": 5,
+"psalms": [
+10,
+34,
+136,
+138
+]
+},
+"interrumpo": {
+"count": 2,
+"psalms": [
+77
+]
+},
+"intingo": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"intolerabilis": {
+"count": 1,
+"psalms": [
+123
+]
+},
+"intono": {
+"count": 2,
+"psalms": [
+17,
+28
+]
+},
+"intra": {
+"count": 3,
+"psalms": [
+38,
+102,
+108
+]
+},
+"intro": {
+"count": 10,
+"psalms": [
+36,
+68,
+72,
+87,
+104,
+108,
+117,
+118,
+142
+]
+},
+"introeo": {
+"count": 15,
+"psalms": [
+5,
+17,
+23,
+25,
+42,
+48,
+62,
+65,
+70,
+78,
+94,
+95,
+99,
+131
+]
+},
+"introibimus": {
+"count": 1,
+"psalms": [
+131
+]
+},
+"introite": {
+"count": 1,
+"psalms": [
+99
+]
+},
+"introitus": {
+"count": 1,
+"psalms": [
+120
+]
+},
+"intus": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"inuenio": {
+"count": 20,
+"psalms": [
+9,
+16,
+20,
+35,
+36,
+45,
+68,
+72,
+75,
+83,
+88,
+106,
+114,
+118,
+131
+]
+},
+"inuestigo": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"inuetero": {
+"count": 3,
+"psalms": [
+6,
+17,
+31
+]
+},
+"inuius": {
+"count": 2,
+"psalms": [
+62,
+106
+]
+},
+"inundo": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"inuoco": {
+"count": 30,
+"psalms": [
+4,
+13,
+17,
+19,
+30,
+41,
+49,
+52,
+55,
+74,
+78,
+79,
+80,
+85,
+88,
+98,
+101,
+104,
+114,
+115,
+117,
+137,
+144,
+146
+]
+},
+"inutilis": {
+"count": 2,
+"psalms": [
+13,
+52
+]
+},
+"iordanes": {
+"count": 3,
+"psalms": [
+41,
+113
+]
+},
+"ioseph": {
+"count": 5,
+"psalms": [
+76,
+77,
+79,
+80,
+104
+]
+},
+"ipse": {
+"count": 107,
+"psalms": [
+2,
+3,
+7,
+9,
+17,
+18,
+19,
+21,
+22,
+23,
+24,
+26,
+27,
+32,
+34,
+36,
+37,
+42,
+43,
+44,
+47,
+48,
+54,
+55,
+57,
+58,
+59,
+61,
+62,
+65,
+67,
+68,
+71,
+72,
+77,
+78,
+84,
+86,
+87,
+88,
+89,
+90,
+93,
+94,
+96,
+98,
+99,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+118,
+126,
+129,
+131,
+134,
+139,
+141,
+143,
+145,
+146,
+148
+]
+},
+"ira": {
+"count": 50,
+"psalms": [
+2,
+6,
+7,
+9,
+17,
+20,
+26,
+29,
+30,
+36,
+37,
+54,
+55,
+57,
+58,
+68,
+75,
+76,
+77,
+78,
+82,
+84,
+87,
+88,
+89,
+94,
+101,
+105,
+109,
+137
+]
+},
+"iracundia": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"iracundus": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"irascimini": {
+"count": 1,
+"psalms": [
+4
+]
+},
+"irascor": {
+"count": 13,
+"psalms": [
+2,
+7,
+17,
+59,
+73,
+78,
+79,
+84,
+98,
+102,
+105,
+111,
+123
+]
+},
+"irrideo": {
+"count": 3,
+"psalms": [
+2,
+24,
+36
+]
+},
+"irritatio": {
+"count": 1,
+"psalms": [
+94
+]
+},
+"irrito": {
+"count": 8,
+"psalms": [
+5,
+9,
+73,
+105,
+106
+]
+},
+"irruo": {
+"count": 2,
+"psalms": [
+58,
+61
+]
+},
+"is": {
+"count": 1073,
+"psalms": [
+1,
+2,
+3,
+4,
+5,
+7,
+8,
+9,
+10,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+38,
+39,
+40,
+41,
+43,
+44,
+45,
+47,
+48,
+49,
+51,
+52,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+63,
+64,
+65,
+66,
+67,
+68,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+82,
+83,
+84,
+86,
+88,
+89,
+90,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+101,
+102,
+103,
+104,
+105,
+106,
+108,
+109,
+110,
+111,
+112,
+113,
+115,
+116,
+117,
+118,
+121,
+123,
+124,
+125,
+126,
+127,
+129,
+131,
+132,
+134,
+135,
+136,
+138,
+139,
+140,
+141,
+143,
+144,
+145,
+146,
+147,
+148,
+149,
+150
+]
+},
+"isaac": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"ismahelitae": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"israel": {
+"count": 62,
+"psalms": [
+13,
+21,
+24,
+40,
+49,
+52,
+58,
+67,
+68,
+70,
+71,
+72,
+75,
+77,
+79,
+80,
+82,
+88,
+97,
+102,
+104,
+105,
+113,
+117,
+120,
+121,
+123,
+124,
+127,
+128,
+129,
+130,
+134,
+135,
+146,
+147,
+148,
+149
+]
+},
+"iste": {
+"count": 10,
+"psalms": [
+7,
+9,
+23,
+33,
+43,
+79,
+94,
+103,
+117
+]
+},
+"ita": {
+"count": 8,
+"psalms": [
+41,
+64,
+82,
+103,
+122,
+126,
+130,
+138
+]
+},
+"iter": {
+"count": 6,
+"psalms": [
+1,
+49,
+67,
+79,
+139
+]
+},
+"iterum": {
+"count": 1,
+"psalms": [
+70
+]
+},
+"iubilate": {
+"count": 3,
+"psalms": [
+65,
+97,
+99
+]
+},
+"iubilatio": {
+"count": 2,
+"psalms": [
+88,
+150
+]
+},
+"iubilo": {
+"count": 5,
+"psalms": [
+46,
+80,
+94,
+97
+]
+},
+"iubilum": {
+"count": 1,
+"psalms": [
+46
+]
+},
+"iucundus": {
+"count": 6,
+"psalms": [
+80,
+103,
+111,
+118,
+132,
+146
+]
+},
+"iuda": {
+"count": 5,
+"psalms": [
+59,
+67,
+68,
+77,
+107
+]
+},
+"iudae": {
+"count": 2,
+"psalms": [
+47,
+96
+]
+},
+"iudaea": {
+"count": 2,
+"psalms": [
+75,
+113
+]
+},
+"iudex": {
+"count": 6,
+"psalms": [
+7,
+49,
+67,
+74,
+140,
+148
+]
+},
+"iudicium": {
+"count": 65,
+"psalms": [
+1,
+9,
+16,
+17,
+18,
+24,
+32,
+34,
+35,
+36,
+47,
+71,
+75,
+80,
+88,
+93,
+96,
+98,
+100,
+102,
+104,
+105,
+110,
+111,
+118,
+121,
+139,
+142,
+145,
+147,
+149
+]
+},
+"iudico": {
+"count": 36,
+"psalms": [
+2,
+5,
+7,
+9,
+25,
+34,
+36,
+42,
+50,
+53,
+57,
+66,
+71,
+73,
+74,
+81,
+93,
+95,
+97,
+108,
+109,
+118,
+134
+]
+},
+"iugum": {
+"count": 1,
+"psalms": [
+2
+]
+},
+"iumentum": {
+"count": 10,
+"psalms": [
+35,
+48,
+49,
+72,
+77,
+103,
+106,
+146
+]
+},
+"iungo": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"iuramentum": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"iuro": {
+"count": 12,
+"psalms": [
+14,
+23,
+62,
+88,
+94,
+101,
+109,
+118,
+131
+]
+},
+"iustificatio": {
+"count": 30,
+"psalms": [
+104,
+118
+]
+},
+"iustifico": {
+"count": 5,
+"psalms": [
+18,
+50,
+72,
+81,
+142
+]
+},
+"iustitia": {
+"count": 78,
+"psalms": [
+4,
+5,
+7,
+9,
+10,
+14,
+16,
+17,
+18,
+21,
+22,
+30,
+34,
+35,
+36,
+39,
+44,
+47,
+49,
+50,
+57,
+68,
+70,
+71,
+74,
+84,
+87,
+88,
+93,
+96,
+97,
+98,
+102,
+105,
+110,
+111,
+117,
+118,
+131,
+142,
+144,
+147
+]
+},
+"iustus": {
+"count": 55,
+"psalms": [
+1,
+2,
+5,
+7,
+10,
+13,
+30,
+31,
+32,
+33,
+36,
+48,
+51,
+54,
+57,
+63,
+67,
+68,
+74,
+91,
+93,
+96,
+110,
+111,
+114,
+117,
+118,
+124,
+128,
+139,
+140,
+141,
+144,
+145
+]
+},
+"iuuenculus": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"iuuenes": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"iuuenis": {
+"count": 3,
+"psalms": [
+36,
+148
+]
+},
+"iuuentus": {
+"count": 9,
+"psalms": [
+24,
+42,
+70,
+87,
+102,
+128,
+143
+]
+},
+"iuxta": {
+"count": 7,
+"psalms": [
+5,
+33,
+37,
+61,
+93,
+118,
+139
+]
+},
+"labium": {
+"count": 28,
+"psalms": [
+11,
+13,
+15,
+16,
+20,
+21,
+30,
+33,
+39,
+44,
+50,
+58,
+62,
+65,
+70,
+88,
+105,
+118,
+119,
+139,
+140
+]
+},
+"labor": {
+"count": 17,
+"psalms": [
+9,
+24,
+54,
+72,
+77,
+87,
+89,
+93,
+104,
+106,
+108,
+127,
+139
+]
+},
+"laboro": {
+"count": 4,
+"psalms": [
+6,
+48,
+68,
+126
+]
+},
+"lac": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"lacrima": {
+"count": 9,
+"psalms": [
+6,
+38,
+41,
+55,
+79,
+83,
+114,
+125
+]
+},
+"lactentium": {
+"count": 1,
+"psalms": [
+8
+]
+},
+"lacus": {
+"count": 7,
+"psalms": [
+7,
+27,
+29,
+39,
+87,
+142
+]
+},
+"laetabor": {
+"count": 2,
+"psalms": [
+9,
+118
+]
+},
+"laetamini": {
+"count": 2,
+"psalms": [
+31,
+96
+]
+},
+"laetata": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"laetati": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"laetatus": {
+"count": 1,
+"psalms": [
+121
+]
+},
+"laetemur": {
+"count": 1,
+"psalms": [
+117
+]
+},
+"laetifico": {
+"count": 8,
+"psalms": [
+18,
+20,
+42,
+45,
+85,
+88,
+93,
+103
+]
+},
+"laetitia": {
+"count": 14,
+"psalms": [
+4,
+15,
+29,
+44,
+50,
+67,
+96,
+99,
+104,
+105,
+136
+]
+},
+"laeto": {
+"count": 33,
+"psalms": [
+5,
+13,
+19,
+20,
+30,
+32,
+33,
+34,
+39,
+47,
+52,
+57,
+59,
+62,
+63,
+64,
+65,
+66,
+68,
+69,
+84,
+85,
+95,
+96,
+103,
+104,
+105,
+106,
+108,
+118,
+149
+]
+},
+"laetor": {
+"count": 7,
+"psalms": [
+15,
+34,
+67,
+86,
+106,
+112,
+125
+]
+},
+"lamento": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"lana": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"languesco": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"lapis": {
+"count": 5,
+"psalms": [
+18,
+20,
+90,
+101,
+117
+]
+},
+"lapsus": {
+"count": 2,
+"psalms": [
+55,
+114
+]
+},
+"laqueus": {
+"count": 21,
+"psalms": [
+9,
+10,
+17,
+24,
+30,
+34,
+56,
+63,
+65,
+68,
+90,
+118,
+123,
+139,
+140,
+141
+]
+},
+"latibulum": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"latitudo": {
+"count": 3,
+"psalms": [
+17,
+117,
+118
+]
+},
+"latus": {
+"count": 4,
+"psalms": [
+47,
+90,
+118,
+127
+]
+},
+"laudabilis": {
+"count": 4,
+"psalms": [
+47,
+95,
+112,
+144
+]
+},
+"laudabo": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"laudamini": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"laudate": {
+"count": 1,
+"psalms": [
+112
+]
+},
+"laudatio": {
+"count": 5,
+"psalms": [
+9,
+55,
+110,
+144,
+146
+]
+},
+"laudo": {
+"count": 62,
+"psalms": [
+9,
+17,
+21,
+33,
+34,
+43,
+55,
+62,
+63,
+68,
+73,
+83,
+99,
+101,
+105,
+106,
+108,
+112,
+113,
+116,
+118,
+134,
+144,
+145,
+146,
+147,
+148,
+149,
+150
+]
+},
+"lauo": {
+"count": 6,
+"psalms": [
+6,
+25,
+50,
+57,
+72
+]
+},
+"laus": {
+"count": 27,
+"psalms": [
+8,
+21,
+25,
+33,
+34,
+47,
+49,
+50,
+65,
+68,
+70,
+77,
+78,
+101,
+105,
+106,
+108,
+115,
+117,
+118,
+149
+]
+},
+"lebes": {
+"count": 1,
+"psalms": [
+107
+]
+},
+"lectus": {
+"count": 3,
+"psalms": [
+6,
+40,
+131
+]
+},
+"legatus": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"legislator": {
+"count": 2,
+"psalms": [
+9,
+83
+]
+},
+"leo": {
+"count": 11,
+"psalms": [
+7,
+9,
+16,
+21,
+34,
+56,
+57,
+90,
+103
+]
+},
+"leua": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"leui": {
+"count": 1,
+"psalms": [
+134
+]
+},
+"leuo": {
+"count": 7,
+"psalms": [
+24,
+62,
+85,
+118,
+120,
+122,
+142
+]
+},
+"lex": {
+"count": 44,
+"psalms": [
+1,
+18,
+24,
+26,
+36,
+39,
+70,
+77,
+88,
+93,
+104,
+118,
+129
+]
+},
+"libanus": {
+"count": 6,
+"psalms": [
+28,
+36,
+71,
+91,
+103
+]
+},
+"liber": {
+"count": 5,
+"psalms": [
+39,
+68,
+87,
+138
+]
+},
+"libera": {
+"count": 4,
+"psalms": [
+24,
+50,
+108,
+141
+]
+},
+"libere": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"libero": {
+"count": 32,
+"psalms": [
+7,
+17,
+21,
+30,
+33,
+36,
+40,
+56,
+58,
+59,
+68,
+69,
+70,
+71,
+78,
+80,
+81,
+90,
+96,
+105,
+106,
+107,
+114,
+119,
+123,
+143
+]
+},
+"lignum": {
+"count": 6,
+"psalms": [
+1,
+73,
+95,
+103,
+104,
+148
+]
+},
+"limus": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"lingo": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"lingua": {
+"count": 37,
+"psalms": [
+5,
+9,
+11,
+13,
+14,
+15,
+21,
+30,
+33,
+34,
+36,
+38,
+44,
+49,
+50,
+51,
+54,
+56,
+63,
+65,
+67,
+70,
+72,
+77,
+80,
+108,
+118,
+119,
+125,
+136,
+138,
+139
+]
+},
+"linguosus": {
+"count": 1,
+"psalms": [
+139
+]
+},
+"liquefacio": {
+"count": 2,
+"psalms": [
+74,
+147
+]
+},
+"liquesco": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"litteratura": {
+"count": 1,
+"psalms": [
+70
+]
+},
+"locupleto": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"locus": {
+"count": 19,
+"psalms": [
+22,
+23,
+25,
+30,
+36,
+41,
+43,
+67,
+70,
+75,
+78,
+83,
+102,
+103,
+118,
+131
+]
+},
+"locusta": {
+"count": 3,
+"psalms": [
+77,
+104,
+108
+]
+},
+"locutus": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"longanimis": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"longe": {
+"count": 10,
+"psalms": [
+9,
+37,
+39,
+64,
+87,
+102,
+118,
+137,
+138
+]
+},
+"longitudo": {
+"count": 4,
+"psalms": [
+20,
+22,
+90,
+92
+]
+},
+"longus": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"loquela": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"loquor": {
+"count": 64,
+"psalms": [
+2,
+5,
+11,
+14,
+16,
+21,
+27,
+30,
+33,
+34,
+36,
+37,
+39,
+40,
+48,
+49,
+51,
+54,
+57,
+58,
+59,
+61,
+62,
+65,
+68,
+72,
+74,
+76,
+77,
+84,
+88,
+93,
+98,
+100,
+105,
+107,
+108,
+113,
+115,
+118,
+119,
+121,
+126,
+134,
+143,
+144
+]
+},
+"lot": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"lubricus": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"luceo": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"lucerna": {
+"count": 3,
+"psalms": [
+17,
+118,
+131
+]
+},
+"lucidus": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"lucifer": {
+"count": 1,
+"psalms": [
+109
+]
+},
+"lugeo": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"lumbus": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"lumen": {
+"count": 13,
+"psalms": [
+4,
+35,
+36,
+37,
+48,
+55,
+88,
+103,
+111,
+118,
+138,
+148
+]
+},
+"luminare": {
+"count": 1,
+"psalms": [
+135
+]
+},
+"luna": {
+"count": 8,
+"psalms": [
+8,
+71,
+88,
+103,
+120,
+135,
+148
+]
+},
+"lutum": {
+"count": 3,
+"psalms": [
+17,
+39,
+68
+]
+},
+"lux": {
+"count": 4,
+"psalms": [
+42,
+62,
+96,
+126
+]
+},
+"maceria": {
+"count": 3,
+"psalms": [
+61,
+79,
+143
+]
+},
+"macula": {
+"count": 1,
+"psalms": [
+14
+]
+},
+"madian": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"magis": {
+"count": 2,
+"psalms": [
+51,
+83
+]
+},
+"magnalia": {
+"count": 2,
+"psalms": [
+70,
+105
+]
+},
+"magnificentia": {
+"count": 8,
+"psalms": [
+8,
+28,
+67,
+70,
+95,
+110,
+144
+]
+},
+"magnifico": {
+"count": 19,
+"psalms": [
+9,
+11,
+17,
+19,
+33,
+34,
+39,
+40,
+56,
+68,
+69,
+71,
+91,
+103,
+125,
+137,
+138
+]
+},
+"magniloquus": {
+"count": 1,
+"psalms": [
+11
+]
+},
+"magnitudo": {
+"count": 5,
+"psalms": [
+70,
+78,
+144,
+150
+]
+},
+"magnus": {
+"count": 38,
+"psalms": [
+18,
+20,
+21,
+30,
+34,
+37,
+39,
+46,
+47,
+50,
+54,
+75,
+76,
+85,
+88,
+94,
+95,
+98,
+103,
+107,
+110,
+113,
+130,
+134,
+135,
+137,
+144,
+146
+]
+},
+"maiestas": {
+"count": 3,
+"psalms": [
+28,
+71
+]
+},
+"male": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"maledico": {
+"count": 5,
+"psalms": [
+36,
+54,
+61,
+108,
+118
+]
+},
+"maledictio": {
+"count": 4,
+"psalms": [
+9,
+13,
+108
+]
+},
+"malignitas": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"maligno": {
+"count": 10,
+"psalms": [
+21,
+36,
+63,
+73,
+82,
+91,
+93,
+104
+]
+},
+"malignor": {
+"count": 1,
+"psalms": [
+25
+]
+},
+"malignus": {
+"count": 6,
+"psalms": [
+5,
+9,
+14,
+100,
+118,
+143
+]
+},
+"malitia": {
+"count": 7,
+"psalms": [
+35,
+49,
+51,
+93,
+106,
+140
+]
+},
+"malum": {
+"count": 15,
+"psalms": [
+7,
+9,
+14,
+27,
+33,
+34,
+36,
+37,
+39,
+53,
+55,
+69,
+96,
+120
+]
+},
+"malus": {
+"count": 31,
+"psalms": [
+20,
+22,
+26,
+33,
+34,
+36,
+37,
+39,
+40,
+48,
+50,
+70,
+77,
+87,
+89,
+90,
+93,
+106,
+108,
+111,
+118,
+139
+]
+},
+"manasses": {
+"count": 3,
+"psalms": [
+59,
+79,
+107
+]
+},
+"mandatum": {
+"count": 40,
+"psalms": [
+77,
+88,
+102,
+110,
+111,
+118
+]
+},
+"mando": {
+"count": 17,
+"psalms": [
+7,
+32,
+41,
+43,
+67,
+77,
+90,
+104,
+110,
+118,
+132,
+148
+]
+},
+"manduco": {
+"count": 9,
+"psalms": [
+21,
+49,
+58,
+77,
+101,
+126,
+127
+]
+},
+"mane": {
+"count": 10,
+"psalms": [
+5,
+45,
+54,
+58,
+87,
+89,
+91,
+142
+]
+},
+"maneo": {
+"count": 8,
+"psalms": [
+32,
+54,
+88,
+110,
+111,
+116
+]
+},
+"manica": {
+"count": 1,
+"psalms": [
+149
+]
+},
+"manifeste": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"manifesto": {
+"count": 4,
+"psalms": [
+24,
+50,
+79,
+147
+]
+},
+"manipulus": {
+"count": 2,
+"psalms": [
+125,
+128
+]
+},
+"manna": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"mansues": {
+"count": 1,
+"psalms": [
+33
+]
+},
+"mansuesco": {
+"count": 4,
+"psalms": [
+24,
+75,
+146,
+149
+]
+},
+"mansueti": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"mansuetudo": {
+"count": 3,
+"psalms": [
+44,
+89,
+131
+]
+},
+"manus": {
+"count": 115,
+"psalms": [
+5,
+7,
+8,
+9,
+16,
+17,
+18,
+20,
+21,
+23,
+25,
+27,
+30,
+31,
+34,
+35,
+36,
+37,
+38,
+43,
+46,
+48,
+54,
+57,
+62,
+67,
+70,
+72,
+73,
+74,
+75,
+76,
+77,
+79,
+80,
+81,
+87,
+88,
+89,
+90,
+91,
+94,
+96,
+97,
+101,
+103,
+105,
+106,
+108,
+110,
+113,
+118,
+120,
+122,
+124,
+126,
+127,
+128,
+133,
+134,
+135,
+137,
+138,
+139,
+140,
+142,
+143,
+144,
+149
+]
+},
+"mare": {
+"count": 37,
+"psalms": [
+8,
+23,
+32,
+45,
+64,
+65,
+67,
+68,
+71,
+73,
+76,
+77,
+79,
+88,
+92,
+94,
+95,
+97,
+103,
+105,
+106,
+113,
+134,
+135,
+138,
+145
+]
+},
+"maris": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"marium": {
+"count": 2,
+"psalms": [
+105,
+135
+]
+},
+"mater": {
+"count": 11,
+"psalms": [
+21,
+26,
+49,
+50,
+68,
+70,
+108,
+112,
+130,
+138
+]
+},
+"maturitas": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"matutinus": {
+"count": 7,
+"psalms": [
+29,
+48,
+62,
+64,
+72,
+100,
+129
+]
+},
+"maxilla": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"medicus": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"meditatio": {
+"count": 10,
+"psalms": [
+18,
+38,
+48,
+118
+]
+},
+"meditor": {
+"count": 18,
+"psalms": [
+1,
+2,
+34,
+35,
+36,
+37,
+62,
+70,
+76,
+89,
+118,
+142
+]
+},
+"medium": {
+"count": 1,
+"psalms": [
+135
+]
+},
+"medius": {
+"count": 28,
+"psalms": [
+21,
+22,
+39,
+45,
+47,
+54,
+56,
+67,
+73,
+77,
+81,
+100,
+103,
+108,
+109,
+115,
+118,
+134,
+135,
+136,
+137
+]
+},
+"medullatus": {
+"count": 1,
+"psalms": [
+65
+]
+},
+"mei": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"mel": {
+"count": 3,
+"psalms": [
+18,
+80,
+118
+]
+},
+"melchisedech": {
+"count": 1,
+"psalms": [
+109
+]
+},
+"melius": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"mementote": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"memini": {
+"count": 6,
+"psalms": [
+24,
+78,
+105,
+131,
+136
+]
+},
+"memor": {
+"count": 29,
+"psalms": [
+6,
+8,
+15,
+19,
+41,
+44,
+62,
+73,
+76,
+86,
+87,
+88,
+102,
+104,
+105,
+110,
+113,
+118,
+135,
+136,
+142
+]
+},
+"memoria": {
+"count": 8,
+"psalms": [
+9,
+29,
+33,
+96,
+108,
+110,
+111
+]
+},
+"memorialis": {
+"count": 2,
+"psalms": [
+101,
+134
+]
+},
+"memoriam": {
+"count": 1,
+"psalms": [
+144
+]
+},
+"memoro": {
+"count": 3,
+"psalms": [
+70,
+82,
+88
+]
+},
+"mendacium": {
+"count": 3,
+"psalms": [
+4,
+5,
+58
+]
+},
+"mendax": {
+"count": 2,
+"psalms": [
+61,
+115
+]
+},
+"mendicitas": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"mendico": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"mendicus": {
+"count": 2,
+"psalms": [
+39,
+108
+]
+},
+"mens": {
+"count": 3,
+"psalms": [
+30,
+67,
+76
+]
+},
+"mensa": {
+"count": 5,
+"psalms": [
+22,
+68,
+77,
+127
+]
+},
+"mensura": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"mensurabilis": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"mentior": {
+"count": 6,
+"psalms": [
+17,
+26,
+65,
+77,
+80,
+88
+]
+},
+"merces": {
+"count": 1,
+"psalms": [
+126
+]
+},
+"meridianus": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"meridies": {
+"count": 2,
+"psalms": [
+36,
+54
+]
+},
+"merito": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"merus": {
+"count": 1,
+"psalms": [
+74
+]
+},
+"metior": {
+"count": 1,
+"psalms": [
+59
+]
+},
+"meto": {
+"count": 2,
+"psalms": [
+125,
+128
+]
+},
+"metuo": {
+"count": 3,
+"psalms": [
+32,
+59,
+66
+]
+},
+"meus": {
+"count": 953,
+"psalms": [
+2,
+3,
+4,
+5,
+6,
+7,
+9,
+10,
+12,
+13,
+15,
+16,
+17,
+18,
+21,
+22,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+33,
+34,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+48,
+49,
+50,
+52,
+53,
+54,
+55,
+56,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+67,
+68,
+69,
+70,
+72,
+76,
+77,
+80,
+82,
+83,
+85,
+87,
+88,
+90,
+91,
+93,
+94,
+100,
+101,
+102,
+103,
+104,
+107,
+108,
+109,
+110,
+114,
+115,
+117,
+118,
+119,
+120,
+121,
+122,
+128,
+129,
+130,
+131,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145
+]
+},
+"mille": {
+"count": 9,
+"psalms": [
+3,
+67,
+83,
+89,
+90,
+104,
+118
+]
+},
+"minister": {
+"count": 2,
+"psalms": [
+102,
+103
+]
+},
+"ministro": {
+"count": 1,
+"psalms": [
+100
+]
+},
+"minorasti": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"minoro": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"minuo": {
+"count": 2,
+"psalms": [
+8,
+33
+]
+},
+"mirabilis": {
+"count": 41,
+"psalms": [
+9,
+25,
+39,
+64,
+67,
+70,
+71,
+74,
+76,
+77,
+85,
+87,
+88,
+92,
+95,
+97,
+104,
+105,
+106,
+110,
+117,
+118,
+130,
+135,
+138,
+144
+]
+},
+"mirabiliter": {
+"count": 2,
+"psalms": [
+44,
+75
+]
+},
+"mirifica": {
+"count": 1,
+"psalms": [
+16
+]
+},
+"mirifico": {
+"count": 3,
+"psalms": [
+4,
+15,
+30
+]
+},
+"misceo": {
+"count": 2,
+"psalms": [
+74,
+101
+]
+},
+"miser": {
+"count": 2,
+"psalms": [
+37,
+136
+]
+},
+"miseratio": {
+"count": 7,
+"psalms": [
+24,
+39,
+50,
+68,
+102,
+118,
+144
+]
+},
+"miserator": {
+"count": 5,
+"psalms": [
+85,
+102,
+110,
+111,
+144
+]
+},
+"misereatur": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"misereo": {
+"count": 4,
+"psalms": [
+58,
+101
+]
+},
+"misereor": {
+"count": 22,
+"psalms": [
+24,
+25,
+26,
+29,
+36,
+40,
+56,
+59,
+66,
+76,
+85,
+102,
+111,
+114,
+118,
+122
+]
+},
+"miserere": {
+"count": 9,
+"psalms": [
+4,
+6,
+9,
+30,
+50,
+55,
+56,
+85,
+122
+]
+},
+"miseria": {
+"count": 5,
+"psalms": [
+11,
+39,
+68,
+87,
+139
+]
+},
+"misericordia": {
+"count": 132,
+"psalms": [
+5,
+6,
+12,
+16,
+17,
+20,
+22,
+23,
+24,
+25,
+30,
+31,
+32,
+35,
+39,
+41,
+47,
+50,
+51,
+56,
+58,
+60,
+61,
+62,
+65,
+68,
+76,
+78,
+83,
+84,
+85,
+87,
+88,
+89,
+91,
+93,
+97,
+99,
+100,
+102,
+105,
+106,
+107,
+108,
+113,
+116,
+117,
+118,
+129,
+135,
+137,
+140,
+142,
+143,
+146
+]
+},
+"misericors": {
+"count": 9,
+"psalms": [
+77,
+85,
+102,
+110,
+111,
+114,
+144
+]
+},
+"miseror": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"mitigasti": {
+"count": 1,
+"psalms": [
+84
+]
+},
+"mitigo": {
+"count": 2,
+"psalms": [
+88,
+93
+]
+},
+"mitis": {
+"count": 2,
+"psalms": [
+24,
+85
+]
+},
+"mitto": {
+"count": 21,
+"psalms": [
+17,
+19,
+21,
+56,
+77,
+80,
+104,
+105,
+106,
+110,
+125,
+134,
+147
+]
+},
+"moab": {
+"count": 3,
+"psalms": [
+59,
+82,
+107
+]
+},
+"modicus": {
+"count": 2,
+"psalms": [
+36,
+41
+]
+},
+"mola": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"molestus": {
+"count": 2,
+"psalms": [
+34,
+54
+]
+},
+"mollio": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"mons": {
+"count": 53,
+"psalms": [
+2,
+3,
+10,
+14,
+17,
+23,
+35,
+41,
+42,
+45,
+47,
+49,
+64,
+67,
+71,
+73,
+74,
+75,
+77,
+79,
+82,
+86,
+89,
+94,
+96,
+97,
+98,
+103,
+113,
+120,
+124,
+132,
+143,
+146,
+148
+]
+},
+"morior": {
+"count": 7,
+"psalms": [
+30,
+40,
+48,
+81,
+105,
+113,
+117
+]
+},
+"moror": {
+"count": 1,
+"psalms": [
+69
+]
+},
+"mors": {
+"count": 28,
+"psalms": [
+6,
+7,
+9,
+12,
+17,
+21,
+22,
+32,
+33,
+43,
+48,
+54,
+55,
+67,
+72,
+77,
+87,
+88,
+106,
+114,
+115,
+117
+]
+},
+"morticinus": {
+"count": 1,
+"psalms": [
+78
+]
+},
+"mortifico": {
+"count": 4,
+"psalms": [
+36,
+43,
+78,
+108
+]
+},
+"mortuus": {
+"count": 3,
+"psalms": [
+87,
+142
+]
+},
+"morus": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"mos": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"motus": {
+"count": 3,
+"psalms": [
+12,
+88,
+93
+]
+},
+"moueo": {
+"count": 16,
+"psalms": [
+9,
+14,
+16,
+21,
+29,
+35,
+45,
+61,
+67,
+72,
+81,
+97,
+98,
+106,
+108,
+113
+]
+},
+"mox": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"moyses": {
+"count": 7,
+"psalms": [
+76,
+98,
+102,
+104,
+105
+]
+},
+"multae": {
+"count": 1,
+"psalms": [
+33
+]
+},
+"multiplex": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"multipliciter": {
+"count": 1,
+"psalms": [
+62
+]
+},
+"multiplico": {
+"count": 23,
+"psalms": [
+3,
+4,
+11,
+15,
+17,
+24,
+35,
+37,
+39,
+48,
+64,
+68,
+70,
+91,
+105,
+106,
+118,
+137,
+138
+]
+},
+"multitudo": {
+"count": 20,
+"psalms": [
+5,
+9,
+30,
+32,
+36,
+43,
+48,
+50,
+51,
+63,
+65,
+68,
+76,
+93,
+105,
+146,
+150
+]
+},
+"multum": {
+"count": 3,
+"psalms": [
+119,
+122
+]
+},
+"multus": {
+"count": 42,
+"psalms": [
+3,
+4,
+17,
+18,
+21,
+24,
+28,
+30,
+31,
+32,
+35,
+36,
+39,
+54,
+55,
+67,
+70,
+76,
+77,
+85,
+88,
+92,
+96,
+102,
+106,
+108,
+109,
+118,
+134,
+143,
+144
+]
+},
+"mulus": {
+"count": 1,
+"psalms": [
+31
+]
+},
+"mundo": {
+"count": 2,
+"psalms": [
+18,
+50
+]
+},
+"mundus": {
+"count": 3,
+"psalms": [
+23,
+50
+]
+},
+"munio": {
+"count": 4,
+"psalms": [
+30,
+59,
+70,
+107
+]
+},
+"munus": {
+"count": 6,
+"psalms": [
+14,
+25,
+44,
+67,
+71,
+75
+]
+},
+"murmuro": {
+"count": 2,
+"psalms": [
+58,
+105
+]
+},
+"murus": {
+"count": 3,
+"psalms": [
+17,
+50,
+54
+]
+},
+"mutatio": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"muto": {
+"count": 3,
+"psalms": [
+101,
+105
+]
+},
+"mutuor": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"mutus": {
+"count": 2,
+"psalms": [
+30,
+37
+]
+},
+"myrrha": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"nam": {
+"count": 4,
+"psalms": [
+22,
+61,
+70,
+118
+]
+},
+"naris": {
+"count": 1,
+"psalms": [
+113
+]
+},
+"narrabimus": {
+"count": 1,
+"psalms": [
+74
+]
+},
+"narro": {
+"count": 17,
+"psalms": [
+9,
+21,
+47,
+54,
+63,
+65,
+72,
+77,
+86,
+87,
+104,
+117,
+118,
+144
+]
+},
+"nascor": {
+"count": 4,
+"psalms": [
+21,
+44,
+77,
+86
+]
+},
+"natio": {
+"count": 9,
+"psalms": [
+17,
+72,
+78,
+105,
+107,
+109,
+147,
+149
+]
+},
+"natiuitas": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"natus": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"nauis": {
+"count": 3,
+"psalms": [
+47,
+103,
+106
+]
+},
+"ne": {
+"count": 59,
+"psalms": [
+6,
+9,
+12,
+15,
+21,
+24,
+25,
+26,
+27,
+33,
+34,
+37,
+38,
+39,
+43,
+48,
+50,
+54,
+58,
+68,
+69,
+70,
+73,
+77,
+78,
+82,
+89,
+90,
+101,
+105,
+108,
+118,
+137,
+139
+]
+},
+"nebula": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"necessitas": {
+"count": 6,
+"psalms": [
+24,
+30,
+106
+]
+},
+"negotium": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"nemo": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"neomenius": {
+"count": 1,
+"psalms": [
+80
+]
+},
+"nephtalus": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"nequam": {
+"count": 1,
+"psalms": [
+63
+]
+},
+"nequando": {
+"count": 8,
+"psalms": [
+2,
+7,
+12,
+27,
+37,
+49,
+58,
+113
+]
+},
+"neque": {
+"count": 64,
+"psalms": [
+1,
+5,
+6,
+7,
+14,
+15,
+17,
+18,
+21,
+23,
+24,
+26,
+29,
+30,
+31,
+34,
+35,
+36,
+37,
+43,
+48,
+49,
+58,
+68,
+74,
+77,
+80,
+81,
+82,
+88,
+93,
+102,
+103,
+106,
+108,
+113,
+120,
+130,
+134,
+143,
+146
+]
+},
+"nequitia": {
+"count": 4,
+"psalms": [
+7,
+27,
+54,
+72
+]
+},
+"nescio": {
+"count": 2,
+"psalms": [
+72,
+81
+]
+},
+"nidifico": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"nidus": {
+"count": 1,
+"psalms": [
+83
+]
+},
+"nihil": {
+"count": 6,
+"psalms": [
+22,
+57,
+75,
+88,
+89,
+105
+]
+},
+"nihilum": {
+"count": 10,
+"psalms": [
+14,
+38,
+55,
+58,
+59,
+72,
+77,
+80,
+107
+]
+},
+"nimis": {
+"count": 21,
+"psalms": [
+37,
+45,
+47,
+77,
+78,
+91,
+92,
+95,
+96,
+106,
+108,
+111,
+115,
+118,
+138,
+141,
+144
+]
+},
+"nisi": {
+"count": 7,
+"psalms": [
+7,
+93,
+118,
+123,
+126
+]
+},
+"nix": {
+"count": 4,
+"psalms": [
+50,
+67,
+147,
+148
+]
+},
+"nobilis": {
+"count": 1,
+"psalms": [
+149
+]
+},
+"noceo": {
+"count": 5,
+"psalms": [
+26,
+34,
+88,
+104
+]
+},
+"nocturnus": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"nolo": {
+"count": 22,
+"psalms": [
+4,
+31,
+35,
+36,
+39,
+61,
+74,
+77,
+94,
+102,
+104,
+108,
+118,
+145
+]
+},
+"nomen": {
+"count": 113,
+"psalms": [
+5,
+7,
+8,
+9,
+12,
+15,
+17,
+19,
+21,
+22,
+24,
+28,
+30,
+32,
+33,
+39,
+40,
+43,
+44,
+47,
+48,
+51,
+53,
+60,
+62,
+65,
+67,
+68,
+71,
+73,
+74,
+75,
+78,
+79,
+82,
+85,
+88,
+90,
+91,
+95,
+98,
+99,
+101,
+102,
+104,
+105,
+108,
+110,
+112,
+113,
+114,
+115,
+117,
+118,
+121,
+123,
+128,
+134,
+137,
+139,
+141,
+142,
+144,
+146,
+148,
+149
+]
+},
+"non": {
+"count": 402,
+"psalms": [
+1,
+3,
+5,
+6,
+7,
+9,
+13,
+14,
+15,
+16,
+17,
+18,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+42,
+43,
+45,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+57,
+58,
+59,
+61,
+63,
+65,
+67,
+68,
+70,
+71,
+72,
+73,
+74,
+76,
+77,
+78,
+79,
+80,
+82,
+83,
+85,
+87,
+88,
+90,
+91,
+92,
+93,
+94,
+95,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+111,
+113,
+117,
+118,
+120,
+123,
+124,
+126,
+128,
+130,
+131,
+134,
+136,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+147,
+148
+]
+},
+"nonne": {
+"count": 8,
+"psalms": [
+13,
+38,
+43,
+52,
+59,
+61,
+107,
+138
+]
+},
+"nos": {
+"count": 112,
+"psalms": [
+2,
+4,
+5,
+11,
+19,
+32,
+43,
+45,
+46,
+47,
+59,
+64,
+65,
+66,
+67,
+73,
+77,
+78,
+79,
+84,
+89,
+94,
+99,
+102,
+105,
+107,
+113,
+116,
+117,
+122,
+123,
+125,
+135,
+136
+]
+},
+"nosco": {
+"count": 9,
+"psalms": [
+1,
+9,
+30,
+36,
+43,
+78,
+80,
+89,
+118
+]
+},
+"noster": {
+"count": 133,
+"psalms": [
+8,
+11,
+17,
+19,
+21,
+32,
+34,
+39,
+43,
+45,
+46,
+47,
+49,
+59,
+61,
+64,
+65,
+66,
+67,
+73,
+76,
+77,
+78,
+79,
+80,
+83,
+84,
+88,
+89,
+91,
+93,
+94,
+97,
+98,
+102,
+104,
+105,
+107,
+112,
+113,
+114,
+117,
+121,
+122,
+123,
+125,
+133,
+134,
+135,
+136,
+140,
+146
+]
+},
+"nota": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"notam": {
+"count": 2,
+"psalms": [
+76,
+142
+]
+},
+"notas": {
+"count": 1,
+"psalms": [
+15
+]
+},
+"notus": {
+"count": 10,
+"psalms": [
+38,
+54,
+75,
+77,
+87,
+97,
+102,
+105,
+144
+]
+},
+"nouacula": {
+"count": 1,
+"psalms": [
+51
+]
+},
+"nouella": {
+"count": 1,
+"psalms": [
+127
+]
+},
+"nouellus": {
+"count": 2,
+"psalms": [
+68,
+143
+]
+},
+"nouissimus": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"nouus": {
+"count": 7,
+"psalms": [
+32,
+39,
+95,
+97,
+138,
+143,
+149
+]
+},
+"nox": {
+"count": 28,
+"psalms": [
+1,
+6,
+15,
+16,
+18,
+21,
+31,
+41,
+54,
+73,
+76,
+77,
+87,
+89,
+91,
+103,
+104,
+118,
+120,
+129,
+133,
+135,
+138
+]
+},
+"nubes": {
+"count": 16,
+"psalms": [
+17,
+35,
+56,
+67,
+76,
+77,
+88,
+96,
+98,
+103,
+104,
+107,
+134,
+146
+]
+},
+"numero": {
+"count": 1,
+"psalms": [
+146
+]
+},
+"numerus": {
+"count": 7,
+"psalms": [
+38,
+39,
+103,
+104,
+146
+]
+},
+"numquid": {
+"count": 14,
+"psalms": [
+7,
+29,
+40,
+49,
+76,
+77,
+84,
+86,
+87,
+88,
+93
+]
+},
+"nunc": {
+"count": 20,
+"psalms": [
+2,
+11,
+16,
+19,
+26,
+38,
+43,
+70,
+76,
+112,
+113,
+117,
+120,
+123,
+124,
+128,
+130,
+133
+]
+},
+"nuntius": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"nuto": {
+"count": 1,
+"psalms": [
+108
+]
+},
+"nycticorax": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"o": {
+"count": 4,
+"psalms": [
+114,
+115,
+117
+]
+},
+"obdormio": {
+"count": 2,
+"psalms": [
+12,
+43
+]
+},
+"obduro": {
+"count": 1,
+"psalms": [
+94
+]
+},
+"obedio": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"oblatio": {
+"count": 2,
+"psalms": [
+39,
+50
+]
+},
+"obligatio": {
+"count": 1,
+"psalms": [
+124
+]
+},
+"obligo": {
+"count": 1,
+"psalms": [
+19
+]
+},
+"obliti": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"oblitus": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"obliuio": {
+"count": 4,
+"psalms": [
+9,
+30,
+87,
+136
+]
+},
+"obliuiscor": {
+"count": 30,
+"psalms": [
+9,
+12,
+41,
+43,
+44,
+49,
+58,
+73,
+76,
+77,
+101,
+102,
+105,
+118,
+136
+]
+},
+"obloquor": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"obmutues": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"obmutui": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"obscuro": {
+"count": 4,
+"psalms": [
+68,
+73,
+104,
+138
+]
+},
+"obscurus": {
+"count": 2,
+"psalms": [
+10,
+142
+]
+},
+"obsecratio": {
+"count": 1,
+"psalms": [
+142
+]
+},
+"obseruo": {
+"count": 5,
+"psalms": [
+17,
+30,
+36,
+55,
+129
+]
+},
+"obsideo": {
+"count": 2,
+"psalms": [
+21
+]
+},
+"obstruo": {
+"count": 1,
+"psalms": [
+62
+]
+},
+"obtineo": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"obturo": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"obuio": {
+"count": 1,
+"psalms": [
+84
+]
+},
+"obumbro": {
+"count": 2,
+"psalms": [
+90,
+139
+]
+},
+"occasus": {
+"count": 5,
+"psalms": [
+49,
+67,
+103,
+106,
+112
+]
+},
+"occidens": {
+"count": 2,
+"psalms": [
+74,
+102
+]
+},
+"occido": {
+"count": 9,
+"psalms": [
+58,
+77,
+93,
+104,
+134,
+135,
+138
+]
+},
+"occisio": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"occulto": {
+"count": 2,
+"psalms": [
+77,
+138
+]
+},
+"occultus": {
+"count": 5,
+"psalms": [
+9,
+18,
+50,
+63,
+138
+]
+},
+"occursus": {
+"count": 2,
+"psalms": [
+18,
+58
+]
+},
+"octoginta": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"oculus": {
+"count": 58,
+"psalms": [
+5,
+6,
+9,
+10,
+12,
+13,
+16,
+17,
+18,
+24,
+25,
+30,
+31,
+32,
+33,
+34,
+35,
+37,
+53,
+65,
+68,
+76,
+78,
+87,
+89,
+90,
+91,
+93,
+100,
+113,
+114,
+117,
+118,
+120,
+122,
+130,
+131,
+134,
+138,
+140,
+144
+]
+},
+"odi": {
+"count": 26,
+"psalms": [
+5,
+10,
+17,
+20,
+24,
+30,
+33,
+34,
+37,
+43,
+44,
+49,
+54,
+67,
+68,
+73,
+82,
+85,
+105,
+119,
+128,
+138
+]
+},
+"odientes": {
+"count": 3,
+"psalms": [
+17,
+43,
+88
+]
+},
+"odio": {
+"count": 6,
+"psalms": [
+35,
+96,
+100,
+104,
+105,
+118
+]
+},
+"odium": {
+"count": 8,
+"psalms": [
+24,
+35,
+108,
+118,
+138
+]
+},
+"odiuus": {
+"count": 1,
+"psalms": [
+25
+]
+},
+"odoro": {
+"count": 1,
+"psalms": [
+113
+]
+},
+"offendo": {
+"count": 2,
+"psalms": [
+90,
+94
+]
+},
+"offero": {
+"count": 4,
+"psalms": [
+65,
+67,
+71
+]
+},
+"og": {
+"count": 2,
+"psalms": [
+134,
+135
+]
+},
+"oleum": {
+"count": 9,
+"psalms": [
+4,
+22,
+44,
+54,
+88,
+103,
+108,
+140
+]
+},
+"oliua": {
+"count": 2,
+"psalms": [
+51,
+127
+]
+},
+"omnis": {
+"count": 305,
+"psalms": [
+1,
+2,
+3,
+5,
+6,
+7,
+8,
+9,
+13,
+15,
+17,
+18,
+19,
+20,
+21,
+22,
+24,
+26,
+28,
+30,
+31,
+32,
+33,
+34,
+35,
+37,
+38,
+39,
+40,
+41,
+43,
+44,
+46,
+48,
+49,
+50,
+51,
+52,
+53,
+55,
+56,
+58,
+61,
+62,
+63,
+64,
+65,
+66,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+79,
+81,
+82,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+110,
+112,
+113,
+115,
+116,
+117,
+118,
+120,
+127,
+128,
+129,
+131,
+133,
+134,
+135,
+137,
+138,
+142,
+144,
+145,
+146,
+147,
+148,
+149,
+150
+]
+},
+"onager": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"onus": {
+"count": 2,
+"psalms": [
+37,
+80
+]
+},
+"opera": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"operatio": {
+"count": 2,
+"psalms": [
+103,
+106
+]
+},
+"operio": {
+"count": 14,
+"psalms": [
+68,
+70,
+72,
+77,
+79,
+84,
+103,
+105,
+108,
+139,
+146
+]
+},
+"operor": {
+"count": 23,
+"psalms": [
+5,
+6,
+13,
+14,
+27,
+35,
+43,
+52,
+57,
+58,
+63,
+67,
+73,
+91,
+93,
+100,
+118,
+124,
+140
+]
+},
+"opertorium": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"oppilo": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"opportunitas": {
+"count": 2,
+"psalms": [
+9
+]
+},
+"opportunus": {
+"count": 2,
+"psalms": [
+31,
+144
+]
+},
+"opprobrium": {
+"count": 17,
+"psalms": [
+14,
+21,
+30,
+38,
+43,
+56,
+68,
+77,
+78,
+88,
+108,
+118,
+122
+]
+},
+"ops": {
+"count": 1,
+"psalms": [
+40
+]
+},
+"opus": {
+"count": 55,
+"psalms": [
+8,
+9,
+16,
+18,
+27,
+32,
+43,
+45,
+61,
+63,
+65,
+76,
+77,
+85,
+89,
+91,
+94,
+101,
+102,
+103,
+104,
+105,
+106,
+108,
+110,
+113,
+117,
+134,
+137,
+138,
+142,
+144
+]
+},
+"ora": {
+"count": 1,
+"psalms": [
+132
+]
+},
+"oratio": {
+"count": 31,
+"psalms": [
+4,
+5,
+6,
+16,
+30,
+34,
+38,
+41,
+53,
+54,
+60,
+63,
+64,
+65,
+68,
+79,
+83,
+85,
+87,
+101,
+105,
+108,
+114,
+140,
+141,
+142
+]
+},
+"orbis": {
+"count": 17,
+"psalms": [
+9,
+17,
+18,
+23,
+32,
+48,
+49,
+71,
+76,
+88,
+89,
+92,
+95,
+96,
+97
+]
+},
+"ordinatio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"ordino": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"ordo": {
+"count": 1,
+"psalms": [
+109
+]
+},
+"oreb": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"organum": {
+"count": 2,
+"psalms": [
+136,
+150
+]
+},
+"oriens": {
+"count": 2,
+"psalms": [
+67,
+74
+]
+},
+"orior": {
+"count": 5,
+"psalms": [
+71,
+84,
+96,
+102,
+103
+]
+},
+"oro": {
+"count": 4,
+"psalms": [
+5,
+27,
+31,
+108
+]
+},
+"orphanorum": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"orphanus": {
+"count": 2,
+"psalms": [
+9,
+108
+]
+},
+"ortus": {
+"count": 3,
+"psalms": [
+49,
+106,
+112
+]
+},
+"os": {
+"count": 82,
+"psalms": [
+5,
+6,
+8,
+9,
+13,
+16,
+18,
+21,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+41,
+48,
+49,
+50,
+52,
+53,
+57,
+58,
+61,
+62,
+65,
+68,
+70,
+72,
+77,
+80,
+88,
+101,
+104,
+106,
+108,
+113,
+118,
+125,
+134,
+137,
+138,
+140,
+143,
+144
+]
+},
+"osculor": {
+"count": 1,
+"psalms": [
+84
+]
+},
+"ostendo": {
+"count": 11,
+"psalms": [
+4,
+49,
+58,
+59,
+70,
+77,
+79,
+84,
+90
+]
+},
+"ostium": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"ouis": {
+"count": 18,
+"psalms": [
+8,
+43,
+48,
+64,
+73,
+76,
+77,
+78,
+79,
+94,
+99,
+106,
+113,
+118,
+143
+]
+},
+"pacifice": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"pacificus": {
+"count": 2,
+"psalms": [
+36,
+119
+]
+},
+"paco": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"paene": {
+"count": 2,
+"psalms": [
+72
+]
+},
+"pallor": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"palma": {
+"count": 1,
+"psalms": [
+91
+]
+},
+"palmes": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"palpebra": {
+"count": 2,
+"psalms": [
+10,
+131
+]
+},
+"palpo": {
+"count": 1,
+"psalms": [
+113
+]
+},
+"panis": {
+"count": 17,
+"psalms": [
+13,
+36,
+40,
+41,
+52,
+77,
+79,
+101,
+103,
+104,
+126,
+131
+]
+},
+"parabola": {
+"count": 3,
+"psalms": [
+48,
+68,
+77
+]
+},
+"parata": {
+"count": 1,
+"psalms": [
+92
+]
+},
+"paratus": {
+"count": 2,
+"psalms": [
+111,
+118
+]
+},
+"parco": {
+"count": 3,
+"psalms": [
+18,
+71,
+77
+]
+},
+"pario": {
+"count": 2,
+"psalms": [
+7,
+61
+]
+},
+"paro": {
+"count": 20,
+"psalms": [
+7,
+9,
+10,
+16,
+22,
+37,
+56,
+64,
+67,
+77,
+98,
+102,
+107,
+131,
+146
+]
+},
+"pars": {
+"count": 4,
+"psalms": [
+10,
+15,
+62,
+72
+]
+},
+"particeps": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"participatio": {
+"count": 1,
+"psalms": [
+121
+]
+},
+"partior": {
+"count": 1,
+"psalms": [
+59
+]
+},
+"parturio": {
+"count": 2,
+"psalms": [
+7,
+47
+]
+},
+"parue": {
+"count": 2,
+"psalms": [
+8,
+93
+]
+},
+"parum": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"paruulus": {
+"count": 6,
+"psalms": [
+16,
+18,
+63,
+114,
+118,
+136
+]
+},
+"pascere": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"pasco": {
+"count": 2,
+"psalms": [
+36,
+77
+]
+},
+"pascuus": {
+"count": 5,
+"psalms": [
+22,
+73,
+78,
+94,
+99
+]
+},
+"passer": {
+"count": 5,
+"psalms": [
+10,
+83,
+101,
+103,
+123
+]
+},
+"pateo": {
+"count": 2,
+"psalms": [
+5,
+13
+]
+},
+"pater": {
+"count": 19,
+"psalms": [
+21,
+26,
+38,
+43,
+44,
+48,
+67,
+77,
+88,
+94,
+102,
+105,
+108
+]
+},
+"patiens": {
+"count": 1,
+"psalms": [
+91
+]
+},
+"patientia": {
+"count": 3,
+"psalms": [
+9,
+61,
+70
+]
+},
+"patior": {
+"count": 7,
+"psalms": [
+7,
+58,
+85,
+102,
+144,
+145
+]
+},
+"patria": {
+"count": 1,
+"psalms": [
+95
+]
+},
+"paucitas": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"paucus": {
+"count": 4,
+"psalms": [
+16,
+104,
+106,
+108
+]
+},
+"pauimentum": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"paulo": {
+"count": 2,
+"psalms": [
+8,
+93
+]
+},
+"paulus": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"pauper": {
+"count": 49,
+"psalms": [
+9,
+10,
+11,
+21,
+24,
+33,
+34,
+36,
+39,
+40,
+48,
+67,
+68,
+69,
+71,
+73,
+78,
+81,
+85,
+87,
+106,
+108,
+111,
+112,
+131,
+139
+]
+},
+"paupertas": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"pax": {
+"count": 24,
+"psalms": [
+4,
+13,
+27,
+28,
+33,
+34,
+36,
+37,
+40,
+54,
+71,
+72,
+75,
+84,
+118,
+119,
+121,
+124,
+127,
+147
+]
+},
+"peccator": {
+"count": 52,
+"psalms": [
+1,
+9,
+10,
+27,
+31,
+35,
+36,
+38,
+54,
+57,
+67,
+70,
+72,
+74,
+81,
+91,
+93,
+96,
+100,
+103,
+105,
+108,
+111,
+118,
+128,
+138,
+139,
+140,
+144,
+146
+]
+},
+"peccatori": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"peccatum": {
+"count": 36,
+"psalms": [
+1,
+3,
+7,
+9,
+24,
+31,
+33,
+36,
+37,
+39,
+50,
+58,
+74,
+77,
+78,
+81,
+83,
+84,
+88,
+90,
+102,
+108,
+111,
+118,
+124,
+128,
+140,
+145
+]
+},
+"peccatus": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"pecco": {
+"count": 7,
+"psalms": [
+4,
+40,
+50,
+77,
+105,
+118
+]
+},
+"pecunia": {
+"count": 1,
+"psalms": [
+14
+]
+},
+"pecus": {
+"count": 3,
+"psalms": [
+8,
+134,
+148
+]
+},
+"pedes": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"pellicano": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"pellis": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"penetralis": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"penna": {
+"count": 6,
+"psalms": [
+17,
+54,
+67,
+90,
+103,
+138
+]
+},
+"pennatus": {
+"count": 2,
+"psalms": [
+77,
+148
+]
+},
+"per": {
+"count": 17,
+"psalms": [
+6,
+7,
+12,
+15,
+21,
+32,
+41,
+49,
+65,
+77,
+91,
+104,
+120,
+135,
+144
+]
+},
+"perambulabam": {
+"count": 1,
+"psalms": [
+100
+]
+},
+"perambulo": {
+"count": 3,
+"psalms": [
+8,
+67,
+90
+]
+},
+"percipio": {
+"count": 8,
+"psalms": [
+5,
+16,
+38,
+48,
+53,
+83,
+85,
+142
+]
+},
+"percutio": {
+"count": 12,
+"psalms": [
+3,
+68,
+77,
+101,
+104,
+134,
+135
+]
+},
+"perditio": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"perdo": {
+"count": 9,
+"psalms": [
+5,
+20,
+25,
+27,
+30,
+33,
+72,
+118,
+142
+]
+},
+"perduco": {
+"count": 2,
+"psalms": [
+77
+]
+},
+"peregrinatio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"peregrinus": {
+"count": 2,
+"psalms": [
+38,
+68
+]
+},
+"pereo": {
+"count": 23,
+"psalms": [
+1,
+2,
+9,
+36,
+40,
+48,
+67,
+72,
+79,
+82,
+91,
+101,
+111,
+118,
+141,
+145
+]
+},
+"perfectus": {
+"count": 2,
+"psalms": [
+88,
+138
+]
+},
+"perficio": {
+"count": 8,
+"psalms": [
+8,
+10,
+16,
+17,
+30,
+39,
+67,
+79
+]
+},
+"perfundo": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"periculum": {
+"count": 1,
+"psalms": [
+114
+]
+},
+"periissem": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"permaneo": {
+"count": 10,
+"psalms": [
+5,
+9,
+18,
+60,
+71,
+101,
+118
+]
+},
+"perpetuus": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"persequor": {
+"count": 22,
+"psalms": [
+7,
+17,
+30,
+33,
+34,
+43,
+68,
+70,
+82,
+100,
+108,
+118,
+141,
+142
+]
+},
+"perseuero": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"perspicio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"pertranseo": {
+"count": 11,
+"psalms": [
+38,
+65,
+67,
+102,
+103,
+104,
+123
+]
+},
+"peruerto": {
+"count": 2,
+"psalms": [
+17
+]
+},
+"pes": {
+"count": 32,
+"psalms": [
+8,
+9,
+13,
+17,
+21,
+24,
+25,
+30,
+35,
+37,
+39,
+46,
+55,
+56,
+65,
+67,
+90,
+93,
+98,
+104,
+109,
+113,
+114,
+118,
+120,
+121,
+131
+]
+},
+"pestilentia": {
+"count": 1,
+"psalms": [
+1
+]
+},
+"petitio": {
+"count": 3,
+"psalms": [
+19,
+36,
+105
+]
+},
+"peto": {
+"count": 4,
+"psalms": [
+20,
+26,
+77,
+104
+]
+},
+"petra": {
+"count": 13,
+"psalms": [
+26,
+39,
+60,
+77,
+80,
+103,
+104,
+113,
+136,
+140
+]
+},
+"pharao": {
+"count": 2,
+"psalms": [
+134,
+135
+]
+},
+"pharetra": {
+"count": 1,
+"psalms": [
+10
+]
+},
+"phinees": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"pinguedo": {
+"count": 1,
+"psalms": [
+62
+]
+},
+"pinguesco": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"pinguis": {
+"count": 6,
+"psalms": [
+19,
+21,
+67,
+77
+]
+},
+"piscis": {
+"count": 2,
+"psalms": [
+8,
+104
+]
+},
+"placatio": {
+"count": 1,
+"psalms": [
+48
+]
+},
+"placeo": {
+"count": 5,
+"psalms": [
+52,
+55,
+68,
+101,
+114
+]
+},
+"placo": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"plaga": {
+"count": 3,
+"psalms": [
+38,
+63,
+72
+]
+},
+"planctus": {
+"count": 1,
+"psalms": [
+29
+]
+},
+"plantatio": {
+"count": 1,
+"psalms": [
+143
+]
+},
+"planto": {
+"count": 9,
+"psalms": [
+1,
+43,
+79,
+91,
+93,
+103,
+106
+]
+},
+"plasmo": {
+"count": 2,
+"psalms": [
+73,
+118
+]
+},
+"platea": {
+"count": 3,
+"psalms": [
+17,
+54,
+143
+]
+},
+"plaudo": {
+"count": 2,
+"psalms": [
+46,
+97
+]
+},
+"plebs": {
+"count": 14,
+"psalms": [
+13,
+21,
+27,
+44,
+52,
+67,
+84,
+88,
+93,
+106
+]
+},
+"plenitudo": {
+"count": 5,
+"psalms": [
+23,
+49,
+88,
+95,
+97
+]
+},
+"plenus": {
+"count": 8,
+"psalms": [
+9,
+13,
+32,
+47,
+72,
+74,
+118,
+143
+]
+},
+"ploro": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"pluo": {
+"count": 3,
+"psalms": [
+10,
+77
+]
+},
+"pluuia": {
+"count": 2,
+"psalms": [
+71,
+104
+]
+},
+"pluuius": {
+"count": 3,
+"psalms": [
+67,
+134,
+146
+]
+},
+"poeniteo": {
+"count": 2,
+"psalms": [
+105,
+109
+]
+},
+"polluo": {
+"count": 2,
+"psalms": [
+73,
+78
+]
+},
+"pomus": {
+"count": 1,
+"psalms": [
+78
+]
+},
+"pone": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"pono": {
+"count": 68,
+"psalms": [
+11,
+12,
+17,
+18,
+20,
+26,
+32,
+38,
+43,
+45,
+47,
+48,
+49,
+51,
+55,
+65,
+68,
+72,
+73,
+77,
+78,
+79,
+80,
+82,
+83,
+84,
+87,
+88,
+89,
+90,
+103,
+104,
+106,
+108,
+109,
+118,
+131,
+138,
+139,
+147,
+148
+]
+},
+"populus": {
+"count": 102,
+"psalms": [
+2,
+3,
+7,
+9,
+17,
+21,
+27,
+28,
+32,
+34,
+43,
+44,
+46,
+49,
+55,
+56,
+58,
+59,
+61,
+66,
+67,
+71,
+72,
+73,
+76,
+77,
+78,
+80,
+82,
+86,
+88,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+101,
+104,
+105,
+107,
+110,
+112,
+113,
+115,
+116,
+124,
+134,
+135,
+143,
+148,
+149
+]
+},
+"porta": {
+"count": 15,
+"psalms": [
+9,
+23,
+68,
+72,
+86,
+99,
+106,
+117,
+126
+]
+},
+"portio": {
+"count": 3,
+"psalms": [
+49,
+118,
+141
+]
+},
+"porto": {
+"count": 3,
+"psalms": [
+90,
+125,
+147
+]
+},
+"portus": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"possessio": {
+"count": 5,
+"psalms": [
+2,
+77,
+103,
+104,
+134
+]
+},
+"possideo": {
+"count": 7,
+"psalms": [
+43,
+68,
+73,
+78,
+82,
+104,
+138
+]
+},
+"possum": {
+"count": 16,
+"psalms": [
+17,
+20,
+23,
+35,
+39,
+44,
+77,
+85,
+88,
+102,
+128,
+135,
+138,
+140
+]
+},
+"post": {
+"count": 4,
+"psalms": [
+43,
+44,
+62,
+77
+]
+},
+"postea": {
+"count": 2,
+"psalms": [
+15,
+48
+]
+},
+"posterior": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"posterus": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"postquam": {
+"count": 1,
+"psalms": [
+126
+]
+},
+"postula": {
+"count": 1,
+"psalms": [
+2
+]
+},
+"postulatio": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"postulo": {
+"count": 1,
+"psalms": [
+39
+]
+},
+"potens": {
+"count": 7,
+"psalms": [
+23,
+51,
+71,
+88,
+111,
+119,
+126
+]
+},
+"potentatus": {
+"count": 2,
+"psalms": [
+19,
+89
+]
+},
+"potentia": {
+"count": 11,
+"psalms": [
+64,
+70,
+75,
+79,
+88,
+105,
+144
+]
+},
+"potestas": {
+"count": 6,
+"psalms": [
+61,
+88,
+89,
+113,
+135
+]
+},
+"poto": {
+"count": 5,
+"psalms": [
+35,
+49,
+59,
+68,
+103
+]
+},
+"potus": {
+"count": 2,
+"psalms": [
+79,
+101
+]
+},
+"prae": {
+"count": 8,
+"psalms": [
+17,
+44,
+87,
+88,
+89,
+118,
+134
+]
+},
+"praecedo": {
+"count": 2,
+"psalms": [
+88,
+96
+]
+},
+"praeceps": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"praeceptum": {
+"count": 7,
+"psalms": [
+2,
+7,
+18,
+80,
+98,
+104,
+148
+]
+},
+"praecingo": {
+"count": 4,
+"psalms": [
+17,
+92,
+108
+]
+},
+"praecino": {
+"count": 1,
+"psalms": [
+146
+]
+},
+"praecipio": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"praecipitatio": {
+"count": 1,
+"psalms": [
+51
+]
+},
+"praeclarus": {
+"count": 3,
+"psalms": [
+15,
+22
+]
+},
+"praeda": {
+"count": 1,
+"psalms": [
+16
+]
+},
+"praedicatio": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"praedico": {
+"count": 1,
+"psalms": [
+2
+]
+},
+"praeoccupemus": {
+"count": 1,
+"psalms": [
+94
+]
+},
+"praeoccupo": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"praeparatio": {
+"count": 3,
+"psalms": [
+9,
+64,
+88
+]
+},
+"praeparo": {
+"count": 7,
+"psalms": [
+20,
+23,
+28,
+32,
+64,
+88
+]
+},
+"praesto": {
+"count": 2,
+"psalms": [
+18,
+29
+]
+},
+"praetendo": {
+"count": 1,
+"psalms": [
+35
+]
+},
+"praeter": {
+"count": 2,
+"psalms": [
+17
+]
+},
+"praetereo": {
+"count": 4,
+"psalms": [
+89,
+128,
+143,
+148
+]
+},
+"praetergredior": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"praeualeo": {
+"count": 2,
+"psalms": [
+51,
+64
+]
+},
+"praeualui": {
+"count": 1,
+"psalms": [
+12
+]
+},
+"praeuaricatio": {
+"count": 1,
+"psalms": [
+100
+]
+},
+"praeuaricor": {
+"count": 2,
+"psalms": [
+118
+]
+},
+"praeuenio": {
+"count": 9,
+"psalms": [
+16,
+17,
+20,
+58,
+67,
+87,
+118
+]
+},
+"praeuideo": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"prauus": {
+"count": 3,
+"psalms": [
+77,
+100
+]
+},
+"pretiosus": {
+"count": 3,
+"psalms": [
+18,
+20,
+115
+]
+},
+"pretium": {
+"count": 3,
+"psalms": [
+43,
+48,
+61
+]
+},
+"prex": {
+"count": 4,
+"psalms": [
+33,
+39,
+87,
+101
+]
+},
+"primitiae": {
+"count": 2,
+"psalms": [
+77,
+104
+]
+},
+"primogenitus": {
+"count": 5,
+"psalms": [
+77,
+88,
+104,
+134,
+135
+]
+},
+"princeps": {
+"count": 26,
+"psalms": [
+2,
+23,
+32,
+44,
+46,
+67,
+75,
+81,
+82,
+86,
+104,
+106,
+112,
+117,
+118,
+145,
+148
+]
+},
+"principalis": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"principatus": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"principium": {
+"count": 3,
+"psalms": [
+109,
+118,
+136
+]
+},
+"priuo": {
+"count": 1,
+"psalms": [
+83
+]
+},
+"priusquam": {
+"count": 5,
+"psalms": [
+38,
+57,
+89,
+118,
+128
+]
+},
+"pro": {
+"count": 19,
+"psalms": [
+31,
+34,
+37,
+39,
+44,
+55,
+80,
+89,
+104,
+105,
+108,
+115,
+118,
+137
+]
+},
+"probo": {
+"count": 7,
+"psalms": [
+11,
+16,
+65,
+67,
+80,
+94,
+138
+]
+},
+"probus": {
+"count": 2,
+"psalms": [
+25,
+138
+]
+},
+"procedo": {
+"count": 3,
+"psalms": [
+18,
+44,
+88
+]
+},
+"procella": {
+"count": 4,
+"psalms": [
+10,
+106,
+148
+]
+},
+"procido": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"prodeo": {
+"count": 2,
+"psalms": [
+16,
+72
+]
+},
+"prodigium": {
+"count": 6,
+"psalms": [
+45,
+70,
+77,
+104,
+134
+]
+},
+"produco": {
+"count": 5,
+"psalms": [
+68,
+103,
+131,
+134,
+146
+]
+},
+"proelium": {
+"count": 5,
+"psalms": [
+17,
+23,
+26,
+139,
+143
+]
+},
+"profano": {
+"count": 3,
+"psalms": [
+88
+]
+},
+"profectio": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"proficio": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"profundum": {
+"count": 3,
+"psalms": [
+67,
+68,
+106
+]
+},
+"profundus": {
+"count": 5,
+"psalms": [
+64,
+68,
+91,
+129
+]
+},
+"progenies": {
+"count": 4,
+"psalms": [
+47,
+48
+]
+},
+"prohibeo": {
+"count": 3,
+"psalms": [
+33,
+39,
+118
+]
+},
+"proicio": {
+"count": 8,
+"psalms": [
+1,
+2,
+16,
+21,
+49,
+50,
+70,
+76
+]
+},
+"proiectus": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"prolongo": {
+"count": 2,
+"psalms": [
+119,
+128
+]
+},
+"promissio": {
+"count": 1,
+"psalms": [
+55
+]
+},
+"promptuarium": {
+"count": 1,
+"psalms": [
+143
+]
+},
+"pronuntio": {
+"count": 5,
+"psalms": [
+70,
+118,
+141,
+144
+]
+},
+"propago": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"prope": {
+"count": 3,
+"psalms": [
+84,
+118,
+144
+]
+},
+"propheta": {
+"count": 2,
+"psalms": [
+73,
+104
+]
+},
+"propior": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"propitiatio": {
+"count": 1,
+"psalms": [
+129
+]
+},
+"propitio": {
+"count": 3,
+"psalms": [
+24,
+64,
+102
+]
+},
+"propitius": {
+"count": 3,
+"psalms": [
+77,
+78,
+98
+]
+},
+"propono": {
+"count": 4,
+"psalms": [
+53,
+85,
+100,
+136
+]
+},
+"propositio": {
+"count": 2,
+"psalms": [
+48,
+77
+]
+},
+"propter": {
+"count": 40,
+"psalms": [
+5,
+6,
+7,
+8,
+9,
+11,
+15,
+16,
+22,
+24,
+26,
+30,
+38,
+40,
+43,
+44,
+47,
+68,
+72,
+78,
+96,
+105,
+106,
+108,
+115,
+118,
+121,
+129,
+131,
+142
+]
+},
+"propterea": {
+"count": 12,
+"psalms": [
+17,
+41,
+44,
+45,
+51,
+65,
+109,
+118
+]
+},
+"prosper": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"prospere": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"prospero": {
+"count": 3,
+"psalms": [
+1,
+36,
+117
+]
+},
+"prospicio": {
+"count": 5,
+"psalms": [
+13,
+36,
+52,
+84,
+101
+]
+},
+"prosterno": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"protectio": {
+"count": 4,
+"psalms": [
+17,
+90,
+104,
+120
+]
+},
+"protector": {
+"count": 19,
+"psalms": [
+17,
+26,
+27,
+30,
+32,
+36,
+39,
+58,
+70,
+83,
+113,
+143
+]
+},
+"protego": {
+"count": 6,
+"psalms": [
+16,
+19,
+26,
+30,
+60,
+90
+]
+},
+"protexisti": {
+"count": 1,
+"psalms": [
+63
+]
+},
+"prouideo": {
+"count": 1,
+"psalms": [
+15
+]
+},
+"prouoco": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"proximus": {
+"count": 12,
+"psalms": [
+11,
+14,
+21,
+23,
+27,
+34,
+37,
+87,
+100,
+121
+]
+},
+"prudens": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"prudentia": {
+"count": 2,
+"psalms": [
+48,
+104
+]
+},
+"pruina": {
+"count": 2,
+"psalms": [
+77,
+118
+]
+},
+"psallo": {
+"count": 34,
+"psalms": [
+7,
+9,
+12,
+20,
+29,
+32,
+46,
+58,
+65,
+67,
+68,
+70,
+91,
+97,
+100,
+103,
+104,
+107,
+134,
+137,
+143,
+145,
+146,
+149
+]
+},
+"psalmus": {
+"count": 13,
+"psalms": [
+17,
+26,
+56,
+60,
+65,
+67,
+70,
+80,
+94,
+97,
+146
+]
+},
+"psalterium": {
+"count": 9,
+"psalms": [
+32,
+48,
+56,
+80,
+91,
+107,
+143,
+149,
+150
+]
+},
+"pudor": {
+"count": 2,
+"psalms": [
+70,
+108
+]
+},
+"puer": {
+"count": 4,
+"psalms": [
+68,
+85,
+104,
+112
+]
+},
+"pulchritudo": {
+"count": 4,
+"psalms": [
+44,
+49,
+77,
+95
+]
+},
+"pullus": {
+"count": 2,
+"psalms": [
+83,
+146
+]
+},
+"puluis": {
+"count": 10,
+"psalms": [
+1,
+7,
+17,
+21,
+29,
+34,
+43,
+77,
+102,
+103
+]
+},
+"punio": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"pupilla": {
+"count": 1,
+"psalms": [
+16
+]
+},
+"pupillus": {
+"count": 5,
+"psalms": [
+9,
+81,
+93,
+108,
+145
+]
+},
+"purgo": {
+"count": 1,
+"psalms": [
+11
+]
+},
+"puritas": {
+"count": 2,
+"psalms": [
+17
+]
+},
+"pusillanimitas": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"pusillus": {
+"count": 3,
+"psalms": [
+36,
+103,
+113
+]
+},
+"puteus": {
+"count": 2,
+"psalms": [
+54,
+68
+]
+},
+"putresco": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"quadraginta": {
+"count": 1,
+"psalms": [
+94
+]
+},
+"quaero": {
+"count": 32,
+"psalms": [
+4,
+9,
+23,
+34,
+36,
+37,
+39,
+53,
+62,
+68,
+69,
+70,
+77,
+82,
+85,
+103,
+104,
+118,
+121
+]
+},
+"quam": {
+"count": 17,
+"psalms": [
+8,
+22,
+30,
+51,
+62,
+65,
+72,
+83,
+91,
+103,
+117,
+118,
+132
+]
+},
+"quamdiu": {
+"count": 3,
+"psalms": [
+12,
+103,
+145
+]
+},
+"quando": {
+"count": 6,
+"psalms": [
+34,
+40,
+41,
+100,
+118
+]
+},
+"quantum": {
+"count": 1,
+"psalms": [
+102
+]
+},
+"quantus": {
+"count": 5,
+"psalms": [
+65,
+70,
+73,
+77
+]
+},
+"quare": {
+"count": 15,
+"psalms": [
+2,
+21,
+41,
+42,
+43,
+49
+]
+},
+"quasi": {
+"count": 8,
+"psalms": [
+9,
+34,
+36,
+72,
+73,
+77
+]
+},
+"quassatio": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"que": {
+"count": 3,
+"psalms": [
+36,
+93,
+146
+]
+},
+"quemadmodum": {
+"count": 7,
+"psalms": [
+28,
+32,
+35,
+36,
+41,
+77
+]
+},
+"qui": {
+"count": 489,
+"psalms": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+48,
+49,
+51,
+52,
+54,
+55,
+56,
+57,
+58,
+59,
+62,
+63,
+64,
+65,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+95,
+96,
+97,
+98,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+111,
+112,
+113,
+115,
+117,
+118,
+119,
+120,
+121,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+131,
+132,
+133,
+134,
+135,
+136,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+147,
+148,
+149
+]
+},
+"quia": {
+"count": 162,
+"psalms": [
+3,
+17,
+23,
+24,
+32,
+36,
+37,
+40,
+42,
+48,
+51,
+58,
+59,
+60,
+61,
+62,
+63,
+70,
+71,
+72,
+73,
+74,
+76,
+77,
+78,
+80,
+82,
+83,
+85,
+87,
+88,
+89,
+91,
+93,
+94,
+95,
+97,
+101,
+104,
+105,
+106,
+107,
+108,
+111,
+113,
+114,
+115,
+117,
+118,
+119,
+121,
+122,
+123,
+124,
+127,
+129,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+148,
+149
+]
+},
+"quicumque": {
+"count": 8,
+"psalms": [
+1,
+55,
+85,
+101,
+113,
+134,
+137
+]
+},
+"quid": {
+"count": 5,
+"psalms": [
+8,
+51,
+84,
+115,
+119
+]
+},
+"quidem": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"quiesco": {
+"count": 2,
+"psalms": [
+73,
+75
+]
+},
+"quis": {
+"count": 57,
+"psalms": [
+3,
+4,
+6,
+9,
+10,
+13,
+14,
+17,
+18,
+23,
+24,
+33,
+34,
+38,
+52,
+54,
+55,
+58,
+59,
+60,
+63,
+67,
+70,
+72,
+73,
+75,
+79,
+82,
+87,
+88,
+89,
+93,
+105,
+106,
+107,
+112,
+113,
+117,
+119,
+129,
+143,
+147
+]
+},
+"quisque": {
+"count": 1,
+"psalms": [
+48
+]
+},
+"quo": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"quoadus": {
+"count": 1,
+"psalms": [
+93
+]
+},
+"quod": {
+"count": 12,
+"psalms": [
+1,
+8,
+36,
+49,
+67,
+88,
+104,
+108,
+118,
+134
+]
+},
+"quomodo": {
+"count": 6,
+"psalms": [
+10,
+72,
+102,
+118,
+136
+]
+},
+"quoniam": {
+"count": 269,
+"psalms": [
+1,
+3,
+4,
+5,
+6,
+8,
+9,
+10,
+11,
+13,
+15,
+16,
+17,
+19,
+20,
+21,
+22,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+58,
+60,
+61,
+62,
+64,
+65,
+66,
+68,
+70,
+74,
+75,
+77,
+81,
+82,
+84,
+85,
+88,
+89,
+90,
+91,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+101,
+102,
+104,
+105,
+106,
+114,
+116,
+117,
+118,
+131,
+132,
+134,
+135,
+137,
+140,
+142,
+146,
+147
+]
+},
+"quot": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"quoties": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"quousque": {
+"count": 2,
+"psalms": [
+61,
+79
+]
+},
+"radix": {
+"count": 2,
+"psalms": [
+51,
+79
+]
+},
+"rahab": {
+"count": 1,
+"psalms": [
+86
+]
+},
+"rana": {
+"count": 2,
+"psalms": [
+77,
+104
+]
+},
+"rapina": {
+"count": 1,
+"psalms": [
+61
+]
+},
+"rapio": {
+"count": 7,
+"psalms": [
+7,
+9,
+21,
+49,
+68,
+103
+]
+},
+"raucus": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"recedo": {
+"count": 2,
+"psalms": [
+9,
+43
+]
+},
+"recens": {
+"count": 1,
+"psalms": [
+80
+]
+},
+"recordor": {
+"count": 8,
+"psalms": [
+9,
+41,
+77,
+97,
+102,
+108,
+136
+]
+},
+"recta": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"rector": {
+"count": 1,
+"psalms": [
+111
+]
+},
+"rectus": {
+"count": 11,
+"psalms": [
+18,
+24,
+26,
+32,
+50,
+77,
+91,
+93,
+106,
+118,
+142
+]
+},
+"redaco": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"redargutio": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"reddo": {
+"count": 16,
+"psalms": [
+7,
+21,
+27,
+49,
+50,
+55,
+60,
+61,
+64,
+65,
+75,
+78,
+93,
+115
+]
+},
+"redemisti": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"redemptio": {
+"count": 3,
+"psalms": [
+48,
+110,
+129
+]
+},
+"redemptor": {
+"count": 2,
+"psalms": [
+18,
+77
+]
+},
+"redeo": {
+"count": 2,
+"psalms": [
+77,
+108
+]
+},
+"redigo": {
+"count": 2,
+"psalms": [
+72,
+77
+]
+},
+"redimet": {
+"count": 2,
+"psalms": [
+33,
+54
+]
+},
+"redimo": {
+"count": 20,
+"psalms": [
+7,
+25,
+30,
+43,
+48,
+70,
+71,
+76,
+77,
+102,
+105,
+106,
+118,
+129,
+135,
+143
+]
+},
+"reduco": {
+"count": 1,
+"psalms": [
+70
+]
+},
+"refectio": {
+"count": 1,
+"psalms": [
+22
+]
+},
+"refloreo": {
+"count": 1,
+"psalms": [
+27
+]
+},
+"refrigerium": {
+"count": 1,
+"psalms": [
+65
+]
+},
+"refrigero": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"refugium": {
+"count": 14,
+"psalms": [
+9,
+17,
+30,
+31,
+45,
+58,
+70,
+89,
+90,
+93,
+103,
+143
+]
+},
+"regi": {
+"count": 1,
+"psalms": [
+46
+]
+},
+"regina": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"regio": {
+"count": 4,
+"psalms": [
+104,
+105,
+106,
+114
+]
+},
+"regium": {
+"count": 2,
+"psalms": [
+44
+]
+},
+"regno": {
+"count": 7,
+"psalms": [
+9,
+46,
+92,
+95,
+96,
+98,
+145
+]
+},
+"regnum": {
+"count": 13,
+"psalms": [
+21,
+44,
+45,
+67,
+78,
+102,
+104,
+134,
+144
+]
+},
+"rego": {
+"count": 17,
+"psalms": [
+7,
+10,
+22,
+24,
+27,
+31,
+32,
+35,
+36,
+47,
+63,
+72,
+96,
+106,
+111,
+124,
+139
+]
+},
+"regredior": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"relinquo": {
+"count": 3,
+"psalms": [
+48,
+104,
+124
+]
+},
+"reliquia": {
+"count": 1,
+"psalms": [
+20
+]
+},
+"reliquiae": {
+"count": 4,
+"psalms": [
+16,
+36,
+75
+]
+},
+"remaneo": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"rememoror": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"reminiscere": {
+"count": 1,
+"psalms": [
+24
+]
+},
+"reminiscor": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"remitto": {
+"count": 4,
+"psalms": [
+31,
+38,
+84
+]
+},
+"renes": {
+"count": 3,
+"psalms": [
+7,
+25,
+138
+]
+},
+"renis": {
+"count": 2,
+"psalms": [
+15,
+72
+]
+},
+"renouo": {
+"count": 3,
+"psalms": [
+38,
+102,
+103
+]
+},
+"renuo": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"repello": {
+"count": 8,
+"psalms": [
+43,
+61,
+77,
+87,
+93,
+118
+]
+},
+"repleo": {
+"count": 15,
+"psalms": [
+25,
+62,
+64,
+70,
+71,
+73,
+87,
+89,
+90,
+102,
+122,
+125
+]
+},
+"reprobo": {
+"count": 4,
+"psalms": [
+32,
+72,
+117
+]
+},
+"reptile": {
+"count": 2,
+"psalms": [
+68,
+103
+]
+},
+"repuli": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"repulisti": {
+"count": 7,
+"psalms": [
+42,
+43,
+59,
+73,
+88,
+107
+]
+},
+"reputo": {
+"count": 3,
+"psalms": [
+105,
+118,
+143
+]
+},
+"requies": {
+"count": 5,
+"psalms": [
+94,
+114,
+131
+]
+},
+"requiesco": {
+"count": 4,
+"psalms": [
+4,
+14,
+15,
+54
+]
+},
+"requiro": {
+"count": 14,
+"psalms": [
+9,
+13,
+21,
+24,
+26,
+30,
+43,
+52,
+60,
+104,
+118,
+141
+]
+},
+"res": {
+"count": 2,
+"psalms": [
+63,
+100
+]
+},
+"resisto": {
+"count": 2,
+"psalms": [
+16,
+75
+]
+},
+"respectus": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"respicio": {
+"count": 24,
+"psalms": [
+9,
+10,
+12,
+21,
+24,
+30,
+32,
+34,
+39,
+65,
+68,
+70,
+73,
+79,
+83,
+85,
+89,
+101,
+103,
+112,
+137
+]
+},
+"respondeo": {
+"count": 2,
+"psalms": [
+101,
+118
+]
+},
+"restituo": {
+"count": 2,
+"psalms": [
+15,
+34
+]
+},
+"resurgo": {
+"count": 2,
+"psalms": [
+1,
+40
+]
+},
+"resurrectio": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"resuscito": {
+"count": 1,
+"psalms": [
+40
+]
+},
+"reticulum": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"retribuo": {
+"count": 17,
+"psalms": [
+7,
+17,
+30,
+34,
+37,
+40,
+54,
+102,
+115,
+118,
+136,
+137,
+141
+]
+},
+"retributio": {
+"count": 9,
+"psalms": [
+18,
+27,
+68,
+90,
+93,
+102,
+118,
+130,
+136
+]
+},
+"retro": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"retrorsus": {
+"count": 10,
+"psalms": [
+9,
+34,
+39,
+43,
+49,
+55,
+69,
+113,
+128
+]
+},
+"reuelo": {
+"count": 5,
+"psalms": [
+17,
+28,
+36,
+97,
+118
+]
+},
+"reuerentia": {
+"count": 2,
+"psalms": [
+34,
+68
+]
+},
+"reuereor": {
+"count": 6,
+"psalms": [
+34,
+39,
+69,
+70
+]
+},
+"reuertor": {
+"count": 3,
+"psalms": [
+77,
+103,
+145
+]
+},
+"reuoco": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"rex": {
+"count": 68,
+"psalms": [
+2,
+5,
+17,
+19,
+20,
+23,
+28,
+32,
+43,
+44,
+46,
+47,
+59,
+60,
+62,
+67,
+71,
+73,
+75,
+79,
+83,
+88,
+94,
+97,
+98,
+101,
+104,
+107,
+109,
+118,
+134,
+135,
+137,
+143,
+144,
+148,
+149
+]
+},
+"rhamnus": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"rideo": {
+"count": 1,
+"psalms": [
+51
+]
+},
+"rigo": {
+"count": 2,
+"psalms": [
+6,
+103
+]
+},
+"riuus": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"rogo": {
+"count": 1,
+"psalms": [
+121
+]
+},
+"ros": {
+"count": 1,
+"psalms": [
+132
+]
+},
+"rota": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"roto": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"ruber": {
+"count": 2,
+"psalms": [
+105,
+135
+]
+},
+"rubrum": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"rubrus": {
+"count": 2,
+"psalms": [
+105,
+135
+]
+},
+"rugio": {
+"count": 3,
+"psalms": [
+21,
+37,
+103
+]
+},
+"ruina": {
+"count": 3,
+"psalms": [
+105,
+109,
+143
+]
+},
+"rupes": {
+"count": 1,
+"psalms": [
+113
+]
+},
+"saba": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"saccus": {
+"count": 1,
+"psalms": [
+29
+]
+},
+"sacerdos": {
+"count": 5,
+"psalms": [
+77,
+98,
+109,
+131
+]
+},
+"sacrificium": {
+"count": 13,
+"psalms": [
+4,
+19,
+39,
+49,
+50,
+105,
+106,
+140
+]
+},
+"sacrifico": {
+"count": 5,
+"psalms": [
+4,
+53,
+105,
+106,
+115
+]
+},
+"saeculum": {
+"count": 109,
+"psalms": [
+9,
+17,
+18,
+20,
+21,
+24,
+36,
+40,
+43,
+44,
+47,
+51,
+54,
+60,
+71,
+72,
+73,
+74,
+77,
+78,
+80,
+82,
+83,
+88,
+89,
+91,
+92,
+101,
+103,
+104,
+105,
+106,
+110,
+111,
+112,
+113,
+117,
+118,
+120,
+124,
+130,
+131,
+132,
+137,
+142,
+144,
+145,
+148
+]
+},
+"saepe": {
+"count": 3,
+"psalms": [
+105,
+128
+]
+},
+"sagitta": {
+"count": 12,
+"psalms": [
+7,
+10,
+17,
+37,
+44,
+56,
+63,
+76,
+90,
+119,
+126,
+143
+]
+},
+"sagitto": {
+"count": 3,
+"psalms": [
+10,
+63
+]
+},
+"salix": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"salmana": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"salsugo": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"salua": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"saluasti": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"saluatio": {
+"count": 1,
+"psalms": [
+27
+]
+},
+"saluator": {
+"count": 2,
+"psalms": [
+24,
+61
+]
+},
+"saluo": {
+"count": 19,
+"psalms": [
+29,
+30,
+32,
+33,
+35,
+36,
+43,
+54,
+58,
+70,
+97,
+105,
+118
+]
+},
+"salus": {
+"count": 29,
+"psalms": [
+3,
+17,
+19,
+21,
+26,
+32,
+34,
+36,
+37,
+50,
+59,
+68,
+73,
+87,
+88,
+107,
+117,
+118,
+139,
+143,
+145,
+149
+]
+},
+"salutare": {
+"count": 7,
+"psalms": [
+20,
+49,
+66,
+90,
+97,
+118
+]
+},
+"salutaris": {
+"count": 17,
+"psalms": [
+9,
+12,
+19,
+20,
+23,
+26,
+34,
+50,
+61,
+64,
+77,
+78,
+84,
+95,
+105,
+115,
+118
+]
+},
+"saluto": {
+"count": 22,
+"psalms": [
+11,
+13,
+17,
+39,
+41,
+42,
+43,
+52,
+61,
+67,
+69,
+70,
+84,
+94,
+118,
+131
+]
+},
+"saluus": {
+"count": 45,
+"psalms": [
+3,
+6,
+7,
+11,
+16,
+17,
+19,
+21,
+27,
+30,
+53,
+54,
+55,
+59,
+67,
+68,
+70,
+71,
+75,
+79,
+85,
+105,
+107,
+108,
+117,
+118,
+137,
+144
+]
+},
+"samuel": {
+"count": 1,
+"psalms": [
+98
+]
+},
+"sanctificatio": {
+"count": 6,
+"psalms": [
+77,
+95,
+96,
+113,
+131
+]
+},
+"sanctificium": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"sanctifico": {
+"count": 1,
+"psalms": [
+45
+]
+},
+"sanctimonia": {
+"count": 1,
+"psalms": [
+95
+]
+},
+"sanctis": {
+"count": 1,
+"psalms": [
+15
+]
+},
+"sanctitas": {
+"count": 2,
+"psalms": [
+29,
+144
+]
+},
+"sanctitudo": {
+"count": 1,
+"psalms": [
+92
+]
+},
+"sanctuarium": {
+"count": 3,
+"psalms": [
+72,
+73,
+88
+]
+},
+"sanctuarius": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"sanctus": {
+"count": 85,
+"psalms": [
+2,
+3,
+4,
+5,
+10,
+11,
+14,
+15,
+17,
+18,
+19,
+21,
+23,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+36,
+42,
+46,
+47,
+49,
+50,
+51,
+59,
+62,
+64,
+67,
+70,
+73,
+76,
+77,
+78,
+82,
+84,
+85,
+86,
+88,
+95,
+96,
+97,
+98,
+101,
+102,
+104,
+105,
+107,
+109,
+110,
+115,
+131,
+133,
+137,
+144,
+148,
+149,
+150
+]
+},
+"sanguinum": {
+"count": 4,
+"psalms": [
+25,
+54,
+58,
+138
+]
+},
+"sanguinus": {
+"count": 1,
+"psalms": [
+5
+]
+},
+"sanguis": {
+"count": 16,
+"psalms": [
+9,
+13,
+15,
+29,
+49,
+50,
+57,
+67,
+77,
+78,
+93,
+104,
+105
+]
+},
+"sanitas": {
+"count": 2,
+"psalms": [
+37
+]
+},
+"sano": {
+"count": 5,
+"psalms": [
+6,
+29,
+102,
+106,
+146
+]
+},
+"sanus": {
+"count": 2,
+"psalms": [
+40,
+59
+]
+},
+"sapiens": {
+"count": 1,
+"psalms": [
+48
+]
+},
+"sapienter": {
+"count": 2,
+"psalms": [
+46,
+57
+]
+},
+"sapientia": {
+"count": 9,
+"psalms": [
+18,
+36,
+48,
+50,
+89,
+103,
+106,
+110,
+146
+]
+},
+"sapio": {
+"count": 2,
+"psalms": [
+93,
+106
+]
+},
+"satio": {
+"count": 5,
+"psalms": [
+16,
+103,
+106,
+147
+]
+},
+"saturitas": {
+"count": 1,
+"psalms": [
+105
+]
+},
+"saturo": {
+"count": 9,
+"psalms": [
+16,
+21,
+36,
+58,
+77,
+80,
+103,
+104,
+131
+]
+},
+"scabellum": {
+"count": 2,
+"psalms": [
+98,
+109
+]
+},
+"scandalum": {
+"count": 7,
+"psalms": [
+48,
+49,
+68,
+105,
+118,
+139,
+140
+]
+},
+"scapula": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"scientia": {
+"count": 5,
+"psalms": [
+18,
+72,
+93,
+118,
+138
+]
+},
+"scio": {
+"count": 17,
+"psalms": [
+4,
+9,
+35,
+38,
+39,
+52,
+58,
+68,
+72,
+86,
+88,
+93,
+99,
+108,
+118,
+138
+]
+},
+"scopo": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"scriba": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"scribo": {
+"count": 5,
+"psalms": [
+39,
+44,
+68,
+101,
+138
+]
+},
+"scriptura": {
+"count": 1,
+"psalms": [
+86
+]
+},
+"scrutinium": {
+"count": 1,
+"psalms": [
+63
+]
+},
+"scruto": {
+"count": 8,
+"psalms": [
+7,
+63,
+108,
+118
+]
+},
+"scrutor": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"sculptilis": {
+"count": 5,
+"psalms": [
+77,
+96,
+105
+]
+},
+"scutum": {
+"count": 4,
+"psalms": [
+5,
+34,
+45,
+75
+]
+},
+"scutus": {
+"count": 1,
+"psalms": [
+90
+]
+},
+"secretus": {
+"count": 1,
+"psalms": [
+100
+]
+},
+"secundum": {
+"count": 48,
+"psalms": [
+5,
+7,
+9,
+11,
+17,
+19,
+24,
+27,
+34,
+47,
+50,
+57,
+68,
+78,
+80,
+85,
+93,
+94,
+102,
+105,
+108,
+109,
+118,
+150
+]
+},
+"securis": {
+"count": 2,
+"psalms": [
+73
+]
+},
+"secus": {
+"count": 2,
+"psalms": [
+1,
+140
+]
+},
+"sed": {
+"count": 13,
+"psalms": [
+1,
+6,
+38,
+43,
+51,
+70,
+77,
+113,
+117,
+118,
+130
+]
+},
+"sede": {
+"count": 1,
+"psalms": [
+109
+]
+},
+"sedeo": {
+"count": 17,
+"psalms": [
+1,
+9,
+25,
+28,
+46,
+49,
+68,
+98,
+100,
+106,
+118,
+121,
+126,
+131,
+136
+]
+},
+"sedes": {
+"count": 15,
+"psalms": [
+10,
+44,
+46,
+79,
+88,
+92,
+93,
+96,
+102,
+121,
+131
+]
+},
+"segrego": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"sehon": {
+"count": 2,
+"psalms": [
+134,
+135
+]
+},
+"selmon": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"semel": {
+"count": 2,
+"psalms": [
+61,
+88
+]
+},
+"semen": {
+"count": 18,
+"psalms": [
+17,
+20,
+21,
+24,
+36,
+68,
+88,
+101,
+104,
+105,
+111,
+125
+]
+},
+"semetipsa": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"semetipse": {
+"count": 3,
+"psalms": [
+35,
+65,
+104
+]
+},
+"semino": {
+"count": 2,
+"psalms": [
+106,
+125
+]
+},
+"semita": {
+"count": 14,
+"psalms": [
+8,
+16,
+17,
+22,
+24,
+26,
+43,
+76,
+77,
+118,
+138,
+141
+]
+},
+"semper": {
+"count": 25,
+"psalms": [
+15,
+18,
+24,
+33,
+34,
+37,
+39,
+49,
+50,
+68,
+69,
+70,
+71,
+72,
+73,
+94,
+104,
+108,
+118
+]
+},
+"sempiternus": {
+"count": 2,
+"psalms": [
+77,
+105
+]
+},
+"senecta": {
+"count": 1,
+"psalms": [
+91
+]
+},
+"senectus": {
+"count": 3,
+"psalms": [
+70,
+91
+]
+},
+"senesco": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"senex": {
+"count": 4,
+"psalms": [
+104,
+106,
+118,
+148
+]
+},
+"senium": {
+"count": 1,
+"psalms": [
+70
+]
+},
+"sentio": {
+"count": 1,
+"psalms": [
+130
+]
+},
+"sepelio": {
+"count": 1,
+"psalms": [
+78
+]
+},
+"sepes": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"septies": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"septuaginta": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"septuplum": {
+"count": 2,
+"psalms": [
+11,
+78
+]
+},
+"sepulcrum": {
+"count": 6,
+"psalms": [
+5,
+13,
+48,
+67,
+87
+]
+},
+"sequor": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"sermo": {
+"count": 19,
+"psalms": [
+18,
+49,
+50,
+54,
+55,
+58,
+63,
+102,
+104,
+108,
+111,
+118,
+138,
+147
+]
+},
+"serpens": {
+"count": 3,
+"psalms": [
+57,
+139,
+148
+]
+},
+"seruio": {
+"count": 9,
+"psalms": [
+2,
+17,
+21,
+71,
+80,
+99,
+101,
+105,
+118
+]
+},
+"seruitus": {
+"count": 2,
+"psalms": [
+103,
+146
+]
+},
+"seruo": {
+"count": 5,
+"psalms": [
+11,
+77,
+88,
+102,
+118
+]
+},
+"serus": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"seruus": {
+"count": 52,
+"psalms": [
+18,
+26,
+30,
+33,
+34,
+68,
+77,
+78,
+79,
+85,
+88,
+89,
+101,
+104,
+108,
+115,
+118,
+122,
+131,
+133,
+134,
+135,
+142,
+143
+]
+},
+"sessio": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"si": {
+"count": 53,
+"psalms": [
+7,
+12,
+13,
+18,
+22,
+26,
+40,
+43,
+49,
+50,
+52,
+54,
+57,
+58,
+61,
+62,
+65,
+67,
+72,
+80,
+88,
+89,
+93,
+94,
+105,
+129,
+130,
+131,
+136,
+137,
+138
+]
+},
+"sic": {
+"count": 16,
+"psalms": [
+1,
+34,
+47,
+57,
+60,
+62,
+67,
+72,
+89,
+102,
+127
+]
+},
+"sicco": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"siccus": {
+"count": 2,
+"psalms": [
+94,
+104
+]
+},
+"sichima": {
+"count": 1,
+"psalms": [
+107
+]
+},
+"sichimam": {
+"count": 1,
+"psalms": [
+59
+]
+},
+"sicut": {
+"count": 128,
+"psalms": [
+10,
+13,
+16,
+21,
+31,
+32,
+35,
+36,
+37,
+38,
+43,
+47,
+48,
+51,
+54,
+55,
+57,
+62,
+65,
+67,
+71,
+73,
+76,
+77,
+81,
+82,
+86,
+87,
+88,
+89,
+91,
+94,
+96,
+101,
+102,
+103,
+104,
+105,
+106,
+108,
+112,
+113,
+117,
+118,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+130,
+131,
+132,
+138,
+139,
+140,
+142,
+143,
+147
+]
+},
+"sigillatim": {
+"count": 1,
+"psalms": [
+32
+]
+},
+"significatio": {
+"count": 1,
+"psalms": [
+59
+]
+},
+"signo": {
+"count": 1,
+"psalms": [
+4
+]
+},
+"signum": {
+"count": 8,
+"psalms": [
+64,
+73,
+77,
+85,
+104,
+134
+]
+},
+"sileo": {
+"count": 7,
+"psalms": [
+27,
+34,
+38,
+49,
+106
+]
+},
+"silua": {
+"count": 7,
+"psalms": [
+49,
+73,
+79,
+82,
+95,
+103,
+131
+]
+},
+"silus": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"similis": {
+"count": 15,
+"psalms": [
+34,
+39,
+48,
+49,
+70,
+82,
+85,
+88,
+101,
+113,
+134,
+142,
+143
+]
+},
+"similiter": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"similitudo": {
+"count": 4,
+"psalms": [
+43,
+57,
+105,
+143
+]
+},
+"simul": {
+"count": 15,
+"psalms": [
+13,
+27,
+30,
+34,
+36,
+39,
+48,
+52,
+54,
+68,
+73,
+82,
+87,
+97
+]
+},
+"simulacrum": {
+"count": 3,
+"psalms": [
+96,
+113,
+134
+]
+},
+"sina": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"sinai": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"sine": {
+"count": 9,
+"psalms": [
+3,
+9,
+14,
+43,
+58,
+72,
+87,
+106,
+142
+]
+},
+"singularis": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"singulariter": {
+"count": 2,
+"psalms": [
+4,
+140
+]
+},
+"singulus": {
+"count": 4,
+"psalms": [
+6,
+7,
+41,
+144
+]
+},
+"sinus": {
+"count": 5,
+"psalms": [
+34,
+73,
+78,
+88,
+128
+]
+},
+"sion": {
+"count": 39,
+"psalms": [
+2,
+9,
+13,
+19,
+47,
+49,
+50,
+52,
+64,
+68,
+72,
+73,
+75,
+77,
+83,
+86,
+96,
+98,
+101,
+109,
+124,
+125,
+127,
+128,
+131,
+132,
+133,
+134,
+136,
+145,
+147,
+149
+]
+},
+"sisara": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"sitio": {
+"count": 3,
+"psalms": [
+41,
+62,
+106
+]
+},
+"sitis": {
+"count": 4,
+"psalms": [
+61,
+68,
+103,
+106
+]
+},
+"sol": {
+"count": 14,
+"psalms": [
+18,
+49,
+57,
+71,
+73,
+88,
+103,
+106,
+112,
+120,
+135,
+148
+]
+},
+"solemnitas": {
+"count": 2,
+"psalms": [
+73,
+80
+]
+},
+"solitarius": {
+"count": 1,
+"psalms": [
+101
+]
+},
+"solitudo": {
+"count": 3,
+"psalms": [
+54,
+101,
+106
+]
+},
+"sollemnis": {
+"count": 1,
+"psalms": [
+117
+]
+},
+"sollicitus": {
+"count": 1,
+"psalms": [
+39
+]
+},
+"soluo": {
+"count": 4,
+"psalms": [
+36,
+101,
+104,
+145
+]
+},
+"solus": {
+"count": 7,
+"psalms": [
+50,
+70,
+71,
+82,
+85,
+135,
+148
+]
+},
+"somnium": {
+"count": 1,
+"psalms": [
+72
+]
+},
+"somnus": {
+"count": 3,
+"psalms": [
+75,
+126,
+131
+]
+},
+"sonitus": {
+"count": 2,
+"psalms": [
+9,
+76
+]
+},
+"sono": {
+"count": 2,
+"psalms": [
+45,
+82
+]
+},
+"sonus": {
+"count": 4,
+"psalms": [
+18,
+41,
+64,
+150
+]
+},
+"soporo": {
+"count": 1,
+"psalms": [
+3
+]
+},
+"sors": {
+"count": 4,
+"psalms": [
+21,
+30,
+77,
+124
+]
+},
+"spargo": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"spatiosus": {
+"count": 2,
+"psalms": [
+30,
+103
+]
+},
+"species": {
+"count": 4,
+"psalms": [
+44,
+46,
+49,
+67
+]
+},
+"speciosus": {
+"count": 2,
+"psalms": [
+44,
+64
+]
+},
+"spelunca": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"sperno": {
+"count": 6,
+"psalms": [
+21,
+43,
+52,
+77,
+101
+]
+},
+"spero": {
+"count": 70,
+"psalms": [
+4,
+5,
+7,
+9,
+12,
+15,
+16,
+17,
+20,
+21,
+24,
+25,
+26,
+27,
+30,
+31,
+32,
+33,
+35,
+36,
+37,
+39,
+40,
+43,
+51,
+54,
+55,
+56,
+61,
+63,
+68,
+70,
+77,
+83,
+85,
+90,
+111,
+113,
+117,
+118,
+129,
+130,
+140,
+142,
+143,
+144,
+146
+]
+},
+"sperus": {
+"count": 4,
+"psalms": [
+36,
+41,
+42
+]
+},
+"spes": {
+"count": 19,
+"psalms": [
+4,
+13,
+15,
+21,
+39,
+59,
+60,
+61,
+64,
+70,
+72,
+77,
+90,
+93,
+107,
+118,
+141,
+145
+]
+},
+"spina": {
+"count": 3,
+"psalms": [
+31,
+57,
+117
+]
+},
+"spiritus": {
+"count": 34,
+"psalms": [
+10,
+17,
+30,
+31,
+32,
+33,
+47,
+50,
+54,
+75,
+76,
+77,
+102,
+103,
+105,
+106,
+118,
+134,
+138,
+141,
+142,
+145,
+147,
+148,
+150
+]
+},
+"splendor": {
+"count": 2,
+"psalms": [
+89,
+109
+]
+},
+"spolium": {
+"count": 2,
+"psalms": [
+67,
+118
+]
+},
+"sponsus": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"spreuisti": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"stabilio": {
+"count": 1,
+"psalms": [
+20
+]
+},
+"stabilitas": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"stagnum": {
+"count": 2,
+"psalms": [
+106,
+113
+]
+},
+"stater": {
+"count": 1,
+"psalms": [
+61
+]
+},
+"statim": {
+"count": 1,
+"psalms": [
+69
+]
+},
+"statue": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"statuo": {
+"count": 12,
+"psalms": [
+16,
+17,
+24,
+30,
+39,
+49,
+77,
+104,
+106,
+118,
+140,
+148
+]
+},
+"stella": {
+"count": 4,
+"psalms": [
+8,
+135,
+146,
+148
+]
+},
+"stercus": {
+"count": 2,
+"psalms": [
+82,
+112
+]
+},
+"sterilis": {
+"count": 1,
+"psalms": [
+112
+]
+},
+"sterilitas": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"sterno": {
+"count": 1,
+"psalms": [
+131
+]
+},
+"stillicidium": {
+"count": 2,
+"psalms": [
+64,
+71
+]
+},
+"stillo": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"stipula": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"sto": {
+"count": 18,
+"psalms": [
+1,
+17,
+23,
+25,
+35,
+37,
+81,
+93,
+103,
+105,
+106,
+108,
+121,
+131,
+133,
+134
+]
+},
+"stratum": {
+"count": 3,
+"psalms": [
+6,
+40,
+62
+]
+},
+"strideo": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"studium": {
+"count": 2,
+"psalms": [
+9,
+13
+]
+},
+"stultus": {
+"count": 3,
+"psalms": [
+48,
+91,
+93
+]
+},
+"suauis": {
+"count": 6,
+"psalms": [
+33,
+85,
+99,
+108,
+134,
+144
+]
+},
+"suauitas": {
+"count": 1,
+"psalms": [
+144
+]
+},
+"sub": {
+"count": 13,
+"psalms": [
+8,
+9,
+13,
+16,
+17,
+44,
+46,
+65,
+90,
+105,
+139,
+143
+]
+},
+"subdo": {
+"count": 4,
+"psalms": [
+17,
+36,
+59,
+143
+]
+},
+"subicio": {
+"count": 3,
+"psalms": [
+8,
+61
+]
+},
+"subiecit": {
+"count": 1,
+"psalms": [
+46
+]
+},
+"subito": {
+"count": 2,
+"psalms": [
+63,
+72
+]
+},
+"subsannatio": {
+"count": 3,
+"psalms": [
+34,
+43,
+78
+]
+},
+"subsanno": {
+"count": 3,
+"psalms": [
+2,
+34,
+79
+]
+},
+"subsequor": {
+"count": 1,
+"psalms": [
+22
+]
+},
+"subsisto": {
+"count": 2,
+"psalms": [
+102,
+139
+]
+},
+"substantia": {
+"count": 6,
+"psalms": [
+38,
+68,
+88,
+108,
+138
+]
+},
+"subtus": {
+"count": 3,
+"psalms": [
+17
+]
+},
+"succendo": {
+"count": 1,
+"psalms": [
+17
+]
+},
+"suffodio": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"sui": {
+"count": 28,
+"psalms": [
+9,
+17,
+18,
+21,
+26,
+32,
+40,
+43,
+63,
+72,
+77,
+83,
+84,
+87,
+92,
+97,
+102,
+103,
+110,
+131,
+134,
+144,
+148
+]
+},
+"sulfur": {
+"count": 1,
+"psalms": [
+10
+]
+},
+"sum": {
+"count": 839,
+"psalms": [
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+119,
+121,
+122,
+123,
+125,
+126,
+127,
+129,
+130,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+148,
+149
+]
+},
+"summum": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"summus": {
+"count": 3,
+"psalms": [
+17,
+18
+]
+},
+"sumo": {
+"count": 4,
+"psalms": [
+48,
+80,
+81,
+138
+]
+},
+"super": {
+"count": 207,
+"psalms": [
+2,
+3,
+4,
+7,
+8,
+9,
+10,
+12,
+13,
+14,
+17,
+18,
+20,
+21,
+22,
+23,
+26,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+36,
+37,
+39,
+40,
+41,
+43,
+44,
+45,
+46,
+49,
+50,
+51,
+52,
+53,
+54,
+56,
+58,
+60,
+62,
+64,
+65,
+66,
+67,
+68,
+70,
+71,
+72,
+73,
+77,
+79,
+80,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+94,
+95,
+96,
+98,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+112,
+113,
+116,
+118,
+120,
+121,
+124,
+127,
+128,
+130,
+131,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+144,
+146,
+148
+]
+},
+"superbi": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"superbia": {
+"count": 9,
+"psalms": [
+16,
+30,
+35,
+58,
+72,
+73,
+100
+]
+},
+"superbio": {
+"count": 1,
+"psalms": [
+9
+]
+},
+"superbus": {
+"count": 10,
+"psalms": [
+17,
+88,
+93,
+100,
+118,
+122,
+139
+]
+},
+"supercecidit": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"superexalto": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"superextollo": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"supergaudeo": {
+"count": 3,
+"psalms": [
+34,
+37
+]
+},
+"supergredior": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"superior": {
+"count": 2,
+"psalms": [
+103
+]
+},
+"superspero": {
+"count": 5,
+"psalms": [
+118
+]
+},
+"superuacuus": {
+"count": 3,
+"psalms": [
+24,
+30,
+34
+]
+},
+"superuenio": {
+"count": 1,
+"psalms": [
+89
+]
+},
+"superus": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"supplantatio": {
+"count": 1,
+"psalms": [
+40
+]
+},
+"supplanto": {
+"count": 4,
+"psalms": [
+16,
+17,
+36,
+139
+]
+},
+"suppono": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"supra": {
+"count": 1,
+"psalms": [
+128
+]
+},
+"surdus": {
+"count": 2,
+"psalms": [
+37,
+57
+]
+},
+"surgo": {
+"count": 8,
+"psalms": [
+19,
+34,
+72,
+81,
+118,
+126,
+131
+]
+},
+"suscepimus": {
+"count": 1,
+"psalms": [
+47
+]
+},
+"susceptio": {
+"count": 1,
+"psalms": [
+107
+]
+},
+"susceptor": {
+"count": 14,
+"psalms": [
+3,
+17,
+41,
+45,
+53,
+58,
+61,
+88,
+90,
+118,
+143
+]
+},
+"suscipio": {
+"count": 19,
+"psalms": [
+3,
+6,
+16,
+17,
+29,
+39,
+40,
+47,
+62,
+68,
+71,
+72,
+106,
+117,
+118,
+138,
+145,
+146
+]
+},
+"suscito": {
+"count": 3,
+"psalms": [
+77,
+87,
+112
+]
+},
+"suspendo": {
+"count": 1,
+"psalms": [
+136
+]
+},
+"suspicor": {
+"count": 2,
+"psalms": [
+67,
+118
+]
+},
+"sustineo": {
+"count": 15,
+"psalms": [
+24,
+26,
+32,
+36,
+54,
+55,
+68,
+105,
+129,
+147
+]
+},
+"susurro": {
+"count": 1,
+"psalms": [
+40
+]
+},
+"suus": {
+"count": 305,
+"psalms": [
+1,
+2,
+3,
+4,
+5,
+7,
+9,
+10,
+11,
+13,
+14,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+26,
+27,
+28,
+30,
+32,
+33,
+34,
+35,
+36,
+37,
+39,
+41,
+43,
+45,
+46,
+48,
+49,
+51,
+52,
+53,
+54,
+56,
+57,
+58,
+59,
+61,
+63,
+65,
+66,
+67,
+68,
+72,
+73,
+75,
+76,
+77,
+79,
+80,
+83,
+84,
+85,
+88,
+90,
+92,
+93,
+95,
+96,
+97,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+118,
+122,
+124,
+125,
+126,
+128,
+130,
+134,
+135,
+139,
+143,
+144,
+145,
+147,
+148,
+149
+]
+},
+"synagoga": {
+"count": 4,
+"psalms": [
+7,
+81,
+85,
+105
+]
+},
+"tabernacula": {
+"count": 1,
+"psalms": [
+48
+]
+},
+"tabernaculum": {
+"count": 32,
+"psalms": [
+14,
+17,
+18,
+26,
+30,
+41,
+42,
+45,
+51,
+59,
+60,
+68,
+73,
+77,
+82,
+83,
+86,
+90,
+105,
+107,
+117,
+131
+]
+},
+"tabesco": {
+"count": 6,
+"psalms": [
+38,
+106,
+111,
+118,
+138
+]
+},
+"taceo": {
+"count": 5,
+"psalms": [
+27,
+31,
+49,
+82,
+108
+]
+},
+"taedium": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"taliter": {
+"count": 1,
+"psalms": [
+147
+]
+},
+"tamquam": {
+"count": 27,
+"psalms": [
+1,
+2,
+17,
+18,
+21,
+28,
+30,
+34,
+36,
+37,
+38,
+43,
+57,
+61,
+70,
+77,
+78,
+89,
+101,
+102
+]
+},
+"taneus": {
+"count": 2,
+"psalms": [
+77
+]
+},
+"tango": {
+"count": 3,
+"psalms": [
+103,
+104,
+143
+]
+},
+"tardo": {
+"count": 1,
+"psalms": [
+39
+]
+},
+"taurus": {
+"count": 3,
+"psalms": [
+21,
+49,
+67
+]
+},
+"tectum": {
+"count": 2,
+"psalms": [
+101,
+128
+]
+},
+"tecum": {
+"count": 1,
+"psalms": [
+109
+]
+},
+"tegimen": {
+"count": 1,
+"psalms": [
+35
+]
+},
+"tego": {
+"count": 2,
+"psalms": [
+31,
+103
+]
+},
+"tempestas": {
+"count": 6,
+"psalms": [
+49,
+54,
+68,
+80,
+82
+]
+},
+"templum": {
+"count": 13,
+"psalms": [
+5,
+10,
+17,
+26,
+27,
+28,
+44,
+47,
+64,
+67,
+78,
+137,
+143
+]
+},
+"tempus": {
+"count": 21,
+"psalms": [
+1,
+9,
+20,
+31,
+33,
+36,
+68,
+70,
+74,
+80,
+88,
+101,
+103,
+105,
+118,
+131,
+144
+]
+},
+"tendo": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"tenebra": {
+"count": 1,
+"psalms": [
+34
+]
+},
+"tenebrae": {
+"count": 14,
+"psalms": [
+17,
+54,
+81,
+87,
+90,
+103,
+104,
+106,
+111,
+138
+]
+},
+"tenebrosus": {
+"count": 2,
+"psalms": [
+17,
+87
+]
+},
+"teneo": {
+"count": 5,
+"psalms": [
+72,
+118,
+136,
+138
+]
+},
+"tentatio": {
+"count": 2,
+"psalms": [
+17,
+94
+]
+},
+"tento": {
+"count": 7,
+"psalms": [
+25,
+34,
+77,
+94,
+105
+]
+},
+"terminus": {
+"count": 6,
+"psalms": [
+2,
+64,
+71,
+73,
+97,
+103
+]
+},
+"terra": {
+"count": 217,
+"psalms": [
+1,
+2,
+7,
+8,
+9,
+11,
+15,
+16,
+17,
+18,
+20,
+21,
+23,
+24,
+26,
+32,
+33,
+34,
+36,
+40,
+41,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+51,
+56,
+57,
+58,
+59,
+60,
+62,
+64,
+65,
+66,
+67,
+68,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+84,
+87,
+88,
+89,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+111,
+112,
+113,
+118,
+120,
+123,
+133,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+145,
+146,
+147,
+148
+]
+},
+"terribilis": {
+"count": 12,
+"psalms": [
+46,
+65,
+75,
+88,
+95,
+98,
+105,
+110,
+144
+]
+},
+"terribiliter": {
+"count": 1,
+"psalms": [
+138
+]
+},
+"terrigena": {
+"count": 1,
+"psalms": [
+48
+]
+},
+"terror": {
+"count": 1,
+"psalms": [
+87
+]
+},
+"testa": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"testamentum": {
+"count": 21,
+"psalms": [
+24,
+43,
+49,
+54,
+73,
+77,
+82,
+88,
+102,
+104,
+105,
+110,
+131
+]
+},
+"testificor": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"testimonium": {
+"count": 31,
+"psalms": [
+18,
+24,
+77,
+80,
+92,
+98,
+118,
+121,
+131
+]
+},
+"testis": {
+"count": 3,
+"psalms": [
+26,
+34,
+88
+]
+},
+"thabor": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"thalamus": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"tharsis": {
+"count": 2,
+"psalms": [
+47,
+71
+]
+},
+"thesaurizo": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"thesaurus": {
+"count": 2,
+"psalms": [
+32,
+134
+]
+},
+"thronus": {
+"count": 4,
+"psalms": [
+9,
+88
+]
+},
+"tibia": {
+"count": 1,
+"psalms": [
+146
+]
+},
+"timeo": {
+"count": 53,
+"psalms": [
+3,
+14,
+21,
+22,
+24,
+26,
+30,
+32,
+33,
+39,
+45,
+48,
+51,
+54,
+55,
+60,
+63,
+64,
+65,
+76,
+77,
+84,
+85,
+90,
+101,
+102,
+110,
+111,
+113,
+117,
+118,
+127,
+134,
+144,
+146
+]
+},
+"timetus": {
+"count": 1,
+"psalms": [
+33
+]
+},
+"timor": {
+"count": 19,
+"psalms": [
+2,
+5,
+13,
+18,
+30,
+33,
+35,
+52,
+54,
+63,
+89,
+90,
+104,
+110,
+118
+]
+},
+"tollo": {
+"count": 2,
+"psalms": [
+77,
+95
+]
+},
+"tonitruum": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"tonitruus": {
+"count": 1,
+"psalms": [
+103
+]
+},
+"topazion": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"torrentes": {
+"count": 1,
+"psalms": [
+123
+]
+},
+"torreo": {
+"count": 7,
+"psalms": [
+17,
+35,
+73,
+77,
+82,
+109,
+125
+]
+},
+"totus": {
+"count": 37,
+"psalms": [
+9,
+24,
+31,
+34,
+36,
+37,
+43,
+51,
+55,
+70,
+71,
+72,
+73,
+77,
+85,
+87,
+88,
+101,
+110,
+118,
+137,
+139
+]
+},
+"trado": {
+"count": 12,
+"psalms": [
+9,
+26,
+40,
+62,
+73,
+77,
+87,
+105,
+117,
+118,
+139
+]
+},
+"traduco": {
+"count": 1,
+"psalms": [
+135
+]
+},
+"traha": {
+"count": 1,
+"psalms": [
+27
+]
+},
+"transeo": {
+"count": 13,
+"psalms": [
+17,
+36,
+41,
+56,
+72,
+76,
+87,
+88,
+89,
+140
+]
+},
+"transfero": {
+"count": 4,
+"psalms": [
+45,
+77,
+79,
+108
+]
+},
+"transgredior": {
+"count": 2,
+"psalms": [
+17,
+103
+]
+},
+"transitus": {
+"count": 1,
+"psalms": [
+143
+]
+},
+"transiuimus": {
+"count": 1,
+"psalms": [
+65
+]
+},
+"transmigra": {
+"count": 1,
+"psalms": [
+10
+]
+},
+"tremo": {
+"count": 2,
+"psalms": [
+75,
+103
+]
+},
+"tremor": {
+"count": 3,
+"psalms": [
+2,
+47,
+54
+]
+},
+"trepido": {
+"count": 3,
+"psalms": [
+13,
+26,
+52
+]
+},
+"tres": {
+"count": 1,
+"psalms": [
+121
+]
+},
+"tribulatio": {
+"count": 37,
+"psalms": [
+4,
+9,
+17,
+19,
+21,
+24,
+31,
+33,
+36,
+43,
+45,
+49,
+53,
+54,
+58,
+59,
+65,
+70,
+76,
+77,
+80,
+85,
+90,
+106,
+107,
+114,
+117,
+118,
+137,
+141,
+142
+]
+},
+"tribulo": {
+"count": 25,
+"psalms": [
+3,
+12,
+22,
+26,
+30,
+33,
+41,
+55,
+59,
+68,
+77,
+80,
+101,
+105,
+106,
+118,
+119,
+142
+]
+},
+"tribuo": {
+"count": 7,
+"psalms": [
+12,
+15,
+19,
+20,
+27,
+36
+]
+},
+"tribus": {
+"count": 6,
+"psalms": [
+71,
+77,
+104,
+121
+]
+},
+"tristis": {
+"count": 4,
+"psalms": [
+41,
+42
+]
+},
+"trucido": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"tu": {
+"count": 428,
+"psalms": [
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+11,
+15,
+16,
+17,
+19,
+20,
+21,
+22,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+48,
+49,
+50,
+51,
+53,
+54,
+55,
+56,
+58,
+59,
+60,
+61,
+62,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+72,
+73,
+74,
+75,
+76,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+96,
+98,
+100,
+101,
+102,
+103,
+104,
+107,
+108,
+109,
+110,
+113,
+114,
+115,
+117,
+118,
+119,
+120,
+121,
+122,
+127,
+129,
+131,
+133,
+134,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+147
+]
+},
+"tuba": {
+"count": 5,
+"psalms": [
+46,
+80,
+97,
+150
+]
+},
+"tueor": {
+"count": 1,
+"psalms": [
+19
+]
+},
+"tui": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"tunc": {
+"count": 15,
+"psalms": [
+2,
+18,
+39,
+50,
+55,
+68,
+75,
+88,
+92,
+95,
+118,
+125
+]
+},
+"turbo": {
+"count": 15,
+"psalms": [
+6,
+45,
+64,
+67,
+75,
+76,
+82,
+89,
+103,
+106,
+118,
+142
+]
+},
+"turris": {
+"count": 3,
+"psalms": [
+47,
+60,
+121
+]
+},
+"turtur": {
+"count": 1,
+"psalms": [
+83
+]
+},
+"tuus": {
+"count": 904,
+"psalms": [
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+11,
+12,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+24,
+25,
+26,
+27,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+47,
+49,
+50,
+51,
+53,
+54,
+55,
+56,
+58,
+59,
+60,
+62,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+78,
+79,
+80,
+82,
+83,
+84,
+85,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+96,
+98,
+101,
+102,
+103,
+105,
+107,
+108,
+109,
+113,
+114,
+115,
+118,
+120,
+121,
+127,
+129,
+131,
+134,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+147
+]
+},
+"tympanistria": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"tympanum": {
+"count": 3,
+"psalms": [
+80,
+149,
+150
+]
+},
+"tyros": {
+"count": 2,
+"psalms": [
+44,
+82
+]
+},
+"tyrus": {
+"count": 1,
+"psalms": [
+86
+]
+},
+"uacca": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"uaco": {
+"count": 1,
+"psalms": [
+45
+]
+},
+"uado": {
+"count": 1,
+"psalms": [
+77
+]
+},
+"ualde": {
+"count": 4,
+"psalms": [
+6,
+30,
+77
+]
+},
+"ualidus": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"uallis": {
+"count": 2,
+"psalms": [
+64,
+83
+]
+},
+"uana": {
+"count": 1,
+"psalms": [
+11
+]
+},
+"uane": {
+"count": 1,
+"psalms": [
+38
+]
+},
+"uanitas": {
+"count": 5,
+"psalms": [
+51,
+61,
+77,
+138,
+143
+]
+},
+"uanito": {
+"count": 9,
+"psalms": [
+4,
+25,
+30,
+37,
+38,
+39,
+118,
+143
+]
+},
+"uanus": {
+"count": 11,
+"psalms": [
+5,
+23,
+40,
+59,
+61,
+62,
+88,
+93,
+107,
+126
+]
+},
+"uarietas": {
+"count": 2,
+"psalms": [
+44
+]
+},
+"uas": {
+"count": 4,
+"psalms": [
+2,
+7,
+30,
+70
+]
+},
+"uber": {
+"count": 3,
+"psalms": [
+21,
+91
+]
+},
+"ubertas": {
+"count": 2,
+"psalms": [
+35,
+64
+]
+},
+"ubi": {
+"count": 11,
+"psalms": [
+13,
+41,
+52,
+77,
+78,
+83,
+88,
+94,
+113,
+131
+]
+},
+"uectis": {
+"count": 1,
+"psalms": [
+106
+]
+},
+"uehemens": {
+"count": 1,
+"psalms": [
+47
+]
+},
+"uehementer": {
+"count": 7,
+"psalms": [
+6,
+20,
+46,
+103,
+104,
+118
+]
+},
+"uelamentum": {
+"count": 2,
+"psalms": [
+60,
+62
+]
+},
+"uellus": {
+"count": 1,
+"psalms": [
+71
+]
+},
+"uelociter": {
+"count": 7,
+"psalms": [
+6,
+36,
+44,
+68,
+101,
+142,
+147
+]
+},
+"uelox": {
+"count": 1,
+"psalms": [
+13
+]
+},
+"uelut": {
+"count": 4,
+"psalms": [
+72,
+77,
+78,
+79
+]
+},
+"uendo": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"ueneficus": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"uenenum": {
+"count": 2,
+"psalms": [
+13,
+139
+]
+},
+"uenientes": {
+"count": 1,
+"psalms": [
+125
+]
+},
+"uenio": {
+"count": 41,
+"psalms": [
+21,
+33,
+34,
+35,
+36,
+39,
+41,
+43,
+45,
+49,
+54,
+64,
+65,
+67,
+68,
+70,
+77,
+78,
+79,
+82,
+85,
+94,
+95,
+97,
+100,
+101,
+104,
+108,
+117,
+118,
+120,
+125
+]
+},
+"uenor": {
+"count": 2,
+"psalms": [
+90,
+123
+]
+},
+"uenter": {
+"count": 9,
+"psalms": [
+16,
+21,
+30,
+43,
+70,
+126,
+131
+]
+},
+"uentilo": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"uentus": {
+"count": 7,
+"psalms": [
+1,
+17,
+34,
+82,
+103,
+134
+]
+},
+"uenumdo": {
+"count": 1,
+"psalms": [
+104
+]
+},
+"uer": {
+"count": 1,
+"psalms": [
+73
+]
+},
+"uerax": {
+"count": 1,
+"psalms": [
+85
+]
+},
+"uerber": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"uerbum": {
+"count": 54,
+"psalms": [
+5,
+16,
+18,
+21,
+32,
+35,
+40,
+44,
+51,
+53,
+55,
+64,
+67,
+77,
+90,
+102,
+104,
+105,
+106,
+118,
+129,
+136,
+137,
+140,
+144,
+147,
+148
+]
+},
+"uere": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"uerecundia": {
+"count": 1,
+"psalms": [
+43
+]
+},
+"uereor": {
+"count": 1,
+"psalms": [
+11
+]
+},
+"ueritas": {
+"count": 58,
+"psalms": [
+5,
+14,
+24,
+25,
+29,
+30,
+35,
+39,
+42,
+44,
+50,
+53,
+56,
+60,
+68,
+70,
+83,
+84,
+85,
+87,
+88,
+90,
+91,
+95,
+97,
+99,
+107,
+110,
+113,
+116,
+118,
+131,
+137,
+142,
+144,
+145
+]
+},
+"uermis": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"uero": {
+"count": 15,
+"psalms": [
+21,
+36,
+49,
+54,
+55,
+58,
+62,
+67,
+68,
+69,
+88,
+103,
+118
+]
+},
+"uerso": {
+"count": 1,
+"psalms": [
+40
+]
+},
+"uertex": {
+"count": 2,
+"psalms": [
+7,
+67
+]
+},
+"uerumtamen": {
+"count": 14,
+"psalms": [
+31,
+38,
+48,
+61,
+67,
+72,
+74,
+84,
+90,
+139
+]
+},
+"uerus": {
+"count": 1,
+"psalms": [
+18
+]
+},
+"uesper": {
+"count": 4,
+"psalms": [
+29,
+64,
+89,
+103
+]
+},
+"uespere": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"uespertinus": {
+"count": 1,
+"psalms": [
+140
+]
+},
+"uesperus": {
+"count": 2,
+"psalms": [
+58
+]
+},
+"uester": {
+"count": 20,
+"psalms": [
+4,
+23,
+30,
+33,
+47,
+57,
+61,
+68,
+74,
+75,
+77,
+80,
+94,
+104,
+113,
+133
+]
+},
+"uestigium": {
+"count": 3,
+"psalms": [
+16,
+17,
+76
+]
+},
+"uestimentum": {
+"count": 9,
+"psalms": [
+21,
+44,
+68,
+101,
+103,
+108,
+132
+]
+},
+"uestis": {
+"count": 1,
+"psalms": [
+21
+]
+},
+"uestitus": {
+"count": 1,
+"psalms": [
+44
+]
+},
+"ueterasco": {
+"count": 2,
+"psalms": [
+48,
+101
+]
+},
+"uexo": {
+"count": 3,
+"psalms": [
+93,
+105,
+106
+]
+},
+"uia": {
+"count": 77,
+"psalms": [
+1,
+2,
+5,
+9,
+13,
+15,
+16,
+17,
+18,
+24,
+26,
+31,
+34,
+35,
+36,
+38,
+43,
+48,
+50,
+66,
+76,
+77,
+79,
+80,
+84,
+85,
+88,
+90,
+94,
+100,
+101,
+102,
+106,
+109,
+118,
+127,
+137,
+138,
+141,
+142,
+144,
+145
+]
+},
+"uiae": {
+"count": 1,
+"psalms": [
+24
+]
+},
+"uibro": {
+"count": 1,
+"psalms": [
+7
+]
+},
+"uicina": {
+"count": 6,
+"psalms": [
+30,
+43,
+78,
+79,
+88
+]
+},
+"uideo": {
+"count": 84,
+"psalms": [
+5,
+8,
+9,
+10,
+13,
+15,
+16,
+21,
+24,
+26,
+30,
+32,
+33,
+34,
+35,
+36,
+39,
+40,
+44,
+45,
+47,
+48,
+49,
+51,
+52,
+54,
+57,
+58,
+62,
+63,
+65,
+67,
+68,
+72,
+73,
+76,
+79,
+83,
+85,
+88,
+89,
+90,
+93,
+94,
+96,
+97,
+101,
+105,
+106,
+108,
+111,
+113,
+118,
+127,
+134,
+138,
+141
+]
+},
+"uidi": {
+"count": 1,
+"psalms": [
+36
+]
+},
+"uidua": {
+"count": 6,
+"psalms": [
+67,
+77,
+93,
+108,
+131,
+145
+]
+},
+"uigilia": {
+"count": 1,
+"psalms": [
+76
+]
+},
+"uigilo": {
+"count": 3,
+"psalms": [
+62,
+101,
+126
+]
+},
+"uincio": {
+"count": 3,
+"psalms": [
+67,
+68,
+106
+]
+},
+"uinco": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"uinculum": {
+"count": 3,
+"psalms": [
+2,
+106,
+115
+]
+},
+"uindemio": {
+"count": 1,
+"psalms": [
+79
+]
+},
+"uindicta": {
+"count": 4,
+"psalms": [
+17,
+57,
+139,
+149
+]
+},
+"uinea": {
+"count": 5,
+"psalms": [
+77,
+79,
+104,
+106
+]
+},
+"uinum": {
+"count": 6,
+"psalms": [
+4,
+59,
+68,
+74,
+77,
+103
+]
+},
+"uir": {
+"count": 21,
+"psalms": [
+1,
+5,
+17,
+25,
+31,
+33,
+39,
+58,
+75,
+79,
+83,
+91,
+104,
+111,
+126,
+138,
+139,
+146
+]
+},
+"uirga": {
+"count": 8,
+"psalms": [
+2,
+22,
+44,
+73,
+88,
+109,
+124
+]
+},
+"uirgo": {
+"count": 3,
+"psalms": [
+44,
+77,
+148
+]
+},
+"uiri": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"uiriliter": {
+"count": 2,
+"psalms": [
+26,
+30
+]
+},
+"uirtus": {
+"count": 77,
+"psalms": [
+17,
+20,
+21,
+23,
+28,
+29,
+30,
+32,
+37,
+43,
+45,
+47,
+48,
+53,
+58,
+59,
+62,
+64,
+65,
+67,
+68,
+70,
+73,
+76,
+77,
+79,
+83,
+88,
+101,
+102,
+107,
+109,
+110,
+117,
+121,
+135,
+137,
+139,
+144,
+146,
+148,
+150
+]
+},
+"uis": {
+"count": 1,
+"psalms": [
+37
+]
+},
+"uiscera": {
+"count": 1,
+"psalms": [
+50
+]
+},
+"uisio": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"uisitabo": {
+"count": 1,
+"psalms": [
+88
+]
+},
+"uisitasti": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"uisito": {
+"count": 6,
+"psalms": [
+8,
+16,
+26,
+58,
+79,
+105
+]
+},
+"uita": {
+"count": 24,
+"psalms": [
+7,
+15,
+16,
+20,
+22,
+25,
+26,
+29,
+30,
+33,
+35,
+41,
+48,
+55,
+62,
+65,
+87,
+102,
+103,
+127,
+132,
+142,
+145
+]
+},
+"uitis": {
+"count": 1,
+"psalms": [
+127
+]
+},
+"uito": {
+"count": 1,
+"psalms": [
+62
+]
+},
+"uitulus": {
+"count": 7,
+"psalms": [
+21,
+28,
+49,
+50,
+68,
+105
+]
+},
+"uituperatio": {
+"count": 1,
+"psalms": [
+30
+]
+},
+"uiuifico": {
+"count": 18,
+"psalms": [
+40,
+70,
+79,
+84,
+118,
+137,
+142
+]
+},
+"uiuo": {
+"count": 23,
+"psalms": [
+17,
+21,
+26,
+37,
+38,
+48,
+51,
+54,
+55,
+57,
+68,
+71,
+88,
+113,
+117,
+118,
+141,
+142
+]
+},
+"uiuus": {
+"count": 4,
+"psalms": [
+41,
+83,
+114,
+123
+]
+},
+"ulciscor": {
+"count": 4,
+"psalms": [
+98,
+117
+]
+},
+"ultio": {
+"count": 3,
+"psalms": [
+78,
+93
+]
+},
+"ultor": {
+"count": 1,
+"psalms": [
+8
+]
+},
+"ultra": {
+"count": 2,
+"psalms": [
+9,
+82
+]
+},
+"umbra": {
+"count": 11,
+"psalms": [
+16,
+22,
+43,
+56,
+79,
+87,
+101,
+106,
+108,
+143
+]
+},
+"umquam": {
+"count": 1,
+"psalms": [
+12
+]
+},
+"unam": {
+"count": 1,
+"psalms": [
+26
+]
+},
+"unanimis": {
+"count": 1,
+"psalms": [
+54
+]
+},
+"unanimiter": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"unde": {
+"count": 1,
+"psalms": [
+120
+]
+},
+"ungo": {
+"count": 2,
+"psalms": [
+44,
+88
+]
+},
+"unguentum": {
+"count": 1,
+"psalms": [
+132
+]
+},
+"ungula": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"unicornis": {
+"count": 4,
+"psalms": [
+21,
+28,
+77,
+91
+]
+},
+"unicus": {
+"count": 3,
+"psalms": [
+21,
+24,
+34
+]
+},
+"uniuersus": {
+"count": 20,
+"psalms": [
+8,
+11,
+21,
+23,
+24,
+25,
+38,
+40,
+47,
+61,
+95,
+104,
+144,
+148
+]
+},
+"unus": {
+"count": 15,
+"psalms": [
+2,
+13,
+33,
+47,
+48,
+52,
+67,
+70,
+81,
+83,
+101,
+105,
+108,
+132
+]
+},
+"unusquisque": {
+"count": 2,
+"psalms": [
+11,
+61
+]
+},
+"uociferatio": {
+"count": 2,
+"psalms": [
+26,
+32
+]
+},
+"uoco": {
+"count": 4,
+"psalms": [
+48,
+49,
+104,
+146
+]
+},
+"uolatil": {
+"count": 1,
+"psalms": [
+49
+]
+},
+"uolatilis": {
+"count": 2,
+"psalms": [
+77,
+78
+]
+},
+"uolo": {
+"count": 22,
+"psalms": [
+5,
+17,
+21,
+33,
+34,
+36,
+39,
+40,
+50,
+54,
+67,
+69,
+72,
+90,
+111,
+113,
+118,
+134
+]
+},
+"uolucres": {
+"count": 1,
+"psalms": [
+8
+]
+},
+"uolucris": {
+"count": 2,
+"psalms": [
+103,
+148
+]
+},
+"uoluntaria": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"uoluntarie": {
+"count": 1,
+"psalms": [
+53
+]
+},
+"uoluntarius": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"uoluntas": {
+"count": 17,
+"psalms": [
+1,
+5,
+15,
+20,
+27,
+29,
+39,
+50,
+72,
+102,
+106,
+110,
+142,
+144,
+146
+]
+},
+"uoluptas": {
+"count": 2,
+"psalms": [
+26,
+35
+]
+},
+"uos": {
+"count": 10,
+"psalms": [
+33,
+61,
+81,
+113,
+117,
+126,
+128
+]
+},
+"uota": {
+"count": 2,
+"psalms": [
+115
+]
+},
+"uotum": {
+"count": 6,
+"psalms": [
+21,
+49,
+55,
+60,
+65,
+131
+]
+},
+"uotus": {
+"count": 1,
+"psalms": [
+64
+]
+},
+"uoueo": {
+"count": 2,
+"psalms": [
+75,
+131
+]
+},
+"uox": {
+"count": 58,
+"psalms": [
+3,
+5,
+6,
+17,
+18,
+25,
+26,
+27,
+28,
+30,
+41,
+43,
+45,
+46,
+54,
+57,
+65,
+67,
+73,
+76,
+80,
+85,
+92,
+94,
+97,
+101,
+102,
+103,
+105,
+114,
+117,
+118,
+129,
+139,
+140,
+141
+]
+},
+"urgeo": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"uro": {
+"count": 3,
+"psalms": [
+25,
+103,
+120
+]
+},
+"usque": {
+"count": 53,
+"psalms": [
+13,
+15,
+17,
+18,
+27,
+35,
+37,
+40,
+41,
+45,
+48,
+49,
+52,
+56,
+59,
+60,
+68,
+70,
+71,
+79,
+88,
+89,
+99,
+102,
+103,
+105,
+106,
+107,
+112,
+113,
+117,
+120,
+124,
+129,
+130,
+131,
+132,
+134,
+136,
+146
+]
+},
+"usquequaque": {
+"count": 4,
+"psalms": [
+118
+]
+},
+"usquequo": {
+"count": 12,
+"psalms": [
+4,
+6,
+12,
+73,
+78,
+81,
+88,
+89,
+93
+]
+},
+"usura": {
+"count": 3,
+"psalms": [
+14,
+54,
+71
+]
+},
+"ut": {
+"count": 149,
+"psalms": [
+4,
+5,
+7,
+8,
+9,
+10,
+13,
+16,
+17,
+18,
+20,
+22,
+24,
+25,
+26,
+29,
+30,
+32,
+33,
+35,
+36,
+38,
+39,
+40,
+47,
+50,
+52,
+55,
+58,
+59,
+60,
+61,
+62,
+63,
+66,
+67,
+68,
+70,
+72,
+73,
+75,
+76,
+77,
+79,
+82,
+84,
+85,
+87,
+90,
+91,
+93,
+94,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+110,
+112,
+113,
+117,
+118,
+121,
+124,
+143,
+144,
+149
+]
+},
+"uter": {
+"count": 3,
+"psalms": [
+32,
+77,
+118
+]
+},
+"uterus": {
+"count": 5,
+"psalms": [
+21,
+57,
+70,
+109,
+138
+]
+},
+"utilitas": {
+"count": 1,
+"psalms": [
+29
+]
+},
+"utinam": {
+"count": 1,
+"psalms": [
+118
+]
+},
+"utique": {
+"count": 5,
+"psalms": [
+50,
+54,
+57
+]
+},
+"uulnero": {
+"count": 2,
+"psalms": [
+87,
+88
+]
+},
+"uulnus": {
+"count": 1,
+"psalms": [
+68
+]
+},
+"uulpes": {
+"count": 1,
+"psalms": [
+62
+]
+},
+"uultus": {
+"count": 19,
+"psalms": [
+4,
+10,
+15,
+16,
+20,
+33,
+41,
+42,
+43,
+44,
+54,
+66,
+79,
+88,
+89,
+139
+]
+},
+"uulua": {
+"count": 1,
+"psalms": [
+57
+]
+},
+"uxor": {
+"count": 2,
+"psalms": [
+108,
+127
+]
+},
+"zabulon": {
+"count": 1,
+"psalms": [
+67
+]
+},
+"zeb": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"zebeus": {
+"count": 1,
+"psalms": [
+82
+]
+},
+"zelo": {
+"count": 2,
+"psalms": [
+36,
+72
+]
+},
+"zelus": {
+"count": 3,
+"psalms": [
+68,
+78,
+118
+]
+},
+"zeus": {
+"count": 2,
+"psalms": [
+54,
+81
+]
+},
+"zona": {
+"count": 1,
+"psalms": [
+108
+]
+}
+}

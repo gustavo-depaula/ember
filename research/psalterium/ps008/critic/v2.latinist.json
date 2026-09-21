@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "a612e7cf77f739cbbe0f6f06a81e8fe98b6c622928ecae31ae6d5b41952faaf7",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T08:44:17+00:00",
+  "reply": "{\"verses\":[{\"id\":\"8:5\",\"severity\":\"major\",\"issues\":[{\"latin\":\"quod memor es ejus [...] quóniam vísitas eum\",\"portuguese\":\"para que vos lembreis dele [...] para que o visiteis\",\"problem\":\"O latim afirma a lembrança e a visita no presente do indicativo. A tradução substitui essas afirmações por construções com «para que» e presente do subjuntivo, alterando o modo e a relação expressa pelas conjunções.\",\"fix\":\"Que é o homem, que vos lembrais dele? * ou o filho do homem, pois o visitais?\"}]}],\"overall\":\"A tradução conserva o conteúdo do latim nos demais versículos. Todas as marcas de divisão coincidem com as latinas em identidade e ordem.\"}"
+}

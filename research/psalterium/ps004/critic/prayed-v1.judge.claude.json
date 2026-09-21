@@ -1,0 +1,44 @@
+{
+  "role": "judge",
+  "prompt": "prompts/judge.md",
+  "target": "prayed.vos.json",
+  "model": "claude-fable-5-1",
+  "reply": {
+    "verses": [
+      {
+        "id": "4:2a",
+        "errors": [
+          {
+            "category": "accuracy/addition",
+            "severity": "minor",
+            "span": "me abristes espaço",
+            "explanation": "The Latin 'dilatasti mihi' has no object ('you enlarged for me'); supplying 'espaço' smooths the Septuagintal bareness of the verb into an explanatory paraphrase, though the sense is right."
+          }
+        ],
+        "penalty": 1
+      },
+      { "id": "4:2b", "errors": [], "penalty": 0 },
+      { "id": "4:3", "errors": [], "penalty": 0 },
+      { "id": "4:4", "errors": [], "penalty": 0 },
+      { "id": "4:5", "errors": [], "penalty": 0 },
+      { "id": "4:6", "errors": [], "penalty": 0 },
+      { "id": "4:7", "errors": [], "penalty": 0 },
+      { "id": "4:8", "errors": [], "penalty": 0 },
+      {
+        "id": "4:9",
+        "errors": [
+          {
+            "category": "accuracy/mistranslation",
+            "severity": "minor",
+            "span": "juntamente",
+            "explanation": "'in idipsum' ('in the selfsame') is resolved into the plain adverb 'together', which is what the iuxta Hebraeos 'simul' says rather than the Gallican's opaque calque, and it closes off the traditional reading of idipsum as a noun; the parenthetic commas also leave 'juntamente' dangling with nothing to be together with."
+          }
+        ],
+        "penalty": 1
+      },
+      { "id": "4:10", "errors": [], "penalty": 0 }
+    ],
+    "totalPenalty": 2,
+    "overall": "A close, disciplined rendering that follows the Latin rather than the Hebrew throughout (gravi corde, fez maravilhoso, compungi-vos, os bens, the subjectless 'se multiplicaram', singularmente na esperança), keeps 'exaudire' consistent as 'atender', and places every pointing mark where the Latin has it. The only blemishes are two minor smoothings of deliberately strange Latin: 'dilatasti mihi' given an object and 'in idipsum' flattened to 'juntamente'."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "3bf0e10690f399b3c11018d153e5a969d049e170efeff735394dfd6a9f3adf71",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T11:54:43+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"9:6\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula portuguesa conserva o sentido de perpetuidade, mas transforma em plurais os dois substantivos singulares do latim.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    },\n    {\n      \"id\": \"9:10\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"adjútor\",\n          \"portuguese\": \"auxílio\",\n          \"problem\": \"O latim designa aquele que ajuda; a tradução substitui o agente pelo auxílio prestado.\",\n          \"fix\": \"auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"9:19\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"patiéntia páuperum non períbit in finem\",\n          \"portuguese\": \"a paciência dos pobres não perecerá até o fim\",\n          \"problem\": \"Neste contexto, «in finem» exprime perpetuidade. «Não perecerá até o fim» limita temporalmente a negação, podendo indicar que a paciência perecerá quando chegar o fim.\",\n          \"fix\": \"a paciência dos pobres não perecerá para sempre\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo e as singularidades do latim; os pontos assinalados dizem respeito à adequação, não ao estilo. Todos os versículos apresentam as mesmas marcas de divisão, na mesma ordem que o original.\"\n}"
+}

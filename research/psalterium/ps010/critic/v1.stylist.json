@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "421a4a36699b3658e0587deb218354c71d66dfc453091cc66c342baca518d37a",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T11:43:24+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"10:5b\",\n      \"fails\": [\"sayable\"],\n      \"remarks\": [\n        {\n          \"words\": \"Os seus olhos olham para o pobre\",\n          \"problem\": \"A sequência «olhos olham» repete sons muito próximos e faz a boca tropeçar; essa repetição não corresponde a uma repetição de raiz no latim.\",\n          \"alternative\": \"Os seus olhos estão voltados para o pobre: * as suas pálpebras interrogam os filhos dos homens.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"10:7\",\n      \"fails\": [\"sayable\"],\n      \"remarks\": [\n        {\n          \"words\": \"fogo, e enxofre, e vento de tempestades\",\n          \"problem\": \"As vírgulas convidam a pequenas paradas que fragmentam a enumeração e dificultam sustentar o segundo membro numa só respiração. Os dois «e» já dão à sequência o peso necessário.\",\n          \"alternative\": \"Fará chover laços sobre os pecadores: * fogo e enxofre e vento de tempestades são a parte do cálice deles.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo soa sóbrio e reverente, com terminações adequadas ao canto e sem rimas insistentes nas cadências. As imagens incomuns permanecem concretas; a principal dificuldade oral está na extensão do segundo membro de 10:7, agravada pelas pausas da enumeração.\",\n  \"worstLine\": \"10:7\",\n  \"bestLine\": \"10:4\"\n}"
+}

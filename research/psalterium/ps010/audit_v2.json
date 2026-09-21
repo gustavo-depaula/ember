@@ -1,0 +1,26 @@
+[
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. Soft flags as draft 1 (10:2 +3, 10:3 +4, 10:7 +4), accepted for the same reasons; ‘como dizeis vós’ adds a syllable to a colon that was two short of the Latin’s."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate: clean. ‘A tradução conserva o conteúdo, as imagens e as particularidades do latim em todos os versículos, sem falhas de adequação identificadas. As marcas de divisão são as mesmas e aparecem na mesma ordem que no original.’ So ‘como dizeis vós’ (the subject named) and ‘estão voltados para’ (a participle of state for respíciunt) passed.",
+    "outcomes": []
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v2.ambiguity.json",
+    "note": "Draft 2, Portuguese only — run to test the one fault of draft 1. 10:2 ‘como dizeis vós’ is now heard first as said to other people (‘sem ficar claro quem são’ — nor does the Latin say); the fault is mended. Seventeen items; the same four unknown words. New in this reading, none a fault: 10:5a ‘templo santo’ heard as an earthly temple until ‘no céu’ corrects it (the Latin’s own movement); 10:7 ‘laços’ heard as rope loops falling from the sky ‘sem necessariamente reconhecer o sentido de armadilhas’ (draft 1’s reader heard snares first; láqueus → laço is the glossary’s, Ps 90:3); 10:8 ‘as justiças’ heard this time as the quality before the acts — neither reading is the courts, which was the risk.",
+    "outcomes": [
+      {"verse": "10:2", "remark": "‘como dizeis vós’: other people (heard first) / the Lord", "outcome": "refused", "decision": "quomodo", "reason": "The fix of draft 2 works: heard as said to others."},
+      {"verse": "10:4", "remark": "‘o que aperfeiçoastes’: the Lord (heard first) / the addressees of 10:2; the change of addressee not explicit", "outcome": "refused", "reason": "Heard rightly; the Latin marks the change only by number, which Portuguese vós cannot."},
+      {"verse": "10:5a", "remark": "‘no seu templo santo’: an earthly temple (heard first) / a heavenly dwelling", "outcome": "refused", "reason": "The Latin is as open, and its second colon moves to heaven as the Portuguese does."},
+      {"verse": "10:5b", "remark": "‘o pobre’: without means (heard first) / afflicted", "outcome": "refused", "reason": "pauper is as wide."},
+      {"verse": "10:7", "remark": "‘laços’: snares / knots / bonds; heard as rope loops, not necessarily snares", "outcome": "refused", "reason": "láqueus → laço (glossary); a noose is a snare; draft 1’s reader heard ‘armadilhas’ first. ‘armadilhas’ would explain the image."},
+      {"verse": "10:8", "remark": "‘as justiças’: just acts / justice as a quality (heard first)", "outcome": "refused", "decision": "justitias", "reason": "Neither reading is wrong; the plural is the Latin’s."},
+      {"verse": "10:8", "remark": "‘o seu rosto viu a equidade’: witnessed / looked with approval on", "outcome": "refused", "decision": "vidit", "reason": "Both are in vidit."}
+    ]
+  }
+]

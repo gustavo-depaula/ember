@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "6f8637ebe761c8aba3b5ebc69d76267417f5e7377c7fab49fdf134bc98b8d22d",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:00:21+00:00",
+  "reply": "{\"verses\":[{\"id\":\"133:2\",\"severity\":\"minor\",\"issues\":[{\"latin\":\"in sancta\",\"portuguese\":\"para o lugar santo\",\"problem\":\"Sancta é neutro plural substantivado. O singular é defensável como referência ao santuário, mas não conserva o número do latim, exigido pela regra do projeto.\",\"fix\":\"para os lugares santos\"}]}],\"overall\":\"A tradução conserva o sentido do latim nos demais trechos. Todos os versículos apresentam as mesmas marcas de apontamento, na mesma ordem do original.\"}"
+}

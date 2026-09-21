@@ -1,0 +1,1530 @@
+{
+  "psalm": 118,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "reviewed",
+  "range": "118:1–118:32",
+  "verses": {
+    "118:1": "Bem-aventurados {immaculati} no caminho: * os que andam na lei do Senhor.",
+    "118:2": "Bem-aventurados os que {scrutantur} {t_ejus}: * de todo o coração o {ex_3pl}.",
+    "118:3": "Pois os que praticam a iniquidade, * não andaram nos seus caminhos.",
+    "118:4": "Vós {mandasti} * que {m_acc} se guardem {nimis}.",
+    "118:5": "{v5}!",
+    "118:6": "Então {conf6}, * quando eu {perspexero} {m_all}.",
+    "118:7": "Eu vos darei graças na retidão do coração: * {in_eo_quod} {jd_bare} da vossa justiça.",
+    "118:8": "Guardarei {j_acc}: * não me abandoneis de todo.",
+    "118:9": "{in_quo_a} {v9a}? * {in_quo_b} {s_acc}.",
+    "118:10": "De todo o meu coração vos {ex_1sg}: * não me {repellas} {m_de}.",
+    "118:11": "No meu coração escondi {e_acc}: * para não pecar contra vós.",
+    "118:12": "Bendito sois, Senhor: * ensinai-me {j_acc}.",
+    "118:13": "Com os meus lábios, * pronunciei {jd_all} da vossa boca.",
+    "118:14": "No caminho {t_gen} me deleitei, * como em todas as riquezas.",
+    "118:15": "{m_In} {exerc_fut}: * e considerarei os vossos caminhos.",
+    "118:16": "{j_In} meditarei: * não esquecerei {s_acc}.",
+    "118:17": "{retribue} vosso servo, {vivifica}: * e guardarei {s_acc}:",
+    "118:18": "{revela}: * e considerarei as maravilhas da vossa lei.",
+    "118:19": "Eu sou {incola} na terra: * não escondais de mim {m_acc}.",
+    "118:20": "A minha alma {concupivit} desejar {j_acc}, * em todo tempo.",
+    "118:21": "Repreendestes os soberbos: * malditos os que se apartam {m_de}.",
+    "118:22": "Tirai de mim {opprobrium} e o desprezo: * porque {ex_1sg} {t_acc}.",
+    "118:23": "{v23}.",
+    "118:24": "Pois também {t_acc} são a minha meditação: * {v24b}.",
+    "118:25": "A minha alma {adh_3} {pavimento}: * {vivifica} segundo a vossa palavra.",
+    "118:26": "{v26a}: * ensinai-me {j_acc}.",
+    "118:27": "{v27a}: * e {exerc_fut} nas vossas maravilhas.",
+    "118:28": "A minha alma dormitou {taedio}: * {confirma} nas vossas palavras.",
+    "118:29": "{v29a}: * e {de_lege} tende piedade de mim.",
+    "118:30": "{v30a}: * não esqueci {jd_acc}.",
+    "118:31": "{adh_1} {t_dat}, Senhor: * {conf31}.",
+    "118:32": "{v32a}, * quando {dilatasti} o meu coração."
+  },
+  "decisions": [
+    {
+      "id": "justificationes",
+      "refs": [
+        "118:5",
+        "118:8",
+        "118:12",
+        "118:16",
+        "118:20",
+        "118:23",
+        "118:24",
+        "118:26",
+        "118:27"
+      ],
+      "latin": "justificatiónes tuas · in justificatiónibus tuis · justificatiónum tuárum",
+      "kind": "glossary",
+      "why": "The hard word of the psalm: 29 times here (9 of them in these 32 verses) and once in all the rest of the psalter (104:45); δικαιώματα. Lewis & Short give its biblical sense as '(as if from justa-facio) due formality' — an ordinance, a thing laid down as right to do. The Portuguese cognate does not have that sense. The full argument, the counts and the candidates are in words/ps118-terms.md §5; this one decision switches the term through the whole portion.",
+      "options": [
+        {
+          "label": "preceitos",
+          "forms": {
+            "j_acc": "os vossos preceitos",
+            "j_in": "nos vossos preceitos",
+            "j_In": "Nos vossos preceitos",
+            "j_gen": "dos vossos preceitos"
+          },
+          "note": "Ruled (Claude, for review). Three syllables, paroxytone, native with every verb the psalm gives the word (guardar, ensinar, aprender, meditar, cumprir, cantar). Matos Soares 1932 has it 9 times for this term; Portuguese Bibles call the same Greek pair in Luke 1:6 'mandamentos e preceitos do Senhor' (fetched; Protestant editions — Catholic ones unverified). Cost: it is the cognate of præcéptum, which never occurs in Ps 118 (8 places elsewhere, always singular, mostly πρόσταγμα) and is proposed as 'decreto' in the glossary. It is also 4 syllables shorter than the Latin word, so every colon that holds it runs short by the checker. Draft 2: the ambiguity reader lists 'preceitos' among words an ordinary hearer might not know (every time it occurs — together with 'iniquidade', 'sondam', 'fitar', 'deleitei', 'vivificai-me', 'dormitou'); the stylist did not remark on it. Weighed and kept: it is the word of Brazilian church speech (dia de preceito) and of this psalm in the Hebrew-family psalters Brazilians already pray (CNBB 27 times, Diurnal Monástico 27), none of which is archaic; 'decretos' would be better known and less apt.",
+          "from": "MS1932"
+        },
+        {
+          "label": "decretos",
+          "forms": {
+            "j_acc": "os vossos decretos",
+            "j_in": "nos vossos decretos",
+            "j_In": "Nos vossos decretos",
+            "j_gen": "dos vossos decretos"
+          },
+          "note": "The Diurnal Monástico's word for the matching Hebrew term (23 times): proven sayable in a Brazilian choir; collides with nothing in the Latin psalter; Matos Soares has 'justos decretos' 5 times. Against: in Brazil a decreto is first an act of government, and God's 'decretos' are his sovereign decisions rather than rules one keeps and learns. Choosing it sends præcéptum back to 'preceito'.",
+          "from": "DM1962"
+        },
+        {
+          "label": "justificações",
+          "forms": {
+            "j_acc": "as vossas justificações",
+            "j_in": "nas vossas justificações",
+            "j_In": "Nas vossas justificações",
+            "j_gen": "das vossas justificações"
+          },
+          "note": "The cognate, and Douay-Rheims' policy ('justifications', 29 of 29). The reader crossing from the Latin column finds the same word, and the colon lengths come right. Refused as the text: in Portuguese it means excuses, proofs, or the act of being made just — 'ensinai-me as vossas justificações' is heard as 'teach me your reasons'. It would need the footnote rule 5 forbids; Matos Soares, translating this very Latin, never once uses it.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "testimonia",
+      "refs": [
+        "118:2",
+        "118:14",
+        "118:22",
+        "118:24",
+        "118:31"
+      ],
+      "latin": "testimónia ejus / tua · testimoniórum tuórum · testimóniis tuis",
+      "kind": "glossary",
+      "why": "μαρτύρια, always; 22 times in the psalm. Lewis & Short: witness, attestation — nothing of the law-code in the word itself. Douay-Rheims holds 'testimonies' 22 of 22; Matos Soares scatters it over six words (testemunhos 6, preceitos 6, mandamentos 5 …).",
+      "options": [
+        {
+          "label": "testemunhos",
+          "forms": {
+            "t_ejus": "os seus testemunhos",
+            "t_acc": "os vossos testemunhos",
+            "t_gen": "dos vossos testemunhos",
+            "t_dat": "aos vossos testemunhos"
+          },
+          "note": "Glossary, confirmed by the study. The cognate, paroxytone; heard as 'what you have attested', which is what the Latin says. Draft 2: the ambiguity reader heard 'os seus testemunhos' (118:2) first as accounts of religious experience, and from 118:14 on, with 'vossos', as 'declarations given by God' — the right sense. The first hearing is the price of the cognate; kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "preceitos",
+          "forms": {
+            "t_ejus": "os seus preceitos",
+            "t_acc": "os vossos preceitos",
+            "t_gen": "dos vossos preceitos",
+            "t_dat": "aos vossos preceitos"
+          },
+          "note": "The Diurnal Monástico's commonest word here (from the Hebrew). Only possible if 'justificationes' is moved off 'preceitos' first — otherwise two Latin terms become one. It is another word's meaning (rule 2); listed because a Brazilian ear trained on Hebrew-family psalters expects it.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "mandata",
+      "refs": [
+        "118:4",
+        "118:6",
+        "118:10",
+        "118:15",
+        "118:19",
+        "118:21",
+        "118:32"
+      ],
+      "latin": "mandáta tua · in (ómnibus) mandátis tuis · a mandátis tuis · mandatórum tuórum",
+      "kind": "glossary",
+      "why": "ἐντολαί, always; the psalm's commonest law-word (38 times, 7 of them here). The only cost of the glossary word is length: 'os vossos mandamentos' is 8 syllables for the 5 of 'mandáta tua', and it pushes several cola over the Latin's count.",
+      "options": [
+        {
+          "label": "mandamentos",
+          "forms": {
+            "m_acc": "os vossos mandamentos",
+            "m_all": "todos os vossos mandamentos",
+            "m_de": "dos vossos mandamentos",
+            "m_In": "Nos vossos mandamentos"
+          },
+          "note": "Glossary, confirmed. The cognate; Douay-Rheims 'commandments' 34 of 38, Matos Soares 'mandamentos' about 30 of 38. It alone lets 118:4 keep its play (mandastes … mandamentos).",
+          "from": "glossary"
+        },
+        {
+          "label": "preceitos",
+          "forms": {
+            "m_acc": "os vossos preceitos",
+            "m_all": "todos os vossos preceitos",
+            "m_de": "dos vossos preceitos",
+            "m_In": "Nos vossos preceitos"
+          },
+          "note": "The Diurnal Monástico has it 15 times beside 'mandamentos' 21 (from the Hebrew, which has two terms where the Latin has one). A syllable shorter. Only possible if 'justificationes' is moved off 'preceitos'; and 118:4 loses its echo.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "judicia",
+      "refs": [
+        "118:7",
+        "118:13",
+        "118:30"
+      ],
+      "latin": "judícia justítiæ tuæ · ómnia judícia oris tui · judícia tua",
+      "kind": "glossary",
+      "why": "κρίματα; 23 times in the psalm, 66 in the psalter. The word must also serve the singular (118:84 fácies judícium, 118:121 Feci judícium et justítiam, 118:137 rectum judícium tuum).",
+      "options": [
+        {
+          "label": "juízos",
+          "forms": {
+            "jd_bare": "os juízos",
+            "jd_all": "todos os juízos",
+            "jd_acc": "os vossos juízos"
+          },
+          "note": "Glossary, confirmed. Matos Soares' commonest word for it (14), Douay-Rheims 'judgments' 21 of 23. Serves singular and plural, God's judging and his rulings. Cost: in Brazil 'juízo' is also good sense.",
+          "from": "glossary"
+        },
+        {
+          "label": "sentenças",
+          "forms": {
+            "jd_bare": "as sentenças",
+            "jd_all": "todas as sentenças",
+            "jd_acc": "as vossas sentenças"
+          },
+          "note": "The Diurnal Monástico's word (10 times). Clear for the plural — what a judge hands down — and 'as sentenças da vossa boca' (118:13) is good. It cannot serve most of judícium's other 60 places, so the Latin's one term would become two.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "sermones",
+      "refs": [
+        "118:9",
+        "118:16",
+        "118:17"
+      ],
+      "latin": "sermónes tuos",
+      "kind": "glossary",
+      "why": "sermo is λόγος, the same Greek word as verbum: the distinction is the Latin translator's own (118:42 has verbum … sermónibus for λόγον … λόγους). Rule 1 keeps it. Five times in the psalm, always plural; 14 times elsewhere, often of a man's talk (54:22 Mollíti sunt sermónes ejus super óleum; 138:4 non est sermo in lingua mea). Lewis & Short: talk, conversation, ordinary speech. 118:16 and 118:17 both end on it, and so they do here.",
+      "options": [
+        {
+          "label": "palavras",
+          "forms": {
+            "s_acc": "as vossas palavras"
+          },
+          "note": "Draft 3, ruled by the main session (DECISIONS.md D15), overruling the agent. The variation verbum / sermo is the Latin translator’s elegance over one Greek word (λόγος) — it carries no difference of meaning, unlike elóquium (λόγιον), which keeps its own word. No plain Portuguese pair exists for it: the one candidate was refused three times by the stylist as sounding made up, and D2 gives the ear the plainer of two faithful words. Douay-Rheims, Matos Soares 1932 and the Diurnal Monástico all merge the two. Cost, accepted: where the Latin sets verbum beside sermo (118:42, 55:11, 102:20) the Portuguese will repeat a word the Latin varies; those verses decide locally. What Douay-Rheims, Matos Soares 1932 and the Diurnal Monástico all did, and what the Greek says. It makes verbum and sermo one word: harmless in these three verses, but 118:42 (verbum … sermónibus), 55:11 and 102:20 set the two side by side, and 118:28 'in verbis tuis' → 'nas vossas palavras' is eleven verses away. The stylist's proposal (draft 1, three remarks).",
+          "from": "MS1932"
+        },
+        {
+          "label": "falas",
+          "forms": {
+            "s_acc": "as vossas falas"
+          },
+          "note": "Draft 2’s wording, the translating agent’s ruling. The exact sense of sermo, and native wherever it was tried: 'as suas falas são mais macias que o azeite' (54:22), 'não há fala na minha língua' (138:4), 'veloz corre a sua fala' (147:4). Two syllables, paroxytone. Cost: said of God's words that one keeps and does not forget, 'as vossas falas' is unusual in prayer — nobody has prayed it before. Draft 2: the stylist refused it three times over (118:9, 16, 17) — 'falas' sounds like turns in a conversation or lines in a play, and 'guardar as vossas falas' sounds made up — and asked for 'palavras'. The ambiguity reader, who had the Portuguese alone, understood it at once and rightly ('cumprindo aquilo que Deus diz') and did not list it as unknown. Kept under D2: 'palavras' is verbum's word and would erase a variation the Latin makes; but this is the ruling of the set most exposed to the ear, and it is one click to reverse.",
+          "from": "draft2"
+        },
+        {
+          "label": "ditos",
+          "forms": {
+            "s_acc": "os vossos ditos"
+          },
+          "note": "Possible only if 'eloquia' is moved off 'ditos' (to 'promessas' or 'falas').",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eloquia",
+      "refs": [
+        "118:11"
+      ],
+      "latin": "elóquia tua",
+      "kind": "glossary",
+      "why": "elóquium is λόγιον — an utterance, an oracle — against λόγος: this is the distinction that goes back through the Greek. 20 times in the psalm (once in these verses), 8 elsewhere, and twice there it is a man's (18:15a elóquia oris mei, 103:34 elóquium meum). Lewis & Short: 'in late Latin, declaration, communication in general'. The least certain ruling of the term set; see words/ps118-terms.md §5.",
+      "options": [
+        {
+          "label": "ditos",
+          "forms": {
+            "e_acc": "os vossos ditos"
+          },
+          "note": "Ruled (Claude, for review). A thing uttered, God's or a man's, with a good plural: 'os ditos do Senhor são ditos puros' (11:7), 'os ditos da minha boca' (18:15a), 'segundo o vosso dito' (118:41 and seven more). Paroxytone, two syllables. Cost: it is a small word ('dito popular'), and in the formula it is thinner than 'promessa'. Draft 2: neither the stylist nor the ambiguity reader stumbled on 'os vossos ditos' (118:11); the latter heard 'kept inwardly' first, 'kept secret' second — abscóndi has both.",
+          "from": "draft"
+        },
+        {
+          "label": "promessas",
+          "forms": {
+            "e_acc": "as vossas promessas"
+          },
+          "note": "The Diurnal Monástico (15 of 20, from the Hebrew) and Matos Soares three times. In 'secúndum elóquium tuum' it is what the line means, and it prays well. Refused as the text: it interprets (rule 2), and it fails where the elóquium is kept or spoken — 118:67 elóquium tuum custodívi, 118:158, 118:172 — and where it is a man's. Here: 'escondi as vossas promessas para não pecar' is already a little off.",
+          "from": "DM1962"
+        },
+        {
+          "label": "falas",
+          "forms": {
+            "e_acc": "as vossas falas"
+          },
+          "note": "Etymologically exact (é-loqui : falar). Only possible if 'sermones' is moved off 'falas'.",
+          "from": "draft"
+        },
+        {
+          "label": "palavras",
+          "forms": {
+            "e_acc": "as vossas palavras"
+          },
+          "note": "Douay-Rheims ('words'), Matos Soares 15 of 20. Merges λόγιον into λόγος — the one distinction of the three that the Greek itself makes — and 147:4 sets elóquium beside sermo.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "immaculati",
+      "refs": [
+        "118:1"
+      ],
+      "latin": "immaculáti in via",
+      "kind": "word",
+      "why": "ἄμωμοι, without blemish. The word returns at 118:80 (Fiat cor meum immaculátum) and is said of the law itself in 18:8 (Lex Dómini immaculáta). The colon is long whatever is done, because 'Bem-aventurados' (glossary) is six syllables for Beáti's three.",
+      "options": [
+        {
+          "label": "os imaculados",
+          "forms": {
+            "immaculati": "os imaculados"
+          },
+          "note": "Draft. The Latin's word, which can serve 118:80 and 18:8 unchanged. Cost: in Brazil 'imaculada' belongs first to Our Lady, and the colon is 5 syllables over the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "os sem mancha",
+          "forms": {
+            "immaculati": "os sem mancha"
+          },
+          "note": "Plainer and two syllables shorter; Matos Soares has 'os que se conservam sem mácula'. A prepositional phrase doing duty as a noun is a little awkward, and 118:80 'um coração sem mancha' would follow easily.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "scrutantur",
+      "refs": [
+        "118:2"
+      ],
+      "latin": "qui scrutántur testimónia ejus",
+      "kind": "glossary",
+      "why": "scrutári (ἐξερευνάω, to search out) comes five times in the psalm (118:2, 34, 69, 115, 129) and must also serve 7:10 scrutans corda et renes Deus. It has to stay apart from exquírere in the same verse.",
+      "options": [
+        {
+          "label": "sondam",
+          "forms": {
+            "scrutantur": "sondam"
+          },
+          "note": "Draft. Plain, concrete (to sound a depth), two syllables; 'Deus que sonda os corações e os rins' (7:10) is natural. The plainer of the faithful words.",
+          "from": "draft"
+        },
+        {
+          "label": "perscrutam",
+          "forms": {
+            "scrutantur": "perscrutam"
+          },
+          "note": "The cognate (per-scrutári). Exact and dignified, but learned.",
+          "from": "draft"
+        },
+        {
+          "label": "esquadrinham",
+          "forms": {
+            "scrutantur": "esquadrinham"
+          },
+          "note": "The precise sense of scrutári — to go through a thing piece by piece — but four rugged syllables, and 'esquadrinharei' at 118:34 would be seven.",
+          "from": "draft"
+        },
+        {
+          "label": "estudam",
+          "forms": {
+            "scrutantur": "estudam"
+          },
+          "note": "Matos Soares 1932. Tames the image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exquirere",
+      "refs": [
+        "118:2",
+        "118:10",
+        "118:22"
+      ],
+      "latin": "exquírunt eum · exquisívi te · testimónia tua exquisívi",
+      "kind": "glossary",
+      "why": "exquírere (ἐκζητέω) eight times in the psalm, beside the simple quǽrere (118:100 quæsívi, 118:176 quære servum tuum) and requírere (118:145). The glossary has quǽrere → buscar.",
+      "options": [
+        {
+          "label": "procurar",
+          "forms": {
+            "ex_3pl": "procuram",
+            "ex_1sg": "procurei"
+          },
+          "note": "Draft. Keeps the compound apart from quǽrere → buscar, so that 118:176 'buscai o vosso servo' is a different verb from the one the psalmist uses of himself eight times. 'Procurar a Deus de todo o coração' is native.",
+          "from": "draft"
+        },
+        {
+          "label": "buscar",
+          "forms": {
+            "ex_3pl": "buscam",
+            "ex_1sg": "busquei"
+          },
+          "note": "Matos Soares 1932 (sometimes 'busquei cuidadoso', to give the ex- its due); Douay-Rheims 'seek / sought after'. The more biblical verb; merges exquírere with quǽrere.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mandasti",
+      "refs": [
+        "118:4"
+      ],
+      "latin": "Tu mandásti mandáta tua",
+      "kind": "glossary",
+      "why": "The verb and its own noun side by side (so the Greek: ἐνετείλω τὰς ἐντολάς). The glossary has mandáre → 'dar ordem' (open, Ps 90:11), with the note that it loses the link with mandáta; here the link is the line.",
+      "options": [
+        {
+          "label": "mandastes",
+          "forms": {
+            "mandasti": "mandastes"
+          },
+          "note": "Draft: 'Vós mandastes que os vossos mandamentos …' — the repetition is the Latin's own (D2). The glossary row for mandáre is widened accordingly.",
+          "from": "draft"
+        },
+        {
+          "label": "ordenastes",
+          "forms": {
+            "mandasti": "ordenastes"
+          },
+          "note": "Natural and clear; the echo is gone. Matos Soares has 'promulgaste'.",
+          "from": "draft"
+        },
+        {
+          "label": "destes ordem",
+          "forms": {
+            "mandasti": "destes ordem"
+          },
+          "note": "The glossary's phrase from Ps 90:11, for consistency across psalms; the echo is gone here too.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": [
+        "118:4"
+      ],
+      "latin": "custodíri nimis",
+      "kind": "word",
+      "why": "nimis (σφόδρα, exceedingly) qualifying 'to be kept'. It returns at 118:96 (latum mandátum tuum nimis) and 118:138, and often elsewhere (47:2 laudábilis nimis); no single Portuguese adverb sits naturally in all of them.",
+      "options": [
+        {
+          "label": "à risca",
+          "forms": {
+            "nimis": "à risca"
+          },
+          "note": "Draft, from Matos Soares 1932. The native intensifier for keeping a rule; paroxytone at the close. Cost: it cannot be the word at 118:96 or 118:138 — nimis will not have one rendering.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sobremaneira",
+          "forms": {
+            "nimis": "sobremaneira"
+          },
+          "note": "The literal 'exceedingly', and it could serve 118:96 and 118:138 as well. Bookish, and 'guardar sobremaneira' is not something one says.",
+          "from": "draft"
+        },
+        {
+          "label": "com todo o cuidado",
+          "forms": {
+            "nimis": "com todo o cuidado"
+          },
+          "note": "Douay-Rheims 'most diligently'; the Diurnal Monástico 'com cuidado'. Supplies a noun.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "confundi",
+      "refs": [
+        "118:6",
+        "118:31"
+      ],
+      "latin": "non confúndar · noli me confúndere",
+      "kind": "glossary",
+      "why": "confúndi (αἰσχύνομαι, to be put to shame) six times in the psalm, and it is the verb of 30:2 = 70:1 In te, Dómine, sperávi, non confúndar in ætérnum — the last line of the Te Deum. It stands in a cluster with erubéscere and reveréri (34:4, 34:26, 39:15, 69:3–4), so the three want three words. The passive is traditional in Portuguese prayer; the active is the difficulty: 'não me confundais' is heard as 'do not muddle me'.",
+      "options": [
+        {
+          "label": "envergonhar",
+          "forms": {
+            "conf6": "não serei envergonhado",
+            "conf31": "não me envergonheis"
+          },
+          "note": "Draft 2. The blind ambiguity reader heard 'não serei confundido' (118:6) and 'não me deixeis confundido' (118:31) FIRST as 'I shall not be confused, left without understanding' — a sense confúndi does not have here (αἰσχύνομαι: be put to shame); and the Latinist asked that 118:31 keep the direct prohibition (noli me confúndere), which 'não me envergonheis' does. Douay-Rheims 'put me not to shame'. Costs: the Te Deum's closing line (non confúndar in ætérnum = 30:2, 70:1) will not be the traditional 'não serei confundido'; erubéscere, which stands beside confúndi in 34:4/26, 39:15, 69:3–4, must take another word — 'corar' (to redden) is its own image and is free. 118:6 runs 5 syllables over.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "ser confundido / não me deixeis confundido",
+          "forms": {
+            "conf6": "não serei confundido",
+            "conf31": "não me deixeis confundido"
+          },
+          "note": "Draft 1. The cognate and the traditional word of Portuguese prayer, kept in the passive participle; at 118:31 turned with 'deixar'. Set aside in draft 2 because the blind reader heard 'confused' first in both verses, and the Latinist found 'deixeis' loosens the direct prohibition.",
+          "from": "draft"
+        },
+        {
+          "label": "ser confundido / não me confundais",
+          "forms": {
+            "conf6": "não serei confundido",
+            "conf31": "não me confundais"
+          },
+          "note": "The active verb as the Latin has it. Shorter; risks being heard as 'do not confuse me'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "perspexero",
+      "refs": [
+        "118:6"
+      ],
+      "latin": "cum perspéxero in ómnibus mandátis tuis",
+      "kind": "word",
+      "why": "perspícere in: to look closely into (ἐπιβλέπειν ἐπί); Douay-Rheims 'when I shall look into'. Matos Soares paraphrases ('quando me empregar atento na observância de'). consideráre (118:15, 18) is another verb and needs to stay free.",
+      "options": [
+        {
+          "label": "fitar",
+          "forms": {
+            "perspexero": "fitar"
+          },
+          "note": "Draft. Keeps the eyes and the steadiness of per-; one word for one.",
+          "from": "draft"
+        },
+        {
+          "label": "olhar para",
+          "forms": {
+            "perspexero": "olhar para"
+          },
+          "note": "Plainer; the per- is lost, and 'olhar' is busy elsewhere (despícere → olhar de cima).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "in_eo_quod",
+      "refs": [
+        "118:7"
+      ],
+      "latin": "in eo quod dídici",
+      "kind": "ambiguity",
+      "why": "ἐν τῷ μεμαθηκέναι με: 'in that I have learned' — open between the ground of the thanksgiving and its time. Douay-Rheims takes it as time ('when I shall have learned'), Matos Soares as cause ('porque aprendi').",
+      "options": [
+        {
+          "label": "por ter aprendido",
+          "forms": {
+            "in_eo_quod": "por ter aprendido"
+          },
+          "note": "Draft. An infinitive, as in the Greek; leans to cause but fixes no tense, so the 'when' is not shut out.",
+          "from": "draft"
+        },
+        {
+          "label": "quando tiver aprendido",
+          "forms": {
+            "in_eo_quod": "quando tiver aprendido"
+          },
+          "note": "Douay-Rheims. Resolves to time, and to a future the Latin perfect does not say.",
+          "from": "DRB"
+        },
+        {
+          "label": "porque aprendi",
+          "forms": {
+            "in_eo_quod": "porque aprendi"
+          },
+          "note": "Matos Soares 1932. Resolves to cause; keeps the perfect.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "in_quo",
+      "refs": [
+        "118:9"
+      ],
+      "latin": "In quo córrigit …? In custodiéndo …",
+      "kind": "grammar",
+      "why": "Question and answer hang on one preposition (ἐν τίνι … ἐν τῷ φυλάσσεσθαι): by what? — by keeping. Douay-Rheims keeps it ('By what … ? by observing'); Matos Soares has 'De que modo … ? Guardando'.",
+      "options": [
+        {
+          "label": "Com que … ? Guardando …",
+          "forms": {
+            "in_quo_a": "Com que",
+            "in_quo_b": "Guardando"
+          },
+          "note": "Draft. 'Com que' asks for the means, as 'in quo' does; the gerund is how Portuguese answers it. Draft 2 takes the stylist's order (subject before verb: 'Com que o jovem corrige'), not his 'Como', which stays the third option.",
+          "from": "draft"
+        },
+        {
+          "label": "Em que … ? Em guardar …",
+          "forms": {
+            "in_quo_a": "Em que",
+            "in_quo_b": "Em guardar"
+          },
+          "note": "The Latin's preposition twice. 'Em que corrige' is heard as 'in what respect', which is not the sense.",
+          "from": "draft"
+        },
+        {
+          "label": "Como … ? Guardando …",
+          "forms": {
+            "in_quo_a": "Como",
+            "in_quo_b": "Guardando"
+          },
+          "note": "The most natural question (Diurnal Monástico: 'Como, jovem, seguir caminhos puros?'); 'in quo' is no longer heard.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "repellas",
+      "refs": [
+        "118:10"
+      ],
+      "latin": "ne repéllas me a mandátis tuis",
+      "kind": "word",
+      "why": "'Do not thrust me away from your commandments' (μὴ ἀπώσῃ με ἀπό). Both Vulgate versions soften it to straying (Douay-Rheims 'let me not stray', Matos Soares 'não me deixes transviar'), which is the Hebrew's sense, not the Latin's: in the Latin it is God who would do the pushing. repéllere is the verb of 42:2 quare me repulísti and 59:3 Deus, repulísti nos.",
+      "options": [
+        {
+          "label": "não me afasteis dos",
+          "forms": {
+            "repellas": "afasteis"
+          },
+          "note": "Draft 2, from the stylist ('rejeitar dos' has no natural regency; the ear has to rebuild the idea of distance) — and the ambiguity reader could not tell what 'dos vossos mandamentos' was doing after 'rejeiteis'. It is still God who does it, which is what the Latin says and what Matos Soares and Douay-Rheims lose. Costs: milder than a thrust; and it is amovére's verb in 118:29, so two Latin verbs share one Portuguese in this portion.",
+          "from": "stylist"
+        },
+        {
+          "label": "não me rejeiteis dos",
+          "forms": {
+            "repellas": "rejeiteis"
+          },
+          "note": "Draft 1. 'rejeitar' is the verb repéllere will want where it has no 'a' (42:2 quare me repulísti, 59:3); with 'de' two blind readers stumbled on it.",
+          "from": "draft"
+        },
+        {
+          "label": "não me deixeis desviar dos",
+          "forms": {
+            "repellas": "deixeis desviar"
+          },
+          "note": "Matos Soares 1932 and Douay-Rheims. Refused: it makes the psalmist the one who strays.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exerceri",
+      "refs": [
+        "118:15",
+        "118:23",
+        "118:27"
+      ],
+      "latin": "exercébor · exercebátur · exercébor",
+      "kind": "glossary",
+      "why": "exercéri in: to be busied, exercised in (the Greek ἀδολεσχέω is 'to talk on, to muse'; the Latin chose its own image and is followed). Five times in the psalm, and each time next to meditári or meditátio (118:15/16, 118:23/24), so the two verbs cannot be one.",
+      "options": [
+        {
+          "label": "exercitar-se em",
+          "forms": {
+            "exerc_fut": "me exercitarei",
+            "exerc_impf": "se exercitava"
+          },
+          "note": "Draft. The Latin's word (Matos Soares has it at 118:15, Douay-Rheims at 118:27 'I shall be exercised'). Five syllables in the future; 118:15 runs 3 over. The ambiguity reader heard 'exercitar-se nos mandamentos' first as putting them into practice, second as studying them; exercéri in is open in the same way (Douay-Rheims 'be exercised in'), so nothing changed.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ocupar-se em",
+          "forms": {
+            "exerc_fut": "me ocuparei",
+            "exerc_impf": "se ocupava"
+          },
+          "note": "Douay-Rheims at 118:23 ('was employed in'). Plainer and a syllable shorter; paler.",
+          "from": "DRB"
+        },
+        {
+          "label": "meditar",
+          "forms": {
+            "exerc_fut": "meditarei",
+            "exerc_impf": "meditava"
+          },
+          "note": "Matos Soares at 118:23 and 118:27, Douay-Rheims at 118:15. Refused: 118:15–16 would then say 'meditarei' twice where the Latin has two verbs.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "retribue",
+      "refs": [
+        "118:17"
+      ],
+      "latin": "Retríbue servo tuo",
+      "kind": "glossary",
+      "why": "retribúere (ἀνταπόδος: render, requite) belongs with retribútio → retribuição (glossary; 118:112 propter retributiónem). But the vós imperative of 'retribuir' is 'retribuí', which is also 'I repaid' — rule 3 forbids the verb at this form.",
+      "options": [
+        {
+          "label": "Recompensai o",
+          "forms": {
+            "retribue": "Recompensai o"
+          },
+          "note": "Draft. One verb for one, safe under rule 3 (past 'recompensei'), and the Latin's length. retribúere is to give back what is due, and 'recompensar' is that; it leans to reward, which is the sense here (the servant asks for life). Cost: it leaves the family of retribútio → retribuição (118:112), which the verb can rejoin at every form but this one (115:3 'Que retribuirei ao Senhor?').",
+          "from": "draft"
+        },
+        {
+          "label": "Dai retribuição ao",
+          "forms": {
+            "retribue": "Dai retribuição ao"
+          },
+          "note": "Keeps the glossary's family through the noun; 'dai' is safe (past 'dei'). Four syllables over the Latin, and an abstract noun at the head of a stanza.",
+          "from": "glossary"
+        },
+        {
+          "label": "Retribuí ao",
+          "forms": {
+            "retribue": "Retribuí ao"
+          },
+          "note": "The glossary verb itself. Refused: the imperative equals the first-person past (rule 3). What DO's Portuguese has now.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vivifica",
+      "refs": [
+        "118:17",
+        "118:25"
+      ],
+      "latin": "vivífica me",
+      "kind": "glossary",
+      "why": "Twelve times in the psalm, nine of them the prayer 'vivífica me'. One Latin word (the Greek has ζῆσόν με; at 118:17 the Greek has a future, 'I shall live', and the Latin's imperative is followed).",
+      "options": [
+        {
+          "label": "vivificai-me",
+          "forms": {
+            "vivifica": "vivificai-me"
+          },
+          "note": "Draft. One word for one, the Latin's own, and the same length; safe under rule 3 (past 'vivifiquei'). It will also carry the perfects (118:50 vivificávit me, 118:93 vivificásti me). Churchly, but known from 'Espírito vivificante'. Draft 2: the ambiguity reader lists 'vivificai-me' as a word an ordinary hearer might not know (both times); the stylist let it pass. Kept — the verb comes twelve times and 'dai-me a vida' is the ready option.",
+          "from": "draft"
+        },
+        {
+          "label": "dai-me a vida",
+          "forms": {
+            "vivifica": "dai-me a vida"
+          },
+          "note": "Matos Soares 1932. Plainer and warmer; supplies a noun (compare the refusal of 'oferecer sacrifício' in Ps 53:8), and 'vita' is another word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "revela",
+      "refs": [
+        "118:18"
+      ],
+      "latin": "Revéla óculos meos",
+      "kind": "word",
+      "why": "re-veláre: take the veil off (ἀποκάλυψον). The glossary has revelátio → revelação, but 'revelai os meus olhos' says something else in Portuguese; and 'abri' and 'descobri' both fail rule 3.",
+      "options": [
+        {
+          "label": "Desvendai os meus olhos",
+          "forms": {
+            "revela": "Desvendai os meus olhos"
+          },
+          "note": "Draft. des-vendar is re-veláre piece for piece (to take off a blindfold), one word for one, safe under rule 3 (past 'desvendei').",
+          "from": "draft"
+        },
+        {
+          "label": "Tirai o véu dos meus olhos",
+          "forms": {
+            "revela": "Tirai o véu dos meus olhos"
+          },
+          "note": "Matos Soares 1932. Names the veil outright; three syllables over.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "incola",
+      "refs": [
+        "118:19"
+      ],
+      "latin": "Íncola ego sum in terra",
+      "kind": "word",
+      "why": "íncola here is πάροικος, one who lives in a land that is not his. It must stay apart from peregrinátio (118:54 in loco peregrinatiónis meæ), ádvena and peregrínus (38:13) and aliénus → estranho (glossary).",
+      "options": [
+        {
+          "label": "forasteiro",
+          "forms": {
+            "incola": "forasteiro"
+          },
+          "note": "Draft. One from elsewhere who lives here: the sense of πάροικος, plain and Brazilian.",
+          "from": "draft"
+        },
+        {
+          "label": "estrangeiro",
+          "forms": {
+            "incola": "estrangeiro"
+          },
+          "note": "The Diurnal Monástico. Narrows it to nationality, and ádvena will want it.",
+          "from": "DM1962"
+        },
+        {
+          "label": "peregrino",
+          "forms": {
+            "incola": "peregrino"
+          },
+          "note": "Matos Soares 1932; Douay-Rheims 'sojourner'. Beloved, but it is peregrínus' word, and 118:54 has peregrinátio.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "concupivit",
+      "refs": [
+        "118:20"
+      ],
+      "latin": "Concupívit ánima mea desideráre",
+      "kind": "word",
+      "why": "A desire doubled: 'my soul has coveted to desire' (ἐπεπόθησεν τοῦ ἐπιθυμῆσαι). Douay-Rheims keeps it ('hath coveted to long for'); Matos Soares collapses it ('desejou ansiosa'). Rule 2 keeps the Latin's strangeness. concupíscere returns at 118:40 and 118:174, and in 83:3.",
+      "options": [
+        {
+          "label": "ansiou por desejar",
+          "forms": {
+            "concupivit": "ansiou por"
+          },
+          "note": "Draft 2, from the stylist, who named 118:20 the worst line of draft 1: 'cobiçar' does not take an infinitive in Portuguese and suggests wanting to possess. The doubled desire stays (ansiou por desejar); only the construction is mended (D2). concupíscere → 'ansiar por' can serve 118:40, 118:174 and 83:3 (A minha alma anseia e desfalece pelos átrios do Senhor). The ambiguity reader heard the two verbs as one intensified desire, which is fair to the Latin.",
+          "from": "stylist"
+        },
+        {
+          "label": "cobiçou desejar",
+          "forms": {
+            "concupivit": "cobiçou"
+          },
+          "note": "Draft 1 (Douay-Rheims 'hath coveted to long for'). The root of concupíscere and its shadow; not native with an infinitive.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "opprobrium",
+      "refs": [
+        "118:22"
+      ],
+      "latin": "oppróbrium, et contémptum",
+      "kind": "glossary",
+      "why": "oppróbrium (ὄνειδος, reproach) is frequent in the psalter (21:7 oppróbrium hóminum, Ps 68 five times, 118:39), so the word chosen here will travel.",
+      "options": [
+        {
+          "label": "a afronta",
+          "forms": {
+            "opprobrium": "a afronta"
+          },
+          "note": "Draft 2. The stylist failed 'opróbrio' on plainness (solemn without being understood) and the ambiguity reader listed it as unknown and, for want of it, half-heard the line as a prayer to stop despising others. 'afronta' is the plain word for a reproach thrown at one (ὄνειδος), and it gives exprobráre its verb: 118:42 'aos que me afrontam', 68:10 'as afrontas dos que vos afrontam' keeps the Latin's oppróbria exprobrántium.",
+          "from": "stylist"
+        },
+        {
+          "label": "o opróbrio",
+          "forms": {
+            "opprobrium": "o opróbrio"
+          },
+          "note": "Draft. The cognate, and the word both Brazilian witnesses write here (Matos Soares 1932, Diurnal Monástico 1962). Literary; a blind reader may not know it.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a desonra",
+          "forms": {
+            "opprobrium": "a desonra"
+          },
+          "note": "The stylist's own word. A state rather than something thrown; it gives exprobráre no verb.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "adhaesit",
+      "refs": [
+        "118:25",
+        "118:31"
+      ],
+      "latin": "Adhǽsit paviménto ánima mea · Adhǽsi testimóniis tuis",
+      "kind": "glossary",
+      "why": "One verb twice in the stanza (ἐκολλήθη / ἐκολλήθην, was glued to): the soul stuck to the floor, the man stuck to the testimonies. Rule 6 wants one Portuguese verb for both; Matos Soares has two ('prostrou-se', 'aderi'). It must also serve 62:9 Adhǽsit ánima mea post te, 21:16 lingua mea adhǽsit fáucibus meis, 72:28 mihi autem adhærére Deo bonum est.",
+      "options": [
+        {
+          "label": "apegar-se a",
+          "forms": {
+            "adh_3": "apegou-se ao",
+            "adh_1": "Apeguei-me"
+          },
+          "note": "Draft. Physical and of the heart at once, as the Latin verb is; native in all the places listed ('a minha alma apegou-se a vós').",
+          "from": "draft"
+        },
+        {
+          "label": "colar-se a",
+          "forms": {
+            "adh_3": "colou-se ao",
+            "adh_1": "Colei-me"
+          },
+          "note": "The Greek's image, and the Diurnal Monástico's ('está colada no pó'). Vivid at 118:25; 'colei-me aos vossos testemunhos' is odd.",
+          "from": "DM1962"
+        },
+        {
+          "label": "aderir a",
+          "forms": {
+            "adh_3": "aderiu ao",
+            "adh_1": "Aderi"
+          },
+          "note": "The cognate (Matos Soares at 118:31). Abstract — one adheres to a party — and wrong for a soul on the floor.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pavimento",
+      "refs": [
+        "118:25"
+      ],
+      "latin": "paviménto",
+      "kind": "word",
+      "why": "pavīméntum (ἔδαφος): the beaten floor, the ground. Douay-Rheims 'pavement'; Matos Soares 'por terra'; the Hebrew-family versions have 'pó' (dust), which is not the Latin's word.",
+      "options": [
+        {
+          "label": "chão",
+          "forms": {
+            "pavimento": "chão"
+          },
+          "note": "Draft. The concrete, everyday word for what is under one's feet.",
+          "from": "draft"
+        },
+        {
+          "label": "pavimento",
+          "forms": {
+            "pavimento": "pavimento"
+          },
+          "note": "The cognate. In Brazil it is a road surface or the storey of a building.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "daleth_order",
+      "refs": [
+        "118:26",
+        "118:27",
+        "118:29",
+        "118:30",
+        "118:32"
+      ],
+      "latin": "Vias meas … · Viam justificatiónum … · Viam iniquitátis … · Viam veritátis … · Viam mandatórum …",
+      "kind": "order",
+      "why": "Five of the eight verses of Daleth open on Via-: the Hebrew acrostic (every line beginning with one letter) shows through the Latin as an anaphora. D2 gives order to the ear; but this order is also a repetition, which D2 keeps. One switch for the five verses.",
+      "options": [
+        {
+          "label": "natural order",
+          "forms": {
+            "v26a": "Expus os meus caminhos, e me escutastes",
+            "v27a": "{instrue_nat} {j_gen}",
+            "v29a": "Afastai de mim o caminho da iniquidade",
+            "v30a": "Escolhi o caminho da verdade",
+            "v32a": "Corri o caminho {m_de}"
+          },
+          "note": "Draft. 'caminho' is still heard in all five lines, only not at their head; nothing is inverted for its own sake (rule 5), and the stanza stays as plain as the other three.",
+          "from": "draft"
+        },
+        {
+          "label": "'caminho' first, as in the Latin",
+          "forms": {
+            "v26a": "Os meus caminhos expus, e me escutastes",
+            "v27a": "{instrue_fa} {j_gen} {instrue_fb}",
+            "v29a": "O caminho da iniquidade afastai de mim",
+            "v30a": "O caminho da verdade escolhi",
+            "v32a": "O caminho {m_de} corri"
+          },
+          "note": "The stanza's shape made visible beside the Latin column. Five object-first lines out of eight; Portuguese bears each one alone, the run of them is mannered.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "instrue",
+      "refs": [
+        "118:27"
+      ],
+      "latin": "Viam justificatiónum tuárum ínstrue me",
+      "kind": "word",
+      "why": "ínstrue me with a second accusative (συνέτισόν με: make me understand). The vós imperative of 'instruir' is 'instruí', which is also 'I instructed' — rule 3. docére (118:26, the verse before) has 'ensinar'.",
+      "options": [
+        {
+          "label": "Fazei-me entender o caminho",
+          "forms": {
+            "instrue_nat": "Fazei-me entender o caminho",
+            "instrue_fa": "O caminho",
+            "instrue_fb": "fazei-me entender"
+          },
+          "note": "Draft, with Douay-Rheims ('Make me to understand') and the Diurnal Monástico ('Faze-me entender'). It is the Greek verb exactly, whose noun is the psalm's intelléctus (da mihi intelléctum, 118:34 …). 'fazei' is safe.",
+          "from": "DRB"
+        },
+        {
+          "label": "Instruí-me no caminho",
+          "forms": {
+            "instrue_nat": "Instruí-me no caminho",
+            "instrue_fa": "No caminho",
+            "instrue_fb": "instruí-me"
+          },
+          "note": "Matos Soares 1932 ('Instrui-me no caminho', under tu). The cognate. Refused: under vós the imperative equals the first-person past (rule 3). The Latinist asked for exactly this (minor: 'instrue me asks for instruction; fazei-me entender shifts to the result') — refused on rule 3 alone.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Ensinai-me o caminho",
+          "forms": {
+            "instrue_nat": "Ensinai-me o caminho",
+            "instrue_fa": "O caminho",
+            "instrue_fb": "ensinai-me"
+          },
+          "note": "Plain; but it is docére's verb, and 118:26 ends 'ensinai-me os vossos preceitos'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "taedio",
+      "refs": [
+        "118:28"
+      ],
+      "latin": "Dormitávit ánima mea præ tǽdio",
+      "kind": "word",
+      "why": "tǽdium stands for ἀκηδία — the weariness of soul the monks called acedia. (Rahlfs prints ἔσταξεν, 'dripped', for the verb; the Latin's dormitávit follows the other reading, 'grew drowsy', and is followed.) Douay-Rheims 'through heaviness'; Matos Soares 'de tédio'.",
+      "options": [
+        {
+          "label": "de tédio",
+          "forms": {
+            "taedio": "de tédio"
+          },
+          "note": "Draft, with Matos Soares 1932. The Latin's word; today it leans to boredom — which is not far from what acedia is.",
+          "from": "MS1932"
+        },
+        {
+          "label": "de abatimento",
+          "forms": {
+            "taedio": "de abatimento"
+          },
+          "note": "Nearer Douay-Rheims' 'heaviness'. Longer, and 'humílitas' later in the psalm (118:50, 92) may want it.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "confirma",
+      "refs": [
+        "118:28"
+      ],
+      "latin": "confírma me in verbis tuis",
+      "kind": "word",
+      "why": "confirmáre: make firm (βεβαίωσον). It recurs (50:14 spíritu principáli confírma me) beside firmáre and fortitúdo, which want words of their own.",
+      "options": [
+        {
+          "label": "confirmai-me",
+          "forms": {
+            "confirma": "confirmai-me"
+          },
+          "note": "Draft. The cognate; 'confirmar' still means to make firm in church Portuguese (the sacrament). Safe under rule 3 (past 'confirmei').",
+          "from": "draft"
+        },
+        {
+          "label": "fortalecei-me",
+          "forms": {
+            "confirma": "fortalecei-me"
+          },
+          "note": "Matos Soares 1932 ('fortifica-me'), Douay-Rheims 'strengthen'. Plainer; takes the word of fortitúdo.",
+          "from": "MS1932"
+        },
+        {
+          "label": "firmai-me",
+          "forms": {
+            "confirma": "firmai-me"
+          },
+          "note": "The concrete sense, shorter; it is firmáre's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "de_lege",
+      "refs": [
+        "118:29"
+      ],
+      "latin": "de lege tua miserére mei",
+      "kind": "ambiguity",
+      "why": "'Out of your law have mercy on me' (Douay-Rheims: 'out of thy law'); the Greek has a bare dative (τῷ νόμῳ σου ἐλέησόν με). The Latin 'de' is open: from the law as source, by it as means, according to it. Matos Soares settles on 'segundo a tua lei'.",
+      "options": [
+        {
+          "label": "pela vossa lei",
+          "forms": {
+            "de_lege": "pela vossa lei"
+          },
+          "note": "Draft. 'por' is as open as 'de' is — by, through, for the sake of — and is natural Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "segundo a vossa lei",
+          "forms": {
+            "de_lege": "segundo a vossa lei"
+          },
+          "note": "Matos Soares 1932. Clear; but it is the psalm's 'secúndum' (secúndum verbum tuum, four verses earlier), which the Latin did not write here.",
+          "from": "MS1932"
+        },
+        {
+          "label": "da vossa lei",
+          "forms": {
+            "de_lege": "da vossa lei"
+          },
+          "note": "Word for word. 'e da vossa lei tende piedade de mim' is heard as 'have mercy on me from your law' — rescue me from it.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dilatasti",
+      "refs": [
+        "118:32"
+      ],
+      "latin": "cum dilatásti cor meum",
+      "kind": "glossary",
+      "why": "DECISIONS.md D8 asked that dilatáre be looked at again here (4:2a dilatásti mihi → 'me abristes espaço'). Here it has an object, the heart, and Portuguese has the expression ready-made.",
+      "options": [
+        {
+          "label": "dilatastes",
+          "forms": {
+            "dilatasti": "dilatastes"
+          },
+          "note": "Draft, with Matos Soares 1932. 'Dilatar o coração' is living Portuguese. It does not help 4:2a, where there is no object: dilatáre will have two renderings.",
+          "from": "MS1932"
+        },
+        {
+          "label": "alargastes",
+          "forms": {
+            "dilatasti": "alargastes"
+          },
+          "note": "Plainer, the Latin's 'wide' (latus) audible; 'alargar o coração' is less idiomatic.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v5",
+      "refs": [
+        "118:5"
+      ],
+      "latin": "Útinam dirigántur viæ meæ, * ad custodiéndas justificatiónes tuas!",
+      "kind": "grammar",
+      "why": "The Latin's purpose phrase has no subject (ad custodiéndas: 'toward the keeping of'). In draft 1's 'se dirijam os meus caminhos, para guardar', the stylist heard the ways as the ones who keep.",
+      "options": [
+        {
+          "label": "sejam dirigidos … para que eu guarde",
+          "forms": {
+            "v5": "Oxalá os meus caminhos sejam dirigidos, * para que eu guarde {j_acc}"
+          },
+          "note": "Draft 2, the stylist's line. Names the subject the Latin leaves unsaid and keeps the passive as a passive (dirigántur); grammar and order only (D2). It also brings the second colon within 2 of the Latin.",
+          "from": "stylist"
+        },
+        {
+          "label": "se dirijam … para guardar",
+          "forms": {
+            "v5": "Oxalá se dirijam os meus caminhos, * para guardar {j_acc}"
+          },
+          "note": "Draft 1. Shorter, and as subjectless as the Latin; misheard.",
+          "from": "draft"
+        },
+        {
+          "label": "se dirijam … para que eu guarde",
+          "forms": {
+            "v5": "Oxalá se dirijam os meus caminhos, * para que eu guarde {j_acc}"
+          },
+          "note": "Draft 1's first colon with the stylist's second: mends what was misheard and stays within 1 syllable of the Latin in both cola (the stylist's own first colon is 3 over).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v9a",
+      "refs": [
+        "118:9"
+      ],
+      "latin": "córrigit adolescéntior viam suam",
+      "kind": "order",
+      "why": "The stylist heard draft 1's question as a pile of inversions.",
+      "options": [
+        {
+          "label": "o jovem corrige o seu caminho",
+          "forms": {
+            "v9a": "o jovem corrige o seu caminho"
+          },
+          "note": "Draft 2: subject before verb (D2).",
+          "from": "stylist"
+        },
+        {
+          "label": "corrige o jovem o seu caminho",
+          "forms": {
+            "v9a": "corrige o jovem o seu caminho"
+          },
+          "note": "Draft 1: the Latin's order.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v23",
+      "refs": [
+        "118:23"
+      ],
+      "latin": "Étenim sedérunt príncipes, et advérsum me loquebántur: * servus autem tuus exercebátur in justificatiónibus tuis",
+      "kind": "order",
+      "why": "The stylist failed draft 1 as unsayable: 'porém' between two pauses breaks a colon that is already long.",
+      "options": [
+        {
+          "label": "mas o vosso servo se exercitava",
+          "forms": {
+            "v23": "Pois os príncipes se sentaram e falavam contra mim: * mas o vosso servo {exerc_impf} {j_in}"
+          },
+          "note": "Draft 2, the stylist's line: autem → 'mas' at the head of the colon, and no comma after 'se sentaram'. Same words, same tenses.",
+          "from": "stylist"
+        },
+        {
+          "label": "o vosso servo, porém, exercitava-se",
+          "forms": {
+            "v23": "Pois os príncipes sentaram-se, e falavam contra mim: * o vosso servo, porém, {exerc_impf} {j_in}"
+          },
+          "note": "Draft 1: autem kept after the subject, as in the Latin. (With this option the pronoun stands before the verb after 'porém,' — a small roughness.)",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v24b",
+      "refs": [
+        "118:24"
+      ],
+      "latin": "et consílium meum justificatiónes tuæ",
+      "kind": "grammar",
+      "why": "The Latin has no verb in the second colon and crosses the order of the first (testimónia tua – meditátio mea / consílium meum – justificatiónes tuæ). Heard without a verb, the stylist took it for a list; the ambiguity reader asked whose counsel it is.",
+      "options": [
+        {
+          "label": "e os vossos preceitos são o meu conselho",
+          "forms": {
+            "v24b": "e {j_acc} são o meu conselho"
+          },
+          "note": "Draft 2, the stylist's line: a copula supplied and the natural order (D2). The chiasm is given up; so is the echo of 'preceitos' at the ends of 118:23 and 118:24, which was the Latin's.",
+          "from": "stylist"
+        },
+        {
+          "label": "e o meu conselho, os vossos preceitos",
+          "forms": {
+            "v24b": "e o meu conselho, {j_acc}"
+          },
+          "note": "Draft 1: the Latin's order and its verbless colon.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "118:1": "Beáti → 'Bem-aventurados' (glossary, beátus vir): six syllables for three, so both this colon and 118:2's run long (+5, +2); accepted. ámbulant → 'andam', not 'caminham', which would make an echo with 'caminho' that neither the Latin (via / ámbulant) nor the Greek has. 'os que' resumes the relative after the asterisk. The (Aleph) label is not reproduced.",
+    "118:2": "Two verbs of seeking in one verse, kept apart: scrutántur → 'sondam', exquírunt → 'procuram' (decisions). in toto corde → 'de todo o coração', the Portuguese idiom, set for the six places the phrase has in the psalm. The second colon has no 'qui' in the Latin and none here. The ambiguity reader asked whose 'seus testemunhos' and whom 'o procuram': the Lord of 118:1, as in the Latin (ejus … eum), and that is what was heard.",
+    "118:3": "Non enim qui … ambulavérunt: the negative is moved to the verb, where Portuguese wants it. enim → 'Pois' (as Ps 53:6). operári iniquitátem → 'praticar a iniquidade' (Matos Soares 1932): the phrase is frequent (qui operámini iniquitátem, 6:9 …) and this can serve it; 'obrar' was refused (archaic, and coarse in Brazil). The perfect kept: 'não andaram'. One of the six verses of the psalm with no law-word; it has via instead. 'nos seus caminhos' could be heard of the evildoers' own ways; the Latin's ejus has the same reach back to 118:1, and the reader took it rightly.",
+    "118:4": "mandáta … custodíri: the Latin passive infinitive becomes 'que … se guardem', which keeps 'os vossos mandamentos' right after 'mandastes' as in the Latin; 3 syllables over. An active infinitive ('guardar à risca os vossos mandamentos') would be the right length and lose the adjacency.",
+    "118:5": "Draft 2 takes the stylist's line (decision 'v5'). Útinam → 'Oxalá' (Matos Soares 1932). dirígere returns at 118:128 and 118:133. The colon that holds 'preceitos' runs short wherever the term occurs (justificatiónes 7 syllables, preceitos 3): 118:8, 12, 16, 20, 23; accepted psalm-wide, see words/ps118-terms.md.",
+    "118:6": "perspéxero is a future perfect; the Portuguese future subjunctive ('quando eu fitar') is the natural tense after 'quando'. 'eu' is named because 'fitar' alone is also third person. Draft 2: confúndi → 'ser envergonhado' (decision 'confundi'); 5 syllables over, accepted. 'fitar' was heard as paying close attention, which is perspícere.",
+    "118:7": "Confitébor tibi → 'Eu vos darei graças' (D5, settled; the same wording as the glossary's 117:21). in directióne cordis → 'na retidão do coração'. judícia justítiæ tuæ → 'os juízos da vossa justiça': this phrase returns at 118:106, 160, 164 and must be identical there; 118:62 (judícia justificatiónis tuæ) is a different Latin and must not be.",
+    "118:8": "Object-first in the Latin; natural order here (D2). derelínquere → 'abandonar' (the verb 21:2 will want). usquequáque (ἕως σφόδρα, utterly) → 'de todo'; it returns at 118:43, 51, 107. Matos Soares' 'jamais' is another sense. The ambiguity reader heard 'de todo' first as 'in no way', second as 'completely'; usquequáque bears both (Douay-Rheims 'utterly').",
+    "118:9": "adolescéntior is a comparative standing for the Greek νεώτερος, 'a young man': 'o jovem' (Matos Soares 1932, Douay-Rheims). córrigit is present in the Latin (the Greek has a future): followed. córrigit → 'corrige', the cognate; 'endireita' would be the image. The (Beth) label is not reproduced. Draft 2: subject before verb (decision 'v9a').",
+    "118:10": "exquisívi te → 'vos procurei' (decision 'exquirere'). Draft 2: repéllas → 'afasteis' (decision 'repellas').",
+    "118:11": "peccem tibi, a dative → 'pecar contra vós' (grammar). ut non → 'para não' with the infinitive.",
+    "118:12": "'Bendito sois, Senhor' — bare vocative (glossary). doce me justificatiónes tuas comes again word for word at 118:26 (and 118:64, 68, 124, 135 with the order changed): 'ensinai-me os vossos preceitos' is set as the formula; 'ensinai' is safe under rule 3.",
+    "118:13": "In lábiis meis → 'Com os meus lábios' (the instrument; Douay-Rheims 'With my lips', Matos Soares 'Com os meus lábios'). The Latin's comma before the asterisk is kept. pronuntiáre → 'pronunciar' (again at 118:172); enuntiáre in 118:26 is a different Latin verb for the same Greek one and gets a different word.",
+    "118:14": "delectátus sum → 'me deleitei'. 'como em todas as riquezas' word for word.",
+    "118:15": "First colon 3 over: 'mandamentos' and 'me exercitarei' are both longer than their Latin; accepted (see decisions 'mandata', 'exerceri').",
+    "118:16": "meditári → 'meditar em'. oblivísci → 'esquecer' with a direct object, as the Latin has an accusative. 118:16 and 118:17 end on the same two words in the Latin (sermónes tuos) and so here: the checker's neighbouring-finals flag is the Latin's own echo.",
+    "118:17": "Retríbue → 'Recompensai' (decision 'retribue': 'retribuí' fails rule 3). vivífica me is an imperative in the Latin where the Greek has 'I shall live'; the Latin is followed. The verse ends on a colon in the Latin and here. custódiam → 'guardarei' (glossary). The (Ghimel) label is not reproduced.",
+    "118:18": "mirabília de lege tua → 'as maravilhas da vossa lei': 'da' is both 'of' and 'from', as wide as 'de'. consideráre → 'considerar', as in 118:15.",
+    "118:19": "ego is expressed in the Latin and here ('Eu sou'). 'não escondais' is a subjunctive, no rule-3 risk.",
+    "118:20": "in omni témpore → 'em todo tempo' without the article, which in Brazil is 'at every time'. The Latin has justificatiónes where Rahlfs has κρίματα; the Latin is followed. First colon 6 short: nothing is left out — 'desideráre justificatiónes' alone is 12 syllables. Draft 2: concupívit → 'ansiou por' (decision 'concupivit').",
+    "118:21": "increpáre → 'repreender' (Matos Soares' 'ameaçar' is another verb). declináre a → 'apartar-se de', set for 118:51, 102, 157 and 118:115 (Apartai-vos de mim, malignos); 'desviar' is kept for avértere (glossary; 118:37). 'malditos os que' without a verb, as the Latin.",
+    "118:22": "Aufer → 'Tirai' (safe: past 'tirei'). quia → 'porque'. Draft 2: oppróbrium → 'a afronta' (decision 'opprobrium').",
+    "118:23": "Draft 2 takes the stylist's line (decision 'v23'). Étenim → 'Pois' (καὶ γάρ); 118:24's Nam et is the same Greek and is 'Pois também'. The perfect and the imperfects are kept (se sentaram … falavam … se exercitava). 'príncipes' was heard as royal sons before rulers; príncipes is as wide.",
+    "118:24": "Draft 2 takes the stylist's line in the second colon (decision 'v24b'). consílium → 'conselho'. meditátio mea est comes six more times in the psalm (118:77, 92, 97, 99, 143, 174): '… é / são a minha meditação'.",
+    "118:25": "secúndum verbum tuum → 'segundo a vossa palavra', the Nunc dimittis' wording (ps233), word for word; it returns at 118:65 and 118:107. The (Daleth) label is not reproduced. The ambiguity reader heard 'apegou-se ao chão' as being cast down (first) and as attachment to earthly things (second): both have been read out of adhǽsit paviménto.",
+    "118:26": "enuntiávi → 'expus' (Matos Soares 1932). exaudísti me → 'me escutastes' (D3).",
+    "118:27": "exercébor in mirabílibus tuis → 'me exercitarei nas vossas maravilhas', the same verb as 118:15 and 118:23.",
+    "118:28": "dormitáre → 'dormitar', kept apart from dormíre (120:4 non dormitábit neque dórmiet); Matos Soares' 'adormeceu' merges them. in verbis tuis → 'nas vossas palavras', the Latin's 'in' kept. 'dormitou de tédio' was heard as dozing from boredom before loss of inner vigour: the modern narrowing of tédio, accepted (option 'de abatimento').",
+    "118:29": "amovére → 'afastar' (safe: past 'afastei'). miserére mei → 'tende piedade de mim' (formula). First colon 3 over.",
+    "118:30": "non sum oblítus → 'não esqueci': the phrase closes six more verses of the psalm (118:61, 83, 109, 141, 153, 176) and should be this each time.",
+    "118:31": "See decisions 'adhaesit' and 'confundi' (draft 2: 'não me envergonheis', the direct prohibition the Latinist asked for). Bare vocative 'Senhor'.",
+    "118:32": "Viam … cucúrri, a plain accusative → 'Corri o caminho' (Douay-Rheims 'I have run the way'); Matos Soares' 'pelo caminho' is the option nobody needs. cum + perfect indicative → 'quando'. Second colon 3 over."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm118.txt, 176 prayed verses, each with one '*' and no other mark; this file holds 118:1–118:32 only (stanzas Aleph–Daleth, the portion of Sunday Prime) and later agents append. The Hetzenauer 1914 print read of the Latin was skipped overnight and is owed."
+    },
+    {
+      "step": "word study",
+      "note": "Before any verse: words/ps118-terms.md — the law-vocabulary counted from the Latin (ps118/terms.py → terms.md), the Greek behind each term, Lewis & Short, what Douay-Rheims, Matos Soares 1932 and the Diurnal Monástico did (ps118/renderings.py → renderings.md), and a ruling under the night's delegation: lex → lei, testimónia → testemunhos, mandáta → mandamentos, justificatiónes → preceitos, judícia → juízos, verbum → palavra, sermo → fala, elóquium → dito, via → caminho, sémita → vereda. Each term with a live alternative is one multi-slot glossary decision here. ps118/verbs.py lists the recurring verbs; ps118/concordances.sh regenerates the words/ concordances; ps118/cnbb_tally.py is diction evidence only."
+    },
+    {
+      "step": "draft",
+      "note": "Stanza-level draft from consult/parallels/ps118.md. DO's Portuguese was not used as evidence (D12). Latin against the Greek, Latin followed: 118:9 córrigit present (Greek future); 118:17 vivífica me imperative (Greek 'I shall live'); 118:20 justificatiónes (Greek κρίματα); 118:28 dormitávit (Rahlfs ἔσταξεν). Rule 3 checked at every imperative: ensinai, dai, vivificai, desvendai, tirai, fazei, confirmai, afastai, tende are safe; 'retribuí' (118:17) and 'instruí' (118:27) fail and were recast. Register held plain on purpose: no variation added to the Latin's own."
+    },
+    {
+      "step": "checks",
+      "note": "PARTIAL hard check. checks.py cannot run on a partial psalm (it stops at the first untranslated verse), so ps118/partial.py runs checks.py's own code, unchanged, with the Latin restricted to the verses translated, after confirming that the 32 ids are an unbroken run of DO's ids from 118:1 in DO's order; 118:33–118:176 are missing, as expected. For the 32 verses: ids and marks match (one '*' each, nothing else). Soft flags, all accepted: six cola run 3–6 short and every one of them holds 'preceitos' (3 syllables for the 7 of justificatiónes: 118:5, 8, 16, 20, 23, 24) — the price of the term, psalm-wide; six run 3–5 long: 118:1 (Bem-aventurados, glossary), 118:4 (mandamentos + the passive clause), 118:6 (não serei confundido), 118:15 (mandamentos + me exercitarei), 118:29, 118:32 (quando dilatastes o meu coração) — nothing is added in any of them. Neighbouring finals: 118:16/17 (falas / falas) and 118:23/24 (preceitos / preceitos) are the Latin's own repetitions (sermónes tuos twice; justificatiónibus tuis / justificatiónes tuæ). No rhyme inside a verse, no cadence flag. A first run showed a doubled 'aos aos' in 118:31 from two overlapping slots, and 118:17 at +4 with 'Dai retribuição ao'; both mended before any reader saw the text."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1 (prayed.v1.vos.json; latin.json trimmed to the 32 verses by ps118/partial.py). Two minor remarks, nothing major; marks confirmed in all 32 verses.",
+      "outcomes": [
+        {
+          "verse": "118:27",
+          "remark": "ínstrue me asks for instruction; 'Fazei-me entender' shifts to the result → 'Instruí-me no caminho'",
+          "outcome": "option",
+          "decision": "instrue",
+          "reason": "Rule 3: under vós 'instruí' is also 'I instructed'. 'Fazei-me entender' is the Greek verb exactly (συνετίζω) and Douay-Rheims' rendering."
+        },
+        {
+          "verse": "118:31",
+          "remark": "noli me confúndere is a direct prohibition; 'não me deixeis confundido' lets in 'allow / leave' → 'não me confundais'",
+          "outcome": "taken",
+          "decision": "confundi",
+          "reason": "Taken as to the construction — draft 2 has the direct 'não me envergonheis'; the verb itself changed because of the ambiguity reader."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Nine verses remarked; best line 118:19, worst 118:20. Six taken (grammar, order, or a plainer faithful word); 'falas' refused three times and kept as the text, with 'palavras' as the option.",
+      "outcomes": [
+        {
+          "verse": "118:5",
+          "remark": "the ways are heard as the subject of 'guardar' → 'sejam dirigidos, para que eu guarde'",
+          "outcome": "taken",
+          "decision": "v5"
+        },
+        {
+          "verse": "118:9",
+          "remark": "piled inversions; 'falas' sounds like dialogue or a play → 'Como o jovem corrige … as vossas palavras'",
+          "outcome": "taken",
+          "decision": "v9a",
+          "reason": "The order is taken. 'Como' is refused (in quo is 'by what'; option in 'in_quo'). 'palavras' is refused: see 118:16."
+        },
+        {
+          "verse": "118:10",
+          "remark": "'rejeitar dos' has no natural regency → 'não me afasteis dos'",
+          "outcome": "taken",
+          "decision": "repellas"
+        },
+        {
+          "verse": "118:16",
+          "remark": "'falas' jars in prayer → 'palavras'",
+          "outcome": "taken",
+          "decision": "sermones",
+          "reason": "taken in draft 3 by the main session (D15)"
+        },
+        {
+          "verse": "118:17",
+          "remark": "'guardar as vossas falas' sounds made up → 'palavras'",
+          "outcome": "taken",
+          "decision": "sermones",
+          "reason": "taken in draft 3 by the main session (D15)"
+        },
+        {
+          "verse": "118:20",
+          "remark": "'cobiçou desejar' is not Portuguese and suggests possession → 'ansiou por desejar'",
+          "outcome": "taken",
+          "decision": "concupivit"
+        },
+        {
+          "verse": "118:22",
+          "remark": "'opróbrio' is solemn without being understood → 'a desonra'",
+          "outcome": "taken",
+          "decision": "opprobrium",
+          "reason": "Taken as to the fault; the word chosen is 'afronta' (it gives exprobráre its verb), 'desonra' is an option."
+        },
+        {
+          "verse": "118:23",
+          "remark": "'porém' between pauses breaks a long colon → 'mas o vosso servo se exercitava'",
+          "outcome": "taken",
+          "decision": "v23"
+        },
+        {
+          "verse": "118:24",
+          "remark": "verbless inverted colon is heard as a list → 'e os vossos preceitos são o meu conselho'",
+          "outcome": "taken",
+          "decision": "v24b"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. 45 items and 18 'unknown words' (8 distinct: sondam, iniquidade, preceitos, fitar, deleitei, vivificai-me, opróbrio, dormitou — a severe list). One real fault: 'confundido' heard as 'confused' in both its verses → the verb changed. Two that confirmed the stylist (118:10, 118:22). The rest are the Latin's own openness or were heard rightly first.",
+      "outcomes": [
+        {
+          "verse": "118:6",
+          "remark": "'não serei confundido' heard first as 'I shall not be confused'",
+          "outcome": "taken",
+          "decision": "confundi"
+        },
+        {
+          "verse": "118:31",
+          "remark": "'não me deixeis confundido' heard first as 'do not let me be confused'",
+          "outcome": "taken",
+          "decision": "confundi"
+        },
+        {
+          "verse": "118:10",
+          "remark": "the function of 'dos vossos mandamentos' after 'rejeiteis' is unclear",
+          "outcome": "taken",
+          "decision": "repellas"
+        },
+        {
+          "verse": "118:22",
+          "remark": "'opróbrio' unknown; the line half-heard as 'take my contempt for others out of me'",
+          "outcome": "taken",
+          "decision": "opprobrium"
+        },
+        {
+          "verse": "118:24",
+          "remark": "'o meu conselho': the counsel I follow, or the counsel I give",
+          "outcome": "taken",
+          "decision": "v24b",
+          "reason": "Mended in passing by the copula and order of draft 2; consílium meum is open in the same way."
+        },
+        {
+          "verse": "118:2",
+          "remark": "'testemunhos' heard first as accounts of religious experience (118:2), later as declarations by God (118:14, 22, 24, 31)",
+          "outcome": "option",
+          "decision": "testimonia",
+          "reason": "The price of the cognate; with 'vossos' it was heard rightly."
+        },
+        {
+          "verse": "118:5",
+          "remark": "'preceitos' listed as an unknown word at each of its ten places",
+          "outcome": "option",
+          "decision": "justificationes",
+          "reason": "Not archaic; the word of Brazilian church speech and of this psalm in the psalters Brazilians already pray. 'decretos' is one click away."
+        },
+        {
+          "verse": "118:15",
+          "remark": "'me exercitarei' / 'exercitava-se' / 'me exercitarei nas maravilhas' (118:15, 23, 27): practising, or studying",
+          "outcome": "option",
+          "decision": "exerceri",
+          "reason": "exercéri in is open in the same way."
+        },
+        {
+          "verse": "118:20",
+          "remark": "'cobiçou desejar': desired to desire, or desired intensely",
+          "outcome": "taken",
+          "decision": "concupivit",
+          "reason": "The construction changed for the stylist's reason; the doubling stays and may still be heard as intensity."
+        },
+        {
+          "verse": "118:28",
+          "remark": "'dormitou de tédio': dozed from boredom, or lost inner vigour; 'dormitou' unknown",
+          "outcome": "option",
+          "decision": "taedio",
+          "reason": "tǽdium is the same word; dormitáre must stay apart from dormíre."
+        },
+        {
+          "verse": "118:28",
+          "remark": "'confirmai-me': make me firm, or give me confirmation",
+          "outcome": "option",
+          "decision": "confirma",
+          "reason": "The right sense was heard first."
+        },
+        {
+          "verse": "118:17",
+          "remark": "'Recompensai': a reward for something done, or a benefit",
+          "outcome": "option",
+          "decision": "retribue",
+          "reason": "retribúere is to requite; the first hearing is the Latin."
+        },
+        {
+          "verse": "118:29",
+          "remark": "'pela vossa lei': by means of, or for the sake of",
+          "outcome": "option",
+          "decision": "de_lege",
+          "reason": "Exactly the openness of 'de lege tua' that the rendering was chosen to keep."
+        },
+        {
+          "verse": "118:32",
+          "remark": "'dilatastes o meu coração': physically, or the capacity to love",
+          "outcome": "option",
+          "decision": "dilatasti",
+          "reason": "The figurative sense was heard first."
+        },
+        {
+          "verse": "118:25",
+          "remark": "'apegou-se ao chão': cast down, or attached to earthly things",
+          "outcome": "refused",
+          "reason": "Both are old readings of adhǽsit paviménto; the image is kept as it is."
+        },
+        {
+          "verse": "118:1",
+          "remark": "'Bem-aventurados' happy / blessed; 'imaculados no caminho' sinless people, relation to 'no caminho' unclear",
+          "outcome": "refused",
+          "reason": "beáti and immaculáti in via are as they are; 'os sem mancha' is an option in 'immaculati'."
+        },
+        {
+          "verse": "118:2",
+          "remark": "'seus', 'o procuram' (118:2), 'nos seus caminhos' (118:3): whose",
+          "outcome": "refused",
+          "reason": "ejus / eum reach back to Dómini in 118:1 in the Latin too, and that is what was heard."
+        },
+        {
+          "verse": "118:7",
+          "remark": "'juízos' (118:7, 13, 30): God's sentences, or his criteria of what is just; 'guardar' (118:8, 9, 17): obey, or keep in memory; 'de todo' (118:8); 'escondi' (118:11); 'riquezas' (118:14); 'vossos caminhos' (118:15); 'Desvendai' (118:18); 'forasteiro na terra' (118:19); 'malditos' statement or curse (118:21); 'príncipes' (118:23); 'segundo a vossa palavra' promise or command (118:25); 'Expus os meus caminhos', 'me escutastes' (118:26); 'caminho da verdade' (118:30); 'se dirijam' (118:5); 'fitar' (118:6)",
+          "outcome": "refused",
+          "reason": "The Latin is open in the same way, or the right sense was the one heard first; nothing changed."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2 (script: ps118/revise_v2.py; draft 1 is prayed.v1.json, flat text prayed.v1.vos.json). Wording changed in 118:5 (sejam dirigidos … para que eu guarde), 118:6 and 118:31 (envergonhado / não me envergonheis), 118:9 (o jovem corrige), 118:10 (afasteis), 118:20 (ansiou por desejar), 118:22 (a afronta), 118:23 (se sentaram e falavam … mas o vosso servo se exercitava), 118:24 (e os vossos preceitos são o meu conselho). The term set is unchanged; 'falas' stands against the stylist and is flagged in its decision and in words/ps118-terms.md."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2, PARTIAL hard check by ps118/partial.py as before: the 32 ids are DO's, in DO's order, no gaps (118:33–118:176 missing, as expected); ids and marks match. Soft, all accepted: short cola are still the ones that hold 'preceitos' (118:8 −3, 118:16 −5, 118:20 −5, 118:23 −4, 118:24 −3); long: 118:1 +5, 118:4 +4, 118:5 +3 (new: the stylist's passive 'sejam dirigidos'; a shorter mix is the third option of 'v5'), 118:6 +5 (new: 'envergonhado' is one syllable more than 'confundido'), 118:15 +3, 118:29 +3, 118:32 +4. The 118:23/24 neighbouring-finals flag is gone with the new order of 118:24; 118:16/17 (falas / falas) remains and is the Latin's own sermónes tuos twice. No rhyme inside a verse, no cadence flag."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 (prayed.vos.json), run because nine verses changed. Clean: no verse remarked, marks confirmed in all 32. The gate is clean for 118:1–32.",
+      "outcomes": []
+    },
+    {
+      "step": "handoff",
+      "note": "For whoever translates 118:33 onward: append verses to literal.json and prayed.json (update \"range\"), add your verses' slots to the existing term decisions (justificationes, testimonia, mandata, judicia, sermones, eloquia, exquirere, exerceri, vivifica, confundi, adhaesit …) rather than making new ones, so that one click still switches a term through the whole psalm; run ps118/partial.py after render.py (it trims latin.json for the Latinist and runs checks.py's code on the translated run). Formulas already set: secúndum verbum tuum → segundo a vossa palavra; doce me justificatiónes tuas → ensinai-me os vossos preceitos; judícia justítiæ tuæ → os juízos da vossa justiça (NOT 118:62, which is justificatiónis, singular, = δικαιοσύνη); non sum oblítus → não esqueci; in toto corde (meo) → de todo o (meu) coração; vivífica me → vivificai-me; meditátio mea est → é / são a minha meditação; declináre a → apartar-se de; concupíscere → ansiar por; oppróbrium → afronta (exprobráre → afrontar, 118:42); confúndi → ser envergonhado / envergonhar. Rule-3 traps met so far: retribuí, instruí. Not yet met and only proposed in the glossary: sémita → vereda, ǽquitas → equidade, elóquium in the singular formula (segundo o vosso dito)."
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3, by the main session under Gustavo’s delegation (DECISIONS.md D15): sermónes tuos “as vossas falas” → “as vossas palavras” in 118:9, 16, 17 — the stylist’s own proposal from critic/v1, so no critic was re-run. The rest of the agent’s term set is confirmed in D15. Later portions of the psalm: sermo → palavra(s); add the slots to this same decision."
+    }
+  ]
+}

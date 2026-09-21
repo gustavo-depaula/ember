@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1060" role="img" aria-labelledby="method-title method-desc">
+  <title id="method-title">How a psalm is made</title>
+  <desc id="method-desc">From the Latin and a literal version to a first draft; three blind readers — the Latinist, the stylist and the ambiguity reader — read it; the agent takes, keeps as an option, or refuses each remark, and makes draft 2; the Latinist reads again as the gate, and a major is either fixed in a new draft or held on purpose with its reason; the main session rules on what is left open; the site shows the draft, the stylist's wordings and every layer.</desc>
+  <!-- Colours are the site's own variables (assets/site.css), so the drawing follows its light and dark themes when
+       inlined by site.py; the fallbacks are the light theme, for wherever the file is shown as an image. -->
+  <style>
+    text { font-family: var(--serif, 'EB Garamond', Garamond, Georgia, serif); text-anchor: middle; fill: var(--ink, #2C2418); }
+    .stage { font-size: 20px; font-weight: 600; }
+    .reader { font-size: 18px; font-weight: 600; }
+    .note { font-size: 14.5px; fill: var(--ink-2, #6B5D4F); }
+    .ask { font-size: 16px; font-style: italic; }
+    .way { font-size: 17px; font-style: italic; fill: var(--gold, #A8872E); }
+    .gate { fill: var(--rubric, #6B1D2A); }
+    .file { font-size: 13px; fill: var(--gold, #A8872E); }
+    .thread { stroke: var(--gold-soft, #D4C088); stroke-width: 1.3; fill: none; }
+    .thread.red { stroke: var(--rubric, #6B1D2A); }
+    .head { fill: var(--gold-soft, #D4C088); }
+    .head.red { fill: var(--rubric, #6B1D2A); }
+  </style>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="head" d="M0,1 L10,5 L0,9 z"/></marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="head red" d="M0,1 L10,5 L0,9 z"/></marker>
+  </defs>
+
+  <!-- the sources -->
+  <text class="stage" x="380" y="32">The Latin of the Breviary</text>
+  <text class="note" x="380" y="54">beside it, the dossier: Douay-Rheims, Matos Soares 1932, the Diurnal, the Greek, the Hebrew</text>
+  <path class="thread" d="M380,66 V94" marker-end="url(#arrow)"/>
+
+  <text class="stage" x="380" y="120">A literal version</text>
+  <text class="note" x="380" y="141">word for word, to understand the Latin — not to pray</text>
+  <text class="file" x="380" y="159">literal.json</text>
+  <path class="thread" d="M380,170 V198" marker-end="url(#arrow)"/>
+
+  <!-- draft 1 -->
+  <text class="stage" x="380" y="224">Draft 1</text>
+  <text class="note" x="380" y="245">every open wording is a decision: option 0 is the agent’s ruling,</text>
+  <text class="note" x="380" y="263">the other options are what it weighed and set aside</text>
+  <text class="file" x="380" y="281">prayed.json · checks.py: verse ids and pointing marks must match the Latin</text>
+
+  <!-- the three blind readers -->
+  <path class="thread" d="M380,292 L140,330" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,292 V330" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,292 L620,330" marker-end="url(#arrow)"/>
+
+  <text class="reader" x="140" y="356">The Latinist</text>
+  <text class="note" x="140" y="377">reads the Latin and the Portuguese</text>
+  <text class="ask" x="140" y="399">“Is it faithful?”</text>
+  <text class="note" x="140" y="420">minor, major or critical,</text>
+  <text class="note" x="140" y="438">each with a proposed fix</text>
+
+  <text class="reader" x="380" y="356">The stylist</text>
+  <text class="note" x="380" y="377">reads the Portuguese alone</text>
+  <text class="ask" x="380" y="399">“Does it pray aloud?”</text>
+  <text class="note" x="380" y="420">the worst line, the best line,</text>
+  <text class="note" x="380" y="438">his own rewrite of a verse</text>
+
+  <text class="reader" x="620" y="356">The ambiguity reader</text>
+  <text class="note" x="620" y="377">reads the Portuguese alone</text>
+  <text class="ask" x="620" y="399">“What did you understand?”</text>
+  <text class="note" x="620" y="420">the first hearing and the others,</text>
+  <text class="note" x="620" y="438">the words it did not know</text>
+
+  <path class="thread" d="M140,452 L380,488" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,452 V488" marker-end="url(#arrow)"/>
+  <path class="thread" d="M620,452 L380,488" marker-end="url(#arrow)"/>
+
+  <!-- the agent weighs every remark -->
+  <text class="stage" x="380" y="514">The agent weighs every remark</text>
+  <text class="note" x="380" y="535">and writes down what became of each, and why</text>
+  <path class="thread" d="M380,546 L160,574" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,546 V574" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,546 L600,574" marker-end="url(#arrow)"/>
+
+  <text class="way" x="160" y="596">taken</text>
+  <text class="note" x="160" y="616">into the text, as option 0;</text>
+  <text class="note" x="160" y="634">the old wording becomes an option</text>
+  <text class="way" x="380" y="596">kept as an option</text>
+  <text class="note" x="380" y="616">the text stands;</text>
+  <text class="note" x="380" y="634">the reader’s wording stays selectable</text>
+  <text class="way" x="600" y="596">refused</text>
+  <text class="note" x="600" y="616">the text stands,</text>
+  <text class="note" x="600" y="634">with the reason written down</text>
+
+  <path class="thread" d="M160,646 L380,676" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,646 V676" marker-end="url(#arrow)"/>
+  <path class="thread" d="M600,646 L380,676" marker-end="url(#arrow)"/>
+
+  <!-- draft 2 and the gate -->
+  <text class="stage" x="380" y="702">Draft 2</text>
+  <text class="note" x="380" y="723">draft 1 is kept on disk, and so is every draft after it</text>
+  <path class="thread red" d="M380,734 V760" marker-end="url(#arrow-red)"/>
+
+  <text class="stage gate" x="380" y="786">The gate: the Latinist reads again</text>
+  <text class="note" x="380" y="807">the stylist and the ambiguity reader are not asked twice</text>
+  <path class="thread red" d="M380,818 L160,846" marker-end="url(#arrow-red)"/>
+  <path class="thread red" d="M380,818 V846" marker-end="url(#arrow-red)"/>
+  <path class="thread red" d="M380,818 L600,846" marker-end="url(#arrow-red)"/>
+
+  <text class="way" x="160" y="868">clean</text>
+  <text class="note" x="160" y="888">no major left</text>
+  <text class="way" x="380" y="868">fixed ↻</text>
+  <text class="note" x="380" y="888">a new draft, and the gate again</text>
+  <text class="way" x="600" y="868">held</text>
+  <text class="note" x="600" y="888">a major kept on purpose,</text>
+  <text class="note" x="600" y="906">its reason in the decision</text>
+
+  <!-- after the psalm's own agent -->
+  <path class="thread" d="M160,900 C160,930 300,930 372,944" marker-end="url(#arrow)"/>
+  <path class="thread" d="M600,918 C600,934 460,934 388,944" marker-end="url(#arrow)"/>
+  <text class="stage" x="380" y="970">The main session rules</text>
+  <text class="note" x="380" y="991">on what the agent left open, in DECISIONS.md; it may make a new draft,</text>
+  <text class="note" x="380" y="1009">or ask one reader again before ruling</text>
+  <text class="file" x="380" y="1032">the site then shows: draft N · the stylist’s wordings · every layer, draft to draft</text>
+</svg>

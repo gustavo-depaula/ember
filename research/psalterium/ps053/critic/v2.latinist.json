@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "edc7c3a2061397d7e411f41f2e48d57d83cf92a00517f514e22aa8c6a79a5db8",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:20:25+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução conserva adequadamente o sentido, as pessoas, os tempos e os modos verbais do latim, sem acréscimos ou omissões que exijam correção. Todos os versículos mantêm as mesmas marcas de divisão, na mesma ordem do original.\"}"
+}

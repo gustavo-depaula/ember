@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "c1a9e24f007f7ed544c0d63c3a28038678fd4a2f072383269396acff2bd36f93",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T11:56:07+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"11:3\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"com lábios enganadores, com coração e coração falaram\",\n          \"problem\": \"Os dois segmentos com «com» retardam o verbo e tornam a chegada de «falaram» artificial. A repetição «coração e coração» pode permanecer sem essa inversão.\",\n          \"alternative\": \"com lábios enganadores, falaram com coração e coração.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"11:7\",\n      \"fails\": [\"plain\", \"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"Os ditos do Senhor são ditos castos\",\n          \"problem\": \"«Ditos castos» soa como uma classificação de máximas moralmente recatadas. A combinação chama atenção para o vocabulário e custa a soar como oração.\",\n          \"alternative\": \"As palavras do Senhor são palavras puras\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo tem sobriedade, cabe bem na recitação e apresenta terminações adequadas ao canto. As principais asperezas estão numa inversão que retarda o verbo e na expressão «ditos castos»; as imagens incomuns e as repetições vindas do latim não precisam ser alisadas.\",\n  \"worstLine\": \"11:7\",\n  \"bestLine\": \"11:6a\"\n}"
+}

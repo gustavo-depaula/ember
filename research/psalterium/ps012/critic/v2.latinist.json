@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "2fa8614c0611e39cd01651144e39e6eb8c4b2aaa967a59944a5bd478b2ceaca6",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T12:09:59+00:00",
+  "reply": "{\"verses\":[{\"id\":\"12:1\",\"severity\":\"major\",\"issues\":[{\"latin\":\"obliviscéris me\",\"portuguese\":\"me esquecereis\",\"problem\":\"O verbo latino está no presente do indicativo; a tradução o passa para o futuro.\",\"fix\":\"me esqueceis\"}]}],\"overall\":\"Há uma alteração de tempo verbal em 12:1; os demais versículos não apresentam falhas de adequação. As marcas de divisão são as mesmas e aparecem na mesma ordem que no latim em todos os versículos.\"}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "33860bcfb4a9b86a1a9dcc7d65d48fa69054ef52b0806db7bcde0d6c212e2674",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:04:47+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"2:32\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"Luz para revelação das nações\",\n          \"problem\": \"Sem o artigo, «para revelação» soa como uma fórmula abreviada, pouco espontânea na oração em português.\",\n          \"alternative\": \"Luz para a revelação das nações, * e glória do vosso povo Israel.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O cântico soa sóbrio, reverente e recitável, com os cólons cabendo numa respiração tranquila. As terminações têm acentuação adequada ao canto, sem rimas que distraiam; «diante da face» conserva a imagem latina sem impedir a compreensão.\",\n  \"worstLine\": \"2:32\",\n  \"bestLine\": \"2:30\"\n}"
+}

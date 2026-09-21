@@ -1,0 +1,29 @@
+{
+  "note": "Hand-made for Ps 4. The Vulgate's verse division is not the Hebrew/LXX one (Vg 4:6 takes 'Multi dicunt' from Heb/LXX v7; Vg 4:9-10 = Heb/LXX v9), so each prayed verse lists the source verses it overlaps.",
+  "sourceVerses": {
+    "4:2a": [2],
+    "4:2b": [2],
+    "4:3": [3],
+    "4:4": [4],
+    "4:5": [5],
+    "4:6": [6, 7],
+    "4:7": [7, 8],
+    "4:8": [8],
+    "4:9": [9],
+    "4:10": [9]
+  },
+  "iuxtaHebraeos": {
+    "source": "P. de Lagarde, Psalterium iuxta Hebraeos Hieronymi (1874), public domain; archive.org/details/psalteriumiuxta00lagagoog. Transcribed from the archive.org OCR, not yet read against the page image. OCR fixes made: 'Invocantemexaudi' → 'Invocantem exaudi', 'sempeb' → 'semper', 'quiB' → 'quis', 'simui' → 'simul', 'secnrum' → 'securum'; verse numbers restored from Lagarde's superscripts.",
+    "verses": {
+      "1": "Victori in psalmis, canticum David.",
+      "2": "Invocantem exaudi me, deus iustitiae meae: in tribulatione dilatasti mihi. miserere mei et exaudi orationem meam.",
+      "3": "filii viri, usque quo? incliti mei, ignominiose diligitis vanitatem, quaerentes mendacium. semper.",
+      "4": "et cognoscite quoniam mirabilem reddidit dominus sanctum suum: dominus exaudiet, cum clamavero ad eum.",
+      "5": "irascimini, et nolite peccare: loquimini in cordibus vestris super cubilia vestra, et tacete. semper.",
+      "6": "sacrificate sacrificium iustitiae, et fidite in domino.",
+      "7": "multi dicunt \"quis ostendit nobis bonum?\". leva super nos lucem vultus tui, domine.",
+      "8": "dedisti laetitiam in corde meo: in tempore frumentum et vinum eorum multiplicata sunt.",
+      "9": "in pace simul requiescam et dormiam, quia tu, domine, specialiter securum habitare fecisti me."
+    }
+  }
+}

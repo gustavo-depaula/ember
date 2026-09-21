@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "1a80b9d228cab05fdb3d6054db3bd21a9fd841c9bf273edf6fe559a40405da64",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T05:37:07+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"6:7\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"Cansei-me no meu gemido\",\n          \"problem\": \"A ligação de «cansei-me» com «no meu gemido» soa traduzida: a preposição deixa a frase pouco natural na boca.\",\n          \"alternative\": \"Cansei-me de gemer, † lavarei todas as noites o meu leito: * com as minhas lágrimas regarei a minha cama.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"6:11\",\n      \"fails\": [\"plain\", \"native\", \"sayable\"],\n      \"remarks\": [\n        {\n          \"words\": \"Corem, e sejam grandemente perturbados todos os meus inimigos\",\n          \"problem\": \"A vírgula interrompe a coordenação; «sejam grandemente perturbados» pesa na recitação, e o sujeito tardio obriga a sustentar uma construção pouco espontânea.\",\n          \"alternative\": \"Que todos os meus inimigos corem e fiquem muito perturbados: * que se voltem e corem muito depressa.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo tem sobriedade e soa, em geral, como oração em português; as repetições sustentam bem a súplica. As cadências respeitam o critério pedido, sem rimas que chamem a atenção, e os principais tropeços estão na construção inicial de 6:7 e no peso sintático de 6:11.\",\n  \"worstLine\": \"6:11\",\n  \"bestLine\": \"6:4\"\n}"
+}

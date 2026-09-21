@@ -1,0 +1,160 @@
+{
+  "psalm": 12,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "12:1": "{uq1a}, Senhor, me esquecereis {infinem}? * {uq1b} {avertis}?",
+    "12:2": "{quamdiu} {consilia}, * dor no meu coração {perdiem}?",
+    "12:3": "{uq3} o meu inimigo {exaltabitur} sobre mim? * {respice}, e escutai-me, Senhor, meu Deus.",
+    "12:4b": "Iluminai os meus olhos, para que eu nunca {obdormiam} na morte: * para que não diga o meu inimigo: Prevaleci contra ele.",
+    "12:5b": "Os que me atribulam exultarão, {motus}: * mas eu esperei na vossa misericórdia.",
+    "12:6b": "O meu coração exultará na vossa salvação: † cantarei ao Senhor, {tribuit}: * {psallam}."
+  },
+  "decisions": [
+    {
+      "id": "usquequo",
+      "refs": ["12:1", "12:2", "12:3"],
+      "latin": "Úsquequo … Úsquequo … Quámdiu … Úsquequo",
+      "kind": "glossary",
+      "why": "The psalm opens with four questions of ‘how long’: úsquequo three times (ἕως πότε) and once quámdiu (ἕως τίνος). Glossary: úsquequo → até quando (working; Ps 4:3, 6:4). The Latin varies the third; the Greek varies it too, but the two Greek phrases mean the same (‘until when / until what time’), so by D15’s test the variation is an elegance and Portuguese may say ‘até quando’ four times. quámdiu has two other places, both ‘as long as I live’ (103:33 quámdiu sum, 145:2a quámdiu fúero), which are another use and will be ‘enquanto’. Douay-Rheims ‘How long’ ×4; Matos Soares 1932 ‘Até quando’ ×4.",
+      "options": [
+        {"label": "Até quando ×4", "forms": {"uq1a": "Até quando", "uq1b": "Até quando", "quamdiu": "Até quando", "uq3": "Até quando"}, "note": "Ruling: the glossary’s phrase four times, the anaphora of the lament heard as one cry (Douay-Rheims, Matos Soares 1932).", "from": "glossary"},
+        {"label": "Até quando ×3, Por quanto tempo", "forms": {"uq1a": "Até quando", "uq1b": "Até quando", "quamdiu": "Por quanto tempo", "uq3": "Até quando"}, "note": "The Latin’s variation kept at 12:2. Two syllables longer, and it breaks the run.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "infinem",
+      "refs": ["12:1"],
+      "latin": "obliviscéris me in finem",
+      "kind": "glossary",
+      "why": "in finem (εἰς τέλος): ‘to the end, utterly, for ever’; 19 verses (grep), several in the same frame (78:5 Úsquequo, Dómine, irascéris in finem; 88:47 Úsquequo, Dómine, avértis in finem; 73:19 ne obliviscáris in finem). The Ps 9 agent, working at the same time, rules in finem → ‘para sempre’ (one with in ætérnum and in sǽculum, D23, as Matos Soares 1932 has it in Ps 9), because ‘até o fim’ changes the sense where it is negated, and cites this verse. Douay-Rheims ‘unto the end’; Matos Soares 1932 here ‘incessantemente’. oblivísci → esquecer, direct object (glossary).",
+      "options": [
+        {"label": "para sempre", "forms": {"infinem": "para sempre"}, "note": "Ruling: the wording the Ps 9 agent proposes for the whole psalter, followed so that the two psalms, done side by side, do not diverge. ‘Até quando … para sempre?’ keeps the Latin’s own paradox (how long … to the end?). Cost: εἰς τέλος and εἰς τὸν αἰῶνα become one phrase (D15’s test would keep them apart).", "from": "glossary"},
+        {"label": "até o fim", "forms": {"infinem": "até o fim"}, "note": "Douay-Rheims: the other Greek phrase kept apart. ‘Até quando … até o fim?’ doubles ‘até’, which the Latin does not.", "from": "DRB"},
+        {"label": "sem fim", "forms": {"infinem": "sem fim"}, "note": "Keeps the Latin’s noun (finis), apart from ‘para sempre’, with no doubled ‘até’.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "avertis",
+      "refs": ["12:1"],
+      "latin": "avértis fáciem tuam a me",
+      "kind": "glossary",
+      "why": "avértere → desviar (glossary, open: ‘can serve avérte fáciem tuam’; 53:7, 118:37). A present in the Latin (the Greek has a future): ‘how long do you turn your face away from me?’. fácies → face (glossary). The same phrase in 29:8, 43:24, 50:11, 87:15; Ps 9:32 (the other agent) has ‘desviou a sua face’. Douay-Rheims ‘how long dost thou turn away thy face from me?’; Matos Soares 1932 ‘apartarás’.",
+      "options": [
+        {"label": "desviais de mim a vossa face", "forms": {"avertis": "desviais de mim a vossa face"}, "note": "Ruling: the glossary verb, the Latin’s present, and ‘de mim’ moved before the object so that the verse ends on the paroxytone ‘face’.", "from": "glossary"},
+        {"label": "desviais a vossa face de mim", "forms": {"avertis": "desviais a vossa face de mim"}, "note": "The Latin’s order; ends on the oxytone ‘mim’, as the first colon does (‘sobre mim’ ends 12:3).", "from": "draft"},
+        {"label": "afastais de mim a vossa face", "forms": {"avertis": "afastais de mim a vossa face"}, "note": "‘Afastar’ is amovére / repéllere’s (glossary).", "from": "draft"},
+        {"label": "escondeis de mim a vossa face", "forms": {"avertis": "escondeis de mim a vossa face"}, "note": "The Diurnal’s ‘esconderás’, from the Hebrew. Refused: abscóndere is another verb (rule 1).", "from": "DM1962"}
+      ]
+    },
+    {
+      "id": "consilia",
+      "refs": ["12:2"],
+      "latin": "ponam consília in ánima mea, * dolórem in corde meo",
+      "kind": "word",
+      "why": "One verb governs both cola: ‘shall I set counsels in my soul, sorrow in my heart’ (θήσομαι βουλάς … ὀδύνας). consílium → conselho (glossary, working; open between advice and deliberation — here the soul’s own deliberations, turned over without end). ponere → pôr (Ps 11:6b ‘Porei’). Douay-Rheims ‘take counsels in my soul’; Matos Soares 1932 ‘andarei a formar projectos em minha alma’.",
+      "options": [
+        {"label": "porei conselhos na minha alma", "forms": {"consilia": "porei conselhos na minha alma"}, "note": "Ruling: the Latin’s verb, so that it can govern ‘dor no meu coração’ too, as the Latin’s does; the glossary noun.", "from": "draft"},
+        {"label": "revolverei conselhos na minha alma", "forms": {"consilia": "revolverei conselhos na minha alma"}, "note": "Says the turning-over the context implies; another verb, and it cannot govern ‘dor’.", "from": "draft"},
+        {"label": "porei planos na minha alma", "forms": {"consilia": "porei planos na minha alma"}, "note": "Matos Soares 1932’s sense (‘projectos’); leaves the glossary’s ‘conselho’.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "perdiem",
+      "refs": ["12:2"],
+      "latin": "per diem",
+      "kind": "word",
+      "why": "‘by day, through the day’ (the Greek ἡμέρας, genitive of time). Not tota die (glossary: ‘o dia todo’, 26 verses) nor per síngulos dies (‘todos os dias’). Douay-Rheims ‘all the day’; Matos Soares 1932 ‘cada dia’.",
+      "options": [
+        {"label": "durante o dia", "forms": {"perdiem": "durante o dia"}, "note": "Ruling: per diem said as Portuguese says ‘through the day’; kept apart from tota die and per síngulos dies. Ends on a paroxytone.", "from": "draft"},
+        {"label": "cada dia", "forms": {"perdiem": "cada dia"}, "note": "Matos Soares 1932: day after day. Near per síngulos dies (‘todos os dias’).", "from": "MS1932"},
+        {"label": "o dia todo", "forms": {"perdiem": "o dia todo"}, "note": "Douay-Rheims’ ‘all the day’; it is tota die’s wording (glossary, settled D24).", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "exaltabitur",
+      "refs": ["12:3"],
+      "latin": "exaltábitur inimícus meus super me",
+      "kind": "grammar",
+      "why": "A future passive (ὑψωθήσεται) with middle sense: the enemy lifting himself above the speaker. exaltáre → exaltar (glossary); the medio-passive said with ‘se’ as Ps 7:7a exaltáre → ‘exaltai-vos’ and 8:2b ‘se elevou’. Douay-Rheims ‘be exalted over me’; Matos Soares 1932 ‘prevalecerá sobre mim’ (another verb).",
+      "options": [
+        {"label": "se exaltará", "forms": {"exaltabitur": "se exaltará"}, "note": "Ruling: the pronominal form, as the glossary treats this passive elsewhere; the enemy is the one who rises.", "from": "glossary"},
+        {"label": "será exaltado", "forms": {"exaltabitur": "será exaltado"}, "note": "The passive to the letter (Douay-Rheims); asks by whom.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "respice",
+      "refs": ["12:3"],
+      "latin": "réspice, et exáudi me",
+      "kind": "glossary",
+      "why": "réspice is bare; ‘me’ follows exáudi (ἐπίβλεψον, εἰσάκουσόν μου). The same Greek imperative stands behind 118:132 Áspice in me → ‘Olhai para mim’. In Ps 10:5b the verb (of the eyes, a state) became ‘estão voltados para’; at the vós imperative ‘voltai-vos’ is convértere’s (6:5), so the plain verb of looking is used. ‘Olhai’ is safe (past ‘olhei’). exáudi me → ‘escutai-me’ (D3). Douay-Rheims ‘Consider, and hear me’; Matos Soares 1932 ‘Olha para mim, e ouve-me’.",
+      "options": [
+        {"label": "olhai", "forms": {"respice": "olhai"}, "note": "Ruling: the bare imperative for the bare imperative; the object is left to be heard from ‘escutai-me’, as in the Latin.", "from": "draft"},
+        {"label": "olhai para mim", "forms": {"respice": "olhai para mim"}, "note": "Matos Soares 1932 and 118:132’s words; supplies the object.", "from": "MS1932"},
+        {"label": "considerai", "forms": {"respice": "considerai"}, "note": "Douay-Rheims’ ‘Consider’; it is consideráre’s verb (glossary).", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "obdormiam",
+      "refs": ["12:4b"],
+      "latin": "ne umquam obdórmiam in morte",
+      "kind": "word",
+      "why": "obdormíre: to fall asleep (the Greek ὑπνώσω); kept apart from dormíre → dormir (4:9 dórmiam) and dormitáre → dormitar (118:28). The other place is 43:23 Exsúrge, quare obdórmis, Dómine? (grep). ‘ne umquam’ → ‘para que nunca’; the Latin varies it to ‘nequándo’ in the next colon (the Greek has μήποτε both times), and Portuguese keeps the variation at no cost (glossary nequándo → ‘para que não’). Douay-Rheims ‘that I never sleep in death’; Matos Soares 1932 ‘para que eu nunca durma na morte’.",
+      "options": [
+        {"label": "adormeça", "forms": {"obdormiam": "adormeça"}, "note": "Ruling: the ingressive verb for the ingressive verb — to fall asleep in death, the moment and not the state.", "from": "draft"},
+        {"label": "durma", "forms": {"obdormiam": "durma"}, "note": "Matos Soares 1932 and Douay-Rheims: dormíre’s verb (glossary).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "motus",
+      "refs": ["12:5b"],
+      "latin": "si motus fúero",
+      "kind": "word",
+      "why": "A future perfect passive of movére (σαλευθῶ, ‘be shaken’): if I am moved, shaken. The same verb in the confident ‘Non movébor’ (9:27, 29:7, 61:3 — grep). Douay-Rheims ‘when I am moved’; Matos Soares 1932 ‘se eu for abalado’.",
+      "options": [
+        {"label": "se eu for abalado", "forms": {"motus": "se eu for abalado"}, "note": "Ruling: Matos Soares 1932; ‘abalar’ is the shaking the Greek names and serves ‘não serei abalado’ (Non movébor).", "from": "MS1932"},
+        {"label": "se eu vacilar", "forms": {"motus": "se eu vacilar"}, "note": "Active and plain; loses the passive and the outside force.", "from": "draft"},
+        {"label": "se eu cair", "forms": {"motus": "se eu cair"}, "note": "The Diurnal’s ‘porque eu caia’. Another verb (cádere).", "from": "DM1962"}
+      ]
+    },
+    {
+      "id": "tribuit",
+      "refs": ["12:6b"],
+      "latin": "cantábo Dómino qui bona tríbuit mihi",
+      "kind": "word",
+      "why": "tríbuere: to allot, bestow (15:7 qui tríbuit mihi intelléctum; 27:4 tríbue illis; 36:21 — grep); the Greek has one word, τῷ εὐεργετήσαντί με, ‘who did me good’. bona (neuter plural) is ‘good things’. Douay-Rheims ‘who giveth me good things’; Matos Soares 1932 ‘que me deu bens’.",
+      "options": [
+        {"label": "que me concedeu bens", "forms": {"tribuit": "que me concedeu bens"}, "note": "Ruling: ‘conceder’ for tríbuere, keeping ‘dar’ for dare (4:7 ‘destes alegria’); the perfect kept; ‘bens’ for bona (Matos Soares 1932), ending the colon on an oxytone.", "from": "MS1932"},
+        {"label": "que me deu bens", "forms": {"tribuit": "que me deu bens"}, "note": "Matos Soares 1932: the plainer verb, which is dare’s.", "from": "MS1932"},
+        {"label": "que me deu coisas boas", "forms": {"tribuit": "que me deu coisas boas"}, "note": "‘bens’ can be heard as property; this cannot.", "from": "draft"},
+        {"label": "que me fez bem", "forms": {"tribuit": "que me fez bem"}, "note": "The Greek’s sense. Refused: the Latin has a verb of giving and an object (rule 1).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "psallam",
+      "refs": ["12:6b"],
+      "latin": "et psallam nómini Dómini altíssimi",
+      "kind": "glossary",
+      "why": "7:18b word for word; D25 settles psállere → entoar salmos and says that 12:6b copies Ps 7’s colon. Here the colon stands beside cantábo (12:6b’s middle colon), which is why psállere cannot be ‘cantar’ (D25).",
+      "options": [
+        {"label": "e entoarei salmos ao nome do altíssimo Senhor", "forms": {"psallam": "e entoarei salmos ao nome do altíssimo Senhor"}, "note": "Ruling: Ps 7:18b copied word for word (D25, glossary formula).", "from": "glossary"},
+        {"label": "e entoarei salmos ao nome do Senhor altíssimo", "forms": {"psallam": "e entoarei salmos ao nome do Senhor altíssimo"}, "note": "Matos Soares 1932’s order (the same words); the verse would end on a proparoxytone, which is why Ps 7 moved the adjective.", "from": "MS1932"},
+        {"label": "e cantarei salmos ao nome do altíssimo Senhor", "forms": {"psallam": "e cantarei salmos ao nome do altíssimo Senhor"}, "note": "Refused by D25: ‘cantarei … cantarei’ in this very verse would make two Latin verbs one.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "12:1": "The psalm begins at 12:1: DO puts the titulus (In finem, Psalmus David) outside the verse, and 12:1 is the first prayed verse (D7). ‘Senhor’ bare (glossary).",
+    "12:2": "The Latin’s question mark kept; ‘dor’ (dolor, glossary) is governed by ‘porei’, as dolórem by ponam.",
+    "12:3": "The inline marker (4a) is not reproduced. exáudi me → ‘escutai-me’ (D3; the imperative is safe). Dómine, Deus meus → ‘Senhor, meu Deus’ (glossary formula). The imperative begins with a lower-case letter after the mark, as the Latin’s.",
+    "12:4b": "illumináre → iluminar (glossary; ‘Iluminai’ is safe, past ‘iluminei’). nequándo → ‘para que não’ (glossary, 2:12). præválere advérsus → ‘prevalecer contra’ (Matos Soares 1932 ‘Prevaleci contra ele’); the enemy’s words are quoted with a capital, as the Latin. The inline marker (5a) is not reproduced.",
+    "12:5b": "tribuláre → atribular (glossary, Ps 3:2 ‘os que me atribulam’). exsultáre → exultar. ego autem → ‘mas eu’ (5:7b, 118:69); speráre in → esperar em (glossary), the perfect kept (‘esperei’, as 7:2 ‘em vós esperei’). The inline marker (6a) is not reproduced.",
+    "12:6b": "salutáre → salvação (D6); ‘exultará na vossa salvação’ as Ps 9:16a (the other agent) ‘Exultarei na vossa salvação’. cantáre → cantar (D25 keeps it apart from psállere)."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm12.txt, six prayed verses with DO’s ids (12:1, 12:2, 12:3, 12:4b, 12:5b, 12:6b; the inline markers (4a), (5a), (6a) are not reproduced). 12:6b has a flex and a mediant; every other verse one ‘*’. Douay-Rheims from Bolls’ chapter 13 (= Vulgate Ps 12, checked by the coordinator)."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps012.md. Sense from the Vulgate family (Douay-Rheims; Matos Soares 1932 by its text layer). The Diurnal Monástico 1962 has the psalm, made from the Hebrew: diction only (12:1 ‘esconderás’, 12:5b ‘caia’ refused as the Hebrew’s). DO’s Portuguese not used (D12). Repeats found with ps005/grep_latin.py and ps010/grep_done.py: 12:6b last colon = 7:18b (copied, D25); in finem (19 lines; the Ps 9 agent’s ruling followed); avértis fáciem tuam a me (29:8, 43:24, 87:15); obdormíre 43:23; movére (Non movébor 9:27, 29:7, 61:3); tríbuere 15:7, 27:4; quámdiu 103:33, 145:2a (another use); in salutári tuo 9:16a, 19:6. Vós imperatives: ‘olhai’, ‘escutai-me’, ‘Iluminai’ — all safe. Septuagintal readings kept against the Hebrew: 12:2 per diem as ‘by day’; 12:3 réspice (look); 12:6b the Latin’s longer ending with psallam (the Hebrew has no third colon)."}
+  ]
+}

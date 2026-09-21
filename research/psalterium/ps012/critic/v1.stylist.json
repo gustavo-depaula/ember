@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "45e43f71ce1e9e60aa46e5d032c0672e9d586e4e91b9c087e573827bb2636ada",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T12:07:19+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"12:2\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"Até quando porei conselhos na minha alma\",\n          \"problem\": \"“Porei conselhos” soa como uma construção transportada do latim. A imagem precisa ficar, mas “hei de pôr” dá à pergunta um movimento mais natural de queixa.\",\n          \"alternative\": \"Até quando hei de pôr conselhos na minha alma, * dor no meu coração durante o dia?\"\n        }\n      ]\n    },\n    {\n      \"id\": \"12:6b\",\n      \"fails\": [\"plain\"],\n      \"remarks\": [\n        {\n          \"words\": \"que me concedeu bens\",\n          \"problem\": \"“Concedeu bens” tem uma secura administrativa e sugere sobretudo patrimônio. Uma expressão mais corrente conserva o plural de “bona” e deixa a oração mais próxima da fala.\",\n          \"alternative\": \"O meu coração exultará na vossa salvação: † cantarei ao Senhor, que me deu coisas boas: * e entoarei salmos ao nome do altíssimo Senhor.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo tem sobriedade e uma insistência orante bem sustentada pelos repetidos “Até quando”. As terminações atendem à cadência pedida, sem rimas salientes; a principal resistência à recitação está em “porei conselhos”, cuja imagem incomum pede uma construção verbal mais corrente.\",\n  \"worstLine\": \"12:2\",\n  \"bestLine\": \"12:3\"\n}"
+}

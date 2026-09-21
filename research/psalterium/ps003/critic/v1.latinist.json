@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "6802e3a4534463a189a5257e6b1cfc8be1b941123a9daeaa21a85f4cbcbf1636",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T04:15:55+00:00",
+  "reply": "{\"verses\":[{\"id\":\"3:6\",\"severity\":\"minor\",\"issues\":[{\"latin\":\"soporátus sum\",\"portuguese\":\"caí em sono profundo\",\"problem\":\"A expressão transmite o sono profundo, mas substitui a construção passiva latina por uma construção ativa de mudança de estado. É defensável semanticamente, porém não conserva a voz exigida pela regra do projeto.\",\"fix\":\"fui adormecido\"}]}],\"overall\":\"A tradução conserva adequadamente o conteúdo latino nos demais versículos. Todos os versículos apresentam as mesmas marcas de divisão, na mesma ordem do original: um único asterisco (*), sem † nem ‡.\"}"
+}

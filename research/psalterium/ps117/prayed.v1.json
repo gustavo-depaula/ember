@@ -1,0 +1,301 @@
+{
+  "psalm": 117,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "117:1": "{confitemini}, porque ele é bom: * porque {misericordia}.",
+    "117:2": "{v2a} * {quoniam_dicat} {misericordia}.",
+    "117:3": "Diga agora a casa de Aarão: * {quoniam_dicat} {misericordia}.",
+    "117:4": "Digam agora os que temem o Senhor: * {quoniam_dicat} {misericordia}.",
+    "117:5": "Da tribulação invoquei o Senhor: * e o Senhor me escutou {latitudine}.",
+    "117:6": "{adjutor}: * não temerei o que me faça o homem.",
+    "117:7": "{adjutor}: * e eu {despiciam} os meus inimigos.",
+    "117:8": "{bonum} confiar no Senhor, * {quam} confiar no homem:",
+    "117:9": "{bonum} esperar no Senhor, * {quam} esperar nos príncipes.",
+    "117:10": "Todas as nações me rodearam: * {ultus}.",
+    "117:11": "{circumdantes}: * {ultus}.",
+    "117:12": "Cercaram-me como abelhas, † e se inflamaram como fogo em espinhos: * {ultus}.",
+    "117:13": "{eversus}: * e o Senhor {suscepit}.",
+    "117:14": "{fortitudo} e o meu louvor é o Senhor: * {factusest}.",
+    "117:15": "Voz de exultação e de salvação * nas tendas dos justos.",
+    "117:16": "{Dextera} do Senhor {fecitvirtutem}: † {dextera} do Senhor me exaltou, * {dextera} do Senhor {fecitvirtutem}.",
+    "117:17": "Não morrerei, mas viverei: * e narrarei as obras do Senhor.",
+    "117:18": "{castigans}: * e à morte não me entregou.",
+    "117:19": "{aperite} as portas da justiça, † entrando por elas, {confitebor_domino}: * esta é a porta do Senhor, os justos entrarão por ela.",
+    "117:21": "{confitebor_tibi}, porque me escutastes: * {factuses}.",
+    "117:22": "A pedra que os construtores rejeitaram: * esta {caputanguli}.",
+    "117:23": "Pelo Senhor foi feito isto: * e é maravilhoso aos nossos olhos.",
+    "117:24": "{haecdies}: * exultemos e alegremo-nos nele.",
+    "117:25": "Ó Senhor, salvai-me, † ó Senhor, {prosperare}: * bendito o que vem {innomine}.",
+    "117:26b": "{benediximus} da casa do Senhor: * {deusdominus}, e brilhou para nós.",
+    "117:27b": "Estabelecei um dia solene {condensis}, * até {cornu} do altar.",
+    "117:28a": "{deusmeus}, {et_confitebor_tibi}: * {deusmeus_lc}, e eu vos exaltarei.",
+    "117:28b": "{confitebor_tibi}, porque me escutastes * {factuses}.",
+    "117:29": "{confitemini}, porque ele é bom: * porque {misericordia}."
+  },
+  "decisions": [
+    {
+      "id": "confiteri", "refs": ["117:1", "117:19", "117:21", "117:28a", "117:28b", "117:29"], "latin": "Confitémini Dómino … confitébor Dómino … Confitébor tibi … et confitébor tibi", "kind": "glossary",
+      "why": "confitéri to God (ἐξομολογεῖσθαι) is open in the glossary, with 'louvar' pencilled in. It frames this psalm (117:1 = 117:29) and returns four times inside it, so one decision fills every occurrence and the verb can be switched through the whole psalm at once. Ps 53 (53:8 confitébor nómini tuo), finished tonight, proposes 'dar graças', on two facts checked in the DO Latin psalter: confitéri stands in one verse with laudáre as its parallel (34:18, 108:30), so 'louvar' for both would make one word of two; and 'grátias ágere' never occurs in the psalms, so 'dar graças' is free. This psalm adds two more: laus stands in 117:14 (laus mea Dóminus → o meu louvor), and in 117:28a 'louvarei' would rhyme with 'exaltarei' at mediant and final, where the Latin has no echo (tibi / te).",
+      "options": [
+        {"label": "dar graças", "forms": {"confitemini": "Dai graças ao Senhor", "confitebor_domino": "darei graças ao Senhor", "confitebor_tibi": "Eu vos darei graças", "et_confitebor_tibi": "e eu vos darei graças"}, "note": "Draft: the verb Ps 53 proposes, kept the same. It keeps the Latin dative (Dómino → ao Senhor), fits a psalm that gives thanks for a rescue (quóniam exaudísti me), leaves 'louvar / louvor' to laudáre / laus, and is safe under rule 3 (Dai / dei). The incipit comes out word for word as the Diurnal Monástico 1962 prints it beside this Latin ('Dai graças ao Senhor, porque êle é bom'). Cost: the root of confession — acknowledging aloud — is heard only faintly.", "from": "DM1962"},
+        {"label": "louvar", "forms": {"confitemini": "Louvai o Senhor", "confitebor_domino": "louvarei o Senhor", "confitebor_tibi": "Eu vos louvarei", "et_confitebor_tibi": "e eu vos louvarei"}, "note": "The glossary's pencilled word; Matos Soares 1932 and pt-PT throughout this psalm, Douay-Rheims 'give praise'. Plain and beloved; collides with laudáre, puts 'louvarei' beside 'o meu louvor' of 117:14 where the Latin has two roots, and makes 117:28a rhyme (louvarei / exaltarei).", "from": "glossary"},
+        {"label": "confessar", "forms": {"confitemini": "Confessai ao Senhor", "confitebor_domino": "confessarei ao Senhor", "confitebor_tibi": "Eu vos confessarei", "et_confitebor_tibi": "e eu vos confessarei"}, "note": "The cognate. 'Confessai ao Senhor' is heard as a call to confess sins, which the glossary keeps for 31:5, and 'Eu vos confessarei' as 'I will hear your confession'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "refrain", "refs": ["117:1", "117:2", "117:3", "117:4", "117:29"], "latin": "quóniam in sǽculum misericórdia ejus", "kind": "glossary",
+      "why": "The refrain of this psalm (117:1–4, 117:29), of Pss 105 and 106, and — with in ætérnum — of all 27 verses of Ps 135. The glossary's working form is 'porque para sempre é a sua misericórdia'. Here it is said four times running by alternating choirs, which is the test the brief asked for. Said aloud four times, the working form trips twice: 'porque para' opens on a stutter of p-r syllables (por-que-pa-ra), and 'sempre é a sua' piles three vowels in hiatus (-e é a). The slot holds the refrain without its conjunction, so that the question of 117:2–4 (decision 'dicat') can be answered separately and the refrain still cannot drift.",
+      "options": [
+        {"label": "porque é para sempre a sua misericórdia", "forms": {"misericordia": "é para sempre a sua misericórdia"}, "note": "Draft, and a proposal for the glossary. Same words as the working form, the copula moved up: 'porque‿é' and 'sempre‿a' each make one clean elision, 'para sempre' still stands before the subject as in sǽculum does, and the line still closes on 'misericórdia' as the Latin closes on misericórdia ejus (paroxytone cadence, 14–15 syllables for the Latin's 15). It gives Ps 135 a twin of the same build (porque é … a sua misericórdia).", "from": "draft"},
+        {"label": "porque para sempre é a sua misericórdia", "forms": {"misericordia": "para sempre é a sua misericórdia"}, "note": "The glossary's working form. The Latin's order exactly; heavier in the mouth for the two reasons given above, and it is said five times here and twenty-seven times in Ps 135.", "from": "glossary"},
+        {"label": "porque a sua misericórdia é para sempre", "forms": {"misericordia": "a sua misericórdia é para sempre"}, "note": "The order of plain speech, and of Matos Soares 1932 and pt-PT ('a sua misericórdia é eterna'). Closes firmly on 'sempre'; but the refrain then ends on the adverb, not on the mercy, and under the tone the final cadence falls on 'para sempre' five times.", "from": "MS1932"},
+        {"label": "porque eterna é a sua misericórdia", "forms": {"misericordia": "eterna é a sua misericórdia"}, "note": "Offered only so that it can be weighed: I believe this is close to the refrain as it is sung at Mass in Brazil, but that is from memory and UNVERIFIED — nothing in the parallels file has it (Matos Soares 1932 and pt-PT: 'a sua misericórdia é eterna'; the Diurnal, from the Hebrew: 'eterno é o seu amor'). Refused as the text: the glossary keeps in sǽculum → para sempre apart from in ætérnum → eternamente on purpose, and this would merge them.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "dicat", "refs": ["117:2", "117:3", "117:4"], "latin": "Dicat nunc Israël quóniam bonus: * quóniam in sǽculum…", "kind": "ambiguity",
+      "why": "After dícere, quóniam is the Vulgate's calque of ὅτι and can be 'that' (Douay-Rheims 'Let Israel now say that he is good: that his mercy…'; Matos Soares 1932 and pt-PT 'que') or the first word of the thing said — the people are told to say the refrain itself, conjunction included. The Hebrew explains the Latin here: there the quoted words are the refrain with its ki. In 117:3–4 the Latin's own colon and asterisk set the refrain off as the thing said. Portuguese must choose between 'que' and 'porque'; the Latin column prints the identical five words in 117:1–4 and 117:29.",
+      "options": [
+        {"label": "Diga agora Israel: porque ele é bom, * porque…", "forms": {"v2a": "Diga agora Israel: porque ele é bom,", "quoniam_dicat": "porque"}, "note": "Draft. The refrain is word for word the same in all five verses, as in the Latin (rule 6), and each group answers with the acclamation of 117:1. The Diurnal Monástico 1962 also prints it as quoted speech ('Que ela o diga, a casa de Israel: * eterno é o seu amor!'). A colon is put after 'Israel' to mark the quotation; the Latin's colon before the asterisk becomes a comma in this one verse.", "from": "draft"},
+        {"label": "Diga agora Israel que ele é bom: * que…", "forms": {"v2a": "Diga agora Israel que ele é bom:", "quoniam_dicat": "que"}, "note": "Douay-Rheims, Matos Soares 1932, pt-PT: quóniam as 'that'. Smooth, and the commoner reading of dícere quóniam; the refrain then begins with 'que' in three verses and 'porque' in two, where the Latin has one word.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "latitudine", "refs": ["117:5"], "latin": "exaudívit me in latitúdine", "kind": "word",
+      "why": "A pregnant Septuagintal phrase (ἐπήκουσέν μου εἰς πλατυσμόν): heard me 'in / into breadth' — the wide place set against tribulátio, the tight one. Ps 4:2a has the same pair as a verb (in tribulatióne dilatásti mihi → 'me abristes espaço' in Ps 4 draft 2). Douay-Rheims and Matos Soares 1932 both supply a second verb ('and enlarged me', 'e pôs-me ao largo'); the Latin has only the noun. latitúdo recurs: 17:20 edúxit me in latitúdinem, 118:45 ambulábam in latitúdine; 30:9 has the other phrase, in loco spatióso.",
+      "options": [
+        {"label": "na largueza", "forms": {"latitudine": "na largueza"}, "note": "Draft. The noun kept as a noun and nothing supplied. 'Largueza' is breadth and also open-handedness; a hearer may take it as 'heard me generously', which is not far from how the phrase has been prayed. Colon 3 syllables short of the Latin.", "from": "draft"},
+        {"label": "em lugar espaçoso", "forms": {"latitudine": "em lugar espaçoso"}, "note": "Clear and concrete, and the Latin's length exactly; supplies 'lugar', and is word for word what 30:9 in loco spatióso will want.", "from": "draft"},
+        {"label": "e me pôs ao largo", "forms": {"latitudine": "e me pôs ao largo"}, "note": "Matos Soares 1932 and pt-PT. Supplies a verb; and in Brazil 'ao largo' is first 'at a distance, offshore'.", "from": "MS1932"},
+        {"label": "e me abriu espaço", "forms": {"latitudine": "e me abriu espaço"}, "note": "Ties the verse to Ps 4:2a ('me abristes espaço'); supplies a verb, as Douay-Rheims does ('and enlarged me').", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "adjutor", "refs": ["117:6", "117:7"], "latin": "Dóminus mihi adjútor", "kind": "glossary",
+      "why": "The same half-verse opens 117:6 and 117:7, so one slot. adjútor (βοηθός) is the agent noun beside adjutórium → auxílio (Ps 90) and adjuváre → auxiliar (Ps 53's proposal); it is all over the psalter. The Latin has a dative and no verb ('the Lord [is] to me a helper'). Matos Soares 1932 and pt-PT have 'o meu amparo', which the glossary now keeps for suscéptor.",
+      "options": [
+        {"label": "O Senhor é o meu auxílio", "forms": {"adjutor": "O Senhor é o meu auxílio"}, "note": "Draft. The glossary's family (auxílio / auxiliar); the copula supplied and the dative turned into a possessive, as Matos Soares does. Cost: adjútor and adjutórium become one word, as suscéptor → amparo also turns an agent into an abstract noun.", "from": "glossary"},
+        {"label": "O Senhor é para mim auxílio", "forms": {"adjutor": "O Senhor é para mim auxílio"}, "note": "Keeps the dative, and matches 'se fez para mim salvação' (factus est mihi in salútem) further on; a little stiff.", "from": "draft"},
+        {"label": "O Senhor é quem me ajuda", "forms": {"adjutor": "O Senhor é quem me ajuda"}, "note": "Keeps the agent (Douay-Rheims 'my helper') with the plainest verb; splits the family auxílio / ajudar.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "despiciam", "refs": ["117:7"], "latin": "et ego despíciam inimícos meos", "kind": "glossary",
+      "why": "despícere is 'to look down upon' and by figure 'to despise' (L&S); the LXX has ἐπόψομαι, 'I shall look upon', Douay-Rheims 'I will look over my enemies'. Ps 53:9 (super inimícos meos despéxit óculus meus), finished tonight, chose 'olhar de cima' because Portuguese has the same double sense in that one idiom, and named this verse as the next place for it.",
+      "options": [
+        {"label": "olharei de cima", "forms": {"despiciam": "olharei de cima"}, "note": "Draft, following Ps 53. The literal picture with the contempt inside it.", "from": "glossary"},
+        {"label": "desprezarei", "forms": {"despiciam": "desprezarei"}, "note": "Matos Soares 1932 and pt-PT. Only the figurative half; the Greek behind the Latin is a verb of seeing.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "bonumest", "refs": ["117:8", "117:9"], "latin": "Bonum est confídere in Dómino, * quam confídere in hómine", "kind": "grammar",
+      "why": "A Hebraism through the Greek (ἀγαθὸν … ἤ): the positive 'bonum' with 'quam' does the work of a comparative. Matos Soares 1932 and pt-PT write 'É melhor … que'; Douay-Rheims keeps 'It is good … rather than'. bonum also answers 'quóniam bonus' of the refrain. The two verses are one frame said twice, with confídere (πεποιθέναι) in the first and speráre (ἐλπίζειν) in the second: confiar / esperar, kept distinct (Matos Soares and the Diurnal blur them).",
+      "options": [
+        {"label": "É melhor … do que", "forms": {"bonum": "É melhor", "quam": "do que"}, "note": "Draft, with Matos Soares 1932 and pt-PT. The degree of the adjective is grammar, and yields (rule 2); 'melhor' is still bonum.", "from": "MS1932"},
+        {"label": "É bom … mais que", "forms": {"bonum": "É bom", "quam": "mais que"}, "note": "Keeps the positive, and with it the echo of 'porque ele é bom'; sayable, slightly foreign, exactly as foreign as the Latin.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "ultus", "refs": ["117:10", "117:11", "117:12"], "latin": "et in nómine Dómini quia ultus sum in eos", "kind": "grammar",
+      "why": "The second refrain, three times running; one slot. The Latin is abrupt: 'and in the name of the Lord — quia — I took vengeance on them'. The quia mirrors the Hebrew ki and is not in Rahlfs' Greek; Douay-Rheims, Matos Soares 1932 and pt-PT all leave it out. ultus sum is the deponent perfect of ulcísci.",
+      "options": [
+        {"label": "e foi em nome do Senhor que me vinguei deles", "forms": {"ultus": "e foi {innomine} que me vinguei {eos}"}, "note": "Draft. A cleft sentence: the copula is supplied (rule 2 allows it) and quia becomes the 'que' that the cleft needs, so every Latin word is heard, in the Latin's order, and the weight falls on the name as it does in the Latin. 14 syllables for the Latin's 16.", "from": "draft"},
+        {"label": "e em nome do Senhor me vinguei deles", "forms": {"ultus": "e {innomine} me vinguei {eos}"}, "note": "Douay-Rheims and pt-PT: quia left out. Shorter (12).", "from": "DRB"},
+        {"label": "mas eu tomei vingança deles em nome do Senhor", "forms": {"ultus": "mas eu tomei vingança {eos} {innomine}"}, "note": "Matos Soares 1932. Natural order; 'et' becomes 'mas', and the name loses the first place.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "eos", "refs": ["117:10", "117:11", "117:12"], "latin": "in eos", "kind": "grammar",
+      "why": "The Latin has the masculine eos although its antecedent in 117:10 is the feminine gentes — agreement by sense (the men). Portuguese 'nações' is feminine too, so the same choice arises; Matos Soares 1932 and pt-PT write 'delas' in all three verses.",
+      "options": [
+        {"label": "deles", "forms": {"eos": "deles"}, "note": "Draft: the Latin's own gender. In 117:12 it matters to the ear: after 'Cercaram-me como abelhas', 'me vinguei delas' is heard as vengeance on the bees.", "from": "draft"},
+        {"label": "delas", "forms": {"eos": "delas"}, "note": "Matos Soares 1932 and pt-PT: school agreement with 'nações' in 117:10; misleading in 117:12.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "innomine", "refs": ["117:10", "117:11", "117:12", "117:25"], "latin": "in nómine Dómini", "kind": "word",
+      "why": "The same three words four times: in the vengeance refrain and in 'benedíctus qui venit in nómine Dómini'. One slot, so that they stay identical. Ps 53:3 (in nómine tuo) chose 'no vosso nome', keeping the article before the possessive; here there is no possessive, and the fixed locution is free.",
+      "options": [
+        {"label": "em nome do Senhor", "forms": {"innomine": "em nome do Senhor"}, "note": "Draft. For 117:26a it is what all three Portuguese antecedents in the parallels file print ('Bendito o que vem em nome do Senhor': Matos Soares 1932, Diurnal Monástico 1962, pt-PT), and Matos Soares and the Diurnal have it in 117:10–12 as well.", "from": "MS1932"},
+        {"label": "no nome do Senhor", "forms": {"innomine": "no nome do Senhor"}, "note": "pt-PT in 117:10–12 (but not in 117:26a). Matches Ps 53's 'no vosso nome' and keeps 'in' as open as the Latin between 'in' and 'by'; it would make 'bendito o que vem no nome do Senhor', against the wording everyone knows.", "from": "pt-PT"}
+      ]
+    },
+    {
+      "id": "figura", "refs": ["117:11", "117:18"], "latin": "Circumdántes circumdedérunt me … Castígans castigávit me Dóminus", "kind": "grammar",
+      "why": "Twice the psalm has the Hebrew infinitive absolute as the Greek and Latin give it: participle + finite verb of the same root (κυκλώσαντες ἐκύκλωσαν, παιδεύων ἐπαίδευσεν). Rule 2 forbids dropping a repetition the Latin has; Matos Soares 1932 and pt-PT drop both ('Pondo-se à roda de mim', 'severamente'). One decision, so that the figure is treated the same way in both verses.",
+      "options": [
+        {"label": "gerund + verb", "forms": {"circumdantes": "Cercando-me, me cercaram", "castigans": "Castigando, castigou-me o Senhor"}, "note": "Draft. The Latin's own figure, root said twice (Douay-Rheims 'Surrounding me they compassed me about', 'The Lord chastising hath chastised me'). circumdáre → cercar (glossary).", "from": "DRB"},
+        {"label": "verb said twice", "forms": {"circumdantes": "Cercaram-me, sim, me cercaram", "castigans": "Castigou-me, sim, castigou-me o Senhor"}, "note": "The diction of the Diurnal Monástico 1962, which doubles the finite verb ('castigou-me, castigou-me de nôvo', 'Empurraram-me, empurraram-me'). More like speech; the participle is gone and 'sim' is supplied.", "from": "DM1962"},
+        {"label": "adverb", "forms": {"circumdantes": "Pondo-se à minha volta, me cercaram", "castigans": "O Senhor me castigou severamente"}, "note": "Matos Soares 1932 / pt-PT. Explains the figure instead of giving it; the repetition is lost.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "eversus", "refs": ["117:13"], "latin": "Impúlsus evérsus sum ut cáderem", "kind": "word",
+      "why": "Two passives and a purpose clause: 'pushed, I was overturned so that I should fall' (ὠσθεὶς ἀνετράπην τοῦ πεσεῖν; Douay-Rheims 'Being pushed I was overturned that I might fall'). evértere is 'to overturn, upset, throw down' (L&S). The Latin is odd in the same way as any close rendering: the man is already overturned, and yet the falling is still a purpose, and the Lord catches him. Matos Soares 1932 softens it into an attempt ('Procuraram derribar-me … estive quase a cair').",
+      "options": [
+        {"label": "Empurrado, fui derrubado para cair", "forms": {"eversus": "Empurrado, fui derrubado para cair"}, "note": "Draft. Both passives and the purpose kept, in the Latin's order.", "from": "draft"},
+        {"label": "Empurrado, fui abalado para que caísse", "forms": {"eversus": "Empurrado, fui abalado para que caísse"}, "note": "Removes the oddity (shaken, not yet down); weaker than evértere.", "from": "draft"},
+        {"label": "Empurraram-me para cair", "forms": {"eversus": "Empurraram-me para cair"}, "note": "pt-PT: one verb for two, and an active for the passives.", "from": "pt-PT"}
+      ]
+    },
+    {
+      "id": "suscepit", "refs": ["117:13"], "latin": "et Dóminus suscépit me", "kind": "glossary",
+      "why": "suscípere (ἀντελάβετο) is the verb of suscéptor, which the glossary renders 'amparo' (open, Ps 90:2). The verb and the noun should go together.",
+      "options": [
+        {"label": "me amparou", "forms": {"suscepit": "me amparou"}, "note": "Draft: the verb of 'amparo'; to catch and hold up someone who is falling is exactly what 'amparar' says.", "from": "glossary"},
+        {"label": "me susteve", "forms": {"suscepit": "me susteve"}, "note": "Matos Soares 1932 and pt-PT. Good, a little bookish in Brazil; cuts the tie with suscéptor.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "fortitudo", "refs": ["117:14"], "latin": "Fortitúdo mea", "kind": "glossary",
+      "why": "fortitúdo (ἰσχύς) must stay apart from virtus, which comes two verses later and for which Ps 53 proposes 'poder' (the two stand together in 67:36 virtútem et fortitúdinem). The same line stands word for word in two canticles of the DO psalter folder (ids 15:2 and 12:3 there), so it wants one rendering.",
+      "options": [
+        {"label": "A minha força", "forms": {"fortitudo": "A minha força"}, "note": "Draft. The plain word, left free by virtus → poder.", "from": "draft"},
+        {"label": "A minha fortaleza", "forms": {"fortitudo": "A minha fortaleza"}, "note": "Matos Soares 1932 and pt-PT; the cognate, and the name of the virtue. In Brazil it is first a fortress, which the Latin word is not.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "factus", "refs": ["117:14", "117:21", "117:28b"], "latin": "et factus est mihi in salútem … et factus es mihi in salútem", "kind": "glossary",
+      "why": "A formula said three times here (once of God, twice to him) and again in the two canticles that share 117:14. 'in salútem' is a Hebraism through the Greek (ἐγένετό μοι εἰς σωτηρίαν: 'became to me for salvation'). The psalm also runs on the verb fácere — fecit virtútem, factus est, factum est istud, quam fecit Dóminus — which 'tornar-se' would interrupt. salus → salvação (glossary).",
+      "options": [
+        {"label": "e se fez para mim salvação", "forms": {"factusest": "e se fez para mim salvação", "factuses": "e vos fizestes para mim salvação"}, "note": "Draft. fíeri → fazer-se, the dative kept (mihi → para mim), 'in' left to grammar. 'Vos fizestes' is safe: nothing here is an imperative.", "from": "draft"},
+        {"label": "e se tornou a minha salvação", "forms": {"factusest": "e se tornou a minha salvação", "factuses": "e vos tornastes a minha salvação"}, "note": "Matos Soares 1932 and pt-PT (Douay-Rheims 'is become my salvation'). The most natural; the dative becomes a possessive and the thread of fácere is cut.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "dextera", "refs": ["117:16"], "latin": "Déxtera Dómini", "kind": "word",
+      "why": "Said three times in one verse. Ps 90:7 already has 'à tua direita' for a dextris tuis.",
+      "options": [
+        {"label": "A direita", "forms": {"Dextera": "A direita", "dextera": "a direita"}, "note": "Draft, with the Diurnal Monástico 1962. The current word.", "from": "DM1962"},
+        {"label": "A destra", "forms": {"Dextera": "A destra", "dextera": "a destra"}, "note": "Matos Soares 1932 and pt-PT ('dextra'; the Diurnal has 'destra' once too). Shorter and hieratic; a word met only in church.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "fecitvirtutem", "refs": ["117:16"], "latin": "fecit virtútem", "kind": "glossary",
+      "why": "fácere virtútem (ἐποίησεν δύναμιν; Douay-Rheims 'hath wrought strength') is a Hebraism, said twice here round 'exaltávit me', and again in 59:14 = 107:14 (In Deo faciémus virtútem). Ps 53 proposes virtus → poder. Portuguese cannot say 'fez poder': either the light verb yields or the heavy noun does.",
+      "options": [
+        {"label": "agiu com poder", "forms": {"fecitvirtutem": "agiu com poder"}, "note": "Draft. Keeps the glossary-grade noun (poder) and lets 'fazer' go; serves 59:14 too ('Em Deus agiremos com poder').", "from": "draft"},
+        {"label": "mostrou o seu poder", "forms": {"fecitvirtutem": "mostrou o seu poder"}, "note": "Matos Soares 1932 and pt-PT. Adds 'seu' and turns doing into showing.", "from": "MS1932"},
+        {"label": "fez proezas", "forms": {"fecitvirtutem": "fez proezas"}, "note": "Keeps 'fazer', and 'proeza' is virtus as a deed of valour; but a plural for a singular, and it leaves the glossary's word for virtus.", "from": "draft"},
+        {"label": "fez maravilhas", "forms": {"fecitvirtutem": "fez maravilhas"}, "note": "The Diurnal Monástico 1962. Sings well; it is the word mirabília will need.", "from": "DM1962"}
+      ]
+    },
+    {
+      "id": "aperite", "refs": ["117:19"], "latin": "Aperíte mihi portas justítiæ", "kind": "grammar",
+      "why": "Rule 3: the vós imperative of abrir is 'abri', which is also 'I opened' — the glossary lists it by name as a form to avoid. Every Portuguese antecedent has 'Abri-me as portas da justiça'. The verb must be recast or replaced.",
+      "options": [
+        {"label": "Abram-se para mim", "forms": {"aperite": "Abram-se para mim"}, "note": "Draft. The verb 'abrir' and the dative kept (mihi → para mim); the imperative to unnamed gatekeepers becomes a jussive. Nobody is addressed in the Latin by name either.", "from": "draft"},
+        {"label": "Abri-me", "forms": {"aperite": "Abri-me"}, "note": "Matos Soares 1932, Diurnal Monástico 1962, pt-PT. Against rule 3 as written; but with '-me as portas' after it the first-person reading ('I opened myself the gates') is not available, so the homograph is harmless here. If Gustavo allows the exception, this is the text.", "from": "MS1932"},
+        {"label": "Descerrai-me", "forms": {"aperite": "Descerrai-me"}, "note": "A true imperative and no homograph; a word from inaugurations, not from speech.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "caputanguli", "refs": ["117:22"], "latin": "hic factus est in caput ánguli", "kind": "word",
+      "why": "Known by heart from the Gospels and the Easter liturgy. The Latin image is 'head of the corner' (εἰς κεφαλὴν γωνίας; Douay-Rheims 'the head of the corner'), which leaves open whether the stone lies at the foot of the corner or crowns it; 'pedra angular' is the established Portuguese term, and says 'stone' where the Latin says 'head'. The resumptive hic is kept ('esta'), as Matos Soares keeps it.",
+      "options": [
+        {"label": "se fez a cabeça do ângulo", "forms": {"caputanguli": "se fez a cabeça do ângulo"}, "note": "Draft. The Latin's image, word for word, and factus est → se fez as in the rest of the psalm. Strange where the Latin is strange (rule 2); the cadence is the Latin's own proparoxytone (ánguli / ângulo).", "from": "DRB"},
+        {"label": "se tornou a pedra angular", "forms": {"caputanguli": "se tornou a pedra angular"}, "note": "pt-PT ('tornou-se a pedra angular') and the Diurnal Monástico 1962 ('tornou-se pedra angular'); Matos Soares 1932 'foi posta por pedra angular'. The wording a Brazilian expects to hear; it replaces the image with the technical term.", "from": "pt-PT"},
+        {"label": "se fez a pedra angular", "forms": {"caputanguli": "se fez a pedra angular"}, "note": "The familiar noun with the psalm's own verb.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "haecdies", "refs": ["117:24"], "latin": "Hæc est dies, quam fecit Dóminus", "kind": "order",
+      "why": "The Hæc dies of Easter. The Latin is plain and every antecedent agrees on the words; only the order of the relative clause differs.",
+      "options": [
+        {"label": "Este é o dia que o Senhor fez", "forms": {"haecdies": "Este é o dia que o Senhor fez"}, "note": "Draft; word for word the Diurnal Monástico 1962 and pt-PT. Natural order.", "from": "DM1962"},
+        {"label": "Este é o dia que fez o Senhor", "forms": {"haecdies": "Este é o dia que fez o Senhor"}, "note": "Matos Soares 1932. The Latin's order, closing on 'Senhor' as the Latin closes on Dóminus; can be misheard for a moment as 'the day that made the Lord'.", "from": "MS1932"},
+        {"label": "Este é o dia que o Senhor fez para nós", "forms": {"haecdies": "Este é o dia que o Senhor fez para nós"}, "note": "Offered only to be weighed: I believe the Easter responsorial refrain in Brazil runs like this, but that is from memory and UNVERIFIED. Refused as the text in any case: 'para nós' is not in the Latin.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "prosperare", "refs": ["117:25"], "latin": "o Dómine, bene prosperáre", "kind": "ambiguity",
+      "why": "prosperáre here is a second-person imperative in -re. The LXX has the active εὐόδωσον δή ('give a good way, give success'), and Douay-Rheims follows it: 'give good success'. Lewis & Short cite this very verse under another sense of prósperor, 'to render favourable, propitiate' — that is, 'be thou well favourable'. No object is expressed (Matos Soares 1932 supplies one: 'faze que tenha prosperidade').",
+      "options": [
+        {"label": "dai bom êxito", "forms": {"prosperare": "dai bom êxito"}, "note": "Draft, with the Greek and Douay-Rheims; 'êxito' is the Diurnal's word ('dá-nos êxito'). bene is kept (bom), no object supplied. 'dai' is safe under rule 3. Cadence proparoxytone.", "from": "DRB"},
+        {"label": "sede bem propício", "forms": {"prosperare": "sede bem propício"}, "note": "Lewis & Short's reading of this verse (prosperátus deus, 'a god made favourable').", "from": "draft"},
+        {"label": "dai boa prosperidade", "forms": {"prosperare": "dai boa prosperidade"}, "note": "The cognate, as pleonastic as bene prosperáre; in Brazil today 'prosperidade' in a prayer calls up prosperity preaching.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "benediximus", "refs": ["117:26b"], "latin": "Benedíximus vobis", "kind": "grammar",
+      "why": "A perfect (LXX εὐλογήκαμεν; Douay-Rheims 'We have blessed you'), spoken to people — 'vos' here is a human plural. The verb is the one of 'benedíctus' in the verse before, and the glossary keeps 'bendizer' for benedícere in both directions (open, Ps 133:3). Matos Soares 1932 and pt-PT write a present and take 'de domo Dómini' as 'you who are of the house'.",
+      "options": [
+        {"label": "Nós vos bendissemos", "forms": {"benediximus": "Nós vos bendissemos"}, "note": "Draft. The Latin's tense and the psalm's verb (bendito … bendissemos). A form seldom heard.", "from": "draft"},
+        {"label": "Nós vos bendizemos", "forms": {"benediximus": "Nós vos bendizemos"}, "note": "Matos Soares 1932 and pt-PT: a present, as of a blessing being given now. Easier on the ear; not the Latin's tense.", "from": "MS1932"},
+        {"label": "Nós vos abençoamos", "forms": {"benediximus": "Nós vos abençoamos"}, "note": "The Diurnal Monástico 1962 ('vos abençoamos'). In Brazilian spelling the form is present and perfect at once, which sidesteps the tense; it leaves the glossary's verb and the echo of 'bendito'.", "from": "DM1962"}
+      ]
+    },
+    {
+      "id": "deusdominus", "refs": ["117:26b"], "latin": "Deus Dóminus", "kind": "ambiguity",
+      "why": "Two nominatives and no verb (θεὸς κύριος). Portuguese needs the copula and so must say which is the subject.",
+      "options": [
+        {"label": "o Senhor é Deus", "forms": {"deusdominus": "o Senhor é Deus"}, "note": "Draft, with Douay-Rheims ('The Lord is God'), Matos Soares 1932, pt-PT and the Diurnal.", "from": "DRB"},
+        {"label": "Deus é o Senhor", "forms": {"deusdominus": "Deus é o Senhor"}, "note": "The Latin's order.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "condensis", "refs": ["117:27b"], "latin": "in condénsis", "kind": "word",
+      "why": "A hard Septuagintal reading (ἐν τοῖς πυκάζουσιν, 'with the thick-covering [boughs]'; the Hebrew is about binding the festal victim with cords). condénsus is 'very dense, thick', said of trees and foliage (L&S); the neuter plural is 'the thick things'. Douay-Rheims 'with shady boughs'; Matos Soares 1932 'cobrindo tudo de folhagem'. 28:9 has the word again (revelábit condénsa).",
+      "options": [
+        {"label": "em ramos densos", "forms": {"condensis": "em ramos densos"}, "note": "Draft. 'in' kept as 'em', 'densos' is the Latin's own word, 'ramos' supplied as Douay-Rheims supplies 'boughs'.", "from": "DRB"},
+        {"label": "com ramagens espessas", "forms": {"condensis": "com ramagens espessas"}, "note": "Fuller and clearer ('with'); four syllables over the Latin.", "from": "draft"},
+        {"label": "cobrindo tudo de folhagem", "forms": {"condensis": "cobrindo tudo de folhagem"}, "note": "Matos Soares 1932: a gloss, not the phrase.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "cornu", "refs": ["117:27b"], "latin": "usque ad cornu altáris", "kind": "glossary",
+      "why": "cornu is one of the concrete images rule 5 names, and it recurs through the psalter (74:5–6, 88:18, 91:11, 111:9, 131:17, 148:14). Singular in the Latin (plural in the Greek). Matos Soares 1932 has 'ângulo', pt-PT 'ponta'.",
+      "options": [
+        {"label": "o chifre", "forms": {"cornu": "o chifre"}, "note": "Draft. The animal's horn, concrete; of the two Portuguese words it is the one that is not an insult ('corno').", "from": "draft"},
+        {"label": "a ponta", "forms": {"cornu": "a ponta"}, "note": "pt-PT. What the horn of an altar is; the image goes, and it cannot serve 'exaltábitur cornu ejus'.", "from": "pt-PT"}
+      ]
+    },
+    {
+      "id": "deusmeus", "refs": ["117:28a"], "latin": "Deus meus es tu", "kind": "order",
+      "why": "Said twice in the verse; one slot in two capitalisations. God is addressed: vós.",
+      "options": [
+        {"label": "Vós sois o meu Deus", "forms": {"deusmeus": "Vós sois o meu Deus", "deusmeus_lc": "vós sois o meu Deus"}, "note": "Draft. Natural order, as in Ps 90:2 ('Vós sois o meu amparo').", "from": "draft"},
+        {"label": "O meu Deus sois vós", "forms": {"deusmeus": "O meu Deus sois vós", "deusmeus_lc": "o meu Deus sois vós"}, "note": "The Latin's order, with the weight on 'Deus meus'; 'sois vós, e eu vos' crowds the pronouns.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "117:1": "The incipit and the refrain: see the decisions 'confiteri' and 'refrain'. 'quóniam bonus' has no pronoun; 'ele' is supplied (rule 2), as Matos Soares 1932 and the Diurnal do. 117:29 is the same verse and is built from the same slots.",
+    "117:2": "The Latin has 'quóniam bonus' only in this verse of the three (the LXX has it in all three, and 'house of Israel'): the Latin is followed. nunc → 'agora' (Matos Soares 1932, pt-PT). See the decision 'dicat' for the colon after 'Israel'.",
+    "117:3": "domus → casa (glossary). 'Aarão' in the current Brazilian spelling (the Diurnal has it; Matos Soares 'Arão').",
+    "117:4": "timére + accusative → 'temem o Senhor' (glossary). The plural 'Digam' follows Dicant.",
+    "117:5": "'De tribulatióne' → 'Da tribulação' (out of it; Matos Soares 'No meio da'); tribulátio → tribulação, exaudíre → escutar (glossary); invocáre → invocar. The Latin names the Lord twice and so does the Portuguese; 'o Senhor' is moved before its verb. Both cola run 3 syllables short of the Latin by the checker: nothing is left out.",
+    "117:6": "'quid fáciat mihi homo' → 'o que me faça o homem': the subjunctive kept, and 'homem' closes the verse as homo does, answering 'no homem' of 117:8. Matos Soares adds 'possa'.",
+    "117:7": "ego is expressed in the Latin and kept ('e eu').",
+    "117:8": "The verse ends on a colon, as in the Latin. confídere in → confiar em.",
+    "117:9": "speráre in → esperar em (glossary; known cost: a hearer may take it first as waiting). 'príncipes' closes on a proparoxytone as princípibus does.",
+    "117:10": "gentes → nações (glossary). circuíre is kept apart from circumdáre of the next two verses: rodear / cercar (the Greek has one verb for both; the Latin has two).",
+    "117:11": "See 'figura' and 'ultus'. First colon 2 short of the Latin.",
+    "117:12": "exarsérunt → 'se inflamaram': exardéscere is to take fire, to blaze up. 'sicut … sicut' → 'como … como'. The Latin has no honeycomb (the LXX does). Both pointings hold: the flex colon can be dropped into the first half.",
+    "117:13": "See 'eversus' and 'suscepit'.",
+    "117:14": "laus → louvor. The verb 'é' is supplied, singular, before 'o Senhor'.",
+    "117:15": "No verb in the Latin and none supplied (Matos Soares adds 'ouve-se'). tabernáculum → tenda (glossary, open): the second colon is 3 short of the Latin with it. exsultátio → exultação; 'exultação … salvação' chime inside the first colon as -tiónis … -útis do not; accepted, since neither stands at a cadence against the other.",
+    "117:16": "The threefold 'a direita do Senhor' and the twofold 'agiu com poder' are slots, so they cannot drift. exaltávit me → 'me exaltou', the same verb as exaltábo te in 117:28a. The rhyme flag poder / poder is the Latin's own repetition.",
+    "117:17": "narráre → narrar; ópera → obras.",
+    "117:18": "'morti' kept in front of its verb: 'e à morte não me entregou'.",
+    "117:19": "Two biblical verses in one prayed verse; the inline (20) is not reproduced. ingréssus → 'entrando por elas' (a gerund placed before the main verb is heard as the earlier action); the Latin has íngredi here and intráre in the last colon, the Greek one verb for both, and Portuguese 'entrar' serves both. 'in eas / in eam' → 'por elas / por ela', the Portuguese regency for gates. Last colon 4 over the Latin by the checker; 'esta‿é‿a' runs together in the mouth.",
+    "117:21": "Identical Latin to 117:28b except for the colon before the asterisk, which is reproduced. exaudísti → 'escutastes' (glossary). God is addressed: vós.",
+    "117:22": "The Latin's accusative Lápidem is attracted to its relative; Portuguese cannot show it. ædificántes → 'os construtores' (pt-PT, Diurnal; Matos Soares 'edificadores'); reprobáre → 'rejeitar' with all three antecedents ('reprovar' is now an exam word).",
+    "117:23": "'A Dómino' kept in first place: 'Pelo Senhor'. factum est → 'foi feito', on the psalm's thread of fácere. mirábile → 'maravilhoso', in the family of mirificáre → fazer maravilhoso (glossary); Matos Soares and pt-PT 'admirável'.",
+    "117:24": "exsultáre → exultar, lætári → alegrar-se, 'in ea' → 'nele' (the day).",
+    "117:25": "The Latin has 'o', so 'Ó Senhor' (glossary). salvum me fac → 'salvai-me', as in Ps 53:3. Two biblical verses in one prayed verse; (26a) not reproduced. 'bendito o que vem em nome do Senhor' is the wording of all three Portuguese antecedents in the parallels file.",
+    "117:26b": "'vobis' are people: vós. 'de domo Dómini' → 'da casa do Senhor' (from it; Douay-Rheims 'out of'). illúxit nobis → 'brilhou para nós': illucéscere is to dawn, to shine, with a dative; the plainer 'nos iluminou' makes it transitive.",
+    "117:27b": "constitúere → estabelecer (glossary); 'Estabelecei' is safe under rule 3 (past 'estabeleci'), where 'Constituí' would not be. 'diem solémnem' → 'um dia solene'.",
+    "117:28a": "exaltábo te → 'vos exaltarei', the verb of 117:16. With 'darei graças' at the mediant the verse does not rhyme; with 'louvarei' it would.",
+    "117:28b": "See 117:21.",
+    "117:29": "See 117:1."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm117.txt, 29 prayed verses, ids kept exactly (117:19 carries biblical v. 20, 117:25 carries 26a, 117:26b carries 27a; 117:26b, 117:27b, 117:28a, 117:28b). The reading of the printed Hetzenauer 1914 page was skipped in the overnight run and is OWED for this psalm."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps117.md (Douay-Rheims there is the right psalm, filed by Bolls as Ps 118). The folder did not exist when I started: nothing of the earlier agent's survived. Lewis & Short consulted for condénsus, prósperor, evérto, illucésco. Latin against the LXX, the Latin followed each time: 'quóniam bonus' only in 117:2 and no 'house' of Israel; 'quia' in the vengeance refrain (not in Rahlfs); no honeycomb in 117:12; 'salvum me fac' with 'me'; cornu singular. Glossary applied: exaudíre → escutar, tribulátio, timére, domus, gentes → nações, circumdáre → cercar, salus → salvação, constitúere → estabelecer, tabernáculum → tenda, speráre in → esperar em, suscípere with suscéptor → amparar, adjútor with adjutórium → auxílio. From Ps 53 (read in its prayed.json; its proposals were not yet in glossary.md): confitéri → dar graças, despícere → olhar de cima, virtus → poder, salvum me fac → salvai-me. Rule 3 checked at every vós imperative: Dai, salvai, dai, Estabelecei are safe; Aperíte → 'abri' is not, and is recast (decision 'aperite'). Two options quote familiar Mass wording from memory and are marked UNVERIFIED in their notes ('refrain', 'haecdies'); neither is the text."},
+    {"step": "checks", "note": "Draft 1: hard pass (29 ids, every mark). Soft: 117:2–4 first cola +3 / +4 (accepted: 'agora' is three syllables for nunc's one and 'a casa de' three for domus' two; nothing is added); 117:5 both cola −3 (accepted: nothing left out; the longer 'em lugar espaçoso' is an option); 117:13 first colon +3 (two passives and the purpose clause all kept); 117:15 second colon −3 (tenda for tabernáculum, glossary); 117:19 last colon +4 ('esta‿é‿a' runs together). Rhyme flags: 117:16 poder / poder, 117:1–4 -misericórdia, 117:10–12 -deles — all three are the Latin's own repetitions at the same places."}
+  ]
+}

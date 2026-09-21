@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "7e473b77a210f8aace3d8d15a09dfde48b925554f0a09d75ef59958a0b9dfa60",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T13:50:03+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"15:4b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"de sanguínibus\",\n          \"portuguese\": \"de sangue\",\n          \"problem\": \"O singular elimina o plural concreto e incomum do latim, que deve ser conservado pela regra do projeto.\",\n          \"fix\": \"de sangues\"\n        }\n      ]\n    },\n    {\n      \"id\": \"15:8\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Providébam Dóminum in conspéctu meo semper\",\n          \"portuguese\": \"Eu antevia o Senhor sempre à minha vista\",\n          \"problem\": \"Neste contexto, providébam exprime ver diante de si. «Antevia» introduz antecipação temporal, sentido registrado no [Aulete](https://www.aulete.com.br/antever), deslocando a imagem da presença constante diante dos olhos.\",\n          \"fix\": \"Eu via o Senhor sempre à minha vista\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, nos demais versículos, o conteúdo e as imagens do latim, inclusive suas construções incomuns. Todas as marcas de pontuação salmódica correspondem às do latim em identidade e ordem.\"\n}"
+}

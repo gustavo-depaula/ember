@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "81537f1c88b4fb78f6c7889246dbcffb3eb415bbdadac06e4d0e025c089c3d85",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T04:18:47+00:00",
+  "reply": "{\"verses\":[{\"id\":\"3:6\",\"severity\":\"major\",\"issues\":[{\"latin\":\"soporátus sum\",\"portuguese\":\"caí em sono profundo\",\"problem\":\"A tradução substitui a voz passiva do latim por uma construção ativa, contrariando a regra de preservação da voz.\",\"fix\":\"fui tomado pelo sono\"}]}],\"overall\":\"A tradução conserva o sentido do latim nos demais versículos. Todas as marcas de apontamento correspondem às do original, na mesma ordem.\"}"
+}

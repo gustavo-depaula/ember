@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "b82ee62271c6492152fa2855a22fff2b77a04a88d3e8f76e35b147f795d835ec",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T13:36:15+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"13:4\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"sicut escam panis\",\n          \"portuguese\": \"como quem come pão\",\n          \"problem\": \"O latim compara o povo devorado ao pão enquanto alimento; a tradução compara os devoradores a quem come pão. A imagem geral permanece, mas o objeto da comparação muda.\",\n          \"fix\": \"como alimento de pão\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o sentido do latim, com uma pequena alteração na comparação de 13:4. Todos os versículos apresentam as mesmas marcas de divisão, na mesma ordem que o original.\"\n}"
+}

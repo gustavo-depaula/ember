@@ -1,0 +1,1027 @@
+{
+  "psalm": 17,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "range": "17:2–17:25",
+  "verses": {
+    "17:2": "Eu vos amarei, Senhor, {fortitudo}: * o Senhor é {firmamentum}, e o meu refúgio, e o meu libertador.",
+    "17:3b": "O meu Deus é {adjutor}, * e nele esperarei.",
+    "17:3c": "{v3c} {protector}, e {cornu} da minha salvação, * e o meu amparo.",
+    "17:4": "{laudans}: * e serei salvo dos meus inimigos.",
+    "17:5": "Cercaram-me as dores da morte, * e as torrentes da iniquidade me perturbaram.",
+    "17:6": "As dores do {inferni} me cercaram, * {s6} os laços da morte.",
+    "17:7a": "Na minha tribulação invoquei o Senhor, * e clamei ao meu Deus.",
+    "17:7b": "E do seu templo santo ele escutou a minha voz, * e o meu clamor, {c7}, entrou nos seus ouvidos.",
+    "17:8": "A terra {m8a} e estremeceu, * os fundamentos dos montes {m8b} e {m8c}, porque ele se irou contra eles.",
+    "17:9": "Subiu {fumus} na sua ira, † e da sua face um fogo se inflamou, * {carb9} foram acesos por ele.",
+    "17:10": "Inclinou os céus, e desceu, * e {caligo} sob os seus pés.",
+    "17:11": "E subiu sobre os querubins, e voou: * voou sobre as asas dos ventos.",
+    "17:12": "E {posuit}, † ao seu redor a sua tenda: * água tenebrosa nas nuvens do ar.",
+    "17:13": "Ao fulgor {c13} passaram as nuvens, * granizo e {carb13} de fogo.",
+    "17:14": "E o Senhor trovejou do céu, † e o Altíssimo {vocem}: * granizo e {carb14} de fogo.",
+    "17:15": "E enviou as suas setas, e os {dissipavit}: * multiplicou os relâmpagos, e os perturbou.",
+    "17:16a": "E apareceram as fontes das águas, * e foram desvendados os fundamentos {orbis}:",
+    "17:16b": "{increpatio}, Senhor, * ao sopro do espírito da vossa ira.",
+    "17:17": "Enviou do alto, e me tomou, * e me {assumpsit} de muitas águas.",
+    "17:18": "Arrancou-me dos meus fortíssimos inimigos, † e dos que me odeiam, * porque se fortaleceram {super}.",
+    "17:19": "{s19} no dia da minha aflição, * e o Senhor se fez {p19}.",
+    "17:20": "E me {eduxit} para a amplidão, * salvou-me, porque {voluit}.",
+    "17:21": "E o Senhor {r21a} segundo a minha justiça, * e segundo a pureza das minhas mãos {r21b}.",
+    "17:22": "Porque guardei os caminhos do Senhor, * e não agi como ímpio {impie}.",
+    "17:23": "Porque todos os seus juízos estão {c23}, * e não afastei de mim {justitias}.",
+    "17:24": "E serei imaculado {cumeo}, * e me {observabo} da minha iniquidade.",
+    "17:25": "E o Senhor {r25} segundo a minha justiça, * e segundo a pureza das minhas mãos {c25}."
+  },
+  "decisions": [
+    {
+      "id": "fortitudo",
+      "refs": [
+        "17:2"
+      ],
+      "latin": "fortitúdo mea",
+      "kind": "glossary",
+      "why": "The psalm opens on a string of titles of God, each a word the psalter uses again (fortitúdo, firmaméntum, refúgium, liberátor; then adjútor, protéctor, cornu salútis, suscéptor). fortitúdo → força is the glossary's working word (117:14 Fortitúdo mea, et laus mea Dóminus; also 30:4, 42:2 with the same \"fortitúdo mea\").",
+      "options": [
+        {
+          "label": "minha força",
+          "forms": {
+            "fortitudo": "minha força"
+          },
+          "note": "Ruling: the glossary row (open) — plain, and left free by virtus → poder. The possessive without article in the vocative, as Portuguese says it (Senhor, minha força).",
+          "from": "glossary"
+        },
+        {
+          "label": "minha fortaleza",
+          "forms": {
+            "fortitudo": "minha fortaleza"
+          },
+          "note": "Matos Soares 1932 (que és a minha fortaleza) and DM1962 (minha fôrça … minha fortaleza, for another Hebrew word). Refused as the glossary refuses it: in Brazil a fortaleza is first a fortress — and a fortress would be heard beside refúgio as one more building.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "firmamentum",
+      "refs": [
+        "17:2"
+      ],
+      "latin": "Dóminus firmaméntum meum",
+      "kind": "word",
+      "why": "firmaméntum (στερέωμα) is \"a support, a prop\" (Lewis & Short) and also the vault of heaven — the same Latin word is the sky in 18:2 and 150:1 and God as support here, 24:14 and 70:3 (grep, nine lines). Portuguese firmamento is only the sky. The Latin ear hears both; the Portuguese ear will hear only the sky.",
+      "options": [
+        {
+          "label": "o meu firmamento",
+          "forms": {
+            "firmamentum": "o meu firmamento"
+          },
+          "note": "Ruling, to be tested on the blind reader: the Latin's word, which keeps the psalter's one word for the vault and for the stay (18:2, 150:1 in firmaménto virtútis ejus) and is sayable. Risk: heard as \"my sky\". If the blind reader hears only the sky, draft 2 moves to option 1.",
+          "from": "draft"
+        },
+        {
+          "label": "o meu esteio",
+          "forms": {
+            "firmamentum": "o meu esteio"
+          },
+          "note": "A concrete prop (a post that holds something up), and a living figure in Brazil (o esteio da família); keeps the image of support. Loses the root firm- and the link with the sky.",
+          "from": "draft"
+        },
+        {
+          "label": "o meu firme apoio",
+          "forms": {
+            "firmamentum": "o meu firme apoio"
+          },
+          "note": "Matos Soares 1932: the sense spelled out in two words; keeps firm-.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a minha firmeza",
+          "forms": {
+            "firmamentum": "a minha firmeza"
+          },
+          "note": "Keeps the root in one word; but a quality where the Latin names a thing that holds.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "17:3b"
+      ],
+      "latin": "Deus meus adjútor meus",
+      "kind": "glossary",
+      "why": "adjútor → auxílio is the glossary's working rendering (117:6–7, 118:114, 9:10, 9:35b); the Latinist has asked for the agent noun auxiliador in each of those psalms. Here the question is sharper: 17:2–3 set four agent nouns side by side (liberátor, adjútor, protéctor, suscéptor) and the Portuguese makes two of them agents (libertador, protetor) and two abstract (auxílio, amparo — D19 settled the latter).",
+      "options": [
+        {
+          "label": "o meu auxílio",
+          "forms": {
+            "adjutor": "o meu auxílio"
+          },
+          "note": "Ruling: the glossary, as held in Pss 9, 117 and 118 (D24). The metonymy is the same as suscéptor → amparo three words later, which is settled.",
+          "from": "glossary"
+        },
+        {
+          "label": "o meu auxiliador",
+          "forms": {
+            "adjutor": "o meu auxiliador"
+          },
+          "note": "The agent noun the Latinist keeps asking for; it would make the series libertador · auxiliador · protetor regular. Long (five syllables) and hardly said.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "v3c",
+      "refs": [
+        "17:3c"
+      ],
+      "latin": "Protéctor meus, et cornu salútis meæ, et suscéptor meus",
+      "kind": "grammar",
+      "why": "The Latin carries the titles on without a verb from 17:2 into 17:3c. 17:3b needs a copula (the Deus meus is not a vocative: \"et sperábo in eum\" follows in the third person); 17:3c can continue the list bare.",
+      "options": [
+        {
+          "label": "O meu",
+          "forms": {
+            "v3c": "O meu"
+          },
+          "note": "Ruling: the list continues without a verb, as the Latin; the verse is heard as more names, after \"O meu Deus é o meu auxílio\".",
+          "from": "draft"
+        },
+        {
+          "label": "É o meu",
+          "forms": {
+            "v3c": "É o meu"
+          },
+          "note": "Matos Soares 1932 (É o meu protector): a copula supplied; clearer, heavier at the head of the verse.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "protector",
+      "refs": [
+        "17:3c",
+        "17:19"
+      ],
+      "latin": "protéctor meus",
+      "kind": "glossary",
+      "why": "protéctor (ὑπερασπιστής, the one who holds a shield over) is in the psalter 19 times (grep); the glossary names protéctor → protetor only as what suscéptor → amparo must stay apart from. This psalm has it three times (17:3c, 17:19, 17:31), beside suscéptor and adjútor in one verse (17:3b–3c). Proposed as a row.",
+      "options": [
+        {
+          "label": "protetor",
+          "forms": {
+            "protector": "protetor",
+            "p19": "o meu protetor"
+          },
+          "note": "Ruling: the cognate, plain; the Latin's agent noun; stays apart from amparo and auxílio. MS1932 protector in all three.",
+          "from": "glossary"
+        },
+        {
+          "label": "defensor",
+          "forms": {
+            "protector": "defensor",
+            "p19": "o meu defensor"
+          },
+          "note": "Keeps a shield-bearer's sense (defending); MS1932 uses defensor for suscéptor — the two would cross.",
+          "from": "draft"
+        },
+        {
+          "label": "escudo",
+          "forms": {
+            "protector": "escudo",
+            "p19": "o meu escudo"
+          },
+          "note": "The Hebrew's image (magen), DM1962. Refused: the Latin has an agent noun, not a shield.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "cornu",
+      "refs": [
+        "17:3c"
+      ],
+      "latin": "cornu salútis meæ",
+      "kind": "glossary",
+      "why": "The glossary's open row cornu → chifre names 17:3c among the places it must serve. The image is the Latin's (κέρας σωτηρίας), and the Benedictus has the same phrase (not quoted here from memory).",
+      "options": [
+        {
+          "label": "o chifre",
+          "forms": {
+            "cornu": "o chifre"
+          },
+          "note": "Ruling: the concrete image (rule 5), as the glossary row; corno is an insult in Brazil. Douay-Rheims \"the horn of my salvation\". Risk: the blind reader listed \"chifre do altar\" as unknown in Ps 117.",
+          "from": "glossary"
+        },
+        {
+          "label": "a força",
+          "forms": {
+            "cornu": "a força"
+          },
+          "note": "Explains the image (MS1932 \"a minha poderosa salvação\" does the same). Refused under D2: an image stays an image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "laudans",
+      "refs": [
+        "17:4"
+      ],
+      "latin": "Laudans invocábo Dóminum",
+      "kind": "order",
+      "why": "The participle stands first in the Latin, absolute (no object: the praise is God's, left unsaid).",
+      "options": [
+        {
+          "label": "Louvando, invocarei o Senhor",
+          "forms": {
+            "laudans": "Louvando, invocarei o Senhor"
+          },
+          "note": "Ruling: the Latin's order, the participle bare, as the Latin; laudáre → louvar (glossary, kept apart from confitéri → dar graças).",
+          "from": "draft"
+        },
+        {
+          "label": "Invocarei o Senhor, louvando-o",
+          "forms": {
+            "laudans": "Invocarei o Senhor, louvando-o"
+          },
+          "note": "Matos Soares 1932's order; supplies an object the Latin does not have.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inferni",
+      "refs": [
+        "17:6"
+      ],
+      "latin": "Dolóres inférni",
+      "kind": "glossary",
+      "why": "inférnus → inferno is an open row held for Gustavo (D22): heard first as the hell of the damned. Here the parallel with death (dolóres mortis, 17:5; láquei mortis, 17:6) makes the sense the realm of the dead; but \"dolóres inférni\" is the Latin's phrase, and it is still the Latin's word.",
+      "options": [
+        {
+          "label": "inferno",
+          "forms": {
+            "inferni": "inferno"
+          },
+          "note": "Ruling: the Latin's word, as 6:6 and 9:18 have it; DRB \"the sorrows of hell\"; MS1932 \"Dores de inferno\".",
+          "from": "glossary"
+        },
+        {
+          "label": "dos infernos",
+          "forms": {
+            "inferni": "dos infernos"
+          },
+          "note": "The old plural for the abode of the dead (the glossary's option; the Creed's wording is from memory, unverified). Would read \"As dores dos infernos\".",
+          "from": "draft"
+        },
+        {
+          "label": "abismo dos mortos",
+          "forms": {
+            "inferni": "abismo dos mortos"
+          },
+          "note": "A paraphrase for the realm of the dead; refused under D2.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeoccupare",
+      "refs": [
+        "17:6",
+        "17:19"
+      ],
+      "latin": "præoccupavérunt me (17:6) · Prævenérunt me (17:19)",
+      "kind": "word",
+      "why": "Two Latin verbs, one Greek verb (προέφθασάν με in both verses: \"came upon me first\"). Lewis & Short præoccupo \"to seize upon beforehand … to take, catch, detect\"; prævenio \"to come before, anticipate\". By D15's test the Latin's variation is an elegance and one Portuguese verb may serve; the pair also ties the two ends of the rescue together (the snares of death came upon me — they came upon me in the day of my affliction).",
+      "options": [
+        {
+          "label": "surpreender, both",
+          "forms": {
+            "s6": "surpreenderam-me",
+            "s19": "Surpreenderam-me"
+          },
+          "note": "Ruling: Matos Soares 1932's verb in 17:6, carried to 17:19 (the Greek's one verb). The hostile \"coming upon first\" is heard; nothing added.",
+          "from": "MS1932"
+        },
+        {
+          "label": "kept apart: surpreender / anteciparam-se a",
+          "forms": {
+            "s6": "surpreenderam-me",
+            "s19": "Anteciparam-se a mim"
+          },
+          "note": "Keeps the Latin's two verbs apart; anteciparam-se a mim is stiff and is left to anticipáre (76:5).",
+          "from": "draft"
+        },
+        {
+          "label": "apanhar / atacar",
+          "forms": {
+            "s6": "apanharam-me",
+            "s19": "Atacaram-me"
+          },
+          "note": "MS1932 at 17:19 (atacaram-me) — it interprets the coming-first as an attack.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "17:7b",
+        "17:13",
+        "17:23",
+        "17:25"
+      ],
+      "latin": "in conspéctu ejus / meo / oculórum ejus",
+      "kind": "glossary",
+      "why": "in conspéctu four times in the first half: the glossary proposes à vista de (Ps 5, 9) and notes that it fails with verbs of motion, where Ps 118 used a vossa presença. Here two builds: the phrase qualifies a noun (clamor meus in conspéctu ejus, 7b; fulgóre in conspéctu ejus, 13) or is a predicate with a place (judícia ejus in conspéctu meo, 23; in conspéctu oculórum ejus, 25).",
+      "options": [
+        {
+          "label": "presença with a noun, vista as predicate",
+          "forms": {
+            "c7": "na sua presença",
+            "c13": "na sua presença",
+            "c23": "à minha vista",
+            "c25": "à vista dos seus olhos"
+          },
+          "note": "Ruling: à vista de where it is a predicate (the glossary proposal, and \"à vista dos seus olhos\" keeps oculórum), a noun phrase where it hangs on a noun and a verb of motion follows (7b entrou), as 118:168–170 did. The noun of seeing kept in the two places where it reads, presence in the other two.",
+          "from": "draft"
+        },
+        {
+          "label": "à vista everywhere",
+          "forms": {
+            "c7": "à sua vista",
+            "c13": "à sua vista",
+            "c23": "à minha vista",
+            "c25": "à vista dos seus olhos"
+          },
+          "note": "One rendering for the phrase; 7b \"o meu clamor, à sua vista, entrou\" and 13 \"Ao fulgor à sua vista\" are stiff.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de everywhere",
+          "forms": {
+            "c7": "diante dele",
+            "c13": "diante dele",
+            "c23": "diante de mim",
+            "c25": "diante dos seus olhos"
+          },
+          "note": "Douay-Rheims \"before him … in my sight … before his eyes\"; MS1932 \"diante de mim\". Plain; loses the noun.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "commota",
+      "refs": [
+        "17:8"
+      ],
+      "latin": "Commóta est … conturbáta sunt, et commóta sunt",
+      "kind": "grammar",
+      "why": "Three passive perfects of motion (ἐσαλεύθη … ἐταράχθησαν καὶ ἐσαλεύθησαν). The Latin repeats commovéri, and the Portuguese repeats one verb for it. The voice: a passive with middle sense, as elsewhere in the glossary rendered by the pronominal form (8:2b se elevou; 7:7a exaltai-vos). The earth is not said to be shaken BY anyone; it shook.",
+      "options": [
+        {
+          "label": "pronominal: se abalou … se perturbaram e se abalaram",
+          "forms": {
+            "m8a": "se abalou",
+            "m8b": "se perturbaram",
+            "m8c": "se abalaram"
+          },
+          "note": "Ruling: the middle sense, which is what the Portuguese pronominal says; one verb twice for commovéri; conturbáre → perturbar (glossary, tried on bones, soul, eye in Ps 6). MS1932 \"abalaram-se\".",
+          "from": "draft"
+        },
+        {
+          "label": "passive: foi abalada … foram perturbados e foram abalados",
+          "forms": {
+            "m8a": "foi abalada",
+            "m8b": "foram perturbados",
+            "m8c": "foram abalados"
+          },
+          "note": "The voice to the letter; heavier (foram … foram), and it suggests an agent.",
+          "from": "draft"
+        },
+        {
+          "label": "estremeceram (for conturbáta)",
+          "forms": {
+            "m8a": "se abalou",
+            "m8b": "estremeceram",
+            "m8c": "se abalaram"
+          },
+          "note": "MS1932 \"estremeceram\" for the foundations; but estremecer is taken by contrémuit in the first colon.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "fumus",
+      "refs": [
+        "17:9"
+      ],
+      "latin": "fumus",
+      "kind": "word",
+      "why": "The plain word for smoke.",
+      "options": [
+        {
+          "label": "fumaça",
+          "forms": {
+            "fumus": "fumaça"
+          },
+          "note": "Ruling: the Brazilian word (DM1962 \"Uma fumaça\").",
+          "from": "DM1962"
+        },
+        {
+          "label": "fumo",
+          "forms": {
+            "fumus": "fumo"
+          },
+          "note": "MS1932; in Brazil fumo is first tobacco.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "carbones",
+      "refs": [
+        "17:9",
+        "17:13",
+        "17:14"
+      ],
+      "latin": "carbónes succénsi sunt · carbónes ignis (×2)",
+      "kind": "word",
+      "why": "Three times: coals kindled from the fire (9), and the refrain-like \"grando et carbónes ignis\" (13, 14 — the Latin repeats it word for word, so the Portuguese does).",
+      "options": [
+        {
+          "label": "carvões",
+          "forms": {
+            "carb9": "carvões",
+            "carb13": "carvões",
+            "carb14": "carvões"
+          },
+          "note": "Ruling: MS1932 in all three (\"carvões de fogo\"); carvões that are kindled (9) and then carvões OF fire (13, 14) keep the Latin's sequence — the coal set alight.",
+          "from": "MS1932"
+        },
+        {
+          "label": "brasas",
+          "forms": {
+            "carb9": "brasas",
+            "carb13": "brasas",
+            "carb14": "brasas"
+          },
+          "note": "DM1962 \"brasas de fogo\"; plainer, but \"brasas foram acesas\" says the fire twice.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "caligo",
+      "refs": [
+        "17:10"
+      ],
+      "latin": "calígo",
+      "kind": "word",
+      "why": "calígo (γνόφος): \"thick air, mist, fog; darkness\" (L&S). ténebræ → trevas comes two verses later, so calígo needs its own word.",
+      "options": [
+        {
+          "label": "uma névoa escura",
+          "forms": {
+            "caligo": "uma névoa escura"
+          },
+          "note": "Ruling: the mist and the dark in two plain words; MS1932 \"uma nuvem obscura\" (nuvem is núbes's, 17:12–13).",
+          "from": "draft"
+        },
+        {
+          "label": "a escuridão",
+          "forms": {
+            "caligo": "a escuridão"
+          },
+          "note": "One plain word; close to trevas (17:12), which the Latin keeps apart.",
+          "from": "draft"
+        },
+        {
+          "label": "a caligem",
+          "forms": {
+            "caligo": "a caligem"
+          },
+          "note": "The cognate; literary, needs a footnote.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "posuit",
+      "refs": [
+        "17:12"
+      ],
+      "latin": "pósuit ténebras latíbulum suum",
+      "kind": "word",
+      "why": "pónere with a double accusative, \"made the darkness his hiding-place\". latíbulum: \"a hiding-place, lurking-place\" (L&S), ἀποκρυφή. The psalm has the same build twice more (17:33 pósuit immaculátam viam meam; 17:35 posuísti ut arcum ǽreum brácchia mea), so the verb chosen here should serve all three.",
+      "options": [
+        {
+          "label": "fez das trevas o seu esconderijo",
+          "forms": {
+            "posuit": "fez das trevas o seu esconderijo"
+          },
+          "note": "Ruling: the Portuguese idiom for pónere + two accusatives (MS1932 \"Fez das trevas o lugar do seu retiro\"); esconderijo is the plain word for latíbulum.",
+          "from": "MS1932"
+        },
+        {
+          "label": "pôs as trevas por seu esconderijo",
+          "forms": {
+            "posuit": "pôs as trevas por seu esconderijo"
+          },
+          "note": "The Latin's verb; the predicative \"por\" is bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "fez das trevas o seu abrigo",
+          "forms": {
+            "posuit": "fez das trevas o seu abrigo"
+          },
+          "note": "abrigo loses the hiding (and is near refúgio).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vocem",
+      "refs": [
+        "17:14"
+      ],
+      "latin": "dedit vocem suam",
+      "kind": "word",
+      "why": "dare vocem is an idiom: to utter, to sound (the Greek ἔδωκεν φωνήν is the same). Portuguese \"deu a sua voz\" is not said. The phrase returns in 45:7 (dedit vocem suam, mota est terra) and 67:34 (dabit voci suæ vocem virtútis).",
+      "options": [
+        {
+          "label": "fez ouvir a sua voz",
+          "forms": {
+            "vocem": "fez ouvir a sua voz"
+          },
+          "note": "Ruling: the idiom (MS1932, DM1962); the light verb yields as it does elsewhere in the glossary (laudem dícere → dar louvor). Proposed as a formula for 45:7.",
+          "from": "MS1932"
+        },
+        {
+          "label": "deu a sua voz",
+          "forms": {
+            "vocem": "deu a sua voz"
+          },
+          "note": "The Latin's verb; a calque, not said in Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "soltou a sua voz",
+          "forms": {
+            "vocem": "soltou a sua voz"
+          },
+          "note": "Idiomatic (soltar a voz) and short; changes the verb as much as option 0.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dissipavit",
+      "refs": [
+        "17:15"
+      ],
+      "latin": "dissipávit eos",
+      "kind": "glossary",
+      "why": "dissipáre → dissipar is an open row that lists 17:15; ἐσκόρπισεν \"scattered\". Here the object is people (eos, the enemies).",
+      "options": [
+        {
+          "label": "dissipou",
+          "forms": {
+            "dissipavit": "dissipou"
+          },
+          "note": "Ruling: the row (one verb for nine verses); \"dissipar a multidão\" is current Portuguese for scattering people.",
+          "from": "glossary"
+        },
+        {
+          "label": "dispersou",
+          "forms": {
+            "dissipavit": "dispersou"
+          },
+          "note": "The plainest word; but it is wanted for dispérgere (58:12 Dispérge illos).",
+          "from": "draft"
+        },
+        {
+          "label": "desbaratou",
+          "forms": {
+            "dissipavit": "desbaratou"
+          },
+          "note": "MS1932: routed; a military sense the Latin does not name.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "orbis",
+      "refs": [
+        "17:16a"
+      ],
+      "latin": "fundaménta orbis terrárum",
+      "kind": "glossary",
+      "why": "orbis terræ → o orbe da terra is an open row (Ps 9:8b); the blind reader did not know orbe. Here the plural terrárum.",
+      "options": [
+        {
+          "label": "do orbe da terra",
+          "forms": {
+            "orbis": "do orbe da terra"
+          },
+          "note": "Ruling: the row, so that the phrase is one phrase through the psalter (the plural terrárum is not heard, as in DRB \"the world\").",
+          "from": "glossary"
+        },
+        {
+          "label": "do mundo",
+          "forms": {
+            "orbis": "do mundo"
+          },
+          "note": "Douay-Rheims \"the foundations of the world\"; plain; loses the orb.",
+          "from": "DRB"
+        },
+        {
+          "label": "da terra",
+          "forms": {
+            "orbis": "da terra"
+          },
+          "note": "MS1932 \"os fundamentos da terra\"; drops orbis.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "increpatio",
+      "refs": [
+        "17:16b"
+      ],
+      "latin": "Ab increpatióne tua",
+      "kind": "glossary",
+      "why": "The noun of increpáre → repreender (working; shared since D21 with árguere). ἀπὸ ἐπιτιμήσεως: the rebuke at which the sea-bed is laid bare. The same phrase opens 75:7 and 103:7 (Ab increpatióne tua fúgient) and closes 79:17. \"ab\" is the cause (at, because of), as Douay-Rheims \"At thy rebuke\".",
+      "options": [
+        {
+          "label": "À vossa repreensão",
+          "forms": {
+            "increpatio": "À vossa repreensão"
+          },
+          "note": "Ruling: the glossary's family; \"À\" gives the cause as DRB's \"At\" does and echoes 17:13 \"Ao fulgor\".",
+          "from": "glossary"
+        },
+        {
+          "label": "Pela vossa repreensão",
+          "forms": {
+            "increpatio": "Pela vossa repreensão"
+          },
+          "note": "The cause spelled out; heavier, and \"pela … pelo\" in the second colon.",
+          "from": "draft"
+        },
+        {
+          "label": "Às vossas ameaças",
+          "forms": {
+            "increpatio": "Às vossas ameaças"
+          },
+          "note": "MS1932 \"às tuas ameaças\"; a threat is not a rebuke.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "assumpsit",
+      "refs": [
+        "17:17"
+      ],
+      "latin": "accépit me: et assúmpsit me",
+      "kind": "word",
+      "why": "Two verbs of taking (ἔλαβεν … προσελάβετο, \"took … took to himself\"). accípere → tomar; assúmere wants a second verb with the sense of taking up to oneself.",
+      "options": [
+        {
+          "label": "recolheu",
+          "forms": {
+            "assumpsit": "recolheu"
+          },
+          "note": "Ruling: \"took up, took in\" — a second verb of taking that says the taking-to-oneself; plain.",
+          "from": "draft"
+        },
+        {
+          "label": "tomou consigo",
+          "forms": {
+            "assumpsit": "tomou consigo"
+          },
+          "note": "The Greek's προσ- spelled out; repeats tomar.",
+          "from": "draft"
+        },
+        {
+          "label": "tirou",
+          "forms": {
+            "assumpsit": "tirou"
+          },
+          "note": "MS1932 \"tirou-me da inundação\": the direction only, not the taking-to-himself.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "17:18"
+      ],
+      "latin": "confortáti sunt super me",
+      "kind": "word",
+      "why": "ἐστερεώθησαν ὑπὲρ ἐμέ: \"they were made strong beyond me\" — stronger than I. confortári → fortalecer-se is the open row from 9:20.",
+      "options": [
+        {
+          "label": "acima de mim",
+          "forms": {
+            "super": "acima de mim"
+          },
+          "note": "Ruling: the Latin's preposition (super = above, beyond); open between \"more than I\" and \"over me\" as the Latin is.",
+          "from": "draft"
+        },
+        {
+          "label": "mais do que eu",
+          "forms": {
+            "super": "mais do que eu"
+          },
+          "note": "The sense stated (DRB \"too strong for me\"; MS1932 \"mais poderosos do que eu\"); closes the openness.",
+          "from": "DRB"
+        },
+        {
+          "label": "contra mim",
+          "forms": {
+            "super": "contra mim"
+          },
+          "note": "A hostile \"over me\"; one of the two readings only.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eduxit",
+      "refs": [
+        "17:20"
+      ],
+      "latin": "edúxit me in latitúdinem",
+      "kind": "word",
+      "why": "edúcere: \"lead out, bring out\"; latitúdo → amplidão is the glossary row, which names this verse.",
+      "options": [
+        {
+          "label": "fez sair",
+          "forms": {
+            "eduxit": "fez sair"
+          },
+          "note": "Ruling: keeps the e- (out) and the leading; \"E me fez sair para a amplidão\".",
+          "from": "draft"
+        },
+        {
+          "label": "levou",
+          "forms": {
+            "eduxit": "levou"
+          },
+          "note": "\"E me levou para a amplidão\": plainer; the out is lost.",
+          "from": "draft"
+        },
+        {
+          "label": "tirou",
+          "forms": {
+            "eduxit": "tirou"
+          },
+          "note": "MS1932 \"Retirou-me\"; \"tirar para\" is not idiomatic.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "voluit",
+      "refs": [
+        "17:20"
+      ],
+      "latin": "quóniam vóluit me",
+      "kind": "glossary",
+      "why": "velle → querer (glossary). \"vóluit me\" with a person as object: he wanted me, he took pleasure in me (ἠθέλησέν με).",
+      "options": [
+        {
+          "label": "me quis",
+          "forms": {
+            "voluit": "me quis"
+          },
+          "note": "Ruling: the glossary verb; \"porque me quis\" is heard in Brazil as \"because he wanted me / loved me\", which is the Latin's range.",
+          "from": "glossary"
+        },
+        {
+          "label": "se agradou de mim",
+          "forms": {
+            "voluit": "se agradou de mim"
+          },
+          "note": "Douay-Rheims \"because he was well pleased with me\": the sense, another verb.",
+          "from": "DRB"
+        },
+        {
+          "label": "me amava",
+          "forms": {
+            "voluit": "me amava"
+          },
+          "note": "MS1932 \"porque me amava\": dilígere's verb (17:2 Díligam → amarei).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "retribuet",
+      "refs": [
+        "17:21",
+        "17:25"
+      ],
+      "latin": "retríbuet mihi … retríbuet mihi (17:21) · retríbuet mihi (17:25)",
+      "kind": "word",
+      "why": "The Latin says retríbuet three times, and 17:25 repeats the first colon of 17:21 word for word: the stanza on the psalmist's innocence is framed by it. Matos Soares 1932 varies (retribuirá … recompensará).",
+      "options": [
+        {
+          "label": "me retribuirá, three times",
+          "forms": {
+            "r21a": "me retribuirá",
+            "r21b": "me retribuirá",
+            "r25": "me retribuirá"
+          },
+          "note": "Ruling: one verb three times (rule 2; glossary retribúere → retribuir outside the vós imperative); 17:21a = 17:25a word for word.",
+          "from": "glossary"
+        },
+        {
+          "label": "retribuirá … recompensará",
+          "forms": {
+            "r21a": "me retribuirá",
+            "r21b": "me recompensará",
+            "r25": "me retribuirá"
+          },
+          "note": "Matos Soares 1932's variation; refused — it drops a repetition the Latin has.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "impie",
+      "refs": [
+        "17:22"
+      ],
+      "latin": "nec ímpie gessi a Deo meo",
+      "kind": "ambiguity",
+      "why": "\"ímpie gérere a Deo\" calques ἠσέβησα ἀπὸ τοῦ θεοῦ μου: to act impiously away from God, i.e. to depart from him in impiety. The preposition is one of separation; Douay-Rheims and Matos Soares both render it \"against\".",
+      "options": [
+        {
+          "label": "contra o meu Deus",
+          "forms": {
+            "impie": "contra o meu Deus"
+          },
+          "note": "Ruling: both Vulgate-family versions (\"have not done wickedly against my God\"; \"não procedi impiamente contra o meu Deus\"); plain. Cost: \"contra\" is not separation. \"agi como ímpio\" for ímpie gessi: the adverb impiamente is heavy and ímpio is the glossary's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "longe do meu Deus",
+          "forms": {
+            "impie": "longe do meu Deus"
+          },
+          "note": "Keeps the separation; heard as \"while far from God\", which the Latin does not say either.",
+          "from": "draft"
+        },
+        {
+          "label": "apartando-me do meu Deus",
+          "forms": {
+            "impie": "apartando-me do meu Deus"
+          },
+          "note": "The sense of the calque spelled out; adds a verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "justitias",
+      "refs": [
+        "17:23"
+      ],
+      "latin": "justítias ejus",
+      "kind": "glossary",
+      "why": "The Latin's plural justítiæ stands for δικαιώματα here (the Greek word that is justificatiónes → preceitos in Ps 118). The glossary row justítiæ (plural) asks that these places decide locally, \"preceitos may be wanted\". But the Latin chose justítia, and this stanza is built on it: justítiam meam (21) — justítias ejus (23) — justítiam meam (25).",
+      "options": [
+        {
+          "label": "as suas justiças",
+          "forms": {
+            "justitias": "as suas justiças"
+          },
+          "note": "Ruling: the Latin's word, keeping the stanza's echo (my justice / his justices); 10:8 has \"as justiças\" and it was never heard as the courts. Douay-Rheims \"his justices\".",
+          "from": "DRB"
+        },
+        {
+          "label": "os seus preceitos",
+          "forms": {
+            "justitias": "os seus preceitos"
+          },
+          "note": "The Greek's sense (δικαιώματα) and MS1932's word; loses the echo and renders the Greek, not the Latin.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cumeo",
+      "refs": [
+        "17:24"
+      ],
+      "latin": "immaculátus cum eo",
+      "kind": "word",
+      "why": "cum eo (μετ᾿ αὐτοῦ): \"with him\". The next stanza is built on cum (17:26–27 Cum sancto sanctus eris), so the preposition should stay.",
+      "options": [
+        {
+          "label": "com ele",
+          "forms": {
+            "cumeo": "com ele"
+          },
+          "note": "Ruling: the Latin's preposition, which 17:26–27 will repeat four times.",
+          "from": "draft"
+        },
+        {
+          "label": "diante dele",
+          "forms": {
+            "cumeo": "diante dele"
+          },
+          "note": "MS1932 \"sem mácula diante dele\": in conspéctu's phrase.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "observabo",
+      "refs": [
+        "17:24"
+      ],
+      "latin": "observábo me ab iniquitáte mea",
+      "kind": "word",
+      "why": "observáre is a second verb of keeping two verses after custodívi (17:22); the Greek has one verb in both (ἐφύλαξα … φυλάξομαι). Reflexive with ab: to keep oneself from.",
+      "options": [
+        {
+          "label": "me guardarei",
+          "forms": {
+            "observabo": "guardarei"
+          },
+          "note": "Ruling: the Greek's one verb (D15's test) and the Portuguese idiom \"guardar-se de\"; MS1932 \"guardar-me-ei da minha iniquidade\".",
+          "from": "MS1932"
+        },
+        {
+          "label": "me acautelarei",
+          "forms": {
+            "observabo": "acautelarei"
+          },
+          "note": "Keeps the verbs apart; \"acautelar-se de\" is to beware of — close, bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "me observarei",
+          "forms": {
+            "observabo": "observarei"
+          },
+          "note": "The cognate; \"observar-se\" is to watch oneself, not to keep away from.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "17:2": "The psalm begins at 17:2 (17:1 is the titulus; D7). The inline marker (3a) is not reproduced. dilígere → amar (glossary); \"Eu vos amarei\" supplies the subject so that the verse does not open on a clitic. refúgium → refúgio, liberátor → libertador. The copula \"é\" is supplied in the second colon (D2), as DRB does.",
+    "17:3b": "speráre in → esperar em (glossary). \"Deus meus\" is not a vocative: the second colon speaks of him in the third person, so the copula is supplied (DRB, MS1932).",
+    "17:3c": "suscéptor → amparo (settled, D19). The four agent nouns of 17:2–3 come out as two agents (libertador, protetor) and two abstracts (auxílio, amparo) — see decision adjutor.",
+    "17:4": "invocáre → invocar; salvus ero → serei salvo.",
+    "17:5": "circumdáre → cercar; conturbáre → perturbar (glossary). Articles supplied (as dores da morte, as torrentes da iniquidade) so that 17:5 and 17:6 match: dolóres mortis / dolóres inférni / láquei mortis. The Greek ὠδῖνες are birth-pangs; the Latin dolóres is pain, and the Portuguese follows the Latin.",
+    "17:6": "láqueus → laço (glossary). The subject stands after the verb as in the Latin (præoccupavérunt me láquei mortis).",
+    "17:7a": "tribulátio → tribulação, clamáre → clamar (glossary). Natural order in the second colon.",
+    "17:7b": "exaudíre → escutar (D3). \"ele\" supplied so that \"do seu templo santo\" is not heard as the voice's origin. templum sanctum → templo santo (5:8b).",
+    "17:8": "irásci → irar-se (glossary); eis → contra eles (MS1932). \"ele\" supplied: the Latin leaves the subject in the verb (the Greek adds ὁ θεός).",
+    "17:9": "a fácie ejus → da sua face (glossary: a fácie → da face de); exardéscere → inflamar-se (117:12). \"ab eo\" → \"por ele\", open between God and the fire as the Latin is (DRB \"by it\").",
+    "17:10": "The second colon has no verb in the Latin and none is supplied.",
+    "17:11": "volávit, volávit: the repetition kept. pennæ → asas (open row; collides with alæ, which this psalm does not have). Chérubim lowercase, as ángelus → anjo.",
+    "17:12": "in circúitu → ao redor (glossary); tabernáculum → tenda (open). \"tenebrósa\" echoes \"ténebras\" in the Latin, and \"tenebrosa\" echoes \"trevas\" only faintly; kept.",
+    "17:13": "præ with the ablative is cause (Douay-Rheims \"At the brightness\"): \"Ao fulgor\" keeps it without spelling it out. fulgor → fulgor (the family of fúlgura in 17:15, which Portuguese cannot keep: relâmpagos). grando → granizo (Brazilian; saraiva is European). The second colon is verbless, as the Latin.",
+    "17:14": "The second colon repeats 17:13's word for word, as the Latin does.",
+    "17:15": "míttere → enviar, here and in 17:17 (Misit de summo), one verb twice. sagítta → seta (glossary). \"et dissipávit eos … et conturbávit eos\": the parallel endings kept (os dissipou … os perturbou).",
+    "17:16a": "reveláre → desvendar (the glossary's verb for reveláre, 118:18); the passive kept. The colon ends on \":\" as the Latin, which runs on into 17:16b.",
+    "17:16b": "The address turns to God in mid-description (tua … tuæ); vós. inspirátio (ἐμπνεύσεως) → sopro; spíritus → espírito (kept: the breath of the spirit of your wrath, the Latin's two nouns).",
+    "17:17": "Misit with no object, as the Latin and DRB (\"He sent from on high\"); MS1932 supplies \"a sua mão\". de aquis multis → de muitas águas, no article, as the phrase is usually said.",
+    "17:18": "erípere de + me → arrancar (glossary: with a source named, arrancar is untouched). odérunt is a perfect with present sense (odi): \"que me odeiam\". confortári → fortalecer-se (open row, 9:20).",
+    "17:19": "afflíctio → aflição. fíeri → fazer-se (open row): \"se fez o meu protetor\".",
+    "17:20": "salvum fácere → salvar (glossary).",
+    "17:21": "púritas → pureza. The Latin's final \":\" (the sentence runs into 17:22) becomes a full stop in the draft's punctuation, since 17:22 opens with its own \"Porque\".",
+    "17:22": "custodíre → guardar (glossary); via → caminho.",
+    "17:23": "judícia → juízos (D15); repéllere a → afastar de (glossary). The order of the second colon made natural (e não afastei de mim as suas justiças).",
+    "17:24": "immaculátus → imaculado (open row).",
+    "17:25": "The first colon is 17:21's, word for word (decision retribuet). Stage one ends here: 17:21 and 17:25 frame the psalmist's account of his innocence, and 17:26 turns to address God (Cum sancto sanctus eris) — see audit."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm17.txt: 54 prayed verses 17:2–17:51 with DO's split ids (17:3b, 17:3c, 17:7a, 17:7b, 17:16a, 17:16b, 17:36a, 17:36b; there is no 17:3a — the first colon of Vulgate verse 3 is inside 17:2, after the inline marker (3a), which is not reproduced). 17:1 is the titulus (D7). Douay-Rheims checked against the Latin at both ends (Bolls chapter 18): 17:2 'I will love thee, O Lord, my strength' = Díligam te, Dómine, fortitúdo mea; 17:51 'Giving great deliverance to his king, and shewing mercy to David his anointed: and to his seed for ever' = Magníficans salútes Regis ejus … usque in sǽculum. The Diurnal Monástico 1962 in the dossier breaks off at Hebrew v. 25. Worked in two stages in one folder, as Ps 9 was: 17:2–17:25 first, then 17:26–17:51 appended. While partial, prayed.json and literal.json carry 'range'; ps017/partial.py (copied from ps009/partial.py) stands in for checks.py, ps017/part.py (from ps009/part.py) builds the critics' sub-folder for stage two. The parallel text 2 Samuel (2 Kings) 22 is not used: its Vulgate is Jerome's version from the Hebrew, not a witness of the Gallican Latin."
+    },
+    {
+      "step": "draft",
+      "note": "Stage one (17:2–17:25), draft 1, from consult/parallels/ps017.md (LXX Rahlfs, Douay-Rheims, Matos Soares 1932 text layer, DM1962 for diction; DO's Portuguese not used, D12). Why the stage ends at 17:25: it is the 27th of the 54 prayed verses, and it closes the unit 17:21–25, framed by the same colon (Et retríbuet mihi Dóminus secúndum justítiam meam) — the psalmist's account of his innocence; 17:26 opens a new movement addressed to God (Cum sancto sanctus eris … Quóniam tu …). Lewis & Short read for præoccupo, latíbulum, firmaméntum. Repeats found with ps005/grep_latin.py: firmaméntum 9 lines (sky in 18:2 and 150:1, support here, 24:14, 70:3); protéctor 19 lines (three in this psalm); 'Ab increpatióne tua' also 75:7, 103:7; 'fortitúdo mea' 30:4, 42:2, 117:14. Glossary applied: dilígere → amar, fortitúdo → força, refúgium, adjútor → auxílio, suscéptor → amparo (D19), speráre in, laudáre → louvar, invocáre, circumdáre → cercar, conturbáre → perturbar, láqueus → laço, tribulátio, clamáre, exaudíre → escutar (D3), irásci, exardéscere → inflamar-se, a fácie → da face, pennæ → asas, in circúitu, tabernáculum → tenda, sagítta → seta, dissipáre → dissipar, orbis terræ → orbe da terra, increpáre (noun) → repreensão, erípere de → arrancar, confortári → fortalecer-se, latitúdo → amplidão, salvum fácere, velle → querer, retribúere → retribuir, custodíre → guardar, judícia → juízos (D15), repéllere a → afastar, immaculátus → imaculado, inférnus → inferno (held for Gustavo, D22). Places where the Latin follows the Greek and the draft follows the Latin: 17:3c 'O meu protetor' (not the Hebrew's shield), 17:6 inferno as dolóres (not cords), 17:17 muitas águas, 17:18 'acima de mim', 17:20 'porque me quis', 17:23 'as suas justiças'. Every vós imperative checked for rule 3: none in stage one (the address to God in 17:16b is by possessives only)."
+    },
+    {
+      "step": "checks",
+      "note": "Stage one, draft 1, through ps017/partial.py (checks.py's own code on 17:2–17:25): hard pass (ids and marks). Mended before the critics: 17:18 flex on the proparoxytone 'fortíssimos' → MS1932's order 'dos meus fortíssimos inimigos'; 17:10 'debaixo dos' → 'sob os' (+5 → +2). Soft flags accepted: 17:8 second colon +4 (three verbs and 'ele' supplied; the Latin's own colon is 26 syllables); 17:7a first colon −3, 17:12 flex −4, 17:16b first colon −3, 17:20 second colon −5, 17:25 second colon −5 (Latin polysyllables: tribulatióne, tabernáculum, increpatióne, quóniam vóluit, oculórum); 17:16a second colon +3 (orbe da terra). Rhymes accepted as the Latin's own: 17:15 dissipou / perturbou (dissipávit eos / conturbávit eos), 17:13 / 17:14 the same final colon (grando et carbónes ignis twice). Every Portuguese colon ends oxytone or paroxytone."
+    }
+  ]
+}

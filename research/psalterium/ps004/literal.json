@@ -1,0 +1,17 @@
+{
+  "tier": 2,
+  "note": "Literal scaffold, not for praying. Follows Latin word order and imagery as far as Portuguese grammar allows. Grammatical number mirrors the Latin (tu for God, vós for the filii hominum) — this does not prejudge the vós/tu decision for the prayed tier.",
+  "producedBy": "Claude (claude-fable-5-1), in session, from dossier.json + interlinear.md + hard-readings.md",
+  "verses": {
+    "4:2a": "Quando eu invocava, ouviu-me o Deus da minha justiça: * na tribulação alargaste para mim.",
+    "4:2b": "Tem piedade de mim, * e ouve a minha oração.",
+    "4:3": "Filhos dos homens, até quando pesados de coração? * para que amais a vaidade, e buscais a mentira?",
+    "4:4": "E sabei que o Senhor tornou admirável o seu santo: * o Senhor me ouvirá quando eu tiver clamado a ele.",
+    "4:5": "Irai-vos, e não pequeis: ‡ as coisas que dizeis nos vossos corações, * nos vossos leitos compungi-vos.",
+    "4:6": "Sacrificai sacrifício de justiça, † e esperai no Senhor. * Muitos dizem: Quem nos mostra os bens?",
+    "4:7": "Foi marcada sobre nós a luz do teu rosto, Senhor: * deste alegria no meu coração.",
+    "4:8": "A partir do fruto do seu trigo, vinho, e azeite * foram multiplicados.",
+    "4:9": "Em paz, a um só tempo, * dormirei, e repousarei;",
+    "4:10": "Porque tu, Senhor, singularmente na esperança * me estabeleceste."
+  }
+}

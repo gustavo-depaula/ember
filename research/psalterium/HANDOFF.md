@@ -1,0 +1,91 @@
+# Handoff — night of 2026-09-20
+
+Written by Claude before a context compaction, for Claude after it. Gustavo has gone to sleep and asked for the rest of the psalms to be translated overnight "using the same method (or improving on it)", with sub-agents to manage context, **few in parallel** (session limits). Read this, then `README.md`, then `ps004/retrospective.md`, then `AGENT-BRIEF.md` and `glossary.md`. `PROGRESS.md` says where the night has got to.
+
+## What this is
+
+A Brazilian Portuguese translation of the Gallican Psalter as prayed in the 1961/62 Breviary — to be recited and chanted beside the Latin column Ember renders from `content/do/horas/Latin/Psalterium/Psalmorum/PsalmN.txt` (never edit `content/do/`). Working dir is the git worktree `…/.claude/worktrees/parallel-prancing-avalanche`; everything lives in `research/psalterium/`. **Nothing is committed** (Gustavo's rule: commit only what he has looked at — do not commit overnight either; do not push).
+
+## Decided (do not reopen)
+
+- **God is addressed as *vós*** (Gustavo, 2026-09-20). Plural humans are also *vós*; a singular human addressee is *tu* (Ps 90's just man). Consequence: never use an *-ir* verb's *vós* imperative where it equals the first-person past (*ouvi*, *abri*, *parti*).
+- **The DO text is the working text, verbatim**; Hetzenauer 1914 page scans (sacredbible.org/hetzenauer1914, indexed by verse range in `VT-21_Psalmi.htm`) are the printed authority. The pilot collation found zero wording divergence, so overnight the per-psalm print read is **skipped** and owed later — say so in each psalm's notes.
+- **Translate the Latin as Latin.** LXX / Hebrew / *iuxta Hebraeos* explain Jerome, never correct him. Hebrew-family Bibles (Ave Maria, CNBB, Matos Soares 1956, RSV-CE, KJV) are witnesses for Portuguese diction only; **Douay-Rheims and Matos Soares 1932 are the Vulgate family** and the ones to read for sense.
+- Pointing: `*` mediant, `†` flex, `‡` = second mediant (the app moves `*` to it and drops `†`). Marks must be reproduced exactly, same order, per prayed verse. Prayed verses are never merged or split; `a`/`b` suffixes and inline `(20)` markers are DO's.
+- Output is CC0; copyrighted consult material only in gitignored `consult/`.
+
+## Leaning, not yet decided — and the working rule for tonight
+
+Gustavo: "I really liked the stylist suggestions, they are really great." The stylist (GPT-6 Astra via Codex, brief in `ps004/prompts/stylist.md`) wanted more native Portuguese than draft 2 of Ps 4 gave. He has not yet said which fixes he takes. **Working rule for the night (provisional, stated at the top of `AGENT-BRIEF.md`):** keep the Latin's *words, images, repetitions and ambiguities*; yield to the ear on *grammar and order* — a copula or auxiliary Portuguese needs may be supplied, a subject may be named, natural word order beats the Latin's order, the plainer of two faithful words wins. Never import the Hebrew's sense, never paraphrase an image, never explain. Matos Soares 1932 is the model of how far a Vulgate translator went; go no further than he did in leaving the Latin, and usually less.
+
+- ***exaudire* → *escutar*** is Claude's recommendation (`words/exaudire.md`), not yet Gustavo's decision; tonight it is the working rendering (*audire* → *ouvir*, *inténdere* → *atender*). Ps 4 draft 2 still says *atender* — Ps 4 is left untouched for Gustavo's decisions in `ps004/decisions.md` / `review.html`.
+
+## The method (slim, after the Ps 4 retrospective)
+
+Per psalm, in its own folder `psNNN/`: gather parallels **at psalm level** (LXX, Hebrew, DRB, Matos Soares 1932) → note the hard readings → literal tier → prayed tier with a `choices` note per verse → `checks.py` (hard checks must pass) → blind readers from another model family (Codex: Latinist gate, stylist with the non-negotiables stated, ambiguity reader who sees only the Portuguese) → revise → `decisions.md` listing what a human must decide. Dropped: machine parse as input, interlinear, separate refiner, MQM scoring. Glossary grows from collisions found while translating, recorded in `glossary.md`; heavy-duty words get a study in `words/` (`words.py`).
+
+## Tooling (all under `research/psalterium/`)
+
+`latin.py` (read DO verses, cola, marks, app pointing) · `collation/collate.py` · `lemmas.py` → `lemma-freq.json` · `lexicon.py <lemma>` (L&S; needs `consult/ls_<LETTER>.json`) · `words.py` (concordances) · `checks.py <dir> <psalm>` · `render.py <dir> <psalm>` (flat text, sheet, table) · `codex.py <workdir> <prompt> <target> <out>` (Codex role, read-only, reply stored verbatim; uses the configured `gpt-6-astra`, CLI 0.155.1) · `compare.py` (Ps 4 comparison psalters → `consult/compare-ps004.js`) · `review.html` (Gustavo's review surface for Ps 4; hand-built). New tonight: `parallels.py` (psalm-level dossier into `consult/parallels/`), `AGENT-BRIEF.md`, `glossary.md`, `PROGRESS.md`.
+
+Environment quirks that cost time:
+- Python is **`python3.13`**; LatinCy lives in `.venv` (only `lemmas.py` and `ps004/dossier.py` need it).
+- The worktree **Bash guard** refuses compound commands/heredocs/loops that contain `git` or `source` anywhere (even in URLs, even "git history" in a string), and refuses launching Chrome. Use one plain command per call, WebFetch for pages, script files instead of heredocs. No screenshots are possible; `review.html` was checked with a Node stub-DOM script only.
+- Matos Soares 1932: `~/Downloads/Vulgata-Padre-Matos-Soares-1.pdf` has a **text layer** — `pdftotext -f N -l N`; Ps 4 is PDF pp. 1021–1022. Never read its pages as images.
+- Bolls (`https://bolls.life/get-text/<T>/19/<psalm>/`): WLC (Hebrew numbering!), DRB (Vulgate numbering), CNBB, RSV2CE, KJV. Its "LXX" is lemmas only. Rahlfs LXX = `consult/lxx-text_accented.csv` + `consult/lxx-E-verse.csv` (LXX psalm numbers = Vulgate's). bibliacatolica.com.br and die-bibel.de block scripts — leave them.
+- **Keep what is consulted** (Gustavo): books and scans in `consult/books/` (Matos Soares 1932 PDF, Diurnal Monástico 1962 scan + OCR, the Hetzenauer pages read for the collation), verifiers in `tests/`. `/tmp` can be erased — only discardable things go there. `consult/` is gitignored and dies with the worktree.
+- Do not assert liturgical facts or Bible wordings from memory (Gustavo's standing rule): fetch, or mark unverified.
+
+## The night's plan
+
+1. Generalise: `parallels.py`, `AGENT-BRIEF.md`, seed `glossary.md`, `PROGRESS.md`.
+2. Order: finish Sunday Compline (90, 133, Nunc dimittis = `Psalm233.txt`), Sunday Prime (53, 117, 118 whole), then Pss 1–150 in order, skipping what is done. Ps 4 stays as Gustavo left it.
+3. One sub-agent per psalm (or per small batch of short psalms), **sequentially — at most two alive at once**. Each reads the brief and the glossary, does the whole method, writes its folder, appends to `glossary.md` and `PROGRESS.md`, and reports in a few lines. The main session only dispatches, spot-checks (`checks.py` exit code, a read of the sheet), and keeps the glossary coherent.
+4. Codex calls are the expensive part: per psalm one Latinist gate + one stylist (+ ambiguity reader for psalms over ~12 verses or wherever the agent is unsure). If Codex hits a limit, agents continue without it and mark the psalm `unreviewed` in `PROGRESS.md`.
+5. Morning report for Gustavo: what was done, what is `unreviewed`, the glossary decisions that need him, the hardest verses.
+
+## Added just before sleep: the unified review site
+
+Gustavo: "the html page you made is GOLD, we should produce one for each psalm… a whole unified thing where we can take a look at the psalms, word studies, and other artifacts… It's very useful as well to generate audit trail for reasons and justifications for choices." So:
+
+- Every psalm's `prayed.json` uses the **slot/decision/audit schema** in `AGENT-BRIEF.md` (`{slot}`s filled by option 0; `decisions[]` with options and who proposed them; `choices{}`; `audit[]`). `latin.py: resolve()` flattens it; `render.py` and `checks.py` use it. Ps 4 is still the older schema.
+- `SITE-BRIEF.md` specifies `site.py` → `site/` (index, a page per psalm in review.html's design with popover decisions and an audit trail, word studies, glossary, method, all-decisions page). A sub-agent builds it while the first psalms are translated. Whether `site/` is committed or gitignored is Gustavo's call — it is regenerable and embeds no copyrighted text (comparisons load from `consult/compare/`).
+- **Layers view** (Gustavo's last request before sleeping): each psalm page can show the method's strata per verse — Latin → literal → draft 1 → draft 2 → … — with word-level diffs and the critic remark that caused each change. It depends on drafts being kept: agents copy `prayed.json` to `prayed.v<k>.json` before every revision (brief step 6). When checking a finished psalm, confirm those files exist if `version` > 1.
+- **The site exists** (built 2026-09-20 night): `python3.13 research/psalterium/site.py` → `site/` (index, psalm pages with layers view and audit trail, words, glossary, method, all decisions); `python3.13 research/psalterium/compare.py <N> [<N>…]` → `consult/compare/ps<NNN>.js` (DRB, Matos Soares 1932 block, Diurnal Monástico 1962 via `diurnal.py`, CNBB, RSV-CE, KJV); test with `node research/psalterium/tests/check-site.js` (ends "all ok"). Never opened in a real browser yet — layout, popover placement, the phone sheet and `localStorage` sharing between `file://` pages are unverified. After each finished psalm: `compare.py <N>`, then `site.py`.
+- **If agents die on a usage limit** (happened once, ~23:15): nothing is lost but the agent's context. Look at the psalm folder (`ls`, which `critic/v*.json` exist, whether `prayed.json` is newer than `prayed.v1.json`), then start a *fresh* agent told exactly what is on disk and to finish from there without re-running critics. The site server (`python3.13 -m http.server 8765 --bind 127.0.0.1 --directory research/psalterium`) survives a session change; "Address already in use" means it is still up.
+- Main-session duties overnight: dispatch one translation agent at a time (the site agent may run beside the first one or two), after each: check `checks.py` exits 0, the JSON parses, the glossary stayed coherent; re-run `site.py` once it exists; keep `PROGRESS.md` true.
+
+## Delegation (Gustavo, ~23:40 on 2026-09-20)
+
+"as long as you document the decisions, and deliberate thoughtfully on them, you can make decisions and then let me review them in the morning." So nothing below blocks on him any more: **`DECISIONS.md` is the log** — cross-psalter rulings with reasons and cost of reversal (D2 the governing rule, D3 *escutar*, D4 *dar ouvidos a*, D5 *dar graças a*, D6 *salvação*, D7 tituli out, D8 Ps 4 draft 3, D9 *in idípsum* deferred, D10–11 Ps 133). After each psalm, rule on the glossary rows its agent left `open` (or defer with a reason), mark them `settled (Dn)` in `glossary.md`, and add the entry. The morning report leads with this file. **Ps 4 is no longer held back**: it is at draft 3 (D8), in the slot schema like the rest; every sentence above that says Ps 4 stays untouched is superseded. `review.html` is now a historical page (draft 2); the site's `ps004.html` is where Ps 4 is reviewed.
+
+## Pacing and destination (Gustavo, ~23:50)
+
+- **Wait 40 minutes between batches.** A batch = the (at most two) agents alive together. When both have reported and been verified, start a background `sleep 2400` and dispatch the next batch only when it returns. This is about his session limit — do not shorten it.
+- **The work is for Divinum Officium**: the finished psalter is meant to become DO's Brazilian Portuguese psalter, so output stays in DO's line format with DO's ids and marks. DO's present Portuguese (`content/do/horas/Portugues/`) is **no authority** — partly his own recent AI-assisted contributions, many mistakes — never evidence for a wording (DECISIONS.md D12).
+
+## Where the run stands, and how batches are shaped (00:15 on 2026-09-21)
+
+Done and verified: Pss 1–15 and 17 (7 at draft 3, 9 at draft 7, **17 whole**, staged, draft 5), 53, 90, 117 (draft 3), **118 whole** (176 verses, draft 17), 133, Nunc dimittis. Rulings through D31. The pilot Hours (Sunday Compline and Prime) are complete. Next: Ps 16 and Pss 18–20, then on in order. Known dossier gaps (Ps 17 agent): `parallels.py` gave no CNBB / Ave Maria / RSV block for Ps 17 though `compare.py` has them, and the Diurnal text stops at Hebrew v. 25 of Ps 18(H); `render.py` needs the psalm number as its second argument (about 30 prayed verses per agent; a psalm over ~35 verses goes alone and staged, as Ps 9 was), two agents per batch now that Ps 118 no longer takes one. From Ps 9 on (2026-09-21, after the Fable limit was reached) translation agents run on Opus 5 (`model: "opus"`); Pss 1–8, 53, 90, 117, 118, 133, 233 were made on Fable 5.1. Reusable helpers the Pss 5–6 agent left in `ps005/`: `grep_latin.py` (accent-blind grep over the DO Latin), `glossary_add.py`, `audit_add.py`, `progress_add.py` — point later agents at them.
+- **Ps 118 is staged** in one folder: `"range"` in `prayed.json` / `literal.json` says how far it goes; each later agent *appends* verses and *adds slots to the existing term decisions* (never new decisions for the same term), reads the `handoff` audit step and `words/ps118-terms.md` (with its D15 note: *sermo → palavras*), and after every `render.py` runs `ps118/partial.py` (the shared `checks.py` cannot take a partial psalm; `render.py` writes all 176 Latin verses, which `partial.py` trims). Portions of ~48 verses (six stanzas): 33–80, 81–128, 129–176. Only one Ps 118 agent at a time. `site.py` shows a staged psalm's translated run.
+- **A batch** = one Ps 118 portion + one agent taking the next psalms of 1–150 in order (group short ones: about 30 prayed verses per agent — Pss 1–3 first; Ps 4 is done). 40 minutes between batches.
+- After each batch: `checks.py` (or `partial.py`) exit 0, read the sheet, `compare.py <N>`, `node tests/check-site.js` (rebuilds the site; must end "all ok"), rule on what the agents left `open` → `DECISIONS.md` + `tests/settle.py Dn '<row>'…`, apply any overruling as a new draft with a `draft3.py`-style script in the psalm folder (drafts are never overwritten), update `PROGRESS.md`.
+
+## Open for Gustavo
+
+Every ruling in `DECISIONS.md` marked "Claude, for review" waits on him; D1, D12 and D28 are his. In the order they most change the text (updated 2026-09-21):
+
+1. **D2** — the governing rule (as revised by D28): Latin's words and images kept, the ear leads on grammar and order.
+2. **D5** — *confitéri → dar graças a* (dozens of verses; the noun *conféssio* still open).
+3. **D3** — *exaudíre → escutar* (the versicle *Dómine, exáudi oratiónem meam* goes with it).
+4. **D18** — the homograph ban kept at *Servíte Dómino* (2:11; 99:2 to come): *Sede servos do Senhor*. The ban's highest price so far.
+5. **D26** — *elóquium* as the clause *o que dissestes* in all twenty places of Ps 118.
+6. **D21** — *árguere → repreender* (6:2 = 37:2, the opening of two Penitential Psalms).
+7. **D22** — *inférnus → inferno* (6:6; 15:10 and 138:8 are the hard places), not settled.
+8. **D25** — 7:13 *Se não vos converterdes*, against the agent's *voltardes*.
+9. **D17** — God speaking to one person says *tu* (2:7).
+10. The places held against the Latinist gate on purpose — D10, D20, D24, D25, D27 list them; the Latinist has been shown inconsistent between runs (D24), so each rests on its own reason. New since: 15:4b *de sangue* (D29) and 17:3b–c *auxílio*, *amparo* (D19, D24).
+11. **D30** — *orbis terræ → o mundo* (about a dozen lines; Ps 9:8b redrafted). **D31** — *firmaméntum → esteio* when said of God. **D29** — the plural of blood → *sangue*.
+12. For the ear: 14:5b *para sempre não será abalado* (D23's words; the stylist's worst line, *jamais será abalado* the option; 124:1 and 111:6 meet the same choice); 17:2–3's mixed series *libertador, auxílio, protetor, amparo* (one change each in the decisions `adjutor`, `susceptor` makes it regular); 17:34 *e sobre as alturas me firmando*.
+
+Older and still open: *in idípsum* (D9); tituli (D7); the Ps 4 verse decisions; Rahlfs-via-CCAT licensing before any CC0 publication; a human Latinist reviewer; the owed Hetzenauer print reads (every psalm's audit says so).

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "3b911d3c030d5c9832d63b26cfc3d3a892dd2f8d3887a0abb2787220882b515b",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T03:48:06+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução é adequada ao latim em todos os versículos, preservando os sentidos, as imagens e as particularidades do texto latino. As marcas de divisão são as mesmas e aparecem na mesma ordem em todos os versículos.\"}"
+}

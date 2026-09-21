@@ -26,6 +26,7 @@ content/_archive/*/sources/
 
 # Copyrighted texts consulted during research — cite, never commit (see research/README.md)
 research/**/consult/
+research/**/.venv/
 
 # Expo
 .expo/

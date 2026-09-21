@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "495532c698f264d2cfe381b1836b8419029693e6a106cc793d374fc07b536d2f",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T13:40:50+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução conserva o sentido e as formas verbais do latim em todos os versículos, sem acréscimos ou omissões de conteúdo. As marcas de apontamento são as mesmas e aparecem na mesma ordem em todos os versículos.\"}"
+}

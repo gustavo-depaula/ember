@@ -1,0 +1,30 @@
+{
+  "tier": 3,
+  "version": 2,
+  "note": "Prayed tier, draft 2 (draft 1 is prayed.v1.json — the text every critic/prayed-v1.* verdict is about). Address settled as vós (Gustavo, 2026-09-20, for the whole corpus), so the tu variants are gone. The wording of each verse is still open — see decisions.md.",
+  "address": "vós",
+  "producedBy": "Claude (claude-fable-5-1), in session: psalm-level draft from literal.json + hard-readings.md, then verse-level pass against the design doc's principles table; literal tier had passed both Codex Latinist critics (critic/literal.latinist.*). Draft 2 = draft 1 revised by Claude after critic/prayed-v1.* — only changes that cost no fidelity were taken.",
+  "verses": {
+    "4:2a": "Quando invoquei, atendeu-me o Deus da minha justiça: * na tribulação me abristes espaço.",
+    "4:2b": "Tende piedade de mim, * e atendei a minha oração.",
+    "4:3": "Filhos dos homens, até quando de coração pesado? * por que amais a vaidade, e buscais a mentira?",
+    "4:4": "E sabei que o Senhor fez maravilhoso o seu santo: * o Senhor me atenderá quando eu clamar a ele.",
+    "4:5": "Irai-vos, e não pequeis: ‡ do que dizeis nos vossos corações, * nos vossos leitos compungi-vos.",
+    "4:6": "Sacrificai um sacrifício de justiça, † e esperai no Senhor. * Muitos dizem: Quem nos mostra os bens?",
+    "4:7": "A luz do vosso rosto está marcada sobre nós, Senhor: * destes alegria no meu coração.",
+    "4:8": "Pelo fruto do seu trigo, vinho e azeite * se multiplicaram.",
+    "4:9": "Em paz, a um só tempo, * dormirei e repousarei;",
+    "4:10": "Porque vós, Senhor, a sós na esperança * me estabelecestes."
+  },
+  "choices": {
+    "4:2a": "exaudire → atender, not ouvir: under vós the imperative 'ouvi' (4:2b) is the same word as 'eu ouvi', and atender carries the ex- ('hear and grant'). Kept identical across exaudívit / exáudi / exáudiet (4:2a, 4:2b, 4:4). 'me abristes espaço' for dilatásti mihi keeps the image of width against tribulatio as a tight place; 'espaço' is the object Portuguese needs — the Claude judge counts it a minor addition. Alternatives: me destes largueza; me alargastes.",
+    "4:3": "gravi corde as ablative of quality: 'de coração pesado'. No verb supplied, as in the Latin; the stylist wants one ('tereis'). 'por que' for ut quid.",
+    "4:4": "mirificávit → fez maravilhoso, chosen so 15:3, 16:7 (Mirífica misericórdias tuas) and 30:22 can take the same verb, and so it does not collide with magnificare → engrandecer. The stylist hears it as assembled; its fix ('fez maravilhas pelo seu santo') says what the Hebrew says, not the Latin. cum clamávero → future subjunctive.",
+    "4:5": "First colon is 5 syllables short of the Latin (checks.py) — accepted: nolíte + infinitive is only the Latin negative imperative, and 'não queirais pecar' would pad the line with a calque. compungi-vos keeps the sting of compungi; the stylist finds it unrecognisable and offers 'arrependei-vos'. 'do que' is the regency Portuguese needs for the Latin accusative of respect. Reads under both pointings: mediant at ‡ (the app) or at *.",
+    "4:6": "Sacrificai um sacrifício keeps the figura etymologica; 'um' added in draft 2 because the stylist could not say 'Sacrificai sacrifício' (the Latin has the same repetition, so the repetition stays). bona plural → os bens — the back-translator notes it can be heard as possessions. osténdit taken as present.",
+    "4:7": "Signátum → marcada, perfect passive. Draft 1 opened 'Assinalada está…' (cognate: signum/sinal), cut to 'Marcada' when checks.py flagged +3 syllables under vós. Draft 2 puts the subject first: the stylist heard the participle-first opening as manufactured solemnity and the reorder costs no sense — but the Latin's word order is lost. Alternatives: assinalada; impressa (the coin-stamp sense in L&S).",
+    "4:8": "a fructu → pelo fruto (the Latin's καρποῦ, not Rahlfs' καιροῦ). Subject of multiplicáti sunt left unnamed, as in the Latin; but the Latin's masculine plural excludes wheat, wine and oil as subject, and the Portuguese does not (back-translator, stylist).",
+    "4:9": "in idípsum: draft 1 'juntamente' (taken from the gpt-5.5 critic) was rejected by the stylist and the Claude judge — it dangles: together with what? Draft 2 returns to 'a um só tempo', which is what ἐπὶ τὸ αὐτό does with two verbs. Whether one rendering can serve 33:4, 40:7, 61:10, 73:6, 121:3 is open. dormirei / repousarei echo as dórmiam / requiéscam do.",
+    "4:10": "singuláriter → a sós (κατὰ μόνας): as open as the Latin about who is alone, God or me. Draft 1 'singularmente' read as essay prose to the stylist; its fix, 'só vós', closes the ambiguity and was not taken."
+  }
+}

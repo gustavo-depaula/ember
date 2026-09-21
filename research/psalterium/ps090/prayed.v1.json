@@ -1,0 +1,232 @@
+{
+  "psalm": 90,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "note": "Draft 1 — the text every critic/v1.* verdict is about. Reconstructed by the translator from the session after the first edits to prayed.json had begun (the keep-every-draft rule arrived mid-revision); its resolved text was checked to be identical to prayed.v1.vos.json, the flat file the critics actually read.",
+  "verses": {
+    "90:1": "Quem habita {adjutorio} do Altíssimo, * na proteção do Deus do céu {commorabitur}.",
+    "90:2": "Dirá ao Senhor: Vós sois o meu {susceptor} e o meu refúgio: * {deusmeus}.",
+    "90:3": "Porque {ipse} me livrou do laço dos caçadores, * e da palavra áspera.",
+    "90:4": "Com {scapulis} {obumbrabit}: * e sob as suas {pennis} esperarás.",
+    "90:5": "A sua verdade te cercará com um escudo: * {timebis},",
+    "90:6": "{v6}",
+    "90:7": "Cairão mil ao teu lado, † e dez mil à tua direita: * mas de ti não se aproximará.",
+    "90:8": "{verumtamen} com os teus olhos contemplarás: * e verás {retributionem} dos pecadores.",
+    "90:9": "Porque vós sois, Senhor, a minha esperança: * {posuisti}.",
+    "90:10": "O mal não chegará a ti: * e o flagelo não se aproximará {tabernaculo}.",
+    "90:11": "Porque {mandavit}: * para que te guardem em todos os teus caminhos.",
+    "90:12": "Nas mãos te levarão: * {offendas}.",
+    "90:13": "Andarás sobre a áspide e o basilisco: * e {conculcabis} o leão e o dragão.",
+    "90:14": "Porque esperou em mim, eu o livrarei: * eu o protegerei, porque conheceu o meu nome.",
+    "90:15": "Clamará a mim, e eu o escutarei: ‡ com ele estou na tribulação: * eu o {eripiam} e o glorificarei.",
+    "90:16": "Eu o encherei {longitudine}: * e lhe mostrarei a minha salvação."
+  },
+  "decisions": [
+    {
+      "id": "adjutorio", "refs": ["90:1"], "latin": "in adjutório", "kind": "glossary",
+      "why": "The Latin follows the LXX (ἐν βοηθείᾳ, 'in the help'), not the Hebrew 'in the secret place / shelter'. Matos Soares 1932 leaves the Vulgate here ('à sombra do Altíssimo'), so he is no guide; DRB has 'in the aid', pt-PT 'no auxílio'. The word is glossary-grade: adjutórium / adjútor recur all over the psalter and open every Hour (Deus, in adjutórium meum inténde).",
+      "options": [
+        {"label": "no auxílio", "forms": {"adjutorio": "no auxílio"}, "note": "Draft. Plain, current, and leaves 'ajudar / ajuda' free if adjuváre needs a different word.", "from": "draft"},
+        {"label": "na ajuda", "forms": {"adjutorio": "na ajuda"}, "note": "Cognate of adjutórium and the plainest word, but 'habitar na ajuda' sounds thinner than 'habitar no auxílio'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "commorabitur", "refs": ["90:1"], "latin": "commorábitur", "kind": "word",
+      "why": "commorári is 'to tarry, abide, sojourn, stay' (L&S); LXX αὐλισθήσεται is 'will lodge, pass the night'. The Latin uses a different verb from hábitat in the first colon, so the Portuguese should too.",
+      "options": [
+        {"label": "permanecerá", "forms": {"commorabitur": "permanecerá"}, "note": "Draft: 'abide' (so DRB). Five syllables, which keeps the colon near the Latin's fifteen.", "from": "draft"},
+        {"label": "morará", "forms": {"commorabitur": "morará"}, "note": "Echoes the -mor- of the Latin by sound and is plainer, but leaves the colon four syllables short and sits close to 'habita'.", "from": "draft"},
+        {"label": "descansará", "forms": {"commorabitur": "descansará"}, "note": "Matos Soares 1932 and pt-PT: nearer the Greek 'lodge for the night' than the Latin verb.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "susceptor", "refs": ["90:2"], "latin": "Suscéptor meus", "kind": "glossary",
+      "why": "suscéptor (ἀντιλήμπτωρ) is 'one who takes up, a guardian, protector' — L&S cites this verse. It recurs often (3:4, 17:3c, 41:9, 45:8 = 45:12, 53:6, 58:10, 58:17–18, 61:3, 88:27, 118:114, 143:2 in DO's numbering), and must not collide with protéctor, which the psalter also uses constantly; prótegam / protectióne stand in this very psalm.",
+      "options": [
+        {"label": "amparo", "forms": {"susceptor": "amparo"}, "note": "Draft. 'Amparar' is what suscípere does (take up, hold up), and 'o meu amparo' is said of a person in current Portuguese. Cost: an agent noun becomes an abstract one, like the refúgium beside it.", "from": "draft"},
+        {"label": "defensor", "forms": {"susceptor": "defensor"}, "note": "Matos Soares 1932 and pt-PT. An agent noun, but it adds the idea of fighting, which suscéptor does not have.", "from": "MS1932"},
+        {"label": "protetor", "forms": {"susceptor": "protetor"}, "note": "DRB 'protector'. Refused as the text: it would make suscéptor and protéctor one word across the psalter.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "deusmeus", "refs": ["90:2"], "latin": "Deus meus sperábo in eum", "kind": "ambiguity",
+      "why": "The man turns from 'es tu' to 'in eum' inside one sentence, and 'Deus meus' hangs between the two: a third predicate (you are my upholder, my refuge, my God) or a nominative left hanging before 'I will hope in him'. The Latin does not subordinate; MS1932 and pt-PT do ('em quem esperarei').",
+      "options": [
+        {"label": "o meu Deus, nele esperarei", "forms": {"deusmeus": "o meu Deus, nele esperarei"}, "note": "Draft. Keeps the loose syntax and the jump to the third person; with the article it can be heard either as the third predicate or as the hanging subject, as in the Latin.", "from": "draft"},
+        {"label": "o meu Deus, em quem esperarei", "forms": {"deusmeus": "o meu Deus, em quem esperarei"}, "note": "Matos Soares 1932 and pt-PT: smoother, but the relative clause is not in the Latin and settles the syntax.", "from": "MS1932"},
+        {"label": "meu Deus, esperarei nele", "forms": {"deusmeus": "meu Deus, esperarei nele"}, "note": "Without the article it sounds like a vocative followed at once by 'nele' — the harshest reading of the Latin, and it breaks the working rule of article + possessive.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "ipse", "refs": ["90:3"], "latin": "ipse liberávit me", "kind": "word",
+      "why": "ipse (αὐτός) is emphatic: 'he himself'. MS1932 and pt-PT have plain 'ele'. Note the Latin has the perfect liberávit (the LXX has a future), so 'livrou' stays.",
+      "options": [
+        {"label": "ele mesmo", "forms": {"ipse": "ele mesmo"}, "note": "Draft. Renders ipse, and brings the colon to 17 syllables against the Latin's 18 (without it the colon is 3 short).", "from": "draft"},
+        {"label": "ele", "forms": {"ipse": "ele"}, "note": "MS1932, pt-PT. Lighter, but ipse goes unheard.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "scapulis", "refs": ["90:4"], "latin": "Scápulis suis", "kind": "word",
+      "why": "A Septuagintal image to keep: God overshadows with his shoulder-blades / back (μετάφρενα), where the Hebrew has 'pinions'. scápulæ is 'shoulder-blades; shoulders, back' (L&S).",
+      "options": [
+        {"label": "os seus ombros", "forms": {"scapulis": "os seus ombros"}, "note": "Draft, with pt-PT and DRB ('shoulders'): the plainer of two faithful words.", "from": "draft"},
+        {"label": "as suas espáduas", "forms": {"scapulis": "as suas espáduas"}, "note": "Matos Soares 1932. Exact (the shoulder-blade, where a wing is rooted) but a word few Brazilians say.", "from": "MS1932"},
+        {"label": "as suas costas", "forms": {"scapulis": "as suas costas"}, "note": "The Greek μετάφρενα; but 'com as suas costas' can be heard as God turning his back.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "obumbrabit", "refs": ["90:4"], "latin": "obumbrábit tibi", "kind": "word",
+      "why": "obumbráre with the dative: 'to cast a shade for you'. The same verb and case stand in Lk 1:35 (virtus Altíssimi obumbrábit tibi), so whatever is chosen here will want to match the canticle-side texts later.",
+      "options": [
+        {"label": "te fará sombra", "forms": {"obumbrabit": "te fará sombra"}, "note": "Draft, with MS1932 and pt-PT. Keeps umbra as a noun and the dative.", "from": "draft"},
+        {"label": "te cobrirá com a sua sombra", "forms": {"obumbrabit": "te cobrirá com a sua sombra"}, "note": "Fuller and familiar, but adds 'cobrir' and makes the colon far too long after 'Com os seus ombros'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "pennis", "refs": ["90:4"], "latin": "sub pennis ejus", "kind": "glossary",
+      "why": "pennæ in the plural is 'wings' (LXX πτέρυγας), but the psalter also has alæ (16:8b sub umbra alárum, 35:8, 56:2, 60:5, 62:8b). One Portuguese word for both loses a distinction the Latin keeps.",
+      "options": [
+        {"label": "asas", "forms": {"pennis": "asas"}, "note": "Draft, with MS1932, pt-PT, DRB. The sense; collides with alæ.", "from": "draft"},
+        {"label": "penas", "forms": {"pennis": "penas"}, "note": "The cognate and the concrete image (feathers), and it keeps pennæ apart from alæ; but 'sob as suas penas' is heard first as 'under his sorrows / penalties'. Refused for that ambiguity.", "from": "draft"},
+        {"label": "plumas", "forms": {"pennis": "plumas"}, "note": "Avoids the ambiguity of 'penas' but is decorative where the Latin is plain.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "timebis", "refs": ["90:5", "90:6"], "latin": "non timébis a timóre noctúrno, / A sagítta… a negótio… ab incúrsu, et dæmónio", "kind": "grammar",
+      "why": "timére a + ablative is a Hebraism through the Greek (φοβηθήσῃ ἀπό). It governs the whole of 90:6, which is chanted as a verse of its own and begins with the dependent 'A sagítta'. Two things are at stake: the repeated root timébis / timóre (kept in every option) and the fourfold anaphora of 'a', which Portuguese can keep only by changing the verb's regency.",
+      "options": [
+        {"label": "não temerás o temor noturno, / A seta… a coisa…", "forms": {"timebis": "não temerás o temor noturno", "v6": "A seta que voa de dia, † {negotio_acc} que perambula pelas trevas: * {incursu_acc}, e o demônio {meridiano}."}, "note": "Draft. 'non timébis' word for word, root repeated; the preposition is grammar and yields (rule 2). 90:6 stays a dependent list, as in the Latin, now of direct objects.", "from": "draft"},
+        {"label": "nada temerás do temor noturno, / Da seta… da coisa…", "forms": {"timebis": "nada temerás do temor noturno", "v6": "Da seta que voa de dia, † {negotio_gen} que perambula pelas trevas: * {incursu_gen}, e do demônio {meridiano}."}, "note": "Keeps both the root and the anaphora of 'a' (da… da… da… do), through the idiom 'nada temer de'; cost: 'nada' for 'non'.", "from": "draft"},
+        {"label": "não terás medo do temor noturno, / Da seta… da coisa…", "forms": {"timebis": "não terás medo do temor noturno", "v6": "Da seta que voa de dia, † {negotio_gen} que perambula pelas trevas: * {incursu_gen}, e do demônio {meridiano}."}, "note": "Keeps the anaphora but loses timébis / timóre as one root. pt-PT mixes the two constructions ('assombros nocturnos não temerás, / Da seta…').", "from": "draft"}
+      ]
+    },
+    {
+      "id": "negotio", "refs": ["90:6"], "latin": "a negótio perambulánte in ténebris", "kind": "word",
+      "why": "A hard Septuagintal reading to keep: the LXX read the Hebrew 'pestilence' (deber) as 'thing, matter' (πρᾶγμα, dabar), and the Latin follows with negótium — 'like the Gr. πρᾶγμα, for res, a matter, thing' (L&S). What walks in the dark is left unnamed. MS1932 names it ('o inimigo'), pt-PT interprets ('a trama').",
+      "options": [
+        {"label": "a coisa", "forms": {"negotio_acc": "a coisa", "negotio_gen": "da coisa"}, "note": "Draft. The πρᾶγμα sense exactly, plain, and as unnamed and uneasy as the Latin.", "from": "draft"},
+        {"label": "o negócio", "forms": {"negotio_acc": "o negócio", "negotio_gen": "do negócio"}, "note": "The cognate, and DRB's 'the business that walketh about in the dark'; but in Brazil 'negócio' is either commerce or slang for 'thing', and either way the line turns comic.", "from": "DRB"},
+        {"label": "a trama", "forms": {"negotio_acc": "a trama", "negotio_gen": "da trama"}, "note": "pt-PT: a plot. An interpretation of negótium, not a translation.", "from": "pt-PT"}
+      ]
+    },
+    {
+      "id": "incursu", "refs": ["90:6"], "latin": "ab incúrsu", "kind": "word",
+      "why": "incúrsus is 'a running against, an assault, attack' (L&S); LXX σύμπτωμα is rather a mishap. The Latin keeps it apart from the noonday demon with a comma and 'et' — two terrors, not 'the assaults of the demon' (MS1932).",
+      "options": [
+        {"label": "a investida", "forms": {"incursu_acc": "a investida", "incursu_gen": "da investida"}, "note": "Draft. A rush at someone — the in-currere image — with no other sense.", "from": "draft"},
+        {"label": "o assalto", "forms": {"incursu_acc": "o assalto", "incursu_gen": "do assalto"}, "note": "MS1932 and pt-PT ('assaltos'). Right in a dictionary, but in Brazil 'assalto' is first of all an armed robbery.", "from": "MS1932"},
+        {"label": "o ataque", "forms": {"incursu_acc": "o ataque", "incursu_gen": "do ataque"}, "note": "Plainest; in everyday speech also a fit or seizure.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "meridiano", "refs": ["90:6"], "latin": "dæmónio meridiáno", "kind": "word",
+      "why": "A reading to keep (LXX δαιμονίου μεσημβρινοῦ; the Hebrew has no demon). The only question is the adjective. checks.py flags 'de dia' († colon) against 'do meio-dia' (final) as a rhyme inside the verse.",
+      "options": [
+        {"label": "do meio-dia", "forms": {"meridiano": "do meio-dia"}, "note": "Draft, with MS1932 and pt-PT. Plain. The echo dia / meio-dia is the Latin's own (die / meri-diáno is the same root), so it is accepted.", "from": "draft"},
+        {"label": "meridiano", "forms": {"meridiano": "meridiano"}, "note": "The cognate; removes the echo and ends the verse on the Latin's own cadence, but 'meridiano' today is first a line on a map.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "verumtamen", "refs": ["90:8"], "latin": "Verúmtamen", "kind": "glossary",
+      "why": "verúmtamen ('but yet, nevertheless') renders πλήν and recurs in the psalter (31:6, 38:6–7, 38:12, 48:16, 61:5–6, 61:10, 67:22, 72:18, 84:10, 139:14), so it wants one word. MS1932 drops it ('E tu').",
+      "options": [
+        {"label": "Todavia,", "forms": {"verumtamen": "Todavia,"}, "note": "Draft. Current, a little grave, four syllables like the Latin word.", "from": "draft"},
+        {"label": "Contudo,", "forms": {"verumtamen": "Contudo,"}, "note": "Same sense, but here it piles up 'Contudo, com… contemplarás'.", "from": "draft"},
+        {"label": "Mas", "forms": {"verumtamen": "Mas"}, "note": "DRB 'But'. Plainest and weakest; leaves the colon short.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "retributionem", "refs": ["90:8"], "latin": "retributiónem peccatórum", "kind": "glossary",
+      "why": "retribútio is neutral — a paying back — and in other psalms it is a good thing (102:2 retributiónes ejus). MS1932 and pt-PT narrow it to 'castigo'; DRB has 'reward'.",
+      "options": [
+        {"label": "a retribuição", "forms": {"retributionem": "a retribuição"}, "note": "Draft. The cognate, as neutral as the Latin, and usable where the repayment is good.", "from": "draft"},
+        {"label": "o castigo", "forms": {"retributionem": "o castigo"}, "note": "MS1932 and pt-PT. Clearer here, but it says more than the Latin and cannot serve 102:2.", "from": "MS1932"},
+        {"label": "a paga", "forms": {"retributionem": "a paga"}, "note": "Short, concrete and neutral; slightly colloquial.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "posuisti", "refs": ["90:9"], "latin": "Altíssimum posuísti refúgium tuum", "kind": "grammar",
+      "why": "The verse turns in the middle: the first half speaks to God (vós), the second to the just man again (tu). In Latin both are 'tu', so the turn is unmarked; in Portuguese 'puseste' and 'pusestes' differ by one consonant, and the ear may miss it. Rule 2 allows naming a subject hidden in the verb ending.",
+      "options": [
+        {"label": "tu puseste o Altíssimo por teu refúgio", "forms": {"posuisti": "tu puseste o Altíssimo por teu refúgio"}, "note": "Draft, with MS1932 ('Tu puseste o Altíssimo por teu refúgio'). 'tu' makes the turn audible against 'vós' in the first half. 'pôr por' takes the predicate without article.", "from": "MS1932"},
+        {"label": "puseste o Altíssimo por teu refúgio", "forms": {"posuisti": "puseste o Altíssimo por teu refúgio"}, "note": "Word for word; the turn rests on the -ste ending and on 'teu'.", "from": "draft"},
+        {"label": "tu fizeste do Altíssimo o teu refúgio", "forms": {"posuisti": "tu fizeste do Altíssimo o teu refúgio"}, "note": "DRB 'thou hast made'. More native, keeps the article, but pónere becomes 'fazer'.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "tabernaculo", "refs": ["90:10"], "latin": "tabernáculo tuo", "kind": "glossary",
+      "why": "tabernáculum (σκήνωμα) is a tent; it recurs for man's dwelling and for God's (14:1 in tabernáculo tuo). One word should serve both.",
+      "options": [
+        {"label": "da tua tenda", "forms": {"tabernaculo": "da tua tenda"}, "note": "Draft, with MS1932 and pt-PT. The concrete image, plain.", "from": "draft"},
+        {"label": "do teu tabernáculo", "forms": {"tabernaculo": "do teu tabernáculo"}, "note": "The cognate; in Portuguese it now means the tabernacle of the altar or of Moses, not a man's tent.", "from": "draft"},
+        {"label": "da tua morada", "forms": {"tabernaculo": "da tua morada"}, "note": "DRB 'dwelling'. An abstraction in place of the image.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "mandavit", "refs": ["90:11"], "latin": "Ángelis suis mandávit de te", "kind": "word",
+      "why": "mandáre + dative + de: 'he has given his angels a charge concerning you' (perfect in the Latin; the LXX has a future). mandáre is the verb of mandáta → mandamentos in the glossary.",
+      "options": [
+        {"label": "deu ordem aos seus anjos a teu respeito", "forms": {"mandavit": "deu ordem aos seus anjos a teu respeito"}, "note": "Draft. Clear at first hearing; loses the mandáre / mandáta link.", "from": "draft"},
+        {"label": "mandou aos seus anjos acerca de ti", "forms": {"mandavit": "mandou aos seus anjos acerca de ti"}, "note": "MS1932. Keeps the root of 'mandamento'; but 'mandou aos seus anjos' is heard at first as 'sent to his angels'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "offendas", "refs": ["90:12"], "latin": "ne forte offéndas ad lápidem pedem tuum", "kind": "grammar",
+      "why": "The man is the subject and the foot the object (offéndere pedem ad: to strike the foot against); 'ne forte' (μήποτε) is 'lest perhaps'. MS1932 and pt-PT make the foot the subject ('para que o teu pé não tropece') and drop 'forte'.",
+      "options": [
+        {"label": "para que não batas com o teu pé numa pedra", "forms": {"offendas": "para que não batas com o teu pé numa pedra"}, "note": "Draft. Keeps the Latin's subject; 'bater com o pé em' is what a Brazilian says (and avoids the idiom 'bater o pé' = to insist). 'forte' is not rendered.", "from": "draft"},
+        {"label": "para que não venhas a bater com o teu pé numa pedra", "forms": {"offendas": "para que não venhas a bater com o teu pé numa pedra"}, "note": "'venhas a' renders 'forte'; three syllables over the Latin.", "from": "draft"},
+        {"label": "para que o teu pé não tropece numa pedra", "forms": {"offendas": "para que o teu pé não tropece numa pedra"}, "note": "MS1932 / pt-PT. The most native; changes the subject.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "conculcabis", "refs": ["90:13"], "latin": "conculcábis", "kind": "glossary",
+      "why": "conculcáre, 'to tread under foot, trample', an intensive; it recurs (55:2–3, 56:4, 138:11) mostly with enemies as the ones who trample.",
+      "options": [
+        {"label": "calcarás aos pés", "forms": {"conculcabis": "calcarás aos pés"}, "note": "Draft, with MS1932 and DRB ('trample under foot'). Keeps the root calc- and the weight of the compound.", "from": "MS1932"},
+        {"label": "pisarás", "forms": {"conculcabis": "pisarás"}, "note": "Plainer and shorter; weaker than the Latin compound.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "eripiam", "refs": ["90:15"], "latin": "erípiam eum", "kind": "glossary",
+      "why": "The Latin has liberábo in 90:14 and erípiam in 90:15 — two verbs (the Greek too: ῥύσομαι / ἐξελοῦμαι). MS1932, pt-PT and DRB give both the same word. erípere is 'to snatch out', and it is one of the psalter's commonest prayers (Éripe me), so it needs a word of its own beside liberáre → livrar.",
+      "options": [
+        {"label": "arrancarei", "forms": {"eripiam": "arrancarei"}, "note": "Draft. The concrete image of e-rípere; 'na tribulação' just before it supplies the 'from where'. Works at the vós imperative (Arrancai-me).", "from": "draft"},
+        {"label": "libertarei", "forms": {"eripiam": "libertarei"}, "note": "Smoother and distinct from 'livrarei'; but it is the cognate of the other verb, liberáre.", "from": "draft"},
+        {"label": "livrarei", "forms": {"eripiam": "livrarei"}, "note": "MS1932, pt-PT. Native; erases the Latin's change of verb.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "longitudine", "refs": ["90:16"], "latin": "Longitúdine diérum", "kind": "word",
+      "why": "'With length of days' (DRB), a noun + genitive. Portuguese has no everyday noun for longitúdo in time; MS1932 drops it ('de dias'), pt-PT turns it into an adjective.",
+      "options": [
+        {"label": "de longos dias", "forms": {"longitudine": "de longos dias"}, "note": "Draft, with pt-PT. Noun becomes adjective, the image stays; the colon is 3 syllables short by checks.py, accepted.", "from": "pt-PT"},
+        {"label": "de longura de dias", "forms": {"longitudine": "de longura de dias"}, "note": "Word for word and the right length; 'longura' is a dictionary word nobody says.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "90:1": "The Latin follows the LXX ('in the help', not 'in the shelter'); kept. protectióne → proteção, so that prótegam in 90:14 (protegerei) answers it, as in the Latin. 'Altíssimo' before the mediant is proparoxytone, exactly like 'Altíssimi' in the Latin.",
+    "90:2": "The quoted man says 'es tu' to God — so 'Vós sois' — and then 'in eum' of God in the third person: the jump is the Latin's and is kept. sperábo in → esperar em (glossary).",
+    "90:3": "liberávit is a perfect in the Latin (future in the LXX): 'livrou'. 'a verbo áspero' is a hard Septuagintal reading (the LXX read dabar 'word' for deber 'pestilence'); kept as 'da palavra áspera', with MS1932, pt-PT and DRB ('sharp word'). Both cadences are proparoxytone in Portuguese as in Latin (áspero / áspera).",
+    "90:4": "From here the just man is addressed: tibi, sperábis → te, esperarás (tu). 'sob' rather than 'debaixo de' only for length. sperábis kept as 'esperarás' (not 'te abrigarás', which is the Hebrew).",
+    "90:5": "Subject moved to the front (the Latin has Scuto … véritas ejus); 'com um escudo' is the ablative of means — MS1932's 'como um escudo' makes it a comparison. véritas → verdade, not the Hebrew-based 'fidelidade'. First colon +3 by checks.py; 'com‿um' runs together in the mouth. 'temor noturno' and not 'terror noturno', which is a medical term. The verse ends on a comma, as in the Latin, because 90:6 depends on it.",
+    "90:6": "Three hard readings kept: the unnamed 'thing' that walks in the dark, the 'investida' as a terror of its own (the Latin's comma and 'et' kept), and the noonday demon. 'perambula' is the cognate of perambulánte and a current Brazilian word; 'pelas trevas' because 'perambular por' is the natural regency (the Latin has in). Rhyme flag dia / meio-dia accepted — see the decision.",
+    "90:7": "The subject of appropinquábit is unexpressed in the Latin (MS1932 supplies '(a morte)'); Portuguese leaves it unexpressed too. appropinquáre is the same verb in 90:7 and 90:10 → 'aproximar-se' in both. The first two cola run 2 syllables short of the Latin, within range.",
+    "90:8": "considerábis → contemplarás (MS1932, pt-PT): 'considerar' in Portuguese is to think over, not to look. Verb moved before its object in the second colon.",
+    "90:9": "The turn in mid-verse is kept: 'vós sois' to God, 'tu puseste … teu' to the man. In Latin both halves are 'tu' and nothing marks the change; the vós/tu system forces the translator's hand here, and the project's reading (second half to the man) is the one that makes sense of 'refúgium tuum'. MS1932 bridges it with '(disseste)'; not taken.",
+    "90:10": "Natural order (subject first) in the first colon; the Latin has the verb first. flagéllum → flagelo (DRB 'scourge'): in Portuguese it is both the whip and the calamity, as wide as the Latin.",
+    "90:11": "mandávit is a perfect (future in the LXX): 'deu ordem'. custodíre → guardar; via → caminho.",
+    "90:12": "'In mánibus' has no possessive in the Latin; none supplied (MS1932 and pt-PT add 'suas'). portábunt → levarão ('carregarão' is the more concrete alternative). First colon −2.",
+    "90:13": "áspide and basilisco kept, with leão and dragão: the Latin's four beasts, not the Hebrew's. Verb moved to the front. leão / dragão echo inside the colon as leónem / dracónem do.",
+    "90:14": "God speaks (first person) to the end of the psalm, of the man in the third person. 'eu o livrarei' rather than the mesóclise 'livrá-lo-ei' of MS1932: the brief asks for mesóclise only where it is natural, and with six futures in three verses it would not be. liberábo → livrarei matches liberávit → livrou in 90:3.",
+    "90:15": "Both pointings respected: it sings with the mediant at ‡ (the app) or at *. exáudiam → escutarei (glossary). '-rei' at ‡ and at the end is flagged as a rhyme by checks.py: accepted, because the Latin has the identical echo (exáudiam eum … glorificábo eum). 'cum ipso sum' keeps its order: 'com ele estou'.",
+    "90:16": "salutáre meum → 'a minha salvação' (glossary, open entry; MS1932, pt-PT, DRB agree). It is the neuter τὸ σωτήριον, 'the saving thing', which the tradition also hears as a person; 'salvação' leaves that open and is not smoothed into 'socorro' or 'Salvador'. It must come out the same in the Nunc dimittis (salutáre tuum). replébo → encherei (not the Hebrew 'saciarei')."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm90.txt. The project reports that it was read against the printed Hetzenauer 1914 (p. 535) and matches word for word; I did not re-read the page."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps090.md. The Douay-Rheims block in that file is the wrong psalm (it shows Vulgate Ps 89: bolls.life numbers DRB by the Hebrew count, parallels.py asks for chapter 90); I fetched chapter 91 by hand into consult/drb-hebrew91-for-ps090.json and used that. Hard readings kept: a verbo áspero, scápulis suis obumbrábit, a negótio perambulánte in ténebris, ab incúrsu et dæmónio meridiáno, áspidem et basilíscum, salutáre meum; the two Latin perfects against the LXX futures (liberávit 90:3, mandávit 90:11). Address: tu for the just man, vós for God in 90:2 and 90:9a, the turn inside 90:9, God in the first person in 90:14–16."}
+  ]
+}

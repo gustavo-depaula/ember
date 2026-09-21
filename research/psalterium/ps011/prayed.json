@@ -1,0 +1,946 @@
+{
+  "psalm": 11,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "11:2": "Salvai-me, Senhor, porque {defecit}: * porque {diminutae} entre os filhos dos homens.",
+    "11:3": "{vana}: * com lábios {dolosa3}, {corde}.",
+    "11:4": "{disperdat} todos os lábios {dolosa4}, * e {magniloquam}.",
+    "11:5": "Os que disseram: Engrandeceremos a nossa língua, † {anobis}, * {dominus}?",
+    "11:6a": "{propter} e do gemido dos pobres, * agora me levantarei, diz o Senhor.",
+    "11:6b": "{ponam}: * {fiducialiter}.",
+    "11:7": "{eloquia}: * {examinatum}.",
+    "11:8": "Vós, Senhor, {servabis} * desta geração para sempre.",
+    "11:9": "Os ímpios andam ao redor: * segundo a vossa {altitudinem} multiplicastes os filhos dos homens."
+  },
+  "decisions": [
+    {
+      "id": "defecit",
+      "refs": [
+        "11:2"
+      ],
+      "latin": "quóniam defécit sanctus",
+      "kind": "word",
+      "why": "defícere: to fail, give out, cease; the Greek ἐκλέλοιπεν ‘has failed, is gone’. The subject is ‘sanctus’ (ὅσιος, the godly man; glossary: sanctus → santo, Ps 4), singular for the kind. The glossary’s working verb for defícere is ‘desfalecer’ (Ps 118:81 …), which here would say that the holy man fainted. Douay-Rheims ‘for there is now no saint’; Matos Soares 1932 ‘porque não se encontra um homem de bem’ (explains). Heard (draft 1): the blind reader took ‘desapareceu o santo’ first as ‘uma pessoa santa específica desapareceu ou morreu, embora não se saiba quem’, and only second as ‘já não há pessoas santas’ — which is the Latin’s generic singular. The Latinist (draft 2, MAJOR): ‘já não há santo’ replaces the Latin perfect with a present statement of existence → ‘desapareceu o santo’.",
+      "options": [
+        {
+          "label": "já não há santo",
+          "forms": {
+            "defecit": "já não há santo"
+          },
+          "note": "Ruling (draft 2): Douay-Rheims’ ‘there is now no saint’. The bare noun after ‘não há’ can only be generic, so the hearer takes it as the Latin means it: the godly man is gone from the earth. The perfect ‘defécit’ is said as the state it has produced (‘has come to an end’ = ‘is no more’); aspect, not sense. Tested: the second blind reading heard ‘Não há mais pessoas santas’ first — the fault of draft 1 is gone. HELD AGAINST THE LATINIST’S MAJOR (draft 2): he wants the perfect back (‘desapareceu o santo’, which he had passed on draft 1). Held because (1) the perfect of defícere here is resultative — ‘has come to an end’ is ‘is no more’ — and both Vulgate-family versions say it as a present state (Douay-Rheims ‘there is now no saint’, Matos Soares 1932 ‘não se encontra’), so this is inside D2’s outer bound; (2) the wording with a perfect was heard as the death of one particular person, a sense the Latin does not have, while this one loses only an aspect; (3) D24: a repeated major is weighed, not obeyed, and this one reverses his own pass.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "desapareceu o santo",
+          "forms": {
+            "defecit": "desapareceu o santo"
+          },
+          "note": "Draft 1. Heard first as the disappearance of one particular holy person — an event about someone, where the Latin’s singular is generic.",
+          "from": "draft"
+        },
+        {
+          "label": "não restou santo",
+          "forms": {
+            "defecit": "não restou santo"
+          },
+          "note": "A past tense that stays generic (a bare noun after a negated verb): a middle way between the gate and the blind reader. Not read by any critic.",
+          "from": "draft"
+        },
+        {
+          "label": "acabou-se o santo",
+          "forms": {
+            "defecit": "acabou-se o santo"
+          },
+          "note": "Colloquial; can be heard as ‘holiness is over’.",
+          "from": "draft"
+        },
+        {
+          "label": "desfaleceu o santo",
+          "forms": {
+            "defecit": "desfaleceu o santo"
+          },
+          "note": "The glossary’s verb for defícere. Refused here: it says the holy man fainted.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "diminutae",
+      "refs": [
+        "11:2"
+      ],
+      "latin": "quóniam diminútæ sunt veritátes a fíliis hóminum",
+      "kind": "grammar",
+      "why": "A passive perfect with middle sense (the Greek ὠλιγώθησαν, ‘became few’); veritátes is plural (αἱ ἀλήθειαι) and stays plural (glossary: véritas → verdade); ‘a fíliis hóminum’ is ‘from among’ (ἀπό). Douay-Rheims ‘truths are decayed from among the children of men’; Matos Soares 1932 ‘as verdades (já) não são apreciadas entre os filhos dos homens’ (another sense). diminúere is only here in the psalter (grep).",
+      "options": [
+        {
+          "label": "diminuíram as verdades",
+          "forms": {
+            "diminutae": "diminuíram as verdades"
+          },
+          "note": "Ruling: the cognate, intransitive, for a passive with middle sense (as Ps 8:2b ‘se elevou’); the plural kept; ‘entre’ for ‘a’ (Matos Soares 1932). The Latinist passed it on draft 1 and, with the words unchanged, marked it (inside his 11:2 major on draft 2) as a change of voice → ‘foram diminuídas as verdades’. Refused: the Portuguese intransitive is the medio-passive the Greek ὠλιγώθησαν means (‘became few’), as ‘se elevou’ for eleváta est in Ps 8:2b, which he passed twice; the passive to the letter asks ‘by whom?’. His wording is option 3.",
+          "from": "draft"
+        },
+        {
+          "label": "minguaram as verdades",
+          "forms": {
+            "diminutae": "minguaram as verdades"
+          },
+          "note": "‘Minguar’ is the waning of the moon: concrete, and exactly ‘became few’. A shade literary.",
+          "from": "draft"
+        },
+        {
+          "label": "foram diminuídas as verdades",
+          "forms": {
+            "diminutae": "foram diminuídas as verdades"
+          },
+          "note": "The passive to the letter; it asks by whom.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vana",
+      "refs": [
+        "11:3"
+      ],
+      "latin": "Vana locúti sunt unusquísque ad próximum suum",
+      "kind": "order",
+      "why": "A plural verb with ‘unusquísque’ in apposition; the Greek has a singular verb here and a plural in the second colon (ἐλάλησεν ἕκαστος … ἐλάλησαν). vana (neuter plural) → ‘coisas vãs’ (glossary: inánia → coisas vãs; vánitas keeps ‘vaidade’). loqui → falar. próximus → ‘próximo’, a proparoxytone, cannot stand at the mediant (rule 4), where the Latin has ‘suum’. Douay-Rheims ‘They have spoken vain things every one to his neighbour’.",
+      "options": [
+        {
+          "label": "Cada um falou ao seu próximo coisas vãs",
+          "forms": {
+            "vana": "Cada um falou ao seu próximo coisas vãs"
+          },
+          "note": "Ruling: the mediant falls on the oxytone ‘vãs’; ‘cada um’ takes the singular verb Portuguese gives it (the Greek’s number; the Latin’s plural returns in the second colon, ‘falaram’). The object after the indirect object puts ‘coisas vãs’ where the stress of the colon falls.",
+          "from": "draft"
+        },
+        {
+          "label": "Falaram coisas vãs, cada um ao seu próximo",
+          "forms": {
+            "vana": "Falaram coisas vãs, cada um ao seu próximo"
+          },
+          "note": "The Latin’s plural verb, apposition and order, and the frame falaram … falaram; but the mediant falls on the proparoxytone ‘próximo’ (rule 4).",
+          "from": "draft"
+        },
+        {
+          "label": "Cada um falou vaidades ao seu próximo",
+          "forms": {
+            "vana": "Cada um falou vaidades ao seu próximo"
+          },
+          "note": "‘Vaidade’ is vánitas’s word (glossary), and is heard as conceit.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dolosa",
+      "refs": [
+        "11:3",
+        "11:4"
+      ],
+      "latin": "lábia dolósa (twice)",
+      "kind": "glossary",
+      "why": "Glossary: dolus / dolósus → engano / enganador (open, Ps 5), which names ‘lábia dolósa 11:3–4’. The phrase is said twice, in consecutive verses, and says the same twice here. The cognate ‘doloso’ is criminal law in Brazil (Matos Soares 1932 ‘lábios dolosos’).",
+      "options": [
+        {
+          "label": "enganadores",
+          "forms": {
+            "dolosa3": "enganadores",
+            "dolosa4": "enganadores"
+          },
+          "note": "Ruling: the glossary’s adjective, both times.",
+          "from": "glossary"
+        },
+        {
+          "label": "enganosos",
+          "forms": {
+            "dolosa3": "enganosos",
+            "dolosa4": "enganosos"
+          },
+          "note": "Of the thing rather than the agent (lips that deceive / deceptive lips); the glossary keeps ‘enganador’.",
+          "from": "draft"
+        },
+        {
+          "label": "dolosos",
+          "forms": {
+            "dolosa3": "dolosos",
+            "dolosa4": "dolosos"
+          },
+          "note": "Matos Soares 1932. A term of criminal law today.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "corde",
+      "refs": [
+        "11:3"
+      ],
+      "latin": "lábia dolósa, in corde et corde locúti sunt",
+      "kind": "word",
+      "why": "‘in corde et corde’ is the Hebrew idiom for a double heart, carried word for word by the Greek (ἐν καρδίᾳ καὶ ἐν καρδίᾳ) and the Latin: the figure is the repetition. Douay-Rheims ‘with a double heart’ and Matos Soares 1932 ‘com coração dúplice’ explain it. ‘lábia dolósa’ stands without a preposition in the Latin (the Greek has a nominative); Portuguese supplies ‘com’, as Douay-Rheims does, so that the lips are not heard as the subject of ‘falaram’ (the Latin’s masculine ‘locúti’ excludes it). Heard (draft 1): the blind reader found ‘com coração e coração falaram’ could be taken as ‘de coração para coração, com sinceridade ou intimidade’ — the Portuguese idiom for the opposite of the Latin — ‘embora lábios enganadores sugira o contrário’. The stylist: the two ‘com’ phrases before the verb make ‘falaram’ arrive artificially → ‘com lábios enganadores, falaram com coração e coração’; ‘a repetição «coração e coração» pode permanecer’.",
+      "options": [
+        {
+          "label": "falaram com um coração e outro coração",
+          "forms": {
+            "corde": "falaram com um coração e outro coração"
+          },
+          "note": "Ruling (draft 2): the stylist’s order (the verb brought forward), and ‘um … outro’ so that the doubled noun is heard as two hearts — duplicity — and not as the idiom ‘de coração para coração’. Both nouns kept (rule 2); the determiners are grammar, far short of Matos Soares 1932’s explanation (‘dúplice’). Cost: two syllables; the colon is five over the Latin.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "falaram com coração e coração",
+          "forms": {
+            "corde": "falaram com coração e coração"
+          },
+          "note": "The stylist’s line: the Latin’s figure bare, the verb brought forward. The blind reader’s ‘heart to heart’ hearing remains possible.",
+          "from": "stylist"
+        },
+        {
+          "label": "com coração e coração falaram",
+          "forms": {
+            "corde": "com coração e coração falaram"
+          },
+          "note": "Draft 1: the Latin’s order and figure. Refused by the stylist (the verb arrives late) and heard by the blind reader as possibly ‘heart to heart’.",
+          "from": "draft"
+        },
+        {
+          "label": "falaram com duplo coração",
+          "forms": {
+            "corde": "falaram com duplo coração"
+          },
+          "note": "Douay-Rheims’ ‘double heart’ (and the Diurnal’s ‘duplo coração’): the sense, but the figure explained.",
+          "from": "DRB"
+        },
+        {
+          "label": "falaram com coração dúplice",
+          "forms": {
+            "corde": "falaram com coração dúplice"
+          },
+          "note": "Matos Soares 1932. Explains, and ends the verse on a proparoxytone.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "disperdat",
+      "refs": [
+        "11:4"
+      ],
+      "latin": "Dispérdat Dóminus",
+      "kind": "glossary",
+      "why": "Glossary: dispérdere → exterminar (working, Ps 53:7; ‘destruir’ is destrúere’s and fails at the vós imperative). A jussive subjunctive with the subject after it.",
+      "options": [
+        {
+          "label": "Extermine o Senhor",
+          "forms": {
+            "disperdat": "Extermine o Senhor"
+          },
+          "note": "Ruling: the glossary verb, the subject after it as the Latin has it — natural for a Portuguese jussive.",
+          "from": "glossary"
+        },
+        {
+          "label": "Que o Senhor extermine",
+          "forms": {
+            "disperdat": "Que o Senhor extermine"
+          },
+          "note": "The wish marked by ‘que’; one syllable more.",
+          "from": "draft"
+        },
+        {
+          "label": "Destrua o Senhor",
+          "forms": {
+            "disperdat": "Destrua o Senhor"
+          },
+          "note": "Matos Soares 1932. ‘Destruir’ is destrúere’s (glossary).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "magniloquam",
+      "refs": [
+        "11:4"
+      ],
+      "latin": "et linguam magníloquam",
+      "kind": "word",
+      "why": "magníloquus: ‘in a bad sense, that speaks in a pompous style, vaunting, boastful’ (Lewis & Short, citing this verse); the Greek μεγαλορήμονα, ‘big-talking’. Only here (grep). It answers ‘Linguam nostram magnificábimus’ of 11:5 — magní- … magnificá-. Douay-Rheims ‘the tongue that speaketh proud things’; Matos Soares 1932 ‘a língua que fala com arrogância’.",
+      "options": [
+        {
+          "label": "a língua que fala grandezas",
+          "forms": {
+            "magniloquam": "a língua que fala grandezas"
+          },
+          "note": "Ruling: both halves of magni-loqua heard (great / speaking), and ‘grandezas’ answers ‘Engrandeceremos’ of the next verse as the Latin’s magní- answers magnificá-. ‘Falar grandezas’ is not a set phrase, but it is heard at once as boasting. The Latinist (draft 1, minor) wanted the boasting explicit, ‘a língua que fala com arrogância’; refused — the blind reader heard ‘a fala de quem se vangloria’ first, so nothing is left unsaid, and his fix breaks the echo with 11:5 (option 3). Draft 2: the Latinist repeated the minor with another fix (‘com altivez’); the second blind reading again heard ‘a fala de quem se vangloria ou faz afirmações arrogantes’ first. Held.",
+          "from": "draft"
+        },
+        {
+          "label": "a língua arrogante",
+          "forms": {
+            "magniloquam": "a língua arrogante"
+          },
+          "note": "One adjective for one; the speaking and the echo are lost.",
+          "from": "draft"
+        },
+        {
+          "label": "a língua que fala com arrogância",
+          "forms": {
+            "magniloquam": "a língua que fala com arrogância"
+          },
+          "note": "Matos Soares 1932. Names the vice where the Latin names the talk; the echo with 11:5 is lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a língua que fala coisas soberbas",
+          "forms": {
+            "magniloquam": "a língua que fala coisas soberbas"
+          },
+          "note": "Douay-Rheims’ ‘proud things’.",
+          "from": "DRB"
+        },
+        {
+          "label": "a língua que fala com altivez",
+          "forms": {
+            "magniloquam": "a língua que fala com altivez"
+          },
+          "note": "The Latinist’s second fix (draft 2, minor; on draft 1 he proposed ‘com arrogância’). Names the manner; the echo with ‘Engrandeceremos’ is lost.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "anobis",
+      "refs": [
+        "11:5"
+      ],
+      "latin": "lábia nostra a nobis sunt",
+      "kind": "word",
+      "why": "‘Our lips are from us’ (the Greek παρ᾿ ἡμῶν ἐστιν, ‘are with us, ours’): they owe their speech to no one. The verse says ‘we / our’ four times (nostram, nostra, nobis, noster). Douay-Rheims ‘our lips are our own’; Matos Soares 1932 ‘somos donos dos nossos lábios’. The Latinist (draft 2, minor, new): possession is a defensible reading, but it effaces the ‘from’ of a nobis, which Peter Lombard’s commentary reads as origin (cited by him, not checked here) → ‘os nossos lábios vêm de nós’.",
+      "options": [
+        {
+          "label": "os nossos lábios são nossos",
+          "forms": {
+            "anobis": "os nossos lábios são nossos"
+          },
+          "note": "Ruling: Douay-Rheims’ sense, and the run of ‘nosso’ that the Latin has (a nossa língua, os nossos lábios são nossos, o nosso senhor). The paroxytone ‘nossos’ at the mediant. Held against the Latinist’s minor (draft 2): possession is the reading of Douay-Rheims (‘our own’), of Matos Soares 1932 (‘somos donos’) and of the Greek’s παρ᾿ ἡμῶν ἐστιν in its usual sense; his ‘vêm de nós’ is option 2 and was the draft’s own second thought.",
+          "from": "DRB"
+        },
+        {
+          "label": "os nossos lábios vêm de nós",
+          "forms": {
+            "anobis": "os nossos lábios vêm de nós"
+          },
+          "note": "The preposition to the letter (a nobis); a verb supplied, and it can be heard of where the lips came from.",
+          "from": "draft"
+        },
+        {
+          "label": "os nossos lábios nos pertencem",
+          "forms": {
+            "anobis": "os nossos lábios nos pertencem"
+          },
+          "note": "Idiomatic (the Diurnal’s ‘nossa bôca nos pertence’); a verb for a preposition.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "dominus",
+      "refs": [
+        "11:5"
+      ],
+      "latin": "quis noster Dóminus est?",
+      "kind": "ambiguity",
+      "why": "The boasters ask who is lord over them: any master, and — by implication — the Lord. Latin speech makes no difference of case; the printed capital of DO is its convention for every Dóminus. Portuguese print must choose. Douay-Rheims ‘who is Lord over us?’ (capital); Matos Soares 1932 ‘quem é o nosso senhor?’ (lower case).",
+      "options": [
+        {
+          "label": "quem é o nosso senhor",
+          "forms": {
+            "dominus": "quem é o nosso senhor"
+          },
+          "note": "Ruling: lower case, as Matos Soares 1932: the word is theirs, and it keeps both readings — no master at all, and so not the Lord either. A capital would make them name God. Heard aloud there is no difference. Heard: ‘uma pergunta desafiadora, negando que alguém tenha autoridade sobre eles’ — as meant.",
+          "from": "MS1932"
+        },
+        {
+          "label": "quem é o nosso Senhor",
+          "forms": {
+            "dominus": "quem é o nosso Senhor"
+          },
+          "note": "The Latin print’s capital; it makes the question a denial of God by name.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "propter",
+      "refs": [
+        "11:6a"
+      ],
+      "latin": "Propter misériam ínopum, et gémitum páuperum",
+      "kind": "glossary",
+      "why": "propter → por causa de (glossary, working; Ps 118:154 took ‘pelo’). inops (ἀπό … πτωχῶν) and pauper (πενήτων) are two words in the Latin and the Greek, often paired (inops et pauper 73:21, 85:1; páuperi et ínopi 71:13; 34:10, 36:14, 112:7, 139:13 — 14 lines with inops, grep), beside egénus (6 lines, grep: 34:10, 40:2, 69:6, 81:3, 81:4, 108:22) and mendícus (39:18, 108:17). pauper → pobre; inops ‘without resources’ → ‘indigente’ (its noun inópia → indigência: 33:10, 43:24, 87:9, 106:41); ‘necessitado’ is left for egénus. miséria → miséria (in Brazil the word for destitution, which is the sense). Matos Soares 1932 ‘Em atenção à miséria dos desvalidos, e ao gemido dos pobres’.",
+      "options": [
+        {
+          "label": "Por causa da miséria dos indigentes,",
+          "forms": {
+            "propter": "Por causa da miséria dos indigentes,"
+          },
+          "note": "Ruling: the glossary’s ‘por causa de’, and inops → ‘indigente’, proposed for the glossary. Long: the colon is six syllables over the Latin. The stylist named 11:6a the psalm’s best line, so the length did not trouble him. The blind reader listed ‘indigentes’ as unknown; kept — it is the current word for the destitute in Brazilian public speech, and its noun ‘indigência’ serves inópia.",
+          "from": "glossary"
+        },
+        {
+          "label": "Pela miséria dos indigentes,",
+          "forms": {
+            "propter": "Pela miséria dos indigentes,"
+          },
+          "note": "Three syllables shorter (‘pelo’ as in 118:154); ‘pela’ can be heard as ‘by means of’.",
+          "from": "draft"
+        },
+        {
+          "label": "Por causa da miséria dos desvalidos,",
+          "forms": {
+            "propter": "Por causa da miséria dos desvalidos,"
+          },
+          "note": "Matos Soares 1932’s noun: the helpless, which is the Latin’s sense by extension.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ponam",
+      "refs": [
+        "11:6b"
+      ],
+      "latin": "Ponam in salutári",
+      "kind": "ambiguity",
+      "why": "The Lord still speaking. ‘Ponam’ has no object in the Latin or the Greek (θήσομαι ἐν σωτηρίᾳ): whom he will set in salvation is left to the hearer — the poor of 11:6a, or (as the next colon’s ‘in eo’ may suggest) one man. salutáre → salvação (D6). Douay-Rheims supplies ‘him’ (‘I will set him in safety’); Matos Soares 1932 ‘os’ (‘Eu os porei em salvo’).",
+      "options": [
+        {
+          "label": "Porei na salvação",
+          "forms": {
+            "ponam": "Porei na salvação"
+          },
+          "note": "Ruling: the Latin’s bare verb; no object is supplied, so neither ‘him’ nor ‘them’ is decided for the hearer (rule 2). To be tested on the blind reader: Portuguese ‘pôr’ wants an object, and the ear may stumble. Tested: the blind reader did not stumble; he supplied the object himself (‘O Senhor dará segurança aos pobres, mencionados imediatamente antes; o objeto de porei não é expresso’) — the Latin’s own openness.",
+          "from": "draft"
+        },
+        {
+          "label": "Eu o porei na salvação",
+          "forms": {
+            "ponam": "Eu o porei na salvação"
+          },
+          "note": "Douay-Rheims’ ‘him’: one man, as ‘in eo’ may point to.",
+          "from": "DRB"
+        },
+        {
+          "label": "Eu os porei na salvação",
+          "forms": {
+            "ponam": "Eu os porei na salvação"
+          },
+          "note": "Matos Soares 1932’s plural: the poor of 11:6a.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Porei a salvo",
+          "forms": {
+            "ponam": "Porei a salvo"
+          },
+          "note": "The idiom ‘pôr a salvo’; loses salvação (D6).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fiducialiter",
+      "refs": [
+        "11:6b"
+      ],
+      "latin": "fiduciáliter agam in eo",
+      "kind": "word",
+      "why": "fiduciáliter: ‘confidently’ (Lewis & Short, citing this verse); the Greek παρρησιάσομαι ἐν αὐτῷ is ‘I will speak / act boldly in him (or it)’. ‘in eo’ is open: in him (the man set in salvation) or in it (the salvation). Douay-Rheims ‘I will deal confidently in his regard’; Matos Soares 1932 ‘nisto procederei confiadamente’ (decides ‘it’).",
+      "options": [
+        {
+          "label": "nele agirei com confiança",
+          "forms": {
+            "fiducialiter": "nele agirei com confiança"
+          },
+          "note": "Ruling: ‘nele’ is as open as ‘in eo’ (him or it); agere → agir (the future, not the banned imperative ‘agi’); the adverb said as Portuguese says it, and the verse ends on a paroxytone. Heard: the blind reader took ‘nele agirei com confiança’ first as the one praying (acting in trust in the Lord), because ‘diz o Senhor’ closes 11:6a; the Latin has the same build (… dicit Dóminus. Ponam …), and Douay-Rheims too. Kept.",
+          "from": "draft"
+        },
+        {
+          "label": "nele agirei confiadamente",
+          "forms": {
+            "fiducialiter": "nele agirei confiadamente"
+          },
+          "note": "One adverb for one (Matos Soares 1932’s adverb); six syllables of it.",
+          "from": "MS1932"
+        },
+        {
+          "label": "nisto procederei com confiança",
+          "forms": {
+            "fiducialiter": "nisto procederei com confiança"
+          },
+          "note": "Matos Soares 1932’s ‘nisto’: decides ‘it’ where the Latin leaves ‘him’ open.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "eloquia",
+      "refs": [
+        "11:7"
+      ],
+      "latin": "Elóquia Dómini, elóquia casta",
+      "kind": "glossary",
+      "why": "D26: elóquium is ‘o que dissestes’ in Ps 118; outside it, where it is a subject with a genitive, the psalm decides between the clause, ‘dito(s)’ and ‘palavra(s)’ and says why — and 17:31 (elóquia Dómini igne examináta) will follow. Here the word is a subject with a genitive, said twice, the second time as predicate: ‘the Lord’s utterances [are] pure utterances’ (τὰ λόγια κυρίου λόγια ἁγνά). No verbum or sermo in the psalm. castus: pure, chaste, holy (ἁγνός); Douay-Rheims ‘pure words’, Matos Soares 1932 ‘palavras sinceras’, the Diurnal (from the Hebrew) ‘palavras sinceras’. ‘puro’ is wanted for mundus (50:12 cor mundum) and purgátum follows in this very verse (‘purificada’). Heard (draft 1): the stylist refused ‘Os ditos do Senhor são ditos castos’ — ‘soa como uma classificação de máximas moralmente recatadas; a combinação chama atenção para o vocabulário e custa a soar como oração’ — and asked for ‘As palavras do Senhor são palavras puras’ (his worst line of the psalm). The blind reader understood the colon as ‘Palavras puras, sem falsidade’ first, but heard ‘castos’, for many, as sexual chastity, and listed ‘castos’ as unknown. So the genitive and the adjective did not save ‘ditos’: it is the ninth refusal of the plural by the stylist (eight in Ps 118, D26), and the first where the word could not be recast as a clause.",
+      "options": [
+        {
+          "label": "As palavras do Senhor são palavras puras",
+          "forms": {
+            "eloquia": "As palavras do Senhor são palavras puras"
+          },
+          "note": "Ruling (draft 2), for D26’s local decision: ‘palavra(s)’. Why, against the clause and ‘ditos’: (1) the clause cannot serve here — the Latin’s figure is the noun said twice, the second time as a predicate (‘utterances … pure utterances’), and ‘o que o Senhor disse’ cannot be repeated so; dropping the repetition is what rule 2 forbids; (2) ‘ditos’ failed the ear once more, now with a genitive and an adjective, where Ps 118’s refusals could be put down to the bare formula; (3) the one thing ‘palavra’ costs — λόγιον against λόγος — costs nothing inside this psalm, which has no verbum and no sermo; (4) it is what Douay-Rheims (‘pure words’) and Matos Soares 1932 have, and the blind reader’s own paraphrase. castus → ‘puras’ (ἁγνός; castus is only here in the psalter, grep): ‘castas’ was heard as sexual chastity, and ‘puro’ meets mundus (50:12 cor mundum) in no verse. 17:31 (elóquia Dómini igne examináta, no verbum or sermo there either) should follow: ‘as palavras do Senhor examinadas no fogo’. Where elóquium stands beside sermo (147:4) or verbum, that verse will still need the clause.",
+          "from": "stylist"
+        },
+        {
+          "label": "Os ditos do Senhor são ditos castos",
+          "forms": {
+            "eloquia": "Os ditos do Senhor são ditos castos"
+          },
+          "note": "Draft 1: the noun D26 keeps available for a genitive, which keeps λόγιον apart from λόγος. Refused by the stylist (‘máximas moralmente recatadas’); ‘castos’ heard by the blind reader as sexual chastity and listed as unknown.",
+          "from": "glossary"
+        },
+        {
+          "label": "Os ditos do Senhor são ditos puros",
+          "forms": {
+            "eloquia": "Os ditos do Senhor são ditos puros"
+          },
+          "note": "Keeps D26’s noun and mends only the adjective. The stylist’s objection to ‘ditos’ (sayings, maxims) stands.",
+          "from": "draft"
+        },
+        {
+          "label": "O que o Senhor disse é puro",
+          "forms": {
+            "eloquia": "O que o Senhor disse é puro"
+          },
+          "note": "D26’s clause. Refused: the Latin’s repetition (elóquia … elóquia) cannot be kept (rule 2).",
+          "from": "glossary"
+        },
+        {
+          "label": "As palavras do Senhor são palavras castas",
+          "forms": {
+            "eloquia": "As palavras do Senhor são palavras castas"
+          },
+          "note": "The Latin’s adjective kept by its cognate; heard as sexual chastity.",
+          "from": "draft"
+        },
+        {
+          "label": "As palavras do Senhor são palavras sinceras",
+          "forms": {
+            "eloquia": "As palavras do Senhor são palavras sinceras"
+          },
+          "note": "Matos Soares 1932 (and the Diurnal). ‘Sincero’ is another word (sincérus).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "examinatum",
+      "refs": [
+        "11:7"
+      ],
+      "latin": "argéntum igne examinátum, probátum terræ purgátum séptuplum",
+      "kind": "word",
+      "why": "Three participles (tried, proved, purged) and ‘séptuplum’. examináre: to weigh, to test (Lewis & Short; from examen, the tongue of a balance); probáre → provar (138:23 Proba me). The two verbs stand side by side in 65:10 (probásti nos, Deus: igne nos examinásti, sicut examinátur argéntum), so they must stay two words. ‘terræ’ is open: the Greek δοκίμιον τῇ γῇ (‘an assay [for / in] the earth’), Douay-Rheims ‘purged from the earth’, Matos Soares 1932 ‘acendrada no crisol’ (an interpretation: a crucible of earth). The silver stands in apposition, with no ‘as’ (Douay-Rheims adds ‘as’). 17:31 ‘elóquia Dómini igne examináta’ repeats the first participle; the glossary keeps 118:140 ignítus apart from it.",
+      "options": [
+        {
+          "label": "prata examinada no fogo, provada, purificada da terra sete vezes",
+          "forms": {
+            "examinatum": "prata examinada no fogo, provada, purificada da terra sete vezes"
+          },
+          "note": "Ruling: the three participles kept three (examinar / provar / purificar); ‘da terra’ where it can hang on either neighbour as ‘terræ’ does (Douay-Rheims’ ‘from the earth’ is the nearer hearing); apposition kept. Ends on a paroxytone.",
+          "from": "DRB"
+        },
+        {
+          "label": "prata provada no fogo, examinada, purificada da terra sete vezes",
+          "forms": {
+            "examinatum": "prata provada no fogo, examinada, purificada da terra sete vezes"
+          },
+          "note": "‘Provada no fogo’ is the idiom; but it gives provar to examináre, which 65:10 must keep apart from probáre.",
+          "from": "draft"
+        },
+        {
+          "label": "prata purificada no fogo, acendrada no crisol, refinada sete vezes",
+          "forms": {
+            "examinatum": "prata purificada no fogo, acendrada no crisol, refinada sete vezes"
+          },
+          "note": "Matos Soares 1932. Refused: ‘no crisol’ interprets ‘terræ’ and none of the three verbs is the Latin’s.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "servabis",
+      "refs": [
+        "11:8"
+      ],
+      "latin": "Tu, Dómine, servábis nos: et custódies nos",
+      "kind": "glossary",
+      "why": "Glossary: custodíre → guardar (working); serváre → observar (open, of a law), whose row says that 11:8, with persons as object and custodíre beside it, decides locally. The Greek has φυλάξεις … διατηρήσεις. Two Latin verbs, two Portuguese. Douay-Rheims ‘wilt preserve us: and keep us’; Matos Soares 1932 ‘nos guardarás, e nos preservarás’. The mediant falls after the second verb, as in the Latin.",
+      "options": [
+        {
+          "label": "nos conservareis: e nos guardareis",
+          "forms": {
+            "servabis": "nos conservareis: e nos guardareis"
+          },
+          "note": "Ruling: custodíre keeps the glossary’s ‘guardar’; serváre with a person is ‘conservar’ — the verb of the everyday blessing ‘Deus vos conserve’; ‘observar’ cannot take a person.",
+          "from": "draft"
+        },
+        {
+          "label": "nos preservareis: e nos guardareis",
+          "forms": {
+            "servabis": "nos preservareis: e nos guardareis"
+          },
+          "note": "Douay-Rheims’ ‘preserve’; ‘preservar de’ fits ‘a generatióne hac’, but it would belong to the second verb, not the first.",
+          "from": "DRB"
+        },
+        {
+          "label": "nos guardareis: e nos preservareis",
+          "forms": {
+            "servabis": "nos guardareis: e nos preservareis"
+          },
+          "note": "Matos Soares 1932’s order; it gives ‘guardar’ to serváre, against the glossary.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "altitudinem",
+      "refs": [
+        "11:9"
+      ],
+      "latin": "secúndum altitúdinem tuam",
+      "kind": "word",
+      "why": "altitúdo: height (and depth); of persons, loftiness (Lewis & Short); the Greek τὸ ὕψος σου. The Greek verb that follows, ἐπολυώρησας, is ‘you have held in high regard’; the Latin read ‘multiplicásti’, and the Latin is followed (rule 1). Douay-Rheims ‘according to thy highness’; Matos Soares 1932 ‘segundo o teu altíssimo desígnio’ (explains). Other places concrete: 68:3 altitúdinem maris, 94:4 altitúdines móntium, 102:11 altitúdinem cæli.",
+      "options": [
+        {
+          "label": "altura",
+          "forms": {
+            "altitudinem": "altura"
+          },
+          "note": "Ruling: the Latin’s concrete word, which the other places (102:11 ‘segundo a altura do céu’) will want too. Heard as ‘a grandeza ou o poder do Senhor’ first.",
+          "from": "draft"
+        },
+        {
+          "label": "alteza",
+          "forms": {
+            "altitudinem": "alteza"
+          },
+          "note": "Douay-Rheims’ ‘highness’. Refused: ‘Vossa Alteza’ is a royal title in Portuguese.",
+          "from": "DRB"
+        },
+        {
+          "label": "grandeza",
+          "forms": {
+            "altitudinem": "grandeza"
+          },
+          "note": "Plainer of God; it is magnitúdo’s (glossary) and loses the height.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "11:2": "The psalm begins at 11:2 (11:1 is the titulus; D7). Salvum me fac → ‘Salvai-me’ (glossary; the formula recurs 3:7, 6:5, 7:2, 68:2, 108:26, 117:25, 118:94, 146). The Latin’s two ‘quóniam’ kept as two ‘porque’. fílii hóminum → ‘filhos dos homens’ (glossary).",
+    "11:3": "próximus → ‘próximo’. ‘com’ is supplied before ‘lábios’ (decision corde): without it the lips are heard as the subject of ‘falaram’, which the Latin’s masculine ‘locúti’ excludes. The second colon follows the stylist’s order (verb before ‘com um coração e outro coração’). The blind reader listed ‘vãs’ as unknown (glossary: coisas vãs, Ps 2:1); kept.",
+    "11:4": "univérsus → ‘todo’ (glossary, Ps 8). ‘lábios enganadores’ as in 11:3 (one decision fills both).",
+    "11:5": "Qui dixérunt → ‘Os que disseram’: a relative hung on the people of 11:4, as the Latin’s. magnificáre → engrandecer (glossary): ‘Engrandeceremos a nossa língua’ — the boast in the Latin’s own image (Matos Soares 1932 explains it: ‘Faremos grandes coisas com a nossa língua’).",
+    "11:6a": "The Lord speaks from here to the end of 11:6b. exsúrgere → levantar-se (glossary): ‘agora me levantarei, diz o Senhor’. D17 (address follows the speaker) is not engaged: he speaks of himself and addresses no one. gémitus → gemido (glossary).",
+    "11:6b": "salutáre → salvação (D6). The blind reader heard 11:6b as possibly the psalmist’s again; the Latin and Douay-Rheims are built the same way (the Lord’s words are not marked off).",
+    "11:7": "séptuplum → ‘sete vezes’ (Douay-Rheims, Matos Soares 1932); 78:12 has séptuplum as a noun (‘sete vezes mais’) and decides there.",
+    "11:8": "Tu, Dómine → ‘Vós, Senhor’ (D1). in ætérnum → ‘para sempre’ (D23). ‘a generatióne hac’ → ‘desta geração’: guarded from this generation, as the Latin.",
+    "11:9": "in circúitu → ‘ao redor’, with no ‘de nós’ (Matos Soares 1932 adds it). ambuláre → andar (glossary). The Latin reads ‘multiplicásti’ where the Greek ἐπολυώρησας means ‘held in high regard’: the Latin is followed (rule 1). The blind reader heard ‘multiplicastes os filhos dos homens’ as mankind first, with the ímpios a possible second — as the Latin."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm11.txt, nine prayed verses with DO’s ids (11:2–11:5, 11:6a, 11:6b, 11:7–11:9). 11:5 has a flex and a mediant; every other verse one ‘*’. 11:1 is the titulus (D7). Douay-Rheims from Bolls’ chapter 12 (= Vulgate Ps 11, checked by the coordinator)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps011.md. Sense from the Vulgate family (Douay-Rheims; Matos Soares 1932 by its text layer). The Diurnal Monástico 1962 has the psalm, made from the Hebrew: diction only — its sense refused where it follows the Hebrew (11:6b ‘darei salvação a quem deseje’, 11:9 ‘revelam-se péssimos homens’). DO’s Portuguese not used (D12). Lewis & Short read for fiducialiter, magniloquus, examino, altitudo. Repeats found with ps005/grep_latin.py: Salvum me fac (13 lines); defécit (8 lines, the glossary’s ‘desfalecer’ fails here); inops (14 lines) and egénus (6); lábia dolósa 16:1b, 30:18; elóquium (27 lines; 17:31 elóquia Dómini igne examináta is this verse’s twin); probáre and examináre side by side in 65:10; in salutári (7 lines); altitúdo (6); multiplicásti (4). No vós imperative in the psalm but ‘Salvai-me’ (safe: past ‘salvei’). Septuagintal readings kept against the Hebrew: 11:3 in corde et corde (the Hebrew idiom, word for word), 11:6b Ponam in salutári: fiduciáliter agam in eo, 11:7 probátum terræ, 11:9 secúndum altitúdinem tuam multiplicásti. D26 applied: elóquia decided locally (decision eloquia), to be tested."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (after two fixes before any critic read it: a doubled colon in 11:8, and 11:3 recast so that the mediant does not fall on the proparoxytone ‘próximo’). Soft flags, accepted: 11:3 second colon +3; 11:6a +4 / +3 (‘por causa de’ is the glossary’s length for propter; ‘indigentes’); 11:7 second colon +4 (three participles and ‘sete vezes’); 11:8 second colon −3. Rhyme flag 11:5 / 11:6a (‘senhor / Senhor’): the same word, and the Latin has the same echo (Dóminus est? / dicit Dóminus) — rule 5’s exception."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. One minor, 11:4; everything else passed, marks confirmed — ‘desapareceu o santo’, ‘com coração e coração’, ‘Porei na salvação’ with no object, ‘Os ditos do Senhor são ditos castos’, ‘prata examinada no fogo, provada, purificada da terra sete vezes’, ‘nos conservareis … guardareis’, ‘segundo a vossa altura’.",
+      "outcomes": [
+        {
+          "verse": "11:4",
+          "remark": "‘a língua que fala grandezas’ leaves the boasting of magníloquam little explicit → ‘a língua que fala com arrogância’ (minor)",
+          "outcome": "option",
+          "decision": "magniloquam",
+          "reason": "The blind reader heard boasting first, so the sense is not lost; ‘grandezas’ keeps the magní- and its echo with ‘Engrandeceremos’ (11:5), as the Latin’s magní- / magnificá-. His wording is Matos Soares 1932’s, option 3."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Two verses; best 11:6a, worst 11:7. ‘O salmo tem sobriedade, cabe bem na recitação e apresenta terminações adequadas ao canto … as imagens incomuns e as repetições vindas do latim não precisam ser alisadas.’",
+      "outcomes": [
+        {
+          "verse": "11:3",
+          "remark": "two ‘com’ phrases delay ‘falaram’ → ‘com lábios enganadores, falaram com coração e coração’",
+          "outcome": "taken",
+          "decision": "corde",
+          "reason": "Order only (D2). Taken with ‘um … outro’ added, for the blind reader’s finding; his exact line is option 2."
+        },
+        {
+          "verse": "11:7",
+          "remark": "‘ditos castos’ sounds like a classification of modest maxims → ‘As palavras do Senhor são palavras puras’",
+          "outcome": "taken",
+          "decision": "eloquia",
+          "reason": "D26 left the word to this psalm; the clause cannot keep the Latin’s repetition, ‘ditos’ failed again, and ‘palavra’ collides with nothing in the psalm. ‘castos’ failed the blind reader too."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. Twenty items, three unknown words (vãs, indigentes, castos). Three real faults, all mended in draft 2: 11:2 ‘desapareceu o santo’ heard as one particular person; 11:3 ‘com coração e coração’ possibly heard as ‘de coração para coração’; 11:7 ‘castos’ heard as sexual chastity. The rest is the Latin’s own range; ‘Porei na salvação’ with no object, the draft’s test, passed.",
+      "outcomes": [
+        {
+          "verse": "11:2",
+          "remark": "‘desapareceu o santo’: one particular holy person (heard first) / no holy people left",
+          "outcome": "taken",
+          "decision": "defecit",
+          "reason": "The Latin’s singular is generic; ‘já não há santo’ (Douay-Rheims) can only be heard so."
+        },
+        {
+          "verse": "11:2",
+          "remark": "‘diminuíram as verdades’: people speak less truth (heard first) / fewer certainties",
+          "outcome": "refused",
+          "decision": "diminutae",
+          "reason": "Heard rightly; the plural is the Latin’s."
+        },
+        {
+          "verse": "11:2",
+          "remark": "‘os filhos dos homens’: mankind / someone’s descendants",
+          "outcome": "refused",
+          "reason": "Glossary; heard rightly."
+        },
+        {
+          "verse": "11:3",
+          "remark": "‘coisas vãs’: useless / false (heard first)",
+          "outcome": "refused",
+          "reason": "vana holds both."
+        },
+        {
+          "verse": "11:3",
+          "remark": "‘com coração e coração falaram’: duplicity / ‘de coração para coração’, sincerity",
+          "outcome": "taken",
+          "decision": "corde",
+          "reason": "A hearing opposite to the Latin’s; ‘com um coração e outro coração’ keeps both nouns and closes it."
+        },
+        {
+          "verse": "11:4",
+          "remark": "‘Extermine … os lábios enganadores’: the deceivers (heard first) / deceitful speech",
+          "outcome": "refused",
+          "reason": "The Latin’s metonymy, as open."
+        },
+        {
+          "verse": "11:4",
+          "remark": "‘a língua que fala grandezas’: boasting (heard first) / proclaiming great things, even God’s",
+          "outcome": "refused",
+          "decision": "magniloquam",
+          "reason": "Heard rightly, in context."
+        },
+        {
+          "verse": "11:5",
+          "remark": "‘Engrandeceremos a nossa língua’: make our speech powerful (heard first) / promote our language",
+          "outcome": "refused",
+          "reason": "Heard rightly; the Latin’s image."
+        },
+        {
+          "verse": "11:5",
+          "remark": "‘quem é o nosso senhor?’: no one has authority over us (heard first) / who is the Lord we must serve",
+          "outcome": "refused",
+          "decision": "dominus",
+          "reason": "Heard as meant."
+        },
+        {
+          "verse": "11:6a",
+          "remark": "‘agora me levantarei’: stand up / begin to act for the poor (heard first)",
+          "outcome": "refused",
+          "reason": "exsúrgere is both."
+        },
+        {
+          "verse": "11:6b",
+          "remark": "‘Porei na salvação’: the poor (heard first) / the one who prayed; the object not expressed",
+          "outcome": "refused",
+          "decision": "ponam",
+          "reason": "The Latin’s own openness, heard without a stumble."
+        },
+        {
+          "verse": "11:6b",
+          "remark": "‘salvação’: deliverance / spiritual salvation (heard first)",
+          "outcome": "refused",
+          "reason": "D6; salutáre holds both."
+        },
+        {
+          "verse": "11:6b",
+          "remark": "‘nele agirei com confiança’: the Lord acting in someone unnamed / the one praying acting in trust (heard first)",
+          "outcome": "refused",
+          "decision": "fiducialiter",
+          "reason": "The Latin marks off the Lord’s words no better (dicit Dóminus closes 11:6a)."
+        },
+        {
+          "verse": "11:7",
+          "remark": "‘ditos castos’: pure words (first) / words without sexual content; ‘castos’ unknown",
+          "outcome": "taken",
+          "decision": "eloquia",
+          "reason": "‘puras’ for castus."
+        },
+        {
+          "verse": "11:7",
+          "remark": "‘purificada da terra’: dross of earth removed (heard first) / silver that comes from the earth",
+          "outcome": "refused",
+          "decision": "examinatum",
+          "reason": "terræ is as open."
+        },
+        {
+          "verse": "11:8",
+          "remark": "‘nos conservareis’: keep alive and safe (heard first) / keep faithful",
+          "outcome": "refused",
+          "decision": "servabis",
+          "reason": "Both in serváre."
+        },
+        {
+          "verse": "11:8",
+          "remark": "‘desta geração’: people of this time, as a threat (heard first) / an age group",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "11:9",
+          "remark": "‘andam ao redor’: surround the one praying (heard first) / roam everywhere",
+          "outcome": "refused",
+          "reason": "in circúitu names no centre either."
+        },
+        {
+          "verse": "11:9",
+          "remark": "‘segundo a vossa altura’: greatness (heard first) / physical height",
+          "outcome": "refused",
+          "decision": "altitudinem",
+          "reason": "The Latin’s concrete word used of God."
+        },
+        {
+          "verse": "11:9",
+          "remark": "‘multiplicastes os filhos dos homens’: mankind (heard first) / many children / the ímpios",
+          "outcome": "refused",
+          "reason": "As open in the Latin."
+        },
+        {
+          "verse": "11:3",
+          "remark": "unknown word: vãs",
+          "outcome": "refused",
+          "reason": "Glossary (coisas vãs, Ps 2:1)."
+        },
+        {
+          "verse": "11:6a",
+          "remark": "unknown word: indigentes",
+          "outcome": "refused",
+          "decision": "propter",
+          "reason": "Current in Brazilian public speech; its noun serves inópia; options ‘desvalidos’ (MS1932)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. Three verses changed against draft 1: 11:2 ‘porque já não há santo’ (Douay-Rheims; was ‘desapareceu o santo’, heard as one person); 11:3 ‘com lábios enganadores, falaram com um coração e outro coração’ (the stylist’s order; ‘um … outro’ against the ‘heart to heart’ hearing); 11:7 ‘As palavras do Senhor são palavras puras’ (the stylist’s line; D26 decided locally for ‘palavra’, reasons in decision eloquia). Held against the Latinist’s minor: 11:4 ‘fala grandezas’. Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags: 11:2 first colon −3 (‘já não há santo’); 11:3 second colon +6 (‘falaram com um coração e outro coração’: the stylist’s order plus the two determiners — the longest colon of the psalm, sayable in one breath); 11:6a +4 / +3, 11:7 +4, 11:8 −3 as draft 1. The rhyme 11:5 / 11:6a is the Latin’s own echo (Dóminus / Dóminus)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. NOT clean: one major, held on purpose (11:2), and two minors, refused. 11:2 MAJOR, two remarks: ‘já não há santo’ turns the perfect into a present of existence (fix: draft 1’s ‘desapareceu o santo’, which he passed then), and ‘diminuíram’ changes the voice (fix ‘foram diminuídas’ — words he passed unchanged on draft 1). 11:4 minor again (‘com altivez’, a different fix from draft 1’s). 11:5 minor, new: ‘são nossos’ effaces the ‘from’ of a nobis. Passed: ‘com um coração e outro coração’, ‘As palavras do Senhor são palavras puras’.",
+      "outcomes": [
+        {
+          "verse": "11:2",
+          "remark": "‘já não há santo’: a present of existence for the perfect defécit → ‘desapareceu o santo’ (MAJOR)",
+          "outcome": "option",
+          "decision": "defecit",
+          "reason": "Held: the perfect is resultative and both Vulgate-family versions say the present state; the perfect wording was heard by the blind reader as one person’s death; he reverses his own pass of draft 1 (D24: weighed, not obeyed). Option 2; ‘não restou santo’ (a past that stays generic) added as option 3 for Gustavo."
+        },
+        {
+          "verse": "11:2",
+          "remark": "‘diminuíram’: intransitive for a passive → ‘foram diminuídas as verdades’ (inside the major)",
+          "outcome": "option",
+          "decision": "diminutae",
+          "reason": "Passed by him on draft 1 unchanged; the intransitive is the medio-passive of the Greek, as Ps 8:2b ‘se elevou’, which he passed. Option 3."
+        },
+        {
+          "verse": "11:4",
+          "remark": "‘fala grandezas’ may mean only grand subjects → ‘a língua que fala com altivez’ (minor)",
+          "outcome": "option",
+          "decision": "magniloquam",
+          "reason": "Both blind readings heard boasting first; the echo with 11:5 is the Latin’s."
+        },
+        {
+          "verse": "11:5",
+          "remark": "‘são nossos’ effaces the ‘from’ of a nobis → ‘os nossos lábios vêm de nós’ (minor)",
+          "outcome": "option",
+          "decision": "anobis",
+          "reason": "Possession is Douay-Rheims’ and Matos Soares 1932’s reading; the origin reading stays option 2."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v2.ambiguity.json",
+      "note": "Draft 2, Portuguese only — run to test the three fixes. All three hold: 11:2 ‘já não há santo’ heard as ‘não há mais pessoas santas’ (canonised saints second); 11:3 ‘com um coração e outro coração’ heard as duplicity (‘embora a imagem possa não ficar clara’) — no ‘heart to heart’; 11:7 ‘As palavras do Senhor são palavras puras’ drew no item at all. Unknown words: vãs, indigentes (again), ímpios. The rest as draft 1 (11:6b ‘nele’ heard as ‘in the Lord’, and the colon as the psalmist’s — the Latin’s openness).",
+      "outcomes": [
+        {
+          "verse": "11:2",
+          "remark": "‘já não há santo’: no holy people (heard first) / no canonised saints",
+          "outcome": "refused",
+          "decision": "defecit",
+          "reason": "The fix holds."
+        },
+        {
+          "verse": "11:3",
+          "remark": "‘com um coração e outro coração’: duplicity (heard first) / different people, different intentions",
+          "outcome": "refused",
+          "decision": "corde",
+          "reason": "The fix holds."
+        },
+        {
+          "verse": "11:6b",
+          "remark": "‘nele’: the poor / the Lord (heard first) / unnamed; ‘agirei com confiança’: the psalmist again (heard first)",
+          "outcome": "refused",
+          "decision": "fiducialiter",
+          "reason": "As draft 1: the Latin marks the Lord’s words off no better."
+        },
+        {
+          "verse": "11:6a",
+          "remark": "unknown word: indigentes (second time)",
+          "outcome": "refused",
+          "decision": "propter",
+          "reason": "Kept; ‘desvalidos’ is option 3. Recorded in the glossary row as a known cost."
+        }
+      ]
+    }
+  ]
+}

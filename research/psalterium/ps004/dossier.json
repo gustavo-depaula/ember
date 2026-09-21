@@ -1,0 +1,1361 @@
+{
+  "psalm": 4,
+  "sources": {
+    "latin": "content/do/horas/Latin/Psalterium/Psalmorum/Psalm4.txt (DO mirror; read against Hetzenauer 1914 p. 487 — see collation/report.md)",
+    "parse": "LatinCy la_core_web_lg 3.9.8, unreviewed",
+    "lxx": "Rahlfs 1935 via github.com/eliranwong/LXX-Rahlfs-1935 (CCAT-derived)",
+    "hebrew": "Westminster Leningrad Codex via bolls.life",
+    "iuxtaHebraeos": "P. de Lagarde, Psalterium iuxta Hebraeos Hieronymi (1874), public domain; archive.org/details/psalteriumiuxta00lagagoog. Transcribed from the archive.org OCR, not yet read against the page image. OCR fixes made: 'Invocantemexaudi' → 'Invocantem exaudi', 'sempeb' → 'semper', 'quiB' → 'quis', 'simui' → 'simul', 'secnrum' → 'securum'; verse numbers restored from Lagarde's superscripts.",
+    "antecedentPtPT": "content/do/horas/Portugues/Psalterium/Psalmorum/Psalm4.txt — European Portuguese, reference and contrast only"
+  },
+  "titulus": {
+    "latin": "In finem, in carminibus. Psalmus David.",
+    "note": "Clementine 4:1; not in the Breviary text"
+  },
+  "verses": [
+    {
+      "id": "4:2a",
+      "layer": "psalm",
+      "latin": "Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.",
+      "latinAsShownInApp": "Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Cum invocárem exaudívit me Deus justítiæ meæ:",
+          "tokens": [
+            {
+              "form": "Cum",
+              "lemma": "cum",
+              "pos": "SCONJ",
+              "morph": "",
+              "head": "exaudiuit",
+              "dep": "mark",
+              "psalterCount": 134
+            },
+            {
+              "form": "inuocarem",
+              "lemma": "inuoco",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act",
+              "head": "exaudiuit",
+              "dep": "xcomp",
+              "psalterCount": 30
+            },
+            {
+              "form": "exaudiuit",
+              "lemma": "exaudio",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act",
+              "head": "exaudiuit",
+              "dep": "ROOT",
+              "psalterCount": 74
+            },
+            {
+              "form": "me",
+              "lemma": "ego",
+              "pos": "PRON",
+              "morph": "Case=Acc|Number=Sing|Person=1",
+              "head": "exaudiuit",
+              "dep": "obj",
+              "psalterCount": 750
+            },
+            {
+              "form": "Deus",
+              "lemma": "deus",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Masc|Number=Sing",
+              "head": "exaudiuit",
+              "dep": "nsubj",
+              "psalterCount": 465
+            },
+            {
+              "form": "iustitiae",
+              "lemma": "iustitia",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "head": "Deus",
+              "dep": "nmod",
+              "psalterCount": 78
+            },
+            {
+              "form": "meae",
+              "lemma": "meus",
+              "pos": "DET",
+              "morph": "Case=Dat|Gender=Fem|Number=Sing",
+              "head": "iustitiae",
+              "dep": "det",
+              "psalterCount": 953
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "in tribulatióne dilatásti mihi.",
+          "tokens": [
+            {
+              "form": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "tribulatione",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "tribulatione",
+              "lemma": "tribulatio",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Fem|Number=Sing",
+              "head": "dilatasti",
+              "dep": "obl",
+              "psalterCount": 37
+            },
+            {
+              "form": "dilatasti",
+              "lemma": "dilato",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act",
+              "head": "dilatasti",
+              "dep": "ROOT",
+              "psalterCount": 4
+            },
+            {
+              "form": "mihi",
+              "lemma": "ego",
+              "pos": "PRON",
+              "morph": "Case=Dat|Number=Sing|Person=1",
+              "head": "dilatasti",
+              "dep": "obl",
+              "psalterCount": 750
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [],
+      "neighbours": {
+        "before": null,
+        "after": "Miserére mei, * et exáudi oratiónem meam."
+      },
+      "lxx": {
+        "2": "ἐν τῷ ἐπικαλεῖσθαί με εἰσήκουσέν μου ὁ θεὸς τῆς δικαιοσύνης μου ἐν θλίψει ἐπλάτυνάς μοι οἰκτίρησόν με καὶ εἰσάκουσον τῆς προσευχῆς μου"
+      },
+      "hebrew": {
+        "2": "בְּקָרְאִ֡י עֲנֵ֤נִי ׀ אֱלֹ֘הֵ֤י צִדְקִ֗י בַּ֭צָּר הִרְחַ֣בְתָּ לִּ֑י חָ֝נֵּ֗נִי וּשְׁמַ֥ע תְּפִלָּתִֽי׃"
+      },
+      "iuxtaHebraeos": {
+        "2": "Invocantem exaudi me, deus iustitiae meae: in tribulatione dilatasti mihi. miserere mei et exaudi orationem meam."
+      },
+      "antecedentPtPT": "Quando O invoquei, me ouviu o Deus da minha justiça: * na tribulação me dilatastes."
+    },
+    {
+      "id": "4:2b",
+      "layer": "psalm",
+      "latin": "Miserére mei, * et exáudi oratiónem meam.",
+      "latinAsShownInApp": "Miserére mei, * et exáudi oratiónem meam.",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Miserére mei,",
+          "tokens": [
+            {
+              "form": "Miserere",
+              "lemma": "miserere",
+              "pos": "PROPN",
+              "morph": "Case=Voc|Gender=Masc|Number=Sing",
+              "head": "Miserere",
+              "dep": "ROOT",
+              "psalterCount": 9
+            },
+            {
+              "form": "mei",
+              "lemma": "meus",
+              "pos": "DET",
+              "morph": "Case=Nom|Gender=Masc|Number=Plur",
+              "head": "Miserere",
+              "dep": "obl",
+              "psalterCount": 953
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "et exáudi oratiónem meam.",
+          "tokens": [
+            {
+              "form": "et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "head": "exaudi",
+              "dep": "cc",
+              "psalterCount": 2091
+            },
+            {
+              "form": "exaudi",
+              "lemma": "exaudio",
+              "pos": "VERB",
+              "morph": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "exaudi",
+              "dep": "ROOT",
+              "psalterCount": 74
+            },
+            {
+              "form": "orationem",
+              "lemma": "oratio",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "head": "exaudi",
+              "dep": "obj",
+              "psalterCount": 31
+            },
+            {
+              "form": "meam",
+              "lemma": "meus",
+              "pos": "DET",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "head": "orationem",
+              "dep": "det",
+              "psalterCount": 953
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [],
+      "neighbours": {
+        "before": "Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.",
+        "after": "Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?"
+      },
+      "lxx": {
+        "2": "ἐν τῷ ἐπικαλεῖσθαί με εἰσήκουσέν μου ὁ θεὸς τῆς δικαιοσύνης μου ἐν θλίψει ἐπλάτυνάς μοι οἰκτίρησόν με καὶ εἰσάκουσον τῆς προσευχῆς μου"
+      },
+      "hebrew": {
+        "2": "בְּקָרְאִ֡י עֲנֵ֤נִי ׀ אֱלֹ֘הֵ֤י צִדְקִ֗י בַּ֭צָּר הִרְחַ֣בְתָּ לִּ֑י חָ֝נֵּ֗נִי וּשְׁמַ֥ע תְּפִלָּתִֽי׃"
+      },
+      "iuxtaHebraeos": {
+        "2": "Invocantem exaudi me, deus iustitiae meae: in tribulatione dilatasti mihi. miserere mei et exaudi orationem meam."
+      },
+      "antecedentPtPT": "Tende compaixão de mim, * e escutai a minha oração."
+    },
+    {
+      "id": "4:3",
+      "layer": "psalm",
+      "latin": "Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?",
+      "latinAsShownInApp": "Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Fílii hóminum, úsquequo gravi corde?",
+          "tokens": [
+            {
+              "form": "Filii",
+              "lemma": "filius",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Masc|Number=Plur",
+              "head": "Filii",
+              "dep": "ROOT",
+              "psalterCount": 86
+            },
+            {
+              "form": "hominum",
+              "lemma": "homo",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Masc|Number=Plur",
+              "head": "Filii",
+              "dep": "nmod",
+              "psalterCount": 106
+            },
+            {
+              "form": "usquequo",
+              "lemma": "usquequo",
+              "pos": "ADV",
+              "morph": "",
+              "head": "corde",
+              "dep": "mark",
+              "psalterCount": 12
+            },
+            {
+              "form": "graui",
+              "lemma": "grauis",
+              "pos": "ADJ",
+              "morph": "Case=Abl|Gender=Neut|Number=Sing",
+              "head": "corde",
+              "dep": "amod",
+              "psalterCount": 3
+            },
+            {
+              "form": "corde",
+              "lemma": "cor",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Neut|Number=Sing",
+              "head": "Filii",
+              "dep": "conj",
+              "psalterCount": 141
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "ut quid dilígitis vanitátem, et quǽritis mendácium?",
+          "tokens": [
+            {
+              "form": "ut",
+              "lemma": "ut",
+              "pos": "SCONJ",
+              "morph": "",
+              "head": "diligitis",
+              "dep": "mark",
+              "psalterCount": 149
+            },
+            {
+              "form": "quid",
+              "lemma": "quis",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "head": "diligitis",
+              "dep": "obj",
+              "psalterCount": 57
+            },
+            {
+              "form": "diligitis",
+              "lemma": "diligo",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "diligitis",
+              "dep": "ROOT",
+              "psalterCount": 45
+            },
+            {
+              "form": "uanitatem",
+              "lemma": "uanito",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "head": "diligitis",
+              "dep": "obj",
+              "psalterCount": 9
+            },
+            {
+              "form": "et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "head": "quaeritis",
+              "dep": "cc",
+              "psalterCount": 2091
+            },
+            {
+              "form": "quaeritis",
+              "lemma": "quaero",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "diligitis",
+              "dep": "conj",
+              "psalterCount": 32
+            },
+            {
+              "form": "mendacium",
+              "lemma": "mendacium",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "head": "quaeritis",
+              "dep": "obj",
+              "psalterCount": 3
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [],
+      "neighbours": {
+        "before": "Miserére mei, * et exáudi oratiónem meam.",
+        "after": "Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum."
+      },
+      "lxx": {
+        "3": "υἱοὶ ἀνθρώπων ἕως πότε βαρυκάρδιοι ἵνα τί ἀγαπᾶτε ματαιότητα καὶ ζητεῖτε ψεῦδος διάψαλμα"
+      },
+      "hebrew": {
+        "3": "בְּנֵ֥י אִ֡ישׁ עַד־מֶ֬ה כְבֹודִ֣י לִ֭כְלִמָּה תֶּאֱהָב֣וּן רִ֑יק תְּבַקְשׁ֖וּ כָזָ֣ב סֶֽלָה׃"
+      },
+      "iuxtaHebraeos": {
+        "3": "filii viri, usque quo? incliti mei, ignominiose diligitis vanitatem, quaerentes mendacium. semper."
+      },
+      "antecedentPtPT": "Filhos dos homens, até quando duros de coração sereis? * Porque amais a vaidade e mentiras buscais?"
+    },
+    {
+      "id": "4:4",
+      "layer": "psalm",
+      "latin": "Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.",
+      "latinAsShownInApp": "Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Et scitóte quóniam mirificávit Dóminus sanctum suum:",
+          "tokens": [
+            {
+              "form": "Et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "head": "scitote",
+              "dep": "cc",
+              "psalterCount": 2091
+            },
+            {
+              "form": "scitote",
+              "lemma": "scio",
+              "pos": "VERB",
+              "morph": "Mood=Imp|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act",
+              "head": "scitote",
+              "dep": "ROOT",
+              "psalterCount": 17
+            },
+            {
+              "form": "quoniam",
+              "lemma": "quoniam",
+              "pos": "SCONJ",
+              "morph": "",
+              "head": "mirificauit",
+              "dep": "mark",
+              "psalterCount": 269
+            },
+            {
+              "form": "mirificauit",
+              "lemma": "mirifico",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act",
+              "head": "scitote",
+              "dep": "ccomp",
+              "psalterCount": 3
+            },
+            {
+              "form": "Dominus",
+              "lemma": "dominus",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Masc|Number=Sing",
+              "head": "mirificauit",
+              "dep": "nsubj",
+              "psalterCount": 797
+            },
+            {
+              "form": "sanctum",
+              "lemma": "sanctus",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Masc|Number=Sing",
+              "head": "mirificauit",
+              "dep": "obj",
+              "psalterCount": 85
+            },
+            {
+              "form": "suum",
+              "lemma": "suus",
+              "pos": "DET",
+              "morph": "Case=Acc|Gender=Masc|Number=Sing",
+              "head": "sanctum",
+              "dep": "det",
+              "psalterCount": 305
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "Dóminus exáudiet me cum clamávero ad eum.",
+          "tokens": [
+            {
+              "form": "Dominus",
+              "lemma": "dominus",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Masc|Number=Sing",
+              "head": "exaudiet",
+              "dep": "nsubj",
+              "psalterCount": 797
+            },
+            {
+              "form": "exaudiet",
+              "lemma": "exaudio",
+              "pos": "VERB",
+              "morph": "Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act",
+              "head": "exaudiet",
+              "dep": "ROOT",
+              "psalterCount": 74
+            },
+            {
+              "form": "me",
+              "lemma": "ego",
+              "pos": "PRON",
+              "morph": "Case=Abl|Number=Sing|Person=1",
+              "head": "exaudiet",
+              "dep": "obl",
+              "psalterCount": 750
+            },
+            {
+              "form": "cum",
+              "lemma": "cum",
+              "pos": "ADP",
+              "morph": "",
+              "head": "me",
+              "dep": "case",
+              "psalterCount": 134
+            },
+            {
+              "form": "clamauero",
+              "lemma": "clamo",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act",
+              "head": "exaudiet",
+              "dep": "advcl",
+              "psalterCount": 42
+            },
+            {
+              "form": "ad",
+              "lemma": "ad",
+              "pos": "ADP",
+              "morph": "",
+              "head": "eum",
+              "dep": "case",
+              "psalterCount": 176
+            },
+            {
+              "form": "eum",
+              "lemma": "is",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=3",
+              "head": "clamauero",
+              "dep": "obl",
+              "psalterCount": 1073
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [],
+      "neighbours": {
+        "before": "Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?",
+        "after": "Irascímini, et nolíte peccáre: ‡ quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini."
+      },
+      "lxx": {
+        "4": "καὶ γνῶτε ὅτι ἐθαυμάστωσεν κύριος τὸν ὅσιον αὐτοῦ κύριος εἰσακούσεταί μου ἐν τῷ κεκραγέναι με πρὸς αὐτόν"
+      },
+      "hebrew": {
+        "4": "וּדְע֗וּ כִּֽי־הִפְלָ֣ה יְ֭הוָה חָסִ֣יד לֹ֑ו יְהוָ֥ה יִ֝שְׁמַ֗ע בְּקָרְאִ֥י אֵלָֽיו׃"
+      },
+      "iuxtaHebraeos": {
+        "4": "et cognoscite quoniam mirabilem reddidit dominus sanctum suum: dominus exaudiet, cum clamavero ad eum."
+      },
+      "antecedentPtPT": "Sabei, pois, que o Senhor fez maravilhoso o seu santo: * o Senhor escutar-me-á, quando a Ele clamar."
+    },
+    {
+      "id": "4:5",
+      "layer": "psalm",
+      "latin": "Irascímini, et nolíte peccáre: ‡ quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini.",
+      "latinAsShownInApp": "Irascímini, et nolíte peccáre: * quæ dícitis in córdibus vestris, in cubílibus vestris compungímini.",
+      "marks": "‡*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Irascímini, et nolíte peccáre:",
+          "tokens": [
+            {
+              "form": "Irascimini",
+              "lemma": "irascimini",
+              "pos": "PROPN",
+              "morph": "Case=Abl|Gender=Neut|Number=Sing",
+              "head": "Irascimini",
+              "dep": "ROOT",
+              "psalterCount": 1,
+              "rare": true
+            },
+            {
+              "form": "et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "head": "nolite",
+              "dep": "cc",
+              "psalterCount": 2091
+            },
+            {
+              "form": "nolite",
+              "lemma": "nolo",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "Irascimini",
+              "dep": "conj",
+              "psalterCount": 22
+            },
+            {
+              "form": "peccare",
+              "lemma": "pecco",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act",
+              "head": "nolite",
+              "dep": "xcomp",
+              "psalterCount": 7
+            }
+          ]
+        },
+        {
+          "mark": "‡",
+          "latin": "quæ dícitis in córdibus vestris,",
+          "tokens": [
+            {
+              "form": "quae",
+              "lemma": "qui",
+              "pos": "PRON",
+              "morph": "Case=Acc|Gender=Neut|Number=Plur",
+              "head": "dicitis",
+              "dep": "obj",
+              "psalterCount": 489
+            },
+            {
+              "form": "dicitis",
+              "lemma": "dico",
+              "pos": "VERB",
+              "morph": "Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "dicitis",
+              "dep": "ROOT",
+              "psalterCount": 113
+            },
+            {
+              "form": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "cordibus",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "cordibus",
+              "lemma": "cor",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Neut|Number=Plur",
+              "head": "dicitis",
+              "dep": "obl",
+              "psalterCount": 141
+            },
+            {
+              "form": "uestris",
+              "lemma": "uester",
+              "pos": "DET",
+              "morph": "Case=Abl|Gender=Neut|Number=Plur|Person=2",
+              "head": "cordibus",
+              "dep": "det",
+              "psalterCount": 20
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "in cubílibus vestris compungímini.",
+          "tokens": [
+            {
+              "form": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "cubilibus",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "cubilibus",
+              "lemma": "cubile",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Neut|Number=Plur",
+              "head": "compungimini",
+              "dep": "obl",
+              "psalterCount": 4
+            },
+            {
+              "form": "uestris",
+              "lemma": "uester",
+              "pos": "DET",
+              "morph": "Case=Abl|Gender=Neut|Number=Plur|Person=2",
+              "head": "cubilibus",
+              "dep": "det",
+              "psalterCount": 20
+            },
+            {
+              "form": "compungimini",
+              "lemma": "compungo",
+              "pos": "VERB",
+              "morph": "Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass",
+              "head": "compungimini",
+              "dep": "ROOT",
+              "psalterCount": 4
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [
+        "irascimini"
+      ],
+      "neighbours": {
+        "before": "Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.",
+        "after": "Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?"
+      },
+      "lxx": {
+        "5": "ὀργίζεσθε καὶ μὴ ἁμαρτάνετε λέγετε ἐν ταῖς καρδίαις ὑμῶν καὶ ἐπὶ ταῖς κοίταις ὑμῶν κατανύγητε διάψαλμα"
+      },
+      "hebrew": {
+        "5": "רִגְז֗וּ וְֽאַל־תֶּ֫חֱטָ֥אוּ אִמְר֣וּ בִ֭לְבַבְכֶם עַֽל־מִשְׁכַּבְכֶ֗ם וְדֹ֣מּוּ סֶֽלָה׃"
+      },
+      "iuxtaHebraeos": {
+        "5": "irascimini, et nolite peccare: loquimini in cordibus vestris super cubilia vestra, et tacete. semper."
+      },
+      "antecedentPtPT": "Irai-vos e não pequeis: ‡ do que dizeis nos vossos corações, * nos vossos leitos arrependei-vos."
+    },
+    {
+      "id": "4:6",
+      "layer": "psalm",
+      "latin": "Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?",
+      "latinAsShownInApp": "Sacrificáte sacrifícium justítiæ, et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?",
+      "marks": "†*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Sacrificáte sacrifícium justítiæ,",
+          "tokens": [
+            {
+              "form": "Sacrificate",
+              "lemma": "sacrifico",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "Sacrificate",
+              "dep": "ROOT",
+              "psalterCount": 5
+            },
+            {
+              "form": "sacrificium",
+              "lemma": "sacrificium",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "head": "Sacrificate",
+              "dep": "nsubj",
+              "psalterCount": 13
+            },
+            {
+              "form": "iustitiae",
+              "lemma": "iustitia",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Fem|Number=Sing",
+              "head": "sacrificium",
+              "dep": "nmod",
+              "psalterCount": 78
+            }
+          ]
+        },
+        {
+          "mark": "†",
+          "latin": "et speráte in Dómino.",
+          "tokens": [
+            {
+              "form": "et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "head": "sperate",
+              "dep": "cc",
+              "psalterCount": 2091
+            },
+            {
+              "form": "sperate",
+              "lemma": "spero",
+              "pos": "VERB",
+              "morph": "Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "sperate",
+              "dep": "ROOT",
+              "psalterCount": 70
+            },
+            {
+              "form": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "Domino",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "Domino",
+              "lemma": "dominus",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Masc|Number=Sing",
+              "head": "sperate",
+              "dep": "obl",
+              "psalterCount": 797
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "Multi dicunt: Quis osténdit nobis bona?",
+          "tokens": [
+            {
+              "form": "Multi",
+              "lemma": "multus",
+              "pos": "DET",
+              "morph": "Case=Nom|Gender=Masc|Number=Plur",
+              "head": "dicunt",
+              "dep": "nsubj",
+              "psalterCount": 42
+            },
+            {
+              "form": "dicunt",
+              "lemma": "dico",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "dicunt",
+              "dep": "ROOT",
+              "psalterCount": 113
+            },
+            {
+              "form": "Quis",
+              "lemma": "quis",
+              "pos": "PRON",
+              "morph": "Case=Nom|Gender=Masc|Number=Sing",
+              "head": "ostendit",
+              "dep": "nsubj",
+              "psalterCount": 57
+            },
+            {
+              "form": "ostendit",
+              "lemma": "ostendo",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+              "head": "ostendit",
+              "dep": "ROOT",
+              "psalterCount": 11
+            },
+            {
+              "form": "nobis",
+              "lemma": "nos",
+              "pos": "PRON",
+              "morph": "Case=Dat|Number=Plur|Person=1",
+              "head": "ostendit",
+              "dep": "obl",
+              "psalterCount": 112
+            },
+            {
+              "form": "bona",
+              "lemma": "bonus",
+              "pos": "ADJ",
+              "morph": "Case=Acc|Gender=Neut|Number=Plur",
+              "head": "ostendit",
+              "dep": "obj",
+              "psalterCount": 36
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [],
+      "neighbours": {
+        "before": "Irascímini, et nolíte peccáre: ‡ quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini.",
+        "after": "Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo."
+      },
+      "lxx": {
+        "6": "θύσατε θυσίαν δικαιοσύνης καὶ ἐλπίσατε ἐπὶ κύριον",
+        "7": "πολλοὶ λέγουσιν τίς δείξει ἡμῖν τὰ ἀγαθά ἐσημειώθη ἐφ᾿ ἡμᾶς τὸ φῶς τοῦ προσώπου σου κύριε"
+      },
+      "hebrew": {
+        "6": "זִבְח֥וּ זִבְחֵי־צֶ֑דֶק וּ֝בִטְח֗וּ אֶל־יְהוָֽה׃",
+        "7": "רַבִּ֥ים אֹמְרִים֮ מִֽי־יַרְאֵ֪נוּ֫ טֹ֥וב נְֽסָה־עָ֭לֵינוּ אֹ֨ור פָּנֶ֬יךָ יְהוָֽה׃"
+      },
+      "iuxtaHebraeos": {
+        "6": "sacrificate sacrificium iustitiae, et fidite in domino.",
+        "7": "multi dicunt \"quis ostendit nobis bonum?\". leva super nos lucem vultus tui, domine."
+      },
+      "antecedentPtPT": "Oferecei sacrifícios de justiça † e esperai no Senhor. * Muitos dizem: quem nos mostrará o bem?"
+    },
+    {
+      "id": "4:7",
+      "layer": "psalm",
+      "latin": "Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.",
+      "latinAsShownInApp": "Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Signátum est super nos lumen vultus tui, Dómine:",
+          "tokens": [
+            {
+              "form": "Signatum",
+              "lemma": "signo",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass",
+              "head": "Signatum",
+              "dep": "ROOT",
+              "psalterCount": 1,
+              "rare": true
+            },
+            {
+              "form": "est",
+              "lemma": "sum",
+              "pos": "AUX",
+              "morph": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+              "head": "Signatum",
+              "dep": "aux:pass",
+              "psalterCount": 839
+            },
+            {
+              "form": "super",
+              "lemma": "super",
+              "pos": "ADP",
+              "morph": "",
+              "head": "nos",
+              "dep": "case",
+              "psalterCount": 207
+            },
+            {
+              "form": "nos",
+              "lemma": "nos",
+              "pos": "PRON",
+              "morph": "Case=Acc|Number=Plur|Person=1",
+              "head": "Signatum",
+              "dep": "obl",
+              "psalterCount": 112
+            },
+            {
+              "form": "lumen",
+              "lemma": "lumen",
+              "pos": "NOUN",
+              "morph": "Case=Nom|Gender=Neut|Number=Sing",
+              "head": "Signatum",
+              "dep": "nsubj:pass",
+              "psalterCount": 13
+            },
+            {
+              "form": "uultus",
+              "lemma": "uultus",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Masc|Number=Sing",
+              "head": "lumen",
+              "dep": "nmod",
+              "psalterCount": 19
+            },
+            {
+              "form": "tui",
+              "lemma": "tuus",
+              "pos": "DET",
+              "morph": "Case=Gen|Gender=Masc|Number=Sing",
+              "head": "uultus",
+              "dep": "det",
+              "psalterCount": 904
+            },
+            {
+              "form": "Domine",
+              "lemma": "dominus",
+              "pos": "NOUN",
+              "morph": "Case=Voc|Gender=Masc|Number=Sing",
+              "head": "Signatum",
+              "dep": "vocative",
+              "psalterCount": 797
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "dedísti lætítiam in corde meo.",
+          "tokens": [
+            {
+              "form": "dedisti",
+              "lemma": "do",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act",
+              "head": "dedisti",
+              "dep": "ROOT",
+              "psalterCount": 82
+            },
+            {
+              "form": "laetitiam",
+              "lemma": "laetitia",
+              "pos": "NOUN",
+              "morph": "Case=Acc|Gender=Fem|Number=Sing",
+              "head": "dedisti",
+              "dep": "obj",
+              "psalterCount": 14
+            },
+            {
+              "form": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "corde",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "corde",
+              "lemma": "cor",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Neut|Number=Sing",
+              "head": "dedisti",
+              "dep": "obl",
+              "psalterCount": 141
+            },
+            {
+              "form": "meo",
+              "lemma": "meus",
+              "pos": "DET",
+              "morph": "Case=Abl|Gender=Neut|Number=Sing",
+              "head": "corde",
+              "dep": "det",
+              "psalterCount": 953
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [
+        "signo"
+      ],
+      "neighbours": {
+        "before": "Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?",
+        "after": "A fructu fruménti, vini, et ólei sui * multiplicáti sunt."
+      },
+      "lxx": {
+        "7": "πολλοὶ λέγουσιν τίς δείξει ἡμῖν τὰ ἀγαθά ἐσημειώθη ἐφ᾿ ἡμᾶς τὸ φῶς τοῦ προσώπου σου κύριε",
+        "8": "ἔδωκας εὐφροσύνην εἰς τὴν καρδίαν μου ἀπὸ καιροῦ σίτου καὶ οἴνου καὶ ἐλαίου αὐτῶν ἐπληθύνθησαν"
+      },
+      "hebrew": {
+        "7": "רַבִּ֥ים אֹמְרִים֮ מִֽי־יַרְאֵ֪נוּ֫ טֹ֥וב נְֽסָה־עָ֭לֵינוּ אֹ֨ור פָּנֶ֬יךָ יְהוָֽה׃",
+        "8": "נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י מֵעֵ֬ת דְּגָנָ֖ם וְתִֽירֹושָׁ֣ם רָֽבּוּ׃"
+      },
+      "iuxtaHebraeos": {
+        "7": "multi dicunt \"quis ostendit nobis bonum?\". leva super nos lucem vultus tui, domine.",
+        "8": "dedisti laetitiam in corde meo: in tempore frumentum et vinum eorum multiplicata sunt."
+      },
+      "antecedentPtPT": "Gravada está sobre nós a luz de vossa face, ó Senhor: * no meu coração infundistes alegria."
+    },
+    {
+      "id": "4:8",
+      "layer": "psalm",
+      "latin": "A fructu fruménti, vini, et ólei sui * multiplicáti sunt.",
+      "latinAsShownInApp": "A fructu fruménti, vini, et ólei sui * multiplicáti sunt.",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "A fructu fruménti, vini, et ólei sui",
+          "tokens": [
+            {
+              "form": "A",
+              "lemma": "a",
+              "pos": "ADP",
+              "morph": "",
+              "head": "fructu",
+              "dep": "case",
+              "psalterCount": 11
+            },
+            {
+              "form": "fructu",
+              "lemma": "fructus",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Masc|Number=Sing",
+              "head": "fructu",
+              "dep": "ROOT",
+              "psalterCount": 13
+            },
+            {
+              "form": "frumenti",
+              "lemma": "frumentum",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "head": "fructu",
+              "dep": "nmod",
+              "psalterCount": 4
+            },
+            {
+              "form": "uini",
+              "lemma": "uinum",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "head": "frumenti",
+              "dep": "conj",
+              "psalterCount": 6
+            },
+            {
+              "form": "et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "head": "olei",
+              "dep": "cc",
+              "psalterCount": 2091
+            },
+            {
+              "form": "olei",
+              "lemma": "oleum",
+              "pos": "NOUN",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "head": "frumenti",
+              "dep": "conj",
+              "psalterCount": 9
+            },
+            {
+              "form": "sui",
+              "lemma": "suus",
+              "pos": "DET",
+              "morph": "Case=Gen|Gender=Neut|Number=Sing",
+              "head": "olei",
+              "dep": "det",
+              "psalterCount": 305
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "multiplicáti sunt.",
+          "tokens": [
+            {
+              "form": "multiplicati",
+              "lemma": "multiplico",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass",
+              "head": "multiplicati",
+              "dep": "ROOT",
+              "psalterCount": 23
+            },
+            {
+              "form": "sunt",
+              "lemma": "sum",
+              "pos": "AUX",
+              "morph": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin",
+              "head": "multiplicati",
+              "dep": "aux:pass",
+              "psalterCount": 839
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [],
+      "neighbours": {
+        "before": "Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.",
+        "after": "In pace in idípsum * dórmiam, et requiéscam;"
+      },
+      "lxx": {
+        "8": "ἔδωκας εὐφροσύνην εἰς τὴν καρδίαν μου ἀπὸ καιροῦ σίτου καὶ οἴνου καὶ ἐλαίου αὐτῶν ἐπληθύνθησαν"
+      },
+      "hebrew": {
+        "8": "נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י מֵעֵ֬ת דְּגָנָ֖ם וְתִֽירֹושָׁ֣ם רָֽבּוּ׃"
+      },
+      "iuxtaHebraeos": {
+        "8": "dedisti laetitiam in corde meo: in tempore frumentum et vinum eorum multiplicata sunt."
+      },
+      "antecedentPtPT": "Pelo fruto do seu trigo, vinho e azeite * se multiplicam."
+    },
+    {
+      "id": "4:9",
+      "layer": "psalm",
+      "latin": "In pace in idípsum * dórmiam, et requiéscam;",
+      "latinAsShownInApp": "In pace in idípsum * dórmiam, et requiéscam;",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "In pace in idípsum",
+          "tokens": [
+            {
+              "form": "In",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "pace",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "pace",
+              "lemma": "pax",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Fem|Number=Sing",
+              "head": "pace",
+              "dep": "ROOT",
+              "psalterCount": 24
+            },
+            {
+              "form": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "idipsum",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "idipsum",
+              "lemma": "idipsum",
+              "pos": "DET",
+              "morph": "Case=Acc|Gender=Neut|Number=Sing",
+              "head": "pace",
+              "dep": "obl",
+              "psalterCount": 1,
+              "rare": true
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "dórmiam, et requiéscam;",
+          "tokens": [
+            {
+              "form": "dormiam",
+              "lemma": "dormio",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act",
+              "head": "dormiam",
+              "dep": "ROOT",
+              "psalterCount": 9
+            },
+            {
+              "form": "et",
+              "lemma": "et",
+              "pos": "CCONJ",
+              "morph": "",
+              "head": "requiescam",
+              "dep": "cc",
+              "psalterCount": 2091
+            },
+            {
+              "form": "requiescam",
+              "lemma": "requiesco",
+              "pos": "VERB",
+              "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act",
+              "head": "dormiam",
+              "dep": "conj",
+              "psalterCount": 4
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [
+        "idipsum"
+      ],
+      "neighbours": {
+        "before": "A fructu fruménti, vini, et ólei sui * multiplicáti sunt.",
+        "after": "Quóniam tu, Dómine, singuláriter in spe * constituísti me."
+      },
+      "lxx": {
+        "9": "ἐν εἰρήνῃ ἐπὶ τὸ αὐτὸ κοιμηθήσομαι καὶ ὑπνώσω ὅτι σύ κύριε κατὰ μόνας ἐπ᾿ ἐλπίδι κατῴκισάς με"
+      },
+      "hebrew": {
+        "9": "בְּשָׁלֹ֣ום יַחְדָּו֮ אֶשְׁכְּבָ֪ה וְאִ֫ישָׁ֥ן כִּֽי־אַתָּ֣ה יְהוָ֣ה לְבָדָ֑ד לָ֝בֶ֗טַח תֹּושִׁיבֵֽנִי׃"
+      },
+      "iuxtaHebraeos": {
+        "9": "in pace simul requiescam et dormiam, quia tu, domine, specialiter securum habitare fecisti me."
+      },
+      "antecedentPtPT": "Em paz dormirei * e tranquilo descansarei;"
+    },
+    {
+      "id": "4:10",
+      "layer": "psalm",
+      "latin": "Quóniam tu, Dómine, singuláriter in spe * constituísti me.",
+      "latinAsShownInApp": "Quóniam tu, Dómine, singuláriter in spe * constituísti me.",
+      "marks": "*",
+      "cola": [
+        {
+          "mark": "",
+          "latin": "Quóniam tu, Dómine, singuláriter in spe",
+          "tokens": [
+            {
+              "form": "Quoniam",
+              "lemma": "quoniam",
+              "pos": "SCONJ",
+              "morph": "",
+              "head": "spe",
+              "dep": "mark",
+              "psalterCount": 269
+            },
+            {
+              "form": "tu",
+              "lemma": "tu",
+              "pos": "PRON",
+              "morph": "Case=Nom|Number=Sing|Person=2",
+              "head": "spe",
+              "dep": "nsubj",
+              "psalterCount": 428
+            },
+            {
+              "form": "Domine",
+              "lemma": "dominus",
+              "pos": "PROPN",
+              "morph": "Case=Voc|Gender=Masc|Number=Sing",
+              "head": "tu",
+              "dep": "vocative",
+              "psalterCount": 797
+            },
+            {
+              "form": "singulariter",
+              "lemma": "singulariter",
+              "pos": "ADV",
+              "morph": "",
+              "head": "spe",
+              "dep": "advmod",
+              "psalterCount": 2,
+              "rare": true
+            },
+            {
+              "form": "in",
+              "lemma": "in",
+              "pos": "ADP",
+              "morph": "",
+              "head": "spe",
+              "dep": "case",
+              "psalterCount": 1650
+            },
+            {
+              "form": "spe",
+              "lemma": "spes",
+              "pos": "NOUN",
+              "morph": "Case=Abl|Gender=Fem|Number=Sing",
+              "head": "spe",
+              "dep": "ROOT",
+              "psalterCount": 19
+            }
+          ]
+        },
+        {
+          "mark": "*",
+          "latin": "constituísti me.",
+          "tokens": [
+            {
+              "form": "constituisti",
+              "lemma": "constituo",
+              "pos": "VERB",
+              "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act",
+              "head": "constituisti",
+              "dep": "ROOT",
+              "psalterCount": 12
+            },
+            {
+              "form": "me",
+              "lemma": "ego",
+              "pos": "PRON",
+              "morph": "Case=Acc|Number=Sing|Person=1",
+              "head": "constituisti",
+              "dep": "obj",
+              "psalterCount": 750
+            }
+          ]
+        }
+      ],
+      "rareLemmas": [
+        "singulariter"
+      ],
+      "neighbours": {
+        "before": "In pace in idípsum * dórmiam, et requiéscam;",
+        "after": null
+      },
+      "lxx": {
+        "9": "ἐν εἰρήνῃ ἐπὶ τὸ αὐτὸ κοιμηθήσομαι καὶ ὑπνώσω ὅτι σύ κύριε κατὰ μόνας ἐπ᾿ ἐλπίδι κατῴκισάς με"
+      },
+      "hebrew": {
+        "9": "בְּשָׁלֹ֣ום יַחְדָּו֮ אֶשְׁכְּבָ֪ה וְאִ֫ישָׁ֥ן כִּֽי־אַתָּ֣ה יְהוָ֣ה לְבָדָ֑ד לָ֝בֶ֗טַח תֹּושִׁיבֵֽנִי׃"
+      },
+      "iuxtaHebraeos": {
+        "9": "in pace simul requiescam et dormiam, quia tu, domine, specialiter securum habitare fecisti me."
+      },
+      "antecedentPtPT": "Porque Vós, ó Senhor, de forma singular * na esperança me firmastes."
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+/* Psalterium review site. Lifted from review.html (the approved design); site.py copies this file into site/assets/. */
+:root {
+  --paper: #FAF6F0;
+  --ink: #2C2418;
+  --ink-2: #6B5D4F;
+  --rubric: #6B1D2A;
+  --gold: #A8872E;
+  --gold-soft: #D4C088;
+  --rule: #E5DDD2;
+  --serif: 'EB Garamond', 'Cormorant Garamond', Garamond, 'Iowan Old Style', Georgia, serif;
+  --caps: 'Cinzel', 'Trajan Pro', var(--serif);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #0E0D0C;
+    --ink: #EDE4D8;
+    --ink-2: #A89A8C;
+    --rubric: #C75B6B;
+    --gold: #D4A63A;
+    --gold-soft: #6E5C32;
+    --rule: #3A342E;
+  }
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 4.5rem; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  line-height: 1.55;
+  font-feature-settings: 'liga', 'onum';
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 2px; }
+[hidden] { display: none !important; }
+
+/* ── the way around the site: one quiet line ── */
+.sitenav { display: flex; flex-wrap: wrap; gap: .2rem 1.6rem; justify-content: center; padding: 1.1rem 1.25rem 0; font-size: 1rem; font-style: italic; color: var(--ink-2); }
+.sitenav a { text-decoration: none; padding-bottom: 1px; border-bottom: 1px solid transparent; }
+.sitenav a:hover { color: var(--ink); }
+.sitenav a[aria-current] { color: var(--ink); border-bottom-color: var(--gold); }
+
+/* ── the bar that stays with you while you pray ── */
+.bar {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; flex-wrap: wrap; gap: .35rem 2.25rem; justify-content: center; align-items: baseline;
+  padding: .7rem 1.25rem;
+  background: color-mix(in srgb, var(--paper) 94%, transparent);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--rule);
+  font-size: 1.05rem;
+}
+.switch { display: inline-flex; flex-wrap: wrap; gap: .1rem .9rem; align-items: baseline; border: 0; margin: 0; padding: 0; }
+.switch legend { float: left; margin-right: .9rem; padding: 0; color: var(--ink-2); font-style: italic; }
+.switch input { position: absolute; opacity: 0; pointer-events: none; }
+.switch label { color: var(--ink-2); cursor: pointer; padding-bottom: 1px; border-bottom: 1px solid transparent; }
+.switch label:hover { color: var(--ink); }
+.switch input:checked + label { color: var(--ink); border-bottom-color: var(--gold); }
+.switch input:focus-visible + label { outline: 2px solid var(--gold); outline-offset: 3px; }
+/* a view that would show nothing new (the stylist's, when all his changes were taken): said, not offered */
+.switch input:disabled + label { cursor: default; font-style: italic; opacity: .75; }
+.switch input:disabled + label:hover { color: var(--ink-2); }
+select, input.filter {
+  font: inherit; font-size: 1.05rem; color: var(--ink); background: transparent;
+  border: 0; border-bottom: 1px solid var(--rule); border-radius: 0; padding: .1rem 0;
+}
+select:focus, input.filter:focus { outline: none; border-bottom-color: var(--gold); }
+input.filter { display: block; width: 100%; font-style: italic; margin: 0 0 1rem; }
+input.filter::placeholder { color: var(--ink-2); opacity: .75; }
+
+/* ── head ── */
+header.leaf-head { text-align: center; padding: 3.6rem 1.25rem 2.5rem; }
+.cross { color: var(--gold); font-size: 1.6rem; line-height: 1; }
+h1 { font-weight: 400; font-size: clamp(2.6rem, 6vw, 3.9rem); line-height: 1.05; margin: 1.1rem 0 .4rem; letter-spacing: .005em; }
+.incipit { font-style: italic; font-size: 1.45rem; color: var(--ink-2); margin: 0; }
+.standing { max-width: 34rem; margin: 1.6rem auto 0; color: var(--ink-2); font-size: 1.08rem; }
+.standing.warn { color: var(--rubric); }
+
+/* ── the psalm: prayer is architecture — one colon to a line ── */
+.psalm { max-width: 66rem; margin: 0 auto; padding: 1rem 1.5rem 3rem; }
+.verse { display: grid; grid-template-columns: 1fr 1fr; column-gap: 3.5rem; padding: .55rem 0; }
+.side { position: relative; padding-left: 2.6rem; }
+.num { position: absolute; left: 0; top: .28em; width: 2rem; text-align: right; font-size: .78rem; color: var(--ink-2); font-feature-settings: 'lnum'; }
+.colon { display: block; }
+.colon + .colon { padding-left: 1.6rem; }
+.mark { color: var(--rubric); padding-left: .2em; }
+/* no lang="la" on the Latin: EB Garamond's Latin-language forms turn every u into v (Cvm, Devs) */
+.la { color: var(--ink-2); }
+#psalm .verse:first-child .num + .colon::first-letter {
+  font-size: 3.1em; line-height: .8; float: left; padding: .06em .09em 0 0; color: var(--rubric);
+}
+.open { text-decoration: underline dotted var(--gold); text-decoration-thickness: 1.5px; text-underline-offset: .22em; }
+.open:hover { text-decoration-style: solid; }
+.changed { background: linear-gradient(transparent 62%, color-mix(in srgb, var(--gold-soft) 55%, transparent) 62%); }
+/* what stands beside the psalm, under the column of its language */
+.cf { padding: .35rem 0 .5rem 2.6rem; font-size: .98rem; line-height: 1.4; color: var(--ink-2); }
+.cf p { margin: 0 0 .3rem; }
+.cf .vname { font-style: italic; color: var(--rubric); margin-right: .45rem; }
+.cf sup { font-size: .68em; margin-right: .15em; font-feature-settings: 'lnum'; }
+.cf .absent { font-style: italic; opacity: .75; }
+.cf .raw { white-space: pre-line; }
+#blocks { padding-bottom: 0; }
+#blocks:empty { display: none; }
+
+/* the layers: a verse's strata from the Latin down, what changed between drafts, and why, hung beside it */
+.verse.layered { display: block; position: relative; padding: .9rem 0 .9rem 2.6rem; border-top: 1px solid var(--rule); }
+.verse.layered:first-child { border-top: 0; }
+.verse.layered > .num { top: 1.15rem; }
+.stratum { display: grid; grid-template-columns: 6.2rem minmax(0, 1fr) minmax(0, 21rem); column-gap: 1.4rem; padding: .16rem 0; }
+.stratum .label, details.layered summary .label { font-style: italic; font-size: .92rem; color: var(--rubric); padding-top: .18em; }
+.stratum.la, .stratum.literal, .stratum.gloss, .stratum.same { color: var(--ink-2); }
+.stratum.literal, .stratum.gloss { font-size: 1.05rem; }
+.stratum del { text-decoration: line-through; text-decoration-thickness: 1px; color: var(--ink-2); opacity: .8; }
+.stratum ins { text-decoration: none; background: linear-gradient(transparent 62%, color-mix(in srgb, var(--gold-soft) 55%, transparent) 62%); }
+.cause { font-size: .95rem; line-height: 1.4; color: var(--ink-2); }
+.cause p { margin: 0 0 .45rem; }
+.gl { display: inline-flex; flex-direction: column; margin: 0 .8rem .3rem 0; vertical-align: top; line-height: 1.25; }
+.gl span + span { font-size: .8rem; font-style: italic; }
+details.verse.layered { margin: 0; padding-left: 0; }
+details.layered summary { font-style: normal; font-size: inherit; color: var(--ink); }
+details.layered summary .label { display: inline-block; width: 1.5rem; margin-right: .6rem; text-align: right; font-style: normal; font-size: .78rem; color: var(--ink-2); font-feature-settings: 'lnum'; }
+details.layered[open] > summary { margin-bottom: .5rem; }
+details.layered > .stratum { margin-left: 2.6rem; }
+@media (max-width: 760px) {
+  .stratum { grid-template-columns: 1fr; }
+  .stratum .cause:empty { display: none; }
+  .stratum .cause { padding-left: 1rem; }
+}
+
+/* a decision, opened where the word stands */
+#pop {
+  position: absolute; z-index: 10; width: min(27rem, 92vw); max-height: 80vh; overflow: auto;
+  background: var(--paper); border-top: 2px solid var(--gold);
+  box-shadow: 0 1px 0 var(--rule), 0 18px 48px -12px color-mix(in srgb, var(--ink) 38%, transparent);
+  padding: .2rem 0 1rem;
+}
+#pop .decision { padding: 1rem 1.4rem 0; }
+#pop .decision h3 { font-size: 1.25rem; }
+#pop .why, #pop .options label, #pop textarea { font-size: 1rem; }
+#pop .close { display: block; margin: .8rem 1.4rem 0 auto; font-size: 1rem; }
+@media (max-width: 760px) {
+  #pop { position: fixed; left: 0 !important; right: 0; top: auto !important; bottom: 0; width: 100%; max-height: 70vh; }
+}
+
+.legend { max-width: 66rem; margin: 0 auto; padding: 0 1.5rem 0 4.1rem; color: var(--ink-2); font-size: 1rem; font-style: italic; }
+
+@media (max-width: 760px) {
+  body { font-size: 1.15rem; }
+  .verse { grid-template-columns: 1fr; row-gap: .15rem; padding: .7rem 0; }
+  .la { font-size: .92em; }
+  .la .num { display: none; }
+  .legend { padding-left: 1.5rem; }
+}
+
+/* ── section markers ── */
+.marker { text-align: center; margin: 4.5rem 0 2.25rem; }
+.marker h2 { font-family: var(--caps); font-weight: 500; font-size: .95rem; letter-spacing: .24em; text-transform: uppercase; color: var(--rubric); margin: .5rem 0 0; }
+.marker .fleuron { color: var(--gold); font-size: 1.3rem; }
+
+/* ── prose, and whatever markdown brings ── */
+.prose { max-width: 40rem; margin: 0 auto; padding: 0 1.5rem; }
+.prose.wide { max-width: 58rem; }
+.prose p { margin: 0 0 1.1rem; }
+.prose em { font-style: italic; }
+.prose strong { font-weight: 500; }
+.prose h2 { font-weight: 400; font-size: 1.75rem; line-height: 1.2; margin: 2.6rem 0 .8rem; }
+.prose h3 { font-weight: 400; font-size: 1.4rem; line-height: 1.25; margin: 2.2rem 0 .6rem; }
+.prose h4, .prose h5, .prose h6 { font-weight: 400; font-style: italic; font-size: 1.2rem; margin: 1.8rem 0 .4rem; color: var(--ink-2); }
+.prose ul, .prose ol { margin: 0 0 1.1rem; padding-left: 1.5rem; }
+.prose ul { list-style: none; }
+.prose ul > li { position: relative; }
+.prose ul > li::before { content: '·'; position: absolute; left: -1rem; color: var(--gold); }
+.prose li { margin: 0 0 .35rem; }
+.prose li > ul, .prose li > ol { margin: .35rem 0 0; }
+.prose blockquote { margin: 0 0 1.1rem; padding: 0 0 0 1.6rem; color: var(--ink-2); font-style: italic; }
+.prose blockquote p { margin-bottom: .4rem; }
+.prose code { font: inherit; color: var(--ink-2); }
+.prose pre { font: inherit; font-size: 1rem; line-height: 1.45; color: var(--ink-2); white-space: pre-wrap; margin: 0 0 1.1rem; padding-left: 1.6rem; }
+.prose figure.drawing { margin: 1.6rem 0 2rem; }
+.prose figure.drawing svg { display: block; width: 100%; max-width: 760px; height: auto; margin: 0 auto; }
+.prose pre.diagram { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; font-size: 0.78rem; line-height: 1.3; white-space: pre; overflow-x: auto; padding-left: 0; }
+.prose hr { border: 0; text-align: center; margin: 2.2rem 0; }
+.prose hr::after { content: '❧'; color: var(--gold); }
+.prose table { width: 100%; border-collapse: collapse; margin: 0 0 1.6rem; font-size: 1.02rem; line-height: 1.4; }
+.prose th { text-align: left; font-weight: 400; font-style: italic; color: var(--ink-2); padding: .35rem .9rem .35rem 0; vertical-align: bottom; }
+.prose td { padding: .45rem .9rem .45rem 0; vertical-align: top; border-top: 1px solid var(--rule); }
+.prose td:last-child, .prose th:last-child { padding-right: 0; }
+.prose td .links { display: block; font-size: .9rem; font-style: italic; color: var(--ink-2); }
+.prose td .links a { margin-right: .6rem; }
+.scroll { overflow-x: auto; }
+.contents { text-align: center; font-style: italic; color: var(--ink-2); font-size: 1.08rem; max-width: 46rem; margin: 0 auto; padding: 0 1.5rem; }
+.contents a { margin: 0 .7rem; white-space: nowrap; }
+
+details { margin: 0 0 .8rem; }
+summary { cursor: pointer; color: var(--ink-2); font-style: italic; font-size: 1.02rem; }
+summary::marker { color: var(--gold); }
+summary:hover { color: var(--ink); }
+details[open] > summary { margin-bottom: .6rem; }
+
+/* ── rows: a reference, then what is said of it ── */
+.fixes { max-width: 52rem; margin: 2rem auto; padding: 0 1.5rem; }
+.fix { display: grid; grid-template-columns: 3.2rem 1fr; column-gap: 1.5rem; padding: .7rem 0; border-top: 1px solid var(--rule); font-size: 1.08rem; }
+.fix:last-child { border-bottom: 1px solid var(--rule); }
+.fix .ref { color: var(--ink-2); font-size: .85rem; padding-top: .25em; font-feature-settings: 'lnum'; }
+.fix .ref a { text-decoration: none; }
+.fix p { margin: 0 0 .25rem; }
+.fix .problem, .fix .cost { color: var(--ink-2); font-size: 1rem; }
+.fix .outcome { font-style: italic; font-size: 1rem; color: var(--ink-2); }
+.fix .outcome.taken { color: var(--ink); }
+.vname { font-style: italic; color: var(--rubric); margin-right: .45rem; }
+@media (max-width: 760px) { .fix { grid-template-columns: 2.6rem 1fr; column-gap: 1rem; } }
+
+/* ── the audit trail ── */
+.audit { max-width: 52rem; margin: 0 auto; padding: 0 1.5rem; }
+.step { padding: 1.4rem 0 .4rem; }
+.step + .step { border-top: 1px solid var(--rule); }
+.step h3 { font-weight: 400; font-size: 1.4rem; margin: 0 0 .3rem; }
+.step h3 .ref { font-size: .85rem; color: var(--ink-2); margin-right: .55rem; font-feature-settings: 'lnum'; }
+.step .note { margin: 0 0 .8rem; }
+.step .meta { color: var(--ink-2); font-size: 1rem; font-style: italic; margin: 0 0 .6rem; }
+.step .overall { color: var(--ink-2); font-size: 1.05rem; margin: .6rem 0; }
+.step .fixes { margin: .6rem 0 1rem; padding: 0; max-width: none; }
+.step ul { margin: 0 0 .8rem; padding-left: 1.4rem; font-size: 1rem; color: var(--ink-2); }
+
+/* ── decisions ── */
+.decision { max-width: 40rem; margin: 0 auto; padding: 1.9rem 1.5rem 0; }
+.decision h3 { font-weight: 400; font-size: 1.5rem; line-height: 1.25; margin: 0 0 .2rem; }
+.decision h3 .ref { font-size: .85rem; color: var(--ink-2); margin-right: .55rem; font-feature-settings: 'lnum'; }
+.decision h3 .ref a { text-decoration: none; }
+.decision h3 i { color: var(--ink-2); }
+.why { color: var(--ink-2); font-size: 1.05rem; margin: .1rem 0 .7rem; }
+.options { list-style: none; margin: 0; padding: 0; }
+.options li { position: relative; }
+.options input { position: absolute; opacity: 0; pointer-events: none; }
+.options label { display: block; padding: .22rem 0 .22rem 1.9rem; cursor: pointer; color: var(--ink-2); }
+.options label::before { content: '◦'; position: absolute; left: .45rem; color: var(--ink-2); }
+.options label:hover { color: var(--ink); }
+.options input:checked + label { color: var(--ink); }
+.options input:checked + label::before { content: '❧'; left: .15rem; color: var(--gold); }
+.options input:focus-visible + label { outline: 2px solid var(--gold); outline-offset: 2px; }
+.options.settled label { cursor: default; }
+.tag { font-style: italic; font-size: .95rem; color: var(--ink-2); }
+.tag.warn { color: var(--rubric); }
+textarea {
+  display: block; width: 100%; margin-top: .6rem; padding: .35rem 0; min-height: 2.2rem; resize: vertical;
+  font: inherit; font-size: 1.05rem; font-style: italic; color: var(--ink);
+  background: transparent; border: 0; border-bottom: 1px solid var(--rule); border-radius: 0;
+}
+textarea::placeholder { color: var(--ink-2); opacity: .75; }
+textarea:focus { outline: none; border-bottom-color: var(--gold); }
+.stumbles textarea { min-height: 7rem; }
+.empty { text-align: center; color: var(--ink-2); font-style: italic; }
+
+/* ── the psalter at a glance ── */
+.ledger { max-width: 50rem; margin: 0 auto; padding: 0 1.5rem; }
+.row { display: grid; grid-template-columns: 2.6rem 1fr 6.5rem 6.5rem 3.5rem; column-gap: 1.2rem; align-items: baseline; padding: .32rem 0; border-top: 1px solid var(--rule); font-size: 1.08rem; text-decoration: none; }
+.row:last-child { border-bottom: 1px solid var(--rule); }
+.row.head { border-top: 0; font-style: italic; font-size: .95rem; color: var(--ink-2); }
+.row .n { text-align: right; font-feature-settings: 'lnum'; color: var(--ink-2); }
+.row .name i { color: var(--ink-2); }
+.row .status, .row .count, .row .version { font-size: .98rem; color: var(--ink-2); font-feature-settings: 'lnum'; }
+.row .status.incomplete { color: var(--rubric); font-style: italic; }
+.row.idle, .row.idle .name i { color: var(--ink-2); opacity: .8; }
+a.row:hover .name { color: var(--rubric); }
+a.row .name { text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: .2em; text-decoration-thickness: 1px; }
+@media (max-width: 760px) {
+  .row { grid-template-columns: 2.2rem 1fr 5.5rem; }
+  .row .count, .row .version { display: none; }
+}
+
+/* ── foot: previous and next, handing back ── */
+.turn { display: flex; justify-content: space-between; max-width: 52rem; margin: 3.5rem auto 0; padding: 0 1.5rem; font-style: italic; color: var(--ink-2); }
+.turn a { text-decoration: none; }
+.turn a:hover { color: var(--rubric); }
+.handback { text-align: center; padding: 3.5rem 1.5rem 6rem; }
+button {
+  font: inherit; color: var(--ink); background: transparent; cursor: pointer;
+  border: 0; border-bottom: 1px solid var(--gold); padding: .15rem .1rem; border-radius: 0;
+}
+button:hover { color: var(--rubric); }
+button.quiet { border-bottom-color: transparent; color: var(--ink-2); font-size: 1rem; margin-left: 1.5rem; }
+#copied { display: block; min-height: 1.6em; margin-top: .8rem; color: var(--ink-2); font-style: italic; font-size: 1.05rem; }
+#fallback { max-width: 40rem; margin: 1rem auto 0; min-height: 14rem; font-style: normal; font-size: .95rem; text-align: left; }

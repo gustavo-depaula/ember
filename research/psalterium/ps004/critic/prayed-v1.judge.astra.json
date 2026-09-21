@@ -1,0 +1,11 @@
+{
+  "role": "judge",
+  "prompt": "prompts/judge.md",
+  "promptSha256": "5dfa216fd83a006640aacee21739da8adf7f461c8e1e1601e4d7f3ca3e1c47b8",
+  "target": "prayed.vos.json",
+  "targetSha256": "bb9df4e27691a1e04bfe7e2cc0efe30db2ae2a521c0e153d1fa757d199209cca",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T00:28:19+00:00",
+  "reply": "{\n  \"verses\": [\n    {\"id\": \"4:2a\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:2b\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:3\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:4\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:5\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:6\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:7\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:8\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:9\", \"errors\": [], \"penalty\": 0},\n    {\"id\": \"4:10\", \"errors\": [], \"penalty\": 0}\n  ],\n  \"totalPenalty\": 0,\n  \"overall\": \"A tradução preserva o sentido do latim, suas imagens e sua estranheza septuagintal, sem erros identificáveis pelos critérios propostos. As marcas de recitação estão nas posições correspondentes às do original, e o registro é compatível com o uso litúrgico brasileiro.\"\n}"
+}

@@ -1,0 +1,634 @@
+{
+  "psalm": 2,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "2:1": "Por que {fremuerunt} as nações: * e os povos meditaram coisas vãs?",
+    "2:2": "{astiterunt} os reis da terra, e os príncipes {inunum} * contra o Senhor, e contra o seu {christum}.",
+    "2:3": "Rompamos as {vincula} deles: * e {proiciamus} de nós o seu jugo.",
+    "2:4": "Aquele que habita nos céus rirá deles: * e o Senhor {subsannabit} deles.",
+    "2:5": "Então lhes falará na sua ira, * e no seu furor os {conturbabit}.",
+    "2:6": "Eu, porém, fui por ele {constitutus} Rei sobre Sião, o seu monte santo, * {praedicans} o seu {praeceptum}.",
+    "2:7": "O Senhor me disse: * {v7b}.",
+    "2:8": "{v8}",
+    "2:9": "{v9}",
+    "2:10": "E agora, reis, entendei: * {erudimini}, vós que julgais a terra.",
+    "2:11": "{servite} no temor: * e exultai {ei} com tremor.",
+    "2:12": "{apprehendite} a disciplina, {nequando} fora do caminho justo.",
+    "2:13": "Quando {inbrevi} se inflamar a sua ira: * bem-aventurados todos os que confiam nele."
+  },
+  "decisions": [
+    {
+      "id": "address",
+      "refs": ["2:7", "2:8", "2:9"],
+      "latin": "Fílius meus es tu … Póstula a me, et dabo tibi … Reges eos … confrínges eos",
+      "kind": "grammar",
+      "why": "The psalter's first case of a divine person being spoken to — but by God, not by the one who prays. D1 makes God 'vós' when he is addressed; rule 3 makes a singular human addressee 'tu'. The Anointed of this psalm is, for the Church that prays it, the Son; so which rule governs? The question returns wherever God speaks to his king or Christ (109:1 Sede a dextris meis, 109:4 Tu es sacérdos in ætérnum, 88:27–28), and is distinct from the psalmist addressing the Messiah-king (Ps 44), which this does not settle.",
+      "options": [
+        {
+          "label": "tu",
+          "forms": {
+            "filius_nat": "Tu és meu Filho",
+            "filius_lat": "Meu Filho és tu",
+            "genui": "eu hoje te gerei",
+            "v8": "Pede-me, e eu te darei as nações como tua herança, * e como tua posse os {terminos} da terra.",
+            "v9": "Tu os {reges} com {virga}, * e como vaso de oleiro os {confringes}."
+          },
+          "note": "Ruling. 'Vós' in this psalter is not a mark of the addressee's rank but the voice of the one who prays: it is how a creature speaks up to God (vos-tu.md, D1). Here the direction is the other way — the Father speaks to the Son, a king is installed by his God — and the speaker owes no deference: a father who said 'Vós sois meu filho' would be keeping his son at a distance at the very moment the Latin is most intimate (Fílius meus es tu, ego hódie génui te). So the rule proposed for the glossary: address follows the speaker — whoever prays to God says 'vós'; when God speaks to a single addressee (his Anointed, the king, the just man of Ps 90:9–13, already 'tu') he says 'tu'. Both Portuguese antecedents have 'Tu és meu filho' here (Matos Soares 1932; DM1962 — who say 'tu' throughout, so this proves only that the line is known so). It also keeps the verse clear of rule 3: the 'vós' imperative of Póstula would be 'Pedi-me', which is also 'I asked'.",
+          "from": "draft"
+        },
+        {
+          "label": "vós",
+          "forms": {
+            "filius_nat": "Vós sois meu Filho",
+            "filius_lat": "Meu Filho sois vós",
+            "genui": "eu hoje vos gerei",
+            "v8": "Pedi-me, e eu vos darei as nações como vossa herança, * e como vossa posse os {terminos} da terra.",
+            "v9": "Vós os {reges_vos} com {virga}, * e como vaso de oleiro os {confringes_vos}."
+          },
+          "note": "If the rule were 'every divine person is vós, whoever speaks'. Consistent on paper; in the mouth it turns the Father's word to the Son into court speech, and 'Pedi-me' stands only by D13's enclitic exception. Kept selectable so that Gustavo can hear it.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "filius",
+      "refs": ["2:7"],
+      "latin": "Fílius meus es tu, ego hódie génui te",
+      "kind": "order",
+      "why": "One of the best-known lines of the psalter (the Latin is sung at Christmas). The Latin puts the predicate first and the two pronouns back to back at the caesura: … es tu, ego hódie …. D2 gives order to the ear. 'Filho' takes the capital the DO Latin gives the other titles of the same person in this psalm (Christum 2:2, Rex 2:6; Fílius is capital there too, though it also opens the quotation). No article before 'meu': a predicate noun of kinship takes none even in article-keeping Portuguese ('tu és meu filho').",
+      "options": [
+        {
+          "label": "Tu és meu Filho, eu hoje te gerei",
+          "forms": {"v7b": "{filius_nat}, {genui}"},
+          "note": "Ruling. The natural order, and the wording of both Portuguese antecedents (Matos Soares 1932 'Tu és meu filho, eu gerei-te hoje'; DM1962 'Tu és meu filho, eu hoje te gerei' — the second colon is word for word DM1962's, which keeps the Latin's ego hódie génui te in order). The contrast tu / eu still opens the two halves.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Meu Filho és tu, eu hoje te gerei",
+          "forms": {"v7b": "{filius_lat}, {genui}"},
+          "note": "The Latin's order: the predicate first, and 'tu, eu' back to back as 'tu, ego' are. Solemn and perfectly sayable; less familiar to the ear that knows the line.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeceptum",
+      "refs": ["2:6"],
+      "latin": "prǽdicans præcéptum ejus",
+      "kind": "glossary",
+      "why": "præcéptum is `open` in the glossary, proposed as 'decreto' by the Ps 118 study (words/ps118-terms.md §5) so that 'preceitos' could go to justificatiónes (D15). This is the first verse to meet it. It occurs 8 times, always singular (words/praeceptum.concordance.md), πρόσταγμα in six; here the Greek is τὸ πρόσταγμα κυρίου, 'the decree of the Lord' (the Latin has ejus, which is followed), and the decree is then quoted: 'The Lord said to me: Thou art my Son'. Douay-Rheims has 'commandment', Matos Soares 1932 'lei' — each a word the glossary has given to another Latin term (mandáta, lex).",
+      "options": [
+        {
+          "label": "decreto",
+          "forms": {"praeceptum": "decreto"},
+          "note": "Ruling: 'decreto' holds. Here it is exactly right — a king set on Sion proclaims a decree, and what follows is its text; the Ps 118 study's worry that 'decreto' is 'an act of government in Brazil' is here the point. Tried in the other seven places from the concordance: 7:7b 'no decreto que ordenastes'; 18:9 'o decreto do Senhor é luminoso' (the one ἐντολή, and the least natural — 'preceito' would sit better there, but it is sayable); 80:5 'Porque é um decreto em Israel'; 93:20 'que forjas o trabalho no decreto'; 98:7 'e o decreto que lhes deu'; 104:10 'estabeleceu-o para Jacó como decreto'; 148:6 'pôs um decreto, e não passará'. It fails nowhere. (DM1962 also has 'o decreto do Senhor' here — from the Hebrew, so it shows only that the word is prayable.)",
+          "from": "glossary"
+        },
+        {
+          "label": "preceito",
+          "forms": {"praeceptum": "preceito"},
+          "note": "The cognate. Would collide with justificatiónes → preceitos (D15), and 'proclamar um preceito' is weaker than the verse: a precept is taught, a decree is proclaimed.",
+          "from": "draft"
+        },
+        {
+          "label": "mandamento",
+          "forms": {"praeceptum": "mandamento"},
+          "note": "Douay-Rheims 'commandment'. It is mandátum's word (D15).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "praedicans",
+      "refs": ["2:6"],
+      "latin": "prǽdicans",
+      "kind": "word",
+      "why": "prædicáre is 'to proclaim publicly' (διαγγέλλων, announcing abroad). Its Portuguese descendant 'pregar' has narrowed to preaching a sermon (and is also 'to nail'). The participle hangs on the 'I' of the verse: I was set up as King … proclaiming.",
+      "options": [
+        {
+          "label": "proclamando",
+          "forms": {"praedicans": "proclamando"},
+          "note": "Ruling. What prædicáre means, and the gerund keeps the Latin's participle, with its openness (proclaiming as I am installed / in order to proclaim). Matos Soares 1932 resolves it into purpose ('para pregar').",
+          "from": "draft"
+        },
+        {
+          "label": "pregando",
+          "forms": {"praedicans": "pregando"},
+          "note": "The cognate (Matos Soares 1932 'pregar', Douay-Rheims 'preaching'). Today a king who 'prega' is giving a sermon.",
+          "from": "MS1932"
+        },
+        {
+          "label": "anunciando",
+          "forms": {"praedicans": "anunciando"},
+          "note": "Plain and good; kept free for annuntiáre, which the psalter has some forty times.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "constitutus",
+      "refs": ["2:6"],
+      "latin": "constitútus sum Rex ab eo",
+      "kind": "glossary",
+      "why": "The Latin follows the Greek (κατεστάθην … ὑπ᾽ αὐτοῦ): the Anointed speaks — 'I have been set up as King by him' — where the Hebrew has God speaking ('I have set my king'; so DM1962). Rule 1: the Latin's speaker is kept, and no turn is marked that the Latin does not mark. The glossary has constitúere → estabelecer (working, Ps 4:10).",
+      "options": [
+        {
+          "label": "estabelecido",
+          "forms": {"constitutus": "estabelecido"},
+          "note": "Ruling: the glossary's verb, and 'estabelecido Rei sobre Sião' is good Portuguese. 'por ele' stands before the participle so that 'Rei sobre Sião' is not broken up.",
+          "from": "glossary"
+        },
+        {
+          "label": "constituído",
+          "forms": {"constitutus": "constituído"},
+          "note": "The cognate, and the idiom ('constituir alguém rei'); Matos Soares 1932. If the glossary row for constitúere is ever reopened, this verse is the argument for the cognate.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "christum",
+      "refs": ["2:2"],
+      "latin": "advérsus Christum ejus",
+      "kind": "glossary",
+      "why": "The Latin does not translate the Greek χριστός but borrows it; a Latin reader hears 'Christ', not 'anointed' (which would be unctus). DO's Latin prints it with a capital. The word recurs about ten times (17:51, 19:7, 27:8, 83:10, 88:39, 88:52, 131:10, 131:17 and the plural 104:15 Nolíte tángere christos meos).",
+      "options": [
+        {
+          "label": "Cristo",
+          "forms": {"christum": "Cristo"},
+          "note": "Ruling: translate the Latin as Latin (rule 1). 'Contra o Senhor, e contra o seu Cristo' is what the column beside it says and what Douay-Rheims, Matos Soares 1932 and even DM1962 (from the Hebrew) print. Glossary: open, because the plural of 104:15 cannot be 'os meus cristos' and will need 'ungidos' at least there.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Ungido",
+          "forms": {"christum": "Ungido"},
+          "note": "What the word means, and it serves David and the plural of 104:15 without strain; but it un-says the name the Latin says, in the one psalm where the Church most wants to hear it (Acts 4 quotes this verse of Christ).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fremuerunt",
+      "refs": ["2:1"],
+      "latin": "Quare fremuérunt gentes",
+      "kind": "word",
+      "why": "frémere is a noise before it is a feeling: to roar, growl, rage (L&S); the Greek ἐφρύαξαν is the snorting of horses. Douay-Rheims 'raged' and Matos Soares 1932 'se embraveceram' give the feeling; the Latin gives the sound. The verb comes once more, 111:10 (déntibus suis fremet).",
+      "options": [
+        {
+          "label": "bramiram",
+          "forms": {"fremuerunt": "bramiram"},
+          "note": "Ruling. 'Bramir' is the roar of the sea, of a bull, of a crowd — sound and fury in one verb, as frémere is; three syllables, the colon matches the Latin's eight.",
+          "from": "draft"
+        },
+        {
+          "label": "se enfureceram",
+          "forms": {"fremuerunt": "se enfureceram"},
+          "note": "Douay-Rheims 'raged'; Matos Soares 1932 'se embraveceram'. The feeling without the noise; plainer.",
+          "from": "DRB"
+        },
+        {
+          "label": "fremiram",
+          "forms": {"fremuerunt": "fremiram"},
+          "note": "The cognate exists in Portuguese, but is rare and leans to 'quivered'.",
+          "from": "draft"
+        },
+        {
+          "label": "se agitaram",
+          "forms": {"fremuerunt": "se agitaram"},
+          "note": "DM1962 ('se agitam'), from the Hebrew's 'are in tumult'. Plain; neither roar nor rage.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "astiterunt",
+      "refs": ["2:2"],
+      "latin": "Astitérunt reges terræ",
+      "kind": "word",
+      "why": "ad-stáre: to stand up, take one's stand (παρέστησαν). 'Levantar-se' is the obvious verb, but the glossary already loads it with exsúrgere and insúrgere, both of which come in the very next psalm (3:2, 3:7).",
+      "options": [
+        {
+          "label": "Ergueram-se",
+          "forms": {"astiterunt": "Ergueram-se"},
+          "note": "Ruling. To rise to one's feet, to stand up against: what astitérunt says, in a plain verb that leaves 'levantar-se' alone. (The glossary has the transitive 'erguer' for extóllere — erguer as mãos; the reflexive is a different use.) Chosen over 'Puseram-se de pé' for length: the colon was +5 by the checker with it.",
+          "from": "draft"
+        },
+        {
+          "label": "Puseram-se de pé",
+          "forms": {"astiterunt": "Puseram-se de pé"},
+          "note": "Goes with the glossary's stare → estar de pé; concrete — the kings get to their feet. Two syllables longer in the longest colon but one of the psalm.",
+          "from": "glossary"
+        },
+        {
+          "label": "Levantaram-se",
+          "forms": {"astiterunt": "Levantaram-se"},
+          "note": "Douay-Rheims 'stood up'. The plainest; a third Latin verb on one Portuguese one.",
+          "from": "DRB"
+        },
+        {
+          "label": "Sublevaram-se",
+          "forms": {"astiterunt": "Sublevaram-se"},
+          "note": "Matos Soares 1932: says 'revolted', which the Latin verb leaves to the second colon (advérsus).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inunum",
+      "refs": ["2:2"],
+      "latin": "convenérunt in unum",
+      "kind": "glossary",
+      "why": "in unum (ἐπὶ τὸ αὐτό, 'to the same place, together') comes six times (grep): 2:2, 47:5 (convenérunt in unum again, of kings again), 48:3, 70:10, 101:23 and the much-loved 132:1 habitáre fratres in unum. The Latin says two things — they came together, and into one — and a rendering should be able to serve all six.",
+      "options": [
+        {
+          "label": "se reuniram como um só",
+          "forms": {"inunum": "se reuniram como um só"},
+          "note": "Ruling, proposed for the glossary: in unum → como um só. Keeps the Latin's 'one', is a living idiom, closes oxytone, and carries over: 47:5 'se reuniram como um só', 132:1 'habitarem os irmãos como um só', 70:10 'fizeram conselho como um só'. 'Como' is the one word supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "se uniram",
+          "forms": {"inunum": "se uniram"},
+          "note": "One verb for the two Latin elements — 'unir-se' is literally to become one. Shortest and most natural; convenérunt is no longer heard.",
+          "from": "draft"
+        },
+        {
+          "label": "se reuniram num só lugar",
+          "forms": {"inunum": "se reuniram num só lugar"},
+          "note": "The Greek's literal sense; supplies a noun and runs long.",
+          "from": "draft"
+        },
+        {
+          "label": "se coligaram",
+          "forms": {"inunum": "se coligaram"},
+          "note": "Matos Soares 1932. Interprets (a league), and the 'one' is lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "vincula",
+      "refs": ["2:3"],
+      "latin": "Dirumpámus víncula eórum",
+      "kind": "word",
+      "why": "The rebels speak with no 'they said' in the Latin, and none is supplied (Matos Soares 1932 adds '(disseram)', DM1962 quotation marks). víncula are bonds, fetters; the phrase returns in 106:14 and in the much-prayed 115:7 Dirupísti víncula mea. eórum … ipsórum are varied in the Latin (one word in the Greek); 'deles … o seu' varies likewise: 'deles' comes first so that the plural owners are audible at once, which 'suas' alone would not make them, and 'o seu jugo' closes the verse so that three verses running do not end on 'deles' (2:4 has it twice, for the Latin's eos … eos).",
+      "options": [
+        {
+          "label": "cadeias",
+          "forms": {"vincula": "cadeias"},
+          "note": "Ruling. The traditional word for bonds that are broken ('Rompestes as minhas cadeias', 115:7); concrete (rule 5).",
+          "from": "draft"
+        },
+        {
+          "label": "laços",
+          "forms": {"vincula": "laços"},
+          "note": "Matos Soares 1932. It is the glossary's word for láqueus, the snare (Ps 90:3).",
+          "from": "MS1932"
+        },
+        {
+          "label": "grilhões",
+          "forms": {"vincula": "grilhões"},
+          "note": "DM1962. Vivid; narrower than víncula (leg-irons), and oxytone.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "proiciamus",
+      "refs": ["2:3"],
+      "latin": "proiciámus a nobis",
+      "kind": "glossary",
+      "why": "proícere, the verb of Ps 1:4 (quem próicit ventus), one verse-pair later: Ps 1 ruled 'lançar (de)'.",
+      "options": [
+        {
+          "label": "lancemos",
+          "forms": {"proiciamus": "lancemos"},
+          "note": "Ps 1:4, applied: 'lancemos de nós o jugo'. The reader hears the same verb in the two psalms, as in the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "sacudamos",
+          "forms": {"proiciamus": "sacudamos"},
+          "note": "Matos Soares 1932 and DM1962 ('sacudamos de nós o seu jugo'). The idiom for a yoke — one shakes it off; but it is another verb (excútere), and the link with 1:4 goes.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "subsannabit",
+      "refs": ["2:4"],
+      "latin": "irridébit eos … subsannábit eos",
+      "kind": "word",
+      "why": "Two verbs of mockery in parallel, each with eos: irridére, to laugh at, and subsannáre (ἐκμυκτηρίζω, to turn up the nose at), a late and rare word that the psalter uses a handful of times (34:16, 43:14, 58:9, 79:7).",
+      "options": [
+        {
+          "label": "rirá deles … zombará deles",
+          "forms": {"subsannabit": "zombará"},
+          "note": "Ruling. Laughing, then mocking: the plain pair, 'deles … deles' for eos … eos. Matos Soares 1932 has 'zombará' for the first verb and 'escarnecerá' for the second.",
+          "from": "draft"
+        },
+        {
+          "label": "rirá deles … escarnecerá deles",
+          "forms": {"subsannabit": "escarnecerá"},
+          "note": "Matos Soares 1932's second verb. Stronger and rarer, as subsannáre is; five syllables, and illúdere / derídere will want words too.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conturbabit",
+      "refs": ["2:5"],
+      "latin": "in furóre suo conturbábit eos",
+      "kind": "glossary",
+      "why": "conturbáre (ταράσσω) is frequent in the psalter — Ps 6 has it three times (conturbáta sunt ossa mea) — beside the simple turbáre. Douay-Rheims 'trouble'; Matos Soares 1932 'encherá de terror', which explains.",
+      "options": [
+        {
+          "label": "conturbará",
+          "forms": {"conturbabit": "conturbará"},
+          "note": "Ruling, proposed for the glossary. The cognate is living Portuguese ('ficou conturbado') and says what the Latin says: thrown into disorder, within and without. Leaves 'perturbar' for turbáre.",
+          "from": "draft"
+        },
+        {
+          "label": "perturbará",
+          "forms": {"conturbabit": "perturbará"},
+          "note": "Plainer by a hair; then turbáre and conturbáre share a verb.",
+          "from": "draft"
+        },
+        {
+          "label": "aterrará",
+          "forms": {"conturbabit": "aterrará"},
+          "note": "Matos Soares 1932's sense ('encherá de terror'; DM1962 'espantará'). Narrows disorder to fear.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "terminos",
+      "refs": ["2:8"],
+      "latin": "términos terræ",
+      "kind": "glossary",
+      "why": "The psalter has both fines terræ (four times: 21:28, 66:8, 97:3 …) and términi (here; 71:8 ad términos orbis terrárum). 'Confins da terra' is the natural phrase, and it is fines' own cognate.",
+      "options": [
+        {
+          "label": "limites",
+          "forms": {"terminos": "limites"},
+          "note": "Ruling. Keeps 'confins' free for fines terræ; plain and paroxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "confins",
+          "forms": {"terminos": "confins"},
+          "note": "DM1962 'os confins da terra'. The phrase everyone knows; spends fines' word.",
+          "from": "DM1962"
+        },
+        {
+          "label": "extremidades",
+          "forms": {"terminos": "extremidades"},
+          "note": "Matos Soares 1932 ('até às extremidades da terra'; Douay-Rheims 'utmost parts'). Five syllables.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "reges",
+      "refs": ["2:9"],
+      "latin": "Reges eos in virga férrea",
+      "kind": "word",
+      "why": "The Latin follows the Greek ποιμανεῖς ('thou shalt shepherd / rule') where the Hebrew has 'break' — the reading the Apocalypse quotes. Rule 1: 'rule' is kept. The same verb is in 22:1 Dóminus regit me and 79:2 Qui regis Israël. 'in virga' is instrumental; 'reger em vara' is not Portuguese, so the preposition yields (D2).",
+      "options": [
+        {
+          "label": "regerás",
+          "forms": {"reges": "regerás", "reges_vos": "regereis"},
+          "note": "Ruling. The cognate, which in Portuguese still has the shepherd's and the conductor's sense of guiding as well as ruling. The subject pronoun is supplied ('Tu os regerás') so as to avoid the mesóclise 'Regê-los-ás' (rule 5).",
+          "from": "draft"
+        },
+        {
+          "label": "governarás",
+          "forms": {"reges": "governarás", "reges_vos": "governareis"},
+          "note": "Matos Soares 1932; Douay-Rheims 'rule'. Plain; it is gubernáre's word and has nothing of the shepherd.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "virga",
+      "refs": ["2:9"],
+      "latin": "in virga férrea",
+      "kind": "word",
+      "why": "virga is a rod — the shepherd's (22:4 virga tua et báculus tuus), the king's (44:7 virga regni tui), the chastiser's (88:33). One word must serve them all.",
+      "options": [
+        {
+          "label": "vara de ferro",
+          "forms": {"virga": "vara de ferro"},
+          "note": "Ruling, with Matos Soares 1932 ('com uma vara de ferro'). The concrete word (rule 5); without the article, as the Latin.",
+          "from": "MS1932"
+        },
+        {
+          "label": "cetro de ferro",
+          "forms": {"virga": "cetro de ferro"},
+          "note": "DM1962 ('Com um cetro de ferro'). Interprets the rod as the royal one only; 22:4 could not follow.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "confringes",
+      "refs": ["2:9"],
+      "latin": "confrínges eos",
+      "kind": "word",
+      "why": "con-fríngere: to break in pieces, shatter (Douay-Rheims 'break them in pieces'); some ten places (45:10, 47:8, 106:16, 109:5–6 …).",
+      "options": [
+        {
+          "label": "quebrarás",
+          "forms": {"confringes": "quebrarás", "confringes_vos": "quebrareis"},
+          "note": "Ruling: the plainer of two faithful words, and what one does to a pot; Matos Soares 1932 and DM1962. The verse closes on it, oxytone.",
+          "from": "MS1932"
+        },
+        {
+          "label": "despedaçarás",
+          "forms": {"confringes": "despedaçarás", "confringes_vos": "despedaçareis"},
+          "note": "Carries the con- ('in pieces'). Five syllables; keep in mind if frángere and confríngere ever need to be told apart.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "erudimini",
+      "refs": ["2:10"],
+      "latin": "erudímini",
+      "kind": "grammar",
+      "why": "A passive imperative: 'be instructed' (παιδεύθητε). The natural Portuguese, 'instruí-vos' (Matos Soares 1932, DM1962), falls under rule 3: 'instruí' is also 'I instructed', and here D13's enclitic exception does not help, because with '-vos' the first-person reading is a perfectly good sentence ('I instructed you').",
+      "options": [
+        {
+          "label": "deixai-vos instruir",
+          "forms": {"erudimini": "deixai-vos instruir"},
+          "note": "Ruling. Keeps the passive sense (let yourselves be taught) and the verb instruir; 'deixai' is safe (past 'deixei'). Three syllables over the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "sede instruídos",
+          "forms": {"erudimini": "sede instruídos"},
+          "note": "Word for word. In Portuguese it is heard as a state ('be educated men') rather than as something to undergo now.",
+          "from": "draft"
+        },
+        {
+          "label": "recebei a instrução",
+          "forms": {"erudimini": "recebei a instrução"},
+          "note": "Douay-Rheims 'receive instruction'. Safe ('recebi' ≠ 'recebei'); a noun for the verb.",
+          "from": "DRB"
+        },
+        {
+          "label": "instruí-vos",
+          "forms": {"erudimini": "instruí-vos"},
+          "note": "Matos Soares 1932 and DM1962. Refused under rule 3 (see above).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "servite",
+      "refs": ["2:11"],
+      "latin": "Servíte Dómino in timóre",
+      "kind": "grammar",
+      "why": "Rule 3 bites on a famous line: 'Servi ao Senhor' (Matos Soares 1932, DM1962) is also 'I served the Lord', and the object is a noun, so D13's enclitic exception does not apply. The same imperative opens 99:2 Servíte Dómino in lætítia. The Latin rhymes here on purpose or by grace (in timóre … cum tremóre), so 'temor … tremor' at mediant and final is the Latin's own echo and is kept (rule 5). 'in timóre' → 'no temor' ('viver no temor de Deus' is living Portuguese), 'cum tremóre' → 'com tremor': the Latin's two prepositions.",
+      "options": [
+        {
+          "label": "Sede servos do Senhor",
+          "forms": {"servite": "Sede servos do Senhor"},
+          "note": "Ruling, proposed for the glossary for servíre at the vós imperative. Keeps the root (servus → servo is in the glossary), is safe ('sede'), natural, and exactly the Latin's length. Cost: a noun and a copula for a verb, and the dative becomes a genitive.",
+          "from": "draft"
+        },
+        {
+          "label": "Prestai serviço ao Senhor",
+          "forms": {"servite": "Prestai serviço ao Senhor"},
+          "note": "Keeps the dative; 'prestar serviço' is the language of contracts.",
+          "from": "draft"
+        },
+        {
+          "label": "Servi ao Senhor",
+          "forms": {"servite": "Servi ao Senhor"},
+          "note": "Matos Soares 1932 and DM1962, and what the verse wants. Refused under rule 3 as it stands (D1, D13: the bare form). If Gustavo ever relaxes the ban where a run of imperatives makes the mood unmistakable (entendei … deixai-vos instruir … servi … exultai), this is the first verse to give back.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ei",
+      "refs": ["2:11"],
+      "latin": "exsultáte ei",
+      "kind": "glossary",
+      "why": "exsultáre → exultar (glossary). Here with a dative, as often (80:2 Exsultáte Deo, 94:1 exsultémus Dómino): to exult 'to' or 'for' him (Douay-Rheims 'rejoice unto him').",
+      "options": [
+        {
+          "label": "para ele",
+          "forms": {"ei": "para ele"},
+          "note": "Ruling. The dative as a dative; 'exultai' is safe under rule 3 (past 'exultei').",
+          "from": "DRB"
+        },
+        {
+          "label": "diante dele",
+          "forms": {"ei": "diante dele"},
+          "note": "More native; it is the phrase of in conspéctu ejus.",
+          "from": "draft"
+        },
+        {
+          "label": "nele",
+          "forms": {"ei": "nele"},
+          "note": "Matos Soares 1932 ('alegrai-vos nele'). Another case (in eo).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "apprehendite",
+      "refs": ["2:12"],
+      "latin": "Apprehéndite disciplínam",
+      "kind": "word",
+      "why": "The Latin follows the Greek (δράξασθε παιδείας, 'lay hold of instruction'), not the Hebrew's 'kiss the son' (DM1962 'beijai-lhe os pés'). Rule 1. apprehéndere is to lay hold of, seize (L&S; also 'for complector, to embrace'); disciplína (παιδεία) is teaching and correction at once, and its cognate carries both.",
+      "options": [
+        {
+          "label": "Abraçai",
+          "forms": {"apprehendite": "Abraçai"},
+          "note": "Ruling, with both Vulgate-family versions (Douay-Rheims 'Embrace discipline', Matos Soares 1932 'Abraçai a boa doutrina'). 'Abraçar' a cause, a rule of life, is the living idiom for taking hold of it for good; safe under rule 3 (past 'abracei'). The grip becomes an embrace — L&S allows it.",
+          "from": "DRB"
+        },
+        {
+          "label": "Agarrai",
+          "forms": {"apprehendite": "Agarrai"},
+          "note": "The hand's grip, as in the Latin and the Greek; safe ('agarrei'). Rough in the mouth, and 'agarrar a disciplina' is not something one says.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "nequando",
+      "refs": ["2:12"],
+      "latin": "nequándo irascátur Dóminus, * et pereátis de via justa",
+      "kind": "grammar",
+      "why": "nequándo ('lest at any time', μήποτε; eight times in the psalter) governs both verbs: lest the Lord be angry and you perish. Portuguese 'para que não' does not carry over an 'e', so either the negative is said twice or a frame is used that holds both verbs. irásci → irar-se, as in Ps 4:5. 'de via justa' → 'fora do caminho justo': 'perecer de' is not Portuguese; justa is an adjective and stays one (Matos Soares 1932 makes it 'da justiça').",
+      "options": [
+        {
+          "label": "para que o Senhor não se ire, * e não pereçais",
+          "forms": {"nequando": "para que o Senhor não se ire, * e não pereçais"},
+          "note": "Ruling, with Matos Soares 1932. The second 'não' is the grammar Portuguese needs (D2); same frame as 90:12 'para que não'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "não aconteça que o Senhor se ire, * e pereçais",
+          "forms": {"nequando": "não aconteça que o Senhor se ire, * e pereçais"},
+          "note": "Holds both verbs under one negative, as the Latin does, and the '-quando' is faintly heard in 'aconteça'. Heavier, three syllables over.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inbrevi",
+      "refs": ["2:13"],
+      "latin": "Cum exárserit in brevi ira ejus",
+      "kind": "word",
+      "why": "in brevi (ἐν τάχει): in a short time — soon, or suddenly (Douay-Rheims 'in a short time'; Matos Soares 1932 'daqui a pouco'). exardéscere → inflamar-se (glossary, Ps 117:12). DO makes this a verse of its own, a 'when' clause followed by the macarism; the Latin's colon is kept between them.",
+      "options": [
+        {
+          "label": "em breve",
+          "forms": {"inbrevi": "em breve"},
+          "note": "Ruling. The cognate phrase; 'soon', with the Latin's shortness in it.",
+          "from": "draft"
+        },
+        {
+          "label": "de repente",
+          "forms": {"inbrevi": "de repente"},
+          "note": "The other half of ἐν τάχει (suddenly). Resolves toward the Hebrew's sense.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "2:1": "gentes → nações, pópuli → povos (glossary, Nunc dimittis). meditáti sunt → 'meditaram': the same verb as 1:2 (meditábitur), the link that joins the two psalms — the just man meditates on the law, the peoples meditate empty things. inánia → 'coisas vãs' (Douay-Rheims 'vain things', Matos Soares 1932), not 'vaidades', which is vánitas's word. The Latin's colon before the asterisk is kept inside the question. DM1962 has this psalm (monastic Prime); it was heard for diction only.",
+    "2:2": "'advérsus … et advérsus' → 'contra … e contra', the repetition kept. First colon long (the Latin's is 19).",
+    "2:3": "No 'they said' and no quotation marks: the Latin has none. dirúmpere → romper.",
+    "2:4": "'in cælis' plural → 'nos céus'. 'Qui hábitat' → 'Aquele que habita' (habitáre → habitar, Ps 90:1).",
+    "2:5": "ira → ira, furor → furor. The Latin's chiasm kept (falará … na sua ira / no seu furor … conturbará); 'lhes' for ad eos.",
+    "2:6": "'Ego autem' → 'Eu, porém'. 'Rei' with the Latin's capital. 'super Sion montem sanctum ejus' → 'sobre Sião, o seu monte santo'. The speaker is the Anointed, as in the Latin and the Greek; nothing marks the turn but 'Eu, porém', as in the Latin.",
+    "2:7": "'dixit ad me' → 'me disse' (Brazilian proclisis). The second colon is the Latin word for word: ego hódie génui te → 'eu hoje te gerei'.",
+    "2:8": "postuláre → pedir ('Pede-me'): the plain verb; pétere will share it. 'dabo tibi' → 'eu te darei': the pronoun supplied for the rhythm (Matos Soares 1932 does the same). The double accusative → 'como tua herança … como tua posse', without the article, which a predicate complement does not take. The Latin's chiasm kept (gentes hereditátem tuam / possessiónem tuam términos terræ).",
+    "2:9": "'vas fíguli' → 'vaso de oleiro'. Both verbs of the verse keep the object before them where the Latin has it after; the verse closes on the verb.",
+    "2:10": "'reges' → 'reis', bare vocative (no 'ó' unless the Latin has 'o'). intellégite → 'entendei': safe under rule 3 (past 'entendi'). 'qui judicátis' → 'vós que julgais'.",
+    "2:11": "See the decisions 'servite' and 'ei'. 'exultai' safe under rule 3.",
+    "2:12": "disciplína → disciplina. períre → perecer (Ps 1:6).",
+    "2:13": "beáti → 'bem-aventurados', as ruled in Ps 1:1 — the two psalms are framed by the word. confídere in → confiar em (glossary, Ps 117:8)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm2.txt, thirteen prayed verses, 2:1–2:13 (DO divides the Hebrew's v. 12 into 2:12 and 2:13), each with one '*' and no other mark. No titulus (D7). The Hetzenauer 1914 print read was skipped overnight and is owed."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps002.md. Vulgate-family support: Douay-Rheims and Matos Soares 1932 only (his Ps 2 sits inside the OCR span that runs from Ps 1 to Ps 3). The Diurnal Monástico 1962 has this psalm; it is from the Hebrew (God speaks in 2:6, 'beijai-lhe os pés' in 2:11–12) and was used for diction only. DO's Portuguese was not used as evidence (D12). Readings where the Latin goes with the Greek against the Hebrew, all kept: 2:6 the Anointed speaks (constitútus sum … ab eo) and 'prǽdicans præcéptum ejus' belongs to this verse; 2:9 Reges ('rule', not 'break'); 2:12 Apprehéndite disciplínam (not 'kiss the son') and 'de via justa'. Speakers: the rebels (2:3), the Anointed (2:6–7a), the Lord (2:7b–9), the psalmist (2:10–13) — no turn is marked that the Latin does not mark, and where the Lord's speech ends is left as open as in the Latin. Rule 3 checked at every vós imperative: entendei, deixai-vos, sede, exultai, abraçai are safe; 'instruí-vos' and 'Servi' were refused (decisions 'erudimini', 'servite'). Lewis & Short consulted for apprehéndo. Counts by grep over the DO Latin."
+    }
+  ]
+}

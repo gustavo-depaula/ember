@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "115180275797df907de77e26936744989e1f7c506804d3c49545025ab2d46511",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T08:41:02+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"8:3\",\n      \"fails\": [\"native\", \"sayable\"],\n      \"remarks\": [\n        {\n          \"words\": \"fizestes perfeito o louvor\",\n          \"problem\": \"A construção soa traduzida: a sequência de verbo, adjetivo e substantivo retarda a compreensão num primeiro membro já muito longo para uma só respiração.\",\n          \"alternative\": \"Da boca das crianças e dos que mamam aperfeiçoastes o louvor por causa dos vossos inimigos, * para destruirdes o inimigo e o vingador.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo soa sóbrio, reverente e, quase sempre, natural na boca; todas as terminações nos sinais e nos finais permitem a cadência pedida. O primeiro membro de 8:3 concentra a dificuldade de respiração, que a alternativa atenua sem eliminar. A repetição de «mar» corresponde à repetição latina e sustenta a oração.\",\n  \"worstLine\": \"8:3\",\n  \"bestLine\": \"8:2a\"\n}"
+}

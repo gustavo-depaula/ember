@@ -1,0 +1,74 @@
+{
+  "append": [
+    {
+      "row": "| adjútor |",
+      "text": "**Ps 9:10, 9:35b *auxílio … vós sereis auxílio para o órfão*:** the Latinist marked 9:10 MAJOR twice (drafts 2 and 3) for *auxiliador*; held on purpose (D24), his word is the option in Ps 9's decision `adjutor`."
+    },
+    {
+      "row": "| fácere judícium |",
+      "text": "**Ps 9:5 *fecísti judícium meum et causam meam* → *fizestes valer o meu juízo e a minha causa*** (the case upheld; bare *fizestes o meu juízo* says nothing); **9:17 *judícia fáciens* → *ao executar juízos***. A third and fourth build; the row wants one ruling across them."
+    },
+    {
+      "row": "| inférnus / ínferi |",
+      "text": "**Ps 9:18 *Convertántur peccatóres in inférnum* → *Voltem os pecadores para o inferno*:** kept; here the damned's hell is no mishearing — the verse is a curse on the wicked; none of the three critics stopped at it."
+    },
+    {
+      "row": "| conspéctus, *ante conspéctum suum* |",
+      "text": "**Ps 9:20 *in conspéctu tuo* → *à vossa vista*, 9:26a *Non est Deus in conspéctu ejus* → *Não há Deus à vista dele*:** the noun kept; the blind reader heard 9:26a as 'God does not count for him' — the sense. Evidence for *vista* over *diante de*."
+    },
+    {
+      "row": "| exaltáre |",
+      "text": "Ps 9:15 *Qui exáltas me* → *Vós que me exaltais*; 9:33 *exaltétur manus tua* → *exalte-se a vossa mão* (the blind reader heard 'God raises his hand to act' — right; the stylist's best line of stage two)."
+    },
+    {
+      "row": "| dolus / dolósus / dolóse ágere |",
+      "text": "Ps 9:28 *et dolo* → *e de engano*: held; no critic remarked."
+    },
+    {
+      "row": "| increpáre |",
+      "text": "**Ps 9:6 *Increpásti gentes* → *Repreendestes as nações*:** held; no critic remarked, and the blind reader heard a rebuke. No better verb for nations; 103:7's noun still open."
+    },
+    {
+      "row": "| irritáre |",
+      "text": "**Ps 9:25 / 9:34 (one Greek verb, παρώξυνεν):** Ps 9 gave *exacerbáre* 9:25 *provocou* too (D15, as DRB), after the blind reader did not know *exasperou*; so the two verses echo. Evidence against *exasperar* even where the two stand together (105:32, 106:11)."
+    },
+    {
+      "row": "| inops / pauper / egénus |",
+      "text": "**Ps 9 (stage one + two): *pauper* → *pobre* in 12 places (9:10, 13, 19 ×2, 23, 30a, 30b ×2, 31, 33, 35b, 38); *húmilis* 9:39 → *humilde* (the blind reader heard 'poor and simple', beside *órfão*) — proposed as the fourth member: *húmilis → humilde*, *humílitas → humilhação* (9:14).**"
+    },
+    {
+      "row": "| in sǽculum sǽculi |",
+      "text": "**Ps 9:6 = 9:37 *in ætérnum, et in sǽculum sǽculi* → *para sempre, e pelos séculos dos séculos*** (one slot in Ps 9's decision `saeculi`): the Latinist asked for the singular *pelo século do século* five times (9:6 ×3, 9:37 ×2; major once, as part of a major); the stylist asked twice to reverse the order for the cadence. Held both; wants the row settled."
+    },
+    {
+      "row": "| períre |",
+      "text": "**Ps 9:37 *períbitis, gentes, de terra illíus* → *perecereis da terra dele, nações*:** D20's *fora de* failed here — the Latinist (MAJOR) and the blind reader both heard 'die outside his land'. *de* is kept where 'die of' can make no sense, and the vocative moves last. So D20 is a rule for *períre de via*, not for every *períre de*."
+    },
+    {
+      "row": "| comprehéndere |",
+      "text": "**Ps 9:16b, 9:17, 9:23 (*comprehénsus est … comprehénsus est … comprehendúntur*) → *ficou preso … ficou preso … ficam presos*:** the passive as *ficar preso*, one form three times; 9:23 is in this row's own list. Passed all three readers in Ps 9."
+    }
+  ],
+  "terms": [
+    "| in finem | para sempre (merged with *in ætérnum*, D23) | open | Ps 9:7a, 9:19 ×2, 9:32 (*ne vídeat in finem* → *para nunca mais ver*). εἰς τέλος. Draft 1 had *até o fim*: in the negation of 9:19 (*non in finem … non períbit in finem*) the Latinist (major) and the blind reader both heard a bounded 'not until the end' — i.e. it will perish at the end. *para sempre* everywhere since; 9:32 *nunca mais* where the negative is a final clause. Affects 12:1, 43:23, 67:17b, 73:1, 3, 10, 11, 19, 76:9, 78:5, 88:47, 51:7 (grep, 19 lines); **not** *usque in finem* (15:11, 37:7), and 17:36b, 48:9 want their own reading. |",
+    "| orbis terræ | o orbe da terra | open | Ps 9:8b (twin 95:13, grep). The Latin's word; **the blind reader listed *orbe* as unknown**; options *o mundo*, *a terra inteira*. |",
+    "| confortári | fortalecer-se (*não se fortaleça o homem*) | open | Ps 9:20; the stylist ordered it. |",
+    "| stúdia | feitos (*anunciai entre as nações os seus feitos*) | open | Ps 9:12 = ἐπιτηδεύματα (the Latinist, minor, taken); *desígnios* was unknown to the blind reader; 13:1b *in stúdiis suis* (grep: the only other verse) to test. |",
+    "| intéritus | destruição (*na destruição que fizeram*) | open | Ps 9:16a. |",
+    "| infígere | ficar cravado (*as nações ficaram cravadas*) | open | Ps 9:16a (the stylist ordered); 37:3 *sagíttæ tuæ infíxæ sunt mihi*, 68:3 *Infíxus sum in limo* to test. |",
+    "| in opportunitátibus | nas horas oportunas | open | Ps 9:10 = 9:22 (*in opportunitátibus, in tribulatióne*); one slot. |",
+    "| despícere (God) | desdenhar (*desdenhais nas horas oportunas?*) | open | Ps 9:22; kept apart from *despícere (enemies)* → olhar de cima; **the blind reader listed *desdenhais* as unknown but heard 'despises' right**. Option *desprezais*. |",
+    "| superbíre | encher-se de soberba (*Enquanto o ímpio se enche de soberba*) | open | Ps 9:23 (the stylist, taken); MS1932's *ensoberbecer-se* was unknown to the blind reader. |",
+    "| incéndi | ser abrasado (*o pobre é abrasado*) | open | Ps 9:23; the Latin's fire kept; *abrasado* unknown to the blind reader, who still heard 'burnt, or suffering as if burnt'; options *arde*, *é queimado*. |",
+    "| exacerbáre | provocar where alone; a second word where it stands beside *irritáre* | open | Ps 9:25 (8 verses: 9:25, 77:40, 41, 56, 104:28, 105:32, 43, 106:11). One Greek verb with *irritáre* (παροξύνω) — D15 merges; *exasperou* was unknown to the blind reader. |",
+    "| movéri (*Non movébor*) | ser abalado (*Não serei abalado*) | open | Ps 9:27, 29:7, 61:3 (grep) — the proud man's boast and the just man's trust in one phrase. |",
+    "| insídiæ / insidiári | emboscada / armar emboscada (*Senta-se de emboscada … arma emboscada … Arma emboscada*) | open | Ps 9:29, 30a, 30b (the only three verses, grep). One family kept; the stylist gave *armar*. Options MS1932 *ciladas*, DM1962 *espreita*. |",
+    "| labor (noun) | fadiga (*fadiga e dor*) | open | Ps 9:28, 9:35a (*labor et dolor* twice). Kept apart from *laboráre* → cansar-se. |",
+    "| órphanus / pupíllus | órfão | open | *pupíllus* 9:39, 81:3, 93:6, 108:12, 145:9; *órphanus* 9:35b, 67:5b, 108:9 (grep; 16:8a *pupíllam óculi* is the eye's pupil, another word). Two Latin words, one Greek (ὀρφανός), one Portuguese. |",
+    "| requírere (God, of blood / sin) | pedir contas (*ao pedir contas do sangue deles*; *Não pedirá contas*) | open | Ps 9:13, 9:34 — the question of 9:13 answered in the same words by the wicked in 9:34. The Latinist (MAJOR, held) wanted *eórum* read with *recordátus*; the Greek has it with the blood. |"
+  ],
+  "formulas": [
+    "| *Óculi ejus in páuperem respíciunt* (9:30a = 10:5b) | *Os seus olhos estão voltados para o pobre* | open — Ps 9's decision `respiciunt` copies Ps 10's first colon; keep one form |",
+    "| *in ætérnum, et in sǽculum sǽculi* (9:6 = 9:37) | *para sempre, e pelos séculos dos séculos* | open — one slot (Ps 9 `saeculi`); see the term row *in sǽculum sǽculi* |"
+  ]
+}

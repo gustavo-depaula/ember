@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Method — Psalterium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<nav class="sitenav" aria-label="The site"><a href="index.html">Psalterium</a><a href="glossary.html">glossary</a><a href="words/index.html">word studies</a><a href="decisions.html">decisions</a><a href="method.html" aria-current=page>method</a></nav>
+<header class="leaf-head"><div class="cross" aria-hidden="true">✠</div><h1>Method</h1><p class="standing">How this psalter is made — for someone meeting it for the first time.</p></header><main><div class="prose"><p>How this psalter is made, for someone meeting it for the first time. The working files — batch notes, briefs, progress tables — are on the <a href="notes.html#doc-readme">working notes</a> page.</p>
+<h2 id="method-what-this-is">What this is</h2>
+<p>A Brazilian Portuguese version of the psalter of the Roman Breviary (the 1961/62 books): the Gallican Psalter, the version St Jerome made from the Greek, which from the ninth century replaced the older Latin psalters through most of the West and is the psalter of the Roman Breviary (<a href="https://en.wikipedia.org/wiki/Gallican_Psalter">Wikipedia</a>). It is made <strong>to be prayed aloud</strong>, verse by verse, beside the Latin, and it is meant in the end for <a href="https://www.divinumofficium.com/">Divinum Officium</a>, keeping its verse divisions and its marks for chanting (the <code>*</code> at the mid-verse pause, the <code>†</code> flex).</p>
+<p>The translation is drafted by language models working as agents, read by other models that do not know how it was made, and decided in the open. A human reviews every standing decision; nothing here has yet had a philologist's sign-off.</p>
+<h2 id="method-the-one-rule">The one rule</h2>
+<blockquote><p>Keep the Latin's words, images, repetitions and ambiguities. Let the ear lead on grammar and word order.</p></blockquote>
+<p>Everything else follows from this. A psalm that repeats a word in Latin repeats it in Portuguese; an image stays an image and is not explained; where the Latin can be read two ways, so can the Portuguese. But Latin word order and Latin constructions are not kept for their own sake — the sentence must be one a Brazilian can say.</p>
+<p>God is addressed as <strong><em>vós</strong></em>, the old form of reverent address, not <em>tu</em>.</p>
+<h2 id="method-what-it-is-translated-from">What it is translated from</h2>
+<p><strong>The Latin</strong> is the Breviary text as Divinum Officium prints it — never retouched. For the first psalms it was collated word by word against the Clementine Vulgate, and no wording differed.</p>
+<p><strong>The Latin's own family decides the sense:</strong> the Douay-Rheims in English and Matos Soares 1932 in Portuguese were both made from this Latin. The Greek Septuagint — Jerome made the Gallican Psalter from its text in Origen's Hexapla — is read where the Latin is unclear.</p>
+<p><strong>The Hebrew family is heard, not followed.</strong> Modern Bibles translated from the Hebrew (CNBB, Ave Maria, RSV-CE, King James) and the <em>Diurnal Monástico</em> of 1962 — a prayed Brazilian psalter — show how a psalm sounds in living Portuguese. They lend rhythm and diction, never meaning, because they translate a different text.</p>
+<h2 id="method-how-a-psalm-is-made">How a psalm is made</h2>
+<figure class="drawing"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1060" role="img" aria-labelledby="method-title method-desc">
+  <title id="method-title">How a psalm is made</title>
+  <desc id="method-desc">From the Latin and a literal version to a first draft; three blind readers — the Latinist, the stylist and the ambiguity reader — read it; the agent takes, keeps as an option, or refuses each remark, and makes draft 2; the Latinist reads again as the gate, and a major is either fixed in a new draft or held on purpose with its reason; the main session rules on what is left open; the site shows the draft, the stylist's wordings and every layer.</desc>
+  <!-- Colours are the site's own variables (assets/site.css), so the drawing follows its light and dark themes when
+       inlined by site.py; the fallbacks are the light theme, for wherever the file is shown as an image. -->
+  <style>
+    text { font-family: var(--serif, 'EB Garamond', Garamond, Georgia, serif); text-anchor: middle; fill: var(--ink, #2C2418); }
+    .stage { font-size: 20px; font-weight: 600; }
+    .reader { font-size: 18px; font-weight: 600; }
+    .note { font-size: 14.5px; fill: var(--ink-2, #6B5D4F); }
+    .ask { font-size: 16px; font-style: italic; }
+    .way { font-size: 17px; font-style: italic; fill: var(--gold, #A8872E); }
+    .gate { fill: var(--rubric, #6B1D2A); }
+    .file { font-size: 13px; fill: var(--gold, #A8872E); }
+    .thread { stroke: var(--gold-soft, #D4C088); stroke-width: 1.3; fill: none; }
+    .thread.red { stroke: var(--rubric, #6B1D2A); }
+    .head { fill: var(--gold-soft, #D4C088); }
+    .head.red { fill: var(--rubric, #6B1D2A); }
+  </style>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="head" d="M0,1 L10,5 L0,9 z"/></marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="head red" d="M0,1 L10,5 L0,9 z"/></marker>
+  </defs>
+
+  <!-- the sources -->
+  <text class="stage" x="380" y="32">The Latin of the Breviary</text>
+  <text class="note" x="380" y="54">beside it, the dossier: Douay-Rheims, Matos Soares 1932, the Diurnal, the Greek, the Hebrew</text>
+  <path class="thread" d="M380,66 V94" marker-end="url(#arrow)"/>
+
+  <text class="stage" x="380" y="120">A literal version</text>
+  <text class="note" x="380" y="141">word for word, to understand the Latin — not to pray</text>
+  <text class="file" x="380" y="159">literal.json</text>
+  <path class="thread" d="M380,170 V198" marker-end="url(#arrow)"/>
+
+  <!-- draft 1 -->
+  <text class="stage" x="380" y="224">Draft 1</text>
+  <text class="note" x="380" y="245">every open wording is a decision: option 0 is the agent’s ruling,</text>
+  <text class="note" x="380" y="263">the other options are what it weighed and set aside</text>
+  <text class="file" x="380" y="281">prayed.json · checks.py: verse ids and pointing marks must match the Latin</text>
+
+  <!-- the three blind readers -->
+  <path class="thread" d="M380,292 L140,330" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,292 V330" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,292 L620,330" marker-end="url(#arrow)"/>
+
+  <text class="reader" x="140" y="356">The Latinist</text>
+  <text class="note" x="140" y="377">reads the Latin and the Portuguese</text>
+  <text class="ask" x="140" y="399">“Is it faithful?”</text>
+  <text class="note" x="140" y="420">minor, major or critical,</text>
+  <text class="note" x="140" y="438">each with a proposed fix</text>
+
+  <text class="reader" x="380" y="356">The stylist</text>
+  <text class="note" x="380" y="377">reads the Portuguese alone</text>
+  <text class="ask" x="380" y="399">“Does it pray aloud?”</text>
+  <text class="note" x="380" y="420">the worst line, the best line,</text>
+  <text class="note" x="380" y="438">his own rewrite of a verse</text>
+
+  <text class="reader" x="620" y="356">The ambiguity reader</text>
+  <text class="note" x="620" y="377">reads the Portuguese alone</text>
+  <text class="ask" x="620" y="399">“What did you understand?”</text>
+  <text class="note" x="620" y="420">the first hearing and the others,</text>
+  <text class="note" x="620" y="438">the words it did not know</text>
+
+  <path class="thread" d="M140,452 L380,488" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,452 V488" marker-end="url(#arrow)"/>
+  <path class="thread" d="M620,452 L380,488" marker-end="url(#arrow)"/>
+
+  <!-- the agent weighs every remark -->
+  <text class="stage" x="380" y="514">The agent weighs every remark</text>
+  <text class="note" x="380" y="535">and writes down what became of each, and why</text>
+  <path class="thread" d="M380,546 L160,574" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,546 V574" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,546 L600,574" marker-end="url(#arrow)"/>
+
+  <text class="way" x="160" y="596">taken</text>
+  <text class="note" x="160" y="616">into the text, as option 0;</text>
+  <text class="note" x="160" y="634">the old wording becomes an option</text>
+  <text class="way" x="380" y="596">kept as an option</text>
+  <text class="note" x="380" y="616">the text stands;</text>
+  <text class="note" x="380" y="634">the reader’s wording stays selectable</text>
+  <text class="way" x="600" y="596">refused</text>
+  <text class="note" x="600" y="616">the text stands,</text>
+  <text class="note" x="600" y="634">with the reason written down</text>
+
+  <path class="thread" d="M160,646 L380,676" marker-end="url(#arrow)"/>
+  <path class="thread" d="M380,646 V676" marker-end="url(#arrow)"/>
+  <path class="thread" d="M600,646 L380,676" marker-end="url(#arrow)"/>
+
+  <!-- draft 2 and the gate -->
+  <text class="stage" x="380" y="702">Draft 2</text>
+  <text class="note" x="380" y="723">draft 1 is kept on disk, and so is every draft after it</text>
+  <path class="thread red" d="M380,734 V760" marker-end="url(#arrow-red)"/>
+
+  <text class="stage gate" x="380" y="786">The gate: the Latinist reads again</text>
+  <text class="note" x="380" y="807">the stylist and the ambiguity reader are not asked twice</text>
+  <path class="thread red" d="M380,818 L160,846" marker-end="url(#arrow-red)"/>
+  <path class="thread red" d="M380,818 V846" marker-end="url(#arrow-red)"/>
+  <path class="thread red" d="M380,818 L600,846" marker-end="url(#arrow-red)"/>
+
+  <text class="way" x="160" y="868">clean</text>
+  <text class="note" x="160" y="888">no major left</text>
+  <text class="way" x="380" y="868">fixed ↻</text>
+  <text class="note" x="380" y="888">a new draft, and the gate again</text>
+  <text class="way" x="600" y="868">held</text>
+  <text class="note" x="600" y="888">a major kept on purpose,</text>
+  <text class="note" x="600" y="906">its reason in the decision</text>
+
+  <!-- after the psalm's own agent -->
+  <path class="thread" d="M160,900 C160,930 300,930 372,944" marker-end="url(#arrow)"/>
+  <path class="thread" d="M600,918 C600,934 460,934 388,944" marker-end="url(#arrow)"/>
+  <text class="stage" x="380" y="970">The main session rules</text>
+  <text class="note" x="380" y="991">on what the agent left open, in DECISIONS.md; it may make a new draft,</text>
+  <text class="note" x="380" y="1009">or ask one reader again before ruling</text>
+  <text class="file" x="380" y="1032">the site then shows: draft N · the stylist’s wordings · every layer, draft to draft</text>
+</svg>
+</figure>
+<p>An agent takes one psalm. It reads the Latin with everything above laid beside it, writes a <strong>literal version</strong> to be sure of the sense, and then a <strong>first draft for praying</strong>. Wherever there was a real choice — a word, an order, a tense — the draft records it as a <em>decision</em>: the chosen wording first, and every alternative it weighed with the reason it was set aside.</p>
+<p>Three <strong>readers</strong> then read the draft. They are a different model from the one that translated, and they are told nothing of how it was made:</p>
+<ul><li><strong>The Latinist</strong> reads the Latin and the Portuguese side by side and asks whether the Portuguese is faithful. Each objection is minor, major or critical, and comes with a fix.</li>
+<li><strong>The stylist</strong> reads the Portuguese alone and asks whether it can be prayed aloud: what is stiff, what is bookish, which is the worst line and which the best.</li>
+<li><strong>The ambiguity reader</strong> reads the Portuguese alone and says what it understood — its first hearing, any other hearing, any word it did not know. A wrong first hearing counts as a fault, because in choir there is no second hearing.</li></ul>
+<p>The agent weighs <strong>every</strong> remark and writes down what became of it: <em>taken</em> into the text, <em>kept as an option</em> that stays selectable, or <em>refused</em>, with the reason. That makes the second draft. The Latinist then reads once more — <strong>the gate</strong>. A major objection still standing must be fixed, or kept on purpose with its reason written in the decision.</p>
+<p><strong>Who wins when the readers disagree.</strong> The Latinist guards the rule's first half — words, images, repetitions — and the stylist its second half — grammar and order. So the Latinist is a gate and the stylist is not: a stylist remark may simply be refused, a Latinist major may not be ignored. The readers are also not infallible: the Latinist has given the same unchanged words a minor on one reading and a major on the next, so a repeated objection is weighed, not obeyed.</p>
+<h2 id="method-words-that-come-back">Words that come back</h2>
+<p>The psalter says the same words hundreds of times — <em>exaudi</em>, <em>confitebor</em>, <em>misericordia</em>, <em>salutare</em>. If each psalm chose its own Portuguese, the echoes the Latin sets up across the book would be lost. So the words that recur are decided <strong>once, for the whole psalter</strong>, in the <a href="glossary.html">glossary</a>, and the hardest of them get a <a href="words/exaudire.html">word study</a>: every place the word occurs, the Greek behind it, what it must stay distinct from, what it becomes under <em>vós</em>, how it is heard today.</p>
+<p>A glossary rendering is not final because a psalm used it. Each row carries its standing — see the next section.</p>
+<h2 id="method-who-decides">Who decides</h2>
+<p>Gustavo, who began the project, decides. Where he has ruled, the ruling is <strong>decided</strong>. Some questions he has delegated: those are ruled provisionally by the coordinating agent, argued in full and logged in <a href="notes.html#doc-decisions-log">the decisions log</a> as <strong>for review</strong> — the glossary marks them <em>settled</em>. Everything else is <strong>working</strong> (in use, not yet ruled) or <strong>open</strong>.</p>
+<p>Nothing is closed by being ruled. Every refused alternative stays in the psalm's page, one touch away; every draft is kept; every reader's reply is stored word for word with what became of it.</p>
+<h2 id="method-reading-a-psalm-page">Reading a psalm page</h2>
+<p>Each psalm has its own page: the Latin and the Portuguese in facing columns, as it would be prayed. A <strong>dotted word</strong> is a decision — touch it to see the alternatives and the reasons, and to choose another; the psalm rewrites itself so it can be prayed as chosen.</p>
+<ul><li><strong>wording</strong> switches the whole psalm between the current draft, <em>the stylist's</em> (his wordings that were kept as options — absent when all of them were taken), and <em>my choices</em>.</li>
+<li><strong>beside it</strong> sets other psalters under each verse: the literal version, the Portuguese ones, the English ones.</li>
+<li><strong>view → the layers</strong> shows each verse's history: the Latin, the literal version, and every draft, with what changed from one to the next.</li>
+<li><strong>pointing</strong> shows the marks as the Ember prayer app prints them, or with every flex.</li>
+<li><strong>Copy my decisions</strong> hands back your choices as text, to send to the project.</li></ul>
+<p>Under the psalm, the audit trail lists each reader's remarks and what became of them.</p></div><div class="handback"></div></main>
+
+</body>
+</html>

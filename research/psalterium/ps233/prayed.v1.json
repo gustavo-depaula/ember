@@ -1,0 +1,61 @@
+{
+  "psalm": 233,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "2:29": "Agora {dimittis} + o vosso servo, Senhor, * segundo a vossa palavra, em paz:",
+    "2:30": "Porque os meus olhos viram * a vossa salvação,",
+    "2:31": "Que preparastes * {antefaciem} todos os povos,",
+    "2:32": "Luz {revelationem}, * e glória do vosso povo Israel."
+  },
+  "decisions": [
+    {
+      "id": "dimittis", "refs": ["2:29"], "latin": "Nunc dimíttis", "kind": "word",
+      "why": "dimíttere is 'to send away, let go, discharge, dismiss, release' (L&S); the Greek ἀπολύεις is what a master (δέσποτα — the Latin has plain Dómine) does to a servant whose watch is over. It is a present indicative, a statement and not a request: DRB 'Now thou dost dismiss', pt-PT 'deixais ir'. The same verb stands in the Magnificat (dimísit inánes — wording checked in the DO Latin, Psalm232.txt) in the other sense, 'sent away'.",
+      "options": [
+        {"label": "deixais ir", "forms": {"dimittis": "deixais ir"}, "note": "Draft, with pt-PT. 'To let go', exactly, and it leads the ear to 'em paz' at the end of the verse (ir… em paz). Two words for one; the final -s keeps it an indicative, against the imperative 'deixai'.", "from": "pt-PT"},
+        {"label": "despedis", "forms": {"dimittis": "despedis"}, "note": "One verb for one, and it could serve 'dimísit inánes' too. But in Brazil 'despedir' a servant is first of all to fire him, and the line is said every night.", "from": "draft"},
+        {"label": "deixais partir", "forms": {"dimittis": "deixais partir"}, "note": "A shade more solemn, and 'partir' already says death, which the Latin leaves unsaid.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "antefaciem", "refs": ["2:31"], "latin": "ante fáciem ómnium populórum", "kind": "word",
+      "why": "'Before the face of' is a Hebraism kept by the Greek (κατὰ πρόσωπον) and by the Latin; DRB keeps it ('before the face of all peoples'), pt-PT drops the face ('diante de todos os povos'). fácies is a concrete word of the psalter (a fácie, ante fáciem), and rule 5 keeps concrete images concrete.",
+      "options": [
+        {"label": "diante da face de", "forms": {"antefaciem": "diante da face de"}, "note": "Draft. Word for word and clear at first hearing; exactly the Latin's twelve syllables.", "from": "draft"},
+        {"label": "à face de", "forms": {"antefaciem": "à face de"}, "note": "A real Portuguese idiom ('à face de todos') that keeps the face in fewer words; three syllables short of the Latin, and a little bookish.", "from": "draft"},
+        {"label": "diante de", "forms": {"antefaciem": "diante de"}, "note": "pt-PT. The plainest; the image is gone.", "from": "pt-PT"}
+      ]
+    },
+    {
+      "id": "revelationem", "refs": ["2:32"], "latin": "Lumen ad revelatiónem géntium", "kind": "ambiguity",
+      "why": "The genitive is open in the Latin as in the Greek (φῶς εἰς ἀποκάλυψιν ἐθνῶν): a light for revelation to the nations, or for the unveiling of the nations. DRB leaves it ('to the revelation of the Gentiles'); pt-PT resolves it ('para se revelar às nações'). The next colon is open too: 'et glóriam' may stand beside Lumen (a light… and a glory) or beside revelatiónem (for revelation… and for glory); Portuguese keeps both readings only if neither noun after 'para' takes an article.",
+      "options": [
+        {"label": "para revelação das nações", "forms": {"revelationem": "para revelação {gentium}"}, "note": "Draft. The genitive kept as a genitive; without articles, 'e glória' in the second colon can be heard with 'Luz' or with 'para', as in the Latin.", "from": "draft"},
+        {"label": "para a revelação das nações", "forms": {"revelationem": "para a revelação {gentium}"}, "note": "More natural with the article, and one syllable nearer the Latin; it tilts 'e glória' toward 'Luz… e glória'.", "from": "draft"},
+        {"label": "para se revelar às nações", "forms": {"revelationem": "para se revelar às nações"}, "note": "pt-PT. Clear, and a resolution of what the Latin leaves open (rule 2).", "from": "pt-PT"}
+      ]
+    },
+    {
+      "id": "gentium", "refs": ["2:32"], "latin": "géntium", "kind": "glossary",
+      "why": "The canticle has three words for peoples in two verses: populórum (λαῶν), géntium (ἐθνῶν), plebis (λαοῦ). gentes is one of the commonest words of the psalter (the nations over against Israel), so the rendering here should be the psalter's. 'revelação das nações' has an inner echo (-ção / -ções) that the alternatives do not.",
+      "options": [
+        {"label": "das nações", "forms": {"gentium": "das nações"}, "note": "Draft, with pt-PT. The plain word, and the one that can serve gentes through the whole psalter.", "from": "draft"},
+        {"label": "dos gentios", "forms": {"gentium": "dos gentios"}, "note": "The cognate and DRB's 'Gentiles'; it removes the echo with 'revelação' and makes the contrast with Israel sharper, but it is a church word, and it could not render gentes in most psalms.", "from": "DRB"},
+        {"label": "das gentes", "forms": {"gentium": "das gentes"}, "note": "The Latin word itself; in today's Portuguese 'as gentes' is literary and means 'people', not 'the nations'.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "2:29": "DO keys the canticle's verses by Luke's chapter (2:29–2:32) and marks the flex with '+', not '†'; both are reproduced as they stand. 'Nunc' → 'Agora', first word as in the Latin. The order of the Latin's three cola is kept, so that 'in pace' closes the verse as it does in the Latin: 'em paz', the same words as Ps 4:9 (In pace → Em paz), said a few minutes earlier at the same Compline. The comma before 'em paz' is mine: without it the ear could take 'a vossa palavra em paz' as one phrase. Dómine → Senhor (the Greek δέσποτα is not the Latin's word). 'secúndum verbum tuum' → 'segundo a vossa palavra' (verbum → palavra; the phrase is also in 118:25, 118:65, 118:107). First colon +2 by checks.py ('deixais ir' for dimíttis).",
+    "2:30": "salutáre tuum → 'a vossa salvação', matching Ps 90:16 (salutáre meum → a minha salvação), said just before at Sunday Compline; the neuter τὸ σωτήριον, 'the saving thing', is left as open as 'salvação' leaves it, and is not turned into 'Salvador'. Natural order in the first colon (the Latin has the verb first); the verb stays in the first colon and its object in the second, as in the Latin. Quia → Porque.",
+    "2:31": "The verse is a relative clause hanging from 'salvação', as in the Latin (Quod ← salutáre). parásti → preparastes (ἡτοίμασας). pópuli → povos.",
+    "2:32": "Lumen and glóriam are accusatives in apposition to salutáre… quod parásti; Portuguese shows no case, so nothing is needed. 'plebis tuæ Israël' → 'do vosso povo Israel', without a comma: with one, 'Israel' would be heard as a vocative. plebs → povo, the same word as pópulus: Portuguese has no second word ('plebe' is contemptuous), so the Latin's pópulus / plebs is not audible — recorded in the glossary. Lumen → luz, as in Ps 4:7 (lumen vultus tui → a luz do vosso rosto)."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm233.txt (DO files the canticles as Psalms 210–273; the verse ids inside the file are Luke's, 2:29–2:32, and those are the ids used here, since render.py and checks.py key on them). The project reports that the text was collated against the printed Hetzenauer 1914 Clementine (Lc 2:29–32, p. 1009) with no divergence of wording; I did not re-read the page."},
+    {"step": "draft", "note": "parallels.py 233 gives only the Latin and pt-PT for a canticle. I fetched Luke 2 from Bolls in Douay-Rheims (consult/bolls-DRB-42-2.json) and in Tischendorf's Greek (consult/bolls-TISCH-42-2.json); consult/show-luke2.py prints verses 29–32 of both. Nothing is quoted from memory. No Matos Soares or Diurnal Monástico text was available for this canticle. Address: God is vós throughout. Fixed by the glossary: salutáre tuum = Ps 90:16, in pace = Ps 4:9, lumen = Ps 4:7."}
+  ]
+}

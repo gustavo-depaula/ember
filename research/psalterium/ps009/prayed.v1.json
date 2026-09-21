@@ -1,0 +1,1224 @@
+{
+  "psalm": 9,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "range": "9:2–9:21",
+  "verses": {
+    "9:2": "{confitebor}, Senhor, de todo o meu coração: * narrarei todas as vossas maravilhas.",
+    "9:3": "Eu me alegrarei e exultarei em vós: * {psallam}.",
+    "9:4": "{convertendo}: * enfraquecerão, e perecerão {a_facie}.",
+    "9:5": "Porque {v5a} e a minha causa: * sentastes-vos sobre o trono, vós que julgais {justitiam}.",
+    "9:6": "{increpasti} as nações, e pereceu o ímpio: * apagastes o nome deles {aet}, e {saec}.",
+    "9:7a": "As espadas do inimigo {defecerunt} {finem}: * e destruístes as cidades deles.",
+    "9:7b": "Pereceu a memória deles com estrondo: * e o Senhor permanece {aet}.",
+    "9:8b": "Preparou o seu trono {in_judicio}: * e ele mesmo julgará {orbem} com equidade, julgará os povos com justiça.",
+    "9:10": "{factus} refúgio para {pauper1}: * auxílio {opportunitatibus}, na tribulação.",
+    "9:11": "E esperem em vós os que conhecem o vosso nome: * porque não abandonastes os que vos buscam, Senhor.",
+    "9:12": "Entoai salmos ao Senhor, que habita em Sião: * anunciai entre as nações {studia}:",
+    "9:13": "Porque, {requirens}, se lembrou: * não esqueceu o clamor {pauper2}.",
+    "9:14": "Tende piedade de mim, Senhor: * vede {humilitatem} {de_inimicis}.",
+    "9:15": "Vós que me {exaltas} das portas da morte, * para que eu anuncie todos os vossos louvores nas portas da filha de Sião.",
+    "9:16a": "Exultarei na vossa salvação: * {infixae} as nações na {interitu} que fizeram.",
+    "9:16b": "Neste laço que esconderam, * {comprehensus} o pé deles.",
+    "9:17": "O Senhor será conhecido {judicia_faciens}: * {v17b}.",
+    "9:18": "{convertantur} os pecadores para {infernum}, * todas as nações que esquecem a Deus.",
+    "9:19": "Porque não será {finem} o esquecimento {pauper3}: * a paciência {pauper4} não perecerá {finem}.",
+    "9:20": "Levantai-vos, Senhor, não {confortetur} o homem: * sejam julgadas as nações {conspectu}.",
+    "9:21": "Estabelecei, Senhor, {legislatorem} sobre eles: * para que as nações saibam que são homens."
+  },
+  "decisions": [
+    {
+      "id": "confitebor",
+      "refs": [
+        "9:2"
+      ],
+      "latin": "Confitébor tibi",
+      "kind": "glossary",
+      "why": "D5 settles confitéri (to God) → dar graças a; 9:2 is the psalm's first word and the same colon opens 110:1 and 137:1 (Confitébor tibi, Dómine, in toto corde meo — grep). The only question is how the dative pronoun sits: the Latin puts tibi second, and Portuguese has three places for vos.",
+      "options": [
+        {
+          "label": "Eu vos darei graças",
+          "forms": {
+            "confitebor": "Eu vos darei graças"
+          },
+          "note": "Ruling. The pronoun before the verb, as Brazilian speech puts it, with the subject pronoun supplied (D2) so that the verse does not open on an unstressed vos. Keeps D5's dative (vos = tibi), as Ps 6:6 'quem vos dará graças'. Sixteen syllables for the Latin's seventeen.",
+          "from": "draft"
+        },
+        {
+          "label": "Darei graças a vós",
+          "forms": {
+            "confitebor": "Darei graças a vós"
+          },
+          "note": "The Latin's order of verb and pronoun, with the stressed form; natural too, a little heavier on 'vós' before the vocative (a vós, Senhor).",
+          "from": "draft"
+        },
+        {
+          "label": "Dar-vos-ei graças",
+          "forms": {
+            "confitebor": "Dar-vos-ei graças"
+          },
+          "note": "Mesóclise: correct, and what a printed psalter of the last century would have; the brief allows it only where it reads naturally, and in current Brazilian speech it does not.",
+          "from": "draft"
+        },
+        {
+          "label": "Eu vos glorificarei",
+          "forms": {
+            "confitebor": "Eu vos glorificarei"
+          },
+          "note": "Matos Soares 1932 ('Eu te glorificarei'). Refused by D5: glorificáre has its own word (glorificar, Ps 90:15).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "psallam",
+      "refs": [
+        "9:3"
+      ],
+      "latin": "psallam nómini tuo, Altíssime",
+      "kind": "order",
+      "why": "psállere → entoar salmos (D25), with the dative kept (ao vosso nome). The Latin ends on the vocative Altíssime, a proparoxytone; the brief wants the final word stressed on its last or second-last syllable, and Ps 7:18 was re-ordered for the same word at the stylist's request. The vocative is bare, as the glossary's rule for Senhor and Deus has it (no 'ó' unless the Latin has 'o').",
+      "options": [
+        {
+          "label": "entoarei salmos, Altíssimo, ao vosso nome",
+          "forms": {
+            "psallam": "entoarei salmos, Altíssimo, ao vosso nome"
+          },
+          "note": "Ruling. The vocative moved inside the colon, which is order (D2); the verse closes on 'nome', a paroxytone. A vocative between verb and object is ordinary Portuguese (entoarei, Senhor, …).",
+          "from": "draft"
+        },
+        {
+          "label": "entoarei salmos ao vosso nome, Altíssimo",
+          "forms": {
+            "psallam": "entoarei salmos ao vosso nome, Altíssimo"
+          },
+          "note": "The Latin's order; ends on a proparoxytone, the Latin's own stress (Altíssime).",
+          "from": "draft"
+        },
+        {
+          "label": "entoarei salmos ao vosso nome, ó Altíssimo",
+          "forms": {
+            "psallam": "entoarei salmos ao vosso nome, ó Altíssimo"
+          },
+          "note": "Matos Soares 1932 and the CNBB both put 'ó'; the glossary keeps the bare vocative unless the Latin has 'o'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "convertendo",
+      "refs": [
+        "9:4"
+      ],
+      "latin": "In converténdo inimícum meum retrórsum",
+      "kind": "ambiguity",
+      "why": "A gerund with an accusative: 'in the turning my enemy back'. Who turns him is not said; the Greek (ἐν τῷ ἀποστραφῆναι τὸν ἐχθρόν μου εἰς τὰ ὀπίσω) is a passive infinitive, Douay-Rheims 'When my enemy shall be turned back', Matos Soares 1932 makes God the agent ('porque puseste em fuga os meus inimigos'). convértere → voltar (glossary); retrórsum → 'para trás' — not 'atrás': 'voltar atrás' is the idiom for going back on one's word.",
+      "options": [
+        {
+          "label": "Ao voltar para trás o meu inimigo",
+          "forms": {
+            "convertendo": "Ao voltar para trás o meu inimigo"
+          },
+          "note": "Ruling. 'ao' + infinitive is the Portuguese build nearest to 'in' + gerund, and it names no agent — the Latin's silence kept. The ear takes the enemy as the one who turns, which is the Greek's and Douay-Rheims' reading; the transitive reading (someone turns him back) stays possible, since 'voltar' is both.",
+          "from": "draft"
+        },
+        {
+          "label": "Quando o meu inimigo voltar para trás",
+          "forms": {
+            "convertendo": "Quando o meu inimigo voltar para trás"
+          },
+          "note": "The plainest temporal clause; makes the verb intransitive and closes the transitive reading.",
+          "from": "draft"
+        },
+        {
+          "label": "Quando fizerdes voltar para trás o meu inimigo",
+          "forms": {
+            "convertendo": "Quando fizerdes voltar para trás o meu inimigo"
+          },
+          "note": "Names God as the agent, with Matos Soares 1932 — resolves what the Latin leaves open.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Quando o meu inimigo for voltado para trás",
+          "forms": {
+            "convertendo": "Quando o meu inimigo for voltado para trás"
+          },
+          "note": "Douay-Rheims' passive, to the letter; heavy.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "a_facie",
+      "refs": [
+        "9:4"
+      ],
+      "latin": "períbunt a fácie tua",
+      "kind": "word",
+      "why": "a fácie = ἀπὸ προσώπου, 'from before the face'. The glossary has 'da face de' for a fácie terræ (1:4, where something is driven off the face of the earth); 'perecerão da vossa face' is not Portuguese. Douay-Rheims 'before thy face', Matos Soares 1932 'diante de ti'.",
+      "options": [
+        {
+          "label": "diante da vossa face",
+          "forms": {
+            "a_facie": "diante da vossa face"
+          },
+          "note": "Ruling. Keeps the face (rule 5) and the glossary's 'face'; 'diante de' is what Douay-Rheims reads.",
+          "from": "DRB"
+        },
+        {
+          "label": "à vossa face",
+          "forms": {
+            "a_facie": "à vossa face"
+          },
+          "note": "The Diurnal's diction ('sucumbem à tua face'); shorter, a shade literary.",
+          "from": "DM1962"
+        },
+        {
+          "label": "longe da vossa face",
+          "forms": {
+            "a_facie": "longe da vossa face"
+          },
+          "note": "Says the 'from' of the preposition, but supplies 'longe'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v5a",
+      "refs": [
+        "9:5"
+      ],
+      "latin": "fecísti judícium meum",
+      "kind": "word",
+      "why": "fácere judícium (open glossary row: 118:84 'fazer juízo sobre', 118:121 'praticar o juízo'). Here the judgment is the speaker's own, set beside causam meam — the glossary row judicáre names 9:5 as a verse that must decide locally. The sense is 'you have done me justice in my case' (Douay-Rheims 'maintained my judgment'; the Greek τὴν κρίσιν μου καὶ τὴν δίκην μου). judícium → juízo is settled (D15); but 'o meu juízo' alone is heard as 'my opinion' or 'my good sense' (the blind reader at 118:154), so the verb must make the legal sense audible.",
+      "options": [
+        {
+          "label": "fizestes valer o meu juízo",
+          "forms": {
+            "v5a": "fizestes valer o meu juízo"
+          },
+          "note": "Ruling. Keeps fácere as 'fazer' and judícium as 'juízo'; 'fazer valer' is the living idiom for enforcing a right ('fazer valer os seus direitos'), so the legal sense is heard. Cost: 'valer' is supplied — Matos Soares 1932 supplies a verb too ('defendeste').",
+          "from": "draft"
+        },
+        {
+          "label": "defendestes o meu juízo",
+          "forms": {
+            "v5a": "defendestes o meu juízo"
+          },
+          "note": "Matos Soares 1932's verb; clear, but replaces fácere.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sustentastes o meu direito",
+          "forms": {
+            "v5a": "sustentastes o meu direito"
+          },
+          "note": "The CNBB's line (from the Hebrew) and Douay-Rheims' verb: the plainest Portuguese, but it leaves D15's 'juízo' for a second word.",
+          "from": "DRB"
+        },
+        {
+          "label": "fizestes o meu juízo",
+          "forms": {
+            "v5a": "fizestes o meu juízo"
+          },
+          "note": "The calque; heard as 'you formed my opinion'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "justitiam",
+      "refs": [
+        "9:5"
+      ],
+      "latin": "qui júdicas justítiam",
+      "kind": "grammar",
+      "why": "An accusative of content, as the Greek (ὁ κρίνων δικαιοσύνην): 'who judge justice', i.e. judge justly. Douay-Rheims keeps it ('who judgest justice'); Matos Soares 1932 makes it an adverbial ('segundo a justiça'). 9:8b has the other build (in justítia → com justiça), so the two should not be made one.",
+      "options": [
+        {
+          "label": "a justiça",
+          "forms": {
+            "justitiam": "a justiça"
+          },
+          "note": "Ruling. The Latin's object kept, as Douay-Rheims keeps it; the verse stays a shade odd, as the Latin is, and stays apart from 9:8b's 'com justiça'.",
+          "from": "DRB"
+        },
+        {
+          "label": "com justiça",
+          "forms": {
+            "justitiam": "com justiça"
+          },
+          "note": "What the phrase means, in the build of 9:8b — merges two Latin constructions.",
+          "from": "draft"
+        },
+        {
+          "label": "segundo a justiça",
+          "forms": {
+            "justitiam": "segundo a justiça"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "increpasti",
+      "refs": [
+        "9:6"
+      ],
+      "latin": "Increpásti gentes",
+      "kind": "glossary",
+      "why": "increpáre → repreender (working); since D21 it shares the word with árguere, and D21 asks whether a better word appears for God's rebuke of the nations — this is the place. The Greek is ἐπετίμησας (rebuke; in the Gospels also 'rebuke the wind'). 118:21 'Increpásti supérbos' is the same build and reads 'Repreendestes os soberbos'. Douay-Rheims 'rebuked', Matos Soares 1932 'repreendeste'; the CNBB (from the Hebrew) has 'Ameaçaste'.",
+      "options": [
+        {
+          "label": "Repreendestes",
+          "forms": {
+            "increpasti": "Repreendestes"
+          },
+          "note": "Ruling: the glossary word holds. It is what both Vulgate-family versions have, and 9:6 then says what 118:21 says. No better word turned up for the nations: 'ameaçar' is a threat not yet carried out, where here the nations perish in the same breath; 'increpar' is the cognate but a dictionary word. The split from árguere can still be made where the rebuke is a blast (ab increpatióne tua fúgient, 103:7; 17:16b, 75:7, 79:17) — there a noun is wanted and 'repreensão' is weak.",
+          "from": "glossary"
+        },
+        {
+          "label": "Ameaçastes",
+          "forms": {
+            "increpasti": "Ameaçastes"
+          },
+          "note": "The CNBB's diction (from the Hebrew); one of the senses of ἐπιτιμάω. It would restore the split from árguere, but a threat is less than the Latin says, and it is not the Vulgate family's word.",
+          "from": "draft"
+        },
+        {
+          "label": "Increpastes",
+          "forms": {
+            "increpasti": "Increpastes"
+          },
+          "note": "The cognate; exists in the dictionary, needs a footnote in the pew.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "in_aeternum",
+      "refs": [
+        "9:6",
+        "9:7b"
+      ],
+      "latin": "in ætérnum",
+      "kind": "glossary",
+      "why": "Settled by D23: in ætérnum → para sempre, one with in sǽculum (εἰς τὸν αἰῶνα). 9:37 (second stage) has the phrase again.",
+      "options": [
+        {
+          "label": "para sempre",
+          "forms": {
+            "aet": "para sempre"
+          },
+          "note": "D23.",
+          "from": "glossary"
+        },
+        {
+          "label": "eternamente",
+          "forms": {
+            "aet": "eternamente"
+          },
+          "note": "The glossary's word before D23; heavy (five syllables) at the end of 9:7b.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "saeculi",
+      "refs": [
+        "9:6"
+      ],
+      "latin": "et in sǽculum sǽculi",
+      "kind": "glossary",
+      "why": "The formula row in sǽculum (in ætérnum) et in sǽculum sǽculi names 9:6. D23: 'where they stand together the second member is pelos séculos dos séculos'. The Latinist asked twice in Ps 118:44 for the singular.",
+      "options": [
+        {
+          "label": "pelos séculos dos séculos",
+          "forms": {
+            "saec": "pelos séculos dos séculos"
+          },
+          "note": "Ruling: the glossary formula, the words every Brazilian Catholic knows from the doxology's close.",
+          "from": "glossary"
+        },
+        {
+          "label": "pelo século do século",
+          "forms": {
+            "saec": "pelo século do século"
+          },
+          "note": "The Latin's singular, as the Latinist asked in 118:44; unheard in Portuguese prayer.",
+          "from": "latinist"
+        },
+        {
+          "label": "por todos os séculos dos séculos",
+          "forms": {
+            "saec": "por todos os séculos dos séculos"
+          },
+          "note": "Matos Soares 1932 ('e por todos os séculos dos séculos'); 'todos' is supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "defecerunt",
+      "refs": [
+        "9:7a"
+      ],
+      "latin": "Inimíci defecérunt frámeæ",
+      "kind": "word",
+      "why": "defícere → desfalecer (glossary row deféctio / defícere, open; Ps 118:81 'A minha alma desfaleceu'). Here the subject is swords (ἐξέλιπον αἱ ῥομφαῖαι): they 'failed, gave out'. Douay-Rheims 'failed'; Matos Soares 1932 changes the image ('ficaram embotadas'). inimíci is a genitive singular with the Greek (τοῦ ἐχθροῦ) and Douay-Rheims.",
+      "options": [
+        {
+          "label": "desfaleceram",
+          "forms": {
+            "defecerunt": "desfaleceram"
+          },
+          "note": "Ruling. The glossary verb, used of things as Portuguese allows ('as forças desfaleceram'): the swords give out as a man's strength gives out. Keeps one Latin verb one Portuguese verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "falharam",
+          "forms": {
+            "defecerunt": "falharam"
+          },
+          "note": "Douay-Rheims' 'failed'; plain, but in Brazil a thing that 'falha' is first of all a thing that malfunctions.",
+          "from": "DRB"
+        },
+        {
+          "label": "ficaram embotadas",
+          "forms": {
+            "defecerunt": "ficaram embotadas"
+          },
+          "note": "Matos Soares 1932: a blunted edge is another image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "in_finem",
+      "refs": [
+        "9:7a",
+        "9:19"
+      ],
+      "latin": "in finem",
+      "kind": "glossary",
+      "why": "in finem (εἰς τέλος) stands three times in Ps 9 (9:7a, 9:19 twice; 9:32 in the second stage) beside in ætérnum (9:6, 9:7b, 9:37), and 19 verses in the psalter (grep; 12:1 obliviscéris me in finem, 73:1, 73:19 …). By D15's test the two phrases are different Greek (εἰς τέλος / εἰς τὸν αἰῶνα) and Portuguese has a plain second phrase, so they stay apart. In 9:19 the Greek has εἰς τέλος then εἰς τὸν αἰῶνα, and the Latin repeats in finem: the repetition is the Latin's and is kept. Douay-Rheims 'unto the end' (9:7a, 9:19a, 9:32); Matos Soares 1932 'para sempre' throughout.",
+      "options": [
+        {
+          "label": "até o fim",
+          "forms": {
+            "finem": "até o fim"
+          },
+          "note": "Ruling, proposed for the glossary. The Latin's noun (finis → fim) and Douay-Rheims' reading; it keeps in finem apart from in ætérnum in a psalm that has both three times, and the repetition of 9:19 is heard as the Latin's.",
+          "from": "DRB"
+        },
+        {
+          "label": "para sempre",
+          "forms": {
+            "finem": "para sempre"
+          },
+          "note": "Matos Soares 1932. The idiom a Portuguese ear expects in 9:19 ('não será para sempre esquecido'), but it merges in finem with in ætérnum, which the psalm sets a verse apart (9:6–9:7b).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "in_judicio",
+      "refs": [
+        "9:8b"
+      ],
+      "latin": "Parávit in judício thronum suum",
+      "kind": "word",
+      "why": "ἡτοίμασεν ἐν κρίσει τὸν θρόνον αὐτοῦ. Douay-Rheims 'He hath prepared his throne in judgment'; Matos Soares 1932 'para exercer o juízo'. In Brazil 'em juízo' is the lawyers' phrase for 'in court'.",
+      "options": [
+        {
+          "label": "para o juízo",
+          "forms": {
+            "in_judicio": "para o juízo"
+          },
+          "note": "Ruling. Reads 'in' as the purpose the throne is made ready for, as Matos Soares 1932 does (without his 'exercer'); the CNBB has the same words from the Hebrew (lamishpat). Cost: the preposition interprets.",
+          "from": "MS1932"
+        },
+        {
+          "label": "em juízo",
+          "forms": {
+            "in_judicio": "em juízo"
+          },
+          "note": "The Latin's preposition; heard as the court phrase.",
+          "from": "draft"
+        },
+        {
+          "label": "no juízo",
+          "forms": {
+            "in_judicio": "no juízo"
+          },
+          "note": "To the letter; unclear what it says.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "orbem",
+      "refs": [
+        "9:8b"
+      ],
+      "latin": "orbem terræ",
+      "kind": "glossary",
+      "why": "orbis terræ / terrárum: 17 verses (grep), several of them this very line (95:13 Judicábit orbem terræ in æquitáte, 97:9). 89:2 sets terra et orbis side by side, so orbis wants a word of its own. The Greek here is οἰκουμένη; Douay-Rheims 'the world'.",
+      "options": [
+        {
+          "label": "o orbe da terra",
+          "forms": {
+            "orbem": "o orbe da terra"
+          },
+          "note": "Ruling, proposed for the glossary. Both Latin words kept; 'orbe' is a dictionary word but lives in Catholic speech ('urbi et orbi', 'o orbe católico'). If the blind reader does not know it, 'o mundo' is the retreat.",
+          "from": "draft"
+        },
+        {
+          "label": "o mundo",
+          "forms": {
+            "orbem": "o mundo"
+          },
+          "note": "Douay-Rheims and the CNBB; plain, but it drops terræ and cannot serve 89:2 'terra et orbis'.",
+          "from": "DRB"
+        },
+        {
+          "label": "toda a terra",
+          "forms": {
+            "orbem": "toda a terra"
+          },
+          "note": "Matos Soares 1932; spends 'terra' and supplies 'toda' for orbis; collides with omnis terra (95:1, 96:9).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "factus",
+      "refs": [
+        "9:10"
+      ],
+      "latin": "Et factus est Dóminus",
+      "kind": "glossary",
+      "why": "fíeri, factus est → fazer-se (glossary, open; Ps 117 'e se fez salvação para mim'); the row notes that it cannot serve where a state came upon someone. Here the Lord makes himself refuge — the row's own case. refúgium → refúgio; páuperi is a dative, kept with 'para' as the Ps 117 formula keeps 'mihi'.",
+      "options": [
+        {
+          "label": "E o Senhor se fez",
+          "forms": {
+            "factus": "E o Senhor se fez"
+          },
+          "note": "Ruling; the glossary verb; Matos Soares 1932 has 'fez-se'.",
+          "from": "glossary"
+        },
+        {
+          "label": "E o Senhor tornou-se",
+          "forms": {
+            "factus": "E o Senhor tornou-se"
+          },
+          "note": "The row's option.",
+          "from": "glossary"
+        },
+        {
+          "label": "E o Senhor foi",
+          "forms": {
+            "factus": "E o Senhor foi"
+          },
+          "note": "The CNBB's copula (from the Hebrew); loses the becoming.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pauper",
+      "refs": [
+        "9:10",
+        "9:13",
+        "9:19"
+      ],
+      "latin": "pauper",
+      "kind": "glossary",
+      "why": "Ps 9 has pauper ten times (9:10, 13, 19 twice, 23, 30a, 30b twice, 31, 33, 35b, 38; 45 lines in the psalter by grep) and húmilis once (9:39); elsewhere it stands beside inops (11:6a, 34:10, 36:14, 71:13, 73:21, 85:1, 112:7, 139:13), egénus (34:10, 40:2, 69:6, 81:3–4, 108:22) and húmilis (73:21, 81:3). The Latin has pauper for both πένης (9:10, 9:13, 9:19b) and πτωχός (9:19a, 9:23 …): one Latin word, one Portuguese word. The set proposed for the glossary: pauper → pobre, inops → indigente, egénus → necessitado, húmilis → humilde.",
+      "options": [
+        {
+          "label": "pobre",
+          "forms": {
+            "pauper1": "o pobre",
+            "pauper2": "dos pobres",
+            "pauper3": "do pobre",
+            "pauper4": "dos pobres"
+          },
+          "note": "Ruling. What Douay-Rheims and Matos Soares 1932 have in nearly every place; plain; it keeps the number of each place (singular 9:10, 9:19a; plural 9:13, 9:19b).",
+          "from": "glossary"
+        },
+        {
+          "label": "pobre / infelizes (Matos Soares 1932)",
+          "forms": {
+            "pauper1": "o pobre",
+            "pauper2": "dos pobres",
+            "pauper3": "do pobre",
+            "pauper4": "dos infelizes"
+          },
+          "note": "Matos Soares 1932 varies in 9:19b; the Latin does not.",
+          "from": "MS1932"
+        },
+        {
+          "label": "oprimido",
+          "forms": {
+            "pauper1": "o oprimido",
+            "pauper2": "dos oprimidos",
+            "pauper3": "do oprimido",
+            "pauper4": "dos oprimidos"
+          },
+          "note": "The Diurnal's and the CNBB's word in 9:10 (Hebrew dak); not what pauper says.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "opportunitatibus",
+      "refs": [
+        "9:10"
+      ],
+      "latin": "adjútor in opportunitátibus, in tribulatióne",
+      "kind": "word",
+      "why": "ἐν εὐκαιρίαις: 'in seasonable times', at the right moments. The same phrase returns word for word in 9:22 (déspicis in opportunitátibus, in tribulatióne) and nowhere else in the psalter (grep), so the two must match. Douay-Rheims 'in due time'; Matos Soares 1932 'oportunamente'. adjútor → auxílio (glossary, open; Ps 117:6–7).",
+      "options": [
+        {
+          "label": "nas horas oportunas",
+          "forms": {
+            "opportunitatibus": "nas horas oportunas"
+          },
+          "note": "Ruling. Keeps the plural and the adjective's root (opportúnus → oportuno); 'horas' supplies the noun Portuguese needs, as Douay-Rheims supplies 'time'.",
+          "from": "draft"
+        },
+        {
+          "label": "no tempo oportuno",
+          "forms": {
+            "opportunitatibus": "no tempo oportuno"
+          },
+          "note": "Douay-Rheims' singular; the commonest wording.",
+          "from": "DRB"
+        },
+        {
+          "label": "nas oportunidades",
+          "forms": {
+            "opportunitatibus": "nas oportunidades"
+          },
+          "note": "The cognate noun: in Brazil 'oportunidades' are chances, which is not the sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "studia",
+      "refs": [
+        "9:12"
+      ],
+      "latin": "annuntiáte inter gentes stúdia ejus",
+      "kind": "word",
+      "why": "stúdia = τὰ ἐπιτηδεύματα, 'pursuits, practices, what one applies oneself to' (L&S studium: 'a busying one's self about a thing; zeal, endeavour'). Only one other verse: 13:1b 'abominábiles facti sunt in stúdiis suis' (grep), where it is men's evil practices. Douay-Rheims 'his ways'; Matos Soares 1932 'os seus desígnios'; the Diurnal and the CNBB 'feitos / obras' (the Hebrew's deeds).",
+      "options": [
+        {
+          "label": "os seus desígnios",
+          "forms": {
+            "studia": "os seus desígnios"
+          },
+          "note": "Ruling. Matos Soares 1932's word: what someone sets himself to, which is the Latin's; it can serve 13:1b too (abomináveis nos seus desígnios). Cost: the doing is less heard than the intending.",
+          "from": "MS1932"
+        },
+        {
+          "label": "os seus caminhos",
+          "forms": {
+            "studia": "os seus caminhos"
+          },
+          "note": "Douay-Rheims; spends via's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "os seus feitos",
+          "forms": {
+            "studia": "os seus feitos"
+          },
+          "note": "The Diurnal and the CNBB (from the Hebrew); what the deeds are, not what the Latin names.",
+          "from": "DM1962"
+        },
+        {
+          "label": "os seus empenhos",
+          "forms": {
+            "studia": "os seus empenhos"
+          },
+          "note": "Closest to L&S's 'endeavour'; not a word said of God.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "requirens",
+      "refs": [
+        "9:13"
+      ],
+      "latin": "Quóniam requírens sánguinem eórum recordátus est",
+      "kind": "word",
+      "why": "requírere sánguinem is the old idiom for calling a death to account (the Greek ἐκζητῶν τὰ αἵματα αὐτῶν); Douay-Rheims 'requiring their blood'. The glossary merged requírere into procurar at 118:145 (ἐκζητέω there too), but 'procurando o sangue deles' is heard as hunting for their blood — a sense the reverse of the Latin's. Whose blood (eórum) is not said: the Latin leaves it to the context (those who seek him, 9:11; the poor, 9:13b), and so does this. recordátus est has no object: kept absolute ('se lembrou').",
+      "options": [
+        {
+          "label": "pedindo contas do sangue deles",
+          "forms": {
+            "requirens": "pedindo contas do sangue deles"
+          },
+          "note": "Ruling. The Portuguese idiom for exactly this act; 'contas' is supplied to make the idiom, as Douay-Rheims supplies nothing but reads the verb so. Matos Soares 1932 went further ('vingando … mostrou que se lembra deles').",
+          "from": "draft"
+        },
+        {
+          "label": "procurando o sangue deles",
+          "forms": {
+            "requirens": "procurando o sangue deles"
+          },
+          "note": "The glossary's verb for requírere / exquírere (118:145); heard as seeking to shed it.",
+          "from": "glossary"
+        },
+        {
+          "label": "requerendo o sangue deles",
+          "forms": {
+            "requirens": "requerendo o sangue deles"
+          },
+          "note": "The cognate, a legal claim; heard too as asking for blood to be given.",
+          "from": "draft"
+        },
+        {
+          "label": "vingando o sangue deles",
+          "forms": {
+            "requirens": "vingando o sangue deles"
+          },
+          "note": "Matos Soares 1932 and the CNBB's 'vingador': the sense made explicit, and ulcísci's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "humilitatem",
+      "refs": [
+        "9:14"
+      ],
+      "latin": "vide humilitátem meam",
+      "kind": "glossary",
+      "why": "humílitas / humiliáre → humilhação / humilhar (glossary, open; the row names 9:14 and 24:18 'vide humilitátem meam'). The Greek is ταπείνωσις, lowliness suffered; Douay-Rheims 'my humiliation'. 9:31 (second stage) has humiliábit.",
+      "options": [
+        {
+          "label": "a minha humilhação",
+          "forms": {
+            "humilitatem": "a minha humilhação"
+          },
+          "note": "Ruling: the glossary word, the family of 9:31's 'humilhará'.",
+          "from": "glossary"
+        },
+        {
+          "label": "o meu abatimento",
+          "forms": {
+            "humilitatem": "o meu abatimento"
+          },
+          "note": "Matos Soares 1932 ('o abatimento a que os meus inimigos me reduziram').",
+          "from": "MS1932"
+        },
+        {
+          "label": "a minha humildade",
+          "forms": {
+            "humilitatem": "a minha humildade"
+          },
+          "note": "Heard as the virtue.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "de_inimicis",
+      "refs": [
+        "9:14"
+      ],
+      "latin": "de inimícis meis",
+      "kind": "grammar",
+      "why": "ἐκ τῶν ἐχθρῶν μου: the humiliation that comes from the enemies. Douay-Rheims supplies a clause ('which I suffer from my enemies'), Matos Soares 1932 another ('a que os meus inimigos me reduziram'). Bare 'dos meus inimigos' would make the enemies the owners of the humiliation.",
+      "options": [
+        {
+          "label": "vinda dos meus inimigos",
+          "forms": {
+            "de_inimicis": "vinda dos meus inimigos"
+          },
+          "note": "Ruling. A participle for the Latin's preposition, the build of Ps 7:11 ('o meu auxílio vindo do Senhor', for ex Dómino), which passed every reader there.",
+          "from": "draft"
+        },
+        {
+          "label": "que sofro dos meus inimigos",
+          "forms": {
+            "de_inimicis": "que sofro dos meus inimigos"
+          },
+          "note": "Douay-Rheims' clause; supplies a verb of suffering.",
+          "from": "DRB"
+        },
+        {
+          "label": "da parte dos meus inimigos",
+          "forms": {
+            "de_inimicis": "da parte dos meus inimigos"
+          },
+          "note": "Plain and exact; heavier.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exaltas",
+      "refs": [
+        "9:15"
+      ],
+      "latin": "Qui exáltas me de portis mortis",
+      "kind": "glossary",
+      "why": "exaltáre → exaltar (glossary, working: 117:16 exaltávit me, 117:28a exaltábo te; 9:33 exaltétur manus tua in the second stage). Here it is local — lifting up out of the gates of death (ὁ ὑψῶν με ἐκ τῶν πυλῶν τοῦ θανάτου). 'Exaltar alguém' in Brazil is first to praise him; the spatial 'das portas da morte' corrects it within the colon. Douay-Rheims 'liftest me up'.",
+      "options": [
+        {
+          "label": "exaltais",
+          "forms": {
+            "exaltas": "exaltais"
+          },
+          "note": "Ruling: the glossary verb, so that 9:15 and 9:33 (exaltétur) are one verb as in the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "levantais",
+          "forms": {
+            "exaltas": "levantais"
+          },
+          "note": "Douay-Rheims 'liftest up', the Diurnal's 'levanta'; clear, but levantar-se is exsúrgere's (9:20, 9:33).",
+          "from": "DM1962"
+        },
+        {
+          "label": "ergueis",
+          "forms": {
+            "exaltas": "ergueis"
+          },
+          "note": "Plain; erguer is kept for extóllere and astáre in the glossary.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "infixae",
+      "refs": [
+        "9:16a"
+      ],
+      "latin": "infíxæ sunt gentes",
+      "kind": "word",
+      "why": "infígere, passive: 'were fixed in, stuck fast' (ἐνεπάγησαν; Douay-Rheims 'have stuck fast'). Four places (grep): 9:16a, 37:3 sagíttæ tuæ infíxæ sunt mihi, 68:3 Infíxus sum in limo profúndi, 68:15 ut non infígar — arrows and mire. 'Presas' is not free: comprehénsus est → 'ficou preso' in the next two verses.",
+      "options": [
+        {
+          "label": "ficaram cravadas",
+          "forms": {
+            "infixae": "ficaram cravadas"
+          },
+          "note": "Ruling. The concrete image of a thing driven in and held; serves the arrows of 37:3 exactly and the mire of 68:3 well enough.",
+          "from": "draft"
+        },
+        {
+          "label": "fincaram-se",
+          "forms": {
+            "infixae": "fincaram-se"
+          },
+          "note": "The same image, a more rustic verb.",
+          "from": "draft"
+        },
+        {
+          "label": "atolaram-se",
+          "forms": {
+            "infixae": "atolaram-se"
+          },
+          "note": "The plainest for being stuck fast (and for 68:3), but it supplies mud, and cannot serve 37:3.",
+          "from": "draft"
+        },
+        {
+          "label": "caíram",
+          "forms": {
+            "infixae": "caíram"
+          },
+          "note": "Matos Soares 1932: loses the image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "interitu",
+      "refs": [
+        "9:16a"
+      ],
+      "latin": "in intéritu, quem fecérunt",
+      "kind": "word",
+      "why": "intéritus (διαφθορά here): 8 verses (grep: 34:7, 48:11, 54:24, 102:4, 108:13, 139:12 …). Douay-Rheims 'destruction'; Matos Soares 1932 'ruína' — but ruína is a Latin word of its own (105:29, 109:6, 143:14).",
+      "options": [
+        {
+          "label": "destruição",
+          "forms": {
+            "interitu": "destruição"
+          },
+          "note": "Ruling. Douay-Rheims' word; plain; free, since ruína has its own Latin word. The family of destrúere (9:7a destruístes) is only a family.",
+          "from": "DRB"
+        },
+        {
+          "label": "ruína",
+          "forms": {
+            "interitu": "ruína"
+          },
+          "note": "Matos Soares 1932; shorter and better sounding, but it is ruína's.",
+          "from": "MS1932"
+        },
+        {
+          "label": "perdição",
+          "forms": {
+            "interitu": "perdição"
+          },
+          "note": "Heard in Brazil as moral or eternal ruin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "comprehensus",
+      "refs": [
+        "9:16b",
+        "9:17"
+      ],
+      "latin": "comprehénsus est",
+      "kind": "glossary",
+      "why": "comprehéndere → prender (glossary, open; Ps 7:6). The same form closes 9:16b and 9:17 (συνελήμφθη twice): it repeats. 'Foi preso' is what the police do; 'ficou preso' is being caught fast, which is the snare's image.",
+      "options": [
+        {
+          "label": "ficou preso",
+          "forms": {
+            "comprehensus": "ficou preso"
+          },
+          "note": "Ruling. The glossary verb in the stative passive Portuguese uses for a trap (Matos Soares 1932 and the CNBB have it in 9:16b); the repetition kept.",
+          "from": "MS1932"
+        },
+        {
+          "label": "foi preso",
+          "forms": {
+            "comprehensus": "foi preso"
+          },
+          "note": "The passive to the letter; heard as arrested.",
+          "from": "draft"
+        },
+        {
+          "label": "foi apanhado",
+          "forms": {
+            "comprehensus": "foi apanhado"
+          },
+          "note": "The CNBB's verb in 9:17; leaves the glossary's prender.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "judicia_faciens",
+      "refs": [
+        "9:17"
+      ],
+      "latin": "Cognoscétur Dóminus judícia fáciens",
+      "kind": "word",
+      "why": "κρίματα ποιῶν: carrying out judgments. Douay-Rheims 'when he executeth judgments'; Matos Soares 1932 'faz justiça'. fácere judícium is an open row (118:84 'fazer juízo sobre', 118:121 'praticar o juízo'); bare 'fazendo juízos' is heard as forming opinions.",
+      "options": [
+        {
+          "label": "executando juízos",
+          "forms": {
+            "judicia_faciens": "executando juízos"
+          },
+          "note": "Ruling. The participle as a gerund, the plural kept, judícia → juízos (D15); 'executar' is the verb a Portuguese ear gives to a judgment carried out (Douay-Rheims 'executeth').",
+          "from": "DRB"
+        },
+        {
+          "label": "fazendo juízos",
+          "forms": {
+            "judicia_faciens": "fazendo juízos"
+          },
+          "note": "The calque; heard as forming opinions.",
+          "from": "draft"
+        },
+        {
+          "label": "praticando juízos",
+          "forms": {
+            "judicia_faciens": "praticando juízos"
+          },
+          "note": "118:121's verb; praticar is operári's in the glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "fazendo justiça",
+          "forms": {
+            "judicia_faciens": "fazendo justiça"
+          },
+          "note": "Matos Soares 1932; spends justítia's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v17b",
+      "refs": [
+        "9:17"
+      ],
+      "latin": "in opéribus mánuum suárum comprehénsus est peccátor",
+      "kind": "order",
+      "why": "suárum is reflexive: the sinner's own hands. In the Latin's order the Portuguese 'das suas mãos' comes before its owner, right after 'o Senhor' of the first colon, and is heard as the Lord's hands. Matos Soares 1932 inserts '(próprias)'.",
+      "options": [
+        {
+          "label": "o pecador ficou preso nas obras das suas mãos",
+          "forms": {
+            "v17b": "o pecador {comprehensus} nas obras das suas mãos"
+          },
+          "note": "Ruling. Subject first — order only (D2) — so 'suas' has its owner before it.",
+          "from": "draft"
+        },
+        {
+          "label": "nas obras das suas mãos ficou preso o pecador",
+          "forms": {
+            "v17b": "nas obras das suas mãos {comprehensus} o pecador"
+          },
+          "note": "The Latin's order; 'suas' is heard as the Lord's.",
+          "from": "draft"
+        },
+        {
+          "label": "nas obras das suas próprias mãos ficou preso o pecador",
+          "forms": {
+            "v17b": "nas obras das suas próprias mãos {comprehensus} o pecador"
+          },
+          "note": "Matos Soares 1932's gloss taken into the text; 'próprias' is supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "convertantur",
+      "refs": [
+        "9:18"
+      ],
+      "latin": "Convertántur peccatóres in inférnum",
+      "kind": "word",
+      "why": "convértere → voltar (glossary), the verb of 9:4 (In converténdo … retrórsum): the enemies who were turned back are now turned into the underworld (ἀποστραφήτωσαν … εἰς τὸν ᾅδην). Ps 6:11 has convertántur → 'que se voltem', with no place named; with 'in' + a place 'voltar-se para' would be 'face towards'. Douay-Rheims 'shall be turned into hell'; Matos Soares 1932 'Sejam precipitados'.",
+      "options": [
+        {
+          "label": "Voltem",
+          "forms": {
+            "convertantur": "Voltem"
+          },
+          "note": "Ruling. 'Voltar para' is 'go back to', which is what the Greek's verb says; the jussive subjunctive, as the Latin; one verb with 9:4.",
+          "from": "draft"
+        },
+        {
+          "label": "Sejam voltados",
+          "forms": {
+            "convertantur": "Sejam voltados"
+          },
+          "note": "The passive to the letter (Douay-Rheims); heavy.",
+          "from": "DRB"
+        },
+        {
+          "label": "Voltem-se",
+          "forms": {
+            "convertantur": "Voltem-se"
+          },
+          "note": "Ps 6:11's form; with 'para o inferno' heard as turning to face it.",
+          "from": "draft"
+        },
+        {
+          "label": "Sejam lançados",
+          "forms": {
+            "convertantur": "Sejam lançados"
+          },
+          "note": "Matos Soares 1932's sense ('precipitados'); another verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "infernum",
+      "refs": [
+        "9:18"
+      ],
+      "latin": "in inférnum",
+      "kind": "glossary",
+      "why": "inférnus → inferno (glossary, open; D22 holds it for Gustavo's ear; 19 verses). The Greek is ᾅδης, the world of the dead. The blind reader of Ps 6 heard the hell of the damned first. Here, of sinners and nations that forget God, that hearing is the traditional one (Matos Soares 1932 'no inferno', with his footnote 'isto é, na habitação dos mortos'; Douay-Rheims 'into hell').",
+      "options": [
+        {
+          "label": "o inferno",
+          "forms": {
+            "infernum": "o inferno"
+          },
+          "note": "Ruling: the Latin's word, as Ps 6:6; both Vulgate-family versions have it.",
+          "from": "glossary"
+        },
+        {
+          "label": "os infernos",
+          "forms": {
+            "infernum": "os infernos"
+          },
+          "note": "The old plural for the abode of the dead (the Creed's wording — from memory, unverified).",
+          "from": "glossary"
+        },
+        {
+          "label": "a mansão dos mortos",
+          "forms": {
+            "infernum": "a mansão dos mortos"
+          },
+          "note": "A paraphrase (the Creed as now said in Brazil — unverified).",
+          "from": "glossary"
+        },
+        {
+          "label": "a habitação dos mortos",
+          "forms": {
+            "infernum": "a habitação dos mortos"
+          },
+          "note": "Matos Soares 1932's footnote.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confortetur",
+      "refs": [
+        "9:20"
+      ],
+      "latin": "non confortétur homo",
+      "kind": "word",
+      "why": "confortári = be strengthened (μὴ κραταιούσθω). 12 verses have the stem (grep: 26:14 and 30:25 et confortétur cor, 17:18, 68:5, 141:7 confortáti sunt super me, 138:17 …). Douay-Rheims 'let not man be strengthened'; Matos Soares 1932 'não triunfe'; the Diurnal and the CNBB 'não prevaleça' (from the Hebrew).",
+      "options": [
+        {
+          "label": "se fortaleça",
+          "forms": {
+            "confortetur": "se fortaleça"
+          },
+          "note": "Ruling, proposed for the glossary: confortári → fortalecer-se. The Latin's verb; it will serve 26:14 (e fortaleça-se o vosso coração) and the enemies 'fortalecidos contra mim' of 17:18, 141:7.",
+          "from": "DRB"
+        },
+        {
+          "label": "prevaleça",
+          "forms": {
+            "confortetur": "prevaleça"
+          },
+          "note": "The Diurnal and the CNBB (from the Hebrew): the outcome of being strong, not the Latin's word.",
+          "from": "DM1962"
+        },
+        {
+          "label": "triunfe",
+          "forms": {
+            "confortetur": "triunfe"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "9:20"
+      ],
+      "latin": "in conspéctu tuo",
+      "kind": "glossary",
+      "why": "in conspéctu → à vista de (glossary, open: proposed in Ps 5:9, 51 verses; Ps 118:168–170 found that it fails with verbs of motion and used 'a vossa presença'). Here the verb is a passive of judging, no motion. 9:26a (second stage) has 'in conspéctu ejus'.",
+      "options": [
+        {
+          "label": "à vossa vista",
+          "forms": {
+            "conspectu": "à vossa vista"
+          },
+          "note": "Ruling: the glossary's proposal, which holds where there is no motion.",
+          "from": "glossary"
+        },
+        {
+          "label": "na vossa presença",
+          "forms": {
+            "conspectu": "na vossa presença"
+          },
+          "note": "Matos Soares 1932; Ps 118:168–170.",
+          "from": "MS1932"
+        },
+        {
+          "label": "diante de vós",
+          "forms": {
+            "conspectu": "diante de vós"
+          },
+          "note": "Plain; loses the noun.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "legislatorem",
+      "refs": [
+        "9:21"
+      ],
+      "latin": "Constítue, Dómine, legislatórem super eos",
+      "kind": "word",
+      "why": "νομοθέτην: the Latin and Greek read a lawgiver where the Hebrew has 'fear' (the Diurnal: 'o teu terror'). One other verse: 83:8 benedictiónem dabit legislátor (grep). In Brazil 'legislador' is first a member of parliament. super eos is masculine though gentes is feminine (ad sensum, the nations as men, as the verse ends): kept as 'sobre eles'.",
+      "options": [
+        {
+          "label": "um legislador",
+          "forms": {
+            "legislatorem": "um legislador"
+          },
+          "note": "Ruling. The Latin's reading, with Douay-Rheims and Matos Soares 1932; the parliamentary echo is a cost, but a plain one, and the verse corrects it ('para que saibam que são homens').",
+          "from": "MS1932"
+        },
+        {
+          "label": "um que lhes dê a lei",
+          "forms": {
+            "legislatorem": "um que lhes dê a lei"
+          },
+          "note": "Unpacks the compound; a clause for a noun.",
+          "from": "draft"
+        },
+        {
+          "label": "um mestre",
+          "forms": {
+            "legislatorem": "um mestre"
+          },
+          "note": "A Hebrew-family sense (moreh, 'teacher'): refused under rule 1.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "9:2": "The psalm begins at 9:2 (9:1 is the titulus; D7). in toto corde meo → 'de todo o meu coração' (glossary formula). narráre → narrar; mirabília → maravilhas (the family of mirábilis → maravilhoso).",
+    "9:3": "lætári / exsultáre → alegrar-se / exultar (glossary). 'Eu me alegrarei' supplies the subject pronoun so that the verse does not open on a clitic; 'Alegrar-me-ei' (Matos Soares 1932) is the mesóclise the brief keeps for where it reads naturally. 'em vós' closes the colon and governs both verbs, as in te does.",
+    "9:4": "infirmári → enfraquecer (glossary row infírmus). The verbs are plural after a singular 'inimigo', as in the Latin and the Greek: the enemy is a host.",
+    "9:5": "sedísti → 'sentastes-vos' (enclisis at the head of a clause); super thronum → 'sobre o trono' (glossary super, place).",
+    "9:6": "ímpius → ímpio; delére → apagar (Douay-Rheims 'blotted out', Matos Soares 1932 'apagaste'). eórum → 'deles', not 'o seu nome', which after 'o ímpio' would point to him alone — and in Brazil 'seu' is also 'your'. The last colon is long (the Latin's twenty syllables against about twenty-three) and ends on 'séculos', a proparoxytone, as the Latin ends on sǽculi: the formula is kept whole.",
+    "9:7a": "frámea → espada (ῥομφαία, Douay-Rheims 'swords'). inimíci read as a genitive singular with the Greek. destrúere → destruir (glossary; not an imperative). The Latin's order 'et civitátes eórum destruxísti' becomes the natural Portuguese one.",
+    "9:7b": "sónitus → 'estrondo' (Douay-Rheims 'with a noise'; Matos Soares 1932 'ruído'). The inline marker (8a) is not reproduced. permanére → permanecer.",
+    "9:8b": "The inline marker (9) is not reproduced. ipse → 'ele mesmo' (Matos Soares 1932). ǽquitas → equidade (glossary). The Latin swaps the Greek's pair (the world in equity, the peoples in justice): the Latin's order is followed. in + ablative → 'com' (manner), as Matos Soares 1932.",
+    "9:10": "adjútor → auxílio (glossary, open; Ps 117:6–7 'o meu auxílio'); tribulátio → tribulação.",
+    "9:11": "speráre in → esperar em; novísse → conhecer; derelínquere → abandonar; quǽrere → buscar (all glossary).",
+    "9:12": "psállere → entoar salmos (D25), at the vós imperative (entoai; past entoei — safe). annuntiáre → anunciar (glossary note on prædicáre); anunciai is safe. The Latin's colon at the end of the verse is kept: 9:13 gives the reason.",
+    "9:13": "clamor → clamor; oblivísci → esquecer with a direct object (glossary). 'se lembrou' closes the colon on an oxytone.",
+    "9:14": "Miserére mei → 'Tende piedade de mim' (glossary formula). vide → 'vede' (safe: past 'vi').",
+    "9:15": "The verse hangs on 9:14's address, as the Latin does (Qui exáltas me … ut annúntiem): no main verb is supplied. laudátio → louvor (the family of laus). portæ repeats (portis mortis … in portis fíliæ Sion), as in the Latin.",
+    "9:16a": "salutáre → salvação (D6). The Latin's order (verb first) kept.",
+    "9:16b": "láqueus → laço (glossary); isto → 'neste'. abscóndere → esconder.",
+    "9:18": "oblivísci Deum → 'esquecem a Deus' (the preposition Portuguese puts before 'Deus' as object).",
+    "9:19": "oblívio páuperis → 'o esquecimento do pobre': open, as the Latin is, between the poor man forgetting and being forgotten. patiéntia → paciência (Douay-Rheims 'patience'), not the Hebrew family's 'esperança'. The repetition 'até o fim … até o fim' is the Latin's (decision in_finem).",
+    "9:20": "'Exsúrge, Dómine' → 'Levantai-vos, Senhor' (glossary formula; 9:33 again). homo → homem.",
+    "9:21": "constitúere → estabelecer (glossary; 'Estabelecei' is safe: past 'estabeleci'). scire → saber before a 'que' clause (the glossary's scire row: Portuguese collocation decides). The first stage ends here, where Hebrew Ps 9 ends."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm9.txt, 42 prayed verses 9:2–9:39 with DO's split ids (9:7a, 9:7b, 9:8b, 9:16a, 9:16b, 9:26a, 9:26b, 9:30a, 9:30b, 9:35a, 9:35b) and two inline markers in 9:7b and 9:8b, (8a) and (9), not reproduced. One '*' per verse. 9:1 is the titulus (D7). Worked in two stages in one folder, as Ps 118 was: 9:2–9:21 (Hebrew Ps 9) first, then 9:22–9:39 (Hebrew Ps 10) appended. While partial, prayed.json and literal.json carry 'range'; ps009/partial.py (from ps118/partial.py) stands in for checks.py, ps009/part.py (from ps118/part3.py) builds the critics' sub-folder for the second stage. The previous agent left only ps009/consult/ (two Douay-Rheims fetches, kept) and an empty critic/."
+    },
+    {
+      "step": "draft",
+      "note": "Stage one (9:2–9:21), draft 1, from consult/parallels/ps009.md (Douay-Rheims chapters regenerated by the coordinator; the Matos Soares 1932 text layer; the Diurnal Monástico 1962 and the CNBB for diction only; DO's Portuguese not used, D12). Lewis & Short read for studium. Repeats found with ps005/grep_latin.py: 9:10b = 9:22b (in opportunitátibus, in tribulatióne); 9:6 increpásti = 118:21; 9:2 = 110:1, 137:1 (first colon); in finem ×3 against in ætérnum ×2 in these twenty verses; orbem terræ in æquitáte = 95:13. Rule 3 checked at every vós imperative: Entoai, anunciai, Tende, vede, Levantai-vos, Estabelecei — all safe. Glossary applied: D5 (dar graças), D6 (salvação), D23 (para sempre), D25 (entoar salmos), D15 (juízo), convértere → voltar (9:4, 9:18, one verb), increpáre → repreender (tested, holds), humílitas → humilhação, exaltáre → exaltar, comprehéndere → prender, inférnus → inferno (for Gustavo), in conspéctu → à vista de. Proposed: in finem → até o fim, pauper → pobre (and the set inops / egénus / húmilis), orbis terræ → o orbe da terra, confortári → fortalecer-se, stúdia → desígnios, intéritus → destruição, infígere → ficar cravado. Places where the Latin follows the Greek against the Hebrew and is followed: 9:8b the Latin's swapped pair, 9:13 requírens, 9:19 patiéntia, 9:20 non confortétur, 9:21 legislatórem."
+    },
+    {
+      "step": "checks",
+      "note": "Stage one, draft 1, through ps009/partial.py (checks.py's own code on 9:2–9:21): hard pass (ids and marks). Soft flags, all accepted: 9:3 both cola long (+3, +5: 'Eu me' supplied, and D25's two words 'entoarei salmos' for psallam); 9:4b +3, 9:6b +3 (the doxology formula, which ends on 'séculos' as the Latin on sǽculi), 9:7a first colon +4 (articles and 'até o fim'), 9:11 first colon +3, 9:12 first colon +3 (entoai salmos again), 9:15 second colon +3, 9:16a second colon +3, 9:17 first colon +3 (the gerund 'executando'); 9:10b −3 and 9:13a −3 and 9:17b −4 (Latin polysyllables: opportunitátibus, requírens sánguinem, opéribus mánuum). No cadence flag: every Portuguese colon ends oxytone or paroxytone. No rhyme flag."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "10bcd2e1bd9e7bb5fb126da8a665617e8dcc98ca39070a82feb1ec022ba24d05",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T13:55:54+00:00",
+  "reply": "{\"verses\":[{\"id\":\"15:4b\",\"severity\":\"major\",\"issues\":[{\"latin\":\"de sanguínibus\",\"portuguese\":\"de sangue\",\"problem\":\"O latim emprega o plural «sanguinibus»; o singular «sangue» elimina essa particularidade, cuja conservação é exigida pela regra do projeto.\",\"fix\":\"de sangues\"}]}],\"overall\":\"A tradução conserva o sentido do latim nos demais versículos, inclusive suas imagens concretas e construções insólitas. Todas as marcas de divisão correspondem às do latim, na mesma ordem.\"}"
+}

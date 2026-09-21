@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "cf9b74bf2e54fccada6eb836a6c0e8c168fd4dff1b5050ddc908828d8ab59d0f",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T05:25:51+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"118:114\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Adjútor et suscéptor meus es tu\",\n          \"portuguese\": \"Vós sois o meu auxílio e o meu amparo\",\n          \"problem\": \"A formulação conserva o sentido geral, mas substitui os nomes pessoais — aquele que auxilia e aquele que ampara — por substantivos abstratos.\",\n          \"fix\": \"Vós sois o meu auxiliador e o meu protetor\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"Os 48 versos foram conferidos; fora a ressalva indicada, a tradução conserva adequadamente o sentido do latim, inclusive suas imagens e construções peculiares. As marcas de salmodia são idênticas e aparecem na mesma ordem em todos os versos.\"\n}"
+}

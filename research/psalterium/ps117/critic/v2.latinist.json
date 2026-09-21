@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "e20f13b484e83f1fb50cdbd96ed200914d363e01c867604c7102fe62eb02b601",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:39:42+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"117:6\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Dóminus mihi adjútor\",\n          \"portuguese\": \"O Senhor é o meu auxílio\",\n          \"problem\": \"«Adjútor» designa aquele que ajuda. «Auxílio» é defensável como expressão portuguesa, mas substitui a designação pessoal pela ajuda prestada.\",\n          \"fix\": \"O Senhor é o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"117:7\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Dóminus mihi adjútor\",\n          \"portuguese\": \"O Senhor é o meu auxílio\",\n          \"problem\": \"«Adjútor» designa aquele que ajuda. «Auxílio» é defensável como expressão portuguesa, mas substitui a designação pessoal pela ajuda prestada.\",\n          \"fix\": \"O Senhor é o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"117:19\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Aperíte mihi portas justítiæ\",\n          \"portuguese\": \"Abram-se para mim as portas da justiça\",\n          \"problem\": \"«Aperíte» é um imperativo ativo dirigido à segunda pessoa do plural, com «portas» como objeto. A tradução transforma as portas em sujeito de uma construção passiva ou pronominal e elimina os destinatários da ordem.\",\n          \"fix\": \"Abri para mim as portas da justiça\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo e as peculiaridades do latim; a alteração mais relevante está no imperativo de 117:19. Todos os sinais de divisão coincidem com os do latim, em identidade e ordem.\"\n}"
+}

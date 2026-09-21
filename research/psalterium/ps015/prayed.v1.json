@@ -1,0 +1,215 @@
+{
+  "psalm": 15,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "15:1": "{conserva}, Senhor, porque em vós esperei. ‡ Eu disse ao Senhor: Vós sois o meu Deus, * porque {eges}.",
+    "15:3": "{sanctis} que estão na sua terra, * {mirificavit} todas as minhas vontades neles.",
+    "15:4a": "Multiplicaram-se as enfermidades deles: * depois {acceleraverunt}.",
+    "15:4b": "Não {conventicula} de sangue, * nem me lembrarei dos seus nomes {perlabia}.",
+    "15:5": "O Senhor é a parte da minha herança {calicis}: * sois vós que me restituireis a minha herança.",
+    "15:6": "As cordas me caíram {praeclaris}: * pois a minha herança é {praeclara} para mim.",
+    "15:7": "Bendirei o Senhor, que me deu entendimento: * e ainda {noctem} os meus rins me repreenderam.",
+    "15:8": "{providebam}: * porque está à minha direita, para eu não ser abalado.",
+    "15:9": "Por isso se alegrou o meu coração, e exultou a minha língua: * e ainda a minha carne repousará na esperança.",
+    "15:10": "Porque não abandonareis a minha alma {inferno}: * nem {dabis} a corrupção.",
+    "15:11": "Fizestes-me conhecer os caminhos da vida, † vós me enchereis de alegria com o vosso rosto: * {delectationes} na vossa direita {finem}."
+  },
+  "decisions": [
+    {
+      "id": "conserva",
+      "refs": ["15:1"],
+      "latin": "Consérva me, Dómine",
+      "kind": "glossary",
+      "why": "consérvare: 'keep, preserve' (φύλαξόν με). The glossary rules serváre with a person as object → 'conservar' (Ps 11:8 'nos conservareis', beside custodíre → guardar); the Greek there is also φυλάσσω. conserváre is only here and 36:28 in ætérnum conservabúntur (grep). 'Conservai' is safe at the vós imperative (past 'conservei'). Douay-Rheims 'Preserve me'; Matos Soares 1932 'Guarda-me'.",
+      "options": [
+        {"label": "Conservai-me", "forms": {"conserva": "Conservai-me"}, "note": "Ruling: the cognate, one family with 11:8's serváre → 'conservar'; the verb of the blessing 'Deus vos conserve'. It leaves 'guardar' to custodíre (16:8a Custódi me).", "from": "glossary"},
+        {"label": "Guardai-me", "forms": {"conserva": "Guardai-me"}, "note": "Matos Soares 1932: the familiar opening, but 'guardar' is custodíre's, and 16:8a Custódi me, one psalm later, needs it.", "from": "MS1932"},
+        {"label": "Preservai-me", "forms": {"conserva": "Preservai-me"}, "note": "Douay-Rheims' 'Preserve'; a third verb for the family.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "eges",
+      "refs": ["15:1"],
+      "latin": "quóniam bonórum meórum non eges",
+      "kind": "word",
+      "why": "egére + genitive: 'to need, have need of' (οὐ χρείαν ἔχεις); only here in the psalter (grep). Its adjective egénus is proposed → 'necessitado' (glossary, inops row). The Latin says it because God is God (the Hebrew differs). Douay-Rheims 'for thou hast no need of my goods'; Matos Soares 1932 'Que não tens necessidade dos meus bens'.",
+      "options": [
+        {"label": "não precisais dos meus bens", "forms": {"eges": "não precisais dos meus bens"}, "note": "Ruling: the plain verb; the verse closes on the stressed 'bens' as the Latin's colon on 'eges'.", "from": "draft"},
+        {"label": "não tendes necessidade dos meus bens", "forms": {"eges": "não tendes necessidade dos meus bens"}, "note": "Matos Soares 1932: the noun, and a link to 'necessitado' (egénus); three syllables longer.", "from": "MS1932"},
+        {"label": "não necessitais dos meus bens", "forms": {"eges": "não necessitais dos meus bens"}, "note": "The verb of egénus's proposed family; bookish.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "sanctis",
+      "refs": ["15:3"],
+      "latin": "Sanctis, qui sunt in terra ejus",
+      "kind": "grammar",
+      "why": "A dative standing first and hanging loose ('To the saints who are in his land'), taken up by 'in eis' at the end; the Greek has the same (τοῖς ἁγίοις … ἐν αὐτοῖς), though its 'wills' are 'his' (αὐτοῦ) where the Latin has 'meas' — the Latin is followed (rule 1). The verse is famously obscure; the Latin's looseness is kept, not explained. Douay-Rheims 'To the saints, who are in his land'; Matos Soares 1932 'Para com os santos, que estão sobre a sua terra'.",
+      "options": [
+        {"label": "Aos santos", "forms": {"sanctis": "Aos santos"}, "note": "Ruling: the dative as Portuguese has it, left hanging as in the Latin and Douay-Rheims.", "from": "DRB"},
+        {"label": "Para com os santos", "forms": {"sanctis": "Para com os santos"}, "note": "Matos Soares 1932: says 'towards', a relation the Latin does not name.", "from": "MS1932"},
+        {"label": "Quanto aos santos", "forms": {"sanctis": "Quanto aos santos"}, "note": "Makes the loose dative a topic ('as for'); an interpretation of the grammar.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "mirificavit",
+      "refs": ["15:3"],
+      "latin": "mirificávit omnes voluntátes meas in eis",
+      "kind": "glossary",
+      "why": "Glossary: mirificáre → fazer maravilhoso (working; 4:4 mirificávit Dóminus sanctum suum → 'fez maravilhoso o seu santo' — the same verb beside the same noun, sanctus; the row names 15:3). No subject in the Latin; 'terra ejus' and the psalm make it God. voluntas → vontade (glossary). Douay-Rheims 'he hath made wonderful all my desires in them'; Matos Soares 1932 'fez brilhar todo o meu afecto' (explains).",
+      "options": [
+        {"label": "fez maravilhosas", "forms": {"mirificavit": "fez maravilhosas"}, "note": "Ruling: the glossary verb, agreeing with 'vontades'; no subject supplied, as the Latin (the Lord of 15:2 is heard). The echo of 4:4 (santo … fez maravilhoso) is kept.", "from": "glossary"},
+        {"label": "ele fez maravilhosas", "forms": {"mirificavit": "ele fez maravilhosas"}, "note": "The subject named (D2 allows it); 'ele' is as open as the verb ending.", "from": "draft"},
+        {"label": "fez brilhar", "forms": {"mirificavit": "fez brilhar"}, "note": "Matos Soares 1932's verb (he then drops 'omnes voluntátes meas in eis' for 'todo o meu afecto').", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "acceleraverunt",
+      "refs": ["15:4a"],
+      "latin": "póstea acceleravérunt",
+      "kind": "word",
+      "why": "acceleráre: 'to hasten' (ἐτάχυναν); only here and 30:3 accélera ut éruas me (grep) — there of God, at the vós imperative ('apressai-vos', safe). eórum (whose infirmities) is left as open as the Latin: 'deles'. Douay-Rheims 'afterwards they made haste'; Matos Soares 1932 'depois correram aceleradamente'.",
+      "options": [
+        {"label": "se apressaram", "forms": {"acceleraverunt": "se apressaram"}, "note": "Ruling: one verb for one, plain; 30:3 can have 'apressai-vos'.", "from": "DRB"},
+        {"label": "correram depressa", "forms": {"acceleraverunt": "correram depressa"}, "note": "Matos Soares 1932's sense; 'correr' supplies a motion the Latin does not name, and 'depressa' is velóciter's.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "conventicula",
+      "refs": ["15:4b"],
+      "latin": "Non congregábo conventícula eórum de sanguínibus",
+      "kind": "word",
+      "why": "'I will not gather their gatherings of bloods' (οὐ μὴ συναγάγω τὰς συναγωγὰς αὐτῶν ἐξ αἱμάτων): the Greek repeats one root, the Latin has two of one sense (congregáre / conventículum, L&S 'an assembly, meeting'); only here (grep). sanguínes (plural: bloodshed, blood offerings) → 'de sangue', the plural lost as in the glossary's vir sánguinum → homem de sangue; 50:16 Líbera me de sanguínibus is the other plural. congregáre (17 lines with the stem) and congregátio (→ congregação, the row synagóga) are one family. Douay-Rheims 'I will not gather together their meetings for blood offerings' (explains); Matos Soares 1932 'Não congregarei os seus conventículos sanguinários'.",
+      "options": [
+        {"label": "congregarei os seus ajuntamentos", "forms": {"conventicula": "congregarei os seus ajuntamentos"}, "note": "Ruling: 'congregar', the Latin's verb, of one family with congregátio → congregação; 'ajuntamento', a plain word for a gathering that is not the glossary's 'assembleia' (concílium) nor 'congregação'. 'de sangue' left as open as the Latin (blood shed, blood offered).", "from": "draft"},
+        {"label": "congregarei os seus conventículos", "forms": {"conventicula": "congregarei os seus conventículos"}, "note": "Matos Soares 1932's cognate: in Portuguese a secret, factious meeting — apt, but rare and a proparoxytone.", "from": "MS1932"},
+        {"label": "reunirei as suas reuniões", "forms": {"conventicula": "reunirei as suas reuniões"}, "note": "The Greek's figure (one root twice); the Latin varies it.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "perlabia",
+      "refs": ["15:4b"],
+      "latin": "nec memor ero nóminum eórum per lábia mea",
+      "kind": "word",
+      "why": "'Nor will I be mindful of their names through my lips' — I will not take their names on my lips (διὰ χειλέων μου). memor esse → lembrar-se de (glossary). Douay-Rheims 'by my lips'; Matos Soares 1932 'nem sequer me lembrarei dos seus nomes para os pronunciar' (explains).",
+      "options": [
+        {"label": "com os meus lábios", "forms": {"perlabia": "com os meus lábios"}, "note": "Ruling: the lips kept, 'per' said as the instrument, as the Latin means it (to remember aloud, to name).", "from": "draft"},
+        {"label": "pelos meus lábios", "forms": {"perlabia": "pelos meus lábios"}, "note": "'per' to the letter; 'pelos' can be heard as 'for the sake of'.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "calicis",
+      "refs": ["15:5"],
+      "latin": "Dóminus pars hereditátis meæ, et cálicis mei",
+      "kind": "order",
+      "why": "Glossary: calix / pars → cálice / parte (working; its row names 15:5); heréditas → herança. The Latin has no verb (Portuguese supplies 'é'). 'cálice' is a proparoxytone and here stands at the mediant, which the glossary says wants a word after it (10:7 'do cálice deles'). Douay-Rheims 'The Lord is the portion of my inheritance and of my cup'; Matos Soares 1932 'O Senhor é a porção da minha herança e do meu cálice'.",
+      "options": [
+        {"label": "e do meu cálice", "forms": {"calicis": "e do meu cálice"}, "note": "Ruling: the Latin's words in the Latin's order; the proparoxytone at the mediant accepted (as Ps 90:1 'Altíssimo'), because every way round it moves a noun or adds one.", "from": "draft"},
+        {"label": "e do cálice meu", "forms": {"calicis": "e do cálice meu"}, "note": "The possessive after: the mediant on a stressed syllable, at the cost of a poetic inversion (rule 5).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "praeclaris",
+      "refs": ["15:6"],
+      "latin": "Funes cecidérunt mihi in præcláris: * étenim heréditas mea præclára est mihi",
+      "kind": "word",
+      "why": "The measuring lines of an allotment fell to me 'in very fine [places]' (ἐν τοῖς κρατίστοις); præclárus 'very bright … magnificent, splendid, excellent' (Lewis & Short); said twice, and the repetition is kept. funes → cordas (glossary, working). præclárus recurs only in 22:5 calix meus inébrians quam præclárus est (grep). Douay-Rheims 'in goodly places … goodly'; Matos Soares 1932 'em lugares deliciosos … excelente'.",
+      "options": [
+        {"label": "excelentes / excelente", "forms": {"praeclaris": "em lugares excelentes", "praeclara": "excelente"}, "note": "Ruling: the Latin's word twice, as the Latin; a paroxytone at both cadences; 'lugares' supplied for the neuter plural (Douay-Rheims' 'places').", "from": "draft"},
+        {"label": "esplêndidos / esplêndida", "forms": {"praeclaris": "em lugares esplêndidos", "praeclara": "esplêndida"}, "note": "Nearer to 'very bright'; proparoxytones at the mediant and in the last colon.", "from": "draft"},
+        {"label": "deliciosos / excelente", "forms": {"praeclaris": "em lugares deliciosos", "praeclara": "excelente"}, "note": "Matos Soares 1932: the repetition lost.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "noctem",
+      "refs": ["15:7"],
+      "latin": "ínsuper et usque ad noctem increpuérunt me renes mei",
+      "kind": "word",
+      "why": "ínsuper et → 'e ainda' (glossary, which already writes 15:7 and 15:9 so); increpáre → repreender (glossary; the Greek here is ἐπαίδευσαν, 'instructed, chastened', but the Latin reads 'rebuked'); renes → rins (glossary, open — the organ named). usque ad noctem: 'up to the night' (ἕως νυκτός). Douay-Rheims 'even till night'; Matos Soares 1932 'mesmo durante a noite' and 'o meu coração' (a gloss for the reins).",
+      "options": [
+        {"label": "até a noite", "forms": {"noctem": "até a noite"}, "note": "Ruling: 'usque ad' as 'até', the night named; the subject after the adverbs and before the verb, so the verse ends on the paroxytone 'repreenderam'.", "from": "DRB"},
+        {"label": "até de noite", "forms": {"noctem": "até de noite"}, "note": "'even at night' — Matos Soares 1932's sense; 'até' as 'even' rather than 'until'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "providebam",
+      "refs": ["15:8"],
+      "latin": "Providébam Dóminum in conspéctu meo semper",
+      "kind": "word",
+      "why": "pro-vidére: 'to see forwards or before one's self' and 'to foresee' (Lewis & Short); the Greek προωρώμην, 'I saw before me'. Imperfect. in conspéctu meo → 'à minha vista' (glossary's open proposal for in conspéctu, 5:9; 14:4a 'à vista dele'). 15:8–11 is quoted word for word in Acts 2:25–28 (Clementine fetched: consult/bolls-VULG-44-2.json), and Acts 2:31 goes on 'providens locutus est de resurrectione Christi' — Peter's 'foreseeing'. Only here in the psalter (grep). Douay-Rheims 'I set the Lord always in my sight'; Matos Soares 1932 'Eu contemplava sempre o Senhor diante de mim'.",
+      "options": [
+        {"label": "Eu antevia o Senhor sempre à minha vista", "forms": {"providebam": "Eu antevia o Senhor sempre à minha vista"}, "note": "Ruling: 'ante-ver' is pro-vidére part for part, and holds its 'seeing before' — in time, the sense Acts 2:31 draws out, and, with 'à minha vista', in place. The imperfect kept. To be tested: 'antevia' and 'vista' side by side.", "from": "draft"},
+        {"label": "Eu via sempre o Senhor à minha vista", "forms": {"providebam": "Eu via sempre o Senhor à minha vista"}, "note": "The plain verb; the 'pro-' lost, and 'via … vista' says the seeing twice.", "from": "draft"},
+        {"label": "Eu tinha sempre o Senhor diante de mim", "forms": {"providebam": "Eu tinha sempre o Senhor diante de mim"}, "note": "The sense of Douay-Rheims' 'set'; the seeing lost.", "from": "DRB"},
+        {"label": "Eu contemplava sempre o Senhor diante de mim", "forms": {"providebam": "Eu contemplava sempre o Senhor diante de mim"}, "note": "Matos Soares 1932: 'contemplar' is contemplári's.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "inferno",
+      "refs": ["15:10"],
+      "latin": "Quóniam non derelínques ánimam meam in inférno",
+      "kind": "glossary",
+      "why": "One of the two hard places of inférnus (D22; glossary row inférnus / ínferi, open, 'for Gustavo's ear'). inférnus is the underworld, the place of the dead (ᾅδης). Ps 6:6 and 9:18 have 'inferno'. The verse is quoted word for word in Acts 2:27, applied in 2:31 to Christ ('neque derelictus est in inferno, neque caro ejus vidit corruptionem') and in Acts 13:35 ('Non dabis sanctum tuum videre corruptionem') — Clementine text fetched to consult/bolls-VULG-44-2.json and -44-13.json. The Portuguese singular 'inferno' is first heard as the hell of the damned (Ps 6's blind reader). derelínquere → abandonar (glossary). Douay-Rheims 'hell'; Matos Soares 1932 here 'não deixarás a minha alma no inferno' (he paraphrased at 6:6, not here).",
+      "options": [
+        {"label": "no inferno", "forms": {"inferno": "no inferno"}, "note": "Ruling: the Latin's word, as 6:6 and 9:18 have it, as Douay-Rheims and — here — Matos Soares 1932 have it, and as the Vulgate of Acts 2:27, 31 has it in the same words. The hearing of the damned is the risk, and the blind reader is asked; whatever it costs, it is the Latin's own word, and the verse promises that the soul will not be left there.", "from": "MS1932"},
+        {"label": "nos infernos", "forms": {"inferno": "nos infernos"}, "note": "The old plural for the abode of the dead (the Creed's 'desceu aos infernos', from memory, unverified); marks the place of the dead apart from the hell of the damned, at the cost of a number the Latin does not have.", "from": "draft"},
+        {"label": "na mansão dos mortos", "forms": {"inferno": "na mansão dos mortos"}, "note": "The phrase of the Creed as now said in Brazil (from memory, unverified): the sense, but a paraphrase (rule 2).", "from": "draft"},
+        {"label": "na morada dos mortos", "forms": {"inferno": "na morada dos mortos"}, "note": "Matos Soares 1932's way at 6:6 ('habitação dos mortos'): a paraphrase.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "dabis",
+      "refs": ["15:10"],
+      "latin": "nec dabis sanctum tuum vidére corruptiónem",
+      "kind": "grammar",
+      "why": "'dare' + infinitive: 'nor will you give your holy one to see corruption' (οὐδὲ δώσεις τὸν ὅσιόν σου ἰδεῖν διαφθοράν) — the Greek and Latin idiom for 'allow'. sanctus (ὅσιος) → santo (glossary), lowercase. corrúptio: decay (διαφθορά); the other place is 29:10 dum descéndo in corruptiónem (grep). Acts 2:27, 13:35 quote the colon word for word (fetched). Douay-Rheims 'nor wilt thou give thy holy one to see corruption'; Matos Soares 1932 'nem permitirás que o teu santo experimente corrupção'.",
+      "options": [
+        {"label": "deixareis o vosso santo ver", "forms": {"dabis": "deixareis o vosso santo ver"}, "note": "Ruling: 'deixar' + infinitive is Portuguese's 'let … see', the plain equivalent of the idiom (grammar, D2); 'ver' and 'corrupção' kept. 'deixar' is free, because derelínquere in the first colon is 'abandonar'.", "from": "draft"},
+        {"label": "permitireis que o vosso santo veja", "forms": {"dabis": "permitireis que o vosso santo veja"}, "note": "Matos Soares 1932's verb (he has 'experimente' for 'ver'); a verb of permission named where the Latin has 'give'.", "from": "MS1932"},
+        {"label": "dareis ao vosso santo ver", "forms": {"dabis": "dareis ao vosso santo ver"}, "note": "The Latin's 'give' kept; Portuguese says 'dar a ver' only of showing something, so it is heard as a stiff calque.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "delectationes",
+      "refs": ["15:11"],
+      "latin": "delectatiónes in déxtera tua",
+      "kind": "word",
+      "why": "delectátio: 'delight, pleasure' (Lewis & Short); τερπνότητες; only here (grep). The glossary keeps 'deleitoso' for delectáre (row jucúndus); delíciæ (138:11 in delíciis meis) is another word. in déxtera tua (ἐν τῇ δεξιᾷ σου) → 'na vossa direita' — 'in', where 15:8 a dextris is 'à minha direita' (déxtera → a direita, glossary). The colon is verbless in the Latin, and stays so. Douay-Rheims 'at thy right hand are delights'; Matos Soares 1932 'na tua direita (encontram-se) delícias eternas'.",
+      "options": [
+        {"label": "deleites", "forms": {"delectationes": "deleites"}, "note": "Ruling: of delectáre's family (delectatio → deleite), keeping 'delícias' for delíciæ.", "from": "draft"},
+        {"label": "delícias", "forms": {"delectationes": "delícias"}, "note": "Matos Soares 1932: the lovelier word, but delíciæ's; a proparoxytone.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "finem",
+      "refs": ["15:11"],
+      "latin": "usque in finem",
+      "kind": "glossary",
+      "why": "The glossary row in finem (D27) says expressly: not usque in finem (15:11, 37:7). Here the Greek is εἰς τέλος. The clause is affirmative, so 'até o fim' carries none of the negation fault of 9:19. Douay-Rheims 'even to the end'; Matos Soares 1932 'eternas'.",
+      "options": [
+        {"label": "até o fim", "forms": {"finem": "até o fim"}, "note": "Ruling: 'usque in' → 'até', 'finem' → 'o fim': the Latin's words; the verse ends on the stressed 'fim'.", "from": "DRB"},
+        {"label": "para sempre", "forms": {"finem": "para sempre"}, "note": "The perpetuity the in finem row gives where it says 'for ever'; 'usque' is lost, and D27 keeps it apart.", "from": "glossary"}
+      ]
+    }
+  ],
+  "choices": {
+    "15:1": "The psalm begins at 15:1 (the titulus Tituli inscríptio, ipsi David is out, D7). DO's 15:1 carries 15:2 after '‡' (second mediant); the inline '(2)' is not reproduced. speráre in → 'esperar em' (glossary), order as 7:2 'em vós esperei'. Deus meus es tu → 'Vós sois o meu Deus', as 117:28a (the same words also 21:11, 30:15, 139:7, 142:9 — grep). bonum (goods) → 'bens'.",
+    "15:3": "The verse is kept as loose as the Latin: the dative 'Aos santos' is taken up by 'neles' at the end. The Latin's 'meas' (my wills) against the Greek's αὐτοῦ (his) is followed (rule 1).",
+    "15:4a": "multiplicári → multiplicar-se (glossary); infírmitas → enfermidade (glossary row infírmus, which names 102:3 infirmitátes → enfermidades). eórum → 'deles', as open as the Latin (whose infirmities is not said).",
+    "15:4b": "memor esse → lembrar-se de (glossary). nómina → nomes.",
+    "15:5": "tu es, qui restítues → 'sois vós que me restituireis': the Latin turns from third person (Dóminus) to second (tu) within the verse, and so does the Portuguese. hereditátem meam mihi → 'me … a minha herança' (both kept). restitúere → restituir (34:17 restítue ánimam meam is the other place, grep).",
+    "15:6": "funes → cordas (glossary). étenim → pois (glossary). mihi twice → 'me … para mim'.",
+    "15:7": "benedícere + accusative → 'Bendirei o Senhor' (glossary). tríbuere … intelléctum → 'que me deu entendimento' (the glossary row bona tríbuere proposed exactly this for 15:7; intelléctus → entendimento).",
+    "15:8": "a dextris est mihi → 'está à minha direita' (as 90:7 'à tua direita'; no subject supplied — the Lord of the first colon is heard). ne commóvear → 'para eu não ser abalado', the build of 118:80 'para eu não ser envergonhado' (commovéri with movéri → ser abalado: one Greek verb, σαλεύω, as 14:5b). Before any critic read it, draft 1 had 'porque ele está à minha direita, para que eu não seja abalado' (+9 syllables on the Latin); shortened by the infinitive and by leaving the subject in the verb, as the Latin does.",
+    "15:9": "propter hoc → 'Por isso'; lætári / exsultáre → alegrar-se / exultar (glossary); ínsuper et → 'e ainda' (glossary, which wrote this colon); requiéscere → repousar (14:1); spes → esperança. = Acts 2:26 (fetched).",
+    "15:10": "The first colon's 'abandonar' (derelínquere, glossary) leaves 'deixar' free for the second colon's idiom. sanctum tuum → 'o vosso santo', lowercase (divine pronouns and titles lowercase; ὅσιος).",
+    "15:11": "Notas fecísti → 'Fizestes-me conhecer' (the formula for 76:15 Notam fecísti, 102:7 Notas fecit — grep). via → caminho. adimplére → encher (16:14b adimplétus est is the other place); 'vós' named so that the colon does not open on a clitic. lætítia → alegria (as 4:7 'destes alegria'). vultus → rosto (glossary). The verse = Acts 2:28 as far as 'vias vitæ' (Acts then reads 'replebis me jucunditate cum facie tua' — another Latin, fetched)."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm15.txt, eleven prayed verses with DO's ids (15:1 — which carries 15:2 after '‡' — 3, 4a, 4b, 5, 6, 7, 8, 9, 10, 11). Collated against the Clementine Vulgate fetched from Bolls (consult/bolls-VULG-19-15.json): identical (hæreditas / hereditas is spelling). New Testament places fetched and read (Clementine, Bolls VULG): Acts 2:25–28 = 15:8–11a word for word (2:28b differs: 'replebis me jucunditate cum facie tua'), Acts 2:31 applies 15:10 to Christ, Acts 13:35 = 15:10b (consult/bolls-VULG-44-2.json, -44-13.json; ps013/show_vulg.py prints them)."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps015.md. No Diurnal for this psalm. Sense from the Vulgate family (Douay-Rheims; Matos Soares 1932 by its text layer, his glosses and footnotes ignored). DO's Portuguese not used (D12). Lewis & Short read for provideo, praeclarus, delectatio, conventiculum. Repeats found with ps005/grep_latin.py: Deus meus es tu (6 lines), conserváre (2), congreg- (17), sanguínibus (3), infírmitas (3), acceleráre (2), heréditas (24), præclárus (2), funes (3), intelléctum (8), a dextris (7), inférnus (21 lines), corrúptio (2), notas / notam fecísti (3), lætítia (14). Septuagintal readings kept against the Hebrew: 15:2 'não precisais dos meus bens', 15:3 the saints and 'fez maravilhosas as minhas vontades', 15:4a 'Multiplicaram-se as enfermidades deles', 15:4b 'ajuntamentos de sangue', 15:6 'excelentes', 15:7 'que me deu entendimento … os meus rins me repreenderam', 15:9 'a minha língua', 15:10 'corrupção', 15:11 'até o fim'. Decisions: 15. No vós imperative but 'Conservai-me' (safe)."}
+  ]
+}

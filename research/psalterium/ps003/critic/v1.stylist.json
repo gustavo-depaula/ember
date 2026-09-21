@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "6802e3a4534463a189a5257e6b1cfc8be1b941123a9daeaa21a85f4cbcbf1636",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T04:16:32+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"3:4\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"a minha glória, e o que exalta a minha cabeça\",\n          \"problem\": \"Depois de «a minha glória», «e o que» soa como uma emenda pouco natural. A vírgula também interrompe a enumeração sem ajudar a voz.\",\n          \"alternative\": \"a minha glória e quem exalta a minha cabeça\"\n        }\n      ]\n    },\n    {\n      \"id\": \"3:7\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"os milhares do povo que me cerca\",\n          \"problem\": \"«Os milhares do povo» soa como uma contagem incompleta e demora a formar a imagem de uma multidão cercando quem reza.\",\n          \"alternative\": \"o povo que me cerca aos milhares\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo tem sobriedade e palavras reconhecíveis na oração, com poucas construções que denunciam a tradução. As cadências atendem ao critério de acentuação, não há rimas salientes entre os membros, e os trechos mais longos continuam recitáveis numa respiração tranquila.\",\n  \"worstLine\": \"3:7\",\n  \"bestLine\": \"3:5\"\n}"
+}

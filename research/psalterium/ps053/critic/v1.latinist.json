@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "7519ecf580226e34d510588a82bc41bb746d458203c9331950422537e10c9550",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T02:07:39+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução é adequada ao latim em todos os versículos, preservando o conteúdo, as formas verbais e as imagens sem explicações acrescentadas. Os sinais de divisão coincidem integralmente: há um único mediant (*) em cada versículo, na posição correspondente, sem flexas (†) ou segundos mediantes (‡).\"}"
+}

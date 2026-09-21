@@ -1,0 +1,8 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "target": "prayed.vos.json",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T03:00:00+00:00",
+  "reply": "```json\n{\"verses\": [{\"id\": \"999:1\", \"fails\": [\"plain\"], \"remarks\": [{\"words\": \"Chamei ao Senhor\", \"problem\": \"Chamar is too weak for clamare.\", \"alternative\": \"Clamei ao Senhor, * e ele me escutou.\"}]}, {\"id\": \"999:2\", \"fails\": [\"native\"], \"remarks\": [{\"words\": \"Busquei o rosto dele\", \"problem\": \"The ear wants the object first here.\", \"alternative\": \"O rosto dele busquei † no dia da angústia: * escutai-me, Senhor.\"}]}], \"overall\": \"Sober and sayable.\", \"worstLine\": \"999:2\", \"bestLine\": \"999:3\"}\n```"
+}

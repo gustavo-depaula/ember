@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "cce80bc88f3b8acd4afce5485a876d5030bf3d881c463f2c71cae60d4227d3b6",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T08:49:17+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"118:140\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Ignítum elóquium tuum veheménter\",\n          \"portuguese\": \"O que dissestes está todo em brasa\",\n          \"problem\": \"«Todo» exprime totalidade, enquanto «vehementer» exprime intensidade. A imagem do fogo foi conservada, mas a intensidade ficou apenas implícita.\",\n          \"fix\": \"O que dissestes está intensamente em brasa\"\n        }\n      ]\n    },\n    {\n      \"id\": \"118:152\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Inítio cognóvi\",\n          \"portuguese\": \"Desde o início soube\",\n          \"problem\": \"«Initio» situa o conhecimento no início; «desde o início» acrescenta a perspectiva de continuidade a partir desse momento.\",\n          \"fix\": \"No início soube\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o sentido do latim, inclusive suas construções incomuns; os reparos identificados são menores. Nos 48 versículos, as marcas de divisão coincidem integralmente com as latinas em identidade e ordem.\"\n}"
+}
