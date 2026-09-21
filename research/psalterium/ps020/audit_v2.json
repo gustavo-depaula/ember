@@ -1,0 +1,75 @@
+[
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. Two majors (20:13, 20:14) and three minors (20:4; 20:5 and 20:7, the plural of séculos); the marks confirmed. «A tradução conserva em geral o sentido e as imagens do latim, mas explica a construção peculiar de 20:13 e altera o número e a função de “virtutes” em 20:14.» Passed the address of 20:9–13 (vós), 'no tempo do vosso rosto', 'desviaram males', 'nos vossos restos'.",
+    "outcomes": [
+      {"verse": "20:4", "remark": "minor: 'viestes ao encontro dele' loses the anticipation of prævenísti → 'vos antecipastes a ele'", "outcome": "taken", "decision": "praevenisti", "reason": "Taken in substance with prævenire's verb in this psalter (118:147–148 'adiantar-se'); his 'antecipar' is anticipáre's and is an option."},
+      {"verse": "20:5", "remark": "minor: 'pelos séculos dos séculos' pluralizes the singular → 'pelo século do século'", "outcome": "refused", "reason": "Settled in D27: the plural is how the phrase lives in Portuguese; number is grammar."},
+      {"verse": "20:7", "remark": "minor: the same plural", "outcome": "refused", "reason": "D27, as 20:5."},
+      {"verse": "20:13", "remark": "MAJOR: dorsum is a predicate of eos; 'dar as costas' explains it as an action → 'fareis deles um dorso'", "outcome": "taken", "decision": "dorsum", "reason": "Taken in substance: the predicate kept as a state with the copula 'ficar' ('os fareis ficar de costas'); 'costas' is the human back ('dorso' is an animal's or a book's). His line is an option."},
+      {"verse": "20:14", "remark": "MAJOR: virtútes is plural and the content sung by both verbs; 'ao vosso poder' makes it singular and the addressee → 'cantaremos e celebraremos em salmos as vossas forças'", "outcome": "taken", "decision": "virtutes", "reason": "Plural and accusative restored: 'e entoaremos em salmos os vossos poderes' (D25's words, a direct object); 'celebrar' and 'forças' refused (D25; força is fortitúdo's). His line is an option."}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Six verses, seven remarks; best 20:8, worst 20:12. «O salmo tem sobriedade e, em geral, cabe bem na voz; algumas inversões e combinações de palavras ainda fazem ouvir o latim … As imagens difíceis pedem uma recitação pausada, mas sua estranheza não é, por si, defeito da tradução.» Five taken (order, a particle, two word choices), two refused with options.",
+    "outcomes": [
+      {"verse": "20:5", "remark": "the verse ends on the proparoxytone 'séculos' → 'e lhe destes, para sempre e pelos séculos dos séculos, longos dias'", "outcome": "option", "decision": "longitudo_order", "reason": "The Latin ends on sǽculi too; the formula closes verses throughout the psalter; his line holds the object behind a nine-syllable parenthesis."},
+      {"verse": "20:6", "remark": "the fronted object delays the verb and sounds Latin → 'poreis sobre ele glória e grande esplendor'", "outcome": "taken", "decision": "order6", "reason": "Order only (D2)."},
+      {"verse": "20:7", "remark": "'séculos' at the mediant → 'Porque pelos séculos dos séculos o dareis como bênção'", "outcome": "taken", "decision": "dabis", "reason": "His order taken; the verb changed for the blind reader's sake ('fareis dele uma bênção')."},
+      {"verse": "20:9", "remark": "'Seja encontrada' sounds like a formal decree → 'Que a vossa mão seja encontrada por todos os vossos inimigos'", "outcome": "taken", "decision": "inveniatur", "reason": "The particle of wish and the order; passive and verb kept."},
+      {"verse": "20:12", "remark": "'desviar contra' joins movements that do not fit → 'voltaram males contra vós' (worst line)", "outcome": "taken", "decision": "declinaverunt", "reason": "The turning kept in the plainest verb; declináre with an object meets convértere nowhere here."},
+      {"verse": "20:12", "remark": "'pensaram conselhos' is not current and sounds like advice → 'pensaram em planos'", "outcome": "taken", "decision": "consilia", "reason": "His build taken with Ps 19:5's noun ('desígnios'), so that consílium / consília answer each other across the two psalms; 'planos' is option 2."},
+      {"verse": "20:14", "remark": "the same word at both cadences (poder … poder) → 'Senhor, no vosso poder, exaltai-vos'", "outcome": "option", "decision": "exaltare", "reason": "The echo is the Latin's own at the same two cadences (in virtúte tua … virtútes tuas; rule 5's exception), and 'Exaltai-vos' heads its formula everywhere (56:6, 56:12, 93:2, 107:6)."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1, Portuguese only. 29 items, 2 unknown words (exultará, júbilo). Two wrong first hearings, both mended: 20:7 'o dareis como bênção' heard as blessings given TO the king (the Greek's reading), 20:12 'pensaram conselhos' heard as advice. The address of 20:9–10 heard as the Lord throughout, with the doubt the Latin itself raises at 20:10. 'dar as costas' heard as flight; 20:13b not understood (nor is the Latin).",
+    "outcomes": [
+      {"verse": "20:2", "remark": "'no vosso poder': because of (heard first) / under the Lord's power", "outcome": "refused", "decision": "virtus", "reason": "in virtúte tua holds both."},
+      {"verse": "20:2", "remark": "'a vossa salvação': deliverance / eternal salvation (heard first)", "outcome": "refused", "reason": "D6; salutáre holds both."},
+      {"verse": "20:3", "remark": "'Destes-lhe o desejo do seu coração': granted what he wished (heard first) / put a wish in him", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "20:3", "remark": "'a vontade dos seus lábios': what he asked in words (heard first)", "outcome": "refused", "decision": "fraudasti", "reason": "Heard rightly."},
+      {"verse": "20:4", "remark": "'coroa de pedra preciosa': made of / set with (heard first)", "outcome": "refused", "reason": "de lápide pretióso holds both."},
+      {"verse": "20:5", "remark": "'Pediu-vos vida': the king (heard first) / someone unnamed", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "20:5", "remark": "'longos dias para sempre': a long earthly life / a life without end (heard first)", "outcome": "refused", "decision": "longitudo", "reason": "The Latin says both (longitúdinem diérum in sǽculum)."},
+      {"verse": "20:6", "remark": "'a sua glória': honour (heard first) / visible splendour", "outcome": "refused", "reason": "glória holds both."},
+      {"verse": "20:6", "remark": "'na vossa salvação': the deliverance / spiritual salvation (heard first)", "outcome": "refused", "reason": "D6."},
+      {"verse": "20:7", "remark": "'o dareis como bênção': make the king a blessing for others / give blessings to the king (heard first)", "outcome": "taken", "decision": "dabis", "reason": "Wrong first hearing — the Greek's dative, not the Latin's eum in benedictiónem → 'fareis dele uma bênção'."},
+      {"verse": "20:7", "remark": "'com o vosso rosto': the sight of it (heard first) / presence, favour", "outcome": "refused", "reason": "As 15:11; cum vultu tuo holds both."},
+      {"verse": "20:8", "remark": "'espera no Senhor': trusts (heard first) / waits", "outcome": "refused", "reason": "speráre in (glossary)."},
+      {"verse": "20:8", "remark": "'não será abalado': not lose confidence (heard first) / not be overthrown", "outcome": "refused", "reason": "commovéri holds both."},
+      {"verse": "20:9", "remark": "'vossa mão … vossos inimigos': the Lord's (heard first) / the king's", "outcome": "refused", "decision": "address", "reason": "The openness the address decision keeps; heard as the ruling meant."},
+      {"verse": "20:9", "remark": "'Seja encontrada … por todos': the enemies find the hand / the hand reaches them (heard first)", "outcome": "refused", "decision": "inveniatur", "reason": "The sense of the verse; the passive kept."},
+      {"verse": "20:9", "remark": "'a vossa direita': the right hand (heard first) / the right side", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "20:10", "remark": "'Vós os fareis … o Senhor': vós is the Lord, then named in the third person (heard first, with doubt) / vós is the king", "outcome": "refused", "decision": "address", "reason": "The Latin's own doubt at this verse, kept open under vós; the tu reading is one touch away."},
+      {"verse": "20:10", "remark": "'como um forno de fogo': burn like an oven / suffer inside one (heard first)", "outcome": "refused", "reason": "ut clíbanum ignis holds both."},
+      {"verse": "20:10", "remark": "'no tempo do vosso rosto': when you appear (heard first, unsure) / during your presence", "outcome": "refused", "reason": "The Latin's image, not explained; heard as meant."},
+      {"verse": "20:11", "remark": "'o seu fruto': offspring / crops (heard first)", "outcome": "refused", "decision": "semen", "reason": "The Latin's image; the second colon turns it to offspring, as the blind reader noted."},
+      {"verse": "20:11", "remark": "'seu fruto … sua descendência': the enemies' (heard first) / the Lord's", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "20:11", "remark": "'os filhos dos homens': mankind (heard first)", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "20:12", "remark": "'desviaram males contra vós': directed evils against you (heard first, by context) / warded them off", "outcome": "taken", "decision": "declinaverunt", "reason": "With the stylist → 'voltaram males contra vós', which has only the first hearing."},
+      {"verse": "20:12", "remark": "'pensaram conselhos': devised plans / thought up advice (heard first)", "outcome": "taken", "decision": "consilia", "reason": "Wrong first hearing → 'pensaram em desígnios' (Ps 19:5's noun)."},
+      {"verse": "20:12", "remark": "'não puderam firmar': could not carry out (heard first) / could not establish", "outcome": "refused", "reason": "stabilíre holds both."},
+      {"verse": "20:13", "remark": "'os fareis dar as costas': flee (heard first) / turn away, ignore", "outcome": "refused", "decision": "dorsum", "reason": "Heard rightly; the wording changed for the Latinist's major ('ficar de costas'), which keeps the flight."},
+      {"verse": "20:13", "remark": "'nos vossos restos': what is left of something yours (heard first, unidentified) / remains of a body", "outcome": "refused", "decision": "reliquiae", "reason": "The Latin is as obscure; Matos Soares' arrows are a gloss (option 2 is his sense without them)."},
+      {"verse": "20:13", "remark": "'preparareis o rosto deles': some preparation of their faces, unclear (heard first) / set their faces in a direction", "outcome": "refused", "decision": "reliquiae", "reason": "The Latin's words; not explained."},
+      {"verse": "20:14", "remark": "'Exaltai-vos': show your greatness (heard first) / praise yourself / be agitated", "outcome": "refused", "decision": "exaltare", "reason": "Heard rightly (glossary Exaltáre → exaltai-vos)."},
+      {"verse": "20:2", "remark": "unknown word: exultará", "outcome": "refused", "reason": "exsultáre → exultar (glossary, working); listed unknown before (Ps 12), kept."},
+      {"verse": "20:7", "remark": "unknown word: júbilo", "outcome": "refused", "decision": "gaudio", "reason": "Kept for gáudium: 'alegria' is lætítia's (50:10 has both) and 'gozo' is heard sexually in Brazil; see the open glossary row gáudium."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "v2. Nine verses changed against draft 1: 20:4 'vos adiantastes a ele' (Latinist, minor); 20:6 direct order (stylist); 20:7 'Porque pelos séculos dos séculos fareis dele uma bênção' (the blind reader heard the Greek's dative; the stylist's order); 20:9 'Que a vossa mão seja encontrada' (stylist); 20:12 'voltaram males … pensaram em desígnios' (the stylist's worst line, the blind reader's 'advice'); 20:13 'os fareis ficar de costas' (Latinist, MAJOR); 20:14 'e entoaremos em salmos os vossos poderes' (Latinist, MAJOR). New decisions for refused stylist lines kept selectable: longitudo_order (20:5), order6 (20:6), consilia (20:12), exaltare (20:14). Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read). Script: ps020/revise_v2.py; ps020/validate.py (a copy of ps017's slot checker taking a folder) passes."
+  },
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. Soft flags accepted: 20:3 −3 / −3; 20:4 first colon −3; 20:5 −5; 20:9 first colon +3 ('Que' and the passive); 20:11 +3; 20:12 second colon −5; 20:14 second colon +6 ('entoar em salmos', D25's two words, and the plural). No rhyme flag (the Latin's echo poder … poderes is no longer an identical rhyme)."
+  }
+]

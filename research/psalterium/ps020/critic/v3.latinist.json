@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "ce63c01ad318d4cd27a1aea966cb570a703828a3bbc8a6e4a8d18c093d1d45e0",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T15:06:48+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"20:5\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula conserva o sentido de perpetuidade, mas pluraliza os dois substantivos que o latim mantém no singular.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    },\n    {\n      \"id\": \"20:7\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula conserva o sentido de perpetuidade, mas altera o número dos dois substantivos latinos.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva o conteúdo latino, inclusive suas imagens e construções incomuns; as ressalvas dizem respeito ao número na fórmula de perpetuidade. Todos os versículos apresentam os mesmos sinais salmódicos na mesma ordem que o latim: um único *, sem † nem ‡.\"\n}"
+}

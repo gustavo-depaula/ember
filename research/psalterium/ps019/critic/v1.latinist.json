@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "e8775f2d946889d8604460e1e7e60802bb35d2e9e37e152df3a2ba0ecd13f31c",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T14:52:00+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"19:4\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"omnis sacrifícii tui\",\n          \"portuguese\": \"todos os teus sacrifícios\",\n          \"problem\": \"O plural é defensável como interpretação distributiva, mas altera o singular do latim.\",\n          \"fix\": \"todo o teu sacrifício\"\n        },\n        {\n          \"latin\": \"holocáustum tuum pingue fiat\",\n          \"portuguese\": \"o teu holocausto seja gordo\",\n          \"problem\": \"Fiat exprime tornar-se ou ser feito; «seja» apresenta apenas um estado.\",\n          \"fix\": \"o teu holocausto se torne gordo\"\n        }\n      ]\n    },\n    {\n      \"id\": \"19:5\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"omne consílium tuum\",\n          \"portuguese\": \"todos os teus conselhos\",\n          \"problem\": \"Consilium designa aqui o plano ou propósito, no singular. «Todos os teus conselhos» altera o número e sugere recomendações.\",\n          \"fix\": \"todo o teu desígnio\"\n        }\n      ]\n    },\n    {\n      \"id\": \"19:7a\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"nunc cognóvi\",\n          \"portuguese\": \"agora sei\",\n          \"problem\": \"O presente exprime defensavelmente o resultado de cognovi, mas não conserva o perfeito que enuncia a aquisição desse conhecimento.\",\n          \"fix\": \"agora reconheci\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo do latim, inclusive suas imagens e construções incomuns. As ressalvas dizem respeito ao número, ao sentido de consilium e à expressão verbal. Todos os versículos conservam as mesmas marcas de divisão, na mesma ordem.\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "bdce4f847c96bd1d937409de8a13f13722ec36186b5be800b3088bd8580f4c6e",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T15:06:02+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução conserva o conteúdo e os valores gramaticais do latim em todos os versículos, inclusive suas imagens e construções incomuns. Os sinais de divisão coincidem integralmente: cada versículo contém um único asterisco, na divisão correspondente à do latim.\"}"
+}

@@ -294,6 +294,18 @@ Held **open**, each with its row in the glossary, because more places must test 
 
 **Ruling.** *Esteio* (a prop, the thing that holds up) where God is the *firmaméntum* of a person: 17:2, 24:14, 70:3. *Firmamento* where it is the sky: 18:2. 72:4 (*firmaméntum in plaga eórum*, said of the wicked) and 150:1 (*in firmaménto virtútis ejus*) decide in their own psalm, with this ruling in view. The Latin word is one, and the Greek (στερέωμα) is one; the split is made because Portuguese *firmamento* has become only the sky, and a wrong first hearing is a fault (D2).
 
+## D32 — *semen* (offspring) → *descendência*; *semente* where the verse sets it beside the plant — for review
+
+**Question.** Ps 17:51 *sémini ejus* → *descendência*; Ps 20:11 *Fructum eórum de terra perdes: et semen eórum a fíliis hóminum* → *semente*, taken from the Latinist (major) because the line pairs it with *fruto*. One Latin word (σπέρμα), 17 lines.
+
+**Ruling.** *Descendência* is the rendering; *semente* where the verse itself makes the image of a plant (a fruit, a harvest, a sowing beside it), as at 20:11 — there *descendência* would drop the image the Latin builds, which D2 keeps. Each later psalm checks its verse for that image. Cost: one Latin word in two Portuguese words; a reader crossing columns sees it. *Semente* everywhere was weighed and refused: *a semente de Jacó* (21:24) is heard first as seed, not people.
+
+## D33 — *consílium* split: *conselho* for counsel and council, *desígnio* for a plan — for review
+
+**Question.** The blind readers heard *conselhos* at 19:5 (*omne consílium tuum confírmet*) and 20:12 (*cogitavérunt consília*) as advice given to others; the sense is a person's purpose.
+
+**Ruling.** *Desígnio* where *consílium* is what someone intends (19:5, 20:12; 32:10 *consília géntium … consília príncipum* will test it); *conselho* where it is advice (1:1, 12:2) or a deliberating body (110:1 *in consílio justórum et congregatióne*; 1:5 is *concílium*, another word). The Latin word is one (βουλή); Portuguese *conselho* no longer carries "plan", and a wrong first hearing is a fault (D2). Where a verse can mean both, *conselho*, which keeps the Latin's openness.
+
 ---
 
 ## How agents decide

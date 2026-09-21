@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "badb3555f2c4494680d46181084435b78f76566c145a4aa96b2c7cbbeecbfd34",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T14:58:29+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"16:11\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"óculos suos statuérunt declináre in terram\",\n          \"portuguese\": \"fixaram os seus olhos para se inclinarem à terra\",\n          \"problem\": \"A construção reflexiva pode indicar que os inimigos se inclinam, enquanto o latim relaciona a inclinação aos olhos.\",\n          \"fix\": \"determinaram inclinar os seus olhos para a terra\"\n        }\n      ]\n    },\n    {\n      \"id\": \"16:14b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"de abscónditis tuis adimplétus est venter eórum\",\n          \"portuguese\": \"o ventre deles se encheu das vossas coisas escondidas\",\n          \"problem\": \"«Adimpletus est» é perfeito passivo. «Se encheu» apresenta o enchimento como mudança de estado, sem conservar explicitamente a voz passiva exigida.\",\n          \"fix\": \"o ventre deles foi enchido das vossas coisas escondidas\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, nos demais versos, o conteúdo do latim e suas imagens incomuns. Todos os sinais de divisão são os mesmos e aparecem na mesma ordem que no texto latino.\"\n}"
+}

@@ -1,0 +1,578 @@
+{
+  "psalm": 20,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "20:2": "Senhor, no vosso {virtus2} se alegrará o rei: * e {super} a vossa salvação exultará {vehementer}.",
+    "20:3": "Destes-lhe o desejo do seu coração: * e não o {fraudasti} da vontade dos seus lábios.",
+    "20:4": "Porque {praevenisti} com bênçãos de doçura: * pusestes na sua cabeça uma coroa de pedra preciosa.",
+    "20:5": "Pediu-vos vida: * e lhe destes {longitudo} para sempre, e pelos séculos dos séculos.",
+    "20:6": "Grande é a sua glória na vossa salvação: * glória e grande {decor} poreis sobre ele.",
+    "20:7": "Porque {dabis} pelos séculos dos séculos: * o alegrareis {gaudio} com o vosso rosto.",
+    "20:8": "Porque o rei espera no Senhor: * e na misericórdia do Altíssimo não será abalado.",
+    "20:9": "{a9a}: * {a9b}.",
+    "20:10": "{a10}: * o Senhor na sua ira os perturbará, e o fogo os devorará.",
+    "20:11": "{a11} da terra o seu fruto: * e {semen} dentre os filhos dos homens.",
+    "20:12": "Porque {declinaverunt} {a12}: * pensaram conselhos que não puderam firmar.",
+    "20:13": "Porque os {a13a} {dorsum}: * {a13b} o rosto deles.",
+    "20:14": "Exaltai-vos, Senhor, no vosso {virtus14}: * cantaremos e entoaremos salmos {virtutes}."
+  },
+  "decisions": [
+    {
+      "id": "address",
+      "refs": [
+        "20:9",
+        "20:10",
+        "20:11",
+        "20:12",
+        "20:13"
+      ],
+      "latin": "Inveniátur manus tua ómnibus inimícis tuis … in témpore vultus tui: Dóminus in ira sua … perdes … in te … pones … in relíquiis tuis præparábis",
+      "kind": "ambiguity",
+      "why": "Who is 'tu' in 20:9–13? 20:2–7 speak to the Lord about the king ('eum'); 20:8 speaks of both in the third person; 20:14 speaks to the Lord again ('Exaltáre, Dómine, in virtúte tua', the words of 20:2). Between them, 20:10 names 'Dóminus in ira sua' in the third person right after 'vultus tui' — which reads most easily as said to the king, and that is how many read the Hebrew; but the psalter shifts person inside a verse without warning (15:5 'Dóminus … tu es qui restítues'), and 20:12 'declinavérunt in te mala' and 20:14's return to 'Dómine' read as said to God. The Latin's 'tu' covers both; the Portuguese cannot, because God is vós and a single human addressee is tu (decided). Ruling: vós. (1) It keeps the openness: 'vós' can be God, and it can still be the king — a king has been addressed as vós in Portuguese; 'tu' would exclude God and so resolve what the Latin leaves open. (2) The psalm then speaks to one addressee from 20:9 to 20:14 without a break, and 20:14's 'Exaltai-vos' closes what 20:9 opened. (3) Where the praying voice may be turning to Christ the King, D17 notes that D1 leans to vós. Cost: the reading 'these verses are the people's wish for the king' is not signalled; the 'tu' forms are all written and one touch away. Douay-Rheims 'thy' throughout (no help); Matos Soares 1932 'tu' for God and man alike (no help).",
+      "options": [
+        {
+          "label": "vós (God, or the king left open)",
+          "forms": {
+            "a9a": "{inveniatur9a} a vossa mão por todos os vossos inimigos",
+            "a9b": "a vossa direita {inveniat9b} todos os que vos odeiam",
+            "a10": "Vós os fareis como um forno de fogo no tempo do vosso rosto",
+            "a11": "Fareis perecer",
+            "a12": "contra vós",
+            "a13a": "fareis",
+            "a13b": "{reliquiis} preparareis"
+          },
+          "note": "Ruling: one addressee from 20:9 to 20:14, as the Latin's 'tu' allows; God first heard, the king not excluded.",
+          "from": "draft"
+        },
+        {
+          "label": "tu (the king)",
+          "forms": {
+            "a9a": "{inveniatur9a} a tua mão por todos os teus inimigos",
+            "a9b": "a tua direita {inveniat9b} todos os que te odeiam",
+            "a10": "Tu os farás como um forno de fogo no tempo do teu rosto",
+            "a11": "Farás perecer",
+            "a12": "contra ti",
+            "a13a": "farás",
+            "a13b": "{reliquiistu} prepararás"
+          },
+          "note": "The reading that makes 20:10's 'Dóminus' a third party: the people speak to the king, as in Ps 19. Decides what the Latin leaves open.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "virtus",
+      "refs": [
+        "20:2",
+        "20:14"
+      ],
+      "latin": "Dómine, in virtúte tua … Exaltáre, Dómine, in virtúte tua",
+      "kind": "glossary",
+      "why": "virtus (δύναμις) → poder (glossary, open; 'in virtúte tua' 53:3; 17:33, 40). The psalm opens and closes on the same words 'Dómine, in virtúte tua', and 20:14 adds 'virtútes tuas' (see decision virtutes): one word three times, as the Latin. Douay-Rheims 'strength'; Matos Soares 1932 'fortaleza … poder' (varies).",
+      "options": [
+        {
+          "label": "poder",
+          "forms": {
+            "virtus2": "poder",
+            "virtus14": "poder"
+          },
+          "note": "Ruling: the glossary's word, the inclusio kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "virtus2": "força",
+            "virtus14": "força"
+          },
+          "note": "Douay-Rheims' 'strength'; 'força' is fortitúdo's (glossary).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "20:2"
+      ],
+      "latin": "et super salutáre tuum exsultábit",
+      "kind": "word",
+      "why": "exsultáre super + accusative: 'exult at / over your salvation' (ἐπὶ τῷ σωτηρίῳ σου). The psalm also has 'in salutári tuo' (20:6 → 'na vossa salvação'), so the two prepositions are kept apart. salutáre → salvação (D6); exsultáre → exultar (glossary). Douay-Rheims 'in thy salvation'; Matos Soares 1932 'pela salvação que lhe enviaste' (adds).",
+      "options": [
+        {
+          "label": "com",
+          "forms": {
+            "super": "com"
+          },
+          "note": "Ruling: 'exultar com' — what one rejoices at; apart from 20:6 'na'.",
+          "from": "draft"
+        },
+        {
+          "label": "pela",
+          "forms": {
+            "super": "pela"
+          },
+          "note": "Causal, Matos Soares 1932's preposition (without his addition).",
+          "from": "MS1932"
+        },
+        {
+          "label": "na",
+          "forms": {
+            "super": "na"
+          },
+          "note": "Douay-Rheims' 'in'; merges super with 20:6's in.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "vehementer",
+      "refs": [
+        "20:2"
+      ],
+      "latin": "exsultábit veheménter",
+      "kind": "glossary",
+      "why": "valde / veheménter → muito (glossary, open: merged on the Greek σφόδρα, which is the Greek here too; the row names 20:2 as a place that 'may want grandemente locally'). Douay-Rheims 'exceedingly'; Matos Soares 1932 'em extremo'.",
+      "options": [
+        {
+          "label": "muito",
+          "forms": {
+            "vehementer": "muito"
+          },
+          "note": "Ruling: the glossary's word; the verse ends on a paroxytone.",
+          "from": "glossary"
+        },
+        {
+          "label": "grandemente",
+          "forms": {
+            "vehementer": "grandemente"
+          },
+          "note": "The row's local alternative; heavier, and the ear found it heavy in Ps 6.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fraudasti",
+      "refs": [
+        "20:3"
+      ],
+      "latin": "et voluntáte labiórum ejus non fraudásti eum",
+      "kind": "word",
+      "why": "fraudáre + ablative: 'to cheat, defraud (someone) of' (the Greek οὐκ ἐστέρησας, 'you did not deprive him'). The other place, 77:29 'non sunt fraudáti a desidério suo' (grep), is the same sense, and 'privar' serves it ('não foram privados do seu desejo'). volúntas → vontade (glossary). Douay-Rheims 'hast not withholden from him the will of his lips'; Matos Soares 1932 'não o defraudaste no pedido que fez com os seus lábios' (explains the will as a request).",
+      "options": [
+        {
+          "label": "privastes",
+          "forms": {
+            "fraudasti": "privastes"
+          },
+          "note": "Ruling: deprive of — the Latin's and the Greek's sense in a plain verb.",
+          "from": "draft"
+        },
+        {
+          "label": "defraudastes",
+          "forms": {
+            "fraudasti": "defraudastes"
+          },
+          "note": "Matos Soares 1932's cognate; in Brazil a financial fraud.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "praevenisti",
+      "refs": [
+        "20:4"
+      ],
+      "latin": "Quóniam prævenísti eum in benedictiónibus dulcédinis",
+      "kind": "glossary",
+      "why": "prævenire with a person as object and a friendly sense — the case the glossary left open (row prævenire: 'the transitive use with a person … 20:4 prævenísti eum in benedictiónibus … will want vir ao encontro de or the like'; 17:19's hostile 'surpreender' does not serve). The Greek προέφθασας, 'you came first to him'. The cognate 'prevenir' is 'warn / prevent' in Brazil. dulcédo → doçura (DRB 'blessings of sweetness'); 30:20 multitúdo dulcédinis tuæ, 67:11 in dulcédine tua (grep).",
+      "options": [
+        {
+          "label": "viestes ao encontro dele",
+          "forms": {
+            "praevenisti": "viestes ao encontro dele"
+          },
+          "note": "Ruling: the glossary's candidate; says the going-out to meet, the 'before' only by implication.",
+          "from": "glossary"
+        },
+        {
+          "label": "vos adiantastes a ele",
+          "forms": {
+            "praevenisti": "vos adiantastes a ele"
+          },
+          "note": "The glossary's verb for the intransitive (118:147–148); with a person it says 'got ahead of him', a race.",
+          "from": "glossary"
+        },
+        {
+          "label": "o precedestes",
+          "forms": {
+            "praevenisti": "o precedestes"
+          },
+          "note": "'went before him' — the prefix kept; 'preceder' is heard as order in a list.",
+          "from": "draft"
+        },
+        {
+          "label": "o prevenistes",
+          "forms": {
+            "praevenisti": "o prevenistes"
+          },
+          "note": "Matos Soares 1932's cognate: 'you warned him' in Brazil — refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "longitudo",
+      "refs": [
+        "20:5"
+      ],
+      "latin": "longitúdinem diérum",
+      "kind": "glossary",
+      "why": "longitúdo diérum: 4 lines (grep: 20:5, 22:6, 90:16, 92:5). Ps 90:16 already has 'Eu o encherei de longos dias' — the noun made an adjective (grammar); followed. in sǽculum, et in sǽculum sǽculi → 'para sempre, e pelos séculos dos séculos' (glossary formula, as 9:6). Douay-Rheims 'length of days'; Matos Soares 1932 'largos dias'.",
+      "options": [
+        {
+          "label": "longos dias",
+          "forms": {
+            "longitudo": "longos dias"
+          },
+          "note": "Ruling: as Ps 90:16.",
+          "from": "glossary"
+        },
+        {
+          "label": "longura de dias",
+          "forms": {
+            "longitudo": "longura de dias"
+          },
+          "note": "The noun kept (option in Ps 90:16); 'longura' is little said.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "decor",
+      "refs": [
+        "20:6"
+      ],
+      "latin": "glóriam et magnum decórem impónes super eum",
+      "kind": "word",
+      "why": "decor: 'comeliness, grace, beauty, splendour' (Lewis & Short); the Greek here is μεγαλοπρέπειαν (magnificéntia's Greek elsewhere), but the Latin has decor and is followed. 8 lines (grep): 25:8 decórem domus tuæ, 29:8, 44:12, 49:1 spécies decóris ejus, 92:1a decórem indútus est, 103:1 Confessiónem et decórem induísti (twin of 95:6 conféssio et pulchritúdo — so decor must stay apart from pulchritúdo, 'beleza'), 146:1 decóra laudátio. 'decoro' is propriety in Portuguese. Douay-Rheims 'great beauty'; Matos Soares 1932 'grande esplendor'.",
+      "options": [
+        {
+          "label": "esplendor",
+          "forms": {
+            "decor": "esplendor"
+          },
+          "note": "Ruling: Matos Soares 1932's word; serves the robe of 92:1a and 103:1 ('revestiu-se de esplendor'), and leaves 'beleza' to pulchritúdo.",
+          "from": "MS1932"
+        },
+        {
+          "label": "beleza",
+          "forms": {
+            "decor": "beleza"
+          },
+          "note": "Douay-Rheims' 'beauty'; the plainer word, but pulchritúdo's (95:6).",
+          "from": "DRB"
+        },
+        {
+          "label": "formosura",
+          "forms": {
+            "decor": "formosura"
+          },
+          "note": "Beauty of form; spécies (49:1 spécies decóris) will want it.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dabis",
+      "refs": [
+        "20:7"
+      ],
+      "latin": "Quóniam dabis eum in benedictiónem in sǽculum sǽculi",
+      "kind": "word",
+      "why": "'You will give him for a blessing' — the Latin makes the king a blessing (eum in benedictiónem), where the Greek gives blessing to him (δώσεις αὐτῷ εὐλογίαν); the Latin is followed. in sǽculum sǽculi → pelos séculos dos séculos (D27). Douay-Rheims 'thou shalt give him to be a blessing for ever and ever'; Matos Soares 1932 'farás dele uma fonte de bênçãos perpétuas' (adds 'fonte').",
+      "options": [
+        {
+          "label": "o dareis como bênção",
+          "forms": {
+            "dabis": "o dareis como bênção"
+          },
+          "note": "Ruling: dare kept, 'in' + accusative as 'como' (the purpose-predicate).",
+          "from": "draft"
+        },
+        {
+          "label": "fareis dele uma bênção",
+          "forms": {
+            "dabis": "fareis dele uma bênção"
+          },
+          "note": "The natural build for 'make him a blessing'; the verb changes (fácere for dare).",
+          "from": "draft"
+        },
+        {
+          "label": "lhe dareis a bênção",
+          "forms": {
+            "dabis": "lhe dareis a bênção"
+          },
+          "note": "The Greek's dative — refused (rule 1).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gaudio",
+      "refs": [
+        "20:7"
+      ],
+      "latin": "lætificábis eum in gáudio cum vultu tuo",
+      "kind": "word",
+      "why": "lætificáre → alegrar (the verb of lætítia → alegria, glossary). gáudium is another word (χαρά; lætítia is εὐφροσύνη), and 50:10 'dabis gáudium et lætítiam' sets the two side by side, so it cannot be 'alegria' (and 'alegrareis … na alegria' would add an echo the Latin does not have). 4 lines (grep: 20:7, 29:12, 50:10, 125:2a). cum vultu tuo → 'com o vosso rosto', the words of 15:11 (adimplébis me lætítia cum vultu tuo). Douay-Rheims 'make him joyful in gladness with thy countenance'; Matos Soares 1932 'enchê-lo-ás de alegria, mostrando-lhe o teu rosto' (explains).",
+      "options": [
+        {
+          "label": "de júbilo",
+          "forms": {
+            "gaudio": "de júbilo"
+          },
+          "note": "Ruling: a second joy-word, current and prayable. Cost: júbilo is the noun of jubiláre (13 lines, 46:6 'Ascéndit Deus in júbilo') — see the open glossary row gáudium.",
+          "from": "draft"
+        },
+        {
+          "label": "com gozo",
+          "forms": {
+            "gaudio": "com gozo"
+          },
+          "note": "The older pair 'gozo e alegria'; in Brazil 'gozo' is also sexual pleasure and mockery.",
+          "from": "draft"
+        },
+        {
+          "label": "na alegria",
+          "forms": {
+            "gaudio": "na alegria"
+          },
+          "note": "Douay-Rheims' plain noun; lætítia's word, and an echo of 'alegrareis'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "inveniatur",
+      "refs": [
+        "20:9"
+      ],
+      "latin": "Inveniátur manus tua … déxtera tua invéniat",
+      "kind": "word",
+      "why": "One verb twice, passive then active (εὑρεθείη … εὕροι): kept as one verb. ómnibus inimícis tuis is a dative with the passive, taken as the agent (Douay-Rheims 'by all thy enemies'). odísse → odiar (glossary).",
+      "options": [
+        {
+          "label": "encontrar",
+          "forms": {
+            "inveniatur9a": "Seja encontrada",
+            "inveniat9b": "encontre"
+          },
+          "note": "Ruling: the plain verb for finding someone out.",
+          "from": "draft"
+        },
+        {
+          "label": "achar",
+          "forms": {
+            "inveniatur9a": "Seja achada",
+            "inveniat9b": "ache"
+          },
+          "note": "Shorter (the colon is long); 'achar' is also 'think'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "semen",
+      "refs": [
+        "20:11"
+      ],
+      "latin": "Fructum eórum … et semen eórum a fíliis hóminum",
+      "kind": "glossary",
+      "why": "semen (offspring) → descendência (glossary, open, 'for Gustavo's ear'; 17:51). Here the Latin pairs fruit and seed — the strongest case in the psalter so far for keeping 'semente', since 'fruto' is kept and the two images answer each other. pérdere → fazer perecer (D24; the row names 20:11). a fíliis hóminum → 'dentre os filhos dos homens'. Douay-Rheims 'their seed'; Matos Soares 1932 'a sua descendência'.",
+      "options": [
+        {
+          "label": "a sua descendência",
+          "forms": {
+            "semen": "a sua descendência"
+          },
+          "note": "Ruling: the glossary row, held until it is ruled.",
+          "from": "glossary"
+        },
+        {
+          "label": "a sua semente",
+          "forms": {
+            "semen": "a sua semente"
+          },
+          "note": "Douay-Rheims' 'seed': the image, answering 'o seu fruto' — the row's option, strongest here.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "declinaverunt",
+      "refs": [
+        "20:12"
+      ],
+      "latin": "Quóniam declinavérunt in te mala",
+      "kind": "word",
+      "why": "declináre with an object: 'they turned (bent) evils against you' (ἔκλιναν εἰς σὲ κακά). Absolute declináre is 'desviar-se' (13:3a 'Todos se desviaram'); 'desviar' with an object is the same verb transitive. 'voltar' is convértere's, 'inclinar' inclináre's (inclína aurem). Douay-Rheims 'they have intended evils against thee' (interprets); Matos Soares 1932 'urdiram contra ti males' (interprets).",
+      "options": [
+        {
+          "label": "desviaram males",
+          "forms": {
+            "declinaverunt": "desviaram males"
+          },
+          "note": "Ruling: declináre's verb (13:3a), transitive; the evils turned from their course onto the addressee.",
+          "from": "draft"
+        },
+        {
+          "label": "voltaram males",
+          "forms": {
+            "declinaverunt": "voltaram males"
+          },
+          "note": "The plainest 'turned against'; 'voltar' is convértere's.",
+          "from": "draft"
+        },
+        {
+          "label": "tramaram males",
+          "forms": {
+            "declinaverunt": "tramaram males"
+          },
+          "note": "Douay-Rheims / Matos Soares 1932's sense ('intended', 'urdiram'): the verb explained.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "dorsum",
+      "refs": [
+        "20:13"
+      ],
+      "latin": "Quóniam pones eos dorsum",
+      "kind": "glossary",
+      "why": "'You will make them a back' — a double accusative, the Greek θήσεις αὐτοὺς νῶτον: they will turn their backs, in flight. The glossary row dare dorsum (Ps 17:41 'E me destes as costas dos meus inimigos') says 20:13 will want the same image; pónere + predicate → the Portuguese build (glossary: fazer … como, 17:35). 'pôr de costas' would lay them on their backs. Douay-Rheims 'thou shalt make them turn their back'; Matos Soares 1932 'os porás em fuga' (explains).",
+      "options": [
+        {
+          "label": "dar as costas",
+          "forms": {
+            "dorsum": "dar as costas"
+          },
+          "note": "Ruling: 'fazer dar as costas' — the back kept, and the idiom of 17:41.",
+          "from": "glossary"
+        },
+        {
+          "label": "voltar as costas",
+          "forms": {
+            "dorsum": "voltar as costas"
+          },
+          "note": "Douay-Rheims' 'turn their back'; 'voltar' is convértere's.",
+          "from": "DRB"
+        },
+        {
+          "label": "pôr em fuga",
+          "forms": {
+            "dorsum": "pôr em fuga"
+          },
+          "note": "Matos Soares 1932: the image explained — refused (rule 2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "reliquiae",
+      "refs": [
+        "20:13"
+      ],
+      "latin": "in relíquiis tuis præparábis vultum eórum",
+      "kind": "ambiguity",
+      "why": "An obscure colon, the Greek word for word (ἐν τοῖς περιλοίποις σου ἑτοιμάσεις τὸ πρόσωπον αὐτῶν): 'in your remnants you will prepare their face'. Matos Soares 1932 supplies arrows in a gloss ('prepararás o seu rosto para (receber as setas) que te restam'); Douay-Rheims 'in thy remnants'. Kept as open as the Latin. relíquiæ (36:37–38 'relíquiæ hómini pacífico … relíquiæ impiórum') is what is left over, a remnant.",
+      "options": [
+        {
+          "label": "nos vossos restos",
+          "forms": {
+            "reliquiis": "nos vossos restos",
+            "reliquiistu": "nos teus restos"
+          },
+          "note": "Ruling: the Latin's words, nothing supplied.",
+          "from": "DRB"
+        },
+        {
+          "label": "com o que vos resta",
+          "forms": {
+            "reliquiis": "com o que vos resta",
+            "reliquiistu": "com o que te resta"
+          },
+          "note": "The ablative as instrument, a clause for the noun (Matos Soares 1932's sense without the arrows).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "virtutes",
+      "refs": [
+        "20:14"
+      ],
+      "latin": "cantábimus et psallémus virtútes tuas",
+      "kind": "glossary",
+      "why": "psállere → entoar salmos (D25; the glossary names 20:14 as a place where psállere stands beside cantáre, so it cannot be 'cantar'). virtútes tuas, plural (Greek τὰς δυναστείας σου, 'your mighty acts' — the Greek of 19:7b potentátibus): the object of both verbs. 'entoar salmos' takes a dative (7:18 'ao nome'), so the object is said 'ao vosso poder'. The plural 'poderes' is heard as a set of faculties or super-powers; Douay-Rheims makes it singular ('thy power'), and the singular closes the psalm on the word of 20:2 and 20:14a.",
+      "options": [
+        {
+          "label": "ao vosso poder",
+          "forms": {
+            "virtutes": "ao vosso poder"
+          },
+          "note": "Ruling: Douay-Rheims' singular; the psalm's word three times.",
+          "from": "DRB"
+        },
+        {
+          "label": "aos vossos poderes",
+          "forms": {
+            "virtutes": "aos vossos poderes"
+          },
+          "note": "The Latin's number.",
+          "from": "draft"
+        },
+        {
+          "label": "às vossas maravilhas",
+          "forms": {
+            "virtutes": "às vossas maravilhas"
+          },
+          "note": "Matos Soares 1932: mirabília's word — refused.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "20:2": "The Latin's order kept (the vocative, the means, then the king); natural in Portuguese.",
+    "20:3": "Desidérium cordis ejus tribuísti ei: the Latin fronts the object; Portuguese says the verb first ('Destes-lhe'). tríbuere → dar (glossary row bona tríbuere; 15:7).",
+    "20:4": "posuísti in cápite ejus → 'pusestes na sua cabeça' ('na' for in, keeping 'sobre' for super); de lápide pretióso → 'de pedra preciosa', the Latin's singular (Douay-Rheims makes it plural).",
+    "20:5": "pétere → pedir (glossary postuláre shares it). 'Pediu-vos vida' — no article, as the Latin's bare vitam (the thing asked, not 'his life').",
+    "20:6": "in salutári tuo → 'na vossa salvação' (D6); impónere super → 'pôr sobre' (super (place) → sobre, glossary).",
+    "20:7": "lætificáre → alegrar (the verb of lætítia).",
+    "20:8": "commovéri → ser abalado (glossary, with 14:5b and 15:8; one Greek verb, σαλεύω). sperat in → 'espera no' (glossary speráre in → esperar em).",
+    "20:10": "pónere + predicate → 'fazer … como' (glossary; 17:35). in témpore vultus tui → 'no tempo do vosso rosto' (vultus → rosto, glossary): the Latin's image of the face's appearing, not explained (Douay-Rheims 'in the time of thy anger' and Matos Soares 1932 explain it). conturbáre → perturbar (glossary). 'perturbará … devorará' rhyme inside a colon, not at a cadence.",
+    "20:11": "pérdere → fazer perecer (D24; the row names 20:11). de terra → 'da terra'.",
+    "20:12": "cogitáre → pensar (glossary; with an object, 'pensar' + noun); consília → 'conselhos' (glossary consílium), answering 19:5 'confirme todos os teus conselhos'; stabilíre (only here and the noun 103:5, grep) → 'firmar', the glossary's proposal for statúere — the enemies' counsels are not made firm, the king's are confirmed.",
+    "20:14": "Exaltáre → 'Exaltai-vos' (glossary row Exaltáre, which names 20:14). The psalm ends on 'poder' as it began."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm20.txt, thirteen prayed verses with DO's ids (20:2–20:14). No titulus (D7). No Diurnal Monástico for this psalm in the parallels."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps020.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932 raw text). DO's Portuguese not used (D12). Repeats found with ps005/grep_latin.py: gáudium (4), jubil- (13), lætificáre (8), decor (8), fraudáre (2), dulcédo (3), clíbanus (1), relíqui- (relíquiæ 4 of 12 lines), stabil- (2), longitúdo (4), prævenire (7). Latin readings kept against the Hebrew: 20:4 'bênçãos de doçura … coroa de pedra preciosa', 20:7 'o dareis como bênção' (and against the Greek's dative), 20:10 'no tempo do vosso rosto', 20:12 'desviaram males contra vós', 20:13 'nos vossos restos preparareis o rosto deles' (the Hebrew has bowstrings), 20:14 'entoaremos salmos'. 16 decisions. Vós imperative: 'Exaltai-vos' (safe)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 20:3 −3 / −3 (the Latin's long words; nothing dropped); 20:5 second colon −5 (longitúdinem diérum → 'longos dias', as 90:16); 20:7 first colon −3; 20:11 second colon +3 ('descendência' for semen); 20:12 second colon −6 ('firmar' for stabilíre); 20:14 second colon +5 (psállere → 'entoar salmos', D25's two words, and the dative 'ao vosso poder'). Rhyme flag 20:14 'poder … poder' — the Latin's own echo (in virtúte tua … virtútes tuas), kept."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. Two majors (19:4 with two issues, 19:5) and one minor (19:7a); the marks confirmed. «A tradução conserva, em geral, o conteúdo do latim, inclusive suas imagens e construções incomuns.» Passed in particular 'do lugar santo', 'te defenda', 'em poderes', 'invocaremos em nome do Senhor', 'atados … fomos erguidos', and the versicle 19:10.",
+    "outcomes": [
+      {"verse": "19:4", "remark": "MAJOR: the plural 'todos os teus sacrifícios' for omnis sacrifícii tui → 'todo o teu sacrifício'", "outcome": "taken", "decision": "omnis", "reason": "The singular kept, by 'cada' rather than his 'todo' (which the blind reader's hearing of 'sacrifício' as self-denial would make worse); his words are option 2."},
+      {"verse": "19:4", "remark": "MAJOR (same verse): fiat is 'become', 'seja' only a state → 'se torne gordo'", "outcome": "taken", "decision": "pingue", "reason": "fíeri with a predicate adjective; the glossary's jussive 'Seja' is for Fiat standing alone."},
+      {"verse": "19:5", "remark": "MAJOR: consílium is a plan, singular; 'todos os teus conselhos' changes the number and suggests advice → 'todo o teu desígnio'", "outcome": "taken", "decision": "consilium", "reason": "The blind reader heard advice given to others first; his line exactly. The glossary row gains a local exception."},
+      {"verse": "19:7a", "remark": "minor: 'agora sei' does not keep the perfect → 'agora reconheci'", "outcome": "refused", "decision": "cognovi", "reason": "The perfect of a knowing-verb says the state (novit → conhece); 'reconhecer' is to acknowledge. His line and the perfects 'conheci', 'soube' are options."}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Two verses; best 19:10 (the versicle), worst 19:7b. «O salmo tem sobriedade e, em geral, corre bem na boca, com pausas claras e terminações adequadas ao canto … a impressão de tradução concentra-se em poucas construções, sobretudo em “em poderes”.» One taken, one kept as an option.",
+    "outcomes": [
+      {"verse": "19:4", "remark": "'o teu holocausto seja gordo' sounds unintentionally prosaic → 'seja rico em gordura'", "outcome": "option", "decision": "pingue", "reason": "The Latinist's verb ('se torne') taken instead; 'rico' is added and 'seja' is the state the Latinist refused. Kept as option 3."},
+      {"verse": "19:7b", "remark": "'em poderes' has no footing in current Portuguese; the inversion adds to it → 'a salvação da sua direita está em atos de poder' (worst line)", "outcome": "taken", "decision": "potentatibus", "reason": "Order and the way the plural is said (acts of power, δυναστεῖαι); 'poder' keeps the root. The Latinist had passed 'em poderes'; he reads the new line at the gate."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1, Portuguese only. 23 items, 2 unknown words (Sião, holocausto). Three wrong first hearings, all mended: 19:4 'Lembre-se' as an order to the listener, 19:5 'conselhos' as advice given to others, 19:8 'carros' as automobiles. Heard rightly: the jussives of 19:2–3, 'do lugar santo', 'Ele o escutará' (the Lord), 'invocaremos em nome do Senhor' (the Lord invoked), 'fomos erguidos' (raised by God).",
+    "outcomes": [
+      {"verse": "19:2", "remark": "'te': the listener / a person prayed for (heard first) / the king of the last verse", "outcome": "refused", "reason": "The Latin's addressee is unnamed until 19:10; heard as a person prayed for, which he is."},
+      {"verse": "19:2", "remark": "'o nome do Deus de Jacó te proteja': God himself (heard first) / the name invoked", "outcome": "refused", "reason": "nomen Dei Jacob holds both."},
+      {"verse": "19:3", "remark": "'Envie-te auxílio': the Lord sends (heard first) / an order to someone", "outcome": "refused", "decision": "tribuat", "reason": "Heard as meant."},
+      {"verse": "19:3", "remark": "'do lugar santo': a sanctuary on earth (heard first) / heaven", "outcome": "refused", "decision": "sancto", "reason": "de sancto holds both; heard as the Latin's first sense."},
+      {"verse": "19:3", "remark": "'de Sião te defenda': from Sion (heard first) / against Sion", "outcome": "refused", "decision": "tueatur", "reason": "Heard rightly; parallel to 'do lugar santo'."},
+      {"verse": "19:4", "remark": "'Lembre-se de todos os teus sacrifícios': the Lord / an order to the listener (heard first)", "outcome": "taken", "decision": "omnis", "reason": "Wrong first hearing: the subject named, 'Que ele se lembre'."},
+      {"verse": "19:4", "remark": "'sacrifícios': offerings / personal privations (heard first)", "outcome": "taken", "decision": "omnis", "reason": "'cada sacrifício teu' points to discrete offerings; the word itself is the Latin's and stays; 'holocausto' then fixes the sense."},
+      {"verse": "19:4", "remark": "'holocausto': the burnt offering / the Holocaust (association)", "outcome": "refused", "decision": "pingue", "reason": "The Latin's word, heard as a religious offering in context."},
+      {"verse": "19:4", "remark": "'seja gordo': the fat animal (heard first) / an abundant offering", "outcome": "refused", "decision": "pingue", "reason": "The image and its sense, both the Latin's."},
+      {"verse": "19:5", "remark": "'Dê-te segundo o teu coração': what you desire (heard first) / according to your intentions", "outcome": "refused", "reason": "secúndum cor tuum holds both."},
+      {"verse": "19:5", "remark": "'confirme todos os teus conselhos': your plans / advice you give to others (heard first)", "outcome": "taken", "decision": "consilium", "reason": "Wrong first hearing; with the Latinist's major → 'todo o teu desígnio'."},
+      {"verse": "19:6", "remark": "'na tua salvação': victory / spiritual salvation (heard first) / God's", "outcome": "refused", "reason": "salutáre holds all; D6."},
+      {"verse": "19:6", "remark": "'seremos engrandecidos': honoured (heard first) / strengthened", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "19:7a", "remark": "'o seu Cristo': Jesus (heard first) / an anointed man, the king", "outcome": "refused", "reason": "D19: the Latin's word, open to the Church's reading."},
+      {"verse": "19:7b", "remark": "'Ele o escutará': the Lord hears his Christ (heard first) / Christ hears the Lord / the Lord hears the one prayed for", "outcome": "refused", "decision": "exaudire", "reason": "Heard as meant; the Latin has the same pronouns."},
+      {"verse": "19:7b", "remark": "'do seu céu santo': the Lord's (heard first) / Christ's", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "19:7b", "remark": "'a salvação da sua direita': God's right hand (heard first) / Christ's / at his right side", "outcome": "refused", "decision": "potentatibus", "reason": "Heard rightly (and still so in draft 2's order)."},
+      {"verse": "19:8", "remark": "'Uns em carros, e outros em cavalos': they trust / they ride (heard first)", "outcome": "refused", "decision": "hi", "reason": "The colon is verbless in the Latin; supplying 'trust' interprets (option 4)."},
+      {"verse": "19:8", "remark": "'carros': automobiles (heard first) / ancient war vehicles", "outcome": "taken", "decision": "hi", "reason": "Wrong first hearing → 'carros de guerra', the Portuguese name of the chariot."},
+      {"verse": "19:8", "remark": "'invocaremos em nome do Senhor': the Lord himself (heard first) / someone else in his name", "outcome": "refused", "decision": "invocabimus", "reason": "Heard as meant."},
+      {"verse": "19:9", "remark": "'Eles': the men of the chariots (heard first) / the chariots and horses", "outcome": "refused", "reason": "Heard rightly."},
+      {"verse": "19:9", "remark": "'foram atados, e caíram': tied and fell (heard first) / prevented and defeated", "outcome": "refused", "decision": "obligati", "reason": "The image (Greek: feet bound) and its sense."},
+      {"verse": "19:9", "remark": "'nos levantamos e fomos erguidos': stood up helped / restored by God (heard first)", "outcome": "refused", "decision": "erecti", "reason": "Heard rightly; the passive points to God, as the Latin's."},
+      {"verse": "19:3", "remark": "unknown word: Sião", "outcome": "refused", "reason": "A proper name (glossary Sion → Sião)."},
+      {"verse": "19:4", "remark": "unknown word: holocausto", "outcome": "refused", "decision": "pingue", "reason": "holocáustum's own word; 7 lines in the psalter, no plainer name for the whole burnt offering."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "v2. Five verses changed against draft 1: 19:4 'Que ele se lembre de cada sacrifício teu: * e o teu holocausto se torne gordo' (the Latinist's major — number and fíeri — and the blind reader's imperative); 19:5 'e confirme todo o teu desígnio' (the Latinist's major, with the blind reader); 19:7b 'a salvação da sua direita está em atos de poder' (the stylist's worst line); 19:8 'Uns em carros de guerra' (the blind reader heard cars). Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read). Script: ps019/revise_v2.py."
+  },
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. Soft flags accepted: 19:7a −4 (as draft 1); 19:7b second colon +5 ('atos de' and the copula for the verbless Latin); 19:8 first colon +4 ('de guerra'). No rhyme flag."
+  }
+]

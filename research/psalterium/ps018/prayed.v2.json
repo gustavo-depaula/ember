@@ -1,0 +1,1088 @@
+{
+  "psalm": 18,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "18:2": "Os céus {enarrant} a glória de Deus: * e o {firmamentum} anuncia as obras das suas mãos.",
+    "18:3": "Um dia {eructat} a palavra ao outro dia, * e uma noite indica {scientiam} à outra noite.",
+    "18:4": "Não há {loquelae} nem palavras, * {quorum}.",
+    "18:5": "O som deles saiu por toda a terra: * e as palavras deles, até os confins {orbis}.",
+    "18:6a": "No sol pôs {tabernaculum}: * e ele, como um esposo que sai do seu {thalamo}:",
+    "18:6b": "Exultou como um {gigas} para correr o caminho, * a sua saída é do {summo} do céu:",
+    "18:7b": "E a sua {occursus} é até o seu {summum}: * e não há quem se esconda do seu calor.",
+    "18:8": "A lei do Senhor é imaculada, {convertens}: * o testemunho do Senhor é fiel, {praestans}.",
+    "18:9": "As justiças do Senhor são retas, {laetificantes}: * o decreto do Senhor é {lucidum}, {illuminans}.",
+    "18:10": "O temor do Senhor é santo, {permanens} pelos séculos dos séculos: * os juízos do Senhor são verdadeiros, justificados em si mesmos.",
+    "18:11": "{desiderabilia} que o ouro e que {lapidem}: * e mais doces que o mel e o favo.",
+    "18:12": "Pois o vosso servo os guarda, * em guardá-los há {multa}.",
+    "18:13": "Quem entende as {delicta}? † Das minhas {occultis} purificai-me: * e das {alienis} poupai o vosso servo.",
+    "18:14b": "Se não me {dominati}, então serei imaculado: * e serei purificado da {maximo}.",
+    "18:15a": "E {eloquia}: * e a meditação do meu coração, sempre à vossa vista.",
+    "18:15b": "Senhor, meu {adjutor}, * e meu redentor."
+  },
+  "decisions": [
+    {
+      "id": "enarrant",
+      "refs": [
+        "18:2"
+      ],
+      "latin": "Cæli enárrant glóriam Dei",
+      "kind": "glossary",
+      "why": "enarráre (διηγοῦνται): two places (18:2, 49:16 *Quare tu enárras justítias meas*); the glossary has narráre → narrar (117:17). The compound kept on the simple verb, as the Greek has one verb for both. DRB *shew forth*, MS1932 *publicam*, the Diurnal (from the Hebrew) *Narram*.",
+      "options": [
+        {
+          "label": "narram",
+          "forms": {
+            "enarrant": "narram"
+          },
+          "note": "Ruling: one family with narráre → narrar; the Greek narrates.",
+          "from": "draft"
+        },
+        {
+          "label": "proclamam",
+          "forms": {
+            "enarrant": "proclamam"
+          },
+          "note": "Heard as louder; proclamar is prædicáre's (glossary).",
+          "from": "draft"
+        },
+        {
+          "label": "publicam",
+          "forms": {
+            "enarrant": "publicam"
+          },
+          "note": "MS1932; heard today as printing.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "firmamentum",
+      "refs": [
+        "18:2"
+      ],
+      "latin": "annúntiat firmaméntum",
+      "kind": "glossary",
+      "why": "firmaméntum here is the sky (στερέωμα, the vault of Gen 1:6), not God as support: D31 keeps *esteio* for the second and names 18:2 as the place for *firmamento*. annuntiáre → anunciar (glossary, kept apart from prædicáre → proclamar). The Latin puts the object first (*ópera mánuum ejus annúntiat firmaméntum*); Portuguese order puts the subject first (D2), as MS1932 does.",
+      "options": [
+        {
+          "label": "firmamento",
+          "forms": {
+            "firmamentum": "firmamento"
+          },
+          "note": "Ruling: D31.",
+          "from": "D31"
+        },
+        {
+          "label": "céu",
+          "forms": {
+            "firmamentum": "céu"
+          },
+          "note": "Plain; but cæli already stands in the first colon, and the Latin has two words.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eructat",
+      "refs": [
+        "18:3"
+      ],
+      "latin": "Dies diéi erúctat verbum",
+      "kind": "glossary",
+      "why": "eructáre (ἐρεύγεται): the glossary row (open) names this verse and renders *fazer jorrar* at 118:171, keeping the gush and not the belch. verbum → palavra (glossary). índicat → indica (the Latin's word; the Greek repeats ἀναγγέλλει, the Latin varies). DRB *uttereth*, MS1932 *transmite esta mensagem*. Heard (draft 1): the stylist found *O dia ao dia … a noite à noite* piled before the verbs; the blind reader heard the second *à noite* as a time ('at night') and the first colon as 'day after day'. Draft 2 takes the order and the articles MS1932 also uses (*Um dia … ao outro dia*): the Latin's datives (diéi, nocti) kept as the receivers, which is what the blind reader could not hear; grammar and order only (D2). The stylist's *para outro dia* refused: heard as 'postponed'.",
+      "options": [
+        {
+          "label": "faz jorrar",
+          "forms": {
+            "eructat": "faz jorrar"
+          },
+          "note": "Ruling: the row's verb; the day pouring out speech to the day.",
+          "from": "glossary"
+        },
+        {
+          "label": "profere",
+          "forms": {
+            "eructat": "profere"
+          },
+          "note": "Plain utterance (church Latin sense), the image lost.",
+          "from": "DRB"
+        },
+        {
+          "label": "transmite",
+          "forms": {
+            "eructat": "transmite"
+          },
+          "note": "MS1932; the passing on from day to day, the image lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "scientiam",
+      "refs": [
+        "18:3"
+      ],
+      "latin": "índicat sciéntiam",
+      "kind": "glossary",
+      "why": "sciéntia (γνῶσις): the glossary row (open) is *o saber* (118:66), naming 18:3; *ciência* heard as science.",
+      "options": [
+        {
+          "label": "o saber",
+          "forms": {
+            "scientiam": "o saber"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "o conhecimento",
+          "forms": {
+            "scientiam": "o conhecimento"
+          },
+          "note": "The row's option.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "loquelae",
+      "refs": [
+        "18:4"
+      ],
+      "latin": "Non sunt loquélæ, neque sermónes",
+      "kind": "lexical",
+      "why": "loquéla (λαλιαί): only here in the psalter (grep); L&S \"speech, language, words, discourse\". sermo → palavra (D15; its own row), so loquéla needs a second word. The Latin says there is no speech of any kind whose voice is not heard: the heavens' message reaches every tongue. DRB *speeches nor languages*, MS1932 *linguagem nem idioma*.",
+      "options": [
+        {
+          "label": "linguagens",
+          "forms": {
+            "loquelae": "linguagens"
+          },
+          "note": "Ruling: \"language\" is L&S's second sense and DRB/MS1932's reading; keeps *palavras* for sermónes.",
+          "from": "draft"
+        },
+        {
+          "label": "falas",
+          "forms": {
+            "loquelae": "falas"
+          },
+          "note": "Closer to λαλιά (talk, speech); heard as spoken turns.",
+          "from": "draft"
+        },
+        {
+          "label": "línguas",
+          "forms": {
+            "loquelae": "línguas"
+          },
+          "note": "Heard as tongues (organ or nations) — lingua is another word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "quorum",
+      "refs": [
+        "18:4"
+      ],
+      "latin": "quorum non audiántur voces eórum",
+      "kind": "grammar",
+      "why": "The relative with a resumptive pronoun (*quorum … eórum*), a Hebraism through the Greek (ὧν … αὐτῶν): Portuguese says it once. The subjunctive kept (a consecutive relative after a negative). Grammar only (D2).",
+      "options": [
+        {
+          "label": "cujas vozes não sejam ouvidas",
+          "forms": {
+            "quorum": "cujas vozes não sejam ouvidas"
+          },
+          "note": "Ruling: *cujas* carries both quorum and eórum; the passive kept.",
+          "from": "draft"
+        },
+        {
+          "label": "em que não se ouçam as suas vozes",
+          "forms": {
+            "quorum": "em que não se ouçam as suas vozes"
+          },
+          "note": "MS1932's build (*em que*); the pronominal passive.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "orbis",
+      "refs": [
+        "18:5"
+      ],
+      "latin": "in fines orbis terræ verba eórum",
+      "kind": "glossary",
+      "why": "orbis terræ → o mundo (D30); fines → confins (glossary). Rom 10:18 quotes 18:5 word for word (Vulgate *in omnem terram exívit sonus eórum, et in fines orbis terræ verba eórum*; Greek τὰ πέρατα τῆς οἰκουμένης), fetched into consult/bolls-VULG-45-10.json and bolls-TISCH-45-10.json — the psalm must read as the apostle's quotation does. *in omnem terram … in fines*: motion to; *Por toda a terra … até os confins* is Portuguese for it. sonus → som; verba → palavras (as 18:4 sermónes: the Greek has λόγοι and ῥήματα, the Latin sermónes and verba; both *palavras*, D15). The verb supplied from the first colon by ellipsis, as the Latin. Draft 2 takes the stylist's order (subject first; the second colon's verb left understood as the Latin's and Rom 10:18's): the two *deles* no longer close both colons, which checks and the stylist flagged. Order only (D2).",
+      "options": [
+        {
+          "label": "do mundo",
+          "forms": {
+            "orbis": "do mundo"
+          },
+          "note": "Ruling: D30.",
+          "from": "D30"
+        },
+        {
+          "label": "do orbe da terra",
+          "forms": {
+            "orbis": "do orbe da terra"
+          },
+          "note": "D30's option; *orbe* unknown to a blind reader.",
+          "from": "D30"
+        }
+      ]
+    },
+    {
+      "id": "tabernaculum",
+      "refs": [
+        "18:6a"
+      ],
+      "latin": "In sole pósuit tabernáculum suum",
+      "kind": "glossary",
+      "why": "tabernáculum → tenda (glossary; 14:1). In the Latin (and the Greek) God sets his tent *in* the sun; the Hebrew has a tent *for* the sun (the Diurnal). The Latin's reading kept (rule 1). The subject of *pósuit* is left unnamed, as the Latin; MS1932 supplies *(Deus)*.",
+      "options": [
+        {
+          "label": "tenda",
+          "forms": {
+            "tabernaculum": "a sua tenda"
+          },
+          "note": "Ruling: the glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "tabernáculo",
+          "forms": {
+            "tabernaculum": "o seu tabernáculo"
+          },
+          "note": "MS1932; heard as the church tabernacle.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "thalamo",
+      "refs": [
+        "18:6a"
+      ],
+      "latin": "tamquam sponsus procédens de thálamo suo",
+      "kind": "lexical",
+      "why": "thálamus (παστός): only here (grep). The bridal chamber. sponsus → esposo (MS1932; *noivo* the Diurnal). procédens → *que sai*, the participle as a relative (Portuguese has no active participle of *sair* that stands). Heard (draft 1): the stylist — specialised word, and a proparoxytone at the cadence → *quarto nupcial*; the blind reader listed *tálamo* as unknown and heard only 'a husband leaving some place'. Taken: of two faithful words the plainer (D2); the chamber is the bride-chamber either way.",
+      "options": [
+        {
+          "label": "quarto nupcial",
+          "forms": {
+            "thalamo": "quarto nupcial"
+          },
+          "note": "Ruling (draft 2): the stylist's; the blind reader did not know *tálamo*.",
+          "from": "stylist"
+        },
+        {
+          "label": "tálamo",
+          "forms": {
+            "thalamo": "tálamo"
+          },
+          "note": "Draft 1: the Latin's word (MS1932, the Diurnal); unknown to the blind reader.",
+          "from": "MS1932"
+        },
+        {
+          "label": "câmara nupcial",
+          "forms": {
+            "thalamo": "câmara nupcial"
+          },
+          "note": "DRB *bride chamber*.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "gigas",
+      "refs": [
+        "18:6b"
+      ],
+      "latin": "Exsultávit ut gigas ad curréndam viam",
+      "kind": "lexical",
+      "why": "gigas (γίγας): 18:6b and 32:16 *nec gigas salvábitur in multitúdine virtútis suæ* (grep). The Latin's word; the Hebrew has \"a strong man\" (the Diurnal *atleta*). exsultáre → exultar (glossary). ad curréndam viam → *para correr o caminho* (the gerundive of purpose).",
+      "options": [
+        {
+          "label": "gigante",
+          "forms": {
+            "gigas": "gigante"
+          },
+          "note": "Ruling: the Latin's word (rule 1); DRB and MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "herói",
+          "forms": {
+            "gigas": "herói"
+          },
+          "note": "The sense of γίγας as mighty man; another word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "summo",
+      "refs": [
+        "18:6b",
+        "18:7b"
+      ],
+      "latin": "a summo cælo egréssio ejus … usque ad summum ejus",
+      "kind": "lexical",
+      "why": "summus twice (ἀπ᾿ ἄκρου … ἕως ἄκρου): the Latin repeats the word, the second time without *cælum* (*ad summum ejus*, \"to its height/end\"). One Portuguese word for both (D2: repetitions kept). *extremo* says both the end and the far edge (MS1932 *extremidade … extremidade*, DRB *end … end*). egréssio → saída.",
+      "options": [
+        {
+          "label": "extremo … extremo",
+          "forms": {
+            "summo": "extremo",
+            "summum": "extremo"
+          },
+          "note": "Ruling: one word twice, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "alto … alto",
+          "forms": {
+            "summo": "alto",
+            "summum": "alto"
+          },
+          "note": "summus as \"highest\"; the course from the height to the height.",
+          "from": "draft"
+        },
+        {
+          "label": "cimo … cimo",
+          "forms": {
+            "summo": "cimo",
+            "summum": "cimo"
+          },
+          "note": "The literal \"top\"; heard as a mountain's.",
+          "from": "literal"
+        }
+      ]
+    },
+    {
+      "id": "occursus",
+      "refs": [
+        "18:7b"
+      ],
+      "latin": "Et occúrsus ejus usque ad summum ejus",
+      "kind": "lexical",
+      "why": "occúrsus (κατάντημα): only here. L&S \"a meeting, falling in with\". The Greek word is the arrival, the goal reached — the pair of ἔξοδος / egréssio (*saída*) in the line before: the sun goes out from one end and arrives at the other. DRB *circuit*, MS1932 *o seu curso* follow the Hebrew's \"circuit\". Draft 2: 18:6b takes the stylist's order (*a sua saída é do extremo do céu*); 18:7b supplies the same copula (*E a sua chegada é até …*), answering his remark that the noun line hangs without a verb — the two nouns kept, as the Latin's pair. His *E ele chega* refused: it turns occúrsus into a verb and the subject into the sun by name.",
+      "options": [
+        {
+          "label": "chegada",
+          "forms": {
+            "occursus": "chegada"
+          },
+          "note": "Ruling: the pair of *saída*; the Greek word; the Latin's \"meeting\" is the arriving.",
+          "from": "draft"
+        },
+        {
+          "label": "percurso",
+          "forms": {
+            "occursus": "percurso"
+          },
+          "note": "DRB/MS1932 (*circuit*, *curso*); from the Hebrew's sense.",
+          "from": "MS1932"
+        },
+        {
+          "label": "encontro",
+          "forms": {
+            "occursus": "encontro"
+          },
+          "note": "L&S's first sense; heard as a meeting with someone.",
+          "from": "literal"
+        }
+      ]
+    },
+    {
+      "id": "participles",
+      "refs": [
+        "18:8",
+        "18:9",
+        "18:10"
+      ],
+      "latin": "convértens … præstans … lætificántes … illúminans … pérmanens",
+      "kind": "grammar",
+      "why": "Six predicates in three verses, each an adjective and an active participle (Greek the same). Portuguese has no present participles that stand: the adjective takes a copula (*é imaculada*, as MS1932) and the participle becomes a finite verb in the same tense (*converte*, *dá*, *alegram*, *ilumina*, *permanece*), the verses heard as statements, as the Latin's are. One ruling for the series so the six stand alike. justificáta (a perfect passive participle) stays a participle: *justificados em si mesmos*.",
+      "options": [
+        {
+          "label": "finite verbs",
+          "forms": {
+            "praestans": "dá sabedoria aos pequeninos",
+            "laetificantes": "alegram os corações",
+            "illuminans": "ilumina os olhos",
+            "permanens": "permanece"
+          },
+          "note": "Ruling: MS1932's build for 18:8.",
+          "from": "MS1932"
+        },
+        {
+          "label": "gerunds",
+          "forms": {
+            "praestans": "dando sabedoria aos pequeninos",
+            "laetificantes": "alegrando os corações",
+            "illuminans": "iluminando os olhos",
+            "permanens": "permanecendo"
+          },
+          "note": "Closer in form; the copula still needed, and six gerunds in a row.",
+          "from": "literal"
+        },
+        {
+          "label": "relatives",
+          "forms": {
+            "praestans": "que dá sabedoria aos pequeninos",
+            "laetificantes": "que alegram os corações",
+            "illuminans": "que ilumina os olhos",
+            "permanens": "que permanece"
+          },
+          "note": "The participle as a relative; longer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "convertens",
+      "refs": [
+        "18:8"
+      ],
+      "latin": "convértens ánimas",
+      "kind": "glossary",
+      "why": "convértere → *voltar* in the glossary (open), because *converter* is heard as religious conversion; D25 overruled it at 7:13 where that is the sense. Here too: the law turns souls back to God (ἐπιστρέφων ψυχάς), the verse the Church reads of conversion; DRB *converting*, MS1932 *converte as almas*. *faz voltar as almas* is the row's verb. (The participles decision covers the other five; this slot is ruled here, finite as they are.)",
+      "options": [
+        {
+          "label": "converte as almas",
+          "forms": {
+            "convertens": "converte as almas"
+          },
+          "note": "Ruling: D25's exception — the sense is conversion.",
+          "from": "D25"
+        },
+        {
+          "label": "faz voltar as almas",
+          "forms": {
+            "convertens": "faz voltar as almas"
+          },
+          "note": "The row's verb, causative; heard as restoring.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "lucidum",
+      "refs": [
+        "18:9"
+      ],
+      "latin": "præcéptum Dómini lúcidum",
+      "kind": "lexical",
+      "why": "præcéptum → decreto (D19; its list names 18:9). lúcidus (τηλαυγής, shining far): only here in the psalter of this sense. justítiæ plural → *as justiças* (glossary row, open; the Greek is δικαιώματα here, but the Latin's word is justítiæ and it is kept). lætificáre → alegrar (the verb, not *lætári*'s reflexive). illumináre → iluminar (glossary).",
+      "options": [
+        {
+          "label": "luminoso",
+          "forms": {
+            "lucidum": "luminoso"
+          },
+          "note": "Ruling: full of light, the pair of *ilumina*; DRB *lightsome*.",
+          "from": "DRB"
+        },
+        {
+          "label": "claro",
+          "forms": {
+            "lucidum": "claro"
+          },
+          "note": "Plainer; heard also as \"easy to understand\".",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "desiderabilia",
+      "refs": [
+        "18:11"
+      ],
+      "latin": "Desiderabília super aurum et lápidem pretiósum multum: et dulcióra super mel et favum",
+      "kind": "grammar",
+      "why": "The verse has no verb and no subject: the judgments of 18:10 are *desiderabília … dulcióra*. *super* with a positive (*desiderabília super*) is the comparative, as the next colon's *dulcióra super*; Portuguese says both with *mais … que*. The verbless line kept, as the Latin (DRB supplies nothing either). favus → favo (only here).",
+      "options": [
+        {
+          "label": "Mais desejáveis",
+          "forms": {
+            "desiderabilia": "Mais desejáveis"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "São mais desejáveis",
+          "forms": {
+            "desiderabilia": "São mais desejáveis"
+          },
+          "note": "A copula supplied (D2).",
+          "from": "draft"
+        },
+        {
+          "label": "Mais para desejar",
+          "forms": {
+            "desiderabilia": "Mais para desejar"
+          },
+          "note": "The gerundive sense of -bilis; stiff.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "multa",
+      "refs": [
+        "18:11",
+        "18:12"
+      ],
+      "latin": "lápidem pretiósum multum … retribútio multa",
+      "kind": "repetition",
+      "why": "multus twice, in consecutive verses (πολύν … πολλή): kept as one word (D2: the Latin's repetitions). *lápidem pretiósum multum* is the collective singular (\"much precious stone\"). retribútio → retribuição (glossary). Heard (draft 1): the stylist — the collective singular *muita pedra preciosa* sounds like a quantity of material → *muitas pedras preciosas*. Taken: number is grammar; *muitas … muita* still repeats the Latin's one word in both verses.",
+      "options": [
+        {
+          "label": "muitas … muita",
+          "forms": {
+            "lapidem": "muitas pedras preciosas",
+            "multa": "muita retribuição"
+          },
+          "note": "Ruling (draft 2): the stylist's plural; the repetition kept.",
+          "from": "stylist"
+        },
+        {
+          "label": "muita … muita",
+          "forms": {
+            "lapidem": "muita pedra preciosa",
+            "multa": "muita retribuição"
+          },
+          "note": "Draft 1: the collective singular.",
+          "from": "draft"
+        },
+        {
+          "label": "muitas … grande",
+          "forms": {
+            "lapidem": "muitas pedras preciosas",
+            "multa": "grande retribuição"
+          },
+          "note": "DRB; the repetition lost.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "delicta",
+      "refs": [
+        "18:13",
+        "18:14b"
+      ],
+      "latin": "Delícta quis intéllegit? … a delícto máximo",
+      "kind": "glossary",
+      "why": "delíctum → falta (glossary row delínquere / delíctum, open, naming 18:13; kept apart from peccátum → pecado). Three times in two verses (the plural, *ab occúltis meis*, *ab aliénis*, and 18:14b *a delícto máximo*): the adjectives *occúltis* and *aliénis* stand without a noun in the Latin, and Portuguese needs the noun once — supplied in the first (*faltas ocultas*) and carried by the feminine into *das estranhas*. intellégere → entender (glossary).",
+      "options": [
+        {
+          "label": "faltas",
+          "forms": {
+            "delicta": "faltas",
+            "occultis": "faltas ocultas",
+            "maximo": "maior falta"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "delitos",
+          "forms": {
+            "delicta": "delitos",
+            "occultis": "delitos ocultos",
+            "maximo": "maior delito"
+          },
+          "note": "The cognate; legal.",
+          "from": "literal"
+        },
+        {
+          "label": "(no noun) coisas ocultas",
+          "forms": {
+            "delicta": "faltas",
+            "occultis": "coisas ocultas",
+            "maximo": "maior falta"
+          },
+          "note": "No noun supplied; *das estranhas* then refers to *coisas*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "alienis",
+      "refs": [
+        "18:13"
+      ],
+      "latin": "et ab aliénis parce servo tuo",
+      "kind": "glossary",
+      "why": "aliénus → estranho (glossary row, working): in the Latin *ab aliénis* is \"from others' [faults]\" (DRB *from those of others*) or \"from strangers\" (ἀπὸ ἀλλοτρίων; the Hebrew \"from the presumptuous\", the Diurnal *deuses estranhos*). *das estranhas* keeps the Latin's ambiguity with the noun supplied by 18:13. párcere → poupar (18:13, 71:13). Heard (draft 1): the Latinist, MAJOR — with *faltas* understood, aliénis are others' faults; *estranhas* may mean odd or unknown → *das alheias*. The stylist asked the same; the blind reader heard 'unusual faults' first. Taken: three readers, one fault. The glossary's *estranho* serves persons (17:46 *filhos estranhos*); with a feminine noun understood it is heard as 'strange'. The Greek's persons (ἀλλοτρίων, 'strangers') stay the option.",
+      "options": [
+        {
+          "label": "alheias",
+          "forms": {
+            "alienis": "alheias"
+          },
+          "note": "Ruling (draft 2): the Latinist, the stylist, DRB *those of others*.",
+          "from": "latinist"
+        },
+        {
+          "label": "estranhas",
+          "forms": {
+            "alienis": "estranhas"
+          },
+          "note": "Draft 1: the glossary word; heard as odd faults. The masculine *dos estranhos* (persons, the Greek's ἀλλοτρίων) would need the colon rebuilt; not offered.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "dominati",
+      "refs": [
+        "18:14b"
+      ],
+      "latin": "Si mei non fúerint domináti",
+      "kind": "grammar",
+      "why": "Future perfect in the condition (*fúerint domináti*); Portuguese says the future subjunctive: *Se não me dominarem*. dominári with a genitive (*mei*) → *dominar* with a direct object. The subject is the faults of 18:13. Heard (draft 1): the Latinist, MAJOR — the future perfect puts the dominion before the state *ero* announces; the simple future subjunctive loses it → *Se não me tiverem dominado*. Taken: the compound future subjunctive is Portuguese's own tense for it and is sayable; the colon was −3 against the Latin.",
+      "options": [
+        {
+          "label": "tiverem dominado",
+          "forms": {
+            "dominati": "tiverem dominado"
+          },
+          "note": "Ruling (draft 2): the Latinist's; the tense kept.",
+          "from": "latinist"
+        },
+        {
+          "label": "dominarem",
+          "forms": {
+            "dominati": "dominarem"
+          },
+          "note": "Draft 1: plainer; the anteriority lost (major).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "maximo",
+      "refs": [
+        "18:14b"
+      ],
+      "latin": "emundábor a delícto máximo",
+      "kind": "lexical",
+      "why": "máximus → *maior* (the superlative relative: \"the greatest\"); mundáre / emundáre → *purificar* (καθαρίζω both times; four lines in the psalter — 18:13, 18:14b, 50:4, 88:45 — and the adjective mundus 23:4, 50:12). Only 11:7 *purgátum* is already *purificada* (one line; another Greek word): noted for the row. immaculátus → imaculado (glossary; 18:8 and 18:14b both have it).",
+      "options": [
+        {
+          "label": "maior falta",
+          "forms": {
+            "maximo": "maior falta"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "falta máxima",
+          "forms": {
+            "maximo": "falta máxima"
+          },
+          "note": "The Latin's word; heard as a scale.",
+          "from": "literal"
+        }
+      ]
+    },
+    {
+      "id": "eloquia",
+      "refs": [
+        "18:15a"
+      ],
+      "latin": "Et erunt ut compláceant elóquia oris mei",
+      "kind": "glossary",
+      "why": "elóquium: D26 made it the clause *o que dissestes* in Ps 118; D27 lets the psalm decide outside it. Here verbum (18:3, 18:5) and sermo (18:4) are already *palavra(s)*, so the clause keeps elóquia apart: *o que disser a minha boca*. *erunt ut compláceant* (ἔσονται εἰς εὐδοκίαν, \"shall be for good pleasure\") → *há de agradar*, the future kept. complacére → agradar. Heard (draft 1): the Latinist, MAJOR — the future lies on the words' condition, not on the act of saying; the clause adds a future *disser*, loses the plural and flattens *erunt ut compláceant* → *E as palavras da minha boca serão tais que agradem*. The stylist named the line his worst (the subject late; the second colon without support). Taken, his line verbatim: outside Ps 118 elóquia is *palavras* already (11:7, 17:31 *As palavras do Senhor*, D27), so the psalm follows them; *serão* now carries the second colon too, as *erunt* does. The stylist's *do vosso agrado* is an option (adds *vosso*, the Latin names no one); his *estará* in the second colon refused (the Latin's ellipsis).",
+      "options": [
+        {
+          "label": "E as palavras da minha boca serão tais que agradem",
+          "forms": {
+            "eloquia": "as palavras da minha boca serão tais que agradem"
+          },
+          "note": "Ruling (draft 2): the Latinist's line; elóquia → palavras as in 11:7, 17:31.",
+          "from": "latinist"
+        },
+        {
+          "label": "E serão do vosso agrado as palavras da minha boca",
+          "forms": {
+            "eloquia": "serão do vosso agrado as palavras da minha boca"
+          },
+          "note": "The stylist's; supplies *vosso* (the Greek's εὐδοκία has no owner either).",
+          "from": "stylist"
+        },
+        {
+          "label": "E há de agradar o que disser a minha boca",
+          "forms": {
+            "eloquia": "há de agradar o que disser a minha boca"
+          },
+          "note": "Draft 1: D26's clause; the Latinist marked it major (a future act of saying the Latin lacks).",
+          "from": "D26"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "18:15b"
+      ],
+      "latin": "Dómine, adjútor meus, et redémptor meus",
+      "kind": "glossary",
+      "why": "adjútor → auxílio (glossary, open; held against the Latinist's minor twice at 117:6–7). Here it stands beside an agent noun, redémptor → redentor (18:15b, 77:35 — the only two places, and 77:35 has adjútor beside it too). λυτρωτής: *redentor*, not *resgatador* (redímere → resgatar is the verb's row, open). Heard (draft 1): the Latinist, MAJOR — adjútor names the one who helps; *auxílio* puts the help for the helper → *meu auxiliador*. HELD: D19 fixes *adjútor → auxílio* beside suscéptor → amparo and protéctor → protetor; the row records the same ask twice (117:6–7, minor) and refused it for length and currency; changing it here alone would split one Latin word in the psalter. Reported for a ruling: this verse, where the agent noun *redentor* stands beside it, is the strongest case against the row.",
+      "options": [
+        {
+          "label": "auxílio",
+          "forms": {
+            "adjutor": "auxílio"
+          },
+          "note": "Ruling: the glossary; the one family with adjutórium.",
+          "from": "glossary"
+        },
+        {
+          "label": "auxiliador",
+          "forms": {
+            "adjutor": "auxiliador"
+          },
+          "note": "The agent noun, the pair of *redentor*; the Latinist's ask at 117:6–7.",
+          "from": "latinist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "18:2": "Cæli → os céus; glória Dei → a glória de Deus; ópera mánuum ejus → as obras das suas mãos (narráre / ópera row).",
+    "18:3": "Dies diéi … nox nocti → *O dia ao dia … a noite à noite*: the Latin's datives, not MS1932's \"um dia … ao outro dia\".",
+    "18:5": "sonus → som; *deles* for eórum (the heavens').",
+    "18:6b": "viam → o caminho; egréssio → saída; *é* supplied (the colon has no verb).",
+    "18:7b": "nec est qui se abscóndat → *e não há quem se esconda*; calor → calor.",
+    "18:10": "timor → temor; in sǽculum sǽculi → *pelos séculos dos séculos* (settled, D27); judícia → juízos (D15); in semetípsa → *em si mesmos*.",
+    "18:12": "Étenim → Pois (glossary); custódit → guarda; *in custodiéndis illis* → *em guardá-los*; *há* supplied.",
+    "18:15a": "meditátio → meditação (glossary); in conspéctu tuo → *à vossa vista* (conspéctus row); semper → sempre.",
+    "18:15b": "Dómine bare in the vocative."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm18.txt, sixteen prayed verses with DO's ids (18:2, 3, 4, 5, 6a, 6b, 7b, 8, 9, 10, 11, 12, 13, 14b, 15a, 15b); inline (7a), (14a) markers not reproduced. Collated against the Clementine Vulgate fetched from Bolls (consult/bolls-VULG-19-18.json): identical (intelligit / intéllegit is spelling). 18:5 checked against its quotation in Rom 10:18 (consult/bolls-VULG-45-10.json, bolls-TISCH-45-10.json): word for word in the Vulgate."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps018.md (LXX, Hebrew, Douay-Rheims, Matos Soares 1932 text layer, the Diurnal — from the Hebrew, not used for sense). DO's Portuguese not used (D12). Repeats checked with ps005/grep_latin.py: loquél- (1), redémpt- (2: 18:15b, 77:35), enarr- (2), eruct- (5), thálam- (1), gigas (2), favus (1), delíct- (9), (e)mund- (4 verbs), purg- (1: 11:7), párc- (2). L&S read for occúrsus, loquéla (consult/ls_O.json, ls_L.json). Septuagintal readings kept against the Hebrew: 18:4 (no speech whose voice is not heard), 18:5 *som* (Hebrew \"line\"), 18:6a the tent *in* the sun, 18:6b *gigante*, 18:7b *chegada*, 18:13 *das estranhas*. 23 decisions."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (checks.py exit 0). Soft flags accepted: 18:3 first colon +4 (*faz jorrar*, the articles the Latin lacks); 18:6a first colon −5 (*tabernáculum* → *tenda*, two syllables for five); 18:6b first colon +4 (*como um … para*); 18:9 second colon +3 and 18:10 first colon +5 (the copulas the participles decision supplies, and *pelos séculos dos séculos*); 18:13 middle colon +4 (the noun *faltas* supplied, *purificai-me* for *munda me*); 18:14b −3. Rhyme flag 18:5 (*deles … deles*): the Latin's own *eórum … eórum* at both cadences — kept, rule 5's exception."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. Four majors and one minor; the marks confirmed. «A tradução conserva, em geral, o sentido e as imagens do latim; os desvios … dizem respeito ao sentido lexical, à referência pessoal e à expressão temporal.» Three majors taken, one held (18:15b, D19), the minor refused (D27).",
+      "outcomes": [
+        {
+          "verse": "18:10",
+          "remark": "minor: 'pelos séculos dos séculos' pluralises → 'pelo século do século'",
+          "outcome": "refused",
+          "reason": "in sǽculum sǽculi → pelos séculos dos séculos is settled (D27); the row records the same ask."
+        },
+        {
+          "verse": "18:13",
+          "remark": "MAJOR: 'das estranhas' may mean odd faults → 'das alheias'",
+          "outcome": "taken",
+          "decision": "alienis",
+          "reason": "With faltas understood, aliénis are others'; the stylist and the blind reader heard the same fault."
+        },
+        {
+          "verse": "18:14b",
+          "remark": "MAJOR: 'Se não me dominarem' loses the future perfect's anteriority → 'Se não me tiverem dominado'",
+          "outcome": "taken",
+          "decision": "dominati",
+          "reason": "Portuguese's compound future subjunctive; sayable, and the colon was short."
+        },
+        {
+          "verse": "18:15a",
+          "remark": "MAJOR: 'há de agradar o que disser' adds a future act of saying, loses the plural and erunt ut → 'E as palavras da minha boca serão tais que agradem'",
+          "outcome": "taken",
+          "decision": "eloquia",
+          "reason": "Outside Ps 118 elóquia is palavras (11:7, 17:31; D27); the stylist named this line his worst."
+        },
+        {
+          "verse": "18:15b",
+          "remark": "MAJOR: 'meu auxílio' puts the help for the helper → 'meu auxiliador'",
+          "outcome": "refused",
+          "decision": "adjutor",
+          "reason": "HELD: D19 fixes adjútor → auxílio; one Latin word must not split in one verse; for a ruling (the strongest case, beside redentor)."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Nine verses; best 18:2, worst 18:15a. «O salmo tem sobriedade e imagens fortes … A oração perde naturalidade em algumas inversões e construções nominais.» Six taken (four of order), one taken in part, one refused, one option.",
+      "outcomes": [
+        {
+          "verse": "18:3",
+          "remark": "'O dia ao dia … a noite à noite' crowded before the verbs → 'Um dia faz jorrar a palavra para outro dia …'",
+          "outcome": "taken",
+          "decision": "eructat",
+          "reason": "Order and articles (D2), with *ao outro dia … à outra noite*: *para outro dia* heard as 'postponed'."
+        },
+        {
+          "verse": "18:5",
+          "remark": "inversion; *deles … deles* echo → 'O som deles saiu por toda a terra: * e as palavras deles, até os confins do mundo'",
+          "outcome": "taken",
+          "decision": "orbis",
+          "reason": "Order only; the rhyme flag gone."
+        },
+        {
+          "verse": "18:6a",
+          "remark": "'tálamo' specialised, proparoxytone cadence → 'quarto nupcial'",
+          "outcome": "taken",
+          "decision": "thalamo",
+          "reason": "The plainer of two faithful words; the blind reader did not know tálamo."
+        },
+        {
+          "verse": "18:6b",
+          "remark": "order sounds assembled from Latin → 'a sua saída é do extremo do céu'",
+          "outcome": "taken",
+          "decision": "occursus",
+          "reason": "Order only."
+        },
+        {
+          "verse": "18:7b",
+          "remark": "the noun line hangs without a verb → 'E ele chega até o seu extremo'",
+          "outcome": "taken",
+          "decision": "occursus",
+          "reason": "Taken in part: the copula supplied (*E a sua chegada é até …*), parallel to 18:6b; his verb would unmake the noun occúrsus."
+        },
+        {
+          "verse": "18:10",
+          "remark": "'séculos' proparoxytone at the mediant → move 'e é santo' after the formula",
+          "outcome": "refused",
+          "reason": "The formula is settled (D27), and the Latin's own cadence is the proparoxytone sǽculi; his order breaks the adjective + participle series."
+        },
+        {
+          "verse": "18:11",
+          "remark": "'muita pedra preciosa' sounds like material → 'muitas pedras preciosas'",
+          "outcome": "taken",
+          "decision": "multa",
+          "reason": "Number is grammar; multus still repeated in both verses."
+        },
+        {
+          "verse": "18:13",
+          "remark": "'das estranhas' heard as odd faults → 'das alheias'",
+          "outcome": "taken",
+          "decision": "alienis",
+          "reason": "With the Latinist."
+        },
+        {
+          "verse": "18:15a",
+          "remark": "worst line; subject late, second colon unsupported → 'E serão do vosso agrado … estará sempre à vossa vista'",
+          "outcome": "option",
+          "decision": "eloquia",
+          "reason": "The line rebuilt on the Latinist's fix instead; *do vosso agrado* kept as option 2 (adds *vosso*); *estará* refused (the Latin's ellipsis)."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. 27 items, 3 unknown words (firmamento, tálamo, Exultou). Two wrong first hearings the Latin does not share — 18:3 (the second *à noite* as a time) and 18:13 (*estranhas* as odd) — both changed; the rest is the Latin's openness.",
+      "outcomes": [
+        {
+          "verse": "18:2",
+          "remark": "'das suas mãos': God's (heard first) / the firmament's",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "18:3",
+          "remark": "'O dia ao dia': unclear relation between the days; 'à noite' heard as a time",
+          "outcome": "taken",
+          "decision": "eructat",
+          "reason": "Order and articles changed (with the stylist)."
+        },
+        {
+          "verse": "18:4",
+          "remark": "the double negation may not be taken in; heard as absence of speech",
+          "outcome": "refused",
+          "decision": "quorum",
+          "reason": "The Latin's build (non sunt … quorum non); both readings are old readings of the verse."
+        },
+        {
+          "verse": "18:5",
+          "remark": "'deles': the heavens' (heard first) / days and nights",
+          "outcome": "refused",
+          "reason": "eórum as open."
+        },
+        {
+          "verse": "18:6a",
+          "remark": "'pôs a sua tenda' and 'e ele': God / the sun",
+          "outcome": "refused",
+          "decision": "tabernaculum",
+          "reason": "The Latin's unnamed subject and ipse, kept."
+        },
+        {
+          "verse": "18:6b",
+          "remark": "'Exultou': the sun (heard first) / the bridegroom / God",
+          "outcome": "refused",
+          "reason": "The Latin's subject is as open."
+        },
+        {
+          "verse": "18:7b",
+          "remark": "'seu extremo': the sun's own / heaven's",
+          "outcome": "refused",
+          "decision": "summo",
+          "reason": "ad summum ejus as open."
+        },
+        {
+          "verse": "18:8",
+          "remark": "'converte as almas': religious conversion (heard first) / restores",
+          "outcome": "refused",
+          "decision": "convertens",
+          "reason": "Heard as meant (D25's exception)."
+        },
+        {
+          "verse": "18:8",
+          "remark": "'o testemunho do Senhor': given by the Lord (heard first)",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "18:8",
+          "remark": "'aos pequeninos': children (heard first) / the humble",
+          "outcome": "refused",
+          "reason": "párvuli row: heard as children, which is the Latin."
+        },
+        {
+          "verse": "18:9",
+          "remark": "'As justiças': just acts (heard first) / norms",
+          "outcome": "refused",
+          "decision": "lucidum",
+          "reason": "justítiæ plural row; both hearings are in the Latin."
+        },
+        {
+          "verse": "18:9",
+          "remark": "'ilumina os olhos': understanding (heard first)",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "18:10",
+          "remark": "'O temor do Senhor': fear (heard first) / reverence",
+          "outcome": "refused",
+          "reason": "timor holds both."
+        },
+        {
+          "verse": "18:10",
+          "remark": "'os juízos': judgments (heard first)",
+          "outcome": "refused",
+          "reason": "Heard rightly (D15)."
+        },
+        {
+          "verse": "18:10",
+          "remark": "'justificados em si mesmos': need no outside justification (heard first)",
+          "outcome": "refused",
+          "reason": "Close to the Latin."
+        },
+        {
+          "verse": "18:11",
+          "remark": "subject: the judgments (heard first) / all the list",
+          "outcome": "refused",
+          "decision": "desiderabilia",
+          "reason": "The Latin's verbless line, as open."
+        },
+        {
+          "verse": "18:12",
+          "remark": "'os guarda': obeys (heard first) / remembers / protects",
+          "outcome": "refused",
+          "reason": "custodíre row."
+        },
+        {
+          "verse": "18:12",
+          "remark": "'muita retribuição': from God (heard first) / the fruit of keeping",
+          "outcome": "refused",
+          "reason": "retribútio row, neutral on purpose."
+        },
+        {
+          "verse": "18:13",
+          "remark": "'Quem entende as faltas?': one's own sins (heard first) / others' / absences",
+          "outcome": "refused",
+          "decision": "delicta",
+          "reason": "Heard rightly first; 'absences' only as a third reading."
+        },
+        {
+          "verse": "18:13",
+          "remark": "'faltas ocultas': hidden from others (heard first) / unknown to myself",
+          "outcome": "refused",
+          "reason": "occúlta holds both."
+        },
+        {
+          "verse": "18:13",
+          "remark": "'das estranhas': odd faults (heard first) / others' / strange women",
+          "outcome": "taken",
+          "decision": "alienis",
+          "reason": "*das alheias* (with the Latinist and stylist)."
+        },
+        {
+          "verse": "18:14b",
+          "remark": "'Se não me dominarem': the faults (heard first)",
+          "outcome": "refused",
+          "reason": "Heard rightly; tense changed for the Latinist."
+        },
+        {
+          "verse": "18:14b",
+          "remark": "'da maior falta': the gravest sin, unnamed",
+          "outcome": "refused",
+          "reason": "The Latin's delíctum máximum, unnamed."
+        },
+        {
+          "verse": "18:15a",
+          "remark": "'há de agradar': to God (heard first) / to hearers",
+          "outcome": "refused",
+          "reason": "compláceant names no one; line changed for the Latinist."
+        },
+        {
+          "verse": "18:15a",
+          "remark": "'e a meditação …': also pleasing (heard first) / only before God",
+          "outcome": "refused",
+          "reason": "The Latin's ellipsis; *serão* now carries both colons."
+        },
+        {
+          "verse": "18:2",
+          "remark": "unknown word: firmamento",
+          "outcome": "refused",
+          "decision": "firmamentum",
+          "reason": "D31 names 18:2 for firmamento."
+        },
+        {
+          "verse": "18:6a",
+          "remark": "unknown word: tálamo",
+          "outcome": "taken",
+          "decision": "thalamo",
+          "reason": "*quarto nupcial* (with the stylist)."
+        },
+        {
+          "verse": "18:6b",
+          "remark": "unknown word: Exultou",
+          "outcome": "refused",
+          "reason": "exsultáre → exultar (glossary); listed unknown before (117:15)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. Changed against draft 1: 18:3 *Um dia … ao outro dia … uma noite … à outra noite* (stylist, blind reader); 18:5 subject first (stylist; rhyme flag gone); 18:6a *quarto nupcial* (stylist, blind reader); 18:6b / 18:7b order and the copula (stylist, in part); 18:11 *muitas pedras preciosas* (stylist); 18:13 *das alheias* (Latinist major, stylist, blind reader); 18:14b *tiverem dominado* (Latinist major); 18:15a *E as palavras da minha boca serão tais que agradem* (Latinist major). Held: 18:15b *auxílio* (Latinist major; D19). Refused: 18:10 formula (Latinist minor, stylist). Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read). Script: ps018/revise_v2.py."
+    }
+  ]
+}

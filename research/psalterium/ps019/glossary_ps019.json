@@ -1,0 +1,28 @@
+{
+  "append": [
+    {"row": "| exaudíre |", "text": " Ps 19:2 *O Senhor te escute*, 19:7b *Ele o escutará*, 19:10 *e escutai-nos* (the versicle)."},
+    {"row": "| sancta / sanctum (a place) |", "text": " **Ps 19:3 *de sancto* → *do lugar santo*** (the blind reader heard an earthly sanctuary first, heaven second — the Latin's two senses; 19:7b has *de cælo sancto suo* for heaven); the Preces feriales adapt the verse (formula row)."},
+    {"row": "| consílium |", "text": " **Ps 19:5 *omne consílium tuum* → *todo o teu desígnio*** — a local exception: a person's own plan, confirmed by God (the Latinist's MAJOR on *todos os teus conselhos*, and the blind reader heard advice given to others first). Ps 20:12 *consília* follows (*desígnios*). Proposal: *conselho* for advice / a council, *desígnio* for a plan."},
+    {"row": "| magnificáre |", "text": " Ps 19:6 *magnificábimur* → *seremos engrandecidos* (the Latin; the LXX has μεγαλυνθησόμεθα)."},
+    {"row": "| Christus |", "text": " Ps 19:7a *o Senhor salvou o seu Cristo* (the blind reader heard Jesus first — the Latin's word)."},
+    {"row": "| cognóscere / novísse |", "text": " **Ps 19:7a *nunc cognóvi* → *agora soube*** (the Latinist: minor on *agora sei* on draft 1, MAJOR on the same words at the gate — the perfect of coming to know; *saber que* as 118:152). *agora sei* is option 2."},
+    {"row": "| *in nómine Dómini* |", "text": " Ps 19:6 *in nómine Dei nostri* → *em nome do nosso Deus*; 19:8 *in nómine Dómini, Dei nostri invocábimus* → *invocaremos em nome do Senhor, nosso Deus* (the blind reader heard the Lord invoked)."},
+    {"row": "| invocáre |", "text": " Ps 19:8 *invocaremos em nome do Senhor*; 19:10 *no dia em que vos invocarmos*."},
+    {"row": "| Sion / Israël |", "text": " Ps 19:3 *e de Sião te defenda* (*Sião* unknown to the blind reader — a proper name, kept)."},
+    {"row": "| fíeri, jussive *Fiat* |", "text": " **Not for *fíeri* + predicate adjective:** Ps 19:4 *holocáustum tuum pingue fiat* → *o teu holocausto se torne gordo* (the Latinist's MAJOR on *seja*: becoming, not a state; πιανάτω). See the row *fíeri + adjective*."}
+  ],
+  "terms": [
+    "| tuéri | defender (*e de Sião te defenda*) | open | Ps 19:3 only in the psalms (grep); the Preces feriales adapt it (*Et de Sion tuére eos*). Kept apart from *protégere* → proteger (19:2 *te proteja*, in the same breath) and *suscípere* → amparar (D19) |",
+    "| fíeri + adjective (*pingue fiat*) | tornar-se (*e o teu holocausto se torne gordo*) | open | Ps 19:4; the Latinist's major against *seja* (a state). Keeps *Seja* for *Fiat* standing alone (118:76, 80) |",
+    "| pinguis | gordo | open | Ps 19:4 *holocáustum … pingue* (the stylist's *rico em gordura* and *pingue* are options); the blind reader heard the fat animal first, an abundant offering second — both the Latin's. Adjective elsewhere (grep): 21:13 *tauri pingues*, 21:30, 67:16a–16b *mons pinguis*, 77:31 (substantive) |",
+    "| holocáustum | holocausto | working | Ps 19:4; 7 lines (39:7, 49:8, 50:18, 50:21, 65:13, 65:15). Unknown to the blind reader and heard beside the Holocaust — no plainer name for the whole burnt offering |",
+    "| potentátus (plural) | atos de poder (*a salvação da sua direita está em atos de poder*) | open | Ps 19:7b, the stylist's worst line on *em poderes* (δυναστεῖαι); the Latinist then called *atos de* explicit (minor, refused). 89:10 *Si autem in potentátibus* (strength of years) will need its own word — the other line (grep) |",
+    "| currus | carros de guerra (*Uns em carros de guerra, e outros em cavalos*) | open | Ps 19:8 — the blind reader heard automobiles. The only other line is 67:18 *Currus Dei* (grep), which decides for itself |",
+    "| obligáre (passive) | ser atado (*Eles foram atados, e caíram*) | open | Ps 19:9 (Greek συνεποδίσθησαν, feet bound); 124:5 *in obligatiónes* is another word |",
+    "| erígere (passive) | ser erguido (*nós, porém, nos levantamos e fomos erguidos*) | open | Ps 19:9 only (grep); the passive points to God, as the blind reader heard |"
+  ],
+  "formulas": [
+    "| *Dómine, salvum fac regem: * et exáudi nos in die, qua invocavérimus te* (19:10; the Preces feriales at Lauds, and Vespers by reference: *V. Dómine, salvum fac regem. R. Et exáudi nos in die, qua invocavérimus te*) | *Senhor, salvai o rei: * e escutai-nos no dia em que vos invocarmos* | working — Ps 19; the stylist's best line; stands alone as a versicle |",
+    "| *Mitte eis, Dómine, auxílium de sancto. R. Et de Sion tuére eos* (Preces feriales; adapts 19:3) | *Enviai-lhes, Senhor, auxílio do lugar santo. R. E de Sião defendei-os* | open — proposal only (not a psalm verse); hangs on *sanctum* and *tuéri* |"
+  ]
+}

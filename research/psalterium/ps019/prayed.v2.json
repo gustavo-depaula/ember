@@ -1,0 +1,882 @@
+{
+  "psalm": 19,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "19:2": "O Senhor {exaudiat} no dia da tribulação: * o nome do Deus de Jacó te proteja.",
+    "19:3": "Envie-te auxílio {sancto}: * e de Sião {tueatur}.",
+    "19:4": "{omnis}: * e {pingue}.",
+    "19:5": "{tribuat} segundo o teu coração: * e {consilium}.",
+    "19:6": "{laetabimur} na tua salvação: * e em nome do nosso Deus seremos engrandecidos.",
+    "19:7a": "{impleat} o Senhor todas as tuas petições: * {cognovi} que o Senhor salvou o seu Cristo.",
+    "19:7b": "{exaudiet} do seu céu santo: * {potentatibus}.",
+    "19:8": "{hi}: * nós, porém, {invocabimus}.",
+    "19:9": "Eles foram {obligati}, e caíram: * nós, porém, nos levantamos {erecti}.",
+    "19:10": "Senhor, salvai {regem}: * e {exaudi} no dia em que vos invocarmos."
+  },
+  "decisions": [
+    {
+      "id": "exaudire",
+      "refs": [
+        "19:2",
+        "19:7b",
+        "19:10"
+      ],
+      "latin": "Exáudiat te … Exáudiet illum … exáudi nos",
+      "kind": "glossary",
+      "why": "exaudíre → escutar (D3, settled), three times in the psalm, in three moods: jussive (19:2), future (19:7b), imperative (19:10). The psalm opens and closes on the verb (Exáudiat te … exáudi nos), and the Latin's frame is kept by one verb. At 19:7b the subject is supplied (ele), because the Latin leaves it in the verb ending and 'O escutará' cannot open a sentence. Douay-Rheims 'hear' throughout; Matos Soares 1932 'ouça … ouvirá … ouve-nos'.",
+      "options": [
+        {
+          "label": "escutar",
+          "forms": {
+            "exaudiat": "te escute",
+            "exaudiet": "Ele o escutará",
+            "exaudi": "escutai-nos"
+          },
+          "note": "Ruling: D3. 'escutai-nos' is safe at the vós imperative (past 'escutei'). The versicle 19:10 stands alone in the Preces (see decision regem) and reads 'e escutai-nos no dia em que vos invocarmos'.",
+          "from": "glossary"
+        },
+        {
+          "label": "ouvir",
+          "forms": {
+            "exaudiat": "te ouça",
+            "exaudiet": "Ele o ouvirá",
+            "exaudi": "ouvi-nos"
+          },
+          "note": "Matos Soares 1932's verb; audíre's in this psalter (D3). 'ouvi-nos' would pass D13 (enclitic), but the collision with audíre is the reason D3 gives, not the ban.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sancto",
+      "refs": [
+        "19:3"
+      ],
+      "latin": "Mittat tibi auxílium de sancto",
+      "kind": "glossary",
+      "why": "de sancto: 'from the holy [place]' (ἐξ ἁγίου), parallel to 'de Sion'. The glossary row sancta / sanctum (a place) → 'o lugar santo' (open, Ps 133:2), kept apart from sanctuárium → santuário (72:17, 73:7 …). auxílium (12 lines, grep; βοήθεια here) → 'auxílio', the word of adjutórium (βοήθεια too), so the two Latin nouns share one Portuguese (D15's test). The Preces feriales of Lauds (DO Psalterium/Special/Preces.txt, checked) adapt this verse: 'Mitte eis, Dómine, auxílium de sancto. R. Et de Sion tuére eos' — the wording must serve there too ('Enviai-lhes, Senhor, auxílio do lugar santo. R. E de Sião defendei-os'). Douay-Rheims 'from the sanctuary'; Matos Soares 1932 'do seu santuário' (adds 'seu').",
+      "options": [
+        {
+          "label": "do lugar santo",
+          "forms": {
+            "sancto": "do lugar santo"
+          },
+          "note": "Ruling: the glossary's open row for a holy place; nothing supplied but the noun Portuguese needs for a substantive adjective.",
+          "from": "glossary"
+        },
+        {
+          "label": "do santuário",
+          "forms": {
+            "sancto": "do santuário"
+          },
+          "note": "Douay-Rheims' 'sanctuary': plainer, but santuário is sanctuárium's word, and a church-building word in Brazil.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "tueatur",
+      "refs": [
+        "19:3"
+      ],
+      "latin": "et de Sion tueátur te",
+      "kind": "word",
+      "why": "tuéri: 'to look to, care for … guard, defend, protect' (Lewis & Short, the predominant classical sense). The Greek is ἀντιλάβοιτο, the verb behind suscípere (→ amparar, D19), but the Latin has another verb, and the Latin is translated (rule 1). tuéri occurs only here in the psalter (grep: the only tue- form). prótegat of 19:2 is 'proteja' (glossary protégere → proteger), so tuéri needs another verb for the two to stay two. Douay-Rheims 'defend thee'; Matos Soares 1932 'te proteja' (merges with 19:2).",
+      "options": [
+        {
+          "label": "te defenda",
+          "forms": {
+            "tueatur": "te defenda"
+          },
+          "note": "Ruling: Douay-Rheims' verb, Lewis & Short's 'defend'; apart from 'proteger' (19:2) and 'amparar' (suscípere). Works at the imperative in the Preces ('defendei-os'; past 'defendi', but the enclitic saves it, D13).",
+          "from": "DRB"
+        },
+        {
+          "label": "te guarde",
+          "forms": {
+            "tueatur": "te guarde"
+          },
+          "note": "Lewis & Short's 'guard'; 'guardar' is custodíre's.",
+          "from": "draft"
+        },
+        {
+          "label": "te proteja",
+          "forms": {
+            "tueatur": "te proteja"
+          },
+          "note": "Matos Soares 1932: one verb for prótegat and tueátur; two Latin verbs in two verses become one.",
+          "from": "MS1932"
+        },
+        {
+          "label": "te ampare",
+          "forms": {
+            "tueatur": "te ampare"
+          },
+          "note": "The Greek's verb (ἀντιλαμβάνομαι = suscípere → amparar); against rule 1, since the Latin has tuéri.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "omnis",
+      "refs": [
+        "19:4"
+      ],
+      "latin": "Memor sit omnis sacrifícii tui",
+      "kind": "grammar",
+      "why": "omnis + singular: 'every sacrifice of yours' (πάσης θυσίας σου). memor esse → lembrar-se de (glossary). Portuguese 'todo o teu sacrifício' is heard as 'the whole of your sacrifice'; the plural is how Portuguese says 'every' here (number is grammar, D2). Douay-Rheims 'all thy sacrifices'; Matos Soares 1932 'Tenha presentes todos os teus sacrifícios'. Heard (draft 1): the Latinist, MAJOR — «O plural é defensável como interpretação distributiva, mas altera o singular do latim» → ‘todo o teu sacrifício’; the blind reader heard ‘Lembre-se de todos os teus sacrifícios’ FIRST as an order to the listener («lembre-se dos seus sacrifícios») and ‘sacrifícios’ first as personal privations. Both taken: the singular kept by ‘cada’ (which also says ‘every’ and points to discrete offerings, not to self-denial as ‘todo o teu sacrifício’ would), and the subject named (D2: a subject hidden in a verb ending may be named) so that the jussive cannot be heard as an imperative.",
+      "options": [
+        {
+          "label": "Que ele se lembre de cada sacrifício teu",
+          "forms": {
+            "omnis": "Que ele se lembre de cada sacrifício teu"
+          },
+          "note": "Ruling (draft 2): the singular kept by ‘cada’ (the Latinist’s number; the Diurnal’s ‘cada oferta’, DM1962), the subject named so that ‘Lembre-se’ is not heard as said to the listener.",
+          "from": "latinist"
+        },
+        {
+          "label": "Que ele se lembre de todo o teu sacrifício",
+          "forms": {
+            "omnis": "Que ele se lembre de todo o teu sacrifício"
+          },
+          "note": "The Latinist’s words: the singular with ‘todo’, which is heard as ‘the whole of your sacrifice’ — the self-denial the blind reader heard first.",
+          "from": "latinist"
+        },
+        {
+          "label": "Lembre-se de todos os teus sacrifícios",
+          "forms": {
+            "omnis": "Lembre-se de todos os teus sacrifícios"
+          },
+          "note": "Draft 1 (Douay-Rheims, Matos Soares 1932): the plural for ‘every’; ‘Lembre-se’ heard first as an order to the listener.",
+          "from": "DRB"
+        },
+        {
+          "label": "Lembre-se de cada sacrifício teu",
+          "forms": {
+            "omnis": "Lembre-se de cada sacrifício teu"
+          },
+          "note": "The singular kept by 'cada' (the Diurnal's 'cada oferta', DM1962); the possessive after the noun is a slight inversion.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "pingue",
+      "refs": [
+        "19:4"
+      ],
+      "latin": "et holocáustum tuum pingue fiat",
+      "kind": "word",
+      "why": "pinguis: 'fat'; the jussive of fíeri: 'let your holocaust become fat' (τὸ ὁλοκαύτωμά σου πιανάτω, 'let it be fattened') — the fat of the offering is the sign it is accepted. A concrete image (rule 5: bones, horn, rock, fat stay concrete). The glossary's fíeri, jussive Fiat → 'Seja' (118:76, 80). pinguis recurs 21:13 tauri pingues, 21:30, 67:16 mons pinguis (grep). Douay-Rheims 'may thy whole burnt offering be made fat'; Matos Soares 1932 'lhe seja agradável' (explains the image away). Heard (draft 1): the Latinist (within the same major) — «Fiat exprime tornar-se ou ser feito; “seja” apresenta apenas um estado» → ‘se torne gordo’; the stylist — «“Gordo”, aplicado diretamente a “holocausto”, soa involuntariamente prosaico» → ‘seja rico em gordura’; the blind reader heard the fat animal first, ‘an abundant offering’ second — the image and its sense. The Latinist taken (the verb); the stylist’s ‘rico em gordura’ refused, kept as an option: it keeps the fat, but adds ‘rico’ and keeps the ‘seja’ the Latinist refused. ‘holocausto’ was listed as unknown and heard beside the Holocaust — the Latin’s word, kept.",
+      "options": [
+        {
+          "label": "o teu holocausto se torne gordo",
+          "forms": {
+            "pingue": "o teu holocausto se torne gordo"
+          },
+          "note": "Ruling (draft 2): fíeri as becoming (the Latinist; Douay-Rheims ‘be made fat’, the Greek πιανάτω ‘be fattened’). Here fíeri has a predicate adjective, so the glossary’s jussive ‘Seja’ (118:76, 80, where Fiat stands alone) does not apply.",
+          "from": "latinist"
+        },
+        {
+          "label": "o teu holocausto seja gordo",
+          "forms": {
+            "pingue": "o teu holocausto seja gordo"
+          },
+          "note": "Draft 1. the plain word for the concrete image; 'Seja' for the jussive of fíeri (glossary); ends on a paroxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "o teu holocausto seja rico em gordura",
+          "forms": {
+            "pingue": "o teu holocausto seja rico em gordura"
+          },
+          "note": "The stylist’s line: the fat kept in a noun; ‘rico’ added, and the state ‘seja’ the Latinist refused.",
+          "from": "stylist"
+        },
+        {
+          "label": "o teu holocausto seja pingue",
+          "forms": {
+            "pingue": "o teu holocausto seja pingue"
+          },
+          "note": "The Latin's own word, alive in Portuguese ('terra pingue') but rare.",
+          "from": "draft"
+        },
+        {
+          "label": "o teu holocausto lhe seja agradável",
+          "forms": {
+            "pingue": "o teu holocausto lhe seja agradável"
+          },
+          "note": "Matos Soares 1932: the image explained — refused under rule 2.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tribuat",
+      "refs": [
+        "19:5"
+      ],
+      "latin": "Tríbuat tibi secúndum cor tuum",
+      "kind": "grammar",
+      "why": "The third jussive in a row with the Lord as unnamed subject (Mittat, Memor sit, Tríbuat). tríbuere → dar (glossary row bona tríbuere; 15:7 'que me deu entendimento'). The series is kept in one build: Envie-te … Lembre-se … Dê-te. Douay-Rheims 'May he give thee according to thy own heart'; Matos Soares 1932 'Ele te dê segundo (deseja) o teu coração' (a gloss in brackets).",
+      "options": [
+        {
+          "label": "Dê-te",
+          "forms": {
+            "tribuat": "Dê-te"
+          },
+          "note": "Ruling: the jussive with the enclitic, as 19:3 'Envie-te'; nothing supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "Ele te dê",
+          "forms": {
+            "tribuat": "Ele te dê"
+          },
+          "note": "Matos Soares 1932: the subject named (D2 allows it); breaks the series of 19:3–4.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "consilium",
+      "refs": [
+        "19:5"
+      ],
+      "latin": "et omne consílium tuum confírmet",
+      "kind": "glossary",
+      "why": "consílium → conselho (glossary, working: open between advice and a deliberating body); confirmáre → confirmar (glossary, open; 118:28). omne + singular as in 19:4 → plural. The Greek has πληρώσαι ('fulfil'); the Latin reads confírmet, 'make firm, establish', and is followed. Ps 20:12 answers it: the enemies' consília 'quæ non potuérunt stabilíre' (→ 'que não puderam firmar'). Douay-Rheims 'confirm all thy counsels'; Matos Soares 1932 'cumpra todos os teus desígnios' (the Greek's verb). Heard (draft 1): the Latinist, MAJOR — «Consilium designa aqui o plano ou propósito, no singular. “Todos os teus conselhos” altera o número e sugere recomendações» → ‘todo o teu desígnio’; the blind reader heard ‘confirme todos os teus conselhos’ FIRST as «os conselhos dados a outras pessoas». Two readers against the glossary word in this place: taken. The glossary row consílium → conselho holds where the word is advice or a council (1:1, 12:2); a person’s own plan, confirmed by God, is ‘desígnio’ here (Matos Soares 1932’s word, in the singular). Cost: ‘desígnios’ was listed as unknown by a blind reader in Ps 9 — it is the Church’s word for God’s plans, and was not listed here.",
+      "options": [
+        {
+          "label": "confirme todo o teu desígnio",
+          "forms": {
+            "consilium": "confirme todo o teu desígnio"
+          },
+          "note": "Ruling (draft 2): the Latinist’s fix — the singular, and the plan (not advice).",
+          "from": "latinist"
+        },
+        {
+          "label": "confirme todos os teus conselhos",
+          "forms": {
+            "consilium": "confirme todos os teus conselhos"
+          },
+          "note": "Draft 1. the glossary's two words; plural for omne as in 19:4; ends on the paroxytone 'conselhos'.",
+          "from": "DRB"
+        },
+        {
+          "label": "confirme todo o teu conselho",
+          "forms": {
+            "consilium": "confirme todo o teu conselho"
+          },
+          "note": "The glossary word in the Latin’s number; still heard as advice (or a council).",
+          "from": "glossary"
+        },
+        {
+          "label": "cumpra todos os teus desígnios",
+          "forms": {
+            "consilium": "cumpra todos os teus desígnios"
+          },
+          "note": "Matos Soares 1932: the Greek's 'fulfil' against the Latin's confírmet; 'desígnios' was unknown to a blind reader in Ps 9.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "laetabimur",
+      "refs": [
+        "19:6"
+      ],
+      "latin": "Lætábimur in salutári tuo",
+      "kind": "grammar",
+      "why": "lætári → alegrar-se (glossary). The verse turns from 'you' (the king) to 'we' (the people). 'in salutári tuo': the king's salvation — the victory given him (D6: salutáre → salvação). A reflexive future at the head of a verse: the mesóclise 'Alegrar-nos-emos' (Matos Soares 1932) is correct but bookish; Brazilian Portuguese names the subject and puts the pronoun before the verb. Douay-Rheims 'We will rejoice in thy salvation'.",
+      "options": [
+        {
+          "label": "Nós nos alegraremos",
+          "forms": {
+            "laetabimur": "Nós nos alegraremos"
+          },
+          "note": "Ruling: the subject named (D2), the proclisis the ear expects; 'nós' also marks the turn from the king to the people.",
+          "from": "draft"
+        },
+        {
+          "label": "Alegrar-nos-emos",
+          "forms": {
+            "laetabimur": "Alegrar-nos-emos"
+          },
+          "note": "Matos Soares 1932: the mesóclise — rule 5 allows it only where it reads naturally.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "impleat",
+      "refs": [
+        "19:7a"
+      ],
+      "latin": "Ímpleat Dóminus omnes petitiónes tuas",
+      "kind": "word",
+      "why": "implére: 'fill up … fulfil' (Lewis & Short) — the Greek πληρώσαι. petítio → petição: the glossary keeps it for petítio (row postulátio: '19:7a, 36:4, 105:15'), apart from postulátio → pedido. 'Encher as petições' is not Portuguese; 'cumprir' is how a wish or a request is filled. The jussive with the subject after (as 11:4 'Extermine o Senhor'). Douay-Rheims 'The Lord fulfil all thy petitions'; Matos Soares 1932 'Ouça o Senhor todas as tuas petições' (another verb).",
+      "options": [
+        {
+          "label": "Cumpra",
+          "forms": {
+            "impleat": "Cumpra"
+          },
+          "note": "Ruling: 'fulfil', Douay-Rheims' verb.",
+          "from": "DRB"
+        },
+        {
+          "label": "Realize",
+          "forms": {
+            "impleat": "Realize"
+          },
+          "note": "The Diurnal's verb (DM1962 'realize o Senhor os teus pedidos'); 'make real', a step from 'fill'.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Satisfaça",
+          "forms": {
+            "impleat": "Satisfaça"
+          },
+          "note": "'satisfy' — keeps the filling; heard as contenting a person more than granting a request.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cognovi",
+      "refs": [
+        "19:7a"
+      ],
+      "latin": "nunc cognóvi quóniam salvum fecit Dóminus Christum suum",
+      "kind": "grammar",
+      "why": "cognóvi: the perfect of 'come to know', whose state is 'I know' (the glossary's row novit → conhece: 'perfect with present sense'). With a que-clause Portuguese says 'saber' (the glossary's cognóscere row: collocation governs, 13:4, 118:152). 'Conheci, Senhor, que' stands in 118:75, so the literal build has a precedent in this psalter; here 'agora' asks for the state. salvum fácere → salvar (glossary); Christus → Cristo (D19, which names 19:7). The speaker is suddenly 'I' — kept. Douay-Rheims 'now have I known'; Matos Soares 1932 'Agora conheci'. Heard (draft 1): the Latinist, minor — «O presente exprime defensavelmente o resultado de cognovi, mas não conserva o perfeito que enuncia a aquisição desse conhecimento» → ‘agora reconheci’. Refused: ‘reconhecer’ is to acknowledge (another verb), and the state is what the perfect of a knowing-verb says (the glossary’s novit → conhece); ‘agora conheci’ and ‘agora soube’ keep the perfect and are options. The blind reader did not stop at it.",
+      "options": [
+        {
+          "label": "agora sei",
+          "forms": {
+            "cognovi": "agora sei"
+          },
+          "note": "Ruling: the state the perfect names, in the verb Portuguese uses with 'que'.",
+          "from": "draft"
+        },
+        {
+          "label": "agora conheci",
+          "forms": {
+            "cognovi": "agora conheci"
+          },
+          "note": "The Latin's tense and verb (Douay-Rheims, Matos Soares 1932); the build of 118:75; 'conhecer que' is stiff in Brazil.",
+          "from": "MS1932"
+        },
+        {
+          "label": "agora soube",
+          "forms": {
+            "cognovi": "agora soube"
+          },
+          "note": "The perfect kept in the verb of 118:152 ('soube'); heard as 'I just found out'.",
+          "from": "draft"
+        },
+        {
+          "label": "agora reconheci",
+          "forms": {
+            "cognovi": "agora reconheci"
+          },
+          "note": "The Latinist’s fix: the perfect kept; ‘reconhecer’ is to acknowledge.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "potentatibus",
+      "refs": [
+        "19:7b"
+      ],
+      "latin": "in potentátibus salus déxteræ ejus",
+      "kind": "word",
+      "why": "potentátus: 'power, dominion' (Lewis & Short); plural here, the Greek ἐν δυναστείαις — the same Greek noun that 20:14 renders virtútes. Only one other place, 89:10 'Si autem in potentátibus, octogínta anni' (grep), where it means the strong. The colon is verbless in the Latin; Portuguese needs the copula. The plural of power, as the Latin keeps it, is left unexplained: it can be mighty deeds or powers. déxtera → a direita (glossary). Douay-Rheims 'the salvation of his right hand is in powers'; Matos Soares 1932 'em sua poderosa direita está a salvação' (makes an adjective of the plural). Heard (draft 1): the stylist’s worst line — «“Em poderes” não encontra apoio no português corrente: o ouvinte precisa reconstruir a expressão enquanto reza. A inversão aumenta essa dificuldade» → ‘a salvação da sua direita está em atos de poder’. The Latinist passed ‘em poderes’. Taken: the stylist changes how the plural is said (the natural order, and the plural of power as acts of power — δυναστεῖαι), not what it says; ‘poder’ keeps the root.",
+      "options": [
+        {
+          "label": "a salvação da sua direita está em atos de poder",
+          "forms": {
+            "potentatibus": "a salvação da sua direita está em atos de poder"
+          },
+          "note": "Ruling (draft 2): the stylist’s line — natural order, the plural said as ‘atos de poder’.",
+          "from": "stylist"
+        },
+        {
+          "label": "em poderes está a salvação da sua direita",
+          "forms": {
+            "potentatibus": "em poderes está a salvação da sua direita"
+          },
+          "note": "Draft 1. Douay-Rheims' words; the plural and the preposition kept, the copula supplied; the Latin's order, so that the verse ends on the right hand. 'poder' is virtus's word, so a reader crossing columns meets it again at 20:2 and 20:14 — where the Greek has the same δύναμις / δυναστεία family.",
+          "from": "DRB"
+        },
+        {
+          "label": "em proezas está a salvação da sua direita",
+          "forms": {
+            "potentatibus": "em proezas está a salvação da sua direita"
+          },
+          "note": "Mighty deeds named (the Diurnal's sense, 'feitos triunfais', from the Hebrew); a word of its own, but it decides the plural for 'deeds'.",
+          "from": "draft"
+        },
+        {
+          "label": "com poder vem a salvação da sua direita",
+          "forms": {
+            "potentatibus": "com poder vem a salvação da sua direita"
+          },
+          "note": "The singular and a verb of motion: smoother, two liberties.",
+          "from": "draft"
+        },
+        {
+          "label": "na sua poderosa direita está a salvação",
+          "forms": {
+            "potentatibus": "na sua poderosa direita está a salvação"
+          },
+          "note": "Matos Soares 1932: the noun made an adjective of the hand — refused (rule 2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "hi",
+      "refs": [
+        "19:8"
+      ],
+      "latin": "Hi in cúrribus, et hi in equis",
+      "kind": "word",
+      "why": "Hi … hi: 'these … those', Portuguese 'uns … outros'. The colon has no verb in the Latin (nor in the Greek) and gets none here: Douay-Rheims and Matos Soares 1932 supply 'trust / confiam', which interprets. currus → carro, the only word (67:18 Currus Dei is the other place, grep); in Brazil 'carro' is first a car — the verse's horses and the psalm's battle are left to set it; the blind reader is asked. Heard (draft 1): the blind reader heard ‘carros’ FIRST as automobiles («embora cavalos possa sugerir veículos antigos») and the verbless colon as ‘uns andam em carros’ (travel) before ‘confiam’. The first is a wrong first hearing: taken — ‘carros de guerra’ is the Portuguese name of the chariot, not a gloss on it (currus in battle, where 19:9 has the fallen). The colon stays verbless, as the Latin.",
+      "options": [
+        {
+          "label": "Uns em carros de guerra, e outros em cavalos",
+          "forms": {
+            "hi": "Uns em carros de guerra, e outros em cavalos"
+          },
+          "note": "Ruling (draft 2): the chariot named so that it is not heard as a car; verbless as the Latin.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "Uns em carros, e outros em cavalos",
+          "forms": {
+            "hi": "Uns em carros, e outros em cavalos"
+          },
+          "note": "Draft 1. the idiom for hi … hi; verbless as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Estes em carros, e aqueles em cavalos",
+          "forms": {
+            "hi": "Estes em carros, e aqueles em cavalos"
+          },
+          "note": "Matos Soares 1932's demonstratives, which point at people present.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Uns confiam em carros, e outros em cavalos",
+          "forms": {
+            "hi": "Uns confiam em carros, e outros em cavalos"
+          },
+          "note": "Douay-Rheims and Matos Soares 1932 supply the verb 'trust': an interpretation the Latin leaves out.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "invocabimus",
+      "refs": [
+        "19:8"
+      ],
+      "latin": "nos autem in nómine Dómini, Dei nostri invocábimus",
+      "kind": "word",
+      "why": "The Latin (with the Hebrew) has invocábimus where the Greek repeats 19:6's μεγαλυνθησόμεθα; the Latin is followed. 'invocáre in nómine' is the Hebraism 'call on the name', but the Latin sets the same 'in nómine' as in 19:6 ('in nómine Dei nostri magnificábimur'), and the echo is heard only if both say 'em nome de' (glossary: in nómine Dómini → em nome do Senhor, open, 117:10–12). invocáre → invocar (glossary). Douay-Rheims and Matos Soares 1932 'invoke the name of the Lord'.",
+      "options": [
+        {
+          "label": "invocaremos em nome do Senhor, nosso Deus",
+          "forms": {
+            "invocabimus": "invocaremos em nome do Senhor, nosso Deus"
+          },
+          "note": "Ruling: the Latin's preposition, answering 19:6 'em nome do nosso Deus'; 'invocar' without an object, as the Latin has none.",
+          "from": "draft"
+        },
+        {
+          "label": "invocaremos o nome do Senhor, nosso Deus",
+          "forms": {
+            "invocabimus": "invocaremos o nome do Senhor, nosso Deus"
+          },
+          "note": "Douay-Rheims and Matos Soares 1932: the idiom resolved into its sense; the echo with 19:6 lost.",
+          "from": "DRB"
+        },
+        {
+          "label": "em nome do Senhor, nosso Deus, invocaremos",
+          "forms": {
+            "invocabimus": "em nome do Senhor, nosso Deus, invocaremos"
+          },
+          "note": "The Latin's order, verb last, as 19:6.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "obligati",
+      "refs": [
+        "19:9"
+      ],
+      "latin": "Ipsi obligáti sunt, et cecidérunt",
+      "kind": "word",
+      "why": "obligáre: 'to bind, tie up' (the Greek συνεποδίσθησαν, 'were hobbled, had their feet bound' — so they fall). A passive perfect; kept passive. The only other place is 124:5 in obligatiónes (grep). Douay-Rheims 'They are bound'; Matos Soares 1932 'ficaram como que atados' (adds 'como que').",
+      "options": [
+        {
+          "label": "atados",
+          "forms": {
+            "obligati": "atados"
+          },
+          "note": "Ruling: 'bound', the plain verb of tying; Matos Soares 1932's word without his hedge.",
+          "from": "MS1932"
+        },
+        {
+          "label": "amarrados",
+          "forms": {
+            "obligati": "amarrados"
+          },
+          "note": "The everyday Brazilian verb; heard as tied up by someone, a prisoner's word.",
+          "from": "draft"
+        },
+        {
+          "label": "enredados",
+          "forms": {
+            "obligati": "enredados"
+          },
+          "note": "Entangled, near the Greek's feet caught; an image of its own (a net).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "erecti",
+      "refs": [
+        "19:9"
+      ],
+      "latin": "nos autem surréximus et erécti sumus",
+      "kind": "word",
+      "why": "surgere → levantar-se (the glossary's exsúrgere row: one Portuguese verb for the root). erígere, passive: 'we were set upright' (ἀνωρθώθημεν). Kept passive, as 3:6 kept its passive at the Latinist's insistence. erígere recurs 112:7, 144:14, 145:8b (grep: 'érigit elísos'), where God raises the fallen — the same verb, which the passive here quietly points to. The glossary's extóllere → erguer (open) and astáre → erguer-se meet it in no verse. Douay-Rheims 'are set upright'; Matos Soares 1932 'ficámos de pé'.",
+      "options": [
+        {
+          "label": "e fomos erguidos",
+          "forms": {
+            "erecti": "e fomos erguidos"
+          },
+          "note": "Ruling: the passive kept; plain; ends on a paroxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "e ficamos de pé",
+          "forms": {
+            "erecti": "e ficamos de pé"
+          },
+          "note": "Matos Soares 1932: the state, not the act; the passive lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e fomos postos de pé",
+          "forms": {
+            "erecti": "e fomos postos de pé"
+          },
+          "note": "Douay-Rheims' 'set upright' exactly; two syllables longer.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "regem",
+      "refs": [
+        "19:10"
+      ],
+      "latin": "Dómine, salvum fac regem",
+      "kind": "word",
+      "why": "The Latin has 'regem' bare; the Greek (Rahlfs, in the parallels) has τὸν βασιλέα σου, 'your king' — the Latin is followed. salvum fácere → salvar (glossary; 'salvai' safe at the vós imperative). The verse is also a versicle of the Office: in DO's Preces feriales of Lauds (and so of Vespers, which copies them) 'V. Dómine, salvum fac regem. R. Et exáudi nos in die, qua invocavérimus te.' (Psalterium/Special/Preces.txt, checked by grep — the only other place of the words in DO's Latin). So the verse is built to split at the asterisk: 'V. Senhor, salvai o rei. R. E escutai-nos no dia em que vos invocarmos.' — each half a sentence. 'in die, qua invocavérimus' (future perfect) → 'no dia em que vos invocarmos' (future subjunctive: 'whenever we shall call'). Douay-Rheims 'O Lord, save the king: and hear us in the day that we shall call upon thee'.",
+      "options": [
+        {
+          "label": "o rei",
+          "forms": {
+            "regem": "o rei"
+          },
+          "note": "Ruling: the Latin's bare noun, lowercase.",
+          "from": "draft"
+        },
+        {
+          "label": "o vosso rei",
+          "forms": {
+            "regem": "o vosso rei"
+          },
+          "note": "The Greek's possessive — refused (rule 1).",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "19:2": "The psalm speaks to the king (a single human addressee → tu, decided); God is spoken of in the third person until 19:10, where he is addressed (vós). protégere → proteger (glossary). 'nomen Dei Jacob' → 'o nome do Deus de Jacó'. The jussives are said with the subject first ('O Senhor te escute'; 'o nome … te proteja').",
+    "19:3": "The Latin names no subject for Mittat; the Lord of 19:2 is heard, as in the Latin. 'Envie-te' opens the series of enclitic jussives (19:3–5).",
+    "19:4": "memor esse → lembrar-se de (glossary). holocáustum → holocausto (7 lines, grep).",
+    "19:6": "in nómine Dei nostri → 'em nome do nosso Deus' (glossary in nómine, open); magnificári → ser engrandecido (glossary magnificáre → engrandecer).",
+    "19:7a": "Christum suum → 'o seu Cristo' (D19; the glossary row Christus names 19:7). The first person ('sei') is the Latin's sudden 'I'.",
+    "19:7b": "de cælo sancto suo → 'do seu céu santo' (adjective after, as 'monte santo').",
+    "19:8": "The Latin's 'Dómini, Dei nostri' → 'do Senhor, nosso Deus' (apposition kept).",
+    "19:9": "Ipsi → 'Eles'. 'nos levantamos' is the perfect (the Portuguese form serves present and past; 'caíram' and 'fomos' fix it as past).",
+    "19:10": "The only verse of the psalm addressed to God: vós."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm19.txt, ten prayed verses with DO's ids (19:2–19:10, 19:7a / 19:7b). No titulus (D7). DO's other use of the words checked by grep over content/do/horas/Latin: 19:10 is the versicle 'Dómine, salvum fac regem' + R. in Psalterium/Special/Preces.txt [Preces feriales Laudes] (Vespers copies Lauds there); 19:3 is adapted in the same Preces as 'Mitte eis, Dómine, auxílium de sancto. R. Et de Sion tuére eos.'"
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps019.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932 raw text, the Diurnal Monástico 1962 for rhythm only). DO's Portuguese not used (D12). Lewis & Short read for tueor. Repeats found with ps005/grep_latin.py: auxílium (12 lines), tue- (only here), holocáustum (7), pinguis (10 with the stem), petítio (3), potentátus (2: 19:7b, 89:10), obligáre (2), erígere (4), currus (2), in nómine (17), invocavérimus (only here). Septuagintal / Latin readings kept against the Hebrew: 19:3 'defenda' (tuéri, not the Hebrew's 'support'), 19:4 'seja gordo' (not 'accept'), 19:5 'confirme' (the Latin against the Greek's 'fulfil'), 19:7b 'em poderes', 19:9 'atados … fomos erguidos', 19:10 'salvai o rei: e escutai-nos' (the Latin's division, not the Hebrew's 'save; the king will answer us'). Where the Latin leaves the Greek: 19:8 invocábimus (Greek: 'we shall be magnified'), 19:10 regem (Greek: 'your king') — the Latin followed. 15 decisions. Vós imperatives: 'salvai', 'escutai-nos' (both safe)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 19:7a second colon −4 ('agora sei que' for 'nunc cognóvi quóniam'; the Latin's own colon is long in Dóminus Christum suum); 19:7b second colon +3 (the copula 'está' supplied for the verbless Latin). No rhyme flag. Every mediant and final lands on an oxytone or paroxytone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. Two majors (19:4 with two issues, 19:5) and one minor (19:7a); the marks confirmed. «A tradução conserva, em geral, o conteúdo do latim, inclusive suas imagens e construções incomuns.» Passed in particular 'do lugar santo', 'te defenda', 'em poderes', 'invocaremos em nome do Senhor', 'atados … fomos erguidos', and the versicle 19:10.",
+      "outcomes": [
+        {
+          "verse": "19:4",
+          "remark": "MAJOR: the plural 'todos os teus sacrifícios' for omnis sacrifícii tui → 'todo o teu sacrifício'",
+          "outcome": "taken",
+          "decision": "omnis",
+          "reason": "The singular kept, by 'cada' rather than his 'todo' (which the blind reader's hearing of 'sacrifício' as self-denial would make worse); his words are option 2."
+        },
+        {
+          "verse": "19:4",
+          "remark": "MAJOR (same verse): fiat is 'become', 'seja' only a state → 'se torne gordo'",
+          "outcome": "taken",
+          "decision": "pingue",
+          "reason": "fíeri with a predicate adjective; the glossary's jussive 'Seja' is for Fiat standing alone."
+        },
+        {
+          "verse": "19:5",
+          "remark": "MAJOR: consílium is a plan, singular; 'todos os teus conselhos' changes the number and suggests advice → 'todo o teu desígnio'",
+          "outcome": "taken",
+          "decision": "consilium",
+          "reason": "The blind reader heard advice given to others first; his line exactly. The glossary row gains a local exception."
+        },
+        {
+          "verse": "19:7a",
+          "remark": "minor: 'agora sei' does not keep the perfect → 'agora reconheci'",
+          "outcome": "refused",
+          "decision": "cognovi",
+          "reason": "The perfect of a knowing-verb says the state (novit → conhece); 'reconhecer' is to acknowledge. His line and the perfects 'conheci', 'soube' are options."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Two verses; best 19:10 (the versicle), worst 19:7b. «O salmo tem sobriedade e, em geral, corre bem na boca, com pausas claras e terminações adequadas ao canto … a impressão de tradução concentra-se em poucas construções, sobretudo em “em poderes”.» One taken, one kept as an option.",
+      "outcomes": [
+        {
+          "verse": "19:4",
+          "remark": "'o teu holocausto seja gordo' sounds unintentionally prosaic → 'seja rico em gordura'",
+          "outcome": "option",
+          "decision": "pingue",
+          "reason": "The Latinist's verb ('se torne') taken instead; 'rico' is added and 'seja' is the state the Latinist refused. Kept as option 3."
+        },
+        {
+          "verse": "19:7b",
+          "remark": "'em poderes' has no footing in current Portuguese; the inversion adds to it → 'a salvação da sua direita está em atos de poder' (worst line)",
+          "outcome": "taken",
+          "decision": "potentatibus",
+          "reason": "Order and the way the plural is said (acts of power, δυναστεῖαι); 'poder' keeps the root. The Latinist had passed 'em poderes'; he reads the new line at the gate."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. 23 items, 2 unknown words (Sião, holocausto). Three wrong first hearings, all mended: 19:4 'Lembre-se' as an order to the listener, 19:5 'conselhos' as advice given to others, 19:8 'carros' as automobiles. Heard rightly: the jussives of 19:2–3, 'do lugar santo', 'Ele o escutará' (the Lord), 'invocaremos em nome do Senhor' (the Lord invoked), 'fomos erguidos' (raised by God).",
+      "outcomes": [
+        {
+          "verse": "19:2",
+          "remark": "'te': the listener / a person prayed for (heard first) / the king of the last verse",
+          "outcome": "refused",
+          "reason": "The Latin's addressee is unnamed until 19:10; heard as a person prayed for, which he is."
+        },
+        {
+          "verse": "19:2",
+          "remark": "'o nome do Deus de Jacó te proteja': God himself (heard first) / the name invoked",
+          "outcome": "refused",
+          "reason": "nomen Dei Jacob holds both."
+        },
+        {
+          "verse": "19:3",
+          "remark": "'Envie-te auxílio': the Lord sends (heard first) / an order to someone",
+          "outcome": "refused",
+          "decision": "tribuat",
+          "reason": "Heard as meant."
+        },
+        {
+          "verse": "19:3",
+          "remark": "'do lugar santo': a sanctuary on earth (heard first) / heaven",
+          "outcome": "refused",
+          "decision": "sancto",
+          "reason": "de sancto holds both; heard as the Latin's first sense."
+        },
+        {
+          "verse": "19:3",
+          "remark": "'de Sião te defenda': from Sion (heard first) / against Sion",
+          "outcome": "refused",
+          "decision": "tueatur",
+          "reason": "Heard rightly; parallel to 'do lugar santo'."
+        },
+        {
+          "verse": "19:4",
+          "remark": "'Lembre-se de todos os teus sacrifícios': the Lord / an order to the listener (heard first)",
+          "outcome": "taken",
+          "decision": "omnis",
+          "reason": "Wrong first hearing: the subject named, 'Que ele se lembre'."
+        },
+        {
+          "verse": "19:4",
+          "remark": "'sacrifícios': offerings / personal privations (heard first)",
+          "outcome": "taken",
+          "decision": "omnis",
+          "reason": "'cada sacrifício teu' points to discrete offerings; the word itself is the Latin's and stays; 'holocausto' then fixes the sense."
+        },
+        {
+          "verse": "19:4",
+          "remark": "'holocausto': the burnt offering / the Holocaust (association)",
+          "outcome": "refused",
+          "decision": "pingue",
+          "reason": "The Latin's word, heard as a religious offering in context."
+        },
+        {
+          "verse": "19:4",
+          "remark": "'seja gordo': the fat animal (heard first) / an abundant offering",
+          "outcome": "refused",
+          "decision": "pingue",
+          "reason": "The image and its sense, both the Latin's."
+        },
+        {
+          "verse": "19:5",
+          "remark": "'Dê-te segundo o teu coração': what you desire (heard first) / according to your intentions",
+          "outcome": "refused",
+          "reason": "secúndum cor tuum holds both."
+        },
+        {
+          "verse": "19:5",
+          "remark": "'confirme todos os teus conselhos': your plans / advice you give to others (heard first)",
+          "outcome": "taken",
+          "decision": "consilium",
+          "reason": "Wrong first hearing; with the Latinist's major → 'todo o teu desígnio'."
+        },
+        {
+          "verse": "19:6",
+          "remark": "'na tua salvação': victory / spiritual salvation (heard first) / God's",
+          "outcome": "refused",
+          "reason": "salutáre holds all; D6."
+        },
+        {
+          "verse": "19:6",
+          "remark": "'seremos engrandecidos': honoured (heard first) / strengthened",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "19:7a",
+          "remark": "'o seu Cristo': Jesus (heard first) / an anointed man, the king",
+          "outcome": "refused",
+          "reason": "D19: the Latin's word, open to the Church's reading."
+        },
+        {
+          "verse": "19:7b",
+          "remark": "'Ele o escutará': the Lord hears his Christ (heard first) / Christ hears the Lord / the Lord hears the one prayed for",
+          "outcome": "refused",
+          "decision": "exaudire",
+          "reason": "Heard as meant; the Latin has the same pronouns."
+        },
+        {
+          "verse": "19:7b",
+          "remark": "'do seu céu santo': the Lord's (heard first) / Christ's",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "19:7b",
+          "remark": "'a salvação da sua direita': God's right hand (heard first) / Christ's / at his right side",
+          "outcome": "refused",
+          "decision": "potentatibus",
+          "reason": "Heard rightly (and still so in draft 2's order)."
+        },
+        {
+          "verse": "19:8",
+          "remark": "'Uns em carros, e outros em cavalos': they trust / they ride (heard first)",
+          "outcome": "refused",
+          "decision": "hi",
+          "reason": "The colon is verbless in the Latin; supplying 'trust' interprets (option 4)."
+        },
+        {
+          "verse": "19:8",
+          "remark": "'carros': automobiles (heard first) / ancient war vehicles",
+          "outcome": "taken",
+          "decision": "hi",
+          "reason": "Wrong first hearing → 'carros de guerra', the Portuguese name of the chariot."
+        },
+        {
+          "verse": "19:8",
+          "remark": "'invocaremos em nome do Senhor': the Lord himself (heard first) / someone else in his name",
+          "outcome": "refused",
+          "decision": "invocabimus",
+          "reason": "Heard as meant."
+        },
+        {
+          "verse": "19:9",
+          "remark": "'Eles': the men of the chariots (heard first) / the chariots and horses",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "19:9",
+          "remark": "'foram atados, e caíram': tied and fell (heard first) / prevented and defeated",
+          "outcome": "refused",
+          "decision": "obligati",
+          "reason": "The image (Greek: feet bound) and its sense."
+        },
+        {
+          "verse": "19:9",
+          "remark": "'nos levantamos e fomos erguidos': stood up helped / restored by God (heard first)",
+          "outcome": "refused",
+          "decision": "erecti",
+          "reason": "Heard rightly; the passive points to God, as the Latin's."
+        },
+        {
+          "verse": "19:3",
+          "remark": "unknown word: Sião",
+          "outcome": "refused",
+          "reason": "A proper name (glossary Sion → Sião)."
+        },
+        {
+          "verse": "19:4",
+          "remark": "unknown word: holocausto",
+          "outcome": "refused",
+          "decision": "pingue",
+          "reason": "holocáustum's own word; 7 lines in the psalter, no plainer name for the whole burnt offering."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. Five verses changed against draft 1: 19:4 'Que ele se lembre de cada sacrifício teu: * e o teu holocausto se torne gordo' (the Latinist's major — number and fíeri — and the blind reader's imperative); 19:5 'e confirme todo o teu desígnio' (the Latinist's major, with the blind reader); 19:7b 'a salvação da sua direita está em atos de poder' (the stylist's worst line); 19:8 'Uns em carros de guerra' (the blind reader heard cars). Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read). Script: ps019/revise_v2.py."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags accepted: 19:7a −4 (as draft 1); 19:7b second colon +5 ('atos de' and the copula for the verbless Latin); 19:8 first colon +4 ('de guerra'). No rhyme flag."
+    }
+  ]
+}

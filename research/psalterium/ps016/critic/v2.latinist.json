@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "11482239be338a893e75d82fac338795cb90e1a9e1e34ef7dc089b5194cee267",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T14:56:54+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"16:2\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"æquitátes\",\n          \"portuguese\": \"a equidade\",\n          \"problem\": \"O plural latino foi convertido em singular abstrato, contrariando a preservação de número exigida.\",\n          \"fix\": \"as equidades\"\n        }\n      ]\n    },\n    {\n      \"id\": \"16:14b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"adimplétus est venter eórum\",\n          \"portuguese\": \"o ventre deles se encheu\",\n          \"problem\": \"O perfeito passivo latino apresenta o ventre como tendo sido enchido; a construção pronominal portuguesa favorece a leitura de um processo intransitivo.\",\n          \"fix\": \"o ventre deles foi enchido\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o sentido latino e suas imagens incomuns, sem substituí-los pelas leituras hebraicas. Todos os sinais de divisão coincidem com os do latim, na mesma ordem.\"\n}"
+}

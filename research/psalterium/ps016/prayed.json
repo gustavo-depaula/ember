@@ -1,0 +1,1192 @@
+{
+  "psalm": 16,
+  "tier": 3,
+  "version": 4,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "16:1a": "Escutai, Senhor, a minha justiça: * atendei à minha {deprecatio}.",
+    "16:1b": "Dai ouvidos à minha oração, * {labiis}.",
+    "16:2": "Do vosso rosto {prodeat} o meu juízo: * vejam os vossos olhos {aequitates}.",
+    "16:3": "Provastes o meu coração, {visitasti} de noite: * no fogo me examinastes, e não se encontrou iniquidade em mim.",
+    "16:4": "Para que a minha boca não {loquatur} obras dos homens: * por causa das palavras dos vossos lábios, eu guardei caminhos duros.",
+    "16:5": "Aperfeiçoai os meus passos nas vossas veredas: * para que {moveantur}.",
+    "16:6": "Eu clamei, porque me escutastes, Deus: * inclinai para mim o vosso ouvido, e escutai as minhas palavras.",
+    "16:7": "{mirifica} as vossas misericórdias, * vós que salvais os que esperam em vós.",
+    "16:8a": "{resistentibus}, * como {pupillam}.",
+    "16:8b": "Sob a sombra das vossas asas protegei-me: * da face dos ímpios que me afligiram.",
+    "16:9b": "Os meus inimigos cercaram a minha alma, † {adipem}: * a boca deles falou {superbiam}.",
+    "16:11": "{proicientes}, agora me cercaram: * {declinare}.",
+    "16:12": "{susceperunt} como um leão {paratus} para a presa: * e como {catulus} que habita {abditis}.",
+    "16:13": "Levantai-vos, Senhor, {praeveni} e derrubai-o: * {frameam}.",
+    "16:14b": "Senhor, {divide} dos poucos da terra na vida deles: * o ventre deles {adimpletus} {absconditis}.",
+    "16:14c": "{saturati} de filhos: * e deixaram {reliquias} aos seus pequeninos.",
+    "16:15": "Mas eu, na justiça, aparecerei à vossa vista: * {satiabor} quando aparecer a vossa glória."
+  },
+  "decisions": [
+    {
+      "id": "deprecatio",
+      "refs": [
+        "16:1a"
+      ],
+      "latin": "inténde deprecatiónem meam",
+      "kind": "glossary",
+      "why": "deprecátio (δέησις). The glossary row deprecári / deprecátio is open: Ps 6:10 proposed the noun → 'prece' because 'súplica' is a proparoxytone and the noun stands at a cadence in 11 of its 14 verses; Ps 118:169 followed; the row asked for a ruling before Ps 16. Here it is again at a cadence (the verse's last word). inténdere → atender (D3), with 'à' as 5:3 'Atendei à voz da minha oração'. Douay-Rheims 'attend to my supplication'; Matos Soares 1932 'atende a minha súplica'.",
+      "options": [
+        {
+          "label": "prece",
+          "forms": {
+            "deprecatio": "prece"
+          },
+          "note": "Ruling: the Ps 6 proposal, the verse closing on a paroxytone; one word through the psalter, beside 'oração' (orátio, 16:1b).",
+          "from": "glossary"
+        },
+        {
+          "label": "súplica",
+          "forms": {
+            "deprecatio": "súplica"
+          },
+          "note": "Douay-Rheims' and Matos Soares 1932's noun, of one family with 118:58 'Supliquei'; a proparoxytone at the verse's end.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "labiis",
+      "refs": [
+        "16:1b"
+      ],
+      "latin": "non in lábiis dolósis",
+      "kind": "grammar",
+      "why": "The Latin has no verb: 'not in deceitful lips' (οὐκ ἐν χείλεσιν δολίοις) — the prayer is not made with lips that deceive. The 'in' is the Hebraism of means (as 11:3, where the glossary supplied 'com'). dolósus → enganador (glossary; its row names 16:1b). Douay-Rheims supplies a verb ('which proceedeth not from deceitful lips'); Matos Soares 1932 supplies two in parentheses ('(que) não é (feita) com lábios enganosos'). Portuguese needs at least a relative and a copula for the colon to be heard as said of the prayer rather than as a second command.",
+      "options": [
+        {
+          "label": "que não é de lábios enganadores",
+          "forms": {
+            "labiis": "que não é de lábios enganadores"
+          },
+          "note": "Ruling: a relative and a copula supplied (D2), nothing else; 'de' for the Latin's 'in', the lips as the prayer's source.",
+          "from": "draft"
+        },
+        {
+          "label": "não com lábios enganadores",
+          "forms": {
+            "labiis": "não com lábios enganadores"
+          },
+          "note": "The Latin's ellipsis kept, 'com' as in 11:3; heard first as a second command ('do not [hear] with lying lips') — to be tested.",
+          "from": "draft"
+        },
+        {
+          "label": "que não sai de lábios enganadores",
+          "forms": {
+            "labiis": "que não sai de lábios enganadores"
+          },
+          "note": "Douay-Rheims' 'proceedeth': supplies a verb of motion the Latin lacks.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "prodeat",
+      "refs": [
+        "16:2"
+      ],
+      "latin": "De vultu tuo judícium meum pródeat",
+      "kind": "word",
+      "why": "prodíre 'to go or come forth' (ἐξέλθοι), a jussive; judícium → juízo (D15), vultus → rosto (glossary). The verb first, as Portuguese says a wish. Douay-Rheims 'Let my judgment come forth from thy countenance'; Matos Soares 1932 'Do teu rosto (benigno) saia a minha sentença'.",
+      "options": [
+        {
+          "label": "saia",
+          "forms": {
+            "prodeat": "saia"
+          },
+          "note": "Ruling: the plain verb of going out (Matos Soares 1932's).",
+          "from": "MS1932"
+        },
+        {
+          "label": "proceda",
+          "forms": {
+            "prodeat": "proceda"
+          },
+          "note": "The cognate of the pro-; heard as 'let it be fitting' or as legal procedure.",
+          "from": "draft"
+        },
+        {
+          "label": "venha",
+          "forms": {
+            "prodeat": "venha"
+          },
+          "note": "Plainer still; loses the 'forth'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aequitates",
+      "refs": [
+        "16:2"
+      ],
+      "latin": "óculi tui vídeant æquitátes",
+      "kind": "word",
+      "why": "ǽquitas → equidade (glossary, working), here in the plural (εὐθύτητας; only place of the plural, grep). The plural of an abstract is kept as in 10:8 'as justiças' (which no blind reader heard as the courts). Douay-Rheims 'the things that are equitable'; Matos Soares 1932 'a justiça (da minha causa)'. Heard (draft 1): the stylist — «“As equidades” soa como termo técnico … O plural é pouco natural na oração em português» → ‘vejam os vossos olhos as coisas justas’; the blind reader listed ‘equidades’ as unknown. Taken in part: the singular (number is grammar, D2 — as 9:6 'pelos séculos', in the other direction); the glossary's word kept, because ‘coisas justas’ gives ǽquitas the word of justus / justítia, which the psalm has in 16:1a and 16:15. Heard (draft 2, the gate): the Latinist, MAJOR — «O plural latino foi convertido em singular abstrato» → ‘as equidades’. Taken: draft 3 returns to the plural. The singular's only gain was the ear, and the plural is grammatical Portuguese, not a slip (unlike 'sangues', D29) — as 10:8 'as justiças', which no blind reader misheard. The blind reader's 'unknown word' holds for the singular too (the glossary row: unknown four times). The rhyme with 16:3 that the singular caused is gone either way, because 16:3 now ends 'em mim'.",
+      "options": [
+        {
+          "label": "as equidades",
+          "forms": {
+            "aequitates": "as equidades"
+          },
+          "note": "Ruling (draft 3): the Latin's number, the glossary's word (as 10:8 'as justiças'); the Latinist's gate (major on the singular).",
+          "from": "latinist"
+        },
+        {
+          "label": "a equidade",
+          "forms": {
+            "aequitates": "a equidade"
+          },
+          "note": "Draft 2: the singular, for the stylist's ear; the Latinist marked the lost number major.",
+          "from": "draft"
+        },
+        {
+          "label": "as coisas justas",
+          "forms": {
+            "aequitates": "as coisas justas"
+          },
+          "note": "The stylist's line: plain, but 'justo' is justus's word (16:1a, 16:15 justítia).",
+          "from": "stylist"
+        },
+        {
+          "label": "o que é reto",
+          "forms": {
+            "aequitates": "o que é reto"
+          },
+          "note": "Douay-Rheims' way ('the things that are equitable'); the noun becomes a clause.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "visitasti",
+      "refs": [
+        "16:3"
+      ],
+      "latin": "Probásti cor meum, et visitásti nocte",
+      "kind": "grammar",
+      "why": "visitáre → visitar (glossary); the Latin gives it no object, the heart of the first member serves both. Portuguese 'visitar' wants one, so 'o' is supplied (Douay-Rheims 'visited it'; Matos Soares 1932 'e o visitaste'). probáre → provar (glossary; 11:7, 65:10 keep it apart from examináre → examinar, which follows in the same verse).",
+      "options": [
+        {
+          "label": "e o visitastes",
+          "forms": {
+            "visitasti": "e o visitastes"
+          },
+          "note": "Ruling: the pronoun supplied, as both Vulgate-family versions.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e visitastes",
+          "forms": {
+            "visitasti": "e visitastes"
+          },
+          "note": "No object, as the Latin; 'visitar' hangs.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "loquatur",
+      "refs": [
+        "16:4"
+      ],
+      "latin": "Ut non loquátur os meum ópera hóminum",
+      "kind": "grammar",
+      "why": "loqui with an accusative, 'speak the works of men' (λαλήσῃ … τὰ ἔργα). Portuguese 'falar' takes an object only in set phrases ('falar mentira', 5:7a); 'falar as obras' is not said, so the object becomes 'de' + noun. The purpose clause hangs, as in the Latin, between 16:3 and the rest of 16:4. Douay-Rheims 'That my mouth may not speak the works of men'; Matos Soares 1932 'não celebre' (another verb).",
+      "options": [
+        {
+          "label": "fale das",
+          "forms": {
+            "loquatur": "fale das"
+          },
+          "note": "Ruling: 'falar de', the verb kept, the construction Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "fale as",
+          "forms": {
+            "loquatur": "fale as"
+          },
+          "note": "The Latin's accusative; not Portuguese.",
+          "from": "DRB"
+        },
+        {
+          "label": "diga as",
+          "forms": {
+            "loquatur": "diga as"
+          },
+          "note": "'dizer' takes the object; it is dícere's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "moveantur",
+      "refs": [
+        "16:5"
+      ],
+      "latin": "ut non moveántur vestígia mea",
+      "kind": "glossary",
+      "why": "movéri → ser abalado (glossary, open: 12:5b, 9:27, 15:8 commóvear; its row lists 93:18 Motus est pes meus, so feet are within it). vestígia → pegadas (glossary open row from 17:37, which names 16:5 as the only other 'vestígia mea'); gressus in the first colon has 'passos' (17:37), so the two words stay two. σαλευθῶσιν, the Greek of the movéri row. Douay-Rheims 'that my footsteps be not moved'; Matos Soares 1932 'para que os meus pés não vacilem'.",
+      "options": [
+        {
+          "label": "não sejam abaladas as minhas pegadas",
+          "forms": {
+            "moveantur": "não sejam abaladas as minhas pegadas"
+          },
+          "note": "Ruling: the glossary's verb and noun, the Latin's passive; subject last as the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "não vacilem as minhas pegadas",
+          "forms": {
+            "moveantur": "não vacilem as minhas pegadas"
+          },
+          "note": "The movéri row's option 'vacilar' (Matos Soares 1932's verb): the plainer verb with feet, but a second verb for one Latin verb across the psalter.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mirifica",
+      "refs": [
+        "16:7"
+      ],
+      "latin": "Mirífica misericórdias tuas",
+      "kind": "glossary",
+      "why": "mirificáre → fazer maravilhoso (glossary, working; its row names 16:7; 4:4, 15:3). The plural misericórdias kept (τὰ ἐλέη). The imperative 'Fazei' is safe (past 'fiz'). Douay-Rheims 'Shew forth thy wonderful mercies'; Matos Soares 1932 'Faze brilhar dum modo maravilhoso'. Heard (draft 1): the stylist — «“Fazei maravilhosas” deixa audível a construção traduzida» → ‘Tornai maravilhosas’. Refused, as in 15:3: mirificáre → ‘fazer maravilhoso’ is the glossary's (4:4, 15:3), and the family of 'fazer' is what the Latin's -ficáre says; his verb stays option 3.",
+      "options": [
+        {
+          "label": "Fazei maravilhosas",
+          "forms": {
+            "mirifica": "Fazei maravilhosas"
+          },
+          "note": "Ruling: the glossary's verb, agreeing with the plural noun (15:3 'fez maravilhosas').",
+          "from": "glossary"
+        },
+        {
+          "label": "Mostrai maravilhosas",
+          "forms": {
+            "mirifica": "Mostrai maravilhosas"
+          },
+          "note": "Douay-Rheims' 'Shew forth': makes the mercies already wonderful, only shown.",
+          "from": "DRB"
+        },
+        {
+          "label": "Tornai maravilhosas",
+          "forms": {
+            "mirifica": "Tornai maravilhosas"
+          },
+          "note": "The stylist's verb (as the Ps 15 stylist's). Refused for the row mirificáre → 'fazer maravilhoso'.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "resistentibus",
+      "refs": [
+        "16:8a"
+      ],
+      "latin": "A resisténtibus déxteræ tuæ custódi me",
+      "kind": "order",
+      "why": "'From those who resist your right hand, keep me.' The Greek attaches ἐκ τῶν ἀνθεστηκότων τῇ δεξιᾷ σου to the end of v. 7 (the Saviour of those who hope, from those who resist); the Latin, as DO points it, begins 16:8a with it — the Latin is followed. custodíre → guardar (glossary; 15:1 left it free for this verse); déxtera → a direita (glossary). Natural order puts the imperative first. Douay-Rheims 'From them that resist thy right hand keep me'; Matos Soares 1932 'Dos que resistem à tua direita, guarda-me'.",
+      "options": [
+        {
+          "label": "Guardai-me dos que resistem à vossa direita",
+          "forms": {
+            "resistentibus": "Guardai-me dos que resistem à vossa direita"
+          },
+          "note": "Ruling: natural order (D2); the colon ends on 'direita'.",
+          "from": "draft"
+        },
+        {
+          "label": "Dos que resistem à vossa direita guardai-me",
+          "forms": {
+            "resistentibus": "Dos que resistem à vossa direita guardai-me"
+          },
+          "note": "The Latin's order (and Matos Soares 1932's).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pupillam",
+      "refs": [
+        "16:8a"
+      ],
+      "latin": "ut pupíllam óculi",
+      "kind": "word",
+      "why": "pupílla, 'the pupil of the eye', is in Latin a diminutive of pupa, 'little girl' (Lewis & Short); Portuguese has the same image in 'a menina do olho' (the idiom is 'menina dos olhos'), which is also the plain name of the pupil. Singular 'do olho' as óculi. Only place (grep; pupíllus 'orphan' is another word). Douay-Rheims 'the apple of thy eye' (adds 'thy'); Matos Soares 1932 'como a menina do olho'.",
+      "options": [
+        {
+          "label": "a menina do olho",
+          "forms": {
+            "pupillam": "a menina do olho"
+          },
+          "note": "Ruling: the Latin's own image, and the Portuguese idiom for what is guarded most (Matos Soares 1932 word for word).",
+          "from": "MS1932"
+        },
+        {
+          "label": "a pupila do olho",
+          "forms": {
+            "pupillam": "a pupila do olho"
+          },
+          "note": "The cognate: the anatomy without the idiom.",
+          "from": "draft"
+        },
+        {
+          "label": "a menina dos olhos",
+          "forms": {
+            "pupillam": "a menina dos olhos"
+          },
+          "note": "The idiom exactly; the plural is not the Latin's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adipem",
+      "refs": [
+        "16:9b"
+      ],
+      "latin": "ádipem suum conclusérunt",
+      "kind": "word",
+      "why": "'They have shut up their fat' (τὸ στέαρ αὐτῶν συνέκλεισαν): the concrete image is the Latin's (rule 5: fat stays fat), whatever it means (a heart closed and gross). adeps elsewhere 62:6, 72:7, 80:17, 147:3 (grep) — fat, fatness. suum is reflexive: their own. Douay-Rheims 'they have shut up their fat'; Matos Soares 1932 'cerraram as suas entranhas (à compaixão)' — a gloss.",
+      "options": [
+        {
+          "label": "fecharam a sua gordura",
+          "forms": {
+            "adipem": "fecharam a sua gordura"
+          },
+          "note": "Ruling: the Latin's words; 'sua' after 'os meus inimigos' is theirs.",
+          "from": "DRB"
+        },
+        {
+          "label": "fecharam a própria gordura",
+          "forms": {
+            "adipem": "fecharam a própria gordura"
+          },
+          "note": "The reflexive made explicit (as 5:11b 'seus próprios pensamentos').",
+          "from": "draft"
+        },
+        {
+          "label": "cerraram as suas entranhas",
+          "forms": {
+            "adipem": "cerraram as suas entranhas"
+          },
+          "note": "Matos Soares 1932: explains the image (rule 2 refuses).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "superbiam",
+      "refs": [
+        "16:9b"
+      ],
+      "latin": "os eórum locútum est supérbiam",
+      "kind": "grammar",
+      "why": "loqui + accusative of content, 'spoke pride' (ἐλάλησεν ὑπερηφανίαν). 'falar soberba' is not said; the content becomes manner. supérbia → soberba. eórum → 'deles', so that it is not heard as the speaker's or God's. Douay-Rheims 'their mouth hath spoken proudly'; Matos Soares 1932 'a sua boca falou com soberba'. Heard (draft 1): the Latinist, MAJOR — «A soberba é o conteúdo proferido, não apenas o modo de falar» → ‘a boca deles falou soberba’. Taken: it is the build of loqui mendácium → ‘falar mentira’ (5:7a, glossary), where Portuguese already lets ‘falar’ take a noun of what is said; the noun as content is the Latin's (and the Greek's ἐλάλησεν ὑπερηφανίαν). Both Vulgate-family versions have the manner; it stays option 2.",
+      "options": [
+        {
+          "label": "soberba",
+          "forms": {
+            "superbiam": "soberba"
+          },
+          "note": "Ruling (draft 2): the Latinist's fix; the accusative of content kept, as 'falar mentira' (5:7a).",
+          "from": "latinist"
+        },
+        {
+          "label": "com soberba",
+          "forms": {
+            "superbiam": "com soberba"
+          },
+          "note": "Draft 1 (Douay-Rheims, Matos Soares 1932): the content made manner; the Latinist marked it major.",
+          "from": "MS1932"
+        },
+        {
+          "label": "palavras soberbas",
+          "forms": {
+            "superbiam": "palavras soberbas"
+          },
+          "note": "Keeps an object by supplying a noun.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "proicientes",
+      "refs": [
+        "16:11"
+      ],
+      "latin": "Proiciéntes me nunc circumdedérunt me",
+      "kind": "word",
+      "why": "proícere → lançar (glossary, open: 1:4, 2:3 'lançar para longe de'), here without a source: 'casting me forth' (ἐκβάλλοντές με). A participle beside the finite verb, kept as a gerund (the glossary's build for participle + verb). circumdáre → cercar, the same verb as 16:9b, as the Latin repeats it. me … me kept. Douay-Rheims 'They have cast me forth and now they have surrounded me'; Matos Soares 1932 'Depois de me terem lançado fora, cercam-me agora'.",
+      "options": [
+        {
+          "label": "Lançando-me fora",
+          "forms": {
+            "proicientes": "Lançando-me fora"
+          },
+          "note": "Ruling: the glossary's verb with 'fora', which Portuguese needs where no source is named (Douay-Rheims 'forth', Matos Soares 1932 'fora').",
+          "from": "draft"
+        },
+        {
+          "label": "Tendo-me lançado fora",
+          "forms": {
+            "proicientes": "Tendo-me lançado fora"
+          },
+          "note": "The anteriority made explicit (Douay-Rheims, Matos Soares 1932 read it so); heavier.",
+          "from": "DRB"
+        },
+        {
+          "label": "Repelindo-me",
+          "forms": {
+            "proicientes": "Repelindo-me"
+          },
+          "note": "Another verb (repéllere's).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "declinare",
+      "refs": [
+        "16:11"
+      ],
+      "latin": "óculos suos statuérunt declináre in terram",
+      "kind": "ambiguity",
+      "why": "'Their eyes they have set to bend down to the earth' (τοὺς ὀφθαλμοὺς αὐτῶν ἔθεντο ἐκκλῖναι ἐν τῇ γῇ). Open: the eyes bent on the ground (a hunter's watch, or averted), or the aim of bending the speaker down to the ground (Matos Soares 1932's gloss 'para (me) lançar a terra'). statúere + infinitive → resolver (glossary, 118:106). declináre shares its root with inclína in 16:6, and the Greek has κλίνω in both (κλῖνον / ἐκκλῖναι): 'inclinar' in both keeps the echo. 'baixar os olhos' would be heard as shame or modesty. Douay-Rheims 'they have set their eyes bowing down to the earth'. Heard (draft 1): the Latinist, MAJOR — «“Resolveram” transforma a colocação dos olhos numa decisão e elimina a imagem concreta de fixá-los» → ‘fixaram os seus olhos para se inclinarem para a terra’. Taken: the eyes are statuérunt's object (ἔθεντο, 'they set'), so the glossary's statúere + infinitive → resolver (118:106, where the infinitive is the object) does not fit. His second 'para' made 'para … para'; 'à terra' is kept for in terram. The blind reader had heard draft 1 as 'lowering the gaze to the ground', its purpose uncertain — which is the Latin's openness.",
+      "options": [
+        {
+          "label": "fixaram os seus olhos para se inclinarem à terra",
+          "forms": {
+            "declinare": "fixaram os seus olhos para se inclinarem à terra"
+          },
+          "note": "Ruling (draft 2): the Latinist's line, 'à terra' for his second 'para a terra'; 'inclinar' of the family of 16:6 (κλῖνον / ἐκκλῖναι).",
+          "from": "latinist"
+        },
+        {
+          "label": "fixaram os seus olhos para se inclinarem para a terra",
+          "forms": {
+            "declinare": "fixaram os seus olhos para se inclinarem para a terra"
+          },
+          "note": "The Latinist's line exactly: 'para … para'.",
+          "from": "latinist"
+        },
+        {
+          "label": "resolveram inclinar os seus olhos para a terra",
+          "forms": {
+            "declinare": "resolveram inclinar os seus olhos para a terra"
+          },
+          "note": "Draft 1: statúere + infinitive → resolver (glossary, 118:106); the Latinist: the eyes become the infinitive's object and the setting is lost (major).",
+          "from": "draft"
+        },
+        {
+          "label": "fixaram os olhos para me lançar por terra",
+          "forms": {
+            "declinare": "fixaram os olhos para me lançar por terra"
+          },
+          "note": "Matos Soares 1932's gloss: decides the ambiguity and adds 'me' (rule 2 refuses).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "susceperunt",
+      "refs": [
+        "16:12"
+      ],
+      "latin": "Suscepérunt me sicut leo",
+      "kind": "glossary",
+      "why": "suscípere is 'amparar' with persons (D19) and 'acolher' with things (open row), and that row says 16:12 (hostile) needs a third: the lion 'takes' its prey (ὑπέλαβόν με, 'took me up, caught me'). 'Tomar' is accípere's (17:17), 'arrebatar' rápere's (7:3), 'prender' comprehéndere's. paráre → preparar (glossary); præda → presa. Douay-Rheims 'They have taken me'; Matos Soares 1932 'Arrebataram-me'.",
+      "options": [
+        {
+          "label": "Agarraram-me",
+          "forms": {
+            "susceperunt": "Agarraram-me"
+          },
+          "note": "Ruling: a plain verb of seizing, free in the glossary.",
+          "from": "draft"
+        },
+        {
+          "label": "Apanharam-me",
+          "forms": {
+            "susceperunt": "Apanharam-me"
+          },
+          "note": "'Caught me': a hunter's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Tomaram-me",
+          "forms": {
+            "susceperunt": "Tomaram-me"
+          },
+          "note": "Douay-Rheims' 'taken'; collides with accípere (17:17 'me tomou').",
+          "from": "DRB"
+        },
+        {
+          "label": "Receberam-me",
+          "forms": {
+            "susceperunt": "Receberam-me"
+          },
+          "note": "suscípere's commonest sense: says a welcome, the opposite of the lion.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "paratus",
+      "refs": [
+        "16:12"
+      ],
+      "latin": "sicut leo parátus ad prædam",
+      "kind": "word",
+      "why": "parátus, the participle as an adjective, 'ready' (ἕτοιμος). paráre → preparar is the glossary's verb (Nunc dimittis 'preparastes'); the adjective of readiness is not a verb, and Portuguese has the plainer 'pronto'. Heard (draft 1): the stylist — «“preparado para a presa” acumula sílabas e ataques em p e pr» → ‘pronto para a presa’. Taken (D2: the plainer of two faithful words); the colon also loses two of its four syllables over the Latin. 56:8 = 107:2 Parátum cor meum decide there. Douay-Rheims 'prepared for the prey'; Matos Soares 1932 'preparado'.",
+      "options": [
+        {
+          "label": "pronto",
+          "forms": {
+            "paratus": "pronto"
+          },
+          "note": "Ruling (draft 2): the stylist's word.",
+          "from": "stylist"
+        },
+        {
+          "label": "preparado",
+          "forms": {
+            "paratus": "preparado"
+          },
+          "note": "Draft 1: paráre's glossary verb as a participle; heavy in 'p' before 'presa'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "catulus",
+      "refs": [
+        "16:12"
+      ],
+      "latin": "et sicut cátulus leónis hábitans in ábditis",
+      "kind": "word",
+      "why": "cátulus leónis, the lion's whelp (σκύμνος); 56:4, 103:21 have the plural (grep). in ábditis = ἐν ἀποκρύφοις, the same Greek phrase as 9:29 in occúltis, which Ps 9 has as 'em lugares ocultos': the Latin varies, the Greek does not (D15's test), so the Portuguese repeats. 'esconderijo' is latíbulum's (17:12). The participle hábitans → 'que habita'. Douay-Rheims 'as a young lion dwelling in secret places'; Matos Soares 1932 'como um cachorro do leão, que habita nos lugares ocultos'.",
+      "options": [
+        {
+          "label": "um filhote de leão · em lugares ocultos",
+          "forms": {
+            "catulus": "um filhote de leão",
+            "abditis": "em lugares ocultos"
+          },
+          "note": "Ruling: the plain Brazilian word for the whelp; 9:29's phrase.",
+          "from": "draft"
+        },
+        {
+          "label": "um leãozinho · em lugares ocultos",
+          "forms": {
+            "catulus": "um leãozinho",
+            "abditis": "em lugares ocultos"
+          },
+          "note": "One word; heard as endearing.",
+          "from": "draft"
+        },
+        {
+          "label": "a cria do leão · em lugares escondidos",
+          "forms": {
+            "catulus": "a cria do leão",
+            "abditis": "em lugares escondidos"
+          },
+          "note": "Another pair; 'escondido' is abscónditus's (16:14b).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeveni",
+      "refs": [
+        "16:13"
+      ],
+      "latin": "prǽveni eum, et supplánta eum",
+      "kind": "glossary",
+      "why": "prævenire with a person: the glossary row left the transitive places unsettled; Ps 17:19 ruled the hostile transitive (Prævenérunt me) → 'surpreender', with 17:6 præoccupáre, on one Greek verb (προφθάνω). Here the Greek is the same verb, πρόφθασον, and the act is hostile again, God forestalling the enemy — so 'surpreender'. supplantáre → derrubar (glossary open row from 17:40, which names 16:13). 'surpreendei' and 'derrubai' are safe at the vós imperative (past 'surpreendi', 'derrubei'). Douay-Rheims 'disappoint him and supplant him'; Matos Soares 1932 'vem antes dele, e prostra-o'. Heard (draft 1): the Latinist, MAJOR — «O verbo pede antecipação: chegar antes dele ou adiantar-se a ele. Surpreender não conserva necessariamente esse sentido» → ‘antecipai-vos a ele’. Taken in substance with the verb the glossary already gives prævenire (118:147, 148 'Adiantei-me', 'se adiantaram'), which is his own second wording ('adiantar-se a ele'); 'antecipar' is left to anticipáre (76:5, 78:8), as the row says. Cost: 17:19 (the same Greek verb, hostile, the speaker as object) keeps 'surpreender' — there it is what the enemies did to him unawares, here what God does first.",
+      "options": [
+        {
+          "label": "adiantai-vos a ele",
+          "forms": {
+            "praeveni": "adiantai-vos a ele"
+          },
+          "note": "Ruling (draft 2): prævenire's glossary verb with a person; safe (past 'adiantei').",
+          "from": "latinist"
+        },
+        {
+          "label": "surpreendei-o",
+          "forms": {
+            "praeveni": "surpreendei-o"
+          },
+          "note": "Draft 1: 17:19's verb for the same Greek verb; the Latinist: the 'before' is not heard (major).",
+          "from": "draft"
+        },
+        {
+          "label": "antecipai-vos a ele",
+          "forms": {
+            "praeveni": "antecipai-vos a ele"
+          },
+          "note": "The Latinist's word: anticipáre's (76:5, 78:8).",
+          "from": "latinist"
+        },
+        {
+          "label": "ide ao encontro dele",
+          "forms": {
+            "praeveni": "ide ao encontro dele"
+          },
+          "note": "The row's suggestion for friendly transitives; here too mild. Matos Soares 1932 'vem antes dele'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "frameam",
+      "refs": [
+        "16:13"
+      ],
+      "latin": "éripe ánimam meam ab ímpio, frámeam tuam ab inimícis manus tuæ",
+      "kind": "ambiguity",
+      "why": "The Latin sets 'your sword' beside 'the wicked', undecided: the wicked one is God's sword (Douay-Rheims' punctuation and the older reading), or 'rescue your sword from the enemies of your hand' (Matos Soares 1932's gloss '(arranca) a tua espada'). The Greek is the same (ῥομφαίαν σου ἀπὸ ἐχθρῶν τῆς χειρός σου). Kept as open as the Latin, with its comma. frámea → espada (DRB 'sword'; 9:7a 'as espadas'). éripe with a source named → arrancar (glossary). Heard (draft 1): the stylist's worst line — «O segundo membro exige muito fôlego; a sucessão de artigos e possessivos pesa» → ‘tirai minha alma do ímpio, vossa espada dos inimigos de vossa mão’. Refused: it drops the articles before possessives that the style rules keep (rule 5), and 'tirar' leaves erípere's glossary verb; the colon is 26 syllables as the Latin's is. Kept as option 3 (the slot widened to the whole colon). The blind reader heard all three readings of the sword (taken from, used by, and the soul as the sword) — the Latin's openness, kept.",
+      "options": [
+        {
+          "label": "a vossa espada dos inimigos da vossa mão",
+          "forms": {
+            "frameam": "arrancai a minha alma do ímpio, a vossa espada dos inimigos da vossa mão"
+          },
+          "note": "Ruling: the Latin's words and comma; both readings stay possible.",
+          "from": "DRB"
+        },
+        {
+          "label": "a vossa espada, dos inimigos da vossa mão",
+          "forms": {
+            "frameam": "arrancai a minha alma do ímpio, a vossa espada, dos inimigos da vossa mão"
+          },
+          "note": "A comma that leans to apposition (the wicked = your sword).",
+          "from": "draft"
+        },
+        {
+          "label": "tirai minha alma do ímpio, vossa espada dos inimigos de vossa mão",
+          "forms": {
+            "frameam": "tirai minha alma do ímpio, vossa espada dos inimigos de vossa mão"
+          },
+          "note": "The stylist's line: lighter, but without the articles (rule 5) and with 'tirar' for erípere.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "divide",
+      "refs": [
+        "16:14b"
+      ],
+      "latin": "Dómine, a paucis de terra dívide eos in vita eórum",
+      "kind": "word",
+      "why": "'Divide them from the few of the earth in their life' (διαμέρισον αὐτοὺς). The bare imperative 'dividi' is also 'I divided' (rule 3), and 'dividi-os' is still 'I divided them' (D13's test fails); 'separai' is safe and is the sense Douay-Rheims and Matos Soares 1932 give ('divide them from'; 'Separa-os'). The famously obscure phrase kept as the Latin has it; Matos Soares 1932's glosses '(dos bons) … que são poucos' refused.",
+      "options": [
+        {
+          "label": "separai-os",
+          "forms": {
+            "divide": "separai-os"
+          },
+          "note": "Ruling: safe at the vós imperative; the sense of 'divide … from'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "reparti-os",
+          "forms": {
+            "divide": "reparti-os"
+          },
+          "note": "The Greek's 'distribute'; 'reparti' is also 'I shared out' (rule 3).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "absconditis",
+      "refs": [
+        "16:14b"
+      ],
+      "latin": "de abscónditis tuis adimplétus est venter eórum",
+      "kind": "word",
+      "why": "abscóndita tua, neuter plural, 'your hidden things' (τῶν κεκρυμμένων σου). A noun supplied for the substantive adjective, as 2:1 inánia → 'coisas vãs'. adimplére → encher (15:11). Natural order puts the subject first so that the verse ends on the image. Douay-Rheims 'their belly is filled from thy hidden stores'; Matos Soares 1932 'dos teus tesouros' (explains).",
+      "options": [
+        {
+          "label": "das vossas coisas escondidas",
+          "forms": {
+            "absconditis": "das vossas coisas escondidas"
+          },
+          "note": "Ruling: 'coisas' supplied, as 2:1; nothing interpreted.",
+          "from": "draft"
+        },
+        {
+          "label": "dos vossos tesouros escondidos",
+          "forms": {
+            "absconditis": "dos vossos tesouros escondidos"
+          },
+          "note": "Matos Soares 1932 / Douay-Rheims' 'stores': names what the Latin does not.",
+          "from": "MS1932"
+        },
+        {
+          "label": "do que tendes escondido",
+          "forms": {
+            "absconditis": "do que tendes escondido"
+          },
+          "note": "A clause for the neuter plural.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adimpletus",
+      "refs": [
+        "16:14b"
+      ],
+      "latin": "adimplétus est venter eórum",
+      "kind": "grammar",
+      "why": "adimplére → encher (15:11 'vós me enchereis'); here the perfect passive (ἐπλήσθη). Drafts 1–3 had the pronominal passive 'se encheu', Portuguese's everyday passive for a thing filled. The Latinist marked it minor on draft 1, minor on draft 2 and MAJOR on draft 3, the words unchanged (the variance D24 records), each time for 'foi enchido'. Taken in draft 4, verbatim: 'foi enchido' is grammatical Portuguese (the regular participle with 'ser'), it keeps the voice he asks for, and it now stands beside 16:14c 'Foram saciados', so the Latin's two passives in a row (adimplétus est … saturáti sunt) are heard as two. Douay-Rheims 'is filled'; Matos Soares 1932 'está cheio'.",
+      "options": [
+        {
+          "label": "foi enchido",
+          "forms": {
+            "adimpletus": "foi enchido"
+          },
+          "note": "Ruling (draft 4): the Latinist's fix, the perfect passive.",
+          "from": "latinist"
+        },
+        {
+          "label": "se encheu",
+          "forms": {
+            "adimpletus": "se encheu"
+          },
+          "note": "Drafts 1–3: the pronominal passive; the Latinist heard a change of state (minor, minor, major).",
+          "from": "draft"
+        },
+        {
+          "label": "ficou cheio",
+          "forms": {
+            "adimpletus": "ficou cheio"
+          },
+          "note": "The resultative with 'ficar'; natural, the agent's act less heard. Matos Soares 1932 'está cheio'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "satiate",
+      "refs": [
+        "16:14c",
+        "16:15"
+      ],
+      "latin": "Saturáti sunt fíliis … satiábor cum apparúerit glória tua",
+      "kind": "word",
+      "why": "Two Latin verbs, one Greek (ἐχορτάσθησαν / χορτασθήσομαι): the psalm closes on the contrast — they are sated with sons, I shall be sated when your glory appears. By D15's test the Portuguese keeps one verb, so the contrast is heard. saturáre 10 lines, satiáre 5 (grep); 'saciar' fits both (106:9 satiávit ánimam inánem, 131:15 saturábo pánibus). In 16:14c the reflexive (a middle, as 8:2b 'se elevou'); in 16:15 the passive, the Latin's voice, which avoids opening the colon on a clitic. Douay-Rheims 'They are full of children … I shall be satisfied'; Matos Soares 1932 'Fartaram-se … saciar-me-ei'. Heard (draft 1): the Latinist, minor — the reflexive may say they sated themselves; the Latin is passive → ‘Foram saciados de filhos’. Taken: with the passive in both verses the psalm's last contrast is heard in one form (foram saciados … serei saciado). The blind reader heard 'they had many children' in draft 1.",
+      "options": [
+        {
+          "label": "Foram saciados · serei saciado",
+          "forms": {
+            "saturati": "Foram saciados",
+            "satiabor": "serei saciado"
+          },
+          "note": "Ruling (draft 2): the Latin's passive both times; one verb, one voice (the Latinist).",
+          "from": "latinist"
+        },
+        {
+          "label": "Saciaram-se · serei saciado",
+          "forms": {
+            "saturati": "Saciaram-se",
+            "satiabor": "serei saciado"
+          },
+          "note": "Draft 1: the reflexive as a middle (8:2b se elevou).",
+          "from": "draft"
+        },
+        {
+          "label": "Fartaram-se · saciar-me-ei",
+          "forms": {
+            "saturati": "Fartaram-se",
+            "satiabor": "saciar-me-ei"
+          },
+          "note": "Matos Soares 1932: two verbs, the contrast weakened; a mesóclise.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "reliquias",
+      "refs": [
+        "16:14c"
+      ],
+      "latin": "et dimisérunt relíquias suas párvulis suis",
+      "kind": "word",
+      "why": "relíquiæ, 'what is left over' (τὰ κατάλοιπα); only here (grep). párvuli → pequeninos (glossary). dimíttere here 'leave' (the Nunc dimittis row is another sense). Douay-Rheims 'the rest of their substance' (adds); Matos Soares 1932 'o resto dos seus bens aos seus netos' (adds, and changes párvuli).",
+      "options": [
+        {
+          "label": "as suas sobras",
+          "forms": {
+            "reliquias": "as suas sobras"
+          },
+          "note": "Ruling: what is left after eating, fitting 'saciaram-se'; the plural kept.",
+          "from": "draft"
+        },
+        {
+          "label": "o seu resto",
+          "forms": {
+            "reliquias": "o seu resto"
+          },
+          "note": "Matos Soares 1932's noun, singular.",
+          "from": "MS1932"
+        },
+        {
+          "label": "os seus restos",
+          "forms": {
+            "reliquias": "os seus restos"
+          },
+          "note": "The plural; heard as mortal remains.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "16:1a": "exaudíre → escutar (D3), inténdere → atender (D3): the two verbs stand side by side here, as D3 foresaw (16:1).",
+    "16:1b": "Áuribus pércipe → 'Dai ouvidos a' (D4; its row names 16:1b). orátio → oração.",
+    "16:2": "Jussive subjunctives with the verb first ('saia', 'vejam'), as Portuguese says a wish.",
+    "16:3": "examináre → examinar, 'no fogo' as 11:7 and 17:31 ('examinadas no fogo'). 'não se encontrou iniquidade em mim': the pronominal passive for 'non est invénta'; no article, as the Latin. Draft 2 moves 'em mim' to the end (draft 1 'não se encontrou em mim iniquidade'): with 16:2's singular 'a equidade' the two verses would end in a rhyme (-idade) the Latin does not have (checks).",
+    "16:4": "propter → por causa de (glossary). custodíre vias → 'guardar caminhos', as 17:22 'guardei os caminhos do Senhor'. verba → palavras. ego kept ('eu guardei').",
+    "16:5": "perfícere → aperfeiçoar (glossary: tried on the imperative 79:16; 17:34 'Que aperfeiçoou os meus pés'); 'aperfeiçoai' is safe (past 'aperfeiçoei'). gressus → passos (17:37); sémita → vereda (D15).",
+    "16:6": "exaudísti / exáudi → escutastes / escutai (D3). Deus bare in the vocative (glossary). inclína aurem tuam mihi → 'inclinai para mim o vosso ouvido' (proposed as a formula: 44:11, 87:3); 'inclinai' is safe (past 'inclinei'). quóniam → porque, the Latin's reading.",
+    "16:7": "salvos fácere → salvar (glossary); speráre in → esperar em. 'vós que' names the subject of the relative after the imperative.",
+    "16:8b": "sub → sob (glossary); alæ → asas; protégere → proteger ('protegei' ≠ 'protegi'); a fácie → 'da face de' (glossary); afflígere → afligir, perfect kept.",
+    "16:9b": "circumdáre → cercar (and again 16:11, as the Latin repeats it). eórum → 'deles'.",
+    "16:11": "nunc → agora.",
+    "16:12": "'preparado para a presa' (paráre → preparar, glossary).",
+    "16:13": "Exsúrge, Dómine → 'Levantai-vos, Senhor' (the formula of the exsúrgere row).",
+    "16:14b": "'deles … deles' as eórum … eórum.",
+    "16:15": "ego autem → 'mas eu' (glossary); in justítia → 'na justiça' (not 'com'); conspéctui tuo → 'à vossa vista' (the glossary's vista); apparére twice → aparecer twice, as the Latin."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm16.txt, seventeen prayed verses with DO's ids (16:1a, 1b, 2, 3, 4, 5, 6, 7, 8a, 8b, 9b, 11, 12, 13, 14b, 14c, 15); inline (9a), (10), (14a) markers not reproduced. Collated against the Clementine Vulgate fetched from Bolls (consult/bolls-VULG-19-16.json): identical (Projiciéntes / Proiciéntes is spelling)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps016.md (LXX, Hebrew, Douay-Rheims, Matos Soares 1932 text layer, the Diurnal — from the Hebrew, not used for sense). DO's Portuguese not used (D12). Repeats checked with ps005/grep_latin.py: inclína aurem (3 lines), pupíll- (6: only here the eye), adeps (5), ábditis (1), abscónd- (9), satur- (10), satia- (5), frámea (4), cátulus (3); 9:29 ἐν ἀποκρύφοις read in consult/parallels/ps009.md. Septuagintal readings kept against the Hebrew: 16:1b 'não … de lábios enganadores', 16:3 'e não se encontrou em mim iniquidade', 16:4 'as obras dos homens … caminhos duros', 16:7 order of 16:7–8a as the Latin points it, 16:9b 'a sua gordura', 16:11 'Lançando-me fora', 16:12 'Agarraram-me', 16:13 the sword, 16:14b 'dos poucos da terra … coisas escondidas', 16:14c 'de filhos', 16:15 'aparecerei … quando aparecer a vossa glória'. Rule 3 traps met: 'dividi' (→ separai-os). 22 decisions."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 16:1a last colon −3 ('prece' for deprecatiónem); 16:1b −3 / +3 (the relative and copula supplied); 16:3 first colon +4 (the object 'o' supplied); 16:4 first colon +4; 16:5 last colon +4 (the Latin's passive); 16:6 −4 / +5 (the Latin's words, Portuguese articles and possessives); 16:7 +3; 16:12 +4 / +5 (the lion's two images whole); 16:14b −3; 16:15 −3 / +3. No rhyme flag."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. Three majors and two minors; the marks confirmed. «A tradução conserva em geral o sentido latino, inclusive suas imagens insólitas.» Three taken, one taken in part (16:13, with the glossary's verb), one refused.",
+      "outcomes": [
+        {
+          "verse": "16:9b",
+          "remark": "MAJOR: 'falou com soberba' makes the content a manner → 'falou soberba'",
+          "outcome": "taken",
+          "decision": "superbiam",
+          "reason": "The build of loqui mendácium → 'falar mentira' (5:7a); 'com soberba' kept as option 2."
+        },
+        {
+          "verse": "16:11",
+          "remark": "MAJOR: 'resolveram' turns the setting of the eyes into a decision → 'fixaram os seus olhos para se inclinarem para a terra'",
+          "outcome": "taken",
+          "decision": "declinare",
+          "reason": "The eyes are statuérunt's object (ἔθεντο). His line with 'à terra' for the second 'para a terra'."
+        },
+        {
+          "verse": "16:13",
+          "remark": "MAJOR: 'surpreendei-o' loses the anticipation of prǽveni → 'antecipai-vos a ele'",
+          "outcome": "taken",
+          "decision": "praeveni",
+          "reason": "Taken in substance: 'adiantai-vos a ele', prævenire's glossary verb (118:147) and his own gloss 'adiantar-se a ele'; 'antecipar' is anticipáre's. His word is option 3."
+        },
+        {
+          "verse": "16:14b",
+          "remark": "minor: 'se encheu' admits an inchoative reading → 'foi enchido'",
+          "outcome": "refused",
+          "reason": "The pronominal passive is Portuguese's passive for a thing filled; 'foi enchido' is not said. The blind reader heard the belly filled with God's hidden goods. (Taken in draft 4, when the same words drew a major on draft 3 — see decision adimpletus.)",
+          "decision": "adimpletus"
+        },
+        {
+          "verse": "16:14c",
+          "remark": "minor: 'Saciaram-se' may be read as their own doing → 'Foram saciados de filhos'",
+          "outcome": "taken",
+          "decision": "satiate",
+          "reason": "The passive in both verses makes the psalm's last contrast one form: foram saciados … serei saciado."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Four verses; best 16:1a, worst 16:13. «O salmo tem sobriedade e boas terminações para o canto … boa parte da estranheza pertence às próprias imagens e deve permanecer.» One taken, one taken in part, two refused with options.",
+      "outcomes": [
+        {
+          "verse": "16:2",
+          "remark": "'as equidades' sounds technical; the plural unnatural → 'as coisas justas'",
+          "outcome": "option",
+          "decision": "aequitates",
+          "reason": "Taken in part in draft 2 (the singular 'a equidade'), undone in draft 3 at the Latinist gate's major on the number; 'justo' is justus's word, so his noun is option 3."
+        },
+        {
+          "verse": "16:7",
+          "remark": "'Fazei maravilhosas' sounds translated → 'Tornai maravilhosas'",
+          "outcome": "option",
+          "decision": "mirifica",
+          "reason": "mirificáre → 'fazer maravilhoso' (glossary; 4:4, 15:3); refused as in Ps 15."
+        },
+        {
+          "verse": "16:12",
+          "remark": "'preparado para a presa' piles up p / pr → 'pronto para a presa'",
+          "outcome": "taken",
+          "decision": "paratus",
+          "reason": "The plainer of two faithful words for the participle-adjective (D2)."
+        },
+        {
+          "verse": "16:13",
+          "remark": "worst line: the second colon too long, articles and possessives heavy → 'tirai minha alma do ímpio, vossa espada dos inimigos de vossa mão'",
+          "outcome": "option",
+          "decision": "frameam",
+          "reason": "Drops the article before possessives (rule 5) and erípere's verb; the colon is the Latin's own length (26)."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only. 22 items, 2 unknown words (equidades, veredas). No wrong first hearing that the Latin does not share; the openness it found (16:4 which clause the purpose serves, 16:13 the sword, 16:13 the switch to the singular 'o', 16:14b whose belly) is the Latin's.",
+      "outcomes": [
+        {
+          "verse": "16:1a",
+          "remark": "'a minha justiça': my just conduct / my plea for justice (heard first)",
+          "outcome": "refused",
+          "reason": "justítia meam holds both."
+        },
+        {
+          "verse": "16:2",
+          "remark": "'o meu juízo': God's judgment of me (heard first) / my discernment",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "16:3",
+          "remark": "'no fogo me examinastes': trials (heard first) / real fire",
+          "outcome": "refused",
+          "reason": "igne: the Latin's image, heard as meant."
+        },
+        {
+          "verse": "16:4",
+          "remark": "the purpose clause: serves the testing before / the hard ways after (heard first)",
+          "outcome": "refused",
+          "decision": "loquatur",
+          "reason": "The Latin hangs it the same way."
+        },
+        {
+          "verse": "16:4",
+          "remark": "'eu guardei caminhos duros': followed (heard first, uncertain) / watched / remembered",
+          "outcome": "refused",
+          "reason": "custodíre vias → 'guardar os caminhos' (17:22); DRB 'kept hard ways'."
+        },
+        {
+          "verse": "16:5",
+          "remark": "'os meus passos nas vossas veredas': way of life (heard first) / concrete paths",
+          "outcome": "refused",
+          "reason": "The image, heard as meant."
+        },
+        {
+          "verse": "16:5",
+          "remark": "'não sejam abaladas as minhas pegadas': keep firm (heard first) / footprints not altered",
+          "outcome": "refused",
+          "decision": "moveantur",
+          "reason": "Heard rightly; vestígia → pegadas (17:37)."
+        },
+        {
+          "verse": "16:7",
+          "remark": "'esperam em vós': trust (heard first) / wait",
+          "outcome": "refused",
+          "reason": "speráre holds both."
+        },
+        {
+          "verse": "16:8a",
+          "remark": "'os que resistem à vossa direita': oppose God's power (heard first) / stand at God's right",
+          "outcome": "refused",
+          "decision": "resistentibus",
+          "reason": "Heard rightly first; 'mão direita' would add a word (déxtera → a direita, glossary)."
+        },
+        {
+          "verse": "16:9b",
+          "remark": "'a minha alma': spiritual part (heard first) / my life",
+          "outcome": "refused",
+          "reason": "ánima holds both (glossary ánima mea)."
+        },
+        {
+          "verse": "16:9b",
+          "remark": "'fecharam a sua gordura': their own (heard first); what it means unclear",
+          "outcome": "refused",
+          "decision": "adipem",
+          "reason": "The Latin's image, unexplained (rule 2); the owner heard rightly."
+        },
+        {
+          "verse": "16:11",
+          "remark": "'inclinar os seus olhos para a terra': lowering the gaze (heard first); purpose uncertain",
+          "outcome": "refused",
+          "decision": "declinare",
+          "reason": "The Latin's openness; the line changed for the Latinist's reason, not this."
+        },
+        {
+          "verse": "16:13",
+          "remark": "'surpreendei-o e derrubai-o': the enemy in the singular (heard first) / the lion",
+          "outcome": "refused",
+          "reason": "The Latin's own switch to eum after the plurals."
+        },
+        {
+          "verse": "16:13",
+          "remark": "the sword: taken from the enemies / used to save (heard first) / the soul as the sword",
+          "outcome": "refused",
+          "decision": "frameam",
+          "reason": "The Latin's ambiguity, kept."
+        },
+        {
+          "verse": "16:13",
+          "remark": "'dos inimigos da vossa mão': opposing God's power (heard first) / under his hand",
+          "outcome": "refused",
+          "reason": "inimíci manus tuæ holds both."
+        },
+        {
+          "verse": "16:14b",
+          "remark": "'na vida deles': the enemies' (heard first) / the few's",
+          "outcome": "refused",
+          "decision": "divide",
+          "reason": "eórum as open."
+        },
+        {
+          "verse": "16:14b",
+          "remark": "'o ventre deles': the enemies' (heard first) / the few's",
+          "outcome": "refused",
+          "reason": "eórum as open."
+        },
+        {
+          "verse": "16:14b",
+          "remark": "'das vossas coisas escondidas': goods kept by God (heard first) / hidden mysteries",
+          "outcome": "refused",
+          "decision": "absconditis",
+          "reason": "abscóndita holds both."
+        },
+        {
+          "verse": "16:14c",
+          "remark": "'Saciaram-se de filhos': had many children (heard first)",
+          "outcome": "refused",
+          "decision": "satiate",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "16:14c",
+          "remark": "'as suas sobras': food leftovers (heard first) / remaining goods",
+          "outcome": "refused",
+          "decision": "reliquias",
+          "reason": "relíquiæ holds both; the belly and the sating lean to the first, as meant."
+        },
+        {
+          "verse": "16:15",
+          "remark": "'na justiça, aparecerei à vossa vista': as a just man (heard first) / at a judgment",
+          "outcome": "refused",
+          "reason": "Heard rightly."
+        },
+        {
+          "verse": "16:2",
+          "remark": "unknown word: equidades",
+          "outcome": "taken",
+          "decision": "aequitates",
+          "reason": "The singular 'a equidade' (with the stylist); the glossary word stays."
+        },
+        {
+          "verse": "16:5",
+          "remark": "unknown word: veredas",
+          "outcome": "refused",
+          "reason": "sémita → vereda (D15)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. Changed against draft 1: 16:2 'a equidade' (singular; stylist, blind reader); 16:3 'e não se encontrou iniquidade em mim' (order only, so that 16:2 and 16:3 do not end in the rhyme equidade / iniquidade that checks flagged); 16:9b 'falou soberba' (Latinist major); 16:11 'fixaram os seus olhos para se inclinarem à terra' (Latinist major); 16:12 'pronto para a presa' (stylist); 16:13 'adiantai-vos a ele' (Latinist major, with the glossary's verb); 16:14c 'Foram saciados' (Latinist minor). Slot of 16:13 widened to the whole second colon so the stylist's line can be chosen; new decision 'paratus'. Refused: 16:14b 'foi enchido', 16:7 'Tornai', 16:13 the stylist's line. Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the three v1 critics read). Script: ps016/revise_v2.py."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags as draft 1 except 16:4 first colon +3 and 16:12 first colon (now within 2). 16:3 reordered so that 16:2 'a equidade' and 16:3 'iniquidade' do not rhyme (the flag checks raised on the first run of draft 2)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. One major, one minor; the marks confirmed; every change of draft 2 but 16:2 passed (16:9b 'falou soberba', 16:11 'fixaram os seus olhos para se inclinarem à terra', 16:12 'pronto', 16:13 'adiantai-vos a ele', 16:14c 'Foram saciados', 16:3's order).",
+      "outcomes": [
+        {
+          "verse": "16:2",
+          "remark": "MAJOR: the Latin's plural made an abstract singular → 'as equidades'",
+          "outcome": "taken",
+          "decision": "aequitates",
+          "reason": "Draft 3 returns to draft 1's plural: grammatical, the Latin's, and the singular's gain was only the ear."
+        },
+        {
+          "verse": "16:14b",
+          "remark": "minor (repeated): 'se encheu' favours an intransitive process → 'foi enchido'",
+          "outcome": "refused",
+          "reason": "As at draft 1: the pronominal passive is how Portuguese says a thing was filled; 'foi enchido' is not said. (Taken in draft 4, when the same words drew a major on draft 3 — see decision adimpletus.)",
+          "decision": "adimpletus"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3. One word: 16:2 'as equidades' again (the gate's major). Draft 2 is prayed.v2.json (flat text prayed.v2.vos.json, the file the v2 gate read). Script: ps016/revise_v3.py."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 3: hard pass; soft flags as draft 2, no rhyme flag."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "note": "Draft 3 — the gate re-run on the restored plural (16:2 passed). One major, one minor; the marks confirmed.",
+      "outcomes": [
+        {
+          "verse": "16:14b",
+          "remark": "MAJOR (minor on drafts 1 and 2, words unchanged): 'se encheu' does not keep the perfect passive → 'o ventre deles foi enchido das vossas coisas escondidas'",
+          "outcome": "taken",
+          "decision": "adimpletus",
+          "reason": "Verbatim in draft 4: grammatical, and it pairs with 16:14c 'Foram saciados'."
+        },
+        {
+          "verse": "16:11",
+          "remark": "minor: 'para se inclinarem' may make the enemies bend, not the eyes → 'determinaram inclinar os seus olhos para a terra'",
+          "outcome": "refused",
+          "decision": "declinare",
+          "reason": "The words are his own fix to draft 1, which had exactly this build ('resolveram inclinar os seus olhos') and which he then marked MAJOR for losing the setting of the eyes. The nearest plural subject of 'se inclinarem' is 'os seus olhos', and the blind reader heard the gaze lowered. Draft 1's build stays option 3."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 4,
+      "note": "v4. One verb: 16:14b 'o ventre deles foi enchido das vossas coisas escondidas' (the Latinist's own words, taken verbatim; new decision 'adimpletus'). Not re-read by a critic: the change is the gate's fix word for word. Draft 3 is prayed.v3.json (flat text prayed.v3.vos.json). Script: ps016/revise_v4.py."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 4: hard pass (checks.py exit 0). Soft flags: 16:1a −3, 16:1b −3 / +3, 16:3 +4, 16:4 +3, 16:5 +4, 16:6 −4 / +5, 16:7 +3, 16:12 second colon +5, 16:14b first colon −3,16:15 −3 / +3 — each accepted for the reason given at draft 1; no rhyme flag."
+    }
+  ]
+}

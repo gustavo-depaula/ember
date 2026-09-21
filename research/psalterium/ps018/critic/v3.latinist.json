@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "d7e0d6c85bc67f11449f470dd3d0b51432ef06e8a0aa640cbba905bc74437454",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T15:17:55+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"18:10\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula portuguesa conserva o sentido de perpetuidade, mas passa ao plural os dois substantivos singulares do latim.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    },\n    {\n      \"id\": \"18:11\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"lápidem pretiósum multum\",\n          \"portuguese\": \"muitas pedras preciosas\",\n          \"problem\": \"O singular coletivo latino foi convertido em plural, contrariando a regra de conservação do número.\",\n          \"fix\": \"muita pedra preciosa\"\n        }\n      ]\n    },\n    {\n      \"id\": \"18:13\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"ab aliénis\",\n          \"portuguese\": \"dos estranhos\",\n          \"problem\": \"A tradução privilegia pessoas estranhas. O latim conserva também a possibilidade de faltas alheias, em contraste com «occúltis meis»; essa ambiguidade deve permanecer.\",\n          \"fix\": \"dos alheios\"\n        }\n      ]\n    },\n    {\n      \"id\": \"18:15b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"adjútor meus\",\n          \"portuguese\": \"meu auxílio\",\n          \"problem\": \"«Adjútor» designa aquele que auxilia; «auxílio» substitui a designação pessoal pela ajuda prestada.\",\n          \"fix\": \"meu auxiliador\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o sentido e as particularidades do latim; os desvios identificados estão indicados acima. Todos os versículos apresentam os mesmos sinais de divisão, na mesma ordem que o original.\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "afd19f65eb3ecf5cb68029a55facd069d8411081fb4ed1cc612f3b89e0a1b5fa",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T15:19:13+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"18:10\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A expressão conserva o sentido de perpetuidade, mas pluraliza os dois substantivos que o latim mantém no singular, contra a regra de conservação do número.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    },\n    {\n      \"id\": \"18:11\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"lápidem pretiósum multum\",\n          \"portuguese\": \"muitas pedras preciosas\",\n          \"problem\": \"O singular quantitativo do latim foi convertido em plural contável. Embora defensável como tradução corrente, a mudança contraria a regra de conservação do número.\",\n          \"fix\": \"muita pedra preciosa\"\n        }\n      ]\n    },\n    {\n      \"id\": \"18:15b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"adjútor meus\",\n          \"portuguese\": \"meu auxílio\",\n          \"problem\": \"Adjútor designa aquele que ajuda; «auxílio» designa a ajuda. A tradução substitui a designação pessoal por uma abstração.\",\n          \"fix\": \"meu auxiliador\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o sentido do latim e suas particularidades, com as ressalvas indicadas. Todos os versículos apresentam as mesmas marcas de divisão, na mesma ordem que o latim.\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "1dd1aab20ffd40822f164401b455a2346c723f2faf2949422cb51ab9f0d5aa6a",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T15:03:30+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"20:11\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"semen eórum\",\n          \"portuguese\": \"a sua descendência\",\n          \"problem\": \"«Descendência» explicita o referente da imagem de «semente», que o latim conserva em paralelo com «fruto».\",\n          \"fix\": \"a sua semente\"\n        }\n      ]\n    },\n    {\n      \"id\": \"20:13\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"pones eos dorsum\",\n          \"portuguese\": \"os fareis ficar de costas\",\n          \"problem\": \"O latim faz de «dorso» o predicativo dos inimigos. A tradução resolve essa construção insólita como uma postura corporal, acrescentando «ficar».\",\n          \"fix\": \"fareis deles um dorso\"\n        }\n      ]\n    },\n    {\n      \"id\": \"20:14\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Exaltáre\",\n          \"portuguese\": \"Exaltai-vos\",\n          \"problem\": \"O imperativo latino é passivo. A forma reflexiva é defensável como leitura média, mas pode atribuir ao Senhor a ação de exaltar a si mesmo.\",\n          \"fix\": \"Sede exaltado\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução é geralmente adequada ao latim, mas substitui uma imagem por sua interpretação e resolve uma construção deliberadamente insólita; o imperativo final também admite maior fidelidade à voz latina. Todos os versículos conservam os mesmos sinais salmódicos na mesma ordem: um único * por versículo.\"\n}"
+}

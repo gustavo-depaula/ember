@@ -1,0 +1,10 @@
+[
+  {"step": "checks", "note": "Draft 4: hard pass (checks.py exit 0). Soft flags: 18:3 +6 / +5, 18:6a −5 / +3, 18:6b +4, 18:9 +3, 18:10 +5, 18:13 +4 — each accepted for the reason given at drafts 1–2; no rhyme flag."},
+  {"step": "latinist", "file": "critic/v4.latinist.json",
+   "note": "Draft 4, the gate. One major (held), two minors (refused). «A tradução conserva, em geral, o sentido do latim e suas particularidades.» 18:13 *dos alheios* passed.",
+   "outcomes": [
+     {"verse": "18:10", "remark": "minor, fourth time: 'pelo século do século'", "outcome": "refused", "reason": "D27."},
+     {"verse": "18:11", "remark": "minor: 'muita pedra preciosa' («defensável como tradução corrente»)", "outcome": "refused", "decision": "multa", "reason": "Number is grammar (D2); the stylist asked for the plural."},
+     {"verse": "18:15b", "remark": "MAJOR, fourth time: 'meu auxiliador'", "outcome": "refused", "decision": "adjutor", "reason": "HELD: D19 fixes adjútor → auxílio; one Latin word not split in one verse. For a ruling: here, beside *redentor*, is the strongest case against the row (77:35 has the same pair)."}
+   ]}
+]

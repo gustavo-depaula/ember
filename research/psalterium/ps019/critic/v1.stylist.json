@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "e8775f2d946889d8604460e1e7e60802bb35d2e9e37e152df3a2ba0ecd13f31c",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T14:54:42+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"19:4\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"o teu holocausto seja gordo\",\n          \"problem\": \"“Gordo”, aplicado diretamente a “holocausto”, soa involuntariamente prosaico. A imagem da gordura pode ficar numa construção mais natural.\",\n          \"alternative\": \"Lembre-se de todos os teus sacrifícios: * e o teu holocausto seja rico em gordura.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"19:7b\",\n      \"fails\": [\"plain\", \"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"em poderes está a salvação da sua direita\",\n          \"problem\": \"“Em poderes” não encontra apoio no português corrente: o ouvinte precisa reconstruir a expressão enquanto reza. A inversão aumenta essa dificuldade.\",\n          \"alternative\": \"Ele o escutará do seu céu santo: * a salvação da sua direita está em atos de poder.\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo tem sobriedade e, em geral, corre bem na boca, com pausas claras e terminações adequadas ao canto. Não há rimas insistentes entre as metades; a impressão de tradução concentra-se em poucas construções, sobretudo em “em poderes”.\",\n  \"worstLine\": \"19:7b\",\n  \"bestLine\": \"19:10\"\n}"
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "baa067ddddebcc525193a6052e7fc661f82e170131f9410de0ed5677936776b2",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T15:01:03+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"19:7a\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"nunc cognóvi\",\n          \"portuguese\": \"agora sei\",\n          \"problem\": \"O perfeito exprime a aquisição do conhecimento; o presente conserva apenas o estado resultante. Embora seja uma tradução idiomática defensável, não preserva o tempo exigido pela regra do projeto.\",\n          \"fix\": \"agora soube\"\n        }\n      ]\n    },\n    {\n      \"id\": \"19:7b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in potentátibus\",\n          \"portuguese\": \"em atos de poder\",\n          \"problem\": \"«Atos de poder» é uma interpretação defensável, mas explicita atos onde o latim conserva a expressão mais aberta «poderes».\",\n          \"fix\": \"em poderes\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o restante do conteúdo latino, inclusive suas imagens e construções incomuns. Todos os versículos apresentam as mesmas marcas de divisão do latim, na mesma ordem: um único asterisco.\"\n}"
+}
