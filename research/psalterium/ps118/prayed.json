@@ -1,7 +1,7 @@
 {
   "psalm": 118,
   "tier": 3,
-  "version": 17,
+  "version": 18,
   "address": "vós",
   "status": "reviewed",
   "range": "118:1–118:176",
@@ -109,7 +109,7 @@
     "118:101": "{prohibui} os meus pés de todo caminho mau: * para guardar as vossas palavras.",
     "118:102": "Não me apartei {jd_gen}: * porque vós {legem_posuisti}.",
     "118:103": "{quam}, * mais que o mel à minha boca!",
-    "118:104": "{intellexi104}: * por isso odiei todo caminho de iniquidade.",
+    "118:104": "{intellexi104}: * por isso {odivi104} todo caminho de iniquidade.",
     "118:105": "{lucerna} para os meus pés é a vossa palavra, * e luz para {sem_pl}.",
     "118:106": "Jurei, {statui} * guardar {jd_bare} da vossa justiça.",
     "118:107": "{usq107}, Senhor: * {vivifica} segundo a vossa palavra.",
@@ -4079,7 +4079,7 @@
       ],
       "kind": "glossary",
       "latin": "Iníquos ódio hábui · omnem viam iníquam ódio hábui (118:104 has odívi) · Iniquitátem ódio hábui, et abominátus sum (118:163)",
-      "why": "The Latin has odívi in 118:104 and ódio hábui in 118:113, 128 (and 118:163 to come); the Greek has ἐμίσησα every time. Odísse has no perfect of its own, and ódio habére supplies one: the variation is the Latin translator's, with no difference of sense — D15's test for sermo, applied to a verb. Draft 8: the stylist faulted both verses for a proparoxytone at the cadence (iníquos at the mediant of 118:113, iníquo at the end of 118:128). For 118:113 he offered \"Aos iníquos tive ódio\" — which is the Latin word for word (Iníquos ódio hábui), periphrasis and order. The same is done in 118:128, so the draft returns to keeping ódio habére apart from odívi (118:104 \"odiei\"), now for the ear's sake as well as the Latin's. 118:163 is the third ódio hábui, built like 118:113: object first, as the Latin (the handoff asked for it). In 118:163 the text itself is ruled by decision \"v163a\" (a rhyme forced the plain verb there); the slot odio163 lives on in that decision's second option.",
+      "why": "The Latin has odívi in 118:104 and ódio hábui in 118:113, 128 (and 118:163 to come); the Greek has ἐμίσησα every time. Odísse has no perfect of its own, and ódio habére supplies one: the variation is the Latin translator's, with no difference of sense — D15's test for sermo, applied to a verb. Draft 8: the stylist faulted both verses for a proparoxytone at the cadence (iníquos at the mediant of 118:113, iníquo at the end of 118:128). For 118:113 he offered \"Aos iníquos tive ódio\" — which is the Latin word for word (Iníquos ódio hábui), periphrasis and order. The same is done in 118:128, so the draft returns to keeping ódio habére apart from odívi (118:104, now \"odeio\": draft 18), now for the ear's sake as well as the Latin's. 118:163 is the third ódio hábui, built like 118:113: object first, as the Latin (the handoff asked for it). In 118:163 the text itself is ruled by decision \"v163a\" (a rhyme forced the plain verb there); the slot odio163 lives on in that decision's second option.",
       "options": [
         {
           "label": "tive ódio (the Latin's order)",
@@ -4108,7 +4108,7 @@
             "odio128": "odiei todo caminho de iniquidade",
             "odio163": "À iniquidade tive ódio"
           },
-          "note": "The stylist's cure for 118:128. Refused: it makes 118:128b word for word 118:104b, where the Latin differs (viam iníquam / viam iniquitátis).",
+          "note": "The stylist's cure for 118:128. Refused: it makes 118:128b word for word 118:104b, where the Latin differs (viam iníquam / viam iniquitátis). (Since draft 18, 118:104 says “odeio”, so the two would differ by tense only.)",
           "from": "stylist"
         },
         {
@@ -6200,6 +6200,33 @@
           "from": "DM1962"
         }
       ]
+    },
+    {
+      "id": "odivi104",
+      "refs": [
+        "118:104"
+      ],
+      "latin": "proptérea odívi omnem viam iniquitátis",
+      "kind": "word",
+      "why": "odi / odívi is a perfect with present sense (“I hate”); the odísse row takes it so, after the Latinist’s majors taken at 24:19 and 25:5 (25:5 Odívi ecclésiam malignántium → “Odeio a assembleia dos malvados”). The review of the finished work (review/consistency.md 1.4; HANDOFF item 15) found 118:104 still in the past. ódio hábui (118:113, 128, 163) is a true perfect periphrasis and keeps “tive ódio / Odiei”; the Greek has ἐμίσησα in all four, so the tense is read off the Latin form, which is what the row does.",
+      "options": [
+        {
+          "label": "odeio",
+          "forms": {
+            "odivi104": "odeio"
+          },
+          "note": "Draft 18, ruled by the main session (review of the finished work, 2026-09-21): the present, as 24:19 and 25:5. “Por isso odeio” states the settled disposition that the understanding (entendi) has produced. No critic has read draft 18.",
+          "from": "review"
+        },
+        {
+          "label": "odiei",
+          "forms": {
+            "odivi104": "odiei"
+          },
+          "note": "Drafts 1–17: the past, read as a narrative after “entendi”.",
+          "from": "draft"
+        }
+      ]
     }
   ],
   "choices": {
@@ -6306,7 +6333,7 @@
     "118:101": "via mala → \"caminho mau\". verba tua → \"as vossas palavras\" (verbum, plural). Draft 10: the verb first (\"Retive os meus pés de todo caminho mau\"), from the stylist — order is the ear's (D2).",
     "118:102": "declináre a → apartar-se de (118:51, word for word the same build). tu, emphatic → \"vós\" expressed. Same verb as 118:33 (decision \"legem_pone\"). Order: natural order in the first colon (\"Não me apartei dos vossos juízos\"), because the Latin's order gave a rhyme at mediant and final (apartei … lei), flagged by checks.py.",
     "118:103": "The plural elóquia → \"os vossos ditos\" (D16), as 118:11 — refused by the stylist here for the first time (\"suggests maxims or loose expressions\"; he wants \"palavras\"); kept under D16, see decision \"quam\" and the audit. Draft 8 takes his order. super mel ori meo → \"mais que o mel à minha boca\": the two datives (fáucibus meis … ori meo) are built alike. The Greek adds \"and honeycomb\"; the Latin does not.",
-    "118:104": "A mandátis tuis → \"Pelos vossos mandamentos\" (Douay-Rheims \"By thy commandments\"): from them comes the understanding. proptérea → \"por isso\" (118:67). odívi → \"odiei\". \"todo caminho de iniquidade\": \"todo\" without article = every.",
+    "118:104": "A mandátis tuis → \"Pelos vossos mandamentos\" (Douay-Rheims \"By thy commandments\"): from them comes the understanding. proptérea → \"por isso\" (118:67). odívi → \"odeio\" (present sense, as 25:5; decision odivi104 — drafts 1–17 had \"odiei\"). \"todo caminho de iniquidade\": \"todo\" without article = every.",
     "118:105": "The copula supplied once, in the first colon. lumen → luz (glossary). sémitis meis → \"as minhas veredas\" (D15), plural as the Latin. pédibus → \"pés\" (the image; the Diurnal and Matos Soares have \"passos\").",
     "118:106": "judícia justítiæ tuæ → \"os juízos da vossa justiça\", identical with 118:7 as the glossary requires. The asterisk falls after the two verbs, as in the Latin; the first colon is short (five syllables for the Latin's six). Draft 8: státui → \"resolvi\" (decision \"statui\"). The Latin's comma after Jurávi is kept.",
     "118:107": "Decision \"usq107\" (draft 8: \"Fui de todo humilhado\"). secúndum verbum tuum → \"segundo a vossa palavra\" (formula, = the Nunc dimittis). humiliáre → humilhar.",
@@ -7851,6 +7878,398 @@
           "reason": "tribuláre → atribular is the glossary’s verb since Ps 3:2, with tribulátio → tribulação in the same stanza (118:143); “afligir” is afflígere’s."
         }
       ]
+    },
+    {
+      "step": "latinist",
+      "version": 17,
+      "file": "critic/v17.latinist.unread.json",
+      "note": "D15 palavras (118:9, 16, 17) and D23 para sempre (118:89, 93, 98, 111, 112) clean. FIVE MAJORS on D26: every plural elóquia rendered “o que dissestes” (118:11, 103, 148, 158, 162) — the plural lost and a past verb of saying added; he proposes “as vossas palavras”, which would collide with D15’s sermo → palavras. Six minors on the singular clause (D16’s tense remark again) and one on 118:50 “Isto” for feminine Hæc. Read: only the 19 verses no Latinist had read in their present wording (ps118/unread/, built by unread/build.py): 118:9, 16, 17 (D15 palavras), 38, 41, 50, 58, 67, 76 (D16 clause, and 38/50 reordered), 89, 93, 98, 111, 112 (D23 para sempre), 11, 103, 148, 158, 162 (D26 plural clause). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "118:11",
+          "remark": "major: “o que dissestes” — Substitui as palavras, expressamente plurais, por um conteúdo indiferenciado e introduz um verbo no passado. → “as vossas palavras”",
+          "outcome": "refused",
+          "recommendation": "option",
+          "reason": "D26 against the gate: five majors on the plural clause. His fix “as vossas palavras” collides with D15 (sermo → palavras, 118:9, 16, 17 — passed in this same reading), so not as proposed. The gate cannot be ignored: either D26 is held on purpose with its reason written in decision “eloquia”, or the plural goes back to “os vossos ditos”, which the Latinist passed (drafts 10 and 16) and the stylist refused. Main session’s ruling.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:38",
+          "remark": "minor: “o que dissestes” — A paráfrase é defensável, mas apresenta como fala passada o que o latim designa simplesmente como a vossa palavra. → “a vossa palavra”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D16’s tense remark, raised and refused before (D16, D24); the clause for the singular stands.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:41",
+          "remark": "minor: “segundo o que dissestes” — A paráfrase introduz uma determinação temporal ausente do substantivo latino. → “segundo a vossa palavra”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D16’s tense remark, raised and refused before (D16, D24); the clause for the singular stands.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:50",
+          "remark": "minor: “Isto” — O demonstrativo latino é feminino singular; o neutro português apaga essa indicação de referência. → “Esta”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No change recommended.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:50",
+          "remark": "minor: “porque me vivificou o que dissestes” — A paráfrase transforma a palavra em uma fala expressamente situada no passado. → “porque me vivificou a vossa palavra”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D16’s tense remark, raised and refused before (D16, D24); the clause for the singular stands.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:58",
+          "remark": "minor: “segundo o que dissestes” — A paráfrase introduz uma determinação temporal ausente do substantivo latino. → “segundo a vossa palavra”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D16’s tense remark, raised and refused before (D16, D24); the clause for the singular stands.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:67",
+          "remark": "minor: “guardei o que dissestes” — A paráfrase é defensável, mas substitui a palavra por uma fala expressamente situada no passado. → “guardei a vossa palavra”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D16’s tense remark, raised and refused before (D16, D24); the clause for the singular stands.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:76",
+          "remark": "minor: “segundo o que dissestes ao vosso servo” — Explicita um ato passado de dizer onde o latim conserva a construção nominal. → “segundo a vossa palavra ao vosso servo”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D16’s tense remark, raised and refused before (D16, D24); the clause for the singular stands.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:103",
+          "remark": "major: “Como é doce à minha garganta o que dissestes” — As palavras doces, expressamente plurais, tornam-se um conteúdo singular; acrescenta-se também um verbo de dizer no passado. → “Como são doces à minha garganta as vossas palavras”",
+          "outcome": "refused",
+          "recommendation": "option",
+          "reason": "D26 against the gate: five majors on the plural clause. His fix “as vossas palavras” collides with D15 (sermo → palavras, 118:9, 16, 17 — passed in this same reading), so not as proposed. The gate cannot be ignored: either D26 is held on purpose with its reason written in decision “eloquia”, or the plural goes back to “os vossos ditos”, which the Latinist passed (drafts 10 and 16) and the stylist refused. Main session’s ruling.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:148",
+          "remark": "major: “para eu meditar no que dissestes” — Elimina a expressão plural das palavras e introduz uma fala no passado. → “para eu meditar nas vossas palavras”",
+          "outcome": "refused",
+          "recommendation": "option",
+          "reason": "D26 against the gate: five majors on the plural clause. His fix “as vossas palavras” collides with D15 (sermo → palavras, 118:9, 16, 17 — passed in this same reading), so not as proposed. The gate cannot be ignored: either D26 is held on purpose with its reason written in decision “eloquia”, or the plural goes back to “os vossos ditos”, which the Latinist passed (drafts 10 and 16) and the stylist refused. Main session’s ruling.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:158",
+          "remark": "major: “não guardaram o que dissestes” — Substitui as palavras, expressamente plurais, por um conteúdo indiferenciado e introduz um verbo de dizer no passado. → “não guardaram as vossas palavras”",
+          "outcome": "refused",
+          "recommendation": "option",
+          "reason": "D26 against the gate: five majors on the plural clause. His fix “as vossas palavras” collides with D15 (sermo → palavras, 118:9, 16, 17 — passed in this same reading), so not as proposed. The gate cannot be ignored: either D26 is held on purpose with its reason written in decision “eloquia”, or the plural goes back to “os vossos ditos”, which the Latinist passed (drafts 10 and 16) and the stylist refused. Main session’s ruling.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        },
+        {
+          "verse": "118:162",
+          "remark": "major: “com o que dissestes” — Elimina a expressão plural das palavras e introduz uma fala expressamente passada. → “com as vossas palavras”",
+          "outcome": "refused",
+          "recommendation": "option",
+          "reason": "D26 against the gate: five majors on the plural clause. His fix “as vossas palavras” collides with D15 (sermo → palavras, 118:9, 16, 17 — passed in this same reading), so not as proposed. The gate cannot be ignored: either D26 is held on purpose with its reason written in decision “eloquia”, or the plural goes back to “os vossos ditos”, which the Latinist passed (drafts 10 and 16) and the stylist refused. Main session’s ruling.",
+          "decision": "eloquia",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): held on purpose under D26; Gustavo’s call (DECISIONS review section)"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "version": 17,
+      "file": "critic/v17.ambiguity.unread.json",
+      "note": "Every changed wording heard rightly: “o que dissestes” understood as what God said/promised in all eleven places, “palavras”, “para sempre”. Unknown words, all unchanged terms: preceitos (×3 — D15’s justificatiónes), vivificar (×3), exultação, definhava, despojos (118:162, heard as remains). Read: the same 19 verses, Portuguese only (ps118/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "118:9",
+          "remark": "“Guardando as vossas palavras”: Obedecendo ao que foi dito. / Conservando na memória o que foi dito.; likely heard: Obedecendo ao que foi dito.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:11",
+          "remark": "“No meu coração escondi”: Conservei intimamente na memória e nos sentimentos. / Mantive em segredo, sem revelar a ninguém.; likely heard: Conservei intimamente na memória e nos sentimentos.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:17",
+          "remark": "“Recompensai o vosso servo”: Dai ao servo uma recompensa por algo que fez. / Concedei ao servo um benefício, sem necessariamente pagar por um mérito.; likely heard: Dai ao servo uma recompensa por algo que fez.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:17",
+          "remark": "“guardarei as vossas palavras”: Obedecerei ao que dissestes. / Conservarei na memória o que dissestes.; likely heard: Obedecerei ao que dissestes.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:38",
+          "remark": "“Firmai para o vosso servo o que dissestes”: Fazei acontecer aquilo que dissestes ao servo. / Tornai firme no servo a certeza ou a lembrança do que dissestes.; likely heard: Fazei acontecer aquilo que dissestes ao servo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:38",
+          "remark": "“no vosso temor”: No temor ou na reverência que o servo tem por vós. / No temor que vós mesmos sentis.; likely heard: No temor ou na reverência que o servo tem por vós.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:38",
+          "remark": "“no vosso temor”: O servo vive no temor de Deus. / O pedido é que as palavras sejam firmadas no temor de Deus. / O que foi dito diz respeito ao temor de Deus.; likely heard: O servo vive no temor de Deus, embora a ligação da expressão com o restante da frase não seja clara.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:38",
+          "remark": "“temor”: Medo de Deus ou de seu castigo. / Respeito e reverência a Deus.; likely heard: Respeito a Deus, possivelmente associado ao medo de seu castigo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:41",
+          "remark": "“a vossa salvação”: O socorro que livra de um perigo ou sofrimento nesta vida. / A salvação espiritual e eterna.; likely heard: A salvação espiritual e eterna.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:50",
+          "remark": "“Isto me consolou”: O que dissestes me consolou, como a continuação explica. / Algo mencionado anteriormente me consolou.; likely heard: O que dissestes me consolou.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:50",
+          "remark": "“na minha humilhação”: Quando fui envergonhado ou tratado com desprezo. / Quando passei por sofrimento ou abatimento, sem necessariamente sofrer uma ofensa.; likely heard: Quando fui envergonhado ou tratado com desprezo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:58",
+          "remark": "“Supliquei a vossa face”: Dirigi minha súplica a vós, representados pela vossa face. / Pedi que me fosse concedido ver a vossa face ou estar em vossa presença.; likely heard: Dirigi minha súplica a vós, embora a construção possa soar como um pedido para ver a face de Deus.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:67",
+          "remark": "“ser humilhado”: Ser envergonhado ou tratado com desprezo. / Passar por uma aflição que me tornou humilde.; likely heard: Ser envergonhado ou tratado com desprezo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:67",
+          "remark": "“por isso guardei”: Guardei o que dissestes porque fui humilhado. / Guardei o que dissestes porque reconheci que havia cometido faltas.; likely heard: Guardei o que dissestes porque fui humilhado.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:67",
+          "remark": "“guardei o que dissestes”: Obedeci ao que dissestes. / Retive na memória o que dissestes.; likely heard: Obedeci ao que dissestes.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:76",
+          "remark": "“segundo o que dissestes ao vosso servo”: O que dissestes ao servo foi uma promessa de misericórdia e consolo. / O pedido de consolo segue uma orientação que destes ao servo.; likely heard: O que dissestes ao servo foi uma promessa de misericórdia e consolo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:89",
+          "remark": "“no céu”: Na morada espiritual de Deus. / No céu visível, acima da terra.; likely heard: Na morada espiritual de Deus.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:98",
+          "remark": "“porque ele é meu para sempre”: O mandamento é meu para sempre. / Deus é meu para sempre, passando o falante a se referir a ele na terceira pessoa.; likely heard: O mandamento é meu para sempre.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:111",
+          "remark": "“os vossos testemunhos”: As declarações ou os relatos que dais sobre alguma coisa. / Os ensinamentos ou as determinações que deixais como expressão da vossa vontade. / As provas ou os sinais da vossa ação.; likely heard: As declarações ou os relatos que dais, por associação com o uso de testemunho nas igrejas.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:112",
+          "remark": "“por causa da retribuição”: Para receber uma recompensa pela obediência. / Por receio de receber castigo pela desobediência. / Como forma de retribuir um bem já recebido.; likely heard: Para receber uma recompensa pela obediência.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:148",
+          "remark": "“Os meus olhos se adiantaram para vós ao amanhecer”: Acordei antes do amanhecer para me dirigir a vós. / Ao amanhecer, meu olhar se dirigiu primeiro a vós.; likely heard: Ao amanhecer, meu olhar se dirigiu primeiro a vós.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:158",
+          "remark": "“definhava”: Eu perdia as forças ou emagrecia fisicamente. / Eu me consumia de tristeza ou aflição.; likely heard: Eu me consumia de tristeza ou aflição.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:158",
+          "remark": "“não guardaram o que dissestes”: Não obedeceram ao que dissestes. / Não conservaram na memória o que dissestes.; likely heard: Não obedeceram ao que dissestes.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:162",
+          "remark": "“despojos”: Bens tomados dos vencidos numa batalha. / Restos mortais. / Restos ou sobras de alguma coisa.; likely heard: Restos ou restos mortais, se o ouvinte reconhecer a palavra; a comparação com a alegria pode levá-lo a supor que sejam bens valiosos.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word (spólia); heard as remains. Evidence for the row, not a change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:16",
+          "remark": "unknown word: “preceitos”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:17",
+          "remark": "unknown word: “vivificai-me”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:50",
+          "remark": "unknown word: “vivificou”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:93",
+          "remark": "unknown word: “preceitos”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:93",
+          "remark": "unknown word: “vivificastes”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:111",
+          "remark": "unknown word: “exultação”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:112",
+          "remark": "unknown word: “preceitos”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:158",
+          "remark": "unknown word: “definhava”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "118:162",
+          "remark": "unknown word: “despojos”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word (spólia); heard as remains. Evidence for the row, not a change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 18,
+      "note": "v18, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 118:104 odívi, “por isso odiei” → “por isso odeio” (odísse in present sense, as 24:19, 25:5). No critic has read draft 18 — these verses are unread. Every earlier wording stays selectable."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Salmo 36
 
-Draft 4 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 5 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ Draft 4 — not final. Pointing as Ember shows it (mediant `*` only).
 | 36:12 | Observábit peccátor justum: \* et stridébit super eum déntibus suis. | O pecador espreitará o justo: \* e rangerá os seus dentes contra ele. |
 | 36:13 | Dóminus autem irridébit eum: \* quóniam próspicit quod véniet dies ejus. | Mas o Senhor rirá dele: \* porque prevê que virá o seu dia. |
 | 36:14 | Gládium evaginavérunt peccatóres: \* intendérunt arcum suum, | Os pecadores desembainharam a espada: \* armaram o seu arco, |
-| 36:14b | Ut deíciant páuperem et ínopem: \* ut trucídent rectos corde. | Para abater o pobre e o indigente: \* para massacrar os retos de coração. |
+| 36:14b | Ut deíciant páuperem et ínopem: \* ut trucídent rectos corde. | Para abater o pobre e o carente: \* para massacrar os retos de coração. |
 | 36:15 | Gládius eórum intret in corda ipsórum: \* et arcus eórum confringátur. | Que a espada deles entre nos seus próprios corações: \* e o arco deles seja quebrado. |
 | 36:16 | Mélius est módicum justo, \* super divítias peccatórum multas. | Melhor é o pouco para o justo, \* do que as muitas riquezas dos pecadores. |
 | 36:17 | Quóniam brácchia peccatórum conteréntur: \* confírmat autem justos Dóminus. | Porque os braços dos pecadores serão quebrados: \* mas o Senhor sustenta os justos. |

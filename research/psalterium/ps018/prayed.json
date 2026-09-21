@@ -581,14 +581,14 @@
       ],
       "latin": "Delícta quis intéllegit? … a delícto máximo",
       "kind": "glossary",
-      "why": "delíctum → falta (glossary row delínquere / delíctum, open, naming 18:13; kept apart from peccátum → pecado). Three times in two verses (the plural, *ab occúltis meis*, *ab aliénis*, and 18:14b *a delícto máximo*): the adjectives *occúltis* and *aliénis* stand without a noun in the Latin, and Portuguese needs the noun once — supplied in the first (*faltas ocultas*) and carried by the feminine into *das estranhas*. intellégere → entender (glossary). Draft 3: the noun supplied now serves only *ab occúltis meis*; *ab aliénis* is persons (see alienis), so nothing is carried into it.",
+      "why": "delíctum → falta (glossary row delínquere / delíctum, open, naming 18:13; kept apart from peccátum → pecado). Three times in two verses (the plural, *ab occúltis meis*, *ab aliénis*, and 18:14b *a delícto máximo*): the adjectives *occúltis* and *aliénis* stand without a noun in the Latin, and Portuguese needs the noun once — supplied in the first (*faltas ocultas*) and carried by the feminine into *das estranhas*. intellégere → entender (glossary). Draft 3: the noun supplied now serves only *ab occúltis meis*; *ab aliénis* is persons (see alienis), so nothing is carried into it. The singular noun of 18:14b is slot delicto, which decision “maximo” builds on (it had been a second owner of slot maximo, which left this decision’s choice dead in 18:14b; fixed 2026-09-21, wording unchanged).",
       "options": [
         {
           "label": "faltas",
           "forms": {
             "delicta": "faltas",
             "occultis": "faltas ocultas",
-            "maximo": "maior falta"
+            "delicto": "falta"
           },
           "note": "Ruling: the row.",
           "from": "glossary"
@@ -598,7 +598,7 @@
           "forms": {
             "delicta": "delitos",
             "occultis": "delitos ocultos",
-            "maximo": "maior delito"
+            "delicto": "delito"
           },
           "note": "The cognate; legal.",
           "from": "literal"
@@ -608,7 +608,7 @@
           "forms": {
             "delicta": "faltas",
             "occultis": "coisas ocultas",
-            "maximo": "maior falta"
+            "delicto": "falta"
           },
           "note": "No noun supplied; *das estranhas* then refers to *coisas*.",
           "from": "draft"
@@ -687,11 +687,11 @@
       "why": "máximus → *maior* (the superlative relative: \"the greatest\"); mundáre / emundáre → *purificar* (καθαρίζω both times; four lines in the psalter — 18:13, 18:14b, 50:4, 88:45 — and the adjective mundus 23:4, 50:12). Only 11:7 *purgátum* is already *purificada* (one line; another Greek word): noted for the row. immaculátus → imaculado (glossary; 18:8 and 18:14b both have it).",
       "options": [
         {
-          "label": "maior falta",
+          "label": "maior (falta)",
           "forms": {
-            "maximo": "maior falta"
+            "maximo": "maior {delicto}"
           },
-          "note": "Ruling.",
+          "note": "Ruling. The noun follows decision “delicta” (falta / delito).",
           "from": "draft"
         },
         {

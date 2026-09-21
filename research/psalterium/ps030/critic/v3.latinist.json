@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "0783c03e51c85dbc53f7162566ac35f32f2bcffa1305677d6727d1748f6c1dc4",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T20:25:27+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"30:2\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"non confúndar in ætérnum\",\n          \"portuguese\": \"para sempre não serei envergonhado\",\n          \"problem\": \"Embora «confundar» também possa ser futuro pela forma, neste contexto de súplica tem valor de subjuntivo optativo. A tradução transforma o pedido em afirmação sobre o futuro.\",\n          \"fix\": \"jamais seja eu envergonhado\"\n        }\n      ]\n    },\n    {\n      \"id\": \"30:17\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"Dómine, non confúndar, quóniam invocávi te\",\n          \"portuguese\": \"Senhor, não serei envergonhado, porque vos invoquei\",\n          \"problem\": \"O contexto de súplica e o paralelo com «erubescant» no versículo seguinte indicam o valor optativo de «confundar». O futuro português substitui essa petição por uma afirmação.\",\n          \"fix\": \"Senhor, não seja eu envergonhado, porque vos invoquei\"\n        }\n      ]\n    },\n    {\n      \"id\": \"30:23b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"exaudísti vocem oratiónis meæ\",\n          \"portuguese\": \"escutastes a voz da minha oração\",\n          \"problem\": \"«Escutastes» é defensável, mas exprime menos claramente o acolhimento favorável da oração presente em «exaudisti» neste contexto.\",\n          \"fix\": \"atendestes à voz da minha oração\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo e as imagens do latim, inclusive suas expressões incomuns. As principais falhas são as duas petições traduzidas como afirmações futuras. Todos os versículos têm os mesmos sinais de divisão, na mesma ordem que o latim.\"\n}"
+}

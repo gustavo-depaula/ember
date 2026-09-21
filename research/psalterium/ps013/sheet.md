@@ -1,6 +1,6 @@
 # Salmo 13
 
-Draft 2 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 3 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -13,5 +13,5 @@ Draft 2 — not final. Pointing as Ember shows it (mediant `*` only).
 | 13:3d | Contrítio et infelícitas in viis eórum, et viam pacis non cognovérunt: \* non est timor Dei ante óculos eórum. | Ruína e infelicidade nos seus caminhos, e não conheceram o caminho da paz: \* não há temor de Deus diante dos seus olhos. |
 | 13:4 | Nonne cognóscent omnes qui operántur iniquitátem, \* qui dévorant plebem meam sicut escam panis? | Não hão de saber todos os que praticam a iniquidade, \* os que devoram o meu povo como quem come pão? |
 | 13:5 | Dóminum non invocavérunt, \* illic trepidavérunt timóre, ubi non erat timor. | Ao Senhor não invocaram, \* ali tremeram de temor, onde não havia temor. |
-| 13:6 | Quóniam Dóminus in generatióne justa est, consílium ínopis confudístis: \* quóniam Dóminus spes ejus est. | Porque o Senhor está na geração justa, vós envergonhastes o conselho do indigente: \* porque o Senhor é a sua esperança. |
+| 13:6 | Quóniam Dóminus in generatióne justa est, consílium ínopis confudístis: \* quóniam Dóminus spes ejus est. | Porque o Senhor está na geração justa, vós envergonhastes o conselho do carente: \* porque o Senhor é a sua esperança. |
 | 13:7 | Quis dabit ex Sion salutáre Israël? \* cum avérterit Dóminus captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël. | Quem dará de Sião a salvação de Israel? \* quando o Senhor afastar o cativeiro do seu povo, Jacó exultará, e Israel se alegrará. |

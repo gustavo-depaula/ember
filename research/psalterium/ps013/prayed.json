@@ -1,7 +1,7 @@
 {
   "psalm": 13,
   "tier": 3,
-  "version": 2,
+  "version": 3,
   "address": "vós",
   "status": "reviewed",
   "verses": {
@@ -570,14 +570,22 @@
       ],
       "latin": "consílium ínopis",
       "kind": "glossary",
-      "why": "Glossary: inops → indigente (open; D27 left it open because the blind reader of Ps 11 listed 'indigentes' as unknown twice), pauper → pobre. The row names 13:6 among inops's 14 lines. Here the psalm has no pauper, so nothing forces a distinction inside the verse. Douay-Rheims 'the poor man'; Matos Soares 1932 'do infeliz'. The next colon's 'ejus' (a sua esperança) points back to this man.",
+      "why": "Glossary: inops → indigente (open; D27 left it open because the blind reader of Ps 11 listed 'indigentes' as unknown twice), pauper → pobre. The row names 13:6 among inops's 14 lines. Here the psalm has no pauper, so nothing forces a distinction inside the verse. Douay-Rheims 'the poor man'; Matos Soares 1932 'do infeliz'. The next colon's 'ejus' (a sua esperança) points back to this man. Draft 3: D38 rules inops → “carente”; “indigente” and “desvalido” stay options.",
       "options": [
+        {
+          "label": "carente",
+          "forms": {
+            "inopis": "carente"
+          },
+          "note": "Draft 3, ruled by the main session (D38; review of the finished work, 2026-09-21). “Indigente” was unknown to four blind readers out of four; “carente” passed (Ps 34:10b). One word for inops through the psalter. “O conselho do carente” keeps “conselho”: D33 leaves conselho where a verse can mean both (review/consistency.md 1.2). No critic has read draft 3.",
+          "from": "review"
+        },
         {
           "label": "indigente",
           "forms": {
             "inopis": "indigente"
           },
-          "note": "Ruling: the glossary's working word, so that inops is one word through the psalter and a third test is had on a blind reader.",
+          "note": "Drafts 1–2, the then-working row (inops → indigente). the glossary's working word, so that inops is one word through the psalter and a third test is had on a blind reader.",
           "from": "glossary"
         },
         {
@@ -1015,6 +1023,11 @@
           "reason": "esca is the Greek βρώσει, the eating (Douay-Rheims ‘as they eat bread’); his wording is not Portuguese; he passed the same words on draft 1 (D24: weighed)."
         }
       ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 13:6 ínopis, “do indigente” → “do carente” (D38). No critic has read draft 3 — these verses are unread. Every earlier wording stays selectable."
     }
   ]
 }

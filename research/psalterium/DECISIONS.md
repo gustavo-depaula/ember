@@ -278,7 +278,7 @@ Held **open**, each with its row in the glossary, because more places must test 
 
 ## D29 — *sanguínes* (plural) → *sangue* — for review
 
-**Question.** The Latin's plural of blood (*vir sánguinum* 5:7b, *de sanguínibus* 15:4b, 25:9, 50:16, 54:24, 58:3, 105:38 *in sanguínibus*, 138:19; grep) is the Greek's αἱμάτων, the Hebrew idiom for bloodshed. The Latinist asked for *de sangues* at 15:4b, twice (v1 and the v2 gate: major).
+**Question.** The Latin's plural of blood (*vir sánguinum* 5:7b, *de sanguínibus* 15:4b, 25:9, 50:16, 54:24, 58:3, 105:39 *in sanguínibus*, 138:19; grep) is the Greek's αἱμάτων, the Hebrew idiom for bloodshed. The Latinist asked for *de sangues* at 15:4b, twice (v1 and the v2 gate: major).
 
 **Ruling.** *Sangue*, singular, in every place: *homem de sangue* (5:7b, already standing), *ajuntamentos de sangue* (15:4b). The major is held on purpose. *Sangues* is heard in Portuguese as a slip, not as a plural; the Latin's plural carries a sense (blood shed, blood of rites), not a count, and the blind reader heard both senses in *de sangue*. One ruling has to serve all the places, and *homens de sangues* (54:24) would not be prayed. Cost: the plural's mark is lost; a reader crossing columns sees it. *De sangues* stays selectable in Ps 15.
 
@@ -323,6 +323,20 @@ Held **open**, each with its row in the glossary, because more places must test 
 **Question.** Ps 26:14 *Exspécta Dóminum, viríliter age: et confortétur cor tuum, et sustíne Dóminum* has two of them in one verse; D24 had given *exspectáre* its own *aguardar*, and Ps 24 proposed *esperar por* for *sustinére* with God as object.
 
 **Ruling.** As proposed: *Aguarda o Senhor … e espera pelo Senhor* (26:14); *esperar em* stays *speráre*'s. No reader objected to 26:14, and the preposition keeps *sustinére* apart from *speráre* while both remain "hope" to the ear, as the Greek pair ὑπομένω / ἐλπίζω does. Cost: *esperar por* and *esperar em* share a verb, so the difference rests on one small word; a reader of the Latin column sees three verbs.
+
+## Review of the finished work (2026-09-21) — rulings from `review/consistency.md` and the reads of unread drafts
+
+**D37 — *usque in ætérnum / usque in sǽculum* → *para todo o sempre*** — for review. The review found 17:51 *para sempre* against 27:9 *para todo o sempre* for the same phrase. D23 gave *in ætérnum* → *para sempre*; *usque* adds "all the way", and Portuguese has the phrase for it. So *usque in …* → *para todo o sempre* in every finished psalm; bare *in ætérnum* keeps D23's *para sempre*.
+
+**D38 — *inops* → *carente*** — for review. *Indigente* was unknown to four blind readers out of four; *carente* passed (Ps 34). The three places still reading *indigente* follow. *desvalido* (the Ps 36 agent's proposal) stays an option; one reader did not know it.
+
+**Applied as new drafts, each with its reason in the decision:** 5:12a *eternamente* → *para sempre* (D23, no exception was written); 9:23 *conselhos* → *desígnios* (D33 — same build as 20:12); 90:15 *arrancarei* → *libertarei* (no source named, as 6:5, 21:9, 33:8, 118:153, 118:170); 118:104 *odiei* → *odeio* (*odísse* in present sense, as 24:19, 25:5); 30:12 *sobremaneira* → *grandemente* (unknown to the blind reader; option 3 of `valde`).
+
+**Not changed, and why:** *Legem pone mihi* reads differently at 26:11 (*Ponde uma lei para mim … no vosso caminho*) and 118:33 (*Imponde-me por lei … o caminho*) because the Latin's syntax differs — at 118:33 *viam* is the object, at 26:11 *legem*. The plural *elóquia* as D26's clause (118:11, 103, 148, 158, 162) drew five Latinist majors on its first read: **held on purpose**, for D26's reasons (the plural *ditos* was refused by the stylist and *palavras* is *sermo*'s under D15); Gustavo's call with D26. 4:8 *eles se multiplicaram* is still heard as the grain multiplying — Ps 4 is left for Gustavo. 31:9b's vocative is his call (HANDOFF item 16).
+
+**Drafts made by the review** (no critic has read them): Ps 5 v4, Ps 9 v8 (also 9:26a *em todo tempo*, the majority form), Ps 11 v3, Ps 13 v3, Ps 36 v5 (D38 *carente*), Ps 17 v6 (D37), Ps 30 v4, Ps 90 v3, Ps 118 v18. Scripts in each psalm folder; shared code in `review/apply/`. All 138 pending reader remarks are resolved (`resolution` field) except 4:8 and 31:9b, which the site shows as "pending — for Gustavo".
+
+**Counts corrected:** D29's 105:38 is 105:39. D31 also misses *firmaméntum* at 71:16, 88:41, 104:16 — they decide in their own psalms with D31 in view. *deprecátio* is 15 lines, not 14. None changes a ruling.
 
 ---
 

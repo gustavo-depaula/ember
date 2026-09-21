@@ -795,6 +795,92 @@
       "step": "revision",
       "version": 3,
       "note": "v3 (revise_v3.py, from prayed.v2.json): 31:9b the supplied 'Senhor,' removed, the gate's fix verbatim. No other change; no critic has read draft 3."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Draft 3 (31:9b, the supplied “Senhor,” removed — the v2 gate’s fix). Clean: no verse remarked. Read: the whole psalm (prayed.vos.json). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": []
+    },
+    {
+      "step": "ambiguity",
+      "version": 3,
+      "file": "critic/v3.ambiguity.unread.json",
+      "note": "31:9b without “Senhor,”: “que não se aproximam de vós” is heard as said to the listeners — the mishearing draft 2’s vocative had mended is back, as foreseen (HANDOFF, item 16). Unknown: mulo, cabresto, maxilas, flagelos (all unchanged). Read: the changed verse with one verse either side (ps031/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "31:9",
+          "remark": "“não têm entendimento”: Não têm capacidade de raciocinar ou discernir. / Não compreendem o que lhes é dito ou pedido.; likely heard: Não compreendem o que lhes é dito ou pedido.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "31:9b",
+          "remark": "“freio”: Peça colocada na boca do animal para controlá-lo. / Mecanismo para fazê-lo parar, entendido pela função dos freios de veículos.; likely heard: Um instrumento para fazer o animal parar, sem necessariamente identificar a peça colocada na boca.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "31:9b",
+          "remark": "“que não se aproximam de vós”: Explica que o cavalo e o mulo mencionados não se aproximam dos ouvintes. / Restringe a ordem aos animais que não se aproximam dos ouvintes. / Apresenta a falta de aproximação como motivo para apertar as maxilas.; likely heard: Os animais não se aproximam dos ouvintes, e isso motiva a ordem de apertar suas maxilas.",
+          "outcome": "pending",
+          "recommendation": "option",
+          "reason": "The foreseen mishearing (HANDOFF item 16): without a vocative the vós is heard as the congregation. Now two blind readings agree. Whether a vocative may be supplied is Gustavo’s ruling; draft 2’s “Senhor,” is the wording to restore if he allows it."
+        },
+        {
+          "verse": "31:10",
+          "remark": "“Os flagelos do pecador”: Os sofrimentos ou castigos que o pecador recebe. / Os males ou sofrimentos que o pecador causa.; likely heard: Os sofrimentos ou castigos que o pecador recebe.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "31:10",
+          "remark": "“espera no Senhor”: Deposita sua confiança ou esperança no Senhor. / Aguarda uma ação ou resposta do Senhor.; likely heard: Deposita sua confiança ou esperança no Senhor.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "31:9",
+          "remark": "unknown word: “mulo”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "31:9b",
+          "remark": "unknown word: “cabresto”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "31:9b",
+          "remark": "unknown word: “maxilas”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "31:10",
+          "remark": "unknown word: “flagelos”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
     }
   ]
 }

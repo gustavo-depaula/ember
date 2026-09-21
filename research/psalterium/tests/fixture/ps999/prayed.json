@@ -44,6 +44,9 @@
     {"step": "draft", "note": "psalm-level draft from parallels."},
     {"step": "checks", "note": "hard pass."},
     {"step": "stylist", "file": "critic/v1.stylist.json", "note": "2 remarks; 999:1 taken; 999:2 kept as an option because the Latin's order is defensible."},
-    {"step": "revision", "note": "v2: 999:1 chamei → Clamei after the stylist."}
+    {"step": "revision", "note": "v2: 999:1 chamei → Clamei after the stylist."},
+    {"step": "latinist", "file": "critic/v2.latinist.json", "note": "1 remark, left for Gustavo.", "outcomes": [
+      {"verse": "999:3", "remark": "minor: “para sempre” — The Latin's plural is lost. → “pelos séculos”", "outcome": "pending", "recommendation": "refuse", "reason": "the formula is the glossary's."}
+    ]}
   ]
 }

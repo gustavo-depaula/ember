@@ -1,0 +1,8 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "target": "prayed.vos.json",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T04:00:00+00:00",
+  "reply": "{\"verses\": [{\"id\": \"999:3\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in sǽcula\", \"portuguese\": \"para sempre\", \"problem\": \"The Latin's plural is lost.\", \"fix\": \"pelos séculos\"}]}]}"
+}

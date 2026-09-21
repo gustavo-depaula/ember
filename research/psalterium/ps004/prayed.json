@@ -543,6 +543,119 @@
       "step": "revision",
       "version": 3,
       "note": "v3, by the main session under Gustavo’s delegation of 2026-09-20 (DECISIONS.md D8): 4:2a, 4:2b, 4:4 atender → escutar (D3); 4:3 “até quando tereis o coração pesado?”; 4:8 “eles se multiplicaram”. No critic has read draft 3: the three changes are a glossary verb already gated in Pss 90 and 53, and two fixes the stylist itself proposed. The Hetzenauer page (p. 487) was read for this psalm during the collation."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/prayed-v3.latinist.astra.json",
+      "note": "Draft 3 (D8: escutar ×3, 4:3 verb supplied, 4:8 subject named), never read by a Latinist before. Every verse none but 4:3 (minor: the supplied “tereis” fixes a tense the verbless Latin leaves implicit — he proposes draft 2’s wording, which is option 2 of “gravi”). escutar passed in 4:2a, 4:2b, 4:4; “eles se multiplicaram” passed. His “disagreementsWithTheDossier” are about the machine parse in dossier.json, not the translation. Read: the whole psalm (prayed.vos.json) with the pilot’s own prompt, prompts/latinist-critic.md. Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "4:3",
+          "remark": "minor: “até quando tereis o coração pesado?” — O latim apresenta uma expressão elíptica, sem verbo nem futuro explícito. «Tereis» é um suplemento defensável, mas determina o tempo verbal que o original deixa implícito. → “até quando de coração pesado?”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "It is option 2 of “gravi” already. D8 supplied the verb under D2 (a verb Portuguese needs; the stylist asked for it); a verbless “até quando de coração pesado?” was the draft-2 wording. Keep D8, the option stays.",
+          "decision": "gravi",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "version": 3,
+      "file": "critic/v3.ambiguity.unread.json",
+      "note": "First ambiguity reading of Ps 4. One real fault on a changed verse: 4:8 “eles se multiplicaram”, the subject D8 named so that the verb would not be heard of the produce, is still heard of the produce (trigo, vinho e azeite) — the supplied pronoun attaches to the nearest nouns. Unknown word: compungi-vos. Read: the changed verses with one verse either side (ps004/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "4:2a",
+          "remark": "“o Deus da minha justiça”: Deus que me faz justiça ou defende minha causa. / Deus de quem vem minha retidão.; likely heard: Deus que me faz justiça ou defende minha causa.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:2a",
+          "remark": "“escutou-me o Deus da minha justiça: na tribulação me abristes espaço”: O falante passa de falar sobre Deus a dirigir-se ao mesmo Deus. / Deus escutou, mas o falante atribui a abertura de espaço a outros interlocutores.; likely heard: O falante passa a dirigir-se ao mesmo Deus, embora a mudança de pessoa possa confundir.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:3",
+          "remark": "“Filhos dos homens”: Os seres humanos em geral. / Os filhos ou descendentes de determinados homens.; likely heard: Os seres humanos em geral.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:3",
+          "remark": "“o coração pesado”: Um coração triste, angustiado ou carregado de culpa. / Um coração endurecido, resistente a ouvir ou mudar.; likely heard: Um coração triste ou angustiado.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Heard as a sad heart; gravi corde is heaviness/dullness of heart — the Latin’s own image kept literally. No change.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:3",
+          "remark": "“a vaidade”: A preocupação excessiva com a aparência ou com a própria importância. / Aquilo que é vazio, passageiro ou sem valor.; likely heard: A preocupação excessiva com a aparência ou com a própria importância.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word, the glossary’s vánitas → vaidade; heard as vanity of appearance. Evidence for that row, not a change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:4",
+          "remark": "“o seu santo”: A pessoa santa que pertence ao Senhor. / O santo de devoção da pessoa ou das pessoas a quem se fala.; likely heard: A pessoa santa que pertence ao Senhor.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "The Latin’s word (sanctum suum); the cost of “santo” as a canonised saint is known. No change.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:4",
+          "remark": "“santo”: Uma pessoa fiel a Deus. / Um santo reconhecido pela Igreja e venerado pelos fiéis.; likely heard: Um santo reconhecido pela Igreja, sem ficar claro qual.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "The Latin’s word (sanctum suum); the cost of “santo” as a canonised saint is known. No change.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:5",
+          "remark": "“do que dizeis nos vossos corações, nos vossos leitos compungi-vos”: Arrependei-vos, deitados, daquilo que dizeis interiormente. / Aquilo que dizeis interiormente deve ser uma exortação a vos arrependerdes nos leitos.; likely heard: Arrepender-se daquilo que se diz interiormente, caso o ouvinte conheça «compungi-vos».",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:8",
+          "remark": "“seu trigo, vinho e azeite”: O trigo, o vinho e o azeite pertencem a «eles». / O trigo, o vinho e o azeite pertencem ao Senhor mencionado antes. / O trigo, o vinho e o azeite pertencem a outra pessoa não identificada.; likely heard: Pertencem a «eles», embora não se saiba quem são essas pessoas.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "4:8",
+          "remark": "“eles se multiplicaram”: Pessoas não identificadas aumentaram em número. / O trigo, o vinho e o azeite aumentaram em quantidade.; likely heard: O trigo, o vinho e o azeite aumentaram em quantidade, por serem os substantivos imediatamente anteriores.",
+          "outcome": "pending",
+          "recommendation": "take",
+          "reason": "A real fault on a changed verse: D8 named the subject so the verb would not be heard of the produce, and it still is. The main session should find an order that ties “eles” to the people (Douay-Rheims: “they are multiplied”), e.g. the subject before the verb at the head of the second colon, keeping the mark.",
+          "decision": "multiplicati"
+        },
+        {
+          "verse": "4:5",
+          "remark": "unknown word: “compungi-vos”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
     }
   ]
 }

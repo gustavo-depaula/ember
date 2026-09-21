@@ -1187,6 +1187,157 @@
     {
       "step": "checks",
       "note": "Draft 4: hard pass (checks.py exit 0). Soft flags: 16:1a −3, 16:1b −3 / +3, 16:3 +4, 16:4 +3, 16:5 +4, 16:6 −4 / +5, 16:7 +3, 16:12 second colon +5, 16:14b first colon −3,16:15 −3 / +3 — each accepted for the reason given at draft 1; no rhyme flag."
+    },
+    {
+      "step": "latinist",
+      "version": 4,
+      "file": "critic/v4.latinist.json",
+      "note": "Draft 4 (16:14b “foi enchido”, the v3 gate’s own words). Clean: no verse remarked. Read: the whole psalm (prayed.vos.json). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": []
+    },
+    {
+      "step": "ambiguity",
+      "version": 4,
+      "file": "critic/v4.ambiguity.unread.json",
+      "note": "16:14b: “o ventre deles” likely heard as the belly of “os poucos da terra” (the nearest group) — the Latin’s venter eórum is as open; the change of voice drew no remark. Unknown: ímpio (16:13). Read: the changed verse with one verse either side (ps016/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "16:13",
+          "remark": "“adiantai-vos a ele”: Avançai ao encontro dele. / Chegai antes dele ou passai à sua frente.; likely heard: Avançai ao encontro dele para derrubá-lo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:13",
+          "remark": "“a ele e derrubai-o”: Os pronomes se referem ao ímpio mencionado depois. / Os pronomes se referem a alguém que o ouvinte precisaria conhecer de uma fala anterior.; likely heard: O ouvinte provavelmente identifica essa pessoa com o ímpio ao ouvir o restante.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:13",
+          "remark": "“a minha alma”: A parte espiritual de quem fala. / A vida ou a própria pessoa de quem fala.; likely heard: A parte espiritual de quem fala.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:13",
+          "remark": "“arrancai a minha alma do ímpio, a vossa espada dos inimigos da vossa mão”: Há dois pedidos: arrancar a alma do ímpio e arrancar a espada dos inimigos. / A espada é o instrumento com que o Senhor deve arrancar a alma do ímpio, embora a ligação fique pouco clara ao ouvido.; likely heard: Que o Senhor use sua espada para salvar quem fala, sem que a segunda parte fique inteiramente compreensível.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:13",
+          "remark": "“dos inimigos da vossa mão”: Os inimigos são inimigos da mão ou do poder do Senhor. / Da vossa mão indica de onde algo deve ser arrancado, como complemento separado.; likely heard: Inimigos do Senhor ou de seu poder.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14b",
+          "remark": "“separai-os”: Separai os inimigos mencionados antes. / Separai outro grupo que não é identificado neste trecho.; likely heard: Separai os inimigos.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14b",
+          "remark": "“dos poucos da terra na vida deles”: A separação deve acontecer durante a vida deles. / Os poucos da terra são as poucas pessoas presentes na vida deles.; likely heard: A separação deve acontecer enquanto eles vivem.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14b",
+          "remark": "“na vida deles”: Durante a vida daqueles que serão separados. / Durante a vida dos poucos da terra.; likely heard: Durante a vida daqueles que serão separados, mas os poucos também podem parecer o referente.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14b",
+          "remark": "“o ventre deles”: O ventre daqueles que serão separados. / O ventre dos poucos da terra.; likely heard: O ventre dos poucos da terra, por serem o grupo mencionado mais perto.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14b",
+          "remark": "“das vossas coisas escondidas”: De alimentos ou bens que o Senhor mantém guardados. / De coisas secretas ou mistérios do Senhor.; likely heard: De alimentos ou bens guardados, pela referência ao ventre.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14c",
+          "remark": "“Foram saciados”: Foram saciados aqueles que deveriam ser separados. / Foram saciados os poucos da terra.; likely heard: Foram saciadas as mesmas pessoas cujo ventre foi enchido, sem que fique claro qual dos grupos são.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14c",
+          "remark": "“saciados de filhos”: Receberam filhos em abundância e ficaram satisfeitos. / Os filhos são apresentados como aquilo que enche ou alimenta essas pessoas.; likely heard: Tiveram muitos filhos.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14c",
+          "remark": "“e deixaram”: As pessoas que foram saciadas deixaram as sobras. / Os filhos mencionados imediatamente antes deixaram as sobras.; likely heard: As mesmas pessoas que foram saciadas deixaram as sobras.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14c",
+          "remark": "“as suas sobras”: As sobras pertencem às pessoas que foram saciadas. / As sobras pertencem aos filhos.; likely heard: As sobras pertencem às pessoas que foram saciadas.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14c",
+          "remark": "“sobras”: Restos de comida. / Bens ou recursos que restaram.; likely heard: Restos de comida, por causa de ventre e saciados.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:14c",
+          "remark": "“aos seus pequeninos”: Aos filhos pequenos das pessoas que foram saciadas. / Aos filhos dos filhos mencionados, isto é, aos netos dessas pessoas.; likely heard: Aos filhos pequenos das pessoas que foram saciadas.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "16:13",
+          "remark": "unknown word: “ímpio”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
     }
   ]
 }

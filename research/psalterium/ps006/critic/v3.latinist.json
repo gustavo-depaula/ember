@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "648fc03691bed10f1fb6d0b21626432771649e4fb7d2103d9852377ca43bc35e",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T20:20:49+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"Não identifiquei falhas de adequação: a tradução conserva os sentidos do latim, inclusive suas imagens e expressões peculiares. Todos os sinais de divisão correspondem aos do latim, na mesma ordem.\"}"
+}

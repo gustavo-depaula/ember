@@ -1,7 +1,7 @@
 {
   "psalm": 11,
   "tier": 3,
-  "version": 2,
+  "version": 3,
   "address": "vós",
   "status": "reviewed",
   "verses": {
@@ -382,14 +382,22 @@
       ],
       "latin": "Propter misériam ínopum, et gémitum páuperum",
       "kind": "glossary",
-      "why": "propter → por causa de (glossary, working; Ps 118:154 took ‘pelo’). inops (ἀπό … πτωχῶν) and pauper (πενήτων) are two words in the Latin and the Greek, often paired (inops et pauper 73:21, 85:1; páuperi et ínopi 71:13; 34:10, 36:14, 112:7, 139:13 — 14 lines with inops, grep), beside egénus (6 lines, grep: 34:10, 40:2, 69:6, 81:3, 81:4, 108:22) and mendícus (39:18, 108:17). pauper → pobre; inops ‘without resources’ → ‘indigente’ (its noun inópia → indigência: 33:10, 43:24, 87:9, 106:41); ‘necessitado’ is left for egénus. miséria → miséria (in Brazil the word for destitution, which is the sense). Matos Soares 1932 ‘Em atenção à miséria dos desvalidos, e ao gemido dos pobres’.",
+      "why": "propter → por causa de (glossary, working; Ps 118:154 took ‘pelo’). inops (ἀπό … πτωχῶν) and pauper (πενήτων) are two words in the Latin and the Greek, often paired (inops et pauper 73:21, 85:1; páuperi et ínopi 71:13; 34:10, 36:14, 112:7, 139:13 — 14 lines with inops, grep), beside egénus (6 lines, grep: 34:10, 40:2, 69:6, 81:3, 81:4, 108:22) and mendícus (39:18, 108:17). pauper → pobre; inops ‘without resources’ → ‘indigente’ (its noun inópia → indigência: 33:10, 43:24, 87:9, 106:41); ‘necessitado’ is left for egénus. miséria → miséria (in Brazil the word for destitution, which is the sense). Matos Soares 1932 ‘Em atenção à miséria dos desvalidos, e ao gemido dos pobres’. Draft 3: D38 rules inops → “carente”; “indigente” and “desvalido” stay options.",
       "options": [
+        {
+          "label": "Por causa da miséria dos carentes,",
+          "forms": {
+            "propter": "Por causa da miséria dos carentes,"
+          },
+          "note": "Draft 3, ruled by the main session (D38; review of the finished work, 2026-09-21). inops → “carente”: “indigente” was unknown to four blind readers out of four (this psalm’s among them), “carente” passed (Ps 34:10b). The glossary’s “por causa de” kept. No critic has read draft 3.",
+          "from": "review"
+        },
         {
           "label": "Por causa da miséria dos indigentes,",
           "forms": {
             "propter": "Por causa da miséria dos indigentes,"
           },
-          "note": "Ruling: the glossary’s ‘por causa de’, and inops → ‘indigente’, proposed for the glossary. Long: the colon is six syllables over the Latin. The stylist named 11:6a the psalm’s best line, so the length did not trouble him. The blind reader listed ‘indigentes’ as unknown; kept — it is the current word for the destitute in Brazilian public speech, and its noun ‘indigência’ serves inópia.",
+          "note": "Drafts 1–2, the then-working inops → indigente. the glossary’s ‘por causa de’, and inops → ‘indigente’, proposed for the glossary. Long: the colon is six syllables over the Latin. The stylist named 11:6a the psalm’s best line, so the length did not trouble him. The blind reader listed ‘indigentes’ as unknown; kept — it is the current word for the destitute in Brazilian public speech, and its noun ‘indigência’ serves inópia.",
           "from": "glossary"
         },
         {
@@ -941,6 +949,11 @@
           "reason": "Kept; ‘desvalidos’ is option 3. Recorded in the glossary row as a known cost."
         }
       ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 11:6a ínopum, “dos indigentes” → “dos carentes” (D38). No critic has read draft 3 — these verses are unread. Every earlier wording stays selectable."
     }
   ]
 }

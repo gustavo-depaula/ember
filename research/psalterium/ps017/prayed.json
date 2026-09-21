@@ -1,7 +1,7 @@
 {
   "psalm": 17,
   "tier": 3,
-  "version": 5,
+  "version": 6,
   "address": "vós",
   "status": "reviewed",
   "range": "17:2–17:51",
@@ -59,7 +59,7 @@
     "17:48": "Deus, que me dais vinganças e sujeitais os povos {sub48}, * meu libertador dos meus inimigos irados.",
     "17:49": "E me exaltareis acima dos que se levantam contra mim, * do homem iníquo me arrancareis.",
     "17:50": "Por isso vos {confitebor} entre as nações, Senhor, * e {psalmum} ao vosso nome.",
-    "17:51": "{magnificans}, † e usando de misericórdia com o seu Cristo, Davi, * e com a sua {semen} para sempre."
+    "17:51": "{magnificans}, † e usando de misericórdia com o seu Cristo, Davi, * e com a sua {semen} {usque}."
   },
   "decisions": [
     {
@@ -2219,6 +2219,33 @@
           "from": "MS1932"
         }
       ]
+    },
+    {
+      "id": "usque",
+      "refs": [
+        "17:51"
+      ],
+      "latin": "et sémini ejus usque in sǽculum",
+      "kind": "word",
+      "why": "usque in sǽculum / usque in ætérnum → “para todo o sempre” (D37). D23 made in ætérnum and in sǽculum one phrase (“para sempre”); usque adds “all the way”, and Portuguese has the phrase for it. The review of the finished work (review/consistency.md 1.5) found this verse saying “para sempre” against 27:9 “para todo o sempre” for the same Latin; D37 settles it for 27:9’s form. 15 lines of the psalter have usque in sǽculum / ætérnum (ps005/grep_latin.py); 17:51 and 27:9 are the finished ones.",
+      "options": [
+        {
+          "label": "para todo o sempre",
+          "forms": {
+            "usque": "para todo o sempre"
+          },
+          "note": "Draft 6, ruled by the main session (D37; review of the finished work, 2026-09-21): usque carried by “todo”, as in 27:9. No critic has read draft 6.",
+          "from": "review"
+        },
+        {
+          "label": "para sempre",
+          "forms": {
+            "usque": "para sempre"
+          },
+          "note": "Drafts 1–5: D23’s phrase, usque unsaid.",
+          "from": "draft"
+        }
+      ]
     }
   ],
   "choices": {
@@ -2274,7 +2301,7 @@
     "17:48": "vindíctæ → vinganças (plural kept); subdere → sujeitar (the glossary's verb for subjícere, 8:8 — one Greek verb, ὑποτάσσω; 143:2 qui subdit pópulum meum sub me will follow); iracúndus → irado. The second colon is a vocative, like 17:2 \"Senhor, minha força\".",
     "17:49": "exaltáre → exaltar; ab insurgéntibus → \"acima dos que se levantam\" (Douay-Rheims \"above them that rise up\"); vir iníquus → homem iníquo; erípere → arrancar.",
     "17:50": "Proptérea → Por isso. natiónes → nações.",
-    "17:51": "Christus → Cristo (D19); David → Davi. misericórdiam fácere cum → usar de misericórdia com (the light verb yields, as bonitátem fácere cum → usar de bondade com, 118:65). usque in sǽculum → para sempre (in sǽculum, glossary)."
+    "17:51": "Christus → Cristo (D19); David → Davi. misericórdiam fácere cum → usar de misericórdia com (the light verb yields, as bonitátem fácere cum → usar de bondade com, 118:65). usque in sǽculum → para todo o sempre (D37; decision usque — drafts 1–5 had para sempre)."
   },
   "audit": [
     {
@@ -2739,6 +2766,125 @@
           "reason": "cognóvi is the perfect of a verb of knowing whose perfect states knowledge (I have come to know = I know): the state is what 'não conhecia' says; 'que eu não conheci' is heard in Brazil as 'whom I never met'. Douay-Rheims 'which I knew not', Matos Soares 1932 'que eu não conhecia'."
         }
       ]
+    },
+    {
+      "step": "latinist",
+      "version": 5,
+      "file": "critic/v5.latinist.part1.json",
+      "note": "Draft 3’s 17:13 fix (“Diante do clarão, na sua presença, …”), unread until now. 17:13 clean. Two minors on 17:3b–c (adjútor, suscéptor), the remarks held there since draft 1 (majors on draft 2). Read: stage one, 17:2–17:25 (ps017/part1/, built by ps017/part.py 2 25 part1), which holds 17:13. Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "17:3b",
+          "remark": "minor: “o meu auxílio” — Adjutor designa aquele que auxilia. «Auxílio» é defensável por metonímia, mas torna menos explícita essa designação pessoal. Cf. [Lewis & Short](https://alatius.com/ls/index.php?l=adjutor). → “o meu auxiliador”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "Held since draft 1 (D24); the adjútor row waits on Gustavo.",
+          "decision": "adjutor",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:3c",
+          "remark": "minor: “o meu amparo” — Susceptor designa aquele que acolhe ou protege. «Amparo» é defensável como designação figurada de uma pessoa, mas «amparador» conserva mais diretamente o sentido pessoal do latim. Cf. [Lewis & Short](https://alatius.com/ls/index.php?l=susceptor). → “o meu amparador”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D19 settles suscéptor → amparo; “amparador” is not current Portuguese.",
+          "decision": "susceptor",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "version": 5,
+      "file": "critic/v5.ambiguity.unread.json",
+      "note": "17:13: “na sua presença” heard as God’s; “passaram as nuvens” heard as “the clouds went away”, and the hail and coals possibly as a separate item — both within the Latin’s own range. No unknown word. Read: the changed verse with one verse either side (ps017/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "17:12",
+          "remark": "“E fez”: Deus fez; o sujeito só fica sugerido pela menção ao Senhor no versículo 17:14. / Outra pessoa fez; o sujeito não é identificado neste versículo.; likely heard: Deus fez, sobretudo depois de ouvir o versículo 17:14.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:12",
+          "remark": "“o seu esconderijo ... ao seu redor a sua tenda”: O esconderijo e a tenda pertencem a quem fez; a tenda fica ao redor dele. / Algum dos possessivos se refere a outra pessoa, cujo esconderijo, entorno ou tenda está sendo mencionado.; likely heard: Todos os possessivos se referem a Deus.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:12",
+          "remark": "“ao seu redor a sua tenda: água tenebrosa nas nuvens do ar”: A água tenebrosa nas nuvens constitui a tenda ao redor dele. / A tenda está ao redor dele, e a água nas nuvens é outro elemento da cena.; likely heard: A água escura das nuvens forma uma espécie de tenda ao redor de Deus.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:12",
+          "remark": "“tenebrosa”: Escura, envolta em trevas. / Assustadora, sinistra.; likely heard: Assustadora ou sinistra, com a ideia de escuridão também sugerida por «trevas».",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:13",
+          "remark": "“na sua presença”: Na presença de Deus, ainda não nomeado explicitamente. / Na presença de outra pessoa não identificada, à qual o possessivo se refere.; likely heard: Na presença de Deus.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:13",
+          "remark": "“passaram as nuvens”: As nuvens se deslocaram, atravessando a cena. / As nuvens foram embora ou se dissiparam.; likely heard: As nuvens foram embora.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:13",
+          "remark": "“passaram as nuvens, granizo e carvões de fogo”: Nuvens, granizo e carvões de fogo são todos sujeitos de «passaram». / Só as nuvens passaram; granizo e carvões de fogo são apresentados à parte como outros fenômenos.; likely heard: As nuvens passaram, e houve também granizo e carvões de fogo; a pausa pode separar estes últimos do verbo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:13",
+          "remark": "“carvões de fogo”: Pedaços de carvão em brasa. / Massas ou fragmentos de fogo vindos do céu.; likely heard: Pedaços de carvão em brasa.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:14",
+          "remark": "“fez ouvir a sua voz: granizo e carvões de fogo”: O granizo e os carvões de fogo são a manifestação figurada da voz do Altíssimo. / O Altíssimo fez ouvir sua voz, e o granizo e os carvões de fogo acompanharam essa voz.; likely heard: A voz é o trovão, acompanhado de granizo e carvões de fogo.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "17:14",
+          "remark": "“carvões de fogo”: Pedaços de carvão em brasa. / Massas ou fragmentos de fogo vindos do céu.; likely heard: Pedaços de carvão em brasa.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 6,
+      "note": "v6, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 17:51 usque in sǽculum, “para sempre” → “para todo o sempre” (D37). No critic has read draft 6 — these verses are unread. Every earlier wording stays selectable."
     }
   ]
 }

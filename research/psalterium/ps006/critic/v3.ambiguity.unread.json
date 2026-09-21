@@ -1,0 +1,11 @@
+{
+  "role": "ambiguity",
+  "prompt": "../../../prompts/ambiguity.md",
+  "promptSha256": "91174d66e8dadefa9d058b3c9802fca0a69f74b7d8ef9724f667f11a82b67fca",
+  "target": "prayed.vos.json",
+  "targetSha256": "b1952ab03a52b25e92df8a2f2f89b33405becaf34aa5ad10383e89ed6f80015d",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T20:30:24+00:00",
+  "reply": "{\n  \"ambiguities\": [\n    {\n      \"id\": \"6:2\",\n      \"words\": \"não me repreendais no vosso furor, nem me castigueis na vossa ira\",\n      \"readings\": [\n        \"Pede que o Senhor não o repreenda nem o castigue.\",\n        \"Pede que o Senhor não o repreenda nem o castigue com raiva, admitindo uma correção sem ira.\"\n      ],\n      \"likelyHeard\": \"Pede que o Senhor não o repreenda nem o castigue.\"\n    },\n    {\n      \"id\": \"6:3\",\n      \"words\": \"os meus ossos estão perturbados\",\n      \"readings\": [\n        \"Os ossos estão fisicamente doentes, doloridos ou enfraquecidos.\",\n        \"A pessoa está profundamente abalada, e os ossos representam esse sofrimento.\"\n      ],\n      \"likelyHeard\": \"Os ossos estão fisicamente doentes ou doloridos, por causa de «estou enfermo» e «curai-me».\"\n    }\n  ],\n  \"unknownWords\": []\n}"
+}

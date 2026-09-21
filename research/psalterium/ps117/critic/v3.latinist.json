@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "2e587d5d289ef02129ae788f457478ef0916f520c7b1eab588d970d4586c51a4",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T20:27:08+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"117:6\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Dóminus mihi adjútor\",\n          \"portuguese\": \"O Senhor é o meu auxílio\",\n          \"problem\": \"Adjútor designa aquele que ajuda; «auxílio» substitui essa designação pessoal pelo substantivo abstrato.\",\n          \"fix\": \"O Senhor é o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"117:7\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"Dóminus mihi adjútor\",\n          \"portuguese\": \"O Senhor é o meu auxílio\",\n          \"problem\": \"Adjútor designa aquele que ajuda; «auxílio» substitui essa designação pessoal pelo substantivo abstrato.\",\n          \"fix\": \"O Senhor é o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"117:27b\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"in condénsis\",\n          \"portuguese\": \"entre ramos densos\",\n          \"problem\": \"«Ramos» explicita uma interpretação que o latim deixa indeterminada. Condénsis expressa densidade ou compactação, sem nomear aquilo que está reunido; veja [Lewis & Short](https://classics.andrewgadsden.com/lewisandshort/entry/n9991). A leitura vegetal é defensável, mas sua explicitação contraria a regra de conservar a ambiguidade.\",\n          \"fix\": \"nas espessuras\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva, em geral, o conteúdo e as construções peculiares do latim; os reparos identificados dizem respeito à designação pessoal de adjútor e à explicitação de condénsis. Todos os versículos apresentam as mesmas marcas de divisão, na mesma ordem que o latim.\"\n}"
+}

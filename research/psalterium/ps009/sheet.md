@@ -1,6 +1,6 @@
 # Salmo 9
 
-Draft 7 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 8 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -26,10 +26,10 @@ Draft 7 — not final. Pointing as Ember shows it (mediant `*` only).
 | 9:20 | Exsúrge, Dómine, non confortétur homo: \* judicéntur gentes in conspéctu tuo. | Levantai-vos, Senhor, não se fortaleça o homem: \* sejam julgadas as nações à vossa vista. |
 | 9:21 | Constítue, Dómine, legislatórem super eos: \* ut sciant gentes quóniam hómines sunt. | Estabelecei, Senhor, um legislador sobre eles: \* para que as nações saibam que são homens. |
 | 9:22 | Ut quid, Dómine, recessísti longe, \* déspicis in opportunitátibus, in tribulatióne? | Por que, Senhor, vos retirastes para longe, \* desdenhais nas horas oportunas, na tribulação? |
-| 9:23 | Dum supérbit ímpius, incénditur pauper: \* comprehendúntur in consíliis quibus cógitant. | Enquanto o ímpio se enche de soberba, o pobre é abrasado: \* ficam presos nos conselhos em que pensam. |
+| 9:23 | Dum supérbit ímpius, incénditur pauper: \* comprehendúntur in consíliis quibus cógitant. | Enquanto o ímpio se enche de soberba, o pobre é abrasado: \* ficam presos nos desígnios em que pensam. |
 | 9:24 | Quóniam laudátur peccátor in desidériis ánimæ suæ: \* et iníquus benedícitur. | Porque o pecador é louvado nos desejos da sua alma: \* e o iníquo é bendito. |
 | 9:25 | Exacerbávit Dóminum peccátor, \* secúndum multitúdinem iræ suæ non quæret. | O pecador provocou o Senhor, \* segundo a multidão da sua ira não buscará. |
-| 9:26a | Non est Deus in conspéctu ejus: \* inquinátæ sunt viæ illíus in omni témpore. | Não há Deus à vista dele: \* os caminhos dele estão manchados em todo o tempo. |
+| 9:26a | Non est Deus in conspéctu ejus: \* inquinátæ sunt viæ illíus in omni témpore. | Não há Deus à vista dele: \* os caminhos dele estão manchados em todo tempo. |
 | 9:26b | Auferúntur judícia tua a fácie ejus: \* ómnium inimicórum suórum dominábitur. | Os vossos juízos são tirados da face dele: \* dominará todos os seus inimigos. |
 | 9:27 | Dixit enim in corde suo: \* Non movébor a generatióne in generatiónem sine malo. | Pois disse no seu coração: \* Não serei abalado de geração em geração, sem mal. |
 | 9:28 | Cujus maledictióne os plenum est, et amaritúdine, et dolo: \* sub lingua ejus labor et dolor. | A sua boca está cheia de maldição, e de amargura, e de engano: \* debaixo da sua língua, fadiga e dor. |

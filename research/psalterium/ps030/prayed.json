@@ -1,7 +1,7 @@
 {
   "psalm": 30,
   "tier": 3,
-  "version": 3,
+  "version": 4,
   "address": "vós",
   "status": "reviewed",
   "verses": {
@@ -485,14 +485,22 @@
       ],
       "latin": "et vicínis meis valde",
       "kind": "glossary",
-      "why": "valde → muito (glossary). The adverb bears on the dative ('and very much to my neighbours'); 'sobretudo' (Matos Soares 1932) says the degree as a preference. Heard (draft 1): the stylist's worst line — «“Muito” fica suspenso … não se liga naturalmente ao substantivo “afronta”» → ‘e grande afronta para os meus vizinhos’; the blind reader heard 'muito' possibly as 'many neighbours'. Taken in substance with Matos Soares 1932's adverb, 'sobretudo': it says the degree of the dative ('and to my neighbours above all') without repeating 'afronta', which the Latin says once. A local departure from the valde row ('muito'), recorded there. Gate (draft 2): the Latinist, MAJOR — «“Valde” intensifica o grau da afronta … “Sobretudo” introduz uma comparação entre os vizinhos e os demais que o latim não expressa» → ‘e sobremaneira para os meus vizinhos’. Taken verbatim in draft 3: it says the degree, bound to the dative, and does not hang as 'muito' did (the stylist's worst line). It is the more formal word; 'grandemente' (the valde / veheménter row's local alternative) is the option nearest to it. Draft 3 has not been read by a critic; the change is one adverb, his own.",
+      "why": "valde → muito (glossary). The adverb bears on the dative ('and very much to my neighbours'); 'sobretudo' (Matos Soares 1932) says the degree as a preference. Heard (draft 1): the stylist's worst line — «“Muito” fica suspenso … não se liga naturalmente ao substantivo “afronta”» → ‘e grande afronta para os meus vizinhos’; the blind reader heard 'muito' possibly as 'many neighbours'. Taken in substance with Matos Soares 1932's adverb, 'sobretudo': it says the degree of the dative ('and to my neighbours above all') without repeating 'afronta', which the Latin says once. A local departure from the valde row ('muito'), recorded there. Gate (draft 2): the Latinist, MAJOR — «“Valde” intensifica o grau da afronta … “Sobretudo” introduz uma comparação entre os vizinhos e os demais que o latim não expressa» → ‘e sobremaneira para os meus vizinhos’. Taken verbatim in draft 3: it says the degree, bound to the dative, and does not hang as 'muito' did (the stylist's worst line). It is the more formal word; 'grandemente' (the valde / veheménter row's local alternative) is the option nearest to it. Draft 3 has not been read by a critic; the change is one adverb, his own. Draft 4: “grandemente”, because the blind reader of draft 3 did not know “sobremaneira”.",
       "options": [
+        {
+          "label": "grandemente",
+          "forms": {
+            "valde": "grandemente"
+          },
+          "note": "Draft 4, ruled by the main session (review of the finished work, 2026-09-21; DECISIONS.md, applied as a new draft). “Sobremaneira”, draft 3’s word, was unknown to the blind reader of draft 3 (critic/v3.ambiguity.unread.json). “Grandemente” says the degree the Latinist’s gate asked for (valde intensifies the reproach) and is current; “muito” was heard as “many neighbours”, “sobretudo” compares. No critic has read draft 4. — Earlier note: The degree, plainer to some ears.",
+          "from": "draft"
+        },
         {
           "label": "sobremaneira",
           "forms": {
             "valde": "sobremaneira"
           },
-          "note": "Ruling (draft 3): the Latinist's gate, verbatim.",
+          "note": "Draft 3, the Latinist’s gate verbatim; unknown to the blind reader. (draft 3): the Latinist's gate, verbatim.",
           "from": "latinist"
         },
         {
@@ -502,14 +510,6 @@
           },
           "note": "Draft 2. the adverb bound to the dative.",
           "from": "MS1932"
-        },
-        {
-          "label": "grandemente",
-          "forms": {
-            "valde": "grandemente"
-          },
-          "note": "The degree, plainer to some ears.",
-          "from": "draft"
         },
         {
           "label": "muito",
@@ -1533,6 +1533,118 @@
       "step": "revision",
       "version": 3,
       "note": "v3 (revise_v3.py, from prayed.v2.json): 30:12 'sobretudo' → 'sobremaneira', the gate's fix verbatim. No other change; no critic has read draft 3."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Draft 3 (30:12 “sobremaneira”, the v2 gate’s own fix). 30:12 clean. Three remarks on verses he had passed twice unchanged: 30:2 and 30:17 MAJOR (confúndar as optative → “não seja eu envergonhado”; D23’s formula, the Te Deum line), 30:23b minor (exaudísti → atender, against D3). Read: the whole psalm (prayed.vos.json). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "30:2",
+          "remark": "major: “para sempre não serei envergonhado” — Embora «confundar» também possa ser futuro pela forma, neste contexto de súplica tem valor de subjuntivo optativo. A tradução transforma o pedido em afirmação sobre o futuro. → “jamais seja eu envergonhado”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "confúndar is future or subjunctive by form; the future is D23’s formula and the Te Deum line (= 70:1), and he passed it on drafts 1 and 2. The optative is option 3 of “confundar”. Keep, held on purpose; Gustavo’s call.",
+          "decision": "confundar",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): D23 formula and the Te Deum line; Gustavo’s call"
+        },
+        {
+          "verse": "30:17",
+          "remark": "major: “Senhor, não serei envergonhado, porque vos invoquei” — O contexto de súplica e o paralelo com «erubescant» no versículo seguinte indicam o valor optativo de «confundar». O futuro português substitui essa petição por uma afirmação. → “Senhor, não seja eu envergonhado, porque vos invoquei”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "Same slot as 30:2 (decision “confundar”, option 3). Keep with 30:2.",
+          "decision": "confundar",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): D23 formula and the Te Deum line; Gustavo’s call"
+        },
+        {
+          "verse": "30:23b",
+          "remark": "minor: “escutastes a voz da minha oração” — «Escutastes» é defensável, mas exprime menos claramente o acolhimento favorável da oração presente em «exaudisti» neste contexto. → “atendestes à voz da minha oração”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "D3: exaudíre → escutar across the psalter.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "version": 3,
+      "file": "critic/v3.ambiguity.unread.json",
+      "note": "The changed word itself, “sobremaneira” (30:12), is listed as UNKNOWN. 30:12 “uma afronta” is heard as an offence the speaker gives, not a disgrace he suffers (unchanged word). Read: the changed verse with one verse either side (ps030/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "30:11b",
+          "remark": "“na pobreza”: Na falta de dinheiro e de recursos materiais. / Num estado de miséria ou desamparo, sem referência necessária a dinheiro.; likely heard: Na falta de dinheiro e de recursos materiais.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "30:11b",
+          "remark": "“os meus ossos foram perturbados”: Os ossos sofreram algum abalo físico, como dor ou tremor. / A pessoa ficou profundamente abalada, até no íntimo.; likely heard: Um sofrimento físico que atingiu até os ossos.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "30:12",
+          "remark": "“Mais que todos os meus inimigos, tornei-me uma afronta”: Tornei-me uma afronta maior do que os meus inimigos eram. / Tornei-me uma afronta para os meus inimigos e, ainda mais, para os meus vizinhos.; likely heard: Tornei-me uma afronta maior do que os meus inimigos eram.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "30:12",
+          "remark": "“uma afronta”: Uma ofensa ou provocação aos outros. / Uma vergonha, alguém desprezado pelos outros.; likely heard: Uma ofensa: a minha presença ofende ou provoca os outros.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word (opprobrium); heard as an offence given, not a disgrace suffered. Evidence for the glossary row, not a change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "30:12",
+          "remark": "“temor para os meus conhecidos”: Os conhecidos tinham medo de mim, como de uma ameaça. / A minha situação assustava os conhecidos, que temiam sofrer algo semelhante.; likely heard: Os conhecidos tinham medo de mim.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "30:12b",
+          "remark": "“fugiram para fora”: Saíram de algum lugar fechado para fugir de mim. / Foram embora, afastando-se de mim, sem indicação de um lugar fechado.; likely heard: Saíram do lugar onde eu estava para se afastar de mim.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "30:12b",
+          "remark": "“longe do coração”: Já não sou lembrado pelas outras pessoas. / Já não sou amado ou estimado pelas outras pessoas.; likely heard: Fui esquecido pelas outras pessoas, como alguém que morreu.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "30:12",
+          "remark": "unknown word: “sobremaneira”",
+          "outcome": "taken",
+          "recommendation": "option",
+          "reason": "The changed word is unknown to the blind reader. “grandemente” (option 3 of “valde”) is degree, as the gate wanted, and current; “muito” was heard as “many neighbours”. Recommend the main session weigh “grandemente”.",
+          "decision": "valde",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): taken in draft 4: “sobremaneira” → “grandemente” (option 3 of “valde”)"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 4,
+      "note": "v4, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 30:12 valde, “sobremaneira” → “grandemente” (unknown to the blind reader). No critic has read draft 4 — these verses are unread. Every earlier wording stays selectable."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Salmo 90
 
-Draft 2 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 3 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -18,5 +18,5 @@ Draft 2 — not final. Pointing as Ember shows it (mediant `*` only).
 | 90:12 | In mánibus portábunt te: \* ne forte offéndas ad lápidem pedem tuum. | Nas mãos te levarão: \* para que não venhas a bater o teu pé numa pedra. |
 | 90:13 | Super áspidem, et basilíscum ambulábis: \* et conculcábis leónem et dracónem. | Andarás sobre a áspide e o basilisco: \* e calcarás aos pés o leão e o dragão. |
 | 90:14 | Quóniam in me sperávit, liberábo eum: \* prótegam eum, quóniam cognóvit nomen meum. | Porque esperou em mim, eu o livrarei: \* eu o protegerei, porque conheceu o meu nome. |
-| 90:15 | Clamábit ad me, et ego exáudiam eum: \* cum ipso sum in tribulatióne: erípiam eum et glorificábo eum. | Clamará a mim, e eu o escutarei: \* com ele estou na tribulação: eu o arrancarei e o glorificarei. |
+| 90:15 | Clamábit ad me, et ego exáudiam eum: \* cum ipso sum in tribulatióne: erípiam eum et glorificábo eum. | Clamará a mim, e eu o escutarei: \* com ele estou na tribulação: eu o libertarei e o glorificarei. |
 | 90:16 | Longitúdine diérum replébo eum: \* et osténdam illi salutáre meum. | Eu o encherei de longos dias: \* e lhe mostrarei a minha salvação. |

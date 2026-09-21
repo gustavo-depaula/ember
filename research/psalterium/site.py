@@ -518,6 +518,10 @@ def recordedOutcome(item, vid, role, p):
         return None
     reason = f' — {esc(best["reason"])}' if best.get('reason') else ''
     decision = next((d for d in p['decisions'] if d['id'] == best.get('decision')), None)
+    if best.get('outcome') == 'pending':
+        # left open on purpose for Gustavo: guessing from the text would pass it off as settled
+        recommended = f' (recommended: {esc(best["recommendation"])})' if best.get('recommendation') else ''
+        return 'pending', 'pending — for Gustavo' + recommended + reason
     if best.get('outcome') == 'taken':
         return 'taken', 'taken' + reason
     if best.get('outcome') == 'option' and decision:

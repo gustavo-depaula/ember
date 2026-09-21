@@ -1387,6 +1387,97 @@
       "step": "revision",
       "version": 3,
       "note": "v3, by the main session under Gustavo’s delegation (DECISIONS.md D13): 117:19 “Abram-se para mim” → “Abri-me”. It is the Latinist’s own fix from critic/v1 and critic/v2 (marked major both times), so no critic was re-run. The refrain’s new form is ruled in D14."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Draft 3 (D13: 117:19 “Abri-me”). 117:19 clean. Three remarks on verses already read: 117:6–7 minors (adjútor, held since draft 1), 117:27b MAJOR (condénsis → “nas espessuras”, as on draft 1; silent on draft 2). Read: the whole psalm (prayed.vos.json). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "117:6",
+          "remark": "minor: “O Senhor é o meu auxílio” — Adjútor designa aquele que ajuda; «auxílio» substitui essa designação pessoal pelo substantivo abstrato. → “O Senhor é o meu auxiliador”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "Held since draft 1 (decision “adjutor”); the row waits on Gustavo.",
+          "decision": "adjutor",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "117:7",
+          "remark": "minor: “O Senhor é o meu auxílio” — Adjútor designa aquele que ajuda; «auxílio» substitui essa designação pessoal pelo substantivo abstrato. → “O Senhor é o meu auxiliador”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "The same slot as 117:6.",
+          "decision": "adjutor",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "117:27b",
+          "remark": "major: “entre ramos densos” — «Ramos» explicita uma interpretação que o latim deixa indeterminada. Condénsis expressa densidade ou compactação, sem nomear aquilo que está reunido; veja [Lewis & Short](https://classics.andrewgadsden.com/lewisandshort/entry/n9991). A leitura vegetal é defensável, mas sua explicitação contraria a regra de conservar a ambiguidade. → “nas espessuras”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "Refused on draft 1 (the Greek’s boughs, Douay-Rheims “boughs”); silent on draft 2; his fix is option 2 of “condensis”. Keep.",
+          "decision": "condensis",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "version": 3,
+      "file": "critic/v3.ambiguity.unread.json",
+      "note": "117:19 “Abri-me” heard as the imperative (the homograph with “I opened” noticed, not taken) — D13 holds for the ear. No unknown word. Read: the changed verse with one verse either side (ps117/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "117:19",
+          "remark": "“Abri-me”: Pedido dirigido a outras pessoas: abram para mim. / Relato de quem fala: eu abri para mim.; likely heard: Pedido para que abram as portas, embora a forma também soe como passado de primeira pessoa.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "117:19",
+          "remark": "“as portas da justiça”: Portas de um lugar ligado à justiça, como um tribunal. / Entrada, concreta ou figurada, para o âmbito da justiça de Deus.; likely heard: Entrada para um lugar sagrado, pela menção seguinte à porta do Senhor.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "117:19",
+          "remark": "“esta é a porta do Senhor”: Uma das portas mencionadas é identificada como a porta do Senhor. / O conjunto antes chamado de portas é agora apresentado como uma única entrada.; likely heard: A mesma entrada mencionada antes, embora a passagem do plural ao singular deixe a referência incerta.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "117:21",
+          "remark": "“vos”: Ao Senhor, tratado por vós. / A várias pessoas às quais quem fala se dirige.; likely heard: Ao Senhor, pelo contexto de oração e pela referência à salvação.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "117:21",
+          "remark": "“me escutastes”: Ouvistes o que eu disse. / Atendestes ao meu pedido.; likely heard: Atendestes ao meu pedido.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "117:21",
+          "remark": "“salvação”: Livramento de um perigo ou da morte. / Salvação espiritual ou eterna.; likely heard: Salvação espiritual, pelo uso habitual da palavra na igreja, embora a menção anterior à morte também favoreça a ideia de livramento.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "025187b66a3ad861896559645c72354e09be9e9b21d0c24cfedc8d0c23d9326a",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T20:24:25+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"17:3b\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"adjútor meus\",\n          \"portuguese\": \"o meu auxílio\",\n          \"problem\": \"Adjutor designa aquele que auxilia. «Auxílio» é defensável por metonímia, mas torna menos explícita essa designação pessoal. Cf. [Lewis & Short](https://alatius.com/ls/index.php?l=adjutor).\",\n          \"fix\": \"o meu auxiliador\"\n        }\n      ]\n    },\n    {\n      \"id\": \"17:3c\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"suscéptor meus\",\n          \"portuguese\": \"o meu amparo\",\n          \"problem\": \"Susceptor designa aquele que acolhe ou protege. «Amparo» é defensável como designação figurada de uma pessoa, mas «amparador» conserva mais diretamente o sentido pessoal do latim. Cf. [Lewis & Short](https://alatius.com/ls/index.php?l=susceptor).\",\n          \"fix\": \"o meu amparador\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o sentido latino, inclusive suas imagens e construções incomuns; as duas ressalvas são de precisão lexical, sem erro grave. Nos 27 versículos, as marcas †, ‡ e * apresentam exatamente a mesma sequência do latim.\"\n}"
+}

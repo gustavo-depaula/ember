@@ -131,6 +131,8 @@ function checkFixture(siteDir) {
   const page = fs.readFileSync(path.join(siteDir, 'ps999.html'), 'utf8');
   ok('audit: a remark that was taken', /class="outcome taken">❧ taken/.test(page));
   ok('audit: a remark kept as an option, linked to its decision', /kept as an option — [^<]*<a href="#d-ordo">/.test(page));
+  // the proposal is not in the text, so a guess would say "not taken as proposed"
+  ok('audit: a remark whose recorded outcome is pending says so', /class="outcome pending">pending — for Gustavo \(recommended: refuse\)/.test(page) && !page.includes('not taken as proposed'));
   // ps133 stands in two lists (Sunday Compline and the Psalter), ps998 among the canticles
   ok('the index lists the half-written folders as incomplete', (fs.readFileSync(path.join(siteDir, 'index.html'), 'utf8').match(/class="status incomplete"/g) || []).length === 3);
 

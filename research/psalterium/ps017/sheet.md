@@ -1,6 +1,6 @@
 # Salmo 17
 
-Draft 5 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 6 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -57,4 +57,4 @@ Draft 5 — not final. Pointing as Ember shows it (mediant `*` only).
 | 17:48 | Deus, qui das vindíctas mihi, et subdis pópulos sub me: \* liberátor meus de inimícis meis iracúndis. | Deus, que me dais vinganças e sujeitais os povos sob mim, \* meu libertador dos meus inimigos irados. |
 | 17:49 | Et ab insurgéntibus in me exaltábis me: \* a viro iníquo erípies me. | E me exaltareis acima dos que se levantam contra mim, \* do homem iníquo me arrancareis. |
 | 17:50 | Proptérea confitébor tibi in natiónibus, Dómine: \* et nómini tuo psalmum dicam. | Por isso vos darei graças entre as nações, Senhor, \* e entoarei um salmo ao vosso nome. |
-| 17:51 | Magníficans salútes Regis ejus, et fáciens misericórdiam Christo suo David: \* et sémini ejus usque in sǽculum. | Engrandecendo as salvações do seu Rei, e usando de misericórdia com o seu Cristo, Davi, \* e com a sua descendência para sempre. |
+| 17:51 | Magníficans salútes Regis ejus, et fáciens misericórdiam Christo suo David: \* et sémini ejus usque in sǽculum. | Engrandecendo as salvações do seu Rei, e usando de misericórdia com o seu Cristo, Davi, \* e com a sua descendência para todo o sempre. |

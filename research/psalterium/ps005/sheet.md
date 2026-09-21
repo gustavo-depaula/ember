@@ -1,6 +1,6 @@
 # Salmo 5
 
-Draft 3 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 4 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -16,6 +16,6 @@ Draft 3 — not final. Pointing as Ember shows it (mediant `*` only).
 | 5:10 | Quóniam non est in ore eórum véritas: \* cor eórum vanum est. | Porque não há verdade na boca deles: \* o seu coração é vão. |
 | 5:11a | Sepúlcrum patens est guttur eórum, linguis suis dolóse agébant, \* júdica illos, Deus. | A sua garganta é um sepulcro aberto, com as suas línguas enganavam, \* julgai-os, Deus. |
 | 5:11b | Décidant a cogitatiónibus suis, secúndum multitúdinem impietátum eórum expélle eos, \* quóniam irritavérunt te, Dómine. | Caiam dos seus próprios pensamentos, segundo a multidão das suas impiedades expulsai-os, \* porque vos provocaram, Senhor. |
-| 5:12a | Et læténtur omnes, qui sperant in te, \* in ætérnum exsultábunt: et habitábis in eis. | E alegrem-se todos os que esperam em vós, \* exultarão eternamente: e habitareis neles. |
+| 5:12a | Et læténtur omnes, qui sperant in te, \* in ætérnum exsultábunt: et habitábis in eis. | E alegrem-se todos os que esperam em vós, \* exultarão para sempre: e habitareis neles. |
 | 5:12b | Et gloriabúntur in te omnes, qui díligunt nomen tuum, \* (13a) quóniam tu benedíces justo. | E em vós se gloriarão todos os que amam o vosso nome, \* porque vós bendireis ao justo. |
 | 5:13b | Dómine, ut scuto bonæ voluntátis tuæ \* coronásti nos. | Senhor, com a vossa boa vontade como escudo \* nos coroastes. |

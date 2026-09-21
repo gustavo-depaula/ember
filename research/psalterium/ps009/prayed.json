@@ -1,7 +1,7 @@
 {
   "psalm": 9,
   "tier": 3,
-  "version": 7,
+  "version": 8,
   "address": "vós",
   "status": "reviewed",
   "range": "9:2–9:39",
@@ -31,7 +31,7 @@
     "9:23": "Enquanto o ímpio {superbit}, {pauper5} {incenditur}: * {comprehenduntur} {consiliis}.",
     "9:24": "Porque o pecador é louvado nos desejos da sua alma: * e o iníquo {benedicitur}.",
     "9:25": "O pecador {exacerbavit} o Senhor, * segundo {multitudo} da sua ira não buscará.",
-    "9:26a": "Não há Deus {conspectu26}: * os caminhos dele estão {inquinatae} em todo o tempo.",
+    "9:26a": "Não há Deus {conspectu26}: * os caminhos dele estão {inquinatae} {omni_tempore}.",
     "9:26b": "{auferuntur}: * dominará todos os seus inimigos.",
     "9:27": "Pois disse no seu coração: * Não serei {movebor} de geração em geração{sine_malo}.",
     "9:28": "A sua boca está cheia de maldição, e de amargura, e de {dolo}: * {v28b}.",
@@ -1574,14 +1574,22 @@
       ],
       "latin": "in consíliis quibus cógitant",
       "kind": "word",
-      "why": "consílium → conselho (glossary), cogitáre → pensar em (glossary). Who is caught is not said: the plural could be the proud or the poor, as in the Latin (the Greek συλλαμβάνονται is as open). Douay-Rheims ‘they are caught in the counsels which they devise’; Matos Soares 1932 inserts ‘(por fim os ímpios)’.",
+      "why": "consílium → conselho (glossary), cogitáre → pensar em (glossary). Who is caught is not said: the plural could be the proud or the poor, as in the Latin (the Greek συλλαμβάνονται is as open). Douay-Rheims ‘they are caught in the counsels which they devise’; Matos Soares 1932 inserts ‘(por fim os ímpios)’. Draft 8: D33 splits the word — desígnio where consílium is a plan, conselho where it is advice or a council — and this is a plan.",
       "options": [
+        {
+          "label": "nos desígnios em que pensam",
+          "forms": {
+            "consiliis": "nos desígnios em que pensam"
+          },
+          "note": "Draft 8, ruled by the main session (D33; review of the finished work, 2026-09-21, review/consistency.md 1.2). Here consílium is what the proud intend, and the build is 20:12 cogitavérunt consília → “pensaram em desígnios”, one of D33’s two founding verses; the blind readers heard “conselhos” there as advice given to others. The subject stays unnamed. No critic has read draft 8.",
+          "from": "review"
+        },
         {
           "label": "nos conselhos em que pensam",
           "forms": {
             "consiliis": "nos conselhos em que pensam"
           },
-          "note": "Ruling: both glossary words; ‘em que pensam’ is the verb’s own regency (pensar em). The subject stays unnamed.",
+          "note": "Drafts 1–7, before D33 split consílium. both glossary words; ‘em que pensam’ is the verb’s own regency (pensar em). The subject stays unnamed.",
           "from": "glossary"
         },
         {
@@ -2515,6 +2523,33 @@
           "from": "draft"
         }
       ]
+    },
+    {
+      "id": "omni_tempore",
+      "refs": [
+        "9:26a"
+      ],
+      "latin": "in omni témpore",
+      "kind": "word",
+      "why": "in omni témpore (ἐν παντὶ καιρῷ), “at every time”. The finished psalms had it two ways: 33:2 and 118:20 “em todo tempo”, 9:26a “em todo o tempo” (review/consistency.md 2.4). One form for all three, the majority’s; Ps 33’s decision “tempore” gives the reason: without the article “todo” is “every”, with it “the whole”, which a Brazilian also hears as “all the time” (as in the tota die row, D24).",
+      "options": [
+        {
+          "label": "em todo tempo",
+          "forms": {
+            "omni_tempore": "em todo tempo"
+          },
+          "note": "Draft 8, the form of 33:2 and 118:20 (review of the finished work, 2026-09-21). No critic has read draft 8.",
+          "from": "review"
+        },
+        {
+          "label": "em todo o tempo",
+          "forms": {
+            "omni_tempore": "em todo o tempo"
+          },
+          "note": "Drafts 1–7 (Matos Soares 1932’s article).",
+          "from": "draft"
+        }
+      ]
     }
   ],
   "choices": {
@@ -2999,6 +3034,156 @@
       "step": "revision",
       "version": 7,
       "note": "v7, by the main session under Gustavo’s delegation (DECISIONS.md D30): 9:8b orbem terræ, “o orbe da terra” → “o mundo”. One slot; no critic re-run. “O orbe da terra” stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 7,
+      "file": "critic/v7.latinist.part1.json",
+      "note": "Drafts 4 (9:12 “os seus feitos”) and 7 (D30: 9:8b “o mundo”) on stage one. Both unread verses clean. Four remarks on verses already read: 9:4 MAJOR asking to go back to draft 1’s “Ao voltar para trás”, the very wording his own draft-1 major replaced; 9:6 minor (fourth time), 9:10 MAJOR (third) and 9:13 MAJOR (second), all three repeats of remarks already held. Read: stage one, 9:2–9:21 (ps009/part1/, built by ps009/part.py 2 21 part1), which holds both unread verses. Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "9:4",
+          "remark": "major: “Ao fazer voltar para trás o meu inimigo” — A construção indica o retrocesso do inimigo. «Fazer voltar» introduz uma ação causativa e um agente que o faz retroceder. → “Ao voltar para trás o meu inimigo”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "He asks for draft 1’s “Ao voltar para trás”, which his own draft-1 major replaced with “Ao fazer voltar” (taken). The same reader contradicting himself on unchanged words (D24).",
+          "decision": "convertendo",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:6",
+          "remark": "minor: “pelos séculos dos séculos” — A fórmula portuguesa conserva o sentido de perpetuidade, mas transforma em plurais os dois substantivos singulares do latim. → “pelo século do século”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "Fourth time; the glossary formula, held with the singular as option.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:10",
+          "remark": "major: “auxílio” — O latim designa quem auxilia; a tradução substitui essa designação pessoal pelo auxílio prestado. → “auxiliador”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Third time; adjútor → auxílio held against the gate on purpose (D24, D27), waiting on Gustavo’s ruling of the row (HANDOFF item 15).",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:13",
+          "remark": "major: “ao pedir contas do sangue deles, ele se lembrou” — A tradução prende «deles» exclusivamente a «sangue» e deixa sem complemento o ato de lembrar. No encadeamento latino, «eorum» complementa «recordatus est»: ele se lembrou deles ao requerer sangue. → “ao pedir contas do sangue, ele se lembrou deles”",
+          "outcome": "option",
+          "recommendation": "option",
+          "reason": "Second time; held on draft 3 because the Gallican is the Greek word for word (τὰ αἵματα αὐτῶν). Stays held.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "version": 7,
+      "file": "critic/v7.ambiguity.unread.json",
+      "note": "9:8b “o mundo” and 9:12 “os seus feitos” heard rightly. Unknown: equidade (9:8b, unchanged word), Sião. No fault on a changed verse. Read: the changed verses with one verse either side (ps009/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "9:7b",
+          "remark": "“a memória deles”: A lembrança que outras pessoas tinham deles desapareceu. / Eles perderam a própria memória.; likely heard: A lembrança dessas pessoas desapareceu, mas o trecho não identifica quem são elas.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:7b",
+          "remark": "“com estrondo”: O desaparecimento ocorreu acompanhado de um barulho forte. / O desaparecimento foi impressionante ou teve grande repercussão.; likely heard: O desaparecimento foi acompanhado de uma destruição ruidosa.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:8b",
+          "remark": "“Preparou o seu trono”: O Senhor preparou o próprio trono. / Alguém não identificado preparou o trono do Senhor.; likely heard: O Senhor preparou o próprio trono, retomando o sujeito do verso anterior.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:8b",
+          "remark": "“em juízo”: Preparou o trono para exercer julgamento. / Preparou o trono durante um julgamento.; likely heard: Preparou o trono para julgar, sobretudo pelo que vem em seguida.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:10",
+          "remark": "“o pobre”: A pessoa que não tem recursos materiais. / A pessoa desamparada ou em sofrimento, independentemente de seus recursos.; likely heard: A pessoa que não tem recursos materiais.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:11",
+          "remark": "“esperem em vós”: Depositem em vós sua confiança e esperança. / Fiquem aguardando uma ação ou resposta vossa.; likely heard: Depositem sua esperança no Senhor.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:12",
+          "remark": "“os seus feitos”: As ações realizadas pelo Senhor. / As ações realizadas pelas nações.; likely heard: As ações realizadas pelo Senhor.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:13",
+          "remark": "“deles”: Das pessoas das nações mencionadas imediatamente antes. / Dos pobres mencionados ao final do verso. / Dos que buscam o Senhor, mencionados anteriormente.; likely heard: Dos pobres, depois de ouvir o verso inteiro; antes disso, a referência fica indefinida.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:13",
+          "remark": "“pedir contas do sangue deles”: Exigir responsabilidade pelo sangue dessas pessoas que foi derramado. / Exigir dessas pessoas responsabilidade pelo sangue que elas derramaram.; likely heard: Exigir responsabilidade pela morte ou pelo ferimento dessas pessoas.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:13",
+          "remark": "“ele se lembrou”: O Senhor se lembrou das pessoas cujo sangue foi derramado. / O Senhor se lembrou do sangue derramado e da necessidade de cobrar responsabilidade. / O Senhor se lembrou do clamor dos pobres.; likely heard: O Senhor se lembrou dos pobres e do seu clamor.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:8b",
+          "remark": "unknown word: “equidade”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "9:12",
+          "remark": "unknown word: “Sião”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 8,
+      "note": "v8, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 9:23 consíliis, “nos conselhos em que pensam” → “nos desígnios em que pensam” (D33); 9:26a in omni témpore, “em todo o tempo” → “em todo tempo” (as 33:2, 118:20). No critic has read draft 8 — these verses are unread. Every earlier wording stays selectable."
     }
   ]
 }

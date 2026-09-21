@@ -1,7 +1,7 @@
 {
   "psalm": 36,
   "tier": 3,
-  "version": 4,
+  "version": 5,
   "address": "vós",
   "status": "reviewed",
   "range": "36:1–36:40",
@@ -774,14 +774,22 @@
       ],
       "latin": "páuperem et ínopem",
       "kind": "glossary",
-      "why": "pauper et inops → \"o pobre e o indigente\" (the inops row, open: \"indigente\" was unknown to the blind reader three times — Pss 11, 13 — and \"desvalido\" (MS1932 in Ps 11) is the candidate named there). Kept with the row so that the evidence accumulates in one place; the pair is the Latin's (Matos Soares 1932 \"o pobre e o indigente\" here).",
+      "why": "pauper et inops → \"o pobre e o indigente\" (the inops row, open: \"indigente\" was unknown to the blind reader three times — Pss 11, 13 — and \"desvalido\" (MS1932 in Ps 11) is the candidate named there). Kept with the row so that the evidence accumulates in one place; the pair is the Latin's (Matos Soares 1932 \"o pobre e o indigente\" here). Draft 5: D38 rules inops → “carente”; “indigente” and “desvalido” stay options.",
       "options": [
+        {
+          "label": "carente",
+          "forms": {
+            "inops": "carente"
+          },
+          "note": "Draft 5, ruled by the main session (D38; review of the finished work, 2026-09-21). “Indigente” was unknown to four blind readers out of four; “carente” passed (Ps 34:10b, where it also stands beside pauper). “Desvalido”, this psalm’s proposal, stays an option: one reader did not know it. No critic has read draft 5.",
+          "from": "review"
+        },
         {
           "label": "indigente",
           "forms": {
             "inops": "indigente"
           },
-          "note": "Ruling: the row.",
+          "note": "Drafts 1–4, the then-working row. the row.",
           "from": "glossary"
         },
         {
@@ -1626,7 +1634,7 @@
     },
     {
       "step": "draft",
-      "note": "Stage one (36:1–36:20), draft 1, from consult/parallels/ps036.md (LXX Rahlfs, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: æmulári 3 lines here + 77:58 (the noun); zeláre 36:1, 72:3; exterminári 36:9, 79:14; malignári 36:8–9, 104:15; hereditáre 6 lines (24:13, 81:8, four here); aréscere 36:2, 89:6; relíquiæ 16:14c, 75:11, 36:37–38; fænum 11 lines; próspicit, trucidáre, evagináre, strídere, collídere, mutuári, superexaltáre only here. Glossary applied: D15, D23, D24 (malvados), D36 (esperar por), velóciter → depressa, delectári → deleitar-se, petítio → petição, edúcere → fazer sair, prosperári, ira / furor, derelínquere → abandonar, exterminar, quǽrere → buscar, mansuétus → manso, multitúdo → multidão, irridére → rir de, gládius → espada, inténdere arcum → armar o arco, pauper / inops → pobre / indigente, rectus corde, confríngere / contérere → quebrar, confirmáre → confirmar, novit → conhece, immaculátus, saturáre → saciar, períre → perecer, defícere → desfalecer with the participle + verb row, fumus → fumaça. Latin (= Greek) readings kept against the Hebrew: 36:1 envy (not \"fret\"), 36:3 \"serás apascentado nas suas riquezas\" (not \"feed on faithfulness\"), 36:5 \"Revela\" (not \"commit\"), 36:6 \"ora a ele\" (not \"wait patiently\"), 36:18 \"dias\" where the Greek has \"ways\" (the Latin followed against both), 36:20 \"logo que forem honrados e exaltados\" (not \"like the glory of the pastures\"). Every tu imperative is to a single man (the psalm's addressee); no vós imperative in stage one. Tests for the readers: \"tenhas inveja … invejes\", \"usa de bondade\", \"serás apascentado\", \"Revela ao Senhor\", \"e ele fará\", \"sê sujeito\", \"ora a ele\", \"a ponto de fazeres o mal\", \"espreitará\", \"prevê\", \"abater\", \"indigente\", \"trucidar\", \"confirma os justos\", \"desfalecendo, como a fumaça desfalecerão\", \"na multidão da paz\"."
+      "note": "Stage one (36:1–36:20), draft 1, from consult/parallels/ps036.md (LXX Rahlfs, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counted with ps005/grep_latin.py: æmulári 3 lines here + 77:58 (the noun); zeláre 36:1, 72:3; exterminári 36:9, 79:14; malignári (finite or infinitive) 36:8–9, 73:3 malignátus est, 82:4 malignavérunt consílium, 104:15 (recounted after the grep_latin.py accent fix); hereditáre 6 lines (24:13, 81:8, four here); aréscere 36:2, 89:6; relíquiæ 16:14c, 20:13, 75:11, 36:37–38 (recounted); fænum 11 lines; próspicit, trucidáre, evagináre, strídere, collídere, mutuári, superexaltáre only here. Glossary applied: D15, D23, D24 (malvados), D36 (esperar por), velóciter → depressa, delectári → deleitar-se, petítio → petição, edúcere → fazer sair, prosperári, ira / furor, derelínquere → abandonar, exterminar, quǽrere → buscar, mansuétus → manso, multitúdo → multidão, irridére → rir de, gládius → espada, inténdere arcum → armar o arco, pauper / inops → pobre / indigente, rectus corde, confríngere / contérere → quebrar, confirmáre → confirmar, novit → conhece, immaculátus, saturáre → saciar, períre → perecer, defícere → desfalecer with the participle + verb row, fumus → fumaça. Latin (= Greek) readings kept against the Hebrew: 36:1 envy (not \"fret\"), 36:3 \"serás apascentado nas suas riquezas\" (not \"feed on faithfulness\"), 36:5 \"Revela\" (not \"commit\"), 36:6 \"ora a ele\" (not \"wait patiently\"), 36:18 \"dias\" where the Greek has \"ways\" (the Latin followed against both), 36:20 \"logo que forem honrados e exaltados\" (not \"like the glory of the pastures\"). Every tu imperative is to a single man (the psalm's addressee); no vós imperative in stage one. Tests for the readers: \"tenhas inveja … invejes\", \"usa de bondade\", \"serás apascentado\", \"Revela ao Senhor\", \"e ele fará\", \"sê sujeito\", \"ora a ele\", \"a ponto de fazeres o mal\", \"espreitará\", \"prevê\", \"abater\", \"indigente\", \"trucidar\", \"confirma os justos\", \"desfalecendo, como a fumaça desfalecerão\", \"na multidão da paz\"."
     },
     {
       "step": "checks",
@@ -2009,6 +2017,11 @@
           "reason": "D27."
         }
       ]
+    },
+    {
+      "step": "revision",
+      "version": 5,
+      "note": "v5, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 36:14b ínopem, “o indigente” → “o carente” (D38). No critic has read draft 5 — these verses are unread. Every earlier wording stays selectable."
     }
   ]
 }

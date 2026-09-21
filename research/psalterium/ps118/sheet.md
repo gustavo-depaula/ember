@@ -1,6 +1,6 @@
 # Salmo 118
 
-Draft 17 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 18 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -107,7 +107,7 @@ Draft 17 — not final. Pointing as Ember shows it (mediant `*` only).
 | 118:101 | Ab omni via mala prohíbui pedes meos: \* ut custódiam verba tua. | Retive os meus pés de todo caminho mau: \* para guardar as vossas palavras. |
 | 118:102 | A judíciis tuis non declinávi: \* quia tu legem posuísti mihi. | Não me apartei dos vossos juízos: \* porque vós me impusestes uma lei. |
 | 118:103 | Quam dúlcia fáucibus meis elóquia tua, \* super mel ori meo! | Como é doce à minha garganta o que dissestes, \* mais que o mel à minha boca! |
-| 118:104 | A mandátis tuis intelléxi: \* proptérea odívi omnem viam iniquitátis. | Pelos vossos mandamentos entendi: \* por isso odiei todo caminho de iniquidade. |
+| 118:104 | A mandátis tuis intelléxi: \* proptérea odívi omnem viam iniquitátis. | Pelos vossos mandamentos entendi: \* por isso odeio todo caminho de iniquidade. |
 | 118:105 | (Nun) Lucérna pédibus meis verbum tuum, \* et lumen sémitis meis. | Lâmpada para os meus pés é a vossa palavra, \* e luz para as minhas veredas. |
 | 118:106 | Jurávi, et státui \* custodíre judícia justítiæ tuæ. | Jurei, e resolvi \* guardar os juízos da vossa justiça. |
 | 118:107 | Humiliátus sum usquequáque, Dómine: \* vivífica me secúndum verbum tuum. | Fui de todo humilhado, Senhor: \* vivificai-me segundo a vossa palavra. |

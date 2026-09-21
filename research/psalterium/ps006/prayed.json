@@ -964,6 +964,37 @@
       "step": "revision",
       "version": 3,
       "note": "v3, by the main session under Gustavo’s delegation (DECISIONS.md D21): 6:2 árguas, “acuseis” → “repreendais”. One word; no critic re-run. “Acuseis” stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Draft 3 (D21: 6:2 “repreendais”). Clean: no verse remarked, every mark confirmed. Read: the whole psalm (prayed.vos.json). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": []
+    },
+    {
+      "step": "ambiguity",
+      "version": 3,
+      "file": "critic/v3.ambiguity.unread.json",
+      "note": "6:2 “repreendais” heard rightly. Two items, both the Latin’s own range; no unknown word. Read: the changed verse with one verse either side (ps006/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "6:2",
+          "remark": "“não me repreendais no vosso furor, nem me castigueis na vossa ira”: Pede que o Senhor não o repreenda nem o castigue. / Pede que o Senhor não o repreenda nem o castigue com raiva, admitindo uma correção sem ira.; likely heard: Pede que o Senhor não o repreenda nem o castigue.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "6:3",
+          "remark": "“os meus ossos estão perturbados”: Os ossos estão fisicamente doentes, doloridos ou enfraquecidos. / A pessoa está profundamente abalada, e os ossos representam esse sofrimento.; likely heard: Os ossos estão fisicamente doentes ou doloridos, por causa de «estou enfermo» e «curai-me».",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
     }
   ]
 }

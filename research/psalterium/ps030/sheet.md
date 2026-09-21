@@ -1,6 +1,6 @@
 # Salmo 30
 
-Draft 3 — not final. Pointing as Ember shows it (mediant `*` only).
+Draft 4 — not final. Pointing as Ember shows it (mediant `*` only).
 
 | | Latin | Português |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ Draft 3 — not final. Pointing as Ember shows it (mediant `*` only).
 | 30:10 | Miserére mei, Dómine, quóniam tríbulor: \* conturbátus est in ira óculus meus, ánima mea, et venter meus: | Tende piedade de mim, Senhor, porque estou atribulado: \* na ira foram perturbados o meu olho, a minha alma e o meu ventre: |
 | 30:11 | Quóniam defécit in dolóre vita mea: \* et anni mei in gemítibus. | Porque a minha vida desfaleceu na dor: \* e os meus anos, em gemidos. |
 | 30:11b | Infirmáta est in paupertáte virtus mea: \* et ossa mea conturbáta sunt. | O meu vigor se enfraqueceu na pobreza: \* e os meus ossos foram perturbados. |
-| 30:12 | Super omnes inimícos meos factus sum oppróbrium et vicínis meis valde: \* et timor notis meis. | Mais que todos os meus inimigos, tornei-me uma afronta, e sobremaneira para os meus vizinhos: \* e temor para os meus conhecidos. |
+| 30:12 | Super omnes inimícos meos factus sum oppróbrium et vicínis meis valde: \* et timor notis meis. | Mais que todos os meus inimigos, tornei-me uma afronta, e grandemente para os meus vizinhos: \* e temor para os meus conhecidos. |
 | 30:12b | Qui vidébant me, foras fugérunt a me: \* oblivióni datus sum, tamquam mórtuus a corde. | Os que me viam fugiram para fora, longe de mim: \* fui entregue ao esquecimento, como um morto, longe do coração. |
 | 30:13 | Factus sum tamquam vas pérditum: \* quóniam audívi vituperatiónem multórum commorántium in circúitu. | Tornei-me como um vaso destruído: \* porque ouvi a censura de muitos que moram ao redor. |
 | 30:14 | In eo dum convenírent simul advérsum me, \* accípere ánimam meam consiliáti sunt. | Enquanto se reuniam juntos contra mim, \* planejaram tomar a minha alma. |

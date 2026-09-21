@@ -1665,6 +1665,77 @@
       "step": "revision",
       "version": 3,
       "note": "v3, by the main session under Gustavo’s delegation (DECISIONS.md D25): 7:13 “Se não vos voltardes” → “Se não vos converterdes”. One word; no critic re-run. The echo wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Draft 3 (D25: 7:13 “converterdes”). Clean: no verse remarked. He did not repeat the 7:5b major he had raised on drafts 1 and 2 (the words are unchanged) — D24’s variance once more. Read: the whole psalm (prayed.vos.json). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": []
+    },
+    {
+      "step": "ambiguity",
+      "version": 3,
+      "file": "critic/v3.ambiguity.unread.json",
+      "note": "7:13 “Se não vos converterdes” heard as said to people (“vocês”), not to God: the cost of vós found on draft 1 (voltardes) does not recur. Unknown word: brandirá (unchanged). Read: the changed verse with one verse either side (ps007/unread/blind/). Run by the review of unread drafts (sub-agent, 2026-09-21). Every outcome is PENDING — the text is unchanged and each remark is for the main session; “recommendation” is this reviewer’s advice.",
+      "outcomes": [
+        {
+          "verse": "7:12",
+          "remark": "“acaso se ira todos os dias?”: A pergunta sugere que Deus não se irrita todos os dias, pois é paciente. / A pergunta pede confirmação de que Deus se irrita todos os dias.; likely heard: Deus não se irrita todos os dias, pois é paciente.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "7:13",
+          "remark": "“Se não vos converterdes”: Se vocês não passarem a seguir a religião ou a crer em Deus. / Se vocês não se arrependerem e mudarem de conduta.; likely heard: Se vocês não se arrependerem e passarem a viver conforme a fé.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "7:13",
+          "remark": "“armou o seu arco”: Montou ou colocou a corda no arco. / Pôs o arco em posição de disparar, tensionando a corda.; likely heard: Deixou o arco pronto para disparar.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "7:14",
+          "remark": "“nele”: No arco mencionado antes. / Em Deus, mencionado como agente das ações.; likely heard: No arco, embora a relação entre o arco e os instrumentos preparados possa ficar pouco clara.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "7:14",
+          "remark": "“fez as suas setas para os que ardem”: Fez setas para atingir os que ardem. / Fez setas para entregar aos que ardem, para que eles as usem.; likely heard: Fez setas para atingir os que ardem.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "7:14",
+          "remark": "“os que ardem”: Pessoas que estão literalmente queimando. / Pessoas tomadas de raiva ou ódio. / Pessoas tomadas de desejo, paixão ou fervor.; likely heard: Pessoas tomadas de raiva ou de alguma paixão intensa, mas o texto não permite identificar qual.",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "No fault: within the Latin’s own range, or heard rightly.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        },
+        {
+          "verse": "7:13",
+          "remark": "unknown word: “brandirá”",
+          "outcome": "refused",
+          "recommendation": "refuse",
+          "reason": "Unchanged word; recorded as evidence for its glossary row, no change here.",
+          "resolution": "main session, 2026-09-21 (DECISIONS.md, review of the finished work): as recommended"
+        }
+      ]
     }
   ]
 }

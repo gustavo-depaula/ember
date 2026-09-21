@@ -212,6 +212,7 @@ details[open] > summary { margin-bottom: .6rem; }
 .fix .problem, .fix .cost { color: var(--ink-2); font-size: 1rem; }
 .fix .outcome { font-style: italic; font-size: 1rem; color: var(--ink-2); }
 .fix .outcome.taken { color: var(--ink); }
+.fix .outcome.pending { color: var(--rubric); }
 .vname { font-style: italic; color: var(--rubric); margin-right: .45rem; }
 @media (max-width: 760px) { .fix { grid-template-columns: 2.6rem 1fr; column-gap: 1rem; } }
 
