@@ -1,0 +1,1258 @@
+{
+ "psalm": 21,
+ "tier": 3,
+ "version": 1,
+ "address": "vós",
+ "status": "draft",
+ "verses": {
+  "21:2": "{deus}, {respice}: por que me {dereliquisti}? * longe da minha salvação estão as palavras das minhas {delicta}.",
+  "21:3": "Meu Deus, clamarei {perdiem}, e não escutareis: * e de noite, e não {insipientiam}.",
+  "21:4": "Mas vós habitais {sancto}, * louvor de Israel.",
+  "21:5": "Em vós esperaram os nossos pais: * esperaram, e vós os livrastes.",
+  "21:6": "A vós clamaram, e foram salvos: * em vós esperaram, e não foram {confusi}.",
+  "21:7": "Mas eu sou um verme, e não um homem: * {opprobrium} dos homens, e {abjectio} do povo.",
+  "21:8": "Todos os que me viam {deriserunt}: * falaram com os lábios, e {moverunt} a cabeça.",
+  "21:9": "Esperou no Senhor: que ele o {eripiat}, * que o salve, {vult}.",
+  "21:10": "Porque {tues} me tirastes do ventre: * a minha esperança desde {uberibus} da minha mãe. {projectus} desde {utero}:",
+  "21:11": "Desde o ventre da minha mãe {deusmeus}, * não vos afasteis de mim:",
+  "21:12": "Porque a tribulação está próxima: * porque não há quem {adjuvet}.",
+  "21:13": "Cercaram-me muitos {vituli}: * touros gordos me {obs1}.",
+  "21:14": "Abriram sobre mim a sua boca, * como um leão que arrebata e ruge.",
+  "21:15": "Como água fui derramado: * e {dispersa} todos os meus ossos.",
+  "21:15b": "O meu coração se tornou como cera que se derrete * no meio {ventris}.",
+  "21:16": "{virtus} secou-se como um {testa}, e a minha língua se apegou à minha {fauces}: * e me fizestes descer ao pó da morte.",
+  "21:17": "Porque me cercaram muitos cães: * {concilium} dos {malignantium} me {obs2}.",
+  "21:17b": "{foderunt} as minhas mãos e os meus pés: * contaram todos os meus ossos.",
+  "21:18": "Eles, porém, me {consideraverunt} e me fitaram: * repartiram entre si as minhas vestes, e sobre a minha veste lançaram {sortem}.",
+  "21:20": "Mas vós, Senhor, não {elongaveris} o vosso auxílio: * {conspice}.",
+  "21:21": "{erue} da espada, Deus, a minha alma: * e da mão do cão {unicam}:",
+  "21:22": "Salvai-me da boca do leão: * e dos chifres dos {unicornium} {humilitatem}.",
+  "21:23": "Narrarei o vosso nome aos meus irmãos: * no meio {ecc1} vos louvarei.",
+  "21:24": "Vós que temeis o Senhor, louvai-o: * toda a {sem1} de Jacó, glorificai-o.",
+  "21:25": "Tema-o toda a {sem2} de Israel: * porque não desprezou, nem {despexit} a {deprecatio} do pobre:",
+  "21:25b": "Nem desviou de mim a sua face: * e quando eu clamava a ele, escutou-me.",
+  "21:26": "{apud} o meu louvor {ecc2}: * pagarei os meus votos {csp1} dos que o temem.",
+  "21:27": "Os pobres comerão, e serão saciados: e louvarão o Senhor os que o procuram: * viverão os seus corações pelos séculos dos séculos.",
+  "21:28": "Hão de lembrar-se e {convertentur} ao Senhor * todos os confins da terra:",
+  "21:28b": "E adorarão {csp2} * todas as famílias das nações.",
+  "21:29": "Porque do Senhor é o reino: * e ele dominará as nações.",
+  "21:30": "Comeram e adoraram todos os {pingues} da terra: * {csp3} cairão todos os que descem à terra.",
+  "21:31": "E a minha alma viverá para ele: * e a minha {sem3} o servirá.",
+  "21:32": "Será anunciada ao Senhor a geração que há de vir: * e os céus anunciarão a sua justiça ao povo que nascerá, {quem}."
+ },
+ "decisions": [
+  {
+   "id": "deus",
+   "refs": [
+    "21:2"
+   ],
+   "latin": "Deus, Deus meus",
+   "kind": "order",
+   "why": "The vocative as the Latin has it: the bare *Deus* first, then *Deus meus* (glossary: vocative *Deus* bare; *Deus meus* → *meu Deus*). The Gospels quote the cry otherwise — Mt 27:46 and Mk 15:34 in the Clementine read *Deus meus, Deus meus, ut quid dereliquisti me?* (fetched: consult/bolls-VULG-40-27.json, -41-15.json) — so the psalm keeps its own form; a Brazilian Catholic will still hear the Passion in it.",
+   "options": [
+    {
+     "label": "Deus, meu Deus",
+     "forms": {
+      "deus": "Deus, meu Deus"
+     },
+     "note": "Ruling: the Latin psalm (and the Greek ὁ θεὸς ὁ θεός μου).",
+     "from": "draft"
+    },
+    {
+     "label": "Meu Deus, meu Deus",
+     "forms": {
+      "deus": "Meu Deus, meu Deus"
+     },
+     "note": "The Gospels' form (Mt 27:46, Mk 15:34 Vulgate, verified); not this Latin.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "respice",
+   "refs": [
+    "21:2"
+   ],
+   "latin": "réspice in me",
+   "kind": "glossary",
+   "why": "respícere: the row (open) gives the bare imperative *olhai* (12:3) and names 21:2 *réspice in me*; with *in me* the natural build is *olhai para mim* (the words 118:132 has for *Áspice in me* — the two verbs meet only at 83:10). The Greek here is πρόσχες μοι (usually *inténde*): the Latin's verb is followed, not the Greek's. DRB *look upon me*, MS1932 *olha para mim*.",
+   "options": [
+    {
+     "label": "olhai para mim",
+     "forms": {
+      "respice": "olhai para mim"
+     },
+     "note": "Ruling: the row's verb with the Latin's *in me*.",
+     "from": "glossary"
+    },
+    {
+     "label": "atendei-me",
+     "forms": {
+      "respice": "atendei-me"
+     },
+     "note": "The Greek's πρόσχες (inténde → atender); not the Latin's word.",
+     "from": "LXX"
+    }
+   ]
+  },
+  {
+   "id": "dereliquisti",
+   "refs": [
+    "21:2"
+   ],
+   "latin": "quare me dereliquísti?",
+   "kind": "glossary",
+   "why": "derelínquere → abandonar (glossary, working: 118:8). The cry the Gospels put in Christ's mouth; *por que me abandonastes?* is the *vós* form of the words a Brazilian ear knows from the Passion (the current Brazilian lectionary wording is not verified here). MS1932 *desamparaste*.",
+   "options": [
+    {
+     "label": "abandonastes",
+     "forms": {
+      "dereliquisti": "abandonastes"
+     },
+     "note": "Ruling: the glossary verb; the Passion's word.",
+     "from": "glossary"
+    },
+    {
+     "label": "desamparastes",
+     "forms": {
+      "dereliquisti": "desamparastes"
+     },
+     "note": "MS1932; warmer, but another verb than the glossary's.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "delicta",
+   "refs": [
+    "21:2"
+   ],
+   "latin": "verba delictórum meórum",
+   "kind": "glossary",
+   "why": "delíctum → falta (glossary row *delínquere / delíctum*, open; 18:13, 18:14b). The Latin's line is verbless; *estão* supplied (D2). *longe a salúte mea* keeps the Latin's *longe*, which 21:12 *próxima* and 21:20 *ne elongáveris* answer. DRB *the words of my sins*; MS1932 paraphrases (*O clamor dos meus pecados afasta de mim a salvação* — the Hebrew's roaring).",
+   "options": [
+    {
+     "label": "faltas",
+     "forms": {
+      "delicta": "faltas"
+     },
+     "note": "Ruling: the glossary word; *pecado* is peccátum's.",
+     "from": "glossary"
+    },
+    {
+     "label": "pecados",
+     "forms": {
+      "delicta": "pecados"
+     },
+     "note": "DRB, MS1932; merges delíctum into peccátum.",
+     "from": "DRB"
+    }
+   ]
+  },
+  {
+   "id": "perdiem",
+   "refs": [
+    "21:3"
+   ],
+   "latin": "clamábo per diem … et nocte",
+   "kind": "glossary",
+   "why": "per diem → *durante o dia* (glossary, open: 12:2). The contrast with *nocte* would allow *de dia … de noite*; the row is kept because the Latin itself is not symmetrical (per diem / nocte). MS1932 *durante o dia … de noite*.",
+   "options": [
+    {
+     "label": "durante o dia",
+     "forms": {
+      "perdiem": "durante o dia"
+     },
+     "note": "Ruling: the row; MS1932 has the same pair.",
+     "from": "glossary"
+    },
+    {
+     "label": "de dia",
+     "forms": {
+      "perdiem": "de dia"
+     },
+     "note": "The idiomatic pair with *de noite*; flattens *per*.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "insipientiam",
+   "refs": [
+    "21:3"
+   ],
+   "latin": "et non ad insipiéntiam mihi",
+   "kind": "ambiguity",
+   "why": "The Latin is terse and open: *ad insipiéntiam mihi* (οὐκ εἰς ἄνοιαν ἐμοί) — not for folly to me: either my crying night and day is no folly in me (DRB *it shall not be reputed as folly in me*), or it shall not turn to my folly. insipiéntia → insensatez (glossary row *insípiens / insipiéntia*, which names 21:3). The draft keeps *para* (ad) and the dative as a possessive, leaving both readings; MS1932 *e não por minha culpa* paraphrases and is refused.",
+   "options": [
+    {
+     "label": "para a minha insensatez",
+     "forms": {
+      "insipientiam": "para a minha insensatez"
+     },
+     "note": "Ruling: the Latin's preposition, open as the Latin.",
+     "from": "draft"
+    },
+    {
+     "label": "é insensatez em mim",
+     "forms": {
+      "insipientiam": "é insensatez em mim"
+     },
+     "note": "DRB's reading made explicit (a verb supplied); closes the ambiguity.",
+     "from": "DRB"
+    },
+    {
+     "label": "por minha culpa",
+     "forms": {
+      "insipientiam": "por minha culpa"
+     },
+     "note": "MS1932; another word (culpa), refused.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "sancto",
+   "refs": [
+    "21:4"
+   ],
+   "latin": "in sancto hábitas",
+   "kind": "glossary",
+   "why": "The glossary row *sancta / sanctum (a place)* gives *o lugar santo* (133:2, 19:3) and names 21:4 as a place not settled by it. The Greek has the plural ἐν ἁγίοις (the holy place, or among the holy ones); the Latin's singular *in sancto* is followed. DRB *in the holy place*, MS1932 *no lugar santo*.",
+   "options": [
+    {
+     "label": "no lugar santo",
+     "forms": {
+      "sancto": "no lugar santo"
+     },
+     "note": "Ruling: the row; DRB, MS1932.",
+     "from": "glossary"
+    },
+    {
+     "label": "no santuário",
+     "forms": {
+      "sancto": "no santuário"
+     },
+     "note": "sanctuárium's word (72:17 …).",
+     "from": "draft"
+    },
+    {
+     "label": "entre os santos",
+     "forms": {
+      "sancto": "entre os santos"
+     },
+     "note": "One reading of the Greek plural; not the Latin singular.",
+     "from": "LXX"
+    }
+   ]
+  },
+  {
+   "id": "confusi",
+   "refs": [
+    "21:6"
+   ],
+   "latin": "non sunt confúsi",
+   "kind": "glossary",
+   "why": "confúndi → ser envergonhado (settled, D15): *não foram confundidos* is heard first as \"were not confused\". MS1932 *não foram confundidos*.",
+   "options": [
+    {
+     "label": "envergonhados",
+     "forms": {
+      "confusi": "envergonhados"
+     },
+     "note": "Ruling: D15.",
+     "from": "D15"
+    },
+    {
+     "label": "confundidos",
+     "forms": {
+      "confusi": "confundidos"
+     },
+     "note": "The traditional word; heard as confused.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "abjectio",
+   "refs": [
+    "21:7"
+   ],
+   "latin": "oppróbrium hóminum, et abjéctio plebis",
+   "kind": "word",
+   "why": "oppróbrium → afronta (glossary row, open: *opróbrio* failed two blind readers). abjéctio occurs only here (grep); its Greek is ἐξουδένημα, of the same root as 21:25 ἐξουδένωσεν (*non sprevit*, spérnere → desprezar, glossary) and 118:22 ἐξουδένωσιν (*contémptum* → desprezo): so *desprezo*, which keeps the psalm's echo 21:7 / 21:25 that the Greek has. plebs → povo (glossary). Articles supplied for the predicate nouns.",
+   "options": [
+    {
+     "label": "a afronta … o desprezo",
+     "forms": {
+      "opprobrium": "a afronta",
+      "abjectio": "o desprezo"
+     },
+     "note": "Ruling: the glossary word and the Greek's echo with 21:25.",
+     "from": "draft"
+    },
+    {
+     "label": "a afronta … o refugo",
+     "forms": {
+      "opprobrium": "a afronta",
+      "abjectio": "o refugo"
+     },
+     "note": "The thrown-away (ab-jícere), concrete; loses the echo.",
+     "from": "draft"
+    },
+    {
+     "label": "o opróbrio … a abjeção",
+     "forms": {
+      "opprobrium": "o opróbrio",
+      "abjectio": "a abjeção"
+     },
+     "note": "MS1932's cognates; both failed or likely to fail the ear.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "deriserunt",
+   "refs": [
+    "21:8"
+   ],
+   "latin": "derisérunt me",
+   "kind": "word",
+   "why": "derídere: the row *irridére / subsannáre* (rir de / zombar de) reserves *escarnecer* for illúdere / derídere. Present participle *vidéntes* with a perfect → *os que me viam* (grammar). Mt 27:39 has *moventes capita sua* for the passers-by (fetched), the Gospel's echo of this verse.",
+   "options": [
+    {
+     "label": "escarneceram de mim",
+     "forms": {
+      "deriserunt": "escarneceram de mim"
+     },
+     "note": "Ruling: the verb the glossary keeps for derídere; MS1932.",
+     "from": "glossary"
+    },
+    {
+     "label": "zombaram de mim",
+     "forms": {
+      "deriserunt": "zombaram de mim"
+     },
+     "note": "Plainer; subsannáre's word in the glossary.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "moverunt",
+   "refs": [
+    "21:8"
+   ],
+   "latin": "movérunt caput",
+   "kind": "word",
+   "why": "The Latin's plain verb (ἐκίνησαν κεφαλήν): *moveram a cabeça*; DRB *wagged the head*, MS1932 *menearam*, the gesture of scorn. *mover* keeps the Latin word; the context (lips, mockery) gives the gesture.",
+   "options": [
+    {
+     "label": "moveram",
+     "forms": {
+      "moverunt": "moveram"
+     },
+     "note": "Ruling: the Latin's verb.",
+     "from": "draft"
+    },
+    {
+     "label": "menearam",
+     "forms": {
+      "moverunt": "menearam"
+     },
+     "note": "MS1932: the gesture named; a little literary.",
+     "from": "MS1932"
+    },
+    {
+     "label": "abanaram",
+     "forms": {
+      "moverunt": "abanaram"
+     },
+     "note": "The everyday gesture; colloquial.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "eripiat",
+   "refs": [
+    "21:9"
+   ],
+   "latin": "Sperávit in Dómino, erípiat eum: salvum fáciat eum, quóniam vult eum",
+   "kind": "glossary",
+   "why": "erípere with no source named: the glossary row (open) says *arrancar* hangs without a *de* and that *libertar* is the verb that never fails (Ps 6:5, 118:153, 170) — so *que ele o liberte*; *livrar* is liberáre's (21:5). The mockers' words are not marked off, as the Latin does not mark them (2:3 precedent). *quóniam vult eum* → *porque o quer* (velle → querer, glossary; 17:20 *porque me quis*). Mt 27:43 (fetched) gives the priests' version, *confidit in Deo: liberet nunc, si vult eum* — another wording; the psalm keeps its own *quóniam*.",
+   "options": [
+    {
+     "label": "liberte … porque o quer",
+     "forms": {
+      "eripiat": "liberte",
+      "vult": "porque o quer"
+     },
+     "note": "Ruling: the glossary's verb for erípere without a source; velle → querer.",
+     "from": "glossary"
+    },
+    {
+     "label": "livre … porque lhe quer bem",
+     "forms": {
+      "eripiat": "livre",
+      "vult": "porque lhe quer bem"
+     },
+     "note": "liberáre's verb; the love made explicit (DRB *delighteth in him*).",
+     "from": "DRB"
+    },
+    {
+     "label": "livre … se é que o ama",
+     "forms": {
+      "eripiat": "livre",
+      "vult": "se é que o ama"
+     },
+     "note": "MS1932, bending *quóniam* to the Gospel's *si*; refused.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "tues",
+   "refs": [
+    "21:10"
+   ],
+   "latin": "Quóniam tu es, qui extraxísti me de ventre",
+   "kind": "grammar",
+   "why": "The Latin's *tu es, qui* (you are the one who) as a Portuguese cleft, *sois vós que me tirastes* — the *vós* agreement is clean only so. extráhere → tirar (MS1932).",
+   "options": [
+    {
+     "label": "sois vós que",
+     "forms": {
+      "tues": "sois vós que"
+     },
+     "note": "Ruling: the cleft; grammar (D2).",
+     "from": "draft"
+    },
+    {
+     "label": "vós sois o que",
+     "forms": {
+      "tues": "vós sois o que"
+     },
+     "note": "Word for word; the agreement *o que me tirastes* limps.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "uberibus",
+   "refs": [
+    "21:10"
+   ],
+   "latin": "spes mea ab ubéribus matris meæ. In te projéctus sum ex útero",
+   "kind": "word",
+   "why": "Three body-words in two verses: venter (γαστήρ, κοιλία) → ventre (21:10, 21:11, 21:15b), ubera → the breast, uterus (μήτρα) → the womb. *seio* is today first the breast, so uterus cannot be a bare *seio* here, and *útero* is clinical: *o seio materno* (the fixed phrase for the womb) keeps it apart from *ventre*; *materno* stands for no Latin word, it is what makes *seio* mean womb. ubéribus → *o peito* (the nursing idiom), singular for the Latin plural. *In te projéctus sum* (ἐπὶ σὲ ἐπερρίφην) → *Sobre vós fui lançado* (DRB *cast upon thee*; proícere → lançar, glossary); *Em vós* would be heard as \"into you\".",
+   "options": [
+    {
+     "label": "o peito … Sobre vós fui lançado … o seio materno",
+     "forms": {
+      "uberibus": "o peito",
+      "projectus": "Sobre vós fui lançado",
+      "utero": "o seio materno"
+     },
+     "note": "Ruling: each body-word its own, each heard rightly.",
+     "from": "draft"
+    },
+    {
+     "label": "os peitos … o útero",
+     "forms": {
+      "uberibus": "os peitos",
+      "projectus": "Sobre vós fui lançado",
+      "utero": "o útero"
+     },
+     "note": "The Latin's number (MS1932 *peitos*) and the exact word; clinical.",
+     "from": "MS1932"
+    },
+    {
+     "label": "os seios … o ventre materno",
+     "forms": {
+      "uberibus": "os seios",
+      "projectus": "Sobre vós fui lançado",
+      "utero": "o ventre materno"
+     },
+     "note": "Natural, but uterus and venter merge.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "deusmeus",
+   "refs": [
+    "21:11"
+   ],
+   "latin": "Deus meus es tu",
+   "kind": "glossary",
+   "why": "The formula row *Deus meus es tu* → *Vós sois o meu Deus* (open; 15:2, 117:28a; names 21:11).",
+   "options": [
+    {
+     "label": "vós sois o meu Deus",
+     "forms": {
+      "deusmeus": "vós sois o meu Deus"
+     },
+     "note": "Ruling: the formula.",
+     "from": "glossary"
+    },
+    {
+     "label": "o meu Deus sois vós",
+     "forms": {
+      "deusmeus": "o meu Deus sois vós"
+     },
+     "note": "The Latin's order; the stress on the address.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "adjuvet",
+   "refs": [
+    "21:12"
+   ],
+   "latin": "non est qui ádjuvet",
+   "kind": "glossary",
+   "why": "adjuváre → auxiliar (glossary, open), one family with adjutórium → auxílio. No object in the Latin; none supplied (DRB and MS1932 add *me*).",
+   "options": [
+    {
+     "label": "auxilie",
+     "forms": {
+      "adjuvet": "auxilie"
+     },
+     "note": "Ruling: the row.",
+     "from": "glossary"
+    },
+    {
+     "label": "ajude",
+     "forms": {
+      "adjuvet": "ajude"
+     },
+     "note": "The plainer verb; splits the family.",
+     "from": "draft"
+    },
+    {
+     "label": "me ajude",
+     "forms": {
+      "adjuvet": "me ajude"
+     },
+     "note": "MS1932, with the object supplied.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "vituli",
+   "refs": [
+    "21:13"
+   ],
+   "latin": "vítuli multi: tauri pingues",
+   "kind": "word",
+   "why": "vítulus (μόσχος): seven lines (grep; 49:9, 50:21 the sacrificial animals, 105:19 the golden calf). *novilhos* are the young bulls of sacrifice in Portuguese Bibles and stand beside *touros* here; *bezerros* would serve 105:19–20 better and sounds slight in a siege. pinguis → gordo (glossary, names 21:13).",
+   "options": [
+    {
+     "label": "novilhos",
+     "forms": {
+      "vituli": "novilhos"
+     },
+     "note": "Ruling: young bulls beside the bulls; MS1932 (*novilhos*).",
+     "from": "MS1932"
+    },
+    {
+     "label": "bezerros",
+     "forms": {
+      "vituli": "bezerros"
+     },
+     "note": "Calves (DRB); plainer, lighter.",
+     "from": "DRB"
+    }
+   ]
+  },
+  {
+   "id": "obsidere",
+   "refs": [
+    "21:13",
+    "21:17"
+   ],
+   "latin": "obsedérunt me … obsédit me",
+   "kind": "word",
+   "why": "obsidére twice (the only two lines, grep), each time after *circumdedérunt* → *cercaram* (glossary circumdáre → cercar): the psalm's own repetition, kept with one verb. *sitiar* is the besieging (DRB *besieged*).",
+   "options": [
+    {
+     "label": "sitiaram … sitiou",
+     "forms": {
+      "obs1": "sitiaram",
+      "obs2": "sitiou"
+     },
+     "note": "Ruling: one verb twice, as the Latin.",
+     "from": "DRB"
+    },
+    {
+     "label": "assediaram … assediou",
+     "forms": {
+      "obs1": "assediaram",
+      "obs2": "assediou"
+     },
+     "note": "Heard today as harassment.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "dispersa",
+   "refs": [
+    "21:15"
+   ],
+   "latin": "dispérsa sunt ómnia ossa mea",
+   "kind": "word",
+   "why": "dispérgere → dispersar (the glossary's *dissipáre* row: 88:11 *dispersísti inimícos tuos*); the Latin's passive kept. MS1932 *se desconjuntaram* explains (out of joint) and is refused.",
+   "options": [
+    {
+     "label": "foram dispersos",
+     "forms": {
+      "dispersa": "foram dispersos"
+     },
+     "note": "Ruling: the Latin's verb and voice.",
+     "from": "draft"
+    },
+    {
+     "label": "se espalharam",
+     "forms": {
+      "dispersa": "se espalharam"
+     },
+     "note": "Plainer; middle voice.",
+     "from": "draft"
+    },
+    {
+     "label": "se desconjuntaram",
+     "forms": {
+      "dispersa": "se desconjuntaram"
+     },
+     "note": "MS1932; explains the image.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "ventris",
+   "refs": [
+    "21:15b"
+   ],
+   "latin": "in médio ventris mei",
+   "kind": "word",
+   "why": "venter → ventre in all three places of the psalm (21:10, 21:11, 21:15b), as the Latin has one word (the Greek two). *Factum est … tamquam* → *se tornou como* (fíeri of a state come upon one, glossary 118:83). MS1932 *entranhas*.",
+   "options": [
+    {
+     "label": "do meu ventre",
+     "forms": {
+      "ventris": "do meu ventre"
+     },
+     "note": "Ruling: one word for venter.",
+     "from": "draft"
+    },
+    {
+     "label": "das minhas entranhas",
+     "forms": {
+      "ventris": "das minhas entranhas"
+     },
+     "note": "MS1932; the inward sense, another word.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "virtus",
+   "refs": [
+    "21:16"
+   ],
+   "latin": "Áruit tamquam testa virtus mea … lingua mea adhǽsit fáucibus meis",
+   "kind": "glossary",
+   "why": "virtus here is a man's bodily strength drying up (ἰσχύς), not God's power: the glossary row (open) gives *poder* for *in virtúte tua*, and *força* is fortitúdo's. *o meu vigor* (MS1932) — proposed for virtus as a man's strength (30:11, 37:11, 70:9 *dum defécerit virtus mea*). testa → *caco* (a potsherd; only here). adhǽrére → apegar-se a (glossary, names 21:16); fauces → garganta (glossary, names 21:16; *paladar* its option). Natural order (subject first).",
+   "options": [
+    {
+     "label": "O meu vigor … caco … garganta",
+     "forms": {
+      "virtus": "O meu vigor",
+      "testa": "caco",
+      "fauces": "garganta"
+     },
+     "note": "Ruling: MS1932's noun for a man's strength; the glossary's two rows.",
+     "from": "draft"
+    },
+    {
+     "label": "O meu poder",
+     "forms": {
+      "virtus": "O meu poder",
+      "testa": "caco",
+      "fauces": "garganta"
+     },
+     "note": "The row's word for virtus; heard as authority drying up.",
+     "from": "glossary"
+    },
+    {
+     "label": "A minha força … caco de barro",
+     "forms": {
+      "virtus": "A minha força",
+      "testa": "caco de barro",
+      "fauces": "garganta"
+     },
+     "note": "fortitúdo's word (força); the potsherd explained.",
+     "from": "draft"
+    },
+    {
+     "label": "… paladar",
+     "forms": {
+      "virtus": "O meu vigor",
+      "testa": "caco",
+      "fauces": "paladar"
+     },
+     "note": "The fauces row's option (every version has it); the Greek is λάρυγξ, the throat.",
+     "from": "glossary"
+    }
+   ]
+  },
+  {
+   "id": "concilium",
+   "refs": [
+    "21:17",
+    "21:23",
+    "21:26"
+   ],
+   "latin": "concílium malignántium … in médio ecclésiæ … in ecclésia magna",
+   "kind": "glossary",
+   "why": "The collision the glossary foretold (row *concílium*: \"*assembleia* is also the natural word for *ecclésia*, and Ps 21 has both\"). The Latin has two words six verses apart, and the Greek two (συναγωγὴ πονηρευομένων / ἐκκλησία), so two Portuguese words. **ecclésia → assembleia**: ἐκκλησία in all ten lines (grep; Greek read at 25:5, 25:12, 39:10); it must serve 25:5 *Odívi ecclésiam malignántium*, where *igreja* is impossible, and 67:27 *In ecclésiis*, where *igrejas* are buildings. **concílium here → congregação**: its Greek here is συναγωγή, the word behind synagóga → *congregação* (glossary, D15's test; 39:11 *a concílio multo* is συναγωγῆς too, read in consult/parallels/ps039.md), while 1:5 (βουλή) and 25:4 (συνέδριον) are other words. Cost: *congregação* is heard as a religious community (the synagóga row says so) — here, of evildoers, the irony may stand. Heb 2:12 quotes 21:23 as *in medio ecclesiæ* (fetched).",
+   "options": [
+    {
+     "label": "a congregação … da assembleia … na grande assembleia",
+     "forms": {
+      "concilium": "a congregação",
+      "ecc1": "da assembleia",
+      "ecc2": "na grande assembleia"
+     },
+     "note": "Ruling: two words for two; ecclésia → assembleia everywhere.",
+     "from": "draft"
+    },
+    {
+     "label": "a assembleia … da igreja … na grande igreja",
+     "forms": {
+      "concilium": "a assembleia",
+      "ecc1": "da igreja",
+      "ecc2": "na grande igreja"
+     },
+     "note": "MS1932 (*no meio da Igreja*), DRB *church*, the reading of Heb 2:12; fails 25:5 and 67:27, and *igreja* is a building.",
+     "from": "MS1932"
+    },
+    {
+     "label": "o bando … da assembleia",
+     "forms": {
+      "concilium": "o bando",
+      "ecc1": "da assembleia",
+      "ecc2": "na grande assembleia"
+     },
+     "note": "Heard at once as hostile; adds the contempt the Latin does not name.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "malignantium",
+   "refs": [
+    "21:17"
+   ],
+   "latin": "malignántium",
+   "kind": "glossary",
+   "why": "malignántes → malvados (settled, D24: *malignos* was heard as demons at 118:115).",
+   "options": [
+    {
+     "label": "malvados",
+     "forms": {
+      "malignantium": "malvados"
+     },
+     "note": "Ruling: D24.",
+     "from": "D24"
+    },
+    {
+     "label": "malignos",
+     "forms": {
+      "malignantium": "malignos"
+     },
+     "note": "MS1932; heard as evil spirits.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "foderunt",
+   "refs": [
+    "21:17b"
+   ],
+   "latin": "Fodérunt manus meas et pedes meos",
+   "kind": "word",
+   "why": "The Latin's reading (and the Greek's ὤρυξαν) against the Hebrew. fódere: L&S give \"to dig\" and, transferred, \"to prick, pierce, wound, stab\" (*latus fodere*, *guttura cultro*) — with hands and feet as object the Latin verb says piercing. The other two lines (56:7, 93:13) dig a pit and keep *cavar* (glossary *lacus / fóvea*). *traspassar* is confígere's (118:120, glossary), another Greek verb; so *perfurar*. The Church reads the Crucifixion here; the Gospels do not quote this colon (checked in Mt 27, Mk 15, Jn 19 as fetched).",
+   "options": [
+    {
+     "label": "Perfuraram",
+     "forms": {
+      "foderunt": "Perfuraram"
+     },
+     "note": "Ruling: the Latin verb's sense with a body as object; free in the glossary.",
+     "from": "draft"
+    },
+    {
+     "label": "Traspassaram",
+     "forms": {
+      "foderunt": "Traspassaram"
+     },
+     "note": "MS1932; confígere's verb (118:120).",
+     "from": "MS1932"
+    },
+    {
+     "label": "Cavaram",
+     "forms": {
+      "foderunt": "Cavaram"
+     },
+     "note": "DRB *dug*, the Greek's image; odd with hands.",
+     "from": "DRB"
+    }
+   ]
+  },
+  {
+   "id": "consideraverunt",
+   "refs": [
+    "21:18"
+   ],
+   "latin": "Ipsi vero consideravérunt et inspexérunt me",
+   "kind": "word",
+   "why": "consideráre → considerar is the glossary's word with things (118:15, 18); with a person as object *me consideraram* is heard as \"esteemed me\", which the Latin (κατενόησαν, looked closely) does not say. *observar* is the plain verb for looking closely at someone; it shares a form with serváre (a law) → observar, another sense. inspícere (only here) → *fitar* (DRB *stared*).",
+   "options": [
+    {
+     "label": "observaram",
+     "forms": {
+      "consideraverunt": "observaram"
+     },
+     "note": "Ruling: the sense heard rightly.",
+     "from": "draft"
+    },
+    {
+     "label": "consideraram",
+     "forms": {
+      "consideraverunt": "consideraram"
+     },
+     "note": "The glossary cognate; heard as esteem.",
+     "from": "glossary"
+    }
+   ]
+  },
+  {
+   "id": "sortem",
+   "refs": [
+    "21:18"
+   ],
+   "latin": "divisérunt sibi vestiménta mea, et super vestem meam misérunt sortem",
+   "kind": "word",
+   "why": "Mt 27:35 quotes this colon word for word in the Clementine (fetched); Jn 19:24 has another wording (*Partiti sunt … in vestem meam*). vestiménta / vestis, one root twice → *vestes / veste*, as the Latin (MS1932 *túnica* is John's word). dívidere sibi → *repartiram entre si* (MS1932). *lançar sortes* is the idiom; the Latin's singular *sortem* is kept as the option.",
+   "options": [
+    {
+     "label": "sortes",
+     "forms": {
+      "sortem": "sortes"
+     },
+     "note": "Ruling: the idiom (number is grammar).",
+     "from": "MS1932"
+    },
+    {
+     "label": "a sorte",
+     "forms": {
+      "sortem": "a sorte"
+     },
+     "note": "The Latin's singular; *lançar a sorte* is heard as casting one's fate.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "elongaveris",
+   "refs": [
+    "21:20"
+   ],
+   "latin": "ne elongáveris auxílium tuum a me: ad defensiónem meam cónspice",
+   "kind": "word",
+   "why": "elongáre (μακρύνῃς, \"put far\"): 21:11 has already *ne discésseris a me* → *não vos afasteis de mim* (discédere → afastar-se, glossary), another Latin and Greek verb; *pôr longe* keeps them apart and keeps the psalm's *longe* (21:2) and *próxima* (21:12). cónspice (only here; πρόσχες, as 21:2 *réspice*) → *olhai*, one verb with 21:2 as the Greek has one. auxílium → auxílio.",
+   "options": [
+    {
+     "label": "ponhais longe de mim … olhai para a minha defesa",
+     "forms": {
+      "elongaveris": "ponhais longe de mim",
+      "conspice": "olhai para a minha defesa"
+     },
+     "note": "Ruling: the Latin's *longe*, and *olhar* as in 21:2.",
+     "from": "draft"
+    },
+    {
+     "label": "afasteis de mim … atendei à minha defesa",
+     "forms": {
+      "elongaveris": "afasteis de mim",
+      "conspice": "atendei à minha defesa"
+     },
+     "note": "MS1932; *afastar* is discédere's in 21:11, *atender* is inténdere's (D3).",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "erue",
+   "refs": [
+    "21:21"
+   ],
+   "latin": "Érue a frámea, Deus, ánimam meam",
+   "kind": "glossary",
+   "why": "éruere: 13 lines (grep), almost always with a source named (*de, a, ab*). Its Greek (ῥῦσαι) is the verb behind liberáre and erípere too, but the Latin keeps three verbs, and 36:40 sets *liberábit … éruet* side by side, so it cannot be *livrar*. *arrancar* (the glossary's erípere with a source) fits éruere's own sense, \"pluck out\" (L&S), and a source is named here; the two never stand in one verse. frámea → espada (glossary).",
+   "options": [
+    {
+     "label": "Arrancai",
+     "forms": {
+      "erue": "Arrancai"
+     },
+     "note": "Ruling: the plucking out, with a source named.",
+     "from": "draft"
+    },
+    {
+     "label": "Livrai",
+     "forms": {
+      "erue": "Livrai"
+     },
+     "note": "MS1932; liberáre's verb (21:5).",
+     "from": "MS1932"
+    },
+    {
+     "label": "Libertai",
+     "forms": {
+      "erue": "Libertai"
+     },
+     "note": "erípere's verb without a source (21:9).",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "unicam",
+   "refs": [
+    "21:21"
+   ],
+   "latin": "únicam meam",
+   "kind": "ambiguity",
+   "why": "The Latin's substantive feminine (τὴν μονογενῆ μου), parallel to *ánimam meam*: my only one — my soul, my life. 34:17 *a leónibus únicam meam* is the twin (grep). Kept bare, as DRB (*my only one*) and MS1932 (*a minha única*, with a gloss).",
+   "options": [
+    {
+     "label": "a minha única",
+     "forms": {
+      "unicam": "a minha única"
+     },
+     "note": "Ruling: as open as the Latin.",
+     "from": "MS1932"
+    },
+    {
+     "label": "a minha única vida",
+     "forms": {
+      "unicam": "a minha única vida"
+     },
+     "note": "MS1932's gloss in the text; explains.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "humilitatem",
+   "refs": [
+    "21:22"
+   ],
+   "latin": "a córnibus unicórnium humilitátem meam",
+   "kind": "glossary",
+   "why": "unicórnis → *unicórnio*, the Latin's (and Greek's μονόκερως) animal — 28:6, 77:69, 91:11 (grep); not the Hebrew's wild ox. cornu → chifre (glossary). humílitas: the glossary row (open) has *humilhação* (9:14, 118:50 — being brought low). Here it is the object to be SAVED, a metonymy for the lowly self like *únicam meam*: *salvai … a minha humilhação* would be heard as saving (keeping) the humiliation, and *leão … humilhação* rhymes at mediant and final, which the Latin does not (rule 5). So *a minha pequenez* (DRB *my lowness*) — a local departure from the row, for these two reasons.",
+   "options": [
+    {
+     "label": "unicórnios … a minha pequenez",
+     "forms": {
+      "unicornium": "unicórnios",
+      "humilitatem": "a minha pequenez"
+     },
+     "note": "Ruling: DRB's lowness; no rhyme, no wrong hearing.",
+     "from": "DRB"
+    },
+    {
+     "label": "… a minha humilhação",
+     "forms": {
+      "unicornium": "unicórnios",
+      "humilitatem": "a minha humilhação"
+     },
+     "note": "The row; rhymes with *leão*, and *salvai a humilhação* misleads.",
+     "from": "glossary"
+    },
+    {
+     "label": "… a minha humildade",
+     "forms": {
+      "unicornium": "unicórnios",
+      "humilitatem": "a minha humildade"
+     },
+     "note": "MS1932; heard as the virtue.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "semen",
+   "refs": [
+    "21:24",
+    "21:25",
+    "21:31"
+   ],
+   "latin": "semen Jacob … semen Israël … semen meum",
+   "kind": "glossary",
+   "why": "semen → descendência (settled, D32, which names 21:24 *semen Jacob*: *semente de Jacó* is heard as seed). No plant image in these verses. MS1932 *descendência / posteridade*.",
+   "options": [
+    {
+     "label": "descendência",
+     "forms": {
+      "sem1": "descendência",
+      "sem2": "descendência",
+      "sem3": "descendência"
+     },
+     "note": "Ruling: D32.",
+     "from": "D32"
+    },
+    {
+     "label": "semente",
+     "forms": {
+      "sem1": "semente",
+      "sem2": "semente",
+      "sem3": "semente"
+     },
+     "note": "DRB *seed*; the image kept, heard as grain.",
+     "from": "DRB"
+    }
+   ]
+  },
+  {
+   "id": "despexit",
+   "refs": [
+    "21:25"
+   ],
+   "latin": "non sprevit, neque despéxit deprecatiónem páuperis",
+   "kind": "glossary",
+   "why": "spérnere → desprezar (glossary), and it answers 21:7 *o desprezo* (one Greek root, ἐξουδεν-). despícere with God as subject → desdenhar (glossary row, 9:22). deprecátio → prece (glossary, proposed for settling: 6:10, 16:1a, 118:169).",
+   "options": [
+    {
+     "label": "desdenhou … prece",
+     "forms": {
+      "despexit": "desdenhou",
+      "deprecatio": "prece"
+     },
+     "note": "Ruling: the two rows.",
+     "from": "glossary"
+    },
+    {
+     "label": "rejeitou … súplica",
+     "forms": {
+      "despexit": "rejeitou",
+      "deprecatio": "súplica"
+     },
+     "note": "rejeitar is reprobáre's; súplica the deprecátio row's option.",
+     "from": "draft"
+    }
+   ]
+  },
+  {
+   "id": "apud",
+   "refs": [
+    "21:26"
+   ],
+   "latin": "Apud te laus mea in ecclésia magna",
+   "kind": "grammar",
+   "why": "apud te: with you, in your keeping (DRB *With thee is my praise*). The Greek is παρὰ σοῦ, \"from you\" — the Latin's preposition is followed. The line is verbless; *está* supplied. réddere vota → *pagar os votos* (glossary row *réddere*, names 21:26).",
+   "options": [
+    {
+     "label": "Junto de vós está",
+     "forms": {
+      "apud": "Junto de vós está"
+     },
+     "note": "Ruling: the Latin's *apud*.",
+     "from": "DRB"
+    },
+    {
+     "label": "De vós vem",
+     "forms": {
+      "apud": "De vós vem"
+     },
+     "note": "The Greek's παρὰ σοῦ; not the Latin.",
+     "from": "LXX"
+    },
+    {
+     "label": "A vós se dirigirá",
+     "forms": {
+      "apud": "A vós se dirigirá"
+     },
+     "note": "MS1932; a verb and a direction the Latin lacks.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "conspectu",
+   "refs": [
+    "21:26",
+    "21:28b",
+    "21:30"
+   ],
+   "latin": "in conspéctu timéntium eum … in conspéctu ejus … in conspéctu ejus",
+   "kind": "glossary",
+   "why": "in conspéctu (glossary row, open): the Ps 17 evidence splits it — *à vista de* where it is the place something is seen, *na sua presença* where it goes with an act. 21:26 the vows paid in the sight of witnesses → *à vista*; 21:28b the nations worship and 21:30 they fall down → *na sua presença* (MS1932 both).",
+   "options": [
+    {
+     "label": "à vista … na sua presença ×2",
+     "forms": {
+      "csp1": "à vista",
+      "csp2": "na sua presença",
+      "csp3": "na sua presença"
+     },
+     "note": "Ruling: the row's two renderings, by build.",
+     "from": "glossary"
+    },
+    {
+     "label": "à vista ×3",
+     "forms": {
+      "csp1": "à vista",
+      "csp2": "à vista dele",
+      "csp3": "à vista dele"
+     },
+     "note": "One rendering for one Latin phrase; *adorarão à vista dele* is stiff.",
+     "from": "glossary"
+    }
+   ]
+  },
+  {
+   "id": "convertentur",
+   "refs": [
+    "21:28"
+   ],
+   "latin": "Reminiscéntur et converténtur ad Dóminum",
+   "kind": "glossary",
+   "why": "convértere → voltar, with D25's one exception: *converter* where men turn to God — the ends of the earth turning to the Lord is that sense (DRB *converted*, MS1932 *converter-se-ão*). *Hão de lembrar-se e converter-se* for two futures that mesóclise would make heavy (*Lembrar-se-ão e converter-se-ão*).",
+   "options": [
+    {
+     "label": "converter-se",
+     "forms": {
+      "convertentur": "converter-se"
+     },
+     "note": "Ruling: D25's exception.",
+     "from": "D25"
+    },
+    {
+     "label": "voltar-se",
+     "forms": {
+      "convertentur": "voltar-se"
+     },
+     "note": "The row's verb; loses the conversion.",
+     "from": "glossary"
+    }
+   ]
+  },
+  {
+   "id": "pingues",
+   "refs": [
+    "21:30"
+   ],
+   "latin": "omnes pingues terræ",
+   "kind": "glossary",
+   "why": "pinguis → gordo (glossary, names 21:30): the concrete image (rule 5; D2) — the fat ones of the earth, the prosperous. MS1932 *os ricos* explains. It echoes 21:13 *tauri pingues* → *touros gordos*.",
+   "options": [
+    {
+     "label": "gordos",
+     "forms": {
+      "pingues": "gordos"
+     },
+     "note": "Ruling: the image, and the echo of 21:13.",
+     "from": "glossary"
+    },
+    {
+     "label": "ricos",
+     "forms": {
+      "pingues": "ricos"
+     },
+     "note": "MS1932; the sense named, the image lost.",
+     "from": "MS1932"
+    }
+   ]
+  },
+  {
+   "id": "quem",
+   "refs": [
+    "21:32"
+   ],
+   "latin": "pópulo qui nascétur, quem fecit Dóminus",
+   "kind": "grammar",
+   "why": "The Latin's relative *quem* (whom the Lord made), the people's; Rahlfs's Greek has ὅτι ἐποίησεν ὁ κύριος (\"that the Lord has done\") — the Latin is followed, and so is its *cæli*, which Rahlfs's text lacks. Two relatives stacked, as the Latin. MS1932 *e que o Senhor formou*.",
+   "options": [
+    {
+     "label": "que o Senhor fez",
+     "forms": {
+      "quem": "que o Senhor fez"
+     },
+     "note": "Ruling: the Latin's relative, subject after the verb avoided so that *o Senhor* is heard as subject.",
+     "from": "draft"
+    },
+    {
+     "label": "o qual o Senhor fez",
+     "forms": {
+      "quem": "o qual o Senhor fez"
+     },
+     "note": "The antecedent made unmistakable; heavier.",
+     "from": "draft"
+    }
+   ]
+  }
+ ],
+ "choices": {
+  "21:2": "The cry of the Passion. Mt 27:46 / Mk 15:34 (Clementine, fetched) have *Deus meus, Deus meus, ut quid dereliquisti me?* — not the psalm's wording; the psalm keeps its own. Second colon verbless in the Latin; *estão* supplied.",
+  "21:3": "exáudies → escutareis (D3), no object, as the Latin.",
+  "21:4": "*laus Israël* in apposition to *Tu*, vocative without *ó* (the glossary's rule for bare vocatives).",
+  "21:5": "speráre in → esperar em; liberáre → livrar; the Latin's doubled *speravérunt* kept.",
+  "21:6": "*salvi facti sunt* → *foram salvos* (salvum fácere → salvar).",
+  "21:8": "*vidéntes* present participle with a perfect → *os que me viam*.",
+  "21:9": "The mockers' words stand unmarked, as in the Latin; *ele* named so that *que ele o liberte* is heard as a wish, not a relative.",
+  "21:10": "The verse carries a third sentence after the second colon (*In te projéctus sum ex útero:*) — reproduced after it, as DO does.",
+  "21:12": "The two *quóniam* kept (*Porque … porque*).",
+  "21:14": "rápere → arrebatar, rugíre → rugir (glossary); *os suum* singular → *a sua boca*.",
+  "21:15": "Keyed 21:15 (DO's first line of the repeated id). effúndere → derramar. The Latin's order *Sicut aqua effúsus sum* kept — it is also good Portuguese.",
+  "21:15b": "Keyed 21:15b: DO gives this line the id 21:15 again (see ids.py).",
+  "21:16": "dedúcere in púlverem → *fazer descer ao pó* (D25, which names 21:16).",
+  "21:17": "Keyed 21:17 (DO's first line of the repeated id).",
+  "21:17b": "Keyed 21:17b: DO's second 21:17. dinumeráre → contar (3 lines: 89:11, 138:18).",
+  "21:18": "DO's 21:18 holds Vulgate vv. 18b–19 (there is no 21:19 line). The second colon is Mt 27:35's quotation word for word (Clementine, fetched) — formula row proposed.",
+  "21:20": "*Tu autem, Dómine* → *Mas vós, Senhor*, as 21:4 *Tu autem* → *Mas vós*.",
+  "21:23": "Heb 2:12 (Clementine, fetched) quotes it as *Nuntiabo nomen tuum fratribus meis: in medio ecclesiæ laudabo te* — *Nuntiabo* for the psalm's *Narrábo*; the psalm keeps narráre → narrar (glossary).",
+  "21:24": "Plural human addressees → *vós* (decided); *louvai-o*, *glorificai-o* are safe imperatives.",
+  "21:25": "Keyed 21:25 (DO's first line of the repeated id).",
+  "21:25b": "Keyed 21:25b: DO's second 21:25. *avértere fáciem … a me* → *desviar de mim a sua face* (the glossary formula, 12:1); exaudívit → escutou (D3); *clamárem ad eum* → *clamava a ele*.",
+  "21:27": "saturáre → saciar, passive (glossary, names 21:27); requírere → procurar (glossary, 13:2); in sǽculum sǽculi → pelos séculos dos séculos (D27).",
+  "21:28": "Keyed 21:28 (DO's first line of the repeated id). fines terræ → os confins da terra (glossary).",
+  "21:28b": "Keyed 21:28b: DO's second 21:28. famíliæ géntium → *as famílias das nações*.",
+  "21:29": "Built as the formula *Dómini est salus* → *Do Senhor é a salvação* (3:9). dominári + genitive → *dominar* + object (glossary, 18:14b).",
+  "21:30": "manducáre and edere (21:27) both → *comer* (one Greek verb, φαγ-). *cadent* → *cairão*, nothing added.",
+  "21:31": "illi / ipsi → *para ele* / *o servirá*.",
+  "21:32": "*generátio ventúra* → *a geração que há de vir*; *qui nascétur* → *que nascerá* (two futures, two forms, as the Latin varies participle and verb)."
+ },
+ "audit": [
+  {
+   "step": "source",
+   "note": "Latin = DO Psalm21.txt, 34 prayed lines. DO repeats four ids (21:15, 21:17, 21:25, 21:28) — the first psalm to do so (ps021/dup_ids.py lists 57 psalms that do); the shared scripts key verses by id and cannot hold two lines under one, so the second line of each is keyed with the suffix b and the shared render/checks/site are run through ps021/run.py, which swaps latin.readVerses for ps021/ids.py's (shared files untouched). DO's 21:18 is Vulgate 18b–19 (no 21:19 line). Collated against the Clementine Vulgate fetched from Bolls (consult/bolls-VULG-19-21.json): identical wording. NT places fetched and read (ps021/show_vulg.py): Mt 27:35 = 21:18's second colon word for word; Mt 27:39 *moventes capita sua*; Mt 27:43 *confidit in Deo: liberet nunc, si vult eum* (not the psalm's wording); Mt 27:46 / Mk 15:34 *Deus meus, Deus meus, ut quid dereliquisti me?* (not the psalm's wording); Jn 19:24 *Partiti sunt vestimenta mea sibi: et in vestem meam miserunt sortem* (another wording); Heb 2:12 *Nuntiabo nomen tuum fratribus meis: in medio ecclesiæ laudabo te* (*Nuntiabo* for *Narrábo*). Hetzenauer print read not done."
+  },
+  {
+   "step": "draft",
+   "note": "Psalm-level draft from consult/parallels/ps021.md (LXX, Hebrew, Douay-Rheims, Matos Soares 1932 text layer; no Diurnal for this psalm; DO's Portuguese not used, D12). Repeats checked with ps005/grep_latin.py: ecclési- (10 lines), concíli- (4), synagóg- (4), éru- (13), fód- (3), elong- (6), vítul- (7), obsid- (2), únic-/unicórn-, úter- (6), dinumer- (3), manduc- (9); Greek of concílium / ecclésia read at 1:5, 25:4–5, 25:12, 39:10–11 (parallels generated for Pss 1, 25, 39). L&S read for fodio. Septuagintal readings kept against the Hebrew: 21:2 *as palavras das minhas faltas*, 21:3 *e não para a minha insensatez*, 21:13 *novilhos*, 21:17b *Perfuraram* (not \"like a lion\"), 21:21 *a minha única*, 21:22 *unicórnios*, 21:27 *os seus corações*, 21:30 *comeram e adoraram*, 21:31 *a minha alma viverá para ele*. Where the Latin differs from Rahlfs's Greek it is followed: 21:2 *réspice* (πρόσχες), 21:26 *apud* (παρὰ σοῦ), 21:32 *cæli* and *quem* (ὅτι). 37 decisions."
+  },
+  {
+   "step": "checks",
+   "note": "Draft 1 through ps021/run.py checks: hard pass (exit 0). One flag mended before the critics: 21:22 *leão … humilhação* rhymed at mediant and final → *a minha pequenez* (decision `humilitatem`). Soft flags accepted: 21:2 first colon −3; 21:6 second +3 (*envergonhados*, D15); 21:8 first +3; 21:9 second −5 (*porque o quer*: the Latin's three words); 21:10 second colon +10 — it carries the verse's third sentence (*In te projéctus sum ex útero*), and *o seio materno* (see decision `uberibus`); 21:15b +4 (*que se derrete*); 21:16 first +3; 21:17 first −3; 21:17b second −4; 21:20 first −3; 21:25 second −4; 21:26 first +4 (*está* supplied); 21:27 second +3 (D27); 21:31 first +3. Rhymes that are the Latin's own echo, kept (rule 5): 21:24 *louvai-o / glorificai-o* (*laudáte eum / glorificáte eum*), 21:30 *terra / terra* (*terræ / terram*), 21:28b / 21:29 *nações / nações* (*géntium / géntium*)."
+  }
+ ]
+}

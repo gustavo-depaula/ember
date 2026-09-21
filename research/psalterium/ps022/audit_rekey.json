@@ -1,0 +1,3 @@
+[
+  {"step": "checks", "note": "Re-keyed to the shared ids (the coordinator's fix in latin.readVerses: a repeated DO id's second line gets 'b'): 22:4a/5a/6a → 22:4/5/6 in prayed.json, literal.json and the version snapshots (ps022/rename_ids.py); the private wrapper ps022/dupids.py named in the earlier steps is removed. Text unchanged. Plain render.py and checks.py: hard pass."}
+]

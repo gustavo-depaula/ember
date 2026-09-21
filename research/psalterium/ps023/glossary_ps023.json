@@ -1,0 +1,26 @@
+{
+  "append": [
+    {"row": "| orbis terræ |", "text": " **Ps 23:1 applied:** *o mundo, e todos os que nele habitam* — the masculine lets *nele* (in eo) and 23:2 *o fundou … o preparou* (eum) point to the world, as the Latin's pronouns point to orbis (the Hebrew's are feminine, the earth). Passed the Latinist twice; no reader stopped."},
+    {"row": "| stare |", "text": " Ps 23:3 *aut quis stabit in loco sancto ejus?* → *ou quem estará de pé no seu lugar santo?* — the blind reader heard standing in God's presence, the posture audible too (both the Latin's)."},
+    {"row": "| sancta / sanctum (a place) |", "text": " Ps 23:3 *in loco sancto ejus* → *no seu lugar santo*."},
+    {"row": "| dolus / dolósus / dolóse ágere |", "text": " **Ps 23:4 applied, reordered:** *nem jurou ao seu próximo com engano* — the pencilled *com engano ao seu próximo* would end the verse on the proparoxytone *próximo* (rule 4); heard as swearing falsely to deceive."},
+    {"row": "| virtus (δύναμις), *in virtúte tua* |", "text": " **Ps 23:10 *Dóminus virtútum* → *o Senhor dos poderes*** (its first place of 16: 45:8, 45:12, 47:9, 58:6, 67:13 *Rex virtútum*, 68:7, 79:5, 8, 15, 20, 83:2, 4, 9, 13, 88:9 — grep); the plural as 20:14b. Passed the Latinist twice; the blind reader heard 'the Lord who has all powers' (or 'of powerful beings' — the Greek's δυνάμεις, the hosts, are both). Options *dos exércitos* (DRB, the Hebrew's Sabaoth), *das virtudes* (MS1932). Formula row proposed; wants a ruling before Ps 45."},
+    {"row": "| quǽrere |", "text": " Ps 23:6 *quæréntium … quæréntium* → *dos que o buscam … dos que buscam* (the repetition kept). requírere (24:10) takes *procurar*, apart."},
+    {"row": "| fundáre |", "text": " Ps 23:2 *fundávit eum* → *o fundou* (the world, masculine)."},
+    {"row": "| eleváre (passive, *eleváta est*) |", "text": " **Ps 23:7 = 23:9 the imperative *elevámini, portæ æternáles* → *elevai-vos, portas eternas*** (the pronominal form, as 7:7a *exaltai-vos*; safe at the vós imperative). Passed the Latinist twice; the blind reader heard the gates opened for the King."}
+  ],
+  "terms": [
+    "| plenitúdo | plenitude (*Do Senhor é a terra, e a sua plenitude*) | open | Ps 23:1 (= 1 Cor 10:26, Clementine fetched `consult/bolls-VULG-46-10.json`); the formula *… et plenitúdo ejus* returns 49:12, 88:12, 95:11, 97:6 (grep) and wants one wording. The blind reader listed *plenitude* unknown yet heard the sense (all that fills the earth) — kept; MS1932's *tudo o que ela contém* is the option |",
+    "| accípere | receber (*que não recebeu em vão a sua alma … Este receberá a bênção*) | open | Ps 23:4–5, one verb twice (ἔλαβεν … λήμψεται), the repetition kept; *tomar em vão* (DRB 'taken … in vain', the commandment's idiom) is the option for 23:4 and 17:17 *me tomou* stands; 10 lines (grep) |",
+    "| salutáris (of God, in apposition) · salvátor | Salvador (*de Deus, seu Salvador*; *vós sois, Deus, o meu Salvador*) | open | Ps 23:5 *a Deo, salutári suo* (σωτῆρος αὐτοῦ) and 24:5 *salvátor meus* (ὁ σωτήρ μου): one Greek word, D15 allows the merge. The neuter *salutáre* stays *salvação* (D6); *Deus salutáris noster* (64:6, 78:9, 84:5) will test the line between them. Ps 23:5's *Senhor / Salvador* rhymed at the cadences (the stylist) — the second colon reordered, *e de Deus, seu Salvador, a misericórdia* |",
+    "| attóllere | erguer (*Erguei, príncipes, as vossas portas*) | open | Ps 23:7 = 23:9, its only places (grep); kept apart from leváre → levantar (24:1) and eleváre → elevar in the same line. Shares *erguer* with erígere (19:9 *fomos erguidos*, the passive), which never meets it. The Advent versicle's *Tóllite portas* (Adv1-0) is another Latin text, which the wording serves too. The blind reader heard 'open the gates' |",
+    "| æternális | eterno (*portas eternas*) | open | Ps 23:7 = 23:9; πύλαι αἰώνιοι. MS1932's note glosses 'very ancient gates' (the Hebrew) — refused, rule 1 |",
+    "| innocens | inocente (*Aquele que tem mãos inocentes e coração puro*) | open | Ps 23:4 *Ínnocens mánibus et mundo corde* — draft 1 *O inocente de mãos e puro de coração* (the Latin's adjectives; DRB, MS1932) was the stylist's worst line («calcado no latim»); draft 2 answers *Quem subirá?* as 14:2 does (*Aquele que …*). The Monday Prime antiphon adapts it (*… ascéndet in montem Dómini*). 24:21 *Innocéntes et recti* → *Os inocentes e os retos* |"
+  ],
+  "formulas": [
+    "| *Attóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ* (23:7 = 23:9) | *Erguei, príncipes, as vossas portas, e elevai-vos, portas eternas: * e entrará o Rei da glória* | open — Ps 23; one set of slots fills both verses |",
+    "| *Quis est iste Rex glóriæ?* (23:8 = 23:10a) | *Quem é este Rei da glória?* | open — Ps 23; the answers are punctuated alike (*O Senhor forte e poderoso: …* / *O Senhor dos poderes: ele é o Rei da glória*) |",
+    "| *Dóminus virtútum* (23:10; 16 lines, 45:8 …) | *o Senhor dos poderes* | open — Ps 23; see the row *virtus* |",
+    "| *Dómini est terra, et plenitúdo ejus* (23:1 = 1 Cor 10:26) | *Do Senhor é a terra, e a sua plenitude* | open — Ps 23; St Paul's quotation is word for word (Clementine, fetched) |"
+  ]
+}

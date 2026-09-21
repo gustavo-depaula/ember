@@ -1,0 +1,36 @@
+[
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. One major (22:5b); every other verse passed, the marks confirmed. «A tradução conserva adequadamente o sentido dos demais versículos.» Passed in particular 'me rege', 'me nutriu', 'converteu a minha alma', 'não temerei males', 'eles me consolaram', 'Ungistes' apart, 'E para que eu habite', 'por longos dias'.",
+    "outcomes": [
+      {"verse": "22:5b", "remark": "MAJOR: impinguásti is 'make fat'; 'Ungistes' keeps the oil and drops the fattening → 'Engordastes com óleo a minha cabeça'", "outcome": "refused", "decision": "impinguasti", "reason": "HELD for Gustavo. The Greek is ἐλίπανας ἐν ἐλαίῳ (λιπαίνω, to oil / anoint with fat): an anointing, as every Vulgate-family witness reads it; his line is a wrong first hearing (a head made fat). Kept as option 3; 'Untastes' (option 2) is the wording that keeps the fat without absurdity."}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Three verses; best 22:3, worst 22:5b. «O salmo soa sóbrio e reverente, com cadências tônicas adequadas e sem rimas que distraiam.» One taken in part, two refused.",
+    "outcomes": [
+      {"verse": "22:5b", "remark": "the exclamation after 'embriaga' breaks the phrase; 'excelente' sounds like an evaluation → 'e como é esplêndido o meu cálice que embriaga!'", "outcome": "taken", "decision": "praeclarus", "reason": "His order taken (the exclamation first, the cup last); his word refused — præclárus → excelente is the glossary's (15:6), and 'esplêndido' is a proparoxytone. 'como é esplêndido' is an option."},
+      {"verse": "22:1", "remark": "'num lugar de pastagem ali' sounds like an improvised restart → 'ali me colocou num lugar de pastagem'", "outcome": "refused", "decision": "collocavit", "reason": "The half-verse is an antiphon opening on the place (Office of the Dead, Thursday Prime), and 'ibi' is the Latin's resumption. A comma added to make it deliberate."},
+      {"verse": "22:5", "remark": "'atribulam' is bookish → 'os que me afligem'", "outcome": "refused", "decision": "adversus", "reason": "tribuláre → atribular is the glossary's (working; Ps 3:2, 12:5b), the family of tribulátio → tribulação; 'afligir' is afflígere's. The blind reader listed it as unknown too — evidence added to the row."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1. 15 items, 3 unknown words (refrigério, veredas, atribulam). No wrong first hearing that the Latin does not have: 'nada me faltará' heard as 'all I need'; 'me nutriu' as spiritual sustenance first; 'converteu a minha alma' as conversion to faith first (D25, the 18:8 precedent — kept); 'no meio da sombra da morte' as danger of death; 'vós estais comigo' at once as God (and the vós carried through); 'a vossa vara' as guiding, not punishing; 'uma mesa' as a meal; 'contra os que me atribulam' as a table set in defiance — the Latin's sense; 'o meu cálice que embriaga' heard as physical drink first — the Latin's image, kept unexplained; 'E para que eu habite' heard as the purpose of the mercy that follows — the Latin's ut; 'na casa do Senhor' as the temple first, heaven second; 'por longos dias' as many years.",
+    "outcomes": [
+      {"verse": "22:2", "remark": "unknown word: refrigério", "outcome": "refused", "decision": "refectionis", "reason": "refectio, 'restoring, refreshment' (L&S); 'refrigério' is the Church's word (the Canon's locum refrigerii) and says what the Latin says; 'repouso' and 'que restaura' are options."},
+      {"verse": "22:3", "remark": "unknown word: veredas", "outcome": "refused", "decision": "semitas", "reason": "D15, sémita → vereda (settled)."},
+      {"verse": "22:5", "remark": "unknown word: atribulam", "outcome": "refused", "decision": "adversus", "reason": "Glossary tribuláre → atribular (working); evidence added to the row."},
+      {"verse": "22:5b", "remark": "'o meu cálice que embriaga' heard first as physical drunkenness", "outcome": "refused", "decision": "inebrians", "reason": "The Latin's image, unexplained (rule 5)."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "ps022/revise_v2.py: 22:5b reordered ('e como é excelente o meu cálice que embriaga!', the stylist's order); 22:1 comma after 'pastagem'. The Latinist's major on 'Ungistes' held (see decision impinguasti)."
+  }
+]

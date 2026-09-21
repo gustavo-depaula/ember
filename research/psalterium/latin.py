@@ -25,15 +25,23 @@ def words(text):
 
 
 def readVerses(path):
-    """Prayed verses in file order: [{'id': '4:2a', 'chapter': 4, 'verse': 2, 'suffix': 'a', 'text': ...}]."""
+    """Prayed verses in file order: [{'id': '4:2a', 'chapter': 4, 'verse': 2, 'suffix': 'a', 'text': ...}].
+
+    DO repeats an id on two lines in 57 psalms (21:15 twice); the second, third … line gets the suffix b, c …, DO's
+    own convention for a verse's continuation (17:3b). Dropping the suffix gives DO's id back.
+    """
     verses = []
+    seen = {}
     for line in path.read_text(encoding='utf-8').splitlines():
         match = verseLine.match(line)
         if match:
             chapter, verse, suffix, text = match.groups()
-            verses.append(
-                {'id': f'{chapter}:{verse}{suffix}', 'chapter': int(chapter), 'verse': int(verse), 'suffix': suffix, 'text': text}
-            )
+            vid = f'{chapter}:{verse}{suffix}'
+            seen[vid] = seen.get(vid, 0) + 1
+            if seen[vid] > 1:
+                suffix += 'abcdefgh'[seen[vid] - 1]
+                vid = f'{chapter}:{verse}{suffix}'
+            verses.append({'id': vid, 'chapter': int(chapter), 'verse': int(verse), 'suffix': suffix, 'text': text})
     return verses
 
 

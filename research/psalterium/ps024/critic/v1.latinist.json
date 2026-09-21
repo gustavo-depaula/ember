@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "ae298fd592848a258dcdb62645b4b63c62274ef0054526b2409adc66e67181f3",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T16:30:48+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"24:19\",\n      \"severity\": \"major\",\n      \"issues\": [\n        {\n          \"latin\": \"ódio iníquo odérunt me\",\n          \"portuguese\": \"com ódio iníquo me odiaram\",\n          \"problem\": \"Odérunt é perfeito de forma, mas tem sentido presente: expressa o ódio atual dos inimigos. «Odiaram» desloca esse estado para o passado. Ver [Allen e Greenough, § 205](https://dcc.dickinson.edu/grammar/latin/defective-verbs).\",\n          \"fix\": \"com ódio iníquo me odeiam\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva adequadamente o conteúdo latino nos demais versículos, inclusive suas construções incomuns. As marcas de divisão coincidem em todos os 23 versículos: os mesmos sinais, na mesma ordem.\"\n}"
+}

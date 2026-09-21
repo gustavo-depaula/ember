@@ -1,0 +1,39 @@
+[
+ {"step": "latinist", "file": "critic/v1.latinist.json",
+  "note": "Draft 1. Three minors, no major; the marks confirmed in all 34 verses. «A tradução conserva o conteúdo latino, inclusive suas imagens e construções incomuns; os reparos encontrados são menores e dizem respeito à conservação estrita do número.» One taken, two refused.",
+  "outcomes": [
+   {"verse": "21:10", "remark": "minor: 'o peito' singular for the plural ubéribus → 'os seios da minha mãe'", "outcome": "taken", "decision": "uberibus", "reason": "The plural taken as MS1932 has it, *os peitos*: *os seios* beside *o seio materno* would be heard as one thing."},
+   {"verse": "21:18", "remark": "minor: 'lançaram sortes' pluralises sortem → 'lançaram a sorte'", "outcome": "refused", "decision": "sortem", "reason": "*lançar a sorte* is heard as casting one's fate; *lançar sortes* is the idiom for drawing lots, and the blind reader heard it so. Number is grammar (D2)."},
+   {"verse": "21:27", "remark": "minor: 'pelos séculos dos séculos' pluralises → 'pelo século do século'", "outcome": "refused", "decision": "saeculi", "reason": "Settled, D27."}
+  ]},
+ {"step": "stylist", "file": "critic/v1.stylist.json",
+  "note": "Draft 1. Eight verses; best 21:5, worst 21:3. «O salmo tem gravidade e boa sustentação oral … os tropeços mais definidos estão nas palavras proparoxítonas colocadas nas cadências.» Four taken (21:3 in part, 21:12, 21:16 with the glossary row's own option, 21:21), four refused and kept as options (21:14, 21:20, 21:24, 21:27).",
+  "outcomes": [
+   {"verse": "21:3", "remark": "(worst line) the ellipses leave the voice without support → 'e de noite, e isso não será para minha insensatez'", "outcome": "taken", "decision": "insipientiam", "reason": "The copula *será* taken (grammar, D2) — it also mends the blind reader's *para* = *parar*; his *isso* left out (+2 syllables); his whole line is option 3."},
+   {"verse": "21:12", "remark": "'próxima' proparoxytone at the mediant → 'está perto'", "outcome": "taken", "decision": "proxima", "reason": "The plainer of two faithful words; answers the psalm's *longe*."},
+   {"verse": "21:14", "remark": "'Abriram sobre mim' sounds a translated spatial build → 'contra mim'", "outcome": "option", "decision": "super", "reason": "*abrir a boca contra* is to speak against; *sobre mim* keeps the lion's jaws over the prey (MS1932 has it). The Latinist passed it."},
+   {"verse": "21:16", "remark": "'se apegou' is affection before touch → 'ficou presa'", "outcome": "taken", "decision": "adhaesit", "reason": "Taken in substance with the adhǽrére row's own option, *se colou* (DM1962): the physical sticking, still one verb for one; his *ficou presa* (a state) is option 3."},
+   {"verse": "21:20", "remark": "'não ponhais longe' sounds assembled → 'não afasteis de mim'", "outcome": "option", "decision": "elongaveris", "reason": "*afastar* is discédere's in 21:11; the Latin's *longe* (answering 21:2 and 21:12) would be lost."},
+   {"verse": "21:21", "remark": "'única' proparoxytone at the final → 'e a minha única, da mão do cão'", "outcome": "taken", "decision": "unicam", "reason": "Order only (D2)."},
+   {"verse": "21:24", "remark": "rhyme 'louvai-o … glorificai-o' → vocative last", "outcome": "option", "decision": "glorificate", "reason": "The Latin's own echo (*laudáte eum … glorificáte eum*), rule 5's exception; the Latin's order."},
+   {"verse": "21:27", "remark": "the proparoxytone 'séculos' at the final → formula first", "outcome": "option", "decision": "saeculi", "reason": "The Latin closes on *sǽculi* too; held so at 18:10, 20:5, 20:7."}
+  ]},
+ {"step": "ambiguity", "file": "critic/v1.ambiguity.json",
+  "note": "Draft 1. 38 items, 7 unknown words (escarneceram, novilhos, sitiaram, arrebata, sitiou, fitaram, confins). Two wrong first hearings, both mended in draft 2 (21:3 *para* heard as *parar*; 21:4 *louvor de Israel* heard as the holy place's name); *novilhos* replaced. The rest are the Latin's own openness or its images, kept.",
+  "outcomes": [
+   {"verse": "21:3", "remark": "'não para a minha insensatez' heard first as 'my folly does not stop' (parar)", "outcome": "taken", "decision": "insipientiam", "reason": "*não será para* — after the copula *para* is the preposition."},
+   {"verse": "21:4", "remark": "'louvor de Israel' heard as a name of the holy place", "outcome": "taken", "decision": "laus", "reason": "*vós, louvor de Israel*: the subject named again, heard as God."},
+   {"verse": "21:13", "remark": "'novilhos' unknown", "outcome": "taken", "decision": "vituli", "reason": "*bezerros*, the plainer faithful word."},
+   {"verse": "21:9", "remark": "'porque o quer' heard as 'because the Lord wants to save him'", "outcome": "option", "decision": "eripiat", "reason": "Near the Latin's sense (he wills him / delights in him); *porque lhe quer bem* stays the option — it adds *bem*."},
+   {"verse": "21:30", "remark": "'os gordos da terra' heard first as people with fat bodies", "outcome": "option", "decision": "pingues", "reason": "The Latin's image (rule 5), and 21:13 *touros gordos* echoes it; the sense (the prosperous) came second. *os ricos* (MS1932) is the option."},
+   {"verse": "21:8", "remark": "'escarneceram' unknown", "outcome": "refused", "decision": "deriserunt", "reason": "The glossary keeps *escarnecer* for derídere, *zombar* for subsannáre; a standard Bible word."},
+   {"verse": "21:13", "remark": "'sitiaram' / 21:17 'sitiou' unknown", "outcome": "refused", "decision": "obsidere", "reason": "The plain word for a siege; *cercar* is circumdáre's in the same two verses; *assediar* is heard as harassment."},
+   {"verse": "21:14", "remark": "'arrebata' unknown", "outcome": "refused", "reason": "rápere → arrebatar (glossary, working)."},
+   {"verse": "21:18", "remark": "'fitaram' unknown", "outcome": "refused", "decision": "consideraverunt", "reason": "inspícere, only here: *fitar* is the stare (DRB); *examinar* is examináre's and *encarar* confrontation. Kept; the next reader will show whether it holds."},
+   {"verse": "21:28", "remark": "'confins' unknown", "outcome": "refused", "reason": "fines terræ → os confins da terra (glossary)."},
+   {"verse": "21:21", "remark": "'a minha única' — my only soul / my only life / a beloved woman", "outcome": "refused", "decision": "unicam", "reason": "The Latin's own openness; heard first as the soul, which is the sense."},
+   {"verse": "21:22", "remark": "'a minha pequenez' heard as my fragility", "outcome": "refused", "decision": "humilitatem", "reason": "Heard rightly; no change."}
+  ]},
+ {"step": "revision", "version": 2,
+  "note": "v2: 21:3 *e não será para a minha insensatez* (the stylist's copula; mends *para* = *parar*); 21:4 *vós, louvor de Israel* (the blind reader); 21:10 *os peitos* (the Latinist's plural); 21:12 *está perto* (the stylist); 21:13 *bezerros* (the blind reader); 21:16 *se colou* (the stylist, with the glossary row's option); 21:21 *e a minha única, da mão do cão* (the stylist's order). New decisions: laus, proxima, super, adhaesit, glorificate, saeculi (the last four hold refused stylist lines as options). Draft 1 kept as prayed.v1.json."}
+]

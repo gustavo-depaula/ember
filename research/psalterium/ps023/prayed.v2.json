@@ -1,0 +1,554 @@
+{
+  "psalm": 23,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "23:1": "Do Senhor é a terra, e {plenitudo}: * {orbis}, e todos os que nele habitam.",
+    "23:2": "{ipse} sobre os mares: * e o preparou sobre os rios.",
+    "23:3": "Quem subirá ao monte do Senhor? * ou quem {stabit} no seu lugar santo?",
+    "23:4": "{innocens}, * que não {accepit} em vão a sua alma, {dolo}.",
+    "23:5": "Este {accipiet} a bênção do Senhor: * e de Deus, {salutari}, a misericórdia.",
+    "23:6": "Esta é a geração dos que o buscam, * dos que buscam a face do Deus de Jacó.",
+    "23:7": "{attollite}, e {elevamini}, portas {aeternales}: * e entrará o Rei da glória.",
+    "23:8": "Quem é este Rei da glória? * O Senhor forte e poderoso: o Senhor poderoso na batalha.",
+    "23:9": "{attollite}, e {elevamini}, portas {aeternales}: * e entrará o Rei da glória.",
+    "23:10": "Quem é este Rei da glória? * O Senhor {virtutum}: {ipseest} o Rei da glória."
+  },
+  "decisions": [
+    {
+      "id": "plenitudo",
+      "refs": [
+        "23:1"
+      ],
+      "latin": "et plenitúdo ejus",
+      "kind": "word",
+      "why": "plenitúdo: 'fulness' (τὸ πλήρωμα αὐτῆς) — all that fills the earth. The formula returns 'terra / mare / orbis … et plenitúdo ejus' in 49:12, 88:12, 95:11, 97:6 (grep), so one wording should serve all five. St Paul quotes the half-verse word for word (1 Cor 10:26 'Domini est terra, et plenitudo ejus', Clementine fetched to consult/bolls-VULG-46-10.json). Douay-Rheims 'the fulness thereof'; Matos Soares 1932 'e tudo que ela encerra' (a paraphrase).",
+      "options": [
+        {
+          "label": "a sua plenitude",
+          "forms": {
+            "plenitudo": "a sua plenitude"
+          },
+          "note": "Ruling: the noun kept, current Portuguese; the possessive after 'a terra' points to it.",
+          "from": "DRB"
+        },
+        {
+          "label": "tudo o que ela contém",
+          "forms": {
+            "plenitudo": "tudo o que ela contém"
+          },
+          "note": "Matos Soares 1932's sense ('tudo que ela encerra'): the noun explained as a clause — refused (rule 2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "orbis",
+      "refs": [
+        "23:1"
+      ],
+      "latin": "orbis terrárum",
+      "kind": "glossary",
+      "why": "D30: orbis terræ / terrárum → 'o mundo' in all its lines (the row names 23:1). 'mundo' is masculine, as orbis is, so 'nele' (in eo) and, in 23:2, 'o fundou … o preparou' (eum) point to it as the Latin's pronouns point to orbis, not to terra.",
+      "options": [
+        {
+          "label": "o mundo",
+          "forms": {
+            "orbis": "o mundo"
+          },
+          "note": "Ruling: D30.",
+          "from": "glossary"
+        },
+        {
+          "label": "o orbe da terra",
+          "forms": {
+            "orbis": "o orbe da terra"
+          },
+          "note": "Both Latin words; 'orbe' unknown to two blind readers (Pss 9, 17).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "ipse",
+      "refs": [
+        "23:2"
+      ],
+      "latin": "Quia ipse super mária fundávit eum",
+      "kind": "grammar",
+      "why": "ipse: 'he himself', an emphatic subject; eum (masculine) is orbis — the world, 'o mundo' of 23:1. The Hebrew-family pronoun is feminine (the earth); the Latin's masculine is followed, which 'o mundo' makes possible. fundáre → fundar, præparáre → preparar (glossary). Douay-Rheims 'For he hath founded it upon the seas'; Matos Soares 1932 'Porque ele a fundou' (feminine, the earth).",
+      "options": [
+        {
+          "label": "Porque ele o fundou",
+          "forms": {
+            "ipse": "Porque ele o fundou"
+          },
+          "note": "Ruling: the subject named; the Latin's emphasis carried by stress, not by an added word.",
+          "from": "draft"
+        },
+        {
+          "label": "Porque foi ele que o fundou",
+          "forms": {
+            "ipse": "Porque foi ele que o fundou"
+          },
+          "note": "ipse's emphasis as a cleft; two syllables heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "Porque ele mesmo o fundou",
+          "forms": {
+            "ipse": "Porque ele mesmo o fundou"
+          },
+          "note": "ipse to the letter; 'mesmo' is heard as 'even'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "stabit",
+      "refs": [
+        "23:3"
+      ],
+      "latin": "aut quis stabit in loco sancto ejus?",
+      "kind": "glossary",
+      "why": "stare → estar de pé (glossary, open; 133:1b, 17:39): to stand in the holy place, as the priests 'qui statis in domo Dómini'. The question answers the one before it (who goes up, who stands). Douay-Rheims 'who shall stand'; Matos Soares 1932 'quem estará'. in loco sancto → 'no seu lugar santo' (glossary sanctum, a place).",
+      "options": [
+        {
+          "label": "estará de pé",
+          "forms": {
+            "stabit": "estará de pé"
+          },
+          "note": "Ruling: the glossary's stare.",
+          "from": "glossary"
+        },
+        {
+          "label": "permanecerá",
+          "forms": {
+            "stabit": "permanecerá"
+          },
+          "note": "Standing as remaining; permanére's verb in this psalter.",
+          "from": "draft"
+        },
+        {
+          "label": "estará",
+          "forms": {
+            "stabit": "estará"
+          },
+          "note": "Matos Soares 1932: the posture lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "innocens",
+      "refs": [
+        "23:4"
+      ],
+      "latin": "Ínnocens mánibus et mundo corde",
+      "kind": "order",
+      "why": "The answer opens with two adjectives with ablatives of respect ('innocent in hands and clean of heart'; ἀθῷος χερσὶν καὶ καθαρὸς τῇ καρδίᾳ). mundus → puro (D30's note: 'puro' is what mundus 'clean' becomes). 'puro de coração' is the Beatitude's phrase in the Brazilian ear. The Monday Prime antiphon adapts the verse: 'Ínnocens mánibus * et mundo corde ascéndet in montem Dómini' (Psalterium/Psalmi/Psalmi minor.txt) — the wording must carry that too ('O inocente de mãos e puro de coração subirá ao monte do Senhor'). Ps 14, this psalm's cousin, answered its 'quis?' with 'Aquele que …' because there the Latin has 'Qui'; here it has an adjective. Douay-Rheims 'The innocent in hands, and clean of heart'; Matos Soares 1932 'O inocente de mãos e limpo de coração'. Heard (draft 1): the stylist’s worst line — «“Inocente de mãos” soa calcado no latim; a construção exige uma pequena decifração ao ser ouvida» → ‘Quem tem mãos inocentes e coração puro’. The Latinist passed the calque; the blind reader understood it (‘quem não praticou o mal’). Taken in the form of the draft’s own option 1: ‘Aquele que tem …’ answers ‘Quem subirá?’ as Ps 14:2 answers its question, where the stylist’s ‘Quem tem’ would sound like a second question. The ablatives of respect become the objects of a supplied ‘ter’ — the sense of the Latin, both nouns and both adjectives kept; the antiphon reads ‘Aquele que tem mãos inocentes e coração puro subirá ao monte do Senhor’.",
+      "options": [
+        {
+          "label": "Aquele que tem mãos inocentes e coração puro",
+          "forms": {
+            "innocens": "Aquele que tem mãos inocentes e coração puro"
+          },
+          "note": "Ruling (draft 2): the natural build (the stylist), answering the question as Ps 14:2.",
+          "from": "stylist"
+        },
+        {
+          "label": "O inocente de mãos e puro de coração",
+          "forms": {
+            "innocens": "O inocente de mãos e puro de coração"
+          },
+          "note": "Draft 1. the Latin's two adjectives, parallel as the Latin; Douay-Rheims and Matos Soares 1932 build it so.",
+          "from": "DRB"
+        },
+        {
+          "label": "Quem tem mãos inocentes e coração puro",
+          "forms": {
+            "innocens": "Quem tem mãos inocentes e coração puro"
+          },
+          "note": "The stylist’s words: heard as a second question after ‘Quem subirá … ou quem estará de pé’.",
+          "from": "stylist"
+        },
+        {
+          "label": "O de mãos inocentes e de coração puro",
+          "forms": {
+            "innocens": "O de mãos inocentes e de coração puro"
+          },
+          "note": "The ablatives as 'de' phrases; a clipped build.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "accepit",
+      "refs": [
+        "23:4",
+        "23:5"
+      ],
+      "latin": "qui non accépit in vano ánimam suam … Hic accípiet benedictiónem",
+      "kind": "word",
+      "why": "One verb twice, two verses apart: accépit … accípiet (ἔλαβεν … λήμψεται, the Greek too). The Latin sets the man who did not take/receive his soul 'in vano' beside the man who will take/receive a blessing — the repetition is kept (rule 2) with one verb. 'receber' serves both; 'tomar' (17:17 'me tomou') would give the commandment's idiom 'tomar em vão' in 23:4 (Douay-Rheims 'taken his soul in vain') but 'tomará a bênção' in 23:5 is not said. What 'receive one's soul in vain' means is left as open as the Latin (a life received for nothing, or a soul given to vanity). Matos Soares 1932 'o que não entregou à vaidade a sua alma' explains, and drops the repetition ('receberá' in 23:5).",
+      "options": [
+        {
+          "label": "recebeu … receberá",
+          "forms": {
+            "accepit": "recebeu",
+            "accipiet": "receberá"
+          },
+          "note": "Ruling: one verb for the Latin's one, the repetition heard.",
+          "from": "draft"
+        },
+        {
+          "label": "tomou … receberá",
+          "forms": {
+            "accepit": "tomou",
+            "accipiet": "receberá"
+          },
+          "note": "Douay-Rheims 'taken … receive': the catechism's 'tomar em vão' in 23:4; the repetition lost.",
+          "from": "DRB"
+        },
+        {
+          "label": "tomou … tomará",
+          "forms": {
+            "accepit": "tomou",
+            "accipiet": "tomará"
+          },
+          "note": "One verb, 'tomar' (17:17): 'tomará a bênção' is not Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "entregou à vaidade … receberá",
+          "forms": {
+            "accepit": "entregou",
+            "accipiet": "receberá"
+          },
+          "note": "Matos Soares 1932's sense (the verse then reads 'não entregou em vão'): explains — refused (rule 2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dolo",
+      "refs": [
+        "23:4"
+      ],
+      "latin": "nec jurávit in dolo próximo suo",
+      "kind": "order",
+      "why": "The glossary row dolus pencilled this colon as 'nem jurou com engano ao seu próximo' (from Ps 14's agent). Rule 4 moves the words: 'próximo' is a proparoxytone and would close the verse (the glossary's próximo row: 'at a cadence it needs a word after it'), where the Latin closes on 'suo'. The dative first, the manner last: 'nem jurou ao seu próximo com engano' ends on a paroxytone. Nothing else changes. Douay-Rheims 'nor sworn deceitfully to his neighbour'; Matos Soares 1932 'nem fez juramentos dolosos ao seu próximo'.",
+      "options": [
+        {
+          "label": "nem jurou ao seu próximo com engano",
+          "forms": {
+            "dolo": "nem jurou ao seu próximo com engano"
+          },
+          "note": "Ruling: the glossary's words, reordered for the cadence (rule 4).",
+          "from": "glossary"
+        },
+        {
+          "label": "nem jurou com engano ao seu próximo",
+          "forms": {
+            "dolo": "nem jurou com engano ao seu próximo"
+          },
+          "note": "The glossary's pencilled order: the verse ends on a proparoxytone.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "salutari",
+      "refs": [
+        "23:5"
+      ],
+      "latin": "a Deo, salutári suo",
+      "kind": "word",
+      "why": "salutári is the ablative of salutáris used as a title in apposition to Deo: 'from God his saving one' — the Greek σωτῆρος αὐτοῦ, 'his Saviour'; 'Deus salutáris noster' is a formula of the psalter (64:6, 78:9, 84:5). The form could also be the neuter noun salutáre (→ salvação, D6), but in apposition to a person and with the Greek's σωτήρ the title is the reading of both Vulgate-family versions (Douay-Rheims 'God his Saviour'; Matos Soares 1932 'Deus, seu Salvador'). Cost: Ps 24:5 has salvátor ('salvátor meus', σωτήρ too), and both become 'Salvador' — one Greek word, D15's test allows the merge. Heard (draft 1): the stylist — «“Senhor” e “Salvador” fazem rimar as duas cadências» (checks.py flagged it too) → ‘Este receberá do Senhor a bênção: * e de Deus, seu Salvador, a misericórdia’. Taken for the second colon only: the title moves inside, the colon ends on ‘misericórdia’, and the rhyme is gone; the first colon keeps the Latin’s order (‘a bênção do Senhor’, benedictiónem a Dómino). The Latinist passed ‘seu Salvador’.",
+      "options": [
+        {
+          "label": "seu Salvador",
+          "forms": {
+            "salutari": "seu Salvador"
+          },
+          "note": "Ruling: the title (the Greek σωτῆρος); both Vulgate-family versions.",
+          "from": "DRB"
+        },
+        {
+          "label": "sua salvação",
+          "forms": {
+            "salutari": "sua salvação"
+          },
+          "note": "D6's word for the neuter salutáre, which the form allows; keeps salutáris apart from salvátor (24:5), but makes God a 'salvation' where the Greek names a saviour.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "attollite",
+      "refs": [
+        "23:7",
+        "23:9"
+      ],
+      "latin": "Attóllite portas, príncipes, vestras",
+      "kind": "word",
+      "why": "23:7 and 23:9 are one Latin line, sung in dialogue with 23:8 and 23:10; both verses are built from the same slots so that they cannot drift. attóllere: 'lift up, raise' — only these two lines (grep). Two Latin verbs in the line (attóllite … elevámini) stay two: levantar is leváre's (24:1 'levávi ánimam meam', 118:48, 120:1), elevar is eleváre's (8:2b 'se elevou'), so attóllere takes 'erguer' — free in the glossary but for extóllere (open, 133:2), which never meets it. 'Erguei' is safe at the vós imperative (past 'ergui'). The vocative 'príncipes' stays in the middle as the Latin has it (Douay-Rheims 'Lift up your gates, O ye princes'; Matos Soares 1932 'Levantai, ó príncipes, as vossas portas'); no 'ó', which the Latin does not have. The line is sung at Advent: DO's first Sunday of Advent has 'V. Tóllite portas, príncipes, vestras, et elevámini portæ æternáles, et introíbit Rex glóriæ' (Tempora/Adv1-0.txt; the text of the Roman Missal family, with Tóllite) — not this psalm's Latin, but the Portuguese should serve it.",
+      "options": [
+        {
+          "label": "Erguei, príncipes, as vossas portas",
+          "forms": {
+            "attollite": "Erguei, príncipes, as vossas portas"
+          },
+          "note": "Ruling: a verb of its own for attóllere; the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "Levantai, ó príncipes, as vossas portas",
+          "forms": {
+            "attollite": "Levantai, ó príncipes, as vossas portas"
+          },
+          "note": "Matos Soares 1932: the familiar sound; 'levantar' is leváre's, and 'ó' is added.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Príncipes, erguei as vossas portas",
+          "forms": {
+            "attollite": "Príncipes, erguei as vossas portas"
+          },
+          "note": "The vocative first, natural order; the verb no longer opens the line as the Latin's does.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "elevamini",
+      "refs": [
+        "23:7",
+        "23:9"
+      ],
+      "latin": "et elevámini, portæ æternáles",
+      "kind": "grammar",
+      "why": "elevámini: passive imperative of eleváre with middle sense (ἐπάρθητε), said to the gates themselves. The glossary's eleváre (passive) → elevar-se (8:2b 'se elevou') and the pronominal imperative of Exaltáre → 'exaltai-vos' (7:7a) give 'elevai-vos' (safe: past 'elevei'). Douay-Rheims 'be ye lifted up'; Matos Soares 1932 'levantai-vos' (one verb for the Latin's two).",
+      "options": [
+        {
+          "label": "elevai-vos",
+          "forms": {
+            "elevamini": "elevai-vos"
+          },
+          "note": "Ruling: the glossary's pronominal form for the middle passive.",
+          "from": "glossary"
+        },
+        {
+          "label": "sede elevadas",
+          "forms": {
+            "elevamini": "sede elevadas"
+          },
+          "note": "The passive to the letter (as the option 'sede exaltado' in 7:7a).",
+          "from": "draft"
+        },
+        {
+          "label": "levantai-vos",
+          "forms": {
+            "elevamini": "levantai-vos"
+          },
+          "note": "Matos Soares 1932: merges the Latin's two verbs.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "aeternales",
+      "refs": [
+        "23:7",
+        "23:9"
+      ],
+      "latin": "portæ æternáles",
+      "kind": "word",
+      "why": "æternális: 'eternal' (πύλαι αἰώνιοι). Matos Soares 1932 keeps 'portas eternas' and adds a note that the phrase is a hyperbole for 'very ancient gates' — the Hebrew's sense (pitḥê 'ôlām). The Latin says eternal; the Fathers heard the gates of heaven opening to the ascending Christ (St Ambrose, read at the Ascension in DO, Tempora/Pasc6-3.txt, quotes the verse so). Kept.",
+      "options": [
+        {
+          "label": "eternas",
+          "forms": {
+            "aeternales": "eternas"
+          },
+          "note": "Ruling: the Latin's word (Douay-Rheims, Matos Soares 1932).",
+          "from": "DRB"
+        },
+        {
+          "label": "antigas",
+          "forms": {
+            "aeternales": "antigas"
+          },
+          "note": "The Hebrew's sense, as Matos Soares 1932's note explains it — refused (rule 1).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "virtutum",
+      "refs": [
+        "23:10"
+      ],
+      "latin": "Dóminus virtútum",
+      "kind": "glossary",
+      "why": "Dóminus virtútum is the Greek's κύριος τῶν δυνάμεων ('Lord of the powers'), which renders the Hebrew's Sabaoth. It is a formula of the psalter: 16 lines (45:8, 45:12, 47:9, 58:6, 67:13 Rex virtútum, 68:7, 79:5, 8, 15, 20, 83:2, 4, 9, 13, 88:9 — grep); this is its first place. The glossary's virtus → poder (open) and 20:14b's plural 'os vossos poderes' give 'o Senhor dos poderes' — the Latin's noun, heard as the powers of heaven and of battle together. Douay-Rheims 'the Lord of hosts' (the Hebrew's sense, via the English Bible); Matos Soares 1932 'O Senhor das virtudes' (the cognate — 'virtudes' are moral qualities in Brazil, or one of the angelic choirs). A glossary row is proposed.",
+      "options": [
+        {
+          "label": "dos poderes",
+          "forms": {
+            "virtutum": "dos poderes"
+          },
+          "note": "Ruling: the glossary's virtus → poder, plural as 20:14b.",
+          "from": "glossary"
+        },
+        {
+          "label": "dos exércitos",
+          "forms": {
+            "virtutum": "dos exércitos"
+          },
+          "note": "Douay-Rheims' 'hosts' and the Hebrew's Sabaoth: the familiar sense, not the Latin's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "das virtudes",
+          "forms": {
+            "virtutum": "das virtudes"
+          },
+          "note": "Matos Soares 1932: the cognate, heard as moral virtues.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ipseest",
+      "refs": [
+        "23:10"
+      ],
+      "latin": "ipse est Rex glóriæ",
+      "kind": "order",
+      "why": "ipse emphatic: 'he, and no other, is the King of glory' — the answer to the question, closing the dialogue. Portuguese marks the emphasis by putting the verb first ('é ele'), which the ear hears as the answer. Douay-Rheims 'he is the King of Glory'; Matos Soares 1932 'esse é o Rei da glória'. Heard (draft 1): the stylist — «A vírgula sugere uma suspensão, mas “é ele” soa como um reinício da frase» → ‘O Senhor dos poderes: ele é o Rei da glória’. Taken: the colon gives the pause, and after it ‘ele’ first is the emphasis (ipse) — the answer to the question stands as a sentence of its own. 23:8’s answer has the same punctuation (‘forte e poderoso: o Senhor poderoso na batalha’), so the two answers of the dialogue now sound alike.",
+      "options": [
+        {
+          "label": "ele é",
+          "forms": {
+            "ipseest": "ele é"
+          },
+          "note": "Ruling (draft 2): after a colon (the stylist), ‘ele’ first carries ipse.",
+          "from": "stylist"
+        },
+        {
+          "label": "é ele",
+          "forms": {
+            "ipseest": "é ele"
+          },
+          "note": "Draft 1. the emphasis by order.",
+          "from": "draft"
+        },
+        {
+          "label": "esse é",
+          "forms": {
+            "ipseest": "esse é"
+          },
+          "note": "Matos Soares 1932: a demonstrative pointing back.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "23:1": "Dómini est terra → 'Do Senhor é a terra' (the Latin's order, good Portuguese; = 1 Cor 10:26, fetched). univérsi → 'todos' (glossary univérsus).",
+    "23:3": "ascéndere → subir. in montem Dómini → 'ao monte do Senhor'.",
+    "23:5": "benedíctio → bênção (glossary). 'a Dómino … a Deo' → 'do Senhor … de Deus'.",
+    "23:6": "quǽrere → buscar (glossary), twice as the Latin. generátio → geração. Dei Jacob → 'do Deus de Jacó'.",
+    "23:7": "introíre → entrar (íngredi / intráre → entrar). 'Rex glóriæ' → 'o Rei da glória', capital as 'Rei' is elsewhere (5:3). No 'ó' before the vocatives: the Latin has none.",
+    "23:8": "fortis et potens … potens → 'forte e poderoso … poderoso', the repetition kept. prǽlium → batalha (17:35).",
+    "23:9": "Built from the same slots as 23:7: the two cannot differ.",
+    "23:10": "The question is 23:8's word for word."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm23.txt, ten prayed verses, ids 23:1–23:10 (none repeated). No titulus (D7; the Greek's 'τῆς μιᾶς σαββάτων' is not in DO's text). DO's other uses checked by grep: the Monday Prime antiphon 'Ínnocens mánibus * et mundo corde ascéndet in montem Dómini' (Psalmi minor.txt); 'Tóllite portas' (a different Latin text) as the Advent I versicle (Tempora/Adv1-0.txt), an antiphon (Commune/C8.txt) and C10a; St Ambrose's reading at the Ascension quotes 23:7 (Tempora/Pasc6-3.txt). 1 Cor 10:26 quotes 23:1a word for word (Clementine, consult/bolls-VULG-46-10.json)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps023.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932; no Diurnal text for this psalm). DO's Portuguese not used (D12). Repeats found with ps005/grep_latin.py: plenitúdo (5 lines), attóllere (2: 23:7, 23:9 only), elevámini (2), prǽlium (5), accípere (10), in vano (3), Dóminus / Deus virtútum (16). Latin readings kept against the Hebrew: 23:1 'o mundo … nele' and 23:2 'o fundou … o preparou' (the Latin's masculine orbis, not the earth), 23:4 'não recebeu em vão a sua alma' (not 'lifted up his soul to what is false'; the Latin's verb), 23:5 'a misericórdia' (not 'justice'), 23:6 'a face do Deus de Jacó' (the Latin and Greek, not the Hebrew's 'your face, Jacob'), 23:7 'elevai-vos, portas eternas' (not 'ancient doors'), 23:10 'o Senhor dos poderes' (the Latin's noun). 23:7 = 23:9 from the same slots. 13 decisions."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 23:1 second colon −4 (D30's 'o mundo' for 'orbis terrárum'); 23:4 first colon +3; 23:5 both colons −3; 23:7 = 23:9 first colon −3; 23:8 second colon +4 ('poderoso' twice for 'potens'). Rhyme flags: 23:5 Senhor / Salvador (mended in draft 2, the stylist); 23:10 glória / glória and 23:9 / 23:10 -oria — the Latin's own repetition of 'Rex glóriæ', kept."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. Clean: no remark, the marks confirmed. «A tradução é adequada ao latim em todos os versículos, preservando suas imagens e particularidades.»",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Three verses; best 23:6, worst 23:4. «O salmo tem sobriedade e força de proclamação … as repetições sustentam bem a oração.» All three taken (one in a different form).",
+      "outcomes": [
+        {
+          "verse": "23:4",
+          "remark": "'O inocente de mãos' is a calque needing decoding → 'Quem tem mãos inocentes e coração puro'",
+          "outcome": "taken",
+          "decision": "innocens",
+          "reason": "Taken as 'Aquele que tem mãos inocentes e coração puro' (the draft's option 1): 'Quem tem' after two questions would be heard as a third; 'Aquele que' answers them as Ps 14:2."
+        },
+        {
+          "verse": "23:5",
+          "remark": "Senhor / Salvador rhyme the two cadences → reorder both colons",
+          "outcome": "taken",
+          "decision": "salutari",
+          "reason": "Second colon only: 'e de Deus, seu Salvador, a misericórdia'; the first keeps the Latin's order."
+        },
+        {
+          "verse": "23:10",
+          "remark": "'é ele' after a comma sounds like a restart → 'O Senhor dos poderes: ele é o Rei da glória'",
+          "outcome": "taken",
+          "decision": "ipseest",
+          "reason": "The colon gives the pause, 'ele' first carries ipse; 23:8's answer is punctuated the same way."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1. 10 items, 1 unknown word (plenitude). No wrong first hearing: 'a sua plenitude' heard as all that fills the earth; 'estará de pé no seu lugar santo' as standing in God's presence (the posture also audible — the Latin's); 'inocente de mãos' as not doing evil; 'não recebeu em vão a sua alma' as not wasting the life received — 'the construction may stay obscure' (the Latin is as opaque); 'jurou … com engano' as swearing falsely to deceive; 'a geração' as the whole company of seekers; 'Erguei … as vossas portas' as opening them for the King; 'poderoso na batalha' as the fight against evil; 'o Senhor dos poderes' as the Lord who has all powers.",
+      "outcomes": [
+        {
+          "verse": "23:1",
+          "remark": "unknown word: plenitude",
+          "outcome": "refused",
+          "decision": "plenitudo",
+          "reason": "The Latin's noun, and St Paul's (1 Cor 10:26); heard rightly in context by the same reader. 'tudo o que ela contém' stays an option."
+        },
+        {
+          "verse": "23:4",
+          "remark": "'não recebeu em vão a sua alma' may stay hard to understand",
+          "outcome": "refused",
+          "decision": "accepit",
+          "reason": "The Latin's phrase, as open as the Latin; the reader's reading (not wasting the life received) is one the Latin allows."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "ps023/revise_v2.py: 23:4 'Aquele que tem mãos inocentes e coração puro'; 23:5 'e de Deus, seu Salvador, a misericórdia'; 23:10 'O Senhor dos poderes: ele é o Rei da glória'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags: 23:4 first colon +5 ('Aquele que tem' supplied — the stylist's build); the rest as draft 1. The Senhor / Salvador rhyme is gone; 23:10 glória / glória (the Latin's) remains."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. Clean: no remark. «A tradução conserva adequadamente o sentido do latim em todos os versículos, inclusive suas imagens e construções peculiares.» The three stylist changes passed.",
+      "outcomes": []
+    }
+  ]
+}

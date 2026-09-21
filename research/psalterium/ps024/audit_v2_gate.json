@@ -1,0 +1,9 @@
+[
+  {"step": "checks", "note": "Draft 2: hard pass. Soft flags: 24:14 second colon +4 and 24:15 first colon +5 (copulas supplied, D2); the rest as draft 1. The 24:19 rhyme is gone."},
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. Clean: no remark. «Não identifiquei falhas de adequação nos 23 versículos: a tradução conserva os sentidos e as construções peculiares do latim dentro das permissões estabelecidas.» The five stylist changes passed.",
+    "outcomes": []
+  }
+]

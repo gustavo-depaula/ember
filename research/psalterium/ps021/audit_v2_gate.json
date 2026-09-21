@@ -1,0 +1,8 @@
+[
+ {"step": "latinist", "file": "critic/v2.latinist.json",
+  "note": "The gate, on draft 2. No major; the two minors he gave draft 1 and that were refused, repeated; the marks confirmed in all 34 verses. «A tradução conserva o conteúdo latino, com duas alterações de número em expressões convencionais.» Every change of draft 2 (21:3, 21:4, 21:10, 21:12, 21:13, 21:16, 21:21) passed without remark. The stylist and the blind reader read draft 1 only.",
+  "outcomes": [
+   {"verse": "21:18", "remark": "minor (again): 'lançaram sortes' → 'lançaram a sorte'", "outcome": "refused", "decision": "sortem", "reason": "As on draft 1: the idiom; *lançar a sorte* is heard as casting one's fate."},
+   {"verse": "21:27", "remark": "minor (again): 'pelos séculos dos séculos' → 'pelo século do século'", "outcome": "refused", "decision": "saeculi", "reason": "D27."}
+  ]}
+]

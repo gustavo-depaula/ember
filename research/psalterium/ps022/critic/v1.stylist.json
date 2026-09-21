@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "6be2c6de6358f79172ef91c970723bcbc2838f0619777b3a957024488f09e96c",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T16:21:27+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"22:1\",\n      \"fails\": [\"native\"],\n      \"remarks\": [\n        {\n          \"words\": \"num lugar de pastagem ali me colocou\",\n          \"problem\": \"A sequência «num lugar de pastagem ali» soa como uma retomada improvisada: a voz parece corrigir a frase enquanto a pronuncia.\",\n          \"alternative\": \"O Senhor me rege, e nada me faltará: * ali me colocou num lugar de pastagem.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"22:5a\",\n      \"fails\": [\"plain\"],\n      \"remarks\": [\n        {\n          \"words\": \"os que me atribulam\",\n          \"problem\": \"«Atribulam» é compreensível, mas tem sabor livresco e pesa mais na boca do que o equivalente corrente.\",\n          \"alternative\": \"Preparastes à minha vista uma mesa, * contra os que me afligem.\"\n        }\n      ]\n    },\n    {\n      \"id\": \"22:5b\",\n      \"fails\": [\"native\", \"cadence\"],\n      \"remarks\": [\n        {\n          \"words\": \"e o meu cálice que embriaga, como é excelente!\",\n          \"problem\": \"A retomada exclamativa depois de «embriaga» quebra o movimento da frase. «Excelente» tem a tonicidade pedida, mas fecha o louvor com um tom de avaliação pouco espontâneo na oração.\",\n          \"alternative\": \"Ungistes com óleo a minha cabeça: * e como é esplêndido o meu cálice que embriaga!\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"O salmo soa sóbrio e reverente, com cadências tônicas adequadas e sem rimas que distraiam. Algumas construções deixam ouvir a tradução por trás da oração, sobretudo na colocação de «ali» e na exclamação sobre o cálice. O primeiro cólon de 22:4a exige uma respiração mais ampla, mas sua sintaxe sustenta a recitação.\",\n  \"worstLine\": \"22:5b\",\n  \"bestLine\": \"22:3\"\n}"
+}

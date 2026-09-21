@@ -1,0 +1,9 @@
+[
+  {"step": "checks", "note": "Draft 2: hard pass. Soft flags: 23:4 first colon +5 ('Aquele que tem' supplied — the stylist's build); the rest as draft 1. The Senhor / Salvador rhyme is gone; 23:10 glória / glória (the Latin's) remains."},
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. Clean: no remark. «A tradução conserva adequadamente o sentido do latim em todos os versículos, inclusive suas imagens e construções peculiares.» The three stylist changes passed.",
+    "outcomes": []
+  }
+]

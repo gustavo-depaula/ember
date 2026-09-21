@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "b263188ab76dcec784c00596f1902e3a9713755bbcd6b41d3a058bfcef997de4",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T16:24:49+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"Não encontrei falhas de adequação: a tradução preserva o conteúdo e as construções do latim. «Ungistes» é uma acepção contextual legítima de impinguasti, registrada no [Dictionary of the Psalter](https://www.gregorianbooks.com/gregorian/pdf/CMAA/1928_Dictionary_of_the_Psalter.pdf). Todos os versículos conservam as mesmas marcas salmódicas, na mesma ordem.\"}"
+}

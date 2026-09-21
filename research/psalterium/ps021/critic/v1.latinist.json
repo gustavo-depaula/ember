@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "3dae7b4fe41947c912eb8f5b90feea2e057473f995279a83ef89bbb7701eb602",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T16:17:51+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"21:10\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"ab ubéribus matris meæ\",\n          \"portuguese\": \"desde o peito da minha mãe\",\n          \"problem\": \"«Peito» é uma equivalência idiomática defensável, mas substitui o plural concreto «uberibus» pelo singular, contrariando a regra de conservação do número.\",\n          \"fix\": \"desde os seios da minha mãe\"\n        }\n      ]\n    },\n    {\n      \"id\": \"21:18\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"misérunt sortem\",\n          \"portuguese\": \"lançaram sortes\",\n          \"problem\": \"A expressão portuguesa é usual, mas «sortem» está no singular; a regra do projeto pede conservar esse número.\",\n          \"fix\": \"lançaram a sorte\"\n        }\n      ]\n    },\n    {\n      \"id\": \"21:27\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula portuguesa conserva o sentido de perpetuidade, mas pluraliza os dois substantivos que o latim traz no singular.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"A tradução conserva o conteúdo latino, inclusive suas imagens e construções incomuns; os reparos encontrados são menores e dizem respeito à conservação estrita do número. Nos 34 versículos, as marcas de divisão são as mesmas e aparecem na mesma ordem que no latim.\"\n}"
+}

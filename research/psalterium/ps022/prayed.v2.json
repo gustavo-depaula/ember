@@ -1,0 +1,787 @@
+{
+  "psalm": 22,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "22:1": "O Senhor {regit}, e nada me faltará: * num lugar de {pascuae}, ali me {collocavit}.",
+    "22:2": "{super} {refectionis} {educavit}: * {convertit}.",
+    "22:3": "Guiou-me {semitas} da justiça, * por causa do seu nome.",
+    "22:4": "Pois, ainda que eu ande no meio da sombra da morte, {mala}: * porque vós estais comigo.",
+    "22:4b": "A vossa vara, e o vosso {baculus}: * {ipsa} me consolaram.",
+    "22:5": "Preparastes {conspectu} uma mesa, * {adversus} me atribulam.",
+    "22:5b": "{impinguasti} a minha cabeça: * e {praeclarus} o meu cálice {inebrians}!",
+    "22:6": "E a vossa misericórdia {subsequetur} * todos os dias da minha vida:",
+    "22:6b": "{ut} na casa do Senhor, * {longitudinem}."
+  },
+  "decisions": [
+    {
+      "id": "regit",
+      "refs": [
+        "22:1"
+      ],
+      "latin": "Dóminus regit me",
+      "kind": "glossary",
+      "why": "The best-known line of the psalter in Brazil is the Hebrew family's: 'O SENHOR é o meu pastor, nada me falta' (CNBB, read in consult/bolls-CNBB-19-23.json). The Latin does not say 'shepherd': it says regit, 'keeps straight, guides, directs, governs' (Lewis & Short, rego I). The Greek behind it is ποιμαίνει ('shepherds'), and in the Latin psalter the same verb carries the shepherd's sense in 79:2 'Qui regis Israël … qui dedúcis velut ovem Joseph' — so the pastoral colour is the Latin's too, but through a verb of ruling, not a noun of flock. The glossary row régere → reger (open; 2:9 'Tu os regerás') named this verse; régere has three places in the psalter (2:9, 22:1, 79:2 — grep), and one Portuguese verb keeps them one. Douay-Rheims 'The Lord ruleth me'; Matos Soares 1932 'O Senhor me governa'. The line is also a versicle: DO's Sunday Sext has 'V. Dóminus regit me, et nihil mihi déerit. R. In loco páscuæ ibi me collocávit.' (Psalterium/Special/Minor Special.txt, [Versum Dominica Sexta]) — each half must stand as a sentence, and does. The weight of the familiar wording is real: 'O Senhor é o meu pastor' is what nearly every Brazilian will expect, and hearing another line at the head of this psalm will surprise. It is refused because it translates the Hebrew's noun (rō'î), not the Latin's verb (rule 1); it stays one touch away.",
+      "options": [
+        {
+          "label": "me rege",
+          "forms": {
+            "regit": "me rege"
+          },
+          "note": "Ruling: the glossary's verb (2:9 'regerás', 79:2 will be 'que regeis Israel'); the Latin's own word, current in Portuguese (reger um povo, uma orquestra); 'O Senhor me rege' is short, stressed like the Latin, and still says guidance as well as rule.",
+          "from": "glossary"
+        },
+        {
+          "label": "é o meu pastor",
+          "forms": {
+            "regit": "é o meu pastor"
+          },
+          "note": "The familiar Brazilian wording (CNBB 'O SENHOR é o meu pastor'); the Greek's shepherding made a noun. It translates the Hebrew family, not the Latin (rule 1); kept for its weight in the ear of every Brazilian.",
+          "from": "draft"
+        },
+        {
+          "label": "me governa",
+          "forms": {
+            "regit": "me governa"
+          },
+          "note": "Matos Soares 1932 (DRB 'ruleth'): the Latin's sense of rule; 'governar' is political in Brazil, and loses the guiding.",
+          "from": "MS1932"
+        },
+        {
+          "label": "me conduz",
+          "forms": {
+            "regit": "me conduz"
+          },
+          "note": "Lewis & Short's 'lead, guide, conduct'; the shepherd's motion without the noun. Loses the link with 2:9 and 79:2, and sits close to 22:3's 'Guiou-me' (dedúcere).",
+          "from": "draft"
+        },
+        {
+          "label": "me apascenta",
+          "forms": {
+            "regit": "me apascenta"
+          },
+          "note": "The Greek's verb (ποιμαίνει) exactly — the shepherd without the noun; not the Latin's verb (rule 1), and literary.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pascuae",
+      "refs": [
+        "22:1"
+      ],
+      "latin": "in loco páscuæ",
+      "kind": "word",
+      "why": "páscua: 'pasture'. It returns in the formula 'oves páscuæ' (73:1, 78:13, 99:3b) and the Invitatory's 'pópulus páscuæ ejus' (94:7) — grep — so the word must serve 'o povo da sua pastagem' too. Douay-Rheims 'a place of pasture'; Matos Soares 1932 'num lugar de pastos'. The half-verse is sung alone as an antiphon: Thursday Prime 'In loco páscuæ * ibi Dóminus me collocávit' (Psalterium/Psalmi/Psalmi minor.txt) and the Office of the Dead 'In loco páscuæ * ibi me collocávit' (Commune/C9.txt).",
+      "options": [
+        {
+          "label": "pastagem",
+          "forms": {
+            "pascuae": "pastagem"
+          },
+          "note": "Ruling: the plain collective noun, singular as the Latin; serves 94:7 ('o povo da sua pastagem').",
+          "from": "draft"
+        },
+        {
+          "label": "pastos",
+          "forms": {
+            "pascuae": "pastos"
+          },
+          "note": "Matos Soares 1932's plural; as plain, but the Latin is singular.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "collocavit",
+      "refs": [
+        "22:1"
+      ],
+      "latin": "ibi me collocávit",
+      "kind": "word",
+      "why": "collocáre: 'to place, set, settle'. The Greek is κατεσκήνωσεν ('made me dwell, pitch a tent'), the Latin a verb of placing — the Latin is followed. 'ibi' resumes 'in loco páscuæ' and is kept ('ali'), as the Latin repeats the place. Four places in the psalter (22:1, 103:22, 106:36, 142:3b — grep); 'colocar' serves 106:36 and 142:3b as well. 'estabelecer' is constitúere's, 'pôr' pónere's. Heard (draft 1): the stylist — «A sequência “num lugar de pastagem ali” soa como uma retomada improvisada» → ‘ali me colocou num lugar de pastagem’. Refused: the half-verse is sung alone as an antiphon that opens on the place (‘In loco páscuæ * ibi me collocávit’, Office of the Dead; Thursday Prime), and ‘ibi’ is the Latin’s own resumption. A comma now marks it as deliberate: ‘num lugar de pastagem, ali me colocou’. His order (the place last) is recorded here, not as a slot option: it is a change of the verse’s order, not of a word.",
+      "options": [
+        {
+          "label": "colocou",
+          "forms": {
+            "collocavit": "colocou"
+          },
+          "note": "Ruling: the cognate, plain (Matos Soares 1932 'colocou-me'); ends on an oxytone.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fez morar",
+          "forms": {
+            "collocavit": "fez morar"
+          },
+          "note": "The Greek's sense (κατεσκήνωσεν) — against rule 1.",
+          "from": "draft"
+        },
+        {
+          "label": "estabeleceu",
+          "forms": {
+            "collocavit": "estabeleceu"
+          },
+          "note": "Settled as a dwelling; but constitúere's verb in this psalter.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "22:2"
+      ],
+      "latin": "Super aquam",
+      "kind": "word",
+      "why": "super + accusative of place: 'over, upon', and 'by, near' (as 136:1 'Super flúmina Babylónis', by the rivers). The Greek ἐπὶ ὕδατος. Douay-Rheims 'on the water'; Matos Soares 1932 'junto duma água'. 'Sobre a água' in Portuguese sets the speaker on top of the water.",
+      "options": [
+        {
+          "label": "Junto à",
+          "forms": {
+            "super": "Junto à"
+          },
+          "note": "Ruling: the sense of place, as Matos Soares 1932; the singular 'água' kept.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Sobre a",
+          "forms": {
+            "super": "Sobre a"
+          },
+          "note": "Douay-Rheims 'on the water': the preposition to the letter; heard as on the water's surface.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "refectionis",
+      "refs": [
+        "22:2"
+      ],
+      "latin": "aquam refectiónis",
+      "kind": "word",
+      "why": "refectio: 'a restoring … refreshment, recreation, recovery' (Lewis & Short). Only here in the psalter (grep). The Greek is ἀναπαύσεως, 'of rest'; the Latin says restoring, and is followed. The Portuguese cognate 'refeição' is a meal, and would say something the Latin does not. Douay-Rheims 'water of refreshment'; Matos Soares 1932 'uma água fortificante' (an adjective).",
+      "options": [
+        {
+          "label": "água do refrigério",
+          "forms": {
+            "refectionis": "água do refrigério"
+          },
+          "note": "Ruling: 'refrigério' is relief and refreshment, the Latin's noun kept as a noun; a word of prayer in Brazil. The blind reader is asked whether it is known.",
+          "from": "draft"
+        },
+        {
+          "label": "água do repouso",
+          "forms": {
+            "refectionis": "água do repouso"
+          },
+          "note": "The Greek's 'rest' (ἀναπαύσεως) — against rule 1.",
+          "from": "draft"
+        },
+        {
+          "label": "água que restaura",
+          "forms": {
+            "refectionis": "água que restaura"
+          },
+          "note": "The first sense of refectio as a clause; plainer, but a noun becomes a verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "educavit",
+      "refs": [
+        "22:2"
+      ],
+      "latin": "educávit me",
+      "kind": "word",
+      "why": "educávit is ēducáre (first conjugation), 'to bring up, rear, nourish' — not ēdúcere, 'to lead out'. The Greek is ἐξέθρεψέν με, 'nurtured me'. Douay-Rheims 'He hath brought me up'; Matos Soares 1932 'Conduziu-me' reads ēdúcere, which the form excludes. 'me criou' is the Brazilian 'raised me', but with God as subject it is heard first as 'created me'; 'me educou' is heard as schooling or manners.",
+      "options": [
+        {
+          "label": "me nutriu",
+          "forms": {
+            "educavit": "me nutriu"
+          },
+          "note": "Ruling: the rearing as nourishment, the Greek's ἐξέθρεψεν exactly and the first thing ēducáre does to a child; cannot be heard as 'created'.",
+          "from": "draft"
+        },
+        {
+          "label": "me criou",
+          "forms": {
+            "educavit": "me criou"
+          },
+          "note": "'raised me', the plain Brazilian verb for rearing; with God as subject it is heard first as 'created me'.",
+          "from": "draft"
+        },
+        {
+          "label": "me educou",
+          "forms": {
+            "educavit": "me educou"
+          },
+          "note": "The cognate: heard as schooling or manners.",
+          "from": "draft"
+        },
+        {
+          "label": "me conduziu",
+          "forms": {
+            "educavit": "me conduziu"
+          },
+          "note": "Matos Soares 1932: reads ēdúcere ('lead out') against the form of the verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "convertit",
+      "refs": [
+        "22:2"
+      ],
+      "latin": "ánimam meam convértit",
+      "kind": "glossary",
+      "why": "convértere → voltar (glossary), with D25's one exception, 'converter' where the sense is conversion to God; Ps 18:8 'convértens ánimas' → 'converte as almas' took that exception for God acting on souls, which is this verse's build exactly (ἐπέστρεψεν). Douay-Rheims 'he hath converted my soul'; Matos Soares 1932 'converteu a minha alma'. The Hebrew-family 'restaura' is refused (rule 1). The Latin puts the object first; Portuguese order is taken (D2).",
+      "options": [
+        {
+          "label": "converteu a minha alma",
+          "forms": {
+            "convertit": "converteu a minha alma"
+          },
+          "note": "Ruling: 18:8's verb (D25's exception), both Vulgate-family versions.",
+          "from": "glossary"
+        },
+        {
+          "label": "fez voltar a minha alma",
+          "forms": {
+            "convertit": "fez voltar a minha alma"
+          },
+          "note": "The glossary's plain verb as a causative; keeps the turning, loses 18:8's echo.",
+          "from": "glossary"
+        },
+        {
+          "label": "a minha alma converteu",
+          "forms": {
+            "convertit": "a minha alma converteu"
+          },
+          "note": "The Latin's order, verb last: an inversion.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "semitas",
+      "refs": [
+        "22:3"
+      ],
+      "latin": "super sémitas justítiæ",
+      "kind": "word",
+      "why": "dedúcere, 'deduc me' → guiar (D22, settled); sémita → vereda (D15). super + accusative with a verb of leading: 'along, over'. Douay-Rheims 'on the paths of justice'; Matos Soares 1932 'por veredas de justiça'. The article is kept before the genitive ('da justiça'), as the Latin's justítiæ is the paths' definite quality.",
+      "options": [
+        {
+          "label": "pelas veredas",
+          "forms": {
+            "semitas": "pelas veredas"
+          },
+          "note": "Ruling: the preposition Portuguese uses with a road after a verb of leading.",
+          "from": "draft"
+        },
+        {
+          "label": "sobre as veredas",
+          "forms": {
+            "semitas": "sobre as veredas"
+          },
+          "note": "super to the letter; not how a road is walked in Portuguese.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mala",
+      "refs": [
+        "22:4"
+      ],
+      "latin": "non timébo mala",
+      "kind": "grammar",
+      "why": "mala is plural, 'evils' (κακά). Douay-Rheims 'I will fear no evils'; Matos Soares 1932 'não temerei males'. The familiar 'não temerei mal algum' (CNBB 'não temerei mal nenhum') is singular and turns the object into 'any evil at all'; the plural is the Latin's. 'Nam, et si ambulávero' (future perfect) → 'ainda que eu ande' (the Portuguese present subjunctive of a condition); ambuláre → andar (glossary).",
+      "options": [
+        {
+          "label": "não temerei males",
+          "forms": {
+            "mala": "não temerei males"
+          },
+          "note": "Ruling: the Latin's plural, bare as the Latin (Matos Soares 1932 word for word).",
+          "from": "MS1932"
+        },
+        {
+          "label": "não temerei mal algum",
+          "forms": {
+            "mala": "não temerei mal algum"
+          },
+          "note": "The familiar wording: the plural made 'any evil'; smoother, but a change of number and an added emphasis.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "baculus",
+      "refs": [
+        "22:4b"
+      ],
+      "latin": "Virga tua, et báculus tuus",
+      "kind": "word",
+      "why": "virga → vara (glossary: 'must serve 22:4'). báculus: 'a stick, staff' (the Greek βακτηρία, a walking staff); only here in the psalter (grep). The cognate 'báculo' is in Brazil the bishop's crozier, a proparoxytone at the mediant, and heard as a church object. 'cajado' is the shepherd's staff in every Brazilian ear, and a paroxytone. The first colon stays verbless, as the Latin: a hanging pair resumed by 'ipsa'.",
+      "options": [
+        {
+          "label": "cajado",
+          "forms": {
+            "baculus": "cajado"
+          },
+          "note": "Ruling: the plain word for a staff to lean on and to guide with.",
+          "from": "draft"
+        },
+        {
+          "label": "bordão",
+          "forms": {
+            "baculus": "bordão"
+          },
+          "note": "The walking staff (the pilgrim's); exact for βακτηρία, less current.",
+          "from": "draft"
+        },
+        {
+          "label": "báculo",
+          "forms": {
+            "baculus": "báculo"
+          },
+          "note": "Matos Soares 1932: the cognate, heard as a bishop's crozier; a proparoxytone at the mediant (rule 4).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ipsa",
+      "refs": [
+        "22:4b"
+      ],
+      "latin": "ipsa me consoláta sunt",
+      "kind": "grammar",
+      "why": "ipsa (neuter plural) resumes the rod and the staff: 'they, those very things'. The Latin repeats the subject, and so does the Portuguese; the gender follows Portuguese agreement (vara + cajado → masculine plural). Douay-Rheims 'they have comforted me'; Matos Soares 1932 drops the pronoun ('A tua vara e o teu báculo me consolaram').",
+      "options": [
+        {
+          "label": "eles",
+          "forms": {
+            "ipsa": "eles"
+          },
+          "note": "Ruling: the resumptive pronoun kept, plain.",
+          "from": "draft"
+        },
+        {
+          "label": "esses mesmos",
+          "forms": {
+            "ipsa": "esses mesmos"
+          },
+          "note": "ipsa's emphasis spelled out; heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "foram eles que",
+          "forms": {
+            "ipsa": "foram eles que"
+          },
+          "note": "A cleft for the emphasis; adds a construction.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "22:5"
+      ],
+      "latin": "Parásti in conspéctu meo mensam",
+      "kind": "glossary",
+      "why": "in conspéctu → à vista de (glossary row conspéctus, open), which Ps 5's agent tried on this very verse ('Preparastes à minha vista uma mesa') and found that it holds; Ps 17 found 'à vista' right as a place of seeing and 'na presença' where it hangs beside a noun. Here it goes with a verb of preparing, not of motion. The Latin's order (the phrase before the object) is kept, so that 'uma mesa' closes the colon as 'mensam' does. Douay-Rheims 'before me'; Matos Soares 1932 'diante de mim'.",
+      "options": [
+        {
+          "label": "à minha vista",
+          "forms": {
+            "conspectu": "à minha vista"
+          },
+          "note": "Ruling: the glossary's noun, tried here by Ps 5.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de mim",
+          "forms": {
+            "conspectu": "diante de mim"
+          },
+          "note": "Both Vulgate-family versions and the familiar ear; the noun of sight lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "na minha presença",
+          "forms": {
+            "conspectu": "na minha presença"
+          },
+          "note": "Ps 17's form beside a noun.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "adversus",
+      "refs": [
+        "22:5"
+      ],
+      "latin": "advérsus eos, qui tríbulant me",
+      "kind": "word",
+      "why": "advérsus: 'over against, facing; against'. The Greek ἐξ ἐναντίας, 'in the face of'. Douay-Rheims 'against them that afflict me'; Matos Soares 1932 'à vista daqueles que me perseguem' (which would repeat 'à vista' in one verse). tribuláre → atribular (glossary).",
+      "options": [
+        {
+          "label": "contra os que",
+          "forms": {
+            "adversus": "contra os que"
+          },
+          "note": "Ruling: Douay-Rheims 'against' — the table set as a challenge to the enemies.",
+          "from": "DRB"
+        },
+        {
+          "label": "em face dos que",
+          "forms": {
+            "adversus": "em face dos que"
+          },
+          "note": "The Greek's 'in the face of' (ἐξ ἐναντίας): the place, not the hostility.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "impinguasti",
+      "refs": [
+        "22:5b"
+      ],
+      "latin": "Impinguásti in óleo caput meum",
+      "kind": "word",
+      "why": "impinguáre: 'to make fat' (Lewis & Short, glossing πιαίνω); the Greek here is ἐλίπανας, 'oiled, anointed with fat'. Two places: 22:5 and 140:5 'óleum autem peccatóris non impínguet caput meum' (grep). The image is the host pouring oil on a guest's head; Douay-Rheims 'Thou hast anointed my head with oil' (but 'fatten' at 140:5); Matos Soares 1932 'Ungiste com óleo'. Cost: 'ungir' is also úngere's (44:8 'unxit te Deus … óleo lætítiæ', 88:21 — grep), another verb (χρίω) — the two never stand in one psalm, and no plainer Portuguese keeps impinguáre's fat without absurdity ('Engordastes'). 'Untastes' keeps the fat (unto) and stays apart from úngere, but is the verb of greasing a pan. Heard (draft 1): the Latinist, MAJOR — «“Impinguasti” significa tornar gordo; “ungistes” conserva a aplicação do óleo, mas elimina a imagem concreta de engordar presente no latim» → ‘Engordastes com óleo a minha cabeça’. HELD, for Gustavo’s ear: (1) the Greek behind the Latin is ἐλίπανας ἐν ἐλαίῳ (consult/parallels/ps022.md) — λιπαίνω is to oil, to anoint with fat, so the Latin verb is the translator’s word for an anointing and the head is not being fattened; (2) his line is a wrong first hearing (a head made fat) that the reader would stop at, and a wrong first hearing is a fault; (3) every Vulgate-family witness (Douay-Rheims ‘anointed’, Matos Soares 1932 ‘Ungiste’) says the same. The fat is kept in the options: ‘Untastes’ (untar, from unto, grease) is the one wording that keeps it without absurdity. The blind reader did not stop at ‘Ungistes’. The draft 2 gate (critic/v2.latinist.json) withdrew it: «“Ungistes” é uma acepção contextual legítima de impinguasti». 140:5 ‘non impínguet caput meum’ must follow whatever is ruled here.",
+      "options": [
+        {
+          "label": "Ungistes com óleo",
+          "forms": {
+            "impinguasti": "Ungistes com óleo"
+          },
+          "note": "Ruling: the oil on the head, as every Vulgate-family version; shares 'ungir' with úngere (44:8, 88:21).",
+          "from": "DRB"
+        },
+        {
+          "label": "Untastes com óleo",
+          "forms": {
+            "impinguasti": "Untastes com óleo"
+          },
+          "note": "Keeps the fat of impinguáre ('untar', from 'unto') and stays apart from úngere; a kitchen verb in Brazil.",
+          "from": "draft"
+        },
+        {
+          "label": "Engordastes com óleo",
+          "forms": {
+            "impinguasti": "Engordastes com óleo"
+          },
+          "note": "The Latinist’s line (draft 1 major, held): the Latin verb to the letter; heard as a head made fat — absurd.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "inebrians",
+      "refs": [
+        "22:5b"
+      ],
+      "latin": "calix meus inébrians",
+      "kind": "word",
+      "why": "inebriáre: 'to make drunk' — the cup that inebriates; the image kept, unexplained (the Fathers read it of the Eucharist; the verse does not say so). calix → cálice (glossary; not at a cadence here). inebriáre elsewhere 35:9, 64:10, 64:11 (grep). Douay-Rheims 'my chalice which inebriateth me'; Matos Soares 1932 'o meu cálice que embriaga'.",
+      "options": [
+        {
+          "label": "que embriaga",
+          "forms": {
+            "inebrians": "que embriaga"
+          },
+          "note": "Ruling: the participle as a relative clause (Matos Soares 1932); the plain verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "inebriante",
+          "forms": {
+            "inebrians": "inebriante"
+          },
+          "note": "The participle kept as an adjective; current, but heard of perfumes.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeclarus",
+      "refs": [
+        "22:5b"
+      ],
+      "latin": "quam præclárus est!",
+      "kind": "glossary",
+      "why": "præclárus → excelente (glossary, 15:6 twice; the row names this verse). quam exclamatory → 'Como …!' (glossary, working: 8:2a, 118:97). Douay-Rheims 'how goodly is it!'; Matos Soares 1932 'quão precioso é'. Heard (draft 1): the stylist’s worst line — «A retomada exclamativa depois de “embriaga” quebra o movimento da frase. “Excelente” … fecha o louvor com um tom de avaliação pouco espontâneo» → ‘e como é esplêndido o meu cálice que embriaga!’. The order taken: Portuguese opens an exclamation with its ‘como é’ and names the thing after, and the colon then ends on the cup, as the Latin’s ends on the praise — both are the whole of the colon. ‘esplêndido’ refused: the glossary’s præclárus → excelente (15:6 twice) stands, and ‘esplêndido’ is a proparoxytone. The Latinist passed the praise; the blind reader heard the cup’s wine as physical first — the Latin’s image, kept.",
+      "options": [
+        {
+          "label": "como é excelente",
+          "forms": {
+            "praeclarus": "como é excelente"
+          },
+          "note": "Ruling (draft 2): the exclamation first (the stylist’s order), the glossary’s word; the colon ends on the cup.",
+          "from": "stylist"
+        },
+        {
+          "label": "como é excelente",
+          "forms": {
+            "praeclarus": "como é excelente"
+          },
+          "note": "Draft 1. the glossary's two rows; ends on a paroxytone.",
+          "from": "glossary"
+        },
+        {
+          "label": "quão excelente é",
+          "forms": {
+            "praeclarus": "quão excelente é"
+          },
+          "note": "The præclárus row's own proposal; 'quão' is the bookish option of the quam row.",
+          "from": "glossary"
+        },
+        {
+          "label": "como é esplêndido",
+          "forms": {
+            "praeclarus": "como é esplêndido"
+          },
+          "note": "The stylist’s word: the colon’s order is his, the word is not the glossary’s (15:6).",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "subsequetur",
+      "refs": [
+        "22:6"
+      ],
+      "latin": "subsequétur me",
+      "kind": "word",
+      "why": "subséqui: 'to follow close after'; only here in the psalter (grep). The Greek is καταδιώξεταί με, 'will pursue me' — the Latin softens it to following, and is followed. Douay-Rheims 'will follow me'; Matos Soares 1932 'irá após de mim'.",
+      "options": [
+        {
+          "label": "me seguirá",
+          "forms": {
+            "subsequetur": "me seguirá"
+          },
+          "note": "Ruling: the plain verb; the sub- (close behind) is not heard.",
+          "from": "DRB"
+        },
+        {
+          "label": "me acompanhará",
+          "forms": {
+            "subsequetur": "me acompanhará"
+          },
+          "note": "Walking with, not after.",
+          "from": "draft"
+        },
+        {
+          "label": "me perseguirá",
+          "forms": {
+            "subsequetur": "me perseguirá"
+          },
+          "note": "The Greek's 'pursue' — against rule 1, and heard as hostile.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ut",
+      "refs": [
+        "22:6b"
+      ],
+      "latin": "Et ut inhábitem in domo Dómini",
+      "kind": "grammar",
+      "why": "A purpose clause hanging on the verse before (mercy will follow me … and so that I may dwell), as the Latin and the Greek (τὸ κατοικεῖν με) leave it; the Hebrew-family 'e habitarei' is refused (rule 1). Douay-Rheims 'And that I may dwell'; Matos Soares 1932 'a fim de que eu habite'. inhabitáre → habitar (16 lines, grep). 26:4 'ut inhábitem in domo Dómini ómnibus diébus vitæ meæ' is a near twin and should copy.",
+      "options": [
+        {
+          "label": "E para que eu habite",
+          "forms": {
+            "ut": "E para que eu habite"
+          },
+          "note": "Ruling: the Latin's clause, the subject named (the subjunctive would not show it).",
+          "from": "draft"
+        },
+        {
+          "label": "E a fim de que eu habite",
+          "forms": {
+            "ut": "E a fim de que eu habite"
+          },
+          "note": "Matos Soares 1932: the same, heavier.",
+          "from": "MS1932"
+        },
+        {
+          "label": "E habitarei",
+          "forms": {
+            "ut": "E habitarei"
+          },
+          "note": "The Hebrew family's future (CNBB and the familiar ear) — against rule 1.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "longitudinem",
+      "refs": [
+        "22:6b"
+      ],
+      "latin": "in longitúdinem diérum",
+      "kind": "glossary",
+      "why": "longitúdo diérum → longos dias (glossary, working: 90:16 'Eu o encherei de longos dias', 20:5 'e lhe destes longos dias'); the row named this verse and 92:5 (the other 'in longitúdinem diérum', grep) as its tests. in + accusative of extent: 'unto, for'. Douay-Rheims 'unto length of days'; Matos Soares 1932 'durante longos dias'.",
+      "options": [
+        {
+          "label": "por longos dias",
+          "forms": {
+            "longitudinem": "por longos dias"
+          },
+          "note": "Ruling: the glossary's phrase with the preposition of duration.",
+          "from": "glossary"
+        },
+        {
+          "label": "durante longos dias",
+          "forms": {
+            "longitudinem": "durante longos dias"
+          },
+          "note": "Matos Soares 1932; heavier.",
+          "from": "MS1932"
+        },
+        {
+          "label": "para longos dias",
+          "forms": {
+            "longitudinem": "para longos dias"
+          },
+          "note": "in + accusative as direction; heard as 'in view of'.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "22:1": "The psalm speaks of God in the third person until 22:4 turns to him (vós). 'nihil mihi déerit' (future) → 'nada me faltará' (Matos Soares 1932; the Hebrew family's present 'nada me falta' is refused). 'ibi' kept as 'ali'. The two halves are said apart as V/R at Sunday Sext and as an antiphon at Thursday Prime and in the Office of the Dead (checked in DO).",
+    "22:3": "dedúcere → guiar (D22, 'deduc me'): the perfect 'Guiou-me'. 'propter nomen suum' → 'por causa do seu nome' (glossary propter).",
+    "22:4": "'quóniam tu mecum es' → 'porque vós estais comigo' (D1). The familiar 'porque tu estás comigo' is the address the project does not use for God.",
+    "22:4b": "virga → vara (glossary). The Latin's hanging nominative kept, resumed by the pronoun.",
+    "22:5": "tribuláre → atribular (glossary; the blind reader of Ps 3 did not know it, kept).",
+    "22:6": "The verse ends on a colon in the Latin, and so does the Portuguese: 22:6b depends on it."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm22.txt: nine prayed verses, of which DO numbers two each as 22:4, 22:5 and 22:6. The shared scripts key verses by id, so the repeated ids collapse; this psalm uses 22:4/22:4b, 22:5/22:5b, 22:6/22:6b (DO's own form for a split verse, as 4:2a/4:2b) and runs render.py and checks.py through ps022/dupids.py, which letters the repeated ids without touching the shared scripts. No titulus (D7). DO's other uses checked by grep over content/do/horas/Latin: 22:1 is the Sunday Sext versicle split at the asterisk (Psalterium/Special/Minor Special.txt); 'In loco páscuæ * ibi (Dóminus) me collocávit' is the Thursday Prime antiphon (Psalmi minor.txt) and an antiphon of the Office of the Dead (Commune/C9.txt); 'Dóminus regit me * et nihil mihi déerit: in loco páscuæ ibi me collocávit' is a Matins antiphon (Psalmi matutinum.txt)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps022.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932; this psalm has no Diurnal Monástico text in the parallels). DO's Portuguese not used (D12). CNBB read in consult/bolls-CNBB-19-23.json for the familiar wording only. Lewis & Short read for rego, refectio, impinguo. Repeats found with ps005/grep_latin.py: régere (22:1, 79:2, and 2:9 'reges'), collocáre (4 lines), páscua (6), subséqui (1), refectio (1), ēducáre (22:2; 103:14 'edúcas' is ēdúcere), báculus (1), impinguáre (2), inebriáre (4), longitúdo diérum (4), inhabitáre (16). Latin readings kept against the Hebrew: 22:1 'me rege' (not 'shepherd'), 'nada me faltará' (future), 22:2 'água do refrigério' (restoring), 'me nutriu', 'converteu a minha alma', 22:4 'males', 22:5b 'o meu cálice que embriaga, como é excelente', 22:6 'me seguirá' (the Greek pursues), 22:6b 'E para que eu habite' (not 'I shall dwell'). 18 decisions."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (run through ps022/dupids.py: DO's Psalm22.txt repeats 22:4, 22:5, 22:6, which the shared scripts collapse; ids lettered 22:4/22:4b … as DO's own 4:2a/4:2b). Soft flags accepted: 22:5b second colon +4 (the relative 'que embriaga' for the participle, and 'como é' for quam … est); 22:6b second colon −4 ('por longos dias' for 'in longitúdinem diérum'; 'pela longura dos dias' keeps the noun but is not current Portuguese). No rhyme flag. Every mediant and final lands on an oxytone or paroxytone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1. One major (22:5b); every other verse passed, the marks confirmed. «A tradução conserva adequadamente o sentido dos demais versículos.» Passed in particular 'me rege', 'me nutriu', 'converteu a minha alma', 'não temerei males', 'eles me consolaram', 'Ungistes' apart, 'E para que eu habite', 'por longos dias'.",
+      "outcomes": [
+        {
+          "verse": "22:5b",
+          "remark": "MAJOR: impinguásti is 'make fat'; 'Ungistes' keeps the oil and drops the fattening → 'Engordastes com óleo a minha cabeça'",
+          "outcome": "refused",
+          "decision": "impinguasti",
+          "reason": "HELD for Gustavo. The Greek is ἐλίπανας ἐν ἐλαίῳ (λιπαίνω, to oil / anoint with fat): an anointing, as every Vulgate-family witness reads it; his line is a wrong first hearing (a head made fat). Kept as option 3; 'Untastes' (option 2) is the wording that keeps the fat without absurdity."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1. Three verses; best 22:3, worst 22:5b. «O salmo soa sóbrio e reverente, com cadências tônicas adequadas e sem rimas que distraiam.» One taken in part, two refused.",
+      "outcomes": [
+        {
+          "verse": "22:5b",
+          "remark": "the exclamation after 'embriaga' breaks the phrase; 'excelente' sounds like an evaluation → 'e como é esplêndido o meu cálice que embriaga!'",
+          "outcome": "taken",
+          "decision": "praeclarus",
+          "reason": "His order taken (the exclamation first, the cup last); his word refused — præclárus → excelente is the glossary's (15:6), and 'esplêndido' is a proparoxytone. 'como é esplêndido' is an option."
+        },
+        {
+          "verse": "22:1",
+          "remark": "'num lugar de pastagem ali' sounds like an improvised restart → 'ali me colocou num lugar de pastagem'",
+          "outcome": "refused",
+          "decision": "collocavit",
+          "reason": "The half-verse is an antiphon opening on the place (Office of the Dead, Thursday Prime), and 'ibi' is the Latin's resumption. A comma added to make it deliberate."
+        },
+        {
+          "verse": "22:5",
+          "remark": "'atribulam' is bookish → 'os que me afligem'",
+          "outcome": "refused",
+          "decision": "adversus",
+          "reason": "tribuláre → atribular is the glossary's (working; Ps 3:2, 12:5b), the family of tribulátio → tribulação; 'afligir' is afflígere's. The blind reader listed it as unknown too — evidence added to the row."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1. 15 items, 3 unknown words (refrigério, veredas, atribulam). No wrong first hearing that the Latin does not have: 'nada me faltará' heard as 'all I need'; 'me nutriu' as spiritual sustenance first; 'converteu a minha alma' as conversion to faith first (D25, the 18:8 precedent — kept); 'no meio da sombra da morte' as danger of death; 'vós estais comigo' at once as God (and the vós carried through); 'a vossa vara' as guiding, not punishing; 'uma mesa' as a meal; 'contra os que me atribulam' as a table set in defiance — the Latin's sense; 'o meu cálice que embriaga' heard as physical drink first — the Latin's image, kept unexplained; 'E para que eu habite' heard as the purpose of the mercy that follows — the Latin's ut; 'na casa do Senhor' as the temple first, heaven second; 'por longos dias' as many years.",
+      "outcomes": [
+        {
+          "verse": "22:2",
+          "remark": "unknown word: refrigério",
+          "outcome": "refused",
+          "decision": "refectionis",
+          "reason": "refectio, 'restoring, refreshment' (L&S); 'refrigério' is the Church's word (the Canon's locum refrigerii) and says what the Latin says; 'repouso' and 'que restaura' are options."
+        },
+        {
+          "verse": "22:3",
+          "remark": "unknown word: veredas",
+          "outcome": "refused",
+          "decision": "semitas",
+          "reason": "D15, sémita → vereda (settled)."
+        },
+        {
+          "verse": "22:5",
+          "remark": "unknown word: atribulam",
+          "outcome": "refused",
+          "decision": "adversus",
+          "reason": "Glossary tribuláre → atribular (working); evidence added to the row."
+        },
+        {
+          "verse": "22:5b",
+          "remark": "'o meu cálice que embriaga' heard first as physical drunkenness",
+          "outcome": "refused",
+          "decision": "inebrians",
+          "reason": "The Latin's image, unexplained (rule 5)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "ps022/revise_v2.py: 22:5b reordered ('e como é excelente o meu cálice que embriaga!', the stylist's order); 22:1 comma after 'pastagem'. The Latinist's major on 'Ungistes' held (see decision impinguasti)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2 (through ps022/dupids.py): hard pass. Soft flags as draft 1: 22:5b second colon +4 (now 'e como é excelente o meu cálice que embriaga!'), 22:6b second colon −4. No rhyme flag."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate. Clean: no remark. «Não encontrei falhas de adequação: a tradução preserva o conteúdo e as construções do latim. “Ungistes” é uma acepção contextual legítima de impinguasti.» The draft 1 major on 22:5b is thus withdrawn by the reader himself; 'Untastes' and 'Engordastes' stay as options for 140:5.",
+      "outcomes": []
+    },
+    {
+      "step": "checks",
+      "note": "Re-keyed to the shared ids (the coordinator's fix in latin.readVerses: a repeated DO id's second line gets 'b'): 22:4a/5a/6a → 22:4/5/6 in prayed.json, literal.json and the version snapshots (ps022/rename_ids.py); the private wrapper ps022/dupids.py named in the earlier steps is removed. Text unchanged. Plain render.py and checks.py: hard pass."
+    }
+  ]
+}

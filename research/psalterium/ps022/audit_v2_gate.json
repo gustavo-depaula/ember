@@ -1,0 +1,9 @@
+[
+  {"step": "checks", "note": "Draft 2 (through ps022/dupids.py): hard pass. Soft flags as draft 1: 22:5b second colon +4 (now 'e como é excelente o meu cálice que embriaga!'), 22:6b second colon −4. No rhyme flag."},
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Draft 2 — the gate. Clean: no remark. «Não encontrei falhas de adequação: a tradução preserva o conteúdo e as construções do latim. “Ungistes” é uma acepção contextual legítima de impinguasti.» The draft 1 major on 22:5b is thus withdrawn by the reader himself; 'Untastes' and 'Engordastes' stay as options for 140:5.",
+    "outcomes": []
+  }
+]

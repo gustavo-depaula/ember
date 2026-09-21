@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "6be2c6de6358f79172ef91c970723bcbc2838f0619777b3a957024488f09e96c",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T16:17:55+00:00",
+  "reply": "{\"verses\":[{\"id\":\"22:5b\",\"severity\":\"major\",\"issues\":[{\"latin\":\"Impinguásti in óleo caput meum\",\"portuguese\":\"Ungistes com óleo a minha cabeça\",\"problem\":\"«Impinguasti» significa tornar gordo; «ungistes» conserva a aplicação do óleo, mas elimina a imagem concreta de engordar presente no latim.\",\"fix\":\"Engordastes com óleo a minha cabeça\"}]}],\"overall\":\"A tradução conserva adequadamente o sentido dos demais versículos. Todas as marcas de apontamento correspondem às do latim, na mesma ordem.\"}"
+}

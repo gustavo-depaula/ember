@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "ed183cd4fc7f193dabbc5ad7868ce565c4ba29dc644fd26d023caaca473e6b24",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T16:31:38+00:00",
+  "reply": "{\"verses\":[],\"overall\":\"A tradução conserva adequadamente o sentido do latim em todos os versículos, inclusive suas imagens e construções peculiares. Os sinais de divisão correspondem aos do original: um asterisco em cada versículo, sem flexas ou segundos mediantes.\"}"
+}

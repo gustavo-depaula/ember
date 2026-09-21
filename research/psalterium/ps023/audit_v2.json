@@ -1,0 +1,33 @@
+[
+  {"step": "checks", "note": "Draft 1: hard pass. Soft flags accepted: 23:1 second colon −4 (D30's 'o mundo' for 'orbis terrárum'); 23:4 first colon +3; 23:5 both colons −3; 23:7 = 23:9 first colon −3; 23:8 second colon +4 ('poderoso' twice for 'potens'). Rhyme flags: 23:5 Senhor / Salvador (mended in draft 2, the stylist); 23:10 glória / glória and 23:9 / 23:10 -oria — the Latin's own repetition of 'Rex glóriæ', kept."},
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. Clean: no remark, the marks confirmed. «A tradução é adequada ao latim em todos os versículos, preservando suas imagens e particularidades.»",
+    "outcomes": []
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Three verses; best 23:6, worst 23:4. «O salmo tem sobriedade e força de proclamação … as repetições sustentam bem a oração.» All three taken (one in a different form).",
+    "outcomes": [
+      {"verse": "23:4", "remark": "'O inocente de mãos' is a calque needing decoding → 'Quem tem mãos inocentes e coração puro'", "outcome": "taken", "decision": "innocens", "reason": "Taken as 'Aquele que tem mãos inocentes e coração puro' (the draft's option 1): 'Quem tem' after two questions would be heard as a third; 'Aquele que' answers them as Ps 14:2."},
+      {"verse": "23:5", "remark": "Senhor / Salvador rhyme the two cadences → reorder both colons", "outcome": "taken", "decision": "salutari", "reason": "Second colon only: 'e de Deus, seu Salvador, a misericórdia'; the first keeps the Latin's order."},
+      {"verse": "23:10", "remark": "'é ele' after a comma sounds like a restart → 'O Senhor dos poderes: ele é o Rei da glória'", "outcome": "taken", "decision": "ipseest", "reason": "The colon gives the pause, 'ele' first carries ipse; 23:8's answer is punctuated the same way."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1. 10 items, 1 unknown word (plenitude). No wrong first hearing: 'a sua plenitude' heard as all that fills the earth; 'estará de pé no seu lugar santo' as standing in God's presence (the posture also audible — the Latin's); 'inocente de mãos' as not doing evil; 'não recebeu em vão a sua alma' as not wasting the life received — 'the construction may stay obscure' (the Latin is as opaque); 'jurou … com engano' as swearing falsely to deceive; 'a geração' as the whole company of seekers; 'Erguei … as vossas portas' as opening them for the King; 'poderoso na batalha' as the fight against evil; 'o Senhor dos poderes' as the Lord who has all powers.",
+    "outcomes": [
+      {"verse": "23:1", "remark": "unknown word: plenitude", "outcome": "refused", "decision": "plenitudo", "reason": "The Latin's noun, and St Paul's (1 Cor 10:26); heard rightly in context by the same reader. 'tudo o que ela contém' stays an option."},
+      {"verse": "23:4", "remark": "'não recebeu em vão a sua alma' may stay hard to understand", "outcome": "refused", "decision": "accepit", "reason": "The Latin's phrase, as open as the Latin; the reader's reading (not wasting the life received) is one the Latin allows."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "ps023/revise_v2.py: 23:4 'Aquele que tem mãos inocentes e coração puro'; 23:5 'e de Deus, seu Salvador, a misericórdia'; 23:10 'O Senhor dos poderes: ele é o Rei da glória'."
+  }
+]

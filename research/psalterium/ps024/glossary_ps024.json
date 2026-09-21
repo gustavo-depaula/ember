@@ -1,0 +1,52 @@
+{
+  "append": [
+    {"row": "| éruere |", "text": " **Ps 24:17, 24:20 → *libertai-me* both times** — the psalm says *érue me* twice (24:17 with a source, 24:20 without), so one wording is heard twice; *arrancai-me* fails at 24:20. *arrancar* then serves evéllere in 24:15. Proposal: arrancar with a source, libertar without, and libertar in both places where one psalm has both. Passed the Latinist twice."},
+    {"row": "| únicus (*únicam meam*) |", "text": " **Ps 24:16 the adjective *únicus et pauper sum ego* → *eu sou só e pobre*** (μονογενής; DRB 'alone'): *único* would be heard as 'unique'; the blind reader heard 'solitary and without resources'. The substantive (21:21, 34:17) stays *a minha única*."},
+    {"row": "| erubéscere |", "text": " Ps 24:1 = 24:20 *non erubéscam* → *não corarei* (the future: confidence; the Greek's optative μὴ καταισχυνθείην is option *que eu não core*), beside *confúndi → ser envergonhado* in 24:3–4. **The blind reader listed *corarei* unknown twice** (heard 'not be ashamed' once the verb is recognised). Passed the Latinist twice."},
+    {"row": "| confúndi |", "text": " Ps 24:3 *não serão envergonhados*, 24:4 *Sejam envergonhados* (beside erubéscere → corar in 24:1, 24:20)."},
+    {"row": "| firmaméntum (God as support) |", "text": " Ps 24:14 applied (*O Senhor é o esteio dos que o temem*); the blind reader listed *esteio* unknown."},
+    {"row": "| semen (offspring) |", "text": " Ps 24:13 *e a sua descendência herdará a terra* (applied)."},
+    {"row": "| humílitas / humiliáre |", "text": " Ps 24:18 *Vede a minha humilhação e a minha fadiga* (the stylist's best line; heard as contempt suffered)."},
+    {"row": "| labor (noun) |", "text": " Ps 24:18 *a minha fadiga*."},
+    {"row": "| delínquere / delíctum |", "text": " **Ps 24:7, 24:8, 24:18 applied:** *Das faltas da minha juventude*, *aos que cometem faltas no caminho*, *perdoai todas as minhas faltas* — heard as 'those who err' by the blind reader; apart from peccátum → pecado (24:11)."},
+    {"row": "| adhærére |", "text": " Ps 24:21 *Os inocentes e os retos apegaram-se a mim* (the blind reader heard affection first, support second)."},
+    {"row": "| respícere (in) |", "text": " **Ps 24:16 *Réspice in me* → *Olhai para mim*** (118:132's words), 24:19 *Réspice inimícos meos* → *Olhai para os meus inimigos*; **24:15 the verbless *Óculi mei semper ad Dóminum* → *Os meus olhos estão sempre voltados para o Senhor*** — this row's 10:5b build, taken from the stylist in draft 2 (draft 1 verbless, as the Latin and the Matins antiphon)."},
+    {"row": "| a sǽculo |", "text": " Ps 24:6 *que são desde sempre* (applied)."},
+    {"row": "| miseratiónes |", "text": " **Ps 24:6 side by side:** *Lembrai-vos das vossas compaixões, Senhor, e das vossas misericórdias* (applied; passed the Latinist twice)."},
+    {"row": "| bónitas · *bonitátem fácere cum* |", "text": " Ps 24:7b *por causa da vossa bondade, Senhor*."},
+    {"row": "| dirígere at the *vós* imperative |", "text": " **Ps 24:5 *Dírige me* → *Encaminhai-me*** (the row's candidate; safe, past *encaminhei*), and 24:9 *Díriget* → *Encaminhará*, so the psalm's one verb is heard twice. Passed the Latinist twice; no reader remarked. 26:11 should copy."},
+    {"row": "| docére / díscere |", "text": " Ps 24:4b *édoce me* merged → *ensinai-me* (δίδαξον, as 24:5 *doce me* and 24:9 *docébit*: D15)."},
+    {"row": "| confídere in |", "text": " Ps 24:1 *em vós confio* (applied)."},
+    {"row": "| irridére / subsannáre |", "text": " Ps 24:3 *Nem riam de mim os meus inimigos*."},
+    {"row": "| tota die |", "text": " Ps 24:5 *e por vós esperei o dia todo*."},
+    {"row": "| sémita |", "text": " Ps 24:4b *e ensinai-me as vossas veredas* — *veredas* unknown to a blind reader again (Pss 22, 24)."},
+    {"row": "| salutáris (of God, in apposition) · salvátor |", "text": " Ps 24:5 *porque vós sois, Deus, o meu Salvador* — applied; passed the Latinist twice."},
+    {"row": "| statúere |", "text": " **Ps 24:12 *legem státuit ei* → *ele lhe firmou uma lei*** — the stylist found *firmar uma lei* unnatural and the hidden subject hard to place; the subject taken as a pronoun (D2), *firmar* kept; his *O Senhor lhe estabeleceu* is an option (constitúere's verb)."},
+    {"row": "| odísse / ódio habére |", "text": " **Ps 24:19 *ódio iníquo odérunt me* → *e com ódio iníquo me odeiam*** — the Latinist's MAJOR on *odiaram*: odérunt is a perfect with present sense (as 17:18 *que me odeiam*); the late perfect *odívi* (118:104 *odiei*) is another form."},
+    {"row": "| exspectáre / exspectátio |", "text": " **Ps 24 proposes sustinére (God as object) → *esperar por*** (*todos os que esperam por vós*, 24:3; *por vós esperei*, 24:5, 24:21), the third verb beside *esperar em* (speráre) and *aguardar* (this row); 26:14 *Exspécta Dóminum … et sústine Dóminum* will test the three. The blind reader heard 'waiting for God to act'."},
+    {"row": "| speráre in |", "text": " Ps 24:20 *porque esperei em vós*, apart from sustinére → *esperar por* (24:3, 24:5, 24:21)."}
+  ],
+  "terms": [
+    "| sustinére (God as object) | esperar por (*todos os que esperam por vós*; *por vós esperei*) | open | Ps 24:3, 24:5, 24:21 (ὑπομένω); apart from speráre in → esperar em (24:20) by the preposition and from exspectáre → aguardar (D24); where the object is a thing to endure (68:8 *sustínui oppróbrium*, 129:3 *quis sustinébit?*) *suportar*. 15 lines (grep). The blind reader heard waiting for God to act — the verb's sense |",
+    "| supervácue | em vão (*todos os que agem iniquamente * em vão*) | open | Ps 24:4, only place (διὰ κενῆς). Shares *em vão* with in vano (23:4); *sem motivo* is gratis's (34:7 has both); option *sem proveito*. The blind reader heard 'without result' first, 'without cause' second |",
+    "| iníqua ágere | agir iniquamente | open | Ps 24:4 *omnes iníqua agéntes* — another build than operári iniquitátem (→ praticar a iniquidade); the blind reader listed *iniquamente* unknown; option *fazer coisas iníquas* |",
+    "| ignorántia | ignorância (*e das minhas ignorâncias não vos lembreis*) | open | Ps 24:7, only place (ἀγνοίας); the blind reader heard faults of ignorance first — the Latin's sense. The Office of the Dead antiphon *Delícta * juventútis meæ …* keeps the Latin order in the verse |",
+    "| reminísci / memínisse / meménto | lembrar-se (*Lembrai-vos … não vos lembreis … lembrai-vos vós de mim*) | open | Ps 24:6–7: three Latin verbs, one Greek (μιμνῄσκομαι), merged by D15 so the play of remembering is heard; *recordar-se* is the option. 24:7b *meménto mei tu* → *lembrai-vos vós de mim* (the stylist refused the trailing *vós*) |",
+    "| dulcis | doce (*Doce e reto é o Senhor*) | open | Ps 24:8 (χρηστός); the family of dulcédo → doçura; heard as 'kind and just' |",
+    "| mansuétus / mitis | manso | open | Ps 24:9 *os mansos … aos mansos* (πραεῖς both, D15; the Beatitude's word); 9 lines with mansuétus / mansuetúdo (33:3, 36:11, 44:5b, 75:10, 89:10, 131:1, 146:6, 149:4 — grep); *mansidão* for the noun. The blind reader heard 'calm, peaceable' |",
+    "| requírere (to seek) | procurar (*para os que procuram a sua aliança*) | open | Ps 24:10; apart from quǽrere → buscar (23:6); the row *requírere (God, of blood / sin) → pedir contas* stands for 9:13, 9:34 |",
+    "| testaméntum | aliança (*a sua aliança e os seus testemunhos*) | open | Ps 24:10, 24:14; διαθήκη, the covenant; 21 lines (grep: 43:18, 49:5, 49:16, 54:21, 73:20, 77:10, 77:37, 82:6, 88:4 …). *testamento* is a will in Brazil. No reader remarked |",
+    "| propitiári (+ dative) | ser propício (*sereis propício ao meu pecado*) | open | Ps 24:11 (ἱλάσῃ). **Tested: the blind reader heard 'forgive the sin' first, 'favour the sin' second, and listed *propício* unknown.** Kept because *perdoar* is dimíttere's two verses later (24:18); wants a ruling for the family (64:4, 77:38, 78:9 *propítius esto peccátis nostris*, 98:8, 102:3 *Qui propitiátur*, 129:4a *propitiátio* — grep). Options *perdoareis*, *sereis indulgente* |",
+    "| demorári | demorar-se (*A sua alma se demorará entre coisas boas*) | open | Ps 24:13, 29:6 *Ad vésperum demorábitur fletus* (grep); *in bonis* → *entre coisas boas* (not property); heard as abiding long among good things |",
+    "| evéllere | arrancar (*porque ele arrancará do laço os meus pés*) | open | Ps 24:15 (ἐκσπάσει); 51:7, 128:6 (grep). Shares *arrancar* with erípere / éruere with a source — none of them in the same verse; in Ps 24 éruere takes *libertar* |",
+    "| necéssitas (plural) | necessidades (*libertai-me das minhas necessidades*) | open | Ps 24:17 (ἀνάγκαι, straits); 30:8 and the refrain 106:6, 13, 19, 28 *de necessitátibus eórum* (grep). Tested: heard as privations, 'especially material' — near the straits; options *angústias*, *aflições* (MS1932) |",
+    "| dimíttere (sins) | perdoar (*e perdoai todas as minhas faltas*) | open | Ps 24:18 (ἄφες); the Our Father's verb; the row *dimíttere (let go) → deixar ir* stands for the Nunc dimittis |",
+    "| leváre | levantar (*A vós, Senhor, levantei a minha alma*) | open | Ps 24:1 (ἦρα); 118:48 *levávi manus meas*; kept apart from eleváre → elevar(-se) and attóllere → erguer (23:7). The formula row *Ad te … levávi ánimam meam* |"
+  ],
+  "formulas": [
+    "| *Ad te, Dómine, levávi ánimam meam* (24:1; 85:3, 142:8b; the Advent Introit; Epiphany II Responsory 7) | *A vós, Senhor, levantei a minha alma* | open — Ps 24 |",
+    "| *Deus meus, in te confído, non erubéscam* (24:1b; Tuesday Prime antiphon) | *meu Deus, em vós confio, não corarei* | open — Ps 24; = 24:20b *não corarei* |",
+    "| *Delícta juventútis meæ, et ignorántias meas ne memíneris* (24:7; Office of the Dead antiphon, asterisk after *Delícta*) | *Das faltas da minha juventude, e das minhas ignorâncias não vos lembreis* | open — Ps 24; the Latin order kept so the antiphon can open on the faults |",
+    "| *Réspice in me, et miserére mei* (24:16; 85:16; 21:2 *réspice in me* → *olhai para mim*; 118:132 *Áspice in me*) | *Olhai para mim, e tende piedade de mim* | open — Ps 24 (as 118:132) |"
+  ]
+}

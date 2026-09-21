@@ -1,0 +1,25 @@
+{
+  "append": [
+    {"row": "| régere |", "text": " **Ps 22:1 *Dóminus regit me* → *O Senhor me rege*** — applied; the familiar *O Senhor é o meu pastor* (CNBB; the Hebrew's noun) is option 1 in decision `regit`, its weight recorded; *me governa* (MS1932), *me conduz*, *me apascenta* options. Passed the Latinist twice; no reader stopped at it. The Sunday Sext versicle (22:1, Minor Special.txt) carries it. 79:2 *Qui regis Israël* will follow."},
+    {"row": "| conspéctus, *ante conspéctum suum* |", "text": " Ps 22:5 *in conspéctu meo* → *à minha vista* (the row's noun, as 5:9's *à vista de*)."},
+    {"row": "| præclárus |", "text": " **Ps 22:5b applied, reordered:** *e como é excelente o meu cálice que embriaga!* — the stylist refused the praise after the cup (worst line) and asked *esplêndido*; the order taken, the word kept (the row's; *esplêndido* is a proparoxytone). The Latinist passed it twice."},
+    {"row": "| longitúdo diérum |", "text": " Ps 22:6b *in longitúdinem diérum* → *por longos dias* (heard as 'many years' by the blind reader)."},
+    {"row": "| tribuláre |", "text": " Ps 22:5 *os que me atribulam*: the stylist asked *afligem* («livresco») and the blind reader listed it unknown — refused (the family of tribulação; *afligir* is afflígere's). A third psalm with the same report: whoever rules should weigh it."},
+    {"row": "| convértere |", "text": " Ps 22:2 *ánimam meam convértit* → *converteu a minha alma* (D25, the 18:8 precedent); the blind reader heard conversion to faith first."},
+    {"row": "| sémita |", "text": " Ps 22:3 *pelas veredas da justiça* (the blind reader listed *veredas* unknown again)."}
+  ],
+  "terms": [
+    "| páscua | pastagem (*num lugar de pastagem*) | open | Ps 22:1; the Latin's singular (MS1932 *pastos*); must serve *oves páscuæ* (73:1, 78:13, 99:3b) and the Invitatory's *pópulus páscuæ ejus* (94:7) → *o povo da sua pastagem*. The antiphon *In loco páscuæ * ibi me collocávit* (Office of the Dead, Thursday Prime) opens on the place: the Latin order kept, a comma before *ali* after the stylist heard an improvised restart |",
+    "| collocáre | colocar (*ali me colocou*) | open | Ps 22:1; 4 lines (103:22, 106:36, 142:3b); the Greek κατεσκήνωσεν ('made me dwell') is not followed; *estabelecer* is constitúere's, *pôr* pónere's |",
+    "| refectio | refrigério (*junto à água do refrigério*) | open | Ps 22:2, only place; L&S 'restoring, refreshment'; the Church's word (the Canon's *locum refrigérii*, grep-checked in DO's Ordo); the blind reader listed it unknown — kept; options *repouso*, *que restaura* |",
+    "| ēducáre | nutrir (*me nutriu*) | open | Ps 22:2 *educávit me* — ēducáre 'bring up, rear, nourish' (L&S), not ēdúcere 'lead out' (103:14 *edúcas* is the latter); options *criar*, *educar* (heard as schooling) |",
+    "| báculus | cajado (*a vossa vara, e o vosso cajado*) | open | Ps 22:4b, only place; virga → vara beside it (glossary virga); *báculo* is the bishop's staff, *bordão* the pilgrim's |",
+    "| impinguáre | ungir (*Ungistes com óleo a minha cabeça*) | open | Ps 22:5b; ἐλίπανας ἐν ἐλαίῳ (λιπαίνω, to oil). The Latinist's v1 MAJOR asked *Engordastes* (the Latin's 'fatten'), held as a wrong first hearing; his v2 gate withdrew it («acepção contextual legítima»). Shares *ungir* with úngere (44:8, 88:21), which never meets it; *Untastes* keeps the fat and stays apart — option. 140:5 *non impínguet caput meum* must follow |",
+    "| inebriáre | embriagar (*o meu cálice que embriaga*) | open | Ps 22:5b; the image kept unexplained (the blind reader heard physical drink first); 35:9, 64:10, 64:11 (grep) |",
+    "| subséqui | seguir (*a vossa misericórdia me seguirá*) | open | Ps 22:6, only place; καταδιώξεται; *perseguir* is persequi's |",
+    "| *ut inhábitem in domo Dómini* | *para que eu habite na casa do Senhor* | open | Ps 22:6b — the Latin's purpose clause (not the Hebrew's 'and I shall dwell'); the blind reader heard the purpose of the mercy. 26:4 *ut inhábitem in domo Dómini ómnibus diébus vitæ meæ* must copy it |"
+  ],
+  "formulas": [
+    "| *Dóminus regit me, et nihil mihi déerit: in loco páscuæ ibi me collocávit* (22:1; Sunday Sext versicle, Minor Special.txt; Matins and Office of the Dead antiphons) | *O Senhor me rege, e nada me faltará: num lugar de pastagem, ali me colocou* | open — Ps 22; each half stands alone as versicle and response |"
+  ]
+}

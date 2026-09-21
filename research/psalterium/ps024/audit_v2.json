@@ -1,0 +1,41 @@
+[
+  {"step": "checks", "note": "Draft 1: hard pass (ids 24:4/24:4b, 24:7/24:7b). Soft flags accepted: 24:4 first colon +7 and second −3 ('agem iniquamente * em vão' — supervácue stands alone after the mediant in the Latin); 24:6 first colon −6 (Reminíscere … Dómine is long in Latin); 24:8, 24:9 second colons +5/+4 (the relative 'aos que cometem faltas', the Latin's participle); 24:13, 24:14, 24:21 +3/+4; 24:16, 24:22 −3. Rhyme: 24:19 multiplicaram / odiaram (mended in draft 2 by the Latinist's tense)."},
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "Draft 1. One major (24:19); the marks confirmed in all 23 verses. «A tradução conserva adequadamente o conteúdo latino nos demais versículos, inclusive suas construções incomuns.» Passed in particular 'esperam por vós', 'em vão', 'Encaminhai-me', 'não corarei', 'sereis propício ao meu pecado', 'se demorará entre coisas boas', 'libertai-me', the verbless 24:15 and the hanging 24:14.",
+    "outcomes": [
+      {"verse": "24:19", "remark": "MAJOR: odérunt is a perfect with present sense; 'odiaram' puts the hatred in the past → 'me odeiam'", "outcome": "taken", "decision": "oderunt", "reason": "As 17:18 'que me odeiam'; it also mends the stylist's rhyme."}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "Draft 1. Six verses; best 24:18, worst 24:14. «Os principais tropeços vêm de elipses e ordens de palavras que fazem ouvir a construção latina antes da oração portuguesa.» Five taken (two in another form), one mended otherwise.",
+    "outcomes": [
+      {"verse": "24:7b", "remark": "'lembrai-vos de mim, vós' — the isolated 'vós' sounds like an afterthought → 'vós lembrai-vos de mim'", "outcome": "taken", "decision": "memento", "reason": "In another form: 'lembrai-vos vós de mim' (the stressed subject after the imperative; his order reads as an indicative). tu kept."},
+      {"verse": "24:12", "remark": "hidden subject; 'firmar uma lei' unnatural → 'O Senhor lhe estabeleceu uma lei'", "outcome": "taken", "decision": "statuit", "reason": "The subject supplied as a pronoun (D2): 'ele lhe firmou'. 'estabelecer' is constitúere's; naming the Lord kept as an option."},
+      {"verse": "24:14", "remark": "the ellipsis sounds interrupted → 'e a sua aliança é para que lhes seja manifestada'", "outcome": "taken", "decision": "manifestetur", "reason": "A copula (D2); the Latin's purpose clause whole."},
+      {"verse": "24:15", "remark": "verbless opening → 'Os meus olhos estão sempre voltados para o Senhor'", "outcome": "taken", "decision": "oculi", "reason": "The draft's option 2 and the respícere row's build (10:5b)."},
+      {"verse": "24:17", "remark": "'multiplicaram-se' spoils the mediant cadence; the object-first second colon piles up inversions", "outcome": "taken", "decision": "erue", "reason": "Order only: 'se multiplicaram: * libertai-me das minhas necessidades'."},
+      {"verse": "24:19", "remark": "multiplicaram / odiaram rhyme → 'e me odeiam com ódio iníquo'", "outcome": "refused", "decision": "oderunt", "reason": "The Latinist's 'me odeiam' removes the rhyme; his order would end on the proparoxytone 'iníquo'."}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "Draft 1. 34 items, 7 unknown words (corarei ×2, iniquamente, veredas, propício, esteio, iníquo). The deliberate tests: 24:11 'sereis propício ao meu pecado' heard FIRST as forgiving the sin, 'favouring the sin' second, and 'propício' listed unknown; 24:7 'ignorâncias' heard as faults of ignorance (right); 24:17 'necessidades' as privations, 'especially material' (straits, near enough); 24:15 (draft 1 verbless) understood. 'esperam por vós' / 'por vós esperei' heard as waiting for God to act — the Latin's sustinére, kept apart from speráre in (24:20). 'agem iniquamente em vão' heard as 'without result', 'without cause' second — both the Latin's supervácue. 24:12 subject heard as the Lord even unnamed; 24:13 'coisas boas' as well-being; 24:22 Israel as the biblical people, the modern state audible.",
+    "outcomes": [
+      {"verse": "24:11", "remark": "'propício' unknown; 'favourable to the sin' as a second reading", "outcome": "refused", "decision": "propitiaberis", "reason": "The first hearing is the Latin's (forgive); 'perdoareis' would merge with dimíttere two verses later (24:18). Kept for Gustavo's ruling; the family has 7 lines (78:9 'propítius esto peccátis nostris')."},
+      {"verse": "24:1", "remark": "'corarei' unknown (24:1, 24:20)", "outcome": "refused", "decision": "erubescam", "reason": "Glossary erubéscere → corar (open), apart from confúndi in the same psalm; evidence added to the row."},
+      {"verse": "24:4", "remark": "'iniquamente' unknown", "outcome": "refused", "decision": "iniqua", "reason": "The family of iníquo / iniquidade (glossary); the sense was heard."},
+      {"verse": "24:14", "remark": "'esteio' unknown", "outcome": "refused", "decision": "firmamentum", "reason": "D31."},
+      {"verse": "24:4b", "remark": "'veredas' unknown", "outcome": "refused", "decision": "edoce", "reason": "D15, sémita → vereda."}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "ps024/revise_v2.py: 24:19 'me odeiam' (the Latinist); 24:7b 'lembrai-vos vós de mim'; 24:12 'ele lhe firmou'; 24:14 'e a sua aliança é para que lhes seja manifestada'; 24:15 'Os meus olhos estão sempre voltados para o Senhor'; 24:17 'se multiplicaram: * libertai-me das minhas necessidades'."
+  }
+]

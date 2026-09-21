@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "61458f593185731129d327cc8dba8dd47b8d49970257e965538d49f1042e2e0a",
+  "runner": "codex-cli 0.155.1",
+  "model": "gpt-6-astra",
+  "at": "2026-09-21T16:24:15+00:00",
+  "reply": "{\n  \"verses\": [\n    {\n      \"id\": \"21:18\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"misérunt sortem\",\n          \"portuguese\": \"lançaram sortes\",\n          \"problem\": \"A expressão portuguesa é convencional, mas pluraliza sortem, que está no singular no latim.\",\n          \"fix\": \"lançaram a sorte\"\n        }\n      ]\n    },\n    {\n      \"id\": \"21:27\",\n      \"severity\": \"minor\",\n      \"issues\": [\n        {\n          \"latin\": \"in sǽculum sǽculi\",\n          \"portuguese\": \"pelos séculos dos séculos\",\n          \"problem\": \"A fórmula conserva o sentido de perpetuidade, mas transforma em plurais os dois substantivos singulares do latim.\",\n          \"fix\": \"pelo século do século\"\n        }\n      ]\n    }\n  ],\n  \"overall\": \"Os 34 versículos foram conferidos; a tradução conserva o conteúdo latino, com duas alterações de número em expressões convencionais que merecem ajuste pela regra adotada. Todos os sinais de divisão correspondem aos do latim, nas mesmas quantidades e na mesma ordem.\"\n}"
+}

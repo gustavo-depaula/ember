@@ -306,6 +306,18 @@ Held **open**, each with its row in the glossary, because more places must test 
 
 **Ruling.** *Desígnio* where *consílium* is what someone intends (19:5, 20:12; 32:10 *consília géntium … consília príncipum* will test it); *conselho* where it is advice (1:1, 12:2) or a deliberating body (110:1 *in consílio justórum et congregatióne*; 1:5 is *concílium*, another word). The Latin word is one (βουλή); Portuguese *conselho* no longer carries "plan", and a wrong first hearing is a fault (D2). Where a verse can mean both, *conselho*, which keeps the Latin's openness.
 
+## D34 — *ecclésia → assembleia*; *concílium* by its Greek — for review
+
+**Question.** Ps 21:23 *in médio ecclésiæ*, 21:26 *in ecclésia magna*; six verses earlier 21:17 *concílium malignántium*. Ten lines have *ecclésia* (ἐκκλησία in every one read).
+
+**Ruling.** *Ecclésia → assembleia* everywhere. *Igreja* was weighed and refused: it cannot serve 25:5 *ecclésiam malignántium*, and the blind reader heard it at 21:26 as a building; the Latin word is the gathering, and *assembleia* keeps it one word through the psalter. *Concílium* goes by its Greek: *congregação* where it is συναγωγή (21:17; 39:11 by the Ps 21 agent's reading, not yet checked here — the word *synagóga* already has), and 1:5 (βουλή) keeps its *assembleia* for the echo with 1:1 *consílio*. Cost: at 1:5 *assembleia* stands for a word other than *ecclésia*; they never meet in one verse. Brazilian Catholic ears will miss *Igreja* at 21:23 = Heb 2:12 (*in medio ecclesiae*); the reader of the Latin column sees it.
+
+## D35 — *deprecátio → prece* (the verb stays *suplicar*) — for review
+
+**Question.** Ps 6 proposed *prece* for the noun, because *súplica* is a proparoxytone and the noun stands at a cadence in 11 of its 14 verses.
+
+**Ruling.** *Prece*, settled. Four places agree (6:10, 16:1a, 118:169, 21:25), and it passed all three readers each time. The verb *deprecári* stays *suplicar* (118:58), so the family link is lost in Portuguese; *súplica* stays an option in each psalm.
+
 ---
 
 ## How agents decide
