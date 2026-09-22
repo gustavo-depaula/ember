@@ -1,0 +1,787 @@
+{
+  "psalm": 37,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "37:2": "Senhor, não me {arguas} no vosso furor, * nem me castigueis na vossa ira.",
+    "37:3": "Porque as vossas setas {infixae} em mim: * e {confirmasti} sobre mim a vossa mão.",
+    "37:4": "Não há {sanitas} na minha carne {afacie1} da vossa ira: * não há paz para os meus ossos {afacie2} dos meus pecados.",
+    "37:5": "Porque as minhas iniquidades {supergressae}: * e como um fardo pesado pesaram sobre mim.",
+    "37:6": "Apodreceram e corromperam-se as minhas {cicatrices}, * {afacie3} da minha insensatez.",
+    "37:7": "Tornei-me miserável, e {curvatus} até o fim: * o dia todo eu andava entristecido.",
+    "37:8": "Porque os meus {lumbi} estão cheios de {illusionibus}: * e não há {sanitas8} na minha carne.",
+    "37:9": "Fui afligido, e fui humilhado {nimis}: * {rugiebam} do meu coração.",
+    "37:10": "Senhor, diante de vós está todo o meu desejo: * e o meu gemido não está escondido de vós.",
+    "37:11": "O meu coração está perturbado, abandonou-me o meu {virtus}: * e a luz dos meus olhos, {ipsum} está comigo.",
+    "37:12": "{proximi} * contra mim se aproximaram, e {steterunt}.",
+    "37:12b": "E os que estavam junto de mim {steterunt2}: * e faziam violência os que buscavam a minha alma.",
+    "37:13": "E os que procuravam males contra mim falaram vaidades: * e o dia todo meditavam enganos.",
+    "37:14": "Mas eu, como um surdo, não ouvia: * e como um mudo que não abre a sua boca.",
+    "37:15": "E tornei-me como um homem que não ouve: * e que não tem {redargutiones} na sua boca.",
+    "37:16": "Porque em vós, Senhor, esperei: * vós me escutareis, Senhor, meu Deus.",
+    "37:17": "Porque eu disse: {nequando} se alegrem à minha custa os meus inimigos: * e enquanto os meus pés {commoventur}, falaram grandezas contra mim.",
+    "37:18": "Porque eu estou pronto para os flagelos: * e a minha dor está sempre {conspectu}.",
+    "37:19": "Porque {annuntiabo} a minha iniquidade: * e {cogitabo}.",
+    "37:20": "Mas os meus inimigos vivem, e {confirmati}: * e se multiplicaram os que me odeiam injustamente.",
+    "37:21": "Os que retribuem males por bens {detrahebant}: * porque eu seguia a bondade.",
+    "37:22": "Não me abandoneis, Senhor, meu Deus: * não vos afasteis de mim.",
+    "37:23": "{intende} auxílio, * Senhor, Deus da minha salvação."
+  },
+  "decisions": [
+    {
+      "id": "arguas",
+      "refs": [
+        "37:2"
+      ],
+      "latin": "Dómine, ne in furóre tuo árguas me, * neque in ira tua corrípias me",
+      "kind": "glossary",
+      "why": "37:2 = 6:2 word for word (the first and the third Penitential Psalm open alike), so the verse is copied from Ps 6 draft 3 exactly: *Senhor, não me repreendais no vosso furor, * nem me castigueis na vossa ira*. D21 (settled): árguere → *repreender*, corrípere → *castigar*. The same verse is sung in the Introit of Wednesday in the second week of Lent (missa Tempora/Quad2-3, grep), so the two psalms and the Mass stay one text.",
+      "options": [
+        {
+          "label": "repreendais",
+          "forms": {
+            "arguas": "repreendais"
+          },
+          "note": "Ruling: D21, and identical with 6:2.",
+          "from": "glossary"
+        },
+        {
+          "label": "acuseis",
+          "forms": {
+            "arguas": "acuseis"
+          },
+          "note": "The Ps 6 agent's verb, overruled by D21 (option 1 in Ps 6 too).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "infixae",
+      "refs": [
+        "37:3"
+      ],
+      "latin": "sagíttæ tuæ infíxæ sunt mihi",
+      "kind": "glossary",
+      "why": "infígere (ἐνεπάγησαν, \"were fixed\"): the row gives *ficar cravado* (9:16a *as nações ficaram cravadas*) and names 37:3 as a place to test it. *ficaram cravadas em mim* keeps the passive state and the image. Matos Soares 1932 *se me cravaram* (reflexive, an event). *mihi* (dative) → *em mim*.",
+      "options": [
+        {
+          "label": "ficaram cravadas",
+          "forms": {
+            "infixae": "ficaram cravadas"
+          },
+          "note": "Ruling: the row (9:16a).",
+          "from": "glossary"
+        },
+        {
+          "label": "se cravaram",
+          "forms": {
+            "infixae": "se cravaram"
+          },
+          "note": "Matos Soares 1932: the reflexive.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confirmare",
+      "refs": [
+        "37:3",
+        "37:20"
+      ],
+      "latin": "confirmásti super me manum tuam … confirmáti sunt super me",
+      "kind": "word",
+      "why": "The psalm says *confirmáre … super me* twice: God has made his hand firm upon me (37:3, ἐπεστήρισας), and my enemies have been made firm over me (37:20, κεκραταίωνται ὑπὲρ ἐμέ). One verb for both keeps the Latin's echo — the hand that weighs on me and the enemies who stand over me. The confirmáre row is open (*confirmar*; 36:17 *sustentar* with persons as object, because *confirmar os justos* was heard as attesting); *confirmastes a vossa mão* would be heard the same way. *firmar* is the row's own option and keeps the root. In 37:20 *super me* is open in the Latin between \"over me\" and \"beyond me\"; Douay-Rheims and Matos Soares 1932 read the comparison (*stronger than I*, *mais fortes que eu*); *se firmaram sobre mim* keeps both.",
+      "options": [
+        {
+          "label": "firmastes … se firmaram sobre mim",
+          "forms": {
+            "confirmasti": "firmastes",
+            "confirmati": "se firmaram sobre mim"
+          },
+          "note": "Ruling: one verb for the Latin's one verb; super me left open.",
+          "from": "draft"
+        },
+        {
+          "label": "firmastes … se tornaram mais fortes do que eu",
+          "forms": {
+            "confirmasti": "firmastes",
+            "confirmati": "se tornaram mais fortes do que eu"
+          },
+          "note": "Douay-Rheims and Matos Soares 1932 in 37:20: the comparison; the echo with 37:3 is lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fizestes pesar … se fortaleceram sobre mim",
+          "forms": {
+            "confirmasti": "fizestes pesar",
+            "confirmati": "se fortaleceram sobre mim"
+          },
+          "note": "Explains the hand; two verbs.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sanitas",
+      "refs": [
+        "37:4",
+        "37:8"
+      ],
+      "latin": "Non est sánitas in carne mea (×2)",
+      "kind": "word",
+      "why": "sánitas (ἴασις): soundness, health. The clause returns word for word in 37:8, so one wording twice. *saúde* is the Latin's word plainly (Douay-Rheims *health*); Matos Soares 1932 *parte sã* explains it.",
+      "options": [
+        {
+          "label": "saúde",
+          "forms": {
+            "sanitas": "saúde",
+            "sanitas8": "saúde"
+          },
+          "note": "Ruling.",
+          "from": "DRB"
+        },
+        {
+          "label": "parte sã",
+          "forms": {
+            "sanitas": "parte sã",
+            "sanitas8": "parte sã"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "afacie",
+      "refs": [
+        "37:4",
+        "37:6"
+      ],
+      "latin": "a fácie iræ tuæ … a fácie peccatórum meórum … a fácie insipiéntiæ meæ",
+      "kind": "word",
+      "why": "a fácie (ἀπὸ προσώπου), three times in three verses: literally \"from the face of\", in sense \"because of\" and \"in the presence of\". The glossary's *da face de* (1:4, 16:8b) is for something driven off a face and is not Portuguese here (*não há saúde … da face da vossa ira*). *diante de* keeps the face in the idiom (to stand before) and holds both senses — faced with your wrath, in sight of my sins (Matos Soares 1932 *à vista dos meus pecados*). *por causa de* is what Douay-Rheims and Matos Soares 1932 say in 37:4a and 37:6; it closes the idiom on the cause. One rendering for the three, as the Latin has one phrase. Cost: *diante de vós* also renders *ante te* in 37:10.",
+      "options": [
+        {
+          "label": "diante da … diante dos … diante da",
+          "forms": {
+            "afacie1": "diante",
+            "afacie2": "diante",
+            "afacie3": "diante"
+          },
+          "note": "Ruling: the face kept in the idiom; both senses open.",
+          "from": "draft"
+        },
+        {
+          "label": "por causa da … por causa dos … por causa da",
+          "forms": {
+            "afacie1": "por causa",
+            "afacie2": "por causa",
+            "afacie3": "por causa"
+          },
+          "note": "Douay-Rheims, Matos Soares 1932: the cause.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "supergressae",
+      "refs": [
+        "37:5"
+      ],
+      "latin": "iniquitátes meæ supergréssæ sunt caput meum",
+      "kind": "word",
+      "why": "supergrédi: to step over, go beyond (ὑπερῆραν, \"rose above\"). The image is of water or a load rising over the head. *ultrapassaram a minha cabeça* keeps the Latin's going-over; *passaram por cima de* is heard in Brazil as \"ignored / ran over\"; Matos Soares 1932 *se elevaram acima da* is the Greek's rising.",
+      "options": [
+        {
+          "label": "ultrapassaram",
+          "forms": {
+            "supergressae": "ultrapassaram a minha cabeça"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "se elevaram acima da",
+          "forms": {
+            "supergressae": "se elevaram acima da minha cabeça"
+          },
+          "note": "Matos Soares 1932; the Greek's verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "passaram por cima da",
+          "forms": {
+            "supergressae": "passaram por cima da minha cabeça"
+          },
+          "note": "Douay-Rheims \"are gone over\".",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "cicatrices",
+      "refs": [
+        "37:6"
+      ],
+      "latin": "Putruérunt et corrúptæ sunt cicatríces meæ",
+      "kind": "word",
+      "why": "cicatrix is a scar, or a wound closing (L&S \"a scar\"); the Greek μώλωπες are weals, bruises. Scars that rot are the Latin's picture — the old wounds of sin reopened and festering. *cicatrizes* keeps it; Douay-Rheims *sores* and Matos Soares 1932 *chagas* make them open wounds. putréscere → *apodrecer*; corrúmpi → *corromper-se* (the family of corrúptio → corrupção, 15:10), bodily here.",
+      "options": [
+        {
+          "label": "cicatrizes",
+          "forms": {
+            "cicatrices": "cicatrizes"
+          },
+          "note": "Ruling: the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "chagas",
+          "forms": {
+            "cicatrices": "chagas"
+          },
+          "note": "Matos Soares 1932; Douay-Rheims sores.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "curvatus",
+      "refs": [
+        "37:7"
+      ],
+      "latin": "Miser factus sum, et curvátus sum usque in finem",
+      "kind": "grammar",
+      "why": "curvátus sum: the passive perfect, a state reached — *fiquei curvado*. usque in finem → *até o fim*, as 15:11 (the in finem row keeps *usque in finem* apart from *in finem*, naming 15:11 and 37:7); Douay-Rheims \"even to the end\"; Matos Soares 1932 explains (*continuamente todo encurvado*). miser factus sum → *Tornei-me miserável* (Matos Soares 1932).",
+      "options": [
+        {
+          "label": "fiquei curvado",
+          "forms": {
+            "curvatus": "fiquei curvado"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "fui encurvado",
+          "forms": {
+            "curvatus": "fui encurvado"
+          },
+          "note": "The passive as event.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "lumbi",
+      "refs": [
+        "37:8"
+      ],
+      "latin": "lumbi mei",
+      "kind": "word",
+      "why": "lumbi (ψύαι): the loins, the seat of strength. The organ is named, as renes → *rins* (row, 7:10, 15:7). *lombos* is the Latin's word and the Portuguese Bible's for loins; it is heard also as a cut of meat or the back. *rins* is renes's and would merge them; *entranhas* (Matos Soares 1932) is viscera.",
+      "options": [
+        {
+          "label": "lombos",
+          "forms": {
+            "lumbi": "lombos"
+          },
+          "note": "Ruling.",
+          "from": "DRB"
+        },
+        {
+          "label": "entranhas",
+          "forms": {
+            "lumbi": "entranhas"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "illusionibus",
+      "refs": [
+        "37:8"
+      ],
+      "latin": "impléti sunt illusiónibus",
+      "kind": "ambiguity",
+      "why": "illúsio: classical \"mocking\" (L&S), and the Greek here is ἐμπαιγμῶν, mockeries; in 78:4 *subsannátio et illúsio* it is mockery. But L&S gives the ecclesiastical sense \"illusion, deceit\" citing this very verse (and Isa 66:4), and both Vulgate-family versions read it so (Douay-Rheims *illusions*, Matos Soares 1932 *ilusões*). The Latin word holds both; Portuguese has none that does. Ruled *ilusões*: the Latin's word and the way the Latin psalter has been prayed; the Greek's mockery is the option. Watch the readers: *lombos cheios de ilusões* is strange in Portuguese as the Latin is strange.",
+      "options": [
+        {
+          "label": "ilusões",
+          "forms": {
+            "illusionibus": "ilusões"
+          },
+          "note": "Ruling: the cognate (DRB, MS1932, L&S on this verse).",
+          "from": "MS1932"
+        },
+        {
+          "label": "zombarias",
+          "forms": {
+            "illusionibus": "zombarias"
+          },
+          "note": "The Greek ἐμπαιγμῶν; illúsio at 78:4.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": [
+        "37:9"
+      ],
+      "latin": "humiliátus sum nimis",
+      "kind": "glossary",
+      "why": "nimis (ἕως σφόδρα): the row has no single rendering; 118:138 *sem medida* passed every reader (L&S: \"beyond measure\"), while *sobremaneira* was unknown to a blind reader (118:96, 30:12). *muito* is valde's. afflígere → *afligir* (row); humiliáre → *humilhar* (row). The two perfect passives kept as events, each with its own *fui*, as the Latin repeats *sum*.",
+      "options": [
+        {
+          "label": "sem medida",
+          "forms": {
+            "nimis": "sem medida"
+          },
+          "note": "Ruling: 118:138.",
+          "from": "glossary"
+        },
+        {
+          "label": "muito",
+          "forms": {
+            "nimis": "muito"
+          },
+          "note": "valde's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "rugiebam",
+      "refs": [
+        "37:9"
+      ],
+      "latin": "rugiébam a gémitu cordis mei",
+      "kind": "grammar",
+      "why": "rugíre (ὠρυόμην): to roar, a lion's word — kept, not softened to *gemer* (which is gémitus's, the same colon). *a gémitu*: from, by reason of the groaning. Douay-Rheims *with the groaning*; Matos Soares 1932 turns it (*o gemido … arranca-me rugidos*). 6:8 *a furóre* → *pelo furor* is the nearest build.",
+      "options": [
+        {
+          "label": "eu rugia com o gemido",
+          "forms": {
+            "rugiebam": "eu rugia com o gemido"
+          },
+          "note": "Ruling (DRB).",
+          "from": "DRB"
+        },
+        {
+          "label": "eu rugia pelo gemido",
+          "forms": {
+            "rugiebam": "eu rugia pelo gemido"
+          },
+          "note": "6:8's preposition: the cause.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "virtus",
+      "refs": [
+        "37:11"
+      ],
+      "latin": "derelíquit me virtus mea",
+      "kind": "glossary",
+      "why": "virtus of a man's own strength → *vigor*: the virtus row's proposal (21:16, 29:8), which names 37:11. *poder* stays God's; *força* is fortitúdo's.",
+      "options": [
+        {
+          "label": "vigor",
+          "forms": {
+            "virtus": "vigor"
+          },
+          "note": "Ruling: the row's proposal.",
+          "from": "glossary"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "virtus": "força"
+          },
+          "note": "Douay-Rheims strength, Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ipsum",
+      "refs": [
+        "37:11"
+      ],
+      "latin": "et lumen oculórum meórum, et ipsum non est mecum",
+      "kind": "grammar",
+      "why": "*et ipsum non* — \"even it is not\": the Latin names the light twice (noun, then *ipsum*). *nem ela está comigo* is how Portuguese says *et … non* with the pronoun; Douay-Rheims *itself*, Matos Soares 1932 *a própria luz … já não está*.",
+      "options": [
+        {
+          "label": "nem ela",
+          "forms": {
+            "ipsum": "nem ela"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "também ela não",
+          "forms": {
+            "ipsum": "também ela não"
+          },
+          "note": "Closer to *et ipsum*, heavier.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "proximi",
+      "refs": [
+        "37:12"
+      ],
+      "latin": "Amíci mei, et próximi mei *",
+      "kind": "order",
+      "why": "The próximus row: a proparoxytone at a cadence wants a word after it. *Os meus amigos e os meus próximos* ends the first colon on *próximos*; the Latin's own order, possessive after, puts the stress on *meus*, and the double *meus* answers the Latin's *mei … mei*. The word order is Portuguese (*amigos meus*), a little marked.",
+      "options": [
+        {
+          "label": "Os amigos meus e os próximos meus",
+          "forms": {
+            "proximi": "Os amigos meus e os próximos meus"
+          },
+          "note": "Ruling: the cadence.",
+          "from": "draft"
+        },
+        {
+          "label": "Os meus amigos e os meus próximos",
+          "forms": {
+            "proximi": "Os meus amigos e os meus próximos"
+          },
+          "note": "Plain order; proparoxytone at the mediant.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "steterunt",
+      "refs": [
+        "37:12",
+        "37:12b"
+      ],
+      "latin": "appropinquavérunt, et stetérunt … de longe stetérunt",
+      "kind": "word",
+      "why": "stetérunt twice, one verse apart: they came near against me and stood; those near me stood far off. One verb twice. The stare row gives *deter-se* where the standing is a halting (1:1), *estar de pé* for standing in God's house. *se detiveram* serves both — they stopped facing me, they stopped at a distance. Douay-Rheims *stood*; Matos Soares 1932 *puseram-se* (twice).",
+      "options": [
+        {
+          "label": "se detiveram … se detiveram de longe",
+          "forms": {
+            "steterunt": "se detiveram",
+            "steterunt2": "se detiveram de longe"
+          },
+          "note": "Ruling: 1:1's verb, once for each stetérunt.",
+          "from": "glossary"
+        },
+        {
+          "label": "pararam … pararam de longe",
+          "forms": {
+            "steterunt": "pararam",
+            "steterunt2": "pararam de longe"
+          },
+          "note": "Plainer.",
+          "from": "draft"
+        },
+        {
+          "label": "se puseram … se puseram de longe",
+          "forms": {
+            "steterunt": "se puseram",
+            "steterunt2": "se puseram de longe"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "redargutiones",
+      "refs": [
+        "37:15"
+      ],
+      "latin": "non habens in ore suo redargutiónes",
+      "kind": "word",
+      "why": "redargútio (ἐλεγμούς): reproof, refutation — the noun of the verb in 37:2 (árguere, ἐλέγξῃς): the psalmist who asked not to be rebuked has no rebuke of his own in his mouth. *repreensões* keeps that echo with *repreendais*. Matos Soares 1932 explains (*palavras com que replicar*); *réplicas* is the sense \"retorts\".",
+      "options": [
+        {
+          "label": "repreensões",
+          "forms": {
+            "redargutiones": "repreensões"
+          },
+          "note": "Ruling: the echo with 37:2.",
+          "from": "draft"
+        },
+        {
+          "label": "réplicas",
+          "forms": {
+            "redargutiones": "réplicas"
+          },
+          "note": "Retorts (Matos Soares 1932's sense).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nequando",
+      "refs": [
+        "37:17"
+      ],
+      "latin": "Quia dixi: Nequándo supergáudeant mihi inimíci mei",
+      "kind": "glossary",
+      "why": "nequándo (μήποτε) → *para que não* (row, 2:12, 27:1), quoted after *I said*: the prayer of 37:16 goes on — [hear me] lest they gloat. supergaudére mihi → *alegrar-se à minha custa* (34:19, 34:24; the super me row names 37:17). Matos Soares 1932 makes it a wish (*Nunca triunfem*).",
+      "options": [
+        {
+          "label": "Para que não",
+          "forms": {
+            "nequando": "Para que não"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Que nunca",
+          "forms": {
+            "nequando": "Que nunca"
+          },
+          "note": "A wish; *quando* heard in *nunca* (Matos Soares 1932).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "commoventur",
+      "refs": [
+        "37:17"
+      ],
+      "latin": "dum commovéntur pedes mei",
+      "kind": "glossary",
+      "why": "commovéri (σαλευθῆναι, be shaken): the movéri row → *ser abalado*; 32:8 *commoveántur* → *sejam abalados*. The present kept (*dum commovéntur*). Matos Soares 1932 *os meus pés vacilantes*.",
+      "options": [
+        {
+          "label": "são abalados",
+          "forms": {
+            "commoventur": "são abalados"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "vacilam",
+          "forms": {
+            "commoventur": "vacilam"
+          },
+          "note": "The row's option; Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "37:18"
+      ],
+      "latin": "et dolor meus in conspéctu meo semper",
+      "kind": "glossary",
+      "why": "in conspéctu + genitive → *à vista de* (the conspéctus row; 15:8 *Eu via o Senhor sempre à minha vista*). *diante de mim* is the plainer option (Matos Soares 1932), which would be heard beside 37:4's *diante de*.",
+      "options": [
+        {
+          "label": "à minha vista",
+          "forms": {
+            "conspectu": "à minha vista"
+          },
+          "note": "Ruling: the row, as 15:8.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de mim",
+          "forms": {
+            "conspectu": "diante de mim"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "annuntiabo",
+      "refs": [
+        "37:19"
+      ],
+      "latin": "iniquitátem meam annuntiábo",
+      "kind": "word",
+      "why": "annuntiáre → *anunciar* (9:12, 18:2, 29:10b). To announce one's own iniquity is to declare it (Douay-Rheims *declare*); Matos Soares 1932 *confessarei* is confitéri's verb for sin (31:5b), which the Latin does not use here.",
+      "options": [
+        {
+          "label": "anunciarei",
+          "forms": {
+            "annuntiabo": "anunciarei"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "confessarei",
+          "forms": {
+            "annuntiabo": "confessarei"
+          },
+          "note": "Matos Soares 1932; confitéri's word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "declararei",
+          "forms": {
+            "annuntiabo": "declararei"
+          },
+          "note": "Douay-Rheims.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "cogitabo",
+      "refs": [
+        "37:19"
+      ],
+      "latin": "et cogitábo pro peccáto meo",
+      "kind": "grammar",
+      "why": "cogitáre pro (μεριμνήσω ὑπέρ, \"be anxious for\"): Douay-Rheims keeps *think for*, Matos Soares 1932 *pensarei (sempre) no meu pecado*. cogitáre → *pensar em* (row). *pensarei no meu pecado* is what the Portuguese ear accepts; *pro* (\"on account of\") is heard in the care the verb implies. *me inquietarei pelo* says the Greek and leaves the Latin's verb.",
+      "options": [
+        {
+          "label": "pensarei no",
+          "forms": {
+            "cogitabo": "pensarei no meu pecado"
+          },
+          "note": "Ruling: the row's regency.",
+          "from": "MS1932"
+        },
+        {
+          "label": "pensarei por causa do",
+          "forms": {
+            "cogitabo": "pensarei por causa do meu pecado"
+          },
+          "note": "*pro* spelt out.",
+          "from": "draft"
+        },
+        {
+          "label": "me inquietarei pelo",
+          "forms": {
+            "cogitabo": "me inquietarei pelo meu pecado"
+          },
+          "note": "The Greek's sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "detrahebant",
+      "refs": [
+        "37:21"
+      ],
+      "latin": "detrahébant mihi",
+      "kind": "word",
+      "why": "detráhere + dative: to take away from someone's name, to disparage (ἐνδιέβαλλόν με, slandered me). *me difamavam* is the exact Portuguese (dis-fama, taking away the name); *caluniar* is calumniári's (71:4, 118:122); Matos Soares 1932 *murmuravam de mim*. The Latin's mixed tenses kept (*retríbuunt* present, *detrahébant* imperfect).",
+      "options": [
+        {
+          "label": "me difamavam",
+          "forms": {
+            "detrahebant": "me difamavam"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "falavam mal de mim",
+          "forms": {
+            "detrahebant": "falavam mal de mim"
+          },
+          "note": "Plainer.",
+          "from": "draft"
+        },
+        {
+          "label": "murmuravam de mim",
+          "forms": {
+            "detrahebant": "murmuravam de mim"
+          },
+          "note": "Matos Soares 1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "intende",
+      "refs": [
+        "37:23"
+      ],
+      "latin": "Inténde in adjutórium meum",
+      "kind": "glossary",
+      "why": "inténdere → *atender* (D3). *in adjutórium meum*: \"unto my help\" — *em meu auxílio*, the Portuguese phrase for coming to someone's aid, without the article (adjutórium → auxílio, row). This is also the colon of 69:2 *Deus, in adjutórium meum inténde*, which opens every Hour — it will want the same words (proposed as an open formula row). The Matins antiphon has *Dómine, virtus salútis meæ* (Psalmi matutinum, grep), another Latin; so does the Introit of Wednesday of Lent II (Quad2-3).",
+      "options": [
+        {
+          "label": "Atendei em meu auxílio",
+          "forms": {
+            "intende": "Atendei em meu"
+          },
+          "note": "Ruling: D3, with *em meu auxílio*.",
+          "from": "glossary"
+        },
+        {
+          "label": "Atendei ao meu auxílio",
+          "forms": {
+            "intende": "Atendei ao meu"
+          },
+          "note": "The verb's own regency; heard as \"look after my help\".",
+          "from": "draft"
+        },
+        {
+          "label": "Vinde em meu auxílio",
+          "forms": {
+            "intende": "Vinde em meu"
+          },
+          "note": "The idiom *vir em auxílio*; not inténdere's verb.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "37:2": "= 6:2 (Ps 6 draft 3), copied exactly: D21. The Introit of Quad2-3 sings it.",
+    "37:5": "onus grave gravátæ → *um fardo pesado pesaram*: the Latin's echo (grave / graváre) kept as *pesado / pesaram*. *fardo*, not *carga* (Matos Soares 1932): onus is the burden carried.",
+    "37:7": "tota die → *o dia todo* (D24); contristátus → *entristecido* (34:14); ingrédi of walking → *andar* (row, 14:2, 25:1).",
+    "37:10": "ante te → *diante de vós*; the Latin's verbless first colon takes *está*. desidérium → *desejo*; gémitus → *gemido* (row).",
+    "37:11": "conturbáre → *perturbar* (row), the state as 6:3; derelínquere → *abandonar* (row), the verb first as in the Latin.",
+    "37:12": "appropinquáre → *aproximar-se* (row): *próximos … aproximaram* echoes as *próximi … appropinquavérunt* does. advérsum me → *contra mim*, the Latin's place (second colon).",
+    "37:12b": "juxta me → *junto de mim*; vim fácere → *fazer violência*; quǽrere ánimam → *buscar a minha alma* (quǽrere and ánima mea rows; 34:4).",
+    "37:13": "inquírere mala mihi → *procurar males contra mim* (34:4b *os que pensam em males contra mim*); loqui vanitátes → *falar vaidades* (vánitas row); meditári + accusative → *meditar* (2:1); dolus → *engano* (row).",
+    "37:14": "*non apériens*, a participle → *que não abre* (present, as the participle).",
+    "37:15": "factus sum sicut → *tornei-me como*; the two participles as relative clauses. 37:14 and 37:15 both end on *boca* (checks: rhyme flag): the Latin's own echo, *os suum … in ore suo*, kept.",
+    "37:16": "D36 *esperar em*; D3 *escutar*; *Senhor, meu Deus* (formula row). *tu exáudies*: the pronoun kept as *vós*.",
+    "37:17": "magna loqui super me → *falar grandezas contra mim* (34:26b; hostile super me → *contra mim*, row).",
+    "37:18": "parátus → *pronto* (row); flagéllum → *flagelo* (row); semper → *sempre*.",
+    "37:20": "iníque → *injustamente* (34:19); odísse in present sense → *odeiam* (24:19); multiplicári → *multiplicar-se*.",
+    "37:21": "retribúere mala pro bonis → *retribuir males por bens* (34:12 *Retribuíam-me males por bens*); bónitas → *bondade* (row).",
+    "37:22": "derelínquere → *abandonar*; *ne discésseris a me* = 21:11 *não vos afasteis de mim*, copied.",
+    "37:23": "Deus salútis meæ → *Deus da minha salvação* (17:47; D6)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm37.txt, 23 prayed verses (37:2–37:23 with 37:12b; no 37:1, the titulus, D7). No flex. Uses by grep (ps032/uses.py): the fourth of the Seven Penitential Psalms (Appendix/Septem psalmi paenitentiales); 37:2 the Introit verse and 37:22–23 the Introit of Wednesday in Lent II (missa Tempora/Quad2-3: *Ne derelínquas me … inténde in adjutórium meum, Dómine, virtus salútis meæ* — another Latin at the end); 37:12 a versicle of Passion Sunday (Tempora/Quad5-0); the Matins antiphon *Inténde in adjutórium meum, * Dómine, virtus salútis meæ* (Psalmi matutinum). Not a psalm of the day hours, so no Diurnal Monástico in the parallels. **The Hetzenauer print read is skipped and owed** (handoff)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps037.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Counts with ps005/grep_latin.py: sánitas, lumbi, curváre, rugíre, cicatrix, redargútio only here; supergaudére 3 lines, illúsio 2 (78:4 beside subsannátio), usque in finem 2 (15:11). Copied: 37:2 = 6:2 (D21); 37:22b = 21:11b; 37:16 *Senhor, meu Deus*; 37:17 *à minha custa* (34:19, 24); 37:21 *males por bens* (34:12); 37:23 *Deus da minha salvação* (17:47). Glossary applied: D3, D6, D21, D24 (o dia todo), D36 (esperar em), infígere, confirmáre, in finem (usque), ingrédi, affligere, humiliáre, nimis, virtus (vigor), conturbáre, derelínquere, próximus, appropinquáre, stare, quǽrere, vánitas, dolus, meditári, movéri, super me, parátus, flagéllum, conspéctus, cogitáre, iníque, retribúere, bónitas, discédere, inténdere, adjutórium. Latin (= Greek) readings kept against the Hebrew: 37:5 *pesaram sobre mim*, 37:6 *cicatrizes … insensatez*, 37:8 *ilusões*, 37:9 *rugia*, 37:12 *se detiveram*, 37:18 *flagelos*, 37:19 *pensarei*, 37:21 *porque eu seguia a bondade*. Tests for the readers: 'diante da vossa ira', 'ultrapassaram a minha cabeça', 'cicatrizes', 'lombos cheios de ilusões', 'rugia com o gemido', 'Os amigos meus e os próximos meus', 'se detiveram de longe', 'repreensões', 'Para que não', 'me difamavam', 'Atendei em meu auxílio'."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Length flags accepted: 37:12b first +5 (*se detiveram de longe*, the repeated verb), 37:9 first +4 (*sem medida*, each *fui* kept as the Latin repeats *sum*), 37:17 first +4 / second +3 (the longest verse of the Latin too), 37:6, 37:11, 37:12b second, 37:20 second +3; 37:8 first, 37:16 second, 37:22 first, 37:23 first −3. Rhyme 37:14 / 37:15 (*boca*): the Latin's *os suum … in ore suo*. Oxytone cadences where the Latin's last word is *me* or *mecum* (37:3, 37:5, 37:17, 37:20, 37:22)."
+    }
+  ]
+}

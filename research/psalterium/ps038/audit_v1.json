@@ -1,0 +1,4 @@
+[
+  {"step": "checks", "note": "Draft 1: hard pass. 38:3 first colon +6 (three verbs, silére's two-word *ficar em silêncio*), 38:9 second +4 (*fazer de mim*), 38:2 second, 38:4 first, 38:5b second, 38:13b first, 38:14 first +3; 38:12 and 38:13 first −5 (the Latin's long words). 38:13 ends on the proparoxytone *lágrimas*. Rhyme 38:12 / 38:12b (*homem … homem*) kept: the Latin's own echo (*hóminem … homo*). The rhyme 38:13b / 38:14 (*pais … mais*) was mended before any reader: *e já não existirei*."},
+  {"step": "readers", "note": "codex.py tried for the Latinist (critic/v1.latinist.json) and the ambiguity reader (critic/v1.ambiguity.json): both failed at once with 'Your workspace is out of credits'; not retried (Gustavo's instruction, Codex out of quota). The stylist is not run through Codex. All three v1 readers handed to the coordinator, to be run as fresh-context readers that see only the target file."}
+]

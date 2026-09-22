@@ -338,6 +338,27 @@ Held **open**, each with its row in the glossary, because more places must test 
 
 **Counts corrected:** D29's 105:38 is 105:39. D31 also misses *firmaméntum* at 71:16, 88:41, 104:16 — they decide in their own psalms with D31 in view. *deprecátio* is 15 lines, not 14. None changes a ruling.
 
+## D39 — Words settled from Pss 37–38 — Claude, for review
+
+The readers for these two psalms were Claude Opus in a fresh context, not Codex (out of credits; `method.md` says so); their files name the model.
+
+- ***illúsio → escárnio*** (37:8; 78:4). The cognate *ilusões* drew a Latinist major and all three readers heard fantasies; ἐμπαιγμός is mockery. Whether *derísum* (43:14) must stay apart from it is left to Ps 43.
+- ***lumbi → lombos*** (37:8), ***cicatrix → cicatriz*** (37:6): the organ and the scar the Latin names stay (concrete images, rule 5); *entranhas* and *chagas* stay options.
+- ***redargútio → repreensão*** (37:15): the noun of ἐλέγχω, echoing 37:2's *repreender* (D21) in the same psalm.
+- ***detráhere → difamar*** (37:21; five more places): *caluniar* is kept for *calumniári*.
+- ***magna loqui → falar grandezas***, kept. The stylist's *grandes coisas* is plainer, but neither wording carries boasting any better than the other, and the change would redraft 11:4 and 34:26b for a gain I cannot hear. It stays an option.
+- ***substántia* (a person's being) → *o meu ser*** (38:6, 38:8); property (108:11) and footing (68:3) are decided where they occur.
+- ***consístere advérsum → erguer-se contra*** (38:2b); ***in imágine → como uma imagem*** (38:7), held against two Latinist minors: *em imagem* is not a Portuguese sentence.
+- ***refrigeráre* (passive) → *ser reanimado*** (38:14); ***esse* absolute → *existir*** (38:14 *e já não existirei*; *e já não serei* stays an option); ***obmutéscere → emudecer***.
+- By D15's Greek test: ***ádvena* (πάροικος) shares *forasteiro* with *íncola*** (38:13b), and ***plaga* (μάστιγες) shares *flagelo* with *flagéllum*** (38:10). *plaga* as a wound (63:8) is decided where it occurs.
+- ***exspectátio* as subject or predicate → *espera*** (38:8 *qual é a minha espera?*), which both the Latinist and the stylist asked for; 118:116's *ab exspectatióne* keeps *pelo que aguardo*. Cost: *espera* shares a root with *esperar* (D36's cost again).
+
+Cost of reversing: each is one glossary row and one decision in Ps 37 or 38.
+
+## D40 — *Inténde in adjutórium meum* — deferred to Gustavo
+
+37:23 reads ***Atendei em meu auxílio*** (D3's *atender* for *inténdere*, plus the phrase *em meu auxílio*). The stylist says *atender em* is not Portuguese and asks for *Acudi em meu auxílio*; the blind reader heard "come to my help" first; the Latinist passed it twice. I agree the construction is strained: *atender* wants an object or *a*. But *acudir* drops the verb of attending that D3 keeps parallel to *exaudíre*. This is not a word for one psalm. The same Latin, as *Deus, in adjutórium meum inténde*, opens every Hour (69:2), so the psalter's most-said line will say whatever is ruled here. **It needs Gustavo before Ps 69.** Until then 37:23 keeps the agent's wording, with *Acudi* as the option.
+
 ---
 
 ## How agents decide

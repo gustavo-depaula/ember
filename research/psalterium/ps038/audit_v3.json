@@ -1,0 +1,10 @@
+[
+  {"step": "latinist", "file": "critic/v2.latinist.json", "note": "Draft 2 — the gate, read by claude-opus-5-5 (fresh context; Codex out of credits). Clean of majors; four minors. «The translation is faithful and close. Tenses (exardéscet as future, congregábit), person, number and the Septuagintal readings (the spider, 'in imagine', 'substantia') are all kept.» Every draft-2 change passed except 38:3 and 38:9: se erguia, ardeu, pusestes em medida, Acumula tesouros, qual é a minha espera?, seja reanimado antes de partir.", "outcomes": [
+    {"verse": "38:3", "remark": "minor: *longe do* spatial, *bona* made abstract → 'e fiquei em silêncio quanto às coisas boas'", "outcome": "taken", "decision": "abonis", "reason": "His fix keeps the Latin's two readings open (D2) and the plural."},
+    {"verse": "38:7", "remark": "minor (repeated): *como* settles *in imágine* → 'o homem passa em imagem'", "outcome": "refused", "decision": "imagine", "reason": "Not a Portuguese sentence; held, his wording option 2."},
+    {"verse": "38:9", "remark": "minor: the dative lost → 'destes-me como afronta ao insensato'", "outcome": "refused", "decision": "dedisti", "reason": "*afronta ao insensato* is heard as an insult to the fool; the blind reader could not tell the direction with *para*; he had passed *para o* on draft 1. Option."},
+    {"verse": "38:14", "remark": "minor: *Perdoai-me* keeps only 'forgive' → 'Relevai-me'", "outcome": "option", "decision": "remitte", "reason": "*relevar alguém* is uncommon; 'relent' was already heard second by the blind reader. Option 2."}
+  ]},
+  {"step": "revision", "version": 3, "note": "ps038/revise_v3.py (draft 2 kept as prayed.v2.json): 38:3 *quanto às coisas boas* (the gate's fix, minor). One phrase changed, the gate's own wording, so no further gate was asked. Held against the gate (all minor): 38:7 *como uma imagem*, 38:9 *a afronta do insensato*, 38:14 *Perdoai-me* (*Relevai-me* added as option)."},
+  {"step": "checks", "note": "Draft 3: hard pass; 38:3 first colon +8 (accepted: three verbs and the gate's open wording). The Hetzenauer print read is skipped and owed."}
+]

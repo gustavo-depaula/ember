@@ -30,7 +30,7 @@ God is addressed as ***vós***, the old form of reverent address, not *tu*.
 
 An agent takes one psalm. It reads the Latin with everything above laid beside it, writes a **literal version** to be sure of the sense, and then a **first draft for praying**. Wherever there was a real choice — a word, an order, a tense — the draft records it as a *decision*: the chosen wording first, and every alternative it weighed with the reason it was set aside.
 
-Three **readers** then read the draft. They are a different model from the one that translated, and they are told nothing of how it was made:
+Three **readers** then read the draft. They are told nothing of how it was made. Through Ps 36 they were a different model from the one that translated (GPT via Codex, beside a Claude translator); from Ps 37 on, while Codex has no quota, the stylist — and any reader Codex cannot run — is a Claude model in a fresh context that sees only the draft. Each reader's file names the model that answered.
 
 - **The Latinist** reads the Latin and the Portuguese side by side and asks whether the Portuguese is faithful. Each objection is minor, major or critical, and comes with a fix.
 - **The stylist** reads the Portuguese alone and asks whether it can be prayed aloud: what is stiff, what is bookish, which is the worst line and which the best.
