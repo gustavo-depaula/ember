@@ -1,0 +1,1029 @@
+{
+  "psalm": 43,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "43:2": "Deus, com os nossos ouvidos ouvimos: * os nossos pais nos anunciaram:",
+    "43:2b": "a obra que {operatus} nos dias deles, * e nos dias antigos.",
+    "43:3": "A vossa mão exterminou as nações, e vós os plantastes: * afligistes os povos, e os expulsastes.",
+    "43:4": "Pois não possuíram a terra com a própria espada, * e o braço deles não os salvou:",
+    "43:4b": "mas a vossa direita, e o vosso braço, e {illuminatio} do vosso rosto: * porque {complacuisti} neles.",
+    "43:5": "{ipse} meu Rei e meu Deus: * que {mandas}.",
+    "43:6": "Em vós, com o chifre, {ventilabimus} os nossos inimigos: * e no vosso nome desprezaremos os que se levantam contra nós.",
+    "43:7": "Pois não esperarei no meu arco: * e a minha espada não me salvará.",
+    "43:8": "Pois vós nos salvastes dos que nos afligem: * e envergonhastes os que nos odeiam.",
+    "43:9": "Em Deus seremos louvados o dia todo: * e no vosso nome daremos graças para sempre.",
+    "43:10": "Mas agora nos repelistes e nos envergonhastes: * e não saireis, Deus, com {virtutibus}.",
+    "43:11": "Fizestes-nos voltar para trás {post} nossos inimigos: * e os que nos odeiam saqueavam para si.",
+    "43:12": "{dedisti} como ovelhas {escarum}: * e nos dispersastes entre as nações.",
+    "43:13": "Vendestes o vosso povo sem preço: * e não houve {multitudo} nas trocas deles.",
+    "43:14": "Fizestes de nós uma afronta para os nossos vizinhos, * zombaria e {derisum} para os que estão ao nosso redor.",
+    "43:15": "Fizestes de nós {similitudinem} para as nações: * {commotionem} entre os povos.",
+    "43:16": "O dia todo a minha {verecundia} está diante de mim, * e a vergonha da minha face me cobriu,",
+    "43:17": "à voz do que me afronta e {obloquentis}: * diante do inimigo e do que me persegue.",
+    "43:18": "Tudo isto veio sobre nós, e não vos esquecemos: * e não agimos iniquamente na vossa aliança.",
+    "43:19": "E o nosso coração {recessit}: * e {declinasti} as nossas veredas do vosso caminho:",
+    "43:20": "porque nos humilhastes no lugar da aflição, * e a sombra da morte nos cobriu.",
+    "43:21": "Se esquecemos o nome do nosso Deus, * e se estendemos as nossas mãos para um deus estranho:",
+    "43:22": "Não pedirá Deus contas disto? * pois ele conhece {abscondita} do coração.",
+    "43:22b": "Porque por vossa causa somos {mortificamur} o dia todo: * fomos tidos como ovelhas de matança.",
+    "43:23": "Levantai-vos, por que adormeceis, Senhor? * levantai-vos, e não nos repilais para sempre.",
+    "43:24": "Por que desviais a vossa face, * esqueceis a nossa carência e a nossa tribulação?",
+    "43:25": "Pois a nossa alma está humilhada no pó: * o nosso ventre está {conglutinatus} à terra.",
+    "43:26": "Levantai-vos, Senhor, auxiliai-nos: * e resgatai-nos por causa do vosso nome."
+  },
+  "decisions": [
+    {
+      "id": "operatus",
+      "refs": [
+        "43:2b"
+      ],
+      "latin": "Opus, quod operátus es",
+      "kind": "word",
+      "why": "The Latin echoes noun and verb of one root (ἔργον ὃ εἰργάσω, the same echo in the Greek). *operar* keeps it and is current in Brazilian Catholic speech of God's deeds (*Deus operou maravilhas*); *fizestes* (MS1932 *fizeste*, DRB 'wrought') loses the echo. The row *operári iniquitátem → praticar* is for evil-doing and is not touched.",
+      "options": [
+        {
+          "label": "operastes",
+          "forms": {
+            "operatus": "operastes"
+          },
+          "note": "Ruling: the Latin's echo kept.",
+          "from": "draft"
+        },
+        {
+          "label": "fizestes",
+          "forms": {
+            "operatus": "fizestes"
+          },
+          "note": "MS1932; plainer, echo lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "realizastes",
+          "forms": {
+            "operatus": "realizastes"
+          },
+          "note": "heavier, echo lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "illuminatio",
+      "refs": [
+        "43:4b"
+      ],
+      "latin": "et illuminátio vultus tui",
+      "kind": "glossary",
+      "why": "illuminátio → *luz* is the row (26:1 *O Senhor é a minha luz*, φωτισμός both there and here). The row itself notes that 43:4 might keep it apart from 4:7 *lumen vultus tui* (φῶς) → *a luz do vosso rosto* with *iluminação*; but *a iluminação do vosso rosto* is heard as lighting, and it would split illuminátio between 26:1 and here. So one row followed, and 4:7 and 43:4b now read alike in Portuguese where the Latin has two nouns (cost noted).",
+      "options": [
+        {
+          "label": "a luz",
+          "forms": {
+            "illuminatio": "a luz"
+          },
+          "note": "Ruling: the row (26:1); DRB 'the light', MS1932 *a luz*.",
+          "from": "glossary"
+        },
+        {
+          "label": "a iluminação",
+          "forms": {
+            "illuminatio": "a iluminação"
+          },
+          "note": "the cognate, kept apart from lumen (4:7); heard as lighting.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "complacuisti",
+      "refs": [
+        "43:4b"
+      ],
+      "latin": "quóniam complacuísti in eis",
+      "kind": "glossary",
+      "why": "complacére in (εὐδοκέω ἐν) → *achar prazer em*, the build ruled at 25:3 *complácui in veritáte tua* → *achei prazer na vossa verdade*, where *me comprazi* was bookish to the stylist and unknown to the blind reader. MS1932 *te comprazeste neles*.",
+      "options": [
+        {
+          "label": "achastes prazer",
+          "forms": {
+            "complacuisti": "achastes prazer"
+          },
+          "note": "Ruling: = 25:3.",
+          "from": "glossary"
+        },
+        {
+          "label": "vos comprouvestes",
+          "forms": {
+            "complacuisti": "vos comprouvestes"
+          },
+          "note": "MS1932's verb; bookish (25:3).",
+          "from": "MS1932"
+        },
+        {
+          "label": "vos agradastes",
+          "forms": {
+            "complacuisti": "vos agradastes"
+          },
+          "note": "DRB 'thou wast pleased with'; *agradar* is complacére's other row (18:15a), with another build.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "ipse",
+      "refs": [
+        "43:5"
+      ],
+      "latin": "Tu es ipse Rex meus et Deus meus",
+      "kind": "word",
+      "why": "*ipse* stresses the subject (σὺ εἶ αὐτός; DRB 'Thou art thyself'; MS1932 *Tu mesmo és*). *Vós mesmo* keeps it; the adjective is singular because one person is addressed with *vós* (as *vós sois bom*). *Rex meus et Deus meus* is a formula (5:3 *meu Rei e meu Deus*, vocative, no article) and here stands as predicate; kept identical. The one liturgical use found (the Redeemer's feast, aliquibus locis) quotes it with *qui mandas salútes in Jacob*.",
+      "options": [
+        {
+          "label": "Vós mesmo sois",
+          "forms": {
+            "ipse": "Vós mesmo sois"
+          },
+          "note": "Ruling; MS1932 *Tu mesmo és*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Sois vós",
+          "forms": {
+            "ipse": "Sois vós"
+          },
+          "note": "the stress by order instead of a word.",
+          "from": "draft"
+        },
+        {
+          "label": "Vós sois",
+          "forms": {
+            "ipse": "Vós sois"
+          },
+          "note": "ipse dropped.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mandas",
+      "refs": [
+        "43:5"
+      ],
+      "latin": "qui mandas salútes Jacob",
+      "kind": "glossary",
+      "why": "mandáre with a thing as object → *ordenar* (row: *mandar* alone is heard 'send', 118:138; 32:9 *ele ordenou*). salútes is plural in the Latin and the Greek (τὰς σωτηρίας), the deliverances of Jacob: D6's *salvação* in the plural, which Portuguese can say (unlike *sangues*, D29). MS1932 has the singular. Jacob → *Jacó* (13:7, 19:2).",
+      "options": [
+        {
+          "label": "ordenais as salvações de Jacó",
+          "forms": {
+            "mandas": "ordenais as salvações de Jacó"
+          },
+          "note": "Ruling: the row's verb, the Latin's number.",
+          "from": "glossary"
+        },
+        {
+          "label": "ordenais a salvação de Jacó",
+          "forms": {
+            "mandas": "ordenais a salvação de Jacó"
+          },
+          "note": "MS1932 *ordenas a salvação*; number lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "mandais as salvações de Jacó",
+          "forms": {
+            "mandas": "mandais as salvações de Jacó"
+          },
+          "note": "the cognate (41:9 *mandou a sua misericórdia*); heard 'send'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ventilabimus",
+      "refs": [
+        "43:6"
+      ],
+      "latin": "ventilábimus cornu",
+      "kind": "word",
+      "why": "ventiláre is 'to toss in the air, to winnow' (L&S); with *cornu* the image is a horned beast tossing its enemy (κερατιοῦμεν, 'we will butt'). *lançar ao ar* keeps the Latin's tossing; *derrubar* (DRB 'push down') is the Greek's butting without the air; *sacudir* keeps the toss, not the height. cornu → *chifre* (row). The colon is +3 syllables on the Latin. **v2:** the stylist (worst line) found *com o chifre* trailing after the object; the instrument moved forward (order yields, D2), and the colon ends on *inimigos*.",
+      "options": [
+        {
+          "label": "lançaremos ao ar",
+          "forms": {
+            "ventilabimus": "lançaremos ao ar"
+          },
+          "note": "Ruling: L&S 'toss in the air'.",
+          "from": "draft"
+        },
+        {
+          "label": "sacudiremos",
+          "forms": {
+            "ventilabimus": "sacudiremos"
+          },
+          "note": "shorter; the height lost.",
+          "from": "draft"
+        },
+        {
+          "label": "derrubaremos",
+          "forms": {
+            "ventilabimus": "derrubaremos"
+          },
+          "note": "DRB 'push down'; the Greek's butting; *derrubar* is supplantáre's (17:40).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "virtutibus",
+      "refs": [
+        "43:10"
+      ],
+      "latin": "in virtútibus nostris",
+      "kind": "glossary",
+      "why": "virtus → *poder* (row, open), and *Dóminus virtútum* → *o Senhor dos poderes* (23:10): the plural of δύναμις is the hosts. *exércitos* (DRB 'armies', MS1932) says the sense but is not the Latin's word — L&S gives no 'troops' for virtus; the sense comes from the Greek — and would break the row the twins will follow (59:12, 107:12 have the same colon, grep). *forças* is fortitúdo's word (17:2). Ruled for the row, as a test for the blind reader: if *os nossos poderes* is heard as 'our abilities', *exércitos* is the honest retreat for all three verses. **v2:** the test failed — the blind reader heard *poderes* as abstract, and the Latinist and the stylist both asked *forças* independently. Taken: the plural *forças* carries strength and armed forces at once, as the Latin plural does, without deciding for *exércitos*. Cost: *fortitúdo → força* (17:2) is the singular of the same word; the singular *virtus* (→ *poder*) and *Dóminus virtútum* (→ *Senhor dos poderes*) are untouched. 59:12b and 107:12b should copy *com as nossas forças*.",
+      "options": [
+        {
+          "label": "as nossas forças",
+          "forms": {
+            "virtutibus": "as nossas forças"
+          },
+          "note": "Ruling (v2): the Latinist and the stylist; *forças* is both strength and troops in Portuguese, as virtútes is.",
+          "from": "critic"
+        },
+        {
+          "label": "os nossos poderes",
+          "forms": {
+            "virtutibus": "os nossos poderes"
+          },
+          "note": "draft 1. the row; = *Senhor dos poderes*.",
+          "from": "glossary"
+        },
+        {
+          "label": "os nossos exércitos",
+          "forms": {
+            "virtutibus": "os nossos exércitos"
+          },
+          "note": "DRB, MS1932 (*à frente dos nossos exércitos*): the sense, not the word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "post",
+      "refs": [
+        "43:11"
+      ],
+      "latin": "Avertísti nos retrórsum post inimícos nostros",
+      "kind": "word",
+      "why": "avértere retrórsum → *voltar para trás* (row: one phrase under either verb, 34:4b), here causative: *Fizestes-nos voltar*. *post* is 'behind, after'; the Greek has παρά ('before, beside'). *atrás dos* beside *para trás* stacks two 'backs' and reads as following the enemy; *diante dos* gives the scene both the Latin and the Greek describe — a rout before the enemy (DRB 'turn our back to our enemies'). **v2:** the Latinist (minor) held *diante* to be the Greek bent against the Latin preposition (rule 1: the Latin governs). His *atrás dos* stacks *para trás, atrás*; *após* is the exact word for *post* and does not repeat *trás*.",
+      "options": [
+        {
+          "label": "após os",
+          "forms": {
+            "post": "após os"
+          },
+          "note": "Ruling (v2): the Latinist; *post* is *após*, and the Latin's openness (behind them, after them) is kept.",
+          "from": "critic"
+        },
+        {
+          "label": "diante dos",
+          "forms": {
+            "post": "diante dos"
+          },
+          "note": "draft 1. παρά; DRB's scene.",
+          "from": "draft"
+        },
+        {
+          "label": "atrás dos",
+          "forms": {
+            "post": "atrás dos"
+          },
+          "note": "the Latinist's fix; *para trás, atrás* stacks.",
+          "from": "critic"
+        }
+      ]
+    },
+    {
+      "id": "dedisti",
+      "refs": [
+        "43:12"
+      ],
+      "latin": "Dedísti nos tamquam oves escárum",
+      "kind": "word",
+      "why": "*dare* of persons is 'give up' (DRB 'given us up'); *Destes-nos* at the head of the verse is heard first as 'you gave us (something)'. *entregar* is tráder's verb (26:12), but the two do not meet here, and it is the plainer faithful word. *oves escárum*, 'sheep of foods' (πρόβατα βρώσεως), sheep meant to be eaten: *para comida* keeps the food without naming the slaughterhouse, which is 43:22b's *occisiónis* (MS1932 puts *matadouro* in both).",
+      "options": [
+        {
+          "label": "Entregastes-nos … para comida",
+          "forms": {
+            "dedisti": "Entregastes-nos",
+            "escarum": "para comida"
+          },
+          "note": "Ruling.",
+          "from": "DRB"
+        },
+        {
+          "label": "Destes-nos … para comida",
+          "forms": {
+            "dedisti": "Destes-nos",
+            "escarum": "para comida"
+          },
+          "note": "the Latin's verb; heard 'gave us' first.",
+          "from": "draft"
+        },
+        {
+          "label": "Entregastes-nos … para o matadouro",
+          "forms": {
+            "dedisti": "Entregastes-nos",
+            "escarum": "para o matadouro"
+          },
+          "note": "MS1932; merges 43:12 with 43:22b.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "multitudo",
+      "refs": [
+        "43:13"
+      ],
+      "latin": "et non fuit multitúdo in commutatiónibus eórum",
+      "kind": "ambiguity",
+      "why": "multitúdo → *multidão* (row, 5:7b, 30:20). The Latin is open: no great sum was had in their sale (DRB 'no reckoning'), or no crowd of buyers (MS1932 *não houve concorrência no seu mercado*). *multidão* keeps both; *abundância* is abundántia's word and closes the reading to money. commutátio → *troca*.",
+      "options": [
+        {
+          "label": "multidão",
+          "forms": {
+            "multitudo": "multidão"
+          },
+          "note": "Ruling: the row; the ambiguity kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "abundância",
+          "forms": {
+            "multitudo": "abundância"
+          },
+          "note": "abundántia's word; closes the reading.",
+          "from": "draft"
+        },
+        {
+          "label": "concorrência",
+          "forms": {
+            "multitudo": "concorrência"
+          },
+          "note": "MS1932; the crowd-of-buyers reading, decided.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "derisum",
+      "refs": [
+        "43:14"
+      ],
+      "latin": "subsannatiónem et derísum",
+      "kind": "glossary",
+      "why": "D39 left this to Ps 43: must *derísum* stay apart from *illúsio → escárnio*? Ruled: **yes**. 78:4 is this verse's near-twin (*oppróbrium vicínis nostris: subsannátio et illúsio his, qui in circúitu nostro sunt*) and varies exactly this one word — and so does the Greek (43:14 καταγέλωτα, 78:4 χλευασμός; read in the Rahlfs text). D15's test keeps a variation the Greek also makes. *riso* is the Latin's own root (*de-rídeo*; *irridére → rir de*, 2:4, 24:3) and the Greek's (κατα-γέλως, laughter-at), and after *afronta* and *zombaria* it is heard as being laughed at. subsannátio → *zombaria* (34:16). Cost: *escarnecer* (derídere, 21:8) and *riso* are not one family in Portuguese.",
+      "options": [
+        {
+          "label": "riso",
+          "forms": {
+            "derisum": "riso"
+          },
+          "note": "Ruling: kept apart from illúsio (D39), the root of rídeo and γέλως.",
+          "from": "draft"
+        },
+        {
+          "label": "escárnio",
+          "forms": {
+            "derisum": "escárnio"
+          },
+          "note": "the noun of derídere → escarnecer (21:8); merges 43:14 with 78:4 where the Latin and Greek differ.",
+          "from": "MS1932"
+        },
+        {
+          "label": "irrisão",
+          "forms": {
+            "derisum": "irrisão"
+          },
+          "note": "exact, of the same root; likely unknown to the ear.",
+          "from": "draft"
+        },
+        {
+          "label": "chacota",
+          "forms": {
+            "derisum": "chacota"
+          },
+          "note": "the Brazilian word for a laughing-stock; colloquial.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "similitudinem",
+      "refs": [
+        "43:15"
+      ],
+      "latin": "Posuísti nos in similitúdinem géntibus",
+      "kind": "word",
+      "why": "similitúdo here is παραβολή: a comparison, what people liken things to — a byword. *comparação* is a sense of the Latin word (L&S 'comparison, simile'); *semelhança* (the cognate, 57:5, 105:20 'likeness') makes no sentence here; *parábola* names the Greek; *fábula* (MS1932) is a story. *Posuísti nos* opens 43:14 and 43:15 alike and is *Fizestes de nós* both times (the pónere + predicate row), so the anaphora stays. **v2:** the stylist found *fazer de nós uma comparação* unidiomatic; *termo de comparação* is the Portuguese phrase and keeps the Latin noun. The ambiguity reader heard it as an example, not a byword — the mocking is carried by 43:15b.",
+      "options": [
+        {
+          "label": "um termo de comparação",
+          "forms": {
+            "similitudinem": "um termo de comparação"
+          },
+          "note": "Ruling (v2): the stylist; the idiom for what things are compared to.",
+          "from": "critic"
+        },
+        {
+          "label": "uma comparação",
+          "forms": {
+            "similitudinem": "uma comparação"
+          },
+          "note": "draft 1. ",
+          "from": "draft"
+        },
+        {
+          "label": "uma parábola",
+          "forms": {
+            "similitudinem": "uma parábola"
+          },
+          "note": "the Greek's word; known from the Gospels.",
+          "from": "draft"
+        },
+        {
+          "label": "uma fábula",
+          "forms": {
+            "similitudinem": "uma fábula"
+          },
+          "note": "MS1932 *fábula das nações*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "commotionem",
+      "refs": [
+        "43:15"
+      ],
+      "latin": "commotiónem cápitis in pópulis",
+      "kind": "word",
+      "why": "The shaking of the head in scorn (κίνησιν κεφαλῆς). commovére is *abalar* in the psalter (15:8, 20:8), which cannot take a head; 21:8 *movérunt caput → moveram a cabeça* is another verb. *meneio de cabeça* is the Portuguese noun for the gesture; *balançar de cabeça* is plainer but is also a nod. **v2:** the blind reader listed *meneio* as unknown and heard the gesture unclearly; *abanar a cabeça* is the everyday phrase for the sideways shake, not a nod.",
+      "options": [
+        {
+          "label": "um abanar de cabeça",
+          "forms": {
+            "commotionem": "um abanar de cabeça"
+          },
+          "note": "Ruling (v2): *abanar a cabeça* is the Brazilian gesture of shaking the head; *meneio* was unknown to the blind reader.",
+          "from": "critic"
+        },
+        {
+          "label": "um meneio de cabeça",
+          "forms": {
+            "commotionem": "um meneio de cabeça"
+          },
+          "note": "draft 1. ",
+          "from": "draft"
+        },
+        {
+          "label": "um balançar de cabeça",
+          "forms": {
+            "commotionem": "um balançar de cabeça"
+          },
+          "note": "plainer; also a nod.",
+          "from": "draft"
+        },
+        {
+          "label": "um mover de cabeça",
+          "forms": {
+            "commotionem": "um mover de cabeça"
+          },
+          "note": "echoes 21:8, which is movére.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "verecundia",
+      "refs": [
+        "43:16"
+      ],
+      "latin": "verecúndia mea … et confúsio faciéi meæ",
+      "kind": "glossary",
+      "why": "Two nouns of shame in one verse: *confúsio* → *vergonha* (34:26b, 39:16, settled D41), so *verecúndia* needs another. The Greek pair is ἐντροπή … αἰσχύνη, the same pair as 34:26b *confusióne et reveréntia* (αἰσχύνην καὶ ἐντροπήν) → *vergonha e desonra*: ἐντροπή is *desonra* there, so it is *desonra* here. *contra me* is κατεναντίον μου, 'facing me': *diante de mim* (DRB 'before me'); *contra mim* is heard as 'against me'.",
+      "options": [
+        {
+          "label": "desonra",
+          "forms": {
+            "verecundia": "desonra"
+          },
+          "note": "Ruling: ἐντροπή as at 34:26b.",
+          "from": "glossary"
+        },
+        {
+          "label": "ignomínia",
+          "forms": {
+            "verecundia": "ignomínia"
+          },
+          "note": "MS1932; bookish.",
+          "from": "MS1932"
+        },
+        {
+          "label": "humilhação",
+          "forms": {
+            "verecundia": "humilhação"
+          },
+          "note": "humílitas's word (row).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "obloquentis",
+      "refs": [
+        "43:17"
+      ],
+      "latin": "A voce exprobrántis, et obloquéntis",
+      "kind": "word",
+      "why": "exprobráre → *afrontar* (row; 41:11 *afrontaram-me*). obloqui, 'to speak against, rail at' (L&S, which cites this verse as 'blame, condemn'; παραλαλέω). Once in the psalter (grep). *insultar* is the plain word and free; *difamar* is detráhere's (D41), *censura* vituperátio's (30:13). The object *me* is supplied for both participles (Portuguese *afrontar* wants one; MS1932 *do que me afronta e vitupera*); one article for both, as DRB 'of him that reproacheth and detracteth me' — the Latin does not say whether they are one man or two. **v2:** the Latinist (minor) found the two participles fused into one person while 43:17b keeps two; the article is now repeated (*do que me afronta e do que me insulta*), parallel to *do inimigo e do que me persegue*. His other point, dropping the supplied *me* in all four, is held: *afrontar* and *perseguir* want an object in Portuguese and the psalm is in the first person (grammar, D2); *do que persegue* hangs.",
+      "options": [
+        {
+          "label": "do que me insulta",
+          "forms": {
+            "obloquentis": "do que me insulta"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "fala contra mim",
+          "forms": {
+            "obloquentis": "do que fala contra mim"
+          },
+          "note": "the root of ob-loqui and of the Greek; longer.",
+          "from": "draft"
+        },
+        {
+          "label": "me vitupera",
+          "forms": {
+            "obloquentis": "do que me vitupera"
+          },
+          "note": "MS1932; bookish.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "recessit",
+      "refs": [
+        "43:19"
+      ],
+      "latin": "Et non recéssit retro cor nostrum",
+      "kind": "word",
+      "why": "recédere → *retirar-se* (9:22 *vos retirastes para longe*); *retro* → *para trás*. *voltou atrás* is the idiom, but *voltar para trás* is the avértere / convértere retrórsum phrase (row) and this is another verb (ἀπέστη).",
+      "options": [
+        {
+          "label": "não se retirou para trás",
+          "forms": {
+            "recessit": "não se retirou para trás"
+          },
+          "note": "Ruling: 9:22's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "não voltou atrás",
+          "forms": {
+            "recessit": "não voltou atrás"
+          },
+          "note": "the idiom (MS1932 *não tornou atrás*); the retrórsum phrase's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "declinasti",
+      "refs": [
+        "43:19"
+      ],
+      "latin": "et declinásti sémitas nostras a via tua",
+      "kind": "ambiguity",
+      "why": "The Latin says it positively, as the Greek does (καὶ ἐξέκλινας): 'and you turned our paths aside from your way'. DRB ('neither hast thou') and MS1932 (*nem tu desviaste*) carry the negative of the first colon over — the Hebrew's sense. Rule 1: the Latin as it stands; the hard statement is kept, and the next verse (*porque nos humilhastes*) follows from it. declináre transitive → *apartar* (the verb of declináre a → *apartar-se*, row); *desviar* is avértere's. sémita → *vereda* (D15).",
+      "options": [
+        {
+          "label": "apartastes",
+          "forms": {
+            "declinasti": "apartastes"
+          },
+          "note": "Ruling: the Latin's positive statement.",
+          "from": "draft"
+        },
+        {
+          "label": "não apartastes",
+          "forms": {
+            "declinasti": "não apartastes"
+          },
+          "note": "DRB, MS1932: the negative carried over; not in the Latin.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "abscondita",
+      "refs": [
+        "43:22"
+      ],
+      "latin": "ipse enim novit abscóndita cordis",
+      "kind": "glossary",
+      "why": "The row *abscóndita* (God's, 16:14b) is *coisas escondidas* and names 43:22 as wanting *segredos* for the heart's. *os segredos do coração* is the plainer faithful word (DRB 'the secrets', MS1932 *os segredos*); the root of *esconder* is lost.",
+      "options": [
+        {
+          "label": "os segredos",
+          "forms": {
+            "abscondita": "os segredos"
+          },
+          "note": "Ruling, as the row foresaw.",
+          "from": "glossary"
+        },
+        {
+          "label": "as coisas escondidas",
+          "forms": {
+            "abscondita": "as coisas escondidas"
+          },
+          "note": "16:14b's form; keeps the root.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "mortificamur",
+      "refs": [
+        "43:22b"
+      ],
+      "latin": "Quóniam propter te mortificámur tota die",
+      "kind": "glossary",
+      "why": "mortificáre → *dar a morte* (row, 36:32; *mortificar* is ascetic self-denial). The passive is *somos entregues à morte* (MS1932 *somos entregues à morte*). The verse is Rom 8:36 word for word in the Clementine (*Quia propter te mortificamur tota die: aestimati sumus sicut oves occisionis*, fetched to consult/bolls-VULG-45-8.json) and must read alone. *somos mortos* is shorter and exact (DRB 'we are killed') but is heard first as 'we are dead'. *propter te* → *por vossa causa*; commas break the stutter *Porque por*. **v2:** the stylist asked the first colon in one breath; the commas are dropped (*Porque por vossa causa*). æstimári → *ter por*: *fomos tidos como* (stylist; *considerados* was bureaucratic to him), and *ovelhas de matança* keeps the Latin genitive (*oves occisiónis*).",
+      "options": [
+        {
+          "label": "entregues à morte",
+          "forms": {
+            "mortificamur": "entregues à morte"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "mortos",
+          "forms": {
+            "mortificamur": "mortos"
+          },
+          "note": "DRB 'killed'; the Latin's length; heard 'dead'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "conglutinatus",
+      "refs": [
+        "43:25"
+      ],
+      "latin": "conglutinátus est in terra venter noster",
+      "kind": "glossary",
+      "why": "conglutináre ('glue fast', once in the psalter) is ἐκολλήθη — the Greek verb of adhærére at 21:16 *a minha língua se colou*, where the adhærére row gave *colar-se* for a body part sticking. One Greek, one Portuguese: *colado*. The Latin's *in terra* is where it sticks; Portuguese says *colado à terra*. venter → *ventre* (row). The Sexagesima Introit verse quotes it with *adhǽsit* (missa Quadp2-0) — the same Portuguese serves.",
+      "options": [
+        {
+          "label": "colado",
+          "forms": {
+            "conglutinatus": "colado"
+          },
+          "note": "Ruling: = 21:16's κολλάω.",
+          "from": "glossary"
+        },
+        {
+          "label": "grudado",
+          "forms": {
+            "conglutinatus": "grudado"
+          },
+          "note": "the glue of con-glutin-; colloquial.",
+          "from": "draft"
+        },
+        {
+          "label": "pegado",
+          "forms": {
+            "conglutinatus": "pegado"
+          },
+          "note": "MS1932 *pegado à terra*.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "43:2": "The vocative *Deus* without *ó* (the Latin has none). áuribus … audívimus kept as the Latin has it (*com os nossos ouvidos ouvimos*). annuntiáre → *anunciar* (D41); its object is 43:2b, so the verse ends on a colon. Used alone as the Sexagesima Introit verse and at Candlemas (missa Quadp2-0, Sancti/02-02); it reads alone.",
+    "43:2b": "Opus is the object of 43:2's *anunciaram*; DO starts it with a capital after a full stop, Portuguese needs it joined (lower case after 43:2's colon). *in diébus eórum* → *nos dias deles* (*seus* is ambiguous beside *vós*).",
+    "43:3": "dispérdere → *exterminar* (row), afflígere → *afligir* (row), expéllere → *expulsar* (row, 43:3 named). *plantásti eos* keeps the image (MS1932 *estabeleceste … em seu lugar* explains); *eos* is the fathers, unnamed as in the Latin. v2: *e vós os plantastes* (stylist) marks the change of subject from *a vossa mão*; the ambiguity reader had heard the nations planted. The rhyme *plantastes … expulsastes* is the Latin's parallel (plantásti … expulísti); held.",
+    "43:4": "*enim* → *pois* (row). *in gládio suo … brácchium eórum*: the Latin's own change of pronoun kept (*suo* reflexive → *a própria espada* in v2, the stylist: *sua* could be heard as God's; then *o braço deles*). possidére → *possuir* (MS1932's *conquistaram* is the Hebrew's sense). *et … non* kept as *e … não*.",
+    "43:4b": "déxtera → *a direita* (row).",
+    "43:6": "*In te … in nómine tuo* → *Em vós … no vosso nome*, the Latin's preposition kept both times (DRB *Through thee*). spérnere → *desprezar*, insúrgere in → *levantar-se contra* (rows; 43:6 named).",
+    "43:7": "speráre in → *esperar em* (D36). gládius → *espada*, arcus → *arco* (7:13, 36:14).",
+    "43:8": "The subject *vós* supplied after 43:7's first person. confúndere (active) → *envergonhar* (D15; 13:6 *vós envergonhastes*). *affligéntibus* present, as *os que me atribulam*.",
+    "43:9": "laudári → *ser louvado* (row, 33:3: the Latin's passive; MS1932 *nos gloriaremos* is the Hebrew's). tota die → *o dia todo* (D24). confitéri → *dar graças* (D5); in sǽculum → *para sempre* (D23). The Alleluia verse of Pent23 (missa) has *in sǽcula*; the psalm keeps its own.",
+    "43:10": "*Nunc autem* → *Mas agora*. repéllere (without *a*) → *repelir* (row, 42:2; 43:10 named). egrediéris is a future → *saireis*. The same colon is 59:12 and 107:12 (*exíbis*): they should copy it (*com as nossas forças*, v2).",
+    "43:11": "*odérunt* has present sense (24:19 *me odeiam*); *diripiébant* imperfect → *saqueavam* (new row diripere).",
+    "43:12": "dispérgere → *dispersar* (row); the natural order.",
+    "43:13": "*sine prétio* → *sem preço*.",
+    "43:14": "pónere + predicate → *fazer de* (row, 17:12). oppróbrium → *afronta* (row; 30:12 *tornei-me uma afronta … para os meus vizinhos*). in circúitu → *ao redor* (row); *nostro* → *ao nosso redor*.",
+    "43:15": "géntibus → *para as nações* (dative, as 43:14 *vicínis*); *in pópulis* → *entre os povos*.",
+    "43:16": "fácies → *face* (vultus is *rosto*). coopéríre → *cobrir*, the same verb as 43:20, kept one. The verse runs on into 43:17 (the cause of the shame), so it ends on a comma.",
+    "43:17": "*a fácie* of a cause → *diante de* (row, 37:4), so *a fácie inimíci* → *diante do inimigo*. *a voce* → *à voz de* (MS1932). pérsequi → *perseguir*.",
+    "43:18": "*Hæc ómnia* → *Tudo isto*. *nec* → *e não*, as the Latin (MS1932 *e, ainda assim*, explains). *iníque ágere* → *agir iniquamente* (118:86 *iniquamente*). testaméntum → *aliança* (row; 43:18 named); *in* kept as *na*.",
+    "43:20": "humiliáre → *humilhar* (row). afflíctio → *aflição*. *umbra mortis* → *a sombra da morte*.",
+    "43:21": "oblivísci → *esquecer*, direct object (row). aliénus → *estranho* (row). expándere → *estender*.",
+    "43:22": "requírere (God, of sin) → *pedir contas* (row; 9:34 *Não pedirá contas*). *Nonne* is a question that expects yes; *Não pedirá Deus…?* does that. *ista* → *disto*. novit → *conhece* (row).",
+    "43:22b": "æstimári → *ser tido* (v2, the stylist; draft 1 *considerados*, MS1932). occísio → *matança*; *ovelhas de matança* keeps the genitive (v2; draft 1 *para a matança*). Rom 8:36 = this verse (see `mortificamur`).",
+    "43:23": "Exsúrge → *Levantai-vos* (row), twice as the Latin. obdormíre → *adormecer* (row, which names 43:23). *ne repéllas* has no object in the Latin; *repelir* needs one, so *nos* is supplied (DRB 'cast us not off'). in finem → *para sempre* (D27, perpetuity). The Sexagesima Introit (missa Quadp2-0) is 43:23–24 and 25b.",
+    "43:24": "avértere fáciem → *desviar a face* (row, 12:1). *oblivísceris* is a present (the accent; the oblivísci row names 43:24) → *esqueceis*. The Latin has no *et* before it; the asyndeton is kept. inópia → *carência*, of the family of D38's *carente* (inops); tribulátio → *tribulação* (row).",
+    "43:25": "*humiliáta est … conglutinátus est* as states (*está humilhada … está colado*). *in púlvere* → *no pó*. v2: *Quóniam* → *Pois* (draft 1 *Porque*), which the ambiguity reader heard as *por que* after the two questions of 43:23–24 — the same mend as Ps 42:2.",
+    "43:26": "adjuváre → *auxiliar* (row), redímere → *resgatar* (row; *resgatai-nos* safe). *propter nomen tuum* → *por causa do vosso nome* (24:11, 30:4). The Litany and Candlemas antiphon (*Exsúrge, Dómine, ádjuva nos, et líbera nos propter nomen tuum*) has another verb in its second half; the psalm keeps its own."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm43.txt, 28 prayed verses (43:2–43:26 with 2b, 4b, 22b; no titulus, D7). One mediant per verse, no flex. Uses (ps032/uses.py): 43:2 Introit verse at Sexagesima and Candlemas; 43:23–26 the Sexagesima Introit; 43:26 the Rogation/Candlemas antiphon (with *líbera*); 43:9 the Pent23 Alleluia (with *in sǽcula*); 43:22b = Rom 8:36 (Clementine fetched, word for word). 43:14 is the near-twin of 78:4; 43:10b the twin of 59:12b and 107:12b."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps043.md (Latin, LXX, WLC, DRB, MS1932; no DM1962 — not a day-hour psalm). DO's Portuguese not used (D12). Rulings applied: D5, D15 (confúndere), D23, D24, D27 (in finem), D36, D38 (inópia → carência, of *carente*), D41 (annuntiáre, confúsio → vergonha). Rows applied: dispérdere, afflígere, expéllere, déxtera, illuminátio, complacére in (25:3), Rex meus et Deus meus, mandáre (thing object → ordenar), cornu, spérnere, insúrgere, laudári, repéllere, retrórsum, dispérgere, multitúdo, pónere + predicate, oppróbrium, subsannátio (34:16), in circúitu, a fácie (37:4), testaméntum, sémita, humiliáre, aliénus, requírere, abscóndita, mortificáre, exsúrgere, obdormíre, avértere fáciem, oblivísci, adjuváre, redímere. D39's open question ruled: derísum → *riso*, apart from illúsio → escárnio (decision `derisum`). Latin kept against DRB/MS1932: 43:19 *apartastes* positive; 43:9 passive *seremos louvados*; 43:5 plural *salvações*."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (after fixing a doubled article at 43:11 *diante dos os*). Length: +5 at 43:6a (*lançaremos ao ar* for ventilábimus, see `ventilabimus`), 43:19a (*não se retirou para trás*, four Latin words), 43:22b first colon (*entregues à morte* for one verb; Rom 8:36 must read alone); +4 at 43:11a, 43:12a, 43:14a; −7 at 43:13b (commutatiónibus is one long word); −4 at 43:10b; ±3 elsewhere — accepted, each the Latin's content. Rhyme 43:3 *plantastes … expulsastes*: the Latin's own parallel (plantásti … expulísti), the vós preterite; kept. Oxytone finals where the Latin is paroxytone (43:4b, 43:5, 43:14b, 43:20a, 43:24b, 43:25a …): *nós*, *Jacó*, *redor*, *aflição*, *tribulação*, *pó* — the Latin's words at the cadence; allowed by rule 4."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits). The coordinator ran the three readers on draft 1 as fresh-context agents: claude-opus-5-5 (fresh context)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context). Six minors, no major. Taken: 43:10 *forças*, 43:11 *post* (as *após*), 43:17 two persons. Held: 43:4b *luz* (row), 43:22 *pedir contas* (row), 43:23 the supplied *nos* (grammar). The Septuagintal features (ventilábimus, the positive *declinásti*, multitúdo, conglutinátus) approved.",
+      "outcomes": [
+        {
+          "verse": "43:4b",
+          "remark": "illuminátio flattened to *luz*; wants *iluminação*",
+          "outcome": "option",
+          "decision": "illuminatio",
+          "reason": "the illuminátio row (26:1 *minha luz*, the same φωτισμός); *iluminação do rosto* is heard as lighting"
+        },
+        {
+          "verse": "43:10",
+          "remark": "*poderes* abstract; *forças* keeps plural and military sense",
+          "outcome": "taken",
+          "decision": "virtutibus"
+        },
+        {
+          "verse": "43:11",
+          "remark": "*post* is 'behind', *diante* follows the Hebrew",
+          "outcome": "taken",
+          "decision": "post",
+          "reason": "taken as *após* (not his *atrás*, which stacks with *para trás*)"
+        },
+        {
+          "verse": "43:17",
+          "remark": "two participles fused into one person; the supplied *me*",
+          "outcome": "taken",
+          "decision": "obloquentis",
+          "reason": "the article repeated (two persons, parallel to 43:17b); the supplied *me* held as grammar — *afrontar* and *perseguir* want an object"
+        },
+        {
+          "verse": "43:22",
+          "remark": "*pedir contas* narrows requíret ('search out')",
+          "outcome": "refused",
+          "reason": "the requírere row (9:34 *Não pedirá contas*), where God requires sin; DRB 'search out' is the option there"
+        },
+        {
+          "verse": "43:23",
+          "remark": "*nos* supplied after *repilais*",
+          "outcome": "refused",
+          "reason": "*repelir* wants an object in Portuguese (grammar, D2); DRB 'cast us not off'; the object is the *nos* of 43:10 and 43:24"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context). Worst line 43:6, best 43:25. Twelve remarks: seven taken (43:3 *vós*, 43:4 *própria*, 43:6 order, 43:10 *forças*, 43:15 *termo de comparação*, 43:22b one breath and *tidos … de matança*); held on rows (43:4b, 43:18, 43:19, 43:24, 43:26) and 43:5.",
+      "outcomes": [
+        {
+          "verse": "43:3",
+          "remark": "subject change unmarked; *e vós os plantastes*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "43:3",
+          "remark": "rhyme *plantastes … expulsastes*",
+          "outcome": "refused",
+          "reason": "the Latin's own parallel (plantásti … expulísti), the vós preterite"
+        },
+        {
+          "verse": "43:4",
+          "remark": "*sua* heard as God's; *a própria espada*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "43:4b",
+          "remark": "*achar prazer* colloquial; *vos agradastes deles*",
+          "outcome": "option",
+          "decision": "complacuisti",
+          "reason": "complacére in → *achar prazer em* is the 25:3 ruling"
+        },
+        {
+          "verse": "43:5",
+          "remark": "bare *que* after the mark; *vós que ordenais*",
+          "outcome": "refused",
+          "reason": "the Latin's bare *qui*; the colon is already +3; *que* after a vocative-predicate is plain"
+        },
+        {
+          "verse": "43:6",
+          "remark": "*com o chifre* trails; move it forward",
+          "outcome": "taken",
+          "decision": "ventilabimus"
+        },
+        {
+          "verse": "43:10",
+          "remark": "*poderes* abstract; *forças*",
+          "outcome": "taken",
+          "decision": "virtutibus"
+        },
+        {
+          "verse": "43:15",
+          "remark": "*uma comparação* not idiomatic; *um termo de comparação*",
+          "outcome": "taken",
+          "decision": "similitudinem"
+        },
+        {
+          "verse": "43:18",
+          "remark": "*iniquamente* clogs; *com iniquidade*",
+          "outcome": "refused",
+          "reason": "*iniquidade* is iníquitas's noun; iníque ágere → *agir iniquamente* is the row (24:4)"
+        },
+        {
+          "verse": "43:19",
+          "remark": "*retirar-se para trás* pleonastic; *voltou atrás*",
+          "outcome": "option",
+          "decision": "recessit",
+          "reason": "the pleonasm is the Latin's (recéssit retro); *voltar para trás* is the retrórsum phrase"
+        },
+        {
+          "verse": "43:22b",
+          "remark": "commas break the colon; *considerados* bureaucratic; *tidos como ovelhas de matança*",
+          "outcome": "taken",
+          "decision": "mortificamur"
+        },
+        {
+          "verse": "43:24",
+          "remark": "*carência* clinical; *vos esqueceis da nossa pobreza*",
+          "outcome": "refused",
+          "reason": "D38 (inops → carente; inópia its noun); *pobre* is pauper's; oblivísci takes a direct object (row)"
+        },
+        {
+          "verse": "43:26",
+          "remark": "*auxiliai-nos* Latinate; *ajudai-nos*",
+          "outcome": "refused",
+          "reason": "the adjuváre row (auxílio / auxiliar one family; 69:2b *auxiliar-me*)"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context). Mends: 43:25 *Porque* heard as *por que* (→ *Pois*); 43:3 the nations heard as planted (→ *e vós os plantastes*); 43:10 *poderes* abstract (→ *forças*); *meneio* unknown (→ *abanar*). Kept as the Latin's: 43:13 *multidão*, 43:19 the positive *apartastes*, 43:6 the horn, 43:9 the passive. Unknown words: operastes, meneio, iniquamente (second time), veredas, apartastes.",
+      "outcomes": [
+        {
+          "verse": "43:25",
+          "remark": "*Porque* heard as *por que* after two questions",
+          "outcome": "taken"
+        },
+        {
+          "verse": "43:3",
+          "remark": "*os plantastes* heard as the nations",
+          "outcome": "taken",
+          "reason": "*e vós* marks the subject; *eos* stays unnamed as in the Latin"
+        },
+        {
+          "verse": "43:10",
+          "remark": "*poderes* heard abstract",
+          "outcome": "taken",
+          "decision": "virtutibus"
+        },
+        {
+          "verse": "43:15",
+          "remark": "*meneio* unknown; gesture unclear",
+          "outcome": "taken",
+          "decision": "commotionem"
+        },
+        {
+          "verse": "43:13",
+          "remark": "*multidão nas trocas* has no clear meaning",
+          "outcome": "option",
+          "decision": "multitudo",
+          "reason": "the Latin's openness (sum or crowd) kept on purpose"
+        },
+        {
+          "verse": "43:19",
+          "remark": "*apartastes* jars after the protestation",
+          "outcome": "option",
+          "decision": "declinasti",
+          "reason": "the Latin and Greek are positive; the negative is the Hebrew's"
+        },
+        {
+          "verse": "43:6",
+          "remark": "the horn image obscure",
+          "outcome": "refused",
+          "reason": "the Latin's image (cornu → chifre row); moving *com o chifre* forward makes the goring plainer"
+        },
+        {
+          "verse": "43:9",
+          "remark": "*seremos louvados* may be heard as 'we will praise'",
+          "outcome": "refused",
+          "reason": "the laudári row (33:3), the Latin's passive"
+        },
+        {
+          "verse": "43:2b",
+          "remark": "*operastes* unknown",
+          "outcome": "option",
+          "decision": "operatus",
+          "reason": "the opus/operári echo; *fizestes* is the option"
+        },
+        {
+          "verse": "43:18",
+          "remark": "*iniquamente* unknown (second time, after 24:4)",
+          "outcome": "refused",
+          "reason": "the iníqua ágere row; noted there for review"
+        },
+        {
+          "verse": "43:19",
+          "remark": "*veredas*, *apartastes* unknown",
+          "outcome": "refused",
+          "reason": "sémita → vereda (D15); declináre → apartar (row)"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 43:3 *e vós os plantastes*; 43:4 *a própria espada*; 43:6 *com o chifre* before the verb; 43:10 *com as nossas forças* (virtútes plural; the twins 59:12, 107:12 should copy it); 43:11 *após os* for *post*; 43:15 *um termo de comparação … um abanar de cabeça*; 43:17 *do que me afronta e do que me insulta*; 43:22b without commas, *fomos tidos como ovelhas de matança*; 43:25 *Pois*. Draft 1 kept in prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. New flags: 43:10b −5 (*forças*, two syllables fewer than *poderes*), 43:25a −4 (*Pois*), 43:15a +3, 43:17a +3 (the repeated article); accepted. Others as draft 1; 43:11a now +3."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate, claude-opus-5-5 (fresh context). No major. Five minors, all refused (three repeated from v1); every other draft-2 change passed (*forças*, *após*, *própria*, the repeated article at 43:17, *tidos … de matança*, *Pois*).",
+      "outcomes": [
+        {
+          "verse": "43:4b",
+          "remark": "*luz* flattens illuminátio; *iluminação*",
+          "outcome": "option",
+          "decision": "illuminatio",
+          "reason": "the illuminátio row (26:1); heard as lighting; asked twice, logged on the row"
+        },
+        {
+          "verse": "43:15",
+          "remark": "*termo de comparação* paraphrase; *semelhança*",
+          "outcome": "refused",
+          "reason": "*fazer de nós uma semelhança* makes no Portuguese sentence; *termo de comparação* is the idiom that keeps the noun (stylist, v1)"
+        },
+        {
+          "verse": "43:17",
+          "remark": "*me* supplied three times",
+          "outcome": "refused",
+          "reason": "*afrontar* and *perseguir* want an object; the psalm is in the first person (43:16 *minha*); grammar (D2)"
+        },
+        {
+          "verse": "43:22",
+          "remark": "*pedir contas* interprets requíret; plural *ista* → *disto*",
+          "outcome": "refused",
+          "reason": "the requírere row (9:34); *disto* is Portuguese's neuter for a plural of things, as *isto* for *hæc ómnia* at 43:18"
+        },
+        {
+          "verse": "43:23",
+          "remark": "*nos* supplied",
+          "outcome": "refused",
+          "reason": "*repelir* wants an object (grammar, D2); DRB 'cast us not off'"
+        }
+      ]
+    },
+    {
+      "step": "glossary",
+      "note": "New open rows: derísum (D39 ruled: kept apart, *riso*), virtútes nostræ (*forças*; 59:12, 107:12 should copy), ventiláre, diripere, commutátio, obloqui, verecúndia, similitúdo, commótio cápitis, conglutináre, post, operári (opus), æstimári, possidére; 3 formula rows (43:5, 43:26, 43:22b = Rom 8:36). Evidence added to 9 rows (illúsio, illuminátio, multitúdo, abscóndita, mortificáre, obdormíre, expéllere, virtus, inópia)."
+    }
+  ]
+}

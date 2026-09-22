@@ -397,6 +397,46 @@ Readers again fresh-context Claude Opus (as D39). The two psalms were made in pa
 
 Cost of reversing: each is one glossary row and one decision in Ps 41 or 42. The refrains are four verses and one.
 
+## D43 — Words settled from Pss 43–48 — Claude, for review
+
+Six agents worked in parallel (Gustavo's request). Readers were again fresh-context Claude Opus (as D39). Every psalm passed its checks and a Latinist gate with no major left standing.
+
+- ***Dóminus virtútum → o Senhor dos poderes*** (23:10, 45:8 = 45:12, 47:9; 16 lines). The Latin's *virtútes* (δυνάμεις) are powers, and *poder* is the *virtus* row's word. MS1932's and DRB's *dos exércitos* follow the Hebrew *Sabaoth*, the name Brazilian ears know. **Flagged for Gustavo:** this is his call before the formula spreads further, and every place is one decision.
+- **Ps 43:**
+  - ***derísum → riso***, kept apart from *illúsio → escárnio*. This answers D39's question: 78:4, the near-twin, has *illúsio*, and the Greek differs there too.
+  - ***virtútes nostræ → as nossas forças***; 59:12b and 107:12b copy it.
+  - ***æstimári → ser tido***, ***verecúndia → desonra*** (the Greek of *reveréntia*, so D15 joins them), ***obloqui → insultar***.
+  - ***similitúdo → termo de comparação*** and ***commótio cápitis → um abanar de cabeça***, the stylist's wordings from draft 2.
+  - ***post → após***; ***ventiláre → lançar ao ar***; ***diripere → saquear***; ***commutátio → troca*** (88:52 decides its own sense); ***conglutináre → colar***; ***operári (opus) → operar***.
+- **Ps 44:**
+  - ***The address is tu***, to both the king and the bride (rule 3; D17 left it to this psalm). That gives ***O teu trono, ó Deus*** in 44:7.
+  - ***diffúndere → derramar*** (the same Greek as *effúndere*), ***femur → coxa***, ***gutta → gota***, ***vestítus / vestiménta → veste / vestes***, ***várietas → cores variadas***, ***ab intus → de dentro***, ***consórtes → companheiros***, ***próspere → próspero***.
+  - ***spécies / pulchritúdo → formosura / beleza*** at 44:5a, while *spécies* alone stays *beleza* (46:5).
+  - 44:5a *inténde* → *atende* hangs on D40, so it stays with it.
+- **Ps 45:**
+  - ***vacáre → parar***, ***transférre → transportar***, ***sonáre → ressoar***, ***ímpetus → ímpeto***, ***inclináre → inclinar-se***.
+  - ***non commovébitur* with no subject → *não se abalará*** (no gendered participle, so the Latin's open subject stays open).
+  - 45:5b keeps *a sua tenda* (the *tabernáculum* row). **For Gustavo:** the Marian antiphon use would favour *o seu tabernáculo*.
+- **Ps 46:**
+  - ***jubiláre family → aclamar / aclamação***, which frees *júbilo* for *gáudium*. It covers 13 lines, including the Invitatory's *jubilémus* (94:1–2), so Ps 94 should re-hear it.
+  - ***plaudere mánibus → bater palmas***, ***terríbilis → terrível***, ***excélsus → excelso***, ***congregári → reunir-se***, ***subjícere → sujeitar***, ***sapiénter → sabiamente***.
+- **Ps 47:**
+  - ***aquilo → norte***, with ***látera Aquilónis → os lados do norte***.
+  - ***distribúere → partilhar***, because *distribuí* and *reparti* would also be heard as "I distributed" (rule 3).
+  - ***in sǽcula* alone → *pelos séculos***, kept apart from *in ætérnum → para sempre* (D23).
+  - ***secúndum … sic → Segundo … assim também***, ***admirári → admirar-se***, ***apprehéndere* (fear) → *apoderar-se de***, ***vehemens → impetuoso***, ***navis → navio***, ***complécti → abraçar***, ***progénies → geração***, ***hic est → este é***.
+- **Ps 48:**
+  - ***terrígenæ → nascidos da terra***, ***propósitio → o que proponho***, ***calcáneum → calcanhar*** (the crux left open), ***stultus → tolo***, ***depáscere → pastar***.
+  - ***interíre → morrer***, by D15's Greek test.
+  - ***non … ómnia → nada***, held against the Latinist twice.
+  - ***vocáre nómina in terris → chamaram os seus nomes nas suas terras***, the Latinist's major, taken.
+  - ***tibi* → *tu*** when God is not addressed in the psalm.
+  - **For Gustavo:** ***placátio → propiciação*** was unknown to the blind reader, and *o que o aplaque* is the plain option. **48:15b *a glória eórum → desde a glória deles***: the two Latinist runs contradicted each other (*desde* against *longe da*), so his ear decides.
+- The formulas and antiphon texts of 43:5, 43:22b, 43:26, 46:2, 46:6, 47:2, 47:10–11 and the 48:13 = 48:21 refrain are settled as written.
+- ***possidére*** stays open: it has many places to check first.
+
+Cost of reversing: each is one glossary row and one decision in its psalm; *Dóminus virtútum* is three psalms so far.
+
 ---
 
 ## How agents decide

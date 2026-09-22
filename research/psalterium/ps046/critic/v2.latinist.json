@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "6ec5de6ab41c415dd22fe4fa34f5e19c934a86161f2fc86fb29c6698d3a56c8b",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context)",
+  "at": "2026-09-22T18:39:47+00:00",
+  "reply": "{\"verses\": [{\"id\": \"46:6\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in júbilo\", \"portuguese\": \"entre aclamações\", \"problem\": \"Latin has a singular abstract-collective noun (a joyful shout, jubilation); the plural 'aclamações' changes number and shifts 'in' to 'entre'. Defensible as it echoes 'aclamai' (jubilate) in 46:2, but a singular is closer.\", \"fix\": \"Subiu Deus com júbilo: * e o Senhor, à voz da trombeta.\"}]}], \"overall\": \"A faithful, close rendering: the Septuagintal readings are kept (the future 'reinará', 'a beleza de Jacó', 'os deuses fortes da terra foram muito elevados', 'com o Deus de Abraão'), nothing is added or dropped, and every verse carries the single mediant '*' in the Latin's position. The only point is the pluralized 'aclamações' for 'in júbilo' in 46:6.\"}\n"
+}

@@ -1,0 +1,197 @@
+{
+  "psalm": 46,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "46:2": "Todas as nações, {plaudite}: * {jubilate} a Deus com voz de exultação.",
+    "46:3": "Porque o Senhor é excelso, {terribilis}: * grande Rei sobre toda a terra.",
+    "46:4": "{nobis4}: * e as nações {sub} nossos pés.",
+    "46:5": "Escolheu para nós a sua herança: * {speciem} de Jacó, que ele amou.",
+    "46:6": "Subiu Deus {jubilo}: * e o Senhor, {tubae}.",
+    "46:7": "{psallite1} ao nosso Deus, {psallite2}: * {psallite1b} ao nosso Rei, {psallite2b}.",
+    "46:8": "Porque Deus é o Rei de toda a terra: * entoai salmos {sapienter}.",
+    "46:9": "Deus reinará sobre as nações: * Deus {sedet} sobre o seu trono santo.",
+    "46:10": "Os príncipes dos povos {congregati} com o Deus de Abraão: * porque os {dii} da terra {elevati}."
+  },
+  "decisions": [
+    {
+      "id": "plaudite",
+      "refs": ["46:2"],
+      "latin": "pláudite mánibus",
+      "kind": "word",
+      "why": "plaudere mánibus is to clap with the hands (κροτήσατε χεῖρας; DRB 'clap your hands'). *Bater palmas* is how Portuguese says it, and the palms are the hands — the image is kept, the idiom not doubled. The cognate *aplaudi* is a bare -ir imperative that equals 'I applauded' (rule 3), and *aplaudir* now means approval rather than the clapping itself. *Batei* (-er) is not a past form (*bati*).",
+      "options": [
+        {"label": "batei palmas", "forms": {"plaudite": "batei palmas"}, "note": "Ruling; MS1932 *dai … palmas*, DM1962 *batei palmas*.", "from": "DM1962"},
+        {"label": "batei palmas com as mãos", "forms": {"plaudite": "batei palmas com as mãos"}, "note": "names *mánibus* as a separate word; redundant in Portuguese.", "from": "draft"},
+        {"label": "aplaudi com as mãos", "forms": {"plaudite": "aplaudi com as mãos"}, "note": "the literal tier; refused — bare -ir imperative = 'I applauded' (rule 3).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "jubilate",
+      "refs": ["46:2"],
+      "latin": "jubiláte Deo (and 46:6 in júbilo)",
+      "kind": "glossary",
+      "why": "jubiláre / júbilus / jubilátio is one Latin family (13 lines by grep: 46:2, 46:6, 65:1, 80:2, 88:15, 94:1–2 — the Invitatory —, 97:4, 97:6, 99:2a, 150:5) and in 46:2 and 46:6 one Greek family (ἀλαλάξατε, ἐν ἀλαλαγμῷ): the shout raised to a king. The Portuguese pair that keeps the root through verb and noun is *aclamar / aclamação*; and 32:3 already has *com aclamação* for *in vociferatióne*, which is ἐν ἀλαλαγμῷ too (D15's test). The cognates fail: *jubilai* is heard in Brazil as 'retire' (or, in universities, 'be expelled'), and *júbilo* is proposed by the open gáudium row (20:7, 29:12), which names 46:6 as the collision — giving the jubil- family *aclamar* leaves *júbilo* to gáudium. *exultar* is exsultáre's, and stands in the same verse (*in voce exsultatiónis*). MS1932 *celebrai*, DRB 'shout unto', DM1962 *aclamai*. Proposed as an open row.",
+      "options": [
+        {"label": "aclamai", "forms": {"jubilate": "aclamai"}, "note": "Ruling; DM1962 *aclamai a Deus*; with `jubilo` *entre aclamações* the root is kept in both verses.", "from": "DM1962"},
+        {"label": "jubilai", "forms": {"jubilate": "jubilai"}, "note": "the cognate; *jubilar* is 'retire / be expelled' in Brazil. Goes with *em júbilo* in `jubilo`.", "from": "draft"},
+        {"label": "celebrai", "forms": {"jubilate": "celebrai"}, "note": "MS1932's verb; loses the shout.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "jubilo",
+      "refs": ["46:6"],
+      "latin": "in júbilo",
+      "kind": "grammar",
+      "why": "*in* + ablative of the circumstance: God goes up amid the shout (DRB 'with jubilee'; MS1932 *entre (vozes de) júbilo*). The noun follows `jubilate`. *entre aclamações* makes the singular plural (number is grammar, D27) and says at once that the shouts are others', round him; *com aclamação* (= 32:3) could be heard as God acclaiming. The Ascension liturgy quotes this colon in another Latin, *in jubilatióne* (grep: Pasc5-4, Pasc6-0, Sancti/10-07, Benedictio mensae) — the same family, so the same Portuguese word would serve it.",
+      "options": [
+        {"label": "entre aclamações", "forms": {"jubilo": "entre aclamações"}, "note": "Ruling.", "from": "draft"},
+        {"label": "com aclamação", "forms": {"jubilo": "com aclamação"}, "note": "the singular and 32:3's phrase; may be heard as God acclaiming.", "from": "draft"},
+        {"label": "em júbilo", "forms": {"jubilo": "em júbilo"}, "note": "the cognate (MS1932 *entre … júbilo*, DRB 'with jubilee'); breaks the root pair with *aclamai* and takes the gáudium row's word.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "terribilis",
+      "refs": ["46:3"],
+      "latin": "excélsus, terríbilis",
+      "kind": "word",
+      "why": "terríbilis (φοβερός) is 'to be feared, dreadful'. The cognate *terrível* is DRB's and MS1932's and the Latin's word, and is still said of God in Brazilian prayer; but in everyday speech it has worn down to 'very bad'. *temível* says exactly 'to be feared' and is plain. Ruled for the cognate, beside *excelso* and *grande Rei*, where 'very bad' is not a possible hearing; the blind reader is the test. The Latin's asyndeton (*excélsus, terríbilis*) is kept (DRB 'high, terrible'); MS1932 supplies *e*. terríbilis recurs (65:3, 75:8, 88:8, 95:4, 98:3, 110:9 *sanctum et terríbile nomen ejus*) — proposed as an open row.",
+      "options": [
+        {"label": "terrível", "forms": {"terribilis": "terrível"}, "note": "Ruling; DRB, MS1932.", "from": "MS1932"},
+        {"label": "temível", "forms": {"terribilis": "temível"}, "note": "the sense without the worn edge.", "from": "draft"},
+        {"label": "e terrível", "forms": {"terribilis": "e terrível"}, "note": "MS1932's supplied *e*.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "nobis4",
+      "refs": ["46:4"],
+      "latin": "Subjécit pópulos nobis",
+      "kind": "order",
+      "why": "subjícere → *sujeitar* (8:8 *Tudo sujeitastes*, 17:48 *sujeitais os povos*, row open). The dative *nobis* as an enclitic (*Sujeitou-nos os povos*) is first heard as 'he subjected us' — the opposite sense — before *os povos* corrects it; *a nós* after the object cannot be misheard (MS1932 *Submeteu os povos a nós*). The Latin perfect is kept (the Hebrew has an imperfect; rule 1).",
+      "options": [
+        {"label": "Sujeitou os povos a nós", "forms": {"nobis4": "Sujeitou os povos a nós"}, "note": "Ruling; MS1932's build.", "from": "MS1932"},
+        {"label": "Sujeitou-nos os povos", "forms": {"nobis4": "Sujeitou-nos os povos"}, "note": "shorter; heard first as 'he subjected us'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "sub",
+      "refs": ["46:4"],
+      "latin": "et gentes sub pédibus nostris",
+      "kind": "glossary",
+      "why": "The subtus / sub row gives *sob*, but says a psalm that wants the living preposition may keep *debaixo de*, as 8:8 did — and 8:8 is this same collocation, subjícere … sub pédibus (*Tudo sujeitastes debaixo dos seus pés*). The echo is kept. MS1932 *debaixo dos nossos pés*.",
+      "options": [
+        {"label": "debaixo dos", "forms": {"sub": "debaixo dos"}, "note": "Ruling; = 8:8, MS1932.", "from": "MS1932"},
+        {"label": "sob os", "forms": {"sub": "sob os"}, "note": "the row's default (17:10 *sob os seus pés*).", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "speciem",
+      "refs": ["46:5"],
+      "latin": "spéciem Jacob, quam diléxit",
+      "kind": "word",
+      "why": "spécies here is καλλονή, 'beauty' (DRB 'the beauty of Jacob'), in apposition to *hereditátem*. decor is already *esplendor* (20:6, 25:8, 29:8), so that word is taken. *beleza* is the plain word; *formosura* is kept free for 44:5a, where *spécie tua et pulchritúdine tua* sets spécies (ὡραιότης) beside pulchritúdo (κάλλος, the Greek family of this verse's καλλονή) and the two need two words. MS1932 *a nós, porção bela de Jacob* explains. *quam* is feminine (the beauty is what he loved), which Portuguese *que* cannot show; *ele* supplies the hidden subject (God).",
+      "options": [
+        {"label": "a beleza", "forms": {"speciem": "a beleza"}, "note": "Ruling; DRB.", "from": "DRB"},
+        {"label": "a formosura", "forms": {"speciem": "a formosura"}, "note": "more marked; wanted for 44:5a's spécies.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "tubae",
+      "refs": ["46:6"],
+      "latin": "et Dóminus in voce tubæ",
+      "kind": "word",
+      "why": "The Latin says *in voce* twice in the psalm (46:2 *in voce exsultatiónis*, 46:6 *in voce tubæ*), and vox is *voz*. *à voz da trombeta* keeps the word, as 41:8 *à voz das vossas cataratas* keeps it for water; *ao som da trombeta* (DRB 'the sound', MS1932) is the idiom but drops the repetition. *com voz de trombeta* would give the Lord a trumpet's voice. The colon is the response of the Ascension versicle (*R. Et Dóminus in voce tubæ*, Pasc5-4, Benedictio mensae) and reads alone.",
+      "options": [
+        {"label": "à voz da trombeta", "forms": {"tubae": "à voz da trombeta"}, "note": "Ruling; = 41:8's build.", "from": "draft"},
+        {"label": "ao som da trombeta", "forms": {"tubae": "ao som da trombeta"}, "note": "MS1932, DRB; the idiom, without *voz*.", "from": "MS1932"},
+        {"label": "com voz de trombeta", "forms": {"tubae": "com voz de trombeta"}, "note": "= 46:2's preposition; heard as the Lord's voice being a trumpet's.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "psallite",
+      "refs": ["46:7"],
+      "latin": "Psállite Deo nostro, psállite: * psállite Regi nostro, psállite.",
+      "kind": "glossary",
+      "why": "psállere → *entoar salmos* (D25), which named this verse as the place its two words would weigh most. The Latin says the same word four times; D2 keeps repetitions, so it is *entoai salmos* four times, +4 syllables a colon, and each colon ends on the paroxytone *salmos*. MS1932 drops the noun in the repeats (*Cantai salmos ao nosso Deus, cantai*) — the verb is still repeated, but the bare *entoai* ends the colon on an oxytone and is not how the row's verb is said elsewhere. The Epiphany antiphon (horas Sancti/01-06) joins this verse to 46:8b (*… psállite sapiénter*), so it must also read with the next verse's second colon.",
+      "options": [
+        {"label": "entoai salmos ×4", "forms": {"psallite1": "Entoai salmos", "psallite2": "entoai salmos", "psallite1b": "entoai salmos", "psallite2b": "entoai salmos"}, "note": "Ruling; D25 as it stands.", "from": "glossary"},
+        {"label": "entoai salmos … entoai", "forms": {"psallite1": "Entoai salmos", "psallite2": "entoai", "psallite1b": "entoai salmos", "psallite2b": "entoai"}, "note": "MS1932's shape (*Cantai salmos … cantai*); lighter, oxytone colon-ends.", "from": "MS1932"},
+        {"label": "cantai salmos ×4", "forms": {"psallite1": "Cantai salmos", "psallite2": "cantai salmos", "psallite1b": "cantai salmos", "psallite2b": "cantai salmos"}, "note": "MS1932 / DM1962; *cantar* is cantáre's (D25).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "sapienter",
+      "refs": ["46:8"],
+      "latin": "psállite sapiénter",
+      "kind": "word",
+      "why": "sapiénter, 'wisely' (συνετῶς, 'with understanding'); DRB 'sing ye wisely', MS1932 *sàbiamente*. One adverb for one; *com sabedoria* is the noun of 18:8 and 36:30 (sapiéntia), and a syllable longer. DM1962 *com toda a vossa arte* is the Hebrew's *maskil*, not the Latin.",
+      "options": [
+        {"label": "sabiamente", "forms": {"sapienter": "sabiamente"}, "note": "Ruling; MS1932, DRB.", "from": "MS1932"},
+        {"label": "com sabedoria", "forms": {"sapienter": "com sabedoria"}, "note": "the noun of sapiéntia.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "sedet",
+      "refs": ["46:9"],
+      "latin": "Deus sedet super sedem sanctam suam",
+      "kind": "grammar",
+      "why": "sedet is a present of state (κάθηται): God sits enthroned. *está sentado* (MS1932) says the state; *se senta* is heard as the act of sitting down. 28:10 *sedébit Dóminus Rex* → *se sentará* is a future, where the act is right. sedes (God's) → *trono* (row), sanctus → adjective after (as *monte santo*). The Latin's future *Regnábit* (against the Greek aorist ἐβασίλευσεν) is kept: *reinará* (rule 1).",
+      "options": [
+        {"label": "está sentado", "forms": {"sedet": "está sentado"}, "note": "Ruling; MS1932.", "from": "MS1932"},
+        {"label": "se senta", "forms": {"sedet": "se senta"}, "note": "28:10's verb in the present; the act, not the state.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "congregati",
+      "refs": ["46:10"],
+      "latin": "Príncipes populórum congregáti sunt",
+      "kind": "glossary",
+      "why": "congregári of people gathering (συνήχθησαν). 2:2 has the same Greek verb with the same subject (*príncipes convenérunt* → *os príncipes se reuniram*), so *se reuniram* makes the princes' gathering sound alike in both psalms (MS1932 *reuniram-se*). 34:15 needed *juntaram-se* for *congregáta sunt* only because *convenérunt* (*se reuniram*) stands in the same verse; here nothing competes. *congregaram-se* is the cognate, and 15:4b *congregarei* uses it actively. No glossary row yet; proposed open.",
+      "options": [
+        {"label": "se reuniram", "forms": {"congregati": "se reuniram"}, "note": "Ruling; = 2:2, MS1932.", "from": "MS1932"},
+        {"label": "se juntaram", "forms": {"congregati": "se juntaram"}, "note": "34:15's *juntaram-se*.", "from": "draft"},
+        {"label": "se congregaram", "forms": {"congregati": "se congregaram"}, "note": "the cognate; churchly.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "dii",
+      "refs": ["46:10"],
+      "latin": "quóniam dii fortes terræ",
+      "kind": "ambiguity",
+      "why": "The Greek reads τοῦ θεοῦ οἱ κραταιοὶ τῆς γῆς, 'the mighty ones of the earth are God's'; the Gallican Latin has *dii*, 'the strong gods of the earth' (DRB, MS1932 *os deuses fortes da terra*). The Latin is followed (rule 1). It leaves open whether the *dii* are gods or mighty men called gods (as 81:6 *Ego dixi: Dii estis*), and the Portuguese keeps both. The palm procession (missa Quad6-0r) quotes the verse with *Dei fortes* — the Greek's reading — not the psalter's. fortes → *fortes* (row).",
+      "options": [
+        {"label": "deuses fortes", "forms": {"dii": "deuses fortes"}, "note": "Ruling; DRB, MS1932.", "from": "MS1932"},
+        {"label": "fortes de Deus", "forms": {"dii": "fortes de Deus"}, "note": "the Greek (and Quad6-0r's *Dei*); refused, rule 1.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "elevati",
+      "refs": ["46:10"],
+      "latin": "veheménter eleváti sunt",
+      "kind": "grammar",
+      "why": "eleváti sunt (ἐπήρθησαν). The eleváre row gives *elevar-se* for a passive with middle sense (8:2b *se elevou*); here the Latin leaves open whether the mighty were raised (by God) or raised themselves, and *se elevaram* leans to the second. The passive keeps it open. veheménter → *muito* (row; 20:2 *exultará muito*). MS1932 *foram extraordinàriamente exaltados*; exaltáre is another verb (row *exaltar*), so *elevados* stays.",
+      "options": [
+        {"label": "foram muito elevados", "forms": {"elevati": "foram muito elevados"}, "note": "Ruling; the Latin's passive.", "from": "draft"},
+        {"label": "se elevaram muito", "forms": {"elevati": "se elevaram muito"}, "note": "the eleváre row's middle form; leans to self-exaltation.", "from": "glossary"},
+        {"label": "foram grandemente elevados", "forms": {"elevati": "foram grandemente elevados"}, "note": "the valde row's option for weight at a cadence.", "from": "glossary"}
+      ]
+    }
+  ],
+  "choices": {
+    "46:2": "gentes → *nações* (row); *Omnes gentes* as vocative → *Todas as nações* (9:18, 117:10 *todas as nações*). *in voce exsultatiónis* → *com voz de exultação*, word for word 41:5b. The whole verse is the Introit of Pentecost VII (Pent07-0) and the Alleluia verse of the Ascension Mass (missa Pasc5-4) — grep; each colon reads alone.",
+    "46:3": "excélsus → *excelso*, the Latin's adjective, kept apart from *Altíssimo* (Altíssimus) though the Greek has ὕψιστος. *Rex magnus* → *grande Rei*, without article, in apposition as the Latin; Rei capitalized for God (5:3, 23:7). *super omnem terram* → *sobre toda a terra*. First colon −3 syllables against the Latin (the asyndeton kept); accepted.",
+    "46:5": "*Elégit nobis* → *Escolheu para nós* (eligere → *escolher*, 32:12, 24:12). *hereditátem suam* is 'his inheritance' in the Latin and Greek (the Hebrew has 'our'); kept. dilígere → *amar* (row).",
+    "46:6": "ascéndere → *subir* (17:9, 17:11, 23:3); the Latin's verb-first order kept, as natural in Portuguese. The Ascension's versicle and antiphon (Pasc5-4 etc.) quote the verse with *in jubilatióne*, not the psalm's *in júbilo*; the psalm keeps its own words, and the same Portuguese would serve both (see `jubilate`). The two colons are said as V and R: each reads alone.",
+    "46:7": "Four times *entoai salmos*: +4 syllables in each colon, accepted under D25 and D2 (see `psallite`). *Deo nostro*, *Regi nostro* → *ao nosso Deus*, *ao nosso Rei* (article before possessive).",
+    "46:8": "*Rex omnis terræ Deus* has God as subject (ὁ θεός with the article; DRB, MS1932): *Deus é o Rei de toda a terra*, natural order (D2). The Palm Sunday procession (missa Quad6-0r) sets this verse as a versicle.",
+    "46:9": "*Regnábit* future (the Greek aorist not followed). *Deus … Deus* kept at the head of each colon.",
+    "46:10": "*cum Deo Ábraham* → *com o Deus de Abraão* (μετὰ τοῦ θεοῦ Αβρααμ); DM1962's *ao povo do Deus de Abraão* is the Hebrew. *quóniam* → *porque*."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm46.txt, 9 prayed verses (46:2–46:10; no titulus, D7). One mediant per verse, no flex. Uses by grep (ps032/uses.py): 46:2 Introit of Pentecost VII (missa Pent07-0) and Alleluia verse of the Ascension (missa Pasc5-4); the whole psalm in the palm procession (missa Quad6-0r, with *Dei fortes* in 46:10 and *sedit* in 46:9); 46:6 in another Latin (*in jubilatióne*) as the Ascension's versicle, responsory, antiphon, Offertory and Alleluia (horas/missa Pasc5-4, Pasc6-0, Sancti/10-07, Benedictio mensae); 46:7 + 8b as the Epiphany antiphon (horas Sancti/01-06)."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps046.md (Latin, LXX, WLC, DRB, MS1932, DM1962); DO's Portuguese not used (D12). Rulings applied: D25 (psállere, fourfold in 46:7), D23 not met, glossary rows gentes/pópuli, subjícere (8:8), sub, sedes → trono, dilígere, fortes, valde/veheménter, eleváre, 41:5b *com voz de exultação*. Latin kept against the Greek/Hebrew: 46:9 future *reinará*, 46:10 *deuses fortes* (Greek 'God's mighty ones'), 46:5 *a sua herança*. New proposals: jubiláre family → *aclamar / aclamação* (frees *júbilo* for the gáudium row), terríbilis → *terrível*, spécies (καλλονή) → *beleza*, congregári (people) → *reunir-se*."},
+    {"step": "checks", "note": "Draft 1: hard pass. Length: 46:7 both colons +5 (D25's two words, four times) and the in-verse rhyme *salmos/salmos* — the Latin's own repetition (*psállite … psállite*), accepted; 46:2b −3 (41:5b's formula *com voz de exultação*), 46:5b +3 (*ele* supplied), 46:8b +3 (*entoai salmos* for *psállite*), accepted. Oxytone cadences where the Latin is paroxytone (46:2b *exultação*, 46:4 *nós*, *pés*, 46:5b *amou*, 46:6a *aclamações*, 46:9a *nações*, 46:10a *Abraão*): rule 4 allows the last syllable."}
+  ]
+}

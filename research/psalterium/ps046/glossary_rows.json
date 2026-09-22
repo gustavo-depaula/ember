@@ -1,0 +1,23 @@
+{
+  "append": [
+    {"row": "| gáudium |", "text": "**Ps 46 proposes jubiláre / jubilátio / júbilus → *aclamar / aclamação*** (46:2 *aclamai a Deus*, 46:6 *Subiu Deus entre aclamações*), which removes the collision this row names and leaves *júbilo* to gáudium."},
+    {"row": "| psállere |", "text": "**Ps 46:7 fourfold *psállite* → *Entoai salmos ao nosso Deus, entoai salmos: * entoai salmos ao nosso Rei, entoai salmos*** (+5 a colon, accepted under D25/D2; the stylist: 'heavy, but faithful, and it rings'); 46:8b *entoai salmos sabiamente*. MS1932's shape *entoai salmos … entoai* is the option."},
+    {"row": "| subtus / sub (me, pedes) |", "text": "**Ps 46:4 *Subjécit … sub pédibus nostris* → *debaixo dos nossos pés***, echoing 8:8 (the same subjícere … sub pédibus); *sob os* the option."},
+    {"row": "| sedes (God's) |", "text": "**Ps 46:9 *Deus sedet super sedem sanctam suam* → *Deus está sentado sobre o seu trono santo*** (the stylist's *santo assento* refused; *se assenta* option)."},
+    {"row": "| valde / veheménter |", "text": "**Ps 46:10 *veheménter eleváti sunt* → *foram muito elevados*** (the stylist's *sobremaneira* refused, as at 30:12; *grandemente* option)."}
+  ],
+  "terms": [
+    "| jubiláre / jubilátio / júbilus | aclamar / aclamação (*aclamai a Deus com voz de exultação*; *Subiu Deus entre aclamações*) | open | Ps 46:2, 46:6. One Latin family (13 lines: 65:1, 80:2, 88:15, 94:1–2 the Invitatory, 97:4, 97:6, 99:2a, 150:5) and here one Greek (ἀλαλάζω / ἀλαλαγμός — the same noun as 32:3 *in vociferatióne* → *com aclamação*). *jubilai* is 'retire / be expelled' in Brazil; *júbilo* is wanted by the gáudium row; *exultar* is exsultáre's. The Latinist (v1, v2, minor) asked the singular *com júbilo* in 46:6 — held for the root pair; option. The Ascension liturgy's *in jubilatióne* takes the same word. |",
+    "| terríbilis | terrível (*o Senhor é excelso, terrível*) | open | Ps 46:3 (φοβερός); DRB, MS1932. The blind reader heard awe, but said the everyday 'awful' grates; *temível* the option. 65:3, 75:8, 88:8, 95:4, 98:3, 110:9 *sanctum et terríbile nomen ejus*. |",
+    "| excélsus (adjective) | excelso (*o Senhor é excelso*) | open | Ps 46:3; kept apart from Altíssimus though the Greek is ὕψιστος. Unknown to the Ps 46 blind reader; kept. |",
+    "| spécies (καλλονή, beauty) | beleza (*a beleza de Jacó, que ele amou*) | open | Ps 46:5; decor is *esplendor* (20:6, 25:8, 29:8). **For Ps 44:5a** *Spécie tua et pulchritúdine tua* (ὡραιότης / κάλλος): pulchritúdo → *beleza* and spécies → *formosura* there would keep the two apart and keep *beleza* with the κάλλος family. 49:1 *spécies decóris* decides locally. |",
+    "| congregári (people gathering) | reunir-se (*Os príncipes dos povos se reuniram*) | open | Ps 46:10 (συνήχθησαν) = 2:2 *os príncipes se reuniram* (conveníre, the same Greek). 34:15 *juntaram-se* only because conveníre stands in the same verse; 15:4b active *congregar*. |",
+    "| subjícere | sujeitar (*Sujeitou a nós os povos*) | open | 8:8, 17:48 (subdere), 46:4. The enclitic *Sujeitou-nos os povos* is heard first as 'he subjected us'; the stylist found *os povos a nós* stiff — v2 puts the dative before the object. |",
+    "| sapiénter | sabiamente (*entoai salmos sabiamente*) | open | Ps 46:8 (συνετῶς); MS1932, DRB; *com sabedoria* (sapiéntia's noun) the option. |",
+    "| plaudere mánibus | bater palmas (*Todas as nações, batei palmas*) | open | Ps 46:2; *aplaudi* is a bare -ir imperative (rule 3). 97:8 *Flúmina plaudent manu* decides locally. |"
+  ],
+  "formulas": [
+    "| *Ascéndit Deus in júbilo: * et Dóminus in voce tubæ* (46:6; the Ascension's versicle, antiphon, Offertory and Alleluia have *in jubilatióne* — horas/missa Pasc5-4, Pasc6-0, Sancti/10-07, Benedictio mensae, grep) | *Subiu Deus entre aclamações: * e o Senhor, à voz da trombeta* | open — Ps 46; each colon reads alone (V and R); *à voz* keeps the psalm's second *in voce* (46:2) |",
+    "| *Omnes gentes, pláudite mánibus: * jubiláte Deo in voce exsultatiónis* (46:2; Introit of Pentecost VII, Ascension Alleluia, palm procession — grep) | *Todas as nações, batei palmas: * aclamai a Deus com voz de exultação* | open — Ps 46; second colon's *com voz de exultação* = 41:5b |"
+  ]
+}

@@ -1,0 +1,13 @@
+[
+  {"step": "latinist", "file": "critic/v2.latinist.json",
+   "note": "Gate on draft 2, read by claude-opus-5-5 (fresh context). No critical or major; six minors, all held with reasons and every one kept as an option. «A faithful and careful rendering … the Septuagintal readings are preserved rather than smoothed.»",
+   "outcomes": [
+     {"verse": "44:5a", "remark": "*próspero* makes the adverb a quality of the king → *avança prosperamente*", "outcome": "option", "decision": "prospere", "reason": "*prosperamente* is heavy and rare; *próspero* keeps the root and the three quick imperatives (stylist, v1)."},
+     {"verse": "44:9", "remark": "*de onde* leans to place → *das quais*", "outcome": "option", "decision": "exquibus", "reason": "Both possible antecedents (garments, ivory houses) are sources, which *de onde* keeps open; *das quais* made *das* three times running and was hard to parse aloud (stylist, v1)."},
+     {"verse": "44:10b", "remark": "*cores* supplied for *varietáte* → *cercada de variedade*", "outcome": "option", "decision": "varietas", "reason": "*variedade* is heard as an assortment, not a variegated cloth (stylist, blind reader); the cost of *cores* is recorded in the decision."},
+     {"verse": "44:14", "remark": "*cores* supplied for *varietátibus* → *revestida de variedades*", "outcome": "option", "decision": "varietas", "reason": "As 44:10b; *variedades* is a variety show."},
+     {"verse": "44:12", "remark": "*decor* is comeliness → *ansiará pela tua formosura*", "outcome": "option", "decision": "concupiscet", "reason": "Repeated from v1: *formosura* is *spécies*' (44:5a); the decor row keeps the three words of beauty apart."},
+     {"verse": "44:18a", "remark": "drops *omni* → *em toda geração e geração*", "outcome": "option", "decision": "generatio", "reason": "Repeated from v1: not a Portuguese phrase; the formula row and MS1932 hold."}
+   ]},
+  {"step": "checks", "note": "After the gate: no text changed (options only); hard pass, flags as draft 2."}
+]

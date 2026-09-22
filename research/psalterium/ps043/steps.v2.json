@@ -1,0 +1,66 @@
+[
+  {
+    "step": "readers",
+    "note": "codex.py not called (Codex out of credits). The coordinator ran the three readers on draft 1 as fresh-context agents: claude-opus-5-5 (fresh context)."
+  },
+  {
+    "step": "latinist",
+    "file": "critic/v1.latinist.json",
+    "note": "claude-opus-5-5 (fresh context). Six minors, no major. Taken: 43:10 *forças*, 43:11 *post* (as *após*), 43:17 two persons. Held: 43:4b *luz* (row), 43:22 *pedir contas* (row), 43:23 the supplied *nos* (grammar). The Septuagintal features (ventilábimus, the positive *declinásti*, multitúdo, conglutinátus) approved.",
+    "outcomes": [
+      {"verse": "43:4b", "remark": "illuminátio flattened to *luz*; wants *iluminação*", "outcome": "option", "decision": "illuminatio", "reason": "the illuminátio row (26:1 *minha luz*, the same φωτισμός); *iluminação do rosto* is heard as lighting"},
+      {"verse": "43:10", "remark": "*poderes* abstract; *forças* keeps plural and military sense", "outcome": "taken", "decision": "virtutibus"},
+      {"verse": "43:11", "remark": "*post* is 'behind', *diante* follows the Hebrew", "outcome": "taken", "decision": "post", "reason": "taken as *após* (not his *atrás*, which stacks with *para trás*)"},
+      {"verse": "43:17", "remark": "two participles fused into one person; the supplied *me*", "outcome": "taken", "decision": "obloquentis", "reason": "the article repeated (two persons, parallel to 43:17b); the supplied *me* held as grammar — *afrontar* and *perseguir* want an object"},
+      {"verse": "43:22", "remark": "*pedir contas* narrows requíret ('search out')", "outcome": "refused", "reason": "the requírere row (9:34 *Não pedirá contas*), where God requires sin; DRB 'search out' is the option there"},
+      {"verse": "43:23", "remark": "*nos* supplied after *repilais*", "outcome": "refused", "reason": "*repelir* wants an object in Portuguese (grammar, D2); DRB 'cast us not off'; the object is the *nos* of 43:10 and 43:24"}
+    ]
+  },
+  {
+    "step": "stylist",
+    "file": "critic/v1.stylist.json",
+    "note": "claude-opus-5-5 (fresh context). Worst line 43:6, best 43:25. Twelve remarks: seven taken (43:3 *vós*, 43:4 *própria*, 43:6 order, 43:10 *forças*, 43:15 *termo de comparação*, 43:22b one breath and *tidos … de matança*); held on rows (43:4b, 43:18, 43:19, 43:24, 43:26) and 43:5.",
+    "outcomes": [
+      {"verse": "43:3", "remark": "subject change unmarked; *e vós os plantastes*", "outcome": "taken"},
+      {"verse": "43:3", "remark": "rhyme *plantastes … expulsastes*", "outcome": "refused", "reason": "the Latin's own parallel (plantásti … expulísti), the vós preterite"},
+      {"verse": "43:4", "remark": "*sua* heard as God's; *a própria espada*", "outcome": "taken"},
+      {"verse": "43:4b", "remark": "*achar prazer* colloquial; *vos agradastes deles*", "outcome": "option", "decision": "complacuisti", "reason": "complacére in → *achar prazer em* is the 25:3 ruling"},
+      {"verse": "43:5", "remark": "bare *que* after the mark; *vós que ordenais*", "outcome": "refused", "reason": "the Latin's bare *qui*; the colon is already +3; *que* after a vocative-predicate is plain"},
+      {"verse": "43:6", "remark": "*com o chifre* trails; move it forward", "outcome": "taken", "decision": "ventilabimus"},
+      {"verse": "43:10", "remark": "*poderes* abstract; *forças*", "outcome": "taken", "decision": "virtutibus"},
+      {"verse": "43:15", "remark": "*uma comparação* not idiomatic; *um termo de comparação*", "outcome": "taken", "decision": "similitudinem"},
+      {"verse": "43:18", "remark": "*iniquamente* clogs; *com iniquidade*", "outcome": "refused", "reason": "*iniquidade* is iníquitas's noun; iníque ágere → *agir iniquamente* is the row (24:4)"},
+      {"verse": "43:19", "remark": "*retirar-se para trás* pleonastic; *voltou atrás*", "outcome": "option", "decision": "recessit", "reason": "the pleonasm is the Latin's (recéssit retro); *voltar para trás* is the retrórsum phrase"},
+      {"verse": "43:22b", "remark": "commas break the colon; *considerados* bureaucratic; *tidos como ovelhas de matança*", "outcome": "taken", "decision": "mortificamur"},
+      {"verse": "43:24", "remark": "*carência* clinical; *vos esqueceis da nossa pobreza*", "outcome": "refused", "reason": "D38 (inops → carente; inópia its noun); *pobre* is pauper's; oblivísci takes a direct object (row)"},
+      {"verse": "43:26", "remark": "*auxiliai-nos* Latinate; *ajudai-nos*", "outcome": "refused", "reason": "the adjuváre row (auxílio / auxiliar one family; 69:2b *auxiliar-me*)"}
+    ]
+  },
+  {
+    "step": "ambiguity",
+    "file": "critic/v1.ambiguity.json",
+    "note": "claude-opus-5-5 (fresh context). Mends: 43:25 *Porque* heard as *por que* (→ *Pois*); 43:3 the nations heard as planted (→ *e vós os plantastes*); 43:10 *poderes* abstract (→ *forças*); *meneio* unknown (→ *abanar*). Kept as the Latin's: 43:13 *multidão*, 43:19 the positive *apartastes*, 43:6 the horn, 43:9 the passive. Unknown words: operastes, meneio, iniquamente (second time), veredas, apartastes.",
+    "outcomes": [
+      {"verse": "43:25", "remark": "*Porque* heard as *por que* after two questions", "outcome": "taken"},
+      {"verse": "43:3", "remark": "*os plantastes* heard as the nations", "outcome": "taken", "reason": "*e vós* marks the subject; *eos* stays unnamed as in the Latin"},
+      {"verse": "43:10", "remark": "*poderes* heard abstract", "outcome": "taken", "decision": "virtutibus"},
+      {"verse": "43:15", "remark": "*meneio* unknown; gesture unclear", "outcome": "taken", "decision": "commotionem"},
+      {"verse": "43:13", "remark": "*multidão nas trocas* has no clear meaning", "outcome": "option", "decision": "multitudo", "reason": "the Latin's openness (sum or crowd) kept on purpose"},
+      {"verse": "43:19", "remark": "*apartastes* jars after the protestation", "outcome": "option", "decision": "declinasti", "reason": "the Latin and Greek are positive; the negative is the Hebrew's"},
+      {"verse": "43:6", "remark": "the horn image obscure", "outcome": "refused", "reason": "the Latin's image (cornu → chifre row); moving *com o chifre* forward makes the goring plainer"},
+      {"verse": "43:9", "remark": "*seremos louvados* may be heard as 'we will praise'", "outcome": "refused", "reason": "the laudári row (33:3), the Latin's passive"},
+      {"verse": "43:2b", "remark": "*operastes* unknown", "outcome": "option", "decision": "operatus", "reason": "the opus/operári echo; *fizestes* is the option"},
+      {"verse": "43:18", "remark": "*iniquamente* unknown (second time, after 24:4)", "outcome": "refused", "reason": "the iníqua ágere row; noted there for review"},
+      {"verse": "43:19", "remark": "*veredas*, *apartastes* unknown", "outcome": "refused", "reason": "sémita → vereda (D15); declináre → apartar (row)"}
+    ]
+  },
+  {
+    "step": "revision",
+    "version": 2,
+    "note": "v2: 43:3 *e vós os plantastes*; 43:4 *a própria espada*; 43:6 *com o chifre* before the verb; 43:10 *com as nossas forças* (virtútes plural; the twins 59:12, 107:12 should copy it); 43:11 *após os* for *post*; 43:15 *um termo de comparação … um abanar de cabeça*; 43:17 *do que me afronta e do que me insulta*; 43:22b without commas, *fomos tidos como ovelhas de matança*; 43:25 *Pois*. Draft 1 kept in prayed.v1.json."
+  },
+  {
+    "step": "checks",
+    "note": "Draft 2: hard pass. New flags: 43:10b −5 (*forças*, two syllables fewer than *poderes*), 43:25a −4 (*Pois*), 43:15a +3, 43:17a +3 (the repeated article); accepted. Others as draft 1; 43:11a now +3."
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "append": [
+    {"row": "| in unum |", "text": "**Ps 47:5 *convenérunt in unum* → *reuniram-se juntos*** — 2:2 copied (clitic after the verb, since the colon opens with it). The stylist heard a pleonasm and asked *vieram juntos* — refused for the formula; option `inunum` in Ps 47."},
+    {"row": "| congregári (people gathering) |", "text": "**Ps 47:5 *reges terræ congregáti sunt: convenérunt in unum* → *se congregaram: reuniram-se juntos*** — the same Greek (συνήχθησαν), but conveníre → *reunir-se* follows in the verse, and *juntar-se* (34:15) would clash with *juntos*; so 15:4b's *congregar*. The ambiguity reader heard a neutral or church gathering; kept."},
+    {"row": "| suscípere |", "text": "**Ps 47:4 *cum suscípiet eam* (the city; ἀντιλαμβάνηται) → *quando a amparar*** — D19 with a city as object, since the Greek is D19's verb. Draft 1 supplied *ele*; the stylist heard it clog."},
+    {"row": "| suscípere (a thing as object) |", "text": "**Ps 47:10 *Suscépimus, Deus, misericórdiam tuam* → *Acolhemos, Deus, a vossa misericórdia*** — the place this row named; the Introit of the Purification and of Pent08-0 (grep). Passed the Latinist twice; the ambiguity reader heard 'we receive' (present) first. *Recebemos* (MS1932, DRB) is the option."},
+    {"row": "| nimis |", "text": "**Ps 47:2 *laudábilis nimis* → *muito digno de louvor*** — as valde (D22); the Pent08-0 Gradual quotes the line with *laudábilis valde* (grep). 95:4 and 144:3 have the same words and should copy it."},
+    {"row": "| virtus (δύναμις)", "text": "**Ps 47:14 *in virtúte ejus* (Sion's strength, αὐτῆς) → *no seu poder*** — a city's virtus, which the row did not cover; *força* (MS1932, DRB) the option. Passed the Latinist twice."},
+    {"row": "| contérere |", "text": "Ps 47:7 *cónteres naves Tharsis* → *quebrareis os navios de Társis*."},
+    {"row": "| conturbáre |", "text": "**Ps 47:6 *conturbáti sunt* → *perturbaram-se*** (the stylist: two analytic passives made the colon too long; ταράσσω is middle as much as passive), beside *foram abalados* (movéri row)."},
+    {"row": "| movéri (", "text": "**Ps 47:6 *commóti sunt* → *foram abalados*** (σαλεύω); the stylist's *abalaram-se* refused — colloquially 'took off'."},
+    {"row": "| enarráre |", "text": "**Ps 47:14 *ut enarrétis in progénie áltera* → *para que narreis a outra geração*** — no supplied object (the Latinist, v1); two verses after narráre → *narrai* (47:13)."},
+    {"row": "| régere |", "text": "Ps 47:15 *ipse reget nos in sǽcula* → *ele nos regerá pelos séculos*; *regerá* unknown to the ambiguity reader, kept."},
+    {"row": "| *Dóminus virtútum*", "text": "**Ps 47:9 *in civitáte Dómini virtútum* → *na cidade do Senhor dos poderes*** — the row applied; the ambiguity reader heard 'Lord of all powers, abstract'. Passed the Latinist twice."}
+  ],
+  "terms": [
+    "| látera Aquilónis; aquilo | *os lados do norte* (bare apposition to *o monte Sião*); aquilo → *norte* | open | Ps 47:3 (τὰ πλευρὰ τοῦ βορρᾶ). *aquilão* and *setentrião* (MS1932) need a footnote; 88:12 *aquilónem et mare* and 106:3 *ab aquilóne et mari* should follow (grep). The ambiguity reader could not place the phrase (a crux in the Latin too); *nos lados do norte* is the option |",
+    "| admirári | admirar-se (*assim se admiraram*) | open | Ps 47:6 only (grep); θαυμάζω; keeps admirábilis's root; *espantar-se* the option. The ambiguity reader heard 'astonished' first |",
+    "| apprehéndere (a fear seizing) | apoderar-se de (*o tremor se apoderou deles*) | open | Ps 47:6; MS1932. The verb has four places and four Portuguese verbs by object: 2:12 *abraçar* (discipline), 34:2 *empunhar* (arms), 34:8 *apanhar* (a trap) |",
+    "| vehemens (of wind) | impetuoso (*com vento impetuoso*) | open | Ps 47:7 (πνεῦμα βίαιον); MS1932. veheménter the adverb stays *muito* (D22) |",
+    "| navis / Tharsis | navio / Társis | open | Ps 47:7 *os navios de Társis*; *naus* (MS1932) the option; 71:10 *Reges Tharsis* follows; 103:26, 106:23 *naves* (grep before use) |",
+    "| parturiens (*dolóres ut parturiéntis*) | *dores como de quem está de parto* (verbless, as the Latin) | open | Ps 47:7; MS1932. Beside the row parturíre / párere; *parturiente* (clinical) the option |",
+    "| complécti | abraçar (*Cercai Sião, e abraçai-a*) | open | Ps 47:13 only (grep); L&S 'clasp, embrace', then 'encircle'; kept apart from circumdáre → *cercar* in the same colon. *rodeai-a* (DRB 'encompass') the option |",
+    "| distribúere (imperative) | partilhar (*partilhai as suas casas*) | open | Ps 47:14; **rule-3 trap: *distribuí*, *reparti* (and *dividi*) are first-person pasts**. The ambiguity reader heard hospitality; the Latin is as open. 77:54 has the noun *distributiónis* |",
+    "| progénies | geração (*a outra geração*) | open | Ps 47:14 *in progénie áltera* → *a outra geração* (the Greek's εἰς; MS1932); 48:12 *in progénie et progénie* should be the generátio formula *de geração em geração*; 48:20 *in progénies patrum suórum* |",
+    "| in sǽcula (alone) | pelos séculos (*ele nos regerá pelos séculos*) | open | Ps 47:15; εἰς τοὺς αἰῶνας. Kept apart from in ætérnum's *para sempre* (D23), which stands in the same verse. Seven places (grep): 47:15, 60:5, 71:17, 77:69, 80:16, 83:5 (*in sǽcula sæculórum* → *pelos séculos dos séculos*), 145:10 |",
+    "| secúndum … sic (correlative) | *Segundo … assim também* | open | Ps 47:11 *Secúndum nomen tuum, Deus, sic et laus tua* — the Latinist's gate (minor) asked for *Segundo* against drafts 1–2's *Como* (MS1932): the praise measured by the name, not merely like it. *Como* the option |",
+    "| hic est (pronoun) | este é (*Porque este é Deus*) | open | Ps 47:15 (οὗτός ἐστιν); MS1932's adverb *aqui está* refused |"
+  ],
+  "formulas": [
+    "| *Magnus Dóminus, et laudábilis nimis* (47:2; 95:4 *Quóniam magnus Dóminus et laudábilis nimis*, 144:3 — grep; the Matins antiphon, the Pent08-0 Gradual (*valde*), the Holy Thursday Mandatum) | *Grande é o Senhor, e muito digno de louvor* | open — Ps 47 |",
+    "| *Suscépimus, Deus, misericórdiam tuam, * in médio templi tui* … *Secúndum nomen tuum, Deus, sic et laus tua in fines terræ: * justítia plena est déxtera tua* (47:10–11; the Introit of the Purification and of Pent08-0 with *ita et*; the Holy Name antiphon; the Purification responsory with *Justítia plena est déxtera tua* as its respond — grep) | *Acolhemos, Deus, a vossa misericórdia, * no meio do vosso templo* … *Segundo o vosso nome, Deus, assim também o vosso louvor até os confins da terra: * a vossa direita está cheia de justiça* | open — Ps 47; each colon reads alone |"
+  ]
+}

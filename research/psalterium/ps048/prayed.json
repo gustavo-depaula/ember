@@ -1,0 +1,1278 @@
+{
+  "psalm": 48,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "48:2": "{audite} isto, todas as nações: * dai ouvidos, todos os que habitais o mundo:",
+    "48:3": "{terrigenae}: * {simul}, o rico e o pobre.",
+    "48:4": "A minha boca falará sabedoria: * e a meditação do meu coração, prudência.",
+    "48:5": "Inclinarei à parábola o meu ouvido: * abrirei com o saltério {propositio}.",
+    "48:6": "Por que temerei no dia mau? * a iniquidade {calcanei} me cercará:",
+    "48:7": "Os que confiam {virtute}: * e se gloriam na multidão das suas riquezas.",
+    "48:8": "O irmão não resgata, {redimet}: * não dará a Deus {placatio}.",
+    "48:9": "{etpretium} o preço {redemptio} da sua alma: * e {laborabit} para sempre, e viverá ainda {infinem}.",
+    "48:11": "Não verá a destruição, {videns}: * juntos perecerão o insensato e o {stultus}.",
+    "48:11b": "E deixarão a estranhos as suas riquezas: * e os seus sepulcros serão as suas casas para sempre.",
+    "48:12": "As suas tendas, de geração em geração: * {vocaverunt}.",
+    "48:13": "E o homem, {honore}, não entendeu: * foi comparado aos animais {insipientibus}, e {factus} semelhante a eles.",
+    "48:14": "Este caminho deles é tropeço para eles: * e depois {complacebunt}.",
+    "48:15": "Como ovelhas foram postos no inferno: * a morte {depascet}.",
+    "48:15b": "E os justos os dominarão pela manhã: * e o auxílio deles envelhecerá no inferno, {agloria}.",
+    "48:16": "{verumtamen} Deus resgatará a minha alma da mão do inferno: * quando me {acceperit}.",
+    "48:17": "Não temas quando um homem se fizer rico: * e quando se multiplicar a glória da sua casa.",
+    "48:18": "Porque, quando {interierit}, {omnia}: * nem descerá com ele a sua glória.",
+    "48:19": "Porque a sua alma será bendita {invita}: * {tibi}.",
+    "48:20": "Entrará até as gerações dos seus pais: * {usque} a luz.",
+    "48:21": "O homem, {honore}, não entendeu: * foi comparado aos animais {insipientibus}, e {factus} semelhante a eles."
+  },
+  "decisions": [
+    {
+      "id": "audite",
+      "refs": [
+        "48:2"
+      ],
+      "latin": "Audíte hæc",
+      "kind": "glossary",
+      "why": "audíre → ouvir (D3), but never the bare vós imperative *Ouvi*, which is also 'I heard' (rule 3; the audíre row says: recast or use *escutar* and note it — as 118:149 *Escutai a minha voz*). *Ouvi isto* at the head of the psalm, before anything else is said, has no context to fix the mood. *Escutai* keeps a hearing verb and stays apart from *dai ouvidos* (D4) in the second colon.",
+      "options": [
+        {
+          "label": "Escutai",
+          "forms": {
+            "audite": "Escutai"
+          },
+          "note": "Ruling; the audíre row's own remedy (118:149).",
+          "from": "glossary"
+        },
+        {
+          "label": "Ouvi",
+          "forms": {
+            "audite": "Ouvi"
+          },
+          "note": "MS1932 *Ouvi todos isto*; the bare form rule 3 bans ('I heard this').",
+          "from": "MS1932"
+        },
+        {
+          "label": "Ouvi vós",
+          "forms": {
+            "audite": "Ouvi vós"
+          },
+          "note": "the subject named to fix the mood (the Ps 10:2 remedy); heavy at the opening.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "terrigenae",
+      "refs": [
+        "48:3"
+      ],
+      "latin": "Quique terrígenæ, et fílii hóminum",
+      "kind": "grammar",
+      "why": "*Quique … et* is the Greek's οἵ τε … καὶ, 'both … and'; the verse goes on addressing the hearers of 48:2 (DRB 'All you that are earthborn, and you sons of men'). terrígenæ = γηγενεῖς, 'born of the earth' — kept as an image, not explained (the Hebrew's 'low and high', which MS1932 follows with *nascidos de plebeus, como de homens ilustres*, is the Hebrew's sense; rule 1). fílii hóminum → *filhos dos homens* (4:3). *tanto … como* is the Portuguese of *-que … et*. v2: the stylist heard *tanto … como* as a prose aside that lengthened the colon (+4); the plain *e* keeps both nouns and the vocative, and the Latin's *-que* is weak enough that its loss costs little. The blind reader did not hear the contrast in either form.",
+      "options": [
+        {
+          "label": "os nascidos da terra e os filhos dos homens",
+          "forms": {
+            "terrigenae": "os nascidos da terra e os filhos dos homens"
+          },
+          "note": "Ruling (v2); stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "tanto os nascidos da terra como os filhos dos homens",
+          "forms": {
+            "terrigenae": "tanto os nascidos da terra como os filhos dos homens"
+          },
+          "note": "draft 1: the correlative *-que … et* made explicit; +4 syllables; the stylist: a prose aside.",
+          "from": "draft"
+        },
+        {
+          "label": "vós, os nascidos da terra, e os filhos dos homens",
+          "forms": {
+            "terrigenae": "vós, os nascidos da terra, e os filhos dos homens"
+          },
+          "note": "DRB's build; the correlative lost, the address made explicit.",
+          "from": "DRB"
+        },
+        {
+          "label": "os filhos da terra e os filhos dos homens",
+          "forms": {
+            "terrigenae": "os filhos da terra e os filhos dos homens"
+          },
+          "note": "a doubled *filhos* the Latin does not have.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "simul",
+      "refs": [
+        "48:3"
+      ],
+      "latin": "simul in unum dives et pauper",
+      "kind": "glossary",
+      "why": "The place the glossary flagged: *simul → juntos* and *in unum → juntos* meet (ἐπὶ τὸ αὐτό renders only one of them). Portuguese cannot say *juntos juntos*; *todos juntos* is its own doubled phrase for 'all together', and keeps both words' weight without adding a sense. *como um só* was refused at 2:2 (it states a unanimity), and *num só* is not said. MS1932 *à uma juntamente* is archaic.",
+      "options": [
+        {
+          "label": "todos juntos",
+          "forms": {
+            "simul": "todos juntos"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "juntos, num só",
+          "forms": {
+            "simul": "juntos, num só"
+          },
+          "note": "both words, literally; *num só* hangs without a noun.",
+          "from": "draft"
+        },
+        {
+          "label": "juntamente, a uma",
+          "forms": {
+            "simul": "juntamente, a uma"
+          },
+          "note": "MS1932 *à uma juntamente*; archaic.",
+          "from": "MS1932"
+        },
+        {
+          "label": "juntos",
+          "forms": {
+            "simul": "juntos"
+          },
+          "note": "one word for two; drops the Latin's doubling.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "propositio",
+      "refs": [
+        "48:5"
+      ],
+      "latin": "apériam in psaltério propositiónem meam",
+      "kind": "word",
+      "why": "propósitio (πρόβλημα) is what is set forth: a theme, a problem put to the hearers (L&S 'a setting forth … a principal subject, theme'); it stands parallel to *parábola*. DRB 'my proposition'. The cognate keeps the Latin's word and its noun, parallel to *parábola*; *enigma* is the Greek's and the Hebrew's sense (riddle), not the Latin's word. aperíre → *abrir*: to open the question. Also 77:2 *loquar propositiónes ab inítio* (grep) should follow. v2: *proposição* was called a schoolroom word by the stylist and listed as unknown by the blind reader, who heard a proposal or a thesis. The clause *o que proponho* keeps the root (propónere) and says it plainly; the noun stays the option.",
+      "options": [
+        {
+          "label": "o que proponho",
+          "forms": {
+            "propositio": "o que proponho"
+          },
+          "note": "Ruling (v2): the root kept as a clause, as D16 did with *elóquium*; MS1932 *o que tenho a propor*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a minha proposição",
+          "forms": {
+            "propositio": "a minha proposição"
+          },
+          "note": "draft 1; DRB; bookish to the stylist, unknown to the blind reader.",
+          "from": "DRB"
+        },
+        {
+          "label": "o meu enigma",
+          "forms": {
+            "propositio": "o meu enigma"
+          },
+          "note": "the Greek/Hebrew sense (πρόβλημα, ḥîdâ); explains.",
+          "from": "draft"
+        },
+        {
+          "label": "ao som do saltério a minha proposição",
+          "forms": {
+            "propositio": "a minha proposição"
+          },
+          "note": "stylist: *ao som do saltério* (MS1932's words) for *com o saltério*. Refused: *som* is a word the Latin lacks, and *com o saltério* is 32:2's rendering of *in psaltério*. Recorded here; the slot shows only the noun.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "calcanei",
+      "refs": [
+        "48:6"
+      ],
+      "latin": "iníquitas calcánei mei circúmdabit me",
+      "kind": "ambiguity",
+      "why": "The darkest phrase of the opening. ἡ ἀνομία τῆς πτέρνης μου; DRB 'the iniquity of my heel'. It may be my own sins at the end of my way (where my steps have slipped), or the wickedness of those who dog my heels (MS1932 *dos meus perseguidores*, a resolution). The heel is a concrete image (rule 5) and the Latin leaves open whose iniquity it is; the heel is kept and nothing is explained. Cf. D41 *supplantátio → rasteira* (the heel of betrayal, 40:10).",
+      "options": [
+        {
+          "label": "do meu calcanhar",
+          "forms": {
+            "calcanei": "do meu calcanhar"
+          },
+          "note": "Ruling; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "dos meus passos",
+          "forms": {
+            "calcanei": "dos meus passos"
+          },
+          "note": "explains the heel as the way walked; closes the other reading.",
+          "from": "draft"
+        },
+        {
+          "label": "dos meus perseguidores",
+          "forms": {
+            "calcanei": "dos meus perseguidores"
+          },
+          "note": "MS1932; resolves to the enemies.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "virtute",
+      "refs": [
+        "48:7"
+      ],
+      "latin": "Qui confídunt in virtúte sua",
+      "kind": "glossary",
+      "why": "virtus (here δύναμις) → *poder* (row); the row's proposal *vigor* is for a man's bodily strength drying up (21:16, 37:11), and here it is might trusted in — beside riches, the power wealth gives; 32:16 *in multitúdine virtútis suæ* → *na multidão do seu poder* is the nearest place. confídere in → *confiar em* (row). The colon is a nominative left hanging (the Latin's anacoluthon): kept.",
+      "options": [
+        {
+          "label": "no seu poder",
+          "forms": {
+            "virtute": "no seu poder"
+          },
+          "note": "Ruling; the row, as 32:16.",
+          "from": "glossary"
+        },
+        {
+          "label": "na sua força",
+          "forms": {
+            "virtute": "na sua força"
+          },
+          "note": "DRB 'strength', MS1932 *forças*; *força* is fortitúdo's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "no seu vigor",
+          "forms": {
+            "virtute": "no seu vigor"
+          },
+          "note": "the row's proposal for a man's own strength; bodily, which this is not.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "redimet",
+      "refs": [
+        "48:8"
+      ],
+      "latin": "Frater non rédimit, rédimet homo",
+      "kind": "ambiguity",
+      "why": "The Latin sets a present and a future side by side with a comma: 'a brother does not redeem, a man will redeem'. It is read as a question (MS1932 *como resgatará outro homem?*), as a second negation (DRB 'nor shall man redeem'), or as it stands — the Fathers took the plain assertion as a pointer to the one Man who redeems. The DO text has no question mark and no second *non*; kept as it stands, with the subject before the verb, because *resgatará o homem* would be heard with *o homem* as the object. redímere → *resgatar* (row; D25 open), one verb for *rédimit … rédimet … redemptiónis … rédimet* (48:16).",
+      "options": [
+        {
+          "label": "o homem resgatará",
+          "forms": {
+            "redimet": "o homem resgatará"
+          },
+          "note": "Ruling: the Latin as punctuated.",
+          "from": "draft"
+        },
+        {
+          "label": "resgatará um homem?",
+          "forms": {
+            "redimet": "resgatará um homem?"
+          },
+          "note": "MS1932's question; a mark the Latin does not have.",
+          "from": "MS1932"
+        },
+        {
+          "label": "nem o homem resgatará",
+          "forms": {
+            "redimet": "nem o homem resgatará"
+          },
+          "note": "DRB's 'nor'; a negation the Latin does not have.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "placatio",
+      "refs": [
+        "48:8"
+      ],
+      "latin": "non dabit Deo placatiónem suam",
+      "kind": "word",
+      "why": "placátio (ἐξίλασμα), 'an appeasing, propitiating' (L&S), with *suam*: what would make God favourable to him. Only here in the psalter (grep). *propiciação* is the theological noun of that act, known from the New Testament (1 Jo 2:2 in Brazilian Bibles — from memory, unverified); it keeps a noun and *suam*. The clause *o que o aplaque* keeps the Latin root (placáre → aplacar) but drops *suam*. *expiação* is the atonement for sin — another idea. *aplacamento* is a dictionary word. 129:4 *propitiátio* (ἱλασμός) would share *propiciação*: kindred Greek, not the same word.",
+      "options": [
+        {
+          "label": "a sua propiciação",
+          "forms": {
+            "placatio": "a sua propiciação"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "o que o aplaque",
+          "forms": {
+            "placatio": "o que o aplaque"
+          },
+          "note": "the root kept as a clause; MS1932 *coisa que o aplaque*; *suam* lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o preço do seu perdão",
+          "forms": {
+            "placatio": "o preço do seu perdão"
+          },
+          "note": "explains; *perdão* is another word.",
+          "from": "draft"
+        },
+        {
+          "label": "a sua expiação",
+          "forms": {
+            "placatio": "a sua expiação"
+          },
+          "note": "atonement for sin, not appeasement.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "etpretium",
+      "refs": [
+        "48:9"
+      ],
+      "latin": "Et prétium redemptiónis ánimæ suæ",
+      "kind": "ambiguity",
+      "why": "The colon has no verb: it hangs on *non dabit* (DRB 'Nor the price', MS1932 *nem um preço*), or opens what follows (*et laborábit*). The Latin says *Et*; *Nem* would decide for the first reading. *E* after a negative leaves both open as the Latin does.",
+      "options": [
+        {
+          "label": "E",
+          "forms": {
+            "etpretium": "E"
+          },
+          "note": "Ruling: the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "Nem",
+          "forms": {
+            "etpretium": "Nem"
+          },
+          "note": "DRB, MS1932; decides the construction.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "redemptio",
+      "refs": [
+        "48:9"
+      ],
+      "latin": "prétium redemptiónis",
+      "kind": "glossary",
+      "why": "The redémptio row allows *redenção* (110:9a, 129:7). Here the noun stands between *rédimit … rédimet* (48:8) and *rédimet* (48:16), all *resgatar*; *do resgate* keeps the psalm's one root audible, which the Latin (and λύτρωσις / λυτρόομαι) has. *preço da redenção* is also a Christian formula that would say more than the verse.",
+      "options": [
+        {
+          "label": "do resgate",
+          "forms": {
+            "redemptio": "do resgate"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "da redenção",
+          "forms": {
+            "redemptio": "da redenção"
+          },
+          "note": "the row's noun; breaks the psalm's echo.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "laborabit",
+      "refs": [
+        "48:9"
+      ],
+      "latin": "et laborábit in ætérnum",
+      "kind": "glossary",
+      "why": "laboráre → *cansar-se* (row, open), which names 48:9 as wanting *trabalhar*. Here it is toil or distress without end (DRB 'shall labour for ever'; MS1932 *estará em sofrimento*, a reading). The Greek ἐκόπασεν ('grew weary / ceased') differs and is not followed. *trabalhará* keeps the plain verb and leaves open whether it is toil in life or pain after it.",
+      "options": [
+        {
+          "label": "trabalhará",
+          "forms": {
+            "laborabit": "trabalhará"
+          },
+          "note": "Ruling; DRB 'labour'.",
+          "from": "DRB"
+        },
+        {
+          "label": "se cansará",
+          "forms": {
+            "laborabit": "se cansará"
+          },
+          "note": "the row's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "penará",
+          "forms": {
+            "laborabit": "penará"
+          },
+          "note": "MS1932's sense (suffering); decides.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "infinem",
+      "refs": [
+        "48:9"
+      ],
+      "latin": "et vivet adhuc in finem",
+      "kind": "glossary",
+      "why": "The place D27 named: *in ætérnum* and *in finem* in one colon. *in ætérnum* → *para sempre* (D23); *in finem* keeps the in-finem row's other rendering *até o fim* (17:36b), so the two phrases stay two. Nothing is negated, so 9:19's fault does not arise.",
+      "options": [
+        {
+          "label": "até o fim",
+          "forms": {
+            "infinem": "até o fim"
+          },
+          "note": "Ruling; DRB 'unto the end'.",
+          "from": "glossary"
+        },
+        {
+          "label": "para sempre",
+          "forms": {
+            "infinem": "para sempre"
+          },
+          "note": "the row's default; would say *para sempre* twice.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "videns",
+      "refs": [
+        "48:11"
+      ],
+      "latin": "cum víderit sapiéntes moriéntes",
+      "kind": "grammar",
+      "why": "v2, the stylist's: *quando vir morrer os sábios* put a proparoxytone (*sábios*) at the mediant, and *vir* (of *ver*) is heard first as *vir* 'to come'. *ao ver os sábios morrerem* keeps the verb, the wise and their dying, and changes only the build (a temporal *cum* clause as *ao* + infinitive — grammar, D2). The future perfect's anteriority is not marked; it was not heard in *quando vir* either.",
+      "options": [
+        {
+          "label": "ao ver os sábios morrerem",
+          "forms": {
+            "videns": "ao ver os sábios morrerem"
+          },
+          "note": "Ruling (v2); stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "quando vir morrer os sábios",
+          "forms": {
+            "videns": "quando vir morrer os sábios"
+          },
+          "note": "draft 1; MS1932.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "stultus",
+      "refs": [
+        "48:11"
+      ],
+      "latin": "simul insípiens, et stultus períbunt",
+      "kind": "glossary",
+      "why": "insípiens → *insensato* (row), and the row requires stultus to stay apart (ἄφρων / ἄνους). *tolo* is the plain word; *estulto* keeps the root but few say it; *néscio* is MS1932's word for *insípiens* in Ps 52, and would confuse the pair. Only here and 91:7 (*insípiens … stultus*, grep).",
+      "options": [
+        {
+          "label": "tolo",
+          "forms": {
+            "stultus": "tolo"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "estulto",
+          "forms": {
+            "stultus": "estulto"
+          },
+          "note": "the cognate; bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "néscio",
+          "forms": {
+            "stultus": "néscio"
+          },
+          "note": "MS1932 here; bookish.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "vocaverunt",
+      "refs": [
+        "48:12"
+      ],
+      "latin": "vocavérunt nómina sua in terris suis",
+      "kind": "grammar",
+      "why": "ἐπεκαλέσαντο τὰ ὀνόματα αὐτῶν ἐπὶ τῶν γαιῶν αὐτῶν: they called their names over their lands, i.e. named their lands after themselves (DRB 'they have called their lands by their names'). The word-for-word *chamaram os seus nomes nas suas terras* is not Portuguese; DRB's build keeps the verb *vocáre → chamar* and the names; MS1932 *deram os seus nomes às suas terras* changes the verb. v2: the Latinist marked draft 1 MAJOR — in the Latin *nómina sua* is the object and *in terris suis* a place, and DRB's build explains (they named their estates after themselves), closing what the Latin leaves open (they called out, proclaimed, their names in their lands). Taken: *chamaram os seus nomes nas suas terras* is sayable, and draft 1's own reason for refusing it (\"not Portuguese\") was too strong.",
+      "options": [
+        {
+          "label": "chamaram os seus nomes nas suas terras",
+          "forms": {
+            "vocaverunt": "chamaram os seus nomes nas suas terras"
+          },
+          "note": "Ruling (v2); the Latinist's fix.",
+          "from": "latinist"
+        },
+        {
+          "label": "chamaram as suas terras pelos seus nomes",
+          "forms": {
+            "vocaverunt": "chamaram as suas terras pelos seus nomes"
+          },
+          "note": "draft 1; DRB — the Latinist (major): makes *terras* the object, the Hebrew-family explanation.",
+          "from": "DRB"
+        },
+        {
+          "label": "deram os seus nomes às suas terras",
+          "forms": {
+            "vocaverunt": "deram os seus nomes às suas terras"
+          },
+          "note": "MS1932; plainer, loses *chamar*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "invocaram os seus nomes sobre as suas terras",
+          "forms": {
+            "vocaverunt": "invocaram os seus nomes sobre as suas terras"
+          },
+          "note": "the Greek word for word; *invocar* is invocáre's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "honore",
+      "refs": [
+        "48:13",
+        "48:21"
+      ],
+      "latin": "(Et) homo, cum in honóre esset, non intelléxit",
+      "kind": "word",
+      "why": "The refrain: 48:13 and 48:21 are identical but for the opening *Et*, and are filled from one slot. *cum … esset* → *quando estava*: plain and sayable; *estando* is shorter but stiff; MS1932 *constituído em honra* adds a word. honor → *honra* (row). intellégere → *entender* (row).",
+      "options": [
+        {
+          "label": "quando estava em honra",
+          "forms": {
+            "honore": "quando estava em honra"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "estando em honra",
+          "forms": {
+            "honore": "estando em honra"
+          },
+          "note": "the participle; shorter.",
+          "from": "draft"
+        },
+        {
+          "label": "constituído em honra",
+          "forms": {
+            "honore": "constituído em honra"
+          },
+          "note": "MS1932; *constituído* is not in the Latin.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "insipientibus",
+      "refs": [
+        "48:13",
+        "48:21"
+      ],
+      "latin": "comparátus est juméntis insipiéntibus",
+      "kind": "glossary",
+      "why": "juménta → *animais* (row; *jumento* is a donkey in Brazil). insipiéntibus is the same word as 48:11 *insípiens* → *insensato* (row): the beasts are 'without sense', the fool of 48:11 is the same word — the echo is the psalm's argument, so it is kept (τοῖς κτήνεσιν τοῖς ἀνοήτοις; 48:11 has ἄφρων, so the Greek does not echo; the Latin does). MS1932 *animais sem razão* is the common idiom.",
+      "options": [
+        {
+          "label": "insensatos",
+          "forms": {
+            "insipientibus": "insensatos"
+          },
+          "note": "Ruling: echoes 48:11.",
+          "from": "glossary"
+        },
+        {
+          "label": "sem razão",
+          "forms": {
+            "insipientibus": "sem razão"
+          },
+          "note": "MS1932; idiomatic; the echo lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "factus",
+      "refs": [
+        "48:13",
+        "48:21"
+      ],
+      "latin": "et símilis factus est illis",
+      "kind": "word",
+      "why": "v2, the stylist's: *se fez* keeps *factus est* (*fieri* / *fazer-se*, as 48:17 *dives factus* → *se fizer rico*) and puts the pronoun where Brazilians put it after *e*; *tornou-se* (MS1932) is the plainer verb but another word. The refrain changes in both places from one slot.",
+      "options": [
+        {
+          "label": "se fez",
+          "forms": {
+            "factus": "se fez"
+          },
+          "note": "Ruling (v2); stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "tornou-se",
+          "forms": {
+            "factus": "tornou-se"
+          },
+          "note": "draft 1; MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "complacebunt",
+      "refs": [
+        "48:14"
+      ],
+      "latin": "et póstea in ore suo complacébunt",
+      "kind": "ambiguity",
+      "why": "Dark: 'and afterwards they will be pleased in their mouth' — they delight in their own words, or (others) approve their sayings (DRB 'they shall delight in their mouth'; MS1932 *comprazem-se nos seus discursos*, a reading). complacére in → *achar prazer em* (25:3). *na sua boca* keeps the image and leaves open whose pleasure and in what.",
+      "options": [
+        {
+          "label": "acharão prazer na sua boca",
+          "forms": {
+            "complacebunt": "acharão prazer na sua boca"
+          },
+          "note": "Ruling; the complacére in row (25:3).",
+          "from": "glossary"
+        },
+        {
+          "label": "se comprazerão na sua boca",
+          "forms": {
+            "complacebunt": "se comprazerão na sua boca"
+          },
+          "note": "the cognate; *comprazer* was unknown to a blind reader (25:3).",
+          "from": "draft"
+        },
+        {
+          "label": "se comprazerão nas suas palavras",
+          "forms": {
+            "complacebunt": "se comprazerão nas suas palavras"
+          },
+          "note": "MS1932's reading; explains the mouth.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se agradarão da própria boca",
+          "forms": {
+            "complacebunt": "se agradarão da própria boca"
+          },
+          "note": "stylist: *acharão prazer na sua boca* sounds like tasting. Refused: *própria* decides whose mouth, which the blind reader and the Latin both leave open (theirs, their followers', even God's); the Latinist passed the draft's words.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "depascet",
+      "refs": [
+        "48:15"
+      ],
+      "latin": "mors depáscet eos",
+      "kind": "ambiguity",
+      "why": "depáscere is to graze a thing down, eat it off (L&S cites this verse under the active 'consume'); the Greek ποιμαίνει and the Hebrew have the shepherd who pastures them. The Latin word joins both halves of the image — the sheep of the first colon, and death feeding on them. *pastar* (transitive: to graze on) keeps the pasture root and the devouring; *apascentar* keeps only the shepherd (the Greek); MS1932 *serão pasto da morte* keeps the devouring as a paraphrase.",
+      "options": [
+        {
+          "label": "os pastará",
+          "forms": {
+            "depascet": "os pastará"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "os apascentará",
+          "forms": {
+            "depascet": "os apascentará"
+          },
+          "note": "the Greek's shepherd; not *de-*.",
+          "from": "draft"
+        },
+        {
+          "label": "fará deles o seu pasto",
+          "forms": {
+            "depascet": "fará deles o seu pasto"
+          },
+          "note": "MS1932's sense; longer.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se alimentará deles",
+          "forms": {
+            "depascet": "se alimentará deles"
+          },
+          "note": "DRB 'feed upon them'; the pasture lost.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "agloria",
+      "refs": [
+        "48:15b"
+      ],
+      "latin": "et auxílium eórum veteráscet in inférno a glória eórum",
+      "kind": "ambiguity",
+      "why": "*a glória eórum* (ἐκ τῆς δόξης αὐτῶν; DRB 'from their glory') is the hardest phrase of the psalm: away from their glory (fallen from it), or the help that came from their glory, or after it (MS1932 *passada a sua glória*). *longe da sua glória* takes the separation, the plainest sense of *a* + ablative with a verb of decay; *da sua glória* alone would dangle. Recorded as a place where Portuguese had to choose. v2: the Latinist (minor) asked for *desde*, which in Portuguese says both 'from' (a starting point) and 'since' (after) — two of the Latin's readings in one word, where *longe* chose one; the stylist and the blind reader both found *sua* pointing to the just or to God, so *deles* (the Latin repeats *eórum* too).",
+      "options": [
+        {
+          "label": "desde a glória deles",
+          "forms": {
+            "agloria": "desde a glória deles"
+          },
+          "note": "Ruling (v2): the Latinist's *desde* with the stylist's *deles*.",
+          "from": "latinist"
+        },
+        {
+          "label": "longe da sua glória",
+          "forms": {
+            "agloria": "longe da sua glória"
+          },
+          "note": "draft 1; the Latinist: *longe* decides the *a* and adds distance; the blind reader heard *sua* as God's glory.",
+          "from": "draft"
+        },
+        {
+          "label": "fora da sua glória",
+          "forms": {
+            "agloria": "fora da sua glória"
+          },
+          "note": "the same reading, closer to *a*; D20's *fora de*.",
+          "from": "draft"
+        },
+        {
+          "label": "privado da sua glória",
+          "forms": {
+            "agloria": "privado da sua glória"
+          },
+          "note": "explains.",
+          "from": "draft"
+        },
+        {
+          "label": "passada a sua glória",
+          "forms": {
+            "agloria": "passada a sua glória"
+          },
+          "note": "MS1932's temporal reading.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "acceperit",
+      "refs": [
+        "48:16"
+      ],
+      "latin": "cum accéperit me",
+      "kind": "glossary",
+      "why": "accípere → *receber* (row). God 'receives' the soul (λαμβάνῃ; DRB 'when he shall receive me'); MS1932 *quando me tomar (deste mundo)*, with a gloss. 17:17 *accépit me* → *me tomou* stands for a rescue from waters; here it is taking to himself.",
+      "options": [
+        {
+          "label": "receber",
+          "forms": {
+            "acceperit": "receber"
+          },
+          "note": "Ruling; DRB.",
+          "from": "glossary"
+        },
+        {
+          "label": "tomar",
+          "forms": {
+            "acceperit": "tomar"
+          },
+          "note": "MS1932; = 17:17.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "interierit",
+      "refs": [
+        "48:18"
+      ],
+      "latin": "Quóniam cum interíerit",
+      "kind": "word",
+      "why": "interíre, 'to perish, die'; the Greek here is ἐν τῷ ἀποθνῄσκειν, the verb of 48:11 *moriéntes* — so by D15's test the plain *morrer*; *perecer* is períre's, which stands in 48:11 in the same argument, and 36:38 gave *interíbunt* → *se extinguirá* for a remnant, which does not fit a man.",
+      "options": [
+        {
+          "label": "morrer",
+          "forms": {
+            "interierit": "morrer"
+          },
+          "note": "Ruling; DRB 'when he shall die'; MS1932 *em morrendo*.",
+          "from": "DRB"
+        },
+        {
+          "label": "perecer",
+          "forms": {
+            "interierit": "perecer"
+          },
+          "note": "keeps it apart from *mori*; merges with períre.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "omnia",
+      "refs": [
+        "48:18"
+      ],
+      "latin": "non sumet ómnia",
+      "kind": "grammar",
+      "why": "*non … ómnia* is the Greek's οὐκ … τὰ πάντα, a Hebrew 'not … all' = 'nothing'; DRB 'he shall take nothing away', MS1932 *nada levará consigo*. In Portuguese *não levará tudo* means 'he will take some of it' — a wrong sense. The negation of the whole is grammar (D2). sumere → *levar* (take away).",
+      "options": [
+        {
+          "label": "nada levará",
+          "forms": {
+            "omnia": "nada levará"
+          },
+          "note": "Ruling; DRB, MS1932.",
+          "from": "DRB"
+        },
+        {
+          "label": "não levará tudo",
+          "forms": {
+            "omnia": "não levará tudo"
+          },
+          "note": "word for word; heard as 'not all of it'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "invita",
+      "refs": [
+        "48:19"
+      ],
+      "latin": "ánima ejus in vita ipsíus benedicétur",
+      "kind": "grammar",
+      "why": "v2, the stylist's: *na sua vida* after *a sua alma* repeats the possessive and is heard as the idiom '(never) in his life'. *em vida* is the Portuguese for 'during his lifetime', which is what *in vita ipsíus* says (MS1932 *enquanto vive*); *ipsíus* is carried by the idiom. The blind reader heard a real blessing on him; that is the Latin's surface too (the Hebrew's 'he blessed his soul' is not followed, rule 1).",
+      "options": [
+        {
+          "label": "em vida",
+          "forms": {
+            "invita": "em vida"
+          },
+          "note": "Ruling (v2); stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "na sua vida",
+          "forms": {
+            "invita": "na sua vida"
+          },
+          "note": "draft 1; the Latin word for word.",
+          "from": "draft"
+        },
+        {
+          "label": "enquanto viver",
+          "forms": {
+            "invita": "enquanto viver"
+          },
+          "note": "MS1932's sense (*enquanto vive*); a clause.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tibi",
+      "refs": [
+        "48:19"
+      ],
+      "latin": "confitébitur tibi cum beneféceris ei",
+      "kind": "ambiguity",
+      "why": "Who is *tibi*? God is never addressed in Ps 48; the one second-person singular is the hearer of 48:17 *Ne timúeris* (→ *tu*). So *tibi* continues him: the rich man praises you when you do him good (MS1932 *ele te bendirá quando lhe fizeres bem*). A reading of *tibi* as God is possible (a sudden apostrophe); *vós* would impose it — and would also be heard as the nations of 48:2. confitéri → *dar graças* (D5), which serves thanks to a benefactor as well as to God. v2: the Latinist, reading the Latin, did not flag *te* ('the Latin's second singular is consistent with that').",
+      "options": [
+        {
+          "label": "ele te dará graças quando lhe fizeres bem",
+          "forms": {
+            "tibi": "ele te dará graças quando lhe fizeres bem"
+          },
+          "note": "Ruling; MS1932's address.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ele vos dará graças quando lhe fizerdes bem",
+          "forms": {
+            "tibi": "ele vos dará graças quando lhe fizerdes bem"
+          },
+          "note": "God addressed (vós); an apostrophe the psalm does not otherwise make.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "verumtamen",
+      "refs": [
+        "48:16"
+      ],
+      "latin": "Verúmtamen Deus rédimet",
+      "kind": "glossary",
+      "why": "verúmtamen → *Todavia* (row; 31:6b, 38:6b, 38:7, 38:12b, 90:8). The stylist asked *Mas*, as plainer at the psalm's turn. Refused: the row is applied in five places, and *mas* is *autem* / *sed*'s; if the row changes, all change together.",
+      "options": [
+        {
+          "label": "Todavia,",
+          "forms": {
+            "verumtamen": "Todavia,"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Mas",
+          "forms": {
+            "verumtamen": "Mas"
+          },
+          "note": "stylist.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "usque",
+      "refs": [
+        "48:20"
+      ],
+      "latin": "Introíbit usque in progénies … et usque in ætérnum non vidébit lumen",
+      "kind": "order",
+      "why": "The stylist asked *Entrará até junto às gerações* and *e jamais, para sempre, verá a luz*. Refused both: *junto* is a word the Latin lacks (and *até as*, elided, is ordinary speech; *entrar até* is D42's); *usque in ætérnum* → *para todo o sempre* is D37's formula and *jamais* adds a negative the Latin does not have. The Latin puts the adverb first and the negation after, and draft 1 follows it.",
+      "options": [
+        {
+          "label": "e para todo o sempre não verá",
+          "forms": {
+            "usque": "e para todo o sempre não verá"
+          },
+          "note": "Ruling; D37, the Latin's order.",
+          "from": "glossary"
+        },
+        {
+          "label": "e nunca mais verá",
+          "forms": {
+            "usque": "e nunca mais verá"
+          },
+          "note": "9:32's way for a negated perpetuity; loses D37's formula.",
+          "from": "draft"
+        },
+        {
+          "label": "e jamais, para sempre, verá",
+          "forms": {
+            "usque": "e jamais, para sempre, verá"
+          },
+          "note": "stylist; *jamais* added.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "48:2": "áuribus percípere → *dai ouvidos* (D4; 48:2 is on its list). orbis → *o mundo* (D30; 32:8 *todos os que habitam o mundo*). gentes → *nações* (row). *todos os que habitais*: the second person agrees with the vocative, as Portuguese allows.",
+    "48:3": "The vocative of 48:2 runs on. dives et pauper → *o rico e o pobre* (pauper → pobre, D38).",
+    "48:4": "Os → *boca*; sapiéntia → *sabedoria*, prudéntia → *prudência*, both without article as the Latin (MS1932 *falará sabedoria*). *meditátio cordis mei* → *a meditação do meu coração* (18:15a); the second colon stays verbless as the Latin.",
+    "48:5": "inclináre aurem → *inclinar o ouvido* (row; auris → ouvido); the Latin's order kept (*à parábola* before the ear), which puts a paroxytone at the mediant. parábola → *parábola* (Christ's word in the Gospel; Mt 13:35 quotes 77:2 *apériam in parábolis os meum*). psaltérium → *saltério* (row; 32:2 *com o saltério*). *saltério* was unknown to the blind reader, as in 32:2; kept (row).",
+    "48:6": "in die mala → *no dia mau* (40:2). circumdáre → *cercar* (row). The Latin ends on a colon: 48:7 goes on.",
+    "48:7": "gloriári in → *gloriar-se em* (row). multitúdo → *multidão* (row). The verse is a hanging nominative (the Latin's; DRB also leaves it hanging).",
+    "48:8": "frater → *irmão* (21:23). *propiciação* was unknown to the blind reader; kept for now (decision `placatio`; *o que o aplaque* is the plain option) — flagged in the glossary row.",
+    "48:11": "Verse 10 of the Vulgate is inside DO's 48:9; DO's ids kept. intéritus → *destruição* (row). v2 *ao ver os sábios morrerem* (decision `videns`). simul → *juntos* (row), next to the verb (36:38). períre → *perecer* (row).",
+    "48:11b": "relínquere → *deixar*; aliénus → *estranho* (row), without article (the Latin has none). The second colon has no verb in the Latin: *serão* supplied (grammar, D2; DRB 'shall be'). eórum / illórum both → *seus*.",
+    "48:12": "tabernáculum → *tenda* (row). *in progénie et progénie* → *de geração em geração* — the formula of *in generatióne et generatiónem* (32:11, 118:90): the Greek is γενεὰν καὶ γενεάν in both, so D15's test lets progénies share *geração*. The first colon verbless, as the Latin, hanging on 48:11b's *serão*.",
+    "48:13": "The refrain (= 48:21 but for *Et*). comparáre (passive) → *foi comparado*; *símilis factus est* → *se fez semelhante* (v2, decision `factus`).",
+    "48:14": "The Latin is verbless in the first colon; *é* supplied. via → *caminho* (row); scándalum → *tropeço* (row; 48:14 is on its list; unknown to the blind reader, kept — 118:165). v2: *Este caminho deles é tropeço para eles* — draft 1's *Este seu* (to save syllables) was the stylist's worst line (two determiners); the +3/+4 length is accepted. *deles … para eles* keeps *illórum … ipsis*.",
+    "48:15": "inférnus → *inferno* (row, open; here the wicked, like 9:18). oves → *ovelhas*. *pósiti sunt* → *foram postos*.",
+    "48:15b": "dominári + genitive → *dominar* with an object (21:29). in matutíno → *pela manhã* (29:6b *ad matutínum → pela manhã*). veteráscere → *envelhecer*; auxílium → *auxílio*.",
+    "48:16": "verúmtamen → *Todavia* (row). *de manu ínferi* → *da mão do inferno* (the hand kept, as 30:16 *da mão dos meus inimigos*). redímere → *resgatar* (row).",
+    "48:17": "*Ne timúeris* to one hearer → *tu* (*Não temas*; as 36:1 *Não tenhas inveja*). homo here is 'a man', any man. *dives factus fúerit* → *se fizer rico* (factus kept as *fazer-se*). multiplicári → *multiplicar-se* (row).",
+    "48:18": "*neque descéndet cum eo glória ejus* → *nem descerá com ele a sua glória*, the Latin's order.",
+    "48:19": "benedícere (passive) → *será bendita* (row). *in vita ipsíus* → *em vida* (v2, decision `invita`).",
+    "48:20": "introíre usque in → *entrar até* (D42's *entrar até*). *usque in ætérnum* → *para todo o sempre* (D37). progénies (plural) → *as gerações*. lumen → *luz* (row). The Latin's order: the negation after the adverb; *para todo o sempre não verá* is not bounded as *até o fim* was at 9:19.",
+    "48:21": "= 48:13 without *E* (the Latin has no *Et* here); every other word identical, from the same slots."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm48.txt, 21 prayed verses (48:2–48:21; DO has no 48:10 — the Vulgate's v10 is inside 48:9 — and splits 48:11b, 48:15b; no titulus, D7). One mediant per verse, no flex, no ‡. The refrain 48:13 = 48:21 (48:13 opens with *Et*)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps048.md (Latin, LXX, WLC, DRB, MS1932; no DM1962 for this psalm). DO's Portuguese not used (D12). Formulas checked with ps038/xref.py. Rulings applied: D3 (audíre → *Escutai*, the bare *Ouvi* banned), D4 (48:2 on its list), D5 (*dar graças*, 48:19), D23 (*para sempre*), D27 (48:9 decides locally: *até o fim*), D30 (*o mundo*), D37 (48:20 *para todo o sempre*), D38 (*pobre*), D42 (*entrar até*). Hard readings left open as the Latin leaves them: 48:6 *a iniquidade do meu calcanhar*, 48:8 *O irmão não resgata, o homem resgatará*, 48:9 *E o preço* (verbless), 48:14 *acharão prazer na sua boca*, 48:15 *a morte os pastará*. Places where Portuguese had to choose: 48:15b *a glória eórum* → *longe da sua glória*; 48:18 *non … ómnia* → *nada*; 48:19 *tibi* → *te* (the hearer of 48:17)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. 48:14 first colon shortened after a +4 flag (*Este seu caminho é tropeço para eles*). Accepted length flags: 48:3a +4 (the correlative *tanto … como*; *vós, os nascidos…* is the option), 48:7b −4 and 48:12a −5 and 48:20a −4 (Latin proparoxytones and long words), 48:8a +3 (articles), 48:11 ±3, 48:15b a −3, 48:18a −3 (*nada levará*). No rhyme flags. Oxytone cadences where the Latin is paroxytone (*nações*, *mau*, *poder*, *resgatará*, *propiciação*, *fim*, *entendeu*, *pastará*, *manhã*, *levará*, *bem*, *pais*, *luz*) — allowed by rule 4."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37). The coordinator ran the three readers on draft 1 as fresh-context agents; each was claude-opus-5-5 (fresh context)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context). One major, two minor. Passed the hard spots left open (48:6, 48:8, 48:9, 48:14) and the *te* of 48:19.",
+      "outcomes": [
+        {
+          "verse": "48:12",
+          "remark": "DRB build makes *terras* the object and explains; keep *chamaram os seus nomes nas suas terras* (major)",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:15b",
+          "remark": "*longe da* decides the *a*; use *desde*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:18",
+          "remark": "*nada levará* resolves *non … ómnia*; *não levará todas as coisas*",
+          "outcome": "refused",
+          "decision": "omnia",
+          "reason": "In Portuguese *não levará tudo / todas as coisas* means he takes part of it — a wrong sense, not an open one; the Greek οὐκ … τὰ πάντα is the Hebrew 'not … anything', and both Vulgate-family versions (DRB, MS1932) say nothing. The negation of the whole is grammar (D2); the stylist named the line the psalm's best. The word-for-word form stays option 2."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context). Ten remarks on nine verses; worst line 48:14, best 48:18. Six taken, four kept as options.",
+      "outcomes": [
+        {
+          "verse": "48:3",
+          "remark": "*tanto … como* a prose aside; plain *e*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:5",
+          "remark": "*com o saltério* like a tool; *ao som do saltério*",
+          "outcome": "option",
+          "decision": "propositio",
+          "reason": "*som* is not in the Latin; *com o saltério* is 32:2's."
+        },
+        {
+          "verse": "48:5",
+          "remark": "*proposição* a schoolroom word",
+          "outcome": "taken",
+          "decision": "propositio"
+        },
+        {
+          "verse": "48:11",
+          "remark": "proparoxytone at the mediant, *vir* heard as 'come'; *ao ver os sábios morrerem*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:13",
+          "remark": "*e se fez semelhante* (also 48:21)",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:14",
+          "remark": "*Este seu* stacks determiners; *Este caminho deles é para eles um tropeço*",
+          "outcome": "taken",
+          "reason": "taken as *Este caminho deles é tropeço para eles* (the article *um* not added)."
+        },
+        {
+          "verse": "48:14",
+          "remark": "*acharão prazer na sua boca* sounds like tasting; *se agradarão da própria boca*",
+          "outcome": "option",
+          "decision": "complacebunt",
+          "reason": "*própria* closes whose mouth, which the Latin leaves open; the Latinist passed the draft."
+        },
+        {
+          "verse": "48:15b",
+          "remark": "*sua* could be the just's or God's; *deles*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:16",
+          "remark": "*Todavia* bookish; *Mas*",
+          "outcome": "option",
+          "decision": "verumtamen",
+          "reason": "the verúmtamen row, applied in five places; *mas* is autem's."
+        },
+        {
+          "verse": "48:19",
+          "remark": "*na sua vida* repeats the possessive and is idiomatic; *em vida*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:20",
+          "remark": "*até junto às*; *e jamais, para sempre, verá a luz*",
+          "outcome": "option",
+          "decision": "usque",
+          "reason": "adds *junto* and *jamais*; D37's formula and D42's *entrar até* kept."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context). 31 ambiguities, 5 unknown words (saltério, proposição, propiciação, iniquidade, tropeço).",
+      "outcomes": [
+        {
+          "verse": "48:3",
+          "remark": "the contrast of the two groups not audible",
+          "outcome": "refused",
+          "reason": "terrígenæ / fílii hóminum are the Latin's images; the Hebrew's low-and-high contrast is not the Latin's to import (rule 1)."
+        },
+        {
+          "verse": "48:5",
+          "remark": "*proposição* unknown, heard as a proposal",
+          "outcome": "taken",
+          "decision": "propositio"
+        },
+        {
+          "verse": "48:6",
+          "remark": "the heel heard as my own sins, contradicting *why fear*",
+          "outcome": "refused",
+          "decision": "calcanei",
+          "reason": "the Latin's own crux, kept open on purpose; the Latinist passed it."
+        },
+        {
+          "verse": "48:8",
+          "remark": "a self-contradictory statement; the question not audible",
+          "outcome": "refused",
+          "decision": "redimet",
+          "reason": "the Latin has no question mark; kept as punctuated (decision records the question as an option)."
+        },
+        {
+          "verse": "48:8",
+          "remark": "*propiciação* unknown",
+          "outcome": "refused",
+          "decision": "placatio",
+          "reason": "kept for *suam* and the noun; the plain clause is option 2; for Gustavo."
+        },
+        {
+          "verse": "48:9",
+          "remark": "heard as a positive promise; the link to *não dará* weak",
+          "outcome": "refused",
+          "decision": "etpretium",
+          "reason": "the Latin's *Et* and its open construction."
+        },
+        {
+          "verse": "48:11",
+          "remark": "heard as a statement that he escapes destruction",
+          "outcome": "refused",
+          "reason": "the Latin is a statement; the irony is the reader's to find, as in the Latin."
+        },
+        {
+          "verse": "48:12",
+          "remark": "*chamaram as suas terras pelos seus nomes* heard as naming estates",
+          "outcome": "taken",
+          "reason": "changed with the Latinist's major."
+        },
+        {
+          "verse": "48:14",
+          "remark": "*Este seu*: whose?",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:15",
+          "remark": "*a morte os pastará* heard as death their shepherd",
+          "outcome": "refused",
+          "decision": "depascet",
+          "reason": "the shepherd is one of the two readings the Latin holds (the Greek's ποιμαίνει); the reader listed the devouring as the other. Both are heard; kept."
+        },
+        {
+          "verse": "48:15b",
+          "remark": "*sua glória* heard as God's",
+          "outcome": "taken"
+        },
+        {
+          "verse": "48:19",
+          "remark": "a real blessing, clashing with context",
+          "outcome": "refused",
+          "reason": "the Latin's passive *benedicétur* says so on its surface; the Hebrew's self-blessing is not followed (rule 1)."
+        },
+        {
+          "verse": "48:5, 48:6, 48:14",
+          "remark": "unknown: saltério, iniquidade, tropeço",
+          "outcome": "refused",
+          "reason": "glossary rows (psaltérium, iníquitas, scándalum), each already heard as unknown elsewhere and kept."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 48:3 plain *e* (stylist); 48:5 *o que proponho* (stylist + blind reader); 48:11 *ao ver os sábios morrerem* (stylist); 48:12 *chamaram os seus nomes nas suas terras* (Latinist, major); 48:13 = 48:21 *se fez semelhante* (stylist); 48:14 *Este caminho deles é tropeço para eles* (stylist); 48:15b *desde a glória deles* (Latinist + stylist + blind reader); 48:19 *em vida* (stylist). New decisions: videns, factus, invita, verumtamen, usque. The refrain still identical but for *E*."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. New length flags: 48:5b −4 (*o que proponho* for the long *propositiónem meam*), 48:14a +4 (*deles … para eles*, the stylist asked it), 48:19a −3 (*em vida*); accepted. Others as draft 1. No rhyme flags. The refrain 48:13 = 48:21 identical but for *E*."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate, claude-opus-5-5 (fresh context). No major; five minors, all on v2 wordings that were weighed before; all held, each wording he asks for is an option. He passed the hard readings kept open (48:6, 48:8, 48:9, 48:14) and the *te* of 48:19.",
+      "outcomes": [
+        {
+          "verse": "48:3",
+          "remark": "the correlative *-que … et* flattened; back to *tanto … como*",
+          "outcome": "refused",
+          "decision": "terrigenae",
+          "reason": "order and grammar (D2): both nouns and the vocative are kept; the stylist heard *tanto … como* as a prose aside and it was +4 syllables. Draft 1 wording is option 2."
+        },
+        {
+          "verse": "48:5",
+          "remark": "noun turned into a clause; *no saltério a minha proposição*",
+          "outcome": "refused",
+          "decision": "propositio",
+          "reason": "*proposição* was bookish to the stylist and unknown to the blind reader; the clause keeps the root (D16 precedent). *com o saltério* is 32:2’s rendering of *in psaltério*. The noun is option 2."
+        },
+        {
+          "verse": "48:15b",
+          "remark": "*desde* reads temporal; wants *longe da glória deles*",
+          "outcome": "refused",
+          "decision": "agloria",
+          "reason": "the v1 gate asked for *desde* against *longe* (which decides the *a*); the two runs contradict each other. *desde* holds both the separative and the temporal reading (MS1932’s *passada a sua glória*), so it is kept; *longe da* is option 2 — for Gustavo’s ear."
+        },
+        {
+          "verse": "48:18",
+          "remark": "*nada* resolves *non … ómnia*; *não levará tudo*",
+          "outcome": "refused",
+          "decision": "omnia",
+          "reason": "as in v1: *não levará tudo* is heard as ‘not all of it’, a wrong sense; DRB and MS1932 both say nothing; negation is grammar (D2). The stylist’s best line. Option 2."
+        },
+        {
+          "verse": "48:19",
+          "remark": "*ipsíus* dropped in *em vida*",
+          "outcome": "refused",
+          "decision": "invita",
+          "reason": "*em vida* is the Portuguese for ‘in his own lifetime’; *na sua vida* after *a sua alma* repeats the possessive and is heard as the idiom ‘(never) in his life’ (stylist). Option 2."
+        }
+      ]
+    },
+    {
+      "step": "glossary",
+      "note": "Rows appended to glossary.md (open, Ps 48): terrígenæ, simul in unum, propósitio, calcáneum, placátio, redémptio in the psalm of rédimere, laboráre in ætérnum, stultus, vocáre nómina in terris, depáscere, a glória eórum, interíre (ἀποθνῄσκειν), non … ómnia, in vita ipsíus, the refrain 48:13 = 48:21. PROGRESS.md row added."
+    }
+  ]
+}

@@ -1,0 +1,1362 @@
+{
+  "psalm": 44,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "44:2a": "O meu coração {eruct} uma boa palavra: * eu digo as minhas obras ao Rei.",
+    "44:2b": "A minha língua é {calamus} de um escriba: * que escreve depressa.",
+    "44:3": "{A3}",
+    "44:4": "{A4}",
+    "44:5a": "{A5a}",
+    "44:5b": "{A5b}",
+    "44:6": "{A6}",
+    "44:7": "{A7}",
+    "44:8": "{A8}",
+    "44:9": "{A9}",
+    "44:10b": "{A10b}",
+    "44:11": "Ouve, filha, e vê, e inclina o teu ouvido: * e esquece o teu povo e a casa do teu pai.",
+    "44:12": "E o Rei {concup}: * porque ele é o Senhor, o teu Deus, e hão de adorá-lo.",
+    "44:13": "E as filhas de Tiro com {munera} * suplicarão o teu rosto: todos os ricos do povo.",
+    "44:14": "{omnis} {abintus}, * em franjas de ouro, {var14}.",
+    "44:15b": "{A15b}",
+    "44:16": "Serão trazidas com alegria e exultação: * serão levadas ao templo do Rei.",
+    "44:17": "{A17}",
+    "44:18a": "{A18a}",
+    "44:18b": "{A18b}"
+  },
+  "decisions": [
+    {
+      "id": "address",
+      "refs": [
+        "44:3",
+        "44:4",
+        "44:5a",
+        "44:5b",
+        "44:6",
+        "44:7",
+        "44:8",
+        "44:9",
+        "44:10b",
+        "44:15b",
+        "44:17",
+        "44:18a",
+        "44:18b"
+      ],
+      "latin": "tu, te, tibi, tuus (the king, 44:3–10b, 15b, 17–18b)",
+      "kind": "grammar",
+      "why": "D17 left open how the psalmist speaks to the Messiah-king of Ps 44. Ruled *tu*, as rule 3 gives a single human addressee: the psalm is a wedding song addressed first to the bridegroom (3–10b, 15b, 17–18b) and then to the bride (11–14), and the bride is *tu* beyond question; one poet speaking to the two partners of one wedding cannot say *vós* to one and *tu* to the other without the Portuguese inventing a rank the Latin does not mark. MS1932 says *tu* to both. The hard place is 44:7–8, where the king is called *Deus* (Heb 1:8–9 reads it of the Son): *O teu trono, ó Deus* is the price. It is the psalmist's voice, not the praying voice turned to God (D1), so D1 does not reach it; but a Christian reader will feel the *tu* there, and the whole *vós* text is written as option 2 so that it can be taken in one touch. In the liturgical uses the antiphons are often turned to Christ or the saint (*Mémores erunt nóminis tui, Dómine*, C1) — those will be adapted where they are used, not here.",
+      "options": [
+        {
+          "label": "tu (the king)",
+          "forms": {
+            "A3": "És {spec3}, † {diffusa}: * por isso Deus te bendisse para sempre.",
+            "A4": "Cinge a tua espada sobre a tua {femur}, * {potent}.",
+            "A5a": "Com a tua {species}: * {intende}, {prospere}, e reina.",
+            "A5b": "Por causa da verdade, e da mansidão, e da justiça: * e a tua direita te guiará maravilhosamente.",
+            "A6": "As tuas setas {sag}, os povos cairão debaixo de ti: * {incorda} dos inimigos do Rei.",
+            "A7": "O teu trono, ó Deus, é pelos séculos dos séculos: * {virga}.",
+            "A8": "Amaste a justiça, e odiaste a iniquidade: * por isso {unxit} com óleo de alegria, {prae} companheiros.",
+            "A9": "Mirra, e {gutta}, e cássia, das tuas vestes, das casas de marfim: * {exq} te deleitaram as filhas dos reis {honor}.",
+            "A10b": "A rainha {astitit} à tua direita {vestitu}: * {var10}.",
+            "A15b": "Serão levadas ao Rei as virgens após ela: * {proximae} te serão trazidas.",
+            "A17": "Em lugar dos teus pais te nasceram filhos: * tu os {constit} príncipes sobre toda a terra.",
+            "A18a": "Hão de lembrar-se do teu nome: * {gener}.",
+            "A18b": "Por isso os povos {confit} para sempre: * e pelos séculos dos séculos."
+          },
+          "note": "Ruling: rule 3; the bride is *tu*, and one song keeps one address. MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "vós (the king)",
+          "forms": {
+            "A3": "Sois {spec3}, † {diffusa_v}: * por isso Deus vos bendisse para sempre.",
+            "A4": "Cingi-vos com a vossa espada sobre a vossa {femur}, * {potent}.",
+            "A5a": "Com a vossa {species_v}: * {intende_v}, {prospere_v}, e reinai.",
+            "A5b": "Por causa da verdade, e da mansidão, e da justiça: * e a vossa direita vos guiará maravilhosamente.",
+            "A6": "As vossas setas {sag}, os povos cairão debaixo de vós: * {incorda} dos inimigos do Rei.",
+            "A7": "O vosso trono, ó Deus, é pelos séculos dos séculos: * {virga_v}.",
+            "A8": "Amastes a justiça, e odiastes a iniquidade: * por isso {unxit_v} com óleo de alegria, {prae_v} companheiros.",
+            "A9": "Mirra, e {gutta}, e cássia, das vossas vestes, das casas de marfim: * {exq} vos deleitaram as filhas dos reis {honor_v}.",
+            "A10b": "A rainha {astitit} à vossa direita {vestitu}: * {var10}.",
+            "A15b": "Serão levadas ao Rei as virgens após ela: * {proximae} vos serão trazidas.",
+            "A17": "Em lugar dos vossos pais vos nasceram filhos: * vós os {constit_v} príncipes sobre toda a terra.",
+            "A18a": "Hão de lembrar-se do vosso nome: * {gener}.",
+            "A18b": "Por isso os povos {confit_v} para sempre: * e pelos séculos dos séculos."
+          },
+          "note": "The king addressed as God is (D1's pronoun), from 44:3 to 44:18b; the bride stays *tu*. *Cingi-vos* (44:4) carries an enclitic, so D13 allows it. In 44:4 the vós form keeps the reflexive *Cingi-vos com* — the bare *Cingi a vossa espada* is also \"I girded\" (D1).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eructavit",
+      "refs": [
+        "44:2a"
+      ],
+      "latin": "Eructávit cor meum verbum bonum",
+      "kind": "glossary",
+      "why": "The eructáre row (open) proposes *fazer jorrar* and names this verse: the gush is kept, the belch not (L&S \"to belch forth; utter\"; ἐξηρεύξατο). It stands in 18:3 and 118:171 already. The antiphon *Eructávit cor meum verbum bonum* (C11, C6a, the Introit of several virgins — grep) is sayable alone in this form.",
+      "options": [
+        {
+          "label": "fez jorrar",
+          "forms": {
+            "eruct": "fez jorrar"
+          },
+          "note": "Ruling: the row; 18:3, 118:171.",
+          "from": "glossary"
+        },
+        {
+          "label": "proferiu",
+          "forms": {
+            "eruct": "proferiu"
+          },
+          "note": "DRB \"uttered\"; loses the image.",
+          "from": "DRB"
+        },
+        {
+          "label": "transbordou em",
+          "forms": {
+            "eruct": "transbordou em"
+          },
+          "note": "The overflow, intransitive; changes the build.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "calamus",
+      "refs": [
+        "44:2b"
+      ],
+      "latin": "cálamus scribæ",
+      "kind": "word",
+      "why": "*cálamus* is the reed pen. *pena* is the plain word for a writing pen; *cálamo* keeps the reed and is a literary word most will not know. *de um escriba* for the bare genitive: *é a pena do escriba* would point to one scribe the Latin does not name.",
+      "options": [
+        {
+          "label": "a pena",
+          "forms": {
+            "calamus": "a pena"
+          },
+          "note": "Ruling: the plain word; MS1932 *pena*.",
+          "from": "draft"
+        },
+        {
+          "label": "o cálamo",
+          "forms": {
+            "calamus": "o cálamo"
+          },
+          "note": "The Latin's word; bookish.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "speciosus",
+      "refs": [
+        "44:3"
+      ],
+      "latin": "Speciósus forma præ fíliis hóminum",
+      "kind": "grammar",
+      "why": "The Latin has no verb: an adjective with its ablative of respect and *præ*, \"beautiful in form beyond the sons of men\" (DRB \"above\"). A copula is supplied (D2) and the comparison made with *mais … que*, which Portuguese needs for *præ*. *speciósus* → *formoso* so that *spécie* (44:5a) → *formosura* echoes it, as the Latin does; *forma* → *de aspecto*. *o mais formoso dos filhos dos homens* makes him one of them, where *præ* sets him beside them. The antiphon (*Speciósus forma * præ fíliis hóminum*, the Matins of Christmas and the Transfiguration — 01-01, 08-06, grep) is said from here.",
+      "options": [
+        {
+          "label": "mais formoso de aspecto que",
+          "forms": {
+            "spec3": "mais formoso de aspecto que os filhos dos homens"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "o mais formoso dos",
+          "forms": {
+            "spec3": "o mais formoso dos filhos dos homens"
+          },
+          "note": "The phrase Brazilian ears know; *forma* dropped and *præ* turned into a superlative.",
+          "from": "draft"
+        },
+        {
+          "label": "formoso de aspecto acima dos",
+          "forms": {
+            "spec3": "formoso de aspecto acima dos filhos dos homens"
+          },
+          "note": "DRB \"above\"; *acima* may be heard in space.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "diffusa",
+      "refs": [
+        "44:3"
+      ],
+      "latin": "diffúsa est grátia in lábiis tuis",
+      "kind": "word",
+      "why": "*diffúndere* occurs only here (grep); the Greek ἐξεχύθη is the verb behind *effúndere* → *derramar* (41:5), so by D15's test they may share it. The verb first, as the Latin, so the antiphon *Diffúsa est grátia in lábiis tuis* reads *Derramou-se a graça nos teus lábios* on its own. The stylist asked *nos teus lábios se derramou a graça* (the colon ends on *lábios* before the flex; verb-first \"sounds translated\"). Refused: the antiphon *Diffúsa est grátia in lábiis tuis* must be sayable alone and verb-first, and the flex falls on *lábios*, a paroxytone. The stylist's order is option 2; the slot now carries the whole colon so that it can.",
+      "options": [
+        {
+          "label": "derramou-se a graça nos teus lábios",
+          "forms": {
+            "diffusa": "derramou-se a graça nos teus lábios",
+            "diffusa_v": "derramou-se a graça nos vossos lábios"
+          },
+          "note": "Ruling: the Latin's order; MS1932 *derramou-se*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "nos teus lábios se derramou a graça",
+          "forms": {
+            "diffusa": "nos teus lábios se derramou a graça",
+            "diffusa_v": "nos vossos lábios se derramou a graça"
+          },
+          "note": "The stylist's order; the antiphon would lose its opening verb.",
+          "from": "stylist"
+        },
+        {
+          "label": "difundiu-se a graça nos teus lábios",
+          "forms": {
+            "diffusa": "difundiu-se a graça nos teus lábios",
+            "diffusa_v": "difundiu-se a graça nos vossos lábios"
+          },
+          "note": "The cognate; heard as \"spread (news)\".",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "femur",
+      "refs": [
+        "44:4"
+      ],
+      "latin": "super femur tuum",
+      "kind": "word",
+      "why": "*femur* is the thigh, where the sword hangs (μηρός). The concrete image stays (rule 5). MS1932 *ao teu lado* explains it.",
+      "options": [
+        {
+          "label": "coxa",
+          "forms": {
+            "femur": "coxa"
+          },
+          "note": "Ruling: the Latin's body part.",
+          "from": "draft"
+        },
+        {
+          "label": "cintura",
+          "forms": {
+            "femur": "cintura"
+          },
+          "note": "Where a sword is worn; another part of the body.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potentissime",
+      "refs": [
+        "44:4"
+      ],
+      "latin": "potentíssime",
+      "kind": "word",
+      "why": "A vocative superlative. *ó poderosíssimo* keeps it, and ends on a proparoxytone, as *potentíssime* does (rule 4 bends to the Latin's own cadence). *ó muito poderoso* is the paroxytone alternative; *potens* → *poderoso* (23:8).",
+      "options": [
+        {
+          "label": "ó poderosíssimo",
+          "forms": {
+            "potent": "ó poderosíssimo"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ó muito poderoso",
+          "forms": {
+            "potent": "ó muito poderoso"
+          },
+          "note": "Paroxytone final; the superlative in two words.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "species",
+      "refs": [
+        "44:5a"
+      ],
+      "latin": "Spécie tua et pulchritúdine tua",
+      "kind": "word",
+      "why": "Three words of beauty in this psalm: *speciósus / spécies* (3, 5a), *pulchritúdo* (5a), *decor* (12). The decor row keeps *esplendor* for *decor* and *beleza* for *pulchritúdo*; *spécies* takes *formosura*, the noun of 44:3's *formoso*, as the Latin's *speciósus … spécie* echo. The ablative → *Com* (DRB \"With\"). The versicle and antiphon *Spécie tua et pulchritúdine tua* (Common of Virgins, C6 and after — grep) reads *Com a tua formosura e a tua beleza*. The spécies row (open, Ps 46:5) proposes exactly this split for 44:5a — aligned.",
+      "options": [
+        {
+          "label": "formosura … beleza",
+          "forms": {
+            "species": "formosura e a tua beleza",
+            "species_v": "formosura e a vossa beleza"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "beleza … formosura",
+          "forms": {
+            "species": "beleza e a tua formosura",
+            "species_v": "beleza e a vossa formosura"
+          },
+          "note": "The two words swapped; loses the echo with 44:3.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "intende",
+      "refs": [
+        "44:5a"
+      ],
+      "latin": "inténde",
+      "kind": "ambiguity",
+      "why": "*inténde* stands absolute. The Latin verb is \"stretch, aim, direct\" — a bow, a course, the mind (L&S: *arcum intendere*, *iter intendere*, *animum intendere*; absolute \"to turn one's attention, exert oneself\"). The Greek ἔντεινον is \"bend (the bow)\"; DRB takes the course, \"set out\"; MS1932 *caminha*. The Latin does not say which. The glossary's *atender* (D3) is the verb's attending sense, and is the one that keeps the Latin's word and its openness to \"be intent\"; the bow and the setting-out would each supply what the Latin leaves unsaid. Ruled *atende*, knowing that the ear will hear \"pay heed\" first — the readers are asked to test it.",
+      "options": [
+        {
+          "label": "atende",
+          "forms": {
+            "intende": "atende",
+            "intende_v": "atendei"
+          },
+          "note": "Ruling: the glossary verb (D3); the Latin's absolute kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "estende o arco",
+          "forms": {
+            "intende": "estende o arco",
+            "intende_v": "estendei o arco"
+          },
+          "note": "The Greek's sense (ἔντεινον); supplies the bow.",
+          "from": "draft"
+        },
+        {
+          "label": "põe-te a caminho",
+          "forms": {
+            "intende": "põe-te a caminho",
+            "intende_v": "ponde-vos a caminho"
+          },
+          "note": "DRB \"set out\" (*iter intendere*); supplies the road.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "prospere",
+      "refs": [
+        "44:5a"
+      ],
+      "latin": "próspere procéde",
+      "kind": "word",
+      "why": "*próspere* is an adverb; Portuguese *prosperamente* is heavy and rare. *com prosperidade* keeps the root (117:25 *prosperáre* → *prosperar*). *procédere* → *avançar* (MS1932). Draft 2 takes the stylist's *avança próspero*: the adjective for the adverb keeps the root and the three quick imperatives. The gate Latinist (v2) preferred the adverb *prosperamente* (minor); held: *próspero* keeps the root, and the adverb is what draft 1 avoided as heavy.",
+      "options": [
+        {
+          "label": "avança próspero",
+          "forms": {
+            "prospere": "avança próspero",
+            "prospere_v": "avançai próspero"
+          },
+          "note": "Ruling (v2): the stylist's; the adjective agrees with the one addressee (singular with the *vós* of majesty).",
+          "from": "stylist"
+        },
+        {
+          "label": "avança com prosperidade",
+          "forms": {
+            "prospere": "avança com prosperidade",
+            "prospere_v": "avançai com prosperidade"
+          },
+          "note": "Draft 1; the stylist: \"sounds like a finance report\".",
+          "from": "draft"
+        },
+        {
+          "label": "avança prosperamente",
+          "forms": {
+            "prospere": "avança prosperamente",
+            "prospere_v": "avançai prosperamente"
+          },
+          "note": "The gate Latinist's: the adverb kept; heavy and rare in speech.",
+          "from": "latinist"
+        },
+        {
+          "label": "avança com êxito",
+          "forms": {
+            "prospere": "avança com êxito",
+            "prospere_v": "avançai com êxito"
+          },
+          "note": "Plainer; loses the root.",
+          "from": "draft"
+        },
+        {
+          "label": "avança vitoriosamente",
+          "forms": {
+            "prospere": "avança vitoriosamente",
+            "prospere_v": "avançai vitoriosamente"
+          },
+          "note": "MS1932; says victory, which *próspere* does not.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sagittae",
+      "refs": [
+        "44:6"
+      ],
+      "latin": "Sagíttæ tuæ acútæ",
+      "kind": "grammar",
+      "why": "The Latin has no verb, and the colon is loosely built: *in corda inimicórum Regis* at the end may go with the arrows or with the falling. A copula is supplied (DRB \"are sharp\"; D2), and *nos corações* left where the Latin leaves it, unattached. The verbless line is the option.",
+      "options": [
+        {
+          "label": "são agudas",
+          "forms": {
+            "sag": "são agudas"
+          },
+          "note": "Ruling: copula supplied (D2).",
+          "from": "draft"
+        },
+        {
+          "label": "agudas",
+          "forms": {
+            "sag": "agudas"
+          },
+          "note": "Verbless, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "incorda",
+      "refs": [
+        "44:6"
+      ],
+      "latin": "in corda inimicórum Regis",
+      "kind": "grammar",
+      "why": "*in* with the accusative is motion into. *corda* is plural (the Greek has the singular καρδίᾳ; the Latin is followed). *nos corações* keeps the preposition light and the phrase unattached, as the Latin. MS1932 supplies a verb (*traspassarão*).",
+      "options": [
+        {
+          "label": "nos corações",
+          "forms": {
+            "incorda": "nos corações"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "para dentro dos corações",
+          "forms": {
+            "incorda": "para dentro dos corações"
+          },
+          "note": "The motion spelt out; heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "no coração",
+          "forms": {
+            "incorda": "no coração"
+          },
+          "note": "MS1932 singular (the Greek's number, not the Latin's).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "virga",
+      "refs": [
+        "44:7"
+      ],
+      "latin": "virga directiónis virga regni tui",
+      "kind": "order",
+      "why": "*virga* → *vara* (row, which names 44:7; *cetro* interprets); *diréctio* → *retidão* (row). The Latin sets the predicate first; Portuguese order puts the subject first and ends on the oxytone *retidão*; both keep *vara … vara*.",
+      "options": [
+        {
+          "label": "a vara do teu reino é vara de retidão",
+          "forms": {
+            "virga": "a vara do teu reino é vara de retidão",
+            "virga_v": "a vara do vosso reino é vara de retidão"
+          },
+          "note": "Ruling: natural order (D2); DRB and MS1932 order.",
+          "from": "draft"
+        },
+        {
+          "label": "vara de retidão é a vara do teu reino",
+          "forms": {
+            "virga": "vara de retidão é a vara do teu reino",
+            "virga_v": "vara de retidão é a vara do vosso reino"
+          },
+          "note": "The Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "o cetro do teu reino é cetro de retidão",
+          "forms": {
+            "virga": "o cetro do teu reino é cetro de retidão",
+            "virga_v": "o cetro do vosso reino é cetro de retidão"
+          },
+          "note": "MS1932, DRB \"sceptre\"; the row keeps *vara* for 2:9, 22:4, 88:33.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "unxit",
+      "refs": [
+        "44:8"
+      ],
+      "latin": "unxit te Deus, Deus tuus",
+      "kind": "ambiguity",
+      "why": "*Deus, Deus tuus* can be subject with apposition (\"God, thy God, anointed thee\", DRB) or vocative + subject (\"O God, thy God anointed thee\", MS1932's note: *ó Deus, o Messias*, as 44:7's vocative). The Latin order *unxit te Deus, Deus tuus* is kept, which reads as apposition but does not close the other reading as *ó Deus* would.",
+      "options": [
+        {
+          "label": "te ungiu Deus, o teu Deus,",
+          "forms": {
+            "unxit": "te ungiu Deus, o teu Deus,",
+            "unxit_v": "vos ungiu Deus, o vosso Deus,"
+          },
+          "note": "Ruling: the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "Deus, o teu Deus, te ungiu",
+          "forms": {
+            "unxit": "Deus, o teu Deus, te ungiu",
+            "unxit_v": "Deus, o vosso Deus, vos ungiu"
+          },
+          "note": "Subject first; apposition only.",
+          "from": "draft"
+        },
+        {
+          "label": "o teu Deus te ungiu, ó Deus,",
+          "forms": {
+            "unxit": "o teu Deus te ungiu, ó Deus,",
+            "unxit_v": "o vosso Deus vos ungiu, ó Deus,"
+          },
+          "note": "MS1932: the vocative reading closed in.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "prae",
+      "refs": [
+        "44:8"
+      ],
+      "latin": "præ consórtibus tuis",
+      "kind": "word",
+      "why": "*præ* as in 44:3 → *mais que*, with *a* so that the companions are heard as those anointed less, not as those who anoint. *consórtes* (μέτοχοι, sharers) → *companheiros* (DRB \"fellows\", MS1932). *consortes* is a spouse in Portuguese. Draft 2 takes the stylist's *acima dos*: *mais que aos* trips the mouth at the end of the longest colon, and above in rank is what *præ* says of an anointing. 44:3 keeps *mais … que*, where the build is an adjective's comparison.",
+      "options": [
+        {
+          "label": "acima dos teus",
+          "forms": {
+            "prae": "acima dos teus",
+            "prae_v": "acima dos vossos"
+          },
+          "note": "Ruling (v2): the stylist's; DRB \"above\".",
+          "from": "stylist"
+        },
+        {
+          "label": "mais que aos teus",
+          "forms": {
+            "prae": "mais que aos teus",
+            "prae_v": "mais que aos vossos"
+          },
+          "note": "Draft 1: *præ* as in 44:3; the stylist found *que aos* clumsy.",
+          "from": "draft"
+        },
+        {
+          "label": "de preferência aos teus",
+          "forms": {
+            "prae": "de preferência aos teus",
+            "prae_v": "de preferência aos vossos"
+          },
+          "note": "MS1932; says choice.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "gutta",
+      "refs": [
+        "44:9"
+      ],
+      "latin": "Myrrha, et gutta, et cásia",
+      "kind": "word",
+      "why": "*gutta* is \"drop\"; behind it στακτή, the resin that drips from myrrh (DRB \"stacte\"). The Latin names the drop, not the resin, and the drop is a concrete thing (rule 5). *gota* may be heard as the disease (gout) — the readers are asked. *aloés* (MS1932) is the Hebrew's word. The stylist asked *resina*, the ambiguity reader found *gota* puzzling (drop or gout, \"drop\" listed); the Latin names a drop, and a Latin reader of the column sees *gutta*. Held; *resina* is the option.",
+      "options": [
+        {
+          "label": "gota",
+          "forms": {
+            "gutta": "gota"
+          },
+          "note": "Ruling: the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "resina",
+          "forms": {
+            "gutta": "resina"
+          },
+          "note": "The stylist's: the Greek's thing (στακτή), not the Latin's word.",
+          "from": "stylist"
+        },
+        {
+          "label": "estacte",
+          "forms": {
+            "gutta": "estacte"
+          },
+          "note": "DRB, the Greek's resin; unknown to most.",
+          "from": "DRB"
+        },
+        {
+          "label": "aloés",
+          "forms": {
+            "gutta": "aloés"
+          },
+          "note": "MS1932, from the Hebrew; refused by rule 1.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "honor",
+      "refs": [
+        "44:9"
+      ],
+      "latin": "in honóre tuo",
+      "kind": "word",
+      "why": "*honor* → *honra* (row). *na tua honra* keeps the Latin's openness (in thy dignity / in thy honouring; ἐν τῇ τιμῇ σου); *em tua honra* would settle it as \"in tribute to thee\". DRB \"in thy glory\" interprets. The stylist asked for the idiom *em tua honra*; refused for the reason above.",
+      "options": [
+        {
+          "label": "na tua honra",
+          "forms": {
+            "honor": "na tua honra",
+            "honor_v": "na vossa honra"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "em tua honra",
+          "forms": {
+            "honor": "em tua honra",
+            "honor_v": "em vossa honra"
+          },
+          "note": "The idiom \"in tribute to\"; settles the sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "astitit",
+      "refs": [
+        "44:10b"
+      ],
+      "latin": "Ástitit regína a dextris tuis",
+      "kind": "glossary",
+      "why": "The astáre row (open) splits: with *a dextris* → *pôr-se à direita de*, and names this verse. Perfect kept (παρέστη). MS1932 *está* makes a present of it. The versicle *Astitit regína* (Marian feasts, C11 — grep) reads *A rainha pôs-se à tua direita*.",
+      "options": [
+        {
+          "label": "pôs-se",
+          "forms": {
+            "astitit": "pôs-se"
+          },
+          "note": "Ruling: the row's split.",
+          "from": "glossary"
+        },
+        {
+          "label": "está",
+          "forms": {
+            "astitit": "está"
+          },
+          "note": "MS1932; a present.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ergueu-se",
+          "forms": {
+            "astitit": "ergueu-se"
+          },
+          "note": "The row's absolute verb (2:2).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "vestitu",
+      "refs": [
+        "44:10b"
+      ],
+      "latin": "in vestítu deauráto",
+      "kind": "word",
+      "why": "*vestítus* is a third word for clothing, beside *vestiménta* (44:9 → *vestes*); *vestido* keeps it apart and suits a queen. *deaurátus* is gilded, kept apart from *áureus* (44:14 → *de ouro*). Draft 2 takes the stylist's *em veste dourada*: *vestido* is heard as a modern dress. *vestítus* here and *vestis* at 21:19 (*veste*) are both ἱματισμός, so sharing *veste* passes D15's test; *vestiménta* (ἱμάτια, 44:9 *vestes*) is the same Greek root, and the number still tells them apart here.",
+      "options": [
+        {
+          "label": "em veste dourada",
+          "forms": {
+            "vestitu": "em veste dourada"
+          },
+          "note": "Ruling (v2): the stylist's; one root with *vestes* (44:9), as the Greek.",
+          "from": "stylist"
+        },
+        {
+          "label": "em vestido dourado",
+          "forms": {
+            "vestitu": "em vestido dourado"
+          },
+          "note": "Draft 1; heard as a modern dress (the stylist).",
+          "from": "draft"
+        },
+        {
+          "label": "com manto de ouro",
+          "forms": {
+            "vestitu": "com manto de ouro"
+          },
+          "note": "MS1932; a mantle and gold, neither in the Latin.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "varietas",
+      "refs": [
+        "44:10b",
+        "44:14"
+      ],
+      "latin": "circúmdata varietáte … circumamícta varietátibus",
+      "kind": "word",
+      "why": "*várietas* is many-colouredness (πεποικιλμένη, \"embroidered / variegated\", in both verses). The Latin names only the variety; *cores* or *bordados* would say what varies. The singular in both verses: *variedades* is heard as a variety show. *circúmdare* → *cercar* (row); *circumamícta* (clothed around) → *revestida*. All three readers faulted *variedade*: the stylist (\"an assortment, never variegated cloth\"), the blind reader (\"vague\"), and the Latinist the lost plural in 44:14. Draft 2 takes *cores variadas* in both verses: *várietas* of cloth is its many colours (L&S), the Greek is \"many-coloured\", and the plural *cores* answers the Latinist too. Cost: *cores* names what the Latin only implies.",
+      "options": [
+        {
+          "label": "de cores variadas",
+          "forms": {
+            "var10": "cercada de cores variadas",
+            "var14": "revestida de cores variadas"
+          },
+          "note": "Ruling (v2): the stylist's.",
+          "from": "stylist"
+        },
+        {
+          "label": "de variedade",
+          "forms": {
+            "var10": "cercada de variedade",
+            "var14": "revestida de variedade"
+          },
+          "note": "Draft 1: the Latin's noun; heard as vague.",
+          "from": "draft"
+        },
+        {
+          "label": "de variedade … de variedades",
+          "forms": {
+            "var10": "cercada de variedade",
+            "var14": "revestida de variedades"
+          },
+          "note": "The Latinist: the Latin's numbers; *variedades* is a variety show.",
+          "from": "latinist"
+        },
+        {
+          "label": "de bordados",
+          "forms": {
+            "var10": "cercada de bordados",
+            "var14": "revestida de bordados"
+          },
+          "note": "The craft; supplies it.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "concupiscet",
+      "refs": [
+        "44:12"
+      ],
+      "latin": "Et concupíscet Rex decórem tuum",
+      "kind": "glossary",
+      "why": "*concupíscere* → *ansiar por* (row, open; 118:20, 40, 174); *decor* → *esplendor* (row, open, names 44:12). Both rows kept, so that *pulchritúdo* (44:5a *beleza*) and *decor* stay two words. MS1932 *cobiçará a tua beleza*. The stylist asked *desejará* (plainer); refused: 118:20 sets *concupíscere* and *desideráre* in one verse, so one Portuguese verb cannot serve both. The Latinist asked *formosura* for *decor* (\"comeliness, not radiance\"); refused: *formosura* is *spécies*' (44:5a) and the decor row keeps the three words of beauty apart; *beleza* merges it with *pulchritúdo* in the same psalm.",
+      "options": [
+        {
+          "label": "ansiará pelo teu esplendor",
+          "forms": {
+            "concup": "ansiará pelo teu esplendor"
+          },
+          "note": "Ruling: both rows.",
+          "from": "glossary"
+        },
+        {
+          "label": "desejará o teu esplendor",
+          "forms": {
+            "concup": "desejará o teu esplendor"
+          },
+          "note": "*desejar* is *desideráre*'s (41:2).",
+          "from": "draft"
+        },
+        {
+          "label": "cobiçará a tua beleza",
+          "forms": {
+            "concup": "cobiçará a tua beleza"
+          },
+          "note": "MS1932; *cobiçar* failed the stylist in 118:20; *beleza* merges with *pulchritúdo*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ansiará pela tua formosura",
+          "forms": {
+            "concup": "ansiará pela tua formosura"
+          },
+          "note": "The Latinist's; merges *decor* with *spécies* (44:5a).",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "munera",
+      "refs": [
+        "44:13"
+      ],
+      "latin": "in munéribus",
+      "kind": "glossary",
+      "why": "*múnera* → *dádivas* (row, open). It ends the first colon on a proparoxytone, as *munéribus* does. The stylist asked *ofertas* for the paroxytone mediant; refused: *oferta* is D41's for *pro peccáto* and *offérre*'s family; the Latin's own mediant is a proparoxytone. *presentes* stays the option.",
+      "options": [
+        {
+          "label": "dádivas",
+          "forms": {
+            "munera": "dádivas"
+          },
+          "note": "Ruling: the row; MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "presentes",
+          "forms": {
+            "munera": "presentes"
+          },
+          "note": "The row's option; paroxytone at the mediant.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "abintus",
+      "refs": [
+        "44:14"
+      ],
+      "latin": "Omnis glória ejus fíliæ Regis ab intus",
+      "kind": "word",
+      "why": "*ab intus* (ἔσωθεν) is \"from within / within\". *é de dentro* keeps the *ab* and supplies only a copula; *está no interior* (MS1932, DRB \"within\") loses it; *vem de dentro* adds motion. The pleonastic *ejus* (\"her glory, of the king's daughter\", the Greek's αὐτῆς) is grammar and is absorbed. The stylist asked *vem de dentro* (origin); refused — it adds motion; the blind reader heard *é de dentro* as an inward, spiritual glory.",
+      "options": [
+        {
+          "label": "é de dentro",
+          "forms": {
+            "abintus": "é de dentro"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "está no interior",
+          "forms": {
+            "abintus": "está no interior"
+          },
+          "note": "MS1932; DRB \"is within\".",
+          "from": "MS1932"
+        },
+        {
+          "label": "vem de dentro",
+          "forms": {
+            "abintus": "vem de dentro"
+          },
+          "note": "The stylist's; supplies motion.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "proximae",
+      "refs": [
+        "44:15b"
+      ],
+      "latin": "próximæ ejus",
+      "kind": "word",
+      "why": "*próximæ* (αἱ πλησίον) are \"those near her\"; the root is *próximus* → *próximo* (row). *companheiras* (MS1932) would merge with *consórtes* (44:8, μέτοχοι), a different word in both languages (D15's test). *as que lhe são próximas* keeps the root.",
+      "options": [
+        {
+          "label": "as que lhe são próximas",
+          "forms": {
+            "proximae": "as que lhe são próximas"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "as suas companheiras",
+          "forms": {
+            "proximae": "as suas companheiras"
+          },
+          "note": "MS1932; merges with 44:8 *companheiros*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "as suas vizinhas",
+          "forms": {
+            "proximae": "as suas vizinhas"
+          },
+          "note": "DRB \"neighbours\".",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "constitues",
+      "refs": [
+        "44:17"
+      ],
+      "latin": "constítues eos príncipes",
+      "kind": "glossary",
+      "why": "*constitúere* → *estabelecer* (row; 2:6, 8:6). The subject named (*tu os*) so that the pronoun does not open the colon; the antiphon of Apostles (*Constítues eos príncipes super omnem terram*, C1, and the Gradual of Sts Peter and Paul — grep) is said from this colon. *constituir* is the row's noted idiom and the option. The stylist asked *farás* (plainer); refused: *fazer* is *fácere*'s (the row already refused *fui feito Rei* at 2:6).",
+      "options": [
+        {
+          "label": "estabelecerás",
+          "forms": {
+            "constit": "estabelecerás",
+            "constit_v": "estabelecereis"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "constituirás",
+          "forms": {
+            "constit": "constituirás",
+            "constit_v": "constituireis"
+          },
+          "note": "The row's option (MS1932 at 2:6).",
+          "from": "glossary"
+        },
+        {
+          "label": "farás",
+          "forms": {
+            "constit": "farás",
+            "constit_v": "fareis"
+          },
+          "note": "The stylist's; *fácere*'s verb.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "generatio",
+      "refs": [
+        "44:18a"
+      ],
+      "latin": "in omni generatióne et generatiónem",
+      "kind": "glossary",
+      "why": "The formula row *In generatiónem et generatiónem → De geração em geração* lists 44:18a. Here the Latin adds *omni*, which the formula absorbs (*de geração em geração* already means every one); MS1932 has the same words. 144:13a has the same Latin and should copy this. The Latinist asked *em toda geração e geração* (minor); refused — it is not a Portuguese phrase, and the formula row (with MS1932) already says every generation by its doubling.",
+      "options": [
+        {
+          "label": "de geração em geração",
+          "forms": {
+            "gener": "de geração em geração"
+          },
+          "note": "Ruling: the formula row; MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "em todas as gerações",
+          "forms": {
+            "gener": "em todas as gerações"
+          },
+          "note": "Keeps *omni*, loses the doubling.",
+          "from": "draft"
+        },
+        {
+          "label": "em toda geração e geração",
+          "forms": {
+            "gener": "em toda geração e geração"
+          },
+          "note": "The Latinist's calque.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "confitebuntur",
+      "refs": [
+        "44:18b"
+      ],
+      "latin": "pópuli confitebúntur tibi",
+      "kind": "glossary",
+      "why": "*confitéri* to God → *dar graças a* (D5). Here it is said to the king whom 44:7 calls *Deus*; the Latin uses its one verb, and so does this. DRB \"praise\", MS1932 *louvarão*; *louvar* is *laudáre*'s (D5).",
+      "options": [
+        {
+          "label": "te darão graças",
+          "forms": {
+            "confit": "te darão graças",
+            "confit_v": "vos darão graças"
+          },
+          "note": "Ruling: D5.",
+          "from": "glossary"
+        },
+        {
+          "label": "te louvarão",
+          "forms": {
+            "confit": "te louvarão",
+            "confit_v": "vos louvarão"
+          },
+          "note": "MS1932, DRB; *laudáre*'s verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ejus",
+      "refs": [
+        "44:14"
+      ],
+      "latin": "Omnis glória ejus fíliæ Regis",
+      "kind": "grammar",
+      "why": "The Latin (after the Greek αὐτῆς θυγατρός) says \"all her glory, of the king's daughter\" — a resumptive pronoun. The Latinist asked to keep it. It is grammar, not a word or an image (D2): Portuguese reads the doubled possessor as a correction in mid-sentence; DRB and MS1932 drop it.",
+      "options": [
+        {
+          "label": "Toda a glória da filha do Rei",
+          "forms": {
+            "omnis": "Toda a glória da filha do Rei"
+          },
+          "note": "Ruling: the pronoun absorbed.",
+          "from": "draft"
+        },
+        {
+          "label": "Toda a sua glória, da filha do Rei,",
+          "forms": {
+            "omnis": "Toda a sua glória, da filha do Rei,"
+          },
+          "note": "The Latinist's: the resumptive kept.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "exquibus",
+      "refs": [
+        "44:9"
+      ],
+      "latin": "ex quibus",
+      "kind": "grammar",
+      "why": "*ex quibus* is a relative of place or source; its antecedent is open (the houses, or everything named). Draft 1 *das quais* followed *das tuas vestes, das casas* and made *das* three times running (the stylist). *de onde* keeps the source and the openness — it can look back to the garments or the houses.",
+      "options": [
+        {
+          "label": "de onde",
+          "forms": {
+            "exq": "de onde"
+          },
+          "note": "Ruling (v2): the stylist's.",
+          "from": "stylist"
+        },
+        {
+          "label": "das quais",
+          "forms": {
+            "exq": "das quais"
+          },
+          "note": "Draft 1; the relative's gender points at the houses.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "44:2a": "*dico ego* → *eu digo* (the pronoun is the Latin's). *Regi* capitalised as DO has it; *Rei* throughout (6, 12, 14, 15b, 16). *verbum bonum* → *uma boa palavra* (verbum → palavra, D15).",
+    "44:2b": "velóciter → *depressa* (row). The colon break falls before the participle, as the Latin's. The blind reader said *pena* may be heard as \"pity\"; the context (*de um escriba que escreve*) settles it — *o cálamo* is the option.",
+    "44:5b": "The Latin's *et … et … et* kept. *dedúcere* → *guiar* (D22); *déxtera* → *a direita* (row, open). *mirabíliter* → *maravilhosamente* (*mirábilis* → *maravilhoso*, the admirábilis row).",
+    "44:7": "*sedes* → *trono* (row, which names 44:7). Vocative *Deus* → *ó Deus*, as 41:2. *in sǽculum sǽculi* → *pelos séculos dos séculos* (D27); the copula supplied. The vocative here is the reason the address decision is the psalm's weightiest.",
+    "44:8": "dilígere → *amar*; odísse → *odiar* (rows). *óleum lætítiæ* → *óleo de alegria* (lætítia → alegria). *úngere* → *ungir*.",
+    "44:9": "Verbless, as the Latin: the spices *from* the garments and *from* the ivory houses. *ex quibus* → *de onde* (decision `exquibus`). *delectáre* → *deleitar* (36:4). The inline (10a) is not reproduced.",
+    "44:11": "The daughter is *tu* (rule 3). *Audi* → *Ouve* (audíre → ouvir; the *tu* imperative has no homograph). *inclina o teu ouvido* is what the inclína row foresaw for 44:11. oblivísci → *esquecer* with a direct object (row).",
+    "44:12": "*ipse est Dóminus Deus tuus* → *ele é o Senhor, o teu Deus* (the article before the possessive). *adorábunt eum* → *e o adorarão*, subject left open as the Latin. Draft 2: *e hão de adorá-lo* (the stylist: *e o adorarão* blurs its vowels in choir) — order and form only (D2).",
+    "44:13": "deprecári → *suplicar*, with the face as object as in 118:58 (*Supliquei a vossa face*; the row names 44:13). vultus → *rosto*. plebs → *povo* (row). The Latin's loose apposition *omnes dívites plebis* kept at the end.",
+    "44:14": "*fímbriæ* → *franjas*; *áureus* → *de ouro*.",
+    "44:15b": "*addúcere* → *levar* (row, Ps 42), *afférre* → *trazer* (row, 28:1–2): two verbs kept apart, here and in 44:16. *post eam* → *após ela*. The antiphon *Adducéntur Regi vírgines post eam* reads *Serão levadas ao Rei as virgens após ela*. The blind reader could not tell whose *lhe* and whose *te*; nor can the Latin reader (*ejus … tibi*).",
+    "44:16": "The two verbs of 44:15b return in the other order, as the Latin. *in lætítia et exsultatióne* → *com alegria e exultação* (rows). *in templum* → *ao templo* (motion).",
+    "44:17": "*nati sunt* → *te nasceram*, the Latin's perfect (MS1932's future is the Hebrew's). *Pro pátribus tuis* → *Em lugar dos teus pais*.",
+    "44:18a": "*Mémores erunt* → *Hão de lembrar-se de* (memor esse → lembrar-se de); the periphrasis avoids *lembrar-se-ão*. The subject left open as in the Latin.",
+    "44:18b": "*in ætérnum: et in sǽculum sǽculi* → *para sempre: e pelos séculos dos séculos* (the row for 9:6).",
+    "44:4": "Draft 2: *Cinge a tua espada* (the stylist): *cingir* takes the sword as its object in Portuguese, as περίζωσαι τὴν ῥομφαίαν does; the Latin's middle *accíngere* with an ablative is grammar (D2). The blind reader listed *Cinge-te* as unknown.",
+    "44:5a": "*atende* was heard by the blind reader as \"pay attention\", which it found odd before *avança*; that is one sense the Latin's absolute *inténde* has — decision `intende`, held.",
+    "44:6": "The blind reader found *nos corações dos inimigos do Rei* detached; so is the Latin's *in corda* — kept (decision `incorda`)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm44.txt, 20 prayed verses (44:2a–44:18b, with 2b, 5b, 10b, 15b, 18b; no 44:1, the titulus, D7). Two inline markers (10a), (15a) inside 44:9 and 44:14, not reproduced. One flex (†) in 44:3. Not in the Diurnal Monástico parallels. Uses (ps032/uses.py): Christmas and Transfiguration Matins antiphon *Speciósus forma* (01-01, 08-06); the Common of Virgins (C6, C6a) — *Spécie tua*, *Diffúsa est grátia*, *Dilexísti justítiam*, *Adducéntur Regi vírgines*, *Audi fília*; Marian feasts (C11) *Astitit regína*, *Eructávit*; the Annunciation and Assumption Masses (missa 03-25, 08-15) *Audi fília*, *Vultum tuum*; the Common of Apostles (C1) and the Gradual of 06-29 *Constítues eos príncipes … Mémores erunt*."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps044.md (Latin, LXX, WLC, DRB, MS1932). DO's Portuguese not used (D12). Rulings applied: D5 (44:18b), D15 (verbum), D22 (dedúcere), D27 (44:7, 44:18b), D35 (deprecári); open rows followed: eructáre, astáre (split), decor, concupíscere, múnera, virga, sedes, afférre, addúcere, inclína aurem. Address: *tu* to the king and to the bride (rule 3; D17 left Ps 44 to this psalm), with the whole *vós* text as option 2. Hard readings: 44:5a *inténde*, 44:8 *Deus, Deus tuus*, 44:9 *gutta*, 44:14 *ab intus*, *várietas*."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Length: 44:18a second colon −8 (*de geração em geração*, the formula row, absorbs *omni* and the Latin's long endings), 44:9 first −5 (Portuguese nouns shorter than the Latin's ablatives), 44:2a and 44:2b first +4 (*fez jorrar*; *é a pena de um escriba* supplies copula and article), 44:6 first +4 (the supplied copula), 44:3, 44:5a, 44:5b, 44:7, 44:15b, 44:17 +3, 44:3, 44:11, 44:12, 44:18b −3: all accepted. Proparoxytone cadences where the Latin has them too: 44:4 *poderosíssimo* (*potentíssime*), 44:13 mediant *dádivas* (*munéribus*), 44:7 mediant and 44:18b final *séculos* (D27). No rhyme flags."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37; AGENT-BRIEF step 5). Latinist, stylist and ambiguity readers for draft 1 handed to the coordinator."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1, read by claude-opus-5-5 (fresh context; Codex out of credits). No major; four minors. «The translation is faithful and close to the Latin throughout.» One taken (by another route), three refused.",
+      "outcomes": [
+        {
+          "verse": "44:14",
+          "remark": "varietátibus made singular",
+          "outcome": "taken",
+          "decision": "varietas",
+          "reason": "Met by *cores variadas* (plural), which the stylist asked for; the Latinist's own *variedades* is option 3."
+        },
+        {
+          "verse": "44:14",
+          "remark": "resumptive *ejus* dropped",
+          "outcome": "option",
+          "decision": "ejus",
+          "reason": "Grammar (D2); reads as a mid-sentence correction in Portuguese; DRB and MS1932 drop it."
+        },
+        {
+          "verse": "44:18a",
+          "remark": "*de geração em geração* drops *omni* → *em toda geração e geração*",
+          "outcome": "option",
+          "decision": "generatio",
+          "reason": "Not Portuguese; the formula row (and MS1932) holds."
+        },
+        {
+          "verse": "44:12",
+          "remark": "*decor* → *formosura*, not *esplendor*",
+          "outcome": "option",
+          "decision": "concupiscet",
+          "reason": "*formosura* is *spécies*' in 44:5a; the decor row keeps the three words of beauty apart."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1, read by claude-opus-5-5 (fresh context). Ten verses remarked; best 44:11, worst 44:9. «The psalm keeps the Latin's ceremonial shape … It stumbles where literalism produces abstract or foreign-sounding nouns.» Eight taken, seven refused (six kept as options; 44:13 *ofertas* not).",
+      "outcomes": [
+        {
+          "verse": "44:3",
+          "remark": "verb-first sounds translated → *nos teus lábios se derramou a graça*",
+          "outcome": "option",
+          "decision": "diffusa",
+          "reason": "The antiphon *Diffúsa est grátia* must stand alone verb-first; *lábios* is paroxytone."
+        },
+        {
+          "verse": "44:4",
+          "remark": "*Cinge-te com* foreign → *Cinge a tua espada*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "44:5a",
+          "remark": "*com prosperidade* abstract → *avança próspero*",
+          "outcome": "taken",
+          "decision": "prospere"
+        },
+        {
+          "verse": "44:8",
+          "remark": "*mais que aos* clumsy → *acima dos*",
+          "outcome": "taken",
+          "decision": "prae"
+        },
+        {
+          "verse": "44:9",
+          "remark": "*gota* baffling → *resina*",
+          "outcome": "option",
+          "decision": "gutta",
+          "reason": "The Latin names the drop; *resina* is the Greek's thing."
+        },
+        {
+          "verse": "44:9",
+          "remark": "*das quais* hard, *das* ×3 → *de onde*",
+          "outcome": "taken",
+          "decision": "exquibus"
+        },
+        {
+          "verse": "44:9",
+          "remark": "*na tua honra* not idiomatic → *em tua honra*",
+          "outcome": "option",
+          "decision": "honor",
+          "reason": "The idiom settles \"in tribute to\"; the Latin's *in honóre tuo* is open."
+        },
+        {
+          "verse": "44:10b",
+          "remark": "*vestido* a modern dress → *veste*",
+          "outcome": "taken",
+          "decision": "vestitu"
+        },
+        {
+          "verse": "44:10b",
+          "remark": "*variedade* abstract → *cores variadas*",
+          "outcome": "taken",
+          "decision": "varietas"
+        },
+        {
+          "verse": "44:12",
+          "remark": "*ansiará pelo* stiff → *desejará*",
+          "outcome": "option",
+          "decision": "concupiscet",
+          "reason": "*desejar* is *desideráre*'s; 118:20 has both verbs in one verse."
+        },
+        {
+          "verse": "44:12",
+          "remark": "*e o adorarão* blurs → *e hão de adorá-lo*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "44:13",
+          "remark": "proparoxytone mediant → *ofertas*",
+          "outcome": "refused",
+          "reason": "*oferta(s)* is D41's and *offérre*'s; the Latin's own mediant is proparoxytone; *presentes* is the row's option."
+        },
+        {
+          "verse": "44:14",
+          "remark": "*é de dentro* → *vem de dentro*",
+          "outcome": "option",
+          "decision": "abintus",
+          "reason": "Adds motion; the blind reader heard *é de dentro* as inward glory."
+        },
+        {
+          "verse": "44:14",
+          "remark": "*revestida de variedade* → *cores variadas*",
+          "outcome": "taken",
+          "decision": "varietas"
+        },
+        {
+          "verse": "44:17",
+          "remark": "*estabelecerás* bureaucratic → *farás*",
+          "outcome": "option",
+          "decision": "constitues",
+          "reason": "*fazer* is *fácere*'s; the row refused *fui feito Rei* (2:6). *constituirás* is the option."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, blind, read by claude-opus-5-5 (fresh context). 30 items, 8 unknown words (escriba, Cinge-te, gota as spice, cássia, mirra, Tiro, dádivas, franjas). Heard rightly: *derramou-se a graça* (divine grace first), *a tua direita te guiará*, *te ungiu Deus, o teu Deus*, *mais que aos teus companheiros* (above them), *das quais* (the houses), *pôs-se à tua direita*, *Ouve, filha* (the bride), *após ela* (in procession), *é de dentro* (inward glory). 44:7 *ó Deus* heard as a turn to God, not to the king — the address decision's cost, noted there.",
+      "outcomes": [
+        {
+          "verse": "44:2b",
+          "remark": "*pena* may be heard as pity",
+          "outcome": "refused",
+          "reason": "Context (*de um escriba que escreve*) settles it; *o cálamo* is unknown to most (option)."
+        },
+        {
+          "verse": "44:4",
+          "remark": "*Cinge-te* unknown",
+          "outcome": "taken",
+          "reason": "Now *Cinge a tua espada* (the stylist's)."
+        },
+        {
+          "verse": "44:5a",
+          "remark": "*atende* heard as \"pay attention\", odd before *avança*",
+          "outcome": "refused",
+          "decision": "intende",
+          "reason": "One sense of the Latin's absolute *inténde*; the bow and the road would each supply what the Latin leaves unsaid. For Gustavo."
+        },
+        {
+          "verse": "44:6",
+          "remark": "*nos corações* detached",
+          "outcome": "refused",
+          "decision": "incorda",
+          "reason": "The Latin's *in corda* is as loose."
+        },
+        {
+          "verse": "44:9",
+          "remark": "*gota* drop or gout; no verb",
+          "outcome": "refused",
+          "decision": "gutta",
+          "reason": "The Latin's word and verbless build; *resina* is the option."
+        },
+        {
+          "verse": "44:10b",
+          "remark": "*cercada de variedade* vague",
+          "outcome": "taken",
+          "decision": "varietas"
+        },
+        {
+          "verse": "44:15b",
+          "remark": "whose *lhe*, whose *te*",
+          "outcome": "refused",
+          "reason": "As open in the Latin (*ejus … tibi*)."
+        },
+        {
+          "verse": "44:17",
+          "remark": "addressee unclear (king or queen)",
+          "outcome": "refused",
+          "reason": "The Latin's *tuis … tibi* is as open; masculine only in the Hebrew."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 44:3 order (*nos teus lábios se derramou a graça*), 44:4 *Cinge a tua espada*, 44:5a *avança próspero*, 44:8 *acima dos*, 44:9 *de onde*, 44:10b *em veste dourada*, 44:10b/14 *cores variadas*, 44:12 *e hão de adorá-lo*. New decisions `exquibus`, `ejus`; every refused remark kept as an option except 44:13 *ofertas* (D41)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. 44:4 and 44:8 lose their length flags (*Cinge a tua espada*, *acima dos*); 44:10b second colon now 10 against 9. Remaining flags as draft 1 (44:18a −8, 44:9 −5, 44:2a/2b/6 +4, a few ±3), accepted for the same reasons."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2, read by claude-opus-5-5 (fresh context). No critical or major; six minors, all held with reasons and every one kept as an option. «A faithful and careful rendering … the Septuagintal readings are preserved rather than smoothed.»",
+      "outcomes": [
+        {
+          "verse": "44:5a",
+          "remark": "*próspero* makes the adverb a quality of the king → *avança prosperamente*",
+          "outcome": "option",
+          "decision": "prospere",
+          "reason": "*prosperamente* is heavy and rare; *próspero* keeps the root and the three quick imperatives (stylist, v1)."
+        },
+        {
+          "verse": "44:9",
+          "remark": "*de onde* leans to place → *das quais*",
+          "outcome": "option",
+          "decision": "exquibus",
+          "reason": "Both possible antecedents (garments, ivory houses) are sources, which *de onde* keeps open; *das quais* made *das* three times running and was hard to parse aloud (stylist, v1)."
+        },
+        {
+          "verse": "44:10b",
+          "remark": "*cores* supplied for *varietáte* → *cercada de variedade*",
+          "outcome": "option",
+          "decision": "varietas",
+          "reason": "*variedade* is heard as an assortment, not a variegated cloth (stylist, blind reader); the cost of *cores* is recorded in the decision."
+        },
+        {
+          "verse": "44:14",
+          "remark": "*cores* supplied for *varietátibus* → *revestida de variedades*",
+          "outcome": "option",
+          "decision": "varietas",
+          "reason": "As 44:10b; *variedades* is a variety show."
+        },
+        {
+          "verse": "44:12",
+          "remark": "*decor* is comeliness → *ansiará pela tua formosura*",
+          "outcome": "option",
+          "decision": "concupiscet",
+          "reason": "Repeated from v1: *formosura* is *spécies*' (44:5a); the decor row keeps the three words of beauty apart."
+        },
+        {
+          "verse": "44:18a",
+          "remark": "drops *omni* → *em toda geração e geração*",
+          "outcome": "option",
+          "decision": "generatio",
+          "reason": "Repeated from v1: not a Portuguese phrase; the formula row and MS1932 hold."
+        }
+      ]
+    },
+    {
+      "step": "checks",
+      "note": "After the gate: no text changed (options only); hard pass, flags as draft 2."
+    }
+  ]
+}

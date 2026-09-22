@@ -1,0 +1,18 @@
+[
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Gate, claude-opus-5-5 (fresh context). No major. Five minors, all refused (three repeated from v1); every other draft-2 change passed (*forças*, *após*, *própria*, the repeated article at 43:17, *tidos … de matança*, *Pois*).",
+    "outcomes": [
+      {"verse": "43:4b", "remark": "*luz* flattens illuminátio; *iluminação*", "outcome": "option", "decision": "illuminatio", "reason": "the illuminátio row (26:1); heard as lighting; asked twice, logged on the row"},
+      {"verse": "43:15", "remark": "*termo de comparação* paraphrase; *semelhança*", "outcome": "refused", "reason": "*fazer de nós uma semelhança* makes no Portuguese sentence; *termo de comparação* is the idiom that keeps the noun (stylist, v1)"},
+      {"verse": "43:17", "remark": "*me* supplied three times", "outcome": "refused", "reason": "*afrontar* and *perseguir* want an object; the psalm is in the first person (43:16 *minha*); grammar (D2)"},
+      {"verse": "43:22", "remark": "*pedir contas* interprets requíret; plural *ista* → *disto*", "outcome": "refused", "reason": "the requírere row (9:34); *disto* is Portuguese's neuter for a plural of things, as *isto* for *hæc ómnia* at 43:18"},
+      {"verse": "43:23", "remark": "*nos* supplied", "outcome": "refused", "reason": "*repelir* wants an object (grammar, D2); DRB 'cast us not off'"}
+    ]
+  },
+  {
+    "step": "glossary",
+    "note": "New open rows: derísum (D39 ruled: kept apart, *riso*), virtútes nostræ (*forças*; 59:12, 107:12 should copy), ventiláre, diripere, commutátio, obloqui, verecúndia, similitúdo, commótio cápitis, conglutináre, post, operári (opus), æstimári, possidére; 3 formula rows (43:5, 43:26, 43:22b = Rom 8:36). Evidence added to 9 rows (illúsio, illuminátio, multitúdo, abscóndita, mortificáre, obdormíre, expéllere, virtus, inópia)."
+  }
+]

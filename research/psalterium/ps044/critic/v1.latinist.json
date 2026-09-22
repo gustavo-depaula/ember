@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "14465366b61235af35b1c9a5b79c06a1b7bb1410130551ca3b7cf1a87e92d508",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context)",
+  "at": "2026-09-22T18:37:38+00:00",
+  "reply": "{\"verses\": [\n  {\"id\": \"44:14\", \"severity\": \"minor\", \"issues\": [\n    {\"latin\": \"circumamícta varietátibus\", \"portuguese\": \"revestida de variedade\", \"problem\": \"The Latin plural 'varietatibus' is made singular. That blurs the deliberate contrast with 'circumdata varietate' (singular) in 10b and changes number.\", \"fix\": \"revestida de variedades\"},\n    {\"latin\": \"Omnis glória ejus fíliæ Regis\", \"portuguese\": \"Toda a glória da filha do Rei\", \"problem\": \"The resumptive 'ejus' ('her glory, of the King's daughter') is dropped. It is a pleonastic Septuagintal construction that the Latin keeps, and the Portuguese can keep it too.\", \"fix\": \"Toda a sua glória, da filha do Rei, é de dentro\"}\n  ]},\n  {\"id\": \"44:18a\", \"severity\": \"minor\", \"issues\": [\n    {\"latin\": \"in omni generatióne et generatiónem\", \"portuguese\": \"de geração em geração\", \"problem\": \"Replaces the Latin formula with the stock idiom, which drops 'omni' and the preposition 'in' with its odd ablative/accusative doubling.\", \"fix\": \"em toda geração e geração\"}\n  ]},\n  {\"id\": \"44:12\", \"severity\": \"minor\", \"issues\": [\n    {\"latin\": \"decórem tuum\", \"portuguese\": \"o teu esplendor\", \"problem\": \"'decor' means comeliness or beauty of form, not radiance. 'esplendor' shifts the sense slightly.\", \"fix\": \"a tua formosura\"}\n  ]}\n],\n\"overall\": \"The translation is faithful and close to the Latin throughout, keeps the Septuagintal oddities (gutta, ex quibus, vultum deprecabuntur, pro patribus tuis), and has every pointing mark in the right order. The only faults are small: a number change in 14 (varietatibus), the dropped resumptive ejus in 14, the idiomatic flattening of 'in omni generatione et generationem' in 18a, and a slight sense shift for decor in 12.\"}\n"
+}

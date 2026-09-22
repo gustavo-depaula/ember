@@ -1,0 +1,34 @@
+{
+  "append": [
+    {"row": "| inténdere | atender |", "text": "**Ps 44:5a absolute *inténde, próspere procéde, et regna* → *atende, avança próspero, e reina*** — D3 kept where the Latin has no object (L&S: bow, course, mind; ἔντεινον 'bend'); the blind reader heard 'pay attention', odd before *avança* — the cost, flagged for Gustavo. *estende o arco* and *põe-te a caminho* are options (decision `intende`)."},
+    {"row": "| astáre |", "text": "Ps 44:10b *Ástitit regína a dextris tuis* → *A rainha pôs-se à tua direita* — the split applied; the blind reader heard 'stood at your right'."},
+    {"row": "| virga | vara |", "text": "Ps 44:7 *virga directiónis virga regni tui* → *a vara do teu reino é vara de retidão* (natural order); the blind reader heard sceptre, 'stick' second."},
+    {"row": "| deprecári / deprecátio |", "text": "Ps 44:13 *vultum tuum deprecabúntur* → *suplicarão o teu rosto* — the place this row named; heard as 'will entreat you'."},
+    {"row": "| eructáre |", "text": "**Ps 44:2a *Eructávit cor meum verbum bonum* → *O meu coração fez jorrar uma boa palavra*** — held in its third place; no reader remarked on the verb."},
+    {"row": "| sedes (God's) |", "text": "Ps 44:7 *Sedes tua, Deus* → *O teu trono, ó Deus* (the king addressed as God)."},
+    {"row": "| próximus | próximo |", "text": "Ps 44:15b *próximæ ejus* (αἱ πλησίον, the bride's companions) → *as que lhe são próximas* (the root kept; MS1932 *companheiras* would merge with 44:8 *consórtes*)."},
+    {"row": "| decor |", "text": "**Ps 44:12 *Et concupíscet Rex decórem tuum* → *E o Rei ansiará pelo teu esplendor*** — held against the Latinist twice (minor: 'comeliness', *formosura*): *formosura* is *spécies*' two verses before (44:5a), *beleza* *pulchritúdo*'s, so the psalm's three words of beauty stay three."},
+    {"row": "| concupíscere |", "text": "Ps 44:12 *concupíscet Rex* → *o Rei ansiará por*; the stylist asked *desejará*, refused (118:20 has *concupíscere* and *desideráre* together)."},
+    {"row": "| mansuétus / mitis |", "text": "Ps 44:5b *mansuetúdinem* → *mansidão*."},
+    {"row": "| spécies (καλλονή", "text": "**Ps 44 applies it:** 44:3 *Speciósus forma* → *mais formoso de aspecto*, 44:5a *Spécie tua et pulchritúdine tua* → *Com a tua formosura e a tua beleza* (decor 44:12 *esplendor*)."},
+    {"row": "| múnera | dádivas |", "text": "Ps 44:13 *filhas de Tiro com dádivas* — held (the mediant proparoxytone, as *munéribus*); the stylist asked *ofertas*, refused (D41's *oferta*)."},
+    {"row": "| afférre (to God) |", "text": "Ps 44:15b–16 *afferéntur* → *serão trazidas* (not to God), beside *addúcere* → *levar*."},
+    {"row": "| addúcere |", "text": "Not once: Ps 44:15b *Adducéntur Regi vírgines* → *Serão levadas ao Rei as virgens*, 44:16 *adducéntur in templum Regis* → *serão levadas ao templo do Rei* (grep), kept apart from *afférre* → trazer in the same verses."},
+    {"row": "| velóciter |", "text": "Ps 44:2b *velóciter scribéntis* → *que escreve depressa*."},
+    {"row": "| *In generatiónem et generatiónem*", "text": "**Ps 44:18a *in omni generatióne et generatiónem* → *de geração em geração*** — *omni* absorbed (MS1932 the same); the Latinist asked twice (minor) for *em toda geração e geração*, refused as not Portuguese, option. 144:13a has the same Latin and should copy it."},
+    {"row": "| *inclína (ad me) aurem tuam (mihi)*", "text": "Ps 44:11 applied: *Ouve, filha, e vê, e inclina o teu ouvido* — the stylist's best line."},
+    {"row": "| déxtera | a direita |", "text": "Ps 44:5b *dedúcet te mirabíliter déxtera tua* → *a tua direita te guiará maravilhosamente*; heard as the right hand."}
+  ],
+  "terms": [
+    "| address — the psalmist to the Messiah-king (Ps 44) | *tu* (*O teu trono, ó Deus*), the bride *tu* too | open | Ps 44; D17 left it to this psalm. Rule 3 (a single human addressee); one song speaks to groom and bride with one address, as MS1932. Cost: 44:7–8 *ó Deus* in the *tu* form — the blind reader heard 44:7 as a turn to God. The whole *vós* text is option 2 (decision `address`; *Cingi-vos* at 44:4 because bare *Cingi* is also 'I girded'). Wants a ruling: 71 and 109:1–4 are near cousins |",
+    "| diffúndere | derramar (*derramou-se a graça nos teus lábios*) | open | Ps 44:3, the only place (grep); ἐξεχύθη, *effúndere*'s Greek, so D15 lets them share *derramar*. Verb-first kept so that the antiphon *Diffúsa est grátia* is sayable alone; the stylist's *nos teus lábios se derramou a graça* is the option |",
+    "| femur | coxa (*Cinge a tua espada sobre a tua coxa*) | open | Ps 44:4 (μηρός); the concrete image kept; MS1932 *ao teu lado* explains it; *cintura* option. v2: *Cinge a tua espada* (the stylist: *cingir* takes the sword as object) |",
+    "| gutta (the spice) | gota (*Mirra, e gota, e cássia*) | open | Ps 44:9; στακτή (DRB *stacte*). The Latin names the drop; the stylist asked *resina*, the blind reader found *gota* puzzling (drop or gout) — held, *resina* / *estacte* options |",
+    "| vestítus / vestiménta | veste / vestes | open | Ps 44:9 *a vestiméntis tuis* → *das tuas vestes*; 44:10b *in vestítu deauráto* → *em veste dourada* (the stylist: *vestido* is a modern dress). *vestítus* is ἱματισμός, as *vestis* at 21:19 (*veste*), so D15 lets them share. 101:27 *sicut opertórium … sicut vestiméntum* will need checking |",
+    "| várietas (of cloth) | cores variadas (*cercada de cores variadas*) | open | Ps 44:10b, 44:14 (*varietátibus*) — πεποικιλμένη; *variedade* failed the stylist and the blind reader ('assortment', vague); the plural *cores* also answers the number of 44:14. The gate Latinist (minor) wanted *variedade(s)* back: held, option |",
+    "| ab intus | de dentro (*Toda a glória da filha do Rei é de dentro*) | open | Ps 44:14 (ἔσωθεν); keeps *ab*, supplies only the copula; heard as inward, spiritual glory. *está no interior* (MS1932), *vem de dentro* (stylist) options |",
+    "| consórtes | companheiros (*acima dos teus companheiros*) | open | Ps 44:8 (μέτοχοι); *consortes* is a spouse in Portuguese. *præ* → *acima de* there (v2, stylist), *mais … que* at 44:3 |",
+    "| próspere (procédere) | próspero (*avança próspero*) | open | Ps 44:5a; the adjective for the adverb (the stylist; *com prosperidade* 'a finance report'); the gate Latinist preferred *prosperamente* (minor), option. 117:25 *prosperáre* → prosperar |"
+  ],
+  "formulas": []
+}

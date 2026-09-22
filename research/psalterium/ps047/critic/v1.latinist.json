@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "27c0ab421268b08b956bc60daa90d1e54191a9a504b8a584981d5733a14113a8",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context)",
+  "at": "2026-09-22T18:39:12+00:00",
+  "reply": "{\"verses\": [{\"id\": \"47:14\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"ut enarrétis in progénie áltera\", \"portuguese\": \"para que o narreis a outra geração\", \"problem\": \"The Latin gives enarrare no object; the added 'o' supplies one (what is narrated) that the text leaves implicit. Small, and Douay does the same, but it is an addition rather than a needed copula or subject.\", \"fix\": \"para que narreis a outra geração\"}]}], \"overall\": \"A close, faithful rendering of the Gallican text: tenses, voices and persons are kept (fundátur as present passive, cognoscétur and suscípiet as future, the passives of v. 6), the Septuagintal readings (látera Aquilónis, Dómini virtútum, distribúite domos) are kept rather than smoothed toward the Hebrew, and every ejus stays as ambiguous in Portuguese as in Latin. The pointing marks match the Latin verse for verse; the only point is the object pronoun added in v. 14.\"}\n"
+}

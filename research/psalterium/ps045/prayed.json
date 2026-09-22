@@ -1,0 +1,287 @@
+{
+  "psalm": 45,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "45:2": "O nosso Deus é refúgio e {virtus}: * {adjutor} nas tribulações que nos encontraram {nimis}.",
+    "45:3": "Por isso não temeremos enquanto a terra for perturbada: * {transferentur} para o coração do mar.",
+    "45:4": "{sonuerunt}, e se perturbaram {aquae}: * os montes se perturbaram {fortitudine}.",
+    "45:5": "O ímpeto do rio alegra a cidade de Deus: * o Altíssimo santificou {tabernaculum}.",
+    "45:6": "Deus está no meio dela, {commovebitur}: * Deus {adjuvabit} {mane}.",
+    "45:7": "As nações se perturbaram, e os reinos {inclinata}: * fez ouvir a sua voz, a terra se abalou.",
+    "45:8": "O Senhor {virtutum} está conosco: * o nosso amparo é o Deus de Jacó.",
+    "45:9": "Vinde, e vede as obras do Senhor, {prodigia} sobre a terra: * {auferens} as guerras até {finem} da terra.",
+    "45:10": "{conteret} o arco, e {confringet} as armas: * e queimará os escudos no fogo.",
+    "45:11": "{vacate}, e vede que eu sou Deus: * serei exaltado entre as nações, e serei exaltado na terra.",
+    "45:12": "O Senhor {virtutum} está conosco: * o nosso amparo é o Deus de Jacó."
+  },
+  "decisions": [
+    {
+      "id": "virtus",
+      "refs": ["45:2"],
+      "latin": "refúgium, et virtus",
+      "kind": "glossary",
+      "why": "virtus of God → *poder* (row; 20:2 *no vosso poder*, 28:11). Everyone knows the line as 'refúgio e força' (DRB 'strength', MS1932 *força*), but *força* is fortitúdo's (row), and fortitúdo stands two verses later in this psalm (45:4 *in fortitúdine ejus*): the Latin's two words stay two. The Latin has one *noster*, on *Deus*; the predicate nouns stand bare, as 9:10 *se fez refúgio*. MS1932 moves the possessive (*Deus é nosso refúgio e nossa força*); DRB adds a second 'our'.",
+      "options": [
+        {"label": "poder", "forms": {"virtus": "poder"}, "note": "Ruling: the row; keeps 45:4's fortitúdo → força apart.", "from": "glossary"},
+        {"label": "força", "forms": {"virtus": "força"}, "note": "DRB, MS1932; the familiar line; merges virtus with fortitúdo (45:4).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": ["45:2"],
+      "latin": "adjútor in tribulatiónibus",
+      "kind": "glossary",
+      "why": "adjútor → *auxílio* (row, uniform in 14 places, open for Gustavo); here in apposition to *Deus*, as 9:10 *auxílio nas horas oportunas, na tribulação*. The Latinist has repeatedly asked for the agent noun *auxiliador*; the row records why it is refused (length, currency, the psalter's one word). tribulátio → *tribulação* (row).",
+      "options": [
+        {"label": "auxílio", "forms": {"adjutor": "auxílio"}, "note": "Ruling: the row; = 9:10.", "from": "glossary"},
+        {"label": "auxiliador", "forms": {"adjutor": "auxiliador"}, "note": "the agent noun, as the Latin; the Latinist's standing request elsewhere.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": ["45:2"],
+      "latin": "quæ invenérunt nos nimis",
+      "kind": "word",
+      "why": "*nimis* (σφόδρα) goes with the verb: the troubles found us 'exceedingly' (DRB). The glossary has no one rendering; 37:9 *humiliátus sum nimis* → *humilhado sem medida* (L&S 'beyond measure'), 118:96 → *muito*. Draft 1 put *sem medida* before the verb; the stylist heard that as syntax built on the Latin and asked for it last, where the Latin has it too (v2, order only). invenire → *encontrar*, as 118:143 *Tribulátio … invenérunt me* → *me encontraram*. MS1932 paraphrases (*que nos cercavam de todas as partes*).",
+      "options": [
+        {"label": "nos encontraram sem medida", "forms": {"nimis": "sem medida"}, "note": "Ruling (v2): = 37:9; the Latin's and the stylist's order.", "from": "stylist"},
+        {"label": "nos encontraram muito", "forms": {"nimis": "muito"}, "note": "118:96's word; weak at the cadence.", "from": "glossary"},
+        {"label": "nos encontraram demais", "forms": {"nimis": "demais"}, "note": "the plain adverb; colloquial ('too much').", "from": "draft"}
+      ]
+    },
+    {
+      "id": "transferentur",
+      "refs": ["45:3"],
+      "latin": "et transferéntur montes in cor maris",
+      "kind": "grammar",
+      "why": "Two things. (1) Scope: the Greek has both verbs as infinitives under one ἐν τῷ ('when the earth is troubled and the mountains are moved'), and DRB keeps them in one clause; so the second colon continues *enquanto*, with the Portuguese future subjunctive (*forem*). (2) The verb: transférre, 'carry across, remove' (L&S); μετατίθεσθαι. *transportar* is the plain word that keeps the carrying; *transferidos* is an office's word in Brazil; MS1932 *trasladados* is little used outside the moving of relics and bodies; DRB 'removed'. *in cor maris* → *para o coração do mar* — the Latin's heart kept (MS1932's *para o meio do mar* flattens the image).",
+      "options": [
+        {"label": "e os montes forem transportados", "forms": {"transferentur": "e os montes forem transportados"}, "note": "Ruling: one clause with *enquanto*, as the Greek and DRB.", "from": "draft"},
+        {"label": "e os montes serão transportados", "forms": {"transferentur": "e os montes serão transportados"}, "note": "the Latin's indicative read as a main clause; a prophecy the Latin does not clearly make.", "from": "draft"},
+        {"label": "e os montes forem trasladados", "forms": {"transferentur": "e os montes forem trasladados"}, "note": "MS1932's verb.", "from": "MS1932"},
+        {"label": "e os montes forem removidos", "forms": {"transferentur": "e os montes forem removidos"}, "note": "DRB 'removed'.", "from": "DRB"},
+        {"label": "e os montes forem levados", "forms": {"transferentur": "e os montes forem levados"}, "note": "stylist (v1): *transportados* is a freight word and drags. Refused: *levar* is addúcere's (D42), and *levados* loses the *trans-*, the carrying across.", "from": "stylist"}
+      ]
+    },
+    {
+      "id": "sonuerunt",
+      "refs": ["45:4"],
+      "latin": "Sonuérunt",
+      "kind": "word",
+      "why": "sonáre, 'to sound, resound'; ἤχησαν. *Ressoaram* keeps the Latin's plain verb of sound. MS1932 *Bramaram* and DRB 'roared' make it the roar of the sea, which the context allows but the word does not say.",
+      "options": [
+        {"label": "Ressoaram", "forms": {"sonuerunt": "Ressoaram"}, "note": "Ruling.", "from": "draft"},
+        {"label": "Bramaram", "forms": {"sonuerunt": "Bramaram"}, "note": "MS1932; the roar, stronger than the Latin.", "from": "MS1932"},
+        {"label": "Rugiram", "forms": {"sonuerunt": "Rugiram"}, "note": "DRB 'roared'.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "aquae",
+      "refs": ["45:4"],
+      "latin": "turbátæ sunt aquæ eórum",
+      "kind": "ambiguity",
+      "why": "*eórum* is plural; in the Latin the only plural in sight is *montes* (the Greek's 'hearts of the seas' is plural, the Latin's *cor maris* is not), so the waters are grammatically 'theirs' — though the image is the sea's. Draft 1 had *as suas águas* (MS1932), leaving the owner open. The Latinist (minor) pointed out that the Latin sets a plural owner (*eórum*, the waters) against a singular one (*ejus*, the strength) in one verse, and *suas … sua* erases that contrast; the blind reader, with *suas … sua*, heard the mountains' own strength as one reading. *as águas deles* restores the Latin's plural and leaves *sua força* to a singular owner (God, or the sea). Taken in v2.",
+      "options": [
+        {"label": "as águas deles", "forms": {"aquae": "as águas deles"}, "note": "Ruling (v2): the Latinist; *eórum* against *ejus*.", "from": "latinist"},
+        {"label": "as suas águas", "forms": {"aquae": "as suas águas"}, "note": "draft 1; MS1932; number of the owner lost.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "fortitudine",
+      "refs": ["45:4"],
+      "latin": "conturbáti sunt montes in fortitúdine ejus",
+      "kind": "ambiguity",
+      "why": "*ejus* is singular — God's (DRB 'his strength'), or the sea's; not the mountains' own (that would be *eórum*/*sua*). *in* + ablative with a verb of being shaken is 'by / with' (DRB 'with', MS1932 *pela sua fortaleza*); *perturbar-se com* is the Portuguese of being shaken by something. fortitúdo → *força* (row), kept apart from 45:2 virtus → poder. *com a força dele* would pin a masculine singular (God or the sea — still the Latin's two) but is heavy.",
+      "options": [
+        {"label": "com a sua força", "forms": {"fortitudine": "com a sua força"}, "note": "Ruling; DRB 'with his strength'.", "from": "DRB"},
+        {"label": "na sua força", "forms": {"fortitudine": "na sua força"}, "note": "the preposition calqued; can be heard as the mountains 'in their strength'.", "from": "draft"},
+        {"label": "com a força dele", "forms": {"fortitudine": "com a força dele"}, "note": "excludes the mountains' own strength; heavier.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "tabernaculum",
+      "refs": ["45:5"],
+      "latin": "sanctificávit tabernáculum suum Altíssimus",
+      "kind": "glossary",
+      "why": "tabernáculum → *tenda* (row, open; 14:1, 18:6a, 42:3). **For Gustavo's ear:** this colon is sung alone of the Blessed Virgin — antiphon *Adjúvit eam Deus mane dilúculo; sanctificávit tabernáculum suum Altíssimus* at the Immaculate Conception (Sancti/12-08) and Our Lady Aparecida (Brasilia/10-12), a versicle for Dedication (12-10-Domus) and the Commons (C6-1) — found with ps032/uses.py. There the tabernacle is Mary, and a Brazilian ear hears *tabernáculo* as the place of the Presence, which is exactly that sense; *tenda* keeps the Latin's image and the psalter's one word. MS1932 *tabernáculo*.",
+      "options": [
+        {"label": "a sua tenda", "forms": {"tabernaculum": "a sua tenda"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "o seu tabernáculo", "forms": {"tabernaculum": "o seu tabernáculo"}, "note": "MS1932; the Marian reading of the antiphons.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "commovebitur",
+      "refs": ["45:6"],
+      "latin": "Deus in médio ejus, non commovébitur",
+      "kind": "ambiguity",
+      "why": "The Latin gives no subject: the city (Greek and Hebrew, feminine) or God just named. A Portuguese participle must choose a gender (*abalada* the city, MS1932 *não será comovida*; *abalado* God, as 20:8 *não será abalado*); the pronominal *não se abalará* chooses neither and keeps the verb (commovére → *abalar*, 17:8, 20:8, 28:7). It also reads alone, as the Commons of Virgins and of the Virgin sing it (*Deus in médio ejus, non commovébitur*, C6, C6-1, 08-15t, 12-13).",
+      "options": [
+        {"label": "não se abalará", "forms": {"commovebitur": "não se abalará"}, "note": "Ruling: keeps the Latin's open subject.", "from": "draft"},
+        {"label": "não será abalada", "forms": {"commovebitur": "não será abalada"}, "note": "the city, as the Greek; MS1932 *comovida*.", "from": "MS1932"},
+        {"label": "não será abalado", "forms": {"commovebitur": "não será abalado"}, "note": "God as subject; = 20:8's form.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "adjuvabit",
+      "refs": ["45:6"],
+      "latin": "adjuvábit eam Deus",
+      "kind": "grammar",
+      "why": "adjuváre → *auxiliar* (row), which keeps the family with 45:2 *auxílio* (adjútor). Draft 1 *Deus a auxiliará*: the stylist heard *a au-* merge in choir, losing the object (the city — and, in the Marian antiphon, the Virgin). The periphrastic future with an enclitic (*há de auxiliá-la*) says the same future and keeps the pronoun audible; a matter of grammar (D2). *ajudar* (MS1932 *a ajudará*) would avoid the clash too, but splits the row's family.",
+      "options": [
+        {"label": "há de auxiliá-la", "forms": {"adjuvabit": "há de auxiliá-la"}, "note": "Ruling (v2): the stylist.", "from": "stylist"},
+        {"label": "a auxiliará", "forms": {"adjuvabit": "a auxiliará"}, "note": "draft 1; the object swallowed in choir.", "from": "draft"},
+        {"label": "a ajudará", "forms": {"adjuvabit": "a ajudará"}, "note": "MS1932's verb; outside the adjuváre row.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "mane",
+      "refs": ["45:6"],
+      "latin": "mane dilúculo",
+      "kind": "word",
+      "why": "Two Latin words for early morning (τὸ πρὸς πρωί, one phrase in Greek): mane → *de manhã* (row, 5:4–5), dilúculum → *ao amanhecer* (row, 118:148). Both kept: the Latin's doubling is its own, and the colon is sung alone as a Marian antiphon (12-08, Aparecida). DRB 'in the morning early'; MS1932 *desde o raiar da manhã* (one phrase).",
+      "options": [
+        {"label": "de manhã, ao amanhecer", "forms": {"mane": "de manhã, ao amanhecer"}, "note": "Ruling: both rows.", "from": "glossary"},
+        {"label": "de manhã bem cedo", "forms": {"mane": "de manhã bem cedo"}, "note": "DRB 'in the morning early'.", "from": "DRB"},
+        {"label": "ao raiar da manhã", "forms": {"mane": "ao raiar da manhã"}, "note": "MS1932, one phrase.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "inclinata",
+      "refs": ["45:7"],
+      "latin": "et inclináta sunt regna",
+      "kind": "word",
+      "why": "inclináre, 'bend, bow, sink' (ἔκλιναν, 'gave way'); DRB 'were bowed down'. *se inclinaram* keeps the verb the psalter has for *inclína aurem* (→ *inclinai*); it can be heard as bowing in homage, which the Latin's word also allows. MS1932 *se humilharam* interprets.",
+      "options": [
+        {"label": "se inclinaram", "forms": {"inclinata": "se inclinaram"}, "note": "Ruling: the cognate; DRB.", "from": "DRB"},
+        {"label": "se curvaram", "forms": {"inclinata": "se curvaram"}, "note": "plainer, but another verb.", "from": "draft"},
+        {"label": "vacilaram", "forms": {"inclinata": "vacilaram"}, "note": "the Greek's giving way; loses the Latin's bending.", "from": "draft"},
+        {"label": "se humilharam", "forms": {"inclinata": "se humilharam"}, "note": "MS1932; interprets.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "virtutum",
+      "refs": ["45:8", "45:12"],
+      "latin": "Dóminus virtútum nobíscum",
+      "kind": "glossary",
+      "why": "*Dóminus virtútum* → *o Senhor dos poderes* (formula row, open; 23:10 applied, passed the Latinist twice; its row asked for a ruling 'before Ps 45', which has not been made). κύριος τῶν δυνάμεων: the Latin says powers, as the Greek does; *dos exércitos* is the Hebrew's Sabaoth (DRB 'armies', MS1932 *dos exércitos*) and is how the verse is known in Brazil. The refrain is also the Matins versicle *V. Dóminus virtútum nobíscum* (Psalmi matutinum) and reads alone. *nobíscum* needs a verb: *está* supplied (D2). 45:8 = 45:12, one slot.",
+      "options": [
+        {"label": "dos poderes", "forms": {"virtutum": "dos poderes"}, "note": "Ruling: the formula row, = 23:10.", "from": "glossary"},
+        {"label": "dos exércitos", "forms": {"virtutum": "dos exércitos"}, "note": "DRB, MS1932; the familiar form; the Hebrew's image.", "from": "MS1932"},
+        {"label": "das virtudes", "forms": {"virtutum": "das virtudes"}, "note": "the cognate; *virtude* is a moral quality today.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "prodigia",
+      "refs": ["45:9"],
+      "latin": "ópera Dómini, quæ pósuit prodígia super terram",
+      "kind": "ambiguity",
+      "why": "*quæ … prodígia* can be a relative with its noun drawn in ('the wonders which he set'), an exclamation (DRB 'what wonders he hath done'), or, as the Greek ἃ ἔθετο τέρατα, 'the works which he set as wonders'. MS1932 builds the apposition (*as maravilhas que operou*); it is the reading that keeps both nouns and reads without a gloss. pónere → *pôr* (the Latin's plain verb; MS1932 *operou*, DRB 'done' soften it). prodígium → *prodígio*.",
+      "options": [
+        {"label": "os prodígios que pôs", "forms": {"prodigia": "os prodígios que pôs"}, "note": "Ruling; MS1932's build.", "from": "MS1932"},
+        {"label": "que prodígios pôs", "forms": {"prodigia": "que prodígios pôs"}, "note": "DRB's exclamation; *que* after *Senhor* can be heard as a relative.", "from": "DRB"},
+        {"label": "que ele pôs como prodígios", "forms": {"prodigia": "que ele pôs como prodígios"}, "note": "the Greek's syntax; the Latinist's fix at the v2 gate (minor): *quæ* the object, *prodígia* its predicate.", "from": "latinist"}
+      ]
+    },
+    {
+      "id": "auferens",
+      "refs": ["45:9"],
+      "latin": "áuferens bella",
+      "kind": "glossary",
+      "why": "auferre → *tirar* (settled, D41). ἀνταναιρῶν, 'taking away'. Draft 1 kept the participle as a gerund (*tirando as guerras*); the blind reader heard the colloquial *tirando* = 'except' ('except for the wars'), and the stylist found the gerund dangling after the asterisk. v2 makes the participle a finite verb with its subject named — *ele tira* — which is grammar (D2): the Latin's verb stays, the 'except' reading goes, and the colon reads alone. The stylist's *afasta* is amovére's verb (row). DRB 'making wars to cease' and MS1932 *fazendo cessar* say the result, not the Latin's verb.",
+      "options": [
+        {"label": "ele tira", "forms": {"auferens": "ele tira"}, "note": "Ruling (v2): D41's verb, finite.", "from": "glossary"},
+        {"label": "tirando", "forms": {"auferens": "tirando"}, "note": "draft 1, the gerund; heard as 'except' by the blind reader.", "from": "draft"},
+        {"label": "ele afasta", "forms": {"auferens": "ele afasta"}, "note": "stylist (v1); *afastar* is amovére's (row).", "from": "stylist"},
+        {"label": "ele faz cessar", "forms": {"auferens": "ele faz cessar"}, "note": "DRB, MS1932; the result, not the verb.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "finem",
+      "refs": ["45:9"],
+      "latin": "usque ad finem terræ",
+      "kind": "word",
+      "why": "*finem* is singular, 'the end, the edge' of the earth (μέχρι τῶν περάτων, plural in the Greek). *os confins* is kept for *fines terræ* (21:28, plural). *até o fim da terra* keeps the Latin's number; it could be heard as time ('till the end of the world'), which the ambiguity reader should test. MS1932 *até à extremidade do mundo*.",
+      "options": [
+        {"label": "até o fim", "forms": {"finem": "o fim"}, "note": "Ruling: the Latin's singular.", "from": "draft"},
+        {"label": "até os confins", "forms": {"finem": "os confins"}, "note": "the Greek's plural; 21:28 *fines terræ*.", "from": "draft"},
+        {"label": "até a extremidade", "forms": {"finem": "a extremidade"}, "note": "MS1932.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "conteret",
+      "refs": ["45:10"],
+      "latin": "Arcum cónteret, et confrínget arma",
+      "kind": "glossary",
+      "why": "The glossary gives both contérere and confríngere *quebrar* (one Greek verb in 2:9 / 3:8) and names this verse as the place that 'must decide locally'. Here the Greek has two verbs too, τόξον συντρίψει καὶ συγκλάσει ὅπλον — so by D15's test the two stay two: contérere keeps the row's *quebrar* (3:8, 9:36 *Quebrai o braço*), and confríngere takes the row's named option *despedaçar* (MS1932 *fará em pedaços*). Natural order, the verb first (D2).",
+      "options": [
+        {"label": "Quebrará … despedaçará", "forms": {"conteret": "Quebrará", "confringet": "despedaçará"}, "note": "Ruling: two Greek verbs, two Portuguese; MS1932.", "from": "glossary"},
+        {"label": "Quebrará … quebrará", "forms": {"conteret": "Quebrará", "confringet": "quebrará"}, "note": "both rows as written; repeats a verb the Latin varies.", "from": "glossary"},
+        {"label": "Despedaçará … quebrará", "forms": {"conteret": "Despedaçará", "confringet": "quebrará"}, "note": "the pair the other way round; confríngere keeps *quebrar* as 2:9, 17:39, 28:5.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "vacate",
+      "refs": ["45:11"],
+      "latin": "Vacáte, et vidéte",
+      "kind": "word",
+      "why": "vacáre: 'be empty, free from; be free from labour, at leisure' (L&S); σχολάσατε, 'cease, have leisure'. *Parai* is plain, is MS1932's, and is safe under rule 3 (past *parei*). *Aquietai-vos* is DRB's 'be still' (and the Hebrew's 'let go'), a softer, inward stillness. The Latin word's monastic resonance (to be free for God) is not in any one Portuguese verb. God speaks to a plural audience: *vós*. *vidéte* → *vede*, as 45:9 — the repetition kept (MS1932 varies it to *reconhecei*).",
+      "options": [
+        {"label": "Parai", "forms": {"vacate": "Parai"}, "note": "Ruling; MS1932.", "from": "MS1932"},
+        {"label": "Aquietai-vos", "forms": {"vacate": "Aquietai-vos"}, "note": "DRB 'be still'; the stylist's proposal (v1: *Parai* sounds like halting a crowd or a cart). Refused: *vacáte* / σχολάσατε is to cease from work, be free — here, beside the wars God makes cease (45:9–10), a command to cease; stillness is the Hebrew's 'let go' and DRB's reading. The blind reader heard *Parai* as 'stop' — the sense intended.", "from": "stylist"},
+        {"label": "Descansai", "forms": {"vacate": "Descansai"}, "note": "the leisure sense; loses the ceasing.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "45:2": "*Deus noster* → *O nosso Deus* (article before the possessive). refúgium → *refúgio* (row; 31:7, 90:2). *nas tribulações* for *in tribulatiónibus* (plural kept). The whole verse is sung for the Protomartyrs of Rome (Sancti/Urbis/06-27).",
+    "45:3": "*Proptérea* → *Por isso* (17:50, 41:7). timére → *temer* (row). dum → *enquanto* (29:10, 42:2). turbáre → *perturbar* (row). See `transferentur`.",
+    "45:4": "turbáre and conturbáre both → *perturbar* (rows; ταράσσω both times) — the Latin's near-repetition kept as one verb twice. Natural order in the second colon (the subject first), a copy of 17:8 *os fundamentos dos montes se perturbaram*.",
+    "45:5": "*Flúminis ímpetus* → *O ímpeto do rio* (ὁρμήματα, 'rushings'; the cognate is current; DRB 'stream' and MS1932 *um rio caudaloso* take the force out of the noun). lætificáre → *alegrar* (row; 42:4). *cívitas Dei* → *a cidade de Deus*. Altíssimus → *o Altíssimo* (row); the verb-subject order of the Latin turned to natural order so the colon ends on a paroxytone. Both colons are sung alone as versicles (C6-1, 02-05 missa, Brasilia/08-30) and read alone.",
+    "45:6": "*Deus in médio ejus* → *Deus está no meio dela* (copula supplied, D2); *ejus* is the city. adjuváre → *auxiliar* (row); see `adjuvabit`. The second colon is the Marian antiphon *Adjúvit eam Deus mane dilúculo* (with a perfect there — the psalm keeps its future).",
+    "45:7": "conturbáre → *perturbar* (row). *dedit vocem suam* → *fez ouvir a sua voz* (row; 17:14); the subject left unnamed, as the Latin (MS1932 supplies *Deus*). *mota est terra* → *a terra se abalou* (movére → *abalar*, as 17:8 *Commóta est … terra* → *A terra se abalou*); the Latin's asyndeton kept.",
+    "45:8": "suscéptor → *amparo* (D19); *noster* → *o nosso*. *Deus Jacob* → *o Deus de Jacó* (19:2, 23:6). The Latin's order (the title first, the name last) kept, with *é* supplied: the colon ends on the name, as the Latin does. = 45:12 word for word (a refrain; the brief).",
+    "45:9": "*Veníte, et vidéte* → *Vinde, e vede* (33:12 *Vinde*; 33:9 *vede*). *ópera Dómini* → *as obras do Senhor* (27:5, 117:17). *super terram* → *sobre a terra*. The first colon is long in the Latin too.",
+    "45:10": "*scuta* plural → *os escudos*; *combúret igni* → *queimará … no fogo* (DRB 'in the fire'); the Latin puts the object first, Portuguese order puts the verb first (D2). *arma* → *as armas*.",
+    "45:11": "God speaks: *eu sou Deus* (no article; MS1932 *o Deus* follows the Greek's ὁ θεός; the Latin has none). exaltáre → *exaltar* (row); *exaltábor … et exaltábor* → *serei exaltado … e serei exaltado*, the repetition kept. *in géntibus* → *entre as nações* (gentes → nações, row); *in terra* → *na terra*.",
+    "45:12": "= 45:8, the refrain (one slot, `virtutum`)."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm45.txt, 11 prayed verses (45:2–45:12; no titulus, D7). One mediant per verse, no flex. Not a day-hours psalm: no DM1962 column. Uses by grep (ps032/uses.py): 45:5 whole as a versicle (C6-1, missa 02-05, Brasilia/08-30), 45:5b and 45:6b as the Marian antiphon of the Immaculate Conception and Our Lady Aparecida, 45:6a in the Commons of Virgins and of the BVM, 45:8a as the Matins versicle, 45:2 whole for the Protomartyrs (Urbis/06-27). So these colons must read alone."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps045.md (Latin, LXX, WLC, DRB, MS1932). DO's Portuguese not used (D12). Formulas checked with ps038/xref.py. Rules applied: D19 (suscéptor → amparo), D41 (auferre → tirar), rows virtus → poder (God's), fortitúdo → força, adjútor → auxílio, (con)turbáre → perturbar, (com)movére → abalar, vocem dare, tabernáculum → tenda, mane / dilúculo, gentes → nações, *Dóminus virtútum* → *o Senhor dos poderes* (formula row, unruled). Local rulings: contérere / confríngere kept apart here (two Greek verbs), *não se abalará* (keeps the Latin's open subject), *Parai* for vacáte. Refrain 45:8 = 45:12 built from one slot. Tests for the readers: *refúgio e poder*, *sem medida nos encontraram*, *as suas águas*, *com a sua força*, *a sua tenda*, *tirando as guerras até o fim da terra*, *Parai*."},
+    {"step": "checks", "note": "Draft 1: hard pass. Length flags accepted: 45:3 +4/+7 (the Portuguese future subjunctive passive *for perturbada … forem transportados* has no short form; *levados* would take addúcere's verb, D42); 45:8 = 45:12 +3/+3 (the copulas *está*, *é* the verbless Latin lacks); 45:10 +4/+3 (*despedaçará*, the second verb kept apart); 45:11 −6/+5 (*Vacáte, et vidéte quóniam* is long Latin for *Parai, e vede que*; the second colon keeps the Latin's *exaltábor … exaltábor*); 45:9a −3. Rhyme flag 45:9 *terra … terra*: the Latin has the same echo (*terram … terræ*), allowed by rule 5. Oxytone cadences where the Latin is paroxytone at 45:2a *poder*, 45:5a *Deus*, 45:6 *abalará*, *amanhecer*, 45:7b *abalou*, 45:8b = 45:12b *Jacó* — each the Latin's own word or the verb the row gives; allowed by rule 4."},
+    {"step": "readers", "note": "codex.py not called (Codex out of credits since Ps 37). The coordinator ran the three readers on draft 1 as fresh-context agents, all claude-opus-5-5 (fresh context)."},
+    {"step": "latinist", "file": "critic/v1.latinist.json", "note": "claude-opus-5-5 (fresh context). One minor: 45:4 *suas … sua* blurs *eórum* against *ejus* — taken. Otherwise passed tenses, voices, *Parai*, the doubled *mane dilúculo*.", "outcomes": [
+      {"verse": "45:4", "remark": "eórum (plural) vs ejus (singular) flattened by suas … sua", "outcome": "taken", "decision": "aquae"}
+    ]},
+    {"step": "stylist", "file": "critic/v1.stylist.json", "note": "claude-opus-5-5 (fresh context). 5 remarks: 3 taken (45:2 order, 45:6 *há de auxiliá-la*, 45:9 the gerund made finite — though not with his verb), 2 kept as options (45:3 *levados*, 45:11 *Aquietai-vos*). Best line 45:5, worst 45:9.", "outcomes": [
+      {"verse": "45:2", "remark": "sem medida wedged before the verb", "outcome": "taken", "decision": "nimis"},
+      {"verse": "45:3", "remark": "transportados heavy; levados", "outcome": "option", "decision": "transferentur", "reason": "*levar* is addúcere's (D42) and loses the carrying across."},
+      {"verse": "45:6", "remark": "a au- clash; há de auxiliá-la", "outcome": "taken", "decision": "adjuvabit"},
+      {"verse": "45:9", "remark": "dangling gerund; ele afasta", "outcome": "taken", "decision": "auferens", "reason": "The finite verb with *ele* taken; his *afasta* kept as an option — *afastar* is amovére's, D41 gives *tirar*."},
+      {"verse": "45:11", "remark": "Parai sounds like halting a cart; Aquietai-vos", "outcome": "option", "decision": "vacate", "reason": "vacáte / σχολάσατε is ceasing, beside the wars made to cease; stillness is the Hebrew's reading."}
+    ]},
+    {"step": "ambiguity", "file": "critic/v1.ambiguity.json", "note": "claude-opus-5-5 (fresh context). One real fault: 45:9 *tirando* heard as 'except' — mended (see `auferens`). 45:4 the mountains' own strength audible with *suas … sua* — mended with the Latinist. Kept, as the Latin's own openness or the row's word: *não se abalará* (city or God — intended), *se inclinaram* (tottered or bowed — the Latin's verb), unnamed subject of *fez ouvir*, *tenda* as a stall (row), *até o fim da terra* (place, heard first), *Senhor dos poderes* (row). Unknown words: *ímpeto*, *amparo*, *prodígios* — kept (the Latin's words; *amparo* D19).", "outcomes": [
+      {"verse": "45:9", "remark": "tirando = 'except'", "outcome": "taken", "decision": "auferens"},
+      {"verse": "45:4", "remark": "com a sua força: the mountains' own strength", "outcome": "taken", "decision": "aquae"},
+      {"verse": "45:2", "remark": "que sem medida: tribulations without measure / help", "outcome": "taken", "decision": "nimis"},
+      {"verse": "45:6", "remark": "não se abalará: city or God", "outcome": "refused", "decision": "commovebitur", "reason": "The Latin leaves the subject open; kept on purpose."},
+      {"verse": "45:7", "remark": "se inclinaram: bowed in submission", "outcome": "refused", "decision": "inclinata", "reason": "The Latin's verb carries both; *vacilaram*, *se curvaram* stay options."},
+      {"verse": "45:5", "remark": "tenda as a shop/stall", "outcome": "refused", "decision": "tabernaculum", "reason": "The row's word; heard as tent first."},
+      {"verse": "45:9", "remark": "até o fim da terra: place or time", "outcome": "refused", "decision": "finem", "reason": "Heard as place first; the Latin's singular."},
+      {"verse": "45:5", "remark": "ímpeto unknown / heard as violence", "outcome": "refused", "reason": "The Latin's word (ὁρμήματα, rushings); the force of the river is the image."},
+      {"verse": "45:9", "remark": "prodígios unknown", "outcome": "refused", "decision": "prodigia", "reason": "The Latin's word; *maravilhas* would be mirabília's."}
+    ]},
+    {"step": "revision", "version": 2, "note": "v2: 45:2 *nos encontraram sem medida* (order); 45:4 *as águas deles* (Latinist); 45:6 *Deus há de auxiliá-la* (stylist); 45:9 *ele tira as guerras* (gerund made finite; blind reader's 'except'). Draft 1 kept as prayed.v1.json."},
+    {"step": "checks", "note": "Draft 2: hard pass. New flag 45:6b +3 (*há de auxiliá-la*), accepted for the audible object. Other flags as draft 1."},
+    {"step": "latinist", "file": "critic/v2.latinist.json", "note": "Gate, claude-opus-5-5 (fresh context). No major. Four minors, all held with reasons; every v2 change except 45:9's finite verb passed without remark (45:4 *deles*, 45:2 order, 45:6 *há de auxiliá-la*).", "outcomes": [
+      {"verse": "45:9", "remark": "quæ … prodígia: quæ object, prodígia predicate (Greek syntax)", "outcome": "option", "decision": "prodigia", "reason": "The Latin allows the relative with its noun drawn in (MS1932's reading), and his build is heavier; kept as option 3."},
+      {"verse": "45:9", "remark": "áuferens made a finite clause; wants tirando", "outcome": "refused", "decision": "auferens", "reason": "The gerund was heard by the blind reader as 'except for the wars'; making a participle finite is grammar (D2), and the verb (D41) stays. *tirando* is option 2."},
+      {"verse": "45:7", "remark": "fez ouvir a sua voz paraphrases dedit vocem; deu a sua voz", "outcome": "refused", "reason": "The glossary row *vocem dare → fazer ouvir a voz* (17:14, passed there); *deu a sua voz* is not said in Portuguese."},
+      {"verse": "45:2", "remark": "nimis: grandemente closer than sem medida", "outcome": "refused", "decision": "nimis", "reason": "*sem medida* is 37:9's rendering of the same *nimis* (L&S 'beyond measure'); *grandemente* is valde's option (D38 review)."}
+    ]},
+    {"step": "glossary", "note": "Rows added (open, Ps 45): contérere/confríngere side by side, vacáre, transférre, sonáre, ímpetus, inclináre (of kingdoms), commovébitur without a subject; evidence added to *Dóminus virtútum* (applied again, still unruled)."}
+  ]
+}
