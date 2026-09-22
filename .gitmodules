@@ -1,0 +1,5 @@
+[submodule "content/do"]
+	path = content/do
+	url = https://github.com/DivinumOfficium/divinum-officium.git
+	shallow = true
+	ignore = dirty

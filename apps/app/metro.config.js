@@ -31,6 +31,15 @@ config.resolver.resolveRequest = (context, moduleName, platform) => {
 	return (defaultResolveRequest ?? context.resolveRequest)(context, moduleName, platform)
 }
 
+// content/do is the Divinum Officium submodule (~300MB of upstream text, Perl
+// and JS). The app reads it through the corpus, never by import — keep Metro
+// from crawling it.
+const doSubmodule = path.resolve(monorepoRoot, 'content', 'do')
+config.resolver.blockList = [
+  ...[config.resolver.blockList ?? []].flat(),
+  new RegExp(`^${doSubmodule.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}/`),
+]
+
 config.resolver.sourceExts.push('sql')
 config.resolver.assetExts.push('wasm')
 config.transformer.babelTransformerPath = path.resolve(__dirname, 'metro-sql-transformer.js')

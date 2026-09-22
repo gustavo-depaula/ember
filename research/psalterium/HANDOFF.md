@@ -4,7 +4,7 @@ Written by Claude before a context compaction, for Claude after it. Gustavo has 
 
 ## What this is
 
-A Brazilian Portuguese translation of the Gallican Psalter as prayed in the 1961/62 Breviary — to be recited and chanted beside the Latin column Ember renders from `content/do/horas/Latin/Psalterium/Psalmorum/PsalmN.txt` (never edit `content/do/`). Working dir is the git worktree `…/.claude/worktrees/parallel-prancing-avalanche`; everything lives in `research/psalterium/`. **Commit `research/psalterium/` and push to `main` after each batch** (Gustavo, 2026-09-21 — this replaces the earlier "commit nothing overnight"). No co-author lines. Translation agents never commit; the coordinating session does.
+A Brazilian Portuguese translation of the Gallican Psalter as prayed in the 1961/62 Breviary — to be recited and chanted beside the Latin column Ember renders from `content/do/web/www/horas/Latin/Psalterium/Psalmorum/PsalmN.txt` (never edit `content/do/`). Working dir is the git worktree `…/.claude/worktrees/parallel-prancing-avalanche`; everything lives in `research/psalterium/`. **Commit `research/psalterium/` and push to `main` after each batch** (Gustavo, 2026-09-21 — this replaces the earlier "commit nothing overnight"). No co-author lines. Translation agents never commit; the coordinating session does.
 
 ## Decided (do not reopen)
 
@@ -62,7 +62,7 @@ Gustavo: "the html page you made is GOLD, we should produce one for each psalm�
 ## Pacing and destination (Gustavo, ~23:50)
 
 - **Wait 40 minutes between batches.** A batch = the (at most two) agents alive together. When both have reported and been verified, start a background `sleep 2400` and dispatch the next batch only when it returns. This is about his session limit — do not shorten it.
-- **The work is for Divinum Officium**: the finished psalter is meant to become DO's Brazilian Portuguese psalter, so output stays in DO's line format with DO's ids and marks. DO's present Portuguese (`content/do/horas/Portugues/`) is **no authority** — partly his own recent AI-assisted contributions, many mistakes — never evidence for a wording (DECISIONS.md D12).
+- **The work is for Divinum Officium**: the finished psalter is meant to become DO's Brazilian Portuguese psalter, so output stays in DO's line format with DO's ids and marks. DO's present Portuguese (`content/do/web/www/horas/Portugues/`) is **no authority** — partly his own recent AI-assisted contributions, many mistakes — never evidence for a wording (DECISIONS.md D12).
 
 ## Where the run stands, and how batches are shaped (00:15 on 2026-09-21)
 

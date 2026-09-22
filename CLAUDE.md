@@ -21,11 +21,12 @@ pnpm workspaces + turborepo:
 - Author structured content as flow DSL in the data, never as text-parsing heuristics in a renderer.
 - **Never put third-party copyrighted text (CCC from vatican.va, Escrivá, Lírio Católico, …) into `content/`, the corpus, or any CI-built artifact.** It is fetched at runtime by a source in `apps/app/src/sources/` and cached on-device only. Licensing per source: `docs/content/content-sources.md`.
 - Build the corpus with `pnpm build:corpus`; `.github/workflows/deploy.yml` publishes it.
+- `content/do/` is the Divinum Officium repo as a git submodule. A new clone or worktree needs `git submodule update --init --depth 1 content/do` before `build:corpus`; never edit inside it.
 
 ## Commands
 
 ```bash
-pnpm setup:agent            # fresh container only: python dep, better-sqlite3 addon, corpus build
+pnpm setup:agent            # fresh container only: python dep, better-sqlite3 addon, DO submodule, corpus build
 pnpm start / start:web      # expo dev server
 pnpm ios / android          # build & run on simulator / device
 pnpm test                   # all workspace tests (from apps/app/: app tests only)

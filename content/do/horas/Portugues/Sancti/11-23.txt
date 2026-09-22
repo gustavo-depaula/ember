@@ -1,8 +1,0 @@
-[Officium]
-S. Clemente, Papa e Mártir
-
-[Name]
-Clemente
-
-[Versum 0]
-@Commune/C2a::s/N\./Clemente/

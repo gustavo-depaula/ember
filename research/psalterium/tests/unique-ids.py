@@ -11,7 +11,7 @@ here = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(here))
 import latin  # noqa: E402
 
-folder = here.parents[1] / 'content/do/horas/Latin/Psalterium/Psalmorum'
+folder = here.parents[1] / 'content/do/web/www/horas/Latin/Psalterium/Psalmorum'
 repeated, clashes = 0, []
 for path in sorted(folder.glob('Psalm*.txt')):
     raw = Counter(line.split(' ', 1)[0] for line in path.read_text(encoding='utf-8').splitlines() if latin.verseLine.match(line))

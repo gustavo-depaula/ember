@@ -16,7 +16,7 @@ the same Divinum Officium engine.
 | | OF (Mass **and** display) | EF (Mass **and** display) |
 |---|---|---|
 | Entry point | `resolveOfDay` (`@ember/mass`) — per day; `buildOfYearCalendar` (`@ember/mass`) loops it across a year for the display | `resolveDay` (`@ember/divinum-officium`) — per day; `buildDoYear` loops it across a year; `buildDoYearCalendar` (app) maps it to the display shape |
-| Data | `content/of/calendar/{temporal,sanctoral}.json` (canonical MR statics) + computed temporal cycle | the Divinum Officium corpus (`content/do/…`), via the corpus `DoLoader` |
+| Data | `content/of/calendar/{temporal,sanctoral}.json` (canonical MR statics) + computed temporal cycle | the Divinum Officium corpus (`content/do/web/www/…`), via the corpus `DoLoader` |
 | Names | sanctoral titles from the statics; temporal names from the **Mass formulary** title (`useCelebrationDisplay`, with `getLiturgicalDayName` fallback) — `temporal-notability.ts` only decides *which* temporal days show | sanctoral titles are the **DO Latin** names (the Kalendarium has no vernacular — fitting for the EF); temporal names fall back to `getLiturgicalDayName` |
 | HDO | `of/calendar/hdo.ts` (the single OF Holy-Day-of-Obligation source) | `ef` HDO table in `kalendar/year.ts` (the universal 1962 Holy Days) |
 | Descriptions | the Mass **formulary** `description` ("Sobre esta celebração"), loaded on demand by the card/detail; absent → no description shown | none — DO carries no descriptive prose, so EF cards show title + rank only |

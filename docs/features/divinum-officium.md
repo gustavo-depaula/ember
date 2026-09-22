@@ -11,7 +11,7 @@ This replaces the previous EF implementation entirely (build-time-flattened Mass
 - **The parser is dumb and lossless; the engine is smart and data-free.** Everything DO encodes as text ships **verbatim** (the corpus blobs are the upstream `.txt`, parsed to structured form at load time by `parseDoFile`, nothing evaluated at build time). Everything DO encodes as Perl becomes TypeScript (`packages/divinum-officium/`).
 - **DO's own Perl is the spec.** Fidelity is enforced by golden tests against `Cofficium.pl` / `Cmissa.pl` run from a pinned clone — not by re-reading rubrics books.
 - **One corpus serves all versions.** Rubric-version conditionals are preserved as AST in the data; the engine evaluates them per user preference at render time.
-- **Re-sync is a data diff.** Upstream is pinned by commit; `content/do` is a verbatim `.txt` mirror, so re-importing at a newer commit produces a reviewable diff that is 1:1 with the upstream files. **For `web/www` only** — when a re-sync also moves `web/cgi-bin`, the Perl changes are ported to the engine in the same pass, and the differential suites are the gate that says which ones matter (`git diff <old>..<new> -- web/cgi-bin` before importing).
+- **Re-sync is a submodule bump.** `content/do` is the upstream repo as a shallow git submodule, pinned by its gitlink; the corpus ships its `web/www` files verbatim. Re-syncing = check out a newer commit inside `content/do`, review `git diff <old>..<new> -- web/www` there (a PR shows only the SHA bump), run `pnpm validate:do`, and commit the new gitlink. When the bump also moves `web/cgi-bin`, the Perl changes are ported to the engine in the same pass, and the differential suites are the gate that says which ones matter (`git diff <old>..<new> -- web/cgi-bin`).
 
 ## Scope
 
@@ -39,11 +39,14 @@ Kalendaria files are **diff-based on their base** (`XXXXX` = deletion); the engi
 ## Data pipeline
 
 ```
-.divinum-officium/            # shallow clone at repo root, gitignored, pinned commit
-  → scripts/import-do.ts      # clone/update at pinned commit; writes content/do/meta.json
-  → scripts/build-do-content.ts  # validate (parse + tokenize, hard-fail on drift) + mirror → content/do/** (verbatim .txt + meta/inventory JSON, committed, NEVER hand-edited)
-  → scripts/build-corpus.py   # build_do(): do-data/* dataset items, raw-.txt blobs per file per language
+content/do/                   # git submodule (shallow), pinned upstream commit, NEVER edited
+  web/www/                    #   the data the corpus ships
+  web/cgi-bin/                #   the Perl the differential tests run
+  → scripts/validate-do.ts    # pnpm validate:do — parse + tokenize every in-scope file, hard-fail on non-UTF-8; writes nothing
+  → scripts/build-corpus.py   # build_do(): do-data/* dataset items, raw-.txt blobs per file per language; commit read from the submodule HEAD
 ```
+
+Fresh checkouts (and each new worktree) need `git submodule update --init --depth 1 content/do`. `pnpm setup:agent` does it, and `build_do()` fails loudly without it rather than ship a corpus with no EF Mass or Office.
 
 ### Imported sources (v1)
 
@@ -51,12 +54,12 @@ Per language (`Latin`, `English`, `Portugues`): `web/www/horas/<L>/{Tempora,Sanc
 
 ### Parsed-file schema
 
-`content/do` is a **verbatim `.txt` mirror** of the imported files — no transformation, byte-for-byte upstream. The structured form is produced by `parseDoFile(path, text)` at **load time** (in the engine, shared by the corpus loader and the filesystem loader), choosing the shape from the path (`isPlainPath`):
+The corpus ships the in-scope upstream files byte-for-byte — no transformation. The structured form is produced by `parseDoFile(path, text)` at **load time** (in the engine, shared by the corpus loader and the filesystem loader), choosing the shape from the path (`isPlainPath`):
 
 - **Sectioned** (`setupstring` files — Tempora/Sancti/Commune/missa/most of Psalterium): `{ sections: [{ name, condition?, lines: string[] }] }`. Sections stay in file order (duplicates with header conditions preserved — the engine replicates Perl's "last section whose condition holds wins"). `condition` is the raw expression from `[Name] (condition)` headers (Perl ignores decorative stopwords/scope at headers; so do we).
 - **Plain** (`do_read` files — `Psalterium/Psalmorum/Psalm*.txt`, `horas/Ordinarium/*.txt` hour scripts, `Tabulae/**`, `Regula/**`, `Martyrologium*` day files): `{ lines: string[] }`.
 
-Conditional evaluation is per-version at **runtime**, so the parser + line tokenizer ship in the engine regardless (`tokenizeLine`: conditional / inclusion / macro / call / rubric / blank / text, mirroring SetupString.pl's grammar — stopwords `si/deinde/sed/vero/atque/attamen`, raw `vero()` expression, scope phrase, sequel). `build-do-content.ts` runs the parser + tokenizer over **every line of every file** as a build-time **validation/inventory gate** (`content/do/inventory.json`: all `&`-calls, `$`-macros, condition expressions, section names) and hard-fails on unknown tokens or non-UTF-8 — so format drift upstream is caught at import time, not on a user's phone — but it ships the raw text, not the parse.
+Conditional evaluation is per-version at **runtime**, so the parser + line tokenizer ship in the engine regardless (`tokenizeLine`: conditional / inclusion / macro / call / rubric / blank / text, mirroring SetupString.pl's grammar — stopwords `si/deinde/sed/vero/atque/attamen`, raw `vero()` expression, scope phrase, sequel). `validate-do.ts` runs the parser + tokenizer over **every line of every in-scope file** as a **validation gate** (printing counts of `&`-calls, `$`-macros, condition expressions, section names) and hard-fails on non-UTF-8 — so format drift upstream is caught when the pin moves, not on a user's phone — but the corpus ships the raw text, not the parse.
 
 ### Corpus packaging (`do-data` kind)
 
@@ -73,10 +76,10 @@ Each language file is its own blob — **no merged-language blobs**; the engine 
 
 ## Engine — `packages/divinum-officium/`
 
-Pure TS, zero RN deps, DI loader. `DoLoader { load(path), exists(path) }` — corpus-backed in the app, filesystem-on-`content/do` in scripts/golden tests, in-memory in unit tests. (`exists` is required: DO precedence checks file existence for variants like `02-23v`.)
+Pure TS, zero RN deps, DI loader. `DoLoader { load(path), exists(path) }` — corpus-backed in the app, filesystem-on-`content/do/web/www` in scripts/golden tests, in-memory in unit tests. (`exists` is required: DO precedence checks file existence for variants like `02-23v`.)
 
 - `versions.ts` — version table above
-- `parser/` — the lossless parser (shared types with the engine; used by `build-do-content.ts`)
+- `parser/` — the lossless parser (shared types with the engine; used by `validate-do.ts`)
 - `conditions/evaluate.ts` — `vero()` port + scope machine
 - `references/resolve.ts` — `@` resolver: substitutions, line ranges, preamble inheritance, cycle guard, missa→horas Commune redirect, `[Rule]` `ex`/`vide` commons fallback
 - `rules.ts` — structured `[Rule]`/`[Rank]` access (rank per version, common source ref, keyword queries: `9/12 lectiones`, `1 nocturn`, `Psalmi Dominica`, `Preces Feriales`, `Te Deum`, `Sub unica conclusione`, …)

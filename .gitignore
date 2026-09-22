@@ -75,9 +75,6 @@ apps/app/android
 content/catechism/
 content/saints/*.webp
 
-# Divinum Officium source (cloned for parser script)
-.divinum-officium/
-
 # Python bytecode caches
 __pycache__/
 *.py[cod]

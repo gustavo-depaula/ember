@@ -1,7 +1,7 @@
 // DoLoader — dependency-injected access to the imported corpus. Paths are
 // DO-relative without extension: 'horas/Latin/Sancti/01-25',
 // 'missa/Latin/Ordo/Ordo', 'horas/Ordinarium/Laudes', 'Tabulae/Kalendaria/1960'.
-// Implementations: filesystem-on-content/do (scripts, tests) and corpus-backed
+// Implementations: filesystem-on-content/do/web/www (scripts, tests) and corpus-backed
 // (the app). `exists` is first-class because DO's precedence and fallback
 // logic checks file existence (variant files, Latin dir fallbacks).
 

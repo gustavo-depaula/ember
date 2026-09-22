@@ -12,5 +12,8 @@ if [ ! -f node_modules/better-sqlite3/build/Release/better_sqlite3.node ]; then
   (cd node_modules/better-sqlite3 && npm run build-release)
 fi
 
+# content/do (Divinum Officium) is a submodule; build-corpus.py refuses to run without it
+git submodule update --init --depth 1 content/do
+
 # app tests read the catalog from _site/; without it they fail with `catalog.json: 404`
 pnpm build:corpus

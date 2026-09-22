@@ -8,7 +8,7 @@ use strict;
 use warnings;
 use utf8;
 use FindBin qw($Bin);
-use lib "$Bin/../../../../.divinum-officium/web/cgi-bin";
+use lib "$Bin/../../../../content/do/web/cgi-bin";
 use JSON::PP;
 binmode(STDIN, ':encoding(UTF-8)');
 binmode(STDOUT, ':encoding(UTF-8)');
@@ -17,7 +17,7 @@ binmode(STDOUT, ':encoding(UTF-8)');
 our ($version, $datafolder, $missa, $hora, $dayofweek, $day, $month, $year, $monthday);
 our (@dayname, $winner, $commemoratio, $commune, $votive, $dioecesis, %winner);
 
-require "$Bin/../../../../.divinum-officium/web/cgi-bin/DivinumOfficium/SetupString.pl";
+require "$Bin/../../../../content/do/web/cgi-bin/DivinumOfficium/SetupString.pl";
 
 my $json = JSON::PP->new->utf8(0)->canonical;
 

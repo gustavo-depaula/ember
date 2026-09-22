@@ -3,7 +3,7 @@
 // This is the M3 fidelity gate. Skipped when the DO checkout isn't present.
 
 import { spawnSync } from 'node:child_process'
-import { copyFileSync } from 'node:fs'
+import { copyFileSync, rmSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { createFsLoader } from '../node/fsLoader'
@@ -54,6 +54,8 @@ describe.skipIf(!hasFixtures)('resolveDay vs real Perl precedence', () => {
       encoding: 'utf8',
       maxBuffer: 1024 * 1024 * 1024,
     })
+    // The harness sits inside the submodule only for the run; don't leave it dirty.
+    rmSync(harness, { force: true })
     expect(result.status, result.stderr.slice(0, 4000)).toBe(0)
     const perlOutputs = result.stdout.trim().split('\n')
     expect(perlOutputs.length).toBe(requests.length)

@@ -1,5 +1,5 @@
 // Tests for buildDoYear — the EF display calendar built from resolveDay. Uses
-// the imported content/do corpus (no Perl clone needed), so it runs in CI.
+// the content/do submodule data (no Perl needed).
 
 import { existsSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'

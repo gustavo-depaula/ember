@@ -1,7 +1,8 @@
 import type { SectionedDoFile } from './parser/sectioned'
 
-// Shape of a file under content/do/. Sectioned files ([Section] format —
-// Tempora, Sancti, Commune, most of Psalterium, missa, Appendix) carry
+// Shape of a Divinum Officium data file (content/do/web/www/). Sectioned
+// files ([Section] format — Tempora, Sancti, Commune, most of Psalterium,
+// missa, Appendix) carry
 // `sections`; plain files (Psalterium/Psalmorum psalms, Ordinarium hour
 // scripts, Tabulae calendar/transfer tables) carry `lines`.
 export type PlainDoFile = { lines: string[] }

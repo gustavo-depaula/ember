@@ -5,8 +5,8 @@ import unicodedata
 from pathlib import Path
 
 root = Path(__file__).resolve().parents[2]
-doLatin = root / 'content/do/horas/Latin/Psalterium'
-doPortugues = root / 'content/do/horas/Portugues/Psalterium'
+doLatin = root / 'content/do/web/www/horas/Latin/Psalterium'
+doPortugues = root / 'content/do/web/www/horas/Portugues/Psalterium'
 
 verseLine = re.compile(r'^(\d+):(\d+)([a-z]?)\s+(.*)$')
 

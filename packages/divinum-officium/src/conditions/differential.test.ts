@@ -37,7 +37,7 @@ function collectVectors(): Vector[] {
     if (!existsSync(dir)) continue
     for (const name of readdirSync(dir).sort()) {
       if (!name.endsWith('.txt')) continue
-      // content/do mirrors the upstream `.txt`; parse the same way the engine
+      // content/do ships the upstream `.txt` verbatim; parse the same way the engine
       // does at load time.
       const enginePath = `${root}/${name.slice(0, -'.txt'.length)}`
       const parsed = parseDoFile(enginePath, readFileSync(join(dir, name), 'utf8'))

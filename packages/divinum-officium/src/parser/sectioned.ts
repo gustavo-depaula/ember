@@ -57,7 +57,7 @@ export function parseSectionedFile(text: string): SectionedDoFile {
 // Which DO files the Perl reads with `do_read` (flat lines) rather than
 // `setupstring` (sections). Operates on the loader/import path — works on both
 // the import-time relPath (`…/Mobile.txt`) and the runtime engine path
-// (`…/Mobile`). Single source of truth for build-do-content, the corpus
+// (`…/Mobile`). Single source of truth for validate-do, the corpus
 // loader, and the filesystem loader.
 export function isPlainPath(path: string): boolean {
   return (

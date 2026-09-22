@@ -30,6 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # content/do (Divinum Officium) is a submodule; build_do() needs it
+          submodules: true
 
       - name: Install image tools
         run: sudo apt-get update && sudo apt-get install -y webp
