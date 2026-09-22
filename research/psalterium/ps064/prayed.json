@@ -1,0 +1,1119 @@
+{
+  "psalm": 64,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "64:2": "A vós convém {hymnus}, Deus, em Sião: * e a vós {reddetur} o voto em Jerusalém.",
+    "64:3": "Escutai a minha oração: * a vós virá {caro}.",
+    "64:4": "As palavras dos iníquos prevaleceram sobre nós: * e vós {propitiaberis} às nossas impiedades.",
+    "64:5": "Bem-aventurado aquele que escolhestes e {assumpsisti}: * habitará nos vossos átrios.",
+    "64:5b": "{rep5} dos bens da vossa casa: * santo é o vosso templo, maravilhoso em equidade.",
+    "64:6": "Escutai-nos, Deus, {salutaris}, * esperança de todos os confins da terra, {inmari}.",
+    "64:7": "{praeparans} os montes {invirtute}, cingido de {potentia}: * {qui} perturbais o fundo do mar, o som das suas ondas.",
+    "64:8": "As nações se perturbarão, e os que habitam {termini} {asignis}: * {delectabis} {exitus}.",
+    "64:10": "Visitastes a terra, e a {inebr10}: * {locupletare}.",
+    "64:10b": "O rio de Deus {rep10} de águas, preparastes o alimento deles: * porque assim é a sua preparação.",
+    "64:11": "{inebr11} os seus {rivos}, multiplicai as suas {genimina}: * com as suas gotas se alegrará{germinans}.",
+    "64:12": "Bendireis a coroa do ano da vossa {benignitas}: * e os vossos campos {rep12} de fartura.",
+    "64:13": "{pinguescent} {speciosa}: * e as colinas serão cingidas de exultação.",
+    "64:14": "{induti}, e os vales abundarão em trigo: * clamarão, pois {hymnumdicent}."
+  },
+  "decisions": [
+    {
+      "id": "hymnus",
+      "refs": [
+        "64:2"
+      ],
+      "latin": "Te decet hymnus",
+      "kind": "word",
+      "why": "The Latin has no article. The line is said alone as a Lauds antiphon (*Te decet hymnus, * Deus, in Sion*, Psalmi major) and as the Requiem Introit verse, and the Te Deum's close has *te decet hymnus* (Common/Prayers.txt) — the definite article makes it the hymn owed to God, which is what *decet* says. *convém* follows 32:1 *rectos decet collaudátio → aos retos convém louvar*; here the thing befitting is a noun and God is its dative, so the misreading found at 32:1 (praise they deserve) is the right sense here (πρέπει).",
+      "options": [
+        {
+          "label": "o hino",
+          "forms": {
+            "hymnus": "o hino"
+          },
+          "note": "draft — the hymn that is God's due; the antiphon's first half 'A vós convém o hino' stands alone",
+          "from": "draft"
+        },
+        {
+          "label": "um hino",
+          "forms": {
+            "hymnus": "um hino"
+          },
+          "note": "DM1962 'A Ti convém, ó Deus, em Sião, um hino' — his order and article",
+          "from": "DM1962"
+        },
+        {
+          "label": "os hinos (MS1932)",
+          "forms": {
+            "hymnus": "os hinos"
+          },
+          "note": "MS1932 'são devidos os hinos' — plural against the Latin singular",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "reddetur",
+      "refs": [
+        "64:2"
+      ],
+      "latin": "tibi reddétur votum",
+      "kind": "word",
+      "why": "*reddere vota → pagar os votos* is the psalter's use so far (21:26, 49:14, 55:12, 60:9). The Latin is a future passive with no agent; *será pago* keeps the voice.",
+      "options": [
+        {
+          "label": "será pago",
+          "forms": {
+            "reddetur": "será pago"
+          },
+          "note": "draft — future passive, as the Latin; the verb of 21:26, 49:14, 60:9",
+          "from": "draft"
+        },
+        {
+          "label": "se pagará",
+          "forms": {
+            "reddetur": "se pagará"
+          },
+          "note": "the impersonal reflexive; same sense, lighter",
+          "from": "draft"
+        },
+        {
+          "label": "será cumprido",
+          "forms": {
+            "reddetur": "será cumprido"
+          },
+          "note": "how a vow is 'paid' in Portuguese; but it breaks the *pagar* family of 21:26, 49:14, 60:9",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "caro",
+      "refs": [
+        "64:3"
+      ],
+      "latin": "ad te omnis caro véniet",
+      "kind": "word",
+      "why": "*omnis caro* (πᾶσα σάρξ) is the biblical 'all flesh'; MS1932 glosses it away (*todos os mortais*). Rule 5: the concrete word stays. The line is also an Office of the Dead antiphon (*Exáudi, Dómine, * oratiónem meam: ad te omnis caro véniet*, Commune/C9.txt), where 'flesh' coming to God is the point. Order: *a vós virá toda a carne* ends the verse on the noun, as the Latin ends on its verb; the Latin order *a vós toda a carne virá* is the literal tier.",
+      "options": [
+        {
+          "label": "toda a carne",
+          "forms": {
+            "caro": "toda a carne"
+          },
+          "note": "draft — the Latin's word, as 55:5 *carne* for *caro*",
+          "from": "draft"
+        },
+        {
+          "label": "todo mortal",
+          "forms": {
+            "caro": "todo mortal"
+          },
+          "note": "MS1932's sense ('todos os mortais'); explains the image",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "propitiaberis",
+      "refs": [
+        "64:4"
+      ],
+      "latin": "et impietátibus nostris tu propitiáberis",
+      "kind": "glossary",
+      "why": "The glossary row *propitiári → ser propício* (open) names 64:4 among the places it must serve; 24:11 *propitiáberis peccáto meo → sereis propício ao meu pecado* is the same verb in the same tense with a dative of the sin. Kept for that echo, and because *perdoar* is *dimíttere*'s. The row's known cost: one blind reader did not know *propício*. *tu* is emphatic in the Latin, so *vós* is named.",
+      "options": [
+        {
+          "label": "sereis propício",
+          "forms": {
+            "propitiaberis": "sereis propício"
+          },
+          "note": "draft — the glossary row, as 24:11",
+          "from": "glossary"
+        },
+        {
+          "label": "perdoareis",
+          "forms": {
+            "propitiaberis": "perdoareis"
+          },
+          "note": "MS1932 *perdoarás*, DRB *pardon*; clearer, but spends *dimíttere*'s verb",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "assumpsisti",
+      "refs": [
+        "64:5"
+      ],
+      "latin": "quem elegísti, et assumpsísti",
+      "kind": "glossary",
+      "why": "*assúmere* with a person as object → *recolher* (open row; 17:17, 26:10 *o Senhor, porém, me recolheu*), and the row names 64:5 as its third place. προσελάβου is 'take to oneself'. The internal echo *escolhestes / recolhestes* is the Latin's own (*elegísti / assumpsísti*). **v2:** all three readers stopped at *recolhestes* (Latinist: a shift toward sheltering; stylist: a jingle with *escolhestes*, and taking in laundry; blind reader: gathering up). Here God takes a chosen man to himself — the Latinist's *tomastes para vós* says it. The glossary row stays *recolher* for 17:17 and 26:10, where a man is drawn out of danger; 64:5 is noted there as the exception.",
+      "options": [
+        {
+          "label": "tomastes para vós",
+          "forms": {
+            "assumpsisti": "tomastes para vós"
+          },
+          "note": "v2 — the Latinist's fix (προσελάβου, take to oneself); the stylist and the blind reader both heard *recolhestes* as gathering things up",
+          "from": "MS1932"
+        },
+        {
+          "label": "recolhestes",
+          "forms": {
+            "assumpsisti": "recolhestes"
+          },
+          "note": "draft 1 — the glossary row (17:17, 26:10); heard as gathering things / jingle with *escolhestes*",
+          "from": "glossary"
+        },
+        {
+          "label": "tomastes",
+          "forms": {
+            "assumpsisti": "tomastes"
+          },
+          "note": "the bare verb (literal tier)",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "repleri",
+      "refs": [
+        "64:5b",
+        "64:10b",
+        "64:12"
+      ],
+      "latin": "Replébimur … replétum est … replebúntur",
+      "kind": "glossary",
+      "why": "One Latin verb three times in the psalm (πίμπλημι / πληρόω), so one Portuguese verb. *encher / cheio* follows 25:10 *repléta est munéribus → está cheia de dádivas*. 62:6's *fartar-se* (for the jussive *repleátur*) cannot serve here: 64:12 *replebúntur ubertáte* would say *se fartarão de fartura*. The two futures are passive in the Latin and stay passive (*Seremos cheios … serão cheios*), which also makes them echo; the perfect passive *replétum est* is a state, *está cheio*, as 25:10. MS1932 *Seremos cheios dos bens da tua casa*.",
+      "options": [
+        {
+          "label": "Seremos cheios / está cheio / serão cheios",
+          "forms": {
+            "rep5": "Seremos cheios",
+            "rep10": "está cheio",
+            "rep12": "serão cheios"
+          },
+          "note": "draft — passive, as the Latin; 25:10's word",
+          "from": "draft"
+        },
+        {
+          "label": "pronominal: Encher-nos-emos / encheu-se / se encherão",
+          "forms": {
+            "rep5": "Encher-nos-emos",
+            "rep10": "encheu-se",
+            "rep12": "se encherão"
+          },
+          "note": "MS1932 has *encheu-se de águas* and *se encherão*; the voice changes (the Latinist marked that in adimplére, 16:14b)",
+          "from": "MS1932"
+        },
+        {
+          "label": "repletos / repleto",
+          "forms": {
+            "rep5": "Seremos repletos",
+            "rep10": "está repleto",
+            "rep12": "serão repletos"
+          },
+          "note": "the cognate; bookish",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "salutaris",
+      "refs": [
+        "64:6"
+      ],
+      "latin": "Deus, salutáris noster",
+      "kind": "glossary",
+      "why": "The row *salutáris (of God, in apposition) → Salvador* (open) says *Deus salutáris noster* (64:6) 'will test the line' against D6's neuter *salutáre → salvação*. Here the Greek is ὁ σωτὴρ ἡμῶν — the person, not the thing — so *Salvador*, as 23:5 and 24:5. DRB 'O God our saviour', MS1932 *ó Deus, Salvador nosso*. The possessive before the noun, as 24:5 *o meu Salvador*.",
+      "options": [
+        {
+          "label": "nosso Salvador",
+          "forms": {
+            "salutaris": "nosso Salvador"
+          },
+          "note": "draft — the glossary row; σωτήρ",
+          "from": "glossary"
+        },
+        {
+          "label": "nossa salvação",
+          "forms": {
+            "salutaris": "nossa salvação"
+          },
+          "note": "D6's word for the neuter; here the Latin adjective is masculine, in apposition to Deus",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inmari",
+      "refs": [
+        "64:6"
+      ],
+      "latin": "spes ómnium fínium terræ, et in mari longe",
+      "kind": "ambiguity",
+      "why": "*et in mari longe* hangs loosely on *spes*: hope of the ends of the earth, and (hope) in the sea far off — those far away on the sea, or the far sea itself. The Latin leaves it open and so does *e no mar ao longe*; DRB 'and in the sea afar off' likewise. MS1932 resolves it (*e das longínquas praias do mar*). The colon is also a Preces response on its own (*R. Spes ómnium fínium terræ, et in mari longe*, Special/Preces.txt), so it must stand without the vocative.",
+      "options": [
+        {
+          "label": "e no mar, ao longe",
+          "forms": {
+            "inmari": "e no mar, ao longe"
+          },
+          "note": "v2 — the stylist's comma, so the adverb is heard apart; the relation left open, as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "e dos que estão longe no mar",
+          "forms": {
+            "inmari": "e dos que estão longe no mar"
+          },
+          "note": "resolves it to the people at sea; +3 syllables",
+          "from": "draft"
+        },
+        {
+          "label": "e do mar distante",
+          "forms": {
+            "inmari": "e do mar distante"
+          },
+          "note": "makes the sea a second genitive of *spes*; the adverb becomes an adjective",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeparans",
+      "refs": [
+        "64:7"
+      ],
+      "latin": "Prǽparans montes … qui contúrbas",
+      "kind": "grammar",
+      "why": "64:7 continues the appositions to *Deus* of 64:6: a participle, then *qui* with a second person. A Portuguese gerund at the head of a verse dangles; *Vós que preparais … que perturbais* makes both members relative clauses and names the addressee, which the Latin's second person implies. *preparar* (not MS1932's *Dás firmeza aos montes*, which interprets) because the psalm returns to the root twice in 64:10b (*parásti … præparátio*).",
+      "options": [
+        {
+          "label": "Vós que preparais … que perturbais",
+          "forms": {
+            "praeparans": "Vós que preparais",
+            "qui": "que"
+          },
+          "note": "draft — two relative clauses",
+          "from": "draft"
+        },
+        {
+          "label": "Preparando … vós que perturbais",
+          "forms": {
+            "praeparans": "Preparando",
+            "qui": "vós que"
+          },
+          "note": "the participle kept as a gerund; the subject arrives in the second colon",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "invirtute",
+      "refs": [
+        "64:7"
+      ],
+      "latin": "in virtúte tua",
+      "kind": "glossary",
+      "why": "The glossary's *in virtúte tua → no vosso poder* (20:2, 20:14, 53:3). Here *in* is instrumental (with it he prepares the mountains); *com* would be the natural preposition, but the formula is kept identical, and *no vosso poder* can be heard as 'by means of' too. Note the Latin has *tua* where the Greek has αὐτοῦ; the Latin is followed.",
+      "options": [
+        {
+          "label": "com o vosso poder",
+          "forms": {
+            "invirtute": "com o vosso poder"
+          },
+          "note": "v2 — the stylist: *no vosso poder* was heard as locative, where the Latin is instrumental; the preposition is grammar (D2)",
+          "from": "MS1932"
+        },
+        {
+          "label": "no vosso poder",
+          "forms": {
+            "invirtute": "no vosso poder"
+          },
+          "note": "draft 1 — the formula as 20:2, 53:3 (where it is locative)",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "potentia",
+      "refs": [
+        "64:7"
+      ],
+      "latin": "accínctus poténtia",
+      "kind": "glossary",
+      "why": "*virtus* (*poder*) and *poténtia* stand in one verse, so they must differ (the *virtus* row says so for 64:7). δυναστεία: lordly might. *força* is *fortitúdo*'s, *vigor* a man's *virtus*. *potência* is the cognate and the plain word for power in Brazil (engine, world power); *poderio* is closer to 'dominion' but rarer. Proposed as a glossary row (open): *poténtia → potência*. *cingido* keeps *accíngere* one verb with 64:13 *accingéntur → serão cingidas*, and with *præcíngere → cingir* (17:33).",
+      "options": [
+        {
+          "label": "potência",
+          "forms": {
+            "potentia": "potência"
+          },
+          "note": "draft — the cognate, apart from *poder*",
+          "from": "draft"
+        },
+        {
+          "label": "poderio",
+          "forms": {
+            "potentia": "poderio"
+          },
+          "note": "'dominion', closer to δυναστεία; a little literary",
+          "from": "draft"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "potentia": "força"
+          },
+          "note": "plainest, but it is *fortitúdo*'s word",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "termini",
+      "refs": [
+        "64:8"
+      ],
+      "latin": "qui hábitant términos",
+      "kind": "glossary",
+      "why": "The glossary keeps *términi (terræ) → limites* apart from *fines terræ → confins* (2:8). The psalm has both two verses apart (64:6 *fínium*, 64:8 *términos*); the Greek is πέρατα in both, so D15's test would allow one word, but the Latin varies and the row exists. Kept apart; *confins* is the option.",
+      "options": [
+        {
+          "label": "os confins",
+          "forms": {
+            "termini": "os confins"
+          },
+          "note": "v2 — one word with 64:6, as the Greek (πέρατα both); the stylist heard *os limites* as administrative and the blind reader as frontiers",
+          "from": "draft"
+        },
+        {
+          "label": "os limites",
+          "forms": {
+            "termini": "os limites"
+          },
+          "note": "draft — the glossary row (2:8)",
+          "from": "glossary"
+        },
+        {
+          "label": "nos extremos",
+          "forms": {
+            "termini": "nos extremos"
+          },
+          "note": "the stylist's proposal: plain and spatial, but a new word for the psalter",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "asignis",
+      "refs": [
+        "64:8"
+      ],
+      "latin": "et timébunt … a signis tuis",
+      "kind": "grammar",
+      "why": "*timére a* + ablative → a direct object (the *timére* row). *a signis* could also be 'because of' (MS1932 *pelos teus prodígios*, DRB 'at thy signs'); the plain object keeps the Latin's openness and is shortest in a colon already four syllables over. *sinais*, not *prodígios* (which is *prodígium*'s).",
+      "options": [
+        {
+          "label": "temerão os vossos sinais",
+          "forms": {
+            "asignis": "temerão os vossos sinais"
+          },
+          "note": "draft — the timére row",
+          "from": "glossary"
+        },
+        {
+          "label": "temerão diante dos vossos sinais",
+          "forms": {
+            "asignis": "temerão diante dos vossos sinais"
+          },
+          "note": "DRB 'at thy signs'; the Latinist's minor (v1) asked for it; +3 syllables",
+          "from": "latinist"
+        },
+        {
+          "label": "temerão por causa dos vossos sinais",
+          "forms": {
+            "asignis": "temerão por causa dos vossos sinais"
+          },
+          "note": "MS1932's causal *pelos*; explains",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exitus",
+      "refs": [
+        "64:8"
+      ],
+      "latin": "éxitus matutíni, et véspere",
+      "kind": "ambiguity",
+      "why": "The hardest words of the psalm. The Greek is ἐξόδους πρωίας καὶ ἑσπέρας — 'the goings-out of morning and of evening' (both genitive); the Latin's *véspere* can be read as a second genitive (DRB 'the outgoings of the morning and of the evening') or as 'at evening'. *As saídas* keeps the concrete noun without deciding what they are (sunrise and sunset, the east and the west — MS1932 resolves to *as regiões do oriente e do ocidente*, which is a gloss). The object comes after the verb, the natural Portuguese order. **After the v2 gate:** the ablative reading is taken — the form is the Latin's, and the Latin is what is translated.",
+      "options": [
+        {
+          "label": "as saídas da manhã, e à tarde",
+          "forms": {
+            "exitus": "as saídas da manhã, e à tarde"
+          },
+          "note": "v2 gate — the Latinist: *véspere* is an ablative in form (the genitive would be *vésperi*), 'and at evening'; rule 1 follows the Latin over the Greek's two genitives",
+          "from": "latinist"
+        },
+        {
+          "label": "as saídas da manhã e da tarde",
+          "forms": {
+            "exitus": "as saídas da manhã e da tarde"
+          },
+          "note": "draft 1–2 — the Greek's (ἑσπέρας) and DRB's reading, a symmetrical pair",
+          "from": "draft"
+        },
+        {
+          "label": "o nascer da manhã e da tarde",
+          "forms": {
+            "exitus": "o nascer da manhã e da tarde"
+          },
+          "note": "interprets *éxitus* as the rising of the light",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "delectabis",
+      "refs": [
+        "64:8"
+      ],
+      "latin": "delectábis",
+      "kind": "glossary",
+      "why": "Active, causative *delectáre*: at 29:2 (*nec delectásti inimícos meos*) it went to *alegrar*. The Greek differs (τέρψεις here, εὐφραίνω there), but the Latin verb and voice are the same, so the same verb. *deleitar* is the deponent *delectári*'s (50:18, 36:4).",
+      "options": [
+        {
+          "label": "alegrareis",
+          "forms": {
+            "delectabis": "alegrareis"
+          },
+          "note": "draft — as 29:2",
+          "from": "glossary"
+        },
+        {
+          "label": "deleitareis",
+          "forms": {
+            "delectabis": "deleitareis"
+          },
+          "note": "closer to τέρπω 'delight'; the deponent's verb",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inebriare",
+      "refs": [
+        "64:10",
+        "64:11"
+      ],
+      "latin": "inebriásti eam … Rivos ejus inébria",
+      "kind": "glossary",
+      "why": "The *inebriáre → embriagar* row (open) names both places. The image — the earth made drunk with rain — is the Latin's and the Greek's (ἐμέθυσας, μέθυσον); MS1932 glosses it (*inebriaste (com chuvas benéficas)*). Kept, one verb for both, as the Latin.",
+      "options": [
+        {
+          "label": "embriagastes / Embriagai",
+          "forms": {
+            "inebr10": "embriagastes",
+            "inebr11": "Embriagai"
+          },
+          "note": "draft — the glossary row (22:5b, 35:9)",
+          "from": "glossary"
+        },
+        {
+          "label": "inebriastes / Inebriai",
+          "forms": {
+            "inebr10": "inebriastes",
+            "inebr11": "Inebriai"
+          },
+          "note": "the cognate (MS1932); more literary",
+          "from": "MS1932"
+        },
+        {
+          "label": "encharcastes / Encharcai",
+          "forms": {
+            "inebr10": "encharcastes",
+            "inebr11": "Encharcai"
+          },
+          "note": "says what the image means; drops the drink",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "locupletare",
+      "refs": [
+        "64:10"
+      ],
+      "latin": "multiplicásti locupletáre eam",
+      "kind": "grammar",
+      "why": "A Hebraism through the Greek (ἐπλήθυνας τοῦ πλουτίσαι αὐτήν): 'you multiplied to enrich it' = you enriched it abundantly. Portuguese cannot take *multiplicar* + infinitive. The draft keeps the verb *multiplicar* (which returns in 64:11 *multíplica*) and turns the infinitive into its noun, *riqueza*; *sua* can only be the earth's, since God is *vossa*. DRB 'thou hast many ways enriched it' keeps the enriching and makes the multiplying an adverb — option.",
+      "options": [
+        {
+          "label": "multiplicastes a sua riqueza",
+          "forms": {
+            "locupletare": "multiplicastes a sua riqueza"
+          },
+          "note": "draft — *multiplicar* kept; the infinitive becomes a noun",
+          "from": "draft"
+        },
+        {
+          "label": "de muitos modos a enriquecestes",
+          "forms": {
+            "locupletare": "de muitos modos a enriquecestes"
+          },
+          "note": "DRB; 62:2b already renders *multiplíciter* 'de quantos modos'",
+          "from": "DRB"
+        },
+        {
+          "label": "multiplicastes para a enriquecer",
+          "forms": {
+            "locupletare": "multiplicastes para a enriquecer"
+          },
+          "note": "the Latin's build; the verb has no object",
+          "from": "draft"
+        },
+        {
+          "label": "multiplicastes o enriquecê-la",
+          "forms": {
+            "locupletare": "multiplicastes o enriquecê-la"
+          },
+          "note": "the Latinist's minor (v1): keeps the infinitive and *eam*; a nominalised infinitive with an enclitic is not said in Portuguese",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "rivos",
+      "refs": [
+        "64:11"
+      ],
+      "latin": "Rivos ejus",
+      "kind": "word",
+      "why": "*rivus* is a stream (the Greek αὔλακας, 'furrows', is not followed — rule 1). The plainest Brazilian word.",
+      "options": [
+        {
+          "label": "riachos",
+          "forms": {
+            "rivos": "riachos"
+          },
+          "note": "draft — the plain word",
+          "from": "draft"
+        },
+        {
+          "label": "regatos",
+          "forms": {
+            "rivos": "regatos"
+          },
+          "note": "DM1962 has *regato* in this psalm (for the Hebrew's 'channel')",
+          "from": "DM1962"
+        },
+        {
+          "label": "ribeiros",
+          "forms": {
+            "rivos": "ribeiros"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "genimina",
+      "refs": [
+        "64:11"
+      ],
+      "latin": "multíplica genímina ejus",
+      "kind": "word",
+      "why": "*genímina* (γενήματα) is what the earth brings forth. *frutos* is *fructus*'s word (a different Greek, καρπός); *colheitas* names the produce of the land plainly. MS1932 *as suas produções*.",
+      "options": [
+        {
+          "label": "colheitas",
+          "forms": {
+            "genimina": "colheitas"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "frutos",
+          "forms": {
+            "genimina": "frutos"
+          },
+          "note": "DRB 'fruits'; merges with *fructus*",
+          "from": "DRB"
+        },
+        {
+          "label": "produtos",
+          "forms": {
+            "genimina": "produtos"
+          },
+          "note": "MS1932's sense; prosaic",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "germinans",
+      "refs": [
+        "64:11"
+      ],
+      "latin": "in stillicídiis ejus lætábitur gérminans",
+      "kind": "ambiguity",
+      "why": "*gérminans* is a participle: either predicative with an unexpressed subject (the earth will rejoice, sprouting — the Greek has ἀνατέλλουσα, feminine, the earth) or substantive ('the sprouting thing will rejoice'). The gerund keeps the Latin's build and leaves the subject unnamed, as the Latin does. *com as suas gotas*: *in* + ablative taken as the means; *nas suas gotas* is not idiomatic Portuguese.",
+      "options": [
+        {
+          "label": " o que germina",
+          "forms": {
+            "germinans": " o que germina"
+          },
+          "note": "v2 — the Latinist and the stylist both read *gérminans* as the subject; the blind reader heard no subject in the gerund. *germina* is paroxytone (ger-MI-na), so the cadence holds",
+          "from": "draft"
+        },
+        {
+          "label": ", germinando",
+          "forms": {
+            "germinans": ", germinando"
+          },
+          "note": "draft 1 — the participle as a gerund; subject left unnamed",
+          "from": "draft"
+        },
+        {
+          "label": " o que brota",
+          "forms": {
+            "germinans": " o que brota"
+          },
+          "note": "the stylist's word; leaves the *gérmen* root",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "pinguescent",
+      "refs": [
+        "64:13"
+      ],
+      "latin": "Pinguéscent",
+      "kind": "word",
+      "why": "πιανθήσονται, 'grow fat' — the *pinguis → gordo* family. Fat land is fertile land (*terra gorda* is still said), so the image is kept (rule 5) rather than explained as MS1932 does (*ficarão viçosas*). **v2:** the stylist called it the worst line (comic) and the blind reader was confused; with *os lugares formosos* the subject is now plainly land, which is where *engordar* has its farming sense. Kept (rule 5: fat stays fat); *Ficarão fartos* is the option.",
+      "options": [
+        {
+          "label": "Engordarão",
+          "forms": {
+            "pinguescent": "Engordarão"
+          },
+          "note": "draft — the Latin's image",
+          "from": "draft"
+        },
+        {
+          "label": "Ficarão viçosas",
+          "forms": {
+            "pinguescent": "Ficarão viçosas"
+          },
+          "note": "MS1932; explains",
+          "from": "MS1932"
+        },
+        {
+          "label": "Ficarão fartos",
+          "forms": {
+            "pinguescent": "Ficarão fartos"
+          },
+          "note": "the stylist (v1: worst line, *engordar* sounds comic, of livestock and diets); *fartos* is satiety, not fatness, and echoes *fartura* (ubértas) — the image changes",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "speciosa",
+      "refs": [
+        "64:13"
+      ],
+      "latin": "speciósa desérti",
+      "kind": "word",
+      "why": "A neuter plural adjective used as a noun: 'the beautiful (things/places) of the desert'. *as belezas* keeps a plural noun of the same meaning without supplying a noun the Latin lacks; DRB supplies 'places'. The cost: *beleza* is already *spécies*' word at 46:5 (and *pulchritúdo*'s at 44:5a) — same root family as *speciósa*, so a reader crossing columns loses little.",
+      "options": [
+        {
+          "label": "os lugares formosos do deserto",
+          "forms": {
+            "speciosa": "os lugares formosos do deserto"
+          },
+          "note": "v2 — the Latinist's fix (DRB 'the beautiful places'); *belezas* drifted to an abstraction and the blind reader heard it so",
+          "from": "DRB"
+        },
+        {
+          "label": "as belezas do deserto",
+          "forms": {
+            "speciosa": "as belezas do deserto"
+          },
+          "note": "draft 1",
+          "from": "draft"
+        },
+        {
+          "label": "o que é formoso no deserto",
+          "forms": {
+            "speciosa": "o que é formoso no deserto"
+          },
+          "note": "the substantive kept without a supplied noun; singular (the verb would then be *Engordará*)",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "induti",
+      "refs": [
+        "64:14"
+      ],
+      "latin": "Indúti sunt aríetes óvium",
+      "kind": "ambiguity",
+      "why": "Perfect passive with nothing said of what they are clothed with (fleece? DRB 'are clothed'; MS1932 adds *(de lã)* in a gloss). *estão vestidos* keeps the passive as a state, as 25:10 *repléta est → está cheia*, and leaves the clothing unnamed. *aríetes óvium* stays *os carneiros das ovelhas* (the *aríes → carneiro* row), not DRB's 'flock'.",
+      "options": [
+        {
+          "label": "Estão vestidos os carneiros das ovelhas",
+          "forms": {
+            "induti": "Estão vestidos os carneiros das ovelhas"
+          },
+          "note": "v2 — the verb first, as the Latin and the stylist; plain verb–subject order rather than his *Vestidos estão*",
+          "from": "stylist"
+        },
+        {
+          "label": "Os carneiros das ovelhas estão vestidos",
+          "forms": {
+            "induti": "Os carneiros das ovelhas estão vestidos"
+          },
+          "note": "draft 1 — subject first; the stylist: the verse deflates on *estão vestidos*",
+          "from": "draft"
+        },
+        {
+          "label": "Vestiram-se os carneiros das ovelhas",
+          "forms": {
+            "induti": "Vestiram-se os carneiros das ovelhas"
+          },
+          "note": "the Greek middle ἐνεδύσαντο; the voice changes against the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "Foram vestidos os carneiros das ovelhas",
+          "forms": {
+            "induti": "Foram vestidos os carneiros das ovelhas"
+          },
+          "note": "the Latin's passive as an event",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "hymnumdicent",
+      "refs": [
+        "64:14"
+      ],
+      "latin": "clamábunt, étenim hymnum dicent",
+      "kind": "word",
+      "why": "*dícere* with a song as object is 'to sing/recite it': *psalmum dícere → entoar um salmo* is settled use (17:50, 26:6b, 56:8, 60:9), so *hymnum dícere → entoar um hino*. *cantar* is *cantáre*'s. *hino* is the psalm's first noun too (64:2 *hymnus*), so it closes on the word it opened with, as the Latin. *étenim → pois* (glossary).",
+      "options": [
+        {
+          "label": "hão de entoar um hino",
+          "forms": {
+            "hymnumdicent": "hão de entoar um hino"
+          },
+          "note": "v2 — the stylist: *abundarão / clamarão / entoarão* jingled; the periphrastic future is the same tense (as 29:9 *hei de clamar*), and *entoar* is kept (his *cantar* is cantáre's)",
+          "from": "stylist"
+        },
+        {
+          "label": "entoarão um hino",
+          "forms": {
+            "hymnumdicent": "entoarão um hino"
+          },
+          "note": "draft 1 — three *-arão* in one verse",
+          "from": "glossary"
+        },
+        {
+          "label": "cantarão um hino",
+          "forms": {
+            "hymnumdicent": "cantarão um hino"
+          },
+          "note": "plainer; *cantáre*'s verb",
+          "from": "draft"
+        },
+        {
+          "label": "dirão um hino",
+          "forms": {
+            "hymnumdicent": "dirão um hino"
+          },
+          "note": "the Latin word for word; not said in Portuguese",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "benignitas",
+      "refs": [
+        "64:12"
+      ],
+      "latin": "benignitátis tuæ",
+      "kind": "glossary",
+      "why": "D44 settled *benígnitas → benignidade* and names this verse; it is kept apart from *bónitas → bondade*. The stylist asked for *bondade* (a long Latinate word at the mediant) and the blind reader listed *benignidade* as unknown — the row's known cost. Refused under D44; *bondade* is the option.",
+      "options": [
+        {
+          "label": "benignidade",
+          "forms": {
+            "benignitas": "benignidade"
+          },
+          "note": "D44",
+          "from": "glossary"
+        },
+        {
+          "label": "bondade",
+          "forms": {
+            "benignitas": "bondade"
+          },
+          "note": "the stylist (v1): plainer; merges with *bónitas*",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "64:2": "The Lauds antiphon divides after *hymnus* (*Te decet hymnus, * Deus, in Sion*): *A vós convém o hino, * Deus, em Sião* divides the same way. Bare vocative *Deus*, as the finished psalms. The blind reader half-heard *voto* as a ballot; *pagar os votos* is the psalter's established phrase (21:26, 49:14, 60:9), kept.",
+    "64:4": "*super nos → sobre nós* (the Latin's preposition; 12:4b's *contra* is *advérsus*). *impíetas → impiedade*, as 5:11b and 31:5b. *vós sereis propício às nossas impiedades* puts the verb before its dative so the verse ends on a paroxytone. **The blind reader heard *propício às nossas impiedades* as God favouring our sins** — the second reader to hear the row's adjective that way (24:11). Kept for the row; the main session should look at *propitiári* before 77:38, 78:9.",
+    "64:5": "*aquele que* rather than MS1932's *o que*, which a Brazilian ear can take as 'what'. *inhabitáre → habitar*. *átrio* kept (the row), though the blind reader did not know it (the third). The first colon is +8 against the Latin in v2 (*Bem-aventurado*, D19, and *tomastes para vós*); one breath still.",
+    "64:5b": "*os bens da vossa casa* as 26:13 *os bens do Senhor*. *mirábilis → maravilhoso* (row), *æquitas → equidade* (36:37a, 51:5).",
+    "64:7": "*profúndum maris → o fundo do mar* (67:23 has the same phrase). *sonum* is in apposition to *profúndum*, and stays so: *o fundo do mar, o som das suas ondas* (MS1932 adds a verb in a gloss). *sonus → som*, as 18:5. *conturbáre → perturbar* (row).",
+    "64:8": "*Turbabúntur gentes → As nações se perturbarão*: *turbáre → perturbar*, the middle as 47:6 *perturbaram-se*. The first colon runs long (+3 against the Latin in v2) because Portuguese needs *os que* for *qui*; it is one breath. *éxitus … véspere*: the blind reader found *as saídas da manhã* opaque (exits, departures). It is the Latin's own crux, left concrete and unresolved on purpose (decision `exitus`).",
+    "64:10": "*visitáre → visitar* (row).",
+    "64:10b": "*parásti … præparátio* and 64:7 *Prǽparans*: one root, *preparar … preparação*, as the Latin. *ejus* (the Greek has σου) → *a sua*, whose antecedent is left as open as the Latin's. *cibus → alimento*. *illórum → deles*, to keep it off the river. First colon +5 (accepted: *preparastes-lhes o alimento* would save one syllable but *lhes* lands on the river's *águas*; *o seu alimento* could be the river's). The blind reader found *deles* without antecedent and *a sua preparação* opaque; the Latin's *illórum* and *ejus* are just as unanchored (and the Greek has σου), so neither is resolved.",
+    "64:12": "*Benedíces → Bendireis* (the *benedícere* row), *corónæ → a coroa* (the crown kept, as the *coronáre* row), *benignitátis → benignidade* (D44 names this verse), *ubertáte → fartura* (the *ubértas* row names this verse).",
+    "64:13": "*accingéntur → serão cingidas*, passive as the Latin, echoing 64:7 *cingido*. *colles → colinas*. *exsultátio → exultação* (row; unknown to the blind reader again). First colon +4 in v2.",
+    "64:14": "*fruménto → trigo* (4:8). *abundábunt fruménto → abundarão em trigo*.",
+    "64:6": "Second colon +5: *esperança de todos os confins da terra* alone matches the Latin's words one for one; the rest is *in mari longe*, kept whole (decision `inmari`). The colon also stands alone as a Preces response."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Draft 1 from the parallels (Latin, LXX, DRB, MS1932, DM1962 for diction). Hard readings: 64:8 *éxitus matutíni, et véspere delectábis* (the Greek's two genitives followed, left concrete); 64:10 *multiplicásti locupletáre eam* (Hebraism — the verb kept, the infinitive made a noun); 64:11 *gérminans* (gerund, subject open); 64:7 *virtus* and *poténtia* in one verse (*poder* / *potência*). Glossary rows applied: exaudíre, propitiári, assúmere, salutáris, in virtúte tua, inebriáre, benígnitas, ubértas, aríes, timére a, términi, delectáre (29:2), psalmum dícere. The psalm's own repetitions kept: *replére* ×3, *inebriáre* ×2, *multiplicáre* ×2, *(præ)paráre* ×3, *accíngere* ×2, *hymnus* ×2."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids, marks). Length flags accepted with reasons in `choices`: 64:5 +6 (D19's *Bem-aventurado*), 64:6 +5, 64:10b +5, 64:8 +4, 64:14 +3. No rhyme or cadence flag."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "5 minor, no major. 64:5, 64:11, 64:13 taken; 64:8 and 64:10 refused and kept as options.",
+      "outcomes": [
+        {
+          "verse": "64:5",
+          "remark": "recolhestes shifts assumere toward sheltering",
+          "outcome": "taken"
+        },
+        {
+          "verse": "64:8",
+          "remark": "a signis tuis causal: temerão diante dos vossos sinais",
+          "outcome": "option",
+          "decision": "asignis",
+          "reason": "the timére a row takes a direct object; the reader himself calls it defensible, and the colon is already +4"
+        },
+        {
+          "verse": "64:10",
+          "remark": "locupletare nominalised: multiplicastes o enriquecê-la",
+          "outcome": "option",
+          "decision": "locupletare",
+          "reason": "a nominalised infinitive with an enclitic is not Portuguese; the draft keeps *multiplicar* and the root of *locupletáre*, which is grammar (D2); the stylist named this line the best"
+        },
+        {
+          "verse": "64:11",
+          "remark": "gérminans is the subject: o que germina",
+          "outcome": "taken"
+        },
+        {
+          "verse": "64:13",
+          "remark": "speciósa: os lugares formosos, not belezas",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "9 remarks in 8 verses; 6 taken, 3 refused as options. Worst line 64:13, best 64:10.",
+      "outcomes": [
+        {
+          "verse": "64:5",
+          "remark": "escolhestes / recolhestes jingle; recolher = laundry",
+          "outcome": "taken",
+          "reason": "with the Latinist's wording *tomastes para vós*"
+        },
+        {
+          "verse": "64:6",
+          "remark": "comma before ao longe",
+          "outcome": "taken"
+        },
+        {
+          "verse": "64:7",
+          "remark": "com o vosso poder (instrumental)",
+          "outcome": "taken"
+        },
+        {
+          "verse": "64:8",
+          "remark": "os limites abstract → nos extremos",
+          "outcome": "taken",
+          "reason": "as *os confins* (one word with 64:6, the same Greek) rather than a new word; *nos extremos* is an option"
+        },
+        {
+          "verse": "64:11",
+          "remark": "gerund has no subject → o que brota",
+          "outcome": "taken",
+          "reason": "as *o que germina*, keeping the Latin root; *o que brota* is an option"
+        },
+        {
+          "verse": "64:12",
+          "remark": "benignidade → bondade",
+          "outcome": "option",
+          "decision": "benignitas",
+          "reason": "D44 settled *benignidade* for this very verse, apart from *bónitas → bondade*"
+        },
+        {
+          "verse": "64:13",
+          "remark": "engordarão comic → Ficarão fartas",
+          "outcome": "option",
+          "decision": "pinguescent",
+          "reason": "fat is the Latin's image (rule 5); *fartos* is satiety and echoes *fartura* (ubértas). With the subject now *os lugares formosos*, the farming sense of *engordar* is clearer"
+        },
+        {
+          "verse": "64:14",
+          "remark": "verb first: Vestidos estão os carneiros",
+          "outcome": "taken",
+          "reason": "as plain verb–subject *Estão vestidos*, avoiding the inversion"
+        },
+        {
+          "verse": "64:14",
+          "remark": "triple -arão → hão de cantar um hino",
+          "outcome": "taken",
+          "reason": "as *hão de entoar um hino*: *entoar* kept for dícere + song (*cantar* is cantáre's)"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context, Portuguese only)",
+      "note": "29 readings, 10 unknown words (iníquos, propício, impiedades, átrios, equidade, confins, cingido, benignidade, cingidas, exultação — all glossary words, kept). Acted on: 64:5 recolhestes, 64:11 subject, 64:13 belezas (with the other readers). Recorded in choices: 64:2 voto, 64:4 propício (heard as favouring sin — flagged for the row), 64:8 saídas, 64:10b deles / preparação.",
+      "outcomes": [
+        {
+          "verse": "64:4",
+          "remark": "propício às impiedades heard as favouring sin",
+          "outcome": "refused",
+          "reason": "the glossary row and 24:11; flagged for the main session in the row and in choices; *perdoareis* is the option"
+        },
+        {
+          "verse": "64:5",
+          "remark": "recolhestes heard as gathering",
+          "outcome": "taken"
+        },
+        {
+          "verse": "64:8",
+          "remark": "saídas heard as exits",
+          "outcome": "refused",
+          "reason": "the Latin's own crux, kept concrete (decision `exitus`)"
+        },
+        {
+          "verse": "64:8",
+          "remark": "os limites heard as frontiers",
+          "outcome": "taken",
+          "reason": "now *os confins*"
+        },
+        {
+          "verse": "64:10b",
+          "remark": "deles / a sua preparação unanchored",
+          "outcome": "refused",
+          "reason": "as unanchored in the Latin"
+        },
+        {
+          "verse": "64:11",
+          "remark": "no audible subject",
+          "outcome": "taken"
+        },
+        {
+          "verse": "64:13",
+          "remark": "engordarão as belezas confusing",
+          "outcome": "taken",
+          "reason": "*os lugares formosos* taken; *engordarão* kept"
+        },
+        {
+          "verse": "64:14",
+          "remark": "pois heard as because",
+          "outcome": "refused",
+          "reason": "*étenim → pois* (glossary)"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 64:5 *tomastes para vós*; 64:6 comma; 64:7 *com o vosso poder*; 64:8 *os confins*; 64:11 *o que germina*; 64:13 *os lugares formosos do deserto*; 64:14 *Estão vestidos os carneiros das ovelhas … hão de entoar um hino*; new decision `benignitas` records the refused *bondade*. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass. Length flags accepted: 64:5 +8 (D19 and the Latinist's *tomastes para vós*), 64:6 +5, 64:10b +5, 64:13 +4, 64:7 +3, 64:8 +3, 64:14 +3. No rhyme or cadence flag."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "Gate: no major. 6 minors; 1 taken (64:8 *véspere*), 5 held as options.",
+      "outcomes": [
+        {
+          "verse": "64:8",
+          "remark": "a signis causal: por causa dos vossos sinais",
+          "outcome": "option",
+          "decision": "asignis",
+          "reason": "the timére a row (direct object); v1 asked *diante dos*, v2 *por causa dos* — both are options; the colon is already +3"
+        },
+        {
+          "verse": "64:8",
+          "remark": "véspere is ablative: as saídas da manhã, e à tarde",
+          "outcome": "taken"
+        },
+        {
+          "verse": "64:10",
+          "remark": "multiplicastes o enriquecê-la (repeated from v1)",
+          "outcome": "option",
+          "decision": "locupletare",
+          "reason": "not said in Portuguese; the draft keeps both roots and changes only the grammar (D2)"
+        },
+        {
+          "verse": "64:11",
+          "remark": "germinans predicative: se alegrará, germinando",
+          "outcome": "option",
+          "decision": "germinans",
+          "reason": "the v1 run asked the opposite (*o que germina*, taken with the stylist and the blind reader, who heard no subject in the gerund); the runs contradict — for Gustavo; draft 1 is the option"
+        },
+        {
+          "verse": "64:14",
+          "remark": "Indúti sunt past: Vestiram-se",
+          "outcome": "option",
+          "decision": "induti",
+          "reason": "the perfect passive as a resulting state, as 25:10 *repléta est → está cheia*; *Vestiram-se* also changes the voice"
+        },
+        {
+          "verse": "64:14",
+          "remark": "étenim intensive: e sim, hão de entoar",
+          "outcome": "refused",
+          "reason": "*étenim → pois* is the glossary row (18:12, 57:3); the blind reader also heard *pois* as causal, noted in the row for the main session"
+        }
+      ]
+    },
+    {
+      "step": "checks",
+      "note": "final (v2 + the gate fix): hard checks pass; length flags as above."
+    }
+  ]
+}

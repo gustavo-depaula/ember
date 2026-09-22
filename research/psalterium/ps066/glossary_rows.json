@@ -1,0 +1,16 @@
+{
+  "append": [
+    {"row": "| confitéri (to God) |", "text": "**Ps 66:4 = 66:6 *Confiteántur tibi pópuli, Deus: confiteántur tibi pópuli omnes* → *Que os povos vos deem graças, Deus: * que todos os povos vos deem graças*** — the third-person wish with *que* (grammar, D2; the anaphora audible); *Deem-vos graças os povos* (the Latin's order) is the option. The Latinist asked *louvem* (minor, both verses) as broader than thanks; held under D5, option."},
+    {"row": "| benedícere (God → man) |", "text": "**Ps 66:2 *et benedícat nobis* → *e nos bendiga*; 66:7b *Benedícat nos Deus, Deus noster, benedícat nos Deus* → *Deus nos bendiga, o nosso Deus, Deus nos bendiga*** — the row's verb three times; both colons are said alone (the Lauds antiphon; the Matins blessing and Pent01-0 responsory). Subject first at 66:7b from the stylist (the enclitic *Bendiga-nos Deus* sounded translated and could be heard as said to God). *abençoe* is one decision away. No reader objected to *bendiga*."},
+    {"row": "| illumináre (fáciem super) |", "text": "**Ps 66:2 *illúminet vultum suum super nos* → *ilumine o seu rosto sobre nós*** — the row's verb with the *vultus* row's noun (the Latin has *vultus* here, *fácies* at 30:17 / 118:135); the ambiguity reader heard 'may God make his face shine upon us' first; the Latinist passed it twice; the stylist did not remark. *faça resplandecer* (MS1932), *faça brilhar*, *a sua face* are options."},
+    {"row": "| vultus |", "text": "Ps 66:2 *vultum suum* → *o seu rosto* (with *iluminar*; see the illumináre row)."},
+    {"row": "| Deus (vocative) |", "text": "**Ps 66:4 = 66:6 *pópuli, Deus*: the stylist asked *ó Deus* twice** (clipped at the mediant; mid-colon in 66:6 *graças, Deus, que* read as a list). Held bare under this row; *ó Deus* is the option (decision `vocDeus`). Second place after 5:11a where the chant would welcome *ó*."},
+    {"row": "| fines (of a people) |", "text": "Ps 66:7b *omnes fines terræ* → *todos os confins da terra* (= 21:28); the blind reader listed *confins* as unknown again; kept."}
+  ],
+  "terms": [
+    "| métuere | temer (*e que o temam todos os confins da terra*) | open | Ps 66:7b, the only place in the psalter (grep). φοβηθήτωσαν, the Greek of *timére*, so D15's test merges it with the *timére / timor* row. The jussive after *e* takes *que* (the stylist; the ambiguity reader heard bare *e o temam* with *o* as a possible article); *e temam-no* (MS1932) option. |"
+  ],
+  "formulas": [
+    "| *Deus misereátur nostri, et benedícat nobis* (66:2a; the Lauds antiphon, Psalmi major; Quad3-0 *et benedícat nos*; the whole of 66:2 in several Tracts — 05-03, 09-14, Quad6-2, Quad6-4, Quad6-5) · *Benedícat nos Deus, Deus noster, benedícat nos Deus* · *Et métuant eum omnes fines terræ* (66:7b, each colon alone: Benedictions.txt; Pent01-0 responsory) | *Deus tenha piedade de nós, e nos bendiga* · *Deus nos bendiga, o nosso Deus, Deus nos bendiga* · *E que o temam todos os confins da terra* | open — Ps 66 (hangs on the benedícere God → man row) |"
+  ]
+}

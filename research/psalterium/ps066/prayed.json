@@ -1,0 +1,449 @@
+{
+  "psalm": 66,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "66:2": "Deus tenha piedade de nós, e {b2}: * {illuminet} sobre nós, e tenha piedade de nós.",
+    "66:3": "Para que conheçamos na terra o vosso caminho, * {gentibus} a vossa salvação.",
+    "66:4": "{c4a}, {v4}: * {c4b}.",
+    "66:5": "Alegrem-se e exultem as nações: * porque julgais os povos com equidade, e dirigis as nações na terra.",
+    "66:6": "{c6a}, {v6}, {c6b}: * a terra deu o seu fruto.",
+    "66:7b": "{order7}: * {metuant} todos os confins da terra."
+  },
+  "decisions": [
+    {
+      "id": "benedicere",
+      "refs": [
+        "66:2",
+        "66:7b"
+      ],
+      "latin": "et benedícat nobis … Benedícat nos Deus … benedícat nos Deus",
+      "kind": "glossary",
+      "why": "The *benedícere* (God → man) row is `open` with *bendizer* as its working verb (133:3 *O Senhor te bendiga*, 28:11 *bendirá o seu povo*, 27:9 *bendizei a vossa herança*, 5:12b); the row names 66:7b–8 as a place it recurs. The psalm has the verb three times, and the Latin's dative (66:2 *nobis*) and accusative (66:7b *nos*) both fall into Portuguese *nos*, so nothing is lost there. 66:2's first colon is a Lauds antiphon (*Deus misereátur * nostri, et benedícat nobis*) and 66:7b's first colon is said alone as a blessing at Matins (Benedictions.txt) and as a responsory (Pent01-0) — so the choice here is heard outside the psalm. Every parallel has *abençoar* (MS1932 *nos abençoe / Abençoe-nos*, DM1962). Ruled for the row's verb, which keeps one Latin verb one Portuguese verb across the psalter; *abençoar* is one touch away if Gustavo rules the row the other way.",
+      "options": [
+        {
+          "label": "bendiga",
+          "forms": {
+            "b2": "nos bendiga",
+            "b7a": "Bendiga-nos",
+            "b7b": "bendiga-nos",
+            "b7p": "nos bendiga"
+          },
+          "note": "Ruling; the glossary's working verb (133:3, 28:11, 27:9).",
+          "from": "glossary"
+        },
+        {
+          "label": "abençoe",
+          "forms": {
+            "b2": "nos abençoe",
+            "b7a": "Abençoe-nos",
+            "b7b": "abençoe-nos",
+            "b7p": "nos abençoe"
+          },
+          "note": "MS1932, DM1962; the everyday verb of blessing.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "illuminet",
+      "refs": [
+        "66:2"
+      ],
+      "latin": "illúminet vultum suum super nos",
+      "kind": "word",
+      "why": "The *illumináre (fáciem super)* row keeps the Latin's verb (118:135 and 30:17 *Iluminai a vossa face sobre o vosso servo*), against three stylist requests for *Fazei brilhar*; it names 66:2 as a place that will meet it. The noun here is *vultus*, not *fácies*: the *vultus* row gives *rosto* and keeps *face* for *fácies* (4:7 *a luz do vosso rosto*). So the verb matches 30:17 / 118:135 and the noun follows its own row. The Greek ἐπιφάναι ('make appear, shine forth') is the same verb as those verses. DRB *cause the light of his countenance to shine upon us* explains; MS1932 *faça resplandecer o seu rosto*.",
+      "options": [
+        {
+          "label": "ilumine o seu rosto",
+          "forms": {
+            "illuminet": "ilumine o seu rosto"
+          },
+          "note": "Ruling; the illumináre row's verb, the vultus row's noun.",
+          "from": "glossary"
+        },
+        {
+          "label": "ilumine a sua face",
+          "forms": {
+            "illuminet": "ilumine a sua face"
+          },
+          "note": "matches 30:17 / 118:135 word for word, but those have *fácies*; the Latin varies the noun.",
+          "from": "draft"
+        },
+        {
+          "label": "faça resplandecer o seu rosto",
+          "forms": {
+            "illuminet": "faça resplandecer o seu rosto"
+          },
+          "note": "MS1932; a periphrasis for one verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "faça brilhar o seu rosto",
+          "forms": {
+            "illuminet": "faça brilhar o seu rosto"
+          },
+          "note": "the stylist's idiom at 118:135 and 30:17 (refused there); DRB's sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gentibus",
+      "refs": [
+        "66:3"
+      ],
+      "latin": "in ómnibus géntibus salutáre tuum",
+      "kind": "word",
+      "why": "The second colon has no verb and no *et*: it hangs on *cognoscámus*, as a second object with a second place. *in* + plural of peoples: 56:10 *in pópulis … in géntibus* is *entre os povos … entre as nações*, and 'known among the nations' is the sense (ἐν πᾶσιν ἔθνεσιν). MS1932 *e entre todas as nações* (he adds *e*, which the draft does not: the asyndeton is the Latin's and reads plainly). *em todas as nações* is the preposition to the letter. **v2 gate:** the Latinist (minor) asked *em*, so that the verse repeats its preposition as the Latin does (*in terra … in géntibus*). A repetition is the Latin's to keep (D2), and *conhecer em todas as nações* is plain Portuguese; taken. *entre* stays an option.",
+      "options": [
+        {
+          "label": "em todas as nações",
+          "forms": {
+            "gentibus": "em todas as nações"
+          },
+          "note": "Ruling (v2 gate); the preposition to the letter, keeping *in terra … in ómnibus géntibus* as one preposition twice (*na terra … em todas as nações*).",
+          "from": "latinist"
+        },
+        {
+          "label": "entre todas as nações",
+          "forms": {
+            "gentibus": "entre todas as nações"
+          },
+          "note": "Draft 1–2; as 56:10 *entre os povos … entre as nações*; MS1932 without his *e*.",
+          "from": "draft"
+        },
+        {
+          "label": "e entre todas as nações",
+          "forms": {
+            "gentibus": "e entre todas as nações"
+          },
+          "note": "MS1932; supplies the conjunction.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confiteantur",
+      "refs": [
+        "66:4",
+        "66:6"
+      ],
+      "latin": "Confiteántur tibi pópuli, Deus: confiteántur tibi pópuli omnes",
+      "kind": "glossary",
+      "why": "The verb is D5's (*confitéri* to God → *dar graças a*, dative kept: *vos*); MS1932 *Glorifiquem-te* and DM1962 *Te celebrem* are other verbs, and *louvar* is *laudáre*'s. The question is how Portuguese says a third-person wish four times. The Latin puts the verb first; *Deem-vos graças os povos* keeps that order but is stiff at a verse's head (the hiatus *de-em* with an enclitic), and a Brazilian says the wish with *que*: *Que os povos vos deem graças*. The conjunction is grammar (D2), and it makes the repetition audible as an anaphora (*que … que*), which is the Latin's figure. *pópuli omnes* → *todos os povos*, the natural order. The vocative is bare *Deus*, as through the psalter (50:3a). 66:6's first colon is 66:4 whole, word for word, as the Latin is. **v2:** the Latinist (minor) asked *louvem*, as broader than thanks; refused under D5 (settled; the collision with *laudáre*), kept as option 4.",
+      "options": [
+        {
+          "label": "Que os povos vos deem graças",
+          "forms": {
+            "c4a": "Que os povos vos deem graças",
+            "c4b": "que todos os povos vos deem graças",
+            "c6a": "Que os povos vos deem graças",
+            "c6b": "que todos os povos vos deem graças"
+          },
+          "note": "Ruling; the optative with *que*, anaphora kept.",
+          "from": "draft"
+        },
+        {
+          "label": "Deem-vos graças os povos",
+          "forms": {
+            "c4a": "Deem-vos graças os povos",
+            "c4b": "deem-vos graças todos os povos",
+            "c6a": "Deem-vos graças os povos",
+            "c6b": "deem-vos graças todos os povos"
+          },
+          "note": "the Latin's order, verb first, as 66:5 and 66:7b.",
+          "from": "draft"
+        },
+        {
+          "label": "Os povos vos deem graças",
+          "forms": {
+            "c4a": "Os povos vos deem graças",
+            "c4b": "todos os povos vos deem graças",
+            "c6a": "Os povos vos deem graças",
+            "c6b": "todos os povos vos deem graças"
+          },
+          "note": "the bare optative, subject first, as 66:2 *Deus tenha piedade*.",
+          "from": "draft"
+        },
+        {
+          "label": "Que os povos vos louvem",
+          "forms": {
+            "c4a": "Que os povos vos louvem",
+            "c4b": "que todos os povos vos louvem",
+            "c6a": "Que os povos vos louvem",
+            "c6b": "que todos os povos vos louvem"
+          },
+          "note": "the Latinist (minor, both verses): *confitéri* is broader than thanks. Refused under D5: *louvar* is *laudáre*'s, and the two stand in one verse elsewhere (34:18, 108:30).",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "order7",
+      "refs": [
+        "66:7b"
+      ],
+      "latin": "Benedícat nos Deus, Deus noster, benedícat nos Deus",
+      "kind": "order",
+      "why": "The Latin puts the verb first and says *Deus* three times; the colon is said alone as a blessing (Benedictions.txt, Pent01-0). Verb-first is how Portuguese says a blessing (*Abençoe-nos Deus*, MS1932), and it keeps the Latin's frame: the colon opens and closes on the same two words. The risk: *Bendiga-nos, Deus* can be heard as the familiar imperative (*você*) said *to* God; in this psalm, which speaks to God as *vós* and then says *e o temam*, the third person is the likelier hearing — the ambiguity reader should test it. Subject-first (*Deus nos bendiga*) removes the risk and matches 66:2, at the cost of the Latin's order and of an apposition left hanging (*o nosso Deus*). **v2:** the stylist marked this the worst line: an enclitic opening sounds translated, *-nos Deus* twice in one breath is heavy, and 66:2 already says *e nos bendiga* proclitic, so the psalm's own echo breaks. Only order changes (D2): the verb, the threefold *Deus* and the repetition stay. Taken. The verb stays in the `benedicere` decision (slot b7p for the subject-first forms).",
+      "options": [
+        {
+          "label": "Deus nos bendiga, o nosso Deus",
+          "forms": {
+            "order7": "Deus {b7p}, o nosso Deus, Deus {b7p}"
+          },
+          "note": "Ruling (v2); the stylist's: subject first, the proclitic *nos* of 66:2, and no imperative hearing.",
+          "from": "stylist"
+        },
+        {
+          "label": "Bendiga-nos Deus, o nosso Deus",
+          "forms": {
+            "order7": "{b7a} Deus, o nosso Deus, {b7b} Deus"
+          },
+          "note": "Draft 1; the Latin's order; MS1932's build. The stylist heard it as translated and *-nos Deus* twice as heavy.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "metuant",
+      "refs": [
+        "66:7b"
+      ],
+      "latin": "et métuant eum omnes fines terræ",
+      "kind": "grammar",
+      "why": "*métuere* occurs only here in the psalter (grep); the Greek is φοβηθήτωσαν, the verb of *timére*, so D15's test gives it *timére*'s *temer*. The colon is said alone as a responsory (Pent01-0 *Et métuant eum omnes fines terræ*) and reads alone. Placement of the pronoun: after *e*, current Brazilian usage puts it before the verb (*e o temam*); MS1932 *e temam-no* is correct but heard as written style. *fines terræ* → *os confins da terra*, the row (21:28, 47:11). **v2:** the stylist asked for *e que o temam* (the jussive wants *que* in Brazilian speech; *e o* blurs), and the ambiguity reader listed *o* as possibly heard as the article. *que* is a supplied conjunction, grammar (D2), the same device as 66:4; taken. The colon still reads alone as the responsory (*E que o temam todos os confins da terra*).",
+      "options": [
+        {
+          "label": "e que o temam",
+          "forms": {
+            "metuant": "e que o temam"
+          },
+          "note": "Ruling (v2); the stylist's; *que* marks the jussive and *o* is heard as the pronoun.",
+          "from": "stylist"
+        },
+        {
+          "label": "e o temam",
+          "forms": {
+            "metuant": "e o temam"
+          },
+          "note": "Draft 1; proclisis after *e*. The ambiguity reader heard *o* possibly as the article; the stylist heard the hiatus *e o* blur.",
+          "from": "draft"
+        },
+        {
+          "label": "e temam-no",
+          "forms": {
+            "metuant": "e temam-no"
+          },
+          "note": "MS1932; enclisis.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "vocDeus",
+      "refs": [
+        "66:4",
+        "66:6"
+      ],
+      "latin": "pópuli, Deus",
+      "kind": "glossary",
+      "why": "The stylist heard the bare vocative *Deus* as clipped, at the mediant of 66:4 and mid-colon in 66:6 (*graças, Deus, que* read as a list), and asked *ó Deus*. The *Deus (vocative)* row keeps it bare unless the Latin has *o* (50:3a, 53:3–4, 5:11a, 42:5), and the Latin has none here; the psalm is not the place to break a psalter-wide row. Kept bare; *ó Deus* is one touch away and the row's note gains this place.",
+      "options": [
+        {
+          "label": "Deus",
+          "forms": {
+            "v4": "Deus",
+            "v6": "Deus"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "ó Deus",
+          "forms": {
+            "v4": "ó Deus",
+            "v6": "ó Deus"
+          },
+          "note": "the stylist; MS1932 *ó Deus*.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "66:2": "*miseréri* → *tenha piedade de* (the row); the repetition of *misereátur nostri* at both ends of the verse is kept word for word. The subject *Deus* first, as the Latin. The first colon is a Lauds antiphon and reads alone.",
+    "66:3": "The psalm turns from *suum* (66:2) to *tuam / tuum* (66:3) without warning; the Latin does, and so does the Greek — kept, not smoothed. *cognoscámus* is first person plural in the Latin (the Greek and Hebrew have an infinitive; DM1962's passive *Sejam conhecidos* is from the Hebrew) — *conheçamos*. *salutáre* → *salvação* (D6). v2: the ambiguity reader heard the second colon three ways (a second object of *conheçamos*; a verbless wish; the nations as knowers) — the Latin is as open, and the likeliest hearing is the right one; kept.",
+    "66:5": "*júdicas … dírigis* are presents in the Latin (the Greek has futures, κρινεῖς … ὁδηγήσεις) — kept present. *in æquitáte* → *com equidade*, as 9:8b *julgará o mundo com equidade* (the ǽquitas row; *equidade* was unknown to blind readers before and is kept). *dirígere* → *dirigir* (row; 7:10 *dirigireis o justo*); the indicative *dirigis* is untouched by the imperative ban. *Alegrem-se e exultem*: the Latin's order, the reverse of 34:27 = 39:17 *Exultem e alegrem-se*, where the Latin is reversed too. *gentes in terra dírigis* → *dirigis as nações na terra*: the verb moved up, natural order (D2); *na terra* as in 66:3.",
+    "66:6": "The first colon is 66:4 entire, as in the Latin. *terra dedit fructum suum* → *a terra deu o seu fruto* (1:3a *dará o seu fruto*); the perfect kept. v2: the ambiguity reader heard *a terra deu o seu fruto* as a reason for the thanks or as a separate statement — the Latin joins it with no conjunction; kept.",
+    "66:7b": "*Deus, Deus noster* → *Deus, o nosso Deus* (the apposition takes the article, as possessives do). Both cola read alone (the blessing, the responsory). *métuere* (only here) → *temer* by D15's test (φοβέομαι, as *timére*)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm66.txt, 6 prayed verses (66:2–66:6, 66:7b; the inline (7a) and (8) markers not reproduced); one mediant each, no flex. No titulus (D7). Liturgical uses (ps032/uses.py): 66:2a the Lauds antiphon *Deus misereátur * nostri, et benedícat nobis* (Psalmi major; Quad3-0); 66:2 whole the Tract/verse in several Masses (05-03, 09-14, Quad6-2, Quad6-4, Quad6-5, Propaganda); 66:7b's first colon alone as a blessing (Benedictions.txt) and responsory (Pent01-0, TemporaM Pent01-0), its second colon alone as a responsory (Pent01-0); the antiphon *Illúmina, Dómine, * vultum tuum super nos* is an adaptation (imperative, *tuum*), not the psalm's text."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps066.md (Latin, LXX, WLC, DRB, MS1932, DM1962). DO's Portuguese not used (D12). Rulings and rows applied: D2, D5 (*dar graças a*), D6 (*salvação*), D15's Greek test (*métuere* → *temer*), *miseréri*, *benedícere* (God → man, working *bendizer*), *illumináre*, *vultus* → *rosto*, *gentes / pópuli* → *nações / povos*, *ǽquitas*, *dirígere*, *fines terræ* → *confins*, *cognóscere*, *fructus*. Hard readings: the person switch 66:2 → 66:3; how to say a third-person wish in Portuguese four times (66:4, 66:6) and whether 66:7b's verb-first blessing is heard as addressed to God."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids and marks). Soft length flags accepted: 66:3a +4 (*Ut* is one syllable, *Para que* three; the conjunction cannot be shortened without an infinitive build that loses nothing but reads flatter); 66:6a −3 and 66:7b first colon −4 (the Latin's long *confiteántur* / *benedícat* against short Portuguese forms; the words are all there). Cadences all on the last or second-last syllable. No rhyme flags."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37). Draft 1 handed to the coordinator for three fresh-context readers: latinist, stylist, ambiguity."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context, read latin.json). 2 minor, one point: *confiteántur* as *louvem* (66:4, 66:6). Refused under D5; option. Tenses, jussives, *ilumine o seu rosto*, the pointing all passed.",
+      "outcomes": [
+        {
+          "verse": "66:4",
+          "remark": "deem graças narrows confitéri; louvem",
+          "outcome": "option",
+          "decision": "confiteantur",
+          "reason": "D5 settled: louvar is laudáre's (they meet in 34:18, 108:30)."
+        },
+        {
+          "verse": "66:6",
+          "remark": "same as 66:4",
+          "outcome": "option",
+          "decision": "confiteantur",
+          "reason": "D5, as 66:4."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context, read latin.json). 4 remarks; 2 taken (66:7b order, *e que o temam*), 2 refused as options (bare vocative *Deus*, the row). Worst line 66:7b, best 66:3.",
+      "outcomes": [
+        {
+          "verse": "66:4",
+          "remark": "bare vocative Deus clipped; ó Deus",
+          "outcome": "option",
+          "decision": "vocDeus",
+          "reason": "the Deus (vocative) row: bare unless the Latin has o."
+        },
+        {
+          "verse": "66:6",
+          "remark": "bare vocative mid-colon reads as a list; ó Deus",
+          "outcome": "option",
+          "decision": "vocDeus",
+          "reason": "the row, as 66:4; the two verses must stay identical."
+        },
+        {
+          "verse": "66:7b",
+          "remark": "enclitic Bendiga-nos opening translated, heavy; Deus nos bendiga",
+          "outcome": "taken",
+          "decision": "order7"
+        },
+        {
+          "verse": "66:7b",
+          "remark": "e o temam blurs, jussive wants que; e que o temam",
+          "outcome": "taken",
+          "decision": "metuant"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context, Portuguese only). 8 ambiguities, every likeliest hearing right; *o* in *e o temam* possibly heard as the article (mended with the stylist's *e que o temam*). Unknown: *equidade*, *exultem*, *confins* — all glossary rows that have met this before; kept.",
+      "outcomes": [
+        {
+          "verse": "66:2",
+          "remark": "ilumine o seu rosto: seu as your; lighting up his face",
+          "outcome": "refused",
+          "reason": "likeliest hearing right; the illumináre row."
+        },
+        {
+          "verse": "66:3",
+          "remark": "person switch seu → vosso",
+          "outcome": "refused",
+          "reason": "the Latin switches (suum → tuam)."
+        },
+        {
+          "verse": "66:3",
+          "remark": "na terra: where we are / where the way is",
+          "outcome": "refused",
+          "reason": "the Latin is as open."
+        },
+        {
+          "verse": "66:3",
+          "remark": "second colon: object / verbless wish / nations as knowers",
+          "outcome": "refused",
+          "reason": "the Latin is verbless too; likeliest hearing right."
+        },
+        {
+          "verse": "66:5",
+          "remark": "subject of julgais",
+          "outcome": "refused",
+          "reason": "likeliest hearing right."
+        },
+        {
+          "verse": "66:5",
+          "remark": "dirigis as address speech",
+          "outcome": "refused",
+          "reason": "likeliest hearing right; the dirígere row."
+        },
+        {
+          "verse": "66:6",
+          "remark": "fruit as reason or statement; seu as God's",
+          "outcome": "refused",
+          "reason": "the Latin is asyndetic; likeliest hearing right."
+        },
+        {
+          "verse": "66:7b",
+          "remark": "o heard as article",
+          "outcome": "taken",
+          "decision": "metuant"
+        },
+        {
+          "verse": "66:5",
+          "remark": "unknown: equidade, exultem",
+          "outcome": "refused",
+          "reason": "the ǽquitas and exsultáre rows keep them after earlier readers did not know them."
+        },
+        {
+          "verse": "66:7b",
+          "remark": "unknown: confins",
+          "outcome": "refused",
+          "reason": "the fines row; 21:28, 47:11."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 66:7b first colon subject first (*Deus nos bendiga, o nosso Deus, Deus nos bendiga*), second colon *e que o temam*; vocative kept bare as a new decision `vocDeus`; *louvem* added as an option. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Same soft length flags as draft 1 (66:3a +4, 66:6a −3, 66:7b first colon −4), accepted for the same reasons; 66:7b now closes its first colon on *bendiga* (paroxytone)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5 (fresh context, read latin.json). Gate on draft 2: 1 minor (66:3 *entre* → *em*), taken; no majors. Tenses, jussives, the 66:7b reordering and *e que o temam* passed.",
+      "outcomes": [
+        {
+          "verse": "66:3",
+          "remark": "entre loosens the in terra / in gentibus parallel; em",
+          "outcome": "taken",
+          "decision": "gentibus"
+        }
+      ]
+    },
+    {
+      "step": "checks",
+      "note": "After the gate fix: hard pass; soft flags unchanged (66:3a +4, 66:6a −3, 66:7b first colon −4, accepted as before). The one-word preposition change was proposed by the gate itself and is not re-gated."
+    }
+  ]
+}

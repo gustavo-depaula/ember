@@ -1,0 +1,610 @@
+{
+  "psalm": 69,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "69:2": "{deusvoc2}, {intende}: * Senhor, {festina}.",
+    "69:3": "Sejam envergonhados e desonrados * os que buscam a minha alma.",
+    "69:4": "Voltem para trás, e {erubescant} * os que me querem mal.",
+    "69:4b": "{avertantur} {statim}, {erubescentes}, * os que me dizem: {euge}.",
+    "69:5": "{v5order}: * e digam sempre os que amam a vossa salvação: Engrandecido seja o Senhor.",
+    "69:6": "Eu, porém, sou necessitado e pobre: * {deusvoc6}, {adjuva}.",
+    "69:6b": "Vós sois {adjutor} e o meu libertador: * Senhor, {moreris}."
+  },
+  "decisions": [
+    {
+      "id": "intende",
+      "refs": [
+        "69:2"
+      ],
+      "latin": "Deus, in adjutórium meum inténde",
+      "kind": "glossary",
+      "why": "The versicle that opens every Hour (DO Common/Prayers.txt [Deus in adjutorium], Preces.txt, the Matins antiphon in Psalmi matutinum.txt, missa Ordo/Prayers.txt — found by grep). D40 deferred this formula to Gustavo and asked that it be ruled before Ps 69; it has not been, so this psalm follows the standing text of the same formula at 37:23 (*Atendei em meu auxílio*), under rule 6: identical Latin gets identical Portuguese, and a ruling on D40 then turns both psalms together. The verb is D3's *atender* for *inténdere* (πρόσχες, 'attend'), kept apart from *exaudíre → escutar*; *in adjutórium meum* is the phrase 37:23 already has, adjutórium → *auxílio* (row). The known weakness is the one the Ps 37 stylist named: *atender em* is not a natural Portuguese construction. The traditional line in Brazil, which DM1962 prints (*Vinde, ó Deus, em meu auxílio*) and Matos Soares 1932 has in the singular (*vem em meu auxílio*), and which Douay-Rheims matches (*come to my assistance*), puts a verb of coming that the Latin does not have. *Acudi* (the Ps 37 stylist's) is a verb of running to help: nearer the sense of the whole line, but it drops the attending. Option 0 is a holding ruling, made for consistency with 37:23, not a judgement that it is the best line; Gustavo's D40 ruling governs. **Draft 2:** the stylist again found *atender em* not Portuguese (as in Ps 37); the ambiguity reader understood a plea for help. Held for D40, which is Gustavo's; the stylist's *voltai-vos* added as an option.",
+      "options": [
+        {
+          "label": "atendei em meu auxílio",
+          "forms": {
+            "intende": "atendei em meu auxílio"
+          },
+          "note": "Ruling (holding, until D40): 37:23's wording; D3's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "acudi em meu auxílio",
+          "forms": {
+            "intende": "acudi em meu auxílio"
+          },
+          "note": "The Ps 37 stylist's proposal; natural, but *acudir* is a verb of coming to aid, not of attending (D3's parallel with *escutar* lost).",
+          "from": "stylist"
+        },
+        {
+          "label": "vinde em meu auxílio",
+          "forms": {
+            "intende": "vinde em meu auxílio"
+          },
+          "note": "The line as Brazilians know it (DM1962 *Vinde, ó Deus, em meu auxílio*; MS1932 *vem em meu auxílio*; DRB *come to my assistance*). Supplies a verb of motion the Latin lacks.",
+          "from": "DM1962"
+        },
+        {
+          "label": "atendei ao meu auxílio",
+          "forms": {
+            "intende": "atendei ao meu auxílio"
+          },
+          "note": "Mends the preposition (*atender a*), but then 'attend to my help' asks God to look after the help, not to come to it.",
+          "from": "draft"
+        },
+        {
+          "label": "voltai-vos em meu auxílio",
+          "forms": {
+            "intende": "voltai-vos em meu auxílio"
+          },
+          "note": "Stylist v1: a verb that governs *em*. Refused: *voltar-se* is convértere's verb (6:5 *Voltai-vos, Senhor*), and D40 is Gustavo's.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "festina",
+      "refs": [
+        "69:2"
+      ],
+      "latin": "Dómine, ad adjuvándum me festína",
+      "kind": "word",
+      "why": "The response of the Hour versicle. *Dómine, ad adjuvándum me* is word for word 39:14b, which fixed *Senhor … para auxiliar-me* (the enclitic after the infinitive, so that *para me* is not heard as 'for me'); it is copied under rule 6. festináre (only here in the psalms of the Psalterium; *festínant* in the canticle 32:51) → *apressar-se*, which the acceleráre row already uses (30:3 *apressai-vos a libertar-me*): the two Latin verbs never meet in one verse, and Portuguese has no second plain verb of hurrying that is safe at the *vós* imperative. Order: the verb forward, as Portuguese wants it (D2); the Latin's verb-last order would be an inversion. *para* rather than 30:3's *a*: *a auxiliar-me* would make a hiatus (*a au-*) and break the phrase shared with 39:14b.",
+      "options": [
+        {
+          "label": "apressai-vos para auxiliar-me",
+          "forms": {
+            "festina": "apressai-vos para auxiliar-me"
+          },
+          "note": "Ruling: 39:14b's phrase kept whole.",
+          "from": "draft"
+        },
+        {
+          "label": "apressai-vos a auxiliar-me",
+          "forms": {
+            "festina": "apressai-vos a auxiliar-me"
+          },
+          "note": "30:3's build (*apressai-vos a libertar-me*); hiatus *a au-*.",
+          "from": "glossary"
+        },
+        {
+          "label": "apressai-vos em auxiliar-me",
+          "forms": {
+            "festina": "apressai-vos em auxiliar-me"
+          },
+          "note": "DM1962's build (*apressai-vos, Senhor, em socorrer-me*).",
+          "from": "DM1962"
+        },
+        {
+          "label": "apressai-vos em socorrer-me",
+          "forms": {
+            "festina": "apressai-vos em socorrer-me"
+          },
+          "note": "DM1962's words; the *socorr-* family, which would suit option *acudi* of D40 but splits adjuváre from 39:14b and 118:86.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "deusvoc",
+      "refs": [
+        "69:2",
+        "69:6"
+      ],
+      "latin": "Deus, … / Deus, ádjuva me",
+      "kind": "glossary",
+      "why": "The vocative *Deus* bare, as the glossary row has it (no *ó* unless the Latin has *o*; Ps 53:3–4, 5:11a) and as every finished psalm does. The row itself names this versicle as the place it will be felt most: MS1932 and DM1962 both write *ó Deus* here, and the 69:6 colon *Deus, auxiliai-me* is short (six syllables, the Latin's six). Kept bare for consistency; *ó Deus* is one touch away in both verses.",
+      "options": [
+        {
+          "label": "Deus (bare)",
+          "forms": {
+            "deusvoc2": "Deus",
+            "deusvoc6": "Deus"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Ó Deus",
+          "forms": {
+            "deusvoc2": "Ó Deus",
+            "deusvoc6": "ó Deus"
+          },
+          "note": "MS1932, DM1962; helps the chant, adds a word the Latin lacks.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "erubescere",
+      "refs": [
+        "69:4",
+        "69:4b"
+      ],
+      "latin": "et erubéscant … statim erubescéntes",
+      "kind": "glossary",
+      "why": "This is where the doublet differs from its twin: 39:15b has *et revereántur* (→ *e sejam desonrados*), 69:4 has *et erubéscant*, and 39:16 *Ferant conféstim confusiónem suam* is here *Avertántur statim erubescéntes*. erubéscere → *corar* (row, open; 6:11, 30:18, 34:26 *Corem*), the third word of shame beside confúndi → *ser envergonhado* (D15) and reveréri → *ser desonrado*; 69:3–4 have all three (*confundántur et revereántur … erubéscant*), so they must stay three words. The glossary's formula row foresaw *Voltem para trás, e corem* for 69:4. The participle as a gerund, *corando*, keeps it the same verb in both lines, as the Latin does. The known cost: blind readers have listed *corarei* as unknown twice (row); *corem* and *corando* are the commoner forms. **Draft 2:** the ambiguity reader listed *corem* as unknown and thought some may hear *correm* after *Voltem para trás*; the row's known cost, kept (the three shame-words must stay three). The faint *corem / querem* echo the stylist heard is not at a cadence (the colon ends on *mal*).",
+      "options": [
+        {
+          "label": "corem … corando",
+          "forms": {
+            "erubescant": "corem",
+            "erubescentes": "corando"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "corem de vergonha … corando de vergonha",
+          "forms": {
+            "erubescant": "corem de vergonha",
+            "erubescentes": "corando de vergonha"
+          },
+          "note": "The row's option; says what the blush is, but *vergonha* is confúsio's word (39:16).",
+          "from": "glossary"
+        },
+        {
+          "label": "corem … cheios de vergonha",
+          "forms": {
+            "erubescant": "corem",
+            "erubescentes": "cheios de vergonha"
+          },
+          "note": "Near MS1932 (*cheios de confusão*); loses the verb's repetition.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "avertantur",
+      "refs": [
+        "69:4b"
+      ],
+      "latin": "Avertántur statim",
+      "kind": "word",
+      "why": "The Latin says *Avertántur* at the head of 69:4 and of 69:4b (ἀποστραφείησαν both times); the second time without *retrórsum*. 69:4 has the glossary's phrase *Voltem para trás* (retrórsum row). Here the repetition of the verb is kept (rule 2) and *para trás* is not supplied: *Voltem-se*, the pronominal, because bare *voltem* is heard as 'come back' (D44, 54:4). The blush that follows (*corando*) and the mockers named after it make the sense of retreat plain. *Retirem-se* (MS1932) and *Afastem-se* say it more plainly but give up the repeated verb. **Draft 2:** the stylist asked *Voltem-se para trás* in 69:4 too, so both lines have the same form. Refused: *voltar-se para trás* is 'turn round to look behind', not retreat, and 69:4 keeps the retrórsum row's phrase (34:4b, 39:15b). The ambiguity reader heard *Voltem-se* as possibly 'be converted'; *logo, corando* and the mockers after it steer it to retreat, and he gave retreat as the likely hearing.",
+      "options": [
+        {
+          "label": "Voltem-se",
+          "forms": {
+            "avertantur": "Voltem-se"
+          },
+          "note": "Ruling: the verb of 69:4 again.",
+          "from": "draft"
+        },
+        {
+          "label": "Voltem para trás",
+          "forms": {
+            "avertantur": "Voltem para trás"
+          },
+          "note": "The whole phrase of 69:4 repeated; supplies *retrórsum*, which the Latin drops here.",
+          "from": "draft"
+        },
+        {
+          "label": "Retirem-se",
+          "forms": {
+            "avertantur": "Retirem-se"
+          },
+          "note": "Matos Soares 1932; clear retreat, another verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Voltem-se para trás (in 69:4 as well)",
+          "forms": {
+            "avertantur": "Voltem-se para trás"
+          },
+          "note": "Stylist v1; would also change 69:4.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "statim",
+      "refs": [
+        "69:4b"
+      ],
+      "latin": "statim",
+      "kind": "word",
+      "why": "statim (παραυτίκα; only here in the psalms) stands where the twin 39:16 has conféstim (παραχρῆμα), settled as *logo* (D41), while velóciter and cito are *depressa*. Two Latin adverbs, two Greek: by D15's test they may differ, and the glossary noted this line as the place to decide. *Imediatamente* is the plain word for 'at once' and is free; it is long (six syllables), and the colon comes out one syllable over the Latin's. *Logo* would make the doublet read the same where the Latin varies. **Draft 2:** the stylist found *imediatamente* long and bureaucratic for a short Latin word, and asked for *logo*; taken as the plainer of two faithful words (D2). It makes 69:4b share *logo* with conféstim in the twin 39:16 (D41): two Latin adverbs over two Greek ones (παραυτίκα / παραχρῆμα), both 'at once', with no difference of sense for Portuguese to carry. MS1932 has *logo* here.",
+      "options": [
+        {
+          "label": "logo",
+          "forms": {
+            "statim": "logo"
+          },
+          "note": "Ruling (draft 2): the stylist's; MS1932; shares conféstim's word (39:16, D41).",
+          "from": "stylist"
+        },
+        {
+          "label": "imediatamente",
+          "forms": {
+            "statim": "imediatamente"
+          },
+          "note": "Draft 1: free and plain, but six syllables; the stylist found it bureaucratic.",
+          "from": "draft"
+        },
+        {
+          "label": "de imediato",
+          "forms": {
+            "statim": "de imediato"
+          },
+          "note": "Same word, one syllable shorter to say.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "euge",
+      "refs": [
+        "69:4b"
+      ],
+      "latin": "Euge, euge",
+      "kind": "glossary",
+      "why": "The line *qui dicunt mihi: Euge, euge* is word for word 39:16b, which reads *os que me dizem: Que bom, que bom* (the euge row, 34:21, 34:25). Copied under rule 6. The row records a recurring complaint: the Ps 39 stylist and blind reader heard *Que bom* as sincere, not jeering, and asked for *Bem feito*, which in 34:25 was heard as 'deserved punishment'. The row is open and wants one ruling for all four places. **Draft 2: all three v1 readers failed *Que bom* here** — the Latinist (minor, 'weakens the taunt'), the stylist ('warm and approving … the mockery is lost') and the ambiguity reader ('the mockery is not audible'). With the two Ps 39 readers that is five of five. Kept only because rule 6 binds this line to 39:16 and the row wants one ruling for 34:21, 34:25, 39:16, 69:4b; **proposed in the glossary: *Bem feito, bem feito* in all four**, since in the mouth of the mockers speaking *to me* (*qui dicunt mihi*) 'serves you right' is exactly the gloat; the 34:25 mishearing ('deserved punishment') is the same sense seen from outside.",
+      "options": [
+        {
+          "label": "Que bom, que bom",
+          "forms": {
+            "euge": "Que bom, que bom"
+          },
+          "note": "Ruling: the row, as 39:16.",
+          "from": "glossary"
+        },
+        {
+          "label": "Bem feito, bem feito",
+          "forms": {
+            "euge": "Bem feito, bem feito"
+          },
+          "note": "MS1932; the stylists' request in Pss 34 and 39; heard as 'deserved' in 34:25.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Muito bem, muito bem",
+          "forms": {
+            "euge": "Muito bem, muito bem"
+          },
+          "note": "Latinist v2 ('Bravo!').",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "69:6b"
+      ],
+      "latin": "Adjútor meus, et liberátor meus es tu",
+      "kind": "glossary",
+      "why": "The first half is word for word 39:18b (*Vós sois o meu auxílio e o meu protetor*), copied as the glossary's doublet row asks: adjútor → *auxílio* (row, open for Gustavo, uniform across the psalter). Here adjútor stands beside the agent noun liberátor → *libertador* (row, working; 17:2, 17:48), the case the row's standing proposal names (with 18:15b, 32:20, 39:18b, 77:35) as where *auxiliador* might be allowed. The Latinist has asked for *auxiliador* in nearly every place and been held each time (D24, D27). liberátor sits in the *libertar* family (erípere) rather than *livrar* (liberáre); the row left it to Ps 69 to decide whether they must be kept apart, and nothing in this psalm meets either verb, so *libertador* stands. **Draft 2:** the v1 Latinist asked for *auxiliador* again (minor); held for the row, as at 39:18b.",
+      "options": [
+        {
+          "label": "o meu auxílio",
+          "forms": {
+            "adjutor": "o meu auxílio"
+          },
+          "note": "Ruling: 39:18b's words.",
+          "from": "glossary"
+        },
+        {
+          "label": "o meu auxiliador",
+          "forms": {
+            "adjutor": "o meu auxiliador"
+          },
+          "note": "The agent noun the Latinist asks for; would change 39:18b with it.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "moreris",
+      "refs": [
+        "69:6b"
+      ],
+      "latin": "Dómine, ne moréris",
+      "kind": "word",
+      "why": "The twin 39:18b has *Deus meus, ne tardáveris* → *meu Deus, não tardeis*; here the Latin has *Dómine* and morári. D41 set *demorar* for this line so that the Latin's two verbs stay two in Portuguese, and it is followed. **But note for review:** the Greek behind both lines is the same, μὴ χρονίσῃς (read in the Rahlfs text of `consult/parallels/ps039.md` and `ps069.md`), so by D15's test (a Latin variation over one Greek word carries no sense) the two could be merged, and *não tardeis* would make the doublet read alike; it is option 3. *não demoreis* intransitive ('do not delay') rather than *não vos demoreis* ('do not linger'), the plainer; MS1932 has the pronominal *não te demores*. The colon is the Latin's length. *demorar-se* is also the demorári row's word (24:13, 29:6, 'abide'); the senses differ and the lines never meet.",
+      "options": [
+        {
+          "label": "não demoreis",
+          "forms": {
+            "moreris": "não demoreis"
+          },
+          "note": "Ruling: D41's verb, intransitive.",
+          "from": "glossary"
+        },
+        {
+          "label": "não vos demoreis",
+          "forms": {
+            "moreris": "não vos demoreis"
+          },
+          "note": "Pronominal, as MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "não tardeis",
+          "forms": {
+            "moreris": "não tardeis"
+          },
+          "note": "39:18b's words; one Greek verb (μὴ χρονίσῃς) under both Latin verbs, so D15's test allows it; against D41.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v5order",
+      "refs": [
+        "69:5"
+      ],
+      "latin": "Exsúltent et læténtur in te omnes qui quærunt te",
+      "kind": "order",
+      "why": "Draft 1 copied 39:17 word for word: *Exultem e alegrem-se em vós todos os que vos buscam*. The stylist and the ambiguity reader both heard *em vós todos* as one phrase, 'in all of you', said to the congregation — a wrong first parse the Latin (*in te omnes*) does not have. Mended by order alone (D2): *Em vós* moved to the head, as the stylist proposed, so *todos* opens the subject. The words are 39:17's. **Ps 39:17 has the same fault and should follow** (proposed in the glossary; its folder is not touched here), so that the doublet reads alike again.",
+      "options": [
+        {
+          "label": "Em vós exultem e se alegrem todos os que vos buscam",
+          "forms": {
+            "v5order": "Em vós exultem e se alegrem todos os que vos buscam"
+          },
+          "note": "Ruling (draft 2): the stylist's order.",
+          "from": "stylist"
+        },
+        {
+          "label": "Exultem e alegrem-se em vós todos os que vos buscam",
+          "forms": {
+            "v5order": "Exultem e alegrem-se em vós todos os que vos buscam"
+          },
+          "note": "Draft 1 = 39:17; *em vós todos* heard as 'in all of you' by two readers.",
+          "from": "draft"
+        },
+        {
+          "label": "Exultem e alegrem-se em vós, todos os que vos buscam",
+          "forms": {
+            "v5order": "Exultem e alegrem-se em vós, todos os que vos buscam"
+          },
+          "note": "The comma only; the ear still joins *vós todos* in recitation.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adjuva",
+      "refs": [
+        "69:6"
+      ],
+      "latin": "Deus, ádjuva me",
+      "kind": "glossary",
+      "why": "adjuváre → *auxiliar* (row; 118:86 *auxiliai-me*), one family with 69:2b *auxiliar-me*, 69:6b *auxílio*, 39:14b. The stylist found *auxiliai-me* heavy at the psalm's most urgent cry and asked *socorrei-me*. Refused: it swaps the verb's family (the *socorr-* words are *ops*'s, D41) and breaks the Latin's echo *ad adjuvándum … ádjuva … Adjútor* inside one short psalm. Kept as an option.",
+      "options": [
+        {
+          "label": "auxiliai-me",
+          "forms": {
+            "adjuva": "auxiliai-me"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "socorrei-me",
+          "forms": {
+            "adjuva": "socorrei-me"
+          },
+          "note": "Stylist v1; MS1932 *socorre-me*.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "69:2": "The Portuguese of the Hour versicle in DO (Common/Prayers.txt) is a separate text this psalm does not touch; whatever D40 rules should reach it too. The Rahlfs line for 69:2 in the parallels file reads εἰς τὸ σῶσαί με κύριον ὁ θεός εἰς τὴν βοήθειάν μου πρόσχες and looks damaged or reordered (no verb for *festína*); it was not used for anything.",
+    "69:3": "= 34:4 (*Confundántur et revereántur, * quæréntes ánimam meam*; here *qui quærunt*), whose words are copied: *Sejam envergonhados e desonrados, * os que buscam a minha alma* (formula row). 39:15 has the same line with *simul* and *ut áuferant eam*. Latin *ánimam* kept as *alma* (MS1932 and DM1962 turn it into 'my life'). **Draft 2:** the comma before the subject removed (stylist: Portuguese does not part predicate and subject; the asterisk is the pause). 34:4 and 39:15b still have it; proposed in the glossary that they follow.",
+    "69:4": "*Avertántur retrórsum* → *Voltem para trás* (retrórsum row: one Portuguese phrase under avértere and convértere); *qui volunt mihi mala* → *os que me querem mal*, word for word 39:15b. The comma before the subject removed in draft 2, as 69:3. The first colon is four syllables under the Latin (checks); accepted, nothing omitted.",
+    "69:5": "Identical in Portuguese to 39:17. The Latin differs in two small things: *in te* for 39:17's *super te* (39:17 already chose *em vós*, so nothing changes) and *qui quærunt te* for *quæréntes te*. The subject *os que amam a vossa salvação* moved before the quotation, as 34:27 and 39:17, so it is not heard as part of what is said. The first colon is long, as the Latin's is.",
+    "69:6": "*Ego vero … pauper sum* → *Eu, porém, sou … e pobre*, the build of 39:18 (*Ego autem mendícus sum*). egénus → *necessitado* (D38 row; 34:10b, 40:2), where 39:18 has mendícus → *mendigo*: the one difference of the two lines kept. *ádjuva me* → *auxiliai-me* (adjuváre row; 118:86), safe at the *vós* imperative (*auxiliei* is the past).",
+    "69:6b": "*es tu* → *Vós sois* first, the natural order (39:18b)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft. Ps 69 is the doublet of 39:14–18 (rule 6): every Latin phrase identical with Ps 39 (and 34:4, 34:27) is copied from Ps 39's draft 2; the psalm decides only where the Latin differs — 69:2 (the Hour versicle: *inténde in adjutórium*, D40, and *festína*), 69:4 *erubéscant*, 69:4b *Avertántur statim erubescéntes*, 69:6 *egénus*, 69:6b *liberátor* and *ne moréris*. D40 is still deferred to Gustavo; 69:2a holds 37:23's *Atendei em meu auxílio* for consistency, with *Acudi* and *Vinde* as options. Liturgical uses by grep in content/do: the versicle *Deus in adjutorium* (Common/Prayers.txt, Special/Preces.txt, missa Ordo/Prayers.txt), the Matins antiphon (Psalmi matutinum.txt), Tempora/Quad5-1, Regula 02-21 and 03-14."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Two soft length flags accepted: 69:2a −4 (*Deus, atendei em meu auxílio*, the formula held from 37:23 under D40; any of its options is as short) and 69:4a −4 (*Voltem para trás, e corem*, the retrórsum phrase and the erubéscere verb; Portuguese needs fewer syllables, nothing omitted). 69:4b first colon +2 with *imediatamente* (decision statim). No rhyme flagged; no cadence on a proparoxytone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Three minors, no major; none taken — each asks for a word ruled by a glossary row.",
+      "outcomes": [
+        {
+          "verse": "69:3",
+          "remark": "revereántur → confundidos, not desonrados",
+          "outcome": "refused",
+          "reason": "The reveréri row keeps a third word of shame beside confúndi → ser envergonhado (D15) and erubéscere → corar; *confundidos* is the word D15 took away from confúndi (heard as 'confused'). 69:3 = 34:4."
+        },
+        {
+          "verse": "69:4b",
+          "remark": "Que bom too neutral; Bem feito",
+          "outcome": "option",
+          "decision": "euge",
+          "reason": "Right on the merits; held only for rule 6 (= 39:16) and proposed for the whole row."
+        },
+        {
+          "verse": "69:6b",
+          "remark": "adjútor → auxiliador",
+          "outcome": "option",
+          "decision": "adjutor",
+          "reason": "The adjútor row (open, for Gustavo); held as at 39:18b."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Worst line 69:4b, best 69:6b. Seven remarks: three taken (comma, logo, 69:5 order), four refused and kept as options.",
+      "outcomes": [
+        {
+          "verse": "69:2",
+          "remark": "atender em not Portuguese; voltai-vos em meu auxílio",
+          "outcome": "option",
+          "decision": "intende",
+          "reason": "D40 is deferred to Gustavo; voltar-se is convértere's verb."
+        },
+        {
+          "verse": "69:3",
+          "remark": "comma between predicate and subject",
+          "outcome": "taken"
+        },
+        {
+          "verse": "69:4",
+          "remark": "Voltem vs Voltem-se; use Voltem-se para trás; corem/querem echo",
+          "outcome": "option",
+          "decision": "avertantur",
+          "reason": "*voltar-se para trás* is turning round, not retreat; 69:4 keeps the retrórsum row. The echo is not at a cadence. (The comma in 69:4 was removed as in 69:3.)"
+        },
+        {
+          "verse": "69:4b",
+          "remark": "imediatamente → logo",
+          "outcome": "taken"
+        },
+        {
+          "verse": "69:4b",
+          "remark": "Que bom → Bem feito",
+          "outcome": "option",
+          "decision": "euge",
+          "reason": "Rule 6 (= 39:16); proposed for the row."
+        },
+        {
+          "verse": "69:5",
+          "remark": "em vós todos misparsed; Em vós exultem e se alegrem",
+          "outcome": "taken"
+        },
+        {
+          "verse": "69:6",
+          "remark": "auxiliai-me heavy; socorrei-me",
+          "outcome": "option",
+          "decision": "adjuva",
+          "reason": "Swaps adjuváre's family and breaks the psalm's ádjuva/adjútor echo."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. Nine readings, one unknown word (*corem*).",
+      "outcomes": [
+        {
+          "verse": "69:2",
+          "remark": "atendei em meu auxílio: come / pay attention",
+          "outcome": "refused",
+          "reason": "Both readings are the Latin's (*inténde*); D40."
+        },
+        {
+          "verse": "69:3",
+          "remark": "buscam a minha alma heard spiritually, not 'seek my life'",
+          "outcome": "refused",
+          "reason": "The Latin's image (ánimam), kept as in 34:4, 39:15."
+        },
+        {
+          "verse": "69:4",
+          "remark": "Voltem para trás: retreat / repent",
+          "outcome": "refused",
+          "reason": "He heard retreat as likely; the retrórsum row."
+        },
+        {
+          "verse": "69:4",
+          "remark": "corem unknown / heard correm",
+          "outcome": "refused",
+          "reason": "The erubéscere row's known cost; three shame-words must stay three."
+        },
+        {
+          "verse": "69:4b",
+          "remark": "Voltem-se: retreat / conversion",
+          "outcome": "refused",
+          "reason": "Retreat heard as likely; *logo, corando* steer it."
+        },
+        {
+          "verse": "69:4b",
+          "remark": "Que bom: mockery not audible",
+          "outcome": "option",
+          "decision": "euge",
+          "reason": "Rule 6; proposed for the row."
+        },
+        {
+          "verse": "69:5",
+          "remark": "em vós todos = in all of you",
+          "outcome": "taken"
+        },
+        {
+          "verse": "69:5",
+          "remark": "a vossa salvação: God's or the congregation's",
+          "outcome": "refused",
+          "reason": "He heard God's first; fixed by the order change too (no *vós todos* before it)."
+        },
+        {
+          "verse": "69:5",
+          "remark": "Engrandecido: praised / made bigger",
+          "outcome": "refused",
+          "reason": "Praised heard first; the magnificáre row."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 69:4b *imediatamente* → *logo*; 69:5 *Em vós exultem e se alegrem todos os que vos buscam* (order, against the 'in all of you' parse — 39:17 should follow); commas before the subject removed in 69:3 and 69:4; new decisions v5order and adjuva; refused remarks recorded as options. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass. Soft flags: 69:2a −4 and 69:4a −4 as in v1 (accepted, same reasons); 69:4b first colon now −3 with *logo* (accepted: Portuguese *corando* for *erubescéntes*, nothing omitted)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2: claude-opus-5-5, fresh context, with latin.json. Clean of majors; the same three minors as v1, all held for glossary rows (options recorded). He passed the draft-2 changes (69:3–4 commas, 69:4b *logo*, 69:5 order) without remark.",
+      "outcomes": [
+        {
+          "verse": "69:3",
+          "remark": "revereántur → confundidos (Sejam confundidos e envergonhados)",
+          "outcome": "refused",
+          "reason": "The reveréri row: three words of shame kept apart; *confundidos* is the word D15 removed from confúndi. = 34:4."
+        },
+        {
+          "verse": "69:4b",
+          "remark": "Que bom flat; now Muito bem, muito bem",
+          "outcome": "option",
+          "decision": "euge",
+          "reason": "Rule 6 (= 39:16); the row is proposed for *Bem feito* in all four places; his *Muito bem* added as an option."
+        },
+        {
+          "verse": "69:6b",
+          "remark": "adjútor → auxiliador",
+          "outcome": "option",
+          "decision": "adjutor",
+          "reason": "The adjútor row, open for Gustavo; held as at 39:18b."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "d40792f1e172bfc83d33957a6bf16ead5a95726763108cec6721554ad9c15c61",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T23:00:35+00:00",
+  "reply": "{\"verses\": [{\"id\": \"65:7\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"qui exásperant non exalténtur in semetípsis\", \"portuguese\": \"os que o exasperam não se exaltem em si mesmos\", \"problem\": \"Latin 'exasperant' stands without an object; supplying 'o' (God) resolves who is provoked, which the Latin leaves open.\", \"fix\": \"os que exasperam não se exaltem em si mesmos\"}]}, {\"id\": \"65:11\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"imposuísti hómines super cápita nostra\", \"portuguese\": \"pusestes homens sobre as nossas cabeças\", \"problem\": \"Latin distinguishes 'posuísti' from 'imposuísti'; rendering both as 'pusestes' flattens the compound.\", \"fix\": \"impusestes homens sobre as nossas cabeças\"}]}, {\"id\": \"65:17\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"et exaltávi sub lingua mea\", \"portuguese\": \"e o exaltei sob a minha língua\", \"problem\": \"'exaltávi' has no expressed object in the Latin; 'o' supplies one. Defensible from context (Ad ipsum), but the Latin does not state it.\", \"fix\": \"e exaltei sob a minha língua\"}]}], \"overall\": \"A faithful, close rendering: sense, tense, person and the Septuagintal oddities (mentientur tibi, sub lingua mea, holocausta medullata, incenso arietum) are kept, and the pointing marks match the Latin in every verse. Only minor points: two supplied pronoun objects (65:7, 65:17) that narrow the Latin, and posuisti/imposuisti collapsed in 65:11.\"}\n"
+}

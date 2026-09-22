@@ -1,0 +1,32 @@
+{"append": [
+ {"row": "| jubiláre / jubilátio / júbilus |", "text": "Ps 65:1 *Jubiláte Deo, omnis terra* → *Aclamai a Deus, toda a terra* — applied; no remark."},
+ {"row": "| terríbilis |", "text": "Ps 65:3 *Quam terribília sunt ópera tua* → *Como são terríveis as vossas obras*, 65:5 *terríbilis in consíliis* → *terrível nos desígnios* (verbless, as the Latin; the stylist's *ele é terrível* the option); the ambiguity reader heard 'fearsome', the everyday 'horrible' intruding a little."},
+ {"row": "| psállere |", "text": "Ps 65:4 *adóret te, et psallat tibi: * psalmum dicat nómini tuo* → *vos entoe salmos: * entoe um salmo ao vosso nome* (D25's pair side by side, +3 in both cola, accepted); 65:1 *psalmum dícite* → *entoai um salmo*."},
+ {"row": "| multitúdo (+ genitive) |", "text": "Ps 65:3 *In multitúdine virtútis tuæ* → *na multidão do vosso poder* — the ambiguity reader heard 'in the crowd' once; kept."},
+ {"row": "| respícere (in) |", "text": "Ps 65:7 *óculi ejus super gentes respíciunt* → *os seus olhos estão voltados para as nações* — 10:5b's formula with *super*; no remark."},
+ {"row": "| examináre / probáre |", "text": "**Ps 65:10 *probásti nos … igne nos examinásti, sicut examinátur argéntum* → *nos provastes … no fogo nos examinastes, como se examina a prata*** — the two verbs kept two; the ambiguity reader noted *provar* 'taste', carried by the fire and silver."},
+ {"row": "| láqueus |", "text": "Ps 65:11 *Induxísti nos in láqueum* → *Vós nos fizestes entrar no laço* — the ambiguity reader heard the trap, 'ribbon' the everyday sense; kept."},
+ {"row": "| impónere super |", "text": "**Ps 65:11 *posuísti tribulatiónes … imposuísti hómines super cápita nostra* → *pusestes … pusestes homens sobre as nossas cabeças*** — the v2 Latinist asked for *impusestes* (the compound); held: *impor* is imposing a rule, and the Latin's two verbs share their root."},
+ {"row": "| refectio |", "text": "**Ps 65:12 *refrigérium* → *refrigério* (*e nos fizestes sair para o refrigério*)** — the second place; the ambiguity reader listed it unknown (heard beside *refrigerante*); kept, the Church's word."},
+ {"row": "| holocáustum |", "text": "Ps 65:13 *in holocáustis*, 65:15 *holocáusta medulláta* → *holocaustos* — the ambiguity reader listed it unknown and heard the genocide first; kept (the row)."},
+ {"row": "| réddere |", "text": "Ps 65:13 *reddam tibi vota mea* → *eu vos pagarei os meus votos* (21:26, 60:9) — subject named so the clitic can precede (the mesóclise the option)."},
+ {"row": "| aríes |", "text": "Ps 65:15 *cum incénso aríetum* → *com incenso de carneiros* (articles dropped for length) — the ambiguity reader heard 'incense plus rams'; the smoke of the sacrifice is the Latin's own compression, kept."},
+ {"row": "| hircus |", "text": "Ps 65:15 *boves cum hircis* → *bois com bodes* — applied; no remark."},
+ {"row": "| audíre |", "text": "**Ps 65:16 *Veníte, audíte* → *Vinde, escutai*** — 48:2's recast of the banned bare *ouvi*; no reader remarked, though 65:18–19 has *escutar* for *exaudíre* twice."},
+ {"row": "| deprecári / deprecátio |", "text": "Ps 65:19 *voci deprecatiónis meæ* → *à voz da minha prece* — applied; no remark."},
+ {"row": "| fluctuátio (*dare fluctuatiónem*) |", "text": "**Ps 65:9 *non dedit in commotiónem pedes meos* (εἰς σάλον) → *não deixou vacilar os meus pés*** — the same Greek noun, the same wording; no remark. 120:3 has it again."},
+ {"row": "| amovére / repéllere a |", "text": "Ps 65:20 *qui non amóvit oratiónem meam* → *que não afastou a minha oração* — applied; no remark."}
+],
+"terms": [
+ "| exasperáre (παραπικραίνω) | exasperar (*os que o exasperam não se exaltem em si mesmos*) | open | Ps 65:7 *qui exásperant*; a Greek verb apart from *irritáre / exacerbáre* (παροξύνω → provocar, D27), so its own word (D15). The Latin has no object; *o* (God) supplied as grammar — the Latinist asked twice for the absolute *os que exasperam* and was held (option, for Gustavo). The ambiguity reader listed *exasperam* unknown. 67:7 *qui exásperant*, 77:8 *exásperans* — tried in parallel/next. |",
+ "| árida | terra seca (*Ele converte o mar em terra seca*) | open | Ps 65:6 (ξηράν); the noun used as a place. Other places 94:5, 142:6 *sicut terra sine aqua* is different. |",
+ "| medullátus | cheio de tutano (*holocaustos cheios de tutano*) | open | Ps 65:15 (μεμυαλωμένα), only place; the concrete image kept (the stylist: 'concrete, faithful'); the ambiguity reader listed *tutano* unknown and heard 'rich, fat'. 62:6 *adipe et pinguédine* is a different pair. |",
+ "| incénsum | incenso | open | Ps 65:15 *cum incénso aríetum* (θυμιάματος); the smoke of the sacrifice, not the resin, but the word is the Latin's; 140:2 *sicut incénsum* will test it. |",
+ "| indúcere in | fazer entrar (*Vós nos fizestes entrar no laço*) | open | Ps 65:11 (εἰσήγαγες); *induzir* is 'induce', *levar* is addúcere's (D42). Draft 1 *Fizestes-nos entrar*; the stylist heard the enclitic opening stiff, so the pronoun is named (63:3's fix). |",
+ "| distínguere (lábia) | pronunciar (*que os meus lábios pronunciaram*) | open | Ps 65:13 (διέστειλεν, to utter distinctly); only place with lips; no remark. |",
+ "| aspícere | olhar para (*Se eu olhei para a iniquidade no meu coração*) | open | Ps 65:18 (ἐθεώρουν). Draft 1 *contemplei*: the stylist and the ambiguity reader both heard *contemplação*; *olhar* is not held by a settled row (prospícere 13:2 open). *contemplei* the option. |",
+ "| convértere in (a thing into another) | converter em (*Ele converte o mar em terra seca*) | open | Ps 65:6; apart from the convértere row (*voltar*, to turn back): here a change of nature. 104:29 *convértit aquas eórum in sánguinem*, 106:33, 113:8. |"
+],
+"formulas": [
+ "| *Benedíctus Deus* (65:20; 67:36) | *Bendito seja Deus* | open — the wish, where 27:6 *Benedíctus Dóminus* is verbless (*Bendito o Senhor*); 65:20 is prayed alone as the end of the Offertory Pasc5-0 and *seja* keeps it from being heard as a statement; *Bendito Deus* the option. 67:36 decides with it |"
+]}

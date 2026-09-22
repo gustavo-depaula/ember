@@ -1,0 +1,898 @@
+{
+  "psalm": 65,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "65:1": "Aclamai a Deus, toda a terra, {psalmum1} ao seu nome: * {dategloriam}.",
+    "65:3": "Dizei a Deus: Como são terríveis as vossas obras, Senhor! * na {multitudine} do vosso poder, {mentientur}.",
+    "65:4": "Toda a terra vos adore, e vos {psallat}: * {psalmum4} ao vosso nome.",
+    "65:5": "Vinde, e vede as obras de Deus: * {v5b} sobre os filhos dos homens.",
+    "65:6": "{qui6} {convertit} o mar em {arida}, pelo rio passarão a pé: * ali nos alegraremos nele.",
+    "65:7": "{qui7} domina com o seu poder para sempre, os seus olhos {respiciunt}: * {exasperant} não se exaltem em si mesmos.",
+    "65:8": "Bendizei, {gentes8} o nosso Deus: * e fazei ouvir a voz do seu louvor,",
+    "65:9": "{qui9} pôs a minha alma {advitam}: * e não {commotionem} os meus pés.",
+    "65:10": "Porque nos provastes, Deus: * no fogo nos examinastes, como se examina a prata.",
+    "65:11": "{induxisti} no laço, pusestes tribulações nas nossas costas: * pusestes homens sobre as nossas cabeças.",
+    "65:12": "Passamos pelo fogo e pela água: * e nos fizestes sair {refrigerium}.",
+    "65:13": "Entrarei na vossa casa com holocaustos: * {reddam} os meus votos, que os meus lábios {distinxerunt}.",
+    "65:14": "{v14}, * na minha tribulação.",
+    "65:15": "{offeram1} {medullata}, {incenso}: * {offeram2} bois com bodes.",
+    "65:16": "Vinde, {audite}, e eu narrarei, todos vós que temeis a Deus: * {quanta}.",
+    "65:17": "A ele clamei com a minha boca, * {exaltavi} sob a minha língua.",
+    "65:18": "{aspexi} no meu coração, * o Senhor não {exaudiet}.",
+    "65:19": "Por isso Deus {exaudivit}, * e atendeu à voz da minha prece.",
+    "65:20": "{benedictus}, * que não afastou a minha oração, nem a sua misericórdia de mim."
+  },
+  "decisions": [
+    {
+      "id": "psalmum",
+      "refs": [
+        "65:1",
+        "65:4"
+      ],
+      "latin": "psalmum dícite nómini ejus … psallat tibi: psalmum dicat nómini tuo",
+      "kind": "glossary",
+      "why": "*Psalmum dícere* is *entoar um salmo* in the finished psalms (17:50, 26:6b, 56:8, 60:9), of D25's family, and *psállere* is *entoar salmos* (D25). In 65:4 the two stand side by side (*psallat tibi: psalmum dicat*); the Greek has one verb twice (ψαλάτωσαν), and the Portuguese keeps the Latin's near-repetition: *entoe salmos … entoe um salmo*. *Cantar* cannot stand, because *cantáre* is its verb (D25). Each colon of 65:4 reads alone as the Epiphany versicle *Omnis terra adóret te, et psallat tibi* (grep: Sancti/01-06 and the Matins antiphon).",
+      "options": [
+        {
+          "label": "entoai um salmo / entoe salmos / entoe um salmo",
+          "forms": {
+            "psalmum1": "entoai um salmo",
+            "psallat": "entoe salmos",
+            "psalmum4": "entoe um salmo"
+          },
+          "note": "draft — the settled formulas (D25; 17:50, 60:9)",
+          "from": "glossary"
+        },
+        {
+          "label": "cantai um salmo / cante salmos / cante um salmo",
+          "forms": {
+            "psalmum1": "cantai um salmo",
+            "psallat": "cante salmos",
+            "psalmum4": "cante um salmo"
+          },
+          "note": "plainer, but *cantar* is cantáre's verb (D25)"
+        },
+        {
+          "label": "entoai um salmo / cante / entoe um salmo",
+          "forms": {
+            "psalmum1": "entoai um salmo",
+            "psallat": "cante",
+            "psalmum4": "entoe um salmo"
+          },
+          "note": "avoids the near-repetition in 65:4 at the cost of the glossary verb for psállere"
+        }
+      ]
+    },
+    {
+      "id": "dategloriam",
+      "refs": [
+        "65:1"
+      ],
+      "latin": "date glóriam laudi ejus",
+      "kind": "word",
+      "why": "The Latin gives glory *to his praise* (δότε δόξαν αἰνέσει αὐτοῦ; DRB 'give glory to his praise'). It is a strange phrase and the Latin's own; the Hebrew 'make his praise glorious' is another reading. MS1932 turns it into *tributai-lhe gloriosos louvores*, which explains and drops the dative. *dai* is safe at the vós imperative (past *dei*).",
+      "options": [
+        {
+          "label": "dai glória ao seu louvor",
+          "forms": {
+            "dategloriam": "dai glória ao seu louvor"
+          },
+          "note": "draft — word for word, DRB",
+          "from": "draft"
+        },
+        {
+          "label": "tornai glorioso o seu louvor",
+          "forms": {
+            "dategloriam": "tornai glorioso o seu louvor"
+          },
+          "note": "the Hebrew's sense; not the Latin's build"
+        },
+        {
+          "label": "rendei glória ao seu louvor",
+          "forms": {
+            "dategloriam": "rendei glória ao seu louvor"
+          },
+          "note": "a devotional verb for *dare*; *render* is not in the glossary"
+        }
+      ]
+    },
+    {
+      "id": "multitudine",
+      "refs": [
+        "65:3"
+      ],
+      "latin": "in multitúdine virtútis tuæ",
+      "kind": "glossary",
+      "why": "The *multitúdo* row is *multidão* (*na multidão da vossa misericórdia*), and 32:16 has the same phrase for the giant: *na multidão do seu poder*. The image of a multitude of power is the Latin's (πλήθει). *Grandeza* is what a Portuguese ear expects, and the option in 32:16 too. *virtus* → *poder* (row).",
+      "options": [
+        {
+          "label": "multidão",
+          "forms": {
+            "multitudine": "multidão"
+          },
+          "note": "draft — the row; = 32:16",
+          "from": "glossary"
+        },
+        {
+          "label": "grandeza",
+          "forms": {
+            "multitudine": "grandeza"
+          },
+          "note": "plainer; merges with magnitúdo"
+        }
+      ]
+    },
+    {
+      "id": "mentientur",
+      "refs": [
+        "65:3"
+      ],
+      "latin": "mentiéntur tibi inimíci tui",
+      "kind": "word",
+      "why": "*Mentíri* + dative: the enemies will lie to God, i.e. feign submission (MS1932's note: forced homage from the vanquished). 17:46 has the same verb for the same thing: *Os filhos estranhos me mentiram*. The verb stays; explaining it (*vos prestarão falsa homenagem*, MS1932's *homenagens mentirosas*) would be a gloss. Natural order, subject first; the Latin's future kept.",
+      "options": [
+        {
+          "label": "os vossos inimigos vos mentirão",
+          "forms": {
+            "mentientur": "os vossos inimigos vos mentirão"
+          },
+          "note": "draft — = 17:46's verb",
+          "from": "draft"
+        },
+        {
+          "label": "vos mentirão os vossos inimigos",
+          "forms": {
+            "mentientur": "vos mentirão os vossos inimigos"
+          },
+          "note": "the Latin's order; a colon opening on a clitic"
+        },
+        {
+          "label": "os vossos inimigos vos prestarão falsa homenagem",
+          "forms": {
+            "mentientur": "os vossos inimigos vos prestarão falsa homenagem"
+          },
+          "note": "MS1932's gloss made the text; explains",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v5b",
+      "refs": [
+        "65:5"
+      ],
+      "latin": "terríbilis in consíliis super fílios hóminum",
+      "kind": "grammar",
+      "why": "Verbless, as the Latin: *terríbilis* stands in apposition to *Dei*. *terrível* is singular and so cannot be heard with *as obras*. *consília* are God's purposes over men: *desígnio* (D33), not *conselhos* (advice). No possessive, as the Latin.",
+      "options": [
+        {
+          "label": "terrível nos desígnios",
+          "forms": {
+            "v5b": "terrível nos desígnios"
+          },
+          "note": "draft — D33, verbless",
+          "from": "draft"
+        },
+        {
+          "label": "ele é terrível nos seus desígnios",
+          "forms": {
+            "v5b": "ele é terrível nos seus desígnios"
+          },
+          "note": "copula and possessive supplied (MS1932 *é terrível nos seus desígnios*)",
+          "from": "MS1932"
+        },
+        {
+          "label": "terrível nos conselhos",
+          "forms": {
+            "v5b": "terrível nos conselhos"
+          },
+          "note": "the cognate; D33 keeps it for advice and councils"
+        }
+      ]
+    },
+    {
+      "id": "qui",
+      "refs": [
+        "65:6",
+        "65:7",
+        "65:9"
+      ],
+      "latin": "Qui convértit … Qui dominátur … Qui pósuit",
+      "kind": "grammar",
+      "why": "Three verses open with *Qui*, relative to God named in the verse before, and two of them go on with a clause whose subject is someone else (65:6 *pertransíbunt*, 65:7 *óculi ejus*) — Latin anacoluthon. A Portuguese verse that opens *Que converte* is heard as a question or a wish, and *Ele, que converte o mar em terra seca, pelo rio passarão a pé* does not hold together. So the relative becomes *Ele* + a finite verb (grammar, D2; MS1932 does the same in 65:6–7). The Latin's anaphora survives as *Ele … Ele … Ele*. 32:15, where the verse is two relatives and nothing else, kept *Ele, que*; that build is the option here.",
+      "options": [
+        {
+          "label": "Ele (finite verb)",
+          "forms": {
+            "qui6": "Ele",
+            "qui7": "Ele",
+            "qui9": "Ele"
+          },
+          "note": "draft — grammar (D2); MS1932 in 65:6–7",
+          "from": "draft"
+        },
+        {
+          "label": "Ele, que",
+          "forms": {
+            "qui6": "Ele, que",
+            "qui7": "Ele, que",
+            "qui9": "Ele, que"
+          },
+          "note": "the relative kept, as 32:15; the anacoluthon of 65:6–7 then stands in Portuguese"
+        }
+      ]
+    },
+    {
+      "id": "convertit",
+      "refs": [
+        "65:6"
+      ],
+      "latin": "Qui convértit mare in áridam",
+      "kind": "grammar",
+      "why": "*convértit* is present or perfect by form. The Greek is a present participle (ὁ μεταστρέφων) and DRB has 'turneth'; the verse goes on in the future (*pertransíbunt*, *lætábimur*), which a timeless present carries and a past would jar with. MS1932 makes all three past (*converteu … passaram … alegrámos*), against the Latin's futures. *convértere in* = change into → *converter em* (the row's proposal names 65:6).",
+      "options": [
+        {
+          "label": "converte",
+          "forms": {
+            "convertit": "converte"
+          },
+          "note": "draft — the Greek's present; DRB",
+          "from": "draft"
+        },
+        {
+          "label": "converteu",
+          "forms": {
+            "convertit": "converteu"
+          },
+          "note": "the Hebrew's past and MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "arida",
+      "refs": [
+        "65:6"
+      ],
+      "latin": "in áridam",
+      "kind": "word",
+      "why": "*árida* is the dry land (ξηράν; DRB 'dry land'). *Terra seca* says it plainly; MS1932's *terra firme* says what the ground is for, not what it is. 94:5 *áridam fundavérunt manus ejus* will meet the word again.",
+      "options": [
+        {
+          "label": "terra seca",
+          "forms": {
+            "arida": "terra seca"
+          },
+          "note": "draft — DRB",
+          "from": "draft"
+        },
+        {
+          "label": "terra firme",
+          "forms": {
+            "arida": "terra firme"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "terra enxuta",
+          "forms": {
+            "arida": "terra enxuta"
+          },
+          "note": "exact, a little regional"
+        }
+      ]
+    },
+    {
+      "id": "respiciunt",
+      "refs": [
+        "65:7"
+      ],
+      "latin": "óculi ejus super gentes respíciunt",
+      "kind": "glossary",
+      "why": "The formula row *Óculi ejus in páuperem respíciunt* (9:30a = 10:5b) is *Os seus olhos estão voltados para o pobre*, and the row notes 65:7 as near. Kinship kept: *estão voltados para as nações*. The cost is *super* (upon), which *para* flattens; *olham sobre* keeps it but is not said in Portuguese. *Estão postos sobre* keeps it in an idiom (*ter os olhos postos em*).",
+      "options": [
+        {
+          "label": "estão voltados para as nações",
+          "forms": {
+            "respiciunt": "estão voltados para as nações"
+          },
+          "note": "draft — the 10:5b formula",
+          "from": "glossary"
+        },
+        {
+          "label": "estão postos sobre as nações",
+          "forms": {
+            "respiciunt": "estão postos sobre as nações"
+          },
+          "note": "keeps *super*"
+        },
+        {
+          "label": "contemplam as nações",
+          "forms": {
+            "respiciunt": "contemplam as nações"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exasperant",
+      "refs": [
+        "65:7"
+      ],
+      "latin": "qui exásperant",
+      "kind": "glossary",
+      "why": "*Exasperáre* is παραπικραίνω (to embitter, provoke), a different Greek verb from *irritáre* / *exacerbáre* (παροξύνω), which D27 made *provocar*. By D15's test a second Latin–Greek pair keeps its own word, and the cognate *exasperar* exists and is current (to exasperate someone). A blind reader once did not know *exasperou* (9:25, where it was tried for *exacerbáre*) — the risk is known; this reading will test it again. The Latin has no object; *o* (him, God) is supplied because *os que exasperam* is not Portuguese (DRB supplies 'him' too). 67:7 has *qui exásperant* again and 77:8 *exásperans*: a glossary row is proposed.",
+      "options": [
+        {
+          "label": "os que o exasperam",
+          "forms": {
+            "exasperant": "os que o exasperam"
+          },
+          "note": "draft — the cognate; own Greek verb",
+          "from": "draft"
+        },
+        {
+          "label": "os que o provocam",
+          "forms": {
+            "exasperant": "os que o provocam"
+          },
+          "note": "DRB 'provoke him'; merges with irritáre / exacerbáre (D27)",
+          "from": "DRB"
+        },
+        {
+          "label": "os que o amarguram",
+          "forms": {
+            "exasperant": "os que o amarguram"
+          },
+          "note": "the Greek's image (πικρ-, bitter); in Brazil heard as 'grieve him'"
+        },
+        {
+          "label": "os rebeldes",
+          "forms": {
+            "exasperant": "os rebeldes"
+          },
+          "note": "the Hebrew's word (sorerim); not the Latin"
+        }
+      ]
+    },
+    {
+      "id": "gentes8",
+      "refs": [
+        "65:8"
+      ],
+      "latin": "Benedícite, gentes, Deum nostrum",
+      "kind": "grammar",
+      "why": "Spoken, *Bendizei, nações* is heard first as 'bless the nations' before *o nosso Deus* comes; the glossary's rule for a vocative plural that can be heard as an object is *ó* + noun (28:1). The line is also a versicle alone (*V. Benedícite, gentes, Deum nostrum*, grep).",
+      "options": [
+        {
+          "label": "ó nações,",
+          "forms": {
+            "gentes8": "ó nações,"
+          },
+          "note": "draft — the vocative rule (28:1)",
+          "from": "glossary"
+        },
+        {
+          "label": "nações,",
+          "forms": {
+            "gentes8": "nações,"
+          },
+          "note": "the Latin's bare vocative; MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "advitam",
+      "refs": [
+        "65:9"
+      ],
+      "latin": "Qui pósuit ánimam meam ad vitam",
+      "kind": "word",
+      "why": "*pónere ad vitam*: set my soul unto life (τοῦ θεμένου τὴν ψυχήν μου εἰς ζωήν; DRB 'set my soul to live'). *pôs a minha alma na vida* keeps the verb and the noun: he placed the soul in life, kept it alive. *para a vida* is closer to *ad* but sounds unfinished; MS1932's *tem conservado a minha vida* paraphrases and turns the soul into 'life'.",
+      "options": [
+        {
+          "label": "na vida",
+          "forms": {
+            "advitam": "na vida"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "para a vida",
+          "forms": {
+            "advitam": "para a vida"
+          },
+          "note": "the preposition word for word"
+        },
+        {
+          "label": "a viver",
+          "forms": {
+            "advitam": "a viver"
+          },
+          "note": "DRB 'to live'; the noun becomes a verb",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "commotionem",
+      "refs": [
+        "65:9"
+      ],
+      "latin": "et non dedit in commotiónem pedes meos",
+      "kind": "glossary",
+      "why": "*dare in commotiónem* is σάλος, the Greek of 54:23 *non dabit … fluctuatiónem justo*, which D44 settled as *não deixar vacilar*. One Greek phrase, so one Portuguese (D15's test), and it is what Portuguese says of feet. The word-for-word *não entregou ao abalo* keeps *dare* and the noun but is not said. 120:3 *Non det in commotiónem pedem tuum* should copy.",
+      "options": [
+        {
+          "label": "deixou vacilar",
+          "forms": {
+            "commotionem": "deixou vacilar"
+          },
+          "note": "draft — = 54:23 (D44)",
+          "from": "glossary"
+        },
+        {
+          "label": "entregou ao abalo",
+          "forms": {
+            "commotionem": "entregou ao abalo"
+          },
+          "note": "the Latin's verb and noun"
+        },
+        {
+          "label": "deixou abalar",
+          "forms": {
+            "commotionem": "deixou abalar"
+          },
+          "note": "the root of *movéri → ser abalado*"
+        }
+      ]
+    },
+    {
+      "id": "induxisti",
+      "refs": [
+        "65:11"
+      ],
+      "latin": "Induxísti nos in láqueum",
+      "kind": "word",
+      "why": "*indúcere in* is to lead into (εἰσήγαγες). *Induzir* is not possible (it is 'induce, tempt'), *levar* is addúcere's (D42) and *conduzir* collides with the ban on *conduzi*. *Fizestes-nos entrar* is the causative the Greek means; *laço* is the row. MS1932 *Deixaste-nos cair no laço* softens God's act into permission.",
+      "options": [
+        {
+          "label": "Fizestes-nos entrar",
+          "forms": {
+            "induxisti": "Fizestes-nos entrar"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "Levastes-nos",
+          "forms": {
+            "induxisti": "Levastes-nos"
+          },
+          "note": "plainer; addúcere's verb (D42)"
+        },
+        {
+          "label": "Deixastes-nos cair",
+          "forms": {
+            "induxisti": "Deixastes-nos cair"
+          },
+          "note": "MS1932; permission, not the Latin's act",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "refrigerium",
+      "refs": [
+        "65:12"
+      ],
+      "latin": "eduxísti nos in refrigérium",
+      "kind": "word",
+      "why": "*Refrigérium* (ἀναψυχή, a cooling, relief) → *refrigério*, the word of 22:2 *aquam refectiónis* and of the Roman Canon's *locum refrigérii*; it keeps the fire-and-water picture of the verse (a cooling after the fire). *edúcere* → *fazer sair* (17:20). MS1932 adds *um lugar de*; *alívio* is plainer but loses the coolness.",
+      "options": [
+        {
+          "label": "para o refrigério",
+          "forms": {
+            "refrigerium": "para o refrigério"
+          },
+          "note": "draft — 22:2",
+          "from": "draft"
+        },
+        {
+          "label": "para um lugar de refrigério",
+          "forms": {
+            "refrigerium": "para um lugar de refrigério"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "para o alívio",
+          "forms": {
+            "refrigerium": "para o alívio"
+          },
+          "note": "plainer; the coolness lost"
+        }
+      ]
+    },
+    {
+      "id": "mesoclise",
+      "refs": [
+        "65:13",
+        "65:15"
+      ],
+      "latin": "reddam tibi … ófferam tibi … ófferam tibi",
+      "kind": "grammar",
+      "why": "Three futures with *tibi*. Mesóclise (*pagar-vos-ei*, *oferecer-vos-ei*) is correct and stands once in 17:50 (*Dar-vos-ei graças*), but three in two verses, two of them five syllables, weigh; Brazilian speech puts the clitic before the verb, and naming the subject *eu* (D2) makes that correct at the head of a colon. *réddere vota → pagar os votos* (row; 21:26, 60:9). The repetition *ófferam tibi … ófferam tibi* is kept word for word.",
+      "options": [
+        {
+          "label": "eu vos pagarei / Eu vos oferecerei",
+          "forms": {
+            "reddam": "eu vos pagarei",
+            "offeram1": "Eu vos oferecerei",
+            "offeram2": "eu vos oferecerei"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "pagar-vos-ei / Oferecer-vos-ei",
+          "forms": {
+            "reddam": "pagar-vos-ei",
+            "offeram1": "Oferecer-vos-ei",
+            "offeram2": "oferecer-vos-ei"
+          },
+          "note": "mesóclise, MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "distinxerunt",
+      "refs": [
+        "65:13"
+      ],
+      "latin": "quæ distinxérunt lábia mea",
+      "kind": "word",
+      "why": "*distínguere* is to mark off, articulate (διέστειλεν: uttered distinctly). Said of lips it is to pronounce the vow in so many words. *pronunciaram* (MS1932) says it; *distinguiram* would be heard as 'told apart'.",
+      "options": [
+        {
+          "label": "pronunciaram",
+          "forms": {
+            "distinxerunt": "pronunciaram"
+          },
+          "note": "draft — MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "proferiram",
+          "forms": {
+            "distinxerunt": "proferiram"
+          },
+          "note": "a little more formal"
+        },
+        {
+          "label": "articularam",
+          "forms": {
+            "distinxerunt": "articularam"
+          },
+          "note": "closest to the root sense; clinical"
+        }
+      ]
+    },
+    {
+      "id": "v14",
+      "refs": [
+        "65:14"
+      ],
+      "latin": "Et locútum est os meum",
+      "kind": "grammar",
+      "why": "The verse continues the relative of 65:13 (*vota … quæ distinxérunt lábia mea, et [quæ] locútum est os meum*). *E que a minha boca falou* keeps that link, so the vows are what the mouth spoke; *E a minha boca falou* reads as a new sentence and leaves 'what' unsaid. *loqui → falar*.",
+      "options": [
+        {
+          "label": "E que a minha boca falou",
+          "forms": {
+            "v14": "E que a minha boca falou"
+          },
+          "note": "draft — the relative carried on",
+          "from": "draft"
+        },
+        {
+          "label": "E a minha boca falou",
+          "forms": {
+            "v14": "E a minha boca falou"
+          },
+          "note": "the Latin's surface"
+        },
+        {
+          "label": "e que a minha boca proferiu",
+          "forms": {
+            "v14": "E que a minha boca proferiu"
+          },
+          "note": "MS1932's verb",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "medullata",
+      "refs": [
+        "65:15"
+      ],
+      "latin": "Holocáusta medulláta",
+      "kind": "word",
+      "why": "*medullátus* is 'full of marrow', hence rich, fat (L&S; μεμυαλωμένα). The concrete image stays (rule 5: bones, fat): *cheios de tutano*, *tutano* being the plain Brazilian word for marrow. MS1932 *pingues* and pt-style *gordos* keep richness but lose the marrow; *gordo* is *pinguis*'s (19:4).",
+      "options": [
+        {
+          "label": "holocaustos cheios de tutano",
+          "forms": {
+            "medullata": "holocaustos cheios de tutano"
+          },
+          "note": "draft — DRB 'full of marrow'",
+          "from": "DRB"
+        },
+        {
+          "label": "holocaustos gordos",
+          "forms": {
+            "medullata": "holocaustos gordos"
+          },
+          "note": "MS1932's sense; *gordo* is pinguis's",
+          "from": "MS1932"
+        },
+        {
+          "label": "holocaustos de tutano",
+          "forms": {
+            "medullata": "holocaustos de tutano"
+          },
+          "note": "shorter"
+        }
+      ]
+    },
+    {
+      "id": "incenso",
+      "refs": [
+        "65:15"
+      ],
+      "latin": "cum incénso aríetum",
+      "kind": "word",
+      "why": "*incénsum* (θυμίαμα) is what goes up in smoke — here from burnt rams. *incenso* is the Latin's word and a Portuguese reader knows it as the altar's smoke; the rams make clear it is not resin. MS1932's *fumo* explains; *fumaça* is fumus's. *aríes → carneiro* (row).",
+      "options": [
+        {
+          "label": "com incenso de carneiros",
+          "forms": {
+            "incenso": "com incenso de carneiros"
+          },
+          "note": "draft — no articles, as the Latin; two syllables fewer on a colon already +3",
+          "from": "draft"
+        },
+        {
+          "label": "com o fumo dos carneiros",
+          "forms": {
+            "incenso": "com o fumo dos carneiros"
+          },
+          "note": "MS1932; explains",
+          "from": "MS1932"
+        },
+        {
+          "label": "com o incenso dos carneiros",
+          "forms": {
+            "incenso": "com o incenso dos carneiros"
+          },
+          "note": "the articles supplied; the colon +5 on the Latin"
+        }
+      ]
+    },
+    {
+      "id": "audite",
+      "refs": [
+        "65:16"
+      ],
+      "latin": "Veníte, audíte",
+      "kind": "glossary",
+      "why": "Bare *ouvi* is also 'I heard' (rule 3; D13 keeps the ban on the bare form, D18 refused an exception for a verse where another imperative has sounded). 48:2 *Audíte hæc* recast the same way: *Escutai* (the audíre row: 'recast or use escutar there and note it'). The cost: *escutar* is exaudíre's (D3), and 65:18–19 has *exaudíre* twice. *Vinde … ouvi* is the option, one touch away; *Vinde, e vede* (65:5) and *Vinde, escutai* (65:16) keep the Latin's pair of calls.",
+      "options": [
+        {
+          "label": "escutai",
+          "forms": {
+            "audite": "escutai"
+          },
+          "note": "draft — 48:2's recast",
+          "from": "glossary"
+        },
+        {
+          "label": "ouvi",
+          "forms": {
+            "audite": "ouvi"
+          },
+          "note": "the row's verb; bare, banned (D1, D13)"
+        }
+      ]
+    },
+    {
+      "id": "quanta",
+      "refs": [
+        "65:16"
+      ],
+      "latin": "quanta fecit ánimæ meæ",
+      "kind": "word",
+      "why": "*quanta* (neuter plural): how great things / how much (ὅσα). *fecit* has God as its hidden subject, named (*ele*). The dative of advantage *ánimæ meæ* is *pela minha alma* — *fez à minha alma* is heard as something done to the soul, for good or ill. MS1932 *quão grandes coisas ele fez à minha alma* is the fuller wording, three syllables longer.",
+      "options": [
+        {
+          "label": "quanto ele fez pela minha alma",
+          "forms": {
+            "quanta": "quanto ele fez pela minha alma"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "quão grandes coisas ele fez pela minha alma",
+          "forms": {
+            "quanta": "quão grandes coisas ele fez pela minha alma"
+          },
+          "note": "MS1932's build with *pela*",
+          "from": "MS1932"
+        },
+        {
+          "label": "quanto ele fez à minha alma",
+          "forms": {
+            "quanta": "quanto ele fez à minha alma"
+          },
+          "note": "the dative kept as *a*"
+        }
+      ]
+    },
+    {
+      "id": "exaltavi",
+      "refs": [
+        "65:17"
+      ],
+      "latin": "et exaltávi sub lingua mea",
+      "kind": "grammar",
+      "why": "*exaltávi* has no object in the Latin or the Greek (ὕψωσα); the object is plainly God, named at the head of the verse (*Ad ipsum*). Portuguese *exaltar* cannot stand absolute, so *o* is supplied (grammar; DRB and MS1932 supply 'him' too). *sub lingua mea* is the Latin's image — 'under my tongue', the praise held ready in the mouth — and stays; DRB and MS1932 flatten it to 'with my tongue'.",
+      "options": [
+        {
+          "label": "e o exaltei",
+          "forms": {
+            "exaltavi": "e o exaltei"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "e exaltei",
+          "forms": {
+            "exaltavi": "e exaltei"
+          },
+          "note": "absolute, as the Latin; not Portuguese"
+        }
+      ]
+    },
+    {
+      "id": "aspexi",
+      "refs": [
+        "65:18"
+      ],
+      "latin": "Iniquitátem si aspéxi in corde meo",
+      "kind": "grammar",
+      "why": "The Latin is a real condition: perfect indicative, then future (*non exáudiet*). MS1932 turns it counterfactual (*Se eu tivesse visto … não me ouviria*), which states that he did not; the Latin leaves it to 65:19 to say so. Mood is grammar (D2), but here the indicative carries the logic of the next verse, so it is kept. *aspícere* → *contemplar* (to look at and dwell on; DRB 'looked at'): *ver* is vidére's and *olhar* is respícere's in 32:13. The subject *eu* is named because the verse opens on the condition.",
+      "options": [
+        {
+          "label": "Se eu contemplei a iniquidade",
+          "forms": {
+            "aspexi": "Se eu contemplei a iniquidade"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "Se eu olhei para a iniquidade",
+          "forms": {
+            "aspexi": "Se eu olhei para a iniquidade"
+          },
+          "note": "plainer; respícere's verb"
+        },
+        {
+          "label": "Se eu tivesse visto a iniquidade",
+          "forms": {
+            "aspexi": "Se eu tivesse visto a iniquidade"
+          },
+          "note": "MS1932's counterfactual (it would want *escutaria* in the second colon)",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "absolute",
+      "refs": [
+        "65:18",
+        "65:19"
+      ],
+      "latin": "non exáudiet Dóminus … Proptérea exaudívit Deus",
+      "kind": "grammar",
+      "why": "Both hearings have no object in the Latin (the Greek adds μου in 65:19). *escutar* can stand absolute in Portuguese, so none is added; MS1932 adds *me* twice. *exaudíre → escutar* (D3).",
+      "options": [
+        {
+          "label": "escutará / escutou",
+          "forms": {
+            "exaudiet": "escutará",
+            "exaudivit": "escutou"
+          },
+          "note": "draft — as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "me escutará / me escutou",
+          "forms": {
+            "exaudiet": "me escutará",
+            "exaudivit": "me escutou"
+          },
+          "note": "MS1932; the Greek's μου in 65:19",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "benedictus",
+      "refs": [
+        "65:20"
+      ],
+      "latin": "Benedíctus Deus",
+      "kind": "grammar",
+      "why": "*Benedíctus Dóminus* is verbless in the finished psalms (*Bendito o Senhor*, 27:6, 30:22, 40:14): the article makes it a predication. *Deus* takes no article, and *Bendito Deus, que …* is heard first as a vocative ('blessed God, who …') in a verse that goes on in the third person. The copula *seja* (D2) removes that; it is also MS1932's wording. 67:36 ends on the same two words.",
+      "options": [
+        {
+          "label": "Bendito seja Deus",
+          "forms": {
+            "benedictus": "Bendito seja Deus"
+          },
+          "note": "draft — MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "Bendito Deus",
+          "forms": {
+            "benedictus": "Bendito Deus"
+          },
+          "note": "verbless as the Latin and as 27:6"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "65:1": "The psalm starts at 65:1 with the titulus dropped (D7; DO's 65:1 has *Jubiláte* already). *jubiláre → aclamar* (D43; the row names 65:1). *omnis terra* as vocative: *toda a terra*. 65:1 is the Introit of the third Sunday after Easter and an Offertory (Epi2-0), grep.",
+    "65:3": "*Dícite Deo: Quam …* — the quoted speech turns to God (*vós*) while the frame speaks of him. *Quam terribília* → *Como são terríveis* (8:2a *como é admirável*); *terríbilis → terrível* (D43; the row names 65:3). The second colon is lowercase after the *!*, as the Latin.",
+    "65:4": "*Omnis terra adóret te* — the subjunctive of wish (*adore*, *entoe*). Each colon reads alone (the Epiphany versicle). Both cola +3 on the Latin: the D25 cost (*entoar salmos* for *psállere*); accepted.",
+    "65:5": "*Veníte, et vidéte ópera* — *Vinde, e vede as obras* word for word 45:9 (*ópera Dómini* there, *Dei* here).",
+    "65:6": "*in flúmine pertransíbunt pede* → *pelo rio passarão a pé* (*in* of passage; MS1932 *pelo rio*). The Latin's futures kept, the subject 'they' left unnamed as the Latin leaves it. *ibi lætábimur in ipso* → *ali nos alegraremos nele*.",
+    "65:7": "*in virtúte sua* → *com o seu poder* (instrumental here; 20:2 *no vosso poder* is where the king rejoices). *in ætérnum → para sempre* (D23). *non exalténtur in semetípsis* → *não se exaltem em si mesmos* (the jussive; *exaltar* row).",
+    "65:8": "*audítam fácite vocem* → *fazei ouvir a voz* (the *vocem dare* row, 17:14 *fez ouvir a sua voz*). The Latin ends the verse on a comma, carried into 65:9; so does the Portuguese.",
+    "65:10": "Two verbs kept two, as the *examináre / probáre* row asks for this very verse: *provastes … examinastes … se examina*; *no fogo* as 16:3, 11:7, 17:31.",
+    "65:11": "*in dorso nostro* → *nas nossas costas* (17:41 *dar as costas*; *dorso* is an animal's). *posuísti … imposuísti* → *pusestes … pusestes* (*impónere super → pôr sobre*, D44): the Latin's two verbs share their root, so the near-repetition is the Latin's; the Greek has two verbs (ἔθου, ἐπεβίβασας 'made to ride').",
+    "65:12": "*per ignem et aquam* → *pelo fogo e pela água* (the preposition repeated, as Portuguese needs).",
+    "65:13": "*in holocáustis* → *com holocaustos* (DRB, MS1932). *holocáustum → holocausto* (row, which names 65:13, 65:15).",
+    "65:15": "*boves cum hircis* → *bois com bodes* (the *hircus* row asks 65:15 to copy 49:9, 13). The Latin's object-first order is not kept in the first colon: the verb first is natural, and the two colons then open alike, as they do in meaning. The first colon is still +3 on the Latin (the future *oferecerei* and *cheios de tutano* for two Latin words); accepted — the marrow is the Latin's image.",
+    "65:16": "*omnes, qui timétis Deum* → *todos vós que temeis a Deus* (21:24 *Vós que temeis o Senhor*); *e eu narrarei* names the speaker as the call turns to his own story. The Offertory (Pasc3/Epi) uses 65:16 with *narrábo vobis* and *fecit Dóminus*; the psalm has neither. The second colon +3: *ele* names the subject so that *fez* is not heard as the speaker's; kept.",
+    "65:17": "*Ad ipsum ore meo clamávi* → *A ele clamei com a minha boca* — the Latin's order kept at the head (*A ele*), the colon ending on *boca*, which answers *língua* at the end of the verse, as *ore … lingua* do.",
+    "65:19": "*Proptérea → Por isso* (17:50). *atténdit voci deprecatiónis meæ* → *atendeu à voz da minha prece* (D3 *atender*; D35 *prece*; 27:6).",
+    "65:20": "*amovére → afastar* (row). *et misericórdiam suam a me* → *nem a sua misericórdia de mim*: *et* under a negation is *nem* (grammar); *a me* at the end, where the Latin has it, so that it governs both nouns as in the Latin."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps065.md (no DM1962: Ps 65 is not a psalm of the day hours). Hard readings: 65:6–7 the relative *Qui* with anacoluthon (decision `qui`); 65:6 *convértit* present or past (the Greek's participle decides); 65:7 *qui exásperant* (a second Greek verb beside D27's *provocar*); 65:9 *ad vitam*; 65:13–14 the relative carried across two prayed verses; 65:15 *medulláta*, *incénsum aríetum*; 65:16 *audíte* under the *ouvi* ban; 65:18 the real condition. Glossary applied: aclamar (D43), entoar salmos / entoar um salmo (D25), terrível (D43), desígnio (D33), converter em (row proposal), para sempre (D23), provar / examinar (row), laço, pôr sobre (D44), refrigério (22:2), pagar os votos, holocausto, carneiro, bode (D44), escutar / atender / prece (D3, D35), não deixar vacilar (D44, σάλος), afastar. Liturgical uses by grep: 65:1–2 Introit Pasc3-0 and Offertory Epi2-0; 65:4 the Epiphany versicle and a Matins antiphon; 65:8–9, 20 Offertory Pasc5-0 (with *Dóminum* and other variants); 65:16 Offertories (with *vobis*, *Dóminus* added); *V. Benedícite, gentes, Deum nostrum*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft length flags accepted: 65:4 both cola +3 (D25's *entoar salmos*), 65:15a +3 (*cheios de tutano*; articles dropped to bring it from +5), 65:16b +3 (*ele* named); 65:3, 65:9b, 65:11a, 65:19 are 3–4 syllables short, which the tone absorbs. No rhyme flags. Oxytone cadences are within the rule (last or second-last syllable)."
+    }
+  ]
+}

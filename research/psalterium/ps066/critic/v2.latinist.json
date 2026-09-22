@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "47e8ed3986c25e70e46e555a87ce6495dc994fac46fa736787c1ad73d0ed48b2",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T22:53:57+00:00",
+  "reply": "{\"verses\": [{\"id\": \"66:3\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in ómnibus géntibus salutáre tuum\", \"portuguese\": \"entre todas as nações a vossa salvação\", \"problem\": \"'in' parallels 'in terra' of the first half (both 'em'); 'entre' is defensible but slightly loosens the parallel the Latin builds between 'in terra' and 'in omnibus gentibus'.\", \"fix\": \"em todas as nações a vossa salvação\"}]}], \"overall\": \"A faithful translation: every clause of the Latin is present, tenses and moods (jussive subjunctives, perfect 'dedit') are kept, and no Hebrew-driven readings intrude. Pointing marks match the Latin in every verse. The only note is a small preposition choice in 66:3.\"}\n"
+}
