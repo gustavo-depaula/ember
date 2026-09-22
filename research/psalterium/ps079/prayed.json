@@ -1,0 +1,1080 @@
+{
+  "psalm": 79,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "79:2": "Vós que {regis}, atendei: * vós que {deducis} José como ovelha.",
+    "79:2b": "Vós que estais sentado sobre os querubins, * {manifestare} diante de Efraim, Benjamim e Manassés.",
+    "79:3": "{excita}, e vinde, * {salvos}.",
+    "79:4": "Deus, {conv4}: * e {ost4}, e seremos salvos.",
+    "79:5": "Senhor, {virt5}, * até quando estareis irado {super} a oração do vosso servo?",
+    "79:6": "Com pão de lágrimas {cibabis}: * e nos dareis de beber em lágrimas, {mensura}?",
+    "79:7": "Fizestes de nós {contradictio} os nossos vizinhos: * e os nossos inimigos zombaram de nós.",
+    "79:8": "{virt8}, {conv8}: * e {ost8}, e seremos salvos.",
+    "79:9": "Transportastes do Egito uma vinha: * {ejecisti} as nações, e a plantastes.",
+    "79:10": "Fostes guia do caminho {conspectu}: * plantastes as suas raízes, e ela encheu a terra.",
+    "79:11": "A sua sombra cobriu os montes: * e {arbusta} os cedros de Deus.",
+    "79:12": "Estendeu os seus sarmentos até o mar: * e até o rio os seus rebentos.",
+    "79:13": "Por que destruístes a sua cerca: * e todos os que passam pelo caminho a {vindemiant}?",
+    "79:14": "{exterminavit} o javali da selva: * e {depastus} {singularis}.",
+    "79:15": "{virt15}, voltai-vos: * olhai do céu, e vede, e visitai esta vinha.",
+    "79:16": "E {perfice} aquela que a vossa direita plantou: * e sobre o filho do homem, {confirm16}.",
+    "79:17": "{incensa}, * à repreensão do vosso rosto perecerão.",
+    "79:18": "{fiat} a vossa mão sobre o homem da vossa direita: * e sobre o filho do homem, {confirm18}.",
+    "79:19": "E de vós {discedimus}, {vivificabis}: * e invocaremos o vosso nome.",
+    "79:20": "Senhor, {virt20}, {conv20}: * e {ost20}, e seremos salvos."
+  },
+  "decisions": [
+    {
+      "id": "convert",
+      "refs": [
+        "79:4",
+        "79:8",
+        "79:20"
+      ],
+      "latin": "convérte nos",
+      "kind": "glossary",
+      "why": "The refrain's verb, three times, identical in the three places as the Latin is. The *convértere* row gives *voltar*, but names this very phrase as a test, and D25's exception (*converter* where men turn to God) was extended to God as the one who turns souls: 18:8 *convértens ánimas* → *converte as almas*, 22:2 *ánimam meam convértit* → *converteu a minha alma*. Here God is asked to turn *us*; ἐπίστρεψον ἡμᾶς holds both 'turn us back' (restore) and 'turn us to you', and *convertei-nos* holds both as well, the religious sense first — which is how the Church has prayed this refrain (and 84:5 *Convérte nos, Deus*, at Compline). DRB 'convert us'; MS1932 *converte-nos* at 79:4 and 79:20. The cost: 79:15 *Deus virtútum, convértere* is the formula *Voltai-vos* (row), so the Latin's one root in the refrain and in 79:15 becomes two Portuguese verbs. *fazei-nos voltar* keeps that echo but is heavier and reads as 'bring us back (home)'. *Convertei* is safe under rule 3 (past *converti*).",
+      "options": [
+        {
+          "label": "convertei-nos",
+          "forms": {
+            "conv4": "convertei-nos",
+            "conv8": "convertei-nos",
+            "conv20": "convertei-nos"
+          },
+          "note": "Ruling: D25's exception as applied at 18:8, 22:2; DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "fazei-nos voltar",
+          "forms": {
+            "conv4": "fazei-nos voltar",
+            "conv8": "fazei-nos voltar",
+            "conv20": "fazei-nos voltar"
+          },
+          "note": "the row's *voltar*, causative as 52:7 *fizer voltar*; keeps the echo with 79:15 *voltai-vos*; two syllables longer.",
+          "from": "glossary"
+        },
+        {
+          "label": "restaurai-nos",
+          "forms": {
+            "conv4": "restaurai-nos",
+            "conv8": "restaurai-nos",
+            "conv20": "restaurai-nos"
+          },
+          "note": "MS1932 at 79:8 only; the Hebrew's sense (hashivenu), says less than the Latin's turning.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ostende",
+      "refs": [
+        "79:4",
+        "79:8",
+        "79:20"
+      ],
+      "latin": "et osténde fáciem tuam",
+      "kind": "word",
+      "why": "The Latin has no indirect object (ἐπίφανον τὸ πρόσωπόν σου, 'make your face shine forth'). DRB supplies 'us' at 79:4 but not at 79:8, MS1932 supplies *-nos* in all three. Not supplied: the refrain is the same three times in the Latin and stays so; *mostrai a vossa face* is complete Portuguese. *fácies → face* (row), apart from *vultus → rosto* (79:17). *mostrai* is safe (past *mostrei*).",
+      "options": [
+        {
+          "label": "mostrai a vossa face",
+          "forms": {
+            "ost4": "mostrai a vossa face",
+            "ost8": "mostrai a vossa face",
+            "ost20": "mostrai a vossa face"
+          },
+          "note": "Ruling: as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "mostrai-nos a vossa face",
+          "forms": {
+            "ost4": "mostrai-nos a vossa face",
+            "ost8": "mostrai-nos a vossa face",
+            "ost20": "mostrai-nos a vossa face"
+          },
+          "note": "MS1932, DRB (79:4); supplies an object.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fazei brilhar a vossa face",
+          "forms": {
+            "ost4": "fazei brilhar a vossa face",
+            "ost8": "fazei brilhar a vossa face",
+            "ost20": "fazei brilhar a vossa face"
+          },
+          "note": "the Greek's and the Hebrew's image; not the Latin's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "virtutum",
+      "refs": [
+        "79:5",
+        "79:8",
+        "79:15",
+        "79:20"
+      ],
+      "latin": "Deus virtútum",
+      "kind": "glossary",
+      "why": "D43: *Dóminus virtútum → o Senhor dos poderes*; 58:6 *Dómine, Deus virtútum → Senhor, Deus dos poderes*. The four places grow in the Latin (*Deus* 79:4 → *Deus virtútum* 79:8, 79:15 → *Dómine, Deus virtútum* 79:20, and 79:5), and the Portuguese grows the same way. D43 is flagged for Gustavo: *dos exércitos* (MS1932, DRB 'hosts') is the Hebrew's Sabaoth. One touch changes all four.",
+      "options": [
+        {
+          "label": "Deus dos poderes",
+          "forms": {
+            "virt5": "Deus dos poderes",
+            "virt8": "Deus dos poderes",
+            "virt15": "Deus dos poderes",
+            "virt20": "Deus dos poderes"
+          },
+          "note": "Ruling: D43, as 58:6.",
+          "from": "glossary"
+        },
+        {
+          "label": "Deus dos exércitos",
+          "forms": {
+            "virt5": "Deus dos exércitos",
+            "virt8": "Deus dos exércitos",
+            "virt15": "Deus dos exércitos",
+            "virt20": "Deus dos exércitos"
+          },
+          "note": "MS1932, DRB; the Hebrew's title.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "regis",
+      "refs": [
+        "79:2"
+      ],
+      "latin": "Qui regis Israël",
+      "kind": "glossary",
+      "why": "The *régere* row foresaw this verse ('79:2 *Qui regis Israël* will follow'; 22:1 *O Senhor me rege*). The Greek is ὁ ποιμαίνων, 'you who shepherd', and the next colon's sheep carries that image; but the Latin says *regis*, and 22:1 kept *reger* against the familiar shepherd for the same reason. The ambiguity reader of Ps 27 did not know *regei-os*; *regeis* is the same verb.",
+      "options": [
+        {
+          "label": "regeis Israel",
+          "forms": {
+            "regis": "regeis Israel"
+          },
+          "note": "Ruling: the row, as 22:1, 47:15.",
+          "from": "glossary"
+        },
+        {
+          "label": "governais Israel",
+          "forms": {
+            "regis": "governais Israel"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "apascentais Israel",
+          "forms": {
+            "regis": "apascentais Israel"
+          },
+          "note": "the Greek's ποιμαίνων; not the Latin's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deducis",
+      "refs": [
+        "79:2"
+      ],
+      "latin": "qui dedúcis velut ovem Joseph",
+      "kind": "glossary",
+      "why": "D22: *dedúcere* of guidance → *guiar* (ὁ ὁδηγῶν); 76:21 *Deduxísti sicut oves pópulum tuum* → *Guiastes o vosso povo como ovelhas* has the same image. *velut ovem* is singular in the Latin (the Greek has the plural πρόβατα): *como ovelha*, without the article, as 76:21 *como ovelhas* (MS1932 *como uma ovelha*, a syllable longer). Natural order puts the object before the comparison.",
+      "options": [
+        {
+          "label": "guiais",
+          "forms": {
+            "deducis": "guiais"
+          },
+          "note": "Ruling: D22, 76:21.",
+          "from": "glossary"
+        },
+        {
+          "label": "conduzis",
+          "forms": {
+            "deducis": "conduzis"
+          },
+          "note": "MS1932; the cognate (not an imperative here, so rule 3 does not bar it).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "manifestare",
+      "refs": [
+        "79:2b"
+      ],
+      "latin": "manifestáre",
+      "kind": "word",
+      "why": "A passive imperative, 'show yourself' (ἐμφάνηθι, 'appear'). The reflexive cognate says it exactly, and keeps it apart from *osténde → mostrai* two verses on. DRB 'shine forth', MS1932 *manifesta-te*. Safe under rule 3 (past *manifestei*).",
+      "options": [
+        {
+          "label": "manifestai-vos",
+          "forms": {
+            "manifestare": "manifestai-vos"
+          },
+          "note": "Ruling: the cognate; MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "mostrai-vos",
+          "forms": {
+            "manifestare": "mostrai-vos"
+          },
+          "note": "plainer; merges with *osténde* in the refrain.",
+          "from": "draft"
+        },
+        {
+          "label": "aparecei",
+          "forms": {
+            "manifestare": "aparecei"
+          },
+          "note": "the Greek's sense; loses the Latin's root.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "excita",
+      "refs": [
+        "79:3"
+      ],
+      "latin": "Éxcita poténtiam tuam",
+      "kind": "glossary",
+      "why": "*excitáre* is 'rouse, wake up' (ἐξέγειρον), the image of a power that sleeps; *despertai* keeps it and is safe (past *despertei*). *poténtia → potência* follows the open row (64:7, 70:19 *A vossa potência*); *poder* is *virtus*'s, and *virtútum* stands two verses later. MS1932 *Mostra o teu poder* loses the waking.",
+      "options": [
+        {
+          "label": "Despertai a vossa potência",
+          "forms": {
+            "excita": "Despertai a vossa potência"
+          },
+          "note": "Ruling: the image; the *poténtia* row.",
+          "from": "draft"
+        },
+        {
+          "label": "Despertai o vosso poder",
+          "forms": {
+            "excita": "Despertai o vosso poder"
+          },
+          "note": "plainer; merges with *virtus → poder*.",
+          "from": "draft"
+        },
+        {
+          "label": "Suscitai a vossa potência",
+          "forms": {
+            "excita": "Suscitai a vossa potência"
+          },
+          "note": "DRB 'Stir up'; more bookish.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "salvos",
+      "refs": [
+        "79:3"
+      ],
+      "latin": "ut salvos fácias nos",
+      "kind": "grammar",
+      "why": "*salvum fácere → salvar* (row). The purpose clause is kept finite, as the Latin's subjunctive is; it also sits within a syllable of the Latin colon. *para nos salvar* (DRB 'to save us') is shorter by two.",
+      "options": [
+        {
+          "label": "para que nos salveis",
+          "forms": {
+            "salvos": "para que nos salveis"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "para nos salvar",
+          "forms": {
+            "salvos": "para nos salvar"
+          },
+          "note": "MS1932, DRB.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "79:5"
+      ],
+      "latin": "irascéris super oratiónem",
+      "kind": "word",
+      "why": "*irásci super* is anger directed at (ἐπί + acc.); *irar-se sobre* is not Portuguese. 73:1 *irátus est furor tuus super oves* → *se irou o vosso furor contra as ovelhas* sets the precedent; DRB 'angry against'. MS1932 *sem ouvir a oração* paraphrases.",
+      "options": [
+        {
+          "label": "contra",
+          "forms": {
+            "super": "contra"
+          },
+          "note": "Ruling: 73:1, DRB.",
+          "from": "draft"
+        },
+        {
+          "label": "diante de",
+          "forms": {
+            "super": "diante de"
+          },
+          "note": "softer; the anger in the presence of the prayer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cibabis",
+      "refs": [
+        "79:6"
+      ],
+      "latin": "Cibábis nos pane lacrimárum",
+      "kind": "order",
+      "why": "Two futures that DRB and MS1932 both read as a continuation of 79:5's 'how long'; DO's Latin ends the verse with a question mark, and so does the Portuguese — no *até quando* supplied (MS1932 supplies it in parentheses). *cibáre* 'to feed' → *alimentar*. The bread is put first so that the colon ends on a stressed verb rather than on the proparoxytone *lágrimas*, and so that the verse does not open on a clitic.",
+      "options": [
+        {
+          "label": "nos alimentareis",
+          "forms": {
+            "cibabis": "nos alimentareis"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "nos sustentareis",
+          "forms": {
+            "cibabis": "nos sustentareis"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mensura",
+      "refs": [
+        "79:6"
+      ],
+      "latin": "et potum dabis nobis in lácrimis in mensúra?",
+      "kind": "ambiguity",
+      "why": "*in mensúra* (ἐν μέτρῳ): drink measured out, which may be rationed or full — the Latin does not say which. *por medida* is the plain Portuguese for 'by measure' and leaves that open; *com medida* would say 'sparingly', MS1932's *com abundância* is the Hebrew's 'a third-measure' read as plenty. *in lácrimis* 'in tears' is taken as the drink itself (DRB 'give us for our drink tears'), which *dar a beber lágrimas* says without the ambiguous *em lágrimas* ('while weeping').",
+      "options": [
+        {
+          "label": "por medida",
+          "forms": {
+            "mensura": "por medida"
+          },
+          "note": "Ruling: DRB 'in measure'.",
+          "from": "draft"
+        },
+        {
+          "label": "com medida",
+          "forms": {
+            "mensura": "com medida"
+          },
+          "note": "decides for 'sparingly'.",
+          "from": "draft"
+        },
+        {
+          "label": "em abundância",
+          "forms": {
+            "mensura": "em abundância"
+          },
+          "note": "MS1932 (*com abundância*); the Hebrew's sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "contradictio",
+      "refs": [
+        "79:7"
+      ],
+      "latin": "Posuísti nos in contradictiónem vicínis nostris",
+      "kind": "glossary",
+      "why": "*contradíctio → contenda* (row: the blind reader heard *contradições* as inconsistencies at 17:44). *Posuísti nos* + predicate is built as 43:14 *Fizestes de nós uma afronta para os nossos vizinhos* (the same verb, the same neighbours). We are made a thing our neighbours dispute over (ἀντιλογία); DRB 'a contradiction to our neighbours', MS1932 *um objecto de disputa para*.",
+      "options": [
+        {
+          "label": "contenda para",
+          "forms": {
+            "contradictio": "contenda para"
+          },
+          "note": "Ruling: the row; the 43:14 build without the article (stylist v1: *uma contenda* sounds like one quarrel handed over).",
+          "from": "glossary"
+        },
+        {
+          "label": "motivo de contenda para",
+          "forms": {
+            "contradictio": "motivo de contenda para"
+          },
+          "note": "clearer; supplies *motivo*.",
+          "from": "draft"
+        },
+        {
+          "label": "objeto de disputa para",
+          "forms": {
+            "contradictio": "objeto de disputa para"
+          },
+          "note": "MS1932; leaves the row's word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "uma contenda para",
+          "forms": {
+            "contradictio": "uma contenda para"
+          },
+          "note": "draft 1; the 43:14 build to the letter.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ejecisti",
+      "refs": [
+        "79:9"
+      ],
+      "latin": "ejecísti gentes",
+      "kind": "word",
+      "why": "*ejícere* 'cast out' (ἐξέβαλες) → *lançar fora* (MS1932), kept apart from *expéllere → expulsar* (43:3 *et expulísti eos → e os expulsastes*, the same story of the conquest).",
+      "options": [
+        {
+          "label": "lançastes fora",
+          "forms": {
+            "ejecisti": "lançastes fora"
+          },
+          "note": "Ruling: MS1932; DRB 'cast out'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "expulsastes",
+          "forms": {
+            "ejecisti": "expulsastes"
+          },
+          "note": "plainer; merges with *expéllere* (43:3).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "79:10"
+      ],
+      "latin": "Dux itíneris fuísti in conspéctu ejus",
+      "kind": "glossary",
+      "why": "*in conspéctu* + genitive → *à vista de* (the *conspéctus* row's proposal, tried on 5:9, 22:5, 55:9). Here the Greek is ἔμπροσθεν αὐτῆς 'before it', which *diante dela* (MS1932) says more plainly; kept to the row so that the 51 places stay one. *dux → guia* (row), *iter → caminho* (row).",
+      "options": [
+        {
+          "label": "diante dela",
+          "forms": {
+            "conspectu": "diante dela"
+          },
+          "note": "Ruling in draft 2: the stylist (v1) heard *à vista* first as \"in cash\" and the phrase as bureaucratic; the ambiguity reader lost the link of *dela* to the vine. The Greek is ἔμπροσθεν, \"before\"; MS1932 *diante dela*. A local departure from the conspéctus row, recorded there.",
+          "from": "stylist"
+        },
+        {
+          "label": "à vista dela",
+          "forms": {
+            "conspectu": "à vista dela"
+          },
+          "note": "draft 1: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante dela",
+          "forms": {
+            "conspectu": "diante dela"
+          },
+          "note": "MS1932; the Greek's 'before'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "arbusta",
+      "refs": [
+        "79:11"
+      ],
+      "latin": "et arbústa ejus cedros Dei",
+      "kind": "word",
+      "why": "*arbústa* are the trees a vine is trained on (L&S; Greek ἀναδενδράδες, 'vines climbing trees'); here the vine's upper growth that covered the cedars. The verb is carried over from the first colon, as the Latin does: a comma marks the ellipsis. Three growth words follow in 79:11–12 (*arbústa, pálmites, propágines*) and each keeps its own: *ramos, sarmentos, rebentos* (MS1932 has *sarmentos, ramagem, rebentos*). Draft 2: the Latinist (v1) held *ramos* to narrow *arbústa* (trees, a planted grove) and to blur it with *pálmites*; *arvoredo* taken. The ambiguity reader heard the verbless colon as apposition (*its branches were the cedars of God*); the gapped verb is supplied, as grammar (D2): *e o seu arvoredo cobriu os cedros de Deus* would repeat *cobriu*; *e o seu arvoredo, os cedros de Deus* keeps the ellipsis but is misheard. Supplied as *cobriu* in the slot so the whole choice is one touch.",
+      "options": [
+        {
+          "label": "o seu arvoredo cobriu",
+          "forms": {
+            "arbusta": "o seu arvoredo cobriu"
+          },
+          "note": "Ruling in draft 2: the Latinist's noun; the verb of the first colon supplied against the misheard apposition.",
+          "from": "latinist"
+        },
+        {
+          "label": "os seus ramos",
+          "forms": {
+            "arbusta": "os seus ramos,"
+          },
+          "note": "Ruling: DRB 'branches'.",
+          "from": "DRB"
+        },
+        {
+          "label": "as suas ramagens",
+          "forms": {
+            "arbusta": "as suas ramagens,"
+          },
+          "note": "collective; closer to the Latin's plural of growth.",
+          "from": "draft"
+        },
+        {
+          "label": "o seu arvoredo, (ellipsis)",
+          "forms": {
+            "arbusta": "o seu arvoredo,"
+          },
+          "note": "the Latinist's fix to the letter; keeps the Latin's ellipsis, heard as apposition.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "vindemiant",
+      "refs": [
+        "79:13"
+      ],
+      "latin": "et vindémiant eam omnes",
+      "kind": "word",
+      "why": "*vindemiáre* is to gather the grapes (τρυγῶσιν); *vindimar* is the one word for it, and MS1932's. The ambiguity reader is asked whether it is understood; *colhem as suas uvas* explains it in three words.",
+      "options": [
+        {
+          "label": "vindimam",
+          "forms": {
+            "vindemiant": "vindimam"
+          },
+          "note": "Ruling: the Latin's one word; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "colhem as uvas",
+          "forms": {
+            "vindemiant": "colhem as uvas"
+          },
+          "note": "plainer; drops the pronoun *eam* into *as uvas*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exterminavit",
+      "refs": [
+        "79:14"
+      ],
+      "latin": "Exterminávit eam aper de silva",
+      "kind": "word",
+      "why": "In church Latin *extermináre* is to destroy, lay waste (L&S; DRB 'hath laid it waste'); the Greek here is ἐλυμήνατο, 'ravaged'. 43:3 has *extermináre* of nations (ἐξωλέθρευσεν) → *exterminou*; D15's test lets two Greek verbs part, and a vine is ravaged rather than exterminated. *silva → selva* (D44).",
+      "options": [
+        {
+          "label": "Devastou-a",
+          "forms": {
+            "exterminavit": "Devastou-a"
+          },
+          "note": "Ruling: DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "Exterminou-a",
+          "forms": {
+            "exterminavit": "Exterminou-a"
+          },
+          "note": "the cognate, as 43:3.",
+          "from": "draft"
+        },
+        {
+          "label": "Destruiu-a",
+          "forms": {
+            "exterminavit": "Destruiu-a"
+          },
+          "note": "MS1932; merges with *destrúere* (79:13).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "singularis",
+      "refs": [
+        "79:14"
+      ],
+      "latin": "et singuláris ferus",
+      "kind": "word",
+      "why": "*singuláris ferus* is the wild beast that lives alone (μονιὸς ἄγριος; the solitary boar of the first colon, or another beast — the Latin does not say). *solitária* says it; DRB's calque 'a singular wild beast' would be heard as 'remarkable'; MS1932 *a fera selvagem* drops *singuláris*.",
+      "options": [
+        {
+          "label": "a fera solitária",
+          "forms": {
+            "singularis": "a fera solitária"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "a fera selvagem",
+          "forms": {
+            "singularis": "a fera selvagem"
+          },
+          "note": "MS1932; drops *singuláris*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "depastus",
+      "refs": [
+        "79:14"
+      ],
+      "latin": "depástus est eam",
+      "kind": "glossary",
+      "why": "D43: *depáscere → pastar* (48:15 *a morte os pastará*). The Greek κατενεμήσατο is 'grazed it down', which is exactly *pastar* with an object. *devorou* (MS1932, DRB) is the stronger, freer word. Draft 2: the stylist's order *e pastou-a a fera solitária* (v1): it answers *Devastou-a* in the first colon and removes the *a … a* of article and clitic. Order only (D2).",
+      "options": [
+        {
+          "label": "pastou-a",
+          "forms": {
+            "depastus": "pastou-a"
+          },
+          "note": "Ruling: D43.",
+          "from": "glossary"
+        },
+        {
+          "label": "devorou-a",
+          "forms": {
+            "depastus": "devorou-a"
+          },
+          "note": "MS1932, DRB.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "perfice",
+      "refs": [
+        "79:16"
+      ],
+      "latin": "Et pérfice eam, quam plantávit",
+      "kind": "glossary",
+      "why": "*perfícere → aperfeiçoar* (row, which tried *aperfeiçoai* on this verse; safe, past *aperfeiçoei*). κατάρτισαι is 'make whole, restore', which *aperfeiçoar* covers. *eam, quam* → *aquela que*: the vine, not named, as in the Latin. MS1932 *Protege* paraphrases.",
+      "options": [
+        {
+          "label": "aperfeiçoai",
+          "forms": {
+            "perfice": "aperfeiçoai"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "restaurai",
+          "forms": {
+            "perfice": "restaurai"
+          },
+          "note": "the Greek's sense; not the Latin's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confirmasti",
+      "refs": [
+        "79:16",
+        "79:18"
+      ],
+      "latin": "quem confirmásti tibi",
+      "kind": "glossary",
+      "why": "The same colon twice, identical. *confirmáre* with a person as object → *firmar* (the row's proposal, 37:3, 40:13, 50:14, 70:6); the Greek is ἐκραταίωσας σεαυτῷ, 'made strong for yourself'. *confirmastes* would be heard as attesting (36:17). The ellipsis *e sobre o filho do homem* (79:16) is the Latin's own, left as it is. *fílius hóminis* lowercase (row).",
+      "options": [
+        {
+          "label": "que firmastes para vós",
+          "forms": {
+            "confirm16": "que firmastes para vós",
+            "confirm18": "que firmastes para vós"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "que fortalecestes para vós",
+          "forms": {
+            "confirm16": "que fortalecestes para vós",
+            "confirm18": "que fortalecestes para vós"
+          },
+          "note": "the Greek's 'strengthened'; MS1932's option in the row.",
+          "from": "draft"
+        },
+        {
+          "label": "que escolhestes para vós",
+          "forms": {
+            "confirm16": "que escolhestes para vós",
+            "confirm18": "que escolhestes para vós"
+          },
+          "note": "MS1932; interprets.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "incensa",
+      "refs": [
+        "79:17"
+      ],
+      "latin": "Incénsa igni, et suffóssa",
+      "kind": "ambiguity",
+      "why": "*incénsa … suffóssa* can be feminine singular (the vine) or neuter plural ('things set on fire', DRB). The Greek has the feminine singular (ἐμπεπυρισμένη … ἀνεσκαμμένη) and MS1932 reads the vine; Portuguese must choose a gender, and the Greek decides it. *perecerão* stays plural with no subject named, as *períbunt* — the vine's burners or the vine's people; the Latin does not say. *suffódere* 'dig under' (L&S; ἀνεσκαμμένη 'dug up'): *escavada*; MS1932 *arrancada* interprets.",
+      "options": [
+        {
+          "label": "Queimada a fogo, e escavada",
+          "forms": {
+            "incensa": "Queimada a fogo, e escavada"
+          },
+          "note": "Ruling: the vine, as the Greek.",
+          "from": "draft"
+        },
+        {
+          "label": "As coisas queimadas a fogo, e escavadas",
+          "forms": {
+            "incensa": "As coisas queimadas a fogo, e escavadas"
+          },
+          "note": "DRB's neuter plural; supplies *coisas*.",
+          "from": "DRB"
+        },
+        {
+          "label": "Queimada a fogo, e arrancada",
+          "forms": {
+            "incensa": "Queimada a fogo, e arrancada"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "discedimus",
+      "refs": [
+        "79:19"
+      ],
+      "latin": "Et non discédimus a te",
+      "kind": "grammar",
+      "why": "The Latin is present, *discédimus* (the Greek's οὐ μὴ ἀποστῶμεν is an emphatic future); DRB keeps the present 'we depart not', MS1932 makes it a future with *Então*. Kept present, as the Latin. *discédere a → afastar-se de* (row).",
+      "options": [
+        {
+          "label": "não nos afastamos",
+          "forms": {
+            "discedimus": "não nos afastamos"
+          },
+          "note": "Ruling: the Latin's tense; DRB.",
+          "from": "draft"
+        },
+        {
+          "label": "não nos afastaremos",
+          "forms": {
+            "discedimus": "não nos afastaremos"
+          },
+          "note": "MS1932; the Greek's sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "vivificabis",
+      "refs": [
+        "79:19"
+      ],
+      "latin": "vivificábis nos",
+      "kind": "glossary",
+      "why": "*vivificáre → vivificar* (row; 118, 40:3, 70:20). The subject *vós* is named so that the clitic has a word before it; *de vós, vós* makes a turn from 'we' to 'you' that the Latin makes by the verb ending. The mesóclise *vivificar-nos-eis* avoids the repetition but is heavy. Draft 2: the stylist (v1) heard *de vós, vós* as a stammer; the first colon is reordered *E de vós não nos afastamos*, so the two pronouns are no longer side by side (order only). His *nos vivificareis* (clitic opening the clause) is not written Portuguese; the mesóclise stays an option.",
+      "options": [
+        {
+          "label": "vós nos vivificareis",
+          "forms": {
+            "vivificabis": "vós nos vivificareis"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "vivificar-nos-eis",
+          "forms": {
+            "vivificabis": "vivificar-nos-eis"
+          },
+          "note": "mesóclise; two syllables shorter.",
+          "from": "draft"
+        },
+        {
+          "label": "vós nos dareis a vida",
+          "forms": {
+            "vivificabis": "vós nos dareis a vida"
+          },
+          "note": "MS1932 *tu nos darás a vida*; the row's option.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "fiat",
+      "refs": [
+        "79:18"
+      ],
+      "latin": "Fiat manus tua super",
+      "kind": "glossary",
+      "why": "The *fíeri* row: jussive *Fiat* → *Seja* (118:173 *Seja a vossa mão para me salvar*, held twice against the stylist). The stylist (v1) called *Seja … sobre* a calque and asked *Esteja*: that turns a becoming into a state, which *fíeri* is not. Held; *Esteja* one touch away.",
+      "options": [
+        {
+          "label": "Seja",
+          "forms": {
+            "fiat": "Seja"
+          },
+          "note": "Ruling: the row, as 118:173.",
+          "from": "glossary"
+        },
+        {
+          "label": "Esteja",
+          "forms": {
+            "fiat": "Esteja"
+          },
+          "note": "stylist v1.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "79:2": "*inténde → atendei* (D3), absolute as the Latin. The anaphora *Qui … qui … Qui* (79:2, 2b) is said *Vós que* three times: the named subject lets each relative clause be heard as said to God.",
+    "79:2b": "*sedes super Chérubim → estais sentado sobre os querubins* (as 46:9 *está sentado sobre*); first colon +3 syllables over the Latin, accepted: the state 'seated' needs the auxiliary. *coram → diante de*. The Latin's *et* before *Manásse* kept.",
+    "79:4": "The refrain, first form. 79:8 and 79:20 are built from the same slots; only the title grows, as in the Latin.",
+    "79:5": "*quoúsque → até quando* (as *úsquequo*). Draft 2: *irascéris* → *estareis irado* (the stylist, v1: *vos irareis* is a knot of r's), the future said as copula + participle — grammar (D2), the verb's root kept. *servus → servo* (row).",
+    "79:6": "*pane lacrimárum → pão de lágrimas*, singular, as the Latin. Draft 2: *in lácrimis* kept as a prepositional phrase with *dar de beber* for *potum dare* (the Latinist, v1): *e nos dareis de beber em lágrimas* — the drink that is tears, or given while weeping; the Latin's *in* holds both.",
+    "79:7": "*subsannáre → zombar de* (row).",
+    "79:9": "*transférre → transportar* (D43). *víneam* without an article in Latin: *uma vinha* (DRB 'a vineyard'); put at the end of the colon, the natural place for the new thing.",
+    "79:10": "Draft 2: the subject *ela* named (the stylist, v1; the ambiguity reader heard God first): *implévit* is singular, so it is the vine, not the roots or God. *dux → guia*, *iter → caminho* (rows).",
+    "79:11": "Natural order: *A sua sombra cobriu os montes* (the Latin has the verb first).",
+    "79:12": "*pálmites → sarmentos*, *propágines → rebentos* (MS1932 for the second). *usque ad → até*.",
+    "79:13": "*Ut quid → Por que* (as 73:1). *macéria → cerca* (row, 61:4). Draft 2: the stylist's order (v1), the subject before the verb, so that *e a vindimam* is not heard as *e à vindima* and the pronoun is no longer next to *cerca*.",
+    "79:15": "*Convértere* with God as subject → *Voltai-vos* (formula row; 6:5). *réspice → olhai*; *vísita → visitai* (row).",
+    "79:17": "*igni → a fogo*. Singular participles and a plural verb with no subject: the Latin's (*incénsa … períbunt*). The stylist asked a colon at the mark to let the plural begin a new thought (refused: it makes the participles a sentence of their own, MS1932's reading, where the Latin runs on). *ab increpatióne → à repreensão* (formula row); *vultus → rosto* (row).",
+    "79:18": "*Fiat manus tua → Seja a vossa mão* (the *fíeri* row, as 118:173). *vir déxteræ tuæ → o homem da vossa direita*; *déxtera → direita* (row).",
+    "79:19": "*invocáre → invocar* (row). Natural order: *e invocaremos o vosso nome*.",
+    "79:20": "The refrain with its fullest title, *Senhor, Deus dos poderes*, = 79:5's address.",
+    "79:14": "The Latin's order, verb first, in both colons: *Devastou-a … e pastou-a* (draft 1's *O javali da selva a devastou … a pastou* rhymed at both cadences; draft 2 takes the stylist's order in the second colon). *silva → selva* (D44)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps079.md (Latin, LXX, WLC, DRB, MS1932; no DM1962 for this psalm). DO's Portuguese not used (D12). Rulings applied: D2, D3 (*atender*), D5 n/a, D22 (*guiar*), D25 (*converter* for God turning men), D43 (*Deus dos poderes*, *transportar*, *pastar*), D44 (*selva*, *raiz*). Rows applied: régere, dedúcere, convértere, *Convértere Dómine*, fácies, osténdere, úsquequo, irásci, subsannáre, contradíctio, dux, iter, conspéctus, radix, macéria, destrúere, silva, depáscere, respícere, visitáre, perfícere, déxtera, fílius hóminis, confirmáre, *Ab increpatióne*, vultus, períre, fíeri, discédere, vivificáre, invocáre, poténtia, salvum fácere. Hard readings: 79:6 *in lácrimis in mensúra*; 79:7 *in contradictiónem*; 79:11 *arbústa*; 79:14 *singuláris ferus*; 79:17 the gender of *incénsa … suffóssa* and the subject of *períbunt*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. Soft flags: 79:14 rhyme at both cadences (*devastou … pastou*) — fixed by the Latin's verb-first order; 79:2 second colon +3 — *como ovelha* without the article (+2 left); 79:17 first colon +3 — *a fogo* for *pelo fogo*. Accepted: 79:2b first colon +5 (heuristic counts no elision; *estais sentado* needs the auxiliary), 79:15 second colon -3 (the Latin's proparoxytones), 79:16 first colon +3 (*aperfeiçoai aquela que* — the row's verb and the Latin's relative)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Three minors, no major. Two taken (79:6, 79:11); 79:17 asked no change.",
+      "outcomes": [
+        {
+          "verse": "79:6",
+          "remark": "*in lácrimis* made the object; keep the preposition",
+          "outcome": "taken",
+          "reason": "*e nos dareis de beber em lágrimas* — *dar de beber* is *potum dare*, and *em* keeps the Latin's openness."
+        },
+        {
+          "verse": "79:11",
+          "remark": "*arbústa* is trees/grove, not branches; *arvoredo*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:17",
+          "remark": "feminine singular settles the Latin's gender/number; acceptable, note the reason",
+          "outcome": "refused",
+          "decision": "incensa",
+          "reason": "he asks no change; the reason (the Greek's feminine singular) is in the decision."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context. Ten remarks on nine verses; best line 79:4 (the refrain), worst 79:17. Seven taken (grammar and order), 79:9 refused (D43), 79:17 refused, 79:18 kept as an option.",
+      "outcomes": [
+        {
+          "verse": "79:5",
+          "remark": "*vos irareis* knotted; *estareis irado*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:7",
+          "remark": "drop the article: *contenda para*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:9",
+          "remark": "*Transportastes* heavy; *Trasladastes*",
+          "outcome": "refused",
+          "reason": "D43 settled *transférre → transportar* and refused *trasladar* as a word for relics; one row across the psalter."
+        },
+        {
+          "verse": "79:10",
+          "remark": "*à vista dela* heard as 'in cash', bureaucratic; *diante dela*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:10",
+          "remark": "*e encheu* has no subject; *e ela encheu*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:13",
+          "remark": "*e a vindimam* blurs; subject first",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:14",
+          "remark": "*a fera solitária a pastou*; *e pastou-a a fera solitária*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:17",
+          "remark": "colon at the mark so the plural begins a new thought",
+          "outcome": "refused",
+          "reason": "it cuts the participles off from *perecerão* as a sentence of their own, closing what the Latin runs on; the number clash is the Latin's."
+        },
+        {
+          "verse": "79:18",
+          "remark": "*Seja … sobre* calqued; *Esteja*",
+          "outcome": "option",
+          "decision": "fiat",
+          "reason": "the *fíeri* row (*Seja* for jussive *Fiat*, 118:173 held twice against the same request); *Esteja* makes it a state."
+        },
+        {
+          "verse": "79:19",
+          "remark": "*de vós, vós* stammer; drop the second *vós*",
+          "outcome": "taken",
+          "reason": "taken in substance by reordering (*E de vós não nos afastamos, vós nos vivificareis*); his clitic-first *nos vivificareis* is not written Portuguese."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. Most readings are the Latin's own; three fixed (79:10, 79:11, 79:13).",
+      "outcomes": [
+        {
+          "verse": "79:2",
+          "remark": "*José* heard as one person",
+          "outcome": "refused",
+          "reason": "the Latin's name, singular as the Latin's *ovem*; nothing to add without explaining."
+        },
+        {
+          "verse": "79:4",
+          "remark": "*convertei-nos* heard as moral conversion first",
+          "outcome": "refused",
+          "decision": "convert",
+          "reason": "the sense ruled for (D25's exception); *fazei-nos voltar* is option 2."
+        },
+        {
+          "verse": "79:5",
+          "remark": "*Deus dos poderes* heard abstractly",
+          "outcome": "refused",
+          "decision": "virtutum",
+          "reason": "D43; *dos exércitos* option, flagged for Gustavo there."
+        },
+        {
+          "verse": "79:6",
+          "remark": "heard as a statement until the question mark; *por medida* heard as limited",
+          "outcome": "refused",
+          "reason": "both are the Latin's: its question mark comes at the end too, and *in mensúra* is open."
+        },
+        {
+          "verse": "79:7",
+          "remark": "*contenda* vague and unknown",
+          "outcome": "refused",
+          "decision": "contradictio",
+          "reason": "the row's word (17:44, 30:21, 54:10); options kept."
+        },
+        {
+          "verse": "79:10",
+          "remark": "subject of *encheu*; *à vista dela* loose",
+          "outcome": "taken"
+        },
+        {
+          "verse": "79:11",
+          "remark": "heard as apposition 'its branches were the cedars'",
+          "outcome": "taken",
+          "reason": "the gapped verb supplied."
+        },
+        {
+          "verse": "79:13",
+          "remark": "*a* heard as the fence; *vindimam* unknown",
+          "outcome": "taken",
+          "reason": "the reorder moves the pronoun away from *cerca*; *vindimar* kept (the Latin's one word), *colhem as uvas* option."
+        },
+        {
+          "verse": "79:14",
+          "remark": "*pastou* heard as 'shepherded'",
+          "outcome": "refused",
+          "decision": "depastus",
+          "reason": "D43 (*depáscere → pastar*), the same double hearing as 48:15; *devorou-a* option."
+        },
+        {
+          "verse": "79:16",
+          "remark": "*e sobre o filho do homem* a verbless fragment; heard as Christ",
+          "outcome": "refused",
+          "reason": "the Latin's ellipsis (DRB keeps it) and the Latin's phrase; nothing supplied."
+        },
+        {
+          "verse": "79:17",
+          "remark": "no noun for *Queimada*; subject of *perecerão* unheard",
+          "outcome": "refused",
+          "decision": "incensa",
+          "reason": "the Latin's; the vine is two verses back in both languages."
+        },
+        {
+          "verse": "79:19",
+          "remark": "present *afastamos* may sound boastful; link to *vivificareis* unclear",
+          "outcome": "refused",
+          "decision": "discedimus",
+          "reason": "the Latin's present and parataxis."
+        },
+        {
+          "verse": "79:12",
+          "remark": "unknown: *sarmentos*, *rebentos*",
+          "outcome": "refused",
+          "reason": "three growth words need three words; concrete images stay (rule 5)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 79:5 *estareis irado*; 79:6 *dar de beber em lágrimas*; 79:7 article dropped; 79:10 *diante dela*, *ela* named; 79:11 *o seu arvoredo cobriu*; 79:13 subject before verb; 79:14 *e pastou-a a fera solitária*; 79:19 *E de vós não nos afastamos*. The refrain untouched."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass, no rhyme flag. New length flags accepted: 79:5 second colon +4 (*estareis irado* for *vos irareis*; the counter elides nothing, and the stylist asked for it), 79:10 +3 (*ela* named), 79:11 second colon +5 (the gapped *cobriu* supplied; it is what makes the colon heard rightly)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2 — claude-opus-5-5, fresh context, with latin.json. No remarks: clean. He names the supplied *cobriu* (79:11) as ellipsis supply, not added content.",
+      "outcomes": []
+    },
+    {
+      "step": "fix",
+      "note": "site check: the v2 reorder of 79:19 had written *não nos afastamos* as plain text, leaving decision *discedimus* with no slot; the slot is restored (*E de vós {discedimus}*), same text."
+    }
+  ]
+}

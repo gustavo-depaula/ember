@@ -1,0 +1,811 @@
+{
+  "psalm": 78,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "78:1": "Deus, vieram as nações à vossa herança, {polluerunt} o vosso templo santo: * {custodiam}.",
+    "78:2": "Puseram {morticina} dos vossos servos como comida às aves do céu: * as carnes dos vossos santos, às feras da terra.",
+    "78:3": "Derramaram o sangue deles como água ao redor de Jerusalém: * e não havia {sepeliret}.",
+    "78:4": "Tornamo-nos uma afronta para os nossos vizinhos: * zombaria e escárnio para os que estão ao nosso redor.",
+    "78:5": "Até quando, Senhor, vos irareis para sempre: * como fogo se acenderá o vosso zelo?",
+    "78:6": "Derramai a vossa ira sobre as nações que não vos conhecem: * e sobre os reinos que não invocaram o vosso nome:",
+    "78:7": "Porque {comederunt} Jacó: * e {desolaverunt}.",
+    "78:8": "Não vos lembreis das nossas iniquidades antigas, depressa {anticipent} as vossas misericórdias: * porque nos tornamos {nimis}.",
+    "78:9": "{adjuva}, Deus, nosso Salvador: e por causa da glória do vosso nome, Senhor, livrai-nos: * e {propitius}, por causa do vosso nome:",
+    "78:10": "Para que não digam entre as nações: Onde está o Deus deles? * e {innotescat} entre {nationibus}, diante dos nossos olhos,",
+    "78:10b": "a vingança do sangue dos vossos servos, que foi derramado: * {introeat} o gemido {compeditorum}.",
+    "78:11": "Segundo a grandeza do vosso braço, * {possideMort}.",
+    "78:12": "E pagai {septuplum}: * {improperium}, Senhor.",
+    "78:13": "Nós, porém, o vosso povo, e as ovelhas da vossa pastagem, * vos daremos graças para sempre.",
+    "78:13b": "De geração em geração * anunciaremos o vosso louvor."
+  },
+  "decisions": [
+    {
+      "id": "propitius",
+      "refs": [
+        "78:9"
+      ],
+      "latin": "et propítius esto peccátis nostris",
+      "kind": "glossary",
+      "why": "The glossary row propitiári (open) renders the family *ser propício*, and 24:11 and 64:4 say *sereis propício ao meu pecado / às nossas impiedades*. Two blind readers (Ps 24, Ps 64) heard God favouring the sin, and both listed *propício* as unknown: in Portuguese *propício a X* is 'favourable to X', and with a sin as X it says the opposite of the prayer. In Latin the dative of the sin after *propítius* is the prayer idiom for 'be gracious about, i.e. pardon' (ἱλάσθητι ταῖς ἁμαρτίαις; DRB 'forgive', MS1932 'perdoa'). This verse is also said alone — the Lenten Tract *Dómine, non secúndum* (78:8–9), the Thursday Matins antiphon of this psalm *Ádjuva nos, Deus, salutáris noster: et propítius esto peccátis nostris*, and the Christmas-season versicle (Nat2-0) — so a wrong first hearing here would be repeated more than anywhere else in the family. Ruling: *sede clemente com os nossos pecados*. *Clemência* is mercy shown to a fault: one can be clement only with what is a wrong, so the phrase cannot be heard as approving the sins, and it asks exactly what the Latin asks (mildness in judging them). It is the plainest word of mercy a Brazilian Catholic knows (*ó clemente, ó piedosa* in the Salve Rainha). *Clemens / cleméntia* never occur in the Latin psalter (grep), so it collides with nothing; *perdoar* is kept for *dimíttere* (24:18; the Our Father's *perdoai-nos*), *misericordioso* for *miséricors* (77:38 has both words side by side). Cost: the Latin's word is not kept in Portuguese where its object is a sin; where the object is a person or the land (98:8 *propítius fuísti eis*, 32:65 of the canticle *propítius erit terræ*) *propício* can stay. Proposed to the row for the whole family (24:11, 64:4, 77:38, 102:3).",
+      "options": [
+        {
+          "label": "sede clemente com os nossos pecados",
+          "forms": {
+            "propitius": "sede clemente com os nossos pecados"
+          },
+          "note": "Ruling: mercy to a fault; cannot be heard as favouring sin.",
+          "from": "draft"
+        },
+        {
+          "label": "sede propício aos nossos pecados",
+          "forms": {
+            "propitius": "sede propício aos nossos pecados"
+          },
+          "note": "The glossary row as applied at 24:11 and 64:4; heard by two blind readers as favouring the sins.",
+          "from": "glossary"
+        },
+        {
+          "label": "perdoai os nossos pecados",
+          "forms": {
+            "propitius": "perdoai os nossos pecados"
+          },
+          "note": "DRB 'forgive', MS1932 'perdoa' — the sense, but a verb for an adjective, and dimíttere's word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sede-nos propício apesar dos nossos pecados",
+          "forms": {
+            "propitius": "sede-nos propício apesar dos nossos pecados"
+          },
+          "note": "Keeps the word; supplies 'us' and a concession the Latin does not say.",
+          "from": "draft"
+        },
+        {
+          "label": "sede indulgente com os nossos pecados",
+          "forms": {
+            "propitius": "sede indulgente com os nossos pecados"
+          },
+          "note": "Ps 24's third option; 'indulgente' leans to 'permissive'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "custodiam",
+      "refs": [
+        "78:1"
+      ],
+      "latin": "posuérunt Jerúsalem in pomórum custódiam",
+      "kind": "word",
+      "why": "The Latin follows the Greek ὀπωροφυλάκιον, the watchman's shelter in an orchard (the Hebrew's 'heaps of ruins' is not followed). The image is a city left as flimsy and lonely as a fruit-guard's hut. *Posuérunt* is repeated at the head of 78:2, so both verses keep *puseram*; *como* gives the Latin's *in* its sense of 'into the state of'. MS1932 *uma como cabana de guarda frutas*; DRB 'as a place to keep fruit', which can be heard as a storehouse. v2: the stylist found the infinitive periphrasis flat and the ambiguity reader heard a storage shed; *cabana de vigia do pomar* names the watchman's hut (*vigia* is *custódia*'s watch) and removes the storeroom. The Latinist asked the result construction *reduziram Jerusalém a …*: refused, because *posuérunt* is repeated at the head of 78:2 and *puseram … como* keeps the anaphora; *pôr como* can say a result in Portuguese (as 78:2 *como comida*).",
+      "options": [
+        {
+          "label": "como cabana de vigia do pomar",
+          "forms": {
+            "custodiam": "puseram Jerusalém como cabana de vigia do pomar"
+          },
+          "note": "Ruling (v2): the stylist's noun; the guard and the orchard kept.",
+          "from": "stylist"
+        },
+        {
+          "label": "como cabana de guardar frutos",
+          "forms": {
+            "custodiam": "puseram Jerusalém como cabana de guardar frutos"
+          },
+          "note": "Draft 1; heard as a storeroom by the ambiguity reader.",
+          "from": "draft"
+        },
+        {
+          "label": "reduziram Jerusalém a uma cabana de vigia do pomar",
+          "forms": {
+            "custodiam": "reduziram Jerusalém a uma cabana de vigia do pomar"
+          },
+          "note": "The Latinist's result construction; breaks the posuérunt anaphora with 78:2.",
+          "from": "latinist"
+        },
+        {
+          "label": "como um lugar de guardar frutos",
+          "forms": {
+            "custodiam": "puseram Jerusalém como um lugar de guardar frutos"
+          },
+          "note": "DRB's wording; heard as a storeroom.",
+          "from": "DRB"
+        },
+        {
+          "label": "puseram Jerusalém como guarda de frutos",
+          "forms": {
+            "custodiam": "puseram Jerusalém como guarda de frutos"
+          },
+          "note": "The v2 Latinist's letter (custódia as 'a keeping'); not heard as a place.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "polluerunt",
+      "refs": [
+        "78:1"
+      ],
+      "latin": "polluérunt templum sanctum tuum",
+      "kind": "word",
+      "why": "*Pollúere* (ἐμίαναν). 73:7 *in terra polluérunt tabernáculum nóminis tui* is translated in parallel with *macularam*; the two psalms are a pair (the sack of the sanctuary), so one verb for both. *poluíram* is heard as environmental pollution; *profanaram* is another Latin word.",
+      "options": [
+        {
+          "label": "macularam",
+          "forms": {
+            "polluerunt": "macularam"
+          },
+          "note": "Ruling: as 73:7.",
+          "from": "draft"
+        },
+        {
+          "label": "contaminaram",
+          "forms": {
+            "polluerunt": "contaminaram"
+          },
+          "note": "MS1932; *contamináre* has its own row (Ps 54, D44: contaminar).",
+          "from": "MS1932"
+        },
+        {
+          "label": "profanaram",
+          "forms": {
+            "polluerunt": "profanaram"
+          },
+          "note": "Plain in church speech; the Latin's word is not *profanáre*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "morticina",
+      "refs": [
+        "78:2"
+      ],
+      "latin": "morticína servórum tuórum",
+      "kind": "word",
+      "why": "*Morticína* is properly carrion — the carcasses of beasts that died of themselves (L&S; θνησιμαῖα, Lev 11). Said of the servants' bodies it carries contempt: they were left like dead animals. *os cadáveres* (MS1932; DRB 'dead bodies') is the plain word and loses that edge; *as carcaças* keeps it but is heard as the frame of a car or a slaughtered animal.",
+      "options": [
+        {
+          "label": "os cadáveres",
+          "forms": {
+            "morticina": "os cadáveres"
+          },
+          "note": "Ruling: plain; the next colon's 'carnes' carries the image of meat.",
+          "from": "MS1932"
+        },
+        {
+          "label": "as carcaças",
+          "forms": {
+            "morticina": "as carcaças"
+          },
+          "note": "Keeps the carrion; heard as a car's body or a butchered beast.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sepeliret",
+      "refs": [
+        "78:3"
+      ],
+      "latin": "et non erat qui sepelíret",
+      "kind": "grammar",
+      "why": "The Latin has no object. The project's build for *non est qui* + verb without object is to supply none (21:12 *não há quem auxilie*, 49:22, 70:11 *não há quem liberte*). *Sepultar* without object is less usual than *auxiliar*, and MS1932 supplies it (*quem lhes desse sepultura*). v2: the stylist found the colon cut off without the object, and the ambiguity reader heard a second reading, 'no one who was buried'. Supplying an object pronoun is grammar (D2); the object is plain from *sánguinem eórum*. Taken; 21:12 and 70:11 (*auxiliar*, *libertar*) stand, since those verbs are heard well without one.",
+      "options": [
+        {
+          "label": "quem os sepultasse",
+          "forms": {
+            "sepeliret": "quem os sepultasse"
+          },
+          "note": "Ruling (v2): the stylist's; object supplied (DRB, MS1932).",
+          "from": "stylist"
+        },
+        {
+          "label": "quem sepultasse",
+          "forms": {
+            "sepeliret": "quem sepultasse"
+          },
+          "note": "Draft 1: no object, as 21:12, 70:11.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "comederunt",
+      "refs": [
+        "78:7"
+      ],
+      "latin": "Quia comedérunt Jacob",
+      "kind": "word",
+      "why": "*Comédere* (κατέφαγον, 'ate up'). 68:10 *zelus domus tuæ comédit me* → *me devorou* (glossary formula row); the same verb with a person as object. *comeram Jacó* is the letter and sounds like a cannibal feast.",
+      "options": [
+        {
+          "label": "devoraram",
+          "forms": {
+            "comederunt": "devoraram"
+          },
+          "note": "Ruling: as 68:10; MS1932, DRB 'devoured'.",
+          "from": "glossary"
+        },
+        {
+          "label": "comeram",
+          "forms": {
+            "comederunt": "comeram"
+          },
+          "note": "The letter.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "desolaverunt",
+      "refs": [
+        "78:7"
+      ],
+      "latin": "et locum ejus desolavérunt",
+      "kind": "word",
+      "why": "*Desoláre* (ἠρήμωσαν, 'made a desert'). The cognate *desolar* is heard in Brazil first as 'sadden' (*desolado*). *Locus* is 'place' (τόπον); MS1932 *morada* interprets.",
+      "options": [
+        {
+          "label": "deixaram deserto o seu lugar",
+          "forms": {
+            "desolaverunt": "deixaram deserto o seu lugar"
+          },
+          "note": "Ruling: the desert of the Latin and the Greek.",
+          "from": "draft"
+        },
+        {
+          "label": "desolaram o seu lugar",
+          "forms": {
+            "desolaverunt": "desolaram o seu lugar"
+          },
+          "note": "The cognate (MS1932 'desolaram a sua morada'); heard as saddened.",
+          "from": "MS1932"
+        },
+        {
+          "label": "devastaram o seu lugar",
+          "forms": {
+            "desolaverunt": "devastaram o seu lugar"
+          },
+          "note": "Plain; a looser word for the desert.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "anticipent",
+      "refs": [
+        "78:8"
+      ],
+      "latin": "cito antícipent nos misericórdiæ tuæ",
+      "kind": "word",
+      "why": "*Anticipáre nos* (L&S cites this verse: 'to take before one'); προκαταλαβέτωσαν, 'overtake first'. The mercies are to come before us — reach us before we perish. 76:5 *Anticipavérunt vigílias* → *anteciparam* keeps the cognate. *nos antecipem* is understood as 'get ahead of us'; *venham ao nosso encontro* is the sense but a paraphrase. The plural *misericórdiæ* is kept. v2: the stylist called *nos antecipem* a Latinism that means nothing clear, and the ambiguity reader found it odd. In church Latin *anticipáre / præveníre nos* is the mercy that comes first to meet us; *venham ao nosso encontro* says that motion without adding anything, and is the plainer of two faithful wordings (D2). Taken; the Latinist gate (v2) is asked to check it.",
+      "options": [
+        {
+          "label": "venham ao nosso encontro",
+          "forms": {
+            "anticipent": "venham ao nosso encontro"
+          },
+          "note": "Ruling (v2): the stylist's; the mercies come first to meet us.",
+          "from": "stylist"
+        },
+        {
+          "label": "nos antecipem",
+          "forms": {
+            "anticipent": "nos antecipem"
+          },
+          "note": "Draft 1: the Latin's verb, as 76:5; two readers stumbled.",
+          "from": "draft"
+        },
+        {
+          "label": "nos alcancem",
+          "forms": {
+            "anticipent": "nos alcancem"
+          },
+          "note": "The Greek's 'overtake'; loses the 'before'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": [
+        "78:8"
+      ],
+      "latin": "quia páuperes facti sumus nimis",
+      "kind": "glossary",
+      "why": "The nimis row has no single rendering: *sem medida* (37:9, 45:2, 118:138), *muito* (47:2, 118:96, as σφόδρα). *facti sumus* repeats 78:4's *Facti sumus* and keeps its verb (*nos tornamos*).",
+      "options": [
+        {
+          "label": "pobres sem medida",
+          "forms": {
+            "nimis": "pobres sem medida"
+          },
+          "note": "Ruling: as 37:9 humiliátus sum nimis → humilhado sem medida.",
+          "from": "glossary"
+        },
+        {
+          "label": "muito pobres",
+          "forms": {
+            "nimis": "muito pobres"
+          },
+          "note": "The plain adverb (σφόδρα, D22).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "innotescat",
+      "refs": [
+        "78:10",
+        "78:10b"
+      ],
+      "latin": "et innotéscat in natiónibus coram óculis nostris, últio sánguinis…",
+      "kind": "grammar",
+      "why": "The subject of *innotéscat* is *últio* at the head of the next prayed verse (the Greek runs on: γνωσθήτω … ἡ ἐκδίκησις). DO's verse division cuts the sentence; 78:10 must end open and 78:10b begin with its subject. The feminine *conhecida* already points forward to *a vingança*, so the ear holds the thread across the break.",
+      "options": [
+        {
+          "label": "seja conhecida",
+          "forms": {
+            "innotescat": "seja conhecida"
+          },
+          "note": "Ruling: the passive of the Latin inchoative; feminine agreement ties it to 10b.",
+          "from": "draft"
+        },
+        {
+          "label": "se torne conhecida",
+          "forms": {
+            "innotescat": "se torne conhecida"
+          },
+          "note": "Keeps the inchoative *-scat*; one syllable more.",
+          "from": "draft"
+        },
+        {
+          "label": "se dê a conhecer",
+          "forms": {
+            "innotescat": "se dê a conhecer"
+          },
+          "note": "Idiomatic; loses the agreement with 'vingança'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "nationibus",
+      "refs": [
+        "78:10"
+      ],
+      "latin": "in géntibus … in natiónibus",
+      "kind": "word",
+      "why": "The Latin varies *gentes / natiónes* in one verse; the Greek has one word twice (ἔθνη … ἔθνεσιν), so by D15's test the variation is the Latin translator's elegance. *gentes → nações* (glossary); *natiónes* takes the same word. *gentios* for one of them was weighed: it is the glossary's alternative for the Nunc dimittis only, and here it would make one group sound like two. v2: the stylist asked *entre os gentios* for the first, to vary the repetition. Refused for the reason above; *gentios* is his option. His other point (the repeated *entre* primed a misreading of 10b's verb) is met in 10b instead.",
+      "options": [
+        {
+          "label": "as nações",
+          "forms": {
+            "nationibus": "as nações"
+          },
+          "note": "Ruling: one Greek word, one Portuguese word.",
+          "from": "draft"
+        },
+        {
+          "label": "os povos",
+          "forms": {
+            "nationibus": "os povos"
+          },
+          "note": "Keeps two words; *povos* is pópuli's.",
+          "from": "draft"
+        },
+        {
+          "label": "os gentios … as nações",
+          "forms": {
+            "nationibus": "as nações"
+          },
+          "note": "The stylist's variation (in the first colon); gentes → gentios only here.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "compeditorum",
+      "refs": [
+        "78:10b"
+      ],
+      "latin": "gémitus compeditórum",
+      "kind": "word",
+      "why": "*Compedítus*, one in fetters (*compes*, a shackle). The Greek πεπεδημένων is the word the vincti row renders *prisioneiros* (68:34, 67:7), and D15 would allow the merge; but the Latin word is another, and it names the iron (rule 5: concrete images stay).",
+      "options": [
+        {
+          "label": "dos acorrentados",
+          "forms": {
+            "compeditorum": "dos acorrentados"
+          },
+          "note": "Ruling: the chain kept.",
+          "from": "draft"
+        },
+        {
+          "label": "dos prisioneiros",
+          "forms": {
+            "compeditorum": "dos prisioneiros"
+          },
+          "note": "The vincti row (same Greek); DRB 'prisoners', MS1932 'cativos'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "possideMort",
+      "refs": [
+        "78:11"
+      ],
+      "latin": "pósside fílios mortificatórum",
+      "kind": "grammar",
+      "why": "*Pósside* at the *vós* imperative is *possuí*, which is also 'I possessed' — rule 3's ban, and the object is a noun, so D13 does not help. *tomai posse de* keeps possession and is safe (*tomai* / *tomei*); DRB 'take possession of'. MS1932 *conserva* follows the Greek περιποίησαι. *Mortificatórum*: the mortificáre row avoids the ascetic cognate (43:22 *somos entregues à morte*); *dos que foram mortos* is two syllables shorter than *entregues à morte* and says the same.",
+      "options": [
+        {
+          "label": "tomai posse dos filhos dos que foram mortos",
+          "forms": {
+            "possideMort": "tomai posse dos filhos dos que foram mortos"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "tomai posse dos filhos dos entregues à morte",
+          "forms": {
+            "possideMort": "tomai posse dos filhos dos entregues à morte"
+          },
+          "note": "The mortificáre row's phrase (43:22).",
+          "from": "glossary"
+        },
+        {
+          "label": "possuí os filhos dos que foram mortos",
+          "forms": {
+            "possideMort": "possuí os filhos dos que foram mortos"
+          },
+          "note": "The possidére row's verb; barred by rule 3 (= 'I possessed').",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "septuplum",
+      "refs": [
+        "78:12"
+      ],
+      "latin": "réddite … séptuplum in sinu eórum",
+      "kind": "word",
+      "why": "To pay into the lap (*sinus*, the fold of the garment where a measure is poured, κόλπος) is the Latin's image and is kept (*seio*, as 73:11). *Séptuplum* → *sete vezes*, as 11:7 *purgátum séptuplum → purificada sete vezes*. v2: the stylist found *no seio deles* tacked on and asked the adverb first. Order is the ear's (D2): *sete vezes* moves up, and the comma goes. His *em seu próprio seio* adds a word and makes *seu* ambiguous: refused.",
+      "options": [
+        {
+          "label": "sete vezes aos nossos vizinhos no seio deles",
+          "forms": {
+            "septuplum": "sete vezes aos nossos vizinhos no seio deles"
+          },
+          "note": "Ruling (v2): the stylist's order.",
+          "from": "stylist"
+        },
+        {
+          "label": "aos nossos vizinhos sete vezes, no seio deles",
+          "forms": {
+            "septuplum": "aos nossos vizinhos sete vezes, no seio deles"
+          },
+          "note": "Draft 1, the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "sete vezes aos nossos vizinhos, em seu próprio seio",
+          "forms": {
+            "septuplum": "sete vezes aos nossos vizinhos, em seu próprio seio"
+          },
+          "note": "The stylist's wording.",
+          "from": "stylist"
+        },
+        {
+          "label": "aos nossos vizinhos com males sete vezes maiores",
+          "forms": {
+            "septuplum": "aos nossos vizinhos com males sete vezes maiores"
+          },
+          "note": "MS1932; supplies males, drops the lap.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "improperium",
+      "refs": [
+        "78:12"
+      ],
+      "latin": "impropérium ipsórum, quod exprobravérunt tibi, Dómine",
+      "kind": "grammar",
+      "why": "*Impropérium* shares *afronta* with *oppróbrium* (D15, the oppróbrium row, 68:20), and *exprobráre → afrontar*, so the figure *the reproach with which they reproached you* is kept as 68:10 keeps it (*as afrontas dos que vos afrontam*). *ipsórum* ('their own') is carried by the named subject *eles* in the relative, so that *deles* does not follow *deles* of the first colon. v2: the stylist heard a same-root jingle the Latin does not have and asked *com que vos insultaram*. Refused: the Greek has the figure itself (τὸν ὀνειδισμὸν αὐτῶν ὃν ὠνείδισάν σε), the Latin's two words are one Greek root, the glossary gives both *afronta / afrontar* (D15), and 68:10 keeps the same figure.",
+      "options": [
+        {
+          "label": "a afronta com que eles vos afrontaram",
+          "forms": {
+            "improperium": "a afronta com que eles vos afrontaram"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "a afronta deles, com que vos afrontaram",
+          "forms": {
+            "improperium": "a afronta deles, com que vos afrontaram"
+          },
+          "note": "*ipsórum* as a possessive.",
+          "from": "draft"
+        },
+        {
+          "label": "a afronta com que vos insultaram",
+          "forms": {
+            "improperium": "a afronta com que vos insultaram"
+          },
+          "note": "The stylist's; insultar is another verb.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "adjuva",
+      "refs": [
+        "78:9"
+      ],
+      "latin": "Ádjuva nos",
+      "kind": "glossary",
+      "why": "The stylist asked *Ajudai-nos* as plainer. The adjuváre row keeps *auxiliar* to hold one family with *adjutórium → auxílio* and *adjútor*; 43:26 *Exsúrge, Dómine, ádjuva nos → auxiliai-nos* is the same cry and the same refusal was made there. Refused; option.",
+      "options": [
+        {
+          "label": "Auxiliai-nos",
+          "forms": {
+            "adjuva": "Auxiliai-nos"
+          },
+          "note": "Ruling: the adjuváre row, as 43:26.",
+          "from": "glossary"
+        },
+        {
+          "label": "Ajudai-nos",
+          "forms": {
+            "adjuva": "Ajudai-nos"
+          },
+          "note": "The stylist's; plainer, splits the family.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "introeat",
+      "refs": [
+        "78:10b"
+      ],
+      "latin": "intróeat in conspéctu tuo",
+      "kind": "word",
+      "why": "Draft 1 *entre na vossa presença* copied 118:170 (*Intret postulátio mea in conspéctu tuo → Entre o meu pedido na vossa presença*). Here the stylist named it the worst line: after *entre as nações* twice in 78:10, the subjunctive *entre* at the head of the colon is heard as the preposition 'between'; the ambiguity reader heard the same. *chegue à vossa presença* (MS1932 *Cheguem à tua presença*) keeps the motion to God's presence and cannot be misparsed; it loses the 'in-' of entering. Taken, as a wrong first hearing is a fault (D2).",
+      "options": [
+        {
+          "label": "chegue à vossa presença",
+          "forms": {
+            "introeat": "chegue à vossa presença"
+          },
+          "note": "Ruling (v2): the stylist's; MS1932.",
+          "from": "stylist"
+        },
+        {
+          "label": "entre na vossa presença",
+          "forms": {
+            "introeat": "entre na vossa presença"
+          },
+          "note": "Draft 1, as 118:170; heard as the preposition.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "78:1": "Bare vocative *Deus* (D44). *gentes → nações* (glossary). *templum sanctum tuum → o vosso templo santo* (as the 5:8b formula row). *vieram … à vossa herança*: *veníre in*, not *intráre*; MS1932 the same. The verse is also the Common of Martyrs' reading (Commune/C3).",
+    "78:2": "*escas volatílibus cæli* → *como comida às aves do céu*; the esca row names *comida* for food given (68:22). The second colon keeps the Latin's ellipsis of *posuérunt*, with *às* matching *às aves*. *carnes* plural kept for men's flesh (the carnes row). *sanctórum* (ὁσίων) → *santos* (glossary). *béstiis → feras* (glossary). The Innocents' responsory (12-28) reads this verse with *mortália*. The ambiguity reader heard *santos* as canonized saints; the glossary's *sanctus → santo* kept (as 30:24, 31:6).",
+    "78:3": "*eórum → deles* (not *o seu sangue*, which could be heard as their own or God's). *in circúitu → ao redor de* (glossary). *effudérunt → derramaram*, echoed by *que foi derramado* in 78:10b (*effúsus est*), as the Latin echoes it. The Innocents' responsory (12-28) sets this verse.",
+    "78:4": "Near-twin of 43:14 (*oppróbrium vicínis nostris … his, qui sunt in circúitu nostro*): the shared words are copied (*uma afronta para os nossos vizinhos*, *zombaria … para os que estão ao nosso redor*); the Latin varies *derísum / illúsio* and so does the Portuguese (*riso / escárnio*; D39 names 78:4). *Facti sumus → Tornamo-nos*, as 30:12 *tornei-me uma afronta*.",
+    "78:5": "The settled formula *Até quando, Senhor, … para sempre?* (D27; 12:1). *irascéris* future → *vos irareis*. The second colon continues the question without repeating *até quando*, as the Latin (and as 73:10). v2: the second colon in the stylist's order (*como fogo se acenderá*), so it no longer opens on a clitic. *zelus → zelo* (the zeláre row keeps the noun; 68:10, 118:139): the ambiguity reader heard 'care' first; *zelo* beside *irareis* and *fogo* is kept as the Latin's word.",
+    "78:6": "*novérunt* (perfect of knowing, present sense) → *conhecem* (D44). *effúnde → derramai*; *invocáre → invocar*.",
+    "78:8": "The Lenten Tract (Quadp3-3 and ferias) sets 78:8–9 with *Dómine* before it; the verse reads alone. *iniquitátum nostrárum antiquárum → das nossas iniquidades antigas* (adjective after, as the Latin). *Ne memíneris → Não vos lembreis* (the reminísci row, 24:7).",
+    "78:9": "*Ádjuva nos → Auxiliai-nos* (the adjuváre row; 43:26). *salutáris noster → nosso Salvador* (64:6, the salutáris row). *propter … propter* both → *por causa de*, keeping the Latin's repetition (*propter nomen tuum → por causa do vosso nome*, 43:26). *líbera → livrai* (liberáre). The first colon is long (it is long in the Latin: two clauses before the asterisk). The Thursday Matins antiphon *Ádjuva nos, * Deus, salutáris noster: et propítius esto peccátis nostris* reads: *Auxiliai-nos, Deus, nosso Salvador: e sede clemente com os nossos pecados*.",
+    "78:10": "*Ne forte dicant → Para que não digam* (*forte* absorbed, as MS1932). *Ubi est Deus eórum? → Onde está o Deus deles?* (41:4 *Onde está o teu Deus?*). *coram óculis nostris → diante dos nossos olhos*. The verse ends on a comma: its subject opens 78:10b.",
+    "78:10b": "*últio → vingança* (the vindíctæ row; ἐκδίκησις is the Greek of both). *intróeat in conspéctu tuo → entre na vossa presença*, as 118:170 *Intret postulátio mea in conspéctu tuo → Entre o meu pedido na vossa presença* (a verb of motion: *à vossa vista* does not take one). *gémitus → gemido*.",
+    "78:11": "*magnitúdo → grandeza*; *bráchium → braço*. The ambiguity reader heard *tomai posse* as 'seize' rather than 'claim as yours'; kept — it is the Latin's *possidére*, and the Greek's 'preserve' is MS1932's reading, not the Latin's.",
+    "78:12": "*réddere → pagar* (the réddere row; 27:4b *pagai-lhes*). The ambiguity reader did not know *seio* and heard 'in their midst'; kept, as 73:11 (*do meio do vosso seio*).",
+    "78:13": "*Nos autem → Nós, porém,* (the ego autem row). *oves páscuæ tuæ → as ovelhas da vossa pastagem* (the páscua row; 73:1 the same). *confitébimur tibi → vos daremos graças* (D5; 74:2). *in sǽculum → para sempre* (D23).",
+    "78:13b": "The formula *De geração em geração* (118:90). *annuntiáre → anunciar* (D41); *laudem tuam → o vosso louvor* (50:17)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps078.md (Latin, LXX, WLC, DRB, MS1932; no Diurnal text for this psalm). DO's Portuguese not used (D12). Glossary rows looked up with ps078/gl.py; wordings of translated psalms with ps078/conc.py (both copied from ps070). Liturgical uses found by grep in content/do: the Lenten Tract (78:8–9), the Thursday Matins antiphon (78:9), the Christmas-season versicle Nat2-0 (78:9b), the Innocents' responsory (78:2–3, 12-28), the Common of Martyrs (78:1, C3). Hard readings: 78:9 *propítius esto peccátis nostris* (the glossary's open question), 78:1 *in pomórum custódiam*, 78:10–10b (the sentence crosses the verse break), 78:11 *pósside* (rule 3), 78:8 *antícipent*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. 78:1b 'uma' dropped (+4 → +3), accepted: 'cabana de guardar frutos' is the whole image. Length flags accepted: 78:4a +4 (43:14's shared words, copied), 78:6a +3 (articles and possessives Portuguese needs), 78:9b +3 ('sede clemente com' for 'propítius esto' — the ruling), 78:12b −4 (the named subject carries ipsórum; the Latin's quod-clause is heavy), 78:13a +3 (articles before possessives, rule 5), 78:13b −6 (the settled formula 'De geração em geração'). No rhyme flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "No majors, 1 minor. Passed the propítius ruling, the fruit-watcher's hut, the future irascéris in finem, and the 10/10b sentence. The minor refused and kept as an option.",
+      "outcomes": [
+        {
+          "verse": "78:1",
+          "remark": "'como' weakens in + accusative (result); reduziram Jerusalém a …",
+          "outcome": "option",
+          "decision": "custodiam",
+          "reason": "posuérunt is repeated at the head of 78:2; puseram … como keeps the anaphora and can state a result in Portuguese (78:2 como comida)."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "9 remarks; best 78:13b, worst 78:10b. 6 taken (78:1 noun, 78:3 object, 78:5 order, 78:8 venham ao nosso encontro, 78:10b chegue, 78:12 order), 3 refused and kept as options.",
+      "outcomes": [
+        {
+          "verse": "78:1",
+          "remark": "cabana de guardar frutos flat; cabana de vigia do pomar",
+          "outcome": "taken",
+          "decision": "custodiam"
+        },
+        {
+          "verse": "78:3",
+          "remark": "sepultar needs an object; quem os sepultasse",
+          "outcome": "taken",
+          "decision": "sepeliret"
+        },
+        {
+          "verse": "78:5",
+          "remark": "colon opens on a clitic; como fogo se acenderá",
+          "outcome": "taken"
+        },
+        {
+          "verse": "78:8",
+          "remark": "nos antecipem a Latinism; venham ao nosso encontro",
+          "outcome": "taken",
+          "decision": "anticipent"
+        },
+        {
+          "verse": "78:9",
+          "remark": "Auxiliai-nos heavy; Ajudai-nos",
+          "outcome": "refused",
+          "decision": "adjuva",
+          "reason": "the adjuváre row (adjutórium/adjútor family) and 43:26's identical cry."
+        },
+        {
+          "verse": "78:10",
+          "remark": "entre as nações twice; entre os gentios",
+          "outcome": "refused",
+          "decision": "nationibus",
+          "reason": "one Greek word twice (ἔθνη … ἔθνεσιν), D15; the priming of 10b is met in 10b."
+        },
+        {
+          "verse": "78:10b",
+          "remark": "subjunctive entre heard as 'between'; chegue à vossa presença",
+          "outcome": "taken",
+          "decision": "introeat"
+        },
+        {
+          "verse": "78:12",
+          "remark": "no seio deles tacked on; sete vezes first",
+          "outcome": "taken",
+          "decision": "septuplum"
+        },
+        {
+          "verse": "78:12",
+          "remark": "afronta/afrontaram jingle; com que vos insultaram",
+          "outcome": "refused",
+          "decision": "improperium",
+          "reason": "the Greek has the figure (ὀνειδισμὸν … ὠνείδισαν); D15 and 68:10."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "22 readings, 8 unknown words (macularam, cabana de guardar frutos, escárnio, afronta, iniquidades, acorrentados, seio, afrontaram). The test of the propitius ruling: *sede clemente com os nossos pecados* heard FIRST as 'forgive our sins', 'be lenient toward (tolerate)' second — no reading of favouring the sins. Acted on: 78:1 storage shed (new noun), 78:3 'no one who was buried' (object supplied), 78:10b entre as preposition (chegue). Kept: 78:10 hanging line (the Latin's sentence crosses the break; 'conhecida' points forward), santos, zelo, tomai posse, seio, glossary words.",
+      "outcomes": [
+        {
+          "verse": "78:1",
+          "remark": "cabana de guardar frutos heard as storage",
+          "outcome": "taken",
+          "decision": "custodiam"
+        },
+        {
+          "verse": "78:3",
+          "remark": "'no one who was buried'",
+          "outcome": "taken",
+          "decision": "sepeliret"
+        },
+        {
+          "verse": "78:5",
+          "remark": "zelo heard as care",
+          "outcome": "refused",
+          "reason": "the Latin's word, zeláre row; the context (ira, fogo) corrects it."
+        },
+        {
+          "verse": "78:8",
+          "remark": "antecipem odd",
+          "outcome": "taken",
+          "decision": "anticipent"
+        },
+        {
+          "verse": "78:9",
+          "remark": "clemente: forgive first, tolerate second",
+          "outcome": "refused",
+          "decision": "propitius",
+          "reason": "the ruling passes its test: no favouring reading; 'lenient' is the Latin's own sense of mildness in judging."
+        },
+        {
+          "verse": "78:10",
+          "remark": "line hangs until 10b",
+          "outcome": "refused",
+          "decision": "innotescat",
+          "reason": "DO's verse break cuts the Latin sentence; kept open by design."
+        },
+        {
+          "verse": "78:10b",
+          "remark": "entre as preposition",
+          "outcome": "taken",
+          "decision": "introeat"
+        },
+        {
+          "verse": "78:11",
+          "remark": "tomai posse heard as seize",
+          "outcome": "refused",
+          "decision": "possideMort",
+          "reason": "possidére is possession; rule 3 bars possuí."
+        },
+        {
+          "verse": "78:12",
+          "remark": "seio unknown / 'in their midst'",
+          "outcome": "refused",
+          "decision": "septuplum",
+          "reason": "the Latin's image, as 73:11."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 78:1 cabana de vigia do pomar; 78:3 quem os sepultasse; 78:5 como fogo se acenderá; 78:8 venham ao nosso encontro; 78:10b chegue à vossa presença; 78:12 sete vezes first. New decisions adjuva, introeat. Hard checks pass; 78:8a now +3, 78:1b +3, accepted. Latinist gate owed on 78:1, 78:8, 78:10b."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "Gate on v2: no majors, 3 minor, all held as options. 'The translation is faithful throughout.'",
+      "outcomes": [
+        {
+          "verse": "78:1",
+          "remark": "cabana / pomar make the image explicit; como guarda de frutos",
+          "outcome": "option",
+          "decision": "custodiam",
+          "reason": "'guarda de frutos' is not heard as a place at all; ὀπωροφυλάκιον is the hut; both v1 readers wanted a named thing."
+        },
+        {
+          "verse": "78:10",
+          "remark": "gentes / nationes both nações; entre as gentes",
+          "outcome": "option",
+          "decision": "nationibus",
+          "reason": "one Greek word (D15); 'da gente' is barred in Brazil (the gentes row, 42:1); the Latinist himself says the meaning is unchanged."
+        },
+        {
+          "verse": "78:10b",
+          "remark": "intróeat 'enter', chegue weakens",
+          "outcome": "option",
+          "decision": "introeat",
+          "reason": "'entre' after two prepositional 'entre' was misheard by two v1 readers; a wrong first hearing outweighs a slight weakening (D2)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "psalm": 81,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "81:1": "Deus {stetit} na {synagoga} dos deuses: * {inmedio}.",
+    "81:2": "Até quando {iniquitatem}: * e {facies}?",
+    "81:3": "{judicate}: * ao humilde e ao pobre {justificate}.",
+    "81:4": "{eripite} o pobre: * e livrai o necessitado da mão do pecador.",
+    "81:5": "Não souberam, nem entenderam, andam nas trevas: * serão abalados todos os fundamentos da terra.",
+    "81:6": "Eu disse: {diiestis}, * e todos filhos do {excelsi}.",
+    "81:7": "{vosautem}: * e como um dos príncipes caireis.",
+    "81:8": "Levantai-vos, Deus, julgai a terra: * porque vós herdareis {inomnibus}."
+  },
+  "decisions": [
+    {
+      "id": "stetit",
+      "refs": [
+        "81:1"
+      ],
+      "latin": "Deus stetit",
+      "kind": "word",
+      "why": "The perfect of *stare* (ἔστη, aorist): God has taken his stand in the council, as a judge rises in court; the verb of the second colon (*dijúdicat*) is a present, and the Latin mixes the tenses. The glossary's *stare* row is *estar de pé*, and 37:12 put the perfect *stetérunt* as *ficaram de pé*. *Deus ficou de pé* is heard first as 'God remained standing' (as if the others sat); *Deus esteve de pé* is flat and seems to say he no longer is. *Se pôs de pé* says the act of the aorist and keeps the standing the Latin names. *Pôr-se* is *astáre*'s verb only with *diante de* / *à direita de* (glossary, 5:5); *pôr-se de pé* is the plain idiom for standing up and the *astáre* row itself lists it as the posture of *stare*. MS1932 *está presente* drops the posture; DRB 'hath stood'.",
+      "options": [
+        {
+          "label": "se pôs de pé",
+          "forms": {
+            "stetit": "se pôs de pé"
+          },
+          "note": "Ruling: the aorist's act, the posture kept.",
+          "from": "draft"
+        },
+        {
+          "label": "ficou de pé",
+          "forms": {
+            "stetit": "ficou de pé"
+          },
+          "note": "37:12's form for the perfect; heard as 'remained standing'.",
+          "from": "glossary"
+        },
+        {
+          "label": "está de pé",
+          "forms": {
+            "stetit": "está de pé"
+          },
+          "note": "the perfect read as a resultative present ('stands'); the Latin's tense lost.",
+          "from": "draft"
+        },
+        {
+          "label": "está presente",
+          "forms": {
+            "stetit": "está presente"
+          },
+          "note": "MS1932; the posture lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "synagoga",
+      "refs": [
+        "81:1"
+      ],
+      "latin": "in synagóga deórum",
+      "kind": "glossary",
+      "why": "The *synagóga* row (open) is *congregação* (7:7b, and 21:17 for *concílium* = συναγωγή); the cognate is a building. The row itself names *assembleia* as 'the right word for 81:1' — a council of gods sitting in judgement — but *assembleia* is *ecclésia*'s (D34), and taking it here would make a third Latin word share it. Held to the row so that the four places of *synagóga* (7:7b, 81:1, 85:14, 105:18) read alike; the risk the row records (heard as a religious community) is put to the ambiguity reader.",
+      "options": [
+        {
+          "label": "congregação",
+          "forms": {
+            "synagoga": "congregação"
+          },
+          "note": "Ruling: the glossary row, one word for συναγωγή.",
+          "from": "glossary"
+        },
+        {
+          "label": "assembleia",
+          "forms": {
+            "synagoga": "assembleia"
+          },
+          "note": "the row's own option for this verse; clearer as a council, but *ecclésia*'s word (D34).",
+          "from": "glossary"
+        },
+        {
+          "label": "conselho",
+          "forms": {
+            "synagoga": "conselho"
+          },
+          "note": "MS1932; *conselho* is *consílium*'s (D33).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inmedio",
+      "refs": [
+        "81:1"
+      ],
+      "latin": "in médio autem deos dijúdicat",
+      "kind": "word",
+      "why": "Three small things. (1) *In médio* has no genitive; Portuguese *no meio* alone is left hanging, so *deles* is supplied (DRB 'in the midst of them', MS1932 *no meio deles*) — grammar, D2. (2) *Autem* is the light δέ, carried by *e*. (3) *Dijúdicat* is the only place of the compound in the psalter (grep; Isaiah 66:16 in a canticle besides): L&S gives 'judge, decide between', and with a person as object 'judge'. DRB and MS1932 both say *julga*. It stays *julgar*, so that the psalm's one root of judging (*dijúdicat, judicátis, judicáte, júdica*) sounds four times in Portuguese as in Latin; *faz juízo entre os deuses* keeps the *di-* and is the option. *deórum … deos* are the Latin's repetition: *deuses* stands at mediant and final, accepted.",
+      "options": [
+        {
+          "label": "e no meio deles julga os deuses",
+          "forms": {
+            "inmedio": "e no meio deles julga os deuses"
+          },
+          "note": "Ruling: *deles* supplied; *julgar*, the psalm's root.",
+          "from": "draft"
+        },
+        {
+          "label": "e no meio deles faz juízo entre os deuses",
+          "forms": {
+            "inmedio": "e no meio deles faz juízo entre os deuses"
+          },
+          "note": "keeps *di-* ('between'); four syllables longer.",
+          "from": "draft"
+        },
+        {
+          "label": "e no meio julga os deuses",
+          "forms": {
+            "inmedio": "e no meio julga os deuses"
+          },
+          "note": "nothing supplied; *no meio* left hanging.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "iniquitatem",
+      "refs": [
+        "81:2"
+      ],
+      "latin": "Úsquequo judicátis iniquitátem",
+      "kind": "grammar",
+      "why": "*Judicáre iniquitátem* (κρίνετε ἀδικίαν) is an internal accusative: 'judge unjustly', DRB and MS1932 both. Word for word, *julgais a iniquidade* is heard as 'you pass judgement on iniquity' — the opposite. *Com iniquidade* keeps the noun (the *iníquitas* row) and changes only the case, which D2 allows. The Latin's present is kept (*julgais*, ἕως πότε κρίνετε); MS1932 puts a future.",
+      "options": [
+        {
+          "label": "julgais com iniquidade",
+          "forms": {
+            "iniquitatem": "julgais com iniquidade"
+          },
+          "note": "Ruling: the noun kept, the case turned.",
+          "from": "draft"
+        },
+        {
+          "label": "julgais iniquidade",
+          "forms": {
+            "iniquitatem": "julgais iniquidade"
+          },
+          "note": "the accusative to the letter; heard as judging iniquity.",
+          "from": "draft"
+        },
+        {
+          "label": "julgareis injustamente",
+          "forms": {
+            "iniquitatem": "julgareis injustamente"
+          },
+          "note": "MS1932; the noun lost, the tense moved.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "facies",
+      "refs": [
+        "81:2"
+      ],
+      "latin": "et fácies peccatórum súmitis?",
+      "kind": "word",
+      "why": "πρόσωπα λαμβάνετε, 'take up / accept the faces', the Hebrew idiom for partiality (DRB 'accept the persons of the wicked'). Rule 5: the face stays. *Aceitar* is the plain verb that makes the idiom heard (to accept someone's face = to favour him); *tomar as faces* is heard as putting on their faces. The plural is the Latin's. *Fazer acepção de* is the Portuguese church idiom born of this very phrase, but it drops the face and needs a word few use; MS1932 paraphrases (*tereis respeitos humanos a favor dos pecadores*).",
+      "options": [
+        {
+          "label": "aceitais as faces dos pecadores",
+          "forms": {
+            "facies": "aceitais as faces dos pecadores"
+          },
+          "note": "Ruling: the image kept, the verb that carries the idiom.",
+          "from": "draft"
+        },
+        {
+          "label": "tomais as faces dos pecadores",
+          "forms": {
+            "facies": "tomais as faces dos pecadores"
+          },
+          "note": "*súmere*'s plain verb; heard as taking on their faces.",
+          "from": "draft"
+        },
+        {
+          "label": "fazeis acepção dos pecadores",
+          "forms": {
+            "facies": "fazeis acepção dos pecadores"
+          },
+          "note": "the church idiom; the face lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "judicate",
+      "refs": [
+        "81:3"
+      ],
+      "latin": "Judicáte egéno, et pupíllo",
+      "kind": "grammar",
+      "why": "The dative of advantage with *judicáre*, as 9:39 *judicáre pupíllo et húmili* → *julgar em favor do órfão e do humilde*: the same build, so the same words (rule 6). *Egénus → necessitado* (D38's row, 69:6), *pupíllus → órfão* (row). MS1932 *Fazei justiça ao necessitado* loses the psalm's verb of judging.",
+      "options": [
+        {
+          "label": "Julgai em favor do necessitado e do órfão",
+          "forms": {
+            "judicate": "Julgai em favor do necessitado e do órfão"
+          },
+          "note": "Ruling: = 9:39's build.",
+          "from": "glossary"
+        },
+        {
+          "label": "Fazei justiça ao necessitado e ao órfão",
+          "forms": {
+            "judicate": "Fazei justiça ao necessitado e ao órfão"
+          },
+          "note": "MS1932; *julgar* lost, and it would collide with the second colon.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "justificate",
+      "refs": [
+        "81:3"
+      ],
+      "latin": "húmilem, et páuperem justificáte",
+      "kind": "word",
+      "why": "δικαιώσατε, forensic: declare the humble and poor in the right (DRB 'do justice to'). *Justificai* is heard as 'make excuses for' (72:13's reader, glossary *justificáre cor*). *Fazei justiça a* keeps the root *just-* and says the forensic act. The Latin's chiasm (verb–objects : objects–verb) is kept: *ao humilde e ao pobre fazei justiça* is natural Portuguese and ends on a paroxytone. *Dai razão a* is exact to the court sense but loses the root.",
+      "options": [
+        {
+          "label": "fazei justiça",
+          "forms": {
+            "justificate": "fazei justiça"
+          },
+          "note": "Ruling: the root kept, the chiasm kept.",
+          "from": "draft"
+        },
+        {
+          "label": "dai razão",
+          "forms": {
+            "justificate": "dai razão"
+          },
+          "note": "the court's idiom; MS1932 *atendei à razão*; the root lost.",
+          "from": "draft"
+        },
+        {
+          "label": "justificai",
+          "forms": {
+            "justificate": "justificai"
+          },
+          "note": "the cognate; heard as 'make excuses for'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eripite",
+      "refs": [
+        "81:4"
+      ],
+      "latin": "Erípite páuperem",
+      "kind": "glossary",
+      "why": "The *erípere* row: *libertar* where no source is named in the phrase, *arrancar* where *de …* follows. Here the colon names none — *de manu peccatóris* belongs to *liberáte* in the second colon, though the sense reaches back. *Libertai* is safe (past *libertei*) and stays apart from *livrai* (*liberáre*), as the Latin has two verbs. *Arrancai o pobre*, alone at the head of a verse, sounds violent.",
+      "options": [
+        {
+          "label": "Libertai",
+          "forms": {
+            "eripite": "Libertai"
+          },
+          "note": "Ruling: the row, no source in the colon.",
+          "from": "glossary"
+        },
+        {
+          "label": "Arrancai",
+          "forms": {
+            "eripite": "Arrancai"
+          },
+          "note": "the row's verb where a source follows; the source here is in the next colon.",
+          "from": "glossary"
+        },
+        {
+          "label": "Tirai",
+          "forms": {
+            "eripite": "Tirai"
+          },
+          "note": "MS1932; *tirar* is *auferre*'s (D41).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "diiestis",
+      "refs": [
+        "81:6"
+      ],
+      "latin": "Dii estis",
+      "kind": "grammar",
+      "why": "Plural humans are *vós* (rule 3). The Latin names no pronoun here and names *Vos* in the next verse, where it turns the thought (*Vos autem*); *Sois deuses* keeps that shape. The verse is quoted in John 10:34 (Clementine *Ego dixi, dii estis* — not fetched; from the DO Latin only, the same words here). *Vós sois deuses* is the option.",
+      "options": [
+        {
+          "label": "Sois deuses",
+          "forms": {
+            "diiestis": "Sois deuses"
+          },
+          "note": "Ruling: no pronoun, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Vós sois deuses",
+          "forms": {
+            "diiestis": "Vós sois deuses"
+          },
+          "note": "the subject named; anticipates 81:7's *vós*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "excelsi",
+      "refs": [
+        "81:6"
+      ],
+      "latin": "fílii Excélsi",
+      "kind": "glossary",
+      "why": "*Excélsus* as a title of God (ὕψιστος; also 76:11 *déxteræ Excélsi*). The glossary keeps *excélsus → excelso* apart from *Altíssimus → Altíssimo* though the Greek is one (D43), so the title is *o Excelso*, as MS1932. The Ps 46 reader did not know *excelso* as an adjective; as a title after *filhos do* it is plainer. *Altíssimo* is the option, if Gustavo would rather the Greek decide.",
+      "options": [
+        {
+          "label": "Excelso",
+          "forms": {
+            "excelsi": "Excelso"
+          },
+          "note": "Ruling: the row (D43); MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "Altíssimo",
+          "forms": {
+            "excelsi": "Altíssimo"
+          },
+          "note": "the Greek's ὕψιστος as *Altíssimus* elsewhere; merges two Latin words.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vosautem",
+      "refs": [
+        "81:7"
+      ],
+      "latin": "Vos autem sicut hómines moriémini",
+      "kind": "order",
+      "why": "Both cola end on a future in *-eis* if the Latin's order is kept (*morrereis … caireis*): a rhyme at mediant and final that the Latin does not have (*moriémini / cadétis*). The first colon therefore puts the verb before *como homens*; the second keeps the Latin's verb-last (*e como um dos príncipes caireis*), which also avoids ending the verse on the proparoxytone *príncipes*. *Autem* is *Mas*, the turn against 81:6 (glossary *ego autem → mas eu*).",
+      "options": [
+        {
+          "label": "Mas vós morrereis como homens",
+          "forms": {
+            "vosautem": "Mas vós morrereis como homens"
+          },
+          "note": "Ruling: no rhyme with *caireis*.",
+          "from": "draft"
+        },
+        {
+          "label": "Mas vós, como homens, morrereis",
+          "forms": {
+            "vosautem": "Mas vós, como homens, morrereis"
+          },
+          "note": "the Latin's order; rhymes *morrereis / caireis*.",
+          "from": "draft"
+        },
+        {
+          "label": "Vós, porém, morrereis como homens",
+          "forms": {
+            "vosautem": "Vós, porém, morrereis como homens"
+          },
+          "note": "*autem* after the subject, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inomnibus",
+      "refs": [
+        "81:8"
+      ],
+      "latin": "quóniam tu hereditábis in ómnibus géntibus",
+      "kind": "word",
+      "why": "κατακληρονομήσεις ἐν πᾶσιν τοῖς ἔθνεσιν; DRB 'thou shalt inherit among all the nations'. The Latin has *in*: God's inheritance is *among / in* the nations, not the nations themselves (which is the Hebrew's sense, and MS1932's *todas as nações são tua herança*). *Herdar em* is not Portuguese; *entre* is DRB's 'among'. *herdar* as in 24:13 and Ps 36 (*herdarão a terra*). *Tu* is named in the Latin, so *vós* is named.",
+      "options": [
+        {
+          "label": "entre todas as nações",
+          "forms": {
+            "inomnibus": "entre todas as nações"
+          },
+          "note": "Ruling: DRB 'among'.",
+          "from": "DRB"
+        },
+        {
+          "label": "em todas as nações",
+          "forms": {
+            "inomnibus": "em todas as nações"
+          },
+          "note": "the preposition to the letter; *herdar em* is not idiomatic.",
+          "from": "draft"
+        },
+        {
+          "label": "todas as nações",
+          "forms": {
+            "inomnibus": "todas as nações"
+          },
+          "note": "the nations as the inheritance — the Hebrew's sense (MS1932), not the Latin's; refused.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "81:1": "*deuses* at mediant and final (checks: rhyme inside the verse) is the Latin's own repetition, *deórum … deos*; accepted. *e julga os deuses no meio deles* would move it and still chime (*deuses / deles*).",
+    "81:3": "Both cola run long (+4, +3): the first is 9:39's build (*julgar em favor do órfão*), the second the forensic *fazer justiça a* for one Latin verb; each still one breath. Accepted.",
+    "81:4": "*liberáre → livrar* (row); the Latin's chiasm in this verse (*erípite páuperem : egénum … liberáte*) is not kept — verb-last in the second colon would read inverted; the chiasm of 81:3 is kept because there it reads naturally.",
+    "81:5": "*movéri → ser abalado* (row, 12:5b; one Greek σαλεύω). *Nescíre → não saber*, *intellégere → entender* (row), *ambuláre → andar* (row), present *andam* as the Latin. The second colon is three syllables over the Latin; accepted.",
+    "81:6": "*omnes* goes before *filhos* (*e todos filhos do Excelso*, MS1932's order): *e filhos do Excelso, todos* would hang the word at the cadence.",
+    "81:8": "*Surge → Levantai-vos*, as *exsúrgere* (glossary; the Greek is ἀνάστα in both); 131:8 *Surge, Dómine* should follow. *Deus* bare in the vocative (row). *julgai* is safe (past *julguei*)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels (no Diurnal text for this psalm in the parallels file). Hard readings: 81:1 *stetit* (tense and posture) and *synagóga deórum*; 81:2 the internal accusative *judicátis iniquitátem* and the idiom *fácies … súmitis*; 81:3 the dative with *judicáre* (= 9:39) and forensic *justificáte*; 81:8 *hereditábis in*, which is not the Hebrew's 'inherit the nations'."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. Soft: 81:1 rhyme *deuses / deuses* (the Latin's repetition; accepted); 81:3 +4/+3 (accepted, see choices); 81:5a −4, 81:7 −4/−3, 81:8b −3 (Portuguese shorter; accepted); 81:5b +3 (accepted)."
+    }
+  ]
+}

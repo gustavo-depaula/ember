@@ -1,0 +1,24 @@
+{
+  "append": [
+    {"row": "| cogitáre |", "text": "**Ps 82:4, 82:6 *cogitavérunt advérsus sanctos tuos · cogitavérunt unanímiter* (absolute, hostile, ἐβουλεύσαντο) → *maquinaram contra os vossos santos · maquinaram de uma só alma*** — a fourth vote for the *maquinar* split, taken here as option 0: *pensaram contra* is hardly Portuguese; one verb for the Latin's one verb. The Latinist passed it twice; the ambiguity reader listed *maquinaram* unknown. *pensaram*, *planejaram*, *conspiraram* (MS1932) options in decision `cogit`."},
+    {"row": "| malignári (the verb) |", "text": "**Ps 82:4 *malignavérunt consílium* (transitive; κατεπανουργεύσαντο γνώμην) → *formaram com malícia um desígnio*** (MS1932 *Formaram desígnios maus*; D33's *desígnio*). The v1 stylist called *formar um desígnio* a calque and asked *tramaram* — refused (concinnáre's, D44), option; the Latinist passed it twice."},
+    {"row": "| disperíre / interíre |", "text": "Ps 82:11 *Disperiérunt in Endor* → *Pereceram de todo em Endor* — applied; no reader remarked."},
+    {"row": "| silva |", "text": "**Ps 82:15 *qui combúrit silvam* → *que queima a selva*** — D44 held; the v1 stylist asked *floresta* ('selva' = jungle to a Brazilian ear) and the ambiguity reader heard jungle second. With 73:6 (*mata*), the second psalm where a reader objects: **for the coordinator.** Options in Ps 82's decision `silva`."},
+    {"row": "| unánimis |", "text": "Ps 82:6 the adverb *unanímiter* (ἐν ὁμονοίᾳ) → *de uma só alma* (*Porque maquinaram de uma só alma*) — the family kept; the ambiguity reader heard 'unanimously' first. *de comum acordo* option."},
+    {"row": "| erubéscere |", "text": "**Ps 82:18 *Erubéscant, et conturbéntur … et confundántur* → *Corem, e se perturbem … e sejam envergonhados*** — as this row foresaw. The ambiguity reader listed *Corem* unknown and heard *correm* (again, as 69:4)."},
+    {"row": "| alienígenæ |", "text": "Ps 82:8 → *os estrangeiros com os habitantes de Tiro* — applied; no reader remarked."},
+    {"row": "| testaméntum |", "text": "Ps 82:6 *testaméntum disposuérunt* (διέθεντο, the Greek of 49:5) → *firmaram aliança* — the *ordináre testaméntum* verb, by D15's test."},
+    {"row": "| sonáre |", "text": "Ps 82:3 *inimíci tui sonuérunt* (ἤχησαν) → *os vossos inimigos ressoaram* — the row held with enemies as subject; the ambiguity reader listed *ressoaram* unknown and heard the uproar only by inference. *fizeram estrondo* (DRB) option."},
+    {"row": "| fíeri, *factus est* |", "text": "Ps 82:9 *facti sunt in adjutórium fíliis Lot* and 82:11 *facti sunt ut stercus terræ* → *tornaram-se* both (one verb for the Latin's repetition; 82:11 is a state). *fizeram-se* option."},
+    {"row": "| pónere + predicate", "text": "Ps 82:12 *Pone príncipes eórum sicut Oreb* → *Fazei os seus príncipes como Oreb*; 82:14 *pone illos ut rotam* → *fazei-os como uma roda* — the row applied; cost: 82:10 *Fac illis* → *Fazei-lhes* shares the verb (another build). *Ponde* option; no reader remarked."},
+    {"row": "| silére / tacére |", "text": "Ps 82:2 *Ne táceas, neque compescáris* → *Não vos caleis, nem vos contenhais* (compéscere, new row)."},
+    {"row": "| fácies, *ante fáciem* |", "text": "**Ps 82:17 plural *fácies eórum* → *os seus rostos*** (MS1932): *as faces* is heard as cheeks; *rosto* is vultus's word — the cost. 82:14 *ante fáciem venti* → *diante da face do vento* (= 17:43, 34:5)."}
+  ],
+  "terms": [
+    "| compéscere (passive, of God) | conter-se (*nem vos contenhais*) | open | Ps 82:2 only in the psalms (grep before copying); L&S 'restrain, curb'; the Greek μηδὲ καταπραΰνῃς 'be calmed'. The ambiguity reader heard 'hold back' first, emotional restraint second. *nem vos detenhais* (MS1932), *nem fiqueis quieto* (DRB) options. |",
+    "| stípula | palha (*como a palha diante da face do vento*) | open | Ps 82:14 (καλάμη); DRB 'stubble'; *restolho* exact but rare, MS1932 *palhinha*. 1:4 is *pulvis*, another word. The stylist named 82:14 the best line. |",
+    "| ignomínia | ignomínia (*Enchei os seus rostos de ignomínia*) | open | Ps 82:17 (ἀτιμία; MS1932). The ambiguity reader listed it unknown; kept (*desonra* is verecúndia's, D43); *opróbrio* option. |",
+    "| *de gente* (disperdámus eos de gente) | *para não serem nação* | open | Ps 82:5 (ἐξ ἔθνους; DRB 'so that they be not a nation'). v1 *como nação* was the stylist's worst line and double-read by the ambiguity reader; the v2 Latinist (minor) asked *de ser nação*, not Portuguese — held, option. |",
+    "| Ps 82 names | Madiã, Sísara, Jabin, Cisson, Endor, Oreb, Zeb, Zebee, Salmana; Moab, Gebal, Amon, Amalec, Assur, Lot, Tiro; gentilics lower case: idumeus, ismaelitas, agarenos | open | Ps 82:6–12; MS1932's forms (59:9's rule) except *Madiã* (MS1932 prints *Median*). *Mádian* recurs only in the canticles (Hab 3:7, Is 9:4 — grep), which should copy *Madiã*. The ambiguity reader knew none of the fifteen — expected. |"
+  ]
+}

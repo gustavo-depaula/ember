@@ -1,0 +1,35 @@
+{
+  "append": [
+    {"row": "| præcéptum |", "text": "**Ps 80:5 *Quia præcéptum in Israël est* → *Porque é decreto em Israel*** — the list's place, held; articles dropped in v2 (the Latin has none; the stylist heard *Porque é um* as a smear). No reader remarked on *decreto*."},
+    {"row": "| exsultáre + dative |", "text": "**Ps 80:2 *Exsultáte Deo* → *Exultai para Deus*** — the row applied at the place it names; the Latinist passed it twice; the stylist heard *para* as a direction of travel and asked *Exultai a Deus* (refused, option: *exultar* takes no dative object). Second stylist refusal of the row (after 2:11): **for Gustavo before 94:1 *exsultémus Dómino***."},
+    {"row": "| jucúndus |", "text": "**Ps 80:3 *psaltérium jucúndum* → *o saltério agradável*** — the row; the stylist found it flat and asked *suave* (refused: *suávis*'s word; option)."},
+    {"row": "| dare dorsum (", "text": "**Ps 80:7 *Divértit ab onéribus dorsum ejus* → *Afastou dos fardos as suas costas*** — the literal back, *costas* as 20:13; no reader remarked."},
+    {"row": "| contradíctio |", "text": "**Ps 80:8 *apud aquam contradictiónis* → *junto à água da contradição*** — the name (Meribah) keeps the cognate, as this row foresaw; the Latinist passed it; the ambiguity reader did not recognize a place name but heard the strife. *contenda* the option. **105:32 should copy.**"},
+    {"row": "| adeps |", "text": "**Ps 80:17 *ex ádipe fruménti* → *da gordura do trigo*** — the image kept (rule 5 names *fat*); the Latinist passed it; the ambiguity reader found it odd and guessed 'the best of the wheat'. *com a flor do trigo* (MS1932) option. **147:3 should copy.**"},
+    {"row": "| saturáre / satiáre |", "text": "**Ps 80:17 *melle saturávit eos* → *os saciou de mel*** — the row, with *de* as 16:14c."},
+    {"row": "| petra |", "text": "**Ps 80:17 *et de petra* → *e da rocha*** — definite here: the rock of the desert, and *de uma rocha* would be any rock. No reader remarked. 77:15–16, 104:41, 113:8 (the same rock) may want the same."},
+    {"row": "| adinvéntio |", "text": "**Ps 80:13 *ibunt in adinventiónibus suis* → *caminharão nas suas invenções*** — the row; no reader objected; the ambiguity reader heard 'their own ideas', once 'idols they made'."},
+    {"row": "| cíthara |", "text": "**Ps 80:3 → *com a cítara, o saltério agradável*** — the stylist's order (the colon no longer closes on the proparoxytone); unknown to the ambiguity reader again."},
+    {"row": "| psaltérium |", "text": "**Ps 80:3 *saltério*** — the ambiguity reader heard the book of Psalms first; the Latin word has the same double sense; kept."},
+    {"row": "| jubiláre / jubilátio / júbilus |", "text": "**Ps 80:2 *jubiláte Deo Jacob* → *aclamai ao Deus de Jacó*** — applied; no remark."},
+    {"row": "| in sǽcula (alone) |", "text": "**Ps 80:16 *et erit tempus eórum in sǽcula* → *e o tempo deles será pelos séculos*** — applied; the Latinist passed it; the ambiguity reader heard the enemies lasting for ever (the Latin's own openness, kept)."},
+    {"row": "| pro níhilo (", "text": "**Ps 80:15 *Pro níhilo fórsitan … humiliássem* → *Com um nada, talvez, eu teria humilhado*** — the local build the row foresaw. Draft 1's *Por nada, talvez,* was heard by the stylist and the ambiguity reader as 'for no reason / in vain' — the reverse of ἐν τῷ μηδενί ('with no effort'); *Com um nada* (the stylist's) keeps *nihil*; the v2 gate passed it. *fórsitan* (the Latin's rendering of the Greek ἄν) kept as *talvez*. *Facilmente* (MS1932), *Em breve* (DRB) options."},
+    {"row": "| testificári |", "text": "**Ps 80:9 *contestábor te* → *eu te darei testemunho*** — another Latin verb, the same Greek as 49:7 (διαμαρτύρομαί σοι), so the same words (D15's test); the Latinist passed it twice; the ambiguity reader heard 'testify in your favour'. *eu te advertirei*, *eu te tomarei por testemunha* (L&S's *contestári*) options."},
+    {"row": "| adjútor |", "text": "**Ps 80:2 *Deo, adjutóri nostro* → *Deus, nosso auxílio*** — the row; the v2 Latinist asked *auxiliador* (minor), held for the row; option."},
+    {"row": "| dimíttere (let go) |", "text": "**Ps 80:13 *Et dimísi eos* → *E eu os deixei ir*** — the row's words for the other sense (God letting a people go its way, ἐξαπέστειλα); no reader remarked."},
+    {"row": "| edúcere |", "text": "**Ps 80:11 *qui edúxi te de terra Ægýpti* → *que te tirei da terra do Egito*** — *tirar de* where the Latin has *de*, as the row foresaw (29:4, 39:3); MS1932 the same. *te fiz sair* option. The Exodus formula recurs (grep *eduxi te de terra*); copy it."},
+    {"row": "| dilatáre (cor) |", "text": "**Ps 80:11 *diláta os tuum, et implébo illud* → *abre bem a tua boca, e eu a encherei*** — a third rendering: the idiom for 'open wide' (DRB, πλάτυνον). 34:21 has the same Latin as *escancararam … a sua boca*, a mocker's gape; here a mouth held open to be filled, where *escancarar* is coarse. Option *escancara* (= 34:21). No reader remarked."}
+  ],
+  "terms": [
+    "| súmere psalmum (80:3) | tomar um salmo (*Tomai um salmo*) | open | Ps 80:3 (λάβετε ψαλμόν; DRB 'Take a psalm'). Kept apart from *psalmum dícere → entoar um salmo* (17:50, 65:1), which MS1932's *Entoai* would merge. No reader remarked. |",
+    "| dare týmpanum (80:3) / týmpanum | dar o tamborim / tamborim | open | Ps 80:3 (δότε τύμπανον). *tamborim* as 67:26 *tympanistriárum*. The stylist and the ambiguity reader both heard *dai o tamborim* as 'hand over' — one of the Latin's two readings (DRB 'bring hither'); *fazei soar* (stylist) and *tocai* (MS1932) options. **For Gustavo.** 149:3, 150:4 have *in týmpano*. |",
+    "| Neoménia | lua nova (*Tocai a trombeta na lua nova*) | open | Ps 80:4 (νεομηνία, the word's own meaning; MS1932's cognate *Neoménia* needs a footnote). *buccináre … tuba → tocar a trombeta* (*tuba → trombeta*, 46:6). No reader remarked. |",
+    "| insígnis | assinalado (*no dia assinalado da vossa solenidade*) | open | Ps 80:4 (εὔσημος; DRB 'noted'). *signum* kept in the root; *dia assinalado* is a living phrase. The ambiguity reader listed *assinalado* as unknown but heard 'the appointed day'. *insigne* (MS1932) option. |",
+    "| cóphinus | cesto (*as suas mãos serviram no cesto*) | open | Ps 80:7; singular as the Latin and Greek (DRB, MS1932 plural). |",
+    "| recens (deus recens) | novo (*um deus novo*) | open | Ps 80:9 (πρόσφατος; DRB 'new god'). *recente* option. |",
+    "| divértere ab | afastar de (*Afastou dos fardos as suas costas*) | open | Ps 80:7 (ἀπέστησεν). Not 33:15a *Divérte a malo* (a formula of its own, *Aparta-te*). |",
+    "| ire (80:13 *ibunt in*) | caminhar (*caminharão nas suas invenções*) | open | Ps 80:13 — *andar* is *ambuláre*'s, which follows in 80:14; *irão nas* is not Portuguese. |",
+    "| míttere manum super | lançar a mão sobre (*teria lançado a minha mão sobre aqueles que os atribulam*) | open | Ps 80:15 (ἐπέβαλον); *lançar* with *super* as 21:18 *lançaram sortes*. *pôr*, *estender* options. |",
+    "| fórsitan | talvez | open | Ps 54:13b, 80:15 (the Greek's ἄν of a counterfactual, kept as the Latin's word). |"
+  ]
+}

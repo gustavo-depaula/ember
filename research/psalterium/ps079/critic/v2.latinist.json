@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "05f2aa01e6d16374c71741decd98b5a2a4e9be59bb315b2841397831f91fc99b",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T23:30:27+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation follows the Latin closely throughout: tenses (future irasceris, cibabis, present discedimus), voices (deponent manifestare, middle convertere), the Septuagintal 'super filium hominis' in v.16 and the feminine-singular incensa/suffossa of v.17 (matching the vinea and the LXX) are all kept without smoothing. The only liberty, repeating 'cobriu' in v.11 to carry the gapped verb, is ellipsis supply rather than added content. Pointing marks match the Latin in every verse (one mediant each, no flex or second mediant).\"}\n"
+}

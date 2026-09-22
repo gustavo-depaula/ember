@@ -1,0 +1,260 @@
+{
+  "psalm": 82,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "82:2": "Deus, quem será semelhante a vós? * Não vos caleis, {compescaris}, Deus.",
+    "82:3": "Porque eis que os vossos inimigos {sonuerunt}: * e os que vos odeiam ergueram a cabeça.",
+    "82:4": "{super} o vosso povo {malignaverunt}: * e {cogit4} contra os vossos santos.",
+    "82:5": "Disseram: Vinde, e exterminemo-los {degente}: * e não seja mais lembrado o nome de Israel.",
+    "82:6": "Porque {cogit6} {unanimiter}: * juntos firmaram aliança contra vós, as tendas dos idumeus e os ismaelitas:",
+    "82:8": "Moab, e os agarenos, Gebal, e Amon, e Amalec: * os estrangeiros com os habitantes de Tiro.",
+    "82:9": "Pois também Assur veio com eles: * {facti9} {adjutorium}.",
+    "82:10": "Fazei-lhes como a {madian}, e a Sísara: * como a Jabin na torrente de Cisson.",
+    "82:11": "Pereceram de todo em Endor: * {facti11} como o esterco da terra.",
+    "82:12": "{pone12} os seus príncipes como Oreb, e Zeb, * e Zebee, e Salmana:",
+    "82:13": "Todos os seus príncipes: * que disseram: Possuamos por herança o santuário de Deus.",
+    "82:14": "Meu Deus, {pone14} como uma roda: * e como {stipula} diante da face do vento.",
+    "82:15": "Como o fogo que queima a selva: * e como a chama que queima os montes:",
+    "82:16": "Assim os perseguireis {tempestate}: * e na vossa ira os perturbareis.",
+    "82:17": "Enchei {facies} de {ignominia}: * e buscarão o vosso nome, Senhor.",
+    "82:18": "Corem, e {conturbentur} pelos séculos dos séculos: * e sejam envergonhados, e pereçam.",
+    "82:19": "E {cognoscant} {nomen}: * {solus} em toda a terra."
+  },
+  "decisions": [
+    {
+      "id": "compescaris",
+      "refs": ["82:2"],
+      "latin": "neque compescáris",
+      "kind": "word",
+      "why": "compéscere is to hold in check, restrain, curb (L&S); the passive here asks God not to be held back, not to hold himself in. The Greek μηδὲ καταπραΰνῃς ('nor be calmed, appeased') and DRB 'neither be thou still' lean towards quietness; MS1932 'nem te detenhas' towards stopping. 'Conter-se' is the plain Portuguese of the Latin's own image (to restrain oneself) and is safe at the vós form. The first member tacére → calar-se is the glossary's (27:1, 31:3).",
+      "options": [
+        {"label": "nem vos contenhais", "forms": {"compescaris": "nem vos contenhais"}, "note": "draft — the Latin's image of restraint, as a middle", "from": "draft"},
+        {"label": "nem vos detenhais", "forms": {"compescaris": "nem vos detenhais"}, "note": "MS1932 'nem te detenhas' — stopping rather than holding in", "from": "MS1932"},
+        {"label": "nem fiqueis quieto", "forms": {"compescaris": "nem fiqueis quieto"}, "note": "DRB 'neither be thou still'; the Greek's calm", "from": "DRB"},
+        {"label": "nem sejais contido", "forms": {"compescaris": "nem sejais contido"}, "note": "the passive to the letter (literal tier); heard as a character trait ('reserved')", "from": "draft"}
+      ]
+    },
+    {
+      "id": "sonuerunt",
+      "refs": ["82:3"],
+      "latin": "inimíci tui sonuérunt",
+      "kind": "glossary",
+      "why": "sonáre → ressoar is settled (D43; 45:4, the same Greek ἤχησαν). Said of enemies, 'ressoaram' is the din of a crowd; DRB 'have made a noise', MS1932 'fazem grande ruído'. The row is kept; the plainer periphrasis is an option.",
+      "options": [
+        {"label": "ressoaram", "forms": {"sonuerunt": "ressoaram"}, "note": "draft — the settled row (D43)", "from": "glossary"},
+        {"label": "fizeram estrondo", "forms": {"sonuerunt": "fizeram estrondo"}, "note": "DRB 'made a noise'; a noun supplied", "from": "DRB"},
+        {"label": "fizeram grande ruído", "forms": {"sonuerunt": "fizeram grande ruído"}, "note": "MS1932 (present tense there); 'grande' is added", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "super",
+      "refs": ["82:4"],
+      "latin": "Super pópulum tuum … advérsus sanctos tuos",
+      "kind": "word",
+      "why": "super with a verb of plotting is hostile ('against', DRB; ἐπὶ τὸν λαόν); the second colon has advérsus. 'Sobre o vosso povo' keeps the Latin's two prepositions apart but is heard first as 'about your people'; 'contra' both times is the sense, at the cost of the variation.",
+      "options": [
+        {"label": "Contra", "forms": {"super": "Contra"}, "note": "draft — DRB 'against', MS1932 'contra'", "from": "draft"},
+        {"label": "Sobre", "forms": {"super": "Sobre"}, "note": "the Latin's preposition; heard as 'concerning'", "from": "draft"}
+      ]
+    },
+    {
+      "id": "malignaverunt",
+      "refs": ["82:4"],
+      "latin": "malignavérunt consílium",
+      "kind": "word",
+      "why": "The verb malignári is transitive only here (the glossary row malignári → fazer o mal, open, says 82:4 decides its own build); the Greek κατεπανουργεύσαντο γνώμην is 'craftily devised a plan'. DRB 'taken a malicious counsel', MS1932 'Formaram desígnios maus'. The verb of malice becomes an adverbial phrase on a plain verb — grammar (D2); 'formar um desígnio' is Portuguese. consílium is a plan here → desígnio (D33). 'Maquinar' is kept for cogitáre in the next colon (decision cogit).",
+      "options": [
+        {"label": "formaram com malícia um desígnio", "forms": {"malignaverunt": "formaram com malícia um desígnio"}, "note": "draft — MS1932's verb, the Latin's malice kept as an adverbial phrase", "from": "draft"},
+        {"label": "formaram um desígnio maligno", "forms": {"malignaverunt": "formaram um desígnio maligno"}, "note": "DRB/MS1932 build (the malice on the noun); 'maligno' alone is heard as the devil (D24), less so as an adjective", "from": "DRB"},
+        {"label": "maquinaram com malícia um desígnio", "forms": {"malignaverunt": "maquinaram com malícia um desígnio"}, "note": "the Greek's craft; would take the verb from cogitáre in the next colon", "from": "draft"},
+        {"label": "fizeram o mal num desígnio", "forms": {"malignaverunt": "fizeram o mal num desígnio"}, "note": "the malignári row's verb; not Portuguese as a transitive build", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "cogit",
+      "refs": ["82:4", "82:6"],
+      "latin": "cogitavérunt advérsus sanctos tuos · cogitavérunt unanímiter",
+      "kind": "glossary",
+      "why": "The glossary row cogitáre → pensar em (working) has a pending proposal (Pss 34, 51, 61) to take maquinar where the thinking is hostile. Here it is absolute, twice, and hostile both times (advérsus sanctos; with a covenant against God). 'E pensaram contra os vossos santos' is hardly Portuguese; 'maquinar contra alguém' is the living idiom and needs no object. The Greek ἐβουλεύσαντο (both places) is 'took counsel', which is why MS1932 has 'conspiraram' then 'Pensaram'. One verb for the Latin's one verb. Departure from the row recorded; proposed to the glossary as evidence for the split.",
+      "options": [
+        {"label": "maquinaram", "forms": {"cogit4": "maquinaram", "cogit6": "maquinaram"}, "note": "draft — the row's proposed split for hostile thinking; one verb twice", "from": "draft"},
+        {"label": "pensaram", "forms": {"cogit4": "pensaram", "cogit6": "pensaram"}, "note": "the row (pensar em) without its preposition; MS1932 'Pensaram de acordo' at 82:6; weak and odd at 82:4", "from": "glossary"},
+        {"label": "planejaram", "forms": {"cogit4": "planejaram", "cogit6": "planejaram"}, "note": "consiliári's word (30:14, the same Greek ἐβουλεύσαντο); Latin verb differs", "from": "draft"},
+        {"label": "conspiraram", "forms": {"cogit4": "conspiraram", "cogit6": "conspiraram"}, "note": "MS1932 at 82:4; says the joint plot, which unanímiter says separately at 82:6", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "degente",
+      "refs": ["82:5"],
+      "latin": "disperdámus eos de gente",
+      "kind": "ambiguity",
+      "why": "de gente (ἐξ ἔθνους) is 'out of being a nation': DRB 'so that they be not a nation'. MS1932 'do meio das nações' changes the number and the sense (removal from among others). 'Como nação' keeps the singular noun and says what is destroyed — their nationhood — in two words; DRB's clause is clearer but three syllables longer and explains.",
+      "options": [
+        {"label": "como nação", "forms": {"degente": "como nação"}, "note": "draft — the singular kept; 'destroy them as a nation'", "from": "draft"},
+        {"label": "para que não sejam nação", "forms": {"degente": ", para que não sejam nação"}, "note": "DRB's reading; explains; the colon +3 syllables", "from": "DRB"},
+        {"label": "do meio das nações", "forms": {"degente": "do meio das nações"}, "note": "MS1932; the plural and 'from among' are not the Latin's", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "unanimiter",
+      "refs": ["82:6"],
+      "latin": "unanímiter",
+      "kind": "glossary",
+      "why": "The adjective unánimis → de uma só alma is settled (D44, 54:14); the adverb takes the same phrase so the family is heard. Greek ἐν ὁμονοίᾳ 'in one mind'. 'De comum acordo' (MS1932 'de acordo') is plainer but loses the soul; 'unanimemente' is heavy and bureaucratic.",
+      "options": [
+        {"label": "de uma só alma", "forms": {"unanimiter": "de uma só alma"}, "note": "draft — the unánimis row", "from": "glossary"},
+        {"label": "de comum acordo", "forms": {"unanimiter": "de comum acordo"}, "note": "MS1932 'de acordo'; plainer", "from": "MS1932"},
+        {"label": "unanimemente", "forms": {"unanimiter": "unanimemente"}, "note": "the cognate (literal tier); heavy", "from": "draft"}
+      ]
+    },
+    {
+      "id": "facti",
+      "refs": ["82:9", "82:11"],
+      "latin": "facti sunt in adjutórium · facti sunt ut stercus",
+      "kind": "glossary",
+      "why": "The fíeri row splits fazer-se (a doing) from tornar-se (a state come upon a subject, 13:1, 118:83). 82:11 is plainly a state (they became as dung); 82:9 could be either. The Latin repeats facti sunt in two verses, so one Portuguese verb serves both, and tornar-se is the one that fits both.",
+      "options": [
+        {"label": "tornaram-se", "forms": {"facti9": "tornaram-se", "facti11": "tornaram-se"}, "note": "draft — MS1932 at 82:11; one verb twice", "from": "draft"},
+        {"label": "fizeram-se", "forms": {"facti9": "fizeram-se", "facti11": "fizeram-se"}, "note": "the row's first form; at 82:11 it makes their ruin their own act", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "adjutorium",
+      "refs": ["82:9"],
+      "latin": "in adjutórium fíliis Lot",
+      "kind": "grammar",
+      "why": "adjutórium → auxílio (row). The Greek εἰς ἀντίλημψιν is 'for support'. DRB turns it to 'they are come to the aid of', MS1932 'juntaram-se para auxiliarem' — both change the verb. Kept as a predicate noun after tornar-se.",
+      "options": [
+        {"label": "auxílio para os filhos de Lot", "forms": {"adjutorium": "auxílio para os filhos de Lot"}, "note": "draft", "from": "draft"},
+        {"label": "o auxílio dos filhos de Lot", "forms": {"adjutorium": "o auxílio dos filhos de Lot"}, "note": "a genitive; can be heard as help given by them", "from": "draft"},
+        {"label": "em auxílio dos filhos de Lot", "forms": {"adjutorium": "em auxílio dos filhos de Lot"}, "note": "the Latin's in kept ('tornaram-se em auxílio'); DRB's 'are come to the aid' would need 'vieram' for facti sunt, which is refused (the verb is the Latin's)", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "madian",
+      "refs": ["82:10"],
+      "latin": "Mádian",
+      "kind": "word",
+      "why": "Names follow their Vulgate-family Portuguese forms, as MS1932 prints them (59:9 note): Idumeus, Ismaelitas, Moab, Agarenos, Gebal, Amon, Amalec, Tiro, Assur, Lot, Sísara, Jabin, Cisson, Endor, Oreb, Zeb, Zebee, Salmana. MS1932's 'Median' is an OCR or print oddity; the established Portuguese form of the people of Gideon's victory is Madiã (madianitas).",
+      "options": [
+        {"label": "Madiã", "forms": {"madian": "Madiã"}, "note": "draft — the Portuguese form", "from": "draft"},
+        {"label": "Madian", "forms": {"madian": "Madian"}, "note": "the Latin form kept", "from": "draft"}
+      ]
+    },
+    {
+      "id": "pone",
+      "refs": ["82:12", "82:14"],
+      "latin": "Pone príncipes eórum sicut Oreb · pone illos ut rotam",
+      "kind": "glossary",
+      "why": "The row pónere + predicate says: the verb the Portuguese build wants, 'fazer … como' (17:35, 20:10 'Vós os fareis como um forno'), 'pôr' the option. 'Ponde-os como uma roda' is heard as placing them somewhere. Cost: 82:10 has Fac illis ('Fazei-lhes'), so fácere and pónere meet in one Portuguese verb within three verses; the builds differ (do to / make like). MS1932 has 'Trata' at 82:12 (supplying 'trataste') and 'agita-os' at 82:14, both freer.",
+      "options": [
+        {"label": "Fazei … fazei-os", "forms": {"pone12": "Fazei", "pone14": "fazei-os"}, "note": "draft — the pónere row", "from": "glossary"},
+        {"label": "Ponde … ponde-os", "forms": {"pone12": "Ponde", "pone14": "ponde-os"}, "note": "the Latin's verb", "from": "draft"},
+        {"label": "Tratai … tornai-os", "forms": {"pone12": "Tratai", "pone14": "tornai-os"}, "note": "MS1932 'Trata' at 82:12; 'tratar' is fácere cum's", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "stipula",
+      "refs": ["82:14"],
+      "latin": "sicut stípulam ante fáciem venti",
+      "kind": "word",
+      "why": "stípula is the stalk left after reaping, straw, stubble (L&S); DRB 'stubble'. 'A palha' is what a Brazilian ear knows blowing before the wind; 'restolho' is exact but rural and unknown to many; MS1932's diminutive 'palhinha' is his. ante fáciem venti → 'diante da face do vento', as 17:43 and 34:5.",
+      "options": [
+        {"label": "a palha", "forms": {"stipula": "a palha"}, "note": "draft", "from": "draft"},
+        {"label": "o restolho", "forms": {"stipula": "o restolho"}, "note": "DRB 'stubble', exact; rarer", "from": "DRB"},
+        {"label": "uma palhinha", "forms": {"stipula": "uma palhinha"}, "note": "MS1932; the diminutive is his", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "tempestate",
+      "refs": ["82:16"],
+      "latin": "in tempestáte tua",
+      "kind": "grammar",
+      "why": "in + ablative is instrumental here (ἐν τῇ καταιγίδι σου; DRB 'with thy tempest', MS1932 'com'); the second colon's in ira tua is kept as 'na vossa ira'. 'Com' says the instrument plainly; 'na' would keep the two colons parallel but can be heard as pursuing them in the midst of God's storm.",
+      "options": [
+        {"label": "com a vossa tempestade", "forms": {"tempestate": "com a vossa tempestade"}, "note": "draft — DRB, MS1932", "from": "draft"},
+        {"label": "na vossa tempestade", "forms": {"tempestate": "na vossa tempestade"}, "note": "the Latin's preposition, parallel with 'na vossa ira'", "from": "draft"}
+      ]
+    },
+    {
+      "id": "facies",
+      "refs": ["82:17"],
+      "latin": "Imple fácies eórum",
+      "kind": "word",
+      "why": "fácies → face is the row, but the plural 'as faces deles' is heard in Brazil as cheeks; 'rostos' (MS1932) is the plain word for the plural. Cost: rosto is vultus's word (66:2).",
+      "options": [
+        {"label": "os seus rostos", "forms": {"facies": "os seus rostos"}, "note": "draft — MS1932", "from": "MS1932"},
+        {"label": "as suas faces", "forms": {"facies": "as suas faces"}, "note": "the fácies row; plural heard as cheeks", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "ignominia",
+      "refs": ["82:17"],
+      "latin": "ignomínia",
+      "kind": "word",
+      "why": "The cognate (MS1932), plain enough in Portuguese; Greek ἀτιμία 'dishonour'. 'Desonra' is verecúndia/reveréntia's (D43); 'vergonha' belongs to the confúsio family.",
+      "options": [
+        {"label": "ignomínia", "forms": {"ignominia": "ignomínia"}, "note": "draft — MS1932", "from": "MS1932"},
+        {"label": "opróbrio", "forms": {"ignominia": "opróbrio"}, "note": "oppróbrium's word; bookish", "from": "draft"}
+      ]
+    },
+    {
+      "id": "conturbentur",
+      "refs": ["82:18"],
+      "latin": "conturbéntur",
+      "kind": "grammar",
+      "why": "conturbáre → perturbar (row); the passive jussive between two passives. The pronominal 'se perturbem' is the middle reading (47:6 'perturbaram-se') and one syllable shorter than 'sejam perturbados' in a colon that already carries the long formula. 'Corem' (erubéscere row) and 'sejam envergonhados' (D15) as the row itself foresaw for this verse.",
+      "options": [
+        {"label": "se perturbem", "forms": {"conturbentur": "se perturbem"}, "note": "draft — middle, as 47:6", "from": "draft"},
+        {"label": "sejam perturbados", "forms": {"conturbentur": "sejam perturbados"}, "note": "the passive, parallel with 'sejam envergonhados'", "from": "draft"}
+      ]
+    },
+    {
+      "id": "cognoscant",
+      "refs": ["82:19"],
+      "latin": "Et cognóscant quia",
+      "kind": "word",
+      "why": "cognóscere → conhecer (row); with a that-clause the row has used both 'conhecer que' (118:75) and 'saber' (13:4, 19:7a, 55:10). MS1932 has 'conheçam que'. The final verse is a turn: the enemies coming to know God; 'conhecer' carries that better than 'saber'.",
+      "options": [
+        {"label": "conheçam que", "forms": {"cognoscant": "conheçam que"}, "note": "draft — the row, MS1932", "from": "glossary"},
+        {"label": "saibam que", "forms": {"cognoscant": "saibam que"}, "note": "the collocation 13:4 and 19:7a took", "from": "draft"}
+      ]
+    },
+    {
+      "id": "nomen",
+      "refs": ["82:19"],
+      "latin": "quia nomen tibi Dóminus: * tu solus Altíssimus in omni terra",
+      "kind": "order",
+      "why": "nomen tibi Dóminus: 'Lord is your name' (DRB 'the Lord is thy name'; ὄνομά σοι κύριος). Portuguese order puts the name last where the Latin does. The second colon is verbless in the Latin; the copula is supplied (D2). tu solus → 'só vós': MS1932 'só tu és o Altíssimo'. It can be heard 'you alone are Most High' (the sense) — 'vós sois o único Altíssimo' would change the build.",
+      "options": [
+        {"label": "que o vosso nome é Senhor … só vós sois o Altíssimo", "forms": {"nomen": "o vosso nome é Senhor", "solus": "só vós sois o Altíssimo"}, "note": "draft", "from": "draft"},
+        {"label": "que Senhor é o vosso nome … só vós sois o Altíssimo", "forms": {"nomen": "Senhor é o vosso nome", "solus": "só vós sois o Altíssimo"}, "note": "the name first; ends on 'nome' — the Latin ends on Dóminus", "from": "draft"},
+        {"label": "que vos é próprio o nome de Senhor … e que só vós sois o Altíssimo", "forms": {"nomen": "vos é próprio o nome de Senhor", "solus": "e que só vós sois o Altíssimo"}, "note": "MS1932; explains and adds 'e que'", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "82:2": "quis símilis erit tibi: the future kept ('quem será'), where 34:10 and 70:19 have the present ('quem é semelhante a vós?'). Bare vocative Deus twice (D44), as the Latin. tacére → calar-se (row, 27:1).",
+    "82:3": "Quóniam ecce → 'Porque eis que'. extóllere → erguer (row); odérunt present in sense → 'os que vos odeiam' (odísse row, 73:4, 73:23).",
+    "82:5": "Veníte → 'Vinde' (33:12, 45:9); dispérdere → exterminar (row); memorári (passive) → 'não seja mais lembrado' — MS1932 'não haja mais memória' turns the verb into a noun.",
+    "82:6": "testaméntum → aliança (row); disponere testaméntum (διέθεντο) takes 'firmar', the verb ordináre testaméntum took for the same Greek at 49:5. simul → juntos (row). tabernácula → tendas (row). The Latin verse runs on into 82:8 with its list of peoples; so does the Portuguese (subject after the verb).",
+    "82:8": "alienígenæ → estrangeiros (row, 59:10). Gentilics lower case in current Portuguese spelling (idumeus, ismaelitas, agarenos). habitántibus Tyrum → 'os habitantes de Tiro'. Latin 'Ámalec' → Amalec, 'Ammon' → Amon (MS1932).",
+    "82:9": "Étenim → 'Pois também' (the row gives 'pois'; the et of étenim is heard here as 'also', the Greek καὶ γὰρ καὶ, DRB 'Yea, and … also', MS1932 'também'; it falls on Assur, not on God, so 61:3's trap does not arise).",
+    "82:10": "Fac illis → 'Fazei-lhes' (safe: fazei ≠ fiz). torrens → torrente (row). The mediant 'Sísara' is a proparoxytone, as the Latin's 'Sísaræ'; accepted.",
+    "82:11": "disperíre → 'perecer de todo' (row, which names 82:11; ἐξωλεθρεύθησαν). stercus terræ → 'o esterco da terra' (MS1932); DRB's 'dung for the earth' follows the Greek dative τῇ γῇ; the Latin genitive is kept. The second colon is +5 syllables (checks): the Latin is eight syllables and the Portuguese needs the verb, the comparison and the article; accepted.",
+    "82:12": "The Latin's polysyndeton (et Zeb, et Zébee, et Sálmana) kept.",
+    "82:13": "hereditáte possidére → 'possuir por herança' (possidére → possuir, open row; the build of hereditáte acquírere → adquirir por herança). Sanctuárium → santuário (row, 72:17, 73:7). The colon is long in the Latin too.",
+    "82:14": "Deus meus → 'Meu Deus'. rota → roda (the Latin's image; 76:18 'na roda').",
+    "82:15": "combúrit … combúrens → 'que queima … que queima': the Latin's repetition kept (D2); MS1932 varies it ('queima … abrasa'). combúrere → queimar (45:10). silva → selva (D44).",
+    "82:16": "persequéris is future (the accent; καταδιώξεις) → 'perseguireis'; turbáre → perturbar (row).",
+    "82:17": "Imple → 'Enchei' (safe: past 'enchi'). quǽrere → buscar (row).",
+    "82:18": "erubéscere → corar (row, which named this verse); confúndi → ser envergonhado (D15); in sǽculum sǽculi → pelos séculos dos séculos (D27). The mediant is the formula's proparoxytone, accepted as in 18:10, 21:27. The second colon is +3 (checks): *sejam envergonhados* is D15’s cost; accepted."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from the parallels (no Diurnal: not a day-hour psalm). Hard readings: 82:4 malignavérunt consílium (transitive, only here), 82:5 de gente (ἐξ ἔθνους), 82:19 nomen tibi Dóminus. Glossary departures: cogitáre → maquinar (absolute and hostile, 82:4, 82:6; decision cogit); fácies plural → rostos (82:17). Names as MS1932 prints them, but Madiã."},
+    {"step": "checks", "note": "Hard pass. Soft: 82:6b −5 (the Latin's long list colon; fine), 82:11b +5 and 82:18b +3, both accepted (see choices). Proparoxytone mediants at 82:10 (Sísara, as the Latin's Sísaræ), 82:13 (príncipes, as the Latin's own colon runs) and 82:18 (the formula) accepted. No rhyme flags."}
+  ]
+}

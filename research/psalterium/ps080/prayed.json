@@ -1,0 +1,1005 @@
+{
+  "psalm": 80,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "80:2": "{exsultate} Deus, {adjutori}: * aclamai ao Deus de Jacó.",
+    "80:3": "{sumite} um salmo, e {date}: * {order3}.",
+    "80:4": "Tocai a trombeta {neomenia}, * no dia {insigni} da vossa solenidade.",
+    "80:5": "Porque é decreto em Israel: * e juízo {deojacob}.",
+    "80:6": "Em José {posuit}, quando saía da terra do Egito: * ouviu uma língua que não conhecia.",
+    "80:7": "{divertit} dos fardos as suas costas: * as suas mãos serviram {cophino}.",
+    "80:8": "Na tribulação me invocaste, e eu te livrei: * eu te escutei {abscondito} da tempestade: eu te provei junto à água da {contradictionis}.",
+    "80:9": "Ouve, meu povo, e {contestabor}: * Israel, se me ouvires, não haverá em ti um deus {recens}, nem adorarás um deus estranho.",
+    "80:11": "Pois eu sou o Senhor, teu Deus, que {eduxi} da terra do Egito: * {dilata} a tua boca, e eu a encherei.",
+    "80:12": "{et12} o meu povo não ouviu a minha voz: * e Israel não me atendeu.",
+    "80:13": "E eu os deixei ir segundo os desejos do seu coração: * {ibunt} suas invenções.",
+    "80:14": "Se o meu povo me tivesse ouvido: * se Israel tivesse andado nos meus caminhos:",
+    "80:15": "{pronihilo} eu teria humilhado os seus inimigos: * e teria {misissem} a minha mão sobre aqueles que os atribulam.",
+    "80:16": "Os inimigos do Senhor lhe mentiram: * e o tempo deles será pelos séculos.",
+    "80:17": "E os alimentou {adipe}: * e da rocha os saciou de mel."
+  },
+  "decisions": [
+    {
+      "id": "exsultate",
+      "refs": [
+        "80:2"
+      ],
+      "latin": "Exsultáte Deo",
+      "kind": "glossary",
+      "why": "*exsultáre* + dative: the glossary's open row *exultar para* was made in Ps 2:11 (*exultai para ele*) and names this verse. The dative is the Greek's too (ἀγαλλιᾶσθε τῷ θεῷ). *exultar em* is *exsultáre in* (32:1 *Exultai no Senhor*) and would say where the joy rests rather than to whom it goes; a bare *Exultai a Deus* is not Portuguese (*exultar* takes no object, as the 50:16 row says). v1: the stylist asked *Exultai a Deus*; kept as option 4, the row stands (a glossary word is not changed in one psalm).",
+      "options": [
+        {
+          "label": "Exultai para",
+          "forms": {
+            "exsultate": "Exultai para"
+          },
+          "note": "Ruling: the row, as at 2:11; keeps the dative.",
+          "from": "glossary"
+        },
+        {
+          "label": "Exultai em",
+          "forms": {
+            "exsultate": "Exultai em"
+          },
+          "note": "the natural Portuguese build, but it is *exsultáre in*'s (32:1).",
+          "from": "draft"
+        },
+        {
+          "label": "Exultai diante de",
+          "forms": {
+            "exsultate": "Exultai diante de"
+          },
+          "note": "the Ps 2 stylist's proposal; refused there as *in conspéctu*'s relation.",
+          "from": "glossary"
+        },
+        {
+          "label": "Exultai a",
+          "forms": {
+            "exsultate": "Exultai a"
+          },
+          "note": "stylist v1: heard *para* as a direction of travel. Refused: the row (2:11) keeps *para*; *exultar* takes no dative object in Portuguese and *a Deus* would be heard as one.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "adjutori",
+      "refs": [
+        "80:2"
+      ],
+      "latin": "adjutóri nostro",
+      "kind": "glossary",
+      "why": "*adjútor → auxílio* (row, uniform 14/14, open for Gustavo): the person named by what he gives, as with *suscéptor → amparo*. DRB 'our helper'; MS1932 *nosso protector* (that is *protéctor*'s word).",
+      "options": [
+        {
+          "label": "nosso auxílio",
+          "forms": {
+            "adjutori": "nosso auxílio"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "nosso auxiliador",
+          "forms": {
+            "adjutori": "nosso auxiliador"
+          },
+          "note": "the agent noun; the row's standing option.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "sumite",
+      "refs": [
+        "80:3"
+      ],
+      "latin": "Súmite psalmum",
+      "kind": "word",
+      "why": "*súmere* is 'take up' (λάβετε ψαλμόν); DRB 'Take a psalm'. MS1932 *Entoai um salmo* gives the sense, but *entoar um salmo* is the psalter's fixed rendering of *psalmum dícere* (17:50, 56:8, 65:1, 67:5a), so using it here would make two Latin phrases one. *Tomai um salmo* keeps the Latin's verb and is heard at once as 'take up a song'.",
+      "options": [
+        {
+          "label": "Tomai",
+          "forms": {
+            "sumite": "Tomai"
+          },
+          "note": "Ruling: the Latin's verb; DRB.",
+          "from": "draft"
+        },
+        {
+          "label": "Entoai",
+          "forms": {
+            "sumite": "Entoai"
+          },
+          "note": "MS1932; collides with *psalmum dícere → entoar um salmo*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Erguei",
+          "forms": {
+            "sumite": "Erguei"
+          },
+          "note": "'raise a psalm'; more native, but 'raise' is not *súmere*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "date",
+      "refs": [
+        "80:3"
+      ],
+      "latin": "et date týmpanum",
+      "kind": "word",
+      "why": "*date týmpanum* (δότε τύμπανον) is 'give the drum' — sound it, or hand it over (DRB 'bring hither the timbrel'). *Dai* keeps the Latin's verb and both readings; *tocai* (MS1932 *tocai os timbales*) decides for one. *týmpanum* → *tamborim*, the hand-drum, as 67:26 *tympanistriárum → moças que tocavam tamborins*; *tímpano* is the ear's drum or the orchestra's kettle-drum to a Brazilian. *Tocai* is also taken by *buccináte* in the next verse. v1: both the stylist and the ambiguity reader heard 'hand over the tambourine' first. That is one of the Latin's own two readings (DRB 'bring hither'), so the verb is kept; *fazei soar* (stylist) is option 5 and *tocai* option 2 — the first place Gustavo may want to overrule.",
+      "options": [
+        {
+          "label": "dai o tamborim",
+          "forms": {
+            "date": "dai o tamborim"
+          },
+          "note": "Ruling: the Latin's verb; 67:26's instrument.",
+          "from": "draft"
+        },
+        {
+          "label": "tocai o tamborim",
+          "forms": {
+            "date": "tocai o tamborim"
+          },
+          "note": "MS1932's verb; decides the sense and repeats *Tocai* of 80:4.",
+          "from": "MS1932"
+        },
+        {
+          "label": "trazei o tamborim",
+          "forms": {
+            "date": "trazei o tamborim"
+          },
+          "note": "DRB 'bring hither'; decides the other way.",
+          "from": "DRB"
+        },
+        {
+          "label": "dai o tímpano",
+          "forms": {
+            "date": "dai o tímpano"
+          },
+          "note": "the cognate; heard as the eardrum.",
+          "from": "draft"
+        },
+        {
+          "label": "fazei soar o tamborim",
+          "forms": {
+            "date": "fazei soar o tamborim"
+          },
+          "note": "stylist v1: 'give it voice'. The sense, but *soar* is supplied and *dar* lost.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "jucundum",
+      "refs": [
+        "80:3"
+      ],
+      "latin": "psaltérium jucúndum",
+      "kind": "glossary",
+      "why": "*jucúndus → agradável* (open row, which names this verse; τερπνόν, 'delightful'). DRB 'pleasant'. MS1932 *harmonioso* describes the sound, which the word does not say. *suave* is kept for *suávis*. v1: the stylist found *agradável* flat and asked *suave*; refused (the *suávis* row), option 4.",
+      "options": [
+        {
+          "label": "agradável",
+          "forms": {
+            "jucundum": "agradável"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "deleitoso",
+          "forms": {
+            "jucundum": "deleitoso"
+          },
+          "note": "closer to τερπνόν, but the row keeps it for *delectári*.",
+          "from": "draft"
+        },
+        {
+          "label": "harmonioso",
+          "forms": {
+            "jucundum": "harmonioso"
+          },
+          "note": "MS1932; interprets.",
+          "from": "MS1932"
+        },
+        {
+          "label": "suave",
+          "forms": {
+            "jucundum": "suave"
+          },
+          "note": "stylist v1 ('agradável' flat); refused: *suave* is *suávis*'s word.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "neomenia",
+      "refs": [
+        "80:4"
+      ],
+      "latin": "in Neoménia",
+      "kind": "word",
+      "why": "*Neoménia* is the Greek word for the new moon (νεομηνία), carried over by the Latin. MS1932 keeps *Neoménia*, which a Brazilian does not know. *lua nova* is the word's own meaning, not a gloss, and is plain.",
+      "options": [
+        {
+          "label": "na lua nova",
+          "forms": {
+            "neomenia": "na lua nova"
+          },
+          "note": "Ruling: the meaning of the word, in plain Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "na neomênia",
+          "forms": {
+            "neomenia": "na neomênia"
+          },
+          "note": "MS1932's cognate; needs a footnote (rule 5).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "insigni",
+      "refs": [
+        "80:4"
+      ],
+      "latin": "in insígni die",
+      "kind": "word",
+      "why": "*insígnis* (from *signum*; Greek εὔσημος, 'well-marked') is 'marked out, distinguished'; DRB 'the noted day'. *assinalado* keeps the sign in the root and in Brazil *o dia assinalado* is the appointed day, which is what a feast is. The cognate *insigne* is correct but bookish beside *dia*, and MS1932 has it.",
+      "options": [
+        {
+          "label": "assinalado",
+          "forms": {
+            "insigni": "assinalado"
+          },
+          "note": "Ruling: *signum* kept in the root; a living phrase.",
+          "from": "draft"
+        },
+        {
+          "label": "insigne",
+          "forms": {
+            "insigni": "insigne"
+          },
+          "note": "MS1932; the cognate, bookish with *dia*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "notável",
+          "forms": {
+            "insigni": "notável"
+          },
+          "note": "DRB 'noted'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "deojacob",
+      "refs": [
+        "80:5"
+      ],
+      "latin": "et judícium Deo Jacob",
+      "kind": "ambiguity",
+      "why": "*Deo Jacob* is a dative (τῷ θεῷ Ιακωβ), and the Latin leaves open whether the ordinance is the God of Jacob's (possession, as MS1932 *uma ordem do Deus de Jacob*) or is kept for him (DRB 'a judgment to the God of Jacob'). *do* reads the dative of possession, which the parallel colon *in Israël* ('a statute in Israel') points to; *para o* keeps the case but is heard as 'a judgment in favour of God'. Ruled *do*; the Latin's case is the option. v1: the Latinist (minor) asked for *para o*, calling *do* defensible; refused — the ambiguity reader heard *do* as God's own ordinance, which is the reading the parallel *in Israël* supports. The articles *um … um* were dropped in v2 at the stylist's request (the vowels of *Porque é um*); the Latin has none.",
+      "options": [
+        {
+          "label": "do Deus de Jacó",
+          "forms": {
+            "deojacob": "do Deus de Jacó"
+          },
+          "note": "Ruling: dative of possession; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "para o Deus de Jacó",
+          "forms": {
+            "deojacob": "para o Deus de Jacó"
+          },
+          "note": "the case to the letter; DRB 'to the God of Jacob'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "posuit",
+      "refs": [
+        "80:6"
+      ],
+      "latin": "Testimónium in Joseph pósuit illud",
+      "kind": "grammar",
+      "why": "*pónere* with a predicate noun: 'he set it (the ordinance) as a testimony in Joseph'. The *pónere + predicate* row asks for the verb the Portuguese build wants; here *pôr … como* is sayable and keeps the Latin's verb. *illud* is neuter ('it' — the statute of 80:5); *o* carries it. *Em José* moves to the front, as the Latin's *in Joseph* stands early, and lets the pronoun stand before the verb. The subject is not named in the Latin; it is God by 80:5. MS1932 *Estabeleceu isto como lei para José* changes both the verb and the noun.",
+      "options": [
+        {
+          "label": "o pôs como testemunho",
+          "forms": {
+            "posuit": "o pôs como testemunho"
+          },
+          "note": "Ruling: the Latin's verb and noun.",
+          "from": "draft"
+        },
+        {
+          "label": "o estabeleceu como testemunho",
+          "forms": {
+            "posuit": "o estabeleceu como testemunho"
+          },
+          "note": "MS1932's verb; more formal, not *pónere*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fez disso um testemunho",
+          "forms": {
+            "posuit": "fez disso um testemunho"
+          },
+          "note": "the *fazer de* build of the row (17:12).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "divertit",
+      "refs": [
+        "80:7"
+      ],
+      "latin": "Divértit ab onéribus dorsum ejus",
+      "kind": "word",
+      "why": "*divértere ab* is 'turn aside from' (L&S); the Greek ἀπέστησεν is 'removed'. *Afastou dos fardos as suas costas* keeps the image: the back taken away from under the loads. *dorsum → costas* (the human back, per the *dorsum* row; *dorso* is an animal's). The subject is God (Latin third person, against the Hebrew's first). MS1932 *Libertou os seus ombros* changes both words.",
+      "options": [
+        {
+          "label": "Afastou",
+          "forms": {
+            "divertit": "Afastou"
+          },
+          "note": "Ruling: 'turned away', the plain verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Desviou",
+          "forms": {
+            "divertit": "Desviou"
+          },
+          "note": "the root of *divértere*; *desviar as costas* is odd.",
+          "from": "draft"
+        },
+        {
+          "label": "Livrou",
+          "forms": {
+            "divertit": "Livrou"
+          },
+          "note": "near MS1932; interprets and takes *liberáre*'s verb (80:8).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cophino",
+      "refs": [
+        "80:7"
+      ],
+      "latin": "in cóphino serviérunt",
+      "kind": "word",
+      "why": "*cóphinus* is a basket (L&S), singular in the Latin and the Greek (ἐν τῷ κοφίνῳ). DRB 'in baskets' and MS1932 *dos cestos* put it in the plural. The hands 'served in the basket': the labourer's basket for earth and bricks. Kept singular, not explained.",
+      "options": [
+        {
+          "label": "no cesto",
+          "forms": {
+            "cophino": "no cesto"
+          },
+          "note": "Ruling: the Latin's number and preposition.",
+          "from": "draft"
+        },
+        {
+          "label": "nos cestos",
+          "forms": {
+            "cophino": "nos cestos"
+          },
+          "note": "DRB, MS1932.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "abscondito",
+      "refs": [
+        "80:8"
+      ],
+      "latin": "in abscóndito tempestátis",
+      "kind": "glossary",
+      "why": "*in abscóndito* + genitive → *no lugar escondido de*, as 26:5 (*no lugar escondido da sua tenda*) and 30:21 (*no lugar escondido da vossa face*). DRB 'in the secret place of tempest'; MS1932 *no recôndito* is bookish.",
+      "options": [
+        {
+          "label": "no lugar escondido",
+          "forms": {
+            "abscondito": "no lugar escondido"
+          },
+          "note": "Ruling: 26:5, 30:21.",
+          "from": "glossary"
+        },
+        {
+          "label": "no segredo",
+          "forms": {
+            "abscondito": "no segredo"
+          },
+          "note": "shorter; moves the image from a place to a secret.",
+          "from": "draft"
+        },
+        {
+          "label": "no recôndito",
+          "forms": {
+            "abscondito": "no recôndito"
+          },
+          "note": "MS1932; bookish.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "contradictionis",
+      "refs": [
+        "80:8"
+      ],
+      "latin": "apud aquam contradictiónis",
+      "kind": "glossary",
+      "why": "*contradíctio → contenda* is the open row (17:44, 30:21, 54:10), made because *contradições* was heard as inconsistencies. The row itself sets this verse and 105:32 apart: *aqua contradictiónis* is the name of a place (Meribah, 'strife'), and in a name the fault does not arise — *a água da contradição* is heard as a name. DRB 'the waters of contradiction'; MS1932 *águas da contradição*. The Latin's singular *aquam* is kept. 105:32 should copy this.",
+      "options": [
+        {
+          "label": "contradição",
+          "forms": {
+            "contradictionis": "contradição"
+          },
+          "note": "Ruling: a name, as the row foresaw; DRB, MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "contenda",
+          "forms": {
+            "contradictionis": "contenda"
+          },
+          "note": "the row's general word.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "contestabor",
+      "refs": [
+        "80:9"
+      ],
+      "latin": "et contestábor te",
+      "kind": "glossary",
+      "why": "The Greek is 49:7's word for word (διαμαρτύρομαί σοι), where the Latin has *testificábor tibi* and the text reads *e eu te darei testemunho* (row *testificári*, settled D44). By D15's test (one Greek, one Portuguese), the same words here. *contestári* in L&S is 'call to witness'; DRB 'I will testify to thee'. MS1932 *eu te instruirei* interprets. The solemn warning (the sense of διαμαρτύρομαι) is carried by what follows.",
+      "options": [
+        {
+          "label": "eu te darei testemunho",
+          "forms": {
+            "contestabor": "eu te darei testemunho"
+          },
+          "note": "Ruling: = 49:7 (one Greek); DRB.",
+          "from": "glossary"
+        },
+        {
+          "label": "eu te tomarei por testemunha",
+          "forms": {
+            "contestabor": "eu te tomarei por testemunha"
+          },
+          "note": "L&S's classical sense of *contestári*.",
+          "from": "draft"
+        },
+        {
+          "label": "eu te advertirei",
+          "forms": {
+            "contestabor": "eu te advertirei"
+          },
+          "note": "the solemn warning of διαμαρτύρομαι; interprets.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "recens",
+      "refs": [
+        "80:9"
+      ],
+      "latin": "deus recens",
+      "kind": "word",
+      "why": "*recens* is 'fresh, new' (πρόσφατος); DRB 'no new god', MS1932 *Deus novo*. *recente* is correct but is heard as a date. The articles *um deus … um deus* are supplied (43:21 *um deus estranho*).",
+      "options": [
+        {
+          "label": "novo",
+          "forms": {
+            "recens": "novo"
+          },
+          "note": "Ruling: DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "recente",
+          "forms": {
+            "recens": "recente"
+          },
+          "note": "the cognate.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eduxi",
+      "refs": [
+        "80:11"
+      ],
+      "latin": "qui edúxi te de terra Ægýpti",
+      "kind": "glossary",
+      "why": "*edúcere* is an open row: *fazer sair* where there is no *de* (17:20, 65:12), and the row foresees *tirar de* where there is (29:4 *tirastes do inferno*, 39:3 *me tirou da cova*). The Exodus formula takes *tirar*; MS1932 has the same. *te fiz sair* keeps the 'lead out' better and is the option.",
+      "options": [
+        {
+          "label": "te tirei",
+          "forms": {
+            "eduxi": "te tirei"
+          },
+          "note": "Ruling: the row with *de*; MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "te fiz sair",
+          "forms": {
+            "eduxi": "te fiz sair"
+          },
+          "note": "17:20's build; nearer *e-dúcere*.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "dilata",
+      "refs": [
+        "80:11"
+      ],
+      "latin": "diláta os tuum",
+      "kind": "word",
+      "why": "*dilatáre os* is 'open the mouth wide' (πλάτυνον τὸ στόμα; DRB 'open thy mouth wide'). The same Latin phrase at 34:21 is *escancararam contra mim a sua boca* — right there, where the mouth is a mocker's; here it is a nestling's mouth held open to be filled, and *escancarar* would be heard as coarse. *Abre bem* is the idiom a Brazilian uses for exactly this; *bem* carries the *di-* of the verb. The dilatáre row is open and already has two renderings (4:2a, 118:32). Consistency with 34:21 is the option.",
+      "options": [
+        {
+          "label": "abre bem",
+          "forms": {
+            "dilata": "abre bem"
+          },
+          "note": "Ruling: the living idiom for the Latin's sense; MS1932 *abre*.",
+          "from": "draft"
+        },
+        {
+          "label": "escancara",
+          "forms": {
+            "dilata": "escancara"
+          },
+          "note": "= 34:21 for the same Latin; harsh here.",
+          "from": "glossary"
+        },
+        {
+          "label": "alarga",
+          "forms": {
+            "dilata": "alarga"
+          },
+          "note": "the verb to the letter (17:37 *Alargastes os meus passos*); odd with *boca*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "et12",
+      "refs": [
+        "80:12"
+      ],
+      "latin": "Et non audívit",
+      "kind": "word",
+      "why": "The Latin says *Et*; the turn is adversative in sense (DRB 'But'), and MS1932 keeps *E*. The psalm's chain of *et* (80:12, 13, 17) is kept as the Latin has it.",
+      "options": [
+        {
+          "label": "E",
+          "forms": {
+            "et12": "E"
+          },
+          "note": "Ruling: the Latin's word; MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "Mas",
+          "forms": {
+            "et12": "Mas"
+          },
+          "note": "DRB 'But'; states what the Latin leaves to the hearer.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "ibunt",
+      "refs": [
+        "80:13"
+      ],
+      "latin": "ibunt in adinventiónibus suis",
+      "kind": "word",
+      "why": "*ire* is 'go'; the future is kept (DRB 'they shall walk', MS1932 *irão caminhando*). *irão nas suas invenções* is not a Portuguese sentence; *andarão* is *ambuláre*'s verb, which comes in the next verse (80:14 *ambulásset → tivesse andado*), and the two Latin verbs would merge. *caminharão* is the plain verb of going on foot and stays apart. *adinvéntio → invenções* (open row, 27:4, 76:13).",
+      "options": [
+        {
+          "label": "caminharão",
+          "forms": {
+            "ibunt": "caminharão nas"
+          },
+          "note": "Ruling: 'go', kept apart from *ambuláre → andar* in 80:14.",
+          "from": "draft"
+        },
+        {
+          "label": "andarão",
+          "forms": {
+            "ibunt": "andarão nas"
+          },
+          "note": "DRB 'walk'; merges with 80:14.",
+          "from": "DRB"
+        },
+        {
+          "label": "irão atrás das",
+          "forms": {
+            "ibunt": "irão atrás das"
+          },
+          "note": "MS1932-like; *atrás* is added.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pronihilo",
+      "refs": [
+        "80:15"
+      ],
+      "latin": "Pro níhilo fórsitan",
+      "kind": "word",
+      "why": "*pro níhilo* (ἐν τῷ μηδενί, 'in no time, at no cost') and *fórsitan* (the Latin's way of rendering the Greek ἄν of a counterfactual). The *pro níhilo* row settled *por nada* at 55:8 and says this verse is another build to decide locally. *Por nada* here is heard as 'for next to nothing, at no cost' (as one buys something *por nada*), which is the sense; it keeps the Latin's word where *facilmente* (MS1932) and *em breve* (DRB 'soon') explain. *talvez* is kept because the Latin says *fórsitan*; set between commas it reads as the speaker's reserve, not as doubt about the verb. v1: both the stylist and the ambiguity reader heard *Por nada* as 'for no reason' or 'in vain' — the opposite of the sense; a wrong first hearing is a fault (D2), so this verse departs from the 55:8 row as the row allowed. *Com um nada* (the stylist's) keeps the Latin's 'nothing' and says the ease. The ambiguity reader also heard *talvez* as doubt; it is the Latin's *fórsitan*, kept.",
+      "options": [
+        {
+          "label": "Com um nada, talvez,",
+          "forms": {
+            "pronihilo": "Com um nada, talvez,"
+          },
+          "note": "Ruling (v2): the stylist's; keeps *nihil* and is heard as 'with a trifle, easily'.",
+          "from": "stylist"
+        },
+        {
+          "label": "Por nada, talvez,",
+          "forms": {
+            "pronihilo": "Por nada, talvez,"
+          },
+          "note": "draft 1: the row's *por nada*; v1 stylist and ambiguity reader both heard 'for no reason / in vain' — a reversal of the sense.",
+          "from": "glossary"
+        },
+        {
+          "label": "Facilmente, talvez,",
+          "forms": {
+            "pronihilo": "Facilmente, talvez,"
+          },
+          "note": "MS1932 *fàcilmente*; explains the idiom.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Em breve, talvez,",
+          "forms": {
+            "pronihilo": "Em breve, talvez,"
+          },
+          "note": "DRB 'soon'.",
+          "from": "DRB"
+        },
+        {
+          "label": "Por nada",
+          "forms": {
+            "pronihilo": "Por nada"
+          },
+          "note": "*fórsitan* left to the conditional mood, as DRB and MS1932 do.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "misissem",
+      "refs": [
+        "80:15"
+      ],
+      "latin": "misíssem manum meam",
+      "kind": "word",
+      "why": "*míttere* is mostly *enviar* in this psalter (17:15, 17:17, 56:4); with *super* and a thing thrown it is *lançar* (21:18 *lançaram sortes*). 'Send my hand upon' is the gesture of striking (ἐπέβαλον); *lançar a mão sobre* says it, where *enviar a mão* is not Portuguese. MS1932 *descarregado* interprets. v1: the stylist heard *os que os atribulam* as a stutter; *aqueles que os atribulam* taken (a pronoun, grammar).",
+      "options": [
+        {
+          "label": "lançado",
+          "forms": {
+            "misissem": "lançado"
+          },
+          "note": "Ruling: 21:18's verb with *super*.",
+          "from": "draft"
+        },
+        {
+          "label": "posto",
+          "forms": {
+            "misissem": "posto"
+          },
+          "note": "plainer, weaker.",
+          "from": "draft"
+        },
+        {
+          "label": "estendido",
+          "forms": {
+            "misissem": "estendido"
+          },
+          "note": "idiomatic, but it is *exténdere*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adipe",
+      "refs": [
+        "80:17"
+      ],
+      "latin": "ex ádipe fruménti",
+      "kind": "glossary",
+      "why": "The *adeps* row names this verse (= 147:3): 'the fat of wheat' is the finest of it, and *a flor do trigo* (MS1932) is the Portuguese idiom — but it swaps the Latin's image for another, and rule 5 names *fat* among the concrete images that stay. DRB keeps 'the fat of wheat'. *da gordura* also keeps the *ex … de* parallel with *de petra* (*da rocha*). 147:3 should copy this.",
+      "options": [
+        {
+          "label": "da gordura do trigo",
+          "forms": {
+            "adipe": "da gordura do trigo"
+          },
+          "note": "Ruling: the image kept (rule 5); DRB.",
+          "from": "glossary"
+        },
+        {
+          "label": "com a flor do trigo",
+          "forms": {
+            "adipe": "com a flor do trigo"
+          },
+          "note": "MS1932 *da flor do trigo*; the idiom, another image.",
+          "from": "MS1932"
+        },
+        {
+          "label": "com o melhor do trigo",
+          "forms": {
+            "adipe": "com o melhor do trigo"
+          },
+          "note": "the sense, without an image.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "order3",
+      "refs": [
+        "80:3"
+      ],
+      "latin": "psaltérium jucúndum cum cíthara",
+      "kind": "order",
+      "why": "v1: the stylist heard the verse fall badly on the proparoxytone *cítara*, and asked for the order *com a cítara, o saltério …*. Order is the ear's (D2), and nothing of the Latin is lost; the colon now closes on the paroxytone *agradável*. The ambiguity reader heard *saltério* as the book of Psalms first — the Latin *psaltérium* has the same double sense, kept.",
+      "options": [
+        {
+          "label": "com a cítara, o saltério agradável",
+          "forms": {
+            "order3": "com a cítara, o saltério {jucundum}"
+          },
+          "note": "Ruling (v2): the stylist's order, with the row's adjective.",
+          "from": "stylist"
+        },
+        {
+          "label": "o saltério agradável com a cítara",
+          "forms": {
+            "order3": "o saltério {jucundum} com a cítara"
+          },
+          "note": "draft 1: the Latin's order, closing on the proparoxytone as the Latin does.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "80:2": "*jubiláre → aclamar* (D43); *Deo Jacob → ao Deus de Jacó* (74:10). The people are addressed as *vós* (plural humans).",
+    "80:3": "*psaltérium → saltério*, *cíthara → cítara* (open rows, 32:2). The verse ends on the proparoxytone *cítara*, as the Latin ends on *cíthara*.",
+    "80:4": "*buccináte … tuba → Tocai a trombeta*: the verb 'blow the trumpet' and its instrument are said by one Portuguese verb and its object; *tuba → trombeta* (46:6). *solemnitátis vestræ → da vossa solenidade* (73:4 *solenidade*): the Latin's *vestræ* (the Greek has 'our'), said to the people.",
+    "80:5": "*præcéptum → decreto* (D19; this verse is in its list). *in Israël* → *em Israel*, the Latin's preposition (the Greek has a dative). The subject of *est* (the feast of 80:4) is left unspoken, as in the Latin. v2: *Porque é decreto … e juízo* without articles, as the Latin (stylist: the hiatus *é um*).",
+    "80:6": "*cum exíret* has no named subject: God (the Hebrew's reading) or Joseph (the people); *quando saía* keeps it open. *linguam, quam non nóverat, audívit*: the subject again unnamed; the Latin's object-first order is put in Portuguese order. *nóverat* (pluperfect of *nosco*, 'had come to know' = knew) → *não conhecia*.",
+    "80:7": "*ejus … ejus → as suas … as suas*: Joseph's, as the Latin.",
+    "80:8": "God speaks from here to the end, and speaks to Israel as *tu* (D17). *invocáre → invocar*, *liberáre → livrar*, *exaudíre → escutar* (D3), *probáre → provar* (16:3, 65:10). v2: *eu te escutei … eu te provei* with the pronoun before the verb, as in the first colon (stylist: *escutei-te … provei-te* stiff after *me invocaste … te livrei*); the subject *eu* named to carry the proclisis (rule 2).",
+    "80:9": "*Audi, pópulus meus → Ouve, meu povo*, word for word 49:7's opening. The DO verse joins the Vulgate's 9 and 10 into one prayed verse; the long second colon is the Latin's. *aliénus → estranho* (row; 43:21 *um deus estranho*).",
+    "80:11": "*Ego enim sum → Pois eu sou*. *Dóminus Deus tuus → o Senhor, teu Deus* (the comma for the apposition).",
+    "80:12": "*inténdere → atender* (D3; 39:2, 76:2 *e ele me atendeu*).",
+    "80:13": "*dimíttere* (let go) *→ deixar ir* (row, from the Nunc dimittis). *cordis eórum* singular *→ do seu coração*.",
+    "80:14": "The Latin's second *si* stands inside its colon (*Israël si*); Portuguese puts it first. *ambuláre → andar* (row), *via → caminho*.",
+    "80:15": "The counterfactual (*humiliássem … misíssem*) → *teria humilhado … teria lançado*, answering *tivesse ouvido* of 80:14. *tribulántes eos → os que os atribulam* (row *tribuláre*). The Latin order *super tribulántes … manum meam* is turned so that the colon ends on the verb phrase's natural close.",
+    "80:16": "*mentíri* + dative *→ mentir a* (17:46). *in sǽcula → pelos séculos* (D43; this verse is in its list). *tempus eórum* is left as open as the Latin: the enemies' time, most readers say.",
+    "80:17": "The speaker returns to the third person (*cibávit*), as the Latin has it, against the Hebrew. *petra → rocha* (row); definite here, *da rocha*, because it is the rock of the desert and Portuguese says *de uma rocha* only of any rock. *saturáre → saciar* (row), with *de*, as 16:14c *saciados de filhos*. *cibáre → alimentar*."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps080.md (no Diurnal text for this psalm in the parallels file). Hard readings: 80:5 the dative *Deo Jacob*; 80:6 the unnamed subjects of *exíret* and *audívit*; 80:8 *aqua contradictiónis* as a name; 80:9 *contestábor* against 49:7's *testificábor* (one Greek); 80:11 *diláta os* against 34:21; 80:15 *pro níhilo fórsitan*; 80:17 *ádipe fruménti*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 80:4b +3 (*assinalado* is two syllables longer than *insigne*; accepted for the plain word, *insigne* is option 2); 80:8a -3 and 80:11a -4 (Portuguese is shorter; accepted); 80:15b +4 (the compound conditional *teria lançado* answering *tivesse ouvido*; accepted, within one breath). The proparoxytone close of 80:3 (*cítara*) and 80:16 (*séculos*) mirrors the Latin's. No rhyme flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. One minor (80:5 dative); refused. Overall: faithful, marks match.",
+      "outcomes": [
+        {
+          "verse": "80:5",
+          "remark": "genitive *do Deus de Jacó* settles the dative",
+          "outcome": "refused",
+          "decision": "deojacob",
+          "reason": "he calls it defensible; the possessive dative is what the parallel *in Israël* supports and what the ambiguity reader heard; *para o* is heard as 'in God's favour'. Kept as option 2."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Seven remarks; four taken, three kept as options. Best line 80:17, worst 80:15.",
+      "outcomes": [
+        {
+          "verse": "80:2",
+          "remark": "*exultar para* not native; *Exultai a Deus*",
+          "outcome": "option",
+          "decision": "exsultate",
+          "reason": "the glossary row (2:11) stands; a row is not changed in one psalm."
+        },
+        {
+          "verse": "80:3",
+          "remark": "*dai o tamborim* heard as 'hand over'; *fazei soar*",
+          "outcome": "option",
+          "decision": "date",
+          "reason": "'hand over' is one of the Latin's two readings (DRB); *soar* is supplied."
+        },
+        {
+          "verse": "80:3",
+          "remark": "final proparoxytone *cítara*; reorder",
+          "outcome": "taken",
+          "decision": "order3"
+        },
+        {
+          "verse": "80:3",
+          "remark": "*agradável* flat; *suave*",
+          "outcome": "option",
+          "decision": "jucundum",
+          "reason": "*suave* is *suávis*'s word (row)."
+        },
+        {
+          "verse": "80:5",
+          "remark": "hiatus *Porque é um*; drop the articles",
+          "outcome": "taken"
+        },
+        {
+          "verse": "80:8",
+          "remark": "enclisis *escutei-te … provei-te* after proclisis",
+          "outcome": "taken"
+        },
+        {
+          "verse": "80:15",
+          "remark": "*Por nada* misheard; *Com um nada*",
+          "outcome": "taken",
+          "decision": "pronihilo"
+        },
+        {
+          "verse": "80:15",
+          "remark": "*os que os* stutters; *aqueles que os*",
+          "outcome": "taken",
+          "decision": "misissem"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. 22 readings; most are the Latin's own openness (subjects in 80:6–7, the time of the enemies in 80:16, *eos* in 80:17). Unknown: *saltério*, *cítara*, *assinalado*, *fardos*, *atribulam*.",
+      "outcomes": [
+        {
+          "verse": "80:3",
+          "remark": "*dai o tamborim* heard as 'hand over'",
+          "outcome": "refused",
+          "decision": "date",
+          "reason": "one of the Latin's own readings; option kept."
+        },
+        {
+          "verse": "80:3",
+          "remark": "*saltério* heard as the book of Psalms",
+          "outcome": "refused",
+          "reason": "*psaltérium* has the same double sense in Latin; the instrument is clear beside *cítara*."
+        },
+        {
+          "verse": "80:5",
+          "remark": "subject of *é* not audible",
+          "outcome": "refused",
+          "reason": "the Latin leaves it unspoken."
+        },
+        {
+          "verse": "80:6",
+          "remark": "subjects of *pôs*, *saía*, *ouviu* unclear",
+          "outcome": "refused",
+          "reason": "the Latin's openness (choices 80:6)."
+        },
+        {
+          "verse": "80:8",
+          "remark": "*água da contradição* not recognized as a place name",
+          "outcome": "refused",
+          "decision": "contradictionis",
+          "reason": "it is the Latin's name, and the image of strife is heard; *contenda* option."
+        },
+        {
+          "verse": "80:9",
+          "remark": "*darei testemunho* heard as 'in your favour'",
+          "outcome": "refused",
+          "decision": "contestabor",
+          "reason": "= 49:7 (one Greek); *advertirei* option."
+        },
+        {
+          "verse": "80:15",
+          "remark": "*Por nada* heard as 'in vain', reversing the sense",
+          "outcome": "taken",
+          "decision": "pronihilo"
+        },
+        {
+          "verse": "80:16",
+          "remark": "*o tempo deles será pelos séculos* sounds like a reward to the enemies",
+          "outcome": "refused",
+          "reason": "the Latin says exactly this and leaves it as open; not resolved."
+        },
+        {
+          "verse": "80:17",
+          "remark": "*os* may be heard as the enemies",
+          "outcome": "refused",
+          "reason": "the Latin's *eos* is as open."
+        },
+        {
+          "verse": "80:17",
+          "remark": "*gordura do trigo* odd",
+          "outcome": "refused",
+          "decision": "adipe",
+          "reason": "rule 5 keeps *fat*; *flor do trigo* option."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 80:3 order (stylist); 80:5 articles dropped (stylist); 80:8 proclisis with *eu* (stylist); 80:15 *Com um nada, talvez,* (stylist and ambiguity reader) and *aqueles que os* (stylist). Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass. 80:8b now +3 (the named *eu* twice, for the proclisis) and 80:15b +6 (*aqueles que os*, taken against the stutter *os que os*, on top of the compound conditional): 22 syllables, still one breath; accepted. The rest as v1."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2 — claude-opus-5-5, fresh context, with latin.json. Clean of majors: two minors, both held with options. Everything changed in v2 (80:3 order, 80:5 articles, 80:8 proclisis, 80:15 *Com um nada, talvez* and *aqueles que os*) passed without remark.",
+      "outcomes": [
+        {
+          "verse": "80:2",
+          "remark": "*adjútor* is an agent noun; *nosso auxiliador*",
+          "outcome": "refused",
+          "decision": "adjutori",
+          "reason": "the *adjútor* row (uniform *auxílio*, open for Gustavo) is not changed in one psalm; *auxiliador* is option 2."
+        },
+        {
+          "verse": "80:5",
+          "remark": "dative *Deo Jacob* as genitive; *para o Deus de Jacó* (repeated from v1)",
+          "outcome": "refused",
+          "decision": "deojacob",
+          "reason": "as in v1: the possessive dative, parallel to *in Israël*, is the reading the ambiguity reader heard; *para o* is heard as 'in God's favour'. Option 2."
+        }
+      ]
+    }
+  ]
+}
