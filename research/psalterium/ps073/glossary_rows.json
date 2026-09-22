@@ -1,0 +1,70 @@
+{
+  "append": [
+    {
+      "row": "| páscua |",
+      "text": "**Ps 73:1 *oves páscuæ tuæ* → *as ovelhas da vossa pastagem*** — as the row foresaw; passed every reader."
+    },
+    {
+      "row": "| in finem |",
+      "text": "**Ps 73 (five places):** *para sempre* at 73:1, 73:10 (the *Úsquequo … in finem?* formula), 73:11, 73:19 (*não esqueçais para sempre*); **73:3 *Leva manus tuas … in finem* → *até o fim*** (17:36b's sense, utterly: *para sempre* would make the lifted hands perpetual). No reader remarked."
+    },
+    {
+      "row": "| in idípsum |",
+      "text": "**Ps 73:6 *excidérunt jánuas ejus in idípsum* → *cortaram juntos as suas portas*** — many axemen, so *juntos* (the 33:4 / 61:10 use); the same Greek (ἐπὶ τὸ αὐτό) as 73:8 *simul → juntos*. v2 moved it after the verb: at the mediant the stylist heard it trailing with no clear referent."
+    },
+    {
+      "row": "| simul |",
+      "text": "**Ps 73:8 *cognátio eórum simul* → *os da parentela deles, juntos*** — = 73:6 *in idípsum* (one Greek)."
+    },
+    {
+      "row": "| irritáre |",
+      "text": "**Ps 73:10 *irrítat … nomen tuum* → *provoca o vosso nome*; 73:18 *incitávit nomen tuum* → *provocou*** — *incitáre* is the same Greek (παροξύνω), merged by D27's ground. The Latinist passed both."
+    },
+    {
+      "row": "| oppróbrium / exprobráre |",
+      "text": "**Ps 73:10, 18, 22 *improperáre / impropérium* → *afrontar / afronta*** — only in this psalm (grep); the same Greek (ὀνειδίζω / ὀνειδισμός), so one Portuguese. 73:22 *lembrai-vos das vossas afrontas* — the ambiguity reader first heard God's own offences, and the clause that follows resolves it; the Latin genitive is as open."
+    },
+    {
+      "row": "| silva |",
+      "text": "**Ps 73:6 *quasi in silva lignórum* → *como numa selva de árvores*** — the stylist asked for *mata*; kept by D44."
+    },
+    {
+      "row": "| summus (end of the sky) |",
+      "text": "**Ps 73:5 *super summum* → *sobre o cume*** — a height, not an end, so not *extremo*; v1 *cimo* was unknown to the ambiguity reader and bookish to the stylist."
+    },
+    {
+      "row": "| cognóscere / novísse |",
+      "text": "**Ps 73:5 *non cognovérunt* (no object) → *não conheceram*** — v1 *souberam* (13:4's *saber*); the latinist and the stylist both asked for *conhecer*, which keeps the family with 73:9 *não nos conhecerá mais*."
+    },
+    {
+      "row": "| confirmáre |",
+      "text": "**Ps 73:13 *Tu confirmásti in virtúte tua mare* → *Vós firmastes o mar com o vosso poder*** — a thing made firm (ἐκραταίωσας); passed every reader."
+    },
+    {
+      "row": "| confríngere |",
+      "text": "**Ps 73:14 *confregísti cápita dracónis* → *quebrastes*** — beside 73:13 *contribulásti → esmagastes* (συνέτριψας / συνέθλασας)."
+    },
+    {
+      "row": "| repéllere (without *a*) |",
+      "text": "**Ps 73:1 *Ut quid, Deus, repulísti in finem* → *Por que, Deus, nos repelistes para sempre*** — *nos* supplied (DRB, MS1932); the latinist twice named it a minor and was held; bare *repelistes* is the option."
+    },
+    {
+      "row": "| confitéri (to God) |",
+      "text": "**Ps 73:19 *ánimas confiténtes tibi* → *as almas que vos dão graças*** — the latinist twice asked for *louvam*; held (D5; *louvar* is 73:21's *laudábunt*)."
+    }
+  ],
+  "terms": [
+    "| contribuláre (a thing crushed) | esmagar (*esmagastes as cabeças dos dragões nas águas*) | open | Ps 73:13 (συνέτριψας), beside 73:14 *confregísti → quebrastes*; *atribulado* belongs to 50:19's spirit and cannot crush a head. No reader remarked. |",
+    "| pollúere | macular (*na terra macularam a tenda do vosso nome*) | open | Ps 73:7; also 78:1 *polluérunt templum sanctum tuum* (grep). One family with 17:31 *impollúta → imaculado*; *profanar* is kept for profanáre (88:32, 35), *contaminar* for contamináre (54:21; the same Greek βεβηλόω, the option). |",
+    "| fabricári | formar (*vós formastes a aurora e o sol*) | open | Ps 73:16 (κατηρτίσω); v1 *fabricastes* — the stylist heard factories; *formastes* taken in v2. Kept apart from *fazer* (73:17 *fecísti*) and *moldar* (plasmáre, 73:17). Known cost: *formar* is also formáre's word. |",
+    "| áscia | enxó (*com machado e enxó a derrubaram*) | open | Ps 73:6, only place; the carpenter's hewing axe (L&S cite this verse); *secúris → machado*. The ambiguity reader did not know *enxó*; kept as a known cost; *machadinha* (DRB *hatchet*) the option. |",
+    "| cognátio | parentela (*os da parentela deles*) | open | Ps 73:8; the collective subject made plural for the plural verb. The ambiguity reader listed *parentela* unknown; kept. |",
+    "| solémnitas / dies festi | solenidade / dias de festa | open | Ps 73:4 *in médio solemnitátis tuæ* → *no meio da vossa solenidade*; 73:8 *omnes dies festos Dei* → *todos os dias de festa de Deus*. One Greek (ἑορτή), two Latin words kept two. |",
+    "| Æthíopes / Ethan | Etiópia / Etã | open | Ps 73:14 *pópulis Æthíopum* → *aos povos da Etiópia* (v1 *dos etíopes*: the stylist heard a clipped proparoxytone close; MS1932's land); 73:15 *flúvios Ethan* → *os rios de Etã* (a proper name in the Latin and the Greek). |",
+    "| sinus (the hand in the bosom) | seio (*do meio do vosso seio*) | open | Ps 73:11 = 34:13b's word; the ambiguity reader found the image obscure; kept, as the Latin. |"
+  ],
+  "formulas": [
+    "| *Memor esto congregatiónis tuæ, Dómine, quam possedísti ab inítio* (73:2; Thursday minor-hours antiphon, Psalmi minor) · *V. Meménto Congregatiónis tuæ. R. Quam possedísti ab inítio* (Preces; Psalmi graduales — grep) | *Lembrai-vos, Senhor, da vossa congregação, * que possuístes desde o início* · *V. Lembrai-vos da vossa congregação. R. Que possuístes desde o início.* | open — Ps 73; the stylist asked for *princípio*, refused under the inítio row |",
+    "| *Réspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et júdica causam tuam, et ne obliviscáris voces quæréntium te* (Introit of Pent13-0, from 73:20, 19, 22, 23 adapted, with verse 73:1 — grep; its Gradual *Réspice … V. Exsúrge … memor esto oppróbrii servórum tuórum* also in Quad4-4) | *Olhai, Senhor, para a vossa aliança, e não abandoneis para sempre as almas dos vossos pobres: levantai-vos, Senhor, e julgai a vossa causa, e não esqueçais as vozes dos que vos buscam* | open — Ps 73; the Missal's *derelínquas* (the derelínquere row) and *quæréntium te* are not the psalter's *obliviscáris* and *inimicórum tuórum* |"
+  ]
+}

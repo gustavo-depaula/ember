@@ -1,0 +1,36 @@
+{
+  "append": [
+    {"row": "| confitéri (to God) |", "text": "**Ps 75:11 *cogitátio hóminis confitébitur tibi* → *o pensamento do homem vos dará graças*** — D5 held; the v2 Latinist asked *vos louvará* (minor, 'narrowed to thanksgiving') — refused under D5, an option."},
+    {"row": "| dormitáre |", "text": "**Ps 75:7 *dormitavérunt qui ascendérunt equos* → *dormitaram os que montaram cavalos*** — kept apart from 75:6 *Dormiérunt somnum suum* → *Dormiram o seu sono* one verse earlier; the ambiguity reader listed *dormitaram* unknown; *adormeceram* the option."},
+    {"row": "| confríngere |", "text": "Ps 75:4 *Ibi confrégit poténtias árcuum* → *Ali quebrou as potências dos arcos*; no reader remarked on the verb."},
+    {"row": "| poténtia |", "text": "**Ps 75:4 *poténtias árcuum* (κράτη) → *as potências dos arcos*** — the ambiguity reader heard 'world powers' and draft 2 tried the singular; the v2 Latinist asked the plural back (number change, minor) and it was restored. Singular *a potência dos arcos* and MS1932 *a força* options."},
+    {"row": "| múnera |", "text": "**Ps 75:12 *affértis múnera* → *trazeis dádivas*** — the row at the final, a proparoxytone as múnera is; the stylist asked *ofertas* (refused: oblátio's family, D41; *presentes* the option); the ambiguity reader listed *dádivas* unknown."},
+    {"row": "| relíquiæ |", "text": "**Ps 75:11 *relíquiæ cogitatiónis diem festum agent tibi* → *o resto do pensamento celebrará para vós um dia de festa*** — ἐγκατάλειμμα, so the singular *resto* as 36:37–38; the v2 Latinist asked *os restos … celebrarão* (number, minor) — held (heard as mortal remains), an option. The verse's obscurity kept."},
+    {"row": "| afférre (to God) |", "text": "Ps 75:12 *qui in circúitu ejus affértis múnera* → *que ao seu redor trazeis dádivas*; no reader remarked on the verb."},
+    {"row": "| in circúitu |", "text": "**Ps 75:12 *in circúitu ejus* → *ao seu redor*** (the stylist's possessive form, draft 2), placed before the verb so it is not heard as 'bring gifts around him'."},
+    {"row": "| terríbilis |", "text": "Ps 75:8 *Tu terríbilis es* → *Vós sois terrível*; 75:13 *Terríbili … terríbili* → *Ao terrível … ao terrível* (the repetition kept). The ambiguity reader noted the colloquial 'awful' and heard it rightly in context."},
+    {"row": "| insípiens / insipiéntia |", "text": "Ps 75:5 *omnes insipiéntes corde* → *todos os insensatos de coração*; the ambiguity reader listed *insensatos* unknown, kept."},
+    {"row": "| auferre |", "text": "Ps 75:13 *qui aufert spíritum príncipum* → *ao que tira o espírito dos príncipes* — spíritus kept (the stylist's *alento* refused, an option)."},
+    {"row": "| réddere |", "text": "**Ps 75:12 *Vovéte, et réddite Dómino* → *Fazei votos, e pagai-os ao Senhor*** — the row with the object supplied (*pagai* bare is safe but hangs); the ambiguity reader heard *Fazei votos* as 'wish well' at first, *pagai-os* fixes it."},
+    {"row": "| cogitátio |", "text": "Ps 75:11 twice (*cogitátio … cogitatiónis*) → *pensamento … pensamento*, the repetition kept."},
+    {"row": "| fíeri, *factus est* |", "text": "Ps 75:3 *Et factus est in pace locus ejus* → *E o seu lugar se fez em paz* (the Holy Saturday antiphon); passed every reader."},
+    {"row": "| mansuétus / mitis |", "text": "Ps 75:10 *omnes mansuétos terræ* → *todos os mansos da terra*."},
+    {"row": "| exsúrgere; *Exsúrge, Dómine* |", "text": "Ps 75:10 *Cum exsúrgeret in judícium Deus* → *Quando Deus se levantou para o juízo*."},
+    {"row": "| illumináre (fáciem super) |", "text": "**Ps 75:5 *Illúminans tu mirabíliter* → *Vós iluminais maravilhosamente*** — the participle with emphatic *tu* made finite, as the Greek φωτίζεις σύ and DRB; the v2 Latinist asked *Vós, iluminando* (minor) — held, an option."},
+    {"row": "| notus (a person) |", "text": "Ps 75:2 *Notus in Judǽa Deus* → *Deus é conhecido na Judeia* (of God; the antiphon)."},
+    {"row": "| *Ab increpatióne tua* (17:16b", "text": "**Ps 75:7 → *À vossa repreensão, Deus de Jacó*** — held; the stylist heard the crasis as a dative and asked *Ante a vossa repreensão* (option; if taken, all four places); the ambiguity reader heard the cause first."},
+    {"row": "| solémnitas / dies festi |", "text": "Ps 75:11 *diem festum agent tibi* → *celebrará para vós um dia de festa* (see the *diem festum ágere* row)."}
+  ],
+  "terms": [
+    "| habitátio (God's dwelling) | habitação (*e a sua habitação em Sião*) | open | Ps 75:3 (τὸ κατοικητήριον; 68:26 *habitátio eórum* → *habitação* the precedent). Kept apart from habitáculum → *morada*. The Holy Saturday versicle. |",
+    "| quiéscere (*terra trémuit et quiévit*) | aquietar-se (*a terra tremeu e se aquietou*) | open | Ps 75:9 (ἡσύχασεν); the Easter Offertory. Kept apart from requiéscere → *repousar*; MS1932 *ficou em sossego*, *silenciou* options. The stylist named 75:9 the best line. |",
+    "| diem festum ágere | celebrar um dia de festa (*celebrará para vós um dia de festa*) | open | Ps 75:11 (ἑορτάσει σοι). *para vós* after the verb (the stylist heard *vos celebrará* as 'celebrates you'); MS1932 *vos fará festa* option. |",
+    "| vovére (*Vovéte, et réddite*) | fazer votos (*Fazei votos, e pagai-os*) | open | Ps 75:12 (εὔξασθε καὶ ἀπόδοτε; the Offertory of Pentecost XVII). The noun *votos* as with *vota réddere* (réddere row); *votai* (a vote) avoided. |",
+    "| ex tunc (*ex tunc ira tua*) | desde então (*desde então, a vossa ira*) | open | Ps 75:8b (ἀπὸ τότε), verbless as the Latin; the ambiguity reader heard a fragment, as the Latin is; *desde o tempo da vossa ira* and MS1932 *no momento da vossa ira* options. |",
+    "| apud (of persons, not *apud te / me*: *terríbili apud reges terræ*) | diante de (*ao terrível diante dos reis da terra*) | open | Ps 75:13 (παρά). The stylist heard MS1932's *para os reis* as 'in the kings' opinion'; *diante* taken in draft 2; *para os*, *junto dos*, *entre os* options. |",
+    "| viri divitiárum | os homens de riquezas (*todos os homens de riquezas nada encontraram nas suas mãos*) | open | Ps 75:6 (ἄνδρες τοῦ πλούτου); the Hebraism kept (*os homens ricos* option). Subject before *nada encontraram*: with the Latin's order *nas suas mãos* joins the riches (the stylist's order an option). |",
+    "| mirabíliter | maravilhosamente | open | Ps 44:5b, 75:5 (θαυμαστῶς). The stylist asked *admiravelmente* at 75:5 (lighter) — refused, admirábilis's word; an option. |",
+    "| ascéndere equos | montar cavalos (*os que montaram cavalos*) | open | Ps 75:7 (οἱ ἐπιβεβηκότες τοὺς ἵππους). The perfect, as the v1 Latinist asked (MS1932 *montavam*); *equos* kept as the object. |",
+    "| a móntibus ætérnis | dos montes eternos | open | Ps 75:5 (ἀπὸ ὀρέων αἰωνίων). Draft 1's *desde os montes* was heard as temporal; the stylist's *dos* taken. MS1932 *do alto dos* option. |"
+  ]
+}

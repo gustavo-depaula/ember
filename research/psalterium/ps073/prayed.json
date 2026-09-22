@@ -1,0 +1,1251 @@
+{
+  "psalm": 73,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "73:1": "Por que, Deus, {repulisti} {f1}: * {v1join} o vosso furor contra as ovelhas da vossa pastagem?",
+    "73:2": "Lembrai-vos da vossa {congregatio}, * que {possedisti} desde o início.",
+    "73:2b": "Resgatastes a {virga} da vossa herança: * o monte Sião, em que habitastes.",
+    "73:3": "Levantai as vossas mãos contra {superbias} {f3}: * quanto mal fez o inimigo {insancto}!",
+    "73:4": "E se gloriaram os que vos odeiam: * no meio da vossa {solemnitas}.",
+    "73:5": "Puseram {s5}: * e não {cognoverunt}, como na saída, {summum}.",
+    "73:6": "Como numa selva de árvores, com machados cortaram {idipsum} as suas portas: * com machado e {ascia} a derrubaram.",
+    "73:7": "{incenderunt} vosso santuário: * na terra {polluerunt} a tenda do vosso nome.",
+    "73:8": "Disseram no seu coração {cognatio}: * Façamos cessar da terra todos os {diesfestos} de Deus.",
+    "73:9": "Não vimos {s9}, já não há profeta: * e {amplius}.",
+    "73:10": "Até quando, Deus, {imp10} o inimigo: * o adversário {irr10} o vosso nome {f10}?",
+    "73:11": "Por que {avertis} a vossa mão, e a vossa direita, * do meio do vosso seio {f11}?",
+    "73:12": "{v12} antes dos séculos: * operou a salvação no meio da terra.",
+    "73:13": "Vós {confirmasti} o mar com o vosso poder: * {contribulasti} as cabeças dos dragões nas águas.",
+    "73:14": "Vós quebrastes as cabeças do dragão: * {dedisti} aos povos da Etiópia.",
+    "73:15": "Vós rompestes fontes e torrentes: * vós secastes os rios de Etã.",
+    "73:16": "Vosso é o dia, e vossa é a noite: * vós {fabricatus} a aurora e o sol.",
+    "73:17": "Vós fizestes todos os limites da terra: * o verão e a primavera, vós os moldastes.",
+    "73:18": "Lembrai-vos disto: o inimigo {imp18} o Senhor, * e um povo insensato {inc18} o vosso nome.",
+    "73:19": "Não entregueis às feras as almas {confitentes}, * e não esqueçais {f19} as almas dos vossos pobres.",
+    "73:20": "Olhai para a vossa aliança: * porque {obscurati} se encheram de casas de iniquidades.",
+    "73:21": "Que o humilde {avertatur}: * o pobre e o carente louvarão o vosso nome.",
+    "73:22": "Levantai-vos, Deus, julgai a vossa causa: * lembrai-vos das vossas {imp22}, {v22ab} o dia todo.",
+    "73:23": "Não esqueçais as vozes dos vossos inimigos: * a soberba dos que vos odeiam sobe sempre."
+  },
+  "decisions": [
+    {
+      "id": "repulisti",
+      "refs": [
+        "73:1"
+      ],
+      "latin": "Ut quid, Deus, repulísti in finem",
+      "kind": "grammar",
+      "why": "The Latin verb has no object, and neither has the Greek (ἀπώσω). The verb is the settled *repelir* (repéllere without *a*, D42; 59:3 *vós nos repelistes*). *Repelir* is transitive, and a bare *repelistes* leaves the ear waiting for an object. The object the context gives is the people, the *ovelhas da vossa pastagem* of the next colon, so *nos* is supplied as a pronoun Portuguese needs (D2). Douay-Rheims supplies *us* and Matos Soares 1932 *nos* as well. The bare verb is the option for a reader who wants the Latin's silence kept. Two blind readers (Pss 42, 59) did not know *repelistes*. That is the row's known cost.",
+      "options": [
+        {
+          "label": "nos repelistes",
+          "forms": {
+            "repulisti": "nos repelistes"
+          },
+          "note": "Ruling: the object supplied (DRB *cast us off*, MS1932 *nos desamparaste*).",
+          "from": "draft"
+        },
+        {
+          "label": "repelistes",
+          "forms": {
+            "repulisti": "repelistes"
+          },
+          "note": "The Latin's bare verb; the object is left unsaid.",
+          "from": "draft"
+        },
+        {
+          "label": "nos desamparastes",
+          "forms": {
+            "repulisti": "nos desamparastes"
+          },
+          "note": "MS1932's verb (the row's option); it gives up D42's *repelir*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v1join",
+      "refs": [
+        "73:1"
+      ],
+      "latin": "irátus est furor tuus super oves páscuæ tuæ?",
+      "kind": "grammar",
+      "why": "*Ut quid* governs both colons and the Latin simply goes on, with no conjunction. Portuguese cannot carry a *por que* over a colon break without help: bare *se irou o vosso furor…?* would be heard as a new statement. *E* carries the question over and adds no sense. Repeating *por que* (Douay-Rheims *why is thy wrath*, MS1932 *(Por que razão)* in his parenthesis) says the question twice where the Latin says it once. *irátus est furor* → *se irou o vosso furor*: the irásci row's verb, and the Latin's image of wrath growing angry. MS1932's *se acendeu* is the Hebrew's smoke.",
+      "options": [
+        {
+          "label": "e se irou",
+          "forms": {
+            "v1join": "e se irou"
+          },
+          "note": "Ruling: one question, carried by *e*.",
+          "from": "draft"
+        },
+        {
+          "label": "por que se irou",
+          "forms": {
+            "v1join": "por que se irou"
+          },
+          "note": "Repeats the interrogative, as DRB and MS1932 do.",
+          "from": "DRB"
+        },
+        {
+          "label": "se irou",
+          "forms": {
+            "v1join": "se irou"
+          },
+          "note": "The Latin's asyndeton; heard as a statement.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "infinem",
+      "refs": [
+        "73:1",
+        "73:3",
+        "73:10",
+        "73:11",
+        "73:19"
+      ],
+      "latin": "in finem (five times)",
+      "kind": "glossary",
+      "why": "The *in finem* row (D27) says *para sempre* where the phrase means perpetuity and leaves each psalm to decide. Four places here do mean that: 73:1 *repelled for ever*, 73:10 the settled *Úsquequo … in finem* formula (*Até quando … para sempre?*), 73:11 and 73:19. 73:19 is a negation, and D27's failure at 9:19 was *não … até o fim*, which is why the row chose *para sempre*: *não esqueçais para sempre* is the settled form. 73:3 is the exception. *Levantai as vossas mãos … para sempre* would make God's lifted hands perpetual. There εἰς τέλος has the sense of 17:36b (*até o fim*: to the finish, utterly). Douay-Rheims has *unto the end* and MS1932 *sem limites*, which he attaches to the pride. *até o fim* at the end of the colon can still be heard with either the hands or the pride, as the Latin can.",
+      "options": [
+        {
+          "label": "para sempre ×4, até o fim at 73:3",
+          "forms": {
+            "f1": "para sempre",
+            "f3": "até o fim",
+            "f10": "para sempre",
+            "f11": "para sempre",
+            "f19": "para sempre"
+          },
+          "note": "Ruling: the row, with 17:36b's reading at 73:3.",
+          "from": "glossary"
+        },
+        {
+          "label": "para sempre everywhere",
+          "forms": {
+            "f1": "para sempre",
+            "f3": "para sempre",
+            "f10": "para sempre",
+            "f11": "para sempre",
+            "f19": "para sempre"
+          },
+          "note": "One Portuguese for the psalm's five; 73:3 is then heard as lifting the hands for ever.",
+          "from": "glossary"
+        },
+        {
+          "label": "até o fim everywhere",
+          "forms": {
+            "f1": "até o fim",
+            "f3": "até o fim",
+            "f10": "até o fim",
+            "f11": "até o fim",
+            "f19": "até o fim"
+          },
+          "note": "DRB's *unto the end* everywhere; breaks the settled formula at 73:10 and repeats 9:19's fault at 73:19.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "congregatio",
+      "refs": [
+        "73:2"
+      ],
+      "latin": "Memor esto congregatiónis tuæ",
+      "kind": "word",
+      "why": "The Greek is συναγωγή, and D34 gives συναγωγή *congregação* (21:17; synagóga; the row *congregátio pópuli → congregação do povo*, 61:9). *Assembleia* is ecclésia's (D34). This colon lives alone in the liturgy: it is the Thursday antiphon *Memor esto * congregatiónis tuæ, Dómine, quam possedísti ab inítio* (Psalmi minor.txt, with Ps 73 in three parts) and the versicle of the Preces *V. Meménto Congregatiónis tuæ. R. Quam possedísti ab inítio* (Special/Preces.txt; Appendix/Psalmi graduales.txt). Found by grep. The blind reader of 61:9 heard *congregação* as the assembly. MS1932 has *família*, which interprets.",
+      "options": [
+        {
+          "label": "congregação",
+          "forms": {
+            "congregatio": "congregação"
+          },
+          "note": "Ruling: D34's word for συναγωγή.",
+          "from": "glossary"
+        },
+        {
+          "label": "assembleia",
+          "forms": {
+            "congregatio": "assembleia"
+          },
+          "note": "ecclésia's word (D34); would merge two Latin words.",
+          "from": "draft"
+        },
+        {
+          "label": "família",
+          "forms": {
+            "congregatio": "família"
+          },
+          "note": "MS1932; interprets the gathering as kin.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "possedisti",
+      "refs": [
+        "73:2"
+      ],
+      "latin": "quam possedísti ab inítio",
+      "kind": "word",
+      "why": "*possidére* → *possuir* is the working word of the open row (43:4). The Greek ἐκτήσω is 'acquired, got for yourself', and the Hebrew is the same. The Latin says *possessed*, and that is the word followed here (rule 1). Douay-Rheims has *possessed*, MS1932 *possuíste*. *ab inítio* → *desde o início* (the row *inítio · princípium*; 118:152 *Desde o início*).",
+      "options": [
+        {
+          "label": "possuístes",
+          "forms": {
+            "possedisti": "possuístes"
+          },
+          "note": "Ruling: the Latin's verb (DRB, MS1932).",
+          "from": "draft"
+        },
+        {
+          "label": "adquiristes",
+          "forms": {
+            "possedisti": "adquiristes"
+          },
+          "note": "The Greek's sense (ἐκτήσω), not the Latin's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "virga",
+      "refs": [
+        "73:2b"
+      ],
+      "latin": "Redemísti virgam hereditátis tuæ",
+      "kind": "glossary",
+      "why": "*virga → vara* (row; 2:9, 44:7). ῥάβδον κληρονομίας: the Hebrew שֵׁבֶט is both rod and tribe, and the Latin chose the rod. Douay-Rheims has *sceptre* and MS1932 *cetro*, and both interpret. The row keeps the concrete staff. The blind reader of 44:7 heard sceptre in *vara* anyway. *redímere → resgatar* (row; 30:6, 70:23 *que resgatastes*).",
+      "options": [
+        {
+          "label": "vara",
+          "forms": {
+            "virga": "vara"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "cetro",
+          "forms": {
+            "virga": "cetro"
+          },
+          "note": "DRB, MS1932; interprets the rod as royal.",
+          "from": "MS1932"
+        },
+        {
+          "label": "tribo",
+          "forms": {
+            "virga": "tribo"
+          },
+          "note": "The Hebrew's other sense; not the Latin's word. Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "superbias",
+      "refs": [
+        "73:3"
+      ],
+      "latin": "in supérbias eórum",
+      "kind": "grammar",
+      "why": "The Latin plural (ὑπερηφανίας) stands here and the singular at 73:23 (*supérbia eórum*). The plural *as soberbas* can be said, but it is rare, and *soberbas* is also the feminine plural adjective 'proud'. Number is grammar (D2, D27): *a soberba* here as at 73:23, with the plural as the option. *deles*, not *sua*: after *as vossas mãos*, *sua* could be heard as the enemy's single *inimigo* or be left unclear (as 48:15b). v2: the latinist read the singular as a flattening of *supérbias* (their acts of pride). The plural can be said, and the psalm itself contrasts it with *supérbia* at 73:23, so the Latin number is kept.",
+      "options": [
+        {
+          "label": "as soberbas deles",
+          "forms": {
+            "superbias": "as soberbas deles"
+          },
+          "note": "Ruling (v2): the Latin plural, acts of pride; set against the singular at 73:23.",
+          "from": "draft"
+        },
+        {
+          "label": "a soberba deles",
+          "forms": {
+            "superbias": "a soberba deles"
+          },
+          "note": "v1 ruling: the singular (DRB *their pride*, MS1932 *a sua soberba*).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "insancto",
+      "refs": [
+        "73:3"
+      ],
+      "latin": "quanta malignátus est inimícus in sancto!",
+      "kind": "glossary",
+      "why": "The row *sancta / sanctum (a place) → o lugar santo* (19:3, 21:4, 62:3), with the exception 59:8 *no seu santo*, where the bare neuter could mean the holy one or holiness. Here it is plainly a place: the verses that follow burn the sanctuary and cut down its doors. Douay-Rheims has *in the sanctuary*. *no santuário* would merge it with *sanctuárium* four verses later (73:7), which the row keeps apart. *malignári → fazer o mal* (row, 36:8–9). *quanta* is an exclamation, as 65:16 *quanto ele fez*.",
+      "options": [
+        {
+          "label": "no lugar santo",
+          "forms": {
+            "insancto": "no lugar santo"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "no santo",
+          "forms": {
+            "insancto": "no santo"
+          },
+          "note": "59:8's bare neuter; keeps it open where the context has already closed it.",
+          "from": "glossary"
+        },
+        {
+          "label": "no santuário",
+          "forms": {
+            "insancto": "no santuário"
+          },
+          "note": "DRB; merges with sanctuárium (73:7).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "solemnitas",
+      "refs": [
+        "73:4",
+        "73:8"
+      ],
+      "latin": "in médio solemnitátis tuæ … omnes dies festos Dei",
+      "kind": "word",
+      "why": "Two Latin words for the feast: *solémnitas* (73:4) and *dies festi* (73:8). Behind both is one Greek, ἑορτή. D15's test would allow one Portuguese word, but Portuguese has a pair that says each Latin word exactly, so the Latin's variation is kept at no cost. *solenidade* is Douay-Rheims's *solemnity* and MS1932's word. *dias de festa* is MS1932's. The row *dies solémnis → dia solene* (117:27b) is kin.",
+      "options": [
+        {
+          "label": "solenidade … dias de festa",
+          "forms": {
+            "solemnitas": "solenidade",
+            "diesfestos": "dias de festa"
+          },
+          "note": "Ruling: the Latin's two words.",
+          "from": "draft"
+        },
+        {
+          "label": "festa … dias de festa",
+          "forms": {
+            "solemnitas": "festa",
+            "diesfestos": "dias de festa"
+          },
+          "note": "The Greek's one word; plainer at 73:4.",
+          "from": "draft"
+        },
+        {
+          "label": "solenidade … festas",
+          "forms": {
+            "solemnitas": "solenidade",
+            "diesfestos": "festas"
+          },
+          "note": "Shorter at 73:8, but loses *dies*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "signa",
+      "refs": [
+        "73:5",
+        "73:9"
+      ],
+      "latin": "Posuérunt signa sua, signa … Signa nostra non vídimus",
+      "kind": "ambiguity",
+      "why": "The crux of the psalm. *signa* is a military ensign and a sign, and the Latin uses one word both times, and elsewhere for God's signs (64:9 *a signis tuis* → *os vossos sinais*). At 73:9 the lament beside *já não há profeta* wants signs, not flags. So one word for both places: *sinais*. *signa sua, signa* is predicative, as the Greek shows (ἔθεντο τὰ σημεῖα αὐτῶν σημεῖα: they set their signs up as signs), so *como* is supplied (grammar) and the repetition is kept. Douay-Rheims has *their ensigns for signs*. MS1932 has *os seus estandartes como troféus*, and *troféus* is his own. The bare Latin *os seus sinais, sinais* is an option. v2: the latinist and the stylist both heard *como* as a supplied reading, and the stylist heard *sinais como sinais* as a tautology. The bare doubling keeps the Latin's echo and its openness.",
+      "options": [
+        {
+          "label": "os seus sinais, sinais",
+          "forms": {
+            "s5": "os seus sinais, sinais",
+            "s9": "os nossos sinais"
+          },
+          "note": "Ruling (v2): the bare doubling, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "os seus sinais como sinais / os nossos sinais",
+          "forms": {
+            "s5": "os seus sinais como sinais",
+            "s9": "os nossos sinais"
+          },
+          "note": "v1 ruling: one word for signa in both verses; the repetition kept.",
+          "from": "draft"
+        },
+        {
+          "label": "os seus estandartes como sinais / os nossos estandartes",
+          "forms": {
+            "s5": "os seus estandartes como sinais",
+            "s9": "os nossos estandartes"
+          },
+          "note": "DRB *ensigns*, MS1932 *estandartes*; splits the one Latin word at 73:5 and makes 73:9 flags.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "cognoverunt",
+      "refs": [
+        "73:5"
+      ],
+      "latin": "et non cognovérunt",
+      "kind": "grammar",
+      "why": "No object in the Latin, the Greek (καὶ οὐκ ἔγνωσαν) or Douay-Rheims (*they knew not*). *conhecer* asks for an object in Portuguese. The row (13:4 *Não hão de saber todos*) gives *saber* where *cognóscere* stands alone. Here that keeps the Latin's objectless knowing. 73:9 *nos non cognóscet* has an object and keeps *conhecer*. v2: the latinist and the stylist both asked for *conheceram*. The objectless *souberam* dangled just as much (\"knew what?\"), and *conhecer* keeps the family with 73:9 *conhecerá*.",
+      "options": [
+        {
+          "label": "conheceram",
+          "forms": {
+            "cognoverunt": "conheceram"
+          },
+          "note": "Ruling (v2): cognóscere's verb, as 73:9.",
+          "from": "draft"
+        },
+        {
+          "label": "souberam",
+          "forms": {
+            "cognoverunt": "souberam"
+          },
+          "note": "v1 ruling: the row's *saber* without an object.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "summum",
+      "refs": [
+        "73:5"
+      ],
+      "latin": "sicut in éxitu super summum",
+      "kind": "ambiguity",
+      "why": "The Latin is obscure and is left obscure. *In éxitu* ('in the going out') stands where the Greek has εἰς τὴν εἴσοδον, the entry, and the Latin is followed (rule 1). *éxitus → saída* (64:8, 67:21). *super summum* is 'on the top, above the highest part'. The row *summus* has *extremo* for the end of the sky (18:6b–7b) and names this place. Here it is a height (the top of a gateway?), not an end, so *cimo*. The row noted that *cimo* is heard as a mountain's, and that is a height too. Douay-Rheims has *on the highest top*. MS1932 reworks the phrase (*nem as eminências nem as saídas*). v2: the ambiguity reader did not know *cimo*, and the stylist found it bookish. *cume* is the plain word for a top or summit, and it keeps *super summum*.",
+      "options": [
+        {
+          "label": "sobre o cume",
+          "forms": {
+            "summum": "sobre o cume"
+          },
+          "note": "Ruling (v2): the plain word for the top.",
+          "from": "critic"
+        },
+        {
+          "label": "sobre o cimo",
+          "forms": {
+            "summum": "sobre o cimo"
+          },
+          "note": "v1 ruling. Ruling: *super* and *summum* both kept.",
+          "from": "draft"
+        },
+        {
+          "label": "no mais alto",
+          "forms": {
+            "summum": "no mais alto"
+          },
+          "note": "Plainer, but it loses *super*.",
+          "from": "draft"
+        },
+        {
+          "label": "sobre o extremo",
+          "forms": {
+            "summum": "sobre o extremo"
+          },
+          "note": "18:6b–7b's word; heard as an end, not a height.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "idipsum",
+      "refs": [
+        "73:6",
+        "73:8"
+      ],
+      "latin": "excidérunt jánuas ejus in idípsum … cognátio eórum simul",
+      "kind": "glossary",
+      "why": "*in idípsum* (D9, deferred): the row's proposal is *juntos* for persons acting together (33:4, 61:10) and *a um só tempo* for one agent or a thing (4:9). Here the axemen are many, so *juntos*. It also matches 73:8, where *simul* (row → *juntos*) is the same Greek, ἐπὶ τὸ αὐτό in both verses. So the psalm's two Latin words for one Greek are said alike, as D15's test allows. Douay-Rheims has *at once* (73:6) and *together* (73:8). MS1932 has *à porfia*, which is his own. v2: the stylist heard *juntos* trailing at the mediant with an unclear reference (the axes? the men?). It now stands after the verb, where it goes with the axemen.",
+      "options": [
+        {
+          "label": "juntos",
+          "forms": {
+            "idipsum": "juntos"
+          },
+          "note": "Ruling: the row's proposal; = *simul* in 73:8.",
+          "from": "glossary"
+        },
+        {
+          "label": "a um só tempo",
+          "forms": {
+            "idipsum": "a um só tempo"
+          },
+          "note": "4:9's rendering: simultaneity.",
+          "from": "glossary"
+        },
+        {
+          "label": "de uma vez",
+          "forms": {
+            "idipsum": "de uma vez"
+          },
+          "note": "DRB *at once*.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "ascia",
+      "refs": [
+        "73:6"
+      ],
+      "latin": "in secúri et áscia",
+      "kind": "word",
+      "why": "Two tools. *secúris* is the axe (*machados* in the first colon, *machado* here), and *áscia* is 'an axe for hewing wood, a carpenter's axe'. Lewis & Short cite this very verse. The Portuguese carpenter's hewing tool is the *enxó*. *machadinha* (Douay-Rheims *hatchet*) is plainer but repeats *machado*'s root, which the Latin does not. MS1932's *martelo* is another tool. Without articles, as the Latin has none. The blind reader should say whether *enxó* is known. v2: the ambiguity reader did not know *enxó*. It is kept as the exact tool, with the known cost recorded, as D42 did with *repelistes*. *machadinha* remains the option.",
+      "options": [
+        {
+          "label": "enxó",
+          "forms": {
+            "ascia": "enxó"
+          },
+          "note": "Ruling: the carpenter's tool (L&S).",
+          "from": "draft"
+        },
+        {
+          "label": "machadinha",
+          "forms": {
+            "ascia": "machadinha"
+          },
+          "note": "DRB *hatchet*; the root of *machado* twice.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "incenderunt",
+      "refs": [
+        "73:7"
+      ],
+      "latin": "Incendérunt igni Sanctuárium tuum",
+      "kind": "word",
+      "why": "The Latin says the fire twice (*incéndere* + *igni*), as the Greek does (ἐνεπύρισαν ἐν πυρί). *Atear fogo a* is the Portuguese idiom that keeps both: a verb of setting on fire, and *fogo*. *Incendiaram com fogo* is the cognate, with its pleonasm laid bare. *sanctuárium → santuário*, kept apart from *in sancto → no lugar santo* (row).",
+      "options": [
+        {
+          "label": "Atearam fogo ao",
+          "forms": {
+            "incenderunt": "Atearam fogo ao"
+          },
+          "note": "Ruling: the idiom; *fogo* = igni.",
+          "from": "draft"
+        },
+        {
+          "label": "Incendiaram com fogo",
+          "forms": {
+            "incenderunt": "Incendiaram com fogo o"
+          },
+          "note": "The cognate; the doubling is heard as a fault in Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "Puseram fogo ao",
+          "forms": {
+            "incenderunt": "Puseram fogo ao"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "polluerunt",
+      "refs": [
+        "73:7"
+      ],
+      "latin": "in terra polluérunt tabernáculum nóminis tui",
+      "kind": "word",
+      "why": "*pollúere* stands in the psalms only here and at 78:1 (*polluérunt templum sanctum tuum*). Its adjective 17:31 *impollúta* is already *Imaculado*, so *macular* keeps the family. *profanar* (Douay-Rheims *defiled*, MS1932 *profanaram*) is wanted for the Latin's own *profanáre* (88:32, 88:35). *contaminar* is contamináre's (D44, 54:21). That word has the same Greek (βεβηλόω), so D15's test would allow it here too; the option. *in terra* is kept as *na terra* (the Greek has 'to the ground'). *tabernáculum → tenda* (row).",
+      "options": [
+        {
+          "label": "macularam",
+          "forms": {
+            "polluerunt": "macularam"
+          },
+          "note": "Ruling: one family with 17:31 *imaculado*.",
+          "from": "draft"
+        },
+        {
+          "label": "profanaram",
+          "forms": {
+            "polluerunt": "profanaram"
+          },
+          "note": "DRB, MS1932; collides with profanáre (88:32, 35).",
+          "from": "MS1932"
+        },
+        {
+          "label": "contaminaram",
+          "forms": {
+            "polluerunt": "contaminaram"
+          },
+          "note": "contamináre's word (54:21), the same Greek verb.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "cognatio",
+      "refs": [
+        "73:8"
+      ],
+      "latin": "Dixérunt in corde suo cognátio eórum simul",
+      "kind": "grammar",
+      "why": "A collective singular subject (*cognátio*, 'kindred') with a plural verb and *simul*. Portuguese will not say *Disseram … a parentela deles* without strain. *os da parentela deles* makes the subject plural (MS1932 builds it so: *com os das suas parentelas*). *juntos* is simul's row word, and matches 73:6 (decision `idipsum`). *deles* keeps *eórum* apart from *suo* (their own heart). v2: the stylist counted three stops in one colon, with the subject arriving last. The subject now follows the heart directly, and *juntos* closes the colon. The stylist's *todos juntos* adds a word and is refused.",
+      "options": [
+        {
+          "label": "os da parentela deles, juntos",
+          "forms": {
+            "cognatio": "os da parentela deles, juntos"
+          },
+          "note": "Ruling (v2): the subject made plural, and heard before *juntos*.",
+          "from": "draft"
+        },
+        {
+          "label": "a parentela deles, toda junta",
+          "forms": {
+            "cognatio": ", a parentela deles, toda junta"
+          },
+          "note": "The collective kept; adds *toda*.",
+          "from": "draft"
+        },
+        {
+          "label": "a sua parentela, juntos",
+          "forms": {
+            "cognatio": ", a sua parentela, juntos"
+          },
+          "note": "Word for word; *sua* may be heard as God's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "amplius",
+      "refs": [
+        "73:9"
+      ],
+      "latin": "et nos non cognóscet ámplius",
+      "kind": "word",
+      "why": "The verse has *jam non* and, later, *non … ámplius*. The row *ámplius non → já não* (38:14) would say *já não* twice where the Latin varies. So *não … mais* here. The subject of *cognóscet* is not named (God? a prophet?), and Portuguese leaves it unnamed too. MS1932 names it *(Deus)* in a parenthesis.",
+      "options": [
+        {
+          "label": "não nos conhecerá mais",
+          "forms": {
+            "amplius": "não nos conhecerá mais"
+          },
+          "note": "Ruling: the Latin's two adverbs kept two.",
+          "from": "draft"
+        },
+        {
+          "label": "já não nos conhecerá",
+          "forms": {
+            "amplius": "já não nos conhecerá"
+          },
+          "note": "The row's *já não*; doubles 73:9a's.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "improperare",
+      "refs": [
+        "73:10",
+        "73:18",
+        "73:22"
+      ],
+      "latin": "improperábit inimícus … inimícus improperávit Dómino … improperiórum tuórum",
+      "kind": "glossary",
+      "why": "*improperáre / impropérium* occur in the psalms only in this psalm (grep). The Greek is ὀνειδίζω / ὀνειδισμός, the Greek of *exprobráre / oppróbrium*, and that row has *afrontar / afronta* (68:10, 41:11 *afrontaram-me*, 38:9). By D15's test one Greek verb takes one Portuguese: *afrontar*, three times, as the Latin repeats it. *insultar* is obloqui's (43:17, D43). MS1932's *ultrajar* is the option. At 73:10 the verb has no object (as Douay-Rheims *shall the enemy reproach*). MS1932 adds *nos*.",
+      "options": [
+        {
+          "label": "afrontará / afrontou / afrontas",
+          "forms": {
+            "imp10": "afrontará",
+            "imp18": "afrontou",
+            "imp22": "afrontas"
+          },
+          "note": "Ruling: the oppróbrium row, by the Greek.",
+          "from": "glossary"
+        },
+        {
+          "label": "nos afrontará / afrontou / afrontas",
+          "forms": {
+            "imp10": "nos afrontará",
+            "imp18": "afrontou",
+            "imp22": "afrontas"
+          },
+          "note": "MS1932's supplied object at 73:10.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ultrajará / ultrajou / ultrajes",
+          "forms": {
+            "imp10": "ultrajará",
+            "imp18": "ultrajou",
+            "imp22": "ultrajes"
+          },
+          "note": "MS1932's verb at 73:18, 22.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "provocare",
+      "refs": [
+        "73:10",
+        "73:18"
+      ],
+      "latin": "irrítat adversárius nomen tuum … incitávit nomen tuum",
+      "kind": "glossary",
+      "why": "*irritáre* with God as object → *provocar* (settled, D27). *incitávit* in 73:18 is another Latin verb, but the same Greek (παρώξυνεν, as 73:10's παροξυνεῖ), and D27 already merged exacerbáre with irritáre on exactly that ground. So *provocar* both times: the name of God provoked, twice. Douay-Rheims has *provoke* in both. *irrítat* is a present, where the Greek has a future: the present is kept (rule 1), and the future is an option.",
+      "options": [
+        {
+          "label": "provoca / provocou",
+          "forms": {
+            "irr10": "provoca",
+            "inc18": "provocou"
+          },
+          "note": "Ruling: D27; the Latin's present at 73:10.",
+          "from": "glossary"
+        },
+        {
+          "label": "provocará / provocou",
+          "forms": {
+            "irr10": "provocará",
+            "inc18": "provocou"
+          },
+          "note": "The Greek's future at 73:10.",
+          "from": "draft"
+        },
+        {
+          "label": "provoca / incitou",
+          "forms": {
+            "irr10": "provoca",
+            "inc18": "incitou"
+          },
+          "note": "The Latin's second verb kept apart; *incitar o vosso nome* is heard as urging it on.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "avertis",
+      "refs": [
+        "73:11"
+      ],
+      "latin": "Ut quid avértis manum tuam",
+      "kind": "glossary",
+      "why": "*avértere → desviar* (row; *desviais de mim a vossa face*, 12:1). Here it is used of the hand held back in the bosom. *retirar* (MS1932 *retrais*) says the image more plainly but leaves the row. Douay-Rheims has *turn away*.",
+      "options": [
+        {
+          "label": "desviais",
+          "forms": {
+            "avertis": "desviais"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "retirais",
+          "forms": {
+            "avertis": "retirais"
+          },
+          "note": "MS1932's sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v12",
+      "refs": [
+        "73:12"
+      ],
+      "latin": "Deus autem Rex noster ante sǽcula",
+      "kind": "grammar",
+      "why": "A verbless colon. Douay-Rheims reads it as a sentence (*But God is our king before ages*). MS1932 reads it as the subject of *operou* (*Mas Deus, que é nosso rei antes dos séculos, operou*). The copula is supplied (D2), with a full sentence at the mediant, and *operou* keeps God as its subject. The apposition is the option. *ante sǽcula → antes dos séculos* (DRB, MS1932). *operári → operar* (D43, which names this verse). *salus → salvação* (D6).",
+      "options": [
+        {
+          "label": "Mas Deus é o nosso Rei",
+          "forms": {
+            "v12": "Mas Deus é o nosso Rei"
+          },
+          "note": "Ruling: DRB's reading.",
+          "from": "DRB"
+        },
+        {
+          "label": "Mas Deus, o nosso Rei",
+          "forms": {
+            "v12": "Mas Deus, o nosso Rei"
+          },
+          "note": "Apposition, as MS1932; the colon then hangs until *operou*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confirmasti",
+      "refs": [
+        "73:13"
+      ],
+      "latin": "Tu confirmásti in virtúte tua mare",
+      "kind": "glossary",
+      "why": "The *confirmáre* row: *confirmar* where a word is confirmed, *firmar* where a thing or person is made firm (37:3, 40:13, 50:14). The sea made firm is the second. Douay-Rheims has *didst make the sea firm*, MS1932 *deste solidez ao mar*, and the Greek ἐκραταίωσας is 'made strong'. *in virtúte tua* → *com o vosso poder* (the *virtus* row; *com* for the instrument, as 64:7 *Vós que preparais os montes com o vosso poder*).",
+      "options": [
+        {
+          "label": "firmastes",
+          "forms": {
+            "confirmasti": "firmastes"
+          },
+          "note": "Ruling: the row's split.",
+          "from": "glossary"
+        },
+        {
+          "label": "confirmastes",
+          "forms": {
+            "confirmasti": "confirmastes"
+          },
+          "note": "The cognate; heard as attesting.",
+          "from": "draft"
+        },
+        {
+          "label": "fortalecestes",
+          "forms": {
+            "confirmasti": "fortalecestes"
+          },
+          "note": "The Greek's sense (MS1932 in the row).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "contribulasti",
+      "refs": [
+        "73:13"
+      ],
+      "latin": "contribulásti cápita dracónum in aquis",
+      "kind": "word",
+      "why": "Two verbs of breaking heads, one in each verse: 73:13 *contribulásti* (συνέτριψας) and 73:14 *confregísti* (συνέθλασας). 73:14 keeps confríngere's row verb *quebrar*, so 73:13 needs another. *contribuláre → atribulado* (D44) belongs to the spirit of 50:19 and cannot crush a head. *esmagar* is the plain verb for crushing. MS1932's *pisaste* adds feet the Latin does not have.",
+      "options": [
+        {
+          "label": "esmagastes",
+          "forms": {
+            "contribulasti": "esmagastes"
+          },
+          "note": "Ruling: crushing, kept apart from 73:14's *quebrastes*.",
+          "from": "draft"
+        },
+        {
+          "label": "despedaçastes",
+          "forms": {
+            "contribulasti": "despedaçastes"
+          },
+          "note": "confríngere's second word (45:10, 57:7).",
+          "from": "glossary"
+        },
+        {
+          "label": "pisastes",
+          "forms": {
+            "contribulasti": "pisastes"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dedisti",
+      "refs": [
+        "73:14"
+      ],
+      "latin": "dedísti eum escam pópulis Æthíopum",
+      "kind": "grammar",
+      "why": "The enclitic after *destes* would be *deste-lo*, which is correct but stiff and looks like a *tu* form. *e o destes* supplies a conjunction the Latin lacks, which is grammar. *vós o destes* would add a seventh *vós* to the psalm's run of *Tu*, where the Latin has none in this colon. *esca → comida*: the row foresaw *alimento* or *comida* for food given, and *dar por comida* is MS1932's build. *Æthíopum* → *dos etíopes* (the people, as the Latin's genitive; MS1932 *da Etiópia*). v2: the stylist heard the proparoxytone *etíopes* as a clipped close; the final stress must fall on the last or second-last syllable. *da Etiópia* (MS1932) closes paroxytone and keeps the name. The known cost is that the people become their land. The latinist's point about *e* is answered above.",
+      "options": [
+        {
+          "label": "e o destes por comida",
+          "forms": {
+            "dedisti": "e o destes por comida"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "deste-lo por comida",
+          "forms": {
+            "dedisti": "deste-lo por comida"
+          },
+          "note": "The normative enclitic; stiff.",
+          "from": "draft"
+        },
+        {
+          "label": "e o destes como alimento",
+          "forms": {
+            "dedisti": "e o destes como alimento"
+          },
+          "note": "*alimento*, the row's other word.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "fabricatus",
+      "refs": [
+        "73:16"
+      ],
+      "latin": "tu fabricátus es auróram et solem",
+      "kind": "word",
+      "why": "*fabricári* is the craftsman's verb ('to make out of wood, stone, metal; to frame, fashion', L&S). The Greek κατηρτίσω is 'framed, set in order'. The psalm uses four verbs of making in two verses (*fabricátus es, fecísti, plasmásti*), and they should stay apart. *fazer* is fécit's and *moldar* is plasmáre's (row, 118:73). *criar* (MS1932) is kept for *creáre* (50:12). *fabricar* keeps the Latin's image of a maker at work, at the cost of a factory's overtone. v2: the stylist heard *fabricastes* as the word of factories and products, jarring beside the dawn and the sun. *formastes* keeps a maker at work, and the four verbs stay apart (*formastes / fizestes / moldastes*). The known cost is that *formar* is formáre's word elsewhere.",
+      "options": [
+        {
+          "label": "formastes",
+          "forms": {
+            "fabricatus": "formastes"
+          },
+          "note": "Ruling (v2): the plain verb of making a shape; plasmáre stays *moldar*.",
+          "from": "draft"
+        },
+        {
+          "label": "fabricastes",
+          "forms": {
+            "fabricatus": "fabricastes"
+          },
+          "note": "v1 ruling: the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "criastes",
+          "forms": {
+            "fabricatus": "criastes"
+          },
+          "note": "MS1932; creáre's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confitentes",
+      "refs": [
+        "73:19"
+      ],
+      "latin": "ánimas confiténtes tibi",
+      "kind": "glossary",
+      "why": "*confitéri* to God → *dar graças a* (D5), with the dative kept. The Greek is ἐξομολογουμένην σοι, where the Hebrew has 'your turtledove': the Latin follows the Greek, and so does this. MS1932 has *que te louvam*, but *louvar* is laudáre's, which stands two verses later (73:21 *laudábunt*).",
+      "options": [
+        {
+          "label": "que vos dão graças",
+          "forms": {
+            "confitentes": "que vos dão graças"
+          },
+          "note": "Ruling: D5.",
+          "from": "glossary"
+        },
+        {
+          "label": "que vos louvam",
+          "forms": {
+            "confitentes": "que vos louvam"
+          },
+          "note": "MS1932; merges with 73:21 *louvarão*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "obscurati",
+      "refs": [
+        "73:20"
+      ],
+      "latin": "quia repléti sunt, qui obscuráti sunt terræ dómibus iniquitátum",
+      "kind": "ambiguity",
+      "why": "Word for word: 'for they are filled, who have been darkened of the earth, with houses of iniquities'. The Greek is the same (οἱ ἐσκοτισμένοι τῆς γῆς οἴκων ἀνομιῶν). Douay-Rheims has *they that are the obscure of the earth have been filled with dwellings of iniquity*. MS1932 turns the persons into places (*todos os lugares obscuros do país*), which the Latin's masculine *qui* does not allow. The relative clause is condensed to a participle used as a noun, *os obscurecidos da terra*, which keeps its range (darkened, blinded, hidden, lowly). *repléti sunt* → *estão cheios* (the *replére* row, 64:10b). *domus → casa* (row); *iniquitátum* keeps its plural. v2: the stylist asked for the Latin's verb (*repléti sunt*) rather than the static *estão cheios*: *se encheram*, the replére row's option. *porque* is kept for *quia*.",
+      "options": [
+        {
+          "label": "os obscurecidos da terra",
+          "forms": {
+            "obscurati": "os obscurecidos da terra"
+          },
+          "note": "Ruling: DRB's build.",
+          "from": "DRB"
+        },
+        {
+          "label": "os que se obscureceram na terra",
+          "forms": {
+            "obscurati": "os que se obscureceram na terra"
+          },
+          "note": "The relative clause kept; *terræ* made a place.",
+          "from": "draft"
+        },
+        {
+          "label": "os lugares obscuros da terra",
+          "forms": {
+            "obscurati": "os lugares obscuros da terra"
+          },
+          "note": "MS1932's places; not the Latin's persons. Refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "avertatur",
+      "refs": [
+        "73:21"
+      ],
+      "latin": "Ne avertátur húmilis factus confúsus",
+      "kind": "word",
+      "why": "ἀποστραφήτω is to turn back, sent away. The pronominal *voltar-se* is used, as 69:4b (*Voltem-se*): bare *voltar* is heard as 'come back' (D44). *factus confúsus* ('made ashamed') → *envergonhado*: confúndi's word (D15), with *factus* carried by the participle. *confundido* (MS1932) is heard as 'confused' (D15). *húmilis → humilde* (D27). The natural order puts the subject first, after *Que*.",
+      "options": [
+        {
+          "label": "não se volte envergonhado",
+          "forms": {
+            "avertatur": "não se volte envergonhado"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "não volte para trás envergonhado",
+          "forms": {
+            "avertatur": "não volte para trás envergonhado"
+          },
+          "note": "The retrórsum phrase (34:4b); supplies *para trás*.",
+          "from": "glossary"
+        },
+        {
+          "label": "não seja repelido envergonhado",
+          "forms": {
+            "avertatur": "não seja repelido envergonhado"
+          },
+          "note": "Passive; *repelir* is repéllere's (73:1).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v22ab",
+      "refs": [
+        "73:22"
+      ],
+      "latin": "eórum quæ ab insipiénte sunt tota die",
+      "kind": "grammar",
+      "why": "'of those which are from the fool all the day'. *vêm* is supplied for *sunt ab* (grammar). *são do insensato* says whose they are, where the Latin says where they come from. *das vossas afrontas* leaves the genitive *tuórum* open as the Latin does (the affronts done to you). Douay-Rheims explains it: *with which the foolish man hath reproached thee*. *tota die → o dia todo* (D24). *insípiens → insensato* (row), as 73:18.",
+      "options": [
+        {
+          "label": "das que vêm do insensato",
+          "forms": {
+            "v22ab": "das que vêm do insensato"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "das que são do insensato",
+          "forms": {
+            "v22ab": "das que são do insensato"
+          },
+          "note": "The Latin's verb; heard as the fool's own affronts.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "73:1": "*oves páscuæ tuæ → as ovelhas da vossa pastagem*, as the *páscua* row foresaw (78:13, 99:3b, 94:7 should agree). *super* → *contra* (ἐπί of hostility; DRB *against*). The verse opens the Introit of Pent13-0 as its psalm verse (missa/Latin/Tempora/Pent13-0.txt).",
+    "73:2": "Reads alone as the Thursday antiphon (with *Dómine*) and as the Preces versicle (*Meménto* for *Memor esto*); both halves stand alone. *Memor esto* → *Lembrai-vos de* (row; 118:49), the same at 73:18 and 73:22.",
+    "73:2b": "*in quo habitásti in eo* has a Hebrew-style resumptive pronoun ('in which you dwelt in it'). Portuguese cannot say it, so *em que habitastes* renders both. This is syntax, not a repetition the ear could keep. *mons Sion* is nominative, an exclamation in apposition, and stays so (*o monte Sião*, as 47:3).",
+    "73:4": "*gloriári* absolute → *se gloriaram* (row, 31:11 absolute; 51:3 the wicked man's boasting). *odérunt* → present *odeiam* (the *odísse* row), as 73:23.",
+    "73:6": "*a derrubaram*: the Latin's feminine *eam* has no stated antecedent (the doors? the forest *silva*? the house of God?), and the Portuguese *a* is just as open (*selva* is feminine too). Left so. *silva → selva* (D44). *lignórum → de árvores* (1:3a *lignum → árvore*). *excídere → cortar*, *dejícere → derrubar*: two verbs kept two.",
+    "73:8": "*Quiéscere faciámus → Façamos cessar* (DRB *abolish*, MS1932 *Façamos cessar*); *a terra → da terra*, put before the object so that it is not heard as *Deus da terra*. The Greek has 'let us burn' (κατακαύσωμεν), and the Latin is followed.",
+    "73:10": "The formula *Úsquequo … in finem?* → *Até quando … para sempre?* (D27), here with *Deus*. *adversárius → adversário*: new, and plain.",
+    "73:11": "*sinus → seio* (34:13b *ao meu seio*). *déxtera → a direita* (row).",
+    "73:13": "The run of *Tu* (73:13, 14, 15 ×2, 16, 17 ×2) is kept exactly where the Latin has it, and nowhere else.",
+    "73:14": "*draco → dragão* (90:13). v2: *Æthíopum → da Etiópia* for the cadence (see decision `dedisti`).",
+    "73:15": "*dirúmpere → romper* (row, 2:3). *fontes, et torréntes* without articles, as the Latin (*torrens → torrente*, row). *Ethan* is a proper name in the Latin and the Greek (Ηθαμ); the Hebrew איתן means 'ever-flowing', which the Latin did not read. Spelled *Etã*, the Portuguese form of the name.",
+    "73:16": "*Tuus est dies, et tua est nox* → *Vosso é o dia, e vossa é a noite*, the predicate first, as the Latin has it and as Portuguese allows.",
+    "73:17": "*términos terræ → os limites da terra* (row, 2:8; ὅρια here, not the πέρατα of 64:8 *os confins*). *plasmáre → moldar* (row, 118:73). The Latin's resumptive *ea* is kept (*vós os moldastes*).",
+    "73:18": "*Memor esto hujus* → *Lembrai-vos disto*. *pópulus insípiens* has no article in the Latin or the Greek (λαὸς ἄφρων), so *um povo insensato* (MS1932 the same).",
+    "73:19": "*béstiæ → feras* (the *oves / boves / pécora* row reserves *feras* for béstiæ). The Latin repeats *ánimas* in both colons, and so does the Portuguese. The Introit of Pent13-0 adapts this verse with 73:20, 22 and 23 (*Réspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem …*; the Missal has *derelínquas*, the psalter *obliviscáris*); its Gradual recurs in Quad4-4 (grep).",
+    "73:20": "*Réspice in → Olhai para* (the formula *Réspice in me → Olhai para mim*). *testaméntum → aliança* (row).",
+    "73:21": "*pauper et inops → o pobre e o carente* (D38). *laudáre → louvar*.",
+    "73:22": "*Exsúrge, Deus → Levantai-vos, Deus* (row). *júdica causam tuam → julgai a vossa causa* (118:154 *a minha causa*).",
+    "73:23": "*voces inimicórum tuórum*: the Greek has 'your suppliants' (τῶν ἱκετῶν σου), and the Latin's enemies are followed. *ascéndit → sobe* (46:6 *Subiu Deus*); MS1932's *aumenta* interprets. *semper → sempre* (row).",
+    "checks": "Accepted soft flags: the length flags at 73:1b, 14b, 16a, 17b, 21b (+3/+4: Portuguese articles and the enclitic-free *e o destes*) and 73:22b, 23b (-6/-3: the Latin's long relative clause and genitive plural compress). The 73:10/73:11 rhyme is *para sempre* twice: the Latin's *in finem* twice, as the formula requires, so it is not a sought rhyme.",
+    "73:12": "The mediant falls on *séculos*, a proparoxytone, as the Latin's *sǽcula* does, and there is no paroxytone Portuguese for *sǽcula*. v2: the stylist found *é … antes dos séculos* temporally odd and proposed *desde antes*. That adds a word, and the Latin's *ante sǽcula* is just as strange, so it is refused."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels (Latin, LXX, Hebrew, DRB, MS1932; no Diurnal section for this psalm). Hard readings: 73:5 (*signa sua, signa … sicut in éxitu super summum*, the psalm's crux), 73:20 (*qui obscuráti sunt terræ dómibus iniquitátum*), 73:6 *in idípsum* (D9 deferred), and the three places of *improperáre*, a word found only in this psalm. Glossary rows applied: repéllere, in finem (D27), congregátio / synagóga (D34), possidére, virga, redímere, sanctum, malignári, gloriári, odísse, silva (D44), tabernáculum, simul, irritáre (D27), avértere, déxtera, operári (D43), confirmáre, confríngere, plasmáre, términi, insípiens, confitéri (D5), páscua, testaméntum, replére, domus, húmilis, inops (D38), exsúrgere, tota die (D24). Liturgical uses found by grep: the Thursday antiphon and the Preces versicle (73:2), and the Introit, Gradual and Alleluia of Pent13-0 / Quad4-4 (73:1, 19, 20, 22, adapted)."
+    },
+    {
+      "step": "checks",
+      "note": "render.py + checks.py: hard checks pass (verse ids, marks). Soft flags accepted, with reasons in choices.checks."
+    },
+    {
+      "step": "critic",
+      "note": "v1 readers: latinist, stylist, ambiguity (claude-opus-5-5, fresh context; latinist and stylist with latin.json). No critical or major findings.",
+      "outcomes": [
+        {
+          "reader": "latinist",
+          "verse": "73:1",
+          "point": "*nos* supplied; *e* added",
+          "outcome": "rejected: the object and conjunction are needed by Portuguese (decisions `repulisti`, `v1join`); *rejeitastes* leaves the D42 row"
+        },
+        {
+          "reader": "latinist",
+          "verse": "73:3",
+          "point": "singular for *supérbias*",
+          "outcome": "accepted: *as soberbas deles*"
+        },
+        {
+          "reader": "latinist+stylist",
+          "verse": "73:5",
+          "point": "*como* supplied",
+          "outcome": "accepted: *os seus sinais, sinais*"
+        },
+        {
+          "reader": "latinist+stylist",
+          "verse": "73:5",
+          "point": "*souberam* → *conheceram*",
+          "outcome": "accepted"
+        },
+        {
+          "reader": "stylist+ambiguity",
+          "verse": "73:5",
+          "point": "*cimo* bookish / unknown",
+          "outcome": "accepted: *cume*"
+        },
+        {
+          "reader": "latinist",
+          "verse": "73:14",
+          "point": "*e* added",
+          "outcome": "rejected: the alternative *deste-lo* / bare *o destes* opening a colon is not Portuguese"
+        },
+        {
+          "reader": "latinist",
+          "verse": "73:19",
+          "point": "*dão graças* narrows *confitéri*",
+          "outcome": "rejected: D5; *louvar* is laudáre's, at 73:21"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:2",
+          "point": "*início* → *princípio*",
+          "outcome": "rejected: the inítio row; principium keeps *princípio*"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:6",
+          "point": "long colon; *juntos* trailing; *selva* → *mata*",
+          "outcome": "partly accepted: *juntos* moved after the verb; *selva* kept (D44)"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:8",
+          "point": "three stops, subject last",
+          "outcome": "accepted: *Disseram no seu coração os da parentela deles, juntos*"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:12",
+          "point": "*desde antes dos séculos*",
+          "outcome": "rejected: adds a word; the Latin is as strange"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:14",
+          "point": "proparoxytone final *etíopes*",
+          "outcome": "accepted: *da Etiópia*"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:16",
+          "point": "*fabricastes* heard as factories",
+          "outcome": "accepted: *formastes*"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:20",
+          "point": "static *estão cheios*; *pois*",
+          "outcome": "partly accepted: *se encheram*; *porque* kept for *quia*"
+        },
+        {
+          "reader": "stylist",
+          "verse": "73:21",
+          "point": "*se volte* heard as \"return\"",
+          "outcome": "rejected: 69:4b precedent; the ambiguity reader heard \"not go away ashamed\", which is the sense; *retirar* is the option for avertis at 73:11"
+        },
+        {
+          "reader": "ambiguity",
+          "verse": "73:6",
+          "point": "*enxó* unknown",
+          "outcome": "kept, as a known cost (decision `ascia`)"
+        },
+        {
+          "reader": "ambiguity",
+          "verse": "73:8, 73:15",
+          "point": "*parentela*, *Etã* unknown",
+          "outcome": "kept: *parentela* is cognátio's plain word; *Etã* is a proper name"
+        },
+        {
+          "reader": "ambiguity",
+          "verse": "73:2b, 73:5, 73:9, 73:11, 73:20",
+          "point": "open readings (*vara*, *saída*, the subject of *conhecerá*, *seio*, *obscurecidos*)",
+          "outcome": "kept: each is the Latin's own openness (decisions `virga`, `summum`, `amplius`, `obscurati`)"
+        },
+        {
+          "reader": "ambiguity",
+          "verse": "73:22",
+          "point": "*vossas afrontas* first heard as God's own offences",
+          "outcome": "kept: the Latin's genitive *improperiórum tuórum* is as open, and the clause that follows resolves it"
+        }
+      ]
+    },
+    {
+      "step": "checks",
+      "note": "v2: render.py + checks.py: hard checks pass. The soft flags are the same as in v1 and are accepted in choices.checks."
+    },
+    {
+      "step": "critic",
+      "note": "v2 gate: latinist (claude-opus-5-5, fresh context, with latin.json). No critical or major findings; five minors, all held with reasons.",
+      "outcomes": [
+        {
+          "reader": "latinist",
+          "verse": "73:1",
+          "point": "*nos* supplied",
+          "outcome": "held: decision `repulisti`; the bare verb is option 1"
+        },
+        {
+          "reader": "latinist",
+          "verse": "73:2b",
+          "point": "*in eo* smoothed",
+          "outcome": "held: *em que habitastes nele* is not Portuguese; it is syntax, not a repetition the ear keeps (choices 73:2b)"
+        },
+        {
+          "reader": "latinist",
+          "verse": "73:14",
+          "point": "*e* added",
+          "outcome": "held: *o destes* cannot open a colon; decision `dedisti`"
+        },
+        {
+          "reader": "latinist",
+          "verse": "73:19",
+          "point": "*dão graças* narrows *confitéri*",
+          "outcome": "held: D5; *louvar* is laudáre's at 73:21"
+        },
+        {
+          "reader": "latinist",
+          "verse": "73:21",
+          "point": "passive *avertátur* made reflexive; *factus*",
+          "outcome": "held: 69:4b *Voltem-se* precedent; *repelir* is repéllere's (73:1); *factus confúsus* carried by the participle (decision `avertatur`)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+{
+  "psalm": 75,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "75:2": "Deus é conhecido na Judeia: * em Israel é grande o seu nome.",
+    "75:3": "E o seu lugar {factus} em paz: * e a sua habitação em Sião.",
+    "75:4": "Ali quebrou {potentias}, * o escudo, a espada e a guerra.",
+    "75:5": "{illuminans} maravilhosamente {amontibus}: * perturbaram-se todos os insensatos de coração.",
+    "75:6": "Dormiram o seu sono: * e todos {viri} nada encontraram nas suas mãos.",
+    "75:7": "{increpatio}, Deus de Jacó, * {dormitaverunt} {ascenderunt}.",
+    "75:8": "Vós sois terrível, e quem vos resistirá? * {extunc}.",
+    "75:9": "Do céu fizestes ouvir {judicium}: * a terra tremeu e {quievit},",
+    "75:10": "Quando Deus se levantou para o juízo, * para salvar todos os mansos da terra.",
+    "75:11": "Porque o pensamento do homem {confitebitur}: * e {reliquiae} do pensamento {diemfestum}.",
+    "75:12": "Fazei votos, e {reddite} ao Senhor, vosso Deus: * todos vós que ao seu redor trazeis {munera}.",
+    "75:13": "Ao terrível, e ao que tira {spiritum}, * ao terrível {apud} reis da terra."
+  },
+  "decisions": [
+    {
+      "id": "factus",
+      "refs": [
+        "75:3"
+      ],
+      "latin": "Et factus est in pace locus ejus",
+      "kind": "word",
+      "why": "The glossary row fíeri is fazer-se (open; tornar-se its option). The colon is also the Holy Saturday Matins antiphon and versicle (In pace factus est locus ejus: Christ's rest in the tomb), so it must read well standing alone. 'Se fez' is how Brazilian Catholics already say factus est (o Verbo se fez carne). DRB turns it to a present ('his place is in peace'); MS1932 paraphrases ('Fixou a sua habitação') and supplies a subject, which is refused.",
+      "options": [
+        {
+          "label": "se fez",
+          "forms": {
+            "factus": "se fez"
+          },
+          "note": "draft — the fíeri row; the Johannine 'se fez'",
+          "from": "glossary"
+        },
+        {
+          "label": "foi feito",
+          "forms": {
+            "factus": "foi feito"
+          },
+          "note": "the plain passive; a maker is implied",
+          "from": "draft"
+        },
+        {
+          "label": "está",
+          "forms": {
+            "factus": "está"
+          },
+          "note": "DRB 'his place is in peace' — drops the verb of becoming",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "potentias",
+      "refs": [
+        "75:4"
+      ],
+      "latin": "poténtias árcuum",
+      "kind": "glossary",
+      "why": "The glossary row poténtia → potência (open; followed in 64:7, 70:16, 70:19). Here the Greek is κράτη (in 64:7 δυναστεία), so D15's Greek test would allow a split, but the Latin word is one and nothing forces it. The plural is the Latin's, one power for each bow. MS1932 has the singular 'a força do arco'; força is fortitúdo's, and forças is virtútes nostræ's (D43). The Hebrew's 'flashes of the bow' (arrows) is not the Latin's sense. Draft 2 tried the singular for the ambiguity reader (who heard 'world powers'); the v2 Latinist asked the plural back, and it is restored.",
+      "options": [
+        {
+          "label": "as potências dos arcos",
+          "forms": {
+            "potentias": "as potências dos arcos"
+          },
+          "note": "draft 3 (as draft 1) — the row and the Latin's number; the v2 Latinist asked it back. As 64:7 and 70:16, where the ambiguity readers also found potências hard and it was kept",
+          "from": "glossary"
+        },
+        {
+          "label": "a potência dos arcos",
+          "forms": {
+            "potentias": "a potência dos arcos"
+          },
+          "note": "draft 2 — singular, for the ambiguity reader's 'world powers'; the Latinist marked the number change (minor)",
+          "from": "draft"
+        },
+        {
+          "label": "a força dos arcos",
+          "forms": {
+            "potentias": "a força dos arcos"
+          },
+          "note": "MS1932's noun; collides with fortitúdo → força",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "illuminans",
+      "refs": [
+        "75:5"
+      ],
+      "latin": "Illúminans tu mirabíliter",
+      "kind": "grammar",
+      "why": "The Latin has a participle with an emphatic tu and no finite verb; the Greek has a finite verb (φωτίζεις σύ, 'you give light'), and DRB translates it so ('Thou enlightenest wonderfully'). Supplying the finite verb is grammar (D2). MS1932 instead hangs the participle on the second colon ('Fazendo brilhar … ficaram perturbados'), a reading the Latin allows only loosely (tu is nominative, and the second colon has another subject); it is kept as an option in gerund form. The verb is the illumináre row's iluminar; mirabíliter → maravilhosamente as at 44:5b.",
+      "options": [
+        {
+          "label": "Vós iluminais",
+          "forms": {
+            "illuminans": "Vós iluminais"
+          },
+          "note": "draft — the Greek's finite verb, DRB",
+          "from": "draft"
+        },
+        {
+          "label": "Iluminando vós",
+          "forms": {
+            "illuminans": "Iluminando vós"
+          },
+          "note": "the participle kept as a gerund; heard as 'when you shone', joined to the second colon as MS1932 reads it",
+          "from": "MS1932"
+        },
+        {
+          "label": "Vós, iluminando",
+          "forms": {
+            "illuminans": "Vós, iluminando"
+          },
+          "note": "verbless like the Latin; hangs in the air"
+        },
+        {
+          "label": "Vós iluminais admiravelmente",
+          "forms": {
+            "illuminans": "Vós iluminais admiravelmente"
+          },
+          "note": "stylist: lighter than 'maravilhosamente'; refused — admirável is admirábilis's word (and 'maravilhosamente' is mirabíliter at 44:5b)",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "amontibus",
+      "refs": [
+        "75:5"
+      ],
+      "latin": "a móntibus ætérnis",
+      "kind": "word",
+      "why": "'A' is 'from' (ἀπό). 'Dos montes eternos' after iluminais can be heard as the object's genitive ('you light up [something] of the mountains'); 'desde' makes the direction plain at one syllable's cost. MS1932 adds 'do alto', which is not in the Latin.",
+      "options": [
+        {
+          "label": "dos montes eternos",
+          "forms": {
+            "amontibus": "dos montes eternos"
+          },
+          "note": "draft 2 — the stylist's; also removes 'desde', which the ambiguity reader heard as possibly temporal ('since ancient times')",
+          "from": "stylist"
+        },
+        {
+          "label": "desde os montes eternos",
+          "forms": {
+            "amontibus": "desde os montes eternos"
+          },
+          "note": "draft 1; one syllable longer; heard as possibly temporal",
+          "from": "draft"
+        },
+        {
+          "label": "do alto dos montes eternos",
+          "forms": {
+            "amontibus": "do alto dos montes eternos"
+          },
+          "note": "MS1932 — adds 'do alto'",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "viri",
+      "refs": [
+        "75:6"
+      ],
+      "latin": "omnes viri divitiárum",
+      "kind": "word",
+      "why": "A genitive of quality (as vir sánguinum → homem de sangue, D29); the Hebrew has 'men of might', the Latin and the Greek (ἄνδρες τοῦ πλούτου) riches. 'Homens ricos' would be plainer but turns the Latin's noun into an adjective and loses the build shared with homem de sangue. The subject moved before 'nada encontraram' so that 'nas suas mãos' is not heard as 'men with riches in their hands' (the Latin's own order invites that misparse in Portuguese).",
+      "options": [
+        {
+          "label": "os homens de riquezas",
+          "forms": {
+            "viri": "os homens de riquezas"
+          },
+          "note": "draft — the homem de sangue build; MS1932 'homens de riquezas'",
+          "from": "draft"
+        },
+        {
+          "label": "os homens das riquezas",
+          "forms": {
+            "viri": "os homens das riquezas"
+          },
+          "note": "the Greek's article"
+        },
+        {
+          "label": "os homens ricos",
+          "forms": {
+            "viri": "os homens ricos"
+          },
+          "note": "plainer; the noun becomes an adjective"
+        },
+        {
+          "label": "Latin order: e nada encontraram todos os homens de riquezas nas suas mãos",
+          "forms": {
+            "viri": "os homens de riquezas"
+          },
+          "note": "stylist (verb first, as the Latin); refused — 'os homens de riquezas nas suas mãos' is heard as 'men with riches in their hands'. The order change itself is recorded here; the slot keeps the noun phrase",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "dormitaverunt",
+      "refs": [
+        "75:7"
+      ],
+      "latin": "dormitavérunt",
+      "kind": "glossary",
+      "why": "The dormitáre row is dormitar (working, Ps 118:28), kept apart from dormíre, which stands one verse earlier (Dormiérunt somnum suum) — the Latin changes verb (ἐνύσταξαν against ὕπνωσαν), so the Portuguese does too. A blind reader of Ps 118 listed dormitar as unknown. Adormecer is obdormíre's (12:4b, 43:23).",
+      "options": [
+        {
+          "label": "dormitaram",
+          "forms": {
+            "dormitaverunt": "dormitaram"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "adormeceram",
+          "forms": {
+            "dormitaverunt": "adormeceram"
+          },
+          "note": "better known; obdormíre's verb"
+        },
+        {
+          "label": "caíram no sono",
+          "forms": {
+            "dormitaverunt": "caíram no sono"
+          },
+          "note": "plain; three words for one"
+        }
+      ]
+    },
+    {
+      "id": "ascenderunt",
+      "refs": [
+        "75:7"
+      ],
+      "latin": "qui ascendérunt equos",
+      "kind": "grammar",
+      "why": "The perfect names the riders, those who had mounted; ascéndere with an accusative (ἐπιβεβηκότες, a perfect participle: 'the mounted ones'). 'Os que montavam cavalos' (MS1932's tense) says who they were; 'montaram' would narrate one act of mounting. Tense here is grammar (D2).",
+      "options": [
+        {
+          "label": "os que montaram cavalos",
+          "forms": {
+            "ascenderunt": "os que montaram cavalos"
+          },
+          "note": "draft 2 — the Latinist's fix: the Latin's perfect, with equos kept as the object",
+          "from": "latinist"
+        },
+        {
+          "label": "os que montavam cavalos",
+          "forms": {
+            "ascenderunt": "os que montavam cavalos"
+          },
+          "note": "draft 1 — MS1932's imperfect; the Latinist marked the tense shift (minor)",
+          "from": "MS1932"
+        },
+        {
+          "label": "os que montaram a cavalo",
+          "forms": {
+            "ascenderunt": "os que montaram a cavalo"
+          },
+          "note": "the Latin's perfect"
+        },
+        {
+          "label": "os que subiram aos cavalos",
+          "forms": {
+            "ascenderunt": "os que subiram aos cavalos"
+          },
+          "note": "ascéndere as 'go up'; literal, a little odd"
+        }
+      ]
+    },
+    {
+      "id": "extunc",
+      "refs": [
+        "75:8"
+      ],
+      "latin": "ex tunc ira tua",
+      "kind": "ambiguity",
+      "why": "Verbless and obscure in the Latin and the Greek alike (ἀπὸ τότε ἡ ὀργή σου; DRB 'from that time thy wrath'). It can be read with the question ('who will stand against you from the moment of your wrath?') or alone ('your wrath is from of old'). Kept verbless so both stay open. MS1932's 'no momento da tua ira' is the Hebrew's sense ('once you are angry') and closes the question; refused.",
+      "options": [
+        {
+          "label": "desde então, a vossa ira",
+          "forms": {
+            "extunc": "desde então, a vossa ira"
+          },
+          "note": "draft — DRB word for word",
+          "from": "draft"
+        },
+        {
+          "label": "desde o tempo da vossa ira",
+          "forms": {
+            "extunc": "desde o tempo da vossa ira"
+          },
+          "note": "joins it to the question; closes the other reading"
+        },
+        {
+          "label": "no momento da vossa ira",
+          "forms": {
+            "extunc": "no momento da vossa ira"
+          },
+          "note": "MS1932 — the Hebrew's sense",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "judicium",
+      "refs": [
+        "75:9"
+      ],
+      "latin": "audítum fecísti judícium",
+      "kind": "word",
+      "why": "The Latin has no possessive; MS1932 adds 'o teu'. 'Fizestes ouvir o juízo' keeps the bare noun, and echoes 75:10 'para o juízo' (in judícium) one verse later, as the Latin does. Fazer ouvir as in 65:8 (audítam fácite vocem).",
+      "options": [
+        {
+          "label": "o juízo",
+          "forms": {
+            "judicium": "o juízo"
+          },
+          "note": "draft — no possessive, as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "o vosso juízo",
+          "forms": {
+            "judicium": "o vosso juízo"
+          },
+          "note": "MS1932 supplies the possessive",
+          "from": "MS1932"
+        },
+        {
+          "label": "a sentença",
+          "forms": {
+            "judicium": "a sentença"
+          },
+          "note": "DM1962's word (from the Hebrew); breaks the echo with 75:10 and the judícium row",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "quievit",
+      "refs": [
+        "75:9"
+      ],
+      "latin": "terra trémuit et quiévit",
+      "kind": "word",
+      "why": "Quiéscere (ἡσύχασεν) is to grow still, not requiéscere's rest (repousar, 4:9, 14:1, 15:9, 54:7). The line is the Easter Offertory and a Holy Thursday antiphon (Terra trémuit et quiévit), so it is said alone. 'Se aquietou' is the plain verb of the root; MS1932's 'ficou em sossego' is longer.",
+      "options": [
+        {
+          "label": "se aquietou",
+          "forms": {
+            "quievit": "se aquietou"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "ficou em sossego",
+          "forms": {
+            "quievit": "ficou em sossego"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "ficou quieta",
+          "forms": {
+            "quievit": "ficou quieta"
+          },
+          "note": "colloquial"
+        },
+        {
+          "label": "silenciou",
+          "forms": {
+            "quievit": "silenciou"
+          },
+          "note": "narrows to sound"
+        }
+      ]
+    },
+    {
+      "id": "confitebitur",
+      "refs": [
+        "75:11"
+      ],
+      "latin": "cogitátio hóminis confitébitur tibi",
+      "kind": "glossary",
+      "why": "D5: confitéri to God is dar graças a. MS1932 has 'te louvará', DRB 'shall give praise'; louvar is laudáre's.",
+      "options": [
+        {
+          "label": "vos dará graças",
+          "forms": {
+            "confitebitur": "vos dará graças"
+          },
+          "note": "D5",
+          "from": "glossary"
+        },
+        {
+          "label": "vos louvará",
+          "forms": {
+            "confitebitur": "vos louvará"
+          },
+          "note": "MS1932, DRB; laudáre's verb",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "reliquiae",
+      "refs": [
+        "75:11"
+      ],
+      "latin": "relíquiæ cogitatiónis",
+      "kind": "glossary",
+      "why": "The relíquiæ row is split by the Greek (D15): sobras for κατάλοιπα (16:14c), restos for περίλοιπα (20:13), and the singular 'resto' for ἐγκατάλειμμα (36:37–38). Here the Greek is ἐγκατάλειμμα, so 'o resto', as in Ps 36. The plural 'os restos' is heard as mortal remains (the row's warning). The sense — what is left over of man's thought — is obscure in the Latin and stays so; MS1932 turns it into 'a lembrança que lhe ficar', which interprets.",
+      "options": [
+        {
+          "label": "o resto",
+          "forms": {
+            "reliquiae": "o resto"
+          },
+          "note": "draft — as 36:37–38 (the same Greek)",
+          "from": "glossary"
+        },
+        {
+          "label": "os restos",
+          "forms": {
+            "reliquiae": "os restos"
+          },
+          "note": "the Latin's number; heard as remains; the verb of the second colon would then be plural (celebrarão)"
+        },
+        {
+          "label": "as sobras",
+          "forms": {
+            "reliquiae": "as sobras"
+          },
+          "note": "16:14c's word (another Greek)"
+        }
+      ]
+    },
+    {
+      "id": "diemfestum",
+      "refs": [
+        "75:11"
+      ],
+      "latin": "diem festum agent tibi",
+      "kind": "word",
+      "why": "Diem festum ágere is to keep a feast day (ἑορτάσει). 'Vos celebrará um dia de festa' keeps the day the Latin names; the verb is singular because 'o resto' is (see reliquiae). MS1932 'te fará festa' drops the day. 'Vos' is a dative here ('for you'); it could be heard as 'will celebrate you', which is near the sense.",
+      "options": [
+        {
+          "label": "celebrará para vós um dia de festa",
+          "forms": {
+            "diemfestum": "celebrará para vós um dia de festa"
+          },
+          "note": "draft 2 — the stylist's: with the clitic after the verb he heard 'celebrates you as a feast day'; order only",
+          "from": "stylist"
+        },
+        {
+          "label": "vos celebrará um dia de festa",
+          "forms": {
+            "diemfestum": "vos celebrará um dia de festa"
+          },
+          "note": "draft 1",
+          "from": "draft"
+        },
+        {
+          "label": "vos fará festa",
+          "forms": {
+            "diemfestum": "vos fará festa"
+          },
+          "note": "MS1932 — shorter, the day dropped",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "reddite",
+      "refs": [
+        "75:12"
+      ],
+      "latin": "Vovéte, et réddite Dómino",
+      "kind": "glossary",
+      "why": "The réddere row: pagar for vota réddere (21:26, 49:14, 55:12, 60:9, 65:13; the stylist twice asked cumprir and was refused). Here the Latin has no object for réddite; bare 'pagai ao Senhor' sounds like paying money, so the clitic -os ties it back to 'votos' (grammar, D2). Vovéte → 'Fazei votos' (MS1932): Portuguese has no plain verb for 'to vow' in the imperative ('votai' is voting). The colon is also the Offertory of the 17th Sunday after Pentecost.",
+      "options": [
+        {
+          "label": "pagai-os",
+          "forms": {
+            "reddite": "pagai-os"
+          },
+          "note": "draft — the row, object supplied",
+          "from": "glossary"
+        },
+        {
+          "label": "pagai",
+          "forms": {
+            "reddite": "pagai"
+          },
+          "note": "no object, as the Latin"
+        },
+        {
+          "label": "cumpri-os",
+          "forms": {
+            "reddite": "cumpri-os"
+          },
+          "note": "MS1932 — the stylist's request in Pss 55 and 60, refused there for the row",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "munera",
+      "refs": [
+        "75:12"
+      ],
+      "latin": "affértis múnera",
+      "kind": "glossary",
+      "why": "The múnera row (dádivas; open), which named this verse as one it must serve (the gifts brought to God, as 67:30, 71:10). The proparoxytone at the final is the Latin's own (múnera), as the row accepted at 44:13. Afférre → trazer (row).",
+      "options": [
+        {
+          "label": "dádivas",
+          "forms": {
+            "munera": "dádivas"
+          },
+          "note": "the row",
+          "from": "glossary"
+        },
+        {
+          "label": "presentes",
+          "forms": {
+            "munera": "presentes"
+          },
+          "note": "the row's option; paroxytone; 71:10 uses it for dona",
+          "from": "glossary"
+        },
+        {
+          "label": "ofertas",
+          "forms": {
+            "munera": "ofertas"
+          },
+          "note": "stylist — paroxytone cadence; refused: oferta is oblátio's family (D41), and the row's option presentes already gives a paroxytone",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "apud",
+      "refs": [
+        "75:13"
+      ],
+      "latin": "terríbili apud reges terræ",
+      "kind": "word",
+      "why": "Apud (παρὰ τοῖς βασιλεῦσι) here is 'in the eyes of, for': he is fearsome to the kings. 'Para os reis' is MS1932's build and says that. 'Entre os reis' would make him one king among others; 'junto dos reis' (the apud te row's junto de) is spatial and odd here.",
+      "options": [
+        {
+          "label": "diante dos",
+          "forms": {
+            "apud": "diante dos"
+          },
+          "note": "draft 2 — the stylist's: 'para os reis' made apud 'in the kings' opinion'; 'diante' keeps the Greek's παρά 'in the presence of'",
+          "from": "stylist"
+        },
+        {
+          "label": "para os",
+          "forms": {
+            "apud": "para os"
+          },
+          "note": "draft 1 — MS1932; heard by the stylist as 'in the kings' opinion'",
+          "from": "MS1932"
+        },
+        {
+          "label": "junto dos",
+          "forms": {
+            "apud": "junto dos"
+          },
+          "note": "the apud te row's word; spatial"
+        },
+        {
+          "label": "entre os",
+          "forms": {
+            "apud": "entre os"
+          },
+          "note": "can be heard as one king among the kings"
+        }
+      ]
+    },
+    {
+      "id": "increpatio",
+      "refs": [
+        "75:7"
+      ],
+      "latin": "Ab increpatióne tua",
+      "kind": "glossary",
+      "why": "The formula row Ab increpatióne tua → 'À vossa repreensão' (17:16b; 103:7 to come). The stylist heard the crasis first as a dative ('to your rebuke') and asked 'Ante'; the ambiguity reader heard 'because of your rebuke' first, which is the sense. Kept for the formula; the stylist's wording is an option, and if taken it should be taken in all four places.",
+      "options": [
+        {
+          "label": "À vossa repreensão",
+          "forms": {
+            "increpatio": "À vossa repreensão"
+          },
+          "note": "the formula row (17:16b)",
+          "from": "glossary"
+        },
+        {
+          "label": "Ante a vossa repreensão",
+          "forms": {
+            "increpatio": "Ante a vossa repreensão"
+          },
+          "note": "stylist — refused for the formula",
+          "from": "stylist"
+        },
+        {
+          "label": "Diante da vossa repreensão",
+          "forms": {
+            "increpatio": "Diante da vossa repreensão"
+          },
+          "note": "DM1962's build ('Diante de tua ameaça')",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "spiritum",
+      "refs": [
+        "75:13"
+      ],
+      "latin": "qui aufert spíritum príncipum",
+      "kind": "word",
+      "why": "The stylist disliked the two proparoxytones before the mediant (espírito dos príncipes) and offered 'alento' for spíritus, himself only if the word is accepted. Refused: spíritus is espírito throughout, and both proparoxytones are the Latin's own (spíritum príncipum). The ambiguity reader heard 'takes away their courage/pride' first, 'their life' second — both are in the Latin.",
+      "options": [
+        {
+          "label": "o espírito dos príncipes",
+          "forms": {
+            "spiritum": "o espírito dos príncipes"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "aos príncipes o espírito",
+          "forms": {
+            "spiritum": "aos príncipes o espírito"
+          },
+          "note": "stylist's first reorder; still proparoxytone",
+          "from": "stylist"
+        },
+        {
+          "label": "o alento aos príncipes",
+          "forms": {
+            "spiritum": "o alento aos príncipes"
+          },
+          "note": "stylist — changes the word; refused",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "75:2": "The Latin is verbless in both cola; the copula 'é' is supplied twice (grammar, D2). Natural order in the first colon (Deus first); the Latin's order kept in the second, which ends on 'nome' as the Latin ends on nomen ejus. 75:2b alone is a Psalter antiphon (In Israël * magnum nomen ejus) and reads alone. Notus → conhecido (the notus row).",
+    "75:3": "'Em paz': the Latin translates the Hebrew place name Salem as peace; the Latin's sense is kept, and the Holy Saturday use (In pace factus est locus ejus) depends on it. Habitátio → habitação as at 68:26 (morada is habitáculum's, D44). The second colon is verbless, borrowing the first colon's verb, as the Latin.",
+    "75:4": "Confríngere → quebrar (row). No subject is supplied (God is the subject from 75:2–3), as MS1932. 'E a guerra' kept: the Latin breaks war itself along with the weapons.",
+    "75:5": "Second colon: turbáre → perturbar (row); turbáti sunt as the pronominal 'perturbaram-se', as the finished psalms render (con)turbáti sunt (45:4, 47:6, 63:9) — 'foram perturbados' (the compound passive the Latinist asked for at 118:60) is four syllables longer; insípiens → insensato (row), with 'de coração' as reto de coração. First colon ~19 syllables to the Latin's 17 (accepted: the adverb is long in both languages).",
+    "75:6": "Dormíre somnum: the cognate object kept (a repetition the Latin has). Inveníre → encontrar, as in every finished psalm (9:36, 36:10, 45:2, 118:143, 118:162).",
+    "75:7": "The formula row Ab increpatióne tua → 'À vossa repreensão' (17:16b; decision increpatio), with the vocative Deus Jacob → 'Deus de Jacó' as 45:8.",
+    "75:8": "Terríbilis → terrível (settled, D43). Resístere + dative → 'vos resistirá' (16:8a has resistem à).",
+    "75:9": "Tremere → tremer; the trepidáre row also has tremer, but the two never share a verse. The verse ends with a comma, as the Latin, running into 75:10. 75:9–10 is the Easter Offertory (with resúrgeret) and a Holy Thursday antiphon (dum exsúrgeret in judício Deus).",
+    "75:10": "Cum + subjunctive → 'Quando … se levantou' (exsúrgere → levantar-se, row). In judícium → 'para o juízo', echoing 75:9. Salvos fácere → salvar (row). Mansuétus → manso (row).",
+    "75:11": "Cogitátio → pensamento (row), twice, as the Latin repeats it. Quóniam → Porque. The verse is obscure in Latin and Greek; nothing is explained.",
+    "75:12": "Plural human audience → vós; 'todos vós que' names the subject so that the plural is not heard as said to God (the Ps 10:2 remedy). In circúitu ejus → 'ao seu redor' (the row's ao redor; the possessive form taken from the stylist in draft 2), placed before the verb so it is not heard as 'bring gifts around him'. Final 'dádivas' is a proparoxytone, as múnera is (accepted, as the row did at 44:13).",
+    "75:13": "The datives continue 75:12 (to whom the gifts are brought); the repetition terríbili … terríbili kept. Auferre → tirar (settled, D41). Spíritus → espírito (the Latin's word; 'breath' and 'pride' are readings). 'E ao que tira' rather than 'e àquele que tira' (two syllables lighter). Final 'príncipes' at the mediant is a proparoxytone, as príncipum."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm75.txt, 12 prayed verses (75:2–75:13), one mediant each, no flex or second mediant. No titulus (D7). Liturgical uses (ps032/uses.py): 75:2b Psalter antiphon (Psalmi major); 75:3 Holy Saturday Matins antiphon and versicle (In pace factus est locus ejus); 75:5 an antiphon of the Transfiguration (08-06); 75:9–10 Holy Thursday antiphon and the Easter Sunday Offertory (Terra trémuit, et quiévit, dum resúrgeret in judício Deus); 75:12–13 Offertory of the 17th Sunday after Pentecost."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps075.md (Latin, LXX, WLC, DRB, MS1932, DM1962). DO's Portuguese not used (D12). Rows and rulings applied: D2, D5 (dar graças), D15's Greek test (relíquiæ → o resto, as 36:37), D41 (auferre → tirar), D43 (terrível), notus, confríngere, poténtia, illumináre, turbáre, insípiens, dormitáre, increpátio formula (17:16b), exsúrgere, salvum fácere, mansuétus, cogitátio, réddere (pagar votos), múnera, afférre, in circúitu. Hard readings: the verbless participle Illúminans tu (75:5), ex tunc ira tua (75:8), relíquiæ cogitatiónis diem festum agent (75:11), apud reges (75:13)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass (ids and marks). Soft flags on draft 1 (heuristic counter, no elision): 75:4b +4 (with elisions o‿escudo, espada‿e‿a the colon is ~8, as the Latin); 75:5a +3 (the adverb; accepted); 75:5b +4 with 'foram perturbados' → changed to 'perturbaram-se' (the finished psalms' form); 75:8b +3 (desde‿então elides; the Latin colon is only 6); 75:11a −3 (Quóniam and confitébitur are long Latin words; nothing missing); 75:13a +5 with 'àquele' → 'ao que'. Proparoxytone finals at 75:12b (dádivas) and 75:13a mediant (príncipes) match the Latin's own (múnera, príncipum). No rhyme flags."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37). Draft 1 handed to the coordinator for three fresh-context readers: latinist, stylist, ambiguity."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context, read latin.json). One minor: 75:7 tense. Taken. Everything else passed, including Illúminans as a finite verb, ex tunc kept verbless, relíquiæ … diem festum.",
+      "outcomes": [
+        {
+          "verse": "75:7",
+          "remark": "ascendérunt perfect rendered as imperfect montavam",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context, read latin.json). 8 remarks in 6 verses; 4 taken (75:5 dos, 75:11 order, 75:12 ao seu redor, 75:13 diante dos), 4 refused as options. Worst line 75:11, best 75:9.",
+      "outcomes": [
+        {
+          "verse": "75:5",
+          "remark": "maravilhosamente takes the breath; admiravelmente dos montes",
+          "outcome": "taken",
+          "decision": "amontibus",
+          "reason": "'dos' taken; 'admiravelmente' refused and kept as an option in decision illuminans — admirável is admirábilis's, maravilhosamente is mirabíliter at 44:5b."
+        },
+        {
+          "verse": "75:6",
+          "remark": "follow the Latin order, verb first",
+          "outcome": "option",
+          "decision": "viri",
+          "reason": "With the verb first, 'os homens de riquezas nas suas mãos' is heard as men with riches in their hands."
+        },
+        {
+          "verse": "75:7",
+          "remark": "À heard as a dative; Ante a vossa repreensão",
+          "outcome": "option",
+          "decision": "increpatio",
+          "reason": "Formula row (17:16b); the ambiguity reader heard the cause first. If taken, all four places change."
+        },
+        {
+          "verse": "75:11",
+          "remark": "vos celebrará heard as 'celebrates you'; celebrará para vós",
+          "outcome": "taken",
+          "decision": "diemfestum"
+        },
+        {
+          "verse": "75:12",
+          "remark": "proparoxytone dádivas; ao seu redor trazeis ofertas",
+          "outcome": "option",
+          "decision": "munera",
+          "reason": "'ao seu redor' taken (order). 'ofertas' refused: oblátio's family (D41); the múnera row stands, the proparoxytone is the Latin's own (múnera)."
+        },
+        {
+          "verse": "75:13",
+          "remark": "two proparoxytones at the mediant; alento",
+          "outcome": "option",
+          "decision": "spiritum",
+          "reason": "spíritus → espírito; the proparoxytones are the Latin's (spíritum príncipum); he accepted the accommodation himself."
+        },
+        {
+          "verse": "75:13",
+          "remark": "para os reis sounds like 'in their opinion'; diante dos",
+          "outcome": "taken",
+          "decision": "apud"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context, Portuguese only). 22 readings, 4 unknown words (dormitaram, potências, dádivas, insensatos). Acted on two: 75:4 potências heard as world powers → singular; 75:5 desde heard as temporal → dos (with the stylist). The rest are the Latin's own openness or obscurity (75:6 sleep = death, 75:8 ex tunc, 75:11 the remnant of thought, 75:13 the dangling datives, spíritus as courage or life) and are kept.",
+      "outcomes": [
+        {
+          "verse": "75:4",
+          "remark": "potências heard as nations/world powers; unknown in the sense of force",
+          "outcome": "taken",
+          "decision": "potentias"
+        },
+        {
+          "verse": "75:5",
+          "remark": "desde pulls toward temporal",
+          "outcome": "taken",
+          "decision": "amontibus"
+        },
+        {
+          "verse": "75:7",
+          "remark": "dormitaram unknown",
+          "outcome": "refused",
+          "decision": "dormitaverunt",
+          "reason": "The row keeps dormitáre apart from dormíre, which stands one verse earlier; adormeceram is the option."
+        },
+        {
+          "verse": "75:8",
+          "remark": "desde então, a vossa ira a fragment",
+          "outcome": "refused",
+          "decision": "extunc",
+          "reason": "The Latin is a verbless fragment too; joining it closes one of its readings."
+        },
+        {
+          "verse": "75:8",
+          "remark": "terrível has a colloquial sense",
+          "outcome": "refused",
+          "reason": "Settled D43; heard rightly in context."
+        },
+        {
+          "verse": "75:11",
+          "remark": "o resto do pensamento unclear; hostile-thought reading not audible",
+          "outcome": "refused",
+          "decision": "reliquiae",
+          "reason": "The Latin is obscure; the hostile-wrath reading is the Hebrew's (ḥămat), not the Latin's."
+        },
+        {
+          "verse": "75:12",
+          "remark": "Fazei votos can mean wishing well; dádivas unknown",
+          "outcome": "refused",
+          "decision": "munera",
+          "reason": "pagai-os fixes the sense of votos; dádivas is the row's word (presentes the option)."
+        },
+        {
+          "verse": "75:13",
+          "remark": "the datives dangle; espírito as courage or life",
+          "outcome": "refused",
+          "decision": "spiritum",
+          "reason": "The Latin's construction and word; both senses are in spíritus."
+        },
+        {
+          "verse": "75:5",
+          "remark": "insensatos unknown",
+          "outcome": "refused",
+          "reason": "insípiens row (insensato), passed elsewhere."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 75:4 a potência dos arcos (singular); 75:5 dos montes eternos; 75:7 os que montaram cavalos; 75:11 celebrará para vós um dia de festa; 75:12 ao seu redor; 75:13 diante dos reis da terra. Two new decisions record refused proposals (increpatio, spiritum). Draft 1 kept as prayed.v1.json. checks.py on v2: hard checks pass; soft length flags 75:4b +4, 75:5b +3, 75:8b +3, 75:11a -3 (as v1), and 75:11b +3 (para vós, taken for the hearing), 75:13a +4 (text unchanged; the Latin datives and the article), 75:13b +3 (diante, taken for the sense) — all accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2 — claude-opus-5-5, fresh context, with latin.json. Clean of majors: four minors; one taken (75:4 plural, which restores draft 1's wording, already passed by the v1 Latinist), three held with reasons, all living on as options. The v2 changes 75:5 dos, 75:7 montaram, 75:11 para vós, 75:12 ao seu redor, 75:13 diante dos passed without remark.",
+      "outcomes": [
+        {
+          "verse": "75:4",
+          "remark": "potentias plural rendered singular",
+          "outcome": "taken",
+          "decision": "potentias"
+        },
+        {
+          "verse": "75:5",
+          "remark": "participle Illúminans made finite; 'Vós, iluminando'",
+          "outcome": "refused",
+          "decision": "illuminans",
+          "reason": "The Greek has the finite verb (φωτίζεις σύ) and DRB 'Thou enlightenest'; supplying it is grammar (D2). The v1 Latinist passed it; his gerund is option 2."
+        },
+        {
+          "verse": "75:11",
+          "remark": "confitébitur narrowed to dar graças; 'vos louvará'",
+          "outcome": "refused",
+          "decision": "confitebitur",
+          "reason": "D5 (settled): confitéri to God → dar graças a; louvar is laudáre's. 'vos louvará' is the option."
+        },
+        {
+          "verse": "75:11",
+          "remark": "relíquiæ … agent plural rendered singular; 'os restos … celebrarão'",
+          "outcome": "refused",
+          "decision": "reliquiae",
+          "reason": "The relíquiæ row splits by the Greek (D15): ἐγκατάλειμμα → the singular 'o resto', as 36:37–38; 'os restos' is heard as mortal remains. The v1 Latinist passed it. 'os restos' (with the verb plural) is option 1."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3: 75:4 back to 'as potências dos arcos' (draft 1's wording, passed by the v1 Latinist and asked back by the v2 gate). No other change; no reader has read draft 3 as a whole, but its one difference from draft 2 is text a Latinist has passed."
+    }
+  ]
+}

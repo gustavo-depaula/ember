@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "bc34992124cbf130bf41bbf9961d4397bea2619dedb7949a9561b7e8a6f4695e",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T23:16:26+00:00",
+  "reply": "{\"verses\": [{\"id\": \"75:7\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"qui ascendérunt equos\", \"portuguese\": \"os que montavam cavalos\", \"problem\": \"Perfect 'ascenderunt' (those who mounted/got up on horses) rendered as imperfect habitual 'montavam'; small tense shift.\", \"fix\": \"os que montaram cavalos\"}]}], \"overall\": \"A faithful, close rendering of the Latin throughout; Septuagintal features (Illuminans tu ... a montibus aeternis, reliquiae cogitationis diem festum agent) are kept, not smoothed toward the Hebrew. Pointing marks match the Latin in every verse (one mediant each, no flex or second mediant). Only a minor tense adjustment in 75:7 is suggested.\"}\n"
+}
