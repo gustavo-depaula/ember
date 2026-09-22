@@ -1,0 +1,31 @@
+{
+  "append": [
+    {"row": "| étenim / nam et / enim |", "text": "Ps 57:3 *Étenim in corde* → *Pois no coração*."},
+    {"row": "| confríngere |", "text": "**Ps 57:7 *molas leónum confrínget Dóminus* → *o Senhor despedaçará os molares dos leões*** — beside *cónteret* in the same verse and a second Greek verb (συνέτριψεν … συνέθλασεν), so 45:10's split. Passed the Latinist twice."},
+    {"row": "| contérere |", "text": "**Ps 57:7 *Deus cónteret dentes eórum in ore ipsórum* → *Deus quebrará os dentes deles na própria boca*** — matches 3:8, as this row asked; *confrínget* in the same verse takes *despedaçar* (45:10)."},
+    {"row": "| erráre (de) |", "text": "**Ps 57:4 *erravérunt ab útero* → *desde o seio materno se extraviaram*** — applied (the stylist's fronted order). *erraram* (MS1932) option."},
+    {"row": "| venter / úbera / úterus |", "text": "**Ps 57:4 *a vulva … ab útero* → *Desde o ventre … desde o seio materno*** (μήτρας … γαστρός): úterus as this row; *vulva* (once in the psalter) takes *ventre*, venter's word, since venter is not in the psalm. The stylist asked for bare *seio* to shorten the colon; refused (the breast)."},
+    {"row": "| aliénus |", "text": "**Ps 57:4 *Alienáti sunt peccatóres* → *os pecadores se fizeram estranhos*** — the verb kept in this row's family; the cognate *se alienaram* is modern jargon. The blind reader heard 'odd people' as well as estrangement; *se alienaram* option."},
+    {"row": "| téndere / inténdere arcum |", "text": "**Ps 57:8 *inténdit arcum suum* → *arma o seu arco*** — the present (the Latinist, v1: the form is present or perfect, the verbs around it are future); *armou* (DRB, MS1932) option."},
+    {"row": "| mendácium, *loqui mendácium* |", "text": "**Ps 57:4 *locúti sunt falsa* → *falaram mentiras*** — *falsa* shares *mentira* by D15's test (ψεύδη, the Greek of mendácium); *falaram falsidades* jingles. The Latinist v2 (minor) asked *falsidades*; held, option."},
+    {"row": "| concinnáre |", "text": "**Ps 57:3 *injustítias manus vestræ concínnant* → *as vossas mãos tramam injustiças*** — applied, as this row foresaw (συμπλέκουσιν)."},
+    {"row": "| dedúcere / redígere ad níhilum |", "text": "**Ps 57:8 *Ad níhilum devénient* → *Serão reduzidos a nada*** — *devenire* is intransitive, but the Greek is 14:4a's passive (ἐξουδενωθήσονται), so the same phrase; *Chegarão a nada* (heard as 'fail') option."},
+    {"row": "| auferre |", "text": "Ps 57:9 *auferéntur* → *serão tirados*. The stylist asked *levados*; refused (*levar* is addúcere's, D42)."},
+    {"row": "| sapiénter |", "text": "Ps 57:6 *venéfici incantántis sapiénter* → *do feiticeiro que encanta sabiamente*; the blind reader heard praise of the sorcerer — the Latin's own irony."},
+    {"row": "| intellégere |", "text": "**Ps 57:10 *Priúsquam intellégerent spinæ vestræ rhamnum* → *Antes que os vossos espinhos entendessem o espinheiro*** — the Latin (= the Greek συνιέναι) kept; the blind reader found it incomprehensible, as the Latin is. *conhecessem* (DRB) option."},
+    {"row": "| vindíctæ |", "text": "Ps 57:11 singular *cum víderit vindíctam* → *ao ver a vingança* (*quando vir* was heard as the infinitive *vir*)."}
+  ],
+  "terms": [
+    "| útique (ἄρα) | de fato (*Se de fato há fruto para o justo: * de fato há um Deus que os julga na terra*) | open | Ps 57:12 (twice) and 57:2 *Si vere útique* → *Se é de fato verdade que* (*vere* as the clause). One word for the three places; MS1932 *deveras … é certo*. Grep the rest before use. |",
+    "| *recta judicáre* | julgar retamente (*julgai retamente, filhos dos homens*) | open | Ps 57:2 (εὐθεῖα κρίνετε). The adverb of *reto*: *com retidão* is diréctio's, *o que é reto* was heard as 'assess'. Cf. 74:3 *justítias judicábo* (grep). |",
+    "| vulva | ventre (*Desde o ventre*) | open | Ps 57:4 only (μήτρα), beside *útero → seio materno*; see the row *venter / úbera / úterus*. |",
+    "| obturáre (aures) | tapar (*que tapa os seus ouvidos*) | open | Ps 57:5; 62:12 *obstrúctum est os* is another verb (grep). |",
+    "| incantáre / venéficus | encantar / feiticeiro (*a voz dos encantadores: nem a do feiticeiro que encanta*) | open | Ps 57:6 (ἐπᾳδόντων … φαρμάκου). After the asp *encantadores* is heard as snake-charmers; the blind reader listed that sense as unknown. *mago* (MS1932), *envenenador* options. |",
+    "| mola (tooth) | molar (*os molares dos leões*) | open | Ps 57:7 (μύλας; L&S cites the verse: 'jawbone, or the teeth'); parallel to *dentes*. *queixadas* (MS1932) option. |",
+    "| decúrrere / flúere | correr / escorrer (*como a água que corre*; *como a cera que escorre*) | open | Ps 57:8–9, two verbs two verses apart; the Latinist (v2, minor) wanted *escorre* for *decúrrens* — held so the two stay two. *que se derrete* (MS1932, the Greek τακείς) option for 57:9. 67:3 *Sicut fluit cera a fácie ignis* should follow (grep). |",
+    "| supercádere | cair sobre (*caiu fogo sobre eles*) | open | Ps 57:9 (ἐπέπεσε). The Latinist asked v1 for 'fell upon' (against draft 1 *de cima*), then v2 for *de cima* back (against the supplied *eles*); held on the v1 remark. |",
+    "| rhamnus | espinheiro | open | Ps 57:10 only (L&S 'buckthorn'); *sarça* (MS1932) is the Burning Bush's word; *ramno* unknown. The blind reader listed *espinheiro* as unknown. |",
+    "| absorbére | engolir (*assim na ira os engole*) | open | Ps 57:10 (καταπίεται; present). *tragar* is exact but *traga* is also trazer's subjunctive; *devorar* (MS1932) is another image. 68:16 and 123:3b (grep) should test it. |",
+    "| similitúdo (ὁμοίωσις, likeness) | semelhante (*O furor deles é semelhante ao da serpente*) | open | Ps 57:5; the noun made adjective at the stylist's request (*é à semelhança* a calque). The byword sense (παραβολή, 43:15) keeps *termo de comparação*. |"
+  ]
+}

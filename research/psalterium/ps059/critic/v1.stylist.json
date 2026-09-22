@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "dc9a6f356f2c352fda896af506d3a3a4aa7befb2b47329008046c40d0d0b88e7",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T22:43:56+00:00",
+  "reply": "{\"verses\": [\n  {\"id\": \"59:3\", \"fails\": [\"sayable\", \"native\"], \"remarks\": [\n    {\"words\": \"vos irastes, e tivestes piedade de nós\", \"problem\": \"Opening the second colon on the unstressed clitic 'vos', right after 'Deus, vós nos' in the first colon, makes a blur of vós/vos/nos for the ear; in choir 'vos irastes' is heard as 'vós irastes' (wrong) or just stumbles. Enclisis gives the colon a firm stressed start.\", \"alternative\": \"irastes-vos, e tivestes piedade de nós.\"}\n  ]},\n  {\"id\": \"59:6\", \"fails\": [\"sayable\", \"concrete\"], \"remarks\": [\n    {\"words\": \"para que fujam de diante do arco\", \"problem\": \"'de diante do' is a run of d-sounds that trips the tongue, and it thins the Latin 'a facie' into a preposition. The face image is available and sits better in the mouth.\", \"alternative\": \"para que fujam da face do arco:\"}\n  ]},\n  {\"id\": \"59:8\", \"fails\": [\"plain\"], \"remarks\": [\n    {\"words\": \"no seu lugar santo\", \"problem\": \"'lugar' is supplied and settles 'in sancto suo' as a place, which the Latin leaves open (holy place / holiness / holy one); it also adds a syllable of padding before the mark.\", \"alternative\": \"Deus falou no seu santo: * eu me alegrarei, e repartirei Siquém: e medirei o vale das tendas.\"}\n  ]}\n],\n\"overall\": \"The psalm sounds plain, firm and genuinely Portuguese; the vós forms are handled cleanly, the cadences land well on almost every mark, and the concrete images (fraturas, calçado, panela, cidade fortificada) are kept without softening. The only real stumbles are the proclitic 'vos' in the opening verse and the heavy 'de diante do' in 59:6. 'Panela' is accurate but homely to a Brazilian ear; it should stay for the image, but a cantor will feel it.\",\n\"worstLine\": \"59:3\",\n\"bestLine\": \"59:11\"}\n"
+}

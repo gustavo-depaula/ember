@@ -1,0 +1,762 @@
+{
+  "psalm": 62,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "62:2a": "Deus, meu Deus, * {vigilo} {deluce}.",
+    "62:2b": "A minha alma teve sede de vós: * {multipliciter}",
+    "62:3": "Em terra deserta, {invia}, e sem água: ‡ assim {insancto} {apparui}, * para ver o vosso poder e a vossa glória.",
+    "62:4": "Porque a vossa misericórdia é melhor {vitas}: * os meus lábios vos louvarão.",
+    "62:5": "Assim vos bendirei {invita}: * e no vosso nome levantarei as minhas mãos.",
+    "62:6": "Como {adipe} {repleatur} a minha alma: * e com lábios de exultação {laudabit}.",
+    "62:7": "Se me lembrei de vós {stratum}, † {matutinis} meditarei em vós: * porque fostes o meu auxílio.",
+    "62:8b": "E {velamento} das vossas asas exultarei, † a minha alma {post}: * a vossa direita me amparou.",
+    "62:10": "Eles, porém, em vão buscaram a minha alma, † entrarão {inferiora} da terra: * serão entregues {manus} da espada, {partes} das raposas.",
+    "62:12": "O rei, porém, se alegrará em Deus, † serão louvados todos os que {jurant}: * porque {obstructum} a boca dos que falam {iniqua}."
+  },
+  "decisions": [
+    {
+      "id": "vigilo",
+      "refs": [
+        "62:2a"
+      ],
+      "latin": "ad te … vígilo",
+      "kind": "word",
+      "why": "*vigiláre* is to keep awake, to keep watch (the Greek ὀρθρίζω πρὸς σέ, 'I rise early towards you', is the dawn verb; the Latin makes it a vigil). *vigio* keeps the Latin's word; *para vós* keeps *ad te* as a direction, not an object (*vigiar por* / *velar por* would be heard as 'watch over you'). The colon is also the Lauds antiphon *Deus, Deus meus, * ad te de luce vígilo* (grep: Psalmi major, Quadp1-0, Quadp2-0) and must read alone — it does. *estou desperto* is the plain sense of the vigil but a copula + adjective for a verb; *madrugo* is the Greek's verb, not the Latin's.",
+      "options": [
+        {
+          "label": "para vós vigio",
+          "forms": {
+            "vigilo": "para vós vigio"
+          },
+          "note": "Ruling; the Latin's verb, *ad te* as direction.",
+          "from": "draft"
+        },
+        {
+          "label": "para vós estou desperto",
+          "forms": {
+            "vigilo": "para vós estou desperto"
+          },
+          "note": "the vigil said plainly; copula + adjective.",
+          "from": "draft"
+        },
+        {
+          "label": "por vós madrugo",
+          "forms": {
+            "vigilo": "por vós madrugo"
+          },
+          "note": "ὀρθρίζω, the Greek's dawn verb; not the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "em vós estou vigilante",
+          "forms": {
+            "vigilo": "em vós estou vigilante"
+          },
+          "note": "MS1932 (*em ti estou vigilante*); *em* for *ad* blurs the direction.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deluce",
+      "refs": [
+        "62:2a"
+      ],
+      "latin": "de luce",
+      "kind": "word",
+      "why": "*de luce* is the Latin idiom for 'at daybreak, from first light' (DRB 'at break of day', MS1932 *desde o raiar da aurora*). *desde a aurora* is plain and ends the verse on a paroxytone; *desde a luz* keeps the Latin noun but is heard as 'since the light (existed)'. *ao romper da luz* keeps *lux* and the idiom but is two syllables longer.",
+      "options": [
+        {
+          "label": "desde a aurora",
+          "forms": {
+            "deluce": "desde a aurora"
+          },
+          "note": "Ruling; the idiom's sense, *de* as 'from'.",
+          "from": "draft"
+        },
+        {
+          "label": "ao romper da luz",
+          "forms": {
+            "deluce": "ao romper da luz"
+          },
+          "note": "keeps *lux*; longer; oxytone close.",
+          "from": "draft"
+        },
+        {
+          "label": "desde a luz",
+          "forms": {
+            "deluce": "desde a luz"
+          },
+          "note": "the literal tier; misheard as 'since light began'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "multipliciter",
+      "refs": [
+        "62:2b"
+      ],
+      "latin": "quam multiplíciter tibi caro mea",
+      "kind": "grammar",
+      "why": "The Latin leaves *sitívit* to be understood in the second colon (ποσαπλῶς σοι ἡ σάρξ μου). Kept verbless, as MS1932 and DRB keep it; *tibi* kept as *por vós* (DRB 'for thee'), so the flesh's thirst is towards God as the soul's is. Supplying *vos deseja* (DM1962, from the Hebrew *kamah*) would add a verb the Latin lacks. The exclamation is the Latin's *quam*.",
+      "options": [
+        {
+          "label": "de quantos modos, por vós, a minha carne!",
+          "forms": {
+            "multipliciter": "de quantos modos, por vós, a minha carne!"
+          },
+          "note": "Ruling; verbless as the Latin; *tibi* kept.",
+          "from": "draft"
+        },
+        {
+          "label": "e de quantas maneiras a minha carne!",
+          "forms": {
+            "multipliciter": "e de quantas maneiras a minha carne!"
+          },
+          "note": "MS1932's build; drops *tibi*, adds *e*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "de quantos modos a minha carne vos deseja!",
+          "forms": {
+            "multipliciter": "de quantos modos a minha carne vos deseja!"
+          },
+          "note": "supplies a verb (the Hebrew's); refused under D2.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "invia",
+      "refs": [
+        "62:3"
+      ],
+      "latin": "et ínvia, et inaquósa",
+      "kind": "word",
+      "why": "*ínvius* is 'without a road, impassable' (L&S; ἄβατος). Three privative adjectives in a row, joined by *et … et*; *sem caminho, e sem água* keeps the privative echo (*in-via / in-aquosa* → *sem caminho / sem água*) and the *via → caminho* word. The first *et* is dropped for Portuguese listing (*deserta, sem caminho, e sem água*); the second kept. *intransitável* (MS1932) is exact but heavy and technical. **Accidental echo:** none at the cadence.",
+      "options": [
+        {
+          "label": "sem caminho",
+          "forms": {
+            "invia": "sem caminho"
+          },
+          "note": "Ruling; keeps *via* and the privative pair.",
+          "from": "draft"
+        },
+        {
+          "label": "intransitável",
+          "forms": {
+            "invia": "intransitável"
+          },
+          "note": "MS1932; exact, heavy.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e sem caminho",
+          "forms": {
+            "invia": "e sem caminho"
+          },
+          "note": "both *et* kept: *Em terra deserta, e sem caminho, e sem água*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "insancto",
+      "refs": [
+        "62:3"
+      ],
+      "latin": "in sancto",
+      "kind": "glossary",
+      "why": "The *sancta / sanctum (a place)* row: *no lugar santo* (21:4 *in sancto hábitas*, 19:3 *de sancto*); ἐν τῷ ἁγίῳ. The row notes that *in sancto* 'is not always a place' — here it is (the psalmist comes before God in the sanctuary as he did, thirsting, in the desert: *sic*). *santuário* stays *sanctuárium*'s.",
+      "options": [
+        {
+          "label": "no lugar santo",
+          "forms": {
+            "insancto": "no lugar santo"
+          },
+          "note": "Ruling; the row; 21:4.",
+          "from": "glossary"
+        },
+        {
+          "label": "no santuário",
+          "forms": {
+            "insancto": "no santuário"
+          },
+          "note": "DRB, MS1932; *sanctuárium*'s word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "apparui",
+      "refs": [
+        "62:3"
+      ],
+      "latin": "appárui tibi",
+      "kind": "word",
+      "why": "ὤφθην σοι, 'I was seen by you / I appeared before you' — the worshipper presenting himself at the sanctuary (the idiom of appearing before the Lord at the feasts). *vos apareci* is heard as an apparition; *me apresentei a vós* (MS1932) says the act, and ends the colon on an oxytone. *apareci diante de vós* keeps the verb and loses nothing but two syllables.",
+      "options": [
+        {
+          "label": "me apresentei a vós",
+          "forms": {
+            "apparui": "me apresentei a vós"
+          },
+          "note": "Ruling; MS1932; DRB 'have I come before thee'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "apareci diante de vós",
+          "forms": {
+            "apparui": "apareci diante de vós"
+          },
+          "note": "the Latin's verb; longer.",
+          "from": "draft"
+        },
+        {
+          "label": "vos apareci",
+          "forms": {
+            "apparui": "vos apareci"
+          },
+          "note": "the literal tier; heard as an apparition.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vitas",
+      "refs": [
+        "62:4"
+      ],
+      "latin": "super vitas",
+      "kind": "grammar",
+      "why": "The Latin's plural (ὑπὲρ ζωάς; DRB 'than lives') is kept: *do que as vidas*. *super* after a comparative is 'than' (DRB), not 'above'. MS1932 adds *todas*. The singular *do que a vida* (DM1962, the Hebrew's sense) is smoother and closes the plural's openness (many lives, or life in all its forms).",
+      "options": [
+        {
+          "label": "do que as vidas",
+          "forms": {
+            "vitas": "do que as vidas"
+          },
+          "note": "Ruling; the plural kept.",
+          "from": "draft"
+        },
+        {
+          "label": "do que todas as vidas",
+          "forms": {
+            "vitas": "do que todas as vidas"
+          },
+          "note": "MS1932; adds *todas*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "do que a vida",
+          "forms": {
+            "vitas": "do que a vida"
+          },
+          "note": "singular; DM1962 (Hebrew).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "invita",
+      "refs": [
+        "62:5"
+      ],
+      "latin": "in vita mea",
+      "kind": "word",
+      "why": "'In my life, while I live' (ἐν τῇ ζωῇ μου). *na minha vida* is the Latin word for word and MS1932's (*em minha vida*); DRB 'all my life long' interprets duration. The same words close the Lauds antiphon *Lábia mea * laudábunt te in vita mea, Deus meus* (grep, Psalmi major) — both read alike.",
+      "options": [
+        {
+          "label": "na minha vida",
+          "forms": {
+            "invita": "na minha vida"
+          },
+          "note": "Ruling; as the Latin, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "por toda a minha vida",
+          "forms": {
+            "invita": "por toda a minha vida"
+          },
+          "note": "DRB 'all my life long'; adds *toda*.",
+          "from": "DRB"
+        },
+        {
+          "label": "enquanto eu viver",
+          "forms": {
+            "invita": "enquanto eu viver"
+          },
+          "note": "the sense as a clause; loses the noun that echoes 62:4 *vitas*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adipe",
+      "refs": [
+        "62:6"
+      ],
+      "latin": "Sicut ádipe et pinguédine",
+      "kind": "glossary",
+      "why": "Two words for fat (στέατος καὶ πιότητος): *adeps* is the soft fat, lard (L&S), *pinguédo* fatness (the family of *pinguis → gordo*). MS1932 has exactly this pair, *de banha e de gordura*, which keeps both and gives *pinguédo* the root its adjective has. The *adeps* row has *gordura* for 16:9b, where the word stands alone; here two words must be kept apart, and the row is open — noted there. DRB 'marrow and fatness' is its own gloss. *fartura* would make the second noun abundance, not fat — refused under D2 (the concrete image stays, rule 5).",
+      "options": [
+        {
+          "label": "de banha e de gordura",
+          "forms": {
+            "adipe": "de banha e de gordura"
+          },
+          "note": "Ruling; MS1932 word for word; L&S.",
+          "from": "MS1932"
+        },
+        {
+          "label": "de gordura e de banha",
+          "forms": {
+            "adipe": "de gordura e de banha"
+          },
+          "note": "keeps the *adeps* row's *gordura* (16:9b); the pingu-/gord- link lost.",
+          "from": "glossary"
+        },
+        {
+          "label": "de gordura e de fartura",
+          "forms": {
+            "adipe": "de gordura e de fartura"
+          },
+          "note": "the ear's line; the second noun becomes abundance.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "repleatur",
+      "refs": [
+        "62:6"
+      ],
+      "latin": "repleátur",
+      "kind": "word",
+      "why": "Jussive passive, 'may it be filled' (ἐμπλησθείη). *seja repleta* keeps the passive and the root; *se sacie* (MS1932 *seja saciada*) is *satiáre*'s verb (21:27 *serão saciados*). *adimplére → encher* is another Latin verb and Greek (πληρόω), so *se encha* is avoided.",
+      "options": [
+        {
+          "label": "seja repleta",
+          "forms": {
+            "repleatur": "seja repleta"
+          },
+          "note": "Ruling; the root and the passive.",
+          "from": "draft"
+        },
+        {
+          "label": "seja saciada",
+          "forms": {
+            "repleatur": "seja saciada"
+          },
+          "note": "MS1932; *satiáre*'s word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se farte",
+          "forms": {
+            "repleatur": "se farte"
+          },
+          "note": "plain; reflexive.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "laudabit",
+      "refs": [
+        "62:6"
+      ],
+      "latin": "laudábit os meum",
+      "kind": "grammar",
+      "why": "The Latin has no object here (αἰνέσει τὸ στόμα μου), where 62:4 had *laudábunt te*. Kept objectless; the subject goes before the verb so that *a minha boca* is not heard as the object ('will praise my mouth'), and the verse closes on the oxytone. MS1932 and DRB supply 'thee' — option.",
+      "options": [
+        {
+          "label": "a minha boca louvará",
+          "forms": {
+            "laudabit": "a minha boca louvará"
+          },
+          "note": "Ruling; no object, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "a minha boca vos louvará",
+          "forms": {
+            "laudabit": "a minha boca vos louvará"
+          },
+          "note": "MS1932, DRB supply the object.",
+          "from": "MS1932"
+        },
+        {
+          "label": "louvará a minha boca",
+          "forms": {
+            "laudabit": "louvará a minha boca"
+          },
+          "note": "the Latin's order; *a minha boca* can be heard as the object.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "stratum",
+      "refs": [
+        "62:7"
+      ],
+      "latin": "super stratum meum",
+      "kind": "glossary",
+      "why": "The *lectus / stratum* row: *stratum → cama* (6:7, 40:4), *leito* for *lectus*. *super* is 'on' the bed; *na minha cama* is how Portuguese says it (40:4 took *no leito* for *super lectum* from the stylist). *sobre a minha cama* is the letter. *no meu leito* (MS1932) crosses the row.",
+      "options": [
+        {
+          "label": "na minha cama",
+          "forms": {
+            "stratum": "na minha cama"
+          },
+          "note": "Ruling; the row, as 40:4 *no leito*.",
+          "from": "glossary"
+        },
+        {
+          "label": "sobre a minha cama",
+          "forms": {
+            "stratum": "sobre a minha cama"
+          },
+          "note": "the letter of *super*.",
+          "from": "draft"
+        },
+        {
+          "label": "no meu leito",
+          "forms": {
+            "stratum": "no meu leito"
+          },
+          "note": "MS1932; *lectus*'s word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "matutinis",
+      "refs": [
+        "62:7"
+      ],
+      "latin": "in matutínis",
+      "kind": "word",
+      "why": "The neuter plural 'in the mornings / the morning hours' (ἐν τοῖς ὄρθροις, the dawn watches; DRB 'in the morning'). Also the versicle *In matutínis, Dómine, meditábor in te. R. Quia fuísti adjútor meus* and a Lauds antiphon (grep) — the colon reads alone. *mane → de manhã* and *dilúculo → ao amanhecer* are taken (rows), so this keeps its own plural: *nas madrugadas* is the dawn hours the Greek names and the Latin plural. 72:14 *castigátio mea in matutínis* should follow.",
+      "options": [
+        {
+          "label": "nas madrugadas",
+          "forms": {
+            "matutinis": "nas madrugadas"
+          },
+          "note": "Ruling; plural; the dawn hours.",
+          "from": "draft"
+        },
+        {
+          "label": "pelas manhãs",
+          "forms": {
+            "matutinis": "pelas manhãs"
+          },
+          "note": "plural 'mornings'; close to *mane*'s *de manhã*.",
+          "from": "draft"
+        },
+        {
+          "label": "de manhã",
+          "forms": {
+            "matutinis": "de manhã"
+          },
+          "note": "MS1932, DRB; = *mane* (row).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "velamento",
+      "refs": [
+        "62:8b"
+      ],
+      "latin": "in velaménto alárum tuárum",
+      "kind": "glossary",
+      "why": "Copies 60:5 *ao abrigo das vossas asas*, as the *tegmen* row asks (*velaméntum* and *tegmen* share the Greek σκέπη; D15). 60:5's Latinist asked twice for *sob o véu* / *sob a cobertura*, held there; both stay options here.",
+      "options": [
+        {
+          "label": "ao abrigo",
+          "forms": {
+            "velamento": "ao abrigo"
+          },
+          "note": "Ruling; = 60:5, 35:8.",
+          "from": "glossary"
+        },
+        {
+          "label": "sob a cobertura",
+          "forms": {
+            "velamento": "sob a cobertura"
+          },
+          "note": "DRB 'under the covert'; refused by the *tegmen* row.",
+          "from": "DRB"
+        },
+        {
+          "label": "sob o véu",
+          "forms": {
+            "velamento": "sob o véu"
+          },
+          "note": "*velaméntum*'s own image.",
+          "from": "draft"
+        },
+        {
+          "label": "à sombra",
+          "forms": {
+            "velamento": "à sombra"
+          },
+          "note": "MS1932, DM1962; *umbra*'s word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "post",
+      "refs": [
+        "62:8b"
+      ],
+      "latin": "adhǽsit ánima mea post te",
+      "kind": "word",
+      "why": "*adhærére → apegar-se* for the soul, as 118:25 *A minha alma apegou-se ao chão* and 118:31 *Apeguei-me aos vossos testemunhos* (same Greek ἐκολλήθη). *post te* (ὀπίσω σου) is 'behind you, after you' — the soul clinging as it follows. Portuguese cannot say *apegou-se atrás de vós* or *após vós* (D43's *após* is after a verb of motion); DRB ('stuck close to thee') and MS1932 (*está presa a ti*) both let the preposition go. Ruled *apegou-se a vós*, with the loss recorded; *seguiu-vos de perto* keeps the following and loses the clinging. The colon is also an antiphon (St Stephen, St Lawrence: *Adhǽsit ánima mea post te, quia caro mea…*) and reads alone.",
+      "options": [
+        {
+          "label": "apegou-se a vós",
+          "forms": {
+            "post": "apegou-se a vós"
+          },
+          "note": "Ruling; 118:25, 118:31; *post* lost, as DRB and MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "apegou-se a vós, seguindo-vos",
+          "forms": {
+            "post": "apegou-se a vós, seguindo-vos"
+          },
+          "note": "keeps *post* by a participle; adds a verb.",
+          "from": "draft"
+        },
+        {
+          "label": "seguiu-vos de perto",
+          "forms": {
+            "post": "seguiu-vos de perto"
+          },
+          "note": "the idiom's sense; loses the clinging.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inferiora",
+      "refs": [
+        "62:10"
+      ],
+      "latin": "in inferióra terræ",
+      "kind": "word",
+      "why": "'the lower parts of the earth' (τὰ κατώτατα τῆς γῆς; DRB 'lower parts'). *as profundezas da terra* is the plain word for the lowest places (MS1932 *profundidades*); *as partes inferiores* is the letter and sounds anatomical. 138:15 *in inferióribus terræ* should follow.",
+      "options": [
+        {
+          "label": "nas profundezas",
+          "forms": {
+            "inferiora": "nas profundezas"
+          },
+          "note": "Ruling; plain; MS1932's sense.",
+          "from": "draft"
+        },
+        {
+          "label": "nas partes mais baixas",
+          "forms": {
+            "inferiora": "nas partes mais baixas"
+          },
+          "note": "DRB; the letter.",
+          "from": "DRB"
+        },
+        {
+          "label": "nas partes inferiores",
+          "forms": {
+            "inferiora": "nas partes inferiores"
+          },
+          "note": "the literal tier.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "manus",
+      "refs": [
+        "62:10"
+      ],
+      "latin": "tradéntur in manus gládii",
+      "kind": "word",
+      "why": "The hands of the sword (εἰς χεῖρας ῥομφαίας) is the Latin's image and stays (rule 5); *entregues nas mãos de* is current Portuguese for handing over. MS1932 *ao poder da espada* explains the image.",
+      "options": [
+        {
+          "label": "nas mãos",
+          "forms": {
+            "manus": "nas mãos"
+          },
+          "note": "Ruling; the image kept.",
+          "from": "draft"
+        },
+        {
+          "label": "às mãos",
+          "forms": {
+            "manus": "às mãos"
+          },
+          "note": "*in* + accusative as motion.",
+          "from": "draft"
+        },
+        {
+          "label": "ao poder",
+          "forms": {
+            "manus": "ao poder"
+          },
+          "note": "MS1932; explains the image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "partes",
+      "refs": [
+        "62:10"
+      ],
+      "latin": "partes vúlpium erunt",
+      "kind": "word",
+      "why": "*partes* 'shares, portions' (μερίδες; DRB 'the portions of foxes'): what falls to the foxes. *serão a porção das raposas* makes the plural a collective. MS1932 *presa das raposas* interprets (prey). The plural *as porções* is the letter.",
+      "options": [
+        {
+          "label": "serão a porção",
+          "forms": {
+            "partes": "serão a porção"
+          },
+          "note": "Ruling; collective singular.",
+          "from": "draft"
+        },
+        {
+          "label": "serão as porções",
+          "forms": {
+            "partes": "serão as porções"
+          },
+          "note": "the Latin's plural; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "serão a presa",
+          "forms": {
+            "partes": "serão a presa"
+          },
+          "note": "MS1932, DM1962; interprets.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "jurant",
+      "refs": [
+        "62:12"
+      ],
+      "latin": "qui jurant in eo",
+      "kind": "word",
+      "why": "*juráre in* + ablative is to swear by (ὀμνύων ἐν αὐτῷ; DRB 'swear by him', MS1932 *juram por ele*). *nele* would be the letter and is not Portuguese for an oath. *eo* is open between God and the king, as in the Latin; *por ele* keeps it open.",
+      "options": [
+        {
+          "label": "juram por ele",
+          "forms": {
+            "jurant": "juram por ele"
+          },
+          "note": "Ruling; the idiom; DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "juram nele",
+          "forms": {
+            "jurant": "juram nele"
+          },
+          "note": "the letter; not the idiom.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "obstructum",
+      "refs": [
+        "62:12"
+      ],
+      "latin": "obstrúctum est os",
+      "kind": "word",
+      "why": "*obstrúere* is to block, stop up (L&S; ἐνεφράγη). *foi fechada* is plain (MS1932); *foi tapada* keeps the stopping-up image but in Brazil *tapar a boca* is to cover it with a hand. Once in the psalter (grep).",
+      "options": [
+        {
+          "label": "foi fechada",
+          "forms": {
+            "obstructum": "foi fechada"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "foi tapada",
+          "forms": {
+            "obstructum": "foi tapada"
+          },
+          "note": "the letter; DRB 'stopped'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "iniqua",
+      "refs": [
+        "62:12"
+      ],
+      "latin": "loquéntium iníqua",
+      "kind": "glossary",
+      "why": "The neuter plural *iníqua* → *coisas iníquas*, as 25:4 (*iníqua geréntibus → os que fazem coisas iníquas*); *iniquidades* is *iníquitas*'s word. DRB 'wicked things'.",
+      "options": [
+        {
+          "label": "coisas iníquas",
+          "forms": {
+            "iniqua": "coisas iníquas"
+          },
+          "note": "Ruling; 25:4.",
+          "from": "glossary"
+        },
+        {
+          "label": "iniquidades",
+          "forms": {
+            "iniqua": "iniquidades"
+          },
+          "note": "*iníquitas*'s word.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "62:2a": "*Deus, Deus meus → Deus, meu Deus*, as 21:2 and 42:5 (the vocative without *ó*, as the finished psalms). The colon is the Lauds antiphon. checks: the second colon is +4 by the counter, which does not elide *desde‿a‿aurora*; the first colon is −3, so the verse is level with the Latin.",
+    "62:2b": "*sitíre in → ter sede de*, the perfect kept (*teve*), as the settled row (D42; 41:3).",
+    "62:3": "*virtus → poder* (row). The ‡ after the first colon kept. The first colon is verbless, as the Latin. checks: the second colon +4 (*me apresentei a vós*, decision `apparui`); *vos apareci* would save it at the cost of an apparition — accepted.",
+    "62:4": "*laudáre → louvar*. *Quóniam → Porque*.",
+    "62:5": "*benedícere* (man → God) *→ bendizer* with the accusative (*vos bendirei*). *leváre → levantar* (row; 118:48 *levantei as minhas mãos*). *in nómine tuo → no vosso nome* (53:3).",
+    "62:6": "*exsultátio → exultação* (row; 41:5b *com voz de exultação*).",
+    "62:7": "*Si memor fui* kept conditional (*Se me lembrei*), as the Latin and DRB; MS1932 flattens to a statement. *memor esse → lembrar-se de*, *meditári in → meditar em* (rows). *adjútor → auxílio* (row, 14/14); *fuísti → fostes*. The versicle *In matutínis, Dómine, meditábor in te. R. Quia fuísti adjútor meus* reads from the two colons.",
+    "62:8b": "*suscípere* (persons) *→ amparar* (D19); *a vossa direita me amparou* = 17:36a word for word. The colon *Me suscépit déxtera tua* is a Lauds antiphon (grep). *exsultáre → exultar*.",
+    "62:10": "*quǽrere ánimam → buscar a minha alma* (row; 53:5), with the row's known cost (heard as the spiritual soul before 'my life'). *vero → porém*, repeated in 62:12 as the Latin repeats it. *trádere → entregar* (row). checks: the last colon +4; it carries two Latin members (*tradéntur in manus gládii · partes vúlpium erunt*), neither can go — accepted.",
+    "62:12": "*lætári in → alegrar-se em*; *laudári → ser louvado* (row; 33:3): the Latin's passive (ἐπαινεσθήσεται), not MS1932's *se gloriará*. checks: the last colon +4 (*coisas iníquas* for one neuter plural) — accepted."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps062.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Liturgical uses found by grep in content/do: Lauds antiphons *Deus, Deus meus, * ad te de luce vígilo*, *Lábia mea * laudábunt te in vita mea*, *In matutínis * meditábor in te*, *Me suscépit * déxtera tua*, *Benedícam te * in vita mea*; the versicle *In matutínis, Dómine, meditábor in te. R. Quia fuísti adjútor meus*; the antiphon *Adhǽsit ánima mea post te* (St Stephen, St Lawrence). Hard readings: 62:2a *de luce vígilo*, 62:2b the verbless second colon, 62:6 the two fats, 62:8b *post te*, 62:10 *partes vúlpium*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 62:2a −3/+4 (level over the verse), 62:3‡ +4, 62:10* +4, 62:12* +4 — accepted, reasons in choices. No cadence rhyme flagged. 62:4b, 62:6b, 62:7†, 62:8b†* close on oxytones as the Latin's *te* allows."
+    }
+  ]
+}

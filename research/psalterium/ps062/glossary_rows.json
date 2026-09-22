@@ -1,0 +1,24 @@
+{
+  "append": [
+    {"row": "| tegmen |", "text": "**Ps 62:8b *in velaménto alárum tuárum* → *E ao abrigo das vossas asas exultarei*** — copies 60:5 as foreseen; no reader remarked."},
+    {"row": "| lectus / stratum |", "text": "**Ps 62:7 *super stratum meum* → *na minha cama*** — the row; the stylist asked *no meu leito* (register), refused to keep the pair apart; option."},
+    {"row": "| adeps |", "text": "**Ps 62:6 *Sicut ádipe et pinguédine* → *como de banha e de gordura*** (MS1932; L&S: *adeps* the soft fat, lard; *pinguédo* keeps *pinguis → gordo*'s root). Where the two stand together *adeps* is *banha*; alone (16:9b) *gordura*. The stylist (worst line) found *banha* homely and asked *tutano* (DRB's gloss, refused; option); the ambiguity reader heard *Como de banha* at the head of the verse as 'I eat lard' — mended by putting the verb first (*Que a minha alma se farte como de banha…*). **For Gustavo's ear.**"},
+    {"row": "| sancta / sanctum (a place) |", "text": "**Ps 62:3 *sic in sancto appárui tibi* → *assim no lugar santo me apresentei a vós*** — the row; no reader remarked."},
+    {"row": "| laudári (the soul *in Dómino*) |", "text": "**Ps 62:12 *laudabúntur omnes qui jurant in eo* → *serão louvados todos os que juram por ele*** — the passive kept (MS1932 *louvados serão*); the blind reader heard 'praised by others'."},
+    {"row": "| sitíre ad |", "text": "**Ps 62:2b *Sitívit in te ánima mea* → *A minha alma teve sede de vós*** — the row; the second colon verbless as the Latin (*e de quantos modos a minha carne, por vós!*)."},
+    {"row": "| adhærére |", "text": "**Ps 62:8b *adhǽsit ánima mea post te* → *a minha alma apegou-se a vós, seguindo-vos*** — *post te* kept by a participle (the Latinist's v1 fix; on the v2 gate he asked *atrás de vós*, held as unidiomatic; option). The colon is the antiphon of St Stephen / St Lawrence."}
+  ],
+  "terms": [
+    "| vigiláre (*ad te de luce vígilo*) | vigiar (*para vós vigio desde a aurora*) | open | Ps 62:2a (ὀρθρίζω; the Latin makes the dawn verb a vigil); *para vós* keeps *ad te* as direction (*vigiar / velar por* = watch over). *de luce* → *desde a aurora* (DRB 'at break of day'); *ao romper da luz* option. 101:8 *Vigilávi*, 126:1b *frustra vígilat* are ἀγρυπνέω and decide locally. Blind reader heard 'keep watch waiting for you'; Latinist clean twice |",
+    "| matutína (*in matutínis*) | nas madrugadas | open | Ps 62:7 (ἐν τοῖς ὄρθροις); the plural kept apart from *mane → de manhã* and *dilúculo → ao amanhecer*. The versicle *In matutínis, Dómine, meditábor in te*. **72:14 *castigátio mea in matutínis* should follow.** *pelas manhãs* option |",
+    "| ínvius | sem caminho (*Em terra deserta, sem caminho, e sem água*) | open | Ps 62:3 (ἄβατος; L&S 'without a road'); keeps *via → caminho* and the privative pair with *inaquósa → sem água*. 106:40 *in ínvio, et non in via* should test it (*por onde não há caminho, e não pelo caminho*?). *intransitável* (MS1932) option |",
+    "| repléri (jussive, *repleátur*) | fartar-se (*Que a minha alma se farte*) | open | Ps 62:6 (ἐμπλησθείη); the stylist's; apart from satiáre → saciar and adimplére → encher. *seja repleta* (draft 1) option |",
+    "| inferióra terræ | as partes mais baixas da terra | open | Ps 62:10 (τὰ κατώτατα); the Latinist asked for the comparative; *partes inferiores* refused (heard as the lower body). **138:15 *in inferióribus terræ* should follow.** *profundezas* (draft 1) option |",
+    "| partes (a share) | porção (*serão a porção das raposas*) | open | Ps 62:10 (μερίδες); collective singular; *presa* (MS1932) interprets. Blind reader heard 'eaten by foxes' |",
+    "| obstrúere (*os*) | fechar (*foi fechada a boca*) | open | Ps 62:12 only (grep); *tapar a boca* is a hand over it in Brazil (the stylist asked *tapada*, refused; option) |",
+    "| juráre in (+ abl.) | jurar por (*os que juram por ele*) | open | Ps 62:12 (DRB, MS1932); *in eo* stays open between God and the king |"
+  ],
+  "formulas": [
+    "| *Deus, Deus meus, * ad te de luce vígilo* (62:2a; Lauds antiphon, Psalmi major, Quadp1-0, Quadp2-0) · *Lábia mea * laudábunt te in vita mea, Deus meus* (62:4b + 62:5a) · *In matutínis * (Dómine,) meditábor in te. R. Quia fuísti adjútor meus* (62:7) · *Me suscépit * déxtera tua* (62:8b) · *Adhǽsit ánima mea post te* (62:8b; St Stephen, St Lawrence) | *Deus, meu Deus, * para vós vigio desde a aurora* · *Os meus lábios vos louvarão na minha vida, meu Deus* · *Nas madrugadas meditarei em vós. R. Porque fostes o meu auxílio* · *A vossa direita me amparou* (= 17:36a) · *A minha alma apegou-se a vós, seguindo-vos* | open — Ps 62; each colon reads alone |"
+  ]
+}

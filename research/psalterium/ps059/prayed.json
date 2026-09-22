@@ -1,0 +1,728 @@
+{
+  "psalm": 59,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "59:3": "Deus, vós nos {rep1}, e nos destruístes: * irastes-vos, e tivestes piedade de nós.",
+    "59:4": "Abalastes a terra, e a perturbastes: * curai as suas {contritiones}, porque {commota}.",
+    "59:5": "Mostrastes ao vosso povo coisas duras: * destes-nos a beber vinho de {compunctio}.",
+    "59:6": "Destes aos que vos temem um sinal: * para que fujam {afacie} arco:",
+    "59:7": "Para que sejam livrados os vossos amados: * {salvumfac} com a vossa direita, e escutai-me.",
+    "59:8": "Deus falou {insancto}: * eu me alegrarei, e repartirei Siquém: e medirei {convallem}.",
+    "59:9": "Meu é Galaad, e meu é Manassés: * e Efraim é a força da minha cabeça.",
+    "59:9b": "{juda}: * {moab} a {olla} da minha esperança.",
+    "59:10": "{inidumaeam} estenderei o meu {calceamentum}: * a mim {subditi} os estrangeiros.",
+    "59:11": "Quem me {ded1} à cidade fortificada? * quem me {ded2} até a Idumeia?",
+    "59:12": "{nonne}, Deus, que nos {rep2}? * e não saireis, Deus, com as nossas forças?",
+    "59:13": "Dai-nos auxílio {detrib}: * porque é vã a salvação do homem.",
+    "59:14": "Em Deus {facvirt}: * e ele mesmo reduzirá a nada os que nos atribulam."
+  },
+  "decisions": [
+    {
+      "id": "repulisti",
+      "refs": [
+        "59:3",
+        "59:12"
+      ],
+      "latin": "repulísti nos (twice)",
+      "kind": "glossary",
+      "why": "*repéllere* without *a* → *repelir* is settled (D42; the row names 59:3 and 59:12). The verb opens the psalm and returns in 59:12 as the name of the God who must lead the army (*qui repulísti nos*), so the two must be one word, and they are. The row warns that the Ps 42 blind reader did not know *repelistes*; the blind reader of this psalm is the second test. DRB 'cast off'; MS1932 *desamparaste* (another verb: derelínquere's field).",
+      "options": [
+        {
+          "label": "repelistes",
+          "forms": {
+            "rep1": "repelistes",
+            "rep2": "repelistes"
+          },
+          "note": "Ruling; the settled row (D42), = 42:2, 43:10.",
+          "from": "glossary"
+        },
+        {
+          "label": "rejeitastes",
+          "forms": {
+            "rep1": "rejeitastes",
+            "rep2": "rejeitastes"
+          },
+          "note": "plainer to the ear, but *rejeitar* is reprobáre's (117:22).",
+          "from": "draft"
+        },
+        {
+          "label": "desamparastes",
+          "forms": {
+            "rep1": "desamparastes",
+            "rep2": "desamparastes"
+          },
+          "note": "MS1932; another verb (leaving, not thrusting away).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "contritiones",
+      "refs": [
+        "59:4"
+      ],
+      "latin": "sana contritiónes ejus",
+      "kind": "word",
+      "why": "*contrítio* is *ruína* in 13:3 (the row, open), and the row itself says 59:4 will want another word: here the plural stands after *sana*, and the earth is healed of what the quake broke in it. The Greek is συντρίμματα, 'breakings, fractures' (the noun of συντρίβω = contérere). *fraturas* keeps the breaking and is what is healed; *brechas* is DRB's 'breaches' (a wall, not a body); *chagas* (MS1932) and *feridas* keep the healing but lose the breaking. 146:3 *álligat contritiónes eórum* (the broken-hearted) should weigh the same choice.",
+      "options": [
+        {
+          "label": "fraturas",
+          "forms": {
+            "contritiones": "fraturas"
+          },
+          "note": "Ruling; συντρίμματα, the thing broken, and a thing that is healed.",
+          "from": "draft"
+        },
+        {
+          "label": "brechas",
+          "forms": {
+            "contritiones": "brechas"
+          },
+          "note": "DRB 'breaches'.",
+          "from": "DRB"
+        },
+        {
+          "label": "chagas",
+          "forms": {
+            "contritiones": "chagas"
+          },
+          "note": "MS1932; the wound, without the breaking.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ruínas",
+          "forms": {
+            "contritiones": "ruínas"
+          },
+          "note": "the row's word (13:3); a ruin is not healed.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "commota",
+      "refs": [
+        "59:4"
+      ],
+      "latin": "quia commóta est",
+      "kind": "grammar",
+      "why": "The colon closes on the verb that opened the verse (*Commovísti … commóta est*), and *abalar* (the *movéri / commovéri* row, 17:8, 45:7) is kept for both, so the echo stands. The perfect passive can be the event ('was shaken', ἐσαλεύθη aorist) or the state ('is shaken', MS1932 *está abalada*). The event is ruled: it points back to *Abalastes*, which is the Latin's repetition; the state stays an option.",
+      "options": [
+        {
+          "label": "foi abalada",
+          "forms": {
+            "commota": "foi abalada"
+          },
+          "note": "Ruling; the event, answering *Abalastes*.",
+          "from": "draft"
+        },
+        {
+          "label": "está abalada",
+          "forms": {
+            "commota": "está abalada"
+          },
+          "note": "MS1932; the state.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "compunctio",
+      "refs": [
+        "59:5"
+      ],
+      "latin": "vino compunctiónis",
+      "kind": "word",
+      "why": "The Latin word is *compúnctio*, the sting (L&S: 'a puncture … the sting of conscience'), which is the noun of 4:5 *compungímini → compungi-vos* (D8). The Greek behind it, κατάνυξις, is stupor, a wine that stuns; DRB 'wine of sorrow', MS1932 *vinho da amargura* — both give a sense, not the word. The Latin's word is kept (rule 1: the Latin as Latin), without the article, as the Latin (*a wine of*). Cost: *compunção* is a churchgoer's word, and the blind reader may not know it.",
+      "options": [
+        {
+          "label": "compunção",
+          "forms": {
+            "compunctio": "compunção"
+          },
+          "note": "Ruling; the Latin's word, the family of 4:5 *compungi-vos*.",
+          "from": "draft"
+        },
+        {
+          "label": "amargura",
+          "forms": {
+            "compunctio": "amargura"
+          },
+          "note": "MS1932 (*o vinho da amargura*).",
+          "from": "MS1932"
+        },
+        {
+          "label": "aturdimento",
+          "forms": {
+            "compunctio": "aturdimento"
+          },
+          "note": "the Greek's sense (κατάνυξις, stupor); not the Latin's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "afacie",
+      "refs": [
+        "59:6"
+      ],
+      "latin": "ut fúgiant a fácie arcus",
+      "kind": "glossary",
+      "why": "*a fácie* (ἀπὸ προσώπου) after a verb of fleeing: the *a fácie* row gives *da face de* for *a fácie terræ* (1:4) and *diante de* where it is a cause (37:4) or a presence (60:4 *a fácie inimíci → diante do inimigo*). *Fugir de diante de* is the Portuguese for fleeing from before someone, keeps both prepositions (*a* + *fácies*), and is MS1932's wording (*de diante do arco*); DRB 'from before the bow'. *da face do arco* keeps the noun but makes a bow with a face. The colon is sung alone in the office of St Emygdius (Sancti/Urbis/08-09, grep). **v2:** the stylist asked *da face do arco* (the d-run of *de diante do*, and the image thinned). Taken: it is the Latin's own noun and the row's *da face de*, so it is nearer the Latin, not further. The bow 'with a face' is the Latin's image too.",
+      "options": [
+        {
+          "label": "da face do",
+          "forms": {
+            "afacie": "da face do"
+          },
+          "note": "Ruling (v2); the stylist's; the row's *da face de* (1:4), keeps *fácies*.",
+          "from": "stylist"
+        },
+        {
+          "label": "de diante do",
+          "forms": {
+            "afacie": "de diante do"
+          },
+          "note": "Draft 1; MS1932, DRB. The stylist: a run of d-sounds that trips, and the face thinned into a preposition.",
+          "from": "MS1932"
+        },
+        {
+          "label": "diante do",
+          "forms": {
+            "afacie": "diante do"
+          },
+          "note": "= 60:4; loses the direction of flight.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "salvumfac",
+      "refs": [
+        "59:7"
+      ],
+      "latin": "salvum fac déxtera tua",
+      "kind": "ambiguity",
+      "why": "The Latin names no object: *salvum* is masculine singular, which points at the speaker (*et exáudi me* follows), but the sentence before speaks of *dilécti tui*, plural. DRB supplies 'me', MS1932 *salva-nos*; each decides. *Salvai com a vossa direita* keeps the Latin's openness and is sayable; the *me* of *escutai-me* then carries over, as in the Latin. *salvum fácere → salvar* (row). 107:7 has the same colon.",
+      "options": [
+        {
+          "label": "salvai",
+          "forms": {
+            "salvumfac": "salvai"
+          },
+          "note": "Ruling; no object, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "salvai-me",
+          "forms": {
+            "salvumfac": "salvai-me"
+          },
+          "note": "DRB 'Save me'; salvum is singular.",
+          "from": "DRB"
+        },
+        {
+          "label": "salvai-nos",
+          "forms": {
+            "salvumfac": "salvai-nos"
+          },
+          "note": "MS1932; follows *os vossos amados*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "insancto",
+      "refs": [
+        "59:8"
+      ],
+      "latin": "in sancto suo",
+      "kind": "glossary",
+      "why": "The row *sancta / sanctum (a place) → o lugar santo* (19:3, 21:4, 23:3) names 59:8 as one of the places where *in sancto* 'is not always a place'. The Latin *sancto* can be the holy place or the holy one; the Greek ἐν τῷ ἁγίῳ αὐτοῦ is the same neuter; the Hebrew's 'by his holiness' is not the Latin's. DRB 'in his holy place' and MS1932 *no seu santuário* both read a place. The row's wording is kept; *santuário* is kept for sanctuárium (72:17 …). **v2:** the Latinist (minor) and the stylist both marked *lugar* as supplied: it settles *in sancto suo* as a place, where the Latin's bare neuter can be the place, the holiness, or (as the Fathers read it) the holy one. The Latinist's *santuário* is still a place and takes sanctuárium's word; the stylist's *no seu santo* is the Latin word for word and keeps all three readings. Taken. Cost: *no seu santo* is heard by some first as 'in his saint'; that is one of the Latin's readings. The row stands for the places where *in sancto* is plainly a place (19:3, 21:4).",
+      "options": [
+        {
+          "label": "no seu santo",
+          "forms": {
+            "insancto": "no seu santo"
+          },
+          "note": "Ruling (v2); the stylist's; the Latin's bare adjective, open between the holy place and the holy one.",
+          "from": "stylist"
+        },
+        {
+          "label": "no seu lugar santo",
+          "forms": {
+            "insancto": "no seu lugar santo"
+          },
+          "note": "Draft 1; the row (19:3, 21:4, 23:3). The Latinist and the stylist both found *lugar* settles what the Latin leaves open.",
+          "from": "glossary"
+        },
+        {
+          "label": "no seu santuário",
+          "forms": {
+            "insancto": "no seu santuário"
+          },
+          "note": "MS1932; the Latinist's fix (minor). Still a place, and *santuário* is sanctuárium's (72:17 …).",
+          "from": "MS1932"
+        },
+        {
+          "label": "na sua santidade",
+          "forms": {
+            "insancto": "na sua santidade"
+          },
+          "note": "the Hebrew's sense; not the Latin's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "convallem",
+      "refs": [
+        "59:8"
+      ],
+      "latin": "convállem tabernaculórum",
+      "kind": "word",
+      "why": "The Hebrew has a place name (Succoth); the Latin, following the Greek (τὴν κοιλάδα τῶν σκηνῶν), translates it: 'the vale of tents'. *tabernáculum → tenda* (row), so *o vale das tendas*. MS1932 capitalises *o vale dos Tabernáculos* as a name, which the Latin text does not do.",
+      "options": [
+        {
+          "label": "o vale das tendas",
+          "forms": {
+            "convallem": "o vale das tendas"
+          },
+          "note": "Ruling; the *tabernáculum* row.",
+          "from": "glossary"
+        },
+        {
+          "label": "o vale dos tabernáculos",
+          "forms": {
+            "convallem": "o vale dos tabernáculos"
+          },
+          "note": "MS1932 (as a name); the row's option.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "copula",
+      "refs": [
+        "59:9b"
+      ],
+      "latin": "Juda rex meus: * Moab olla spei meæ.",
+      "kind": "grammar",
+      "why": "The Latin is verbless, carrying *est* over from 59:9 (*Meus est … meus est … et Éphraim fortitúdo*). Portuguese needs the copula to be heard as a sentence rather than a list, and D2 lets it be supplied; it is also supplied in 59:9's second colon (*e Efraim é a força*), where the Latin already lacks it. DRB and MS1932 supply it. The verbless build is the option.",
+      "options": [
+        {
+          "label": "Judá é o meu rei / Moab é",
+          "forms": {
+            "juda": "Judá é o meu rei",
+            "moab": "Moab é"
+          },
+          "note": "Ruling; copula supplied (D2), DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "Judá, o meu rei / Moab,",
+          "forms": {
+            "juda": "Judá, o meu rei",
+            "moab": "Moab,"
+          },
+          "note": "verbless, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "olla",
+      "refs": [
+        "59:9b"
+      ],
+      "latin": "olla spei meæ",
+      "kind": "word",
+      "why": "*olla* is a cooking pot (L&S; the Greek λέβης, a cauldron); the image is Moab as a menial vessel, and rule 5 keeps it concrete. *panela* is the plain word for it. MS1932 softens it (*como que o vaso*), and *vaso* is heard in Brazil as a flowerpot or worse. The twin 107:10 has another Latin word, *lebes*, for the same Greek; by D15's test it may take the same Portuguese, or *caldeirão* if Ps 107 wants to show the Latin's variation — proposed in the glossary as open.",
+      "options": [
+        {
+          "label": "panela",
+          "forms": {
+            "olla": "panela"
+          },
+          "note": "Ruling; the plain word for *olla*.",
+          "from": "draft"
+        },
+        {
+          "label": "caldeira",
+          "forms": {
+            "olla": "caldeira"
+          },
+          "note": "the Greek's cauldron; older.",
+          "from": "draft"
+        },
+        {
+          "label": "vaso",
+          "forms": {
+            "olla": "vaso"
+          },
+          "note": "MS1932; heard as a flowerpot.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inidumaeam",
+      "refs": [
+        "59:10"
+      ],
+      "latin": "In Idumǽam exténdam",
+      "kind": "word",
+      "why": "*in* + accusative after a verb of stretching: over or into Edom (ἐπὶ τὴν Ιδουμαίαν). MS1932 *sobre a Idumeia*; DRB 'Into Edom'. *Sobre* keeps the gesture of possession the image makes (the shoe thrown or set over a land); *até a Idumeia* is 59:11's *usque in*, which the Latin keeps apart.",
+      "options": [
+        {
+          "label": "Sobre a Idumeia",
+          "forms": {
+            "inidumaeam": "Sobre a Idumeia"
+          },
+          "note": "Ruling; MS1932, ἐπί.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Para a Idumeia",
+          "forms": {
+            "inidumaeam": "Para a Idumeia"
+          },
+          "note": "the direction of *in* + accusative.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "calceamentum",
+      "refs": [
+        "59:10"
+      ],
+      "latin": "calceaméntum meum",
+      "kind": "word",
+      "why": "L&S: 'a covering for the foot, a shoe'. *calçado* is the generic word, as *calceaméntum* is, and is MS1932's; *sandália* names a kind the Latin does not name, though it is what the ear pictures in the Bible.",
+      "options": [
+        {
+          "label": "calçado",
+          "forms": {
+            "calceamentum": "calçado"
+          },
+          "note": "Ruling; MS1932, the generic word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sandália",
+          "forms": {
+            "calceamentum": "sandália"
+          },
+          "note": "concrete, but a kind the Latin does not name.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "subditi",
+      "refs": [
+        "59:10"
+      ],
+      "latin": "mihi alienígenæ súbditi sunt",
+      "kind": "grammar",
+      "why": "The perfect passive states what is so (DRB 'are made subject'); ὑπετάγησαν. *ser sujeito a* is the row for *súbditus esse* (36:6), in the family of *sujeitar* (46:4). *a mim* stays first, as the Latin's *mihi*. *alienígenæ* (ἀλλόφυλοι) → *estrangeiros*, kept apart from *aliénus → estranho* (17:46); proposed in the glossary. 107:10 differs here (*amíci facti sunt*).",
+      "options": [
+        {
+          "label": "estão sujeitos",
+          "forms": {
+            "subditi": "estão sujeitos"
+          },
+          "note": "Ruling; the state.",
+          "from": "draft"
+        },
+        {
+          "label": "foram sujeitos",
+          "forms": {
+            "subditi": "foram sujeitos"
+          },
+          "note": "the event; DRB 'are made'.",
+          "from": "DRB"
+        },
+        {
+          "label": "se sujeitaram",
+          "forms": {
+            "subditi": "se sujeitaram"
+          },
+          "note": "active reflexive; the Latin is passive.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deducet",
+      "refs": [
+        "59:11"
+      ],
+      "latin": "Quis dedúcet me … quis dedúcet me",
+      "kind": "glossary",
+      "why": "*dedúcere, deduc me → guiar* is settled (D22; 5:9, 60:4 *Vós me guiastes*). Here the Greek varies (ἀπάξει … ὁδηγήσει) and the Latin repeats one verb; the repetition is kept. *conduzir* (MS1932) is natural for leading into a city and the future is outside the homograph ban, but it would break D22 in a verse where the Latin's verb is the row's own.",
+      "options": [
+        {
+          "label": "guiará",
+          "forms": {
+            "ded1": "guiará",
+            "ded2": "guiará"
+          },
+          "note": "Ruling; D22.",
+          "from": "glossary"
+        },
+        {
+          "label": "conduzirá",
+          "forms": {
+            "ded1": "conduzirá",
+            "ded2": "conduzirá"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nonne",
+      "refs": [
+        "59:12"
+      ],
+      "latin": "Nonne tu, Deus, qui repulísti nos?",
+      "kind": "grammar",
+      "why": "A verbless question answering 59:11's *Quis dedúcet me?*: 'Is it not you, God, who cast us off?' The copula must be supplied; the future *sereis* takes it from *dedúcet* (who will lead? — will it not be you), and keeps the Latin's paradox that the one who rejected is the one who leads. *Não sois vós* reads as a reproach only. MS1932 *Quem, senão tu* turns the question round and explains it. DRB 'Wilt not thou, O God'.",
+      "options": [
+        {
+          "label": "Não sereis vós",
+          "forms": {
+            "nonne": "Não sereis vós"
+          },
+          "note": "Ruling; copula from 59:11's future.",
+          "from": "draft"
+        },
+        {
+          "label": "Não sois vós",
+          "forms": {
+            "nonne": "Não sois vós"
+          },
+          "note": "present copula.",
+          "from": "draft"
+        },
+        {
+          "label": "Quem, senão vós",
+          "forms": {
+            "nonne": "Quem, senão vós"
+          },
+          "note": "MS1932; explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "detrib",
+      "refs": [
+        "59:13"
+      ],
+      "latin": "auxílium de tribulatióne",
+      "kind": "word",
+      "why": "*de* here is 'out of' (ἐκ θλίψεως; DRB 'help from trouble'). *auxílio da tribulação* is heard as help that comes from the trouble. The *tribulátio* row has 31:7 *a tribulatióne → contra a tribulação*, which says help against it; MS1932 *na tribulação* moves the help into the trouble. Ruled for the row's precedent. The colon is a Matins antiphon (*Da nobis * Dómine auxílium de tribulatióne*, Psalmi matutinum, grep) and a versicle of a local office (08-SanteDultim). **v2:** the Latinist (minor) found *contra* leans towards the Hebrew's 'help against the foe'. *de* is 'out of'; no Portuguese preposition says 'help out of trouble' without a verb, and *na tribulação* (MS1932) is the plainest that adds nothing. Taken. It is also what the Matins antiphon will sing (*Dai-nos * Senhor auxílio na tribulação*). **Gate (v2):** the second Latinist run asked for *contra* back; the two runs contradict each other, so *na* is held and the choice flagged for Gustavo.",
+      "options": [
+        {
+          "label": "na tribulação",
+          "forms": {
+            "detrib": "na tribulação"
+          },
+          "note": "Ruling (v2); the Latinist's fix; MS1932.",
+          "from": "latinist"
+        },
+        {
+          "label": "contra a tribulação",
+          "forms": {
+            "detrib": "contra a tribulação"
+          },
+          "note": "Draft 1; 31:7's build. The Latinist: *contra* leans to the Hebrew ('help against the foe'), not the Latin *de*.",
+          "from": "glossary"
+        },
+        {
+          "label": "para sair da tribulação",
+          "forms": {
+            "detrib": "para sair da tribulação"
+          },
+          "note": "the sense of *de* spelled out; adds a verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "facvirt",
+      "refs": [
+        "59:14"
+      ],
+      "latin": "In Deo faciémus virtútem",
+      "kind": "glossary",
+      "why": "The row *fácere virtútem → agir com poder* was written for this verse (117:16 *A direita do Senhor agiu com poder*; Ps 117's note: 'serves 59:14 too'). The singular *virtus* keeps *poder*, while 59:12's plural *virtútes nostræ* is *forças* (D43) — the cost the D43 ruling already accepted. MS1932 *faremos proezas* is the row's option.",
+      "options": [
+        {
+          "label": "agiremos com poder",
+          "forms": {
+            "facvirt": "agiremos com poder"
+          },
+          "note": "Ruling; the row, = 117:16.",
+          "from": "glossary"
+        },
+        {
+          "label": "faremos proezas",
+          "forms": {
+            "facvirt": "faremos proezas"
+          },
+          "note": "MS1932; keeps *fazer*.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "59:3": "*irásci → irar-se*, *miseréri → ter piedade de* (rows). The Latin's two perfects, anger and mercy, are kept as the past (the Hebrew's imperative 'restore us' is not the Latin's). *et … et* kept as *e*; MS1932's *porém* interprets. Bare vocative *Deus*, as in the finished psalms; the pronoun *vós* supplied at the head (D2), as 60:4 *Vós me guiastes*. **v2:** *irastes-vos* (the stylist): enclisis gives the second colon a stressed start and clears the *vós / vos / nos* blur.",
+    "59:4": "*commovére → abalar* (17:8, 45:7), *conturbáre → perturbar* (row), *sanáre → curar* (row; the row names 59:4).",
+    "59:5": "*dura* (neuter plural) → *coisas duras* (DRB, MS1932). *potáre* → *dar a beber*.",
+    "59:6": "*metuéntes te* → *os que vos temem*: the same Greek (φοβούμενοι) as *timéntes te* (118:63 row). The verse ends on a colon because it runs on into 59:7 (*ut … ut*), and the Portuguese repeats *para que … Para que* as the Latin repeats *ut*.",
+    "59:7": "*liberáre → livrar* (row), passive *sejam livrados*. *dilécti tui → os vossos amados* (the *diléctus* row). *déxtera → a direita* (row). *exaudíre → escutar* (D3). 107:6b–7a has the same words and should copy them.",
+    "59:8": "*lætábor → eu me alegrarei*: the pronoun supplied (D2) so the colon does not open on a clitic and so that the oracle is heard to begin. *partíri → repartir* (= 21:18 *repartiram*, where the Latin is divídere; 107:8 *dívidam* is the same Greek, διαμεριῶ, and can copy it). *metíri → medir*. The Latin's second colon has an inner colon (*Síchimam:*), kept.",
+    "59:9": "*fortitúdo → força* (row). Names in their Vulgate-family Portuguese forms, as MS1932 prints them (Galaad, Manassés, Efraim, Judá, Moab, Idumeia, Siquém), not the Hebrew-based ones (Gileade). 107:9 differs here (*suscéptio*).",
+    "59:11": "*cívitas muníta → cidade fortificada* (row; the row names 59:11). *usque in → até*.",
+    "59:12": "The second colon is 43:10's word for word (*e não saireis, Deus, com as nossas forças*, D43), with the Latin's question mark; *virtútes nostræ → forças* (D43 names 59:12b). The ambiguity reader heard *Não sereis vós … que nos repelistes?* as a reproach first, the link to 59:11 not obvious; the Latin is as bare. *Quem, senão vós* (MS1932) stays the option in `nonne`.",
+    "59:13": "*quia vana salus hóminis → porque é vã a salvação do homem*: *salus → salvação* (D6); the copula supplied. The ambiguity reader heard *é vã a salvação do homem* possibly as 'man's salvation is in vain'; the genitive is as open in the Latin (*salus hóminis*) and in DRB — kept.",
+    "59:14": "*ad níhilum dedúcere → reduzir a nada* (row; names 59:14). *tribulántes nos → os que nos atribulam* (row; unknown to several blind readers, kept for the family of *tribulação* — and *tribulátio* stands in 59:13 just before). *ipse → ele mesmo* (MS1932), the emphasis kept.",
+    "59:9b": "*panela*: the stylist kept it for the image ('a cantor will feel it'); the ambiguity reader noted the slang *panela* = a clique, and that the contempt is not grasped. Kept: the Latin's image, concrete (rule 5)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (no Diurnal text for this psalm in the parallels file). Doublet (rule 6): 59:7–14 = 107:6b–14, and Ps 107 is not yet translated, so nothing to copy from it; Ps 56 overlaps 107:2–6 only, not this psalm. 59:12b copies 43:10b (D43). Liturgical uses found by grep in content/do/horas/Latin: the Matins antiphon *Da nobis * Dómine auxílium de tribulatióne* (Psalmi matutinum), versicles from 59:13 in a local office of Our Lady (aliquibus locis/08-SanteDultim), 59:6 in the office of St Emygdius (Urbis/08-09). Hard readings: 59:4 *contritiónes* (the row's *ruína* does not fit), 59:5 *vino compunctiónis* (the Latin's word against the Greek's stupor), 59:7 *salvum fac* with no object, 59:9b *olla*, 59:12 the verbless *Nonne tu*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 59:3b +3 (elisions *piedade‿de*, not counted), 59:6a −5 (the Latin's long *significatiónem*), 59:7a +4 (*livrados*; *livres* would save one and blur the passive), 59:9b +6 (the copula and articles Portuguese needs against an 8-syllable verbless Latin; the verbless option is in `copula`), 59:12b −5 (43:10b's words, rule 6), 59:14b +4 (*ele mesmo* keeps *ipse*; elisions *reduzirá‿a*, *nada‿os*). All accepted. No cadence rhyme flagged."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "2 minor, no major. Both taken (59:13 as proposed; 59:8 by the stylist's wording, which answers the same point more closely than his *santuário*).",
+      "outcomes": [
+        {
+          "verse": "59:8",
+          "remark": "lugar resolves in sancto suo; santuário",
+          "outcome": "taken",
+          "decision": "insancto",
+          "reason": "the point taken with the stylist's *no seu santo*; *santuário* is still a place and is sanctuárium's word — kept as an option."
+        },
+        {
+          "verse": "59:13",
+          "remark": "contra is not de; na tribulação",
+          "outcome": "taken",
+          "decision": "detrib"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "3 remarks; worst line 59:3, best 59:11. All 3 taken — each is order, or a return to the Latin's own word.",
+      "outcomes": [
+        {
+          "verse": "59:3",
+          "remark": "proclitic vos at the colon's head blurs vós/vos/nos; irastes-vos",
+          "outcome": "taken"
+        },
+        {
+          "verse": "59:6",
+          "remark": "de diante do trips and thins a fácie; da face do arco",
+          "outcome": "taken",
+          "decision": "afacie"
+        },
+        {
+          "verse": "59:8",
+          "remark": "lugar supplied, settles in sancto suo; no seu santo",
+          "outcome": "taken",
+          "decision": "insancto"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "25 readings listed, most the Latin's own (the speaker of 59:8–11, the helmet of *fortitúdo cápitis*, *forças* as troops or strength). Unknown words: repelistes (the second psalm to report it, after Ps 42), compunção, atribulam (again), and the place names. Nothing changed on its account; the heard risks are recorded in choices.",
+      "outcomes": [
+        {
+          "verse": "59:3",
+          "remark": "repelistes unknown",
+          "outcome": "refused",
+          "decision": "repulisti",
+          "reason": "settled row (D42); reported to the glossary as the second failure."
+        },
+        {
+          "verse": "59:5",
+          "remark": "compunção unknown; remorse vs stupor",
+          "outcome": "refused",
+          "decision": "compunctio",
+          "reason": "the Latin's word; *amargura* and *aturdimento* are options."
+        },
+        {
+          "verse": "59:9b",
+          "remark": "panela heard as a clique; contempt not grasped",
+          "outcome": "refused",
+          "reason": "the Latin's concrete image (rule 5)."
+        },
+        {
+          "verse": "59:12",
+          "remark": "heard as reproach; link to 59:11 not obvious",
+          "outcome": "option",
+          "decision": "nonne",
+          "reason": "the Latin is as bare; *Quem, senão vós* is the option."
+        },
+        {
+          "verse": "59:13",
+          "remark": "é vã a salvação do homem as man's salvation in vain",
+          "outcome": "refused",
+          "reason": "the genitive is as open in the Latin and DRB."
+        },
+        {
+          "verse": "59:14",
+          "remark": "atribulam unknown",
+          "outcome": "refused",
+          "reason": "the tribuláre row, family of *tribulação* (59:13)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 59:3 *irastes-vos*; 59:6 *da face do arco*; 59:8 *no seu santo*; 59:13 *na tribulação*. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass. New soft flags: 59:8a −4 (*no seu santo*, the Latin word for word) and 59:13a −4 (*na tribulação*); accepted — both colons are the Latin's members with nothing dropped. The v1 flags stand as accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "Gate: 1 minor, no major. 59:13 held: the v2 run asks back the *contra a tribulação* that the v1 run marked as leaning to the Hebrew — the two runs contradict each other on the same words, and neither Portuguese preposition says 'out of' without a verb. *na tribulação* (MS1932, the v1 fix) stands; *contra* is option 2 of `detrib`, for Gustavo's ear. The run passed *no seu santo*, *da face do arco*, *irastes-vos*, and the supplied *sereis* in 59:12.",
+      "outcomes": [
+        {
+          "verse": "59:13",
+          "remark": "na shifts de from deliverance to circumstance; contra a tribulação",
+          "outcome": "option",
+          "decision": "detrib",
+          "reason": "contradicts the v1 run on the same words; na (MS1932) held, contra kept one touch away."
+        }
+      ]
+    }
+  ]
+}

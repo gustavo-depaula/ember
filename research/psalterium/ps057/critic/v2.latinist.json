@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "2d511a640f0c580f98d4d154efff11d50627335d7fa08805269df92f2c2fe5b9",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T22:45:05+00:00",
+  "reply": "{\"verses\": [{\"id\": \"57:4\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"locúti sunt falsa\", \"portuguese\": \"falaram mentiras\", \"problem\": \"'falsa' is 'false things', a neuter plural adjective; 'mentiras' narrows it to deliberate lies.\", \"fix\": \"falaram falsidades\"}]}, {\"id\": \"57:8\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"tamquam aqua decúrrens\", \"portuguese\": \"como a água que corre\", \"problem\": \"'decurrens' is water running down or away, which is the point of the image; 'corre' loses the downward, draining sense.\", \"fix\": \"como a água que escorre\"}]}, {\"id\": \"57:9\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"supercécidit ignis\", \"portuguese\": \"caiu fogo sobre eles\", \"problem\": \"The Latin has no object: 'super-' gives 'fell from above' or 'fell upon', but 'eles' is supplied, and it settles who is struck, which the Latin leaves open.\", \"fix\": \"caiu fogo de cima\"}]}], \"overall\": \"A faithful, close rendering that keeps the Latin's hard readings, especially the literal 'vossos espinhos entendessem o espinheiro' in 57:10, and does not smooth them toward the Hebrew. Only three small points of closeness remain; none adds or drops content. Every verse has a single mediant '*' in the same place as the Latin.\"}\n"
+}

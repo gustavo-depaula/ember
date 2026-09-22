@@ -1,0 +1,32 @@
+{
+  "append": [
+    {"row": "| erípere |", "text": "**Ps 63:2 *a timóre inimíci éripe ánimam meam* → *arrancai a minha alma do temor do inimigo*** — a source named, so *arrancar*; no reader remarked (*libertai* the option)."},
+    {"row": "| malígnus / malignántes |", "text": "Ps 63:3 *a convéntu malignántium* → *do ajuntamento dos malvados* — applied; no remark."},
+    {"row": "| téndere / inténdere arcum |", "text": "**Ps 63:4 copies 10:3: *armaram o arco, coisa amarga, para flecharem*** — passed the Latinist twice."},
+    {"row": "| sagittáre |", "text": "Ps 63:4 *ut sagíttent* → *para flecharem*, 63:6 *sagittábunt eum* → *o flecharão* — passed all readers; *assetear* kept as the option."},
+    {"row": "| in ábditis / in occúltis (ἐν ἀποκρύφοις) |", "text": "**Ps 63:4 departs: *ut sagíttent in occúltis* → *para flecharem às ocultas*** — with a verb of shooting, *em lugares ocultos* is heard as the victim hidden; the adverbial phrase keeps the root and says how they shoot. *em lugares ocultos* the option."},
+    {"row": "| immaculátus |", "text": "Ps 63:4 *immaculátum* (a person) → *o imaculado*; the ambiguity reader heard the blameless man, a Marian echo possible, and listed the word as unknown in this sense; kept (*o inocente*, MS1932, is *ínnocens*'s)."},
+    {"row": "| scrutári |", "text": "**Ps 63:7 *Scrutáti sunt iniquitátes: defecérunt scrutántes scrutínio* → *Sondaram iniquidades: desfaleceram os que sondavam, no sondar*** — the root three times, as the Latin; the stylist named the verse the psalm's best. The ambiguity reader listed *sondar* as unknown in the sense 'devise'."},
+    {"row": "| láqueus |", "text": "Ps 63:6b *abscónderent láqueos* → *esconderiam laços*; the ambiguity reader heard ties before traps (as 10:7); kept."},
+    {"row": "| laudári (the soul *in Dómino*) |", "text": "**Ps 63:11 *et laudabúntur omnes recti corde* → *e serão louvados todos os retos de coração*** — the passive held (MS1932 agrees here); heard as 'praised by others'; passed the Latinist twice."},
+    {"row": "| rectus corde |", "text": "Ps 63:11 — applied (the martyrs' versicle)."},
+    {"row": "| párvuli |", "text": "Ps 63:8 *Sagíttæ parvulórum* → *setas de pequeninos*; heard as children."},
+    {"row": "| multitúdo (+ genitive) |", "text": "Ps 63:3 *a multitúdine operántium iniquitátem* → *da multidão dos que praticam a iniquidade*."},
+    {"row": "| exaltáre |", "text": "Ps 63:7b *et exaltábitur Deus* → *e Deus será exaltado* (the future passive)."},
+    {"row": "| flagéllum |", "text": "**Ps 63:8 *plagæ eórum* (πληγαί, a wound; D39 left it local) → *as feridas deles*** — *golpes* the option."}
+  ],
+  "terms": [
+    "| convéntus | ajuntamento (*do ajuntamento dos malvados*) | open | Ps 63:3 only (grep: the Paschaltide martyrs' Introit too); συστροφή. The root and word of 15:4b *conventículum*; keeps apart *concílium malignántium → congregação* (21:17) and *ecclésia malignántium → assembleia* (25:5). Unknown to the ambiguity reader; kept. Options *conluio*, *conspiração* (MS1932, explains), *reunião*. |",
+    "| nequam | má (*uma palavra má*) | open | Ps 63:6 *sermónem nequam* (λόγον πονηρόν). The stylist asked *perversa* for a fuller close — refused, *pervérsus*'s word (17:27); *vil* (L&S's first sense) the option. |",
+    "| súbito | de repente | open | Ps 63:6; 72:19 *súbito defecérunt* should follow. *de súbito* (MS1932) the option. |",
+    "| accédere | aproximar-se de (*O homem se aproximará de um coração profundo*) | open | Ps 63:7b, the Latinist's fix (approach, not arrival), = 33:6 *Accédite ad eum → Aproximai-vos dele*; but 90:10 *Non accédet ad te malum → O mal não chegará a ti* has *chegar*. Shares *aproximar-se* with *appropinquáre* (they never meet in one verse by the three places seen). |",
+    "| altus (*cor altum*) | profundo (*um coração profundo*) | open | Ps 63:7b (καρδία βαθεῖα; DRB 'deep'). *Alto* would keep the echo with *exaltábitur* but a 'high heart' is a proud one in Portuguese. The ambiguity reader found the line obscure, as the Latin is. |",
+    "| *res amára* | coisa amarga (apposition, between commas) | open | Ps 63:4 *intendérunt arcum rem amáram* (πρᾶγμα πικρόν); what is bitter is left open. MS1932 *arco envenenado* refused. |",
+    "| *narráre ut* + subjunctive | narrar que (*Narraram que esconderiam laços*) | open | Ps 63:6b (διηγήσαντο τοῦ κρύψαι). The two Latinist runs contradicted each other (*como* → *que*, then *que* → *como*); held at *que* (DRB 'talked of hiding'); *como* the option. For Gustavo. |"
+  ],
+  "formulas": [
+    "| *Exáudi, Deus, oratiónem meam cum déprecor: a timóre inimíci éripe ánimam meam* (63:2; Introit of 04-25, Commune C2a-1, C2p — grep) | *Escutai, Deus, a minha oração quando suplico: * arrancai a minha alma do temor do inimigo* | open — Ps 63 |",
+    "| *Protexísti me, Deus, a convéntu malignántium, allelúja: a multitúdine operántium iniquitátem* (63:3 with *Deus*; the Paschaltide martyrs, Commune C2p, Quad6-5 lesson — grep) | *Vós me protegestes, Deus, do ajuntamento dos malvados: * da multidão dos que praticam a iniquidade* | open — Ps 63 (the psalm has no *Deus*; the proper adds it) |",
+    "| *Lætábitur justus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde* (63:11; versicle and responsory of the martyrs, Commune C2, C2p, C2a-1, CommuneM — grep) | *O justo se alegrará no Senhor, e esperará nele, * e serão louvados todos os retos de coração* | open — Ps 63; each half reads alone (V / R) |"
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "psalm": 63,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "63:2": "Escutai, Deus, a minha oração quando suplico: * {eripe} a minha alma do temor do inimigo.",
+    "63:3": "Protegestes-me do {conventu} dos malvados: * da multidão dos que praticam a iniquidade.",
+    "63:4": "Porque afiaram as suas línguas como uma espada: * armaram o arco, {remamaram}, para {sagittent} {occultis} {immaculatum}.",
+    "63:6": "{subito} o {sagittabunt}, e não temerão: * firmaram {sibi} uma palavra {nequam}.",
+    "63:6b": "{narraverunt} laços: * disseram: Quem os verá?",
+    "63:7": "{scrutPf} iniquidades: * desfaleceram {scrutPart}, {scrutinio}.",
+    "63:7b": "O homem {accedet} um coração {altum}: * e Deus será exaltado.",
+    "63:8": "{plagaeLine}: * e as suas línguas se enfraqueceram contra eles.",
+    "63:9": "Perturbaram-se todos os que os viam: * e todo homem temeu.",
+    "63:10": "E anunciaram as obras de Deus, * e entenderam os seus feitos.",
+    "63:11": "O justo se alegrará no Senhor, e esperará nele, * e {laudabuntur} todos os retos de coração."
+  },
+  "decisions": [
+    {
+      "id": "eripe",
+      "refs": [
+        "63:2"
+      ],
+      "latin": "a timóre inimíci éripe ánimam meam",
+      "kind": "glossary",
+      "why": "The *erípere* row: *arrancar* where a source is named, *libertar* where none is. Here the source is named (*a timóre inimíci*), so *arrancai*, as 16:13 *arrancai a minha alma do ímpio* and 56:4b. Tearing a soul out of fear is a stronger image than the Portuguese ear expects, but the Latin's verb is the snatching one (ἐξελοῦ), and *livrar* belongs to *liberáre*. The natural order puts the soul before the source (the Latin puts the source first); both orders are Portuguese, and this one ends the verse on *inimigo*, a paroxytone.",
+      "options": [
+        {
+          "label": "arrancai",
+          "forms": {
+            "eripe": "arrancai"
+          },
+          "note": "draft — the glossary row (source named)",
+          "from": "glossary"
+        },
+        {
+          "label": "libertai",
+          "forms": {
+            "eripe": "libertai"
+          },
+          "note": "the row's other verb, the one that 'never fails'; 6:5 has it with no source",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "conventu",
+      "refs": [
+        "63:3"
+      ],
+      "latin": "a convéntu malignántium",
+      "kind": "word",
+      "why": "*Convéntus* is a gathering, a meeting (L&S); the Greek is συστροφή, a knot of men banded together. The psalter already spends *congregação* on *concílium malignántium* (21:17, D34), *assembleia* on *ecclésiam malignántium* (25:5, D34) and *ajuntamento* on *conventículum* (15:4b, the same Latin root). *Ajuntamento* keeps the three phrases apart and says a crowd drawn together, which is what the Latin says; it does not say plot. MS1932's *conspiração* and DM1962's *conspiração* (from the Hebrew *sod*) say the scheming the Greek hints at, but that is to explain. *Malignántes → malvados* (D24).",
+      "options": [
+        {
+          "label": "ajuntamento",
+          "forms": {
+            "conventu": "ajuntamento"
+          },
+          "note": "draft — the root of 15:4b *conventículum*; kept apart from *congregação* and *assembleia*",
+          "from": "draft"
+        },
+        {
+          "label": "conluio",
+          "forms": {
+            "conventu": "conluio"
+          },
+          "note": "says the band-together of συστροφή; interprets the Latin's plain 'meeting'"
+        },
+        {
+          "label": "conspiração",
+          "forms": {
+            "conventu": "conspiração"
+          },
+          "note": "MS1932 — explains",
+          "from": "MS1932"
+        },
+        {
+          "label": "reunião",
+          "forms": {
+            "conventu": "reunião"
+          },
+          "note": "the plainest; heard as a business meeting"
+        }
+      ]
+    },
+    {
+      "id": "remamaram",
+      "refs": [
+        "63:4"
+      ],
+      "latin": "intendérunt arcum rem amáram",
+      "kind": "ambiguity",
+      "why": "*Rem amáram* stands in apposition, with no link (LXX πρᾶγμα πικρόν; DRB 'a bitter thing'): either the drawn bow, or the whole deed, is called a bitter thing. The Hebrew has the bitter *word* as their arrow — not the Latin. Between commas the Portuguese keeps the Latin's loose apposition and leaves open what is bitter. MS1932's *o arco envenenado* turns the phrase into an adjective of the bow and adds poison; refused as paraphrase.",
+      "options": [
+        {
+          "label": "coisa amarga",
+          "forms": {
+            "remamaram": "coisa amarga"
+          },
+          "note": "draft — DRB 'a bitter thing'",
+          "from": "draft"
+        },
+        {
+          "label": "uma coisa amarga",
+          "forms": {
+            "remamaram": "uma coisa amarga"
+          },
+          "note": "the article supplied; one syllable more"
+        },
+        {
+          "label": "obra amarga",
+          "forms": {
+            "remamaram": "obra amarga"
+          },
+          "note": "reads *res* as the deed; narrows"
+        }
+      ]
+    },
+    {
+      "id": "sagittare",
+      "refs": [
+        "63:4",
+        "63:6"
+      ],
+      "latin": "ut sagíttent … sagittábunt eum",
+      "kind": "glossary",
+      "why": "*Sagittáre → flechar* (row, open; Ps 10:3). The formula row *intendérunt arcum … ut sagíttent* says Ps 63 copies 10:3's *armaram o arco … para flecharem*; done. *Assetear* would echo *setas* (63:8 *sagíttæ*) but is hardly said in Brazil.",
+      "options": [
+        {
+          "label": "flecharem / flecharão",
+          "forms": {
+            "sagittent": "flecharem",
+            "sagittabunt": "flecharão"
+          },
+          "note": "draft — = 10:3",
+          "from": "glossary"
+        },
+        {
+          "label": "assetearem / assetearão",
+          "forms": {
+            "sagittent": "assetearem",
+            "sagittabunt": "assetearão"
+          },
+          "note": "MS1932's verb; keeps the root of *setas* in 63:8",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "occultis",
+      "refs": [
+        "63:4"
+      ],
+      "latin": "in occúltis",
+      "kind": "glossary",
+      "why": "The row *in ábditis / in occúltis* (open) gives *em lugares ocultos* (9:29, 16:12; ἐν ἀποκρύφοις, as here). There the phrase says where someone sits or dwells; here it goes with a verb of shooting, and *flecharem em lugares ocultos o imaculado* is heard as the victim hidden, not the archers. *Às ocultas* keeps the root and the hiding and says how they shoot; it is four syllables shorter on a colon already long. Departure from the row recorded; *às escondidas* is 9:30a's *in abscóndito*.",
+      "options": [
+        {
+          "label": "às ocultas",
+          "forms": {
+            "occultis": "às ocultas"
+          },
+          "note": "draft — the adverbial phrase; the root kept",
+          "from": "draft"
+        },
+        {
+          "label": "em lugares ocultos",
+          "forms": {
+            "occultis": "em lugares ocultos"
+          },
+          "note": "the row's wording (9:29, 16:12)",
+          "from": "glossary"
+        },
+        {
+          "label": "de emboscada",
+          "forms": {
+            "occultis": "de emboscada"
+          },
+          "note": "MS1932 — explains the hiding as an ambush",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "immaculatum",
+      "refs": [
+        "63:4"
+      ],
+      "latin": "immaculátum",
+      "kind": "glossary",
+      "why": "*Immaculátus → imaculado* (row; 17:24, 18:8, 118:1), ἄμωμον. A blind reader once listed the word as unknown; others passed it. The masculine article keeps it from being heard as the Immaculate. MS1932 and DM1962 have *o inocente*, which is *ínnocens*'s word (9:29 *interfíciat innocéntem*).",
+      "options": [
+        {
+          "label": "o imaculado",
+          "forms": {
+            "immaculatum": "o imaculado"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "o inocente",
+          "forms": {
+            "immaculatum": "o inocente"
+          },
+          "note": "MS1932; merges with *ínnocens*",
+          "from": "MS1932"
+        },
+        {
+          "label": "o que é sem mancha",
+          "forms": {
+            "immaculatum": "o que é sem mancha"
+          },
+          "note": "the row's option, as a clause"
+        }
+      ]
+    },
+    {
+      "id": "subito",
+      "refs": [
+        "63:6"
+      ],
+      "latin": "Súbito",
+      "kind": "word",
+      "why": "The plainer of two faithful words (D2). *De súbito* (MS1932) is correct and known, but bookish in speech; *de repente* is how Brazil says it. First place in the psalter; 72:19 *súbito defecérunt* will follow.",
+      "options": [
+        {
+          "label": "De repente",
+          "forms": {
+            "subito": "De repente"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "De súbito",
+          "forms": {
+            "subito": "De súbito"
+          },
+          "note": "MS1932; the cognate",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sibi",
+      "refs": [
+        "63:6"
+      ],
+      "latin": "firmavérunt sibi sermónem",
+      "kind": "ambiguity",
+      "why": "*Sibi* is a reflexive dative (ἑαυτοῖς): for themselves, or among themselves. *Para si* keeps the Latin's word; *entre si* says the agreement among plotters that the next verse (*narravérunt … dixérunt*) implies, and is more natural with *firmar* — but it decides for the reciprocal. *Sermo → palavra* (D15).",
+      "options": [
+        {
+          "label": "para si",
+          "forms": {
+            "sibi": "para si"
+          },
+          "note": "draft — the dative as it stands",
+          "from": "draft"
+        },
+        {
+          "label": "entre si",
+          "forms": {
+            "sibi": "entre si"
+          },
+          "note": "reciprocal: they sealed a word between them; decides the reading"
+        }
+      ]
+    },
+    {
+      "id": "nequam",
+      "refs": [
+        "63:6"
+      ],
+      "latin": "sermónem nequam",
+      "kind": "word",
+      "why": "*Nequam* is 'worthless, vile, bad' (L&S); the Greek is πονηρόν, the common word for evil. *Má* is the plainest and keeps the Greek's generality; it ends the verse on a stressed syllable. *Vil* keeps the Latin's own colour (worthless) but is less said. *Perversa* would take *pervérsus*'s word (17:27). *Maligna* would bring back the *malígnus* root that D24 moved to *malvado*.",
+      "options": [
+        {
+          "label": "má",
+          "forms": {
+            "nequam": "má"
+          },
+          "note": "draft — πονηρόν",
+          "from": "draft"
+        },
+        {
+          "label": "vil",
+          "forms": {
+            "nequam": "vil"
+          },
+          "note": "L&S's first sense of *nequam*"
+        },
+        {
+          "label": "maligna",
+          "forms": {
+            "nequam": "maligna"
+          },
+          "note": "collides with the *malígnus* family"
+        }
+      ]
+    },
+    {
+      "id": "narraverunt",
+      "refs": [
+        "63:6b"
+      ],
+      "latin": "Narravérunt ut abscónderent láqueos",
+      "kind": "grammar",
+      "why": "The Greek is διηγήσαντο τοῦ κρύψαι παγίδας, 'they told of / talked over hiding snares'; the Latin's *ut* + subjunctive is its rendering, between purpose and content. *Narraram como esconderiam laços* keeps *narrar* (row *narráre → narrar*) and the subjunctive's forward look, and is heard as 'they talked over how to hide snares', the sense DRB gives ('They have talked of hiding snares'). A purpose clause (*narraram, para esconder laços*) is the Latin's surface but is heard as 'they told stories so as to hide snares'. MS1932 *Convencionaram esconder laços* explains.",
+      "options": [
+        {
+          "label": "Narraram como esconderiam",
+          "forms": {
+            "narraverunt": "Narraram como esconderiam"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "Narraram, para esconder",
+          "forms": {
+            "narraverunt": "Narraram, para esconder"
+          },
+          "note": "the Latin's *ut* as purpose, to the letter"
+        },
+        {
+          "label": "Falaram de esconder",
+          "forms": {
+            "narraverunt": "Falaram de esconder"
+          },
+          "note": "DRB 'talked of'; loses *narrar*",
+          "from": "DRB"
+        },
+        {
+          "label": "Combinaram esconder",
+          "forms": {
+            "narraverunt": "Combinaram esconder"
+          },
+          "note": "MS1932's sense; explains",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "scrutari",
+      "refs": [
+        "63:7"
+      ],
+      "latin": "Scrutáti sunt … scrutántes scrutínio",
+      "kind": "glossary",
+      "why": "The verse says one root three times (ἐξηρεύνησαν … ἐξερευνῶντες ἐξερευνήσει); the repetition is the Latin's (D2) and stays. *Scrutári → sondar* (row, open; 7:10, 118:2, 34, 69, 115, 129). *Esquadrinhar* (MS1932, and the row's option) is more vivid but four syllables and colloquial in Brazil ('rummage'). Whatever verb is chosen, the tail *scrutínio* follows it (decision `scrutinio`).",
+      "options": [
+        {
+          "label": "sondar",
+          "forms": {
+            "scrutPf": "Sondaram",
+            "scrutPart": "os que sondavam",
+            "scrutInf": "sondar"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "esquadrinhar",
+          "forms": {
+            "scrutPf": "Esquadrinharam",
+            "scrutPart": "os que esquadrinhavam",
+            "scrutInf": "esquadrinhar"
+          },
+          "note": "MS1932's verb; the row's option",
+          "from": "MS1932"
+        },
+        {
+          "label": "perscrutar",
+          "forms": {
+            "scrutPf": "Perscrutaram",
+            "scrutPart": "os que perscrutavam",
+            "scrutInf": "perscrutar"
+          },
+          "note": "the cognate; learned"
+        }
+      ]
+    },
+    {
+      "id": "scrutinio",
+      "refs": [
+        "63:7"
+      ],
+      "latin": "defecérunt scrutántes scrutínio",
+      "kind": "ambiguity",
+      "why": "*Scrutínium* (L&S 'a search', citing this verse) is an ablative of the same root — the Hebrew-Greek intensive figure, 'searching with searching'. It can say that they gave out from searching so hard, or that they failed in their search (DRB 'they have failed in their search'). *De tanto sondar* is how Portuguese says the intensive, and keeps the root a third time; it leans to exhaustion, but *desfaleceram* itself holds both 'fainted' and 'failed'. *Na sondagem* keeps a noun but in Brazil *sondagem* is an opinion poll or a drill. *No seu sondar* keeps the sphere without leaning, at the cost of a bookish turn.",
+      "options": [
+        {
+          "label": "de tanto sondar",
+          "forms": {
+            "scrutinio": "de tanto {scrutInf}"
+          },
+          "note": "draft — the intensive, root kept",
+          "from": "draft"
+        },
+        {
+          "label": "no seu sondar",
+          "forms": {
+            "scrutinio": "no seu {scrutInf}"
+          },
+          "note": "ablative of sphere; leaves failure and exhaustion open"
+        },
+        {
+          "label": "na sua busca",
+          "forms": {
+            "scrutinio": "na sua busca"
+          },
+          "note": "DRB's sense; the root lost",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "accedet",
+      "refs": [
+        "63:7b"
+      ],
+      "latin": "Accédet homo ad",
+      "kind": "word",
+      "why": "*Accédere* is *chegar* at 90:10 (*O mal não chegará a ti*) and *aproximar-se* at 33:6 (*Aproximai-vos dele*), where *appropinquáre* also has *aproximar-se*. *Chegará a* is shorter and says arrival, which the Latin's future says. The verse is famous for its openness (the plotter comes up against a deep heart; or man comes to a deep heart, and God is exalted — Augustine reads it of Christ): *o homem* keeps the subject as general as *homo*.",
+      "options": [
+        {
+          "label": "chegará a",
+          "forms": {
+            "accedet": "chegará a"
+          },
+          "note": "draft — = 90:10",
+          "from": "draft"
+        },
+        {
+          "label": "se aproximará de",
+          "forms": {
+            "accedet": "se aproximará de"
+          },
+          "note": "= 33:6; shares *appropinquáre*'s verb"
+        }
+      ]
+    },
+    {
+      "id": "altum",
+      "refs": [
+        "63:7b"
+      ],
+      "latin": "cor altum",
+      "kind": "word",
+      "why": "*Altus* is high or deep; the Greek is καρδία βαθεῖα, deep, and DRB has 'a deep heart'. *Um coração alto* would keep the Latin's echo *altum … exaltábitur* (*alto … exaltado*), but in Portuguese a 'high heart' is a proud one, the opposite sense. The echo is given up for the sense.",
+      "options": [
+        {
+          "label": "profundo",
+          "forms": {
+            "altum": "profundo"
+          },
+          "note": "draft — βαθεῖα; DRB",
+          "from": "draft"
+        },
+        {
+          "label": "alto",
+          "forms": {
+            "altum": "alto"
+          },
+          "note": "keeps the echo with *exaltado*; heard as haughty"
+        }
+      ]
+    },
+    {
+      "id": "plagae",
+      "refs": [
+        "63:8"
+      ],
+      "latin": "Sagíttæ parvulórum factæ sunt plagæ eórum",
+      "kind": "order",
+      "why": "Subject and predicate are both plural nominatives. The Greek marks the subject (αἱ πληγαὶ αὐτῶν, with the article): 'their wounds became children's arrows' — the blows they strike are as harmless as a child's. The Latin's order (arrows first) is kept: the ear then hears 'children's arrows became their wounds', which is the other reading the Latin's order allows (the wicked wounded by the little ones' arrows), and both say the plotters' weapons came to nothing. *Deles* rather than *suas*, so that the wounds are not heard as the children's. *Plaga* here is a wound (D39 left 63:8 to decide locally): *feridas* (MS1932, DRB 'wounds'); *golpes* would say the blows given.",
+      "options": [
+        {
+          "label": "Setas de pequeninos se tornaram as feridas deles",
+          "forms": {
+            "plagaeLine": "Setas de pequeninos se tornaram as feridas deles"
+          },
+          "note": "draft — the Latin's order, both readings open",
+          "from": "draft"
+        },
+        {
+          "label": "As feridas deles se tornaram setas de pequeninos",
+          "forms": {
+            "plagaeLine": "As feridas deles se tornaram setas de pequeninos"
+          },
+          "note": "the Greek's parse made plain; natural order, but it closes the other reading"
+        },
+        {
+          "label": "Setas de pequeninos se tornaram os golpes deles",
+          "forms": {
+            "plagaeLine": "Setas de pequeninos se tornaram os golpes deles"
+          },
+          "note": "*plaga* as the blow struck"
+        }
+      ]
+    },
+    {
+      "id": "laudabuntur",
+      "refs": [
+        "63:11"
+      ],
+      "latin": "et laudabúntur omnes recti corde",
+      "kind": "glossary",
+      "why": "The Latin's passive (ἐπαινεσθήσονται): the upright will be praised. Row *laudári → ser louvado* (33:3 *No Senhor será louvada a minha alma*; 62:12 has the same verb). MS1932 *serão louvados* agrees here. The Hebrew's 'will glory' (DM1962 *gloriar-se-ão*) is another sense. The verse is the martyrs' versicle and responsory (Commune C2, C2p, C2a-1).",
+      "options": [
+        {
+          "label": "serão louvados",
+          "forms": {
+            "laudabuntur": "serão louvados"
+          },
+          "note": "draft — the row; MS1932",
+          "from": "glossary"
+        },
+        {
+          "label": "se gloriarão",
+          "forms": {
+            "laudabuntur": "se gloriarão"
+          },
+          "note": "DM1962 — the Hebrew's sense",
+          "from": "DM1962"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "63:2": "*Exáudi → escutai* (D3); *cum déprecor → quando suplico* (*deprecári → suplicar*, D35), no object supplied, as the Latin. The Introit of 04-25 and the martyrs' Common open with this verse.",
+    "63:3": "*Protexísti* with the enclitic at the head of the verse (*Protegestes-me*); *operántium iniquitátem → dos que praticam a iniquidade* (row *operári iniquitátem*). The verse is the Paschaltide martyrs' Introit (*Protexísti me, Deus, a convéntu malignántium*).",
+    "63:4": "*exacuérunt → afiaram* (D44: *afiado* for an edge); *ut gládium → como uma espada*, the article supplied and the object moved before the comparison, Portuguese order. *intendérunt arcum → armaram o arco* copies 10:3 (row). The second colon is long, as the Latin's is. Checks: +3 on the second colon, accepted.",
+    "63:6": "Ps 63:5 has no verse of its own in DO; the Latin numbers 63:4 then 63:6. *Sermo → palavra* (D15).",
+    "63:6b": "*Quis vidébit eos?* → *Quem os verá?* — *eos* can be the snares or the plotters, as in Portuguese.",
+    "63:7b": "*exaltábitur → será exaltado*, the future passive (17:47's *exalte-se* is a jussive). The first colon is +5 syllables (checks): *cor altum* is three Latin syllables, *um coração profundo* seven, and no shorter faithful phrase exists; accepted.",
+    "63:8": "*infirmátæ sunt → se enfraqueceram* (17:37, 26:2b, 30:11b). *Contra eos* kept: their tongues grew weak against themselves. The echo *deles … eles* at mediant and final is accepted: the Latin has the same one (*plagæ eórum … linguæ eórum*), rule 5's exception.",
+    "63:9": "*conturbáti sunt → perturbaram-se* (47:6); *omnis homo → todo homem*, as 38:12b.",
+    "63:10": "*Et annuntiavérunt → E anunciaram* (D41); the initial *Et* kept. *facta → feitos*; *intellégere → entender*.",
+    "63:11": "The versicle and responsory of the martyrs (*Lætábitur justus in Dómino, et sperábit in eo. R. Et laudabúntur omnes recti corde*); each half reads alone. *speráre in → esperar em* (D36); *recti corde → retos de coração* (row). Second colon +4 (checks): *retos de coração* is the settled phrase.",
+    "63:7": "The second colon is +4 (checks): the participle *scrutántes* needs *os que sondavam*, and the root is kept a third time; accepted."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Liturgical uses found by grep in content/do: 63:2 in the Introit of 04-25 and Commune C2a-1/C2p and Quad6-5; 63:3 as the Paschaltide martyrs' Introit/versicle (*Protexísti me, Deus, …*); 63:11 as the martyrs' versicle and responsory (Commune C2, C2p, C2a-1; CommuneM). Hard readings: 63:4 *rem amáram* (apposition), 63:6b *narravérunt ut abscónderent*, 63:7 *scrutántes scrutínio* (the root three times), 63:7b *cor altum* (deep, with the lost echo of *exaltábitur*), 63:8 which nominative is the subject."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 63:4b +3, 63:7b +4, 63:7b first colon +5, 63:11b +4 — all accepted, reasons in choices. One rhyme flag, 63:8 *deles / eles*: the Latin has the same echo (*eórum / eórum*), accepted. Oxytone cadences at 63:6, 63:6b, 63:9b, 63:10a, 63:11b — allowed."
+    }
+  ]
+}
