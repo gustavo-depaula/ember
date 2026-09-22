@@ -51,6 +51,21 @@ So **Grok was not faster here**: roughly 18 minutes a psalm against 11–12½. T
 
 ## Verdict (for Gustavo)
 
-On these two psalms Grok 4.7 produced work of the same standard as the Opus agents: same checks, fewer Latinist minors, sound reasoning, a complete audit. The test is weak for the reasons above. Grok was also slower, not faster, in this setup.
+On these two psalms Grok 4.7 produced work of the same standard as the Opus agents: same checks, sound reasoning, a complete audit. Its fewer Latinist minors are mostly the reader's noise: the same reader flagged ours alone on 26:6b (identical text) and 26:9b (the same *auxílio*).
+
+Reading the 16 differing verses by ear:
+
+- **7 trivial:** colon or comma before the asterisk, *comer/comerem*, an explicit *ele*, *o meu Salvador*.
+- **Ours better in 3:**
+  - 22:2 *Sobre a água* sounds like walking on the water.
+  - 26:3 *se assentar um acampamento* is sitting, not arraying.
+  - 26:4b *Que eu veja* loses the *ut*.
+- **Grok better or equal in 3:**
+  - 22:4b *foram eles que me consolaram* gives the *ipsa*.
+  - 26:6 *sobre os meus inimigos* is closer to *super*.
+  - 26:11 *Ponde-me uma lei* is smoother.
+- **3 taste:** 22:5b, 26:8, 26:9.
+
+Neither is better overall. Its best readings suggest a use as a second independent drafter. The test is weak for the reasons above. Grok was also slower, not faster, in this setup.
 
 If it is much cheaper, a fair next step is to give it the **next untranslated psalm alongside an Opus agent** (or instead of one) and compare there. Its Portuguese diction should also be judged by ear on the site, which the numbers here can't show.

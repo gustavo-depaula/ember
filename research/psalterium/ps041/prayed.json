@@ -1,0 +1,816 @@
+{
+  "psalm": 41,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "41:2": "Assim como {cervo} {desid1} das águas: * assim a minha alma {desid2}, ó Deus.",
+    "41:3": "A minha alma {sitivit} do Deus {fortem}: * quando {veniam}, e aparecerei diante da face de Deus?",
+    "41:4": "As minhas lágrimas foram {panes} de dia e de noite: * enquanto me dizem {cotidie}: Onde está o teu Deus?",
+    "41:5": "Lembrei-me destas coisas, e derramei {inme} a minha alma: * porque passarei ao lugar da tenda admirável, até a casa de Deus.",
+    "41:5b": "Com voz de exultação e {confessio}: * {epulantis}.",
+    "41:6": "Por que estás triste, {anima6}? * e por que me perturbas?",
+    "41:6b": "Espera em Deus, porque ainda lhe darei graças: * {salutare6}.",
+    "41:7": "{meipsum}: * por isso me lembrarei de vós desde a terra do Jordão e {hermon}, desde o pequeno monte.",
+    "41:8": "O abismo {invocat} o abismo, * à voz das vossas cataratas.",
+    "41:8b": "Todas as vossas {excelsa} e as vossas ondas * passaram sobre mim.",
+    "41:9": "De dia o Senhor {mandavit} a sua misericórdia: * e de noite o seu cântico.",
+    "41:9b": "{apudme} a oração ao Deus da minha vida, * direi a Deus: Vós sois o meu amparo.",
+    "41:10": "Por que me esquecestes? * e por que ando entristecido, enquanto me aflige o inimigo?",
+    "41:11": "Enquanto {confr} os meus ossos, * afrontaram-me os meus inimigos que me atribulam.",
+    "41:11b": "Enquanto me dizem todos os dias: Onde está o teu Deus? * por que estás triste, {anima11}? e por que me perturbas?",
+    "41:12": "Espera em Deus, porque ainda lhe darei graças: * {salutare12}."
+  },
+  "decisions": [
+    {
+      "id": "desiderat",
+      "refs": [
+        "41:2"
+      ],
+      "latin": "desíderat cervus ad fontes aquárum … ita desíderat ánima mea ad te",
+      "kind": "word",
+      "why": "The Latin says the same verb twice, and the likeness rests on it; both colons keep one Portuguese verb. *desideráre* is to long for (L&S); the Greek ἐπιποθεῖ is to yearn. *desejar* is the plain cognate. The preposition *ad* (ἐπί) is absorbed: *desejar* takes a direct object in Portuguese (grammar, D2). DRB 'panteth after' and MS1932 *suspira por* give the animal's breath, which the Latin verb does not name. *ansiar por* is the concupíscere row's word (118:20) and would merge two Latin verbs.",
+      "options": [
+        {
+          "label": "deseja … vos deseja",
+          "forms": {
+            "desid1": "deseja as fontes",
+            "desid2": "vos deseja"
+          },
+          "note": "Ruling: the cognate, twice.",
+          "from": "draft"
+        },
+        {
+          "label": "anseia pelas … anseia por vós",
+          "forms": {
+            "desid1": "anseia pelas fontes",
+            "desid2": "anseia por vós"
+          },
+          "note": "keeps *ad* as *por*; *ansiar por* is concupíscere's (118:20), so two Latin verbs would meet in one Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "suspira pelas … suspira por vós",
+          "forms": {
+            "desid1": "suspira pelas fontes",
+            "desid2": "suspira por vós"
+          },
+          "note": "MS1932; DRB 'panteth' — an image the Latin verb does not have.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cervus",
+      "refs": [
+        "41:2"
+      ],
+      "latin": "cervus",
+      "kind": "glossary",
+      "why": "The cervus row (open) proposes *cervo* wherever the colon itself names the animal's world — and 41:2 is the case it names: the springs of water and the thirst of 41:3. *servo* (homophone in Brazil) was heard at 17:34; here *o cervo deseja as fontes das águas* leaves no room for a servant, since the sentence is about drinking. *veado* (MS1932) is a slur in Brazil.",
+      "options": [
+        {
+          "label": "o cervo",
+          "forms": {
+            "cervo": "o cervo"
+          },
+          "note": "Ruling; the row's proposal for this verse; DRB 'hart'.",
+          "from": "glossary"
+        },
+        {
+          "label": "a corça",
+          "forms": {
+            "cervo": "a corça"
+          },
+          "note": "17:34, 28:9; no homophone, gender lost. If chosen, *corça* everywhere would make one word for the psalter.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "sitivit",
+      "refs": [
+        "41:3"
+      ],
+      "latin": "Sitívit ánima mea",
+      "kind": "grammar",
+      "why": "The perfect (ἐδίψησεν). The thirst is plainly still present — the question follows — so the tense is the Hebrew-Greek perfect of a state; DRB keeps it as 'hath thirsted', MS1932 turns it to *tem sede*. Portuguese has no light perfect that says 'has been and still is'. Kept as the Latin's perfect: *teve sede* is not heard as over, because the next colon asks *quando?*",
+      "options": [
+        {
+          "label": "teve sede",
+          "forms": {
+            "sitivit": "teve sede"
+          },
+          "note": "Ruling: the Latin's tense.",
+          "from": "draft"
+        },
+        {
+          "label": "tem sede",
+          "forms": {
+            "sitivit": "tem sede"
+          },
+          "note": "MS1932; the state, in the present.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "fortem",
+      "refs": [
+        "41:3"
+      ],
+      "latin": "ad Deum fortem vivum",
+      "kind": "grammar",
+      "why": "Two adjectives without a conjunction (DRB 'the strong living God'). Portuguese cannot stack them after the noun without a link; *e* is supplied, as MS1932 does. (The Easter Vigil tract, missa/Tempora/Quad6-6, reads *ad Deum vivum* without *fortem*; the psalter's reading is followed.)",
+      "options": [
+        {
+          "label": "forte e vivo",
+          "forms": {
+            "fortem": "forte e vivo"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "forte, do Deus vivo",
+          "forms": {
+            "fortem": "forte, do Deus vivo"
+          },
+          "note": "no conjunction, but *Deus* supplied a second time.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "veniam",
+      "refs": [
+        "41:3"
+      ],
+      "latin": "quando véniam",
+      "kind": "word",
+      "why": "*veníre* is 'come'; the psalmist is far away (41:7), and Portuguese *vir* points towards the speaker, so *quando virei* is heard as said from the temple. *chegar* is the arrival *veníre* names, from any standpoint; *ir* (MS1932) names the setting out instead. ἥξω is 'I shall arrive'. v2: the stylist asked for *irei* (the colon was +3 and *chegarei, e aparecerei* stumbled); taken.",
+      "options": [
+        {
+          "label": "irei",
+          "forms": {
+            "veniam": "irei"
+          },
+          "note": "Ruling (v2): stylist and MS1932 — plainer and three syllables shorter; *ir* avoids the wrong standpoint of *vir* as well as *chegar* does.",
+          "from": "stylist"
+        },
+        {
+          "label": "chegarei",
+          "forms": {
+            "veniam": "chegarei"
+          },
+          "note": "draft 1; ἥξω \"arrive\". The stylist found it weaker and the colon crowded (*chegarei, e aparecerei*).",
+          "from": "draft"
+        },
+        {
+          "label": "virei",
+          "forms": {
+            "veniam": "virei"
+          },
+          "note": "the cognate sense; wrong standpoint in Portuguese.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "panes",
+      "refs": [
+        "41:4"
+      ],
+      "latin": "Fuérunt mihi lácrimæ meæ panes",
+      "kind": "grammar",
+      "why": "The Latin's plural (ἄρτος is singular in Rahlfs; the Latin has *panes*) and the dative *mihi*. *os meus pães* is heard as loaves; *pão* is how Portuguese says food (as 40:10 *comia o meu pão*, D29 on number). The dative becomes the possessive: *foram o meu pão* = 'were bread to me'. v2: the Latinist (minor) asked for *os meus pães*; refused as at 40:10 (the idiom; number is grammar, D2, D29). Option 3.",
+      "options": [
+        {
+          "label": "o meu pão",
+          "forms": {
+            "panes": "o meu pão"
+          },
+          "note": "Ruling; MS1932 the same; 40:10.",
+          "from": "MS1932"
+        },
+        {
+          "label": "pão para mim",
+          "forms": {
+            "panes": "pão para mim"
+          },
+          "note": "the dative kept as a preposition.",
+          "from": "draft"
+        },
+        {
+          "label": "os meus pães",
+          "forms": {
+            "panes": "os meus pães"
+          },
+          "note": "the Latin's number.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cotidie",
+      "refs": [
+        "41:4"
+      ],
+      "latin": "dum dícitur mihi cotídie",
+      "kind": "glossary",
+      "why": "*cotídie* here and *per síngulos dies* in 41:11b are one Greek phrase, καθ᾿ ἑκάστην ἡμέραν (Rahlfs, both verses), so by D15's test one Portuguese: the per síngulos dies row's *todos os dias* (7:12). The Easter Vigil tract even reads *per síngulos dies* in this verse (Quad6-6). The two verses then echo each other as the Greek does. *dícitur* impersonal passive → *me dizem* (grammar).",
+      "options": [
+        {
+          "label": "todos os dias",
+          "forms": {
+            "cotidie": "todos os dias"
+          },
+          "note": "Ruling; = 41:11b; MS1932 in both verses.",
+          "from": "glossary"
+        },
+        {
+          "label": "cada dia",
+          "forms": {
+            "cotidie": "cada dia"
+          },
+          "note": "keeps the Latin's two words apart.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inme",
+      "refs": [
+        "41:5"
+      ],
+      "latin": "effúdi in me ánimam meam",
+      "kind": "ambiguity",
+      "why": "*in me* can be 'within me' (DRB 'in me', MS1932 *dentro de mim mesmo*) or, with the Greek ἐπ᾿ ἐμέ, 'upon / over me' (Augustine's *super me*). *em mim* keeps the Latin's openness; *dentro de mim* closes it. It also keeps 41:5 apart from 41:7 *ad meípsum* → *dentro de mim mesmo*, a different Latin phrase. v2: the blind reader heard it as grief within, being refilled, or poured out to God — the openness the Latin has; kept.",
+      "options": [
+        {
+          "label": "em mim",
+          "forms": {
+            "inme": "em mim"
+          },
+          "note": "Ruling: the Latin's ambiguity kept.",
+          "from": "draft"
+        },
+        {
+          "label": "dentro de mim",
+          "forms": {
+            "inme": "dentro de mim"
+          },
+          "note": "MS1932, DRB's sense.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sobre mim",
+          "forms": {
+            "inme": "sobre mim"
+          },
+          "note": "the Greek's ἐπί.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confessio",
+      "refs": [
+        "41:5b"
+      ],
+      "latin": "et confessiónis",
+      "kind": "glossary",
+      "why": "D5 leaves the noun *conféssio* open, to be decided where met. Here it is the ἐξομολόγησις of the festal throng, set beside exultation, and three verses on the verb of the same root is the refrain's *confitébor illi* → *lhe darei graças* (D5). *ação de graças* keeps the family audible inside the psalm. DRB and MS1932 have 'praise' (*louvor*), which is laus's word. v2: the stylist heard *exultação e de ação* as a tongue-twister and asked *louvor*; refused — *louvor* is laus's, and *ação de graças* keeps the noun beside the refrain's *darei graças* (D5). His line is option 2.",
+      "options": [
+        {
+          "label": "de ação de graças",
+          "forms": {
+            "confessio": "de ação de graças"
+          },
+          "note": "Ruling: the noun of D5's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "de louvor",
+          "forms": {
+            "confessio": "de louvor"
+          },
+          "note": "stylist, DRB, MS1932; *louvor* is laus's.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "epulantis",
+      "refs": [
+        "41:5b"
+      ],
+      "latin": "sonus epulántis",
+      "kind": "word",
+      "why": "*epulári* is to feast, sit at a banquet (L&S); the Greek ἑορτάζοντος is 'keeping festival'. The Latin's image is the table, and a participle (one who feasts), singular. *sonus → som* (18:5). MS1932 *ruído dum festim* makes the participle a noun.",
+      "options": [
+        {
+          "label": "o som de quem se banqueteia",
+          "forms": {
+            "epulantis": "o som de quem se banqueteia"
+          },
+          "note": "Ruling: the participle and the banquet.",
+          "from": "draft"
+        },
+        {
+          "label": "o som de quem está em festa",
+          "forms": {
+            "epulantis": "o som de quem está em festa"
+          },
+          "note": "the Greek's festival; the table lost.",
+          "from": "draft"
+        },
+        {
+          "label": "o som de um banquete",
+          "forms": {
+            "epulantis": "o som de um banquete"
+          },
+          "note": "MS1932's build (*ruído dum festim*); the person lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "anima",
+      "refs": [
+        "41:6",
+        "41:11b"
+      ],
+      "latin": "Quare tristis es, ánima mea?",
+      "kind": "glossary",
+      "why": "The refrain (41:6, 41:11b; 42:5 — and 42:5–6 are said at the foot of the altar, missa/Ordo/Ordo.txt). The soul is spoken to as one person, so *tu* (*estás*, *me perturbas*, *Espera*), as MS1932. The vocative takes no article in Portuguese; *minha alma* is the vocative as *meu Deus* is (21:2 *Deus, meu Deus*). The Latin has no *O*. conturbáre → perturbar (row). One decision fills both verses so the refrain cannot drift; Ps 42 should copy it.",
+      "options": [
+        {
+          "label": "minha alma",
+          "forms": {
+            "anima6": "minha alma",
+            "anima11": "minha alma"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "ó minha alma",
+          "forms": {
+            "anima6": "ó minha alma",
+            "anima11": "ó minha alma"
+          },
+          "note": "the vocative marked, as *ó Deus* for a bare *Deus*.",
+          "from": "draft"
+        },
+        {
+          "label": "alma minha",
+          "forms": {
+            "anima6": "alma minha",
+            "anima11": "alma minha"
+          },
+          "note": "the Latin's order; literary in Brazil.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "salutare",
+      "refs": [
+        "41:6b",
+        "41:12"
+      ],
+      "latin": "salutáre vultus mei, et Deus meus",
+      "kind": "grammar",
+      "why": "The refrain's close (41:6b = 41:12 = 42:6). Two nouns in apposition to *illi* (God), without a verb, as the Latin. salutáre → salvação (D6), vultus → rosto (row; *face* is fácies's). The articles are Portuguese grammar. MS1932 supplies *a ele que é*; the Latin's bare apposition is kept, after a mediant that already names 'him'. Two slots, one decision, so the two verses cannot drift. v2: the blind reader heard it as a title of God, meaning obscure — the Latin image; kept. Ps 42 v2 (42:6) has the same words.",
+      "options": [
+        {
+          "label": "a salvação do meu rosto, e o meu Deus",
+          "forms": {
+            "salutare6": "a salvação do meu rosto, e o meu Deus",
+            "salutare12": "a salvação do meu rosto, e o meu Deus"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "a ele, salvação do meu rosto e meu Deus",
+          "forms": {
+            "salutare6": "a ele, salvação do meu rosto e meu Deus",
+            "salutare12": "a ele, salvação do meu rosto e meu Deus"
+          },
+          "note": "MS1932's build (*a ele que é a salvação…*), without his relative clause.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "meipsum",
+      "refs": [
+        "41:7"
+      ],
+      "latin": "Ad meípsum ánima mea conturbáta est",
+      "kind": "word",
+      "why": "πρὸς ἐμαυτόν, 'towards / within myself'; DRB 'within myself', MS1932 *Dentro de mim mesmo*. *-ipsum* → *mesmo*. conturbáta est → *está perturbada*, the state (6:4 *a minha alma está muito perturbada*, the same Greek ἐταράχθη). v2: the stylist found *Dentro de mim mesmo a minha alma* muddy (three m-syllables) and a translated phrase at the head; the verb is put first (order, D2) and *mesmo* kept.",
+      "options": [
+        {
+          "label": "A minha alma está perturbada dentro de mim mesmo",
+          "forms": {
+            "meipsum": "A minha alma está perturbada dentro de mim mesmo"
+          },
+          "note": "Ruling (v2): the stylist's order (*mim mesmo a minha* clotted); *mesmo* for *-ipsum* kept against his *dentro de mim*.",
+          "from": "stylist"
+        },
+        {
+          "label": "Dentro de mim mesmo a minha alma está perturbada",
+          "forms": {
+            "meipsum": "Dentro de mim mesmo a minha alma está perturbada"
+          },
+          "note": "draft 1: the Latin's order; DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "A minha alma está perturbada dentro de mim",
+          "forms": {
+            "meipsum": "A minha alma está perturbada dentro de mim"
+          },
+          "note": "stylist's line; drops *mesmo* (-ipsum) — refused as a lost word.",
+          "from": "stylist"
+        },
+        {
+          "label": "Para comigo a minha alma está perturbada",
+          "forms": {
+            "meipsum": "Para comigo a minha alma está perturbada"
+          },
+          "note": "*ad* as \"towards me\"; Augustine's reading; unclear.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "hermon",
+      "refs": [
+        "41:7"
+      ],
+      "latin": "et Hermóniim",
+      "kind": "word",
+      "why": "The Latin transliterates the Greek Ερμωνιιμ, itself the Hebrew plural 'the Hermons' (the peaks of Hermon). A Latin reader hears a foreign name, not a plural. *Hermon* is the name a Brazilian ear knows (MS1932). *Hermoniim* (DRB) keeps the Latin's letters; *dos Hermons* translates a plural the Latin does not translate. v2: the stylist asked that *e do Hermon* not hang alone; the comma after *Jordão* is removed, joining it to *terra* (DRB \"from the land of Jordan and Hermoniim\"). The Latinist (minor) asked for the plural *dos Hermons*; refused — the Latin transliterates a name, it does not translate a plural; his wording is option 3.",
+      "options": [
+        {
+          "label": "do Hermon",
+          "forms": {
+            "hermon": "do Hermon"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "de Hermoniim",
+          "forms": {
+            "hermon": "de Hermoniim"
+          },
+          "note": "DRB; the Latin's form.",
+          "from": "DRB"
+        },
+        {
+          "label": "dos Hermons",
+          "forms": {
+            "hermon": "dos Hermons"
+          },
+          "note": "the Hebrew plural, translated.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "invocat",
+      "refs": [
+        "41:8"
+      ],
+      "latin": "Abýssus abýssum ínvocat",
+      "kind": "glossary",
+      "why": "invocáre → invocar (row, working). The Latin's verb is the one used of calling on God (ἐπικαλεῖται); the deep calls on the deep. *chamar* (MS1932 *chama outro abismo*) is plainer and flattens it. The repetition *abismo … abismo* is the Latin's and stays; *outro* (MS1932) is not in the Latin.",
+      "options": [
+        {
+          "label": "invoca",
+          "forms": {
+            "invocat": "invoca"
+          },
+          "note": "Ruling: the glossary's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "chama",
+          "forms": {
+            "invocat": "chama"
+          },
+          "note": "MS1932, DRB 'calleth on'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "excelsa",
+      "refs": [
+        "41:8b"
+      ],
+      "latin": "Ómnia excélsa tua",
+      "kind": "word",
+      "why": "*excélsa* is 'high things, heights' (DRB 'heights'; 17:34 *super excélsa* → *sobre as alturas*). The Greek μετεωρισμοί are the lifted swells of the sea, and MS1932 reads it so (*vagas amontoadas*). The Latin says heights; kept, with the waves beside it making the sea plain. v2: the blind reader heard heights first and the billows second, and found *passaram sobre mim* odd with heights — the Latin's own strangeness; kept.",
+      "options": [
+        {
+          "label": "alturas",
+          "forms": {
+            "excelsa": "alturas"
+          },
+          "note": "Ruling; DRB; 17:34.",
+          "from": "DRB"
+        },
+        {
+          "label": "vagas altas",
+          "forms": {
+            "excelsa": "vagas altas"
+          },
+          "note": "the Greek's sense, MS1932's reading.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mandavit",
+      "refs": [
+        "41:9"
+      ],
+      "latin": "mandávit Dóminus misericórdiam suam",
+      "kind": "glossary",
+      "why": "The mandáre row is open between *dar ordem* and *mandar*. With a thing as object *dar ordem* cannot stand (*deu ordem à sua misericórdia*), as at 7:7b. *mandar* in Portuguese is both 'command' and 'send', which is exactly the reach of the Latin here (DRB 'commanded', MS1932 *enviou*).",
+      "options": [
+        {
+          "label": "mandou",
+          "forms": {
+            "mandavit": "mandou"
+          },
+          "note": "Ruling; the row's *mandar*.",
+          "from": "glossary"
+        },
+        {
+          "label": "enviou",
+          "forms": {
+            "mandavit": "enviou"
+          },
+          "note": "MS1932; *mittere*'s word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "apudme",
+      "refs": [
+        "41:9b"
+      ],
+      "latin": "Apud me orátio Deo vitæ meæ",
+      "kind": "word",
+      "why": "Verbless in Latin (DRB 'With me is prayer'); the copula is supplied. The apud row gives *junto de* (21:26 *Junto de vós está o meu louvor*); with the first person Portuguese says *comigo*, the plainer of two faithful words (D2). The prayer is what the psalmist has left, by night, with the canticle.",
+      "options": [
+        {
+          "label": "Comigo está",
+          "forms": {
+            "apudme": "Comigo está"
+          },
+          "note": "Ruling; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "Junto de mim está",
+          "forms": {
+            "apudme": "Junto de mim está"
+          },
+          "note": "the apud row's form.",
+          "from": "glossary"
+        },
+        {
+          "label": "Dentro de mim está",
+          "forms": {
+            "apudme": "Dentro de mim está"
+          },
+          "note": "MS1932 *Dentro de mim orarei* — his verb is supplied; and *dentro* is 41:7's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confringuntur",
+      "refs": [
+        "41:11"
+      ],
+      "latin": "Dum confringúntur ossa mea",
+      "kind": "grammar",
+      "why": "The present passive. v2: the stylist found *são quebrados* flat and asked for the pronominal passive, which keeps the voice and the tense and puts *ossos* at the mediant; taken (grammar, D2).",
+      "options": [
+        {
+          "label": "se quebram os meus ossos",
+          "forms": {
+            "confr": "se quebram"
+          },
+          "note": "Ruling (v2): stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "são quebrados (os meus ossos são quebrados)",
+          "forms": {
+            "confr": "são quebrados"
+          },
+          "note": "draft 1; the analytic passive; MS1932 the same.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "41:2": "quemádmodum … ita → *Assim como … assim* (the comparison; the quemádmodum row). The vocative *Deus* → *ó Deus*, as elsewhere. fons → *fonte*; *as fontes das águas* as 17:16a. Uses: a Mass Gradual (missa/Sancti/06-04), a versicle (04-16 Labre), Hildegard's office.",
+    "41:3": "apparére → *aparecer* (16:15). *ante fáciem Dei* → *diante da face de Deus* (fácies row). The Easter Vigil tract sings 41:2–4 (missa/Tempora/Quad6-6).",
+    "41:4": "die ac nocte → *de dia e de noite*. *Ubi est Deus tuus?* → *Onde está o teu Deus?* — the scoffers speak to one man: *tu*. Same words in 41:11b.",
+    "41:5": "recordári → *lembrar-se de*; *Hæc* (plural) → *destas coisas* (MS1932), put after the verb (order, D2). transíre in → *passar a*; the verb returns in 41:8b (*passaram sobre mim*), as *transíbo … transiérunt*. tabernáculum → *tenda* (row, open; 14:1); admirábilis → *admirável* (row, which names this verse). usque ad → *até*. quóniam → *porque* (the Latin's causal; DRB 'for'). The blind reader heard *tenda* as tent, helped by *casa de Deus*, with the shop sense possible; the row stands.",
+    "41:5b": "in voce → *com voz de*: the sound that goes with the procession of 41:5. vox → *voz* both here and in 41:8.",
+    "41:6": "The refrain; 41:11b's second colon and 42:5's are the same words. contúrbas → *perturbas* (conturbáre row).",
+    "41:6b": "speráre in → *esperar em* (D36); the imperative is *tu* (to the soul). adhuc → *ainda*. confitéri → *dar graças a* (D5), with *lhe* for *illi*. 41:6b = 41:12 = 42:6; it closes the prayers at the foot of the altar (missa/Ordo/Ordo.txt).",
+    "41:7": "memor ero → *me lembrarei de* (future, as the Latin; MS1932's *me lembrei* is not the Latin's tense). *de terra … a monte* → *desde … desde*. *módicus* → *pequeno*: *módico* in Portuguese is 'modest in price'; the adjective before the noun (order, D2). The blind reader heard *desde* as place first (time second).",
+    "41:8": "cataráctæ → *cataratas* (the floodgates, as 'as cataratas do céu' of the Flood); *tuárum* → *vossas*.",
+    "41:8b": "fluctus → *ondas* (new row). *super me transiérunt* → *passaram sobre mim* (natural order).",
+    "41:9": "In die … nocte → *De dia … de noite* (as 41:4). *cánticum ejus* → *o seu cântico*: 'his' left open as the Latin (the Lord's song, or a song to him — DRB 'to him').",
+    "41:9b": "suscéptor → *amparo* (D19). *dicam* → *direi*. The words said to God are *vós*; *Vós* named as subject so the short line has its weight. Deus vitæ meæ → *o Deus da minha vida*.",
+    "41:10": "oblivísci → *esquecer* with a direct object (row; 12:1). *contristátus incédo* → *ando entristecido* — 37:7 *contristátus ingrediébar → andava entristecido*. 42:2 has *tristis incédo* (another adjective) and should say *ando triste*. afflígere → *afligir* (row); *dum* → *enquanto* in all four verses (41:4, 10, 11, 11b). Ps 42 v2 has *e por que ando triste, enquanto me aflige o inimigo?* — the *dum* clause identical.",
+    "41:11": "confríngere → *quebrar* (row). exprobráre → *afrontar* (row; 34:7, 118:42). tribuláre → *atribular* (row). *qui tríbulant me inimíci mei* in natural order: *os meus inimigos que me atribulam*. The Latin's tenses (present, then perfect) kept.",
+    "41:11b": "per síngulos dies → *todos os dias* (row, which names this verse). After a question mark inside the verse the next word stays lower-case, as the Latin prints it."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm41.txt, 16 prayed verses (41:2–41:12 with 41:5b, 6b, 8b, 9b, 11b; no 41:1, the titulus, D7). One mediant per verse, no flex. Uses (ps032/uses.py): 41:2 a Gradual (missa/Sancti/06-04), a versicle (Labre), Hildegard's office; 41:2–4 the Easter Vigil tract (Quad6-6, reading *ad Deum vivum* and *per síngulos dies*); the refrain 42:5–6 (= 41:6, 41:12) in the prayers at the foot of the altar (missa/Ordo). Not in the Diurnal Monástico parallels. Ps 42 (the same psalm in the Hebrew, with the same refrain) is translated in parallel; its folder had only literal.json when this draft was written, so the refrain is proposed here as a formula row for it to copy."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps041.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932). DO's Portuguese not used (D12). Rulings applied: D5 (confitébor → darei graças; the noun conféssio decided here as *ação de graças*), D6 (salutáre), D19 (suscéptor), D36 (speráre in). Latin readings kept against the Greek: 41:8b *excélsa* as heights. Tests for the readers: *o cervo deseja*, *teve sede*, *chegarei*, *derramei em mim a minha alma*, *a tenda admirável*, *o som de quem se banqueteia*, *minha alma* (vocative), *a salvação do meu rosto, e o meu Deus*, *do Hermon*, *O abismo invoca o abismo*, *as vossas alturas*, *mandou a sua misericórdia*, *Comigo está a oração*."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Length: 41:9b first colon +4 (the copula *está* supplied and *Comigo* for *Apud me*), 41:10 second +4 (*entristecido*, 37:7's word), 41:3 second +3, 41:5b second +3 (*quem se banqueteia* for one participle), 41:7 first +3, 41:11 first +3, 41:5 second −3; accepted. Rhyme flags 41:2–5 (-eus): the finals are *Deus* four times, as the Latin's are *Deus … Dei … Deus tuus … Dei* — the echo is the Latin's, accepted. Cadences: oxytone finals on *Deus*, *mim*, allowed by rule 4."
+    },
+    {
+      "step": "glossary",
+      "note": "Refrain rows proposed early (formulas, open) so that the Ps 42 agent, working in parallel, can copy them: *Quare tristis es…* and *Spera in Deo…*, with the near-twin 42:2 noted."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37; AGENT-BRIEF step 5). Latinist, stylist and ambiguity readers for draft 1 handed to the coordinator."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1, read by claude-opus-5-5 (fresh context; Codex out of credits). No major; two minors, both on number. «A close, faithful rendering: tenses, persons and the Latin's images are preserved, and the pointing marks match the Latin throughout.» Both refused.",
+      "outcomes": [
+        {
+          "verse": "41:4",
+          "remark": "minor: *panes* singularized → 'os meus pães'",
+          "outcome": "refused",
+          "decision": "panes",
+          "reason": "*comer / ter por pão* is the Portuguese idiom; *os meus pães* is heard as loaves; number is grammar (D2, D29), as 40:10. Option 3."
+        },
+        {
+          "verse": "41:7",
+          "remark": "minor: *Hermóniim* plural reduced → 'e dos Hermons'",
+          "outcome": "refused",
+          "decision": "hermon",
+          "reason": "The Latin transliterates a name (Ερμωνιιμ); it does not translate a plural, and a Latin reader hears a name. *dos Hermons* is option 3, *de Hermoniim* option 2."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1, read by claude-opus-5-5 (fresh context). Four verses remarked; best 41:8, worst 41:7. «The psalm sounds plain and reverent, and the refrain sits well in the mouth … The problems are local ones.» Four taken (one in part), one refused.",
+      "outcomes": [
+        {
+          "verse": "41:3",
+          "remark": "*chegarei, e aparecerei* stumbles; *chegarei* weaker → 'quando irei e aparecerei'",
+          "outcome": "taken",
+          "decision": "veniam"
+        },
+        {
+          "verse": "41:5b",
+          "remark": "*exultação e de ação* tongue-twister; three words for one → 'e de louvor'",
+          "outcome": "option",
+          "decision": "confessio",
+          "reason": "*louvor* is laus's; *ação de graças* is the noun of D5's verb, heard three verses later in the refrain. Option 2."
+        },
+        {
+          "verse": "41:7",
+          "remark": "*mim mesmo a minha* muddy; translated phrase at the head → 'A minha alma está perturbada dentro de mim'",
+          "outcome": "taken",
+          "decision": "meipsum",
+          "reason": "In part: his order taken; *mesmo* (-ipsum) kept. His line without *mesmo* is option 3."
+        },
+        {
+          "verse": "41:7",
+          "remark": "*e do Hermon* hangs; *desde … desde* crowded → comma after *Jordão* removed",
+          "outcome": "taken",
+          "decision": "hermon"
+        },
+        {
+          "verse": "41:11",
+          "remark": "*são quebrados* flat → 'Enquanto se quebram os meus ossos'",
+          "outcome": "taken",
+          "decision": "confringuntur"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, blind, read by claude-opus-5-5 (fresh context). 25 items, 5 unknown words (Hermon, atribulam, exultação, banqueteia, amparo). Heard rightly: *enquanto me dizem*, *Lembrei-me destas coisas* (the taunts), *passarei* (hope), the refrain addressed to the soul and *lhe darei graças* to God, *O abismo invoca o abismo*, *cataratas* (waterfalls), *o seu cântico* (God's, open as the Latin), *Comigo está a oração*, *afrontaram-me* (insulted).",
+      "outcomes": [
+        {
+          "verse": "41:5",
+          "remark": "*derramei em mim a minha alma* opaque (grief within / refilled / poured to God)",
+          "outcome": "refused",
+          "decision": "inme",
+          "reason": "The Latin's *in me* is open between 'within' and 'upon' (ἐπ᾿ ἐμέ); the openness is kept. *dentro de mim* is option 2."
+        },
+        {
+          "verse": "41:5",
+          "remark": "*tenda* may be heard as a shop",
+          "outcome": "refused",
+          "reason": "The tabernáculum row (14:1 and after); heard as tent first, helped by *casa de Deus*."
+        },
+        {
+          "verse": "41:6b",
+          "remark": "*a salvação do meu rosto* obscure",
+          "outcome": "refused",
+          "decision": "salutare",
+          "reason": "The Latin's image (vultus → rosto), heard as a title of God; Ps 42:6 has the same words."
+        },
+        {
+          "verse": "41:7",
+          "remark": "*desde* may suggest time",
+          "outcome": "refused",
+          "reason": "Heard as place first; *de terra … a monte* are places."
+        },
+        {
+          "verse": "41:8b",
+          "remark": "*vossas alturas* sits oddly with *passaram sobre mim*",
+          "outcome": "refused",
+          "decision": "excelsa",
+          "reason": "The Latin says heights (*excélsa*), not the Greek's billows; *vagas altas* is option 2."
+        },
+        {
+          "verse": "41:5b",
+          "remark": "*banqueteia*, *exultação* unknown",
+          "outcome": "refused",
+          "decision": "epulantis",
+          "reason": "*exultação* is the exsultátio row's; *banquetear-se* keeps the table of *epulári*. *o som de quem está em festa* is option 2."
+        },
+        {
+          "verse": "41:11",
+          "remark": "*atribulam*, *amparo* (41:9b), *Hermon* (41:7) unknown",
+          "outcome": "refused",
+          "reason": "tribuláre → atribular (row; the same report in Pss 3, 12, 22) and suscéptor → amparo (D19) are the glossary's; Hermon is the name."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2 (draft 1 kept as prayed.v1.json, prayed.v1.vos.json; script revise_v2.py): 41:3 *quando irei*; 41:7 *A minha alma está perturbada dentro de mim mesmo … do Jordão e do Hermon*; 41:11 *Enquanto se quebram os meus ossos*. New decision `confringuntur`. The refrain (41:6, 6b, 11b, 12) unchanged, and checked identical with ps042/prayed.vos.json (42:5 second colon, 42:6); 41:10 *enquanto me aflige o inimigo* = 42:2."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. 41:3 second colon now +2; 41:7 first +3, 41:9b first +4, 41:10 second +4, 41:5b second +3, 41:5 second −3; accepted as in draft 1. The -eus rhyme flags are the Latin's echo (Deus … Dei)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate, claude-opus-5-5, fresh context, on draft 2 (sha matches prayed.vos.json). No major. «A faithful, close rendering: every clause of the Latin is present, the Septuagintal oddities are kept, and tense, person and voice are respected throughout.» Two minors, both repeated from v1 and refused again; every draft-2 change (41:3 *irei*, 41:7 order and comma, 41:11 *se quebram*) passed.",
+      "outcomes": [
+        {
+          "verse": "41:4",
+          "remark": "minor: *panes* singularized → 'os meus pães'",
+          "outcome": "refused",
+          "decision": "panes",
+          "reason": "As v1 and 40:10: *pão* is the Portuguese of food, *pães* is heard as loaves; number is grammar (D2, D29). Option 3."
+        },
+        {
+          "verse": "41:7",
+          "remark": "minor: *Hermóniim* plural → 'e dos Hermons'",
+          "outcome": "refused",
+          "decision": "hermon",
+          "reason": "As v1: the Latin transliterates a name and a Latin reader hears a name. Option 3."
+        }
+      ]
+    },
+    {
+      "step": "glossary",
+      "note": "Rows added (open): epulári, abýssus / cataráctæ, fluctus, excélsa (noun), sitíre ad, panes (lácrimæ panes), módicus, contristári / incédere, effúndere ánimam in me, ad meípsum, apud me (first person), Hermóniim; formula row *Abýssus abýssum ínvocat*. Evidence added to confríngere, oppróbrium / exprobráre, tabernáculum, lácrimæ / fletus, oblivísci (the -eris row), tribuláre, conturbáre, exsultáre, invocáre, mandáre, confitéri (the noun), and the two refrain rows. Refrain (41:6, 6b, 11b, 12) and 41:10 unchanged since v1 and identical with ps042 (42:5 second colon, 42:6, 42:2's *dum* clause)."
+    }
+  ]
+}

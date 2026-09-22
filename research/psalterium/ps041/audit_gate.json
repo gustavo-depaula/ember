@@ -1,0 +1,27 @@
+[
+  {
+    "step": "latinist",
+    "file": "critic/v2.latinist.json",
+    "note": "Gate, claude-opus-5-5, fresh context, on draft 2 (sha matches prayed.vos.json). No major. «A faithful, close rendering: every clause of the Latin is present, the Septuagintal oddities are kept, and tense, person and voice are respected throughout.» Two minors, both repeated from v1 and refused again; every draft-2 change (41:3 *irei*, 41:7 order and comma, 41:11 *se quebram*) passed.",
+    "outcomes": [
+      {
+        "verse": "41:4",
+        "remark": "minor: *panes* singularized → 'os meus pães'",
+        "outcome": "refused",
+        "decision": "panes",
+        "reason": "As v1 and 40:10: *pão* is the Portuguese of food, *pães* is heard as loaves; number is grammar (D2, D29). Option 3."
+      },
+      {
+        "verse": "41:7",
+        "remark": "minor: *Hermóniim* plural → 'e dos Hermons'",
+        "outcome": "refused",
+        "decision": "hermon",
+        "reason": "As v1: the Latin transliterates a name and a Latin reader hears a name. Option 3."
+      }
+    ]
+  },
+  {
+    "step": "glossary",
+    "note": "Rows added (open): epulári, abýssus / cataráctæ, fluctus, excélsa (noun), sitíre ad, panes (lácrimæ panes), módicus, contristári / incédere, effúndere ánimam in me, ad meípsum, apud me (first person), Hermóniim; formula row *Abýssus abýssum ínvocat*. Evidence added to confríngere, oppróbrium / exprobráre, tabernáculum, lácrimæ / fletus, oblivísci (the -eris row), tribuláre, conturbáre, exsultáre, invocáre, mandáre, confitéri (the noun), and the two refrain rows. Refrain (41:6, 6b, 11b, 12) and 41:10 unchanged since v1 and identical with ps042 (42:5 second colon, 42:6, 42:2's *dum* clause)."
+  }
+]

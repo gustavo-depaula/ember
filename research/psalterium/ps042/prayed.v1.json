@@ -1,0 +1,149 @@
+{
+  "psalm": 42,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "42:1": "Julgai-me, Deus, e {discerne} a minha causa {gente}, * arrancai-me do homem iníquo e enganador.",
+    "42:2": "Porque vós sois, Deus, a minha força: * por que me {repulisti}? e por que ando triste, {dum}?",
+    "42:3": "Enviai a vossa luz e a vossa verdade: * elas me {deduxerunt}, e me {adduxerunt} ao vosso monte santo, e {tabernacula}.",
+    "42:4": "E {introibo1} o altar de Deus: * {introibo2} o Deus que alegra a minha juventude.",
+    "42:5": "Eu vos darei graças com a cítara, Deus, meu Deus: * por que estás triste, {anima}? e por que me perturbas?",
+    "42:6": "Espera em Deus, porque ainda lhe darei graças: * {salutare}."
+  },
+  "decisions": [
+    {
+      "id": "discerne",
+      "refs": ["42:1"],
+      "latin": "et discérne causam meam",
+      "kind": "word",
+      "why": "discérnere is to set apart, divide off (L&S), and here, with *de gente*, to decide the case by separating it (DRB 'distinguish my cause from'; MS1932 *separa a minha causa*; the Greek δίκασον τὴν δίκην is 'plead / judge my case'). The cognate *discerni* and DRB's *distingui* are both bare *vós* imperatives of -ir verbs that equal the first-person past ('I discerned', 'I distinguished') — rule 3 bans them. *Separai* is an -ar verb, safe, and keeps the Latin's picture of the one case taken out from the other.",
+      "options": [
+        {"label": "separai", "forms": {"discerne": "separai"}, "note": "Ruling; MS1932's verb.", "from": "MS1932"},
+        {"label": "distingui", "forms": {"discerne": "distingui"}, "note": "DRB 'distinguish'; refused — bare -ir imperative = 'I distinguished' (rule 3).", "from": "DRB"},
+        {"label": "discerni", "forms": {"discerne": "discerni"}, "note": "the cognate; refused on the same ban.", "from": "draft"},
+        {"label": "defendei", "forms": {"discerne": "defendei"}, "note": "the Greek and Hebrew 'plead my cause'; not the Latin's picture of separating.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "gente",
+      "refs": ["42:1"],
+      "latin": "de gente non sancta",
+      "kind": "word",
+      "why": "gens → *nação* (gentes → nações, glossary; 32:12 *Beáta gens* → *Bem-aventurada a nação*); ἔθνους; DRB 'the nation that is not holy'. The cognate *gente* is barred by the ear: in Brazil *da gente* is 'from us' — *separai a minha causa da gente* would be heard as 'separate my cause from ours'. sanctus → *santo* (ὅσιος; glossary), the Latin's litotes *non sancta* kept rather than resolved to *ímpia* (DM1962, from the Hebrew). The Latin has no article; Portuguese needs one, and the indefinite keeps it as open as *de gente* (MS1932 *duma gente*).",
+      "options": [
+        {"label": "de uma nação não santa", "forms": {"gente": "de uma nação não santa"}, "note": "Ruling.", "from": "glossary"},
+        {"label": "da nação não santa", "forms": {"gente": "da nação não santa"}, "note": "DRB's article; makes one nation definite, which the Latin does not.", "from": "DRB"},
+        {"label": "de uma gente não santa", "forms": {"gente": "de uma gente não santa"}, "note": "MS1932; the cognate; *gente* in Brazil is 'people, folks' or 'we'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "repulisti",
+      "refs": ["42:2"],
+      "latin": "quare me repulísti?",
+      "kind": "glossary",
+      "why": "repéllere without *a* (ἀπωθέω, 'thrust away, cast off'); the glossary's *afastar* is for amovére / repéllere *a* (and 42:2 is named there as not settled by it); *rejeitar* is reprobáre's (117:22). The cognate *repelir* is plain, is MS1932's, and is free. 43:10, 59:3, 59:12, 73:1, 77:60, 77:67, 87:15, 88:39, 107:12 have the same verb (grep); proposed as a row. A -ir verb, but here it is a past (*repelistes*), not an imperative.",
+      "options": [
+        {"label": "repelistes", "forms": {"repulisti": "repelistes"}, "note": "Ruling; MS1932 *repeliste*.", "from": "MS1932"},
+        {"label": "rejeitastes", "forms": {"repulisti": "rejeitastes"}, "note": "DRB 'cast me off'; *rejeitar* is reprobáre's.", "from": "DRB"},
+        {"label": "afastastes", "forms": {"repulisti": "afastastes"}, "note": "the repéllere *a* row's verb; weaker than a thrust.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "dum",
+      "refs": ["42:2"],
+      "latin": "dum afflígit me inimícus",
+      "kind": "order",
+      "why": "The Latin puts the enemy last. Portuguese allows it after *enquanto* (MS1932 *enquanto me aflige o inimigo*), but it is the literary order; the natural one ends on *aflige*, a paroxytone, as the Latin's *inimícus*. Order is the ear's (D2). The same clause closes 41:10 (with *contristátus*), which should read the same.",
+      "options": [
+        {"label": "enquanto o inimigo me aflige", "forms": {"dum": "enquanto o inimigo me aflige"}, "note": "Ruling: natural order.", "from": "draft"},
+        {"label": "enquanto me aflige o inimigo", "forms": {"dum": "enquanto me aflige o inimigo"}, "note": "the Latin's order; MS1932.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "deduxerunt",
+      "refs": ["42:3"],
+      "latin": "ipsa me deduxérunt, et adduxérunt",
+      "kind": "grammar",
+      "why": "The Latin has perfects, as the Greek has aorists (ὡδήγησαν … ἤγαγον); DRB 'they have conducted me, and brought me'. MS1932 turns them to futures (*me conduzirão e me levarão*), the Hebrew's sense (jussive/imperfect) — not taken (rule 1): the Latin prays 'send them forth' because they have already led. dedúcere → *guiar* (D22; the row names 42:3). *ipsa* (neuter plural, light and truth) → *elas*.",
+      "options": [
+        {"label": "guiaram", "forms": {"deduxerunt": "guiaram"}, "note": "Ruling: the Latin's tense, D22's verb.", "from": "glossary"},
+        {"label": "guiarão", "forms": {"deduxerunt": "guiarão"}, "note": "MS1932's future (the Hebrew's sense); refused, rule 1.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "adduxerunt",
+      "refs": ["42:3"],
+      "latin": "et adduxérunt in montem sanctum tuum",
+      "kind": "word",
+      "why": "addúcere, 'lead to, bring to'. *levar* is the plainer of two faithful verbs and is MS1932's word for this verb; *conduzir* (the dedúci in row) is heavier and in this verse would sit beside *guiar* as its near-synonym. Once in the psalter (grep).",
+      "options": [
+        {"label": "levaram", "forms": {"adduxerunt": "levaram"}, "note": "Ruling; MS1932 *levarão*.", "from": "MS1932"},
+        {"label": "conduziram", "forms": {"adduxerunt": "conduziram"}, "note": "the literal tier's; heavier.", "from": "draft"},
+        {"label": "trouxeram", "forms": {"adduxerunt": "trouxeram"}, "note": "DRB 'brought'; puts the speaker already on the mountain.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "tabernacula",
+      "refs": ["42:3"],
+      "latin": "et in tabernácula tua",
+      "kind": "glossary",
+      "why": "tabernáculum → *tenda* (row, open; applied to God's tent at 14:1, 26:5, 30:21b); the plural is the Latin's (τὰ σκηνώματά). In this verse, said at the foot of the altar, a Brazilian ear may miss *tabernáculos* (MS1932), which in Brazil is the tabernacle of a church — the reason the row refused it.",
+      "options": [
+        {"label": "às vossas tendas", "forms": {"tabernacula": "às vossas tendas"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "aos vossos tabernáculos", "forms": {"tabernacula": "aos vossos tabernáculos"}, "note": "MS1932; the row's refused option.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "introibo",
+      "refs": ["42:4"],
+      "latin": "Et introíbo ad altáre Dei: * ad Deum, qui lætíficat",
+      "kind": "word",
+      "why": "introíre → *entrar* (23:7 *introíbit Rex glóriæ* → *entrará*, 25:4 *non introíbo* → *não entrarei*); εἰσελεύσομαι πρός, DRB 'I will go in to the altar of God: to God who…'. The Latin repeats *ad … ad*; the second colon hangs on the first. Portuguese *entrar* takes *em*, not *a*; *até* says 'in, as far as', and repeated keeps the Latin's *ad … ad*, so that the second colon still reads alone — as it must: the verse is the antiphon at the foot of the altar, split between priest (*Introíbo ad altáre Dei*) and server (*Ad Deum, qui lætíficat juventútem meam*) (Ordo.txt), and the antiphon of the Sexagesima Communion (Quadp2-0). MS1932 *me aproximarei do* changes the verb. *Subirei ao altar* may be what Portuguese hand-missals print for this line — **not verified**, and *subir* is another image (going up), not the Latin's going in; it is not offered as an option for that reason, only recorded.",
+      "options": [
+        {"label": "entrarei até … até", "forms": {"introibo1": "entrarei até", "introibo2": "até"}, "note": "Ruling; DRB 'go in to … to'.", "from": "DRB"},
+        {"label": "entrarei ao … ao", "forms": {"introibo1": "entrarei ao", "introibo2": "ao"}, "note": "the Latin's *ad* as *a*; *entrar a* is not Brazilian Portuguese for going into a place.", "from": "draft"},
+        {"label": "me aproximarei do … do", "forms": {"introibo1": "me aproximarei do", "introibo2": "do"}, "note": "MS1932; appropinquáre's verb (glossary), not introíre's.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "anima",
+      "refs": ["42:5"],
+      "latin": "quare tristis es, ánima mea?",
+      "kind": "glossary",
+      "why": "The refrain of Pss 41–42 (41:6, 41:11b, 42:5; one psalm in the Hebrew). The soul is addressed, a single addressee → *tu* (*estás*, *perturbas*, and 42:6 *Espera*). The Latin has no *o*: the glossary's working rule for the vocative is no *ó* unless the Latin has it. A vocative drops the article (*minha alma*, not *a minha alma*). MS1932 *minha alma*; DRB 'O my soul'. Proposed as a formula row for Ps 41, translated in parallel.",
+      "options": [
+        {"label": "minha alma", "forms": {"anima": "minha alma"}, "note": "Ruling; MS1932.", "from": "MS1932"},
+        {"label": "ó minha alma", "forms": {"anima": "ó minha alma"}, "note": "DRB 'O my soul'; the *ó* is not in the Latin.", "from": "DRB"},
+        {"label": "alma minha", "forms": {"anima": "alma minha"}, "note": "the Latin's order; literary.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "salutare",
+      "refs": ["42:6"],
+      "latin": "salutáre vultus mei, et Deus meus",
+      "kind": "grammar",
+      "why": "A bare apposition to *illi* (= God): he is 'the salvation of my face, and my God' (σωτήριον τοῦ προσώπου μου ὁ θεός μου; DRB 'the salvation of my countenance, and my God'). salutáre → *salvação* (D6), vultus → *rosto* (glossary). MS1932 supplies a relative (*a ele que é a salvação do meu rosto*), which explains; the Latin's apposition is kept, since *lhe* two words before names him. *Deus meus* is not a vocative here (nominative in apposition), so *o meu Deus*, with the article.",
+      "options": [
+        {"label": "a salvação do meu rosto, e o meu Deus", "forms": {"salutare": "a salvação do meu rosto, e o meu Deus"}, "note": "Ruling; DRB.", "from": "DRB"},
+        {"label": "a ele, a salvação do meu rosto, e o meu Deus", "forms": {"salutare": "a ele, a salvação do meu rosto, e o meu Deus"}, "note": "the pronoun repeated so the apposition is heard; *a ele* is not in the Latin.", "from": "draft"},
+        {"label": "a ele que é a salvação do meu rosto, e o meu Deus", "forms": {"salutare": "a ele que é a salvação do meu rosto, e o meu Deus"}, "note": "MS1932; explains.", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "42:1": "judicáre → *julgar*, bare (row; 5:11a *julgai-os, Deus*; 7:9b *Julgai-me, Senhor*); the vocative *Deus* without *ó*, as 5:11a and 21:21. *causa* keeps its own word (the judicáre row notes 42:1). éruere with a source → *arrancar* (row; 31:7, 36:40, 38:9); the verb moved first (natural order, D2), so that the first word of the second colon is the imperative. dolósus → *enganador* (row; 5:7b *o homem de sangue e enganador*), iníquus → *iníquo* (kept apart from *ímpio*). The Introit of Passion Sunday (Quad5-0) quotes the verse with *éripe me* and adds *quia tu es Deus meus et fortitúdo mea* — another wording; the psalm keeps its own.",
+    "42:2": "Quia tu es → *Porque vós sois* (30:4 *Porque vós sois a minha força*). fortitúdo → *força* (row; 17:2, 30:4, 117:14). quare → *por que* (2:1, 21:2). incédere → *andar* (37:7 *contristátus ingrediébar* → *eu andava entristecido*); tristis → *triste*, kept apart from 41:10's *contristátus* (→ *entristecido*, as 34:14, 37:7), which otherwise has the same second colon. afflígere → *afligir* (row).",
+    "42:3": "emíttere → *enviar* (MS1932 *Envia*; DRB 'send forth'); the Transfiguration versicle (Sancti/08-06) quotes the first colon alone, and Passion Sunday's Gradual and Quad5-2's the whole — it reads alone. véritas → *verdade* (row). mons sanctus → *monte santo*, adjective after (row; 14:1 *no vosso monte santo*).",
+    "42:4": "lætificáre → *alegrar* (row, open; 18:9, 29:2). juvéntus → *juventude* (24:7 *Das faltas da minha juventude*). Corpus Christi's antiphon (horas Pent01-4) adapts the verse (*sumam Christum, qui rénovat juventútem meam*) — not the psalm's wording.",
+    "42:5": "confitéri → *dar graças* (D5); *Confitébor tibi* → *Eu vos darei graças* (9:2, 34:18, 117:21). cíthara → *cítara* (row; 32:2). *Deus, Deus meus* → *Deus, meu Deus* (21:2 formula). conturbáre → *perturbar* (row). The second colon is the refrain of Ps 41 (41:6, 41:11b) — see decision `anima` and the glossary formula row.",
+    "42:6": "= 41:6 (second line) and 41:12, word for word; Ps 41 should copy it. *Spera* (to the soul, *tu*) → *Espera em* (speráre in → *esperar em*, D36; 36:3 *Espera no Senhor*). adhuc → *ainda*. *confitébor illi* → *lhe darei graças* (27:7b *lhe darei graças*)."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm42.txt, 6 prayed verses (42:1–42:6; no titulus, D7). One mediant per verse, no flex. Uses by grep (ps032/uses.py): the whole psalm is said at the foot of the altar in the traditional Mass, verse by verse alternately between priest and server, with the antiphon *Introíbo ad altáre Dei. — Ad Deum, qui lætíficat juventútem meam* split at the mediant of 42:4 (missa Ordo.txt, Ordo67, OrdoA, OrdoS, Holy Saturday Quad6-6); Passion Sunday Introit and Gradual (Quad5-0, with *éripe me* and an added *Deus meus*), Quad5-2 gradual verse, Sexagesima Communion (Quadp2-0: 42:4 whole), Transfiguration versicle (horas Sancti/08-06: 42:3a), Corpus Christi antiphon (horas Pent01-4, adapted). So every colon must read alone. Pss 41 and 42 are one psalm in the Hebrew (Heb 42–43): 42:5b = 41:6a = 41:11b; 42:6 = 41:6b = 41:12; 42:2b is 41:10b with *tristis* for *contristátus*. Ps 41 had no prayed.json when this draft was made, so the refrain is proposed here as a glossary formula row."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps042.md (Latin, LXX, WLC, DRB, MS1932, DM1962). DO's Portuguese not used (D12). Formulas checked with ps038/xref.py and ps005/grep_latin.py. Rulings applied: D5 (confitéri → dar graças, twice), D6 (salutáre), D22 (dedúcere → guiar, the row names 42:3), D36 (speráre in → esperar em), D19 not met. Rows applied: judicáre, éruere (with a source → arrancar), dolósus, fortitúdo, afflígere, tabernáculum → tenda, mons sanctus, lætificáre, cíthara, conturbáre, vultus. Latin kept against the Hebrew/MS1932: 42:3 perfects *guiaram … levaram* (MS1932 futures). Rule 3 decided 42:1 *separai* (*distingui*, *discerni* are 'I distinguished / discerned'). Tests for the readers: *de uma nação não santa*, *me repelistes*, *às vossas tendas*, *entrarei até o altar … até o Deus*, *a salvação do meu rosto, e o meu Deus*, the refrain's *minha alma*."},
+    {"step": "checks", "note": "Draft 1: hard pass. Length: 42:2 second colon +3 (two questions and a clause; *enquanto* for *dum*), 42:3 second −3; accepted. No rhyme flags. Cadences: oxytone finals where the Latin is paroxytone at 42:4a (*Deus*), 42:5a (*meu Deus*), 42:6b (*o meu Deus*) — the Latin's own word at the cadence; allowed by rule 4."},
+    {"step": "readers", "note": "codex.py not called (Codex out of credits since Ps 37; AGENT-BRIEF step 5). Latinist, stylist and ambiguity readers for draft 1 handed to the coordinator, to be run as fresh-context readers on prayed.vos.json / blind/prayed.vos.json."}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "terms": [
+    "| epulári | banquetear-se (*o som de quem se banqueteia*) | open | Ps 41:5b, the participle *epulántis* as a relative (*quem*); ἑορτάζοντος 'keeping festival', the Latin's image is the table. Unknown to the blind reader; *o som de quem está em festa* option 2. 67:4 *epuléntur*. |",
+    "| abýssus / cataráctæ | abismo / cataratas (*O abismo invoca o abismo, * à voz das vossas cataratas*) | open | Ps 41:8; *cataratas* heard as waterfalls (the blind reader), the sense. abýssus recurs 32:7, 35:7, 76:17, 103:6, 106:26, 148:7. |",
+    "| fluctus | ondas | open | Ps 41:8b *fluctus tui* → *as vossas ondas*; 87:8, 92:4 (*elatiónes maris*), 106:25, 29. |",
+    "| excélsa (neuter plural noun) | alturas (*Todas as vossas alturas*) | open | Ps 41:8b; 17:34 *super excélsa* → *sobre as alturas*. The Greek μετεωρισμοί are the sea's swells (MS1932 *vagas*); the Latin says heights, kept; *vagas altas* option 2. |",
+    "| sitíre ad | ter sede de (*A minha alma teve sede do Deus forte e vivo*) | open | Ps 41:3, the perfect kept (*teve*, not MS1932 *tem*); 62:2 *sitívit in te ánima mea*, 142:6. |",
+    "| panes (*lácrimæ panes*) | o meu pão (*As minhas lágrimas foram o meu pão*) | open | Ps 41:4; the plural and the dative *mihi* made the Portuguese idiom (D2, D29; 40:10 *comia o meu pão*, 79:6 *pane lacrimárum*, 101:10). The Latinist twice asked *os meus pães* (option 3). |",
+    "| módicus | pequeno (*desde o pequeno monte*) | open | Ps 41:7 *a monte módico*; 36:16 *módicum justo*, 8:6 *paulo minus*. |",
+    "| contristári / incédere | entristecer-se / andar (*por que ando entristecido*) | open | Ps 41:10 *contristátus incédo*; 42:2 *tristis incédo* → *ando triste* (the adjective's own word). 37:7 *contristátus ingrediébar* → *andava entristecido*. |",
+    "| effúndere ánimam (*effúdi in me ánimam meam*) | derramar a alma (*derramei em mim a minha alma*) | open | Ps 41:5; *in me* open between 'within' and 'upon' (ἐπ᾿ ἐμέ), kept *em mim*; *dentro de mim* option 2. The blind reader heard all three senses. 61:9 *effúndite coram illo corda vestra* (the heart), 141:3. |",
+    "| ad meípsum | dentro de mim mesmo (after the verb) | open | Ps 41:7 *Ad meípsum ánima mea conturbáta est* → *A minha alma está perturbada dentro de mim mesmo* (the stylist's order; *mesmo* for -ipsum kept); kept apart from 41:5 *in me* → *em mim*. 142:4 *in me*. |",
+    "| apud (first person: *apud me*) | comigo (*Comigo está a oração*) | open | Ps 41:9b, verbless (copula supplied); the apud row's *junto de* (21:26) is for other persons. |",
+    "| Hermóniim / Hermon | Hermon (*e do Hermon*) | open | Ps 41:7, the transliterated Hebrew plural heard as a name; *de Hermoniim*, *dos Hermons* options (the Latinist twice asked the plural). 88:13 *Thabor et Hermon*, 132:3 *ros Hermon*. |"
+  ],
+  "formulas": [
+    "| *Abýssus abýssum ínvocat, * in voce cataractárum tuárum* (41:8; no liturgical use in DO by grep — kept as a formula for the quotation) | *O abismo invoca o abismo, * à voz das vossas cataratas* | open — Ps 41; *invocar* (row) keeps the verb of calling on God; MS1932 *chama outro abismo* adds *outro*. |"
+  ],
+  "append": [
+    {"row": "| confríngere |", "text": "Ps 41:11 *Dum confringúntur ossa mea* → *Enquanto se quebram os meus ossos* (the pronominal passive, the stylist's; *são quebrados* option)."},
+    {"row": "| oppróbrium / exprobráre |", "text": "Ps 41:11 *exprobravérunt mihi* → *afrontaram-me* (heard as insulted, the blind reader)."},
+    {"row": "| tabernáculum |", "text": "Ps 41:5 *in locum tabernáculi admirábilis* → *ao lugar da tenda admirável*; the blind reader heard tent first (*casa de Deus* beside it)."},
+    {"row": "| lácrimæ / fletus |", "text": "Ps 41:4 *lácrimæ meæ* → *as minhas lágrimas*."},
+    {"row": "| oblivísci, *obliviscéris* (12:1) |", "text": "Ps 41:10 *Quare oblítus es mei?* → *Por que me esquecestes?* (genitive object → direct)."},
+    {"row": "| tribuláre |", "text": "Ps 41:11 *qui tríbulant me* → *que me atribulam* — unknown to the blind reader again; kept."},
+    {"row": "| conturbáre |", "text": "Ps 41:6, 11b (refrain) *contúrbas me* → *me perturbas*; 41:7 *conturbáta est* → *está perturbada*."},
+    {"row": "| exsultáre, exsultátio / lætári |", "text": "Ps 41:5b *In voce exsultatiónis* → *Com voz de exultação* (unknown to the blind reader; kept)."},
+    {"row": "| invocáre |", "text": "Ps 41:8 *Abýssus abýssum ínvocat* → *O abismo invoca o abismo*."},
+    {"row": "| mandáre |", "text": "Ps 41:9 *mandávit Dóminus misericórdiam suam* → *o Senhor mandou* — with a thing as object *dar ordem* cannot stand (as 7:7b); *mandar* holds 'command' and 'send'."},
+    {"row": "| confitéri (to God) |", "text": "Ps 41:5b the noun, *exsultatiónis, et confessiónis* → *de exultação e de ação de graças* (the family beside the refrain's *darei graças*); the stylist's *louvor* (laus's) option 2."}
+  ]
+}

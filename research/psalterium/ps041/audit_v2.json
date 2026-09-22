@@ -1,0 +1,27 @@
+[
+  {"step": "latinist", "file": "critic/v1.latinist.json", "note": "Draft 1, read by claude-opus-5-5 (fresh context; Codex out of credits). No major; two minors, both on number. «A close, faithful rendering: tenses, persons and the Latin's images are preserved, and the pointing marks match the Latin throughout.» Both refused.",
+   "outcomes": [
+     {"verse": "41:4", "remark": "minor: *panes* singularized → 'os meus pães'", "outcome": "refused", "decision": "panes", "reason": "*comer / ter por pão* is the Portuguese idiom; *os meus pães* is heard as loaves; number is grammar (D2, D29), as 40:10. Option 3."},
+     {"verse": "41:7", "remark": "minor: *Hermóniim* plural reduced → 'e dos Hermons'", "outcome": "refused", "decision": "hermon", "reason": "The Latin transliterates a name (Ερμωνιιμ); it does not translate a plural, and a Latin reader hears a name. *dos Hermons* is option 3, *de Hermoniim* option 2."}
+   ]},
+  {"step": "stylist", "file": "critic/v1.stylist.json", "note": "Draft 1, read by claude-opus-5-5 (fresh context). Four verses remarked; best 41:8, worst 41:7. «The psalm sounds plain and reverent, and the refrain sits well in the mouth … The problems are local ones.» Four taken (one in part), one refused.",
+   "outcomes": [
+     {"verse": "41:3", "remark": "*chegarei, e aparecerei* stumbles; *chegarei* weaker → 'quando irei e aparecerei'", "outcome": "taken", "decision": "veniam"},
+     {"verse": "41:5b", "remark": "*exultação e de ação* tongue-twister; three words for one → 'e de louvor'", "outcome": "option", "decision": "confessio", "reason": "*louvor* is laus's; *ação de graças* is the noun of D5's verb, heard three verses later in the refrain. Option 2."},
+     {"verse": "41:7", "remark": "*mim mesmo a minha* muddy; translated phrase at the head → 'A minha alma está perturbada dentro de mim'", "outcome": "taken", "decision": "meipsum", "reason": "In part: his order taken; *mesmo* (-ipsum) kept. His line without *mesmo* is option 3."},
+     {"verse": "41:7", "remark": "*e do Hermon* hangs; *desde … desde* crowded → comma after *Jordão* removed", "outcome": "taken", "decision": "hermon"},
+     {"verse": "41:11", "remark": "*são quebrados* flat → 'Enquanto se quebram os meus ossos'", "outcome": "taken", "decision": "confringuntur"}
+   ]},
+  {"step": "ambiguity", "file": "critic/v1.ambiguity.json", "note": "Draft 1, blind, read by claude-opus-5-5 (fresh context). 25 items, 5 unknown words (Hermon, atribulam, exultação, banqueteia, amparo). Heard rightly: *enquanto me dizem*, *Lembrei-me destas coisas* (the taunts), *passarei* (hope), the refrain addressed to the soul and *lhe darei graças* to God, *O abismo invoca o abismo*, *cataratas* (waterfalls), *o seu cântico* (God's, open as the Latin), *Comigo está a oração*, *afrontaram-me* (insulted).",
+   "outcomes": [
+     {"verse": "41:5", "remark": "*derramei em mim a minha alma* opaque (grief within / refilled / poured to God)", "outcome": "refused", "decision": "inme", "reason": "The Latin's *in me* is open between 'within' and 'upon' (ἐπ᾿ ἐμέ); the openness is kept. *dentro de mim* is option 2."},
+     {"verse": "41:5", "remark": "*tenda* may be heard as a shop", "outcome": "refused", "reason": "The tabernáculum row (14:1 and after); heard as tent first, helped by *casa de Deus*."},
+     {"verse": "41:6b", "remark": "*a salvação do meu rosto* obscure", "outcome": "refused", "decision": "salutare", "reason": "The Latin's image (vultus → rosto), heard as a title of God; Ps 42:6 has the same words."},
+     {"verse": "41:7", "remark": "*desde* may suggest time", "outcome": "refused", "reason": "Heard as place first; *de terra … a monte* are places."},
+     {"verse": "41:8b", "remark": "*vossas alturas* sits oddly with *passaram sobre mim*", "outcome": "refused", "decision": "excelsa", "reason": "The Latin says heights (*excélsa*), not the Greek's billows; *vagas altas* is option 2."},
+     {"verse": "41:5b", "remark": "*banqueteia*, *exultação* unknown", "outcome": "refused", "decision": "epulantis", "reason": "*exultação* is the exsultátio row's; *banquetear-se* keeps the table of *epulári*. *o som de quem está em festa* is option 2."},
+     {"verse": "41:11", "remark": "*atribulam*, *amparo* (41:9b), *Hermon* (41:7) unknown", "outcome": "refused", "reason": "tribuláre → atribular (row; the same report in Pss 3, 12, 22) and suscéptor → amparo (D19) are the glossary's; Hermon is the name."}
+   ]},
+  {"step": "revision", "version": 2, "note": "v2 (draft 1 kept as prayed.v1.json, prayed.v1.vos.json; script revise_v2.py): 41:3 *quando irei*; 41:7 *A minha alma está perturbada dentro de mim mesmo … do Jordão e do Hermon*; 41:11 *Enquanto se quebram os meus ossos*. New decision `confringuntur`. The refrain (41:6, 6b, 11b, 12) unchanged, and checked identical with ps042/prayed.vos.json (42:5 second colon, 42:6); 41:10 *enquanto me aflige o inimigo* = 42:2."},
+  {"step": "checks", "note": "Draft 2: hard pass. 41:3 second colon now +2; 41:7 first +3, 41:9b first +4, 41:10 second +4, 41:5b second +3, 41:5 second −3; accepted as in draft 1. The -eus rhyme flags are the Latin's echo (Deus … Dei)."}
+]

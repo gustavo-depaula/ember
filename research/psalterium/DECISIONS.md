@@ -378,6 +378,25 @@ Readers again fresh-context Claude Opus (as D39).
 
 Cost of reversing: each is one glossary row and one decision in Ps 39 or 40.
 
+## D42 — Words settled from Pss 41–42 — Claude, for review
+
+Readers again fresh-context Claude Opus (as D39). The two psalms were made in parallel and share their refrain word for word: 41:6, 41:6b, 41:11b, 41:12 = 42:5, 42:6; 41:10 = 42:2 *enquanto me aflige o inimigo*.
+
+- **The refrain formulas are settled:**
+  - *Por que estás triste, minha alma? * e por que me perturbas?*
+  - *Espera em Deus, porque ainda lhe darei graças: * a salvação do meu rosto, e o meu Deus*
+  - *O abismo invoca o abismo, * à voz das vossas cataratas*
+- ***Introíbo ad altáre Dei → E entrarei até o altar de Deus: * até o Deus que alegra a minha juventude*** is settled, held against a Latinist minor and the stylist, who both asked for *entrarei ao*. *Entrar a* is not how Brazilians say going into a place. Each half reads alone, since priest and server say one half each. **Flagged for Gustavo:** this is the most-said line of the psalm, and his ear should decide between *entrarei até*, *entrarei ao* and *subirei ao*.
+- ***discérnere → separar*** (42:1): *distingui* and *discerni* would also be heard as "I distinguished / discerned" (rule 3). ***repéllere* without *a* → *repelir***, kept apart from *afastar* and *rejeitar*. The blind reader didn't know *repelistes*; Ps 43:10 will test it again. ***addúcere → levar***.
+- ***quia* → *pois*** only where *por que* questions follow (42:2). Otherwise *porque* stays the default.
+- Ps 41:
+  - ***epulári → banquetear-se***, ***abýssus / cataráctæ → abismo / cataratas***, ***fluctus → ondas***, and ***excélsa → alturas***: the Latin says heights, the Greek's sea swells stay an option.
+  - ***sitíre ad → ter sede de***, keeping the perfect tense. ***panes → o meu pão***, the idiom, as at 40:10 (D29).
+  - ***módicus → pequeno***, ***contristári / incédere → entristecer-se / andar***, ***effúndere ánimam → derramar a alma*** with *in me → em mim*, ***ad meípsum → dentro de mim mesmo***.
+  - ***Hermóniim → Hermon***: the Latin carries over a name, so the Latinist's plural stays an option.
+
+Cost of reversing: each is one glossary row and one decision in Ps 41 or 42. The refrains are four verses and one.
+
 ---
 
 ## How agents decide

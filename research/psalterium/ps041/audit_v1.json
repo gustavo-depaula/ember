@@ -1,0 +1,5 @@
+[
+  {"step": "checks", "note": "Draft 1: hard pass. Length: 41:9b first colon +4 (the copula *está* supplied and *Comigo* for *Apud me*), 41:10 second +4 (*entristecido*, 37:7's word), 41:3 second +3, 41:5b second +3 (*quem se banqueteia* for one participle), 41:7 first +3, 41:11 first +3, 41:5 second −3; accepted. Rhyme flags 41:2–5 (-eus): the finals are *Deus* four times, as the Latin's are *Deus … Dei … Deus tuus … Dei* — the echo is the Latin's, accepted. Cadences: oxytone finals on *Deus*, *mim*, allowed by rule 4."},
+  {"step": "glossary", "note": "Refrain rows proposed early (formulas, open) so that the Ps 42 agent, working in parallel, can copy them: *Quare tristis es…* and *Spera in Deo…*, with the near-twin 42:2 noted."},
+  {"step": "readers", "note": "codex.py not called (Codex out of credits since Ps 37; AGENT-BRIEF step 5). Latinist, stylist and ambiguity readers for draft 1 handed to the coordinator."}
+]
