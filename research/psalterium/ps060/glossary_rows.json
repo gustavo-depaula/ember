@@ -1,0 +1,30 @@
+{
+  "append": [
+    {"row": "| inténdere |", "text": "**Ps 60:2 *Exáudi, Deus, deprecatiónem meam: * inténde oratióni meæ* → *Escutai, Deus, a minha prece: * atendei à minha oração*** — the third of the four parallels; the opening = 54:2 (rule 6); no reader remarked; the stylist's best line."},
+    {"row": "| deprecári / deprecátio |", "text": "Ps 60:2 *deprecatiónem meam* → *a minha prece* (at the mediant) — applied; no remark."},
+    {"row": "| tabernáculum |", "text": "**Ps 60:5 *Inhabitábo in tabernáculo tuo in sǽcula* → *Habitarei pelos séculos na vossa tenda*** (the row's named place; the adverb moved so the colon does not end on *séculos*); the blind reader heard a camping tent as well. The colon is the Tract of 01-31 and is adapted in an All Saints antiphon (11-01) — *tabernáculo* the option."},
+    {"row": "| protéctio / protégere |", "text": "Ps 60:5 *prótegar* → *serei protegido* (future passive; the Latinist at the gate noted a jussive reading is possible — the Greek is future); MS1932 *abrigar-me-ei* the option."},
+    {"row": "| tegmen |", "text": "**Ps 60:5 *in velaménto alárum tuárum* → *ao abrigo das vossas asas*** — *velaméntum* has the same Greek (σκέπη), so D15 joins it to this row. The Latinist asked twice (minor) for the concrete *sob o véu* / *sob a cobertura*; held, both options. 62:8b *in velaménto alárum tuárum* should copy."},
+    {"row": "| fortitúdo |", "text": "**Ps 60:4 *turris fortitúdinis* → *torre de força*** (no article, as the Latin; the Preces versicle *Esto nobis, Dómine, turris fortitúdinis*); passed every reader. *uma torre de força*, *torre forte*, *torre de fortaleza* options."},
+    {"row": "| *a fácie* (terræ) |", "text": "**Ps 60:4 *a fácie inimíci* → *diante do inimigo*** (= 43:17; also the response of the Prime Preces versicle, which reads alone). The Latinist (minor) asked *contra a face do inimigo*; held for 43:17, an option."},
+    {"row": "| dedúcere, *deduc me* |", "text": "**Ps 60:4 *Deduxísti me* → *Vós me guiastes*** (the stylist: the enclitic *Guiastes-me* at a verse head sounded bookish; a subject pronoun, D2); passed the gate."},
+    {"row": "| réddere |", "text": "**Ps 60:9 *ut reddam vota mea de die in diem* → *para pagar os meus votos de dia em dia*** — the formula held against the stylist's *cumprir* (a second request, after Ps 55); the blind reader heard vows first. The colon is the R. of the Prime Preces (*V. Sic psalmum dicam …*)."},
+    {"row": "| petra |", "text": "Ps 60:3 *in petra exaltásti me* → *sobre uma rocha me exaltastes* — copied from 26:6 as the row asked; the stylist's *sobre a rocha* refused."},
+    {"row": "| requírere (to seek) |", "text": "**Ps 60:8 *misericórdiam et veritátem ejus quis requíret?* → *a sua misericórdia e verdade, quem as procurará?*** — the row's verb keeps the Latin's openness (fathom / seek); the stylist asked *buscará* (*quǽrere*'s) and the blind reader found the point unclear. *sondará* (MS1932) the option."},
+    {"row": "| in sǽcula (alone) |", "text": "Ps 60:5 applied (*pelos séculos*, moved before *na vossa tenda* for the cadence)."},
+    {"row": "| conspéctus, *ante conspéctum suum* |", "text": "Ps 60:8 *Pérmanet in ætérnum in conspéctu Dei* → *Ele permanece para sempre na presença de Deus* (abiding before God, as 49:8); *à vista de Deus* the option."}
+  ],
+  "terms": [
+    "| turris | torre (*torre de força*) | open | Ps 60:4; 47:13, 121:7 *in túrribus* (grep) should follow. |",
+    "| anxiári | angustiar-se (*quando o meu coração se angustiava*) | open | Ps 60:3 (ἀκηδιάσαι); 142:3b *anxiátus est super me spíritus meus* is the one other place (grep). MS1932 *estava angustiado*. The stylist asked for the subject before the verb (taken). |",
+    "| de die in diem | de dia em dia | open | Ps 60:9 (ἡμέραν ἐξ ἡμέρας); 95:2 *annuntiáte de die in diem salutáre ejus* is the one other place (grep). No reader remarked; *dia após dia* the option. |",
+    "| adícere (days) | acrescentar a (*Acrescentareis dias aos dias do rei*) | open | Ps 60:7 (*Dies super dies regis adícies*, ἐφ᾿ ἡμέρας): draft 1 *dias sobre os dias* refused by the stylist as unidiomatic; *aos* (MS1932, DRB) taken as grammar; passed the gate. |",
+    "| Pérmanet (no subject, 60:8) | *Ele permanece* | open | Ps 60:8: the bare verb was heard by the blind reader as an imperative or with the next colon's subject; *Ele* (stylist, MS1932) still leaves open who. |"
+  ],
+  "formulas": [
+    "| *usque in diem generatiónis et generatiónis* (60:7 only, grep) | *até o dia de geração e geração* | open — Ps 60: draft 1 *até o dia de geração em geração* was refused by the Latinist and the stylist as a hybrid of the idiom; the letter taken; kept apart from the formula *in generatiónem et generatiónem → de geração em geração*. |",
+    "| *V. Esto nobis, Dómine, turris fortitúdinis. R. A fácie inimíci* (the Preces, Special/Preces.txt; from 60:4) | *Sede para nós, Senhor, torre de força. R. Diante do inimigo.* | open — Ps 60 (the response is the psalm's colon; the versicle's own V is not psalm text and was not translated here — a proposal) |",
+    "| *V. Sic psalmum dicam nómini tuo in sǽculum sǽculi. R. Ut reddam vota mea de die in diem* (60:9; the Prime Preces, Special/Preces.txt) | *Assim, pelos séculos dos séculos, entoarei um salmo ao vosso nome. R. Para pagar os meus votos de dia em dia.* | open — Ps 60; the stylist's order (the formula first, so the mediant is not a proparoxytone); each colon reads alone |",
+    "| *Factus es spes mea, Dómine: turris fortitúdinis a fácie inimíci. V. Inhabitábo in tabernáculo tuo in sǽcula: prótegar in velaménto alárum tuárum. V. Quóniam tu, Deus, exaudísti oratiónem meam: dedísti hereditátem timéntibus nomen tuum* (60:4–6; the Tract of 01-31, missa) | *… vos fizestes a minha esperança, Senhor: torre de força diante do inimigo …* — the psalm's colons | open — Ps 60; the Tract adds *Dómine* and drops *meus* |"
+  ]
+}

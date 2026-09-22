@@ -1,0 +1,218 @@
+{
+  "psalm": 60,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "60:2": "Escutai, Deus, a minha prece: * atendei à minha oração.",
+    "60:3": "Dos confins da terra a vós clamei: * {anxiaretur} o meu coração, sobre uma rocha me exaltastes.",
+    "60:4": "Guiastes-me, porque vos fizestes a minha esperança: * {turris} {afacie}.",
+    "60:5": "{v5a}: * {protegar} {velamento} das vossas asas.",
+    "60:6": "Porque vós, meu Deus, escutastes a minha oração: * destes {hereditatem} aos que temem o vosso nome.",
+    "60:7": "{dies}: * os seus anos, {generationis}.",
+    "60:8": "{permanet} para sempre {conspectu}: * {ejus}, quem as {requiret}?",
+    "60:9": "Assim entoarei um salmo ao vosso nome pelos séculos dos séculos: * para {reddam} os meus votos {dedie}."
+  },
+  "decisions": [
+    {
+      "id": "anxiaretur",
+      "refs": ["60:3"],
+      "latin": "dum anxiarétur cor meum",
+      "kind": "word",
+      "why": "*anxiári* (ἀκηδιάσαι, to be weighed down, faint) is in the psalter only here and at 142:3b *anxiátus est … spíritus meus* (grep); *angustiar-se* is the plain word for it, and MS1932 has *estava angustiado*. *dum* is 'while / when'; *quando* is shorter than *enquanto* in a colon that is already long. The verb comes before its subject so that the colon can be split where the Latin antiphon splits it (*Dum anxiarétur * Cor meum, in petra exaltásti me*, Pent02-5.txt, found by grep): *Quando se angustiava * o meu coração, sobre uma rocha me exaltastes*.",
+      "options": [
+        {"label": "quando se angustiava", "forms": {"anxiaretur": "quando se angustiava"}, "note": "Ruling; the verb first, as the Latin and its antiphon.", "from": "draft"},
+        {"label": "enquanto se angustiava", "forms": {"anxiaretur": "enquanto se angustiava"}, "note": "*dum* as duration; one syllable longer.", "from": "draft"},
+        {"label": "quando estava angustiado", "forms": {"anxiaretur": "quando estava angustiado"}, "note": "MS1932's wording; the state rather than the verb.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "turris",
+      "refs": ["60:4"],
+      "latin": "turris fortitúdinis",
+      "kind": "glossary",
+      "why": "*turris* → *torre* (47:13, 121:7 have the plural). *fortitúdo* → *força* (glossary row, 17:2, 117:14); MS1932 *fortaleza* is a fortress in Brazil, and *uma torre sólida* (MS1932) turns the noun into an adjective. No article, as the Latin, so that the colon is an apposition to *a minha esperança* and can stand alone as the response of the Preces versicle *Esto nobis, Dómine, turris fortitúdinis. R. A fácie inimíci* (Special/Preces.txt, grep) and in the Tract of 01-31 (*Factus es spes mea, Dómine: turris fortitúdinis a fácie inimíci*).",
+      "options": [
+        {"label": "torre de força", "forms": {"turris": "torre de força"}, "note": "Ruling; the Latin's genitive and the glossary's noun.", "from": "draft"},
+        {"label": "uma torre de força", "forms": {"turris": "uma torre de força"}, "note": "with the article Portuguese often puts on an apposition (MS1932 *uma torre*).", "from": "MS1932"},
+        {"label": "torre forte", "forms": {"turris": "torre forte"}, "note": "plainer; the genitive of quality becomes an adjective and *fortitúdo* is no longer heard as a noun.", "from": "draft"},
+        {"label": "torre de fortaleza", "forms": {"turris": "torre de fortaleza"}, "note": "the older devotional ring; *fortaleza* is heard as a fortress, so a fortress-tower.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "afacie",
+      "refs": ["60:4"],
+      "latin": "a fácie inimíci",
+      "kind": "glossary",
+      "why": "ἀπὸ προσώπου ἐχθροῦ: a tower that stands against the enemy's face, and shelters from it. The glossary's *a fácie* row gives *diante de* where *da face de* is not Portuguese (Ps 37:4, 37:6), and 43:17 *a fácie inimíci, et persequéntis* is *diante do inimigo e do que me persegue* — the same words, so the same wording (rule 6). DRB 'against the face of the enemy'; MS1932 *contra o inimigo*. As the Preces response it must read alone: *Diante do inimigo.*",
+      "options": [
+        {"label": "diante do inimigo", "forms": {"afacie": "diante do inimigo"}, "note": "Ruling; = 43:17.", "from": "glossary"},
+        {"label": "contra o inimigo", "forms": {"afacie": "contra o inimigo"}, "note": "MS1932; says the tower's use and drops the face.", "from": "MS1932"},
+        {"label": "diante da face do inimigo", "forms": {"afacie": "diante da face do inimigo"}, "note": "keeps the face (DRB); the literal tier's wording; long.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "v5order",
+      "refs": ["60:5"],
+      "latin": "Inhabitábo in tabernáculo tuo in sǽcula",
+      "kind": "order",
+      "why": "*in sǽcula* alone → *pelos séculos* (settled, D43). In the Latin order the colon would end on the proparoxytone *séculos* before the asterisk, which rule 4 asks to avoid; natural Portuguese order may move the adverb (D2), and then the colon ends on *tenda*. *inhabitáre → habitar* (36:29, 55:7).",
+      "options": [
+        {"label": "Habitarei pelos séculos na vossa tenda", "forms": {"v5a": "Habitarei pelos séculos {tabernaculo}"}, "note": "Ruling; the colon ends on a paroxytone.", "from": "draft"},
+        {"label": "Habitarei na vossa tenda pelos séculos", "forms": {"v5a": "Habitarei {tabernaculo} pelos séculos"}, "note": "the Latin's order; a proparoxytone before the asterisk.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "tabernaculo",
+      "refs": ["60:5"],
+      "latin": "in tabernáculo tuo",
+      "kind": "glossary",
+      "why": "The glossary row *tabernáculum → tenda* (open) names 60:5 as a place where it must serve God's tent; 14:1 *Senhor, quem habitará na vossa tenda?* is the closest line, and 30:21b, 42:3, 45:5 follow it. The colon is sung alone in the Tract of 01-31 (*Inhabitábo in tabernáculo tuo in sǽcula*) and adapted in an antiphon of All Saints (11-01, *habitábunt in tabernáculo tuo in sǽcula*); *tabernáculo* (MS1932) is kept as the option, as in the other psalms.",
+      "options": [
+        {"label": "na vossa tenda", "forms": {"tabernaculo": "na vossa tenda"}, "note": "Ruling; the glossary's word; = 14:1.", "from": "glossary"},
+        {"label": "no vosso tabernáculo", "forms": {"tabernaculo": "no vosso tabernáculo"}, "note": "MS1932; heard in Brazil as a church's tabernacle.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "protegar",
+      "refs": ["60:5"],
+      "latin": "prótegar",
+      "kind": "word",
+      "why": "Future passive of *protégere* → *proteger* (glossary, working; 16:8b, 19:2, 30:21b, 90:14). MS1932 turns it reflexive, *abrigar-me-ei*, which gives up the verb the Latin shares with those places and adds a mesóclise.",
+      "options": [
+        {"label": "serei protegido", "forms": {"protegar": "serei protegido"}, "note": "Ruling; the passive, as the Latin.", "from": "draft"},
+        {"label": "abrigar-me-ei", "forms": {"protegar": "abrigar-me-ei"}, "note": "MS1932; another verb, and a mesóclise.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "velamento",
+      "refs": ["60:5"],
+      "latin": "in velaménto alárum tuárum",
+      "kind": "glossary",
+      "why": "*velaméntum* is a covering or veil (L&S); here and at 62:8b only (grep). Its Greek is σκέπη, the same word as behind *tegmen* at 35:8 (*in tégmine alárum tuárum* → *ao abrigo das vossas asas*), and by D15's test (one Greek word, no difference of sense) the two may share *abrigo*. The glossary's *tegmen* row already refuses *sob a cobertura* (heard as a roof, an insurance, an icing) and keeps *sombra* for *umbra* (16:8b). *Sob o véu* keeps *velaméntum*'s own image, but a veil of wings is a strange picture. Cost: *protegido ao abrigo* sounds a little doubled; the Greek doubles it itself (σκεπασθήσομαι ἐν σκέπῃ).",
+      "options": [
+        {"label": "ao abrigo", "forms": {"velamento": "ao abrigo"}, "note": "Ruling; = 35:8 (σκέπη both).", "from": "glossary"},
+        {"label": "sob a cobertura", "forms": {"velamento": "sob a cobertura"}, "note": "DRB 'under the covert'; refused by the *tegmen* row.", "from": "DRB"},
+        {"label": "sob o véu", "forms": {"velamento": "sob o véu"}, "note": "*velaméntum*'s own sense; an odd image in Portuguese.", "from": "draft"},
+        {"label": "à sombra", "forms": {"velamento": "à sombra"}, "note": "MS1932; *sombra* is *umbra*'s word (16:8b).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "hereditatem",
+      "refs": ["60:6"],
+      "latin": "dedísti hereditátem timéntibus nomen tuum",
+      "kind": "grammar",
+      "why": "The Latin has no article; bare *destes herança* is not Portuguese. The indefinite (MS1932, DRB 'an inheritance') leaves it open which inheritance, as the Latin does; the definite would point at one already known. The colon is sung alone in the Tract of 01-31 and in the All Saints antiphon (11-01).",
+      "options": [
+        {"label": "uma herança", "forms": {"hereditatem": "uma herança"}, "note": "Ruling; MS1932, DRB.", "from": "MS1932"},
+        {"label": "a herança", "forms": {"hereditatem": "a herança"}, "note": "definite; the Promised Land or the heavenly inheritance heard at once.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "dies",
+      "refs": ["60:7"],
+      "latin": "Dies super dies regis adícies",
+      "kind": "word",
+      "why": "ἡμέρας ἐφ᾿ ἡμέρας: days *upon* the king's days. *sobre* keeps the Latin's preposition and its picture of days heaped on days; MS1932 and DRB say *aos dias* ('add days to the days'), which is the sense in plainer grammar. The verb comes first, as Portuguese orders it; the colon ends on *rei*. *rex* lower case, as the DO Latin prints it.",
+      "options": [
+        {"label": "Acrescentareis dias sobre os dias do rei", "forms": {"dies": "Acrescentareis dias sobre os dias do rei"}, "note": "Ruling; *super* kept.", "from": "draft"},
+        {"label": "Acrescentareis dias aos dias do rei", "forms": {"dies": "Acrescentareis dias aos dias do rei"}, "note": "MS1932, DRB; the plainer grammar, the preposition lost.", "from": "MS1932"},
+        {"label": "Dias sobre os dias do rei acrescentareis", "forms": {"dies": "Dias sobre os dias do rei acrescentareis"}, "note": "the Latin's order; an inversion for its own sake in Portuguese (rule 5).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "generationis",
+      "refs": ["60:7"],
+      "latin": "annos ejus usque in diem generatiónis et generatiónis",
+      "kind": "ambiguity",
+      "why": "The colon has no verb: *annos* is still the object of *adícies*, and the Portuguese keeps the ellipsis. The phrase is the only *in diem generatiónis et generatiónis* in the psalter (grep); elsewhere *in generatiónem et generatiónem* is the glossary formula *de geração em geração*. *Até o dia de geração em geração* keeps *usque*, *diem* and the formula; *de geração e geração* is the letter, but not a Portuguese phrase; MS1932 and DRB drop *diem* (*de geração em geração*; 'even to generation and generation'). The sense — a reign without end — is carried by all three.",
+      "options": [
+        {"label": "até o dia de geração em geração", "forms": {"generationis": "até o dia de geração em geração"}, "note": "Ruling; every Latin word, and the psalter's formula.", "from": "draft"},
+        {"label": "até o dia de geração e geração", "forms": {"generationis": "até o dia de geração e geração"}, "note": "the letter; not idiomatic.", "from": "draft"},
+        {"label": "de geração em geração", "forms": {"generationis": "de geração em geração"}, "note": "MS1932 (with *durarão*); DRB also drops *diem*.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "permanet",
+      "refs": ["60:8"],
+      "latin": "Pérmanet",
+      "kind": "ambiguity",
+      "why": "The Latin names no subject: the king of 60:7 is the natural one, but it is not said, and the Church has read the verse of Christ the king. Portuguese can leave the subject in the verb ending as the Latin does; MS1932 supplies *Ele*. *permanére → permanecer* (row; 9:7b *o Senhor permanece para sempre*).",
+      "options": [
+        {"label": "Permanece", "forms": {"permanet": "Permanece"}, "note": "Ruling; the subject left in the verb, as the Latin.", "from": "draft"},
+        {"label": "Ele permanece", "forms": {"permanet": "Ele permanece"}, "note": "MS1932; a subject pronoun D2 allows.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": ["60:8"],
+      "latin": "in conspéctu Dei",
+      "kind": "glossary",
+      "why": "The *conspéctus* row (open) uses *à vista de* where the phrase is a predicate place and *na presença de* where the seeing is God's and someone stands or acts before him (17:13, 21:30, 49:3b, 49:8). Here it is where the king abides before God: *permanece para sempre à vista de Deus* reads as a thing kept in view, not a life lived before him.",
+      "options": [
+        {"label": "na presença de Deus", "forms": {"conspectu": "na presença de Deus"}, "note": "Ruling; MS1932.", "from": "glossary"},
+        {"label": "à vista de Deus", "forms": {"conspectu": "à vista de Deus"}, "note": "the row's noun (5:9, 55:9).", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "ejus",
+      "refs": ["60:8"],
+      "latin": "misericórdiam et veritátem ejus",
+      "kind": "ambiguity",
+      "why": "One *ejus* for both nouns, and it may be God's (the nearest noun, *Dei*) or the king's. *a sua* keeps both readings; *dele* would lean to the nearer, God. One possessive for two nouns, as the Latin (39:11b and 39:12 repeat the possessive because the Latin repeats *tua*). The objects come first, as in the Latin, and the clitic *as* takes them up again.",
+      "options": [
+        {"label": "a sua misericórdia e verdade", "forms": {"ejus": "a sua misericórdia e verdade"}, "note": "Ruling; one possessive, as the Latin.", "from": "draft"},
+        {"label": "a sua misericórdia e a sua verdade", "forms": {"ejus": "a sua misericórdia e a sua verdade"}, "note": "the fuller Portuguese; the possessive said twice where the Latin says it once.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "requiret",
+      "refs": ["60:8"],
+      "latin": "quis requíret?",
+      "kind": "ambiguity",
+      "why": "ἐκζητήσει, 'seek out'. The Latin question can mean 'who shall search it out?' (who can fathom it; DRB 'who shall search?', MS1932 *quem a sondará?*) or 'who shall look for it / require it?'. The glossary row *requírere* (to seek) → *procurar* (24:10, 26:4, 26:8, 30:24) keeps the verb and the openness; *sondar* decides for the first reading.",
+      "options": [
+        {"label": "procurará", "forms": {"requiret": "procurará"}, "note": "Ruling; the glossary's verb.", "from": "glossary"},
+        {"label": "sondará", "forms": {"requiret": "sondará"}, "note": "MS1932; 'fathom' — one reading chosen.", "from": "MS1932"},
+        {"label": "buscará", "forms": {"requiret": "buscará"}, "note": "*buscar* is *quǽrere*'s word (23:6).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "reddam",
+      "refs": ["60:9"],
+      "latin": "ut reddam vota mea",
+      "kind": "glossary",
+      "why": "*vota réddere → pagar os votos*: the *réddere* row names 60:9 among its places; 21:26 *pagarei os meus votos*, 49:14, 55:12 *que pagarei* follow it. The stylist of Ps 55 found *pagar votos* commercial and asked *cumprir* (MS1932's word here too); it was refused there for the formula's six places and kept as an option, and so here. The colon is the response of a Prime Preces versicle (*R. Ut reddam vota mea de die in diem*, Special/Preces.txt, grep): *Para pagar os meus votos de dia em dia* reads alone.",
+      "options": [
+        {"label": "pagar", "forms": {"reddam": "pagar"}, "note": "Ruling; the formula (21:26, 55:12).", "from": "glossary"},
+        {"label": "cumprir", "forms": {"reddam": "cumprir"}, "note": "MS1932; the Ps 55 stylist's request.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "dedie",
+      "refs": ["60:9"],
+      "latin": "de die in diem",
+      "kind": "glossary",
+      "why": "ἡμέραν ἐξ ἡμέρας. *De dia em dia* is the Latin's phrase word for word and is current Portuguese for 'day by day'; its one other place is 95:2 *annuntiáte de die in diem salutáre ejus*, where it will serve as well. Its risk is the sense 'more and more each day' (*cresce de dia em dia*); *dia após dia* says only the repetition. MS1932 *sem cessar* paraphrases.",
+      "options": [
+        {"label": "de dia em dia", "forms": {"dedie": "de dia em dia"}, "note": "Ruling; the Latin's shape; DRB 'from day to day'.", "from": "DRB"},
+        {"label": "dia após dia", "forms": {"dedie": "dia após dia"}, "note": "plainer for repetition; the prepositions lost.", "from": "draft"},
+        {"label": "sem cessar", "forms": {"dedie": "sem cessar"}, "note": "MS1932; a paraphrase, the days lost.", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "60:2": "Rule 6: the opening is 54:2's (*Exáudi, Deus, … → Escutai, Deus, …*), where 53:4 *Deus, exáudi* keeps its own order (*Deus, escutai*). *exaudíre → escutar* (D3), *inténdere → atender* with *a* (D3; 5:3, 16:1a *atendei à minha prece*), *deprecátio → prece* (D35). The two nouns change places against 16:1a because the Latin's do.",
+    "60:3": "*fines terræ → os confins da terra* (glossary; 21:28, 47:11). *ad te clamávi → a vós clamei*, the Latin's order, so the colon ends on the oxytone *clamei*. *In petra exaltásti me* copies 26:6 *Sobre uma rocha me exaltou* (the *petra* row asks for it), indefinite as the Latin. checks: the second colon is +8 by the counter (which does not elide *se‿an-*, *o‿meu*, *ro-cha‿me*); it carries four Latin members (*dum anxiarétur · cor meum · in petra · exaltásti me*) and none can go; *numa rocha* would save a syllable at the cost of 26:6's wording — accepted. The Latin verse division is DO's, not DRB's (which ends v3 with 'Thou hast conducted me').",
+    "60:4": "*dedúcere → guiar* (D22; this verse is one of the row's places). *factus es → vos fizestes* (the *fíeri* row, *fazer-se*; 117:21, 117:28b). *quia → porque*. The Tract of 01-31 begins *Factus es spes mea, Dómine*.",
+    "60:5": "The colon is one of the two places of *velaméntum* (with 62:8b, where Ps 62 should copy *ao abrigo das vossas asas*).",
+    "60:6": "*Deus meus* vocative → *meu Deus*, as in every finished psalm (7:2, 21:3, 34:24). *tu* explicit → *vós*. *exaudísti → escutastes* (D3).",
+    "60:7": "*regis* → *do rei*, lower case as the DO Latin. *annos ejus → os seus anos* — *seus* is the king's here and cannot mislead.",
+    "60:9": "*psalmum dícere → entoar um salmo* (17:50, 26:6b; D25's family). *in sǽculum sǽculi → pelos séculos dos séculos* (D27): the first colon closes on a proparoxytone, as the Latin's does on *sǽculi*; it is the settled formula and the versicle of the Prime Preces (*V. Sic psalmum dicam nómini tuo in sǽculum sǽculi*), so it is accepted. checks: the first colon is +7 — *pelos séculos dos séculos* is eight syllables for the Latin's five, and *entoar um salmo* three words for *psalmum dícere*; both are settled wordings, accepted."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from parallels (no Diurnal text for this psalm in the parallels file). Liturgical uses found by grep in content/do: the Tract of 01-31 (60:4b–6), the All Saints antiphon (11-01, adapted from 60:4–6), the Prime Preces (60:4b as *Esto nobis, Dómine, turris fortitúdinis. R. A fácie inimíci*; 60:9 as V/R), the Pent02-5 antiphon *Dum anxiarétur * Cor meum*. Hard readings: 60:7 *usque in diem generatiónis et generatiónis* (hapax phrase), 60:8 *quis requíret* (open between fathoming and seeking) and the owner of *ejus*, 60:5 *velaméntum* (hapax outside 62:8b; the Greek is 35:8's σκέπη)."},
+    {"step": "checks", "note": "Hard checks pass. Soft: 60:3b +8 and 60:9a +7 (accepted, reasons in choices); 60:2a −4, 60:4a +4, 60:5a −3, 60:6a −4, 60:7b −5 within reach of the Latin once elisions are counted. 60:9a closes on a proparoxytone, as the Latin (the settled formula). No cadence rhyme found."}
+  ]
+}
