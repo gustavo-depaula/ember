@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "7b66de6298f47150f77f96fe4996ab3d97fe107e5d32ff109efa3b357871b4f8",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T23:14:41+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"71:6\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"sicut plúvia in vellus\", \"portuguese\": \"como a chuva sobre a lã\", \"problem\": \"vellus is the fleece (the whole shorn or unshorn hide of wool, the Gideon image), not wool as material; 'lã' slightly abstracts the concrete object.\", \"fix\": \"como a chuva sobre o velo\"}]},\n{\"id\": \"71:10\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"dona addúcent\", \"portuguese\": \"levarão presentes\", \"problem\": \"addúcere is 'bring to/lead toward' (movement toward the king); 'levarão' reads as carrying away/off. 'trarão' is closer.\", \"fix\": \"os reis dos árabes e de Sabá trarão presentes\"}]}\n], \"overall\": \"A faithful, close rendering that keeps the Latin's Septuagintal readings (firmamentum as 'esteio', adorabunt de ipso as the ambiguous 'por ele', ante lunam, donec auferatur luna) without smoothing toward the Hebrew. Only two minor lexical points; pointing marks match the Latin in every verse (one mediant each, no flex or second mediant).\"}\n"
+}

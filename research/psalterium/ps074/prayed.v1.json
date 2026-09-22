@@ -1,0 +1,494 @@
+{
+  "psalm": 74,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "74:2": "{confit2}, Deus: * daremos graças, e invocaremos o vosso nome.",
+    "74:3": "Narraremos as vossas maravilhas: * {tempus}, {justitias}.",
+    "74:4": "{liquefacta} a terra, e todos os que nela habitam: * eu {confirmavi} as suas colunas.",
+    "74:5": "Eu disse aos iníquos: {iniqueagere}: * e aos que cometem faltas: Não {exaltare5} o chifre:",
+    "74:6": "Não ergais {inaltum} o vosso chifre: * não faleis iniquidade contra Deus.",
+    "74:7": "{quia} nem do oriente, nem do ocidente, nem {desertis}: * porque Deus é juiz.",
+    "74:8": "{hunc}: * porque {calix}.",
+    "74:9": "{inclinavit} {exhoc}: todavia, a sua borra {exinanita}: * beberão todos os pecadores da terra.",
+    "74:10": "{egoautem} anunciarei para sempre: * cantarei ao Deus de Jacó.",
+    "74:11": "E quebrarei todos os chifres dos pecadores: * e {exaltare11} os chifres do justo."
+  },
+  "decisions": [
+    {
+      "id": "confit",
+      "refs": [
+        "74:2"
+      ],
+      "latin": "Confitébimur tibi, Deus",
+      "kind": "glossary",
+      "why": "*confitéri* to God → *dar graças a* (D5). The first *confitébimur* has *tibi*, the second has none, as the Latin (43:9 *daremos graças* without a pronoun). The dative pronoun needs a place in Portuguese: proclisis wants a word before it, so the subject *Nós* is named (a subject hidden in the verb ending, rule 2). The mesóclise *Dar-vos-emos graças* is correct but stiff at the head of a psalm.",
+      "options": [
+        {
+          "label": "Nós vos daremos graças",
+          "forms": {
+            "confit2": "Nós vos daremos graças"
+          },
+          "note": "Ruling: D5; subject named for the proclitic *vos*; MS1932 *Nós te louvaremos* has the same build.",
+          "from": "draft"
+        },
+        {
+          "label": "Dar-vos-emos graças",
+          "forms": {
+            "confit2": "Dar-vos-emos graças"
+          },
+          "note": "mesóclise; opens on the verb as the Latin does, but reads as written Portuguese.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "tempus",
+      "refs": [
+        "74:3"
+      ],
+      "latin": "cum accépero tempus",
+      "kind": "ambiguity",
+      "why": "The speaker changes: *narrábimus* is 'we', *accépero … judicábo* is 'I', and the Greek (λάβω καιρόν) and most readers take the 'I' as God; the Latin does not say so, and neither does the Portuguese. *accípere tempus* is 'take / receive a time' (L&S accipio: take, receive; καιρός is the fit moment); DRB 'when I shall take a time'; MS1932 turns it *No tempo que eu tiver fixado* (fixing is not in the word). *tomar o tempo* keeps the verb; its risk is being heard as 'take up time'. *eu* named because *tomar* (future subjunctive) is also third person, and the ear must not hear 'when he takes'. The future perfect *accépero* is said, as usual, by the future subjunctive.",
+      "options": [
+        {
+          "label": "quando eu tomar o tempo",
+          "forms": {
+            "tempus": "quando eu tomar o tempo"
+          },
+          "note": "Ruling: the verb of the Latin (DRB 'take a time').",
+          "from": "draft"
+        },
+        {
+          "label": "quando eu tiver tomado o tempo",
+          "forms": {
+            "tempus": "quando eu tiver tomado o tempo"
+          },
+          "note": "the future perfect to the letter; three syllables longer.",
+          "from": "draft"
+        },
+        {
+          "label": "no tempo que eu tiver fixado",
+          "forms": {
+            "tempus": "no tempo que eu tiver fixado"
+          },
+          "note": "MS1932; *fixar* interprets *accípere*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "justitias",
+      "refs": [
+        "74:3"
+      ],
+      "latin": "ego justítias judicábo",
+      "kind": "glossary",
+      "why": "The *justítiæ* (plural) row keeps the Latin's plural (*as justiças*: 10:8, 17:23, 18:9, 49:16) and names 74:3 as a place to decide locally. The Greek here is εὐθύτητας ('uprightnesses'), an internal object: 'I will judge upright judgements', i.e. judge uprightly; DRB keeps the plural object ('I will judge justices'); MS1932 *julgarei com justiça*. Kept as the row: an object the Latin gives, with the Latin's plural; *ego* said as *eu* (it is emphatic in the Latin). Risk: *as justiças* heard as 'the courts' — the ambiguity reader is asked. *com justiça* and *retamente* (57:2 *recta judicáte → julgai retamente*) are one touch away.",
+      "options": [
+        {
+          "label": "eu julgarei as justiças",
+          "forms": {
+            "justitias": "eu julgarei as justiças"
+          },
+          "note": "Ruling: the row; DRB 'justices'.",
+          "from": "glossary"
+        },
+        {
+          "label": "eu julgarei com justiça",
+          "forms": {
+            "justitias": "eu julgarei com justiça"
+          },
+          "note": "MS1932; the object becomes manner, the plural lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "eu julgarei retamente",
+          "forms": {
+            "justitias": "eu julgarei retamente"
+          },
+          "note": "the Greek's εὐθύτητας; 57:2's adverb; loses the word *justiça*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "liquefacta",
+      "refs": [
+        "74:4"
+      ],
+      "latin": "Liquefácta est terra",
+      "kind": "word",
+      "why": "*liquefácere* passive, ἐτάκη 'melted'. *derreter-se* is the melting of wax at 21:15b (*cera que se derrete*), and keeps the image concrete (rule 5). MS1932 *dissolveu-se* is more abstract. The pronominal form for the Latin passive, verb first as the Latin.",
+      "options": [
+        {
+          "label": "Derreteu-se",
+          "forms": {
+            "liquefacta": "Derreteu-se"
+          },
+          "note": "Ruling: the image (21:15b).",
+          "from": "draft"
+        },
+        {
+          "label": "Dissolveu-se",
+          "forms": {
+            "liquefacta": "Dissolveu-se"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confirmavi",
+      "refs": [
+        "74:4"
+      ],
+      "latin": "ego confirmávi colúmnas ejus",
+      "kind": "glossary",
+      "why": "The *confirmáre* row (open) proposes *confirmar* only where a word is confirmed, *firmar* where a thing is set fast (37:3 *firmastes … a vossa mão*) or a person is the object. Pillars are set fast: *confirmei as suas colunas* would be heard as 'I verified its pillars'. ἐστερέωσα, 'made firm'. MS1932 *fortaleci*.",
+      "options": [
+        {
+          "label": "firmei",
+          "forms": {
+            "confirmavi": "firmei"
+          },
+          "note": "Ruling: the row's *firmar* for a thing set fast.",
+          "from": "glossary"
+        },
+        {
+          "label": "confirmei",
+          "forms": {
+            "confirmavi": "confirmei"
+          },
+          "note": "the cognate; heard as attesting.",
+          "from": "draft"
+        },
+        {
+          "label": "fortaleci",
+          "forms": {
+            "confirmavi": "fortaleci"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "iniqueagere",
+      "refs": [
+        "74:5"
+      ],
+      "latin": "Dixi iníquis: Nolíte iníque ágere",
+      "kind": "glossary",
+      "why": "The Latin echoes itself, *iníquis … iníque* (the Greek too: παρανομοῦσιν μὴ παρανομεῖτε), and the echo is kept: *aos iníquos: Não ajais iniquamente*. The *iníqua ágere* row gives *agir iniquamente* (open; a blind reader once listed *iniquamente* as unknown); *praticar a iniquidade* is operári's and is refused for that reason. *Nolíte* + infinitive is the plain negative imperative in Portuguese (*Não ajais*); 'do not will to' is not said. *ajais* is a rare form but a regular one.",
+      "options": [
+        {
+          "label": "Não ajais iniquamente",
+          "forms": {
+            "iniqueagere": "Não ajais iniquamente"
+          },
+          "note": "Ruling: the row; keeps the echo.",
+          "from": "glossary"
+        },
+        {
+          "label": "Não procedais iniquamente",
+          "forms": {
+            "iniqueagere": "Não procedais iniquamente"
+          },
+          "note": "avoids *ajais*; *proceder* is not the Latin's plainest verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Não pratiqueis a maldade",
+          "forms": {
+            "iniqueagere": "Não pratiqueis a maldade"
+          },
+          "note": "MS1932 *Não pratiqueis mais a maldade*; loses the echo and spends operári's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exaltare",
+      "refs": [
+        "74:5",
+        "74:11"
+      ],
+      "latin": "Nolíte exaltáre cornu … et exaltabúntur córnua justi",
+      "kind": "glossary",
+      "why": "*exaltáre → exaltar* (row, working), and here the psalm is built on it: the sinners are told not to exalt the horn (74:5), and at the end the horns of the just shall be exalted (74:11); 74:8 *hunc exáltat* sits between. One verb three times keeps the frame. *cornu → chifre* (row; *corno* is an insult in Brazil). DRB 'lift up'; MS1932 turns the horn into *a vossa fronte soberba* and *a fronte do justo*, which paraphrases the image (refused, rule 5).",
+      "options": [
+        {
+          "label": "exalteis / serão exaltados",
+          "forms": {
+            "exaltare5": "exalteis",
+            "exaltare11": "serão exaltados"
+          },
+          "note": "Ruling: the row; the psalm's frame.",
+          "from": "glossary"
+        },
+        {
+          "label": "levanteis / serão levantados",
+          "forms": {
+            "exaltare5": "levanteis",
+            "exaltare11": "serão levantados"
+          },
+          "note": "DRB 'lift up'; *levantar* is leváre's in the glossary, and breaks the echo with 74:8.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "inaltum",
+      "refs": [
+        "74:6"
+      ],
+      "latin": "Nolíte extóllere in altum cornu vestrum",
+      "kind": "word",
+      "why": "*extóllere → erguer* (row; 27:2, 27:9; the row names 74:6). *in altum* (εἰς ὕψος), 'on high': *para o alto* is the plain direction; *ao alto* is shorter but is heard as a command ('Ao alto!').",
+      "options": [
+        {
+          "label": "para o alto",
+          "forms": {
+            "inaltum": "para o alto"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "ao alto",
+          "forms": {
+            "inaltum": "ao alto"
+          },
+          "note": "one syllable less.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "quia",
+      "refs": [
+        "74:7"
+      ],
+      "latin": "Quia neque ab Oriénte … quóniam Deus judex est",
+      "kind": "grammar",
+      "why": "The verse is an anacoluthon: 'for neither from the east, nor from the west, nor from the desert mountains —' and the thing that does not come from there is never named (the Hebrew: 'lifting up'); then *quóniam Deus judex est*. The Portuguese leaves the gap where the Latin leaves it (MS1932's parenthesis *vos virá auxílio* is a gloss, not text). *Quia … quóniam* are both *porque* by the defaults; said twice, the second *porque* is heard as taking up the first, which is what the Latin does.",
+      "options": [
+        {
+          "label": "Porque … porque",
+          "forms": {
+            "quia": "Porque"
+          },
+          "note": "Ruling: the defaults.",
+          "from": "draft"
+        },
+        {
+          "label": "Pois … porque",
+          "forms": {
+            "quia": "Pois"
+          },
+          "note": "varies the two, as the Latin does.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "desertis",
+      "refs": [
+        "74:7"
+      ],
+      "latin": "neque a desértis móntibus",
+      "kind": "word",
+      "why": "*desértus* is an adjective of the mountains ('desert, desolate hills', ἐρήμων ὀρέων; DRB 'desert hills'; MS1932 *pelos montes desertos*). The Hebrew has 'the desert of the mountains' — not followed. *desertos* in Portuguese is 'deserted / waste', the Latin adjective's own sense.",
+      "options": [
+        {
+          "label": "dos montes desertos",
+          "forms": {
+            "desertis": "dos montes desertos"
+          },
+          "note": "Ruling: the adjective.",
+          "from": "draft"
+        },
+        {
+          "label": "dos montes do deserto",
+          "forms": {
+            "desertis": "dos montes do deserto"
+          },
+          "note": "a noun, nearer the Hebrew.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "hunc",
+      "refs": [
+        "74:8",
+        "74:9"
+      ],
+      "latin": "Hunc humíliat, et hunc exáltat … ex hoc in hoc",
+      "kind": "word",
+      "why": "*hic … hic* is the Latin's idiom for 'this one … that one' (τοῦτον … τοῦτον; DRB 'One … another'). Portuguese *a este … a este* is not the idiom and can be heard as one man humbled and exalted; *este … aquele* is (MS1932 *A este humilha, e àquele exalta*), and keeps a demonstrative in both places. 74:9 *ex hoc in hoc* is the same pair, so it follows in the same slot: *deste para aquele*. The literal repetition is option 2.",
+      "options": [
+        {
+          "label": "a este … àquele / deste para aquele",
+          "forms": {
+            "hunc": "A este humilha, e àquele exalta",
+            "exhoc": "deste para aquele"
+          },
+          "note": "Ruling: the idiom; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a este … a este / deste para este",
+          "forms": {
+            "hunc": "A este humilha, e a este exalta",
+            "exhoc": "deste para este"
+          },
+          "note": "the Latin's repetition to the letter.",
+          "from": "draft"
+        },
+        {
+          "label": "a um … a outro / de um para outro",
+          "forms": {
+            "hunc": "A um humilha, e a outro exalta",
+            "exhoc": "de um para outro"
+          },
+          "note": "DRB 'one … another'; drops the demonstrative.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "calix",
+      "refs": [
+        "74:8"
+      ],
+      "latin": "quia calix in manu Dómini vini meri plenus misto",
+      "kind": "grammar",
+      "why": "Verbless; *há* supplied (rule 2). *calix → cálice* (row). *merum* is unmixed wine (*vinho puro*), and the cup of unmixed wine is *plenus misto*, 'full of mixture' (πλῆρες κεράσματος; DRB 'a cup of strong wine full of mixture'): the Latin's paradox — pure wine, full of a mixture (spices, a drugged draught) — is kept as the Latin leaves it, unexplained. *cálice* is a proparoxytone and here does not stand at a cadence. The colon runs some five syllables over the Latin.",
+      "options": [
+        {
+          "label": "na mão do Senhor há um cálice de vinho puro, cheio de mistura",
+          "forms": {
+            "calix": "na mão do Senhor há um cálice de vinho puro, cheio de mistura"
+          },
+          "note": "Ruling; MS1932 builds the verse the same way (*há um cálice que contém vinho puro cheio de mistura*).",
+          "from": "draft"
+        },
+        {
+          "label": "há na mão do Senhor um cálice de vinho puro, cheio de mistura",
+          "forms": {
+            "calix": "há na mão do Senhor um cálice de vinho puro, cheio de mistura"
+          },
+          "note": "the Latin's order: the cup before the hand.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inclinavit",
+      "refs": [
+        "74:9"
+      ],
+      "latin": "Et inclinávit ex hoc in hoc",
+      "kind": "grammar",
+      "why": "*inclinávit* has no object in the Latin; the thing tilted is the cup of 74:8. Portuguese *inclinou deste para aquele* with no object dangles; the pronoun *o* is grammar and names nothing the Latin does not imply. The subject (the Lord) is the Latin's hidden one.",
+      "options": [
+        {
+          "label": "E o inclinou",
+          "forms": {
+            "inclinavit": "E o inclinou"
+          },
+          "note": "Ruling: the object pronoun supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "E inclinou",
+          "forms": {
+            "inclinavit": "E inclinou"
+          },
+          "note": "no object, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exinanita",
+      "refs": [
+        "74:9"
+      ],
+      "latin": "verúmtamen fæx ejus non est exinaníta",
+      "kind": "word",
+      "why": "*verúmtamen → todavia* (row). *fæx → borra* (D41). *exinaníre* is 'empty out' (ἐξεκενώθη); of dregs Portuguese says *esgotar-se* ('be drained'), MS1932 *não se esgotaram*; *esvaziar* is the root sense but a sediment is not 'emptied'. *ejus*: the cup's; *a sua* is left to point back to it.",
+      "options": [
+        {
+          "label": "não se esgotou",
+          "forms": {
+            "exinanita": "não se esgotou"
+          },
+          "note": "Ruling: MS1932's verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "não foi esvaziada",
+          "forms": {
+            "exinanita": "não foi esvaziada"
+          },
+          "note": "the root sense of *exinaníre*; the Latin's passive.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "egoautem",
+      "refs": [
+        "74:10"
+      ],
+      "latin": "Ego autem annuntiábo in sǽculum",
+      "kind": "glossary",
+      "why": "The *ego autem* row allows *mas eu* or *eu, porém*. 58:17 *Ego autem cantábo* is *Eu, porém, cantarei*, and this verse is the same turn (and ends *cantábo*): *Eu, porém,* kept for the echo. *annuntiáre → anunciar* (D41), with no object, as the Latin (MS1932 adds *estas coisas*). The Greek has ἀγαλλιάσομαι 'I will rejoice' where the Latin reads *annuntiábo*; the Latin is followed.",
+      "options": [
+        {
+          "label": "Eu, porém,",
+          "forms": {
+            "egoautem": "Eu, porém,"
+          },
+          "note": "Ruling: as 58:17.",
+          "from": "glossary"
+        },
+        {
+          "label": "Mas eu",
+          "forms": {
+            "egoautem": "Mas eu"
+          },
+          "note": "as 16:15; two syllables shorter.",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "74:2": "*invocáre → invocar* (row); *nomen tuum → o vosso nome*. The repeated *confitébimur* is repeated.",
+    "74:3": "*narráre → narrar*, *mirabília → maravilhas* (9:2, 25:7). The switch from 'we' to 'I' is the Latin's and is not smoothed.",
+    "74:4": "*omnes qui hábitant in ea → todos os que nela habitam*. *ego → eu*, emphatic as the Latin.",
+    "74:5": "*Dixi → Eu disse* (38:2). *delinquéntibus → aos que cometem faltas* (row *delínquere*, 24:8). The colon ends on ':' as the Latin, which runs on into 74:6. *cornu* has no possessive here (74:6 adds *vestrum*), so *o chifre*.",
+    "74:6": "*loqui iniquitátem* → *falar iniquidade*: the content object kept (the *loqui mendácium* row; 57:2 *falais justiça*); *contra Deus* moved after the object, natural order.",
+    "74:7": "*judex → juiz*; *Deus judex est → Deus é juiz*, no article, as 49:6.",
+    "74:9": "The Latin's inner ':' without a mark is kept. *bibent* has no object; none is supplied (MS1932 adds *delas*). *peccatóres terræ → os pecadores da terra*.",
+    "74:10": "*cantáre → cantar*: the Latin has *cantábo* where the Greek has ψαλῶ; the Latin's verb is followed, so not *entoarei salmos* (D25). *Deo Jacob → ao Deus de Jacó* (19:2, 23:6, 45:8).",
+    "74:11": "*confríngere → quebrar* (row). Object first in the Latin; natural order in Portuguese. *justi* singular kept: *do justo*."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (no Diurnal text for this psalm in the parallels file). Hard readings: 74:3 *cum accépero tempus* and the speaker's change; *justítias judicábo* (plural internal object); 74:7's anacoluthon, left open; 74:8 *vini meri plenus misto*, the paradox kept; *hic … hic* as 'this … that'."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 74:5a +3 (the echo *iníquos … iniquamente* costs syllables; accepted), 74:6b −4 (Portuguese is shorter; accepted), 74:7a −4 (accepted), 74:8a +3 (*àquele* for the idiom), 74:8b +5 (the supplied *há* and the articles; within one breath), 74:9a/b +3 (accepted). No rhyme flags."
+    }
+  ]
+}

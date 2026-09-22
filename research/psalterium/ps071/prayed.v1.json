@@ -1,0 +1,678 @@
+{
+  "psalm": 71,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "71:2": "Deus, dai ao rei o vosso juízo: * e a vossa justiça, ao filho do rei:",
+    "71:2b": "Para julgar o vosso povo com justiça, * e os vossos pobres {injudicio}.",
+    "71:3": "{suscipiant} os montes a paz para o povo: * e as colinas, a justiça.",
+    "71:4": "Julgará os pobres do povo, e salvará os filhos dos pobres: * e humilhará o caluniador.",
+    "71:5": "E permanecerá com o sol, e {a5}, * de geração em geração.",
+    "71:6": "Descerá como a chuva sobre {vellus}: * e como gotas que gotejam sobre a terra.",
+    "71:7": "{orietur} nos seus dias a justiça, e a abundância da paz: * até que a lua seja tirada.",
+    "71:8": "E dominará de mar a mar: * e desde o rio até {terminos} do mundo.",
+    "71:9": "Diante dele se prostrarão os etíopes: * e os seus inimigos {lingent}.",
+    "71:10": "Os reis de Társis e as ilhas oferecerão {m10}: * os reis dos árabes e de Sabá {adducent} {d10}.",
+    "71:11": "E o adorarão todos os reis da terra: * todas as nações o servirão:",
+    "71:12": "Porque livrará o pobre do poderoso: * e o pobre que não tinha {adjutor}.",
+    "71:13": "{parcet}: * e salvará as almas dos pobres.",
+    "71:14": "Das usuras e da iniquidade resgatará as almas deles: * {hon14}.",
+    "71:15": "E viverá, e lhe será dado do ouro da Arábia, {deipso}: * o dia todo o bendirão.",
+    "71:16": "E haverá {firm} na terra {summis}, acima do Líbano se erguerá o seu fruto: * e {decivitate} como {faenum} da terra.",
+    "71:17": "Seja o seu nome bendito pelos séculos: * {a17} permanece o seu nome.",
+    "71:17b": "E nele serão {bened} todas as tribos da terra: * todas as nações o engrandecerão.",
+    "71:18": "Bendito o Senhor, Deus de Israel, * {solus}:",
+    "71:19": "E bendito o nome da sua majestade para sempre: * e toda a terra será cheia da sua majestade: assim seja, assim seja."
+  },
+  "decisions": [
+    {
+      "id": "injudicio",
+      "refs": [
+        "71:2b"
+      ],
+      "latin": "et páuperes tuos in judício",
+      "kind": "word",
+      "why": "The verse sets *in justítia … in judício* side by side (ἐν δικαιοσύνῃ … ἐν κρίσει). *judícium → juízo* is settled (D15). *com justiça* is the psalter's form for *judicáre … in justítia* (9:8b *julgará os povos com justiça*). The second member cannot take the same preposition: *julgar com juízo* is heard in Brazil as 'judge sensibly' (*ter juízo*). *em juízo* is what Ps 9:8b ruled for *in judício* (the Latinist's major there; 118:154 too): the Latin's preposition, and the court sense a Brazilian hears in it is the verse's own. MS1932 *com equidade* is another word (*æquitas*).",
+      "options": [
+        {
+          "label": "em juízo",
+          "forms": {
+            "injudicio": "em juízo"
+          },
+          "note": "Ruling; 9:8b's wording for *in judício*.",
+          "from": "draft"
+        },
+        {
+          "label": "com juízo",
+          "forms": {
+            "injudicio": "com juízo"
+          },
+          "note": "the same preposition twice, as the Latin has it; but *com juízo* is heard as 'sensibly'.",
+          "from": "draft"
+        },
+        {
+          "label": "no juízo",
+          "forms": {
+            "injudicio": "no juízo"
+          },
+          "note": "to the letter (1:5, 24:9); here it can be heard as 'at the Judgment'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "suscipiant",
+      "refs": [
+        "71:3"
+      ],
+      "latin": "Suscípiant montes pacem pópulo",
+      "kind": "glossary",
+      "why": "The *suscípere* (a thing as object) row is open with *acolher* and names this verse: D19's *amparar* is built on persons, and *amparem a paz* would prop peace up. The Greek is ἀναλαβέτω, 'take up, receive'. DRB 'receive', MS1932 *Recebam*. *Acolher* keeps the row; *receber* is plainer, but it is the word for *accípere* (which the psalter has often), and the row keeps *suscípere* apart from it.",
+      "options": [
+        {
+          "label": "Acolham",
+          "forms": {
+            "suscipiant": "Acolham"
+          },
+          "note": "Ruling; the suscípere (thing) row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Recebam",
+          "forms": {
+            "suscipiant": "Recebam"
+          },
+          "note": "MS1932, DRB 'receive'; merges suscípere with accípere.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ante",
+      "refs": [
+        "71:5",
+        "71:17"
+      ],
+      "latin": "et ante lunam … ante solem pérmanet nomen ejus",
+      "kind": "ambiguity",
+      "why": "*ante* (πρό) is both place and time: 'in the presence of' and 'earlier than'. Portuguese must choose: *diante de* is place, *antes de* is time. In 71:5 the pair *cum sole, et ante lunam* says how long the king lasts — as long as the sun, in the sight of the moon — and 'earlier than the moon' does not fit a future; MS1932 turns it *tanto como o sol e a lua*. In 71:17 *ante solem pérmanet nomen ejus* could be either, and MS1932 chooses time (*o seu nome existe antes do sol*, a reading the Christian use of the psalm welcomes). The Latin uses one word in both verses, and one Portuguese word keeps the echo: ruled *diante* in both, which reads the second verse as the first is read. The time reading of 71:17 stays one touch away.",
+      "options": [
+        {
+          "label": "diante … diante",
+          "forms": {
+            "a5": "diante da lua",
+            "a17": "diante do sol"
+          },
+          "note": "Ruling; one word for one word in both verses; place.",
+          "from": "draft"
+        },
+        {
+          "label": "diante … antes",
+          "forms": {
+            "a5": "diante da lua",
+            "a17": "antes do sol"
+          },
+          "note": "MS1932's reading of 71:17 (time: the name before the sun); breaks the echo with 71:5.",
+          "from": "MS1932"
+        },
+        {
+          "label": "perante … perante",
+          "forms": {
+            "a5": "perante a lua",
+            "a17": "perante o sol"
+          },
+          "note": "the same sense as the ruling, more formal.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vellus",
+      "refs": [
+        "71:6"
+      ],
+      "latin": "sicut plúvia in vellus",
+      "kind": "word",
+      "why": "*vellus* is a fleece (L&S: wool shorn off, the fell with the wool on it; πόκος). *Velo* is the Portuguese word (MS1932), the fleece of Gideon (Judges 6, where Portuguese Bibles have *velo* — not checked here), and the image the Church has read of the Incarnation. It may be unknown to some hearers. *lã* (the plain word) loses the fleece for the wool. The Hebrew's mown grass (DM1962 *relva*) is not the Latin.",
+      "options": [
+        {
+          "label": "o velo",
+          "forms": {
+            "vellus": "o velo"
+          },
+          "note": "Ruling; the Latin's image; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a lã",
+          "forms": {
+            "vellus": "a lã"
+          },
+          "note": "plainer; wool, not the fleece.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "orietur",
+      "refs": [
+        "71:7"
+      ],
+      "latin": "Oriétur in diébus ejus justítia",
+      "kind": "word",
+      "why": "*oríri* (ἀνατέλλω) is the rising of a heavenly body and the springing of a plant; the verse is an Advent versicle (Adv1-1, Adv3-0, Adv3-3, grep), where justice rises as a sun. *Nascer* says both — the sun is born (*o nascer do sol*, 49:1) and plants are born — and is plain. *Surgir* keeps the rising and loses the plant. MS1932 *aparecerá* is flatter than the Latin's image. No row yet; proposed as *oríri → nascer* (open).",
+      "options": [
+        {
+          "label": "Nascerá",
+          "forms": {
+            "orietur": "Nascerá"
+          },
+          "note": "Ruling; sunrise and sprouting both.",
+          "from": "draft"
+        },
+        {
+          "label": "Surgirá",
+          "forms": {
+            "orietur": "Surgirá"
+          },
+          "note": "the rising only.",
+          "from": "draft"
+        },
+        {
+          "label": "Aparecerá",
+          "forms": {
+            "orietur": "Aparecerá"
+          },
+          "note": "MS1932; drops the image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "terminos",
+      "refs": [
+        "71:8"
+      ],
+      "latin": "usque ad términos orbis terrárum",
+      "kind": "glossary",
+      "why": "The *términi terræ* row keeps *os limites* for *términi* and *confins* for *fines*, but Ps 64:8 took *os confins* for *términos* alone because the Greek is πέρατα there as in 64:6 (D15's test), after the stylist heard *os limites* as administrative and the blind reader as frontiers. Here the Greek is again πέρατα τῆς οἰκουμένης — the same Greek as 18:5 *in fines orbis terræ* → *até os confins do mundo*. So *confins*, and the colon ends as 18:5 does. *orbis terrárum → o mundo* (D30).",
+      "options": [
+        {
+          "label": "os confins",
+          "forms": {
+            "terminos": "os confins"
+          },
+          "note": "Ruling; 64:8, 18:5 (same Greek).",
+          "from": "glossary"
+        },
+        {
+          "label": "os limites",
+          "forms": {
+            "terminos": "os limites"
+          },
+          "note": "the row's working word for términi (2:8); keeps términi and fines apart.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "lingent",
+      "refs": [
+        "71:9"
+      ],
+      "latin": "et inimíci ejus terram lingent",
+      "kind": "word",
+      "why": "The Latin's image is licking the ground (λείξουσιν; the Greek has χοῦν, 'dust'). Concrete images stay (rule 5). MS1932 *beijarão a terra* softens it into a gesture of homage, which the Latin does not say.",
+      "options": [
+        {
+          "label": "lamberão a terra",
+          "forms": {
+            "lingent": "lamberão a terra"
+          },
+          "note": "Ruling; the Latin's verb and noun.",
+          "from": "draft"
+        },
+        {
+          "label": "beijarão a terra",
+          "forms": {
+            "lingent": "beijarão a terra"
+          },
+          "note": "MS1932; another image.",
+          "from": "MS1932"
+        },
+        {
+          "label": "lamberão o pó",
+          "forms": {
+            "lingent": "lamberão o pó"
+          },
+          "note": "the Greek's χοῦν; not the Latin's *terram*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "munera",
+      "refs": [
+        "71:10"
+      ],
+      "latin": "múnera ófferent … dona addúcent",
+      "kind": "glossary",
+      "why": "The *múnera* row (open) is *dádivas* and names this verse (and 67:30 *os reis vos oferecerão dádivas*, the same kings' gifts). *dona* has no row; the Greek has δῶρα for both, so D15 would allow one word — but the Latin varies, Portuguese has a plain pair, and one word would make the two colons say *dádivas … dádivas*. *presentes* is the row's option for *múnera*; here it takes *dona*. The verse is the Epiphany's (versicle, antiphon, responsories, Offertory — Sancti/01-06, grep).",
+      "options": [
+        {
+          "label": "dádivas … presentes",
+          "forms": {
+            "m10": "dádivas",
+            "d10": "presentes"
+          },
+          "note": "Ruling; múnera row; dona → presentes (proposed, open).",
+          "from": "glossary"
+        },
+        {
+          "label": "presentes … dons",
+          "forms": {
+            "m10": "presentes",
+            "d10": "dons"
+          },
+          "note": "MS1932 has *dons … presentes*, the other way round.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adducent",
+      "refs": [
+        "71:10"
+      ],
+      "latin": "dona addúcent",
+      "kind": "glossary",
+      "why": "*addúcere → levar* is settled (D42; 42:3, 44:15b–16 *Serão levadas ao Rei*). *Trazer* is the word a Portuguese speaker reaches for with gifts (MS1932 *trarão*), but it is the word of *afférre* (28:1–2 *Afférte Dómino → Trazei ao Senhor*, 95:7), which the row keeps apart. *levar presentes* is plain Portuguese.",
+      "options": [
+        {
+          "label": "levarão",
+          "forms": {
+            "adducent": "levarão"
+          },
+          "note": "Ruling; the addúcere row (D42).",
+          "from": "glossary"
+        },
+        {
+          "label": "trarão",
+          "forms": {
+            "adducent": "trarão"
+          },
+          "note": "MS1932; merges addúcere with afférre.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "71:12"
+      ],
+      "latin": "et páuperem, cui non erat adjútor",
+      "kind": "glossary",
+      "why": "The *adjútor* row (open, for Gustavo) is *auxílio* in every finished place. Here it is the most natural it has been: *não tinha auxílio* is how Portuguese says it. The agent noun *auxiliador*, which the Latinist has asked for elsewhere, is the option; MS1932 turns it into a clause (*quem lhe valha*).",
+      "options": [
+        {
+          "label": "auxílio",
+          "forms": {
+            "adjutor": "auxílio"
+          },
+          "note": "Ruling; the adjútor row.",
+          "from": "glossary"
+        },
+        {
+          "label": "auxiliador",
+          "forms": {
+            "adjutor": "auxiliador"
+          },
+          "note": "the agent noun, as the Latin's.",
+          "from": "draft"
+        },
+        {
+          "label": "quem o auxiliasse",
+          "forms": {
+            "adjutor": "quem o auxiliasse"
+          },
+          "note": "the person as a clause (MS1932's build, *quem lhe valha*).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "parcet",
+      "refs": [
+        "71:13"
+      ],
+      "latin": "Parcet páuperi et ínopi",
+      "kind": "glossary",
+      "why": "The *párcere* row (open) is *poupar* and names this verse (18:13 *poupai o vosso servo*). φείσεται is 'spare, have pity on'. *Poupar o pobre* is heard as 'spare' — faithful, though it can suggest the poor were due a blow. MS1932 *Usará de clemência com*; *ter compaixão* is plainer but is not the verb of *miseréri* (*ter piedade*) only by a hair. *inops → carente* (D38).",
+      "options": [
+        {
+          "label": "Poupará",
+          "forms": {
+            "parcet": "Poupará o pobre e o carente"
+          },
+          "note": "Ruling; the párcere row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Terá compaixão",
+          "forms": {
+            "parcet": "Terá compaixão do pobre e do carente"
+          },
+          "note": "the sense of φείδομαι as pity; near miseréri's *ter piedade*.",
+          "from": "draft"
+        },
+        {
+          "label": "Será clemente",
+          "forms": {
+            "parcet": "Será clemente com o pobre e o carente"
+          },
+          "note": "after MS1932 *usará de clemência*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "hon14",
+      "refs": [
+        "71:14"
+      ],
+      "latin": "et honorábile nomen eórum coram illo",
+      "kind": "grammar",
+      "why": "The colon has no verb; the tense of the psalm is future (DRB 'shall be honourable'). A copula is grammar (D2). *honorábilis* is 'worthy of honour, held in honour'; *será honrado* says it plainly (MS1932 *será em honra*). *eórum* → *deles*, so that it is not heard as the king's (*o seu*), as in the first colon.",
+      "options": [
+        {
+          "label": "será honrado",
+          "forms": {
+            "hon14": "e o nome deles será honrado diante dele"
+          },
+          "note": "Ruling; copula supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "será digno de honra",
+          "forms": {
+            "hon14": "e o nome deles será digno de honra diante dele"
+          },
+          "note": "the adjective's sense spelled out; longer.",
+          "from": "draft"
+        },
+        {
+          "label": "verbless",
+          "forms": {
+            "hon14": "e honrado o nome deles diante dele"
+          },
+          "note": "the Latin's ellipsis kept.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deipso",
+      "refs": [
+        "71:15"
+      ],
+      "latin": "et adorábunt de ipso semper",
+      "kind": "ambiguity",
+      "why": "The hardest phrase of the psalm. The Greek is προσεύξονται περὶ αὐτοῦ, 'they shall pray concerning / for him'; the Latin renders the verb *adoráre*, whose old sense is 'entreat, pray' (L&S), and keeps *de*: 'concerning him'. DRB 'for him they shall always adore'; MS1932 drops the preposition, *e o adorarão sempre* — making him the object, as 71:11 *adorábunt eum*. The Latin keeps the two apart (*eum* / *de ipso*). *e por ele adorarão sempre* keeps the verb of 71:11 (a repetition the Latin has) and a preposition as open as *de*: 'for him', 'for his sake'.",
+      "options": [
+        {
+          "label": "e por ele adorarão sempre",
+          "forms": {
+            "deipso": "e por ele adorarão sempre"
+          },
+          "note": "Ruling; verb and preposition kept.",
+          "from": "draft"
+        },
+        {
+          "label": "e o adorarão sempre",
+          "forms": {
+            "deipso": "e o adorarão sempre"
+          },
+          "note": "MS1932; drops *de*, so that it repeats 71:11.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e sempre orarão por ele",
+          "forms": {
+            "deipso": "e sempre orarão por ele"
+          },
+          "note": "the Greek's sense; loses the Latin's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "firm",
+      "refs": [
+        "71:16"
+      ],
+      "latin": "Et erit firmaméntum in terra",
+      "kind": "word",
+      "why": "D31 left 71:16 to be decided here. The word is not the sky here, and not God as a stay (D31's *esteio*): it is στήριγμα, 'a support', which in the Greek Bible is also the staff of bread (104:16 *omne firmaméntum panis*). DRB keeps 'firmament'; MS1932 reads *mantimento*, food. Portuguese *sustento* holds both senses the word carries here — what holds up and what feeds — without choosing between them. *firmamento* would be heard as the sky (D31).",
+      "options": [
+        {
+          "label": "sustento",
+          "forms": {
+            "firm": "sustento"
+          },
+          "note": "Ruling; support and nourishment both.",
+          "from": "draft"
+        },
+        {
+          "label": "esteio",
+          "forms": {
+            "firm": "esteio"
+          },
+          "note": "D31's word for God as support; only the support.",
+          "from": "glossary"
+        },
+        {
+          "label": "mantimento",
+          "forms": {
+            "firm": "mantimento"
+          },
+          "note": "MS1932; only the food.",
+          "from": "MS1932"
+        },
+        {
+          "label": "firmamento",
+          "forms": {
+            "firm": "firmamento"
+          },
+          "note": "DRB, the cognate; heard as the sky.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "summis",
+      "refs": [
+        "71:16"
+      ],
+      "latin": "in summis móntium",
+      "kind": "word",
+      "why": "The *summus* row (open; 18:6b *extremo*) notes that at 71:16 'the tops of the mountains' — *cimo* fits there. *nos cumes* keeps the Latin's plural and is plainer than *cimo*; MS1932 *no cume*.",
+      "options": [
+        {
+          "label": "nos cumes dos montes",
+          "forms": {
+            "summis": "nos cumes dos montes"
+          },
+          "note": "Ruling; the plural kept.",
+          "from": "draft"
+        },
+        {
+          "label": "no cimo dos montes",
+          "forms": {
+            "summis": "no cimo dos montes"
+          },
+          "note": "the row's note.",
+          "from": "glossary"
+        },
+        {
+          "label": "no alto dos montes",
+          "forms": {
+            "summis": "no alto dos montes"
+          },
+          "note": "plainest.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "decivitate",
+      "refs": [
+        "71:16"
+      ],
+      "latin": "et florébunt de civitáte",
+      "kind": "ambiguity",
+      "why": "The verb has no expressed subject: *florébunt de civitáte* (ἐξανθήσουσιν ἐκ πόλεως) is 'they shall flower out of the city' — those of the city, or they, springing from it. DRB and MS1932 supply 'they of the city' / *os da cidade* (MS1932's note: the inhabitants of the messianic kingdom). Supplying the subject closes what the Latin leaves open; *e da cidade florescerão* keeps the Latin's build.",
+      "options": [
+        {
+          "label": "da cidade florescerão",
+          "forms": {
+            "decivitate": "da cidade florescerão"
+          },
+          "note": "Ruling; the Latin's openness kept.",
+          "from": "draft"
+        },
+        {
+          "label": "os da cidade florescerão",
+          "forms": {
+            "decivitate": "os da cidade florescerão"
+          },
+          "note": "DRB, MS1932; the subject supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "faenum",
+      "refs": [
+        "71:16"
+      ],
+      "latin": "sicut fænum terræ",
+      "kind": "glossary",
+      "why": "36:2 has *fænum → feno* (*como o feno, depressa secarão*); rule 6 keeps it. Here the grass flowers, which hay does not do, and the Greek is χόρτος, 'grass'; MS1932 *a erva dos campos*. Held for the one Latin word; *erva* is the option, and if it is taken 36:2 should be looked at too.",
+      "options": [
+        {
+          "label": "o feno",
+          "forms": {
+            "faenum": "o feno"
+          },
+          "note": "Ruling; 36:2.",
+          "from": "glossary"
+        },
+        {
+          "label": "a erva",
+          "forms": {
+            "faenum": "a erva"
+          },
+          "note": "χόρτος; MS1932 *erva*; a flowering grass.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "bened",
+      "refs": [
+        "71:17b"
+      ],
+      "latin": "Et benedicéntur in ipso omnes tribus terræ",
+      "kind": "glossary",
+      "why": "*benedícere* God → man is open with *bendizer* (133:3, 28:11, 27:9, 66:2, 66:7b). The passive here is the promise to Abraham (*benedicéntur in te omnes cognatiónes terræ*, from memory, not checked). Kept in the row's verb, so the psalm's *benedíctum … benedicéntur … Benedíctus … benedíctum* (71:17–19) is one word, as the Latin has it. MS1932 *benditas*.",
+      "options": [
+        {
+          "label": "benditas",
+          "forms": {
+            "bened": "benditas"
+          },
+          "note": "Ruling; the row; MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "abençoadas",
+          "forms": {
+            "bened": "abençoadas"
+          },
+          "note": "the everyday verb (DM1962); breaks the psalm's one word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "solus",
+      "refs": [
+        "71:18"
+      ],
+      "latin": "qui facit mirabília solus",
+      "kind": "order",
+      "why": "*solus* as a predicate: 'who alone does wonders'. DRB 'who alone doth', MS1932 *é só ele que faz*. *sozinho* would lean to 'without help'. *só ele* before the verb is the Portuguese of it. *mirabília → maravilhas* (9:2, 25:7).",
+      "options": [
+        {
+          "label": "que só ele faz maravilhas",
+          "forms": {
+            "solus": "que só ele faz maravilhas"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "que faz maravilhas sozinho",
+          "forms": {
+            "solus": "que faz maravilhas sozinho"
+          },
+          "note": "the Latin's order; leans to 'unaided'.",
+          "from": "draft"
+        },
+        {
+          "label": "o único que faz maravilhas",
+          "forms": {
+            "solus": "o único que faz maravilhas"
+          },
+          "note": "after DM1962 *único que faz prodígios*.",
+          "from": "DM1962"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "71:2": "The Latin's colon ends on the imperative (*regi da*); Portuguese order puts it first. *Deus* bare vocative (the row). *dai* is safe under rule 3 (*dei* ≠ *dai*). *judícium → juízo* (D15). The verse ends with a colon, as the Latin, because 71:2b depends on it.",
+    "71:2b": "*Judicáre* (the infinitive of purpose or result, κρίνειν) → *Para julgar*. *com justiça* as 9:8b.",
+    "71:3": "*pópulo* dative → *para o povo*. *colles → colinas* (64:13). The second colon verbless, as the Latin.",
+    "71:4": "*salvos fáciet → salvará* (salvum fácere row). *calumniátor → caluniador* (calumniári row, which names 71:4).",
+    "71:5": "*in generatióne et generatiónem → de geração em geração* (formula row; 32:11 has the same ablative form). *cum sole* kept literally (*com o sol*): the king lasts alongside the sun.",
+    "71:6": "*stillicídia stillántia* → *gotas que gotejam*: the Latin's figure of one root twice, kept (stillicídium row, *gota*).",
+    "71:7": "Advent versicle (Adv1-1, Adv3-0, Adv3-3). *abundántia → abundância* (row). *auferri → ser tirado* (auferre row, D41).",
+    "71:8": "*a mari usque ad mare → de mar a mar*, the Portuguese idiom; the second pair keeps *desde … até*. *orbis terrárum → o mundo* (D30). The Latin is a versicle and Alleluia (Adv2-0; 10-DU).",
+    "71:9": "*prócidere → prostrar-se* (no row; proposed, open). *Æthíopes → os etíopes*, the people's name in lower case as Portuguese writes it.",
+    "71:10": "*Tharsis → Társis* (D43). *Árabum → dos árabes* (the Latin names the people; MS1932 *da Arábia* the land). *Reges Tharsis, et ínsulæ*: the islands are a second subject, as the Greek αἱ νῆσοι.",
+    "71:11": "The Latin's order (verb, then subject) kept: subject-first (*E todos os reis da terra o adorarão*) put *adorarão* at the mediant against *servirão* at the end, a rhyme the Latin does not have (checks). Each colon is said alone: the Epiphany Offertory's second half, an Advent versicle (Adv3-3), 10-DU.",
+    "71:12": "The Latin repeats *páuperem* (the Greek varies πτωχὸν … πένητα): the repetition is kept. *erat* → *não tinha* (the imperfect). No comma before *que*: the restrictive reading is the plainer one in Portuguese.",
+    "71:13": "*ánimas páuperum salvas fáciet → salvará as almas dos pobres*. The verse and 71:12 are the Epistle-verse of St Peter Claver (09-09n, aliquibus locis).",
+    "71:14": "*usúra → usura* (row, names this verse); the plural kept. *rédimet → resgatará* (redímere row). *eórum → deles* twice, apart from the king's *dele*.",
+    "71:15": "*dábitur ei de auro* → *lhe será dado do ouro* (the partitive *de* kept). *tota die → o dia todo* (D24). *benedícent ei* → *o bendirão* (the dative made direct, as the benedícere row allows for pronouns).",
+    "71:16": "One long first colon with no flex in the Latin; the comma kept. *superextollétur super Líbanum* → *acima do Líbano se erguerá* (extóllere → erguer, row open; the *super-* of the verb carried by *acima*). The Latin's order puts *fructus ejus* last before the mediant; kept, so the colon closes on *fruto*.",
+    "71:17": "*in sǽcula → pelos séculos* (D43, names 71:17). *nomen ejus* twice, kept.",
+    "71:17b": "*magnificáre → engrandecer* (row; the Greek μακαριοῦσιν, 'call blessed', is another verb — the Latin followed). *omnes tribus terræ → todas as tribos da terra*.",
+    "71:18": "The close of Book II. *Benedíctus Dóminus, Deus Israël* → *Bendito o Senhor, Deus de Israel*, verbless, as 40:14 (D41). Responsory R. of Pent01-0 and Gradual of Epi1-0a (with *magna*, grep).",
+    "71:19": "*in ætérnum → para sempre* (D23). *replébitur → será cheia* (the replére row: passive kept). *fiat, fiat → assim seja, assim seja* (D41). The first colon verbless, carrying on 71:18's acclamation."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels (Latin, Rahlfs, WLC, DRB, MS1932, DM1962). Hard readings: 71:15 *adorábunt de ipso* (the old sense of adoráre, 'pray'; the Greek προσεύξονται περί), 71:16 *firmaméntum* (στήριγμα, support and staff of bread; D31 left it here), 71:16 *florébunt de civitáte* (no subject), 71:5 / 71:17 *ante* (place or time). Liturgical uses by grep (ps032/uses.py): Epiphany (71:10–11; Sancti/01-06 horas and missa), Advent (71:7, 71:8, 71:11; Adv1-1, Adv2-0, Adv3-0, Adv3-3), Epi1-0a (71:18 with *magna … a sǽculo*, 71:3 with *tuo*), Pent01-0 (71:18), 10-DU (71:8, 71:11), St Peter Claver (71:12–13). Glossary applied: D15 juízo, D23, D24, D30, D38, D41, D42, D43; rows suscípere (thing), términi, múnera, párcere, usúra, redímere, firmaméntum, summus, fænum (36:2), benedícere, adjútor, replére, stillicídium, calumniári, abundántia, magnificáre, majéstas."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 71:5 second colon −6 (*de geração em geração*, the formula row; the Latin's doubled noun is in it) and first colon +3 (*diante da lua*); 71:8 first colon −5 (*de mar a mar*, the idiom for *a mari usque ad mare*; nothing omitted); 71:19 second colon +6 (*assim seja, assim seja*, D41, as 40:14); 71:4, 71:7 −3/+3 and 71:9, 71:10 +3 (Portuguese articles and the analytic *se prostrarão*, *seja tirada*). The rhyme flagged in draft 0 at 71:11 (*adorarão / servirão*) was removed by returning to the Latin's order. No cadence on a proparoxytone except 71:9 *etíopes*, 71:10 *dádivas*, 71:17 *séculos* at the mediant, where the Latin too is proparoxytone."
+    }
+  ]
+}
