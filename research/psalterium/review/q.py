@@ -11,7 +11,7 @@ import unicodedata
 from pathlib import Path
 
 here = Path(__file__).resolve().parent
-root = here.parents[2] / 'content/do/horas/Latin/Psalterium/Psalmorum'
+root = here.parents[2] / 'content/do/web/www/horas/Latin/Psalterium/Psalmorum'
 
 
 def plain(text):
