@@ -1,0 +1,444 @@
+{
+  "psalm": 22,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "22:1": "O Senhor {regit}, e nada me faltará: * num lugar de {pascua}, ali me colocou.",
+    "22:2": "Sobre a água {refectio} me {educavit}: * {convertit}.",
+    "22:3": "Guiou-me {semitas}, * por causa do seu nome.",
+    "22:4": "Pois, ainda que eu ande no meio da sombra da morte, não temerei males: * porque vós estais comigo.",
+    "22:4b": "A vossa vara, e o vosso {baculus}: * {ipsa}.",
+    "22:5": "Preparastes {conspectu} uma mesa, * {tribulant}.",
+    "22:5b": "{impinguasti}: * {calix}",
+    "22:6": "E a vossa misericórdia {subsequetur} * todos os dias da minha vida:",
+    "22:6b": "{utinhabitem}, * {longitudo}."
+  },
+  "decisions": [
+    {
+      "id": "regit",
+      "refs": ["22:1"],
+      "latin": "Dóminus regit me",
+      "kind": "glossary",
+      "why": "The colon says regit, a present of régere. Douay-Rheims has “The Lord ruleth me”; Matos Soares 1932 has “O Senhor me governa”. The LXX ποιμαίνει is both “shepherd” and “rule”; the Hebrew is the noun “my shepherd”. The pasture is the next colon (in loco páscuæ), so this one does not need to say pastor. The glossary’s open row is reger, and the Sunday Sext versicle is this half-verse, so it has to stand alone.",
+      "options": [
+        {
+          "label": "me rege",
+          "forms": {"regit": "me rege"},
+          "note": "the Latin’s verb; the versicle can open on it",
+          "from": "glossary"
+        },
+        {
+          "label": "é o meu pastor",
+          "forms": {"regit": "é o meu pastor"},
+          "note": "the Hebrew’s noun, and what the ear expects; the Latin has no pastor here",
+          "warn": true
+        },
+        {
+          "label": "me governa",
+          "forms": {"regit": "me governa"},
+          "note": "Matos Soares 1932 — same sense, a commoner verb",
+          "from": "MS1932"
+        },
+        {
+          "label": "me apascenta",
+          "forms": {"regit": "me apascenta"},
+          "note": "imports the shepherding of ποιμαίνει into a colon the Latin wrote as regit",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "pascua",
+      "refs": ["22:1"],
+      "latin": "in loco páscuæ",
+      "kind": "glossary",
+      "why": "páscuæ is genitive singular: a place of pasture, not pastures. Matos Soares 1932 writes the plural “pastos”. The glossary’s open row is pastagem, and the same word has to serve oves páscuæ and pópulus páscuæ ejus. The second half of the verse is also the response of the Sunday Sext versicle, so it opens on the place.",
+      "options": [
+        {
+          "label": "pastagem",
+          "forms": {"pascua": "pastagem"},
+          "note": "singular, as the Latin",
+          "from": "glossary"
+        },
+        {
+          "label": "pastos",
+          "forms": {"pascua": "pastos"},
+          "note": "Matos Soares 1932 — the plural the ear knows",
+          "from": "MS1932"
+        },
+        {
+          "label": "pasto",
+          "forms": {"pascua": "pasto"},
+          "note": "singular, but “lugar de pasto” is a paddock more than a pasture"
+        }
+      ]
+    },
+    {
+      "id": "refectio",
+      "refs": ["22:2"],
+      "latin": "super aquam refectiónis",
+      "kind": "word",
+      "why": "reféctio is refreshment, restoration — Douay-Rheims “the water of refreshment”; the LXX is ὕδατος ἀναπαύσεως, “water of rest”, which the Latin did not write (that would be réquies). Matos Soares 1932 paraphrases “água fortificante” and turns super into “junto”. The genitive is one of quality (água de refrigério, as água de vida). refrigério is the Church’s word for this and is the glossary’s open row; it is not a common word.",
+      "options": [
+        {
+          "label": "de refrigério",
+          "forms": {"refectio": "de refrigério"},
+          "note": "the Latin’s noun; quality genitive",
+          "from": "glossary"
+        },
+        {
+          "label": "de repouso",
+          "forms": {"refectio": "de repouso"},
+          "note": "the Greek’s rest, plainer; it is réquies, not reféctio"
+        },
+        {
+          "label": "que restaura",
+          "forms": {"refectio": "que restaura"},
+          "note": "a clause for the noun"
+        },
+        {
+          "label": "do refrigério",
+          "forms": {"refectio": "do refrigério"},
+          "note": "the glossary’s “água do refrigério” — reads as the refreshment’s own water"
+        }
+      ]
+    },
+    {
+      "id": "educavit",
+      "refs": ["22:2"],
+      "latin": "educávit me",
+      "kind": "word",
+      "why": "The perfect in -ávit is ēducāre, “bring up, nourish”, not ēdūcere “lead out” (that perfect is edúxit). Douay-Rheims has “He hath brought me up”; the LXX is ἐξέθρεψέν με, “he nourished me”. Matos Soares 1932 writes “Conduziu-me”, which is the other verb, and the Hebrew’s “he leads me”. The glossary’s open row is nutrir, one family with enutríre.",
+      "options": [
+        {
+          "label": "nutriu",
+          "forms": {"educavit": "nutriu"},
+          "note": "ēducāre; the perfect of the chain collocávit … educávit … convértit … dedúxit",
+          "from": "glossary"
+        },
+        {
+          "label": "criou",
+          "forms": {"educavit": "criou"},
+          "note": "“reared”; also heard as “created”"
+        },
+        {
+          "label": "conduziu",
+          "forms": {"educavit": "conduziu"},
+          "note": "Matos Soares 1932 — ēdūcere, or the Hebrew; the form on the page is educávit",
+          "from": "MS1932",
+          "warn": true
+        },
+        {
+          "label": "educou",
+          "forms": {"educavit": "educou"},
+          "note": "the cognate; heard as schooling"
+        }
+      ]
+    },
+    {
+      "id": "convertit",
+      "refs": ["22:2"],
+      "latin": "ánimam meam convértit",
+      "kind": "glossary",
+      "why": "The spelling is present or perfect; the verse stands in a run of perfects, the Greek is the aorist ἐπέστρεψεν, and both Douay-Rheims (“he hath converted”) and Matos Soares 1932 (“converteu”) take it as past. D25 keeps voltar for convértere and uses converter where the sense is a soul turned to God (18:8 convértens ánimas). This is that sense. The glossary’s open row already has converteu a minha alma here.",
+      "options": [
+        {
+          "label": "converteu a minha alma",
+          "forms": {"convertit": "converteu a minha alma"},
+          "note": "D25’s exception, as 18:8",
+          "from": "glossary"
+        },
+        {
+          "label": "voltou a minha alma",
+          "forms": {"convertit": "voltou a minha alma"},
+          "note": "the glossary’s ordinary verb; heard as turning the soul around, not as conversion"
+        },
+        {
+          "label": "fez voltar a minha alma",
+          "forms": {"convertit": "fez voltar a minha alma"},
+          "note": "the causative the Hebrew שובב can carry; the Latin is the simple verb"
+        }
+      ]
+    },
+    {
+      "id": "semitas",
+      "refs": ["22:3"],
+      "latin": "super sémitas justítiæ",
+      "kind": "word",
+      "why": "sémita is vereda (D15), justítia is justiça, and dedúcere of guidance is guiar (D22). What can still move is super: “sobre as veredas” is the Latin preposition and sounds like walking on top of the paths; “pelas” is how Portuguese says being led along them. Matos Soares 1932 has “por veredas de justiça”, with no article. The noun does not change.",
+      "options": [
+        {
+          "label": "pelas veredas da justiça",
+          "forms": {"semitas": "pelas veredas da justiça"},
+          "note": "the path one is led along",
+          "from": "draft"
+        },
+        {
+          "label": "sobre as veredas da justiça",
+          "forms": {"semitas": "sobre as veredas da justiça"},
+          "note": "super kept as sobre"
+        },
+        {
+          "label": "por veredas de justiça",
+          "forms": {"semitas": "por veredas de justiça"},
+          "note": "Matos Soares 1932 — no article",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "baculus",
+      "refs": ["22:4b"],
+      "latin": "báculus tuus",
+      "kind": "glossary",
+      "why": "The only báculus in the psalter, beside virga, which is vara. báculo in Brazil is a bishop’s staff. bordão is a pilgrim’s. cajado is the shepherd’s stick and is a paroxytone, where báculo is a proparoxytone at the mediant. The glossary’s open row is cajado.",
+      "options": [
+        {
+          "label": "cajado",
+          "forms": {"baculus": "cajado"},
+          "note": "the shepherd’s stick; sings at the mediant",
+          "from": "glossary"
+        },
+        {
+          "label": "báculo",
+          "forms": {"baculus": "báculo"},
+          "note": "the cognate; a bishop’s staff, and a proparoxytone"
+        },
+        {
+          "label": "bordão",
+          "forms": {"baculus": "bordão"},
+          "note": "the pilgrim’s staff"
+        }
+      ]
+    },
+    {
+      "id": "ipsa",
+      "refs": ["22:4b"],
+      "latin": "ipsa me consoláta sunt",
+      "kind": "grammar",
+      "why": "virga is feminine and báculus is masculine, so ipsa … consoláta is neuter plural: the two things themselves comforted me. Portuguese puts a mixed pair in the masculine plural. consoláta sunt is the perfect of the deponent (Douay-Rheims “they have comforted me”). “mesmos” is ipsa’s own emphasis; without it the subject pronoun is only the gender Portuguese needs.",
+      "options": [
+        {
+          "label": "eles mesmos me consolaram",
+          "forms": {"ipsa": "eles mesmos me consolaram"},
+          "note": "neuter plural, and ipsa kept",
+          "from": "draft"
+        },
+        {
+          "label": "eles me consolaram",
+          "forms": {"ipsa": "eles me consolaram"},
+          "note": "drops the intensive"
+        },
+        {
+          "label": "elas mesmas me consolaram",
+          "forms": {"ipsa": "elas mesmas me consolaram"},
+          "note": "treats the cajado as feminine"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": ["22:5"],
+      "latin": "in conspéctu meo",
+      "kind": "glossary",
+      "why": "The open row for in conspéctu is à vista de, and this verse is one of the places it names. “diante de mim” and “perante mim” are what the line is famous as, and they are the words of ante fáciem, which this colon does not have. Douay-Rheims has “before me”; Matos Soares 1932 has “diante de mim”.",
+      "options": [
+        {
+          "label": "à minha vista",
+          "forms": {"conspectu": "à minha vista"},
+          "note": "the row’s noun",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de mim",
+          "forms": {"conspectu": "diante de mim"},
+          "note": "Matos Soares 1932 and Douay-Rheims — ante’s word",
+          "from": "MS1932"
+        },
+        {
+          "label": "perante mim",
+          "forms": {"conspectu": "perante mim"},
+          "note": "the same relation, a stiffer word"
+        }
+      ]
+    },
+    {
+      "id": "tribulant",
+      "refs": ["22:5"],
+      "latin": "advérsus eos, qui tríbulant me",
+      "kind": "glossary",
+      "why": "tribuláre stays atribular, one family with tribulátio. The glossary records that readers keep not knowing the verb, and that afligem was asked for and refused because afligir is afflígere’s. advérsus is “against, over against” (LXX ἐξ ἐναντίας; Douay-Rheims “against them that afflict me”). Matos Soares 1932 has “à vista daqueles que me perseguem”, which spends vista and pérsequi’s verb.",
+      "options": [
+        {
+          "label": "contra os que me atribulam",
+          "forms": {"tribulant": "contra os que me atribulam"},
+          "note": "the working verb; contra for advérsus",
+          "from": "glossary"
+        },
+        {
+          "label": "contra os que me afligem",
+          "forms": {"tribulant": "contra os que me afligem"},
+          "note": "the plainer verb; it is afflígere’s"
+        },
+        {
+          "label": "em face dos que me atribulam",
+          "forms": {"tribulant": "em face dos que me atribulam"},
+          "note": "advérsus as “opposite”, the table set facing them"
+        }
+      ]
+    },
+    {
+      "id": "impinguasti",
+      "refs": ["22:5b"],
+      "latin": "Impinguásti in óleo caput meum",
+      "kind": "word",
+      "why": "impinguáre is “make fat” (pinguis). With in óleo it is the oiling of the head: the LXX is ἐλίπανας ἐν ἐλαίῳ, “you made oily with oil”. Douay-Rheims and Matos Soares 1932 both say “anointed”. engordar is the Latin’s fat and is heard first as making the head stout. ungir is the act, and it shares a verb with úngere, which never stands beside it. untar keeps the grease and stays apart from úngere. The glossary’s open row is ungir.",
+      "options": [
+        {
+          "label": "Ungistes com óleo a minha cabeça",
+          "forms": {"impinguasti": "Ungistes com óleo a minha cabeça"},
+          "note": "the oiling; in óleo as com",
+          "from": "glossary"
+        },
+        {
+          "label": "Engordastes com óleo a minha cabeça",
+          "forms": {"impinguasti": "Engordastes com óleo a minha cabeça"},
+          "note": "the fat in the verb; heard as a stout head"
+        },
+        {
+          "label": "Untastes com óleo a minha cabeça",
+          "forms": {"impinguasti": "Untastes com óleo a minha cabeça"},
+          "note": "the grease, apart from úngere"
+        }
+      ]
+    },
+    {
+      "id": "calix",
+      "refs": ["22:5b"],
+      "latin": "calix meus inébrians quam præclárus est",
+      "kind": "order",
+      "why": "Three words have to stay: cálice (the glossary’s calix), embriagar (the image, not explained), excelente (præclárus, the open row; esplêndido is a proparoxytone). The Latin puts the cup first and the cry quam præclárus est last. The cry at the end lands on é, a thin final; the praise first lands on embriaga, a paroxytone, and says the same words. The Latin’s meus is kept against the LXX’s ποτήριόν σου. The colon runs long: the three words have no shorter faithful form.",
+      "options": [
+        {
+          "label": "e quão excelente é o meu cálice que embriaga!",
+          "forms": {"calix": "e quão excelente é o meu cálice que embriaga!"},
+          "note": "the praise first, so the colon ends on embriaga; quam kept as quão",
+          "from": "draft"
+        },
+        {
+          "label": "e o meu cálice que embriaga, quão excelente é!",
+          "forms": {"calix": "e o meu cálice que embriaga, quão excelente é!"},
+          "note": "the Latin’s order; the final is the copula"
+        },
+        {
+          "label": "e como é excelente o meu cálice que embriaga!",
+          "forms": {"calix": "e como é excelente o meu cálice que embriaga!"},
+          "note": "como for quam — plainer, and one syllable longer",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "subsequetur",
+      "refs": ["22:6"],
+      "latin": "misericórdia tua subsequétur me",
+      "kind": "word",
+      "why": "The only subséqui in the psalter. It is “follow after”, future. The LXX καταδιώξεταί and the Hebrew are “will pursue”, and the Latin did not write pérsequi. Matos Soares 1932 has “irá após de mim”. The glossary’s open row is seguir. ómnibus diébus vitæ meæ is the same colon as 26:4, and it reads the same: todos os dias da minha vida.",
+      "options": [
+        {
+          "label": "me seguirá",
+          "forms": {"subsequetur": "me seguirá"},
+          "note": "follow, not pursue",
+          "from": "glossary"
+        },
+        {
+          "label": "irá após mim",
+          "forms": {"subsequetur": "irá após mim"},
+          "note": "Matos Soares 1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "me perseguirá",
+          "forms": {"subsequetur": "me perseguirá"},
+          "note": "the Greek and the Hebrew; pérsequi’s verb",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "utinhabitem",
+      "refs": ["22:6b"],
+      "latin": "ut inhábitem in domo Dómini",
+      "kind": "grammar",
+      "why": "ut plus the subjunctive is a purpose clause: the mercy follows so that I may dwell. The Hebrew is “and I shall dwell”, which the Latin did not write. 26:4 has the same words after a request (Uma coisa pedi), and there ut is what was asked, so that psalm says “que eu habite”. Here nothing has been asked; para que is the purpose. The words after the conjunction are 26:4’s: habite na casa do Senhor. domus is casa.",
+      "options": [
+        {
+          "label": "E para que eu habite na casa do Senhor",
+          "forms": {"utinhabitem": "E para que eu habite na casa do Senhor"},
+          "note": "purpose, as the Latin",
+          "from": "glossary"
+        },
+        {
+          "label": "E que eu habite na casa do Senhor",
+          "forms": {"utinhabitem": "E que eu habite na casa do Senhor"},
+          "note": "26:4’s conjunction; there it is a thing asked for"
+        },
+        {
+          "label": "E habitarei na casa do Senhor",
+          "forms": {"utinhabitem": "E habitarei na casa do Senhor"},
+          "note": "the Hebrew’s “I shall dwell”",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "longitudo",
+      "refs": ["22:6b"],
+      "latin": "in longitúdinem diérum",
+      "kind": "word",
+      "why": "The working phrase is longos dias (20:5, 90:16). in longitúdinem is “for the length of”, a duration. “por longos dias” is the glossary’s wording for this colon and is four syllables short of the Latin’s nine, at the close of the psalm. “durante longos dias” is the same phrase with the duration said out, and Matos Soares 1932 has those words; it sits two syllables under the Latin, inside the breath.",
+      "options": [
+        {
+          "label": "durante longos dias",
+          "forms": {"longitudo": "durante longos dias"},
+          "note": "the duration said so the colon can be sung; Matos Soares 1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "por longos dias",
+          "forms": {"longitudo": "por longos dias"},
+          "note": "the glossary’s preposition; the colon is short",
+          "from": "glossary"
+        },
+        {
+          "label": "em longura de dias",
+          "forms": {"longitudo": "em longura de dias"},
+          "note": "keeps a noun for longitúdo; longura is not a word one prays"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "22:1": "The two halves are the Sunday Sext versicle and its response, and each has to stand alone. régere stays reger (open row); the pasture is the next colon, so pastor is not smuggled in here. ibi is kept (ali), resumptive, with a comma before it so the place and the placing are two breaths. collocáre → colocar. nihil mihi déerit is future: nada me faltará.",
+    "22:2": "super kept as sobre (Matos Soares 1932 turns it into junto). educávit is ēducāre, so the Lord nourishes on the water; he does not lead beside it. convértit taken as perfect because collocávit, educávit and dedúxit around it are perfects, and as converter under D25.",
+    "22:3": "dedúcere of guidance → guiou (D22); sémita → vereda (D15), the plural kept. propter nomen suum → por causa do seu nome, nothing added.",
+    "22:4": "Nam is pois, not por isso (that is “therefore”); quóniam in the same verse stays porque, so the two Latin conjunctions do not become one word. ambulávero is a future perfect; ainda que takes the present subjunctive in Portuguese (ande) — mood is grammar. The future subjunctive andar would match the tense more tightly and is not how ainda que is said. in médio umbræ mortis stays no meio da sombra da morte: the Hebrew’s valley is not in the Latin. mala stays plural, bare. tu is vós (D1): the praying voice turns to God. No Senhor supplied; the Latin has no vocative.",
+    "22:4b": "virga → vara. The comma of Virga tua, et is kept, a breath between the two sticks. ipsa is neuter plural (vara feminine, cajado masculine), so eles, not elas.",
+    "22:5": "parásti → preparastes. in conspéctu meo is the glossary’s à vista, not diante, which is ante’s. The table comes after the place, as in the Latin.",
+    "22:5b": "The second colon is long (checker +4). cálice, embriaga and excelente have no shorter faithful forms; quão is one syllable in the mouth and two in the counter. The praise stands first so the colon does not close on é. The image of the cup that makes drunk is not explained. meus is the Latin’s, against the LXX’s “your cup”.",
+    "22:6": "subsequétur is future and is follow, not the Greek’s pursue. todos os dias da minha vida copies 26:4’s ómnibus diébus vitæ meæ. The colon at the end is the Latin’s: the sentence goes on into 22:6b.",
+    "22:6b": "para que, not 26:4’s bare que: there the ut-clause is the thing asked for, here it is the purpose of the mercy. durante longos dias rather than the glossary’s por longos dias, so the last colon is not four syllables short of in longitúdinem diérum."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Drafted from the Latin, the parallels (LXX, Hebrew, Douay-Rheims, Matos Soares 1932) and the glossary. The Diurnal Monástico is not in this worktree (no OCR files), so no cadence was taken from it. Hard readings: regit is not pastor; educávit is nourish, not lead; impinguásti is the oiling, not “make the head fat”; ut inhábitem is purpose, not “I shall dwell”; the cup is meus, not the LXX’s suus. DO’s Portuguese was not used."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass (ids and marks). One soft flag: 22:5b second colon +4. Accepted — cálice, embriaga and excelente have no shorter faithful form, and quão is one syllable when said. 22:4b and 22:5 first colons and 22:6b first colon are +2, inside the breath; 22:6b second colon is −2 (durante, against por which would be −4)."
+    }
+  ]
+}

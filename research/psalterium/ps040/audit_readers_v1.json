@@ -1,0 +1,3 @@
+[
+  {"step": "readers", "note": "codex.py not called (Codex out of credits since Ps 37; AGENT-BRIEF step 5). All three v1 readers — Latinist, stylist, ambiguity — handed to the coordinator, to be run as fresh-context readers that see only the role prompt and the target file (prayed.vos.json / blind/prayed.vos.json)."}
+]

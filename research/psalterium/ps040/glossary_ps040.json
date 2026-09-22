@@ -1,0 +1,23 @@
+{
+  "append": [
+    {"row": "| inops / pauper / egénus |", "text": "**Ps 40:2 *super egénum, et páuperem* → *acerca do necessitado e do pobre*** — egénus → *necessitado* beside *pobre*, as 34:10b; no reader stopped at either word."},
+    {"row": "| in idípsum |", "text": "**Ps 40:7b *et loquebátur in idípsum* (one man speaking; the Greek puts ἐπὶ τὸ αὐτό with the next verse's whispering) → *e falava no mesmo sentido*** (DRB 'to the same purpose'): neither *juntos* (a plural) nor *a um só tempo* fits one speaker. Ruled locally; the blind reader heard both readings the Latin allows (the same talk; in agreement with the others); the stylist's *do mesmo modo* (manner) is an option; the Latinist passed it twice. Third local rendering: evidence that D9 cannot be one word."},
+    {"row": "| vivificáre, *vivífica me* |", "text": "**Ps 40:3 *et vivíficet eum* → *e o vivifique*** (the Preces versicle for the Pope): unknown to the blind reader again (Ps 118, Ps 40); *lhe dê vida* (MS1932) is the option there."},
+    {"row": "| resúrgere |", "text": "**Ps 40:9 *non adíciet ut resúrgat* → *não tornará a ressurgir*** (adícere ut → *tornar a*, as 9:39 appónere): the stylist heard the 'again' doubled; kept, the Latin doubles it too; *levantar-se* option. 40:11 *resúscita me* → *ressuscitai-me*, as this row foresaw."},
+    {"row": "| lectus / stratum |", "text": "**Ps 40:4 applied:** *no leito da sua dor … toda a sua cama revolvestes* (v2: *super lectum* → *no leito*, the stylist's)."},
+    {"row": "| a sǽculo |", "text": "**Ps 40:14 *a sǽculo et usque in sǽculum* → *desde sempre e para todo o sempre*** (this row + D37); the Latinist asked twice (minor) for *de século em século*, refused. 89:2 and 105:48 should copy it."},
+    {"row": "| fíeri, jussive *Fiat* |", "text": "**Ps 40:14 *fiat, fiat* standing alone → *assim seja, assim seja*** — see the formula row *fiat, fiat*."},
+    {"row": "| supplantáre |", "text": "**Ps 40:10 the noun *supplantátio* → *rasteira*** — see its row."},
+    {"row": "| confirmáre |", "text": "**Ps 40:13 *confirmásti me in conspéctu tuo* → *me firmastes na vossa presença*** — a person as object, the row's proposed *firmar*; passed the Latinist twice; the blind reader heard 'set me firmly before you'."},
+    {"row": "| magnificáre |", "text": "**Ps 40:10 *magnificávit super me supplantatiónem* → *fez grande contra mim a rasteira*:** a thing made great, not praise or boasting; draft 1's *engrandeceu … a sua rasteira* was the stylist's worst line (no such collocation) and *engrandeceu* was unknown to the blind reader there. Local; *engrandecer* stays the row's word."}
+  ],
+  "terms": [
+    "| ops, *opem ferre* | socorro (*O Senhor lhe traga socorro*) | open | Ps 40:4 only in this build; *auxílio* is adjutórium's. *lhe leve* (draft 1) was heard as the adjective 'light' by the stylist. |",
+    "| supplantátio | rasteira (*fez grande contra mim a rasteira*) | open | Ps 40:10 (L&S: 'hypocritical deceit', citing this verse; the Greek πτερνισμός is from 'heel'; Jn 13:18 Clementine *levabit contra me calcaneum suum*, fetched). *Rasteira* is the heel-trip and, in Brazil, the figure of a betrayal: image and sense in one word; all three readers heard betrayal. The stylist calls it colloquial; *traição* (MS1932) is the option. |",
+    "| susurráre | sussurrar (*Contra mim sussurravam todos os meus inimigos*) | open | Ps 40:8 (grep: the only place); *murmurar* is murmuráre's; *cochichar* (MS1932) the option. No reader remarked. |"
+  ],
+  "formulas": [
+    "| *fiat, fiat* (40:14; 71:19, 88:53, 105:48 *Fiat, fiat* — the closes of Books I–IV, grep) | *assim seja, assim seja* | open — Ps 40: *Fiat* with no subject renders the Hebrew *amen* (γένοιτο); *Seja, seja* is not Portuguese, *faça-se* failed a stylist twice (Ps 118), *amém* is the Hebrew. MS1932 and DRB 'So be it'. No reader remarked. |",
+    "| *Benedíctus Dóminus, Deus Israël, a sǽculo et usque in sǽculum* (40:14 = 105:48a; the Benedictus canticle opens *Benedíctus Dóminus Deus Israël*) | *Bendito o Senhor, Deus de Israel, desde sempre e para todo o sempre* | open — Ps 40; 105:48 and the canticle should copy it |"
+  ]
+}

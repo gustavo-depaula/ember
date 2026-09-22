@@ -1,0 +1,7 @@
+The blind readers have replied. Their files are in research/psalterium/trials/grok-4.7/ps{{NNN}}/critic/ (v1.latinist.json, v1.stylist.json, and v1.ambiguity.json if present; each has a "model" field — the readers were Claude Opus in a fresh context, not Codex).
+
+Same trial rules as before: never read research/psalterium/ps{{NNN}}/, site/, review/, unread/ or PROGRESS.md; write only inside your trial folder; no glossary.md / PROGRESS.md / DECISIONS.md edits; no commit; python3.13.
+
+Now do the brief's steps 6–7 (research/psalterium/AGENT-BRIEF.md): copy prayed.json to prayed.v1.json first, then weigh EVERY remark — take the Latinist's fixes that are right; take a stylist fix only if it respects rule 2 (D2), else keep your text and add the proposal as an option in a decision; record each remark's fate in the audit step's `outcomes` list (taken / refused with reason / option with decision id). Bump version to 2, re-run render.py and checks.py until checks exit 0. Write glossary-proposals.md (new or changed rows you would propose, in glossary.md's row format) and progress-row.txt (one line: psalm, verses, version, status, which readers ran and what became of their remarks, the hardest decisions). Do NOT run codex.py; the coordinator runs the Latinist gate on your draft 2.
+
+Reply: `READY FOR GATE: ps{{NNN}} v2`, plus at most five lines: how many remarks taken / refused / optioned, and the hardest call.

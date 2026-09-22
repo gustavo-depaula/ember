@@ -1,0 +1,10 @@
+[
+  {"step": "latinist", "file": "critic/v2.latinist.json", "note": "Gate on draft 2, read by claude-opus-5-5 (fresh context; Codex out of credits). No major; four minors, three of them repeated from v1 on unchanged words. «A faithful, close rendering that keeps the Latin's oddities.» Pointing matches in every verse. None taken; the gate is clean of majors, so draft 2 stands.",
+    "outcomes": [
+      {"verse": "40:8", "remark": "minor: *mihi* dropped; *pensar em* softens *cogitáre mala* → 'pensavam males para mim'", "outcome": "refused", "decision": "mihi8", "reason": "The dative only repeats the person the anaphora *contra mim … contra mim* already names; the v1 stylist found the full chain limping. *pensar em* is the cogitáre row's regency (34:4b, 34:20, where a stylist asked for the preposition). Draft 1's *males para mim* is option 2."},
+      {"verse": "40:10", "remark": "minor: *panes* plural → 'os meus pães'", "outcome": "refused", "decision": "panes", "reason": "As on v1: the idiom *comer o pão de alguém*; number is grammar (D2, D29)."},
+      {"verse": "40:12", "remark": "minor: *à minha custa* for *super me* → 'sobre mim'", "outcome": "refused", "reason": "As on v1: the formula of supergaudére (same Greek) in 29:2, 34:19, 34:24, 37:17."},
+      {"verse": "40:14", "remark": "minor: *sempre* for *sǽculo … sǽculum* → 'de século em século'", "outcome": "refused", "decision": "asaeculo", "reason": "As on v1: D37 and the *a sǽculo* row; his wording is option 4."}
+    ]},
+  {"step": "glossary", "note": "glossary.md: evidence appended to the rows inops / pauper / egénus, in idípsum, vivificáre, resúrgere, lectus / stratum, a sǽculo, fíeri jussive, supplantáre, confirmáre, magnificáre; new rows (open): *ops, opem ferre*, *supplantátio*, *susurráre*, formula *fiat, fiat*, formula *Benedíctus Dóminus, Deus Israël, a sǽculo et usque in sǽculum*. The Hetzenauer print read is still owed."}
+]

@@ -359,6 +359,25 @@ Cost of reversing: each is one glossary row and one decision in Ps 37 or 38.
 
 37:23 reads ***Atendei em meu auxílio*** (D3's *atender* for *inténdere*, plus the phrase *em meu auxílio*). The stylist says *atender em* is not Portuguese and asks for *Acudi em meu auxílio*; the blind reader heard "come to my help" first; the Latinist passed it twice. I agree the construction is strained: *atender* wants an object or *a*. But *acudir* drops the verb of attending that D3 keeps parallel to *exaudíre*. This is not a word for one psalm. The same Latin, as *Deus, in adjutórium meum inténde*, opens every Hour (69:2), so the psalter's most-said line will say whatever is ruled here. **It needs Gustavo before Ps 69.** Until then 37:23 keeps the agent's wording, with *Acudi* as the option.
 
+## D41 — Words settled from Pss 39–40 — Claude, for review
+
+Readers again fresh-context Claude Opus (as D39).
+
+- ***fæx → borra*** (39:3 *e da lama da borra*): the second noun and its image of sediment kept. Draft 1's *lodo* made a tautology that the three readers heard.
+- ***carmen → canto*** (39:4). *cântico* is kept for *cánticum* in the same verse, and *hino* for *hymnus*.
+- ***insánia → loucura***, with *insániæ falsæ → as loucuras enganosas* (39:5). A madness is not "false"; the lie is in the deceit (μανίας ψευδεῖς), and MS1932 agrees.
+- ***oblátio → oferenda*** (39:7, 50:21); ***pro peccáto → oferta pelo pecado*** (39:7b). The ellipsis *nem pelo pecado* would be heard as "nor because of sin".
+- ***in cápite libri → na cabeça do livro*** (39:8). This keeps the image, as *caput ánguli* does. *No princípio do livro* stays the option.
+- ***mendícus → mendigo***, kept apart from *pauper*, *egénus* and *inops* (D38). ***sollícitus esse → ter cuidado de***.
+- ***conféstim → logo***; ***ferre confusiónem → carregar a vergonha***; ***tardáre → tardar***, kept apart from *morári → demorar* in the twin 69:6b. ***super númerum → além de todo número***.
+- ***ops (opem ferre) → socorro*** (40:4); ***susurráre → sussurrar*** (40:8).
+- ***supplantátio → rasteira*** (40:10). The heel of πτερνισμός and the betrayal (Jn 13:18, *levabit contra me calcaneum suum*) are both in the one word, and all three readers heard betrayal. The stylist calls it colloquial. **Flagged for Gustavo's ear**; *traição* (MS1932) is the option.
+- ***Fiat, fiat → assim seja, assim seja*** (40:14, and the closes of Books II–IV). ***Benedíctus Dóminus, Deus Israël, a sǽculo et usque in sǽculum → Bendito o Senhor, Deus de Israel, desde sempre e para todo o sempre***; 105:48 copies it.
+- ***annuntiáre → anunciar***, ***auferre → tirar***: working rows, uniform so far.
+- The doublet 39:15b–18b ↔ 69:4–6b: Ps 69 copies each identical Latin phrase and decides only where the Latin differs (*statim*, *egénus*, *ne moréris*). Its opening line waits on D40.
+
+Cost of reversing: each is one glossary row and one decision in Ps 39 or 40.
+
 ---
 
 ## How agents decide

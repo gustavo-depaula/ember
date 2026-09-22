@@ -1,0 +1,35 @@
+[
+  {"step": "latinist", "file": "critic/v1.latinist.json", "note": "Draft 1, read by claude-opus-5-5 (fresh context; Codex out of credits). No major; five minors in four verses. «A faithful, close rendering that keeps the Septuagintal readings (in animam inimicorum, versasti, the tenses of 40:7, supplantationem as 'rasteira', propter innocentiam without a possessive).» Pointing matches in every verse. Two taken, three refused.",
+    "outcomes": [
+      {"verse": "40:2", "remark": "minor: *super* dropped → 'o que entende acerca do necessitado e do pobre'", "outcome": "taken", "decision": "intellegit"},
+      {"verse": "40:10", "remark": "minor: *panes* plural → 'os meus pães'", "outcome": "refused", "decision": "panes", "reason": "*comer o pão de alguém* is the idiom for sharing his table; *os meus pães* is heard as loaves; number is grammar (D2, as D29). Option 2."},
+      {"verse": "40:10", "remark": "minor: *a sua* added → 'a rasteira'", "outcome": "taken", "decision": "supplantatio"},
+      {"verse": "40:12", "remark": "minor: *à minha custa* interprets *super me* → 'não se alegrará sobre mim'", "outcome": "refused", "reason": "The Greek is supergaudére's (ἐπιχαρῇ ἐπ᾿ ἐμέ), and 29:2, 34:19, 34:24, 37:17 all say *à minha custa*; *alegrar-se sobre mim* is not Portuguese. Recorded in choices 40:12."},
+      {"verse": "40:14", "remark": "minor: *sempre* abstracts *sǽculo … sǽculum* → 'de século em século'", "outcome": "refused", "decision": "asaeculo", "reason": "D37 rules *para todo o sempre* for *usque in sǽculum*; the first member follows the *a sǽculo* row. His wording is option 4."}
+    ]},
+  {"step": "stylist", "file": "critic/v1.stylist.json", "note": "Draft 1, read by claude-opus-5-5 (fresh context). Seven verses remarked; best 40:5, worst 40:10. «Faithful, sober and mostly sayable … Its weak points are a handful of calques … and one register slip in 'engrandeceu a sua rasteira'. The closing verses (11–14) settle into genuine prayer.» Six taken in whole or part, four refused.",
+    "outcomes": [
+      {"verse": "40:2", "remark": "*entende o necessitado* heard as empathy → 'o que atende ao necessitado e ao pobre'", "outcome": "option", "decision": "intellegit", "reason": "The fault is mended the Latinist's way (*acerca de*); *atender* is inténdere's (D3). His line is option 3."},
+      {"verse": "40:4", "remark": "*leve* heard as 'light'; *sobre o leito* stiff → 'lhe traga socorro no leito'", "outcome": "taken", "decision": "opem"},
+      {"verse": "40:4", "remark": "*sua … sua* clatter → 'toda a sua cama revolvestes em sua enfermidade'", "outcome": "taken", "decision": "versasti", "reason": "In part: the Latin's order taken; *em sua* without the article refused (rule 5); the two possessives are the Latin's *ejus … ejus*."},
+      {"verse": "40:6", "remark": "*disseram males de* not idiomatic → 'disseram mal de mim'", "outcome": "taken", "decision": "mihi6"},
+      {"verse": "40:7b", "remark": "*saía para fora* redundant → 'Saía porta afora'", "outcome": "option", "decision": "foras", "reason": "The pleonasm is the Latin's (*egrédi foras*) and carries the inside/outside contrast with 40:7; *porta* is an image the Latin lacks."},
+      {"verse": "40:7b", "remark": "*no mesmo sentido* bureaucratic → 'do mesmo modo'", "outcome": "option", "decision": "idipsum", "reason": "Manner, where *in idípsum* is direction or purpose."},
+      {"verse": "40:8", "remark": "*pensavam em males para mim* limps → 'pensavam o mal para mim'", "outcome": "taken", "decision": "mihi8", "reason": "In part: the redundant dative left unsaid; the row's *pensar em* and the plural kept."},
+      {"verse": "40:9", "remark": "*tornará a ressurgir* doubles 'again' → 'tornará a levantar-se'", "outcome": "option", "decision": "resurgat", "reason": "The Latin doubles it too (*adíciet ut resúrgat*); *ressurgir* is the row's word, apart from 40:11's *ressuscitar*."},
+      {"verse": "40:10", "remark": "worst line: *engrandecer uma rasteira* does not exist, register jolt → 'fez grande contra mim a sua rasteira'", "outcome": "taken", "decision": "supplantatio", "reason": "His verb taken, with the Latinist's article; *rasteira* kept."}
+    ]},
+  {"step": "ambiguity", "file": "critic/v1.ambiguity.json", "note": "Draft 1, blind, read by claude-opus-5-5 (fresh context). 18 items, 5 unknown words (vivifique, revolvestes, iníqua, engrandeceu, amparastes). Heard rightly or within the Latin's range: *o livrará o Senhor* (the one who understands), *disseram males de mim*, *Quando morrerá* (the psalmist), *juntou iniquidade para si*, *no mesmo sentido* (both readings the Latin allows), *uma palavra iníqua*, *o homem da minha paz* (my friend), *a sua rasteira* (betrayal), *eu lhes retribuirei*, *me quisestes*, *por causa da inocência* (my innocence), *me firmastes na vossa presença*.",
+    "outcomes": [
+      {"verse": "40:2", "remark": "*entende o necessitado* heard as sympathy", "outcome": "taken", "decision": "intellegit", "reason": "*acerca de* restored (the Latinist's fix)."},
+      {"verse": "40:3", "remark": "*à alma dos seus inimigos* heard vaguely; *vivifique* unknown", "outcome": "refused", "decision": "inanimam", "reason": "The Latin's word, as 26:12; *à vontade* and *lhe dê vida* stay options; evidence noted on the vivificáre row."},
+      {"verse": "40:4", "remark": "sudden 'you' confusing; *revolvestes* unknown", "outcome": "refused", "decision": "versasti", "reason": "The switch of person is the Latin's (and the Greek's); *virastes* is option 2."},
+      {"verse": "40:7", "remark": "subject of *se entrava* not audible", "outcome": "refused", "decision": "videret", "reason": "The Latin names none either; the reader heard the enemy visiting, which is the sense."},
+      {"verse": "40:9", "remark": "tone of the question open (taunt or hope)", "outcome": "refused", "decision": "resurgat", "reason": "The Latin's *numquid … non* leaves it open; kept on purpose."},
+      {"verse": "40:9", "remark": "*iníqua* unknown", "outcome": "refused", "reason": "iníquus → iníquo is the glossary's (kept apart from *ímpio* and *pecador*)."},
+      {"verse": "40:10", "remark": "*engrandeceu* unclear / unknown", "outcome": "taken", "decision": "supplantatio", "reason": "*fez grande*."},
+      {"verse": "40:13", "remark": "*amparastes* unknown", "outcome": "refused", "reason": "suscípere → amparar is settled (D19)."}
+    ]},
+  {"step": "revision", "version": 2, "note": "v2 (draft 1 kept as prayed.v1.json, prayed.v1.vos.json; script revise_v2.py): 40:2 *entende acerca do necessitado e do pobre*; 40:4 *lhe traga socorro no leito … toda a sua cama revolvestes*; 40:6 *disseram mal de mim*; 40:8 *pensavam em males*; 40:10 *fez grande contra mim a rasteira*. New decision `superlectum`."},
+  {"step": "checks", "note": "Draft 2: hard pass, no rhyme flags. 40:2 first colon now +7 (24 syllables: *acerca de* restored beside the settled *Bem-aventurado* and *necessitado*) — the longest colon of the psalm, accepted for the Latinist's fix; 40:10 second −5, 40:14 second +4, 40:9 first +3, 40:12 +3/−3, 40:7 first −4, 40:8 second −3; accepted."}
+]
