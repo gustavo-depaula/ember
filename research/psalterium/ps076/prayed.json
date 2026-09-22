@@ -1,0 +1,1216 @@
+{
+  "psalm": 76,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "76:2": "Com a minha voz clamei ao Senhor: * com a minha voz a Deus, e ele me atendeu.",
+    "76:3": "No dia da minha tribulação {exquisivi} a Deus, com as minhas mãos, de noite, {contraeum}: * e não fui enganado.",
+    "76:4": "{renuit}, * lembrei-me de Deus, e {delectatus}, e {ex4}: e desfaleceu o meu espírito.",
+    "76:5": "Os meus olhos {anticipaverunt}: * {turbatus}, e não falei.",
+    "76:6": "Pensei nos dias antigos: * e tive em mente os anos eternos.",
+    "76:7": "E meditei de noite {cumcorde}, * e {ex7}, e {scopebam} o meu espírito.",
+    "76:8": "Acaso Deus {proiciet} para sempre: * ou não {apponet}?",
+    "76:9": "Ou cortará {infinem} a sua misericórdia, * de geração em geração?",
+    "76:10": "Ou se esquecerá Deus de ter piedade? * ou {continebit} na sua ira as suas misericórdias?",
+    "76:11": "E eu disse: Agora {coepi}: * esta é a mudança da {dextera} do {excelsi}.",
+    "76:12": "Lembrei-me das obras do Senhor: * porque me lembrarei {abinitio}.",
+    "76:13": "E meditarei em todas as vossas obras: * e nas vossas {adinventio} {ex13}.",
+    "76:14": "Deus, {insancto} o vosso caminho: {quis} Deus é grande como o nosso Deus? * vós sois o Deus que fazeis maravilhas.",
+    "76:15": "Fizestes conhecer entre os povos o vosso poder: * resgatastes com o vosso braço o vosso povo, os filhos de Jacó e de José.",
+    "76:17": "Viram-vos as águas, {deus17}, viram-vos as águas: * e temeram, e se perturbaram os abismos.",
+    "76:18": "{multitudo}: * {vocem}.",
+    "76:18b": "Pois as vossas setas {transeunt}: * a voz do vosso trovão {inrota}.",
+    "76:19": "{illuxerunt}: * a terra se abalou e estremeceu.",
+    "76:20": "No mar o vosso caminho, e as vossas veredas {aquis}: * e as vossas pegadas não serão conhecidas.",
+    "76:21": "{order21}"
+  },
+  "decisions": [
+    {
+      "id": "exquisivi",
+      "refs": [
+        "76:3"
+      ],
+      "latin": "Deum exquisívi",
+      "kind": "glossary",
+      "why": "exquírere → procurar (row, open; 26:8 exquisívit te fácies mea → a minha face vos procurou), kept apart from quǽrere → buscar. ἐξεζήτησα. MS1932 'busquei a Deus' merges it with quǽrere.",
+      "options": [
+        {
+          "label": "procurei",
+          "forms": {
+            "exquisivi": "procurei"
+          },
+          "note": "Ruling: the row, as 26:8.",
+          "from": "glossary"
+        },
+        {
+          "label": "busquei",
+          "forms": {
+            "exquisivi": "busquei"
+          },
+          "note": "MS1932; quǽrere's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "contraeum",
+      "refs": [
+        "76:3"
+      ],
+      "latin": "mánibus meis nocte contra eum",
+      "kind": "ambiguity",
+      "why": "The Latin colon has no verb: 'with my hands, by night, before him'. contra here is the Greek ἐναντίον αὐτοῦ, 'facing, in the presence of' — not hostility; Portuguese 'contra ele' would say 'against him'. DRB supplies 'lifted up to him', MS1932 'estendi as minhas mãos de noite para ele': both add a verb the Latin does not have. The verbless phrase is kept (rule 2: no explaining); 'diante dele' is the plain Portuguese of ἐναντίον.",
+      "options": [
+        {
+          "label": "diante dele",
+          "forms": {
+            "contraeum": "diante dele"
+          },
+          "note": "Ruling: verbless, as the Latin; ἐναντίον.",
+          "from": "draft"
+        },
+        {
+          "label": "voltadas para ele",
+          "forms": {
+            "contraeum": "voltadas para ele"
+          },
+          "note": "Makes the gesture visible with a participle; still no finite verb.",
+          "from": "draft"
+        },
+        {
+          "label": "estendidas para ele",
+          "forms": {
+            "contraeum": "estendidas para ele"
+          },
+          "note": "The supplied gesture of DRB and MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "contra ele",
+          "forms": {
+            "contraeum": "contra ele"
+          },
+          "note": "The calque; heard as hostility.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "renuit",
+      "refs": [
+        "76:4"
+      ],
+      "latin": "Rénuit consolári ánima mea",
+      "kind": "grammar",
+      "why": "consolári is passive in sense here (παρακληθῆναι, 'to be comforted'), as 118:52 et consolátus sum → 'e fui consolado'. The passive is kept; MS1932's reflexive 'recusou consolar-se' makes the soul refuse to comfort itself. Natural order puts the subject first; the Latin's verb-first order is the option. rénuere → recusar (L&S '= recusare').",
+      "options": [
+        {
+          "label": "A minha alma recusou ser consolada",
+          "forms": {
+            "renuit": "A minha alma recusou ser consolada"
+          },
+          "note": "Ruling: the passive of the Greek; natural order.",
+          "from": "draft"
+        },
+        {
+          "label": "Recusou ser consolada a minha alma",
+          "forms": {
+            "renuit": "Recusou ser consolada a minha alma"
+          },
+          "note": "The Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "A minha alma recusou consolar-se",
+          "forms": {
+            "renuit": "A minha alma recusou consolar-se"
+          },
+          "note": "MS1932's reflexive.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "delectatus",
+      "refs": [
+        "76:4"
+      ],
+      "latin": "et delectátus sum",
+      "kind": "glossary",
+      "why": "delectári → deleitar-se (row, settled D44 from 50:18). The Greek here is εὐφράνθην, the verb the Latin usually renders lætári (→ alegrar-se), so D15's Greek test would allow 'alegrei-me'; but the Latin chose delectári, and its row is followed. MS1932 'senti-me cheio de gozo' paraphrases.",
+      "options": [
+        {
+          "label": "me deleitei",
+          "forms": {
+            "delectatus": "me deleitei"
+          },
+          "note": "Ruling: the delectári row.",
+          "from": "glossary"
+        },
+        {
+          "label": "me alegrei",
+          "forms": {
+            "delectatus": "me alegrei"
+          },
+          "note": "The Greek's verb (εὐφραίνω), lætári's Portuguese.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exerceri",
+      "refs": [
+        "76:4",
+        "76:7",
+        "76:13"
+      ],
+      "latin": "exercitátus sum · exercitábar · exercébor",
+      "kind": "glossary",
+      "why": "Three forms of one Latin verb family, all the Greek ἀδολεσχέω (ἠδολέσχησα, ἠδολέσχουν, ἀδολεσχήσω) — the verb behind 118:15, 23, 27, 48, 78 (→ 'me exercitarei', 'se exercitava') and the noun of 54:3 (exercitátio → exercício). The row exercéri → exercitar-se is followed in all three places, so the psalm's own repetition stays audible. It stands beside meditári each time (76:4 memor fui … exercitátus; 76:7 meditátus … exercitábar; 76:13 meditábor … exercébor), which is why it cannot be 'meditar'. Cost: a blind reader of 54:3 heard bodily exercise; 'ocupar-se' is the row's option. MS1932 varies it (meditei, reflectia, considerarei).",
+      "options": [
+        {
+          "label": "me exercitei · me exercitava · me exercitarei",
+          "forms": {
+            "ex4": "me exercitei",
+            "ex7": "me exercitava",
+            "ex13": "me exercitarei"
+          },
+          "note": "Ruling: the row, as Ps 118.",
+          "from": "glossary"
+        },
+        {
+          "label": "me ocupei · me ocupava · me ocuparei",
+          "forms": {
+            "ex4": "me ocupei",
+            "ex7": "me ocupava",
+            "ex13": "me ocuparei"
+          },
+          "note": "The row's option.",
+          "from": "glossary"
+        },
+        {
+          "label": "refleti · refletia · refletirei",
+          "forms": {
+            "ex4": "refleti",
+            "ex7": "refletia",
+            "ex13": "refletirei"
+          },
+          "note": "MS1932's 76:7 verb; mental, as the context; loses the row.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "anticipaverunt",
+      "refs": [
+        "76:5"
+      ],
+      "latin": "Anticipavérunt vigílias óculi mei",
+      "kind": "glossary",
+      "why": "The prævenire row (118:147–148 'adiantar-se') keeps 'antecipar' for anticipáre, naming this verse. L&S cites it: anticipáre with the accusative, 'to take before the time'. The eyes were awake before the night watches (φυλακάς) came round. The subject is put first, as Portuguese orders it. DRB 'My eyes prevented the watches'; MS1932 'Adiantaram-se às vigílias os meus olhos' (prævenire's verb).",
+      "options": [
+        {
+          "label": "anteciparam as vigílias",
+          "forms": {
+            "anticipaverunt": "anteciparam as vigílias"
+          },
+          "note": "Ruling: the cognate the prævenire row reserves for this verse.",
+          "from": "glossary"
+        },
+        {
+          "label": "se adiantaram às vigílias",
+          "forms": {
+            "anticipaverunt": "se adiantaram às vigílias"
+          },
+          "note": "MS1932; prævenire's verb in 118:147–148.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cumcorde",
+      "refs": [
+        "76:7"
+      ],
+      "latin": "cum corde meo",
+      "kind": "word",
+      "why": "μετὰ τῆς καρδίας μου: the heart as a companion in the night's talk. 'com o meu coração' keeps the preposition; MS1932 'em meu coração' makes the heart the place.",
+      "options": [
+        {
+          "label": "com o meu coração",
+          "forms": {
+            "cumcorde": "com o meu coração"
+          },
+          "note": "Ruling: the Latin's cum; DRB 'with my own heart'.",
+          "from": "draft"
+        },
+        {
+          "label": "no meu coração",
+          "forms": {
+            "cumcorde": "no meu coração"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "scopebam",
+      "refs": [
+        "76:7"
+      ],
+      "latin": "et scopébam spíritum meum",
+      "kind": "ambiguity",
+      "why": "Only here in the psalter. Two readings: 'I swept my spirit' (DRB; scopa, a broom — and 'scopáre' is Isaiah 14:23's sweeping), and 'I searched my spirit' (L&S s.v. scopo¹ = σκοπέω, 'to investigate, test, search: spiritum suum, Vulg. Psa. 76,7'). The form decides for the second: scopébam is an -ēbam imperfect, which the first-conjugation 'scopáre, to sweep' would make scopábam; and the Greek ἔσκαλλεν ('dug, searched') is a searching verb. 'examinar' is the plainest Portuguese of it (scrutári keeps 'sondar', its row). The sweep stays as the option, since it is DRB's image and the traditional English. MS1932 'atormentava' paraphrases. Both Latinist runs (minor) asked 'varria'; held for the reason above, which neither run answered (both derived the verb from scopae without regard to the -ēbam form).",
+      "options": [
+        {
+          "label": "examinava",
+          "forms": {
+            "scopebam": "examinava"
+          },
+          "note": "Ruling: L&S, the -ēbam form, the Greek.",
+          "from": "draft"
+        },
+        {
+          "label": "esquadrinhava",
+          "forms": {
+            "scopebam": "esquadrinhava"
+          },
+          "note": "More searching, less plain.",
+          "from": "draft"
+        },
+        {
+          "label": "varria",
+          "forms": {
+            "scopebam": "varria"
+          },
+          "note": "DRB 'I swept my spirit' (scopa, broom).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "proiciet",
+      "refs": [
+        "76:8"
+      ],
+      "latin": "Numquid in ætérnum proíciet Deus",
+      "kind": "glossary",
+      "why": "proícere → lançar (row; 'lançar fora' at 16:11 with no source); the row names this verse. The Latin and the Greek (ἀπώσεται) give it no object; MS1932 supplies 'abandonar-nos', which decides who is cast off. The object is not supplied (rule 2). numquid → acaso (row). in ætérnum → para sempre (D23).",
+      "options": [
+        {
+          "label": "lançará fora",
+          "forms": {
+            "proiciet": "lançará fora"
+          },
+          "note": "Ruling: the row, no object, as the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "nos lançará fora",
+          "forms": {
+            "proiciet": "nos lançará fora"
+          },
+          "note": "The object supplied (MS1932 'abandonar-nos').",
+          "from": "MS1932"
+        },
+        {
+          "label": "rejeitará (the stylist)",
+          "forms": {
+            "proiciet": "rejeitará"
+          },
+          "note": "The v1 stylist asked it (object-less 'lançará fora' hangs; '-ra pa-'); held for the row — see audit.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "apponet",
+      "refs": [
+        "76:8"
+      ],
+      "latin": "aut non appónet ut complacítior sit adhuc?",
+      "kind": "grammar",
+      "why": "appónere + ut: 'add to be', the Hebraism for doing again (προσθήσει τοῦ εὐδοκῆσαι ἔτι). 'tornar a' is how Portuguese says 'do again', and keeps adhuc as 'ainda'. complacítior, comparative of the participle 'well pleased' (εὐδοκῆσαι) → 'mais favorável' (DRB 'more favourable'). The literal 'acrescentar' is kept as the option; MS1932 'não se mostrará mais inclinado a aplacar-se' explains. v2: 'voltar a' for 'tornar a' (the stylist), the same idiom, plainer.",
+      "options": [
+        {
+          "label": "voltará ainda a ser mais favorável",
+          "forms": {
+            "apponet": "voltará ainda a ser mais favorável"
+          },
+          "note": "v2: the stylist — 'voltar a' is the current auxiliary of repetition.",
+          "from": "stylist"
+        },
+        {
+          "label": "tornará ainda a ser mais favorável",
+          "forms": {
+            "apponet": "tornará ainda a ser mais favorável"
+          },
+          "note": "Draft 1.",
+          "from": "draft"
+        },
+        {
+          "label": "acrescentará ainda ser mais favorável",
+          "forms": {
+            "apponet": "acrescentará ainda ser mais favorável"
+          },
+          "note": "Word for word; not Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "voltará ainda a ser mais propício",
+          "forms": {
+            "apponet": "voltará ainda a ser mais propício"
+          },
+          "note": "Another verb of repetition; propício for complacítior.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "infinem",
+      "refs": [
+        "76:9"
+      ],
+      "latin": "Aut in finem misericórdiam suam abscíndet",
+      "kind": "glossary",
+      "why": "in finem (εἰς τέλος) → para sempre where it says perpetuity (row, D27); here the next colon, 'de geração em geração', makes it duration. D27 keeps in finem apart from in ætérnum by row, and the psalm has in ætérnum in the verse before: the two Latin phrases become one Portuguese phrase in neighbouring verses. 'até o fim' (48:9, 17:36b) is the option; it is not negated here, so D27's misreading does not arise, but it can be heard as 'completely'. abscíndere → cortar (ἀποκόψει, 'cut off'), the concrete verb; MS1932 'privar-nos' explains. v2: both readers asked 'até o fim' so that the Latin's move from in ætérnum to in finem is heard; taken, and the phrase moved after the verb (the stylist's order).",
+      "options": [
+        {
+          "label": "até o fim",
+          "forms": {
+            "infinem": "até o fim"
+          },
+          "note": "v2: the Latinist and the stylist, independently — keeps in finem apart from 76:8's in ætérnum (48:9's build); not negated, so D27's misreading does not arise.",
+          "from": "draft"
+        },
+        {
+          "label": "para sempre",
+          "forms": {
+            "infinem": "para sempre"
+          },
+          "note": "Draft 1: D27, perpetuity.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "continebit",
+      "refs": [
+        "76:10"
+      ],
+      "latin": "aut continébit in ira sua misericórdias suas?",
+      "kind": "word",
+      "why": "continére, 'hold together, hold in' (συνέξει). The cognate 'conter' says 'hold back, restrain' and keeps the image of the mercies held in inside the wrath. DRB 'shut up'; MS1932 'deterá'. The plural misericórdias is kept, as the Latin and Greek have it.",
+      "options": [
+        {
+          "label": "conterá",
+          "forms": {
+            "continebit": "conterá"
+          },
+          "note": "Ruling: the cognate.",
+          "from": "draft"
+        },
+        {
+          "label": "reterá",
+          "forms": {
+            "continebit": "reterá"
+          },
+          "note": "Holding back only.",
+          "from": "draft"
+        },
+        {
+          "label": "encerrará",
+          "forms": {
+            "continebit": "encerrará"
+          },
+          "note": "DRB 'shut up'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "coepi",
+      "refs": [
+        "76:11"
+      ],
+      "latin": "Et dixi: Nunc cœpi",
+      "kind": "grammar",
+      "why": "cœpi is a perfect (ἠρξάμην, aorist). 'Agora comecei' keeps it; MS1932 'Agora começo (a compreender)' turns it to a present and glosses. The object of the beginning is left unsaid, as the Latin leaves it. v2: the subject 'eu' supplied (grammar): without it the stylist and the ambiguity reader both heard 'and he said' (God).",
+      "options": [
+        {
+          "label": "comecei",
+          "forms": {
+            "coepi": "comecei"
+          },
+          "note": "Ruling: the perfect.",
+          "from": "draft"
+        },
+        {
+          "label": "começo",
+          "forms": {
+            "coepi": "começo"
+          },
+          "note": "MS1932's present.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "excelsi",
+      "refs": [
+        "76:11"
+      ],
+      "latin": "déxteræ Excélsi",
+      "kind": "glossary",
+      "why": "Excélsus as a divine name (also 77:17 in iram excitavérunt Excélsum, 81:6 fílii Excélsi — grep). The Greek is ὕψιστος, Altíssimus's word; D43 kept the adjective excélsus → excelso apart from Altíssimus all the same, and the noun follows it. déxtera → a direita (row). mutátio → mudança (54:20b). DRB and MS1932 'the most High'. v1: the stylist found 'Excelso' precious beside the usual 'Altíssimo', and the ambiguity reader listed it unknown (as the Ps 46 reader did 'excelso'); held under D43, flagged in the row for Gustavo.",
+      "options": [
+        {
+          "label": "Excelso",
+          "forms": {
+            "excelsi": "Excelso"
+          },
+          "note": "Ruling: the Latin's word (D43's split).",
+          "from": "glossary"
+        },
+        {
+          "label": "Altíssimo",
+          "forms": {
+            "excelsi": "Altíssimo"
+          },
+          "note": "The Greek's word; DRB, MS1932; the name Brazilian ears know.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "abinitio",
+      "refs": [
+        "76:12"
+      ],
+      "latin": "quia memor ero ab inítio mirabílium tuórum",
+      "kind": "ambiguity",
+      "why": "ab inítio stands between the verb and the genitive, so it can be 'from the beginning I will remember your wonders' or 'the wonders you have done from the beginning' (the Greek the same: ἀπὸ τῆς ἀρχῆς τῶν θαυμασίων σου). The Latin's order keeps both open. inítio → início (row, 118:152, 160). DRB 'thy wonders from the beginning' and MS1932 'maravilhas de outrora' take the second.",
+      "options": [
+        {
+          "label": "das vossas maravilhas desde o início",
+          "forms": {
+            "abinitio": "das vossas maravilhas desde o início"
+          },
+          "note": "v2: the stylist — the verb reaches its complement first; 'desde o início' at the end can still go with 'me lembrarei' or with 'maravilhas', so the Latin's two readings stay open.",
+          "from": "DRB"
+        },
+        {
+          "label": "desde o início das vossas maravilhas",
+          "forms": {
+            "abinitio": "desde o início das vossas maravilhas"
+          },
+          "note": "Draft 1: the Latin's order; the ear stumbles on 'o início das vossas maravilhas'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adinventio",
+      "refs": [
+        "76:13"
+      ],
+      "latin": "in adinventiónibus tuis",
+      "kind": "glossary",
+      "why": "adinvéntio → invenções (row, open, from 27:4), which names this verse as the test: God's own devisings (ἐπιτηδεύμασιν, 'pursuits, doings'). 'invenções' keeps the one word for the six places, the good and the bad; said of God it may sound odd. MS1932 'desígnios' is consílium's word (D33). DRB 'inventions'. v1: the stylist named 76:13 the worst line for 'invenções' (gadgets, fabrications) and the ambiguity reader listed it unknown / odd. Held: the row serves six places, three of them bad devisings; the one plain alternative (desígnios) is taken. Flagged in the row for Gustavo.",
+      "options": [
+        {
+          "label": "invenções",
+          "forms": {
+            "adinventio": "invenções"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "obras engenhosas",
+          "forms": {
+            "adinventio": "obras engenhosas"
+          },
+          "note": "Explains; and 'obras' is ópera's word in the same verse.",
+          "from": "draft"
+        },
+        {
+          "label": "desígnios",
+          "forms": {
+            "adinventio": "desígnios"
+          },
+          "note": "MS1932, and the v1 stylist's request; consílium's word (D33).",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "insancto",
+      "refs": [
+        "76:14"
+      ],
+      "latin": "Deus, in sancto via tua",
+      "kind": "glossary",
+      "why": "The row sancta / sanctum (a place) names 76:14 among the places where in sancto 'is not always a place'. Here the psalm itself answers: 76:20 'In mari via tua' sets the way in the sea as 76:14 sets it in sancto, so the neuter is read as a place, the holy place — DRB 'Thy way, O God, is in the holy place'; 21:4 and 62:3 'no lugar santo'. Ps 59:8 went the other way ('no seu santo', v2) because there nothing in the verse pointed to a place. Both verses are verbless in the Latin and are left verbless (a copula 'está' was tried and dropped: +5 syllables, and the nominal sentence is sayable), so the two verses stay alike in build as the Latin has them. The first half stands alone as a versicle (Psalmi matutinum: 'V. Deus, in sancto via tua. R. Quis Deus magnus sicut Deus noster'). MS1932 'O teu caminho, ó Deus, é santo' paraphrases (and is the Hebrew's sense). v2: the Latinist (minor) marked 'lugar' as choosing one reading of ἐν τῷ ἁγίῳ; that is right under rule 2 (keep ambiguities), as at 59:8, so the bare 'no santo' is taken. Cost: 76:20 stays verbless while 76:14 has 'está'.",
+      "options": [
+        {
+          "label": "no santo está",
+          "forms": {
+            "insancto": "no santo está"
+          },
+          "note": "v2: the Latinist — the bare neuter, place or holiness left open (59:8's v2 ruling); the copula supplied because 'no santo' alone, verbless, is too cryptic to stand as a versicle.",
+          "from": "latinist"
+        },
+        {
+          "label": "no lugar santo",
+          "forms": {
+            "insancto": "no lugar santo"
+          },
+          "note": "Draft 1: the row; 76:20's parallel; DRB. The ambiguity reader heard the sanctuary.",
+          "from": "glossary"
+        },
+        {
+          "label": "na santidade",
+          "forms": {
+            "insancto": "na santidade"
+          },
+          "note": "Holiness, the other reading; closes the place.",
+          "from": "draft"
+        },
+        {
+          "label": "no lugar santo está",
+          "forms": {
+            "insancto": "no lugar santo está"
+          },
+          "note": "The copula supplied (D2 allows it); longer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "multitudo",
+      "refs": [
+        "76:18"
+      ],
+      "latin": "Multitúdo sónitus aquárum",
+      "kind": "word",
+      "why": "A verbless colon: 'a multitude of the sound of waters' (πλῆθος ἤχους ὑδάτων). sónitus → estrondo (9:7b cum sónitu → com estrondo). multitúdo → multidão is the row, but 'a multidão do estrondo' is heard as a crowd; of a mass noun the Latin's multitude is a great quantity, which Portuguese says with 'muito' — a noun becomes an adjective, grammar under D2, with nothing added. The row's literal is the first option. DRB and MS1932 'Great was the noise' / 'Foi grande o estrondo' supply a verb and turn quantity into size. v2: the stylist heard 'Muito estrondo' as colloquial; 'Grande estrondo' is MS1932's adjective without his supplied verb — number becomes size, which for the multitude of a sound is how Portuguese says it. v2 gate: the Latinist (minor) asked 'Multidão do som das águas'; held — see audit.",
+      "options": [
+        {
+          "label": "Grande estrondo das águas",
+          "forms": {
+            "multitudo": "Grande estrondo das águas"
+          },
+          "note": "v2: the stylist — 'muito estrondo' is colloquial ('what a racket'); still verbless, the mass of the sound kept as its greatness.",
+          "from": "stylist"
+        },
+        {
+          "label": "Muito estrondo das águas",
+          "forms": {
+            "multitudo": "Muito estrondo das águas"
+          },
+          "note": "Draft 1: quantity kept; heard as colloquial.",
+          "from": "draft"
+        },
+        {
+          "label": "A multidão do estrondo das águas",
+          "forms": {
+            "multitudo": "A multidão do estrondo das águas"
+          },
+          "note": "The multitúdo row, word for word.",
+          "from": "glossary"
+        },
+        {
+          "label": "Grande foi o estrondo das águas",
+          "forms": {
+            "multitudo": "Grande foi o estrondo das águas"
+          },
+          "note": "MS1932, DRB: a verb supplied, size for number.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "vocem",
+      "refs": [
+        "76:18"
+      ],
+      "latin": "vocem dedérunt nubes",
+      "kind": "glossary",
+      "why": "vocem dare → fazer ouvir a voz (row, 17:14, 45:7: 'deu a sua voz' is not said). The Latin has no possessive here, and none is supplied. Subject first, as Portuguese orders it. v1: the Latinist asked 'deram voz' (dare), the stylist 'deram a sua voz'; both held for the row (17:14, 45:7), whose reason — 'dar a voz' is not Portuguese for making a sound, and 'dar voz a' means to voice something else — stands. The ambiguity reader heard 'the clouds thundered'.",
+      "options": [
+        {
+          "label": "as nuvens fizeram ouvir a voz",
+          "forms": {
+            "vocem": "as nuvens fizeram ouvir a voz"
+          },
+          "note": "Ruling: the row; no possessive.",
+          "from": "glossary"
+        },
+        {
+          "label": "as nuvens fizeram ouvir a sua voz",
+          "forms": {
+            "vocem": "as nuvens fizeram ouvir a sua voz"
+          },
+          "note": "17:14's words, with the possessive that verse has.",
+          "from": "glossary"
+        },
+        {
+          "label": "as nuvens deram voz",
+          "forms": {
+            "vocem": "as nuvens deram voz"
+          },
+          "note": "Word for word; 'dar voz' is heard as 'give voice to'.",
+          "from": "draft"
+        },
+        {
+          "label": "as nuvens deram a sua voz",
+          "forms": {
+            "vocem": "as nuvens deram a sua voz"
+          },
+          "note": "The v1 stylist (and the Latinist's 'deram voz'): the Latin's verb; the row says 'deu a sua voz' is not said.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "transeunt",
+      "refs": [
+        "76:18b"
+      ],
+      "latin": "Étenim sagíttæ tuæ tránseunt",
+      "kind": "word",
+      "why": "transíre → passar (41:5 'passarei'); the Greek διαπορεύονται is 'go through, go about'. The present is kept (MS1932's past 'foram lançadas' is his). étenim → pois (row). sagítta → seta (row).",
+      "options": [
+        {
+          "label": "passam",
+          "forms": {
+            "transeunt": "passam"
+          },
+          "note": "Ruling: the plain verb of transíre.",
+          "from": "draft"
+        },
+        {
+          "label": "atravessam",
+          "forms": {
+            "transeunt": "atravessam"
+          },
+          "note": "The Greek's 'through'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inrota",
+      "refs": [
+        "76:18b"
+      ],
+      "latin": "vox tonítrui tui in rota",
+      "kind": "word",
+      "why": "in rota, 'in the wheel' (ἐν τῷ τροχῷ): the thunder rolls round like a wheel — the Latin's concrete image, kept (rule 5). DRB 'in a wheel'. MS1932 'a voz do teu trovão rolou' turns the image into a verb. The colon is verbless, as the Latin. tonítruum → trovão (103:7 a voce tonítrui tui will copy).",
+      "options": [
+        {
+          "label": "na roda",
+          "forms": {
+            "inrota": "na roda"
+          },
+          "note": "Ruling: the image kept.",
+          "from": "draft"
+        },
+        {
+          "label": "rolava",
+          "forms": {
+            "inrota": "rolava"
+          },
+          "note": "MS1932's verb; the wheel lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "illuxerunt",
+      "refs": [
+        "76:19"
+      ],
+      "latin": "Illuxérunt coruscatiónes tuæ orbi terræ",
+      "kind": "word",
+      "why": "coruscátio → relâmpagos: the Greek is ἀστραπαί, the same word as 17:15 (fúlgura → relâmpagos) and as the near-twin 96:4 Illuxérunt fúlgura ejus orbi terræ, so by D15's test the two Latin nouns can share it, and 76:19 and 96:4 will read alike as the Greek does. orbis terræ → o mundo (D30). illúcere + dative, 'shone upon'; 'iluminaram o mundo' makes the dative an object (grammar), the subject first. The Latin's build is the option.",
+      "options": [
+        {
+          "label": "Os vossos relâmpagos iluminaram o mundo",
+          "forms": {
+            "illuxerunt": "Os vossos relâmpagos iluminaram o mundo"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "Brilharam os vossos relâmpagos sobre o mundo",
+          "forms": {
+            "illuxerunt": "Brilharam os vossos relâmpagos sobre o mundo"
+          },
+          "note": "The Latin's order and intransitive verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Os vossos clarões iluminaram o mundo",
+          "forms": {
+            "illuxerunt": "Os vossos clarões iluminaram o mundo"
+          },
+          "note": "Keeps coruscátio apart from fulgur; 'clarões' alone is not heard as lightning.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "order21",
+      "refs": [
+        "76:21"
+      ],
+      "latin": "Deduxísti sicut oves pópulum tuum, * in manu Móysi et Aaron.",
+      "kind": "order",
+      "why": "dedúcere → guiar (D22). The natural order puts the object before the comparison; the Latin's order (the comparison first) is the option. Aaron → Aarão, as 117:3. in manu → pela mão (instrumental). The verse is also a responsory text (Quad4-0) and reads alone either way.",
+      "options": [
+        {
+          "label": "Guiastes o vosso povo como ovelhas, * pela mão de Moisés e de Aarão.",
+          "forms": {
+            "order21": "Guiastes o vosso povo como ovelhas, * pela mão de Moisés e de Aarão."
+          },
+          "note": "Ruling: natural order.",
+          "from": "draft"
+        },
+        {
+          "label": "Guiastes como ovelhas o vosso povo, * pela mão de Moisés e de Aarão.",
+          "forms": {
+            "order21": "Guiastes como ovelhas o vosso povo, * pela mão de Moisés e de Aarão."
+          },
+          "note": "The Latin's order.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "turbatus",
+      "refs": [
+        "76:5"
+      ],
+      "latin": "turbátus sum",
+      "kind": "grammar",
+      "why": "turbári → perturbar (row). The perfect passive of an inner state: 'fui perturbado' (118:60's form) is heard as someone else troubling the speaker (the v1 stylist); 'fiquei perturbado' says the state, and is still passive in build. Grammar, under D2.",
+      "options": [
+        {
+          "label": "fiquei perturbado",
+          "forms": {
+            "turbatus": "fiquei perturbado"
+          },
+          "note": "v2: the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "fui perturbado",
+          "forms": {
+            "turbatus": "fui perturbado"
+          },
+          "note": "Draft 1; 118:60.",
+          "from": "draft"
+        },
+        {
+          "label": "perturbei-me",
+          "forms": {
+            "turbatus": "perturbei-me"
+          },
+          "note": "Reflexive, as 76:17 se perturbaram.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "dextera",
+      "refs": [
+        "76:11"
+      ],
+      "latin": "déxteræ",
+      "kind": "glossary",
+      "why": "déxtera → a direita (row, open; 17:36a, 15:11, 117:16 — the blind readers there heard the right hand first). The v1 stylist asks 'mão direita' (bare 'direita' = side, or politics); the ambiguity reader heard the hand but called it opaque. Held for the row, which binds many psalms; the option is here and the row notes the remark.",
+      "options": [
+        {
+          "label": "direita",
+          "forms": {
+            "dextera": "direita"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "mão direita",
+          "forms": {
+            "dextera": "mão direita"
+          },
+          "note": "The stylist: the hand named.",
+          "from": "stylist"
+        },
+        {
+          "label": "destra",
+          "forms": {
+            "dextera": "destra"
+          },
+          "note": "MS1932 dextra; hieratic.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "quis",
+      "refs": [
+        "76:14"
+      ],
+      "latin": "quis Deus magnus sicut Deus noster?",
+      "kind": "grammar",
+      "why": "'Que Deus é grande' is heard first as the exclamation 'how great God is!' (the stylist and the ambiguity reader both). 'Qual' makes it a question from the first word; the same words otherwise. The versicle's response (Psalmi matutinum) reads alone from it.",
+      "options": [
+        {
+          "label": "qual",
+          "forms": {
+            "quis": "qual"
+          },
+          "note": "v2: the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "que",
+          "forms": {
+            "quis": "que"
+          },
+          "note": "Draft 1 (MS1932 que … há).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deus17",
+      "refs": [
+        "76:17"
+      ],
+      "latin": "Vidérunt te aquæ, Deus",
+      "kind": "glossary",
+      "why": "The bare vocative 'Deus', as everywhere in the psalter (glossary; 50:3a). The v1 stylist asked 'ó Deus' for the pause; refused for the glossary's rule, kept as the option.",
+      "options": [
+        {
+          "label": "Deus",
+          "forms": {
+            "deus17": "Deus"
+          },
+          "note": "Ruling: the bare vocative.",
+          "from": "glossary"
+        },
+        {
+          "label": "ó Deus",
+          "forms": {
+            "deus17": "ó Deus"
+          },
+          "note": "The stylist; MS1932.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "aquis",
+      "refs": [
+        "76:20"
+      ],
+      "latin": "in aquis multis",
+      "kind": "glossary",
+      "why": "aquæ multæ without the article, as 28:3 'sobre muitas águas' and 17:17 'de muitas águas' (the phrase kept one across psalms, rule 6). The v1 stylist asked 'nas muitas águas' (the vast waters, not 'several waters'); kept as the option.",
+      "options": [
+        {
+          "label": "em muitas águas",
+          "forms": {
+            "aquis": "em muitas águas"
+          },
+          "note": "Ruling: as 28:3, 17:17.",
+          "from": "glossary"
+        },
+        {
+          "label": "nas muitas águas",
+          "forms": {
+            "aquis": "nas muitas águas"
+          },
+          "note": "The stylist.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "76:2": "The first colon is 3:5a word for word (identical Latin, rule 6). inténdere → atender (D3); the subject 'ele' is supplied so the verb does not open on a clitic. The second colon is verbless, as the Latin.",
+    "76:3": "décipere → enganar (row, which names this verse).",
+    "76:4": "defícere → desfalecer (row).",
+    "76:5": "v2 'fiquei perturbado' (decision `turbatus`); 76:17's 'se perturbaram' (of the abysses) follows 45:4's waters.",
+    "76:6": "cogitáre → pensar em (row). 'anos eternos' kept as the Latin's words (ἔτη αἰώνια), though they mean the years of old; MS1932 the same. v2 'tive em mente' (the stylist: the living idiom; draft 1 'tive na mente', MS1932) — the same words, the idiom's preposition.",
+    "76:10": "oblivísci + infinitive → esquecer-se de; miseréri → ter piedade (row).",
+    "76:14": "Verbless first half, as the Latin (see `insancto`). 'que Deus é grande como o nosso Deus?' — MS1932 has 'há'; the copula is the plainer. 'vós sois o Deus que fazeis maravilhas': the verb stays in the second person, as the Latin facis; the Matins antiphon 'Tu es Deus * qui facis mirabília' reads alone from it.",
+    "76:15": "notam fácere → fazer conhecer (row, 15:11); virtus → poder (row); redímere → resgatar (row, 30:6); in pópulis → entre os povos (56:10); in brácchio → com o braço (instrumental). Jacó, José.",
+    "76:17": "Verb first, with the enclitic, as the Latin's order and the responsory (Pasc4-0) have it. Bare vocative 'Deus' (the glossary's rule).",
+    "76:19": "The second colon copies 17:8a 'A terra se abalou e estremeceu' — identical Latin (Commóta est, et contrémuit terra), rule 6.",
+    "76:20": "Verbless, as the Latin and as 76:14 (the two verses are built alike). sémita → vereda (D15); in aquis multis → em muitas águas (28:3, 17:17); vestígia → pegadas (row); cognoscéntur, future passive → não serão conhecidas."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps076.md (no Diurnal: Ps 76 is not in the day hours). Hard readings: 76:3 mánibus meis nocte contra eum (verbless; ἐναντίον), 76:7 scopébam (search against sweep — L&S and the -ēbam form), 76:8 appónet ut complacítior sit adhuc, 76:14 in sancto (a place, by 76:20's parallel), 76:18 Multitúdo sónitus aquárum, 76:18b in rota. Formulas copied: 76:2a = 3:5a, 76:19b = 17:8a. The psalm has four liturgical texts that read alone (Matins antiphon 'Tu es Deus qui facis mirabília', versicle 76:14a / R. 76:14b, responsories 76:15, 76:17, 76:21) — each colon checked to stand by itself."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. Soft, all accepted: 76:7b +4 (the exercéri row's 'me exercitava' and 'examinava' are long); 76:9b -6 (the formula 'de geração em geração'); 76:11a +3 (a supplied 'eu' was dropped to get there) and 76:11b +4 (the copula 'é' is needed); 76:14a +3 and 76:20a +3 (from +5 each after dropping a supplied copula 'está'); 76:18b(a) -3; 76:18 second colon +3 ('fizeram ouvir', the vocem dare row)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Four minors, no major: 76:9 and 76:14 taken; 76:7 and 76:18 refused.",
+      "outcomes": [
+        {
+          "verse": "76:7",
+          "remark": "scopébam = 'sweep'; 'examinava' abstracts",
+          "outcome": "option",
+          "decision": "scopebam",
+          "reason": "The form scopébam is an -ēbam imperfect, the conjugation of scopo, -ere (= σκοπέω, 'search'), which L&S gives for this very verse; the sweeping verb scopáre would make scopábam. The Greek ἔσκαλλεν is a searching verb. 'varria' (DRB) stays option 3."
+        },
+        {
+          "verse": "76:9",
+          "remark": "in finem merged with 76:8 in ætérnum",
+          "outcome": "taken",
+          "decision": "infinem"
+        },
+        {
+          "verse": "76:14",
+          "remark": "'lugar' resolves the ambiguity of in sancto",
+          "outcome": "taken",
+          "decision": "insancto"
+        },
+        {
+          "verse": "76:18",
+          "remark": "'fizeram ouvir' paraphrases dedérunt",
+          "outcome": "refused",
+          "decision": "vocem",
+          "reason": "The row vocem dare → fazer ouvir a voz (17:14, 45:7): 'deram voz' is heard as 'gave voice to' something."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 16 remarks in 13 verses; best 76:19, worst 76:13. Taken 8, refused 8 (each kept as an option).",
+      "outcomes": [
+        {
+          "verse": "76:3",
+          "remark": "'procurei' heavy; 'busquei'",
+          "outcome": "refused",
+          "decision": "exquisivi",
+          "reason": "exquírere → procurar (row; 26:8), kept apart from quǽrere → buscar; the gain is one syllable."
+        },
+        {
+          "verse": "76:4",
+          "remark": "'me exercitei' sounds like a gym (also 76:7, 76:13); 'me agitei'",
+          "outcome": "refused",
+          "decision": "exerceri",
+          "reason": "The row across Ps 118 (five places) and 54:3; 'agitar-se' is another verb's meaning and the stylist has no form for 76:13. Not added as an option for that reason; the row's own option 'ocupar-se' is there."
+        },
+        {
+          "verse": "76:5",
+          "remark": "'fui perturbado' → 'fiquei perturbado'",
+          "outcome": "taken",
+          "decision": "turbatus"
+        },
+        {
+          "verse": "76:6",
+          "remark": "'tive na mente' → 'tive em mente'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "76:8",
+          "remark": "'lançará fora' hangs; 'rejeitará'",
+          "outcome": "refused",
+          "decision": "proiciet",
+          "reason": "proícere → lançar (row, which names 76:8); 'rejeitar' is reprobáre's (117:22). The missing object is the Latin's."
+        },
+        {
+          "verse": "76:8",
+          "remark": "'tornará ainda a' → 'voltará ainda a'",
+          "outcome": "taken",
+          "decision": "apponet"
+        },
+        {
+          "verse": "76:9",
+          "remark": "'para sempre' repeats 76:8; 'até o fim'",
+          "outcome": "taken",
+          "decision": "infinem"
+        },
+        {
+          "verse": "76:11",
+          "remark": "'E disse' heard as 'he said'",
+          "outcome": "taken",
+          "decision": "coepi"
+        },
+        {
+          "verse": "76:11",
+          "remark": "'a direita' → 'mão direita'; 'Excelso' → 'Altíssimo'",
+          "outcome": "refused",
+          "decision": "dextera",
+          "reason": "déxtera → a direita (row, readers of 15:11, 17:36a heard the hand); Excélsus kept apart from Altíssimus (D43). Both options; both flagged in the glossary."
+        },
+        {
+          "verse": "76:12",
+          "remark": "'desde o início' splits verb and complement; put it last",
+          "outcome": "taken",
+          "decision": "abinitio"
+        },
+        {
+          "verse": "76:13",
+          "remark": "'invenções' comic for God; 'desígnios'",
+          "outcome": "refused",
+          "decision": "adinventio",
+          "reason": "desígnios is consílium's word (D33); the row serves six places; flagged for Gustavo."
+        },
+        {
+          "verse": "76:14",
+          "remark": "'que Deus é grande' heard as exclamation; 'qual'",
+          "outcome": "taken",
+          "decision": "quis"
+        },
+        {
+          "verse": "76:17",
+          "remark": "bare 'Deus' abrupt; 'ó Deus'",
+          "outcome": "refused",
+          "decision": "deus17",
+          "reason": "The glossary rule: bare vocative, no ó."
+        },
+        {
+          "verse": "76:18",
+          "remark": "'Muito estrondo' colloquial; 'Grande estrondo'",
+          "outcome": "taken",
+          "decision": "multitudo"
+        },
+        {
+          "verse": "76:18",
+          "remark": "'deram a sua voz'",
+          "outcome": "refused",
+          "decision": "vocem",
+          "reason": "The vocem dare row (17:14, 45:7)."
+        },
+        {
+          "verse": "76:20",
+          "remark": "'em muitas águas' → 'nas muitas águas'",
+          "outcome": "refused",
+          "decision": "aquis",
+          "reason": "aquæ multæ without the article in 28:3 and 17:17; the phrase kept one."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. 30 readings, 6 unknown words (Excelso, desfaleceu, vigílias, roda, invenções, veredas).",
+      "outcomes": [
+        {
+          "verse": "76:11",
+          "remark": "'E disse' could be God",
+          "outcome": "taken",
+          "decision": "coepi"
+        },
+        {
+          "verse": "76:14",
+          "remark": "'que Deus é grande' as exclamation",
+          "outcome": "taken",
+          "decision": "quis"
+        },
+        {
+          "verse": "76:4",
+          "remark": "'me exercitei' heard as physical exercise (also 76:7, 76:13)",
+          "outcome": "refused",
+          "decision": "exerceri",
+          "reason": "The row; the cost it names (54:3) is confirmed here and noted in the glossary."
+        },
+        {
+          "verse": "76:13",
+          "remark": "'invenções' odd / unknown",
+          "outcome": "refused",
+          "decision": "adinventio",
+          "reason": "The row; flagged for Gustavo."
+        },
+        {
+          "verse": "76:11",
+          "remark": "'Excelso' unknown; 'direita' opaque",
+          "outcome": "refused",
+          "decision": "excelsi",
+          "reason": "D43; flagged."
+        },
+        {
+          "verse": "76:8",
+          "remark": "object of 'lançará fora' inaudible",
+          "outcome": "refused",
+          "decision": "proiciet",
+          "reason": "The Latin has none; the reader heard 'reject us' anyway."
+        },
+        {
+          "verse": "76:6",
+          "remark": "'anos eternos' heard as eternity",
+          "outcome": "refused",
+          "reason": "The Latin's words (ἔτη αἰώνια); both Vulgate-family witnesses keep them."
+        },
+        {
+          "verse": "76:5",
+          "remark": "'vigílias' unknown / church vigils",
+          "outcome": "refused",
+          "reason": "The Latin word (the night watches); a second reading the Latin itself allows a Christian ear."
+        },
+        {
+          "verse": "76:18b",
+          "remark": "'na roda' opaque",
+          "outcome": "refused",
+          "decision": "inrota",
+          "reason": "The Latin's concrete image (ἐν τῷ τροχῷ), rule 5."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2 (prayed.v1.json kept; script revise2.py): 76:5 'fiquei perturbado'; 76:6 'tive em mente'; 76:8 'voltará ainda a'; 76:9 'cortará até o fim'; 76:11 'E eu disse'; 76:12 'das vossas maravilhas desde o início'; 76:14 'no santo está', 'qual Deus'; 76:18 'Grande estrondo das águas'. New decisions: turbatus, dextera, quis, deus17, aquis."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass. Soft as v1, plus 76:11a +4 (the supplied 'eu', taken for the reader) and 76:14a +4 ('no santo está'); accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Gate clean of majors: three minors, all repeats of remarks already weighed, all held as options.",
+      "outcomes": [
+        {
+          "verse": "76:7",
+          "remark": "scopébam = 'swept'; 'examinava' abstracts (second time)",
+          "outcome": "option",
+          "decision": "scopebam",
+          "reason": "The -ēbam imperfect belongs to scopo, -ere (= σκοπέω, 'search'), which L&S gives for this verse; 'to sweep' would be scopábam; the Greek ἔσκαλλεν searches. 'varria' stays option 3 for Gustavo."
+        },
+        {
+          "verse": "76:18",
+          "remark": "multitúdo flattened to 'grande'; 'Multidão do som das águas'",
+          "outcome": "option",
+          "decision": "multitudo",
+          "reason": "'multidão' of a sound is heard as a crowd, and draft 1's 'Muito' was heard as colloquial; of a mass noun the multitude is its greatness. The row's 'A multidão do estrondo das águas' is option 3; sónitus stays 'estrondo' (9:7b)."
+        },
+        {
+          "verse": "76:18",
+          "remark": "'fizeram ouvir' paraphrases dedérunt; 'deram a sua voz'",
+          "outcome": "option",
+          "decision": "vocem",
+          "reason": "The row vocem dare → fazer ouvir a voz (17:14, 45:7): 'dar a voz' is not how Portuguese says a sound is made."
+        }
+      ]
+    }
+  ]
+}
