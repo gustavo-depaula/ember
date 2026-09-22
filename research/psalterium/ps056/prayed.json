@@ -1,0 +1,913 @@
+{
+  "psalm": 56,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "56:2": "Tende piedade de mim, {voc2}, tende piedade de mim: * porque em vós confia a minha alma.",
+    "56:2b": "E {umbra} das vossas asas esperarei, * até que passe a iniquidade.",
+    "56:3": "Clamarei {altissimum}: * ao Deus que {benefecit}.",
+    "56:4": "{misit}, e me livrou: * {opprobrium} os que me {conculcantes}.",
+    "56:4b": "{misitdeus} a sua misericórdia e a sua verdade, * e arrancou a minha alma do meio {catulorum}: dormi perturbado.",
+    "56:5": "{filii}: * e a sua língua {acutus}.",
+    "56:6": "{exaltare6} {caelos6}, {voc6}, * e {interram} a vossa glória.",
+    "56:7": "Prepararam um laço {pedibus}: * e {incurvaverunt} a minha alma.",
+    "56:7b": "Cavaram um {fovea} {faciem}: * e caíram nele.",
+    "56:8": "O meu coração está {paratum1}, {voc8}, o meu coração está {paratum2}: * cantarei, e {psalmum8}.",
+    "56:9": "{exsurge1}, minha glória, {exsurge2}, {instruments}: * eu me levantarei ao amanhecer.",
+    "56:10": "Eu vos darei graças entre os povos, Senhor: * e {psalmum10} entre as nações:",
+    "56:11": "Porque {magnificata} até os céus a vossa misericórdia, * e até as nuvens a vossa verdade.",
+    "56:12": "{exaltare12} {caelos12}, {voc12}: * e sobre toda a terra a vossa glória."
+  },
+  "decisions": [
+    {
+      "id": "umbra",
+      "refs": [
+        "56:2b"
+      ],
+      "latin": "Et in umbra alárum tuárum sperábo",
+      "kind": "word",
+      "why": "*in umbra* is locative (where the hoping is done), not the object of *speráre* (so the D36 *esperar em* is not in play). *à sombra de* is how Portuguese says 'in the shade of'; 16:8b has *sub umbra* → *Sob a sombra*, a different preposition, so the two need not match. DRB 'in the shadow of thy wings', MS1932 *à sombra das tuas asas*.",
+      "options": [
+        {
+          "label": "à sombra",
+          "forms": {
+            "umbra": "à sombra"
+          },
+          "note": "Ruling; the idiom; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "na sombra",
+          "forms": {
+            "umbra": "na sombra"
+          },
+          "note": "the preposition to the letter; less idiomatic.",
+          "from": "draft"
+        },
+        {
+          "label": "sob a sombra",
+          "forms": {
+            "umbra": "sob a sombra"
+          },
+          "note": "= 16:8b, but that is *sub*; the Latin varies.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "altissimum",
+      "refs": [
+        "56:3"
+      ],
+      "latin": "Clamábo ad Deum altíssimum",
+      "kind": "order",
+      "why": "The Altíssimus row: 7:18 = 12:6b moved the adjective before the noun so that the *verse* could close on an oxytone; 90:1 lets the proparoxytone stand at a mediant. Here it is a mediant, so the Latin's (and the natural) order stands, with the adjective lowercase (it qualifies *Deus*; it is not the name). **v2:** the stylist heard the proparoxytone *altíssimo* at the mediant as a dead syllable and asked *Ao Deus altíssimo clamarei*. The cadence point taken, by the glossary's own remedy (7:18 = 12:6b *do altíssimo Senhor*): the adjective before the noun, so the colon ends on *Deus* and the verb stays first, as the Latin has it. His inversion (verb last) is refused: an inversion made only for the cadence, when the plain order gives the same cadence; the verb is not a slot, so it is recorded here and in the audit.",
+      "options": [
+        {
+          "label": "ao altíssimo Deus",
+          "forms": {
+            "altissimum": "ao altíssimo Deus"
+          },
+          "note": "Ruling (v2); 7:18's build; oxytone mediant, verb first as the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "ao Deus altíssimo",
+          "forms": {
+            "altissimum": "ao Deus altíssimo"
+          },
+          "note": "Draft 1; the Latin's order; MS1932; proparoxytone at the mediant.",
+          "from": "draft"
+        },
+        {
+          "label": "ao Deus Altíssimo",
+          "forms": {
+            "altissimum": "ao Deus Altíssimo"
+          },
+          "note": "capitalised as a title.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "benefecit",
+      "refs": [
+        "56:3"
+      ],
+      "latin": "Deum qui benefécit mihi",
+      "kind": "word",
+      "why": "*benefácere* (εὐεργετήσαντα) 'to do good to'; the 48:19 row already says *fazer bem* (*quando lhe fizeres bem*); 114:7 *Dóminus benefécit tibi* should follow. The second colon repeats *Deum* as the Latin does. DRB 'who hath done good to me'. MS1932 *que tanto bem me tem feito* adds *tanto* and a perfect of duration.",
+      "options": [
+        {
+          "label": "me fez bem",
+          "forms": {
+            "benefecit": "me fez bem"
+          },
+          "note": "Ruling; 48:19; DRB.",
+          "from": "draft"
+        },
+        {
+          "label": "me fez o bem",
+          "forms": {
+            "benefecit": "me fez o bem"
+          },
+          "note": "the article steers away from 'did me good' (as a medicine does).",
+          "from": "draft"
+        },
+        {
+          "label": "tanto bem me tem feito",
+          "forms": {
+            "benefecit": "tanto bem me tem feito"
+          },
+          "note": "MS1932; adds *tanto*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "misit",
+      "refs": [
+        "56:4"
+      ],
+      "latin": "Misit de cælo, et liberávit me",
+      "kind": "ambiguity",
+      "why": "*Misit* has no object in the Latin (ἐξαπέστειλεν, no object either); what was sent is named only in the next verse (*Misit Deus misericórdiam suam, et veritátem suam*). Kept objectless, as 55:7's bare *esconderão* after the Latinist; MS1932 supplies *(o seu auxílio)* in a parenthesis, which is his gloss. *liberáre → livrar* (row).",
+      "options": [
+        {
+          "label": "Enviou do céu",
+          "forms": {
+            "misit": "Enviou do céu"
+          },
+          "note": "Ruling; as the Latin; 56:4b fills the object.",
+          "from": "draft"
+        },
+        {
+          "label": "Enviou do céu o seu auxílio",
+          "forms": {
+            "misit": "Enviou do céu o seu auxílio"
+          },
+          "note": "MS1932's gloss made text; supplies a noun.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "opprobrium",
+      "refs": [
+        "56:4"
+      ],
+      "latin": "dedit in oppróbrium conculcántes me",
+      "kind": "word",
+      "why": "ἔδωκεν εἰς ὄνειδος: 'gave over to reproach'. *oppróbrium → afronta* (open row; *opróbrio* failed two blind readers at 118:22). *entregar a* keeps *dare in* as a giving-over. DRB 'made them a reproach', MS1932 *cobriu de opróbrio* change the verb. 38:9 *oppróbrium … dedísti me* → *fizestes de mim a afronta* is another build (the person is the reproach there).",
+      "options": [
+        {
+          "label": "entregou à afronta",
+          "forms": {
+            "opprobrium": "entregou à afronta"
+          },
+          "note": "Ruling; keeps *dare in*.",
+          "from": "draft"
+        },
+        {
+          "label": "cobriu de afronta",
+          "forms": {
+            "opprobrium": "cobriu de afronta"
+          },
+          "note": "MS1932's build; another verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "entregou ao opróbrio",
+          "forms": {
+            "opprobrium": "entregou ao opróbrio"
+          },
+          "note": "the cognate; unknown to the Ps 118 blind readers.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conculcantes",
+      "refs": [
+        "56:4"
+      ],
+      "latin": "conculcántes me",
+      "kind": "glossary",
+      "why": "D44: *conculcáre → calcar aos pés* (55:2–3, 90:13); the row named 56:4. The participle as a relative clause in the present.",
+      "options": [
+        {
+          "label": "calcam aos pés",
+          "forms": {
+            "conculcantes": "calcam aos pés"
+          },
+          "note": "Ruling; D44.",
+          "from": "glossary"
+        },
+        {
+          "label": "pisam aos pés",
+          "forms": {
+            "conculcantes": "pisam aos pés"
+          },
+          "note": "Ps 7:6's local exception; crossed idiom per the Ps 55 stylist.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "misitdeus",
+      "refs": [
+        "56:4b"
+      ],
+      "latin": "Misit Deus misericórdiam suam",
+      "kind": "order",
+      "why": "The Latin opens 56:4 and 56:4b with the same verb; keeping *Enviou* at the head of both keeps the anaphora (a repetition, rule 2) and the verb–subject order Portuguese allows. The colon is also a versicle (111-1, Pent01-1: *V. Misit Deus misericórdiam suam et veritátem suam: ánimam meam erípuit de médio catulórum leónum*, grep), and reads alone.",
+      "options": [
+        {
+          "label": "Enviou Deus",
+          "forms": {
+            "misitdeus": "Enviou Deus"
+          },
+          "note": "Ruling; the anaphora with 56:4.",
+          "from": "draft"
+        },
+        {
+          "label": "Deus enviou",
+          "forms": {
+            "misitdeus": "Deus enviou"
+          },
+          "note": "plain order; MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "catulorum",
+      "refs": [
+        "56:4b"
+      ],
+      "latin": "de médio catulórum leónum",
+      "kind": "glossary",
+      "why": "*cátulus → filhote* (open row, 16:12 *um filhote de leão*; this verse is named there). MS1932 *cachorros dos leões* is a dog in Brazil. Both Latin nouns are plural; *de leões* keeps the number, *de leão* is the generic Portuguese would also say. *erípere de → arrancar* (the row: a source is named).",
+      "options": [
+        {
+          "label": "dos filhotes de leões",
+          "forms": {
+            "catulorum": "dos filhotes de leões"
+          },
+          "note": "Ruling; both plurals kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "dos filhotes de leão",
+          "forms": {
+            "catulorum": "dos filhotes de leão"
+          },
+          "note": "the generic; = 16:12's *filhote de leão*.",
+          "from": "draft"
+        },
+        {
+          "label": "dos leõezinhos",
+          "forms": {
+            "catulorum": "dos leõezinhos"
+          },
+          "note": "endearing (the row); refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "filii",
+      "refs": [
+        "56:5"
+      ],
+      "latin": "Fílii hóminum dentes eórum arma et sagíttæ",
+      "kind": "grammar",
+      "why": "The Latin hangs *Fílii hóminum* as a topic and resumes it with *eórum* (DRB 'The sons of men, whose teeth are weapons'); not a vocative (*eórum*, not *vestri*). Kept as a topic with a comma and the copula Portuguese needs (D2). *fílii hóminum → os filhos dos homens* (row). MS1932 recasts as *têm dentes que são*. *arma → armas*, *sagíttæ → setas* (row).",
+      "options": [
+        {
+          "label": "topic + são",
+          "forms": {
+            "filii": "Os filhos dos homens, os seus dentes são armas e setas"
+          },
+          "note": "Ruling; the Latin's build.",
+          "from": "draft"
+        },
+        {
+          "label": "têm dentes que são",
+          "forms": {
+            "filii": "Os filhos dos homens têm dentes que são armas e setas"
+          },
+          "note": "MS1932; smoother, recasts.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "acutus",
+      "refs": [
+        "56:5"
+      ],
+      "latin": "et lingua eórum gládius acútus",
+      "kind": "glossary",
+      "why": "D44 (novácula row): *acútus* of an edge → *afiado*, of a point → *agudo*; a sword is an edge (51:4 *navalha afiada*). The copula supplied as in the first colon.",
+      "options": [
+        {
+          "label": "é uma espada afiada",
+          "forms": {
+            "acutus": "é uma espada afiada"
+          },
+          "note": "Ruling; D44.",
+          "from": "glossary"
+        },
+        {
+          "label": "é uma espada aguda",
+          "forms": {
+            "acutus": "é uma espada aguda"
+          },
+          "note": "MS1932 *espada aguda*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "espada afiada",
+          "forms": {
+            "acutus": "espada afiada"
+          },
+          "note": "verbless, as the Latin (DM1962's build).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "exaltare",
+      "refs": [
+        "56:6",
+        "56:12"
+      ],
+      "latin": "Exaltáre super cælos, Deus",
+      "kind": "glossary",
+      "why": "The refrain. Row *Exaltáre* (passive imperative, to God) → *exaltai-vos* (7:7a, 20:14; this verse named); the medio-passive as ὑψώθητι. Identical Latin, identical Portuguese in 56:6 and 56:12; Ps 107:6 will copy. Safe under rule 3 (past *exaltei*).",
+      "options": [
+        {
+          "label": "Exaltai-vos",
+          "forms": {
+            "exaltare6": "Exaltai-vos",
+            "exaltare12": "Exaltai-vos"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Sede exaltado",
+          "forms": {
+            "exaltare6": "Sede exaltado",
+            "exaltare12": "Sede exaltado"
+          },
+          "note": "the passive to the letter (DRB 'Be thou exalted').",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "supercaelos",
+      "refs": [
+        "56:6",
+        "56:12"
+      ],
+      "latin": "super cælos",
+      "kind": "glossary",
+      "why": "Two glossary rows disagree: *super (place) → sobre* names 56:6 and gives 8:2b *se elevou … sobre os céus* (*super cælos*, the same Greek ἐπὶ τοὺς οὐρανούς); the *Exaltáre* row pencils *acima dos céus*. *sobre* ruled: it matches 8:2b, the Paschal responsory that quotes it (*Super cælos, Deus*, Pasc5-4), and the second colon of 56:12 (*super omnem terram → sobre toda a terra*), so one Latin word stays one Portuguese word inside the verse.",
+      "options": [
+        {
+          "label": "sobre os céus",
+          "forms": {
+            "caelos6": "sobre os céus",
+            "caelos12": "sobre os céus"
+          },
+          "note": "Ruling; 8:2b; the *super* row.",
+          "from": "glossary"
+        },
+        {
+          "label": "acima dos céus",
+          "forms": {
+            "caelos6": "acima dos céus",
+            "caelos12": "acima dos céus"
+          },
+          "note": "the *Exaltáre* row's pencilled form; MS1932 at 56:12.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "interram",
+      "refs": [
+        "56:6"
+      ],
+      "latin": "et in omnem terram glória tua (56:6) / et super omnem terram (56:12)",
+      "kind": "ambiguity",
+      "why": "The refrain is not quite identical in the DO Latin: 56:6 has *in omnem terram*, 56:12 *super omnem terram* (checked in Psalm56.txt; the Greek has ἐπὶ both times; 107:6 has *super*). The Latin varies and Portuguese has the pair, so the variation is kept: *por toda a terra* (extent, 'into/over all the earth') against *sobre toda a terra*. MS1932 makes the same distinction (*por toda a terra* / *sobre toda a terra*). The second colon is left verbless in both, as the Latin (MS1932 supplies *brilhe*).",
+      "options": [
+        {
+          "label": "por toda a terra",
+          "forms": {
+            "interram": "por toda a terra"
+          },
+          "note": "Ruling; the Latin's *in*; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sobre toda a terra",
+          "forms": {
+            "interram": "sobre toda a terra"
+          },
+          "note": "= 56:12; the Greek's one preposition (D15's test would allow it).",
+          "from": "draft"
+        },
+        {
+          "label": "em toda a terra",
+          "forms": {
+            "interram": "em toda a terra"
+          },
+          "note": "the preposition to the letter; loses the reach.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pedibus",
+      "refs": [
+        "56:7"
+      ],
+      "latin": "Láqueum paravérunt pédibus meis",
+      "kind": "word",
+      "why": "A dative of the thing aimed at. *aos meus pés* would be heard as 'at my feet' (a place); *para os meus pés* keeps the aim. *láqueus → laço*, *paráre → preparar* (rows). Natural order (D2).",
+      "options": [
+        {
+          "label": "para os meus pés",
+          "forms": {
+            "pedibus": "para os meus pés"
+          },
+          "note": "Ruling; DRB 'for my feet'.",
+          "from": "DRB"
+        },
+        {
+          "label": "aos meus pés",
+          "forms": {
+            "pedibus": "aos meus pés"
+          },
+          "note": "MS1932 *armaram laços aos meus pés*; heard as a place.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "incurvaverunt",
+      "refs": [
+        "56:7"
+      ],
+      "latin": "et incurvavérunt ánimam meam",
+      "kind": "word",
+      "why": "κατέκαμψαν; L&S *incurvo* 'to bend, bow'; trop. 'to bend, cast down'. The bending is the image and stays (rule 5). 68:24 *dorsum eórum semper incúrva* is the only other place (grep) and should match.",
+      "options": [
+        {
+          "label": "curvaram",
+          "forms": {
+            "incurvaverunt": "curvaram"
+          },
+          "note": "Ruling; DRB 'bowed down'.",
+          "from": "draft"
+        },
+        {
+          "label": "fizeram curvar",
+          "forms": {
+            "incurvaverunt": "fizeram curvar"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "abateram",
+          "forms": {
+            "incurvaverunt": "abateram"
+          },
+          "note": "the sense without the image.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "faciem",
+      "refs": [
+        "56:7b"
+      ],
+      "latin": "Fodérunt ante fáciem meam fóveam",
+      "kind": "glossary",
+      "why": "Row *ante fáciem → diante da face de* (open; the Hebraism kept). *fódere* with a pit → *cavar*, *fóvea → fosso* (rows; the *lacus / fóvea* row pencils this verse as *Cavaram um fosso diante de mim, e caíram nele*). Natural order, object before the adverbial.",
+      "options": [
+        {
+          "label": "diante da minha face",
+          "forms": {
+            "faciem": "diante da minha face"
+          },
+          "note": "Ruling; the *fácies* row keeps the face.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de mim",
+          "forms": {
+            "faciem": "diante de mim"
+          },
+          "note": "the *lacus / fóvea* row's pencil; MS1932; drops the face.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "paratum",
+      "refs": [
+        "56:8"
+      ],
+      "latin": "Parátum cor meum, Deus, parátum cor meum",
+      "kind": "word",
+      "why": "The *parátus* row (16:12 *pronto para a presa*) leaves this line to its psalm. **First copy of the doublet: 107:2 has the same first colon and will copy it.** Also the responsory of Epi2-3 and the Alleluia of Pent20-0 (grep). *pronto* is the plain word for 'ready' and keeps the line close to the Latin's length (14 syllables; *preparado* twice would add four). Cost: the Latin's echo 56:7 *paravérunt láqueum* / 56:8 *parátum cor* (Greek ἡτοίμασαν / ἑτοίμη too) — the snare they prepared, the heart that is prepared — is lost; *preparado* keeps it and is option 2. *firme* is the Hebrew's (נָכוֹן), DM1962's. Natural order with the copula (D2); the repetition kept whole.",
+      "options": [
+        {
+          "label": "pronto",
+          "forms": {
+            "paratum1": "pronto",
+            "paratum2": "pronto"
+          },
+          "note": "Ruling; the *parátus* row; DRB 'ready'.",
+          "from": "glossary"
+        },
+        {
+          "label": "preparado",
+          "forms": {
+            "paratum1": "preparado",
+            "paratum2": "preparado"
+          },
+          "note": "MS1932; keeps the echo with 56:7 *prepararam*; heavier.",
+          "from": "MS1932"
+        },
+        {
+          "label": "firme",
+          "forms": {
+            "paratum1": "firme",
+            "paratum2": "firme"
+          },
+          "note": "DM1962, from the Hebrew; refused (rule 1).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "psalmumdicere",
+      "refs": [
+        "56:8",
+        "56:10"
+      ],
+      "latin": "psalmum dicam (56:8) / psalmum dicam tibi (56:10)",
+      "kind": "glossary",
+      "why": "*psalmum dícere* renders ψαλῶ, so D25's *entoar* serves with the Latin's singular noun: 17:50 *e entoarei um salmo ao vosso nome*, and 26:6b *cantábo, et psalmum dicam Dómino* → *cantarei, e entoarei um salmo ao Senhor* — 56:8's colon word for word but for *Dómino*, so it is copied. 56:10 = the Paschal versicle (Pasc4-0, *V. Confitébor tibi in pópulis, Dómine, et psalmum dicam tibi in géntibus*). **Doublet:** 107:2 and 107:4 have *psallam* there (D25 *entoarei salmos*), so Ps 107 will differ at these two words, as the Latin does.",
+      "options": [
+        {
+          "label": "entoarei um salmo",
+          "forms": {
+            "psalmum8": "entoarei um salmo",
+            "psalmum10": "vos entoarei um salmo"
+          },
+          "note": "Ruling; 26:6b, 17:50.",
+          "from": "glossary"
+        },
+        {
+          "label": "direi um salmo",
+          "forms": {
+            "psalmum8": "direi um salmo",
+            "psalmum10": "vos direi um salmo"
+          },
+          "note": "*dícere* to the letter; DRB 'rehearse a psalm'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exsurge",
+      "refs": [
+        "56:9"
+      ],
+      "latin": "Exsúrge, glória mea, exsúrge, psaltérium et cíthara",
+      "kind": "grammar",
+      "why": "**Doublet: 107:3 is identical and will copy this verse; the Epi2-3 responsory versicle is the whole verse.** The Latin says *exsúrge* (singular) twice, to the psalmist's glory and to harp-and-lyre; the repetition stays (rule 2). The addressees are not God, so *tu* (rule 3; the soul in 41:6 is *tu*); MS1932 *Levanta-te … levanta-te, saltério e citara*, the same singular. *exsúrgere → levantar-se* (row; *exsúrgam* → *eu me levantarei*, the subject named against the vocatives). *glória mea* (the self) is not explained (the row; MS1932's *minha alma* is his gloss); vocative without article, as *minha alma* in 41:6. *psaltérium → saltério*, *cíthara → cítara* (rows). *dilúculo → ao amanhecer* (row; 45:6, 118:148). **v2:** the ambiguity reader heard *minha glória* as God first, and the *tu* form then clashed with *vós*. The Latin is as open (the same *Exsúrge* serves *Dómine* elsewhere, and *glória mea* is God in 3:4); but one verb addresses the glory and the instruments together, and the instruments are not God, so *tu* stands; the *vós* reading is now option 4, one touch away.",
+      "options": [
+        {
+          "label": "Levanta-te … levanta-te",
+          "forms": {
+            "exsurge1": "Levanta-te",
+            "exsurge2": "levanta-te"
+          },
+          "note": "Ruling; the Latin's singular twice; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Levanta-te … levantai-vos",
+          "forms": {
+            "exsurge1": "Levanta-te",
+            "exsurge2": "levantai-vos"
+          },
+          "note": "plural for two instruments; breaks the repetition.",
+          "from": "draft"
+        },
+        {
+          "label": "Desperta … despertai",
+          "forms": {
+            "exsurge1": "Desperta",
+            "exsurge2": "despertai"
+          },
+          "note": "DM1962's verb (from the Hebrew עוּרָה); loses the *exsúrge / exsúrgam* echo with the row.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Levantai-vos … levanta-te",
+          "forms": {
+            "exsurge1": "Levantai-vos",
+            "exsurge2": "levanta-te"
+          },
+          "note": "ambiguity v1: *minha glória* = God (as 3:4); splits the Latin's one form into two addresses.",
+          "from": "ambiguity"
+        }
+      ]
+    },
+    {
+      "id": "magnificata",
+      "refs": [
+        "56:11"
+      ],
+      "latin": "Quóniam magnificáta est usque ad cælos misericórdia tua",
+      "kind": "grammar",
+      "why": "ἐμεγαλύνθη, perfect passive. The pronominal form, as 8:2b *eleváta est … super cælos* → *se elevou … sobre os céus*; *magnificáre → engrandecer* (row). Latin order kept (verb, reach, subject), which Portuguese allows and which ends each colon on its noun. **Doublet:** 107:5 has another Latin (*Quia magna est super cælos*), so Ps 107 decides it locally; its second colon *et usque ad nubes véritas tua* is identical and will copy *e até as nuvens a vossa verdade*.",
+      "options": [
+        {
+          "label": "se engrandeceu",
+          "forms": {
+            "magnificata": "se engrandeceu"
+          },
+          "note": "Ruling; 8:2b's build.",
+          "from": "draft"
+        },
+        {
+          "label": "foi engrandecida",
+          "forms": {
+            "magnificata": "foi engrandecida"
+          },
+          "note": "the passive to the letter; MS1932 *foi exaltada*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "é grande",
+          "forms": {
+            "magnificata": "é grande"
+          },
+          "note": "107:5's Latin, not this one.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vocative",
+      "refs": [
+        "56:2",
+        "56:6",
+        "56:8",
+        "56:12"
+      ],
+      "latin": "Deus (vocative, no *o*)",
+      "kind": "glossary",
+      "why": "The stylist (v1) asked for *ó Deus* in all four places: the bare vocative reads as a calque, and at the mediant of 56:6 / 56:12 a lone monosyllable sounds clipped. Refused for now: the Latin has no *o*, the *Dóminus* row keeps the vocative without *ó* unless the Latin has it, and D44 has just held the bare *Deus* in Ps 50 against the same request (*flagged for Gustavo*). It is one ruling for the psalter, not for this psalm, so it stays with D44; *ó Deus* is one touch away here in all four verses at once.",
+      "options": [
+        {
+          "label": "Deus",
+          "forms": {
+            "voc2": "Deus",
+            "voc6": "Deus",
+            "voc8": "Deus",
+            "voc12": "Deus"
+          },
+          "note": "Ruling; the Latin; D44 (Ps 50), the Dóminus row.",
+          "from": "glossary"
+        },
+        {
+          "label": "ó Deus",
+          "forms": {
+            "voc2": "ó Deus",
+            "voc6": "ó Deus",
+            "voc8": "ó Deus",
+            "voc12": "ó Deus"
+          },
+          "note": "stylist v1; MS1932 *ó Deus* (56:2, 56:8, 56:12); the familiar form.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "fovea",
+      "refs": [
+        "56:7b"
+      ],
+      "latin": "fóveam",
+      "kind": "glossary",
+      "why": "The stylist (v1) asked *uma cova* for *fosso* (a moat or ditch) and *e nela caíram* for the ending. The *lacus / fóvea* row keeps *cova* for *lacus* and *fosso* for *fóvea*, because 7:16 has both in one verse (*Abriu uma cova … e caiu no fosso que fez*) and the row names this verse and 93:13; so *fosso* stays. *e caíram nele* stays too: *nele* is a paroxytone, not a weak ending, and the natural order needs no inversion (rule 5). Both proposals are options.",
+      "options": [
+        {
+          "label": "fosso",
+          "forms": {
+            "fovea": "fosso"
+          },
+          "note": "Ruling; the row; 7:16.",
+          "from": "glossary"
+        },
+        {
+          "label": "cova",
+          "forms": {
+            "fovea": "cova"
+          },
+          "note": "stylist v1; MS1932 *cova*; merges with *lacus* (7:16).",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "instruments",
+      "refs": [
+        "56:9"
+      ],
+      "latin": "psaltérium et cíthara",
+      "kind": "order",
+      "why": "The stylist (v1) asked to swap the instruments so that the mediant falls on the paroxytone *saltério*. Refused: the Latin itself ends the colon on the proparoxytone *cíthara*, so the Portuguese sings as the Latin does; the pair is the same in 107:3, 32:2 (*cítara … saltério*, the other way round, because that Latin is) and 80:3, 91:4, 150:3, and a reader crossing columns should find the Latin's order. The swap is the option.",
+      "options": [
+        {
+          "label": "saltério e cítara",
+          "forms": {
+            "instruments": "saltério e cítara"
+          },
+          "note": "Ruling; the Latin's order; MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "cítara e saltério",
+          "forms": {
+            "instruments": "cítara e saltério"
+          },
+          "note": "stylist v1; paroxytone mediant.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "56:2": "*Miserére mei* formula row, bare vocative *Deus*. *confídere in → confiar em* (24:1 *em vós confio*). The second colon is an antiphon on its own (*Quóniam * in te confídit ánima mea*, Monastic Lauds feria 3 and Wednesday Matins [Daya3]) and a short-responsory versicle (Matutinum Special [MM LB2C]); *porque em vós confia a minha alma* reads alone. The whole verse is a Mass chant (Quadp3-3, grep).",
+    "56:2b": "*speráre → esperar* (the future *esperarei*); *donec tránseat iníquitas → até que passe a iniquidade* (row).",
+    "56:4": "*e me livrou* — proclisis after *e*, the Brazilian order.",
+    "56:4b": "*dormívi conturbátus → dormi perturbado* (*dormíre → dormir*, 3:6; *conturbáre → perturbar*). *erípere de → arrancar* (row: the source is named). The Latin's comma after *misericórdiam suam* is not kept before *e*.",
+    "56:6": "The refrain. 56:6 and 56:12 share every slot the Latin shares (*Exaltai-vos sobre os céus, Deus*); they part at *in / super omnem terram* (see `interram`) and keep the Latin's own punctuation (comma / colon at the mediant).",
+    "56:7b": "*incidérunt in eam → e caíram nele*; MS1932 adds *eles mesmos*, not in the Latin.",
+    "56:8": "*cantábo → cantarei*; the colon copies 26:6b.",
+    "56:9": "The mediant falls on *cítara*, a proparoxytone, as the Latin's *cíthara* does; kept (decision `instruments`). The unknown words *saltério* and *cítara* (ambiguity reader) are the rows' (32:2, 48:5), kept as the Latin's instruments.",
+    "56:10": "*Confitébor tibi → Eu vos darei graças* (D5; 42:5 *Eu vos darei graças*); *in pópulis … in géntibus → entre os povos … entre as nações* (rows; 17:50). The trailing colon of the DO text kept. **Doublet:** 107:4 shares the first colon exactly and should copy it.",
+    "56:11": "*usque ad → até* (35:6 *até as nuvens*), Brazilian *até os* without *a*."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm56.txt, 14 prayed verses (56:2–56:12 with 56:2b, 56:4b, 56:7b); one mediant each, no flex. No titulus (D7). The refrain is not identical in the DO Latin: 56:6 *in omnem terram*, 56:12 *super omnem terram* (and comma / colon at the mediant). Liturgical uses (ps032/uses.py): 56:2 Mass chant Quadp3-3; 56:2a second half an antiphon (Monastic Lauds feria 3; Matins [Daya3]) and short-responsory versicle; 56:4b a versicle (111-1, Pent01-1); 56:8–9 the Epi2-3 responsory (R. *Parátum cor meum*, V. *Exsúrge, glória mea …*), 107:2's form in the Alleluia of Pent20-0; 56:10 a versicle (Pasc4-0). No use found for 56:6 = 56:12 as such."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps056.md (Latin, LXX, WLC, DRB, MS1932, DM1962). DO's Portuguese not used (D12). Rulings applied: D2, D5 (*darei graças*), D25 (*entoar um salmo* for *psalmum dícere*, as 17:50 and 26:6b), D36 (not met: *in umbra* is locative), D44 (*calcar aos pés*; *afiado* for an edge). Rows applied: Miserére mei, confídere, iníquitas, clamáre, Altíssimus, liberáre, oppróbrium (*afronta*), erípere (*arrancar* with a source), cátulus (*filhote*), conturbáre, fílii hóminum, sagítta, Exaltáre (*exaltai-vos*), super (place) (*sobre*), láqueus, paráre, parátus (*pronto*), fácies, fódere, lacus / fóvea (*fosso*), psaltérium, cíthara, exsúrgere, glória mea, dilúculo, pópuli / gentes, magnificáre. **Doublet with Ps 107 (glossary 'Doublets'): 56:8a = 107:2a, 56:9 = 107:3, 56:10a = 107:4a, 56:11b = 107:5b, 56:12 ≈ 107:6a are the first copy — Ps 107 will copy these wordings, so they were rendered to stand alone and to be copied; where Ps 107's Latin differs (*psallam in glória mea*, *psallam tibi in natiónibus*, *Quia magna est super cælos*) it decides locally.** Hard readings: 56:4 objectless *Misit*, *dedit in oppróbrium*; 56:5 the hanging *Fílii hóminum*; 56:6 vs 56:12 *in / super*; 56:8 *Parátum*; 56:9 the address."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids and marks). Soft length flags accepted: 56:2a +3 (*Tende piedade de mim* is the formula row, twice as the Latin); 56:4b −3 and 56:11a −3 (the Latin's long words); 56:4 second colon +3 (*calcar aos pés*, D44, is three words for one); 56:5b +3 (the copula and article supplied); 56:8a +5 and 56:8b +3 (the Latin's verbless *Parátum cor meum* twice needs *está* twice; the second colon copies 26:6b); 56:9b +5 (*exsúrgam dilúculo* is two words; *eu* named against the vocatives, *ao amanhecer* the row); 56:10b +3 (*entoar um salmo*, D25). Cadence: 56:9's mediant on *cítara* (proparoxytone) as the Latin's *cíthara*. No rhyme flags."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37). Draft 1 handed to the coordinator for three fresh-context readers: latinist, stylist, ambiguity."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context). No remarks: tenses, voice, images, the *in / super omnem terram* distinction and the pointing all passed.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context). 7 remarks; best line 56:2b, worst 56:7b. 1 taken in substance (56:3 cadence, by the glossary's build), 6 kept as options (the bare vocative ×4, *cova*, the swap of the instruments).",
+      "outcomes": [
+        {
+          "verse": "56:2",
+          "remark": "bare vocative *Deus* a calque → *ó Deus*",
+          "outcome": "option",
+          "decision": "vocative",
+          "reason": "the Latin has no *o*; D44 held the bare vocative in Ps 50 and flagged it for Gustavo; one psalter-wide ruling"
+        },
+        {
+          "verse": "56:3",
+          "remark": "proparoxytone *altíssimo* at the mediant → *Ao Deus altíssimo clamarei*",
+          "outcome": "taken",
+          "reason": "the cadence taken by 7:18's order (*ao altíssimo Deus*), not by the inversion (verb last), refused as inversion for its own sake"
+        },
+        {
+          "verse": "56:6",
+          "remark": "bare vocative clipped at the mediant → *ó Deus*",
+          "outcome": "option",
+          "decision": "vocative",
+          "reason": "as 56:2"
+        },
+        {
+          "verse": "56:7b",
+          "remark": "*fosso* a moat → *cova*; *nele* weak → *e nela caíram*",
+          "outcome": "option",
+          "decision": "fovea",
+          "reason": "the *lacus / fóvea* row keeps the two words apart (7:16); *nele* is a paroxytone and the plain order needs no inversion"
+        },
+        {
+          "verse": "56:8",
+          "remark": "bare vocative → *ó Deus*",
+          "outcome": "option",
+          "decision": "vocative",
+          "reason": "as 56:2"
+        },
+        {
+          "verse": "56:9",
+          "remark": "proparoxytone *cítara* at the mediant → *cítara e saltério*",
+          "outcome": "option",
+          "decision": "instruments",
+          "reason": "the Latin ends the colon on *cíthara*; its order kept for the reader crossing columns and for 107:3"
+        },
+        {
+          "verse": "56:12",
+          "remark": "bare vocative → *ó Deus*; keep the refrain identical to 56:6",
+          "outcome": "option",
+          "decision": "vocative",
+          "reason": "as 56:2; the refrain already shares every slot the Latin shares"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context). 19 readings; the likely hearing was the intended one in most. Unknown: *saltério*, *cítara*, *afronta*, *calcam*, *filhotes de leões* — all glossary words, kept.",
+      "outcomes": [
+        {
+          "verse": "56:9",
+          "remark": "*Levanta-te, minha glória* heard as said to God, clashing with *vós*",
+          "outcome": "option",
+          "decision": "exsurge",
+          "reason": "one Latin verb addresses the glory and the instruments together; the instruments are not God, so *tu*; the *vós* reading is option 4"
+        },
+        {
+          "verse": "56:4",
+          "remark": "*Enviou do céu* waits for an object",
+          "outcome": "refused",
+          "reason": "the Latin and the Greek have none; 56:4b supplies it; MS1932's gloss is option 2 of `misit`"
+        },
+        {
+          "verse": "56:4b",
+          "remark": "*dormi perturbado* disconnected from the lions",
+          "outcome": "refused",
+          "reason": "the Latin is as abrupt (*dormívi conturbátus*)"
+        },
+        {
+          "verse": "56:6",
+          "remark": "*Exaltai-vos* can be heard as said to the people",
+          "outcome": "refused",
+          "reason": "the settled *Exaltáre* row (7:7a, 20:14); *Deus* in the same colon names the addressee"
+        },
+        {
+          "verse": "56:2b",
+          "remark": "*iniquidade* heard as sin rather than a passing danger",
+          "outcome": "refused",
+          "reason": "the Latin's word (*iníquitas*, ἀνομία); the row"
+        },
+        {
+          "verse": "56:4",
+          "remark": "*afronta*, *calcam* unknown",
+          "outcome": "refused",
+          "reason": "rows (oppróbrium, conculcáre D44); reported to the rows"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 56:3 *ao altíssimo Deus* (stylist's cadence, 7:18's order); new decisions `vocative` (*ó Deus* option ×4), `fovea` (*cova* option), `instruments` (swap option); `exsurge` gains the *vós* reading as option. Draft 1 kept as prayed.v1.json. Handed to the coordinator for the Latinist gate."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5 (fresh context), the gate on draft 2. No remarks, no major: the Septuagintal readings (*dedit in oppróbrium*, *dormívi conturbátus*, *incurvavérunt*, the address to glory, psaltery and harp) kept, nothing added or explained, pointing matches; *se engrandeceu* and *darei graças* within the latitude.",
+      "outcomes": []
+    }
+  ]
+}
