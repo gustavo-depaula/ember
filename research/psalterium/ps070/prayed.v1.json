@@ -1,0 +1,443 @@
+{
+  "psalm": 70,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "70:1": "Em vós, Senhor, esperei: {confundar}: * {libera}, e {eripe1}.",
+    "70:2": "Inclinai para mim o vosso ouvido, * e salvai-me.",
+    "70:3": "Sede para mim um Deus protetor, e {munitum}: * para me salvardes,",
+    "70:3b": "{order3b}",
+    "70:4": "Meu Deus, arrancai-me da mão do pecador, * e da mão do que age contra a lei e do iníquo:",
+    "70:5": "Porque vós sois a minha paciência, Senhor: * Senhor, a minha esperança desde a minha juventude.",
+    "70:6": "Em vós {confirmatus} desde o seio materno: * desde o ventre da minha mãe vós sois o meu protetor.",
+    "70:7": "Em vós está sempre o meu {cantatio}: * tornei-me como um prodígio para muitos: e vós sois {adjutor}.",
+    "70:8": "{repleatur} de louvor, para cantar a vossa glória: * a vossa grandeza o dia todo.",
+    "70:9": "Não me lanceis fora no tempo da velhice: * quando desfalecer {virtus}, não me abandoneis.",
+    "70:10": "Porque os meus inimigos {dixerunt}: * e os que {custodiebant} a minha alma {consilium} juntos.",
+    "70:11": "Dizendo: Deus o abandonou, {persequimini}, † e prendei-o: * porque não há quem {eripiat}.",
+    "70:12": "Deus, {elongeris}: * meu Deus, {respice}.",
+    "70:13": "Sejam envergonhados, e desfaleçam os que difamam a minha alma: * sejam cobertos de vergonha e de {pudore} os que buscam {malamihi13}.",
+    "70:14": "Eu, porém, esperarei sempre: * e acrescentarei {adiciam} todo o vosso louvor.",
+    "70:15": "A minha boca anunciará a vossa justiça: * a vossa salvação o dia todo.",
+    "70:16": "Porque não {cognovi} {litteraturam}, † entrarei {potentias} do Senhor: * Senhor, eu me lembrarei {solius}.",
+    "70:17": "Deus, vós me ensinastes desde a minha juventude: * e até agora {pronuntiabo} as vossas maravilhas.",
+    "70:18": "E até a velhice e {senium}: * Deus, não me abandoneis,",
+    "70:18b": "Até que eu anuncie o vosso braço * a toda a geração que há de vir:",
+    "70:19": "{potentiam} e a vossa justiça, Deus, † {altissima}, {magnalia} que fizestes: * Deus, quem é semelhante a vós?",
+    "70:20": "Quantas tribulações me mostrastes, muitas e más: e, voltando-vos, me {vivificasti}: * e dos abismos da terra de novo me {reduxisti}:",
+    "70:21": "Multiplicastes a vossa magnificência: * e, voltando-vos, me consolastes.",
+    "70:22": "Pois também eu vos darei graças {vasis} {veritatem}: * Deus, a vós entoarei salmos com a cítara, Santo de Israel.",
+    "70:23": "Os meus lábios exultarão quando eu vos cantar: * e a minha alma, que resgatastes.",
+    "70:24": "{sedet} a minha língua meditará a vossa justiça o dia todo: * quando forem envergonhados e desonrados os que buscam {malamihi24}."
+  },
+  "decisions": [
+    {
+      "id": "confundar",
+      "refs": ["70:1"],
+      "latin": "In te, Dómine, sperávi, non confúndar in ætérnum",
+      "kind": "glossary",
+      "why": "70:1a is word for word 30:2a and the last line of the Te Deum (glossary formula row; Ps 30 decision `confundar`). Identical Latin gets identical Portuguese (rule 6): Ps 30's ruling is copied with its options — the future of D15's verb, with D23's order for a negated in ætérnum so that the negation is not heard as 'not for ever'. The Greek here too is the optative μὴ καταισχυνθείην (the wish, DRB 'let me never be put to confusion', MS1932 'não permitas que eu seja para sempre confundido'). If Gustavo changes it in Ps 30, it changes here.",
+      "options": [
+        {"label": "para sempre não serei envergonhado", "forms": {"confundar": "para sempre não serei envergonhado"}, "note": "Ruling: Ps 30:2 copied (D15, D23).", "from": "glossary"},
+        {"label": "jamais serei envergonhado", "forms": {"confundar": "jamais serei envergonhado"}, "note": "Ps 30's stylist option; drops the phrase of in ætérnum.", "from": "stylist"},
+        {"label": "não seja eu envergonhado para sempre", "forms": {"confundar": "não seja eu envergonhado para sempre"}, "note": "The wish (the Greek optative; DRB, MS1932); risks 'not for ever'.", "from": "DRB"},
+        {"label": "para sempre não serei confundido", "forms": {"confundar": "para sempre não serei confundido"}, "note": "The traditional verb; heard as 'confused' (D15).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "libera",
+      "refs": ["70:1"],
+      "latin": "in justítia tua líbera me",
+      "kind": "order",
+      "why": "Copied from Ps 30:2 (decision `libera` there): the natural order, liberáre → livrar. The Latin's order is the Monday Sext antiphon's (from 30:2b), which can be built in its own order.",
+      "options": [
+        {"label": "livrai-me na vossa justiça", "forms": {"libera": "livrai-me na vossa justiça"}, "note": "Ruling: as Ps 30:2.", "from": "glossary"},
+        {"label": "na vossa justiça livrai-me", "forms": {"libera": "na vossa justiça livrai-me"}, "note": "The Latin's order.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "eripe1",
+      "refs": ["70:1"],
+      "latin": "et éripe me",
+      "kind": "glossary",
+      "why": "The one place 70:1 goes beyond 30:2. erípere → libertar where no source is named (row; 6:5, 118:153, 118:170 'libertai-me'); here nothing follows, so 'arrancai-me' would hang. It stands beside líbera me → 'livrai-me' as ῥῦσαί με καὶ ἐξελοῦ με do in the Greek: two verbs, two Portuguese verbs. DRB 'deliver me … and rescue me'; MS1932 'livra-me e põe-me a salvo'.",
+      "options": [
+        {"label": "libertai-me", "forms": {"eripe1": "libertai-me"}, "note": "Ruling: the row, no source named.", "from": "glossary"},
+        {"label": "arrancai-me", "forms": {"eripe1": "arrancai-me"}, "note": "The row's verb with a source; hangs here.", "from": "glossary"},
+        {"label": "ponde-me a salvo", "forms": {"eripe1": "ponde-me a salvo"}, "note": "MS1932's phrase; another verb's meaning, and 'salvo' echoes 70:2 'salvai-me'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "munitum",
+      "refs": ["70:3"],
+      "latin": "et in locum munítum",
+      "kind": "glossary",
+      "why": "70:3a is 30:3b with 'in locum munítum' for 'in domum refúgii'; the shared words are copied ('Sede para mim um Deus protetor … para me salvardes'; the 'in' of the Hebraism not reproduced, as Ps 30 ruled). locus munítus → lugar fortificado (row, beside 30:22 and 59:11 'cidade fortificada'); τόπον ὀχυρόν. DRB 'a place of strength'; MS1932 'um asilo seguro'.",
+      "options": [
+        {"label": "um lugar fortificado", "forms": {"munitum": "um lugar fortificado"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "um lugar seguro", "forms": {"munitum": "um lugar seguro"}, "note": "Plainer; the walls go.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "order3b",
+      "refs": ["70:3b"],
+      "latin": "Quóniam firmaméntum meum, * et refúgium meum es tu",
+      "kind": "order",
+      "why": "The Latin puts 'es tu' last, after the mediant. The natural order names the subject and verb first ('Porque vós sois …'), which is also how 30:4 has the near-identical 'Quóniam fortitúdo mea, et refúgium meum es tu' ('Porque vós sois a minha força e o meu refúgio'). The cost: the second colon is short (5 syllables against 8). The Latin's order is kept as the option; it ends on the oxytone 'vós'.",
+      "options": [
+        {"label": "Porque vós sois o meu esteio, * e o meu refúgio.", "forms": {"order3b": "Porque vós sois o meu {firmamentum}, * e o meu refúgio."}, "note": "Ruling: natural order, as 30:4.", "from": "draft"},
+        {"label": "Porque o meu esteio, * e o meu refúgio sois vós.", "forms": {"order3b": "Porque o meu {firmamentum}, * e o meu refúgio sois vós."}, "note": "The Latin's order.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "firmamentum",
+      "refs": ["70:3b"],
+      "latin": "firmaméntum meum",
+      "kind": "glossary",
+      "why": "D31 names this verse: where God is the firmaméntum of a person, 'esteio' (17:2, 24:14); a blind reader heard 'o meu firmamento' as 'my sky'. στερέωμα.",
+      "options": [
+        {"label": "esteio", "forms": {"firmamentum": "esteio"}, "note": "Ruling: D31.", "from": "glossary"},
+        {"label": "firmamento", "forms": {"firmamentum": "firmamento"}, "note": "The cognate; heard as the sky.", "from": "DRB"},
+        {"label": "apoio", "forms": {"firmamentum": "apoio"}, "note": "Plainer; a word with no image of the prop.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "confirmatus",
+      "refs": ["70:6"],
+      "latin": "In te confirmátus sum ex útero",
+      "kind": "glossary",
+      "why": "confirmáre with a person as object → firmar (the row's proposal from 37:3, 40:13, 50:14: 'confirmar' is heard as attesting, or as the sacrament). ἐπεστηρίχθην, 'I was propped upon you'. The passive is the Latin's; MS1932's reflexive 'me firmei' makes it the man's own act. 'In te' → 'Em vós', so that 70:6 and 70:7 keep the Latin's anaphora ('In te … In te'). ex útero → 'desde o seio materno' (row venter/úterus, which names this verse as a near twin of 21:10–11); de ventre matris meæ → 'desde o ventre da minha mãe', word for word 21:11.",
+      "options": [
+        {"label": "fui firmado", "forms": {"confirmatus": "fui firmado"}, "note": "Ruling: the row, the passive kept.", "from": "glossary"},
+        {"label": "me firmei", "forms": {"confirmatus": "me firmei"}, "note": "MS1932; the reflexive.", "from": "MS1932"},
+        {"label": "fui sustentado", "forms": {"confirmatus": "fui sustentado"}, "note": "36:17's verb (ὑποστηρίζει), close to the Greek here.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "cantatio",
+      "refs": ["70:7"],
+      "latin": "In te cantátio mea semper",
+      "kind": "word",
+      "why": "cantátio (ὕμνησις), only here in the psalter (grep): the act of singing, a song. 'canto' is the plain noun of 'cantar'; it is carmen's word in 39:4 (ὕμνον there, the same Greek root, so D15's test allows the merge). 'cântico' is cánticum's. The Latin is verbless; the copula is supplied ('está'), and 'Em vós' kept first for the anaphora with 70:6. DRB 'Of thee shall I continually sing' and MS1932 'Tu serás sempre o assunto dos meus cânticos' both explain.",
+      "options": [
+        {"label": "canto", "forms": {"cantatio": "canto"}, "note": "Ruling: the plain noun.", "from": "draft"},
+        {"label": "cântico", "forms": {"cantatio": "cântico"}, "note": "cánticum's word.", "from": "draft"},
+        {"label": "louvor", "forms": {"cantatio": "louvor"}, "note": "The Hebrew's sense (tehillah); laus's word.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": ["70:7"],
+      "latin": "et tu adjútor fortis",
+      "kind": "glossary",
+      "why": "adjútor → auxílio (the row, open for Gustavo; uniform in the psalter, held against the Latinist's 'auxiliador' in 61:7, 118:114, 9:10). No possessive in the Latin: 'um auxílio forte', the copula supplied. βοηθὸς κραταιός. MS1932 'um poderoso protector' (another noun).",
+      "options": [
+        {"label": "um auxílio forte", "forms": {"adjutor": "um auxílio forte"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "um auxiliador forte", "forms": {"adjutor": "um auxiliador forte"}, "note": "The agent noun the Latinist asks for elsewhere.", "from": "latinist"}
+      ]
+    },
+    {
+      "id": "repleatur",
+      "refs": ["70:8"],
+      "latin": "Repleátur os meum laude",
+      "kind": "word",
+      "why": "πληρωθήτω — not 62:6's ἐμπλησθείη (→ 'fartar-se', the satiety of food), so 'encher-se', the plain verb. The jussive with 'Que', as the glossary's other jussives (26:14, 62:6). MS1932 'Encha-se a minha boca de louvor'.",
+      "options": [
+        {"label": "Que a minha boca se encha", "forms": {"repleatur": "Que a minha boca se encha"}, "note": "Ruling.", "from": "draft"},
+        {"label": "Encha-se a minha boca", "forms": {"repleatur": "Encha-se a minha boca"}, "note": "MS1932's order; more ceremonious.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "virtus",
+      "refs": ["70:9"],
+      "latin": "cum defécerit virtus mea",
+      "kind": "glossary",
+      "why": "virtus mea, a man's strength failing: 'o meu vigor', as 21:16, 30:11b, 37:11 have it (conc.py). The virtus row's 'poder' is for God's power; 'força' is fortitúdo's. ἰσχύς. The future perfect said as the future subjunctive ('quando desfalecer'), which is how Portuguese says it. defícere → desfalecer (row).",
+      "options": [
+        {"label": "o meu vigor", "forms": {"virtus": "o meu vigor"}, "note": "Ruling: as 21:16, 30:11b, 37:11.", "from": "glossary"},
+        {"label": "a minha força", "forms": {"virtus": "a minha força"}, "note": "MS1932 'as minhas forças'; fortitúdo's word.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "dixerunt",
+      "refs": ["70:10"],
+      "latin": "Quia dixérunt inimíci mei mihi",
+      "kind": "ambiguity",
+      "why": "εἶπαν … ἐμοί: 'said to me' or 'said of me'; the speech itself follows in 70:11 ('Dicéntes'). 'falaram de mim' keeps the dative of reference, as 40:6 'dixérunt mala mihi' → 'disseram mal de mim'. DRB and MS1932 both have 'against me', which adds hostility the dative does not say. 'me disseram' leaves the verb without its object until the next verse.",
+      "options": [
+        {"label": "falaram de mim", "forms": {"dixerunt": "falaram de mim"}, "note": "Ruling.", "from": "draft"},
+        {"label": "falaram contra mim", "forms": {"dixerunt": "falaram contra mim"}, "note": "DRB, MS1932: the hostility named.", "from": "MS1932"},
+        {"label": "me disseram", "forms": {"dixerunt": "me disseram"}, "note": "The dative as 'to me'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "custodiebant",
+      "refs": ["70:10"],
+      "latin": "et qui custodiébant ánimam meam",
+      "kind": "ambiguity",
+      "why": "custodíre → guardar (row). Here the guarding is hostile (φυλάσσοντες, watching for a chance; MS1932 'os que insidiavam'), and 'os que guardavam a minha alma' may be heard first as protectors. The Latin word is the same one used of keeping and protecting, and the context ('consílium fecérunt', 70:11 'Deus derelíquit eum') tells which; the irony of guards turned plotters is left open as the Latin leaves it. DRB 'they that watched my soul'.",
+      "options": [
+        {"label": "guardavam", "forms": {"custodiebant": "guardavam"}, "note": "Ruling: the row; the context decides, as in the Latin.", "from": "glossary"},
+        {"label": "vigiavam", "forms": {"custodiebant": "vigiavam"}, "note": "DRB 'watched'; the hostile watch heard at once; vigiláre's verb.", "from": "DRB"},
+        {"label": "espreitavam", "forms": {"custodiebant": "espreitavam"}, "note": "MS1932's sense; explains.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "consilium",
+      "refs": ["70:10"],
+      "latin": "consílium fecérunt in unum",
+      "kind": "word",
+      "why": "consílium → conselho for a deliberation (D33); 'fazer conselho' is not Portuguese, 'tomar conselho' is the idiom for deliberating (ἐβουλεύσαντο). in unum → juntos (row; 2:2, 47:5). 30:14's single verb consiliári → 'planejaram' is the option; it loses the noun.",
+      "options": [
+        {"label": "tomaram conselho", "forms": {"consilium": "tomaram conselho"}, "note": "Ruling: the noun kept, the light verb yields.", "from": "draft"},
+        {"label": "fizeram conselho", "forms": {"consilium": "fizeram conselho"}, "note": "Word for word; not idiomatic.", "from": "draft"},
+        {"label": "planejaram", "forms": {"consilium": "planejaram"}, "note": "30:14's verb for consiliári.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "persequimini",
+      "refs": ["70:11"],
+      "latin": "persequímini, † et comprehéndite eum",
+      "kind": "grammar",
+      "why": "The pérsequi row foresaw the rule-3 trap here: bare 'persegui' is also 'I pursued'. D13: with an enclitic object the imperative stands. Portuguese 'perseguir' wants an object, so the pronoun the Latin gives only once ('eum' after comprehéndite) is said with both verbs — grammar (D2); MS1932 has 'persegui-o, e prendei-o' word for word. comprehéndere → prender (row; 7:6, 17:38 after pérsequi).",
+      "options": [
+        {"label": "persegui-o", "forms": {"persequimini": "persegui-o"}, "note": "Ruling: D13's enclitic.", "from": "MS1932"},
+        {"label": "ide atrás dele", "forms": {"persequimini": "ide atrás dele"}, "note": "Avoids the form entirely; another verb.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "eripiat",
+      "refs": ["70:11"],
+      "latin": "quia non est qui erípiat",
+      "kind": "glossary",
+      "why": "The erípere row, no source and no object: 49:22 'e não haja quem liberte' (the Latinist and stylist asked 'livre' there; refused, liberáre's word). Copied here, no object supplied (DRB and MS1932 supply 'him').",
+      "options": [
+        {"label": "liberte", "forms": {"eripiat": "liberte"}, "note": "Ruling: as 49:22.", "from": "glossary"},
+        {"label": "o liberte", "forms": {"eripiat": "o liberte"}, "note": "The object supplied (DRB, MS1932).", "from": "MS1932"},
+        {"label": "o livre", "forms": {"eripiat": "o livre"}, "note": "liberáre's verb; as asked at 49:22.", "from": "latinist"}
+      ]
+    },
+    {
+      "id": "elongeris",
+      "refs": ["70:12"],
+      "latin": "Deus, ne elongéris a me",
+      "kind": "glossary",
+      "why": "elongáre keeps the Latin's 'longe' (row; 21:20 'não ponhais longe de mim', 54:8 'fui para longe'), apart from discédere → afastar-se (37:22 'não vos afasteis de mim'). The row itself proposes 'não fiqueis longe de mim' for this verse (μὴ μακρύνῃς).",
+      "options": [
+        {"label": "não fiqueis longe de mim", "forms": {"elongeris": "não fiqueis longe de mim"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "não vos afasteis de mim", "forms": {"elongeris": "não vos afasteis de mim"}, "note": "MS1932; discédere's verb in 37:22.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "respice",
+      "refs": ["70:12"],
+      "latin": "Deus meus, in auxílium meum réspice",
+      "kind": "word",
+      "why": "réspice (πρόσχες) with 'in auxílium meum': look to my help. Built as 21:20 'ad defensiónem meam cónspice' → 'olhai para a minha defesa'. The Hebrew's 'make haste' (DRB 'make haste to my help', from the Hebrew-family wording) is not the Latin. 'em meu auxílio' is D40's phrase for 'in adjutórium meum' with 'atendei', and 69:2's line of every Hour; it is kept as the option, since the Latin here is another verb and another noun.",
+      "options": [
+        {"label": "olhai para o meu auxílio", "forms": {"respice": "olhai para o meu auxílio"}, "note": "Ruling: as 21:20.", "from": "draft"},
+        {"label": "olhai em meu auxílio", "forms": {"respice": "olhai em meu auxílio"}, "note": "D40's phrase; 'olhar em' is strained.", "from": "glossary"},
+        {"label": "acudi em meu auxílio", "forms": {"respice": "acudi em meu auxílio"}, "note": "MS1932 'acode em meu socorro'; another verb.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "pudore",
+      "refs": ["70:13"],
+      "latin": "operiántur confusióne, et pudóre",
+      "kind": "glossary",
+      "why": "pudor here is ἐντροπή, the Greek of reveréntia (34:26b 'de vergonha e de desonra') and of verecúndia (D43 joined them by D15's test) → desonra. So 'cobertos de vergonha e de desonra' echoes 34:26b, and 70:24 'envergonhados e desonrados' echoes it within the psalm, as the Greek's αἰσχύνη / ἐντροπή do. confúsio → vergonha (34:26b, 39:16, 43:16); operíre → cobrir (43:16 'me cobriu').",
+      "options": [
+        {"label": "desonra", "forms": {"pudore": "desonra"}, "note": "Ruling: D15's Greek test, with reveréntia.", "from": "glossary"},
+        {"label": "pudor", "forms": {"pudore": "pudor"}, "note": "The cognate; today modesty rather than disgrace.", "from": "draft"},
+        {"label": "opróbrio", "forms": {"pudore": "opróbrio"}, "note": "Heavier; oppróbrium's word.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "malamihi",
+      "refs": ["70:13", "70:24"],
+      "latin": "qui quærunt mala mihi (twice)",
+      "kind": "glossary",
+      "why": "The same colon ends 70:13 and 70:24, one wording in both. quærere → buscar (34:4 'os que buscam a minha alma'); 'mala mihi' → 'males contra mim', as 37:13 'qui inquirébant mala mihi' → 'os que procuravam males contra mim' (the dative of disadvantage). DRB 'that seek my hurt'; MS1932 'os que me procuram males' / 'os que procuram fazer-me mal'. 39:15b's 'os que me querem mal' is for 'volunt', another verb.",
+      "options": [
+        {"label": "males contra mim", "forms": {"malamihi13": "males contra mim", "malamihi24": "males contra mim"}, "note": "Ruling: as 37:13.", "from": "glossary"},
+        {"label": "o meu mal", "forms": {"malamihi13": "o meu mal", "malamihi24": "o meu mal"}, "note": "DRB 'my hurt'; the plural goes.", "from": "DRB"},
+        {"label": "males para mim", "forms": {"malamihi13": "males para mim", "malamihi24": "males para mim"}, "note": "The dative literally.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "adiciam",
+      "refs": ["70:14"],
+      "latin": "et adíciam super omnem laudem tuam",
+      "kind": "grammar",
+      "why": "adícere super → acrescentar a (the row from 60:7, where 'dias sobre os dias' was refused as unidiomatic and 'aos' taken as grammar). 'todo o vosso louvor' is 'all your praise'. MS1932 supplies a noun ('acrescentarei louvor sobre todos os teus louvores').",
+      "options": [
+        {"label": "a", "forms": {"adiciam": "a"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "sobre", "forms": {"adiciam": "sobre"}, "note": "The preposition word for word.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "litteratura",
+      "refs": ["70:16"],
+      "latin": "Quóniam non cognóvi litteratúram",
+      "kind": "word",
+      "why": "litteratúra (γραμματεία): writing, the letters, grammar, learning (L&S). 'as letras' keeps the root and holds both senses Portuguese gives it (literacy, and learning — 'homem de letras'); it does not decide between them, as the Latin does not. The Hebrew reads 'numbers' (sephorot), not followed. DRB 'learning'; MS1932 'a ciência (humana)', with a gloss. cognóvi: the perfect of knowing in present sense, 'conheço', as D44 settled at 49:11; the perfect is the option.",
+      "options": [
+        {"label": "conheço as letras", "forms": {"cognovi": "conheço", "litteraturam": "as letras"}, "note": "Ruling.", "from": "draft"},
+        {"label": "conheci as letras", "forms": {"cognovi": "conheci", "litteraturam": "as letras"}, "note": "The perfect's form (ἔγνων; DRB 'have not known').", "from": "DRB"},
+        {"label": "conheço o saber", "forms": {"cognovi": "conheço", "litteraturam": "o saber"}, "note": "DRB's sense; the letters go.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "potentias",
+      "refs": ["70:16", "70:19"],
+      "latin": "introíbo in poténtias Dómini … Poténtiam tuam",
+      "kind": "glossary",
+      "why": "poténtia (δυναστεία) twice in the psalm, plural then singular. It must stay apart from virtus → poder (row; Dóminus virtútum → o Senhor dos poderes, D43) and fortitúdo → força. The Ps 64 draft now in progress has 64:7 'accínctus poténtia' → 'cingido de potência'; followed. 'entrarei nas potências do Senhor' is as strange as the Latin (DRB 'I will enter into the powers of the Lord'); MS1932 paraphrases ('internar-me-ei na consideração das obras do Senhor'). 105:2 'Quis loquétur poténtias Dómini' should copy.",
+      "options": [
+        {"label": "nas potências … A vossa potência", "forms": {"potentias": "nas potências", "potentiam": "A vossa potência"}, "note": "Ruling: as 64:7 (draft).", "from": "draft"},
+        {"label": "nos poderes … O vosso poder", "forms": {"potentias": "nos poderes", "potentiam": "O vosso poder"}, "note": "Plainer; merges with virtus.", "from": "DRB"},
+        {"label": "nas obras poderosas … O vosso poderio", "forms": {"potentias": "nas obras poderosas", "potentiam": "O vosso poderio"}, "note": "Explains the plural (MS1932 'obras').", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "solius",
+      "refs": ["70:16"],
+      "latin": "memorábor justítiæ tuæ solíus",
+      "kind": "ambiguity",
+      "why": "solíus can go with justítiæ ('your justice alone') or with tuæ ('the justice of you alone'); the Greek's μόνου agrees with σου. 'só da vossa justiça' keeps both readings open in Portuguese ('only of your justice' / 'of yours only'). memorári → lembrar-se de (row); proclisis after the vocative with the subject named, avoiding the mesóclise 'lembrar-me-ei' (MS1932).",
+      "options": [
+        {"label": "só da vossa justiça", "forms": {"solius": "só da vossa justiça"}, "note": "Ruling: both readings open.", "from": "draft"},
+        {"label": "da vossa justiça somente", "forms": {"solius": "da vossa justiça somente"}, "note": "DRB 'thy justice alone'.", "from": "DRB"},
+        {"label": "da justiça que é só vossa", "forms": {"solius": "da justiça que é só vossa"}, "note": "The Greek's reading; closes the ambiguity.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "pronuntiabo",
+      "refs": ["70:17"],
+      "latin": "et usque nunc pronuntiábo mirabília tua",
+      "kind": "glossary",
+      "why": "pronuntiáre → pronunciar (118:13, 118:172), kept apart from annuntiáre → anunciar, which the psalm has three times (70:15, 70:18b; D41). The Greek has ἀπαγγελῶ here, the verb of 18b too, so a merge would pass D15's test; kept apart because the Latin's two verbs stand three verses apart. The odd tenses ('até agora … pronunciarei') are the Latin's. mirabília → maravilhas (9:2, 39:6).",
+      "options": [
+        {"label": "pronunciarei", "forms": {"pronuntiabo": "pronunciarei"}, "note": "Ruling: as Ps 118.", "from": "glossary"},
+        {"label": "anunciarei", "forms": {"pronuntiabo": "anunciarei"}, "note": "The Greek's one verb; merges with annuntiáre.", "from": "draft"},
+        {"label": "publicarei", "forms": {"pronuntiabo": "publicarei"}, "note": "MS1932.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "senium",
+      "refs": ["70:18"],
+      "latin": "Et usque in senéctam et sénium",
+      "kind": "word",
+      "why": "Two nouns of age (γήρους καὶ πρεσβείου): senécta, old age, and sénium, 'the feebleness of age, decay' (L&S). 'a decrepitude' is the Latin word's own sense. 'os cabelos brancos' (DRB 'grey hairs', MS1932) is the Hebrew's image (seybah), not the Latin's. senéctus (70:9) and senécta both → velhice.",
+      "options": [
+        {"label": "a decrepitude", "forms": {"senium": "a decrepitude"}, "note": "Ruling: L&S's sense.", "from": "draft"},
+        {"label": "os cabelos brancos", "forms": {"senium": "os cabelos brancos"}, "note": "DRB, MS1932: the Hebrew's image.", "from": "MS1932"},
+        {"label": "a idade avançada", "forms": {"senium": "a idade avançada"}, "note": "Plain; softer than the Latin.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "altissima",
+      "refs": ["70:19"],
+      "latin": "usque in altíssima",
+      "kind": "word",
+      "why": "altíssima, neuter plural (ἕως ὑψίστων): 'even to the highest (places/things)'. 'até as alturas' says the place and keeps the image; the superlative is not heard. excélsa → alturas (D42) is another Latin and Greek word; they do not meet in a psalm. 'até o Altíssimo' would be heard as God's name. MS1932 'que chegam até aos céus' explains; DRB 'even to the highest'.",
+      "options": [
+        {"label": "até as alturas", "forms": {"altissima": "até as alturas"}, "note": "Ruling.", "from": "draft"},
+        {"label": "até o mais alto", "forms": {"altissima": "até o mais alto"}, "note": "The superlative kept; the plural goes.", "from": "DRB"},
+        {"label": "até as maiores alturas", "forms": {"altissima": "até as maiores alturas"}, "note": "Both kept; longer.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "magnalia",
+      "refs": ["70:19"],
+      "latin": "quæ fecísti magnália",
+      "kind": "word",
+      "why": "magnália (μεγαλεῖα), 'great things, mighty works' (L&S; ecclesiastical). 'as grandes coisas' (DRB 'great things') keeps it apart from magnitúdo → grandeza (70:8, the same psalm) and mirabília → maravilhas (70:17). The canticle 36:3 'enárrent magnália tua' and 105:21 should copy.",
+      "options": [
+        {"label": "as grandes coisas", "forms": {"magnalia": "as grandes coisas"}, "note": "Ruling.", "from": "DRB"},
+        {"label": "as grandes obras", "forms": {"magnalia": "as grandes obras"}, "note": "A noun of work supplied.", "from": "draft"},
+        {"label": "as grandezas", "forms": {"magnalia": "as grandezas"}, "note": "Collides with magnitúdo in 70:8.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "vivificasti",
+      "refs": ["70:20"],
+      "latin": "et convérsus vivificásti me",
+      "kind": "glossary",
+      "why": "vivificáre → vivificar (row, open; 118:93 'me vivificastes'); two blind readers did not know it, 'dar vida' is the row's option. convérsus → 'voltando-vos' (convértere → voltar), the same in 70:21, where the Latin repeats it.",
+      "options": [
+        {"label": "vivificastes", "forms": {"vivificasti": "vivificastes"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "destes a vida", "forms": {"vivificasti": "destes a vida"}, "note": "The row's option (MS1932 'deste-me novamente a vida').", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "reduxisti",
+      "refs": ["70:20"],
+      "latin": "et de abýssis terræ íterum reduxísti me",
+      "kind": "word",
+      "why": "redúcere: 'lead back' (the Greek ἀνήγαγες is 'led up'; the Latin follows its own verb). 'reconduzistes' keeps both the leading and the 're-'; with 'de novo' it keeps the Latin's own doubling (íterum + re-). 'me fizestes voltar' would echo convérsus → voltar in the same verse, falsely. 'tirar' is edúcere's (30:5). DRB 'brought me back again'; MS1932 'outra vez me tiraste'.",
+      "options": [
+        {"label": "reconduzistes", "forms": {"reduxisti": "reconduzistes"}, "note": "Ruling.", "from": "draft"},
+        {"label": "trouxestes de volta", "forms": {"reduxisti": "trouxestes de volta"}, "note": "DRB's build; plainer, 'de novo … de volta' doubled.", "from": "DRB"},
+        {"label": "fizestes subir", "forms": {"reduxisti": "fizestes subir"}, "note": "The Greek's 'led up'; not the Latin's verb.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "vasis",
+      "refs": ["70:22"],
+      "latin": "in vasis psalmi",
+      "kind": "glossary",
+      "why": "vasa (plural) → instrumentos (the row names this verse; 7:14 'instrumentos de morte'). ἐν σκεύει ψαλμοῦ: 'with instruments of the psalm' (DRB 'with the instruments of psaltery'). 'salmo' kept as the Latin's word; the instrument psaltery (psaltérium → saltério) is another word.",
+      "options": [
+        {"label": "com instrumentos de salmo", "forms": {"vasis": "com instrumentos de salmo"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "com os instrumentos do saltério", "forms": {"vasis": "com os instrumentos do saltério"}, "note": "DRB's reading; psaltérium's word.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "veritatem",
+      "refs": ["70:22"],
+      "latin": "confitébor tibi … veritátem tuam",
+      "kind": "grammar",
+      "why": "confitéri → dar graças a (D5) keeps the dative 'tibi' but cannot take the accusative 'veritátem tuam' as its object; the preposition 'pela' is supplied (MS1932 'pela tua verdade'). DRB keeps the accusative with 'confess'. The verse then has D5's verb as everywhere.",
+      "options": [
+        {"label": "pela vossa verdade", "forms": {"veritatem": "pela vossa verdade"}, "note": "Ruling: grammar (D2), MS1932.", "from": "MS1932"},
+        {"label": "a vossa verdade", "forms": {"veritatem": "a vossa verdade"}, "note": "The accusative kept; 'dar graças a vossa verdade' is not a sentence.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "sedet",
+      "refs": ["70:24"],
+      "latin": "Sed et lingua mea",
+      "kind": "word",
+      "why": "'Sed et' (ἔτι δὲ καὶ): 'but also, and moreover'. 'Mas também' keeps both particles. The rest is 34:28 ('E a minha língua meditará a vossa justiça'), copied, with 'o dia todo' after the object as 34:28 puts it; 'cum confúsi et revériti fúerint' → 'quando forem envergonhados e desonrados' (D15, the reveréri row; MS1932 the same build).",
+      "options": [
+        {"label": "Mas também", "forms": {"sedet": "Mas também"}, "note": "Ruling.", "from": "draft"},
+        {"label": "E também", "forms": {"sedet": "E também"}, "note": "MS1932 'E'; the 'but' goes.", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "70:1": "= 30:2a + 'e libertai-me'; the Te Deum's last line reads as in Ps 30.",
+    "70:2": "= 30:3a word for word ('Inclinai para mim o vosso ouvido'); 'et salva me' → 'e salvai-me' (salvum fácere / salváre → salvar).",
+    "70:3": "= 30:3b except the second place ('um lugar fortificado' for 'uma casa de refúgio'); 'para me salvardes' copied.",
+    "70:4": "erípere with a source named → arrancar (row). 'do que age contra a lei e do iníquo': two genitives, as DRB reads them; whether one man or two, the Latin leaves open and so does the repeated 'do' only partly.",
+    "70:5": "patiéntia → paciência (9:19, 61:6: the Latin's word, ὑπομονή, endurance). The Latin's doubled 'Dómine' across the mediant kept; the second colon verbless as the Latin.",
+    "70:8": "'a vossa grandeza o dia todo': the object first, as 34:28 'o vosso louvor o dia todo' (D24's 'o dia todo'); 70:15 built the same way. magnitúdo → grandeza (the magnificéntia row keeps grandeza for it); magnificéntia → magnificência in 70:21.",
+    "70:9": "proícere with no source → 'lançar fora' (16:11 'Lançando-me fora'; the row). derelínquere → abandonar (row; 37:22).",
+    "70:11": "D13 applied: 'persegui-o' carries an enclitic, so the rule-3 ban does not reach it.",
+    "70:13": "D15 'Sejam envergonhados'; detráhere + dative → difamar (D39: the row names this verse).",
+    "70:18b": "'a geração que há de vir' = 21:32.",
+    "70:19": "The objects of 70:18b 'anuncie' continue, as in the Latin (a colon of accusatives with no verb). 'quem é semelhante a vós?' = 34:10.",
+    "70:20": "'Quantas … muitas e más': the Latin's pleonasm kept; ostendere → mostrar (59:5).",
+    "70:21": "'multiplicastes a vossa' = 35:7b's build.",
+    "70:22": "psállere → entoar salmos (D25), 'a vós' first as 58:18; cíthara → cítara (row). 'Sanctus Israël' vocative → 'Santo de Israel', no 'ó' (the bare vocative, as elsewhere).",
+    "70:23": "cum cantávero (future perfect) → 'quando eu vos cantar' (future subjunctive). redímere → resgatar (row; 30:6).",
+    "70:24": "The first colon = 34:28a with 'Mas também' and 'o dia todo' added; the second = the 34:4 formula in the indicative."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from parallels (no Diurnal text for this psalm in the parallels file). 70:1–3 copied from Ps 30:2–4 wherever the Latin is identical (30:2a, 30:3a, 30:3b's shared words); 70:6b from 21:11; 70:24a from 34:28a; 'males contra mim' from 37:13; 'quem é semelhante a vós' from 34:10. Hard readings: 70:16 litteratúram / poténtias / solíus, 70:18 sénium, 70:19 usque in altíssima … magnália, 70:12 in auxílium meum réspice. Rule 3 at 70:11 'persequímini' (the row's foretold trap) met with D13's enclitic. Helper scripts: gl.py (glossary rows by Latin head), conc.py (Latin → current Portuguese across translated psalms)."},
+    {"step": "checks", "note": "Hard checks pass. 70:8 'para que eu cante' → 'para cantar' (−2 syllables; the subject is plain from 'a minha boca'). Accepted: the -ai rhyme 70:1/70:2 ('libertai-me' / 'salvai-me'), since both verses copy Ps 30 and the imperatives are the Latin's; length flags on 70:1, 70:2, 70:5, 70:6, 70:7, 70:8 (+4 after the cut), 70:13, 70:18, 70:22, 70:24 (the possessives, articles and supplied copulas Portuguese needs; 70:22b and 70:24b are fixed formulas from 58:18 and 34:4); short colons at 70:3b (the natural order, the Latin's order kept as option), 70:4a, 70:11 (the Latin's 'eum' once; 'e prendei-o' is the whole colon), 70:12b, 70:16a."}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "598f3df422e2017bc0f5bf366afe957b7724d7a7fc52f48c3b9ff32ecd7cefe0",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-22T23:07:20+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"70:10\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"dixérunt inimíci mei mihi\", \"portuguese\": \"os meus inimigos falaram de mim\", \"problem\": \"The Latin has a bare dative 'mihi' (said to/against me); 'falaram de mim' ('spoke about me') narrows it to one interpretation.\", \"fix\": \"os meus inimigos falaram contra mim\"}]},\n{\"id\": \"70:16\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"memorábor justítiæ tuæ solíus\", \"portuguese\": \"eu me lembrarei só da vossa justiça\", \"problem\": \"'solius' can agree with 'tuae' (the justice of you alone) as well as with 'justitiae'; 'só da vossa justiça' settles it. Word-for-word order keeps it open.\", \"fix\": \"Senhor, eu me lembrarei da vossa justiça somente\"}]},\n{\"id\": \"70:22\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"confitébor tibi in vasis psalmi veritátem tuam\", \"portuguese\": \"vos darei graças pela vossa verdade\", \"problem\": \"'veritatem tuam' is the direct object of 'confitebor' (I will confess/praise your truth); 'pela' turns it into the reason for thanks.\", \"fix\": \"Pois também eu, com instrumentos de salmo, vos louvarei a vossa verdade\"}]}\n],\n\"overall\": \"A faithful, close rendering: no sense, tense, person or image is lost or added, and the Septuagintal readings (litteratura, potentias Domini, vasis psalmi, custodiebant animam meam) are kept. The only points are small narrowings of the Latin's construction in 70:10, 70:16 and 70:22. Pointing marks match the Latin in every verse (single * throughout, † before * in 70:11, 70:16, 70:19).\"}\n"
+}

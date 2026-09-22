@@ -1,0 +1,31 @@
+{
+  "append": [
+    {"row": "| infígere |", "text": "**Ps 68:3, 68:15 (*Infíxus sum in limo*, *ut non infígar*) → *Estou atolado*, *para que eu não fique atolado*** — with mud as the place *cravado* is heard as nailed; *atolar* is Portuguese's verb for being stuck fast in mire (MS1932). *cravar* stays for arrows and nations; *cravado* the option. No reader remarked."},
+    {"row": "| altitúdo |", "text": "Ps 68:3b *Veni in altitúdinem maris* → *Cheguei ao alto-mar* (MS1932) — *à altura do mar* is heard as a position. The gate Latinist (minor) asked *à profundeza do mar* (the Greek's βάθη); held: it would merge with *profúndum → profundeza* (68:3, 68:16). Option."},
+    {"row": "| rápere |", "text": "Ps 68:5b *quæ non rápui, tunc exsolvébam* → *o que não arrebatei, então eu pagava* — goods as object; the stylist asked *roubei*, the ambiguity reader listed *arrebatei* as unknown again (as at 21:14); kept, *roubei* the option for Gustavo."},
+    {"row": "| scire |", "text": "Ps 68:6, 68:20 *tu scis* + noun → *vós conheceis* (γινώσκω both times) — passed all readers."},
+    {"row": "| oppróbrium / exprobráre |", "text": "**Ps 68:8, 10, 11, 20, 21 applied, and *impropérium* (68:20, 68:21; the same Greek ὀνειδισμός) shares *afronta* (D15)**; 68:10 *oppróbria exprobrántium tibi* → *as afrontas dos que vos afrontam* — the stylist's best line."},
+    {"row": "| psállere |", "text": "**Ps 68:13 departs: *in me psallébant qui bibébant vinum* → *contra mim cantavam os que bebiam vinho*** — drunkards' mocking songs; *entoavam salmos* would be heard as psalmody, and no *cantáre* stands near to collide. Passed all readers; *entoavam cantigas* the option."},
+    {"row": "| similitúdo (παραβολή, a byword) |", "text": "Ps 68:12 *factus sum illis in parábolam* (same Greek): draft 1 *uma parábola* was heard as a Gospel parable; v2 took this row's *termo de comparação*; the gate Latinist found it neutral, losing the scorn, and asked *um provérbio* as the v1 stylist had — taken in v3. 43:15 keeps its settled wording; Gustavo may want one word for both."},
+    {"row": "| comprehéndere |", "text": "Ps 68:25 *o furor da vossa ira os prenda* — applied; the stylist asked *alcance* (the row's option), refused."},
+    {"row": "| semen (offspring) |", "text": "Ps 68:37 *Et semen servórum ejus* → *E a descendência dos seus servos* — applied; the Latinist (v1, minor) asked *semente*, refused under D32."},
+    {"row": "| erípere |", "text": "Ps 68:15 *Éripe me de luto* → *Arrancai-me da lama*; 68:19 *propter inimícos meos éripe me* → *libertai-me* (no source) — the gate Latinist (minor) asked *arrancai-me* for one verb; held under the row."},
+    {"row": "| vítulus |", "text": "Ps 68:32 *super vítulum novéllum: córnua producéntem et úngulas* → *mais que um bezerro novo: * que cria chifres e cascos* (*cria* at the stylist's request; *produz* the option)."},
+    {"row": "| laboráre |", "text": "Ps 68:4 applied as foreseen; no remark."}
+  ],
+  "terms": [
+    "| profúndum (βυθός, the deep) | profundeza (*no lodo da profundeza*; *nem me engula a profundeza*) | open | Ps 68:3, 68:16; one root with 68:15 *de profúndis aquárum → das profundezas das águas*; kept apart from *abýssus → abismo* (D42). Options *o fundo*, *o profundo*. Passed all readers. |",
+    "| substántia (footing: *non est substántia*) | apoio (*e não há apoio*) | open | Ps 68:3 (left to local decision by D39); ὑπόστασις; DRB 'no sure standing'. *firmeza* rhymes with the mediant *profundeza*; options *onde firmar o pé*, *consistência* (MS1932). Passed all readers. |",
+    "| púer (servant, addressed to God) | servo (*do vosso servo*) | open | Ps 68:18; παῖς, against *servus* (δοῦλος, 68:37) — the two never meet in a verse; *menino* heard wrongly. |",
+    "| vulnus | chaga (*à dor das minhas chagas*) | open | Ps 68:27 (MS1932); kept apart from *plaga → ferida* (63:8). *feridas* the option. |",
+    "| vincti (πεπεδημένοι) | prisioneiros (*e não desdenhou os seus prisioneiros*) | open | Ps 68:34 (DRB). **67:7 *qui edúcit vinctos* has the same Greek — make the two one** (the Ps 67 literal had *atados*). Options *que estão presos*, *cativos* (the captívitas family). |",
+    "| reptília (τὰ ἕρποντα) | tudo o que rasteja (*o mar e tudo o que rasteja neles*) | open | Ps 68:35; *répteis* zoological; MS1932 *tudo o que neles se move* the option. The ambiguity reader heard creeping things in heaven too — as the Latin *in eis*. |",
+    "| esca (*in escam meam*) | na minha comida (*E deram-me fel na minha comida*) | open | Ps 68:22 (Palm Sunday Offertory); keeps *in* and pairs with *in siti mea → na minha sede*. The gate Latinist (minor) asked *por comida* (MS1932, DRB 'for my food'), held as the recorded ambiguity; option. |",
+    "| parábola (a byword: *factus sum illis in parábolam*) | provérbio (*e tornei-me para eles um provérbio*) | open | Ps 68:12 (v3; stylist and gate Latinist). 48:5 *Inclinábo in parábolam* (a riddle-saying) keeps *parábola*; 43:15 *similitúdo*, same Greek, *termo de comparação* (D43). |"
+  ],
+  "formulas": [
+    "| *Salvum me fac, Deus: quóniam intravérunt aquæ usque ad ánimam meam* (68:2; Introit Quadp3-3 verse, Tract Quad6-3, Holy Week responsory — grep) | *Salvai-me, Deus: * porque as águas entraram até a minha alma* | open — Ps 68 |",
+    "| *Zelus domus tuæ comédit me* (68:10; Holy Thursday Matins antiphon Quad6-4; Jn 2:17) | *o zelo da vossa casa me devorou* | open — Ps 68 |",
+    "| *Impropérium exspectávit cor meum, et misériam: et sustínui qui simul mecum contristarétur, et non fuit: consolántem me quæsívi, et non invéni: et dedérunt in escam meam fel, et in siti mea potavérunt me acéto* (68:21–22; Offertory of Palm Sunday and of the Sacred Heart — grep; the Offertory adds *mecum* and *consolántem me quæsívi*) | *o meu coração aguardou a afronta e a miséria: * E esperei por quem se entristecesse comigo, e não houve ninguém: * e por quem me consolasse, e não encontrei. E deram-me fel na minha comida: * e na minha sede fizeram-me beber vinagre* — the Offertory's own additions need their own words when set | open — Ps 68 |"
+  ]
+}
